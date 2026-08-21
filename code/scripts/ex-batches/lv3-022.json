@@ -1,0 +1,817 @@
+[
+ {
+  "id": "warp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "làm cong vênh; bóp méo, xuyên tạc; sợi dọc (dệt)",
+  "coll": [
+   "a time warp",
+   "warp speed",
+   "warp the wood",
+   "warp and weft"
+  ]
+ },
+ {
+  "id": "disrespect",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự thiếu tôn trọng; xem thường, vô lễ với",
+  "coll": [
+   "show disrespect",
+   "treat with disrespect",
+   "no disrespect intended",
+   "disrespect an opponent"
+  ]
+ },
+ {
+  "id": "displacement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự di dời, thay thế; độ dịch chuyển; lượng giãn nước",
+  "coll": [
+   "mass displacement",
+   "forced displacement",
+   "the displacement of people",
+   "engine displacement"
+  ]
+ },
+ {
+  "id": "universally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "phổ biến khắp nơi; bởi mọi người",
+  "coll": [
+   "universally accepted",
+   "universally recognized",
+   "universally acclaimed",
+   "almost universally"
+  ]
+ },
+ {
+  "id": "legitimacy",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính chính đáng; tính hợp pháp",
+  "coll": [
+   "political legitimacy",
+   "question the legitimacy",
+   "the legitimacy of the government",
+   "lend legitimacy to"
+  ]
+ },
+ {
+  "id": "comfy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thoải mái, êm ái",
+  "coll": [
+   "a comfy chair",
+   "comfy clothes",
+   "get comfy",
+   "comfy shoes"
+  ]
+ },
+ {
+  "id": "turbine",
+  "pos": [
+   "n"
+  ],
+  "vi": "tua-bin",
+  "coll": [
+   "a wind turbine",
+   "a gas turbine",
+   "a steam turbine",
+   "a turbine blade"
+  ]
+ },
+ {
+  "id": "atop",
+  "pos": [
+   "prep",
+   "adv"
+  ],
+  "vi": "trên đỉnh, ở trên",
+  "coll": [
+   "atop the hill",
+   "sit atop",
+   "perched atop",
+   "atop the building"
+  ]
+ },
+ {
+  "id": "shareholder",
+  "pos": [
+   "n"
+  ],
+  "vi": "cổ đông",
+  "coll": [
+   "a major shareholder",
+   "shareholder value",
+   "a shareholder meeting",
+   "the majority shareholder"
+  ]
+ },
+ {
+  "id": "leftist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người cánh tả; thuộc cánh tả",
+  "coll": [
+   "leftist politics",
+   "a leftist party",
+   "leftist ideology",
+   "a leftist government"
+  ]
+ },
+ {
+  "id": "enhancement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nâng cao, cải thiện; tính năng bổ sung",
+  "coll": [
+   "performance enhancement",
+   "image enhancement",
+   "the enhancement of quality",
+   "product enhancements"
+  ]
+ },
+ {
+  "id": "comprise",
+  "pos": [
+   "v"
+  ],
+  "vi": "bao gồm, gồm có; hợp thành",
+  "coll": [
+   "comprise three parts",
+   "be comprised of",
+   "comprise the majority",
+   "the committee comprises"
+  ]
+ },
+ {
+  "id": "beforehand",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "từ trước, trước đó",
+  "coll": [
+   "book beforehand",
+   "know beforehand",
+   "prepare beforehand",
+   "well beforehand"
+  ]
+ },
+ {
+  "id": "peasant",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nông dân nghèo; kẻ quê mùa",
+  "coll": [
+   "a peasant farmer",
+   "poor peasants",
+   "a peasant uprising",
+   "a peasant family"
+  ]
+ },
+ {
+  "id": "fuse",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "hợp nhất, nung chảy; cầu chì; ngòi nổ",
+  "coll": [
+   "blow a fuse",
+   "fuse together",
+   "a short fuse",
+   "the fuse box"
+  ]
+ },
+ {
+  "id": "sarcasm",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời mỉa mai, châm biếm",
+  "coll": [
+   "heavy sarcasm",
+   "a hint of sarcasm",
+   "detect sarcasm",
+   "dripping with sarcasm"
+  ]
+ },
+ {
+  "id": "demolition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phá dỡ, đập bỏ",
+  "coll": [
+   "demolition work",
+   "a demolition crew",
+   "scheduled for demolition",
+   "a controlled demolition"
+  ]
+ },
+ {
+  "id": "sic",
+  "pos": [
+   "adv",
+   "v"
+  ],
+  "vi": "nguyên văn như vậy; xua chó cắn",
+  "coll": [
+   "marked [sic]",
+   "sic in the original",
+   "sic the dog on someone",
+   "sic 'em"
+  ]
+ },
+ {
+  "id": "empirical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thực nghiệm, dựa trên quan sát",
+  "coll": [
+   "empirical evidence",
+   "empirical research",
+   "empirical data",
+   "an empirical study"
+  ]
+ },
+ {
+  "id": "sexist",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phân biệt giới tính; kẻ kỳ thị giới tính",
+  "coll": [
+   "sexist remarks",
+   "a sexist attitude",
+   "blatantly sexist",
+   "sexist language"
+  ]
+ },
+ {
+  "id": "sabotage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự phá hoại ngầm; phá hoại, ngầm phá",
+  "coll": [
+   "an act of sabotage",
+   "economic sabotage",
+   "sabotage the talks",
+   "self-sabotage"
+  ]
+ },
+ {
+  "id": "doo",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "phân, cứt (chó); tiếng đệm khi hát",
+  "coll": [
+   "doo-doo",
+   "doo-wop music",
+   "dog doo",
+   "a pile of doo"
+  ]
+ },
+ {
+  "id": "bladder",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bàng quang; túi chứa khí",
+  "coll": [
+   "empty your bladder",
+   "a bladder infection",
+   "a full bladder",
+   "bladder control"
+  ]
+ },
+ {
+  "id": "atheist",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "người vô thần; vô thần",
+  "coll": [
+   "a committed atheist",
+   "an avowed atheist",
+   "atheist beliefs",
+   "become an atheist"
+  ]
+ },
+ {
+  "id": "aquatic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sống dưới nước, thủy sinh; cây thủy sinh",
+  "coll": [
+   "aquatic life",
+   "aquatic plants",
+   "an aquatic ecosystem",
+   "aquatic sports"
+  ]
+ },
+ {
+  "id": "metabolic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc trao đổi chất",
+  "coll": [
+   "metabolic rate",
+   "metabolic syndrome",
+   "a metabolic process",
+   "a metabolic disorder"
+  ]
+ },
+ {
+  "id": "vile",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đê tiện, hèn hạ; kinh tởm, khó chịu",
+  "coll": [
+   "a vile crime",
+   "vile weather",
+   "vile behaviour",
+   "a vile smell"
+  ]
+ },
+ {
+  "id": "feud",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mối thù dai dẳng; thù hằn, hiềm khích nhau",
+  "coll": [
+   "a family feud",
+   "a bitter feud",
+   "feud with a rival",
+   "a long-running feud"
+  ]
+ },
+ {
+  "id": "presume",
+  "pos": [
+   "v"
+  ],
+  "vi": "cho là, đoán chừng; dám cả gan",
+  "coll": [
+   "presume innocence",
+   "I presume so",
+   "presume to know",
+   "presumed dead"
+  ]
+ },
+ {
+  "id": "conceptual",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc khái niệm; mang tính ý niệm",
+  "coll": [
+   "a conceptual framework",
+   "conceptual art",
+   "a conceptual model",
+   "conceptual understanding"
+  ]
+ },
+ {
+  "id": "ambient",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xung quanh, môi trường; tạo không khí (nhạc, ánh sáng)",
+  "coll": [
+   "ambient temperature",
+   "ambient light",
+   "ambient noise",
+   "ambient music"
+  ]
+ },
+ {
+  "id": "bandwidth",
+  "pos": [
+   "n"
+  ],
+  "vi": "băng thông; quỹ thời gian, sức lực",
+  "coll": [
+   "high bandwidth",
+   "network bandwidth",
+   "limited bandwidth",
+   "bandwidth usage"
+  ]
+ },
+ {
+  "id": "undefeated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bất bại, chưa từng thua",
+  "coll": [
+   "remain undefeated",
+   "an undefeated season",
+   "an undefeated champion",
+   "an undefeated record"
+  ]
+ },
+ {
+  "id": "meth",
+  "pos": [
+   "n"
+  ],
+  "vi": "ma túy đá",
+  "coll": [
+   "crystal meth",
+   "a meth addict",
+   "a meth lab",
+   "smoke meth"
+  ]
+ },
+ {
+  "id": "computational",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc tính toán, điện toán",
+  "coll": [
+   "computational power",
+   "computational linguistics",
+   "computational biology",
+   "computational cost"
+  ]
+ },
+ {
+  "id": "heavyweight",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "hạng nặng (võ, quyền anh); nhân vật tầm cỡ; nặng ký",
+  "coll": [
+   "a heavyweight champion",
+   "heavyweight boxing",
+   "a political heavyweight",
+   "the heavyweight title"
+  ]
+ },
+ {
+  "id": "differentiate",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phân biệt, phân định; tạo khác biệt; lấy đạo hàm",
+  "coll": [
+   "differentiate between them",
+   "differentiate a product",
+   "hard to differentiate",
+   "differentiate cells"
+  ]
+ },
+ {
+  "id": "missionaries",
+  "pos": [
+   "n"
+  ],
+  "vi": "các nhà truyền giáo",
+  "coll": [
+   "Christian missionaries",
+   "send missionaries",
+   "foreign missionaries",
+   "missionaries abroad"
+  ]
+ },
+ {
+  "id": "militant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hiếu chiến, quá khích; phần tử vũ trang",
+  "coll": [
+   "a militant group",
+   "militant activists",
+   "an armed militant",
+   "militant trade unionists"
+  ]
+ },
+ {
+  "id": "paperback",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "sách bìa mềm",
+  "coll": [
+   "a paperback edition",
+   "out in paperback",
+   "a paperback book",
+   "a cheap paperback"
+  ]
+ },
+ {
+  "id": "downstream",
+  "pos": [
+   "adj",
+   "adv",
+   "v"
+  ],
+  "vi": "xuôi dòng, phía hạ lưu; ở khâu sau, về sau",
+  "coll": [
+   "downstream from the dam",
+   "downstream effects",
+   "flow downstream",
+   "downstream industries"
+  ]
+ },
+ {
+  "id": "vastly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vô cùng, hết sức; hơn hẳn",
+  "coll": [
+   "vastly different",
+   "vastly improved",
+   "vastly superior",
+   "vastly overrated"
+  ]
+ },
+ {
+  "id": "regulator",
+  "pos": [
+   "n"
+  ],
+  "vi": "cơ quan quản lý, giám sát; bộ điều chỉnh",
+  "coll": [
+   "a financial regulator",
+   "the industry regulator",
+   "a pressure regulator",
+   "the regulator approved"
+  ]
+ },
+ {
+  "id": "unanimously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách nhất trí; đồng lòng tán thành",
+  "coll": [
+   "vote unanimously",
+   "unanimously approved",
+   "unanimously agreed",
+   "unanimously elected"
+  ]
+ },
+ {
+  "id": "bipolar",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lưỡng cực; rối loạn lưỡng cực",
+  "coll": [
+   "bipolar disorder",
+   "a bipolar world",
+   "a bipolar transistor",
+   "diagnosed as bipolar"
+  ]
+ },
+ {
+  "id": "shutdown",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ngừng hoạt động; sự tắt máy; việc đóng cửa chính phủ",
+  "coll": [
+   "a government shutdown",
+   "an emergency shutdown",
+   "a system shutdown",
+   "a plant shutdown"
+  ]
+ },
+ {
+  "id": "midfield",
+  "pos": [
+   "n"
+  ],
+  "vi": "hàng tiền vệ; khu giữa sân",
+  "coll": [
+   "control the midfield",
+   "a midfield player",
+   "in midfield",
+   "a midfield general"
+  ]
+ },
+ {
+  "id": "filmmaker",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà làm phim",
+  "coll": [
+   "an independent filmmaker",
+   "a documentary filmmaker",
+   "an award-winning filmmaker",
+   "aspiring filmmakers"
+  ]
+ },
+ {
+  "id": "resin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhựa cây, nhựa thông; nhựa tổng hợp",
+  "coll": [
+   "epoxy resin",
+   "synthetic resin",
+   "pine resin",
+   "a resin coating"
+  ]
+ },
+ {
+  "id": "pigeon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chim bồ câu; kẻ khờ dễ bị lừa",
+  "coll": [
+   "a homing pigeon",
+   "a carrier pigeon",
+   "feed the pigeons",
+   "a pigeon coop"
+  ]
+ },
+ {
+  "id": "hostility",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thù địch; chiến sự, giao tranh",
+  "coll": [
+   "open hostility",
+   "hostility towards outsiders",
+   "the outbreak of hostilities",
+   "cease hostilities"
+  ]
+ },
+ {
+  "id": "tailor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thợ may đo; may đo, thiết kế riêng",
+  "coll": [
+   "a tailor-made suit",
+   "tailor the course to students",
+   "a Savile Row tailor",
+   "tailor your CV"
+  ]
+ },
+ {
+  "id": "reminiscent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "gợi nhớ đến; đầy hoài niệm",
+  "coll": [
+   "reminiscent of the past",
+   "strongly reminiscent of",
+   "reminiscent of his father",
+   "a reminiscent smile"
+  ]
+ },
+ {
+  "id": "cavity",
+  "pos": [
+   "n"
+  ],
+  "vi": "hốc, khoang rỗng; lỗ sâu răng",
+  "coll": [
+   "the abdominal cavity",
+   "a dental cavity",
+   "fill a cavity",
+   "the nasal cavity"
+  ]
+ },
+ {
+  "id": "sibling",
+  "pos": [
+   "n"
+  ],
+  "vi": "anh chị em ruột",
+  "coll": [
+   "a younger sibling",
+   "sibling rivalry",
+   "an older sibling",
+   "siblings and parents"
+  ]
+ },
+ {
+  "id": "alloy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hợp kim; pha trộn kim loại",
+  "coll": [
+   "an aluminium alloy",
+   "alloy wheels",
+   "a steel alloy",
+   "alloy composition"
+  ]
+ },
+ {
+  "id": "freeway",
+  "pos": [
+   "n"
+  ],
+  "vi": "đường cao tốc",
+  "coll": [
+   "on the freeway",
+   "a freeway exit",
+   "freeway traffic",
+   "merge onto the freeway"
+  ]
+ },
+ {
+  "id": "disgust",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm ghê tởm, làm phát tởm; sự ghê tởm",
+  "coll": [
+   "in disgust",
+   "a look of disgust",
+   "express disgust",
+   "disgust at the news"
+  ]
+ },
+ {
+  "id": "paradigm",
+  "pos": [
+   "n"
+  ],
+  "vi": "mô thức, hệ hình; hình mẫu điển hình",
+  "coll": [
+   "a paradigm shift",
+   "the dominant paradigm",
+   "a new paradigm",
+   "within this paradigm"
+  ]
+ },
+ {
+  "id": "knockout",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "cú hạ đo ván (KO); vòng loại trực tiếp; người cực đẹp",
+  "coll": [
+   "win by knockout",
+   "a knockout blow",
+   "the knockout stage",
+   "a technical knockout"
+  ]
+ }
+]

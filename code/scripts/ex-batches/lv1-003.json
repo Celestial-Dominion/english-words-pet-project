@@ -1,0 +1,854 @@
+[
+ {
+  "id": "active",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "năng động; tích cực; đang hoạt động",
+  "coll": [
+   "active role",
+   "physically active",
+   "active volcano",
+   "active member",
+   "active lifestyle"
+  ]
+ },
+ {
+  "id": "administration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quản lý; chính quyền; việc hành chính",
+  "coll": [
+   "business administration",
+   "the current administration",
+   "administration costs",
+   "public administration"
+  ]
+ },
+ {
+  "id": "approach",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cách tiếp cận; tiếp cận; đến gần",
+  "coll": [
+   "new approach",
+   "approach a problem",
+   "take a different approach",
+   "approach to teaching",
+   "winter approaches"
+  ]
+ },
+ {
+  "id": "cancer",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "ung thư",
+  "coll": [
+   "lung cancer",
+   "breast cancer",
+   "cancer treatment",
+   "cancer patients",
+   "cause cancer"
+  ]
+ },
+ {
+  "id": "civil",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dân sự; công dân; lịch sự",
+  "coll": [
+   "civil war",
+   "civil rights",
+   "civil society",
+   "civil servant",
+   "civil engineering"
+  ]
+ },
+ {
+  "id": "defense",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự phòng thủ; quốc phòng; sự bào chữa",
+  "coll": [
+   "self-defense",
+   "national defense",
+   "defense budget",
+   "in defense of",
+   "defense lawyer"
+  ]
+ },
+ {
+  "id": "independent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "độc lập",
+  "coll": [
+   "fully independent",
+   "independent school",
+   "independent of each other",
+   "financially independent",
+   "independent country"
+  ]
+ },
+ {
+  "id": "none",
+  "pos": [
+   "pron",
+   "det",
+   "adv",
+   "n"
+  ],
+  "vi": "không ai; không cái nào; không chút nào",
+  "coll": [
+   "none of us",
+   "none of the above",
+   "none at all",
+   "second to none"
+  ]
+ },
+ {
+  "id": "awesome",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tuyệt vời; đáng kính sợ",
+  "coll": [
+   "awesome experience",
+   "totally awesome",
+   "awesome power",
+   "an awesome sight"
+  ]
+ },
+ {
+  "id": "commercial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thương mại; phim quảng cáo",
+  "coll": [
+   "commercial success",
+   "commercial break",
+   "TV commercial",
+   "commercial use",
+   "commercial bank"
+  ]
+ },
+ {
+  "id": "first lady",
+  "pos": [
+   "n"
+  ],
+  "vi": "đệ nhất phu nhân",
+  "coll": [
+   "the First Lady",
+   "former first lady",
+   "the first lady of the United States"
+  ]
+ },
+ {
+  "id": "operation",
+  "pos": [
+   "n"
+  ],
+  "vi": "ca phẫu thuật; hoạt động; chiến dịch",
+  "coll": [
+   "have an operation",
+   "military operation",
+   "rescue operation",
+   "in operation",
+   "undergo an operation"
+  ]
+ },
+ {
+  "id": "organization",
+  "pos": [
+   "n"
+  ],
+  "vi": "tổ chức; sự sắp xếp",
+  "coll": [
+   "international organization",
+   "non-profit organization",
+   "charity organization",
+   "the World Health Organization"
+  ]
+ },
+ {
+  "id": "protect",
+  "pos": [
+   "v"
+  ],
+  "vi": "bảo vệ; che chở",
+  "coll": [
+   "protect the environment",
+   "protect children",
+   "protect against disease",
+   "protect your rights",
+   "protect from harm"
+  ]
+ },
+ {
+  "id": "analysis",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân tích; bản phân tích",
+  "coll": [
+   "data analysis",
+   "detailed analysis",
+   "carry out an analysis",
+   "in the final analysis"
+  ]
+ },
+ {
+  "id": "first floor",
+  "pos": [
+   "n"
+  ],
+  "vi": "tầng trệt (Mỹ); tầng hai (Anh)",
+  "coll": [
+   "on the first floor",
+   "first floor apartment",
+   "the first floor of the building"
+  ]
+ },
+ {
+  "id": "marriage",
+  "pos": [
+   "n"
+  ],
+  "vi": "hôn nhân; đám cưới",
+  "coll": [
+   "happy marriage",
+   "arranged marriage",
+   "same-sex marriage",
+   "marriage certificate",
+   "propose marriage"
+  ]
+ },
+ {
+  "id": "skin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "da; vỏ; lột da",
+  "coll": [
+   "dry skin",
+   "skin care",
+   "skin cancer",
+   "dark skin",
+   "banana skin"
+  ]
+ },
+ {
+  "id": "thus",
+  "pos": [
+   "adv"
+  ],
+  "vi": "do đó; như vậy; theo cách đó",
+  "coll": [
+   "thus far",
+   "and thus",
+   "thus ensuring that"
+  ]
+ },
+ {
+  "id": "damage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thiệt hại; làm hư hại",
+  "coll": [
+   "cause damage",
+   "brain damage",
+   "damage to property",
+   "serious damage",
+   "damage your reputation"
+  ]
+ },
+ {
+  "id": "directly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trực tiếp; thẳng; ngay",
+  "coll": [
+   "directly involved",
+   "directly opposite",
+   "speak directly to",
+   "directly related to"
+  ]
+ },
+ {
+  "id": "disease",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bệnh; bệnh tật",
+  "coll": [
+   "heart disease",
+   "infectious disease",
+   "cure a disease",
+   "spread of disease",
+   "chronic disease"
+  ]
+ },
+ {
+  "id": "gay",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "đồng tính; vui tươi (cũ)",
+  "coll": [
+   "gay men",
+   "gay rights",
+   "gay marriage",
+   "gay community"
+  ]
+ },
+ {
+  "id": "professor",
+  "pos": [
+   "n"
+  ],
+  "vi": "giáo sư",
+  "coll": [
+   "university professor",
+   "professor of economics",
+   "assistant professor",
+   "visiting professor"
+  ]
+ },
+ {
+  "id": "common sense",
+  "pos": [
+   "n"
+  ],
+  "vi": "lẽ thường; sự khôn ngoan đời thường",
+  "coll": [
+   "use your common sense",
+   "a matter of common sense",
+   "common sense approach",
+   "lack of common sense"
+  ]
+ },
+ {
+  "id": "effective",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hiệu quả; có hiệu lực",
+  "coll": [
+   "highly effective",
+   "effective way",
+   "effective treatment",
+   "cost-effective",
+   "effective immediately"
+  ]
+ },
+ {
+  "id": "heart attack",
+  "pos": [
+   "n"
+  ],
+  "vi": "cơn đau tim; nhồi máu cơ tim",
+  "coll": [
+   "have a heart attack",
+   "suffer a heart attack",
+   "die of a heart attack",
+   "massive heart attack"
+  ]
+ },
+ {
+  "id": "highly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "rất, hết sức; đánh giá cao",
+  "coll": [
+   "highly recommended",
+   "highly unlikely",
+   "highly skilled",
+   "think highly of",
+   "highly effective"
+  ]
+ },
+ {
+  "id": "reality",
+  "pos": [
+   "n"
+  ],
+  "vi": "thực tế; hiện thực",
+  "coll": [
+   "in reality",
+   "virtual reality",
+   "become a reality",
+   "reality TV",
+   "face reality"
+  ]
+ },
+ {
+  "id": "agreement",
+  "pos": [
+   "n"
+  ],
+  "vi": "thỏa thuận; sự đồng ý",
+  "coll": [
+   "reach an agreement",
+   "sign an agreement",
+   "in agreement with",
+   "peace agreement",
+   "trade agreement"
+  ]
+ },
+ {
+  "id": "bank account",
+  "pos": [
+   "n"
+  ],
+  "vi": "tài khoản ngân hàng",
+  "coll": [
+   "open a bank account",
+   "bank account number",
+   "money in your bank account"
+  ]
+ },
+ {
+  "id": "christian",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "theo đạo Cơ Đốc; tín đồ Cơ Đốc giáo",
+  "coll": [
+   "Christian faith",
+   "Christian church",
+   "Christian values",
+   "devout Christian"
+  ]
+ },
+ {
+  "id": "comment",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bình luận; nhận xét",
+  "coll": [
+   "make a comment",
+   "no comment",
+   "leave a comment",
+   "comment on the situation",
+   "positive comments"
+  ]
+ },
+ {
+  "id": "equipment",
+  "pos": [
+   "n"
+  ],
+  "vi": "thiết bị; dụng cụ",
+  "coll": [
+   "sports equipment",
+   "office equipment",
+   "electrical equipment",
+   "a piece of equipment",
+   "safety equipment"
+  ]
+ },
+ {
+  "id": "eventually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cuối cùng; rốt cuộc",
+  "coll": [
+   "eventually became",
+   "eventually led to",
+   "eventually agreed"
+  ]
+ },
+ {
+  "id": "holy",
+  "pos": [
+   "adj",
+   "intj",
+   "n"
+  ],
+  "vi": "linh thiêng; thần thánh; thánh",
+  "coll": [
+   "the Holy Bible",
+   "holy war",
+   "holy water",
+   "holy place",
+   "the Holy Spirit"
+  ]
+ },
+ {
+  "id": "killing",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "vụ giết người; sự giết chóc",
+  "coll": [
+   "mass killings",
+   "make a killing",
+   "the killing of civilians",
+   "brutal killing"
+  ]
+ },
+ {
+  "id": "otherwise",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "nếu không thì; khác; về mặt khác",
+  "coll": [
+   "unless otherwise stated",
+   "otherwise known as",
+   "or otherwise",
+   "would otherwise be"
+  ]
+ },
+ {
+  "id": "responsible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chịu trách nhiệm; có trách nhiệm; là nguyên nhân",
+  "coll": [
+   "responsible for the accident",
+   "hold someone responsible",
+   "socially responsible",
+   "a responsible adult"
+  ]
+ },
+ {
+  "id": "theory",
+  "pos": [
+   "n"
+  ],
+  "vi": "lý thuyết; học thuyết; giả thuyết",
+  "coll": [
+   "in theory",
+   "the theory of evolution",
+   "scientific theory",
+   "conspiracy theory",
+   "prove a theory"
+  ]
+ },
+ {
+  "id": "cell",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tế bào; phòng giam; pin",
+  "coll": [
+   "blood cells",
+   "prison cell",
+   "cell phone",
+   "cancer cells",
+   "stem cells"
+  ]
+ },
+ {
+  "id": "economy",
+  "pos": [
+   "n",
+   "adj",
+   "adv"
+  ],
+  "vi": "nền kinh tế; sự tiết kiệm",
+  "coll": [
+   "global economy",
+   "market economy",
+   "boost the economy",
+   "economy class",
+   "the local economy"
+  ]
+ },
+ {
+  "id": "foot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bàn chân; chân (núi, trang); đơn vị đo foot",
+  "coll": [
+   "on foot",
+   "at the foot of the mountain",
+   "set foot in",
+   "from head to foot"
+  ]
+ },
+ {
+  "id": "mass",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "hàng loạt, đại chúng; khối, đống; thánh lễ",
+  "coll": [
+   "mass production",
+   "mass media",
+   "weapons of mass destruction",
+   "attend Mass"
+  ]
+ },
+ {
+  "id": "mission",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhiệm vụ; sứ mệnh; phái đoàn",
+  "coll": [
+   "rescue mission",
+   "mission accomplished",
+   "space mission",
+   "on a mission",
+   "mission statement"
+  ]
+ },
+ {
+  "id": "politics",
+  "pos": [
+   "n"
+  ],
+  "vi": "chính trị",
+  "coll": [
+   "get involved in politics",
+   "local politics",
+   "office politics",
+   "party politics",
+   "talk politics"
+  ]
+ },
+ {
+  "id": "question mark",
+  "pos": [
+   "n",
+   "phr"
+  ],
+  "vi": "dấu chấm hỏi; dấu hỏi (điều nghi ngờ)",
+  "coll": [
+   "put a question mark",
+   "a question mark over his future",
+   "end with a question mark"
+  ]
+ },
+ {
+  "id": "status",
+  "pos": [
+   "n"
+  ],
+  "vi": "địa vị; tình trạng; trạng thái",
+  "coll": [
+   "social status",
+   "marital status",
+   "status symbol",
+   "status update",
+   "legal status"
+  ]
+ },
+ {
+  "id": "application",
+  "pos": [
+   "n"
+  ],
+  "vi": "đơn xin; ứng dụng; sự áp dụng",
+  "coll": [
+   "job application",
+   "application form",
+   "fill in an application",
+   "mobile application",
+   "practical application"
+  ]
+ },
+ {
+  "id": "complex",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "phức tạp; khu phức hợp; mặc cảm",
+  "coll": [
+   "complex issue",
+   "complex system",
+   "sports complex",
+   "inferiority complex",
+   "housing complex"
+  ]
+ },
+ {
+  "id": "location",
+  "pos": [
+   "n"
+  ],
+  "vi": "vị trí; địa điểm",
+  "coll": [
+   "exact location",
+   "central location",
+   "prime location",
+   "on location",
+   "location of the hotel"
+  ]
+ },
+ {
+  "id": "channel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kênh; eo biển; hướng (sức lực) vào",
+  "coll": [
+   "TV channel",
+   "change the channel",
+   "the English Channel",
+   "communication channels",
+   "channel your energy"
+  ]
+ },
+ {
+  "id": "distance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khoảng cách; giữ khoảng cách",
+  "coll": [
+   "long distance",
+   "in the distance",
+   "keep your distance",
+   "within walking distance",
+   "distance learning"
+  ]
+ },
+ {
+  "id": "finding",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phát hiện; kết quả nghiên cứu; phán quyết",
+  "coll": [
+   "research findings",
+   "key findings",
+   "the findings of the study",
+   "report the findings"
+  ]
+ },
+ {
+  "id": "northern",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phía bắc; miền bắc",
+  "coll": [
+   "Northern Ireland",
+   "the northern hemisphere",
+   "northern England",
+   "the northern lights"
+  ]
+ },
+ {
+  "id": "protection",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bảo vệ",
+  "coll": [
+   "environmental protection",
+   "data protection",
+   "sun protection",
+   "protection against infection",
+   "witness protection"
+  ]
+ },
+ {
+  "id": "religious",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tôn giáo; sùng đạo",
+  "coll": [
+   "religious beliefs",
+   "religious freedom",
+   "religious groups",
+   "deeply religious",
+   "religious education"
+  ]
+ },
+ {
+  "id": "demand",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhu cầu; yêu cầu; đòi hỏi",
+  "coll": [
+   "in demand",
+   "supply and demand",
+   "meet the demand",
+   "demand an explanation",
+   "high demand"
+  ]
+ },
+ {
+  "id": "engine",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "động cơ; đầu máy",
+  "coll": [
+   "car engine",
+   "search engine",
+   "start the engine",
+   "jet engine",
+   "fire engine"
+  ]
+ },
+ {
+  "id": "southern",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phía nam; miền nam",
+  "coll": [
+   "the southern hemisphere",
+   "southern Europe",
+   "southern accent",
+   "the southern coast"
+  ]
+ }
+]

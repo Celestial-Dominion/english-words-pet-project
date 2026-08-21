@@ -1,0 +1,828 @@
+[
+ {
+  "id": "compliment",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lời khen; khen ngợi",
+  "coll": [
+   "pay someone a compliment",
+   "take it as a compliment",
+   "return the compliment",
+   "fish for compliments"
+  ]
+ },
+ {
+  "id": "continually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "liên tục; không ngừng",
+  "coll": [
+   "continually changing",
+   "continually improve",
+   "continually growing",
+   "continually updated"
+  ]
+ },
+ {
+  "id": "enjoyable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thú vị; vui, dễ chịu",
+  "coll": [
+   "an enjoyable experience",
+   "thoroughly enjoyable",
+   "an enjoyable evening",
+   "make learning enjoyable"
+  ]
+ },
+ {
+  "id": "fountain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đài phun nước; nguồn (tri thức)",
+  "coll": [
+   "water fountain",
+   "drinking fountain",
+   "fountain pen",
+   "the fountain of youth"
+  ]
+ },
+ {
+  "id": "glance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái liếc nhìn; liếc nhìn",
+  "coll": [
+   "at first glance",
+   "a quick glance",
+   "exchange glances",
+   "glance at his watch"
+  ]
+ },
+ {
+  "id": "liberation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giải phóng",
+  "coll": [
+   "women's liberation",
+   "liberation movement",
+   "national liberation",
+   "a sense of liberation"
+  ]
+ },
+ {
+  "id": "nationalist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người theo chủ nghĩa dân tộc; dân tộc chủ nghĩa",
+  "coll": [
+   "nationalist movement",
+   "nationalist party",
+   "nationalist sentiment",
+   "Scottish nationalists"
+  ]
+ },
+ {
+  "id": "nickname",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "biệt danh; đặt biệt danh",
+  "coll": [
+   "earn the nickname",
+   "give someone a nickname",
+   "an affectionate nickname",
+   "known by the nickname"
+  ]
+ },
+ {
+  "id": "prosperity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thịnh vượng; sự phồn vinh",
+  "coll": [
+   "economic prosperity",
+   "peace and prosperity",
+   "bring prosperity",
+   "a period of prosperity"
+  ]
+ },
+ {
+  "id": "shortage",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thiếu hụt; tình trạng khan hiếm",
+  "coll": [
+   "food shortage",
+   "water shortage",
+   "labor shortage",
+   "severe shortage"
+  ]
+ },
+ {
+  "id": "sphere",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hình cầu, quả cầu; lĩnh vực, phạm vi",
+  "coll": [
+   "sphere of influence",
+   "the public sphere",
+   "the political sphere",
+   "a glass sphere"
+  ]
+ },
+ {
+  "id": "stare",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhìn chằm chằm; cái nhìn chằm chằm",
+  "coll": [
+   "stare at the screen",
+   "stare blankly",
+   "stare into space",
+   "stare in disbelief"
+  ]
+ },
+ {
+  "id": "terribly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "rất, hết sức; tệ hại; khủng khiếp (cũ)",
+  "coll": [
+   "terribly sorry",
+   "terribly wrong",
+   "miss you terribly",
+   "terribly important"
+  ]
+ },
+ {
+  "id": "thriller",
+  "pos": [
+   "n"
+  ],
+  "vi": "phim giật gân; truyện trinh thám gay cấn",
+  "coll": [
+   "psychological thriller",
+   "crime thriller",
+   "a gripping thriller",
+   "thriller movie"
+  ]
+ },
+ {
+  "id": "toss",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "ném, tung; sự tung đồng xu",
+  "coll": [
+   "toss a coin",
+   "toss a salad",
+   "toss and turn",
+   "toss the ball"
+  ]
+ },
+ {
+  "id": "turtle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rùa; rùa biển",
+  "coll": [
+   "sea turtle",
+   "turtle shell",
+   "snapping turtle",
+   "turtle eggs"
+  ]
+ },
+ {
+  "id": "conclude",
+  "pos": [
+   "v"
+  ],
+  "vi": "kết luận; kết thúc",
+  "coll": [
+   "conclude that",
+   "conclude an agreement",
+   "the study concluded",
+   "conclude with a song"
+  ]
+ },
+ {
+  "id": "gesture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cử chỉ; điệu bộ; ra hiệu",
+  "coll": [
+   "make a gesture",
+   "a kind gesture",
+   "hand gestures",
+   "a gesture of goodwill"
+  ]
+ },
+ {
+  "id": "historian",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà sử học; sử gia",
+  "coll": [
+   "art historian",
+   "historians believe",
+   "a leading historian",
+   "military historian"
+  ]
+ },
+ {
+  "id": "moisture",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ ẩm; hơi ẩm",
+  "coll": [
+   "moisture content",
+   "absorb moisture",
+   "retain moisture",
+   "moisture in the air"
+  ]
+ },
+ {
+  "id": "monument",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đài tưởng niệm; di tích; tượng đài",
+  "coll": [
+   "national monument",
+   "ancient monuments",
+   "erect a monument",
+   "historic monument"
+  ]
+ },
+ {
+  "id": "peanut",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đậu phộng; lạc",
+  "coll": [
+   "peanut butter",
+   "peanut allergy",
+   "roasted peanuts",
+   "peanut oil"
+  ]
+ },
+ {
+  "id": "rebuild",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "xây dựng lại; tái thiết",
+  "coll": [
+   "rebuild the city",
+   "rebuild trust",
+   "rebuild their lives",
+   "rebuild the economy"
+  ]
+ },
+ {
+  "id": "relaxing",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "thư giãn; dễ chịu",
+  "coll": [
+   "a relaxing bath",
+   "relaxing music",
+   "a relaxing weekend",
+   "relaxing atmosphere"
+  ]
+ },
+ {
+  "id": "sensation",
+  "pos": [
+   "n"
+  ],
+  "vi": "cảm giác; sự chấn động, hiện tượng gây sốt",
+  "coll": [
+   "a burning sensation",
+   "cause a sensation",
+   "an overnight sensation",
+   "a tingling sensation"
+  ]
+ },
+ {
+  "id": "slope",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "adv"
+  ],
+  "vi": "dốc, sườn dốc; độ dốc; nghiêng",
+  "coll": [
+   "steep slope",
+   "ski slope",
+   "gentle slope",
+   "slippery slope"
+  ]
+ },
+ {
+  "id": "terrific",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tuyệt vời; dữ dội, kinh khủng (mức độ)",
+  "coll": [
+   "a terrific idea",
+   "look terrific",
+   "do a terrific job",
+   "at a terrific speed"
+  ]
+ },
+ {
+  "id": "unemployed",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thất nghiệp; người thất nghiệp",
+  "coll": [
+   "unemployed workers",
+   "become unemployed",
+   "the long-term unemployed",
+   "unemployed youth"
+  ]
+ },
+ {
+  "id": "unite",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đoàn kết; hợp nhất; thống nhất",
+  "coll": [
+   "unite the country",
+   "unite against a common enemy",
+   "unite behind the leader",
+   "workers unite"
+  ]
+ },
+ {
+  "id": "vet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bác sĩ thú y; thẩm tra kỹ; cựu binh (Mỹ)",
+  "coll": [
+   "take your pet to the vet",
+   "carefully vet",
+   "vet the candidates",
+   "a war vet"
+  ]
+ },
+ {
+  "id": "wagon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xe ngựa chở hàng; toa xe",
+  "coll": [
+   "covered wagon",
+   "station wagon",
+   "wagon wheel",
+   "on the wagon"
+  ]
+ },
+ {
+  "id": "biography",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiểu sử",
+  "coll": [
+   "write a biography",
+   "authorized biography",
+   "a biography of Lincoln",
+   "a short biography"
+  ]
+ },
+ {
+  "id": "cod",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "cá tuyết",
+  "coll": [
+   "cod liver oil",
+   "fresh cod",
+   "Atlantic cod",
+   "cod fillet"
+  ]
+ },
+ {
+  "id": "counseling",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tư vấn tâm lý; sự tham vấn",
+  "coll": [
+   "marriage counseling",
+   "grief counseling",
+   "counseling services",
+   "seek counseling"
+  ]
+ },
+ {
+  "id": "destructive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phá hoại; hủy diệt; tàn phá",
+  "coll": [
+   "destructive power",
+   "destructive behavior",
+   "destructive force",
+   "highly destructive"
+  ]
+ },
+ {
+  "id": "emerge",
+  "pos": [
+   "v"
+  ],
+  "vi": "xuất hiện; nổi lên; lộ ra",
+  "coll": [
+   "emerge from the shadows",
+   "emerge as a leader",
+   "new details emerge",
+   "emerge victorious"
+  ]
+ },
+ {
+  "id": "farewell",
+  "pos": [
+   "n",
+   "adj",
+   "intj",
+   "v"
+  ],
+  "vi": "lời tạm biệt; sự từ biệt",
+  "coll": [
+   "farewell party",
+   "bid farewell",
+   "a fond farewell",
+   "farewell speech"
+  ]
+ },
+ {
+  "id": "fond",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "yêu thích, yêu mến; trìu mến",
+  "coll": [
+   "fond of children",
+   "fond memories",
+   "a fond farewell",
+   "grow fond of"
+  ]
+ },
+ {
+  "id": "foolish",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ngu ngốc; dại dột; khờ dại",
+  "coll": [
+   "a foolish mistake",
+   "a foolish decision",
+   "feel foolish",
+   "foolish enough to believe"
+  ]
+ },
+ {
+  "id": "gifted",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "có năng khiếu; tài năng thiên bẩm",
+  "coll": [
+   "gifted children",
+   "a gifted musician",
+   "academically gifted",
+   "gifted and talented"
+  ]
+ },
+ {
+  "id": "landlord",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chủ nhà cho thuê; chủ trọ",
+  "coll": [
+   "pay the landlord",
+   "landlord and tenant",
+   "private landlord",
+   "the landlord raised the rent"
+  ]
+ },
+ {
+  "id": "misery",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khốn khổ; nỗi đau khổ; cảnh nghèo khổ",
+  "coll": [
+   "live in misery",
+   "put him out of his misery",
+   "misery and suffering",
+   "sheer misery"
+  ]
+ },
+ {
+  "id": "moss",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rêu",
+  "coll": [
+   "covered in moss",
+   "moss growing on the rocks",
+   "a rolling stone gathers no moss"
+  ]
+ },
+ {
+  "id": "positively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách tích cực; chắc chắn; thực sự",
+  "coll": [
+   "think positively",
+   "respond positively",
+   "positively charged",
+   "positively brilliant"
+  ]
+ },
+ {
+  "id": "trim",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "adv"
+  ],
+  "vi": "sự cắt tỉa; cắt tỉa, cắt giảm; gọn gàng",
+  "coll": [
+   "trim the hedges",
+   "trim your hair",
+   "trim the budget",
+   "trim the fat"
+  ]
+ },
+ {
+  "id": "voyage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuyến đi biển; hành trình dài",
+  "coll": [
+   "maiden voyage",
+   "a long voyage",
+   "voyage of discovery",
+   "embark on a voyage"
+  ]
+ },
+ {
+  "id": "air conditioning",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "điều hòa không khí; máy lạnh",
+  "coll": [
+   "turn on the air conditioning",
+   "central air conditioning",
+   "air conditioning system",
+   "the air conditioning broke down"
+  ]
+ },
+ {
+  "id": "attachment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự gắn bó; tệp đính kèm; phụ kiện gắn thêm",
+  "coll": [
+   "email attachment",
+   "emotional attachment",
+   "form an attachment",
+   "open the attachment"
+  ]
+ },
+ {
+  "id": "candle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cây nến",
+  "coll": [
+   "light a candle",
+   "blow out the candles",
+   "birthday candles",
+   "scented candle"
+  ]
+ },
+ {
+  "id": "choir",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dàn hợp xướng; đội hợp ca",
+  "coll": [
+   "church choir",
+   "school choir",
+   "sing in a choir",
+   "choir practice"
+  ]
+ },
+ {
+  "id": "consume",
+  "pos": [
+   "v"
+  ],
+  "vi": "tiêu thụ; tiêu tốn; ăn, uống",
+  "coll": [
+   "consume energy",
+   "consume alcohol",
+   "consume resources",
+   "consume less"
+  ]
+ },
+ {
+  "id": "gossip",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuyện tầm phào, tin đồn; buôn chuyện",
+  "coll": [
+   "juicy gossip",
+   "office gossip",
+   "spread gossip",
+   "gossip about the neighbors",
+   "gossip column"
+  ]
+ },
+ {
+  "id": "mankind",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân loại; loài người",
+  "coll": [
+   "the history of mankind",
+   "all mankind",
+   "the future of mankind",
+   "benefit mankind"
+  ]
+ },
+ {
+  "id": "sadness",
+  "pos": [
+   "n"
+  ],
+  "vi": "nỗi buồn; sự buồn bã",
+  "coll": [
+   "deep sadness",
+   "a feeling of sadness",
+   "filled with sadness",
+   "with great sadness"
+  ]
+ },
+ {
+  "id": "shiny",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sáng bóng; bóng loáng",
+  "coll": [
+   "shiny hair",
+   "a shiny surface",
+   "a shiny new car",
+   "bright and shiny"
+  ]
+ },
+ {
+  "id": "sour",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chua; cáu kỉnh; trở nên tồi tệ",
+  "coll": [
+   "sour taste",
+   "sour milk",
+   "turn sour",
+   "sweet and sour"
+  ]
+ },
+ {
+  "id": "stressful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "căng thẳng; nhiều áp lực",
+  "coll": [
+   "a stressful job",
+   "a stressful situation",
+   "highly stressful",
+   "a stressful day"
+  ]
+ },
+ {
+  "id": "whistle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái còi; tiếng huýt sáo; huýt sáo, thổi còi",
+  "coll": [
+   "blow the whistle",
+   "whistle a tune",
+   "the referee's whistle",
+   "wolf whistle"
+  ]
+ },
+ {
+  "id": "appetite",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thèm ăn; khẩu vị; sự ham thích",
+  "coll": [
+   "lose your appetite",
+   "a healthy appetite",
+   "appetite for risk",
+   "loss of appetite"
+  ]
+ },
+ {
+  "id": "calculate",
+  "pos": [
+   "v"
+  ],
+  "vi": "tính, tính toán",
+  "coll": [
+   "calculate the cost",
+   "calculate the total",
+   "calculate the risk",
+   "calculate the average"
+  ]
+ }
+]

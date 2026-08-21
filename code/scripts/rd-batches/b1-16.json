@@ -1,0 +1,163 @@
+[
+ {
+  "id": "news-wikinews-interview-experts-in-it-industr",
+  "level": 1,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Wikinews_Interview%3A_Experts_in_IT_industry_comment_about_security_of_WiMAX",
+  "title_en": "Wikinews Interview: Experts in IT industry comment about security of WiMAX",
+  "sentences": [
+   "Monday, May 5, 2008 Computers and technology make our modern lifestyle more convenient, but they also create new risks like computer viruses and hacking.",
+   "Many people want to enjoy the convenience of new technology, but they may not be aware of its problems.",
+   "WiMAX is being promoted in Taiwan by the Taipei Computer Association, the Industrial Technology Research Institute and the Ministry of Economic Affairs of the Republic of China.",
+   "It is considered by some to be the communication standard for the next generation of mobile devices.",
+   "Information security companies are concerned increasingly by Internet crime, and some of them question the security of WiMAX.",
+   "After all, everyone wants to welcome this new technology but is afraid of its potential to cause security issues.",
+   "Some companies have analyzed potential security issues which threaten the success of WiMAX.",
+   "But what have they found?",
+   "Taking the opportunity of two press conferences in Taiwan, Wikinews Journalist Rico Shen briefly interviewed both Hsiao-wen Hung, President of Microsoft Research Asia and Li Chang, Deputy Secretary General of Taipei Computer Association.",
+   "With their experience in the IT industry, they agreed to comment on this question."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-expert-system",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Expert_system",
+  "title_en": "Expert system",
+  "sentences": [
+   "An expert system is a program running on a computer.",
+   "Like a human expert, it knows a lot about a subject.",
+   "People can ask the expert system a question.",
+   "The expert system will then use a set of rules and give answers to the question.",
+   "This method of automated reasoning belongs to a field of computer science called artificial intelligence.",
+   "Different groups of people can have different kinds of access to an expert system.",
+   "The people managing the network of computers have different needs than the office worker or secretary."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-from-the-eleventh-century-to-the-digital",
+  "level": 1,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/From_the_eleventh_century_to_the_Digital_Age%2C_the_Domesday_Book_is_now_online",
+  "title_en": "From the eleventh century to the Digital Age, the Domesday Book is now online",
+  "sentences": [
+   "Friday, August 4, 2006 The Domesday Book, penned in the eleventh century, can now be explored online after more than twenty years of work.",
+   "The book was commissioned by William the Conqueror in 1086 to tally the amount of land and resources owned throughout England.",
+   "The findings were used to calculate taxes, and the wealth of the king.",
+   "From today, anyone with an Internet connection is now able to explore the book for free.",
+   "A web browser can be used to find out what life was like in the past in any English village, town or city.",
+   "In addition, a person can download a copy of any page from the book for the fee of £3.50.",
+   "Commenting on the online edition, Adrian Ailes, a Domesday expert from The National Archives, said it was “a fantastic achievement”.",
+   "“It is important that people of all ages should be able to read and use this national treasure,” he added.",
+   "The book was voted the “nation’s finest treasure” in 2005.",
+   "But studies have found that thirteen percent of people believe the Domesday Book to be a chapter in the Bible, and nearly two percent think the iconic document is a novel penned by Dan Brown.",
+   "The original text is currently on display at The National Archives in west London.",
+   "The portalpage for the online edition is http://nationalarchives.gov.uk/domesday."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-computer-science",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Computer_science",
+  "title_en": "Computer science",
+  "sentences": [
+   "Computer science is the science of information.",
+   "Computer scientists study different ways of reading, using, and encoding information.",
+   "There are many different areas within computer science.",
+   "In some areas, scientists only work with ideas \"on paper\".",
+   "In other areas, they use those ideas to make things like computers and computer programs.",
+   "A person who works in computer science will often need to understand logic and mathematics."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-mobile-advertising",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Mobile_advertising",
+  "title_en": "Mobile advertising",
+  "sentences": [
+   "Mobile advertising is very similar to online or internet advertising.",
+   "Mobile advertising is method of advertising via mobile phones or other mobile devices like tablets.",
+   "More and more people worldwide have mobile phones and spend on them a lot of time so mobile advertising is very successful these days and the whole market is growing fast.",
+   "Today there are more mobile phones than TVs and computers in the world.",
+   "In Spain 75% of mobile phone owners receive mobile advertising.",
+   "In France 62% and in Japan 54% mobile phone owners receive mobile advertising.",
+   "In Japan today, 44% of mobile phone owners click on ads they get on their phones.",
+   "Mobile advertising was worth 900 million dollars only in Japan.",
+   "There are people and organizations that want to create guidelines for Mobile Advertising (set of rules to follow)."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-virtual-memory",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Virtual_memory",
+  "title_en": "Virtual memory",
+  "sentences": [
+   "Virtual Memory is a way of managing memory which is a recent trend of technology used in computers.",
+   "Hardware (the physical part of the computer, such as the CPU or graphics card) runs software.",
+   "This software will need computer memory to run, and do what it needs to do.",
+   "Most computers in use today can do more than one thing at a time, they run more than one application.",
+   "This is known as multiprocessing.",
+   "In this case, all the programs or applications that are running on the computer at a time share its resources.",
+   "A computer does not have more processors or main memory (RAM) just because more programs run on it.",
+   "Virtual memory is the idea that the application sees a block of memory of a given size.",
+   "The application can use this memory as it sees fit.",
+   "This block of memory is virtual in the sense that it comes from different parts.",
+   "Some of it may be in the main memory of the computer, but some may also be on disk.",
+   "The CPU has a special part, called Arithmetic Logic Unit which does some of the translations between application memory and system resources.",
+   "Modern operating systems also do a part of this work.",
+   "When a program tries to access a block of memory that is not in system memory, that program is stopped, and the block is loaded into system memory.",
+   "What was in that part of the system memory is written to disk.",
+   "This is usually called paging."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-blog",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Blog",
+  "title_en": "Blog",
+  "sentences": [
+   "A blog, also known as weblog, is a type of website that is like a diary or journal.",
+   "Blog organizes content in the form of categories and posts.",
+   "Posts on a blog are presented in reverse chronological order.",
+   "That means your latest post goes to the top of the page.",
+   "That way, when you make a new post, it will come first and the first post will go below it.",
+   "Anyone can create a blog and then write on that blog.",
+   "Bloggers (a word for people who write on blogs) often write about their opinions and thoughts.",
+   "A blog containing video material is called a video blog or video log, usually shortened to vlog.",
+   "When a person writes on a blog, what they write is in the form of a post, which is a single piece of writing on the blog.",
+   "Posts often include links to other websites.",
+   "Blogs can have one or more writers.",
+   "If they have more than one writer, they are often called community blogs, team blogs, or group blogs because the thoughts are made by more than one person."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-fork-bomb",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Fork_bomb",
+  "title_en": "Fork bomb",
+  "sentences": [
+   "A fork bomb is a way of stopping a computer from running by making many copies of a program.",
+   "A fork bomb copies itself into more than two copies, which then copy themselves into four copies.",
+   "Then both the original and the copy will keep making copies until the computer can no longer handle it and crash.",
+   "For example, a simple fork bomb using the bash shell script is : Here, a function is defined by the name \" : \".",
+   "Inside the curly braces, this function is called and its output is given again to the same function.",
+   "The \" & \" is used to run the process in background.",
+   "The semicolon (\" ; \") marks end of the function.",
+   "The last colon (\" : \") calls the function for first time.",
+   "After that the function keeps on calling itself until computer runs out of memory."
+  ],
+  "topic": "it"
+ }
+]

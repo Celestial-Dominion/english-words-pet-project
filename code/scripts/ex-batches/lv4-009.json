@@ -1,0 +1,862 @@
+[
+ {
+  "id": "populace",
+  "pos": [
+   "n"
+  ],
+  "vi": "dân chúng; quần chúng nhân dân",
+  "coll": [
+   "the general populace",
+   "local populace",
+   "the wider populace",
+   "educate the populace",
+   "civilian populace"
+  ]
+ },
+ {
+  "id": "homophobia",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kỳ thị người đồng tính",
+  "coll": [
+   "fight homophobia",
+   "casual homophobia",
+   "institutional homophobia",
+   "racism and homophobia",
+   "rampant homophobia"
+  ]
+ },
+ {
+  "id": "regal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vương giả, đế vương; oai vệ",
+  "coll": [
+   "regal bearing",
+   "regal splendour",
+   "regal manner",
+   "look regal",
+   "regal presence"
+  ]
+ },
+ {
+  "id": "bungalow",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà một tầng, nhà kiểu bungalow",
+  "coll": [
+   "a detached bungalow",
+   "beach bungalow",
+   "live in a bungalow",
+   "small bungalow",
+   "bungalow style"
+  ]
+ },
+ {
+  "id": "capitalize",
+  "pos": [
+   "v"
+  ],
+  "vi": "tận dụng, khai thác lợi thế; viết hoa; góp vốn",
+  "coll": [
+   "capitalize on the opportunity",
+   "capitalize on mistakes",
+   "capitalize the first letter",
+   "capitalize a company",
+   "fail to capitalize"
+  ]
+ },
+ {
+  "id": "fiesta",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lễ hội tưng bừng",
+  "coll": [
+   "a village fiesta",
+   "annual fiesta",
+   "fiesta celebrations",
+   "the fiesta begins",
+   "street fiesta"
+  ]
+ },
+ {
+  "id": "ligament",
+  "pos": [
+   "n"
+  ],
+  "vi": "dây chằng",
+  "coll": [
+   "torn ligament",
+   "cruciate ligament",
+   "ligament injury",
+   "ligament damage",
+   "stretch a ligament"
+  ]
+ },
+ {
+  "id": "erratic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thất thường; bất định",
+  "coll": [
+   "erratic behaviour",
+   "erratic driving",
+   "erratic performance",
+   "highly erratic",
+   "erratic movements"
+  ]
+ },
+ {
+  "id": "syllabus",
+  "pos": [
+   "n"
+  ],
+  "vi": "đề cương môn học; chương trình học",
+  "coll": [
+   "course syllabus",
+   "on the syllabus",
+   "exam syllabus",
+   "follow the syllabus",
+   "revise the syllabus"
+  ]
+ },
+ {
+  "id": "inflict",
+  "pos": [
+   "v"
+  ],
+  "vi": "gây ra (đau đớn, thiệt hại); giáng xuống",
+  "coll": [
+   "inflict damage",
+   "inflict pain",
+   "inflict injuries",
+   "inflict casualties",
+   "inflict suffering on"
+  ]
+ },
+ {
+  "id": "vigilant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cảnh giác; luôn đề phòng",
+  "coll": [
+   "remain vigilant",
+   "ever vigilant",
+   "vigilant about safety",
+   "stay vigilant",
+   "vigilant watch"
+  ]
+ },
+ {
+  "id": "inhibit",
+  "pos": [
+   "v"
+  ],
+  "vi": "kìm hãm, ức chế; ngăn cản",
+  "coll": [
+   "inhibit growth",
+   "inhibit the enzyme",
+   "inhibit development",
+   "severely inhibit",
+   "inhibit the spread"
+  ]
+ },
+ {
+  "id": "adherence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tuân thủ; sự bám dính",
+  "coll": [
+   "strict adherence",
+   "adherence to the rules",
+   "adherence to treatment",
+   "rigid adherence",
+   "adherence to principles"
+  ]
+ },
+ {
+  "id": "upstate",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "ở phía bắc bang; vùng phía bắc bang",
+  "coll": [
+   "upstate New York",
+   "move upstate",
+   "live upstate",
+   "upstate towns",
+   "drive upstate"
+  ]
+ },
+ {
+  "id": "undeniable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không thể chối cãi; rành rành",
+  "coll": [
+   "undeniable fact",
+   "undeniable truth",
+   "undeniable evidence",
+   "undeniable talent",
+   "undeniable appeal"
+  ]
+ },
+ {
+  "id": "prima",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hàng đầu, số một",
+  "coll": [
+   "prima donna",
+   "prima facie",
+   "prima ballerina",
+   "prima facie evidence"
+  ]
+ },
+ {
+  "id": "interstellar",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giữa các vì sao; liên sao",
+  "coll": [
+   "interstellar space",
+   "interstellar travel",
+   "interstellar medium",
+   "interstellar dust",
+   "interstellar object"
+  ]
+ },
+ {
+  "id": "borderline",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "sát ranh giới, gần như; lằn ranh",
+  "coll": [
+   "borderline case",
+   "borderline personality disorder",
+   "borderline illegal",
+   "a borderline decision",
+   "on the borderline"
+  ]
+ },
+ {
+  "id": "divisive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gây chia rẽ",
+  "coll": [
+   "divisive issue",
+   "deeply divisive",
+   "divisive figure",
+   "divisive politics",
+   "divisive rhetoric"
+  ]
+ },
+ {
+  "id": "intoxicated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "say rượu, phê thuốc; ngây ngất",
+  "coll": [
+   "intoxicated driver",
+   "heavily intoxicated",
+   "driving while intoxicated",
+   "intoxicated with power",
+   "appear intoxicated"
+  ]
+ },
+ {
+  "id": "textual",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc văn bản; về mặt chữ nghĩa",
+  "coll": [
+   "textual analysis",
+   "textual evidence",
+   "textual content",
+   "textual criticism",
+   "textual data"
+  ]
+ },
+ {
+  "id": "parlor",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "tiệm (làm đẹp, kem); phòng khách",
+  "coll": [
+   "beauty parlor",
+   "ice cream parlor",
+   "funeral parlor",
+   "massage parlor",
+   "tattoo parlor"
+  ]
+ },
+ {
+  "id": "indifference",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thờ ơ; thái độ dửng dưng",
+  "coll": [
+   "complete indifference",
+   "public indifference",
+   "with indifference",
+   "indifference to suffering",
+   "an air of indifference"
+  ]
+ },
+ {
+  "id": "hardwood",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "gỗ cứng; gỗ lá rộng",
+  "coll": [
+   "hardwood floor",
+   "hardwood forest",
+   "solid hardwood",
+   "hardwood timber",
+   "hardwood furniture"
+  ]
+ },
+ {
+  "id": "embroidered",
+  "pos": [
+   "adj"
+  ],
+  "vi": "được thêu; thêm mắm thêm muối",
+  "coll": [
+   "embroidered fabric",
+   "hand-embroidered",
+   "embroidered logo",
+   "embroidered cushion",
+   "richly embroidered"
+  ]
+ },
+ {
+  "id": "disproportionate",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "không cân xứng; chênh lệch quá mức",
+  "coll": [
+   "disproportionate impact",
+   "disproportionate share",
+   "disproportionate response",
+   "disproportionate number",
+   "wildly disproportionate"
+  ]
+ },
+ {
+  "id": "rocker",
+  "pos": [
+   "n"
+  ],
+  "vi": "ghế bập bênh; dân nhạc rock; thanh cong bập bênh",
+  "coll": [
+   "off his rocker",
+   "rocking chair rocker",
+   "an old rocker",
+   "rocker arm",
+   "punk rocker"
+  ]
+ },
+ {
+  "id": "psychedelic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "gây ảo giác; sặc sỡ kỳ ảo",
+  "coll": [
+   "psychedelic drugs",
+   "psychedelic rock",
+   "psychedelic colours",
+   "psychedelic experience",
+   "psychedelic art"
+  ]
+ },
+ {
+  "id": "intellectually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt trí tuệ; về trí thức",
+  "coll": [
+   "intellectually challenging",
+   "intellectually stimulating",
+   "intellectually dishonest",
+   "intellectually curious",
+   "intellectually rigorous"
+  ]
+ },
+ {
+  "id": "propagation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lan truyền; sự nhân giống",
+  "coll": [
+   "wave propagation",
+   "plant propagation",
+   "signal propagation",
+   "propagation of the species",
+   "error propagation"
+  ]
+ },
+ {
+  "id": "itchy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ngứa ngáy; bồn chồn muốn đi",
+  "coll": [
+   "itchy skin",
+   "itchy eyes",
+   "itchy feet",
+   "itchy rash",
+   "an itchy throat"
+  ]
+ },
+ {
+  "id": "coveted",
+  "pos": [
+   "adj"
+  ],
+  "vi": "được thèm muốn; ai cũng ao ước",
+  "coll": [
+   "coveted prize",
+   "coveted award",
+   "coveted title",
+   "a coveted spot",
+   "highly coveted"
+  ]
+ },
+ {
+  "id": "mixtape",
+  "pos": [
+   "n"
+  ],
+  "vi": "băng nhạc tuyển chọn; album mixtape",
+  "coll": [
+   "make a mixtape",
+   "release a mixtape",
+   "a mixtape of songs",
+   "mixtape cover",
+   "drop a mixtape"
+  ]
+ },
+ {
+  "id": "appellate",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc phúc thẩm; xét kháng cáo",
+  "coll": [
+   "appellate court",
+   "appellate judge",
+   "appellate jurisdiction",
+   "appellate division",
+   "appellate review"
+  ]
+ },
+ {
+  "id": "highness",
+  "pos": [
+   "n"
+  ],
+  "vi": "Điện hạ (tước hiệu hoàng gia)",
+  "coll": [
+   "Your Highness",
+   "His Royal Highness",
+   "Her Highness",
+   "Their Highnesses"
+  ]
+ },
+ {
+  "id": "bombardment",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuộc oanh tạc; sự dội bom pháo",
+  "coll": [
+   "aerial bombardment",
+   "heavy bombardment",
+   "artillery bombardment",
+   "under bombardment",
+   "constant bombardment"
+  ]
+ },
+ {
+  "id": "issuance",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc phát hành; sự cấp phát",
+  "coll": [
+   "bond issuance",
+   "issuance of visas",
+   "date of issuance",
+   "issuance of shares",
+   "issuance fee"
+  ]
+ },
+ {
+  "id": "unaffected",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không bị ảnh hưởng; tự nhiên không màu mè",
+  "coll": [
+   "largely unaffected",
+   "unaffected by the change",
+   "remain unaffected",
+   "unaffected areas",
+   "unaffected charm"
+  ]
+ },
+ {
+  "id": "foreseeable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có thể dự đoán trước",
+  "coll": [
+   "for the foreseeable future",
+   "foreseeable risk",
+   "reasonably foreseeable",
+   "foreseeable consequences",
+   "foreseeable problems"
+  ]
+ },
+ {
+  "id": "adjourned",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đã hoãn lại, tạm nghỉ (phiên họp)",
+  "coll": [
+   "the meeting was adjourned",
+   "adjourned hearing",
+   "court adjourned",
+   "adjourned until Monday",
+   "adjourned session"
+  ]
+ },
+ {
+  "id": "pancreatic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc tuyến tụy",
+  "coll": [
+   "pancreatic cancer",
+   "pancreatic juice",
+   "pancreatic enzymes",
+   "pancreatic cells",
+   "pancreatic duct"
+  ]
+ },
+ {
+  "id": "randomized",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ngẫu nhiên hóa; chọn ngẫu nhiên",
+  "coll": [
+   "randomized trial",
+   "randomized controlled trial",
+   "randomized sample",
+   "randomized order",
+   "randomly randomized assignment"
+  ]
+ },
+ {
+  "id": "infirmary",
+  "pos": [
+   "n"
+  ],
+  "vi": "trạm xá; bệnh xá",
+  "coll": [
+   "school infirmary",
+   "the royal infirmary",
+   "sent to the infirmary",
+   "infirmary ward",
+   "prison infirmary"
+  ]
+ },
+ {
+  "id": "insanely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cực kỳ, điên rồ; như điên",
+  "coll": [
+   "insanely jealous",
+   "insanely popular",
+   "insanely difficult",
+   "insanely expensive",
+   "laugh insanely"
+  ]
+ },
+ {
+  "id": "rapists",
+  "pos": [
+   "n"
+  ],
+  "vi": "những kẻ hiếp dâm",
+  "coll": [
+   "convicted rapists",
+   "catch the rapists",
+   "serial rapists",
+   "punish rapists",
+   "rapists and murderers"
+  ]
+ },
+ {
+  "id": "marginalized",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bị gạt ra bên lề; bị xem nhẹ",
+  "coll": [
+   "marginalized communities",
+   "marginalized groups",
+   "socially marginalized",
+   "feel marginalized",
+   "marginalized people"
+  ]
+ },
+ {
+  "id": "informant",
+  "pos": [
+   "n"
+  ],
+  "vi": "người cung cấp tin; chỉ điểm",
+  "coll": [
+   "police informant",
+   "confidential informant",
+   "an informant told",
+   "paid informant",
+   "key informant"
+  ]
+ },
+ {
+  "id": "deficient",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thiếu hụt; không đủ tiêu chuẩn",
+  "coll": [
+   "deficient in vitamin D",
+   "nutritionally deficient",
+   "deficient supply",
+   "mentally deficient",
+   "deficient diet"
+  ]
+ },
+ {
+  "id": "uncanny",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kỳ lạ đến rợn người; giống đến khó tin",
+  "coll": [
+   "uncanny resemblance",
+   "uncanny ability",
+   "uncanny knack",
+   "uncanny valley",
+   "uncanny accuracy"
+  ]
+ },
+ {
+  "id": "adept",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thành thạo, khéo léo; người lão luyện",
+  "coll": [
+   "adept at handling",
+   "highly adept",
+   "adept in the art",
+   "become adept",
+   "adept negotiator"
+  ]
+ },
+ {
+  "id": "maverick",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "người độc lập khác người; ngang tàng khác biệt",
+  "coll": [
+   "political maverick",
+   "a maverick genius",
+   "maverick approach",
+   "maverick streak",
+   "something of a maverick"
+  ]
+ },
+ {
+  "id": "dole out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "phân phát nhỏ giọt; chia ra phát",
+  "coll": [
+   "dole out money",
+   "dole out advice",
+   "dole out punishment",
+   "dole out the food",
+   "dole out cash"
+  ]
+ },
+ {
+  "id": "additive",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chất phụ gia; có tính cộng dồn",
+  "coll": [
+   "food additive",
+   "chemical additive",
+   "fuel additive",
+   "additive effect",
+   "no artificial additives"
+  ]
+ },
+ {
+  "id": "deterrent",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "yếu tố răn đe; có tác dụng ngăn chặn",
+  "coll": [
+   "nuclear deterrent",
+   "act as a deterrent",
+   "an effective deterrent",
+   "deterrent effect",
+   "strong deterrent"
+  ]
+ },
+ {
+  "id": "agility",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhanh nhẹn; tính linh hoạt",
+  "coll": [
+   "physical agility",
+   "mental agility",
+   "business agility",
+   "speed and agility",
+   "agility training"
+  ]
+ },
+ {
+  "id": "pristine",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nguyên sơ, còn nguyên vẹn; sạch bong",
+  "coll": [
+   "pristine condition",
+   "pristine beaches",
+   "pristine wilderness",
+   "pristine white",
+   "pristine environment"
+  ]
+ },
+ {
+  "id": "turquoise",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "màu xanh ngọc lam; đá lam ngọc",
+  "coll": [
+   "turquoise blue",
+   "turquoise water",
+   "turquoise ring",
+   "bright turquoise",
+   "turquoise stone"
+  ]
+ },
+ {
+  "id": "precedence",
+  "pos": [
+   "n"
+  ],
+  "vi": "quyền ưu tiên; thứ tự trước sau",
+  "coll": [
+   "take precedence over",
+   "give precedence to",
+   "order of precedence",
+   "in order of precedence",
+   "have precedence"
+  ]
+ },
+ {
+  "id": "nil",
+  "pos": [
+   "n",
+   "det"
+  ],
+  "vi": "số không; không có gì",
+  "coll": [
+   "two-nil",
+   "reduced to nil",
+   "nil return",
+   "the score was nil",
+   "nil by mouth"
+  ]
+ },
+ {
+  "id": "voyager",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà thám hiểm đường xa; người viễn du",
+  "coll": [
+   "an intrepid voyager",
+   "space voyager",
+   "Voyager probe",
+   "solo voyager",
+   "ancient voyagers"
+  ]
+ }
+]

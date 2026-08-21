@@ -1,0 +1,815 @@
+[
+ {
+  "id": "priceless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô giá",
+  "coll": [
+   "a priceless painting",
+   "a priceless treasure",
+   "a priceless experience",
+   "the look on his face was priceless"
+  ]
+ },
+ {
+  "id": "reflective",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trầm tư suy ngẫm; phản chiếu ánh sáng",
+  "coll": [
+   "in a reflective mood",
+   "a reflective essay",
+   "a reflective surface",
+   "reflective clothing"
+  ]
+ },
+ {
+  "id": "tolerant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khoan dung; chịu đựng tốt",
+  "coll": [
+   "tolerant of others",
+   "a tolerant attitude",
+   "religiously tolerant",
+   "drought-tolerant"
+  ]
+ },
+ {
+  "id": "tuberculosis",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh lao",
+  "coll": [
+   "pulmonary tuberculosis",
+   "contract tuberculosis",
+   "die of tuberculosis",
+   "tuberculosis vaccine"
+  ]
+ },
+ {
+  "id": "willingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách sẵn lòng; tự nguyện",
+  "coll": [
+   "willingly agree",
+   "willingly accept",
+   "give willingly",
+   "go willingly"
+  ]
+ },
+ {
+  "id": "youthful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trẻ trung",
+  "coll": [
+   "youthful energy",
+   "a youthful appearance",
+   "youthful enthusiasm",
+   "look youthful"
+  ]
+ },
+ {
+  "id": "ambiguous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mơ hồ; nước đôi; đa nghĩa",
+  "coll": [
+   "ambiguous wording",
+   "deliberately ambiguous",
+   "an ambiguous answer",
+   "morally ambiguous"
+  ]
+ },
+ {
+  "id": "comprehension",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hiểu; khả năng đọc hiểu",
+  "coll": [
+   "reading comprehension",
+   "listening comprehension",
+   "beyond comprehension",
+   "comprehension skills"
+  ]
+ },
+ {
+  "id": "concession",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự nhượng bộ; quyền được nhượng; ưu đãi giá",
+  "coll": [
+   "make a concession",
+   "a major concession",
+   "a tax concession",
+   "a concession stand"
+  ]
+ },
+ {
+  "id": "de facto",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "trên thực tế; thực tế dù không chính thức",
+  "coll": [
+   "de facto leader",
+   "de facto standard",
+   "de facto control",
+   "de facto recognition"
+  ]
+ },
+ {
+  "id": "heartbreaking",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đau lòng; xé lòng",
+  "coll": [
+   "a heartbreaking story",
+   "heartbreaking news",
+   "a heartbreaking loss",
+   "absolutely heartbreaking"
+  ]
+ },
+ {
+  "id": "mastery",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tinh thông; khả năng làm chủ",
+  "coll": [
+   "mastery of a language",
+   "complete mastery",
+   "achieve mastery",
+   "technical mastery"
+  ]
+ },
+ {
+  "id": "offend",
+  "pos": [
+   "v"
+  ],
+  "vi": "xúc phạm; làm phật lòng",
+  "coll": [
+   "offend someone's feelings",
+   "deeply offend",
+   "easily offended",
+   "offend against the law"
+  ]
+ },
+ {
+  "id": "organizer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người tổ chức; sổ tay sắp xếp công việc",
+  "coll": [
+   "event organizer",
+   "conference organizers",
+   "the main organizer",
+   "a community organizer"
+  ]
+ },
+ {
+  "id": "sandstone",
+  "pos": [
+   "n"
+  ],
+  "vi": "đá sa thạch",
+  "coll": [
+   "red sandstone",
+   "sandstone cliffs",
+   "a sandstone building",
+   "sandstone blocks"
+  ]
+ },
+ {
+  "id": "sanitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "vệ sinh môi trường; điều kiện vệ sinh",
+  "coll": [
+   "poor sanitation",
+   "sanitation facilities",
+   "water and sanitation",
+   "improve sanitation"
+  ]
+ },
+ {
+  "id": "satisfactory",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thỏa đáng; đạt yêu cầu",
+  "coll": [
+   "a satisfactory result",
+   "a satisfactory explanation",
+   "highly satisfactory",
+   "less than satisfactory"
+  ]
+ },
+ {
+  "id": "scooter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xe tay ga; xe scooter",
+  "coll": [
+   "ride a scooter",
+   "an electric scooter",
+   "a motor scooter",
+   "a kick scooter"
+  ]
+ },
+ {
+  "id": "unauthorized",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trái phép; không được phép",
+  "coll": [
+   "unauthorized access",
+   "unauthorized use",
+   "unauthorized copying",
+   "unauthorized personnel"
+  ]
+ },
+ {
+  "id": "abruptly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đột ngột; bất ngờ",
+  "coll": [
+   "stop abruptly",
+   "end abruptly",
+   "leave abruptly",
+   "abruptly changed"
+  ]
+ },
+ {
+  "id": "belongings",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ đạc cá nhân; tư trang",
+  "coll": [
+   "personal belongings",
+   "pack your belongings",
+   "collect your belongings",
+   "all my belongings"
+  ]
+ },
+ {
+  "id": "bun",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bánh mì tròn nhỏ; búi tóc",
+  "coll": [
+   "a hamburger bun",
+   "a hot cross bun",
+   "a sticky bun",
+   "hair in a bun"
+  ]
+ },
+ {
+  "id": "calmly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách bình tĩnh",
+  "coll": [
+   "speak calmly",
+   "react calmly",
+   "calmly explain",
+   "wait calmly"
+  ]
+ },
+ {
+  "id": "catastrophe",
+  "pos": [
+   "n"
+  ],
+  "vi": "thảm họa; tai họa lớn",
+  "coll": [
+   "a natural catastrophe",
+   "an environmental catastrophe",
+   "avert a catastrophe",
+   "a humanitarian catastrophe"
+  ]
+ },
+ {
+  "id": "chemotherapy",
+  "pos": [
+   "n"
+  ],
+  "vi": "hóa trị (điều trị ung thư)",
+  "coll": [
+   "undergo chemotherapy",
+   "a course of chemotherapy",
+   "chemotherapy treatment",
+   "chemotherapy side effects"
+  ]
+ },
+ {
+  "id": "commute",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đi lại hằng ngày; quãng đường đi làm; giảm án",
+  "coll": [
+   "daily commute",
+   "commute to work",
+   "a long commute",
+   "commute a sentence"
+  ]
+ },
+ {
+  "id": "endeavor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nỗ lực; sự cố gắng",
+  "coll": [
+   "human endeavor",
+   "a worthy endeavor",
+   "scientific endeavor",
+   "endeavor to do something"
+  ]
+ },
+ {
+  "id": "follower",
+  "pos": [
+   "n"
+  ],
+  "vi": "người theo dõi; người ủng hộ; tín đồ",
+  "coll": [
+   "a loyal follower",
+   "gain followers",
+   "millions of followers",
+   "a devoted follower"
+  ]
+ },
+ {
+  "id": "implication",
+  "pos": [
+   "n"
+  ],
+  "vi": "hệ quả kéo theo; hàm ý; sự liên can",
+  "coll": [
+   "serious implications",
+   "the implications of",
+   "by implication",
+   "policy implications"
+  ]
+ },
+ {
+  "id": "irrational",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phi lý; vô lý; (toán) vô tỉ",
+  "coll": [
+   "irrational fear",
+   "irrational behaviour",
+   "an irrational decision",
+   "an irrational number"
+  ]
+ },
+ {
+  "id": "lucrative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "béo bở; sinh lời cao",
+  "coll": [
+   "a lucrative business",
+   "a lucrative contract",
+   "highly lucrative",
+   "a lucrative deal"
+  ]
+ },
+ {
+  "id": "mango",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quả xoài",
+  "coll": [
+   "a ripe mango",
+   "mango juice",
+   "dried mango",
+   "a mango tree"
+  ]
+ },
+ {
+  "id": "outskirts",
+  "pos": [
+   "n"
+  ],
+  "vi": "vùng ngoại ô; rìa thành phố",
+  "coll": [
+   "on the outskirts of town",
+   "the outskirts of the city",
+   "live on the outskirts",
+   "the northern outskirts"
+  ]
+ },
+ {
+  "id": "programmer",
+  "pos": [
+   "n"
+  ],
+  "vi": "lập trình viên",
+  "coll": [
+   "a computer programmer",
+   "a software programmer",
+   "work as a programmer",
+   "an experienced programmer"
+  ]
+ },
+ {
+  "id": "rhyme",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "gieo vần; vần thơ",
+  "coll": [
+   "nursery rhyme",
+   "rhyme with",
+   "rhyme scheme",
+   "without rhyme or reason"
+  ]
+ },
+ {
+  "id": "sparkling",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "lấp lánh; có ga (đồ uống)",
+  "coll": [
+   "sparkling water",
+   "sparkling wine",
+   "sparkling eyes",
+   "sparkling clean"
+  ]
+ },
+ {
+  "id": "tame",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đã thuần hóa, hiền; thuần hóa; nhạt nhẽo",
+  "coll": [
+   "a tame animal",
+   "tame a lion",
+   "relatively tame",
+   "tame the wilderness"
+  ]
+ },
+ {
+  "id": "vow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lời thề; thề nguyện",
+  "coll": [
+   "marriage vows",
+   "take a vow",
+   "make a vow",
+   "break a vow"
+  ]
+ },
+ {
+  "id": "walnut",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "quả óc chó; gỗ óc chó",
+  "coll": [
+   "a walnut tree",
+   "chopped walnuts",
+   "walnut oil",
+   "walnut furniture"
+  ]
+ },
+ {
+  "id": "witty",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dí dỏm; hóm hỉnh",
+  "coll": [
+   "a witty remark",
+   "a witty reply",
+   "witty and charming",
+   "witty banter"
+  ]
+ },
+ {
+  "id": "blur",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "làm mờ nhòe; vệt mờ",
+  "coll": [
+   "blur the lines",
+   "blur the boundaries",
+   "a blur of motion",
+   "everything was a blur"
+  ]
+ },
+ {
+  "id": "bureaucracy",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ máy quan liêu; thủ tục hành chính rườm rà",
+  "coll": [
+   "government bureaucracy",
+   "red tape and bureaucracy",
+   "cut through bureaucracy",
+   "a vast bureaucracy"
+  ]
+ },
+ {
+  "id": "chimney",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ống khói",
+  "coll": [
+   "a chimney sweep",
+   "smoke from the chimney",
+   "a factory chimney",
+   "a chimney stack"
+  ]
+ },
+ {
+  "id": "compassionate",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "giàu lòng trắc ẩn; nhân ái",
+  "coll": [
+   "compassionate care",
+   "compassionate leave",
+   "a compassionate person",
+   "deeply compassionate"
+  ]
+ },
+ {
+  "id": "crater",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "miệng núi lửa; hố lớn",
+  "coll": [
+   "a volcanic crater",
+   "an impact crater",
+   "a huge crater",
+   "a crater lake"
+  ]
+ },
+ {
+  "id": "desperation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tuyệt vọng; nỗi cùng quẫn",
+  "coll": [
+   "out of desperation",
+   "in desperation",
+   "a sense of desperation",
+   "sheer desperation"
+  ]
+ },
+ {
+  "id": "diarrhea",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiêu chảy",
+  "coll": [
+   "severe diarrhea",
+   "have diarrhea",
+   "chronic diarrhea",
+   "diarrhea and vomiting"
+  ]
+ },
+ {
+  "id": "distortion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bóp méo; sự méo tiếng, méo hình",
+  "coll": [
+   "a distortion of the truth",
+   "sound distortion",
+   "image distortion",
+   "a gross distortion"
+  ]
+ },
+ {
+  "id": "educator",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà giáo dục",
+  "coll": [
+   "a respected educator",
+   "teachers and educators",
+   "a health educator",
+   "educator training"
+  ]
+ },
+ {
+  "id": "gangster",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "kẻ côn đồ; tay xã hội đen",
+  "coll": [
+   "a gangster movie",
+   "a notorious gangster",
+   "a gangster boss",
+   "a Chicago gangster"
+  ]
+ },
+ {
+  "id": "giveaway",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "quà tặng miễn phí; dấu hiệu lộ tẩy",
+  "coll": [
+   "a dead giveaway",
+   "a free giveaway",
+   "a giveaway price",
+   "a prize giveaway"
+  ]
+ },
+ {
+  "id": "hesitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự do dự; sự ngập ngừng",
+  "coll": [
+   "without hesitation",
+   "a moment's hesitation",
+   "after some hesitation",
+   "a slight hesitation"
+  ]
+ },
+ {
+  "id": "humiliation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sỉ nhục; nỗi nhục nhã",
+  "coll": [
+   "public humiliation",
+   "suffer humiliation",
+   "the humiliation of defeat",
+   "utter humiliation"
+  ]
+ },
+ {
+  "id": "lush",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "xanh tốt um tùm; sum suê",
+  "coll": [
+   "lush vegetation",
+   "lush green fields",
+   "a lush tropical forest",
+   "a lush landscape"
+  ]
+ },
+ {
+  "id": "luxurious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sang trọng; xa hoa",
+  "coll": [
+   "a luxurious hotel",
+   "a luxurious lifestyle",
+   "luxurious surroundings",
+   "a luxurious apartment"
+  ]
+ },
+ {
+  "id": "outsider",
+  "pos": [
+   "n"
+  ],
+  "vi": "người ngoài cuộc; kẻ ngoại đạo",
+  "coll": [
+   "feel like an outsider",
+   "a complete outsider",
+   "an outsider's view",
+   "a rank outsider"
+  ]
+ },
+ {
+  "id": "penetrate",
+  "pos": [
+   "v"
+  ],
+  "vi": "xuyên qua; thâm nhập",
+  "coll": [
+   "penetrate the market",
+   "penetrate the skin",
+   "penetrate deep into",
+   "sunlight penetrates"
+  ]
+ },
+ {
+  "id": "plum",
+  "pos": [
+   "n",
+   "adj",
+   "adv",
+   "v"
+  ],
+  "vi": "quả mận; màu mận chín",
+  "coll": [
+   "a ripe plum",
+   "a plum tree",
+   "plum jam",
+   "a plum job"
+  ]
+ },
+ {
+  "id": "prevail",
+  "pos": [
+   "v"
+  ],
+  "vi": "chiếm ưu thế; thắng thế; thịnh hành",
+  "coll": [
+   "justice will prevail",
+   "common sense prevails",
+   "prevail over",
+   "prevailing winds"
+  ]
+ },
+ {
+  "id": "rag",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giẻ rách; mảnh vải cũ",
+  "coll": [
+   "an oily rag",
+   "a wet rag",
+   "wipe with a rag",
+   "rags to riches"
+  ]
+ }
+]

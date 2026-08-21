@@ -1,0 +1,804 @@
+[
+ {
+  "id": "perpetuate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "duy trì mãi; làm kéo dài (điều xấu)",
+  "coll": [
+   "perpetuate a myth",
+   "perpetuate stereotypes",
+   "perpetuate inequality",
+   "perpetuate the cycle"
+  ]
+ },
+ {
+  "id": "agreeable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "dễ chịu, dễ ưa; đồng ý, thuận lòng",
+  "coll": [
+   "agreeable to the proposal",
+   "agreeable manner",
+   "perfectly agreeable",
+   "agreeable climate"
+  ]
+ },
+ {
+  "id": "resonate",
+  "pos": [
+   "v"
+  ],
+  "vi": "gây đồng cảm; vang vọng, cộng hưởng",
+  "coll": [
+   "resonate with audiences",
+   "resonate deeply",
+   "the message resonates",
+   "resonate with voters"
+  ]
+ },
+ {
+  "id": "aesthetically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt thẩm mỹ",
+  "coll": [
+   "aesthetically pleasing",
+   "aesthetically appealing",
+   "aesthetically displeasing",
+   "aesthetically superior"
+  ]
+ },
+ {
+  "id": "structurally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt cấu trúc",
+  "coll": [
+   "structurally sound",
+   "structurally unsafe",
+   "structurally similar",
+   "structurally different"
+  ]
+ },
+ {
+  "id": "prophetic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mang tính tiên tri; như báo trước",
+  "coll": [
+   "prophetic words",
+   "prophetic vision",
+   "eerily prophetic",
+   "prophetic dream"
+  ]
+ },
+ {
+  "id": "concur",
+  "pos": [
+   "v"
+  ],
+  "vi": "đồng tình; nhất trí",
+  "coll": [
+   "concur with",
+   "fully concur",
+   "concur in the decision",
+   "experts concur"
+  ]
+ },
+ {
+  "id": "respite",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quãng nghỉ ngơi; sự tạm hoãn",
+  "coll": [
+   "brief respite",
+   "welcome respite",
+   "without respite",
+   "respite from the heat",
+   "respite care"
+  ]
+ },
+ {
+  "id": "allege",
+  "pos": [
+   "v"
+  ],
+  "vi": "cáo buộc; khẳng định (chưa có bằng chứng)",
+  "coll": [
+   "allege that",
+   "allege misconduct",
+   "allege wrongdoing",
+   "as alleged"
+  ]
+ },
+ {
+  "id": "wares",
+  "pos": [
+   "n"
+  ],
+  "vi": "hàng hóa bày bán",
+  "coll": [
+   "sell their wares",
+   "display his wares",
+   "peddle their wares",
+   "hawk their wares"
+  ]
+ },
+ {
+  "id": "divergence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân kỳ; sự khác biệt, chệch hướng",
+  "coll": [
+   "divergence of opinion",
+   "wide divergence",
+   "divergence between",
+   "growing divergence"
+  ]
+ },
+ {
+  "id": "rudimentary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sơ khai; thô sơ, chỉ ở mức cơ bản",
+  "coll": [
+   "rudimentary knowledge",
+   "rudimentary skills",
+   "rudimentary equipment",
+   "rudimentary understanding"
+  ]
+ },
+ {
+  "id": "rapport",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ăn ý thân thiết; mối quan hệ tin cậy",
+  "coll": [
+   "build rapport",
+   "establish rapport",
+   "good rapport",
+   "rapport with students"
+  ]
+ },
+ {
+  "id": "grapefruit",
+  "pos": [
+   "n"
+  ],
+  "vi": "quả bưởi chùm",
+  "coll": [
+   "grapefruit juice",
+   "pink grapefruit",
+   "half a grapefruit",
+   "grapefruit segments"
+  ]
+ },
+ {
+  "id": "screenwriter",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà biên kịch phim",
+  "coll": [
+   "award-winning screenwriter",
+   "screenwriter and director",
+   "work as a screenwriter",
+   "Hollywood screenwriter"
+  ]
+ },
+ {
+  "id": "circulate",
+  "pos": [
+   "v"
+  ],
+  "vi": "lưu thông; lan truyền; đi giao lưu",
+  "coll": [
+   "blood circulates",
+   "circulate a document",
+   "rumours circulate",
+   "circulate freely"
+  ]
+ },
+ {
+  "id": "collaborator",
+  "pos": [
+   "n"
+  ],
+  "vi": "cộng sự; kẻ cộng tác với địch",
+  "coll": [
+   "close collaborator",
+   "longtime collaborator",
+   "frequent collaborator",
+   "wartime collaborator"
+  ]
+ },
+ {
+  "id": "fatality",
+  "pos": [
+   "n"
+  ],
+  "vi": "ca tử vong; tai nạn chết người",
+  "coll": [
+   "road fatalities",
+   "traffic fatality",
+   "fatality rate",
+   "no fatalities reported"
+  ]
+ },
+ {
+  "id": "tycoon",
+  "pos": [
+   "n"
+  ],
+  "vi": "ông trùm kinh doanh; trùm tư bản",
+  "coll": [
+   "business tycoon",
+   "media tycoon",
+   "oil tycoon",
+   "property tycoon"
+  ]
+ },
+ {
+  "id": "anthropologist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà nhân học",
+  "coll": [
+   "social anthropologist",
+   "cultural anthropologist",
+   "forensic anthropologist",
+   "anthropologists studying"
+  ]
+ },
+ {
+  "id": "incision",
+  "pos": [
+   "n"
+  ],
+  "vi": "vết rạch (khi mổ); sự rạch",
+  "coll": [
+   "make an incision",
+   "surgical incision",
+   "small incision",
+   "incision site"
+  ]
+ },
+ {
+  "id": "formality",
+  "pos": [
+   "n"
+  ],
+  "vi": "thủ tục hình thức; sự trang trọng",
+  "coll": [
+   "a mere formality",
+   "legal formalities",
+   "complete the formalities",
+   "level of formality"
+  ]
+ },
+ {
+  "id": "unsustainable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không bền vững",
+  "coll": [
+   "unsustainable growth",
+   "unsustainable debt",
+   "environmentally unsustainable",
+   "unsustainable levels"
+  ]
+ },
+ {
+  "id": "effortless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dễ như không, không tốn sức",
+  "coll": [
+   "effortless style",
+   "effortless grace",
+   "seemingly effortless",
+   "make it look effortless"
+  ]
+ },
+ {
+  "id": "ghostly",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ma quái; như bóng ma",
+  "coll": [
+   "ghostly figure",
+   "ghostly apparition",
+   "ghostly pale",
+   "ghostly silence"
+  ]
+ },
+ {
+  "id": "closeness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự gần gũi; sự thân thiết",
+  "coll": [
+   "closeness to family",
+   "emotional closeness",
+   "sense of closeness",
+   "physical closeness"
+  ]
+ },
+ {
+  "id": "trampoline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tấm bạt nhún; nhảy bạt nhún",
+  "coll": [
+   "bounce on a trampoline",
+   "jump on the trampoline",
+   "trampoline park",
+   "garden trampoline"
+  ]
+ },
+ {
+  "id": "stylistic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc về phong cách",
+  "coll": [
+   "stylistic choices",
+   "stylistic devices",
+   "stylistic differences",
+   "stylistic features"
+  ]
+ },
+ {
+  "id": "sedentary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ít vận động; ngồi một chỗ; định cư",
+  "coll": [
+   "sedentary lifestyle",
+   "sedentary work",
+   "sedentary behaviour",
+   "largely sedentary"
+  ]
+ },
+ {
+  "id": "impede",
+  "pos": [
+   "v"
+  ],
+  "vi": "cản trở",
+  "coll": [
+   "impede progress",
+   "impede growth",
+   "impede traffic",
+   "impede the investigation"
+  ]
+ },
+ {
+  "id": "contextual",
+  "pos": [
+   "adj"
+  ],
+  "vi": "theo ngữ cảnh; thuộc bối cảnh",
+  "coll": [
+   "contextual information",
+   "contextual factors",
+   "contextual analysis",
+   "contextual clues"
+  ]
+ },
+ {
+  "id": "tranquil",
+  "pos": [
+   "adj"
+  ],
+  "vi": "yên bình; êm ả, thanh thản",
+  "coll": [
+   "tranquil setting",
+   "tranquil waters",
+   "tranquil atmosphere",
+   "tranquil scene"
+  ]
+ },
+ {
+  "id": "quirk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nét kỳ quặc; thói lạ; sự trớ trêu",
+  "coll": [
+   "a quirk of fate",
+   "personality quirk",
+   "little quirks",
+   "quirk of history"
+  ]
+ },
+ {
+  "id": "upheaval",
+  "pos": [
+   "n"
+  ],
+  "vi": "biến động lớn; sự xáo trộn",
+  "coll": [
+   "political upheaval",
+   "social upheaval",
+   "economic upheaval",
+   "period of upheaval"
+  ]
+ },
+ {
+  "id": "inexplicable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không thể lý giải",
+  "coll": [
+   "inexplicable behaviour",
+   "for some inexplicable reason",
+   "inexplicable delay",
+   "seemingly inexplicable"
+  ]
+ },
+ {
+  "id": "innovate",
+  "pos": [
+   "v"
+  ],
+  "vi": "đổi mới, cách tân",
+  "coll": [
+   "continue to innovate",
+   "innovate and adapt",
+   "freedom to innovate",
+   "innovate rapidly"
+  ]
+ },
+ {
+  "id": "tantrum",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn ăn vạ; cơn giận dỗi",
+  "coll": [
+   "throw a tantrum",
+   "temper tantrum",
+   "have a tantrum",
+   "toddler tantrums"
+  ]
+ },
+ {
+  "id": "scorn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự khinh miệt; khinh thường, chê bai",
+  "coll": [
+   "pour scorn on",
+   "with scorn",
+   "scorn the idea",
+   "an object of scorn"
+  ]
+ },
+ {
+  "id": "stately",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "bệ vệ, trang nghiêm; đường bệ, khoan thai",
+  "coll": [
+   "stately home",
+   "stately manner",
+   "stately procession",
+   "stately pace"
+  ]
+ },
+ {
+  "id": "cynicism",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hoài nghi yếm thế; thái độ bi quan mỉa mai",
+  "coll": [
+   "public cynicism",
+   "deep cynicism",
+   "growing cynicism",
+   "cynicism about politics"
+  ]
+ },
+ {
+  "id": "astray",
+  "pos": [
+   "adv"
+  ],
+  "vi": "lạc lối; đi sai đường",
+  "coll": [
+   "go astray",
+   "lead someone astray",
+   "led astray by friends",
+   "the letter went astray"
+  ]
+ },
+ {
+  "id": "acutely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hết sức, sâu sắc; cấp tính",
+  "coll": [
+   "acutely aware",
+   "acutely conscious of",
+   "acutely embarrassed",
+   "acutely ill"
+  ]
+ },
+ {
+  "id": "relinquish",
+  "pos": [
+   "v"
+  ],
+  "vi": "từ bỏ; nhường lại (quyền)",
+  "coll": [
+   "relinquish control",
+   "relinquish power",
+   "relinquish a claim",
+   "relinquish the title"
+  ]
+ },
+ {
+  "id": "amplification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khuếch đại; sự mở rộng, nói rõ thêm",
+  "coll": [
+   "signal amplification",
+   "sound amplification",
+   "amplification of the signal",
+   "DNA amplification"
+  ]
+ },
+ {
+  "id": "sentient",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có tri giác; biết cảm nhận",
+  "coll": [
+   "sentient beings",
+   "sentient life",
+   "sentient creature",
+   "become sentient"
+  ]
+ },
+ {
+  "id": "exhilarating",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "phấn khích; sảng khoái, hào hứng",
+  "coll": [
+   "exhilarating experience",
+   "exhilarating ride",
+   "exhilarating feeling",
+   "utterly exhilarating"
+  ]
+ },
+ {
+  "id": "neutralize",
+  "pos": [
+   "v"
+  ],
+  "vi": "vô hiệu hóa; trung hòa",
+  "coll": [
+   "neutralize a threat",
+   "neutralize the acid",
+   "neutralize the effect",
+   "neutralize an enemy"
+  ]
+ },
+ {
+  "id": "shambles",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cảnh hỗn độn; mớ bòng bong",
+  "coll": [
+   "in a shambles",
+   "a complete shambles",
+   "an absolute shambles",
+   "the economy is a shambles"
+  ]
+ },
+ {
+  "id": "dispense",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phân phát; cấp phát thuốc; miễn, bỏ qua (with)",
+  "coll": [
+   "dispense medicine",
+   "dispense advice",
+   "dispense with formalities",
+   "dispense justice"
+  ]
+ },
+ {
+  "id": "refurbishment",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc tân trang, cải tạo",
+  "coll": [
+   "major refurbishment",
+   "complete refurbishment",
+   "undergo refurbishment",
+   "refurbishment project"
+  ]
+ },
+ {
+  "id": "ethically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt đạo đức; một cách có đạo đức",
+  "coll": [
+   "ethically sourced",
+   "ethically wrong",
+   "behave ethically",
+   "ethically questionable"
+  ]
+ },
+ {
+  "id": "renown",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "danh tiếng lừng lẫy",
+  "coll": [
+   "international renown",
+   "of great renown",
+   "win renown",
+   "an artist of renown"
+  ]
+ },
+ {
+  "id": "occupant",
+  "pos": [
+   "n"
+  ],
+  "vi": "người ở, cư dân; người ngồi trong xe",
+  "coll": [
+   "the occupants of the house",
+   "car occupants",
+   "previous occupant",
+   "sole occupant"
+  ]
+ },
+ {
+  "id": "sprout",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nảy mầm, mọc lên; mầm cây, giá đỗ",
+  "coll": [
+   "seeds sprout",
+   "sprout leaves",
+   "bean sprouts",
+   "brussels sprouts"
+  ]
+ },
+ {
+  "id": "compulsion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thôi thúc khó cưỡng; sự ép buộc",
+  "coll": [
+   "feel a compulsion to",
+   "under compulsion",
+   "obsessive compulsion",
+   "irresistible compulsion"
+  ]
+ },
+ {
+  "id": "oblige",
+  "pos": [
+   "v"
+  ],
+  "vi": "buộc phải; giúp đỡ, chiều ý",
+  "coll": [
+   "be obliged to",
+   "feel obliged to",
+   "happy to oblige",
+   "oblige someone to do"
+  ]
+ },
+ {
+  "id": "flicker",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhấp nháy, chập chờn; tia lóe lên",
+  "coll": [
+   "the lights flicker",
+   "a flicker of hope",
+   "the flicker of a candle",
+   "a flicker of a smile"
+  ]
+ },
+ {
+  "id": "conjure",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "gợi lên (hình ảnh); làm phép biến ra; triệu hồi",
+  "coll": [
+   "conjure up an image",
+   "conjure up memories",
+   "conjure a spirit",
+   "conjure a meal out of nothing"
+  ]
+ },
+ {
+  "id": "tangle",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm rối, vướng vào; mớ rối",
+  "coll": [
+   "get tangled up",
+   "a tangle of wires",
+   "tangle with someone",
+   "a tangle of hair"
+  ]
+ },
+ {
+  "id": "acoustics",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ vang âm (của phòng); âm học",
+  "coll": [
+   "good acoustics",
+   "poor acoustics",
+   "the acoustics of the hall",
+   "study acoustics"
+  ]
+ }
+]

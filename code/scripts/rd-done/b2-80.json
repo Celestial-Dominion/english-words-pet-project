@@ -1,0 +1,57 @@
+[
+ {
+  "id": "wiki-operating-system",
+  "title_vi": "Hệ điều hành",
+  "vi": [
+   "Hệ điều hành (OS) là một loại chương trình máy tính giúp máy tính tương tác với các máy khác hoặc với con người.",
+   "Hệ điều hành thực tế không phải là một chương trình đơn lẻ mà là một nhóm các chương trình nhỏ, như trình quản lý tệp, trình điều khiển thiết bị và hạt nhân.",
+   "Một hệ điều hành có thể nhỏ (như Damn Small Linux) hoặc lớn (như Microsoft Windows).",
+   "Một số được thiết kế để sử dụng thông thường, như trong máy tính cá nhân hoặc điện thoại thông minh.",
+   "Những người khác được sử dụng cho các mục đích cụ thể.",
+   "Ví dụ: máy ATM sẽ sử dụng một loại hệ điều hành chuyên dụng.",
+   "Một hệ điều hành có nhiều công việc.",
+   "Nó đảm bảo rằng tất cả các chương trình đều chia sẻ quyền truy cập vào bộ xử lý, bộ nhớ, màn hình, thiết bị đầu vào và phần cứng khác của máy tính.",
+   "Ngày nay, hầu hết các hệ điều hành đều có giao diện hiển thị để người dùng có thể dễ dàng tương tác với nó.",
+   "Hệ điều hành cũng chịu trách nhiệm gửi dữ liệu đến các máy tính hoặc thiết bị khác trên mạng.",
+   "Một số ví dụ về hệ điều hành thường được sử dụng là: Android; macOS; Linux; Microsoft Windows."
+  ]
+ },
+ {
+  "id": "wiki-clock-rate",
+  "title_vi": "Tốc độ xung nhịp",
+  "vi": [
+   "Tốc độ xung nhịp là tần số mà CPU đang chạy.",
+   "Đó là tốc độ tính theo chu kỳ trên giây (được đo bằng hertz) hoặc tần số của đồng hồ trong bất kỳ mạch đồng bộ nào.",
+   "Nói chung, nhiều người cho rằng tốc độ xung nhịp cao hơn có nghĩa là bộ xử lý nhanh hơn, nhưng các yếu tố khác cũng được đưa ra.",
+   "Bạn không thể so sánh hiệu suất của nó chỉ dựa trên tốc độ xung nhịp.",
+   "Tùy thuộc vào thiết kế kiến trúc của Bộ xử lý, Trong một số CPU, một lệnh có thể được thực hiện trong một chu kỳ xung nhịp.",
+   "Ví dụ: Intel Core i5 thế hệ 1 có tốc độ xung nhịp 3,2 GHz và Intel Core i5 thế hệ thứ 10 mới nhất có tốc độ xung nhịp 1,6 GHz.",
+   "Lưu ý: điều quan trọng là phải so sánh các bộ xử lý từ cùng một thương hiệu và thế hệ."
+  ]
+ },
+ {
+  "id": "wiki-online-streamer",
+  "title_vi": "Người phát trực tuyến",
+  "vi": [
+   "Người phát trực tuyến hoặc người phát trực tiếp là một loại người có ảnh hưởng trên mạng xã hội, những người tự phát trực tuyến thông qua luồng trực tiếp tới khán giả.",
+   "Có nhiều hình thức khác nhau: Mọi người thể hiện cách họ chơi trò chơi điện tử.",
+   "Mọi người thể hiện mình bằng cách sử dụng webcam, điều này thường được thực hiện trong bối cảnh sản xuất nội dung khiêu dâm; những người như vậy được gọi là người mẫu webcam.",
+   "Mọi người thể hiện cuộc sống hàng ngày của họ, đi lại bằng webcam.",
+   "Rất thường xuyên, mọi người sử dụng quảng cáo hoặc vị trí sản phẩm để tạo ra một số thu nhập.",
+   "Đôi khi, mọi người cũng có mô hình trả tiền cho mỗi lượt xem.",
+   "Đây thường là trường hợp phát trực tuyến trong bối cảnh sản xuất nội dung khiêu dâm."
+  ]
+ },
+ {
+  "id": "wiki-kinopoisk",
+  "title_vi": "Kinopoisk",
+  "vi": [
+   "Kinopoisk (tiếng Nga: Кинопоиск, từ ghép giữa \"điện ảnh\" và \"tìm kiếm\") là một cơ sở dữ liệu trực tuyến của Nga.",
+   "Nó bắt đầu vào năm 2003.",
+   "Nó có thông tin về phim và chương trình truyền hình bao gồm dàn diễn viên, đội ngũ sản xuất, tiểu sử, tóm tắt cốt truyện, xếp hạng và đánh giá.",
+   "Nó cũng có ảnh tĩnh, đoạn giới thiệu, áp phích và hình nền.",
+   "Người dùng có thể chỉnh sửa thông tin và đăng bài đánh giá.",
+   "Từ tháng 4 năm 2018, Kinopoisk có ứng dụng dành cho TV Samsung với chức năng Smart TV, cho phép mọi người xem phim thuê hoặc mua."
+  ]
+ }
+]

@@ -1,0 +1,1236 @@
+[
+ {
+  "id": "myself",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "Me, as direct or indirect object the speaker as the object of a verb or preposition, when the speaker is also the subject.",
+   "Personally, for my part",
+   "In my normal state of body or mind."
+  ]
+ },
+ {
+  "id": "yourself",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "Your own self (singular).",
+   "You (singular)"
+  ]
+ },
+ {
+  "id": "act",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "Something done, a deed.",
+   "Something done once and for all, as distinguished from a work.",
+   "A product of a legislative body, a statute."
+  ]
+ },
+ {
+  "id": "although",
+  "pos": [
+   "conj"
+  ],
+  "en": [
+   "Though, even though, in spite of or despite the fact that",
+   "But, except."
+  ]
+ },
+ {
+  "id": "child",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority).",
+   "One's direct descendant by birth, regardless of age",
+   "The thirteenth Lenormand card."
+  ]
+ },
+ {
+  "id": "fire",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "intj"
+  ],
+  "en": [
+   "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and…",
+   "An instance of this chemical reaction, especially when intentionally created and maintained in a specific location to a useful end (such…",
+   "The occurrence, often accidental, of fire in a certain place, causing damage and danger."
+  ]
+ },
+ {
+  "id": "fun",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Amusement, enjoyment or pleasure.",
+   "Playful, often noisy, activity.",
+   "Enjoyable or amusing."
+  ]
+ },
+ {
+  "id": "living",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "present participle of live",
+   "Having life",
+   "In use or existing."
+  ]
+ },
+ {
+  "id": "major",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Greater in dignity, rank, importance, significance, or interest.",
+   "Greater in number, quantity, or extent.",
+   "Notable or conspicuous in effect or scope."
+  ]
+ },
+ {
+  "id": "phone",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A device for transmitting conversations and other sounds in real time across distances, now often a small portable unit also capable of…",
+   "A person's telephone number (as a means of contact)",
+   "To call (someone) using a telephone."
+  ]
+ },
+ {
+  "id": "right-hand",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of, relating to, or located on the right.",
+   "Using or designed for use by the right hand.",
+   "In the direction or orientation to the right-hand rule (a right-hand thread)."
+  ]
+ },
+ {
+  "id": "well-known",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Familiar, famous, renowned, noted or widely known.",
+   "Generally recognized"
+  ]
+ },
+ {
+  "id": "art",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The conscious production or arrangement of sounds, colours, forms, movements, or other elements in a manner that affects the senses and…",
+   "The creative and emotional expression of mental imagery, such as visual, auditory, social, etc.",
+   "Skillful creative activity, usually with an aesthetic focus."
+  ]
+ },
+ {
+  "id": "behind",
+  "pos": [
+   "adv",
+   "prep",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "At or to the back or far side of.",
+   "Less forward or advanced than",
+   "At or in the rear or back part of something."
+  ]
+ },
+ {
+  "id": "building",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The act or process by which something is built",
+   "A closed structure with walls and a roof.",
+   "Synonym of Tits building."
+  ]
+ },
+ {
+  "id": "easy",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "intj"
+  ],
+  "en": [
+   "Comfortable",
+   "Requiring little skill or effort.",
+   "Causing ease"
+  ]
+ },
+ {
+  "id": "market",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A gathering of people for the purchase and sale of merchandise, often periodic at a set time.",
+   "A relatively spacious outdoor or covered site where traders set up stalls, either temporarily or permanently or semi-permanently, and…",
+   "Any physical store selling groceries, such as a grocery store or convenience store."
+  ]
+ },
+ {
+  "id": "near",
+  "pos": [
+   "adj",
+   "adv",
+   "prep",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Physically close.",
+   "Close in time.",
+   "Closely connected or related."
+  ]
+ },
+ {
+  "id": "plan",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A drawing showing technical details of a building, machine, etc., with unwanted details omitted, and often using symbols rather than…",
+   "A set of intended actions, usually mutually related, through which one expects to achieve a goal.",
+   "A two-dimensional drawing of a building as seen from above with obscuring or irrelevant details such as roof removed, or of a floor of a…"
+  ]
+ },
+ {
+  "id": "political",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Concerning or relating to politics, the art and process of governing.",
+   "Concerning a polity or its administrative components.",
+   "Inappropriately motivated by political calculation, as it pertains to elections, power dynamics, ideologies, etc."
+  ]
+ },
+ {
+  "id": "quite",
+  "pos": [
+   "adv",
+   "intj",
+   "n"
+  ],
+  "en": [
+   "To the greatest extent or degree",
+   "Indicates agreement",
+   "A series of passes made with the cape to distract the bull."
+  ]
+ },
+ {
+  "id": "six",
+  "pos": [
+   "num",
+   "n"
+  ],
+  "en": [
+   "A numerical value equal to 6",
+   "A group or set with six elements.",
+   "The digit or figure 6."
+  ]
+ },
+ {
+  "id": "west",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "The direction opposite to that of the earth's rotation, specifically 270°.",
+   "The western region or area",
+   "In a church"
+  ]
+ },
+ {
+  "id": "education",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The process of imparting knowledge, skill and judgment.",
+   "Facts, skills and ideas that have been learned, especially through formal instruction."
+  ]
+ },
+ {
+  "id": "final",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "A final examination",
+   "A final examination taken at the end of the final year of an undergraduate course, which contributes towards a student's degree…",
+   "The last round, game or match in a contest, after which the winner is determined."
+  ]
+ },
+ {
+  "id": "front",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "The foremost side of something or the end that faces the direction it normally moves.",
+   "The side of a building with the main entrance.",
+   "A field of activity."
+  ]
+ },
+ {
+  "id": "list",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A strip of fabric, especially from the edge of a piece of cloth.",
+   "Material used for cloth selvage.",
+   "A register or roll of paper consisting of a compilation or enumeration of a set of possible items"
+  ]
+ },
+ {
+  "id": "ready",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Prepared for immediate action or use.",
+   "Inclined",
+   "Liable at any moment."
+  ]
+ },
+ {
+  "id": "son",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "One's male offspring.",
+   "A male adopted person in relation to his adoptive parents.",
+   "A male person who has such a close relationship with an older or otherwise more authoritative person that he can be regarded as a son of…"
+  ]
+ },
+ {
+  "id": "street",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A paved part of road, usually in a village or a town.",
+   "A road as above, but including the sidewalks (pavements) and buildings.",
+   "The roads that run perpendicular to avenues in a grid layout."
+  ]
+ },
+ {
+  "id": "bring",
+  "pos": [
+   "v",
+   "intj"
+  ],
+  "en": [
+   "To transport toward somebody/somewhere.",
+   "To supply or contribute.",
+   "To occasion or bring about."
+  ]
+ },
+ {
+  "id": "college",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An academic institution."
+  ]
+ },
+ {
+  "id": "example",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Something that is representative of all such things in a group.",
+   "Something that serves to illustrate or explain a rule.",
+   "Something that serves as a pattern of behaviour to be imitated (a good example) or not to be imitated (a bad example)."
+  ]
+ },
+ {
+  "id": "experience",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The effect upon the judgment or feelings produced by any event, whether witnessed or participated in",
+   "An activity one has performed.",
+   "A collection of events and/or activities from which an individual or group may gather knowledge, opinions, and skills."
+  ]
+ },
+ {
+  "id": "meet",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "en": [
+   "To make contact (with someone) while in proximity.",
+   "To come together.",
+   "A sports competition, especially for track and field or swimming."
+  ]
+ },
+ {
+  "id": "program",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A set of structured activities",
+   "A leaflet listing information about a play, game or other activity.",
+   "A set of principal goals which someone, especially a political party or candidate, supports."
+  ]
+ },
+ {
+  "id": "type",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "A grouping based on shared characteristics",
+   "An individual considered typical of its class, one regarded as typifying a certain profession, environment, etc.",
+   "An individual that represents the ideal for its class"
+  ]
+ },
+ {
+  "id": "baby",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A very young human, particularly from birth to a couple of years old or until walking is fully mastered.",
+   "Any very young animal, especially a vertebrate",
+   "A person who is immature, infantile, or feeble."
+  ]
+ },
+ {
+  "id": "chance",
+  "pos": [
+   "n",
+   "adj",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "An opportunity or possibility.",
+   "Random occurrence",
+   "The probability of something happening."
+  ]
+ },
+ {
+  "id": "father",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A male parent, especially of a human",
+   "A male ancestor more remote than a parent",
+   "A term of respectful address for an elderly man."
+  ]
+ },
+ {
+  "id": "good morning",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used as a greeting when meeting someone for the first time in the morning.",
+   "A parting in the morning.",
+   "Used to greet someone who has just awakened (irrespective of the time of day)."
+  ]
+ },
+ {
+  "id": "march",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A formal, rhythmic way of walking, used especially by soldiers, by bands, and in ceremonies.",
+   "A journey so walked.",
+   "A political rally or parade."
+  ]
+ },
+ {
+  "id": "song",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A musical composition with lyrics for voice or voices, performed by singing.",
+   "Any musical composition.",
+   "Poetical composition"
+  ]
+ },
+ {
+  "id": "study",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To review materials already learned in order to make sure one does not forget them, usually in preparation for an examination.",
+   "To take a course or courses on a subject.",
+   "To acquire knowledge on a subject with the intention of applying it in practice."
+  ],
+  "reg": [
+   "literary"
+  ]
+ },
+ {
+  "id": "word",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "The smallest unit of language that has a particular meaning and can be expressed by itself",
+   "Something like such a unit of language",
+   "To say or write (something) using particular words"
+  ]
+ },
+ {
+  "id": "across",
+  "pos": [
+   "adv",
+   "prep",
+   "n"
+  ],
+  "en": [
+   "To, toward, or from the far side of (something that lies between two points of interest).",
+   "On the opposite side of (something that lies between two points of interest).",
+   "across from"
+  ]
+ },
+ {
+  "id": "action",
+  "pos": [
+   "n",
+   "intj",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "The effort of performing or doing something.",
+   "Something done, often so as to accomplish a purpose.",
+   "A way of motion or functioning."
+  ]
+ },
+ {
+  "id": "clear",
+  "pos": [
+   "adj",
+   "v",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "All the way",
+   "Not near something or touching it.",
+   "Free (or separate) from others."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "himself",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "Him",
+   "He",
+   "The subject or non-reflexive object of a predicate"
+  ]
+ },
+ {
+  "id": "month",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A period into which a year is divided, historically based on the phases of the moon.",
+   "A period of 30 days, 31 days, or some alternation thereof."
+  ]
+ },
+ {
+  "id": "outside",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "prep",
+   "v"
+  ],
+  "en": [
+   "The part of something that faces out",
+   "The external appearance of someone or something.",
+   "The space beyond some limit or boundary."
+  ]
+ },
+ {
+  "id": "self",
+  "pos": [
+   "n",
+   "pron",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Myself, oneself.",
+   "One individual's personality, character, demeanor, or disposition.",
+   "The subject of one's own experience of phenomena"
+  ]
+ },
+ {
+  "id": "video game",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "A type of game, existing as and controlled by software, usually run by a video game console or a computer, played on a monitor or…"
+  ]
+ },
+ {
+  "id": "board",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
+   "A device (e.g., switchboard) containing electrical switches and other controls and designed to control lights, sound, telephone…",
+   "A flat surface with markings for playing a board game."
+  ]
+ },
+ {
+  "id": "cost",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To incur a charge of",
+   "To cause something to be lost",
+   "To require to be borne or suffered"
+  ]
+ },
+ {
+  "id": "cut",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "intj"
+  ],
+  "en": [
+   "To incise, to cut into the surface of something.",
+   "Having been cut.",
+   "Reduced."
+  ]
+ },
+ {
+  "id": "field",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A land area free of woodland, cities, and towns",
+   "A wide, open space that is used to grow crops or to hold farm animals, usually enclosed by a fence, hedge or other barrier.",
+   "A region containing a particular mineral."
+  ]
+ },
+ {
+  "id": "instead",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In the place of something (usually mentioned earlier)"
+  ]
+ },
+ {
+  "id": "moment",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A particular point, or relatively small region.",
+   "A brief, unspecified amount of time.",
+   "Weight or importance."
+  ]
+ },
+ {
+  "id": "mother",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A female parent, especially of a human",
+   "A pregnant female",
+   "A female who donates a fertilized egg or donates a body cell which has resulted in a clone."
+  ]
+ },
+ {
+  "id": "road",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "A way used for travelling between places, originally one wide enough to allow foot passengers and horses to travel, now (US) usually one…",
+   "Roads in general as a means of travel, especially by motor vehicle.",
+   "A physical way or route."
+  ]
+ },
+ {
+  "id": "town",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A settlement",
+   "Any more urbanized centre than the place of reference.",
+   "A rural settlement in which a market was held at least once a week."
+  ]
+ },
+ {
+  "id": "fight",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Senses relating to physical conflict",
+   "To strive for something",
+   "An occasion of fighting."
+  ]
+ },
+ {
+  "id": "fine",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "Senses referring to subjective quality.",
+   "Well, nicely, in a positive, agreeable way.",
+   "Finely"
+  ]
+ },
+ {
+  "id": "force",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Ability to influence",
+   "A physical quantity that denotes ability to push, pull, twist or accelerate a body and which has a direction and is measured in a unit…",
+   "To make someone or something do something, often regardless of their will."
+  ]
+ },
+ {
+  "id": "hear",
+  "pos": [
+   "v",
+   "intj"
+  ],
+  "en": [
+   "To perceive sounds through the ear.",
+   "To perceive (a sound, or something producing a sound) with the ear, to recognize (something) in an auditory way.",
+   "To exercise this faculty intentionally"
+  ]
+ },
+ {
+  "id": "issue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The action or an instance of flowing or coming out, an outflow",
+   "Someone or something that flows out or comes out",
+   "To flow out, to proceed from, to come out or from."
+  ]
+ },
+ {
+  "id": "price",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The cost required to gain possession of something.",
+   "The cost of an action or deed.",
+   "Value"
+  ]
+ },
+ {
+  "id": "running",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "adv",
+   "prep"
+  ],
+  "en": [
+   "present participle and gerund of run",
+   "Moving or advancing at a run.",
+   "Present, current."
+  ]
+ },
+ {
+  "id": "space",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Unlimited or generalized extent, physical or otherwise.",
+   "To set some distance apart.",
+   "To insert or utilise spaces in a written text."
+  ]
+ },
+ {
+  "id": "summer",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "One of four seasons, traditionally the second, marked by the longest and typically hottest days of the year due to the inclination of…",
+   "year",
+   "Most flourishing, happy, or beautiful period"
+  ]
+ },
+ {
+  "id": "wife",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A married woman, especially in relation to her spouse.",
+   "The female of a pair of mated animals.",
+   "Synonym of woman."
+  ]
+ },
+ {
+  "id": "beautiful",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Possessing beauty, impressing the eye",
+   "That one likes very much.",
+   "Affording pleasure to any of the senses, especially that of hearing"
+  ]
+ },
+ {
+  "id": "date",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The fruit of the date palm, Phoenix dactylifera, somewhat in the shape of an olive, containing a soft, sweet pulp and enclosing a hard…",
+   "The date palm.",
+   "The anus."
+  ]
+ },
+ {
+  "id": "land",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The part of Earth which is not covered by oceans or other bodies of water.",
+   "Real estate or landed property",
+   "A country or region."
+  ]
+ },
+ {
+  "id": "miss",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To fail to hit, catch, grasp, etc.",
+   "To avoid hitting.",
+   "To fail to achieve or attain."
+  ]
+ },
+ {
+  "id": "shot",
+  "pos": [
+   "n",
+   "adj",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "Tired, weary.",
+   "Discharged, cleared, or rid of something.",
+   "Worn out or broken."
+  ]
+ },
+ {
+  "id": "site",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The place where anything is fixed",
+   "A place fitted or chosen for any certain permanent use or occupation",
+   "The posture or position of a thing."
+  ]
+ },
+ {
+  "id": "strong",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "en": [
+   "Capable of producing great physical force.",
+   "Capable of withstanding great physical force.",
+   "Possessing power, might, or strength."
+  ]
+ },
+ {
+  "id": "account",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A registry of pecuniary transactions",
+   "A bank account.",
+   "A statement in general of reasons, causes, grounds, etc., explanatory of some event"
+  ]
+ },
+ {
+  "id": "especially",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a special manner",
+   "Particularly",
+   "Used to place greater emphasis upon someone or something."
+  ]
+ },
+ {
+  "id": "include",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To bring into a group, class, set, or total as a (new) part or member.",
+   "To consider as part of something",
+   "To use a directive that allows the use of source code from another file."
+  ]
+ },
+ {
+  "id": "june",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To rush."
+  ],
+  "reg": [
+   "dated",
+   "slang"
+  ]
+ },
+ {
+  "id": "period",
+  "pos": [
+   "n",
+   "adj",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "A length of time.",
+   "A length of time in history seen as a single coherent entity",
+   "The punctuation mark “.” (indicating the ending of a sentence or marking an abbreviation)."
+  ]
+ },
+ {
+  "id": "position",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A place or location.",
+   "A post of employment",
+   "A status or rank."
+  ]
+ },
+ {
+  "id": "record",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "An item of information put into a temporary or permanent physical medium.",
+   "Any instance of a physical medium on which information was put for the purpose of preserving it and making it available for future…",
+   "Ellipsis of phonograph record (“a disc, usually made from vinyl, on which sound is recorded and may be replayed on a phonograph”)."
+  ]
+ },
+ {
+  "id": "similar",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Having traits or characteristics in common",
+   "Having the same shape, in particular, having corresponding angles equal and corresponding line segments proportional.",
+   "Of two square matrices"
+  ]
+ },
+ {
+  "id": "above",
+  "pos": [
+   "adj",
+   "adv",
+   "prep",
+   "n"
+  ],
+  "en": [
+   "Physically over",
+   "In or to a higher place",
+   "Farther north than."
+  ]
+ },
+ {
+  "id": "club",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A heavy object, often a kind of stick, intended for use as a bludgeoning weapon or a plaything.",
+   "An association of members joining together for some common purpose, especially sports or recreation.",
+   "A joint charge of expense, or any person's share of it"
+  ]
+ },
+ {
+  "id": "common",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Mutual",
+   "Existing among virtually all people",
+   "Occurring or happening regularly or frequently"
+  ]
+ },
+ {
+  "id": "film",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A thin layer of some substance",
+   "A medium used to capture images in a camera.",
+   "The sequence of still images itself, which produces a moving image when played"
+  ]
+ },
+ {
+  "id": "lead",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "A heavy, pliable, inelastic metal element, having a bright, bluish color, but easily tarnished",
+   "A plummet or mass of lead attached to a line, used in sounding depth at sea or to estimate velocity in knots.",
+   "A thin strip of type metal, used to separate lines of type in printing."
+  ]
+ },
+ {
+  "id": "left-hand",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of, relating to, or located on the left.",
+   "Using or designed for use by the left hand.",
+   "Of opposite chirality to the standard."
+  ]
+ },
+ {
+  "id": "likely",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "en": [
+   "Probable",
+   "Reasonably to be expected",
+   "Appropriate, suitable"
+  ]
+ },
+ {
+  "id": "military",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Characteristic of members of the armed forces.",
+   "Relating to armed forces such as the army, marines, navy and air force (often as distinguished from civilians or police forces).",
+   "Relating to war."
+  ]
+ },
+ {
+  "id": "perfect",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Fitting its definition precisely.",
+   "Having all of its parts in harmony with a common purpose.",
+   "Without fault or mistake"
+  ]
+ },
+ {
+  "id": "personal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Pertaining to persons (human beings as opposed to things or animals).",
+   "Of or pertaining to a particular person",
+   "Dealing with subjects about which one wishes (or people usually wish) to maintain privacy or discretion"
+  ]
+ },
+ {
+  "id": "share",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A portion of something, especially a portion given or allotted to someone.",
+   "A financial instrument that shows that one owns a part of a company that provides the benefit of limited liability.",
+   "A configuration enabling a resource to be shared over a network."
+  ]
+ },
+ {
+  "id": "tv",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Alternative form of TV."
+  ]
+ },
+ {
+  "id": "april",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The fourth month of the Gregorian calendar, following March and preceding May.",
+   "A female given name transferred from the month name [in turn from English]",
+   "A surname."
+  ]
+ }
+]

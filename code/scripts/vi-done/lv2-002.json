@@ -1,0 +1,402 @@
+{
+  "factor": {
+    "vi": "yếu tố; nhân tố; thừa số",
+    "coll": ["a key factor", "an important factor", "a risk factor", "a contributing factor", "the deciding factor"]
+  },
+  "route": {
+    "vi": "tuyến đường; lộ trình; con đường dẫn đến",
+    "coll": ["the shortest route", "a bus route", "an escape route", "a trade route", "the route to success"]
+  },
+  "squad": {
+    "vi": "đội; tiểu đội; nhóm bạn thân",
+    "coll": ["the national squad", "a bomb squad", "a squad car", "squad members", "the first-team squad"]
+  },
+  "abuse": {
+    "vi": "lạm dụng; ngược đãi; lời lăng mạ",
+    "coll": ["child abuse", "drug abuse", "abuse of power", "verbal abuse", "domestic abuse"]
+  },
+  "candidate": {
+    "vi": "ứng viên; thí sinh; người có triển vọng",
+    "coll": ["a presidential candidate", "the ideal candidate", "the leading candidate", "the successful candidate", "candidates for the job"]
+  },
+  "developing": {
+    "vi": "đang phát triển; đang hình thành",
+    "coll": ["developing countries", "the developing world", "developing economies", "a developing crisis"]
+  },
+  "facilities": {
+    "vi": "cơ sở vật chất; tiện nghi",
+    "coll": ["sports facilities", "modern facilities", "medical facilities", "leisure facilities", "facilities for disabled people"]
+  },
+  "fox": {
+    "vi": "con cáo; kẻ ranh mãnh",
+    "coll": ["a red fox", "sly as a fox", "fox hunting", "a fox cub", "a silver fox"]
+  },
+  "grown-up": {
+    "vi": "người lớn; đã trưởng thành",
+    "coll": ["act like a grown-up", "grown-up children", "a grown-up conversation", "grown-ups only"]
+  },
+  "liberal": {
+    "vi": "phóng khoáng; tự do (chính trị); hào phóng",
+    "coll": ["liberal democracy", "liberal views", "a liberal attitude", "the Liberal Party", "liberal arts"]
+  },
+  "payment": {
+    "vi": "khoản thanh toán; việc trả tiền",
+    "coll": ["make a payment", "a monthly payment", "a payment method", "late payment", "payment in full"]
+  },
+  "sector": {
+    "vi": "khu vực (kinh tế); ngành; lĩnh vực",
+    "coll": ["the private sector", "the public sector", "the banking sector", "the manufacturing sector", "a sector of the economy"]
+  },
+  "climate change": {
+    "vi": "biến đổi khí hậu",
+    "coll": ["combat climate change", "the effects of climate change", "climate change policy", "global climate change"]
+  },
+  "high-tech": {
+    "vi": "công nghệ cao",
+    "coll": ["the high-tech industry", "high-tech equipment", "high-tech companies", "high-tech gadgets"]
+  },
+  "specifically": {
+    "vi": "cụ thể; riêng cho; nói rõ ra là",
+    "coll": ["specifically designed", "more specifically", "specifically mention", "aimed specifically at"]
+  },
+  "urban": {
+    "vi": "đô thị; thành thị",
+    "coll": ["urban areas", "urban planning", "urban development", "the urban population", "urban life"]
+  },
+  "aircraft": {
+    "vi": "máy bay; phi cơ",
+    "coll": ["military aircraft", "an aircraft carrier", "commercial aircraft", "light aircraft", "the aircraft landed"]
+  },
+  "considering": {
+    "vi": "xét đến; kể ra thì cũng; đang cân nhắc",
+    "coll": ["considering the circumstances", "considering his age", "considering everything", "not bad, considering"]
+  },
+  "corporate": {
+    "vi": "thuộc công ty; doanh nghiệp",
+    "coll": ["corporate culture", "a corporate image", "corporate finance", "the corporate world", "corporate responsibility"]
+  },
+  "determined": {
+    "vi": "quyết tâm; kiên quyết",
+    "coll": ["determined to succeed", "a determined effort", "fiercely determined", "a determined attitude"]
+  },
+  "friendly": {
+    "vi": "thân thiện; thân mật; trận giao hữu",
+    "coll": ["a friendly smile", "user friendly", "environmentally friendly", "a friendly atmosphere", "a friendly match"]
+  },
+  "phase": {
+    "vi": "giai đoạn; thời kỳ; pha",
+    "coll": ["the first phase", "a phase of development", "phase out", "in phases", "a difficult phase"]
+  },
+  "revenue": {
+    "vi": "doanh thu; nguồn thu",
+    "coll": ["generate revenue", "tax revenue", "annual revenue", "revenue growth", "advertising revenue"]
+  },
+  "remaining": {
+    "vi": "còn lại",
+    "coll": ["the remaining time", "the remaining players", "remaining funds", "the remaining questions"]
+  },
+  "estimated": {
+    "vi": "ước tính; ước lượng",
+    "coll": ["the estimated cost", "estimated at 500", "the estimated time of arrival", "the estimated number"]
+  },
+  "theme": {
+    "vi": "chủ đề; đề tài; nhạc chủ đề",
+    "coll": ["the main theme", "a theme park", "a recurring theme", "a theme song", "the central theme"]
+  },
+  "assembly": {
+    "vi": "sự lắp ráp; hội đồng, quốc hội; buổi tập trung",
+    "coll": ["an assembly line", "the National Assembly", "the general assembly", "a school assembly", "freedom of assembly"]
+  },
+  "draft": {
+    "vi": "bản nháp; soạn thảo; gió lùa",
+    "coll": ["a first draft", "draft a letter", "a rough draft", "a draft agreement", "draft legislation"]
+  },
+  "improved": {
+    "vi": "được cải thiện; tốt hơn trước",
+    "coll": ["greatly improved", "improved performance", "an improved version", "improved conditions"]
+  },
+  "prime minister": {
+    "vi": "thủ tướng",
+    "coll": ["the British Prime Minister", "the deputy prime minister", "the former prime minister", "the prime minister's office"]
+  },
+  "relevant": {
+    "vi": "liên quan; thích đáng; hợp thời",
+    "coll": ["relevant information", "relevant experience", "directly relevant", "relevant to the topic", "relevant documents"]
+  },
+  "solo": {
+    "vi": "đơn ca, độc tấu; một mình; đơn độc",
+    "coll": ["a guitar solo", "a solo career", "go solo", "a solo album", "a solo flight"]
+  },
+  "statistics": {
+    "vi": "số liệu thống kê; môn thống kê",
+    "coll": ["official statistics", "according to statistics", "crime statistics", "statistics show", "collect statistics"]
+  },
+  "territory": {
+    "vi": "lãnh thổ; địa bàn; lĩnh vực",
+    "coll": ["enemy territory", "occupied territory", "uncharted territory", "defend its territory", "a disputed territory"]
+  },
+  "corporation": {
+    "vi": "tập đoàn; công ty lớn",
+    "coll": ["a multinational corporation", "a large corporation", "corporation tax", "the British Broadcasting Corporation"]
+  },
+  "motion": {
+    "vi": "chuyển động; cử động; kiến nghị (trong cuộc họp)",
+    "coll": ["in motion", "set in motion", "slow motion", "propose a motion", "motion sickness"]
+  },
+  "resolution": {
+    "vi": "nghị quyết; sự giải quyết; độ phân giải; quyết tâm",
+    "coll": ["pass a resolution", "a UN resolution", "a New Year's resolution", "high resolution", "conflict resolution"]
+  },
+  "rural": {
+    "vi": "nông thôn; thuộc miền quê",
+    "coll": ["rural areas", "rural life", "rural communities", "rural development", "the rural population"]
+  },
+  "saving": {
+    "vi": "sự tiết kiệm; khoản tiết kiệm được",
+    "coll": ["energy saving", "cost saving", "a saving of 20 percent", "time-saving", "labour-saving"]
+  },
+  "plot": {
+    "vi": "cốt truyện; âm mưu; mảnh đất",
+    "coll": ["the plot of the story", "a plot to kill", "a plot twist", "a plot of land", "the plot thickens"]
+  },
+  "senator": {
+    "vi": "thượng nghị sĩ",
+    "coll": ["a US senator", "the senator from Texas", "a senior senator", "senators voted"]
+  },
+  "index": {
+    "vi": "chỉ số; mục lục; ngón trỏ",
+    "coll": ["the price index", "the index finger", "the index of a book", "a stock index", "the consumer price index"]
+  },
+  "navy": {
+    "vi": "hải quân; màu xanh nước biển đậm",
+    "coll": ["join the navy", "the Royal Navy", "navy blue", "a navy officer", "the US Navy"]
+  },
+  "scheme": {
+    "vi": "chương trình, kế hoạch; mưu đồ",
+    "coll": ["a pension scheme", "a training scheme", "a colour scheme", "a government scheme", "a scheme to defraud investors"]
+  },
+  "ultimately": {
+    "vi": "cuối cùng; rốt cuộc; xét cho cùng",
+    "coll": ["ultimately responsible", "ultimately lead to", "ultimately successful", "ultimately, it depends"]
+  },
+  "x-ray": {
+    "vi": "tia X; ảnh chụp X-quang; chụp X-quang",
+    "coll": ["have an X-ray", "a chest X-ray", "an X-ray machine", "X-ray vision"]
+  },
+  "creation": {
+    "vi": "sự tạo ra; tác phẩm; sự sáng thế",
+    "coll": ["job creation", "the creation of the universe", "wealth creation", "a new creation", "the creation of jobs"]
+  },
+  "identify": {
+    "vi": "nhận diện; xác định; đồng cảm (identify with)",
+    "coll": ["identify a problem", "identify the body", "identify with a character", "correctly identify", "identify a suspect"]
+  },
+  "manufacturing": {
+    "vi": "sản xuất; chế tạo; ngành chế tạo",
+    "coll": ["the manufacturing industry", "the manufacturing process", "car manufacturing", "manufacturing jobs", "manufacturing costs"]
+  },
+  "personnel": {
+    "vi": "nhân sự; đội ngũ nhân viên",
+    "coll": ["military personnel", "the personnel department", "trained personnel", "medical personnel", "a personnel manager"]
+  },
+  "perspective": {
+    "vi": "góc nhìn; quan điểm; luật phối cảnh",
+    "coll": ["from a different perspective", "put things in perspective", "a historical perspective", "a fresh perspective", "a sense of perspective"]
+  },
+  "revolution": {
+    "vi": "cuộc cách mạng; vòng quay",
+    "coll": ["the French Revolution", "the industrial revolution", "a technological revolution", "revolutions per minute", "start a revolution"]
+  },
+  "ban": {
+    "vi": "lệnh cấm; cấm",
+    "coll": ["impose a ban", "lift a ban", "a smoking ban", "a ban on advertising", "ban a book"]
+  },
+  "carbon": {
+    "vi": "cacbon; khí thải cacbon",
+    "coll": ["carbon dioxide", "carbon emissions", "a carbon footprint", "carbon neutral", "carbon monoxide"]
+  },
+  "deputy": {
+    "vi": "cấp phó; người thay quyền",
+    "coll": ["the deputy director", "the deputy prime minister", "a deputy head", "a deputy sheriff", "act as deputy"]
+  },
+  "interior": {
+    "vi": "bên trong; nội thất; nội địa",
+    "coll": ["interior design", "the interior of the house", "interior walls", "the car interior", "the Ministry of the Interior"]
+  },
+  "legislation": {
+    "vi": "đạo luật; luật pháp; việc lập pháp",
+    "coll": ["new legislation", "pass legislation", "environmental legislation", "introduce legislation", "under current legislation"]
+  },
+  "mate": {
+    "vi": "bạn thân; bạn đời; con đực (cái) để phối giống",
+    "coll": ["my best mate", "a mate of mine", "a running mate", "choose a mate", "a soul mate"]
+  },
+  "panel": {
+    "vi": "hội đồng, ban chuyên gia; tấm ván; bảng điều khiển",
+    "coll": ["a panel of experts", "a control panel", "a solar panel", "a panel discussion", "a wooden panel"]
+  },
+  "relief": {
+    "vi": "sự nhẹ nhõm; sự cứu trợ; sự giảm đau",
+    "coll": ["a sense of relief", "pain relief", "relief work", "much to my relief", "disaster relief"]
+  },
+  "resistance": {
+    "vi": "sự kháng cự; sức đề kháng; điện trở",
+    "coll": ["meet with resistance", "resistance to change", "put up resistance", "antibiotic resistance", "the French Resistance"]
+  },
+  "self-confidence": {
+    "vi": "sự tự tin",
+    "coll": ["build self-confidence", "a lack of self-confidence", "gain self-confidence", "boost your self-confidence"]
+  },
+  "somewhat": {
+    "vi": "hơi; phần nào",
+    "coll": ["somewhat different", "somewhat surprised", "somewhat better", "somewhat limited"]
+  },
+  "cable": {
+    "vi": "dây cáp; truyền hình cáp",
+    "coll": ["cable television", "a power cable", "a cable car", "fibre optic cable", "a cable channel"]
+  },
+  "client": {
+    "vi": "khách hàng; thân chủ",
+    "coll": ["a regular client", "a client base", "meet a client", "potential clients", "the client relationship"]
+  },
+  "constant": {
+    "vi": "liên tục; không đổi; hằng số",
+    "coll": ["constant change", "a constant reminder", "constant pain", "remain constant", "a constant temperature"]
+  },
+  "dumb": {
+    "vi": "ngu ngốc, ngớ ngẩn; câm, không nói được (cũ)",
+    "coll": ["a dumb question", "play dumb", "deaf and dumb", "dumb luck", "struck dumb"]
+  },
+  "expansion": {
+    "vi": "sự mở rộng; sự giãn nở",
+    "coll": ["rapid expansion", "business expansion", "expansion plans", "economic expansion", "the expansion of the EU"]
+  },
+  "significantly": {
+    "vi": "đáng kể; rõ rệt",
+    "coll": ["significantly higher", "significantly increase", "significantly different", "significantly reduced"]
+  },
+  "soviet": {
+    "vi": "Xô viết; thuộc Liên Xô",
+    "coll": ["the Soviet Union", "a Soviet leader", "the former Soviet republics", "the Soviet era"]
+  },
+  "peak": {
+    "vi": "đỉnh cao; đỉnh núi; đạt đỉnh",
+    "coll": ["reach a peak", "at its peak", "peak hours", "the peak season", "a mountain peak"]
+  },
+  "portion": {
+    "vi": "phần; khẩu phần ăn",
+    "coll": ["a large portion", "portion size", "a portion of the money", "a small portion of food"]
+  },
+  "reform": {
+    "vi": "cải cách; cải tổ",
+    "coll": ["economic reform", "political reform", "reform the system", "educational reform", "land reform"]
+  },
+  "retirement": {
+    "vi": "sự nghỉ hưu; thời gian nghỉ hưu",
+    "coll": ["early retirement", "retirement age", "take retirement", "a retirement plan", "since his retirement"]
+  },
+  "secondary": {
+    "vi": "thứ yếu; trung học; thứ cấp",
+    "coll": ["secondary school", "secondary education", "of secondary importance", "a secondary source", "secondary effects"]
+  },
+  "solar": {
+    "vi": "thuộc mặt trời; dùng năng lượng mặt trời",
+    "coll": ["solar energy", "a solar panel", "the solar system", "solar power", "a solar eclipse"]
+  },
+  "suffering": {
+    "vi": "sự đau khổ; nỗi thống khổ",
+    "coll": ["human suffering", "ease the suffering", "great suffering", "cause suffering", "pain and suffering"]
+  },
+  "ultimate": {
+    "vi": "cuối cùng; tối thượng; tuyệt đỉnh",
+    "coll": ["the ultimate goal", "ultimate responsibility", "the ultimate aim", "ultimate authority", "the ultimate test"]
+  },
+  "attached": {
+    "vi": "được gắn vào; đính kèm; quyến luyến",
+    "coll": ["attached to the wall", "please find attached", "become attached to", "an attached file", "no strings attached"]
+  },
+  "decade": {
+    "vi": "thập kỷ; mười năm",
+    "coll": ["the last decade", "over a decade", "a decade ago", "for decades", "the coming decade"]
+  },
+  "external": {
+    "vi": "bên ngoài; từ bên ngoài",
+    "coll": ["external factors", "external pressure", "for external use only", "an external hard drive", "external walls"]
+  },
+  "presidential": {
+    "vi": "thuộc tổng thống",
+    "coll": ["a presidential election", "a presidential candidate", "a presidential campaign", "the presidential palace"]
+  },
+  "shipping": {
+    "vi": "việc vận chuyển; phí giao hàng; ngành vận tải biển",
+    "coll": ["free shipping", "shipping costs", "a shipping company", "the shipping industry", "shipping and handling"]
+  },
+  "therapy": {
+    "vi": "liệu pháp; trị liệu",
+    "coll": ["physical therapy", "speech therapy", "go into therapy", "a therapy session", "gene therapy"]
+  },
+  "adopted": {
+    "vi": "được nhận nuôi; được thông qua; được áp dụng",
+    "coll": ["an adopted child", "his adopted country", "the plan was adopted", "an adopted son"]
+  },
+  "commander": {
+    "vi": "chỉ huy; tư lệnh",
+    "coll": ["the commander in chief", "a military commander", "a field commander", "the commander of the army", "a deputy commander"]
+  },
+  "detailed": {
+    "vi": "chi tiết; tỉ mỉ",
+    "coll": ["a detailed description", "detailed information", "a detailed analysis", "detailed plans", "a detailed report"]
+  },
+  "injured": {
+    "vi": "bị thương",
+    "coll": ["seriously injured", "badly injured", "the injured man", "injured players", "injured in an accident"]
+  },
+  "quote": {
+    "vi": "trích dẫn; câu trích dẫn; báo giá",
+    "coll": ["quote a price", "a famous quote", "quote from a book", "get a quote", "quote unquote"]
+  },
+  "convention": {
+    "vi": "hội nghị lớn; quy ước, tục lệ; công ước",
+    "coll": ["a party convention", "the Geneva Convention", "social convention", "by convention", "attend a convention"]
+  },
+  "employee": {
+    "vi": "nhân viên; người lao động",
+    "coll": ["a full-time employee", "employee benefits", "a former employee", "employee satisfaction", "a government employee"]
+  },
+  "fed up": {
+    "vi": "chán ngấy; phát chán, ngán ngẩm",
+    "coll": ["fed up with", "get fed up", "totally fed up", "fed up with waiting"]
+  },
+  "gang": {
+    "vi": "băng nhóm; nhóm, hội; toán thợ",
+    "coll": ["a street gang", "a gang member", "gang violence", "a gang of thieves", "join a gang"]
+  },
+  "well-organized": {
+    "vi": "có tổ chức tốt; ngăn nắp, khoa học",
+    "coll": ["a well-organized event", "a well-organized person", "a well-organized system", "a well-organized campaign"]
+  },
+  "cabinet": {
+    "vi": "tủ có ngăn; nội các chính phủ",
+    "coll": ["a kitchen cabinet", "a filing cabinet", "a cabinet minister", "a cabinet meeting", "a medicine cabinet"]
+  },
+  "contemporary": {
+    "vi": "đương đại; cùng thời; người cùng thời",
+    "coll": ["contemporary art", "contemporary music", "contemporary society", "contemporary issues", "a contemporary of Shakespeare"]
+  },
+  "criticism": {
+    "vi": "sự chỉ trích; lời phê bình",
+    "coll": ["harsh criticism", "come under criticism", "constructive criticism", "literary criticism", "face criticism"]
+  },
+  "dna": {
+    "vi": "ADN; phân tử di truyền",
+    "coll": ["a DNA test", "DNA evidence", "a DNA sample", "a DNA sequence", "in his DNA"]
+  },
+  "effectively": {
+    "vi": "một cách hiệu quả; thực chất là",
+    "coll": ["work effectively", "communicate effectively", "deal with it effectively", "effectively banned"]
+  },
+  "extensive": {
+    "vi": "rộng lớn; sâu rộng; nhiều",
+    "coll": ["extensive damage", "extensive research", "extensive experience", "extensive coverage", "extensive knowledge"]
+  }
+}

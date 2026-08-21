@@ -1,0 +1,825 @@
+[
+ {
+  "id": "horizontally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo chiều ngang",
+  "coll": [
+   "move horizontally",
+   "lie horizontally",
+   "scroll horizontally",
+   "horizontally aligned",
+   "horizontally integrated"
+  ]
+ },
+ {
+  "id": "daycare",
+  "pos": [
+   "n"
+  ],
+  "vi": "dịch vụ trông trẻ ban ngày",
+  "coll": [
+   "daycare centre",
+   "daycare provider",
+   "put in daycare",
+   "affordable daycare",
+   "daycare worker"
+  ]
+ },
+ {
+  "id": "disproportionately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách chênh lệch quá mức",
+  "coll": [
+   "disproportionately affected",
+   "disproportionately high",
+   "disproportionately large",
+   "disproportionately represented",
+   "disproportionately low"
+  ]
+ },
+ {
+  "id": "exhaustive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đầy đủ toàn diện, vét cạn",
+  "coll": [
+   "exhaustive list",
+   "exhaustive search",
+   "exhaustive study",
+   "not exhaustive",
+   "exhaustive analysis"
+  ]
+ },
+ {
+  "id": "predetermined",
+  "pos": [
+   "adj"
+  ],
+  "vi": "định sẵn từ trước",
+  "coll": [
+   "predetermined outcome",
+   "predetermined price",
+   "predetermined criteria",
+   "a predetermined time",
+   "predetermined route"
+  ]
+ },
+ {
+  "id": "unresolved",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chưa giải quyết; còn bỏ ngỏ",
+  "coll": [
+   "unresolved issues",
+   "remain unresolved",
+   "unresolved conflict",
+   "unresolved questions",
+   "unresolved dispute"
+  ]
+ },
+ {
+  "id": "externally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "từ bên ngoài; về mặt đối ngoại",
+  "coll": [
+   "externally funded",
+   "apply externally",
+   "externally sourced",
+   "externally visible",
+   "externally imposed"
+  ]
+ },
+ {
+  "id": "punishable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có thể bị trừng phạt",
+  "coll": [
+   "punishable by law",
+   "punishable offence",
+   "punishable by death",
+   "punishable by a fine",
+   "criminally punishable"
+  ]
+ },
+ {
+  "id": "polarized",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phân cực; chia rẽ hai cực",
+  "coll": [
+   "polarized opinion",
+   "polarized society",
+   "deeply polarized",
+   "polarized light",
+   "polarized debate"
+  ]
+ },
+ {
+  "id": "winery",
+  "pos": [
+   "n"
+  ],
+  "vi": "xưởng làm rượu vang; nhà máy rượu vang",
+  "coll": [
+   "visit a winery",
+   "boutique winery",
+   "winery tour",
+   "local winery",
+   "family-run winery"
+  ]
+ },
+ {
+  "id": "cameraman",
+  "pos": [
+   "n"
+  ],
+  "vi": "người quay phim",
+  "coll": [
+   "the cameraman filmed",
+   "TV cameraman",
+   "freelance cameraman",
+   "chief cameraman",
+   "cameraman and sound engineer"
+  ]
+ },
+ {
+  "id": "brigadier",
+  "pos": [
+   "n"
+  ],
+  "vi": "chuẩn tướng, lữ đoàn trưởng",
+  "coll": [
+   "brigadier general",
+   "retired brigadier",
+   "the brigadier ordered",
+   "promoted to brigadier",
+   "brigadier in command"
+  ]
+ },
+ {
+  "id": "fiasco",
+  "pos": [
+   "n"
+  ],
+  "vi": "vụ thất bại thảm hại",
+  "coll": [
+   "a complete fiasco",
+   "turn into a fiasco",
+   "the whole fiasco",
+   "political fiasco",
+   "an embarrassing fiasco"
+  ]
+ },
+ {
+  "id": "rockstar",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngôi sao nhạc rock; nhân vật cực xuất sắc",
+  "coll": [
+   "a rockstar performance",
+   "rockstar status",
+   "like a rockstar",
+   "rockstar developer",
+   "treated like a rockstar"
+  ]
+ },
+ {
+  "id": "cryptocurrency",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiền mã hóa, tiền điện tử",
+  "coll": [
+   "cryptocurrency exchange",
+   "invest in cryptocurrency",
+   "cryptocurrency market",
+   "cryptocurrency mining",
+   "cryptocurrency wallet"
+  ]
+ },
+ {
+  "id": "denote",
+  "pos": [
+   "v"
+  ],
+  "vi": "biểu thị, chỉ; có nghĩa là",
+  "coll": [
+   "denote a change",
+   "the symbol denotes",
+   "denote ownership",
+   "used to denote",
+   "denote the beginning"
+  ]
+ },
+ {
+  "id": "perch",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đậu, ngồi vắt vẻo; chỗ đậu cao; cá rô",
+  "coll": [
+   "perch on the edge",
+   "a bird perched",
+   "perched on a branch",
+   "high perch",
+   "perch on a stool"
+  ]
+ },
+ {
+  "id": "clinch",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chốt hạ, giành chắc; ôm ghì",
+  "coll": [
+   "clinch the deal",
+   "clinch victory",
+   "clinch the title",
+   "clinch a contract",
+   "clinch first place"
+  ]
+ },
+ {
+  "id": "recourse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự viện đến, cách cầu cứu",
+  "coll": [
+   "have recourse to",
+   "without recourse",
+   "legal recourse",
+   "the only recourse",
+   "recourse to violence"
+  ]
+ },
+ {
+  "id": "collide",
+  "pos": [
+   "v"
+  ],
+  "vi": "va chạm, đâm vào nhau; xung đột",
+  "coll": [
+   "collide with a truck",
+   "the cars collided",
+   "collide head-on",
+   "worlds collide",
+   "collide violently"
+  ]
+ },
+ {
+  "id": "perpendicular",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vuông góc; thẳng đứng; đường vuông góc",
+  "coll": [
+   "perpendicular to the ground",
+   "perpendicular line",
+   "perpendicular bisector",
+   "perpendicular axis"
+  ]
+ },
+ {
+  "id": "mana",
+  "pos": [
+   "n"
+  ],
+  "vi": "uy lực siêu nhiên; năng lượng phép thuật; thanh thế",
+  "coll": [
+   "mana pool",
+   "restore mana",
+   "mana points",
+   "spend mana"
+  ]
+ },
+ {
+  "id": "plywood",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gỗ dán; ván ép",
+  "coll": [
+   "sheet of plywood",
+   "plywood panel",
+   "marine plywood",
+   "plywood board"
+  ]
+ },
+ {
+  "id": "wacky",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kỳ quặc; tưng tửng; lập dị",
+  "coll": [
+   "wacky idea",
+   "wacky sense of humour",
+   "wacky character",
+   "wacky costume"
+  ]
+ },
+ {
+  "id": "occult",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "huyền bí; thuật huyền bí; che khuất",
+  "coll": [
+   "the occult",
+   "occult practices",
+   "occult sciences",
+   "occult knowledge"
+  ]
+ },
+ {
+  "id": "hangar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà chứa máy bay",
+  "coll": [
+   "aircraft hangar",
+   "hangar door",
+   "maintenance hangar",
+   "in the hangar"
+  ]
+ },
+ {
+  "id": "meow",
+  "pos": [
+   "intj",
+   "n",
+   "v"
+  ],
+  "vi": "meo meo; tiếng mèo kêu; kêu meo meo",
+  "coll": [
+   "the cat meowed",
+   "a loud meow",
+   "meow softly",
+   "a plaintive meow"
+  ]
+ },
+ {
+  "id": "feral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hoang dã; sống hoang; hung dữ",
+  "coll": [
+   "feral cat",
+   "feral animals",
+   "go feral",
+   "feral dogs"
+  ]
+ },
+ {
+  "id": "dossier",
+  "pos": [
+   "n"
+  ],
+  "vi": "hồ sơ; tập tài liệu",
+  "coll": [
+   "compile a dossier",
+   "a dossier on someone",
+   "secret dossier",
+   "police dossier"
+  ]
+ },
+ {
+  "id": "mirage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ảo ảnh; ảo vọng",
+  "coll": [
+   "a desert mirage",
+   "like a mirage",
+   "chase a mirage",
+   "prove to be a mirage"
+  ]
+ },
+ {
+  "id": "smelly",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hôi; có mùi khó chịu; đáng ngờ",
+  "coll": [
+   "smelly feet",
+   "smelly socks",
+   "smelly cheese",
+   "smelly bin"
+  ]
+ },
+ {
+  "id": "hardworking",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chăm chỉ; siêng năng; cần cù",
+  "coll": [
+   "hardworking student",
+   "hardworking family",
+   "honest and hardworking",
+   "hardworking employee"
+  ]
+ },
+ {
+  "id": "compulsive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không cưỡng lại được; nghiện (thành bệnh); cuốn hút khó dứt",
+  "coll": [
+   "compulsive liar",
+   "compulsive gambler",
+   "compulsive behaviour",
+   "compulsive eating"
+  ]
+ },
+ {
+  "id": "lipid",
+  "pos": [
+   "n"
+  ],
+  "vi": "lipid; chất béo",
+  "coll": [
+   "blood lipid levels",
+   "lipid metabolism",
+   "lipid profile",
+   "lipid bilayer"
+  ]
+ },
+ {
+  "id": "commemoration",
+  "pos": [
+   "n"
+  ],
+  "vi": "lễ tưởng niệm; sự kỷ niệm",
+  "coll": [
+   "in commemoration of",
+   "commemoration ceremony",
+   "commemoration service",
+   "annual commemoration"
+  ]
+ },
+ {
+  "id": "discrepancy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chênh lệch; chỗ không khớp; sự sai lệch",
+  "coll": [
+   "a discrepancy between",
+   "explain the discrepancy",
+   "significant discrepancy",
+   "discrepancy in the accounts"
+  ]
+ },
+ {
+  "id": "sequential",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tuần tự; theo thứ tự; nối tiếp nhau",
+  "coll": [
+   "sequential order",
+   "sequential access",
+   "sequential steps",
+   "sequential numbering"
+  ]
+ },
+ {
+  "id": "congenital",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bẩm sinh",
+  "coll": [
+   "congenital heart defect",
+   "congenital disease",
+   "congenital abnormality",
+   "congenital blindness"
+  ]
+ },
+ {
+  "id": "stationery",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "văn phòng phẩm; đồ dùng học tập",
+  "coll": [
+   "stationery shop",
+   "office stationery",
+   "stationery supplies",
+   "headed stationery"
+  ]
+ },
+ {
+  "id": "daredevil",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "kẻ liều lĩnh; tay liều mạng; liều lĩnh",
+  "coll": [
+   "daredevil stunt",
+   "daredevil rider",
+   "daredevil feats",
+   "a young daredevil"
+  ]
+ },
+ {
+  "id": "excite",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm phấn khích; kích thích; khơi dậy",
+  "coll": [
+   "excite interest",
+   "excite curiosity",
+   "excite the crowd",
+   "excite suspicion"
+  ]
+ },
+ {
+  "id": "purification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thanh lọc; sự tinh chế; lễ tẩy uế",
+  "coll": [
+   "water purification",
+   "air purification",
+   "purification process",
+   "purification ritual"
+  ]
+ },
+ {
+  "id": "ovation",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tràng pháo tay; sự hoan nghênh nhiệt liệt",
+  "coll": [
+   "standing ovation",
+   "receive an ovation",
+   "a rapturous ovation",
+   "give someone an ovation"
+  ]
+ },
+ {
+  "id": "tofu",
+  "pos": [
+   "n"
+  ],
+  "vi": "đậu phụ; đậu hũ",
+  "coll": [
+   "fried tofu",
+   "silken tofu",
+   "a block of tofu",
+   "tofu and vegetables"
+  ]
+ },
+ {
+  "id": "wreckage",
+  "pos": [
+   "n"
+  ],
+  "vi": "đống đổ nát; xác máy bay đắm; mảnh vỡ",
+  "coll": [
+   "the wreckage of the plane",
+   "search the wreckage",
+   "pull from the wreckage",
+   "burning wreckage"
+  ]
+ },
+ {
+  "id": "cholera",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh tả",
+  "coll": [
+   "cholera outbreak",
+   "cholera epidemic",
+   "contract cholera",
+   "die of cholera"
+  ]
+ },
+ {
+  "id": "mediator",
+  "pos": [
+   "n"
+  ],
+  "vi": "người hòa giải; bên trung gian; chất trung gian",
+  "coll": [
+   "act as a mediator",
+   "independent mediator",
+   "appoint a mediator",
+   "mediator between the parties"
+  ]
+ },
+ {
+  "id": "navigator",
+  "pos": [
+   "n"
+  ],
+  "vi": "hoa tiêu; người dẫn đường; nhà hàng hải",
+  "coll": [
+   "the ship's navigator",
+   "a skilled navigator",
+   "great navigator",
+   "navigator of the aircraft"
+  ]
+ },
+ {
+  "id": "sunscreen",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kem chống nắng; bôi kem chống nắng",
+  "coll": [
+   "apply sunscreen",
+   "wear sunscreen",
+   "sunscreen lotion",
+   "high-factor sunscreen"
+  ]
+ },
+ {
+  "id": "detox",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thải độc; cai nghiện; sự giải độc",
+  "coll": [
+   "go into detox",
+   "detox diet",
+   "detox programme",
+   "detox the body"
+  ]
+ },
+ {
+  "id": "ascertain",
+  "pos": [
+   "v"
+  ],
+  "vi": "xác định rõ; xác minh; tìm hiểu chắc chắn",
+  "coll": [
+   "ascertain the facts",
+   "ascertain the cause",
+   "ascertain whether",
+   "difficult to ascertain"
+  ]
+ },
+ {
+  "id": "dangling",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lủng lẳng; treo lơ lửng; sự đung đưa",
+  "coll": [
+   "dangling legs",
+   "dangling modifier",
+   "dangling from a rope",
+   "dangling wires"
+  ]
+ },
+ {
+  "id": "proficient",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thành thạo; giỏi; người thành thạo",
+  "coll": [
+   "proficient in English",
+   "highly proficient",
+   "become proficient at",
+   "proficient user"
+  ]
+ },
+ {
+  "id": "journalistic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc báo chí; mang tính báo chí",
+  "coll": [
+   "journalistic integrity",
+   "journalistic style",
+   "journalistic standards",
+   "journalistic ethics"
+  ]
+ },
+ {
+  "id": "lordship",
+  "pos": [
+   "n"
+  ],
+  "vi": "tước vị lãnh chúa; ngài (cách xưng hô); quyền cai quản",
+  "coll": [
+   "His Lordship",
+   "Your Lordship",
+   "the lordship of the manor",
+   "lordship over the land"
+  ]
+ },
+ {
+  "id": "airfield",
+  "pos": [
+   "n"
+  ],
+  "vi": "sân bay nhỏ; bãi đáp máy bay",
+  "coll": [
+   "military airfield",
+   "small airfield",
+   "land at the airfield",
+   "abandoned airfield"
+  ]
+ },
+ {
+  "id": "undue",
+  "pos": [
+   "adj"
+  ],
+  "vi": "quá mức; không chính đáng; thái quá",
+  "coll": [
+   "undue influence",
+   "undue delay",
+   "undue pressure",
+   "without undue haste"
+  ]
+ },
+ {
+  "id": "modulation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự điều biến; sự điều chỉnh; sự chuyển giọng",
+  "coll": [
+   "frequency modulation",
+   "amplitude modulation",
+   "voice modulation",
+   "modulation of the signal"
+  ]
+ },
+ {
+  "id": "regimen",
+  "pos": [
+   "n"
+  ],
+  "vi": "chế độ (ăn, tập); phác đồ điều trị",
+  "coll": [
+   "daily regimen",
+   "exercise regimen",
+   "treatment regimen",
+   "strict regimen"
+  ]
+ },
+ {
+  "id": "purported",
+  "pos": [
+   "adj"
+  ],
+  "vi": "được cho là; bị cho là; trên danh nghĩa",
+  "coll": [
+   "purported benefits",
+   "the purported author",
+   "purported evidence",
+   "purported to be"
+  ]
+ }
+]

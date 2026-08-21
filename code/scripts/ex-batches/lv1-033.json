@@ -1,0 +1,808 @@
+[
+ {
+  "id": "vowel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nguyên âm",
+  "coll": [
+   "vowel sounds",
+   "a long vowel",
+   "a short vowel",
+   "vowels and consonants"
+  ]
+ },
+ {
+  "id": "characterize",
+  "pos": [
+   "v"
+  ],
+  "vi": "đặc trưng cho; mô tả là; khắc họa",
+  "coll": [
+   "characterized by",
+   "characterize the relationship",
+   "characterize him as a hero",
+   "broadly characterized"
+  ]
+ },
+ {
+  "id": "giraffe",
+  "pos": [
+   "n"
+  ],
+  "vi": "hươu cao cổ",
+  "coll": [
+   "a herd of giraffes",
+   "a giraffe's long neck",
+   "a baby giraffe",
+   "giraffes on the savannah"
+  ]
+ },
+ {
+  "id": "takeaway",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "đồ ăn mang về; quán bán mang về; điều rút ra",
+  "coll": [
+   "takeaway food",
+   "order a takeaway",
+   "a Chinese takeaway",
+   "the key takeaway"
+  ]
+ },
+ {
+  "id": "mailbox",
+  "pos": [
+   "n"
+  ],
+  "vi": "hòm thư; hộp thư (điện tử)",
+  "coll": [
+   "check the mailbox",
+   "an empty mailbox",
+   "your mailbox is full",
+   "put it in the mailbox"
+  ]
+ },
+ {
+  "id": "enrich",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm giàu; làm phong phú; làm màu mỡ",
+  "coll": [
+   "enrich your life",
+   "enrich the soil",
+   "enriched uranium",
+   "enrich the experience"
+  ]
+ },
+ {
+  "id": "fright",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sự sợ hãi; cơn hoảng sợ",
+  "coll": [
+   "give someone a fright",
+   "take fright",
+   "stage fright",
+   "shake with fright"
+  ]
+ },
+ {
+  "id": "gall",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự trơ tráo; mật; nỗi cay đắng; làm phật ý",
+  "coll": [
+   "have the gall to",
+   "gall bladder",
+   "it galls me that",
+   "the sheer gall of it"
+  ]
+ },
+ {
+  "id": "illuminate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "chiếu sáng; soi sáng; làm sáng tỏ",
+  "coll": [
+   "illuminate the room",
+   "illuminated by candles",
+   "illuminate the issue",
+   "brightly illuminated"
+  ]
+ },
+ {
+  "id": "jog",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chạy bộ; cú hích nhẹ; gợi (trí nhớ)",
+  "coll": [
+   "go for a jog",
+   "jog your memory",
+   "a morning jog",
+   "jog along the beach"
+  ]
+ },
+ {
+  "id": "jug",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái bình; ca đựng nước; nhà giam (lóng)",
+  "coll": [
+   "a jug of water",
+   "a milk jug",
+   "pour from the jug",
+   "a jug of beer"
+  ]
+ },
+ {
+  "id": "chariot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chiến xa (ngựa kéo); xe ngựa hai bánh",
+  "coll": [
+   "a chariot race",
+   "a horse-drawn chariot",
+   "ride a chariot",
+   "chariot wheels"
+  ]
+ },
+ {
+  "id": "dishwasher",
+  "pos": [
+   "n"
+  ],
+  "vi": "máy rửa bát; người rửa bát thuê",
+  "coll": [
+   "load the dishwasher",
+   "dishwasher safe",
+   "empty the dishwasher",
+   "run the dishwasher"
+  ]
+ },
+ {
+  "id": "hasty",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vội vàng; hấp tấp",
+  "coll": [
+   "a hasty decision",
+   "a hasty retreat",
+   "a hasty conclusion",
+   "too hasty"
+  ]
+ },
+ {
+  "id": "imitate",
+  "pos": [
+   "v"
+  ],
+  "vi": "bắt chước; mô phỏng; nhại theo",
+  "coll": [
+   "imitate his voice",
+   "imitate the sounds",
+   "children imitate adults",
+   "imitate the style"
+  ]
+ },
+ {
+  "id": "retrospect",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự nhìn lại quá khứ; sự hồi tưởng",
+  "coll": [
+   "in retrospect",
+   "viewed in retrospect",
+   "only in retrospect",
+   "seem obvious in retrospect"
+  ]
+ },
+ {
+  "id": "boldly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách táo bạo; mạnh dạn",
+  "coll": [
+   "boldly go",
+   "boldly declared",
+   "state boldly",
+   "act boldly"
+  ]
+ },
+ {
+  "id": "eyesight",
+  "pos": [
+   "n"
+  ],
+  "vi": "thị lực; tầm nhìn",
+  "coll": [
+   "good eyesight",
+   "poor eyesight",
+   "lose your eyesight",
+   "failing eyesight"
+  ]
+ },
+ {
+  "id": "recite",
+  "pos": [
+   "v"
+  ],
+  "vi": "đọc thuộc lòng; ngâm (thơ); kể ra",
+  "coll": [
+   "recite a poem",
+   "recite the alphabet",
+   "recite from memory",
+   "recite prayers"
+  ]
+ },
+ {
+  "id": "specialize",
+  "pos": [
+   "v"
+  ],
+  "vi": "chuyên về; chuyên môn hóa",
+  "coll": [
+   "specialize in medicine",
+   "a shop specializing in cheese",
+   "doctors who specialize in surgery",
+   "specialize in international law"
+  ]
+ },
+ {
+  "id": "bravely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách dũng cảm; gan dạ",
+  "coll": [
+   "fight bravely",
+   "bravely faced the danger",
+   "smile bravely",
+   "bravely fought"
+  ]
+ },
+ {
+  "id": "comma",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dấu phẩy",
+  "coll": [
+   "put a comma",
+   "separated by commas",
+   "a comma splice",
+   "a comma before 'and'"
+  ]
+ },
+ {
+  "id": "outweigh",
+  "pos": [
+   "v"
+  ],
+  "vi": "vượt trội hơn; quan trọng hơn; nặng hơn",
+  "coll": [
+   "the benefits outweigh the risks",
+   "advantages outweigh disadvantages",
+   "far outweigh",
+   "outweigh the costs"
+  ]
+ },
+ {
+  "id": "proclaim",
+  "pos": [
+   "v"
+  ],
+  "vi": "tuyên bố; công bố; tuyên cáo",
+  "coll": [
+   "proclaim independence",
+   "proclaim victory",
+   "proclaimed himself king",
+   "officially proclaimed"
+  ]
+ },
+ {
+  "id": "wasteful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lãng phí; hoang phí",
+  "coll": [
+   "wasteful spending",
+   "wasteful habits",
+   "wasteful use of resources",
+   "highly wasteful"
+  ]
+ },
+ {
+  "id": "complicate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "làm phức tạp; làm rắc rối thêm",
+  "coll": [
+   "complicate matters",
+   "complicate the situation",
+   "further complicate",
+   "complicate things"
+  ]
+ },
+ {
+  "id": "meditate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "ngồi thiền; thiền định; suy ngẫm",
+  "coll": [
+   "meditate daily",
+   "meditate on the meaning",
+   "sit and meditate",
+   "learn to meditate"
+  ]
+ },
+ {
+  "id": "vividly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách sống động; rõ mồn một",
+  "coll": [
+   "vividly remember",
+   "vividly described",
+   "vividly colored",
+   "recall vividly"
+  ]
+ },
+ {
+  "id": "inhale",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "hít vào; hít phải",
+  "coll": [
+   "inhale deeply",
+   "inhale smoke",
+   "inhale the fumes",
+   "inhale and exhale"
+  ]
+ },
+ {
+  "id": "nectar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mật hoa; rượu tiên; nước quả ép đặc",
+  "coll": [
+   "bees collect nectar",
+   "the nectar of the gods",
+   "flower nectar",
+   "peach nectar"
+  ]
+ },
+ {
+  "id": "bandage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "băng gạc; băng bó",
+  "coll": [
+   "apply a bandage",
+   "wrap a bandage around",
+   "an elastic bandage",
+   "change the bandage"
+  ]
+ },
+ {
+  "id": "liberate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "giải phóng; trả tự do cho",
+  "coll": [
+   "liberate the city",
+   "liberate prisoners",
+   "liberated from occupation",
+   "liberate people from poverty"
+  ]
+ },
+ {
+  "id": "mathematician",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà toán học",
+  "coll": [
+   "a brilliant mathematician",
+   "a famous mathematician",
+   "an applied mathematician",
+   "mathematicians and physicists"
+  ]
+ },
+ {
+  "id": "shadowy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mờ ám; mờ ảo; rợp bóng tối",
+  "coll": [
+   "a shadowy figure",
+   "shadowy corners",
+   "the shadowy world of espionage",
+   "a shadowy organization"
+  ]
+ },
+ {
+  "id": "warmly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nồng nhiệt; ấm áp; mặc ấm",
+  "coll": [
+   "warmly welcomed",
+   "smile warmly",
+   "dress warmly",
+   "warmly received"
+  ]
+ },
+ {
+  "id": "diligent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "siêng năng; cần cù; chuyên cần",
+  "coll": [
+   "a diligent student",
+   "diligent work",
+   "diligent efforts",
+   "diligent research"
+  ]
+ },
+ {
+  "id": "endanger",
+  "pos": [
+   "v"
+  ],
+  "vi": "gây nguy hiểm cho; đe dọa",
+  "coll": [
+   "endanger lives",
+   "endangered species",
+   "endanger public health",
+   "endanger the mission"
+  ]
+ },
+ {
+  "id": "prefix",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiền tố; mã đầu số; thêm vào trước",
+  "coll": [
+   "add a prefix",
+   "common prefixes",
+   "prefix and suffix",
+   "the prefix 'un-'"
+  ]
+ },
+ {
+  "id": "summarize",
+  "pos": [
+   "v"
+  ],
+  "vi": "tóm tắt; tổng kết",
+  "coll": [
+   "summarize the main points",
+   "summarize the article",
+   "briefly summarize",
+   "summarize the findings"
+  ]
+ },
+ {
+  "id": "bathe",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tắm; tắm cho; rửa (vết thương); tắm biển",
+  "coll": [
+   "bathe the baby",
+   "bathe a wound",
+   "bathe in the sea",
+   "bathed in sunlight"
+  ]
+ },
+ {
+  "id": "memorize",
+  "pos": [
+   "v"
+  ],
+  "vi": "học thuộc lòng; ghi nhớ",
+  "coll": [
+   "memorize vocabulary",
+   "memorize a poem",
+   "memorize your lines",
+   "memorize by heart"
+  ]
+ },
+ {
+  "id": "mislead",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đánh lừa; lừa dối; làm lạc hướng",
+  "coll": [
+   "mislead the public",
+   "deliberately mislead",
+   "misleading information",
+   "mislead investors"
+  ]
+ },
+ {
+  "id": "seaweed",
+  "pos": [
+   "n"
+  ],
+  "vi": "rong biển; tảo biển",
+  "coll": [
+   "dried seaweed",
+   "seaweed salad",
+   "edible seaweed",
+   "seaweed washed up on the beach"
+  ]
+ },
+ {
+  "id": "tempt",
+  "pos": [
+   "v"
+  ],
+  "vi": "cám dỗ; dụ dỗ; quyến rũ",
+  "coll": [
+   "tempt fate",
+   "be tempted to give up",
+   "tempt customers with discounts",
+   "nothing could tempt me"
+  ]
+ },
+ {
+  "id": "babysitter",
+  "pos": [
+   "n"
+  ],
+  "vi": "người trông trẻ thuê",
+  "coll": [
+   "hire a babysitter",
+   "find a babysitter",
+   "pay the babysitter",
+   "a regular babysitter"
+  ]
+ },
+ {
+  "id": "lorry",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xe tải (Anh)",
+  "coll": [
+   "a lorry driver",
+   "a lorry load of goods",
+   "a heavy goods lorry",
+   "an articulated lorry"
+  ]
+ },
+ {
+  "id": "superstition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mê tín; điều mê tín dị đoan",
+  "coll": [
+   "a popular superstition",
+   "an old superstition",
+   "superstition and folklore",
+   "believe in superstitions"
+  ]
+ },
+ {
+  "id": "curiously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách tò mò; kỳ lạ thay",
+  "coll": [
+   "look curiously at",
+   "curiously enough",
+   "peer curiously",
+   "curiously quiet"
+  ]
+ },
+ {
+  "id": "skyscraper",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà chọc trời; tòa nhà cao tầng",
+  "coll": [
+   "towering skyscrapers",
+   "the skyscraper skyline",
+   "build a skyscraper",
+   "glass skyscrapers"
+  ]
+ },
+ {
+  "id": "breathless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hụt hơi; khó thở; nín thở (hồi hộp)",
+  "coll": [
+   "breathless with excitement",
+   "leave you breathless",
+   "breathless anticipation",
+   "arrive breathless"
+  ]
+ },
+ {
+  "id": "carton",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hộp giấy; thùng các-tông; cây thuốc lá",
+  "coll": [
+   "a carton of milk",
+   "a carton of juice",
+   "a carton of cigarettes",
+   "an egg carton"
+  ]
+ },
+ {
+  "id": "deprive",
+  "pos": [
+   "v"
+  ],
+  "vi": "tước đoạt; lấy đi; làm mất",
+  "coll": [
+   "deprive him of sleep",
+   "deprived of their rights",
+   "deprive her of the chance",
+   "sleep-deprived"
+  ]
+ },
+ {
+  "id": "shopper",
+  "pos": [
+   "n"
+  ],
+  "vi": "người mua sắm; khách mua hàng",
+  "coll": [
+   "Christmas shoppers",
+   "online shoppers",
+   "a bargain shopper",
+   "shoppers crowded the mall"
+  ]
+ },
+ {
+  "id": "sneeze",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hắt hơi; cái hắt xì",
+  "coll": [
+   "sneeze loudly",
+   "coughs and sneezes",
+   "make you sneeze",
+   "nothing to sneeze at"
+  ]
+ },
+ {
+  "id": "sweatshirt",
+  "pos": [
+   "n"
+  ],
+  "vi": "áo nỉ chui đầu; áo thun nỉ dài tay",
+  "coll": [
+   "wear a sweatshirt",
+   "a hooded sweatshirt",
+   "a grey sweatshirt",
+   "jeans and a sweatshirt"
+  ]
+ },
+ {
+  "id": "handkerchief",
+  "pos": [
+   "n"
+  ],
+  "vi": "khăn tay; khăn mùi soa",
+  "coll": [
+   "a silk handkerchief",
+   "wave a handkerchief",
+   "a clean handkerchief",
+   "blow your nose on a handkerchief"
+  ]
+ },
+ {
+  "id": "nutritious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bổ dưỡng; giàu dinh dưỡng",
+  "coll": [
+   "nutritious food",
+   "a nutritious meal",
+   "healthy and nutritious",
+   "a nutritious breakfast"
+  ]
+ },
+ {
+  "id": "soothe",
+  "pos": [
+   "v"
+  ],
+  "vi": "xoa dịu; làm dịu; vỗ về",
+  "coll": [
+   "soothe the pain",
+   "soothe a crying baby",
+   "soothe your nerves",
+   "soothing music"
+  ]
+ },
+ {
+  "id": "canteen",
+  "pos": [
+   "n"
+  ],
+  "vi": "căng tin; nhà ăn tập thể; bi đông nước",
+  "coll": [
+   "the school canteen",
+   "a staff canteen",
+   "canteen food",
+   "a canteen of water"
+  ]
+ },
+ {
+  "id": "climber",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người leo núi; cây leo",
+  "coll": [
+   "a mountain climber",
+   "a rock climber",
+   "an experienced climber",
+   "a social climber"
+  ]
+ }
+]

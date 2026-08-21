@@ -1,0 +1,804 @@
+[
+ {
+  "id": "countryman",
+  "pos": [
+   "n"
+  ],
+  "vi": "người đồng hương; dân quê",
+  "coll": [
+   "fellow countryman",
+   "his fellow countrymen",
+   "friends and countrymen",
+   "a countryman of mine"
+  ]
+ },
+ {
+  "id": "dandelion",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "cây bồ công anh",
+  "coll": [
+   "dandelion seeds",
+   "blow a dandelion",
+   "dandelion leaves",
+   "dandelion tea"
+  ]
+ },
+ {
+  "id": "indescribable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không tả nổi; khó tả",
+  "coll": [
+   "indescribable joy",
+   "indescribable beauty",
+   "indescribable pain",
+   "almost indescribable"
+  ]
+ },
+ {
+  "id": "landlady",
+  "pos": [
+   "n"
+  ],
+  "vi": "bà chủ nhà; nữ chủ trọ",
+  "coll": [
+   "my landlady",
+   "the landlady of the pub",
+   "pay the landlady",
+   "a strict landlady"
+  ]
+ },
+ {
+  "id": "nourish",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nuôi dưỡng; bồi bổ; vun đắp",
+  "coll": [
+   "nourish the body",
+   "nourish the soil",
+   "nourish a hope",
+   "well nourished"
+  ]
+ },
+ {
+  "id": "obsess",
+  "pos": [
+   "v"
+  ],
+  "vi": "ám ảnh; bị ám ảnh; nghĩ mãi về",
+  "coll": [
+   "obsess over something",
+   "obsess about her looks",
+   "be obsessed with",
+   "stop obsessing"
+  ]
+ },
+ {
+  "id": "orator",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà hùng biện; diễn giả",
+  "coll": [
+   "a great orator",
+   "a gifted orator",
+   "a powerful orator",
+   "a skilled orator"
+  ]
+ },
+ {
+  "id": "thoughtless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô tâm; thiếu suy nghĩ",
+  "coll": [
+   "a thoughtless remark",
+   "thoughtless behaviour",
+   "a thoughtless act",
+   "careless and thoughtless"
+  ]
+ },
+ {
+  "id": "villager",
+  "pos": [
+   "n"
+  ],
+  "vi": "dân làng",
+  "coll": [
+   "local villagers",
+   "fellow villagers",
+   "the villagers gathered",
+   "elderly villager"
+  ]
+ },
+ {
+  "id": "antibacterial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kháng khuẩn; thuốc diệt khuẩn",
+  "coll": [
+   "antibacterial soap",
+   "antibacterial gel",
+   "antibacterial properties",
+   "antibacterial wipes"
+  ]
+ },
+ {
+  "id": "laborer",
+  "pos": [
+   "n"
+  ],
+  "vi": "công nhân; người lao động chân tay",
+  "coll": [
+   "manual laborer",
+   "day laborer",
+   "farm laborer",
+   "unskilled laborer"
+  ]
+ },
+ {
+  "id": "innocently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách ngây thơ; vô tội",
+  "coll": [
+   "smile innocently",
+   "ask innocently",
+   "innocently enough",
+   "innocently caught up in"
+  ]
+ },
+ {
+  "id": "polity",
+  "pos": [
+   "n"
+  ],
+  "vi": "thể chế chính trị; nhà nước",
+  "coll": [
+   "a democratic polity",
+   "a stable polity",
+   "church polity",
+   "the wider polity"
+  ]
+ },
+ {
+  "id": "regrettably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đáng tiếc là; tiếc thay",
+  "coll": [
+   "regrettably, we cannot help",
+   "regrettably few",
+   "regrettably common",
+   "regrettably late"
+  ]
+ },
+ {
+  "id": "shakespearean",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc về Shakespeare; kiểu Shakespeare",
+  "coll": [
+   "Shakespearean sonnet",
+   "Shakespearean tragedy",
+   "Shakespearean actor",
+   "Shakespearean drama"
+  ]
+ },
+ {
+  "id": "shopkeeper",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ cửa hàng; người bán hàng",
+  "coll": [
+   "local shopkeeper",
+   "small shopkeeper",
+   "shopkeepers complain",
+   "a friendly shopkeeper"
+  ]
+ },
+ {
+  "id": "shortness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ngắn ngủi; sự hụt hơi, khó thở",
+  "coll": [
+   "shortness of breath",
+   "shortness of time",
+   "shortness of temper",
+   "the shortness of life"
+  ]
+ },
+ {
+  "id": "subside",
+  "pos": [
+   "v"
+  ],
+  "vi": "lắng xuống; dịu đi; lún xuống",
+  "coll": [
+   "the pain subsides",
+   "floodwaters subside",
+   "anger subsided",
+   "subside gradually"
+  ]
+ },
+ {
+  "id": "cannonball",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đạn đại bác",
+  "coll": [
+   "fire a cannonball",
+   "a heavy cannonball",
+   "cannonball dive",
+   "do a cannonball"
+  ]
+ },
+ {
+  "id": "imprison",
+  "pos": [
+   "v"
+  ],
+  "vi": "bỏ tù; giam cầm",
+  "coll": [
+   "imprison for life",
+   "wrongly imprisoned",
+   "imprison political opponents",
+   "be imprisoned for theft"
+  ]
+ },
+ {
+  "id": "leek",
+  "pos": [
+   "n"
+  ],
+  "vi": "cây tỏi tây; hành boa-rô",
+  "coll": [
+   "leek soup",
+   "potato and leek soup",
+   "chop the leeks",
+   "a bunch of leeks"
+  ]
+ },
+ {
+  "id": "papaya",
+  "pos": [
+   "n"
+  ],
+  "vi": "quả đu đủ; cây đu đủ",
+  "coll": [
+   "ripe papaya",
+   "papaya juice",
+   "green papaya salad",
+   "slice a papaya"
+  ]
+ },
+ {
+  "id": "prawn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con tôm",
+  "coll": [
+   "prawn cocktail",
+   "king prawns",
+   "grilled prawns",
+   "prawn curry"
+  ]
+ },
+ {
+  "id": "astonishment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kinh ngạc; sự sửng sốt",
+  "coll": [
+   "to my astonishment",
+   "in astonishment",
+   "a look of astonishment",
+   "much to his astonishment"
+  ]
+ },
+ {
+  "id": "precede",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đi trước; xảy ra trước",
+  "coll": [
+   "precede the event",
+   "immediately precede",
+   "the preceding years",
+   "precede a decision"
+  ]
+ },
+ {
+  "id": "publicize",
+  "pos": [
+   "v"
+  ],
+  "vi": "quảng bá; công bố rộng rãi",
+  "coll": [
+   "publicize the event",
+   "widely publicized",
+   "publicize the findings",
+   "publicize a campaign"
+  ]
+ },
+ {
+  "id": "undersea",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dưới đáy biển; ngầm dưới biển",
+  "coll": [
+   "undersea cable",
+   "undersea world",
+   "undersea volcano",
+   "undersea exploration"
+  ]
+ },
+ {
+  "id": "burdensome",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nặng nề; gây gánh nặng",
+  "coll": [
+   "burdensome regulations",
+   "a burdensome task",
+   "financially burdensome",
+   "burdensome debt"
+  ]
+ },
+ {
+  "id": "impressionist",
+  "pos": [
+   "n"
+  ],
+  "vi": "họa sĩ trường phái ấn tượng; người nhại giọng",
+  "coll": [
+   "Impressionist painting",
+   "French Impressionist",
+   "Impressionist art",
+   "a comic impressionist"
+  ]
+ },
+ {
+  "id": "predicate",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "vị ngữ; dựa trên (on); khẳng định",
+  "coll": [
+   "subject and predicate",
+   "be predicated on",
+   "predicated on the assumption",
+   "predicate logic"
+  ]
+ },
+ {
+  "id": "revolutionize",
+  "pos": [
+   "v"
+  ],
+  "vi": "cách mạng hóa; thay đổi tận gốc",
+  "coll": [
+   "revolutionize the industry",
+   "revolutionize technology",
+   "revolutionize the way we work",
+   "completely revolutionize"
+  ]
+ },
+ {
+  "id": "rhinoceros",
+  "pos": [
+   "n"
+  ],
+  "vi": "con tê giác",
+  "coll": [
+   "black rhinoceros",
+   "white rhinoceros",
+   "rhinoceros horn",
+   "endangered rhinoceros"
+  ]
+ },
+ {
+  "id": "eyelash",
+  "pos": [
+   "n"
+  ],
+  "vi": "lông mi",
+  "coll": [
+   "long eyelashes",
+   "false eyelashes",
+   "flutter her eyelashes",
+   "curl your eyelashes"
+  ]
+ },
+ {
+  "id": "salesperson",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân viên bán hàng",
+  "coll": [
+   "a good salesperson",
+   "top salesperson",
+   "car salesperson",
+   "talk to a salesperson"
+  ]
+ },
+ {
+  "id": "skillfully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách khéo léo; tài tình",
+  "coll": [
+   "skillfully crafted",
+   "skillfully handle",
+   "skillfully written",
+   "play skillfully"
+  ]
+ },
+ {
+  "id": "contaminate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "làm ô nhiễm; làm nhiễm bẩn",
+  "coll": [
+   "contaminate the water",
+   "contaminated food",
+   "contaminate the soil",
+   "heavily contaminated"
+  ]
+ },
+ {
+  "id": "eloquence",
+  "pos": [
+   "n"
+  ],
+  "vi": "tài hùng biện; sự lưu loát",
+  "coll": [
+   "speak with eloquence",
+   "great eloquence",
+   "the eloquence of his speech",
+   "natural eloquence"
+  ]
+ },
+ {
+  "id": "gaudy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lòe loẹt; phô trương",
+  "coll": [
+   "gaudy colours",
+   "gaudy jewellery",
+   "gaudy decorations",
+   "cheap and gaudy"
+  ]
+ },
+ {
+  "id": "overestimate",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đánh giá quá cao; ước tính quá cao",
+  "coll": [
+   "overestimate the cost",
+   "overestimate your ability",
+   "grossly overestimate",
+   "overestimate the risk"
+  ]
+ },
+ {
+  "id": "punctual",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đúng giờ",
+  "coll": [
+   "always punctual",
+   "punctual arrival",
+   "be punctual for class",
+   "punctual payment"
+  ]
+ },
+ {
+  "id": "trample",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giẫm đạp; chà đạp",
+  "coll": [
+   "trample on someone's rights",
+   "trample underfoot",
+   "trampled to death",
+   "trample the grass"
+  ]
+ },
+ {
+  "id": "tropic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chí tuyến; thuộc vùng nhiệt đới",
+  "coll": [
+   "the Tropic of Cancer",
+   "the Tropic of Capricorn",
+   "north of the Tropic",
+   "tropic latitudes"
+  ]
+ },
+ {
+  "id": "categorization",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân loại; cách phân loại",
+  "coll": [
+   "categorization of data",
+   "a system of categorization",
+   "categorization scheme",
+   "broad categorization"
+  ]
+ },
+ {
+  "id": "conceit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tính tự phụ; sự kiêu ngạo; ý tứ cầu kỳ (văn chương)",
+  "coll": [
+   "overwhelming conceit",
+   "vanity and conceit",
+   "literary conceit",
+   "full of conceit"
+  ]
+ },
+ {
+  "id": "exclaim",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "thốt lên; kêu lên",
+  "coll": [
+   "exclaim in surprise",
+   "exclaim loudly",
+   "exclaim with delight",
+   "she exclaimed happily"
+  ]
+ },
+ {
+  "id": "falter",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chùn bước; lung lay; nói ấp úng",
+  "coll": [
+   "never falter",
+   "his voice faltered",
+   "begin to falter",
+   "the economy falters"
+  ]
+ },
+ {
+  "id": "personification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhân cách hóa; hiện thân",
+  "coll": [
+   "the personification of evil",
+   "the personification of beauty",
+   "use personification",
+   "a personification of nature"
+  ]
+ },
+ {
+  "id": "playmate",
+  "pos": [
+   "n"
+  ],
+  "vi": "bạn cùng chơi",
+  "coll": [
+   "childhood playmate",
+   "a new playmate",
+   "favourite playmate",
+   "a playmate for my son"
+  ]
+ },
+ {
+  "id": "repress",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đàn áp; kìm nén",
+  "coll": [
+   "repress a smile",
+   "repress emotions",
+   "repress dissent",
+   "repress a protest"
+  ]
+ },
+ {
+  "id": "stagger",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đi loạng choạng; làm sững sờ; bố trí lệch giờ",
+  "coll": [
+   "stagger to his feet",
+   "stagger backwards",
+   "stagger the hours",
+   "stagger out of the bar"
+  ]
+ },
+ {
+  "id": "steely",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cứng rắn; sắc lạnh như thép",
+  "coll": [
+   "steely determination",
+   "steely gaze",
+   "steely eyes",
+   "steely resolve"
+  ]
+ },
+ {
+  "id": "citywide",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "toàn thành phố; khắp thành phố",
+  "coll": [
+   "citywide ban",
+   "citywide campaign",
+   "citywide survey",
+   "citywide curfew"
+  ]
+ },
+ {
+  "id": "cornet",
+  "pos": [
+   "n"
+  ],
+  "vi": "kèn cornet; ốc quế đựng kem",
+  "coll": [
+   "play the cornet",
+   "cornet player",
+   "ice cream cornet",
+   "brass cornet"
+  ]
+ },
+ {
+  "id": "intrude",
+  "pos": [
+   "v"
+  ],
+  "vi": "xâm phạm; quấy rầy; xen vào",
+  "coll": [
+   "intrude on privacy",
+   "intrude upon someone",
+   "don't mean to intrude",
+   "intrude into their lives"
+  ]
+ },
+ {
+  "id": "inverted commas",
+  "pos": [
+   "n"
+  ],
+  "vi": "dấu ngoặc kép",
+  "coll": [
+   "in inverted commas",
+   "put it in inverted commas",
+   "single inverted commas",
+   "double inverted commas"
+  ]
+ },
+ {
+  "id": "jeweler",
+  "pos": [
+   "n"
+  ],
+  "vi": "thợ kim hoàn; chủ tiệm nữ trang",
+  "coll": [
+   "local jeweler",
+   "take it to the jeweler",
+   "a fine jeweler",
+   "the jeweler's shop"
+  ]
+ },
+ {
+  "id": "lengthen",
+  "pos": [
+   "v"
+  ],
+  "vi": "kéo dài; làm dài ra",
+  "coll": [
+   "lengthen the skirt",
+   "the days lengthen",
+   "lengthen the process",
+   "lengthen a stay"
+  ]
+ },
+ {
+  "id": "ecologically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt sinh thái; thân thiện môi trường",
+  "coll": [
+   "ecologically friendly",
+   "ecologically sustainable",
+   "ecologically sound",
+   "ecologically important"
+  ]
+ },
+ {
+  "id": "firmness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cứng rắn; độ chắc",
+  "coll": [
+   "the firmness of the mattress",
+   "speak with firmness",
+   "firmness of purpose",
+   "gentle firmness"
+  ]
+ },
+ {
+  "id": "radium",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nguyên tố radium",
+  "coll": [
+   "discover radium",
+   "radium treatment",
+   "radioactive radium",
+   "a gram of radium"
+  ]
+ }
+]

@@ -1,0 +1,808 @@
+[
+ {
+  "id": "amazement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kinh ngạc; sự sửng sốt",
+  "coll": [
+   "to my amazement",
+   "in amazement",
+   "a look of amazement",
+   "utter amazement"
+  ]
+ },
+ {
+  "id": "disorganized",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lộn xộn; thiếu ngăn nắp; vô tổ chức",
+  "coll": [
+   "highly disorganized",
+   "disorganized approach",
+   "chaotic and disorganized",
+   "a disorganized office"
+  ]
+ },
+ {
+  "id": "handout",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "tài liệu phát tay; tiền trợ cấp",
+  "coll": [
+   "class handout",
+   "distribute handouts",
+   "government handouts",
+   "live on handouts"
+  ]
+ },
+ {
+  "id": "instill",
+  "pos": [
+   "v"
+  ],
+  "vi": "gieo vào; truyền cho; hun đúc",
+  "coll": [
+   "instill confidence",
+   "instill values",
+   "instill discipline",
+   "instill fear"
+  ]
+ },
+ {
+  "id": "uncomfortably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách khó chịu; ngượng ngập",
+  "coll": [
+   "uncomfortably hot",
+   "uncomfortably close",
+   "shift uncomfortably",
+   "uncomfortably aware"
+  ]
+ },
+ {
+  "id": "barbershop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiệm hớt tóc nam",
+  "coll": [
+   "local barbershop",
+   "barbershop quartet",
+   "go to the barbershop",
+   "barbershop chair"
+  ]
+ },
+ {
+  "id": "clog",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm tắc nghẽn; guốc gỗ",
+  "coll": [
+   "clog the drain",
+   "clog up",
+   "clogged arteries",
+   "clog the roads"
+  ]
+ },
+ {
+  "id": "cyberspace",
+  "pos": [
+   "n"
+  ],
+  "vi": "không gian mạng",
+  "coll": [
+   "in cyberspace",
+   "navigate cyberspace",
+   "lost in cyberspace",
+   "cyberspace security"
+  ]
+ },
+ {
+  "id": "detach",
+  "pos": [
+   "v"
+  ],
+  "vi": "tháo rời; tách ra; tách mình khỏi",
+  "coll": [
+   "detach the coupon",
+   "detach oneself from",
+   "detach the cable",
+   "easily detached"
+  ]
+ },
+ {
+  "id": "infringe",
+  "pos": [
+   "v"
+  ],
+  "vi": "vi phạm; xâm phạm",
+  "coll": [
+   "infringe a patent",
+   "infringe copyright",
+   "infringe rights",
+   "infringe on privacy"
+  ]
+ },
+ {
+  "id": "lowland",
+  "pos": [
+   "n"
+  ],
+  "vi": "vùng đất thấp; đồng bằng",
+  "coll": [
+   "lowland areas",
+   "lowland forest",
+   "coastal lowlands",
+   "lowland region"
+  ]
+ },
+ {
+  "id": "sliver",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mảnh nhỏ; lát mỏng; chút xíu",
+  "coll": [
+   "a sliver of glass",
+   "a sliver of light",
+   "a thin sliver",
+   "a sliver of hope"
+  ]
+ },
+ {
+  "id": "softness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mềm mại; sự dịu dàng",
+  "coll": [
+   "the softness of the skin",
+   "the softness of her voice",
+   "extra softness",
+   "silky softness"
+  ]
+ },
+ {
+  "id": "unhelpful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không giúp ích; vô ích",
+  "coll": [
+   "unhelpful staff",
+   "unhelpful advice",
+   "unhelpful attitude",
+   "singularly unhelpful"
+  ]
+ },
+ {
+  "id": "unkind",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không tử tế; tệ bạc; ác ý",
+  "coll": [
+   "unkind words",
+   "an unkind remark",
+   "be unkind to someone",
+   "cruel and unkind"
+  ]
+ },
+ {
+  "id": "bestow",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "ban tặng; trao tặng (trang trọng)",
+  "coll": [
+   "bestow an honour",
+   "bestow a title",
+   "bestow upon someone",
+   "bestow a gift"
+  ]
+ },
+ {
+  "id": "bustle",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "sự nhộn nhịp; tất bật đi lại",
+  "coll": [
+   "hustle and bustle",
+   "the bustle of the market",
+   "bustle around",
+   "bustle about the kitchen"
+  ]
+ },
+ {
+  "id": "cheerfully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách vui vẻ; hồ hởi",
+  "coll": [
+   "smile cheerfully",
+   "cheerfully admit",
+   "wave cheerfully",
+   "chat cheerfully"
+  ]
+ },
+ {
+  "id": "graphically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách sinh động; bằng hình ảnh",
+  "coll": [
+   "graphically illustrate",
+   "graphically describe",
+   "graphically represented",
+   "graphically depict"
+  ]
+ },
+ {
+  "id": "ointment",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuốc mỡ",
+  "coll": [
+   "apply ointment",
+   "antiseptic ointment",
+   "a tube of ointment",
+   "a fly in the ointment"
+  ]
+ },
+ {
+  "id": "shoplifting",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ăn trộm trong cửa hàng; tội trộm cắp ở tiệm",
+  "coll": [
+   "caught shoplifting",
+   "arrested for shoplifting",
+   "shoplifting offence",
+   "shoplifting charges"
+  ]
+ },
+ {
+  "id": "simplification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đơn giản hóa; cách nói giản lược",
+  "coll": [
+   "a gross simplification",
+   "simplification of the rules",
+   "tax simplification",
+   "a useful simplification"
+  ]
+ },
+ {
+  "id": "subculture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiểu văn hóa; nhóm văn hóa riêng",
+  "coll": [
+   "youth subculture",
+   "punk subculture",
+   "a distinct subculture",
+   "subculture of violence"
+  ]
+ },
+ {
+  "id": "bossy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hay ra lệnh; hống hách",
+  "coll": [
+   "a bossy older sister",
+   "don't be so bossy",
+   "a bossy manner",
+   "bossy attitude"
+  ]
+ },
+ {
+  "id": "deduce",
+  "pos": [
+   "v"
+  ],
+  "vi": "suy ra; suy luận; rút ra kết luận",
+  "coll": [
+   "deduce from the evidence",
+   "deduce a conclusion",
+   "logically deduce",
+   "we can deduce that"
+  ]
+ },
+ {
+  "id": "displace",
+  "pos": [
+   "v"
+  ],
+  "vi": "thay thế; buộc rời bỏ nhà cửa; dời chỗ",
+  "coll": [
+   "displace workers",
+   "displaced by war",
+   "displace water",
+   "forcibly displaced"
+  ]
+ },
+ {
+  "id": "elegantly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách thanh lịch; tao nhã; gọn gàng",
+  "coll": [
+   "elegantly dressed",
+   "elegantly furnished",
+   "elegantly simple",
+   "elegantly written"
+  ]
+ },
+ {
+  "id": "erupt",
+  "pos": [
+   "v"
+  ],
+  "vi": "phun trào; bùng nổ; nổ ra",
+  "coll": [
+   "the volcano erupts",
+   "erupt into violence",
+   "violence erupted",
+   "erupt in laughter"
+  ]
+ },
+ {
+  "id": "gleam",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ánh lấp lánh; lấp lánh, lóe sáng; tia (hy vọng)",
+  "coll": [
+   "a gleam of light",
+   "a gleam in his eye",
+   "a gleam of hope",
+   "his eyes gleam"
+  ]
+ },
+ {
+  "id": "sociable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hòa đồng; thích giao du",
+  "coll": [
+   "a sociable person",
+   "sociable and friendly",
+   "highly sociable",
+   "a sociable animal"
+  ]
+ },
+ {
+  "id": "yearn",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khao khát; mong mỏi",
+  "coll": [
+   "yearn for freedom",
+   "yearn to return",
+   "yearn for home",
+   "yearn for love"
+  ]
+ },
+ {
+  "id": "foolishly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách dại dột; ngu ngốc",
+  "coll": [
+   "foolishly believe",
+   "act foolishly",
+   "foolishly agreed",
+   "behave foolishly"
+  ]
+ },
+ {
+  "id": "hospitable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hiếu khách; thân thiện; thuận lợi (môi trường)",
+  "coll": [
+   "warm and hospitable",
+   "hospitable people",
+   "a hospitable environment",
+   "extremely hospitable"
+  ]
+ },
+ {
+  "id": "practicality",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính thực tế; tính khả thi",
+  "coll": [
+   "the practicality of the plan",
+   "question the practicality",
+   "doubt the practicality",
+   "practicality and cost"
+  ]
+ },
+ {
+  "id": "radiate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "tỏa ra; phát ra; lan tỏa",
+  "coll": [
+   "radiate heat",
+   "radiate confidence",
+   "radiate outward",
+   "radiate energy"
+  ]
+ },
+ {
+  "id": "scrooge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ keo kiệt; người bủn xỉn",
+  "coll": [
+   "a real scrooge",
+   "don't be a scrooge",
+   "act like a scrooge",
+   "an old scrooge"
+  ]
+ },
+ {
+  "id": "sonnet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thơ xon-nê; bài thơ 14 câu",
+  "coll": [
+   "Shakespearean sonnet",
+   "write a sonnet",
+   "love sonnet",
+   "sonnet sequence"
+  ]
+ },
+ {
+  "id": "taunt",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "chế nhạo; lời chọc tức",
+  "coll": [
+   "taunt someone",
+   "racist taunts",
+   "shout taunts",
+   "taunt him about his weight"
+  ]
+ },
+ {
+  "id": "undressed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đã cởi quần áo; không mặc gì",
+  "coll": [
+   "get undressed",
+   "half undressed",
+   "fully undressed",
+   "an undressed wound"
+  ]
+ },
+ {
+  "id": "workman",
+  "pos": [
+   "n"
+  ],
+  "vi": "thợ; công nhân",
+  "coll": [
+   "a skilled workman",
+   "a workman's tools",
+   "hire a workman",
+   "workman's compensation"
+  ]
+ },
+ {
+  "id": "cruelly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách tàn nhẫn; độc ác",
+  "coll": [
+   "treat cruelly",
+   "cruelly murdered",
+   "cruelly exposed",
+   "laugh cruelly"
+  ]
+ },
+ {
+  "id": "communicative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giỏi giao tiếp; cởi mở; thuộc về giao tiếp",
+  "coll": [
+   "communicative skills",
+   "communicative approach",
+   "not very communicative",
+   "communicative competence"
+  ]
+ },
+ {
+  "id": "disqualify",
+  "pos": [
+   "v"
+  ],
+  "vi": "loại khỏi cuộc thi; truất quyền; làm mất tư cách",
+  "coll": [
+   "disqualify from the race",
+   "be disqualified",
+   "disqualify a candidate",
+   "disqualified for cheating"
+  ]
+ },
+ {
+  "id": "immerse",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "nhúng chìm; đắm mình; mải mê",
+  "coll": [
+   "immerse in water",
+   "immerse yourself in",
+   "fully immersed",
+   "immersed in work"
+  ]
+ },
+ {
+  "id": "mausoleum",
+  "pos": [
+   "n"
+  ],
+  "vi": "lăng mộ; lăng tẩm",
+  "coll": [
+   "ancient mausoleum",
+   "marble mausoleum",
+   "build a mausoleum",
+   "visit the mausoleum"
+  ]
+ },
+ {
+  "id": "typhoid",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bệnh thương hàn",
+  "coll": [
+   "typhoid fever",
+   "contract typhoid",
+   "typhoid epidemic",
+   "typhoid vaccine"
+  ]
+ },
+ {
+  "id": "gulp",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "ngụm lớn; sự nuốt ực",
+  "coll": [
+   "take a gulp",
+   "a gulp of water",
+   "a gulp of air",
+   "in one gulp"
+  ]
+ },
+ {
+  "id": "hyperbole",
+  "pos": [
+   "n"
+  ],
+  "vi": "lối nói phóng đại; ngoa dụ",
+  "coll": [
+   "pure hyperbole",
+   "use hyperbole",
+   "media hyperbole",
+   "without hyperbole"
+  ]
+ },
+ {
+  "id": "politeness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lịch sự; phép lịch sự",
+  "coll": [
+   "out of politeness",
+   "common politeness",
+   "excessive politeness",
+   "politeness and respect"
+  ]
+ },
+ {
+  "id": "subcontinent",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiểu lục địa",
+  "coll": [
+   "the Indian subcontinent",
+   "across the subcontinent",
+   "throughout the subcontinent",
+   "the subcontinent's population"
+  ]
+ },
+ {
+  "id": "unjustly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách bất công; oan uổng",
+  "coll": [
+   "unjustly accused",
+   "unjustly treated",
+   "unjustly imprisoned",
+   "unjustly convicted"
+  ]
+ },
+ {
+  "id": "confine",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "giới hạn; giam giữ; ranh giới",
+  "coll": [
+   "confine to bed",
+   "confine yourself to",
+   "be confined to",
+   "a confined space"
+  ]
+ },
+ {
+  "id": "murmur",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiếng thì thầm; thì thầm; tiếng rì rào",
+  "coll": [
+   "a murmur of approval",
+   "murmur softly",
+   "heart murmur",
+   "without a murmur"
+  ]
+ },
+ {
+  "id": "stubbornly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách bướng bỉnh; ngoan cố",
+  "coll": [
+   "stubbornly refuse",
+   "stubbornly resist",
+   "stubbornly high",
+   "cling stubbornly to"
+  ]
+ },
+ {
+  "id": "tiredness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mệt mỏi",
+  "coll": [
+   "extreme tiredness",
+   "feelings of tiredness",
+   "overcome tiredness",
+   "tiredness and stress"
+  ]
+ },
+ {
+  "id": "generalize",
+  "pos": [
+   "v"
+  ],
+  "vi": "khái quát hóa; vơ đũa cả nắm",
+  "coll": [
+   "generalize from a few cases",
+   "generalize the findings",
+   "hard to generalize",
+   "generalize about people"
+  ]
+ },
+ {
+  "id": "mumble",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lầm bầm; nói lí nhí",
+  "coll": [
+   "mumble something",
+   "mumble an apology",
+   "mumble to yourself",
+   "mumble incoherently"
+  ]
+ },
+ {
+  "id": "ungodly",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "trái khoáy (giờ giấc); vô đạo đức; tội lỗi",
+  "coll": [
+   "at an ungodly hour",
+   "an ungodly noise",
+   "ungodly behaviour",
+   "an ungodly time of night"
+  ]
+ },
+ {
+  "id": "antivirus",
+  "pos": [
+   "n"
+  ],
+  "vi": "phần mềm diệt virus",
+  "coll": [
+   "antivirus software",
+   "install antivirus",
+   "antivirus program",
+   "update your antivirus"
+  ]
+ },
+ {
+  "id": "arouse",
+  "pos": [
+   "v"
+  ],
+  "vi": "khơi dậy; đánh thức; kích thích",
+  "coll": [
+   "arouse suspicion",
+   "arouse interest",
+   "arouse curiosity",
+   "arouse anger"
+  ]
+ }
+]

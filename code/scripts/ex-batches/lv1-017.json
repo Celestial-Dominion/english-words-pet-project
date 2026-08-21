@@ -1,0 +1,828 @@
+[
+ {
+  "id": "filling",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "nhân (bánh); chất trám răng; no lâu",
+  "coll": [
+   "cake filling",
+   "sandwich filling",
+   "dental filling",
+   "a filling meal"
+  ]
+ },
+ {
+  "id": "graphics",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ họa; hình đồ họa",
+  "coll": [
+   "computer graphics",
+   "graphics card",
+   "3D graphics",
+   "high-quality graphics"
+  ]
+ },
+ {
+  "id": "insight",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thấu hiểu; cái nhìn sâu sắc",
+  "coll": [
+   "gain insight into",
+   "valuable insight",
+   "provide insight",
+   "deep insight"
+  ]
+ },
+ {
+  "id": "overnight",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "vi": "qua đêm; chỉ sau một đêm",
+  "coll": [
+   "stay overnight",
+   "an overnight stay",
+   "overnight success",
+   "overnight flight"
+  ]
+ },
+ {
+  "id": "pie",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bánh nướng có nhân; bánh pie",
+  "coll": [
+   "apple pie",
+   "a slice of pie",
+   "meat pie",
+   "pie chart"
+  ]
+ },
+ {
+  "id": "preserve",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bảo tồn, giữ gìn; mứt; khu bảo tồn",
+  "coll": [
+   "preserve the environment",
+   "preserve traditions",
+   "well preserved",
+   "a nature preserve"
+  ]
+ },
+ {
+  "id": "qualify",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đủ điều kiện; giành quyền thi đấu; lấy bằng hành nghề",
+  "coll": [
+   "qualify for the finals",
+   "qualify as a doctor",
+   "qualify for benefits",
+   "qualify for the World Cup"
+  ]
+ },
+ {
+  "id": "threatening",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đe dọa; hăm dọa",
+  "coll": [
+   "threatening behavior",
+   "threatening letter",
+   "life-threatening illness",
+   "threatening phone calls"
+  ]
+ },
+ {
+  "id": "tobacco",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thuốc lá; cây thuốc lá",
+  "coll": [
+   "tobacco industry",
+   "smoke tobacco",
+   "tobacco products",
+   "chewing tobacco"
+  ]
+ },
+ {
+  "id": "trace",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "dấu vết; lần theo, truy tìm; lượng nhỏ",
+  "coll": [
+   "disappear without a trace",
+   "trace the origin",
+   "trace a call",
+   "a trace of a smile"
+  ]
+ },
+ {
+  "id": "weakness",
+  "pos": [
+   "n"
+  ],
+  "vi": "điểm yếu; sự yếu đuối; sở thích khó cưỡng",
+  "coll": [
+   "strengths and weaknesses",
+   "a sign of weakness",
+   "a weakness for chocolate",
+   "muscle weakness"
+  ]
+ },
+ {
+  "id": "widespread",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phổ biến, lan rộng; rộng khắp",
+  "coll": [
+   "widespread use",
+   "widespread support",
+   "widespread damage",
+   "widespread belief"
+  ]
+ },
+ {
+  "id": "accessible",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dễ tiếp cận; dễ hiểu; thuận tiện cho người khuyết tật",
+  "coll": [
+   "easily accessible",
+   "accessible to the public",
+   "accessible by car",
+   "wheelchair accessible"
+  ]
+ },
+ {
+  "id": "acknowledge",
+  "pos": [
+   "v"
+  ],
+  "vi": "thừa nhận; xác nhận đã nhận; ghi nhận",
+  "coll": [
+   "acknowledge the problem",
+   "acknowledge receipt",
+   "widely acknowledged",
+   "acknowledge defeat"
+  ]
+ },
+ {
+  "id": "animation",
+  "pos": [
+   "n"
+  ],
+  "vi": "phim hoạt hình; sự sống động",
+  "coll": [
+   "computer animation",
+   "3D animation",
+   "animation studio",
+   "animation techniques"
+  ]
+ },
+ {
+  "id": "assignment",
+  "pos": [
+   "n"
+  ],
+  "vi": "bài tập; nhiệm vụ được giao",
+  "coll": [
+   "homework assignment",
+   "complete an assignment",
+   "writing assignment",
+   "on assignment"
+  ]
+ },
+ {
+  "id": "bare",
+  "pos": [
+   "adj",
+   "v",
+   "adv",
+   "n"
+  ],
+  "vi": "trần, trơ trụi; tối thiểu; để lộ ra",
+  "coll": [
+   "bare feet",
+   "bare hands",
+   "the bare minimum",
+   "bare walls"
+  ]
+ },
+ {
+  "id": "basement",
+  "pos": [
+   "n"
+  ],
+  "vi": "tầng hầm",
+  "coll": [
+   "basement apartment",
+   "in the basement",
+   "basement floor",
+   "a dark basement"
+  ]
+ },
+ {
+  "id": "cancel",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "hủy bỏ; hủy",
+  "coll": [
+   "cancel a flight",
+   "cancel an order",
+   "cancel a meeting",
+   "cancel a subscription"
+  ]
+ },
+ {
+  "id": "carpet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tấm thảm; trải thảm",
+  "coll": [
+   "the red carpet",
+   "wall-to-wall carpet",
+   "vacuum the carpet",
+   "a carpet of flowers"
+  ]
+ },
+ {
+  "id": "collapse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sụp đổ; ngã quỵ; sự sụp đổ",
+  "coll": [
+   "the collapse of the building",
+   "economic collapse",
+   "collapse from exhaustion",
+   "on the verge of collapse"
+  ]
+ },
+ {
+  "id": "compound",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "hợp chất; khu nhà có rào; từ ghép; làm trầm trọng thêm",
+  "coll": [
+   "chemical compound",
+   "compound interest",
+   "compound word",
+   "military compound"
+  ]
+ },
+ {
+  "id": "conscious",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có ý thức; tỉnh táo; nhận thức được",
+  "coll": [
+   "a conscious decision",
+   "a conscious effort",
+   "remain conscious",
+   "environmentally conscious"
+  ]
+ },
+ {
+  "id": "endless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô tận; bất tận",
+  "coll": [
+   "endless possibilities",
+   "an endless supply",
+   "endless hours",
+   "seemingly endless"
+  ]
+ },
+ {
+  "id": "examine",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "kiểm tra; xem xét; khám (bệnh)",
+  "coll": [
+   "examine the evidence",
+   "examine a patient",
+   "closely examine",
+   "examine the issue"
+  ]
+ },
+ {
+  "id": "liver",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "gan",
+  "coll": [
+   "liver disease",
+   "liver damage",
+   "liver function",
+   "liver cancer"
+  ]
+ },
+ {
+  "id": "proceed",
+  "pos": [
+   "v"
+  ],
+  "vi": "tiến hành; tiếp tục; đi tiếp",
+  "coll": [
+   "proceed with caution",
+   "proceed with the plan",
+   "proceed to the gate",
+   "before you proceed"
+  ]
+ },
+ {
+  "id": "restore",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khôi phục; phục hồi; trùng tu",
+  "coll": [
+   "restore order",
+   "restore confidence",
+   "restore an old building",
+   "restore power"
+  ]
+ },
+ {
+  "id": "significance",
+  "pos": [
+   "n"
+  ],
+  "vi": "tầm quan trọng; ý nghĩa",
+  "coll": [
+   "great significance",
+   "historical significance",
+   "statistical significance",
+   "the significance of the event"
+  ]
+ },
+ {
+  "id": "stressed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "căng thẳng; được nhấn (trọng âm)",
+  "coll": [
+   "feel stressed",
+   "stressed out",
+   "stressed at work",
+   "a stressed syllable"
+  ]
+ },
+ {
+  "id": "tropical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nhiệt đới",
+  "coll": [
+   "tropical rainforest",
+   "tropical climate",
+   "tropical fruit",
+   "tropical storm"
+  ]
+ },
+ {
+  "id": "artistic",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "nghệ thuật; có óc thẩm mỹ; tài hoa",
+  "coll": [
+   "artistic talent",
+   "artistic expression",
+   "artistic director",
+   "artistic skills"
+  ]
+ },
+ {
+  "id": "barrel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thùng (rượu, dầu); nòng súng",
+  "coll": [
+   "a barrel of oil",
+   "a barrel of beer",
+   "gun barrel",
+   "wine barrel"
+  ]
+ },
+ {
+  "id": "beloved",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "yêu dấu; người yêu dấu",
+  "coll": [
+   "beloved wife",
+   "beloved country",
+   "much beloved",
+   "beloved by fans"
+  ]
+ },
+ {
+  "id": "bless",
+  "pos": [
+   "v",
+   "intj"
+  ],
+  "vi": "ban phước; phù hộ",
+  "coll": [
+   "God bless you",
+   "bless the food",
+   "blessed with talent",
+   "bless this house"
+  ]
+ },
+ {
+  "id": "boxing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quyền anh, đấm bốc; việc đóng hộp",
+  "coll": [
+   "boxing match",
+   "boxing ring",
+   "boxing gloves",
+   "boxing champion"
+  ]
+ },
+ {
+  "id": "contrary",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "trái ngược; điều ngược lại",
+  "coll": [
+   "on the contrary",
+   "contrary to popular belief",
+   "quite the contrary",
+   "contrary to expectations"
+  ]
+ },
+ {
+  "id": "crush",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nghiền nát, đè bẹp; sự cảm nắng; đám đông chen chúc",
+  "coll": [
+   "have a crush on someone",
+   "crush garlic",
+   "crushed by the weight",
+   "crush the rebellion"
+  ]
+ },
+ {
+  "id": "decrease",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giảm; giảm bớt; sự sụt giảm",
+  "coll": [
+   "decrease in price",
+   "a sharp decrease",
+   "decrease significantly",
+   "decrease the risk"
+  ]
+ },
+ {
+  "id": "hiv",
+  "pos": [
+   "n"
+  ],
+  "vi": "vi rút HIV; HIV",
+  "coll": [
+   "HIV positive",
+   "HIV infection",
+   "HIV test",
+   "HIV prevention"
+  ]
+ },
+ {
+  "id": "loyalty",
+  "pos": [
+   "n"
+  ],
+  "vi": "lòng trung thành; sự trung thành",
+  "coll": [
+   "brand loyalty",
+   "customer loyalty",
+   "loyalty card",
+   "loyalty to the king"
+  ]
+ },
+ {
+  "id": "notion",
+  "pos": [
+   "n"
+  ],
+  "vi": "khái niệm; quan niệm; ý niệm",
+  "coll": [
+   "have no notion of",
+   "a romantic notion",
+   "reject the notion",
+   "the notion that"
+  ]
+ },
+ {
+  "id": "partial",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "một phần; thiên vị; ưa thích (partial to)",
+  "coll": [
+   "partial success",
+   "partial recovery",
+   "a partial eclipse",
+   "partial to sweets"
+  ]
+ },
+ {
+  "id": "reflection",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phản chiếu; hình phản chiếu; sự suy ngẫm",
+  "coll": [
+   "reflection in the mirror",
+   "on reflection",
+   "quiet reflection",
+   "a reflection of society"
+  ]
+ },
+ {
+  "id": "resolve",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "giải quyết; quyết tâm; sự quyết tâm",
+  "coll": [
+   "resolve a conflict",
+   "resolve the issue",
+   "resolve a dispute",
+   "strengthen your resolve"
+  ]
+ },
+ {
+  "id": "simultaneously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đồng thời; cùng lúc",
+  "coll": [
+   "happen simultaneously",
+   "run simultaneously",
+   "broadcast simultaneously",
+   "work simultaneously"
+  ]
+ },
+ {
+  "id": "substitute",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người thay thế; vật thay thế; thay thế",
+  "coll": [
+   "substitute teacher",
+   "sugar substitute",
+   "no substitute for experience",
+   "bring on a substitute"
+  ]
+ },
+ {
+  "id": "acceptance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chấp nhận; sự thừa nhận",
+  "coll": [
+   "acceptance letter",
+   "gain acceptance",
+   "wide acceptance",
+   "acceptance speech"
+  ]
+ },
+ {
+  "id": "annually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hàng năm; mỗi năm một lần",
+  "coll": [
+   "held annually",
+   "renewed annually",
+   "produced annually",
+   "meet annually"
+  ]
+ },
+ {
+  "id": "bubble",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bong bóng; sủi bọt",
+  "coll": [
+   "soap bubble",
+   "blow bubbles",
+   "housing bubble",
+   "bubble bath"
+  ]
+ },
+ {
+  "id": "deadly",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "chết người; gây chết chóc; cực kỳ",
+  "coll": [
+   "deadly disease",
+   "deadly weapon",
+   "deadly virus",
+   "deadly serious"
+  ]
+ },
+ {
+  "id": "determination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quyết tâm; sự xác định",
+  "coll": [
+   "strong determination",
+   "sheer determination",
+   "courage and determination",
+   "determination to succeed"
+  ]
+ },
+ {
+  "id": "gentleman",
+  "pos": [
+   "n"
+  ],
+  "vi": "quý ông; người đàn ông lịch thiệp",
+  "coll": [
+   "a perfect gentleman",
+   "ladies and gentlemen",
+   "an English gentleman",
+   "a gentleman's agreement"
+  ]
+ },
+ {
+  "id": "hammer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái búa; đóng búa, nện",
+  "coll": [
+   "hammer and nails",
+   "hit with a hammer",
+   "hammer a nail",
+   "a hammer blow"
+  ]
+ },
+ {
+  "id": "moreover",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hơn nữa; ngoài ra",
+  "coll": [
+   "Moreover, it is important to note",
+   "Moreover, costs continue to rise",
+   "Moreover, the evidence shows"
+  ]
+ },
+ {
+  "id": "paradise",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thiên đường",
+  "coll": [
+   "a tropical paradise",
+   "paradise on earth",
+   "a shopper's paradise",
+   "paradise lost"
+  ]
+ },
+ {
+  "id": "politician",
+  "pos": [
+   "n"
+  ],
+  "vi": "chính trị gia",
+  "coll": [
+   "local politician",
+   "corrupt politician",
+   "career politician",
+   "leading politician"
+  ]
+ },
+ {
+  "id": "react",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phản ứng; phản ứng hóa học",
+  "coll": [
+   "react quickly",
+   "react to the news",
+   "react angrily",
+   "react with oxygen"
+  ]
+ },
+ {
+  "id": "realistic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thực tế; chân thực",
+  "coll": [
+   "realistic goal",
+   "realistic expectations",
+   "be realistic",
+   "a realistic portrayal"
+  ]
+ },
+ {
+  "id": "retain",
+  "pos": [
+   "v"
+  ],
+  "vi": "giữ lại; duy trì; lưu giữ",
+  "coll": [
+   "retain control",
+   "retain customers",
+   "retain moisture",
+   "retain the title"
+  ]
+ }
+]

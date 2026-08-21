@@ -1,0 +1,402 @@
+{
+  "knit": {
+    "vi": "đan (len); gắn kết chặt",
+    "coll": ["knit a sweater", "knit a scarf", "a tightly knit family", "knit together"]
+  },
+  "remark": {
+    "vi": "lời nhận xét; nhận xét, bình luận",
+    "coll": ["make a remark", "a casual remark", "opening remarks", "remark on the weather"]
+  },
+  "repay": {
+    "vi": "hoàn trả; trả nợ; đền đáp",
+    "coll": ["repay a loan", "repay a debt", "repay your kindness", "repay in full"]
+  },
+  "discomfort": {
+    "vi": "sự khó chịu; sự bất tiện",
+    "coll": ["cause discomfort", "physical discomfort", "ease the discomfort", "mild discomfort"]
+  },
+  "evenly": {
+    "vi": "đều; đồng đều",
+    "coll": ["evenly distributed", "spread evenly", "evenly matched", "breathe evenly"]
+  },
+  "fashionable": {
+    "vi": "hợp thời trang; thời thượng",
+    "coll": ["fashionable clothes", "a fashionable district", "highly fashionable", "become fashionable"]
+  },
+  "fetch": {
+    "vi": "đi lấy về; bán được (giá)",
+    "coll": ["fetch some water", "fetch the ball", "fetch a high price", "play fetch"]
+  },
+  "vacancy": {
+    "vi": "vị trí trống; phòng trống; chỗ khuyết",
+    "coll": ["job vacancy", "fill a vacancy", "no vacancies", "vacancy rate"]
+  },
+  "camel": {
+    "vi": "lạc đà",
+    "coll": ["ride a camel", "camel hair", "a caravan of camels", "a camel's hump"]
+  },
+  "checkout": {
+    "vi": "quầy thanh toán; giờ trả phòng",
+    "coll": ["checkout counter", "checkout time", "supermarket checkout", "proceed to checkout"]
+  },
+  "comet": {
+    "vi": "sao chổi",
+    "coll": ["Halley's Comet", "the comet's tail", "a comet passing close to Earth"]
+  },
+  "deficiency": {
+    "vi": "sự thiếu hụt; khiếm khuyết",
+    "coll": ["vitamin deficiency", "iron deficiency", "nutritional deficiency", "immune deficiency"]
+  },
+  "kitten": {
+    "vi": "mèo con",
+    "coll": ["a litter of kittens", "newborn kitten", "a playful kitten", "kitten heels"]
+  },
+  "northeastern": {
+    "vi": "thuộc đông bắc; ở phía đông bắc",
+    "coll": ["northeastern region", "northeastern states", "northeastern coast"]
+  },
+  "salesman": {
+    "vi": "nhân viên bán hàng; người bán hàng",
+    "coll": ["car salesman", "traveling salesman", "door-to-door salesman", "insurance salesman"]
+  },
+  "swell": {
+    "vi": "sưng lên; phồng to; dâng lên",
+    "coll": ["swell up", "her ankles began to swell", "the crowd swelled", "swell with pride"]
+  },
+  "symptom": {
+    "vi": "triệu chứng; dấu hiệu",
+    "coll": ["flu symptoms", "show symptoms of", "symptoms include fever", "relieve the symptoms"]
+  },
+  "thirst": {
+    "vi": "cơn khát; sự khao khát",
+    "coll": ["quench your thirst", "die of thirst", "a thirst for knowledge", "hunger and thirst"]
+  },
+  "transitional": {
+    "vi": "chuyển tiếp; quá độ",
+    "coll": ["transitional period", "transitional government", "transitional phase", "transitional arrangements"]
+  },
+  "tuna": {
+    "vi": "cá ngừ",
+    "coll": ["tuna salad", "canned tuna", "tuna sandwich", "tuna fishing"]
+  },
+  "viewpoint": {
+    "vi": "quan điểm; góc nhìn; điểm ngắm cảnh",
+    "coll": ["from my viewpoint", "different viewpoints", "political viewpoint", "express a viewpoint"]
+  },
+  "accessory": {
+    "vi": "phụ kiện; kẻ tòng phạm",
+    "coll": ["fashion accessories", "car accessories", "matching accessories", "an accessory to murder"]
+  },
+  "fax": {
+    "vi": "bản fax; máy fax; gửi fax",
+    "coll": ["send a fax", "fax machine", "fax number", "by fax"]
+  },
+  "gee": {
+    "vi": "chà, ối chà (cũ); trời ơi (cũ)",
+    "coll": ["gee whiz", "gee, thanks", "gee, I don't know"]
+  },
+  "groom": {
+    "vi": "chú rể; người chăm ngựa",
+    "coll": ["bride and groom", "the groom's speech", "a stable groom"]
+  },
+  "guitarist": {
+    "vi": "người chơi ghi-ta; nghệ sĩ ghi-ta",
+    "coll": ["lead guitarist", "bass guitarist", "jazz guitarist", "rock guitarist"]
+  },
+  "reproduce": {
+    "vi": "sinh sản; sao chép; tái hiện",
+    "coll": ["reproduce sexually", "reproduce the results", "reproduced with permission", "reproduce an image"]
+  },
+  "safari": {
+    "vi": "chuyến safari; chuyến đi ngắm thú hoang",
+    "coll": ["go on safari", "safari park", "an African safari", "safari tour"]
+  },
+  "unlucky": {
+    "vi": "xui xẻo; không may; đen đủi",
+    "coll": ["an unlucky number", "unlucky in love", "an unlucky day", "if you're unlucky"]
+  },
+  "canned": {
+    "vi": "đóng hộp; thu sẵn (tiếng cười)",
+    "coll": ["canned food", "canned tomatoes", "canned tuna", "canned laughter"]
+  },
+  "damp": {
+    "vi": "ẩm ướt; hơi ẩm",
+    "coll": ["a damp cloth", "damp weather", "cold and damp", "damp walls"]
+  },
+  "fuss": {
+    "vi": "sự om sòm; làm nhặng xị; sự rối rít",
+    "coll": ["make a fuss", "fuss over the baby", "a lot of fuss", "without any fuss"]
+  },
+  "gorilla": {
+    "vi": "khỉ đột",
+    "coll": ["mountain gorilla", "silverback gorilla", "gorilla habitat"]
+  },
+  "lawful": {
+    "vi": "hợp pháp; chính đáng",
+    "coll": ["lawful owner", "lawful authority", "a lawful purpose", "lawful wedded wife"]
+  },
+  "violently": {
+    "vi": "dữ dội; một cách hung bạo",
+    "coll": ["shake violently", "react violently", "violently opposed", "tremble violently"]
+  },
+  "beaver": {
+    "vi": "hải ly",
+    "coll": ["beaver dam", "busy as a beaver", "beaver fur", "beaver away at something"]
+  },
+  "caller": {
+    "vi": "người gọi điện; khách ghé thăm",
+    "coll": ["an anonymous caller", "the caller hung up", "caller ID", "a regular caller"]
+  },
+  "cv": {
+    "vi": "sơ yếu lý lịch; hồ sơ xin việc",
+    "coll": ["send your CV", "update your CV", "CV and cover letter", "attach a CV"]
+  },
+  "disturbance": {
+    "vi": "sự quấy rầy; vụ náo loạn; sự xáo trộn",
+    "coll": ["cause a disturbance", "public disturbance", "sleep disturbance", "emotional disturbance"]
+  },
+  "informative": {
+    "vi": "giàu thông tin; bổ ích",
+    "coll": ["an informative article", "highly informative", "informative and entertaining", "an informative website"]
+  },
+  "interrupt": {
+    "vi": "ngắt lời; làm gián đoạn",
+    "coll": ["interrupt a conversation", "sorry to interrupt", "interrupt the meeting", "rudely interrupted"]
+  },
+  "mosquito": {
+    "vi": "con muỗi",
+    "coll": ["mosquito bite", "mosquito net", "mosquito repellent", "mosquito-borne diseases"]
+  },
+  "novelist": {
+    "vi": "tiểu thuyết gia; nhà văn viết tiểu thuyết",
+    "coll": ["best-selling novelist", "famous novelist", "crime novelist", "an aspiring novelist"]
+  },
+  "remembrance": {
+    "vi": "sự tưởng nhớ; kỷ niệm; vật kỷ niệm",
+    "coll": ["in remembrance of", "Remembrance Day", "a service of remembrance"]
+  },
+  "attain": {
+    "vi": "đạt được; đạt tới",
+    "coll": ["attain a goal", "attain success", "attain the age of eighteen", "attain a high level"]
+  },
+  "careless": {
+    "vi": "bất cẩn; cẩu thả",
+    "coll": ["a careless mistake", "careless driving", "careless with money", "a careless remark"]
+  },
+  "cheerful": {
+    "vi": "vui vẻ; tươi tắn; tươi sáng",
+    "coll": ["a cheerful smile", "in a cheerful mood", "bright and cheerful", "a cheerful voice"]
+  },
+  "curly": {
+    "vi": "xoăn; quăn; uốn cong",
+    "coll": ["curly hair", "curly fries", "naturally curly", "short curly hair"]
+  },
+  "gymnastics": {
+    "vi": "thể dục dụng cụ; môn thể dục",
+    "coll": ["do gymnastics", "rhythmic gymnastics", "gymnastics competition", "mental gymnastics"]
+  },
+  "humorous": {
+    "vi": "hài hước; dí dỏm",
+    "coll": ["a humorous story", "a humorous remark", "gently humorous", "a humorous look at life"]
+  },
+  "indoors": {
+    "vi": "trong nhà; ở trong nhà",
+    "coll": ["stay indoors", "go indoors", "keep the children indoors", "grown indoors"]
+  },
+  "motivate": {
+    "vi": "tạo động lực; thúc đẩy",
+    "coll": ["motivate students", "highly motivated", "motivate the team", "motivated by money"]
+  },
+  "ness": {
+    "vi": "mũi đất; doi đất nhô ra biển",
+    "coll": ["Loch Ness", "Orford Ness", "a rocky ness"]
+  },
+  "prosperous": {
+    "vi": "thịnh vượng; phát đạt; giàu có",
+    "coll": ["a prosperous country", "a prosperous new year", "a prosperous business", "a prosperous future"]
+  },
+  "admiration": {
+    "vi": "sự ngưỡng mộ; lòng khâm phục",
+    "coll": ["in admiration", "great admiration for", "win the admiration of", "express admiration"]
+  },
+  "congratulate": {
+    "vi": "chúc mừng",
+    "coll": ["congratulate you on your success", "congratulate the winner", "congratulate yourself", "warmly congratulate"]
+  },
+  "courageous": {
+    "vi": "dũng cảm; can trường",
+    "coll": ["a courageous decision", "a courageous act", "a courageous fight", "brave and courageous"]
+  },
+  "garment": {
+    "vi": "trang phục; một món quần áo",
+    "coll": ["garment industry", "outer garments", "a waterproof garment", "garment factory"]
+  },
+  "librarian": {
+    "vi": "thủ thư; quản thư",
+    "coll": ["school librarian", "head librarian", "ask the librarian", "reference librarian"]
+  },
+  "nucleus": {
+    "vi": "hạt nhân; nhân (tế bào); nòng cốt",
+    "coll": ["the nucleus of an atom", "cell nucleus", "atomic nucleus", "form the nucleus of the team"]
+  },
+  "organism": {
+    "vi": "sinh vật; cơ thể sống",
+    "coll": ["living organisms", "single-celled organism", "marine organisms", "genetically modified organisms"]
+  },
+  "sponge": {
+    "vi": "bọt biển; miếng mút rửa; ăn bám",
+    "coll": ["sponge cake", "bath sponge", "wipe it with a sponge", "sponge off his parents"]
+  },
+  "tease": {
+    "vi": "trêu chọc; chọc ghẹo; người hay trêu",
+    "coll": ["tease your little brother", "don't tease me", "just teasing", "tease out the meaning"]
+  },
+  "columnist": {
+    "vi": "cây bút chuyên mục; người viết chuyên mục",
+    "coll": ["newspaper columnist", "gossip columnist", "sports columnist", "advice columnist"]
+  },
+  "cushion": {
+    "vi": "cái đệm; gối tựa; làm giảm (va chạm)",
+    "coll": ["sofa cushions", "seat cushion", "cushion the blow", "cushion the impact"]
+  },
+  "festive": {
+    "vi": "rộn ràng lễ hội; tưng bừng",
+    "coll": ["festive season", "festive mood", "festive atmosphere", "festive decorations"]
+  },
+  "improper": {
+    "vi": "không phù hợp; khiếm nhã; sai trái",
+    "coll": ["improper conduct", "improper use", "highly improper", "improper fraction"]
+  },
+  "pineapple": {
+    "vi": "quả dứa; trái thơm",
+    "coll": ["pineapple juice", "fresh pineapple", "pineapple slices", "pineapple on pizza"]
+  },
+  "similarity": {
+    "vi": "sự giống nhau; nét tương đồng",
+    "coll": ["striking similarity", "similarities and differences", "bear a similarity to", "close similarity"]
+  },
+  "trumpet": {
+    "vi": "kèn trumpet; thổi kèn; rêu rao",
+    "coll": ["play the trumpet", "trumpet player", "blow your own trumpet", "trumpet solo"]
+  },
+  "wrapping": {
+    "vi": "giấy gói; vỏ bọc",
+    "coll": ["wrapping paper", "gift wrapping", "remove the wrapping", "plastic wrapping"]
+  },
+  "discourage": {
+    "vi": "làm nản lòng; can ngăn; không khuyến khích",
+    "coll": ["discourage smoking", "don't be discouraged", "discourage people from driving", "actively discourage"]
+  },
+  "handwriting": {
+    "vi": "chữ viết tay; nét chữ",
+    "coll": ["neat handwriting", "messy handwriting", "recognize her handwriting", "handwriting analysis"]
+  },
+  "poisonous": {
+    "vi": "có độc; độc hại",
+    "coll": ["poisonous snake", "poisonous mushrooms", "poisonous chemicals", "highly poisonous"]
+  },
+  "shameful": {
+    "vi": "đáng xấu hổ; nhục nhã",
+    "coll": ["shameful behavior", "a shameful secret", "deeply shameful", "a shameful act"]
+  },
+  "swollen": {
+    "vi": "sưng phồng; sưng tấy; dâng cao (sông)",
+    "coll": ["a swollen ankle", "swollen glands", "swollen eyes", "a swollen river"]
+  },
+  "undo": {
+    "vi": "hoàn tác; tháo, cởi; xóa bỏ",
+    "coll": ["undo the damage", "undo a button", "undo the changes", "undo your seatbelt"]
+  },
+  "blush": {
+    "vi": "đỏ mặt; sự ửng đỏ",
+    "coll": ["blush with embarrassment", "make someone blush", "blush bright red", "spare his blushes"]
+  },
+  "calculator": {
+    "vi": "máy tính bỏ túi; máy tính cầm tay",
+    "coll": ["pocket calculator", "use a calculator", "scientific calculator", "calculator app"]
+  },
+  "hardship": {
+    "vi": "khó khăn; gian khổ",
+    "coll": ["economic hardship", "financial hardship", "endure hardship", "suffer great hardship"]
+  },
+  "lettuce": {
+    "vi": "rau xà lách; rau diếp",
+    "coll": ["lettuce leaves", "a head of lettuce", "crisp lettuce", "lettuce salad"]
+  },
+  "recycled": {
+    "vi": "tái chế; được tái chế",
+    "coll": ["recycled paper", "recycled materials", "recycled plastic", "made from recycled materials"]
+  },
+  "acquaintance": {
+    "vi": "người quen; sự quen biết",
+    "coll": ["make someone's acquaintance", "a casual acquaintance", "a mutual acquaintance", "friends and acquaintances"]
+  },
+  "cabbage": {
+    "vi": "bắp cải; cải bắp",
+    "coll": ["cabbage soup", "red cabbage", "a head of cabbage", "cabbage leaves"]
+  },
+  "fragment": {
+    "vi": "mảnh vỡ; mảnh rời; vỡ vụn",
+    "coll": ["fragments of glass", "bone fragments", "a fragment of a letter", "fragments of conversation"]
+  },
+  "heater": {
+    "vi": "máy sưởi; lò sưởi điện",
+    "coll": ["water heater", "electric heater", "turn on the heater", "space heater"]
+  },
+  "mash": {
+    "vi": "nghiền nát; món nghiền; khoai nghiền",
+    "coll": ["mash the potatoes", "sausage and mash", "mash it into a paste", "mashed banana"]
+  },
+  "oneself": {
+    "vi": "chính mình; tự mình; bản thân",
+    "coll": ["by oneself", "enjoy oneself", "take care of oneself", "help oneself"]
+  },
+  "safeguard": {
+    "vi": "biện pháp bảo vệ; bảo vệ",
+    "coll": ["safeguard the interests of", "safeguard against fraud", "legal safeguards", "safeguard your privacy"]
+  },
+  "telegram": {
+    "vi": "bức điện tín; điện báo",
+    "coll": ["send a telegram", "receive a telegram", "by telegram", "a congratulatory telegram"]
+  },
+  "turbulence": {
+    "vi": "nhiễu động (không khí); sự hỗn loạn",
+    "coll": ["severe turbulence", "hit turbulence", "air turbulence", "political turbulence"]
+  },
+  "haunt": {
+    "vi": "ám ảnh; (ma) ám; chốn quen lui tới",
+    "coll": ["a haunted house", "haunt your dreams", "haunted by memories", "an old haunt"]
+  },
+  "inscription": {
+    "vi": "chữ khắc; lời đề tặng",
+    "coll": ["bear an inscription", "ancient inscriptions", "the inscription on the tombstone", "read the inscription"]
+  },
+  "kettle": {
+    "vi": "ấm đun nước",
+    "coll": ["put the kettle on", "electric kettle", "the kettle is boiling", "a different kettle of fish"]
+  },
+  "runaway": {
+    "vi": "kẻ chạy trốn; mất kiểm soát; vang dội (thành công)",
+    "coll": ["runaway train", "runaway success", "teenage runaway", "runaway inflation"]
+  },
+  "waterfall": {
+    "vi": "thác nước",
+    "coll": ["a spectacular waterfall", "the foot of the waterfall", "visit a waterfall", "the waterfall cascades down"]
+  },
+  "distinctly": {
+    "vi": "rõ ràng; rõ rệt",
+    "coll": ["distinctly remember", "distinctly different", "distinctly uncomfortable", "speak distinctly"]
+  },
+  "magician": {
+    "vi": "ảo thuật gia; pháp sư",
+    "coll": ["a famous magician", "the magician's assistant", "a magician's trick", "like a magician"]
+  },
+  "bilingual": {
+    "vi": "song ngữ; thông thạo hai thứ tiếng",
+    "coll": ["bilingual education", "bilingual dictionary", "fully bilingual", "bilingual children"]
+  },
+  "cherish": {
+    "vi": "trân trọng; nâng niu; ấp ủ",
+    "coll": ["cherish the memory", "a cherished dream", "cherish every moment", "a cherished possession"]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "indent": {
+    "vi": "thụt lề; chỗ thụt vào; khắc răng cưa",
+    "coll": ["indent the first line", "indent a paragraph", "indent the text", "a deep indent"]
+  },
+  "unfashionable": {
+    "vi": "lỗi mốt; không hợp thời",
+    "coll": ["unfashionable clothes", "become unfashionable", "an unfashionable view", "deeply unfashionable"]
+  },
+  "disillusion": {
+    "vi": "làm vỡ mộng; sự vỡ mộng",
+    "coll": ["disillusion the public", "growing disillusion", "disillusion with politics", "be disillusioned by"]
+  },
+  "inborn": {
+    "vi": "bẩm sinh; trời phú",
+    "coll": ["an inborn talent", "an inborn ability", "an inborn instinct", "inborn errors of metabolism"]
+  },
+  "paperless": {
+    "vi": "không dùng giấy; phi giấy tờ",
+    "coll": ["a paperless office", "go paperless", "paperless billing", "a paperless system"]
+  },
+  "skateboarder": {
+    "vi": "người trượt ván",
+    "coll": ["a young skateboarder", "a professional skateboarder", "skateboarders in the park", "a skilled skateboarder"]
+  },
+  "breakable": {
+    "vi": "dễ vỡ; đồ dễ vỡ",
+    "coll": ["breakable items", "easily breakable", "pack the breakables", "a breakable glass"]
+  },
+  "aubergine": {
+    "vi": "cà tím; màu tím sẫm",
+    "coll": ["grilled aubergine", "stuffed aubergine", "aubergine slices", "an aubergine dress"]
+  },
+  "mutable": {
+    "vi": "có thể thay đổi; hay biến đổi",
+    "coll": ["a mutable object", "mutable state", "a mutable value", "mutable and immutable"]
+  },
+  "cubism": {
+    "vi": "trường phái lập thể",
+    "coll": ["analytical cubism", "the influence of cubism", "the cubism movement", "Picasso and cubism"]
+  },
+  "prance": {
+    "vi": "nhún nhảy vênh vang; đi õng ẹo; chồm lên (ngựa)",
+    "coll": ["prance around the room", "the horse pranced", "prance about the stage", "prance up and down"]
+  },
+  "overstep": {
+    "vi": "vượt quá giới hạn; đi quá đà",
+    "coll": ["overstep the mark", "overstep the boundaries", "overstep your authority", "overstep the limits"]
+  },
+  "tortoiseshell": {
+    "vi": "mai đồi mồi; mèo tam thể",
+    "coll": ["a tortoiseshell cat", "tortoiseshell glasses", "a tortoiseshell comb", "tortoiseshell butterfly"]
+  },
+  "unashamedly": {
+    "vi": "chẳng chút ngượng ngùng; công khai không giấu giếm",
+    "coll": ["unashamedly commercial", "unashamedly romantic", "unashamedly admit", "unashamedly popular"]
+  },
+  "crystallize": {
+    "vi": "kết tinh; định hình rõ nét",
+    "coll": ["crystallize an idea", "the sugar crystallizes", "crystallize into a plan", "crystallize his thinking"]
+  },
+  "handrail": {
+    "vi": "tay vịn; lan can",
+    "coll": ["hold the handrail", "a metal handrail", "install a handrail", "grip the handrail"]
+  },
+  "masseur": {
+    "vi": "nhân viên mát-xa nam",
+    "coll": ["a professional masseur", "see a masseur", "a qualified masseur", "a sports masseur"]
+  },
+  "dignify": {
+    "vi": "làm cho trang trọng; tôn thêm giá trị",
+    "coll": ["dignify the occasion", "dignify it with a response", "dignify the profession", "too silly to dignify"]
+  },
+  "unimaginably": {
+    "vi": "không tưởng tượng nổi",
+    "coll": ["unimaginably vast", "unimaginably rich", "unimaginably cruel", "unimaginably distant"]
+  },
+  "shoplifter": {
+    "vi": "kẻ trộm đồ trong cửa hàng",
+    "coll": ["catch a shoplifter", "a persistent shoplifter", "shoplifters will be prosecuted", "spot a shoplifter"]
+  },
+  "uneasily": {
+    "vi": "bồn chồn; một cách lo lắng",
+    "coll": ["shift uneasily", "laugh uneasily", "sit uneasily with", "glance uneasily"]
+  },
+  "intransitive": {
+    "vi": "nội động; nội động từ",
+    "coll": ["an intransitive verb", "used intransitively", "transitive and intransitive", "an intransitive use"]
+  },
+  "micrometer": {
+    "vi": "thước panme; micrômét",
+    "coll": ["a digital micrometer", "measure with a micrometer", "a micrometer gauge", "micrometer accuracy"]
+  },
+  "microorganism": {
+    "vi": "vi sinh vật",
+    "coll": ["harmful microorganisms", "soil microorganisms", "kill microorganisms", "study microorganisms"]
+  },
+  "referent": {
+    "vi": "vật quy chiếu; sở chỉ của từ",
+    "coll": ["the referent of a word", "a common referent", "identify the referent", "a cultural referent"]
+  },
+  "cheerfulness": {
+    "vi": "sự vui vẻ; tính tươi tắn",
+    "coll": ["natural cheerfulness", "forced cheerfulness", "an air of cheerfulness", "unfailing cheerfulness"]
+  },
+  "microcomputer": {
+    "vi": "máy vi tính",
+    "coll": ["a personal microcomputer", "the microcomputer revolution", "a microcomputer system", "an early microcomputer"]
+  },
+  "gook": {
+    "vi": "dân châu Á (từ miệt thị); chất nhớp nháp",
+    "coll": ["a racial slur like gook", "covered in gook", "sticky gook", "wipe off the gook"]
+  },
+  "pawnbroker": {
+    "vi": "chủ tiệm cầm đồ",
+    "coll": ["a local pawnbroker", "go to a pawnbroker", "a pawnbroker's shop", "sell it to a pawnbroker"]
+  },
+  "saleswoman": {
+    "vi": "nữ nhân viên bán hàng",
+    "coll": ["a top saleswoman", "a travelling saleswoman", "work as a saleswoman", "a skilled saleswoman"]
+  },
+  "speeder": {
+    "vi": "người chạy quá tốc độ",
+    "coll": ["catch a speeder", "fine a speeder", "a repeat speeder", "pull over a speeder"]
+  },
+  "keystroke": {
+    "vi": "lần gõ phím; thao tác gõ phím",
+    "coll": ["a few keystrokes", "record keystrokes", "save keystrokes", "keystroke logging"]
+  },
+  "unenthusiastic": {
+    "vi": "thiếu nhiệt tình; hờ hững",
+    "coll": ["an unenthusiastic response", "sound unenthusiastic", "unenthusiastic about the plan", "an unenthusiastic audience"]
+  },
+  "quarrelsome": {
+    "vi": "hay cãi cọ; hay gây gổ",
+    "coll": ["a quarrelsome child", "quarrelsome neighbours", "become quarrelsome", "a quarrelsome nature"]
+  },
+  "clearness": {
+    "vi": "sự rõ ràng; độ trong",
+    "coll": ["the clearness of the water", "clearness of expression", "clearness of vision", "remarkable clearness"]
+  },
+  "personify": {
+    "vi": "là hiện thân của; nhân cách hóa",
+    "coll": ["personify evil", "personify the spirit of", "nature is personified", "personify an abstract idea"]
+  },
+  "pawnshop": {
+    "vi": "tiệm cầm đồ",
+    "coll": ["a local pawnshop", "take it to a pawnshop", "a pawnshop window", "buy from a pawnshop"]
+  },
+  "smokestack": {
+    "vi": "ống khói nhà máy",
+    "coll": ["a factory smokestack", "smokestack emissions", "a tall smokestack", "smokestack industries"]
+  },
+  "dispensable": {
+    "vi": "không thiết yếu; có thể bỏ qua",
+    "coll": ["easily dispensable", "a dispensable luxury", "considered dispensable", "dispensable staff"]
+  },
+  "impermanent": {
+    "vi": "không lâu bền; tạm bợ; vô thường",
+    "coll": ["impermanent nature", "an impermanent solution", "impermanent by nature", "impermanent structures"]
+  },
+  "salesmanship": {
+    "vi": "nghệ thuật bán hàng",
+    "coll": ["good salesmanship", "skilful salesmanship", "the art of salesmanship", "aggressive salesmanship"]
+  },
+  "untalented": {
+    "vi": "kém tài; không có năng khiếu",
+    "coll": ["an untalented performer", "utterly untalented", "untalented but lucky", "untalented amateurs"]
+  },
+  "exultant": {
+    "vi": "hân hoan đắc thắng; hớn hở",
+    "coll": ["an exultant cry", "exultant fans", "an exultant mood", "feel exultant"]
+  },
+  "dehumanize": {
+    "vi": "tước đoạt nhân tính; coi như đồ vật",
+    "coll": ["dehumanize the enemy", "dehumanize victims", "a dehumanizing effect", "dehumanize the workplace"]
+  },
+  "invariable": {
+    "vi": "không thay đổi; bất biến",
+    "coll": ["an invariable rule", "an invariable routine", "remain invariable", "an invariable result"]
+  },
+  "agonize": {
+    "vi": "day dứt trăn trở; khổ sở đắn đo",
+    "coll": ["agonize over the decision", "agonize about what to do", "agonize for hours", "agonize over details"]
+  },
+  "determiner": {
+    "vi": "từ hạn định; yếu tố quyết định",
+    "coll": ["a definite determiner", "a determiner of success", "the main determiner", "determiners and nouns"]
+  },
+  "respectably": {
+    "vi": "một cách đàng hoàng; khá tươm tất",
+    "coll": ["respectably dressed", "behave respectably", "respectably married", "finish respectably"]
+  },
+  "shoplift": {
+    "vi": "ăn trộm trong cửa hàng",
+    "coll": ["caught shoplifting", "shoplift from a store", "arrested for shoplifting", "shoplift cosmetics"]
+  },
+  "doorkeeper": {
+    "vi": "người gác cửa",
+    "coll": ["the hotel doorkeeper", "act as doorkeeper", "a night doorkeeper", "the doorkeeper let him in"]
+  },
+  "admiringly": {
+    "vi": "với vẻ ngưỡng mộ",
+    "coll": ["look admiringly at", "speak admiringly of", "gaze admiringly", "nod admiringly"]
+  },
+  "mistrustful": {
+    "vi": "đa nghi; ngờ vực",
+    "coll": ["mistrustful of strangers", "deeply mistrustful", "a mistrustful look", "mistrustful of authority"]
+  },
+  "prejudge": {
+    "vi": "phán xét vội; đánh giá trước",
+    "coll": ["prejudge the issue", "prejudge the outcome", "don't prejudge people", "prejudge the case"]
+  },
+  "wordlessly": {
+    "vi": "không nói một lời; lặng lẽ",
+    "coll": ["nod wordlessly", "stare wordlessly", "wordlessly hand over", "wordlessly agree"]
+  },
+  "collocation": {
+    "vi": "cụm từ đi kèm; sự kết hợp từ",
+    "coll": ["a common collocation", "learn collocations", "a strong collocation", "collocation patterns"]
+  },
+  "ferryboat": {
+    "vi": "phà; tàu phà",
+    "coll": ["board the ferryboat", "a car ferryboat", "the ferryboat crossing", "an old ferryboat"]
+  },
+  "burgle": {
+    "vi": "đột nhập trộm cắp",
+    "coll": ["burgle a house", "the flat was burgled", "burgle a shop", "get burgled twice"]
+  },
+  "scholasticism": {
+    "vi": "triết học kinh viện",
+    "coll": ["medieval scholasticism", "the decline of scholasticism", "reject scholasticism", "the tradition of scholasticism"]
+  },
+  "exactness": {
+    "vi": "tính chính xác; sự chuẩn xác",
+    "coll": ["mathematical exactness", "with great exactness", "the exactness of the measurement", "demand exactness"]
+  },
+  "armful": {
+    "vi": "một ôm; ôm đầy tay",
+    "coll": ["an armful of flowers", "an armful of books", "carry an armful of firewood", "armfuls of clothes"]
+  },
+  "wearisome": {
+    "vi": "chán ngắt; mệt mỏi lê thê",
+    "coll": ["a wearisome journey", "a wearisome task", "wearisome detail", "wearisome repetition"]
+  },
+  "industrialize": {
+    "vi": "công nghiệp hóa",
+    "coll": ["industrialize the economy", "rapidly industrialize", "industrialized nations", "industrialize agriculture"]
+  },
+  "woodcarving": {
+    "vi": "nghề chạm khắc gỗ; đồ chạm gỗ",
+    "coll": ["traditional woodcarving", "an intricate woodcarving", "woodcarving tools", "the art of woodcarving"]
+  },
+  "mutability": {
+    "vi": "tính hay thay đổi; tính khả biến",
+    "coll": ["the mutability of language", "the mutability of fortune", "genetic mutability", "the mutability of memory"]
+  },
+  "mystify": {
+    "vi": "làm bối rối; khiến khó hiểu",
+    "coll": ["mystify the audience", "completely mystified", "mystify experts", "mystified by the result"]
+  },
+  "coziness": {
+    "vi": "sự ấm cúng; cảm giác dễ chịu",
+    "coll": ["the coziness of the room", "warmth and coziness", "add coziness", "a sense of coziness"]
+  },
+  "predicative": {
+    "vi": "thuộc vị ngữ; thành phần vị ngữ",
+    "coll": ["a predicative adjective", "predicative use", "attributive and predicative", "a predicative complement"]
+  },
+  "preindustrial": {
+    "vi": "tiền công nghiệp",
+    "coll": ["preindustrial society", "preindustrial levels", "a preindustrial economy", "preindustrial times"]
+  },
+  "unworldly": {
+    "vi": "ngây thơ với đời; không màng danh lợi; siêu phàm",
+    "coll": ["an unworldly innocence", "unworldly beauty", "seem unworldly", "an unworldly scholar"]
+  },
+  "wallboard": {
+    "vi": "tấm ốp tường; tấm thạch cao",
+    "coll": ["gypsum wallboard", "install wallboard", "a sheet of wallboard", "cut the wallboard"]
+  },
+  "invitingly": {
+    "vi": "hấp dẫn mời gọi",
+    "coll": ["smell invitingly", "smile invitingly", "the door stood invitingly open", "look invitingly warm"]
+  },
+  "housemaster": {
+    "vi": "thầy quản nhà nội trú",
+    "coll": ["the school housemaster", "report to the housemaster", "a strict housemaster", "the housemaster's study"]
+  },
+  "untrimmed": {
+    "vi": "chưa cắt tỉa; không viền trang trí",
+    "coll": ["an untrimmed beard", "untrimmed hedges", "untrimmed edges", "untrimmed nails"]
+  },
+  "preoccupy": {
+    "vi": "choán hết tâm trí; ám ảnh suy nghĩ",
+    "coll": ["preoccupy his mind", "be preoccupied with work", "preoccupy the public", "preoccupied by worries"]
+  },
+  "mortify": {
+    "vi": "làm bẽ mặt; khiến xấu hổ; hành xác",
+    "coll": ["be mortified by", "mortify the flesh", "utterly mortified", "mortify someone in public"]
+  },
+  "glacis": {
+    "vi": "dốc thoải; mặt dốc phòng thủ",
+    "coll": ["the glacis of the fort", "a gentle glacis", "the glacis plate", "cross the glacis"]
+  },
+  "reprove": {
+    "vi": "khiển trách; quở trách",
+    "coll": ["reprove someone gently", "reprove him for lying", "be reproved by the teacher", "reprove sharply"]
+  },
+  "hospitalize": {
+    "vi": "cho nhập viện; đưa vào bệnh viện",
+    "coll": ["be hospitalized for a week", "hospitalize a patient", "hospitalized with pneumonia", "hospitalized after the crash"]
+  },
+  "bewilder": {
+    "vi": "làm hoang mang; khiến rối trí",
+    "coll": ["bewilder the audience", "be bewildered by", "the choice bewilders shoppers", "completely bewildered"]
+  },
+  "examinee": {
+    "vi": "thí sinh; người dự thi",
+    "coll": ["the examinee's answers", "a nervous examinee", "instruct the examinees", "examinees must sign in"]
+  },
+  "recommendable": {
+    "vi": "đáng giới thiệu; nên chọn",
+    "coll": ["highly recommendable", "a recommendable book", "a recommendable option", "hardly recommendable"]
+  },
+  "antistatic": {
+    "vi": "chống tĩnh điện",
+    "coll": ["an antistatic bag", "antistatic spray", "an antistatic mat", "antistatic coating"]
+  },
+  "overemphasize": {
+    "vi": "nhấn mạnh quá mức; đề cao thái quá",
+    "coll": ["overemphasize the importance", "cannot overemphasize", "overemphasize the risks", "overemphasize one aspect"]
+  },
+  "nonprofessional": {
+    "vi": "không chuyên; người nghiệp dư",
+    "coll": ["nonprofessional staff", "a nonprofessional actor", "nonprofessional care", "nonprofessional volunteers"]
+  },
+  "layabout": {
+    "vi": "kẻ lười biếng; đồ ăn không ngồi rồi",
+    "coll": ["a lazy layabout", "a useless layabout", "call him a layabout", "a bunch of layabouts"]
+  },
+  "undreamed": {
+    "vi": "ngoài sức tưởng tượng; chưa từng dám mơ",
+    "coll": ["undreamed of wealth", "undreamed of possibilities", "undreamed of success", "undreamed of freedom"]
+  },
+  "gracefulness": {
+    "vi": "sự duyên dáng; vẻ thanh thoát",
+    "coll": ["the gracefulness of her movements", "natural gracefulness", "gracefulness and poise", "admire her gracefulness"]
+  },
+  "italicize": {
+    "vi": "in nghiêng; để chữ nghiêng",
+    "coll": ["italicize the title", "italicize foreign words", "italicized text", "italicize for emphasis"]
+  },
+  "mechanize": {
+    "vi": "cơ giới hóa",
+    "coll": ["mechanize production", "mechanize farming", "a mechanized division", "fully mechanized"]
+  },
+  "moonscape": {
+    "vi": "cảnh quan mặt trăng; vùng hoang tàn",
+    "coll": ["a barren moonscape", "a lunar moonscape", "resemble a moonscape", "a bleak moonscape"]
+  },
+  "balky": {
+    "vi": "ương bướng; hay trục trặc",
+    "coll": ["a balky engine", "a balky horse", "a balky computer", "balky machinery"]
+  },
+  "worktable": {
+    "vi": "bàn làm việc; bàn thao tác",
+    "coll": ["a sturdy worktable", "clear the worktable", "at the worktable", "a wooden worktable"]
+  },
+  "unthinkably": {
+    "vi": "đến mức không tưởng",
+    "coll": ["unthinkably cruel", "unthinkably expensive", "unthinkably remote", "unthinkably vast"]
+  },
+  "glocal": {
+    "vi": "vừa toàn cầu vừa địa phương",
+    "coll": ["a glocal strategy", "glocal marketing", "a glocal approach", "glocal brands"]
+  },
+  "overbook": {
+    "vi": "bán vượt số chỗ; nhận quá chỗ",
+    "coll": ["overbook a flight", "the hotel was overbooked", "airlines routinely overbook", "an overbooked flight"]
+  },
+  "crossly": {
+    "vi": "cáu kỉnh; bực dọc",
+    "coll": ["say crossly", "look at him crossly", "reply crossly", "frown crossly"]
+  },
+  "habitant": {
+    "vi": "dân định cư (Pháp ở Canada)",
+    "coll": ["a French habitant", "habitant farms", "the habitant way of life", "habitant families"]
+  },
+  "unclearly": {
+    "vi": "không rõ ràng; mơ hồ",
+    "coll": ["speak unclearly", "written unclearly", "unclearly defined", "unclearly worded"]
+  },
+  "tatter": {
+    "vi": "mảnh rách tả tơi; xé rách",
+    "coll": ["in tatters", "torn to tatters", "tattered clothes", "tatters of cloth"]
+  },
+  "cybercafe": {
+    "vi": "quán cà phê internet",
+    "coll": ["a local cybercafe", "work from a cybercafe", "a busy cybercafe", "open a cybercafe"]
+  }
+}

@@ -1,0 +1,96 @@
+[
+ {
+  "id": "wiki-swarm-intelligence",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Swarm_intelligence",
+  "title_en": "Swarm intelligence",
+  "sentences": [
+   "Swarm Intelligence is a field of Computer science.",
+   "It is a form of self-organization and artificial intelligence.",
+   "Some animals, mostly insects like ants, or bees form large colonies.",
+   "These colonies are made of many animals that communicate with each other.",
+   "Each animal is relatively simple, but by working together with other animals it is able to solve complex tasks.",
+   "Swarm intelligence wants to obtain similar behaviour than that observed with these animals.",
+   "Instead of the animals, so called agents are used."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-murder-drones",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Murder_Drones",
+  "title_en": "Murder Drones",
+  "sentences": [
+   "Murder Drones is a computer-animated web program created by Liam Vickers and produced by Glitch Productions.",
+   "The program follows the journey of Uzi, a worker teen robot.",
+   "Set in a dystopian planet known as Copper 9 where humans have disappeared and Worker Drones who were left behind must keep themselves safe from Disassembly Drones.",
+   "The pilot for the program was released on October 29, 2021 and made over almost twenty million views.",
+   "The program was green lit on February 18, 2022 and the program was released on November 18, 2022.",
+   "It also has an entity only known as the Solver."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-text-editor",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Text_editor",
+  "title_en": "Text editor",
+  "sentences": [
+   "A text editor is a program that is run on a computer that can create and change text.",
+   "The text can be saved into a file that is called a \"text file\".",
+   "Text editors can be used for a lot of things.",
+   "Many people use them to write documents.",
+   "Some people write code (like HTML or C++) using a text editor.",
+   "Some text editors can edit rich text.",
+   "Rich text allows bold text, italic text, and other things.",
+   "This is why rich text is different form \"text file\" which do not have bold text or italic text properties.",
+   "Most text editors today support \"search and replace\".",
+   "A computer will quickly find some text the user wants.",
+   "The user can tell the computer to replace the found text with something else.",
+   "This can be in part or all of the document.",
+   "Copy, cut and paste are other common options in text editors.",
+   "Copy allows users to instantly add a copy of text in one place to another place.",
+   "Cut and paste are similar, except that the text is moved from one place to another instead of being copied.",
+   "This is very useful when a writer wishes to put his paragraphs in a different order, for example."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-edge-magazine",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Edge_(magazine)",
+  "title_en": "Edge (magazine)",
+  "sentences": [
+   "Edge is a monthly video game magazine in the United Kingdom.",
+   "It was created by video games journalist Steve Jarratt.",
+   "It published its first issue in October 1993, saying the face of videos games were changing and spotlighting the 3DO.",
+   "The cover art for the 100th edition of Edge featured Mario and Luigi.",
+   "It was drawn by Shigeru Miyamoto of Nintendo.",
+   "Circulation for the magazine was 25,571 in 2012, 20,485 in 2013, and 18,082 in 2014.",
+   "In May 2014, the websites of Edge and Computer and Video Games were shut down."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-the-freecycle-network",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/The_Freecycle_Network",
+  "title_en": "The Freecycle Network",
+  "sentences": [
+   "The Freecycle Network (TFN) is a global network of people who share and regive items.",
+   "They organise their network through the Internet.",
+   "Freecycle is a place for people to meet.",
+   "There are just two things people can do there.",
+   "The first thing is this: A person can ask other people for an item.",
+   "If someone has it, they can tell the person who wants it.",
+   "The second thing is this: A person can give away an item.",
+   "Sometimes many people want the item, and the donator has to choose just one person."
+  ],
+  "topic": "it"
+ }
+]

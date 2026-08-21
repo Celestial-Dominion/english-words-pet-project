@@ -1,0 +1,812 @@
+[
+ {
+  "id": "electron",
+  "pos": [
+   "n"
+  ],
+  "vi": "hạt electron; điện tử",
+  "coll": [
+   "free electron",
+   "electron microscope",
+   "electron beam",
+   "electrons orbit the nucleus"
+  ]
+ },
+ {
+  "id": "endure",
+  "pos": [
+   "v"
+  ],
+  "vi": "chịu đựng; kéo dài",
+  "coll": [
+   "endure pain",
+   "endure hardship",
+   "endure the test of time",
+   "hard to endure"
+  ]
+ },
+ {
+  "id": "hatch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nở (trứng); cửa sập; nghĩ ra (kế)",
+  "coll": [
+   "hatch eggs",
+   "the eggs hatch",
+   "hatch a plan",
+   "escape hatch"
+  ]
+ },
+ {
+  "id": "intentionally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cố ý; có chủ đích",
+  "coll": [
+   "intentionally misleading",
+   "act intentionally",
+   "intentionally left blank",
+   "intentionally hurt someone"
+  ]
+ },
+ {
+  "id": "murderer",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ giết người; kẻ sát nhân",
+  "coll": [
+   "convicted murderer",
+   "mass murderer",
+   "serial murderer",
+   "cold-blooded murderer"
+  ]
+ },
+ {
+  "id": "nap",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giấc ngủ ngắn; chợp mắt",
+  "coll": [
+   "take a nap",
+   "afternoon nap",
+   "power nap",
+   "nap time"
+  ]
+ },
+ {
+  "id": "niece",
+  "pos": [
+   "n"
+  ],
+  "vi": "cháu gái; con gái của anh/chị/em",
+  "coll": [
+   "nieces and nephews",
+   "my little niece",
+   "visit her niece"
+  ]
+ },
+ {
+  "id": "persuade",
+  "pos": [
+   "v"
+  ],
+  "vi": "thuyết phục",
+  "coll": [
+   "persuade someone to do something",
+   "try to persuade",
+   "manage to persuade",
+   "persuade him otherwise"
+  ]
+ },
+ {
+  "id": "rainfall",
+  "pos": [
+   "n"
+  ],
+  "vi": "lượng mưa",
+  "coll": [
+   "heavy rainfall",
+   "annual rainfall",
+   "average rainfall",
+   "low rainfall"
+  ]
+ },
+ {
+  "id": "remedy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phương thuốc; biện pháp khắc phục; khắc phục",
+  "coll": [
+   "home remedy",
+   "natural remedy",
+   "remedy the situation",
+   "legal remedy"
+  ]
+ },
+ {
+  "id": "revision",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự sửa đổi; sự ôn tập (Anh); bản chỉnh sửa",
+  "coll": [
+   "make revisions",
+   "revision of the plan",
+   "exam revision",
+   "revision notes"
+  ]
+ },
+ {
+  "id": "sunrise",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bình minh; lúc mặt trời mọc",
+  "coll": [
+   "at sunrise",
+   "watch the sunrise",
+   "beautiful sunrise",
+   "from sunrise to sunset"
+  ]
+ },
+ {
+  "id": "tornado",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lốc xoáy; vòi rồng",
+  "coll": [
+   "tornado warning",
+   "tornado season",
+   "a tornado struck the town",
+   "tornado damage"
+  ]
+ },
+ {
+  "id": "willingness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sẵn lòng; sự tự nguyện",
+  "coll": [
+   "willingness to learn",
+   "willingness to help",
+   "show willingness",
+   "express willingness"
+  ]
+ },
+ {
+  "id": "absorb",
+  "pos": [
+   "v"
+  ],
+  "vi": "hấp thụ; thu hút; tiếp thu",
+  "coll": [
+   "absorb water",
+   "absorb heat",
+   "absorb information",
+   "absorbed in a book"
+  ]
+ },
+ {
+  "id": "accompany",
+  "pos": [
+   "v"
+  ],
+  "vi": "đi cùng; đi kèm; đệm nhạc",
+  "coll": [
+   "accompany a friend",
+   "accompanied by her mother",
+   "accompanying documents",
+   "accompany a singer on piano"
+  ]
+ },
+ {
+  "id": "competitor",
+  "pos": [
+   "n"
+  ],
+  "vi": "đối thủ; đối thủ cạnh tranh; người dự thi",
+  "coll": [
+   "main competitor",
+   "major competitor",
+   "beat the competitors",
+   "direct competitor"
+  ]
+ },
+ {
+  "id": "dioxide",
+  "pos": [
+   "n"
+  ],
+  "vi": "điôxit; oxit chứa hai nguyên tử oxy",
+  "coll": [
+   "carbon dioxide",
+   "sulfur dioxide",
+   "carbon dioxide emissions"
+  ]
+ },
+ {
+  "id": "enjoyment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thích thú; niềm vui thích",
+  "coll": [
+   "for your enjoyment",
+   "get enjoyment from",
+   "full enjoyment",
+   "spoil the enjoyment"
+  ]
+ },
+ {
+  "id": "glimpse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái nhìn thoáng qua; thoáng thấy",
+  "coll": [
+   "catch a glimpse of",
+   "get a glimpse",
+   "a brief glimpse",
+   "a glimpse of the future"
+  ]
+ },
+ {
+  "id": "ice skating",
+  "pos": [
+   "n"
+  ],
+  "vi": "trượt băng; môn trượt băng",
+  "coll": [
+   "go ice skating",
+   "ice skating rink",
+   "ice skating lessons"
+  ]
+ },
+ {
+  "id": "pupil",
+  "pos": [
+   "n"
+  ],
+  "vi": "học sinh; con ngươi",
+  "coll": [
+   "primary school pupils",
+   "teacher and pupils",
+   "the pupil of the eye",
+   "dilated pupils"
+  ]
+ },
+ {
+  "id": "rotten",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "thối rữa; mục nát; tồi tệ",
+  "coll": [
+   "rotten eggs",
+   "rotten wood",
+   "rotten apples",
+   "feel rotten"
+  ]
+ },
+ {
+  "id": "spoil",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm hỏng; nuông chiều; ôi thiu",
+  "coll": [
+   "spoil the fun",
+   "spoil a child",
+   "spoil your appetite",
+   "the milk will spoil"
+  ]
+ },
+ {
+  "id": "submarine",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "tàu ngầm; dưới mặt biển",
+  "coll": [
+   "nuclear submarine",
+   "submarine crew",
+   "submarine cable"
+  ]
+ },
+ {
+  "id": "temper",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tính khí; cơn nóng giận; tôi luyện",
+  "coll": [
+   "lose your temper",
+   "bad temper",
+   "quick temper",
+   "keep your temper"
+  ]
+ },
+ {
+  "id": "undergo",
+  "pos": [
+   "v"
+  ],
+  "vi": "trải qua; chịu đựng",
+  "coll": [
+   "undergo surgery",
+   "undergo treatment",
+   "undergo changes",
+   "undergo testing"
+  ]
+ },
+ {
+  "id": "coffin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quan tài",
+  "coll": [
+   "wooden coffin",
+   "open coffin",
+   "carry the coffin",
+   "a nail in the coffin"
+  ]
+ },
+ {
+  "id": "crow",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "con quạ; gáy (gà); khoe khoang",
+  "coll": [
+   "as the crow flies",
+   "the rooster crowed",
+   "crow about his success",
+   "a flock of crows"
+  ]
+ },
+ {
+  "id": "eternity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự vĩnh hằng; cõi vĩnh hằng; khoảng vô tận",
+  "coll": [
+   "for eternity",
+   "seem like an eternity",
+   "spend eternity",
+   "an eternity of waiting"
+  ]
+ },
+ {
+  "id": "luggage",
+  "pos": [
+   "n"
+  ],
+  "vi": "hành lý",
+  "coll": [
+   "carry-on luggage",
+   "luggage rack",
+   "pack your luggage",
+   "a piece of luggage",
+   "excess luggage"
+  ]
+ },
+ {
+  "id": "minimize",
+  "pos": [
+   "v"
+  ],
+  "vi": "giảm thiểu; thu nhỏ (cửa sổ)",
+  "coll": [
+   "minimize the risk",
+   "minimize costs",
+   "minimize damage",
+   "minimize the window"
+  ]
+ },
+ {
+  "id": "performer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người biểu diễn; nghệ sĩ trình diễn",
+  "coll": [
+   "street performer",
+   "circus performer",
+   "star performer",
+   "live performer"
+  ]
+ },
+ {
+  "id": "primitive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nguyên thủy; thô sơ",
+  "coll": [
+   "primitive society",
+   "primitive man",
+   "primitive tools",
+   "primitive conditions"
+  ]
+ },
+ {
+  "id": "restrict",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "hạn chế; giới hạn",
+  "coll": [
+   "restrict access",
+   "restrict movement",
+   "restrict the use of",
+   "restricted area"
+  ]
+ },
+ {
+  "id": "seize",
+  "pos": [
+   "v"
+  ],
+  "vi": "nắm lấy; chiếm giữ; tịch thu",
+  "coll": [
+   "seize the opportunity",
+   "seize power",
+   "seize control",
+   "seize assets"
+  ]
+ },
+ {
+  "id": "skeleton",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bộ xương; khung sườn",
+  "coll": [
+   "human skeleton",
+   "skeleton key",
+   "skeleton staff",
+   "a skeleton in the closet"
+  ]
+ },
+ {
+  "id": "spicy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cay; đậm vị cay",
+  "coll": [
+   "spicy food",
+   "spicy sauce",
+   "hot and spicy",
+   "spicy flavor"
+  ]
+ },
+ {
+  "id": "sticky",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "dính; nhớp nháp; khó xử",
+  "coll": [
+   "sticky fingers",
+   "sticky tape",
+   "sticky rice",
+   "a sticky situation"
+  ]
+ },
+ {
+  "id": "tick",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dấu tích; tiếng tích tắc; con ve (bọ); kêu tích tắc",
+  "coll": [
+   "tick the box",
+   "put a tick",
+   "the clock ticks",
+   "tick off the items"
+  ]
+ },
+ {
+  "id": "unrelated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không liên quan; không họ hàng",
+  "coll": [
+   "completely unrelated",
+   "unrelated to the case",
+   "two unrelated events",
+   "unrelated incidents"
+  ]
+ },
+ {
+  "id": "wardrobe",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tủ quần áo; toàn bộ trang phục",
+  "coll": [
+   "built-in wardrobe",
+   "update your wardrobe",
+   "winter wardrobe",
+   "wardrobe malfunction"
+  ]
+ },
+ {
+  "id": "warmth",
+  "pos": [
+   "n"
+  ],
+  "vi": "hơi ấm; sự ấm áp; sự nồng hậu",
+  "coll": [
+   "the warmth of the sun",
+   "warmth and comfort",
+   "human warmth",
+   "radiate warmth"
+  ]
+ },
+ {
+  "id": "bulletin",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "bản tin; thông báo ngắn",
+  "coll": [
+   "news bulletin",
+   "bulletin board",
+   "weather bulletin",
+   "official bulletin"
+  ]
+ },
+ {
+  "id": "cautious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thận trọng; dè dặt",
+  "coll": [
+   "cautious approach",
+   "cautious optimism",
+   "remain cautious",
+   "a cautious driver"
+  ]
+ },
+ {
+  "id": "distribute",
+  "pos": [
+   "v"
+  ],
+  "vi": "phân phát; phân phối",
+  "coll": [
+   "distribute leaflets",
+   "evenly distributed",
+   "distribute goods",
+   "distribute wealth"
+  ]
+ },
+ {
+  "id": "encouragement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự động viên; sự khích lệ",
+  "coll": [
+   "words of encouragement",
+   "give encouragement",
+   "need encouragement",
+   "a source of encouragement"
+  ]
+ },
+ {
+  "id": "goalkeeper",
+  "pos": [
+   "n"
+  ],
+  "vi": "thủ môn",
+  "coll": [
+   "the goalkeeper saved the shot",
+   "reserve goalkeeper",
+   "goalkeeper gloves",
+   "beat the goalkeeper"
+  ]
+ },
+ {
+  "id": "hesitate",
+  "pos": [
+   "v"
+  ],
+  "vi": "do dự; ngập ngừng",
+  "coll": [
+   "hesitate to ask",
+   "don't hesitate to contact us",
+   "hesitate for a moment",
+   "hesitate before answering"
+  ]
+ },
+ {
+  "id": "hopeful",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đầy hy vọng; hứa hẹn; ứng viên triển vọng",
+  "coll": [
+   "remain hopeful",
+   "hopeful signs",
+   "hopeful about the future",
+   "presidential hopeful"
+  ]
+ },
+ {
+  "id": "imaginary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tưởng tượng; hư cấu; ảo",
+  "coll": [
+   "imaginary friend",
+   "imaginary world",
+   "an imaginary line",
+   "purely imaginary"
+  ]
+ },
+ {
+  "id": "mechanic",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thợ máy; thợ sửa xe",
+  "coll": [
+   "car mechanic",
+   "auto mechanic",
+   "trained mechanic",
+   "take the car to the mechanic"
+  ]
+ },
+ {
+  "id": "modify",
+  "pos": [
+   "v"
+  ],
+  "vi": "sửa đổi; điều chỉnh; bổ nghĩa",
+  "coll": [
+   "modify the design",
+   "genetically modified",
+   "modify behavior",
+   "slightly modified"
+  ]
+ },
+ {
+  "id": "northwestern",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc tây bắc; ở phía tây bắc",
+  "coll": [
+   "northwestern region",
+   "northwestern coast",
+   "northwestern China"
+  ]
+ },
+ {
+  "id": "oppression",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự áp bức; sự đàn áp",
+  "coll": [
+   "political oppression",
+   "fight against oppression",
+   "victims of oppression",
+   "colonial oppression"
+  ]
+ },
+ {
+  "id": "prejudice",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "định kiến; thành kiến; gây tổn hại",
+  "coll": [
+   "racial prejudice",
+   "prejudice against women",
+   "overcome prejudice",
+   "without prejudice"
+  ]
+ },
+ {
+  "id": "shrimp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con tôm; tôm",
+  "coll": [
+   "grilled shrimp",
+   "shrimp cocktail",
+   "fried shrimp",
+   "shrimp farming"
+  ]
+ },
+ {
+  "id": "stall",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quầy hàng; sạp; chết máy; trì hoãn",
+  "coll": [
+   "market stall",
+   "food stall",
+   "the engine stalled",
+   "stall for time"
+  ]
+ },
+ {
+  "id": "surround",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bao quanh; vây quanh",
+  "coll": [
+   "surrounded by mountains",
+   "surround the building",
+   "surround yourself with friends",
+   "surround sound"
+  ]
+ },
+ {
+  "id": "allergic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "dị ứng; bị dị ứng",
+  "coll": [
+   "allergic to peanuts",
+   "allergic reaction",
+   "highly allergic",
+   "allergic rhinitis"
+  ]
+ }
+]

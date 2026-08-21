@@ -1,0 +1,131 @@
+[
+ {
+  "id": "wiki-peripheral-equipment",
+  "title_vi": "Thiết bị ngoại vi",
+  "vi": [
+   "Thiết bị ngoại vi (còn gọi là: thiết bị đầu vào và đầu ra) kết nối máy tính với những thứ khác.",
+   "Nó cung cấp cho một hệ thống máy tính nhiều tính năng hơn.",
+   "Đầu vào là bất cứ thứ gì đi vào và đầu ra là bất cứ thứ gì đi ra.",
+   "Bất kỳ thiết bị nào dành cho máy tính mà máy tính có thể hoạt động mà không cần đến đều là thiết bị ngoại vi.",
+   "Thiết bị này luôn được tách biệt khỏi bộ xử lý trung tâm (CPU) bằng bộ điều khiển thiết bị.",
+   "Thiết bị ngoại vi là cần thiết để mọi người tương tác với hệ thống máy tính.",
+   "Một số thiết bị ngoại vi hiển thị thông tin (chẳng hạn như màn hình máy tính).",
+   "Một số thiết bị ngoại vi, chẳng hạn như màn hình cảm ứng, hoạt động cho cả đầu vào và đầu ra.",
+   "Một thiết bị ngoại vi có thể được kết nối với nhiều hệ thống."
+  ]
+ },
+ {
+  "id": "news-more-teenagers-attracted-to-computer-cri",
+  "title_vi": "Chuyên gia cảnh báo ngày càng nhiều thanh thiếu niên sa vào tội phạm máy tính",
+  "vi": [
+   "Thứ Ba, ngày 28 tháng 10 năm 2008 Các chuyên gia bảo mật cảnh báo ngày càng có nhiều thanh thiếu niên sa vào tội phạm máy tính công nghệ cao.",
+   "Một số lượng lớn thanh thiếu niên bị phát hiện rao bán số thẻ tín dụng, bộ công cụ lừa đảo và thủ thuật bẻ khóa trên một số diễn đàn Internet.",
+   "Các chuyên gia nhận định, những kẻ phạm tội trẻ tuổi rất có khả năng bị bắt và bị truy tố do trình độ kỹ thuật kém.",
+   "Trao đổi các chương trình độc hại, kiến thức, dữ liệu bị đánh cắp, khai thác và mã vi-rút rất phổ biến với thanh thiếu niên tiếp xúc với thế giới tội phạm máy tính.",
+   "Các cộng đồng trực tuyến và diễn đàn web chia sẻ các vết nứt ứng dụng, các cách khai thác kỳ lạ và mã vi-rút khiến thanh thiếu niên dễ dàng thực hiện các hoạt động bất hợp pháp.",
+   "Chris Boyd, giám đốc nghiên cứu phần mềm độc hại tại FaceTime Security cho biết, nhiều chương trình phiền toái được thanh thiếu niên viết ra để khai thác người dùng các trang mạng xã hội.",
+   "Ông Boyd nói: “Một số khá thô thiển, một số thì thông minh và một số thì ngu ngốc”.",
+   "Nỗ lực kiếm tiền bằng cách phạm tội mạng thường thất bại do thiếu kỹ năng kỹ thuật.",
+   "Kevin Hogan, quản lý cấp cao của Symantec Security Response, cho biết: “Họ thậm chí còn không biết đủ để sử dụng đúng công cụ tấn công hoặc lừa đảo đơn giản”.",
+   "Thanh thiếu niên thường làm hỏng máy tính của chính họ do virus mà họ đã viết.",
+   "Thanh thiếu niên mong muốn giành được sự công nhận cho những chiến công của mình khiến họ đăng những video hở hang trên các trang web như YouTube.",
+   "Họ thường đăng nhập bằng cùng một bí danh được sử dụng để bẻ khóa một trang web, thực hiện một cuộc tấn công lừa đảo hoặc viết một cuộc tấn công khai thác web.",
+   "Do đó, chúng dễ dàng bị các chuyên gia bảo mật máy tính theo dõi.",
+   "Mathew Bevan, bị bắt khi còn là tội phạm mạng tuổi teen và sau đó được trắng án, nói rằng thanh thiếu niên thích \"cảm giác hồi hộp và sức mạnh để chứng minh họ là ai đó\".",
+   "Vì vậy, cuối cùng họ vẫn sử dụng cùng một bí danh, thậm chí có nguy cơ bị bắt.",
+   "Ông nói: “Mục đích của những gì họ đang làm là để có được danh tiếng trong nhóm ngang hàng của họ”."
+  ]
+ },
+ {
+  "id": "wiki-firewall-networking",
+  "title_vi": "Tường lửa (kết nối mạng)",
+  "vi": [
+   "Về mặt bảo mật máy tính, tường lửa là một phần mềm.",
+   "Phần mềm này giám sát lưu lượng mạng giữa bên trong và bên ngoài.",
+   "Tường lửa được đặt giữa mạng cần được bảo vệ (đáng tin cậy) và mạng bên ngoài (ít tin cậy hơn) hay còn gọi là WAN hoặc Internet.",
+   "Tường lửa có một bộ quy tắc được áp dụng cho mỗi gói.",
+   "Các quy tắc quyết định xem một gói có thể vượt qua hay không hoặc liệu nó có bị loại bỏ hay không.",
+   "Khi một mạng lớn cần được bảo vệ, phần mềm tường lửa thường chạy trên một máy tính mà không làm gì khác.",
+   "Tường lửa bảo vệ một phần của mạng khỏi bị truy cập trái phép."
+  ]
+ },
+ {
+  "id": "news-wikipedia-publishes-10-millionth-article",
+  "title_vi": "Wikipedia xuất bản bài viết thứ 10 triệu",
+  "vi": [
+   "Chủ nhật, ngày 30 tháng 3 năm 2008 Bách khoa toàn thư trực tuyến Wikipedia đã xuất bản bài viết thứ 10 triệu.",
+   "Theo thông cáo báo chí từ người đứng đầu bộ phận truyền thông của Wikimedia Foundation, Jay Walsh, bài viết thứ 10 triệu trên Wikipedia là \"Nicholas Hilliard\" trên Wikipedia tiếng Hungary.",
+   "Wikimedia Foundation vận hành các phiên bản Wikipedia bằng 253 ngôn ngữ.",
+   "Ngôn ngữ lớn nhất là tiếng Anh, có 2,3 triệu bài báo.",
+   "Tổng số chính thức đạt 10 triệu vào thứ Năm, ngày 27 tháng 3, lúc 00:07 UTC.",
+   "Trong thông cáo báo chí, người sáng lập Wikimedia, Jimmy Wales, được trích dẫn nói rằng \"Thật khó tin khi nghĩ rằng chúng tôi đã phát triển từ một Wikipedia bằng tiếng Anh lên hơn 250 Wikipedia ngôn ngữ.",
+   "Mười triệu bài viết là điều mà chúng tôi không bao giờ có thể tưởng tượng được lại diễn ra nhanh đến vậy khi chúng tôi bắt tay vào xây dựng Wikipedia vào năm 2001.",
+   "Đây là minh chứng cho sự cống hiến đáng kinh ngạc của các tình nguyện viên của chúng tôi trên khắp thế giới.\" Bảng dưới đây liệt kê năm Wikipedia lớn nhất:"
+  ]
+ },
+ {
+  "id": "wiki-binary",
+  "title_vi": "Nhị phân",
+  "vi": [
+   "Nhị phân là hệ đếm cơ số 2.",
+   "Gọi là cơ số 2 vì chỉ có 2 chữ số 0 và 1.",
+   "Số thập phân cũng có các chữ số 0 và 1, vì vậy chỉ số dưới \"(2)\" thường được thêm vào số nhị phân để không gây nhầm lẫn cho mọi người.",
+   "Máy tính hoạt động ở dạng nhị phân vì đây là cách đơn giản nhất để lưu trữ thông tin bằng điện.",
+   "Một dây có thể được bật để biểu thị số 1 hoặc tắt nguồn để biểu thị số 0.",
+   "Các bộ số nhị phân lớn có thể được máy tính sử dụng để thể hiện các loại thông tin khác, chẳng hạn như văn bản, bài hát hoặc video."
+  ]
+ },
+ {
+  "id": "wiki-distribution-mathematics",
+  "title_vi": "Phân phối (toán học)",
+  "vi": [
+   "Đây là về phân phối theo nghĩa toán học, các ý nghĩa khác có thể được tìm thấy ở phân phối Trong toán học, phân phối là sự tổng quát hóa của một hàm.",
+   "Các bản phân phối được giới thiệu vào giữa thế kỷ 20 bởi Laurent Schwartz, người đã nhận được Huy chương Fields cho công trình nghiên cứu của mình về chúng.",
+   "Huy chương Fields có thể so sánh với giải Nobel toán học nhưng không tồn tại.",
+   "Phân phối đã được giới thiệu để mô hình hóa các khái niệm nhất định từ Vật lý.",
+   "Vật lý có khái niệm về khối lượng các điểm trong không gian.",
+   "Hàm delta Dirac có thể mô hình hóa điện tích của một điểm trong không gian.",
+   "Hàm delta Dirac bằng 0 ở mọi nơi, ngoại trừ tại một điểm, nơi nó lớn vô cùng.",
+   "Điều này cần phải đúng vì hàm mật độ cần phải bằng 1.",
+   "Không có hàm nào có thể đáp ứng tiêu chí này, ngoại trừ nếu tích phân được coi là hàm theo nghĩa toán học.",
+   "Ngày nay, phân bố được sử dụng trong các lĩnh vực toán học và vật lý khác nhau, chẳng hạn như để mô hình hóa các phương trình vi phân từng phần hoặc phân tích Fourier, vốn rất quan trọng đối với Điện động lực học lượng tử hoặc xử lý tín hiệu."
+  ]
+ },
+ {
+  "id": "news-distributed-malware-attacks-dyn-dns-take",
+  "title_vi": "Phần mềm độc hại phân tán tấn công Dyn DNS, đánh sập các trang web ở Mỹ",
+  "vi": [
+   "Thứ Hai, ngày 24 tháng 10 năm 2016 Thứ Sáu, một mạng lưới gồm nhiều thiết bị kết nối Internet đa dạng đã nhắm tới nhà cung cấp dịch vụ đăng ký tên miền Dyn.",
+   "Nó đã hạ gục các khách hàng của Dyn, bao gồm một số trang web phổ biến như Twitter, Netflix, Spotify, Reddit, New York Times và Wired.",
+   "Cuộc tấn công liên quan đến việc nhắm mục tiêu vào các máy chủ hệ thống tên miền của Dyn với khối lượng yêu cầu lớn, khiến nó không thể đáp ứng các yêu cầu hợp pháp - một cuộc tấn công DDoS (từ chối dịch vụ phân tán).",
+   "Trình duyệt của người dùng và các ứng dụng khách khác đã gửi yêu cầu tới Dyn để phân giải tên miền của các trang web tương ứng thành IP nhưng không nhận được phản hồi trong thời gian yêu cầu.",
+   "Cuộc tấn công đầu tiên bắt đầu vào khoảng 7 giờ sáng giờ địa phương (UTC-4) và được giải quyết sau hai giờ.",
+   "Cuộc tấn công thứ hai bắt đầu vào giữa ngày và cuộc tấn công thứ ba bắt đầu vào khoảng 4 giờ chiều giờ địa phương.",
+   "Hàng chục triệu nguồn yêu cầu độc hại đã được phát hiện, cản trở lưu lượng Dyn hợp pháp.",
+   "Các báo cáo lưu ý rằng các thiết bị độc hại bao gồm các thiết bị kết nối internet - không chỉ máy chủ và máy tính để bàn mà còn cả webcam, máy quay video kỹ thuật số, bộ định tuyến - được gọi là Internet of Things.",
+   "Vào tối thứ Sáu, Dyn cho biết công ty bảo mật Flashpoint và nhà cung cấp dịch vụ đám mây Akamai đã xác định được các triệu chứng của phần mềm độc hại Mirai tham gia vào các cuộc tấn công.",
+   "Phần mềm độc hại lây nhiễm vào các thiết bị bằng cách ép buộc mật khẩu của họ.",
+   "Chiến lược này có thể hoạt động do sự sơ suất của người dùng đối với việc bảo mật mật khẩu của các thiết bị cố định mà người dùng không tương tác trực tiếp trong cuộc sống hàng ngày khi để họ tiếp xúc với Internet.",
+   "Matthew Prince, Giám đốc điều hành của công ty cơ sở hạ tầng Internet Cloudflare cho biết đây là một vấn đề đã được biết đến, \"Không có gì thực sự mới về [kiểu tấn công DDoS này].",
+   "Chúng tôi đã thấy chúng ít nhất ba năm qua, chúng có xu hướng khó ngăn chặn”.",
+   "Việc phát hành công khai mã nguồn Mirai đã được công bố tại Hackforums vào ngày 30 tháng 9.",
+   "Trụ sở công ty của Dyn ở New Hampshire."
+  ]
+ },
+ {
+  "id": "news-virtual-iraq-created-to-help-traumatised",
+  "title_vi": "'Iraq ảo' được tạo ra để giúp đỡ các cựu chiến binh bị chấn thương",
+  "vi": [
+   "Thứ ba, ngày 13 tháng 3 năm 2007 Đại học Nam California đã phát triển một hệ thống mô phỏng cung cấp các hiệu ứng thực tế của chiến trường.",
+   "Mô phỏng này có tên là Virtual Iraq và hiện đang được Đại học Reading đưa vào thực tế.",
+   "Iraq ảo đại diện cho một hệ thống hoàn toàn nhập vai được tạo ra như một phần của liệu pháp nhằm giúp những người lính mắc chứng rối loạn căng thẳng sau chấn thương giải quyết các vấn đề tâm lý của họ.",
+   "Giám đốc Trung tâm Trực quan tại Đại học Reading, Giáo sư Paul Sharkey, đã phát triển hệ thống này cùng với hai giáo sư từ Viện Công nghệ Sáng tạo USC, Albert Rizzo và Jarrell Pair.",
+   "Họ đã tạo ra một căn phòng ảo tại Trung tâm Trực quan, nơi bệnh nhân có thể trải nghiệm tác động của chiến trường.",
+   "Các nhà khoa học sẽ cung cấp âm thanh, khung cảnh và mùi vị của chiến trường trong Iraq ảo của họ để binh lính hoặc nhân viên quân đội trải nghiệm các tình huống chiến đấu thực tế nhưng trong bối cảnh có ít mối đe dọa.",
+   "Do đó, các nhà trị liệu có thể thêm vào thế giới ảo những quả bom ven đường, mùi cao su cháy, cũng như tiếng súng và tiếng vo ve của trực thăng.",
+   "Cho đến nay, bốn bệnh nhân đã được điều trị và tất cả họ đều báo cáo sự cải thiện các triệu chứng.",
+   "Các nhà khoa học tuyên bố rằng mục đích của hệ thống mới là giúp bệnh nhân tiếp xúc với các sự kiện chấn thương có liên quan và không làm họ tái chấn thương.",
+   "Họ mong muốn quản lý phản ứng cảm xúc của mọi người để giúp họ linh hoạt hơn trong các tình huống hàng ngày."
+  ]
+ }
+]

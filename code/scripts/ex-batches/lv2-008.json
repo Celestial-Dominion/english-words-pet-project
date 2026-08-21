@@ -1,0 +1,848 @@
+[
+ {
+  "id": "completion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hoàn thành; việc hoàn tất",
+  "coll": [
+   "on completion",
+   "near completion",
+   "completion date",
+   "successful completion"
+  ]
+ },
+ {
+  "id": "employer",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà tuyển dụng; chủ lao động",
+  "coll": [
+   "current employer",
+   "former employer",
+   "employer contributions",
+   "prospective employer"
+  ]
+ },
+ {
+  "id": "fluid",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chất lỏng; dịch; linh hoạt; trôi chảy",
+  "coll": [
+   "body fluids",
+   "drink plenty of fluids",
+   "fluid movement",
+   "fluid situation",
+   "brake fluid"
+  ]
+ },
+ {
+  "id": "interpretation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự diễn giải; cách hiểu; việc phiên dịch",
+  "coll": [
+   "open to interpretation",
+   "different interpretation",
+   "literal interpretation",
+   "simultaneous interpretation"
+  ]
+ },
+ {
+  "id": "legitimate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "hợp pháp; chính đáng; hợp lệ",
+  "coll": [
+   "legitimate business",
+   "legitimate concern",
+   "legitimate reason",
+   "perfectly legitimate"
+  ]
+ },
+ {
+  "id": "outfit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bộ trang phục; bộ đồ; trang bị cho",
+  "coll": [
+   "wear an outfit",
+   "a new outfit",
+   "outfit of the day",
+   "matching outfit"
+  ]
+ },
+ {
+  "id": "pension",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lương hưu; trợ cấp hưu trí",
+  "coll": [
+   "state pension",
+   "pension fund",
+   "draw a pension",
+   "pension scheme",
+   "retire on a pension"
+  ]
+ },
+ {
+  "id": "sue",
+  "pos": [
+   "v"
+  ],
+  "vi": "kiện; khởi kiện",
+  "coll": [
+   "sue for damages",
+   "sue the company",
+   "threaten to sue",
+   "sue in court"
+  ]
+ },
+ {
+  "id": "virtual reality",
+  "pos": [
+   "n"
+  ],
+  "vi": "thực tế ảo",
+  "coll": [
+   "virtual reality headset",
+   "virtual reality game",
+   "immersive virtual reality",
+   "virtual reality technology"
+  ]
+ },
+ {
+  "id": "backup",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "bản sao lưu; sự hỗ trợ; dự phòng",
+  "coll": [
+   "create a backup",
+   "backup copy",
+   "backup plan",
+   "call for backup",
+   "backup system"
+  ]
+ },
+ {
+  "id": "evaluation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đánh giá; việc thẩm định",
+  "coll": [
+   "performance evaluation",
+   "carry out an evaluation",
+   "evaluation process",
+   "medical evaluation"
+  ]
+ },
+ {
+  "id": "holder",
+  "pos": [
+   "n"
+  ],
+  "vi": "người nắm giữ; giá đỡ; người sở hữu",
+  "coll": [
+   "account holder",
+   "ticket holder",
+   "record holder",
+   "cup holder",
+   "passport holder"
+  ]
+ },
+ {
+  "id": "hood",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "mũ trùm đầu; nắp ca-pô; khu phố (lóng)",
+  "coll": [
+   "wear a hood",
+   "pull up your hood",
+   "under the hood",
+   "the hood of the car"
+  ]
+ },
+ {
+  "id": "identical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "giống hệt; y hệt",
+  "coll": [
+   "identical twins",
+   "virtually identical",
+   "identical to the original",
+   "almost identical"
+  ]
+ },
+ {
+  "id": "manufacturer",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà sản xuất; hãng sản xuất",
+  "coll": [
+   "car manufacturer",
+   "leading manufacturer",
+   "manufacturer's warranty",
+   "equipment manufacturer"
+  ]
+ },
+ {
+  "id": "skip",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bỏ qua; nhảy chân sáo; nhảy dây",
+  "coll": [
+   "skip breakfast",
+   "skip a class",
+   "skip ahead",
+   "skip the queue",
+   "skip rope"
+  ]
+ },
+ {
+  "id": "snap",
+  "pos": [
+   "v",
+   "n",
+   "intj",
+   "adj"
+  ],
+  "vi": "bẻ gãy; kêu tách; chụp nhanh; nổi cáu",
+  "coll": [
+   "snap in half",
+   "snap a photo",
+   "snap decision",
+   "snap your fingers",
+   "snap at someone"
+  ]
+ },
+ {
+  "id": "veteran",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "cựu chiến binh; người kỳ cựu",
+  "coll": [
+   "war veteran",
+   "veteran player",
+   "veteran actor",
+   "veteran of the campaign"
+  ]
+ },
+ {
+  "id": "wealthy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "giàu có; giàu sang",
+  "coll": [
+   "wealthy family",
+   "extremely wealthy",
+   "wealthy businessman",
+   "wealthy nation"
+  ]
+ },
+ {
+  "id": "additionally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngoài ra; thêm vào đó",
+  "coll": [
+   "additionally, you can",
+   "additionally required",
+   "additionally charged",
+   "additionally, the report"
+  ]
+ },
+ {
+  "id": "caring",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "ân cần; biết quan tâm; chu đáo",
+  "coll": [
+   "a caring person",
+   "caring attitude",
+   "caring for the elderly",
+   "loving and caring"
+  ]
+ },
+ {
+  "id": "distinguished",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "lỗi lạc; xuất chúng; đường bệ",
+  "coll": [
+   "distinguished career",
+   "distinguished professor",
+   "distinguished guest",
+   "distinguished service"
+  ]
+ },
+ {
+  "id": "dose",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "liều thuốc; liều lượng",
+  "coll": [
+   "take a dose",
+   "daily dose",
+   "high dose",
+   "lethal dose",
+   "a dose of reality"
+  ]
+ },
+ {
+  "id": "flesh",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thịt (da thịt); da thịt; cùi quả",
+  "coll": [
+   "flesh and blood",
+   "in the flesh",
+   "raw flesh",
+   "flesh wound"
+  ]
+ },
+ {
+  "id": "flip",
+  "pos": [
+   "v",
+   "n",
+   "intj",
+   "adj"
+  ],
+  "vi": "lật; búng; cú lộn nhào",
+  "coll": [
+   "flip a coin",
+   "flip over",
+   "flip through the pages",
+   "flip the switch",
+   "flip out"
+  ]
+ },
+ {
+  "id": "implement",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thực hiện; triển khai; công cụ",
+  "coll": [
+   "implement a plan",
+   "implement changes",
+   "implement a policy",
+   "fully implement"
+  ]
+ },
+ {
+  "id": "laser",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tia laser; máy laser",
+  "coll": [
+   "laser beam",
+   "laser printer",
+   "laser surgery",
+   "laser pointer"
+  ]
+ },
+ {
+  "id": "opponent",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "đối thủ; người phản đối",
+  "coll": [
+   "beat your opponent",
+   "political opponent",
+   "worthy opponent",
+   "an opponent of the plan"
+  ]
+ },
+ {
+  "id": "patch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "miếng vá; mảng; bản vá lỗi; vá lại",
+  "coll": [
+   "eye patch",
+   "vegetable patch",
+   "security patch",
+   "patch up",
+   "a patch of grass"
+  ]
+ },
+ {
+  "id": "precisely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chính xác; đúng vậy; một cách chuẩn xác",
+  "coll": [
+   "precisely because",
+   "know precisely",
+   "measure precisely",
+   "at precisely three o'clock"
+  ]
+ },
+ {
+  "id": "privilege",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đặc quyền; vinh hạnh; ưu đãi",
+  "coll": [
+   "special privilege",
+   "a privilege to meet you",
+   "abuse of privilege",
+   "white privilege"
+  ]
+ },
+ {
+  "id": "radar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ra-đa; máy ra-đa",
+  "coll": [
+   "radar screen",
+   "under the radar",
+   "on my radar",
+   "radar detector"
+  ]
+ },
+ {
+  "id": "striking",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "nổi bật; ấn tượng; đang đình công",
+  "coll": [
+   "striking resemblance",
+   "striking difference",
+   "striking feature",
+   "striking workers"
+  ]
+ },
+ {
+  "id": "villa",
+  "pos": [
+   "n"
+  ],
+  "vi": "biệt thự",
+  "coll": [
+   "luxury villa",
+   "rent a villa",
+   "seaside villa",
+   "villa with a pool"
+  ]
+ },
+ {
+  "id": "blade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lưỡi dao; cánh (quạt, chân vịt); lá cỏ",
+  "coll": [
+   "sharp blade",
+   "razor blade",
+   "blade of grass",
+   "propeller blade"
+  ]
+ },
+ {
+  "id": "destiny",
+  "pos": [
+   "n"
+  ],
+  "vi": "số phận; định mệnh; vận mệnh",
+  "coll": [
+   "control your destiny",
+   "manifest destiny",
+   "a sense of destiny",
+   "fulfil your destiny"
+  ]
+ },
+ {
+  "id": "electronics",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngành điện tử; đồ điện tử; điện tử học",
+  "coll": [
+   "consumer electronics",
+   "electronics store",
+   "study electronics",
+   "electronics industry"
+  ]
+ },
+ {
+  "id": "nerve",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dây thần kinh; sự can đảm; sự trơ tráo",
+  "coll": [
+   "optic nerve",
+   "nerve damage",
+   "lose your nerve",
+   "get on my nerves",
+   "have the nerve to"
+  ]
+ },
+ {
+  "id": "nightmare",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn ác mộng; ác mộng",
+  "coll": [
+   "have a nightmare",
+   "worst nightmare",
+   "a nightmare scenario",
+   "living nightmare"
+  ]
+ },
+ {
+  "id": "practically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hầu như; gần như; trên thực tế",
+  "coll": [
+   "practically impossible",
+   "practically everyone",
+   "practically speaking",
+   "practically identical"
+  ]
+ },
+ {
+  "id": "ram",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "cừu đực; đâm sầm; húc mạnh",
+  "coll": [
+   "ram into a car",
+   "battering ram",
+   "ram the door",
+   "a ram's horns"
+  ]
+ },
+ {
+  "id": "balanced",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "cân bằng; cân đối; khách quan",
+  "coll": [
+   "balanced diet",
+   "well balanced",
+   "balanced budget",
+   "balanced view"
+  ]
+ },
+ {
+  "id": "ceiling",
+  "pos": [
+   "n"
+  ],
+  "vi": "trần nhà; mức trần; giới hạn trên",
+  "coll": [
+   "high ceiling",
+   "ceiling fan",
+   "glass ceiling",
+   "price ceiling",
+   "hit the ceiling"
+  ]
+ },
+ {
+  "id": "cherry",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "quả anh đào; cây anh đào; đỏ anh đào",
+  "coll": [
+   "cherry tree",
+   "cherry blossom",
+   "cherry pie",
+   "cherry red",
+   "the cherry on top"
+  ]
+ },
+ {
+  "id": "classification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân loại; cách phân loại",
+  "coll": [
+   "classification system",
+   "job classification",
+   "security classification",
+   "scientific classification"
+  ]
+ },
+ {
+  "id": "costume",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trang phục; đồ hóa trang; phục trang",
+  "coll": [
+   "Halloween costume",
+   "national costume",
+   "costume party",
+   "costume design"
+  ]
+ },
+ {
+  "id": "devoted",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tận tụy; hết lòng; dành riêng cho",
+  "coll": [
+   "devoted fan",
+   "devoted to his family",
+   "devoted husband",
+   "devoted follower"
+  ]
+ },
+ {
+  "id": "grain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hạt ngũ cốc; ngũ cốc; thớ gỗ",
+  "coll": [
+   "grain of rice",
+   "whole grain",
+   "grain of sand",
+   "against the grain",
+   "wood grain"
+  ]
+ },
+ {
+  "id": "identification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhận dạng; giấy tờ tùy thân; sự xác định",
+  "coll": [
+   "proof of identification",
+   "identification card",
+   "positive identification",
+   "identification of the body"
+  ]
+ },
+ {
+  "id": "lap",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "lòng (đùi); vòng đua; liếm",
+  "coll": [
+   "sit on my lap",
+   "run a lap",
+   "final lap",
+   "lap of the track",
+   "lap up the milk"
+  ]
+ },
+ {
+  "id": "mixture",
+  "pos": [
+   "n"
+  ],
+  "vi": "hỗn hợp; sự pha trộn",
+  "coll": [
+   "a mixture of",
+   "cake mixture",
+   "strange mixture",
+   "mixture of styles"
+  ]
+ },
+ {
+  "id": "perception",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhận thức; cách nhìn nhận; tri giác",
+  "coll": [
+   "public perception",
+   "change perceptions",
+   "sensory perception",
+   "perception of risk"
+  ]
+ },
+ {
+  "id": "physician",
+  "pos": [
+   "n"
+  ],
+  "vi": "bác sĩ; thầy thuốc",
+  "coll": [
+   "family physician",
+   "consult a physician",
+   "primary care physician",
+   "licensed physician"
+  ]
+ },
+ {
+  "id": "rival",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "đối thủ; kình địch; sánh ngang với",
+  "coll": [
+   "main rival",
+   "arch rival",
+   "rival team",
+   "rival company",
+   "rival the best"
+  ]
+ },
+ {
+  "id": "spray",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bình xịt; tia nước bắn; phun xịt",
+  "coll": [
+   "hair spray",
+   "spray paint",
+   "spray the plants",
+   "sea spray",
+   "insect spray"
+  ]
+ },
+ {
+  "id": "verse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thơ; khổ thơ; câu (kinh thánh)",
+  "coll": [
+   "free verse",
+   "write verse",
+   "chorus and verse",
+   "Bible verse"
+  ]
+ },
+ {
+  "id": "adoption",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhận con nuôi; việc áp dụng; sự thông qua",
+  "coll": [
+   "put up for adoption",
+   "adoption of new technology",
+   "adoption process",
+   "widespread adoption"
+  ]
+ },
+ {
+  "id": "anonymous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ẩn danh; giấu tên; nặc danh",
+  "coll": [
+   "anonymous donor",
+   "remain anonymous",
+   "anonymous letter",
+   "anonymous source"
+  ]
+ },
+ {
+  "id": "attendance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự có mặt; số người tham dự; việc điểm danh",
+  "coll": [
+   "take attendance",
+   "poor attendance",
+   "school attendance",
+   "attendance record",
+   "in attendance"
+  ]
+ },
+ {
+  "id": "colonial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc địa; thời thuộc địa; kiểu thuộc địa",
+  "coll": [
+   "colonial rule",
+   "colonial power",
+   "colonial era",
+   "colonial architecture"
+  ]
+ }
+]

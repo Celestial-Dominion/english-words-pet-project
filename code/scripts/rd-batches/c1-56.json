@@ -1,0 +1,148 @@
+[
+ {
+  "id": "wiki-homemaker",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Homemaker",
+  "title_en": "Homemaker",
+  "sentences": [
+   "A homemaker is a person who manages a household.",
+   "They care for the home and the family as their primary occupation.",
+   "They are often the primary caregiver for any children in the family.",
+   "This term is often used to describe a \"stay-at-home mom\" or wife who does not have a job outside the home.",
+   "However, a homemaker can be a man or a woman, and they might have a part-time job outside the home.",
+   "Older terms for \"homemaker\" include \"housewife\" and \"househusband.\""
+  ]
+ },
+ {
+  "id": "wiki-superscalar",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Superscalar",
+  "title_en": "Superscalar",
+  "sentences": [
+   "Superscalar technology supports basic parallel computing (specifically, instruction-level parallelism) on one CPU (processor), which allows more than one instruction in each clock cycle by using more than one execution unit at the same time.",
+   "Superscalar processors are often pipelined as well, but that's a different technology that allows more than one instruction at once in each execution unit, rather than using multiple execution units at once.",
+   "Superscalar technology usually involves: Instructions coming into the processor in order.",
+   "The processor looking for data dependencies while it runs.",
+   "Loading more than one instruction in each clock cycle The simplest processors are scalar processors.",
+   "On a scalar processor, instructions usually work with one or two data items at once.",
+   "On a vector processor, instructions usually work with many data items at once.",
+   "A superscalar processor is a mix of a scalar process and a vector processor: each instruction processes one data item, but more than one instruction runs at once, so many data items are handled at once by the processor.",
+   "In a superscalar processor, it's very important to have an accurate instruction dispatcher, so that the execution units are always busy with work that probably will be needed.",
+   "If the instruction dispatcher isn't accurate, the processor will have to throw away some work and might not be any faster than a scalar processor.",
+   "In 2008, all normal CPUs were superscalar, and could have up to 4 ALUs, 2 FPUs, and 2 SIMD units."
+  ]
+ },
+ {
+  "id": "wiki-kola-superdeep-borehole",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Kola_Superdeep_Borehole",
+  "title_en": "Kola Superdeep Borehole",
+  "sentences": [
+   "The Kola Superdeep Borehole (Russian: Кольская сверхглубокая скважина, Kolskaya sverkhglubokaya skvazhina) was a very deep hole dug on the Kola Peninsula in Russia during 1970-1992 and closed by 2008.",
+   "It was dug in order to learn more about the inside of the Earth.",
+   "Digging started on May 24, 1970.",
+   "The work continued until 1992, or 1994.",
+   "The borehole was kept open until 2005.",
+   "SG-3, the deepest part of the hole, reached 12,261 meters or 7.6 miles below the surface in 1989.",
+   "That is the deepest hole ever made and is still the deepest man-made point on Earth.",
+   "For a long time, SG-3 was also the longest hole by distance from its opening.",
+   "In 2008, the Al Shaheen BD-04A oil well in Qatar reached +27 meters or 89 feet farther and, in 2011, the Odoptu OP-11 oil well off Sakhalin got +83 m or 272 ft farther."
+  ]
+ },
+ {
+  "id": "wiki-chicken",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Chicken",
+  "title_en": "Chicken",
+  "sentences": [
+   "Chicken refers to the domesticated subspecies of the red junglefowl.",
+   "It is raised in many places for its meat and eggs.",
+   "They are usually kept by humans as livestock.",
+   "Some breeds of chickens can fly for a short distance.",
+   "Some sleep in trees (if there are trees around).",
+   "A male chicken is called a rooster or a cock.",
+   "A female chicken is called a hen.",
+   "A young chicken is called a chick.",
+   "Like other female birds, hens lay eggs.",
+   "Chicks hatch out of the eggs.",
+   "When raising chickens, a farmer needs a chicken coop (like a little house) for the chickens to roost (sleep) in.",
+   "They also need a run or yard where they can exercise, take dust baths, eat and drink.",
+   "The chickens also need to be protected from predators such as foxes, coyotes and hawks too.",
+   "Fences are often used for this.",
+   "Chickens are also agriculturally farmed intensively.",
+   "This lets chicken farms make a lot of chicken meats and chicken eggs."
+  ]
+ },
+ {
+  "id": "wiki-wheelwright",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Wheelwright",
+  "title_en": "Wheelwright",
+  "sentences": [
+   "A wheelwright is someone who builds or repairs wheels.",
+   "In the olden days there were lots of carts.",
+   "The wheels were made of wood.",
+   "It was a difficult job to make them, so the cartwright made the cart and the wheelwright did the specialized job of making the wheels.",
+   "In ancient times some wheels were made of bone in order to look beautiful.",
+   "The word wheelwright is not often used for people who make wheels today.",
+   "Wheels are made in factories and lots of people on the production line each have their bit to do."
+  ]
+ },
+ {
+  "id": "wiki-sunspot",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Sunspot",
+  "title_en": "Sunspot",
+  "sentences": [
+   "A sunspot is an area of high magnetic activity, on the surface of the Sun.",
+   "Sunspots produce bright light, but not as much as the surface around them, so they appear dark by comparison.",
+   "They are cooler than the rest of the sun.",
+   "Some are small, and some are ten times bigger than Earth.",
+   "A sunspot cycle of eleven years has been found, with changes in activity.",
+   "Every 11 years the number of sunspots increases, and later declines.",
+   "Sunspots on one cycle are magnetically different from the next, so the total sunspot cycle is 22 years.",
+   "This cycle has been seen since the 18th century.",
+   "Before that time, for over a hundred years, there were very few sunspots.",
+   "Astronomers do not know what caused this \"Maunder Minimum\"."
+  ]
+ },
+ {
+  "id": "wiki-x-ray-reconstruction-of-moving-morpholog",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/X-ray_Reconstruction_of_Moving_Morphology",
+  "title_en": "X-ray Reconstruction of Moving Morphology",
+  "sentences": [
+   "X-ray Reconstruction of Moving Morphology, or XROMM, is a scientific research technique.",
+   "Scientists use XROMM to make 3D movies of animals' bones while they are still alive.",
+   "In XROMM, a surgeon puts radio-opaque bone markers inside the animal's body.",
+   "Then an X-ray video system can tell exactly where the markers are.",
+   "This helps the scientists make very good videos of how the bones move.",
+   "Scientists at Brown University invented XROMM in 2010.",
+   "XROMM can be used to show birds in flight, humans running, frogs jumping, and a toad swallowing crickets."
+  ]
+ },
+ {
+  "id": "wiki-volcanic-winter",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Volcanic_winter",
+  "title_en": "Volcanic winter",
+  "sentences": [
+   "A volcanic winter is a climate cooling caused by an extremely large volcanic eruption.",
+   "Such an eruption releases ash and sulfur dioxide in huge quantities.",
+   "They form aerosols of sulfuric acid.",
+   "When they reach the stratosphere more sunlight is reflected, and some is absorbed by the stratosphere.",
+   "These reactions heat up the stratosphere, but lead to a drop in the temperature on the ground.",
+   "The Siberian Traps, Emeishan Traps, and Deccan Traps are huge flood basalt provinces caused by volcanism.",
+   "They are the cause, or part of the cause, of several mass extinctions, especially the Permian–Triassic extinction event.",
+   "Nuclear winter is a theory of similar effects which might be caused by a large-scale nuclear war."
+  ]
+ }
+]

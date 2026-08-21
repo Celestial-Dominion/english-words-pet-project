@@ -1,0 +1,402 @@
+{
+  "found": {
+    "vi": "thành lập; sáng lập; dạng quá khứ của find (đã tìm thấy)",
+    "coll": ["found a company", "found a school", "found a city", "found a charity"]
+  },
+  "god": {
+    "vi": "thần; Chúa Trời; thần tượng, người được tôn sùng",
+    "coll": ["believe in God", "thank God", "the god of war", "oh my God", "Greek gods"]
+  },
+  "times": {
+    "vi": "lần; nhân (phép nhân); thời buổi, thời đại",
+    "coll": ["three times a week", "modern times", "hard times", "at times", "many times"]
+  },
+  "so-called": {
+    "vi": "cái gọi là; được gọi là (hàm ý nghi ngờ)",
+    "coll": ["so-called experts", "so-called friends", "so-called reforms", "the so-called war on drugs"]
+  },
+  "united": {
+    "vi": "đoàn kết; thống nhất; hợp nhất",
+    "coll": ["the United Nations", "a united front", "the United States", "stand united", "united in grief"]
+  },
+  "first person": {
+    "vi": "ngôi thứ nhất; lối kể ngôi thứ nhất",
+    "coll": ["first person narrative", "written in the first person", "first person singular", "a first person shooter"]
+  },
+  "means": {
+    "vi": "phương tiện; cách thức; khả năng tài chính",
+    "coll": ["by means of", "a means to an end", "means of transport", "live within your means", "financial means"]
+  },
+  "known": {
+    "vi": "được biết đến; nổi tiếng; đã biết rõ",
+    "coll": ["well known", "widely known", "known as", "known for", "a known fact"]
+  },
+  "community": {
+    "vi": "cộng đồng; khu dân cư; giới, nhóm",
+    "coll": ["the local community", "community service", "the scientific community", "a community centre", "a sense of community"]
+  },
+  "data": {
+    "vi": "dữ liệu; số liệu",
+    "coll": ["collect data", "data analysis", "personal data", "raw data", "data protection"]
+  },
+  "media": {
+    "vi": "truyền thông; giới báo chí; phương tiện truyền thông",
+    "coll": ["social media", "the mass media", "media coverage", "media attention", "a media campaign"]
+  },
+  "second person": {
+    "vi": "ngôi thứ hai; lối kể ngôi thứ hai",
+    "coll": ["second person narrative", "written in the second person", "second person singular", "the second person pronoun"]
+  },
+  "energy": {
+    "vi": "năng lượng; sức lực; nghị lực",
+    "coll": ["renewable energy", "save energy", "full of energy", "energy consumption", "solar energy"]
+  },
+  "project": {
+    "vi": "dự án; công trình; chiếu (hình ảnh)",
+    "coll": ["a research project", "launch a project", "a project manager", "a construction project", "project an image"]
+  },
+  "health care": {
+    "vi": "chăm sóc sức khỏe; y tế",
+    "coll": ["the health care system", "access to health care", "health care costs", "health care workers"]
+  },
+  "federal": {
+    "vi": "liên bang; thuộc chính quyền liên bang",
+    "coll": ["the federal government", "federal law", "a federal agency", "the federal budget", "a federal court"]
+  },
+  "long-term": {
+    "vi": "dài hạn; lâu dài",
+    "coll": ["long-term goals", "long-term effects", "a long-term relationship", "a long-term investment", "in the long term"]
+  },
+  "third person": {
+    "vi": "ngôi thứ ba; lối kể ngôi thứ ba",
+    "coll": ["third person narrative", "written in the third person", "third person singular", "a third person shooter"]
+  },
+  "lower": {
+    "vi": "hạ thấp; giảm; thấp hơn, phía dưới",
+    "coll": ["lower prices", "lower the risk", "lower your voice", "the lower half", "lower back pain"]
+  },
+  "hell": {
+    "vi": "địa ngục; cảnh khổ cực; quái quỷ (thán từ)",
+    "coll": ["go to hell", "what the hell", "a living hell", "hell on earth", "raise hell"]
+  },
+  "related": {
+    "vi": "liên quan; có họ hàng; cùng loại",
+    "coll": ["closely related", "related to", "work-related", "related issues", "related species"]
+  },
+  "damn": {
+    "vi": "chết tiệt; đáng nguyền rủa; nguyền rủa, lên án",
+    "coll": ["damn it", "not give a damn", "damn good", "damn right", "I will be damned"]
+  },
+  "version": {
+    "vi": "phiên bản; bản, dị bản; cách kể của một người",
+    "coll": ["the latest version", "an updated version", "a new version", "the film version", "his version of events"]
+  },
+  "well-paid": {
+    "vi": "lương cao; được trả hậu",
+    "coll": ["a well-paid job", "well-paid work", "a well-paid position", "well-paid professionals"]
+  },
+  "first language": {
+    "vi": "tiếng mẹ đẻ; ngôn ngữ thứ nhất",
+    "coll": ["speak English as a first language", "his first language", "first language acquisition", "first language speakers"]
+  },
+  "son-in-law": {
+    "vi": "con rể",
+    "coll": ["my son-in-law", "future son-in-law", "his son-in-law", "a prospective son-in-law"]
+  },
+  "father-in-law": {
+    "vi": "bố vợ; bố chồng",
+    "coll": ["my father-in-law", "future father-in-law", "her father-in-law", "live with his father-in-law"]
+  },
+  "minister": {
+    "vi": "bộ trưởng; mục sư; chăm lo, phục vụ",
+    "coll": ["the prime minister", "the foreign minister", "a government minister", "a cabinet minister", "minister to the sick"]
+  },
+  "mother-in-law": {
+    "vi": "mẹ vợ; mẹ chồng",
+    "coll": ["my mother-in-law", "future mother-in-law", "his mother-in-law", "visit her mother-in-law"]
+  },
+  "point of view": {
+    "vi": "quan điểm; góc nhìn",
+    "coll": ["from my point of view", "a different point of view", "from an economic point of view", "share a point of view"]
+  },
+  "well-built": {
+    "vi": "vạm vỡ; xây chắc chắn",
+    "coll": ["a well-built man", "tall and well-built", "a well-built house", "a well-built athlete"]
+  },
+  "moving": {
+    "vi": "cảm động; đang chuyển động; việc chuyển nhà",
+    "coll": ["a moving story", "deeply moving", "moving parts", "a moving target", "moving house"]
+  },
+  "conference": {
+    "vi": "hội nghị; hội thảo; cuộc họp bàn",
+    "coll": ["attend a conference", "a press conference", "a conference room", "hold a conference", "a conference call"]
+  },
+  "western": {
+    "vi": "phương Tây; ở phía tây; phim cao bồi",
+    "coll": ["Western culture", "Western countries", "the western coast", "Western Europe", "a classic western"]
+  },
+  "campaign": {
+    "vi": "chiến dịch; cuộc vận động; vận động",
+    "coll": ["an advertising campaign", "an election campaign", "launch a campaign", "a campaign against poverty", "a political campaign"]
+  },
+  "particular": {
+    "vi": "cụ thể; riêng biệt; kỹ tính, khó tính",
+    "coll": ["in particular", "a particular interest", "particular attention", "no particular reason", "particular about food"]
+  },
+  "hard drive": {
+    "vi": "ổ cứng",
+    "coll": ["an external hard drive", "hard drive failure", "back up your hard drive", "hard drive space"]
+  },
+  "short-term": {
+    "vi": "ngắn hạn; trước mắt",
+    "coll": ["short-term goals", "short-term memory", "a short-term solution", "a short-term contract", "in the short term"]
+  },
+  "expected": {
+    "vi": "dự kiến; được mong đợi",
+    "coll": ["as expected", "expected to rise", "higher than expected", "the expected result", "the expected date"]
+  },
+  "human rights": {
+    "vi": "nhân quyền; quyền con người",
+    "coll": ["human rights abuses", "a human rights activist", "violate human rights", "human rights organizations"]
+  },
+  "brother-in-law": {
+    "vi": "anh rể, em rể; anh (em) vợ hoặc chồng",
+    "coll": ["my brother-in-law", "his brother-in-law", "future brother-in-law", "her brother-in-law"]
+  },
+  "contract": {
+    "vi": "hợp đồng; ký hợp đồng; co lại",
+    "coll": ["sign a contract", "a contract of employment", "breach of contract", "under contract", "renew a contract"]
+  },
+  "growing": {
+    "vi": "đang tăng; ngày càng nhiều; đang lớn dần",
+    "coll": ["a growing number", "growing concern", "growing demand", "a fast-growing company", "a growing economy"]
+  },
+  "last minute": {
+    "vi": "phút chót; giây phút cuối",
+    "coll": ["at the last minute", "leave it to the last minute", "a last minute change", "a last minute decision"]
+  },
+  "last-minute": {
+    "vi": "vào phút chót; sát giờ chót",
+    "coll": ["a last-minute change", "a last-minute booking", "a last-minute deal", "last-minute preparations"]
+  },
+  "master": {
+    "vi": "bậc thầy; chủ nhân; thành thạo, làm chủ",
+    "coll": ["master a language", "a master of disguise", "a master key", "a master plan", "master and servant"]
+  },
+  "stock": {
+    "vi": "hàng trong kho; cổ phiếu; dự trữ, trữ hàng",
+    "coll": ["in stock", "out of stock", "the stock market", "the stock exchange", "take stock of"]
+  },
+  "daughter-in-law": {
+    "vi": "con dâu",
+    "coll": ["my daughter-in-law", "his daughter-in-law", "future daughter-in-law", "her daughter-in-law"]
+  },
+  "fighting": {
+    "vi": "giao tranh; đánh nhau; chiến đấu",
+    "coll": ["heavy fighting", "fighting broke out", "street fighting", "fighting spirit", "fighting for survival"]
+  },
+  "learning": {
+    "vi": "việc học; sự học hỏi; kiến thức",
+    "coll": ["language learning", "the learning process", "distance learning", "learning difficulties", "lifelong learning"]
+  },
+  "multiple": {
+    "vi": "nhiều; đa dạng; bội số",
+    "coll": ["multiple choice", "multiple times", "multiple sources", "multiple injuries", "multiple factors"]
+  },
+  "commission": {
+    "vi": "hoa hồng; ủy ban; đặt làm, ủy nhiệm",
+    "coll": ["earn commission", "work on commission", "the European Commission", "commission a report", "a commission of inquiry"]
+  },
+  "grand": {
+    "vi": "lớn, hoành tráng; cao quý; nghìn đô",
+    "coll": ["a grand design", "the grand total", "on a grand scale", "the grand opening", "the grand finale"]
+  },
+  "literally": {
+    "vi": "theo nghĩa đen; đúng nguyên văn; thực sự (nhấn mạnh)",
+    "coll": ["literally means", "taken literally", "translate literally", "literally hundreds"]
+  },
+  "overall": {
+    "vi": "tổng thể; nhìn chung; áo liền quần bảo hộ",
+    "coll": ["overall performance", "the overall picture", "the overall cost", "the overall winner", "overall, the results were good"]
+  },
+  "planning": {
+    "vi": "việc lập kế hoạch; quy hoạch",
+    "coll": ["careful planning", "urban planning", "planning permission", "financial planning", "family planning"]
+  },
+  "primary": {
+    "vi": "chính, chủ yếu; tiểu học; sơ cấp",
+    "coll": ["primary school", "the primary concern", "a primary source", "of primary importance", "primary care"]
+  },
+  "environment": {
+    "vi": "môi trường; hoàn cảnh sống",
+    "coll": ["protect the environment", "the natural environment", "a working environment", "harm the environment", "a safe environment"]
+  },
+  "executive": {
+    "vi": "giám đốc điều hành; thuộc ban điều hành; hành pháp",
+    "coll": ["the chief executive", "an executive director", "a senior executive", "the executive committee", "an executive decision"]
+  },
+  "trial": {
+    "vi": "phiên tòa xét xử; cuộc thử nghiệm; sự thử thách",
+    "coll": ["stand trial", "a clinical trial", "a free trial", "trial and error", "on trial for murder"]
+  },
+  "division": {
+    "vi": "sự phân chia; sự chia rẽ; phép chia; bộ phận",
+    "coll": ["the division of labour", "long division", "the sales division", "a deep division", "division between rich and poor"]
+  },
+  "actual": {
+    "vi": "thực tế; thật sự",
+    "coll": ["the actual cost", "actual figures", "in actual fact", "the actual size", "the actual number"]
+  },
+  "prior": {
+    "vi": "trước đó; có trước; quan trọng hơn",
+    "coll": ["prior to the meeting", "prior experience", "prior knowledge", "prior notice", "prior approval"]
+  },
+  "species": {
+    "vi": "loài; giống loài",
+    "coll": ["endangered species", "a rare species", "the human species", "invasive species", "a species of bird"]
+  },
+  "investment": {
+    "vi": "sự đầu tư; khoản đầu tư",
+    "coll": ["foreign investment", "a good investment", "investment in education", "return on investment", "attract investment"]
+  },
+  "previously": {
+    "vi": "trước đây; trước đó",
+    "coll": ["previously mentioned", "previously unknown", "as previously stated", "previously owned"]
+  },
+  "sister-in-law": {
+    "vi": "chị dâu, em dâu; chị (em) chồng hoặc vợ",
+    "coll": ["my sister-in-law", "his sister-in-law", "future sister-in-law", "her sister-in-law"]
+  },
+  "estate": {
+    "vi": "bất động sản; điền trang; di sản, tài sản",
+    "coll": ["real estate", "an estate agent", "a housing estate", "a country estate", "his estate was worth millions"]
+  },
+  "faith": {
+    "vi": "niềm tin; đức tin; tôn giáo",
+    "coll": ["have faith in", "lose faith", "religious faith", "in good faith", "blind faith"]
+  },
+  "profile": {
+    "vi": "hồ sơ cá nhân; mặt nghiêng; mức độ chú ý",
+    "coll": ["a high profile", "keep a low profile", "a profile picture", "create a profile", "a company profile"]
+  },
+  "sexual": {
+    "vi": "tình dục; thuộc giới tính",
+    "coll": ["sexual harassment", "sexual orientation", "a sexual relationship", "sexual health", "sexual abuse"]
+  },
+  "understanding": {
+    "vi": "sự hiểu biết; sự thông cảm; biết cảm thông",
+    "coll": ["a better understanding", "mutual understanding", "reach an understanding", "a deep understanding", "an understanding person"]
+  },
+  "prime": {
+    "vi": "chính, quan trọng nhất; thời kỳ sung sức; số nguyên tố",
+    "coll": ["the prime minister", "a prime example", "prime time", "in his prime", "a prime number"]
+  },
+  "long-distance": {
+    "vi": "đường dài; ở xa",
+    "coll": ["a long-distance relationship", "a long-distance runner", "a long-distance call", "long-distance travel"]
+  },
+  "remains": {
+    "vi": "hài cốt; tàn tích; phần còn lại",
+    "coll": ["human remains", "the remains of a building", "ancient remains", "archaeological remains"]
+  },
+  "cast": {
+    "vi": "dàn diễn viên; ném, quăng; bó bột",
+    "coll": ["the cast of a film", "cast a shadow", "cast doubt on", "cast a vote", "a plaster cast"]
+  },
+  "marketing": {
+    "vi": "tiếp thị; hoạt động marketing",
+    "coll": ["a marketing strategy", "a marketing campaign", "a marketing manager", "digital marketing", "the marketing department"]
+  },
+  "shooting": {
+    "vi": "vụ nổ súng; việc bắn súng; việc quay phim",
+    "coll": ["a mass shooting", "a shooting range", "a shooting star", "target shooting", "the shooting of the film"]
+  },
+  "neither": {
+    "vi": "không cái nào trong hai; cũng không",
+    "coll": ["neither of them", "neither do I", "neither side", "neither one nor the other", "neither here nor there"]
+  },
+  "stock market": {
+    "vi": "thị trường chứng khoán",
+    "coll": ["a stock market crash", "invest in the stock market", "stock market prices", "the stock market rose"]
+  },
+  "tough": {
+    "vi": "khó khăn; cứng rắn; dai (thức ăn)",
+    "coll": ["a tough decision", "a tough guy", "tough luck", "get tough on crime", "tough competition"]
+  },
+  "billion": {
+    "vi": "tỷ",
+    "coll": ["a billion dollars", "billions of people", "a billion-dollar industry", "several billion"]
+  },
+  "existing": {
+    "vi": "hiện có; đang tồn tại",
+    "coll": ["existing customers", "existing laws", "existing conditions", "the existing system", "the existing situation"]
+  },
+  "real estate": {
+    "vi": "bất động sản; nhà đất",
+    "coll": ["a real estate agent", "the real estate market", "invest in real estate", "real estate prices"]
+  },
+  "technical": {
+    "vi": "kỹ thuật; chuyên môn",
+    "coll": ["technical support", "technical problems", "technical skills", "technical terms", "technical difficulties"]
+  },
+  "evil": {
+    "vi": "xấu xa, độc ác; điều ác, cái ác",
+    "coll": ["an evil spirit", "a necessary evil", "good and evil", "evil deeds", "the lesser of two evils"]
+  },
+  "parliament": {
+    "vi": "quốc hội; nghị viện",
+    "coll": ["a member of parliament", "the Houses of Parliament", "dissolve parliament", "an act of parliament", "parliament voted"]
+  },
+  "reference": {
+    "vi": "sự nhắc đến; tài liệu tham khảo; thư giới thiệu",
+    "coll": ["make reference to", "with reference to", "a reference book", "a reference number", "provide a reference"]
+  },
+  "core": {
+    "vi": "cốt lõi; lõi, nhân; chủ chốt",
+    "coll": ["core values", "the core of the problem", "core business", "an apple core", "the earth's core"]
+  },
+  "reaction": {
+    "vi": "phản ứng; phản ứng hóa học",
+    "coll": ["an immediate reaction", "a chemical reaction", "a chain reaction", "an allergic reaction", "reaction to the news"]
+  },
+  "willing": {
+    "vi": "sẵn lòng; sẵn sàng",
+    "coll": ["willing to help", "more than willing", "a willing participant", "willing and able"]
+  },
+  "proposed": {
+    "vi": "được đề xuất; dự kiến",
+    "coll": ["the proposed changes", "proposed legislation", "the proposed plan", "the proposed site"]
+  },
+  "purchase": {
+    "vi": "mua; sự mua; món hàng đã mua",
+    "coll": ["make a purchase", "the purchase price", "purchase a ticket", "proof of purchase", "an online purchase"]
+  },
+  "crew": {
+    "vi": "thủy thủ đoàn; phi hành đoàn; ê-kíp, tổ",
+    "coll": ["the crew of a ship", "cabin crew", "a film crew", "ground crew", "crew members"]
+  },
+  "fixed": {
+    "vi": "cố định; không đổi; đã sửa xong",
+    "coll": ["a fixed price", "a fixed rate", "at a fixed time", "fixed income", "a fixed point"]
+  },
+  "profit": {
+    "vi": "lợi nhuận; thu lợi, có lợi",
+    "coll": ["make a profit", "net profit", "profit margin", "profit and loss", "profit from the deal"]
+  },
+  "domestic": {
+    "vi": "trong nước, nội địa; thuộc gia đình",
+    "coll": ["domestic violence", "domestic flights", "the domestic market", "domestic chores", "gross domestic product"]
+  },
+  "originally": {
+    "vi": "ban đầu; vốn dĩ",
+    "coll": ["originally from Spain", "originally planned", "originally published", "originally built"]
+  },
+  "user": {
+    "vi": "người dùng; người sử dụng",
+    "coll": ["a computer user", "the end user", "user friendly", "a user account", "registered users"]
+  },
+  "loan": {
+    "vi": "khoản vay; sự cho mượn; cho vay",
+    "coll": ["take out a loan", "apply for a loan", "a bank loan", "repay a loan", "a student loan"]
+  }
+}

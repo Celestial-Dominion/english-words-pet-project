@@ -1,0 +1,160 @@
+[
+ {
+  "id": "news-finnish-internet-censorship-critic-black",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Finnish_internet_censorship_critic_blacklisted",
+  "title_en": "Finnish internet censorship critic blacklisted",
+  "sentences": [
+   "Tuesday, February 12, 2008 The Finnish police have added Finnish hacker Matti Nikki's website lapsiporno.info criticizing Internet censorship to Finland’s new national child porn filter.",
+   "The blacklisting was noticed when Finland's second largest Internet service provider Elisa started blocking the page today.",
+   "More of the ISP's are expected to join the filtering when their blacklists are updated from the police's master list.",
+   "The banned site has been a harsh critic of Internet censorship over the last three years.",
+   "It contains information and news about how censorship has been discussed and developing in Finland.",
+   "Although the site's provocative name is lapsiporno.info (\"childporn.info\") there is no child porn on the site - the content is mainly text.",
+   "Tekniikka & Talous magazine asked Commissioner Lars Henriksson of Finland's National Bureau of Investigation (NBI) why the page was censored.",
+   "His answer was that he cannot discuss individual sites, but said that sites which are linking to child porn pages are also within the scope of the law.",
+   "This interpretation, however, seems to conflict with the actual laws, the scope of which was supposed to be only sites with illegal pictures in foreign countries.",
+   "On Wednesday, NBI confirmed that site was censored because it published and maintained an incomplete version of the Finnish child porn blacklist.",
+   "Nikki's list contained roughly two-thirds of the 1500 blacklist entries, and it was created by scanning a large amount of sites and logging the censored pages.",
+   "The scan also found that the top three results of a Google search for \"gay porn\" are blacklisted, and that most of the blocked sites are actually physically located in the United States or the European Union.",
+   "Leena Romppainen of Electronic Frontier Finland commented that \"The local authorities have taken no action on these sites.",
+   "Therefore, either the sites do not contain child pornography or the NBI has not informed the local authorities.",
+   "Both of the alternatives are equally scary.\" Matti Nikki's opinion is that the majority of the censored sites are legal adult sites and that the police are not doing that much research when they are deciding which sites to block.",
+   "Internet censorship has been a hot topic in Finland as of late."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-cyworld",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Cyworld",
+  "title_en": "Cyworld",
+  "sentences": [
+   "Cyworld is a social networking service created by SK communications.",
+   "The name can be interpreted in two ways.",
+   "The first meaning is simply short for \"cyber world\" and the second meaning is \"사이(Korean word for relationship) world.\" In Cyworld, making the raltionship as friends is called \"being 1chon\". 1chon means very very close relative like family in Korea.",
+   "The users can easily update pictures, videos clips, and blogs and share them with other users through what is called \"minihompy.\" It is similar to that of Facebook or Myspace in U.S.",
+   "The statistics shows that there are about 22,000,000 users in South Korea, which is about the half of the population of South Korea.",
+   "Although it is mainly used by Koreans, the SK communications has expanded the cyworld services into other countries, such as China, Japan, Vietnam, and U.S.A starting on 2005."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-turkish-government-lifts-ban-on-youtube",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Turkish_government_lifts_ban_on_YouTube",
+  "title_en": "Turkish government lifts ban on YouTube",
+  "sentences": [
+   "Thursday, June 5, 2014 The Turkish government removed its block of YouTube on Tuesday following a ruling by Turkey's Constitutional Court found the ban violated freedom of speech.",
+   "The popular video sharing website was banned along with social media platform Twitter after leakage though the services in March of audio recordings of government meetings.",
+   "The Turkish telecommunications regulator called it a \"precautionary administrative measure\".",
+   "The recordings, whose release Prime Minister Recep Tayyip Erdogan called treasonous, presented military discussions of Turkish intervention in Syria.",
+   "Other leaked recordings presented alleged corruption among close associates of Mr Erdogan.",
+   "Twitter was unblocked in April but lower court rulings against the YouTube block were not acted on.",
+   "Turkey had also blocked access to YouTube from 2007 to 2010."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-listening-to-you-at-last-eu-plans-to-tap",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Listening_to_you_at_last%3A_EU_plans_to_tap_cell_phones",
+  "title_en": "Listening to you at last: EU plans to tap cell phones",
+  "sentences": [
+   "Monday, October 19, 2009 A report accidentally published on the Internet provides insight into a secretive European Union surveillance project designed to monitor its citizens, as reported by Wikileaks earlier this month.",
+   "Project INDECT aims to mine data from television, internet traffic, cellphone conversations, p2p file sharing and a range of other sources for crime prevention and threat prediction.",
+   "The €14.68 million project began in January, 2009, and is scheduled to continue for five years under its current mandate.",
+   "INDECT produced the accidentally published report as part of their \"Extraction of Information for Crime Prevention by Combining Web Derived Knowledge and Unstructured Data\" project, but do not enumerate all potential applications of the search and surveillance technology.",
+   "Police are discussed as a prime example of users, with Polish and British forces detailed as active project participants.",
+   "INDECT is funded under the European Commission's Seventh Framework Programme (FP7), and includes participation from Austria, Bulgaria, Czech Republic, France, Germany, Hungary, Poland, Slovakia, Spain, and the United Kingdom."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-predictable-random-number-generator-disc",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Predictable_random_number_generator_discovered_in_the_Debian_version_of_OpenSSL",
+  "title_en": "Predictable random number generator discovered in the Debian version of OpenSSL",
+  "sentences": [
+   "Friday, May 16, 2008 A major security hole was discovered in the pseudo-random number generator (PRNG) of the Debian version of OpenSSL.",
+   "OpenSSL is one of the most used cryptographic software, that allows the creation of secure network connections with the protocols called SSL and TLS.",
+   "It is included in many popular computer programs, like the Mozilla Firefox web browser and the Apache web server.",
+   "Debian is one of the most used GNU/Linux distributions, on which are based other distributions, like Ubuntu and Knoppix.",
+   "The problem affects all the Debian-based distributions that were used to create cryptographic keys since the September 17, 2006.",
+   "The bug was discovered by Luciano Bello, an argentine Debian package maintainer, and was announced on May 13, 2008.",
+   "This vulnerability was caused by the removal of two lines of code from the original version of the OpenSSL library.",
+   "These lines were used to gather some entropy data by the library, needed to seed the PRNG used to create private keys, on which the secure connections are based.",
+   "Without this entropy, the only dynamic data used was the PID of the software.",
+   "Under Linux the PID can be a number between 1 and 32,768, that is a too small range of values if used to seed the PRNG and will cause the generation of predictable numbers.",
+   "Therefore any key generated can be predictable, with only 32,767 possible keys for a given architecture and key length, and the secrecy of the network connections created with those keys is fully compromised.",
+   "These lines were removed as \"suggested\" by two audit tools (Valgrind and Purify) used to find vulnerabilities in the software distributed by Debian.",
+   "These tools warned the Debian maintainers that some data was used before its initialization, that normally can lead to a security bug, but this time it was not the case, as the OpenSSL developers wrote on March 13, 2003.",
+   "Anyway this change was erroneously applied on September 17, 2006, when the OpenSSL Debian version 0.9.8c-1 was released to the public.",
+   "Even though the Debian maintainer responsible for this software released a patch to fix this bug on May 8, 2008, the impact may be severe.",
+   "In fact OpenSSL is commonly used in software to protect the passwords, to offer privacy and security."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-first-trojan-horse-to-affect-handheld-ga",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/First_Trojan_horse_to_affect_handheld_gaming_console_found",
+  "title_en": "First Trojan horse to affect handheld gaming console found",
+  "sentences": [
+   "Friday, October 7, 2005 Symantec, an antivirus software manufacturer, announced Thursday that they had discovered a new Trojan horse that affects Sony PlayStation Portable hand-held gaming consoles.",
+   "The program deletes required system files, preventing the device from starting correctly.",
+   "Symantec has named the virus \"Trojan.PSPBrick\".",
+   "The PSP, by default, can only play games approved by Sony.",
+   "To play other games you must use a software hack.",
+   "This Trojan pretends to be a program that performs this software hack.",
+   "The use of any software that attempts to perform this hack, including this Trojan, voids the warranty.",
+   "Symantec has said they are not aware of any way a user can restore their PSP after it has been infected.",
+   "However there have not yet been any confirmed infections.",
+   "To get infected the user must choose to download the file and copy it to their PSP.",
+   "\"It does not affect the average user,\" said Eric Chien a software engineer at Symantec.",
+   "The Trojan is distributed as an archive file named \"EXPLOIT 2G PSP Team V1.RAR\".",
+   "The archive contains two files that must be manually copied to the PSP and run for the user to be infected.",
+   "Once infected it deletes four files required for the PSP to boot: /vsh/etc/index.dat, /kd/loadcore.prx, /kd/loadexec.prx, and flash6:/kd/init.prx."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-cron",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Cron",
+  "title_en": "Cron",
+  "sentences": [
+   "Cron is a computer program that can be used to make a computer do tasks at specific time intervals.",
+   "It is used in UNIX computer operating systems and operating systems that are similar to UNIX, like Linux.",
+   "Cron can be used to schedule most repetitive tasks.",
+   "It is often used to automate tasks related to a computer or computer network's maintenance or administration, although it can be used for many other tasks like downloading files from the Internet and downloading email at specific times or dates.",
+   "The name of the cron computer program is from the word cron, which is from the Greek word for time, χρόνος (chronos).",
+   "Cron is set up by editing a file called a crontab (cron table).",
+   "This file lists the specific tasks for the computer to run and when the tasks should be run."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-interview-drupal-founder-dries-buytaert-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Interview%3A_Drupal_founder_Dries_Buytaert_balances_community_and_company_interests",
+  "title_en": "Interview: Drupal founder Dries Buytaert balances community and company interests",
+  "sentences": [
+   "Sunday, February 24, 2008 In the year 2000, Dries Buytaert created Drupal, a freely licensed and open source tool to manage websites, as a bulletin board for his college dorm.",
+   "Since Dries released the software and a community of thousands of volunteer developers have added and improved modules, Drupal has grown immensely popular.",
+   "Drupal won the overall Open CMS Award in 2007, and some speakers in Drupal's spacious developer's room at FOSDEM 2008 were dreaming aloud of its world domination.",
+   "Buytaert (now 29) just finished his doctoral thesis and has founded the start-up Acquia.",
+   "The new company wants to become Drupal's best friend, with the help of an all-star team and US$7 million collected from venture capitalists.",
+   "Wikinews reporter Michaël Laurent sat down with Dries in Brussels to discuss these recent exciting developments."
+  ],
+  "topic": "it"
+ }
+]

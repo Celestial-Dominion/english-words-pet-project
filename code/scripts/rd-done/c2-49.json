@@ -1,0 +1,115 @@
+[
+ {
+  "id": "wiki-jakarta-enterprise-beans",
+  "title_vi": "Jakarta Enterprise Beans",
+  "vi": [
+   "Jakarta Enterprise Beans là các thành phần được tiêu chuẩn hóa bên trong framework Java Enterprise.",
+   "Chúng từng được gọi là Enterprise Java Beans nhưng đã được đổi tên.",
+   "Chúng giúp việc xây dựng các ứng dụng nhiều tầng cũng có thể được phân phối trở nên dễ dàng hơn.",
+   "EJB là thành phần phía máy chủ, được sử dụng cho logic nghiệp vụ của ứng dụng.",
+   "Có ba loại bean khác nhau: Entity bean mô hình hóa các thực thể của cơ sở dữ liệu.",
+   "Một bean như vậy chứa thông tin của một bản ghi cơ sở dữ liệu.",
+   "Session bean mô hình hóa các tương tác với hệ thống.",
+   "Message-driven bean dùng để mô hình hóa các hệ thống nhắn tin.",
+   "Điều này cũng giúp có thể tách rời các hệ thống khác nhau.",
+   "Hệ thống gửi tin nhắn không cần biết cách xử lý nó.",
+   "EJB cũng hỗ trợ các tính năng Java doanh nghiệp khác như quản lý giao dịch khi cần."
+  ]
+ },
+ {
+  "id": "news-electronic-frontier-foundation-sues-sony",
+  "title_vi": "Electronic Frontier Foundation kiện Sony về công nghệ CD",
+  "vi": [
+   "Thứ ba, ngày 22 tháng 11 năm 2005 Tổ chức phi lợi nhuận Electronic Frontier Foundation có trụ sở tại California, cũng như Bộ trưởng Tư pháp Texas, đã đệ đơn kiện Sony Computer Entertainment of America vì việc sử dụng phần mềm chống vi phạm bản quyền gây tranh cãi của họ.",
+   "EFF tuyên bố rằng phần mềm quản lý quyền kỹ thuật số trên đĩa CD BMG Music (một công ty con của Sony) tạo ra các hoạt động như phần mềm gián điệp, điều mà EFF tuyên bố là vi phạm luật Texas.",
+   "Chương trình này, được gọi là XCP, được cho là cài đặt phần mềm trên hệ thống của một người khi họ đưa đĩa CD vào máy tính của mình cho các mục đích như thêm vào phần mềm âm nhạc iTunes.",
+   "Sony hiện bác bỏ ý kiến coi công nghệ XCP là phần mềm gián điệp, tuy nhiên họ đã đồng ý thay thế đĩa CD bằng phần mềm này và tạm thời ngừng cài đặt nó trên đĩa CD của họ.",
+   "Trong số những tranh cãi mà các động thái chống vi phạm bản quyền của Sony đã gây ra là cáo buộc rằng phần mềm của họ khiến máy dễ bị tấn công trên Internet hơn.",
+   "Một con ngựa trojan đã được tìm thấy trong tự nhiên sử dụng một trong các chức năng của phần mềm chống vi phạm bản quyền."
+  ]
+ },
+ {
+  "id": "wiki-mobile-app",
+  "title_vi": "Ứng dụng di động",
+  "vi": [
+   "Ứng dụng di động (mobile application hay mobile app), hay đơn giản là ứng dụng (app), là một chương trình máy tính được thiết kế để chạy trên điện thoại thông minh, máy tính bảng và các thiết bị di động khác.",
+   "Các ứng dụng thường có sẵn thông qua cửa hàng ứng dụng dành cho nền tảng đó.",
+   "Chúng bắt đầu xuất hiện vào năm 2008.",
+   "Các cửa hàng lớn nhất được điều hành bởi chủ sở hữu hệ điều hành di động.",
+   "Một số ứng dụng thường đi kèm với thiết bị, đã được cài đặt sẵn trước khi bạn mua.",
+   "Các ứng dụng khác có thể được tải xuống miễn phí từ cửa hàng ứng dụng và một số ứng dụng phải mua.",
+   "Các nhà phát triển phần mềm tạo ra những sản phẩm giống như họ tạo ra các chương trình máy tính khác và thường cung cấp chúng thông qua cửa hàng ứng dụng."
+  ]
+ },
+ {
+  "id": "wiki-radio-frequency-identification",
+  "title_vi": "Nhận dạng tần số vô tuyến",
+  "vi": [
+   "Nhận dạng tần số vô tuyến (RFID) là công nghệ được sử dụng để ghi lại sự hiện diện của một vật thể bằng tín hiệu vô tuyến.",
+   "Nó được sử dụng để kiểm soát hàng tồn kho hoặc tính thời gian cho các sự kiện thể thao.",
+   "RFID không phải là sự thay thế cho mã vạch mà là sự bổ sung cho việc đọc mã từ xa.",
+   "Công nghệ này được sử dụng để tự động nhận dạng một người, một gói hàng hoặc một vật phẩm.",
+   "Để làm được điều này, nó dựa vào thẻ RFID.",
+   "Đây là những bộ tiếp sóng nhỏ (bộ thu và phát vô tuyến kết hợp) sẽ truyền thông tin nhận dạng trong một khoảng cách ngắn khi được yêu cầu.",
+   "Phần khác để sử dụng thẻ RFID là đầu đọc thẻ RFID.",
+   "Thẻ RFID là một vật thể có thể được áp dụng hoặc kết hợp vào sản phẩm, động vật hoặc con người nhằm mục đích nhận dạng và theo dõi bằng sóng vô tuyến.",
+   "Một số thẻ có thể được đọc từ khoảng cách vài mét và ngoài tầm nhìn của người đọc.",
+   "Hầu hết các thẻ đều có dòng chữ văn bản đơn giản và mã vạch để bổ sung cho việc đọc trực tiếp và trong trường hợp có bất kỳ lỗi nào của thiết bị điện tử tần số vô tuyến.",
+   "Hầu hết các thẻ RFID đều chứa ít nhất hai phần.",
+   "Một là mạch tích hợp để lưu trữ và xử lý thông tin, điều chế và giải điều chế tín hiệu tần số vô tuyến (RF) và các chức năng chuyên dụng khác.",
+   "Thứ hai là ăng-ten để thu và truyền tín hiệu.",
+   "Nhìn chung có hai loại thẻ RFID: thẻ RFID hoạt động, có chứa pin và thẻ RFID thụ động, không có pin."
+  ]
+ },
+ {
+  "id": "wiki-gnome-web",
+  "title_vi": "GNOME Web",
+  "vi": [
+   "GNOME Web (đôi khi được gọi là Epiphany) là một trình duyệt web dành cho GNOME.",
+   "Trình duyệt sử dụng công cụ trình duyệt WebKit để tải các trang web nhưng hỗ trợ các tiện ích mở rộng từ Mozilla Firefox và Google Chrome và sử dụng API của Firefox Sync để cho phép đồng bộ hóa giữa nhiều trình duyệt.",
+   "Điều này cũng cho phép trình duyệt đồng bộ hóa dấu trang và danh sách đọc với Firefox và ứng dụng di động của nó.",
+   "GNOME Web ban đầu được tạo ra từ Galeon bởi Marco Pesenti Gritti (cũng là người tạo ra Galeon) với mục đích tạo ra một trình duyệt web có trải nghiệm người dùng rất đơn giản.",
+   "Do đó, GNOME Web không có chủ đề riêng mà thay vào đó, nó sử dụng các cài đặt của Gnome được đặt trong Trung tâm Điều khiển Gnome.",
+   "Nó cũng từng dựa trên Firefox nhưng đã chuyển sang WebKit vào tháng 9 năm 2009."
+  ]
+ },
+ {
+  "id": "news-itri-to-challenge-the-infrastructure-of-",
+  "title_vi": "ITRI thử nghiệm hạ tầng WiMAX trên Đường sắt tốc độ cao ở Đài Loan",
+  "vi": [
+   "Chủ Nhật, ngày 8 tháng 6 năm 2008 Để thách thức khả năng kết nối WiMAX trên đường sắt tốc độ cao, Viện Nghiên cứu Công nghệ Công nghiệp (ITRI) và Tập đoàn Đường sắt Cao tốc Đài Loan (THSRC) đã bắt đầu thử nghiệm công nghệ WiMAX Di động cho THSR.",
+   "Đây là thử nghiệm WiMAX đầu tiên trên đường ray tốc độ cao trên thế giới.",
+   "Các công ty công nghiệp bao gồm Nippon Telegraph và Điện thoại băng thông rộng Platform Inc., Nippon Telegraph và Điện thoại, Corning Incorporated và ZyXEL được xác nhận sẽ cung cấp giải pháp trong thử nghiệm đầu tiên này.",
+   "\"THSR là phương tiện giao thông công cộng phải có bên cạnh xe buýt và đường sắt liên thành phố ở Đài Loan.\" THSRC đã nêu.",
+   "\"Có ba khó khăn quan trọng mà thử nghiệm này cần phải vượt qua: 'Tốc độ của THSR', 'Xây dựng trạm gốc bên trong đường ray' và vấn đề quan trọng nhất - 'Kết nối Internet trên đường hầm'.\" ITRI đã nêu.",
+   "“Nếu thử nghiệm [khó khăn] này có thể thành công, Đài Loan sẽ trở thành quốc gia đầu tiên cung cấp kết nối Internet trên đường sắt cao tốc trên thế giới.” Ông Moses Yen, Giám đốc Phòng Triển lãm của Hội đồng Phát triển Ngoại thương Đài Loan cho biết."
+  ]
+ },
+ {
+  "id": "news-wikinews-interviews-journalist-konrad-go",
+  "title_vi": "Wikinews phỏng vấn nhà báo Konrad Godlewski, người đã phát hiện ra trò lừa bịp BATUTA",
+  "vi": [
+   "Chủ nhật, ngày 14 tháng 2 năm 2010 Bốn năm trước, vào ngày 9 tháng 2, một tờ báo lớn của Ba Lan, Gazeta Wyborcza đã xuất bản một báo cáo mô tả chi tiết một trò lừa bịp trên Wikipedia tiếng Ba Lan có tựa đề Henryk Batuta.",
+   "Tác giả của báo cáo là Konrad Godlewski; vài tuần sau, Godlewski bắt đầu biên tập Wikipedia tiếng Ba Lan.",
+   "Kết quả công việc của ông bao gồm một bài báo nổi bật – pismo chińskie (tiếng Ba Lan có nghĩa là \"chữ Hán\") - cũng như nhiều bài báo khác nhau liên quan đến Trung Quốc.",
+   "Trong cuộc phỏng vấn của chúng tôi, Godlewski thảo luận về meme, trò lừa bịp và Quân đội Batuta - những người tạo ra trò lừa bịp mà bài báo của anh ấy đã đưa tin.",
+   "Từ tháng 2 năm nay, một dự án đặc biệt trên Wikipedia tiếng Ba Lan, BATUTA, đã chứng kiến một nhóm đặc nhiệm tạm thời làm việc nhằm cải thiện chất lượng nội dung.",
+   "BATUTA là viết tắt của \"Bezwzględna Akcja Troskliwego Uźródławiania Tysięcy artykłów\", tạm dịch là \"Hành động tàn nhẫn của việc cẩn thận thêm tài liệu tham khảo vào hàng nghìn bài viết\"."
+  ]
+ },
+ {
+  "id": "wiki-mtn-irancell",
+  "title_vi": "MTN Irancell",
+  "vi": [
+   "MTN Irancell là một công ty lớn của Iran cung cấp dịch vụ điện thoại di động và internet.",
+   "Đây là công ty lớn nhất cung cấp các dịch vụ này ở Iran.",
+   "Tập đoàn MTN, một công ty đến từ Nam Phi, sở hữu gần một nửa Irancell.",
+   "Phần còn lại thuộc sở hữu của một công ty Iran có tên Kowsar Sign Paniz.",
+   "Irancell bắt đầu cung cấp internet 4G vào năm 2014.",
+   "Đây là lần đầu tiên 4G có mặt ở Iran.",
+   "Đến năm 2021, hơn 50 triệu người đang sử dụng dịch vụ của Irancell.",
+   "Irancell đã giành được giải thưởng cho công việc quan hệ công chúng của mình.",
+   "Điều này có nghĩa là họ rất giỏi trong việc giao tiếp với khách hàng."
+  ]
+ }
+]

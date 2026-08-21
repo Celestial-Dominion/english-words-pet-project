@@ -1,0 +1,402 @@
+{
+ "ease": {
+  "vi": "sự dễ dàng; sự thoải mái; làm dịu; xoa dịu",
+  "coll": ["with ease", "at ease", "ease the pain", "ease of use", "ease tension"]
+ },
+ "fame": {
+  "vi": "danh tiếng; sự nổi tiếng",
+  "coll": ["rise to fame", "international fame", "fame and fortune", "claim to fame"]
+ },
+ "impressed": {
+  "vi": "thấy ấn tượng; khâm phục; bị ấn tượng mạnh",
+  "coll": ["be impressed by", "deeply impressed", "impressed with the results", "highly impressed"]
+ },
+ "rally": {
+  "vi": "cuộc mít tinh; sự phục hồi; tập hợp lại; kêu gọi ủng hộ",
+  "coll": ["political rally", "hold a rally", "rally support", "campaign rally", "stock market rally"]
+ },
+ "swing": {
+  "vi": "đu đưa; vung (tay); cái xích đu; sự dao động",
+  "coll": ["swing a bat", "swing back and forth", "mood swing", "in full swing", "swing open"]
+ },
+ "tail": {
+  "vi": "cái đuôi; phần đuôi; bám đuôi theo dõi",
+  "coll": ["wag its tail", "the tail of the plane", "tail end", "heads or tails"]
+ },
+ "alert": {
+  "vi": "cảnh báo; báo động; tỉnh táo cảnh giác",
+  "coll": ["red alert", "security alert", "alert the police", "on high alert", "stay alert"]
+ },
+ "arena": {
+  "vi": "đấu trường; sân vận động; lĩnh vực hoạt động",
+  "coll": ["sports arena", "political arena", "packed arena", "enter the arena"]
+ },
+ "compensation": {
+  "vi": "sự bồi thường; tiền bồi thường; thù lao",
+  "coll": ["claim compensation", "pay compensation", "compensation package", "in compensation for"]
+ },
+ "ethnic": {
+  "vi": "thuộc sắc tộc; dân tộc; mang bản sắc dân tộc",
+  "coll": ["ethnic minority", "ethnic group", "ethnic origin", "ethnic cleansing", "ethnic diversity"]
+ },
+ "fleet": {
+  "vi": "đội tàu; đoàn xe; nhanh nhẹn",
+  "coll": ["fishing fleet", "naval fleet", "a fleet of cars", "fleet of trucks"]
+ },
+ "fundamental": {
+  "vi": "cơ bản; nền tảng; nguyên lý cơ bản",
+  "coll": ["fundamental principle", "fundamental change", "fundamental rights", "fundamental difference"]
+ },
+ "genius": {
+  "vi": "thiên tài; tài năng xuất chúng; cực kỳ tài tình",
+  "coll": ["a genius idea", "musical genius", "stroke of genius", "work of genius"]
+ },
+ "participation": {
+  "vi": "sự tham gia; sự góp mặt",
+  "coll": ["active participation", "participation rate", "encourage participation", "public participation"]
+ },
+ "proven": {
+  "vi": "đã được chứng minh; đã kiểm chứng",
+  "coll": ["proven track record", "clinically proven", "proven method", "proven guilty"]
+ },
+ "radical": {
+  "vi": "triệt để; cấp tiến; cực đoan; người cấp tiến",
+  "coll": ["radical change", "radical idea", "radical reform", "radical solution", "radical left"]
+ },
+ "transmission": {
+  "vi": "sự truyền; sự lây truyền; hộp số",
+  "coll": ["data transmission", "transmission of the virus", "live transmission", "automatic transmission"]
+ },
+ "blast": {
+  "vi": "vụ nổ; luồng gió mạnh; nổ tung; phá bằng thuốc nổ",
+  "coll": ["bomb blast", "a blast of air", "blast off", "full blast", "have a blast"]
+ },
+ "component": {
+  "vi": "thành phần; bộ phận; linh kiện",
+  "coll": ["key component", "essential component", "electronic components", "component parts"]
+ },
+ "faculty": {
+  "vi": "khoa (đại học); đội ngũ giảng viên; năng lực",
+  "coll": ["faculty of law", "faculty member", "mental faculties", "join the faculty"]
+ },
+ "feedback": {
+  "vi": "phản hồi; ý kiến đóng góp; tiếng hú (loa)",
+  "coll": ["give feedback", "positive feedback", "customer feedback", "constructive feedback", "feedback loop"]
+ },
+ "innovation": {
+  "vi": "sự đổi mới; cải tiến; phát minh mới",
+  "coll": ["technological innovation", "drive innovation", "product innovation", "culture of innovation"]
+ },
+ "legislative": {
+  "vi": "lập pháp; thuộc quyền lập pháp; cơ quan lập pháp",
+  "coll": ["legislative body", "legislative power", "legislative session", "legislative reform"]
+ },
+ "manual": {
+  "vi": "thủ công; sách hướng dẫn; bằng tay",
+  "coll": ["user manual", "manual labour", "instruction manual", "manual transmission", "manual control"]
+ },
+ "operator": {
+  "vi": "người vận hành; tổng đài viên; nhà mạng; toán tử",
+  "coll": ["machine operator", "tour operator", "mobile operator", "call the operator"]
+ },
+ "punch": {
+  "vi": "cú đấm; đấm; đục lỗ",
+  "coll": ["throw a punch", "punch him in the face", "punch a hole", "punch line", "pack a punch"]
+ },
+ "trailer": {
+  "vi": "đoạn giới thiệu phim; rơ moóc; xe kéo",
+  "coll": ["movie trailer", "watch the trailer", "trailer park", "tow a trailer"]
+ },
+ "underground": {
+  "vi": "dưới lòng đất; ngầm; tàu điện ngầm; bí mật",
+  "coll": ["underground station", "go underground", "underground railway", "underground music", "underground parking"]
+ },
+ "versus": {
+  "vi": "đấu với; so với; chống lại",
+  "coll": ["man versus machine", "quality versus quantity", "nature versus nurture", "the state versus Smith"]
+ },
+ "amongst": {
+  "vi": "giữa; trong số",
+  "coll": ["amongst friends", "amongst others", "popular amongst students", "amongst themselves"]
+ },
+ "biological": {
+  "vi": "sinh học; thuộc sinh học; ruột (huyết thống)",
+  "coll": ["biological weapons", "biological parents", "biological clock", "biological process"]
+ },
+ "chip": {
+  "vi": "con chip; mảnh vỡ; khoai tây chiên; sứt mẻ",
+  "coll": ["computer chip", "potato chips", "chip in", "chocolate chip", "bargaining chip"]
+ },
+ "concerning": {
+  "vi": "liên quan đến; về; đáng lo ngại",
+  "coll": ["a concerning trend", "questions concerning the case", "deeply concerning", "information concerning"]
+ },
+ "database": {
+  "vi": "cơ sở dữ liệu",
+  "coll": ["database management", "search the database", "online database", "customer database"]
+ },
+ "disorder": {
+  "vi": "rối loạn; sự lộn xộn; mất trật tự",
+  "coll": ["eating disorder", "mental disorder", "public disorder", "sleep disorder", "in disorder"]
+ },
+ "dynamic": {
+  "vi": "năng động; biến động; động lực; sự tương tác",
+  "coll": ["dynamic personality", "group dynamics", "dynamic range", "dynamic market"]
+ },
+ "engagement": {
+  "vi": "sự đính hôn; sự tham gia; sự gắn kết; buổi hẹn",
+  "coll": ["engagement ring", "break off an engagement", "customer engagement", "public engagement"]
+ },
+ "investigate": {
+  "vi": "điều tra; nghiên cứu; xem xét kỹ",
+  "coll": ["investigate a crime", "police investigate", "investigate the cause", "thoroughly investigate"]
+ },
+ "mask": {
+  "vi": "mặt nạ; khẩu trang; che giấu",
+  "coll": ["wear a mask", "face mask", "surgical mask", "mask the smell", "mask your feelings"]
+ },
+ "packed": {
+  "vi": "chật kín; đông nghịt; đã đóng gói",
+  "coll": ["packed with people", "jam-packed", "a packed stadium", "packed lunch"]
+ },
+ "psychology": {
+  "vi": "tâm lý học; tâm lý",
+  "coll": ["child psychology", "study psychology", "reverse psychology", "sports psychology"]
+ },
+ "rocket": {
+  "vi": "tên lửa; tăng vọt",
+  "coll": ["launch a rocket", "rocket science", "rocket launcher", "prices rocket"]
+ },
+ "stability": {
+  "vi": "sự ổn định; tính bền vững",
+  "coll": ["financial stability", "political stability", "maintain stability", "economic stability"]
+ },
+ "treaty": {
+  "vi": "hiệp ước; hiệp định",
+  "coll": ["sign a treaty", "peace treaty", "ratify a treaty", "trade treaty"]
+ },
+ "cooperation": {
+  "vi": "sự hợp tác; sự phối hợp",
+  "coll": ["close cooperation", "international cooperation", "in cooperation with", "economic cooperation"]
+ },
+ "devil": {
+  "vi": "quỷ; ma quỷ; kẻ độc ác",
+  "coll": ["the devil", "poor devil", "devil's advocate", "speak of the devil"]
+ },
+ "edit": {
+  "vi": "chỉnh sửa; biên tập; bản sửa",
+  "coll": ["edit a document", "edit a photo", "edit the text", "make an edit"]
+ },
+ "equity": {
+  "vi": "sự công bằng; vốn chủ sở hữu; cổ phần",
+  "coll": ["private equity", "equity and diversity", "home equity", "equity in education"]
+ },
+ "hardware": {
+  "vi": "phần cứng; đồ kim khí",
+  "coll": ["computer hardware", "hardware store", "hardware and software", "hardware failure"]
+ },
+ "intellectual": {
+  "vi": "trí tuệ; thuộc trí óc; nhà trí thức",
+  "coll": ["intellectual property", "intellectual ability", "intellectual curiosity", "leading intellectual"]
+ },
+ "involvement": {
+  "vi": "sự tham gia; sự dính líu; sự liên quan",
+  "coll": ["personal involvement", "parental involvement", "involvement in the crime", "military involvement"]
+ },
+ "regime": {
+  "vi": "chế độ; chính quyền; chế độ (ăn, tập)",
+  "coll": ["military regime", "communist regime", "regime change", "authoritarian regime"]
+ },
+ "seal": {
+  "vi": "con dấu; hải cẩu; niêm phong; bịt kín",
+  "coll": ["seal an envelope", "official seal", "seal the deal", "airtight seal", "baby seal"]
+ },
+ "shield": {
+  "vi": "cái khiên; lá chắn; che chở",
+  "coll": ["hold up a shield", "human shield", "shield from the sun", "protective shield"]
+ },
+ "throat": {
+  "vi": "cổ họng; yết hầu",
+  "coll": ["sore throat", "clear your throat", "throat infection", "at each other's throats"]
+ },
+ "certificate": {
+  "vi": "giấy chứng nhận; chứng chỉ; bằng cấp",
+  "coll": ["birth certificate", "medical certificate", "marriage certificate", "issue a certificate"]
+ },
+ "coaching": {
+  "vi": "việc huấn luyện; sự kèm cặp; dạy kèm",
+  "coll": ["coaching staff", "life coaching", "coaching session", "career coaching"]
+ },
+ "dated": {
+  "vi": "lỗi thời; cũ kỹ; có đề ngày tháng",
+  "coll": ["look dated", "a dated style", "dated 5 May", "slightly dated"]
+ },
+ "educated": {
+  "vi": "có học thức; được ăn học; có cơ sở",
+  "coll": ["well educated", "highly educated", "an educated guess", "educated at Oxford"]
+ },
+ "eligible": {
+  "vi": "đủ điều kiện; hợp lệ; đủ tư cách",
+  "coll": ["eligible for benefits", "eligible to vote", "eligible candidate", "eligible bachelor"]
+ },
+ "execution": {
+  "vi": "sự thực thi; việc thi hành; cuộc hành quyết",
+  "coll": ["execution of the plan", "flawless execution", "public execution", "stay of execution"]
+ },
+ "lighting": {
+  "vi": "ánh sáng; hệ thống chiếu sáng; sự thắp sáng",
+  "coll": ["stage lighting", "natural lighting", "lighting effects", "dim lighting", "street lighting"]
+ },
+ "polish": {
+  "vi": "đánh bóng; xi đánh bóng; sự trau chuốt",
+  "coll": ["nail polish", "shoe polish", "polish the furniture", "polish your skills"]
+ },
+ "timing": {
+  "vi": "thời điểm; sự chọn đúng lúc; việc căn giờ",
+  "coll": ["perfect timing", "bad timing", "the timing of the announcement", "sense of timing"]
+ },
+ "ton": {
+  "vi": "tấn; vô số; rất nhiều",
+  "coll": ["a ton of work", "metric ton", "tons of people", "weigh a ton"]
+ },
+ "worship": {
+  "vi": "sự thờ phụng; thờ cúng; tôn sùng",
+  "coll": ["place of worship", "freedom of worship", "worship God", "hero worship"]
+ },
+ "bloody": {
+  "vi": "đẫm máu; chết tiệt; cực kỳ",
+  "coll": ["bloody nose", "bloody battle", "bloody hell", "bloody good"]
+ },
+ "crucial": {
+  "vi": "cốt yếu; then chốt; mang tính quyết định",
+  "coll": ["crucial role", "crucial moment", "crucial decision", "absolutely crucial"]
+ },
+ "intent": {
+  "vi": "ý định; chủ ý; chăm chú",
+  "coll": ["criminal intent", "with intent to kill", "letter of intent", "intent on winning"]
+ },
+ "mature": {
+  "vi": "trưởng thành; chín chắn; chín muồi",
+  "coll": ["mature adult", "emotionally mature", "mature cheese", "mature student"]
+ },
+ "native speaker": {
+  "vi": "người bản ngữ",
+  "coll": ["a native speaker of English", "sound like a native speaker", "learn from a native speaker", "native speaker teacher"]
+ },
+ "prevention": {
+  "vi": "sự phòng ngừa; sự ngăn chặn",
+  "coll": ["crime prevention", "fire prevention", "disease prevention", "prevention is better than cure"]
+ },
+ "revenge": {
+  "vi": "sự trả thù; báo thù",
+  "coll": ["take revenge", "seek revenge", "revenge attack", "out of revenge"]
+ },
+ "spare": {
+  "vi": "dự phòng; rảnh rỗi; dành ra; tha cho",
+  "coll": ["spare time", "spare parts", "spare room", "spare me the details", "spare a minute"]
+ },
+ "submit": {
+  "vi": "nộp; gửi lên; khuất phục",
+  "coll": ["submit an application", "submit a report", "submit your work", "submit to authority"]
+ },
+ "copper": {
+  "vi": "đồng (kim loại); màu đồng; cớm (cảnh sát)",
+  "coll": ["copper wire", "copper pipe", "copper coloured", "copper mine"]
+ },
+ "dawn": {
+  "vi": "bình minh; rạng đông; hé rạng",
+  "coll": ["at dawn", "the dawn of a new era", "dawn breaks", "from dawn till dusk", "it dawned on me"]
+ },
+ "dispute": {
+  "vi": "tranh chấp; tranh cãi; phản bác",
+  "coll": ["legal dispute", "settle a dispute", "border dispute", "dispute the claim", "in dispute"]
+ },
+ "earnings": {
+  "vi": "thu nhập; tiền kiếm được; lợi nhuận",
+  "coll": ["annual earnings", "average earnings", "earnings growth", "loss of earnings"]
+ },
+ "hilarious": {
+  "vi": "cực buồn cười; hài hước; vui nhộn",
+  "coll": ["absolutely hilarious", "a hilarious story", "find it hilarious", "hilarious joke"]
+ },
+ "margin": {
+  "vi": "lề (trang giấy); biên độ; lợi nhuận biên",
+  "coll": ["profit margin", "narrow margin", "in the margin", "margin of error", "win by a margin"]
+ },
+ "stroke": {
+  "vi": "đột quỵ; cú đánh; vuốt ve; nét bút",
+  "coll": ["have a stroke", "stroke of luck", "stroke the cat", "swimming stroke", "brush stroke"]
+ },
+ "utility": {
+  "vi": "tiện ích; dịch vụ công ích; tính hữu dụng",
+  "coll": ["public utility", "utility bills", "utility company", "utility room"]
+ },
+ "weed": {
+  "vi": "cỏ dại; nhổ cỏ; cần sa",
+  "coll": ["pull up weeds", "weed killer", "weed the garden", "smoke weed", "weed out"]
+ },
+ "acquisition": {
+  "vi": "sự mua lại; việc tiếp thu; sự thu nhận",
+  "coll": ["language acquisition", "mergers and acquisitions", "data acquisition", "recent acquisition"]
+ },
+ "controversy": {
+  "vi": "sự tranh cãi; cuộc tranh luận",
+  "coll": ["cause controversy", "spark controversy", "surrounded by controversy", "public controversy"]
+ },
+ "fiscal": {
+  "vi": "tài khóa; thuộc tài chính; ngân sách",
+  "coll": ["fiscal year", "fiscal policy", "fiscal deficit", "fiscal responsibility"]
+ },
+ "offense": {
+  "vi": "hành vi phạm tội; sự xúc phạm; đợt tấn công",
+  "coll": ["criminal offense", "take offense", "no offense", "minor offense", "first offense"]
+ },
+ "rip": {
+  "vi": "xé; xé rách; vết rách",
+  "coll": ["rip the paper", "rip it open", "rip off", "rip apart", "let it rip"]
+ },
+ "segment": {
+  "vi": "phân khúc; đoạn; phân đoạn",
+  "coll": ["market segment", "a segment of the population", "segment the market", "a segment of orange"]
+ },
+ "venture": {
+  "vi": "dự án mạo hiểm; sự mạo hiểm; liều bước",
+  "coll": ["joint venture", "business venture", "venture capital", "venture out", "new venture"]
+ },
+ "virtually": {
+  "vi": "hầu như; gần như; qua mạng",
+  "coll": ["virtually impossible", "virtually identical", "virtually every", "meet virtually"]
+ },
+ "conventional": {
+  "vi": "thông thường; truyền thống; theo lối cũ",
+  "coll": ["conventional wisdom", "conventional methods", "conventional weapons", "conventional medicine"]
+ },
+ "inspector": {
+  "vi": "thanh tra; người kiểm tra; thanh tra viên",
+  "coll": ["health inspector", "police inspector", "school inspector", "building inspector"]
+ },
+ "mercy": {
+  "vi": "lòng thương xót; sự khoan dung; sự tha thứ",
+  "coll": ["show mercy", "beg for mercy", "at the mercy of", "have mercy on"]
+ },
+ "racism": {
+  "vi": "phân biệt chủng tộc; nạn kỳ thị chủng tộc",
+  "coll": ["fight racism", "institutional racism", "victim of racism", "casual racism"]
+ },
+ "venue": {
+  "vi": "địa điểm tổ chức; nơi diễn ra",
+  "coll": ["concert venue", "wedding venue", "change of venue", "sports venue"]
+ },
+ "conversion": {
+  "vi": "sự chuyển đổi; việc quy đổi; sự cải đạo",
+  "coll": ["currency conversion", "data conversion", "conversion rate", "religious conversion"]
+ },
+ "exclusively": {
+  "vi": "chỉ riêng; độc quyền; hoàn toàn chỉ",
+  "coll": ["available exclusively", "exclusively for members", "focus exclusively on", "exclusively online"]
+ },
+ "export": {
+  "vi": "xuất khẩu; hàng xuất khẩu",
+  "coll": ["export goods", "export market", "oil exports", "export licence"]
+ }
+}

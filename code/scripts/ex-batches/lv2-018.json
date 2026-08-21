@@ -1,0 +1,819 @@
+[
+ {
+  "id": "ounce",
+  "pos": [
+   "n"
+  ],
+  "vi": "ao-xơ (đơn vị khối lượng); chút xíu",
+  "coll": [
+   "an ounce of gold",
+   "a fluid ounce",
+   "not an ounce of truth",
+   "every ounce of strength"
+  ]
+ },
+ {
+  "id": "peel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gọt vỏ, bóc vỏ; vỏ (quả); bong tróc",
+  "coll": [
+   "peel an orange",
+   "peel potatoes",
+   "lemon peel",
+   "the skin peels off"
+  ]
+ },
+ {
+  "id": "royalty",
+  "pos": [
+   "n"
+  ],
+  "vi": "hoàng gia, dòng dõi vua chúa; tiền bản quyền",
+  "coll": [
+   "members of royalty",
+   "royalty payments",
+   "receive royalties",
+   "treated like royalty"
+  ]
+ },
+ {
+  "id": "sufficiently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đủ mức; một cách đầy đủ",
+  "coll": [
+   "sufficiently large",
+   "sufficiently clear",
+   "not sufficiently prepared",
+   "sufficiently strong"
+  ]
+ },
+ {
+  "id": "vacant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trống, bỏ trống; thất thần, ngơ ngác",
+  "coll": [
+   "a vacant seat",
+   "a vacant position",
+   "vacant land",
+   "a vacant expression"
+  ]
+ },
+ {
+  "id": "cooperate",
+  "pos": [
+   "v"
+  ],
+  "vi": "hợp tác; phối hợp",
+  "coll": [
+   "cooperate with the police",
+   "refuse to cooperate",
+   "cooperate fully",
+   "cooperate on a project"
+  ]
+ },
+ {
+  "id": "harmless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô hại",
+  "coll": [
+   "completely harmless",
+   "a harmless joke",
+   "harmless fun",
+   "harmless to humans"
+  ]
+ },
+ {
+  "id": "hygiene",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vệ sinh",
+  "coll": [
+   "personal hygiene",
+   "food hygiene",
+   "dental hygiene",
+   "poor hygiene"
+  ]
+ },
+ {
+  "id": "neglect",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bỏ bê, lơ là; sự sao nhãng",
+  "coll": [
+   "neglect your duties",
+   "child neglect",
+   "neglect your health",
+   "years of neglect"
+  ]
+ },
+ {
+  "id": "patriotic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "yêu nước",
+  "coll": [
+   "patriotic songs",
+   "a patriotic duty",
+   "deeply patriotic",
+   "patriotic fervour"
+  ]
+ },
+ {
+  "id": "probable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có khả năng xảy ra; có lẽ đúng",
+  "coll": [
+   "the most probable cause",
+   "highly probable",
+   "a probable outcome",
+   "it seems probable"
+  ]
+ },
+ {
+  "id": "projection",
+  "pos": [
+   "n"
+  ],
+  "vi": "dự báo, dự đoán; sự chiếu hình; phần nhô ra",
+  "coll": [
+   "sales projections",
+   "population projections",
+   "film projection",
+   "a projection screen"
+  ]
+ },
+ {
+  "id": "spokesman",
+  "pos": [
+   "n"
+  ],
+  "vi": "người phát ngôn",
+  "coll": [
+   "a company spokesman",
+   "a government spokesman",
+   "a police spokesman",
+   "a spokesman said"
+  ]
+ },
+ {
+  "id": "starving",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đói lả; chết đói",
+  "coll": [
+   "I'm starving",
+   "starving children",
+   "starving to death",
+   "the starving population"
+  ]
+ },
+ {
+  "id": "surroundings",
+  "pos": [
+   "n"
+  ],
+  "vi": "môi trường xung quanh; khung cảnh xung quanh",
+  "coll": [
+   "natural surroundings",
+   "unfamiliar surroundings",
+   "beautiful surroundings",
+   "adapt to new surroundings"
+  ]
+ },
+ {
+  "id": "aboriginal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bản địa, thổ dân; người bản địa",
+  "coll": [
+   "aboriginal people",
+   "aboriginal culture",
+   "aboriginal land",
+   "aboriginal art"
+  ]
+ },
+ {
+  "id": "banker",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân viên ngân hàng; chủ ngân hàng",
+  "coll": [
+   "an investment banker",
+   "a merchant banker",
+   "a private banker",
+   "bankers and traders"
+  ]
+ },
+ {
+  "id": "compensate",
+  "pos": [
+   "v"
+  ],
+  "vi": "đền bù; bồi thường; bù đắp",
+  "coll": [
+   "compensate for the loss",
+   "compensate victims",
+   "more than compensate",
+   "compensate someone financially"
+  ]
+ },
+ {
+  "id": "distraction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xao nhãng; thứ gây phân tâm",
+  "coll": [
+   "a constant distraction",
+   "avoid distractions",
+   "a welcome distraction",
+   "drive someone to distraction"
+  ]
+ },
+ {
+  "id": "exclude",
+  "pos": [
+   "v"
+  ],
+  "vi": "loại trừ; không cho tham gia",
+  "coll": [
+   "exclude from the list",
+   "exclude the possibility",
+   "exclude someone from",
+   "socially excluded"
+  ]
+ },
+ {
+  "id": "penguin",
+  "pos": [
+   "n"
+  ],
+  "vi": "chim cánh cụt",
+  "coll": [
+   "an emperor penguin",
+   "a king penguin",
+   "a colony of penguins",
+   "penguins waddle"
+  ]
+ },
+ {
+  "id": "prom",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dạ hội cuối cấp; vũ hội học đường",
+  "coll": [
+   "the school prom",
+   "a prom dress",
+   "prom night",
+   "the prom queen"
+  ]
+ },
+ {
+  "id": "specify",
+  "pos": [
+   "v"
+  ],
+  "vi": "chỉ rõ; nêu cụ thể",
+  "coll": [
+   "specify the details",
+   "unless otherwise specified",
+   "specify a date",
+   "clearly specify"
+  ]
+ },
+ {
+  "id": "stab",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "đâm (dao); nhát đâm; cơn đau nhói",
+  "coll": [
+   "stab someone",
+   "a stab wound",
+   "stabbed to death",
+   "a stab in the back"
+  ]
+ },
+ {
+  "id": "whiskey",
+  "pos": [
+   "n"
+  ],
+  "vi": "rượu whisky",
+  "coll": [
+   "a glass of whiskey",
+   "Irish whiskey",
+   "a shot of whiskey",
+   "whiskey and soda"
+  ]
+ },
+ {
+  "id": "attribute",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đặc điểm, thuộc tính; quy cho, cho là do",
+  "coll": [
+   "a key attribute",
+   "personal attributes",
+   "attribute success to",
+   "attribute the quote to him"
+  ]
+ },
+ {
+  "id": "audition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "buổi thử vai; thử vai, thử giọng",
+  "coll": [
+   "an audition for a role",
+   "hold auditions",
+   "audition for a part",
+   "a successful audition"
+  ]
+ },
+ {
+  "id": "chop",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chặt, băm nhỏ; miếng sườn; nhát chặt",
+  "coll": [
+   "chop vegetables",
+   "chop wood",
+   "a pork chop",
+   "chop finely"
+  ]
+ },
+ {
+  "id": "conquest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc chinh phục; sự chiếm đoạt",
+  "coll": [
+   "military conquest",
+   "the Norman Conquest",
+   "the conquest of space",
+   "a war of conquest"
+  ]
+ },
+ {
+  "id": "crawl",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bò, trườn; nhích chậm; kiểu bơi trườn sấp",
+  "coll": [
+   "crawl on the floor",
+   "babies crawl",
+   "traffic crawls",
+   "the front crawl"
+  ]
+ },
+ {
+  "id": "guts",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gan dạ, dũng khí; ruột gan",
+  "coll": [
+   "have the guts to",
+   "it takes guts",
+   "guts and determination",
+   "hate someone's guts"
+  ]
+ },
+ {
+  "id": "herb",
+  "pos": [
+   "n"
+  ],
+  "vi": "thảo mộc; rau thơm; cây thuốc",
+  "coll": [
+   "fresh herbs",
+   "herbs and spices",
+   "medicinal herbs",
+   "dried herbs"
+  ]
+ },
+ {
+  "id": "immortal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bất tử; bất diệt; vị thần bất tử",
+  "coll": [
+   "the immortal soul",
+   "immortal fame",
+   "become immortal",
+   "immortal words"
+  ]
+ },
+ {
+  "id": "insufficient",
+  "pos": [
+   "adj",
+   "det"
+  ],
+  "vi": "không đủ; thiếu",
+  "coll": [
+   "insufficient evidence",
+   "insufficient funds",
+   "insufficient time",
+   "wholly insufficient"
+  ]
+ },
+ {
+  "id": "lick",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "liếm; cái liếm",
+  "coll": [
+   "lick an ice cream",
+   "lick your lips",
+   "the dog licked my hand",
+   "lick the plate clean"
+  ]
+ },
+ {
+  "id": "literal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "theo nghĩa đen; đúng từng chữ",
+  "coll": [
+   "the literal meaning",
+   "a literal translation",
+   "in the literal sense",
+   "a literal interpretation"
+  ]
+ },
+ {
+  "id": "modification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sửa đổi; sự điều chỉnh",
+  "coll": [
+   "minor modifications",
+   "make modifications",
+   "genetic modification",
+   "behaviour modification"
+  ]
+ },
+ {
+  "id": "mold",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khuôn đúc; nấm mốc; nhào nặn, tạo hình",
+  "coll": [
+   "a cake mold",
+   "break the mold",
+   "mold and mildew",
+   "mold into shape"
+  ]
+ },
+ {
+  "id": "outrageous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "quá đáng; gây phẫn nộ; lố lăng",
+  "coll": [
+   "outrageous behaviour",
+   "an outrageous claim",
+   "outrageous prices",
+   "absolutely outrageous"
+  ]
+ },
+ {
+  "id": "packet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gói nhỏ; gói tin (mạng)",
+  "coll": [
+   "a packet of crisps",
+   "a packet of seeds",
+   "open the packet",
+   "a data packet"
+  ]
+ },
+ {
+  "id": "peach",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "quả đào; cây đào; màu hồng đào",
+  "coll": [
+   "a ripe peach",
+   "a peach tree",
+   "peaches and cream",
+   "canned peaches"
+  ]
+ },
+ {
+  "id": "polo",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "môn polo (mã cầu); áo phông cổ bẻ",
+  "coll": [
+   "play polo",
+   "a polo shirt",
+   "a polo match",
+   "water polo"
+  ]
+ },
+ {
+  "id": "presenter",
+  "pos": [
+   "n"
+  ],
+  "vi": "người dẫn chương trình; người thuyết trình",
+  "coll": [
+   "a TV presenter",
+   "a radio presenter",
+   "a news presenter",
+   "the main presenter"
+  ]
+ },
+ {
+  "id": "relieve",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm dịu, giảm bớt; giải tỏa; thay ca",
+  "coll": [
+   "relieve pain",
+   "relieve stress",
+   "relieve the pressure",
+   "relieve someone of duty"
+  ]
+ },
+ {
+  "id": "remarkably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đáng kinh ngạc; hết sức, cực kỳ",
+  "coll": [
+   "remarkably well",
+   "remarkably similar",
+   "remarkably successful",
+   "remarkably little"
+  ]
+ },
+ {
+  "id": "scar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vết sẹo; để lại sẹo; vết thương lòng",
+  "coll": [
+   "a facial scar",
+   "leave a scar",
+   "emotional scars",
+   "a scar on his cheek"
+  ]
+ },
+ {
+  "id": "seminar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hội thảo chuyên đề; buổi thảo luận",
+  "coll": [
+   "attend a seminar",
+   "a training seminar",
+   "hold a seminar",
+   "a seminar on marketing"
+  ]
+ },
+ {
+  "id": "trader",
+  "pos": [
+   "n"
+  ],
+  "vi": "thương nhân; nhà giao dịch (chứng khoán)",
+  "coll": [
+   "a market trader",
+   "a stock trader",
+   "a day trader",
+   "traders and investors"
+  ]
+ },
+ {
+  "id": "valentine",
+  "pos": [
+   "n"
+  ],
+  "vi": "thiệp (quà) Valentine; người yêu dịp Valentine",
+  "coll": [
+   "a valentine card",
+   "send a valentine",
+   "be my valentine",
+   "Valentine's Day"
+  ]
+ },
+ {
+  "id": "viewer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người xem; khán giả truyền hình",
+  "coll": [
+   "television viewers",
+   "millions of viewers",
+   "regular viewers",
+   "viewer ratings"
+  ]
+ },
+ {
+  "id": "worm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con giun; sâu bọ; luồn lách",
+  "coll": [
+   "a can of worms",
+   "earthworms in the soil",
+   "a computer worm",
+   "worm your way in"
+  ]
+ },
+ {
+  "id": "cane",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cây gậy chống; cây mía, thân tre; đánh bằng roi",
+  "coll": [
+   "a walking cane",
+   "sugar cane",
+   "a bamboo cane",
+   "lean on a cane"
+  ]
+ },
+ {
+  "id": "catalyst",
+  "pos": [
+   "n"
+  ],
+  "vi": "chất xúc tác; nhân tố thúc đẩy",
+  "coll": [
+   "act as a catalyst",
+   "a catalyst for change",
+   "a chemical catalyst",
+   "serve as a catalyst"
+  ]
+ },
+ {
+  "id": "crab",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con cua; thịt cua",
+  "coll": [
+   "a crab claw",
+   "crab meat",
+   "catch crabs",
+   "soft-shell crab"
+  ]
+ },
+ {
+  "id": "cruelty",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tàn ác; hành vi độc ác",
+  "coll": [
+   "animal cruelty",
+   "acts of cruelty",
+   "mental cruelty",
+   "cruelty to children"
+  ]
+ },
+ {
+  "id": "diploma",
+  "pos": [
+   "n"
+  ],
+  "vi": "bằng tốt nghiệp; văn bằng",
+  "coll": [
+   "a high school diploma",
+   "earn a diploma",
+   "a diploma in nursing",
+   "award a diploma"
+  ]
+ },
+ {
+  "id": "predictable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có thể đoán trước; dễ đoán",
+  "coll": [
+   "highly predictable",
+   "a predictable outcome",
+   "entirely predictable",
+   "predictable behaviour"
+  ]
+ },
+ {
+  "id": "queer",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "thuộc cộng đồng LGBT, queer; kỳ quặc, lạ đời",
+  "coll": [
+   "the queer community",
+   "queer theory",
+   "queer identity",
+   "a queer feeling"
+  ]
+ },
+ {
+  "id": "reckon",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cho rằng, nghĩ rằng; tính toán; coi là",
+  "coll": [
+   "I reckon so",
+   "reckon the cost",
+   "be reckoned as",
+   "reckon with someone"
+  ]
+ },
+ {
+  "id": "restriction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hạn chế; quy định hạn chế",
+  "coll": [
+   "impose restrictions",
+   "travel restrictions",
+   "lift restrictions",
+   "severe restrictions"
+  ]
+ }
+]

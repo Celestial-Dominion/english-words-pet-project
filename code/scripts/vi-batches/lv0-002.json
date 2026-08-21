@@ -1,0 +1,1309 @@
+[
+ {
+  "id": "most",
+  "pos": [
+   "adv",
+   "det",
+   "pron",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "superlative degree of much.",
+   "superlative degree of many",
+   "Forms the superlative of many adjectives."
+  ]
+ },
+ {
+  "id": "much",
+  "pos": [
+   "adv",
+   "det",
+   "pron",
+   "adj"
+  ],
+  "en": [
+   "A large amount of.",
+   "Used to indicate, demonstrate or compare the quantity of something.",
+   "many ( + plural countable noun)."
+  ]
+ },
+ {
+  "id": "very",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "en": [
+   "To a great extent or degree.",
+   "Conforming to fact, reality or rule",
+   "Used to firmly establish that nothing else surpasses in some respect."
+  ]
+ },
+ {
+  "id": "where",
+  "pos": [
+   "adv",
+   "conj",
+   "pron",
+   "n"
+  ],
+  "en": [
+   "In, at or to what place.",
+   "In what situation.",
+   "In, at or to the place (that) or a place (that)."
+  ]
+ },
+ {
+  "id": "even",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Flat and level.",
+   "Without great variation.",
+   "Equal in proportion, quantity, size, etc."
+  ]
+ },
+ {
+  "id": "should",
+  "pos": [
+   "vaux",
+   "v",
+   "n"
+  ],
+  "en": [
+   "simple past of shall",
+   "Ought to",
+   "To suggest (that someone ought to do something, or that something ought to be the case) by, or as if by, using the word should."
+  ]
+ },
+ {
+  "id": "may",
+  "pos": [
+   "vaux",
+   "n",
+   "v"
+  ],
+  "en": [
+   "To be able to go.",
+   "To have permission to, be allowed. Used in granting permission and in questions to make polite requests.",
+   "Granting the admissibility of a supposition, in a way that can be semantically either subjunctive or indicative."
+  ]
+ },
+ {
+  "id": "here",
+  "pos": [
+   "adv",
+   "adj",
+   "n",
+   "intj"
+  ],
+  "en": [
+   "In, on, or at this place (a place perceived to be close to the speaker)",
+   "Alive",
+   "This place"
+  ]
+ },
+ {
+  "id": "need",
+  "pos": [
+   "vaux",
+   "n",
+   "v"
+  ],
+  "en": [
+   "A requirement for something",
+   "A desire or craving for the satisfaction of a requirement perceived as essential or primal.",
+   "Lack of means of subsistence"
+  ]
+ },
+ {
+  "id": "really",
+  "pos": [
+   "adv",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "In a way or manner that is real, not unreal.",
+   "Actually",
+   "Very (modifying an adjective)"
+  ]
+ },
+ {
+  "id": "did",
+  "pos": [
+   "vaux",
+   "v"
+  ],
+  "en": [
+   "simple past of do"
+  ]
+ },
+ {
+  "id": "right",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "Designating the side of the body which is positioned to the east if one is facing north, the side on which the heart is not located in…",
+   "Clockwise, particularly when describing a change in direction or orientation.",
+   "Complying with justice, correctness, or reason"
+  ]
+ },
+ {
+  "id": "work",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Employment.",
+   "Effort.",
+   "To do a specific task by employing physical or mental powers."
+  ]
+ },
+ {
+  "id": "year",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A period of time akin to the time taken for the Earth to undergo a full cycle of seasons.",
+   "Pronunciation spelling of here.",
+   "Pronunciation spelling of hear."
+  ]
+ },
+ {
+  "id": "being",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "present participle and gerund of be",
+   "A living creature.",
+   "The state or fact of existence, consciousness, or life, or something in such a state."
+  ]
+ },
+ {
+  "id": "day",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The time when the Sun is above the horizon and it lights the sky.",
+   "A period of time equal or almost equal to a full day-night cycle, being 24 hours long.",
+   "A 24-hour period beginning at 6am or sunrise."
+  ]
+ },
+ {
+  "id": "too",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Likewise.",
+   "Also, in addition marks a statement as equally valid as the preceding one.",
+   "To an excessive degree, more than enough indicates that the degree of a quality is more than what is needed or wanted."
+  ]
+ },
+ {
+  "id": "before",
+  "pos": [
+   "adv",
+   "conj",
+   "prep",
+   "n"
+  ],
+  "en": [
+   "Earlier than (in time).",
+   "In front of in space.",
+   "In the presence of."
+  ]
+ },
+ {
+  "id": "off",
+  "pos": [
+   "adj",
+   "adv",
+   "prep",
+   "v",
+   "n"
+  ],
+  "en": [
+   "In a direction away from the speaker or other reference point.",
+   "Into a state of non-operation or non-existence.",
+   "So as to remove or separate, or be removed or separated."
+  ]
+ },
+ {
+  "id": "why",
+  "pos": [
+   "adv",
+   "n",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "For what cause, reason, or purpose.",
+   "For which cause, reason, or purpose.",
+   "The cause, reason, or purpose for which."
+  ]
+ },
+ {
+  "id": "still",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Not moving",
+   "Not effervescing",
+   "Uttering no sound"
+  ]
+ },
+ {
+  "id": "take",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To get into one's hands, possession, or control, with or without force.",
+   "The or an act of taking.",
+   "Something that is taken"
+  ]
+ },
+ {
+  "id": "make-up",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Alternative spelling of makeup. See usage notes there.",
+   "Made-up, false, imaginary, fabricated.",
+   "Of or relating to a reconciliation."
+  ]
+ },
+ {
+  "id": "many",
+  "pos": [
+   "det",
+   "pron",
+   "n",
+   "adj"
+  ],
+  "en": [
+   "before a countable noun",
+   "A large, indefinite number of people or things.",
+   "A multitude"
+  ]
+ },
+ {
+  "id": "never",
+  "pos": [
+   "adv",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "At no time",
+   "Not at any other time",
+   "Negative particle (used to negate verbs in the simple past tense"
+  ]
+ },
+ {
+  "id": "those",
+  "pos": [
+   "det",
+   "pron"
+  ],
+  "en": [
+   "plural of that"
+  ]
+ },
+ {
+  "id": "life",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "The state of organisms preceding their death, characterized by biological processes such as metabolism and reproduction and…",
+   "The animating principle or force that keeps an inorganic thing or concept metaphorically alive (dynamic, relevant, etc) and makes it a…",
+   "Lifeforms, generally or collectively."
+  ]
+ },
+ {
+  "id": "say",
+  "pos": [
+   "n",
+   "v",
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "To pronounce.",
+   "To recite.",
+   "To tell, either verbally or in writing."
+  ]
+ },
+ {
+  "id": "world",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The subjective human experience, regarded collectively",
+   "The subjective human experience, regarded individually.",
+   "A majority of people."
+  ]
+ },
+ {
+  "id": "down",
+  "pos": [
+   "adj",
+   "adv",
+   "prep",
+   "v",
+   "n"
+  ],
+  "en": [
+   "From a higher position to a lower one",
+   "To or towards what is considered the bottom of something, irrespective of whether this is presently physically lower.",
+   "At a lower or further place or position along a set path."
+  ]
+ },
+ {
+  "id": "great",
+  "pos": [
+   "adj",
+   "intj",
+   "n",
+   "adv"
+  ],
+  "en": [
+   "Taking much space",
+   "Very good",
+   "Important, consequential."
+  ]
+ },
+ {
+  "id": "through",
+  "pos": [
+   "adv",
+   "prep",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "From one side or end of (something) to the other.",
+   "Passing from one side of something to the other.",
+   "Finished"
+  ]
+ },
+ {
+  "id": "last",
+  "pos": [
+   "adv",
+   "det",
+   "pron",
+   "v",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Final, ultimate, coming after all others of its kind.",
+   "Most recent, latest, last so far.",
+   "Farthest of all from a given quality, character, or condition"
+  ]
+ },
+ {
+  "id": "while",
+  "pos": [
+   "conj",
+   "n",
+   "prep",
+   "v"
+  ],
+  "en": [
+   "An uncertain duration of time, a period of time.",
+   "During the same time that.",
+   "Although."
+  ]
+ },
+ {
+  "id": "all right",
+  "pos": [
+   "adj",
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "Good",
+   "In good health, unharmed.",
+   "Fairly well."
+  ]
+ },
+ {
+  "id": "best",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "superlative form of good",
+   "Most",
+   "Most superior"
+  ]
+ },
+ {
+  "id": "such",
+  "pos": [
+   "det",
+   "pron",
+   "n"
+  ],
+  "en": [
+   "Like this, that, these, those",
+   "Any.",
+   "Used as an intensifier roughly equivalent to very much (of), quite or rather."
+  ]
+ },
+ {
+  "id": "love",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A deep caring for the existence of another.",
+   "Strong affection.",
+   "A person who is the object of romantic feelings"
+  ]
+ },
+ {
+  "id": "man",
+  "pos": [
+   "n",
+   "v",
+   "intj",
+   "pron"
+  ],
+  "en": [
+   "An adult male human.",
+   "A human, a person regardless of gender or sex, usually an adult.",
+   "Used to place emphasis upon something or someone"
+  ]
+ },
+ {
+  "id": "home",
+  "pos": [
+   "adv",
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A dwelling.",
+   "To return to its owner.",
+   "Of, from, or pertaining to one’s dwelling or country"
+  ]
+ },
+ {
+  "id": "long",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Having much distance in space from one end to the other.",
+   "Travelling or extending too great a distance in space.",
+   "A long vowel."
+  ]
+ },
+ {
+  "id": "look",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "To try to see, to pay attention to with one’s eyes.",
+   "To appear, to seem.",
+   "To give an appearance of being."
+  ]
+ },
+ {
+  "id": "something",
+  "pos": [
+   "pron",
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "en": [
+   "An uncertain or unspecified thing",
+   "A quality to a moderate degree.",
+   "A talent or quality that is difficult to specify."
+  ]
+ },
+ {
+  "id": "use",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The act of using.",
+   "The act of consuming alcohol or narcotics.",
+   "Usefulness, utility, benefit"
+  ]
+ },
+ {
+  "id": "same",
+  "pos": [
+   "adj",
+   "adv",
+   "pron",
+   "intj"
+  ],
+  "en": [
+   "Not different or other",
+   "Lacking variety from",
+   "Similar, alike."
+  ]
+ },
+ {
+  "id": "used",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "simple past and past participle of use",
+   "In used to.",
+   "That is or has or have been used."
+  ]
+ },
+ {
+  "id": "both",
+  "pos": [
+   "adv",
+   "det",
+   "pron"
+  ],
+  "en": [
+   "Each of the two",
+   "Each of the two, or of the two kinds.",
+   "Including both of (used with and)."
+  ]
+ },
+ {
+  "id": "every",
+  "pos": [
+   "det"
+  ],
+  "en": [
+   "All of a countable group (considered individually), without exception.",
+   "Denotes equal spacing at a stated interval, or a proportion corresponding to such a spacing.",
+   "Denotes an abundance of something."
+  ]
+ },
+ {
+  "id": "am",
+  "pos": [
+   "vaux",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "first-person singular present indicative of be",
+   "Alternative spelling of a.m.."
+  ]
+ },
+ {
+  "id": "come",
+  "pos": [
+   "v",
+   "n",
+   "prep",
+   "intj"
+  ],
+  "en": [
+   "To move nearer to the point of perspective.",
+   "Semen.",
+   "Female ejaculatory discharge."
+  ]
+ },
+ {
+  "id": "part",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "adv"
+  ],
+  "en": [
+   "A portion",
+   "To leave the company of (each other, or someone/something [with with or from]).",
+   "To divide in two."
+  ]
+ },
+ {
+  "id": "state",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "A condition",
+   "To declare to be a fact.",
+   "To make known."
+  ]
+ },
+ {
+  "id": "three",
+  "pos": [
+   "num",
+   "n"
+  ],
+  "en": [
+   "A numerical value after two and before four. Represented in Arabic digits as 3",
+   "Describing a set or group with three elements.",
+   "The digit/figure 3."
+  ]
+ },
+ {
+  "id": "around",
+  "pos": [
+   "adv",
+   "prep",
+   "adj"
+  ],
+  "en": [
+   "Forming a circle or closed curve containing (something).",
+   "Centred upon",
+   "Following the perimeter of a specified area and returning to the starting point."
+  ]
+ },
+ {
+  "id": "between",
+  "pos": [
+   "prep",
+   "n"
+  ],
+  "en": [
+   "In the position or interval that separates (two things), or intermediate in quantity or degree. (See Usage notes below.)",
+   "Done together or reciprocally.",
+   "Shared in confidence."
+  ]
+ },
+ {
+  "id": "always",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "en": [
+   "At all times",
+   "Constantly during a certain period, or regularly at stated intervals (opposed to sometimes or occasionally).",
+   "if necessary, or if there is no better option"
+  ]
+ },
+ {
+  "id": "better",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "comparative degree of good and well",
+   "Greater in amount or quantity",
+   "Greater or lesser (whichever is seen as more advantageous), in reference to value, distance, time, etc."
+  ]
+ },
+ {
+  "id": "find",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To locate",
+   "To discover by study or experiment directed to an object or end.",
+   "To gain, as the object of desire or effort."
+  ]
+ },
+ {
+  "id": "help",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "Action given to provide assistance",
+   "Something or someone which provides assistance with a task.",
+   "Documentation provided with computer software that could be accessed using the computer."
+  ]
+ },
+ {
+  "id": "high",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Physically elevated, extending above a base or average level",
+   "Having a specified elevation or height",
+   "Elevated in status, esteem, or prestige, or in importance or development"
+  ]
+ },
+ {
+  "id": "little",
+  "pos": [
+   "adj",
+   "adv",
+   "det",
+   "pron",
+   "n"
+  ],
+  "en": [
+   "Small, not large, limited, particularly",
+   "Small, not large, limited",
+   "Not much."
+  ]
+ },
+ {
+  "id": "old",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of an object, concept, relationship, etc., having existed for a relatively long period of time.",
+   "Having been used and thus no longer new or unused.",
+   "Having existed or lived for the specified time."
+  ]
+ },
+ {
+  "id": "since",
+  "pos": [
+   "adv",
+   "conj",
+   "prep"
+  ],
+  "en": [
+   "From a specified time in the past.",
+   "From",
+   "From the time that."
+  ]
+ },
+ {
+  "id": "another",
+  "pos": [
+   "det",
+   "pron"
+  ],
+  "en": [
+   "One more further, in addition to the quantity by then",
+   "Not the same",
+   "Any or some other, similar in likeness or in effect, instead."
+  ]
+ },
+ {
+  "id": "does",
+  "pos": [
+   "vaux",
+   "v",
+   "n"
+  ],
+  "en": [
+   "third-person singular simple present indicative of do",
+   "plural of doe"
+  ]
+ },
+ {
+  "id": "own",
+  "pos": [
+   "adj",
+   "pron",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Belonging to",
+   "Not shared.",
+   "To have rightful possession of (property, goods or capital)"
+  ]
+ },
+ {
+  "id": "under",
+  "pos": [
+   "prep",
+   "adv",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Beneath",
+   "From one side of to the other, passing beneath.",
+   "Less than."
+  ]
+ },
+ {
+  "id": "during",
+  "pos": [
+   "prep"
+  ],
+  "en": [
+   "For all of a given time interval",
+   "At any time or period within a given time interval or while a given event is ongoing."
+  ]
+ },
+ {
+  "id": "game",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A playful or competitive activity.",
+   "Willing and able to participate.",
+   "That shows a tendency to continue to fight against another animal, despite being wounded, often severely."
+  ]
+ },
+ {
+  "id": "thing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "That which is considered to exist as a separate entity, object, quality or concept.",
+   "A word, symbol, sign, or other referent that can be used to refer to any entity.",
+   "An individual object or distinct entity."
+  ]
+ },
+ {
+  "id": "give",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To move, shift, provide something abstract or concrete to someone or something or somewhere.",
+   "The amount of bending that something undergoes when a force is applied to it"
+  ]
+ },
+ {
+  "id": "house",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A structure built or serving as an abode of human beings.",
+   "A container",
+   "Size and quality of residential accommodations"
+  ]
+ },
+ {
+  "id": "place",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An area",
+   "To put (someone or something) in a specific location.",
+   "To earn a given spot in a competition"
+  ]
+ },
+ {
+  "id": "school",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An institution dedicated to teaching and learning",
+   "An educational institution providing primary and secondary education, prior to tertiary education (college or university).",
+   "At Eton College, a period or session of teaching."
+  ]
+ },
+ {
+  "id": "again",
+  "pos": [
+   "adv",
+   "prep"
+  ],
+  "en": [
+   "Another time",
+   "Back (to a former place or state).",
+   "Over and above a factor of one."
+  ]
+ },
+ {
+  "id": "next",
+  "pos": [
+   "adv",
+   "det",
+   "pron",
+   "adj",
+   "prep",
+   "n"
+  ],
+  "en": [
+   "Nearest in place or position, having nothing similar intervening",
+   "Nearest in order, succession, or rank",
+   "Nearest in relationship. (See also next of kin.)"
+  ]
+ },
+ {
+  "id": "each",
+  "pos": [
+   "det",
+   "pron",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "All",
+   "For one",
+   "Individually"
+  ]
+ },
+ {
+  "id": "next to",
+  "pos": [
+   "prep",
+   "adv"
+  ],
+  "en": [
+   "Beside, alongside, by, adjacent to, or near.",
+   "Immediately after, in choice or consideration",
+   "Compared to, in comparison with."
+  ]
+ },
+ {
+  "id": "without",
+  "pos": [
+   "prep",
+   "adv"
+  ],
+  "en": [
+   "Lacking something",
+   "Without a condom being worn.",
+   "Not having, containing, characteristic of, etc."
+  ],
+  "reg": [
+   "literary"
+  ]
+ },
+ {
+  "id": "against",
+  "pos": [
+   "prep"
+  ],
+  "en": [
+   "In a contrary direction to.",
+   "In physical opposition to",
+   "In physical contact with, so as to abut or be supported by."
+  ]
+ },
+ {
+  "id": "end",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The terminal point of something in space or time.",
+   "Share of joint responsibility.",
+   "The cessation of an effort, activity, state, or motion."
+  ]
+ },
+ {
+  "id": "must",
+  "pos": [
+   "vaux",
+   "v",
+   "n"
+  ],
+  "en": [
+   "To do as a requirement",
+   "To do with certainty",
+   "Used to indicate that something is very likely, probable, or certain to be true."
+  ]
+ },
+ {
+  "id": "show",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To display or exhibit",
+   "A play, dance, or other entertainment.",
+   "An exhibition of items."
+  ]
+ },
+ {
+  "id": "big",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Of great size, large.",
+   "Large with young",
+   "Well-endowed"
+  ]
+ },
+ {
+  "id": "feel",
+  "pos": [
+   "n",
+   "v",
+   "pron",
+   "adj",
+   "adv"
+  ],
+  "en": [
+   "To use or experience the sense of touch.",
+   "To sense or think emotionally or judgmentally.",
+   "A perception experienced mainly or solely through the sense of touch."
+  ]
+ },
+ {
+  "id": "sure",
+  "pos": [
+   "adj",
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "Physically secure and certain, non-failing, reliable.",
+   "Certain in one's knowledge or belief.",
+   "Certain to act or be a specified way."
+  ]
+ },
+ {
+  "id": "team",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "A set of draught animals, such as two horses in front of a carriage.",
+   "Any group of people involved in the same activity, especially sports or work.",
+   "A group of people who favor one side of a binary debate that is divided and lacks a well-established clear consensus."
+  ]
+ },
+ {
+  "id": "ever",
+  "pos": [
+   "adv",
+   "adj",
+   "det"
+  ],
+  "en": [
+   "Continuously, constantly, all the time (for the complete duration).",
+   "At any time.",
+   "As intensifier following an interrogative word."
+  ],
+  "reg": [
+   "formal"
+  ]
+ },
+ {
+  "id": "family",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "A group of people who are closely related to one another (by blood, marriage or adoption)",
+   "An extended family",
+   "A nuclear family"
+  ]
+ },
+ {
+  "id": "keep",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To continue in (a course or mode of action)",
+   "To remain faithful to a given promise or word.",
+   "To hold the status of something."
+  ]
+ },
+ {
+  "id": "might",
+  "pos": [
+   "vaux",
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Power, strength, force, or influence held by a person or group.",
+   "Physical strength or force.",
+   "The ability to do something."
+  ]
+ },
+ {
+  "id": "please",
+  "pos": [
+   "adv",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "To make happy or satisfy",
+   "To desire",
+   "Used to make a polite request."
+  ]
+ },
+ {
+  "id": "put",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To physically place (sth or sb swh).",
+   "To place in abstract",
+   "To bring or set (into a certain relation, state or condition)."
+  ]
+ },
+ {
+  "id": "money",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "A generally accepted means of exchange.",
+   "A currency maintained by a state or other entity which can guarantee its value (such as a monetary union).",
+   "Hard cash in the form of banknotes and coins, as opposed to cheques, credit cards, or credit more generally."
+  ]
+ },
+ {
+  "id": "free",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n",
+   "num"
+  ],
+  "en": [
+   "Unconstrained.",
+   "Without needing to pay.",
+   "To make free"
+  ]
+ },
+ {
+  "id": "second",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "pron",
+   "v"
+  ],
+  "en": [
+   "Number-two",
+   "Next to the first in value, power, excellence, dignity, or rank",
+   "Being of the same kind as one that has preceded"
+  ]
+ },
+ {
+  "id": "someone",
+  "pos": [
+   "pron",
+   "n"
+  ],
+  "en": [
+   "One or some person of unspecified or indefinite identity.",
+   "A partially specified but unnamed person.",
+   "An important person."
+  ]
+ },
+ {
+  "id": "away",
+  "pos": [
+   "adv",
+   "intj",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "From a place, hence.",
+   "Aside",
+   "Aside, so as to discard something."
+  ]
+ },
+ {
+  "id": "left",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Designating the side of the body toward the west when one is facing north",
+   "Anticlockwise, particularly when describing a change in direction or orientation.",
+   "Designating the bank of a river (etc.) on one's left when facing downstream (i.e. facing forward while floating with the current)"
+  ]
+ },
+ {
+  "id": "number",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Quantity of countable things.",
+   "An abstract entity used to describe quantity.",
+   "A numeral"
+  ]
+ }
+]

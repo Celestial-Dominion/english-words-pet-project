@@ -1,0 +1,402 @@
+{
+  "unethical": {
+    "vi": "phi đạo đức; trái quy tắc nghề nghiệp",
+    "coll": ["unethical behaviour", "unethical practices", "unethical conduct", "morally unethical", "unethical business"]
+  },
+  "contra": {
+    "vi": "ngược lại, trái với; hàng đổi hàng",
+    "coll": ["contra proferentem", "pro and contra", "a contra deal", "contra account", "contra entry"]
+  },
+  "stagnant": {
+    "vi": "trì trệ; tù đọng",
+    "coll": ["stagnant economy", "stagnant water", "stagnant wages", "remain stagnant", "stagnant growth"]
+  },
+  "illustrious": {
+    "vi": "lừng danh; hiển hách",
+    "coll": ["illustrious career", "illustrious history", "an illustrious figure", "illustrious predecessor", "illustrious guests"]
+  },
+  "gloom": {
+    "vi": "sự ảm đạm u ám; nỗi buồn nặng nề",
+    "coll": ["doom and gloom", "in the gloom", "economic gloom", "a sense of gloom", "the gathering gloom"]
+  },
+  "luncheon": {
+    "vi": "bữa trưa trang trọng",
+    "coll": ["a formal luncheon", "luncheon meat", "attend a luncheon", "charity luncheon", "luncheon guests"]
+  },
+  "bastion": {
+    "vi": "thành trì, pháo đài; pháo đài cuối cùng của",
+    "coll": ["the last bastion", "a bastion of freedom", "bastion of privilege", "male bastion", "bastion of tradition"]
+  },
+  "incidental": {
+    "vi": "phụ, đi kèm; ngẫu nhiên xảy ra",
+    "coll": ["incidental expenses", "incidental music", "incidental damage", "purely incidental", "incidental to the main"]
+  },
+  "shoreline": {
+    "vi": "đường bờ biển",
+    "coll": ["along the shoreline", "rocky shoreline", "shoreline erosion", "protect the shoreline", "miles of shoreline"]
+  },
+  "insurgency": {
+    "vi": "cuộc nổi dậy vũ trang",
+    "coll": ["armed insurgency", "crush the insurgency", "counter-insurgency", "a growing insurgency", "insurgency campaign"]
+  },
+  "encoded": {
+    "vi": "được mã hóa; hàm ý ngầm",
+    "coll": ["encoded message", "encoded data", "genetically encoded", "encoded in the DNA", "encoded signal"]
+  },
+  "extremism": {
+    "vi": "chủ nghĩa cực đoan",
+    "coll": ["religious extremism", "violent extremism", "combat extremism", "right-wing extremism", "the rise of extremism"]
+  },
+  "chunky": {
+    "vi": "to bản, dày cộp; lổn nhổn từng miếng",
+    "coll": ["chunky sweater", "chunky knit", "chunky soup", "chunky heels", "chunky pieces"]
+  },
+  "penthouse": {
+    "vi": "căn hộ áp mái sang trọng",
+    "coll": ["penthouse suite", "luxury penthouse", "penthouse apartment", "live in a penthouse", "rooftop penthouse"]
+  },
+  "prematurely": {
+    "vi": "quá sớm, non ngày tháng",
+    "coll": ["born prematurely", "die prematurely", "prematurely grey", "prematurely announce", "end prematurely"]
+  },
+  "sickening": {
+    "vi": "kinh tởm, phát buồn nôn",
+    "coll": ["a sickening sight", "sickening smell", "sickening violence", "sickening thud", "utterly sickening"]
+  },
+  "midterm": {
+    "vi": "giữa kỳ; kỳ thi giữa kỳ; bầu cử giữa nhiệm kỳ",
+    "coll": ["midterm elections", "midterm exam", "midterm results", "midterm review", "midterm break"]
+  },
+  "seamless": {
+    "vi": "liền mạch, trơn tru; không đường nối",
+    "coll": ["seamless transition", "seamless integration", "seamless experience", "seamless service", "virtually seamless"]
+  },
+  "analytic": {
+    "vi": "phân tích; có óc phân tích",
+    "coll": ["analytic approach", "analytic philosophy", "analytic skills", "analytic method", "analytic thinking"]
+  },
+  "cohesive": {
+    "vi": "gắn kết chặt chẽ; liền một khối",
+    "coll": ["cohesive team", "cohesive strategy", "a cohesive whole", "socially cohesive", "cohesive force"]
+  },
+  "kyrie": {
+    "vi": "kinh Kyrie ('Lạy Chúa xin thương xót')",
+    "coll": ["Kyrie eleison", "sing the Kyrie", "the Kyrie of the Mass", "Kyrie and Gloria"]
+  },
+  "latency": {
+    "vi": "độ trễ; trạng thái tiềm ẩn",
+    "coll": ["low latency", "network latency", "high latency", "latency period", "reduce latency"]
+  },
+  "attributable": {
+    "vi": "có thể quy cho, do bởi",
+    "coll": ["attributable to the change", "directly attributable", "largely attributable", "attributable risk", "deaths attributable to"]
+  },
+  "unanswered": {
+    "vi": "chưa có lời đáp; bị bỏ lửng",
+    "coll": ["unanswered questions", "go unanswered", "unanswered prayers", "left unanswered", "unanswered calls"]
+  },
+  "memorabilia": {
+    "vi": "đồ lưu niệm, kỷ vật sưu tầm",
+    "coll": ["sports memorabilia", "collect memorabilia", "rock memorabilia", "war memorabilia", "signed memorabilia"]
+  },
+  "resurgence": {
+    "vi": "sự trỗi dậy trở lại",
+    "coll": ["a resurgence of interest", "resurgence in popularity", "recent resurgence", "resurgence of the virus", "see a resurgence"]
+  },
+  "midtown": {
+    "vi": "khu giữa thành phố",
+    "coll": ["midtown Manhattan", "midtown office", "in midtown", "midtown hotel", "midtown traffic"]
+  },
+  "smackdown": {
+    "vi": "cú hạ đo ván; màn dập tơi bời",
+    "coll": ["deliver a smackdown", "a legal smackdown", "give him a smackdown", "verbal smackdown"]
+  },
+  "complication": {
+    "vi": "biến chứng; rắc rối phát sinh",
+    "coll": ["serious complications", "medical complications", "further complications", "complications arose", "avoid complications"]
+  },
+  "fracking": {
+    "vi": "kỹ thuật nứt vỉa thủy lực (khai thác khí đá phiến)",
+    "coll": ["ban fracking", "fracking site", "anti-fracking protest", "shale gas fracking", "fracking industry"]
+  },
+  "disperse": {
+    "vi": "giải tán, tản ra; phát tán",
+    "coll": ["disperse the crowd", "the crowd dispersed", "disperse seeds", "widely dispersed", "disperse quickly"]
+  },
+  "depressive": {
+    "vi": "trầm cảm; gây u uất",
+    "coll": ["depressive disorder", "depressive episode", "manic depressive", "depressive symptoms", "depressive illness"]
+  },
+  "beige": {
+    "vi": "màu be, màu nâu nhạt",
+    "coll": ["beige walls", "a beige carpet", "pale beige", "beige colour", "beige trousers"]
+  },
+  "zipper": {
+    "vi": "khóa kéo, phéc-mơ-tuya",
+    "coll": ["zipper pocket", "undo the zipper", "broken zipper", "zipper pull", "zip up the zipper"]
+  },
+  "adjunct": {
+    "vi": "phần bổ trợ; giảng viên thỉnh giảng; trạng ngữ",
+    "coll": ["adjunct professor", "a useful adjunct", "adjunct therapy", "adjunct faculty", "adjunct to the treatment"]
+  },
+  "hallelujah": {
+    "vi": "Hallelujah! (ngợi khen Chúa); tiếng reo mừng",
+    "coll": ["sing hallelujah", "Hallelujah Chorus", "shout hallelujah", "a hallelujah moment"]
+  },
+  "waffle": {
+    "vi": "bánh waffle; nói lan man dài dòng",
+    "coll": ["Belgian waffle", "waffle iron", "waffle on about", "political waffle", "waffle maker"]
+  },
+  "sonar": {
+    "vi": "sóng định vị dưới nước, thiết bị sonar",
+    "coll": ["sonar system", "sonar image", "detect by sonar", "active sonar", "sonar equipment"]
+  },
+  "toxin": {
+    "vi": "độc tố",
+    "coll": ["bacterial toxin", "remove toxins", "toxin levels", "environmental toxins", "botulinum toxin"]
+  },
+  "latte": {
+    "vi": "cà phê latte",
+    "coll": ["a skinny latte", "order a latte", "latte art", "pumpkin spice latte", "iced latte"]
+  },
+  "boar": {
+    "vi": "lợn rừng; lợn đực",
+    "coll": ["wild boar", "boar hunting", "boar meat", "a young boar", "boar tusks"]
+  },
+  "leafy": {
+    "vi": "nhiều lá, rợp bóng cây",
+    "coll": ["leafy greens", "leafy suburb", "leafy vegetables", "leafy street", "leafy canopy"]
+  },
+  "carnage": {
+    "vi": "cảnh tàn sát đẫm máu",
+    "coll": ["scenes of carnage", "utter carnage", "the carnage of war", "cause carnage", "bloody carnage"]
+  },
+  "veg": {
+    "vi": "rau (nói tắt); nằm ườn thư giãn",
+    "coll": ["meat and two veg", "fresh veg", "green veg", "veg out", "frozen veg"]
+  },
+  "unequal": {
+    "vi": "không ngang bằng; bất bình đẳng",
+    "coll": ["unequal treatment", "unequal distribution", "unequal pay", "grossly unequal", "unequal to the task"]
+  },
+  "reaper": {
+    "vi": "thần chết (Grim Reaper); máy gặt",
+    "coll": ["the Grim Reaper", "mechanical reaper", "the reaper comes", "reaper drone", "harvest reaper"]
+  },
+  "descendant": {
+    "vi": "hậu duệ, con cháu; bắt nguồn từ",
+    "coll": ["a direct descendant", "descendants of immigrants", "living descendants", "descendant of the family", "distant descendant"]
+  },
+  "considerate": {
+    "vi": "chu đáo, biết nghĩ cho người khác",
+    "coll": ["considerate of others", "very considerate", "considerate behaviour", "a considerate host", "kind and considerate"]
+  },
+  "omission": {
+    "vi": "sự bỏ sót; điều thiếu sót",
+    "coll": ["a glaring omission", "errors and omissions", "the omission of details", "notable omission", "sin of omission"]
+  },
+  "piggy": {
+    "vi": "chú heo con; tham ăn tục uống",
+    "coll": ["piggy bank", "piggyback ride", "piggy eyes", "this little piggy", "don't be piggy"]
+  },
+  "lobe": {
+    "vi": "thùy (não, phổi); dái tai",
+    "coll": ["frontal lobe", "ear lobe", "temporal lobe", "lobe of the lung", "occipital lobe"]
+  },
+  "fermentation": {
+    "vi": "sự lên men",
+    "coll": ["the fermentation process", "alcoholic fermentation", "natural fermentation", "fermentation tank", "during fermentation"]
+  },
+  "starch": {
+    "vi": "tinh bột; hồ vải; hồ cứng",
+    "coll": ["corn starch", "starch content", "potato starch", "starch the collar", "reduce starch intake"]
+  },
+  "typo": {
+    "vi": "lỗi đánh máy",
+    "coll": ["a typo in the email", "spot a typo", "fix the typo", "a simple typo", "full of typos"]
+  },
+  "taper": {
+    "vi": "thu nhỏ dần, vuốt nhọn; nến mảnh",
+    "coll": ["taper off", "taper down", "tapered trousers", "taper the dose", "gradually taper"]
+  },
+  "surfer": {
+    "vi": "người lướt sóng; người lướt web",
+    "coll": ["a keen surfer", "professional surfer", "big-wave surfer", "web surfer", "surfer dude"]
+  },
+  "periphery": {
+    "vi": "vùng ngoại vi, rìa ngoài",
+    "coll": ["on the periphery", "the periphery of the city", "at the periphery of vision", "outer periphery", "pushed to the periphery"]
+  },
+  "pedophile": {
+    "vi": "kẻ ấu dâm",
+    "coll": ["convicted pedophile", "pedophile ring", "a suspected pedophile", "pedophile network", "expose a pedophile"]
+  },
+  "blasphemy": {
+    "vi": "sự báng bổ thần thánh",
+    "coll": ["commit blasphemy", "blasphemy laws", "accused of blasphemy", "sheer blasphemy", "charges of blasphemy"]
+  },
+  "prelude": {
+    "vi": "khúc dạo đầu; điềm báo mở màn",
+    "coll": ["a prelude to war", "as a prelude to", "piano prelude", "prelude and fugue", "the prelude to the crisis"]
+  },
+  "remnant": {
+    "vi": "phần còn sót lại; tàn tích",
+    "coll": ["the last remnants", "remnants of the empire", "remnants of the meal", "a remnant of cloth", "remnants of the storm"]
+  },
+  "exponentially": {
+    "vi": "theo cấp số nhân; tăng vọt",
+    "coll": ["grow exponentially", "increase exponentially", "rise exponentially", "expand exponentially", "exponentially more"]
+  },
+  "ballpark": {
+    "vi": "sân bóng chày; ước chừng, áng chừng",
+    "coll": ["a ballpark figure", "in the right ballpark", "ballpark estimate", "at the ballpark", "ballpark number"]
+  },
+  "stabilization": {
+    "vi": "sự ổn định hóa; việc bình ổn",
+    "coll": ["price stabilization", "economic stabilization", "image stabilization", "stabilization programme", "stabilization of the patient"]
+  },
+  "taj": {
+    "vi": "mũ chóp cao kiểu Hồi giáo; vương miện Ấn Độ",
+    "coll": ["the Taj Mahal", "a jewelled taj", "royal taj", "wear a taj"]
+  },
+  "commune": {
+    "vi": "công xã, cộng đồng sống chung; giao cảm với",
+    "coll": ["live in a commune", "hippie commune", "commune with nature", "rural commune", "the Paris Commune"]
+  },
+  "hurtful": {
+    "vi": "làm tổn thương; gây đau lòng",
+    "coll": ["hurtful comments", "hurtful words", "deeply hurtful", "hurtful remarks", "hurtful behaviour"]
+  },
+  "peptide": {
+    "vi": "peptide (chuỗi axit amin)",
+    "coll": ["peptide bond", "peptide chain", "peptide hormone", "synthetic peptide", "peptide sequence"]
+  },
+  "gilded": {
+    "vi": "mạ vàng; hào nhoáng bề ngoài",
+    "coll": ["gilded frame", "the Gilded Age", "gilded cage", "gilded ceiling", "gilded youth"]
+  },
+  "epidemiology": {
+    "vi": "dịch tễ học",
+    "coll": ["study epidemiology", "the epidemiology of the disease", "clinical epidemiology", "epidemiology data", "professor of epidemiology"]
+  },
+  "inaccessible": {
+    "vi": "khó tiếp cận; không vào được",
+    "coll": ["inaccessible to the public", "remote and inaccessible", "inaccessible areas", "largely inaccessible", "inaccessible website"]
+  },
+  "inferno": {
+    "vi": "biển lửa; chốn địa ngục",
+    "coll": ["a raging inferno", "blazing inferno", "the towering inferno", "escape the inferno", "fiery inferno"]
+  },
+  "satanic": {
+    "vi": "ma quỷ, thuộc Satan; tàn ác quỷ quyệt",
+    "coll": ["satanic ritual", "satanic cult", "satanic verses", "satanic forces", "satanic imagery"]
+  },
+  "sclerosis": {
+    "vi": "chứng xơ cứng",
+    "coll": ["multiple sclerosis", "arterial sclerosis", "suffer from sclerosis", "sclerosis of the liver", "institutional sclerosis"]
+  },
+  "gastric": {
+    "vi": "thuộc dạ dày",
+    "coll": ["gastric acid", "gastric ulcer", "gastric bypass", "gastric juices", "gastric problems"]
+  },
+  "prepaid": {
+    "vi": "trả trước; khoản trả trước",
+    "coll": ["prepaid card", "prepaid phone", "prepaid expenses", "prepaid envelope", "prepaid plan"]
+  },
+  "fruitful": {
+    "vi": "hiệu quả, đơm hoa kết trái",
+    "coll": ["fruitful discussion", "a fruitful career", "fruitful collaboration", "prove fruitful", "fruitful relationship"]
+  },
+  "conclusive": {
+    "vi": "có tính quyết định, dứt điểm",
+    "coll": ["conclusive evidence", "conclusive proof", "conclusive results", "far from conclusive", "conclusive answer"]
+  },
+  "unspecified": {
+    "vi": "không nêu rõ; chưa xác định",
+    "coll": ["an unspecified amount", "unspecified reasons", "unspecified date", "unspecified injuries", "for an unspecified period"]
+  },
+  "meddling": {
+    "vi": "sự can thiệp xen vào; hay xía vào",
+    "coll": ["political meddling", "foreign meddling", "meddling in affairs", "constant meddling", "meddling kids"]
+  },
+  "horizontally": {
+    "vi": "theo chiều ngang",
+    "coll": ["move horizontally", "lie horizontally", "scroll horizontally", "horizontally aligned", "horizontally integrated"]
+  },
+  "daycare": {
+    "vi": "dịch vụ trông trẻ ban ngày",
+    "coll": ["daycare centre", "daycare provider", "put in daycare", "affordable daycare", "daycare worker"]
+  },
+  "disproportionately": {
+    "vi": "một cách chênh lệch quá mức",
+    "coll": ["disproportionately affected", "disproportionately high", "disproportionately large", "disproportionately represented", "disproportionately low"]
+  },
+  "exhaustive": {
+    "vi": "đầy đủ toàn diện, vét cạn",
+    "coll": ["exhaustive list", "exhaustive search", "exhaustive study", "not exhaustive", "exhaustive analysis"]
+  },
+  "predetermined": {
+    "vi": "định sẵn từ trước",
+    "coll": ["predetermined outcome", "predetermined price", "predetermined criteria", "a predetermined time", "predetermined route"]
+  },
+  "unresolved": {
+    "vi": "chưa giải quyết; còn bỏ ngỏ",
+    "coll": ["unresolved issues", "remain unresolved", "unresolved conflict", "unresolved questions", "unresolved dispute"]
+  },
+  "externally": {
+    "vi": "từ bên ngoài; về mặt đối ngoại",
+    "coll": ["externally funded", "apply externally", "externally sourced", "externally visible", "externally imposed"]
+  },
+  "punishable": {
+    "vi": "có thể bị trừng phạt",
+    "coll": ["punishable by law", "punishable offence", "punishable by death", "punishable by a fine", "criminally punishable"]
+  },
+  "polarized": {
+    "vi": "phân cực; chia rẽ hai cực",
+    "coll": ["polarized opinion", "polarized society", "deeply polarized", "polarized light", "polarized debate"]
+  },
+  "winery": {
+    "vi": "xưởng làm rượu vang; nhà máy rượu vang",
+    "coll": ["visit a winery", "boutique winery", "winery tour", "local winery", "family-run winery"]
+  },
+  "cameraman": {
+    "vi": "người quay phim",
+    "coll": ["the cameraman filmed", "TV cameraman", "freelance cameraman", "chief cameraman", "cameraman and sound engineer"]
+  },
+  "brigadier": {
+    "vi": "chuẩn tướng, lữ đoàn trưởng",
+    "coll": ["brigadier general", "retired brigadier", "the brigadier ordered", "promoted to brigadier", "brigadier in command"]
+  },
+  "fiasco": {
+    "vi": "vụ thất bại thảm hại",
+    "coll": ["a complete fiasco", "turn into a fiasco", "the whole fiasco", "political fiasco", "an embarrassing fiasco"]
+  },
+  "rockstar": {
+    "vi": "ngôi sao nhạc rock; nhân vật cực xuất sắc",
+    "coll": ["a rockstar performance", "rockstar status", "like a rockstar", "rockstar developer", "treated like a rockstar"]
+  },
+  "cryptocurrency": {
+    "vi": "tiền mã hóa, tiền điện tử",
+    "coll": ["cryptocurrency exchange", "invest in cryptocurrency", "cryptocurrency market", "cryptocurrency mining", "cryptocurrency wallet"]
+  },
+  "denote": {
+    "vi": "biểu thị, chỉ; có nghĩa là",
+    "coll": ["denote a change", "the symbol denotes", "denote ownership", "used to denote", "denote the beginning"]
+  },
+  "perch": {
+    "vi": "đậu, ngồi vắt vẻo; chỗ đậu cao; cá rô",
+    "coll": ["perch on the edge", "a bird perched", "perched on a branch", "high perch", "perch on a stool"]
+  },
+  "clinch": {
+    "vi": "chốt hạ, giành chắc; ôm ghì",
+    "coll": ["clinch the deal", "clinch victory", "clinch the title", "clinch a contract", "clinch first place"]
+  },
+  "recourse": {
+    "vi": "sự viện đến, cách cầu cứu",
+    "coll": ["have recourse to", "without recourse", "legal recourse", "the only recourse", "recourse to violence"]
+  },
+  "collide": {
+    "vi": "va chạm, đâm vào nhau; xung đột",
+    "coll": ["collide with a truck", "the cars collided", "collide head-on", "worlds collide", "collide violently"]
+  }
+}

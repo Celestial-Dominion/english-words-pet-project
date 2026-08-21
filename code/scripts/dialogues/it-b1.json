@@ -1,0 +1,135 @@
+[
+ {
+  "id": "dlg-it-standup",
+  "level": 1,
+  "topic": "it",
+  "title_en": "Daily standup update",
+  "title_vi": "Cập nhật ở buổi standup sáng",
+  "speakers": ["David", "Minh"],
+  "turns": [
+   { "sp": 0, "en": "Good morning, Minh. What did you do yesterday?", "vi": "Chào buổi sáng, Minh. Hôm qua anh làm gì?" },
+   { "sp": 1, "en": "I finished the login page and fixed one bug.", "vi": "Tôi làm xong trang login và sửa một bug." },
+   { "sp": 0, "en": "Nice. Is the bug ticket closed now?", "vi": "Tốt. Ticket của bug đó đóng chưa?" },
+   { "sp": 1, "en": "Yes, I closed it last night.", "vi": "Rồi, tôi đóng tối qua rồi." },
+   { "sp": 0, "en": "Great. What is your plan for today?", "vi": "Tuyệt. Hôm nay anh định làm gì?" },
+   { "sp": 1, "en": "I will start the search feature.", "vi": "Tôi sẽ bắt đầu làm tính năng tìm kiếm." },
+   { "sp": 0, "en": "Do you have any blockers?", "vi": "Anh có vướng gì không?" },
+   { "sp": 1, "en": "Yes, I need access to the test server.", "vi": "Có, tôi cần quyền vào server test." },
+   { "sp": 0, "en": "I will ask the IT team after this meeting.", "vi": "Họp xong tôi sẽ hỏi đội IT." },
+   { "sp": 1, "en": "Thanks. Then I can test my code today.", "vi": "Cảm ơn anh. Vậy hôm nay tôi test code được rồi." },
+   { "sp": 0, "en": "Good. See you tomorrow, same time.", "vi": "Tốt. Hẹn mai gặp lại, vẫn giờ này nhé." },
+   { "sp": 1, "en": "Sure. Have a good day.", "vi": "Được. Chúc anh một ngày tốt lành." }
+  ]
+ },
+ {
+  "id": "dlg-it-new-laptop",
+  "level": 1,
+  "topic": "it",
+  "title_en": "Setting up a new laptop",
+  "title_vi": "Cài máy mới ngày đầu đi làm",
+  "speakers": ["Lan", "Ryan"],
+  "turns": [
+   { "sp": 0, "en": "Hi, I'm Lan. Today is my first day.", "vi": "Chào anh, em là Lan. Hôm nay là ngày đầu em đi làm." },
+   { "sp": 1, "en": "Welcome! I'm Ryan from the IT team.", "vi": "Chào mừng em! Anh là Ryan bên đội IT." },
+   { "sp": 0, "en": "Thank you. Can you help me set up my laptop?", "vi": "Em cảm ơn. Anh giúp em cài máy được không ạ?" },
+   { "sp": 1, "en": "Sure. First, let's connect to the wifi.", "vi": "Được chứ. Đầu tiên mình kết nối wifi đã." },
+   { "sp": 0, "en": "What is the wifi password?", "vi": "Mật khẩu wifi là gì ạ?" },
+   { "sp": 1, "en": "It's on this card. Type it slowly.", "vi": "Nó ghi trên tấm thẻ này. Em gõ từ từ thôi." },
+   { "sp": 0, "en": "Okay, I'm connected now. What's next?", "vi": "Vâng, em vào mạng được rồi. Tiếp theo là gì ạ?" },
+   { "sp": 1, "en": "Open your email and change your password.", "vi": "Em mở email lên rồi đổi mật khẩu đi." },
+   { "sp": 0, "en": "Done. Do I need any other software?", "vi": "Xong rồi ạ. Em có cần cài thêm phần mềm gì không?" },
+   { "sp": 1, "en": "Yes, install the chat app from this link.", "vi": "Có, em cài app chat theo link này nhé." },
+   { "sp": 0, "en": "Great. Thank you so much for your help.", "vi": "Tuyệt. Em cảm ơn anh nhiều ạ." },
+   { "sp": 1, "en": "No problem. Call me if anything breaks.", "vi": "Không có gì. Máy có trục trặc gì thì gọi anh nhé." }
+  ]
+ },
+ {
+  "id": "dlg-it-simple-bug",
+  "level": 1,
+  "topic": "it",
+  "title_en": "Reporting a small bug",
+  "title_vi": "Báo một bug nhỏ",
+  "speakers": ["Hùng", "Jenny"],
+  "turns": [
+   { "sp": 1, "en": "Hey, I found a bug on the signup page.", "vi": "Này anh, tôi thấy một bug ở trang đăng ký." },
+   { "sp": 0, "en": "Oh no. What happens exactly?", "vi": "Ôi không. Chính xác là nó bị làm sao?" },
+   { "sp": 1, "en": "The save button does not work on my phone.", "vi": "Nút lưu không bấm được trên điện thoại của tôi." },
+   { "sp": 0, "en": "Which phone do you use?", "vi": "Chị dùng điện thoại gì?" },
+   { "sp": 1, "en": "An iPhone. The button looks grey.", "vi": "iPhone. Cái nút nhìn cứ xám xám." },
+   { "sp": 0, "en": "Does it work on your computer?", "vi": "Trên máy tính thì có bấm được không?" },
+   { "sp": 1, "en": "Yes, it works fine there.", "vi": "Có, trên đó chạy bình thường." },
+   { "sp": 0, "en": "Okay, can you send me a screenshot?", "vi": "Được rồi, chị gửi tôi ảnh chụp màn hình nhé?" },
+   { "sp": 1, "en": "Sure, and I will create a ticket too.", "vi": "Ừ, tôi sẽ tạo ticket luôn." },
+   { "sp": 0, "en": "Thanks. I will look at it after lunch.", "vi": "Cảm ơn chị. Ăn trưa xong tôi xem ngay." },
+   { "sp": 1, "en": "Great. Tell me when I can test it again.", "vi": "Tốt. Khi nào test lại được thì báo tôi nhé." },
+   { "sp": 0, "en": "I will. It should be done today.", "vi": "Chắc chắn rồi. Trong hôm nay là xong thôi." }
+  ]
+ },
+ {
+  "id": "dlg-it-internal-tool",
+  "level": 1,
+  "topic": "it",
+  "title_en": "Asking about the timesheet tool",
+  "title_vi": "Hỏi cách dùng phần mềm nội bộ",
+  "speakers": ["Thảo", "Mike"],
+  "turns": [
+   { "sp": 0, "en": "Mike, do you have a minute?", "vi": "Anh Mike ơi, anh rảnh một chút không?" },
+   { "sp": 1, "en": "Sure. What do you need?", "vi": "Rảnh chứ. Em cần gì?" },
+   { "sp": 0, "en": "How do I log my hours in the system?", "vi": "Em khai giờ làm trong hệ thống kiểu gì ạ?" },
+   { "sp": 1, "en": "Open the HR portal and click Timesheet.", "vi": "Em mở cổng HR rồi bấm vào mục Timesheet." },
+   { "sp": 0, "en": "I see it. Which project do I choose?", "vi": "Em thấy rồi. Em chọn dự án nào ạ?" },
+   { "sp": 1, "en": "Choose Project Alpha for this month.", "vi": "Tháng này em chọn Project Alpha nhé." },
+   { "sp": 0, "en": "Okay. Do I save it every day?", "vi": "Vâng. Ngày nào em cũng phải lưu ạ?" },
+   { "sp": 1, "en": "Yes, and submit it every Friday.", "vi": "Ừ, và thứ Sáu hằng tuần thì bấm gửi." },
+   { "sp": 0, "en": "What if I make a mistake?", "vi": "Lỡ em nhập sai thì sao ạ?" },
+   { "sp": 1, "en": "You can edit it before you submit.", "vi": "Trước khi gửi thì em sửa được." },
+   { "sp": 0, "en": "Got it. Thank you for your help.", "vi": "Em hiểu rồi. Em cảm ơn anh ạ." },
+   { "sp": 1, "en": "Anytime. Ask me if you get stuck.", "vi": "Có gì đâu. Vướng chỗ nào cứ hỏi anh." }
+  ]
+ },
+ {
+  "id": "dlg-it-deploy-cover",
+  "level": 1,
+  "topic": "it",
+  "title_en": "Asking someone to cover a deploy",
+  "title_vi": "Nhờ trực deploy giúp một buổi",
+  "speakers": ["Quân", "Lisa"],
+  "turns": [
+   { "sp": 0, "en": "Lisa, are you free on Thursday night?", "vi": "Lisa ơi, tối thứ Năm chị có rảnh không?" },
+   { "sp": 1, "en": "I think so. Why do you ask?", "vi": "Chắc là rảnh. Sao anh hỏi vậy?" },
+   { "sp": 0, "en": "I have the deploy shift, but my son is sick.", "vi": "Tôi có ca trực deploy, nhưng con trai tôi bị ốm." },
+   { "sp": 1, "en": "Oh, I'm sorry. Is it serious?", "vi": "Ôi, khổ thân. Cháu có bị nặng không?" },
+   { "sp": 0, "en": "Just a fever, but I want to stay home.", "vi": "Chỉ sốt thôi, nhưng tôi muốn ở nhà với cháu." },
+   { "sp": 1, "en": "Of course. I can cover the deploy for you.", "vi": "Phải thế chứ. Tôi trực deploy thay anh được." },
+   { "sp": 0, "en": "Thank you. It starts at nine in the evening.", "vi": "Cảm ơn chị. Ca bắt đầu lúc chín giờ tối." },
+   { "sp": 1, "en": "Okay. Is the checklist ready?", "vi": "Được. Checklist có sẵn chưa?" },
+   { "sp": 0, "en": "Yes, it's in the team folder.", "vi": "Rồi, nó nằm trong thư mục của team." },
+   { "sp": 1, "en": "Good. Who do I call if something fails?", "vi": "Tốt. Nếu có gì hỏng thì tôi gọi ai?" },
+   { "sp": 0, "en": "Call Nam. He knows how to rollback.", "vi": "Chị gọi Nam. Cậu ấy biết cách rollback." },
+   { "sp": 1, "en": "Perfect. Take care of your son.", "vi": "Chuẩn rồi. Anh chăm cháu cho tốt nhé." },
+   { "sp": 0, "en": "I owe you one. Thanks again, Lisa.", "vi": "Tôi nợ chị một lần. Cảm ơn chị lần nữa nhé." }
+  ]
+ },
+ {
+  "id": "dlg-it-meet-team",
+  "level": 1,
+  "topic": "it",
+  "title_en": "First day on the dev team",
+  "title_vi": "Ngày đầu vào team dev",
+  "speakers": ["Sam", "Ngọc"],
+  "turns": [
+   { "sp": 0, "en": "Hi, welcome to the team. I'm Sam.", "vi": "Chào em, chào mừng vào team. Anh là Sam." },
+   { "sp": 1, "en": "Hi Sam. I'm Ngoc, the new developer.", "vi": "Chào anh Sam. Em là Ngọc, developer mới ạ." },
+   { "sp": 0, "en": "Did you build mobile apps before?", "vi": "Trước đây em làm app mobile chưa?" },
+   { "sp": 1, "en": "Yes, I wrote Android apps for two years.", "vi": "Rồi ạ, em viết app Android được hai năm." },
+   { "sp": 0, "en": "Great. Our team builds the payment app.", "vi": "Tốt quá. Team mình làm app thanh toán." },
+   { "sp": 1, "en": "Which language do you use here?", "vi": "Ở đây mình dùng ngôn ngữ gì ạ?" },
+   { "sp": 0, "en": "Mostly Kotlin, with a little Java.", "vi": "Chủ yếu Kotlin, có một ít Java." },
+   { "sp": 1, "en": "Good. I know both of them.", "vi": "May quá. Cả hai em đều biết ạ." },
+   { "sp": 0, "en": "Nice. First, clone the code from GitLab.", "vi": "Hay đấy. Đầu tiên, em clone code từ GitLab về." },
+   { "sp": 1, "en": "Okay. Where can I find the setup guide?", "vi": "Vâng. Em tìm hướng dẫn cài đặt ở đâu ạ?" },
+   { "sp": 0, "en": "There is a readme file in the repo.", "vi": "Trong repo có file readme đó em." },
+   { "sp": 1, "en": "Thank you. I will read it now.", "vi": "Em cảm ơn anh. Em đọc ngay đây ạ." }
+  ]
+ }
+]

@@ -1,0 +1,155 @@
+[
+ {
+  "id": "wiki-gnu-hurd",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/GNU_Hurd",
+  "title_en": "GNU Hurd",
+  "sentences": [
+   "GNU Hurd is a multiserver kernel with the goal of providing users with as much freedom to do as they wish with the GNU operating system as possible.",
+   "It was initially intended to provide a free alternative to Unix (GNU stands for GNU's Not Unix).",
+   "The Hurd was the intended implementation of the GNU operating system before Linux became the kernel of choice for GNU users.",
+   "The current goal of the Hurd project is: [T]o create a general-purpose kernel suitable for the GNU operating system, which is viable for everyday use, and gives users and programs as much control over their computing environment as possible.",
+   "The Hurd kernel consists of a microkernel that provides basic kernel services and a collection (or herd) of servers / daemons that provided services that are beyond basic.",
+   "This design was meant to provide developers with freedom that Unix and other Unix-like operating systems did not.",
+   "For example, this design allows developers to program servers in languages other than the one used by the kernel.",
+   "GNU Mach currently is the microkernel being used in the Hurd.",
+   "Richard Stallman created the GNU project in 1983 and founded the Free Software Foundation (FSF) in 1985 in order to fund and promote the development of free software and GNU.",
+   "By the early 1990's, the GNU toolchain and other components besides the kernel were completed.",
+   "Work began the Hurd in 1990.",
+   "Stallman decided to use Carnegie Mellon University's Mach microkernel as the basis for the Hurd microkernel.",
+   "In 1991, Linus Torvalds released the Linux kernel, and free software enthusiasts ported GNU's completed components to the Linux kernel in order to create GNU/Linux.",
+   "NetBSD and FreeBSD were released a couple of years later, yet the Hurd was not in a functional state.",
+   "Due to the presence of functioning alternatives, interest in the Hurd waned.",
+   "As the FSF moved away from GNU development and more towards free software activism, Debian became more involved in the Hurd's development."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-pubmed",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/PubMed",
+  "title_en": "PubMed",
+  "sentences": [
+   "PubMed is a free online database of references on life sciences.",
+   "It was established in January 1996.",
+   "The United States National Library of Medicine (NLM) at the National Institutes of Health (NIH) maintains the database.",
+   "Each record in the PubMed database is assigned a special number to identify it.",
+   "This is the PMID, an acronym for \"PubMed IDentifier\" number.",
+   "PMIDs do not change over time and they are never reused.",
+   "Any PMID is only a number.",
+   "The PMID tells the reader nothing about the type or quality of the content of any publication."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-cellular-automaton",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Cellular_automaton",
+  "title_en": "Cellular automaton",
+  "sentences": [
+   "A cellular automaton is a model used in computer science and mathematics.",
+   "The idea is to model a dynamic system by using a number of cells.",
+   "Each cell has one of many possible states.",
+   "With each \"turn\" or iteration the state of the current cell is determined by two things: its current state, and the states of the neighbouring cells.",
+   "A very famous example of a cellular automaton is Conway's Game of Life.",
+   "Stanislaw Ulam and John von Neumann first described cellular automata in the 1940s.",
+   "Conway's Game of Life was first shown in the 1970s."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-encyclopedia-dramatica",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Encyclopedia_Dramatica",
+  "title_en": "Encyclopedia Dramatica",
+  "sentences": [
+   "Encyclopædia Dramatica (ED) is a website that stores mostly articles that make fun of people or things.",
+   "The pages satirize current events, and many events on the internet.",
+   "Encyclopædia Dramatica has been described as a \"snarky (sarcastic and nasty) Wikipedia anti-fansite\".",
+   "The site is a wiki that runs on MediaWiki software.",
+   "The site often shows its content in a disrespectful way and often abusive style.",
+   "Many articles are written in a satirical way to upset those who take the content seriously."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-internet-caf",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Internet_caf%C3%A9",
+  "title_en": "Internet café",
+  "sentences": [
+   "An Internet café (also called a Cybercafé) is a type of café.",
+   "It is a business that provides Internet access to the public, usually for a fee.",
+   "It also sells coffee and food.",
+   "Internet cafés were introduced in the 1990s.",
+   "The spread of modern-style cafés to many places, urban and rural, went hand in hand with computers.",
+   "Many Internet cafés offer wireless Internet or have computers customers can use.",
+   "They also offer telephones and newspapers.",
+   "Internet café users need to be aware they have less security than most private networks.",
+   "They are also more exposed to malicious software, also called 'malware'."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-hybrid-drive",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Hybrid_drive",
+  "title_en": "Hybrid drive",
+  "sentences": [
+   "A hybrid drive, also known as a hybrid hard drive (HHD) or solid-state hybrid drive (SSHD), is a type of large-capacity computer storage device that combines features of both hard disk drives (HDDs) and solid-state drives (SSDs).",
+   "The hybrid drive integrates these two technologies with the aim to offer a balance between speed, capacity, and cost.",
+   "It uses the SSD component to store frequently accessed data and the operating system, providing faster boot times and quicker data access for those files.",
+   "The HDD component, meanwhile, is used for storing less frequently accessed data.",
+   "By intelligently managing data between the SSD and HDD portions, a hybrid drive can offer much of the speed of an SSD while retaining the large storage capacity and cost-effectiveness of an HDD.",
+   "However, it's important to note that the performance of a hybrid drive would still be less than that of a pure SSD."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-xiaomi",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Xiaomi",
+  "title_en": "Xiaomi",
+  "sentences": [
+   "Xiaomi Corporation (; Chinese: 小米 [ɕjǎu.mì] ()) is a Chinese multinational electronics company founded in April 2010 and headquartered in Beijing.",
+   "Xiaomi makes and invests in smartphones, mobile apps, laptops, home appliances, bags, shoes, consumer electronics, and many other products.",
+   "Xiaomi is also the fourth company in the world after Apple, Samsung and Huawei to have self-developed mobile phone chip capabilities.",
+   "Xiaomi released its first smartphone in August 2011 and rapidly gained market share in China to become the country's largest smartphone company in 2014.",
+   "At the start of second quarter of 2018, Xiaomi was the world's fourth-largest smartphone manufacturer, leading in both the largest market, China, and the second-largest market, India.",
+   "Xiaomi later developed a wider range of consumer electronics, including a smart home (IoT) product ecosystem, which has connected more than 100 million smart devices and appliances.",
+   "Monthly active users (MAUs) of MIUI increased to 291.6 million in September 2019.",
+   "Xiaomi has 16,700 employees worldwide.",
+   "It has expanded to other markets including Greater China, Singapore, Japan, South Korea, Russia, South Africa and most countries and regions in Southeast Asia and Europe.",
+   "According to Forbes, Lei Jun, the founder and CEO, has an estimated net worth of US$12.5 billion.",
+   "Xiaomi is the world's 4th most valuable technology start-up after receiving US$1.1 billion funding from investors, making Xiaomi's valuation more than US$46 billion.",
+   "Ranked 468th, Xiaomi is the youngest company on Fortune Global 500 list for 2019.",
+   "In 2019, Xiaomi's mobile phone shipments reached 125 million units, ranking fourth globally since 2018.",
+   "The company has been listed on the Hong Kong Stock Exchange since 2018."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-os-2",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/OS%2F2",
+  "title_en": "OS/2",
+  "sentences": [
+   "OS/2 is an operating system that was originally made by a joint agreement between the Microsoft and IBM companies.",
+   "The name stands for \"Operating System/2\".",
+   "It was intended to replace MS-DOS and Microsoft Windows.",
+   "OS/2 was maintained by IBM until 2006.",
+   "IBM discontinued its support for OS/2 on 31 December 2006.",
+   "Since then, it has been updated, maintained and marketed under the name eComStation.",
+   "In 2015 it was announced that a new OEM distribution of OS/2 would be released that was to be called ArcaOS."
+  ],
+  "topic": "it"
+ }
+]

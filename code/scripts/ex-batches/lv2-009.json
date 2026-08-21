@@ -1,0 +1,832 @@
+[
+ {
+  "id": "genre",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thể loại; dòng (nhạc, phim)",
+  "coll": [
+   "musical genre",
+   "literary genre",
+   "film genre",
+   "genre fiction"
+  ]
+ },
+ {
+  "id": "lease",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hợp đồng thuê; cho thuê dài hạn; thuê (theo hợp đồng)",
+  "coll": [
+   "sign a lease",
+   "renew the lease",
+   "lease agreement",
+   "long-term lease",
+   "a new lease of life"
+  ]
+ },
+ {
+  "id": "revolutionary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mang tính cách mạng; đột phá; nhà cách mạng",
+  "coll": [
+   "revolutionary idea",
+   "revolutionary change",
+   "revolutionary technology",
+   "revolutionary leader"
+  ]
+ },
+ {
+  "id": "scandal",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vụ bê bối; tai tiếng",
+  "coll": [
+   "corruption scandal",
+   "political scandal",
+   "cause a scandal",
+   "financial scandal"
+  ]
+ },
+ {
+  "id": "surveillance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giám sát; sự theo dõi",
+  "coll": [
+   "under surveillance",
+   "video surveillance",
+   "surveillance camera",
+   "mass surveillance"
+  ]
+ },
+ {
+  "id": "testimony",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời khai; lời chứng; bằng chứng",
+  "coll": [
+   "give testimony",
+   "sworn testimony",
+   "expert testimony",
+   "testimony in court"
+  ]
+ },
+ {
+  "id": "trophy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cúp; chiếc cúp vô địch; chiến lợi phẩm",
+  "coll": [
+   "win a trophy",
+   "lift the trophy",
+   "trophy cabinet",
+   "trophy wife"
+  ]
+ },
+ {
+  "id": "well-balanced",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cân đối; hài hòa; điềm đạm",
+  "coll": [
+   "well-balanced diet",
+   "well-balanced meal",
+   "well-balanced person",
+   "well-balanced approach"
+  ]
+ },
+ {
+  "id": "ash",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tro; tàn tro; cây tần bì",
+  "coll": [
+   "volcanic ash",
+   "cigarette ash",
+   "reduced to ashes",
+   "ash tray"
+  ]
+ },
+ {
+  "id": "embrace",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ôm; đón nhận; cái ôm",
+  "coll": [
+   "embrace change",
+   "warm embrace",
+   "embrace a new idea",
+   "embrace her tightly"
+  ]
+ },
+ {
+  "id": "exhibit",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "trưng bày; bộc lộ; vật trưng bày",
+  "coll": [
+   "exhibit paintings",
+   "exhibit symptoms",
+   "museum exhibit",
+   "exhibit at a show"
+  ]
+ },
+ {
+  "id": "icon",
+  "pos": [
+   "n"
+  ],
+  "vi": "biểu tượng; hình tượng; ảnh thánh",
+  "coll": [
+   "cultural icon",
+   "fashion icon",
+   "click the icon",
+   "religious icon"
+  ]
+ },
+ {
+  "id": "legislature",
+  "pos": [
+   "n"
+  ],
+  "vi": "cơ quan lập pháp; nghị viện",
+  "coll": [
+   "state legislature",
+   "national legislature",
+   "elected legislature",
+   "pass through the legislature"
+  ]
+ },
+ {
+  "id": "marathon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc chạy marathon; việc kéo dài liên tục",
+  "coll": [
+   "run a marathon",
+   "marathon runner",
+   "marathon session",
+   "half marathon"
+  ]
+ },
+ {
+  "id": "parade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc diễu hành; diễu hành; phô trương",
+  "coll": [
+   "military parade",
+   "hold a parade",
+   "parade through the streets",
+   "victory parade"
+  ]
+ },
+ {
+  "id": "preliminary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sơ bộ; ban đầu; vòng loại",
+  "coll": [
+   "preliminary results",
+   "preliminary report",
+   "preliminary investigation",
+   "preliminary round"
+  ]
+ },
+ {
+  "id": "presidency",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhiệm kỳ tổng thống; chức tổng thống",
+  "coll": [
+   "run for the presidency",
+   "during his presidency",
+   "assume the presidency",
+   "the US presidency"
+  ]
+ },
+ {
+  "id": "rocky",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nhiều đá; gập ghềnh; trắc trở",
+  "coll": [
+   "rocky road",
+   "rocky coastline",
+   "rocky relationship",
+   "rocky start"
+  ]
+ },
+ {
+  "id": "strictly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nghiêm ngặt; nghiêm khắc; nói cho đúng",
+  "coll": [
+   "strictly forbidden",
+   "strictly speaking",
+   "strictly confidential",
+   "strictly prohibited"
+  ]
+ },
+ {
+  "id": "yield",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "mang lại; nhượng bộ; sản lượng; năng suất",
+  "coll": [
+   "yield results",
+   "yield to pressure",
+   "crop yield",
+   "high yield",
+   "yield the right of way"
+  ]
+ },
+ {
+  "id": "barrier",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rào cản; hàng rào; trở ngại",
+  "coll": [
+   "language barrier",
+   "break down barriers",
+   "trade barrier",
+   "barrier to entry",
+   "crash barrier"
+  ]
+ },
+ {
+  "id": "medication",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuốc; dược phẩm; việc dùng thuốc",
+  "coll": [
+   "take medication",
+   "prescribed medication",
+   "pain medication",
+   "on medication"
+  ]
+ },
+ {
+  "id": "stake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cổ phần; cọc nhọn; tiền đặt cược",
+  "coll": [
+   "at stake",
+   "have a stake in",
+   "raise the stakes",
+   "majority stake",
+   "burned at the stake"
+  ]
+ },
+ {
+  "id": "swift",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "nhanh chóng; mau lẹ",
+  "coll": [
+   "swift response",
+   "swift action",
+   "swift decision",
+   "swift recovery"
+  ]
+ },
+ {
+  "id": "tackle",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "giải quyết; đối phó; truy cản; dụng cụ",
+  "coll": [
+   "tackle a problem",
+   "tackle the issue",
+   "tackle an opponent",
+   "fishing tackle",
+   "tackle crime"
+  ]
+ },
+ {
+  "id": "torture",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tra tấn; sự tra tấn; hành hạ",
+  "coll": [
+   "torture victims",
+   "under torture",
+   "torture chamber",
+   "psychological torture"
+  ]
+ },
+ {
+  "id": "addiction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nghiện; chứng nghiện",
+  "coll": [
+   "drug addiction",
+   "overcome addiction",
+   "alcohol addiction",
+   "addiction to gambling"
+  ]
+ },
+ {
+  "id": "beam",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chùm tia; xà ngang; cười rạng rỡ; chiếu (tia)",
+  "coll": [
+   "laser beam",
+   "a beam of light",
+   "steel beam",
+   "beam with pride",
+   "high beam"
+  ]
+ },
+ {
+  "id": "corrupt",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tham nhũng; đồi bại; làm hỏng (dữ liệu)",
+  "coll": [
+   "corrupt official",
+   "corrupt government",
+   "corrupt practices",
+   "corrupt file",
+   "deeply corrupt"
+  ]
+ },
+ {
+  "id": "inflation",
+  "pos": [
+   "n"
+  ],
+  "vi": "lạm phát; sự bơm phồng",
+  "coll": [
+   "rising inflation",
+   "inflation rate",
+   "curb inflation",
+   "high inflation"
+  ]
+ },
+ {
+  "id": "justify",
+  "pos": [
+   "v"
+  ],
+  "vi": "biện minh; chứng minh là đúng; căn lề",
+  "coll": [
+   "justify your actions",
+   "justify the cost",
+   "hard to justify",
+   "the end justifies the means"
+  ]
+ },
+ {
+  "id": "migration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự di cư; sự di trú; việc chuyển đổi",
+  "coll": [
+   "mass migration",
+   "bird migration",
+   "migration patterns",
+   "data migration"
+  ]
+ },
+ {
+  "id": "missile",
+  "pos": [
+   "n"
+  ],
+  "vi": "tên lửa; hỏa tiễn",
+  "coll": [
+   "ballistic missile",
+   "launch a missile",
+   "missile defence",
+   "guided missile"
+  ]
+ },
+ {
+  "id": "motivated",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "có động lực; hăng hái; bị thúc đẩy bởi",
+  "coll": [
+   "highly motivated",
+   "self-motivated",
+   "motivated by money",
+   "politically motivated"
+  ]
+ },
+ {
+  "id": "pearl",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngọc trai; hạt ngọc",
+  "coll": [
+   "a string of pearls",
+   "pearl necklace",
+   "pearl earrings",
+   "pearls of wisdom"
+  ]
+ },
+ {
+  "id": "peer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người ngang hàng; bạn đồng trang lứa; nhìn chăm chú",
+  "coll": [
+   "peer pressure",
+   "peer group",
+   "peer review",
+   "peer into the darkness"
+  ]
+ },
+ {
+  "id": "provision",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự cung cấp; điều khoản; lương thực dự trữ",
+  "coll": [
+   "provision of services",
+   "make provision for",
+   "under the provisions of",
+   "healthcare provision"
+  ]
+ },
+ {
+  "id": "tattoo",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hình xăm; xăm mình",
+  "coll": [
+   "get a tattoo",
+   "tattoo artist",
+   "tattoo parlour",
+   "cover up a tattoo"
+  ]
+ },
+ {
+  "id": "availability",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính sẵn có; sự sẵn sàng; khả năng đáp ứng",
+  "coll": [
+   "check availability",
+   "subject to availability",
+   "limited availability",
+   "availability of data"
+  ]
+ },
+ {
+  "id": "chancellor",
+  "pos": [
+   "n"
+  ],
+  "vi": "thủ tướng (Đức); hiệu trưởng; bộ trưởng tài chính (Anh)",
+  "coll": [
+   "German Chancellor",
+   "Chancellor of the Exchequer",
+   "vice chancellor",
+   "elect a chancellor"
+  ]
+ },
+ {
+  "id": "consciousness",
+  "pos": [
+   "n"
+  ],
+  "vi": "ý thức; sự tỉnh táo; nhận thức",
+  "coll": [
+   "lose consciousness",
+   "regain consciousness",
+   "stream of consciousness",
+   "social consciousness"
+  ]
+ },
+ {
+  "id": "consultant",
+  "pos": [
+   "n"
+  ],
+  "vi": "chuyên gia tư vấn; cố vấn; bác sĩ chuyên khoa",
+  "coll": [
+   "management consultant",
+   "hire a consultant",
+   "IT consultant",
+   "consultant surgeon"
+  ]
+ },
+ {
+  "id": "corresponding",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "tương ứng; phù hợp; đang thư từ qua lại",
+  "coll": [
+   "corresponding period",
+   "corresponding increase",
+   "corresponding value",
+   "corresponding author"
+  ]
+ },
+ {
+  "id": "courtesy",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "phép lịch sự; sự nhã nhặn; nhờ có",
+  "coll": [
+   "common courtesy",
+   "courtesy of",
+   "professional courtesy",
+   "courtesy call",
+   "show courtesy"
+  ]
+ },
+ {
+  "id": "demanding",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đòi hỏi cao; khắt khe; vất vả",
+  "coll": [
+   "demanding job",
+   "physically demanding",
+   "demanding customer",
+   "demanding schedule"
+  ]
+ },
+ {
+  "id": "eagle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đại bàng; chim ưng",
+  "coll": [
+   "bald eagle",
+   "golden eagle",
+   "eagle eye",
+   "soar like an eagle"
+  ]
+ },
+ {
+  "id": "embassy",
+  "pos": [
+   "n"
+  ],
+  "vi": "đại sứ quán; sứ quán",
+  "coll": [
+   "American Embassy",
+   "embassy staff",
+   "at the embassy",
+   "embassy official"
+  ]
+ },
+ {
+  "id": "flexible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "linh hoạt; mềm dẻo; dễ uốn",
+  "coll": [
+   "flexible working hours",
+   "flexible approach",
+   "flexible schedule",
+   "highly flexible"
+  ]
+ },
+ {
+  "id": "helicopter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "máy bay trực thăng; trực thăng",
+  "coll": [
+   "helicopter pilot",
+   "rescue helicopter",
+   "military helicopter",
+   "helicopter parent"
+  ]
+ },
+ {
+  "id": "infected",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "bị nhiễm trùng; nhiễm bệnh; nhiễm virus",
+  "coll": [
+   "infected wound",
+   "become infected",
+   "infected with a virus",
+   "infected computer"
+  ]
+ },
+ {
+  "id": "keen",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "háo hức; hăng hái; sắc bén; nhạy bén",
+  "coll": [
+   "keen on football",
+   "keen interest",
+   "keen to learn",
+   "keen eye",
+   "keen sense of smell"
+  ]
+ },
+ {
+  "id": "prospect",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "triển vọng; khả năng xảy ra; viễn cảnh",
+  "coll": [
+   "future prospects",
+   "job prospects",
+   "the prospect of war",
+   "bright prospects"
+  ]
+ },
+ {
+  "id": "retreat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rút lui; sự rút lui; nơi ẩn dật",
+  "coll": [
+   "beat a retreat",
+   "retreat from the city",
+   "weekend retreat",
+   "tactical retreat",
+   "retreat centre"
+  ]
+ },
+ {
+  "id": "skilled",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "lành nghề; có tay nghề; đòi hỏi kỹ năng",
+  "coll": [
+   "skilled worker",
+   "highly skilled",
+   "skilled labour",
+   "skilled in negotiation"
+  ]
+ },
+ {
+  "id": "deer",
+  "pos": [
+   "n"
+  ],
+  "vi": "con nai; con hươu",
+  "coll": [
+   "deer hunting",
+   "a herd of deer",
+   "wild deer",
+   "deer antlers"
+  ]
+ },
+ {
+  "id": "excessive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "quá mức; thái quá",
+  "coll": [
+   "excessive drinking",
+   "excessive force",
+   "excessive noise",
+   "excessive spending"
+  ]
+ },
+ {
+  "id": "journalism",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghề báo; báo chí",
+  "coll": [
+   "investigative journalism",
+   "study journalism",
+   "quality journalism",
+   "citizen journalism"
+  ]
+ },
+ {
+  "id": "pursuit",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự theo đuổi; sự truy đuổi; thú tiêu khiển",
+  "coll": [
+   "in pursuit of",
+   "the pursuit of happiness",
+   "hot pursuit",
+   "leisure pursuits"
+  ]
+ },
+ {
+  "id": "reminder",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời nhắc; sự nhắc nhở; giấy nhắc nợ",
+  "coll": [
+   "gentle reminder",
+   "set a reminder",
+   "a reminder of the past",
+   "send a reminder"
+  ]
+ },
+ {
+  "id": "resume",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tiếp tục; nối lại; sơ yếu lý lịch",
+  "coll": [
+   "resume work",
+   "resume talks",
+   "resume normal service",
+   "send your resume"
+  ]
+ }
+]

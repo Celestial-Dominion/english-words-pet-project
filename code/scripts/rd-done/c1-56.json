@@ -1,0 +1,124 @@
+[
+ {
+  "id": "wiki-homemaker",
+  "title_vi": "nội trợ",
+  "vi": [
+   "Người nội trợ là người quản lý một gia đình.",
+   "Họ chăm sóc tổ ấm và gia đình như nghề nghiệp chính của họ.",
+   "Họ thường là người chăm sóc chính cho bất kỳ đứa trẻ nào trong gia đình.",
+   "Thuật ngữ này thường được sử dụng để mô tả một “bà mẹ nội trợ” hoặc người vợ không có việc làm bên ngoài.",
+   "Tuy nhiên, người nội trợ có thể là nam hoặc nữ và họ có thể có một công việc bán thời gian bên ngoài gia đình.",
+   "Các thuật ngữ cũ hơn cho “người nội trợ” bao gồm “bà nội trợ” và “chồng nội trợ”."
+  ]
+ },
+ {
+  "id": "wiki-superscalar",
+  "title_vi": "siêu vô hướng",
+  "vi": [
+   "Công nghệ siêu vô hướng hỗ trợ tính toán song song cơ bản (cụ thể là song song cấp lệnh) trên một CPU (bộ xử lý), cho phép nhiều lệnh trong mỗi chu kỳ xung nhịp bằng cách sử dụng nhiều đơn vị thực thi cùng một lúc.",
+   "Bộ xử lý siêu vô hướng thường cũng dùng kỹ thuật pipeline (đường ống lệnh), nhưng đó là một công nghệ khác: nó cho phép nhiều lệnh cùng lúc trong mỗi đơn vị thực thi, thay vì dùng nhiều đơn vị thực thi cùng lúc.",
+   "Công nghệ siêu vô hướng thường bao gồm: Các lệnh đi vào bộ xử lý theo thứ tự.",
+   "Bộ xử lý đang tìm kiếm các phần phụ thuộc dữ liệu trong khi nó chạy.",
+   "Tải nhiều hơn một lệnh trong mỗi chu kỳ xung nhịp Bộ xử lý đơn giản nhất là bộ xử lý vô hướng.",
+   "Trên bộ xử lý vô hướng, các lệnh thường làm việc với một hoặc hai mục dữ liệu cùng một lúc.",
+   "Trên bộ xử lý vector, các lệnh thường làm việc với nhiều mục dữ liệu cùng một lúc.",
+   "Bộ xử lý siêu vô hướng là sự kết hợp giữa quy trình vô hướng và bộ xử lý vectơ: mỗi lệnh xử lý một mục dữ liệu, nhưng có nhiều lệnh chạy cùng lúc, vì vậy nhiều mục dữ liệu được bộ xử lý xử lý cùng một lúc.",
+   "Trong bộ xử lý siêu vô hướng, điều rất quan trọng là phải có bộ điều phối lệnh chính xác để các đơn vị thực thi luôn bận rộn với công việc có thể sẽ cần thiết.",
+   "Nếu bộ điều phối lệnh không chính xác, bộ xử lý sẽ phải loại bỏ một số công việc và có thể không nhanh hơn bộ xử lý vô hướng.",
+   "Vào năm 2008, tất cả các CPU thông thường đều là siêu vô hướng và có thể có tới 4 ALU, 2 FPU và 2 đơn vị SIMD."
+  ]
+ },
+ {
+  "id": "wiki-kola-superdeep-borehole",
+  "title_vi": "Lỗ khoan siêu sâu Kola",
+  "vi": [
+   "Lỗ khoan siêu sâu Kola (tiếng Nga: Кольская сверхглубокая скважина, Kolskaya sverkhglubokaya skvazhina) là một hố rất sâu được đào trên Bán đảo Kola ở Nga trong thời gian 1970-1992 và đóng cửa vào năm 2008.",
+   "Nó được đào để tìm hiểu thêm về bên trong Trái đất.",
+   "Việc đào bắt đầu vào ngày 24 tháng 5 năm 1970.",
+   "Công việc tiếp tục cho đến năm 1992 hoặc 1994.",
+   "Lỗ khoan được giữ mở cho đến năm 2005.",
+   "SG-3, phần sâu nhất của hố, đạt 12.261 mét hoặc 7,6 dặm dưới bề mặt vào năm 1989.",
+   "Đó là hố sâu nhất từng được tạo ra và vẫn là điểm nhân tạo sâu nhất trên Trái đất.",
+   "Trong một thời gian dài, SG-3 cũng là hố dài nhất tính từ lúc mở hố.",
+   "Năm 2008, giếng dầu Al Shaheen BD-04A ở Qatar đã đạt xa hơn +27 mét hoặc 89 feet và vào năm 2011, giếng dầu Odoptu OP-11 ngoài khơi Sakhalin đã xa hơn +83 m hoặc 272 ft."
+  ]
+ },
+ {
+  "id": "wiki-chicken",
+  "title_vi": "gà",
+  "vi": [
+   "Gà là loài phụ được thuần hóa của gà rừng đỏ.",
+   "Nó được nuôi ở nhiều nơi để lấy thịt và trứng.",
+   "Chúng thường được con người nuôi làm vật nuôi.",
+   "Một số giống gà có thể bay một quãng đường ngắn.",
+   "Một số ngủ trên cây (nếu xung quanh có cây).",
+   "Gà đực được gọi là gà trống hoặc gà trống.",
+   "Gà cái được gọi là gà mái.",
+   "Gà con được gọi là gà con.",
+   "Giống như các loài chim cái khác, gà mái đẻ trứng.",
+   "Gà con nở ra từ trứng.",
+   "Khi nuôi gà, người nông dân cần có chuồng gà (giống như một ngôi nhà nhỏ) để gà ngủ.",
+   "Họ cũng cần một đường chạy hoặc sân để có thể tập thể dục, tắm bụi, ăn uống.",
+   "Gà cũng cần được bảo vệ khỏi những kẻ săn mồi như cáo, chó sói và diều hâu.",
+   "Hàng rào thường được sử dụng cho việc này.",
+   "Gà cũng được chăn nuôi thâm canh.",
+   "Điều này giúp các trang trại gà sản xuất được nhiều thịt gà và trứng gà."
+  ]
+ },
+ {
+  "id": "wiki-wheelwright",
+  "title_vi": "thợ đóng bánh xe",
+  "vi": [
+   "Thợ đóng bánh xe là người chế tạo hoặc sửa chữa bánh xe.",
+   "Ngày xưa có rất nhiều xe đẩy.",
+   "Các bánh xe được làm bằng gỗ.",
+   "Việc làm ra chúng là một công việc khó khăn nên người thợ đóng xe đã làm ra chiếc xe đẩy và người thợ làm bánh xe đã làm công việc chuyên môn là chế tạo bánh xe.",
+   "Vào thời cổ đại, một số bánh xe được làm bằng xương để trông đẹp mắt.",
+   "Từ thợ làm bánh xe ngày nay không thường được sử dụng cho những người làm bánh xe.",
+   "Bánh xe được sản xuất tại các nhà máy và rất nhiều người trong dây chuyền sản xuất đều có công việc riêng của mình."
+  ]
+ },
+ {
+  "id": "wiki-sunspot",
+  "title_vi": "Vết đen mặt trời",
+  "vi": [
+   "Vết đen mặt trời là khu vực có hoạt động từ tính cao trên bề mặt Mặt trời.",
+   "Các vết đen mặt trời tạo ra ánh sáng rực rỡ, nhưng không nhiều bằng bề mặt xung quanh chúng, vì vậy khi so sánh chúng có vẻ tối.",
+   "Chúng mát hơn phần còn lại của mặt trời.",
+   "Một số thì nhỏ và một số thì lớn hơn Trái đất gấp mười lần.",
+   "Người ta đã tìm thấy chu kỳ vết đen mặt trời kéo dài 11 năm với những thay đổi trong hoạt động.",
+   "Cứ sau 11 năm, số lượng vết đen mặt trời lại tăng lên và sau đó giảm dần.",
+   "Các vết đen mặt trời trong một chu kỳ có từ tính khác với chu kỳ tiếp theo, vì vậy tổng chu kỳ vết đen mặt trời là 22 năm.",
+   "Chu kỳ này đã được nhìn thấy từ thế kỷ 18.",
+   "Trước thời điểm đó, trong hơn một trăm năm, có rất ít vết đen trên mặt trời.",
+   "Các nhà thiên văn học không biết điều gì đã gây ra hiện tượng \"Tối thiểu Maunder\" này."
+  ]
+ },
+ {
+  "id": "wiki-x-ray-reconstruction-of-moving-morpholog",
+  "title_vi": "XROMM – tái dựng chuyển động bằng tia X",
+  "vi": [
+   "Tái tạo hình thái chuyển động bằng tia X, hay XROMM, là một kỹ thuật nghiên cứu khoa học.",
+   "Các nhà khoa học sử dụng XROMM để tạo phim 3D về xương động vật khi chúng vẫn còn sống.",
+   "Trong XROMM, bác sĩ phẫu thuật đặt các điểm đánh dấu xương cản quang vào bên trong cơ thể động vật.",
+   "Sau đó, hệ thống video X-quang có thể cho biết chính xác vị trí của điểm đánh dấu.",
+   "Điều này giúp các nhà khoa học tạo ra những video rất hay về cách xương di chuyển.",
+   "Các nhà khoa học tại Đại học Brown đã phát minh ra XROMM vào năm 2010.",
+   "XROMM có thể được sử dụng để hiển thị các loài chim đang bay, con người đang chạy, ếch nhảy và một con cóc đang nuốt dế."
+  ]
+ },
+ {
+  "id": "wiki-volcanic-winter",
+  "title_vi": "mùa đông núi lửa",
+  "vi": [
+   "Mùa đông núi lửa là sự làm mát khí hậu do một vụ phun trào núi lửa cực lớn gây ra.",
+   "Một vụ phun trào như vậy sẽ giải phóng tro và sulfur dioxide với số lượng lớn.",
+   "Chúng tạo thành các sol khí của axit sulfuric.",
+   "Khi chúng tới tầng bình lưu, nhiều ánh sáng mặt trời bị phản xạ hơn và một số bị tầng bình lưu hấp thụ.",
+   "Những phản ứng này làm nóng tầng bình lưu nhưng lại làm giảm nhiệt độ trên mặt đất.",
+   "Bẫy Siberia, Bẫy Emeishan và Bẫy Deccan là các tỉnh bazan lũ lụt khổng lồ do núi lửa gây ra.",
+   "Chúng là nguyên nhân hoặc một phần nguyên nhân của một số vụ tuyệt chủng hàng loạt, đặc biệt là sự kiện tuyệt chủng kỷ Permi-kỷ Triassic.",
+   "Mùa đông hạt nhân là một lý thuyết về những tác động tương tự có thể xảy ra do một cuộc chiến tranh hạt nhân quy mô lớn."
+  ]
+ }
+]

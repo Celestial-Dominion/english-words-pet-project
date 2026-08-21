@@ -1,0 +1,816 @@
+[
+ {
+  "id": "latitude",
+  "pos": [
+   "n"
+  ],
+  "vi": "vĩ độ; quyền tự do rộng rãi",
+  "coll": [
+   "degrees of latitude",
+   "northern latitudes",
+   "latitude and longitude",
+   "give someone latitude"
+  ]
+ },
+ {
+  "id": "hassle",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sự phiền phức, rắc rối; quấy rầy, làm phiền",
+  "coll": [
+   "a real hassle",
+   "too much hassle",
+   "hassle-free",
+   "don't hassle me"
+  ]
+ },
+ {
+  "id": "sweetie",
+  "pos": [
+   "n"
+  ],
+  "vi": "cưng, cục cưng; người yêu",
+  "coll": [
+   "hey, sweetie",
+   "my sweetie",
+   "such a sweetie",
+   "sweetie pie"
+  ]
+ },
+ {
+  "id": "procession",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đoàn diễu hành, đám rước",
+  "coll": [
+   "a funeral procession",
+   "a religious procession",
+   "a wedding procession",
+   "march in procession"
+  ]
+ },
+ {
+  "id": "wellness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sức khỏe toàn diện; lối sống lành mạnh",
+  "coll": [
+   "a wellness program",
+   "health and wellness",
+   "a wellness center",
+   "employee wellness"
+  ]
+ },
+ {
+  "id": "jockey",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nài ngựa; xoay xở giành lợi thế",
+  "coll": [
+   "a champion jockey",
+   "a disc jockey",
+   "jockey for position",
+   "the jockey rode well"
+  ]
+ },
+ {
+  "id": "unnamed",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không nêu tên; chưa đặt tên",
+  "coll": [
+   "an unnamed source",
+   "an unnamed official",
+   "remain unnamed",
+   "an unnamed company"
+  ]
+ },
+ {
+  "id": "essentials",
+  "pos": [
+   "n"
+  ],
+  "vi": "những thứ thiết yếu; kiến thức cốt lõi",
+  "coll": [
+   "bare essentials",
+   "travel essentials",
+   "the essentials of grammar",
+   "daily essentials"
+  ]
+ },
+ {
+  "id": "incorrectly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "sai, không đúng",
+  "coll": [
+   "incorrectly spelled",
+   "answer incorrectly",
+   "incorrectly labelled",
+   "incorrectly assume"
+  ]
+ },
+ {
+  "id": "entrepreneurship",
+  "pos": [
+   "n"
+  ],
+  "vi": "tinh thần khởi nghiệp; nghề kinh doanh",
+  "coll": [
+   "social entrepreneurship",
+   "promote entrepreneurship",
+   "youth entrepreneurship",
+   "entrepreneurship skills"
+  ]
+ },
+ {
+  "id": "disposable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "dùng một lần rồi bỏ; khả dụng (thu nhập)",
+  "coll": [
+   "disposable income",
+   "disposable gloves",
+   "a disposable camera",
+   "disposable cups"
+  ]
+ },
+ {
+  "id": "adidas",
+  "pos": [
+   "n"
+  ],
+  "vi": "chân gà nướng xiên (lóng); giày thể thao Adidas",
+  "coll": [
+   "grilled adidas",
+   "a stick of adidas",
+   "adidas street food",
+   "Adidas sneakers"
+  ]
+ },
+ {
+  "id": "aquarium",
+  "pos": [
+   "n"
+  ],
+  "vi": "bể cá cảnh; thủy cung",
+  "coll": [
+   "a fish aquarium",
+   "a public aquarium",
+   "an aquarium tank",
+   "visit the aquarium"
+  ]
+ },
+ {
+  "id": "craving",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự thèm khát, cơn thèm",
+  "coll": [
+   "a sugar craving",
+   "a craving for chocolate",
+   "satisfy a craving",
+   "food cravings"
+  ]
+ },
+ {
+  "id": "superficial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hời hợt, nông cạn; ở bề mặt, nông",
+  "coll": [
+   "superficial wounds",
+   "a superficial understanding",
+   "superficial changes",
+   "on a superficial level"
+  ]
+ },
+ {
+  "id": "batter",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nện, đánh túi bụi; bột nhão (để rán); cầu thủ đánh bóng",
+  "coll": [
+   "batter down the door",
+   "pancake batter",
+   "battered by storms",
+   "a batter mix"
+  ]
+ },
+ {
+  "id": "waterfront",
+  "pos": [
+   "n"
+  ],
+  "vi": "khu ven sông, ven biển",
+  "coll": [
+   "a waterfront property",
+   "the waterfront district",
+   "along the waterfront",
+   "waterfront development"
+  ]
+ },
+ {
+  "id": "convict",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "kết án, kết tội; người bị kết án",
+  "coll": [
+   "convict of murder",
+   "an escaped convict",
+   "be convicted of fraud",
+   "a convicted criminal"
+  ]
+ },
+ {
+  "id": "complementary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bổ sung cho nhau; tương hỗ",
+  "coll": [
+   "complementary colours",
+   "complementary skills",
+   "complementary medicine",
+   "mutually complementary"
+  ]
+ },
+ {
+  "id": "vapor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hơi, hơi nước; khí bốc lên",
+  "coll": [
+   "water vapor",
+   "vapor pressure",
+   "toxic vapors",
+   "a vapor trail"
+  ]
+ },
+ {
+  "id": "asteroid",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiểu hành tinh",
+  "coll": [
+   "the asteroid belt",
+   "an asteroid impact",
+   "a near-Earth asteroid",
+   "asteroid mining"
+  ]
+ },
+ {
+  "id": "discrete",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rời rạc, riêng biệt",
+  "coll": [
+   "discrete units",
+   "discrete values",
+   "discrete mathematics",
+   "discrete categories"
+  ]
+ },
+ {
+  "id": "scanner",
+  "pos": [
+   "n"
+  ],
+  "vi": "máy quét",
+  "coll": [
+   "a barcode scanner",
+   "a document scanner",
+   "a body scanner",
+   "a police scanner"
+  ]
+ },
+ {
+  "id": "hen",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "gà mái; con mái (chim, cá)",
+  "coll": [
+   "a laying hen",
+   "a hen house",
+   "a broody hen",
+   "a hen party"
+  ]
+ },
+ {
+  "id": "amidst",
+  "pos": [
+   "prep"
+  ],
+  "vi": "giữa, trong bối cảnh",
+  "coll": [
+   "amidst the chaos",
+   "amidst growing concerns",
+   "amidst the crowd",
+   "amidst rumours"
+  ]
+ },
+ {
+  "id": "fraternity",
+  "pos": [
+   "n"
+  ],
+  "vi": "hội nam sinh viên; tình huynh đệ; giới, ngành",
+  "coll": [
+   "a college fraternity",
+   "fraternity brothers",
+   "the medical fraternity",
+   "liberty and fraternity"
+  ]
+ },
+ {
+  "id": "dissent",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "sự bất đồng chính kiến; phản đối, bất đồng",
+  "coll": [
+   "political dissent",
+   "voice dissent",
+   "suppress dissent",
+   "dissent from the majority"
+  ]
+ },
+ {
+  "id": "managerial",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc quản lý, điều hành",
+  "coll": [
+   "managerial skills",
+   "a managerial position",
+   "managerial experience",
+   "managerial decisions"
+  ]
+ },
+ {
+  "id": "oddly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách kỳ lạ; lạ thay",
+  "coll": [
+   "oddly enough",
+   "behave oddly",
+   "oddly familiar",
+   "oddly shaped"
+  ]
+ },
+ {
+  "id": "sweaty",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đẫm mồ hôi; gây đổ mồ hôi",
+  "coll": [
+   "sweaty palms",
+   "a sweaty face",
+   "hot and sweaty",
+   "sweaty clothes"
+  ]
+ },
+ {
+  "id": "flop",
+  "pos": [
+   "v",
+   "n",
+   "intj",
+   "adv"
+  ],
+  "vi": "thất bại thảm hại; ngã phịch xuống; cú xịt, phim ế",
+  "coll": [
+   "a box office flop",
+   "flop onto the bed",
+   "the film flopped",
+   "a complete flop"
+  ]
+ },
+ {
+  "id": "contend",
+  "pos": [
+   "v"
+  ],
+  "vi": "cho rằng, lập luận; tranh giành; đương đầu với",
+  "coll": [
+   "contend that it is wrong",
+   "contend with problems",
+   "contend for the title",
+   "contend against rivals"
+  ]
+ },
+ {
+  "id": "glitter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kim tuyến, đồ nhũ lấp lánh; lấp lánh, lóng lánh",
+  "coll": [
+   "gold glitter",
+   "glitter in the sun",
+   "all that glitters",
+   "glitter makeup"
+  ]
+ },
+ {
+  "id": "psalm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bài thánh vịnh",
+  "coll": [
+   "the Book of Psalms",
+   "read a psalm",
+   "sing psalms",
+   "Psalm 23"
+  ]
+ },
+ {
+  "id": "repetitive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lặp đi lặp lại, nhàm chán",
+  "coll": [
+   "repetitive tasks",
+   "repetitive strain injury",
+   "highly repetitive",
+   "repetitive movements"
+  ]
+ },
+ {
+  "id": "savvy",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "am hiểu, sành sỏi; hiểu chứ?",
+  "coll": [
+   "tech savvy",
+   "media savvy",
+   "business savvy",
+   "politically savvy"
+  ]
+ },
+ {
+  "id": "culinary",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc ẩm thực, nấu nướng",
+  "coll": [
+   "culinary skills",
+   "the culinary arts",
+   "a culinary delight",
+   "culinary traditions"
+  ]
+ },
+ {
+  "id": "promoter",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà tổ chức, quảng bá; vùng khởi động gen",
+  "coll": [
+   "a concert promoter",
+   "a boxing promoter",
+   "a health promoter",
+   "a gene promoter"
+  ]
+ },
+ {
+  "id": "connectivity",
+  "pos": [
+   "n"
+  ],
+  "vi": "khả năng kết nối",
+  "coll": [
+   "internet connectivity",
+   "wireless connectivity",
+   "poor connectivity",
+   "connectivity issues"
+  ]
+ },
+ {
+  "id": "encryption",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mã hóa dữ liệu",
+  "coll": [
+   "end-to-end encryption",
+   "data encryption",
+   "strong encryption",
+   "an encryption key"
+  ]
+ },
+ {
+  "id": "schizophrenia",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh tâm thần phân liệt",
+  "coll": [
+   "diagnosed with schizophrenia",
+   "paranoid schizophrenia",
+   "treat schizophrenia",
+   "symptoms of schizophrenia"
+  ]
+ },
+ {
+  "id": "multimedia",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "đa phương tiện",
+  "coll": [
+   "multimedia content",
+   "a multimedia presentation",
+   "multimedia files",
+   "multimedia messaging"
+  ]
+ },
+ {
+  "id": "upstream",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "vi": "ngược dòng, phía thượng nguồn; ở khâu trước",
+  "coll": [
+   "swim upstream",
+   "upstream of the dam",
+   "the upstream sector",
+   "upstream suppliers"
+  ]
+ },
+ {
+  "id": "psychiatry",
+  "pos": [
+   "n"
+  ],
+  "vi": "khoa tâm thần, tâm thần học",
+  "coll": [
+   "study psychiatry",
+   "child psychiatry",
+   "forensic psychiatry",
+   "a psychiatry department"
+  ]
+ },
+ {
+  "id": "planetary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc hành tinh; ở quy mô toàn cầu",
+  "coll": [
+   "planetary orbit",
+   "the planetary system",
+   "planetary science",
+   "planetary boundaries"
+  ]
+ },
+ {
+  "id": "bedtime",
+  "pos": [
+   "n"
+  ],
+  "vi": "giờ đi ngủ",
+  "coll": [
+   "a bedtime story",
+   "past your bedtime",
+   "at bedtime",
+   "a bedtime routine"
+  ]
+ },
+ {
+  "id": "insecurity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bất an, thiếu tự tin; tình trạng mất an ninh",
+  "coll": [
+   "feelings of insecurity",
+   "job insecurity",
+   "food insecurity",
+   "deep insecurity"
+  ]
+ },
+ {
+  "id": "abducted",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bị bắt cóc",
+  "coll": [
+   "abducted by strangers",
+   "an abducted child",
+   "reported abducted",
+   "abducted at gunpoint"
+  ]
+ },
+ {
+  "id": "porcelain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sứ, đồ sứ",
+  "coll": [
+   "fine porcelain",
+   "a porcelain vase",
+   "porcelain tiles",
+   "delicate porcelain"
+  ]
+ },
+ {
+  "id": "captivity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giam cầm; tình trạng nuôi nhốt",
+  "coll": [
+   "in captivity",
+   "born in captivity",
+   "held in captivity",
+   "release from captivity"
+  ]
+ },
+ {
+  "id": "moderately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vừa phải, ở mức vừa",
+  "coll": [
+   "moderately priced",
+   "moderately successful",
+   "drink moderately",
+   "moderately difficult"
+  ]
+ },
+ {
+  "id": "multinational",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đa quốc gia; công ty đa quốc gia",
+  "coll": [
+   "a multinational corporation",
+   "a multinational company",
+   "multinational forces",
+   "large multinationals"
+  ]
+ },
+ {
+  "id": "reversal",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sự đảo ngược, lật ngược",
+  "coll": [
+   "a reversal of fortune",
+   "a policy reversal",
+   "a complete reversal",
+   "a reversal of the decision"
+  ]
+ },
+ {
+  "id": "consulate",
+  "pos": [
+   "n"
+  ],
+  "vi": "lãnh sự quán; chức lãnh sự",
+  "coll": [
+   "the American consulate",
+   "a consulate general",
+   "visit the consulate",
+   "the consulate in Osaka"
+  ]
+ },
+ {
+  "id": "pursuant",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "chiếu theo, căn cứ theo",
+  "coll": [
+   "pursuant to the agreement",
+   "pursuant to section 5",
+   "pursuant to law",
+   "pursuant to the contract"
+  ]
+ },
+ {
+  "id": "booster",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mũi tiêm nhắc lại; tầng đẩy tên lửa; thứ giúp tăng cường",
+  "coll": [
+   "a booster shot",
+   "a rocket booster",
+   "a confidence booster",
+   "a booster dose"
+  ]
+ },
+ {
+  "id": "detrimental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có hại, gây tổn hại",
+  "coll": [
+   "detrimental to health",
+   "a detrimental effect",
+   "highly detrimental",
+   "detrimental consequences"
+  ]
+ },
+ {
+  "id": "gypsy",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "người Digan (Rom); kẻ nay đây mai đó",
+  "coll": [
+   "a gypsy caravan",
+   "gypsy music",
+   "a gypsy camp",
+   "a gypsy life"
+  ]
+ },
+ {
+  "id": "portrayal",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khắc họa, thể hiện",
+  "coll": [
+   "a realistic portrayal",
+   "the portrayal of women",
+   "a vivid portrayal",
+   "his portrayal of Hamlet"
+  ]
+ },
+ {
+  "id": "longevity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trường thọ; tuổi thọ, độ bền lâu",
+  "coll": [
+   "increased longevity",
+   "human longevity",
+   "the longevity of the product",
+   "career longevity"
+  ]
+ }
+]

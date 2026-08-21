@@ -1,0 +1,812 @@
+[
+ {
+  "id": "roundup",
+  "pos": [
+   "n"
+  ],
+  "vi": "bản tổng hợp (tin tức); cuộc vây bắt; việc lùa gia súc",
+  "coll": [
+   "news roundup",
+   "weekly roundup",
+   "a roundup of the day's news",
+   "police roundup",
+   "cattle roundup"
+  ]
+ },
+ {
+  "id": "adversary",
+  "pos": [
+   "n"
+  ],
+  "vi": "đối thủ; kẻ đối địch",
+  "coll": [
+   "a formidable adversary",
+   "political adversary",
+   "worthy adversary",
+   "defeat an adversary"
+  ]
+ },
+ {
+  "id": "physique",
+  "pos": [
+   "n"
+  ],
+  "vi": "vóc dáng; thể hình",
+  "coll": [
+   "muscular physique",
+   "athletic physique",
+   "impressive physique",
+   "build a physique"
+  ]
+ },
+ {
+  "id": "unsettling",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "gây bất an; khiến khó chịu; đáng lo ngại",
+  "coll": [
+   "deeply unsettling",
+   "unsettling experience",
+   "unsettling feeling",
+   "unsettling truth"
+  ]
+ },
+ {
+  "id": "constraint",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hạn chế; ràng buộc; sự kìm nén",
+  "coll": [
+   "time constraints",
+   "budget constraints",
+   "financial constraints",
+   "impose constraints",
+   "severe constraint"
+  ]
+ },
+ {
+  "id": "compel",
+  "pos": [
+   "v"
+  ],
+  "vi": "ép buộc; bắt phải; thôi thúc",
+  "coll": [
+   "compel someone to do",
+   "feel compelled to",
+   "compel obedience",
+   "compel attention"
+  ]
+ },
+ {
+  "id": "harass",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "quấy rối; sách nhiễu; quấy nhiễu liên tục",
+  "coll": [
+   "sexually harass",
+   "harass and intimidate",
+   "harass the enemy",
+   "harass a witness"
+  ]
+ },
+ {
+  "id": "tinker",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "mày mò sửa chữa; thợ sửa nồi rong",
+  "coll": [
+   "tinker with the engine",
+   "tinker with the settings",
+   "tinker around",
+   "tinker with an idea"
+  ]
+ },
+ {
+  "id": "unmanned",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không người lái; không có người trực",
+  "coll": [
+   "unmanned aerial vehicle",
+   "unmanned aircraft",
+   "unmanned spacecraft",
+   "unmanned mission"
+  ]
+ },
+ {
+  "id": "degrade",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm suy thoái; hạ thấp phẩm giá; phân hủy dần",
+  "coll": [
+   "degrade the environment",
+   "degrade performance",
+   "degrade over time",
+   "degrade water quality"
+  ]
+ },
+ {
+  "id": "evoke",
+  "pos": [
+   "v"
+  ],
+  "vi": "gợi lên; khơi gợi",
+  "coll": [
+   "evoke memories",
+   "evoke emotions",
+   "evoke a response",
+   "evoke images of"
+  ]
+ },
+ {
+  "id": "unison",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đồng thanh; sự nhất trí; cùng cao độ",
+  "coll": [
+   "in unison",
+   "sing in unison",
+   "act in unison",
+   "speak in unison"
+  ]
+ },
+ {
+  "id": "pendulum",
+  "pos": [
+   "n"
+  ],
+  "vi": "con lắc; quả lắc đồng hồ",
+  "coll": [
+   "the pendulum swings",
+   "swing of the pendulum",
+   "pendulum clock",
+   "the pendulum has swung back"
+  ]
+ },
+ {
+  "id": "flatter",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "nịnh nọt, tâng bốc; tôn dáng, làm đẹp hơn",
+  "coll": [
+   "flatter someone",
+   "flatter yourself",
+   "flatter his ego",
+   "be flattered by"
+  ]
+ },
+ {
+  "id": "reassurance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trấn an; lời trấn an",
+  "coll": [
+   "seek reassurance",
+   "offer reassurance",
+   "need constant reassurance",
+   "words of reassurance"
+  ]
+ },
+ {
+  "id": "limitless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô hạn; không giới hạn",
+  "coll": [
+   "limitless potential",
+   "limitless possibilities",
+   "limitless energy",
+   "seemingly limitless"
+  ]
+ },
+ {
+  "id": "latent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tiềm ẩn; ngấm ngầm; chưa bộc lộ",
+  "coll": [
+   "latent talent",
+   "latent heat",
+   "latent infection",
+   "latent demand"
+  ]
+ },
+ {
+  "id": "gruesome",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ghê rợn; rùng rợn",
+  "coll": [
+   "gruesome murder",
+   "gruesome details",
+   "gruesome discovery",
+   "gruesome scene"
+  ]
+ },
+ {
+  "id": "invoice",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hóa đơn; xuất hóa đơn",
+  "coll": [
+   "issue an invoice",
+   "send an invoice",
+   "pay an invoice",
+   "invoice number"
+  ]
+ },
+ {
+  "id": "midwife",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nữ hộ sinh, bà đỡ; đỡ đẻ",
+  "coll": [
+   "qualified midwife",
+   "community midwife",
+   "see a midwife",
+   "train as a midwife"
+  ]
+ },
+ {
+  "id": "abound",
+  "pos": [
+   "v"
+  ],
+  "vi": "có rất nhiều; dồi dào",
+  "coll": [
+   "rumours abound",
+   "opportunities abound",
+   "abound with",
+   "abound in"
+  ]
+ },
+ {
+  "id": "ordinarily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thông thường; theo lệ thường",
+  "coll": [
+   "ordinarily I would",
+   "not ordinarily",
+   "ordinarily available",
+   "ordinarily resident"
+  ]
+ },
+ {
+  "id": "dismay",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nỗi thất vọng; làm chán nản; sự hoang mang",
+  "coll": [
+   "to my dismay",
+   "much to their dismay",
+   "express dismay",
+   "dismay at the decision"
+  ]
+ },
+ {
+  "id": "dismal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ảm đạm; tồi tệ; u ám",
+  "coll": [
+   "dismal failure",
+   "dismal performance",
+   "dismal weather",
+   "dismal record"
+  ]
+ },
+ {
+  "id": "detriment",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tổn hại; điều bất lợi",
+  "coll": [
+   "to the detriment of",
+   "without detriment to",
+   "serious detriment",
+   "detriment to health"
+  ]
+ },
+ {
+  "id": "domestically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trong nước; trong gia đình",
+  "coll": [
+   "produced domestically",
+   "sold domestically",
+   "domestically and internationally",
+   "domestically produced goods"
+  ]
+ },
+ {
+  "id": "paternal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc về cha; bên nội; như người cha",
+  "coll": [
+   "paternal grandfather",
+   "paternal side of the family",
+   "paternal instinct",
+   "paternal figure"
+  ]
+ },
+ {
+  "id": "concerto",
+  "pos": [
+   "n"
+  ],
+  "vi": "bản concerto; bản nhạc độc tấu với dàn nhạc",
+  "coll": [
+   "piano concerto",
+   "violin concerto",
+   "perform a concerto",
+   "concerto for orchestra"
+  ]
+ },
+ {
+  "id": "realist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người thực tế; nhà hiện thực chủ nghĩa",
+  "coll": [
+   "be a realist",
+   "hard-headed realist",
+   "political realist",
+   "realist painter"
+  ]
+ },
+ {
+  "id": "timid",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rụt rè; nhút nhát",
+  "coll": [
+   "timid child",
+   "timid smile",
+   "too timid",
+   "timid approach"
+  ]
+ },
+ {
+  "id": "instinctively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo bản năng",
+  "coll": [
+   "instinctively knew",
+   "react instinctively",
+   "instinctively reach for",
+   "instinctively distrust"
+  ]
+ },
+ {
+  "id": "commend",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khen ngợi; tuyên dương; giao phó",
+  "coll": [
+   "commend someone for",
+   "highly commended",
+   "commend the effort",
+   "commend a decision"
+  ]
+ },
+ {
+  "id": "sauna",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phòng xông hơi khô; tắm xông hơi",
+  "coll": [
+   "take a sauna",
+   "sauna room",
+   "hot sauna",
+   "steam room and sauna"
+  ]
+ },
+ {
+  "id": "hedgehog",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con nhím (nhím gai nhỏ)",
+  "coll": [
+   "a hedgehog curls up",
+   "wild hedgehog",
+   "hedgehog spines",
+   "European hedgehog"
+  ]
+ },
+ {
+  "id": "marginally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhỉnh hơn chút ít; không đáng kể",
+  "coll": [
+   "marginally better",
+   "marginally higher",
+   "improve marginally",
+   "marginally more expensive"
+  ]
+ },
+ {
+  "id": "cessation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chấm dứt; sự ngừng lại",
+  "coll": [
+   "cessation of hostilities",
+   "smoking cessation",
+   "immediate cessation",
+   "cessation of fighting"
+  ]
+ },
+ {
+  "id": "deceit",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lừa dối; sự gian trá",
+  "coll": [
+   "a web of deceit",
+   "act of deceit",
+   "full of deceit",
+   "fraud and deceit"
+  ]
+ },
+ {
+  "id": "conscientious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tận tâm; chu đáo, cẩn thận; có lương tâm",
+  "coll": [
+   "conscientious worker",
+   "conscientious objector",
+   "highly conscientious",
+   "conscientious about her work"
+  ]
+ },
+ {
+  "id": "nocturnal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sống về đêm; diễn ra ban đêm",
+  "coll": [
+   "nocturnal animals",
+   "nocturnal habits",
+   "nocturnal creature",
+   "nocturnal hunter"
+  ]
+ },
+ {
+  "id": "firewall",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tường lửa; vách ngăn cháy",
+  "coll": [
+   "configure a firewall",
+   "firewall protection",
+   "behind a firewall",
+   "bypass the firewall"
+  ]
+ },
+ {
+  "id": "formulate",
+  "pos": [
+   "v"
+  ],
+  "vi": "xây dựng (kế hoạch); soạn thảo; diễn đạt thành lời",
+  "coll": [
+   "formulate a plan",
+   "formulate a policy",
+   "formulate a strategy",
+   "formulate a theory"
+  ]
+ },
+ {
+  "id": "imp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "yêu tinh nhỏ; đứa trẻ tinh nghịch",
+  "coll": [
+   "little imp",
+   "mischievous imp",
+   "cheeky imp",
+   "imp of mischief"
+  ]
+ },
+ {
+  "id": "fanatic",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người cuồng nhiệt; kẻ cuồng tín",
+  "coll": [
+   "fitness fanatic",
+   "religious fanatic",
+   "football fanatic",
+   "health fanatic"
+  ]
+ },
+ {
+  "id": "fragmentation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân mảnh; sự chia rẽ, manh mún",
+  "coll": [
+   "social fragmentation",
+   "market fragmentation",
+   "political fragmentation",
+   "disk fragmentation"
+  ]
+ },
+ {
+  "id": "itinerary",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "lịch trình chuyến đi; hành trình",
+  "coll": [
+   "travel itinerary",
+   "detailed itinerary",
+   "plan an itinerary",
+   "packed itinerary"
+  ]
+ },
+ {
+  "id": "ingenuity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khéo léo sáng tạo; tài xoay xở",
+  "coll": [
+   "human ingenuity",
+   "technical ingenuity",
+   "show great ingenuity",
+   "require ingenuity"
+  ]
+ },
+ {
+  "id": "ploy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mưu mẹo; chiêu trò",
+  "coll": [
+   "clever ploy",
+   "marketing ploy",
+   "publicity ploy",
+   "a ploy to distract"
+  ]
+ },
+ {
+  "id": "ferocious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hung dữ; dữ dội, khốc liệt",
+  "coll": [
+   "ferocious animal",
+   "ferocious attack",
+   "ferocious appetite",
+   "ferocious competition"
+  ]
+ },
+ {
+  "id": "drawback",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhược điểm; điểm bất lợi",
+  "coll": [
+   "main drawback",
+   "major drawback",
+   "the only drawback",
+   "drawback of this approach"
+  ]
+ },
+ {
+  "id": "mingle",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "hòa lẫn; giao lưu trò chuyện",
+  "coll": [
+   "mingle with the crowd",
+   "mingle with guests",
+   "mingle freely",
+   "smells mingle"
+  ]
+ },
+ {
+  "id": "clutter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự bừa bộn; đồ lỉnh kỉnh; bày bừa",
+  "coll": [
+   "clear the clutter",
+   "remove clutter",
+   "visual clutter",
+   "clutter up the room"
+  ]
+ },
+ {
+  "id": "panoramic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "toàn cảnh; bao quát",
+  "coll": [
+   "panoramic view",
+   "panoramic photo",
+   "panoramic windows",
+   "panoramic vista"
+  ]
+ },
+ {
+  "id": "individuality",
+  "pos": [
+   "n"
+  ],
+  "vi": "cá tính riêng; nét riêng biệt",
+  "coll": [
+   "express your individuality",
+   "sense of individuality",
+   "lose your individuality",
+   "assert individuality"
+  ]
+ },
+ {
+  "id": "conformity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tuân theo; sự rập khuôn; sự phù hợp",
+  "coll": [
+   "social conformity",
+   "in conformity with",
+   "demand conformity",
+   "conformity to the rules"
+  ]
+ },
+ {
+  "id": "repel",
+  "pos": [
+   "v"
+  ],
+  "vi": "đẩy lùi; xua đuổi; làm ghê tởm",
+  "coll": [
+   "repel an attack",
+   "repel insects",
+   "repel water",
+   "repel invaders"
+  ]
+ },
+ {
+  "id": "favorably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách thuận lợi; có thiện cảm",
+  "coll": [
+   "compare favorably",
+   "respond favorably",
+   "look favorably on",
+   "favorably impressed"
+  ]
+ },
+ {
+  "id": "bubbly",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hoạt bát vui vẻ; sủi bọt; rượu sâm banh",
+  "coll": [
+   "bubbly personality",
+   "bubbly character",
+   "a glass of bubbly",
+   "bubbly and outgoing"
+  ]
+ },
+ {
+  "id": "transatlantic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "xuyên Đại Tây Dương",
+  "coll": [
+   "transatlantic flight",
+   "transatlantic crossing",
+   "transatlantic relations",
+   "transatlantic cable"
+  ]
+ },
+ {
+  "id": "frosty",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giá lạnh, phủ sương giá; lạnh nhạt",
+  "coll": [
+   "frosty morning",
+   "frosty reception",
+   "frosty air",
+   "frosty windows"
+  ]
+ },
+ {
+  "id": "flask",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bình đựng (cổ hẹp); bình giữ nhiệt; bình thí nghiệm",
+  "coll": [
+   "hip flask",
+   "vacuum flask",
+   "conical flask",
+   "a flask of coffee"
+  ]
+ }
+]

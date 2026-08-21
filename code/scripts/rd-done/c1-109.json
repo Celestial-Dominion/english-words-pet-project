@@ -1,0 +1,106 @@
+[
+ {
+  "id": "wiki-arp-spoofing",
+  "title_vi": "Giả mạo ARP",
+  "vi": [
+   "Giả mạo ARP là phương pháp mà ai đó (chẳng hạn như tin tặc) có thể sử dụng để chuyển hướng lưu lượng truy cập Internet từ máy tính qua máy tính của tin tặc rồi đến Internet.",
+   "Điều này cho phép hacker đọc tất cả lưu lượng truy cập được gửi từ hoặc đến máy tính đầu tiên.",
+   "Điều này sẽ tiết lộ mật khẩu, số thẻ tín dụng và các thông tin cá nhân khác.",
+   "Triệu chứng của kiểu tấn công này là một cửa sổ khi duyệt đến một trang web an toàn có nội dung như \"Kiểm tra xác thực của trang web này không thành công\".",
+   "Điều này có nghĩa là hacker đã giả mạo một kết nối an toàn và không thể xác minh được.",
+   "Vì vậy, cảnh báo được đưa ra."
+  ]
+ },
+ {
+  "id": "wiki-mozilla-firefox",
+  "title_vi": "Mozilla Firefox",
+  "vi": [
+   "Firefox, còn được gọi là Mozilla Firefox là một trình duyệt web mã nguồn mở và miễn phí được tạo ra bởi Mozilla Foundation và công ty con của nó, Tập đoàn Mozilla.",
+   "Nó hoạt động trên các hệ điều hành phổ biến, như Windows, macOS, Linux và Android.",
+   "Với Firefox, các tính năng duyệt web có thể được thêm hoặc bớt và người dùng có thể tùy chỉnh Firefox để phù hợp với nhu cầu của mình.",
+   "Điều này được thực hiện để làm cho Firefox an toàn và dễ sử dụng.",
+   "Trên hầu hết các hệ điều hành, Firefox sử dụng công cụ bố cục Gecko để tải các trang web sử dụng các tiêu chuẩn web cập nhật.",
+   "Tuy nhiên, Firefox dành cho iOS, được phát hành vào cuối năm 2015, không sử dụng Gecko do các hạn chế của Apple chỉ cho phép trình duyệt web của bên thứ ba sử dụng công cụ bố cục dựa trên WebKit được tích hợp trong iOS.",
+   "Firefox được tạo ra vào năm 2002, dưới cái tên \"Phoenix\" bởi các thành viên cộng đồng Mozilla, những người muốn có một trình duyệt độc lập thay vì một gói ứng dụng Mozilla khác nhau.",
+   "Ngay cả trong giai đoạn beta, Firefox đã chứng tỏ được sự yêu thích của những người thử nghiệm và được khen ngợi về tốc độ, tính bảo mật và các tiện ích bổ sung so với Internet Explorer 6 phổ biến lúc bấy giờ của Microsoft.",
+   "Firefox được phát hành vào tháng 11 năm 2004 và rất thành công với 60 triệu lượt tải xuống trong vòng 9 tháng, đánh dấu lần đầu tiên mức độ phổ biến của Internet Explorer bị thách thức.",
+   "Firefox được coi là người kế thừa tinh thần của Netscape Navigator kể từ khi cộng đồng Mozilla được Netscape tạo ra vào năm 1998."
+  ]
+ },
+ {
+  "id": "news-indonesian-government-bans-pornographic-",
+  "title_vi": "Chính phủ Indonesia cấm các trang web khiêu dâm",
+  "vi": [
+   "Thứ Tư, ngày 11 tháng 8 năm 2010 Bộ Truyền thông và Công nghệ Thông tin Indonesia đã thông báo rằng chính phủ sẽ cấm các trang web khiêu dâm ở nước này.",
+   "Thông báo này được đưa ra trước ngày lễ Ramadan của người Hồi giáo.",
+   "Bộ đã tiến hành thử nghiệm kỹ thuật chương trình cấm với sáu nhà cung cấp dịch vụ Internet lớn nhất ở Indonesia – Telkom, Telkomsel, Indosat, IM2, Bakrie Telecom và XL Axiata.",
+   "Bộ lạc quan rằng lệnh cấm của họ sẽ khiến 80% các trang web khiêu dâm không thể truy cập được ở quốc gia Đông Nam Á này.",
+   "Cộng hòa Nhân dân Trung Hoa thực hiện một chương trình tương tự nhằm chặn các trang web khiêu dâm.",
+   "Bộ trưởng Truyền thông Tifatul Sembiring cho biết khoảng 200 ISP ở Indonesia đã đồng ý chặn các trang web này.",
+   "Sembiring cũng cho biết các ISP sẽ không chịu bất kỳ tổn thất nào khi chặn các trang web khiêu dâm.",
+   "Ông cũng nói thêm rằng Bộ sẽ áp dụng cách tiếp cận tương tự như YouTube, bao gồm việc liên tục theo dõi nội dung phản cảm và khi bị phát hiện sẽ bị xóa ngay lập tức."
+  ]
+ },
+ {
+  "id": "wiki-genetic-algorithm",
+  "title_vi": "Thuật toán di truyền",
+  "vi": [
+   "Thuật toán di truyền là thuật toán bắt chước quá trình chọn lọc tự nhiên.",
+   "Chúng giúp giải quyết các vấn đề về tối ưu hóa và tìm kiếm.",
+   "Thuật toán di truyền là một phần của lớp thuật toán tiến hóa lớn hơn.",
+   "Các thuật toán di truyền bắt chước các quá trình sinh học tự nhiên, chẳng hạn như di truyền, đột biến, chọn lọc và lai ghép.",
+   "Thuật toán di truyền là một kỹ thuật tìm kiếm thường được sử dụng trong khoa học máy tính để tìm ra các giải pháp phức tạp, không rõ ràng cho các vấn đề tìm kiếm và tối ưu hóa thuật toán.",
+   "Thuật toán di truyền là phương pháp phỏng đoán tìm kiếm toàn cầu.[1]"
+  ]
+ },
+ {
+  "id": "wiki-freebasic",
+  "title_vi": "FreeBASIC",
+  "vi": [
+   "FreeBASIC là ngôn ngữ lập trình giống như QuickBASIC.",
+   "Nó là nguồn mở và miễn phí.",
+   "Nó có nhiều thứ nâng cao mà các ngôn ngữ lập trình BASIC khác không có.",
+   "FreeBASIC có thể tạo các chương trình đồ họa hoặc chương trình chạy ở chế độ console.",
+   "Nó chạy trên DOS, Linux và Microsoft Windows.",
+   "Trình biên dịch FreeBASIC có thể tự tạo."
+  ]
+ },
+ {
+  "id": "wiki-rpg-maker",
+  "title_vi": "RPG Maker",
+  "vi": [
+   "RPG Maker là một phần mềm trò chơi điện tử có thể được sử dụng để phát triển trò chơi điện tử nhập vai một cách dễ dàng ngay cả đối với những người chưa có kinh nghiệm về thiết kế và viết mã trò chơi.",
+   "Cho đến năm 2003, chương trình này đã được công ty ASCII của Nhật Bản tạo ra.",
+   "Từ đó trở đi Enterbrain tiếp tục phát triển.",
+   "RPG Maker có Giao diện người dùng đồ họa (GUI) giúp vận hành rất đơn giản.",
+   "Phần mềm chứa nhiều tùy chọn để tùy chỉnh trò chơi.",
+   "Trong mỗi phiên bản đều có Gói thời gian chạy (RTP), chứa nhiều đồ họa và âm thanh khác nhau, mặc dù các tệp tự tạo có thể được nhập vào chương trình miễn là chúng ở đúng định dạng như kích thước và loại tệp."
+  ]
+ },
+ {
+  "id": "news-kids-game-portal-bbc-jam-to-close-after-",
+  "title_vi": "Cổng trò chơi trẻ em BBC Jam đóng cửa sau những khiếu nại về cạnh tranh",
+  "vi": [
+   "Thứ Năm, ngày 15 tháng 3 năm 2007 Trẻ em sẽ phải tìm nơi khác để giải trí mang tính giáo dục, sau khi Ủy ban Châu Âu nhận được khiếu nại rằng trang web của British Broadcasting Corporation là \"cạnh tranh không lành mạnh\" đối với thị trường trò chơi thương mại trực tuyến.",
+   "Trang web này có tên là BBC jam, sẽ bị đình chỉ vào ngày 20 tháng 3 năm 2007 để chờ xem xét, theo BBC Trust.",
+   "BBC jam cung cấp các trò chơi mang tính giáo dục dành cho trẻ em từ 5 đến 16 tuổi, được tạo ra với ngân sách hoạt động là 150 triệu bảng Anh (290 triệu USD) trong 5 năm, trong đó 85 triệu USD được phân bổ cho các nhà sản xuất nội dung độc lập.",
+   "Dịch vụ do chính phủ tài trợ đang chính thức yêu cầu các đề xuất về cách thúc đẩy giáo dục và học tập kỹ thuật số mà không bị \"không tuân thủ\".",
+   "NUT Cymru, một hiệp hội giáo viên xứ Wales, lo lắng về việc đóng cửa.",
+   "Cả NUT Cymru và Chính quyền Quốc hội xứ Wales đều đặt câu hỏi về mức độ mà các công ty thương mại sẽ tham gia và thực hiện các điều khoản của Đạo luật Ngôn ngữ xứ Wales năm 1993."
+  ]
+ },
+ {
+  "id": "wiki-catalogue-of-life",
+  "title_vi": "Catalogue of Life",
+  "vi": [
+   "Catalogue of Life (CoL) là một cơ sở dữ liệu trực tuyến.",
+   "Cơ sở dữ liệu này có tất cả các loài động vật, thực vật, nấm và vi sinh vật đã biết.",
+   "Nó được tạo ra vào năm 2001.",
+   "Nó kết hợp Species 2000 và Hệ thống thông tin phân loại tích hợp của Hoa Kỳ.",
+   "Danh mục này được các nhà khoa học, nhà giáo dục và nhà hoạch định chính sách sử dụng.",
+   "Danh mục này cũng được sử dụng bởi Thư viện Di sản Đa dạng sinh học, Hệ thống dữ liệu mã vạch sự sống, Bách khoa toàn thư về sự sống và Cơ sở thông tin đa dạng sinh học toàn cầu.",
+   "Danh mục sử dụng dữ liệu từ 165 cơ sở dữ liệu được bình duyệt khác.",
+   "Tính đến tháng 9 năm 2022, Danh sách kiểm tra COL có 2.067.951 loài trong số 2,2 triệu loài trên thế giới mà các nhà phân loại biết đến."
+  ]
+ }
+]

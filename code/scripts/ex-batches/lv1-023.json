@@ -1,0 +1,820 @@
+[
+ {
+  "id": "scholar",
+  "pos": [
+   "n"
+  ],
+  "vi": "học giả; sinh viên nhận học bổng",
+  "coll": [
+   "a distinguished scholar",
+   "legal scholar",
+   "visiting scholar",
+   "scholars argue that"
+  ]
+ },
+ {
+  "id": "socially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt xã hội; trong giao tiếp",
+  "coll": [
+   "socially awkward",
+   "socially acceptable",
+   "socially responsible",
+   "socially active"
+  ]
+ },
+ {
+  "id": "stir",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khuấy, đảo; khuấy động; sự xôn xao",
+  "coll": [
+   "stir the soup",
+   "stir well",
+   "cause a stir",
+   "stir up trouble"
+  ]
+ },
+ {
+  "id": "stuffed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "được nhồi; no căng",
+  "coll": [
+   "stuffed animal",
+   "stuffed toy",
+   "I'm stuffed",
+   "stuffed peppers"
+  ]
+ },
+ {
+  "id": "supposedly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "được cho là; nghe nói là",
+  "coll": [
+   "supposedly true",
+   "a supposedly haunted house",
+   "supposedly the best restaurant"
+  ]
+ },
+ {
+  "id": "tendency",
+  "pos": [
+   "n"
+  ],
+  "vi": "xu hướng; khuynh hướng",
+  "coll": [
+   "have a tendency to",
+   "natural tendency",
+   "a growing tendency",
+   "a tendency towards"
+  ]
+ },
+ {
+  "id": "triumph",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chiến thắng, thắng lợi; niềm hân hoan",
+  "coll": [
+   "in triumph",
+   "triumph over adversity",
+   "a great triumph",
+   "triumph over evil"
+  ]
+ },
+ {
+  "id": "ambitious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đầy tham vọng; nhiều hoài bão",
+  "coll": [
+   "an ambitious plan",
+   "ambitious goal",
+   "highly ambitious",
+   "an ambitious young man"
+  ]
+ },
+ {
+  "id": "annoyed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bực mình; khó chịu",
+  "coll": [
+   "annoyed with her",
+   "annoyed at the delay",
+   "get annoyed",
+   "visibly annoyed"
+  ]
+ },
+ {
+  "id": "blend",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hỗn hợp, sự pha trộn; pha trộn, hòa quyện",
+  "coll": [
+   "a blend of flavors",
+   "blend in",
+   "blend together",
+   "a perfect blend"
+  ]
+ },
+ {
+  "id": "correction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sửa chữa; sự đính chính",
+  "coll": [
+   "make corrections",
+   "error correction",
+   "correction fluid",
+   "issue a correction"
+  ]
+ },
+ {
+  "id": "cough",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "cơn ho; tiếng ho; ho",
+  "coll": [
+   "a bad cough",
+   "cough syrup",
+   "a dry cough",
+   "cough and sneeze"
+  ]
+ },
+ {
+  "id": "critic",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà phê bình; người chỉ trích",
+  "coll": [
+   "film critic",
+   "a harsh critic",
+   "an outspoken critic",
+   "critics argue that"
+  ]
+ },
+ {
+  "id": "feast",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bữa tiệc lớn, yến tiệc; lễ hội",
+  "coll": [
+   "a wedding feast",
+   "a feast for the eyes",
+   "feast on",
+   "feast day"
+  ]
+ },
+ {
+  "id": "frost",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sương giá; băng giá",
+  "coll": [
+   "heavy frost",
+   "frost on the windows",
+   "the first frost of winter",
+   "frost damage"
+  ]
+ },
+ {
+  "id": "internationally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trên trường quốc tế; khắp thế giới",
+  "coll": [
+   "internationally known",
+   "internationally recognized",
+   "internationally acclaimed",
+   "compete internationally"
+  ]
+ },
+ {
+  "id": "meditation",
+  "pos": [
+   "n"
+  ],
+  "vi": "thiền; sự suy ngẫm",
+  "coll": [
+   "practice meditation",
+   "deep meditation",
+   "meditation techniques",
+   "mindfulness meditation"
+  ]
+ },
+ {
+  "id": "punish",
+  "pos": [
+   "v"
+  ],
+  "vi": "trừng phạt; phạt",
+  "coll": [
+   "punish someone for a crime",
+   "severely punish",
+   "punish bad behavior"
+  ]
+ },
+ {
+  "id": "purse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ví (nữ); túi xách nhỏ; mím (môi)",
+  "coll": [
+   "hold the purse strings",
+   "purse her lips",
+   "a leather purse"
+  ]
+ },
+ {
+  "id": "reservation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đặt chỗ; sự dè dặt; khu bảo tồn",
+  "coll": [
+   "make a reservation",
+   "hotel reservation",
+   "without reservation",
+   "dinner reservation"
+  ]
+ },
+ {
+  "id": "sigh",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "tiếng thở dài; thở dài",
+  "coll": [
+   "a sigh of relief",
+   "heave a sigh",
+   "a deep sigh",
+   "sigh heavily"
+  ]
+ },
+ {
+  "id": "tense",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "căng thẳng; thì (ngữ pháp); căng (cơ)",
+  "coll": [
+   "a tense situation",
+   "tense muscles",
+   "the past tense",
+   "a tense atmosphere"
+  ]
+ },
+ {
+  "id": "adviser",
+  "pos": [
+   "n"
+  ],
+  "vi": "cố vấn",
+  "coll": [
+   "financial adviser",
+   "senior adviser",
+   "legal adviser",
+   "adviser to the president"
+  ]
+ },
+ {
+  "id": "consequently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "do đó; vì vậy; kết quả là",
+  "coll": [
+   "and consequently",
+   "consequently failed to",
+   "consequently, prices rose"
+  ]
+ },
+ {
+  "id": "dull",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "buồn tẻ, nhàm chán; cùn; xỉn màu; âm ỉ",
+  "coll": [
+   "a dull day",
+   "a dull pain",
+   "a dull knife",
+   "never a dull moment"
+  ]
+ },
+ {
+  "id": "idol",
+  "pos": [
+   "n"
+  ],
+  "vi": "thần tượng; tượng thờ",
+  "coll": [
+   "teen idol",
+   "pop idol",
+   "childhood idol",
+   "worship an idol"
+  ]
+ },
+ {
+  "id": "incorrect",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sai; không chính xác",
+  "coll": [
+   "incorrect answer",
+   "incorrect information",
+   "factually incorrect",
+   "politically incorrect"
+  ]
+ },
+ {
+  "id": "leap",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "cú nhảy vọt; nhảy, nhảy vọt",
+  "coll": [
+   "a leap of faith",
+   "a giant leap",
+   "leap year",
+   "leap at the opportunity"
+  ]
+ },
+ {
+  "id": "locate",
+  "pos": [
+   "v"
+  ],
+  "vi": "xác định vị trí; tìm ra; đặt tại",
+  "coll": [
+   "locate the problem",
+   "locate a missing person",
+   "be located in the city center",
+   "difficult to locate"
+  ]
+ },
+ {
+  "id": "motive",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "động cơ (hành động)",
+  "coll": [
+   "ulterior motive",
+   "motive for the crime",
+   "hidden motive",
+   "question his motives"
+  ]
+ },
+ {
+  "id": "refund",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiền hoàn lại; hoàn tiền",
+  "coll": [
+   "a full refund",
+   "get a refund",
+   "demand a refund",
+   "refund policy"
+  ]
+ },
+ {
+  "id": "spice",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gia vị; hương vị; thêm gia vị",
+  "coll": [
+   "herbs and spices",
+   "add spice",
+   "spice things up",
+   "spice rack"
+  ]
+ },
+ {
+  "id": "terrified",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "kinh hãi; sợ chết khiếp",
+  "coll": [
+   "terrified of spiders",
+   "absolutely terrified",
+   "terrified of losing"
+  ]
+ },
+ {
+  "id": "arise",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phát sinh; nảy sinh; xuất hiện",
+  "coll": [
+   "problems arise",
+   "arise from",
+   "should the need arise",
+   "questions arise"
+  ]
+ },
+ {
+  "id": "bore",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm chán; khoan (lỗ); người tẻ nhạt",
+  "coll": [
+   "bore someone to death",
+   "bore a hole",
+   "a terrible bore"
+  ]
+ },
+ {
+  "id": "dial",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quay số; mặt số; nút xoay",
+  "coll": [
+   "dial a number",
+   "dial 911",
+   "speed dial",
+   "dial tone"
+  ]
+ },
+ {
+  "id": "ginger",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "gừng; (tóc) hung đỏ",
+  "coll": [
+   "ginger tea",
+   "fresh ginger",
+   "ginger ale",
+   "ginger hair"
+  ]
+ },
+ {
+  "id": "jar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lọ, hũ; làm chói tai; va chạm mạnh",
+  "coll": [
+   "jam jar",
+   "a jar of honey",
+   "glass jar",
+   "cookie jar"
+  ]
+ },
+ {
+  "id": "monk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà sư; thầy tu",
+  "coll": [
+   "Buddhist monk",
+   "Tibetan monks",
+   "become a monk",
+   "a monk's robes"
+  ]
+ },
+ {
+  "id": "occupy",
+  "pos": [
+   "v"
+  ],
+  "vi": "chiếm, chiếm giữ; cư ngụ; chiếm (thời gian)",
+  "coll": [
+   "occupy a position",
+   "occupy the building",
+   "occupy your time",
+   "occupy a seat"
+  ]
+ },
+ {
+  "id": "old-fashioned",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lỗi thời; kiểu cũ; cổ điển",
+  "coll": [
+   "old-fashioned values",
+   "the old-fashioned way",
+   "good old-fashioned",
+   "old-fashioned clothes"
+  ]
+ },
+ {
+  "id": "sleeve",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tay áo; vỏ bọc (đĩa nhạc)",
+  "coll": [
+   "roll up your sleeves",
+   "short sleeves",
+   "an ace up your sleeve",
+   "record sleeve"
+  ]
+ },
+ {
+  "id": "social networking",
+  "pos": [
+   "n"
+  ],
+  "vi": "mạng xã hội; việc giao lưu trên mạng",
+  "coll": [
+   "social networking site",
+   "social networking platform",
+   "social networking apps"
+  ]
+ },
+ {
+  "id": "thankful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "biết ơn; cảm kích",
+  "coll": [
+   "thankful for",
+   "deeply thankful",
+   "thankful that it's over",
+   "be thankful for small mercies"
+  ]
+ },
+ {
+  "id": "translate",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "dịch, phiên dịch; chuyển thành",
+  "coll": [
+   "translate into English",
+   "translate from French",
+   "roughly translate",
+   "translate into action"
+  ]
+ },
+ {
+  "id": "unclear",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "không rõ ràng; mơ hồ",
+  "coll": [
+   "it is unclear whether",
+   "remain unclear",
+   "unclear about the details",
+   "unclear instructions"
+  ]
+ },
+ {
+  "id": "wizard",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "phù thủy; bậc thầy, cao thủ",
+  "coll": [
+   "a powerful wizard",
+   "financial wizard",
+   "computer wizard",
+   "setup wizard"
+  ]
+ },
+ {
+  "id": "affection",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tình cảm; sự yêu mến",
+  "coll": [
+   "show affection",
+   "deep affection",
+   "affection for her children",
+   "public displays of affection"
+  ]
+ },
+ {
+  "id": "beautifully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách đẹp đẽ; rất hay, tuyệt vời",
+  "coll": [
+   "beautifully written",
+   "beautifully designed",
+   "beautifully decorated",
+   "sing beautifully"
+  ]
+ },
+ {
+  "id": "debris",
+  "pos": [
+   "n"
+  ],
+  "vi": "mảnh vỡ; đống đổ nát",
+  "coll": [
+   "clear the debris",
+   "flying debris",
+   "debris from the explosion",
+   "space debris"
+  ]
+ },
+ {
+  "id": "educate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "giáo dục; dạy dỗ",
+  "coll": [
+   "educate children",
+   "educate the public",
+   "educate people about",
+   "educate yourself"
+  ]
+ },
+ {
+  "id": "gratitude",
+  "pos": [
+   "n"
+  ],
+  "vi": "lòng biết ơn",
+  "coll": [
+   "express gratitude",
+   "deep gratitude",
+   "gratitude towards",
+   "a sense of gratitude"
+  ]
+ },
+ {
+  "id": "outline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dàn ý, đề cương; đường viền; nêu khái quát",
+  "coll": [
+   "a brief outline",
+   "outline of the plan",
+   "outline the main points",
+   "course outline"
+  ]
+ },
+ {
+  "id": "researcher",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà nghiên cứu",
+  "coll": [
+   "lead researcher",
+   "medical researcher",
+   "researchers found that",
+   "senior researcher"
+  ]
+ },
+ {
+  "id": "runway",
+  "pos": [
+   "n"
+  ],
+  "vi": "đường băng; sàn diễn thời trang",
+  "coll": [
+   "airport runway",
+   "runway model",
+   "runway show",
+   "land on the runway"
+  ]
+ },
+ {
+  "id": "sculpture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tác phẩm điêu khắc; nghệ thuật điêu khắc",
+  "coll": [
+   "bronze sculpture",
+   "ice sculpture",
+   "modern sculpture",
+   "a sculpture garden"
+  ]
+ },
+ {
+  "id": "soap opera",
+  "pos": [
+   "n"
+  ],
+  "vi": "phim dài tập; phim tình cảm nhiều kỳ",
+  "coll": [
+   "watch soap operas",
+   "a popular soap opera",
+   "soap opera star"
+  ]
+ },
+ {
+  "id": "wax",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sáp; ráy tai; đánh bóng bằng sáp",
+  "coll": [
+   "candle wax",
+   "ear wax",
+   "wax the car",
+   "wax and wane"
+  ]
+ },
+ {
+  "id": "alcoholic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có cồn; người nghiện rượu",
+  "coll": [
+   "alcoholic drinks",
+   "alcoholic beverages",
+   "non-alcoholic beer",
+   "a recovering alcoholic"
+  ]
+ },
+ {
+  "id": "amazed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "kinh ngạc; sửng sốt",
+  "coll": [
+   "amazed at the results",
+   "amazed by her talent",
+   "absolutely amazed",
+   "amazed to find"
+  ]
+ }
+]

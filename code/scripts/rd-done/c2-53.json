@@ -1,0 +1,73 @@
+[
+ {
+  "id": "wiki-bytecode",
+  "title_vi": "Bytecode",
+  "vi": [
+   "Bytecode, còn được gọi là mã khả chuyển (portable code) hay p-code, là một dạng tập lệnh được thiết kế để trình thông dịch phần mềm thực thi hiệu quả.",
+   "Không giống như mã nguồn mà con người có thể đọc được, mã byte là mã số nhỏ gọn, hằng số và tham chiếu (thường là địa chỉ số) mã hóa kết quả phân tích cú pháp của trình biên dịch và thực hiện phân tích ngữ nghĩa về những thứ như loại, phạm vi và độ sâu lồng nhau của các đối tượng chương trình.",
+   "Tên mã byte bắt nguồn từ các tập lệnh có mã hoạt động một byte theo sau là các tham số tùy chọn.",
+   "Các biểu diễn trung gian như mã byte có thể được xuất ra bằng cách triển khai ngôn ngữ lập trình để dễ dàng giải thích hoặc nó có thể được sử dụng để giảm sự phụ thuộc vào phần cứng và hệ điều hành bằng cách cho phép cùng một mã chạy đa nền tảng, trên các thiết bị khác nhau.",
+   "Mã byte thường có thể được thực thi trực tiếp trên máy ảo (máy mã p, tức là trình thông dịch) hoặc có thể được biên dịch thêm thành mã máy để có hiệu suất tốt hơn.",
+   "Vì các lệnh mã byte được xử lý bằng phần mềm nên chúng có thể phức tạp tùy ý, nhưng dù sao cũng thường giống với các lệnh phần cứng truyền thống: máy xếp chồng ảo là phổ biến nhất, nhưng máy đăng ký ảo cũng đã được chế tạo.",
+   "Các phần khác nhau thường có thể được lưu trữ trong các tệp riêng biệt, tương tự như các mô-đun đối tượng, nhưng được tải động trong quá trình thực thi."
+  ]
+ },
+ {
+  "id": "wiki-lga-1700",
+  "title_vi": "LGA 1700",
+  "vi": [
+   "LGA 1700 là ổ cắm bộ xử lý trung tâm (CPU) được phát triển bởi Intel.",
+   "Ổ cắm cung cấp kết nối giữa bộ vi xử lý và bảng mạch in.",
+   "Điều này có nghĩa là CPU có thể được đặt hoặc thay đổi dễ dàng mà không cần hàn.",
+   "Ổ cắm LGA 1700 được ra mắt vào tháng 11 năm 2021.",
+   "Nó được thiết kế để sử dụng với bộ xử lý Alder Lake và Raptor Lake của Intel.",
+   "Ổ cắm này có thiết kế mới kết hợp hai loại lõi xử lý: Lõi hiệu suất (P-cores) được tạo ra để mang lại hiệu suất cao và Lõi hiệu quả (E-cores) để tiết kiệm năng lượng.",
+   "Điều này cho phép bộ xử lý xử lý nhiều tác vụ hơn, cho cả game thủ và người dùng năng suất.",
+   "LGA 1700 hỗ trợ băng thông lớn hơn và tốc độ truyền dữ liệu được cải thiện so với các mẫu trước đó.",
+   "Những thứ này cần thiết để chơi game, tạo nội dung và thực hiện đa nhiệm nặng.",
+   "LGA 1700 có kích thước ổ cắm lớn hơn LGA 1200 cũ và các điểm lắp khác nhau cho bộ làm mát CPU.",
+   "Các nhà sản xuất đã phải thiết kế hệ thống làm mát mới để hoạt động với ổ cắm."
+  ]
+ },
+ {
+  "id": "wiki-xsp-software",
+  "title_vi": "XSP (phần mềm)",
+  "vi": [
+   "XSP là một máy chủ web độc lập, đơn giản được viết bằng C#.",
+   "Nó lưu trữ Hệ thống của ASP.NET dành cho Linux và các hệ điều hành Unix khác.",
+   "Ngoài việc chạy trên thời gian chạy đơn cho Linux, nó cũng chạy trên thời gian chạy .NET.",
+   "Điều này làm cho nó có thể sử dụng như một máy chủ web nhẹ trên mọi nền tảng hỗ trợ .NET.",
+   "XSP ban đầu là tên của dự án nội bộ tại Microsoft đã trở thành ASP.NET.",
+   "Cái tên này thể hiện sự tôn kính đối với tên ban đầu của cái đã trở thành ASP.NET XSP cũng là một thuật ngữ chỉ công nghệ eXtensible Server Pages trong Apache Cocoon."
+  ]
+ },
+ {
+  "id": "wiki-no-ai-label",
+  "title_vi": "Nhãn không dùng AI",
+  "vi": [
+   "Nhãn không dùng AI (no-AI label) là nhãn được sử dụng cho một số sản phẩm không được tạo ra bằng AI tạo sinh.",
+   "Một số sử dụng các cụm từ như \"do con người tạo ra\", \"tự hào do con người làm\" và \"không có AI\".",
+   "Một số nhãn không tốn phí sử dụng, trong khi một số lại tốn tiền.",
+   "Chúng có thể hữu ích khi mọi người không muốn sản phẩm được tạo ra bằng AI tạo sinh.",
+   "Nhãn không dùng AI đã được so sánh với nhãn dành cho sản phẩm hữu cơ hoặc thương mại công bằng.",
+   "Một số tổ chức muốn có một tiêu chuẩn thống nhất để giúp người tiêu dùng biết \"không có AI\" nghĩa là gì.",
+   "Nhãn \"Made by AI\" cũng tồn tại."
+  ]
+ },
+ {
+  "id": "wiki-skyos",
+  "title_vi": "SkyOS",
+  "vi": [
+   "SkyOS là một hệ điều hành nguyên mẫu đã ngừng sản xuất.",
+   "SkyOS chủ yếu tuân thủ POSIX.",
+   "Nó đi kèm với cốt lõi của các công cụ GNU nguồn mở, bao gồm cả GCC.",
+   "Nhiều chương trình Linux hoặc UNIX khác, như AbiWord và Gaim, chạy trên SkyOS nhờ tuân thủ POSIX và hỗ trợ GTK+.",
+   "Một số trò chơi như Quake cũng đã được chuyển sang.",
+   "Sự phát triển bắt đầu vào năm 1996.",
+   "Phiên bản đầu tiên của nó được phát hành vào tháng 12 năm 1997.",
+   "Cho đến phiên bản 4.x, hệ điều hành này vẫn miễn phí.",
+   "Sau năm 2003, phiên bản beta của SkyOS có giá 30 USD.",
+   "Nó được thực hiện bởi Robert Szeleney."
+  ]
+ }
+]

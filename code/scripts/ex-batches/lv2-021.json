@@ -1,0 +1,826 @@
+[
+ {
+  "id": "firearm",
+  "pos": [
+   "n"
+  ],
+  "vi": "súng; vũ khí có nòng",
+  "coll": [
+   "carry a firearm",
+   "firearm licence",
+   "illegal firearms",
+   "firearm ownership"
+  ]
+ },
+ {
+  "id": "forestry",
+  "pos": [
+   "n"
+  ],
+  "vi": "lâm nghiệp; nghề trồng và khai thác rừng",
+  "coll": [
+   "forestry commission",
+   "forestry management",
+   "sustainable forestry",
+   "forestry industry"
+  ]
+ },
+ {
+  "id": "ghetto",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "khu ổ chuột; khu dân cư biệt lập của một sắc tộc",
+  "coll": [
+   "urban ghetto",
+   "inner-city ghetto",
+   "grow up in the ghetto",
+   "ghetto life"
+  ]
+ },
+ {
+  "id": "grim",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "nghiệt ngã; ảm đạm; lạnh lùng nghiêm nghị",
+  "coll": [
+   "grim news",
+   "grim reality",
+   "a grim expression",
+   "grim determination"
+  ]
+ },
+ {
+  "id": "lastly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cuối cùng; sau cùng",
+  "coll": [
+   "and lastly",
+   "lastly, I would like to thank",
+   "lastly, we should note"
+  ]
+ },
+ {
+  "id": "manipulate",
+  "pos": [
+   "v"
+  ],
+  "vi": "thao túng; điều khiển; xử lý khéo bằng tay",
+  "coll": [
+   "manipulate people",
+   "manipulate data",
+   "manipulate the market",
+   "easily manipulated"
+  ]
+ },
+ {
+  "id": "negatively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách tiêu cực; theo hướng xấu",
+  "coll": [
+   "negatively affect",
+   "negatively impact",
+   "react negatively",
+   "negatively correlated"
+  ]
+ },
+ {
+  "id": "retrieve",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lấy lại; truy xuất (dữ liệu); tìm về",
+  "coll": [
+   "retrieve data",
+   "retrieve information",
+   "retrieve a file",
+   "retrieve the ball"
+  ]
+ },
+ {
+  "id": "trait",
+  "pos": [
+   "n"
+  ],
+  "vi": "đặc điểm; nét tính cách",
+  "coll": [
+   "personality trait",
+   "character trait",
+   "inherited trait",
+   "a common trait"
+  ]
+ },
+ {
+  "id": "traitor",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "kẻ phản bội; kẻ phản quốc",
+  "coll": [
+   "a traitor to his country",
+   "branded a traitor",
+   "call someone a traitor",
+   "executed as a traitor"
+  ]
+ },
+ {
+  "id": "troop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quân lính; đoàn người; kéo đi thành đoàn",
+  "coll": [
+   "send in troops",
+   "withdraw troops",
+   "ground troops",
+   "troop deployment"
+  ]
+ },
+ {
+  "id": "underestimate",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đánh giá thấp; coi nhẹ; sự đánh giá thấp",
+  "coll": [
+   "underestimate the risk",
+   "never underestimate",
+   "underestimate the importance",
+   "seriously underestimate"
+  ]
+ },
+ {
+  "id": "addict",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "người nghiện; người mê mẩn thứ gì",
+  "coll": [
+   "drug addict",
+   "heroin addict",
+   "a recovering addict",
+   "a self-confessed addict"
+  ]
+ },
+ {
+  "id": "exclusion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự loại trừ; sự gạt ra ngoài",
+  "coll": [
+   "social exclusion",
+   "to the exclusion of",
+   "exclusion clause",
+   "exclusion from school"
+  ]
+ },
+ {
+  "id": "navigate",
+  "pos": [
+   "v"
+  ],
+  "vi": "định hướng; điều hướng; xoay xở vượt qua",
+  "coll": [
+   "navigate a ship",
+   "navigate a website",
+   "navigate through",
+   "hard to navigate"
+  ]
+ },
+ {
+  "id": "pandemic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đại dịch; mang tính đại dịch",
+  "coll": [
+   "global pandemic",
+   "during the pandemic",
+   "pandemic response",
+   "declare a pandemic"
+  ]
+ },
+ {
+  "id": "rehearsal",
+  "pos": [
+   "n"
+  ],
+  "vi": "buổi diễn tập; sự tập dượt",
+  "coll": [
+   "dress rehearsal",
+   "final rehearsal",
+   "rehearsal room",
+   "attend a rehearsal"
+  ]
+ },
+ {
+  "id": "reinforce",
+  "pos": [
+   "v"
+  ],
+  "vi": "củng cố; tăng cường; gia cố",
+  "coll": [
+   "reinforce a stereotype",
+   "reinforce the message",
+   "reinforce the idea",
+   "reinforce a wall"
+  ]
+ },
+ {
+  "id": "revive",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "hồi sinh; làm sống lại; phục hồi",
+  "coll": [
+   "revive the economy",
+   "revive interest",
+   "revive a tradition",
+   "revive a patient"
+  ]
+ },
+ {
+  "id": "strand",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sợi; làm mắc kẹt; mạch (truyện, vấn đề)",
+  "coll": [
+   "a strand of hair",
+   "a strand of DNA",
+   "strands of wool",
+   "a strand of the story"
+  ]
+ },
+ {
+  "id": "suspend",
+  "pos": [
+   "v"
+  ],
+  "vi": "đình chỉ; tạm ngưng; treo lơ lửng",
+  "coll": [
+   "suspend a player",
+   "suspend operations",
+   "suspend judgment",
+   "be suspended from school"
+  ]
+ },
+ {
+  "id": "advent",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự ra đời; sự xuất hiện lần đầu",
+  "coll": [
+   "the advent of the internet",
+   "with the advent of",
+   "the advent of technology",
+   "since the advent of"
+  ]
+ },
+ {
+  "id": "astonishing",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đáng kinh ngạc; sửng sốt",
+  "coll": [
+   "astonishing news",
+   "an astonishing result",
+   "astonishing success",
+   "quite astonishing"
+  ]
+ },
+ {
+  "id": "chaotic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hỗn loạn; lộn xộn",
+  "coll": [
+   "chaotic scenes",
+   "a chaotic situation",
+   "chaotic traffic",
+   "increasingly chaotic"
+  ]
+ },
+ {
+  "id": "coward",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "kẻ hèn nhát; người nhát gan",
+  "coll": [
+   "a moral coward",
+   "call someone a coward",
+   "die like a coward",
+   "a coward at heart"
+  ]
+ },
+ {
+  "id": "dove",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chim bồ câu; người chủ hòa",
+  "coll": [
+   "a white dove",
+   "the dove of peace",
+   "turtle dove",
+   "release doves"
+  ]
+ },
+ {
+  "id": "enduring",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "bền lâu; trường tồn",
+  "coll": [
+   "enduring legacy",
+   "enduring appeal",
+   "enduring friendship",
+   "enduring popularity"
+  ]
+ },
+ {
+  "id": "goodwill",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thiện chí; uy tín thương hiệu",
+  "coll": [
+   "a gesture of goodwill",
+   "build goodwill",
+   "goodwill gesture",
+   "goodwill ambassador"
+  ]
+ },
+ {
+  "id": "gradual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "từ từ; dần dần",
+  "coll": [
+   "a gradual increase",
+   "gradual change",
+   "gradual decline",
+   "a gradual process"
+  ]
+ },
+ {
+  "id": "irresponsible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vô trách nhiệm; thiếu trách nhiệm",
+  "coll": [
+   "irresponsible behaviour",
+   "grossly irresponsible",
+   "irresponsible parents",
+   "irresponsible driving"
+  ]
+ },
+ {
+  "id": "mist",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sương mù nhẹ; hơi nước mờ",
+  "coll": [
+   "morning mist",
+   "a thin mist",
+   "shrouded in mist",
+   "mist rises"
+  ]
+ },
+ {
+  "id": "rash",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "hấp tấp; phát ban ngoài da; nông nổi",
+  "coll": [
+   "a skin rash",
+   "develop a rash",
+   "a rash decision",
+   "rash promises"
+  ]
+ },
+ {
+  "id": "replica",
+  "pos": [
+   "n"
+  ],
+  "vi": "bản sao; phiên bản mô phỏng",
+  "coll": [
+   "an exact replica",
+   "a life-size replica",
+   "replica shirt",
+   "a replica of the original"
+  ]
+ },
+ {
+  "id": "stimulate",
+  "pos": [
+   "v"
+  ],
+  "vi": "kích thích; thúc đẩy",
+  "coll": [
+   "stimulate growth",
+   "stimulate the economy",
+   "stimulate demand",
+   "stimulate interest"
+  ]
+ },
+ {
+  "id": "translator",
+  "pos": [
+   "n"
+  ],
+  "vi": "người dịch; biên dịch viên; phần mềm dịch",
+  "coll": [
+   "a literary translator",
+   "work as a translator",
+   "freelance translator",
+   "online translator"
+  ]
+ },
+ {
+  "id": "transmit",
+  "pos": [
+   "v"
+  ],
+  "vi": "truyền; phát đi; lây truyền",
+  "coll": [
+   "transmit a signal",
+   "transmit a disease",
+   "transmit data",
+   "sexually transmitted"
+  ]
+ },
+ {
+  "id": "tutor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gia sư; dạy kèm",
+  "coll": [
+   "private tutor",
+   "personal tutor",
+   "hire a tutor",
+   "tutor a student"
+  ]
+ },
+ {
+  "id": "unsafe",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "không an toàn; nguy hiểm",
+  "coll": [
+   "unsafe conditions",
+   "unsafe water",
+   "feel unsafe",
+   "unsafe practices"
+  ]
+ },
+ {
+  "id": "brewery",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà máy bia; xưởng bia",
+  "coll": [
+   "craft brewery",
+   "local brewery",
+   "brewery tour",
+   "a small brewery"
+  ]
+ },
+ {
+  "id": "cardboard",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bìa các-tông; giấy bồi cứng",
+  "coll": [
+   "cardboard box",
+   "a piece of cardboard",
+   "corrugated cardboard",
+   "cardboard packaging"
+  ]
+ },
+ {
+  "id": "casually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách thản nhiên; tình cờ; giản dị",
+  "coll": [
+   "dressed casually",
+   "casually mention",
+   "say casually",
+   "casually dressed"
+  ]
+ },
+ {
+  "id": "chew",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhai; nhai nghiến",
+  "coll": [
+   "chew gum",
+   "chew food",
+   "chew slowly",
+   "chew on a bone"
+  ]
+ },
+ {
+  "id": "circumstance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hoàn cảnh; tình huống",
+  "coll": [
+   "under the circumstances",
+   "in no circumstances",
+   "difficult circumstances",
+   "exceptional circumstances"
+  ]
+ },
+ {
+  "id": "daytime",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "ban ngày; thuộc ban ngày",
+  "coll": [
+   "during the daytime",
+   "in the daytime",
+   "daytime TV",
+   "daytime hours"
+  ]
+ },
+ {
+  "id": "dictator",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà độc tài",
+  "coll": [
+   "a military dictator",
+   "a brutal dictator",
+   "overthrow a dictator",
+   "ruled by a dictator"
+  ]
+ },
+ {
+  "id": "dime",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồng mười xu Mỹ; món tiền nhỏ",
+  "coll": [
+   "a dime a dozen",
+   "not worth a dime",
+   "turn on a dime",
+   "every last dime"
+  ]
+ },
+ {
+  "id": "disregard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phớt lờ; coi thường; sự xem nhẹ",
+  "coll": [
+   "disregard the rules",
+   "total disregard",
+   "with complete disregard for",
+   "disregard safety"
+  ]
+ },
+ {
+  "id": "distributor",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà phân phối",
+  "coll": [
+   "a major distributor",
+   "exclusive distributor",
+   "wholesale distributor",
+   "film distributor"
+  ]
+ },
+ {
+  "id": "dreadful",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "khủng khiếp; tồi tệ",
+  "coll": [
+   "a dreadful mistake",
+   "dreadful weather",
+   "look dreadful",
+   "a dreadful accident"
+  ]
+ },
+ {
+  "id": "imperative",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "cấp thiết; điều bắt buộc; thức mệnh lệnh",
+  "coll": [
+   "it is imperative that",
+   "a moral imperative",
+   "absolutely imperative",
+   "economic imperative"
+  ]
+ },
+ {
+  "id": "ineffective",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không hiệu quả; vô tác dụng",
+  "coll": [
+   "ineffective treatment",
+   "largely ineffective",
+   "an ineffective leader",
+   "prove ineffective"
+  ]
+ },
+ {
+  "id": "needless",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "không cần thiết; thừa",
+  "coll": [
+   "needless to say",
+   "needless suffering",
+   "needless waste",
+   "a needless risk"
+  ]
+ },
+ {
+  "id": "novelty",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sự mới lạ; món đồ mới lạ",
+  "coll": [
+   "the novelty wears off",
+   "novelty value",
+   "a novelty item",
+   "a bit of a novelty"
+  ]
+ },
+ {
+  "id": "optimism",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lạc quan; tinh thần lạc quan",
+  "coll": [
+   "cautious optimism",
+   "a sense of optimism",
+   "grounds for optimism",
+   "renewed optimism"
+  ]
+ },
+ {
+  "id": "pint",
+  "pos": [
+   "n"
+  ],
+  "vi": "panh (đơn vị đo chất lỏng); vại bia",
+  "coll": [
+   "a pint of beer",
+   "a pint of milk",
+   "go for a pint",
+   "half a pint"
+  ]
+ },
+ {
+  "id": "soaked",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "ướt sũng; ngấm đẫm nước",
+  "coll": [
+   "soaked to the skin",
+   "get soaked",
+   "soaked through",
+   "soaked in water"
+  ]
+ },
+ {
+  "id": "spur",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thúc đẩy; động lực; đinh thúc ngựa",
+  "coll": [
+   "spur growth",
+   "spur economic development",
+   "on the spur of the moment",
+   "spur someone on"
+  ]
+ },
+ {
+  "id": "suppress",
+  "pos": [
+   "v"
+  ],
+  "vi": "đàn áp; kìm nén; ngăn chặn",
+  "coll": [
+   "suppress a rebellion",
+   "suppress emotions",
+   "suppress a smile",
+   "suppress information"
+  ]
+ },
+ {
+  "id": "trivial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vụn vặt; tầm thường; không đáng kể",
+  "coll": [
+   "a trivial matter",
+   "trivial details",
+   "seemingly trivial",
+   "far from trivial"
+  ]
+ },
+ {
+  "id": "unofficial",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không chính thức",
+  "coll": [
+   "unofficial figures",
+   "an unofficial visit",
+   "unofficial results",
+   "an unofficial strike"
+  ]
+ }
+]

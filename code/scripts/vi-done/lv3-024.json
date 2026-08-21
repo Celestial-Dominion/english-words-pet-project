@@ -1,0 +1,402 @@
+{
+  "dotted": {
+    "vi": "có chấm; nét đứt; rải rác",
+    "coll": ["a dotted line", "sign on the dotted line", "dotted with trees", "a dotted pattern"]
+  },
+  "foreclosure": {
+    "vi": "sự tịch biên nhà thế chấp; việc siết nợ",
+    "coll": ["face foreclosure", "a foreclosure notice", "the foreclosure process", "foreclosure rates"]
+  },
+  "dormant": {
+    "vi": "ngủ đông, không hoạt động; tiềm ẩn",
+    "coll": ["a dormant volcano", "lie dormant", "a dormant account", "remain dormant"]
+  },
+  "reliant": {
+    "vi": "phụ thuộc vào; dựa vào",
+    "coll": ["heavily reliant on", "self-reliant", "reliant on imports", "overly reliant"]
+  },
+  "endowed": {
+    "vi": "được phú cho; được tài trợ vốn",
+    "coll": ["endowed with talent", "richly endowed", "an endowed chair", "well endowed"]
+  },
+  "hubby": {
+    "vi": "ông xã; chồng yêu",
+    "coll": ["my hubby", "hubby and I", "her new hubby", "a lovely hubby"]
+  },
+  "moderator": {
+    "vi": "người điều phối; người kiểm duyệt",
+    "coll": ["a forum moderator", "the debate moderator", "act as moderator", "a panel moderator"]
+  },
+  "heartbroken": {
+    "vi": "đau lòng; tan nát cõi lòng",
+    "coll": ["absolutely heartbroken", "leave her heartbroken", "a heartbroken father", "feel heartbroken"]
+  },
+  "directorate": {
+    "vi": "tổng cục, cục; ban giám đốc",
+    "coll": ["the intelligence directorate", "a general directorate", "the directorate of operations", "head the directorate"]
+  },
+  "anonymously": {
+    "vi": "một cách ẩn danh; giấu tên",
+    "coll": ["donate anonymously", "posted anonymously", "speaking anonymously", "report anonymously"]
+  },
+  "irrespective": {
+    "vi": "bất kể; không kể đến",
+    "coll": ["irrespective of age", "irrespective of cost", "irrespective of race", "irrespective of the outcome"]
+  },
+  "projector": {
+    "vi": "máy chiếu",
+    "coll": ["a video projector", "an overhead projector", "set up the projector", "a projector screen"]
+  },
+  "eviction": {
+    "vi": "sự trục xuất khỏi nhà; việc đuổi thuê",
+    "coll": ["an eviction notice", "face eviction", "an eviction order", "illegal eviction"]
+  },
+  "clubhouse": {
+    "vi": "nhà câu lạc bộ; phòng sinh hoạt đội",
+    "coll": ["the golf clubhouse", "a clubhouse meeting", "in the clubhouse", "clubhouse leader"]
+  },
+  "unpublished": {
+    "vi": "chưa xuất bản; chưa công bố",
+    "coll": ["an unpublished manuscript", "unpublished data", "an unpublished novel", "unpublished research"]
+  },
+  "mindfulness": {
+    "vi": "sự chánh niệm; sự tỉnh thức, chú tâm",
+    "coll": ["practise mindfulness", "mindfulness meditation", "mindfulness training", "a mindfulness exercise"]
+  },
+  "novice": {
+    "vi": "người mới vào nghề; tập sinh (tu viện)",
+    "coll": ["a complete novice", "a novice driver", "novice level", "novice mistakes"]
+  },
+  "professionalism": {
+    "vi": "tính chuyên nghiệp; tác phong chuyên nghiệp",
+    "coll": ["a lack of professionalism", "show professionalism", "the highest professionalism", "professionalism and integrity"]
+  },
+  "buzzer": {
+    "vi": "chuông báo; còi báo hiệu",
+    "coll": ["press the buzzer", "the final buzzer", "a buzzer sounds", "a door buzzer"]
+  },
+  "bribery": {
+    "vi": "sự hối lộ; nạn đút lót",
+    "coll": ["bribery and corruption", "charged with bribery", "a bribery scandal", "commercial bribery"]
+  },
+  "recharge": {
+    "vi": "sạc lại; nạp lại năng lượng",
+    "coll": ["recharge the battery", "recharge your batteries", "recharge a phone", "a recharge station"]
+  },
+  "startling": {
+    "vi": "gây sửng sốt; giật mình",
+    "coll": ["a startling discovery", "startling results", "a startling revelation", "startling similarity"]
+  },
+  "principally": {
+    "vi": "chủ yếu; phần lớn là",
+    "coll": ["principally because", "principally concerned with", "principally responsible", "used principally for"]
+  },
+  "daunting": {
+    "vi": "đáng ngại; khiến chùn bước",
+    "coll": ["a daunting task", "a daunting challenge", "a daunting prospect", "seem daunting"]
+  },
+  "bureaucratic": {
+    "vi": "quan liêu; nặng thủ tục hành chính",
+    "coll": ["bureaucratic red tape", "bureaucratic procedures", "a bureaucratic nightmare", "bureaucratic delays"]
+  },
+  "hypocrite": {
+    "vi": "kẻ đạo đức giả; người giả dối",
+    "coll": ["a total hypocrite", "call someone a hypocrite", "a shameless hypocrite", "hypocrites and liars"]
+  },
+  "embark": {
+    "vi": "bắt tay vào; lên tàu, xuất phát",
+    "coll": ["embark on a journey", "embark on a career", "embark upon a project", "embark on a ship"]
+  },
+  "abandonment": {
+    "vi": "sự bỏ rơi; sự từ bỏ",
+    "coll": ["fear of abandonment", "child abandonment", "the abandonment of the project", "a sense of abandonment"]
+  },
+  "abyss": {
+    "vi": "vực thẳm; hố sâu không đáy",
+    "coll": ["stare into the abyss", "the edge of the abyss", "a bottomless abyss", "fall into the abyss"]
+  },
+  "accession": {
+    "vi": "sự lên ngôi, nhậm chức; sự gia nhập",
+    "coll": ["accession to the throne", "EU accession", "an accession treaty", "the accession of new members"]
+  },
+  "ominous": {
+    "vi": "đáng ngại; báo điềm gở",
+    "coll": ["an ominous sign", "ominous clouds", "an ominous silence", "sound ominous"]
+  },
+  "cohort": {
+    "vi": "nhóm cùng lứa; nhóm nghiên cứu; bè cánh",
+    "coll": ["a cohort study", "a birth cohort", "the 2020 cohort", "his cohorts"]
+  },
+  "batsman": {
+    "vi": "người cầm gậy đánh bóng (cricket)",
+    "coll": ["an opening batsman", "a top-order batsman", "dismiss the batsman", "a right-handed batsman"]
+  },
+  "uterus": {
+    "vi": "tử cung; dạ con",
+    "coll": ["in the uterus", "the lining of the uterus", "remove the uterus", "a tilted uterus"]
+  },
+  "rebirth": {
+    "vi": "sự tái sinh; sự hồi sinh",
+    "coll": ["a spiritual rebirth", "the rebirth of a city", "death and rebirth", "an economic rebirth"]
+  },
+  "tenor": {
+    "vi": "giọng nam cao; nội dung chính, chiều hướng",
+    "coll": ["a tenor saxophone", "the general tenor", "a tenor voice", "the tenor of the debate"]
+  },
+  "papal": {
+    "vi": "thuộc giáo hoàng",
+    "coll": ["a papal visit", "papal authority", "a papal decree", "the papal states"]
+  },
+  "cleavage": {
+    "vi": "khe ngực; sự chia tách, phân cắt",
+    "coll": ["show cleavage", "a deep cleavage", "social cleavage", "cell cleavage"]
+  },
+  "strife": {
+    "vi": "sự xung đột; cảnh tranh chấp",
+    "coll": ["civil strife", "ethnic strife", "internal strife", "years of strife"]
+  },
+  "oats": {
+    "vi": "yến mạch",
+    "coll": ["rolled oats", "porridge oats", "a bowl of oats", "sow your wild oats"]
+  },
+  "peril": {
+    "vi": "hiểm nguy; mối nguy hiểm",
+    "coll": ["in peril", "at your peril", "grave peril", "the perils of fame"]
+  },
+  "basal": {
+    "vi": "cơ bản, nền tảng; ở phần gốc",
+    "coll": ["basal metabolic rate", "basal cell carcinoma", "basal temperature", "the basal layer"]
+  },
+  "enormously": {
+    "vi": "cực kỳ; vô cùng, rất nhiều",
+    "coll": ["enormously popular", "vary enormously", "benefit enormously", "enormously successful"]
+  },
+  "stamina": {
+    "vi": "sức bền; sức dẻo dai",
+    "coll": ["build stamina", "physical stamina", "lack stamina", "improve your stamina"]
+  },
+  "negligible": {
+    "vi": "không đáng kể; nhỏ nhặt",
+    "coll": ["a negligible amount", "a negligible effect", "virtually negligible", "negligible impact"]
+  },
+  "stimuli": {
+    "vi": "các kích thích; tác nhân kích thích",
+    "coll": ["external stimuli", "visual stimuli", "respond to stimuli", "sensory stimuli"]
+  },
+  "panorama": {
+    "vi": "toàn cảnh; bức tranh toàn cảnh",
+    "coll": ["a sweeping panorama", "a stunning panorama", "the panorama of the city", "a panorama view"]
+  },
+  "resent": {
+    "vi": "bực bội, oán giận; cảm thấy ấm ức",
+    "coll": ["resent being told", "bitterly resent", "resent the intrusion", "resent his success"]
+  },
+  "divergent": {
+    "vi": "khác biệt, phân kỳ; trái chiều",
+    "coll": ["divergent views", "divergent opinions", "divergent paths", "divergent thinking"]
+  },
+  "wooded": {
+    "vi": "rợp cây; nhiều cây cối",
+    "coll": ["a wooded area", "a heavily wooded hillside", "wooded slopes", "a wooded valley"]
+  },
+  "elevate": {
+    "vi": "nâng lên; đề bạt, nâng tầm",
+    "coll": ["elevate the status", "elevate blood pressure", "elevate your legs", "elevate to a new level"]
+  },
+  "antics": {
+    "vi": "trò hề; những trò lố",
+    "coll": ["childish antics", "on-field antics", "his usual antics", "up to his antics"]
+  },
+  "synopsis": {
+    "vi": "bản tóm tắt; tóm lược nội dung",
+    "coll": ["a brief synopsis", "write a synopsis", "a plot synopsis", "a one-page synopsis"]
+  },
+  "otter": {
+    "vi": "con rái cá",
+    "coll": ["a sea otter", "a river otter", "an otter's holt", "otter populations"]
+  },
+  "discard": {
+    "vi": "vứt bỏ; loại bỏ",
+    "coll": ["discard the packaging", "discard old ideas", "safely discard", "discard a card"]
+  },
+  "conserve": {
+    "vi": "bảo tồn; tiết kiệm; mứt quả",
+    "coll": ["conserve energy", "conserve water", "conserve resources", "a fruit conserve"]
+  },
+  "eclectic": {
+    "vi": "pha trộn nhiều phong cách; chiết trung",
+    "coll": ["an eclectic mix", "eclectic taste", "an eclectic collection", "an eclectic style"]
+  },
+  "wrench": {
+    "vi": "vặn mạnh, giật ra; cờ lê; nỗi đau chia ly",
+    "coll": ["a monkey wrench", "wrench free", "throw a wrench in", "an adjustable wrench"]
+  },
+  "spartan": {
+    "vi": "khắc khổ, giản dị; kiên cường",
+    "coll": ["spartan conditions", "a spartan room", "a spartan lifestyle", "spartan simplicity"]
+  },
+  "exert": {
+    "vi": "gây, tạo (ảnh hưởng, áp lực); dốc sức",
+    "coll": ["exert pressure", "exert influence", "exert control", "exert yourself"]
+  },
+  "torment": {
+    "vi": "sự dày vò; hành hạ, dằn vặt",
+    "coll": ["mental torment", "in torment", "torment someone", "suffer torment"]
+  },
+  "pertinent": {
+    "vi": "thích đáng, liên quan; xác đáng",
+    "coll": ["a pertinent question", "pertinent information", "highly pertinent", "pertinent to the case"]
+  },
+  "rarity": {
+    "vi": "sự hiếm có; vật hiếm",
+    "coll": ["a rarity these days", "the rarity of the species", "become a rarity", "a real rarity"]
+  },
+  "gourmet": {
+    "vi": "cao cấp, sành ăn; người sành ăn",
+    "coll": ["gourmet food", "a gourmet meal", "a gourmet restaurant", "gourmet coffee"]
+  },
+  "temperament": {
+    "vi": "tính khí; khí chất",
+    "coll": ["an artistic temperament", "a calm temperament", "a fiery temperament", "by temperament"]
+  },
+  "hostess": {
+    "vi": "nữ chủ nhà; nữ tiếp viên",
+    "coll": ["a gracious hostess", "an air hostess", "the party hostess", "act as hostess"]
+  },
+  "appliance": {
+    "vi": "thiết bị gia dụng; đồ dùng điện",
+    "coll": ["a kitchen appliance", "household appliances", "an electrical appliance", "energy-efficient appliances"]
+  },
+  "fiercely": {
+    "vi": "dữ dội; mãnh liệt, quyết liệt",
+    "coll": ["fiercely competitive", "fiercely independent", "fiercely loyal", "argue fiercely"]
+  },
+  "impoverished": {
+    "vi": "nghèo túng; bần cùng, cạn kiệt",
+    "coll": ["an impoverished family", "impoverished nations", "an impoverished soil", "become impoverished"]
+  },
+  "degrading": {
+    "vi": "hạ nhục; làm mất phẩm giá",
+    "coll": ["degrading treatment", "a degrading experience", "inhuman and degrading", "degrading remarks"]
+  },
+  "ingenious": {
+    "vi": "tài tình; khéo léo, sáng tạo",
+    "coll": ["an ingenious solution", "an ingenious device", "an ingenious idea", "truly ingenious"]
+  },
+  "complimentary": {
+    "vi": "miễn phí, tặng kèm; khen ngợi",
+    "coll": ["a complimentary breakfast", "a complimentary ticket", "highly complimentary", "complimentary remarks"]
+  },
+  "ornamental": {
+    "vi": "để trang trí; mang tính trang trí",
+    "coll": ["ornamental plants", "an ornamental garden", "purely ornamental", "ornamental features"]
+  },
+  "acidic": {
+    "vi": "có tính axit; chua",
+    "coll": ["acidic soil", "an acidic taste", "highly acidic", "acidic foods"]
+  },
+  "bearded": {
+    "vi": "có râu; để râu quai nón",
+    "coll": ["a bearded man", "a bearded dragon", "heavily bearded", "a bearded face"]
+  },
+  "spontaneously": {
+    "vi": "một cách tự phát; bột phát, tự nhiên",
+    "coll": ["occur spontaneously", "spontaneously combust", "react spontaneously", "spontaneously decided"]
+  },
+  "loom": {
+    "vi": "hiện lên lờ mờ; sắp ập đến; khung cửi",
+    "coll": ["loom large", "a deadline looms", "loom over the city", "a weaving loom"]
+  },
+  "ludicrous": {
+    "vi": "lố bịch; nực cười",
+    "coll": ["a ludicrous idea", "utterly ludicrous", "a ludicrous suggestion", "ludicrous prices"]
+  },
+  "radiator": {
+    "vi": "lò sưởi; bộ tản nhiệt",
+    "coll": ["a car radiator", "turn on the radiator", "a leaking radiator", "a radiator valve"]
+  },
+  "disdain": {
+    "vi": "sự khinh miệt; coi thường",
+    "coll": ["with disdain", "treat with disdain", "open disdain", "disdain for authority"]
+  },
+  "advantageous": {
+    "vi": "có lợi; thuận lợi",
+    "coll": ["mutually advantageous", "an advantageous position", "prove advantageous", "advantageous terms"]
+  },
+  "negligent": {
+    "vi": "cẩu thả; tắc trách",
+    "coll": ["grossly negligent", "found negligent", "negligent driving", "negligent behaviour"]
+  },
+  "farce": {
+    "vi": "trò hề; vở hài kịch nhảm",
+    "coll": ["a complete farce", "turn into a farce", "a political farce", "a French farce"]
+  },
+  "forfeit": {
+    "vi": "bị mất, bị tước; hình phạt phải chịu",
+    "coll": ["forfeit the right", "forfeit the match", "forfeit a deposit", "pay a forfeit"]
+  },
+  "relapse": {
+    "vi": "tái phát; tái nghiện",
+    "coll": ["suffer a relapse", "relapse into old habits", "the risk of relapse", "a relapse rate"]
+  },
+  "versatility": {
+    "vi": "tính đa năng; sự linh hoạt đa dụng",
+    "coll": ["show versatility", "the versatility of the design", "great versatility", "versatility and range"]
+  },
+  "explanatory": {
+    "vi": "mang tính giải thích; để giải nghĩa",
+    "coll": ["self-explanatory", "an explanatory note", "explanatory power", "explanatory text"]
+  },
+  "smug": {
+    "vi": "tự mãn; vẻ đắc ý khó ưa",
+    "coll": ["a smug smile", "look smug", "a smug expression", "sound smug"]
+  },
+  "toughness": {
+    "vi": "sự cứng rắn; độ bền dai",
+    "coll": ["mental toughness", "physical toughness", "show toughness", "the toughness of the material"]
+  },
+  "silhouette": {
+    "vi": "hình bóng in; dáng ngoài",
+    "coll": ["a dark silhouette", "in silhouette", "the silhouette of a building", "a slim silhouette"]
+  },
+  "hypocritical": {
+    "vi": "đạo đức giả; giả tạo",
+    "coll": ["deeply hypocritical", "a hypocritical stance", "sound hypocritical", "hypocritical behaviour"]
+  },
+  "subtly": {
+    "vi": "một cách tinh tế; kín đáo, khó nhận ra",
+    "coll": ["subtly different", "subtly changed", "subtly hint", "subtly flavoured"]
+  },
+  "abstraction": {
+    "vi": "sự trừu tượng; khái niệm trừu tượng",
+    "coll": ["a level of abstraction", "pure abstraction", "an abstraction layer", "abstraction and reality"]
+  },
+  "reassure": {
+    "vi": "trấn an; làm yên lòng",
+    "coll": ["reassure the public", "try to reassure", "reassure investors", "reassure someone that"]
+  },
+  "conservatory": {
+    "vi": "nhạc viện; nhà kính trồng cây",
+    "coll": ["a music conservatory", "study at the conservatory", "a glass conservatory", "build a conservatory"]
+  },
+  "bulky": {
+    "vi": "cồng kềnh; to kềnh càng",
+    "coll": ["bulky items", "a bulky package", "too bulky to carry", "bulky equipment"]
+  },
+  "malfunction": {
+    "vi": "trục trặc, hỏng hóc; sự cố kỹ thuật",
+    "coll": ["a technical malfunction", "an equipment malfunction", "the system malfunctioned", "a wardrobe malfunction"]
+  },
+  "extortion": {
+    "vi": "sự tống tiền; hành vi cưỡng đoạt",
+    "coll": ["charged with extortion", "an extortion racket", "blackmail and extortion", "attempted extortion"]
+  },
+  "readable": {
+    "vi": "dễ đọc; đọc được",
+    "coll": ["machine-readable", "easily readable", "a readable font", "highly readable"]
+  },
+  "crumble": {
+    "vi": "vụn ra, sụp đổ; món crumble",
+    "coll": ["crumble into dust", "the empire crumbled", "an apple crumble", "crumble the cheese"]
+  }
+}

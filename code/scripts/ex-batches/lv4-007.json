@@ -1,0 +1,867 @@
+[
+ {
+  "id": "soften",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm mềm; làm dịu đi; giảm nhẹ",
+  "coll": [
+   "soften the blow",
+   "soften the butter",
+   "soften your voice",
+   "soften the impact",
+   "soften the tone"
+  ]
+ },
+ {
+  "id": "fumble",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lóng ngóng mò mẫm; làm tuột tay",
+  "coll": [
+   "fumble in his pocket",
+   "fumble for words",
+   "fumble the ball",
+   "fumble with the keys",
+   "fumble around"
+  ]
+ },
+ {
+  "id": "occupancy",
+  "pos": [
+   "n"
+  ],
+  "vi": "tỉ lệ lấp đầy; việc sử dụng chỗ ở",
+  "coll": [
+   "occupancy rate",
+   "hotel occupancy",
+   "maximum occupancy",
+   "single occupancy",
+   "occupancy levels"
+  ]
+ },
+ {
+  "id": "wildfire",
+  "pos": [
+   "n"
+  ],
+  "vi": "cháy rừng; lửa lan nhanh",
+  "coll": [
+   "spread like wildfire",
+   "wildfire season",
+   "battle a wildfire",
+   "devastating wildfire",
+   "wildfire smoke"
+  ]
+ },
+ {
+  "id": "censor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kiểm duyệt; người kiểm duyệt",
+  "coll": [
+   "censor the news",
+   "government censors",
+   "heavily censored",
+   "censor the internet",
+   "film censor"
+  ]
+ },
+ {
+  "id": "unbeaten",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bất bại; chưa từng thua",
+  "coll": [
+   "remain unbeaten",
+   "unbeaten record",
+   "unbeaten run",
+   "unbeaten in the league",
+   "unbeaten team"
+  ]
+ },
+ {
+  "id": "attribution",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quy cho, ghi nguồn; việc xác định tác giả",
+  "coll": [
+   "without attribution",
+   "proper attribution",
+   "attribution of blame",
+   "source attribution",
+   "attribution error"
+  ]
+ },
+ {
+  "id": "understatement",
+  "pos": [
+   "n"
+  ],
+  "vi": "cách nói giảm nhẹ; lối nói khiêm tốn",
+  "coll": [
+   "a masterpiece of understatement",
+   "that's an understatement",
+   "British understatement",
+   "gross understatement",
+   "typical understatement"
+  ]
+ },
+ {
+  "id": "undesirable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không mong muốn; đáng ngại; phần tử bất hảo",
+  "coll": [
+   "undesirable side effects",
+   "undesirable consequences",
+   "highly undesirable",
+   "undesirable behaviour",
+   "undesirable elements"
+  ]
+ },
+ {
+  "id": "oncology",
+  "pos": [
+   "n"
+  ],
+  "vi": "ung thư học; khoa ung bướu",
+  "coll": [
+   "oncology department",
+   "medical oncology",
+   "oncology unit",
+   "pediatric oncology",
+   "oncology nurse"
+  ]
+ },
+ {
+  "id": "topless",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "để ngực trần; không mui, không nóc",
+  "coll": [
+   "topless beach",
+   "sunbathe topless",
+   "topless bar",
+   "go topless",
+   "topless model"
+  ]
+ },
+ {
+  "id": "satirical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "châm biếm; trào phúng",
+  "coll": [
+   "satirical magazine",
+   "satirical cartoon",
+   "satirical novel",
+   "satirical comedy",
+   "satirical take on"
+  ]
+ },
+ {
+  "id": "mastermind",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ chủ mưu; bộ óc chủ chốt; chủ mưu dàn dựng",
+  "coll": [
+   "the mastermind behind",
+   "criminal mastermind",
+   "mastermind the plot",
+   "mastermind the attack",
+   "evil mastermind"
+  ]
+ },
+ {
+  "id": "cosmopolitan",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đa quốc gia, quốc tế hóa; người tứ hải",
+  "coll": [
+   "cosmopolitan city",
+   "cosmopolitan atmosphere",
+   "cosmopolitan outlook",
+   "truly cosmopolitan",
+   "cosmopolitan population"
+  ]
+ },
+ {
+  "id": "pathological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bệnh hoạn, thành bệnh; thuộc bệnh lý",
+  "coll": [
+   "pathological liar",
+   "pathological condition",
+   "pathological fear",
+   "pathological changes",
+   "pathological gambling"
+  ]
+ },
+ {
+  "id": "slump",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "sụt giảm mạnh; đổ sụp xuống; đợt suy thoái",
+  "coll": [
+   "economic slump",
+   "sales slump",
+   "slump in prices",
+   "slump into a chair",
+   "a prolonged slump"
+  ]
+ },
+ {
+  "id": "revisit",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "xem xét lại; thăm lại",
+  "coll": [
+   "revisit the issue",
+   "revisit the decision",
+   "revisit the past",
+   "worth revisiting",
+   "revisit the topic"
+  ]
+ },
+ {
+  "id": "steamer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nồi hấp; tàu chạy hơi nước",
+  "coll": [
+   "a bamboo steamer",
+   "steamer basket",
+   "paddle steamer",
+   "ocean steamer",
+   "vegetable steamer"
+  ]
+ },
+ {
+  "id": "supplementary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bổ sung; phụ thêm",
+  "coll": [
+   "supplementary information",
+   "supplementary material",
+   "supplementary income",
+   "supplementary questions",
+   "supplementary evidence"
+  ]
+ },
+ {
+  "id": "deductible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "được khấu trừ; mức khấu trừ bảo hiểm",
+  "coll": [
+   "tax deductible",
+   "deductible expenses",
+   "insurance deductible",
+   "high deductible",
+   "pay the deductible"
+  ]
+ },
+ {
+  "id": "linebacker",
+  "pos": [
+   "n"
+  ],
+  "vi": "hậu vệ tuyến giữa (bóng bầu dục Mỹ)",
+  "coll": [
+   "middle linebacker",
+   "outside linebacker",
+   "star linebacker",
+   "linebacker position",
+   "veteran linebacker"
+  ]
+ },
+ {
+  "id": "idiotic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ngu ngốc; ngớ ngẩn",
+  "coll": [
+   "idiotic idea",
+   "idiotic behaviour",
+   "utterly idiotic",
+   "idiotic mistake",
+   "idiotic grin"
+  ]
+ },
+ {
+  "id": "sparse",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "thưa thớt; ít ỏi",
+  "coll": [
+   "sparse population",
+   "sparse vegetation",
+   "sparse data",
+   "sparse hair",
+   "sparse details"
+  ]
+ },
+ {
+  "id": "estrogen",
+  "pos": [
+   "n"
+  ],
+  "vi": "estrogen (nội tiết tố nữ)",
+  "coll": [
+   "estrogen levels",
+   "estrogen therapy",
+   "estrogen receptor",
+   "low estrogen",
+   "estrogen production"
+  ]
+ },
+ {
+  "id": "insertion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chèn vào; việc đưa vào",
+  "coll": [
+   "insertion point",
+   "gene insertion",
+   "insertion of a catheter",
+   "insertion sort",
+   "the insertion of a clause"
+  ]
+ },
+ {
+  "id": "herbal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thảo dược; làm từ thảo mộc",
+  "coll": [
+   "herbal tea",
+   "herbal remedy",
+   "herbal medicine",
+   "herbal supplement",
+   "herbal treatment"
+  ]
+ },
+ {
+  "id": "adolescence",
+  "pos": [
+   "n"
+  ],
+  "vi": "tuổi vị thành niên; thời niên thiếu",
+  "coll": [
+   "during adolescence",
+   "early adolescence",
+   "through adolescence",
+   "the onset of adolescence",
+   "late adolescence"
+  ]
+ },
+ {
+  "id": "colonization",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thực dân hóa; việc lập thuộc địa",
+  "coll": [
+   "European colonization",
+   "colonization of Africa",
+   "space colonization",
+   "period of colonization",
+   "bacterial colonization"
+  ]
+ },
+ {
+  "id": "noticeably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "rõ rệt; thấy rõ",
+  "coll": [
+   "noticeably absent",
+   "noticeably better",
+   "noticeably different",
+   "noticeably slower",
+   "noticeably nervous"
+  ]
+ },
+ {
+  "id": "magically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "như có phép màu; một cách kỳ diệu",
+  "coll": [
+   "magically appear",
+   "magically disappear",
+   "magically transformed",
+   "magically fixed",
+   "not magically"
+  ]
+ },
+ {
+  "id": "unification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thống nhất; sự hợp nhất",
+  "coll": [
+   "German unification",
+   "national unification",
+   "unification of the country",
+   "unification process",
+   "unification treaty"
+  ]
+ },
+ {
+  "id": "legitimately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách chính đáng; hợp pháp",
+  "coll": [
+   "legitimately elected",
+   "legitimately claim",
+   "legitimately obtained",
+   "legitimately concerned",
+   "legitimately earned"
+  ]
+ },
+ {
+  "id": "suction",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lực hút; sự hút chân không",
+  "coll": [
+   "suction cup",
+   "suction power",
+   "strong suction",
+   "suction pump",
+   "apply suction"
+  ]
+ },
+ {
+  "id": "purchaser",
+  "pos": [
+   "n"
+  ],
+  "vi": "người mua; bên mua",
+  "coll": [
+   "potential purchaser",
+   "the purchaser of the property",
+   "first-time purchaser",
+   "purchaser and seller",
+   "prospective purchaser"
+  ]
+ },
+ {
+  "id": "outsourcing",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc thuê ngoài; gia công bên ngoài",
+  "coll": [
+   "IT outsourcing",
+   "outsourcing of jobs",
+   "offshore outsourcing",
+   "outsourcing contract",
+   "rely on outsourcing"
+  ]
+ },
+ {
+  "id": "materially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt vật chất; đáng kể",
+  "coll": [
+   "materially affect",
+   "materially different",
+   "materially benefit",
+   "materially change",
+   "materially worse off"
+  ]
+ },
+ {
+  "id": "payload",
+  "pos": [
+   "n"
+  ],
+  "vi": "tải trọng hữu ích; đầu đạn; phần dữ liệu chính",
+  "coll": [
+   "rocket payload",
+   "maximum payload",
+   "payload capacity",
+   "deliver the payload",
+   "malicious payload"
+  ]
+ },
+ {
+  "id": "surveyor",
+  "pos": [
+   "n"
+  ],
+  "vi": "người khảo sát đo đạc; giám định viên",
+  "coll": [
+   "land surveyor",
+   "quantity surveyor",
+   "building surveyor",
+   "chartered surveyor",
+   "surveyor's report"
+  ]
+ },
+ {
+  "id": "wastewater",
+  "pos": [
+   "n"
+  ],
+  "vi": "nước thải",
+  "coll": [
+   "wastewater treatment",
+   "wastewater plant",
+   "industrial wastewater",
+   "discharge wastewater",
+   "wastewater management"
+  ]
+ },
+ {
+  "id": "payout",
+  "pos": [
+   "n"
+  ],
+  "vi": "khoản chi trả; tiền bồi thường",
+  "coll": [
+   "insurance payout",
+   "large payout",
+   "dividend payout",
+   "receive a payout",
+   "payout ratio"
+  ]
+ },
+ {
+  "id": "spinner",
+  "pos": [
+   "n"
+  ],
+  "vi": "vật quay tròn, con quay; người ném bóng xoáy",
+  "coll": [
+   "fidget spinner",
+   "off spinner",
+   "spin the spinner",
+   "leg spinner",
+   "spinner blade"
+  ]
+ },
+ {
+  "id": "conjecture",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "sự phỏng đoán; suy đoán, phỏng đoán",
+  "coll": [
+   "pure conjecture",
+   "a matter of conjecture",
+   "open to conjecture",
+   "conjecture about the cause",
+   "mere conjecture"
+  ]
+ },
+ {
+  "id": "palate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vòm miệng; khẩu vị sành ăn",
+  "coll": [
+   "soft palate",
+   "cleft palate",
+   "a refined palate",
+   "please the palate",
+   "cleanse the palate"
+  ]
+ },
+ {
+  "id": "all-encompassing",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bao trùm tất cả; toàn diện",
+  "coll": [
+   "all-encompassing view",
+   "all-encompassing term",
+   "all-encompassing approach",
+   "an all-encompassing definition"
+  ]
+ },
+ {
+  "id": "ostensibly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "bề ngoài là, mang tiếng là",
+  "coll": [
+   "ostensibly independent",
+   "ostensibly to help",
+   "ostensibly neutral",
+   "ostensibly about",
+   "ostensibly a democracy"
+  ]
+ },
+ {
+  "id": "pedestal",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bệ tượng, chân đế; vị trí tôn sùng",
+  "coll": [
+   "put on a pedestal",
+   "marble pedestal",
+   "knock off the pedestal",
+   "stand on a pedestal",
+   "pedestal table"
+  ]
+ },
+ {
+  "id": "moor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vùng đồng hoang; neo đậu (tàu)",
+  "coll": [
+   "across the moor",
+   "moor the boat",
+   "moorland habitat",
+   "windswept moor",
+   "moored in the harbour"
+  ]
+ },
+ {
+  "id": "fourteenth",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thứ mười bốn; một phần mười bốn",
+  "coll": [
+   "the fourteenth century",
+   "on the fourteenth",
+   "fourteenth birthday",
+   "fourteenth place",
+   "the Fourteenth Amendment"
+  ]
+ },
+ {
+  "id": "annuity",
+  "pos": [
+   "n"
+  ],
+  "vi": "niên kim, khoản trả định kỳ hằng năm",
+  "coll": [
+   "buy an annuity",
+   "life annuity",
+   "annuity payments",
+   "fixed annuity",
+   "annuity rate"
+  ]
+ },
+ {
+  "id": "goggles",
+  "pos": [
+   "n"
+  ],
+  "vi": "kính bảo hộ; kính bơi",
+  "coll": [
+   "swimming goggles",
+   "safety goggles",
+   "ski goggles",
+   "wear goggles",
+   "night-vision goggles"
+  ]
+ },
+ {
+  "id": "masonry",
+  "pos": [
+   "n"
+  ],
+  "vi": "công trình xây gạch đá; nghề nề",
+  "coll": [
+   "stone masonry",
+   "masonry wall",
+   "brick masonry",
+   "masonry work",
+   "crumbling masonry"
+  ]
+ },
+ {
+  "id": "crackdown",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuộc trấn áp; đợt siết chặt xử lý",
+  "coll": [
+   "a crackdown on crime",
+   "government crackdown",
+   "launch a crackdown",
+   "brutal crackdown",
+   "crackdown on corruption"
+  ]
+ },
+ {
+  "id": "seventeenth",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thứ mười bảy; một phần mười bảy",
+  "coll": [
+   "the seventeenth century",
+   "on the seventeenth",
+   "seventeenth birthday",
+   "seventeenth place",
+   "seventeenth edition"
+  ]
+ },
+ {
+  "id": "collage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tranh cắt dán; sự chắp ghép",
+  "coll": [
+   "make a collage",
+   "photo collage",
+   "a collage of images",
+   "collage art",
+   "collage technique"
+  ]
+ },
+ {
+  "id": "graphite",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "than chì",
+  "coll": [
+   "graphite pencil",
+   "graphite rods",
+   "graphite powder",
+   "graphite electrode",
+   "graphite fibre"
+  ]
+ },
+ {
+  "id": "agitated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bồn chồn kích động; khuấy động",
+  "coll": [
+   "become agitated",
+   "highly agitated",
+   "agitated state",
+   "visibly agitated",
+   "agitated voice"
+  ]
+ },
+ {
+  "id": "handgun",
+  "pos": [
+   "n"
+  ],
+  "vi": "súng ngắn",
+  "coll": [
+   "carry a handgun",
+   "handgun ownership",
+   "loaded handgun",
+   "handgun violence",
+   "conceal a handgun"
+  ]
+ },
+ {
+  "id": "breeder",
+  "pos": [
+   "n"
+  ],
+  "vi": "người nhân giống, chủ trại giống; lò phản ứng tái sinh",
+  "coll": [
+   "dog breeder",
+   "cattle breeder",
+   "plant breeder",
+   "breeder reactor",
+   "reputable breeder"
+  ]
+ },
+ {
+  "id": "repent",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "ăn năn hối cải; hối lỗi",
+  "coll": [
+   "repent of your sins",
+   "repent and be forgiven",
+   "truly repent",
+   "repent for the past",
+   "time to repent"
+  ]
+ },
+ {
+  "id": "jab",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cú đấm thẳng, cú thọc; mũi tiêm; chọc, thúc",
+  "coll": [
+   "a left jab",
+   "jab in the ribs",
+   "a flu jab",
+   "jab at him",
+   "throw a jab"
+  ]
+ }
+]

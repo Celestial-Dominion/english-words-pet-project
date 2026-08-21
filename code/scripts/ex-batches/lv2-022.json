@@ -1,0 +1,823 @@
+[
+ {
+  "id": "wed",
+  "pos": [
+   "v"
+  ],
+  "vi": "cưới; kết hôn",
+  "coll": [
+   "get wed",
+   "newly wed",
+   "wed in church",
+   "wedded to an idea"
+  ]
+ },
+ {
+  "id": "artery",
+  "pos": [
+   "n"
+  ],
+  "vi": "động mạch; trục giao thông chính",
+  "coll": [
+   "blocked artery",
+   "coronary artery",
+   "a major artery",
+   "the main artery"
+  ]
+ },
+ {
+  "id": "corporal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hạ sĩ (quân đội); thuộc thân thể",
+  "coll": [
+   "corporal punishment",
+   "lance corporal",
+   "promoted to corporal",
+   "corporal needs"
+  ]
+ },
+ {
+  "id": "duel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc đấu tay đôi; đọ sức",
+  "coll": [
+   "fight a duel",
+   "challenge someone to a duel",
+   "a duel with pistols",
+   "a duel between rivals"
+  ]
+ },
+ {
+  "id": "formidable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng gờm; ghê gớm",
+  "coll": [
+   "a formidable opponent",
+   "a formidable task",
+   "a formidable challenge",
+   "a formidable reputation"
+  ]
+ },
+ {
+  "id": "hugely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vô cùng; cực kỳ",
+  "coll": [
+   "hugely successful",
+   "hugely popular",
+   "hugely important",
+   "hugely influential"
+  ]
+ },
+ {
+  "id": "inaccurate",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không chính xác; sai lệch",
+  "coll": [
+   "inaccurate information",
+   "wildly inaccurate",
+   "an inaccurate report",
+   "factually inaccurate"
+  ]
+ },
+ {
+  "id": "loneliness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cô đơn; nỗi cô quạnh",
+  "coll": [
+   "feelings of loneliness",
+   "suffer from loneliness",
+   "a sense of loneliness",
+   "combat loneliness"
+  ]
+ },
+ {
+  "id": "malaria",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh sốt rét",
+  "coll": [
+   "contract malaria",
+   "die of malaria",
+   "malaria vaccine",
+   "malaria parasite"
+  ]
+ },
+ {
+  "id": "monastery",
+  "pos": [
+   "n"
+  ],
+  "vi": "tu viện; nhà dòng",
+  "coll": [
+   "a Buddhist monastery",
+   "enter a monastery",
+   "an ancient monastery",
+   "monastery walls"
+  ]
+ },
+ {
+  "id": "narrowly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "suýt; sát nút; một cách hẹp hòi",
+  "coll": [
+   "narrowly escape",
+   "narrowly avoid",
+   "narrowly defeated",
+   "narrowly won"
+  ]
+ },
+ {
+  "id": "nightclub",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hộp đêm; vũ trường",
+  "coll": [
+   "a popular nightclub",
+   "go to a nightclub",
+   "nightclub owner",
+   "outside the nightclub"
+  ]
+ },
+ {
+  "id": "numerical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bằng số; thuộc về số",
+  "coll": [
+   "numerical value",
+   "numerical order",
+   "numerical data",
+   "numerical superiority"
+  ]
+ },
+ {
+  "id": "refresh",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "làm mới; tải lại (trang); làm tỉnh táo",
+  "coll": [
+   "refresh the page",
+   "refresh your memory",
+   "refresh the browser",
+   "feel refreshed"
+  ]
+ },
+ {
+  "id": "slash",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "cắt giảm mạnh; chém; dấu gạch chéo",
+  "coll": [
+   "slash prices",
+   "slash costs",
+   "slash jobs",
+   "forward slash"
+  ]
+ },
+ {
+  "id": "adequately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách đầy đủ; thỏa đáng",
+  "coll": [
+   "adequately funded",
+   "adequately prepared",
+   "adequately trained",
+   "adequately protected"
+  ]
+ },
+ {
+  "id": "amazingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách đáng kinh ngạc; cực kỳ",
+  "coll": [
+   "amazingly enough",
+   "amazingly good",
+   "amazingly simple",
+   "amazingly well"
+  ]
+ },
+ {
+  "id": "applicant",
+  "pos": [
+   "n"
+  ],
+  "vi": "ứng viên; người nộp đơn",
+  "coll": [
+   "a successful applicant",
+   "job applicant",
+   "screen applicants",
+   "the number of applicants"
+  ]
+ },
+ {
+  "id": "approximate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "gần đúng; xấp xỉ; ước chừng",
+  "coll": [
+   "an approximate figure",
+   "approximate value",
+   "approximate cost",
+   "approximate to the truth"
+  ]
+ },
+ {
+  "id": "assemble",
+  "pos": [
+   "v"
+  ],
+  "vi": "lắp ráp; tập hợp lại",
+  "coll": [
+   "assemble furniture",
+   "assemble a team",
+   "assemble the parts",
+   "a crowd assembled"
+  ]
+ },
+ {
+  "id": "breakup",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chia tay; sự tan rã",
+  "coll": [
+   "a painful breakup",
+   "after the breakup",
+   "the breakup of the band",
+   "the breakup of a marriage"
+  ]
+ },
+ {
+  "id": "catering",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dịch vụ ăn uống; nghề nấu tiệc",
+  "coll": [
+   "catering service",
+   "catering company",
+   "wedding catering",
+   "in-flight catering"
+  ]
+ },
+ {
+  "id": "chunk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khối lớn; mảng lớn",
+  "coll": [
+   "a large chunk",
+   "a chunk of time",
+   "a chunk of meat",
+   "chunks of ice"
+  ]
+ },
+ {
+  "id": "cocoa",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "ca cao; bột ca cao",
+  "coll": [
+   "cocoa powder",
+   "cocoa beans",
+   "hot cocoa",
+   "cocoa butter"
+  ]
+ },
+ {
+  "id": "culturally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt văn hóa",
+  "coll": [
+   "culturally diverse",
+   "culturally sensitive",
+   "culturally appropriate",
+   "culturally significant"
+  ]
+ },
+ {
+  "id": "dread",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "khiếp sợ; nỗi kinh hoàng",
+  "coll": [
+   "dread the thought",
+   "dread going to work",
+   "live in dread",
+   "a sense of dread"
+  ]
+ },
+ {
+  "id": "ow",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "ối!; ái! (kêu vì đau)",
+  "coll": [
+   "ow, that hurts",
+   "ow, my head",
+   "ow! stop it"
+  ]
+ },
+ {
+  "id": "pedal",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "bàn đạp; đạp (xe)",
+  "coll": [
+   "brake pedal",
+   "gas pedal",
+   "pedal a bike",
+   "press the pedal"
+  ]
+ },
+ {
+  "id": "quarantine",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cách ly; sự cách ly kiểm dịch",
+  "coll": [
+   "in quarantine",
+   "quarantine period",
+   "impose a quarantine",
+   "be placed in quarantine"
+  ]
+ },
+ {
+  "id": "query",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "câu hỏi; thắc mắc; truy vấn dữ liệu",
+  "coll": [
+   "a database query",
+   "raise a query",
+   "answer a query",
+   "a search query"
+  ]
+ },
+ {
+  "id": "scarlet",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "đỏ tươi; màu đỏ thắm",
+  "coll": [
+   "scarlet fever",
+   "a scarlet dress",
+   "the scarlet letter",
+   "turn scarlet"
+  ]
+ },
+ {
+  "id": "stitch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mũi khâu; khâu vá; đau xóc hông",
+  "coll": [
+   "remove the stitches",
+   "stitch a wound",
+   "a stitch in time",
+   "put in stitches"
+  ]
+ },
+ {
+  "id": "vinegar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giấm",
+  "coll": [
+   "balsamic vinegar",
+   "white vinegar",
+   "oil and vinegar",
+   "a splash of vinegar"
+  ]
+ },
+ {
+  "id": "aggressively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách hung hăng; quyết liệt",
+  "coll": [
+   "behave aggressively",
+   "aggressively pursue",
+   "expand aggressively",
+   "aggressively marketed"
+  ]
+ },
+ {
+  "id": "astronomy",
+  "pos": [
+   "n"
+  ],
+  "vi": "thiên văn học",
+  "coll": [
+   "study astronomy",
+   "radio astronomy",
+   "amateur astronomy",
+   "an astronomy textbook"
+  ]
+ },
+ {
+  "id": "await",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chờ đợi; đang chờ (trang trọng)",
+  "coll": [
+   "await a decision",
+   "eagerly await",
+   "await trial",
+   "await further instructions"
+  ]
+ },
+ {
+  "id": "broadcaster",
+  "pos": [
+   "n"
+  ],
+  "vi": "đài phát thanh truyền hình; người dẫn chương trình",
+  "coll": [
+   "national broadcaster",
+   "public broadcaster",
+   "state broadcaster",
+   "a TV broadcaster"
+  ]
+ },
+ {
+  "id": "coherent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mạch lạc; nhất quán",
+  "coll": [
+   "a coherent argument",
+   "a coherent strategy",
+   "a coherent policy",
+   "remain coherent"
+  ]
+ },
+ {
+  "id": "endorse",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "ủng hộ; tán thành công khai; ký hậu (séc)",
+  "coll": [
+   "endorse a candidate",
+   "endorse a product",
+   "publicly endorse",
+   "endorse a cheque"
+  ]
+ },
+ {
+  "id": "funky",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chất, ngầu; lạ mắt độc đáo; kiểu nhạc funk",
+  "coll": [
+   "funky music",
+   "a funky style",
+   "a funky beat",
+   "a funky outfit"
+  ]
+ },
+ {
+  "id": "inspect",
+  "pos": [
+   "v"
+  ],
+  "vi": "kiểm tra; thanh tra",
+  "coll": [
+   "inspect the goods",
+   "inspect a building",
+   "closely inspect",
+   "inspect the damage"
+  ]
+ },
+ {
+  "id": "morally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt đạo đức",
+  "coll": [
+   "morally wrong",
+   "morally responsible",
+   "morally justified",
+   "morally bankrupt"
+  ]
+ },
+ {
+  "id": "paradox",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghịch lý; điều tưởng như mâu thuẫn",
+  "coll": [
+   "an apparent paradox",
+   "a curious paradox",
+   "the paradox is that",
+   "resolve a paradox"
+  ]
+ },
+ {
+  "id": "peacefully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách yên bình; ôn hòa",
+  "coll": [
+   "protest peacefully",
+   "die peacefully",
+   "sleep peacefully",
+   "peacefully resolve"
+  ]
+ },
+ {
+  "id": "plead",
+  "pos": [
+   "v"
+  ],
+  "vi": "van xin; khẩn cầu; nhận tội, biện hộ",
+  "coll": [
+   "plead guilty",
+   "plead not guilty",
+   "plead for mercy",
+   "plead with someone"
+  ]
+ },
+ {
+  "id": "reconsider",
+  "pos": [
+   "v"
+  ],
+  "vi": "xem xét lại; nghĩ lại",
+  "coll": [
+   "reconsider a decision",
+   "reconsider your position",
+   "urge someone to reconsider",
+   "reconsider the offer"
+  ]
+ },
+ {
+  "id": "refrain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kiềm chế, nhịn; điệp khúc bài hát",
+  "coll": [
+   "refrain from smoking",
+   "please refrain from",
+   "refrain from comment",
+   "the refrain of a song"
+  ]
+ },
+ {
+  "id": "rite",
+  "pos": [
+   "n",
+   "adj",
+   "adv",
+   "intj"
+  ],
+  "vi": "nghi lễ; nghi thức",
+  "coll": [
+   "a rite of passage",
+   "religious rite",
+   "funeral rites",
+   "perform a rite"
+  ]
+ },
+ {
+  "id": "seldom",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "hiếm khi; ít khi",
+  "coll": [
+   "seldom seen",
+   "very seldom",
+   "seldom used",
+   "seldom if ever"
+  ]
+ },
+ {
+  "id": "squash",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "bóp bẹp, ép nát; môn bóng quần; quả bí",
+  "coll": [
+   "play squash",
+   "squash a bug",
+   "a squash court",
+   "butternut squash"
+  ]
+ },
+ {
+  "id": "statewide",
+  "pos": [
+   "adv",
+   "adj",
+   "n"
+  ],
+  "vi": "toàn bang; trên khắp bang",
+  "coll": [
+   "a statewide election",
+   "a statewide ban",
+   "a statewide survey",
+   "the statewide average"
+  ]
+ },
+ {
+  "id": "subdivision",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự phân nhỏ; phân khu",
+  "coll": [
+   "administrative subdivision",
+   "a housing subdivision",
+   "further subdivision",
+   "subdivision of land"
+  ]
+ },
+ {
+  "id": "unavailable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không có sẵn; không rảnh",
+  "coll": [
+   "currently unavailable",
+   "temporarily unavailable",
+   "unavailable for comment",
+   "the item is unavailable"
+  ]
+ },
+ {
+  "id": "assert",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khẳng định; quả quyết; thể hiện (quyền)",
+  "coll": [
+   "assert one's rights",
+   "assert authority",
+   "assert independence",
+   "boldly assert"
+  ]
+ },
+ {
+  "id": "blossom",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hoa (cây ăn quả); nở hoa; nở rộ phát triển",
+  "coll": [
+   "cherry blossom",
+   "apple blossom",
+   "in full blossom",
+   "blossom into"
+  ]
+ },
+ {
+  "id": "caravan",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đoàn lữ hành; xe kéo nhà lưu động",
+  "coll": [
+   "a caravan of camels",
+   "caravan park",
+   "tow a caravan",
+   "a caravan holiday"
+  ]
+ },
+ {
+  "id": "debit",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "ghi nợ; trừ tiền tài khoản; khoản chi",
+  "coll": [
+   "direct debit",
+   "debit card",
+   "debit an account",
+   "debit balance"
+  ]
+ },
+ {
+  "id": "dim",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "mờ; lờ mờ; làm mờ đi",
+  "coll": [
+   "dim light",
+   "dim lighting",
+   "dim the lights",
+   "a dim memory"
+  ]
+ },
+ {
+  "id": "donkey",
+  "pos": [
+   "n"
+  ],
+  "vi": "con lừa",
+  "coll": [
+   "ride a donkey",
+   "a stubborn donkey",
+   "donkey work",
+   "donkey's years"
+  ]
+ },
+ {
+  "id": "faulty",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bị lỗi; hỏng hóc; sai sót",
+  "coll": [
+   "faulty equipment",
+   "faulty wiring",
+   "a faulty product",
+   "faulty reasoning"
+  ]
+ }
+]

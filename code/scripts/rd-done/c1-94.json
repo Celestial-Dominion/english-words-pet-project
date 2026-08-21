@@ -1,0 +1,36 @@
+[
+ {
+  "id": "wiki-boundary-value-problem",
+  "title_vi": "Vấn đề giá trị biên",
+  "vi": [
+   "Trong toán học, bài toán giá trị biên là bài toán giải một tập phương trình vi phân.",
+   "Ngoài ra, còn có một tập hợp các ràng buộc được gọi là ràng buộc biên.",
+   "Một nghiệm phải giải được cả phương trình vi phân và các ràng buộc biên.",
+   "Các bài toán giá trị biên rất phổ biến trong nhiều lĩnh vực khoa học.",
+   "Các bài toán về giá trị biên có thể được tìm thấy trong một số ngành vật lý như bất kỳ phương trình vi phân vật lý nào cũng có chúng.",
+   "Các bài toán liên quan đến phương trình sóng, ví dụ như việc xác định các mode chuẩn tắc, thường được phát biểu dưới dạng bài toán giá trị biên.",
+   "Một lớp lớn các bài toán giá trị biên quan trọng là bài toán Sturm–Liouville.",
+   "Việc phân tích những vấn đề này liên quan đến các hàm riêng của toán tử vi phân.",
+   "Để có ích trong các ứng dụng, bài toán giá trị biên cần được đặt ra rõ ràng.",
+   "Điều này có nghĩa là với đầu vào của bài toán, tồn tại một giải pháp duy nhất, giải pháp này phụ thuộc liên tục vào đầu vào.",
+   "Nhiều công trình lý thuyết trong lĩnh vực phương trình vi phân từng phần được dành để chứng minh rằng các bài toán giá trị biên phát sinh từ các ứng dụng khoa học và kỹ thuật trên thực tế đã được đặt ra một cách hợp lý.",
+   "Trong số các bài toán về giá trị biên sớm nhất được nghiên cứu là bài toán Dirichlet, về việc tìm các hàm điều hòa (giải phương trình Laplace); lời giải được đưa ra theo nguyên lý Dirichlet."
+  ]
+ },
+ {
+  "id": "wiki-distribution-mathematics",
+  "title_vi": "Phân phối (toán học)",
+  "vi": [
+   "Đây là về phân phối theo nghĩa toán học, các ý nghĩa khác có thể được tìm thấy ở phân phối Trong toán học, phân phối là sự tổng quát hóa của một hàm.",
+   "Các bản phân phối được giới thiệu vào giữa thế kỷ 20 bởi Laurent Schwartz, người đã nhận được Huy chương Fields cho công trình nghiên cứu của mình về chúng.",
+   "Huy chương Fields có thể so sánh với giải Nobel toán học nhưng không tồn tại.",
+   "Phân phối đã được giới thiệu để mô hình hóa các khái niệm nhất định từ Vật lý.",
+   "Vật lý có khái niệm về khối lượng các điểm trong không gian.",
+   "Hàm delta Dirac có thể mô hình hóa điện tích của một điểm trong không gian.",
+   "Hàm delta Dirac bằng 0 ở mọi nơi, ngoại trừ tại một điểm, nơi nó lớn vô cùng.",
+   "Điều này cần phải đúng vì hàm mật độ cần phải bằng 1.",
+   "Không có hàm nào có thể đáp ứng tiêu chí này, ngoại trừ nếu tích phân được coi là hàm theo nghĩa toán học.",
+   "Ngày nay, phân bố được sử dụng trong các lĩnh vực toán học và vật lý khác nhau, chẳng hạn như để mô hình hóa các phương trình vi phân từng phần hoặc phân tích Fourier, vốn rất quan trọng đối với Điện động lực học lượng tử hoặc xử lý tín hiệu."
+  ]
+ }
+]

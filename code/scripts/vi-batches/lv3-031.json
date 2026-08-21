@@ -1,0 +1,585 @@
+[
+ {
+  "id": "productivity",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state of being productive, fertile, or efficient.",
+   "The rate at which goods or services are produced by a standard population of workers",
+   "The rate at which crops are grown on a standard area of land."
+  ]
+ },
+ {
+  "id": "threshold",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The lowermost part of a doorway that one crosses to enter",
+   "An entrance",
+   "Any end or boundary."
+  ]
+ },
+ {
+  "id": "reconstruction",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The action of reconstructing something, not necessarily to the earlier state.",
+   "The act of restoring something to an earlier state.",
+   "The recreation or retelling of the (purported) events leading up to a certain outcome."
+  ]
+ },
+ {
+  "id": "mainland",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The continent",
+   "The principal island of a group.",
+   "Great Britain."
+  ]
+ },
+ {
+  "id": "sovereign",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Exercising power of rule.",
+   "Exceptional in quality.",
+   "Having supreme, ultimate power."
+  ]
+ },
+ {
+  "id": "norm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "That which is normal or typical.",
+   "A rule that is imposed by regulations and/or socially enforced by members of a community.",
+   "A sentence with non-descriptive meaning, such as a command, permission, or prohibition."
+  ]
+ },
+ {
+  "id": "transparency",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The quality of being transparent.",
+   "Openness",
+   "A transparent artwork, viewable by shining light through it."
+  ]
+ },
+ {
+  "id": "opt",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To choose"
+  ]
+ },
+ {
+  "id": "broker",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "A mediator between a buyer and seller.",
+   "A stockbroker.",
+   "A mediator in general, one who liaises between two or more parties to attempt to achieve an outcome of some kind."
+  ]
+ },
+ {
+  "id": "node",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A knot, knob, protuberance or swelling.",
+   "The point where the orbit of a planet, as viewed from the Sun, intersects the ecliptic. The ascending and descending nodes refer…",
+   "A leaf node."
+  ]
+ },
+ {
+  "id": "behavioral",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of or relating to behavior."
+  ]
+ },
+ {
+  "id": "logistics",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The process of planning, implementing, and controlling the efficient, effective flow and storage of goods, services and related…",
+   "The procurement, supply, maintenance, and transportation of equipment, facilities, and personnel."
+  ]
+ },
+ {
+  "id": "rig",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The rigging of a sailing ship or other such craft.",
+   "Special equipment or gear used for a particular purpose.",
+   "A large truck, especially a semi-trailer truck."
+  ]
+ },
+ {
+  "id": "levy",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To impose (a tax or fine) to collect monies due, or to confiscate property.",
+   "To raise or collect by assessment",
+   "To draft someone into military service."
+  ]
+ },
+ {
+  "id": "monopoly",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A situation, by legal privilege or other agreement, in which solely one party (company, cartel etc.) exclusively provides a particular…",
+   "An exclusive control over the trade or production of a commodity or service through exclusive possession.",
+   "The privilege granting the exclusive right to exert such control."
+  ]
+ },
+ {
+  "id": "economically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an economical manner",
+   "From the perspective of economics or an economy.",
+   "According to divine economy."
+  ]
+ },
+ {
+  "id": "marketplace",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An open area in a town housing a public market.",
+   "The space, actual or metaphorical, in which a market operates.",
+   "The world of commerce and trade."
+  ]
+ },
+ {
+  "id": "boycott",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To abstain, either as an individual or a group, from using, buying, or dealing with someone or some organization as an expression of…",
+   "The act of boycotting."
+  ]
+ },
+ {
+  "id": "gamble",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A bet or wager.",
+   "A significant risk, undertaken with a potential gain.",
+   "A risky venture."
+  ]
+ },
+ {
+  "id": "forge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A furnace or hearth where metals are heated prior to hammering them into shape.",
+   "A workshop in which metals are shaped by heating and hammering them.",
+   "The act of beating or working iron or steel."
+  ]
+ },
+ {
+  "id": "tenant",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "One who holds a lease (a tenancy).",
+   "One who has possession of any place.",
+   "Any of a number of customers serviced through the same instance of an application."
+  ]
+ },
+ {
+  "id": "internally",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an internal manner",
+   "With regard to internal affairs.",
+   "Inwardly"
+  ]
+ },
+ {
+  "id": "null",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A non-existent or empty value or set of values.",
+   "Zero quantity of expressions",
+   "Something that has no force or meaning."
+  ]
+ },
+ {
+  "id": "vest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A sleeveless garment that buttons down the front, worn over a shirt, and often as part of a suit",
+   "A sleeveless garment, often with a low-cut neck, usually worn under a shirt or blouse.",
+   "A sleeveless top, typically with identifying colours or logos, worn by an athlete or member of a sports team."
+  ]
+ },
+ {
+  "id": "yen",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The unit of Japanese currency (symbol",
+   "A coin or note worth one yen.",
+   "A strong desire, urge, or yearning."
+  ]
+ },
+ {
+  "id": "dismissal",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of sending someone away.",
+   "Deprivation of office",
+   "A written or spoken statement of such an act."
+  ]
+ },
+ {
+  "id": "consolidation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act or process of consolidating, making firm, or uniting",
+   "The combination of several actions into one.",
+   "A solidification into a firm dense mass. It is usually applied to induration (swelling or hardening of normally soft tissue) of a…"
+  ]
+ },
+ {
+  "id": "validity",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state of being valid, authentic or genuine.",
+   "State of having legal force.",
+   "A quality of a measurement indicating the degree to which the measure reflects the underlying construct, that is, whether it measures…"
+  ]
+ },
+ {
+  "id": "yuan",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The basic unit of money in China.",
+   "One of the five branches of the government of the Republic of China."
+  ]
+ },
+ {
+  "id": "beverage",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A liquid to consume"
+  ]
+ },
+ {
+  "id": "dent",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A shallow deformation in the surface of an object, produced by an impact.",
+   "A minor effect made upon something.",
+   "A type of maize/corn with a relatively soft outer hull, and a soft type of starch that shrinks at maturity to leave an indentation in…"
+  ]
+ },
+ {
+  "id": "dub",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To confer knighthood",
+   "To name, to entitle, to call.",
+   "To deem."
+  ]
+ },
+ {
+  "id": "lender",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who lends, especially money"
+  ]
+ },
+ {
+  "id": "scarce",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "en": [
+   "Uncommon, rare",
+   "Scantily supplied (with)"
+  ]
+ },
+ {
+  "id": "mister",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A man.",
+   "To address by the title of \"mister\".",
+   "A device that makes or sprays mist."
+  ]
+ },
+ {
+  "id": "amend",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To make better",
+   "To become better.",
+   "To make a formal alteration (in legislation, a report, etc.) by adding, deleting, or rephrasing."
+  ]
+ },
+ {
+  "id": "cater",
+  "pos": [
+   "v",
+   "n",
+   "adv"
+  ],
+  "en": [
+   "To provide, particularly",
+   "To provide",
+   "To place, set, move, or cut diagonally or rhomboidally."
+  ]
+ },
+ {
+  "id": "downside",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A disadvantageous aspect of something that is normally advantageous.",
+   "A downward tendency, especially in the price of shares etc.",
+   "The side of something that is at the bottom, or that is intended to face downward."
+  ]
+ },
+ {
+  "id": "ledger",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A book for keeping notes",
+   "A book or other scheme for keeping accounting records.",
+   "A collection of accounting entries consisting of credits and debits."
+  ]
+ },
+ {
+  "id": "bidder",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Someone who bids (all senses), but most commonly, one offers to pay a specified price at an auction.",
+   "One who commands or orders."
+  ]
+ },
+ {
+  "id": "deter",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To prevent something from happening.",
+   "To persuade someone not to do something",
+   "To distract someone from something."
+  ]
+ },
+ {
+  "id": "liquidity",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state or property of being liquid.",
+   "The degree of which something is in high supply and demand, making it easily convertible to cash.",
+   "An asset's property of being able to be sold without affecting its value"
+  ]
+ },
+ {
+  "id": "competitiveness",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state of being competitive."
+  ]
+ },
+ {
+  "id": "orient",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "The part of the horizon where the sun first appears in the morning",
+   "The brilliance or colour of a high-quality pearl.",
+   "Rising, like the morning sun."
+  ]
+ },
+ {
+  "id": "substitution",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of substituting or the state of being substituted.",
+   "A substitute or replacement.",
+   "The replacement of an atom, or group of atoms, in a compound, with another."
+  ]
+ },
+ {
+  "id": "hurdle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An artificial barrier, variously constructed, over which athletes or horses jump in a race.",
+   "An obstacle, real or perceived, physical or abstract.",
+   "A movable frame of wattled twigs, osiers, or withes and stakes, or sometimes of iron, used for enclosing land, for folding sheep and…"
+  ]
+ },
+ {
+  "id": "rein",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A strap or rope attached to a bridle or bit, used to control a horse, other animal or young child.",
+   "An instrument or means of curbing, restraining, or governing.",
+   "To direct or stop a horse by using reins."
+  ]
+ },
+ {
+  "id": "bolster",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A large cushion or pillow, usually cylindrical in shape.",
+   "A pad, quilt, or anything used to hinder pressure, support part of the body, or make a bandage sit easy upon a wounded part",
+   "A small spacer located on top of the axle of horse-drawn wagons that gives the front wheels enough clearance to turn."
+  ]
+ },
+ {
+  "id": "payoff",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Alternative form of pay-off."
+  ]
+ },
+ {
+  "id": "annum",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Synonym of year."
+  ]
+ },
+ {
+  "id": "clout",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Influence or effectiveness, especially political.",
+   "A blow with the hand.",
+   "A home run."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "tonne",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A unit of mass equal to 1000 kilograms."
+  ]
+ }
+]

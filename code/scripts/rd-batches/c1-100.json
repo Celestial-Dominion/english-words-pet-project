@@ -1,0 +1,160 @@
+[
+ {
+  "id": "wiki-esports",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Esports",
+  "title_en": "Esports",
+  "sentences": [
+   "Esports (short for electronic sports) is a term for video games that are played competitively.",
+   "Popular electronic sports games are Counter-Strike, League of Legends, Warcraft, Starcraft, Dota 2, Quake, Fortnite and Valorant.",
+   "Electronic Sports is played over the Internet or via LAN.",
+   "There are professional leagues and tournaments like the Cyberathlete Professional League, ClanBase, Electronic Sports League and the World Cyber Games where electronic sports players can earn thousands of US Dollars.",
+   "One example is Starcraft in Korea where they have many players who are very competitive.",
+   "Esports has been around since the dawn of arcades when players would battle it out for number one.",
+   "According to TechCrunch, the game maker Epic Games is providing $100 million in prize money in 2019 for participants in esports."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-gparted",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/GParted",
+  "title_en": "GParted",
+  "sentences": [
+   "GParted is a computer program used for working on partitions.",
+   "It can create, delete, move, copy, check and change the size of paretitions.",
+   "It is also used with the file systems on the partitions.",
+   "Thi program is useful for creating space for new operating systems.",
+   "It works with Vista System & Data partitions.",
+   "It can also be used to reorganizing disk usage, copy data on hard disks and mirroring one partition with another (disk imaging)."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-ubuntu-releases-third-version-of-popular",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Ubuntu_releases_third_version_of_popular_Linux_distribution",
+  "title_en": "Ubuntu releases third version of popular Linux distribution",
+  "sentences": [
+   "Friday, October 14, 2005 The Ubuntu Foundation released its third version of the popular GNU/Linux operating system distribution yesterday.",
+   "Codenamed \"Breezy Badger\", the release improves on its predecessor, Hoary Hedgehog, with updated versions of packages such as OpenOffice.org, new computer management tools, special installation modes for computer manufacturers, and a \"thin client\" mode for large networks of homogenous computers.",
+   "The new version also improves support for laptop computers, portable media players, Bluetooth devices, PowerPC processors, and other hardware.",
+   "Because the software in the GNU/Linux operating system comes with permission for everyone to modify and redistribute it, there are many versions (called \"distributions\") of the operating system available.",
+   "Ubuntu builds on the popular Debian GNU/Linux distribution.",
+   "Like Debian, it is made almost entirely of free software.",
+   "Users quickly swarmed the Ubuntu Foundation's servers trying to download the new version.",
+   "The servers are currently responding slowly; moderators at the Ubuntu Forums suggested that users download with BitTorrent if at all possible, which is much less prone to such slowdowns.",
+   "Although its first release was only a year ago, Ubuntu Linux has quickly become one of the most popular Linux distributions.",
+   "It is intended to be user-friendly without being insecure by design, a charge sometimes leveled against other beginner-friendly distributions like Linspire.",
+   "The distribution is offered for free, and CDs are available for order via the Internet without charge (including shipping)."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-netbsd",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/NetBSD",
+  "title_en": "NetBSD",
+  "sentences": [
+   "NetBSD is an open source version of the Unix-derivative BSD computer operating system.",
+   "NetBSD is known for being very portable (able to work with a many kinds of computers), such as a small ARM or big amd64 Opteron computers.",
+   "From the NetBSD website, it is advertised as being fast, secure, stable and highly portable.",
+   "When people use NetBSD, like most software, they must agree to a license.",
+   "The BSD license, which NetBSD uses, allows everyone to use, change, give away or sell NetBSD, as long as they do not take away the copyright notice and license text.",
+   "This means people can make new things from NetBSD without having to give people the source code (information for the computer to make the program run)."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-pakistan-s-ban-on-youtube-lifted",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Pakistan's_ban_on_YouTube_lifted",
+  "title_en": "Pakistan's ban on YouTube lifted",
+  "sentences": [
+   "Tuesday, February 26, 2008 Pakistan has lifted a ban on the video-sharing website YouTube, which was said to be brought in after a video offensive to Islam was uploaded to the site.",
+   "According to the Pakistan Telecommunication Authority (PTA), the offending material was in relation to a trailer for a film by Geert Wilders, a Dutch politician.",
+   "The PTA ordered the country's 70 internet service providers to ban YouTube.",
+   "However, their actions mistakenly blocked the site on other international ISPs, preventing many countries' access to the popular site for around two hours.",
+   "Wilders is expected to release a movie about violence in Islamic culture.",
+   "The film called Fitna would be set 'inside' the Koran, with a book frame surrounding the images and a mix of Koran verses with footage of executions and other violence in Islamic countries such as Iraq, Iran and Saudi Arabia.",
+   "In the United States, the Federal Bureau of Investigation (FBI) and the Department of Homeland Security (DHS) fear that the release of the movie might trigger a worldwide surge of violence.",
+   "It is expected that the film will show the destruction of a Koran, which is \"tantamount to heresy\" in Islam, according to the FBI/DHS report.",
+   "The Dutch Prime Minister has said that the movie has caused a serious crisis situation, with several Dutch embassies and companies abroad worrying about safety.",
+   "Wilders has previously declared that the Koran should be banned, and he has compared it to Hitler's Mein Kampf.",
+   "The PTA has also blocked websites depicting the controversial cartoons of Muhammad published by a Danish newspaper in 2006 that also sparked violence in the Muslim world.",
+   "Some of the cartoons have recently been reprinted.",
+   "This is not the first time a country has moved to block YouTube.",
+   "Turkey and Thailand both chose to temporarily ban the sites, as did Morocco which blocked the site after a video criticising the country's treatment of Western Saharans was uploaded."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-runtime",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Runtime",
+  "title_en": "Runtime",
+  "sentences": [
+   "In computer science, runtime or run time describes the operation of a computer program, the duration of its execution, from beginning to termination.",
+   "The term runtime can also refer to a virtual machine to manage a program written in a computer language while it is running.",
+   "Run time is sometimes used to mean runtime library, a library of basic code that is used by a particular compiler but when used in this fashion, runtime library is more accurate.",
+   "A runtime environment is a virtual machine state which provides software services for processes or programs while a computer is running.",
+   "Runtime activities include loading and linking of the classes needed to execute a program, optional machine code generation and dynamic optimization of the program, and actual program execution.",
+   "For example, a program written in Java calls for services from the Java Runtime Environment by issuing commands from which the expected result is returned by the Java Runtime.",
+   "By providing these services, the Java Runtime Environment is considered the runtime environment of the program.",
+   "Both the program and the Java Runtime Environment request services from the operating system.",
+   "The operating system kernel provides services for itself and all processes and software running under its control.",
+   "The Operating System may be considered as providing a runtime environment for itself."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-rumors-of-oprah-winfrey-s-death-a-hoax",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Rumors_of_Oprah_Winfrey's_death_a_hoax",
+  "title_en": "Rumors of Oprah Winfrey's death a hoax",
+  "sentences": [
+   "Sunday, September 21, 2008 Internet users, as well as editors making edits on Wikinews and Wikipedia, have been the victims of a recent hoax that talk show host Oprah Winfrey has been found dead in her Chicago, Illinois home.",
+   "The rumors are considered to be a hoax, connected with the online group known as Anonymous.",
+   "Other reports say that the website 4chan.org is responsible for starting the rumor which began to spread quickly over the Internet.",
+   "Winfrey is set to appear on tonight's Emmy Awards ceremony broadcast.",
+   "The rumors started after a statement Winfrey made on a recent show, defending a United States Senate bill against pedophiles and child rapists saying a pedophile group has \"over 9,000 penises\" harming children.",
+   "She was referring to a comment left on her website by an individual affiliated with Anonymous who was claiming to be a pedophile.",
+   "Wikinews can confirm through anonymous sources that the rumor was started by the group Anonymous and the website 4chan.",
+   "According to an edit made by Camalex, a registered user on Wikipedia, Winfrey was found dead \"in her Chicago home early Saturday morning\".",
+   "It was followed by a source linking to a Digg.com article, which links to oprahsdeath, a blog website regarding her alleged death.",
+   "The first edit to her Wikipedia article, which was posted by an anonymous user, stated that Winfrey was \"lying dead on her bed\" when a family member found her.",
+   "According to the edit, she had been suffering chest pains for several days, but concealed the discomfort.",
+   "According to the oprahsdeath blog, Winfrey was found dead in her home at 8:21 a.m. on Saturday morning.",
+   "Winfrey \"appeared to have a bloody area around her eye, a bullet wound in her stomach and some cuts and bruises up and down her body.\" The post also says the suspect was \"beaten\" and \"shot by a handgun\".",
+   "Shortly after the Wikipedia edit, an anonymous user with the IP address, 24.109.236.254 on Wikinews, added an edit to the Newsroom that she had been \"found dead\".",
+   "On Digg users posted links to screen shots of websites allegedly carrying the news of her death via an alleged Associated Press report.",
+   "Other Digg users left comments claiming to have seen it on their local news stations."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-kernel-computer-science",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Kernel_(computer_science)",
+  "title_en": "Kernel (computer science)",
+  "sentences": [
+   "A kernel is the central part of an operating system.",
+   "It manages the operations of the computer and the hardware, most notably memory and CPU time.",
+   "Kernels also provide services which programs can use through system calls.",
+   "There are five types of kernels: A micro kernel - A kernel which only contains the basic functionality; A monolithic kernel - A kernel which contains many device drivers.",
+   "The Linux kernel is an example of a monolithic kernel.",
+   "Hybrid Kernel - The Microsoft Windows NT kernel is an example of a hybrid kernel.",
+   "Exokernel Nanokernel A typical computer user never interacts directly with the kernel.",
+   "It runs behind the scenes and cannot be seen, except for the text logs that it prints."
+  ],
+  "topic": "it"
+ }
+]

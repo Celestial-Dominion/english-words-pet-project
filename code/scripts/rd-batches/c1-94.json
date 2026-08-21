@@ -1,0 +1,42 @@
+[
+ {
+  "id": "wiki-boundary-value-problem",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Boundary_value_problem",
+  "title_en": "Boundary value problem",
+  "sentences": [
+   "In mathematics, a boundary value problem is a problem to solve a set of differential equations.",
+   "In addition, there are a set of constraints which are called the boundary constraints.",
+   "A solution must both solve the differential equations, and the boundary constraints.",
+   "Boundary value problems are common in many fields of science.",
+   "Boundary value problems can be found in several branches of physics as any physical differential equation will have them.",
+   "Problems involving the wave equation, for example the determination of normal modes, are often stated as boundary value problems.",
+   "A large class of important boundary value problems are the Sturm–Liouville problems.",
+   "The analysis of these problems involves the eigenfunctions of a differential operator.",
+   "To be useful in applications, a boundary value problem should be well posed.",
+   "This means that given the input to the problem there exists a unique solution, which depends continuously on the input.",
+   "Much theoretical work in the field of partial differential equations is devoted to proving that boundary value problems arising from scientific and engineering applications are in fact well-posed.",
+   "Among the earliest boundary value problems to be studied is the Dirichlet problem, of finding the harmonic functions (solutions to Laplace's equation); the solution was given by the Dirichlet's principle."
+  ]
+ },
+ {
+  "id": "wiki-distribution-mathematics",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Distribution_(mathematics)",
+  "title_en": "Distribution (mathematics)",
+  "sentences": [
+   "This is about distribution in a mathematical sense, other meanings can be found at distribution In mathematics, a distribution is a generalisation of a function.",
+   "Distributions were introduced in the middle of the 20th century by Laurent Schwartz, who received a Fields Medal for his work on them.",
+   "The Fields medal is comparable to a Nobel Prize in mathematics, which does not exist.",
+   "Distributions were introduced to model certain concepts from Physics.",
+   "Physics has the concept of a mass of points in space.",
+   "The Dirac delta function can model an electromagnetic charge of a point in space.",
+   "The Dirac delta function is zero everywhere, except at one point, where it is infinitely large.",
+   "This needs to be the case, because the density function needs to be 1.",
+   "There is no function that can meet this criterion, except if integraton is taken as a function in the mathematical sense.",
+   "Today, distributions are used in different fields of mathematics and physics, for example to model Partial differential equations or Fourier analyses, which are important for Quantum electrodynamics or signal processing."
+  ]
+ }
+]

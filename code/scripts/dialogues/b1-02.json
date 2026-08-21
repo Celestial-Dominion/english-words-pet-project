@@ -1,0 +1,114 @@
+[
+ {
+  "id": "dlg-b1-deadline",
+  "level": 1,
+  "title_en": "Asking about a deadline",
+  "title_vi": "Hỏi về hạn chót",
+  "speakers": ["Phuong", "Daniel"],
+  "turns": [
+   { "sp": 0, "en": "Daniel, when do you need the photos?", "vi": "Daniel, khi nào anh cần ảnh?" },
+   { "sp": 1, "en": "By Wednesday, if possible.", "vi": "Trước thứ Tư, nếu được." },
+   { "sp": 0, "en": "Wednesday morning or end of day?", "vi": "Sáng thứ Tư hay cuối ngày ạ?" },
+   { "sp": 1, "en": "End of day is fine.", "vi": "Cuối ngày cũng được." },
+   { "sp": 0, "en": "That helps. I have two other jobs this week.", "vi": "Vậy thì đỡ. Tuần này tôi có hai việc khác nữa." },
+   { "sp": 1, "en": "Which one is the most urgent?", "vi": "Việc nào gấp nhất?" },
+   { "sp": 0, "en": "The catalogue. It goes to print on Tuesday.", "vi": "Cuốn catalogue. Thứ Ba là đưa đi in." },
+   { "sp": 1, "en": "Then do that first. The photos can wait a day.", "vi": "Vậy làm cái đó trước. Ảnh chậm một ngày cũng được." },
+   { "sp": 0, "en": "Thanks. I'll send the photos on Thursday morning.", "vi": "Cảm ơn anh. Tôi sẽ gửi ảnh sáng thứ Năm." }
+  ]
+ },
+ {
+  "id": "dlg-b1-handover",
+  "level": 1,
+  "title_en": "Handing over work before leave",
+  "title_vi": "Bàn giao công việc trước khi nghỉ",
+  "speakers": ["Yen", "Chris"],
+  "turns": [
+   { "sp": 0, "en": "Chris, I'm off next week. Can we go through my tasks?", "vi": "Chris, tuần sau tôi nghỉ. Mình rà qua việc của tôi nhé?" },
+   { "sp": 1, "en": "Sure. What should I watch out for?", "vi": "Được chứ. Tôi cần để ý điều gì?" },
+   { "sp": 0, "en": "The supplier sends the invoice every Monday.", "vi": "Nhà cung cấp gửi hoá đơn vào mỗi thứ Hai." },
+   { "sp": 1, "en": "And I just forward it to finance?", "vi": "Rồi tôi chỉ việc chuyển cho tài chính à?" },
+   { "sp": 0, "en": "Yes, but check the total against the order first.", "vi": "Đúng, nhưng đối chiếu tổng tiền với đơn hàng trước đã." },
+   { "sp": 1, "en": "Where do I find the orders?", "vi": "Tôi tìm đơn hàng ở đâu?" },
+   { "sp": 0, "en": "In the shared drive, folder \"Orders 2026\".", "vi": "Trong ổ chung, thư mục \"Orders 2026\"." },
+   { "sp": 1, "en": "Got it. Anything else?", "vi": "Rõ rồi. Còn gì nữa không?" },
+   { "sp": 0, "en": "If the client calls, tell them I'm back on the tenth.", "vi": "Nếu khách gọi, nói giúp là mùng mười tôi quay lại." },
+   { "sp": 1, "en": "No problem. Enjoy your break.", "vi": "Không vấn đề gì. Chúc chị nghỉ vui." }
+  ]
+ },
+ {
+  "id": "dlg-b1-instructions",
+  "level": 1,
+  "title_en": "Showing a new hire the system",
+  "title_vi": "Hướng dẫn nhân viên mới dùng hệ thống",
+  "speakers": ["Binh", "Julia"],
+  "turns": [
+   { "sp": 0, "en": "Let me show you how we log orders.", "vi": "Để tôi chỉ chị cách ghi nhận đơn hàng." },
+   { "sp": 1, "en": "Do I need a special account?", "vi": "Tôi có cần tài khoản riêng không?" },
+   { "sp": 0, "en": "Yes, IT sent your login this morning.", "vi": "Có, phòng IT gửi thông tin đăng nhập sáng nay rồi." },
+   { "sp": 1, "en": "Found it. What's the first step?", "vi": "Tôi thấy rồi. Bước đầu tiên là gì?" },
+   { "sp": 0, "en": "Click \"New order\", then choose the customer.", "vi": "Bấm \"New order\", rồi chọn khách hàng." },
+   { "sp": 1, "en": "What if the customer isn't in the list?", "vi": "Nếu khách chưa có trong danh sách thì sao?" },
+   { "sp": 0, "en": "Then you add them, but ask Mai to check the details.", "vi": "Thì chị thêm vào, nhưng nhờ Mai kiểm tra thông tin." },
+   { "sp": 1, "en": "And do I save it as a draft first?", "vi": "Tôi có lưu nháp trước không?" },
+   { "sp": 0, "en": "Always. We only confirm after payment.", "vi": "Luôn luôn. Chỉ xác nhận sau khi có thanh toán." },
+   { "sp": 1, "en": "That makes sense. Can I try one now?", "vi": "Nghe hợp lý. Giờ tôi thử một đơn được không?" },
+   { "sp": 0, "en": "Go ahead. I'll watch the first one.", "vi": "Chị cứ làm. Đơn đầu tôi ngồi xem cùng." }
+  ]
+ },
+ {
+  "id": "dlg-b1-delivery",
+  "level": 1,
+  "title_en": "Chasing a late delivery",
+  "title_vi": "Hỏi nhà cung cấp về hàng giao chậm",
+  "speakers": ["Quang", "Supplier"],
+  "turns": [
+   { "sp": 0, "en": "Hello, I'm calling about order 4471.", "vi": "Xin chào, tôi gọi về đơn hàng 4471." },
+   { "sp": 1, "en": "One moment, let me open it.", "vi": "Anh chờ chút, để tôi mở đơn ra." },
+   { "sp": 0, "en": "It was due on Monday, but nothing has arrived.", "vi": "Đơn đến hạn thứ Hai, nhưng chưa thấy gì cả." },
+   { "sp": 1, "en": "I'm sorry about that. The truck broke down.", "vi": "Tôi xin lỗi về việc đó. Xe tải bị hỏng." },
+   { "sp": 0, "en": "I understand, but we need the parts this week.", "vi": "Tôi hiểu, nhưng tuần này chúng tôi cần linh kiện." },
+   { "sp": 1, "en": "We can deliver on Thursday morning.", "vi": "Chúng tôi có thể giao sáng thứ Năm." },
+   { "sp": 0, "en": "Can you confirm that by email today?", "vi": "Hôm nay anh xác nhận qua email được không?" },
+   { "sp": 1, "en": "Of course. I'll send it within the hour.", "vi": "Tất nhiên. Tôi sẽ gửi trong vòng một tiếng." },
+   { "sp": 0, "en": "Thank you. Please include the tracking number.", "vi": "Cảm ơn anh. Nhớ kèm mã theo dõi vận đơn." }
+  ]
+ },
+ {
+  "id": "dlg-b1-visitor",
+  "level": 1,
+  "title_en": "Receiving a visitor at reception",
+  "title_vi": "Đón khách ở quầy lễ tân",
+  "speakers": ["Receptionist", "Mr. Evans"],
+  "turns": [
+   { "sp": 0, "en": "Good morning. How can I help you?", "vi": "Chào buổi sáng. Tôi có thể giúp gì cho anh?" },
+   { "sp": 1, "en": "I have a meeting with Ms. Linh at ten.", "vi": "Tôi có hẹn với chị Linh lúc mười giờ." },
+   { "sp": 0, "en": "May I have your name, please?", "vi": "Cho tôi xin tên anh ạ?" },
+   { "sp": 1, "en": "Peter Evans, from Northwind Logistics.", "vi": "Peter Evans, bên Northwind Logistics." },
+   { "sp": 0, "en": "Thank you. Please sign in here.", "vi": "Cảm ơn anh. Anh ký vào đây giúp tôi ạ." },
+   { "sp": 1, "en": "Do I need a visitor badge?", "vi": "Tôi có cần thẻ khách không?" },
+   { "sp": 0, "en": "Yes, here you are. Please wear it inside.", "vi": "Có, thẻ của anh đây. Anh đeo khi ở bên trong nhé." },
+   { "sp": 1, "en": "Where should I wait?", "vi": "Tôi ngồi chờ ở đâu ạ?" },
+   { "sp": 0, "en": "Take a seat over there. I'll call her now.", "vi": "Anh ngồi ở đằng kia. Tôi gọi chị ấy ngay." },
+   { "sp": 1, "en": "Thank you very much.", "vi": "Cảm ơn chị nhiều." }
+  ]
+ },
+ {
+  "id": "dlg-b1-end-call",
+  "level": 1,
+  "title_en": "Ending a call politely",
+  "title_vi": "Kết thúc cuộc gọi lịch sự",
+  "speakers": ["Thao", "Client"],
+  "turns": [
+   { "sp": 0, "en": "So, we'll send the samples on Friday.", "vi": "Vậy là chúng tôi sẽ gửi mẫu vào thứ Sáu." },
+   { "sp": 1, "en": "Perfect. And the price stays the same?", "vi": "Tốt. Còn giá vẫn giữ nguyên chứ?" },
+   { "sp": 0, "en": "Yes, the price is fixed until the end of June.", "vi": "Vâng, giá cố định tới hết tháng Sáu." },
+   { "sp": 1, "en": "Great. I think that's everything.", "vi": "Tuyệt. Tôi nghĩ là hết rồi đấy." },
+   { "sp": 0, "en": "Is there anything else I can help with?", "vi": "Còn gì tôi có thể hỗ trợ nữa không ạ?" },
+   { "sp": 1, "en": "No, that's all for today.", "vi": "Không, hôm nay vậy là đủ." },
+   { "sp": 0, "en": "I'll email a short summary this afternoon.", "vi": "Chiều nay tôi sẽ email lại tóm tắt ngắn." },
+   { "sp": 1, "en": "That would be great. Thanks for your time.", "vi": "Vậy thì tốt quá. Cảm ơn chị đã dành thời gian." },
+   { "sp": 0, "en": "Thank you for calling. Have a good day.", "vi": "Cảm ơn anh đã gọi. Chúc anh một ngày tốt lành." }
+  ]
+ }
+]

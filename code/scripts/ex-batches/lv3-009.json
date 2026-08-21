@@ -1,0 +1,870 @@
+[
+ {
+  "id": "transgender",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chuyển giới; người chuyển giới",
+  "coll": [
+   "transgender rights",
+   "transgender woman",
+   "transgender community",
+   "transgender people",
+   "openly transgender"
+  ]
+ },
+ {
+  "id": "feminine",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nữ tính; thuộc phái nữ; giống cái (ngữ pháp)",
+  "coll": [
+   "feminine beauty",
+   "feminine qualities",
+   "the feminine form",
+   "distinctly feminine",
+   "feminine energy"
+  ]
+ },
+ {
+  "id": "aerial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trên không; nhìn từ trên cao; ăng-ten",
+  "coll": [
+   "aerial view",
+   "aerial photograph",
+   "aerial attack",
+   "aerial survey",
+   "TV aerial"
+  ]
+ },
+ {
+  "id": "ammunition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đạn dược; cớ để công kích",
+  "coll": [
+   "run out of ammunition",
+   "live ammunition",
+   "ammunition supply",
+   "provide ammunition for critics",
+   "store ammunition"
+  ]
+ },
+ {
+  "id": "meme",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "meme, ảnh chế lan truyền; trào lưu lan truyền",
+  "coll": [
+   "internet meme",
+   "viral meme",
+   "meme culture",
+   "share a meme",
+   "meme page"
+  ]
+ },
+ {
+  "id": "lone",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đơn độc; một mình; duy nhất",
+  "coll": [
+   "lone survivor",
+   "lone wolf",
+   "lone parent",
+   "a lone figure",
+   "lone gunman"
+  ]
+ },
+ {
+  "id": "catalogue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "danh mục; catalô; lập danh mục",
+  "coll": [
+   "product catalogue",
+   "mail-order catalogue",
+   "library catalogue",
+   "a catalogue of errors",
+   "catalogue the collection"
+  ]
+ },
+ {
+  "id": "genocide",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nạn diệt chủng; tội diệt chủng",
+  "coll": [
+   "commit genocide",
+   "an act of genocide",
+   "genocide survivor",
+   "accused of genocide",
+   "prevent genocide"
+  ]
+ },
+ {
+  "id": "albeit",
+  "pos": [
+   "n"
+  ],
+  "vi": "mặc dù; dẫu rằng",
+  "coll": [
+   "albeit briefly",
+   "albeit slowly",
+   "albeit reluctantly",
+   "albeit with difficulty"
+  ]
+ },
+ {
+  "id": "deployment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự triển khai; việc điều động quân",
+  "coll": [
+   "troop deployment",
+   "military deployment",
+   "deployment of resources",
+   "software deployment",
+   "rapid deployment"
+  ]
+ },
+ {
+  "id": "territorial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc lãnh thổ; hay bảo vệ lãnh địa",
+  "coll": [
+   "territorial dispute",
+   "territorial waters",
+   "territorial integrity",
+   "territorial claim",
+   "highly territorial"
+  ]
+ },
+ {
+  "id": "charitable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "từ thiện; rộng lượng, độ lượng",
+  "coll": [
+   "charitable organisation",
+   "charitable donation",
+   "charitable work",
+   "charitable trust",
+   "charitable foundation"
+  ]
+ },
+ {
+  "id": "humanitarian",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nhân đạo; nhà hoạt động nhân đạo",
+  "coll": [
+   "humanitarian aid",
+   "humanitarian crisis",
+   "humanitarian organisation",
+   "humanitarian grounds",
+   "humanitarian relief"
+  ]
+ },
+ {
+  "id": "immunity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự miễn dịch; quyền miễn trừ",
+  "coll": [
+   "immunity to disease",
+   "diplomatic immunity",
+   "build immunity",
+   "grant immunity",
+   "herd immunity"
+  ]
+ },
+ {
+  "id": "recreational",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giải trí; dành cho tiêu khiển",
+  "coll": [
+   "recreational activities",
+   "recreational drug",
+   "recreational facilities",
+   "recreational use",
+   "recreational vehicle"
+  ]
+ },
+ {
+  "id": "coordinator",
+  "pos": [
+   "n"
+  ],
+  "vi": "điều phối viên; người điều phối",
+  "coll": [
+   "project coordinator",
+   "event coordinator",
+   "programme coordinator",
+   "appoint a coordinator",
+   "volunteer coordinator"
+  ]
+ },
+ {
+  "id": "renewable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tái tạo được; có thể gia hạn; năng lượng tái tạo",
+  "coll": [
+   "renewable energy",
+   "renewable resources",
+   "renewable contract",
+   "renewable sources",
+   "renewable power"
+  ]
+ },
+ {
+  "id": "withdrawn",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "thu mình, khép kín; đã rút lại; đã rút khỏi",
+  "coll": [
+   "become withdrawn",
+   "quiet and withdrawn",
+   "withdrawn from the market",
+   "withdrawn from sale",
+   "socially withdrawn"
+  ]
+ },
+ {
+  "id": "elevation",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ cao; sự nâng lên; hình chiếu đứng",
+  "coll": [
+   "high elevation",
+   "elevation above sea level",
+   "the elevation of the land",
+   "front elevation",
+   "elevation to the post"
+  ]
+ },
+ {
+  "id": "accountable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chịu trách nhiệm; phải giải trình",
+  "coll": [
+   "hold someone accountable",
+   "accountable to the public",
+   "accountable for their actions",
+   "fully accountable",
+   "accountable government"
+  ]
+ },
+ {
+  "id": "shuttle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xe đưa đón; tàu con thoi; đưa đón qua lại",
+  "coll": [
+   "shuttle bus",
+   "space shuttle",
+   "shuttle service",
+   "airport shuttle",
+   "shuttle between cities"
+  ]
+ },
+ {
+  "id": "horizontal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nằm ngang; theo chiều ngang",
+  "coll": [
+   "horizontal line",
+   "horizontal axis",
+   "horizontal surface",
+   "horizontal position",
+   "horizontal integration"
+  ]
+ },
+ {
+  "id": "aggression",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hung hăng; hành vi gây hấn; sự xâm lược",
+  "coll": [
+   "an act of aggression",
+   "military aggression",
+   "verbal aggression",
+   "show aggression",
+   "physical aggression"
+  ]
+ },
+ {
+  "id": "esteem",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự quý trọng; kính trọng, coi trọng",
+  "coll": [
+   "self-esteem",
+   "high esteem",
+   "hold in esteem",
+   "public esteem",
+   "low self-esteem"
+  ]
+ },
+ {
+  "id": "lad",
+  "pos": [
+   "n"
+  ],
+  "vi": "chàng trai; cậu nhóc",
+  "coll": [
+   "young lad",
+   "a nice lad",
+   "lads' night out",
+   "a bit of a lad",
+   "the lads"
+  ]
+ },
+ {
+  "id": "dope",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "ma túy; chất kích thích doping; đỉnh, ngầu",
+  "coll": [
+   "dope test",
+   "smoke dope",
+   "that's dope",
+   "dope dealer",
+   "get doped up"
+  ]
+ },
+ {
+  "id": "scrap",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mẩu vụn, mảnh nhỏ; phế liệu; loại bỏ, hủy bỏ",
+  "coll": [
+   "scrap metal",
+   "a scrap of paper",
+   "scrap the plan",
+   "scrap yard",
+   "not a scrap of evidence"
+  ]
+ },
+ {
+  "id": "mortality",
+  "pos": [
+   "n"
+  ],
+  "vi": "tỷ lệ tử vong; sự ắt phải chết",
+  "coll": [
+   "mortality rate",
+   "infant mortality",
+   "high mortality",
+   "reduce mortality",
+   "face one's own mortality"
+  ]
+ },
+ {
+  "id": "coordination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phối hợp; khả năng phối hợp vận động",
+  "coll": [
+   "hand-eye coordination",
+   "in coordination with",
+   "poor coordination",
+   "coordination between agencies",
+   "improve coordination"
+  ]
+ },
+ {
+  "id": "hostage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con tin",
+  "coll": [
+   "take hostage",
+   "hold hostage",
+   "hostage situation",
+   "release the hostages",
+   "hostage crisis"
+  ]
+ },
+ {
+  "id": "progression",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tiến triển; tiến trình; cấp số (toán)",
+  "coll": [
+   "career progression",
+   "natural progression",
+   "disease progression",
+   "chord progression",
+   "arithmetic progression"
+  ]
+ },
+ {
+  "id": "spotlight",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đèn sân khấu; sự chú ý của công chúng; làm nổi bật",
+  "coll": [
+   "in the spotlight",
+   "steal the spotlight",
+   "media spotlight",
+   "shine a spotlight on",
+   "under the spotlight"
+  ]
+ },
+ {
+  "id": "confidential",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mật, bảo mật; cần giữ kín",
+  "coll": [
+   "confidential information",
+   "strictly confidential",
+   "confidential report",
+   "keep it confidential",
+   "confidential document"
+  ]
+ },
+ {
+  "id": "pharmaceutical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc dược phẩm; dược phẩm",
+  "coll": [
+   "pharmaceutical company",
+   "pharmaceutical industry",
+   "pharmaceutical products",
+   "pharmaceutical drugs",
+   "pharmaceutical research"
+  ]
+ },
+ {
+  "id": "arguably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "có thể nói là; xét cho cùng thì",
+  "coll": [
+   "arguably the best",
+   "arguably the greatest",
+   "arguably more important",
+   "arguably true"
+  ]
+ },
+ {
+  "id": "aftermath",
+  "pos": [
+   "n"
+  ],
+  "vi": "hậu quả; giai đoạn ngay sau biến cố",
+  "coll": [
+   "in the aftermath of",
+   "the aftermath of the war",
+   "immediate aftermath",
+   "the aftermath of the storm",
+   "deal with the aftermath"
+  ]
+ },
+ {
+  "id": "brigade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lữ đoàn; đội, nhóm",
+  "coll": [
+   "fire brigade",
+   "infantry brigade",
+   "brigade commander",
+   "a brigade of volunteers"
+  ]
+ },
+ {
+  "id": "literacy",
+  "pos": [
+   "n"
+  ],
+  "vi": "khả năng đọc viết; trình độ hiểu biết",
+  "coll": [
+   "adult literacy",
+   "literacy rate",
+   "digital literacy",
+   "financial literacy",
+   "improve literacy"
+  ]
+ },
+ {
+  "id": "clarity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự rõ ràng; độ trong",
+  "coll": [
+   "clarity of thought",
+   "lack of clarity",
+   "provide clarity",
+   "with clarity",
+   "the clarity of the image"
+  ]
+ },
+ {
+  "id": "advocacy",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc bênh vực; sự vận động ủng hộ",
+  "coll": [
+   "advocacy group",
+   "patient advocacy",
+   "advocacy for reform",
+   "advocacy work",
+   "policy advocacy"
+  ]
+ },
+ {
+  "id": "inevitably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tất yếu; không thể tránh khỏi",
+  "coll": [
+   "inevitably lead to",
+   "inevitably result in",
+   "will inevitably",
+   "inevitably follows"
+  ]
+ },
+ {
+  "id": "discretion",
+  "pos": [
+   "n"
+  ],
+  "vi": "quyền tự quyết; sự kín đáo, thận trọng",
+  "coll": [
+   "at your discretion",
+   "use discretion",
+   "exercise discretion",
+   "with discretion",
+   "viewer discretion advised"
+  ]
+ },
+ {
+  "id": "chrome",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lớp mạ crôm; crôm",
+  "coll": [
+   "chrome finish",
+   "chrome plated",
+   "chrome wheels",
+   "chrome trim",
+   "polished chrome"
+  ]
+ },
+ {
+  "id": "gif",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ảnh động GIF",
+  "coll": [
+   "animated gif",
+   "share a gif",
+   "gif format",
+   "make a gif"
+  ]
+ },
+ {
+  "id": "individually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "riêng lẻ; từng người một",
+  "coll": [
+   "individually wrapped",
+   "individually tailored",
+   "treated individually",
+   "individually and collectively"
+  ]
+ },
+ {
+  "id": "specialists",
+  "pos": [
+   "n"
+  ],
+  "vi": "các chuyên gia; bác sĩ chuyên khoa",
+  "coll": [
+   "medical specialists",
+   "consult specialists",
+   "a team of specialists",
+   "IT specialists",
+   "referred to specialists"
+  ]
+ },
+ {
+  "id": "trademark",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "nhãn hiệu; thương hiệu; nét đặc trưng riêng",
+  "coll": [
+   "registered trademark",
+   "trademark infringement",
+   "trademark application",
+   "his trademark smile",
+   "file a trademark"
+  ]
+ },
+ {
+  "id": "heir",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người thừa kế",
+  "coll": [
+   "heir to the throne",
+   "rightful heir",
+   "sole heir",
+   "heir apparent",
+   "name an heir"
+  ]
+ },
+ {
+  "id": "awhile",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một lúc; một hồi",
+  "coll": [
+   "stay awhile",
+   "wait awhile",
+   "rest awhile",
+   "sit awhile"
+  ]
+ },
+ {
+  "id": "liable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chịu trách nhiệm pháp lý; dễ, có khả năng",
+  "coll": [
+   "liable for damages",
+   "held liable",
+   "liable to change",
+   "legally liable",
+   "liable to happen"
+  ]
+ },
+ {
+  "id": "module",
+  "pos": [
+   "n"
+  ],
+  "vi": "mô-đun; học phần",
+  "coll": [
+   "training module",
+   "software module",
+   "lunar module",
+   "core module",
+   "optional module"
+  ]
+ },
+ {
+  "id": "landmark",
+  "pos": [
+   "v"
+  ],
+  "vi": "cột mốc quan trọng; địa danh nổi bật; công nhận là di tích",
+  "coll": [
+   "historic landmark",
+   "a landmark ruling",
+   "landmark decision",
+   "famous landmark",
+   "landmark building"
+  ]
+ },
+ {
+  "id": "cellular",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc tế bào; di động (mạng điện thoại)",
+  "coll": [
+   "cellular structure",
+   "cellular phone",
+   "cellular network",
+   "cellular level",
+   "cellular damage"
+  ]
+ },
+ {
+  "id": "sincerely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chân thành; thật lòng",
+  "coll": [
+   "sincerely hope",
+   "Yours sincerely",
+   "sincerely apologise",
+   "sincerely believe",
+   "sincerely thank"
+  ]
+ },
+ {
+  "id": "juvenile",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "vị thành niên; trẻ con, non nớt; người chưa thành niên",
+  "coll": [
+   "juvenile crime",
+   "juvenile court",
+   "juvenile delinquent",
+   "juvenile behaviour",
+   "juvenile detention"
+  ]
+ },
+ {
+  "id": "immense",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khổng lồ; to lớn, mênh mông",
+  "coll": [
+   "immense pressure",
+   "immense value",
+   "immense pleasure",
+   "immense size",
+   "immense wealth"
+  ]
+ },
+ {
+  "id": "clutch",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "nắm chặt; bộ ly hợp (côn xe); quyết định ở phút chót",
+  "coll": [
+   "clutch the bag",
+   "clutch pedal",
+   "clutch at straws",
+   "in the clutch",
+   "clutch performance"
+  ]
+ },
+ {
+  "id": "credibility",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ tin cậy; uy tín",
+  "coll": [
+   "lose credibility",
+   "gain credibility",
+   "the credibility of the witness",
+   "lack credibility",
+   "street credibility"
+  ]
+ },
+ {
+  "id": "socialism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa xã hội",
+  "coll": [
+   "democratic socialism",
+   "the rise of socialism",
+   "believe in socialism",
+   "socialism and capitalism",
+   "state socialism"
+  ]
+ },
+ {
+  "id": "yearly",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "hàng năm; mỗi năm một lần",
+  "coll": [
+   "yearly income",
+   "yearly report",
+   "yearly check-up",
+   "twice yearly",
+   "yearly subscription"
+  ]
+ }
+]

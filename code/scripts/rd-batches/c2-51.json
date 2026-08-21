@@ -1,0 +1,165 @@
+[
+ {
+  "id": "wiki-k-meleon",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/K-Meleon",
+  "title_en": "K-Meleon",
+  "sentences": [
+   "K-Meleon is a free and open-source, lightweight web browser for Microsoft Windows.",
+   "Unlike cross-platform browsers, it uses the Windows API to create its user interface.",
+   "Early versions of K-Meleon render web pages with Gecko, Mozilla's browser layout engine.",
+   "The Firefox web browser and the Mozilla Thunderbird email client also use Gecko.",
+   "K-Meleon became a popular browser for Windows.",
+   "It was available as an optional default browser in Europe.",
+   "After Mozilla deprecated embedding Gecko, K-Meleon continued to use it for several years.",
+   "K-Meleon 76 uses the Goanna layout engine.",
+   "Goanna is a fork of Gecko created for the Pale Moon browser.",
+   "K-Meleon began as a competitor to Mozilla's original internet suite.",
+   "It had the goal of being faster and lighter.",
+   "Until 2011, K-Meleon embedded Gecko in a stripped-down interface.",
+   "Throughout its lifespan, K-Meleon has required small amounts of memory.",
+   "K-Meleon 76 uses the Goanna fork.",
+   "It supports platforms no longer supported by Mozilla after their Gecko rewrite.",
+   "K-Meleon supports older computers and older computer software."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-intel-launches-centrino-2-aiming-for-per",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Intel_launches_Centrino_2_aiming_for_performance_and_mobility",
+  "title_en": "Intel launches Centrino 2 aiming for performance and mobility",
+  "sentences": [
+   "Wednesday, July 16, 2008 After the launch of Intel Atom for low-price PCs during the 2008 COMPUTEX Taipei, Intel globally unveiled the Centrino 2 Processor Technology (formerly codenamed \"Montevina\") products for laptops yesterday July 15.",
+   "This Centrino 2 continues support for features on the earlier-released 45 nanometer (45nm) \"Penryn\" processor, and implements enhanced security and management features to the Vpro version.",
+   "\"HD-to-Go\" for mobile entertainment and \"802.11n\" for wireless networking were embedded into this new processor technology.",
+   "Due to the difference on networking infrastructure in several nations, the WiMAX feature will be added in Europe and North America before this December.",
+   "According to Intel Corp., wireless network transmission with 802.11 draft-N feature will be up to 450 Mbps, it delivered five times the speed and twice the range of older 802.11a/g technology in this processor technology.",
+   "In addition, Intel Centrino 2 also provided the horsepower and battery life for mobile entertainment and mobile business."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-gnu",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/GNU",
+  "title_en": "GNU",
+  "sentences": [
+   "GNU is the name of a computer operating system.",
+   "The name is short for GNU's Not Unix.",
+   "Richard Stallman leads the GNU Project.",
+   "The popular Linux operating systems made using the Linux kernel have many GNU tools too.",
+   "So, many projects and developers call the Linux-based operating systems GNU/Linux.",
+   "The GNU project was started by Richard Stallman in 1983.",
+   "He wanted to create a computer system that was all free and open-source software.",
+   "Users could change, share and publish new work based on GNU.",
+   "He and a group of developers started by creating copies of each piece of UNIX software.",
+   "The rest of GNU was the kernel, called the GNU Hurd, which is not yet finished.",
+   "The more popular Linux kernel is often used instead."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-x-window-system",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/X_Window_System",
+  "title_en": "X Window System",
+  "sentences": [
+   "The X Window System is software for a graphical user interface (GUI) system.",
+   "It is a set of protocols and programs.",
+   "It is also known as X11, or just X.",
+   "It can manage windows, and other parts of a graphical user interface (GUI) on a bitmap display.",
+   "The X Window System is commonly found in Unix-like operating systems.",
+   "X provides the basic components to build GUI environments: drawing and moving windows on the screen and interacting with a mouse or a keyboard.",
+   "X does not say what the user interface should look like.",
+   "X only draws, so different client programs handle this.",
+   "Different X11-based environments can have different designs.",
+   "X usually is not a part of an operating system; instead, it is built as an additional program on top of the operating system.",
+   "Unlike display protocols from before, X was specifically designed to be used over network connections rather than on a display near the computer.",
+   "X has network transparency: the machine where an application program (the client application) runs need not be the user's local machine (the display server).",
+   "X was developed at MIT in 1984.",
+   "The current protocol version, X11, appeared in September 1987.",
+   "The X.Org Foundation leads the X project, with the current reference implementation, version 11 release 7.7 (6 June 2012), available as free software under the MIT License and similar permissive licenses."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-legacy-port",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Legacy_port",
+  "title_en": "Legacy port",
+  "sentences": [
+   "A legacy computer port is a type of computer connector that has been largely replaced by newer technologies but may still be found on older systems or specialized equipment.",
+   "These ports were once standard for connecting peripherals like keyboards, mice, printers, and monitors.",
+   "However, they have been superseded by faster, more compact, and more versatile alternatives such as USB, HDMI, and DisplayPort.",
+   "Common legacy ports include: Parallel Port (LPT) – Used for printers and scanners, replaced by USB and wireless connections.",
+   "Serial Port (RS-232) – Used for modems and industrial equipment, replaced by USB.",
+   "PS/2 Port – Used for keyboards and mice, replaced by USB.",
+   "VGA Port – Used for video output, replaced by HDMI and DisplayPort.",
+   "SCSI Port – Used for storage devices, replaced by SATA and USB.",
+   "ISA Expansion Slots – Used for peripheral cards, replaced by PCI and PCIe.",
+   "Legacy ports are still used in some industrial, scientific, and retro computing applications where older hardware needs to be maintained."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-huawei",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Huawei",
+  "title_en": "Huawei",
+  "sentences": [
+   "Huawei Technologies Co., Ltd. (/ˈhwɑːˌweɪ/; Chinese: 华为; [xwǎ.wèi] ()) is a Chinese multinational telecommunications equipment and consumer electronics company based in Shenzhen, Guangdong, South China.",
+   "It was founded by Ren Zhengfei in 1987.",
+   "The name Huawei may be translated as \"splendid act\" or \"China is able\"; Hua can mean \"splendid\" or \"China\", while wei can mean \"action\" or \"achievement\".",
+   "Huawei has had a lot of problems in some countries.",
+   "They have mainly had problems with the United States government.",
+   "The US government said that the Chinese government could use Huawei's 5G technology to spy on people.",
+   "Because of this, the US government does not want other countries to use technology by Huawei or ZTE.",
+   "In May 2019, the US government put Huawei on a blacklist.",
+   "This meant that Huawei could not do business with American companies."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-dns-hijacking",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/DNS_hijacking",
+  "title_en": "DNS hijacking",
+  "sentences": [
+   "The Domain Name System is a way to map a domain name to an IP address.",
+   "DNS hijacking, DNS poisoning, and DNS redirection are names for changing this mapping.",
+   "Usually, this is done by pointing to a different name server.",
+   "This name server will then return a different IP address for the domain.",
+   "Hackers use this, for example for phishing, or to show advertisments.",
+   "The government also uses it sometimes: accessing certain domains may be illegal, in certain countries.",
+   "Using this technique, the government can require internet service providers to block such domains.",
+   "If the government says that certain domains must no longer be accessible, this is a form of censorship."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-multi-core-processor",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Multi-core_processor",
+  "title_en": "Multi-core processor",
+  "sentences": [
+   "A multi-core CPU is a computer processor which has two or more sections.",
+   "Each section of the chip executes instructions as if it was a separate computer.",
+   "The actual processors are still on one chip.",
+   "On this chip every core looks mostly like the other.",
+   "They are several mostly independent cores which work together in parallel.",
+   "A dual-core processor is a multi-core processor with two independent microprocessors.",
+   "A quad-core processor is a multi-core processor with four independent microprocessors.",
+   "As you might be able to tell from the prefix, the name of the processor is based on the number of the microprocessors on the chip."
+  ],
+  "topic": "it"
+ }
+]

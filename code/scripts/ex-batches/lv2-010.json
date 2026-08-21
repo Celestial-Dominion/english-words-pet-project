@@ -1,0 +1,856 @@
+[
+ {
+  "id": "ridge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sống núi; gờ nổi; nóc mái nhà",
+  "coll": [
+   "mountain ridge",
+   "along the ridge",
+   "a ridge of high pressure",
+   "narrow ridge"
+  ]
+ },
+ {
+  "id": "tribe",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bộ lạc; bộ tộc",
+  "coll": [
+   "nomadic tribe",
+   "a member of the tribe",
+   "ancient tribe",
+   "lost tribe"
+  ]
+ },
+ {
+  "id": "worrying",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đáng lo ngại; gây lo lắng",
+  "coll": [
+   "worrying trend",
+   "deeply worrying",
+   "worrying sign",
+   "worrying development"
+  ]
+ },
+ {
+  "id": "alternate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "luân phiên; xen kẽ; thay thế; người thế chân",
+  "coll": [
+   "alternate between",
+   "on alternate days",
+   "alternate route",
+   "alternate version"
+  ]
+ },
+ {
+  "id": "bankruptcy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phá sản; tình trạng vỡ nợ",
+  "coll": [
+   "file for bankruptcy",
+   "declare bankruptcy",
+   "bankruptcy protection",
+   "face bankruptcy"
+  ]
+ },
+ {
+  "id": "canon",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chuẩn mực; hệ tác phẩm kinh điển; giáo luật",
+  "coll": [
+   "literary canon",
+   "canon law",
+   "part of the canon",
+   "the Western canon"
+  ]
+ },
+ {
+  "id": "closure",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự đóng cửa; việc chấm dứt; sự khép lại nỗi đau",
+  "coll": [
+   "factory closure",
+   "road closure",
+   "bring closure",
+   "find closure",
+   "closure of the school"
+  ]
+ },
+ {
+  "id": "convert",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chuyển đổi; cải đạo; người cải đạo",
+  "coll": [
+   "convert to Islam",
+   "convert currency",
+   "convert the file",
+   "convert into cash"
+  ]
+ },
+ {
+  "id": "dental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nha khoa; thuộc về răng",
+  "coll": [
+   "dental care",
+   "dental hygiene",
+   "dental clinic",
+   "dental treatment",
+   "dental floss"
+  ]
+ },
+ {
+  "id": "editorial",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bài xã luận; thuộc biên tập",
+  "coll": [
+   "write an editorial",
+   "editorial board",
+   "editorial staff",
+   "editorial policy"
+  ]
+ },
+ {
+  "id": "entertaining",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "thú vị; vui nhộn; hấp dẫn",
+  "coll": [
+   "highly entertaining",
+   "entertaining film",
+   "entertaining guests",
+   "an entertaining read"
+  ]
+ },
+ {
+  "id": "grip",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự nắm chặt; nắm chặt; độ bám",
+  "coll": [
+   "tight grip",
+   "lose your grip",
+   "grip the wheel",
+   "get a grip",
+   "good grip"
+  ]
+ },
+ {
+  "id": "humble",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "khiêm tốn; khiêm nhường; giản dị",
+  "coll": [
+   "humble beginnings",
+   "humble opinion",
+   "stay humble",
+   "humble home"
+  ]
+ },
+ {
+  "id": "hybrid",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lai; giống lai; xe lai điện",
+  "coll": [
+   "hybrid car",
+   "hybrid model",
+   "hybrid working",
+   "hybrid plant"
+  ]
+ },
+ {
+  "id": "openly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "công khai; thẳng thắn",
+  "coll": [
+   "speak openly",
+   "openly gay",
+   "openly admit",
+   "openly critical"
+  ]
+ },
+ {
+  "id": "respected",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "được kính trọng; được nể trọng",
+  "coll": [
+   "highly respected",
+   "widely respected",
+   "respected leader",
+   "well respected"
+  ]
+ },
+ {
+  "id": "voter",
+  "pos": [
+   "n"
+  ],
+  "vi": "cử tri; người bỏ phiếu",
+  "coll": [
+   "registered voter",
+   "voter turnout",
+   "swing voter",
+   "voter registration"
+  ]
+ },
+ {
+  "id": "ally",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồng minh; liên kết với",
+  "coll": [
+   "close ally",
+   "political ally",
+   "ally with",
+   "loyal ally"
+  ]
+ },
+ {
+  "id": "booth",
+  "pos": [
+   "n"
+  ],
+  "vi": "quầy; gian hàng; buồng nhỏ",
+  "coll": [
+   "phone booth",
+   "voting booth",
+   "ticket booth",
+   "photo booth",
+   "exhibition booth"
+  ]
+ },
+ {
+  "id": "breakdown",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hỏng hóc; sự suy sụp; bảng phân tích chi tiết",
+  "coll": [
+   "nervous breakdown",
+   "car breakdown",
+   "breakdown of talks",
+   "detailed breakdown",
+   "breakdown in communication"
+  ]
+ },
+ {
+  "id": "consensus",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự đồng thuận; sự nhất trí chung",
+  "coll": [
+   "reach a consensus",
+   "general consensus",
+   "broad consensus",
+   "consensus of opinion"
+  ]
+ },
+ {
+  "id": "fatal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "gây tử vong; chết người; tai hại",
+  "coll": [
+   "fatal accident",
+   "fatal injury",
+   "fatal error",
+   "fatal mistake",
+   "prove fatal"
+  ]
+ },
+ {
+  "id": "genuinely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thật sự; chân thành",
+  "coll": [
+   "genuinely happy",
+   "genuinely believe",
+   "genuinely sorry",
+   "genuinely interested"
+  ]
+ },
+ {
+  "id": "import",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhập khẩu; hàng nhập khẩu",
+  "coll": [
+   "import goods",
+   "import duty",
+   "import from China",
+   "oil imports"
+  ]
+ },
+ {
+  "id": "innovative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sáng tạo; đổi mới; mang tính đột phá",
+  "coll": [
+   "innovative approach",
+   "innovative design",
+   "innovative technology",
+   "highly innovative"
+  ]
+ },
+ {
+  "id": "mighty",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "hùng mạnh; mạnh mẽ; to lớn",
+  "coll": [
+   "mighty river",
+   "mighty warrior",
+   "the mighty ocean",
+   "high and mighty"
+  ]
+ },
+ {
+  "id": "pine",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cây thông; gỗ thông; mòn mỏi nhớ nhung",
+  "coll": [
+   "pine tree",
+   "pine forest",
+   "pine cone",
+   "pine needles",
+   "pine for home"
+  ]
+ },
+ {
+  "id": "pose",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gây ra; đặt ra; tạo dáng; tư thế",
+  "coll": [
+   "pose a threat",
+   "pose a question",
+   "pose for a photo",
+   "strike a pose",
+   "pose a risk"
+  ]
+ },
+ {
+  "id": "rental",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "việc cho thuê; tiền thuê; đồ đi thuê",
+  "coll": [
+   "car rental",
+   "rental car",
+   "rental property",
+   "rental agreement",
+   "rental income"
+  ]
+ },
+ {
+  "id": "technically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt kỹ thuật; xét cho đúng",
+  "coll": [
+   "technically speaking",
+   "technically possible",
+   "technically illegal",
+   "technically advanced"
+  ]
+ },
+ {
+  "id": "unlimited",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không giới hạn; vô hạn",
+  "coll": [
+   "unlimited access",
+   "unlimited data",
+   "unlimited supply",
+   "unlimited potential"
+  ]
+ },
+ {
+  "id": "bombing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vụ đánh bom; sự ném bom",
+  "coll": [
+   "suicide bombing",
+   "bombing campaign",
+   "bombing raid",
+   "the bombing of the city"
+  ]
+ },
+ {
+  "id": "darling",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "cưng; người yêu quý; đáng yêu",
+  "coll": [
+   "my darling",
+   "darling daughter",
+   "media darling",
+   "yes, darling"
+  ]
+ },
+ {
+  "id": "influential",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có ảnh hưởng; có sức chi phối",
+  "coll": [
+   "highly influential",
+   "influential figure",
+   "most influential people",
+   "influential role"
+  ]
+ },
+ {
+  "id": "invisible",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "vô hình; không nhìn thấy được",
+  "coll": [
+   "invisible to the naked eye",
+   "become invisible",
+   "invisible ink",
+   "feel invisible"
+  ]
+ },
+ {
+  "id": "lawsuit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vụ kiện; đơn kiện",
+  "coll": [
+   "file a lawsuit",
+   "face a lawsuit",
+   "settle a lawsuit",
+   "class-action lawsuit"
+  ]
+ },
+ {
+  "id": "leak",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "rò rỉ; chỗ rò; tiết lộ (tin)",
+  "coll": [
+   "gas leak",
+   "water leak",
+   "leak information",
+   "leak to the press",
+   "fix a leak"
+  ]
+ },
+ {
+  "id": "olive",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "quả ô liu; cây ô liu; màu xanh ô liu",
+  "coll": [
+   "olive oil",
+   "olive tree",
+   "black olives",
+   "olive branch",
+   "olive green"
+  ]
+ },
+ {
+  "id": "passionate",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đam mê; nồng nhiệt; say đắm",
+  "coll": [
+   "passionate about music",
+   "passionate kiss",
+   "passionate speech",
+   "deeply passionate"
+  ]
+ },
+ {
+  "id": "recommendation",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời khuyên; sự giới thiệu; đề xuất",
+  "coll": [
+   "make a recommendation",
+   "on the recommendation of",
+   "letter of recommendation",
+   "follow the recommendations"
+  ]
+ },
+ {
+  "id": "servant",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người hầu; đầy tớ; công bộc",
+  "coll": [
+   "civil servant",
+   "loyal servant",
+   "domestic servant",
+   "public servant"
+  ]
+ },
+ {
+  "id": "smash",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đập vỡ; đâm sầm; cú đập; cú hit lớn",
+  "coll": [
+   "smash a window",
+   "smash into",
+   "smash hit",
+   "smash the record",
+   "smash to pieces"
+  ]
+ },
+ {
+  "id": "surrender",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đầu hàng; sự đầu hàng; giao nộp",
+  "coll": [
+   "surrender to the police",
+   "unconditional surrender",
+   "refuse to surrender",
+   "surrender your passport"
+  ]
+ },
+ {
+  "id": "suspicious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng ngờ; nghi ngờ; khả nghi",
+  "coll": [
+   "suspicious behaviour",
+   "look suspicious",
+   "suspicious of strangers",
+   "suspicious package",
+   "highly suspicious"
+  ]
+ },
+ {
+  "id": "tender",
+  "pos": [
+   "adj",
+   "n",
+   "adv",
+   "v"
+  ],
+  "vi": "dịu dàng; mềm (thịt); đau khi chạm; hồ sơ dự thầu",
+  "coll": [
+   "tender meat",
+   "tender loving care",
+   "tender age",
+   "tender moment",
+   "submit a tender"
+  ]
+ },
+ {
+  "id": "thoroughly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "kỹ lưỡng; triệt để; hoàn toàn",
+  "coll": [
+   "thoroughly clean",
+   "thoroughly enjoy",
+   "thoroughly investigate",
+   "thoroughly mixed"
+  ]
+ },
+ {
+  "id": "beneficial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có lợi; hữu ích",
+  "coll": [
+   "mutually beneficial",
+   "beneficial effect",
+   "beneficial to health",
+   "highly beneficial"
+  ]
+ },
+ {
+  "id": "bud",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nụ hoa; chồi non; đâm chồi",
+  "coll": [
+   "flower bud",
+   "in bud",
+   "nip it in the bud",
+   "taste buds"
+  ]
+ },
+ {
+  "id": "console",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "an ủi; máy chơi game; bảng điều khiển",
+  "coll": [
+   "console a friend",
+   "games console",
+   "console yourself",
+   "central console"
+  ]
+ },
+ {
+  "id": "fabric",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vải; chất liệu vải; kết cấu (xã hội)",
+  "coll": [
+   "cotton fabric",
+   "soft fabric",
+   "the fabric of society",
+   "fabric softener"
+  ]
+ },
+ {
+  "id": "fabulous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tuyệt vời; cực hay; hoang đường",
+  "coll": [
+   "look fabulous",
+   "fabulous view",
+   "absolutely fabulous",
+   "fabulous wealth"
+  ]
+ },
+ {
+  "id": "freak",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "kẻ quái dị; người cuồng mê; bất thường; hoảng loạn",
+  "coll": [
+   "freak out",
+   "control freak",
+   "freak accident",
+   "freak of nature",
+   "fitness freak"
+  ]
+ },
+ {
+  "id": "gambling",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cờ bạc; việc đánh bạc",
+  "coll": [
+   "gambling addiction",
+   "online gambling",
+   "gambling debts",
+   "illegal gambling"
+  ]
+ },
+ {
+  "id": "gently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhẹ nhàng; dịu dàng; từ tốn",
+  "coll": [
+   "speak gently",
+   "gently stir",
+   "gently sloping",
+   "handle gently"
+  ]
+ },
+ {
+  "id": "grief",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nỗi đau buồn; sự tang thương; sự phiền toái",
+  "coll": [
+   "overcome with grief",
+   "deep grief",
+   "grief and loss",
+   "give someone grief"
+  ]
+ },
+ {
+  "id": "micro",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "siêu nhỏ; vi mô",
+  "coll": [
+   "micro level",
+   "micro scale",
+   "micro business",
+   "micro loans",
+   "micro and macro"
+  ]
+ },
+ {
+  "id": "pastor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mục sư; người chăn dắt giáo dân",
+  "coll": [
+   "church pastor",
+   "senior pastor",
+   "youth pastor",
+   "pastor of the congregation"
+  ]
+ },
+ {
+  "id": "rebel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ nổi loạn; quân nổi dậy; nổi loạn",
+  "coll": [
+   "rebel forces",
+   "rebel against authority",
+   "rebel leader",
+   "teenage rebel"
+  ]
+ },
+ {
+  "id": "separately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "riêng biệt; riêng rẽ; tách riêng",
+  "coll": [
+   "sold separately",
+   "packed separately",
+   "live separately",
+   "consider separately"
+  ]
+ },
+ {
+  "id": "subtle",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "tinh tế; khó nhận thấy; kín đáo",
+  "coll": [
+   "subtle difference",
+   "subtle hint",
+   "subtle change",
+   "subtle flavor"
+  ]
+ }
+]

@@ -1,0 +1,657 @@
+[
+ {
+  "id": "cut in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To intrude or interrupt."
+  ]
+ },
+ {
+  "id": "touch up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To make slight corrections or adjustments to",
+   "To fondle or to grope someone, usually in an inappropriate way."
+  ]
+ },
+ {
+  "id": "fill in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To fill",
+   "To inform somebody, especially to supply someone missing or missed information.",
+   "To substitute for somebody or something."
+  ]
+ },
+ {
+  "id": "give in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To collapse or fall.",
+   "To relent, yield, surrender or admit defeat.",
+   "To droop the head."
+  ]
+ },
+ {
+  "id": "catch up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To pick up suddenly.",
+   "To entangle (something).",
+   "To involve in (something)"
+  ]
+ },
+ {
+  "id": "frame up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To erect the initial walls and roof of (a new building).",
+   "To arrange fraudulent evidence to falsely implicate (a person) of a crime.",
+   "To prepare a shot by deciding what to include and exclude, what to use as background, etc."
+  ]
+ },
+ {
+  "id": "fold up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To make or become more compact by folding.",
+   "To surrender, abandon or give up under pressure.",
+   "To go out of business"
+  ]
+ },
+ {
+  "id": "look into",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To investigate, explore, or consider.",
+   "Used other than figuratively or idiomatically"
+  ]
+ },
+ {
+  "id": "do in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To kill or end",
+   "To exhaust, to tire out.",
+   "To damage or injure."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "look after",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To follow with the eyes",
+   "To seek out, to look for.",
+   "To care for"
+  ]
+ },
+ {
+  "id": "buckle up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To fasten with a buckle.",
+   "To fasten one's seat belt or safety belt.",
+   "To get ready, to prepare oneself."
+  ]
+ },
+ {
+  "id": "carry off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To transport away.",
+   "To steal or kidnap",
+   "To act convincingly"
+  ]
+ },
+ {
+  "id": "shell out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To pay money, to disburse",
+   "To use a program's \"shell escape\" function to execute an unrelated command or to invoke a subsidiary, interactive shell."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "black out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To censor or cover up by writing over with black ink.",
+   "To censor or cover up.",
+   "To lose consciousness"
+  ]
+ },
+ {
+  "id": "hash out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To work through the details of something"
+  ]
+ },
+ {
+  "id": "lighten up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To make (something) or to become less serious and more cheerful or casual",
+   "To lighten (something)"
+  ]
+ },
+ {
+  "id": "straighten out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To make straight.",
+   "To correct or rectify.",
+   "To eliminate confusion from or concerning."
+  ]
+ },
+ {
+  "id": "come across",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To change sides",
+   "To give an appearance or impression"
+  ]
+ },
+ {
+  "id": "suck up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To absorb (fluid).",
+   "To adulate or flatter (someone) excessively, generally to obtain some personal benefit or favour.",
+   "To fellate (someone)."
+  ]
+ },
+ {
+  "id": "mop up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To clean up (liquid) with a mop, rag, sponge, or other cleaning device.",
+   "To fix problems",
+   "To absorb the leftovers of a dish with bread etc., in order to eat them."
+  ]
+ },
+ {
+  "id": "hit up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To visit with or contact someone, especially with a definite purpose.",
+   "To eat or drink",
+   "To embark on or devote oneself to (an activity)"
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "knock together",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To assemble something quickly.",
+   "To come together, as if in contact."
+  ]
+ },
+ {
+  "id": "take on",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To acquire, bring in, or introduce.",
+   "To begin to have or exhibit.",
+   "To assume or take responsibility for."
+  ]
+ },
+ {
+  "id": "lay off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "(of an employer) To dismiss (workers) from employment, e.g. at a time of low business volume or through no fault of the worker, often…",
+   "To place all or part of a bet with another bookmaker in order to reduce risk.",
+   "To cease, quit, stop (doing something)."
+  ]
+ },
+ {
+  "id": "left over",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "simple past and past participle of leave over"
+  ]
+ },
+ {
+  "id": "double back",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To retrace one's steps"
+  ]
+ },
+ {
+  "id": "set back",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To delay or obstruct.",
+   "To remove from or allow distance.",
+   "To install or position behind a boundary or surface, or in a recess."
+  ]
+ },
+ {
+  "id": "throw off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To confuse",
+   "To introduce errors or inaccuracies",
+   "Of a horse, to eject its rider."
+  ]
+ },
+ {
+  "id": "arse about",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Alternative form of arse around."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "run down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To hit someone with a car or other vehicle and injure or kill them.",
+   "To criticize someone or an organisation, often unfairly.",
+   "To find something or someone after searching for a long time."
+  ]
+ },
+ {
+  "id": "tip off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To alert or inform (someone), especially confidentially.",
+   "To put the ball in play by throwing it up between two opponents.",
+   "To use a particular brush technique for producing a flawless surface on a wet coat of paint."
+  ]
+ },
+ {
+  "id": "bang up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To damage.",
+   "To put someone in prison, or into their individual cell.",
+   "To inject a recreational drug."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "hand off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To pass (the ball) to a teammate.",
+   "To pass or transfer."
+  ]
+ },
+ {
+  "id": "fuck up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To make a mistake, to go wrong.",
+   "To botch or make a mess of.",
+   "To injure or damage badly."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "dish out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To put (food) on to a dish ready for eating.",
+   "To distribute (a thing).",
+   "To distribute or deliver something."
+  ]
+ },
+ {
+  "id": "tie up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To secure with rope, string, etc.",
+   "To occupy, detain, keep busy, or delay.",
+   "To complete, finish, or resolve."
+  ]
+ },
+ {
+  "id": "stand down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To wait",
+   "To withdraw or retire from a position or from a team."
+  ]
+ },
+ {
+  "id": "hit on",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To flirt with",
+   "To discover, pinpoint",
+   "Used other than figuratively or idiomatically"
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "use up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To consume, deplete, expend, or exhaust.",
+   "To take or occupy."
+  ]
+ },
+ {
+  "id": "usher in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To announce the arrival of something",
+   "To begin something with preparatory material"
+  ]
+ },
+ {
+  "id": "end up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To bring to a conclusion.",
+   "To come to a final place, condition, or situation, sometimes unplanned or unexpected",
+   "To lift or tilt, so as to set on end."
+  ]
+ },
+ {
+  "id": "cop out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To avoid or shirk, either by failing to perform, or by performing in a grossly insufficient, negligent, or superficial manner.",
+   "To plead guilty and ask for mercy.",
+   "To blame"
+  ]
+ },
+ {
+  "id": "tail off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To gradually subside or diminish."
+  ]
+ },
+ {
+  "id": "tail away",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To gradually subside or diminish."
+  ]
+ },
+ {
+  "id": "take away",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To remove something and put it in a different place.",
+   "To remove something, either material or abstract, so that a person no longer has it.",
+   "To subtract or diminish something."
+  ]
+ },
+ {
+  "id": "pan out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To separate and recover (valuable minerals) by swirling dirt or crushed rock in a pan of water, in the manner of a traditional…",
+   "To proceed according to plan",
+   "To fall asleep."
+  ]
+ },
+ {
+  "id": "take after",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To resemble (a parent or ancestor) in appearance or habit.",
+   "To follow someone's example."
+  ]
+ },
+ {
+  "id": "take back",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To retract or withdraw (an earlier statement).",
+   "To cause (someone) to remember some past event or time.",
+   "To resume a relationship with (someone)."
+  ]
+ },
+ {
+  "id": "take over",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To assume control of something, such as a business or enterprise, and sometimes by force.",
+   "To adopt a further responsibility or duty.",
+   "To relieve someone temporarily."
+  ]
+ },
+ {
+  "id": "talk over",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To discuss",
+   "To persuade (someone)",
+   "To verbally interrupt (someone)"
+  ]
+ },
+ {
+  "id": "talk around",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To persuade someone by spoken arguments."
+  ]
+ },
+ {
+  "id": "calm down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To become less excited, intense, or angry.",
+   "To cause to become less excited, intense, or angry."
+  ]
+ },
+ {
+  "id": "fall through",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To be unsuccessful, come to nothing"
+  ]
+ },
+ {
+  "id": "inquire after",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To ask about the health of (someone)."
+  ]
+ },
+ {
+  "id": "tear along",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To run quickly along somewhere.",
+   "To break something into two pieces by separating at a line of perforations."
+  ]
+ },
+ {
+  "id": "tear away",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To remove (oneself or another person), overcoming that person's reluctance to be so removed.",
+   "Used other than figuratively or idiomatically"
+  ]
+ },
+ {
+  "id": "check out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To record the departure or withdrawal of someone or something (such as guests, employees, books, etc.).",
+   "To record one's departure from a workplace, hotel, restaurant, etc.",
+   "To examine, inspect, look at closely, ogle"
+  ]
+ },
+ {
+  "id": "telling off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "present participle and gerund of tell off"
+  ]
+ },
+ {
+  "id": "spruce up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To dress or arrange smartly, elegantly, and neatly",
+   "To refresh, revamp"
+  ]
+ },
+ {
+  "id": "take out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To remove.",
+   "To escort someone on a date.",
+   "To immobilize with force"
+  ]
+ },
+ {
+  "id": "crop up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To occur, especially suddenly or unexpectedly."
+  ]
+ }
+]

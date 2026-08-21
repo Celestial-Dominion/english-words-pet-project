@@ -1,0 +1,861 @@
+[
+ {
+  "id": "comparison",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự so sánh",
+  "coll": [
+   "in comparison with",
+   "by comparison",
+   "draw a comparison",
+   "there's no comparison"
+  ]
+ },
+ {
+  "id": "defeat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự thất bại; đánh bại; làm thất bại",
+  "coll": [
+   "admit defeat",
+   "suffer a defeat",
+   "a narrow defeat",
+   "defeat the enemy",
+   "a heavy defeat"
+  ]
+ },
+ {
+  "id": "democracy",
+  "pos": [
+   "n"
+  ],
+  "vi": "nền dân chủ; chế độ dân chủ",
+  "coll": [
+   "parliamentary democracy",
+   "liberal democracy",
+   "transition to democracy",
+   "defend democracy"
+  ]
+ },
+ {
+  "id": "exact",
+  "pos": [
+   "adj",
+   "v",
+   "adv"
+  ],
+  "vi": "chính xác; đúng",
+  "coll": [
+   "the exact location",
+   "the exact amount",
+   "the exact same thing",
+   "the exact opposite"
+  ]
+ },
+ {
+  "id": "recording",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bản ghi âm; sự ghi âm; sự ghi hình",
+  "coll": [
+   "video recording",
+   "studio recording",
+   "recording session",
+   "make a recording",
+   "recording artist"
+  ]
+ },
+ {
+  "id": "suspect",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "nghi phạm; nghi ngờ; khả nghi",
+  "coll": [
+   "prime suspect",
+   "murder suspect",
+   "arrest a suspect",
+   "I suspect that",
+   "suspect foul play"
+  ]
+ },
+ {
+  "id": "swear",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "thề; chửi thề",
+  "coll": [
+   "swear an oath",
+   "swear by it",
+   "swear words",
+   "I swear to God",
+   "swear at someone"
+  ]
+ },
+ {
+  "id": "trend",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xu hướng; khuynh hướng",
+  "coll": [
+   "the latest trends",
+   "a growing trend",
+   "fashion trend",
+   "set a trend",
+   "upward trend"
+  ]
+ },
+ {
+  "id": "valuable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "quý giá; có giá trị; đồ quý giá",
+  "coll": [
+   "valuable information",
+   "valuable experience",
+   "a valuable lesson",
+   "valuable time",
+   "a valuable asset"
+  ]
+ },
+ {
+  "id": "approval",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chấp thuận; sự tán thành",
+  "coll": [
+   "seek approval",
+   "gain approval",
+   "final approval",
+   "approval rating",
+   "a nod of approval"
+  ]
+ },
+ {
+  "id": "burning",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đang cháy; nóng bỏng; cấp bách",
+  "coll": [
+   "a burning building",
+   "a burning question",
+   "a burning desire",
+   "a burning smell"
+  ]
+ },
+ {
+  "id": "contain",
+  "pos": [
+   "v"
+  ],
+  "vi": "chứa; bao gồm; kiềm chế; ngăn chặn",
+  "coll": [
+   "contain alcohol",
+   "contain important information",
+   "contain the fire",
+   "contain your anger"
+  ]
+ },
+ {
+  "id": "document",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tài liệu; văn kiện; ghi lại",
+  "coll": [
+   "legal document",
+   "official document",
+   "sign a document",
+   "document the process"
+  ]
+ },
+ {
+  "id": "hanging",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "treo lơ lửng; sự treo cổ; đồ treo",
+  "coll": [
+   "hanging basket",
+   "left hanging",
+   "hanging on the wall",
+   "death by hanging"
+  ]
+ },
+ {
+  "id": "identity card",
+  "pos": [
+   "n"
+  ],
+  "vi": "chứng minh thư; thẻ căn cước",
+  "coll": [
+   "national identity card",
+   "show your identity card",
+   "carry an identity card"
+  ]
+ },
+ {
+  "id": "lift",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thang máy; nâng lên; sự đi nhờ xe; dỡ bỏ",
+  "coll": [
+   "take the lift",
+   "give someone a lift",
+   "lift weights",
+   "lift the ban",
+   "lift your spirits"
+  ]
+ },
+ {
+  "id": "marked",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "rõ rệt; có đánh dấu",
+  "coll": [
+   "a marked improvement",
+   "a marked difference",
+   "a marked increase",
+   "clearly marked"
+  ]
+ },
+ {
+  "id": "monthly",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "hàng tháng; nguyệt san",
+  "coll": [
+   "monthly payments",
+   "monthly meeting",
+   "monthly salary",
+   "monthly subscription",
+   "on a monthly basis"
+  ]
+ },
+ {
+  "id": "neighborhood",
+  "pos": [
+   "n"
+  ],
+  "vi": "khu phố; vùng lân cận; hàng xóm",
+  "coll": [
+   "a quiet neighborhood",
+   "in the neighborhood",
+   "a poor neighborhood",
+   "neighborhood watch"
+  ]
+ },
+ {
+  "id": "outstanding",
+  "pos": [
+   "adj"
+  ],
+  "vi": "xuất sắc; nổi bật; chưa thanh toán",
+  "coll": [
+   "outstanding performance",
+   "outstanding achievement",
+   "outstanding debt",
+   "an outstanding student"
+  ]
+ },
+ {
+  "id": "rid",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "loại bỏ; giải thoát khỏi",
+  "coll": [
+   "get rid of",
+   "rid the world of poverty",
+   "rid yourself of doubt",
+   "be rid of him"
+  ]
+ },
+ {
+  "id": "secondary school",
+  "pos": [
+   "n"
+  ],
+  "vi": "trường trung học",
+  "coll": [
+   "attend secondary school",
+   "secondary school students",
+   "leave secondary school",
+   "secondary school teacher"
+  ]
+ },
+ {
+  "id": "visual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thị giác; trực quan; hình ảnh",
+  "coll": [
+   "visual effects",
+   "visual arts",
+   "visual impairment",
+   "visual aids"
+  ]
+ },
+ {
+  "id": "barely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hầu như không; chỉ vừa đủ; vừa mới",
+  "coll": [
+   "barely enough time",
+   "barely visible",
+   "could barely speak",
+   "barely alive"
+  ]
+ },
+ {
+  "id": "coal",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "than đá; than",
+  "coll": [
+   "coal mine",
+   "coal industry",
+   "a lump of coal",
+   "coal-fired power plant",
+   "burn coal"
+  ]
+ },
+ {
+  "id": "historic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lịch sử; mang tính lịch sử",
+  "coll": [
+   "a historic moment",
+   "historic buildings",
+   "a historic event",
+   "a historic victory",
+   "the historic city centre"
+  ]
+ },
+ {
+  "id": "hunt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "săn; săn lùng; cuộc săn; tìm kiếm",
+  "coll": [
+   "hunt for food",
+   "job hunt",
+   "treasure hunt",
+   "witch hunt",
+   "hunt down the killer"
+  ]
+ },
+ {
+  "id": "improvement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cải thiện; sự tiến bộ",
+  "coll": [
+   "a significant improvement",
+   "home improvement",
+   "room for improvement",
+   "show improvement"
+  ]
+ },
+ {
+  "id": "initially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ban đầu; lúc đầu",
+  "coll": [
+   "initially planned",
+   "was initially reluctant",
+   "initially thought",
+   "initially refused"
+  ]
+ },
+ {
+  "id": "monster",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "quái vật; khổng lồ; kẻ ác độc",
+  "coll": [
+   "sea monster",
+   "monster truck",
+   "a little monster",
+   "monster waves"
+  ]
+ },
+ {
+  "id": "philosophy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "triết học; triết lý",
+  "coll": [
+   "philosophy of life",
+   "moral philosophy",
+   "study philosophy",
+   "business philosophy"
+  ]
+ },
+ {
+  "id": "rough",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "gồ ghề; thô ráp; sơ bộ; khó khăn",
+  "coll": [
+   "a rough estimate",
+   "a rough surface",
+   "a rough draft",
+   "a rough time",
+   "rough seas"
+  ]
+ },
+ {
+  "id": "settlement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự dàn xếp; khu định cư; sự thanh toán",
+  "coll": [
+   "peace settlement",
+   "reach a settlement",
+   "divorce settlement",
+   "an early settlement",
+   "out-of-court settlement"
+  ]
+ },
+ {
+  "id": "surrounding",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "xung quanh; bao quanh; môi trường xung quanh",
+  "coll": [
+   "the surrounding area",
+   "surrounding countryside",
+   "surrounding villages",
+   "the surrounding environment"
+  ]
+ },
+ {
+  "id": "vast",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "rộng lớn; bao la; to lớn",
+  "coll": [
+   "the vast majority",
+   "vast amounts of money",
+   "a vast area",
+   "vast experience"
+  ]
+ },
+ {
+  "id": "finger",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngón tay",
+  "coll": [
+   "index finger",
+   "point a finger at",
+   "cross your fingers",
+   "finger food",
+   "snap your fingers"
+  ]
+ },
+ {
+  "id": "ignore",
+  "pos": [
+   "v"
+  ],
+  "vi": "phớt lờ; bỏ qua; làm ngơ",
+  "coll": [
+   "ignore the warning",
+   "completely ignore",
+   "ignore the advice",
+   "choose to ignore",
+   "can't ignore"
+  ]
+ },
+ {
+  "id": "meanwhile",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "vi": "trong khi đó; trong lúc đó",
+  "coll": [
+   "meanwhile, back at home",
+   "in the meanwhile",
+   "meanwhile, the police arrived"
+  ]
+ },
+ {
+  "id": "naturally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tự nhiên; dĩ nhiên; bẩm sinh",
+  "coll": [
+   "naturally occurring",
+   "come naturally",
+   "naturally curly hair",
+   "behave naturally"
+  ]
+ },
+ {
+  "id": "practical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thực tế; thiết thực; thực hành",
+  "coll": [
+   "practical experience",
+   "practical skills",
+   "practical advice",
+   "for practical purposes",
+   "a practical solution"
+  ]
+ },
+ {
+  "id": "primarily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chủ yếu; trước hết",
+  "coll": [
+   "primarily responsible",
+   "primarily used for",
+   "primarily concerned with",
+   "primarily focused on"
+  ]
+ },
+ {
+  "id": "relative",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "họ hàng; người thân; tương đối",
+  "coll": [
+   "a close relative",
+   "a distant relative",
+   "relative to the size",
+   "friends and relatives"
+  ]
+ },
+ {
+  "id": "rescue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giải cứu; cứu; sự cứu hộ",
+  "coll": [
+   "rescue team",
+   "come to the rescue",
+   "rescue operation",
+   "rescue workers",
+   "rescue a drowning child"
+  ]
+ },
+ {
+  "id": "sharp",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "sắc; nhọn; sắc bén; đúng giờ",
+  "coll": [
+   "a sharp knife",
+   "a sharp pain",
+   "a sharp rise",
+   "a sharp mind",
+   "at eight o'clock sharp"
+  ]
+ },
+ {
+  "id": "stable",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "ổn định; vững chắc; chuồng ngựa",
+  "coll": [
+   "in a stable condition",
+   "a stable relationship",
+   "a stable economy",
+   "a stable job",
+   "horse stable"
+  ]
+ },
+ {
+  "id": "temporary",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tạm thời; nhất thời",
+  "coll": [
+   "a temporary job",
+   "a temporary solution",
+   "temporary measures",
+   "temporary accommodation"
+  ]
+ },
+ {
+  "id": "complicated",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "phức tạp; rắc rối",
+  "coll": [
+   "a complicated process",
+   "a complicated relationship",
+   "it's complicated",
+   "a complicated situation"
+  ]
+ },
+ {
+  "id": "defend",
+  "pos": [
+   "v"
+  ],
+  "vi": "bảo vệ; bào chữa; phòng thủ",
+  "coll": [
+   "defend yourself",
+   "defend the title",
+   "defend human rights",
+   "defend a decision",
+   "defend the goal"
+  ]
+ },
+ {
+  "id": "extent",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "mức độ; phạm vi; quy mô",
+  "coll": [
+   "to some extent",
+   "the full extent",
+   "to a certain extent",
+   "to a large extent"
+  ]
+ },
+ {
+  "id": "format",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "định dạng; hình thức; khổ",
+  "coll": [
+   "file format",
+   "in a different format",
+   "digital format",
+   "standard format",
+   "format the text"
+  ]
+ },
+ {
+  "id": "gap",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khoảng trống; khoảng cách; lỗ hổng",
+  "coll": [
+   "gap year",
+   "bridge the gap",
+   "generation gap",
+   "a gap in the market",
+   "fill the gap"
+  ]
+ },
+ {
+  "id": "household",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "hộ gia đình; gia dụng",
+  "coll": [
+   "household chores",
+   "household items",
+   "a household name",
+   "household income",
+   "the average household"
+  ]
+ },
+ {
+  "id": "immigration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhập cư; kiểm tra nhập cảnh",
+  "coll": [
+   "illegal immigration",
+   "immigration policy",
+   "immigration officer",
+   "immigration laws"
+  ]
+ },
+ {
+  "id": "impressive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ấn tượng; gây ấn tượng",
+  "coll": [
+   "an impressive performance",
+   "an impressive record",
+   "most impressive",
+   "impressive results"
+  ]
+ },
+ {
+  "id": "membership",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tư cách thành viên; số hội viên",
+  "coll": [
+   "membership fee",
+   "gym membership",
+   "membership card",
+   "apply for membership",
+   "membership of the EU"
+  ]
+ },
+ {
+  "id": "mount",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "leo lên; gắn; gia tăng; núi",
+  "coll": [
+   "mount a horse",
+   "mount a campaign",
+   "costs continue to mount",
+   "Mount Everest"
+  ]
+ },
+ {
+  "id": "occur",
+  "pos": [
+   "v"
+  ],
+  "vi": "xảy ra; xuất hiện; nảy ra trong đầu",
+  "coll": [
+   "accidents occur",
+   "occur naturally",
+   "it occurred to me",
+   "changes occur",
+   "occur frequently"
+  ]
+ },
+ {
+  "id": "parking",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự đỗ xe; chỗ đỗ xe",
+  "coll": [
+   "parking lot",
+   "parking space",
+   "free parking",
+   "no parking",
+   "parking ticket"
+  ]
+ },
+ {
+  "id": "proposal",
+  "pos": [
+   "n"
+  ],
+  "vi": "đề xuất; lời cầu hôn",
+  "coll": [
+   "a business proposal",
+   "a marriage proposal",
+   "reject a proposal",
+   "submit a proposal"
+  ]
+ },
+ {
+  "id": "reputation",
+  "pos": [
+   "n"
+  ],
+  "vi": "danh tiếng; tiếng tăm",
+  "coll": [
+   "a good reputation",
+   "build a reputation",
+   "damage your reputation",
+   "a reputation for quality"
+  ]
+ }
+]

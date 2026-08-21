@@ -1,0 +1,871 @@
+[
+ {
+  "id": "opioid",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuốc phiện tổng hợp, chất dạng thuốc phiện",
+  "coll": [
+   "opioid crisis",
+   "opioid painkillers",
+   "opioid addiction",
+   "prescription opioids",
+   "opioid overdose"
+  ]
+ },
+ {
+  "id": "realistically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách thực tế; nói thật lòng thì",
+  "coll": [
+   "realistically speaking",
+   "realistically achievable",
+   "realistically expect",
+   "assess realistically",
+   "realistically possible"
+  ]
+ },
+ {
+  "id": "positivity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tích cực, thái độ lạc quan",
+  "coll": [
+   "body positivity",
+   "spread positivity",
+   "a sense of positivity",
+   "toxic positivity",
+   "radiate positivity"
+  ]
+ },
+ {
+  "id": "treacherous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phản trắc; hiểm trở nguy hiểm",
+  "coll": [
+   "treacherous conditions",
+   "treacherous roads",
+   "a treacherous friend",
+   "treacherous waters",
+   "treacherous terrain"
+  ]
+ },
+ {
+  "id": "philanthropy",
+  "pos": [
+   "n"
+  ],
+  "vi": "hoạt động từ thiện; lòng bác ái",
+  "coll": [
+   "corporate philanthropy",
+   "acts of philanthropy",
+   "modern philanthropy",
+   "philanthropy and charity",
+   "a life of philanthropy"
+  ]
+ },
+ {
+  "id": "redundancy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự dư thừa; việc cắt giảm nhân sự; dự phòng",
+  "coll": [
+   "compulsory redundancy",
+   "redundancy payment",
+   "face redundancy",
+   "built-in redundancy",
+   "voluntary redundancy"
+  ]
+ },
+ {
+  "id": "baroque",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kiểu baroque; rườm rà cầu kỳ",
+  "coll": [
+   "baroque music",
+   "baroque architecture",
+   "baroque style",
+   "baroque period",
+   "baroque detail"
+  ]
+ },
+ {
+  "id": "ethos",
+  "pos": [
+   "n"
+  ],
+  "vi": "tinh thần đặc trưng; hệ giá trị cốt lõi",
+  "coll": [
+   "company ethos",
+   "the ethos of the school",
+   "work ethos",
+   "shared ethos",
+   "underlying ethos"
+  ]
+ },
+ {
+  "id": "reindeer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tuần lộc",
+  "coll": [
+   "a herd of reindeer",
+   "reindeer antlers",
+   "Santa's reindeer",
+   "reindeer herding",
+   "flying reindeer"
+  ]
+ },
+ {
+  "id": "alligator",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "cá sấu mõm ngắn",
+  "coll": [
+   "American alligator",
+   "alligator skin",
+   "alligator attack",
+   "baby alligator",
+   "alligator farm"
+  ]
+ },
+ {
+  "id": "pamphlet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tờ rơi, sách mỏng tuyên truyền",
+  "coll": [
+   "hand out pamphlets",
+   "an information pamphlet",
+   "political pamphlet",
+   "read the pamphlet",
+   "distribute pamphlets"
+  ]
+ },
+ {
+  "id": "cor",
+  "pos": [
+   "intj",
+   "n"
+  ],
+  "vi": "chà!, trời ơi! (kiểu Anh)",
+  "coll": [
+   "cor blimey",
+   "cor, that's amazing",
+   "cor, look at that"
+  ]
+ },
+ {
+  "id": "fag",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "điếu thuốc lá (lóng Anh); từ miệt thị người đồng tính",
+  "coll": [
+   "have a fag",
+   "a packet of fags",
+   "smoke a fag",
+   "fag end",
+   "fag break"
+  ]
+ },
+ {
+  "id": "buggy",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "xe đẩy em bé; xe địa hình nhỏ; đầy lỗi (phần mềm)",
+  "coll": [
+   "dune buggy",
+   "baby buggy",
+   "beach buggy",
+   "buggy software",
+   "golf buggy"
+  ]
+ },
+ {
+  "id": "volt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vôn (đơn vị điện áp)",
+  "coll": [
+   "12 volt battery",
+   "240 volt supply",
+   "volts and amps",
+   "high volt current",
+   "a nine-volt battery"
+  ]
+ },
+ {
+  "id": "antagonist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân vật phản diện; kẻ đối địch",
+  "coll": [
+   "the main antagonist",
+   "a formidable antagonist",
+   "protagonist and antagonist",
+   "political antagonist",
+   "receptor antagonist"
+  ]
+ },
+ {
+  "id": "skater",
+  "pos": [
+   "n"
+  ],
+  "vi": "người trượt băng; dân trượt ván",
+  "coll": [
+   "figure skater",
+   "speed skater",
+   "ice skater",
+   "skater boy",
+   "professional skater"
+  ]
+ },
+ {
+  "id": "manic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hưng cảm; điên cuồng hối hả",
+  "coll": [
+   "manic depression",
+   "manic episode",
+   "manic energy",
+   "manic pace",
+   "manic laughter"
+  ]
+ },
+ {
+  "id": "celery",
+  "pos": [
+   "n"
+  ],
+  "vi": "cần tây",
+  "coll": [
+   "a stick of celery",
+   "celery sticks",
+   "chopped celery",
+   "celery soup",
+   "celery juice"
+  ]
+ },
+ {
+  "id": "pervert",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ biến thái; làm sai lệch, bóp méo",
+  "coll": [
+   "a sick pervert",
+   "pervert the course of justice",
+   "pervert the truth",
+   "call him a pervert",
+   "pervert the meaning"
+  ]
+ },
+ {
+  "id": "perpetrator",
+  "pos": [
+   "n"
+  ],
+  "vi": "thủ phạm; kẻ gây án",
+  "coll": [
+   "the perpetrator of the crime",
+   "identify the perpetrator",
+   "alleged perpetrator",
+   "catch the perpetrators",
+   "perpetrators of violence"
+  ]
+ },
+ {
+  "id": "quid",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồng bảng Anh (tiếng lóng)",
+  "coll": [
+   "fifty quid",
+   "a few quid",
+   "quid pro quo",
+   "worth a couple of quid",
+   "not a quid"
+  ]
+ },
+ {
+  "id": "fro",
+  "pos": [
+   "adv",
+   "prep",
+   "n"
+  ],
+  "vi": "lui lại, ngược lại (trong to and fro)",
+  "coll": [
+   "to and fro",
+   "sway to and fro",
+   "walk to and fro",
+   "rock to and fro"
+  ]
+ },
+ {
+  "id": "photon",
+  "pos": [
+   "n"
+  ],
+  "vi": "photon, hạt ánh sáng",
+  "coll": [
+   "a single photon",
+   "photon energy",
+   "photon emission",
+   "photon beam",
+   "absorb a photon"
+  ]
+ },
+ {
+  "id": "synod",
+  "pos": [
+   "n"
+  ],
+  "vi": "hội đồng giáo hội, công nghị",
+  "coll": [
+   "the General Synod",
+   "hold a synod",
+   "synod meeting",
+   "church synod",
+   "convene a synod"
+  ]
+ },
+ {
+  "id": "shred",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "mảnh vụn, sợi nhỏ; xé vụn, băm nhỏ",
+  "coll": [
+   "not a shred of evidence",
+   "shred the documents",
+   "torn to shreds",
+   "shredded cheese",
+   "a shred of hope"
+  ]
+ },
+ {
+  "id": "untold",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khôn xiết, không kể xiết; chưa được kể",
+  "coll": [
+   "untold damage",
+   "untold wealth",
+   "untold suffering",
+   "the untold story",
+   "untold millions"
+  ]
+ },
+ {
+  "id": "perish",
+  "pos": [
+   "v"
+  ],
+  "vi": "bỏ mạng, chết; hư hỏng mục nát",
+  "coll": [
+   "perish in the fire",
+   "perish the thought",
+   "perish from hunger",
+   "the rubber perished",
+   "many perished"
+  ]
+ },
+ {
+  "id": "aromatic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thơm ngát; thuộc vòng thơm (hóa học)",
+  "coll": [
+   "aromatic herbs",
+   "aromatic spices",
+   "aromatic oils",
+   "aromatic compounds",
+   "highly aromatic"
+  ]
+ },
+ {
+  "id": "foundry",
+  "pos": [
+   "n"
+  ],
+  "vi": "xưởng đúc kim loại; nhà máy đúc chip",
+  "coll": [
+   "iron foundry",
+   "foundry worker",
+   "steel foundry",
+   "chip foundry",
+   "foundry industry"
+  ]
+ },
+ {
+  "id": "canonical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chính thống, chuẩn mực; theo giáo luật",
+  "coll": [
+   "canonical form",
+   "canonical text",
+   "canonical works",
+   "canonical example",
+   "canonical law"
+  ]
+ },
+ {
+  "id": "simplistic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giản lược quá mức; đơn giản hóa nông cạn",
+  "coll": [
+   "simplistic view",
+   "overly simplistic",
+   "simplistic approach",
+   "simplistic explanation",
+   "simplistic answer"
+  ]
+ },
+ {
+  "id": "healer",
+  "pos": [
+   "n"
+  ],
+  "vi": "thầy chữa bệnh; người chữa lành",
+  "coll": [
+   "faith healer",
+   "traditional healer",
+   "a natural healer",
+   "time is a healer",
+   "energy healer"
+  ]
+ },
+ {
+  "id": "primal",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "nguyên thủy, bản năng; sơ khai",
+  "coll": [
+   "primal instinct",
+   "primal fear",
+   "primal scream",
+   "primal urge",
+   "primal energy"
+  ]
+ },
+ {
+  "id": "ceasefire",
+  "pos": [
+   "n"
+  ],
+  "vi": "lệnh ngừng bắn",
+  "coll": [
+   "declare a ceasefire",
+   "agree to a ceasefire",
+   "ceasefire agreement",
+   "break the ceasefire",
+   "temporary ceasefire"
+  ]
+ },
+ {
+  "id": "oblivion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự lãng quên; trạng thái vô thức",
+  "coll": [
+   "fade into oblivion",
+   "sink into oblivion",
+   "drink oneself into oblivion",
+   "consigned to oblivion",
+   "bombed into oblivion"
+  ]
+ },
+ {
+  "id": "potion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thuốc nước, thuốc phép",
+  "coll": [
+   "magic potion",
+   "love potion",
+   "brew a potion",
+   "healing potion",
+   "drink the potion"
+  ]
+ },
+ {
+  "id": "approximation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xấp xỉ; con số ước chừng",
+  "coll": [
+   "a rough approximation",
+   "good approximation",
+   "first approximation",
+   "close approximation",
+   "approximation error"
+  ]
+ },
+ {
+  "id": "escalation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự leo thang; mức tăng vọt",
+  "coll": [
+   "escalation of violence",
+   "further escalation",
+   "military escalation",
+   "prevent escalation",
+   "escalation of costs"
+  ]
+ },
+ {
+  "id": "reelection",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tái đắc cử; việc tranh cử lại",
+  "coll": [
+   "seek reelection",
+   "win reelection",
+   "reelection campaign",
+   "run for reelection",
+   "reelection bid"
+  ]
+ },
+ {
+  "id": "measurable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đo lường được; thấy rõ được",
+  "coll": [
+   "measurable results",
+   "measurable impact",
+   "measurable progress",
+   "easily measurable",
+   "measurable difference"
+  ]
+ },
+ {
+  "id": "sideline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nghề tay trái; đường biên sân; gạt ra ngoài lề",
+  "coll": [
+   "on the sidelines",
+   "a nice little sideline",
+   "sidelined by injury",
+   "watch from the sidelines",
+   "sideline business"
+  ]
+ },
+ {
+  "id": "exec",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sếp, lãnh đạo cấp cao",
+  "coll": [
+   "a senior exec",
+   "top execs",
+   "media exec",
+   "exec producer",
+   "a former exec"
+  ]
+ },
+ {
+  "id": "reversible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có thể đảo ngược; mặc được hai mặt",
+  "coll": [
+   "reversible jacket",
+   "reversible reaction",
+   "fully reversible",
+   "reversible damage",
+   "reversible decision"
+  ]
+ },
+ {
+  "id": "preparedness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sẵn sàng ứng phó",
+  "coll": [
+   "emergency preparedness",
+   "disaster preparedness",
+   "level of preparedness",
+   "military preparedness",
+   "improve preparedness"
+  ]
+ },
+ {
+  "id": "earthly",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "thuộc trần thế; trên đời (dùng nhấn mạnh)",
+  "coll": [
+   "earthly possessions",
+   "no earthly reason",
+   "earthly life",
+   "earthly pleasures",
+   "not an earthly chance"
+  ]
+ },
+ {
+  "id": "cautiously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách thận trọng",
+  "coll": [
+   "cautiously optimistic",
+   "proceed cautiously",
+   "move cautiously",
+   "cautiously welcomed",
+   "tread cautiously"
+  ]
+ },
+ {
+  "id": "voicemail",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hộp thư thoại; tin nhắn thoại",
+  "coll": [
+   "leave a voicemail",
+   "check your voicemail",
+   "voicemail message",
+   "voicemail box",
+   "go to voicemail"
+  ]
+ },
+ {
+  "id": "attendants",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân viên phục vụ; người tháp tùng",
+  "coll": [
+   "flight attendants",
+   "parking attendants",
+   "attendants on duty",
+   "a crowd of attendants",
+   "hospital attendants"
+  ]
+ },
+ {
+  "id": "eyewitness",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhân chứng tận mắt",
+  "coll": [
+   "eyewitness account",
+   "eyewitness testimony",
+   "an eyewitness said",
+   "eyewitness report",
+   "key eyewitness"
+  ]
+ },
+ {
+  "id": "rendezvous",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc hẹn gặp; điểm hẹn",
+  "coll": [
+   "a secret rendezvous",
+   "rendezvous point",
+   "arrange a rendezvous",
+   "rendezvous with the ship",
+   "romantic rendezvous"
+  ]
+ },
+ {
+  "id": "cutie",
+  "pos": [
+   "n"
+  ],
+  "vi": "cục cưng, người dễ thương",
+  "coll": [
+   "what a cutie",
+   "a real cutie",
+   "hey cutie",
+   "little cutie",
+   "cutie pie"
+  ]
+ },
+ {
+  "id": "gunman",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ có súng, tay súng",
+  "coll": [
+   "a lone gunman",
+   "masked gunman",
+   "the gunman opened fire",
+   "armed gunman",
+   "hunt for the gunman"
+  ]
+ },
+ {
+  "id": "miscarriage",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sảy thai; sự thất bại (công lý)",
+  "coll": [
+   "have a miscarriage",
+   "miscarriage of justice",
+   "suffer a miscarriage",
+   "risk of miscarriage",
+   "early miscarriage"
+  ]
+ },
+ {
+  "id": "narration",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời dẫn chuyện; sự thuật lại",
+  "coll": [
+   "voice-over narration",
+   "first-person narration",
+   "the narration of events",
+   "provide the narration",
+   "narration style"
+  ]
+ },
+ {
+  "id": "intestinal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc ruột, đường ruột",
+  "coll": [
+   "intestinal tract",
+   "intestinal bacteria",
+   "intestinal problems",
+   "intestinal wall",
+   "intestinal infection"
+  ]
+ },
+ {
+  "id": "psychopath",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ thái nhân cách; kẻ máu lạnh",
+  "coll": [
+   "a dangerous psychopath",
+   "certified psychopath",
+   "psychopath test",
+   "act like a psychopath",
+   "diagnosed as a psychopath"
+  ]
+ },
+ {
+  "id": "visualization",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hình dung; biểu diễn trực quan",
+  "coll": [
+   "data visualization",
+   "visualization techniques",
+   "3D visualization",
+   "creative visualization",
+   "visualization tool"
+  ]
+ },
+ {
+  "id": "ent",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khoa tai mũi họng (ENT); người cây Ent (truyện Tolkien)",
+  "coll": [
+   "ENT specialist",
+   "ENT department",
+   "refer to ENT",
+   "ENT consultant",
+   "ENT clinic"
+  ]
+ },
+ {
+  "id": "skincare",
+  "pos": [
+   "n"
+  ],
+  "vi": "chăm sóc da",
+  "coll": [
+   "skincare routine",
+   "skincare products",
+   "daily skincare",
+   "skincare brand",
+   "skincare regime"
+  ]
+ }
+]

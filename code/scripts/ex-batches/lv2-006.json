@@ -1,0 +1,846 @@
+[
+ {
+  "id": "fame",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "danh tiếng; sự nổi tiếng",
+  "coll": [
+   "rise to fame",
+   "international fame",
+   "fame and fortune",
+   "claim to fame"
+  ]
+ },
+ {
+  "id": "impressed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "thấy ấn tượng; khâm phục; bị ấn tượng mạnh",
+  "coll": [
+   "be impressed by",
+   "deeply impressed",
+   "impressed with the results",
+   "highly impressed"
+  ]
+ },
+ {
+  "id": "rally",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc mít tinh; sự phục hồi; tập hợp lại; kêu gọi ủng hộ",
+  "coll": [
+   "political rally",
+   "hold a rally",
+   "rally support",
+   "campaign rally",
+   "stock market rally"
+  ]
+ },
+ {
+  "id": "swing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đu đưa; vung (tay); cái xích đu; sự dao động",
+  "coll": [
+   "swing a bat",
+   "swing back and forth",
+   "mood swing",
+   "in full swing",
+   "swing open"
+  ]
+ },
+ {
+  "id": "tail",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "cái đuôi; phần đuôi; bám đuôi theo dõi",
+  "coll": [
+   "wag its tail",
+   "the tail of the plane",
+   "tail end",
+   "heads or tails"
+  ]
+ },
+ {
+  "id": "alert",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cảnh báo; báo động; tỉnh táo cảnh giác",
+  "coll": [
+   "red alert",
+   "security alert",
+   "alert the police",
+   "on high alert",
+   "stay alert"
+  ]
+ },
+ {
+  "id": "arena",
+  "pos": [
+   "n"
+  ],
+  "vi": "đấu trường; sân vận động; lĩnh vực hoạt động",
+  "coll": [
+   "sports arena",
+   "political arena",
+   "packed arena",
+   "enter the arena"
+  ]
+ },
+ {
+  "id": "compensation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bồi thường; tiền bồi thường; thù lao",
+  "coll": [
+   "claim compensation",
+   "pay compensation",
+   "compensation package",
+   "in compensation for"
+  ]
+ },
+ {
+  "id": "ethnic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc sắc tộc; dân tộc; mang bản sắc dân tộc",
+  "coll": [
+   "ethnic minority",
+   "ethnic group",
+   "ethnic origin",
+   "ethnic cleansing",
+   "ethnic diversity"
+  ]
+ },
+ {
+  "id": "fleet",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "đội tàu; đoàn xe; nhanh nhẹn",
+  "coll": [
+   "fishing fleet",
+   "naval fleet",
+   "a fleet of cars",
+   "fleet of trucks"
+  ]
+ },
+ {
+  "id": "fundamental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cơ bản; nền tảng; nguyên lý cơ bản",
+  "coll": [
+   "fundamental principle",
+   "fundamental change",
+   "fundamental rights",
+   "fundamental difference"
+  ]
+ },
+ {
+  "id": "genius",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thiên tài; tài năng xuất chúng; cực kỳ tài tình",
+  "coll": [
+   "a genius idea",
+   "musical genius",
+   "stroke of genius",
+   "work of genius"
+  ]
+ },
+ {
+  "id": "participation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tham gia; sự góp mặt",
+  "coll": [
+   "active participation",
+   "participation rate",
+   "encourage participation",
+   "public participation"
+  ]
+ },
+ {
+  "id": "proven",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đã được chứng minh; đã kiểm chứng",
+  "coll": [
+   "proven track record",
+   "clinically proven",
+   "proven method",
+   "proven guilty"
+  ]
+ },
+ {
+  "id": "radical",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "triệt để; cấp tiến; cực đoan; người cấp tiến",
+  "coll": [
+   "radical change",
+   "radical idea",
+   "radical reform",
+   "radical solution",
+   "radical left"
+  ]
+ },
+ {
+  "id": "transmission",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự truyền; sự lây truyền; hộp số",
+  "coll": [
+   "data transmission",
+   "transmission of the virus",
+   "live transmission",
+   "automatic transmission"
+  ]
+ },
+ {
+  "id": "blast",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "vụ nổ; luồng gió mạnh; nổ tung; phá bằng thuốc nổ",
+  "coll": [
+   "bomb blast",
+   "a blast of air",
+   "blast off",
+   "full blast",
+   "have a blast"
+  ]
+ },
+ {
+  "id": "component",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thành phần; bộ phận; linh kiện",
+  "coll": [
+   "key component",
+   "essential component",
+   "electronic components",
+   "component parts"
+  ]
+ },
+ {
+  "id": "faculty",
+  "pos": [
+   "n"
+  ],
+  "vi": "khoa (đại học); đội ngũ giảng viên; năng lực",
+  "coll": [
+   "faculty of law",
+   "faculty member",
+   "mental faculties",
+   "join the faculty"
+  ]
+ },
+ {
+  "id": "feedback",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phản hồi; ý kiến đóng góp; tiếng hú (loa)",
+  "coll": [
+   "give feedback",
+   "positive feedback",
+   "customer feedback",
+   "constructive feedback",
+   "feedback loop"
+  ]
+ },
+ {
+  "id": "innovation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đổi mới; cải tiến; phát minh mới",
+  "coll": [
+   "technological innovation",
+   "drive innovation",
+   "product innovation",
+   "culture of innovation"
+  ]
+ },
+ {
+  "id": "legislative",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lập pháp; thuộc quyền lập pháp; cơ quan lập pháp",
+  "coll": [
+   "legislative body",
+   "legislative power",
+   "legislative session",
+   "legislative reform"
+  ]
+ },
+ {
+  "id": "manual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thủ công; sách hướng dẫn; bằng tay",
+  "coll": [
+   "user manual",
+   "manual labour",
+   "instruction manual",
+   "manual transmission",
+   "manual control"
+  ]
+ },
+ {
+  "id": "operator",
+  "pos": [
+   "n"
+  ],
+  "vi": "người vận hành; tổng đài viên; nhà mạng; toán tử",
+  "coll": [
+   "machine operator",
+   "tour operator",
+   "mobile operator",
+   "call the operator"
+  ]
+ },
+ {
+  "id": "punch",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "cú đấm; đấm; đục lỗ",
+  "coll": [
+   "throw a punch",
+   "punch him in the face",
+   "punch a hole",
+   "punch line",
+   "pack a punch"
+  ]
+ },
+ {
+  "id": "trailer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đoạn giới thiệu phim; rơ moóc; xe kéo",
+  "coll": [
+   "movie trailer",
+   "watch the trailer",
+   "trailer park",
+   "tow a trailer"
+  ]
+ },
+ {
+  "id": "underground",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "dưới lòng đất; ngầm; tàu điện ngầm; bí mật",
+  "coll": [
+   "underground station",
+   "go underground",
+   "underground railway",
+   "underground music",
+   "underground parking"
+  ]
+ },
+ {
+  "id": "versus",
+  "pos": [
+   "prep",
+   "v"
+  ],
+  "vi": "đấu với; so với; chống lại",
+  "coll": [
+   "man versus machine",
+   "quality versus quantity",
+   "nature versus nurture",
+   "the state versus Smith"
+  ]
+ },
+ {
+  "id": "amongst",
+  "pos": [
+   "prep"
+  ],
+  "vi": "giữa; trong số",
+  "coll": [
+   "amongst friends",
+   "amongst others",
+   "popular amongst students",
+   "amongst themselves"
+  ]
+ },
+ {
+  "id": "biological",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sinh học; thuộc sinh học; ruột (huyết thống)",
+  "coll": [
+   "biological weapons",
+   "biological parents",
+   "biological clock",
+   "biological process"
+  ]
+ },
+ {
+  "id": "chip",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con chip; mảnh vỡ; khoai tây chiên; sứt mẻ",
+  "coll": [
+   "computer chip",
+   "potato chips",
+   "chip in",
+   "chocolate chip",
+   "bargaining chip"
+  ]
+ },
+ {
+  "id": "concerning",
+  "pos": [
+   "prep",
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "liên quan đến; về; đáng lo ngại",
+  "coll": [
+   "a concerning trend",
+   "questions concerning the case",
+   "deeply concerning",
+   "information concerning"
+  ]
+ },
+ {
+  "id": "database",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơ sở dữ liệu",
+  "coll": [
+   "database management",
+   "search the database",
+   "online database",
+   "customer database"
+  ]
+ },
+ {
+  "id": "disorder",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rối loạn; sự lộn xộn; mất trật tự",
+  "coll": [
+   "eating disorder",
+   "mental disorder",
+   "public disorder",
+   "sleep disorder",
+   "in disorder"
+  ]
+ },
+ {
+  "id": "dynamic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "năng động; biến động; động lực; sự tương tác",
+  "coll": [
+   "dynamic personality",
+   "group dynamics",
+   "dynamic range",
+   "dynamic market"
+  ]
+ },
+ {
+  "id": "engagement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đính hôn; sự tham gia; sự gắn kết; buổi hẹn",
+  "coll": [
+   "engagement ring",
+   "break off an engagement",
+   "customer engagement",
+   "public engagement"
+  ]
+ },
+ {
+  "id": "investigate",
+  "pos": [
+   "v"
+  ],
+  "vi": "điều tra; nghiên cứu; xem xét kỹ",
+  "coll": [
+   "investigate a crime",
+   "police investigate",
+   "investigate the cause",
+   "thoroughly investigate"
+  ]
+ },
+ {
+  "id": "mask",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mặt nạ; khẩu trang; che giấu",
+  "coll": [
+   "wear a mask",
+   "face mask",
+   "surgical mask",
+   "mask the smell",
+   "mask your feelings"
+  ]
+ },
+ {
+  "id": "packed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "chật kín; đông nghịt; đã đóng gói",
+  "coll": [
+   "packed with people",
+   "jam-packed",
+   "a packed stadium",
+   "packed lunch"
+  ]
+ },
+ {
+  "id": "psychology",
+  "pos": [
+   "n"
+  ],
+  "vi": "tâm lý học; tâm lý",
+  "coll": [
+   "child psychology",
+   "study psychology",
+   "reverse psychology",
+   "sports psychology"
+  ]
+ },
+ {
+  "id": "rocket",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tên lửa; tăng vọt",
+  "coll": [
+   "launch a rocket",
+   "rocket science",
+   "rocket launcher",
+   "prices rocket"
+  ]
+ },
+ {
+  "id": "stability",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ổn định; tính bền vững",
+  "coll": [
+   "financial stability",
+   "political stability",
+   "maintain stability",
+   "economic stability"
+  ]
+ },
+ {
+  "id": "treaty",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hiệp ước; hiệp định",
+  "coll": [
+   "sign a treaty",
+   "peace treaty",
+   "ratify a treaty",
+   "trade treaty"
+  ]
+ },
+ {
+  "id": "cooperation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hợp tác; sự phối hợp",
+  "coll": [
+   "close cooperation",
+   "international cooperation",
+   "in cooperation with",
+   "economic cooperation"
+  ]
+ },
+ {
+  "id": "devil",
+  "pos": [
+   "n"
+  ],
+  "vi": "quỷ; ma quỷ; kẻ độc ác",
+  "coll": [
+   "the devil",
+   "poor devil",
+   "devil's advocate",
+   "speak of the devil"
+  ]
+ },
+ {
+  "id": "edit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chỉnh sửa; biên tập; bản sửa",
+  "coll": [
+   "edit a document",
+   "edit a photo",
+   "edit the text",
+   "make an edit"
+  ]
+ },
+ {
+  "id": "equity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự công bằng; vốn chủ sở hữu; cổ phần",
+  "coll": [
+   "private equity",
+   "equity and diversity",
+   "home equity",
+   "equity in education"
+  ]
+ },
+ {
+  "id": "hardware",
+  "pos": [
+   "n"
+  ],
+  "vi": "phần cứng; đồ kim khí",
+  "coll": [
+   "computer hardware",
+   "hardware store",
+   "hardware and software",
+   "hardware failure"
+  ]
+ },
+ {
+  "id": "intellectual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trí tuệ; thuộc trí óc; nhà trí thức",
+  "coll": [
+   "intellectual property",
+   "intellectual ability",
+   "intellectual curiosity",
+   "leading intellectual"
+  ]
+ },
+ {
+  "id": "involvement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tham gia; sự dính líu; sự liên quan",
+  "coll": [
+   "personal involvement",
+   "parental involvement",
+   "involvement in the crime",
+   "military involvement"
+  ]
+ },
+ {
+  "id": "regime",
+  "pos": [
+   "n"
+  ],
+  "vi": "chế độ; chính quyền; chế độ (ăn, tập)",
+  "coll": [
+   "military regime",
+   "communist regime",
+   "regime change",
+   "authoritarian regime"
+  ]
+ },
+ {
+  "id": "seal",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con dấu; hải cẩu; niêm phong; bịt kín",
+  "coll": [
+   "seal an envelope",
+   "official seal",
+   "seal the deal",
+   "airtight seal",
+   "baby seal"
+  ]
+ },
+ {
+  "id": "shield",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái khiên; lá chắn; che chở",
+  "coll": [
+   "hold up a shield",
+   "human shield",
+   "shield from the sun",
+   "protective shield"
+  ]
+ },
+ {
+  "id": "throat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cổ họng; yết hầu",
+  "coll": [
+   "sore throat",
+   "clear your throat",
+   "throat infection",
+   "at each other's throats"
+  ]
+ },
+ {
+  "id": "certificate",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "giấy chứng nhận; chứng chỉ; bằng cấp",
+  "coll": [
+   "birth certificate",
+   "medical certificate",
+   "marriage certificate",
+   "issue a certificate"
+  ]
+ },
+ {
+  "id": "coaching",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc huấn luyện; sự kèm cặp; dạy kèm",
+  "coll": [
+   "coaching staff",
+   "life coaching",
+   "coaching session",
+   "career coaching"
+  ]
+ },
+ {
+  "id": "dated",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "lỗi thời; cũ kỹ; có đề ngày tháng",
+  "coll": [
+   "look dated",
+   "a dated style",
+   "dated 5 May",
+   "slightly dated"
+  ]
+ },
+ {
+  "id": "educated",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "có học thức; được ăn học; có cơ sở",
+  "coll": [
+   "well educated",
+   "highly educated",
+   "an educated guess",
+   "educated at Oxford"
+  ]
+ },
+ {
+  "id": "eligible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đủ điều kiện; hợp lệ; đủ tư cách",
+  "coll": [
+   "eligible for benefits",
+   "eligible to vote",
+   "eligible candidate",
+   "eligible bachelor"
+  ]
+ },
+ {
+  "id": "execution",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thực thi; việc thi hành; cuộc hành quyết",
+  "coll": [
+   "execution of the plan",
+   "flawless execution",
+   "public execution",
+   "stay of execution"
+  ]
+ }
+]

@@ -1,0 +1,402 @@
+{
+ "because of": {
+  "vi": "vì; do; bởi vì",
+  "coll": ["because of the rain", "because of you", "cancelled because of the weather", "partly because of"]
+ },
+ "used to": {
+  "vi": "đã từng; quen với",
+  "coll": ["used to live here", "used to be", "get used to", "be used to it"]
+ },
+ "part-time": {
+  "vi": "bán thời gian",
+  "coll": ["part-time job", "part-time work", "work part-time", "part-time student"]
+ },
+ "including": {
+  "vi": "bao gồm; kể cả",
+  "coll": ["including tax", "including children", "including but not limited to", "not including"]
+ },
+ "service": {
+  "vi": "dịch vụ; sự phục vụ; nghĩa vụ quân sự",
+  "coll": ["customer service", "public service", "military service", "room service", "service charge"]
+ },
+ "season": {
+  "vi": "mùa; mùa giải; nêm gia vị",
+  "coll": ["rainy season", "holiday season", "football season", "season ticket", "peak season"]
+ },
+ "full-time": {
+  "vi": "toàn thời gian",
+  "coll": ["full-time job", "full-time employee", "work full-time", "full-time student"]
+ },
+ "general": {
+  "vi": "chung; tổng quát; đại tướng",
+  "coll": ["general public", "general idea", "general election", "in general", "general manager"]
+ },
+ "per": {
+  "vi": "mỗi; cho mỗi; theo",
+  "coll": ["per person", "per day", "per hour", "miles per hour"]
+ },
+ "president": {
+  "vi": "tổng thống; chủ tịch",
+  "coll": ["former president", "vice president", "president of the company", "elect a president"]
+ },
+ "working": {
+  "vi": "đang làm việc; hoạt động được; sự vận hành",
+  "coll": ["working conditions", "working hours", "working class", "working mother", "in working order"]
+ },
+ "able": {
+  "vi": "có thể; có năng lực; giỏi",
+  "coll": ["be able to do", "able to afford", "able to swim", "less able students"]
+ },
+ "series": {
+  "vi": "loạt, chuỗi; phim bộ nhiều tập",
+  "coll": ["TV series", "a series of events", "drama series", "series of books"]
+ },
+ "whether": {
+  "vi": "liệu (có... không); dù... hay",
+  "coll": ["whether or not", "ask whether", "decide whether", "doubt whether"]
+ },
+ "development": {
+  "vi": "sự phát triển; diễn biến mới",
+  "coll": ["economic development", "software development", "child development", "development project", "recent developments"]
+ },
+ "according to": {
+  "vi": "theo; theo như",
+  "coll": ["according to the report", "according to experts", "according to plan", "according to statistics"]
+ },
+ "available": {
+  "vi": "có sẵn; sẵn có; rảnh",
+  "coll": ["available online", "readily available", "tickets are available", "available in stores"]
+ },
+ "former": {
+  "vi": "cựu; trước đây; cái trước",
+  "coll": ["former president", "former wife", "former employee", "the former Soviet Union"]
+ },
+ "sometimes": {
+  "vi": "thỉnh thoảng; đôi khi",
+  "coll": ["I sometimes wonder", "it sometimes happens", "as sometimes happens"]
+ },
+ "current": {
+  "vi": "hiện tại; dòng (nước, điện)",
+  "coll": ["current situation", "current events", "electric current", "ocean current", "current affairs"]
+ },
+ "process": {
+  "vi": "quá trình; quy trình; xử lý",
+  "coll": ["peace process", "learning process", "process data", "in the process of", "slow process"]
+ },
+ "instead of": {
+  "vi": "thay vì; thay cho",
+  "coll": ["instead of going", "tea instead of coffee", "instead of me", "walk instead of driving"]
+ },
+ "main": {
+  "vi": "chính; chủ yếu",
+  "coll": ["main road", "main course", "main reason", "main character", "main entrance"]
+ },
+ "department": {
+  "vi": "phòng, ban; khoa; bộ",
+  "coll": ["sales department", "police department", "department store", "head of department"]
+ },
+ "full stop": {
+  "vi": "dấu chấm; sự dừng hẳn",
+  "coll": ["come to a full stop", "end with a full stop", "put a full stop to"]
+ },
+ "rest": {
+  "vi": "sự nghỉ ngơi; phần còn lại; nghỉ",
+  "coll": ["take a rest", "the rest of the day", "get some rest", "the rest of your life"]
+ },
+ "term": {
+  "vi": "thuật ngữ; học kỳ; nhiệm kỳ; điều khoản",
+  "coll": ["technical term", "long term", "term of office", "in terms of", "school term"]
+ },
+ "sex": {
+  "vi": "giới tính; tình dục",
+  "coll": ["have sex", "sex education", "opposite sex", "same sex"]
+ },
+ "total": {
+  "vi": "tổng; toàn bộ; tổng số",
+  "coll": ["total cost", "total number", "in total", "total amount", "a total of"]
+ },
+ "second-hand": {
+  "vi": "cũ, đã qua sử dụng; gián tiếp",
+  "coll": ["second-hand car", "second-hand clothes", "second-hand bookshop", "second-hand smoke"]
+ },
+ "security": {
+  "vi": "an ninh; sự an toàn; bảo mật",
+  "coll": ["national security", "security guard", "security camera", "job security", "tight security"]
+ },
+ "county": {
+  "vi": "hạt (đơn vị hành chính); quận",
+  "coll": ["county council", "county court", "county fair"]
+ },
+ "hard-working": {
+  "vi": "chăm chỉ; cần cù",
+  "coll": ["hard-working student", "hard-working people", "hard-working employee"]
+ },
+ "industry": {
+  "vi": "ngành công nghiệp; ngành; sự chăm chỉ",
+  "coll": ["tourism industry", "heavy industry", "film industry", "fashion industry", "industry standards"]
+ },
+ "out-of-date": {
+  "vi": "lỗi thời; hết hạn",
+  "coll": ["out-of-date information", "out-of-date technology", "out-of-date passport"]
+ },
+ "up-to-date": {
+  "vi": "cập nhật; mới nhất",
+  "coll": ["up-to-date information", "up-to-date records", "keep up-to-date", "up-to-date technology"]
+ },
+ "policy": {
+  "vi": "chính sách; hợp đồng bảo hiểm",
+  "coll": ["foreign policy", "insurance policy", "government policy", "privacy policy", "company policy"]
+ },
+ "press": {
+  "vi": "báo chí; ấn, nhấn; máy ép",
+  "coll": ["press conference", "press release", "freedom of the press", "press the button", "printing press"]
+ },
+ "worth": {
+  "vi": "đáng giá; xứng đáng; giá trị",
+  "coll": ["worth the money", "worth a visit", "worth reading", "net worth", "worth it"]
+ },
+ "face to face": {
+  "vi": "mặt đối mặt; trực tiếp",
+  "coll": ["meet face to face", "talk face to face", "come face to face with"]
+ },
+ "face-to-face": {
+  "vi": "trực tiếp; mặt đối mặt",
+  "coll": ["face-to-face meeting", "face-to-face interview", "face-to-face conversation"]
+ },
+ "relationship": {
+  "vi": "mối quan hệ",
+  "coll": ["close relationship", "romantic relationship", "working relationship", "in a relationship", "build relationships"]
+ },
+ "tax": {
+  "vi": "thuế; đánh thuế",
+  "coll": ["income tax", "pay taxes", "tax cuts", "tax return", "tax rate"]
+ },
+ "amount": {
+  "vi": "số lượng; lượng; lên tới",
+  "coll": ["large amount", "amount of money", "amount of time", "small amount", "total amount"]
+ },
+ "league": {
+  "vi": "giải đấu; liên đoàn; đẳng cấp",
+  "coll": ["Premier League", "league table", "major league", "league champions", "out of your league"]
+ },
+ "management": {
+  "vi": "sự quản lý; ban quản lý",
+  "coll": ["time management", "senior management", "management team", "risk management", "under new management"]
+ },
+ "central": {
+  "vi": "trung tâm; trung ương; chủ chốt",
+  "coll": ["central London", "central bank", "central heating", "play a central role"]
+ },
+ "paid": {
+  "vi": "được trả lương; đã thanh toán",
+  "coll": ["paid leave", "well paid", "get paid", "paid holiday", "highly paid"]
+ },
+ "various": {
+  "vi": "nhiều, đủ loại; khác nhau",
+  "coll": ["various reasons", "various types", "various ways", "at various times"]
+ },
+ "chief": {
+  "vi": "chính, chủ yếu; thủ lĩnh, trưởng",
+  "coll": ["chief executive", "police chief", "chief concern", "commander in chief", "tribal chief"]
+ },
+ "property": {
+  "vi": "tài sản; bất động sản; thuộc tính",
+  "coll": ["private property", "property market", "property prices", "intellectual property", "personal property"]
+ },
+ "amazing": {
+  "vi": "tuyệt vời; đáng kinh ngạc",
+  "coll": ["amazing experience", "absolutely amazing", "amazing view", "look amazing"]
+ },
+ "economic": {
+  "vi": "(thuộc) kinh tế; sinh lợi",
+  "coll": ["economic growth", "economic crisis", "economic development", "economic policy", "economic recovery"]
+ },
+ "involved": {
+  "vi": "tham gia, dính líu; phức tạp",
+  "coll": ["get involved", "deeply involved", "involved in a project", "everyone involved"]
+ },
+ "serious": {
+  "vi": "nghiêm trọng; nghiêm túc",
+  "coll": ["serious problem", "serious injury", "serious illness", "serious about", "serious relationship"]
+ },
+ "decision": {
+  "vi": "quyết định",
+  "coll": ["make a decision", "final decision", "difficult decision", "reach a decision", "decision-making"]
+ },
+ "entire": {
+  "vi": "toàn bộ; cả; nguyên vẹn",
+  "coll": ["entire life", "the entire world", "entire day", "entire family"]
+ },
+ "written": {
+  "vi": "được viết ra; bằng văn bản",
+  "coll": ["written exam", "written permission", "written test", "in written form", "written statement"]
+ },
+ "council": {
+  "vi": "hội đồng",
+  "coll": ["city council", "local council", "council meeting", "student council", "the UN Security Council"]
+ },
+ "currently": {
+  "vi": "hiện tại; hiện nay",
+  "coll": ["currently available", "currently working on", "currently under construction"]
+ },
+ "election": {
+  "vi": "cuộc bầu cử",
+  "coll": ["general election", "presidential election", "win the election", "election campaign", "hold elections"]
+ },
+ "financial": {
+  "vi": "tài chính; về tài chính",
+  "coll": ["financial support", "financial crisis", "financial problems", "financial services", "financial year"]
+ },
+ "legal": {
+  "vi": "hợp pháp; pháp lý",
+  "coll": ["legal advice", "legal action", "legal system", "perfectly legal", "legal rights"]
+ },
+ "race": {
+  "vi": "cuộc đua; chủng tộc; chạy đua",
+  "coll": ["horse race", "win the race", "race against time", "the human race", "arms race"]
+ },
+ "union": {
+  "vi": "công đoàn; liên minh; sự kết hợp",
+  "coll": ["trade union", "the European Union", "labor union", "student union"]
+ },
+ "career": {
+  "vi": "sự nghiệp; nghề nghiệp",
+  "coll": ["career path", "successful career", "pursue a career", "career opportunities", "career change"]
+ },
+ "loss": {
+  "vi": "sự mất mát; khoản lỗ; thất bại",
+  "coll": ["weight loss", "job losses", "memory loss", "at a loss", "loss of income"]
+ },
+ "army": {
+  "vi": "quân đội; lục quân; đoàn quân",
+  "coll": ["join the army", "army officer", "army base", "a volunteer army"]
+ },
+ "huge": {
+  "vi": "khổng lồ; to lớn",
+  "coll": ["huge amount", "huge success", "huge difference", "huge fan", "huge crowd"]
+ },
+ "access": {
+  "vi": "quyền truy cập; lối vào; truy cập",
+  "coll": ["internet access", "access to information", "easy access", "gain access to", "wheelchair access"]
+ },
+ "risk": {
+  "vi": "rủi ro; nguy cơ; liều",
+  "coll": ["take a risk", "at risk", "high risk", "risk factor", "risk your life"]
+ },
+ "self-service": {
+  "vi": "tự phục vụ",
+  "coll": ["self-service checkout", "self-service restaurant", "self-service petrol station"]
+ },
+ "district": {
+  "vi": "quận, huyện; khu",
+  "coll": ["school district", "business district", "district court", "financial district", "shopping district"]
+ },
+ "percent": {
+  "vi": "phần trăm",
+  "coll": ["fifty percent", "a hundred percent", "percent of the population", "ten percent increase"]
+ },
+ "growth": {
+  "vi": "sự tăng trưởng; sự phát triển",
+  "coll": ["economic growth", "population growth", "growth rate", "rapid growth"]
+ },
+ "pain": {
+  "vi": "cơn đau; nỗi đau",
+  "coll": ["back pain", "chest pain", "in pain", "pain relief", "a pain in the neck"]
+ },
+ "respect": {
+  "vi": "sự tôn trọng; tôn trọng; khía cạnh",
+  "coll": ["show respect", "earn respect", "respect for others", "with all due respect", "in this respect"]
+ },
+ "standard": {
+  "vi": "tiêu chuẩn; chuẩn mực; chuẩn",
+  "coll": ["high standards", "standard of living", "safety standards", "meet the standard", "standard procedure"]
+ },
+ "charge": {
+  "vi": "phí; cáo buộc; sạc pin; phụ trách",
+  "coll": ["free of charge", "in charge of", "charge a fee", "charge the battery", "criminal charges"]
+ },
+ "hand-held": {
+  "vi": "cầm tay",
+  "coll": ["hand-held device", "hand-held camera", "hand-held games console"]
+ },
+ "limited": {
+  "vi": "hạn chế; có hạn",
+  "coll": ["limited time", "limited edition", "limited resources", "limited space", "limited liability company"]
+ },
+ "network": {
+  "vi": "mạng lưới; mạng; giao lưu kết nối",
+  "coll": ["social network", "computer network", "rail network", "network of contacts", "television network"]
+ },
+ "provided": {
+  "vi": "miễn là; với điều kiện; được cung cấp",
+  "coll": ["provided that", "meals are provided", "services provided", "provided with"]
+ },
+ "via": {
+  "vi": "qua; thông qua; theo đường",
+  "coll": ["via email", "via the Internet", "fly via Bangkok", "via satellite"]
+ },
+ "anti": {
+  "vi": "chống; phản đối",
+  "coll": ["anti-war protests", "anti-government demonstrations", "anti-social behaviour"]
+ },
+ "beat": {
+  "vi": "đánh bại; đánh, đập; nhịp",
+  "coll": ["beat the record", "beat eggs", "the beat of the drum", "miss a beat", "beat the traffic"]
+ },
+ "potential": {
+  "vi": "tiềm năng; khả năng",
+  "coll": ["potential customers", "full potential", "potential risk", "reach your potential", "potential danger"]
+ },
+ "treatment": {
+  "vi": "sự điều trị; cách đối xử; sự xử lý",
+  "coll": ["medical treatment", "treatment for cancer", "equal treatment", "water treatment", "special treatment"]
+ },
+ "completely": {
+  "vi": "hoàn toàn",
+  "coll": ["completely different", "completely free", "completely forgot", "completely destroyed"]
+ },
+ "content": {
+  "vi": "nội dung; hài lòng",
+  "coll": ["table of contents", "online content", "content of the letter", "content with life"]
+ },
+ "despite": {
+  "vi": "mặc dù; bất chấp",
+  "coll": ["despite the fact that", "despite the rain", "despite everything", "despite difficulties"]
+ },
+ "individual": {
+  "vi": "cá nhân; riêng lẻ; người",
+  "coll": ["individual needs", "each individual", "individual rights", "private individuals", "individual attention"]
+ },
+ "leading": {
+  "vi": "hàng đầu; dẫn đầu",
+  "coll": ["leading role", "leading company", "leading cause of death", "leading expert", "leading position"]
+ },
+ "previous": {
+  "vi": "trước; trước đây",
+  "coll": ["previous experience", "the previous year", "previous owner", "previous studies"]
+ },
+ "region": {
+  "vi": "vùng; khu vực; miền",
+  "coll": ["coastal region", "remote regions", "in the region of", "border region"]
+ },
+ "sort": {
+  "vi": "loại; kiểu; sắp xếp; phân loại",
+  "coll": ["sort of", "all sorts of", "sort out", "sort by name", "some sort of"]
+ },
+ "air force": {
+  "vi": "không quân",
+  "coll": ["air force base", "join the air force", "the Royal Air Force", "air force pilot"]
+ },
+ "link": {
+  "vi": "liên kết; mối liên hệ; kết nối",
+  "coll": ["click the link", "link between smoking and cancer", "close links", "rail link", "link to the website"]
+ },
+ "next door": {
+  "vi": "bên cạnh; nhà bên",
+  "coll": ["live next door", "the girl next door", "next door to the bank", "move next door"]
+ },
+ "next-door": {
+  "vi": "sát vách; bên cạnh",
+  "coll": ["next-door neighbour", "next-door apartment", "the next-door room"]
+ }
+}

@@ -1,0 +1,402 @@
+{
+  "ranger": {
+    "vi": "kiểm lâm; nhân viên bảo vệ rừng; lính biệt kích",
+    "coll": ["a park ranger", "a forest ranger", "an Army Ranger", "a ranger station"]
+  },
+  "terrace": {
+    "vi": "sân thượng; hiên, thềm nhà; ruộng bậc thang",
+    "coll": ["a roof terrace", "sit on the terrace", "rice terraces", "a terrace house"]
+  },
+  "undoubtedly": {
+    "vi": "chắc chắn; không nghi ngờ gì",
+    "coll": ["undoubtedly true", "undoubtedly the best", "will undoubtedly", "undoubtedly important"]
+  },
+  "backyard": {
+    "vi": "sân sau; khu vực lân cận",
+    "coll": ["in the backyard", "a backyard barbecue", "a backyard garden", "in our own backyard"]
+  },
+  "bully": {
+    "vi": "kẻ bắt nạt; bắt nạt, ức hiếp",
+    "coll": ["a school bully", "the class bully", "bully other kids", "stand up to a bully"]
+  },
+  "consult": {
+    "vi": "tham khảo ý kiến; hỏi ý kiến; tư vấn",
+    "coll": ["consult a doctor", "consult an expert", "consult a dictionary", "consult with colleagues"]
+  },
+  "dominate": {
+    "vi": "thống trị; chi phối; áp đảo",
+    "coll": ["dominate the market", "dominate the game", "dominate the conversation", "dominate the industry"]
+  },
+  "economist": {
+    "vi": "nhà kinh tế học",
+    "coll": ["a leading economist", "chief economist", "economists predict", "a political economist"]
+  },
+  "informal": {
+    "vi": "không trang trọng; thân mật; phi chính thức",
+    "coll": ["informal language", "an informal meeting", "informal dress", "an informal chat"]
+  },
+  "neighboring": {
+    "vi": "lân cận; kế bên, láng giềng",
+    "coll": ["neighboring countries", "a neighboring town", "neighboring states", "the neighboring house"]
+  },
+  "optimistic": {
+    "vi": "lạc quan",
+    "coll": ["remain optimistic", "cautiously optimistic", "an optimistic view", "optimistic about the future"]
+  },
+  "owl": {
+    "vi": "con cú; cú mèo",
+    "coll": ["a barn owl", "a night owl", "a snowy owl", "owls hoot at night"]
+  },
+  "regulate": {
+    "vi": "điều tiết; quản lý bằng quy định; điều chỉnh",
+    "coll": ["regulate the industry", "regulate body temperature", "strictly regulated", "regulate the market"]
+  },
+  "salon": {
+    "vi": "tiệm làm đẹp; tiệm cắt tóc; phòng khách lớn",
+    "coll": ["a beauty salon", "a hair salon", "a nail salon", "salon treatment"]
+  },
+  "unacceptable": {
+    "vi": "không thể chấp nhận",
+    "coll": ["totally unacceptable", "unacceptable behaviour", "an unacceptable risk", "deemed unacceptable"]
+  },
+  "unaware": {
+    "vi": "không hay biết; không nhận ra",
+    "coll": ["completely unaware", "unaware of the danger", "blissfully unaware", "seemingly unaware"]
+  },
+  "uncommon": {
+    "vi": "hiếm gặp; không phổ biến",
+    "coll": ["not uncommon", "an uncommon name", "uncommon in adults", "increasingly uncommon"]
+  },
+  "zip": {
+    "vi": "khóa kéo; kéo khóa; lao vụt qua",
+    "coll": ["zip up your jacket", "a zip fastener", "zip the file", "zip past the door"]
+  },
+  "carnival": {
+    "vi": "lễ hội hóa trang; hội chợ vui chơi",
+    "coll": ["a carnival parade", "the Rio Carnival", "a carnival costume", "a carnival atmosphere"]
+  },
+  "cooperative": {
+    "vi": "hợp tác, sẵn sàng phối hợp; hợp tác xã",
+    "coll": ["a cooperative effort", "a farmers cooperative", "be more cooperative", "cooperative learning"]
+  },
+  "coral": {
+    "vi": "san hô; màu hồng cam",
+    "coll": ["a coral reef", "coral bleaching", "a coral island", "coral pink"]
+  },
+  "correspondent": {
+    "vi": "phóng viên thường trú; người viết thư; tương ứng",
+    "coll": ["a foreign correspondent", "a war correspondent", "our correspondent reports", "a special correspondent"]
+  },
+  "fictional": {
+    "vi": "hư cấu; tưởng tượng",
+    "coll": ["a fictional character", "a fictional story", "purely fictional", "a fictional world"]
+  },
+  "fulfill": {
+    "vi": "hoàn thành; thực hiện; đáp ứng",
+    "coll": ["fulfill a promise", "fulfill your potential", "fulfill the requirements", "fulfill a dream"]
+  },
+  "instinct": {
+    "vi": "bản năng; trực giác",
+    "coll": ["a natural instinct", "the survival instinct", "trust your instincts", "maternal instinct"]
+  },
+  "morality": {
+    "vi": "đạo đức; luân lý",
+    "coll": ["public morality", "a question of morality", "morality and ethics", "conventional morality"]
+  },
+  "mortal": {
+    "vi": "phàm trần, sẽ phải chết; chí mạng, chết người; người trần",
+    "coll": ["mortal danger", "a mortal wound", "mere mortals", "a mortal enemy"]
+  },
+  "prestigious": {
+    "vi": "danh giá; uy tín",
+    "coll": ["a prestigious award", "a prestigious university", "highly prestigious", "a prestigious position"]
+  },
+  "prompt": {
+    "vi": "nhanh chóng, kịp thời; thúc đẩy, khiến ai làm gì; lời nhắc",
+    "coll": ["a prompt reply", "prompt action", "prompt payment", "prompt someone to act"]
+  },
+  "relay": {
+    "vi": "tiếp sức; truyền lại (tin tức); rơ-le",
+    "coll": ["a relay race", "the relay team", "relay a message", "relay information"]
+  },
+  "symbolic": {
+    "vi": "mang tính biểu tượng; tượng trưng",
+    "coll": ["a symbolic gesture", "symbolic meaning", "purely symbolic", "symbolic value"]
+  },
+  "clarify": {
+    "vi": "làm rõ; giải thích rõ",
+    "coll": ["clarify the situation", "clarify a point", "clarify your position", "seek to clarify"]
+  },
+  "correspondence": {
+    "vi": "thư từ, thư tín; sự tương ứng",
+    "coll": ["private correspondence", "a correspondence course", "business correspondence", "a close correspondence"]
+  },
+  "desirable": {
+    "vi": "đáng mong muốn; hấp dẫn",
+    "coll": ["highly desirable", "a desirable outcome", "desirable qualities", "a desirable location"]
+  },
+  "dismiss": {
+    "vi": "bác bỏ, gạt bỏ; sa thải; cho ra về",
+    "coll": ["dismiss an idea", "dismiss the claim", "dismiss an employee", "dismiss the case"]
+  },
+  "explorer": {
+    "vi": "nhà thám hiểm",
+    "coll": ["a famous explorer", "an Arctic explorer", "early explorers", "a polar explorer"]
+  },
+  "governmental": {
+    "vi": "thuộc chính phủ",
+    "coll": ["governmental agencies", "a non-governmental organization", "governmental policy", "governmental bodies"]
+  },
+  "lengthy": {
+    "vi": "kéo dài; dài dòng",
+    "coll": ["a lengthy process", "a lengthy discussion", "a lengthy delay", "lengthy negotiations"]
+  },
+  "mock": {
+    "vi": "chế nhạo, giễu cợt; giả, thử (thi thử)",
+    "coll": ["a mock exam", "a mock trial", "mock someone openly", "mock surprise"]
+  },
+  "porch": {
+    "vi": "hiên nhà; mái hiên",
+    "coll": ["a front porch", "sit on the porch", "the back porch", "a screened porch"]
+  },
+  "possessed": {
+    "vi": "bị quỷ ám; như điên dại; có, sở hữu",
+    "coll": ["possessed by demons", "like a man possessed", "possessed of great talent", "seem possessed"]
+  },
+  "recession": {
+    "vi": "suy thoái kinh tế; sự rút lui",
+    "coll": ["an economic recession", "a deep recession", "slide into recession", "recovery from recession"]
+  },
+  "rim": {
+    "vi": "vành; mép, miệng; viền",
+    "coll": ["the rim of a cup", "a wheel rim", "the rim of the canyon", "gold-rimmed glasses"]
+  },
+  "secondly": {
+    "vi": "thứ hai là",
+    "coll": ["firstly and secondly", "secondly, we must", "and secondly", "secondly, consider the cost"]
+  },
+  "successive": {
+    "vi": "liên tiếp; kế tiếp nhau",
+    "coll": ["successive governments", "three successive years", "successive generations", "successive attempts"]
+  },
+  "tub": {
+    "vi": "bồn tắm; chậu, thùng; hộp đựng",
+    "coll": ["a bath tub", "a hot tub", "a tub of ice cream", "a plastic tub"]
+  },
+  "undergraduate": {
+    "vi": "sinh viên đại học; thuộc bậc đại học",
+    "coll": ["an undergraduate student", "an undergraduate degree", "undergraduate courses", "a final-year undergraduate"]
+  },
+  "utter": {
+    "vi": "thốt ra, nói ra; hoàn toàn, tuyệt đối",
+    "coll": ["utter a word", "utter nonsense", "an utter disaster", "utter chaos"]
+  },
+  "bracket": {
+    "vi": "dấu ngoặc; giá đỡ; nhóm, khung (thu nhập)",
+    "coll": ["in brackets", "square brackets", "a tax bracket", "an age bracket"]
+  },
+  "exile": {
+    "vi": "sự lưu vong; người lưu vong; đày ải",
+    "coll": ["live in exile", "go into exile", "political exile", "exile from his country"]
+  },
+  "outrage": {
+    "vi": "sự phẫn nộ; hành vi tàn bạo; làm phẫn nộ",
+    "coll": ["public outrage", "express outrage", "moral outrage", "spark outrage"]
+  },
+  "paperwork": {
+    "vi": "giấy tờ, thủ tục hành chính",
+    "coll": ["do the paperwork", "fill in the paperwork", "a lot of paperwork", "the necessary paperwork"]
+  },
+  "promptly": {
+    "vi": "ngay lập tức; đúng giờ",
+    "coll": ["reply promptly", "arrive promptly", "promptly at nine", "deal with it promptly"]
+  },
+  "sincere": {
+    "vi": "chân thành; thành thật",
+    "coll": ["a sincere apology", "sincere thanks", "sincere gratitude", "genuinely sincere"]
+  },
+  "slaughter": {
+    "vi": "giết mổ; tàn sát; cuộc thảm sát",
+    "coll": ["slaughter cattle", "mass slaughter", "sent for slaughter", "the slaughter of civilians"]
+  },
+  "supplier": {
+    "vi": "nhà cung cấp",
+    "coll": ["a major supplier", "a leading supplier", "a supplier of goods", "change suppliers"]
+  },
+  "swan": {
+    "vi": "thiên nga",
+    "coll": ["a white swan", "a black swan", "a swan song", "swans glide on the lake"]
+  },
+  "testify": {
+    "vi": "làm chứng; khai trước tòa; chứng tỏ",
+    "coll": ["testify in court", "testify against someone", "testify under oath", "refuse to testify"]
+  },
+  "tolerate": {
+    "vi": "chịu đựng; dung thứ; khoan dung",
+    "coll": ["tolerate pain", "will not tolerate", "tolerate differences", "hard to tolerate"]
+  },
+  "cone": {
+    "vi": "hình nón; ốc quế; quả thông",
+    "coll": ["an ice cream cone", "a traffic cone", "a pine cone", "a cone shape"]
+  },
+  "decay": {
+    "vi": "phân hủy, mục nát; sự suy tàn; sâu răng",
+    "coll": ["tooth decay", "urban decay", "radioactive decay", "decay over time"]
+  },
+  "exploit": {
+    "vi": "khai thác; bóc lột; kỳ tích",
+    "coll": ["exploit natural resources", "exploit workers", "exploit an opportunity", "heroic exploits"]
+  },
+  "gateway": {
+    "vi": "cổng vào; cửa ngõ",
+    "coll": ["a gateway to success", "the gateway to the north", "a gateway drug", "a gateway city"]
+  },
+  "imagery": {
+    "vi": "hình ảnh (trong nghệ thuật); ảnh chụp",
+    "coll": ["vivid imagery", "poetic imagery", "satellite imagery", "religious imagery"]
+  },
+  "imply": {
+    "vi": "ngụ ý; ám chỉ; kéo theo",
+    "coll": ["imply a threat", "strongly imply", "imply consent", "what are you implying"]
+  },
+  "investigator": {
+    "vi": "điều tra viên; nhà điều tra",
+    "coll": ["a private investigator", "police investigators", "the lead investigator", "a chief investigator"]
+  },
+  "naughty": {
+    "vi": "nghịch ngợm, hư; khiêu gợi, tinh nghịch",
+    "coll": ["a naughty child", "naughty behaviour", "the naughty step", "be a bit naughty"]
+  },
+  "obey": {
+    "vi": "tuân theo; vâng lời",
+    "coll": ["obey the law", "obey orders", "obey the rules", "obey your parents"]
+  },
+  "overly": {
+    "vi": "quá mức; quá ư",
+    "coll": ["overly optimistic", "overly complicated", "not overly concerned", "overly cautious"]
+  },
+  "pumpkin": {
+    "vi": "quả bí ngô",
+    "coll": ["pumpkin pie", "carve a pumpkin", "pumpkin soup", "a pumpkin patch"]
+  },
+  "ramp": {
+    "vi": "đường dốc; lối dốc lên xuống; tăng dần",
+    "coll": ["a wheelchair ramp", "an exit ramp", "a loading ramp", "ramp up production"]
+  },
+  "sage": {
+    "vi": "nhà hiền triết; cây xô thơm (gia vị); sáng suốt",
+    "coll": ["sage advice", "an ancient sage", "dried sage", "sage and onion stuffing"]
+  },
+  "steering wheel": {
+    "vi": "vô lăng",
+    "coll": ["grip the steering wheel", "behind the steering wheel", "turn the steering wheel", "a leather steering wheel"]
+  },
+  "straightforward": {
+    "vi": "đơn giản, dễ hiểu; thẳng thắn",
+    "coll": ["a straightforward process", "fairly straightforward", "a straightforward answer", "straightforward and honest"]
+  },
+  "thoughtful": {
+    "vi": "chu đáo, ân cần; trầm ngâm, sâu sắc",
+    "coll": ["a thoughtful gift", "how thoughtful of you", "a thoughtful look", "a thoughtful analysis"]
+  },
+  "zoom": {
+    "vi": "phóng to, thu nhỏ; lao vút đi; tiếng vù vù",
+    "coll": ["zoom in", "zoom out", "a zoom lens", "zoom past"]
+  },
+  "addicted": {
+    "vi": "nghiện; mê mẩn",
+    "coll": ["addicted to drugs", "become addicted", "addicted to gambling", "hopelessly addicted"]
+  },
+  "athletics": {
+    "vi": "điền kinh; thể thao",
+    "coll": ["track and field athletics", "the athletics championships", "compete in athletics", "college athletics"]
+  },
+  "broadly": {
+    "vi": "nói chung, đại thể; rộng rãi; toe toét (cười)",
+    "coll": ["broadly speaking", "broadly similar", "smile broadly", "broadly defined"]
+  },
+  "compression": {
+    "vi": "sự nén; sự ép chặt",
+    "coll": ["data compression", "the compression ratio", "file compression", "chest compressions"]
+  },
+  "confess": {
+    "vi": "thú nhận; thú tội; xưng tội",
+    "coll": ["confess to a crime", "confess your sins", "confess the truth", "I must confess"]
+  },
+  "cube": {
+    "vi": "khối lập phương; viên (đá, đường); lũy thừa ba",
+    "coll": ["an ice cube", "a sugar cube", "a Rubik's cube", "the cube root"]
+  },
+  "decoration": {
+    "vi": "đồ trang trí; sự trang trí; huân chương",
+    "coll": ["Christmas decorations", "interior decoration", "put up decorations", "a military decoration"]
+  },
+  "deliberate": {
+    "vi": "cố ý, có chủ đích; thong thả, thận trọng; cân nhắc kỹ",
+    "coll": ["a deliberate attempt", "a deliberate act", "slow and deliberate", "deliberate over a decision"]
+  },
+  "dye": {
+    "vi": "thuốc nhuộm; nhuộm màu",
+    "coll": ["hair dye", "dye your hair", "natural dyes", "food dye"]
+  },
+  "globally": {
+    "vi": "trên toàn cầu; khắp thế giới",
+    "coll": ["think globally", "globally recognized", "globally competitive", "sold globally"]
+  },
+  "inadequate": {
+    "vi": "không đủ; kém cỏi, thiếu năng lực",
+    "coll": ["inadequate funding", "inadequate resources", "wholly inadequate", "feel inadequate"]
+  },
+  "scent": {
+    "vi": "mùi hương; hơi, dấu vết (mùi); nước hoa",
+    "coll": ["the scent of flowers", "a sweet scent", "pick up the scent", "lose the scent"]
+  },
+  "surge": {
+    "vi": "sự tăng vọt; tăng mạnh; đợt sóng dâng",
+    "coll": ["a surge in demand", "a power surge", "prices surge", "a storm surge"]
+  },
+  "worthless": {
+    "vi": "vô giá trị; vô dụng",
+    "coll": ["worthless paper", "feel worthless", "practically worthless", "a worthless promise"]
+  },
+  "yacht": {
+    "vi": "du thuyền",
+    "coll": ["a luxury yacht", "a yacht club", "sail a yacht", "a private yacht"]
+  },
+  "advancement": {
+    "vi": "sự tiến bộ; sự thăng tiến",
+    "coll": ["career advancement", "technological advancement", "advancement opportunities", "the advancement of science"]
+  },
+  "alternatively": {
+    "vi": "hoặc là, thay vào đó; theo cách khác",
+    "coll": ["alternatively, you could", "or alternatively", "alternatively, try this", "alternatively, we can meet later"]
+  },
+  "assurance": {
+    "vi": "sự đảm bảo, lời cam đoan; sự tự tin",
+    "coll": ["quality assurance", "give an assurance", "seek assurances", "with quiet assurance"]
+  },
+  "bidding": {
+    "vi": "sự trả giá, đấu giá; lệnh sai bảo",
+    "coll": ["competitive bidding", "the bidding process", "open the bidding", "do someone's bidding"]
+  },
+  "doom": {
+    "vi": "số phận bi thảm; sự diệt vong; kết án, định đoạt",
+    "coll": ["doom and gloom", "impending doom", "a sense of doom", "doomed to fail"]
+  },
+  "exhaust": {
+    "vi": "làm kiệt sức; khí thải, ống xả; dùng cạn",
+    "coll": ["exhaust fumes", "an exhaust pipe", "exhaust the supply", "exhaust all options"]
+  },
+  "flee": {
+    "vi": "chạy trốn; bỏ chạy",
+    "coll": ["flee the country", "flee from danger", "flee the scene", "forced to flee"]
+  },
+  "honorable": {
+    "vi": "đáng kính; cao thượng; danh dự",
+    "coll": ["an honorable man", "an honorable discharge", "an honorable mention", "honorable intentions"]
+  },
+  "infectious": {
+    "vi": "lây nhiễm; dễ lây lan (cảm xúc)",
+    "coll": ["an infectious disease", "highly infectious", "infectious laughter", "infectious enthusiasm"]
+  }
+}

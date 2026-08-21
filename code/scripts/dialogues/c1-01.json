@@ -1,0 +1,157 @@
+[
+ {
+  "id": "dlg-c1-contract-terms",
+  "level": 3,
+  "title_en": "Negotiating contract terms",
+  "title_vi": "Đàm phán điều khoản hợp đồng",
+  "speakers": ["Ha", "Counterparty"],
+  "turns": [
+   { "sp": 0, "en": "We're broadly comfortable, but two clauses concern us.", "vi": "Về cơ bản chúng tôi thấy ổn, nhưng có hai điều khoản khiến chúng tôi lo." },
+   { "sp": 1, "en": "Which ones?", "vi": "Điều khoản nào?" },
+   { "sp": 0, "en": "Clause nine, on liability, and clause fourteen, on termination.", "vi": "Điều chín về trách nhiệm pháp lý, và điều mười bốn về chấm dứt hợp đồng." },
+   { "sp": 1, "en": "Clause nine is fairly standard in our industry.", "vi": "Điều chín khá chuẩn trong ngành chúng tôi." },
+   { "sp": 0, "en": "It is, but the cap is set at the full contract value.", "vi": "Đúng vậy, nhưng mức trần đặt bằng toàn bộ giá trị hợp đồng." },
+   { "sp": 1, "en": "What would you consider reasonable?", "vi": "Theo anh mức nào là hợp lý?" },
+   { "sp": 0, "en": "Twelve months of fees, which is what we agreed with other partners.", "vi": "Bằng phí mười hai tháng, như chúng tôi đã thoả thuận với các đối tác khác." },
+   { "sp": 1, "en": "I could accept that if the notice period is ninety days.", "vi": "Tôi có thể chấp nhận nếu thời hạn báo trước là chín mươi ngày." },
+   { "sp": 0, "en": "Ninety is long. Would sixty work with a handover plan?", "vi": "Chín mươi thì dài. Sáu mươi ngày kèm kế hoạch bàn giao được không?" },
+   { "sp": 1, "en": "With a documented handover, yes, I think we can live with that.", "vi": "Nếu có bàn giao ghi thành văn bản thì được, tôi nghĩ chúng tôi chấp nhận." },
+   { "sp": 0, "en": "Good. I'll have our lawyers redraft both clauses tonight.", "vi": "Tốt. Tối nay tôi sẽ để luật sư bên tôi soạn lại cả hai điều khoản." }
+  ]
+ },
+ {
+  "id": "dlg-c1-board",
+  "level": 3,
+  "title_en": "Presenting to the board",
+  "title_vi": "Trình bày trước hội đồng quản trị",
+  "speakers": ["CEO", "Board member"],
+  "turns": [
+   { "sp": 0, "en": "Revenue is up nine percent, but margins have narrowed.", "vi": "Doanh thu tăng chín phần trăm, nhưng biên lợi nhuận thu hẹp lại." },
+   { "sp": 1, "en": "Narrowed by how much, and driven by what?", "vi": "Thu hẹp bao nhiêu, và do đâu?" },
+   { "sp": 0, "en": "By 1.4 points, mostly logistics and a weaker product mix.", "vi": "Giảm 1,4 điểm, chủ yếu do hậu cần và cơ cấu sản phẩm kém hơn." },
+   { "sp": 1, "en": "Is the logistics pressure structural or temporary?", "vi": "Áp lực hậu cần là cơ cấu hay tạm thời?" },
+   { "sp": 0, "en": "Largely temporary, though fuel is unpredictable.", "vi": "Phần lớn là tạm thời, dù giá nhiên liệu khó lường." },
+   { "sp": 1, "en": "What are you doing about the product mix?", "vi": "Anh làm gì với cơ cấu sản phẩm?" },
+   { "sp": 0, "en": "We're phasing out two low-margin lines by the third quarter.", "vi": "Chúng tôi sẽ loại bỏ dần hai dòng biên thấp trước quý ba." },
+   { "sp": 1, "en": "That will cost you revenue in the short term.", "vi": "Ngắn hạn thì việc đó làm mất doanh thu." },
+   { "sp": 0, "en": "Around three percent, which we expect to recover by year end.", "vi": "Khoảng ba phần trăm, chúng tôi kỳ vọng bù lại vào cuối năm." },
+   { "sp": 1, "en": "And if the recovery doesn't materialise?", "vi": "Nếu việc phục hồi không diễn ra thì sao?" },
+   { "sp": 0, "en": "Then we defer the warehouse investment rather than cut headcount.", "vi": "Khi đó chúng tôi hoãn đầu tư kho thay vì cắt nhân sự." }
+  ]
+ },
+ {
+  "id": "dlg-c1-crisis",
+  "level": 3,
+  "title_en": "Handling a crisis call",
+  "title_vi": "Xử lý cuộc gọi khủng hoảng",
+  "speakers": ["Comms lead", "Regional director"],
+  "turns": [
+   { "sp": 1, "en": "The story is already on two news sites. What's our position?", "vi": "Câu chuyện đã lên hai trang tin. Quan điểm của ta là gì?" },
+   { "sp": 0, "en": "We confirm the incident, express regret, and avoid speculation.", "vi": "Ta xác nhận sự việc, bày tỏ lấy làm tiếc, và tránh suy đoán." },
+   { "sp": 1, "en": "Do we name a cause?", "vi": "Có nêu nguyên nhân không?" },
+   { "sp": 0, "en": "No. The investigation is ongoing and anything else is a risk.", "vi": "Không. Điều tra đang tiến hành, nói thêm gì cũng là rủi ro." },
+   { "sp": 1, "en": "Staff are asking questions internally.", "vi": "Nội bộ nhân viên đang hỏi rất nhiều." },
+   { "sp": 0, "en": "We should brief them before the next press cycle.", "vi": "Ta nên thông báo cho họ trước vòng tin tiếp theo." },
+   { "sp": 1, "en": "Who fronts the statement?", "vi": "Ai đứng ra phát ngôn?" },
+   { "sp": 0, "en": "You do. It carries more weight than a written note.", "vi": "Anh. Như vậy có sức nặng hơn một thông báo viết." },
+   { "sp": 1, "en": "Fine. Draft something short and get legal to review it.", "vi": "Được. Soạn bản ngắn rồi để pháp chế duyệt." },
+   { "sp": 0, "en": "You'll have it in twenty minutes.", "vi": "Hai mươi phút nữa anh sẽ có." }
+  ]
+ },
+ {
+  "id": "dlg-c1-performance",
+  "level": 3,
+  "title_en": "A difficult performance review",
+  "title_vi": "Buổi đánh giá hiệu suất khó nói",
+  "speakers": ["Manager", "Employee"],
+  "turns": [
+   { "sp": 0, "en": "I want to be straight with you about this quarter.", "vi": "Tôi muốn nói thẳng với anh về quý này." },
+   { "sp": 1, "en": "I sensed that was coming.", "vi": "Tôi cũng đoán là sẽ có chuyện đó." },
+   { "sp": 0, "en": "Your technical work is strong, but deadlines have slipped repeatedly.", "vi": "Chuyên môn của anh vững, nhưng hạn chót bị trễ nhiều lần." },
+   { "sp": 1, "en": "The scope kept changing after we started.", "vi": "Phạm vi công việc cứ đổi sau khi đã bắt đầu." },
+   { "sp": 0, "en": "That's partly true, and partly a reason to flag it earlier.", "vi": "Điều đó đúng một phần, và cũng là lý do phải nêu sớm hơn." },
+   { "sp": 1, "en": "I didn't want to look as if I couldn't cope.", "vi": "Tôi không muốn trông như thể mình không kham nổi." },
+   { "sp": 0, "en": "Raising a risk early is not the same as failing.", "vi": "Nêu rủi ro sớm không đồng nghĩa với thất bại." },
+   { "sp": 1, "en": "Understood. What would you like to see change?", "vi": "Tôi hiểu. Anh muốn thấy điều gì thay đổi?" },
+   { "sp": 0, "en": "A written status every Friday, and any slippage raised within a day.", "vi": "Báo cáo trạng thái mỗi thứ Sáu, và mọi chậm trễ phải nêu trong vòng một ngày." },
+   { "sp": 1, "en": "I can do that. Will this affect my review rating?", "vi": "Tôi làm được. Việc này có ảnh hưởng tới xếp loại của tôi không?" },
+   { "sp": 0, "en": "This quarter, yes. If delivery is steady, the next one won't.", "vi": "Quý này thì có. Nếu tiến độ ổn định, quý sau thì không." }
+  ]
+ },
+ {
+  "id": "dlg-c1-senior-interview",
+  "level": 3,
+  "title_en": "Senior job interview",
+  "title_vi": "Phỏng vấn vị trí cấp cao",
+  "speakers": ["Panel", "Candidate"],
+  "turns": [
+   { "sp": 0, "en": "Tell us about a decision you regret.", "vi": "Hãy kể về một quyết định mà anh hối tiếc." },
+   { "sp": 1, "en": "I kept an underperforming supplier for two quarters too long.", "vi": "Tôi đã giữ một nhà cung cấp yếu kém lâu hơn hai quý so với cần thiết." },
+   { "sp": 0, "en": "What made you hold on?", "vi": "Điều gì khiến anh cố giữ?" },
+   { "sp": 1, "en": "Switching cost, and a personal relationship with their director.", "vi": "Chi phí chuyển đổi, và quan hệ cá nhân với giám đốc của họ." },
+   { "sp": 0, "en": "What did it cost the business?", "vi": "Việc đó khiến doanh nghiệp mất gì?" },
+   { "sp": 1, "en": "Roughly two hundred thousand in rework and late penalties.", "vi": "Khoảng hai trăm nghìn cho việc làm lại và phạt trễ hạn." },
+   { "sp": 0, "en": "And what would you do differently now?", "vi": "Giờ anh sẽ làm khác đi thế nào?" },
+   { "sp": 1, "en": "Set exit criteria at the start, and review them without emotion.", "vi": "Đặt tiêu chí chấm dứt ngay từ đầu, và rà lại một cách không cảm tính." },
+   { "sp": 0, "en": "How do you apply that to your current team?", "vi": "Anh áp dụng điều đó với đội hiện tại ra sao?" },
+   { "sp": 1, "en": "Every major contract now has a documented review point.", "vi": "Giờ mọi hợp đồng lớn đều có mốc rà soát ghi rõ trong văn bản." }
+  ]
+ },
+ {
+  "id": "dlg-c1-pushback",
+  "level": 3,
+  "title_en": "Pushing back on a client demand",
+  "title_vi": "Từ chối yêu cầu quá đáng của khách",
+  "speakers": ["Project lead", "Client"],
+  "turns": [
+   { "sp": 1, "en": "We'd like the analytics module included at no extra cost.", "vi": "Chúng tôi muốn có luôn phân hệ phân tích mà không tính thêm phí." },
+   { "sp": 0, "en": "I understand the request, but that sits outside the agreed scope.", "vi": "Tôi hiểu đề nghị đó, nhưng nó nằm ngoài phạm vi đã thống nhất." },
+   { "sp": 1, "en": "It's a small addition from our point of view.", "vi": "Theo góc nhìn của chúng tôi thì đó là phần bổ sung nhỏ." },
+   { "sp": 0, "en": "It's about three weeks of work, so it isn't small for us.", "vi": "Nó tốn khoảng ba tuần công, nên với chúng tôi không nhỏ." },
+   { "sp": 1, "en": "So what are you proposing?", "vi": "Vậy anh đề xuất gì?" },
+   { "sp": 0, "en": "Either we add it as a paid change, or we swap it for another feature.", "vi": "Hoặc thêm nó như một thay đổi có phí, hoặc đổi lấy một tính năng khác." },
+   { "sp": 1, "en": "Swap it for what?", "vi": "Đổi lấy cái gì?" },
+   { "sp": 0, "en": "The custom report builder, which you rated lower in priority.", "vi": "Trình tạo báo cáo tuỳ chỉnh, thứ mà chị xếp ưu tiên thấp hơn." },
+   { "sp": 1, "en": "Let me take that to my director and come back to you.", "vi": "Để tôi trình giám đốc bên tôi rồi phản hồi lại anh." },
+   { "sp": 0, "en": "Of course. I'll cost both options so you can compare.", "vi": "Tất nhiên. Tôi sẽ tính giá cả hai phương án để chị so sánh." }
+  ]
+ },
+ {
+  "id": "dlg-c1-pivot",
+  "level": 3,
+  "title_en": "Explaining a strategic pivot",
+  "title_vi": "Giải thích việc chuyển hướng chiến lược",
+  "speakers": ["Founder", "Investor"],
+  "turns": [
+   { "sp": 1, "en": "You're moving away from consumers to enterprise. Why now?", "vi": "Các anh chuyển từ khách lẻ sang doanh nghiệp. Tại sao lúc này?" },
+   { "sp": 0, "en": "Because the numbers stopped supporting the consumer model.", "vi": "Vì các con số không còn ủng hộ mô hình khách lẻ nữa." },
+   { "sp": 1, "en": "Be specific.", "vi": "Anh nói cụ thể xem." },
+   { "sp": 0, "en": "Acquisition cost tripled while lifetime value stayed flat.", "vi": "Chi phí thu hút khách tăng gấp ba trong khi giá trị vòng đời đi ngang." },
+   { "sp": 1, "en": "And the enterprise pipeline justifies the shift?", "vi": "Còn tệp khách doanh nghiệp có đủ biện minh cho việc chuyển hướng?" },
+   { "sp": 0, "en": "We have four signed pilots and two at contract stage.", "vi": "Chúng tôi có bốn dự án thí điểm đã ký và hai đang ở giai đoạn hợp đồng." },
+   { "sp": 1, "en": "What happens to the existing consumer base?", "vi": "Tệp khách lẻ hiện tại thì sao?" },
+   { "sp": 0, "en": "We maintain the product but stop spending on growth.", "vi": "Chúng tôi duy trì sản phẩm nhưng ngừng chi cho tăng trưởng." },
+   { "sp": 1, "en": "That's a slow decline rather than a clean exit.", "vi": "Vậy là suy giảm từ từ chứ không phải rút hẳn." },
+   { "sp": 0, "en": "It is, and it funds the transition for about eighteen months.", "vi": "Đúng vậy, và nó tài trợ cho giai đoạn chuyển đổi khoảng mười tám tháng." }
+  ]
+ },
+ {
+  "id": "dlg-c1-conflict",
+  "level": 3,
+  "title_en": "Managing conflict between team members",
+  "title_vi": "Hoà giải mâu thuẫn trong nhóm",
+  "speakers": ["Lead", "Team member"],
+  "turns": [
+   { "sp": 0, "en": "I've noticed friction between you and Minh in reviews.", "vi": "Tôi để ý có căng thẳng giữa anh và Minh trong các buổi review." },
+   { "sp": 1, "en": "He rewrites my work without asking.", "vi": "Anh ấy viết lại phần của tôi mà không hỏi." },
+   { "sp": 0, "en": "Have you told him that directly?", "vi": "Anh đã nói thẳng điều đó với cậu ấy chưa?" },
+   { "sp": 1, "en": "Not in those words, no.", "vi": "Chưa nói thẳng như vậy." },
+   { "sp": 0, "en": "Then he may not realise how it lands.", "vi": "Vậy có thể cậu ấy không nhận ra chuyện đó gây cảm giác thế nào." },
+   { "sp": 1, "en": "Perhaps. But it happens in front of the whole team.", "vi": "Có thể. Nhưng chuyện đó diễn ra trước cả nhóm." },
+   { "sp": 0, "en": "That part I'll address with him separately.", "vi": "Phần đó tôi sẽ nói riêng với cậu ấy." },
+   { "sp": 1, "en": "I'd appreciate that.", "vi": "Tôi rất cảm kích." },
+   { "sp": 0, "en": "In return, raise it with him first next time, before it builds up.", "vi": "Đổi lại, lần sau anh nói với cậu ấy trước, đừng để dồn lại." },
+   { "sp": 1, "en": "That's fair. I'll speak to him this week.", "vi": "Hợp lý. Tuần này tôi sẽ nói chuyện với cậu ấy." }
+  ]
+ }
+]

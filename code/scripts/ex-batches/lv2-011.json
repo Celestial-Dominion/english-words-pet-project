@@ -1,0 +1,874 @@
+[
+ {
+  "id": "toll",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phí cầu đường; tổn thất; số thương vong",
+  "coll": [
+   "toll road",
+   "death toll",
+   "take a toll on",
+   "pay a toll",
+   "toll booth"
+  ]
+ },
+ {
+  "id": "trainer",
+  "pos": [
+   "n"
+  ],
+  "vi": "huấn luyện viên; giày thể thao",
+  "coll": [
+   "personal trainer",
+   "fitness trainer",
+   "dog trainer",
+   "a pair of trainers"
+  ]
+ },
+ {
+  "id": "variation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự biến đổi; biến thể; mức chênh lệch",
+  "coll": [
+   "slight variation",
+   "regional variation",
+   "variation in price",
+   "wide variation",
+   "seasonal variation"
+  ]
+ },
+ {
+  "id": "widow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "góa phụ; bà góa",
+  "coll": [
+   "become a widow",
+   "war widow",
+   "grieving widow",
+   "a widow's pension"
+  ]
+ },
+ {
+  "id": "assess",
+  "pos": [
+   "v"
+  ],
+  "vi": "đánh giá; thẩm định; định giá",
+  "coll": [
+   "assess the situation",
+   "assess the damage",
+   "assess risk",
+   "assess performance",
+   "assess the impact"
+  ]
+ },
+ {
+  "id": "assumption",
+  "pos": [
+   "n"
+  ],
+  "vi": "giả định; điều mặc nhiên cho là đúng; sự đảm nhận",
+  "coll": [
+   "make an assumption",
+   "underlying assumption",
+   "false assumption",
+   "basic assumption",
+   "on the assumption that"
+  ]
+ },
+ {
+  "id": "bio",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "tiểu sử ngắn; phần giới thiệu bản thân; thuộc sinh học",
+  "coll": [
+   "short bio",
+   "author bio",
+   "Instagram bio",
+   "write a bio",
+   "update your bio"
+  ]
+ },
+ {
+  "id": "capability",
+  "pos": [
+   "n"
+  ],
+  "vi": "khả năng; năng lực",
+  "coll": [
+   "military capability",
+   "technical capability",
+   "nuclear capability",
+   "develop a capability",
+   "production capability"
+  ]
+ },
+ {
+  "id": "charming",
+  "pos": [
+   "adj",
+   "v",
+   "n",
+   "intj"
+  ],
+  "vi": "duyên dáng; quyến rũ; dễ mến",
+  "coll": [
+   "a charming smile",
+   "charming village",
+   "utterly charming",
+   "charming personality"
+  ]
+ },
+ {
+  "id": "drain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cống thoát nước; tháo cạn; làm kiệt sức",
+  "coll": [
+   "down the drain",
+   "brain drain",
+   "storm drain",
+   "drain the water",
+   "drain resources"
+  ]
+ },
+ {
+  "id": "flame",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "ngọn lửa; lời công kích trên mạng; bùng cháy",
+  "coll": [
+   "burst into flames",
+   "go up in flames",
+   "a naked flame",
+   "old flame",
+   "flame war"
+  ]
+ },
+ {
+  "id": "hint",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "gợi ý; ám chỉ; một chút xíu",
+  "coll": [
+   "give a hint",
+   "drop a hint",
+   "a hint of",
+   "subtle hint",
+   "take the hint"
+  ]
+ },
+ {
+  "id": "nationwide",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "toàn quốc; trên khắp cả nước",
+  "coll": [
+   "nationwide survey",
+   "nationwide campaign",
+   "available nationwide",
+   "nationwide strike",
+   "nationwide network"
+  ]
+ },
+ {
+  "id": "nicely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tốt đẹp; một cách khéo léo; lịch sự",
+  "coll": [
+   "nicely done",
+   "fit nicely",
+   "work out nicely",
+   "ask nicely",
+   "nicely presented"
+  ]
+ },
+ {
+  "id": "nomination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đề cử; việc tiến cử",
+  "coll": [
+   "Oscar nomination",
+   "receive a nomination",
+   "presidential nomination",
+   "win the nomination",
+   "nomination for an award"
+  ]
+ },
+ {
+  "id": "obligation",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghĩa vụ; trách nhiệm; bổn phận",
+  "coll": [
+   "legal obligation",
+   "moral obligation",
+   "under no obligation",
+   "fulfil an obligation",
+   "have an obligation"
+  ]
+ },
+ {
+  "id": "outlook",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "triển vọng; quan điểm sống; tầm nhìn",
+  "coll": [
+   "economic outlook",
+   "positive outlook",
+   "outlook on life",
+   "bleak outlook",
+   "weather outlook"
+  ]
+ },
+ {
+  "id": "petty",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nhỏ nhen; vặt vãnh; lặt vặt",
+  "coll": [
+   "petty crime",
+   "petty cash",
+   "petty argument",
+   "petty jealousy",
+   "petty official"
+  ]
+ },
+ {
+  "id": "rainbow",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "cầu vồng; nhiều màu sắc",
+  "coll": [
+   "see a rainbow",
+   "rainbow colors",
+   "double rainbow",
+   "rainbow flag"
+  ]
+ },
+ {
+  "id": "reed",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cây sậy; lưỡi gà nhạc cụ",
+  "coll": [
+   "reed bed",
+   "tall reeds",
+   "reed instrument",
+   "clarinet reed"
+  ]
+ },
+ {
+  "id": "span",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "kéo dài; bắc qua; khoảng thời gian",
+  "coll": [
+   "attention span",
+   "life span",
+   "span the river",
+   "span several decades",
+   "a short span of time"
+  ]
+ },
+ {
+  "id": "accommodation",
+  "pos": [
+   "n"
+  ],
+  "vi": "chỗ ở; nơi lưu trú; sự thích nghi",
+  "coll": [
+   "temporary accommodation",
+   "hotel accommodation",
+   "provide accommodation",
+   "student accommodation",
+   "accommodation costs"
+  ]
+ },
+ {
+  "id": "assure",
+  "pos": [
+   "v"
+  ],
+  "vi": "cam đoan; bảo đảm; trấn an",
+  "coll": [
+   "I can assure you",
+   "rest assured",
+   "assure someone of something",
+   "assure the quality"
+  ]
+ },
+ {
+  "id": "ballot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lá phiếu; cuộc bỏ phiếu",
+  "coll": [
+   "secret ballot",
+   "cast a ballot",
+   "ballot box",
+   "ballot paper",
+   "postal ballot"
+  ]
+ },
+ {
+  "id": "cemetery",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghĩa trang; nghĩa địa",
+  "coll": [
+   "a military cemetery",
+   "buried in a cemetery",
+   "national cemetery",
+   "visit the cemetery"
+  ]
+ },
+ {
+  "id": "cheat",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "gian lận; lừa dối; ngoại tình",
+  "coll": [
+   "cheat on a test",
+   "cheat on your partner",
+   "cheat at cards",
+   "cheat someone out of",
+   "cheat death"
+  ]
+ },
+ {
+  "id": "deficit",
+  "pos": [
+   "n"
+  ],
+  "vi": "thâm hụt; sự thiếu hụt",
+  "coll": [
+   "budget deficit",
+   "trade deficit",
+   "reduce the deficit",
+   "deficit spending",
+   "attention deficit"
+  ]
+ },
+ {
+  "id": "fiber",
+  "pos": [
+   "n"
+  ],
+  "vi": "sợi; chất xơ; sợi quang",
+  "coll": [
+   "dietary fiber",
+   "fiber optic cable",
+   "high in fiber",
+   "natural fiber",
+   "carbon fiber"
+  ]
+ },
+ {
+  "id": "independently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách độc lập; tự lập",
+  "coll": [
+   "work independently",
+   "independently of",
+   "live independently",
+   "independently verified",
+   "think independently"
+  ]
+ },
+ {
+  "id": "interactive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tương tác; có tính tương tác",
+  "coll": [
+   "interactive whiteboard",
+   "interactive map",
+   "interactive learning",
+   "interactive game",
+   "highly interactive"
+  ]
+ },
+ {
+  "id": "intimate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thân mật; riêng tư; gần gũi",
+  "coll": [
+   "intimate relationship",
+   "intimate friend",
+   "intimate details",
+   "intimate knowledge",
+   "intimate setting"
+  ]
+ },
+ {
+  "id": "laundry",
+  "pos": [
+   "n"
+  ],
+  "vi": "quần áo cần giặt; việc giặt giũ; tiệm giặt",
+  "coll": [
+   "do the laundry",
+   "laundry basket",
+   "dirty laundry",
+   "laundry detergent",
+   "laundry room"
+  ]
+ },
+ {
+  "id": "politically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt chính trị",
+  "coll": [
+   "politically correct",
+   "politically motivated",
+   "politically active",
+   "politically sensitive",
+   "politically neutral"
+  ]
+ },
+ {
+  "id": "presumably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "có lẽ; chắc là; hẳn là",
+  "coll": [
+   "presumably because",
+   "presumably not",
+   "presumably due to",
+   "presumably true"
+  ]
+ },
+ {
+  "id": "pulse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mạch đập; nhịp đập; đập thình thịch",
+  "coll": [
+   "take someone's pulse",
+   "pulse rate",
+   "racing pulse",
+   "feel a pulse",
+   "the pulse of the city"
+  ]
+ },
+ {
+  "id": "temporarily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tạm thời; nhất thời",
+  "coll": [
+   "temporarily closed",
+   "temporarily unavailable",
+   "temporarily suspended",
+   "temporarily out of stock",
+   "temporarily disabled"
+  ]
+ },
+ {
+  "id": "adequate",
+  "pos": [
+   "adj",
+   "det",
+   "v"
+  ],
+  "vi": "đủ; thỏa đáng; tạm ổn",
+  "coll": [
+   "adequate supply",
+   "adequate funding",
+   "more than adequate",
+   "adequate protection",
+   "adequate time"
+  ]
+ },
+ {
+  "id": "alter",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "thay đổi; sửa lại; biến đổi",
+  "coll": [
+   "alter the plan",
+   "alter a dress",
+   "alter your behaviour",
+   "significantly alter",
+   "alter the course"
+  ]
+ },
+ {
+  "id": "buzz",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiếng vo ve; sự xôn xao; kêu vo ve",
+  "coll": [
+   "a buzz of excitement",
+   "create a buzz",
+   "generate buzz",
+   "media buzz",
+   "buzz around"
+  ]
+ },
+ {
+  "id": "detect",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "phát hiện; dò ra; nhận ra",
+  "coll": [
+   "detect a problem",
+   "detect cancer early",
+   "hard to detect",
+   "detect movement",
+   "detect a change"
+  ]
+ },
+ {
+  "id": "dip",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhúng; sự giảm nhẹ; chỗ trũng",
+  "coll": [
+   "dip in sales",
+   "dip your toe",
+   "dip bread in sauce",
+   "a dip in the road",
+   "take a dip"
+  ]
+ },
+ {
+  "id": "effectiveness",
+  "pos": [
+   "n"
+  ],
+  "vi": "hiệu quả; tính hiệu quả",
+  "coll": [
+   "the effectiveness of",
+   "improve effectiveness",
+   "cost effectiveness",
+   "measure effectiveness",
+   "prove its effectiveness"
+  ]
+ },
+ {
+  "id": "exceptional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xuất sắc; đặc biệt; ngoại lệ",
+  "coll": [
+   "exceptional talent",
+   "exceptional circumstances",
+   "exceptional quality",
+   "truly exceptional",
+   "exceptional performance"
+  ]
+ },
+ {
+  "id": "foul",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "hôi thối; tục tĩu; lỗi trong thể thao",
+  "coll": [
+   "foul smell",
+   "foul language",
+   "foul play",
+   "commit a foul",
+   "foul weather"
+  ]
+ },
+ {
+  "id": "frankly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thẳng thắn; nói thật thì",
+  "coll": [
+   "frankly speaking",
+   "quite frankly",
+   "speak frankly",
+   "to put it frankly"
+  ]
+ },
+ {
+  "id": "ignorant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thiếu hiểu biết; dốt nát; không hay biết",
+  "coll": [
+   "ignorant of the facts",
+   "blissfully ignorant",
+   "remain ignorant",
+   "ignorant people"
+  ]
+ },
+ {
+  "id": "medieval",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thời trung cổ; thuộc trung cổ",
+  "coll": [
+   "medieval castle",
+   "medieval times",
+   "medieval history",
+   "medieval Europe",
+   "medieval manuscript"
+  ]
+ },
+ {
+  "id": "mobility",
+  "pos": [
+   "n"
+  ],
+  "vi": "khả năng di chuyển; tính cơ động; sự dịch chuyển",
+  "coll": [
+   "social mobility",
+   "limited mobility",
+   "mobility scooter",
+   "upward mobility",
+   "mobility aids"
+  ]
+ },
+ {
+  "id": "sophisticated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tinh vi; sành điệu; phức tạp",
+  "coll": [
+   "sophisticated technology",
+   "sophisticated equipment",
+   "highly sophisticated",
+   "sophisticated taste",
+   "sophisticated audience"
+  ]
+ },
+ {
+  "id": "stack",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chồng; đống; xếp chồng lên",
+  "coll": [
+   "a stack of books",
+   "a stack of papers",
+   "stack up",
+   "stack the shelves",
+   "chimney stack"
+  ]
+ },
+ {
+  "id": "thesis",
+  "pos": [
+   "n"
+  ],
+  "vi": "luận văn; luận án; luận điểm",
+  "coll": [
+   "write a thesis",
+   "master's thesis",
+   "doctoral thesis",
+   "thesis statement",
+   "defend a thesis"
+  ]
+ },
+ {
+  "id": "withdraw",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "rút; rút lui; rút tiền",
+  "coll": [
+   "withdraw money",
+   "withdraw from the race",
+   "withdraw support",
+   "withdraw troops",
+   "withdraw an offer"
+  ]
+ },
+ {
+  "id": "withdrawal",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc rút tiền; sự rút lui; hội chứng cai",
+  "coll": [
+   "cash withdrawal",
+   "withdrawal symptoms",
+   "troop withdrawal",
+   "make a withdrawal",
+   "withdrawal from the EU"
+  ]
+ },
+ {
+  "id": "audit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kiểm toán; cuộc kiểm tra sổ sách",
+  "coll": [
+   "internal audit",
+   "tax audit",
+   "conduct an audit",
+   "audit the accounts",
+   "audit report"
+  ]
+ },
+ {
+  "id": "bolt",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "bu lông; chốt cửa; lao vụt đi",
+  "coll": [
+   "nuts and bolts",
+   "bolt the door",
+   "a bolt of lightning",
+   "bolt upright",
+   "loosen a bolt"
+  ]
+ },
+ {
+  "id": "cope",
+  "pos": [
+   "v",
+   "n",
+   "intj"
+  ],
+  "vi": "đối phó; xoay xở; chịu đựng được",
+  "coll": [
+   "cope with stress",
+   "cope with pressure",
+   "hard to cope",
+   "cope with change",
+   "cope alone"
+  ]
+ },
+ {
+  "id": "creepy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rùng rợn; ghê ghê; đáng sợ",
+  "coll": [
+   "creepy guy",
+   "creepy feeling",
+   "creepy smile",
+   "a bit creepy",
+   "creepy story"
+  ]
+ },
+ {
+  "id": "donate",
+  "pos": [
+   "v"
+  ],
+  "vi": "quyên góp; hiến tặng",
+  "coll": [
+   "donate money",
+   "donate blood",
+   "donate to charity",
+   "donate organs",
+   "generously donate"
+  ]
+ },
+ {
+  "id": "enhance",
+  "pos": [
+   "v"
+  ],
+  "vi": "nâng cao; cải thiện; làm tăng thêm",
+  "coll": [
+   "enhance performance",
+   "enhance the flavour",
+   "enhance security",
+   "greatly enhance",
+   "enhance your skills"
+  ]
+ },
+ {
+  "id": "ignorance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thiếu hiểu biết; sự dốt nát",
+  "coll": [
+   "out of ignorance",
+   "ignorance of the law",
+   "blissful ignorance",
+   "widespread ignorance",
+   "plead ignorance"
+  ]
+ }
+]

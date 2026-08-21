@@ -1,0 +1,1212 @@
+[
+ {
+  "id": "subject",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Likely to be affected by or to experience something",
+   "Conditional upon something",
+   "Placed or situated under"
+  ]
+ },
+ {
+  "id": "train",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Elongated or trailing portion.",
+   "To practice an ability.",
+   "To teach and form (someone) by practice"
+  ]
+ },
+ {
+  "id": "wide",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "Having a large physical extent from side to side.",
+   "Large in scope.",
+   "Overweight, obese."
+  ]
+ },
+ {
+  "id": "author",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The originator or creator of a work, especially of a literary composition",
+   "The initial owner of the copyright to a work, especially a work made for hire or a work of corporate authorship.",
+   "Someone who writes books for a living."
+  ]
+ },
+ {
+  "id": "claim",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A demand of ownership made for something.",
+   "The thing claimed.",
+   "The right or ground of demanding."
+  ]
+ },
+ {
+  "id": "dad",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A father, a male parent.",
+   "Used to address one's father",
+   "Used to address an older adult male."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "developed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "wealthy and industrialized",
+   "Mature.",
+   "Containing man-made structures such as roads, sewers, electric lines, buildings, and so on."
+  ]
+ },
+ {
+  "id": "fear",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A strong, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+   "A phobia, a sense of fear induced by something or someone in particular.",
+   "Something one is afraid of"
+  ]
+ },
+ {
+  "id": "fit",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Suitable",
+   "Adapted to a purpose or environment.",
+   "In good shape"
+  ]
+ },
+ {
+  "id": "hotel",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A large town house or mansion",
+   "An establishment that provides accommodation and other services for paying guests",
+   "A public house or pub."
+  ]
+ },
+ {
+  "id": "interested",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Having or showing interest (attention or curiosity).",
+   "Having an interest (stake)",
+   "simple past and past participle of interest"
+  ]
+ },
+ {
+  "id": "judge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A public official whose duty it is to administer the law, especially by presiding over trials and rendering judgments",
+   "A person who decides the fate of someone or something that has been called into question.",
+   "A person officiating at a sports event, a contest, or similar"
+  ]
+ },
+ {
+  "id": "lady",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The mistress of a household.",
+   "A woman of breeding or higher class, a woman of authority.",
+   "The feminine of lord, a lordess."
+  ]
+ },
+ {
+  "id": "leader",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Any person who leads or directs."
+  ]
+ },
+ {
+  "id": "letter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A symbol in an alphabet.",
+   "A written or printed communication, usually defined as longer and more formal than a note. (Sometimes specifically one that is on paper.)",
+   "The literal meaning of something, as distinguished from its intended and remoter meaning (the spirit)."
+  ]
+ },
+ {
+  "id": "material",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Of, relating to, or consisting of matter, especially physical.",
+   "Of, relating to, or affecting physical well-being",
+   "Of or relating to the matter of reasoning, as distinguished from the form of it, especially empirical."
+  ]
+ },
+ {
+  "id": "nobody",
+  "pos": [
+   "pron",
+   "n"
+  ],
+  "en": [
+   "Not any person",
+   "A person dismissed as unimportant.",
+   "Something that has no body or an especially small one."
+  ]
+ },
+ {
+  "id": "opportunity",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A chance for advancement, progress or profit.",
+   "A favorable circumstance or occasion."
+  ]
+ },
+ {
+  "id": "plus",
+  "pos": [
+   "conj",
+   "n",
+   "prep",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "And",
+   "With",
+   "And also"
+  ]
+ },
+ {
+  "id": "product",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Anything that is produced"
+  ]
+ },
+ {
+  "id": "regular",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "Bound by religious rule",
+   "Having a constant pattern",
+   "Both equilateral and equiangular"
+  ]
+ },
+ {
+  "id": "secretary",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A person who keeps records, takes notes and handles general clerical work.",
+   "The head of a department of government.",
+   "A managerial or leading position in certain non-profit organizations, such as political parties, trade unions, international organizations."
+  ]
+ },
+ {
+  "id": "sister",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A daughter of the same parents as another person",
+   "A female member of a religious order",
+   "Any butterfly in the genus Adelpha, so named for the resemblance of the dark-colored wings to the black habit traditionally worn by nuns."
+  ]
+ },
+ {
+  "id": "unit",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "Oneness, singularity, seen as a component of a whole number",
+   "A standard measure of a quantity or magnitude.",
+   "A basic, self-contained component or module that performs a specific function inside a computer system."
+  ]
+ },
+ {
+  "id": "anymore",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Alternative form of any more."
+  ]
+ },
+ {
+  "id": "bar",
+  "pos": [
+   "n",
+   "v",
+   "prep",
+   "adv"
+  ],
+  "en": [
+   "A solid, more or less rigid object of metal or wood with a uniform cross-section smaller than its length.",
+   "A solid metal object with uniform (round, square, hexagonal, octagonal or rectangular) cross-section",
+   "A cuboid piece of any solid commodity."
+  ]
+ },
+ {
+  "id": "brain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The control center of the central nervous system of an animal located in the skull which is responsible for perception, cognition,…",
+   "Mind.",
+   "Intellect."
+  ]
+ },
+ {
+  "id": "degree",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A stage of proficiency or qualification in a course of study, now especially an award bestowed by a university/college, as a…",
+   "A unit of measurement of angle equal to ¹⁄₃₆₀ of a circle's circumference.",
+   "A unit of measurement of temperature on any of several scales, such as Celsius or Fahrenheit."
+  ]
+ },
+ {
+  "id": "fast food",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Restaurant food that is served quickly, often standardized and pre-prepared.",
+   "A type of food that is quickly made, but of low nutritional value",
+   "Anything standardized, quickly available, and inexpensive, often, of low value."
+  ]
+ },
+ {
+  "id": "floor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The interior bottom or surface of a house or building",
+   "The bottom surface of a natural structure, entity, or space (e.g. cave, forest, ocean, desert, etc.)",
+   "The ground."
+  ]
+ },
+ {
+  "id": "hurt",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "To cause (a person or animal) physical pain and/or injury.",
+   "To cause (somebody) emotional pain.",
+   "To be painful."
+  ]
+ },
+ {
+  "id": "image",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A visual or other representation of the external form of something in art.",
+   "A mental picture of something not real or not present.",
+   "A statue or idol."
+  ]
+ },
+ {
+  "id": "opinion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A belief, judgment or perspective that a person has formed, either through objective or subjective reasoning, about a topic, issue,…",
+   "The judgment or sentiment which the mind forms of persons or things",
+   "The formal decision, or expression of views, of a judge, an umpire, a doctor, or other party officially called upon to consider and…"
+  ]
+ },
+ {
+  "id": "physical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of matter and nature.",
+   "A physical examination.",
+   "A physical manifestation of psychic origin, as through ectoplasmic solidification."
+  ]
+ },
+ {
+  "id": "pro",
+  "pos": [
+   "n",
+   "prep",
+   "adj"
+  ],
+  "en": [
+   "An advantage of something, especially when contrasted with its disadvantages (cons).",
+   "A person who supports a concept or principle.",
+   "In favor of."
+  ]
+ },
+ {
+  "id": "reach",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To extend, stretch, or thrust out (for example a limb or object held in the hand).",
+   "To give to someone by stretching out a limb, especially the hand",
+   "To stretch out the hand."
+  ]
+ },
+ {
+  "id": "rule",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A regulation, law, guideline.",
+   "A regulating principle.",
+   "The act of ruling"
+  ]
+ },
+ {
+  "id": "seriously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a serious or literal manner.",
+   "Gravely",
+   "Used to attempt to introduce a serious point in a less serious conversation."
+  ]
+ },
+ {
+  "id": "successful",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Resulting in success"
+  ]
+ },
+ {
+  "id": "dance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction.",
+   "A social gathering where dancing is the main activity.",
+   "The art, profession, and study of dancing."
+  ]
+ },
+ {
+  "id": "direction",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A theoretical line (physically or mentally) followed from a point of origin or towards a destination. May be relative (e.g. up, left,…",
+   "A general trend for future action.",
+   "Guidance, instruction."
+  ]
+ },
+ {
+  "id": "ship",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A water-borne vessel generally larger than a boat.",
+   "A vessel which travels through any medium other than across land, such as an airship or spaceship.",
+   "A spaceship."
+  ]
+ },
+ {
+  "id": "weekend",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "The break in the working week, usually two days including the traditional holy or sabbath day. Thus in Western countries, Saturday and…",
+   "To spend the weekend.",
+   "Of, relating to or for the weekend."
+  ]
+ },
+ {
+  "id": "wonder",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A sense of awe, astonishment and curiosity, inspired by unexpected events, novel experiences and inexplicable circumstances, sometimes…",
+   "Something that causes amazement or awe",
+   "To be affected with surprise or admiration"
+  ]
+ },
+ {
+  "id": "worst",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "superlative form of bad",
+   "superlative form of badly",
+   "Something or someone that is the worst."
+  ]
+ },
+ {
+  "id": "band",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A strip of material used for strengthening or coupling.",
+   "A long strip of material, color, etc, that is different from the surrounding area.",
+   "A strip of decoration."
+  ]
+ },
+ {
+  "id": "beach",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The shore of a body of water, especially when sandy or pebbly.",
+   "A horizontal strip of land, usually sandy, adjoining water.",
+   "The loose pebbles of the seashore, especially worn by waves"
+  ]
+ },
+ {
+  "id": "cash",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Money in the form of notes or bills and coins, as opposed to checks, credit or electronic transactions.",
+   "Liquid assets, money that can be traded quickly, as distinct from assets that are invested and cannot be easily exchanged.",
+   "Money."
+  ]
+ },
+ {
+  "id": "clearly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a clear manner.",
+   "Without a doubt",
+   "To a degree clearly discernible."
+  ]
+ },
+ {
+  "id": "effort",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The work involved in performing an activity",
+   "An endeavor.",
+   "A force acting on a body in the direction of its motion."
+  ]
+ },
+ {
+  "id": "fan",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A hand-held device consisting of concertinaed material, or slats of material, gathered together at one end, that may be opened out into…",
+   "An electrical or mechanical device for moving air, used for cooling people, machinery, etc.",
+   "The action of fanning"
+  ]
+ },
+ {
+  "id": "imagine",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To form a mental image of something",
+   "To believe in something created by one's own mind, often something false.",
+   "To assume"
+  ]
+ },
+ {
+  "id": "impact",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The striking of one body against another",
+   "The force or energy of a collision of two objects.",
+   "A forced impinging."
+  ]
+ },
+ {
+  "id": "lack",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A deficiency or need (of something desirable or necessary)",
+   "To be without, not to have, to need, to require.",
+   "To be short (of or for something)."
+  ]
+ },
+ {
+  "id": "latest",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "superlative form of late",
+   "Most recent.",
+   "At the latest."
+  ]
+ },
+ {
+  "id": "secret",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "A piece of knowledge that is hidden and intended to be kept hidden.",
+   "The key or principle by which something is made clear",
+   "Something not understood or known."
+  ]
+ },
+ {
+  "id": "senior",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Older.",
+   "Higher in rank, dignity, or office",
+   "Of or pertaining to a student's final academic year at a high school (twelfth grade) or university."
+  ]
+ },
+ {
+  "id": "spring",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To move or burst forth.",
+   "An act of springing",
+   "The season of the year in temperate regions in which temperatures and daylight hours rise, and plants spring from the ground and into…"
+  ]
+ },
+ {
+  "id": "sunday",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "The first day of the week in many religious traditions, and the seventh day of the week in systems using the ISO 8601 standard",
+   "A newspaper published on Sunday.",
+   "A comic strip published in a Sunday newspaper."
+  ]
+ },
+ {
+  "id": "wear",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To have on",
+   "To erode",
+   "Clothing."
+  ]
+ },
+ {
+  "id": "address",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Direction.",
+   "To prepare oneself",
+   "To direct one’s remarks (to someone)."
+  ]
+ },
+ {
+  "id": "anyway",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Regardless",
+   "Used to indicate that a statement explains or supports a previous statement. See anyhow and at least.",
+   "Used to indicate a change of subject."
+  ]
+ },
+ {
+  "id": "choose",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To pick",
+   "To elect.",
+   "To decide to act in a certain way."
+  ]
+ },
+ {
+  "id": "color",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Conveying color, as opposed to shades of gray.",
+   "To give something color.",
+   "To apply colors to the areas within the boundaries of a line drawing using colored markers or crayons."
+  ]
+ },
+ {
+  "id": "competition",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The action of competing.",
+   "A contest for a prize or award.",
+   "The competitors in such a contest."
+  ]
+ },
+ {
+  "id": "direct",
+  "pos": [
+   "adj",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "Proceeding without deviation or interruption.",
+   "Straight",
+   "Straightforward"
+  ]
+ },
+ {
+  "id": "dream",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Imaginary events seen in the mind while sleeping.",
+   "A hope or wish.",
+   "A visionary scheme"
+  ]
+ },
+ {
+  "id": "easily",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Comfortably, without discomfort or anxiety.",
+   "Without difficulty.",
+   "Absolutely, without question."
+  ]
+ },
+ {
+  "id": "finish",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An end",
+   "A protective coating given to wood or metal and other surfaces.",
+   "The result of any process changing the physical or chemical properties of cloth."
+  ]
+ },
+ {
+  "id": "luck",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Something that happens to someone by chance, a chance occurrence.",
+   "A superstitious feeling that brings fortune or success.",
+   "Success."
+  ]
+ },
+ {
+  "id": "necessary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Required, essential, whether logically inescapable or needed in order to achieve a desired result or avoid some penalty.",
+   "Unavoidable, inevitable."
+  ]
+ },
+ {
+  "id": "rich",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Wealthy",
+   "Having an intense fatty or sugary flavour.",
+   "Remunerative."
+  ]
+ },
+ {
+  "id": "sweet",
+  "pos": [
+   "adj",
+   "n",
+   "intj",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "Tasting of sugars.",
+   "Retaining a portion of sugar.",
+   "Not of a salty taste."
+  ]
+ },
+ {
+  "id": "touch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Primarily physical senses.",
+   "An act of touching, especially with the hand or finger.",
+   "The faculty or sense of perception by physical contact."
+  ]
+ },
+ {
+  "id": "yesterday",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "en": [
+   "The day immediately before today",
+   "The past, often in terms of being outdated."
+  ]
+ },
+ {
+  "id": "closed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Physically obstructed, sealed, etc.",
+   "Not available for operation, participation, interaction, etc.",
+   "simple past and past participle of close"
+  ]
+ },
+ {
+  "id": "doctor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A physician",
+   "A person who has attained a doctorate, such as a Ph.D. or Th.D. or one of many other terminal degrees conferred by a college or university.",
+   "A veterinarian"
+  ]
+ },
+ {
+  "id": "doubt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To be undecided about",
+   "To harbour suspicion about",
+   "Disbelief or uncertainty (about something)"
+  ]
+ },
+ {
+  "id": "drink",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To consume (a liquid) through the mouth.",
+   "To consume the liquid contained within (a bottle, glass, etc.).",
+   "To consume alcoholic beverages."
+  ]
+ },
+ {
+  "id": "fish",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A typically cold-blooded vertebrate animal that lives in water, moving with the help of fins and breathing with gills",
+   "Any vertebrate, including tetrapods.",
+   "Cod"
+  ]
+ },
+ {
+  "id": "glad",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Pleased",
+   "A gladiolus (plant)."
+  ]
+ },
+ {
+  "id": "grow",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To become larger, to increase in magnitude.",
+   "To undergo growth",
+   "To appear or sprout."
+  ]
+ },
+ {
+  "id": "machine",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A device that directs and controls energy, often in the form of movement or electricity, to produce a certain effect.",
+   "A vehicle operated mechanically, such as an automobile or an airplane.",
+   "A computer."
+  ]
+ },
+ {
+  "id": "notice",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The act of observing",
+   "A written or printed announcement.",
+   "A formal notification or warning."
+  ]
+ },
+ {
+  "id": "sit",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To be in a position in which the upper body is upright and supported by the buttocks.",
+   "To move oneself into such a position.",
+   "To occupy a given position."
+  ]
+ },
+ {
+  "id": "trip",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A journey",
+   "A stumble or misstep.",
+   "A period of time in which one experiences drug-induced reverie or hallucinations."
+  ]
+ },
+ {
+  "id": "basic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Necessary, essential for life or some process.",
+   "Elementary, simple, fundamental, merely functional.",
+   "Of or pertaining to a base"
+  ]
+ },
+ {
+  "id": "captain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A chief or leader.",
+   "The person lawfully in command of a ship or other vessel.",
+   "An army officer with a rank between the most senior grade of lieutenant and major."
+  ]
+ },
+ {
+  "id": "carry",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To lift (something) and take it to another place",
+   "To notionally transfer from one place (such as a country, book, or column) to another.",
+   "To convey by extension or continuance"
+  ]
+ },
+ {
+  "id": "crime",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A specific act committed in violation of the law, especially criminal law.",
+   "Any great sin or wickedness",
+   "Criminal acts collectively."
+  ]
+ },
+ {
+  "id": "explain",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To make plain, manifest, or intelligible",
+   "To give the reason for, justification for, or cause of.",
+   "To make something plain or intelligible."
+  ]
+ },
+ {
+  "id": "fully",
+  "pos": [
+   "adv",
+   "v"
+  ],
+  "en": [
+   "In a full manner",
+   "Used as an intensifier for a quantity.",
+   "Exactly, equally."
+  ]
+ },
+ {
+  "id": "male",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Belonging to the sex which typically produces sperm, or to the gender which is typically associated with it.",
+   "Characteristic of this sex/gender. (Compare masculine, manly.)",
+   "Tending to lead to or regulate the development of sexual characteristics typical of this sex."
+  ]
+ },
+ {
+  "id": "plant",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An organism that is not an animal, especially an organism capable of photosynthesis, and typically a small or herbaceous organism of…",
+   "An organism of the kingdom Plantae, and now specifically, a living organism of the Embryophyta (land plants) or of the Chlorophyta…",
+   "Now specifically, a multicellular eukaryote that includes chloroplasts in its cells, which have a cell wall."
+  ]
+ },
+ {
+  "id": "smith",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A craftsperson who works metal into desired forms using a hammer and other tools, sometimes heating the metal to make it more workable,…",
+   "One who makes anything",
+   "To forge, to form, usually on an anvil"
+  ]
+ },
+ {
+  "id": "spot",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A round or irregular patch on the surface of a thing having a different color, texture etc. and generally round in shape.",
+   "A stain or disfiguring mark.",
+   "A pimple, papule or pustule."
+  ]
+ },
+ {
+  "id": "winter",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Traditionally the fourth of the four seasons, typically regarded as spanning either the period between the winter solstice to the spring…",
+   "The period of decay, old age, death, or the like.",
+   "Someone with dark skin, eyes and hair, seen as best suited to certain colors of clothing."
+  ]
+ },
+ {
+  "id": "worse",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "comparative form of bad",
+   "comparative form of badly (adverb)",
+   "Less skillfully."
+  ]
+ },
+ {
+  "id": "advice",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An opinion offered to guide behavior in an effort to be helpful.",
+   "In language about financial transactions executed by formal documents, an advisory document.",
+   "In commercial language, information communicated by letter"
+  ]
+ },
+ {
+  "id": "award",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A judgment, sentence, or final decision. Specifically",
+   "The paper containing the decision of arbitrators",
+   "Funding that has been granted for the conduct of a research project."
+  ]
+ }
+]

@@ -1,0 +1,812 @@
+[
+ {
+  "id": "slang",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiếng lóng",
+  "coll": [
+   "street slang",
+   "a slang word",
+   "a slang expression",
+   "use slang"
+  ]
+ },
+ {
+  "id": "uneven",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "gồ ghề; không đều",
+  "coll": [
+   "an uneven surface",
+   "uneven ground",
+   "uneven distribution",
+   "uneven quality"
+  ]
+ },
+ {
+  "id": "waterproof",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "chống thấm nước; không thấm nước",
+  "coll": [
+   "a waterproof jacket",
+   "waterproof material",
+   "completely waterproof",
+   "a waterproof watch"
+  ]
+ },
+ {
+  "id": "admittedly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "phải thừa nhận là",
+  "coll": [
+   "admittedly, it is difficult",
+   "admittedly small",
+   "admittedly limited",
+   "admittedly, I was wrong"
+  ]
+ },
+ {
+  "id": "articulate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "diễn đạt rõ ràng; nói năng lưu loát",
+  "coll": [
+   "articulate a vision",
+   "articulate your thoughts",
+   "highly articulate",
+   "an articulate speaker"
+  ]
+ },
+ {
+  "id": "clap",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "vỗ tay; tiếng vỗ, tiếng sấm",
+  "coll": [
+   "clap your hands",
+   "the audience clapped",
+   "a clap of thunder",
+   "clap along"
+  ]
+ },
+ {
+  "id": "consolation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự an ủi; niềm an ủi",
+  "coll": [
+   "a small consolation",
+   "a consolation prize",
+   "some consolation",
+   "offer consolation"
+  ]
+ },
+ {
+  "id": "descriptive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mang tính mô tả",
+  "coll": [
+   "descriptive writing",
+   "descriptive language",
+   "descriptive statistics",
+   "purely descriptive"
+  ]
+ },
+ {
+  "id": "downfall",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự sụp đổ; nguyên nhân thất bại",
+  "coll": [
+   "lead to his downfall",
+   "the downfall of the regime",
+   "cause someone's downfall",
+   "his eventual downfall"
+  ]
+ },
+ {
+  "id": "ethic",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chuẩn mực đạo đức; đạo lý",
+  "coll": [
+   "work ethic",
+   "a strong work ethic",
+   "a professional ethic",
+   "the Protestant ethic"
+  ]
+ },
+ {
+  "id": "fireplace",
+  "pos": [
+   "n"
+  ],
+  "vi": "lò sưởi",
+  "coll": [
+   "sit by the fireplace",
+   "an open fireplace",
+   "a stone fireplace",
+   "light the fireplace"
+  ]
+ },
+ {
+  "id": "icy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "băng giá; lạnh như băng; lạnh lùng",
+  "coll": [
+   "icy roads",
+   "an icy wind",
+   "icy conditions",
+   "an icy stare"
+  ]
+ },
+ {
+  "id": "indulge",
+  "pos": [
+   "v"
+  ],
+  "vi": "chiều theo sở thích; tự thưởng; nuông chiều",
+  "coll": [
+   "indulge in luxury",
+   "indulge yourself",
+   "indulge a child",
+   "indulge in gossip"
+  ]
+ },
+ {
+  "id": "interpreter",
+  "pos": [
+   "n"
+  ],
+  "vi": "thông dịch viên; phiên dịch nói",
+  "coll": [
+   "a simultaneous interpreter",
+   "work as an interpreter",
+   "through an interpreter",
+   "hire an interpreter"
+  ]
+ },
+ {
+  "id": "lest",
+  "pos": [
+   "conj"
+  ],
+  "vi": "kẻo; e rằng (trang trọng)",
+  "coll": [
+   "lest we forget",
+   "lest anyone think",
+   "lest it be forgotten",
+   "lest there be any doubt"
+  ]
+ },
+ {
+  "id": "pastoral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đồng quê, mục ca; thuộc mục vụ; chăn thả",
+  "coll": [
+   "pastoral care",
+   "a pastoral scene",
+   "pastoral poetry",
+   "a pastoral landscape"
+  ]
+ },
+ {
+  "id": "prominence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nổi bật; tầm quan trọng",
+  "coll": [
+   "rise to prominence",
+   "give prominence to",
+   "gain prominence",
+   "national prominence"
+  ]
+ },
+ {
+  "id": "prosecute",
+  "pos": [
+   "v"
+  ],
+  "vi": "truy tố; khởi tố",
+  "coll": [
+   "prosecute a case",
+   "be prosecuted for fraud",
+   "prosecute offenders",
+   "decline to prosecute"
+  ]
+ },
+ {
+  "id": "radically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách triệt để; hoàn toàn",
+  "coll": [
+   "radically different",
+   "radically change",
+   "radically alter",
+   "radically new"
+  ]
+ },
+ {
+  "id": "unrealistic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không thực tế; viển vông",
+  "coll": [
+   "unrealistic expectations",
+   "unrealistic goals",
+   "highly unrealistic",
+   "an unrealistic deadline"
+  ]
+ },
+ {
+  "id": "yummy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ngon tuyệt; ngon hết sảy",
+  "coll": [
+   "yummy food",
+   "looks yummy",
+   "a yummy cake",
+   "a yummy dessert"
+  ]
+ },
+ {
+  "id": "bad-tempered",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hay cáu gắt; nóng tính",
+  "coll": [
+   "a bad-tempered man",
+   "a bad-tempered outburst",
+   "a bad-tempered match",
+   "get bad-tempered"
+  ]
+ },
+ {
+  "id": "booklet",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuốn sách mỏng; tập sách nhỏ",
+  "coll": [
+   "an information booklet",
+   "a free booklet",
+   "an instruction booklet",
+   "publish a booklet"
+  ]
+ },
+ {
+  "id": "conversely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngược lại; trái lại",
+  "coll": [
+   "conversely, one could argue",
+   "conversely, if this is true",
+   "and conversely"
+  ]
+ },
+ {
+  "id": "devote",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "dành trọn; cống hiến",
+  "coll": [
+   "devote time to",
+   "devote your life to",
+   "devote resources",
+   "devote attention to"
+  ]
+ },
+ {
+  "id": "evacuate",
+  "pos": [
+   "v"
+  ],
+  "vi": "sơ tán; di tản",
+  "coll": [
+   "evacuate the building",
+   "evacuate residents",
+   "evacuate the area",
+   "be evacuated safely"
+  ]
+ },
+ {
+  "id": "fragrance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hương thơm; nước hoa",
+  "coll": [
+   "a sweet fragrance",
+   "a delicate fragrance",
+   "the fragrance of flowers",
+   "a new fragrance"
+  ]
+ },
+ {
+  "id": "overlook",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bỏ sót, bỏ qua; nhìn ra (hướng)",
+  "coll": [
+   "overlook a detail",
+   "easily overlooked",
+   "overlook a mistake",
+   "overlook the sea"
+  ]
+ },
+ {
+  "id": "persist",
+  "pos": [
+   "v"
+  ],
+  "vi": "kiên trì; dai dẳng kéo dài",
+  "coll": [
+   "persist in doing something",
+   "persist with",
+   "problems persist",
+   "symptoms persist"
+  ]
+ },
+ {
+  "id": "salsa",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sốt salsa; điệu nhảy salsa",
+  "coll": [
+   "salsa dancing",
+   "tomato salsa",
+   "salsa music",
+   "chips and salsa"
+  ]
+ },
+ {
+  "id": "simultaneous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đồng thời; cùng lúc",
+  "coll": [
+   "simultaneous translation",
+   "simultaneous interpretation",
+   "simultaneous equations",
+   "a simultaneous release"
+  ]
+ },
+ {
+  "id": "timeless",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vượt thời gian; không bao giờ lỗi thời",
+  "coll": [
+   "a timeless classic",
+   "timeless beauty",
+   "a timeless design",
+   "timeless appeal"
+  ]
+ },
+ {
+  "id": "unreliable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không đáng tin cậy",
+  "coll": [
+   "an unreliable witness",
+   "unreliable data",
+   "notoriously unreliable",
+   "an unreliable narrator"
+  ]
+ },
+ {
+  "id": "vomit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nôn, ói; chất nôn",
+  "coll": [
+   "start to vomit",
+   "vomit blood",
+   "make someone vomit",
+   "the smell of vomit"
+  ]
+ },
+ {
+  "id": "weave",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dệt; đan; luồn lách",
+  "coll": [
+   "weave cloth",
+   "weave a basket",
+   "weave through traffic",
+   "a tight weave"
+  ]
+ },
+ {
+  "id": "conceal",
+  "pos": [
+   "v"
+  ],
+  "vi": "che giấu; giấu kín",
+  "coll": [
+   "conceal the truth",
+   "conceal a weapon",
+   "conceal evidence",
+   "conceal your feelings"
+  ]
+ },
+ {
+  "id": "curl",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lọn tóc xoăn; cuộn lại, uốn xoăn",
+  "coll": [
+   "curl your hair",
+   "curl up on the sofa",
+   "tight curls",
+   "a curl of smoke"
+  ]
+ },
+ {
+  "id": "denim",
+  "pos": [
+   "n"
+  ],
+  "vi": "vải bò; vải denim",
+  "coll": [
+   "denim jeans",
+   "a denim jacket",
+   "blue denim",
+   "a denim shirt"
+  ]
+ },
+ {
+  "id": "doubtful",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đáng ngờ; không chắc chắn",
+  "coll": [
+   "highly doubtful",
+   "it is doubtful whether",
+   "a doubtful outcome",
+   "look doubtful"
+  ]
+ },
+ {
+  "id": "erect",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "dựng lên, xây dựng; thẳng đứng",
+  "coll": [
+   "erect a building",
+   "erect a statue",
+   "erect a barrier",
+   "stand erect"
+  ]
+ },
+ {
+  "id": "eruption",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phun trào; sự bùng nổ",
+  "coll": [
+   "a volcanic eruption",
+   "a major eruption",
+   "the eruption of violence",
+   "the eruption of a volcano"
+  ]
+ },
+ {
+  "id": "finely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "mịn, nhuyễn; tinh tế",
+  "coll": [
+   "finely chopped",
+   "finely ground",
+   "finely tuned",
+   "finely detailed"
+  ]
+ },
+ {
+  "id": "haunting",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "ám ảnh; day dứt khó quên",
+  "coll": [
+   "a haunting melody",
+   "haunting beauty",
+   "a haunting image",
+   "haunting memories"
+  ]
+ },
+ {
+  "id": "inherit",
+  "pos": [
+   "v"
+  ],
+  "vi": "thừa kế; di truyền nhận được",
+  "coll": [
+   "inherit a fortune",
+   "inherit property",
+   "inherit a gene",
+   "inherit from a parent"
+  ]
+ },
+ {
+  "id": "listener",
+  "pos": [
+   "n"
+  ],
+  "vi": "người nghe; thính giả",
+  "coll": [
+   "a good listener",
+   "regular listeners",
+   "radio listeners",
+   "an attentive listener"
+  ]
+ },
+ {
+  "id": "mediocre",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tầm thường; xoàng xĩnh",
+  "coll": [
+   "a mediocre performance",
+   "a mediocre student",
+   "mediocre results",
+   "distinctly mediocre"
+  ]
+ },
+ {
+  "id": "piracy",
+  "pos": [
+   "n"
+  ],
+  "vi": "vi phạm bản quyền; nạn cướp biển",
+  "coll": [
+   "software piracy",
+   "music piracy",
+   "combat piracy",
+   "acts of piracy"
+  ]
+ },
+ {
+  "id": "sexism",
+  "pos": [
+   "n"
+  ],
+  "vi": "phân biệt giới tính",
+  "coll": [
+   "casual sexism",
+   "institutional sexism",
+   "sexism in the workplace",
+   "fight sexism"
+  ]
+ },
+ {
+  "id": "starvation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chết đói; nạn đói",
+  "coll": [
+   "die of starvation",
+   "on the brink of starvation",
+   "mass starvation",
+   "a starvation diet"
+  ]
+ },
+ {
+  "id": "starve",
+  "pos": [
+   "v"
+  ],
+  "vi": "chết đói; bị bỏ đói",
+  "coll": [
+   "starve to death",
+   "starving children",
+   "starve of resources",
+   "I'm starving"
+  ]
+ },
+ {
+  "id": "stool",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ghế đẩu; phân (y học)",
+  "coll": [
+   "a bar stool",
+   "sit on a stool",
+   "a wooden stool",
+   "a stool sample"
+  ]
+ },
+ {
+  "id": "tread",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bước đi, giẫm lên; gai lốp xe",
+  "coll": [
+   "tread carefully",
+   "tread on someone's toes",
+   "tread water",
+   "tyre tread"
+  ]
+ },
+ {
+  "id": "tyranny",
+  "pos": [
+   "n"
+  ],
+  "vi": "chế độ chuyên chế; sự bạo ngược",
+  "coll": [
+   "the tyranny of the majority",
+   "escape tyranny",
+   "resist tyranny",
+   "live under tyranny"
+  ]
+ },
+ {
+  "id": "accessibility",
+  "pos": [
+   "n"
+  ],
+  "vi": "khả năng tiếp cận; tính dễ tiếp cận",
+  "coll": [
+   "web accessibility",
+   "improve accessibility",
+   "accessibility features",
+   "wheelchair accessibility"
+  ]
+ },
+ {
+  "id": "cheeky",
+  "pos": [
+   "adj"
+  ],
+  "vi": "láu cá tinh nghịch; hỗn nhẹ",
+  "coll": [
+   "a cheeky grin",
+   "a cheeky remark",
+   "a cheeky little monkey",
+   "don't be cheeky"
+  ]
+ },
+ {
+  "id": "coastline",
+  "pos": [
+   "n"
+  ],
+  "vi": "đường bờ biển",
+  "coll": [
+   "a rugged coastline",
+   "along the coastline",
+   "miles of coastline",
+   "a rocky coastline"
+  ]
+ },
+ {
+  "id": "cuff",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cổ tay áo; còng tay",
+  "coll": [
+   "a shirt cuff",
+   "off the cuff",
+   "cuff links",
+   "a blood pressure cuff"
+  ]
+ },
+ {
+  "id": "descend",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đi xuống; hạ xuống; xuất thân từ",
+  "coll": [
+   "descend the stairs",
+   "descend into chaos",
+   "descend from",
+   "the plane began to descend"
+  ]
+ },
+ {
+  "id": "discriminate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "phân biệt đối xử; phân biệt, nhận ra khác biệt",
+  "coll": [
+   "discriminate against women",
+   "discriminate on the basis of race",
+   "discriminate between right and wrong",
+   "unlawfully discriminate"
+  ]
+ },
+ {
+  "id": "diversion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đánh lạc hướng; đường vòng tạm thời; trò tiêu khiển; sự chuyển hướng",
+  "coll": [
+   "create a diversion",
+   "a diversion tactic",
+   "traffic diversion",
+   "a welcome diversion"
+  ]
+ }
+]

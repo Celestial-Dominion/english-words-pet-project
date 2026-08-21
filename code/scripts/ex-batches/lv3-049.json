@@ -1,0 +1,782 @@
+[
+ {
+  "id": "frostily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách lạnh nhạt",
+  "coll": [
+   "reply frostily",
+   "frostily polite",
+   "greet frostily",
+   "frostily received"
+  ]
+ },
+ {
+  "id": "lethargically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách uể oải lờ đờ",
+  "coll": [
+   "move lethargically",
+   "respond lethargically",
+   "play lethargically",
+   "lethargically slow"
+  ]
+ },
+ {
+  "id": "tastebud",
+  "pos": [
+   "n"
+  ],
+  "vi": "gai vị giác",
+  "coll": [
+   "tickle your tastebuds",
+   "tastebuds tingle",
+   "awaken the tastebuds",
+   "sensitive tastebuds"
+  ]
+ },
+ {
+  "id": "compliantly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách ngoan ngoãn tuân thủ",
+  "coll": [
+   "nod compliantly",
+   "compliantly follow",
+   "behave compliantly",
+   "compliantly accept"
+  ]
+ },
+ {
+  "id": "remorsefully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách đầy hối hận",
+  "coll": [
+   "remorsefully apologize",
+   "look remorsefully",
+   "remorsefully admit",
+   "speak remorsefully"
+  ]
+ },
+ {
+  "id": "stressfully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách căng thẳng mệt mỏi",
+  "coll": [
+   "stressfully busy",
+   "live stressfully",
+   "work stressfully",
+   "a stressfully long day"
+  ]
+ },
+ {
+  "id": "damply",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách ẩm ướt",
+  "coll": [
+   "damply cold",
+   "cling damply",
+   "damply warm",
+   "damply glistening"
+  ]
+ },
+ {
+  "id": "stuffily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngột ngạt bí hơi; một cách cổ hủ khô khan",
+  "coll": [
+   "stuffily warm",
+   "stuffily formal",
+   "reply stuffily",
+   "stuffily traditional"
+  ]
+ },
+ {
+  "id": "unenviably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ở thế chẳng ai mong muốn",
+  "coll": [
+   "unenviably placed",
+   "unenviably difficult",
+   "unenviably positioned",
+   "unenviably low"
+  ]
+ },
+ {
+  "id": "gushingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "khen nức nở quá đà; tuôn trào",
+  "coll": [
+   "gushingly praise",
+   "gushingly enthusiastic",
+   "speak gushingly",
+   "gushingly positive"
+  ]
+ },
+ {
+  "id": "slackly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách lỏng lẻo; chểnh mảng",
+  "coll": [
+   "hang slackly",
+   "slackly tied",
+   "slackly enforced",
+   "hold the rope slackly"
+  ]
+ },
+ {
+  "id": "maternalistic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "kiểu mẹ hiền che chở áp đặt",
+  "coll": [
+   "maternalistic attitude",
+   "maternalistic care",
+   "maternalistic approach",
+   "maternalistic state"
+  ]
+ },
+ {
+  "id": "unmusically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách chối tai, thiếu nhạc tính",
+  "coll": [
+   "sing unmusically",
+   "unmusically loud",
+   "unmusically flat",
+   "clang unmusically"
+  ]
+ },
+ {
+  "id": "irately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách giận dữ",
+  "coll": [
+   "shout irately",
+   "irately demand",
+   "respond irately",
+   "irately complain"
+  ]
+ },
+ {
+  "id": "raunchily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách nhục cảm, tục tĩu",
+  "coll": [
+   "dance raunchily",
+   "raunchily dressed",
+   "sing raunchily",
+   "raunchily funny"
+  ]
+ },
+ {
+  "id": "insubordinately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách chống đối cấp trên",
+  "coll": [
+   "behave insubordinately",
+   "act insubordinately",
+   "insubordinately refuse",
+   "reply insubordinately"
+  ]
+ },
+ {
+  "id": "succulently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "mọng nước, ngon ngọt",
+  "coll": [
+   "succulently juicy",
+   "succulently tender",
+   "cooked succulently",
+   "succulently ripe"
+  ]
+ },
+ {
+  "id": "stay behind",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ở lại (khi người khác đã về)",
+  "coll": [
+   "stay behind after class",
+   "stay behind to help",
+   "stay behind at work",
+   "ask him to stay behind"
+  ]
+ },
+ {
+  "id": "stake out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "mai phục theo dõi; xác lập, giành lấy (vị thế)",
+  "coll": [
+   "stake out the house",
+   "stake out a position",
+   "stake out a claim",
+   "police staked out the area"
+  ]
+ },
+ {
+  "id": "strike out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "gạch bỏ; ra riêng tự lập; vung tay đánh",
+  "coll": [
+   "strike out on your own",
+   "strike out a sentence",
+   "strike out at critics",
+   "strike out in a new direction"
+  ]
+ },
+ {
+  "id": "wind up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "kết thúc, khép lại; rốt cuộc lại rơi vào; lên dây cót",
+  "coll": [
+   "wind up the meeting",
+   "wind up in prison",
+   "wind up a company",
+   "wind up a watch"
+  ]
+ },
+ {
+  "id": "drown out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "át đi (âm thanh)",
+  "coll": [
+   "drown out the noise",
+   "drown out his voice",
+   "drown out the music",
+   "cheers drowned out the speech"
+  ]
+ },
+ {
+  "id": "long off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "né tránh, bỏ mặc cho qua",
+  "coll": [
+   "long off the meeting",
+   "long off work",
+   "long it off",
+   "long off the task"
+  ]
+ },
+ {
+  "id": "double up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "gập người lại; ở ghép, dùng chung; tăng gấp đôi",
+  "coll": [
+   "double up with laughter",
+   "double up in pain",
+   "double up as a bedroom",
+   "double up the order"
+  ]
+ },
+ {
+  "id": "pull down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "phá dỡ (công trình); kéo xuống; kiếm được (lương)",
+  "coll": [
+   "pull down a building",
+   "pull down the blinds",
+   "pull down the curtain",
+   "pull down a big salary"
+  ]
+ },
+ {
+  "id": "pitch out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ném bóng ra ngoài vùng đánh (bóng chày)",
+  "coll": [
+   "pitch out to the catcher",
+   "call for a pitch out",
+   "pitch out on a steal",
+   "pitch out to catch the runner"
+  ]
+ },
+ {
+  "id": "pitch around",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ném né người đánh giỏi (bóng chày)",
+  "coll": [
+   "pitch around the slugger",
+   "pitch around him",
+   "pitch around the batter",
+   "pitch around a dangerous hitter"
+  ]
+ },
+ {
+  "id": "play in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chuyền cho đồng đội thoát xuống; đánh khởi động cho quen sân",
+  "coll": [
+   "play him in",
+   "play in the striker",
+   "play in a teammate",
+   "play himself in"
+  ]
+ },
+ {
+  "id": "play on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "lợi dụng, đánh vào (nỗi sợ); chơi chữ; chơi tiếp",
+  "coll": [
+   "play on people's fears",
+   "play on words",
+   "play on his emotions",
+   "play on their sympathy"
+  ]
+ },
+ {
+  "id": "run off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bỏ chạy, trốn đi; in ra hàng loạt",
+  "coll": [
+   "run off with the money",
+   "run off together",
+   "run off a few copies",
+   "run off home"
+  ]
+ },
+ {
+  "id": "fly out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bay đi (tới nơi khác)",
+  "coll": [
+   "fly out to Paris",
+   "fly out tomorrow",
+   "fly out a team of experts",
+   "fly out on Monday"
+  ]
+ },
+ {
+  "id": "run out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "hết sạch, cạn kiệt; hết hạn",
+  "coll": [
+   "run out of money",
+   "run out of time",
+   "the contract runs out",
+   "supplies ran out"
+  ]
+ },
+ {
+  "id": "run up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chất chồng (nợ, hóa đơn); chạy ùa tới",
+  "coll": [
+   "run up debts",
+   "run up a huge bill",
+   "run up to the door",
+   "run up a dress"
+  ]
+ },
+ {
+  "id": "ground out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bị loại vì cú bóng lăn (bóng chày); nối đất mạch điện",
+  "coll": [
+   "ground out to the shortstop",
+   "ground out weakly",
+   "ground out to end the inning",
+   "ground out the circuit"
+  ]
+ },
+ {
+  "id": "punch out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đấm cho gục; bấm thẻ ra về; đục lỗ",
+  "coll": [
+   "punch someone out",
+   "punch out at five",
+   "punch out a hole",
+   "punch out the shape"
+  ]
+ },
+ {
+  "id": "sum up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tóm tắt lại; tổng kết",
+  "coll": [
+   "sum up the argument",
+   "to sum up",
+   "sum up his career",
+   "sum it up nicely"
+  ]
+ },
+ {
+  "id": "cave in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "sập xuống; nhượng bộ, chịu thua",
+  "coll": [
+   "the roof caved in",
+   "cave in to pressure",
+   "cave in to demands",
+   "the tunnel caved in"
+  ]
+ },
+ {
+  "id": "sleep together",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ngủ với nhau, quan hệ tình dục",
+  "coll": [
+   "they slept together",
+   "did you two sleep together",
+   "sleep together on the first date",
+   "sleep together in the same bed"
+  ]
+ },
+ {
+  "id": "pull out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "rút lui, rút khỏi; rút ra; tách làn đi ra",
+  "coll": [
+   "pull out of the deal",
+   "pull out of the race",
+   "pull out troops",
+   "pull out into traffic"
+  ]
+ },
+ {
+  "id": "chalk up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ghi được (thành tích); quy cho là",
+  "coll": [
+   "chalk up a win",
+   "chalk up another victory",
+   "chalk it up to experience",
+   "chalk up strong sales"
+  ]
+ },
+ {
+  "id": "shrug off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "phớt lờ, gạt bỏ nhẹ tênh",
+  "coll": [
+   "shrug off criticism",
+   "shrug off the injury",
+   "shrug off defeat",
+   "shrug off concerns"
+  ]
+ },
+ {
+  "id": "rounded down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đã làm tròn xuống",
+  "coll": [
+   "rounded down to the nearest dollar",
+   "rounded down to two decimal places",
+   "the figure is rounded down",
+   "prices rounded down"
+  ]
+ },
+ {
+  "id": "rounded up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đã làm tròn lên; đã bị vây gom lại",
+  "coll": [
+   "rounded up to the nearest ten",
+   "rounded up the suspects",
+   "rounded up the cattle",
+   "figures rounded up"
+  ]
+ },
+ {
+  "id": "cut down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chặt hạ; cắt giảm bớt",
+  "coll": [
+   "cut down a tree",
+   "cut down on sugar",
+   "cut down costs",
+   "cut down on smoking"
+  ]
+ },
+ {
+  "id": "hand out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "phát cho mọi người",
+  "coll": [
+   "hand out leaflets",
+   "hand out prizes",
+   "hand out food",
+   "hand out advice"
+  ]
+ },
+ {
+  "id": "set aside",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "để dành riêng; gác sang một bên; hủy bỏ (phán quyết)",
+  "coll": [
+   "set aside money",
+   "set aside time",
+   "set aside our differences",
+   "set aside the verdict"
+  ]
+ },
+ {
+  "id": "stressed out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "căng thẳng kiệt sức",
+  "coll": [
+   "feel stressed out",
+   "totally stressed out",
+   "stressed out at work",
+   "get stressed out"
+  ]
+ },
+ {
+  "id": "get across",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "truyền đạt cho hiểu; qua được bên kia",
+  "coll": [
+   "get the message across",
+   "get your point across",
+   "get across the idea",
+   "get across the river"
+  ]
+ },
+ {
+  "id": "back into",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "lùi xe vào; bị đẩy vào thế nào đó",
+  "coll": [
+   "back into a parking space",
+   "back into the driveway",
+   "back into a difficult situation",
+   "back into the playoffs"
+  ]
+ },
+ {
+  "id": "line up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "xếp hàng; sắp xếp, chuẩn bị sẵn",
+  "coll": [
+   "line up for tickets",
+   "line up a job",
+   "line up the players",
+   "line up support"
+  ]
+ },
+ {
+  "id": "rule in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "coi là khả năng còn để ngỏ",
+  "coll": [
+   "rule in a diagnosis",
+   "rule in the possibility",
+   "neither rule in nor rule out",
+   "rule in a suspect"
+  ]
+ },
+ {
+  "id": "rule out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "loại trừ, gạt bỏ khả năng",
+  "coll": [
+   "rule out the possibility",
+   "rule out a suspect",
+   "not rule out",
+   "rule out foul play"
+  ]
+ },
+ {
+  "id": "hung over",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "váng vất vì say rượu hôm trước",
+  "coll": [
+   "feel hung over",
+   "wake up hung over",
+   "badly hung over",
+   "still hung over"
+  ]
+ },
+ {
+  "id": "brush off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "gạt phăng, phớt lờ; phủi đi",
+  "coll": [
+   "brush off criticism",
+   "brush off the question",
+   "brush off concerns",
+   "brush the dust off"
+  ]
+ },
+ {
+  "id": "spill over",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tràn sang, lan sang",
+  "coll": [
+   "spill over into violence",
+   "spill over into other areas",
+   "tensions spill over",
+   "spill over the border"
+  ]
+ },
+ {
+  "id": "laid down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đã đặt ra, quy định sẵn; đã đặt xuống",
+  "coll": [
+   "laid down the rules",
+   "laid down by law",
+   "conditions laid down in the contract",
+   "laid down his arms"
+  ]
+ },
+ {
+  "id": "max out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "dùng tới kịch hạn mức; dốc hết cỡ",
+  "coll": [
+   "max out a credit card",
+   "max out the limit",
+   "max out at 100",
+   "max out your contributions"
+  ]
+ },
+ {
+  "id": "set about",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bắt tay vào làm; xông vào đánh",
+  "coll": [
+   "set about the task",
+   "set about doing it",
+   "set about cleaning the house",
+   "set about him with a stick"
+  ]
+ },
+ {
+  "id": "clam up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "im bặt, câm như hến",
+  "coll": [
+   "clam up under pressure",
+   "suddenly clam up",
+   "clam up when asked",
+   "clam up in interviews"
+  ]
+ },
+ {
+  "id": "border on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "gần như là, chạm ngưỡng; giáp ranh với",
+  "coll": [
+   "border on the absurd",
+   "border on obsession",
+   "border on rudeness",
+   "border on France"
+  ]
+ }
+]

@@ -1,0 +1,138 @@
+[
+ {
+  "id": "wiki-arp-spoofing",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/ARP_spoofing",
+  "title_en": "ARP spoofing",
+  "sentences": [
+   "ARP Spoofing is a method someone (such as a hacker) could use to redirect internet traffic from a computer through the hacker's computer and then to the internet.",
+   "This allows the hacker to then read all traffic sent from or to the first computer.",
+   "This will reveal passwords, credit card numbers, and other private information.",
+   "A symptom of this sort of attack is a window when browsing to a secure site that says something along the lines of \"This website's authentication check has failed\".",
+   "This means that the hacker has forged a secure connection that cannot be verified.",
+   "So, the warning is presented."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-mozilla-firefox",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Mozilla_Firefox",
+  "title_en": "Mozilla Firefox",
+  "sentences": [
+   "Firefox, also known as Mozilla Firefox is a free and open source web browser that is made by the Mozilla Foundation and its subsidiary, the Mozilla Corporation.",
+   "It works on common operating systems, such as Windows, macOS, Linux and Android.",
+   "With Firefox, browsing features can be added or removed and users can customize Firefox to fit their needs.",
+   "This was done to make Firefox safe and simple to use.",
+   "On most operating systems, Firefox uses the Gecko layout engine to load web pages, which uses up-to-date web standards.",
+   "However, Firefox for iOS, which was released in late 2015, does not use Gecko due to Apple's restrictions which only allow third-party web browsers to use the WebKit-based layout engine that is built into iOS.",
+   "Firefox was created in 2002, under the name \"Phoenix\" by the Mozilla community members who wanted a standalone browser rather than a bundle of different Mozilla applications.",
+   "Even in its beta phase, Firefox proved to be popular with its testers and was praised for its speed, security, and add-ons compared to Microsoft's then-popular Internet Explorer 6.",
+   "Firefox was released in November 2004 and was highly successful with 60 million downloads within nine months, marking the first time that Internet Explorer's popularity was being challenged.",
+   "Firefox is considered the spiritual successor of Netscape Navigator since the Mozilla community was created by Netscape in 1998."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-indonesian-government-bans-pornographic-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Indonesian_government_bans_pornographic_sites",
+  "title_en": "Indonesian government bans pornographic sites",
+  "sentences": [
+   "Wednesday, August 11, 2010 The Indonesian Ministry of Communications and Information Technology has announced that the government will be banning pornographic sites in the country.",
+   "The announcement comes before the Islamic holiday of Ramadan.",
+   "The ministry conducted a technical test of the banning program with the six largest internet service providers in Indonesia — Telkom, Telkomsel, Indosat, IM2, Bakrie Telecom, and XL Axiata.",
+   "The ministry is optimistic that their ban will make 80% of pornographic sites inaccessable in the Southeast Asian country.",
+   "The People's Republic of China runs a similar program that blocks pornographic websites.",
+   "Communications minister Tifatul Sembiring said that about 200 ISPs in Indonesia had agreed to block the websites.",
+   "Sembiring also said that ISPs would not suffer any losses by blocking pornographic websites.",
+   "He also added that the ministry would adopt the same approach used by YouTube, which involves constantly monitoring offensive content which, when discovered, is immediately removed."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-genetic-algorithm",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Genetic_algorithm",
+  "title_en": "Genetic algorithm",
+  "sentences": [
+   "A genetic algorithm is an algorithm that imitates the process of natural selection.",
+   "They help solve optimization and search problems.",
+   "Genetic algorithms are part of the bigger class of evolutionary algorithms.",
+   "Genetic algorithms imitate natural biological processes, such as inheritance, mutation, selection and crossover.",
+   "Genetic algorithms is a search technique often used in computer science to find complex, non-obvious solutions to algorithmic optimisation and search problems.",
+   "Genetic algorithms are global search heuristics."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-freebasic",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/FreeBASIC",
+  "title_en": "FreeBASIC",
+  "sentences": [
+   "FreeBASIC is a programming language like QuickBASIC.",
+   "It is free and open source.",
+   "It has many advanced things that other BASIC programming languages do not have.",
+   "FreeBASIC can make graphical programs or console mode programs.",
+   "It runs on DOS, Linux, and Microsoft Windows.",
+   "The FreeBASIC compiler can create itself."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-rpg-maker",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/RPG_Maker",
+  "title_en": "RPG Maker",
+  "sentences": [
+   "The RPG Maker is a video game software which can be used to develop role-playing video games easily even for people that are not experienced in game design and coding.",
+   "Until 2003, the program has been created by the Japanese company ASCII.",
+   "From then on Enterbrain continued the development.",
+   "The RPG Maker has a Graphical User Interface (GUI) which makes operating very simple.",
+   "The software contains many options to customize a game.",
+   "Within every version is a Run Time Package (RTP), contains many different graphics and sounds, although self-created files can be imported into the program as long as they are in the correct format such as size and type of file."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-kids-game-portal-bbc-jam-to-close-after-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Kids_game_portal_BBC_Jam_to_close_after_competition_complaints",
+  "title_en": "Kids game portal BBC Jam to close after competition complaints",
+  "sentences": [
+   "Thursday, March 15, 2007 Kids will have to look elsewhere for educational entertainment, after the European Commission received complaints that the British Broadcasting Corporation's website was \"unfair competition\" to the commercial online games market.",
+   "The site, called BBC jam, will be suspended on March 20, 2007, pending review, per the BBC Trust.",
+   "BBC jam offers educationally-oriented games aimed at 5 to 16-year-olds, created with an operating budget of £150 million (US$290 million) over five years, US$85 million of which allocated to independent content producers.",
+   "The government funded service is formally requesting proposals on how it should promote education and learning digitally, without being \"non-compliant\".",
+   "NUT Cymru, a Welsh teachers' union, is worried about the closure.",
+   "Both NUT Cymru and the Welsh Assembly Goverment have questioned the extent to which commercial firms would step in and fulfill the terms of the Welsh Language Act 1993."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-catalogue-of-life",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Catalogue_of_Life",
+  "title_en": "Catalogue of Life",
+  "sentences": [
+   "The Catalogue of Life (CoL) is an online database.",
+   "This database has all of the known species of animals, plants, fungi, and microorganisms.",
+   "It was created in 2001.",
+   "It combined the Species 2000 and the American Integrated Taxonomic Information System.",
+   "The Catalogue is used by scientists, educators, and policy makers.",
+   "The Catalogue is also used by the Biodiversity Heritage Library, the Barcode of Life Data System, Encyclopedia of Life, and the Global Biodiversity Information Facility.",
+   "The Catalogue uses data from 165 other peer-reviewed databases.",
+   "As of September 2022, the COL Checklist has 2,067,951 of the world's 2.2m species that taxonomists know about."
+  ],
+  "topic": "it"
+ }
+]

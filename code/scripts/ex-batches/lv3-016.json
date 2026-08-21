@@ -1,0 +1,874 @@
+[
+ {
+  "id": "magnet",
+  "pos": [
+   "n"
+  ],
+  "vi": "nam châm; thứ thu hút, tâm điểm hấp dẫn",
+  "coll": [
+   "a fridge magnet",
+   "a powerful magnet",
+   "act like a magnet",
+   "a magnet for tourists",
+   "magnet field"
+  ]
+ },
+ {
+  "id": "contention",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tranh cãi, bất đồng; luận điểm; sự tranh đua",
+  "coll": [
+   "a point of contention",
+   "a bone of contention",
+   "in contention for the title",
+   "my contention is that",
+   "areas of contention"
+  ]
+ },
+ {
+  "id": "greed",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lòng tham; tính tham lam",
+  "coll": [
+   "corporate greed",
+   "driven by greed",
+   "pure greed",
+   "greed for money",
+   "greed and corruption"
+  ]
+ },
+ {
+  "id": "thrive",
+  "pos": [
+   "v"
+  ],
+  "vi": "phát triển mạnh; ăn nên làm ra; sống khỏe",
+  "coll": [
+   "thrive on challenges",
+   "businesses thrive",
+   "thrive in the wild",
+   "children thrive",
+   "thrive under pressure"
+  ]
+ },
+ {
+  "id": "paranoid",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hoang tưởng, đa nghi; nghi ngờ thái quá",
+  "coll": [
+   "get paranoid",
+   "paranoid about germs",
+   "paranoid schizophrenia",
+   "sound paranoid",
+   "a paranoid delusion"
+  ]
+ },
+ {
+  "id": "oriental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phương Đông; thuộc Á Đông",
+  "coll": [
+   "oriental art",
+   "oriental rugs",
+   "oriental medicine",
+   "oriental spices",
+   "oriental style"
+  ]
+ },
+ {
+  "id": "notify",
+  "pos": [
+   "v"
+  ],
+  "vi": "thông báo cho; báo tin",
+  "coll": [
+   "notify the police",
+   "notify us in writing",
+   "notify the authorities",
+   "notify by email",
+   "notify next of kin"
+  ]
+ },
+ {
+  "id": "asthma",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh hen suyễn",
+  "coll": [
+   "an asthma attack",
+   "suffer from asthma",
+   "asthma inhaler",
+   "severe asthma",
+   "childhood asthma"
+  ]
+ },
+ {
+  "id": "proxy",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "người được ủy quyền; sự ủy quyền; máy chủ trung gian",
+  "coll": [
+   "by proxy",
+   "a proxy vote",
+   "a proxy server",
+   "a proxy war",
+   "act as a proxy"
+  ]
+ },
+ {
+  "id": "bacterial",
+  "pos": [
+   "adj"
+  ],
+  "vi": "do vi khuẩn; thuộc vi khuẩn",
+  "coll": [
+   "a bacterial infection",
+   "bacterial growth",
+   "bacterial pneumonia",
+   "bacterial cells",
+   "bacterial resistance"
+  ]
+ },
+ {
+  "id": "sniper",
+  "pos": [
+   "n"
+  ],
+  "vi": "lính bắn tỉa; xạ thủ bắn tỉa",
+  "coll": [
+   "a sniper rifle",
+   "a sniper attack",
+   "sniper fire",
+   "an enemy sniper",
+   "a police sniper"
+  ]
+ },
+ {
+  "id": "termination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chấm dứt; sự sa thải; sự đình chỉ thai kỳ",
+  "coll": [
+   "contract termination",
+   "termination of employment",
+   "wrongful termination",
+   "termination date",
+   "termination of pregnancy"
+  ]
+ },
+ {
+  "id": "retro",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hoài cổ, kiểu xưa; phong cách retro",
+  "coll": [
+   "a retro style",
+   "retro design",
+   "retro fashion",
+   "a retro look",
+   "retro games"
+  ]
+ },
+ {
+  "id": "flex",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gập, co duỗi (cơ); khoe mẽ (suồng sã); dây điện mềm",
+  "coll": [
+   "flex your muscles",
+   "flex the knee",
+   "a weird flex",
+   "flex your fingers",
+   "flexible flex"
+  ]
+ },
+ {
+  "id": "unpaid",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chưa thanh toán; không lương, không công",
+  "coll": [
+   "unpaid bills",
+   "unpaid leave",
+   "unpaid work",
+   "an unpaid internship",
+   "unpaid debts"
+  ]
+ },
+ {
+  "id": "revolt",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nổi dậy, nổi loạn; cuộc nổi dậy; làm ghê tởm",
+  "coll": [
+   "a peasant revolt",
+   "revolt against the government",
+   "an armed revolt",
+   "in revolt",
+   "spark a revolt"
+  ]
+ },
+ {
+  "id": "ethnicity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sắc tộc; nguồn gốc dân tộc",
+  "coll": [
+   "race and ethnicity",
+   "regardless of ethnicity",
+   "different ethnicities",
+   "ethnicity data",
+   "based on ethnicity"
+  ]
+ },
+ {
+  "id": "clearer",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "rõ hơn, sáng rõ hơn; người dọn dẹp",
+  "coll": [
+   "a clearer picture",
+   "make it clearer",
+   "clearer skin",
+   "clearer understanding",
+   "become clearer"
+  ]
+ },
+ {
+  "id": "eventual",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cuối cùng, rốt cuộc; sau cùng cũng xảy ra",
+  "coll": [
+   "the eventual winner",
+   "the eventual outcome",
+   "eventual success",
+   "eventual collapse",
+   "the eventual goal"
+  ]
+ },
+ {
+  "id": "longtime",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "lâu năm; lâu đời, gắn bó từ lâu",
+  "coll": [
+   "a longtime friend",
+   "a longtime resident",
+   "a longtime partner",
+   "a longtime fan",
+   "a longtime supporter"
+  ]
+ },
+ {
+  "id": "aerospace",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "hàng không vũ trụ",
+  "coll": [
+   "the aerospace industry",
+   "aerospace engineering",
+   "an aerospace company",
+   "aerospace technology",
+   "aerospace defence"
+  ]
+ },
+ {
+  "id": "specimen",
+  "pos": [
+   "n"
+  ],
+  "vi": "mẫu vật; mẫu xét nghiệm; mẫu điển hình",
+  "coll": [
+   "a rare specimen",
+   "a blood specimen",
+   "collect specimens",
+   "a fine specimen",
+   "specimen jar"
+  ]
+ },
+ {
+  "id": "sponsorship",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tài trợ; khoản tài trợ",
+  "coll": [
+   "a sponsorship deal",
+   "corporate sponsorship",
+   "seek sponsorship",
+   "sponsorship money",
+   "shirt sponsorship"
+  ]
+ },
+ {
+  "id": "persecution",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ngược đãi; sự đàn áp, bức hại",
+  "coll": [
+   "religious persecution",
+   "flee persecution",
+   "political persecution",
+   "face persecution",
+   "persecution of minorities"
+  ]
+ },
+ {
+  "id": "insecure",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thiếu tự tin, bất an; không an toàn",
+  "coll": [
+   "feel insecure",
+   "an insecure job",
+   "insecure about her looks",
+   "an insecure connection",
+   "financially insecure"
+  ]
+ },
+ {
+  "id": "voluntarily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách tự nguyện; tự giác",
+  "coll": [
+   "voluntarily agree",
+   "resign voluntarily",
+   "voluntarily surrender",
+   "act voluntarily",
+   "voluntarily participate"
+  ]
+ },
+ {
+  "id": "classy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sang trọng, có gu; đẳng cấp",
+  "coll": [
+   "a classy restaurant",
+   "a classy dress",
+   "look classy",
+   "a classy performance",
+   "very classy"
+  ]
+ },
+ {
+  "id": "occupational",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc nghề nghiệp; liên quan tới công việc",
+  "coll": [
+   "occupational health",
+   "occupational hazard",
+   "occupational therapy",
+   "occupational safety",
+   "occupational disease"
+  ]
+ },
+ {
+  "id": "lust",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ham muốn xác thịt; dục vọng; khát khao mãnh liệt",
+  "coll": [
+   "lust for power",
+   "lust and love",
+   "blood lust",
+   "lust after someone",
+   "a lust for life"
+  ]
+ },
+ {
+  "id": "hydraulic",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "thủy lực; chạy bằng thủy lực",
+  "coll": [
+   "hydraulic pressure",
+   "a hydraulic system",
+   "hydraulic brakes",
+   "a hydraulic pump",
+   "hydraulic fluid"
+  ]
+ },
+ {
+  "id": "volatile",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "biến động thất thường; dễ nổi nóng; dễ bay hơi",
+  "coll": [
+   "a volatile market",
+   "volatile prices",
+   "a volatile situation",
+   "volatile chemicals",
+   "highly volatile"
+  ]
+ },
+ {
+  "id": "homosexual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đồng tính luyến ái; người đồng tính",
+  "coll": [
+   "a homosexual relationship",
+   "homosexual couples",
+   "homosexual behaviour",
+   "homosexual rights",
+   "openly homosexual"
+  ]
+ },
+ {
+  "id": "feasible",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khả thi; có thể thực hiện được",
+  "coll": [
+   "technically feasible",
+   "economically feasible",
+   "a feasible plan",
+   "not feasible",
+   "a feasible solution"
+  ]
+ },
+ {
+  "id": "grease",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mỡ bôi trơn; dầu mỡ; bôi mỡ",
+  "coll": [
+   "elbow grease",
+   "grease the pan",
+   "axle grease",
+   "grease stains",
+   "grease a wheel"
+  ]
+ },
+ {
+  "id": "confrontation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đối đầu; cuộc chạm trán, đụng độ",
+  "coll": [
+   "a violent confrontation",
+   "avoid confrontation",
+   "a direct confrontation",
+   "military confrontation",
+   "a confrontation with police"
+  ]
+ },
+ {
+  "id": "deluxe",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hạng sang, cao cấp",
+  "coll": [
+   "a deluxe room",
+   "a deluxe edition",
+   "deluxe accommodation",
+   "the deluxe version",
+   "deluxe package"
+  ]
+ },
+ {
+  "id": "apparel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quần áo, trang phục (trang trọng)",
+  "coll": [
+   "sports apparel",
+   "women's apparel",
+   "the apparel industry",
+   "athletic apparel",
+   "apparel retailer"
+  ]
+ },
+ {
+  "id": "prostitution",
+  "pos": [
+   "n"
+  ],
+  "vi": "mại dâm; nghề bán thân",
+  "coll": [
+   "legalise prostitution",
+   "forced into prostitution",
+   "child prostitution",
+   "the prostitution trade",
+   "arrested for prostitution"
+  ]
+ },
+ {
+  "id": "amino",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "amino, thuộc nhóm amin",
+  "coll": [
+   "amino acids",
+   "essential amino acids",
+   "an amino group",
+   "amino acid sequence",
+   "branched-chain amino acids"
+  ]
+ },
+ {
+  "id": "pixel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "điểm ảnh, pixel",
+  "coll": [
+   "pixel density",
+   "megapixel camera",
+   "pixel art",
+   "a dead pixel",
+   "pixels per inch"
+  ]
+ },
+ {
+  "id": "radioactive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phóng xạ; có tính phóng xạ",
+  "coll": [
+   "radioactive waste",
+   "radioactive material",
+   "radioactive decay",
+   "highly radioactive",
+   "radioactive contamination"
+  ]
+ },
+ {
+  "id": "incapable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không có khả năng; bất lực, không làm nổi",
+  "coll": [
+   "incapable of change",
+   "incapable of love",
+   "seemingly incapable",
+   "incapable of doing the job",
+   "utterly incapable"
+  ]
+ },
+ {
+  "id": "unlawful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trái pháp luật; bất hợp pháp",
+  "coll": [
+   "unlawful killing",
+   "unlawful arrest",
+   "an unlawful act",
+   "unlawful entry",
+   "deemed unlawful"
+  ]
+ },
+ {
+  "id": "intentional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cố ý, có chủ đích",
+  "coll": [
+   "an intentional act",
+   "intentional harm",
+   "purely intentional",
+   "an intentional foul",
+   "intentional or accidental"
+  ]
+ },
+ {
+  "id": "arbitration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân xử trọng tài; giải quyết tranh chấp qua trọng tài",
+  "coll": [
+   "go to arbitration",
+   "binding arbitration",
+   "an arbitration clause",
+   "international arbitration",
+   "arbitration proceedings"
+  ]
+ },
+ {
+  "id": "unarmed",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không vũ trang; tay không",
+  "coll": [
+   "an unarmed man",
+   "unarmed civilians",
+   "unarmed combat",
+   "shoot an unarmed suspect",
+   "unarmed and peaceful"
+  ]
+ },
+ {
+  "id": "contributor",
+  "pos": [
+   "n"
+  ],
+  "vi": "người đóng góp; cộng tác viên; tác nhân gây ra",
+  "coll": [
+   "a major contributor",
+   "a regular contributor",
+   "a leading contributor",
+   "a contributor to the fund",
+   "top contributors"
+  ]
+ },
+ {
+  "id": "cholesterol",
+  "pos": [
+   "n"
+  ],
+  "vi": "cholesterol; mỡ máu",
+  "coll": [
+   "high cholesterol",
+   "cholesterol levels",
+   "lower your cholesterol",
+   "good cholesterol",
+   "cholesterol test"
+  ]
+ },
+ {
+  "id": "empathy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đồng cảm; sự thấu cảm",
+  "coll": [
+   "show empathy",
+   "a lack of empathy",
+   "feel empathy for",
+   "empathy and compassion",
+   "develop empathy"
+  ]
+ },
+ {
+  "id": "bilateral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "song phương; hai bên",
+  "coll": [
+   "bilateral relations",
+   "a bilateral agreement",
+   "bilateral trade",
+   "bilateral talks",
+   "bilateral cooperation"
+  ]
+ },
+ {
+  "id": "ensemble",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhóm biểu diễn; bộ trang phục đồng bộ; tổng thể hài hòa",
+  "coll": [
+   "a jazz ensemble",
+   "an ensemble cast",
+   "a chamber ensemble",
+   "a stylish ensemble",
+   "the ensemble as a whole"
+  ]
+ },
+ {
+  "id": "unfinished",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chưa hoàn thành; còn dang dở",
+  "coll": [
+   "unfinished business",
+   "an unfinished novel",
+   "leave it unfinished",
+   "an unfinished symphony",
+   "unfinished work"
+  ]
+ },
+ {
+  "id": "hallway",
+  "pos": [
+   "n"
+  ],
+  "vi": "hành lang; lối đi trong nhà",
+  "coll": [
+   "down the hallway",
+   "a long hallway",
+   "a narrow hallway",
+   "the hallway light",
+   "wait in the hallway"
+  ]
+ },
+ {
+  "id": "induction",
+  "pos": [
+   "n"
+  ],
+  "vi": "lễ kết nạp, sự nhậm chức; sự cảm ứng (điện); phép quy nạp",
+  "coll": [
+   "induction ceremony",
+   "an induction course",
+   "electromagnetic induction",
+   "induction into the Hall of Fame",
+   "induction of labour"
+  ]
+ },
+ {
+  "id": "spontaneous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tự phát; bộc phát, ngẫu hứng",
+  "coll": [
+   "spontaneous applause",
+   "a spontaneous decision",
+   "spontaneous combustion",
+   "spontaneous reaction",
+   "spontaneous laughter"
+  ]
+ },
+ {
+  "id": "slack",
+  "pos": [
+   "v",
+   "n",
+   "adj",
+   "adv"
+  ],
+  "vi": "chùng, lỏng; lơ là, trì trệ; phần dây chùng",
+  "coll": [
+   "cut me some slack",
+   "take up the slack",
+   "slack demand",
+   "a slack rope",
+   "slack off"
+  ]
+ },
+ {
+  "id": "marginal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không đáng kể, nhỏ nhoi; bên lề, thứ yếu; biên (kinh tế)",
+  "coll": [
+   "a marginal improvement",
+   "marginal cost",
+   "a marginal seat",
+   "of marginal importance",
+   "marginal difference"
+  ]
+ },
+ {
+  "id": "tract",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vùng đất rộng; đường (tiêu hóa, hô hấp); sách mỏng cổ động",
+  "coll": [
+   "the digestive tract",
+   "the respiratory tract",
+   "a large tract of land",
+   "the urinary tract",
+   "a religious tract"
+  ]
+ },
+ {
+  "id": "masculine",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nam tính; thuộc phái nam; giống đực (ngữ pháp)",
+  "coll": [
+   "masculine features",
+   "a masculine voice",
+   "traditionally masculine",
+   "masculine identity",
+   "a masculine noun"
+  ]
+ },
+ {
+  "id": "friction",
+  "pos": [
+   "n"
+  ],
+  "vi": "ma sát; sự cọ xát; sự xích mích, mâu thuẫn",
+  "coll": [
+   "reduce friction",
+   "the force of friction",
+   "friction between colleagues",
+   "cause friction",
+   "friction burn"
+  ]
+ }
+]

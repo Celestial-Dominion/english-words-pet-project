@@ -1,0 +1,51 @@
+rules_version = '2';
+
+// ĐÃ KHOÁ: chỉ các tài khoản trong danh sách dưới đây được dùng, và mỗi người CHỈ đọc/ghi
+// được dữ liệu dưới uid của chính mình (không ai xem được tiến độ của người khác).
+// Thêm/bớt người dùng: sửa danh sách này VÀ NEXT_PUBLIC_OWNER_UID trong .env.local, rồi
+// deploy lại cả rules lẫn hosting.
+service cloud.firestore {
+  match /databases/{database}/documents {
+    function allowedUids() {
+      return [
+        "0YnsPUdSu2UyLVlDhK8p05EENOn2", // chủ tài khoản 1
+        "AyIjxlGT7UhsNa0gmfIXtX93VuO2"  // chủ tài khoản 2
+      ];
+    }
+
+    function isOwner(uid) {
+      return request.auth != null
+        && request.auth.uid == uid
+        && request.auth.uid in allowedUids();
+    }
+
+    // Doc tiến độ chính: khoá danh sách field + chặn giá trị vô lý. Chủ tài khoản là người
+    // dùng tin cậy, nhưng nếu tài khoản Google bị chiếm thì đây là lớp chặn "bơm rác 1MB/doc"
+    // làm hỏng vĩnh viễn đồng bộ của chính người đó.
+    match /users/{uid} {
+      allow read, delete: if isOwner(uid);
+      allow create, update: if isOwner(uid)
+        && request.resource.data.keys().hasOnly([
+             "daily", "reads", "xp", "notes", "phonics", "grammar", "storyPos",
+             "freeze", "reviewChunks", "updatedAt", "config", "configUpdatedAt"
+           ])
+        && request.resource.data.xp is number
+        && request.resource.data.xp >= 0
+        && request.resource.data.updatedAt is string
+        && request.resource.data.reviewChunks is number
+        && request.resource.data.reviewChunks <= 100; // ~150k thẻ — xa hơn bộ từ 12,6k rất nhiều
+    }
+
+    // Chunk thẻ ôn: mỗi doc chỉ được có field `items` là mảng (delete để dọn chunk thừa).
+    match /users/{uid}/reviews/{chunk} {
+      allow read, delete: if isOwner(uid);
+      allow create, update: if isOwner(uid)
+        && request.resource.data.keys().hasOnly(["items"])
+        && request.resource.data.items is list;
+    }
+    // Mọi thứ khác: cấm.
+    match /{document=**} {
+      allow read, write: if false;
+    }
+  }
+}

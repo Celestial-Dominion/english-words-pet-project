@@ -1,0 +1,93 @@
+[
+ {
+  "id": "wiki-bytecode",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Bytecode",
+  "title_en": "Bytecode",
+  "sentences": [
+   "Bytecode, also termed portable code or p-code, is a form of instruction set designed for efficient execution by a software interpreter.",
+   "Unlike human-readable source code, bytecodes are compact numeric codes, constants, and references (normally numeric addresses) that encode the result of compiler parsing and performing semantic analysis of things like type, scope, and nesting depths of program objects.",
+   "The name bytecode stems from instruction sets that have one-byte opcodes followed by optional parameters.",
+   "Intermediate representations such as bytecode may be output by programming language implementations to ease interpretation, or it may be used to reduce hardware and operating system dependence by allowing the same code to run cross-platform, on different devices.",
+   "Bytecode may often be either directly executed on a virtual machine (a p-code machine i.e., interpreter), or it may be further compiled into machine code for better performance.",
+   "Since bytecode instructions are processed by software, they may be arbitrarily complex, but are nonetheless often akin to traditional hardware instructions: virtual stack machines are the most common, but virtual register machines have been built also.",
+   "Different parts may often be stored in separate files, similar to object modules, but dynamically loaded during execution."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-lga-1700",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/LGA_1700",
+  "title_en": "LGA 1700",
+  "sentences": [
+   "LGA 1700 is a central processing unit (CPU) socket developed by Intel.",
+   "The socket provides the connection between a microprocessor and a printed circuit board.",
+   "This means the CPU can placed or changed easily without soldering.",
+   "The LGA 1700 socket was launched in November 2021.",
+   "It is was designed to be used with Intel's Alder Lake and Raptor Lake processors.",
+   "This socket has a new design that combines two types of processing cores: Performance-cores (P-cores) made for high performance, and Efficient-cores (E-cores) for energy efficiency.",
+   "This allows the processors to handle a wider range of tasks, for both gamers and productivity users.",
+   "The LGA 1700 supports greater bandwidth and improved data transfer rates than earlier models.",
+   "These are needed for gaming, content creation, and heavy multitasking.",
+   "LGA 1700 had a larger socket size than the older LGA 1200, and different mounting points for CPU coolers.",
+   "Manufacturers had to design new cooling systems to work with the socket."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-xsp-software",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/XSP_(software)",
+  "title_en": "XSP (software)",
+  "sentences": [
+   "XSP is a simple, standalone web server written in C#.",
+   "It hosts ASP.NET's System for Linux and other Unix operating systems.",
+   "As well as running on the mono runtime for Linux it also runs on the .NET runtime.",
+   "This makes it usable as a light weight web server on any .NET supporting platform.",
+   "XSP was originally the name of the internal project at Microsoft that became ASP.NET.",
+   "The name is a homage to the original name of what became ASP.NET XSP is also a term for the eXtensible Server Pages technology in Apache Cocoon."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-no-ai-label",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/No-AI_label",
+  "title_en": "No-AI label",
+  "sentences": [
+   "A no-AI label is a label used for some things not made using generative AI.",
+   "Some use phrases, such as \"human-made\", \"proudly human\" and \"AI-free\".",
+   "Some labels cost nothing to use, while some cost money.",
+   "They can be useful when people do not want products to be made using generative AI.",
+   "No-AI labels have been compared to labels for organic produce or fair trade.",
+   "Some organisations want a unified standard to help consumers know what \"AI free\" means.",
+   "\"Made by AI\" labels also exist."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-skyos",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/SkyOS",
+  "title_en": "SkyOS",
+  "sentences": [
+   "SkyOS is a discontinued prototype operating system.",
+   "SkyOS is mostly POSIX-compliant.",
+   "It comes with the core of the open source GNU tools, including GCC.",
+   "Many Linux or other UNIX programs, like AbiWord and Gaim, run on SkyOS thanks to its POSIX compliance and GTK+ support.",
+   "Some games, like Quake, have also been ported.",
+   "Development started in 1996.",
+   "Its first version was released in December 1997.",
+   "Up until version 4.x the OS was free.",
+   "After 2003, SkyOS's beta version cost $30.",
+   "It was made by Robert Szeleney."
+  ],
+  "topic": "it"
+ }
+]

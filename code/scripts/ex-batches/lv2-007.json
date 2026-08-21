@@ -1,0 +1,843 @@
+[
+ {
+  "id": "lighting",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ánh sáng; hệ thống chiếu sáng; sự thắp sáng",
+  "coll": [
+   "stage lighting",
+   "natural lighting",
+   "lighting effects",
+   "dim lighting",
+   "street lighting"
+  ]
+ },
+ {
+  "id": "polish",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đánh bóng; xi đánh bóng; sự trau chuốt",
+  "coll": [
+   "nail polish",
+   "shoe polish",
+   "polish the furniture",
+   "polish your skills"
+  ]
+ },
+ {
+  "id": "timing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thời điểm; sự chọn đúng lúc; việc căn giờ",
+  "coll": [
+   "perfect timing",
+   "bad timing",
+   "the timing of the announcement",
+   "sense of timing"
+  ]
+ },
+ {
+  "id": "ton",
+  "pos": [
+   "n"
+  ],
+  "vi": "tấn; vô số; rất nhiều",
+  "coll": [
+   "a ton of work",
+   "metric ton",
+   "tons of people",
+   "weigh a ton"
+  ]
+ },
+ {
+  "id": "worship",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự thờ phụng; thờ cúng; tôn sùng",
+  "coll": [
+   "place of worship",
+   "freedom of worship",
+   "worship God",
+   "hero worship"
+  ]
+ },
+ {
+  "id": "bloody",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "vi": "đẫm máu; chết tiệt; cực kỳ",
+  "coll": [
+   "bloody nose",
+   "bloody battle",
+   "bloody hell",
+   "bloody good"
+  ]
+ },
+ {
+  "id": "crucial",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cốt yếu; then chốt; mang tính quyết định",
+  "coll": [
+   "crucial role",
+   "crucial moment",
+   "crucial decision",
+   "absolutely crucial"
+  ]
+ },
+ {
+  "id": "intent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ý định; chủ ý; chăm chú",
+  "coll": [
+   "criminal intent",
+   "with intent to kill",
+   "letter of intent",
+   "intent on winning"
+  ]
+ },
+ {
+  "id": "mature",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "trưởng thành; chín chắn; chín muồi",
+  "coll": [
+   "mature adult",
+   "emotionally mature",
+   "mature cheese",
+   "mature student"
+  ]
+ },
+ {
+  "id": "native speaker",
+  "pos": [
+   "n"
+  ],
+  "vi": "người bản ngữ",
+  "coll": [
+   "a native speaker of English",
+   "sound like a native speaker",
+   "learn from a native speaker",
+   "native speaker teacher"
+  ]
+ },
+ {
+  "id": "prevention",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phòng ngừa; sự ngăn chặn",
+  "coll": [
+   "crime prevention",
+   "fire prevention",
+   "disease prevention",
+   "prevention is better than cure"
+  ]
+ },
+ {
+  "id": "revenge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự trả thù; báo thù",
+  "coll": [
+   "take revenge",
+   "seek revenge",
+   "revenge attack",
+   "out of revenge"
+  ]
+ },
+ {
+  "id": "spare",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "dự phòng; rảnh rỗi; dành ra; tha cho",
+  "coll": [
+   "spare time",
+   "spare parts",
+   "spare room",
+   "spare me the details",
+   "spare a minute"
+  ]
+ },
+ {
+  "id": "submit",
+  "pos": [
+   "v"
+  ],
+  "vi": "nộp; gửi lên; khuất phục",
+  "coll": [
+   "submit an application",
+   "submit a report",
+   "submit your work",
+   "submit to authority"
+  ]
+ },
+ {
+  "id": "copper",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "đồng (kim loại); màu đồng; cớm (cảnh sát)",
+  "coll": [
+   "copper wire",
+   "copper pipe",
+   "copper coloured",
+   "copper mine"
+  ]
+ },
+ {
+  "id": "dawn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bình minh; rạng đông; hé rạng",
+  "coll": [
+   "at dawn",
+   "the dawn of a new era",
+   "dawn breaks",
+   "from dawn till dusk",
+   "it dawned on me"
+  ]
+ },
+ {
+  "id": "dispute",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tranh chấp; tranh cãi; phản bác",
+  "coll": [
+   "legal dispute",
+   "settle a dispute",
+   "border dispute",
+   "dispute the claim",
+   "in dispute"
+  ]
+ },
+ {
+  "id": "earnings",
+  "pos": [
+   "n"
+  ],
+  "vi": "thu nhập; tiền kiếm được; lợi nhuận",
+  "coll": [
+   "annual earnings",
+   "average earnings",
+   "earnings growth",
+   "loss of earnings"
+  ]
+ },
+ {
+  "id": "hilarious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cực buồn cười; hài hước; vui nhộn",
+  "coll": [
+   "absolutely hilarious",
+   "a hilarious story",
+   "find it hilarious",
+   "hilarious joke"
+  ]
+ },
+ {
+  "id": "margin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lề (trang giấy); biên độ; lợi nhuận biên",
+  "coll": [
+   "profit margin",
+   "narrow margin",
+   "in the margin",
+   "margin of error",
+   "win by a margin"
+  ]
+ },
+ {
+  "id": "stroke",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đột quỵ; cú đánh; vuốt ve; nét bút",
+  "coll": [
+   "have a stroke",
+   "stroke of luck",
+   "stroke the cat",
+   "swimming stroke",
+   "brush stroke"
+  ]
+ },
+ {
+  "id": "utility",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "tiện ích; dịch vụ công ích; tính hữu dụng",
+  "coll": [
+   "public utility",
+   "utility bills",
+   "utility company",
+   "utility room"
+  ]
+ },
+ {
+  "id": "weed",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cỏ dại; nhổ cỏ; cần sa",
+  "coll": [
+   "pull up weeds",
+   "weed killer",
+   "weed the garden",
+   "smoke weed",
+   "weed out"
+  ]
+ },
+ {
+  "id": "acquisition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mua lại; việc tiếp thu; sự thu nhận",
+  "coll": [
+   "language acquisition",
+   "mergers and acquisitions",
+   "data acquisition",
+   "recent acquisition"
+  ]
+ },
+ {
+  "id": "controversy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tranh cãi; cuộc tranh luận",
+  "coll": [
+   "cause controversy",
+   "spark controversy",
+   "surrounded by controversy",
+   "public controversy"
+  ]
+ },
+ {
+  "id": "fiscal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tài khóa; thuộc tài chính; ngân sách",
+  "coll": [
+   "fiscal year",
+   "fiscal policy",
+   "fiscal deficit",
+   "fiscal responsibility"
+  ]
+ },
+ {
+  "id": "offense",
+  "pos": [
+   "n"
+  ],
+  "vi": "hành vi phạm tội; sự xúc phạm; đợt tấn công",
+  "coll": [
+   "criminal offense",
+   "take offense",
+   "no offense",
+   "minor offense",
+   "first offense"
+  ]
+ },
+ {
+  "id": "rip",
+  "pos": [
+   "v",
+   "n",
+   "intj"
+  ],
+  "vi": "xé; xé rách; vết rách",
+  "coll": [
+   "rip the paper",
+   "rip it open",
+   "rip off",
+   "rip apart",
+   "let it rip"
+  ]
+ },
+ {
+  "id": "segment",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phân khúc; đoạn; phân đoạn",
+  "coll": [
+   "market segment",
+   "a segment of the population",
+   "segment the market",
+   "a segment of orange"
+  ]
+ },
+ {
+  "id": "venture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dự án mạo hiểm; sự mạo hiểm; liều bước",
+  "coll": [
+   "joint venture",
+   "business venture",
+   "venture capital",
+   "venture out",
+   "new venture"
+  ]
+ },
+ {
+  "id": "virtually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hầu như; gần như; qua mạng",
+  "coll": [
+   "virtually impossible",
+   "virtually identical",
+   "virtually every",
+   "meet virtually"
+  ]
+ },
+ {
+  "id": "conventional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thông thường; truyền thống; theo lối cũ",
+  "coll": [
+   "conventional wisdom",
+   "conventional methods",
+   "conventional weapons",
+   "conventional medicine"
+  ]
+ },
+ {
+  "id": "inspector",
+  "pos": [
+   "n"
+  ],
+  "vi": "thanh tra; người kiểm tra; thanh tra viên",
+  "coll": [
+   "health inspector",
+   "police inspector",
+   "school inspector",
+   "building inspector"
+  ]
+ },
+ {
+  "id": "mercy",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "lòng thương xót; sự khoan dung; sự tha thứ",
+  "coll": [
+   "show mercy",
+   "beg for mercy",
+   "at the mercy of",
+   "have mercy on"
+  ]
+ },
+ {
+  "id": "racism",
+  "pos": [
+   "n"
+  ],
+  "vi": "phân biệt chủng tộc; nạn kỳ thị chủng tộc",
+  "coll": [
+   "fight racism",
+   "institutional racism",
+   "victim of racism",
+   "casual racism"
+  ]
+ },
+ {
+  "id": "venue",
+  "pos": [
+   "n"
+  ],
+  "vi": "địa điểm tổ chức; nơi diễn ra",
+  "coll": [
+   "concert venue",
+   "wedding venue",
+   "change of venue",
+   "sports venue"
+  ]
+ },
+ {
+  "id": "conversion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chuyển đổi; việc quy đổi; sự cải đạo",
+  "coll": [
+   "currency conversion",
+   "data conversion",
+   "conversion rate",
+   "religious conversion"
+  ]
+ },
+ {
+  "id": "exclusively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chỉ riêng; độc quyền; hoàn toàn chỉ",
+  "coll": [
+   "available exclusively",
+   "exclusively for members",
+   "focus exclusively on",
+   "exclusively online"
+  ]
+ },
+ {
+  "id": "export",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "xuất khẩu; hàng xuất khẩu",
+  "coll": [
+   "export goods",
+   "export market",
+   "oil exports",
+   "export licence"
+  ]
+ },
+ {
+  "id": "formerly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trước đây; trước kia",
+  "coll": [
+   "formerly known as",
+   "formerly called",
+   "formerly the capital",
+   "formerly owned by"
+  ]
+ },
+ {
+  "id": "functional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hoạt động tốt; có chức năng; thiết thực",
+  "coll": [
+   "fully functional",
+   "functional design",
+   "functional requirements",
+   "functional skills"
+  ]
+ },
+ {
+  "id": "mama",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "vi": "mẹ; má",
+  "coll": [
+   "mama bear",
+   "mama's boy",
+   "big mama",
+   "yes, mama"
+  ]
+ },
+ {
+  "id": "naval",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc hải quân; về hàng hải",
+  "coll": [
+   "naval base",
+   "naval officer",
+   "naval battle",
+   "naval forces"
+  ]
+ },
+ {
+  "id": "noble",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cao quý; quý tộc; nhà quý tộc",
+  "coll": [
+   "noble cause",
+   "noble family",
+   "noble gas",
+   "a noble gesture"
+  ]
+ },
+ {
+  "id": "popularity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nổi tiếng; mức độ được ưa chuộng",
+  "coll": [
+   "gain popularity",
+   "grow in popularity",
+   "popularity contest",
+   "decline in popularity"
+  ]
+ },
+ {
+  "id": "toxic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "độc hại; có độc; tiêu cực (quan hệ)",
+  "coll": [
+   "toxic chemicals",
+   "toxic waste",
+   "toxic relationship",
+   "highly toxic",
+   "toxic fumes"
+  ]
+ },
+ {
+  "id": "tunnel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đường hầm; hầm; đào hầm",
+  "coll": [
+   "railway tunnel",
+   "dig a tunnel",
+   "tunnel vision",
+   "wind tunnel",
+   "through the tunnel"
+  ]
+ },
+ {
+  "id": "upgrade",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "nâng cấp; sự nâng cấp",
+  "coll": [
+   "upgrade your phone",
+   "software upgrade",
+   "free upgrade",
+   "upgrade to business class"
+  ]
+ },
+ {
+  "id": "actively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách tích cực; chủ động",
+  "coll": [
+   "actively involved",
+   "actively seeking",
+   "actively participate",
+   "actively encourage"
+  ]
+ },
+ {
+  "id": "coalition",
+  "pos": [
+   "n"
+  ],
+  "vi": "liên minh; liên hiệp",
+  "coll": [
+   "form a coalition",
+   "coalition government",
+   "broad coalition",
+   "coalition forces"
+  ]
+ },
+ {
+  "id": "discipline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kỷ luật; sự rèn luyện; ngành học; xử phạt",
+  "coll": [
+   "self-discipline",
+   "strict discipline",
+   "academic discipline",
+   "discipline the children",
+   "military discipline"
+  ]
+ },
+ {
+  "id": "instantly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngay lập tức; tức thì",
+  "coll": [
+   "instantly recognisable",
+   "die instantly",
+   "instantly available",
+   "instantly regret"
+  ]
+ },
+ {
+  "id": "laptop",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "máy tính xách tay",
+  "coll": [
+   "open the laptop",
+   "laptop computer",
+   "laptop screen",
+   "gaming laptop"
+  ]
+ },
+ {
+  "id": "legendary",
+  "pos": [
+   "adj"
+  ],
+  "vi": "huyền thoại; lừng danh; trong truyền thuyết",
+  "coll": [
+   "legendary singer",
+   "legendary status",
+   "become legendary",
+   "legendary hero"
+  ]
+ },
+ {
+  "id": "recipe",
+  "pos": [
+   "n"
+  ],
+  "vi": "công thức nấu ăn; bí quyết",
+  "coll": [
+   "follow a recipe",
+   "secret recipe",
+   "recipe book",
+   "a recipe for disaster"
+  ]
+ },
+ {
+  "id": "serial",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "hàng loạt; nối tiếp; phim nhiều tập",
+  "coll": [
+   "serial killer",
+   "serial number",
+   "TV serial",
+   "serial port"
+  ]
+ },
+ {
+  "id": "shed",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà kho nhỏ; rụng; trút bỏ; đổ (lệ, máu)",
+  "coll": [
+   "garden shed",
+   "shed light on",
+   "shed tears",
+   "shed weight",
+   "shed leaves"
+  ]
+ },
+ {
+  "id": "substance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chất; chất liệu; nội dung thực chất",
+  "coll": [
+   "chemical substance",
+   "toxic substance",
+   "substance abuse",
+   "lack substance",
+   "in substance"
+  ]
+ },
+ {
+  "id": "affordable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giá phải chăng; vừa túi tiền",
+  "coll": [
+   "affordable housing",
+   "affordable price",
+   "affordable care",
+   "more affordable"
+  ]
+ },
+ {
+  "id": "bearing",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sự liên quan; ảnh hưởng; phong thái; ổ bi",
+  "coll": [
+   "have a bearing on",
+   "lose your bearings",
+   "ball bearing",
+   "dignified bearing"
+  ]
+ }
+]

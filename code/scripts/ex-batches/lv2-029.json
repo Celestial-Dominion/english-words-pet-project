@@ -1,0 +1,815 @@
+[
+ {
+  "id": "soar",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bay vút lên; tăng vọt; bay lượn",
+  "coll": [
+   "prices soar",
+   "soar to new heights",
+   "soar into the sky",
+   "temperatures soar"
+  ]
+ },
+ {
+  "id": "thinker",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà tư tưởng; người hay suy ngẫm",
+  "coll": [
+   "a great thinker",
+   "an original thinker",
+   "a free thinker",
+   "a deep thinker"
+  ]
+ },
+ {
+  "id": "troublesome",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gây rắc rối; phiền toái, khó chịu",
+  "coll": [
+   "a troublesome issue",
+   "a troublesome knee",
+   "prove troublesome",
+   "troublesome neighbours"
+  ]
+ },
+ {
+  "id": "vanish",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "biến mất; tan biến, mất hút",
+  "coll": [
+   "vanish without a trace",
+   "vanish into thin air",
+   "suddenly vanish",
+   "vanish from sight"
+  ]
+ },
+ {
+  "id": "vigorously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "mạnh mẽ; hăng hái, quyết liệt",
+  "coll": [
+   "vigorously deny",
+   "shake vigorously",
+   "vigorously defend",
+   "vigorously oppose"
+  ]
+ },
+ {
+  "id": "visibly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thấy rõ; một cách rõ ràng",
+  "coll": [
+   "visibly shaken",
+   "visibly upset",
+   "visibly nervous",
+   "visibly relieved"
+  ]
+ },
+ {
+  "id": "adversity",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghịch cảnh; hoàn cảnh khó khăn",
+  "coll": [
+   "face adversity",
+   "in the face of adversity",
+   "overcome adversity",
+   "triumph over adversity"
+  ]
+ },
+ {
+  "id": "authorize",
+  "pos": [
+   "v"
+  ],
+  "vi": "cho phép; ủy quyền, phê chuẩn",
+  "coll": [
+   "authorize a payment",
+   "authorize the use of",
+   "duly authorized",
+   "authorize an investigation"
+  ]
+ },
+ {
+  "id": "botany",
+  "pos": [
+   "n"
+  ],
+  "vi": "thực vật học",
+  "coll": [
+   "study botany",
+   "a professor of botany",
+   "economic botany",
+   "the botany of the region"
+  ]
+ },
+ {
+  "id": "compile",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "biên soạn; tổng hợp, tập hợp; biên dịch mã",
+  "coll": [
+   "compile a list",
+   "compile data",
+   "compile a report",
+   "compile the source code"
+  ]
+ },
+ {
+  "id": "deceive",
+  "pos": [
+   "v"
+  ],
+  "vi": "lừa dối; đánh lừa, gạt",
+  "coll": [
+   "deceive someone",
+   "deceive yourself",
+   "deliberately deceive",
+   "be deceived by appearances"
+  ]
+ },
+ {
+  "id": "disciple",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "môn đồ, đệ tử; người theo học",
+  "coll": [
+   "a loyal disciple",
+   "the twelve disciples",
+   "a disciple of Freud",
+   "gather disciples"
+  ]
+ },
+ {
+  "id": "elemental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cơ bản, cốt lõi; thuộc nguyên tố; nguyên sơ, hoang dã",
+  "coll": [
+   "elemental forces",
+   "elemental power",
+   "elemental sulfur",
+   "an elemental need"
+  ]
+ },
+ {
+  "id": "guerrilla",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "du kích; quân du kích",
+  "coll": [
+   "guerrilla warfare",
+   "guerrilla fighters",
+   "a guerrilla group",
+   "guerrilla marketing"
+  ]
+ },
+ {
+  "id": "impartial",
+  "pos": [
+   "adj"
+  ],
+  "vi": "công bằng, vô tư; khách quan",
+  "coll": [
+   "an impartial observer",
+   "impartial advice",
+   "remain impartial",
+   "a fair and impartial trial"
+  ]
+ },
+ {
+  "id": "inquire",
+  "pos": [
+   "v"
+  ],
+  "vi": "hỏi, hỏi thăm; tìm hiểu, điều tra",
+  "coll": [
+   "inquire about",
+   "inquire into the matter",
+   "politely inquire",
+   "inquire within"
+  ]
+ },
+ {
+  "id": "misfortune",
+  "pos": [
+   "n"
+  ],
+  "vi": "điều bất hạnh; vận rủi, tai họa",
+  "coll": [
+   "suffer misfortune",
+   "have the misfortune to",
+   "a series of misfortunes",
+   "great misfortune"
+  ]
+ },
+ {
+  "id": "ambiguity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mơ hồ; sự nhập nhằng, đa nghĩa",
+  "coll": [
+   "a degree of ambiguity",
+   "avoid ambiguity",
+   "moral ambiguity",
+   "remove the ambiguity"
+  ]
+ },
+ {
+  "id": "anguish",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nỗi đau đớn tột cùng; sự thống khổ",
+  "coll": [
+   "mental anguish",
+   "in anguish",
+   "cry out in anguish",
+   "suffer great anguish"
+  ]
+ },
+ {
+  "id": "birthplace",
+  "pos": [
+   "n"
+  ],
+  "vi": "nơi sinh; quê hương; cái nôi ra đời",
+  "coll": [
+   "his birthplace",
+   "the birthplace of jazz",
+   "return to one's birthplace",
+   "the birthplace of democracy"
+  ]
+ },
+ {
+  "id": "brochure",
+  "pos": [
+   "n"
+  ],
+  "vi": "tờ rơi quảng cáo; cuốn giới thiệu",
+  "coll": [
+   "a travel brochure",
+   "a glossy brochure",
+   "request a brochure",
+   "a company brochure"
+  ]
+ },
+ {
+  "id": "ecstatic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vui sướng tột độ; ngây ngất, hân hoan",
+  "coll": [
+   "an ecstatic welcome",
+   "absolutely ecstatic",
+   "ecstatic fans",
+   "an ecstatic reaction"
+  ]
+ },
+ {
+  "id": "eyebrow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lông mày",
+  "coll": [
+   "raise an eyebrow",
+   "thick eyebrows",
+   "pluck your eyebrows",
+   "an eyebrow pencil"
+  ]
+ },
+ {
+  "id": "haste",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự vội vàng; sự hấp tấp",
+  "coll": [
+   "in haste",
+   "make haste",
+   "undue haste",
+   "haste makes waste"
+  ]
+ },
+ {
+  "id": "interpersonal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giữa người với người; thuộc quan hệ cá nhân",
+  "coll": [
+   "interpersonal skills",
+   "interpersonal relationships",
+   "interpersonal communication",
+   "interpersonal conflict"
+  ]
+ },
+ {
+  "id": "intruder",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ đột nhập; người xâm nhập trái phép",
+  "coll": [
+   "an armed intruder",
+   "catch an intruder",
+   "an intruder alarm",
+   "scare off the intruder"
+  ]
+ },
+ {
+  "id": "microscopic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cực nhỏ; nhỏ li ti; thuộc kính hiển vi",
+  "coll": [
+   "microscopic organisms",
+   "microscopic detail",
+   "microscopic examination",
+   "microscopic particles"
+  ]
+ },
+ {
+  "id": "originate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "bắt nguồn; khởi nguồn từ; khởi xướng",
+  "coll": [
+   "originate from",
+   "originate in China",
+   "originate with",
+   "the idea originated"
+  ]
+ },
+ {
+  "id": "predictive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mang tính dự đoán; dùng để dự báo",
+  "coll": [
+   "predictive text",
+   "predictive analytics",
+   "predictive value",
+   "a predictive model"
+  ]
+ },
+ {
+  "id": "relic",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "di vật; tàn tích, dấu tích; thánh tích",
+  "coll": [
+   "an ancient relic",
+   "a relic of the past",
+   "sacred relics",
+   "a historical relic"
+  ]
+ },
+ {
+  "id": "retard",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm chậm lại; kìm hãm sự phát triển",
+  "coll": [
+   "retard growth",
+   "retard progress",
+   "retard the process",
+   "severely retard"
+  ]
+ },
+ {
+  "id": "sanitary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hợp vệ sinh; thuộc vệ sinh",
+  "coll": [
+   "sanitary conditions",
+   "sanitary facilities",
+   "a sanitary towel",
+   "poor sanitary standards"
+  ]
+ },
+ {
+  "id": "setback",
+  "pos": [
+   "n"
+  ],
+  "vi": "trở ngại; bước lùi, thất bại tạm thời",
+  "coll": [
+   "suffer a setback",
+   "a major setback",
+   "a serious setback",
+   "a temporary setback"
+  ]
+ },
+ {
+  "id": "tack",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đinh mũ bẹt; ghim, đính tạm; đổi hướng, hướng tiếp cận",
+  "coll": [
+   "a thumb tack",
+   "tack a notice to the wall",
+   "change tack",
+   "try a different tack"
+  ]
+ },
+ {
+  "id": "transient",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thoáng qua; tạm thời, ngắn ngủi",
+  "coll": [
+   "a transient population",
+   "transient symptoms",
+   "a transient phase",
+   "transient and fleeting"
+  ]
+ },
+ {
+  "id": "ammonia",
+  "pos": [
+   "n"
+  ],
+  "vi": "khí amoniac; dung dịch amoniac",
+  "coll": [
+   "the smell of ammonia",
+   "liquid ammonia",
+   "ammonia gas",
+   "household ammonia"
+  ]
+ },
+ {
+  "id": "decorate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "trang trí; trang hoàng; trao huân chương",
+  "coll": [
+   "decorate the room",
+   "decorate a cake",
+   "decorate for Christmas",
+   "be decorated for bravery"
+  ]
+ },
+ {
+  "id": "discredit",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm mất uy tín; làm mất tin cậy; sự ô danh",
+  "coll": [
+   "discredit a witness",
+   "discredit the theory",
+   "attempt to discredit",
+   "bring discredit on"
+  ]
+ },
+ {
+  "id": "glare",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "ánh sáng chói; trừng mắt nhìn; cái nhìn giận dữ",
+  "coll": [
+   "the glare of the sun",
+   "give someone a glare",
+   "glare at someone",
+   "the glare of publicity"
+  ]
+ },
+ {
+  "id": "infect",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "lây nhiễm; làm nhiễm bệnh; lan truyền cảm xúc",
+  "coll": [
+   "infect others",
+   "become infected",
+   "infect a computer",
+   "infect the wound"
+  ]
+ },
+ {
+  "id": "interruption",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự gián đoạn; sự ngắt lời",
+  "coll": [
+   "a constant interruption",
+   "without interruption",
+   "an interruption to the service",
+   "apologize for the interruption"
+  ]
+ },
+ {
+  "id": "itch",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "ngứa; cơn ngứa; khao khát, thèm muốn",
+  "coll": [
+   "scratch an itch",
+   "an itch to travel",
+   "my back itches",
+   "a persistent itch"
+  ]
+ },
+ {
+  "id": "modernization",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hiện đại hóa",
+  "coll": [
+   "economic modernization",
+   "the modernization of industry",
+   "a modernization programme",
+   "undergo modernization"
+  ]
+ },
+ {
+  "id": "plumber",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thợ sửa ống nước; thợ ống nước",
+  "coll": [
+   "call a plumber",
+   "a qualified plumber",
+   "the plumber fixed the leak",
+   "a local plumber"
+  ]
+ },
+ {
+  "id": "rebellious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nổi loạn; ngang bướng, chống đối",
+  "coll": [
+   "a rebellious teenager",
+   "a rebellious streak",
+   "rebellious behaviour",
+   "feel rebellious"
+  ]
+ },
+ {
+  "id": "tyrant",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "bạo chúa; kẻ độc tài, kẻ tàn bạo",
+  "coll": [
+   "a brutal tyrant",
+   "overthrow a tyrant",
+   "a petty tyrant",
+   "rule as a tyrant"
+  ]
+ },
+ {
+  "id": "unattractive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không hấp dẫn; kém thu hút, khó ưa",
+  "coll": [
+   "an unattractive option",
+   "physically unattractive",
+   "look unattractive",
+   "an unattractive prospect"
+  ]
+ },
+ {
+  "id": "affectionate",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "trìu mến; âu yếm, tình cảm",
+  "coll": [
+   "an affectionate hug",
+   "warm and affectionate",
+   "an affectionate nickname",
+   "affectionate towards children"
+  ]
+ },
+ {
+  "id": "clerical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc hành chính văn phòng; thuộc giới tăng lữ",
+  "coll": [
+   "clerical work",
+   "a clerical error",
+   "clerical staff",
+   "clerical duties"
+  ]
+ },
+ {
+  "id": "contradict",
+  "pos": [
+   "v"
+  ],
+  "vi": "phản bác; nói ngược lại; mâu thuẫn với",
+  "coll": [
+   "contradict yourself",
+   "contradict the evidence",
+   "flatly contradict",
+   "don't contradict me"
+  ]
+ },
+ {
+  "id": "improperly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "không đúng cách; không thích hợp",
+  "coll": [
+   "improperly installed",
+   "act improperly",
+   "improperly used",
+   "behave improperly"
+  ]
+ },
+ {
+  "id": "lighten",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm sáng lên; làm nhẹ bớt; dịu đi",
+  "coll": [
+   "lighten the load",
+   "lighten the mood",
+   "lighten up",
+   "lighten the colour"
+  ]
+ },
+ {
+  "id": "pancake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bánh kếp; bánh rán mỏng",
+  "coll": [
+   "make pancakes",
+   "a pancake recipe",
+   "as flat as a pancake",
+   "Pancake Day"
+  ]
+ },
+ {
+  "id": "ponder",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "suy ngẫm; cân nhắc kỹ",
+  "coll": [
+   "ponder the question",
+   "ponder over",
+   "ponder deeply",
+   "stop and ponder"
+  ]
+ },
+ {
+  "id": "psychologically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt tâm lý; theo hướng tâm lý",
+  "coll": [
+   "psychologically damaging",
+   "psychologically prepared",
+   "psychologically stable",
+   "psychologically speaking"
+  ]
+ },
+ {
+  "id": "rattle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kêu lạch cạch; làm hoảng hốt; cái lúc lắc",
+  "coll": [
+   "rattle the windows",
+   "a baby's rattle",
+   "rattle off a list",
+   "get rattled"
+  ]
+ },
+ {
+  "id": "wasp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ong bắp cày; ong vò vẽ",
+  "coll": [
+   "a wasp sting",
+   "a wasp nest",
+   "stung by a wasp",
+   "a swarm of wasps"
+  ]
+ },
+ {
+  "id": "benevolent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nhân từ; nhân hậu, từ thiện",
+  "coll": [
+   "a benevolent dictator",
+   "a benevolent smile",
+   "a benevolent fund",
+   "benevolent and kind"
+  ]
+ },
+ {
+  "id": "bestseller",
+  "pos": [
+   "n"
+  ],
+  "vi": "sách bán chạy nhất; sản phẩm bán chạy",
+  "coll": [
+   "an international bestseller",
+   "become a bestseller",
+   "a runaway bestseller",
+   "top the bestseller list"
+  ]
+ },
+ {
+  "id": "deceptive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đánh lừa; dễ gây hiểu nhầm, gian dối",
+  "coll": [
+   "appearances can be deceptive",
+   "deceptive advertising",
+   "deceptive practices",
+   "a deceptive appearance"
+  ]
+ }
+]

@@ -1,0 +1,815 @@
+[
+ {
+  "id": "avocado",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "quả bơ; cây bơ",
+  "coll": [
+   "ripe avocado",
+   "avocado toast",
+   "mashed avocado",
+   "an avocado tree"
+  ]
+ },
+ {
+  "id": "grooming",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "việc chải chuốt; chăm sóc lông thú; sự dụ dỗ trẻ",
+  "coll": [
+   "personal grooming",
+   "dog grooming",
+   "grooming products",
+   "child grooming"
+  ]
+ },
+ {
+  "id": "brat",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "nhóc hư; đứa trẻ hư đốn",
+  "coll": [
+   "a spoiled brat",
+   "a little brat",
+   "an army brat",
+   "act like a brat"
+  ]
+ },
+ {
+  "id": "nipple",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "núm vú; đầu vú bình sữa",
+  "coll": [
+   "a bottle nipple",
+   "sore nipples",
+   "a grease nipple",
+   "nipple piercing"
+  ]
+ },
+ {
+  "id": "glitch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trục trặc nhỏ; lỗi vặt",
+  "coll": [
+   "a technical glitch",
+   "a software glitch",
+   "a minor glitch",
+   "fix a glitch"
+  ]
+ },
+ {
+  "id": "atheism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa vô thần; thuyết vô thần",
+  "coll": [
+   "militant atheism",
+   "practise atheism",
+   "the rise of atheism",
+   "atheism and agnosticism"
+  ]
+ },
+ {
+  "id": "beep",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiếng bíp; kêu bíp, bấm còi",
+  "coll": [
+   "a loud beep",
+   "beep the horn",
+   "after the beep",
+   "a warning beep"
+  ]
+ },
+ {
+  "id": "blatant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trắng trợn; lộ liễu",
+  "coll": [
+   "a blatant lie",
+   "a blatant disregard",
+   "blatantly obvious",
+   "a blatant violation"
+  ]
+ },
+ {
+  "id": "heed",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "để tâm, lưu ý; sự chú ý",
+  "coll": [
+   "take heed of",
+   "pay heed to",
+   "heed the warning",
+   "heed my advice"
+  ]
+ },
+ {
+  "id": "slayer",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ giết; người tiêu diệt",
+  "coll": [
+   "a dragon slayer",
+   "a vampire slayer",
+   "a giant slayer",
+   "the slayer of the beast"
+  ]
+ },
+ {
+  "id": "tentative",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "tạm thời, chưa chắc chắn; ngập ngừng, rụt rè",
+  "coll": [
+   "a tentative agreement",
+   "a tentative date",
+   "tentative conclusions",
+   "a tentative step"
+  ]
+ },
+ {
+  "id": "stature",
+  "pos": [
+   "n"
+  ],
+  "vi": "tầm vóc, uy tín; chiều cao cơ thể",
+  "coll": [
+   "of international stature",
+   "grow in stature",
+   "a man of great stature",
+   "short in stature"
+  ]
+ },
+ {
+  "id": "synagogue",
+  "pos": [
+   "n"
+  ],
+  "vi": "giáo đường Do Thái; hội đường",
+  "coll": [
+   "attend synagogue",
+   "a local synagogue",
+   "the synagogue congregation",
+   "go to synagogue"
+  ]
+ },
+ {
+  "id": "rendition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bản trình bày, cách thể hiện; sự dẫn độ bí mật",
+  "coll": [
+   "a beautiful rendition",
+   "a moving rendition",
+   "extraordinary rendition",
+   "his rendition of the song"
+  ]
+ },
+ {
+  "id": "audible",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "nghe được; nghe rõ",
+  "coll": [
+   "barely audible",
+   "clearly audible",
+   "an audible sigh",
+   "audible to the ear"
+  ]
+ },
+ {
+  "id": "dorsal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc lưng; ở mặt lưng",
+  "coll": [
+   "a dorsal fin",
+   "the dorsal surface",
+   "dorsal muscles",
+   "dorsal side"
+  ]
+ },
+ {
+  "id": "diabetic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bị tiểu đường; người bệnh tiểu đường",
+  "coll": [
+   "a diabetic patient",
+   "diabetic complications",
+   "a diabetic diet",
+   "become diabetic"
+  ]
+ },
+ {
+  "id": "wavelength",
+  "pos": [
+   "n"
+  ],
+  "vi": "bước sóng; cùng tần số suy nghĩ",
+  "coll": [
+   "on the same wavelength",
+   "a short wavelength",
+   "light wavelength",
+   "wavelength range"
+  ]
+ },
+ {
+  "id": "oppressive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "áp bức, hà khắc; ngột ngạt, nặng nề",
+  "coll": [
+   "an oppressive regime",
+   "oppressive heat",
+   "oppressive laws",
+   "an oppressive atmosphere"
+  ]
+ },
+ {
+  "id": "imaginative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giàu trí tưởng tượng; sáng tạo",
+  "coll": [
+   "highly imaginative",
+   "an imaginative solution",
+   "imaginative writing",
+   "an imaginative child"
+  ]
+ },
+ {
+  "id": "implicit",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ngầm hiểu, hàm ý; tuyệt đối, không nghi ngờ",
+  "coll": [
+   "an implicit assumption",
+   "implicit in the agreement",
+   "implicit trust",
+   "implicit bias"
+  ]
+ },
+ {
+  "id": "variance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khác biệt; phương sai; sự chênh lệch",
+  "coll": [
+   "at variance with",
+   "budget variance",
+   "explain the variance",
+   "statistical variance"
+  ]
+ },
+ {
+  "id": "workload",
+  "pos": [
+   "n"
+  ],
+  "vi": "khối lượng công việc",
+  "coll": [
+   "a heavy workload",
+   "reduce the workload",
+   "manage your workload",
+   "an increased workload"
+  ]
+ },
+ {
+  "id": "genital",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc bộ phận sinh dục",
+  "coll": [
+   "genital area",
+   "genital herpes",
+   "genital organs",
+   "genital mutilation"
+  ]
+ },
+ {
+  "id": "astounding",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gây kinh ngạc; đáng sửng sốt",
+  "coll": [
+   "an astounding success",
+   "astounding results",
+   "absolutely astounding",
+   "an astounding discovery"
+  ]
+ },
+ {
+  "id": "secretariat",
+  "pos": [
+   "n"
+  ],
+  "vi": "ban thư ký; văn phòng thư ký",
+  "coll": [
+   "the UN secretariat",
+   "the general secretariat",
+   "a permanent secretariat",
+   "the secretariat staff"
+  ]
+ },
+ {
+  "id": "cervical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc cổ tử cung; thuộc đốt sống cổ",
+  "coll": [
+   "cervical cancer",
+   "a cervical smear",
+   "the cervical spine",
+   "cervical screening"
+  ]
+ },
+ {
+  "id": "greasy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nhờn, béo ngậy; trơn dầu mỡ",
+  "coll": [
+   "greasy food",
+   "greasy hair",
+   "a greasy spoon",
+   "greasy fingers"
+  ]
+ },
+ {
+  "id": "recap",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tóm tắt lại; bản tóm lược",
+  "coll": [
+   "a quick recap",
+   "let's recap",
+   "to recap briefly",
+   "a recap of the episode"
+  ]
+ },
+ {
+  "id": "stalker",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ theo dõi rình rập; người bám đuôi",
+  "coll": [
+   "an obsessive stalker",
+   "report a stalker",
+   "a celebrity stalker",
+   "an online stalker"
+  ]
+ },
+ {
+  "id": "bitterness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cay đắng; vị đắng",
+  "coll": [
+   "a sense of bitterness",
+   "deep bitterness",
+   "the bitterness of defeat",
+   "bitterness and resentment"
+  ]
+ },
+ {
+  "id": "mayhem",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cảnh hỗn loạn; sự náo loạn",
+  "coll": [
+   "cause mayhem",
+   "total mayhem",
+   "create mayhem",
+   "murder and mayhem"
+  ]
+ },
+ {
+  "id": "hideous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gớm ghiếc; xấu kinh khủng",
+  "coll": [
+   "a hideous crime",
+   "absolutely hideous",
+   "a hideous mistake",
+   "look hideous"
+  ]
+ },
+ {
+  "id": "checklist",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "danh mục kiểm tra; bảng liệt kê việc cần làm",
+  "coll": [
+   "a pre-flight checklist",
+   "go through the checklist",
+   "a safety checklist",
+   "tick off a checklist"
+  ]
+ },
+ {
+  "id": "inlet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cửa vào, đầu nạp; vịnh nhỏ",
+  "coll": [
+   "an air inlet",
+   "a narrow inlet",
+   "the inlet valve",
+   "a coastal inlet"
+  ]
+ },
+ {
+  "id": "depleted",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cạn kiệt; hao hụt",
+  "coll": [
+   "depleted resources",
+   "depleted uranium",
+   "severely depleted",
+   "depleted stocks"
+  ]
+ },
+ {
+  "id": "durability",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ bền; tính bền lâu",
+  "coll": [
+   "improve durability",
+   "long-term durability",
+   "strength and durability",
+   "durability testing"
+  ]
+ },
+ {
+  "id": "topical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thời sự, đang được quan tâm; bôi ngoài da",
+  "coll": [
+   "a topical issue",
+   "topical treatment",
+   "topical application",
+   "highly topical"
+  ]
+ },
+ {
+  "id": "radial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hướng tâm, tỏa tròn; thuộc bán kính",
+  "coll": [
+   "a radial tire",
+   "radial symmetry",
+   "a radial pattern",
+   "radial distance"
+  ]
+ },
+ {
+  "id": "lotion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kem dưỡng dạng lỏng; nước thoa",
+  "coll": [
+   "body lotion",
+   "suntan lotion",
+   "apply lotion",
+   "calamine lotion"
+  ]
+ },
+ {
+  "id": "caretaker",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người trông coi; tạm quyền",
+  "coll": [
+   "a caretaker government",
+   "a caretaker manager",
+   "the school caretaker",
+   "a caretaker role"
+  ]
+ },
+ {
+  "id": "finalist",
+  "pos": [
+   "n"
+  ],
+  "vi": "người vào chung kết; thí sinh chung cuộc",
+  "coll": [
+   "a beaten finalist",
+   "the four finalists",
+   "an award finalist",
+   "become a finalist"
+  ]
+ },
+ {
+  "id": "bathtub",
+  "pos": [
+   "n"
+  ],
+  "vi": "bồn tắm",
+  "coll": [
+   "fill the bathtub",
+   "soak in the bathtub",
+   "a claw-foot bathtub",
+   "get out of the bathtub"
+  ]
+ },
+ {
+  "id": "reconnaissance",
+  "pos": [
+   "n"
+  ],
+  "vi": "hoạt động trinh sát; sự thăm dò",
+  "coll": [
+   "aerial reconnaissance",
+   "a reconnaissance mission",
+   "carry out reconnaissance",
+   "a reconnaissance flight"
+  ]
+ },
+ {
+  "id": "neuroscience",
+  "pos": [
+   "n"
+  ],
+  "vi": "khoa học thần kinh",
+  "coll": [
+   "cognitive neuroscience",
+   "neuroscience research",
+   "study neuroscience",
+   "advances in neuroscience"
+  ]
+ },
+ {
+  "id": "shortcomings",
+  "pos": [
+   "n"
+  ],
+  "vi": "các thiếu sót; những nhược điểm",
+  "coll": [
+   "address the shortcomings",
+   "serious shortcomings",
+   "admit one's shortcomings",
+   "overcome shortcomings"
+  ]
+ },
+ {
+  "id": "mistakenly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhầm lẫn; do sai sót",
+  "coll": [
+   "mistakenly believe",
+   "mistakenly assume",
+   "mistakenly identified",
+   "mistakenly deleted"
+  ]
+ },
+ {
+  "id": "strategically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách chiến lược; có tính toán chiến lược",
+  "coll": [
+   "strategically important",
+   "strategically placed",
+   "strategically located",
+   "think strategically"
+  ]
+ },
+ {
+  "id": "confidentiality",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính bảo mật; sự giữ kín thông tin",
+  "coll": [
+   "a confidentiality agreement",
+   "maintain confidentiality",
+   "breach of confidentiality",
+   "patient confidentiality"
+  ]
+ },
+ {
+  "id": "digitally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "bằng kỹ thuật số; theo cách số hóa",
+  "coll": [
+   "digitally enhanced",
+   "digitally signed",
+   "digitally remastered",
+   "digitally available"
+  ]
+ },
+ {
+  "id": "peacock",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con công; công trống",
+  "coll": [
+   "a peacock feather",
+   "proud as a peacock",
+   "peacock blue",
+   "a strutting peacock"
+  ]
+ },
+ {
+  "id": "provocative",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khiêu khích, gây tranh cãi; gợi dục",
+  "coll": [
+   "a provocative question",
+   "deliberately provocative",
+   "provocative comments",
+   "provocative clothing"
+  ]
+ },
+ {
+  "id": "outset",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lúc khởi đầu; buổi ban đầu",
+  "coll": [
+   "from the outset",
+   "at the outset",
+   "made clear at the outset",
+   "from the very outset"
+  ]
+ },
+ {
+  "id": "deprivation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thiếu thốn; sự tước đoạt",
+  "coll": [
+   "sleep deprivation",
+   "social deprivation",
+   "economic deprivation",
+   "suffer deprivation"
+  ]
+ },
+ {
+  "id": "squid",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mực ống",
+  "coll": [
+   "fried squid",
+   "a giant squid",
+   "squid ink",
+   "grilled squid"
+  ]
+ },
+ {
+  "id": "canary",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "chim hoàng yến; màu vàng canh",
+  "coll": [
+   "a canary in a coal mine",
+   "canary yellow",
+   "sing like a canary",
+   "keep a canary"
+  ]
+ },
+ {
+  "id": "simulate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "mô phỏng; giả lập, giả vờ",
+  "coll": [
+   "simulate conditions",
+   "computer-simulated",
+   "simulate a crash",
+   "simulate real life"
+  ]
+ },
+ {
+  "id": "seam",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đường may; vỉa (than, quặng)",
+  "coll": [
+   "a coal seam",
+   "burst at the seams",
+   "sew a seam",
+   "a seam of ore"
+  ]
+ },
+ {
+  "id": "neutron",
+  "pos": [
+   "n"
+  ],
+  "vi": "nơtron; hạt trung hòa",
+  "coll": [
+   "a neutron star",
+   "a neutron bomb",
+   "neutron radiation",
+   "free neutrons"
+  ]
+ },
+ {
+  "id": "wolverine",
+  "pos": [
+   "n"
+  ],
+  "vi": "chồn sói; chồn gulo",
+  "coll": [
+   "a fierce wolverine",
+   "wolverine tracks",
+   "the wolverine population",
+   "a wolverine habitat"
+  ]
+ }
+]

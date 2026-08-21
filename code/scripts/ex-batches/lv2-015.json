@@ -1,0 +1,875 @@
+[
+ {
+  "id": "exceed",
+  "pos": [
+   "v"
+  ],
+  "vi": "vượt quá; vượt trội hơn",
+  "coll": [
+   "exceed expectations",
+   "exceed the limit",
+   "exceed the speed limit",
+   "far exceed",
+   "exceed demand"
+  ]
+ },
+ {
+  "id": "fierce",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "dữ dội; hung dữ; khốc liệt",
+  "coll": [
+   "fierce competition",
+   "a fierce battle",
+   "fierce criticism",
+   "a fierce dog",
+   "a fierce storm"
+  ]
+ },
+ {
+  "id": "hail",
+  "pos": [
+   "v",
+   "n",
+   "adj",
+   "intj"
+  ],
+  "vi": "mưa đá; vẫy gọi (taxi); tung hô",
+  "coll": [
+   "hail a taxi",
+   "hail storm",
+   "hailed as a hero",
+   "hail from",
+   "a hail of bullets"
+  ]
+ },
+ {
+  "id": "illustration",
+  "pos": [
+   "n"
+  ],
+  "vi": "hình minh họa; ví dụ minh họa",
+  "coll": [
+   "a colour illustration",
+   "by way of illustration",
+   "book illustration",
+   "a clear illustration of",
+   "detailed illustration"
+  ]
+ },
+ {
+  "id": "impose",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "áp đặt; đánh (thuế); làm phiền",
+  "coll": [
+   "impose a ban",
+   "impose sanctions",
+   "impose a tax",
+   "impose restrictions",
+   "impose your views"
+  ]
+ },
+ {
+  "id": "mint",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "bạc hà; xưởng đúc tiền; còn mới tinh",
+  "coll": [
+   "mint leaves",
+   "mint tea",
+   "in mint condition",
+   "mint a coin",
+   "the Royal Mint"
+  ]
+ },
+ {
+  "id": "pi",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "số pi (π); chữ cái Hy Lạp pi",
+  "coll": [
+   "the value of pi",
+   "the digits of pi",
+   "Pi Day",
+   "pi radians"
+  ]
+ },
+ {
+  "id": "showcase",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giới thiệu; trưng bày; tủ kính trưng bày",
+  "coll": [
+   "showcase your talent",
+   "showcase the work",
+   "a showcase for",
+   "showcase event",
+   "glass showcase"
+  ]
+ },
+ {
+  "id": "collector",
+  "pos": [
+   "n"
+  ],
+  "vi": "người sưu tầm; người thu tiền",
+  "coll": [
+   "art collector",
+   "stamp collector",
+   "tax collector",
+   "debt collector",
+   "avid collector"
+  ]
+ },
+ {
+  "id": "exotic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ngoại lai; lạ mắt; kỳ lạ hấp dẫn",
+  "coll": [
+   "exotic fruit",
+   "exotic location",
+   "exotic animals",
+   "exotic flavours",
+   "exotic dancer"
+  ]
+ },
+ {
+  "id": "glow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ánh sáng dịu; phát sáng; ửng hồng",
+  "coll": [
+   "a warm glow",
+   "glow in the dark",
+   "the glow of the fire",
+   "glow with pride",
+   "a healthy glow"
+  ]
+ },
+ {
+  "id": "hay",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cỏ khô; rơm khô",
+  "coll": [
+   "a bale of hay",
+   "hay fever",
+   "make hay while the sun shines",
+   "feed hay to cattle"
+  ]
+ },
+ {
+  "id": "massacre",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vụ thảm sát; tàn sát",
+  "coll": [
+   "a brutal massacre",
+   "the massacre of civilians",
+   "massacre victims",
+   "carry out a massacre"
+  ]
+ },
+ {
+  "id": "necessity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cần thiết; nhu cầu thiết yếu",
+  "coll": [
+   "out of necessity",
+   "a basic necessity",
+   "by necessity",
+   "an absolute necessity",
+   "the necessity of change"
+  ]
+ },
+ {
+  "id": "observer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người quan sát; nhà quan sát",
+  "coll": [
+   "an independent observer",
+   "casual observer",
+   "political observer",
+   "UN observers",
+   "election observer"
+  ]
+ },
+ {
+  "id": "offshore",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "vi": "ngoài khơi; ở nước ngoài (tài chính)",
+  "coll": [
+   "offshore drilling",
+   "offshore account",
+   "offshore wind farm",
+   "offshore banking",
+   "move offshore"
+  ]
+ },
+ {
+  "id": "optional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tùy chọn; không bắt buộc",
+  "coll": [
+   "an optional extra",
+   "purely optional",
+   "optional subject",
+   "optional feature",
+   "attendance is optional"
+  ]
+ },
+ {
+  "id": "refuge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nơi trú ẩn; sự nương náu",
+  "coll": [
+   "seek refuge",
+   "take refuge",
+   "a place of refuge",
+   "wildlife refuge",
+   "refuge from the storm"
+  ]
+ },
+ {
+  "id": "sack",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bao tải; sa thải; cướp phá",
+  "coll": [
+   "a sack of potatoes",
+   "get the sack",
+   "sack an employee",
+   "hit the sack",
+   "the sack of Rome"
+  ]
+ },
+ {
+  "id": "verbal",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "bằng lời nói; thuộc động từ",
+  "coll": [
+   "verbal agreement",
+   "verbal abuse",
+   "verbal communication",
+   "verbal skills",
+   "a verbal warning"
+  ]
+ },
+ {
+  "id": "burial",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chôn cất; lễ mai táng",
+  "coll": [
+   "burial ground",
+   "burial site",
+   "a proper burial",
+   "burial ceremony",
+   "mass burial"
+  ]
+ },
+ {
+  "id": "drought",
+  "pos": [
+   "n"
+  ],
+  "vi": "hạn hán; đợt khô hạn",
+  "coll": [
+   "severe drought",
+   "prolonged drought",
+   "drought conditions",
+   "suffer from drought",
+   "end the drought"
+  ]
+ },
+ {
+  "id": "hospitality",
+  "pos": [
+   "n"
+  ],
+  "vi": "lòng hiếu khách; ngành dịch vụ lưu trú",
+  "coll": [
+   "warm hospitality",
+   "hospitality industry",
+   "show hospitality",
+   "thank you for your hospitality",
+   "corporate hospitality"
+  ]
+ },
+ {
+  "id": "misleading",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "gây hiểu lầm; dễ đánh lừa",
+  "coll": [
+   "misleading information",
+   "misleading advertising",
+   "highly misleading",
+   "a misleading statement",
+   "misleading claims"
+  ]
+ },
+ {
+  "id": "obsession",
+  "pos": [
+   "n"
+  ],
+  "vi": "nỗi ám ảnh; sự mê đắm thái quá",
+  "coll": [
+   "an obsession with",
+   "become an obsession",
+   "unhealthy obsession",
+   "national obsession",
+   "obsession over details"
+  ]
+ },
+ {
+  "id": "particle",
+  "pos": [
+   "n"
+  ],
+  "vi": "hạt nhỏ; phần tử; tiểu từ",
+  "coll": [
+   "dust particles",
+   "subatomic particle",
+   "particle accelerator",
+   "particle physics",
+   "tiny particles"
+  ]
+ },
+ {
+  "id": "persistent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dai dẳng; kiên trì; bền bỉ",
+  "coll": [
+   "a persistent cough",
+   "a persistent problem",
+   "persistent rain",
+   "persistent effort",
+   "persistent offender"
+  ]
+ },
+ {
+  "id": "rack",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giá đỡ; kệ; giày vò",
+  "coll": [
+   "a luggage rack",
+   "spice rack",
+   "rack your brains",
+   "bike rack",
+   "roof rack"
+  ]
+ },
+ {
+  "id": "rejection",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự từ chối; sự khước từ; sự đào thải",
+  "coll": [
+   "fear of rejection",
+   "rejection letter",
+   "face rejection",
+   "outright rejection",
+   "organ rejection"
+  ]
+ },
+ {
+  "id": "stern",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "nghiêm khắc; đanh mặt; đuôi tàu",
+  "coll": [
+   "a stern warning",
+   "a stern face",
+   "a stern look",
+   "the stern of the ship",
+   "stern measures"
+  ]
+ },
+ {
+  "id": "stiff",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "cứng; đơ; gượng gạo",
+  "coll": [
+   "a stiff neck",
+   "stiff competition",
+   "a stiff drink",
+   "a stiff breeze",
+   "bored stiff"
+  ]
+ },
+ {
+  "id": "unlock",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "mở khóa; khai mở",
+  "coll": [
+   "unlock the door",
+   "unlock your phone",
+   "unlock potential",
+   "unlock a level",
+   "unlock the secret"
+  ]
+ },
+ {
+  "id": "adverse",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bất lợi; tiêu cực; ngược chiều",
+  "coll": [
+   "adverse effects",
+   "adverse weather conditions",
+   "adverse reaction",
+   "adverse impact",
+   "adverse publicity"
+  ]
+ },
+ {
+  "id": "browser",
+  "pos": [
+   "n"
+  ],
+  "vi": "trình duyệt web",
+  "coll": [
+   "web browser",
+   "open your browser",
+   "browser window",
+   "browser history",
+   "default browser"
+  ]
+ },
+ {
+  "id": "cocktail",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "cocktail; rượu pha; hỗn hợp pha trộn",
+  "coll": [
+   "cocktail party",
+   "cocktail dress",
+   "mix a cocktail",
+   "fruit cocktail",
+   "cocktail bar"
+  ]
+ },
+ {
+  "id": "holocaust",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc tàn sát; nạn diệt chủng",
+  "coll": [
+   "the Holocaust",
+   "nuclear holocaust",
+   "holocaust survivor",
+   "holocaust memorial",
+   "holocaust denial"
+  ]
+ },
+ {
+  "id": "imprisonment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bỏ tù; án tù giam",
+  "coll": [
+   "life imprisonment",
+   "sentenced to imprisonment",
+   "false imprisonment",
+   "years of imprisonment"
+  ]
+ },
+ {
+  "id": "midst",
+  "pos": [
+   "n",
+   "prep"
+  ],
+  "vi": "giữa; ở giữa (văn chương)",
+  "coll": [
+   "in the midst of",
+   "in our midst",
+   "in the midst of chaos",
+   "from the midst of"
+  ]
+ },
+ {
+  "id": "nursery",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà trẻ; phòng của bé; vườn ươm cây",
+  "coll": [
+   "nursery school",
+   "day nursery",
+   "plant nursery",
+   "nursery rhyme",
+   "nursery teacher"
+  ]
+ },
+ {
+  "id": "plague",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bệnh dịch hạch; tai họa; hành hạ dai dẳng",
+  "coll": [
+   "the bubonic plague",
+   "a plague of locusts",
+   "avoid like the plague",
+   "be plagued by",
+   "spread the plague"
+  ]
+ },
+ {
+  "id": "polar bear",
+  "pos": [
+   "n"
+  ],
+  "vi": "gấu Bắc Cực",
+  "coll": [
+   "a polar bear cub",
+   "endangered polar bears",
+   "polar bear population",
+   "polar bears hunt seals"
+  ]
+ },
+ {
+  "id": "recruit",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tuyển dụng; chiêu mộ; tân binh",
+  "coll": [
+   "recruit staff",
+   "recruit new members",
+   "a new recruit",
+   "army recruit",
+   "recruit volunteers"
+  ]
+ },
+ {
+  "id": "sharply",
+  "pos": [
+   "adv"
+  ],
+  "vi": "mạnh; đột ngột; gay gắt",
+  "coll": [
+   "rise sharply",
+   "fall sharply",
+   "sharply divided",
+   "criticise sharply",
+   "turn sharply"
+  ]
+ },
+ {
+  "id": "specialty",
+  "pos": [
+   "n"
+  ],
+  "vi": "chuyên môn; món đặc sản",
+  "coll": [
+   "medical specialty",
+   "house specialty",
+   "specialty coffee",
+   "specialty store",
+   "the specialty of the region"
+  ]
+ },
+ {
+  "id": "supernatural",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "siêu nhiên; huyền bí",
+  "coll": [
+   "supernatural powers",
+   "a supernatural being",
+   "supernatural forces",
+   "believe in the supernatural",
+   "supernatural phenomena"
+  ]
+ },
+ {
+  "id": "tomb",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lăng mộ; ngôi mộ",
+  "coll": [
+   "an ancient tomb",
+   "the tomb of the king",
+   "royal tomb",
+   "excavate a tomb"
+  ]
+ },
+ {
+  "id": "adjustment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự điều chỉnh; sự thích nghi",
+  "coll": [
+   "make an adjustment",
+   "a minor adjustment",
+   "price adjustment",
+   "adjustment period",
+   "slight adjustment"
+  ]
+ },
+ {
+  "id": "bomber",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "máy bay ném bom; kẻ đánh bom",
+  "coll": [
+   "suicide bomber",
+   "bomber jacket",
+   "stealth bomber",
+   "bomber plane"
+  ]
+ },
+ {
+  "id": "coconut",
+  "pos": [
+   "n"
+  ],
+  "vi": "quả dừa; cùi dừa",
+  "coll": [
+   "coconut milk",
+   "coconut oil",
+   "coconut water",
+   "shredded coconut",
+   "coconut tree"
+  ]
+ },
+ {
+  "id": "confession",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời thú nhận; sự xưng tội",
+  "coll": [
+   "make a confession",
+   "a full confession",
+   "sign a confession",
+   "go to confession",
+   "confession of guilt"
+  ]
+ },
+ {
+  "id": "corridor",
+  "pos": [
+   "n"
+  ],
+  "vi": "hành lang; lối đi dài",
+  "coll": [
+   "a long corridor",
+   "down the corridor",
+   "the corridors of power",
+   "hospital corridor",
+   "narrow corridor"
+  ]
+ },
+ {
+  "id": "critically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nghiêm trọng; một cách phê phán; cực kỳ",
+  "coll": [
+   "critically ill",
+   "critically acclaimed",
+   "think critically",
+   "critically important",
+   "critically injured"
+  ]
+ },
+ {
+  "id": "fire brigade",
+  "pos": [
+   "n"
+  ],
+  "vi": "đội cứu hỏa; lực lượng chữa cháy",
+  "coll": [
+   "call the fire brigade",
+   "the fire brigade arrived",
+   "local fire brigade",
+   "volunteer fire brigade"
+  ]
+ },
+ {
+  "id": "interfere",
+  "pos": [
+   "v"
+  ],
+  "vi": "can thiệp; xen vào; gây nhiễu",
+  "coll": [
+   "interfere with",
+   "interfere in someone's affairs",
+   "don't interfere",
+   "interfere with the signal",
+   "interfere in politics"
+  ]
+ },
+ {
+  "id": "intersection",
+  "pos": [
+   "n"
+  ],
+  "vi": "giao lộ; ngã tư; giao điểm",
+  "coll": [
+   "at the intersection",
+   "a busy intersection",
+   "the intersection of two roads",
+   "traffic intersection",
+   "the intersection of art and science"
+  ]
+ },
+ {
+  "id": "metric",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thuộc hệ mét; chỉ số đo lường",
+  "coll": [
+   "the metric system",
+   "metric ton",
+   "key metric",
+   "performance metric",
+   "metric units"
+  ]
+ },
+ {
+  "id": "pointless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô nghĩa; vô ích",
+  "coll": [
+   "utterly pointless",
+   "a pointless exercise",
+   "seem pointless",
+   "a pointless argument",
+   "a pointless task"
+  ]
+ },
+ {
+  "id": "proximity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự gần kề; khoảng cách gần",
+  "coll": [
+   "in close proximity to",
+   "proximity to the city",
+   "proximity sensor",
+   "close proximity",
+   "the proximity of"
+  ]
+ },
+ {
+  "id": "qualification",
+  "pos": [
+   "n"
+  ],
+  "vi": "bằng cấp; chứng chỉ; điều kiện đủ tư cách",
+  "coll": [
+   "academic qualification",
+   "professional qualification",
+   "gain a qualification",
+   "teaching qualification",
+   "without qualification"
+  ]
+ },
+ {
+  "id": "ranger",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kiểm lâm; nhân viên bảo vệ rừng; lính biệt kích",
+  "coll": [
+   "a park ranger",
+   "a forest ranger",
+   "an Army Ranger",
+   "a ranger station"
+  ]
+ }
+]

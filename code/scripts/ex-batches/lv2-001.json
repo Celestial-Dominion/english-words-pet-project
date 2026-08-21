@@ -1,0 +1,878 @@
+[
+ {
+  "id": "found",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "thành lập; sáng lập; dạng quá khứ của find (đã tìm thấy)",
+  "coll": [
+   "found a company",
+   "found a school",
+   "found a city",
+   "found a charity"
+  ]
+ },
+ {
+  "id": "god",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thần; Chúa Trời; thần tượng, người được tôn sùng",
+  "coll": [
+   "believe in God",
+   "thank God",
+   "the god of war",
+   "oh my God",
+   "Greek gods"
+  ]
+ },
+ {
+  "id": "times",
+  "pos": [
+   "prep",
+   "n",
+   "v"
+  ],
+  "vi": "lần; nhân (phép nhân); thời buổi, thời đại",
+  "coll": [
+   "three times a week",
+   "modern times",
+   "hard times",
+   "at times",
+   "many times"
+  ]
+ },
+ {
+  "id": "so-called",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cái gọi là; được gọi là (hàm ý nghi ngờ)",
+  "coll": [
+   "so-called experts",
+   "so-called friends",
+   "so-called reforms",
+   "the so-called war on drugs"
+  ]
+ },
+ {
+  "id": "united",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đoàn kết; thống nhất; hợp nhất",
+  "coll": [
+   "the United Nations",
+   "a united front",
+   "the United States",
+   "stand united",
+   "united in grief"
+  ]
+ },
+ {
+  "id": "first person",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngôi thứ nhất; lối kể ngôi thứ nhất",
+  "coll": [
+   "first person narrative",
+   "written in the first person",
+   "first person singular",
+   "a first person shooter"
+  ]
+ },
+ {
+  "id": "means",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phương tiện; cách thức; khả năng tài chính",
+  "coll": [
+   "by means of",
+   "a means to an end",
+   "means of transport",
+   "live within your means",
+   "financial means"
+  ]
+ },
+ {
+  "id": "known",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "được biết đến; nổi tiếng; đã biết rõ",
+  "coll": [
+   "well known",
+   "widely known",
+   "known as",
+   "known for",
+   "a known fact"
+  ]
+ },
+ {
+  "id": "community",
+  "pos": [
+   "n"
+  ],
+  "vi": "cộng đồng; khu dân cư; giới, nhóm",
+  "coll": [
+   "the local community",
+   "community service",
+   "the scientific community",
+   "a community centre",
+   "a sense of community"
+  ]
+ },
+ {
+  "id": "data",
+  "pos": [
+   "n"
+  ],
+  "vi": "dữ liệu; số liệu",
+  "coll": [
+   "collect data",
+   "data analysis",
+   "personal data",
+   "raw data",
+   "data protection"
+  ]
+ },
+ {
+  "id": "media",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "truyền thông; giới báo chí; phương tiện truyền thông",
+  "coll": [
+   "social media",
+   "the mass media",
+   "media coverage",
+   "media attention",
+   "a media campaign"
+  ]
+ },
+ {
+  "id": "second person",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngôi thứ hai; lối kể ngôi thứ hai",
+  "coll": [
+   "second person narrative",
+   "written in the second person",
+   "second person singular",
+   "the second person pronoun"
+  ]
+ },
+ {
+  "id": "energy",
+  "pos": [
+   "n"
+  ],
+  "vi": "năng lượng; sức lực; nghị lực",
+  "coll": [
+   "renewable energy",
+   "save energy",
+   "full of energy",
+   "energy consumption",
+   "solar energy"
+  ]
+ },
+ {
+  "id": "project",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dự án; công trình; chiếu (hình ảnh)",
+  "coll": [
+   "a research project",
+   "launch a project",
+   "a project manager",
+   "a construction project",
+   "project an image"
+  ]
+ },
+ {
+  "id": "health care",
+  "pos": [
+   "n"
+  ],
+  "vi": "chăm sóc sức khỏe; y tế",
+  "coll": [
+   "the health care system",
+   "access to health care",
+   "health care costs",
+   "health care workers"
+  ]
+ },
+ {
+  "id": "federal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "liên bang; thuộc chính quyền liên bang",
+  "coll": [
+   "the federal government",
+   "federal law",
+   "a federal agency",
+   "the federal budget",
+   "a federal court"
+  ]
+ },
+ {
+  "id": "long-term",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "dài hạn; lâu dài",
+  "coll": [
+   "long-term goals",
+   "long-term effects",
+   "a long-term relationship",
+   "a long-term investment",
+   "in the long term"
+  ]
+ },
+ {
+  "id": "third person",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngôi thứ ba; lối kể ngôi thứ ba",
+  "coll": [
+   "third person narrative",
+   "written in the third person",
+   "third person singular",
+   "a third person shooter"
+  ]
+ },
+ {
+  "id": "lower",
+  "pos": [
+   "v",
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "hạ thấp; giảm; thấp hơn, phía dưới",
+  "coll": [
+   "lower prices",
+   "lower the risk",
+   "lower your voice",
+   "the lower half",
+   "lower back pain"
+  ]
+ },
+ {
+  "id": "hell",
+  "pos": [
+   "n",
+   "intj",
+   "adv",
+   "v"
+  ],
+  "vi": "địa ngục; cảnh khổ cực; quái quỷ (thán từ)",
+  "coll": [
+   "go to hell",
+   "what the hell",
+   "a living hell",
+   "hell on earth",
+   "raise hell"
+  ]
+ },
+ {
+  "id": "related",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "liên quan; có họ hàng; cùng loại",
+  "coll": [
+   "closely related",
+   "related to",
+   "work-related",
+   "related issues",
+   "related species"
+  ]
+ },
+ {
+  "id": "damn",
+  "pos": [
+   "adj",
+   "adv",
+   "intj",
+   "v",
+   "n"
+  ],
+  "vi": "chết tiệt; đáng nguyền rủa; nguyền rủa, lên án",
+  "coll": [
+   "damn it",
+   "not give a damn",
+   "damn good",
+   "damn right",
+   "I will be damned"
+  ]
+ },
+ {
+  "id": "version",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phiên bản; bản, dị bản; cách kể của một người",
+  "coll": [
+   "the latest version",
+   "an updated version",
+   "a new version",
+   "the film version",
+   "his version of events"
+  ]
+ },
+ {
+  "id": "well-paid",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lương cao; được trả hậu",
+  "coll": [
+   "a well-paid job",
+   "well-paid work",
+   "a well-paid position",
+   "well-paid professionals"
+  ]
+ },
+ {
+  "id": "first language",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiếng mẹ đẻ; ngôn ngữ thứ nhất",
+  "coll": [
+   "speak English as a first language",
+   "his first language",
+   "first language acquisition",
+   "first language speakers"
+  ]
+ },
+ {
+  "id": "son-in-law",
+  "pos": [
+   "n"
+  ],
+  "vi": "con rể",
+  "coll": [
+   "my son-in-law",
+   "future son-in-law",
+   "his son-in-law",
+   "a prospective son-in-law"
+  ]
+ },
+ {
+  "id": "father-in-law",
+  "pos": [
+   "n"
+  ],
+  "vi": "bố vợ; bố chồng",
+  "coll": [
+   "my father-in-law",
+   "future father-in-law",
+   "her father-in-law",
+   "live with his father-in-law"
+  ]
+ },
+ {
+  "id": "minister",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bộ trưởng; mục sư; chăm lo, phục vụ",
+  "coll": [
+   "the prime minister",
+   "the foreign minister",
+   "a government minister",
+   "a cabinet minister",
+   "minister to the sick"
+  ]
+ },
+ {
+  "id": "mother-in-law",
+  "pos": [
+   "n"
+  ],
+  "vi": "mẹ vợ; mẹ chồng",
+  "coll": [
+   "my mother-in-law",
+   "future mother-in-law",
+   "his mother-in-law",
+   "visit her mother-in-law"
+  ]
+ },
+ {
+  "id": "point of view",
+  "pos": [
+   "n"
+  ],
+  "vi": "quan điểm; góc nhìn",
+  "coll": [
+   "from my point of view",
+   "a different point of view",
+   "from an economic point of view",
+   "share a point of view"
+  ]
+ },
+ {
+  "id": "well-built",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vạm vỡ; xây chắc chắn",
+  "coll": [
+   "a well-built man",
+   "tall and well-built",
+   "a well-built house",
+   "a well-built athlete"
+  ]
+ },
+ {
+  "id": "moving",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "cảm động; đang chuyển động; việc chuyển nhà",
+  "coll": [
+   "a moving story",
+   "deeply moving",
+   "moving parts",
+   "a moving target",
+   "moving house"
+  ]
+ },
+ {
+  "id": "conference",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hội nghị; hội thảo; cuộc họp bàn",
+  "coll": [
+   "attend a conference",
+   "a press conference",
+   "a conference room",
+   "hold a conference",
+   "a conference call"
+  ]
+ },
+ {
+  "id": "western",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phương Tây; ở phía tây; phim cao bồi",
+  "coll": [
+   "Western culture",
+   "Western countries",
+   "the western coast",
+   "Western Europe",
+   "a classic western"
+  ]
+ },
+ {
+  "id": "campaign",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chiến dịch; cuộc vận động; vận động",
+  "coll": [
+   "an advertising campaign",
+   "an election campaign",
+   "launch a campaign",
+   "a campaign against poverty",
+   "a political campaign"
+  ]
+ },
+ {
+  "id": "particular",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cụ thể; riêng biệt; kỹ tính, khó tính",
+  "coll": [
+   "in particular",
+   "a particular interest",
+   "particular attention",
+   "no particular reason",
+   "particular about food"
+  ]
+ },
+ {
+  "id": "hard drive",
+  "pos": [
+   "n"
+  ],
+  "vi": "ổ cứng",
+  "coll": [
+   "an external hard drive",
+   "hard drive failure",
+   "back up your hard drive",
+   "hard drive space"
+  ]
+ },
+ {
+  "id": "short-term",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "ngắn hạn; trước mắt",
+  "coll": [
+   "short-term goals",
+   "short-term memory",
+   "a short-term solution",
+   "a short-term contract",
+   "in the short term"
+  ]
+ },
+ {
+  "id": "expected",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "dự kiến; được mong đợi",
+  "coll": [
+   "as expected",
+   "expected to rise",
+   "higher than expected",
+   "the expected result",
+   "the expected date"
+  ]
+ },
+ {
+  "id": "human rights",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân quyền; quyền con người",
+  "coll": [
+   "human rights abuses",
+   "a human rights activist",
+   "violate human rights",
+   "human rights organizations"
+  ]
+ },
+ {
+  "id": "brother-in-law",
+  "pos": [
+   "n"
+  ],
+  "vi": "anh rể, em rể; anh (em) vợ hoặc chồng",
+  "coll": [
+   "my brother-in-law",
+   "his brother-in-law",
+   "future brother-in-law",
+   "her brother-in-law"
+  ]
+ },
+ {
+  "id": "contract",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "hợp đồng; ký hợp đồng; co lại",
+  "coll": [
+   "sign a contract",
+   "a contract of employment",
+   "breach of contract",
+   "under contract",
+   "renew a contract"
+  ]
+ },
+ {
+  "id": "growing",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đang tăng; ngày càng nhiều; đang lớn dần",
+  "coll": [
+   "a growing number",
+   "growing concern",
+   "growing demand",
+   "a fast-growing company",
+   "a growing economy"
+  ]
+ },
+ {
+  "id": "last minute",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "phút chót; giây phút cuối",
+  "coll": [
+   "at the last minute",
+   "leave it to the last minute",
+   "a last minute change",
+   "a last minute decision"
+  ]
+ },
+ {
+  "id": "last-minute",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vào phút chót; sát giờ chót",
+  "coll": [
+   "a last-minute change",
+   "a last-minute booking",
+   "a last-minute deal",
+   "last-minute preparations"
+  ]
+ },
+ {
+  "id": "master",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "bậc thầy; chủ nhân; thành thạo, làm chủ",
+  "coll": [
+   "master a language",
+   "a master of disguise",
+   "a master key",
+   "a master plan",
+   "master and servant"
+  ]
+ },
+ {
+  "id": "stock",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "hàng trong kho; cổ phiếu; dự trữ, trữ hàng",
+  "coll": [
+   "in stock",
+   "out of stock",
+   "the stock market",
+   "the stock exchange",
+   "take stock of"
+  ]
+ },
+ {
+  "id": "daughter-in-law",
+  "pos": [
+   "n"
+  ],
+  "vi": "con dâu",
+  "coll": [
+   "my daughter-in-law",
+   "his daughter-in-law",
+   "future daughter-in-law",
+   "her daughter-in-law"
+  ]
+ },
+ {
+  "id": "fighting",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "giao tranh; đánh nhau; chiến đấu",
+  "coll": [
+   "heavy fighting",
+   "fighting broke out",
+   "street fighting",
+   "fighting spirit",
+   "fighting for survival"
+  ]
+ },
+ {
+  "id": "learning",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc học; sự học hỏi; kiến thức",
+  "coll": [
+   "language learning",
+   "the learning process",
+   "distance learning",
+   "learning difficulties",
+   "lifelong learning"
+  ]
+ },
+ {
+  "id": "multiple",
+  "pos": [
+   "adj",
+   "det",
+   "n"
+  ],
+  "vi": "nhiều; đa dạng; bội số",
+  "coll": [
+   "multiple choice",
+   "multiple times",
+   "multiple sources",
+   "multiple injuries",
+   "multiple factors"
+  ]
+ },
+ {
+  "id": "commission",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hoa hồng; ủy ban; đặt làm, ủy nhiệm",
+  "coll": [
+   "earn commission",
+   "work on commission",
+   "the European Commission",
+   "commission a report",
+   "a commission of inquiry"
+  ]
+ },
+ {
+  "id": "grand",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lớn, hoành tráng; cao quý; nghìn đô",
+  "coll": [
+   "a grand design",
+   "the grand total",
+   "on a grand scale",
+   "the grand opening",
+   "the grand finale"
+  ]
+ },
+ {
+  "id": "literally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo nghĩa đen; đúng nguyên văn; thực sự (nhấn mạnh)",
+  "coll": [
+   "literally means",
+   "taken literally",
+   "translate literally",
+   "literally hundreds"
+  ]
+ },
+ {
+  "id": "overall",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "tổng thể; nhìn chung; áo liền quần bảo hộ",
+  "coll": [
+   "overall performance",
+   "the overall picture",
+   "the overall cost",
+   "the overall winner",
+   "overall, the results were good"
+  ]
+ },
+ {
+  "id": "planning",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc lập kế hoạch; quy hoạch",
+  "coll": [
+   "careful planning",
+   "urban planning",
+   "planning permission",
+   "financial planning",
+   "family planning"
+  ]
+ },
+ {
+  "id": "primary",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chính, chủ yếu; tiểu học; sơ cấp",
+  "coll": [
+   "primary school",
+   "the primary concern",
+   "a primary source",
+   "of primary importance",
+   "primary care"
+  ]
+ },
+ {
+  "id": "environment",
+  "pos": [
+   "n"
+  ],
+  "vi": "môi trường; hoàn cảnh sống",
+  "coll": [
+   "protect the environment",
+   "the natural environment",
+   "a working environment",
+   "harm the environment",
+   "a safe environment"
+  ]
+ },
+ {
+  "id": "executive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "giám đốc điều hành; thuộc ban điều hành; hành pháp",
+  "coll": [
+   "the chief executive",
+   "an executive director",
+   "a senior executive",
+   "the executive committee",
+   "an executive decision"
+  ]
+ },
+ {
+  "id": "trial",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "phiên tòa xét xử; cuộc thử nghiệm; sự thử thách",
+  "coll": [
+   "stand trial",
+   "a clinical trial",
+   "a free trial",
+   "trial and error",
+   "on trial for murder"
+  ]
+ }
+]

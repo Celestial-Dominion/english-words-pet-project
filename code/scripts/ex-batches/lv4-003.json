@@ -1,0 +1,867 @@
+[
+ {
+  "id": "silicone",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "silicone (chất dẻo); bôi keo silicone",
+  "coll": [
+   "silicone rubber",
+   "silicone implants",
+   "silicone sealant",
+   "silicone gel",
+   "silicone mould"
+  ]
+ },
+ {
+  "id": "validate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "xác nhận, xác thực; kiểm chứng; công nhận cảm xúc",
+  "coll": [
+   "validate the results",
+   "validate a theory",
+   "validate a ticket",
+   "validate feelings",
+   "validate the data"
+  ]
+ },
+ {
+  "id": "joyful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vui sướng; hân hoan",
+  "coll": [
+   "joyful occasion",
+   "joyful noise",
+   "joyful reunion",
+   "a joyful heart",
+   "joyful celebration"
+  ]
+ },
+ {
+  "id": "rampage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn phá phách điên cuồng; nổi điên phá phách",
+  "coll": [
+   "go on a rampage",
+   "shooting rampage",
+   "on the rampage",
+   "murderous rampage",
+   "rampage through the streets"
+  ]
+ },
+ {
+  "id": "culprit",
+  "pos": [
+   "n"
+  ],
+  "vi": "thủ phạm; nguyên nhân gây ra",
+  "coll": [
+   "the main culprit",
+   "catch the culprit",
+   "the real culprit",
+   "likely culprit",
+   "identify the culprit"
+  ]
+ },
+ {
+  "id": "scrape",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cạo, nạo; làm trầy xước; chỗ xây xát",
+  "coll": [
+   "scrape off the paint",
+   "scrape your knee",
+   "scrape by",
+   "scrape together money",
+   "cuts and scrapes"
+  ]
+ },
+ {
+  "id": "heartfelt",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chân thành; tự đáy lòng",
+  "coll": [
+   "heartfelt thanks",
+   "heartfelt apology",
+   "heartfelt gratitude",
+   "heartfelt plea",
+   "heartfelt tribute"
+  ]
+ },
+ {
+  "id": "insure",
+  "pos": [
+   "v"
+  ],
+  "vi": "bảo hiểm cho; mua bảo hiểm",
+  "coll": [
+   "insure the car",
+   "insure against loss",
+   "fully insured",
+   "insure your home",
+   "insure for $1 million"
+  ]
+ },
+ {
+  "id": "leftover",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thừa lại; còn dư",
+  "coll": [
+   "leftover food",
+   "leftover pizza",
+   "leftover money",
+   "leftover chicken",
+   "leftover from yesterday"
+  ]
+ },
+ {
+  "id": "openness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cởi mở; tính minh bạch",
+  "coll": [
+   "openness to change",
+   "openness and honesty",
+   "greater openness",
+   "openness to new ideas",
+   "a spirit of openness"
+  ]
+ },
+ {
+  "id": "precaution",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "biện pháp phòng ngừa; sự đề phòng",
+  "coll": [
+   "take precautions",
+   "safety precautions",
+   "as a precaution",
+   "necessary precautions",
+   "precautionary measure"
+  ]
+ },
+ {
+  "id": "arson",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tội cố ý phóng hỏa",
+  "coll": [
+   "commit arson",
+   "arson attack",
+   "suspected arson",
+   "arson investigation",
+   "charged with arson"
+  ]
+ },
+ {
+  "id": "semantic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc ngữ nghĩa; chỉ về câu chữ",
+  "coll": [
+   "semantic meaning",
+   "semantic analysis",
+   "semantic field",
+   "purely semantic",
+   "semantic web"
+  ]
+ },
+ {
+  "id": "diffusion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khuếch tán; sự lan tỏa",
+  "coll": [
+   "gas diffusion",
+   "cultural diffusion",
+   "diffusion of light",
+   "rate of diffusion",
+   "diffusion of knowledge"
+  ]
+ },
+ {
+  "id": "lacrosse",
+  "pos": [
+   "n"
+  ],
+  "vi": "môn bóng vợt lacrosse",
+  "coll": [
+   "play lacrosse",
+   "lacrosse stick",
+   "lacrosse team",
+   "lacrosse player",
+   "college lacrosse"
+  ]
+ },
+ {
+  "id": "familiarity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quen thuộc; sự thân mật suồng sã",
+  "coll": [
+   "familiarity with the subject",
+   "a sense of familiarity",
+   "familiarity breeds contempt",
+   "gain familiarity",
+   "degree of familiarity"
+  ]
+ },
+ {
+  "id": "distrust",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự ngờ vực; không tin tưởng",
+  "coll": [
+   "deep distrust",
+   "mutual distrust",
+   "distrust of politicians",
+   "growing distrust",
+   "distrust the government"
+  ]
+ },
+ {
+  "id": "snoop",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "rình mò; dòm ngó chuyện riêng",
+  "coll": [
+   "snoop around",
+   "snoop on someone",
+   "snoop through emails",
+   "snoop into private affairs",
+   "stop snooping"
+  ]
+ },
+ {
+  "id": "legalization",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hợp pháp hóa",
+  "coll": [
+   "legalization of marijuana",
+   "legalization of abortion",
+   "push for legalization",
+   "drug legalization",
+   "support legalization"
+  ]
+ },
+ {
+  "id": "localized",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cục bộ, khu trú; đã bản địa hóa",
+  "coll": [
+   "localized pain",
+   "localized flooding",
+   "localized infection",
+   "localized version",
+   "highly localized"
+  ]
+ },
+ {
+  "id": "condensed",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cô đặc; rút gọn",
+  "coll": [
+   "condensed milk",
+   "condensed version",
+   "condensed into",
+   "highly condensed",
+   "condensed form"
+  ]
+ },
+ {
+  "id": "matchup",
+  "pos": [
+   "n"
+  ],
+  "vi": "cặp đấu; màn đối đầu",
+  "coll": [
+   "a great matchup",
+   "the matchup against",
+   "favourable matchup",
+   "playoff matchup",
+   "matchup problems"
+  ]
+ },
+ {
+  "id": "childcare",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc trông trẻ; dịch vụ giữ trẻ",
+  "coll": [
+   "affordable childcare",
+   "childcare costs",
+   "childcare facilities",
+   "childcare provider",
+   "free childcare"
+  ]
+ },
+ {
+  "id": "playable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chơi được; đấu được",
+  "coll": [
+   "playable character",
+   "playable demo",
+   "the pitch is playable",
+   "eminently playable",
+   "playable version"
+  ]
+ },
+ {
+  "id": "entrepreneurial",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có đầu óc kinh doanh; thuộc khởi nghiệp",
+  "coll": [
+   "entrepreneurial spirit",
+   "entrepreneurial skills",
+   "entrepreneurial mindset",
+   "entrepreneurial activity",
+   "entrepreneurial flair"
+  ]
+ },
+ {
+  "id": "reliably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách đáng tin cậy; chắc chắn",
+  "coll": [
+   "reliably informed",
+   "work reliably",
+   "reliably predict",
+   "perform reliably",
+   "reliably accurate"
+  ]
+ },
+ {
+  "id": "zionist",
+  "pos": [
+   "n"
+  ],
+  "vi": "người theo chủ nghĩa phục quốc Do Thái",
+  "coll": [
+   "Zionist movement",
+   "Zionist leaders",
+   "Zionist ideology",
+   "a Zionist state",
+   "Zionist organization"
+  ]
+ },
+ {
+  "id": "pervasive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lan khắp; phổ biến sâu rộng",
+  "coll": [
+   "pervasive influence",
+   "pervasive problem",
+   "increasingly pervasive",
+   "pervasive corruption",
+   "pervasive sense of"
+  ]
+ },
+ {
+  "id": "melancholy",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nỗi u sầu; sầu muộn, buồn man mác",
+  "coll": [
+   "a deep melancholy",
+   "melancholy mood",
+   "sink into melancholy",
+   "melancholy music",
+   "air of melancholy"
+  ]
+ },
+ {
+  "id": "meteorological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc khí tượng",
+  "coll": [
+   "meteorological conditions",
+   "meteorological data",
+   "meteorological office",
+   "meteorological station",
+   "meteorological phenomena"
+  ]
+ },
+ {
+  "id": "anonymity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ẩn danh; tình trạng vô danh",
+  "coll": [
+   "on condition of anonymity",
+   "preserve anonymity",
+   "protect the anonymity",
+   "request anonymity",
+   "relative anonymity"
+  ]
+ },
+ {
+  "id": "conglomerate",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "tập đoàn đa ngành; khối kết tụ; đá cuội kết",
+  "coll": [
+   "media conglomerate",
+   "industrial conglomerate",
+   "giant conglomerate",
+   "conglomerate of companies",
+   "multinational conglomerate"
+  ]
+ },
+ {
+  "id": "hinder",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "cản trở; gây trở ngại",
+  "coll": [
+   "hinder progress",
+   "hinder development",
+   "seriously hinder",
+   "hinder the investigation",
+   "hinder growth"
+  ]
+ },
+ {
+  "id": "punitive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mang tính trừng phạt; trừng trị",
+  "coll": [
+   "punitive damages",
+   "punitive measures",
+   "punitive action",
+   "punitive tariffs",
+   "punitive expedition"
+  ]
+ },
+ {
+  "id": "counterfeit",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "giả mạo; hàng giả; làm giả",
+  "coll": [
+   "counterfeit money",
+   "counterfeit goods",
+   "counterfeit notes",
+   "counterfeit products",
+   "counterfeit drugs"
+  ]
+ },
+ {
+  "id": "pinky",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ngón út; hơi hồng",
+  "coll": [
+   "pinky finger",
+   "pinky promise",
+   "pinky swear",
+   "little pinky",
+   "pinky ring"
+  ]
+ },
+ {
+  "id": "integer",
+  "pos": [
+   "n"
+  ],
+  "vi": "số nguyên",
+  "coll": [
+   "positive integer",
+   "negative integer",
+   "integer value",
+   "an integer number",
+   "round to the nearest integer"
+  ]
+ },
+ {
+  "id": "mop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cây lau nhà; lau nhà; mớ tóc bù xù",
+  "coll": [
+   "mop the floor",
+   "a mop and bucket",
+   "mop up",
+   "a mop of hair",
+   "wet mop"
+  ]
+ },
+ {
+  "id": "utopia",
+  "pos": [
+   "n"
+  ],
+  "vi": "chốn không tưởng; xã hội lý tưởng",
+  "coll": [
+   "socialist utopia",
+   "create a utopia",
+   "utopia and dystopia",
+   "a workers' utopia",
+   "dreams of utopia"
+  ]
+ },
+ {
+  "id": "multicultural",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đa văn hóa",
+  "coll": [
+   "multicultural society",
+   "multicultural education",
+   "multicultural city",
+   "multicultural background",
+   "multicultural community"
+  ]
+ },
+ {
+  "id": "coefficient",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hệ số",
+  "coll": [
+   "correlation coefficient",
+   "coefficient of friction",
+   "numerical coefficient",
+   "the coefficient of x",
+   "coefficient value"
+  ]
+ },
+ {
+  "id": "robber",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ cướp; tên trộm cướp",
+  "coll": [
+   "bank robber",
+   "armed robber",
+   "catch the robber",
+   "masked robber",
+   "robber baron"
+  ]
+ },
+ {
+  "id": "heterosexual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "dị tính; người dị tính luyến ái",
+  "coll": [
+   "heterosexual couple",
+   "heterosexual relationship",
+   "heterosexual men",
+   "heterosexual marriage",
+   "openly heterosexual"
+  ]
+ },
+ {
+  "id": "hobbit",
+  "pos": [
+   "n"
+  ],
+  "vi": "người hobbit (nhân vật hư cấu)",
+  "coll": [
+   "a hobbit hole",
+   "The Hobbit",
+   "hobbit feet",
+   "hobbit village",
+   "like a hobbit"
+  ]
+ },
+ {
+  "id": "broth",
+  "pos": [
+   "n"
+  ],
+  "vi": "nước dùng; nước hầm",
+  "coll": [
+   "chicken broth",
+   "beef broth",
+   "vegetable broth",
+   "simmer the broth",
+   "clear broth"
+  ]
+ },
+ {
+  "id": "monsieur",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngài, ông (kiểu Pháp); quý ông người Pháp (cũ)",
+  "coll": [
+   "good evening, monsieur",
+   "Monsieur le Président",
+   "yes, monsieur",
+   "thank you, monsieur"
+  ]
+ },
+ {
+  "id": "nudity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khỏa thân",
+  "coll": [
+   "full frontal nudity",
+   "contains nudity",
+   "public nudity",
+   "scenes of nudity",
+   "partial nudity"
+  ]
+ },
+ {
+  "id": "preface",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lời tựa; mở đầu bằng",
+  "coll": [
+   "write a preface",
+   "in the preface",
+   "preface to the book",
+   "preface his remarks with",
+   "author's preface"
+  ]
+ },
+ {
+  "id": "gritty",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trần trụi, gai góc; gan lì; có sạn",
+  "coll": [
+   "gritty realism",
+   "gritty drama",
+   "gritty determination",
+   "gritty texture",
+   "a gritty performance"
+  ]
+ },
+ {
+  "id": "horseback",
+  "pos": [
+   "n"
+  ],
+  "vi": "lưng ngựa",
+  "coll": [
+   "on horseback",
+   "horseback riding",
+   "ride horseback",
+   "horseback tour",
+   "travel on horseback"
+  ]
+ },
+ {
+  "id": "intimidation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hăm dọa; sự uy hiếp",
+  "coll": [
+   "voter intimidation",
+   "acts of intimidation",
+   "threats and intimidation",
+   "witness intimidation",
+   "intimidation tactics"
+  ]
+ },
+ {
+  "id": "iteration",
+  "pos": [
+   "n"
+  ],
+  "vi": "phiên bản mới; lần lặp lại; vòng lặp",
+  "coll": [
+   "the latest iteration",
+   "each iteration",
+   "next iteration",
+   "rapid iteration",
+   "first iteration"
+  ]
+ },
+ {
+  "id": "roulette",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trò cò quay ru-lét; canh bạc may rủi",
+  "coll": [
+   "play roulette",
+   "roulette wheel",
+   "Russian roulette",
+   "roulette table",
+   "spin the roulette"
+  ]
+ },
+ {
+  "id": "obligatory",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bắt buộc; theo lệ thường",
+  "coll": [
+   "obligatory for all",
+   "legally obligatory",
+   "the obligatory photo",
+   "obligatory attendance",
+   "make it obligatory"
+  ]
+ },
+ {
+  "id": "tonic",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thuốc bổ; nước tonic; có tác dụng bồi bổ",
+  "coll": [
+   "gin and tonic",
+   "tonic water",
+   "hair tonic",
+   "act as a tonic",
+   "a tonic for the soul"
+  ]
+ },
+ {
+  "id": "edgy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "táo bạo, gai góc; bồn chồn, dễ cáu",
+  "coll": [
+   "edgy humour",
+   "edgy style",
+   "feel edgy",
+   "a bit edgy",
+   "edgy comedy"
+  ]
+ },
+ {
+  "id": "chloride",
+  "pos": [
+   "n"
+  ],
+  "vi": "clorua",
+  "coll": [
+   "sodium chloride",
+   "calcium chloride",
+   "chloride ion",
+   "polyvinyl chloride",
+   "chloride levels"
+  ]
+ },
+ {
+  "id": "magnum",
+  "pos": [
+   "n"
+  ],
+  "vi": "chai rượu 1,5 lít; đạn cỡ mạnh magnum",
+  "coll": [
+   "a magnum of champagne",
+   ".44 Magnum",
+   "magnum revolver",
+   "magnum bottle",
+   "magnum opus"
+  ]
+ },
+ {
+  "id": "futile",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô ích; công cốc",
+  "coll": [
+   "a futile attempt",
+   "futile effort",
+   "futile exercise",
+   "prove futile",
+   "utterly futile"
+  ]
+ },
+ {
+  "id": "oxidation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự oxy hóa",
+  "coll": [
+   "oxidation reaction",
+   "oxidation state",
+   "prevent oxidation",
+   "rate of oxidation",
+   "oxidation number"
+  ]
+ }
+]

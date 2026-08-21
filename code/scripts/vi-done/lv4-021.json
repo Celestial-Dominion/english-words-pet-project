@@ -1,0 +1,402 @@
+{
+  "derisive": {
+    "vi": "chế nhạo; giễu cợt khinh miệt",
+    "coll": ["a derisive laugh", "derisive comments", "a derisive snort", "derisive laughter"]
+  },
+  "disdainful": {
+    "vi": "khinh thường; coi khinh ra mặt",
+    "coll": ["a disdainful look", "disdainful of authority", "a disdainful tone", "disdainful glance"]
+  },
+  "interrogative": {
+    "vi": "nghi vấn; dò hỏi; từ nghi vấn",
+    "coll": ["an interrogative sentence", "an interrogative pronoun", "an interrogative tone", "the interrogative form"]
+  },
+  "timidity": {
+    "vi": "sự rụt rè; tính nhút nhát",
+    "coll": ["overcome timidity", "natural timidity", "a certain timidity", "timidity and fear"]
+  },
+  "ignominious": {
+    "vi": "nhục nhã; ê chề; ô nhục",
+    "coll": ["an ignominious defeat", "an ignominious end", "an ignominious retreat", "an ignominious failure"]
+  },
+  "prissy": {
+    "vi": "õng ẹo kiểu cách; khó tính chỉn chu quá mức",
+    "coll": ["a prissy manner", "prissy about details", "sound prissy", "a prissy little voice"]
+  },
+  "syllabic": {
+    "vi": "thuộc âm tiết; tính theo âm tiết",
+    "coll": ["syllabic structure", "a syllabic writing system", "syllabic stress", "syllabic consonant"]
+  },
+  "fractious": {
+    "vi": "hay gây gổ; cáu bẳn; bất trị",
+    "coll": ["a fractious relationship", "fractious debate", "a fractious child", "fractious coalition"]
+  },
+  "ardor": {
+    "vi": "nhiệt huyết; sự say mê nồng nhiệt",
+    "coll": ["youthful ardor", "revolutionary ardor", "with great ardor", "cool his ardor"]
+  },
+  "echolocation": {
+    "vi": "định vị bằng tiếng vang",
+    "coll": ["use echolocation", "bat echolocation", "echolocation calls", "navigate by echolocation"]
+  },
+  "leaven": {
+    "vi": "men làm nở bột; làm dậy men; làm bớt nặng nề",
+    "coll": ["leaven the dough", "act as a leaven", "leaven with humour", "bread without leaven"]
+  },
+  "neophyte": {
+    "vi": "người mới vào nghề; tân binh; tân tòng",
+    "coll": ["a political neophyte", "a complete neophyte", "neophytes and experts", "a neophyte in the field"]
+  },
+  "mien": {
+    "vi": "phong thái; vẻ mặt, dáng vẻ",
+    "coll": ["a solemn mien", "a grave mien", "his gentle mien", "a haughty mien"]
+  },
+  "commode": {
+    "vi": "ghế bô vệ sinh; tủ ngăn kéo thấp",
+    "coll": ["a bedside commode", "an antique commode", "use a commode", "a mahogany commode"]
+  },
+  "affectation": {
+    "vi": "điệu bộ giả tạo; sự làm bộ làm điệu",
+    "coll": ["without affectation", "an affectation of indifference", "mere affectation", "a silly affectation"]
+  },
+  "pressurization": {
+    "vi": "sự tạo áp suất; sự điều áp",
+    "coll": ["cabin pressurization", "loss of pressurization", "the pressurization system", "pressurization failure"]
+  },
+  "bauble": {
+    "vi": "đồ trang sức rẻ tiền; quả cầu treo cây thông",
+    "coll": ["a shiny bauble", "Christmas baubles", "a worthless bauble", "hang baubles on the tree"]
+  },
+  "edification": {
+    "vi": "sự khai trí; sự bồi dưỡng tinh thần",
+    "coll": ["for your edification", "moral edification", "the edification of readers", "spiritual edification"]
+  },
+  "derisively": {
+    "vi": "đầy chế nhạo; giễu cợt",
+    "coll": ["laugh derisively", "derisively dismiss", "snort derisively", "derisively refer to"]
+  },
+  "rumination": {
+    "vi": "sự trầm ngâm suy ngẫm; sự nghĩ ngợi day dứt",
+    "coll": ["idle rumination", "philosophical rumination", "endless rumination", "rumination on the past"]
+  },
+  "histrionic": {
+    "vi": "kịch tính quá lố; làm quá lên; thuộc diễn xuất",
+    "coll": ["histrionic behaviour", "a histrionic outburst", "histrionic personality disorder", "overly histrionic"]
+  },
+  "reverberate": {
+    "vi": "vang vọng; dội lại; lan tỏa ảnh hưởng",
+    "coll": ["reverberate through the hall", "reverberate around the world", "the sound reverberated", "reverberate for years"]
+  },
+  "surreptitious": {
+    "vi": "lén lút; vụng trộm; giấu giếm",
+    "coll": ["a surreptitious glance", "a surreptitious meeting", "surreptitious recording", "surreptitious entry"]
+  },
+  "resound": {
+    "vi": "vang dội; vang lên khắp nơi",
+    "coll": ["resound through the hall", "resound with applause", "resound around the world", "voices resound"]
+  },
+  "circumnavigate": {
+    "vi": "đi vòng quanh; đi vòng quanh thế giới",
+    "coll": ["circumnavigate the globe", "circumnavigate the island", "the first to circumnavigate", "circumnavigate by sea"]
+  },
+  "indolent": {
+    "vi": "lười biếng; uể oải; tiến triển chậm",
+    "coll": ["an indolent lifestyle", "indolent and lazy", "an indolent manner", "an indolent tumour"]
+  },
+  "mutinous": {
+    "vi": "nổi loạn; bất tuân; hằm hè chống đối",
+    "coll": ["a mutinous crew", "mutinous sailors", "a mutinous mood", "grow mutinous"]
+  },
+  "wordsmith": {
+    "vi": "người viết lách tài hoa; bậc thầy ngôn từ",
+    "coll": ["a skilled wordsmith", "a gifted wordsmith", "a true wordsmith", "wordsmith the text"]
+  },
+  "imperceptibly": {
+    "vi": "khó nhận ra; hầu như không thấy được",
+    "coll": ["almost imperceptibly", "change imperceptibly", "imperceptibly slow", "shift imperceptibly"]
+  },
+  "ingratiate": {
+    "vi": "lấy lòng; nịnh nọt để được ưu ái",
+    "coll": ["ingratiate himself with", "try to ingratiate", "ingratiate oneself", "ingratiate with the boss"]
+  },
+  "perversity": {
+    "vi": "tính ngang ngược; sự trái khoáy; sự lệch lạc",
+    "coll": ["sheer perversity", "out of perversity", "human perversity", "the perversity of fate"]
+  },
+  "magnanimity": {
+    "vi": "sự độ lượng; lòng cao thượng",
+    "coll": ["show magnanimity", "magnanimity in victory", "an act of magnanimity", "great magnanimity"]
+  },
+  "wrack": {
+    "vi": "tàn tích đổ nát; sự tàn phá; rong biển dạt bờ",
+    "coll": ["wrack and ruin", "go to wrack", "wracked with pain", "wracked by guilt"]
+  },
+  "capacious": {
+    "vi": "rộng rãi chứa được nhiều; thênh thang",
+    "coll": ["a capacious bag", "a capacious room", "capacious pockets", "a capacious memory"]
+  },
+  "calorific": {
+    "vi": "sinh nhiệt; giàu calo",
+    "coll": ["calorific value", "highly calorific", "calorific content", "calorific intake"]
+  },
+  "brandish": {
+    "vi": "vung lên, khua; giơ ra khoe",
+    "coll": ["brandish a weapon", "brandish a knife", "brandish a sword", "brandish a document"]
+  },
+  "ravish": {
+    "vi": "làm mê đắm; làm ngây ngất; cưỡng bức",
+    "coll": ["ravished by beauty", "ravish the senses", "ravish the eye", "ravished with delight"]
+  },
+  "incongruity": {
+    "vi": "sự khập khiễng; điều không ăn nhập",
+    "coll": ["a striking incongruity", "the incongruity of the situation", "notice the incongruity", "an apparent incongruity"]
+  },
+  "tenaciously": {
+    "vi": "kiên trì bám chặt; bền bỉ",
+    "coll": ["cling tenaciously", "tenaciously defend", "hold on tenaciously", "tenaciously pursue"]
+  },
+  "circumnavigation": {
+    "vi": "chuyến đi vòng quanh thế giới",
+    "coll": ["the first circumnavigation", "a solo circumnavigation", "complete a circumnavigation", "circumnavigation of the globe"]
+  },
+  "malleability": {
+    "vi": "tính dễ uốn; khả năng dát mỏng; tính dễ tác động",
+    "coll": ["the malleability of metal", "the malleability of the mind", "great malleability", "test the malleability"]
+  },
+  "decentralize": {
+    "vi": "phân quyền; phân tán, không tập trung",
+    "coll": ["decentralize power", "decentralize decision-making", "decentralize the system", "decentralize government"]
+  },
+  "euphemistically": {
+    "vi": "theo cách nói giảm nói tránh",
+    "coll": ["euphemistically called", "euphemistically known as", "euphemistically described", "put it euphemistically"]
+  },
+  "vandalize": {
+    "vi": "phá hoại tài sản; đập phá bôi bẩn",
+    "coll": ["vandalize a car", "vandalize property", "badly vandalized", "vandalize a monument"]
+  },
+  "encumbrance": {
+    "vi": "gánh nặng vướng víu; ràng buộc pháp lý",
+    "coll": ["free from encumbrance", "a legal encumbrance", "an encumbrance on the property", "without encumbrance"]
+  },
+  "contrive": {
+    "vi": "xoay xở làm được; bày ra, dựng nên",
+    "coll": ["contrive a plan", "contrive to escape", "contrive a solution", "contrive a meeting"]
+  },
+  "verisimilitude": {
+    "vi": "vẻ chân thực như thật",
+    "coll": ["a sense of verisimilitude", "add verisimilitude", "lack verisimilitude", "historical verisimilitude"]
+  },
+  "buffoonery": {
+    "vi": "trò hề; hành vi lố bịch",
+    "coll": ["political buffoonery", "sheer buffoonery", "comic buffoonery", "indulge in buffoonery"]
+  },
+  "totemic": {
+    "vi": "mang tính vật tổ; tượng trưng thiêng liêng",
+    "coll": ["a totemic figure", "totemic significance", "totemic status", "a totemic symbol"]
+  },
+  "prurient": {
+    "vi": "dâm ô, thèm khát nhục dục; tò mò khiếm nhã",
+    "coll": ["prurient interest", "prurient curiosity", "prurient details", "a prurient fascination"]
+  },
+  "ruminate": {
+    "vi": "ngẫm nghĩ; suy đi tính lại; nhai lại",
+    "coll": ["ruminate on the problem", "ruminate over", "ruminate about the past", "cows ruminate"]
+  },
+  "octogenarian": {
+    "vi": "người ngoài tám mươi tuổi",
+    "coll": ["a sprightly octogenarian", "an octogenarian widow", "octogenarians and older", "still active as an octogenarian"]
+  },
+  "presupposition": {
+    "vi": "giả định ngầm; tiền giả định",
+    "coll": ["a basic presupposition", "underlying presuppositions", "challenge a presupposition", "cultural presuppositions"]
+  },
+  "unsuspected": {
+    "vi": "không ai ngờ tới; chưa bị nghi ngờ",
+    "coll": ["unsuspected talent", "previously unsuspected", "unsuspected depths", "an unsuspected link"]
+  },
+  "brouhaha": {
+    "vi": "vụ ồn ào om sòm; sự náo động",
+    "coll": ["cause a brouhaha", "a media brouhaha", "the recent brouhaha", "a political brouhaha"]
+  },
+  "disparagement": {
+    "vi": "sự chê bai; sự hạ thấp",
+    "coll": ["without disparagement", "self-disparagement", "public disparagement", "disparagement of rivals"]
+  },
+  "self-aggrandizement": {
+    "vi": "sự tự đề cao; thói tự tô vẽ bản thân",
+    "coll": ["shameless self-aggrandizement", "a act of self-aggrandizement", "pure self-aggrandizement", "seek self-aggrandizement"]
+  },
+  "demystify": {
+    "vi": "làm sáng tỏ; giải mã điều bí ẩn",
+    "coll": ["demystify the process", "demystify science", "help demystify", "demystify the jargon"]
+  },
+  "totter": {
+    "vi": "lảo đảo; đi loạng choạng; lung lay sắp đổ",
+    "coll": ["totter along", "totter on the edge", "totter towards collapse", "totter unsteadily"]
+  },
+  "floe": {
+    "vi": "tảng băng trôi dẹt",
+    "coll": ["an ice floe", "drift on a floe", "a large floe", "floes of sea ice"]
+  },
+  "indignantly": {
+    "vi": "đầy phẫn nộ; bất bình",
+    "coll": ["reply indignantly", "indignantly deny", "protest indignantly", "indignantly refuse"]
+  },
+  "callously": {
+    "vi": "nhẫn tâm; lạnh lùng vô cảm",
+    "coll": ["callously ignore", "callously dismiss", "act callously", "callously murdered"]
+  },
+  "pervasiveness": {
+    "vi": "sự lan tỏa khắp nơi; tính phổ biến rộng khắp",
+    "coll": ["the pervasiveness of technology", "the pervasiveness of corruption", "sheer pervasiveness", "the pervasiveness of the media"]
+  },
+  "resoundingly": {
+    "vi": "vang dội; dứt khoát rõ ràng",
+    "coll": ["resoundingly defeated", "resoundingly rejected", "resoundingly successful", "answer resoundingly"]
+  },
+  "mesmeric": {
+    "vi": "mê hoặc; cuốn hút như thôi miên",
+    "coll": ["a mesmeric performance", "mesmeric quality", "a mesmeric gaze", "mesmeric rhythm"]
+  },
+  "gravitationally": {
+    "vi": "về mặt hấp dẫn; do lực hấp dẫn",
+    "coll": ["gravitationally bound", "gravitationally attracted", "gravitationally unstable", "gravitationally lensed"]
+  },
+  "contemptuously": {
+    "vi": "đầy khinh miệt; khinh khỉnh",
+    "coll": ["contemptuously dismiss", "smile contemptuously", "contemptuously reject", "speak contemptuously"]
+  },
+  "unpromising": {
+    "vi": "không hứa hẹn; kém triển vọng",
+    "coll": ["an unpromising start", "unpromising material", "an unpromising beginning", "look unpromising"]
+  },
+  "belligerence": {
+    "vi": "sự hung hăng gây sự; thái độ hiếu chiến",
+    "coll": ["open belligerence", "military belligerence", "a tone of belligerence", "show belligerence"]
+  },
+  "laudatory": {
+    "vi": "ca ngợi; tán dương",
+    "coll": ["laudatory reviews", "a laudatory speech", "laudatory comments", "highly laudatory"]
+  },
+  "nostalgically": {
+    "vi": "đầy hoài niệm; nhớ nhung quá khứ",
+    "coll": ["look back nostalgically", "nostalgically recall", "speak nostalgically", "nostalgically remember"]
+  },
+  "treacherously": {
+    "vi": "phản trắc; nguy hiểm khôn lường",
+    "coll": ["treacherously slippery", "act treacherously", "treacherously steep", "betray treacherously"]
+  },
+  "solipsism": {
+    "vi": "thuyết duy ngã; sự chỉ biết mình",
+    "coll": ["philosophical solipsism", "a form of solipsism", "descend into solipsism", "moral solipsism"]
+  },
+  "preconception": {
+    "vi": "định kiến sẵn có; thành kiến ban đầu",
+    "coll": ["challenge preconceptions", "existing preconceptions", "free of preconceptions", "cultural preconceptions"]
+  },
+  "emulsifier": {
+    "vi": "chất nhũ hóa",
+    "coll": ["a natural emulsifier", "food emulsifiers", "add an emulsifier", "act as an emulsifier"]
+  },
+  "ingratiating": {
+    "vi": "nịnh nọt lấy lòng; xu nịnh",
+    "coll": ["an ingratiating smile", "an ingratiating manner", "ingratiating behaviour", "an ingratiating tone"]
+  },
+  "presuppose": {
+    "vi": "mặc nhiên giả định; ngầm đòi hỏi phải có",
+    "coll": ["presuppose that", "presuppose knowledge of", "presuppose the existence of", "necessarily presuppose"]
+  },
+  "dubiously": {
+    "vi": "nghi ngờ; ngờ vực; đáng ngờ",
+    "coll": ["look dubiously", "dubiously legal", "eye him dubiously", "dubiously described as"]
+  },
+  "disparagingly": {
+    "vi": "đầy chê bai; miệt thị",
+    "coll": ["speak disparagingly", "disparagingly refer to", "comment disparagingly", "disparagingly dismissed"]
+  },
+  "ruminant": {
+    "vi": "động vật nhai lại; nhai lại; trầm tư",
+    "coll": ["ruminant animals", "ruminant livestock", "the ruminant stomach", "ruminant digestion"]
+  },
+  "indolence": {
+    "vi": "sự lười biếng; tính uể oải",
+    "coll": ["sheer indolence", "a life of indolence", "habitual indolence", "indolence and apathy"]
+  },
+  "antediluvian": {
+    "vi": "cổ lỗ sĩ; trước thời đại hồng thủy",
+    "coll": ["antediluvian attitudes", "antediluvian views", "an antediluvian system", "antediluvian times"]
+  },
+  "compellingly": {
+    "vi": "đầy sức thuyết phục; cuốn hút khó cưỡng",
+    "coll": ["compellingly argued", "compellingly written", "argue compellingly", "compellingly simple"]
+  },
+  "teem": {
+    "vi": "đầy nhung nhúc; tràn ngập; mưa như trút",
+    "coll": ["teem with life", "teem with fish", "teem with people", "teeming with ideas"]
+  },
+  "pressurize": {
+    "vi": "gây sức ép; điều áp, nén áp suất",
+    "coll": ["pressurize the cabin", "pressurize someone into", "feel pressurized", "a pressurized container"]
+  },
+  "presentational": {
+    "vi": "thuộc cách trình bày; về hình thức thể hiện",
+    "coll": ["presentational skills", "presentational style", "a presentational issue", "presentational changes"]
+  },
+  "unobtrusively": {
+    "vi": "kín đáo; lặng lẽ không gây chú ý",
+    "coll": ["move unobtrusively", "unobtrusively placed", "watch unobtrusively", "unobtrusively slip away"]
+  },
+  "inchoate": {
+    "vi": "còn sơ khai; mới manh nha; chưa định hình",
+    "coll": ["an inchoate idea", "inchoate feelings", "an inchoate movement", "inchoate offences"]
+  },
+  "euphemistic": {
+    "vi": "nói giảm nói tránh; mang tính uyển ngữ",
+    "coll": ["a euphemistic term", "euphemistic language", "a euphemistic phrase", "euphemistic expression"]
+  },
+  "unexceptional": {
+    "vi": "bình thường; không có gì nổi bật",
+    "coll": ["an unexceptional performance", "otherwise unexceptional", "unexceptional results", "an unexceptional meal"]
+  },
+  "whir": {
+    "vi": "kêu vù vù; tiếng rè rè quay",
+    "coll": ["the whir of the fan", "whir into life", "a soft whir", "the whir of machinery"]
+  },
+  "stringently": {
+    "vi": "nghiêm ngặt; chặt chẽ",
+    "coll": ["stringently enforced", "stringently regulated", "stringently applied", "stringently tested"]
+  },
+  "leavening": {
+    "vi": "men nở; sự làm dậy men; chút gia giảm cho bớt nặng nề",
+    "coll": ["a leavening agent", "add leavening", "the leavening of humour", "natural leavening"]
+  },
+  "methodologically": {
+    "vi": "về mặt phương pháp luận",
+    "coll": ["methodologically sound", "methodologically rigorous", "methodologically flawed", "methodologically speaking"]
+  },
+  "cultish": {
+    "vi": "kiểu giáo phái; sùng bái cuồng tín",
+    "coll": ["a cultish following", "cultish behaviour", "cultish devotion", "a cultish atmosphere"]
+  },
+  "topographically": {
+    "vi": "về mặt địa hình",
+    "coll": ["topographically diverse", "topographically complex", "topographically similar", "mapped topographically"]
+  },
+  "economize": {
+    "vi": "tiết kiệm; chi tiêu dè sẻn",
+    "coll": ["economize on fuel", "economize on costs", "try to economize", "economize resources"]
+  },
+  "tantalizingly": {
+    "vi": "gần mà không với tới; đầy khêu gợi hứa hẹn",
+    "coll": ["tantalizingly close", "tantalizingly out of reach", "tantalizingly brief", "tantalizingly slow"]
+  },
+  "elephantine": {
+    "vi": "to kềnh; nặng nề như voi",
+    "coll": ["elephantine proportions", "an elephantine memory", "elephantine size", "elephantine clumsiness"]
+  },
+  "revile": {
+    "vi": "mắng nhiếc; lăng mạ; bị căm ghét",
+    "coll": ["widely reviled", "revile the government", "reviled by critics", "revile as a traitor"]
+  }
+}

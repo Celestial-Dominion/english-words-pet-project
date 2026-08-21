@@ -1,0 +1,402 @@
+{
+ "soul": {
+  "vi": "linh hồn; tâm hồn; con người",
+  "coll": ["body and soul", "heart and soul", "soul music", "a kind soul", "soul searching"]
+ },
+ "supply": {
+  "vi": "cung cấp; nguồn cung; nguồn hàng dự trữ",
+  "coll": ["supply and demand", "water supply", "supply chain", "food supply", "in short supply"]
+ },
+ "waste": {
+  "vi": "lãng phí; rác thải; sự phí phạm",
+  "coll": ["waste time", "a waste of money", "waste disposal", "toxic waste", "go to waste"]
+ },
+ "weird": {
+  "vi": "kỳ quặc; kỳ lạ; quái dị",
+  "coll": ["a weird feeling", "weird and wonderful", "look weird", "sound weird", "a weird guy"]
+ },
+ "artist": {
+  "vi": "nghệ sĩ; họa sĩ; người tài hoa",
+  "coll": ["a talented artist", "recording artist", "makeup artist", "con artist", "the artist's studio"]
+ },
+ "edition": {
+  "vi": "ấn bản; lần xuất bản; số báo",
+  "coll": ["first edition", "limited edition", "special edition", "revised edition", "paperback edition"]
+ },
+ "engineering": {
+  "vi": "kỹ thuật; ngành kỹ sư; việc chế tạo",
+  "coll": ["civil engineering", "software engineering", "mechanical engineering", "an engineering degree", "genetic engineering"]
+ },
+ "institute": {
+  "vi": "viện, học viện; thiết lập, ban hành",
+  "coll": ["a research institute", "institute of technology", "national institute", "institute proceedings", "institute a policy"]
+ },
+ "message board": {
+  "vi": "diễn đàn mạng; bảng tin",
+  "coll": ["post on a message board", "an online message board", "message board thread", "community message board"]
+ },
+ "obviously": {
+  "vi": "rõ ràng là; hiển nhiên; dĩ nhiên",
+  "coll": ["obviously wrong", "quite obviously", "obviously not", "obviously true"]
+ },
+ "option": {
+  "vi": "lựa chọn; phương án; quyền chọn",
+  "coll": ["have no option", "the best option", "keep your options open", "a viable option", "stock options"]
+ },
+ "prison": {
+  "vi": "nhà tù; sự tù đày",
+  "coll": ["go to prison", "a prison sentence", "escape from prison", "release from prison", "maximum-security prison"]
+ },
+ "bet": {
+  "vi": "cá cược; vụ cá cược; chắc chắn rồi",
+  "coll": ["place a bet", "win a bet", "bet on a horse", "a safe bet", "you bet"]
+ },
+ "firm": {
+  "vi": "công ty, hãng; vững chắc; kiên quyết",
+  "coll": ["a law firm", "a firm belief", "stand firm", "a firm grip", "a firm handshake"]
+ },
+ "spirit": {
+  "vi": "tinh thần; linh hồn; hồn ma; rượu mạnh",
+  "coll": ["team spirit", "in good spirits", "fighting spirit", "community spirit", "the spirit of the law"]
+ },
+ "aware": {
+  "vi": "nhận thức được; biết rõ; có ý thức",
+  "coll": ["be aware of", "become aware", "well aware", "acutely aware", "environmentally aware"]
+ },
+ "eastern": {
+  "vi": "phía đông; thuộc phương Đông",
+  "coll": ["eastern Europe", "the eastern seaboard", "the eastern coast", "eastern religions", "eastern Asia"]
+ },
+ "fifth": {
+  "vi": "thứ năm; một phần năm",
+  "coll": ["the fifth time", "fifth place", "the fifth floor", "a fifth of the total", "the fifth century"]
+ },
+ "nor": {
+  "vi": "cũng không; và cũng chẳng",
+  "coll": ["neither ... nor", "nor do I", "nor should we", "nor was it"]
+ },
+ "progress": {
+  "vi": "sự tiến bộ; tiến triển; sự tiến hành",
+  "coll": ["make progress", "in progress", "a progress report", "slow progress", "progress towards a goal"]
+ },
+ "proud": {
+  "vi": "tự hào; hãnh diện; kiêu ngạo",
+  "coll": ["proud of", "proud parents", "proud to be", "a proud moment", "a proud tradition"]
+ },
+ "require": {
+  "vi": "yêu cầu; đòi hỏi; cần có",
+  "coll": ["require attention", "as required", "require approval", "require a permit", "require patience"]
+ },
+ "van": {
+  "vi": "xe tải nhỏ; xe van",
+  "coll": ["a delivery van", "a white van", "a moving van", "van driver", "hire a van"]
+ },
+ "concept": {
+  "vi": "khái niệm; ý tưởng; quan niệm",
+  "coll": ["a basic concept", "the concept of freedom", "grasp a concept", "an abstract concept", "a concept car"]
+ },
+ "journal": {
+  "vi": "tạp chí chuyên ngành; nhật ký; sổ ghi chép",
+  "coll": ["a scientific journal", "keep a journal", "an academic journal", "a journal article", "a medical journal"]
+ },
+ "leadership": {
+  "vi": "sự lãnh đạo; ban lãnh đạo; tài lãnh đạo",
+  "coll": ["strong leadership", "leadership skills", "under the leadership of", "a leadership role", "party leadership"]
+ },
+ "length": {
+  "vi": "chiều dài; độ dài; thời lượng",
+  "coll": ["the length of", "full length", "at length", "length and width", "arm's length"]
+ },
+ "onto": {
+  "vi": "lên trên; lên; sang",
+  "coll": ["climb onto", "jump onto", "hold onto", "move onto", "get onto a bus"]
+ },
+ "prove": {
+  "vi": "chứng minh; chứng tỏ; hóa ra là",
+  "coll": ["prove a point", "prove guilty", "prove wrong", "prove yourself", "prove a theory"]
+ },
+ "rare": {
+  "vi": "hiếm; hiếm có; tái (thịt)",
+  "coll": ["a rare occasion", "a rare disease", "rare species", "on rare occasions", "a rare steak"]
+ },
+ "setting": {
+  "vi": "bối cảnh; cài đặt; khung cảnh",
+  "coll": ["a rural setting", "default settings", "privacy settings", "change the settings", "the setting of a novel"]
+ },
+ "ad": {
+  "vi": "quảng cáo; mẩu quảng cáo",
+  "coll": ["a TV ad", "place an ad", "classified ads", "an ad campaign", "a banner ad"]
+ },
+ "balance": {
+  "vi": "sự cân bằng; số dư; giữ thăng bằng",
+  "coll": ["keep your balance", "lose your balance", "work-life balance", "bank balance", "strike a balance"]
+ },
+ "connection": {
+  "vi": "sự kết nối; mối liên hệ; quan hệ quen biết",
+  "coll": ["an internet connection", "a close connection", "in connection with", "make a connection", "lose connection"]
+ },
+ "fellow": {
+  "vi": "anh chàng, gã; bạn đồng nghiệp; cùng, đồng",
+  "coll": ["fellow students", "fellow citizens", "fellow passengers", "a nice fellow", "fellow workers"]
+ },
+ "stick": {
+  "vi": "cây gậy, que; dán, dính; mắc kẹt",
+  "coll": ["a walking stick", "stick to the plan", "stick together", "stick out", "stick a stamp on"]
+ },
+ "vehicle": {
+  "vi": "xe cộ, phương tiện; công cụ truyền tải",
+  "coll": ["a motor vehicle", "a commercial vehicle", "vehicle registration", "a stolen vehicle", "an off-road vehicle"]
+ },
+ "volume": {
+  "vi": "âm lượng; thể tích; khối lượng; quyển, tập",
+  "coll": ["turn up the volume", "the volume of traffic", "sales volume", "volume control", "a volume of poetry"]
+ },
+ "aid": {
+  "vi": "sự giúp đỡ; viện trợ; hỗ trợ",
+  "coll": ["first aid", "foreign aid", "financial aid", "aid workers", "come to someone's aid"]
+ },
+ "concerned": {
+  "vi": "lo lắng; quan tâm; có liên quan",
+  "coll": ["be concerned about", "deeply concerned", "as far as I'm concerned", "concerned parents", "the people concerned"]
+ },
+ "criminal": {
+  "vi": "tội phạm; thuộc hình sự; phạm pháp",
+  "coll": ["a criminal record", "a convicted criminal", "a criminal offence", "criminal justice", "a war criminal"]
+ },
+ "cultural": {
+  "vi": "thuộc văn hóa; về văn hóa",
+  "coll": ["cultural differences", "cultural heritage", "cultural identity", "cultural background", "cultural exchange"]
+ },
+ "guide": {
+  "vi": "hướng dẫn viên; sách hướng dẫn; dẫn đường",
+  "coll": ["a tour guide", "a guide book", "a guide dog", "guide someone through", "a study guide"]
+ },
+ "investigation": {
+  "vi": "cuộc điều tra; sự nghiên cứu",
+  "coll": ["a criminal investigation", "launch an investigation", "under investigation", "a thorough investigation", "police investigation"]
+ },
+ "responsibility": {
+  "vi": "trách nhiệm; nhiệm vụ; bổn phận",
+  "coll": ["take responsibility", "a sense of responsibility", "personal responsibility", "claim responsibility", "shared responsibility"]
+ },
+ "slightly": {
+  "vi": "hơi, một chút; khẽ",
+  "coll": ["slightly different", "slightly better", "slightly more", "slightly higher", "slightly nervous"]
+ },
+ "treat": {
+  "vi": "đối xử; điều trị; chiêu đãi; món khoái khẩu",
+  "coll": ["treat someone well", "treat a disease", "treat yourself", "a special treat", "treat with respect"]
+ },
+ "unique": {
+  "vi": "độc nhất, duy nhất; độc đáo; riêng có",
+  "coll": ["a unique opportunity", "unique to", "truly unique", "unique features", "a unique identifier"]
+ },
+ "variety": {
+  "vi": "sự đa dạng; nhiều loại; giống, chủng loại",
+  "coll": ["a wide variety of", "a variety of options", "add variety", "a variety show", "a new variety"]
+ },
+ "violence": {
+  "vi": "bạo lực; sự hung bạo",
+  "coll": ["domestic violence", "an outbreak of violence", "acts of violence", "gun violence", "resort to violence"]
+ },
+ "edge": {
+  "vi": "cạnh, rìa; mép; lợi thế",
+  "coll": ["the edge of the table", "on the edge", "cutting edge", "a competitive edge", "the edge of the cliff"]
+ },
+ "injury": {
+  "vi": "chấn thương; vết thương; tổn hại",
+  "coll": ["a serious injury", "a head injury", "sustain an injury", "injury time", "personal injury"]
+ },
+ "iron": {
+  "vi": "sắt; bàn là; là, ủi",
+  "coll": ["cast iron", "iron ore", "iron a shirt", "an iron will", "wrought iron"]
+ },
+ "prepared": {
+  "vi": "sẵn sàng; đã chuẩn bị; được pha chế sẵn",
+  "coll": ["be prepared for", "well prepared", "prepared to accept", "a prepared statement", "prepared food"]
+ },
+ "religion": {
+  "vi": "tôn giáo; đạo; tín ngưỡng",
+  "coll": ["freedom of religion", "practise a religion", "organized religion", "religion and politics", "convert to a religion"]
+ },
+ "blog": {
+  "vi": "nhật ký mạng (blog); bài blog; viết blog",
+  "coll": ["write a blog", "a blog post", "a personal blog", "read a blog", "start a blog"]
+ },
+ "democratic": {
+  "vi": "dân chủ; thuộc đảng Dân chủ",
+  "coll": ["a democratic society", "democratic elections", "the democratic process", "democratic values", "a democratic government"]
+ },
+ "ground floor": {
+  "vi": "tầng trệt; tầng một",
+  "coll": ["on the ground floor", "a ground floor apartment", "get in on the ground floor", "a ground floor flat"]
+ },
+ "honest": {
+  "vi": "trung thực; thật thà; chân thành",
+  "coll": ["an honest man", "to be honest", "an honest opinion", "an honest mistake", "an honest answer"]
+ },
+ "nuclear": {
+  "vi": "hạt nhân; nguyên tử",
+  "coll": ["nuclear weapons", "nuclear power", "nuclear energy", "a nuclear reactor", "a nuclear family"]
+ },
+ "port": {
+  "vi": "cảng, hải cảng; cổng (máy tính); rượu poóc-tô",
+  "coll": ["a busy port", "a port of entry", "a USB port", "port authority", "come into port"]
+ },
+ "presence": {
+  "vi": "sự có mặt; sự hiện diện; phong thái",
+  "coll": ["in the presence of", "a strong presence", "a military presence", "an online presence", "stage presence"]
+ },
+ "reduce": {
+  "vi": "giảm; làm giảm; cắt giảm",
+  "coll": ["reduce costs", "reduce the risk", "reduce waste", "greatly reduce", "reduce to a minimum"]
+ },
+ "solid": {
+  "vi": "rắn, đặc; vững chắc; chất rắn",
+  "coll": ["solid ground", "solid evidence", "solid gold", "frozen solid", "solid food"]
+ },
+ "stress": {
+  "vi": "sự căng thẳng; áp lực; nhấn mạnh",
+  "coll": ["under stress", "stress levels", "cope with stress", "stress the importance", "work-related stress"]
+ },
+ "taste": {
+  "vi": "vị, mùi vị; nếm; gu thẩm mỹ",
+  "coll": ["a bitter taste", "taste good", "have a taste", "good taste", "an acquired taste"]
+ },
+ "victory": {
+  "vi": "chiến thắng; thắng lợi",
+  "coll": ["win a victory", "a narrow victory", "claim victory", "a landslide victory", "victory over"]
+ },
+ "entirely": {
+  "vi": "hoàn toàn; toàn bộ",
+  "coll": ["entirely different", "not entirely", "entirely new", "entirely true", "entirely up to you"]
+ },
+ "failure": {
+  "vi": "sự thất bại; hỏng hóc; việc không làm được",
+  "coll": ["heart failure", "a complete failure", "failure to comply", "engine failure", "failure rate"]
+ },
+ "fuel": {
+  "vi": "nhiên liệu; tiếp nhiên liệu; thổi bùng",
+  "coll": ["fossil fuel", "fuel consumption", "fuel prices", "run out of fuel", "fuel efficiency"]
+ },
+ "initial": {
+  "vi": "ban đầu; đầu tiên; chữ cái đầu",
+  "coll": ["the initial stage", "an initial reaction", "the initial cost", "an initial response", "sign your initials"]
+ },
+ "massive": {
+  "vi": "khổng lồ; to lớn; đồ sộ",
+  "coll": ["a massive increase", "massive damage", "a massive success", "on a massive scale", "massive amounts"]
+ },
+ "regional": {
+  "vi": "thuộc khu vực; vùng, miền",
+  "coll": ["regional differences", "regional government", "a regional office", "a regional accent", "regional development"]
+ },
+ "session": {
+  "vi": "buổi, phiên; kỳ họp; phiên làm việc",
+  "coll": ["a training session", "a practice session", "in session", "a photo session", "a parliamentary session"]
+ },
+ "teaching": {
+  "vi": "việc dạy học; nghề dạy; giáo lý",
+  "coll": ["teaching methods", "teaching experience", "language teaching", "a teaching assistant", "the teachings of Buddha"]
+ },
+ "transfer": {
+  "vi": "chuyển; chuyển giao; sự chuyển nhượng",
+  "coll": ["transfer money", "a bank transfer", "the transfer of power", "transfer to another school", "a transfer fee"]
+ },
+ "upper": {
+  "vi": "phía trên; ở trên; cao hơn",
+  "coll": ["the upper body", "the upper class", "the upper lip", "the upper hand", "an upper limit"]
+ },
+ "alternative": {
+  "vi": "phương án thay thế; thay thế; khác biệt",
+  "coll": ["an alternative to", "no alternative", "alternative energy", "alternative medicine", "a viable alternative"]
+ },
+ "capacity": {
+  "vi": "sức chứa; năng lực; công suất",
+  "coll": ["seating capacity", "at full capacity", "production capacity", "the capacity to learn", "in his capacity as"]
+ },
+ "climate": {
+  "vi": "khí hậu; bầu không khí chung",
+  "coll": ["climate change", "a mild climate", "the economic climate", "a tropical climate", "the political climate"]
+ },
+ "duty": {
+  "vi": "nhiệm vụ; bổn phận; thuế",
+  "coll": ["on duty", "a sense of duty", "duty free", "civic duty", "off duty"]
+ },
+ "governor": {
+  "vi": "thống đốc; tỉnh trưởng; ủy viên hội đồng",
+  "coll": ["a state governor", "the governor of California", "deputy governor", "the governor's office", "an elected governor"]
+ },
+ "industrial": {
+  "vi": "thuộc công nghiệp; về công nghiệp",
+  "coll": ["the industrial revolution", "industrial waste", "an industrial park", "industrial production", "industrial action"]
+ },
+ "joint": {
+  "vi": "chung, liên kết; khớp xương; mối nối",
+  "coll": ["a joint venture", "a joint effort", "the knee joint", "a joint account", "a joint decision"]
+ },
+ "remove": {
+  "vi": "loại bỏ; gỡ bỏ; dời đi",
+  "coll": ["remove a stain", "remove from office", "remove obstacles", "remove the lid", "safely remove"]
+ },
+ "steel": {
+  "vi": "thép; bằng thép",
+  "coll": ["stainless steel", "the steel industry", "steel beams", "a steel mill", "nerves of steel"]
+ },
+ "turning": {
+  "vi": "chỗ rẽ; sự quay; khúc quanh",
+  "coll": ["a turning point", "take the first turning", "turning left", "a turning circle", "a sharp turning"]
+ },
+ "vice": {
+  "vi": "thói xấu; tệ nạn; phó (chức vụ)",
+  "coll": ["the vice president", "vices and virtues", "the vice squad", "a vice chairman", "smoking is his vice"]
+ },
+ "border": {
+  "vi": "biên giới; đường viền; giáp ranh",
+  "coll": ["cross the border", "border control", "a national border", "a border crossing", "border on"]
+ },
+ "command": {
+  "vi": "mệnh lệnh; ra lệnh; quyền chỉ huy",
+  "coll": ["give a command", "in command", "command respect", "the chain of command", "the command line"]
+ },
+ "dating": {
+  "vi": "việc hẹn hò; sự xác định niên đại",
+  "coll": ["online dating", "a dating app", "a dating site", "speed dating", "carbon dating"]
+ },
+ "enemy": {
+  "vi": "kẻ thù; quân địch; đối thủ",
+  "coll": ["a sworn enemy", "behind enemy lines", "make enemies", "the enemy forces", "public enemy"]
+ },
+ "ensure": {
+  "vi": "đảm bảo; bảo đảm chắc chắn",
+  "coll": ["ensure safety", "ensure success", "ensure that", "help ensure", "ensure compliance"]
+ },
+ "environmental": {
+  "vi": "thuộc môi trường; về môi trường",
+  "coll": ["environmental protection", "environmental impact", "environmental issues", "environmental damage", "environmental policy"]
+ },
+ "limit": {
+  "vi": "giới hạn; mức tối đa; hạn chế",
+  "coll": ["a speed limit", "a time limit", "set a limit", "within limits", "an age limit"]
+ },
+ "ocean": {
+  "vi": "đại dương; biển cả",
+  "coll": ["the Pacific Ocean", "the ocean floor", "across the ocean", "ocean currents", "ocean waves"]
+ },
+ "proof": {
+  "vi": "bằng chứng; chứng cứ; bản in thử",
+  "coll": ["proof of identity", "the burden of proof", "living proof", "proof of purchase", "proof of payment"]
+ },
+ "debt": {
+  "vi": "nợ; khoản nợ; món nợ ân tình",
+  "coll": ["pay off a debt", "in debt", "national debt", "a debt collector", "get into debt"]
+ },
+ "historical": {
+  "vi": "thuộc lịch sử; có thật trong lịch sử",
+  "coll": ["historical evidence", "a historical figure", "historical context", "historical records", "a historical novel"]
+ },
+ "honestly": {
+  "vi": "thành thật; thật lòng; nói thật thì",
+  "coll": ["honestly speaking", "quite honestly", "answer honestly", "honestly believe", "I honestly don't know"]
+ }
+}

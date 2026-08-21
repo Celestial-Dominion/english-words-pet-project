@@ -1,0 +1,874 @@
+[
+ {
+  "id": "protector",
+  "pos": [
+   "n"
+  ],
+  "vi": "người bảo vệ; thiết bị bảo vệ",
+  "coll": [
+   "a screen protector",
+   "an ear protector",
+   "a fierce protector",
+   "act as protector",
+   "a surge protector"
+  ]
+ },
+ {
+  "id": "pulp",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "bột giấy; thịt quả, cùi; nghiền nát",
+  "coll": [
+   "wood pulp",
+   "orange pulp",
+   "beat to a pulp",
+   "pulp fiction",
+   "paper pulp"
+  ]
+ },
+ {
+  "id": "sensory",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc giác quan; cảm giác",
+  "coll": [
+   "sensory perception",
+   "sensory overload",
+   "sensory neurons",
+   "sensory experience",
+   "sensory deprivation"
+  ]
+ },
+ {
+  "id": "outreach",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hoạt động tiếp cận cộng đồng; sự vươn tới",
+  "coll": [
+   "community outreach",
+   "an outreach programme",
+   "outreach workers",
+   "outreach efforts",
+   "public outreach"
+  ]
+ },
+ {
+  "id": "freelance",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "làm nghề tự do; người làm tự do",
+  "coll": [
+   "a freelance writer",
+   "work freelance",
+   "a freelance journalist",
+   "go freelance",
+   "freelance work"
+  ]
+ },
+ {
+  "id": "ignition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đánh lửa; ổ khóa điện; sự bốc cháy",
+  "coll": [
+   "turn the ignition",
+   "the ignition key",
+   "an ignition switch",
+   "ignition system",
+   "the point of ignition"
+  ]
+ },
+ {
+  "id": "timer",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ hẹn giờ; đồng hồ bấm giờ",
+  "coll": [
+   "set a timer",
+   "a kitchen timer",
+   "an egg timer",
+   "a countdown timer",
+   "the timer went off"
+  ]
+ },
+ {
+  "id": "archaeological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc khảo cổ học",
+  "coll": [
+   "an archaeological site",
+   "archaeological evidence",
+   "an archaeological dig",
+   "archaeological finds",
+   "archaeological research"
+  ]
+ },
+ {
+  "id": "validation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xác nhận, kiểm chứng; sự được công nhận",
+  "coll": [
+   "seek validation",
+   "data validation",
+   "external validation",
+   "validation of the results",
+   "emotional validation"
+  ]
+ },
+ {
+  "id": "communal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chung, của cộng đồng; giữa các cộng đồng",
+  "coll": [
+   "a communal kitchen",
+   "communal living",
+   "communal areas",
+   "communal violence",
+   "a communal space"
+  ]
+ },
+ {
+  "id": "suppression",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đàn áp; sự kìm nén; sự dập tắt",
+  "coll": [
+   "the suppression of dissent",
+   "fire suppression",
+   "immune suppression",
+   "voter suppression",
+   "suppression of evidence"
+  ]
+ },
+ {
+  "id": "restart",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khởi động lại; sự bắt đầu lại",
+  "coll": [
+   "restart the computer",
+   "restart the engine",
+   "restart negotiations",
+   "a fresh restart",
+   "restart the process"
+  ]
+ },
+ {
+  "id": "cardiovascular",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tim mạch",
+  "coll": [
+   "cardiovascular disease",
+   "cardiovascular health",
+   "cardiovascular exercise",
+   "cardiovascular risk",
+   "the cardiovascular system"
+  ]
+ },
+ {
+  "id": "investigative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "điều tra; mang tính điều tra",
+  "coll": [
+   "investigative journalism",
+   "an investigative reporter",
+   "investigative techniques",
+   "an investigative team",
+   "investigative powers"
+  ]
+ },
+ {
+  "id": "protagonist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân vật chính; người chủ xướng",
+  "coll": [
+   "the main protagonist",
+   "the novel's protagonist",
+   "a female protagonist",
+   "the story's protagonist",
+   "a key protagonist"
+  ]
+ },
+ {
+  "id": "cite",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "trích dẫn; nêu ra, viện dẫn",
+  "coll": [
+   "cite a source",
+   "cite an example",
+   "cite evidence",
+   "widely cited",
+   "cite reasons for"
+  ]
+ },
+ {
+  "id": "snail",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con ốc sên",
+  "coll": [
+   "at a snail's pace",
+   "a garden snail",
+   "snail shell",
+   "snail mail",
+   "a sea snail"
+  ]
+ },
+ {
+  "id": "muscular",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cơ bắp, vạm vỡ; thuộc về cơ",
+  "coll": [
+   "a muscular build",
+   "muscular arms",
+   "muscular strength",
+   "muscular dystrophy",
+   "lean and muscular"
+  ]
+ },
+ {
+  "id": "commercially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt thương mại; nhằm mục đích kinh doanh",
+  "coll": [
+   "commercially available",
+   "commercially successful",
+   "commercially viable",
+   "commercially produced",
+   "commercially sensitive"
+  ]
+ },
+ {
+  "id": "fixture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vật lắp cố định; trận đấu theo lịch; người gắn bó lâu năm",
+  "coll": [
+   "a light fixture",
+   "fixtures and fittings",
+   "a permanent fixture",
+   "the fixture list",
+   "a home fixture"
+  ]
+ },
+ {
+  "id": "alas",
+  "pos": [
+   "intj",
+   "n"
+  ],
+  "vi": "than ôi, tiếc thay",
+  "coll": [
+   "alas, it was too late",
+   "alas and alack",
+   "but alas",
+   "alas, he never came"
+  ]
+ },
+ {
+  "id": "monarchy",
+  "pos": [
+   "n"
+  ],
+  "vi": "chế độ quân chủ; nền quân chủ",
+  "coll": [
+   "a constitutional monarchy",
+   "an absolute monarchy",
+   "abolish the monarchy",
+   "the British monarchy",
+   "restore the monarchy"
+  ]
+ },
+ {
+  "id": "mattress",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nệm, đệm giường",
+  "coll": [
+   "a foam mattress",
+   "a spring mattress",
+   "a firm mattress",
+   "an air mattress",
+   "turn the mattress"
+  ]
+ },
+ {
+  "id": "lag",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "độ trễ; tụt lại phía sau; khoảng chậm trễ",
+  "coll": [
+   "jet lag",
+   "a time lag",
+   "lag behind competitors",
+   "a lag in growth",
+   "network lag"
+  ]
+ },
+ {
+  "id": "rant",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lớn tiếng chì chiết; bài chỉ trích dài dòng",
+  "coll": [
+   "go on a rant",
+   "rant and rave",
+   "an angry rant",
+   "rant about politics",
+   "a long rant"
+  ]
+ },
+ {
+  "id": "insulation",
+  "pos": [
+   "n"
+  ],
+  "vi": "vật liệu cách nhiệt; sự cách nhiệt, cách điện",
+  "coll": [
+   "loft insulation",
+   "thermal insulation",
+   "install insulation",
+   "sound insulation",
+   "insulation material"
+  ]
+ },
+ {
+  "id": "sane",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tỉnh táo, minh mẫn; hợp lý, sáng suốt",
+  "coll": [
+   "stay sane",
+   "keep me sane",
+   "a sane person",
+   "perfectly sane",
+   "a sane decision"
+  ]
+ },
+ {
+  "id": "heartbeat",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhịp tim; tiếng tim đập",
+  "coll": [
+   "a rapid heartbeat",
+   "an irregular heartbeat",
+   "listen to the heartbeat",
+   "in a heartbeat",
+   "the baby's heartbeat"
+  ]
+ },
+ {
+  "id": "believer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người tin tưởng; tín đồ",
+  "coll": [
+   "a firm believer",
+   "a true believer",
+   "a great believer in",
+   "believers and non-believers",
+   "become a believer"
+  ]
+ },
+ {
+  "id": "caffeine",
+  "pos": [
+   "n"
+  ],
+  "vi": "caffein, chất cafein",
+  "coll": [
+   "caffeine intake",
+   "caffeine free",
+   "a caffeine boost",
+   "cut down on caffeine",
+   "caffeine content"
+  ]
+ },
+ {
+  "id": "heh",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "hì, hê (tiếng cười khẽ)",
+  "coll": [
+   "heh, funny",
+   "heh heh",
+   "heh, sure",
+   "just kidding, heh"
+  ]
+ },
+ {
+  "id": "airborne",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lơ lửng trong không khí; đang bay; đổ bộ đường không",
+  "coll": [
+   "airborne particles",
+   "an airborne virus",
+   "get airborne",
+   "airborne troops",
+   "airborne transmission"
+  ]
+ },
+ {
+  "id": "lure",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dụ dỗ, lôi kéo; sức hấp dẫn, mồi nhử",
+  "coll": [
+   "lure customers",
+   "the lure of money",
+   "lure him into a trap",
+   "a fishing lure",
+   "the lure of the city"
+  ]
+ },
+ {
+  "id": "imminent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sắp xảy ra; cận kề",
+  "coll": [
+   "imminent danger",
+   "an imminent threat",
+   "imminent collapse",
+   "imminent attack",
+   "in imminent danger"
+  ]
+ },
+ {
+  "id": "vibrant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sôi động, tràn sức sống; rực rỡ (màu sắc)",
+  "coll": [
+   "a vibrant city",
+   "vibrant colours",
+   "a vibrant community",
+   "a vibrant economy",
+   "vibrant culture"
+  ]
+ },
+ {
+  "id": "partition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự chia cắt; vách ngăn; phân vùng ổ đĩa",
+  "coll": [
+   "the partition of India",
+   "a glass partition",
+   "a disk partition",
+   "partition the room",
+   "partition wall"
+  ]
+ },
+ {
+  "id": "neutrality",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trung lập; thái độ trung lập",
+  "coll": [
+   "maintain neutrality",
+   "net neutrality",
+   "armed neutrality",
+   "political neutrality",
+   "a policy of neutrality"
+  ]
+ },
+ {
+  "id": "prostate",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "tuyến tiền liệt",
+  "coll": [
+   "prostate cancer",
+   "an enlarged prostate",
+   "the prostate gland",
+   "a prostate exam",
+   "prostate problems"
+  ]
+ },
+ {
+  "id": "gladly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vui lòng, sẵn lòng",
+  "coll": [
+   "gladly accept",
+   "gladly help",
+   "I would gladly",
+   "gladly agree",
+   "gladly pay"
+  ]
+ },
+ {
+  "id": "activism",
+  "pos": [
+   "n"
+  ],
+  "vi": "hoạt động đấu tranh xã hội; sự vận động tích cực",
+  "coll": [
+   "political activism",
+   "environmental activism",
+   "student activism",
+   "online activism",
+   "a career in activism"
+  ]
+ },
+ {
+  "id": "susceptible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "dễ bị ảnh hưởng, dễ mắc; dễ bị lung lay",
+  "coll": [
+   "susceptible to infection",
+   "highly susceptible",
+   "susceptible to damage",
+   "more susceptible",
+   "susceptible to flattery"
+  ]
+ },
+ {
+  "id": "locality",
+  "pos": [
+   "n"
+  ],
+  "vi": "địa phương; khu vực, vùng lân cận",
+  "coll": [
+   "in the locality",
+   "a rural locality",
+   "the surrounding locality",
+   "the type locality",
+   "residents of the locality"
+  ]
+ },
+ {
+  "id": "intern",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "thực tập sinh; giam giữ, câu lưu",
+  "coll": [
+   "a summer intern",
+   "a medical intern",
+   "work as an intern",
+   "an unpaid intern",
+   "intern the prisoners"
+  ]
+ },
+ {
+  "id": "statistically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt thống kê",
+  "coll": [
+   "statistically significant",
+   "statistically speaking",
+   "statistically insignificant",
+   "statistically valid",
+   "statistically likely"
+  ]
+ },
+ {
+  "id": "inaugural",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đầu tiên, khai mạc; lễ nhậm chức",
+  "coll": [
+   "an inaugural address",
+   "the inaugural season",
+   "an inaugural flight",
+   "the inaugural meeting",
+   "inaugural speech"
+  ]
+ },
+ {
+  "id": "demise",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự sụp đổ, sự lụi tàn; sự qua đời",
+  "coll": [
+   "the demise of the company",
+   "his untimely demise",
+   "the demise of print media",
+   "lead to its demise",
+   "predict the demise"
+  ]
+ },
+ {
+  "id": "versatile",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đa năng; linh hoạt, nhiều tài",
+  "coll": [
+   "a versatile player",
+   "a versatile tool",
+   "highly versatile",
+   "a versatile ingredient",
+   "versatile enough"
+  ]
+ },
+ {
+  "id": "absorption",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hấp thụ; sự say mê, mải mê",
+  "coll": [
+   "water absorption",
+   "the absorption of nutrients",
+   "absorption rate",
+   "shock absorption",
+   "absorption in his work"
+  ]
+ },
+ {
+  "id": "accelerate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "tăng tốc; đẩy nhanh",
+  "coll": [
+   "accelerate growth",
+   "accelerate the process",
+   "the car accelerates",
+   "accelerate change",
+   "rapidly accelerate"
+  ]
+ },
+ {
+  "id": "collateral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tài sản thế chấp; phụ, đi kèm",
+  "coll": [
+   "collateral damage",
+   "put up collateral",
+   "use as collateral",
+   "collateral benefits",
+   "loan collateral"
+  ]
+ },
+ {
+  "id": "backlash",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phản ứng dữ dội; làn sóng phản đối",
+  "coll": [
+   "a public backlash",
+   "face a backlash",
+   "spark a backlash",
+   "a fierce backlash",
+   "political backlash"
+  ]
+ },
+ {
+  "id": "erase",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "xóa, tẩy đi; xóa sạch",
+  "coll": [
+   "erase the data",
+   "erase a memory",
+   "erase the board",
+   "erase all traces",
+   "permanently erase"
+  ]
+ },
+ {
+  "id": "tangible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hữu hình; cụ thể, thấy rõ được",
+  "coll": [
+   "tangible benefits",
+   "tangible results",
+   "tangible evidence",
+   "tangible assets",
+   "something tangible"
+  ]
+ },
+ {
+  "id": "softball",
+  "pos": [
+   "n"
+  ],
+  "vi": "môn bóng mềm; câu hỏi dễ",
+  "coll": [
+   "play softball",
+   "a softball team",
+   "a softball game",
+   "a softball question",
+   "women's softball"
+  ]
+ },
+ {
+  "id": "pornography",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "văn hóa phẩm khiêu dâm",
+  "coll": [
+   "child pornography",
+   "internet pornography",
+   "watch pornography",
+   "ban pornography",
+   "hardcore pornography"
+  ]
+ },
+ {
+  "id": "mute",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "tắt tiếng; câm, không nói; im lặng",
+  "coll": [
+   "mute the sound",
+   "on mute",
+   "the mute button",
+   "fall mute",
+   "mute the microphone"
+  ]
+ },
+ {
+  "id": "oxide",
+  "pos": [
+   "n"
+  ],
+  "vi": "oxit",
+  "coll": [
+   "iron oxide",
+   "nitrous oxide",
+   "zinc oxide",
+   "carbon oxides",
+   "an oxide layer"
+  ]
+ },
+ {
+  "id": "herein",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trong đây, trong văn bản này (trang trọng)",
+  "coll": [
+   "as described herein",
+   "herein lies the problem",
+   "the terms herein",
+   "contained herein",
+   "set forth herein"
+  ]
+ },
+ {
+  "id": "acne",
+  "pos": [
+   "n"
+  ],
+  "vi": "mụn trứng cá",
+  "coll": [
+   "severe acne",
+   "acne treatment",
+   "suffer from acne",
+   "acne scars",
+   "adult acne"
+  ]
+ },
+ {
+  "id": "congestion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tắc nghẽn giao thông; sự nghẹt mũi, sung huyết",
+  "coll": [
+   "traffic congestion",
+   "nasal congestion",
+   "reduce congestion",
+   "a congestion charge",
+   "chest congestion"
+  ]
+ }
+]

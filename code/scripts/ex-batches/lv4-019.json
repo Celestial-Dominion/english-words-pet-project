@@ -1,0 +1,815 @@
+[
+ {
+  "id": "tragically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách bi thảm; đau xót thay",
+  "coll": [
+   "tragically killed",
+   "tragically died",
+   "tragically short",
+   "end tragically"
+  ]
+ },
+ {
+  "id": "recruiter",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà tuyển dụng; người chiêu mộ",
+  "coll": [
+   "a corporate recruiter",
+   "an army recruiter",
+   "talk to a recruiter",
+   "a tech recruiter"
+  ]
+ },
+ {
+  "id": "dex",
+  "pos": [
+   "n"
+  ],
+  "vi": "chỉ số nhanh nhẹn (game); bậc mười lần",
+  "coll": [
+   "high dex",
+   "dex build",
+   "dex stat",
+   "boost dex"
+  ]
+ },
+ {
+  "id": "kodak",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "máy ảnh (cũ); tấm ảnh chụp (cũ); chụp ảnh (cũ)",
+  "coll": [
+   "a Kodak camera",
+   "a Kodak moment",
+   "Kodak film",
+   "take a kodak"
+  ]
+ },
+ {
+  "id": "brood",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "ưu tư nghiền ngẫm; lứa con; ấp trứng",
+  "coll": [
+   "brood over something",
+   "brood about the past",
+   "a brood of chicks",
+   "a brood hen"
+  ]
+ },
+ {
+  "id": "extant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "còn tồn tại; còn lưu lại",
+  "coll": [
+   "extant manuscripts",
+   "the earliest extant",
+   "extant species",
+   "still extant"
+  ]
+ },
+ {
+  "id": "antidote",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thuốc giải độc; phương thuốc hóa giải",
+  "coll": [
+   "an antidote to poison",
+   "the perfect antidote",
+   "an antidote for stress",
+   "administer an antidote"
+  ]
+ },
+ {
+  "id": "lament",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "than khóc; thương tiếc; khúc bi ai",
+  "coll": [
+   "lament the loss",
+   "lament the death of",
+   "a lament for",
+   "lament the decline"
+  ]
+ },
+ {
+  "id": "impeccable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hoàn hảo không chê được; chỉn chu",
+  "coll": [
+   "impeccable taste",
+   "impeccable manners",
+   "impeccable timing",
+   "impeccable credentials"
+  ]
+ },
+ {
+  "id": "heinous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ghê tởm; tày trời; cực kỳ tàn ác",
+  "coll": [
+   "a heinous crime",
+   "a heinous act",
+   "heinous offence",
+   "particularly heinous"
+  ]
+ },
+ {
+  "id": "jellyfish",
+  "pos": [
+   "n"
+  ],
+  "vi": "con sứa",
+  "coll": [
+   "jellyfish sting",
+   "a swarm of jellyfish",
+   "box jellyfish",
+   "stung by a jellyfish"
+  ]
+ },
+ {
+  "id": "emit",
+  "pos": [
+   "v"
+  ],
+  "vi": "phát ra; thải ra; tỏa ra",
+  "coll": [
+   "emit light",
+   "emit carbon dioxide",
+   "emit a sound",
+   "emit radiation"
+  ]
+ },
+ {
+  "id": "snowflake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bông tuyết; người quá mỏng manh",
+  "coll": [
+   "a delicate snowflake",
+   "snowflake pattern",
+   "a special snowflake",
+   "no two snowflakes are alike"
+  ]
+ },
+ {
+  "id": "fathom",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hiểu thấu; sải (đơn vị đo sâu)",
+  "coll": [
+   "can't fathom it",
+   "fathom out",
+   "hard to fathom",
+   "twenty fathoms deep"
+  ]
+ },
+ {
+  "id": "ahem",
+  "pos": [
+   "intj",
+   "v"
+  ],
+  "vi": "ehèm (hắng giọng); ừm",
+  "coll": [
+   "ahem, excuse me",
+   "a polite ahem",
+   "with an ahem",
+   "ahem, as I was saying"
+  ]
+ },
+ {
+  "id": "biennial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hai năm một lần; cây hai năm tuổi",
+  "coll": [
+   "biennial conference",
+   "biennial report",
+   "biennial exhibition",
+   "a biennial plant"
+  ]
+ },
+ {
+  "id": "reptile",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "loài bò sát",
+  "coll": [
+   "reptile species",
+   "a cold-blooded reptile",
+   "reptile house",
+   "keep reptiles"
+  ]
+ },
+ {
+  "id": "prodigy",
+  "pos": [
+   "n"
+  ],
+  "vi": "thần đồng; kỳ tài",
+  "coll": [
+   "a child prodigy",
+   "a musical prodigy",
+   "a young prodigy",
+   "math prodigy"
+  ]
+ },
+ {
+  "id": "pesticide",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuốc trừ sâu; thuốc bảo vệ thực vật",
+  "coll": [
+   "pesticide residues",
+   "spray pesticides",
+   "pesticide use",
+   "chemical pesticides"
+  ]
+ },
+ {
+  "id": "aggregation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tập hợp; sự kết tụ; khối tổng hợp",
+  "coll": [
+   "data aggregation",
+   "an aggregation of",
+   "platelet aggregation",
+   "content aggregation"
+  ]
+ },
+ {
+  "id": "archery",
+  "pos": [
+   "n"
+  ],
+  "vi": "môn bắn cung",
+  "coll": [
+   "archery competition",
+   "archery range",
+   "practise archery",
+   "archery skills"
+  ]
+ },
+ {
+  "id": "avenge",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "báo thù; trả thù cho",
+  "coll": [
+   "avenge his death",
+   "avenge the defeat",
+   "avenge a murder",
+   "avenge oneself on"
+  ]
+ },
+ {
+  "id": "aversion",
+  "pos": [
+   "n"
+  ],
+  "vi": "ác cảm; sự ghét bỏ; nỗi ngại",
+  "coll": [
+   "an aversion to",
+   "risk aversion",
+   "a strong aversion",
+   "develop an aversion"
+  ]
+ },
+ {
+  "id": "floppy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mềm oặt; lụng thụng; đĩa mềm",
+  "coll": [
+   "floppy disk",
+   "floppy hat",
+   "floppy ears",
+   "floppy drive"
+  ]
+ },
+ {
+  "id": "inflatable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bơm hơi được; đồ bơm hơi",
+  "coll": [
+   "inflatable boat",
+   "inflatable mattress",
+   "inflatable castle",
+   "inflatable raft"
+  ]
+ },
+ {
+  "id": "alum",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phèn chua; cựu sinh viên (nói tắt)",
+  "coll": [
+   "potassium alum",
+   "alum powder",
+   "alum crystals",
+   "treat with alum"
+  ]
+ },
+ {
+  "id": "sod",
+  "pos": [
+   "n",
+   "v",
+   "intj",
+   "adj"
+  ],
+  "vi": "vầng cỏ; lớp đất cỏ; thằng cha (chửi nhẹ)",
+  "coll": [
+   "lay sod",
+   "a piece of sod",
+   "under the sod",
+   "sod off"
+  ]
+ },
+ {
+  "id": "stag",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "hươu đực; tiệc chỉ toàn đàn ông",
+  "coll": [
+   "a majestic stag",
+   "stag party",
+   "stag night",
+   "stag do"
+  ]
+ },
+ {
+  "id": "smoothie",
+  "pos": [
+   "n"
+  ],
+  "vi": "sinh tố; gã ngọt ngào khéo miệng",
+  "coll": [
+   "fruit smoothie",
+   "banana smoothie",
+   "make a smoothie",
+   "green smoothie"
+  ]
+ },
+ {
+  "id": "suede",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "da lộn",
+  "coll": [
+   "suede shoes",
+   "suede jacket",
+   "blue suede",
+   "soft suede"
+  ]
+ },
+ {
+  "id": "sluggish",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chậm chạp; uể oải; trì trệ",
+  "coll": [
+   "a sluggish economy",
+   "feel sluggish",
+   "sluggish growth",
+   "sluggish response"
+  ]
+ },
+ {
+  "id": "bulletproof",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "chống đạn; chắc như đinh đóng cột",
+  "coll": [
+   "bulletproof vest",
+   "bulletproof glass",
+   "a bulletproof plan",
+   "bulletproof car"
+  ]
+ },
+ {
+  "id": "attest",
+  "pos": [
+   "v"
+  ],
+  "vi": "chứng thực; xác nhận; làm chứng",
+  "coll": [
+   "attest to the truth",
+   "as the records attest",
+   "attest a signature",
+   "can attest to"
+  ]
+ },
+ {
+  "id": "nitrate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nitrat; muối axit nitric",
+  "coll": [
+   "nitrate levels",
+   "potassium nitrate",
+   "nitrate fertilizer",
+   "nitrate pollution"
+  ]
+ },
+ {
+  "id": "fluoride",
+  "pos": [
+   "n"
+  ],
+  "vi": "florua",
+  "coll": [
+   "fluoride toothpaste",
+   "fluoride in water",
+   "fluoride treatment",
+   "sodium fluoride"
+  ]
+ },
+ {
+  "id": "submissive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phục tùng; ngoan ngoãn nghe lời",
+  "coll": [
+   "submissive behaviour",
+   "a submissive role",
+   "submissive to authority",
+   "meek and submissive"
+  ]
+ },
+ {
+  "id": "collagen",
+  "pos": [
+   "n"
+  ],
+  "vi": "collagen (chất tạo keo)",
+  "coll": [
+   "collagen production",
+   "collagen fibres",
+   "boost collagen",
+   "collagen supplements"
+  ]
+ },
+ {
+  "id": "pastel",
+  "pos": [
+   "n"
+  ],
+  "vi": "màu pastel; phấn màu; tranh phấn màu",
+  "coll": [
+   "pastel colours",
+   "pastel shades",
+   "pastel drawing",
+   "soft pastels"
+  ]
+ },
+ {
+  "id": "cricketer",
+  "pos": [
+   "n"
+  ],
+  "vi": "cầu thủ cricket",
+  "coll": [
+   "a professional cricketer",
+   "England cricketer",
+   "a former cricketer",
+   "a young cricketer"
+  ]
+ },
+ {
+  "id": "yelp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kêu ăng ẳng; tiếng kêu thất thanh",
+  "coll": [
+   "yelp in pain",
+   "let out a yelp",
+   "a yelp of surprise",
+   "the dog yelped"
+  ]
+ },
+ {
+  "id": "trickle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chảy nhỏ giọt; dòng chảy nhỏ; lác đác kéo đến",
+  "coll": [
+   "a trickle of water",
+   "trickle down",
+   "trickle in",
+   "slow to a trickle"
+  ]
+ },
+ {
+  "id": "borrower",
+  "pos": [
+   "n"
+  ],
+  "vi": "người vay; người mượn",
+  "coll": [
+   "mortgage borrowers",
+   "borrowers and lenders",
+   "a first-time borrower",
+   "protect borrowers"
+  ]
+ },
+ {
+  "id": "ultimatum",
+  "pos": [
+   "n"
+  ],
+  "vi": "tối hậu thư",
+  "coll": [
+   "issue an ultimatum",
+   "give an ultimatum",
+   "a final ultimatum",
+   "deliver an ultimatum"
+  ]
+ },
+ {
+  "id": "uncut",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chưa cắt; nguyên bản không cắt xén",
+  "coll": [
+   "uncut version",
+   "uncut diamond",
+   "uncut footage",
+   "the uncut film"
+  ]
+ },
+ {
+  "id": "strata",
+  "pos": [
+   "n"
+  ],
+  "vi": "các tầng lớp; các địa tầng",
+  "coll": [
+   "social strata",
+   "rock strata",
+   "different strata of society",
+   "geological strata"
+  ]
+ },
+ {
+  "id": "microbiology",
+  "pos": [
+   "n"
+  ],
+  "vi": "vi sinh vật học",
+  "coll": [
+   "study microbiology",
+   "medical microbiology",
+   "microbiology lab",
+   "a professor of microbiology"
+  ]
+ },
+ {
+  "id": "geologic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc địa chất",
+  "coll": [
+   "geologic time",
+   "geologic formation",
+   "geologic record",
+   "geologic survey"
+  ]
+ },
+ {
+  "id": "quilt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chăn chần bông; chần bông",
+  "coll": [
+   "a patchwork quilt",
+   "make a quilt",
+   "quilt cover",
+   "under the quilt"
+  ]
+ },
+ {
+  "id": "modernity",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính hiện đại; thời hiện đại",
+  "coll": [
+   "the age of modernity",
+   "a symbol of modernity",
+   "tradition and modernity",
+   "Western modernity"
+  ]
+ },
+ {
+  "id": "arterial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc động mạch; trục giao thông chính",
+  "coll": [
+   "arterial blood",
+   "arterial pressure",
+   "arterial road",
+   "arterial disease"
+  ]
+ },
+ {
+  "id": "hypnosis",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuật thôi miên; trạng thái thôi miên",
+  "coll": [
+   "under hypnosis",
+   "put under hypnosis",
+   "hypnosis therapy",
+   "self-hypnosis"
+  ]
+ },
+ {
+  "id": "fictitious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hư cấu; bịa đặt; giả tưởng",
+  "coll": [
+   "a fictitious name",
+   "a fictitious character",
+   "a fictitious address",
+   "purely fictitious"
+  ]
+ },
+ {
+  "id": "headmaster",
+  "pos": [
+   "n"
+  ],
+  "vi": "thầy hiệu trưởng",
+  "coll": [
+   "the school headmaster",
+   "a strict headmaster",
+   "the headmaster's office",
+   "appointed headmaster"
+  ]
+ },
+ {
+  "id": "psychotherapy",
+  "pos": [
+   "n"
+  ],
+  "vi": "liệu pháp tâm lý; trị liệu tâm lý",
+  "coll": [
+   "undergo psychotherapy",
+   "group psychotherapy",
+   "a psychotherapy session",
+   "cognitive psychotherapy"
+  ]
+ },
+ {
+  "id": "malpractice",
+  "pos": [
+   "n"
+  ],
+  "vi": "sai sót nghề nghiệp; hành nghề sai trái",
+  "coll": [
+   "medical malpractice",
+   "a malpractice lawsuit",
+   "malpractice insurance",
+   "professional malpractice"
+  ]
+ },
+ {
+  "id": "intolerant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không khoan dung; hẹp hòi; không dung nạp được",
+  "coll": [
+   "intolerant of criticism",
+   "lactose intolerant",
+   "religiously intolerant",
+   "an intolerant attitude"
+  ]
+ },
+ {
+  "id": "webinar",
+  "pos": [
+   "n"
+  ],
+  "vi": "hội thảo trực tuyến",
+  "coll": [
+   "attend a webinar",
+   "host a webinar",
+   "a free webinar",
+   "live webinar"
+  ]
+ },
+ {
+  "id": "alkaline",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có tính kiềm",
+  "coll": [
+   "alkaline soil",
+   "alkaline solution",
+   "alkaline battery",
+   "alkaline water"
+  ]
+ },
+ {
+  "id": "emeritus",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "danh dự (đã nghỉ hưu); giáo sư danh dự",
+  "coll": [
+   "professor emeritus",
+   "emeritus status",
+   "emeritus chairman",
+   "emeritus fellow"
+  ]
+ },
+ {
+  "id": "firsthand",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "trực tiếp; tận mắt; từ chính trải nghiệm",
+  "coll": [
+   "firsthand experience",
+   "a firsthand account",
+   "see firsthand",
+   "know firsthand"
+  ]
+ }
+]

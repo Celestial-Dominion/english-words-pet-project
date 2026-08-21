@@ -1,0 +1,812 @@
+[
+ {
+  "id": "hymn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bài thánh ca; hát thánh ca ngợi ca",
+  "coll": [
+   "sing a hymn",
+   "a hymn book",
+   "an old hymn",
+   "hymns of praise"
+  ]
+ },
+ {
+  "id": "unidentified",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chưa xác định danh tính; không rõ",
+  "coll": [
+   "an unidentified man",
+   "an unidentified flying object",
+   "remain unidentified",
+   "an unidentified source"
+  ]
+ },
+ {
+  "id": "dissolution",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giải thể; sự tan rã; sự hòa tan",
+  "coll": [
+   "the dissolution of parliament",
+   "the dissolution of a marriage",
+   "the dissolution of the company",
+   "the rate of dissolution"
+  ]
+ },
+ {
+  "id": "homage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tỏ lòng kính trọng; tác phẩm tri ân",
+  "coll": [
+   "pay homage to",
+   "in homage to",
+   "a homage to the master",
+   "homage and tribute"
+  ]
+ },
+ {
+  "id": "trajectory",
+  "pos": [
+   "n"
+  ],
+  "vi": "quỹ đạo bay; hướng phát triển",
+  "coll": [
+   "the trajectory of a bullet",
+   "a career trajectory",
+   "on an upward trajectory",
+   "flight trajectory"
+  ]
+ },
+ {
+  "id": "geek",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người mê công nghệ, mọt sách; kẻ lập dị",
+  "coll": [
+   "a computer geek",
+   "a tech geek",
+   "geek out over something",
+   "a total geek"
+  ]
+ },
+ {
+  "id": "affinity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự gắn bó, đồng cảm; ái lực (hóa học); quan hệ thông gia",
+  "coll": [
+   "an affinity for music",
+   "a natural affinity",
+   "affinity with nature",
+   "binding affinity"
+  ]
+ },
+ {
+  "id": "factual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "dựa trên sự thật; chính xác, đúng thực tế",
+  "coll": [
+   "factual information",
+   "factual accuracy",
+   "a factual error",
+   "factual evidence"
+  ]
+ },
+ {
+  "id": "darn",
+  "pos": [
+   "adj",
+   "adv",
+   "intj",
+   "v",
+   "n"
+  ],
+  "vi": "chết tiệt, quái quỷ (nói giảm); vá, mạng (tất)",
+  "coll": [
+   "darn it",
+   "a darn good job",
+   "darn socks",
+   "I don't give a darn"
+  ]
+ },
+ {
+  "id": "unseen",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "không nhìn thấy, vô hình; chưa từng thấy",
+  "coll": [
+   "an unseen force",
+   "unseen by anyone",
+   "previously unseen",
+   "unseen consequences"
+  ]
+ },
+ {
+  "id": "motel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà nghỉ ven đường",
+  "coll": [
+   "a roadside motel",
+   "a cheap motel",
+   "check into a motel",
+   "a motel room"
+  ]
+ },
+ {
+  "id": "enclosure",
+  "pos": [
+   "n"
+  ],
+  "vi": "khu vực rào kín; vật đính kèm; sự rào quây",
+  "coll": [
+   "an animal enclosure",
+   "a secure enclosure",
+   "see the enclosure",
+   "a glass enclosure"
+  ]
+ },
+ {
+  "id": "addictive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "gây nghiện; cuốn hút khó dứt",
+  "coll": [
+   "highly addictive",
+   "an addictive drug",
+   "addictive behaviour",
+   "addictive substances"
+  ]
+ },
+ {
+  "id": "apartheid",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chế độ phân biệt chủng tộc",
+  "coll": [
+   "under apartheid",
+   "the apartheid regime",
+   "end apartheid",
+   "apartheid South Africa"
+  ]
+ },
+ {
+  "id": "physiology",
+  "pos": [
+   "n"
+  ],
+  "vi": "sinh lý học; đặc điểm sinh lý",
+  "coll": [
+   "human physiology",
+   "plant physiology",
+   "anatomy and physiology",
+   "exercise physiology"
+  ]
+ },
+ {
+  "id": "lantern",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "đèn lồng; đèn bão",
+  "coll": [
+   "a paper lantern",
+   "a lantern festival",
+   "light a lantern",
+   "a hurricane lantern"
+  ]
+ },
+ {
+  "id": "perpetual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vĩnh viễn, không dứt; liên miên, triền miên",
+  "coll": [
+   "perpetual motion",
+   "in perpetual fear",
+   "a perpetual struggle",
+   "perpetual darkness"
+  ]
+ },
+ {
+  "id": "casualty",
+  "pos": [
+   "n"
+  ],
+  "vi": "người thương vong; tổn thất, nạn nhân",
+  "coll": [
+   "civilian casualties",
+   "heavy casualties",
+   "casualty figures",
+   "the first casualty"
+  ]
+ },
+ {
+  "id": "fraudulent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gian lận, lừa đảo; giả mạo",
+  "coll": [
+   "fraudulent claims",
+   "fraudulent activity",
+   "a fraudulent scheme",
+   "fraudulent transactions"
+  ]
+ },
+ {
+  "id": "symposium",
+  "pos": [
+   "n"
+  ],
+  "vi": "hội thảo chuyên đề; tuyển tập tham luận",
+  "coll": [
+   "an international symposium",
+   "hold a symposium",
+   "a symposium on climate change",
+   "the symposium proceedings"
+  ]
+ },
+ {
+  "id": "resentment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự oán giận, bất bình",
+  "coll": [
+   "deep resentment",
+   "harbour resentment",
+   "resentment towards someone",
+   "growing resentment"
+  ]
+ },
+ {
+  "id": "adaptive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thích ứng, thích nghi; có khả năng điều chỉnh",
+  "coll": [
+   "adaptive behaviour",
+   "adaptive learning",
+   "adaptive strategies",
+   "an adaptive system"
+  ]
+ },
+ {
+  "id": "arthritis",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh viêm khớp",
+  "coll": [
+   "rheumatoid arthritis",
+   "suffer from arthritis",
+   "arthritis pain",
+   "severe arthritis"
+  ]
+ },
+ {
+  "id": "slippery",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trơn trượt; lươn lẹo, khó tin",
+  "coll": [
+   "a slippery slope",
+   "slippery roads",
+   "slippery when wet",
+   "a slippery character"
+  ]
+ },
+ {
+  "id": "payday",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngày lãnh lương",
+  "coll": [
+   "until payday",
+   "a payday loan",
+   "on payday",
+   "a big payday"
+  ]
+ },
+ {
+  "id": "rotary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "quay tròn, xoay vòng; bùng binh giao thông",
+  "coll": [
+   "a rotary engine",
+   "a rotary phone",
+   "rotary motion",
+   "the Rotary Club"
+  ]
+ },
+ {
+  "id": "underrated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bị đánh giá thấp",
+  "coll": [
+   "a hugely underrated actor",
+   "underrated talent",
+   "vastly underrated",
+   "an underrated film"
+  ]
+ },
+ {
+  "id": "internship",
+  "pos": [
+   "n"
+  ],
+  "vi": "kỳ thực tập",
+  "coll": [
+   "a summer internship",
+   "do an internship",
+   "a paid internship",
+   "an internship program"
+  ]
+ },
+ {
+  "id": "falsely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách sai lầm; một cách gian dối",
+  "coll": [
+   "falsely accused",
+   "falsely claim",
+   "falsely reported",
+   "falsely imprisoned"
+  ]
+ },
+ {
+  "id": "suicidal",
+  "pos": [
+   "n"
+  ],
+  "vi": "có ý định tự tử; liều mạng, tự sát",
+  "coll": [
+   "suicidal thoughts",
+   "feel suicidal",
+   "suicidal tendencies",
+   "a suicidal mission"
+  ]
+ },
+ {
+  "id": "courthouse",
+  "pos": [
+   "n"
+  ],
+  "vi": "tòa nhà tòa án",
+  "coll": [
+   "the county courthouse",
+   "outside the courthouse",
+   "the courthouse steps",
+   "a federal courthouse"
+  ]
+ },
+ {
+  "id": "freshly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vừa mới, mới tinh",
+  "coll": [
+   "freshly baked bread",
+   "freshly ground coffee",
+   "freshly painted",
+   "freshly cut grass"
+  ]
+ },
+ {
+  "id": "precinct",
+  "pos": [
+   "n"
+  ],
+  "vi": "khu vực (cảnh sát, bầu cử); khuôn viên; khu phố đi bộ",
+  "coll": [
+   "a police precinct",
+   "a voting precinct",
+   "the precinct station",
+   "a shopping precinct"
+  ]
+ },
+ {
+  "id": "evangelical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc phái Phúc Âm; tín đồ Tin Lành Phúc Âm; nhiệt thành truyền bá",
+  "coll": [
+   "evangelical Christians",
+   "the evangelical church",
+   "an evangelical movement",
+   "evangelical zeal"
+  ]
+ },
+ {
+  "id": "regeneration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tái tạo, tái sinh; sự cải tạo, chỉnh trang",
+  "coll": [
+   "tissue regeneration",
+   "urban regeneration",
+   "cell regeneration",
+   "economic regeneration"
+  ]
+ },
+ {
+  "id": "simulator",
+  "pos": [
+   "n"
+  ],
+  "vi": "thiết bị mô phỏng; game mô phỏng",
+  "coll": [
+   "a flight simulator",
+   "a driving simulator",
+   "simulator training",
+   "a racing simulator"
+  ]
+ },
+ {
+  "id": "playlist",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "danh sách phát",
+  "coll": [
+   "create a playlist",
+   "a Spotify playlist",
+   "add to a playlist",
+   "a workout playlist"
+  ]
+ },
+ {
+  "id": "geo",
+  "pos": [
+   "n"
+  ],
+  "vi": "khe hẹp trên vách đá ven biển",
+  "coll": [
+   "a narrow geo",
+   "a rocky geo",
+   "a coastal geo",
+   "cliffs and geos"
+  ]
+ },
+ {
+  "id": "isolate",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "cô lập, tách riêng; phân lập (vi khuẩn); mẫu phân lập",
+  "coll": [
+   "isolate the problem",
+   "isolate a virus",
+   "isolate a gene",
+   "isolate someone from others"
+  ]
+ },
+ {
+  "id": "climax",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cao trào, đỉnh điểm; lên tới đỉnh điểm; cực khoái",
+  "coll": [
+   "reach a climax",
+   "the climax of the story",
+   "a dramatic climax",
+   "build to a climax"
+  ]
+ },
+ {
+  "id": "quarry",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mỏ đá lộ thiên; con mồi bị săn; khai thác đá",
+  "coll": [
+   "a stone quarry",
+   "a disused quarry",
+   "quarry limestone",
+   "stalk their quarry"
+  ]
+ },
+ {
+  "id": "sarcastic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mỉa mai, châm biếm",
+  "coll": [
+   "a sarcastic remark",
+   "a sarcastic tone",
+   "be sarcastic about",
+   "a sarcastic smile"
+  ]
+ },
+ {
+  "id": "degradation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự suy thoái, xuống cấp; sự hạ nhục; sự phân hủy",
+  "coll": [
+   "environmental degradation",
+   "soil degradation",
+   "degradation of quality",
+   "protein degradation"
+  ]
+ },
+ {
+  "id": "prolific",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sung sức, làm ra rất nhiều; sinh sôi mạnh",
+  "coll": [
+   "a prolific writer",
+   "a prolific goalscorer",
+   "prolific output",
+   "prolific breeding"
+  ]
+ },
+ {
+  "id": "ventilation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thông gió; hệ thống thông khí; thở máy",
+  "coll": [
+   "adequate ventilation",
+   "a ventilation system",
+   "mechanical ventilation",
+   "poor ventilation"
+  ]
+ },
+ {
+  "id": "adjustable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có thể điều chỉnh",
+  "coll": [
+   "an adjustable strap",
+   "an adjustable seat",
+   "an adjustable rate",
+   "fully adjustable"
+  ]
+ },
+ {
+  "id": "sap",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhựa cây; làm suy kiệt, rút cạn",
+  "coll": [
+   "maple sap",
+   "sap the strength",
+   "sap morale",
+   "rising sap"
+  ]
+ },
+ {
+  "id": "crimson",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "màu đỏ thẫm; đỏ thẫm; đỏ bừng lên",
+  "coll": [
+   "crimson red",
+   "a crimson dress",
+   "turn crimson",
+   "deep crimson"
+  ]
+ },
+ {
+  "id": "condom",
+  "pos": [
+   "n"
+  ],
+  "vi": "bao cao su",
+  "coll": [
+   "use a condom",
+   "condom use",
+   "put on a condom",
+   "a packet of condoms"
+  ]
+ },
+ {
+  "id": "sinister",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nham hiểm, hắc ám; điềm gở, đáng ngại",
+  "coll": [
+   "a sinister figure",
+   "something sinister",
+   "a sinister motive",
+   "look sinister"
+  ]
+ },
+ {
+  "id": "fetus",
+  "pos": [
+   "n"
+  ],
+  "vi": "thai nhi, bào thai",
+  "coll": [
+   "a developing fetus",
+   "the human fetus",
+   "harm to the fetus",
+   "the fetus in the womb"
+  ]
+ },
+ {
+  "id": "caste",
+  "pos": [
+   "n"
+  ],
+  "vi": "đẳng cấp xã hội; giai tầng khép kín",
+  "coll": [
+   "the caste system",
+   "a lower caste",
+   "caste discrimination",
+   "the warrior caste"
+  ]
+ },
+ {
+  "id": "breaker",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "cầu dao ngắt điện; sóng lớn vỗ bờ; máy đập nghiền",
+  "coll": [
+   "a circuit breaker",
+   "trip the breaker",
+   "crashing breakers",
+   "a code breaker"
+  ]
+ },
+ {
+  "id": "segregation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân biệt chủng tộc; sự phân tách, tách riêng",
+  "coll": [
+   "racial segregation",
+   "the segregation of duties",
+   "school segregation",
+   "end segregation"
+  ]
+ },
+ {
+  "id": "pertaining",
+  "pos": [
+   "n"
+  ],
+  "vi": "liên quan đến, thuộc về",
+  "coll": [
+   "pertaining to the case",
+   "documents pertaining to",
+   "matters pertaining to health",
+   "laws pertaining to trade"
+  ]
+ },
+ {
+  "id": "adulthood",
+  "pos": [
+   "n"
+  ],
+  "vi": "tuổi trưởng thành",
+  "coll": [
+   "reach adulthood",
+   "into adulthood",
+   "early adulthood",
+   "young adulthood"
+  ]
+ },
+ {
+  "id": "yarn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sợi len, sợi dệt; câu chuyện dài lê thê",
+  "coll": [
+   "a ball of yarn",
+   "knitting yarn",
+   "spin a yarn",
+   "woolen yarn"
+  ]
+ },
+ {
+  "id": "nominal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trên danh nghĩa; nhỏ tượng trưng (phí); thuộc danh từ",
+  "coll": [
+   "a nominal fee",
+   "the nominal head",
+   "nominal value",
+   "nominal GDP"
+  ]
+ },
+ {
+  "id": "adapter",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ chuyển đổi, adapter; người chuyển thể",
+  "coll": [
+   "a power adapter",
+   "a travel adapter",
+   "a plug adapter",
+   "a network adapter"
+  ]
+ },
+ {
+  "id": "allergy",
+  "pos": [
+   "n"
+  ],
+  "vi": "chứng dị ứng",
+  "coll": [
+   "a food allergy",
+   "a peanut allergy",
+   "an allergy to dust",
+   "allergy symptoms"
+  ]
+ }
+]

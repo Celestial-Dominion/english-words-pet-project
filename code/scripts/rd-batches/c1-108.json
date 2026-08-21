@@ -1,0 +1,150 @@
+[
+ {
+  "id": "news-microsoft-ends-support-for-windows-xp-s-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Microsoft_ends_support_for_Windows_XP's_first_service_pack",
+  "title_en": "Microsoft ends support for Windows XP's first service pack",
+  "sentences": [
+   "Tuesday, October 10, 2006 As Microsoft had previously announced, they will stop supporting the first service pack of their flagship operating system software, Windows XP.",
+   "The company will not provide any security updates or incident support options for Windows XP Service Pack 1 (SP1) and Service Pack 1a (SP1a).",
+   "On October 10, 2006 support and security updates for these two products will end, as part of the Microsoft Lifecycle Policy.",
+   "In their customer notification about the change, the software giant advises customers to update to the newer Service Pack 2 (SP2), released in 2004.",
+   "Windows XP SP1 was released on September 9, 2002, offering more than 300 security updates in one package.",
+   "Other than the security updates, SP1 also introduced USB 2.0 support and a new utility, Set Program Access and Defaults, which let users to have control over Microsoft's bundled products.",
+   "On February 3, 2003, the service pack was re-released as Service Pack 1a which, as a result of a lawsuit with Sun Microsystems, removed the Microsoft virtual machine (VM), which provided support for Java programs.",
+   "The support end date for SP1 was originally September 17, 2006."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-indian-it-minister-says-government-will-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Indian_IT_minister_says_government_will_not_censor_social_media",
+  "title_en": "Indian IT minister says government will not censor social media",
+  "sentences": [
+   "Wednesday, February 15, 2012 Indian Information Technology (IT) minister Kapil Sibal said at a Mumbai IT summit that the government has no plan to censor social media.",
+   "\"We have never had any intention nor did we ever say we are going to censor social media,\" he said, \"but we do believe that all media must obey the laws of this country\".",
+   "Sibal's government had planned last year to introduce guidelines to prevent \"blasphemous material\" on the internet.",
+   "Google suggested the plans were unconstitutional and against the freedom of speech.",
+   "Google later removed offensive contents when the court ordered. 21 companies including Google and Facebook were brought to court regarding some of their sites' content last year.",
+   "The court found the companies responsible for developing means to counter unacceptable content.",
+   "Sibal said it had nothing to do with the government; \"It is between the complainant and those who have been called\"."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-reactos",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/ReactOS",
+  "title_en": "ReactOS",
+  "sentences": [
+   "ReactOS is a free and open-source operating system for 32-bit and 64-bit computers.",
+   "Its main goal is to develop an operating system that is compatible with software for Windows Server 2003 and its successors.",
+   "ReactOS has been in development since 1996 and is still considered incomplete alpha software by the developers.",
+   "As of 2026, the project is still being developed.",
+   "ReactOS is written in C and C++.",
+   "It is not based on Linux or Unix, and uses some code from the Wine project."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-tagged-command-queuing",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Tagged_Command_Queuing",
+  "title_en": "Tagged Command Queuing",
+  "sentences": [
+   "Tagged Command Queueing (TCQ) is a technology that allows to send multiple read and write requests to a hard drive simultaneously.",
+   "ATA TCQ is not identical in function to the more efficient Native Command Queuing (NCQ) used by SATA drives.",
+   "SCSI TCQ does not suffer from the same limitations as ATA TCQ.",
+   "Before TCQ, an operating system was only able to send one request at a time.",
+   "In order to boost performance, it had to decide the order of the requests based on its own, possibly incorrect, idea of what the hard drive was doing.",
+   "With TCQ, the drive can make its own decisions about how to order the requests (and in turn relieve the operating system from having to do so).",
+   "The result is that TCQ can improve the overall performance of a hard drive if it is implemented correctly."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-brainfuck",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Brainfuck",
+  "title_en": "Brainfuck",
+  "sentences": [
+   "The brainfuck programming language is an esoteric (weird and unusual) programming language.",
+   "It was created by Urban Müller in 1993.",
+   "It has eight instructions (commands) which operate (do things on) a tape.",
+   "Instructions are done one by one, in order.",
+   "The tape has multiple sections.",
+   "Each section is a number.",
+   "Each section is, in the beginning, zero.",
+   "Brainfuck is like a Turing machine."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-ibm-and-cisco-in-attempt-to-create-a-uni",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/IBM_and_Cisco_in_attempt_to_create_a_universal_platform_for_communications_software_development",
+  "title_en": "IBM and Cisco in attempt to create a universal platform for communications software development",
+  "sentences": [
+   "Friday, March 9, 2007 IBM and Cisco have announced the development of a new platform, based on Eclipse and OSGi (Open Services Gateway initiative), which should unite all communication and collaboration software developers under a single platform.",
+   "Before the UC2 (Unified Communication and Collaboration) the unified communication has suffered because of a lack of a platform to be used by all software developers, rather than a series of them and, moreover, provided by different vendors.",
+   "According to Adam Gartenberg from IBM Lotus Software Group this was the main cause for this partial stagnation.",
+   "However, the UC2 is meant to ease the work of software developers.",
+   "Gartenberg stated that this platform is very flexible and will certainly draw much attention form programmers.",
+   "They will be able to create different plug-ins and small applications to remotely control other, major application.",
+   "The companies have also unveiled a series of their other joint projects.",
+   "These project will be based on a set of application programming interface from Lotus (SameTime) and Cisco.",
+   "The add-ons planned are integration of a series of additional functions and features into the SameTime software from Lotus.",
+   "Thus, in a few months, the SameTime users will benefit from such functions as click-to-call and voicemail.",
+   "This will enable easier instant messaging inside the Cisco's Unified IP phones' system.",
+   "The fact that the platform will be based on Eclipse will make the numerous developers create many communications services, mainly for remote users to benefit from a series of new functions of ERP and CRM applications.",
+   "Nortel Networks - a partner of Microsoft since last year and Cisco's rival in the area - didn't have much success in the communication services field.",
+   "As for Microsoft, the experts are waiting for the reaction of the Bill Gates' company on the ideas and offers made by IBM and Cisco for enterprise communications and collaboration solutions."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-samsung-galaxy-note-20",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Samsung_Galaxy_Note_20",
+  "title_en": "Samsung Galaxy Note 20",
+  "sentences": [
+   "The Samsung Galaxy Note 20 and Galaxy Note 20 Ultra are a line of Android phablets designed, developed, produced and marketed by Samsung Electronics for its Samsung Galaxy Note series.",
+   "It was announced on 5 August 2020 with the Samsung Galaxy Fold 2, Galaxy Watch 3, Galaxy Buds Live, and Samsung Galaxy Tab S7.",
+   "This was during Samsung's Unpacked Event with shipment starting on 21 August 2020.",
+   "It was the last model in the Galaxy Note series.",
+   "Samsung started to make its Note series into its S series \"Ultra\" models, starting with the Galaxy S22 Ultra.",
+   "Due to the COVID-19 pandemic, the release of the phablets was streamed online via Samsung's online platforms and channels.",
+   "At the event, Samsung said that they would have support for 5G network and that their pens would have 4x better reaction speed than the other generations.",
+   "The Note 20s does not feature a \"+\" model."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-wikimania-2007-exhibitions-shows-the-cul",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Wikimania_2007_Exhibitions_shows_the_culture_of_freedom",
+  "title_en": "Wikimania 2007 Exhibitions shows the culture of freedom",
+  "sentences": [
+   "Saturday, August 4, 2007 On the second day of Wikimania 2007 in Taipei, Group Sessions continued, while the Virtual i.d.ea Interactive Net Art 2007 Exhibition attracted visitors and participants.",
+   "This exhibition shows the creation of interactions by using creative contents.",
+   "Four college teams and two individuals exhibited their work.",
+   "This exhibition is mainly focused on Interactive Net Art.",
+   "Visitors can interact with those artworks, such as \"Many Me\", \"Not One Less\", and \"One Million Heartbeats\", which explored identity, information and community behavior.",
+   "Kevin Lam from Hong Kong and Marius Watz from Norway also brought \"Mobile Brush\" and \"Neon Organic / Electro Plastique\" artworks to show the culture of freedom of Interactive Net Art.",
+   "The Wikimania 2007 Conference will end on August 5.",
+   "Submitting free-licensed works for the Wikimania Awards is still in progress, the deadline being 8:00 a.m.",
+   "August 5 (Taipei time).",
+   "Wikimania Award winners will be announced at the Closing Ceremony."
+  ],
+  "topic": "it"
+ }
+]

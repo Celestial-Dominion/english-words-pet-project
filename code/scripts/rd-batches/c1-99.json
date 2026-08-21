@@ -1,0 +1,164 @@
+[
+ {
+  "id": "wiki-alcatel",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Alcatel",
+  "title_en": "Alcatel",
+  "sentences": [
+   "Alcatel Mobile, also known as Alcatel, is a French mobile phone brand that is a subsidiary of TCL Communication Technology Holdings Limited.",
+   "The company's history can be traced back to 2004 when it was established as a joint venture between TCL Corporation and Alcatel-Lucent.",
+   "TCL Corporation, a Chinese multinational electronics company, entered into a licensing agreement with Alcatel-Lucent to use the Alcatel brand for its mobile phones.",
+   "This joint venture allowed TCL Corporation to tap into Alcatel-Lucent's expertise in telecommunications while leveraging its own manufacturing capabilities.",
+   "Alcatel's headquarters is located in Huizhou, Guangdong Province, China.",
+   "From there, the company operates its research and development, manufacturing, and marketing activities.",
+   "The headquarters serves as the main hub for Alcatel's global operations.",
+   "Alcatel primarily offers mobile phones and smartphones to consumers worldwide.",
+   "Their product lineup includes a range of devices, from entry-level smartphones to high-end flagship models.",
+   "Additionally, the company also manufactures tablets and other mobile accessories.",
+   "On a global scale, Alcatel operates in numerous countries, including key markets such as Europe, North America, and Asia.",
+   "The company has established subsidiaries and partnerships to strengthen its presence in many regions.",
+   "Notably, Alcatel has collaborated with mobile network operators and distributors to expand its market reach and enhance distribution channels.",
+   "In terms of market position, Alcatel has gained recognition as a competitive player in the mobile phone industry.",
+   "The brand has experienced significant growth and has carved a niche for itself in the affordable smartphone segment.",
+   "While facing tough competition from other Chinese manufacturers, Alcatel has managed to establish a loyal customer base through its cost-effective devices and innovative features."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-wikinews-international-report-anonymous-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Wikinews_international_report%3A_%22Anonymous%22_holds_anti-Scientology_protests_worldwide",
+  "title_en": "Wikinews international report: \"Anonymous\" holds anti-Scientology protests worldwide",
+  "sentences": [
+   "Sunday, February 10, 2008 The Internet group Project Chanology today held protests critical of the Church of Scientology.",
+   "The protests marked what would have been the 49th birthday of Lisa McPherson, who is claimed to be a victim of the Church of Scientology's practices.",
+   "Lisa died in 1995 during a running of what Scientologists refer to as an Introspection Rundown, a procedure intended to help Church members deal with a psychotic or deeply traumatic event.",
+   "Protests were planned throughout the day in 14 countries and over 50 different cities.",
+   "The estimation of total protesters world wide for Feb. 10, 2008 is 9,250 people.",
+   "Wikinews had correspondents at a number of protest locations to report on the events.",
+   "This article was updated throughout the day with reports from around the globe."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-microsoft-network-users-experience-inter",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Microsoft_Network_users_experience_international_outage",
+  "title_en": "Microsoft Network users experience international outage",
+  "sentences": [
+   "Tuesday, February 26, 2008 Users worldwide are reporting that they are unable to login to Microsoft's (MS) live services such as Hotmail, Windows Live Messenger, and in some cases Xbox Live.",
+   "Problems reportedly began around 6:30 a.m. eastern time.",
+   "\"We are aware that some customers may be experiencing difficulty accessing their Windows Live accounts.",
+   "We’re actively investigating the cause and are working to take the appropriate steps to remedy the situation as rapidly as possible.",
+   "We sincerely apologize for any inconvenience and disruption this may be causing our customers,\" said MS in a statement to the media.",
+   "The exact number of users affected by the outage is not yet known.",
+   "MS has not stated when the problem will be fixed."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-secure-shell",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Secure_Shell",
+  "title_en": "Secure Shell",
+  "sentences": [
+   "Secure Shell (SSH) is an Internet communication protocol used mostly to allow users to log into other computers and run commands.",
+   "It lets people exchange data using a secure channel between two computers.",
+   "It is used mainly on Linux, Macintosh and Unix computers.",
+   "It is a lot like Telnet, but is safer.",
+   "It is less likely to be hacked than Telnet is.",
+   "A person can make a key out of numbers.",
+   "This key has two parts, a private part that should not be shared and a public part that should be.",
+   "These parts are mathematically related to each.",
+   "To send a message to a computer, the message is encrypted with the sender's private key and the receiver's public key.",
+   "This is done in such a way that the message can only be read if the receiver has their private key and the sender's public key.",
+   "This means that an attacker cannot read the messages without both keys.",
+   "SSH was designed by Tatu Ylönen in 1995 to replace the less secure protocols rlogin, Telnet and rsh, which were used to access shell accounts on remote computers."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-arkive",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/ARKive",
+  "title_en": "ARKive",
+  "sentences": [
+   "ARKive was a data system to help conserve the world's threatened species.",
+   "It used \"the power of wildlife imagery\", The archive has films, photographs and audio recordings of the world's species in a centralised digital archive.",
+   "Its priority was the 17,000 species on the IUCN Red List of Threatened Species at that time.",
+   "The project was an initiative of Wildscreen, a UK-registered educational charity, based in Bristol.",
+   "The website closed on 15 February 2019.",
+   "It kept its collection of images and videos stored in its archive."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-ltspice",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/LTspice",
+  "title_en": "LTspice",
+  "sentences": [
+   "LTspice is a free computer program used to test electronic circuits.",
+   "An engineer draws a circuit on the screen, and the program works out how it will behave before it is built.",
+   "This kind of program is called a circuit simulator.",
+   "It is based on a program called SPICE and is one of the most widely used circuit simulators.",
+   "LTspice was first made by Linear Technology and is now made by Analog Devices.",
+   "The program is free, and unlike some free programs, it does not limit how large or complex a circuit can be.",
+   "It comes with a library of ready-made parts, such as resistors, diodes, and transistors, that people can drop into their circuits.",
+   "LTspice does not design the layout of a printed circuit board, which is the physical board that holds the parts.",
+   "It is used to test how a circuit works, not to lay one out."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-teen-charged-with-seven-felonies-related",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Teen_charged_with_seven_felonies_related_to_threats_made_on_Wikipedia%2C_Wikinews_interviews_administrator_who_contacted_police",
+  "title_en": "Teen charged with seven felonies related to threats made on Wikipedia, Wikinews interviews administrator who contacted police",
+  "sentences": [
+   "Friday, April 25, 2008 A 15-year-old boy, arrested last Friday in conjunction with criminal threats made on Wikipedia, was charged Thursday with seven felonies in Pomona Juvenile Court in Pomona, California.",
+   "Prosecutors stated that the teen posted two threats on Wikipedia, saying that six named students as well as members of his school's badminton team would be shot.",
+   "The court arraignment had initially been set for Tuesday, but was continued until Thursday.",
+   "Wikinews interviewed the Wikipedia administrator who contacted police after the threats had been made on the site.",
+   "Though officials had said the boy made a full confession that he had made threats to other students via the online encyclopedia Wikipedia, he denied the charges at the Thursday court petition.",
+   "The court ordered that he remain detained pending a May 9 scheduled appearance before Pomona Juvenile Court.",
+   "He has remained in custody since his arrest.",
+   "The threats were made via two separate edits to the Wikipedia article about Glen A.",
+   "Wilson High School in Hacienda Heights, California on April 16.",
+   "Wikipedia administrators were made aware of the threats in a post to the \"Administrators' noticeboard\" on April 16 by Wikipedia admin Dreadstar.",
+   "Another Wikipedia administrator, John Reaves, contacted the police in Los Angeles, California, and helped them work with the Internet service provider to find more information on the IP address that made the threat.",
+   "A third Wikipedia administrator, Persian Poet Gal, removed the threats from the edit history of the article after finding out that the student had been arrested.",
+   "Students' backpacks were searched prior to entering Glen A.",
+   "Wilson High School on April 17 and all after-school activities were canceled that day.",
+   "All classes were canceled April 18, and classes resumed on Monday."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-internet",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Internet",
+  "title_en": "Internet",
+  "sentences": [
+   "The Internet is the world’s largest global communication network for computers and other devices.",
+   "It connects many smaller networks from homes, schools, businesses, and governments.",
+   "These networks share different kinds of information.",
+   "The short form of the Internet is “the Net.” One of its most popular services is the World Wide Web, which is used by billions of people every day.",
+   "The Internet was developed in the United States by the Department of Defence Advanced Research Projects Agency (DARPA).",
+   "The Internet was first connected in October 1969 and was called ARPANET.",
+   "The World Wide Web was created at CERN in Switzerland in 1990 by a British (UK) scientist named Tim Berners-Lee.",
+   "Today, people use Internet services by paying Internet service providers (ISPs).",
+   "Some websites and tools are free, while others may show ads to earn money.",
+   "There are also ongoing debates about censorship and freedom of speech on the Internet."
+  ],
+  "topic": "it"
+ }
+]

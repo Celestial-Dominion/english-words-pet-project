@@ -1,0 +1,402 @@
+{
+ "neighborhood": {
+  "vi": "khu phố; vùng lân cận; hàng xóm",
+  "coll": ["a quiet neighborhood", "in the neighborhood", "a poor neighborhood", "neighborhood watch"]
+ },
+ "outstanding": {
+  "vi": "xuất sắc; nổi bật; chưa thanh toán",
+  "coll": ["outstanding performance", "outstanding achievement", "outstanding debt", "an outstanding student"]
+ },
+ "rid": {
+  "vi": "loại bỏ; giải thoát khỏi",
+  "coll": ["get rid of", "rid the world of poverty", "rid yourself of doubt", "be rid of him"]
+ },
+ "secondary school": {
+  "vi": "trường trung học",
+  "coll": ["attend secondary school", "secondary school students", "leave secondary school", "secondary school teacher"]
+ },
+ "visual": {
+  "vi": "thị giác; trực quan; hình ảnh",
+  "coll": ["visual effects", "visual arts", "visual impairment", "visual aids"]
+ },
+ "barely": {
+  "vi": "hầu như không; chỉ vừa đủ; vừa mới",
+  "coll": ["barely enough time", "barely visible", "could barely speak", "barely alive"]
+ },
+ "check-in counter": {
+  "vi": "quầy làm thủ tục; quầy check-in",
+  "coll": ["airport check-in counter", "at the check-in counter", "hotel check-in counter"]
+ },
+ "coal": {
+  "vi": "than đá; than",
+  "coll": ["coal mine", "coal industry", "a lump of coal", "coal-fired power plant", "burn coal"]
+ },
+ "historic": {
+  "vi": "lịch sử; mang tính lịch sử",
+  "coll": ["a historic moment", "historic buildings", "a historic event", "a historic victory", "the historic city centre"]
+ },
+ "hunt": {
+  "vi": "săn; săn lùng; cuộc săn; tìm kiếm",
+  "coll": ["hunt for food", "job hunt", "treasure hunt", "witch hunt", "hunt down the killer"]
+ },
+ "improvement": {
+  "vi": "sự cải thiện; sự tiến bộ",
+  "coll": ["a significant improvement", "home improvement", "room for improvement", "show improvement"]
+ },
+ "initially": {
+  "vi": "ban đầu; lúc đầu",
+  "coll": ["initially planned", "was initially reluctant", "initially thought", "initially refused"]
+ },
+ "monster": {
+  "vi": "quái vật; khổng lồ; kẻ ác độc",
+  "coll": ["sea monster", "monster truck", "a little monster", "monster waves"]
+ },
+ "philosophy": {
+  "vi": "triết học; triết lý",
+  "coll": ["philosophy of life", "moral philosophy", "study philosophy", "business philosophy"]
+ },
+ "rough": {
+  "vi": "gồ ghề; thô ráp; sơ bộ; khó khăn",
+  "coll": ["a rough estimate", "a rough surface", "a rough draft", "a rough time", "rough seas"]
+ },
+ "settlement": {
+  "vi": "sự dàn xếp; khu định cư; sự thanh toán",
+  "coll": ["peace settlement", "reach a settlement", "divorce settlement", "an early settlement", "out-of-court settlement"]
+ },
+ "surrounding": {
+  "vi": "xung quanh; bao quanh; môi trường xung quanh",
+  "coll": ["the surrounding area", "surrounding countryside", "surrounding villages", "the surrounding environment"]
+ },
+ "vast": {
+  "vi": "rộng lớn; bao la; to lớn",
+  "coll": ["the vast majority", "vast amounts of money", "a vast area", "vast experience"]
+ },
+ "finger": {
+  "vi": "ngón tay",
+  "coll": ["index finger", "point a finger at", "cross your fingers", "finger food", "snap your fingers"]
+ },
+ "ignore": {
+  "vi": "phớt lờ; bỏ qua; làm ngơ",
+  "coll": ["ignore the warning", "completely ignore", "ignore the advice", "choose to ignore", "can't ignore"]
+ },
+ "meanwhile": {
+  "vi": "trong khi đó; trong lúc đó",
+  "coll": ["meanwhile, back at home", "in the meanwhile", "meanwhile, the police arrived"]
+ },
+ "naturally": {
+  "vi": "tự nhiên; dĩ nhiên; bẩm sinh",
+  "coll": ["naturally occurring", "come naturally", "naturally curly hair", "behave naturally"]
+ },
+ "practical": {
+  "vi": "thực tế; thiết thực; thực hành",
+  "coll": ["practical experience", "practical skills", "practical advice", "for practical purposes", "a practical solution"]
+ },
+ "primarily": {
+  "vi": "chủ yếu; trước hết",
+  "coll": ["primarily responsible", "primarily used for", "primarily concerned with", "primarily focused on"]
+ },
+ "relative": {
+  "vi": "họ hàng; người thân; tương đối",
+  "coll": ["a close relative", "a distant relative", "relative to the size", "friends and relatives"]
+ },
+ "rescue": {
+  "vi": "giải cứu; cứu; sự cứu hộ",
+  "coll": ["rescue team", "come to the rescue", "rescue operation", "rescue workers", "rescue a drowning child"]
+ },
+ "sharp": {
+  "vi": "sắc; nhọn; sắc bén; đúng giờ",
+  "coll": ["a sharp knife", "a sharp pain", "a sharp rise", "a sharp mind", "at eight o'clock sharp"]
+ },
+ "stable": {
+  "vi": "ổn định; vững chắc; chuồng ngựa",
+  "coll": ["in a stable condition", "a stable relationship", "a stable economy", "a stable job", "horse stable"]
+ },
+ "temporary": {
+  "vi": "tạm thời; nhất thời",
+  "coll": ["a temporary job", "a temporary solution", "temporary measures", "temporary accommodation"]
+ },
+ "complicated": {
+  "vi": "phức tạp; rắc rối",
+  "coll": ["a complicated process", "a complicated relationship", "it's complicated", "a complicated situation"]
+ },
+ "defend": {
+  "vi": "bảo vệ; bào chữa; phòng thủ",
+  "coll": ["defend yourself", "defend the title", "defend human rights", "defend a decision", "defend the goal"]
+ },
+ "extent": {
+  "vi": "mức độ; phạm vi; quy mô",
+  "coll": ["to some extent", "the full extent", "to a certain extent", "to a large extent"]
+ },
+ "format": {
+  "vi": "định dạng; hình thức; khổ",
+  "coll": ["file format", "in a different format", "digital format", "standard format", "format the text"]
+ },
+ "gap": {
+  "vi": "khoảng trống; khoảng cách; lỗ hổng",
+  "coll": ["gap year", "bridge the gap", "generation gap", "a gap in the market", "fill the gap"]
+ },
+ "household": {
+  "vi": "hộ gia đình; gia dụng",
+  "coll": ["household chores", "household items", "a household name", "household income", "the average household"]
+ },
+ "immigration": {
+  "vi": "sự nhập cư; kiểm tra nhập cảnh",
+  "coll": ["illegal immigration", "immigration policy", "immigration officer", "immigration laws"]
+ },
+ "impressive": {
+  "vi": "ấn tượng; gây ấn tượng",
+  "coll": ["an impressive performance", "an impressive record", "most impressive", "impressive results"]
+ },
+ "membership": {
+  "vi": "tư cách thành viên; số hội viên",
+  "coll": ["membership fee", "gym membership", "membership card", "apply for membership", "membership of the EU"]
+ },
+ "mount": {
+  "vi": "leo lên; gắn; gia tăng; núi",
+  "coll": ["mount a horse", "mount a campaign", "costs continue to mount", "Mount Everest"]
+ },
+ "occur": {
+  "vi": "xảy ra; xuất hiện; nảy ra trong đầu",
+  "coll": ["accidents occur", "occur naturally", "it occurred to me", "changes occur", "occur frequently"]
+ },
+ "parking": {
+  "vi": "sự đỗ xe; chỗ đỗ xe",
+  "coll": ["parking lot", "parking space", "free parking", "no parking", "parking ticket"]
+ },
+ "proposal": {
+  "vi": "đề xuất; lời cầu hôn",
+  "coll": ["a business proposal", "a marriage proposal", "reject a proposal", "submit a proposal"]
+ },
+ "reputation": {
+  "vi": "danh tiếng; tiếng tăm",
+  "coll": ["a good reputation", "build a reputation", "damage your reputation", "a reputation for quality"]
+ },
+ "rolling": {
+  "vi": "lăn tròn; nhấp nhô; say mèm",
+  "coll": ["rolling hills", "a rolling stone", "rolling pin", "on a rolling basis"]
+ },
+ "shortly": {
+  "vi": "chẳng bao lâu; ngay sau đó; cộc lốc",
+  "coll": ["shortly after midnight", "shortly before the meeting", "arrive shortly", "shortly afterwards"]
+ },
+ "technique": {
+  "vi": "kỹ thuật; thủ pháp; phương pháp",
+  "coll": ["new techniques", "relaxation techniques", "teaching techniques", "master a technique"]
+ },
+ "atmosphere": {
+  "vi": "bầu không khí; khí quyển",
+  "coll": ["the Earth's atmosphere", "a relaxed atmosphere", "a friendly atmosphere", "an atmosphere of fear"]
+ },
+ "belief": {
+  "vi": "niềm tin; tín ngưỡng",
+  "coll": ["religious beliefs", "a strong belief", "beyond belief", "belief in God", "popular belief"]
+ },
+ "bound": {
+  "vi": "chắc chắn sẽ; bị ràng buộc; trên đường đến; nhảy vọt",
+  "coll": ["bound to happen", "legally bound", "a train bound for Paris", "bound by the rules"]
+ },
+ "element": {
+  "vi": "yếu tố; nguyên tố; thành phần",
+  "coll": ["a key element", "the element of surprise", "chemical elements", "an essential element"]
+ },
+ "hip": {
+  "vi": "hông; sành điệu",
+  "coll": ["hip replacement", "hands on her hips", "hip fracture", "hip hop"]
+ },
+ "moral": {
+  "vi": "đạo đức; bài học đạo đức",
+  "coll": ["moral values", "moral support", "moral obligation", "the moral of the story", "moral standards"]
+ },
+ "navy blue": {
+  "vi": "xanh tím than; xanh nước biển đậm",
+  "coll": ["a navy blue suit", "navy blue uniform", "a navy blue dress"]
+ },
+ "offensive": {
+  "vi": "xúc phạm; khó chịu; tấn công; cuộc tấn công",
+  "coll": ["offensive language", "offensive remarks", "a military offensive", "go on the offensive", "offensive weapons"]
+ },
+ "package": {
+  "vi": "gói hàng; bưu kiện; gói dịch vụ",
+  "coll": ["package deal", "package holiday", "software package", "deliver a package", "package tour"]
+ },
+ "poverty": {
+  "vi": "sự nghèo đói; cảnh nghèo",
+  "coll": ["live in poverty", "extreme poverty", "the poverty line", "fight poverty", "child poverty"]
+ },
+ "qualified": {
+  "vi": "đủ trình độ; có bằng cấp; có bảo lưu",
+  "coll": ["highly qualified", "a qualified teacher", "fully qualified", "qualified to teach", "well qualified"]
+ },
+ "railway": {
+  "vi": "đường sắt; đường ray",
+  "coll": ["railway station", "railway line", "railway track", "railway network"]
+ },
+ "ridiculous": {
+  "vi": "lố bịch; nực cười; vô lý",
+  "coll": ["a ridiculous idea", "absolutely ridiculous", "look ridiculous", "ridiculous prices", "don't be ridiculous"]
+ },
+ "server": {
+  "vi": "máy chủ; người phục vụ",
+  "coll": ["web server", "server room", "the server crashed", "email server"]
+ },
+ "superior": {
+  "vi": "vượt trội; cao cấp hơn; trịch thượng",
+  "coll": ["superior quality", "far superior", "superior to the others", "a superior officer"]
+ },
+ "actress": {
+  "vi": "nữ diễn viên",
+  "coll": ["a famous actress", "leading actress", "best actress award", "film actress"]
+ },
+ "anxiety": {
+  "vi": "sự lo âu; nỗi lo lắng",
+  "coll": ["anxiety disorder", "suffer from anxiety", "anxiety attack", "reduce anxiety", "social anxiety"]
+ },
+ "charity": {
+  "vi": "tổ chức từ thiện; việc từ thiện; lòng nhân ái",
+  "coll": ["charity event", "give money to charity", "charity work", "raise money for charity", "charity shop"]
+ },
+ "curious": {
+  "vi": "tò mò; hiếu kỳ; kỳ lạ",
+  "coll": ["curious about the world", "curious to know", "a curious coincidence", "naturally curious"]
+ },
+ "discovery": {
+  "vi": "sự khám phá; phát hiện",
+  "coll": ["a scientific discovery", "make a discovery", "the discovery of America", "a voyage of discovery"]
+ },
+ "flash": {
+  "vi": "ánh chớp; đèn flash; lóe lên; thoáng qua",
+  "coll": ["a flash of lightning", "a flash of inspiration", "camera flash", "news flash", "in a flash"]
+ },
+ "formal": {
+  "vi": "trang trọng; chính thức",
+  "coll": ["formal dress", "formal education", "a formal complaint", "a formal occasion", "formal language"]
+ },
+ "formula": {
+  "vi": "công thức; sữa công thức",
+  "coll": ["chemical formula", "mathematical formula", "a winning formula", "baby formula", "secret formula"]
+ },
+ "innocent": {
+  "vi": "vô tội; ngây thơ",
+  "coll": ["innocent victims", "an innocent mistake", "innocent until proven guilty", "an innocent bystander"]
+ },
+ "pocket money": {
+  "vi": "tiền tiêu vặt",
+  "coll": ["give pocket money", "earn pocket money", "weekly pocket money", "spend your pocket money"]
+ },
+ "protest": {
+  "vi": "cuộc biểu tình; sự phản đối; phản đối",
+  "coll": ["a peaceful protest", "protest against the war", "protest march", "stage a protest", "in protest"]
+ },
+ "select": {
+  "vi": "chọn; tuyển chọn; chọn lọc; ưu tú",
+  "coll": ["select an option", "select the best candidate", "a select few", "select from the menu"]
+ },
+ "silent": {
+  "vi": "im lặng; lặng lẽ; câm",
+  "coll": ["remain silent", "fall silent", "a silent movie", "the silent majority", "a silent letter"]
+ },
+ "suffer": {
+  "vi": "chịu đựng; đau khổ; mắc bệnh",
+  "coll": ["suffer from depression", "suffer damage", "suffer losses", "suffer in silence", "suffer the consequences"]
+ },
+ "trail": {
+  "vi": "đường mòn; dấu vết; theo dấu; kéo lê",
+  "coll": ["hiking trail", "nature trail", "a trail of blood", "paper trail", "on the trail of"]
+ },
+ "arrival": {
+  "vi": "sự đến nơi; sự xuất hiện",
+  "coll": ["on arrival", "arrival time", "the arrival of spring", "new arrivals", "late arrival"]
+ },
+ "awareness": {
+  "vi": "nhận thức; ý thức",
+  "coll": ["raise awareness", "public awareness", "awareness campaign", "lack of awareness", "environmental awareness"]
+ },
+ "chase": {
+  "vi": "đuổi theo; cuộc rượt đuổi; theo đuổi",
+  "coll": ["car chase", "chase after the thief", "give chase", "chase your dreams", "cut to the chase"]
+ },
+ "extreme sports": {
+  "vi": "thể thao mạo hiểm",
+  "coll": ["do extreme sports", "extreme sports enthusiasts", "take up extreme sports"]
+ },
+ "guarantee": {
+  "vi": "sự bảo đảm; bảo hành; đảm bảo",
+  "coll": ["money-back guarantee", "no guarantee of success", "lifetime guarantee", "guarantee your safety", "under guarantee"]
+ },
+ "horrible": {
+  "vi": "kinh khủng; khủng khiếp; tồi tệ",
+  "coll": ["horrible weather", "a horrible smell", "a horrible feeling", "absolutely horrible", "a horrible mistake"]
+ },
+ "muscle": {
+  "vi": "cơ bắp; cơ; sức mạnh",
+  "coll": ["build muscle", "muscle pain", "pull a muscle", "muscle mass", "sore muscles"]
+ },
+ "passion": {
+  "vi": "niềm đam mê; sự say mê; dục vọng",
+  "coll": ["a passion for music", "burning passion", "crime of passion", "pursue your passion"]
+ },
+ "producer": {
+  "vi": "nhà sản xuất",
+  "coll": ["film producer", "music producer", "oil producer", "executive producer", "leading producer"]
+ },
+ "rank": {
+  "vi": "cấp bậc; thứ hạng; xếp hạng; hàng ngũ",
+  "coll": ["military rank", "rank among the best", "high rank", "taxi rank", "rank first in the world"]
+ },
+ "sand": {
+  "vi": "cát; chà nhám",
+  "coll": ["grains of sand", "sand dunes", "white sand beach", "bury your head in the sand", "sand castle"]
+ },
+ "avenue": {
+  "vi": "đại lộ; hướng đi; con đường",
+  "coll": ["Fifth Avenue", "a tree-lined avenue", "explore every avenue", "an avenue of opportunity"]
+ },
+ "electricity": {
+  "vi": "điện; điện năng",
+  "coll": ["generate electricity", "electricity bill", "electricity supply", "static electricity", "cut off the electricity"]
+ },
+ "gym": {
+  "vi": "phòng tập; phòng gym; môn thể dục",
+  "coll": ["go to the gym", "gym membership", "gym class", "hit the gym", "gym equipment"]
+ },
+ "naked": {
+  "vi": "khỏa thân; trần; trần trụi",
+  "coll": ["the naked eye", "stark naked", "half naked", "the naked truth"]
+ },
+ "plain": {
+  "vi": "đơn giản; trơn; rõ ràng; đồng bằng",
+  "coll": ["plain English", "plain text", "plain yogurt", "the Great Plains", "in plain clothes"]
+ },
+ "strategic": {
+  "vi": "chiến lược; mang tính chiến lược",
+  "coll": ["strategic planning", "strategic partnership", "a strategic location", "a strategic decision", "strategic importance"]
+ },
+ "wire": {
+  "vi": "dây điện; dây kim loại; nối dây; chuyển khoản",
+  "coll": ["barbed wire", "copper wire", "electrical wire", "wire transfer", "a live wire"]
+ },
+ "afterwards": {
+  "vi": "sau đó; về sau",
+  "coll": ["shortly afterwards", "soon afterwards", "immediately afterwards", "long afterwards"]
+ },
+ "anger": {
+  "vi": "sự tức giận; cơn giận; chọc giận",
+  "coll": ["anger management", "express anger", "in anger", "public anger", "provoke anger"]
+ },
+ "assist": {
+  "vi": "hỗ trợ; giúp đỡ; kiến tạo",
+  "coll": ["assist customers", "assist in the investigation", "assist with the project", "assist the police"]
+ },
+ "behalf": {
+  "vi": "sự thay mặt; danh nghĩa; lợi ích",
+  "coll": ["on behalf of the company", "on my behalf", "accept the award on his behalf"]
+ },
+ "capture": {
+  "vi": "bắt giữ; chiếm được; ghi lại; sự bắt giữ",
+  "coll": ["capture the moment", "capture attention", "capture the city", "escape capture", "capture data"]
+ },
+ "ceremony": {
+  "vi": "buổi lễ; nghi lễ; nghi thức",
+  "coll": ["wedding ceremony", "opening ceremony", "awards ceremony", "graduation ceremony", "tea ceremony"]
+ }
+}

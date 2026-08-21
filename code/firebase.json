@@ -1,0 +1,43 @@
+{
+  "hosting": {
+    "public": "out",
+    "cleanUrls": true,
+    "trailingSlash": false,
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "headers": [
+      {
+        "source": "/_next/static/**",
+        "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+      },
+      {
+        "source": "**/*.@(mp3|ogg|woff2|svg|png|ico)",
+        "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+      },
+      {
+        "source": "/data/**",
+        "headers": [{ "key": "Cache-Control", "value": "public, max-age=3600, must-revalidate" }]
+      },
+      {
+        "source": "/sw.js",
+        "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+      },
+      {
+        "//": "Header bảo mật cho MỌI đường dẫn. Đặt CUỐI cùng: các khối trên chỉ đặt Cache-Control (khoá khác nhau) nên không đè nhau, còn nếu Hosting đổi sang 'khối khớp sau thắng' thì cache vẫn nguyên vẹn.",
+        "source": "**",
+        "headers": [
+          { "key": "X-Content-Type-Options", "value": "nosniff" },
+          { "key": "Referrer-Policy", "value": "strict-origin-when-cross-origin" },
+          { "key": "Permissions-Policy", "value": "geolocation=(), camera=(), microphone=(), payment=(), usb=()" },
+          {
+            "//": "Toàn bộ JS/CSS/audio là self (static export). 'unsafe-inline' cho script vì Next nhúng script bootstrap + snippet theme inline. frame-ancestors 'none' thay cho X-Frame-Options. connect-src/img-src/frame-src mở đúng phần Firebase Auth + Firestore + ảnh đại diện Google cần.",
+            "key": "Content-Security-Policy",
+            "value": "default-src 'self'; script-src 'self' 'unsafe-inline' https://apis.google.com; style-src 'self' 'unsafe-inline'; img-src 'self' data: blob: https://lh3.googleusercontent.com; media-src 'self'; font-src 'self'; connect-src 'self' https://*.googleapis.com https://*.firebaseio.com wss://*.firebaseio.com; frame-src https://english-words-pet.firebaseapp.com https://accounts.google.com; frame-ancestors 'none'; base-uri 'self'; form-action 'self'; object-src 'none'"
+          }
+        ]
+      }
+    ]
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}

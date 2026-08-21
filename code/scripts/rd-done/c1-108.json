@@ -1,0 +1,118 @@
+[
+ {
+  "id": "news-microsoft-ends-support-for-windows-xp-s-",
+  "title_vi": "Microsoft kết thúc hỗ trợ gói dịch vụ đầu tiên của Windows XP",
+  "vi": [
+   "Thứ Ba, ngày 10 tháng 10 năm 2006 Như Microsoft đã thông báo trước đó, họ sẽ ngừng hỗ trợ gói dịch vụ đầu tiên của phần mềm hệ điều hành hàng đầu của họ, Windows XP.",
+   "Công ty sẽ không cung cấp bất kỳ bản cập nhật bảo mật hoặc tùy chọn hỗ trợ sự cố nào cho Windows XP Service Pack 1 (SP1) và Service Pack 1a (SP1a).",
+   "Vào ngày 10 tháng 10 năm 2006, các bản cập nhật bảo mật và hỗ trợ cho hai sản phẩm này sẽ kết thúc như một phần của Chính sách Vòng đời của Microsoft.",
+   "Trong thông báo cho khách hàng về sự thay đổi này, gã khổng lồ phần mềm khuyên khách hàng nên cập nhật lên Gói Dịch vụ 2 (SP2) mới hơn, được phát hành năm 2004.",
+   "Windows XP SP1 được phát hành vào ngày 9 tháng 9 năm 2002, cung cấp hơn 300 bản cập nhật bảo mật trong một gói.",
+   "Ngoài các bản cập nhật bảo mật, SP1 còn giới thiệu hỗ trợ USB 2.0 và một tiện ích mới, Đặt quyền truy cập và mặc định chương trình, cho phép người dùng có quyền kiểm soát các sản phẩm đi kèm của Microsoft.",
+   "Vào ngày 3 tháng 2 năm 2003, gói dịch vụ được phát hành lại dưới dạng Gói dịch vụ 1a, do một vụ kiện với Sun Microsystems, đã loại bỏ máy ảo Microsoft (VM), cung cấp hỗ trợ cho các chương trình Java.",
+   "Ngày kết thúc hỗ trợ cho SP1 ban đầu là ngày 17 tháng 9 năm 2006."
+  ]
+ },
+ {
+  "id": "news-indian-it-minister-says-government-will-",
+  "title_vi": "Bộ trưởng CNTT Ấn Độ cho biết chính phủ sẽ không kiểm duyệt mạng xã hội",
+  "vi": [
+   "Thứ Tư, ngày 15 tháng 2 năm 2012, Bộ trưởng Công nghệ Thông tin (IT) Ấn Độ Kapil Sibal cho biết tại hội nghị thượng đỉnh CNTT ở Mumbai rằng chính phủ không có kế hoạch kiểm duyệt mạng xã hội.",
+   "Ông nói: “Chúng tôi chưa bao giờ có bất kỳ ý định nào và cũng chưa bao giờ nói rằng chúng tôi sẽ kiểm duyệt mạng xã hội, nhưng chúng tôi tin rằng tất cả các phương tiện truyền thông đều phải tuân theo luật pháp của đất nước này”.",
+   "Chính phủ của Sibal đã lên kế hoạch vào năm ngoái để đưa ra các hướng dẫn nhằm ngăn chặn “tài liệu báng bổ” trên internet.",
+   "Google cho rằng kế hoạch này vi hiến và đi ngược lại quyền tự do ngôn luận.",
+   "Google sau đó đã gỡ bỏ những nội dung xúc phạm khi có lệnh của tòa án. 21 công ty bao gồm Google và Facebook đã bị đưa ra tòa liên quan đến một số nội dung trên trang web của họ vào năm ngoái.",
+   "Tòa án nhận thấy các công ty chịu trách nhiệm phát triển các phương tiện để chống lại nội dung không được chấp nhận.",
+   "Sibal nói rằng việc này không liên quan gì đến chính phủ; \"Đó là chuyện giữa người khiếu nại và những người được gọi\"."
+  ]
+ },
+ {
+  "id": "wiki-reactos",
+  "title_vi": "ReactOS",
+  "vi": [
+   "ReactOS là một hệ điều hành mã nguồn mở và miễn phí dành cho máy tính 32 bit và 64 bit.",
+   "Mục tiêu chính của nó là phát triển một hệ điều hành tương thích với phần mềm dành cho Windows Server 2003 và các phiên bản kế nhiệm của nó.",
+   "ReactOS đã được phát triển từ năm 1996 và vẫn được các nhà phát triển coi là phần mềm alpha chưa hoàn chỉnh.",
+   "Tính đến năm 2026, dự án vẫn đang được phát triển.",
+   "ReactOS được viết bằng C và C++.",
+   "Nó không dựa trên Linux hay Unix và sử dụng một số mã từ dự án Wine."
+  ]
+ },
+ {
+  "id": "wiki-tagged-command-queuing",
+  "title_vi": "Tagged Command Queuing",
+  "vi": [
+   "Tagged Command Queuing (TCQ) là công nghệ cho phép gửi nhiều yêu cầu đọc và ghi vào ổ cứng cùng một lúc.",
+   "ATA TCQ có chức năng không giống với Hàng đợi lệnh gốc (NCQ) hiệu quả hơn được sử dụng bởi ổ đĩa SATA.",
+   "SCSI TCQ không gặp phải những hạn chế tương tự như ATA TCQ.",
+   "Trước TCQ, hệ điều hành chỉ có thể gửi một yêu cầu tại một thời điểm.",
+   "Để tăng hiệu suất, nó phải quyết định thứ tự của các yêu cầu dựa trên ý tưởng của riêng nó, có thể không chính xác, về hoạt động của ổ cứng.",
+   "Với TCQ, ổ đĩa có thể tự đưa ra quyết định về cách sắp xếp các yêu cầu (và từ đó giúp hệ điều hành không phải làm như vậy).",
+   "Kết quả là TCQ có thể cải thiện hiệu suất tổng thể của ổ cứng nếu được triển khai đúng cách."
+  ]
+ },
+ {
+  "id": "wiki-brainfuck",
+  "title_vi": "Brainfuck",
+  "vi": [
+   "Ngôn ngữ lập trình brainfuck là ngôn ngữ lập trình bí truyền (kỳ lạ và khác thường).",
+   "Nó được tạo ra bởi Urban Müller vào năm 1993.",
+   "Nó có tám hướng dẫn (lệnh) vận hành (thực hiện mọi việc trên) một cuộn băng.",
+   "Các hướng dẫn được thực hiện từng cái một, theo thứ tự.",
+   "Băng có nhiều phần.",
+   "Mỗi phần là một con số.",
+   "Mỗi phần lúc đầu đều bằng không.",
+   "Brainfuck giống như một cỗ máy Turing."
+  ]
+ },
+ {
+  "id": "news-ibm-and-cisco-in-attempt-to-create-a-uni",
+  "title_vi": "IBM và Cisco trong nỗ lực tạo ra một nền tảng phổ quát để phát triển phần mềm truyền thông",
+  "vi": [
+   "Thứ sáu, ngày 9 tháng 3 năm 2007 IBM và Cisco đã công bố phát triển một nền tảng mới, dựa trên Eclipse và OSGi (sáng kiến Cổng dịch vụ mở), nền tảng này sẽ hợp nhất tất cả các nhà phát triển phần mềm cộng tác và truyền thông dưới một nền tảng duy nhất.",
+   "Trước UC2 (Truyền thông và Hợp tác Hợp nhất), truyền thông hợp nhất đã gặp khó khăn do thiếu nền tảng để tất cả các nhà phát triển phần mềm sử dụng, thay vì một loạt nền tảng trong số họ và hơn nữa, được cung cấp bởi các nhà cung cấp khác nhau.",
+   "Theo Adam Gartenberg từ Tập đoàn phần mềm IBM Lotus, đây là nguyên nhân chính dẫn đến sự trì trệ một phần này.",
+   "Tuy nhiên, UC2 nhằm mục đích giảm bớt công việc của các nhà phát triển phần mềm.",
+   "Gartenberg tuyên bố rằng nền tảng này rất linh hoạt và chắc chắn sẽ thu hút nhiều sự chú ý của các lập trình viên.",
+   "Họ sẽ có thể tạo các plug-in và ứng dụng nhỏ khác nhau để điều khiển từ xa ứng dụng chính khác.",
+   "Các công ty cũng đã tiết lộ một loạt các dự án chung khác của họ.",
+   "Dự án này sẽ dựa trên bộ giao diện lập trình ứng dụng của Lotus (SameTime) và Cisco.",
+   "Các tiện ích bổ sung được lên kế hoạch tích hợp một loạt chức năng và tính năng bổ sung vào phần mềm SameTime của Lotus.",
+   "Do đó, trong một vài tháng nữa, người dùng SameTime sẽ được hưởng lợi từ các chức năng như nhấp để gọi và thư thoại.",
+   "Điều này sẽ cho phép nhắn tin tức thời dễ dàng hơn trong hệ thống điện thoại IP Hợp nhất của Cisco.",
+   "Việc nền tảng này dựa trên Eclipse sẽ khiến nhiều nhà phát triển tạo ra nhiều dịch vụ truyền thông, chủ yếu dành cho người dùng từ xa được hưởng lợi từ một loạt chức năng mới của ứng dụng ERP và CRM.",
+   "Nortel Networks - đối tác của Microsoft từ năm ngoái và là đối thủ của Cisco trong khu vực - không đạt được nhiều thành công trong lĩnh vực dịch vụ truyền thông.",
+   "Về phía Microsoft, các chuyên gia đang chờ đợi phản ứng từ công ty của Bill Gates về những ý tưởng và đề xuất của IBM và Cisco dành cho các giải pháp cộng tác và truyền thông doanh nghiệp."
+  ]
+ },
+ {
+  "id": "wiki-samsung-galaxy-note-20",
+  "title_vi": "Samsung Galaxy Note 20",
+  "vi": [
+   "Samsung Galaxy Note 20 và Galaxy Note 20 Ultra là dòng phablet Android được Samsung Electronics thiết kế, phát triển, sản xuất và tiếp thị cho dòng Samsung Galaxy Note của mình.",
+   "Nó được công bố vào ngày 5 tháng 8 năm 2020 cùng với Samsung Galaxy Fold 2, Galaxy Watch 3, Galaxy Buds Live và Samsung Galaxy Tab S7.",
+   "Sự kiện này diễn ra trong Sự kiện giải nén của Samsung với lô hàng bắt đầu vào ngày 21 tháng 8 năm 2020.",
+   "Đây là model cuối cùng trong dòng Galaxy Note.",
+   "Samsung bắt đầu đưa dòng Note của mình thành các mẫu \"Ultra\" dòng S, bắt đầu với Galaxy S22 Ultra.",
+   "Do đại dịch COVID-19, việc phát hành phablet đã được phát trực tuyến thông qua các nền tảng và kênh trực tuyến của Samsung.",
+   "Tại sự kiện, Samsung cho biết họ sẽ hỗ trợ mạng 5G và bút của họ sẽ có tốc độ phản ứng tốt hơn gấp 4 lần so với các thế hệ khác.",
+   "Note 20s không có model \"+\"."
+  ]
+ },
+ {
+  "id": "news-wikimania-2007-exhibitions-shows-the-cul",
+  "title_vi": "Triển lãm Wikimania 2007 thể hiện văn hóa tự do",
+  "vi": [
+   "Thứ Bảy, ngày 4 tháng 8 năm 2007 Vào ngày thứ hai của Wikimania 2007 tại Đài Bắc, các Phiên họp nhóm vẫn tiếp tục, trong khi Triển lãm Nghệ thuật Mạng Tương tác Ảo 2007 của i.d.ea thu hút du khách và người tham gia.",
+   "Triển lãm này cho thấy việc tạo ra sự tương tác bằng cách sử dụng nội dung sáng tạo.",
+   "Bốn đội đại học và hai cá nhân đã trưng bày tác phẩm của họ.",
+   "Triển lãm này chủ yếu tập trung vào Nghệ thuật mạng tương tác.",
+   "Khách truy cập có thể tương tác với các tác phẩm nghệ thuật đó, chẳng hạn như \"Many Me\", \"Not One Less\" và \"One Million Heartbeats\", khám phá danh tính, thông tin và hành vi cộng đồng.",
+   "Kevin Lam đến từ Hồng Kông và Marius Watz đến từ Na Uy cũng mang đến các tác phẩm nghệ thuật \"Bàn chải di động\" và \"Neon Organic / Electro Plastique\" để thể hiện văn hóa tự do của Nghệ thuật Mạng Tương tác.",
+   "Hội nghị Wikimania 2007 sẽ kết thúc vào ngày 5 tháng 8.",
+   "Việc gửi các tác phẩm được cấp phép miễn phí cho Giải thưởng Wikimania vẫn đang được tiến hành, hạn chót là 8 giờ sáng.",
+   "Ngày 5 tháng 8 (giờ Đài Bắc).",
+   "Người đoạt giải Wikimania sẽ được công bố tại Lễ bế mạc."
+  ]
+ }
+]

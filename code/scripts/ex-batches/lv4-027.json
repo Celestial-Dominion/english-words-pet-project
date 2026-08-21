@@ -1,0 +1,816 @@
+[
+ {
+  "id": "gymnasium",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà thi đấu; phòng tập thể dục; trường trung học (châu Âu)",
+  "coll": [
+   "school gymnasium",
+   "indoor gymnasium",
+   "gymnasium floor",
+   "the college gymnasium"
+  ]
+ },
+ {
+  "id": "wasteland",
+  "pos": [
+   "n"
+  ],
+  "vi": "vùng đất hoang; nơi hoang tàn",
+  "coll": [
+   "barren wasteland",
+   "industrial wasteland",
+   "cultural wasteland",
+   "post-apocalyptic wasteland"
+  ]
+ },
+ {
+  "id": "admirer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người ngưỡng mộ; người si mê",
+  "coll": [
+   "secret admirer",
+   "great admirer",
+   "an admirer of his work",
+   "long-time admirer"
+  ]
+ },
+ {
+  "id": "agitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kích động; sự bồn chồn; phong trào vận động",
+  "coll": [
+   "in a state of agitation",
+   "signs of agitation",
+   "extreme agitation",
+   "political agitation"
+  ]
+ },
+ {
+  "id": "chandelier",
+  "pos": [
+   "n"
+  ],
+  "vi": "đèn chùm",
+  "coll": [
+   "crystal chandelier",
+   "ornate chandelier",
+   "hang a chandelier",
+   "chandelier in the hall"
+  ]
+ },
+ {
+  "id": "epoch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thời đại; kỷ nguyên; mốc thời gian gốc",
+  "coll": [
+   "a new epoch",
+   "mark an epoch",
+   "geological epoch",
+   "epoch-making event"
+  ]
+ },
+ {
+  "id": "oculus",
+  "pos": [
+   "n"
+  ],
+  "vi": "cửa sổ tròn; lỗ tròn trên mái vòm",
+  "coll": [
+   "the oculus of the Pantheon",
+   "central oculus",
+   "oculus window",
+   "light through the oculus"
+  ]
+ },
+ {
+  "id": "keel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sống tàu; lườn tàu; lật úp",
+  "coll": [
+   "on an even keel",
+   "keel over",
+   "the ship's keel",
+   "lay the keel"
+  ]
+ },
+ {
+  "id": "zest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự hăng hái; vỏ chanh bào; nét thú vị",
+  "coll": [
+   "zest for life",
+   "lemon zest",
+   "orange zest",
+   "add zest to"
+  ]
+ },
+ {
+  "id": "perk",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "phúc lợi thêm; bổng lộc; phấn chấn lên",
+  "coll": [
+   "perks of the job",
+   "employee perks",
+   "job perks",
+   "perk up"
+  ]
+ },
+ {
+  "id": "clot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cục máu đông; đông vón lại",
+  "coll": [
+   "blood clot",
+   "prevent clots",
+   "a clot in the leg",
+   "the blood clots"
+  ]
+ },
+ {
+  "id": "magma",
+  "pos": [
+   "n"
+  ],
+  "vi": "mắc ma; dung nham trong lòng đất",
+  "coll": [
+   "molten magma",
+   "magma chamber",
+   "magma rises",
+   "magma flow"
+  ]
+ },
+ {
+  "id": "deepen",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm sâu sắc thêm; đào sâu; trở nên sâu hơn",
+  "coll": [
+   "deepen understanding",
+   "deepen the crisis",
+   "deepen ties",
+   "deepen the relationship"
+  ]
+ },
+ {
+  "id": "forgery",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự làm giả; đồ giả mạo; tội làm giả giấy tờ",
+  "coll": [
+   "commit forgery",
+   "charged with forgery",
+   "art forgery",
+   "a clever forgery"
+  ]
+ },
+ {
+  "id": "counteract",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chống lại; vô hiệu hóa; làm đối trọng",
+  "coll": [
+   "counteract the effects",
+   "counteract inflation",
+   "counteract the damage",
+   "counteract a poison"
+  ]
+ },
+ {
+  "id": "slag",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xỉ quặng; xỉ lò luyện kim; nói xấu",
+  "coll": [
+   "slag heap",
+   "molten slag",
+   "slag off",
+   "blast furnace slag"
+  ]
+ },
+ {
+  "id": "lewd",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "dâm tục; tục tĩu; khiếm nhã",
+  "coll": [
+   "lewd comments",
+   "lewd behaviour",
+   "lewd gestures",
+   "lewd jokes"
+  ]
+ },
+ {
+  "id": "gladiator",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đấu sĩ giác đấu; võ sĩ giác đấu",
+  "coll": [
+   "Roman gladiator",
+   "gladiator fights",
+   "gladiator combat",
+   "gladiator arena"
+  ]
+ },
+ {
+  "id": "watchdog",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơ quan giám sát; chó giữ nhà",
+  "coll": [
+   "consumer watchdog",
+   "financial watchdog",
+   "watchdog group",
+   "watchdog organisation"
+  ]
+ },
+ {
+  "id": "veterinarian",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bác sĩ thú y",
+  "coll": [
+   "licensed veterinarian",
+   "consult a veterinarian",
+   "local veterinarian",
+   "veterinarian clinic"
+  ]
+ },
+ {
+  "id": "intermediary",
+  "pos": [
+   "n"
+  ],
+  "vi": "bên trung gian; người môi giới",
+  "coll": [
+   "act as an intermediary",
+   "through an intermediary",
+   "financial intermediary",
+   "neutral intermediary"
+  ]
+ },
+ {
+  "id": "menacing",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đe dọa; hăm dọa; đầy vẻ dọa nạt",
+  "coll": [
+   "menacing look",
+   "menacing tone",
+   "menacing presence",
+   "look menacing"
+  ]
+ },
+ {
+  "id": "arduous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gian nan; vất vả; nhọc nhằn",
+  "coll": [
+   "arduous task",
+   "arduous journey",
+   "arduous process",
+   "long and arduous"
+  ]
+ },
+ {
+  "id": "promenade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đường dạo ven biển; cuộc dạo chơi; đi dạo",
+  "coll": [
+   "seaside promenade",
+   "stroll along the promenade",
+   "promenade deck",
+   "the promenade concert"
+  ]
+ },
+ {
+  "id": "condone",
+  "pos": [
+   "v"
+  ],
+  "vi": "dung túng; làm ngơ trước; tha thứ",
+  "coll": [
+   "condone violence",
+   "cannot condone",
+   "condone the behaviour",
+   "condone cheating"
+  ]
+ },
+ {
+  "id": "proximal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gần gốc; ở phía gần thân",
+  "coll": [
+   "proximal end",
+   "proximal femur",
+   "proximal tubule",
+   "proximal muscles"
+  ]
+ },
+ {
+  "id": "rapture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự ngây ngất; niềm sung sướng tột độ",
+  "coll": [
+   "in raptures",
+   "state of rapture",
+   "pure rapture",
+   "listen with rapture"
+  ]
+ },
+ {
+  "id": "embody",
+  "pos": [
+   "v"
+  ],
+  "vi": "hiện thân cho; thể hiện rõ; bao hàm",
+  "coll": [
+   "embody the spirit of",
+   "embody values",
+   "embody an ideal",
+   "embody principles"
+  ]
+ },
+ {
+  "id": "autopilot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chế độ lái tự động; làm theo quán tính",
+  "coll": [
+   "on autopilot",
+   "engage the autopilot",
+   "switch on the autopilot",
+   "run on autopilot"
+  ]
+ },
+ {
+  "id": "attrition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự hao mòn dần; sự giảm dần nhân sự; tiêu hao sinh lực",
+  "coll": [
+   "war of attrition",
+   "attrition rate",
+   "natural attrition",
+   "staff attrition"
+  ]
+ },
+ {
+  "id": "grievance",
+  "pos": [
+   "n"
+  ],
+  "vi": "nỗi bất bình; đơn khiếu nại",
+  "coll": [
+   "file a grievance",
+   "air grievances",
+   "legitimate grievance",
+   "grievance procedure"
+  ]
+ },
+ {
+  "id": "exalted",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "cao quý; được tôn vinh; cao siêu",
+  "coll": [
+   "exalted position",
+   "exalted status",
+   "exalted rank",
+   "exalted ideals"
+  ]
+ },
+ {
+  "id": "hitherto",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "cho đến nay; từ trước tới nay",
+  "coll": [
+   "hitherto unknown",
+   "hitherto unpublished",
+   "hitherto unseen",
+   "hitherto believed"
+  ]
+ },
+ {
+  "id": "rife",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "tràn lan; đầy rẫy; phổ biến (điều xấu)",
+  "coll": [
+   "rife with corruption",
+   "rife with errors",
+   "rumours are rife",
+   "speculation is rife"
+  ]
+ },
+ {
+  "id": "dispersal",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân tán; sự giải tán",
+  "coll": [
+   "seed dispersal",
+   "dispersal of the crowd",
+   "rapid dispersal",
+   "dispersal pattern"
+  ]
+ },
+ {
+  "id": "avian",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc loài chim",
+  "coll": [
+   "avian flu",
+   "avian influenza",
+   "avian species",
+   "avian populations"
+  ]
+ },
+ {
+  "id": "adhesion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kết dính; độ bám dính; sự dính mô",
+  "coll": [
+   "cell adhesion",
+   "strong adhesion",
+   "adhesion to the surface",
+   "tyre adhesion"
+  ]
+ },
+ {
+  "id": "cordon",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "hàng rào phong tỏa; vành đai bảo vệ; phong tỏa khu vực",
+  "coll": [
+   "police cordon",
+   "cordon off the area",
+   "security cordon",
+   "set up a cordon"
+  ]
+ },
+ {
+  "id": "instantaneous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tức thì; ngay lập tức",
+  "coll": [
+   "instantaneous response",
+   "almost instantaneous",
+   "instantaneous death",
+   "instantaneous velocity"
+  ]
+ },
+ {
+  "id": "allotment",
+  "pos": [
+   "n"
+  ],
+  "vi": "phần được chia; sự phân bổ; mảnh vườn thuê",
+  "coll": [
+   "allotment of shares",
+   "annual allotment",
+   "rent an allotment",
+   "allotment garden"
+  ]
+ },
+ {
+  "id": "vis-a-vis",
+  "pos": [
+   "prep"
+  ],
+  "vi": "đối với; so với; mặt đối mặt",
+  "coll": [
+   "vis-a-vis the situation",
+   "position vis-a-vis",
+   "policy vis-a-vis",
+   "vis-a-vis each other"
+  ]
+ },
+ {
+  "id": "modernism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa hiện đại; trào lưu hiện đại; tính hiện đại",
+  "coll": [
+   "literary modernism",
+   "architectural modernism",
+   "the rise of modernism",
+   "high modernism"
+  ]
+ },
+ {
+  "id": "treachery",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phản bội; sự bội tín; hành vi tráo trở",
+  "coll": [
+   "an act of treachery",
+   "accused of treachery",
+   "betrayal and treachery",
+   "political treachery"
+  ]
+ },
+ {
+  "id": "mediate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "hòa giải; làm trung gian; trung gian",
+  "coll": [
+   "mediate a dispute",
+   "mediate between parties",
+   "mediate a conflict",
+   "mediate talks"
+  ]
+ },
+ {
+  "id": "diligently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cần mẫn; siêng năng; chăm chỉ",
+  "coll": [
+   "work diligently",
+   "diligently pursue",
+   "search diligently",
+   "study diligently"
+  ]
+ },
+ {
+  "id": "etching",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tranh khắc axit; kỹ thuật khắc axit; sự ăn mòn khắc",
+  "coll": [
+   "an etching of",
+   "etching on copper",
+   "delicate etching",
+   "etching technique"
+  ]
+ },
+ {
+  "id": "proverbial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "như tục ngữ vẫn nói; nổi tiếng ai cũng biết; thuộc tục ngữ",
+  "coll": [
+   "the proverbial last straw",
+   "the proverbial needle in a haystack",
+   "proverbial wisdom",
+   "proverbial expression"
+  ]
+ },
+ {
+  "id": "philanthropist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà từ thiện; người làm từ thiện",
+  "coll": [
+   "a wealthy philanthropist",
+   "billionaire philanthropist",
+   "a noted philanthropist",
+   "businessman and philanthropist"
+  ]
+ },
+ {
+  "id": "mediocrity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tầm thường; người tầm thường",
+  "coll": [
+   "sink into mediocrity",
+   "a culture of mediocrity",
+   "settle for mediocrity",
+   "rise above mediocrity"
+  ]
+ },
+ {
+  "id": "snippet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mẩu nhỏ; đoạn trích ngắn; đoạn mã",
+  "coll": [
+   "a snippet of information",
+   "a snippet of code",
+   "a snippet of conversation",
+   "snippets of news"
+  ]
+ },
+ {
+  "id": "condensation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ngưng tụ; hơi nước đọng; sự rút gọn",
+  "coll": [
+   "condensation on the windows",
+   "water condensation",
+   "prevent condensation",
+   "condensation forms"
+  ]
+ },
+ {
+  "id": "burgeoning",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đang bùng nổ; phát triển nhanh; sự nảy nở",
+  "coll": [
+   "a burgeoning industry",
+   "burgeoning population",
+   "burgeoning demand",
+   "burgeoning middle class"
+  ]
+ },
+ {
+  "id": "hoist",
+  "pos": [
+   "v"
+  ],
+  "vi": "kéo lên; nâng lên; giương cao",
+  "coll": [
+   "hoist a flag",
+   "hoist the trophy",
+   "hoist the sails",
+   "hoist into position"
+  ]
+ },
+ {
+  "id": "tenacity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kiên trì; tính bền bỉ; độ bền dai",
+  "coll": [
+   "sheer tenacity",
+   "show tenacity",
+   "tenacity and determination",
+   "with great tenacity"
+  ]
+ },
+ {
+  "id": "genomic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc hệ gen; thuộc bộ gen",
+  "coll": [
+   "genomic data",
+   "genomic sequencing",
+   "genomic analysis",
+   "genomic medicine"
+  ]
+ },
+ {
+  "id": "abundantly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "dồi dào; rất nhiều; hết sức rõ",
+  "coll": [
+   "abundantly clear",
+   "grow abundantly",
+   "abundantly available",
+   "abundantly evident"
+  ]
+ },
+ {
+  "id": "spire",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chóp nhọn nhà thờ; ngọn tháp nhọn; vươn cao thành chóp",
+  "coll": [
+   "a church spire",
+   "the spire of the cathedral",
+   "tall spires",
+   "a soaring spire"
+  ]
+ },
+ {
+  "id": "subsistence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sinh tồn; mức sống tối thiểu; kế sinh nhai",
+  "coll": [
+   "subsistence farming",
+   "subsistence level",
+   "means of subsistence",
+   "subsistence agriculture"
+  ]
+ },
+ {
+  "id": "parable",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "truyện ngụ ngôn; dụ ngôn",
+  "coll": [
+   "the parable of the sower",
+   "tell a parable",
+   "a biblical parable",
+   "a modern parable"
+  ]
+ },
+ {
+  "id": "derelict",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "bỏ hoang; hoang phế; kẻ vô gia cư",
+  "coll": [
+   "a derelict building",
+   "derelict land",
+   "a derelict factory",
+   "derelict in his duty"
+  ]
+ }
+]

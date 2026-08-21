@@ -1,0 +1,123 @@
+[
+ {
+  "id": "wiki-gnu-hurd",
+  "title_vi": "GNU Hurd",
+  "vi": [
+   "GNU Hurd là một nhân đa máy chủ với mục tiêu cung cấp cho người dùng nhiều quyền tự do làm những gì họ muốn với hệ điều hành GNU nhất có thể.",
+   "Ban đầu nó được dự định cung cấp một giải pháp thay thế miễn phí cho Unix (GNU là viết tắt của GNU's Not Unix).",
+   "Hurd là dự định triển khai hệ điều hành GNU trước khi Linux trở thành hạt nhân được người dùng GNU lựa chọn.",
+   "Mục tiêu hiện tại của dự án Hurd là: [T]o tạo ra một hạt nhân có mục đích chung phù hợp với hệ điều hành GNU, có thể sử dụng hàng ngày và cung cấp cho người dùng và chương trình nhiều quyền kiểm soát môi trường máy tính của họ nhất có thể.",
+   "Hạt nhân Hurd bao gồm một hạt nhân vi mô cung cấp các dịch vụ hạt nhân cơ bản và một bộ sưu tập (hoặc đàn) máy chủ / trình nền cung cấp các dịch vụ vượt quá mức cơ bản.",
+   "Thiết kế này nhằm mục đích cung cấp cho các nhà phát triển sự tự do mà Unix và các hệ điều hành tương tự Unix khác không có.",
+   "Ví dụ: thiết kế này cho phép các nhà phát triển lập trình máy chủ bằng các ngôn ngữ khác với ngôn ngữ được kernel sử dụng.",
+   "GNU Mach hiện là vi nhân đang được sử dụng trong Hurd.",
+   "Richard Stallman đã tạo ra dự án GNU vào năm 1983 và thành lập Quỹ Phần mềm Tự do (FSF) vào năm 1985 để tài trợ và thúc đẩy sự phát triển của phần mềm miễn phí và GNU.",
+   "Đến đầu những năm 1990, chuỗi công cụ GNU và các thành phần khác ngoài kernel đã được hoàn thiện.",
+   "Công việc bắt đầu ở Hurd vào năm 1990.",
+   "Stallman quyết định sử dụng vi nhân Mach của Đại học Carnegie Mellon làm cơ sở cho vi nhân Hurd.",
+   "Năm 1991, Linus Torvalds phát hành nhân Linux, và những người đam mê phần mềm tự do đã chuyển các thành phần hoàn chỉnh của GNU sang nhân Linux để tạo ra GNU/Linux.",
+   "NetBSD và FreeBSD được phát hành vài năm sau đó, tuy nhiên Hurd vẫn chưa ở trạng thái hoạt động.",
+   "Do sự hiện diện của các lựa chọn thay thế đang hoạt động, sự quan tâm đến Hurd giảm dần.",
+   "Khi FSF rời xa việc phát triển GNU và hướng tới hoạt động tích cực về phần mềm tự do, Debian tham gia nhiều hơn vào sự phát triển của Hurd."
+  ]
+ },
+ {
+  "id": "wiki-pubmed",
+  "title_vi": "PubMed",
+  "vi": [
+   "PubMed là cơ sở dữ liệu trực tuyến miễn phí về các tài liệu tham khảo về khoa học đời sống.",
+   "Nó được thành lập vào tháng 1 năm 1996.",
+   "Thư viện Y khoa Quốc gia Hoa Kỳ (NLM) tại Viện Y tế Quốc gia (NIH) duy trì cơ sở dữ liệu.",
+   "Mỗi bản ghi trong cơ sở dữ liệu PubMed được gán một số đặc biệt để nhận dạng nó.",
+   "Đây là PMID, từ viết tắt của số \"PubMed IDentifier\".",
+   "PMID không thay đổi theo thời gian và chúng không bao giờ được sử dụng lại.",
+   "Bất kỳ PMID nào cũng chỉ là một con số.",
+   "PMID không cho người đọc biết gì về loại hoặc chất lượng nội dung của bất kỳ ấn phẩm nào."
+  ]
+ },
+ {
+  "id": "wiki-cellular-automaton",
+  "title_vi": "Automat tế bào",
+  "vi": [
+   "Automat tế bào (cellular automaton) là một mô hình được sử dụng trong khoa học máy tính và toán học.",
+   "Ý tưởng là mô hình hóa một hệ thống động bằng cách sử dụng một số ô.",
+   "Mỗi ô có một trong nhiều trạng thái có thể.",
+   "Với mỗi lần \"lượt\" hoặc lặp lại, trạng thái của ô hiện tại được xác định bởi hai thứ: trạng thái hiện tại của nó và trạng thái của các ô lân cận.",
+   "Một ví dụ rất nổi tiếng về automat tế bào là Trò chơi cuộc sống của Conway.",
+   "Stanislaw Ulam và John von Neumann lần đầu tiên mô tả các automat tế bào vào những năm 1940.",
+   "Trò chơi cuộc sống của Conway được trình chiếu lần đầu tiên vào những năm 1970."
+  ]
+ },
+ {
+  "id": "wiki-encyclopedia-dramatica",
+  "title_vi": "Encyclopædia Dramatica",
+  "vi": [
+   "Encyclopædia Dramatica (ED) là một trang web lưu trữ hầu hết các bài viết chế giễu người hoặc đồ vật.",
+   "Các trang châm biếm các sự kiện hiện tại và nhiều sự kiện trên internet.",
+   "Encyclopædia Dramatica đã được mô tả là một \"trang web chống người hâm mộ Wikipedia lén lút (mỉa mai và khó chịu).",
+   "Trang web này là một wiki chạy trên phần mềm MediaWiki.",
+   "Trang web thường hiển thị nội dung của nó một cách thiếu tôn trọng và thường có phong cách lạm dụng.",
+   "Nhiều bài viết được viết theo lối châm biếm nhằm gây khó chịu cho những người coi trọng nội dung."
+  ]
+ },
+ {
+  "id": "wiki-internet-caf",
+  "title_vi": "Quán cà phê Internet",
+  "vi": [
+   "Quán cà phê Internet (còn gọi là Cybercafé) là một loại hình quán cà phê.",
+   "Đây là một doanh nghiệp cung cấp quyền truy cập Internet cho công chúng, thường có tính phí.",
+   "Nó cũng bán cà phê và thực phẩm.",
+   "Quán cà phê Internet được giới thiệu vào những năm 1990.",
+   "Sự lan rộng của các quán cà phê theo phong cách hiện đại đến nhiều nơi, thành thị và nông thôn, đi đôi với máy tính.",
+   "Nhiều quán cà phê Internet cung cấp Internet không dây hoặc có máy tính cho khách hàng sử dụng.",
+   "Họ cũng cung cấp điện thoại và báo chí.",
+   "Người dùng quán cà phê Internet cần lưu ý rằng họ có độ bảo mật kém hơn hầu hết các mạng riêng.",
+   "Họ cũng tiếp xúc nhiều hơn với phần mềm độc hại, còn được gọi là 'phần mềm độc hại'."
+  ]
+ },
+ {
+  "id": "wiki-hybrid-drive",
+  "title_vi": "Ổ đĩa lai",
+  "vi": [
+   "Ổ đĩa lai, còn được gọi là ổ cứng lai (HHD) hoặc ổ đĩa lai thể rắn (SSHD), là một loại thiết bị lưu trữ máy tính dung lượng lớn kết hợp các tính năng của cả ổ đĩa cứng (HDD) và ổ đĩa thể rắn (SSD).",
+   "Ổ đĩa lai tích hợp hai công nghệ này với mục đích mang lại sự cân bằng giữa tốc độ, công suất và chi phí.",
+   "Nó sử dụng thành phần SSD để lưu trữ dữ liệu và hệ điều hành được truy cập thường xuyên, mang lại thời gian khởi động nhanh hơn và truy cập dữ liệu nhanh hơn cho các tệp đó.",
+   "Trong khi đó, thành phần HDD được sử dụng để lưu trữ dữ liệu ít được truy cập hơn.",
+   "Bằng cách quản lý dữ liệu một cách thông minh giữa các phần SSD và HDD, ổ đĩa lai có thể cung cấp nhiều tốc độ của SSD trong khi vẫn duy trì dung lượng lưu trữ lớn và tiết kiệm chi phí của HDD.",
+   "Tuy nhiên, điều quan trọng cần lưu ý là hiệu suất của ổ lai vẫn kém hơn hiệu suất của ổ SSD thuần túy."
+  ]
+ },
+ {
+  "id": "wiki-xiaomi",
+  "title_vi": "Xiaomi",
+  "vi": [
+   "Tập đoàn Xiaomi (; tiếng Trung: 小米 [ɕjǎu.mì] ()) là một công ty điện tử đa quốc gia của Trung Quốc được thành lập vào tháng 4 năm 2010 và có trụ sở chính tại Bắc Kinh.",
+   "Xiaomi sản xuất và đầu tư vào điện thoại thông minh, ứng dụng di động, máy tính xách tay, đồ gia dụng, túi xách, giày dép, đồ điện tử tiêu dùng và nhiều sản phẩm khác.",
+   "Xiaomi cũng là công ty thứ 4 trên thế giới sau Apple, Samsung và Huawei có năng lực tự phát triển chip điện thoại di động.",
+   "Xiaomi ra mắt điện thoại thông minh đầu tiên vào tháng 8 năm 2011 và nhanh chóng giành được thị phần tại Trung Quốc để trở thành công ty điện thoại thông minh lớn nhất nước này vào năm 2014.",
+   "Vào đầu quý 2 năm 2018, Xiaomi là nhà sản xuất điện thoại thông minh lớn thứ tư thế giới, dẫn đầu ở cả thị trường lớn nhất là Trung Quốc và thị trường lớn thứ hai là Ấn Độ.",
+   "Xiaomi sau đó đã phát triển nhiều loại thiết bị điện tử tiêu dùng hơn, bao gồm hệ sinh thái sản phẩm nhà thông minh (IoT), đã kết nối hơn 100 triệu thiết bị và đồ gia dụng thông minh.",
+   "Số người dùng hoạt động hàng tháng (MAU) của MIUI đã tăng lên 291,6 triệu vào tháng 9 năm 2019.",
+   "Xiaomi có 16.700 nhân viên trên toàn thế giới.",
+   "Nó đã mở rộng sang các thị trường khác bao gồm Trung Quốc, Singapore, Nhật Bản, Hàn Quốc, Nga, Nam Phi và hầu hết các quốc gia và khu vực ở Đông Nam Á và Châu Âu.",
+   "Theo Forbes, Lei Jun, người sáng lập và CEO, có tài sản ròng ước tính khoảng 12,5 tỷ USD.",
+   "Xiaomi là startup công nghệ giá trị thứ 4 thế giới sau khi nhận được nguồn tài trợ 1,1 tỷ USD từ các nhà đầu tư, khiến định giá của Xiaomi hơn 46 tỷ USD.",
+   "Xếp thứ 468, Xiaomi là công ty trẻ nhất trong danh sách Fortune Global 500 năm 2019.",
+   "Năm 2019, doanh số điện thoại di động của Xiaomi đạt 125 triệu chiếc, đứng thứ 4 toàn cầu kể từ năm 2018.",
+   "Công ty đã được niêm yết trên Sở giao dịch chứng khoán Hồng Kông từ năm 2018."
+  ]
+ },
+ {
+  "id": "wiki-os-2",
+  "title_vi": "OS/2",
+  "vi": [
+   "OS/2 là một hệ điều hành ban đầu được tạo ra theo thỏa thuận chung giữa các công ty Microsoft và IBM.",
+   "Đây là viết tắt của \"Operating System/2\" (Hệ điều hành/2).",
+   "Nó được thiết kế để thay thế MS-DOS và Microsoft Windows.",
+   "OS/2 được IBM duy trì cho đến năm 2006.",
+   "IBM đã ngừng hỗ trợ OS/2 vào ngày 31 tháng 12 năm 2006.",
+   "Kể từ đó, nó đã được cập nhật, duy trì và tiếp thị dưới tên eComStation.",
+   "Vào năm 2015, có thông báo rằng một bản phân phối OEM mới của OS/2 sẽ được phát hành có tên là ArcaOS."
+  ]
+ }
+]

@@ -1,0 +1,402 @@
+{
+ "unexpected": {
+  "vi": "bất ngờ; không lường trước",
+  "coll": ["unexpected result", "unexpected visitor", "unexpected news", "take an unexpected turn"]
+ },
+ "usage": {
+  "vi": "cách dùng; sự sử dụng; mức tiêu thụ",
+  "coll": ["common usage", "English usage", "data usage", "usage guidelines"]
+ },
+ "video clip": {
+  "vi": "đoạn video ngắn; video clip",
+  "coll": ["watch a video clip", "short video clip", "share a video clip", "post a video clip"]
+ },
+ "accidentally": {
+  "vi": "vô tình; một cách tình cờ",
+  "coll": ["accidentally deleted", "accidentally dropped", "accidentally discovered", "accidentally on purpose"]
+ },
+ "bin": {
+  "vi": "thùng rác; thùng chứa; vứt vào thùng rác",
+  "coll": ["rubbish bin", "recycling bin", "throw it in the bin", "storage bin"]
+ },
+ "biology": {
+  "vi": "sinh học; môn sinh",
+  "coll": ["study biology", "marine biology", "molecular biology", "biology class"]
+ },
+ "briefly": {
+  "vi": "ngắn gọn; trong chốc lát",
+  "coll": ["speak briefly", "briefly explain", "pause briefly", "meet briefly"]
+ },
+ "canal": {
+  "vi": "kênh đào; ống dẫn trong cơ thể",
+  "coll": ["the Panama Canal", "irrigation canal", "canal boat", "root canal"]
+ },
+ "delete": {
+  "vi": "xóa; xóa bỏ",
+  "coll": ["delete a file", "delete an account", "delete a message", "accidentally delete"]
+ },
+ "departure": {
+  "vi": "sự khởi hành; sự rời đi; sự khác với lệ thường",
+  "coll": ["departure time", "departure lounge", "point of departure", "delay the departure"]
+ },
+ "explosion": {
+  "vi": "vụ nổ; sự bùng nổ",
+  "coll": ["bomb explosion", "gas explosion", "population explosion", "a huge explosion"]
+ },
+ "folk": {
+  "vi": "người ta, dân chúng; dân gian; gia đình, họ hàng",
+  "coll": ["folk music", "folk tale", "folk dance", "country folk", "old folks"]
+ },
+ "generate": {
+  "vi": "tạo ra; sản sinh; phát (điện)",
+  "coll": ["generate electricity", "generate income", "generate interest", "generate ideas"]
+ },
+ "lightning": {
+  "vi": "tia chớp, sét; nhanh như chớp",
+  "coll": ["thunder and lightning", "struck by lightning", "a flash of lightning", "at lightning speed"]
+ },
+ "magical": {
+  "vi": "kỳ diệu; thuộc phép thuật",
+  "coll": ["magical powers", "magical moment", "magical experience", "magical world"]
+ },
+ "motivation": {
+  "vi": "động lực; sự thúc đẩy",
+  "coll": ["lack of motivation", "strong motivation", "motivation to learn", "boost motivation"]
+ },
+ "nasty": {
+  "vi": "khó chịu, tồi tệ; ác ý; bẩn thỉu",
+  "coll": ["nasty smell", "nasty habit", "nasty surprise", "nasty weather", "a nasty cut"]
+ },
+ "permit": {
+  "vi": "cho phép; giấy phép",
+  "coll": ["work permit", "building permit", "permit access", "if time permits"]
+ },
+ "productive": {
+  "vi": "năng suất cao; hiệu quả; màu mỡ",
+  "coll": ["productive meeting", "a productive day", "highly productive", "productive land"]
+ },
+ "safely": {
+  "vi": "an toàn; một cách an toàn",
+  "coll": ["arrive safely", "drive safely", "safely stored", "land safely"]
+ },
+ "slight": {
+  "vi": "nhẹ, nhỏ; mảnh khảnh; sự coi thường",
+  "coll": ["slight increase", "slight difference", "slight change", "slight improvement"]
+ },
+ "tension": {
+  "vi": "sự căng thẳng; sức căng",
+  "coll": ["ease tension", "rising tension", "muscle tension", "political tension"]
+ },
+ "twist": {
+  "vi": "xoắn, vặn; tình tiết bất ngờ; khúc quanh",
+  "coll": ["a twist of fate", "plot twist", "twist your ankle", "twist the lid off"]
+ },
+ "unemployment": {
+  "vi": "nạn thất nghiệp; tỷ lệ thất nghiệp",
+  "coll": ["unemployment rate", "high unemployment", "unemployment benefits", "rising unemployment"]
+ },
+ "useless": {
+  "vi": "vô dụng; vô ích",
+  "coll": ["completely useless", "useless information", "feel useless", "useless at cooking"]
+ },
+ "bitter": {
+  "vi": "đắng; cay đắng; gay gắt; rét buốt",
+  "coll": ["bitter taste", "bitter cold", "bitter experience", "bitter argument", "to the bitter end"]
+ },
+ "clinic": {
+  "vi": "phòng khám",
+  "coll": ["health clinic", "dental clinic", "private clinic", "attend a clinic"]
+ },
+ "continuous": {
+  "vi": "liên tục; không ngừng",
+  "coll": ["continuous improvement", "continuous process", "continuous assessment", "a continuous line"]
+ },
+ "creator": {
+  "vi": "người sáng tạo; đấng tạo hóa",
+  "coll": ["content creator", "the creator of the series", "game creator", "job creator"]
+ },
+ "detective": {
+  "vi": "thám tử; trinh thám",
+  "coll": ["private detective", "detective story", "detective work", "police detective"]
+ },
+ "disability": {
+  "vi": "khuyết tật; sự tàn tật",
+  "coll": ["learning disability", "physical disability", "disability benefits", "people with disabilities"]
+ },
+ "excess": {
+  "vi": "sự dư thừa; phần vượt quá",
+  "coll": ["in excess of", "excess weight", "excess baggage", "drink to excess"]
+ },
+ "farming": {
+  "vi": "nghề nông; việc canh tác, chăn nuôi",
+  "coll": ["organic farming", "dairy farming", "farming community", "fish farming"]
+ },
+ "highlight": {
+  "vi": "điểm nổi bật; nêu bật; tô sáng",
+  "coll": ["the highlight of the trip", "highlight the importance", "highlight text", "career highlights"]
+ },
+ "legally": {
+  "vi": "hợp pháp; về mặt pháp lý",
+  "coll": ["legally binding", "legally responsible", "legally required", "legally married"]
+ },
+ "nail": {
+  "vi": "móng tay; đinh; đóng đinh",
+  "coll": ["nail polish", "bite your nails", "hammer and nails", "nail it to the wall", "hit the nail on the head"]
+ },
+ "nonsense": {
+  "vi": "điều vô lý; chuyện nhảm nhí",
+  "coll": ["talk nonsense", "complete nonsense", "absolute nonsense", "stop this nonsense"]
+ },
+ "phoenix": {
+  "vi": "chim phượng hoàng",
+  "coll": ["rise like a phoenix", "a phoenix from the ashes", "the mythical phoenix"]
+ },
+ "poet": {
+  "vi": "nhà thơ",
+  "coll": ["famous poet", "romantic poet", "poets and writers", "the national poet"]
+ },
+ "repeatedly": {
+  "vi": "nhiều lần; lặp đi lặp lại",
+  "coll": ["repeatedly asked", "repeatedly warned", "repeatedly denied", "hit repeatedly"]
+ },
+ "slavery": {
+  "vi": "chế độ nô lệ; cảnh nô lệ",
+  "coll": ["abolish slavery", "the abolition of slavery", "modern slavery", "sold into slavery"]
+ },
+ "transformation": {
+  "vi": "sự biến đổi; sự chuyển hóa",
+  "coll": ["digital transformation", "complete transformation", "undergo a transformation", "economic transformation"]
+ },
+ "attract": {
+  "vi": "thu hút; hấp dẫn; hút",
+  "coll": ["attract attention", "attract tourists", "attract investment", "attract customers"]
+ },
+ "bronze": {
+  "vi": "đồng (hợp kim); huy chương đồng; màu đồng",
+  "coll": ["bronze medal", "bronze statue", "the Bronze Age", "bronze sculpture"]
+ },
+ "cave": {
+  "vi": "hang động; nhượng bộ (cave in)",
+  "coll": ["cave paintings", "explore a cave", "a deep cave", "the cave entrance"]
+ },
+ "demonstrate": {
+  "vi": "chứng minh; trình diễn cách làm; biểu tình",
+  "coll": ["demonstrate the ability", "clearly demonstrate", "demonstrate how it works", "demonstrate against the government"]
+ },
+ "generous": {
+  "vi": "hào phóng; rộng lượng; nhiều, thoải mái",
+  "coll": ["generous donation", "generous offer", "generous with money", "a generous portion"]
+ },
+ "loyal": {
+  "vi": "trung thành",
+  "coll": ["loyal customer", "loyal friend", "loyal supporter", "remain loyal to"]
+ },
+ "mentally": {
+  "vi": "về mặt tinh thần; trong đầu",
+  "coll": ["mentally ill", "mentally strong", "mentally prepared", "physically and mentally"]
+ },
+ "patience": {
+  "vi": "sự kiên nhẫn; tính nhẫn nại",
+  "coll": ["lose patience", "have patience", "run out of patience", "patience with children"]
+ },
+ "prisoner": {
+  "vi": "tù nhân; người bị giam cầm",
+  "coll": ["political prisoner", "prisoner of war", "release a prisoner", "take someone prisoner"]
+ },
+ "resist": {
+  "vi": "chống lại; kháng cự; cưỡng lại",
+  "coll": ["resist temptation", "resist change", "resist arrest", "can't resist chocolate"]
+ },
+ "wrap": {
+  "vi": "gói, bọc; quấn; khăn choàng",
+  "coll": ["wrap a present", "wrap it in paper", "plastic wrap", "wrap up warm"]
+ },
+ "yoga": {
+  "vi": "yoga; môn yoga",
+  "coll": ["do yoga", "practice yoga", "yoga class", "yoga mat"]
+ },
+ "adopt": {
+  "vi": "nhận nuôi; áp dụng; thông qua",
+  "coll": ["adopt a child", "adopt a new approach", "adopt a policy", "adopt measures"]
+ },
+ "boot": {
+  "vi": "ủng, giày bốt; cốp xe; khởi động máy",
+  "coll": ["leather boots", "hiking boots", "the car boot", "boot up the computer"]
+ },
+ "coastal": {
+  "vi": "ven biển; duyên hải",
+  "coll": ["coastal areas", "coastal town", "coastal waters", "coastal erosion"]
+ },
+ "confusion": {
+  "vi": "sự nhầm lẫn; sự bối rối; sự hỗn loạn",
+  "coll": ["cause confusion", "avoid confusion", "in confusion", "confusion between the two"]
+ },
+ "customs": {
+  "vi": "hải quan; thuế nhập khẩu",
+  "coll": ["go through customs", "customs officer", "customs duties", "customs declaration"]
+ },
+ "dealer": {
+  "vi": "người buôn bán; đại lý; kẻ buôn ma túy",
+  "coll": ["car dealer", "drug dealer", "art dealer", "antique dealer"]
+ },
+ "distant": {
+  "vi": "xa xôi; xa cách, lạnh nhạt; (họ hàng) xa",
+  "coll": ["the distant future", "distant relative", "distant memory", "in the distant past"]
+ },
+ "emotion": {
+  "vi": "cảm xúc",
+  "coll": ["show emotion", "mixed emotions", "control your emotions", "strong emotions"]
+ },
+ "emphasis": {
+  "vi": "sự nhấn mạnh; trọng tâm",
+  "coll": ["place emphasis on", "put emphasis on", "special emphasis", "shift the emphasis"]
+ },
+ "excitement": {
+  "vi": "sự phấn khích; sự háo hức",
+  "coll": ["great excitement", "a sense of excitement", "shake with excitement", "full of excitement"]
+ },
+ "exploration": {
+  "vi": "sự khám phá; sự thăm dò",
+  "coll": ["space exploration", "oil exploration", "exploration of the topic", "scientific exploration"]
+ },
+ "filling": {
+  "vi": "nhân (bánh); chất trám răng; no lâu",
+  "coll": ["cake filling", "sandwich filling", "dental filling", "a filling meal"]
+ },
+ "graphics": {
+  "vi": "đồ họa; hình đồ họa",
+  "coll": ["computer graphics", "graphics card", "3D graphics", "high-quality graphics"]
+ },
+ "humor": {
+  "vi": "sự hài hước; khiếu hài hước; chiều theo ý",
+  "coll": ["sense of humor", "dark humor", "good humor", "humor me"]
+ },
+ "insight": {
+  "vi": "sự thấu hiểu; cái nhìn sâu sắc",
+  "coll": ["gain insight into", "valuable insight", "provide insight", "deep insight"]
+ },
+ "overnight": {
+  "vi": "qua đêm; chỉ sau một đêm",
+  "coll": ["stay overnight", "an overnight stay", "overnight success", "overnight flight"]
+ },
+ "pie": {
+  "vi": "bánh nướng có nhân; bánh pie",
+  "coll": ["apple pie", "a slice of pie", "meat pie", "pie chart"]
+ },
+ "preserve": {
+  "vi": "bảo tồn, giữ gìn; mứt; khu bảo tồn",
+  "coll": ["preserve the environment", "preserve traditions", "well preserved", "a nature preserve"]
+ },
+ "qualify": {
+  "vi": "đủ điều kiện; giành quyền thi đấu; lấy bằng hành nghề",
+  "coll": ["qualify for the finals", "qualify as a doctor", "qualify for benefits", "qualify for the World Cup"]
+ },
+ "threatening": {
+  "vi": "đe dọa; hăm dọa",
+  "coll": ["threatening behavior", "threatening letter", "life-threatening illness", "threatening phone calls"]
+ },
+ "tobacco": {
+  "vi": "thuốc lá; cây thuốc lá",
+  "coll": ["tobacco industry", "smoke tobacco", "tobacco products", "chewing tobacco"]
+ },
+ "trace": {
+  "vi": "dấu vết; lần theo, truy tìm; lượng nhỏ",
+  "coll": ["disappear without a trace", "trace the origin", "trace a call", "a trace of a smile"]
+ },
+ "weakness": {
+  "vi": "điểm yếu; sự yếu đuối; sở thích khó cưỡng",
+  "coll": ["strengths and weaknesses", "a sign of weakness", "a weakness for chocolate", "muscle weakness"]
+ },
+ "widespread": {
+  "vi": "phổ biến, lan rộng; rộng khắp",
+  "coll": ["widespread use", "widespread support", "widespread damage", "widespread belief"]
+ },
+ "accessible": {
+  "vi": "dễ tiếp cận; dễ hiểu; thuận tiện cho người khuyết tật",
+  "coll": ["easily accessible", "accessible to the public", "accessible by car", "wheelchair accessible"]
+ },
+ "acknowledge": {
+  "vi": "thừa nhận; xác nhận đã nhận; ghi nhận",
+  "coll": ["acknowledge the problem", "acknowledge receipt", "widely acknowledged", "acknowledge defeat"]
+ },
+ "animation": {
+  "vi": "phim hoạt hình; sự sống động",
+  "coll": ["computer animation", "3D animation", "animation studio", "animation techniques"]
+ },
+ "assignment": {
+  "vi": "bài tập; nhiệm vụ được giao",
+  "coll": ["homework assignment", "complete an assignment", "writing assignment", "on assignment"]
+ },
+ "bare": {
+  "vi": "trần, trơ trụi; tối thiểu; để lộ ra",
+  "coll": ["bare feet", "bare hands", "the bare minimum", "bare walls"]
+ },
+ "basement": {
+  "vi": "tầng hầm",
+  "coll": ["basement apartment", "in the basement", "basement floor", "a dark basement"]
+ },
+ "cancel": {
+  "vi": "hủy bỏ; hủy",
+  "coll": ["cancel a flight", "cancel an order", "cancel a meeting", "cancel a subscription"]
+ },
+ "carpet": {
+  "vi": "tấm thảm; trải thảm",
+  "coll": ["the red carpet", "wall-to-wall carpet", "vacuum the carpet", "a carpet of flowers"]
+ },
+ "collapse": {
+  "vi": "sụp đổ; ngã quỵ; sự sụp đổ",
+  "coll": ["the collapse of the building", "economic collapse", "collapse from exhaustion", "on the verge of collapse"]
+ },
+ "compound": {
+  "vi": "hợp chất; khu nhà có rào; từ ghép; làm trầm trọng thêm",
+  "coll": ["chemical compound", "compound interest", "compound word", "military compound"]
+ },
+ "conscious": {
+  "vi": "có ý thức; tỉnh táo; nhận thức được",
+  "coll": ["a conscious decision", "a conscious effort", "remain conscious", "environmentally conscious"]
+ },
+ "endless": {
+  "vi": "vô tận; bất tận",
+  "coll": ["endless possibilities", "an endless supply", "endless hours", "seemingly endless"]
+ },
+ "examine": {
+  "vi": "kiểm tra; xem xét; khám (bệnh)",
+  "coll": ["examine the evidence", "examine a patient", "closely examine", "examine the issue"]
+ },
+ "film-maker": {
+  "vi": "nhà làm phim; đạo diễn phim",
+  "coll": ["documentary film-maker", "independent film-maker", "a young film-maker"]
+ },
+ "liver": {
+  "vi": "gan",
+  "coll": ["liver disease", "liver damage", "liver function", "liver cancer"]
+ },
+ "proceed": {
+  "vi": "tiến hành; tiếp tục; đi tiếp",
+  "coll": ["proceed with caution", "proceed with the plan", "proceed to the gate", "before you proceed"]
+ },
+ "restore": {
+  "vi": "khôi phục; phục hồi; trùng tu",
+  "coll": ["restore order", "restore confidence", "restore an old building", "restore power"]
+ },
+ "significance": {
+  "vi": "tầm quan trọng; ý nghĩa",
+  "coll": ["great significance", "historical significance", "statistical significance", "the significance of the event"]
+ },
+ "stressed": {
+  "vi": "căng thẳng; được nhấn (trọng âm)",
+  "coll": ["feel stressed", "stressed out", "stressed at work", "a stressed syllable"]
+ },
+ "tropical": {
+  "vi": "nhiệt đới",
+  "coll": ["tropical rainforest", "tropical climate", "tropical fruit", "tropical storm"]
+ },
+ "artistic": {
+  "vi": "nghệ thuật; có óc thẩm mỹ; tài hoa",
+  "coll": ["artistic talent", "artistic expression", "artistic director", "artistic skills"]
+ },
+ "barrel": {
+  "vi": "thùng (rượu, dầu); nòng súng",
+  "coll": ["a barrel of oil", "a barrel of beer", "gun barrel", "wine barrel"]
+ }
+}

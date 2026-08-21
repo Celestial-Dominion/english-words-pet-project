@@ -1,0 +1,819 @@
+[
+ {
+  "id": "resemble",
+  "pos": [
+   "v"
+  ],
+  "vi": "giống; giống với",
+  "coll": [
+   "closely resemble",
+   "resemble each other",
+   "resemble her mother",
+   "strongly resemble"
+  ]
+ },
+ {
+  "id": "sorrow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nỗi buồn; sự đau khổ",
+  "coll": [
+   "deep sorrow",
+   "express sorrow",
+   "joy and sorrow",
+   "drown your sorrows"
+  ]
+ },
+ {
+  "id": "warranty",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự bảo hành; giấy bảo hành",
+  "coll": [
+   "under warranty",
+   "extended warranty",
+   "one-year warranty",
+   "warranty period"
+  ]
+ },
+ {
+  "id": "bleed",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chảy máu; rỉ máu",
+  "coll": [
+   "bleed heavily",
+   "a bleeding nose",
+   "bleed to death",
+   "my heart bleeds"
+  ]
+ },
+ {
+  "id": "choke",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nghẹn; nghẹt thở; bóp cổ; làm tắc nghẽn",
+  "coll": [
+   "choke on food",
+   "choke to death",
+   "choke back tears",
+   "roads choked with traffic"
+  ]
+ },
+ {
+  "id": "motto",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phương châm; khẩu hiệu",
+  "coll": [
+   "family motto",
+   "school motto",
+   "personal motto",
+   "live by the motto"
+  ]
+ },
+ {
+  "id": "obstacle",
+  "pos": [
+   "n"
+  ],
+  "vi": "trở ngại; chướng ngại vật",
+  "coll": [
+   "overcome obstacles",
+   "a major obstacle",
+   "obstacle course",
+   "an obstacle to peace"
+  ]
+ },
+ {
+  "id": "philosopher",
+  "pos": [
+   "n"
+  ],
+  "vi": "triết gia; nhà triết học",
+  "coll": [
+   "Greek philosopher",
+   "ancient philosophers",
+   "the philosopher's stone",
+   "moral philosopher"
+  ]
+ },
+ {
+  "id": "razor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dao cạo",
+  "coll": [
+   "razor blade",
+   "electric razor",
+   "razor sharp",
+   "disposable razor"
+  ]
+ },
+ {
+  "id": "slogan",
+  "pos": [
+   "n"
+  ],
+  "vi": "khẩu hiệu; câu slogan",
+  "coll": [
+   "advertising slogan",
+   "campaign slogan",
+   "catchy slogan",
+   "chant slogans"
+  ]
+ },
+ {
+  "id": "strawberry",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "dâu tây",
+  "coll": [
+   "strawberry jam",
+   "fresh strawberries",
+   "strawberries and cream",
+   "strawberry ice cream"
+  ]
+ },
+ {
+  "id": "tile",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gạch lát; ngói; quân bài (mạt chược); lát gạch",
+  "coll": [
+   "ceramic tiles",
+   "roof tiles",
+   "floor tiles",
+   "tile the bathroom"
+  ]
+ },
+ {
+  "id": "abnormal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bất thường; dị thường",
+  "coll": [
+   "abnormal behavior",
+   "abnormal levels",
+   "highly abnormal",
+   "abnormal growth"
+  ]
+ },
+ {
+  "id": "accuse",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "buộc tội; tố cáo",
+  "coll": [
+   "accuse someone of lying",
+   "accused of murder",
+   "stand accused",
+   "falsely accused"
+  ]
+ },
+ {
+  "id": "calf",
+  "pos": [
+   "n"
+  ],
+  "vi": "con bê; bắp chân",
+  "coll": [
+   "a cow and her calf",
+   "calf muscles",
+   "a newborn calf",
+   "calf leather"
+  ]
+ },
+ {
+  "id": "downward",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "hướng xuống; đi xuống",
+  "coll": [
+   "downward trend",
+   "downward spiral",
+   "downward pressure",
+   "face downward"
+  ]
+ },
+ {
+  "id": "eco",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sinh thái (eco-); thân thiện môi trường",
+  "coll": [
+   "eco-friendly",
+   "eco-tourism",
+   "eco warrior"
+  ]
+ },
+ {
+  "id": "hopeless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô vọng; tuyệt vọng; kém cỏi",
+  "coll": [
+   "a hopeless situation",
+   "hopeless romantic",
+   "feel hopeless",
+   "hopeless at math"
+  ]
+ },
+ {
+  "id": "indirectly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "gián tiếp",
+  "coll": [
+   "directly or indirectly",
+   "indirectly affected",
+   "indirectly responsible"
+  ]
+ },
+ {
+  "id": "limitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hạn chế; giới hạn; nhược điểm",
+  "coll": [
+   "serious limitations",
+   "impose limitations",
+   "know your limitations",
+   "limitations of the study"
+  ]
+ },
+ {
+  "id": "outdoors",
+  "pos": [
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "ngoài trời; hoạt động ngoài trời",
+  "coll": [
+   "the great outdoors",
+   "eat outdoors",
+   "play outdoors",
+   "enjoy the outdoors"
+  ]
+ },
+ {
+  "id": "respectable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đáng kính; đứng đắn; kha khá",
+  "coll": [
+   "a respectable family",
+   "a respectable job",
+   "perfectly respectable",
+   "a respectable score"
+  ]
+ },
+ {
+  "id": "sticker",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhãn dán; hình dán",
+  "coll": [
+   "bumper sticker",
+   "price sticker",
+   "sticker album",
+   "put a sticker on it"
+  ]
+ },
+ {
+  "id": "unexpectedly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "bất ngờ; đột ngột",
+  "coll": [
+   "die unexpectedly",
+   "arrive unexpectedly",
+   "unexpectedly high",
+   "not unexpectedly"
+  ]
+ },
+ {
+  "id": "upward",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "hướng lên; đi lên",
+  "coll": [
+   "upward trend",
+   "upward mobility",
+   "move upward",
+   "look upward"
+  ]
+ },
+ {
+  "id": "wildly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "dữ dội; điên cuồng; cực kỳ",
+  "coll": [
+   "wildly popular",
+   "wildly successful",
+   "cheer wildly",
+   "vary wildly"
+  ]
+ },
+ {
+  "id": "alphabet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bảng chữ cái",
+  "coll": [
+   "the English alphabet",
+   "letters of the alphabet",
+   "learn the alphabet",
+   "alphabet song"
+  ]
+ },
+ {
+  "id": "appoint",
+  "pos": [
+   "v"
+  ],
+  "vi": "bổ nhiệm; chỉ định; ấn định",
+  "coll": [
+   "appoint a new manager",
+   "appointed as director",
+   "appoint a committee",
+   "newly appointed"
+  ]
+ },
+ {
+  "id": "bracelet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vòng tay; lắc tay",
+  "coll": [
+   "gold bracelet",
+   "charm bracelet",
+   "silver bracelet",
+   "wear a bracelet"
+  ]
+ },
+ {
+  "id": "capsule",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "viên nang; viên con nhộng; khoang (tàu vũ trụ)",
+  "coll": [
+   "take a capsule",
+   "time capsule",
+   "space capsule",
+   "in capsule form"
+  ]
+ },
+ {
+  "id": "irregular",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không đều; bất quy tắc; bất thường",
+  "coll": [
+   "irregular verbs",
+   "irregular heartbeat",
+   "irregular shape",
+   "at irregular intervals"
+  ]
+ },
+ {
+  "id": "juicy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mọng nước; giật gân (tin)",
+  "coll": [
+   "juicy steak",
+   "a juicy orange",
+   "juicy gossip",
+   "juicy details"
+  ]
+ },
+ {
+  "id": "jumper",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "áo len chui đầu; người nhảy",
+  "coll": [
+   "woolly jumper",
+   "knitted jumper",
+   "Christmas jumper",
+   "jumper cables"
+  ]
+ },
+ {
+  "id": "misunderstanding",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự hiểu lầm; sự bất đồng",
+  "coll": [
+   "clear up a misunderstanding",
+   "a slight misunderstanding",
+   "avoid misunderstandings",
+   "cause misunderstanding"
+  ]
+ },
+ {
+  "id": "pottery",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ gốm; nghề gốm; xưởng gốm",
+  "coll": [
+   "pottery class",
+   "make pottery",
+   "ancient pottery",
+   "pottery wheel"
+  ]
+ },
+ {
+  "id": "stylish",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sành điệu; phong cách; thời thượng",
+  "coll": [
+   "stylish clothes",
+   "stylish design",
+   "effortlessly stylish",
+   "a stylish restaurant"
+  ]
+ },
+ {
+  "id": "whichever",
+  "pos": [
+   "det",
+   "pron"
+  ],
+  "vi": "bất kỳ cái nào; cái nào... cũng",
+  "coll": [
+   "whichever comes first",
+   "whichever way you look at it",
+   "choose whichever you like"
+  ]
+ },
+ {
+  "id": "emphasize",
+  "pos": [
+   "v"
+  ],
+  "vi": "nhấn mạnh",
+  "coll": [
+   "emphasize the importance of",
+   "strongly emphasize",
+   "emphasize the need for",
+   "emphasize that"
+  ]
+ },
+ {
+  "id": "flock",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đàn (chim, cừu); đám đông; lũ lượt kéo đến",
+  "coll": [
+   "a flock of sheep",
+   "a flock of birds",
+   "tourists flock to the beach",
+   "flock together"
+  ]
+ },
+ {
+  "id": "helpless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bất lực; không tự vệ được",
+  "coll": [
+   "feel helpless",
+   "helpless victim",
+   "a helpless baby",
+   "helpless laughter"
+  ]
+ },
+ {
+  "id": "mustard",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "mù tạt; màu vàng mù tạt",
+  "coll": [
+   "Dijon mustard",
+   "mustard sauce",
+   "mustard seeds",
+   "ham and mustard"
+  ]
+ },
+ {
+  "id": "sophomore",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sinh viên năm hai; năm thứ hai",
+  "coll": [
+   "sophomore year",
+   "sophomore student",
+   "sophomore album",
+   "college sophomore"
+  ]
+ },
+ {
+  "id": "disastrous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thảm khốc; tai hại",
+  "coll": [
+   "disastrous consequences",
+   "disastrous results",
+   "disastrous effects",
+   "prove disastrous"
+  ]
+ },
+ {
+  "id": "drown",
+  "pos": [
+   "v"
+  ],
+  "vi": "chết đuối; nhấn chìm; át (tiếng)",
+  "coll": [
+   "drown in the river",
+   "nearly drowned",
+   "drown out the noise",
+   "drown your sorrows"
+  ]
+ },
+ {
+  "id": "greeting",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lời chào; sự chào hỏi",
+  "coll": [
+   "greeting card",
+   "exchange greetings",
+   "a warm greeting",
+   "season's greetings"
+  ]
+ },
+ {
+  "id": "honeymoon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tuần trăng mật",
+  "coll": [
+   "on their honeymoon",
+   "honeymoon trip",
+   "honeymoon period",
+   "honeymoon destination"
+  ]
+ },
+ {
+  "id": "jewel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "viên ngọc; đồ trang sức; báu vật",
+  "coll": [
+   "precious jewels",
+   "the jewel in the crown",
+   "family jewels",
+   "jewel thief"
+  ]
+ },
+ {
+  "id": "sidewalk",
+  "pos": [
+   "n"
+  ],
+  "vi": "vỉa hè; lề đường",
+  "coll": [
+   "walk on the sidewalk",
+   "sidewalk cafe",
+   "a crowded sidewalk",
+   "down the sidewalk"
+  ]
+ },
+ {
+  "id": "unpredictable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khó lường; không đoán trước được",
+  "coll": [
+   "unpredictable weather",
+   "unpredictable behavior",
+   "highly unpredictable",
+   "unpredictable results"
+  ]
+ },
+ {
+  "id": "visually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "bằng mắt; về mặt hình ảnh",
+  "coll": [
+   "visually impaired",
+   "visually appealing",
+   "visually stunning",
+   "represent visually"
+  ]
+ },
+ {
+  "id": "bakery",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiệm bánh; lò bánh mì",
+  "coll": [
+   "local bakery",
+   "bakery products",
+   "fresh from the bakery",
+   "a small bakery"
+  ]
+ },
+ {
+  "id": "depart",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khởi hành; rời đi; đi chệch khỏi",
+  "coll": [
+   "the train departs at nine",
+   "depart from the station",
+   "depart on time",
+   "depart from tradition"
+  ]
+ },
+ {
+  "id": "disappoint",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm thất vọng",
+  "coll": [
+   "disappoint your parents",
+   "don't disappoint me",
+   "never disappoints",
+   "hate to disappoint you"
+  ]
+ },
+ {
+  "id": "dolphin",
+  "pos": [
+   "n"
+  ],
+  "vi": "cá heo",
+  "coll": [
+   "bottlenose dolphin",
+   "swim with dolphins",
+   "dolphin show",
+   "a school of dolphins"
+  ]
+ },
+ {
+  "id": "dusty",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bụi bặm; phủ đầy bụi",
+  "coll": [
+   "dusty road",
+   "dusty shelves",
+   "dusty old books",
+   "hot and dusty"
+  ]
+ },
+ {
+  "id": "gardening",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc làm vườn; làm vườn",
+  "coll": [
+   "gardening tools",
+   "gardening gloves",
+   "do some gardening",
+   "gardening tips"
+  ]
+ },
+ {
+  "id": "govern",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cai trị; quản lý; chi phối",
+  "coll": [
+   "govern the country",
+   "the rules governing elections",
+   "govern behavior",
+   "the right to govern"
+  ]
+ },
+ {
+  "id": "harness",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "yên cương; đai an toàn; khai thác, tận dụng",
+  "coll": [
+   "safety harness",
+   "harness the power of the sun",
+   "harness solar energy",
+   "a horse's harness"
+  ]
+ },
+ {
+  "id": "molecule",
+  "pos": [
+   "n"
+  ],
+  "vi": "phân tử",
+  "coll": [
+   "water molecules",
+   "DNA molecule",
+   "molecules and atoms",
+   "organic molecule"
+  ]
+ },
+ {
+  "id": "parcel",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "bưu kiện; gói hàng; mảnh (đất)",
+  "coll": [
+   "send a parcel",
+   "parcel delivery",
+   "wrap a parcel",
+   "a parcel of land"
+  ]
+ }
+]

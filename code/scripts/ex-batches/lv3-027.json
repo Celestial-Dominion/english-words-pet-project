@@ -1,0 +1,814 @@
+[
+ {
+  "id": "plaintiff",
+  "pos": [
+   "n"
+  ],
+  "vi": "nguyên đơn (kiện dân sự)",
+  "coll": [
+   "the plaintiff's lawyer",
+   "the plaintiff claims",
+   "the plaintiff and defendant",
+   "represent the plaintiff"
+  ]
+ },
+ {
+  "id": "titanium",
+  "pos": [
+   "n"
+  ],
+  "vi": "titan (kim loại)",
+  "coll": [
+   "a titanium alloy",
+   "a titanium frame",
+   "titanium dioxide",
+   "titanium implants"
+  ]
+ },
+ {
+  "id": "lore",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kiến thức dân gian, truyền thuyết; cốt truyện nền",
+  "coll": [
+   "folk lore",
+   "ancient lore",
+   "local lore",
+   "the lore of the game"
+  ]
+ },
+ {
+  "id": "bowel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ruột; sâu trong lòng (đất)",
+  "coll": [
+   "a bowel movement",
+   "bowel cancer",
+   "irritable bowel syndrome",
+   "the small bowel"
+  ]
+ },
+ {
+  "id": "ambush",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc phục kích; phục kích, mai phục",
+  "coll": [
+   "set an ambush",
+   "an ambush attack",
+   "ambush the convoy",
+   "caught in an ambush"
+  ]
+ },
+ {
+  "id": "cumulative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tích lũy, cộng dồn",
+  "coll": [
+   "a cumulative effect",
+   "a cumulative total",
+   "cumulative impact",
+   "a cumulative GPA"
+  ]
+ },
+ {
+  "id": "obstruction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cản trở; vật chướng ngại; sự tắc nghẽn",
+  "coll": [
+   "obstruction of justice",
+   "remove the obstruction",
+   "a bowel obstruction",
+   "cause an obstruction"
+  ]
+ },
+ {
+  "id": "meteor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sao băng, thiên thạch bốc cháy",
+  "coll": [
+   "a meteor shower",
+   "a bright meteor",
+   "a meteor streaked across the sky",
+   "meteor impact"
+  ]
+ },
+ {
+  "id": "rampant",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "tràn lan, hoành hành; chồm lên (huy hiệu)",
+  "coll": [
+   "rampant corruption",
+   "rampant inflation",
+   "run rampant",
+   "rampant speculation"
+  ]
+ },
+ {
+  "id": "fearless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không sợ hãi, gan dạ",
+  "coll": [
+   "a fearless leader",
+   "fearless in the face of danger",
+   "utterly fearless",
+   "a fearless fighter"
+  ]
+ },
+ {
+  "id": "retaliation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trả đũa, trả thù",
+  "coll": [
+   "in retaliation for",
+   "fear of retaliation",
+   "swift retaliation",
+   "an act of retaliation"
+  ]
+ },
+ {
+  "id": "urgency",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính cấp bách, khẩn cấp",
+  "coll": [
+   "a sense of urgency",
+   "a matter of urgency",
+   "with great urgency",
+   "add urgency to the debate"
+  ]
+ },
+ {
+  "id": "comrade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồng chí; bạn chiến đấu",
+  "coll": [
+   "a fellow comrade",
+   "comrades in arms",
+   "Comrade Chairman",
+   "old comrades"
+  ]
+ },
+ {
+  "id": "summon",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "triệu tập, gọi đến; huy động (can đảm)",
+  "coll": [
+   "summon a witness",
+   "summon the courage",
+   "summon help",
+   "summon someone to court"
+  ]
+ },
+ {
+  "id": "meltdown",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sụp đổ, khủng hoảng; sự nóng chảy lõi lò; cơn mất kiểm soát",
+  "coll": [
+   "a nuclear meltdown",
+   "a financial meltdown",
+   "have a meltdown",
+   "a complete meltdown"
+  ]
+ },
+ {
+  "id": "bloke",
+  "pos": [
+   "n"
+  ],
+  "vi": "gã, anh chàng (thân mật)",
+  "coll": [
+   "a decent bloke",
+   "a good bloke",
+   "some bloke at the pub",
+   "an ordinary bloke"
+  ]
+ },
+ {
+  "id": "boogie",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhảy nhót tưng bừng; điệu nhảy boogie",
+  "coll": [
+   "boogie all night",
+   "get down and boogie",
+   "boogie woogie",
+   "have a boogie"
+  ]
+ },
+ {
+  "id": "mmm",
+  "pos": [
+   "intj"
+  ],
+  "vi": "mmm (ngon quá, thích thú); ừm (ngẫm nghĩ)",
+  "coll": [
+   "mmm, delicious",
+   "mmm, interesting",
+   "mmm-hmm",
+   "mmm, that smells good"
+  ]
+ },
+ {
+  "id": "onboard",
+  "pos": [
+   "adj",
+   "adv",
+   "v"
+  ],
+  "vi": "gắn sẵn trên phương tiện; ở trên khoang; hòa nhập nhân viên mới",
+  "coll": [
+   "an onboard computer",
+   "onboard storage",
+   "come onboard",
+   "onboard new employees"
+  ]
+ },
+ {
+  "id": "spoiler",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiết lộ nội dung phim; cánh gió ô tô; kẻ phá đám",
+  "coll": [
+   "spoiler alert",
+   "contains spoilers",
+   "a rear spoiler",
+   "avoid spoilers"
+  ]
+ },
+ {
+  "id": "sewage",
+  "pos": [
+   "n"
+  ],
+  "vi": "nước thải sinh hoạt",
+  "coll": [
+   "raw sewage",
+   "a sewage treatment plant",
+   "sewage disposal",
+   "untreated sewage"
+  ]
+ },
+ {
+  "id": "doctoral",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc bậc tiến sĩ",
+  "coll": [
+   "a doctoral thesis",
+   "a doctoral student",
+   "a doctoral degree",
+   "doctoral research"
+  ]
+ },
+ {
+  "id": "karate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "võ karate",
+  "coll": [
+   "a karate chop",
+   "practise karate",
+   "a karate black belt",
+   "a karate class"
+  ]
+ },
+ {
+  "id": "convertible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xe mui trần; có thể chuyển đổi",
+  "coll": [
+   "a convertible car",
+   "convertible bonds",
+   "a convertible sofa",
+   "freely convertible currency"
+  ]
+ },
+ {
+  "id": "intricate",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "phức tạp, tinh xảo; rắc rối nhiều chi tiết",
+  "coll": [
+   "an intricate design",
+   "intricate details",
+   "an intricate pattern",
+   "intricate carvings"
+  ]
+ },
+ {
+  "id": "spirituality",
+  "pos": [
+   "n"
+  ],
+  "vi": "đời sống tâm linh",
+  "coll": [
+   "personal spirituality",
+   "religion and spirituality",
+   "a sense of spirituality",
+   "explore spirituality"
+  ]
+ },
+ {
+  "id": "impairment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự suy giảm chức năng; khiếm khuyết, khuyết tật",
+  "coll": [
+   "visual impairment",
+   "hearing impairment",
+   "cognitive impairment",
+   "memory impairment"
+  ]
+ },
+ {
+  "id": "puff",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "luồng hơi, làn khói; hít, rít một hơi; thở hổn hển",
+  "coll": [
+   "a puff of smoke",
+   "take a puff",
+   "puff on a cigarette",
+   "huff and puff"
+  ]
+ },
+ {
+  "id": "wonderfully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách tuyệt vời",
+  "coll": [
+   "wonderfully written",
+   "work wonderfully",
+   "wonderfully simple",
+   "wonderfully fresh"
+  ]
+ },
+ {
+  "id": "replicate",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "nhân bản, sao chép y hệt; lặp lại (thí nghiệm)",
+  "coll": [
+   "replicate the results",
+   "replicate an experiment",
+   "replicate the success",
+   "viruses replicate"
+  ]
+ },
+ {
+  "id": "lighthouse",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngọn hải đăng",
+  "coll": [
+   "a lighthouse keeper",
+   "an old lighthouse",
+   "the lighthouse beam",
+   "a coastal lighthouse"
+  ]
+ },
+ {
+  "id": "entitlement",
+  "pos": [
+   "n"
+  ],
+  "vi": "quyền được hưởng; thói tự cho mình có quyền",
+  "coll": [
+   "a sense of entitlement",
+   "benefit entitlement",
+   "holiday entitlement",
+   "entitlement programs"
+  ]
+ },
+ {
+  "id": "ministerial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc bộ trưởng, cấp bộ; thuộc chức mục sư",
+  "coll": [
+   "a ministerial meeting",
+   "ministerial responsibility",
+   "a ministerial post",
+   "ministerial approval"
+  ]
+ },
+ {
+  "id": "expire",
+  "pos": [
+   "v"
+  ],
+  "vi": "hết hạn, hết hiệu lực; tắt thở, qua đời",
+  "coll": [
+   "the contract expires",
+   "an expired passport",
+   "the offer expires soon",
+   "expire in June"
+  ]
+ },
+ {
+  "id": "intuition",
+  "pos": [
+   "n"
+  ],
+  "vi": "trực giác, linh cảm",
+  "coll": [
+   "trust your intuition",
+   "female intuition",
+   "a flash of intuition",
+   "rely on intuition"
+  ]
+ },
+ {
+  "id": "screenplay",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kịch bản phim",
+  "coll": [
+   "write a screenplay",
+   "an original screenplay",
+   "an adapted screenplay",
+   "the screenplay was based on a novel"
+  ]
+ },
+ {
+  "id": "dialect",
+  "pos": [
+   "n"
+  ],
+  "vi": "phương ngữ, tiếng địa phương",
+  "coll": [
+   "a local dialect",
+   "a regional dialect",
+   "speak in dialect",
+   "dialect words"
+  ]
+ },
+ {
+  "id": "sect",
+  "pos": [
+   "n"
+  ],
+  "vi": "giáo phái, môn phái",
+  "coll": [
+   "a religious sect",
+   "a breakaway sect",
+   "members of the sect",
+   "an extremist sect"
+  ]
+ },
+ {
+  "id": "accreditation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự công nhận, kiểm định chất lượng",
+  "coll": [
+   "gain accreditation",
+   "an accreditation body",
+   "professional accreditation",
+   "lose accreditation"
+  ]
+ },
+ {
+  "id": "aforementioned",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đã nêu ở trên",
+  "coll": [
+   "the aforementioned reasons",
+   "the aforementioned study",
+   "as aforementioned",
+   "the aforementioned parties"
+  ]
+ },
+ {
+  "id": "dagger",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dao găm; dấu chữ thập (†)",
+  "coll": [
+   "a sharp dagger",
+   "stab with a dagger",
+   "cloak and dagger",
+   "a dagger in the back"
+  ]
+ },
+ {
+  "id": "methane",
+  "pos": [
+   "n"
+  ],
+  "vi": "khí mêtan",
+  "coll": [
+   "methane gas",
+   "methane emissions",
+   "atmospheric methane",
+   "methane levels"
+  ]
+ },
+ {
+  "id": "vat",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "thùng lớn, bồn chứa; thuế giá trị gia tăng",
+  "coll": [
+   "a vat of wine",
+   "a fermentation vat",
+   "a dye vat",
+   "a vat of oil"
+  ]
+ },
+ {
+  "id": "chassis",
+  "pos": [
+   "n"
+  ],
+  "vi": "khung gầm xe; khung máy",
+  "coll": [
+   "a car chassis",
+   "the chassis number",
+   "an aluminium chassis",
+   "a rigid chassis"
+  ]
+ },
+ {
+  "id": "fugitive",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "kẻ trốn truy nã, kẻ đào tẩu; thoáng qua, phù du",
+  "coll": [
+   "a fugitive from justice",
+   "capture the fugitive",
+   "an escaped fugitive",
+   "a fugitive slave"
+  ]
+ },
+ {
+  "id": "unicorn",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "kỳ lân một sừng; startup tỷ đô",
+  "coll": [
+   "a unicorn horn",
+   "a magical unicorn",
+   "a unicorn startup",
+   "a tech unicorn"
+  ]
+ },
+ {
+  "id": "buffet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiệc buffet tự chọn; quật mạnh, vùi dập",
+  "coll": [
+   "a buffet lunch",
+   "an all-you-can-eat buffet",
+   "a breakfast buffet",
+   "buffeted by winds"
+  ]
+ },
+ {
+  "id": "reboot",
+  "pos": [
+   "v"
+  ],
+  "vi": "khởi động lại; làm lại từ đầu",
+  "coll": [
+   "reboot the computer",
+   "reboot the system",
+   "a franchise reboot",
+   "reboot the series"
+  ]
+ },
+ {
+  "id": "quartet",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ tứ; nhóm tứ tấu",
+  "coll": [
+   "a string quartet",
+   "a jazz quartet",
+   "a vocal quartet",
+   "a quartet of players"
+  ]
+ },
+ {
+  "id": "avoidance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự né tránh, lảng tránh",
+  "coll": [
+   "tax avoidance",
+   "the avoidance of conflict",
+   "avoidance behaviour",
+   "risk avoidance"
+  ]
+ },
+ {
+  "id": "mitigate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "giảm nhẹ, làm dịu bớt",
+  "coll": [
+   "mitigate the risk",
+   "mitigate the effects",
+   "mitigate damage",
+   "mitigating circumstances"
+  ]
+ },
+ {
+  "id": "sideways",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "nghiêng sang bên, ngang",
+  "coll": [
+   "glance sideways",
+   "move sideways",
+   "a sideways glance",
+   "turn sideways"
+  ]
+ },
+ {
+  "id": "clarification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự làm rõ, giải thích rõ",
+  "coll": [
+   "seek clarification",
+   "ask for clarification",
+   "provide clarification",
+   "further clarification"
+  ]
+ },
+ {
+  "id": "algae",
+  "pos": [
+   "n"
+  ],
+  "vi": "tảo, rong tảo",
+  "coll": [
+   "blue-green algae",
+   "an algae bloom",
+   "algae growth",
+   "green algae"
+  ]
+ },
+ {
+  "id": "burner",
+  "pos": [
+   "n"
+  ],
+  "vi": "đầu đốt, bếp lò; máy ghi đĩa; điện thoại dùng tạm",
+  "coll": [
+   "a gas burner",
+   "a Bunsen burner",
+   "on the back burner",
+   "a burner phone"
+  ]
+ },
+ {
+  "id": "poultry",
+  "pos": [
+   "n"
+  ],
+  "vi": "gia cầm; thịt gia cầm",
+  "coll": [
+   "poultry farming",
+   "poultry products",
+   "raise poultry",
+   "poultry meat"
+  ]
+ },
+ {
+  "id": "optimum",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "tối ưu, thuận lợi nhất; mức tối ưu",
+  "coll": [
+   "optimum performance",
+   "optimum conditions",
+   "the optimum level",
+   "optimum health"
+  ]
+ },
+ {
+  "id": "swiftly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhanh chóng, mau lẹ",
+  "coll": [
+   "move swiftly",
+   "act swiftly",
+   "swiftly deal with",
+   "swiftly rejected"
+  ]
+ },
+ {
+  "id": "robotic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc rô bốt; máy móc, cứng nhắc",
+  "coll": [
+   "a robotic arm",
+   "robotic surgery",
+   "a robotic voice",
+   "robotic movements"
+  ]
+ },
+ {
+  "id": "nausea",
+  "pos": [
+   "n"
+  ],
+  "vi": "cảm giác buồn nôn; sự ghê tởm",
+  "coll": [
+   "feel nausea",
+   "nausea and vomiting",
+   "cause nausea",
+   "a wave of nausea"
+  ]
+ }
+]

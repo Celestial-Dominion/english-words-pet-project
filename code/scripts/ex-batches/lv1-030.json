@@ -1,0 +1,817 @@
+[
+ {
+  "id": "humorous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hài hước; dí dỏm",
+  "coll": [
+   "a humorous story",
+   "a humorous remark",
+   "gently humorous",
+   "a humorous look at life"
+  ]
+ },
+ {
+  "id": "indoors",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "vi": "trong nhà; ở trong nhà",
+  "coll": [
+   "stay indoors",
+   "go indoors",
+   "keep the children indoors",
+   "grown indoors"
+  ]
+ },
+ {
+  "id": "motivate",
+  "pos": [
+   "v"
+  ],
+  "vi": "tạo động lực; thúc đẩy",
+  "coll": [
+   "motivate students",
+   "highly motivated",
+   "motivate the team",
+   "motivated by money"
+  ]
+ },
+ {
+  "id": "ness",
+  "pos": [
+   "n"
+  ],
+  "vi": "mũi đất; doi đất nhô ra biển",
+  "coll": [
+   "Loch Ness",
+   "Orford Ness",
+   "a rocky ness"
+  ]
+ },
+ {
+  "id": "prosperous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thịnh vượng; phát đạt; giàu có",
+  "coll": [
+   "a prosperous country",
+   "a prosperous new year",
+   "a prosperous business",
+   "a prosperous future"
+  ]
+ },
+ {
+  "id": "admiration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ngưỡng mộ; lòng khâm phục",
+  "coll": [
+   "in admiration",
+   "great admiration for",
+   "win the admiration of",
+   "express admiration"
+  ]
+ },
+ {
+  "id": "congratulate",
+  "pos": [
+   "v"
+  ],
+  "vi": "chúc mừng",
+  "coll": [
+   "congratulate you on your success",
+   "congratulate the winner",
+   "congratulate yourself",
+   "warmly congratulate"
+  ]
+ },
+ {
+  "id": "courageous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dũng cảm; can trường",
+  "coll": [
+   "a courageous decision",
+   "a courageous act",
+   "a courageous fight",
+   "brave and courageous"
+  ]
+ },
+ {
+  "id": "garment",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trang phục; một món quần áo",
+  "coll": [
+   "garment industry",
+   "outer garments",
+   "a waterproof garment",
+   "garment factory"
+  ]
+ },
+ {
+  "id": "librarian",
+  "pos": [
+   "n"
+  ],
+  "vi": "thủ thư; quản thư",
+  "coll": [
+   "school librarian",
+   "head librarian",
+   "ask the librarian",
+   "reference librarian"
+  ]
+ },
+ {
+  "id": "nucleus",
+  "pos": [
+   "n"
+  ],
+  "vi": "hạt nhân; nhân (tế bào); nòng cốt",
+  "coll": [
+   "the nucleus of an atom",
+   "cell nucleus",
+   "atomic nucleus",
+   "form the nucleus of the team"
+  ]
+ },
+ {
+  "id": "organism",
+  "pos": [
+   "n"
+  ],
+  "vi": "sinh vật; cơ thể sống",
+  "coll": [
+   "living organisms",
+   "single-celled organism",
+   "marine organisms",
+   "genetically modified organisms"
+  ]
+ },
+ {
+  "id": "sponge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bọt biển; miếng mút rửa; ăn bám",
+  "coll": [
+   "sponge cake",
+   "bath sponge",
+   "wipe it with a sponge",
+   "sponge off his parents"
+  ]
+ },
+ {
+  "id": "tease",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trêu chọc; chọc ghẹo; người hay trêu",
+  "coll": [
+   "tease your little brother",
+   "don't tease me",
+   "just teasing",
+   "tease out the meaning"
+  ]
+ },
+ {
+  "id": "columnist",
+  "pos": [
+   "n"
+  ],
+  "vi": "cây bút chuyên mục; người viết chuyên mục",
+  "coll": [
+   "newspaper columnist",
+   "gossip columnist",
+   "sports columnist",
+   "advice columnist"
+  ]
+ },
+ {
+  "id": "cushion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái đệm; gối tựa; làm giảm (va chạm)",
+  "coll": [
+   "sofa cushions",
+   "seat cushion",
+   "cushion the blow",
+   "cushion the impact"
+  ]
+ },
+ {
+  "id": "festive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rộn ràng lễ hội; tưng bừng",
+  "coll": [
+   "festive season",
+   "festive mood",
+   "festive atmosphere",
+   "festive decorations"
+  ]
+ },
+ {
+  "id": "improper",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "không phù hợp; khiếm nhã; sai trái",
+  "coll": [
+   "improper conduct",
+   "improper use",
+   "highly improper",
+   "improper fraction"
+  ]
+ },
+ {
+  "id": "pineapple",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "quả dứa; trái thơm",
+  "coll": [
+   "pineapple juice",
+   "fresh pineapple",
+   "pineapple slices",
+   "pineapple on pizza"
+  ]
+ },
+ {
+  "id": "similarity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giống nhau; nét tương đồng",
+  "coll": [
+   "striking similarity",
+   "similarities and differences",
+   "bear a similarity to",
+   "close similarity"
+  ]
+ },
+ {
+  "id": "trumpet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kèn trumpet; thổi kèn; rêu rao",
+  "coll": [
+   "play the trumpet",
+   "trumpet player",
+   "blow your own trumpet",
+   "trumpet solo"
+  ]
+ },
+ {
+  "id": "wrapping",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giấy gói; vỏ bọc",
+  "coll": [
+   "wrapping paper",
+   "gift wrapping",
+   "remove the wrapping",
+   "plastic wrapping"
+  ]
+ },
+ {
+  "id": "discourage",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm nản lòng; can ngăn; không khuyến khích",
+  "coll": [
+   "discourage smoking",
+   "don't be discouraged",
+   "discourage people from driving",
+   "actively discourage"
+  ]
+ },
+ {
+  "id": "handwriting",
+  "pos": [
+   "n"
+  ],
+  "vi": "chữ viết tay; nét chữ",
+  "coll": [
+   "neat handwriting",
+   "messy handwriting",
+   "recognize her handwriting",
+   "handwriting analysis"
+  ]
+ },
+ {
+  "id": "poisonous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có độc; độc hại",
+  "coll": [
+   "poisonous snake",
+   "poisonous mushrooms",
+   "poisonous chemicals",
+   "highly poisonous"
+  ]
+ },
+ {
+  "id": "shameful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng xấu hổ; nhục nhã",
+  "coll": [
+   "shameful behavior",
+   "a shameful secret",
+   "deeply shameful",
+   "a shameful act"
+  ]
+ },
+ {
+  "id": "swollen",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "sưng phồng; sưng tấy; dâng cao (sông)",
+  "coll": [
+   "a swollen ankle",
+   "swollen glands",
+   "swollen eyes",
+   "a swollen river"
+  ]
+ },
+ {
+  "id": "undo",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "hoàn tác; tháo, cởi; xóa bỏ",
+  "coll": [
+   "undo the damage",
+   "undo a button",
+   "undo the changes",
+   "undo your seatbelt"
+  ]
+ },
+ {
+  "id": "blush",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đỏ mặt; sự ửng đỏ",
+  "coll": [
+   "blush with embarrassment",
+   "make someone blush",
+   "blush bright red",
+   "spare his blushes"
+  ]
+ },
+ {
+  "id": "calculator",
+  "pos": [
+   "n"
+  ],
+  "vi": "máy tính bỏ túi; máy tính cầm tay",
+  "coll": [
+   "pocket calculator",
+   "use a calculator",
+   "scientific calculator",
+   "calculator app"
+  ]
+ },
+ {
+  "id": "hardship",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khó khăn; gian khổ",
+  "coll": [
+   "economic hardship",
+   "financial hardship",
+   "endure hardship",
+   "suffer great hardship"
+  ]
+ },
+ {
+  "id": "lettuce",
+  "pos": [
+   "n"
+  ],
+  "vi": "rau xà lách; rau diếp",
+  "coll": [
+   "lettuce leaves",
+   "a head of lettuce",
+   "crisp lettuce",
+   "lettuce salad"
+  ]
+ },
+ {
+  "id": "recycled",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tái chế; được tái chế",
+  "coll": [
+   "recycled paper",
+   "recycled materials",
+   "recycled plastic",
+   "made from recycled materials"
+  ]
+ },
+ {
+  "id": "acquaintance",
+  "pos": [
+   "n"
+  ],
+  "vi": "người quen; sự quen biết",
+  "coll": [
+   "make someone's acquaintance",
+   "a casual acquaintance",
+   "a mutual acquaintance",
+   "friends and acquaintances"
+  ]
+ },
+ {
+  "id": "cabbage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bắp cải; cải bắp",
+  "coll": [
+   "cabbage soup",
+   "red cabbage",
+   "a head of cabbage",
+   "cabbage leaves"
+  ]
+ },
+ {
+  "id": "fragment",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mảnh vỡ; mảnh rời; vỡ vụn",
+  "coll": [
+   "fragments of glass",
+   "bone fragments",
+   "a fragment of a letter",
+   "fragments of conversation"
+  ]
+ },
+ {
+  "id": "heater",
+  "pos": [
+   "n"
+  ],
+  "vi": "máy sưởi; lò sưởi điện",
+  "coll": [
+   "water heater",
+   "electric heater",
+   "turn on the heater",
+   "space heater"
+  ]
+ },
+ {
+  "id": "mash",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nghiền nát; món nghiền; khoai nghiền",
+  "coll": [
+   "mash the potatoes",
+   "sausage and mash",
+   "mash it into a paste",
+   "mashed banana"
+  ]
+ },
+ {
+  "id": "oneself",
+  "pos": [
+   "pron"
+  ],
+  "vi": "chính mình; tự mình; bản thân",
+  "coll": [
+   "by oneself",
+   "enjoy oneself",
+   "take care of oneself",
+   "help oneself"
+  ]
+ },
+ {
+  "id": "safeguard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "biện pháp bảo vệ; bảo vệ",
+  "coll": [
+   "safeguard the interests of",
+   "safeguard against fraud",
+   "legal safeguards",
+   "safeguard your privacy"
+  ]
+ },
+ {
+  "id": "telegram",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bức điện tín; điện báo",
+  "coll": [
+   "send a telegram",
+   "receive a telegram",
+   "by telegram",
+   "a congratulatory telegram"
+  ]
+ },
+ {
+  "id": "turbulence",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhiễu động (không khí); sự hỗn loạn",
+  "coll": [
+   "severe turbulence",
+   "hit turbulence",
+   "air turbulence",
+   "political turbulence"
+  ]
+ },
+ {
+  "id": "haunt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ám ảnh; (ma) ám; chốn quen lui tới",
+  "coll": [
+   "a haunted house",
+   "haunt your dreams",
+   "haunted by memories",
+   "an old haunt"
+  ]
+ },
+ {
+  "id": "inscription",
+  "pos": [
+   "n"
+  ],
+  "vi": "chữ khắc; lời đề tặng",
+  "coll": [
+   "bear an inscription",
+   "ancient inscriptions",
+   "the inscription on the tombstone",
+   "read the inscription"
+  ]
+ },
+ {
+  "id": "kettle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ấm đun nước",
+  "coll": [
+   "put the kettle on",
+   "electric kettle",
+   "the kettle is boiling",
+   "a different kettle of fish"
+  ]
+ },
+ {
+  "id": "runaway",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "kẻ chạy trốn; mất kiểm soát; vang dội (thành công)",
+  "coll": [
+   "runaway train",
+   "runaway success",
+   "teenage runaway",
+   "runaway inflation"
+  ]
+ },
+ {
+  "id": "waterfall",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thác nước",
+  "coll": [
+   "a spectacular waterfall",
+   "the foot of the waterfall",
+   "visit a waterfall",
+   "the waterfall cascades down"
+  ]
+ },
+ {
+  "id": "distinctly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "rõ ràng; rõ rệt",
+  "coll": [
+   "distinctly remember",
+   "distinctly different",
+   "distinctly uncomfortable",
+   "speak distinctly"
+  ]
+ },
+ {
+  "id": "magician",
+  "pos": [
+   "n"
+  ],
+  "vi": "ảo thuật gia; pháp sư",
+  "coll": [
+   "a famous magician",
+   "the magician's assistant",
+   "a magician's trick",
+   "like a magician"
+  ]
+ },
+ {
+  "id": "bilingual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "song ngữ; thông thạo hai thứ tiếng",
+  "coll": [
+   "bilingual education",
+   "bilingual dictionary",
+   "fully bilingual",
+   "bilingual children"
+  ]
+ },
+ {
+  "id": "cherish",
+  "pos": [
+   "v"
+  ],
+  "vi": "trân trọng; nâng niu; ấp ủ",
+  "coll": [
+   "cherish the memory",
+   "a cherished dream",
+   "cherish every moment",
+   "a cherished possession"
+  ]
+ },
+ {
+  "id": "chuckle",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "cười khúc khích; tiếng cười khẽ",
+  "coll": [
+   "chuckle softly",
+   "give a chuckle",
+   "chuckle to himself",
+   "let out a chuckle"
+  ]
+ },
+ {
+  "id": "disable",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "vô hiệu hóa; tắt (chức năng); làm tàn tật",
+  "coll": [
+   "disable a feature",
+   "disable notifications",
+   "disable an account",
+   "disable the alarm"
+  ]
+ },
+ {
+  "id": "encyclopedia",
+  "pos": [
+   "n"
+  ],
+  "vi": "bách khoa toàn thư",
+  "coll": [
+   "online encyclopedia",
+   "a walking encyclopedia",
+   "encyclopedia entry",
+   "consult an encyclopedia"
+  ]
+ },
+ {
+  "id": "examiner",
+  "pos": [
+   "n"
+  ],
+  "vi": "giám khảo; người khảo thí; nhân viên khám nghiệm",
+  "coll": [
+   "medical examiner",
+   "external examiner",
+   "the examiner's report",
+   "chief examiner"
+  ]
+ },
+ {
+  "id": "fluent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lưu loát; trôi chảy; thành thạo (ngôn ngữ)",
+  "coll": [
+   "fluent in English",
+   "a fluent speaker",
+   "speak fluent French",
+   "fluent reader"
+  ]
+ },
+ {
+  "id": "flute",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cây sáo; sáo tây; ly sâm-panh chân cao",
+  "coll": [
+   "play the flute",
+   "flute player",
+   "champagne flute",
+   "a flute solo"
+  ]
+ },
+ {
+  "id": "outward",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "vi": "bề ngoài; hướng ra ngoài; ra phía ngoài",
+  "coll": [
+   "outward appearance",
+   "outward journey",
+   "outward signs",
+   "outward calm"
+  ]
+ },
+ {
+  "id": "stricken",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "khốn khổ; bị (bệnh, họa) giáng xuống; đau buồn",
+  "coll": [
+   "grief-stricken",
+   "poverty-stricken areas",
+   "panic-stricken",
+   "stricken with cancer"
+  ]
+ },
+ {
+  "id": "unfit",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "không phù hợp; kém thể lực; không đủ tư cách",
+  "coll": [
+   "unfit for work",
+   "unfit for human consumption",
+   "physically unfit",
+   "an unfit parent"
+  ]
+ }
+]

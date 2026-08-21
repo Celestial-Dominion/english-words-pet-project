@@ -1,0 +1,811 @@
+[
+ {
+  "id": "berth",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giường ngủ trên tàu; chỗ neo tàu; suất tham dự",
+  "coll": [
+   "give a wide berth",
+   "a sleeping berth",
+   "a playoff berth",
+   "a deep-water berth"
+  ]
+ },
+ {
+  "id": "insistence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khăng khăng; sự nài nỉ, đòi hỏi",
+  "coll": [
+   "at his insistence",
+   "insistence on quality",
+   "repeated insistence",
+   "despite her insistence"
+  ]
+ },
+ {
+  "id": "acquitted",
+  "pos": [
+   "adj"
+  ],
+  "vi": "được tuyên trắng án; được tha bổng",
+  "coll": [
+   "acquitted of murder",
+   "acquitted of all charges",
+   "fully acquitted",
+   "acquitted by the jury"
+  ]
+ },
+ {
+  "id": "episcopal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc giám mục; thuộc Giáo hội Anh giáo",
+  "coll": [
+   "the Episcopal Church",
+   "episcopal authority",
+   "an episcopal see",
+   "episcopal conference"
+  ]
+ },
+ {
+  "id": "enchanted",
+  "pos": [
+   "adj",
+   "intj"
+  ],
+  "vi": "bị mê hoặc; đắm say; được phù phép",
+  "coll": [
+   "an enchanted forest",
+   "enchanted by her beauty",
+   "an enchanted evening",
+   "an enchanted sword"
+  ]
+ },
+ {
+  "id": "godfather",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cha đỡ đầu; ông trùm mafia",
+  "coll": [
+   "a mafia godfather",
+   "act as godfather",
+   "the godfather of soul",
+   "a godfather to the child"
+  ]
+ },
+ {
+  "id": "rematch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trận tái đấu; cuộc so tài lần hai",
+  "coll": [
+   "demand a rematch",
+   "a title rematch",
+   "a long-awaited rematch",
+   "win the rematch"
+  ]
+ },
+ {
+  "id": "renal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc thận",
+  "coll": [
+   "renal failure",
+   "renal function",
+   "chronic renal disease",
+   "a renal transplant"
+  ]
+ },
+ {
+  "id": "proclamation",
+  "pos": [
+   "n"
+  ],
+  "vi": "bản tuyên cáo; sự công bố",
+  "coll": [
+   "issue a proclamation",
+   "a royal proclamation",
+   "the Emancipation Proclamation",
+   "a public proclamation"
+  ]
+ },
+ {
+  "id": "mythical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc thần thoại; hư cấu, không có thật",
+  "coll": [
+   "a mythical creature",
+   "a mythical figure",
+   "mythical beasts",
+   "almost mythical status"
+  ]
+ },
+ {
+  "id": "torpedo",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngư lôi; phá hỏng, đánh đắm",
+  "coll": [
+   "fire a torpedo",
+   "a torpedo attack",
+   "torpedo the deal",
+   "a torpedo boat"
+  ]
+ },
+ {
+  "id": "dusk",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "hoàng hôn; lúc chạng vạng",
+  "coll": [
+   "at dusk",
+   "from dawn to dusk",
+   "as dusk fell",
+   "in the gathering dusk"
+  ]
+ },
+ {
+  "id": "blackmail",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tống tiền; tống tiền, uy hiếp",
+  "coll": [
+   "emotional blackmail",
+   "blackmail someone into",
+   "a blackmail attempt",
+   "resort to blackmail"
+  ]
+ },
+ {
+  "id": "invincible",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bất khả chiến bại; không thể đánh bại",
+  "coll": [
+   "feel invincible",
+   "an invincible army",
+   "seemingly invincible",
+   "invincible spirit"
+  ]
+ },
+ {
+  "id": "commuter",
+  "pos": [
+   "n"
+  ],
+  "vi": "người đi làm xa hằng ngày; hành khách đi lại thường xuyên",
+  "coll": [
+   "a commuter train",
+   "daily commuters",
+   "commuter traffic",
+   "a commuter belt"
+  ]
+ },
+ {
+  "id": "patio",
+  "pos": [
+   "n"
+  ],
+  "vi": "sân hiên; sân lát gạch",
+  "coll": [
+   "a patio door",
+   "sit on the patio",
+   "patio furniture",
+   "a paved patio"
+  ]
+ },
+ {
+  "id": "soluble",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hòa tan được; có thể giải quyết được",
+  "coll": [
+   "water-soluble",
+   "soluble in water",
+   "highly soluble",
+   "soluble fibre"
+  ]
+ },
+ {
+  "id": "tanker",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tàu chở dầu; xe bồn",
+  "coll": [
+   "an oil tanker",
+   "a tanker truck",
+   "a tanker ship",
+   "a fuel tanker"
+  ]
+ },
+ {
+  "id": "precursor",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "tiền thân; dấu hiệu báo trước",
+  "coll": [
+   "a precursor to war",
+   "an early precursor",
+   "a chemical precursor",
+   "the precursor of modern computers"
+  ]
+ },
+ {
+  "id": "purposely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cố ý; có chủ đích",
+  "coll": [
+   "purposely vague",
+   "purposely avoid",
+   "purposely misleading",
+   "do it purposely"
+  ]
+ },
+ {
+  "id": "yearbook",
+  "pos": [
+   "n"
+  ],
+  "vi": "kỷ yếu; niên giám",
+  "coll": [
+   "a high school yearbook",
+   "a yearbook photo",
+   "sign the yearbook",
+   "the school yearbook"
+  ]
+ },
+ {
+  "id": "frenzy",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "cơn cuồng loạn; sự điên cuồng",
+  "coll": [
+   "a feeding frenzy",
+   "a media frenzy",
+   "whip into a frenzy",
+   "a buying frenzy"
+  ]
+ },
+ {
+  "id": "yikes",
+  "pos": [
+   "intj"
+  ],
+  "vi": "ối chao!; ghê quá!",
+  "coll": [
+   "yikes, that's bad",
+   "yikes! watch out",
+   "well, yikes",
+   "yikes, sorry"
+  ]
+ },
+ {
+  "id": "prism",
+  "pos": [
+   "n"
+  ],
+  "vi": "lăng kính; hình lăng trụ",
+  "coll": [
+   "a glass prism",
+   "through the prism of",
+   "a triangular prism",
+   "split light with a prism"
+  ]
+ },
+ {
+  "id": "inadvertently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vô tình; không cố ý",
+  "coll": [
+   "inadvertently delete",
+   "inadvertently reveal",
+   "inadvertently cause",
+   "inadvertently omitted"
+  ]
+ },
+ {
+  "id": "duly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đúng thủ tục; đúng lúc, như dự kiến",
+  "coll": [
+   "duly noted",
+   "duly authorized",
+   "duly elected",
+   "duly signed"
+  ]
+ },
+ {
+  "id": "reflex",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "phản xạ; phản xạ tự nhiên",
+  "coll": [
+   "a reflex action",
+   "quick reflexes",
+   "a knee-jerk reflex",
+   "test the reflexes"
+  ]
+ },
+ {
+  "id": "groundwater",
+  "pos": [
+   "n"
+  ],
+  "vi": "nước ngầm",
+  "coll": [
+   "groundwater contamination",
+   "groundwater levels",
+   "pump groundwater",
+   "groundwater supplies"
+  ]
+ },
+ {
+  "id": "vaginal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc âm đạo",
+  "coll": [
+   "vaginal delivery",
+   "a vaginal infection",
+   "vaginal discharge",
+   "vaginal bleeding"
+  ]
+ },
+ {
+  "id": "preparatory",
+  "pos": [
+   "adj"
+  ],
+  "vi": "để chuẩn bị; dự bị",
+  "coll": [
+   "a preparatory school",
+   "preparatory work",
+   "a preparatory course",
+   "preparatory meetings"
+  ]
+ },
+ {
+  "id": "contingency",
+  "pos": [
+   "n"
+  ],
+  "vi": "tình huống bất ngờ; phương án dự phòng",
+  "coll": [
+   "a contingency plan",
+   "a contingency fund",
+   "plan for contingencies",
+   "contingency measures"
+  ]
+ },
+ {
+  "id": "viability",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính khả thi; khả năng tồn tại",
+  "coll": [
+   "commercial viability",
+   "economic viability",
+   "long-term viability",
+   "assess the viability"
+  ]
+ },
+ {
+  "id": "powerhouse",
+  "pos": [
+   "n"
+  ],
+  "vi": "thế lực hùng mạnh; nguồn năng lượng dồi dào",
+  "coll": [
+   "an economic powerhouse",
+   "a political powerhouse",
+   "a nutritional powerhouse",
+   "an industrial powerhouse"
+  ]
+ },
+ {
+  "id": "undocumented",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không giấy tờ hợp pháp; chưa có tài liệu ghi chép",
+  "coll": [
+   "undocumented immigrants",
+   "undocumented workers",
+   "an undocumented feature",
+   "largely undocumented"
+  ]
+ },
+ {
+  "id": "relocate",
+  "pos": [
+   "v"
+  ],
+  "vi": "di dời; chuyển nơi ở, chuyển trụ sở",
+  "coll": [
+   "relocate the office",
+   "relocate abroad",
+   "relocate employees",
+   "relocate to another city"
+  ]
+ },
+ {
+  "id": "ooo",
+  "pos": [
+   "phr"
+  ],
+  "vi": "những cái ôm (cuối tin nhắn, thư)",
+  "coll": [
+   "xxx ooo",
+   "ooo xxx",
+   "love you, ooo",
+   "send ooo"
+  ]
+ },
+ {
+  "id": "sectional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "theo từng phần, theo khu vực; ghế sofa ghép",
+  "coll": [
+   "sectional interests",
+   "a sectional view",
+   "a sectional sofa",
+   "sectional differences"
+  ]
+ },
+ {
+  "id": "redevelopment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tái phát triển; việc cải tạo xây dựng lại",
+  "coll": [
+   "urban redevelopment",
+   "a redevelopment project",
+   "redevelopment plans",
+   "the redevelopment of the site"
+  ]
+ },
+ {
+  "id": "medically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt y tế; theo cách y học",
+  "coll": [
+   "medically necessary",
+   "medically trained",
+   "medically proven",
+   "medically supervised"
+  ]
+ },
+ {
+  "id": "federally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ở cấp liên bang; theo luật liên bang",
+  "coll": [
+   "federally funded",
+   "federally regulated",
+   "federally recognized",
+   "federally mandated"
+  ]
+ },
+ {
+  "id": "repayment",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc trả nợ; khoản hoàn trả",
+  "coll": [
+   "loan repayment",
+   "monthly repayments",
+   "a repayment schedule",
+   "repayment of debt"
+  ]
+ },
+ {
+  "id": "cardio",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bài tập tim mạch; thuộc tim mạch",
+  "coll": [
+   "do cardio",
+   "a cardio workout",
+   "cardio exercise",
+   "cardio training"
+  ]
+ },
+ {
+  "id": "caucasian",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "người da trắng; thuộc vùng Kavkaz",
+  "coll": [
+   "a Caucasian male",
+   "of Caucasian descent",
+   "Caucasian features",
+   "the Caucasian region"
+  ]
+ },
+ {
+  "id": "saloon",
+  "pos": [
+   "n"
+  ],
+  "vi": "quán rượu (Mỹ xưa); xe sedan",
+  "coll": [
+   "a Wild West saloon",
+   "a saloon bar",
+   "a saloon car",
+   "walk into the saloon"
+  ]
+ },
+ {
+  "id": "aqua",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "màu xanh lam ngọc; nước (trong thuật ngữ)",
+  "coll": [
+   "aqua blue",
+   "aqua green",
+   "an aqua colour",
+   "aqua aerobics"
+  ]
+ },
+ {
+  "id": "rumble",
+  "pos": [
+   "v",
+   "n",
+   "intj"
+  ],
+  "vi": "tiếng ầm ầm; kêu ầm ì, gầm rú",
+  "coll": [
+   "a distant rumble",
+   "the rumble of thunder",
+   "stomach rumbling",
+   "a low rumble"
+  ]
+ },
+ {
+  "id": "creamy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "béo ngậy như kem; mịn màng, sánh mượt",
+  "coll": [
+   "a creamy sauce",
+   "creamy texture",
+   "rich and creamy",
+   "creamy white"
+  ]
+ },
+ {
+  "id": "fiddle",
+  "pos": [
+   "v",
+   "n",
+   "intj"
+  ],
+  "vi": "đàn vĩ cầm dân gian; nghịch, mày mò; gian lận sổ sách",
+  "coll": [
+   "play the fiddle",
+   "fiddle with the settings",
+   "fit as a fiddle",
+   "fiddle the accounts"
+  ]
+ },
+ {
+  "id": "antiquity",
+  "pos": [
+   "n"
+  ],
+  "vi": "thời cổ đại; đồ cổ",
+  "coll": [
+   "classical antiquity",
+   "in antiquity",
+   "of great antiquity",
+   "the antiquities collection"
+  ]
+ },
+ {
+  "id": "abduction",
+  "pos": [
+   "n"
+  ],
+  "vi": "vụ bắt cóc; sự dạng ra (giải phẫu)",
+  "coll": [
+   "an alien abduction",
+   "a child abduction",
+   "attempted abduction",
+   "the abduction of a hostage"
+  ]
+ },
+ {
+  "id": "sanction",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lệnh trừng phạt; sự phê chuẩn; cho phép",
+  "coll": [
+   "economic sanctions",
+   "impose sanctions",
+   "lift sanctions",
+   "officially sanctioned"
+  ]
+ },
+ {
+  "id": "repository",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "kho lưu trữ; nơi chứa dữ liệu",
+  "coll": [
+   "a code repository",
+   "a central repository",
+   "a repository of knowledge",
+   "a data repository"
+  ]
+ },
+ {
+  "id": "linguistics",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngôn ngữ học",
+  "coll": [
+   "applied linguistics",
+   "study linguistics",
+   "a linguistics professor",
+   "computational linguistics"
+  ]
+ },
+ {
+  "id": "discreet",
+  "pos": [
+   "adj"
+  ],
+  "vi": "kín đáo; thận trọng, tế nhị",
+  "coll": [
+   "be discreet about",
+   "a discreet inquiry",
+   "discreet packaging",
+   "remain discreet"
+  ]
+ },
+ {
+  "id": "chlorine",
+  "pos": [
+   "n"
+  ],
+  "vi": "khí clo; clo",
+  "coll": [
+   "chlorine gas",
+   "chlorine levels",
+   "add chlorine",
+   "the smell of chlorine"
+  ]
+ },
+ {
+  "id": "illicit",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trái phép; bất hợp pháp, vụng trộm",
+  "coll": [
+   "illicit drugs",
+   "an illicit affair",
+   "illicit trade",
+   "illicit activities"
+  ]
+ },
+ {
+  "id": "sterile",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô trùng; vô sinh; khô khan, không hiệu quả",
+  "coll": [
+   "a sterile environment",
+   "sterile equipment",
+   "a sterile debate",
+   "keep the wound sterile"
+  ]
+ },
+ {
+  "id": "stale",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "ôi thiu, cũ; nhàm chán, cũ rích",
+  "coll": [
+   "stale bread",
+   "stale air",
+   "a stale joke",
+   "go stale"
+  ]
+ },
+ {
+  "id": "migrate",
+  "pos": [
+   "v"
+  ],
+  "vi": "di cư; chuyển sang (hệ thống mới)",
+  "coll": [
+   "migrate south",
+   "migrate to a new system",
+   "birds migrate",
+   "migrate data"
+  ]
+ },
+ {
+  "id": "miraculous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "kỳ diệu; thần kỳ, như phép màu",
+  "coll": [
+   "a miraculous recovery",
+   "a miraculous escape",
+   "miraculous healing",
+   "nothing short of miraculous"
+  ]
+ }
+]

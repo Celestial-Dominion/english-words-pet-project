@@ -1,0 +1,883 @@
+[
+ {
+  "id": "ongoing",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "đang diễn ra; liên tục, chưa kết thúc",
+  "coll": [
+   "ongoing process",
+   "ongoing investigation",
+   "ongoing debate",
+   "ongoing support",
+   "ongoing relationship"
+  ]
+ },
+ {
+  "id": "domain",
+  "pos": [
+   "n"
+  ],
+  "vi": "lĩnh vực; phạm vi; tên miền",
+  "coll": [
+   "public domain",
+   "domain name",
+   "in the domain of",
+   "domain expertise",
+   "domain knowledge"
+  ]
+ },
+ {
+  "id": "triple",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "gấp ba; tăng gấp ba; bộ ba",
+  "coll": [
+   "triple the amount",
+   "triple jump",
+   "triple threat",
+   "triple digits",
+   "triple in size"
+  ]
+ },
+ {
+  "id": "implementation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự triển khai; việc thực thi",
+  "coll": [
+   "implementation of the plan",
+   "successful implementation",
+   "policy implementation",
+   "implementation phase",
+   "full implementation"
+  ]
+ },
+ {
+  "id": "footage",
+  "pos": [
+   "n"
+  ],
+  "vi": "đoạn phim; cảnh quay",
+  "coll": [
+   "video footage",
+   "CCTV footage",
+   "archive footage",
+   "raw footage",
+   "security footage"
+  ]
+ },
+ {
+  "id": "goodbye",
+  "pos": [
+   "intj",
+   "n",
+   "v"
+  ],
+  "vi": "tạm biệt; lời chia tay",
+  "coll": [
+   "say goodbye",
+   "wave goodbye",
+   "kiss goodbye",
+   "final goodbye",
+   "goodbye party"
+  ]
+ },
+ {
+  "id": "petition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đơn thỉnh nguyện; đơn kiến nghị; thỉnh cầu",
+  "coll": [
+   "sign a petition",
+   "online petition",
+   "file a petition",
+   "petition for divorce",
+   "launch a petition"
+  ]
+ },
+ {
+  "id": "collective",
+  "pos": [
+   "n"
+  ],
+  "vi": "tập thể; nhóm làm chung; hợp tác xã",
+  "coll": [
+   "collective farm",
+   "an artists' collective",
+   "workers' collective",
+   "a design collective"
+  ]
+ },
+ {
+  "id": "sacrifice",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự hy sinh; hy sinh; vật tế lễ",
+  "coll": [
+   "make sacrifices",
+   "sacrifice everything",
+   "human sacrifice",
+   "the ultimate sacrifice",
+   "sacrifice for the family"
+  ]
+ },
+ {
+  "id": "carrier",
+  "pos": [
+   "n"
+  ],
+  "vi": "hãng vận chuyển; người mang mầm bệnh; tàu sân bay",
+  "coll": [
+   "aircraft carrier",
+   "carrier of the disease",
+   "national carrier",
+   "low-cost carrier",
+   "mail carrier"
+  ]
+ },
+ {
+  "id": "distinct",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "khác biệt; rõ rệt, rõ ràng",
+  "coll": [
+   "distinct from",
+   "distinct advantage",
+   "distinct difference",
+   "distinct possibility",
+   "clearly distinct"
+  ]
+ },
+ {
+  "id": "dialogue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đối thoại; lời thoại; cuộc trao đổi",
+  "coll": [
+   "open dialogue",
+   "constructive dialogue",
+   "dialogue between",
+   "engage in dialogue",
+   "dialogue in the film"
+  ]
+ },
+ {
+  "id": "default",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mặc định; sự vỡ nợ; không thực hiện nghĩa vụ",
+  "coll": [
+   "by default",
+   "default setting",
+   "default value",
+   "default on a loan",
+   "default option"
+  ]
+ },
+ {
+  "id": "framework",
+  "pos": [
+   "n"
+  ],
+  "vi": "khuôn khổ; khung sườn; nền tảng lập trình",
+  "coll": [
+   "legal framework",
+   "theoretical framework",
+   "within the framework of",
+   "conceptual framework",
+   "regulatory framework"
+  ]
+ },
+ {
+  "id": "franchise",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhượng quyền; cửa hàng nhượng quyền; loạt phim ăn khách",
+  "coll": [
+   "fast-food franchise",
+   "franchise agreement",
+   "buy a franchise",
+   "film franchise",
+   "franchise owner"
+  ]
+ },
+ {
+  "id": "con",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "lừa đảo; điểm bất lợi; tù nhân",
+  "coll": [
+   "pros and cons",
+   "con man",
+   "con artist",
+   "con someone out of money",
+   "ex-con"
+  ]
+ },
+ {
+  "id": "collaboration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hợp tác; tác phẩm hợp tác",
+  "coll": [
+   "close collaboration",
+   "in collaboration with",
+   "collaboration between",
+   "international collaboration",
+   "collaboration tool"
+  ]
+ },
+ {
+  "id": "dual",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "kép; hai, đôi; hai mặt",
+  "coll": [
+   "dual citizenship",
+   "dual role",
+   "dual purpose",
+   "dual nationality",
+   "dual carriageway"
+  ]
+ },
+ {
+  "id": "experimental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thử nghiệm; thực nghiệm; mang tính thí nghiệm",
+  "coll": [
+   "experimental design",
+   "experimental group",
+   "experimental treatment",
+   "experimental data",
+   "experimental music"
+  ]
+ },
+ {
+  "id": "corps",
+  "pos": [
+   "n"
+  ],
+  "vi": "quân đoàn; đoàn, đội",
+  "coll": [
+   "Marine Corps",
+   "press corps",
+   "diplomatic corps",
+   "Peace Corps",
+   "corps of engineers"
+  ]
+ },
+ {
+  "id": "mechanism",
+  "pos": [
+   "n"
+  ],
+  "vi": "cơ chế; bộ máy, cơ cấu",
+  "coll": [
+   "defence mechanism",
+   "coping mechanism",
+   "mechanism of action",
+   "market mechanism",
+   "control mechanism"
+  ]
+ },
+ {
+  "id": "quest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc tìm kiếm; hành trình truy tìm; truy tìm",
+  "coll": [
+   "quest for knowledge",
+   "in quest of",
+   "quest for power",
+   "embark on a quest",
+   "side quest"
+  ]
+ },
+ {
+  "id": "parallel",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "song song; tương đồng; điểm tương đồng",
+  "coll": [
+   "parallel lines",
+   "in parallel",
+   "draw a parallel",
+   "parallel universe",
+   "parallel to"
+  ]
+ },
+ {
+  "id": "auction",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đấu giá; bán đấu giá",
+  "coll": [
+   "auction house",
+   "put up for auction",
+   "online auction",
+   "charity auction",
+   "auction off"
+  ]
+ },
+ {
+  "id": "anime",
+  "pos": [
+   "n"
+  ],
+  "vi": "phim hoạt hình Nhật; phong cách anime",
+  "coll": [
+   "anime series",
+   "watch anime",
+   "anime fan",
+   "anime convention",
+   "anime style"
+  ]
+ },
+ {
+  "id": "spectrum",
+  "pos": [
+   "n"
+  ],
+  "vi": "dải, phạm vi; quang phổ; phổ tự kỷ",
+  "coll": [
+   "broad spectrum",
+   "across the spectrum",
+   "political spectrum",
+   "electromagnetic spectrum",
+   "autism spectrum"
+  ]
+ },
+ {
+  "id": "conspiracy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "âm mưu; sự thông đồng",
+  "coll": [
+   "conspiracy theory",
+   "criminal conspiracy",
+   "conspiracy to commit murder",
+   "government conspiracy",
+   "hatch a conspiracy"
+  ]
+ },
+ {
+  "id": "mainstream",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chính thống; phổ biến rộng rãi; dòng chính",
+  "coll": [
+   "mainstream media",
+   "mainstream culture",
+   "enter the mainstream",
+   "mainstream audience",
+   "mainstream society"
+  ]
+ },
+ {
+  "id": "worn-out",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cũ nát, sờn rách; kiệt sức; nhàm, sáo mòn",
+  "coll": [
+   "worn-out shoes",
+   "worn-out tyres",
+   "worn-out clothes",
+   "feel worn-out",
+   "a worn-out excuse"
+  ]
+ },
+ {
+  "id": "intervention",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự can thiệp",
+  "coll": [
+   "military intervention",
+   "government intervention",
+   "medical intervention",
+   "early intervention",
+   "surgical intervention"
+  ]
+ },
+ {
+  "id": "seventh",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thứ bảy; một phần bảy",
+  "coll": [
+   "seventh grade",
+   "seventh heaven",
+   "seventh place",
+   "seventh floor",
+   "the seventh of May"
+  ]
+ },
+ {
+  "id": "tribute",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tri ân; lời tưởng nhớ; cống phẩm",
+  "coll": [
+   "pay tribute to",
+   "tribute band",
+   "floral tribute",
+   "a fitting tribute",
+   "tribute concert"
+  ]
+ },
+ {
+  "id": "isolated",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "biệt lập, hẻo lánh; đơn lẻ, cá biệt; bị cô lập",
+  "coll": [
+   "isolated incident",
+   "isolated village",
+   "feel isolated",
+   "isolated case",
+   "socially isolated"
+  ]
+ },
+ {
+  "id": "suspension",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đình chỉ; hệ thống treo (xe); huyền phù",
+  "coll": [
+   "suspension from school",
+   "suspension bridge",
+   "a two-game suspension",
+   "car suspension",
+   "suspension of the licence"
+  ]
+ },
+ {
+  "id": "abortion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phá thai; ca nạo phá thai",
+  "coll": [
+   "have an abortion",
+   "abortion rights",
+   "abortion clinic",
+   "legal abortion",
+   "abortion law"
+  ]
+ },
+ {
+  "id": "democrat",
+  "pos": [
+   "n"
+  ],
+  "vi": "đảng viên Dân chủ; người theo chế độ dân chủ",
+  "coll": [
+   "Democrat candidate",
+   "leading Democrat",
+   "Democrat senator",
+   "social democrat",
+   "Democrat voters"
+  ]
+ },
+ {
+  "id": "warrant",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lệnh của tòa án; biện minh, đáng để; sự bảo đảm",
+  "coll": [
+   "arrest warrant",
+   "search warrant",
+   "issue a warrant",
+   "warrant further investigation",
+   "warrant officer"
+  ]
+ },
+ {
+  "id": "municipal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc thành phố; của chính quyền địa phương",
+  "coll": [
+   "municipal government",
+   "municipal council",
+   "municipal elections",
+   "municipal services",
+   "municipal waste"
+  ]
+ },
+ {
+  "id": "consistently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhất quán; đều đặn, liên tục",
+  "coll": [
+   "consistently high",
+   "consistently good",
+   "consistently apply",
+   "perform consistently",
+   "consistently ranked"
+  ]
+ },
+ {
+  "id": "dominant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chiếm ưu thế; thống trị; trội (gen)",
+  "coll": [
+   "dominant position",
+   "dominant force",
+   "dominant gene",
+   "dominant player",
+   "become dominant"
+  ]
+ },
+ {
+  "id": "charter",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "hiến chương; thuê nguyên chuyến (tàu, máy bay); giấy phép thành lập",
+  "coll": [
+   "charter flight",
+   "charter a plane",
+   "the UN Charter",
+   "charter school",
+   "royal charter"
+  ]
+ },
+ {
+  "id": "civilian",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thường dân; dân sự",
+  "coll": [
+   "civilian population",
+   "innocent civilians",
+   "civilian casualties",
+   "civilian life",
+   "civilian clothes"
+  ]
+ },
+ {
+  "id": "subsequently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "sau đó; về sau",
+  "coll": [
+   "subsequently released",
+   "subsequently discovered",
+   "subsequently arrested",
+   "subsequently became"
+  ]
+ },
+ {
+  "id": "ultra",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cực kỳ, siêu; cực đoan; người quá khích",
+  "coll": [
+   "ultra conservative",
+   "ultra modern",
+   "ultra thin",
+   "ultra low",
+   "football ultras"
+  ]
+ },
+ {
+  "id": "amateur",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nghiệp dư; người nghiệp dư; tay mơ",
+  "coll": [
+   "amateur athlete",
+   "amateur photographer",
+   "amateur boxing",
+   "a rank amateur",
+   "amateur dramatics"
+  ]
+ },
+ {
+  "id": "socialist",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xã hội chủ nghĩa; người theo chủ nghĩa xã hội",
+  "coll": [
+   "socialist party",
+   "socialist government",
+   "socialist state",
+   "socialist ideas",
+   "democratic socialist"
+  ]
+ },
+ {
+  "id": "ugh",
+  "pos": [
+   "intj"
+  ],
+  "vi": "ghê quá!; eo ôi!; chán thật!",
+  "coll": [
+   "ugh, gross",
+   "ugh, no",
+   "ugh, that's disgusting",
+   "ugh, seriously?"
+  ]
+ },
+ {
+  "id": "custody",
+  "pos": [
+   "n"
+  ],
+  "vi": "quyền nuôi con; sự giam giữ; sự trông giữ",
+  "coll": [
+   "in custody",
+   "police custody",
+   "child custody",
+   "custody battle",
+   "take into custody"
+  ]
+ },
+ {
+  "id": "integrity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chính trực; tính liêm chính; tính toàn vẹn",
+  "coll": [
+   "personal integrity",
+   "professional integrity",
+   "moral integrity",
+   "structural integrity",
+   "data integrity"
+  ]
+ },
+ {
+  "id": "criteria",
+  "pos": [
+   "n"
+  ],
+  "vi": "các tiêu chí; tiêu chuẩn",
+  "coll": [
+   "meet the criteria",
+   "selection criteria",
+   "strict criteria",
+   "eligibility criteria",
+   "a set of criteria"
+  ]
+ },
+ {
+  "id": "gravity",
+  "pos": [
+   "n"
+  ],
+  "vi": "trọng lực; sự nghiêm trọng",
+  "coll": [
+   "the force of gravity",
+   "law of gravity",
+   "zero gravity",
+   "centre of gravity",
+   "the gravity of the situation"
+  ]
+ },
+ {
+  "id": "advocate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người ủng hộ; ủng hộ, bênh vực; luật sư bào chữa",
+  "coll": [
+   "advocate for change",
+   "a strong advocate",
+   "advocate of reform",
+   "advocate a policy",
+   "consumer advocate"
+  ]
+ },
+ {
+  "id": "transaction",
+  "pos": [
+   "n"
+  ],
+  "vi": "giao dịch; vụ mua bán",
+  "coll": [
+   "financial transaction",
+   "business transaction",
+   "complete a transaction",
+   "cash transaction",
+   "transaction fee"
+  ]
+ },
+ {
+  "id": "vulnerable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dễ bị tổn thương; dễ bị tấn công; yếu thế",
+  "coll": [
+   "vulnerable to attack",
+   "vulnerable groups",
+   "vulnerable children",
+   "particularly vulnerable",
+   "vulnerable position"
+  ]
+ },
+ {
+  "id": "operational",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hoạt động được; thuộc vận hành; tác chiến",
+  "coll": [
+   "fully operational",
+   "operational costs",
+   "operational efficiency",
+   "become operational",
+   "operational issues"
+  ]
+ },
+ {
+  "id": "transit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự vận chuyển; sự quá cảnh; giao thông công cộng",
+  "coll": [
+   "in transit",
+   "public transit",
+   "transit visa",
+   "transit system",
+   "mass transit"
+  ]
+ },
+ {
+  "id": "wireless",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "không dây; sóng vô tuyến",
+  "coll": [
+   "wireless network",
+   "wireless connection",
+   "wireless headphones",
+   "wireless charging",
+   "wireless internet"
+  ]
+ },
+ {
+  "id": "eighth",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thứ tám; một phần tám",
+  "coll": [
+   "eighth grade",
+   "eighth place",
+   "eighth floor",
+   "eighth note",
+   "the eighth of July"
+  ]
+ },
+ {
+  "id": "developer",
+  "pos": [
+   "n"
+  ],
+  "vi": "lập trình viên; chủ đầu tư bất động sản; nhà phát triển",
+  "coll": [
+   "software developer",
+   "property developer",
+   "web developer",
+   "game developer",
+   "real estate developer"
+  ]
+ },
+ {
+  "id": "diagnosis",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chẩn đoán; sự xác định bệnh",
+  "coll": [
+   "make a diagnosis",
+   "early diagnosis",
+   "correct diagnosis",
+   "diagnosis of cancer",
+   "differential diagnosis"
+  ]
+ }
+]

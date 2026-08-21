@@ -1,0 +1,142 @@
+[
+ {
+  "id": "dlg-it-stack-pitch",
+  "level": 4,
+  "topic": "it",
+  "title_en": "Persuading the CTO to change the stack",
+  "title_vi": "Thuyết phục CTO đổi stack",
+  "speakers": ["Trúc", "Jonathan"],
+  "turns": [
+   { "sp": 0, "en": "I'll say the quiet part out loud: the framework we bet on in 2016 is now a liability, and everyone below this floor already knows it.", "vi": "Tôi xin nói toạc điều ai cũng nghĩ mà không ai nói: cái framework mình đặt cược năm 2016 giờ là một gánh nợ, và mọi người ở các tầng dưới đều biết cả rồi." },
+   { "sp": 1, "en": "Strong opening. The last person who pitched me a rewrite left me with eighteen months of parallel systems and a resignation letter.", "vi": "Mở màn mạnh đấy. Người gần nhất thuyết phục tôi viết lại hệ thống đã để lại cho tôi mười tám tháng chạy song song hai hệ thống và một lá đơn xin nghỉ việc." },
+   { "sp": 0, "en": "Which is exactly why I'm not pitching a rewrite. I'm pitching a boundary: everything new gets built on the new stack, and the old code earns its retirement one service at a time.", "vi": "Chính vì thế tôi không đề xuất viết lại. Tôi đề xuất một ranh giới: mọi thứ mới đều xây trên stack mới, còn code cũ được cho nghỉ hưu dần, từng service một." },
+   { "sp": 1, "en": "The strangler pattern. Elegant on slides, and in practice you end up maintaining two of everything: two build systems, two sets of libraries, two on-call playbooks.", "vi": "Strangler pattern. Trên slide thì thanh thoát lắm, còn thực tế thì chị sẽ phải nuôi mỗi thứ hai bản: hai hệ build, hai bộ thư viện, hai cuốn cẩm nang on-call." },
+   { "sp": 0, "en": "For a while, yes. But we're already paying a worse tax invisibly. Our last three senior candidates withdrew when they heard the stack, and recruiters tell the same story with more polish.", "vi": "Trong một thời gian thì đúng vậy. Nhưng mình đang âm thầm trả một thứ thuế còn tệ hơn. Ba ứng viên senior gần nhất rút lui khi nghe đến stack, và bên tuyển dụng kể đúng câu chuyện đó, chỉ là bọc đường khéo hơn." },
+   { "sp": 1, "en": "Hiring pain is real, but it's a treacherous argument. Fashion moves on, and I refuse to re-platform every time the framework charts change.", "vi": "Nỗi đau tuyển dụng là có thật, nhưng đó là một lập luận nguy hiểm. Mốt thì đổi liên tục, và tôi từ chối thay nền tảng mỗi lần bảng xếp hạng framework xáo trộn." },
+   { "sp": 0, "en": "If it were fashion, I'd agree with you. This is different: security patches now arrive months late, and two of our core libraries are officially unmaintained. We're not behind the curve, we're off the road.", "vi": "Nếu đây là chuyện thời thượng thì tôi đồng ý với anh. Nhưng lần này khác: các bản vá bảo mật giờ về trễ hàng tháng, và hai thư viện lõi của mình đã chính thức không còn ai bảo trì. Mình không phải đang tụt lại phía sau, mà là đã văng khỏi đường đua." },
+   { "sp": 1, "en": "Suppose I entertain this. What's the blast radius of the first step, and how do I know it isn't the first domino of your eighteen months?", "vi": "Cứ cho là tôi cân nhắc đi. Bán kính sát thương của bước đầu tiên là bao nhiêu, và lấy gì bảo đảm nó không phải quân domino đầu tiên của mười tám tháng như chị vừa nghe?" },
+   { "sp": 0, "en": "One service: the notification worker. Six weeks, two engineers, and a kill switch back to the old path. If the metrics don't hold, the experiment dies quietly and I drop the subject for a year.", "vi": "Một service thôi: worker gửi thông báo. Sáu tuần, hai kỹ sư, và một cái kill switch để quay về đường cũ. Nếu số liệu không đạt, thí nghiệm lặng lẽ khép lại và tôi sẽ không nhắc chuyện này trong một năm." },
+   { "sp": 1, "en": "You're boxing me in politely. If I refuse six weeks, I look like the obstacle; if I agree, the precedent is set.", "vi": "Chị đang dồn tôi vào góc một cách rất lịch sự. Tôi từ chối sáu tuần thì thành kẻ cản đường; tôi gật đầu thì tiền lệ được lập." },
+   { "sp": 0, "en": "I'd call it lowering the stakes rather than boxing you in. The precedent I want isn't that we migrate; it's that we decide with data instead of nostalgia.", "vi": "Tôi thì gọi đó là hạ mức đặt cược, chứ không phải dồn anh vào góc. Tiền lệ tôi muốn không phải là 'mình sẽ migrate', mà là 'mình quyết bằng dữ liệu thay vì bằng hoài niệm'." },
+   { "sp": 1, "en": "Careful, nostalgia built this company. But fine: six weeks, hard metrics agreed up front, and you present the results to the board yourself, whichever way they point.", "vi": "Cẩn thận đấy, chính hoài niệm đã dựng nên công ty này. Nhưng thôi được: sáu tuần, chốt trước các chỉ số cứng, và chị tự trình kết quả lên hội đồng, bất kể nó nghiêng về hướng nào." },
+   { "sp": 0, "en": "Whichever way they point. That's exactly the deal I was hoping for.", "vi": "Bất kể nghiêng về hướng nào. Đó đúng là thoả thuận tôi mong chờ." }
+  ]
+ },
+ {
+  "id": "dlg-it-build-vs-buy",
+  "level": 4,
+  "topic": "it",
+  "title_en": "Build or buy before the board",
+  "title_vi": "Build hay buy trước ban lãnh đạo",
+  "speakers": ["Kiên", "Margaret"],
+  "turns": [
+   { "sp": 0, "en": "Before we sign a seven-figure contract for a fraud engine, I'd like the board to see what we'd actually be renting.", "vi": "Trước khi mình ký một hợp đồng bảy chữ số cho hệ thống chống gian lận, tôi muốn ban lãnh đạo nhìn rõ thứ mình thực chất đang đi thuê." },
+   { "sp": 1, "en": "Renting is a loaded word. We'd be buying a capability that took the vendor a decade to build, and that your own team estimates at two years.", "vi": "'Đi thuê' là một từ đầy hàm ý đấy. Mình đang mua một năng lực mà nhà cung cấp mất cả thập kỷ để xây, và chính đội của anh ước tính phải hai năm mới làm nổi." },
+   { "sp": 0, "en": "Two years for parity, yes. But we don't need parity. Eighty percent of our fraud losses come from three patterns, and I can cover those in a quarter.", "vi": "Hai năm để ngang bằng họ thì đúng. Nhưng mình đâu cần ngang bằng. Tám mươi phần trăm thiệt hại gian lận đến từ ba mẫu hành vi, và tôi phủ được chúng trong một quý." },
+   { "sp": 1, "en": "Every build pitch I've ever heard starts with eighty percent in a quarter. Then reality arrives: edge cases, false positives, maintenance nobody budgeted, and the one engineer who understands it resigns.", "vi": "Bài thuyết trình tự xây nào tôi từng nghe cũng mở đầu bằng tám mươi phần trăm trong một quý. Rồi thực tế gõ cửa: các ca oái oăm, cảnh báo nhầm, chi phí bảo trì không ai dự trù, và người kỹ sư duy nhất hiểu hệ thống thì nộp đơn nghỉ." },
+   { "sp": 0, "en": "All fair, which is why I've costed the boring parts: a two-person team, permanently, run as a product with a roadmap rather than a side project.", "vi": "Đều xác đáng cả, nên tôi đã tính giá luôn phần nhàm chán: một đội hai người, duy trì lâu dài, vận hành như một sản phẩm có roadmap chứ không phải dự án tay trái." },
+   { "sp": 1, "en": "Permanently is the word the board will hear. The vendor's price is painful, but at least it's a known quantity with an exit clause.", "vi": "'Lâu dài' chính là từ ban lãnh đạo sẽ nghe rõ nhất. Giá của nhà cung cấp thì xót thật, nhưng ít ra đó là một đại lượng đã biết, kèm điều khoản thoát." },
+   { "sp": 0, "en": "Is it known, though? Their pricing scales with transaction volume. Model our growth plan and the fee triples in three years, precisely when ripping it out has become unthinkable.", "vi": "Nhưng có thật là 'đã biết' không? Giá của họ leo theo khối lượng giao dịch. Cứ chiếu theo kế hoạch tăng trưởng của mình thì ba năm nữa phí tăng gấp ba, đúng vào lúc việc gỡ nó ra đã trở thành điều không tưởng." },
+   { "sp": 1, "en": "Vendor lock-in cuts both ways. Your in-house engine locks us into a team, and teams are harder to renegotiate with than vendors.", "vi": "Lock-in với nhà cung cấp là con dao hai lưỡi mà. Hệ thống tự xây của anh thì trói mình vào một đội ngũ, và đàm phán lại với con người còn khó hơn với nhà cung cấp." },
+   { "sp": 0, "en": "Then let me offer the unglamorous middle. Buy now on a strict two-year term, and in parallel my team builds only the data layer, the part every option needs, so that at renewal we negotiate from strength instead of dependence.", "vi": "Vậy để tôi đưa ra phương án ở giữa, chẳng hào nhoáng gì. Mua ngay với kỳ hạn hai năm chặt chẽ, song song đó đội tôi chỉ xây tầng dữ liệu, phần mà phương án nào cũng cần, để đến kỳ gia hạn mình đàm phán từ thế mạnh chứ không phải thế phụ thuộc." },
+   { "sp": 1, "en": "You're conceding the purchase to win the architecture.", "vi": "Anh đang nhượng thương vụ mua để thắng ván kiến trúc." },
+   { "sp": 0, "en": "I'm conceding the timeline. On fraud, every month of delay is real money; my pride can wait, the P&L can't.", "vi": "Tôi nhượng về tiến độ thôi. Với gian lận, mỗi tháng chậm trễ là tiền thật; lòng tự ái của tôi chờ được, chứ báo cáo lãi lỗ thì không." },
+   { "sp": 1, "en": "That's the first version of this argument I can carry into the boardroom without picking a side. Write it up as a joint recommendation.", "vi": "Đây là phiên bản đầu tiên của cuộc tranh luận này mà tôi có thể mang vào phòng họp mà không phải chọn phe. Anh viết nó thành một bản khuyến nghị chung đi." },
+   { "sp": 0, "en": "You'll have it on Thursday, with the renewal risks in bold rather than in a footnote.", "vi": "Thứ Năm chị sẽ có, với các rủi ro khi gia hạn được in đậm thay vì giấu trong chú thích." }
+  ]
+ },
+ {
+  "id": "dlg-it-sla-negotiation",
+  "level": 4,
+  "topic": "it",
+  "title_en": "Negotiating the SLA line by line",
+  "title_vi": "Đàm phán SLA từng dòng một",
+  "speakers": ["Oanh", "Richard"],
+  "turns": [
+   { "sp": 1, "en": "Your standard SLA offers 99.5 percent uptime. Our procurement won't even table anything below three nines.", "vi": "SLA tiêu chuẩn của chị cam kết uptime 99,5 phần trăm. Phòng mua sắm bên tôi thậm chí không đưa ra bàn bất cứ thứ gì dưới ba số chín." },
+   { "sp": 0, "en": "Three nines is forty-three minutes of downtime a month. We can commit to that for the API, but not for the reporting module, and I'd rather tell you now than surprise you during an outage.", "vi": "Ba số chín nghĩa là bốn mươi ba phút downtime mỗi tháng. Bọn tôi cam kết được mức đó cho API, nhưng không cam kết được cho module báo cáo, và tôi thà nói với anh bây giờ còn hơn để anh bất ngờ giữa một sự cố." },
+   { "sp": 1, "en": "I appreciate the candour, though it does invite the question of why the reporting module is so fragile.", "vi": "Tôi ghi nhận sự thẳng thắn, dù nó cũng gợi ngay câu hỏi vì sao module báo cáo lại mong manh đến vậy." },
+   { "sp": 0, "en": "It leans on a third-party data warehouse whose own SLA is two nines. I can't resell a guarantee stronger than the one I'm buying; that's how vendors end up writing cheques instead of software.", "vi": "Nó tựa vào một data warehouse bên thứ ba mà SLA của họ chỉ có hai số chín. Tôi không thể bán lại một cam kết mạnh hơn cái tôi đang mua vào; làm thế thì nhà cung cấp rốt cuộc chỉ ngồi viết séc bồi thường thay vì viết phần mềm." },
+   { "sp": 1, "en": "Then carve it out explicitly. My board reads headlines, not appendices; if the dashboard is dark, the system is down as far as they're concerned.", "vi": "Vậy thì tách hẳn nó ra thành điều khoản riêng. Ban lãnh đạo bên tôi đọc tít lớn chứ không đọc phụ lục; dashboard mà tối đèn thì với họ nghĩa là cả hệ thống sập." },
+   { "sp": 0, "en": "Understood. What if reporting carries a degraded-mode commitment instead: data may lag up to four hours, but the dashboards never go dark?", "vi": "Tôi hiểu. Vậy nếu phần báo cáo mang một cam kết kiểu chạy chậm: dữ liệu có thể trễ tối đa bốn giờ, nhưng dashboard không bao giờ tối đèn?" },
+   { "sp": 1, "en": "Stale but standing. I can sell that internally, provided the lag is visible on screen rather than discovered in an argument.", "vi": "Cũ nhưng vẫn đứng vững. Cái đó tôi thuyết phục nội bộ được, miễn là độ trễ hiện rõ trên màn hình chứ không phải để đến lúc cãi nhau mới lộ ra." },
+   { "sp": 0, "en": "Agreed, we'll timestamp every widget. Now, penalties. Your draft asks for service credits and consequential damages, and the second one is a non-starter.", "vi": "Đồng ý, bọn tôi sẽ đóng dấu thời gian lên từng widget. Giờ đến phần phạt. Bản nháp của anh đòi cả tín dụng dịch vụ lẫn bồi thường thiệt hại gián tiếp, và khoản thứ hai là miễn bàn." },
+   { "sp": 1, "en": "Consequential damages are how we keep vendors honest.", "vi": "Bồi thường gián tiếp là cách bọn tôi giữ cho nhà cung cấp trung thực." },
+   { "sp": 0, "en": "They're how you keep vendors uninsurable. No provider our size signs unlimited liability. What I can offer is escalating credits up to twenty percent of the monthly fee, plus a termination right after three breaches in any twelve months.", "vi": "Nó là cách khiến nhà cung cấp không mua nổi bảo hiểm thì đúng hơn. Không công ty nào cỡ bọn tôi ký trách nhiệm vô hạn cả. Thứ tôi đưa ra được là tín dụng luỹ tiến tới hai mươi phần trăm phí tháng, kèm quyền chấm dứt hợp đồng sau ba lần vi phạm trong bất kỳ mười hai tháng nào." },
+   { "sp": 1, "en": "Escalating credits, termination for cause, and a quarterly review with your engineers in the room, not just account managers.", "vi": "Tín dụng luỹ tiến, quyền chấm dứt có lý do, và họp rà soát hàng quý với kỹ sư của chị ngồi trong phòng, chứ không chỉ mấy anh quản lý khách hàng." },
+   { "sp": 0, "en": "Engineers in the room, agreed, provided the review looks forward at risks rather than backward at blame.", "vi": "Kỹ sư ngồi trong phòng, đồng ý, với điều kiện buổi rà soát nhìn về phía trước vào rủi ro, thay vì ngoái lại tìm người để trách." },
+   { "sp": 1, "en": "You drive a careful bargain. Send the revised schedule and I'll walk procurement through it before Friday.", "vi": "Chị mặc cả kỹ tính thật. Gửi tôi bản điều khoản sửa đổi, trước thứ Sáu tôi sẽ dẫn phòng mua sắm đi qua từng mục." }
+  ]
+ },
+ {
+  "id": "dlg-it-breach-counsel",
+  "level": 4,
+  "topic": "it",
+  "title_en": "Seventy-two hours with legal",
+  "title_vi": "Bảy mươi hai giờ cùng pháp chế",
+  "speakers": ["Vũ", "Eleanor"],
+  "turns": [
+   { "sp": 1, "en": "Walk me through what we know as facts, not suspicions. The seventy-two hour notification clock may already be running.", "vi": "Anh trình bày cho tôi những gì mình biết chắc là sự thật, không phải phỏng đoán. Cái đồng hồ bảy mươi hai giờ để thông báo có khi đã chạy rồi." },
+   { "sp": 0, "en": "Facts: an attacker used a contractor's token to query the customer API on Sunday night. Two point one million records were readable; the logs confirm about four hundred thousand were actually pulled.", "vi": "Sự thật là: kẻ tấn công dùng token của một nhà thầu để query API khách hàng đêm Chủ nhật. Hai phẩy một triệu bản ghi ở trạng thái đọc được; log xác nhận khoảng bốn trăm nghìn thực sự bị kéo đi." },
+   { "sp": 1, "en": "Readable and pulled live in different legal universes. Keep those numbers separate in every document, and route every draft through me for privilege.", "vi": "'Đọc được' và 'bị kéo đi' nằm ở hai vũ trụ pháp lý khác nhau. Anh giữ hai con số đó tách bạch trong mọi tài liệu, và mọi bản nháp đều phải đi qua tôi để giữ đặc quyền luật sư." },
+   { "sp": 0, "en": "Understood. The token is dead, and the endpoint has been behind a second factor since six this morning.", "vi": "Rõ. Token đã bị vô hiệu, và endpoint đó nằm sau lớp xác thực thứ hai từ sáu giờ sáng nay." },
+   { "sp": 1, "en": "Was the data encrypted?", "vi": "Dữ liệu có được mã hoá không?" },
+   { "sp": 0, "en": "In transit and at rest, yes, but that's cold comfort: the token granted legitimate decrypted access. Encryption doesn't help when the front door opens.", "vi": "Cả trên đường truyền lẫn khi lưu trữ, có. Nhưng đó là niềm an ủi lạnh lẽo: cái token cấp quyền truy cập hợp lệ, đã giải mã sẵn. Mã hoá chẳng giúp gì khi cửa chính mở toang." },
+   { "sp": 1, "en": "Then don't mention encryption in the notification as if it mitigates anything; regulators read that as spin. What categories of data are in those four hundred thousand records?", "vi": "Vậy thì đừng nhắc đến mã hoá trong thông báo như thể nó giảm nhẹ được gì; cơ quan quản lý đọc câu đó ra thành nguỵ biện. Bốn trăm nghìn bản ghi kia gồm những loại dữ liệu nào?" },
+   { "sp": 0, "en": "Names, phone numbers, and purchase history. No card numbers, no passwords, no government IDs.", "vi": "Tên, số điện thoại và lịch sử mua hàng. Không số thẻ, không mật khẩu, không giấy tờ tuỳ thân." },
+   { "sp": 1, "en": "That keeps us out of the worst tier, but notification is still the likely answer. My position: we notify the regulator within the window, and affected customers the same week, before a journalist does it for us.", "vi": "Nhờ vậy mình tránh được khung nặng nhất, nhưng khả năng cao vẫn phải thông báo. Quan điểm của tôi: thông báo cơ quan quản lý trong thời hạn, và khách hàng bị ảnh hưởng ngay trong tuần, trước khi một nhà báo làm việc đó thay mình." },
+   { "sp": 0, "en": "Sales will push back hard. The enterprise renewals all land this month.", "vi": "Bên sales sẽ phản ứng dữ lắm đấy. Các hợp đồng enterprise đều gia hạn trong tháng này." },
+   { "sp": 1, "en": "Sales would rather explain a breach letter than a cover-up story; they just don't know it yet. I'll handle that conversation.", "vi": "Bên sales thà đi giải thích một lá thư thông báo sự cố còn hơn một phóng sự về chuyện che giấu; chỉ là họ chưa nhận ra thôi. Cuộc nói chuyện đó để tôi lo." },
+   { "sp": 0, "en": "One complication. The contractor's firm wants to run its own forensics before admitting the token was theirs.", "vi": "Có một rắc rối. Công ty của nhà thầu muốn tự điều tra số trước đã, rồi mới thừa nhận token đó là của họ." },
+   { "sp": 1, "en": "Of course they do. Their contract has a cooperation clause; I'll remind them of it gently once, then formally. Your job is the timeline: every action, timestamped, boring, and true.", "vi": "Dĩ nhiên là họ muốn thế. Hợp đồng của họ có điều khoản hợp tác; tôi sẽ nhắc họ nhẹ nhàng một lần, rồi sau đó bằng văn bản chính thức. Việc của anh là cái timeline: mọi hành động, có dấu thời gian, khô khan, và đúng sự thật." },
+   { "sp": 0, "en": "Boring and true I can do. You'll have it tonight.", "vi": "Khô khan và đúng sự thật thì tôi làm được. Tối nay chị sẽ có." }
+  ]
+ },
+ {
+  "id": "dlg-it-ai-strategy",
+  "level": 4,
+  "topic": "it",
+  "title_en": "An AI strategy without the theatre",
+  "title_vi": "Chiến lược AI không cần sân khấu",
+  "speakers": ["Châu", "Nathan"],
+  "turns": [
+   { "sp": 1, "en": "The board wants an AI strategy by next month. Between us, I suspect what they really want is a slide with the word AI on it.", "vi": "Hội đồng muốn có chiến lược AI trước tháng sau. Nói riêng giữa mình thôi, tôi ngờ rằng thứ họ thật sự muốn là một cái slide có chữ AI trên đó." },
+   { "sp": 0, "en": "Then let's give them the slide and keep the substance for ourselves. The honest version is unglamorous: our data is our moat, and right now the moat is a swamp.", "vi": "Vậy thì mình cứ đưa họ cái slide, còn phần thực chất giữ lại cho mình. Phiên bản thành thật thì chẳng hào nhoáng gì: dữ liệu là con hào phòng thủ của mình, mà hiện tại con hào đó là một cái đầm lầy." },
+   { "sp": 1, "en": "Colourful. How much of a swamp are we talking about?", "vi": "Ví von màu mè đấy. Đầm lầy đến mức nào?" },
+   { "sp": 0, "en": "Three systems disagree about who a customer even is. Any model we train today will learn our inconsistencies faster than our insights.", "vi": "Ba hệ thống không thống nhất nổi với nhau một khách hàng rốt cuộc là ai. Bất kỳ model nào mình huấn luyện hôm nay sẽ học sự lộn xộn của mình nhanh hơn là học được điều gì sâu sắc." },
+   { "sp": 1, "en": "So the first year of your AI strategy contains no AI at all?", "vi": "Vậy năm đầu trong chiến lược AI của chị chẳng có tí AI nào?" },
+   { "sp": 0, "en": "It contains two models, deliberately small ones: churn prediction and support ticket routing. Boring, measurable, and shippable on messy data. Their real job is to force the plumbing to get fixed.", "vi": "Có chứ, hai model, và cố tình chọn loại nhỏ: dự đoán khách rời bỏ và phân luồng ticket hỗ trợ. Nhàm chán, đo đếm được, và ship được ngay trên dữ liệu bừa bộn. Nhiệm vụ thật của chúng là ép cái hệ thống ống nước phía dưới phải được sửa." },
+   { "sp": 1, "en": "Meanwhile our competitor is demoing a chatbot to journalists.", "vi": "Trong khi đó thì đối thủ của mình đang demo chatbot cho báo giới." },
+   { "sp": 0, "en": "And burning credibility with every hallucinated answer. I'd rather arrive six months late and trusted than first and retracted. That said, we shouldn't be absent: a narrow assistant trained on our own documentation is low-risk and visibly modern.", "vi": "Và đốt uy tín theo từng câu trả lời bịa. Tôi thà đến trễ sáu tháng mà được tin còn hơn đến đầu tiên rồi phải cải chính. Dù vậy mình cũng không nên vắng mặt: một trợ lý phạm vi hẹp huấn luyện trên chính tài liệu của mình thì rủi ro thấp mà nhìn vào vẫn thấy hợp thời." },
+   { "sp": 1, "en": "The board will ask why we don't simply buy a foundation model partnership and skip ahead.", "vi": "Hội đồng sẽ hỏi sao mình không mua thẳng quan hệ hợp tác với một foundation model để đi tắt đón đầu." },
+   { "sp": 0, "en": "We will buy one; nobody sane trains from scratch at our size. But a rented brain with our swamp for a memory is still a swamp with better grammar.", "vi": "Mình sẽ mua chứ; chẳng ai tỉnh táo lại tự huấn luyện từ đầu ở quy mô của mình. Nhưng một bộ não đi thuê mà ký ức là cái đầm lầy của mình thì vẫn là đầm lầy, chỉ có điều ngữ pháp chuẩn hơn." },
+   { "sp": 1, "en": "I'm stealing that line for the meeting. What's the number you need from me?", "vi": "Câu đó tôi mượn luôn cho buổi họp. Con số chị cần ở tôi là bao nhiêu?" },
+   { "sp": 0, "en": "Four million over eighteen months, two thirds of it on data infrastructure nobody will ever demo. That's the part I need you to defend, because it demos terribly.", "vi": "Bốn triệu trong mười tám tháng, hai phần ba dành cho hạ tầng dữ liệu mà sẽ chẳng bao giờ có ai đem ra demo. Đó là phần tôi cần anh đứng ra bảo vệ, vì đem nó đi trình diễn thì thảm lắm." },
+   { "sp": 1, "en": "Defending unphotogenic line items is most of my job. Put the swamp on slide two and the invoice on slide nine.", "vi": "Bảo vệ những hạng mục không ăn ảnh vốn là phần lớn công việc của tôi. Chị để cái đầm lầy ở slide hai, còn hoá đơn thì ở slide chín nhé." }
+  ]
+ },
+ {
+  "id": "dlg-it-tech-dd",
+  "level": 4,
+  "topic": "it",
+  "title_en": "Due diligence under the hood",
+  "title_vi": "Thẩm định kỹ thuật thương vụ M&A",
+  "speakers": ["Toàn", "Isabelle"],
+  "turns": [
+   { "sp": 0, "en": "Your data room is immaculate, which always makes me curious about what isn't in it. Shall we start with the bus factor?", "vi": "Data room của chị sạch sẽ không tì vết, và điều đó luôn khiến tôi tò mò về những gì không nằm trong đó. Ta bắt đầu với bus factor nhé?" },
+   { "sp": 1, "en": "Ask away. Though I'd note that immaculate preparation is not the same thing as concealment.", "vi": "Anh cứ hỏi. Dù tôi phải lưu ý rằng chuẩn bị chỉn chu không đồng nghĩa với che giấu." },
+   { "sp": 0, "en": "Noted, and yet. The commit history shows one engineer wrote seventy percent of the core matching engine. Is that person staying through the earn-out?", "vi": "Ghi nhận, nhưng tôi vẫn cứ tò mò. Lịch sử commit cho thấy một kỹ sư viết bảy mươi phần trăm cái engine ghép lệnh lõi. Người đó có ở lại hết giai đoạn earn-out không?" },
+   { "sp": 1, "en": "She's motivated to stay, though I'd be lying if I said her retention was contractual yet. The founder pool being negotiated is meant to cover her.", "vi": "Cô ấy có động lực ở lại, dù tôi mà bảo việc giữ chân đã nằm trong hợp đồng thì là nói dối. Quỹ cổ phần sáng lập đang đàm phán chính là để dành cho cô ấy." },
+   { "sp": 0, "en": "Then that negotiation just became my problem too. Next: your uptime page says 99.98, but the status history shows four incidents quietly labelled degraded performance.", "vi": "Vậy thì cuộc đàm phán đó vừa trở thành vấn đề của cả tôi. Tiếp: trang uptime của chị ghi 99,98, nhưng lịch sử status lại có bốn sự cố được lặng lẽ dán nhãn 'giảm hiệu năng'." },
+   { "sp": 1, "en": "Degraded is not down. Every vendor draws that line somewhere; we draw it where the checkout still completes.", "vi": "Giảm hiệu năng đâu phải là sập. Nhà cung cấp nào cũng phải vạch ranh giới đó ở đâu đó; bọn tôi vạch ở chỗ khách vẫn checkout được." },
+   { "sp": 0, "en": "A line drawn by the marketing department, I suspect. I'll re-derive availability from your raw monitoring data, assuming the data room can include it.", "vi": "Tôi ngờ là cái ranh giới đó do phòng marketing vạch. Tôi sẽ tự tính lại độ khả dụng từ dữ liệu monitoring thô, giả định là data room bổ sung được nó." },
+   { "sp": 1, "en": "It can. You'll find two of those incidents were our cloud provider's fault, for whatever that's worth.", "vi": "Bổ sung được. Anh sẽ thấy hai trong số đó là lỗi của nhà cung cấp cloud, kể ra thì cũng chẳng thay đổi được gì nhiều." },
+   { "sp": 0, "en": "It's worth exactly one architecture question: you're single-region, then?", "vi": "Nó đáng giá đúng một câu hỏi kiến trúc: vậy là bên chị chạy một region duy nhất?" },
+   { "sp": 1, "en": "Single-region, multi-zone. Full multi-region is on the roadmap, priced at about nine months of work we deliberately deferred in favour of features. I'd defend that trade-off for a company our size.", "vi": "Một region, nhiều zone. Multi-region đầy đủ nằm trên roadmap, định giá khoảng chín tháng công sức mà bọn tôi chủ động hoãn để ưu tiên tính năng. Ở quy mô công ty bọn tôi, tôi sẵn sàng bảo vệ đánh đổi đó." },
+   { "sp": 0, "en": "At your size, so would I. At ours, with our regulators, it moves to the front of the integration plan, and somebody pays for those nine months.", "vi": "Ở quy mô của chị thì tôi cũng làm vậy. Nhưng ở quy mô bọn tôi, với cơ quan quản lý của bọn tôi, nó nhảy lên đầu kế hoạch tích hợp, và sẽ có người phải trả tiền cho chín tháng đó." },
+   { "sp": 1, "en": "Which sounds like a price negotiation dressed up as an engineering discussion.", "vi": "Nghe cứ như một cuộc đàm phán giá được khoác cái áo thảo luận kỹ thuật." },
+   { "sp": 0, "en": "Most of due diligence is. My report will say the platform is sound, the team is thin in one spot, and the availability claims deserve a footnote. How you price a footnote is mercifully not my department.", "vi": "Phần lớn due diligence là vậy mà. Báo cáo của tôi sẽ viết nền tảng thì vững, đội ngũ mỏng ở đúng một chỗ, và các con số khả dụng xứng đáng có một chú thích. Còn định giá một cái chú thích thế nào thì may quá không phải việc của tôi." },
+   { "sp": 1, "en": "Fair enough. And off the record: get her a retention package before your bankers get creative with the earn-out.", "vi": "Cũng công bằng. Và nói ngoài biên bản nhé: anh lo gói giữ chân cho cô ấy trước khi mấy anh ngân hàng bên anh sáng tạo quá đà với điều khoản earn-out." }
+  ]
+ }
+]

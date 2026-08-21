@@ -1,0 +1,877 @@
+[
+ {
+  "id": "immigrant",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người nhập cư; dân nhập cư",
+  "coll": [
+   "illegal immigrant",
+   "immigrant workers",
+   "immigrant families",
+   "recent immigrant",
+   "immigrant community"
+  ]
+ },
+ {
+  "id": "likewise",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tương tự; cũng vậy",
+  "coll": [
+   "do likewise",
+   "and likewise",
+   "act likewise",
+   "likewise for the others"
+  ]
+ },
+ {
+  "id": "mathematical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc toán học; chính xác như toán",
+  "coll": [
+   "mathematical model",
+   "mathematical formula",
+   "mathematical problem",
+   "mathematical precision",
+   "mathematical proof"
+  ]
+ },
+ {
+  "id": "nut",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "hạt cứng; đai ốc; kẻ khùng",
+  "coll": [
+   "nuts and bolts",
+   "a packet of nuts",
+   "crack a nut",
+   "a tough nut to crack",
+   "nut allergy"
+  ]
+ },
+ {
+  "id": "recreation",
+  "pos": [
+   "n"
+  ],
+  "vi": "giải trí; hoạt động tiêu khiển; sự tái hiện",
+  "coll": [
+   "recreation centre",
+   "outdoor recreation",
+   "recreation area",
+   "for recreation",
+   "parks and recreation"
+  ]
+ },
+ {
+  "id": "sketch",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "phác họa; bản vẽ nháp; tiểu phẩm hài",
+  "coll": [
+   "sketch a design",
+   "rough sketch",
+   "pencil sketch",
+   "comedy sketch",
+   "sketch out a plan"
+  ]
+ },
+ {
+  "id": "spite",
+  "pos": [
+   "n",
+   "v",
+   "prep"
+  ],
+  "vi": "sự hằn học; ác ý; bất chấp (in spite of)",
+  "coll": [
+   "in spite of",
+   "out of spite",
+   "pure spite",
+   "do something out of spite"
+  ]
+ },
+ {
+  "id": "analyst",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà phân tích; chuyên viên phân tích",
+  "coll": [
+   "financial analyst",
+   "data analyst",
+   "political analyst",
+   "business analyst",
+   "industry analyst"
+  ]
+ },
+ {
+  "id": "arctic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc Bắc Cực; lạnh giá",
+  "coll": [
+   "arctic conditions",
+   "the Arctic Circle",
+   "arctic wind",
+   "arctic temperatures",
+   "arctic fox"
+  ]
+ },
+ {
+  "id": "cease",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chấm dứt; ngừng lại; đình chỉ",
+  "coll": [
+   "cease operations",
+   "cease fire",
+   "cease to exist",
+   "cease trading",
+   "never cease"
+  ]
+ },
+ {
+  "id": "elect",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "bầu chọn; bầu ra; quyết định chọn",
+  "coll": [
+   "elect a president",
+   "elect a new leader",
+   "elect representatives",
+   "president-elect",
+   "elect to do something"
+  ]
+ },
+ {
+  "id": "lobby",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sảnh chờ; nhóm vận động hành lang; vận động hành lang",
+  "coll": [
+   "hotel lobby",
+   "meet in the lobby",
+   "lobby for change",
+   "the gun lobby",
+   "lobby group"
+  ]
+ },
+ {
+  "id": "martial art",
+  "pos": [
+   "n"
+  ],
+  "vi": "võ thuật; môn võ",
+  "coll": [
+   "practise martial arts",
+   "martial arts training",
+   "learn a martial art",
+   "traditional martial art",
+   "martial arts school"
+  ]
+ },
+ {
+  "id": "modest",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khiêm tốn; vừa phải; kín đáo",
+  "coll": [
+   "modest income",
+   "modest success",
+   "be modest about",
+   "modest increase",
+   "modest proposal"
+  ]
+ },
+ {
+  "id": "navigation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự định hướng; việc điều hướng; hàng hải",
+  "coll": [
+   "satellite navigation",
+   "navigation system",
+   "navigation bar",
+   "ease of navigation",
+   "aid to navigation"
+  ]
+ },
+ {
+  "id": "profitable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sinh lời; có lãi; có ích",
+  "coll": [
+   "profitable business",
+   "highly profitable",
+   "profitable investment",
+   "profitable venture",
+   "become profitable"
+  ]
+ },
+ {
+  "id": "reasonably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "khá; hợp lý; tương đối",
+  "coll": [
+   "reasonably priced",
+   "reasonably good",
+   "reasonably well",
+   "act reasonably",
+   "reasonably expect"
+  ]
+ },
+ {
+  "id": "supplement",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phần bổ sung; thực phẩm bổ sung; bổ sung thêm",
+  "coll": [
+   "dietary supplement",
+   "vitamin supplement",
+   "take supplements",
+   "supplement your income",
+   "Sunday supplement"
+  ]
+ },
+ {
+  "id": "trunk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thân cây; cốp xe; vòi voi",
+  "coll": [
+   "tree trunk",
+   "car trunk",
+   "an elephant's trunk",
+   "trunk road",
+   "swimming trunks"
+  ]
+ },
+ {
+  "id": "varied",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đa dạng; phong phú",
+  "coll": [
+   "varied diet",
+   "varied experience",
+   "widely varied",
+   "varied background",
+   "varied selection"
+  ]
+ },
+ {
+  "id": "accordingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo đó; do đó; tương ứng",
+  "coll": [
+   "act accordingly",
+   "adjust accordingly",
+   "plan accordingly",
+   "respond accordingly",
+   "price accordingly"
+  ]
+ },
+ {
+  "id": "anchor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mỏ neo; thả neo; người dẫn bản tin",
+  "coll": [
+   "drop anchor",
+   "weigh anchor",
+   "at anchor",
+   "anchor a boat",
+   "news anchor"
+  ]
+ },
+ {
+  "id": "arch",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "vòm; mái vòm; uốn cong",
+  "coll": [
+   "a stone arch",
+   "arch your back",
+   "the arch of the foot",
+   "triumphal arch"
+  ]
+ },
+ {
+  "id": "axis",
+  "pos": [
+   "n"
+  ],
+  "vi": "trục; trục tọa độ",
+  "coll": [
+   "the x-axis",
+   "the earth's axis",
+   "horizontal axis",
+   "vertical axis",
+   "axis of rotation"
+  ]
+ },
+ {
+  "id": "badge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "huy hiệu; phù hiệu; thẻ ra vào",
+  "coll": [
+   "wear a badge",
+   "name badge",
+   "police badge",
+   "merit badge",
+   "a badge of honour"
+  ]
+ },
+ {
+  "id": "bizarre",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kỳ quặc; lạ lùng; quái dị",
+  "coll": [
+   "bizarre behaviour",
+   "bizarre coincidence",
+   "utterly bizarre",
+   "bizarre story",
+   "bizarre twist"
+  ]
+ },
+ {
+  "id": "complexity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phức tạp; độ phức tạp",
+  "coll": [
+   "the complexity of",
+   "increasing complexity",
+   "added complexity",
+   "reduce complexity",
+   "complexity of the problem"
+  ]
+ },
+ {
+  "id": "deliberately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cố ý; có chủ đích; thong thả",
+  "coll": [
+   "deliberately mislead",
+   "deliberately ignore",
+   "act deliberately",
+   "deliberately vague",
+   "deliberately provoke"
+  ]
+ },
+ {
+  "id": "dignity",
+  "pos": [
+   "n"
+  ],
+  "vi": "phẩm giá; nhân phẩm; vẻ đường hoàng",
+  "coll": [
+   "human dignity",
+   "with dignity",
+   "die with dignity",
+   "preserve one's dignity",
+   "beneath one's dignity"
+  ]
+ },
+ {
+  "id": "dimension",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chiều; kích thước; khía cạnh",
+  "coll": [
+   "three dimensions",
+   "a new dimension",
+   "the dimensions of the room",
+   "add a dimension",
+   "the fourth dimension"
+  ]
+ },
+ {
+  "id": "equation",
+  "pos": [
+   "n"
+  ],
+  "vi": "phương trình; sự cân bằng",
+  "coll": [
+   "solve an equation",
+   "quadratic equation",
+   "balance the equation",
+   "part of the equation",
+   "a simple equation"
+  ]
+ },
+ {
+  "id": "extract",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chiết xuất; trích ra; đoạn trích",
+  "coll": [
+   "vanilla extract",
+   "plant extract",
+   "extract information",
+   "extract a tooth",
+   "an extract from a book"
+  ]
+ },
+ {
+  "id": "flexibility",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự linh hoạt; tính mềm dẻo",
+  "coll": [
+   "greater flexibility",
+   "offer flexibility",
+   "lack of flexibility",
+   "flexibility and strength",
+   "workplace flexibility"
+  ]
+ },
+ {
+  "id": "goat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con dê",
+  "coll": [
+   "a herd of goats",
+   "goat's milk",
+   "goat cheese",
+   "mountain goat",
+   "billy goat"
+  ]
+ },
+ {
+  "id": "ideology",
+  "pos": [
+   "n"
+  ],
+  "vi": "hệ tư tưởng; ý thức hệ",
+  "coll": [
+   "political ideology",
+   "dominant ideology",
+   "Marxist ideology",
+   "extreme ideology",
+   "the ideology of the party"
+  ]
+ },
+ {
+  "id": "keeper",
+  "pos": [
+   "n"
+  ],
+  "vi": "người trông giữ; người chăm sóc; thủ môn",
+  "coll": [
+   "lighthouse keeper",
+   "zoo keeper",
+   "keeper of the records",
+   "he's a keeper",
+   "wicket keeper"
+  ]
+ },
+ {
+  "id": "mansion",
+  "pos": [
+   "n"
+  ],
+  "vi": "biệt thự; dinh thự",
+  "coll": [
+   "a luxury mansion",
+   "country mansion",
+   "sprawling mansion",
+   "live in a mansion",
+   "mansion house"
+  ]
+ },
+ {
+  "id": "nerves",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dây thần kinh; sự hồi hộp lo lắng",
+  "coll": [
+   "get on my nerves",
+   "nerves of steel",
+   "calm your nerves",
+   "a bundle of nerves",
+   "steady your nerves"
+  ]
+ },
+ {
+  "id": "resignation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự từ chức; đơn xin nghỉ việc; sự cam chịu",
+  "coll": [
+   "letter of resignation",
+   "hand in your resignation",
+   "accept a resignation",
+   "announce his resignation",
+   "an air of resignation"
+  ]
+ },
+ {
+  "id": "rider",
+  "pos": [
+   "n"
+  ],
+  "vi": "người cưỡi ngựa; người đi xe; điều khoản bổ sung",
+  "coll": [
+   "horse rider",
+   "motorcycle rider",
+   "experienced rider",
+   "bike rider"
+  ]
+ },
+ {
+  "id": "ritual",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nghi lễ; nghi thức; thói quen cố định",
+  "coll": [
+   "religious ritual",
+   "daily ritual",
+   "perform a ritual",
+   "ritual sacrifice",
+   "morning ritual"
+  ]
+ },
+ {
+  "id": "slam",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đóng sầm; đập mạnh; chỉ trích gay gắt",
+  "coll": [
+   "slam the door",
+   "slam on the brakes",
+   "slam into",
+   "slam down the phone",
+   "grand slam"
+  ]
+ },
+ {
+  "id": "utterly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hoàn toàn; cực kỳ",
+  "coll": [
+   "utterly ridiculous",
+   "utterly exhausted",
+   "utterly destroyed",
+   "utterly different",
+   "utterly convinced"
+  ]
+ },
+ {
+  "id": "width",
+  "pos": [
+   "n"
+  ],
+  "vi": "chiều rộng; bề ngang",
+  "coll": [
+   "the width of the room",
+   "in width",
+   "full width",
+   "shoulder width apart",
+   "length and width"
+  ]
+ },
+ {
+  "id": "aluminum",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhôm",
+  "coll": [
+   "aluminum foil",
+   "aluminum can",
+   "aluminum alloy",
+   "recycled aluminum",
+   "aluminum frame"
+  ]
+ },
+ {
+  "id": "evaluate",
+  "pos": [
+   "v"
+  ],
+  "vi": "đánh giá; thẩm định; tính giá trị",
+  "coll": [
+   "evaluate the results",
+   "evaluate performance",
+   "carefully evaluate",
+   "evaluate options",
+   "evaluate the risk"
+  ]
+ },
+ {
+  "id": "junk food",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ ăn vặt vô bổ; thức ăn rác",
+  "coll": [
+   "eat junk food",
+   "junk food diet",
+   "avoid junk food",
+   "junk food addiction"
+  ]
+ },
+ {
+  "id": "massage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mát-xa; xoa bóp",
+  "coll": [
+   "get a massage",
+   "give someone a massage",
+   "foot massage",
+   "massage therapy",
+   "deep tissue massage"
+  ]
+ },
+ {
+  "id": "pad",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "miếng đệm; tập giấy; lót đệm",
+  "coll": [
+   "a pad of paper",
+   "knee pads",
+   "mouse pad",
+   "shoulder pads",
+   "launch pad"
+  ]
+ },
+ {
+  "id": "privately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "riêng tư; kín đáo; do tư nhân",
+  "coll": [
+   "privately owned",
+   "privately funded",
+   "speak privately",
+   "privately educated",
+   "meet privately"
+  ]
+ },
+ {
+  "id": "sail",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đi thuyền; giương buồm; cánh buồm",
+  "coll": [
+   "set sail",
+   "sail across the ocean",
+   "sail a boat",
+   "under sail",
+   "full sail"
+  ]
+ },
+ {
+  "id": "seller",
+  "pos": [
+   "n"
+  ],
+  "vi": "người bán; món bán chạy",
+  "coll": [
+   "best seller",
+   "private seller",
+   "top seller",
+   "online seller",
+   "buyer and seller"
+  ]
+ },
+ {
+  "id": "tan",
+  "pos": [
+   "n",
+   "adj",
+   "v",
+   "num"
+  ],
+  "vi": "da rám nắng; màu nâu vàng; làm rám nắng",
+  "coll": [
+   "get a tan",
+   "a deep tan",
+   "tan lines",
+   "fake tan",
+   "tan leather"
+  ]
+ },
+ {
+  "id": "transparent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trong suốt; minh bạch; rõ rành rành",
+  "coll": [
+   "transparent glass",
+   "transparent process",
+   "fully transparent",
+   "transparent government",
+   "transparent material"
+  ]
+ },
+ {
+  "id": "vitamin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vitamin; sinh tố",
+  "coll": [
+   "vitamin C",
+   "take vitamins",
+   "vitamin deficiency",
+   "vitamin supplement",
+   "rich in vitamins"
+  ]
+ },
+ {
+  "id": "wheat",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "lúa mì; hạt lúa mì",
+  "coll": [
+   "wheat flour",
+   "wheat field",
+   "whole wheat",
+   "grow wheat",
+   "wheat harvest"
+  ]
+ },
+ {
+  "id": "whip",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "quất roi; cái roi da; đánh bông (kem)",
+  "coll": [
+   "crack a whip",
+   "whip the cream",
+   "whip a horse",
+   "whip out",
+   "riding whip"
+  ]
+ },
+ {
+  "id": "wipe",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lau; chùi; xóa sạch",
+  "coll": [
+   "wipe the table",
+   "wipe your feet",
+   "wipe away tears",
+   "wipe out",
+   "baby wipes"
+  ]
+ },
+ {
+  "id": "acute",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "cấp tính; gay gắt; nhạy bén",
+  "coll": [
+   "acute pain",
+   "acute shortage",
+   "acute angle",
+   "acute illness",
+   "acute awareness"
+  ]
+ },
+ {
+  "id": "considerably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đáng kể; nhiều hơn hẳn",
+  "coll": [
+   "vary considerably",
+   "considerably higher",
+   "increase considerably",
+   "differ considerably",
+   "considerably more"
+  ]
+ }
+]

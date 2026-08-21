@@ -1,0 +1,402 @@
+{
+  "anatomical": {
+    "vi": "thuộc giải phẫu; về cấu tạo cơ thể",
+    "coll": ["anatomical structure", "anatomical features", "anatomical model", "anatomical differences"]
+  },
+  "vertex": {
+    "vi": "đỉnh; điểm cao nhất; đỉnh (hình học)",
+    "coll": ["vertex of a triangle", "vertex of an angle", "vertex of a parabola", "vertex of the cone"]
+  },
+  "apostolic": {
+    "vi": "thuộc tông đồ; thuộc giáo hoàng",
+    "coll": ["apostolic succession", "apostolic tradition", "apostolic letter", "the Apostolic See"]
+  },
+  "paparazzi": {
+    "vi": "tay săn ảnh; đám phóng viên săn ảnh",
+    "coll": ["chased by paparazzi", "swarm of paparazzi", "paparazzi photos", "hounded by paparazzi"]
+  },
+  "subversive": {
+    "vi": "mang tính lật đổ; phá hoại ngầm; kẻ chống phá",
+    "coll": ["subversive activities", "subversive elements", "deeply subversive", "subversive humour"]
+  },
+  "entail": {
+    "vi": "kéo theo; đòi hỏi; bao hàm",
+    "coll": ["entail risks", "entail costs", "entail significant changes", "what the job entails"]
+  },
+  "circumcision": {
+    "vi": "phép cắt bao quy đầu; lễ cắt bì",
+    "coll": ["male circumcision", "undergo circumcision", "circumcision rates", "female circumcision"]
+  },
+  "alchemy": {
+    "vi": "thuật giả kim; phép biến hóa kỳ diệu",
+    "coll": ["medieval alchemy", "practise alchemy", "a kind of alchemy", "the alchemy of words"]
+  },
+  "feeble": {
+    "vi": "yếu ớt; èo uột; kém thuyết phục",
+    "coll": ["feeble attempt", "feeble excuse", "feeble voice", "old and feeble"]
+  },
+  "medial": {
+    "vi": "ở giữa; nằm giữa; phía trong (giải phẫu)",
+    "coll": ["medial position", "medial surface", "medial consonant", "medial line"]
+  },
+  "septic": {
+    "vi": "nhiễm trùng; nhiễm khuẩn huyết",
+    "coll": ["septic shock", "septic tank", "septic wound", "go septic"]
+  },
+  "tic": {
+    "vi": "tật máy giật; tật co giật cơ; thói quen cố hữu",
+    "coll": ["nervous tic", "facial tic", "vocal tic", "develop a tic"]
+  },
+  "crafty": {
+    "vi": "ranh mãnh; xảo quyệt; láu cá",
+    "coll": ["crafty politician", "crafty plan", "crafty move", "crafty old fox"]
+  },
+  "crusader": {
+    "vi": "người đấu tranh; quân Thập tự chinh",
+    "coll": ["crusader for justice", "anti-corruption crusader", "tireless crusader", "crusader knights"]
+  },
+  "debacle": {
+    "vi": "thất bại thảm hại; vụ đổ bể",
+    "coll": ["financial debacle", "political debacle", "complete debacle", "after the debacle"]
+  },
+  "disarm": {
+    "vi": "tước vũ khí; giải trừ quân bị; làm nguôi giận",
+    "coll": ["disarm a bomb", "disarm the rebels", "disarm criticism", "disarm a suspect"]
+  },
+  "bling": {
+    "vi": "đồ trang sức phô trương; hàng lấp lánh khoe của",
+    "coll": ["wear bling", "flashy bling", "gold bling", "bling jewellery"]
+  },
+  "translucent": {
+    "vi": "trong mờ; mờ đục; xuyên sáng nhẹ",
+    "coll": ["translucent glass", "translucent skin", "translucent plastic", "translucent material"]
+  },
+  "nomenclature": {
+    "vi": "hệ thống danh pháp; cách đặt tên",
+    "coll": ["scientific nomenclature", "binomial nomenclature", "standard nomenclature", "chemical nomenclature"]
+  },
+  "biochemical": {
+    "vi": "thuộc hóa sinh; chất hóa sinh",
+    "coll": ["biochemical reaction", "biochemical process", "biochemical analysis", "biochemical markers"]
+  },
+  "propane": {
+    "vi": "khí propan",
+    "coll": ["propane tank", "propane gas", "propane grill", "liquid propane"]
+  },
+  "redirect": {
+    "vi": "chuyển hướng; đổi hướng; sự chuyển hướng",
+    "coll": ["redirect traffic", "redirect resources", "redirect attention", "redirect the user"]
+  },
+  "clandestine": {
+    "vi": "bí mật; lén lút; vụng trộm",
+    "coll": ["clandestine meeting", "clandestine operation", "clandestine network", "clandestine affair"]
+  },
+  "kink": {
+    "vi": "chỗ xoắn gập; trục trặc nhỏ; sở thích tình dục lạ; làm xoắn lại",
+    "coll": ["kink in the hose", "work out the kinks", "iron out the kinks", "a kink in the cable"]
+  },
+  "antigen": {
+    "vi": "kháng nguyên",
+    "coll": ["antigen test", "surface antigen", "viral antigen", "antigen presentation"]
+  },
+  "carousel": {
+    "vi": "vòng quay ngựa gỗ; băng chuyền hành lý",
+    "coll": ["baggage carousel", "luggage carousel", "ride the carousel", "carousel horse"]
+  },
+  "suitability": {
+    "vi": "sự phù hợp; tính thích hợp",
+    "coll": ["assess suitability", "suitability for the job", "suitability of the site", "questions about suitability"]
+  },
+  "backlog": {
+    "vi": "công việc tồn đọng; lượng đơn tồn",
+    "coll": ["clear the backlog", "growing backlog", "backlog of orders", "backlog of cases"]
+  },
+  "defiant": {
+    "vi": "thách thức; ngang bướng; bất tuân",
+    "coll": ["defiant tone", "remain defiant", "defiant gesture", "defiant look"]
+  },
+  "reusable": {
+    "vi": "dùng lại được; tái sử dụng được",
+    "coll": ["reusable bags", "reusable container", "reusable rocket", "reusable code"]
+  },
+  "outcry": {
+    "vi": "sự phản đối kịch liệt; tiếng la ó",
+    "coll": ["public outcry", "widespread outcry", "provoke an outcry", "outcry over the decision"]
+  },
+  "schoolboy": {
+    "vi": "nam sinh; học sinh nam",
+    "coll": ["schoolboy error", "schoolboy humour", "schoolboy days", "young schoolboy"]
+  },
+  "compost": {
+    "vi": "phân hữu cơ; phân ủ; ủ phân",
+    "coll": ["compost heap", "compost bin", "garden compost", "make compost"]
+  },
+  "trot": {
+    "vi": "chạy nước kiệu; đi lon ton; nước kiệu",
+    "coll": ["at a trot", "break into a trot", "trot along", "slow trot"]
+  },
+  "scoreboard": {
+    "vi": "bảng tỷ số; bảng điểm",
+    "coll": ["electronic scoreboard", "look at the scoreboard", "on the scoreboard", "the scoreboard shows"]
+  },
+  "fragrant": {
+    "vi": "thơm ngát; thơm dịu",
+    "coll": ["fragrant flowers", "fragrant rice", "fragrant herbs", "sweetly fragrant"]
+  },
+  "suggestive": {
+    "vi": "gợi ý; gợi liên tưởng; khiêu gợi",
+    "coll": ["suggestive of", "highly suggestive", "suggestive remarks", "suggestive evidence"]
+  },
+  "equatorial": {
+    "vi": "thuộc xích đạo; ở vùng xích đạo",
+    "coll": ["equatorial region", "equatorial climate", "equatorial forest", "equatorial orbit"]
+  },
+  "modernist": {
+    "vi": "theo chủ nghĩa hiện đại; nhà hiện đại chủ nghĩa",
+    "coll": ["modernist architecture", "modernist movement", "modernist writers", "modernist design"]
+  },
+  "unfavorable": {
+    "vi": "bất lợi; không thuận lợi; tiêu cực",
+    "coll": ["unfavorable conditions", "unfavorable review", "unfavorable weather", "unfavorable comparison"]
+  },
+  "caliphate": {
+    "vi": "vương quốc Hồi giáo; chế độ khalip",
+    "coll": ["Islamic caliphate", "establish a caliphate", "restore the caliphate", "the Ottoman caliphate"]
+  },
+  "elliptical": {
+    "vi": "hình elip; hình bầu dục; nói vòng vo tỉnh lược",
+    "coll": ["elliptical orbit", "elliptical shape", "elliptical galaxy", "elliptical machine"]
+  },
+  "detain": {
+    "vi": "giam giữ; tạm giữ; giữ chân",
+    "coll": ["detain a suspect", "detained by police", "detain without charge", "detain someone for questioning"]
+  },
+  "inquest": {
+    "vi": "cuộc điều tra tử vong; cuộc điều tra chính thức",
+    "coll": ["hold an inquest", "coroner's inquest", "inquest into his death", "the inquest heard"]
+  },
+  "shenanigans": {
+    "vi": "trò tinh nghịch; trò ma mãnh; chuyện mờ ám",
+    "coll": ["up to shenanigans", "financial shenanigans", "political shenanigans", "no more shenanigans"]
+  },
+  "indecent": {
+    "vi": "khiếm nhã; không đứng đắn; tục tĩu",
+    "coll": ["indecent exposure", "indecent behaviour", "indecent images", "indecent proposal"]
+  },
+  "woodwork": {
+    "vi": "đồ gỗ trong nhà; nghề mộc",
+    "coll": ["woodwork class", "painted woodwork", "come out of the woodwork", "crawl out of the woodwork"]
+  },
+  "relentlessly": {
+    "vi": "không ngừng; ráo riết; không nương tay",
+    "coll": ["relentlessly pursue", "push relentlessly", "relentlessly cheerful", "relentlessly optimistic"]
+  },
+  "rowdy": {
+    "vi": "ồn ào quậy phá; ngỗ ngược; kẻ quậy phá",
+    "coll": ["rowdy crowd", "rowdy behaviour", "rowdy fans", "get rowdy"]
+  },
+  "timeout": {
+    "vi": "thời gian chờ; hết hạn chờ; giờ nghỉ giữa trận",
+    "coll": ["connection timeout", "timeout error", "call a timeout", "timeout period"]
+  },
+  "rambling": {
+    "vi": "lan man; dài dòng; cuộc đi lang thang",
+    "coll": ["rambling speech", "long and rambling", "rambling letter", "rambling account"]
+  },
+  "vertebrae": {
+    "vi": "các đốt sống",
+    "coll": ["cervical vertebrae", "lumbar vertebrae", "fractured vertebrae", "fused vertebrae"]
+  },
+  "deformed": {
+    "vi": "dị dạng; biến dạng; méo mó",
+    "coll": ["deformed limbs", "badly deformed", "deformed skull", "deformed body"]
+  },
+  "unintentionally": {
+    "vi": "một cách vô tình; không cố ý",
+    "coll": ["unintentionally funny", "unintentionally offensive", "unintentionally reveal", "act unintentionally"]
+  },
+  "preferential": {
+    "vi": "ưu đãi; ưu tiên",
+    "coll": ["preferential treatment", "preferential rates", "preferential access", "preferential trade agreement"]
+  },
+  "forensics": {
+    "vi": "khoa học hình sự; giám định pháp y",
+    "coll": ["digital forensics", "computer forensics", "forensics team", "forensics lab"]
+  },
+  "cutoff": {
+    "vi": "mốc giới hạn; ngưỡng cắt; sự ngắt nguồn",
+    "coll": ["cutoff date", "cutoff point", "cutoff score", "power cutoff"]
+  },
+  "playhouse": {
+    "vi": "nhà hát kịch; nhà chơi đồ chơi cho trẻ",
+    "coll": ["local playhouse", "the playhouse theatre", "children's playhouse", "wooden playhouse"]
+  },
+  "oblique": {
+    "vi": "xiên; chéo; nói vòng vo",
+    "coll": ["oblique angle", "oblique line", "oblique reference", "oblique approach"]
+  },
+  "correlate": {
+    "vi": "tương quan; có liên hệ; đối chiếu",
+    "coll": ["correlate with", "strongly correlate", "correlate closely", "correlate the data"]
+  },
+  "aptitude": {
+    "vi": "năng khiếu; tố chất",
+    "coll": ["aptitude test", "natural aptitude", "aptitude for languages", "show aptitude"]
+  },
+  "defer": {
+    "vi": "hoãn lại; trì hoãn; nhường ý kiến",
+    "coll": ["defer payment", "defer a decision", "defer to someone", "defer judgement"]
+  },
+  "chainsaw": {
+    "vi": "cưa máy; cưa xích",
+    "coll": ["use a chainsaw", "start the chainsaw", "chainsaw blade", "petrol chainsaw"]
+  },
+  "unveil": {
+    "vi": "công bố; ra mắt; vén màn",
+    "coll": ["unveil a plan", "unveil a new product", "unveil a statue", "unveil details"]
+  },
+  "acidity": {
+    "vi": "độ axit; tính axit; vị chua",
+    "coll": ["soil acidity", "high acidity", "acidity level", "stomach acidity"]
+  },
+  "stiffness": {
+    "vi": "sự cứng đờ; độ cứng; sự gượng gạo",
+    "coll": ["muscle stiffness", "joint stiffness", "morning stiffness", "material stiffness"]
+  },
+  "rodent": {
+    "vi": "loài gặm nhấm",
+    "coll": ["rodent control", "rodent infestation", "small rodent", "rodent droppings"]
+  },
+  "cauliflower": {
+    "vi": "súp lơ trắng; bông cải trắng",
+    "coll": ["cauliflower rice", "roasted cauliflower", "head of cauliflower", "cauliflower cheese"]
+  },
+  "newbie": {
+    "vi": "lính mới; ma mới; tay mơ",
+    "coll": ["complete newbie", "newbie mistake", "newbie question", "newbie guide"]
+  },
+  "cheetah": {
+    "vi": "báo săn; báo gêpa",
+    "coll": ["cheetah cub", "wild cheetah", "cheetah population", "endangered cheetah"]
+  },
+  "anecdote": {
+    "vi": "giai thoại; mẩu chuyện kể",
+    "coll": ["tell an anecdote", "personal anecdote", "amusing anecdote", "share an anecdote"]
+  },
+  "clockwise": {
+    "vi": "theo chiều kim đồng hồ",
+    "coll": ["turn clockwise", "rotate clockwise", "clockwise direction", "move clockwise"]
+  },
+  "enlarge": {
+    "vi": "phóng to; mở rộng; làm to ra",
+    "coll": ["enlarge a photo", "enlarge an image", "enlarge the scope", "enlarge the building"]
+  },
+  "ethereal": {
+    "vi": "thanh thoát; huyền ảo; phi trần tục",
+    "coll": ["ethereal beauty", "ethereal voice", "ethereal quality", "ethereal light"]
+  },
+  "vocation": {
+    "vi": "thiên hướng nghề nghiệp; nghiệp; tiếng gọi tu hành",
+    "coll": ["sense of vocation", "religious vocation", "vocation for teaching", "found his vocation"]
+  },
+  "haute": {
+    "vi": "cao cấp; thượng lưu (kiểu Pháp)",
+    "coll": ["haute couture", "haute cuisine", "haute bourgeoisie"]
+  },
+  "insurgent": {
+    "vi": "quân nổi dậy; phiến quân; nổi dậy chống chính quyền",
+    "coll": ["insurgent groups", "insurgent attacks", "armed insurgents", "insurgent forces"]
+  },
+  "anew": {
+    "vi": "lại từ đầu; một lần nữa",
+    "coll": ["start anew", "begin anew", "born anew", "create anew"]
+  },
+  "appease": {
+    "vi": "xoa dịu; làm nguôi; nhân nhượng",
+    "coll": ["appease the gods", "appease critics", "appease anger", "appease public opinion"]
+  },
+  "fanfare": {
+    "vi": "sự phô trương ầm ĩ; khúc kèn chào mừng",
+    "coll": ["with great fanfare", "without fanfare", "much fanfare", "trumpet fanfare"]
+  },
+  "skier": {
+    "vi": "người trượt tuyết",
+    "coll": ["expert skier", "downhill skier", "keen skier", "Olympic skier"]
+  },
+  "giver": {
+    "vi": "người cho; người tặng",
+    "coll": ["generous giver", "gift giver", "care giver", "a giver, not a taker"]
+  },
+  "bespoke": {
+    "vi": "đặt làm riêng; may đo",
+    "coll": ["bespoke suit", "bespoke tailoring", "bespoke software", "bespoke service"]
+  },
+  "permissible": {
+    "vi": "được phép; chấp nhận được",
+    "coll": ["permissible limit", "legally permissible", "permissible level", "permissible use"]
+  },
+  "slumber": {
+    "vi": "giấc ngủ; ngủ say; trạng thái ngủ yên",
+    "coll": ["deep slumber", "peaceful slumber", "fall into slumber", "slumber party"]
+  },
+  "assassinate": {
+    "vi": "ám sát",
+    "coll": ["assassinate the president", "plot to assassinate", "attempt to assassinate", "assassinate a leader"]
+  },
+  "rudder": {
+    "vi": "bánh lái; bánh lái đuôi máy bay",
+    "coll": ["the ship's rudder", "turn the rudder", "rudder pedals", "broken rudder"]
+  },
+  "equestrian": {
+    "vi": "thuộc cưỡi ngựa; kỵ sĩ",
+    "coll": ["equestrian events", "equestrian sports", "equestrian statue", "equestrian centre"]
+  },
+  "deranged": {
+    "vi": "mất trí; điên loạn; rối loạn tâm thần",
+    "coll": ["mentally deranged", "deranged killer", "deranged mind", "completely deranged"]
+  },
+  "demeanor": {
+    "vi": "phong thái; thái độ cư xử",
+    "coll": ["calm demeanor", "professional demeanor", "friendly demeanor", "change in demeanor"]
+  },
+  "deplorable": {
+    "vi": "đáng chê trách; tồi tệ; thảm hại",
+    "coll": ["deplorable conditions", "deplorable behaviour", "deplorable act", "in a deplorable state"]
+  },
+  "palsy": {
+    "vi": "chứng liệt; bệnh bại liệt",
+    "coll": ["cerebral palsy", "Bell's palsy", "facial palsy", "suffer from palsy"]
+  },
+  "hooray": {
+    "vi": "hoan hô; tiếng reo mừng",
+    "coll": ["hip hip hooray", "shout hooray", "hooray for you", "let out a hooray"]
+  },
+  "whoop": {
+    "vi": "tiếng hò reo; hò hét reo mừng",
+    "coll": ["let out a whoop", "whoop of joy", "whoop and holler", "whoop it up"]
+  },
+  "expanse": {
+    "vi": "khoảng bao la; vùng rộng mênh mông",
+    "coll": ["vast expanse", "wide expanse", "expanse of water", "open expanse"]
+  },
+  "clockwork": {
+    "vi": "bộ máy dây cót; chạy đều như máy",
+    "coll": ["like clockwork", "run like clockwork", "clockwork mechanism", "clockwork toy"]
+  },
+  "revamp": {
+    "vi": "cải tổ; làm mới; sự nâng cấp",
+    "coll": ["revamp the system", "revamp the website", "revamp the menu", "complete revamp"]
+  },
+  "misogyny": {
+    "vi": "sự thù ghét phụ nữ; tư tưởng khinh miệt phụ nữ",
+    "coll": ["casual misogyny", "rampant misogyny", "accused of misogyny", "misogyny in the media"]
+  },
+  "obscurity": {
+    "vi": "sự vô danh; sự tối nghĩa; bóng tối mờ mịt",
+    "coll": ["fade into obscurity", "rise from obscurity", "live in obscurity", "relative obscurity"]
+  },
+  "staunch": {
+    "vi": "kiên định; trung thành; cầm máu",
+    "coll": ["staunch supporter", "staunch ally", "staunch defender", "staunch the bleeding"]
+  }
+}

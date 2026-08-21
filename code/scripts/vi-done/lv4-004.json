@@ -1,0 +1,402 @@
+{
+  "rustic": {
+    "vi": "mộc mạc kiểu đồng quê; thô sơ; dân quê",
+    "coll": ["rustic charm", "rustic style", "rustic furniture", "rustic cabin", "rustic bread"]
+  },
+  "scarcity": {
+    "vi": "sự khan hiếm; tình trạng thiếu hụt",
+    "coll": ["water scarcity", "food scarcity", "scarcity of resources", "labour scarcity", "scarcity value"]
+  },
+  "loosen": {
+    "vi": "nới lỏng; làm lỏng ra",
+    "coll": ["loosen the screw", "loosen restrictions", "loosen your grip", "loosen up", "loosen the tie"]
+  },
+  "percussion": {
+    "vi": "bộ gõ (nhạc cụ); sự va đập",
+    "coll": ["percussion instruments", "percussion section", "play percussion", "percussion cap", "percussion ensemble"]
+  },
+  "registrar": {
+    "vi": "cán bộ hộ tịch; người quản lý hồ sơ; bác sĩ nội trú cao cấp",
+    "coll": ["the registrar's office", "domain registrar", "university registrar", "register with the registrar", "hospital registrar"]
+  },
+  "curfew": {
+    "vi": "lệnh giới nghiêm; giờ giới nghiêm",
+    "coll": ["impose a curfew", "lift the curfew", "night curfew", "break the curfew", "curfew hours"]
+  },
+  "decidedly": {
+    "vi": "rõ rệt, hẳn hoi; dứt khoát",
+    "coll": ["decidedly different", "decidedly odd", "decidedly better", "decidedly unimpressed", "decidedly mixed"]
+  },
+  "bandit": {
+    "vi": "kẻ cướp, thổ phỉ",
+    "coll": ["armed bandit", "one-armed bandit", "band of bandits", "bandit country", "highway bandit"]
+  },
+  "triumphant": {
+    "vi": "chiến thắng, khải hoàn; hân hoan thắng lợi",
+    "coll": ["triumphant return", "a triumphant smile", "triumphant victory", "triumphant moment", "emerge triumphant"]
+  },
+  "antitrust": {
+    "vi": "chống độc quyền",
+    "coll": ["antitrust law", "antitrust lawsuit", "antitrust regulators", "antitrust violation", "antitrust case"]
+  },
+  "saturation": {
+    "vi": "sự bão hòa; độ đậm màu",
+    "coll": ["market saturation", "saturation point", "colour saturation", "reach saturation", "saturation level"]
+  },
+  "motherhood": {
+    "vi": "thiên chức làm mẹ; việc làm mẹ",
+    "coll": ["the joys of motherhood", "single motherhood", "prepare for motherhood", "motherhood and apple pie", "adjust to motherhood"]
+  },
+  "lifespan": {
+    "vi": "tuổi thọ; vòng đời sử dụng",
+    "coll": ["average lifespan", "extend the lifespan", "human lifespan", "short lifespan", "lifespan of the product"]
+  },
+  "longitudinal": {
+    "vi": "theo chiều dọc; kéo dài theo thời gian",
+    "coll": ["longitudinal study", "longitudinal data", "longitudinal section", "longitudinal research", "longitudinal axis"]
+  },
+  "moan": {
+    "vi": "tiếng rên; rên rỉ; càu nhàu",
+    "coll": ["a low moan", "moan in pain", "moan about the weather", "let out a moan", "stop moaning"]
+  },
+  "murderous": {
+    "vi": "giết người, hung tàn; ác liệt",
+    "coll": ["murderous rage", "murderous attack", "murderous regime", "murderous intent", "murderous look"]
+  },
+  "bipartisan": {
+    "vi": "lưỡng đảng; được cả hai đảng ủng hộ",
+    "coll": ["bipartisan support", "bipartisan agreement", "bipartisan bill", "bipartisan effort", "bipartisan committee"]
+  },
+  "brokerage": {
+    "vi": "công ty môi giới; phí môi giới",
+    "coll": ["brokerage firm", "online brokerage", "brokerage account", "brokerage fees", "brokerage services"]
+  },
+  "roadway": {
+    "vi": "lòng đường; mặt đường xe chạy",
+    "coll": ["on the roadway", "roadway surface", "block the roadway", "roadway maintenance", "narrow roadway"]
+  },
+  "porous": {
+    "vi": "xốp, thấm nước; đầy kẽ hở",
+    "coll": ["porous rock", "porous material", "porous border", "highly porous", "porous surface"]
+  },
+  "nonstop": {
+    "vi": "liên tục không nghỉ; bay thẳng",
+    "coll": ["nonstop flight", "talk nonstop", "work nonstop", "nonstop service", "nonstop action"]
+  },
+  "enlist": {
+    "vi": "nhập ngũ; tranh thủ sự giúp đỡ",
+    "coll": ["enlist in the army", "enlist support", "enlist the help of", "enlist volunteers", "enlist as a soldier"]
+  },
+  "launcher": {
+    "vi": "bệ phóng; trình khởi chạy",
+    "coll": ["rocket launcher", "grenade launcher", "missile launcher", "app launcher", "satellite launcher"]
+  },
+  "legality": {
+    "vi": "tính hợp pháp",
+    "coll": ["question the legality", "the legality of the war", "challenge the legality", "doubts about legality", "legality of the decision"]
+  },
+  "div": {
+    "vi": "thẻ div (HTML); phép chia lấy phần nguyên",
+    "coll": ["a div element", "wrap it in a div", "nested divs", "div tag", "close the div"]
+  },
+  "contour": {
+    "vi": "đường viền, đường nét; đường đồng mức",
+    "coll": ["contour line", "contour map", "the contours of the body", "follow the contours", "contour of the land"]
+  },
+  "identifiable": {
+    "vi": "nhận dạng được; xác định được",
+    "coll": ["easily identifiable", "personally identifiable information", "clearly identifiable", "identifiable features", "readily identifiable"]
+  },
+  "interracial": {
+    "vi": "giữa các chủng tộc; liên chủng tộc",
+    "coll": ["interracial marriage", "interracial couple", "interracial relationships", "interracial adoption", "interracial dating"]
+  },
+  "undisclosed": {
+    "vi": "không tiết lộ; giấu kín",
+    "coll": ["undisclosed sum", "undisclosed amount", "undisclosed location", "for undisclosed reasons", "undisclosed fee"]
+  },
+  "racially": {
+    "vi": "về mặt chủng tộc",
+    "coll": ["racially motivated", "racially diverse", "racially segregated", "racially charged", "racially abusive"]
+  },
+  "sizable": {
+    "vi": "khá lớn, đáng kể",
+    "coll": ["a sizable amount", "sizable chunk", "sizable majority", "sizable increase", "sizable audience"]
+  },
+  "populist": {
+    "vi": "dân túy; chính trị gia dân túy",
+    "coll": ["populist leader", "populist rhetoric", "populist party", "populist appeal", "right-wing populist"]
+  },
+  "catholicism": {
+    "vi": "đạo Công giáo; tính bao dung rộng mở",
+    "coll": ["convert to Catholicism", "Roman Catholicism", "practise Catholicism", "the rise of Catholicism", "embrace Catholicism"]
+  },
+  "crippling": {
+    "vi": "gây tê liệt, tàn phá nặng nề",
+    "coll": ["crippling debt", "crippling pain", "crippling sanctions", "crippling blow", "crippling costs"]
+  },
+  "metadata": {
+    "vi": "siêu dữ liệu; dữ liệu mô tả",
+    "coll": ["file metadata", "metadata tags", "collect metadata", "metadata standards", "strip the metadata"]
+  },
+  "thirteenth": {
+    "vi": "thứ mười ba; một phần mười ba",
+    "coll": ["the thirteenth century", "on the thirteenth", "thirteenth birthday", "thirteenth place", "Friday the thirteenth"]
+  },
+  "archaic": {
+    "vi": "cổ xưa, lỗi thời; cổ (từ ngữ)",
+    "coll": ["archaic language", "archaic laws", "an archaic system", "archaic word", "seem archaic"]
+  },
+  "overrun": {
+    "vi": "tràn ngập, chiếm lĩnh; vượt quá (thời gian, ngân sách)",
+    "coll": ["overrun by tourists", "overrun with weeds", "overrun the budget", "the meeting overran", "cost overrun"]
+  },
+  "cookbook": {
+    "vi": "sách dạy nấu ăn",
+    "coll": ["a vegetarian cookbook", "write a cookbook", "cookbook recipe", "family cookbook", "bestselling cookbook"]
+  },
+  "hippie": {
+    "vi": "kiểu hippie; sống phóng khoáng lập dị",
+    "coll": ["hippie culture", "hippie commune", "hippie style", "hippie movement", "old hippie van"]
+  },
+  "baffled": {
+    "vi": "bối rối khó hiểu; ngơ ngác",
+    "coll": ["completely baffled", "baffled by the question", "left baffled", "baffled expression", "scientists are baffled"]
+  },
+  "lattice": {
+    "vi": "mắt lưới, giàn ô vuông; mạng tinh thể",
+    "coll": ["lattice structure", "crystal lattice", "lattice fence", "lattice pattern", "lattice window"]
+  },
+  "analogous": {
+    "vi": "tương tự; giống về chức năng",
+    "coll": ["analogous to", "analogous situation", "broadly analogous", "analogous case", "analogous structures"]
+  },
+  "anarchist": {
+    "vi": "người theo chủ nghĩa vô chính phủ",
+    "coll": ["anarchist movement", "anarchist group", "self-proclaimed anarchist", "anarchist ideas", "anarchist collective"]
+  },
+  "dysfunctional": {
+    "vi": "rối loạn chức năng; trục trặc, bất ổn",
+    "coll": ["dysfunctional family", "dysfunctional relationship", "dysfunctional system", "deeply dysfunctional", "dysfunctional government"]
+  },
+  "porno": {
+    "vi": "phim đen, phim khiêu dâm; thuộc phim đen",
+    "coll": ["porno movie", "watch porno", "porno magazine", "porno star", "soft porno"]
+  },
+  "fleece": {
+    "vi": "áo lông cừu, vải nỉ lông; bộ lông cừu; chặt chém",
+    "coll": ["fleece jacket", "a sheep's fleece", "fleece lining", "fleece the customers", "polar fleece"]
+  },
+  "incest": {
+    "vi": "loạn luân",
+    "coll": ["commit incest", "incest taboo", "accused of incest", "victim of incest", "incest laws"]
+  },
+  "fodder": {
+    "vi": "cỏ khô cho gia súc; thứ để đem ra khai thác",
+    "coll": ["cannon fodder", "animal fodder", "fodder for the tabloids", "fodder crops", "provide fodder for"]
+  },
+  "realty": {
+    "vi": "bất động sản",
+    "coll": ["realty company", "realty market", "commercial realty", "realty agent", "realty investment"]
+  },
+  "incarceration": {
+    "vi": "sự giam giữ; việc bỏ tù",
+    "coll": ["mass incarceration", "years of incarceration", "rate of incarceration", "wrongful incarceration", "incarceration rates"]
+  },
+  "weaponry": {
+    "vi": "vũ khí trang bị; khí giới",
+    "coll": ["modern weaponry", "nuclear weaponry", "advanced weaponry", "heavy weaponry", "supply weaponry"]
+  },
+  "wreath": {
+    "vi": "vòng hoa; vòng nguyệt quế",
+    "coll": ["lay a wreath", "Christmas wreath", "funeral wreath", "laurel wreath", "wreath of flowers"]
+  },
+  "feudal": {
+    "vi": "phong kiến",
+    "coll": ["feudal system", "feudal lord", "feudal society", "feudal era", "feudal obligations"]
+  },
+  "plentiful": {
+    "vi": "dồi dào; nhiều vô kể",
+    "coll": ["plentiful supply", "plentiful harvest", "food is plentiful", "plentiful resources", "plentiful rainfall"]
+  },
+  "sensual": {
+    "vi": "gợi cảm, khêu gợi; thuộc giác quan",
+    "coll": ["sensual pleasure", "sensual voice", "sensual experience", "sensual dance", "deeply sensual"]
+  },
+  "equitable": {
+    "vi": "công bằng, hợp lẽ",
+    "coll": ["equitable distribution", "equitable treatment", "equitable solution", "fair and equitable", "equitable access"]
+  },
+  "intrigue": {
+    "vi": "âm mưu, mưu đồ; làm tò mò thích thú",
+    "coll": ["political intrigue", "court intrigue", "intrigue and scandal", "intrigued by the idea", "an air of intrigue"]
+  },
+  "pasture": {
+    "vi": "đồng cỏ chăn thả; chăn thả",
+    "coll": ["graze in the pasture", "green pastures", "pasture land", "put out to pasture", "open pasture"]
+  },
+  "afterlife": {
+    "vi": "kiếp sau, thế giới bên kia",
+    "coll": ["believe in an afterlife", "life after death", "the afterlife awaits", "concept of the afterlife", "journey to the afterlife"]
+  },
+  "soften": {
+    "vi": "làm mềm; làm dịu đi; giảm nhẹ",
+    "coll": ["soften the blow", "soften the butter", "soften your voice", "soften the impact", "soften the tone"]
+  },
+  "fumble": {
+    "vi": "lóng ngóng mò mẫm; làm tuột tay",
+    "coll": ["fumble in his pocket", "fumble for words", "fumble the ball", "fumble with the keys", "fumble around"]
+  },
+  "occupancy": {
+    "vi": "tỉ lệ lấp đầy; việc sử dụng chỗ ở",
+    "coll": ["occupancy rate", "hotel occupancy", "maximum occupancy", "single occupancy", "occupancy levels"]
+  },
+  "wildfire": {
+    "vi": "cháy rừng; lửa lan nhanh",
+    "coll": ["spread like wildfire", "wildfire season", "battle a wildfire", "devastating wildfire", "wildfire smoke"]
+  },
+  "censor": {
+    "vi": "kiểm duyệt; người kiểm duyệt",
+    "coll": ["censor the news", "government censors", "heavily censored", "censor the internet", "film censor"]
+  },
+  "unbeaten": {
+    "vi": "bất bại; chưa từng thua",
+    "coll": ["remain unbeaten", "unbeaten record", "unbeaten run", "unbeaten in the league", "unbeaten team"]
+  },
+  "attribution": {
+    "vi": "sự quy cho, ghi nguồn; việc xác định tác giả",
+    "coll": ["without attribution", "proper attribution", "attribution of blame", "source attribution", "attribution error"]
+  },
+  "understatement": {
+    "vi": "cách nói giảm nhẹ; lối nói khiêm tốn",
+    "coll": ["a masterpiece of understatement", "that's an understatement", "British understatement", "gross understatement", "typical understatement"]
+  },
+  "undesirable": {
+    "vi": "không mong muốn; đáng ngại; phần tử bất hảo",
+    "coll": ["undesirable side effects", "undesirable consequences", "highly undesirable", "undesirable behaviour", "undesirable elements"]
+  },
+  "oncology": {
+    "vi": "ung thư học; khoa ung bướu",
+    "coll": ["oncology department", "medical oncology", "oncology unit", "pediatric oncology", "oncology nurse"]
+  },
+  "topless": {
+    "vi": "để ngực trần; không mui, không nóc",
+    "coll": ["topless beach", "sunbathe topless", "topless bar", "go topless", "topless model"]
+  },
+  "satirical": {
+    "vi": "châm biếm; trào phúng",
+    "coll": ["satirical magazine", "satirical cartoon", "satirical novel", "satirical comedy", "satirical take on"]
+  },
+  "mastermind": {
+    "vi": "kẻ chủ mưu; bộ óc chủ chốt; chủ mưu dàn dựng",
+    "coll": ["the mastermind behind", "criminal mastermind", "mastermind the plot", "mastermind the attack", "evil mastermind"]
+  },
+  "cosmopolitan": {
+    "vi": "đa quốc gia, quốc tế hóa; người tứ hải",
+    "coll": ["cosmopolitan city", "cosmopolitan atmosphere", "cosmopolitan outlook", "truly cosmopolitan", "cosmopolitan population"]
+  },
+  "pathological": {
+    "vi": "bệnh hoạn, thành bệnh; thuộc bệnh lý",
+    "coll": ["pathological liar", "pathological condition", "pathological fear", "pathological changes", "pathological gambling"]
+  },
+  "slump": {
+    "vi": "sụt giảm mạnh; đổ sụp xuống; đợt suy thoái",
+    "coll": ["economic slump", "sales slump", "slump in prices", "slump into a chair", "a prolonged slump"]
+  },
+  "revisit": {
+    "vi": "xem xét lại; thăm lại",
+    "coll": ["revisit the issue", "revisit the decision", "revisit the past", "worth revisiting", "revisit the topic"]
+  },
+  "steamer": {
+    "vi": "nồi hấp; tàu chạy hơi nước",
+    "coll": ["a bamboo steamer", "steamer basket", "paddle steamer", "ocean steamer", "vegetable steamer"]
+  },
+  "supplementary": {
+    "vi": "bổ sung; phụ thêm",
+    "coll": ["supplementary information", "supplementary material", "supplementary income", "supplementary questions", "supplementary evidence"]
+  },
+  "deductible": {
+    "vi": "được khấu trừ; mức khấu trừ bảo hiểm",
+    "coll": ["tax deductible", "deductible expenses", "insurance deductible", "high deductible", "pay the deductible"]
+  },
+  "linebacker": {
+    "vi": "hậu vệ tuyến giữa (bóng bầu dục Mỹ)",
+    "coll": ["middle linebacker", "outside linebacker", "star linebacker", "linebacker position", "veteran linebacker"]
+  },
+  "idiotic": {
+    "vi": "ngu ngốc; ngớ ngẩn",
+    "coll": ["idiotic idea", "idiotic behaviour", "utterly idiotic", "idiotic mistake", "idiotic grin"]
+  },
+  "sparse": {
+    "vi": "thưa thớt; ít ỏi",
+    "coll": ["sparse population", "sparse vegetation", "sparse data", "sparse hair", "sparse details"]
+  },
+  "estrogen": {
+    "vi": "estrogen (nội tiết tố nữ)",
+    "coll": ["estrogen levels", "estrogen therapy", "estrogen receptor", "low estrogen", "estrogen production"]
+  },
+  "insertion": {
+    "vi": "sự chèn vào; việc đưa vào",
+    "coll": ["insertion point", "gene insertion", "insertion of a catheter", "insertion sort", "the insertion of a clause"]
+  },
+  "herbal": {
+    "vi": "thảo dược; làm từ thảo mộc",
+    "coll": ["herbal tea", "herbal remedy", "herbal medicine", "herbal supplement", "herbal treatment"]
+  },
+  "adolescence": {
+    "vi": "tuổi vị thành niên; thời niên thiếu",
+    "coll": ["during adolescence", "early adolescence", "through adolescence", "the onset of adolescence", "late adolescence"]
+  },
+  "colonization": {
+    "vi": "sự thực dân hóa; việc lập thuộc địa",
+    "coll": ["European colonization", "colonization of Africa", "space colonization", "period of colonization", "bacterial colonization"]
+  },
+  "noticeably": {
+    "vi": "rõ rệt; thấy rõ",
+    "coll": ["noticeably absent", "noticeably better", "noticeably different", "noticeably slower", "noticeably nervous"]
+  },
+  "magically": {
+    "vi": "như có phép màu; một cách kỳ diệu",
+    "coll": ["magically appear", "magically disappear", "magically transformed", "magically fixed", "not magically"]
+  },
+  "unification": {
+    "vi": "sự thống nhất; sự hợp nhất",
+    "coll": ["German unification", "national unification", "unification of the country", "unification process", "unification treaty"]
+  },
+  "legitimately": {
+    "vi": "một cách chính đáng; hợp pháp",
+    "coll": ["legitimately elected", "legitimately claim", "legitimately obtained", "legitimately concerned", "legitimately earned"]
+  },
+  "suction": {
+    "vi": "lực hút; sự hút chân không",
+    "coll": ["suction cup", "suction power", "strong suction", "suction pump", "apply suction"]
+  },
+  "purchaser": {
+    "vi": "người mua; bên mua",
+    "coll": ["potential purchaser", "the purchaser of the property", "first-time purchaser", "purchaser and seller", "prospective purchaser"]
+  },
+  "outsourcing": {
+    "vi": "việc thuê ngoài; gia công bên ngoài",
+    "coll": ["IT outsourcing", "outsourcing of jobs", "offshore outsourcing", "outsourcing contract", "rely on outsourcing"]
+  },
+  "materially": {
+    "vi": "về mặt vật chất; đáng kể",
+    "coll": ["materially affect", "materially different", "materially benefit", "materially change", "materially worse off"]
+  },
+  "payload": {
+    "vi": "tải trọng hữu ích; đầu đạn; phần dữ liệu chính",
+    "coll": ["rocket payload", "maximum payload", "payload capacity", "deliver the payload", "malicious payload"]
+  },
+  "surveyor": {
+    "vi": "người khảo sát đo đạc; giám định viên",
+    "coll": ["land surveyor", "quantity surveyor", "building surveyor", "chartered surveyor", "surveyor's report"]
+  },
+  "wastewater": {
+    "vi": "nước thải",
+    "coll": ["wastewater treatment", "wastewater plant", "industrial wastewater", "discharge wastewater", "wastewater management"]
+  },
+  "payout": {
+    "vi": "khoản chi trả; tiền bồi thường",
+    "coll": ["insurance payout", "large payout", "dividend payout", "receive a payout", "payout ratio"]
+  }
+}

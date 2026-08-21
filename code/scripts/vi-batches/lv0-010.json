@@ -1,0 +1,1194 @@
+[
+ {
+  "id": "block",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A substantial, often approximately cuboid, piece of any substance.",
+   "To fill or obstruct (something) so that it is not possible to pass.",
+   "To prevent (something or someone) from passing."
+  ]
+ },
+ {
+  "id": "broken",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "past participle of break",
+   "Fragmented"
+  ]
+ },
+ {
+  "id": "challenge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A confrontation",
+   "To invite (someone) to take part in a competition.",
+   "To dare (someone)."
+  ]
+ },
+ {
+  "id": "nation",
+  "pos": [
+   "n",
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "A historically constituted, stable community of people, formed based on a common language, territory, economic life, ethnicity and/or…",
+   "A sovereign state",
+   "An association of students based on the birthplace or ethnicity of its members."
+  ]
+ },
+ {
+  "id": "purpose",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The end for which something is done, is made or exists.",
+   "Function, role.",
+   "meaning for existing or doing something."
+  ]
+ },
+ {
+  "id": "shop",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "An establishment that sells goods or services to the public",
+   "A place where things are manufactured or crafted",
+   "A large garage where vehicle mechanics work."
+  ]
+ },
+ {
+  "id": "sick",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "In poor health",
+   "Having an urge to vomit.",
+   "Mentally unstable, disturbed."
+  ]
+ },
+ {
+  "id": "teacher",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A person who teaches, especially one employed in a school",
+   "The index finger",
+   "An indication"
+  ]
+ },
+ {
+  "id": "agency",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The capacity, condition, or state of acting or of exerting power.",
+   "The capacity of individuals to act independently and to make their own free choices.",
+   "A medium through which power is exerted or an end is achieved."
+  ]
+ },
+ {
+  "id": "avoid",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To try not to meet or communicate with (a person)",
+   "To stay out of the way of (something harmful).",
+   "To keep away from"
+  ]
+ },
+ {
+  "id": "camera",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A device for taking still or moving pictures or photographs.",
+   "The viewpoint in a three-dimensional game or simulation.",
+   "A vaulted room."
+  ]
+ },
+ {
+  "id": "catch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The act of seizing or capturing.",
+   "The act of catching an object in motion, especially a ball.",
+   "The act of noticing, understanding or hearing."
+  ]
+ },
+ {
+  "id": "coast",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The edge of the land where it meets an ocean, sea, gulf, bay, or large lake.",
+   "To glide along without adding energy",
+   "To sail along a coast."
+  ]
+ },
+ {
+  "id": "drug",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A substance used to treat an illness, relieve a symptom, or modify a chemical process in the body for a specific purpose.",
+   "A psychoactive substance, especially one which is illegal and addictive, ingested for recreational use, such as cocaine.",
+   "Anything, such as a substance, emotion, or action, to which one is addicted."
+  ]
+ },
+ {
+  "id": "hall",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A corridor",
+   "A large meeting room.",
+   "A manor house (originally because a magistrate's court was held in the hall of his mansion)."
+  ]
+ },
+ {
+  "id": "meaning",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "The denotation, referent, or idea connected with a word, expression, or symbol.",
+   "The connotation associated with a word, expression, or symbol.",
+   "The purpose, value, or significance (of something) beyond the fact of that thing's existence."
+  ]
+ },
+ {
+  "id": "nine",
+  "pos": [
+   "num",
+   "n"
+  ],
+  "en": [
+   "A numerical value equal to 9",
+   "Describing a group or set with nine elements.",
+   "The digit or figure 9."
+  ]
+ },
+ {
+  "id": "pop",
+  "pos": [
+   "n",
+   "v",
+   "intj",
+   "adj"
+  ],
+  "en": [
+   "A loud, sharp sound, as of a cork coming out of a bottle, especially when the contents are pressurized by fizziness.",
+   "An effervescent or fizzy drink, most frequently nonalcoholic",
+   "A bottle, can, or serving of effervescent or fizzy drink, most frequently nonalcoholic"
+  ]
+ },
+ {
+  "id": "saturday",
+  "pos": [
+   "n",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "The seventh day of the week in many religious traditions, and the sixth day of the week in systems using the ISO 8601 norm",
+   "On Saturday.",
+   "To spend Saturday (at a place or doing an activity)."
+  ]
+ },
+ {
+  "id": "therefore",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Consequently, by or in consequence of that or this cause"
+  ]
+ },
+ {
+  "id": "truly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In accordance with the facts",
+   "Honestly, genuinely, in fact, really.",
+   "Very."
+  ]
+ },
+ {
+  "id": "weather",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "The short-term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover,…",
+   "Unpleasant or destructive atmospheric conditions, and their effects.",
+   "The direction from which the wind is blowing"
+  ]
+ },
+ {
+  "id": "activity",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state or quality of being active",
+   "Something done as an action or a movement.",
+   "Something done for pleasure or entertainment, especially one involving movement or an excursion."
+  ]
+ },
+ {
+  "id": "coffee",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A beverage made by infusing the beans of the coffee plant in hot water.",
+   "A serving of this beverage.",
+   "The seeds of the plant used to make coffee, called ‘beans’ due to their shape."
+  ]
+ },
+ {
+  "id": "condition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A state or quality.",
+   "A requirement.",
+   "To subject to the process of acclimation."
+  ]
+ },
+ {
+  "id": "evening",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The time of day between afternoon and night.",
+   "The time of the day between the approximate time of midwinter dusk and midnight (compare afternoon)",
+   "A concluding time period"
+  ]
+ },
+ {
+  "id": "flight",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "The act of flying.",
+   "An instance of flying.",
+   "A collective term for doves or swallows."
+  ]
+ },
+ {
+  "id": "freedom",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state of being free.",
+   "The lack of a specific constraint, or of constraints in general",
+   "The right or privilege of unrestricted use or access"
+  ]
+ },
+ {
+  "id": "heat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Thermal energy.",
+   "The condition or quality of being hot.",
+   "An attribute of a spice that causes a burning sensation in the mouth."
+  ]
+ },
+ {
+  "id": "interview",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any face-to-face meeting, especially of an official or adversarial nature.",
+   "A conversation in person (or, by extension, over the telephone, Internet etc.) between a journalist and someone whose opinion or…",
+   "A formal meeting, in person, for the assessment of a candidate or applicant."
+  ]
+ },
+ {
+  "id": "library",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An institution which holds books and/or other forms of media for use by the public or qualified people often lending them out, as well…",
+   "Any institution that lends out its goods for use by the public or a community.",
+   "A collection of books or other forms of stored information."
+  ]
+ },
+ {
+  "id": "murder",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The crime of killing a person unlawfully, especially with predetermination.",
+   "An act of killing a person unlawfully, especially with predetermination.",
+   "The act of killing any being in an immoral manner"
+  ]
+ },
+ {
+  "id": "queen",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The wife, consort, or widow of a king.",
+   "A female monarch.",
+   "A woman whose pre-eminence, power, or forcefulness is comparable to that of a queen."
+  ]
+ },
+ {
+  "id": "walking",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "present participle and gerund of walk",
+   "Incarnate as a human",
+   "Able to walk in spite of injury or sickness."
+  ]
+ },
+ {
+  "id": "accept",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "To receive, especially with a consent, with favour, or with approval.",
+   "To admit to a place or a group.",
+   "To regard as proper, usual, true, or to believe in."
+  ]
+ },
+ {
+  "id": "appear",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To come or be in sight",
+   "To come before the public.",
+   "To stand in presence of some authority, tribunal, or superior person, to answer a charge, plead a cause, etc."
+  ]
+ },
+ {
+  "id": "attempt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To try.",
+   "To make a substantial but unsuccessful effort (to commit a crime).",
+   "The action of trying at something."
+  ]
+ },
+ {
+  "id": "exchange",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An act of exchanging or trading.",
+   "A place for conducting trading.",
+   "Ellipsis of telephone exchange."
+  ]
+ },
+ {
+  "id": "fat",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Carrying more fat than usual on one's body",
+   "Thick",
+   "Bulbous"
+  ]
+ },
+ {
+  "id": "glass",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An amorphous solid, often transparent substance, usually made by melting silica sand with various additives (for most purposes, a…",
+   "Any amorphous solid (one without a regular crystal lattice).",
+   "A vessel from which one drinks, especially one made of glass, plastic, or similar translucent or semi-translucent material."
+  ]
+ },
+ {
+  "id": "mobile",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Capable of being moved, especially on wheels.",
+   "Able to move freely or easily.",
+   "Pertaining to or by agency of mobile phones."
+  ]
+ },
+ {
+  "id": "police officer",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A peace officer who is a member of a police force."
+  ]
+ },
+ {
+  "id": "powerful",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "en": [
+   "Having, or capable of exerting, power or influence.",
+   "Leading to many or important deductions.",
+   "Large"
+  ]
+ },
+ {
+  "id": "receive",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To be given, sent, or paid something.",
+   "To take, as something that is offered",
+   "To take goods knowing them to be stolen."
+  ]
+ },
+ {
+  "id": "ride",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To transport oneself by sitting on and directing a horse, later also a bicycle etc.",
+   "To be transported in a vehicle",
+   "To transport (someone) in a vehicle."
+  ]
+ },
+ {
+  "id": "royal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of or relating to a monarch or his (or her) family.",
+   "Having the air or demeanour of a monarch",
+   "In large sailing ships, of a mast right above the topgallant mast and its sails."
+  ]
+ },
+ {
+  "id": "screen",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A physical divider intended to block an area from view, or provide shelter from something dangerous.",
+   "A material woven from fine wires intended to block animals or large particles from passing while allowing gasses, liquids and finer…",
+   "Searching through a sample for a target"
+  ]
+ },
+ {
+  "id": "serve",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "An act of putting the ball or shuttlecock in play in various games.",
+   "A portion of food or drink, a serving.",
+   "An impressive presentation (especially of a person's appearance)."
+  ]
+ },
+ {
+  "id": "slow",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Taking a long time to move or go a short distance, or to perform an action",
+   "Not happening in a short time",
+   "Of reduced intellectual capacity"
+  ]
+ },
+ {
+  "id": "speech",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The ability to speak",
+   "The act of speaking, a certain style of it.",
+   "A formal session of speaking, especially a long oral message given publicly by one person."
+  ]
+ },
+ {
+  "id": "traffic",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Moving pedestrians or vehicles, or the flux or passage thereof.",
+   "The commercial transportation or exchange of goods, or the movement of passengers or people.",
+   "The illegal trade or exchange of goods, often drugs."
+  ]
+ },
+ {
+  "id": "tree",
+  "pos": [
+   "n",
+   "v",
+   "num"
+  ],
+  "en": [
+   "A perennial woody plant taller and larger than a shrub with a wooden trunk and, at some distance from the ground, having leaves and…",
+   "Any other plant (such as a large shrub or herb) that is reminiscent of the above in form and size.",
+   "An object made from a tree trunk and having multiple hooks or storage platforms."
+  ]
+ },
+ {
+  "id": "whom",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "What person or people",
+   "Used to refer to a previously mentioned person or people.",
+   "The person(s) whom"
+  ],
+  "reg": [
+   "formal"
+  ]
+ },
+ {
+  "id": "wonderful",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "en": [
+   "Tending to excite wonder",
+   "Surprisingly excellent",
+   "Exceedingly, to a great extent."
+  ]
+ },
+ {
+  "id": "airport",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An airfield (an area designated for the takeoff and landing of aircraft), including one or more runways and (for commercial airports)…"
+  ]
+ },
+ {
+  "id": "begin",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To start, to initiate or take the first step into something.",
+   "To come into existence."
+  ]
+ },
+ {
+  "id": "bottom",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "The lowest part of anything.",
+   "To furnish (something) with a bottom.",
+   "To pour spirits into (a glass to be topped up with soda water)."
+  ]
+ },
+ {
+  "id": "everybody",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "All people."
+  ]
+ },
+ {
+  "id": "famous",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Well known.",
+   "In the public eye.",
+   "Excellent."
+  ]
+ },
+ {
+  "id": "lie",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To rest in a horizontal position on a surface.",
+   "To be placed or situated.",
+   "To abide"
+  ]
+ },
+ {
+  "id": "partner",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Either of a pair of people or things that belong together.",
+   "Someone who is associated with another in a common activity or interest.",
+   "To join as a partner."
+  ]
+ },
+ {
+  "id": "police station",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A building serving as the headquarters of a branch of the police force, and sometimes as a temporary place of confinement for offenders."
+  ]
+ },
+ {
+  "id": "sad",
+  "pos": [
+   "adj",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "Emotionally negative.",
+   "Expressing contempt, ridicule or disgust"
+  ]
+ },
+ {
+  "id": "solution",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A homogeneous mixture, which may be liquid, gas or solid, formed by dissolving one or more substances.",
+   "An act, plan or other means, used or proposed, to solve a problem.",
+   "An answer to a problem."
+  ]
+ },
+ {
+  "id": "square",
+  "pos": [
+   "adj",
+   "n",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "A polygon with four straight sides of equal length and four right angles",
+   "Something characterized by a square, or nearly square, form.",
+   "Shaped like a square (the polygon)."
+  ]
+ },
+ {
+  "id": "structure",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A cohesive whole built up of distinct parts.",
+   "The underlying shape of a solid.",
+   "The overall form or organization of something."
+  ]
+ },
+ {
+  "id": "traditional",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of, relating to, or derived from tradition.",
+   "Produced with physical media, as opposed to digital art.",
+   "In lieu of the name of the composer of a piece of music, whose real name is lost in the mists of time."
+  ]
+ },
+ {
+  "id": "twice",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Two times.",
+   "Doubled in quantity, intensity, or degree."
+  ]
+ },
+ {
+  "id": "wind",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Real or perceived movement of atmospheric air usually caused by convection or differences in air pressure.",
+   "Air artificially put in motion by any force or action.",
+   "The ability to breathe easily."
+  ]
+ },
+ {
+  "id": "worry",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To be troubled",
+   "Disturb the peace of mind of",
+   "To harass"
+  ]
+ },
+ {
+  "id": "brand",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A mark or scar made by burning with a hot iron, especially to mark cattle or to classify the contents of a cask.",
+   "A branding iron.",
+   "The symbolic identity, represented by a name and/or a logo, which indicates a certain product or service to the public."
+  ]
+ },
+ {
+  "id": "bus",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A motor vehicle for transporting large numbers of people along roads.",
+   "Any motorized vehicle, such as a motorbike or car.",
+   "An electrical conductor or interface serving as a common connection for two or more circuits or components."
+  ]
+ },
+ {
+  "id": "cent",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A subunit of currency equal to one-hundredth of the main unit of currency in many countries. Symbol",
+   "A small sum of money.",
+   "A subunit of currency equal to one-hundredth of the euro."
+  ]
+ },
+ {
+  "id": "count",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To recite numbers in sequence.",
+   "To determine the number of (objects in a group).",
+   "To amount to, to number in total."
+  ]
+ },
+ {
+  "id": "fresh",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Newly produced or obtained",
+   "Not dried, frozen, or spoiled.",
+   "(of plant material) Still green and not dried."
+  ]
+ },
+ {
+  "id": "lake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A large, landlocked stretch of water or similar liquid.",
+   "A large amount of liquid.",
+   "A small stream of running water"
+  ]
+ },
+ {
+  "id": "mostly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Mainly or chiefly"
+  ]
+ },
+ {
+  "id": "mouth",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The front opening of a creature through which food is ingested.",
+   "The end of a river out of which water flows into a sea or other large body of water",
+   "An outlet, aperture or orifice."
+  ]
+ },
+ {
+  "id": "owner",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who owns something.",
+   "The captain of a ship."
+  ]
+ },
+ {
+  "id": "realize",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To become aware of, understand, or appreciate (a fact or situation, especially something which has been true for some time).",
+   "To sense (something) strongly or vividly as if real.",
+   "To cause (something) to seem real"
+  ]
+ },
+ {
+  "id": "remain",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "That which is left",
+   "That which is left of a human being after the life is gone",
+   "Posthumous works or productions, especially literary works."
+  ]
+ },
+ {
+  "id": "scale",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An ordered, usually numerical sequence used for measurement",
+   "Size",
+   "The ratio of depicted distance to actual distance."
+  ]
+ },
+ {
+  "id": "separate",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "To divide (a thing) into separate parts.",
+   "To disunite from a group or mass",
+   "To cause (things or people) to be separate."
+  ]
+ },
+ {
+  "id": "smart",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "To hurt or sting.",
+   "To cause a smart or sting in.",
+   "To feel a pungent pain of mind"
+  ]
+ },
+ {
+  "id": "throw",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To hurl",
+   "To eject or cause to fall off.",
+   "To move to another position or condition"
+  ]
+ },
+ {
+  "id": "wedding",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A marriage ceremony",
+   "The joining of two or more parts.",
+   "present participle and gerund of wed"
+  ]
+ },
+ {
+  "id": "budget",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "The amount of money or resources earmarked for a particular institution, activity or timeframe.",
+   "A relatively small amount of available money.",
+   "An itemized summary of intended expenditure"
+  ]
+ },
+ {
+  "id": "click",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "A brief, sharp, not particularly loud, relatively high-pitched sound produced by the impact of something small and hard against…",
+   "The act of snapping one's fingers.",
+   "An ingressive sound made by coarticulating a velar or uvular closure with another closure."
+  ]
+ },
+ {
+  "id": "fashion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A current (constantly changing) trend, favored for frivolous rather than practical, logical, or intellectual reasons.",
+   "Popular trends, especially in clothing",
+   "A style or manner in which something is done."
+  ]
+ },
+ {
+  "id": "feature",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An important or main item.",
+   "Any of the physical constituents of the face (eyes, nose, etc.).",
+   "To ascribe the greatest importance to something within a certain context."
+  ]
+ },
+ {
+  "id": "generation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of creating something or bringing something into being",
+   "The act of creating a living creature or organism",
+   "Race, family"
+  ]
+ },
+ {
+  "id": "hill",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An elevated landmass smaller than a mountain.",
+   "A sloping road.",
+   "A heap of earth surrounding a plant."
+  ]
+ },
+ {
+  "id": "metal",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Chemical elements or alloys, their ores, and the mines where their ores come from.",
+   "Characterized by strong drum-beats and distorted guitars.",
+   "Having the emotional or social characteristics associated with metal music"
+  ]
+ },
+ {
+  "id": "pull",
+  "pos": [
+   "v",
+   "intj",
+   "n"
+  ],
+  "en": [
+   "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
+   "To gather with the hand, or by drawing toward oneself",
+   "To attract or net"
+  ]
+ },
+ {
+  "id": "push",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To apply a force to (an object) such that it moves away from the person or thing applying the force.",
+   "To continually attempt to persuade (a person) into a particular course of action.",
+   "To press or urge forward"
+  ]
+ },
+ {
+  "id": "rose",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A shrub of the genus Rosa, with red, pink, white or yellow flowers.",
+   "A flower of the rose plant.",
+   "A plant or species in the rose family. (Rosaceae)"
+  ]
+ },
+ {
+  "id": "seat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Something to be sat upon.",
+   "To put an object into a place where it will rest",
+   "To provide with a place to sit."
+  ]
+ },
+ {
+  "id": "target",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A butt or mark to shoot at, as for practice, or to test the accuracy of a firearm, or the force of a projectile.",
+   "A goal or objective.",
+   "An object of criticism or ridicule."
+  ]
+ },
+ {
+  "id": "village",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A rural habitation of size between a hamlet and a town.",
+   "A rural habitation that has a church, but no market.",
+   "A planned community such as a retirement community or shopping district."
+  ]
+ },
+ {
+  "id": "agent",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who exerts power, or has the power to act.",
+   "One who acts for, or in the place of, another (the principal), by that person's authority",
+   "A person who looks for work for another person and brokers a deal between the hiree and hirer."
+  ]
+ }
+]

@@ -1,0 +1,1129 @@
+[
+ {
+  "id": "generic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Very broad",
+   "Lacking in precision, often in an evasive fashion",
+   "Of a product or drug, not having a brand name"
+  ]
+ },
+ {
+  "id": "molecular",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Relating to, or consisting of, or produced by molecules.",
+   "(of an element) Combined with itself and with no other element",
+   "Relating to a simple or basic structure or organization."
+  ]
+ },
+ {
+  "id": "hmm",
+  "pos": [
+   "intj",
+   "v"
+  ],
+  "en": [
+   "Indicates thinking or pondering.",
+   "Indicates surprise or cluelessness",
+   "A demand for an answer to a question."
+  ]
+ },
+ {
+  "id": "minimal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "The smallest possible amount, quantity, or degree.",
+   "Characterised by the use of simple form or structures.",
+   "Characterised by the repetition and gradual alteration of short phrases."
+  ]
+ },
+ {
+  "id": "overview",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A brief summary, as of a book or a presentation.",
+   "To engage in an overview"
+  ]
+ },
+ {
+  "id": "pathetic",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Arousing pity, sympathy, or compassion",
+   "Arousing scorn or contempt, often due to miserable inadequacy.",
+   "Trochlear."
+  ]
+ },
+ {
+  "id": "diplomatic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Concerning the relationships between the governments of countries.",
+   "Exhibiting diplomacy",
+   "Describing a publication of a text which follows a single basic manuscript, but with variants in other manuscripts noted in the critical…"
+  ]
+ },
+ {
+  "id": "artwork",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A painting, drawing, sculpture or other piece of creative, visual art.",
+   "Artistic work.",
+   "The graphical elements to be included in a reproduced work."
+  ]
+ },
+ {
+  "id": "jurisdiction",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The power, right, or authority to interpret and apply the law.",
+   "The power or right to exercise authority.",
+   "The power or right to perform some action as part of applying the law."
+  ]
+ },
+ {
+  "id": "facial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of or affecting the face.",
+   "Concerned with or used in improving the appearance of the face.",
+   "(of a law or regulation validity) On its face"
+  ]
+ },
+ {
+  "id": "array",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Clothing and ornamentation",
+   "A collection laid out to be viewed in full.",
+   "An orderly series, arrangement or sequence."
+  ]
+ },
+ {
+  "id": "shark",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any predatory fish of the superorder Selachimorpha, with a cartilaginous skeleton and 5 to 7 gill slits on each side of its head.",
+   "Meat of this animal, consumed as food.",
+   "Any fish of the class Chondrichthyes, especially an extinct shark-like holocephalian."
+  ]
+ },
+ {
+  "id": "poorly",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "In a poor manner or condition",
+   "With little or no success",
+   "Meanly"
+  ]
+ },
+ {
+  "id": "brutal",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Savagely violent, vicious, ruthless, or cruel, often in an unintelligent manner.",
+   "Crude or unfeeling in manner or speech.",
+   "Harsh"
+  ]
+ },
+ {
+  "id": "purely",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "Wholly",
+   "Solely",
+   "Chastely, innocently"
+  ]
+ },
+ {
+  "id": "monetary",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of, pertaining to, or consisting of money."
+  ]
+ },
+ {
+  "id": "seemingly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "As it appears",
+   "In a seemly manner"
+  ]
+ },
+ {
+  "id": "provider",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who, or that which, provides a service, commodity, or the means for subsistence."
+  ]
+ },
+ {
+  "id": "dairy",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "(also dairy products or dairy produce) Products produced from milk.",
+   "A place that produces, processes, or sells such products",
+   "A corner store, superette or minimart."
+  ]
+ },
+ {
+  "id": "vacuum",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A region of space that contains no matter.",
+   "The condition of rarefaction, or reduction of pressure below that of the atmosphere, in a vessel, such as the condenser of a steam…",
+   "A spacetime having tensors of zero magnitude."
+  ]
+ },
+ {
+  "id": "cult",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "The veneration, devotion, and religious rites given to a deity (especially in a historical polytheistic context), or (in a Christian…",
+   "A group of people having an obsession with or intense admiration for a particular activity, idea, person or thing.",
+   "A group, sect or movement following an unorthodox religious or philosophical system of beliefs, especially one in which members remove…"
+  ]
+ },
+ {
+  "id": "riot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A tumultuous disturbance of the public peace by a large group of people, often involving violence or damage to property.",
+   "A wide and unconstrained variety.",
+   "A humorous or entertaining event or person."
+  ]
+ },
+ {
+  "id": "receiver",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A person who receives."
+  ]
+ },
+ {
+  "id": "setup",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Equipment designed for a particular purpose",
+   "The fashion in which something is organized or arranged.",
+   "A situation orchestrated to frame someone"
+  ]
+ },
+ {
+  "id": "governance",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The process, or the power, of governing",
+   "The specific system by which a political system is ruled.",
+   "The group of people who make up an administrative body."
+  ]
+ },
+ {
+  "id": "contractor",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A person or company that builds or improves buildings or structures.",
+   "A person or company that performs specific tasks like electrical or plumbing work in construction projects.",
+   "A person or company hired to maintain existing facilities like air conditioning systems, groundskeeping, etc."
+  ]
+ },
+ {
+  "id": "warehouse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A facility for storing large amounts of merchandise or products.",
+   "An intermediate facility where goods are transported from the manufacturer prior to their distribution to retailers.",
+   "To store in a warehouse or similar."
+  ]
+ },
+ {
+  "id": "comparable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Able to be compared (to).",
+   "Similar (to)",
+   "Constituting a pair in a particular partial order."
+  ]
+ },
+ {
+  "id": "viral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of or relating to a biological virus.",
+   "Caused by a virus.",
+   "Of the nature of an informatic virus"
+  ]
+ },
+ {
+  "id": "historically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a historic manner",
+   "According to history",
+   "To an unprecedented or extremely rare degree."
+  ]
+ },
+ {
+  "id": "rotation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of turning around a centre or an axis.",
+   "A single complete cycle around a centre or an axis.",
+   "A regular variation in a sequence, such as to even out wear, or people taking turns in a task"
+  ]
+ },
+ {
+  "id": "layout",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A structured arrangement of items within certain limits.",
+   "A plan for such arrangement.",
+   "The act of laying out something."
+  ]
+ },
+ {
+  "id": "notable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Worthy of note",
+   "Easily noted (without connotations of value)",
+   "That can be observed"
+  ]
+ },
+ {
+  "id": "hostile",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Not friendly",
+   "Aggressive",
+   "Unwilling."
+  ]
+ },
+ {
+  "id": "ethical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of or relating to the study of ethics.",
+   "Of or relating to the accepted principles of right and wrong, especially those of some organization or profession.",
+   "Morally approvable"
+  ]
+ },
+ {
+  "id": "testament",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A solemn, authentic instrument in writing, by which a person declares his or her will as to disposal of his or her inheritance (estate…",
+   "One of the two parts to the scriptures of the Christian religion",
+   "A tangible proof or tribute."
+  ]
+ },
+ {
+  "id": "ninth",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "The ordinal form of the number nine.",
+   "The person or thing in the ninth position.",
+   "One of nine equal parts of a whole."
+  ]
+ },
+ {
+  "id": "administrator",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who administers affairs",
+   "A person who manages or settles the estate of an intestate, or of a testator when there is no competent executor",
+   "One who is responsible for software installation, management, information and maintenance of a computer or network."
+  ]
+ },
+ {
+  "id": "quantum",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "The total amount of something",
+   "The amount or quantity observably present, or available.",
+   "The smallest possible, and therefore indivisible, unit of a given quantity or quantifiable phenomenon."
+  ]
+ },
+ {
+  "id": "momentum",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Of a body in motion",
+   "Strength or force gained by motion or movement.",
+   "The impetus, either of a body in motion, or of an idea or course of events"
+  ]
+ },
+ {
+  "id": "optical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of or relating to sight",
+   "Designed to assist or enhance sight",
+   "Of or relating to optics."
+  ]
+ },
+ {
+  "id": "submission",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of submitting or yielding",
+   "The act of submitting or giving e.g. a completed piece of work.",
+   "The thing which has been submitted."
+  ]
+ },
+ {
+  "id": "elaborate",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Complex, detailed, or sophisticated.",
+   "Intricate, fancy, flashy, or showy.",
+   "Тo develop in detail or complexity."
+  ]
+ },
+ {
+  "id": "demo",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A demonstration or visual explanation.",
+   "A recording of a song meant to demonstrate its overall sound for the purpose of getting it published or recorded more fully.",
+   "An example of a product used for demonstration and then sold at a discount."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "indication",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An act of pointing out or indicating.",
+   "A fact that shows that something exists or may happen.",
+   "A discovery made"
+  ]
+ },
+ {
+  "id": "compact",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "An agreement or contract.",
+   "To form an agreement or contract.",
+   "Closely packed or densely constituted"
+  ]
+ },
+ {
+  "id": "streak",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An irregular line left from smearing or motion.",
+   "A continuous series of like events.",
+   "A consistent facet of somebody's personality."
+  ]
+ },
+ {
+  "id": "allegedly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "According to allegation(s)"
+  ]
+ },
+ {
+  "id": "expertise",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Great skill or knowledge in a particular field or hobby.",
+   "Advice, or opinion, of an expert."
+  ]
+ },
+ {
+  "id": "prosecution",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of prosecuting a scheme or endeavor.",
+   "The institution of legal proceedings (particularly criminal) against a person.",
+   "The prosecuting party."
+  ]
+ },
+ {
+  "id": "detection",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act or process of detecting, uncovering, or finding out, the discovery of something new, hidden, or disguised.",
+   "The act or process of finding or detecting an electrical signal in a carrier wave."
+  ]
+ },
+ {
+  "id": "subscription",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Access to a resource for a period of time, generally for payment.",
+   "The formal acceptance of something, especially when verified with a signature.",
+   "The signing of one's name."
+  ]
+ },
+ {
+  "id": "smartphone",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A mobile phone with more advanced features and greater computing capacity than a feature phone."
+  ]
+ },
+ {
+  "id": "hack",
+  "pos": [
+   "v",
+   "n",
+   "intj"
+  ],
+  "en": [
+   "To chop or cut down in a rough manner.",
+   "To withstand or put up with a difficult situation.",
+   "To make a quick code change to patch a computer program, often one that, while being effective, is inelegant or makes the program harder…"
+  ]
+ },
+ {
+  "id": "diesel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A fuel derived from petroleum (or other oils) but heavier than gasoline/petrol. Used to power diesel engines which burn this fuel using…",
+   "A vehicle powered by a diesel engine.",
+   "A rider who has an even energy output, without bursts of speed."
+  ]
+ },
+ {
+  "id": "penis",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The male erectile reproductive organ used for sexual intercourse that in the human male and other placental mammals is also used for…",
+   "A similar erectile sexual organ present in the cloacas of male amniotes."
+  ]
+ },
+ {
+  "id": "majesty",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The quality of being impressive, great, dignified, powerful, sovereign, or any combination thereof."
+  ]
+ },
+ {
+  "id": "static",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Unchanging",
+   "Making no progress",
+   "Immobile"
+  ]
+ },
+ {
+  "id": "warfare",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The waging of war or armed conflict against an enemy.",
+   "Military operations of some particular kind e.g. guerrilla warfare.",
+   "To lead a military life"
+  ]
+ },
+ {
+  "id": "orientation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The determination of the relative position of something or someone.",
+   "The relative physical position or direction of something.",
+   "The construction of a Christian church to have its aisle in an east-west direction with the altar at the east end."
+  ]
+ },
+ {
+  "id": "stance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The manner, pose, or posture in which one stands.",
+   "One's opinion or point of view.",
+   "A place to stand"
+  ]
+ },
+ {
+  "id": "comeback",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A return (e.g. to popularity, success, etc.) after an extended period of obscurity or underperformance.",
+   "A retort or answer, particularly a quick or clever one.",
+   "An occurrence of an athlete or sports team in a competition overcoming a substantial disadvantage in points to win or draw."
+  ]
+ },
+ {
+  "id": "surgical",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of, relating to, used in, or resulting from surgery.",
+   "Precise or very accurate.",
+   "Excruciatingly or wearyingly drawn-out."
+  ]
+ },
+ {
+  "id": "comply",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To yield assent"
+  ]
+ },
+ {
+  "id": "finale",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The grand end of something, especially of a show or piece of music.",
+   "The chronological conclusion of a series of narrative works."
+  ]
+ },
+ {
+  "id": "ave",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "en": [
+   "An Ave Maria.",
+   "A reverential salutation."
+  ]
+ },
+ {
+  "id": "authentic",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of the same origin as claimed",
+   "Conforming to reality and therefore worthy of trust, reliance, or belief.",
+   "Designating a mode having the final as the lowest note."
+  ]
+ },
+ {
+  "id": "pipeline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A conduit made of pipes used to convey water, gas or petroleum, etc.",
+   "A channel (either physical or logical) by which information is transmitted sequentially (that is, the first information in is the first…",
+   "A system or process through which something is conducted."
+  ]
+ },
+ {
+  "id": "meantime",
+  "pos": [
+   "n",
+   "adv"
+  ],
+  "en": [
+   "The time spent waiting for another event",
+   "During the interval"
+  ]
+ },
+ {
+  "id": "lineup",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A physical or photographic queue of people allegedly involved in a crime, allowing a witness to identify them.",
+   "A list of trains that are expected to cross over a specified section of track during a specified time period.",
+   "A line of people or vehicles, in which the individual at the front end is dealt with first, the one behind is dealt with next, and so…"
+  ]
+ },
+ {
+  "id": "placement",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of placing or putting in place",
+   "A location or position.",
+   "The act of matching a person with a job."
+  ]
+ },
+ {
+  "id": "lgbt",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Alternative letter-case form of LGBT."
+  ]
+ },
+ {
+  "id": "thereby",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "By it"
+  ],
+  "reg": [
+   "formal"
+  ]
+ },
+ {
+  "id": "sentiment",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A general thought, feeling, or sense.",
+   "Feelings, especially tender feelings, as apart from reason or judgment, or of a weak or foolish kind."
+  ]
+ },
+ {
+  "id": "verdict",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A decision on an issue of fact in a civil or criminal case or an inquest.",
+   "An opinion or judgement."
+  ]
+ },
+ {
+  "id": "peninsula",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A piece of land projecting into water from a larger land mass."
+  ]
+ },
+ {
+  "id": "hype",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Promotion or propaganda, especially exaggerated claims.",
+   "To promote or advertise heavily.",
+   "Hyped"
+  ]
+ },
+ {
+  "id": "vampire",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A mythological creature (usually humanoid and undead) said to feed on the blood or life energy of the living.",
+   "A person with habits traditionally ascribed to (literal) vampires, such as heliophobia, being a night owl, having pale skin, and so on.",
+   "A person with the medical condition porphyria cutanea tarda, colloquially known as vampirism, with effects such as photosensitivity and…"
+  ]
+ },
+ {
+  "id": "cannabis",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A tall annual dioecious plant (Cannabis, especially Cannabis sativa), native to central Asia and having alternate, palmately divided…",
+   "A mildly euphoriant or sedating, intoxicating hallucinogenic drug prepared from various parts of this plant.",
+   "The purified and decarboxylated resin of the cannabis plant used for medicinal purposes rather than for any intoxicating effects."
+  ]
+ },
+ {
+  "id": "tribal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of or relating to tribes.",
+   "Based on or organized according to tribes.",
+   "Incorporating designs or styles typical of an indigenous people."
+  ]
+ },
+ {
+  "id": "ranch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A large plot of land used for raising cattle, sheep or other livestock.",
+   "A small farm that cultivates vegetables or livestock, especially one in the Southwestern United States.",
+   "A house or property on a plot of ranch land."
+  ]
+ },
+ {
+  "id": "heart-warming",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Eliciting cosy feelings of tenderness and sympathy."
+  ]
+ },
+ {
+  "id": "dimensional",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of or pertaining to dimensions.",
+   "Having dimension or dimensions",
+   "Pertaining to dimensional lumber"
+  ]
+ },
+ {
+  "id": "ego",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The self, especially with a sense of self-importance.",
+   "The most central part of the mind, which mediates with one's surroundings.",
+   "A person's self-esteem and opinion of themselves."
+  ]
+ },
+ {
+  "id": "fusion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The act of merging separate things, or the result thereof."
+  ]
+ },
+ {
+  "id": "aesthetic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Concerned with beauty, artistic effect, or appearance.",
+   "The study of art or beauty.",
+   "That which appeals to the senses."
+  ]
+ },
+ {
+  "id": "consultation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of consulting.",
+   "A conference for the exchange of information and advice.",
+   "An appointment or meeting with a professional person, such as a doctor."
+  ]
+ },
+ {
+  "id": "inclusion",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An addition or annex to a group, set, or total.",
+   "The act of including, i.e. adding or annexing, (something) to a group, set, or total.",
+   "Anything foreign that is included in a material."
+  ]
+ },
+ {
+  "id": "premises",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "plural of premise",
+   "third-person singular simple present indicative of premise",
+   "Land, and all the built structures on it, especially when considered as a single place."
+  ]
+ },
+ {
+  "id": "platinum",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Of a whitish grey colour, like that of the metal.",
+   "Of a musical recording that has sold over one million copies (for singles), or two million (for albums).",
+   "Very expensive, or of very high quality."
+  ]
+ },
+ {
+  "id": "accommodate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To render fit, suitable, or correspondent",
+   "To cause to come to agreement",
+   "To provide housing for."
+  ]
+ },
+ {
+  "id": "voltage",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The difference in electrostatic potential between two points in space, especially between live and neutral conductors or the earth."
+  ]
+ },
+ {
+  "id": "starter",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Someone who starts, or who starts something.",
+   "Something that starts something."
+  ]
+ },
+ {
+  "id": "subscribe",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To write (one’s name) at the bottom of a document",
+   "To sign",
+   "To sign up to have copies of a publication, such as a newspaper or a magazine, delivered for a period of time."
+  ]
+ },
+ {
+  "id": "continental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of or relating to a continent or continents.",
+   "Of the mainland, as opposed to an island offshore.",
+   "Relating to, or characteristic of, continental Europe."
+  ]
+ },
+ {
+  "id": "algorithm",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A collection of ordered steps that solve a mathematical problem. A precise step-by-step plan for a computational procedure that possibly…",
+   "A flowchart illustrating a decision-making process for human users, especially health care professionals.",
+   "recommender systems and the curation of feeds"
+  ]
+ },
+ {
+  "id": "namely",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "Specifically",
+   "Notable, distinguished"
+  ]
+ },
+ {
+  "id": "machinery",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The machines constituting a production apparatus, in a plant etc., collectively.",
+   "The working parts of a machine as a group.",
+   "The collective parts of something which allow it to function."
+  ]
+ },
+ {
+  "id": "functioning",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "functional, working",
+   "Of a person, mentally disabled but still able to survive in wider society.",
+   "present participle and gerund of function"
+  ]
+ },
+ {
+  "id": "pending",
+  "pos": [
+   "prep"
+  ],
+  "en": [
+   "While waiting for something",
+   "During."
+  ]
+ }
+]

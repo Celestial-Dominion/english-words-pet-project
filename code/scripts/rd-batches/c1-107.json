@@ -1,0 +1,169 @@
+[
+ {
+  "id": "wiki-real-time-computing",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Real-time_computing",
+  "title_en": "Real-time computing",
+  "sentences": [
+   "Real-time computing is a field of Computer science.",
+   "The idea is to design systems that have a real-time constraint.",
+   "Real time systems will guarantee to give a result within a specified time.",
+   "There are two kinds of real-time systems: Hard real-time systems: After the delay has passed the result is totally useless (and considered to be an error).",
+   "No matter what happens, hard-real time systems deliver the result in the specified time.",
+   "Real world examples are the controller for the airbag in a car.",
+   "The reaction time of an airbag system is around 1 ms.",
+   "Another example for a hard real-time system is the Anti-lock braking system in a car.",
+   "If it does not react fast enough, an accident will occur.",
+   "People might die because the result was not there fast enough.",
+   "Soft real-time systems: On average, these systems work fast enough to make it feel like real-time.",
+   "A videoconferencing system has microseconds to record sound and video, to send them to the other party, and to process the incoming data.",
+   "If at one time, this cannot be done, the video will be blurred, and the sound may be out of sync for a few moments.",
+   "This is however not a catastrophe, and the system can continue to work."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-the-singularity-is-near",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/The_Singularity_Is_Near",
+  "title_en": "The Singularity Is Near",
+  "sentences": [
+   "The Singularity is Near: When Humans Transcend Biology (2005) is a book about artificial intelligence (AI) by Ray Kurzweil.",
+   "He describes his law of accelerating returns.",
+   "This predicts an exponential increase in the power of such technologies as computers, genetic engineering, nanotechnology, robotics and AI.",
+   "The author thinks this means machine intelligence will become more advanced than biological intelligence.",
+   "Cyborg intelligence ends up being dominant.",
+   "The book also predicts that when the \"technological singularity\" comes, humans may merge with machines and become androids or cyborgs.",
+   "It is not the first time this idea has been suggested.",
+   "It has a long history in science fiction, and has been presented in several films, such as 2001.",
+   "Reviews of the book were mixed."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-russian-wikipedia-reaches-half-a-million",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Russian_Wikipedia_reaches_half_a_million_articles",
+  "title_en": "Russian Wikipedia reaches half a million articles",
+  "sentences": [
+   "Friday, February 26, 2010 The Russian Language Wikipedia surpassed 500,000 articles at 10:02 UTC on February 25, 2010, after \"Ys\", an article about a Joanna Newsom album, was created by Nurse fiction, a newcomer to the Wikipedia.",
+   "The Russian language Wikipedia is the tenth largest language edition of Wikipedia, boasting over three hundred and fifty \"Featured Articles\" and 930 \"Good Articles\", shown to be the best in the freely-editable encyclopaedia.",
+   "Russian Wikipedia is also one of the few languages to adopt the Flagged Revisions system.",
+   "Wikipedia is a multilingual encyclopaedia that can be edited by almost anyone with an internet connection, meaning that the Russian Wikipedia has 437,862 registered users with 12,929 making at least 1 edit within the last month.",
+   "The youngest known user is 10 years old, and the oldest is 80.",
+   "Last year, the Russian chapter of the Wikimedia Foundation, the organization behind Wikipedia, started active work supporting Wikipedia editions in the numerous languages used in Russia — such as Tatar, Chuvash, Ossetian and Yakut."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-dutch-justice-department-bans-wikipedia-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Dutch_Justice_Department_bans_Wikipedia_for_employees_following_vandalism",
+  "title_en": "Dutch Justice Department bans Wikipedia for employees following vandalism",
+  "sentences": [
+   "Saturday, November 17, 2007 A spokesperson for the Justice Department in the Netherlands has confirmed to the Dutch magazine Intermediair that it will temporarily suspend access to Wikipedia for its 30,000 employees, following recently revealed vandalism by staff members.",
+   "The magazine has confronted the department with some untasteful edits to the Dutch Wikipedia which originated from their IP addresses.",
+   "Anonymous users are registered through these unique internet fingerprints when they edit Wikipedia.",
+   "The magazine exposed the vandalism through Wikiscanner.nl, a website which combines a database of Wikipedia alterations with a server database from large institutions.",
+   "The site can be used to reveal which organisations are behind anonymous Wikipedia editors.",
+   "One of the edits involved the article on the murder of controversial filmmaker Theo van Gogh by a muslim extremist, which shocked the Netherlands and led to an intense debate about integration and the safety of public figures.",
+   "In 2005, the vandal added to the article that Mr. van Gogh was riding his bicycle through a street in Amsterdam \"with his penis hanging out of his pants\" when he was shot.",
+   "Another incident involved the Dutch article on prominent politician Lousewies van der Laan, where an anonymous editor added that her nickname was \"casual shag\".",
+   "The magazine revealed that while a limited number of edits were on legal topics, there were also edits to articles on Jesus Christ, pop stars, witchcraft, Donald Duck and masturbation.",
+   "On the talk page of one of the anonymous users is a list of some 50 articles where vandalism occurred.",
+   "Most vandalism was reverted quickly by other editors.",
+   "Elly Waterman, chair of Wikimedia Netherlands, pointed out to the magazine that not only civil servants, but also court personnel could have been behind these modifications.",
+   "Because of legal limitations on the time internet activity can be stored, it will probably not be possible to find out who exactly committed the vandalism, the spokesperson added."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-cryptography",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Cryptography",
+  "title_en": "Cryptography",
+  "sentences": [
+   "Cryptography, or cryptology, is the practice and study of hiding information.",
+   "It is sometimes called code, but this is not really a correct name.",
+   "It is the science used to try to keep information secret and safe.",
+   "Modern cryptography is a mix of mathematics, computer science, and electrical engineering.",
+   "Cryptography is used in ATM (bank) cards, computer passwords, and shopping on the internet.",
+   "When a message is sent using cryptography, it is changed (or encrypted) before it is sent.",
+   "The method of changing text is called a \"code\" or, more precisely, a \"cipher\".",
+   "The changed text is called \"ciphertext\".",
+   "The change makes the message hard to read.",
+   "Someone who wants to read it must change it back (or decrypt it).",
+   "How to change it back is a secret.",
+   "Both the person that sends the message and the one that gets it should know the secret way to change it, but other people should not be able to.",
+   "Studying the cyphertext to discover the secret is called \"cryptanalysis\" or \"cracking\" or sometimes \"code breaking\".",
+   "Different types of cryptography can be easier or harder to use and can hide the secret message better or worse.",
+   "Ciphers use a \"key\" which is a secret that hides the secret messages.",
+   "The cryptographic method needn't be secret."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-first-computer-game-in-piedmontese-langu",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/First_computer_game_in_Piedmontese_language",
+  "title_en": "First computer game in Piedmontese language",
+  "sentences": [
+   "Sunday, July 15, 2007 Freecol, a free software (under the GNU General Public License) has been released in Piedmontese.",
+   "This makes the game, clone of Sid Meier's Colonization the first game to have been released in this language which is only spoken by about two million people.",
+   "Freecol, the simulation of the historical process that lead to the Declaration of Independence in North America, is the first computer game to be localized in Piedmontese language.",
+   "Players of the game need to take administrative and political actions to reach its goal.",
+   "Version 0.7.0 in Piedmontese was released on July 13, 2007.",
+   "Speakers of regional languages hope this will serve as an examplar, so that more localizations of the game in other regional languages will be released over time.",
+   "The localization was done on Betawiki, the platform which is also used for the localization of the Mediawiki software."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-time-magazine-names-ahmed-mohamed-to-mos",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Time_magazine_names_Ahmed_Mohamed_to_'Most_Influential_Teens_of_2015'",
+  "title_en": "Time magazine names Ahmed Mohamed to 'Most Influential Teens of 2015'",
+  "sentences": [
+   "Wednesday, October 28, 2015 Time magazine named 14-year-old Ahmed Mohamed yesterday to its list of \"30 Most Influential Teens of 2015\".",
+   "He was made famous after being taken into custody by police when a teacher thought a clock he brought to his Texas school looked like a bomb.",
+   "Mohamed joins the ranks of influential teens including US President Barack Obama's daughter Malia Obama, and Nobel Peace Prize winner Malala Yousafzai.",
+   "Time said of Mohamed in announcing the news: \"Not many people make national news by bringing a homemade clock to school.",
+   "But the ninth-grader's arrest, after teachers and authorities mistook said clock for a bomb, kicked off a national debate over racial profiling\".",
+   "Mohamed traveled to the White House last week where he met with US President Barack Obama.",
+   "His family said last week that they would move from Texas to Qatar, where Mohamed was offered a full-scholarship to a well-respected school in the country.",
+   "The September 14 incident in Irving, Texas triggered a wider discussion about Islamophobia within the community.",
+   "The Twitter hashtag #IStandWithAhmed became part of a social movement in support of the youth.",
+   "After news of the police response was reported, Mohamed received support online ranging from US President Barack Obama to Facebook creator Mark Zuckerberg.",
+   "Mohamed brought the digital clock he made to school on September 14, and a teacher mistakenly thought it resembled a bomb.",
+   "Police arrested and questioned the student.",
+   "Images of the boy wearing a NASA T-shirt and handcuffed by the police were quickly posted and reposted online.",
+   "The Twitter attention led to outreach from Google and Mohamed was invited to their Google Science Fair.",
+   "Mohamed was a VIP guest at the Google Science Fair, and met finalists at the event held at Google's headquarters located in Mountain View, California.",
+   "Co-founder of Google, Sergey Brin, personally met with Mohamed during his visit to Google."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-blogger-service",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Blogger_(service)",
+  "title_en": "Blogger (service)",
+  "sentences": [
+   "Blogger is a tool that lets people write blogs online.",
+   "It started in 1999 and was made by Pyra Labs.",
+   "Google bought it in 2003.",
+   "Google hosts the blogs.",
+   "Users can access these blogs through a blogspot.com address or their own custom domain (like www.example.com).",
+   "Before May 1, 2010, users could publish their blogs to their own web servers using FTP, but now all blogs must use Google’s servers."
+  ],
+  "topic": "it"
+ }
+]

@@ -1,0 +1,861 @@
+[
+ {
+  "id": "constitution",
+  "pos": [
+   "n"
+  ],
+  "vi": "hiến pháp; thể chất; sự cấu thành",
+  "coll": [
+   "amend the constitution",
+   "under the constitution",
+   "the US Constitution",
+   "a strong constitution"
+  ]
+ },
+ {
+  "id": "consumer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người tiêu dùng",
+  "coll": [
+   "consumer goods",
+   "consumer protection",
+   "consumer demand",
+   "consumer spending",
+   "consumer confidence"
+  ]
+ },
+ {
+  "id": "counter",
+  "pos": [
+   "n",
+   "v",
+   "adv",
+   "adj"
+  ],
+  "vi": "quầy; mặt bàn bếp; đáp trả; ngược lại",
+  "coll": [
+   "kitchen counter",
+   "over the counter",
+   "check-in counter",
+   "counter an argument"
+  ]
+ },
+ {
+  "id": "depression",
+  "pos": [
+   "n"
+  ],
+  "vi": "trầm cảm; suy thoái; chỗ lõm",
+  "coll": [
+   "suffer from depression",
+   "economic depression",
+   "the Great Depression",
+   "severe depression",
+   "signs of depression"
+  ]
+ },
+ {
+  "id": "employment",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc làm; sự thuê mướn",
+  "coll": [
+   "full employment",
+   "employment opportunities",
+   "employment contract",
+   "seek employment",
+   "employment rate"
+  ]
+ },
+ {
+  "id": "exclusive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "độc quyền; dành riêng; sang trọng",
+  "coll": [
+   "exclusive interview",
+   "exclusive rights",
+   "an exclusive club",
+   "mutually exclusive"
+  ]
+ },
+ {
+  "id": "frequently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thường xuyên; hay",
+  "coll": [
+   "frequently asked questions",
+   "frequently used",
+   "occur frequently",
+   "travel frequently"
+  ]
+ },
+ {
+  "id": "hopefully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hy vọng rằng; đầy hy vọng",
+  "coll": [
+   "hopefully we will win",
+   "hopefully by tomorrow",
+   "smile hopefully",
+   "hopefully soon"
+  ]
+ },
+ {
+  "id": "object",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồ vật; vật thể; mục đích; phản đối",
+  "coll": [
+   "a sharp object",
+   "unidentified flying object",
+   "object to the plan",
+   "direct object"
+  ]
+ },
+ {
+  "id": "pattern",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "khuôn mẫu; hoa văn; quy luật; kiểu mẫu",
+  "coll": [
+   "behavior pattern",
+   "weather patterns",
+   "follow a pattern",
+   "a floral pattern",
+   "sleep patterns"
+  ]
+ },
+ {
+  "id": "pregnant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mang thai; có bầu",
+  "coll": [
+   "get pregnant",
+   "heavily pregnant",
+   "a pregnant woman",
+   "pregnant with her first child"
+  ]
+ },
+ {
+  "id": "promote",
+  "pos": [
+   "v"
+  ],
+  "vi": "thúc đẩy; quảng bá; thăng chức",
+  "coll": [
+   "promote economic growth",
+   "promote a new product",
+   "promote healthy eating",
+   "promoted to manager"
+  ]
+ },
+ {
+  "id": "severe",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nghiêm trọng; khắc nghiệt; nặng",
+  "coll": [
+   "severe weather",
+   "severe pain",
+   "severe damage",
+   "severe punishment",
+   "a severe shortage"
+  ]
+ },
+ {
+  "id": "suppose",
+  "pos": [
+   "v"
+  ],
+  "vi": "cho rằng; giả sử; đoán",
+  "coll": [
+   "I suppose so",
+   "suppose that it's true",
+   "be supposed to",
+   "let's suppose"
+  ]
+ },
+ {
+  "id": "tournament",
+  "pos": [
+   "n"
+  ],
+  "vi": "giải đấu; vòng đấu",
+  "coll": [
+   "tennis tournament",
+   "win a tournament",
+   "knockout tournament",
+   "golf tournament"
+  ]
+ },
+ {
+  "id": "victim",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nạn nhân",
+  "coll": [
+   "crime victim",
+   "fall victim to",
+   "victims of war",
+   "victim support",
+   "murder victim"
+  ]
+ },
+ {
+  "id": "arrest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự bắt giữ; bắt giữ; ngăn chặn",
+  "coll": [
+   "under arrest",
+   "make an arrest",
+   "house arrest",
+   "arrest warrant",
+   "arrest a suspect"
+  ]
+ },
+ {
+  "id": "attend",
+  "pos": [
+   "v"
+  ],
+  "vi": "tham dự; đi học; chăm sóc",
+  "coll": [
+   "attend a meeting",
+   "attend school",
+   "attend a wedding",
+   "attend to the matter"
+  ]
+ },
+ {
+  "id": "crash",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "vụ tai nạn; sự sụp đổ; đâm sầm; treo máy",
+  "coll": [
+   "car crash",
+   "plane crash",
+   "stock market crash",
+   "crash into a tree",
+   "computer crash"
+  ]
+ },
+ {
+  "id": "deliver",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "giao hàng; phát biểu; đỡ đẻ; thực hiện lời hứa",
+  "coll": [
+   "deliver a package",
+   "deliver a speech",
+   "deliver a baby",
+   "deliver on promises"
+  ]
+ },
+ {
+  "id": "depth",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ sâu; chiều sâu",
+  "coll": [
+   "in depth",
+   "the depth of the water",
+   "depth of knowledge",
+   "out of your depth"
+  ]
+ },
+ {
+  "id": "electronic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "điện tử",
+  "coll": [
+   "electronic devices",
+   "electronic music",
+   "electronic signature",
+   "electronic payment"
+  ]
+ },
+ {
+  "id": "existence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tồn tại; cuộc sống",
+  "coll": [
+   "come into existence",
+   "the existence of God",
+   "daily existence",
+   "still in existence"
+  ]
+ },
+ {
+  "id": "maintenance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bảo trì; sự duy trì; tiền cấp dưỡng",
+  "coll": [
+   "car maintenance",
+   "maintenance costs",
+   "routine maintenance",
+   "maintenance work"
+  ]
+ },
+ {
+  "id": "nearby",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "gần đó; lân cận",
+  "coll": [
+   "a nearby town",
+   "live nearby",
+   "nearby villages",
+   "a nearby restaurant"
+  ]
+ },
+ {
+  "id": "origin",
+  "pos": [
+   "n"
+  ],
+  "vi": "nguồn gốc; xuất xứ",
+  "coll": [
+   "country of origin",
+   "the origin of life",
+   "ethnic origin",
+   "humble origins"
+  ]
+ },
+ {
+  "id": "retail",
+  "pos": [
+   "n",
+   "adj",
+   "adv",
+   "v"
+  ],
+  "vi": "bán lẻ",
+  "coll": [
+   "retail price",
+   "retail store",
+   "retail sales",
+   "retail therapy"
+  ]
+ },
+ {
+  "id": "shame",
+  "pos": [
+   "n",
+   "intj",
+   "adj",
+   "v"
+  ],
+  "vi": "sự xấu hổ; điều đáng tiếc; nỗi nhục; làm xấu hổ",
+  "coll": [
+   "what a shame",
+   "shame on you",
+   "a sense of shame",
+   "put someone to shame"
+  ]
+ },
+ {
+  "id": "surely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chắc chắn; hẳn là",
+  "coll": [
+   "slowly but surely",
+   "surely not",
+   "surely you remember",
+   "will surely come"
+  ]
+ },
+ {
+  "id": "absolute",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tuyệt đối; hoàn toàn",
+  "coll": [
+   "absolute power",
+   "an absolute majority",
+   "absolute truth",
+   "absolute zero",
+   "an absolute beginner"
+  ]
+ },
+ {
+  "id": "calm",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "bình tĩnh; yên lặng; làm dịu; sự yên tĩnh",
+  "coll": [
+   "stay calm",
+   "keep calm",
+   "calm down",
+   "a calm sea",
+   "a calm voice"
+  ]
+ },
+ {
+  "id": "chat show",
+  "pos": [
+   "n"
+  ],
+  "vi": "chương trình trò chuyện; talk show",
+  "coll": [
+   "chat show host",
+   "appear on a chat show",
+   "late-night chat show"
+  ]
+ },
+ {
+  "id": "empire",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "đế chế; đế quốc",
+  "coll": [
+   "the Roman Empire",
+   "business empire",
+   "build an empire",
+   "the British Empire"
+  ]
+ },
+ {
+  "id": "incident",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sự cố; vụ việc",
+  "coll": [
+   "without incident",
+   "an isolated incident",
+   "a serious incident",
+   "incident report"
+  ]
+ },
+ {
+  "id": "weapon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vũ khí",
+  "coll": [
+   "nuclear weapons",
+   "a deadly weapon",
+   "carry a weapon",
+   "weapons of mass destruction",
+   "secret weapon"
+  ]
+ },
+ {
+  "id": "broad",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "rộng; bao quát; rộng lớn",
+  "coll": [
+   "broad shoulders",
+   "a broad range of",
+   "in broad daylight",
+   "a broad smile"
+  ]
+ },
+ {
+  "id": "closely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chặt chẽ; kỹ; sát sao",
+  "coll": [
+   "work closely with",
+   "watch closely",
+   "closely related",
+   "closely linked",
+   "look closely"
+  ]
+ },
+ {
+  "id": "constantly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "liên tục; không ngừng",
+  "coll": [
+   "constantly changing",
+   "constantly evolving",
+   "complain constantly",
+   "constantly under pressure"
+  ]
+ },
+ {
+  "id": "height",
+  "pos": [
+   "n"
+  ],
+  "vi": "chiều cao; độ cao; đỉnh điểm",
+  "coll": [
+   "average height",
+   "at the height of his career",
+   "fear of heights",
+   "medium height"
+  ]
+ },
+ {
+  "id": "hidden",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "ẩn; giấu kín; bị che khuất",
+  "coll": [
+   "hidden costs",
+   "hidden agenda",
+   "hidden camera",
+   "hidden treasure",
+   "hidden meaning"
+  ]
+ },
+ {
+  "id": "loud",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "ồn ào; to tiếng; lòe loẹt",
+  "coll": [
+   "loud noise",
+   "loud music",
+   "read out loud",
+   "loud and clear",
+   "a loud voice"
+  ]
+ },
+ {
+  "id": "marine",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thuộc về biển; hàng hải; lính thủy đánh bộ",
+  "coll": [
+   "marine life",
+   "marine biology",
+   "marine environment",
+   "the Marine Corps"
+  ]
+ },
+ {
+  "id": "motor",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "động cơ; mô tơ; thuộc vận động",
+  "coll": [
+   "electric motor",
+   "motor vehicle",
+   "motor racing",
+   "motor skills",
+   "motor insurance"
+  ]
+ },
+ {
+  "id": "officially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chính thức",
+  "coll": [
+   "officially announced",
+   "officially opened",
+   "officially recognized",
+   "officially launched"
+  ]
+ },
+ {
+  "id": "respond",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "trả lời; phản hồi; phản ứng",
+  "coll": [
+   "respond to questions",
+   "respond quickly",
+   "respond positively",
+   "respond to treatment",
+   "fail to respond"
+  ]
+ },
+ {
+  "id": "somehow",
+  "pos": [
+   "adv"
+  ],
+  "vi": "bằng cách nào đó; không hiểu sao",
+  "coll": [
+   "somehow managed to escape",
+   "somehow or other",
+   "somehow survived",
+   "somehow it feels wrong"
+  ]
+ },
+ {
+  "id": "blind",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "mù; mù quáng; rèm cửa; làm lóa mắt",
+  "coll": [
+   "blind spot",
+   "go blind",
+   "blind date",
+   "turn a blind eye",
+   "blind faith"
+  ]
+ },
+ {
+  "id": "breath",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "hơi thở; hơi",
+  "coll": [
+   "take a deep breath",
+   "hold your breath",
+   "out of breath",
+   "catch your breath",
+   "bad breath"
+  ]
+ },
+ {
+  "id": "brief",
+  "pos": [
+   "adj",
+   "v",
+   "n",
+   "adv"
+  ],
+  "vi": "ngắn gọn; ngắn ngủi; tóm tắt cho; bản chỉ dẫn",
+  "coll": [
+   "a brief moment",
+   "a brief description",
+   "in brief",
+   "a brief history of",
+   "brief the staff"
+  ]
+ },
+ {
+  "id": "conduct",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiến hành; hành vi; chỉ huy dàn nhạc; dẫn điện",
+  "coll": [
+   "conduct research",
+   "conduct an interview",
+   "code of conduct",
+   "conduct a survey",
+   "conduct an orchestra"
+  ]
+ },
+ {
+  "id": "engaged",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đã đính hôn; bận; tham gia vào",
+  "coll": [
+   "get engaged",
+   "engaged in conversation",
+   "engaged to be married",
+   "the line is engaged"
+  ]
+ },
+ {
+  "id": "fantasy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tưởng tượng; điều huyễn tưởng; thể loại kỳ ảo",
+  "coll": [
+   "fantasy world",
+   "fantasy novel",
+   "live in a fantasy",
+   "fantasy football",
+   "wildest fantasies"
+  ]
+ },
+ {
+  "id": "grab",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chộp lấy; nắm lấy; tranh thủ",
+  "coll": [
+   "grab a bite",
+   "grab attention",
+   "grab a coffee",
+   "grab hold of",
+   "grab the opportunity"
+  ]
+ },
+ {
+  "id": "immediate",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ngay lập tức; trực tiếp; gần nhất",
+  "coll": [
+   "immediate action",
+   "immediate effect",
+   "immediate family",
+   "immediate response",
+   "the immediate future"
+  ]
+ },
+ {
+  "id": "introduction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giới thiệu; lời mở đầu; sự du nhập",
+  "coll": [
+   "a brief introduction",
+   "the introduction of new technology",
+   "letter of introduction",
+   "an introduction to programming"
+  ]
+ },
+ {
+  "id": "recognize",
+  "pos": [
+   "v"
+  ],
+  "vi": "nhận ra; công nhận; thừa nhận",
+  "coll": [
+   "recognize his voice",
+   "recognize the importance",
+   "officially recognized",
+   "widely recognized"
+  ]
+ },
+ {
+  "id": "steam",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "hơi nước; hấp; bốc hơi",
+  "coll": [
+   "steam engine",
+   "full steam ahead",
+   "let off steam",
+   "steam train",
+   "run out of steam"
+  ]
+ },
+ {
+  "id": "witness",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhân chứng; chứng kiến",
+  "coll": [
+   "key witness",
+   "witness statement",
+   "witness a crime",
+   "call a witness",
+   "bear witness to"
+  ]
+ },
+ {
+  "id": "aim",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mục tiêu; mục đích; nhắm; nhằm",
+  "coll": [
+   "the main aim",
+   "take aim",
+   "aim high",
+   "achieve your aims",
+   "aim at the target"
+  ]
+ },
+ {
+  "id": "comedy",
+  "pos": [
+   "n"
+  ],
+  "vi": "hài kịch; phim hài; sự hài hước",
+  "coll": [
+   "stand-up comedy",
+   "romantic comedy",
+   "comedy show",
+   "comedy series"
+  ]
+ }
+]

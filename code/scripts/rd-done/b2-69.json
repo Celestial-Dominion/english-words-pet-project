@@ -1,0 +1,119 @@
+[
+ {
+  "id": "wiki-2024-mobile-guardian-security-breach",
+  "title_vi": "Vụ vi phạm bảo mật Mobile Guardian năm 2024",
+  "vi": [
+   "Vụ vi phạm bảo mật Mobile Guardian năm 2024 là một sự cố ảnh hưởng đến Mobile Guardian.",
+   "Mobile Guardian là nền tảng quản lý thiết bị di động.",
+   "Nó xảy ra vào tháng 8 năm 2024.",
+   "Nó khiến nhiều người từ nhiều quốc gia bị mất dữ liệu.",
+   "Nó chủ yếu ảnh hưởng đến Singapore.",
+   "Nó gây ra vấn đề cho các trường học ở nhiều nước.",
+   "Bộ Giáo dục Singapore đã chấm dứt hợp đồng với Mobile Guardian."
+  ]
+ },
+ {
+  "id": "wiki-side-effect-computer-science",
+  "title_vi": "Hiệu ứng phụ (khoa học máy tính)",
+  "vi": [
+   "Một phần của chương trình có hiệu ứng phụ (side effect) sẽ thực hiện một hành động đáng chú ý ngoài việc trả lại một giá trị.",
+   "Ví dụ bao gồm hiển thị hình ảnh trên màn hình máy tính hoặc kiểm tra xem đó là năm nào.",
+   "Mã có tác dụng phụ có thể khó hiểu hơn nếu không có bất kỳ ngữ cảnh nào và thứ tự hướng dẫn sẽ quan trọng hơn đối với mã có tác dụng phụ.",
+   "Trong lập trình chức năng, các lập trình viên cố gắng tránh các tác dụng phụ khi có thể, do đó, việc chứng minh rằng một chương trình sẽ luôn làm những gì nó được yêu cầu sẽ dễ dàng hơn.",
+   "Trong một số ngôn ngữ chức năng, như Standard ML, Schema hoặc Scala, các tác dụng phụ không bị hạn chế nhưng các lập trình viên vẫn cố gắng sử dụng chúng ít hơn.",
+   "Trong Haskell, các hành động có tác dụng phụ phải được nêu rõ ràng—điều này giúp dễ dàng biết được mã nào có hoặc không có chúng."
+  ]
+ },
+ {
+  "id": "wiki-source-code",
+  "title_vi": "Mã nguồn",
+  "vi": [
+   "Trong lập trình máy tính, mã nguồn (nói chung) là một phiên bản tệp văn bản của chương trình hoặc phần mềm máy tính chứa các hướng dẫn mà máy tính tuân theo để thực hiện điều gì đó.",
+   "Mã nguồn được viết bằng ngôn ngữ lập trình mà con người có thể đọc và thay đổi.",
+   "Một chương trình lớn có thể chứa nhiều tệp mã nguồn khác nhau, tất cả đều hoạt động cùng nhau.",
+   "Mã nguồn trong nhiều trường hợp được biên dịch trước khi chạy nó.",
+   "Điều đó có nghĩa là dịch mã sang ngôn ngữ hợp ngữ hoặc ngôn ngữ máy, ngôn ngữ này nhanh hơn và dễ đọc hơn nhiều đối với máy tính nhưng con người lại khó đọc.",
+   "Một cách rất phổ biến khác là diễn giải mã mà không cần bước biên dịch, trong khi cách này thường chậm hơn.",
+   "Một chương trình máy tính có thể là nguồn mở, nghĩa là mã nguồn được chia sẻ với bất kỳ ai muốn xem và thay đổi nó.",
+   "Tuy nhiên, nhiều chương trình là nguồn đóng, có nghĩa là chỉ mã thực thi được phân phối và mọi người không được phép xem và thay đổi mã."
+  ]
+ },
+ {
+  "id": "wiki-web-hosting-service",
+  "title_vi": "Dịch vụ lưu trữ web",
+  "vi": [
+   "Dịch vụ lưu trữ web là một loại dịch vụ lưu trữ trên Internet.",
+   "Nó cho phép mọi người và các công ty cung cấp trang web của họ trên World Wide Web.",
+   "Máy chủ web là các công ty cung cấp không gian trên máy chủ do khách hàng sở hữu hoặc cho thuê để sử dụng.",
+   "Những khách hàng này lưu trữ trang Web của họ trên máy chủ.",
+   "Máy chủ cung cấp các trang web cho Internet.",
+   "Ví dụ, Fandom là một dịch vụ lưu trữ.",
+   "Nhiều công ty lưu trữ web cũng cung cấp các dịch vụ khác bao gồm cả dịch vụ lưu trữ tập tin."
+  ]
+ },
+ {
+  "id": "wiki-cursor",
+  "title_vi": "Con trỏ",
+  "vi": [
+   "Con trỏ là một hình trên màn hình máy tính hiển thị nơi các thao tác được thực hiện bằng bàn phím hoặc chuột sẽ tạo ra thay đổi.",
+   "Trước máy tính hiện đại, con trỏ đã đánh dấu một điểm trên thước trượt.",
+   "Có 2 loại con trỏ mà hầu hết mọi người sẽ sử dụng.",
+   "Con trỏ chuột: Con trỏ trên màn hình mà người sử dụng máy tính có thể di chuyển bằng chuột máy tính.",
+   "Con trỏ này cho phép người dùng chọn hoặc \"nhấp\" các mục bằng chuột.",
+   "Trên hầu hết các máy tính, con trỏ chuột có hình mũi tên.",
+   "Con trỏ văn bản: Thường được xem dưới dạng một đường thẳng đứng hoặc hình chữ nhật nhấp nháy và tắt.",
+   "Con trỏ cho người sử dụng máy tính biết nơi họ đang gõ nội dung trên màn hình.",
+   "Họ có thể gõ các chữ cái, số và ký hiệu ở vị trí có con trỏ.",
+   "Máy tính tự động di chuyển con trỏ sang phải một khoảng trắng khi gõ một chữ cái, số hoặc ký hiệu.",
+   "Con trỏ có thể được di chuyển đến đầu dòng tiếp theo bằng cách nhấn phím Enter khi trong trường hợp như gõ trên tài liệu văn bản.",
+   "Cũng có những trường hợp như gõ tin nhắn mà ai đó cần giữ Shift + Enter để chuyển sang dòng khác nếu Enter thường gửi tin nhắn.",
+   "Hầu hết các bàn phím cũng có 4 phím con trỏ để di chuyển con trỏ văn bản lên, xuống, trái hoặc phải."
+  ]
+ },
+ {
+  "id": "wiki-encyclopedia-of-life",
+  "title_vi": "Bách khoa toàn thư về sự sống",
+  "vi": [
+   "Bách khoa toàn thư về sự sống (EoL) là một nguồn thông tin trực tuyến.",
+   "Bách khoa toàn thư về sự sống liệt kê thực vật, động vật và tất cả các loại sinh vật sống khác.",
+   "Nó cung cấp thông tin này bằng nhiều ngôn ngữ.",
+   "Nó có hơn 2 triệu loài trong đó, khiến nó trở thành một trong những nguồn thông tin về loài lớn nhất trên thế giới.",
+   "Nhiều nhóm khác nhau làm việc cùng nhau để xây dựng và vận hành bộ bách khoa toàn thư.",
+   "Bảo tàng Lịch sử Tự nhiên Quốc gia của Viện Smithsonian là người dẫn đầu."
+  ]
+ },
+ {
+  "id": "wiki-assembly-language",
+  "title_vi": "Hợp ngữ",
+  "vi": [
+   "Hợp ngữ là ngôn ngữ lập trình có thể được sử dụng để trực tiếp ra lệnh cho máy tính phải làm gì.",
+   "Ngôn ngữ hợp ngữ gần giống hệt như mã máy mà máy tính có thể hiểu được, ngoại trừ việc nó sử dụng các từ thay cho các con số.",
+   "Một máy tính thực sự không thể hiểu được một chương trình hợp ngữ một cách trực tiếp.",
+   "Tuy nhiên, nó có thể dễ dàng chuyển đổi chương trình thành mã máy bằng cách thay thế các từ của chương trình bằng các số mà chúng đại diện.",
+   "Một chương trình thực hiện điều đó được gọi là trình biên dịch mã.",
+   "Các chương trình viết bằng hợp ngữ thường được tạo thành từ các hướng dẫn, là những tác vụ nhỏ mà máy tính thực hiện khi chạy chương trình.",
+   "Chúng được gọi là hướng dẫn vì người lập trình sử dụng chúng để hướng dẫn máy tính phải làm gì.",
+   "Bộ phận của máy tính làm theo hướng dẫn là bộ xử lý.",
+   "Ngôn ngữ hợp ngữ của máy tính là ngôn ngữ cấp thấp, nghĩa là nó chỉ có thể được sử dụng để thực hiện các tác vụ đơn giản mà máy tính có thể hiểu trực tiếp.",
+   "Để thực hiện các nhiệm vụ phức tạp hơn, người ta phải báo cho máy tính biết từng nhiệm vụ đơn giản là một phần của nhiệm vụ phức tạp.",
+   "Ví dụ, một máy tính không hiểu cách in một câu trên màn hình.",
+   "Thay vào đó, một chương trình được viết bằng hợp ngữ phải cho nó biết cách thực hiện tất cả các bước nhỏ liên quan đến việc in câu.",
+   "Một chương trình lắp ráp như vậy sẽ bao gồm rất nhiều hướng dẫn, cùng nhau thực hiện một việc gì đó có vẻ rất đơn giản và cơ bản đối với con người.",
+   "Điều này khiến con người khó đọc được một chương trình hợp ngữ.",
+   "Ngược lại, ngôn ngữ lập trình cấp cao có thể có một lệnh duy nhất như IN \"Xin chào thế giới!\" điều đó sẽ yêu cầu máy tính thực hiện tất cả các tác vụ nhỏ cho bạn."
+  ]
+ },
+ {
+  "id": "wiki-plug-and-play",
+  "title_vi": "Plug and play",
+  "vi": [
+   "Plug and play là tên của một số công nghệ được sử dụng trong điện toán.",
+   "Các công nghệ hỗ trợ plug and play cho phép kết nối các thiết bị mới với máy tính.",
+   "Sau một thời gian ngắn, những thiết bị này có thể được sử dụng một cách đơn giản.",
+   "Khi không cần thiết nữa, chúng có thể bị ngắt kết nối lại.",
+   "Plug and play không yêu cầu người dùng tải trình điều khiển thiết bị cụ thể để truy cập thiết bị.",
+   "Plug and play được sử dụng để chỉ cả cấu hình của thiết bị khi khởi động cũng như hệ thống hỗ trợ thêm thiết bị sau này.",
+   "Ví dụ về các hệ thống hỗ trợ cắm và chạy là USB và Firewire."
+  ]
+ }
+]

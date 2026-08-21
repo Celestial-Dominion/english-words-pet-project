@@ -1,0 +1,137 @@
+[
+ {
+  "id": "wiki-real-time-computing",
+  "title_vi": "Điện toán thời gian thực",
+  "vi": [
+   "Tính toán thời gian thực là một lĩnh vực của khoa học máy tính.",
+   "Ý tưởng là thiết kế các hệ thống có hạn chế về thời gian thực.",
+   "Hệ thống thời gian thực sẽ đảm bảo đưa ra kết quả trong một thời gian nhất định.",
+   "Có hai loại hệ thống thời gian thực: Hệ thống thời gian thực cứng: Sau khi hết thời gian trễ, kết quả hoàn toàn vô dụng (và được coi là lỗi).",
+   "Bất kể điều gì xảy ra, hệ thống thời gian thực cứng sẽ cung cấp kết quả trong thời gian đã chỉ định.",
+   "Ví dụ thực tế là bộ điều khiển túi khí trên ô tô.",
+   "Thời gian phản ứng của hệ thống túi khí là khoảng 1 ms.",
+   "Một ví dụ khác về hệ thống thời gian thực cứng là hệ thống chống bó cứng phanh trên ô tô.",
+   "Nếu nó không phản ứng đủ nhanh, tai nạn sẽ xảy ra.",
+   "Mọi người có thể chết vì kết quả không đến đủ nhanh.",
+   "Hệ thống thời gian thực mềm: Trung bình, các hệ thống này hoạt động đủ nhanh để tạo cảm giác giống như thời gian thực.",
+   "Hệ thống hội nghị truyền hình có micro giây để ghi lại âm thanh và video, gửi chúng cho bên kia và xử lý dữ liệu đến.",
+   "Nếu tại một thời điểm, điều này không thể thực hiện được, video sẽ bị mờ và âm thanh có thể không đồng bộ trong giây lát.",
+   "Tuy nhiên, đây không phải là thảm họa và hệ thống có thể tiếp tục hoạt động."
+  ]
+ },
+ {
+  "id": "wiki-the-singularity-is-near",
+  "title_vi": "Điểm kỳ dị đang đến gần",
+  "vi": [
+   "Điểm kỳ dị đang đến gần: Khi con người vượt qua sinh học (2005) là cuốn sách về trí tuệ nhân tạo (AI) của Ray Kurzweil.",
+   "Ông mô tả quy luật lợi nhuận tăng tốc của mình.",
+   "Điều này dự đoán sức mạnh của các công nghệ như máy tính, kỹ thuật di truyền, công nghệ nano, robot và AI sẽ tăng theo cấp số nhân.",
+   "Tác giả cho rằng điều này có nghĩa là trí tuệ máy móc sẽ trở nên tiên tiến hơn trí tuệ sinh học.",
+   "Trí thông minh Cyborg cuối cùng chiếm ưu thế.",
+   "Cuốn sách cũng dự đoán rằng khi \"điểm kỳ dị về công nghệ\" xuất hiện, con người có thể hợp nhất với máy móc và trở thành người máy hoặc người máy.",
+   "Đây không phải là lần đầu tiên ý tưởng này được đề xuất.",
+   "Nó có một lịch sử lâu dài trong khoa học viễn tưởng và đã được giới thiệu trong một số bộ phim, chẳng hạn như năm 2001.",
+   "Các bài đánh giá về cuốn sách có nhiều ý kiến trái chiều."
+  ]
+ },
+ {
+  "id": "news-russian-wikipedia-reaches-half-a-million",
+  "title_vi": "Wikipedia tiếng Nga đạt nửa triệu bài viết",
+  "vi": [
+   "Thứ sáu, ngày 26 tháng 2 năm 2010 Wikipedia tiếng Nga đã vượt qua 500.000 bài viết lúc 10:02 UTC vào ngày 25 tháng 2 năm 2010, sau khi \"Ys\", một bài viết về album của Joanna Newsom, được tạo bởi Nurse Fiction, một người mới đến với Wikipedia.",
+   "Wikipedia tiếng Nga là phiên bản ngôn ngữ lớn thứ mười của Wikipedia, tự hào có hơn 350 \"Bài viết nổi bật\" và 930 \"Bài viết hay\", được coi là tốt nhất trong bộ bách khoa toàn thư có thể chỉnh sửa tự do.",
+   "Wikipedia tiếng Nga cũng là một trong số ít ngôn ngữ áp dụng hệ thống Sửa đổi được gắn cờ.",
+   "Wikipedia là một bộ bách khoa toàn thư đa ngôn ngữ mà hầu hết mọi người có kết nối internet đều có thể chỉnh sửa, nghĩa là Wikipedia tiếng Nga có 437.862 người dùng đã đăng ký với 12.929 người thực hiện ít nhất 1 lần chỉnh sửa trong tháng trước.",
+   "Người dùng trẻ nhất được biết đến là 10 tuổi và người lớn tuổi nhất là 80.",
+   "Năm ngoái, chi nhánh tiếng Nga của Wikimedia Foundation, tổ chức đứng sau Wikipedia, đã bắt đầu hoạt động tích cực hỗ trợ các phiên bản Wikipedia bằng nhiều ngôn ngữ được sử dụng ở Nga — như Tatar, Chuvash, Ossetian và Yakut."
+  ]
+ },
+ {
+  "id": "news-dutch-justice-department-bans-wikipedia-",
+  "title_vi": "Bộ Tư pháp Hà Lan cấm nhân viên dùng Wikipedia sau vụ phá hoại",
+  "vi": [
+   "Thứ Bảy, ngày 17 tháng 11 năm 2007 Một phát ngôn viên của Bộ Tư pháp Hà Lan đã xác nhận với tạp chí Hà Lan Intermediair rằng họ sẽ tạm thời đình chỉ quyền truy cập vào Wikipedia đối với 30.000 nhân viên của mình, sau hành vi phá hoại gần đây được tiết lộ bởi các nhân viên.",
+   "Tạp chí đã đối chất với bộ về một số chỉnh sửa không phù hợp đối với Wikipedia tiếng Hà Lan bắt nguồn từ địa chỉ IP của họ.",
+   "Người dùng ẩn danh được đăng ký thông qua các dấu vân tay internet duy nhất này khi họ chỉnh sửa Wikipedia.",
+   "Tạp chí đã vạch trần hành vi phá hoại thông qua Wikiscanner.nl, một trang web kết hợp cơ sở dữ liệu về các thay đổi của Wikipedia với cơ sở dữ liệu máy chủ từ các tổ chức lớn.",
+   "Trang web này có thể được sử dụng để tiết lộ tổ chức nào đứng sau các biên tập viên Wikipedia ẩn danh.",
+   "Một trong những chỉnh sửa liên quan đến bài báo về vụ sát hại nhà làm phim gây tranh cãi Theo van Gogh bởi một kẻ cực đoan Hồi giáo, khiến Hà Lan bị sốc và dẫn đến một cuộc tranh luận gay gắt về hội nhập và sự an toàn của các nhân vật của công chúng.",
+   "Năm 2005, kẻ phá hoại đã bổ sung thêm bài báo rằng ông van Gogh đang đạp xe qua một con phố ở Amsterdam “với dương vật thò ra ngoài quần” thì bị bắn.",
+   "Một vụ việc khác liên quan đến bài báo tiếng Hà Lan về chính trị gia nổi tiếng Lousewies van der Laan, trong đó một biên tập viên ẩn danh nói thêm rằng biệt danh của cô ấy là \"kẻ xấu xa bình thường\".",
+   "Tạp chí tiết lộ rằng mặc dù có một số chỉnh sửa hạn chế về các chủ đề pháp lý, nhưng cũng có những chỉnh sửa đối với các bài viết về Chúa Giêsu Kitô, các ngôi sao nhạc pop, phép thuật phù thủy, Vịt Donald và thủ dâm.",
+   "Trên trang thảo luận của một trong những người dùng ẩn danh có danh sách khoảng 50 bài viết đã xảy ra hành vi phá hoại.",
+   "Hầu hết các hành vi phá hoại đã được các biên tập viên khác nhanh chóng hoàn nguyên.",
+   "Elly Waterman, chủ tịch Wikimedia Hà Lan, đã chỉ ra với tạp chí rằng không chỉ công chức mà cả nhân viên tòa án cũng có thể đứng sau những sửa đổi này.",
+   "Người phát ngôn cho biết thêm, do những hạn chế pháp lý về thời gian lưu trữ hoạt động trên Internet, nên có thể sẽ không thể tìm ra chính xác ai đã thực hiện hành vi phá hoại."
+  ]
+ },
+ {
+  "id": "wiki-cryptography",
+  "title_vi": "Mật mã học",
+  "vi": [
+   "Mật mã học (cryptography hay cryptology) là việc thực hành và nghiên cứu cách che giấu thông tin.",
+   "Đôi khi nó được gọi là mã, nhưng đây thực sự không phải là một cái tên chính xác.",
+   "Đó là khoa học được sử dụng để cố gắng giữ thông tin bí mật và an toàn.",
+   "Mật mã hiện đại là sự kết hợp của toán học, khoa học máy tính và kỹ thuật điện.",
+   "Mật mã được sử dụng trong thẻ ATM (ngân hàng), mật khẩu máy tính và mua sắm trên internet.",
+   "Khi một tin nhắn được gửi bằng mật mã, nó sẽ được thay đổi (hoặc mã hóa) trước khi gửi.",
+   "Phương pháp thay đổi văn bản được gọi là \"mật mã\" hay chính xác hơn là \"mật mã\".",
+   "Văn bản đã thay đổi được gọi là \"bản mã\".",
+   "Sự thay đổi làm cho tin nhắn khó đọc.",
+   "Ai muốn đọc thì phải đổi lại (hoặc giải mã).",
+   "Làm thế nào để thay đổi nó trở lại là một bí mật.",
+   "Cả người gửi tin nhắn và người nhận tin nhắn đều phải biết cách bí mật để thay đổi nó, nhưng những người khác thì không thể làm được.",
+   "Nghiên cứu mật mã để khám phá bí mật được gọi là \"phân tích mật mã\" hay \"bẻ khóa\" hoặc đôi khi là \"phá mã\".",
+   "Các loại mật mã khác nhau có thể dễ sử dụng hơn hoặc khó hơn và có thể che giấu tin nhắn bí mật tốt hơn hoặc tệ hơn.",
+   "Mật mã sử dụng một \"chìa khóa\" bí mật để che giấu các thông điệp bí mật.",
+   "Phương pháp mã hóa không cần phải bí mật."
+  ]
+ },
+ {
+  "id": "news-first-computer-game-in-piedmontese-langu",
+  "title_vi": "Trò chơi máy tính đầu tiên bằng tiếng Piedmontese",
+  "vi": [
+   "Chủ nhật, ngày 15 tháng 7 năm 2007 Freecol, một phần mềm miễn phí (theo Giấy phép Công cộng GNU) đã được phát hành bằng tiếng Piedmontese.",
+   "Điều này làm cho trò chơi, bản sao của Sid Meier's Colonization, trở thành trò chơi đầu tiên được phát hành bằng ngôn ngữ chỉ được khoảng hai triệu người sử dụng này.",
+   "Freecol, mô phỏng quá trình lịch sử dẫn đến Tuyên ngôn Độc lập ở Bắc Mỹ, là trò chơi máy tính đầu tiên được bản địa hóa bằng ngôn ngữ Piedmontese.",
+   "Người chơi trò chơi cần thực hiện các hành động hành chính và chính trị để đạt được mục tiêu.",
+   "Phiên bản 0.7.0 bằng tiếng Piedmontese được phát hành vào ngày 13 tháng 7 năm 2007.",
+   "Những người nói các ngôn ngữ trong khu vực hy vọng đây sẽ là một ví dụ để bản địa hóa trò chơi sang các ngôn ngữ khu vực khác sẽ được phát hành theo thời gian.",
+   "Việc bản địa hóa được thực hiện trên Betawiki, nền tảng cũng được sử dụng để bản địa hóa phần mềm Mediawiki."
+  ]
+ },
+ {
+  "id": "news-time-magazine-names-ahmed-mohamed-to-mos",
+  "title_vi": "Tạp chí Time vinh danh Ahmed Mohamed là 'Thanh thiếu niên có ảnh hưởng nhất năm 2015'",
+  "vi": [
+   "Thứ Tư, ngày 28 tháng 10 năm 2015 Tạp chí Time hôm qua đã vinh danh cậu bé 14 tuổi Ahmed Mohamed vào danh sách \"30 thanh thiếu niên có ảnh hưởng nhất năm 2015\".",
+   "Anh ta trở nên nổi tiếng sau khi bị cảnh sát bắt giữ khi một giáo viên cho rằng chiếc đồng hồ anh ta mang đến trường ở Texas trông giống như một quả bom.",
+   "Mohamed gia nhập hàng ngũ thanh thiếu niên có ảnh hưởng, bao gồm Malia Obama, con gái của Tổng thống Mỹ Barack Obama và người đoạt giải Nobel Hòa bình Malala Yousafzai.",
+   "Time nói về Mohamed khi thông báo tin này: \"Không có nhiều người tạo nên tin tức quốc gia bằng cách mang chiếc đồng hồ tự chế đến trường.",
+   "Nhưng vụ bắt giữ học sinh lớp chín, sau khi giáo viên và chính quyền nhầm đồng hồ đó với một quả bom, đã gây ra một cuộc tranh luận toàn quốc về việc phân biệt chủng tộc\".",
+   "Mohamed đã đến Nhà Trắng vào tuần trước để gặp Tổng thống Mỹ Barack Obama.",
+   "Gia đình anh tuần trước cho biết họ sẽ chuyển từ Texas đến Qatar, nơi Mohamed được cấp học bổng toàn phần để theo học tại một trường học danh tiếng ở nước này.",
+   "Vụ việc ngày 14 tháng 9 ở Irving, Texas đã gây ra một cuộc thảo luận rộng rãi hơn về chủ nghĩa bài Hồi giáo trong cộng đồng.",
+   "Hashtag #IStandWithAhmed trên Twitter đã trở thành một phần của phong trào xã hội ủng hộ giới trẻ.",
+   "Sau khi tin tức về phản ứng của cảnh sát được báo cáo, Mohamed đã nhận được sự ủng hộ trực tuyến từ Tổng thống Mỹ Barack Obama cho đến người sáng lập Facebook Mark Zuckerberg.",
+   "Mohamed mang chiếc đồng hồ kỹ thuật số do anh làm đến trường vào ngày 14/9 và một giáo viên đã nhầm tưởng nó giống một quả bom.",
+   "Cảnh sát đã bắt giữ và thẩm vấn sinh viên này.",
+   "Hình ảnh cậu bé mặc áo phông NASA và bị cảnh sát còng tay nhanh chóng được đăng tải và đăng lại trên mạng.",
+   "Sự chú ý của Twitter đã dẫn đến việc Google tiếp cận cộng đồng và Mohamed đã được mời tham dự Hội chợ khoa học Google của họ.",
+   "Mohamed là khách VIP tại Hội chợ khoa học Google và đã gặp những người lọt vào vòng chung kết tại sự kiện được tổ chức tại trụ sở chính của Google ở Mountain View, California.",
+   "Đồng sáng lập Google, Sergey Brin, đã đích thân gặp Mohamed trong chuyến thăm Google."
+  ]
+ },
+ {
+  "id": "wiki-blogger-service",
+  "title_vi": "Blogger (dịch vụ)",
+  "vi": [
+   "Blogger là một công cụ cho phép mọi người viết blog trực tuyến.",
+   "Nó bắt đầu vào năm 1999 và được thực hiện bởi Pyra Labs.",
+   "Google đã mua nó vào năm 2003.",
+   "Google lưu trữ các blog.",
+   "Người dùng có thể truy cập các blog này thông qua địa chỉ blogspot.com hoặc tên miền tùy chỉnh của riêng họ (như www.example.com).",
+   "Trước ngày 1 tháng 5 năm 2010, người dùng có thể xuất bản blog của họ lên máy chủ web của riêng họ bằng FTP, nhưng hiện tại tất cả các blog đều phải sử dụng máy chủ của Google."
+  ]
+ }
+]

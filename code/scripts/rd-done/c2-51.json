@@ -1,0 +1,133 @@
+[
+ {
+  "id": "wiki-k-meleon",
+  "title_vi": "K-Meleon",
+  "vi": [
+   "K-Meleon là trình duyệt web nhẹ, miễn phí, mã nguồn mở dành cho Microsoft Windows.",
+   "Không giống như các trình duyệt đa nền tảng, nó sử dụng API Windows để tạo giao diện người dùng.",
+   "Các phiên bản đầu tiên của K-Meleon hiển thị các trang web bằng Gecko, công cụ bố cục trình duyệt của Mozilla.",
+   "Trình duyệt web Firefox và ứng dụng email Mozilla Thunderbird cũng sử dụng Gecko.",
+   "K-Meleon đã trở thành một trình duyệt phổ biến cho Windows.",
+   "Nó có sẵn dưới dạng trình duyệt mặc định tùy chọn ở Châu Âu.",
+   "Sau khi Mozilla ngừng sử dụng Gecko, K-Meleon tiếp tục sử dụng nó trong vài năm.",
+   "K-Meleon 76 sử dụng công cụ bố trí Goanna.",
+   "Goanna là một nhánh của Gecko được tạo cho trình duyệt Pale Moon.",
+   "K-Meleon bắt đầu như một đối thủ cạnh tranh với bộ phần mềm internet ban đầu của Mozilla.",
+   "Nó có mục tiêu là nhanh hơn và nhẹ hơn.",
+   "Cho đến năm 2011, K-Meleon đã nhúng Gecko vào một giao diện đơn giản.",
+   "Trong suốt vòng đời của mình, K-Meleon yêu cầu một lượng nhỏ bộ nhớ.",
+   "K-Meleon 76 sử dụng phuộc Goanna.",
+   "Nó hỗ trợ các nền tảng không còn được Mozilla hỗ trợ sau khi viết lại Gecko của họ.",
+   "K-Meleon hỗ trợ các máy tính cũ và phần mềm máy tính cũ hơn."
+  ]
+ },
+ {
+  "id": "news-intel-launches-centrino-2-aiming-for-per",
+  "title_vi": "Intel ra mắt Centrino 2 hướng đến hiệu năng và tính di động",
+  "vi": [
+   "Thứ Tư, ngày 16 tháng 7 năm 2008 Sau khi ra mắt Intel Atom dành cho PC giá rẻ tại COMPUTEX Đài Bắc 2008, Intel đã công bố trên toàn cầu các sản phẩm Công nghệ xử lý Centrino 2 (trước đây có tên mã là \"Montevina\") dành cho máy tính xách tay vào ngày 15 tháng 7.",
+   "Centrino 2 này tiếp tục hỗ trợ các tính năng trên bộ xử lý \"Penryn\" 45 nanomet (45nm) được phát hành trước đó và triển khai các tính năng quản lý và bảo mật nâng cao cho phiên bản Vpro.",
+   "\"HD-to-Go\" dành cho giải trí di động và \"802.11n\" dành cho mạng không dây đã được nhúng vào công nghệ bộ xử lý mới này.",
+   "Do sự khác biệt về cơ sở hạ tầng mạng ở một số quốc gia, tính năng WiMAX sẽ được bổ sung ở Châu Âu và Bắc Mỹ trước tháng 12 này.",
+   "Theo Intel Corp., đường truyền mạng không dây với tính năng 802.11 Draft-N sẽ lên tới 450 Mbps, tốc độ này gấp 5 lần và phạm vi gấp đôi so với công nghệ 802.11a/g cũ hơn trong công nghệ bộ xử lý này.",
+   "Ngoài ra, Intel Centrino 2 còn cung cấp mã lực và thời lượng pin cho hoạt động giải trí di động và kinh doanh di động."
+  ]
+ },
+ {
+  "id": "wiki-gnu",
+  "title_vi": "GNU",
+  "vi": [
+   "GNU là tên của một hệ điều hành máy tính.",
+   "Tên viết tắt của GNU's Not Unix.",
+   "Richard Stallman lãnh đạo Dự án GNU.",
+   "Các hệ điều hành Linux phổ biến được tạo bằng nhân Linux cũng có nhiều công cụ GNU.",
+   "Vì vậy, nhiều dự án và nhà phát triển gọi hệ điều hành dựa trên Linux là GNU/Linux.",
+   "Dự án GNU được Richard Stallman khởi xướng vào năm 1983.",
+   "Anh ấy muốn tạo ra một hệ thống máy tính hoàn toàn là phần mềm nguồn mở và miễn phí.",
+   "Người dùng có thể thay đổi, chia sẻ và xuất bản tác phẩm mới dựa trên GNU.",
+   "Anh và một nhóm nhà phát triển bắt đầu bằng việc tạo ra các bản sao của từng phần mềm UNIX.",
+   "Phần còn lại của GNU là kernel, được gọi là GNU Hurd, vẫn chưa hoàn thiện.",
+   "Nhân Linux phổ biến hơn thường được sử dụng thay thế."
+  ]
+ },
+ {
+  "id": "wiki-x-window-system",
+  "title_vi": "Hệ thống X Window",
+  "vi": [
+   "Hệ thống X Window là phần mềm dành cho hệ thống giao diện đồ họa người dùng (GUI).",
+   "Nó là một tập hợp các giao thức và chương trình.",
+   "Nó còn được gọi là X11, hoặc chỉ X.",
+   "Nó có thể quản lý các cửa sổ và các phần khác của giao diện người dùng đồ họa (GUI) trên màn hình bitmap.",
+   "Hệ thống X Window thường được tìm thấy trong các hệ điều hành giống Unix.",
+   "X cung cấp các thành phần cơ bản để xây dựng môi trường GUI: vẽ và di chuyển các cửa sổ trên màn hình và tương tác với chuột hoặc bàn phím.",
+   "X không nói giao diện người dùng sẽ trông như thế nào.",
+   "X chỉ vẽ nên các chương trình máy khách khác nhau sẽ xử lý việc này.",
+   "Các môi trường dựa trên X11 khác nhau có thể có các thiết kế khác nhau.",
+   "X thường không phải là một phần của hệ điều hành; thay vào đó, nó được xây dựng như một chương trình bổ sung trên hệ điều hành.",
+   "Không giống như các giao thức hiển thị trước đây, X được thiết kế đặc biệt để sử dụng qua kết nối mạng thay vì trên màn hình gần máy tính.",
+   "X có tính minh bạch của mạng: máy chạy chương trình ứng dụng (ứng dụng khách) không cần phải là máy cục bộ của người dùng (máy chủ hiển thị).",
+   "X được phát triển tại MIT vào năm 1984.",
+   "Phiên bản giao thức hiện tại, X11, xuất hiện vào tháng 9 năm 1987.",
+   "X.Org Foundation dẫn đầu dự án X, với triển khai tham chiếu hiện tại, phiên bản 11 phát hành 7.7 (ngày 6 tháng 6 năm 2012), có sẵn dưới dạng phần mềm miễn phí theo Giấy phép MIT và các giấy phép cấp phép tương tự."
+  ]
+ },
+ {
+  "id": "wiki-legacy-port",
+  "title_vi": "Cổng máy tính cũ (legacy port)",
+  "vi": [
+   "Cổng máy tính cũ là một loại đầu nối máy tính đã được thay thế phần lớn bằng các công nghệ mới hơn nhưng vẫn có thể được tìm thấy trên các hệ thống cũ hoặc thiết bị chuyên dụng.",
+   "Những cổng này từng là tiêu chuẩn để kết nối các thiết bị ngoại vi như bàn phím, chuột, máy in và màn hình.",
+   "Tuy nhiên, chúng đã được thay thế bằng các lựa chọn thay thế nhanh hơn, nhỏ gọn hơn và linh hoạt hơn như USB, HDMI và DisplayPort.",
+   "Các cổng kế thừa phổ biến bao gồm: Cổng song song (LPT) – Được sử dụng cho máy in và máy quét, được thay thế bằng kết nối USB và không dây.",
+   "Serial Port (RS-232) – Dùng cho modem và thiết bị công nghiệp, được thay thế bằng USB.",
+   "Cổng PS/2 – Dùng cho bàn phím và chuột, thay thế bằng USB.",
+   "Cổng VGA – Dùng để xuất video, được thay thế bằng HDMI và DisplayPort.",
+   "Cổng SCSI – Dùng cho các thiết bị lưu trữ, được thay thế bằng SATA và USB.",
+   "Khe cắm mở rộng ISA – Dùng cho card ngoại vi, được thay thế bằng PCI và PCIe.",
+   "Các cổng kế thừa vẫn được sử dụng trong một số ứng dụng điện toán công nghiệp, khoa học và điện toán cũ, nơi cần phải duy trì phần cứng cũ hơn."
+  ]
+ },
+ {
+  "id": "wiki-huawei",
+  "title_vi": "Huawei",
+  "vi": [
+   "Huawei Technologies Co., Ltd. (/ˈhwɑːˌweɪ/; tiếng Trung: 华为; [xwǎ.wèi] ()) là một công ty thiết bị viễn thông và điện tử tiêu dùng đa quốc gia của Trung Quốc có trụ sở tại Thâm Quyến, Quảng Đông, Nam Trung Quốc.",
+   "Nó được thành lập bởi Nhậm Chính Phi vào năm 1987.",
+   "Cái tên Huawei có thể được dịch là “hành động tuyệt vời” hoặc “Trung Quốc có thể”; Hua có thể có nghĩa là \"lộng lẫy\" hoặc \"Trung Quốc\", trong khi wei có thể có nghĩa là \"hành động\" hoặc \"thành tựu\".",
+   "Huawei đã gặp rất nhiều vấn đề ở một số quốc gia.",
+   "Họ chủ yếu gặp vấn đề với chính phủ Hoa Kỳ.",
+   "Chính phủ Mỹ cho rằng chính phủ Trung Quốc có thể sử dụng công nghệ 5G của Huawei để do thám người dân.",
+   "Vì điều này, chính phủ Mỹ không muốn các nước khác sử dụng công nghệ của Huawei hay ZTE.",
+   "Vào tháng 5 năm 2019, chính phủ Mỹ đã đưa Huawei vào danh sách đen.",
+   "Điều này có nghĩa là Huawei không thể hợp tác kinh doanh với các công ty Mỹ."
+  ]
+ },
+ {
+  "id": "wiki-dns-hijacking",
+  "title_vi": "Chiếm quyền điều khiển DNS",
+  "vi": [
+   "Hệ thống tên miền là một cách để ánh xạ tên miền tới địa chỉ IP.",
+   "Chiếm quyền điều khiển DNS, đầu độc DNS và chuyển hướng DNS là những cái tên để thay đổi ánh xạ này.",
+   "Thông thường, việc này được thực hiện bằng cách trỏ đến một máy chủ tên khác.",
+   "Máy chủ tên này sau đó sẽ trả về một địa chỉ IP khác cho tên miền.",
+   "Tin tặc sử dụng điều này, chẳng hạn như để lừa đảo hoặc để hiển thị quảng cáo.",
+   "Chính phủ đôi khi cũng sử dụng nó: việc truy cập một số miền nhất định có thể là bất hợp pháp ở một số quốc gia.",
+   "Sử dụng kỹ thuật này, chính phủ có thể yêu cầu các nhà cung cấp dịch vụ internet chặn các tên miền đó.",
+   "Nếu chính phủ nói rằng một số miền nhất định không thể truy cập được nữa thì đây là một hình thức kiểm duyệt."
+  ]
+ },
+ {
+  "id": "wiki-multi-core-processor",
+  "title_vi": "Bộ xử lý đa lõi",
+  "vi": [
+   "CPU đa lõi là bộ xử lý máy tính có hai phần trở lên.",
+   "Mỗi phần của con chip thực hiện các lệnh như thể nó là một máy tính riêng biệt.",
+   "Bộ xử lý thực tế vẫn còn trên một chip.",
+   "Trên con chip này, mọi lõi đều trông gần giống lõi kia.",
+   "Chúng là một số lõi độc lập chủ yếu hoạt động song song với nhau.",
+   "Bộ xử lý lõi kép là bộ xử lý đa lõi với hai bộ vi xử lý độc lập.",
+   "Bộ xử lý lõi tứ là bộ xử lý đa lõi với bốn bộ vi xử lý độc lập.",
+   "Như bạn có thể biết từ tiền tố, tên của bộ xử lý dựa trên số lượng bộ vi xử lý trên chip."
+  ]
+ }
+]

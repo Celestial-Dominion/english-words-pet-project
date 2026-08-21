@@ -1,0 +1,127 @@
+[
+ {
+  "id": "wiki-data-corruption",
+  "title_vi": "Lỗi dữ liệu",
+  "vi": [
+   "Lỗi dữ liệu là lỗi trong dữ liệu máy tính xảy ra khi máy tính đang đọc, ghi, lưu trữ, truyền hoặc xử lý dữ liệu.",
+   "Những lỗi như vậy gây ra những thay đổi ngoài ý muốn đối với dữ liệu gốc.",
+   "Nếu dữ liệu bị hỏng trong một tệp, kết quả không mong muốn sẽ xảy ra khi hệ thống hoặc ứng dụng truy cập; những kết quả như vậy có thể dao động từ việc mất dữ liệu nhỏ đến sự cố hệ thống.",
+   "Ví dụ: nếu tệp Microsoft Word bị hỏng, khi một người cố mở tệp đó bằng Microsoft Word, họ có thể nhận được thông báo lỗi.",
+   "Điều đó có nghĩa là người đó sẽ nhận được một tệp không thể mở được hoặc một tệp bị mất dữ liệu nhỏ.",
+   "Một trong những nguyên nhân khiến điều này có thể xảy ra là nếu xảy ra tình trạng thiếu điện trong khi lưu tài liệu, máy tính không thể tắt nguồn đúng cách và tệp sẽ bị hỏng.",
+   "Tin tặc cũng có thể làm hỏng dữ liệu, dù vô tình hay cố ý."
+  ]
+ },
+ {
+  "id": "wiki-blackberry",
+  "title_vi": "BlackBerry",
+  "vi": [
+   "BlackBerry là dòng điện thoại di động được sản xuất bởi công ty BlackBerry Limited của Canada (ban đầu được gọi là Research In Motion, hay RIM, NASDAQ:BBRY).",
+   "Nó làm được nhiều việc khác nhau giống như một chiếc máy tính nhưng lại đủ nhỏ để nằm gọn trong tay ai đó.",
+   "Nó là một chiếc điện thoại di động; nó thực hiện cuộc gọi mà không cần dây.",
+   "Nó có thể truy cập Internet là tốt.",
+   "Nó cũng có lịch, camera và có thể gửi tin nhắn văn bản.",
+   "BlackBerry khởi đầu là một chiếc máy nhắn tin và sau đó trở thành điện thoại di động.",
+   "BlackBerry có mã PIN là số nhận dạng thập lục phân gồm 8 ký tự được cấp cho mọi điện thoại BlackBerry.",
+   "Tổng thống Hoa Kỳ Barack Obama đã sử dụng và ủng hộ BlackBerry. vào năm 2012, khi nó phổ biến nhất, đã có 80.000.000 người dùng trên toàn thế giới."
+  ]
+ },
+ {
+  "id": "wiki-table-database",
+  "title_vi": "Bảng (cơ sở dữ liệu)",
+  "vi": [
+   "Trong cơ sở dữ liệu, bảng là cách trình bày thông tin theo cột và hàng.",
+   "Một cách phổ biến để sử dụng dữ liệu này là thông qua SQL.",
+   "Các cột xác định các thuộc tính, các hàng là các mục dữ liệu.",
+   "Thông thường có một tập hợp con các cột xác định duy nhất hàng.",
+   "Khi nói về cơ sở dữ liệu, đây được gọi là khóa chính.",
+   "Không phải tất cả các bảng đều được lưu trữ dưới dạng bảng trong cơ sở dữ liệu.",
+   "Một ví dụ trông giống như một bảng nhưng không được lưu trữ dưới dạng bảng là dạng xem cơ sở dữ liệu.",
+   "Chế độ xem cơ sở dữ liệu là kết quả của việc thực hiện một truy vấn nhất định.",
+   "Nó thường không được lưu trữ mà được tính toán lại mỗi khi cần thiết."
+  ]
+ },
+ {
+  "id": "wiki-web-browser",
+  "title_vi": "Trình duyệt web",
+  "vi": [
+   "Trình duyệt web là một chương trình máy tính hoặc ứng dụng di động để truy cập các trang web trên World Wide Web.",
+   "Kể từ cuối những năm 1990, hầu hết máy tính cá nhân, điện thoại di động và các thiết bị di động khác đều hỗ trợ trình duyệt web.",
+   "Trình duyệt web được sử dụng để duyệt các trang web trên Internet.",
+   "Trình duyệt web đầu tiên được tạo ra vào năm 1990.",
+   "Nhiều trình duyệt web có sẵn miễn phí.",
+   "Tất cả các trình duyệt web đều được sử dụng để truy cập các trang web, nhưng một số trình duyệt web tồn tại với mục đích nhất định.",
+   "Ví dụ: một số trình duyệt tập trung vào bảo mật dữ liệu, quyền riêng tư và giữ cho máy tính an toàn trước vi-rút.",
+   "Các trình duyệt khác tập trung vào việc cung cấp trải nghiệm nhanh nhất và đơn giản nhất.",
+   "Một số trình duyệt web phổ biến bao gồm: Google Chrome Mozilla Firefox Microsoft Edge, phiên bản Internet Explorer hiện đại hơn, đi kèm với Windows 10 trở lên Opera Safari, được đưa vào tất cả các thiết bị của Apple bao gồm iPhone, iPad và máy Mac.",
+   "Trước đây, Safari có thể được sử dụng trên Microsoft Windows.",
+   "Apple không còn hỗ trợ sử dụng Safari trên Windows.",
+   "Các trình duyệt web đã ngừng cung cấp: Internet Explorer, đi kèm với Windows 10 trở về trước, không còn được hỗ trợ"
+  ]
+ },
+ {
+  "id": "wiki-boot-device",
+  "title_vi": "Thiết bị khởi động",
+  "vi": [
+   "Một thiết bị khởi động được sử dụng để khởi động máy tính.",
+   "Nó được đặt tên theo một chiếc ủng vừa với bàn chân.",
+   "Từ bootstrap cũng có liên quan chặt chẽ với nhau và có nghĩa là sử dụng thứ gì đó đơn giản hơn để tạo ra thứ gì đó phức tạp hơn để khiến bản thân nó hoạt động tốt hơn.",
+   "Nó xuất phát từ cụm từ tiếng Anh \"hãy tự nâng mình lên bằng nỗ lực của chính mình\". Trước khi máy tính có thể hoạt động bình thường, nó phải có các hướng dẫn của hệ điều hành cho biết cách thực hiện các chức năng cơ bản.",
+   "Một thiết bị khởi động sẽ tải hệ điều hành vào bộ nhớ của máy tính.",
+   "Các thiết bị có thể khởi động máy tính thường là đĩa khởi động hoặc ổ đĩa khởi động (thường là ổ cứng hoặc Solid State Drive, nhưng có thể là đĩa mềm, ổ flash hoặc CD).",
+   "Một số máy tính mạng sử dụng chip khởi động để đưa hệ điều hành qua mạng.",
+   "Điện thoại web cũng sử dụng những con chip như vậy để nhận dạng người dùng với mạng điện thoại di động.",
+   "Các tiêu chuẩn thẻ khởi động có thể cho phép nhiều người dùng khởi động máy tính kiosk với đầy đủ quyền riêng tư và quyền truy cập vào tất cả phần mềm ứng dụng mà họ sở hữu.",
+   "Ngoài ra còn có bảng khởi động hoặc thẻ bổ trợ khởi động có tuổi thọ lâu dài hơn thẻ khởi động.",
+   "Một số người coi thiết bị khởi động chỉ là thiết bị khởi động và thiết bị không khởi động là thiết bị dữ liệu, mặc dù không phải máy tính mà là hệ điều hành quan tâm đến sự khác biệt giữa những thiết bị này."
+  ]
+ },
+ {
+  "id": "wiki-bios",
+  "title_vi": "BIOS",
+  "vi": [
+   "Trong máy tính, BIOS là viết tắt của Hệ thống đầu vào/đầu ra cơ bản.",
+   "BIOS là một chương trình máy tính được nhúng trên một con chip trên bo mạch chủ của máy tính để nhận dạng và điều khiển các thiết bị khác nhau tạo nên máy tính.",
+   "Mục đích của BIOS là đảm bảo mọi thứ được cắm vào máy tính đều có thể hoạt động bình thường.",
+   "Nó mang lại sự sống cho máy tính và thuật ngữ này là một cách chơi chữ của từ βίος trong tiếng Hy Lạp, bios có nghĩa là \"sự sống\".",
+   "\"Khởi động\", đôi khi được gọi là \"Khởi động\" là quá trình máy tính hoàn tất để sẵn sàng sử dụng khi bật lần đầu.",
+   "Khi máy tính bật, BIOS khởi động và thực hiện Tự kiểm tra khi bật nguồn (POST).",
+   "Trong quá trình POST, BIOS sẽ kiểm tra các thiết bị khác nhau trong máy tính như bộ xử lý máy tính, bộ nhớ, card màn hình và các thiết bị khác để đảm bảo chúng hiện diện và hoạt động.",
+   "Sau khi POST hoàn tất thành công, BIOS sẽ tìm hệ điều hành để tải, hệ điều hành này thường nằm trên ổ cứng của máy tính.",
+   "Khi nó tìm thấy một cái, nó bắt đầu tải nó.",
+   "Tại thời điểm này, hệ điều hành nắm quyền kiểm soát hệ thống."
+  ]
+ },
+ {
+  "id": "news-microsoft-faults-google-on-its-copyright",
+  "title_vi": "Microsoft đổ lỗi cho Google về các biện pháp bảo vệ bản quyền",
+  "vi": [
+   "Thứ ba, ngày 6 tháng 3 năm 2007 Microsoft đã bắt đầu tấn công Google về vấn đề vi phạm bản quyền.",
+   "Các quan chức của gã khổng lồ phần mềm tuyên bố rằng công cụ tìm kiếm số một có cách tiếp cận ung dung hơn đối với những vấn đề liên quan đến bảo vệ bản quyền.",
+   "Phó tổng cố vấn của Microsoft, ông Thomas Rubin, đã chuẩn bị một nhận xét mà ông sẽ gửi tới Hiệp hội các nhà xuất bản Hoa Kỳ.",
+   "Ông lập luận rằng ý tưởng tạo ra một công cụ tìm kiếm sách của Google có thể khiến các nhà xuất bản phải trả chi phí.",
+   "Ông Rubin chỉ trích những công ty sử dụng tác phẩm của nhiều nhà xuất bản khác nhau chứ không phải của riêng họ, nói rằng những công ty đó kiếm được hàng tỷ USD nhờ nội dung của người khác.",
+   "Ông nói rằng khác với Microsoft, Google cảm thấy thoải mái khi tạo một nội dung nhất định có thể tìm kiếm được trực tuyến và sau đó xin phép tác giả.",
+   "Theo phó tổng cố vấn của Microsoft, Google không phải lúc nào cũng xin phép và sử dụng tác phẩm có bản quyền cho đến khi tác giả của nó yêu cầu công ty dừng lại.",
+   "Đáp lại những cáo buộc từ Microsoft, phó chủ tịch cấp cao phụ trách phát triển doanh nghiệp của Google cho biết Google đang thực hiện các hành động pháp lý.",
+   "Bất cứ khi nào công ty muốn cung cấp một số nội dung nhất định trực tuyến, họ luôn xin phép.",
+   "Bằng cách đó, Google đã làm việc với hàng nghìn đối tác xuất bản và gần đây đã hợp tác với BBC và N.B.A. để hiển thị video trên YouTube."
+  ]
+ },
+ {
+  "id": "news-cbs-to-invest-in-electric-sheep-company",
+  "title_vi": "CBS đầu tư vào Công ty Electric Sheep",
+  "vi": [
+   "Thứ Hai, ngày 26 tháng 2 năm 2007 Các quan chức của CBS tuyên bố hôm thứ Hai rằng công ty sẽ đầu tư vào nhà phát triển nội dung thế giới ảo Electric Sheep Co., công ty phát triển các thuộc tính 3D trong một số thế giới ảo giống như thế giới có tên Second Life.",
+   "Trong những tháng gần đây, các nhà đầu tư doanh nghiệp đang chú ý nhiều hơn đến thế giới ảo.",
+   "Điều này chủ yếu là do khán giả đang chuyển từ TV sang Internet.",
+   "Một ưu điểm khác của thế giới ảo là chúng có thể giúp tiếp thị sản phẩm và quảng bá thương hiệu.",
+   "Chủ tịch tương tác của CBS, Quinsy Smith, coi thế giới ảo là nền tảng cho các thế hệ tiếp theo.",
+   "Giám đốc điều hành của Electric Sheep, Sibley Verbeck, đã đề cập trong một cuộc phỏng vấn rằng công ty có mục tiêu giúp các công ty giải trí thu hút được khách hàng của họ từ thế giới ảo như Second Life.",
+   "Khi đó Electric Sheep sẽ mang đến nhiều trải nghiệm giải trí hơn cho khách hàng.",
+   "Với số tiền được CBS đầu tư, Electric Sheep có kế hoạch phát triển phần mềm tạo ra thế giới ảo cho nhu cầu tiêu dùng phổ thông.",
+   "Electric Sheep đã phát triển một số dự án cho CBS, bao gồm \"The L-Word in Second Life\".",
+   "CBS cũng đã quay một đoạn quảng cáo trong Second Life để quảng bá cho chương trình của mình có tên \"Two and a Half Men\". Hiện tại Electric Sheep đang phát triển bên trong Second Life một khu vực theo chủ đề Star Trek cho CBS."
+  ]
+ }
+]

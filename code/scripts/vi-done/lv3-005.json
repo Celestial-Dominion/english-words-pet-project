@@ -1,0 +1,402 @@
+{
+  "polar": {
+    "vi": "thuộc vùng cực; đối cực; phân cực",
+    "coll": ["polar bear", "polar ice", "polar regions", "polar opposite", "polar molecule"]
+  },
+  "clearance": {
+    "vi": "sự cho phép, giấy phép; khoảng hở; đợt thanh lý",
+    "coll": ["security clearance", "clearance sale", "clearance from customs", "ground clearance", "get clearance"]
+  },
+  "preview": {
+    "vi": "bản xem trước; buổi chiếu thử; xem trước",
+    "coll": ["preview of the film", "press preview", "sneak preview", "preview the changes", "preview mode"]
+  },
+  "architectural": {
+    "vi": "thuộc kiến trúc",
+    "coll": ["architectural design", "architectural style", "architectural firm", "architectural drawing", "architectural heritage"]
+  },
+  "uber": {
+    "vi": "siêu, cực kỳ; xe Uber",
+    "coll": ["uber cool", "uber rich", "uber trendy", "take an Uber", "Uber driver"]
+  },
+  "salvation": {
+    "vi": "sự cứu rỗi; sự cứu vãn; cứu tinh",
+    "coll": ["eternal salvation", "path to salvation", "the Salvation Army", "seek salvation", "economic salvation"]
+  },
+  "amid": {
+    "vi": "giữa lúc; trong bối cảnh",
+    "coll": ["amid concerns", "amid the crisis", "amid growing tension", "amid speculation", "amid the chaos"]
+  },
+  "synthetic": {
+    "vi": "tổng hợp; nhân tạo",
+    "coll": ["synthetic material", "synthetic fibre", "synthetic rubber", "synthetic drug", "synthetic biology"]
+  },
+  "plasma": {
+    "vi": "huyết tương; plasma (trạng thái vật chất)",
+    "coll": ["blood plasma", "plasma screen", "plasma donation", "plasma physics", "plasma TV"]
+  },
+  "plea": {
+    "vi": "lời khẩn cầu; lời khai nhận tội",
+    "coll": ["make a plea", "guilty plea", "a plea for help", "plea bargain", "enter a plea"]
+  },
+  "vegan": {
+    "vi": "thuần chay; người ăn thuần chay",
+    "coll": ["vegan diet", "vegan food", "go vegan", "vegan restaurant", "strict vegan"]
+  },
+  "binary": {
+    "vi": "nhị phân; nhị nguyên, hai trạng thái",
+    "coll": ["binary code", "binary system", "binary number", "binary star", "non-binary"]
+  },
+  "spouse": {
+    "vi": "vợ hoặc chồng; người bạn đời",
+    "coll": ["surviving spouse", "spouse and children", "former spouse", "spouse visa", "your spouse's income"]
+  },
+  "distress": {
+    "vi": "nỗi đau khổ; sự khốn quẫn; làm đau buồn",
+    "coll": ["emotional distress", "in distress", "cause distress", "signs of distress", "distress signal"]
+  },
+  "collision": {
+    "vi": "sự va chạm; vụ đâm nhau",
+    "coll": ["head-on collision", "collision course", "avoid a collision", "collision with a truck", "mid-air collision"]
+  },
+  "quarterback": {
+    "vi": "tiền vệ (bóng bầu dục); chỉ huy, điều phối",
+    "coll": ["starting quarterback", "rookie quarterback", "backup quarterback", "sack the quarterback", "quarterback the project"]
+  },
+  "stat": {
+    "vi": "ngay lập tức; số liệu thống kê",
+    "coll": ["I need it stat", "get me a doctor stat", "check the stats", "key stats"]
+  },
+  "sensitivity": {
+    "vi": "sự nhạy cảm; độ nhạy; sự tế nhị",
+    "coll": ["cultural sensitivity", "high sensitivity", "sensitivity to light", "sensitivity analysis", "handle with sensitivity"]
+  },
+  "depot": {
+    "vi": "kho hàng; bến, trạm xe",
+    "coll": ["bus depot", "storage depot", "train depot", "military depot", "depot for supplies"]
+  },
+  "robust": {
+    "vi": "vững chắc, bền bỉ; mạnh mẽ; khỏe khoắn",
+    "coll": ["robust economy", "robust system", "robust defence", "robust growth", "robust health"]
+  },
+  "swap": {
+    "vi": "đổi, trao đổi; sự hoán đổi",
+    "coll": ["swap places", "swap stories", "swap seats", "currency swap", "a fair swap"]
+  },
+  "profound": {
+    "vi": "sâu sắc; sâu xa; hết sức nghiêm trọng",
+    "coll": ["profound impact", "profound effect", "profound change", "profound respect", "profound silence"]
+  },
+  "terrain": {
+    "vi": "địa hình",
+    "coll": ["rough terrain", "mountainous terrain", "difficult terrain", "all-terrain vehicle", "familiar terrain"]
+  },
+  "grind": {
+    "vi": "nghiền, xay; mài; công việc cực nhọc",
+    "coll": ["grind coffee", "grind to a halt", "the daily grind", "grind your teeth", "grind down"]
+  },
+  "generator": {
+    "vi": "máy phát điện; bộ tạo ra",
+    "coll": ["backup generator", "diesel generator", "power generator", "run the generator", "a generator of ideas"]
+  },
+  "aggregate": {
+    "vi": "tổng hợp; tổng cộng; cốt liệu xây dựng",
+    "coll": ["in aggregate", "on aggregate", "aggregate score", "aggregate demand", "aggregate data"]
+  },
+  "prep": {
+    "vi": "việc chuẩn bị; chuẩn bị trước",
+    "coll": ["meal prep", "exam prep", "prep work", "prep the ingredients", "prep school"]
+  },
+  "automobile": {
+    "vi": "ô tô; xe hơi",
+    "coll": ["automobile industry", "automobile manufacturer", "automobile accident", "automobile parts", "electric automobile"]
+  },
+  "anatomy": {
+    "vi": "giải phẫu học; cấu tạo cơ thể; sự mổ xẻ phân tích",
+    "coll": ["human anatomy", "study anatomy", "the anatomy of the eye", "comparative anatomy", "the anatomy of a crisis"]
+  },
+  "zombie": {
+    "vi": "thây ma; xác sống",
+    "coll": ["zombie apocalypse", "zombie movie", "like a zombie", "zombie company", "walking zombie"]
+  },
+  "illusion": {
+    "vi": "ảo tưởng; ảo giác; trò ảo thuật",
+    "coll": ["optical illusion", "under the illusion", "create an illusion", "shatter the illusion", "the illusion of control"]
+  },
+  "simulation": {
+    "vi": "sự mô phỏng; bản giả lập",
+    "coll": ["computer simulation", "flight simulation", "run a simulation", "simulation model", "simulation game"]
+  },
+  "recipient": {
+    "vi": "người nhận; bên tiếp nhận",
+    "coll": ["recipient of the award", "aid recipient", "organ recipient", "the intended recipient", "welfare recipient"]
+  },
+  "vibe": {
+    "vi": "cảm giác toát ra; bầu không khí; linh cảm",
+    "coll": ["good vibes", "a bad vibe", "give off a vibe", "the vibe of the place", "chill vibes"]
+  },
+  "scam": {
+    "vi": "trò lừa đảo; lừa gạt",
+    "coll": ["online scam", "fall for a scam", "phone scam", "scam artist", "scam victim"]
+  },
+  "optimal": {
+    "vi": "tối ưu; tốt nhất",
+    "coll": ["optimal solution", "optimal performance", "optimal conditions", "optimal level", "optimal use"]
+  },
+  "rebellion": {
+    "vi": "cuộc nổi loạn; sự chống đối",
+    "coll": ["armed rebellion", "crush a rebellion", "lead a rebellion", "open rebellion", "teenage rebellion"]
+  },
+  "composite": {
+    "vi": "ghép, tổng hợp; vật liệu composite; hợp số",
+    "coll": ["composite material", "composite image", "composite score", "composite number", "composite sketch"]
+  },
+  "prosecutor": {
+    "vi": "công tố viên; kiểm sát viên",
+    "coll": ["public prosecutor", "chief prosecutor", "federal prosecutor", "special prosecutor", "the prosecutor argued"]
+  },
+  "workforce": {
+    "vi": "lực lượng lao động; đội ngũ nhân viên",
+    "coll": ["skilled workforce", "the entire workforce", "workforce development", "reduce the workforce", "female workforce"]
+  },
+  "acre": {
+    "vi": "mẫu Anh (đơn vị diện tích)",
+    "coll": ["ten acres of land", "an acre of farmland", "acres of forest", "per acre"]
+  },
+  "descent": {
+    "vi": "sự đi xuống; dốc xuống; dòng dõi",
+    "coll": ["of Irish descent", "steep descent", "begin the descent", "descent into chaos", "rapid descent"]
+  },
+  "directory": {
+    "vi": "danh bạ; thư mục",
+    "coll": ["telephone directory", "business directory", "root directory", "directory listing", "online directory"]
+  },
+  "orthodox": {
+    "vi": "chính thống; theo lối truyền thống",
+    "coll": ["orthodox view", "orthodox medicine", "the Orthodox Church", "orthodox approach", "strictly orthodox"]
+  },
+  "tenure": {
+    "vi": "nhiệm kỳ; biên chế chính thức; quyền sở hữu đất",
+    "coll": ["during his tenure", "get tenure", "tenure track", "land tenure", "tenure as president"]
+  },
+  "treasurer": {
+    "vi": "thủ quỹ; bộ trưởng ngân khố",
+    "coll": ["club treasurer", "state treasurer", "elected treasurer", "the treasurer's report", "honorary treasurer"]
+  },
+  "siege": {
+    "vi": "cuộc vây hãm; sự bao vây",
+    "coll": ["lay siege to", "under siege", "the siege of the city", "siege mentality", "end the siege"]
+  },
+  "spine": {
+    "vi": "cột sống; gáy sách; gai (cây, con vật)",
+    "coll": ["curved spine", "spine injury", "the spine of the book", "send shivers down the spine", "cactus spines"]
+  },
+  "elimination": {
+    "vi": "sự loại bỏ; sự bị loại",
+    "coll": ["elimination of poverty", "process of elimination", "elimination round", "elimination from the tournament", "waste elimination"]
+  },
+  "pistol": {
+    "vi": "súng lục",
+    "coll": ["loaded pistol", "pistol shot", "point a pistol", "pistol grip", "starting pistol"]
+  },
+  "regiment": {
+    "vi": "trung đoàn; rập khuôn theo kỷ luật cứng nhắc",
+    "coll": ["infantry regiment", "a regiment of soldiers", "join the regiment", "regiment commander"]
+  },
+  "bundle": {
+    "vi": "bó, gói; gói combo; bó lại",
+    "coll": ["a bundle of papers", "software bundle", "a bundle of joy", "bundle up", "bundle deal"]
+  },
+  "texture": {
+    "vi": "kết cấu; chất cảm bề mặt; độ mịn thô",
+    "coll": ["smooth texture", "rough texture", "the texture of the fabric", "texture and flavour", "add texture"]
+  },
+  "overhead": {
+    "vi": "phía trên đầu; chi phí chung; ở trên cao",
+    "coll": ["overhead costs", "overhead compartment", "overhead projector", "fly overhead", "reduce overhead"]
+  },
+  "inability": {
+    "vi": "sự bất lực; việc không thể làm được",
+    "coll": ["inability to pay", "inability to concentrate", "inability to sleep", "inability to cope", "his inability to speak"]
+  },
+  "sanctuary": {
+    "vi": "nơi trú ẩn an toàn; khu bảo tồn; thánh đường",
+    "coll": ["wildlife sanctuary", "seek sanctuary", "bird sanctuary", "sanctuary city", "a sanctuary from the world"]
+  },
+  "sonic": {
+    "vi": "thuộc âm thanh; thuộc tốc độ âm thanh",
+    "coll": ["sonic boom", "sonic waves", "sonic quality", "sonic landscape"]
+  },
+  "litigation": {
+    "vi": "việc kiện tụng; tranh tụng",
+    "coll": ["civil litigation", "involved in litigation", "litigation costs", "threaten litigation", "commercial litigation"]
+  },
+  "automotive": {
+    "vi": "thuộc ô tô; thuộc ngành ô tô",
+    "coll": ["automotive industry", "automotive parts", "automotive engineering", "automotive sector", "automotive design"]
+  },
+  "incoming": {
+    "vi": "đang đến; sắp nhậm chức; đi vào",
+    "coll": ["incoming call", "incoming email", "incoming president", "incoming flight", "incoming students"]
+  },
+  "demographic": {
+    "vi": "nhân khẩu học; nhóm đối tượng khách hàng",
+    "coll": ["demographic change", "demographic data", "target demographic", "demographic shift", "young demographic"]
+  },
+  "biblical": {
+    "vi": "thuộc Kinh Thánh; theo Kinh Thánh; cực kỳ lớn",
+    "coll": ["biblical story", "biblical times", "biblical reference", "biblical proportions", "biblical scholar"]
+  },
+  "tenth": {
+    "vi": "thứ mười; một phần mười",
+    "coll": ["tenth grade", "tenth place", "tenth anniversary", "one tenth", "the tenth of June"]
+  },
+  "velocity": {
+    "vi": "vận tốc; tốc độ",
+    "coll": ["high velocity", "escape velocity", "constant velocity", "muzzle velocity", "the velocity of the object"]
+  },
+  "lounge": {
+    "vi": "phòng chờ; phòng khách; ngả người thư giãn",
+    "coll": ["airport lounge", "departure lounge", "hotel lounge", "lounge around", "lounge chair"]
+  },
+  "delegation": {
+    "vi": "phái đoàn; sự ủy quyền",
+    "coll": ["lead a delegation", "trade delegation", "delegation of authority", "official delegation", "delegation of tasks"]
+  },
+  "subsidiary": {
+    "vi": "công ty con; phụ, thứ yếu",
+    "coll": ["wholly owned subsidiary", "subsidiary company", "subsidiary role", "a subsidiary of the group", "subsidiary issue"]
+  },
+  "manuscript": {
+    "vi": "bản thảo; bản viết tay",
+    "coll": ["submit a manuscript", "original manuscript", "ancient manuscript", "manuscript pages", "illuminated manuscript"]
+  },
+  "admin": {
+    "vi": "việc hành chính; quản trị viên",
+    "coll": ["admin work", "admin fee", "system admin", "admin tasks", "admin rights"]
+  },
+  "donor": {
+    "vi": "người hiến tặng; nhà tài trợ",
+    "coll": ["blood donor", "organ donor", "donor countries", "major donor", "donor funding"]
+  },
+  "sensor": {
+    "vi": "cảm biến",
+    "coll": ["motion sensor", "temperature sensor", "light sensor", "sensor data", "sensor technology"]
+  },
+  "indicator": {
+    "vi": "chỉ số; dấu hiệu; đèn xi nhan",
+    "coll": ["economic indicator", "key indicator", "performance indicator", "a good indicator of", "indicator light"]
+  },
+  "reliability": {
+    "vi": "độ tin cậy; tính đáng tin",
+    "coll": ["improve reliability", "the reliability of the data", "high reliability", "reliability test", "product reliability"]
+  },
+  "inequality": {
+    "vi": "sự bất bình đẳng; bất đẳng thức",
+    "coll": ["income inequality", "social inequality", "gender inequality", "growing inequality", "reduce inequality"]
+  },
+  "notification": {
+    "vi": "thông báo; sự báo tin",
+    "coll": ["push notification", "receive a notification", "notification of changes", "email notification", "notification settings"]
+  },
+  "enrollment": {
+    "vi": "việc ghi danh; số người nhập học",
+    "coll": ["student enrollment", "enrollment period", "open enrollment", "enrollment numbers", "enrollment form"]
+  },
+  "exterior": {
+    "vi": "bên ngoài; mặt ngoài; vẻ bề ngoài",
+    "coll": ["exterior wall", "exterior design", "the exterior of the building", "exterior paint", "a calm exterior"]
+  },
+  "pioneer": {
+    "vi": "người tiên phong; khai phá, đi đầu",
+    "coll": ["a pioneer in the field", "pioneer of modern art", "pioneer new methods", "pioneer settlers", "computing pioneer"]
+  },
+  "likelihood": {
+    "vi": "khả năng xảy ra; xác suất",
+    "coll": ["in all likelihood", "the likelihood of success", "increase the likelihood", "high likelihood", "reduce the likelihood"]
+  },
+  "suburban": {
+    "vi": "thuộc ngoại ô; vùng ven đô",
+    "coll": ["suburban area", "suburban life", "suburban home", "suburban sprawl", "suburban neighbourhood"]
+  },
+  "transgender": {
+    "vi": "chuyển giới; người chuyển giới",
+    "coll": ["transgender rights", "transgender woman", "transgender community", "transgender people", "openly transgender"]
+  },
+  "feminine": {
+    "vi": "nữ tính; thuộc phái nữ; giống cái (ngữ pháp)",
+    "coll": ["feminine beauty", "feminine qualities", "the feminine form", "distinctly feminine", "feminine energy"]
+  },
+  "aerial": {
+    "vi": "trên không; nhìn từ trên cao; ăng-ten",
+    "coll": ["aerial view", "aerial photograph", "aerial attack", "aerial survey", "TV aerial"]
+  },
+  "ammunition": {
+    "vi": "đạn dược; cớ để công kích",
+    "coll": ["run out of ammunition", "live ammunition", "ammunition supply", "provide ammunition for critics", "store ammunition"]
+  },
+  "meme": {
+    "vi": "meme, ảnh chế lan truyền; trào lưu lan truyền",
+    "coll": ["internet meme", "viral meme", "meme culture", "share a meme", "meme page"]
+  },
+  "lone": {
+    "vi": "đơn độc; một mình; duy nhất",
+    "coll": ["lone survivor", "lone wolf", "lone parent", "a lone figure", "lone gunman"]
+  },
+  "catalogue": {
+    "vi": "danh mục; catalô; lập danh mục",
+    "coll": ["product catalogue", "mail-order catalogue", "library catalogue", "a catalogue of errors", "catalogue the collection"]
+  },
+  "genocide": {
+    "vi": "nạn diệt chủng; tội diệt chủng",
+    "coll": ["commit genocide", "an act of genocide", "genocide survivor", "accused of genocide", "prevent genocide"]
+  },
+  "albeit": {
+    "vi": "mặc dù; dẫu rằng",
+    "coll": ["albeit briefly", "albeit slowly", "albeit reluctantly", "albeit with difficulty"]
+  },
+  "deployment": {
+    "vi": "sự triển khai; việc điều động quân",
+    "coll": ["troop deployment", "military deployment", "deployment of resources", "software deployment", "rapid deployment"]
+  },
+  "territorial": {
+    "vi": "thuộc lãnh thổ; hay bảo vệ lãnh địa",
+    "coll": ["territorial dispute", "territorial waters", "territorial integrity", "territorial claim", "highly territorial"]
+  },
+  "charitable": {
+    "vi": "từ thiện; rộng lượng, độ lượng",
+    "coll": ["charitable organisation", "charitable donation", "charitable work", "charitable trust", "charitable foundation"]
+  },
+  "humanitarian": {
+    "vi": "nhân đạo; nhà hoạt động nhân đạo",
+    "coll": ["humanitarian aid", "humanitarian crisis", "humanitarian organisation", "humanitarian grounds", "humanitarian relief"]
+  },
+  "immunity": {
+    "vi": "sự miễn dịch; quyền miễn trừ",
+    "coll": ["immunity to disease", "diplomatic immunity", "build immunity", "grant immunity", "herd immunity"]
+  },
+  "recreational": {
+    "vi": "giải trí; dành cho tiêu khiển",
+    "coll": ["recreational activities", "recreational drug", "recreational facilities", "recreational use", "recreational vehicle"]
+  },
+  "coordinator": {
+    "vi": "điều phối viên; người điều phối",
+    "coll": ["project coordinator", "event coordinator", "programme coordinator", "appoint a coordinator", "volunteer coordinator"]
+  },
+  "renewable": {
+    "vi": "tái tạo được; có thể gia hạn; năng lượng tái tạo",
+    "coll": ["renewable energy", "renewable resources", "renewable contract", "renewable sources", "renewable power"]
+  },
+  "withdrawn": {
+    "vi": "thu mình, khép kín; đã rút lại; đã rút khỏi",
+    "coll": ["become withdrawn", "quiet and withdrawn", "withdrawn from the market", "withdrawn from sale", "socially withdrawn"]
+  },
+  "elevation": {
+    "vi": "độ cao; sự nâng lên; hình chiếu đứng",
+    "coll": ["high elevation", "elevation above sea level", "the elevation of the land", "front elevation", "elevation to the post"]
+  },
+  "accountable": {
+    "vi": "chịu trách nhiệm; phải giải trình",
+    "coll": ["hold someone accountable", "accountable to the public", "accountable for their actions", "fully accountable", "accountable government"]
+  }
+}

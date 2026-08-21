@@ -1,0 +1,828 @@
+[
+ {
+  "id": "distinguish",
+  "pos": [
+   "v"
+  ],
+  "vi": "phân biệt; nhận ra; làm nổi bật",
+  "coll": [
+   "distinguish between right and wrong",
+   "distinguish from",
+   "clearly distinguish",
+   "distinguish himself"
+  ]
+ },
+ {
+  "id": "dynasty",
+  "pos": [
+   "n"
+  ],
+  "vi": "triều đại; dòng họ cai trị",
+  "coll": [
+   "the Ming dynasty",
+   "ruling dynasty",
+   "found a dynasty",
+   "the Tang dynasty"
+  ]
+ },
+ {
+  "id": "extensively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "rộng rãi; trên phạm vi rộng",
+  "coll": [
+   "travel extensively",
+   "extensively studied",
+   "write extensively",
+   "extensively used"
+  ]
+ },
+ {
+  "id": "forehead",
+  "pos": [
+   "n"
+  ],
+  "vi": "trán",
+  "coll": [
+   "wrinkle your forehead",
+   "kiss on the forehead",
+   "sweat on his forehead",
+   "a high forehead"
+  ]
+ },
+ {
+  "id": "illegally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "bất hợp pháp; trái luật",
+  "coll": [
+   "illegally parked",
+   "enter the country illegally",
+   "illegally obtained",
+   "illegally downloaded"
+  ]
+ },
+ {
+  "id": "messy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bừa bộn; lộn xộn; rắc rối",
+  "coll": [
+   "a messy room",
+   "messy hair",
+   "a messy divorce",
+   "get messy"
+  ]
+ },
+ {
+  "id": "pharmacy",
+  "pos": [
+   "n"
+  ],
+  "vi": "hiệu thuốc, nhà thuốc; ngành dược",
+  "coll": [
+   "the local pharmacy",
+   "24-hour pharmacy",
+   "pick up medicine at the pharmacy",
+   "pharmacy student"
+  ]
+ },
+ {
+  "id": "rubbish",
+  "pos": [
+   "n",
+   "adj",
+   "intj",
+   "v"
+  ],
+  "vi": "rác; đồ bỏ đi; chuyện nhảm nhí",
+  "coll": [
+   "rubbish bin",
+   "take out the rubbish",
+   "talk rubbish",
+   "a load of rubbish"
+  ]
+ },
+ {
+  "id": "systematic",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "có hệ thống; bài bản",
+  "coll": [
+   "systematic approach",
+   "systematic review",
+   "systematic analysis",
+   "in a systematic way"
+  ]
+ },
+ {
+  "id": "vague",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "mơ hồ; mập mờ; không rõ ràng",
+  "coll": [
+   "a vague idea",
+   "a vague memory",
+   "a vague answer",
+   "deliberately vague"
+  ]
+ },
+ {
+  "id": "abundance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự dồi dào; sự phong phú",
+  "coll": [
+   "in abundance",
+   "an abundance of food",
+   "an abundance of evidence"
+  ]
+ },
+ {
+  "id": "ant",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con kiến",
+  "coll": [
+   "ant colony",
+   "an army of ants",
+   "fire ants",
+   "ant hill"
+  ]
+ },
+ {
+  "id": "antique",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "cổ, cổ xưa; đồ cổ",
+  "coll": [
+   "antique furniture",
+   "antique shop",
+   "antique dealer",
+   "valuable antiques"
+  ]
+ },
+ {
+  "id": "booking",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự đặt chỗ; việc đặt trước",
+  "coll": [
+   "make a booking",
+   "booking confirmation",
+   "online booking",
+   "advance booking"
+  ]
+ },
+ {
+  "id": "curtain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rèm cửa; màn (sân khấu)",
+  "coll": [
+   "draw the curtains",
+   "curtain call",
+   "behind the curtain",
+   "shower curtain"
+  ]
+ },
+ {
+  "id": "fade",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "phai màu, phai nhạt; mờ dần; tàn lụi",
+  "coll": [
+   "fade away",
+   "fade into the background",
+   "colors fade",
+   "memories fade"
+  ]
+ },
+ {
+  "id": "maple",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "cây phong; gỗ phong",
+  "coll": [
+   "maple syrup",
+   "maple leaf",
+   "maple tree",
+   "sugar maple"
+  ]
+ },
+ {
+  "id": "referee",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trọng tài; người giới thiệu (xin việc)",
+  "coll": [
+   "football referee",
+   "the referee blew his whistle",
+   "referee a match",
+   "assistant referee"
+  ]
+ },
+ {
+  "id": "allowance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiền tiêu vặt; tiền trợ cấp; mức cho phép",
+  "coll": [
+   "monthly allowance",
+   "travel allowance",
+   "baggage allowance",
+   "make allowances for"
+  ]
+ },
+ {
+  "id": "bark",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "tiếng chó sủa; vỏ cây; sủa; quát tháo",
+  "coll": [
+   "a loud bark",
+   "tree bark",
+   "bark at strangers",
+   "his bark is worse than his bite"
+  ]
+ },
+ {
+  "id": "blogger",
+  "pos": [
+   "n"
+  ],
+  "vi": "người viết blog",
+  "coll": [
+   "fashion blogger",
+   "travel blogger",
+   "food blogger",
+   "a popular blogger"
+  ]
+ },
+ {
+  "id": "brotherhood",
+  "pos": [
+   "n"
+  ],
+  "vi": "tình anh em; hội, đoàn thể",
+  "coll": [
+   "a sense of brotherhood",
+   "the brotherhood of man",
+   "join a brotherhood"
+  ]
+ },
+ {
+  "id": "builder",
+  "pos": [
+   "n"
+  ],
+  "vi": "thợ xây; người xây dựng; hãng xây dựng",
+  "coll": [
+   "hire a builder",
+   "master builder",
+   "home builder",
+   "boat builder"
+  ]
+ },
+ {
+  "id": "carriage",
+  "pos": [
+   "n"
+  ],
+  "vi": "toa tàu; xe ngựa; sự chuyên chở",
+  "coll": [
+   "horse-drawn carriage",
+   "railway carriage",
+   "baby carriage",
+   "a carriage ride"
+  ]
+ },
+ {
+  "id": "constitute",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tạo thành, cấu thành; được coi là",
+  "coll": [
+   "constitute a threat",
+   "constitute a majority",
+   "constitute a breach",
+   "constitute evidence"
+  ]
+ },
+ {
+  "id": "devastating",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tàn khốc; gây tàn phá; nặng nề (tin, đòn)",
+  "coll": [
+   "devastating effect",
+   "devastating news",
+   "devastating impact",
+   "a devastating earthquake"
+  ]
+ },
+ {
+  "id": "diagram",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sơ đồ; biểu đồ",
+  "coll": [
+   "draw a diagram",
+   "flow diagram",
+   "circuit diagram",
+   "as shown in the diagram"
+  ]
+ },
+ {
+  "id": "farther",
+  "pos": [
+   "adv",
+   "adj",
+   "v"
+  ],
+  "vi": "xa hơn",
+  "coll": [
+   "farther away",
+   "farther north",
+   "farther down the road",
+   "farther apart"
+  ]
+ },
+ {
+  "id": "geographical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc về địa lý",
+  "coll": [
+   "geographical location",
+   "geographical area",
+   "geographical features",
+   "geographical distribution"
+  ]
+ },
+ {
+  "id": "ivory",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "ngà voi; màu ngà",
+  "coll": [
+   "ivory tower",
+   "the ivory trade",
+   "made of ivory",
+   "ivory carving"
+  ]
+ },
+ {
+  "id": "necklace",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dây chuyền; vòng cổ (trang sức)",
+  "coll": [
+   "pearl necklace",
+   "gold necklace",
+   "diamond necklace",
+   "wear a necklace"
+  ]
+ },
+ {
+  "id": "spiral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xoắn ốc; vòng xoáy",
+  "coll": [
+   "spiral staircase",
+   "a downward spiral",
+   "spiral out of control",
+   "spiral galaxy"
+  ]
+ },
+ {
+  "id": "timely",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "đúng lúc; kịp thời",
+  "coll": [
+   "in a timely manner",
+   "in a timely fashion",
+   "timely intervention",
+   "a timely reminder"
+  ]
+ },
+ {
+  "id": "yell",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "tiếng hét, tiếng la; hét lên, la mắng",
+  "coll": [
+   "yell at the kids",
+   "yell for help",
+   "let out a yell",
+   "yell in anger"
+  ]
+ },
+ {
+  "id": "analyze",
+  "pos": [
+   "v"
+  ],
+  "vi": "phân tích",
+  "coll": [
+   "analyze data",
+   "analyze the results",
+   "carefully analyze",
+   "analyze the situation"
+  ]
+ },
+ {
+  "id": "elbow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khuỷu tay; huých khuỷu tay",
+  "coll": [
+   "elbow grease",
+   "tennis elbow",
+   "elbow room",
+   "elbow your way through the crowd"
+  ]
+ },
+ {
+  "id": "enthusiastic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nhiệt tình; hăng hái; hào hứng",
+  "coll": [
+   "enthusiastic about the plan",
+   "an enthusiastic response",
+   "an enthusiastic supporter",
+   "an enthusiastic welcome"
+  ]
+ },
+ {
+  "id": "genetics",
+  "pos": [
+   "n"
+  ],
+  "vi": "di truyền học; đặc điểm di truyền",
+  "coll": [
+   "human genetics",
+   "the study of genetics",
+   "genetics research",
+   "blame it on genetics"
+  ]
+ },
+ {
+  "id": "grill",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "vỉ nướng; nướng vỉ; tra hỏi gắt gao",
+  "coll": [
+   "on the grill",
+   "charcoal grill",
+   "grill the chicken",
+   "mixed grill"
+  ]
+ },
+ {
+  "id": "heel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gót chân; gót giày",
+  "coll": [
+   "high heels",
+   "Achilles' heel",
+   "dig in your heels",
+   "head over heels"
+  ]
+ },
+ {
+  "id": "hut",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "túp lều; chòi",
+  "coll": [
+   "mud hut",
+   "mountain hut",
+   "beach hut",
+   "a wooden hut"
+  ]
+ },
+ {
+  "id": "steadily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đều đặn; vững vàng; dần dần",
+  "coll": [
+   "increase steadily",
+   "grow steadily",
+   "steadily improving",
+   "rise steadily"
+  ]
+ },
+ {
+  "id": "tasty",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ngon; ngon miệng",
+  "coll": [
+   "a tasty meal",
+   "tasty snacks",
+   "tasty dishes",
+   "really tasty"
+  ]
+ },
+ {
+  "id": "teammate",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồng đội",
+  "coll": [
+   "former teammate",
+   "support your teammates",
+   "teammates and coaches",
+   "a great teammate"
+  ]
+ },
+ {
+  "id": "applause",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiếng vỗ tay; sự tán thưởng",
+  "coll": [
+   "a round of applause",
+   "thunderous applause",
+   "burst into applause",
+   "warm applause"
+  ]
+ },
+ {
+  "id": "bald",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "hói; trọc; trần trụi (sự thật)",
+  "coll": [
+   "go bald",
+   "a bald head",
+   "bald eagle",
+   "bald spot"
+  ]
+ },
+ {
+  "id": "breakthrough",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bước đột phá",
+  "coll": [
+   "major breakthrough",
+   "scientific breakthrough",
+   "make a breakthrough",
+   "a breakthrough in negotiations"
+  ]
+ },
+ {
+  "id": "convey",
+  "pos": [
+   "v"
+  ],
+  "vi": "truyền đạt; bày tỏ; chuyên chở",
+  "coll": [
+   "convey a message",
+   "convey meaning",
+   "convey information",
+   "convey emotions"
+  ]
+ },
+ {
+  "id": "depressing",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gây chán nản; buồn thảm, ảm đạm",
+  "coll": [
+   "depressing news",
+   "deeply depressing",
+   "a depressing thought",
+   "depressing weather"
+  ]
+ },
+ {
+  "id": "entertain",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "giải trí, mua vui; tiếp đãi; xem xét (ý kiến)",
+  "coll": [
+   "entertain guests",
+   "entertain the audience",
+   "entertain the idea",
+   "entertain children"
+  ]
+ },
+ {
+  "id": "isle",
+  "pos": [
+   "n"
+  ],
+  "vi": "hòn đảo (nhỏ)",
+  "coll": [
+   "the British Isles",
+   "a desert isle",
+   "the Isle of Man",
+   "the Emerald Isle"
+  ]
+ },
+ {
+  "id": "notorious",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "khét tiếng; tai tiếng",
+  "coll": [
+   "notorious for",
+   "a notorious criminal",
+   "a notorious gangster",
+   "the most notorious"
+  ]
+ },
+ {
+  "id": "reef",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "rạn san hô; đá ngầm",
+  "coll": [
+   "coral reef",
+   "barrier reef",
+   "reef fish",
+   "dive on the reef"
+  ]
+ },
+ {
+  "id": "refusal",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự từ chối; sự khước từ",
+  "coll": [
+   "flat refusal",
+   "refusal to cooperate",
+   "meet with refusal",
+   "refusal to accept"
+  ]
+ },
+ {
+  "id": "shave",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cạo râu; cạo; sự cạo râu",
+  "coll": [
+   "shave your head",
+   "shave off his beard",
+   "a close shave",
+   "shave your legs"
+  ]
+ },
+ {
+  "id": "sickness",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh tật; sự buồn nôn",
+  "coll": [
+   "motion sickness",
+   "morning sickness",
+   "sickness benefit",
+   "in sickness and in health"
+  ]
+ },
+ {
+  "id": "telecommunications",
+  "pos": [
+   "n"
+  ],
+  "vi": "viễn thông; ngành viễn thông",
+  "coll": [
+   "telecommunications company",
+   "telecommunications industry",
+   "telecommunications network",
+   "telecommunications equipment"
+  ]
+ },
+ {
+  "id": "accidental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tình cờ; ngẫu nhiên; do tai nạn",
+  "coll": [
+   "accidental death",
+   "accidental damage",
+   "purely accidental",
+   "accidental discovery"
+  ]
+ },
+ {
+  "id": "certainty",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chắc chắn; điều chắc chắn",
+  "coll": [
+   "say with certainty",
+   "absolute certainty",
+   "no certainty",
+   "know for a certainty"
+  ]
+ },
+ {
+  "id": "despair",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tuyệt vọng; tuyệt vọng",
+  "coll": [
+   "in despair",
+   "deep despair",
+   "drive someone to despair",
+   "despair of ever succeeding"
+  ]
+ }
+]

@@ -1,0 +1,402 @@
+{
+ "jogging": {
+  "vi": "chạy bộ (thể dục); môn chạy bộ chậm",
+  "coll": ["go jogging", "jogging in the park", "jogging shoes", "a jogging trail"]
+ },
+ "sparkle": {
+  "vi": "ánh lấp lánh; lấp lánh, long lanh; vẻ rạng rỡ",
+  "coll": ["her eyes sparkle", "sparkle with excitement", "add some sparkle", "diamonds sparkle"]
+ },
+ "firefighter": {
+  "vi": "lính cứu hỏa",
+  "coll": ["a volunteer firefighter", "firefighters battled the blaze", "a trained firefighter", "firefighters and paramedics"]
+ },
+ "lessen": {
+  "vi": "giảm bớt; làm giảm; dịu đi",
+  "coll": ["lessen the risk", "lessen the impact", "lessen the pain", "lessen the burden"]
+ },
+ "smoker": {
+  "vi": "người hút thuốc",
+  "coll": ["a heavy smoker", "a chain smoker", "smokers and non-smokers", "a lifelong smoker"]
+ },
+ "stun": {
+  "vi": "làm sững sờ; làm choáng váng; làm bất tỉnh",
+  "coll": ["stunned by the news", "a stun gun", "stunned silence", "stun the audience"]
+ },
+ "tiring": {
+  "vi": "gây mệt mỏi; làm kiệt sức",
+  "coll": ["a tiring day", "a tiring journey", "physically tiring", "long and tiring"]
+ },
+ "toothpaste": {
+  "vi": "kem đánh răng",
+  "coll": ["a tube of toothpaste", "brush with toothpaste", "squeeze the toothpaste", "whitening toothpaste"]
+ },
+ "unheard": {
+  "vi": "chưa từng nghe thấy; không được lắng nghe",
+  "coll": ["unheard of", "go unheard", "previously unheard recordings", "voices go unheard"]
+ },
+ "biochemistry": {
+  "vi": "hóa sinh; hóa sinh học",
+  "coll": ["study biochemistry", "a biochemistry degree", "biochemistry lab", "molecular biochemistry"]
+ },
+ "handshake": {
+  "vi": "cái bắt tay",
+  "coll": ["a firm handshake", "exchange handshakes", "seal the deal with a handshake", "a golden handshake"]
+ },
+ "mischief": {
+  "vi": "trò tinh nghịch; sự nghịch ngợm; trò quậy phá",
+  "coll": ["get into mischief", "make mischief", "full of mischief", "a glint of mischief"]
+ },
+ "souvenir": {
+  "vi": "quà lưu niệm; đồ kỷ niệm",
+  "coll": ["a souvenir shop", "buy souvenirs", "a souvenir stall", "keep it as a souvenir"]
+ },
+ "unfairly": {
+  "vi": "một cách bất công; không công bằng",
+  "coll": ["treated unfairly", "unfairly dismissed", "unfairly criticized", "unfairly punished"]
+ },
+ "bedside": {
+  "vi": "cạnh giường; đầu giường",
+  "coll": ["a bedside table", "a bedside lamp", "at his bedside", "bedside manner"]
+ },
+ "continual": {
+  "vi": "liên tục; liên miên; không ngớt",
+  "coll": ["continual improvement", "continual interruptions", "continual change", "continual pain"]
+ },
+ "farmland": {
+  "vi": "đất nông nghiệp; đất canh tác",
+  "coll": ["fertile farmland", "acres of farmland", "prime farmland", "surrounded by farmland"]
+ },
+ "giggle": {
+  "vi": "cười rúc rích; cười khúc khích; tiếng cười khúc khích",
+  "coll": ["giggle nervously", "get the giggles", "a fit of giggles", "the girls giggled"]
+ },
+ "golfer": {
+  "vi": "người chơi gôn",
+  "coll": ["a professional golfer", "a keen golfer", "an amateur golfer", "a top golfer"]
+ },
+ "oily": {
+  "vi": "nhiều dầu; dính dầu mỡ; trơn nhớt; nịnh nọt",
+  "coll": ["oily skin", "oily hair", "an oily rag", "oily food"]
+ },
+ "pleasantly": {
+  "vi": "một cách dễ chịu; vui vẻ",
+  "coll": ["pleasantly surprised", "smile pleasantly", "pleasantly warm", "chat pleasantly"]
+ },
+ "takeoff": {
+  "vi": "sự cất cánh; màn nhại, bắt chước",
+  "coll": ["ready for takeoff", "during takeoff", "takeoff and landing", "a smooth takeoff"]
+ },
+ "westward": {
+  "vi": "về phía tây; hướng tây",
+  "coll": ["head westward", "travel westward", "westward expansion", "a westward journey"]
+ },
+ "aspirin": {
+  "vi": "thuốc aspirin; viên aspirin giảm đau",
+  "coll": ["take an aspirin", "an aspirin tablet", "two aspirins", "aspirin for headaches"]
+ },
+ "burglar": {
+  "vi": "kẻ trộm đột nhập; đạo chích",
+  "coll": ["a burglar alarm", "a cat burglar", "burglars broke in", "catch a burglar"]
+ },
+ "likeness": {
+  "vi": "sự giống nhau; chân dung giống thật",
+  "coll": ["a family likeness", "a striking likeness", "in his likeness", "capture her likeness"]
+ },
+ "annoyance": {
+  "vi": "sự khó chịu; điều phiền toái; sự bực mình",
+  "coll": ["much to my annoyance", "a look of annoyance", "a minor annoyance", "express annoyance"]
+ },
+ "glide": {
+  "vi": "lướt đi; trượt nhẹ; bay lượn",
+  "coll": ["glide across the ice", "glide through the water", "birds gliding overhead", "glide smoothly"]
+ },
+ "mend": {
+  "vi": "sửa chữa; vá, khâu lại; hàn gắn; bình phục",
+  "coll": ["mend clothes", "mend fences", "on the mend", "mend a broken heart"]
+ },
+ "vowel": {
+  "vi": "nguyên âm",
+  "coll": ["vowel sounds", "a long vowel", "a short vowel", "vowels and consonants"]
+ },
+ "characterize": {
+  "vi": "đặc trưng cho; mô tả là; khắc họa",
+  "coll": ["characterized by", "characterize the relationship", "characterize him as a hero", "broadly characterized"]
+ },
+ "giraffe": {
+  "vi": "hươu cao cổ",
+  "coll": ["a herd of giraffes", "a giraffe's long neck", "a baby giraffe", "giraffes on the savannah"]
+ },
+ "takeaway": {
+  "vi": "đồ ăn mang về; quán bán mang về; điều rút ra",
+  "coll": ["takeaway food", "order a takeaway", "a Chinese takeaway", "the key takeaway"]
+ },
+ "mailbox": {
+  "vi": "hòm thư; hộp thư (điện tử)",
+  "coll": ["check the mailbox", "an empty mailbox", "your mailbox is full", "put it in the mailbox"]
+ },
+ "enrich": {
+  "vi": "làm giàu; làm phong phú; làm màu mỡ",
+  "coll": ["enrich your life", "enrich the soil", "enriched uranium", "enrich the experience"]
+ },
+ "fright": {
+  "vi": "sự sợ hãi; cơn hoảng sợ",
+  "coll": ["give someone a fright", "take fright", "stage fright", "shake with fright"]
+ },
+ "gall": {
+  "vi": "sự trơ tráo; mật; nỗi cay đắng; làm phật ý",
+  "coll": ["have the gall to", "gall bladder", "it galls me that", "the sheer gall of it"]
+ },
+ "illuminate": {
+  "vi": "chiếu sáng; soi sáng; làm sáng tỏ",
+  "coll": ["illuminate the room", "illuminated by candles", "illuminate the issue", "brightly illuminated"]
+ },
+ "jog": {
+  "vi": "chạy bộ; cú hích nhẹ; gợi (trí nhớ)",
+  "coll": ["go for a jog", "jog your memory", "a morning jog", "jog along the beach"]
+ },
+ "jug": {
+  "vi": "cái bình; ca đựng nước; nhà giam (lóng)",
+  "coll": ["a jug of water", "a milk jug", "pour from the jug", "a jug of beer"]
+ },
+ "chariot": {
+  "vi": "chiến xa (ngựa kéo); xe ngựa hai bánh",
+  "coll": ["a chariot race", "a horse-drawn chariot", "ride a chariot", "chariot wheels"]
+ },
+ "dishwasher": {
+  "vi": "máy rửa bát; người rửa bát thuê",
+  "coll": ["load the dishwasher", "dishwasher safe", "empty the dishwasher", "run the dishwasher"]
+ },
+ "hasty": {
+  "vi": "vội vàng; hấp tấp",
+  "coll": ["a hasty decision", "a hasty retreat", "a hasty conclusion", "too hasty"]
+ },
+ "imitate": {
+  "vi": "bắt chước; mô phỏng; nhại theo",
+  "coll": ["imitate his voice", "imitate the sounds", "children imitate adults", "imitate the style"]
+ },
+ "retrospect": {
+  "vi": "sự nhìn lại quá khứ; sự hồi tưởng",
+  "coll": ["in retrospect", "viewed in retrospect", "only in retrospect", "seem obvious in retrospect"]
+ },
+ "boldly": {
+  "vi": "một cách táo bạo; mạnh dạn",
+  "coll": ["boldly go", "boldly declared", "state boldly", "act boldly"]
+ },
+ "eyesight": {
+  "vi": "thị lực; tầm nhìn",
+  "coll": ["good eyesight", "poor eyesight", "lose your eyesight", "failing eyesight"]
+ },
+ "recite": {
+  "vi": "đọc thuộc lòng; ngâm (thơ); kể ra",
+  "coll": ["recite a poem", "recite the alphabet", "recite from memory", "recite prayers"]
+ },
+ "specialize": {
+  "vi": "chuyên về; chuyên môn hóa",
+  "coll": ["specialize in medicine", "a shop specializing in cheese", "doctors who specialize in surgery", "specialize in international law"]
+ },
+ "bravely": {
+  "vi": "một cách dũng cảm; gan dạ",
+  "coll": ["fight bravely", "bravely faced the danger", "smile bravely", "bravely fought"]
+ },
+ "comma": {
+  "vi": "dấu phẩy",
+  "coll": ["put a comma", "separated by commas", "a comma splice", "a comma before 'and'"]
+ },
+ "outweigh": {
+  "vi": "vượt trội hơn; quan trọng hơn; nặng hơn",
+  "coll": ["the benefits outweigh the risks", "advantages outweigh disadvantages", "far outweigh", "outweigh the costs"]
+ },
+ "proclaim": {
+  "vi": "tuyên bố; công bố; tuyên cáo",
+  "coll": ["proclaim independence", "proclaim victory", "proclaimed himself king", "officially proclaimed"]
+ },
+ "wasteful": {
+  "vi": "lãng phí; hoang phí",
+  "coll": ["wasteful spending", "wasteful habits", "wasteful use of resources", "highly wasteful"]
+ },
+ "complicate": {
+  "vi": "làm phức tạp; làm rắc rối thêm",
+  "coll": ["complicate matters", "complicate the situation", "further complicate", "complicate things"]
+ },
+ "meditate": {
+  "vi": "ngồi thiền; thiền định; suy ngẫm",
+  "coll": ["meditate daily", "meditate on the meaning", "sit and meditate", "learn to meditate"]
+ },
+ "vividly": {
+  "vi": "một cách sống động; rõ mồn một",
+  "coll": ["vividly remember", "vividly described", "vividly colored", "recall vividly"]
+ },
+ "inhale": {
+  "vi": "hít vào; hít phải",
+  "coll": ["inhale deeply", "inhale smoke", "inhale the fumes", "inhale and exhale"]
+ },
+ "nectar": {
+  "vi": "mật hoa; rượu tiên; nước quả ép đặc",
+  "coll": ["bees collect nectar", "the nectar of the gods", "flower nectar", "peach nectar"]
+ },
+ "bandage": {
+  "vi": "băng gạc; băng bó",
+  "coll": ["apply a bandage", "wrap a bandage around", "an elastic bandage", "change the bandage"]
+ },
+ "liberate": {
+  "vi": "giải phóng; trả tự do cho",
+  "coll": ["liberate the city", "liberate prisoners", "liberated from occupation", "liberate people from poverty"]
+ },
+ "mathematician": {
+  "vi": "nhà toán học",
+  "coll": ["a brilliant mathematician", "a famous mathematician", "an applied mathematician", "mathematicians and physicists"]
+ },
+ "shadowy": {
+  "vi": "mờ ám; mờ ảo; rợp bóng tối",
+  "coll": ["a shadowy figure", "shadowy corners", "the shadowy world of espionage", "a shadowy organization"]
+ },
+ "warmly": {
+  "vi": "nồng nhiệt; ấm áp; mặc ấm",
+  "coll": ["warmly welcomed", "smile warmly", "dress warmly", "warmly received"]
+ },
+ "diligent": {
+  "vi": "siêng năng; cần cù; chuyên cần",
+  "coll": ["a diligent student", "diligent work", "diligent efforts", "diligent research"]
+ },
+ "endanger": {
+  "vi": "gây nguy hiểm cho; đe dọa",
+  "coll": ["endanger lives", "endangered species", "endanger public health", "endanger the mission"]
+ },
+ "prefix": {
+  "vi": "tiền tố; mã đầu số; thêm vào trước",
+  "coll": ["add a prefix", "common prefixes", "prefix and suffix", "the prefix 'un-'"]
+ },
+ "summarize": {
+  "vi": "tóm tắt; tổng kết",
+  "coll": ["summarize the main points", "summarize the article", "briefly summarize", "summarize the findings"]
+ },
+ "bathe": {
+  "vi": "tắm; tắm cho; rửa (vết thương); tắm biển",
+  "coll": ["bathe the baby", "bathe a wound", "bathe in the sea", "bathed in sunlight"]
+ },
+ "memorize": {
+  "vi": "học thuộc lòng; ghi nhớ",
+  "coll": ["memorize vocabulary", "memorize a poem", "memorize your lines", "memorize by heart"]
+ },
+ "mislead": {
+  "vi": "đánh lừa; lừa dối; làm lạc hướng",
+  "coll": ["mislead the public", "deliberately mislead", "misleading information", "mislead investors"]
+ },
+ "seaweed": {
+  "vi": "rong biển; tảo biển",
+  "coll": ["dried seaweed", "seaweed salad", "edible seaweed", "seaweed washed up on the beach"]
+ },
+ "tempt": {
+  "vi": "cám dỗ; dụ dỗ; quyến rũ",
+  "coll": ["tempt fate", "be tempted to give up", "tempt customers with discounts", "nothing could tempt me"]
+ },
+ "babysitter": {
+  "vi": "người trông trẻ thuê",
+  "coll": ["hire a babysitter", "find a babysitter", "pay the babysitter", "a regular babysitter"]
+ },
+ "lorry": {
+  "vi": "xe tải (Anh)",
+  "coll": ["a lorry driver", "a lorry load of goods", "a heavy goods lorry", "an articulated lorry"]
+ },
+ "superstition": {
+  "vi": "sự mê tín; điều mê tín dị đoan",
+  "coll": ["a popular superstition", "an old superstition", "superstition and folklore", "believe in superstitions"]
+ },
+ "curiously": {
+  "vi": "một cách tò mò; kỳ lạ thay",
+  "coll": ["look curiously at", "curiously enough", "peer curiously", "curiously quiet"]
+ },
+ "skyscraper": {
+  "vi": "nhà chọc trời; tòa nhà cao tầng",
+  "coll": ["towering skyscrapers", "the skyscraper skyline", "build a skyscraper", "glass skyscrapers"]
+ },
+ "breathless": {
+  "vi": "hụt hơi; khó thở; nín thở (hồi hộp)",
+  "coll": ["breathless with excitement", "leave you breathless", "breathless anticipation", "arrive breathless"]
+ },
+ "carton": {
+  "vi": "hộp giấy; thùng các-tông; cây thuốc lá",
+  "coll": ["a carton of milk", "a carton of juice", "a carton of cigarettes", "an egg carton"]
+ },
+ "deprive": {
+  "vi": "tước đoạt; lấy đi; làm mất",
+  "coll": ["deprive him of sleep", "deprived of their rights", "deprive her of the chance", "sleep-deprived"]
+ },
+ "shopper": {
+  "vi": "người mua sắm; khách mua hàng",
+  "coll": ["Christmas shoppers", "online shoppers", "a bargain shopper", "shoppers crowded the mall"]
+ },
+ "sneeze": {
+  "vi": "hắt hơi; cái hắt xì",
+  "coll": ["sneeze loudly", "coughs and sneezes", "make you sneeze", "nothing to sneeze at"]
+ },
+ "sweatshirt": {
+  "vi": "áo nỉ chui đầu; áo thun nỉ dài tay",
+  "coll": ["wear a sweatshirt", "a hooded sweatshirt", "a grey sweatshirt", "jeans and a sweatshirt"]
+ },
+ "handkerchief": {
+  "vi": "khăn tay; khăn mùi soa",
+  "coll": ["a silk handkerchief", "wave a handkerchief", "a clean handkerchief", "blow your nose on a handkerchief"]
+ },
+ "nutritious": {
+  "vi": "bổ dưỡng; giàu dinh dưỡng",
+  "coll": ["nutritious food", "a nutritious meal", "healthy and nutritious", "a nutritious breakfast"]
+ },
+ "soothe": {
+  "vi": "xoa dịu; làm dịu; vỗ về",
+  "coll": ["soothe the pain", "soothe a crying baby", "soothe your nerves", "soothing music"]
+ },
+ "canteen": {
+  "vi": "căng tin; nhà ăn tập thể; bi đông nước",
+  "coll": ["the school canteen", "a staff canteen", "canteen food", "a canteen of water"]
+ },
+ "climber": {
+  "vi": "người leo núi; cây leo",
+  "coll": ["a mountain climber", "a rock climber", "an experienced climber", "a social climber"]
+ },
+ "furthest": {
+  "vi": "xa nhất",
+  "coll": ["the furthest point", "furthest away", "furthest from the sun", "travel the furthest"]
+ },
+ "hairdresser": {
+  "vi": "thợ làm tóc; tiệm làm tóc",
+  "coll": ["go to the hairdresser's", "a hairdresser appointment", "a trained hairdresser", "my local hairdresser"]
+ },
+ "possessive": {
+  "vi": "hay chiếm hữu; sở hữu (ngữ pháp); sở hữu cách",
+  "coll": ["a possessive pronoun", "a possessive boyfriend", "possessive adjective", "possessive about his belongings"]
+ },
+ "pronoun": {
+  "vi": "đại từ",
+  "coll": ["a personal pronoun", "a possessive pronoun", "a relative pronoun", "preferred pronouns"]
+ },
+ "ration": {
+  "vi": "khẩu phần; chia khẩu phần; phân phối định mức",
+  "coll": ["food rations", "ration cards", "ration supplies", "on short rations"]
+ },
+ "astronomer": {
+  "vi": "nhà thiên văn học",
+  "coll": ["an amateur astronomer", "astronomers discovered a new planet", "a professional astronomer", "the royal astronomer"]
+ },
+ "uncontrollable": {
+  "vi": "không kiểm soát được; bất kham",
+  "coll": ["uncontrollable laughter", "uncontrollable rage", "an uncontrollable urge", "uncontrollable shaking"]
+ },
+ "nightlife": {
+  "vi": "cuộc sống về đêm",
+  "coll": ["vibrant nightlife", "the city's nightlife", "enjoy the nightlife", "a nightlife district"]
+ },
+ "overwhelm": {
+  "vi": "áp đảo; làm choáng ngợp; nhấn chìm",
+  "coll": ["overwhelmed by emotion", "overwhelmed with work", "overwhelm the defense", "an overwhelming majority"]
+ },
+ "settler": {
+  "vi": "người định cư; dân khai hoang",
+  "coll": ["early settlers", "European settlers", "the first settlers", "settler communities"]
+ },
+ "fondness": {
+  "vi": "sự yêu mến; sự ưa thích",
+  "coll": ["a fondness for sweets", "a particular fondness", "remember with fondness", "develop a fondness for"]
+ }
+}

@@ -1,0 +1,402 @@
+{
+ "formerly": {
+  "vi": "trước đây; trước kia",
+  "coll": ["formerly known as", "formerly called", "formerly the capital", "formerly owned by"]
+ },
+ "functional": {
+  "vi": "hoạt động tốt; có chức năng; thiết thực",
+  "coll": ["fully functional", "functional design", "functional requirements", "functional skills"]
+ },
+ "mama": {
+  "vi": "mẹ; má",
+  "coll": ["mama bear", "mama's boy", "big mama", "yes, mama"]
+ },
+ "naval": {
+  "vi": "thuộc hải quân; về hàng hải",
+  "coll": ["naval base", "naval officer", "naval battle", "naval forces"]
+ },
+ "noble": {
+  "vi": "cao quý; quý tộc; nhà quý tộc",
+  "coll": ["noble cause", "noble family", "noble gas", "a noble gesture"]
+ },
+ "popularity": {
+  "vi": "sự nổi tiếng; mức độ được ưa chuộng",
+  "coll": ["gain popularity", "grow in popularity", "popularity contest", "decline in popularity"]
+ },
+ "toxic": {
+  "vi": "độc hại; có độc; tiêu cực (quan hệ)",
+  "coll": ["toxic chemicals", "toxic waste", "toxic relationship", "highly toxic", "toxic fumes"]
+ },
+ "tunnel": {
+  "vi": "đường hầm; hầm; đào hầm",
+  "coll": ["railway tunnel", "dig a tunnel", "tunnel vision", "wind tunnel", "through the tunnel"]
+ },
+ "upgrade": {
+  "vi": "nâng cấp; sự nâng cấp",
+  "coll": ["upgrade your phone", "software upgrade", "free upgrade", "upgrade to business class"]
+ },
+ "actively": {
+  "vi": "một cách tích cực; chủ động",
+  "coll": ["actively involved", "actively seeking", "actively participate", "actively encourage"]
+ },
+ "coalition": {
+  "vi": "liên minh; liên hiệp",
+  "coll": ["form a coalition", "coalition government", "broad coalition", "coalition forces"]
+ },
+ "discipline": {
+  "vi": "kỷ luật; sự rèn luyện; ngành học; xử phạt",
+  "coll": ["self-discipline", "strict discipline", "academic discipline", "discipline the children", "military discipline"]
+ },
+ "instantly": {
+  "vi": "ngay lập tức; tức thì",
+  "coll": ["instantly recognisable", "die instantly", "instantly available", "instantly regret"]
+ },
+ "laptop": {
+  "vi": "máy tính xách tay",
+  "coll": ["open the laptop", "laptop computer", "laptop screen", "gaming laptop"]
+ },
+ "legendary": {
+  "vi": "huyền thoại; lừng danh; trong truyền thuyết",
+  "coll": ["legendary singer", "legendary status", "become legendary", "legendary hero"]
+ },
+ "recipe": {
+  "vi": "công thức nấu ăn; bí quyết",
+  "coll": ["follow a recipe", "secret recipe", "recipe book", "a recipe for disaster"]
+ },
+ "serial": {
+  "vi": "hàng loạt; nối tiếp; phim nhiều tập",
+  "coll": ["serial killer", "serial number", "TV serial", "serial port"]
+ },
+ "shed": {
+  "vi": "nhà kho nhỏ; rụng; trút bỏ; đổ (lệ, máu)",
+  "coll": ["garden shed", "shed light on", "shed tears", "shed weight", "shed leaves"]
+ },
+ "substance": {
+  "vi": "chất; chất liệu; nội dung thực chất",
+  "coll": ["chemical substance", "toxic substance", "substance abuse", "lack substance", "in substance"]
+ },
+ "affordable": {
+  "vi": "giá phải chăng; vừa túi tiền",
+  "coll": ["affordable housing", "affordable price", "affordable care", "more affordable"]
+ },
+ "bearing": {
+  "vi": "sự liên quan; ảnh hưởng; phong thái; ổ bi",
+  "coll": ["have a bearing on", "lose your bearings", "ball bearing", "dignified bearing"]
+ },
+ "completion": {
+  "vi": "sự hoàn thành; việc hoàn tất",
+  "coll": ["on completion", "near completion", "completion date", "successful completion"]
+ },
+ "employer": {
+  "vi": "nhà tuyển dụng; chủ lao động",
+  "coll": ["current employer", "former employer", "employer contributions", "prospective employer"]
+ },
+ "fluid": {
+  "vi": "chất lỏng; dịch; linh hoạt; trôi chảy",
+  "coll": ["body fluids", "drink plenty of fluids", "fluid movement", "fluid situation", "brake fluid"]
+ },
+ "interpretation": {
+  "vi": "sự diễn giải; cách hiểu; việc phiên dịch",
+  "coll": ["open to interpretation", "different interpretation", "literal interpretation", "simultaneous interpretation"]
+ },
+ "legitimate": {
+  "vi": "hợp pháp; chính đáng; hợp lệ",
+  "coll": ["legitimate business", "legitimate concern", "legitimate reason", "perfectly legitimate"]
+ },
+ "outfit": {
+  "vi": "bộ trang phục; bộ đồ; trang bị cho",
+  "coll": ["wear an outfit", "a new outfit", "outfit of the day", "matching outfit"]
+ },
+ "pension": {
+  "vi": "lương hưu; trợ cấp hưu trí",
+  "coll": ["state pension", "pension fund", "draw a pension", "pension scheme", "retire on a pension"]
+ },
+ "sue": {
+  "vi": "kiện; khởi kiện",
+  "coll": ["sue for damages", "sue the company", "threaten to sue", "sue in court"]
+ },
+ "virtual reality": {
+  "vi": "thực tế ảo",
+  "coll": ["virtual reality headset", "virtual reality game", "immersive virtual reality", "virtual reality technology"]
+ },
+ "backup": {
+  "vi": "bản sao lưu; sự hỗ trợ; dự phòng",
+  "coll": ["create a backup", "backup copy", "backup plan", "call for backup", "backup system"]
+ },
+ "evaluation": {
+  "vi": "sự đánh giá; việc thẩm định",
+  "coll": ["performance evaluation", "carry out an evaluation", "evaluation process", "medical evaluation"]
+ },
+ "holder": {
+  "vi": "người nắm giữ; giá đỡ; người sở hữu",
+  "coll": ["account holder", "ticket holder", "record holder", "cup holder", "passport holder"]
+ },
+ "hood": {
+  "vi": "mũ trùm đầu; nắp ca-pô; khu phố (lóng)",
+  "coll": ["wear a hood", "pull up your hood", "under the hood", "the hood of the car"]
+ },
+ "identical": {
+  "vi": "giống hệt; y hệt",
+  "coll": ["identical twins", "virtually identical", "identical to the original", "almost identical"]
+ },
+ "manufacturer": {
+  "vi": "nhà sản xuất; hãng sản xuất",
+  "coll": ["car manufacturer", "leading manufacturer", "manufacturer's warranty", "equipment manufacturer"]
+ },
+ "skip": {
+  "vi": "bỏ qua; nhảy chân sáo; nhảy dây",
+  "coll": ["skip breakfast", "skip a class", "skip ahead", "skip the queue", "skip rope"]
+ },
+ "snap": {
+  "vi": "bẻ gãy; kêu tách; chụp nhanh; nổi cáu",
+  "coll": ["snap in half", "snap a photo", "snap decision", "snap your fingers", "snap at someone"]
+ },
+ "veteran": {
+  "vi": "cựu chiến binh; người kỳ cựu",
+  "coll": ["war veteran", "veteran player", "veteran actor", "veteran of the campaign"]
+ },
+ "wealthy": {
+  "vi": "giàu có; giàu sang",
+  "coll": ["wealthy family", "extremely wealthy", "wealthy businessman", "wealthy nation"]
+ },
+ "additionally": {
+  "vi": "ngoài ra; thêm vào đó",
+  "coll": ["additionally, you can", "additionally required", "additionally charged", "additionally, the report"]
+ },
+ "caring": {
+  "vi": "ân cần; biết quan tâm; chu đáo",
+  "coll": ["a caring person", "caring attitude", "caring for the elderly", "loving and caring"]
+ },
+ "distinguished": {
+  "vi": "lỗi lạc; xuất chúng; đường bệ",
+  "coll": ["distinguished career", "distinguished professor", "distinguished guest", "distinguished service"]
+ },
+ "dose": {
+  "vi": "liều thuốc; liều lượng",
+  "coll": ["take a dose", "daily dose", "high dose", "lethal dose", "a dose of reality"]
+ },
+ "flesh": {
+  "vi": "thịt (da thịt); da thịt; cùi quả",
+  "coll": ["flesh and blood", "in the flesh", "raw flesh", "flesh wound"]
+ },
+ "flip": {
+  "vi": "lật; búng; cú lộn nhào",
+  "coll": ["flip a coin", "flip over", "flip through the pages", "flip the switch", "flip out"]
+ },
+ "implement": {
+  "vi": "thực hiện; triển khai; công cụ",
+  "coll": ["implement a plan", "implement changes", "implement a policy", "fully implement"]
+ },
+ "laser": {
+  "vi": "tia laser; máy laser",
+  "coll": ["laser beam", "laser printer", "laser surgery", "laser pointer"]
+ },
+ "opponent": {
+  "vi": "đối thủ; người phản đối",
+  "coll": ["beat your opponent", "political opponent", "worthy opponent", "an opponent of the plan"]
+ },
+ "patch": {
+  "vi": "miếng vá; mảng; bản vá lỗi; vá lại",
+  "coll": ["eye patch", "vegetable patch", "security patch", "patch up", "a patch of grass"]
+ },
+ "precisely": {
+  "vi": "chính xác; đúng vậy; một cách chuẩn xác",
+  "coll": ["precisely because", "know precisely", "measure precisely", "at precisely three o'clock"]
+ },
+ "privilege": {
+  "vi": "đặc quyền; vinh hạnh; ưu đãi",
+  "coll": ["special privilege", "a privilege to meet you", "abuse of privilege", "white privilege"]
+ },
+ "radar": {
+  "vi": "ra-đa; máy ra-đa",
+  "coll": ["radar screen", "under the radar", "on my radar", "radar detector"]
+ },
+ "striking": {
+  "vi": "nổi bật; ấn tượng; đang đình công",
+  "coll": ["striking resemblance", "striking difference", "striking feature", "striking workers"]
+ },
+ "villa": {
+  "vi": "biệt thự",
+  "coll": ["luxury villa", "rent a villa", "seaside villa", "villa with a pool"]
+ },
+ "blade": {
+  "vi": "lưỡi dao; cánh (quạt, chân vịt); lá cỏ",
+  "coll": ["sharp blade", "razor blade", "blade of grass", "propeller blade"]
+ },
+ "destiny": {
+  "vi": "số phận; định mệnh; vận mệnh",
+  "coll": ["control your destiny", "manifest destiny", "a sense of destiny", "fulfil your destiny"]
+ },
+ "electronics": {
+  "vi": "ngành điện tử; đồ điện tử; điện tử học",
+  "coll": ["consumer electronics", "electronics store", "study electronics", "electronics industry"]
+ },
+ "nerve": {
+  "vi": "dây thần kinh; sự can đảm; sự trơ tráo",
+  "coll": ["optic nerve", "nerve damage", "lose your nerve", "get on my nerves", "have the nerve to"]
+ },
+ "nightmare": {
+  "vi": "cơn ác mộng; ác mộng",
+  "coll": ["have a nightmare", "worst nightmare", "a nightmare scenario", "living nightmare"]
+ },
+ "practically": {
+  "vi": "hầu như; gần như; trên thực tế",
+  "coll": ["practically impossible", "practically everyone", "practically speaking", "practically identical"]
+ },
+ "ram": {
+  "vi": "cừu đực; đâm sầm; húc mạnh",
+  "coll": ["ram into a car", "battering ram", "ram the door", "a ram's horns"]
+ },
+ "balanced": {
+  "vi": "cân bằng; cân đối; khách quan",
+  "coll": ["balanced diet", "well balanced", "balanced budget", "balanced view"]
+ },
+ "ceiling": {
+  "vi": "trần nhà; mức trần; giới hạn trên",
+  "coll": ["high ceiling", "ceiling fan", "glass ceiling", "price ceiling", "hit the ceiling"]
+ },
+ "cherry": {
+  "vi": "quả anh đào; cây anh đào; đỏ anh đào",
+  "coll": ["cherry tree", "cherry blossom", "cherry pie", "cherry red", "the cherry on top"]
+ },
+ "classification": {
+  "vi": "sự phân loại; cách phân loại",
+  "coll": ["classification system", "job classification", "security classification", "scientific classification"]
+ },
+ "costume": {
+  "vi": "trang phục; đồ hóa trang; phục trang",
+  "coll": ["Halloween costume", "national costume", "costume party", "costume design"]
+ },
+ "devoted": {
+  "vi": "tận tụy; hết lòng; dành riêng cho",
+  "coll": ["devoted fan", "devoted to his family", "devoted husband", "devoted follower"]
+ },
+ "grain": {
+  "vi": "hạt ngũ cốc; ngũ cốc; thớ gỗ",
+  "coll": ["grain of rice", "whole grain", "grain of sand", "against the grain", "wood grain"]
+ },
+ "identification": {
+  "vi": "sự nhận dạng; giấy tờ tùy thân; sự xác định",
+  "coll": ["proof of identification", "identification card", "positive identification", "identification of the body"]
+ },
+ "lap": {
+  "vi": "lòng (đùi); vòng đua; liếm",
+  "coll": ["sit on my lap", "run a lap", "final lap", "lap of the track", "lap up the milk"]
+ },
+ "mixture": {
+  "vi": "hỗn hợp; sự pha trộn",
+  "coll": ["a mixture of", "cake mixture", "strange mixture", "mixture of styles"]
+ },
+ "perception": {
+  "vi": "nhận thức; cách nhìn nhận; tri giác",
+  "coll": ["public perception", "change perceptions", "sensory perception", "perception of risk"]
+ },
+ "physician": {
+  "vi": "bác sĩ; thầy thuốc",
+  "coll": ["family physician", "consult a physician", "primary care physician", "licensed physician"]
+ },
+ "rival": {
+  "vi": "đối thủ; kình địch; sánh ngang với",
+  "coll": ["main rival", "arch rival", "rival team", "rival company", "rival the best"]
+ },
+ "spray": {
+  "vi": "bình xịt; tia nước bắn; phun xịt",
+  "coll": ["hair spray", "spray paint", "spray the plants", "sea spray", "insect spray"]
+ },
+ "verse": {
+  "vi": "thơ; khổ thơ; câu (kinh thánh)",
+  "coll": ["free verse", "write verse", "chorus and verse", "Bible verse"]
+ },
+ "adoption": {
+  "vi": "sự nhận con nuôi; việc áp dụng; sự thông qua",
+  "coll": ["put up for adoption", "adoption of new technology", "adoption process", "widespread adoption"]
+ },
+ "anonymous": {
+  "vi": "ẩn danh; giấu tên; nặc danh",
+  "coll": ["anonymous donor", "remain anonymous", "anonymous letter", "anonymous source"]
+ },
+ "attendance": {
+  "vi": "sự có mặt; số người tham dự; việc điểm danh",
+  "coll": ["take attendance", "poor attendance", "school attendance", "attendance record", "in attendance"]
+ },
+ "colonial": {
+  "vi": "thuộc địa; thời thuộc địa; kiểu thuộc địa",
+  "coll": ["colonial rule", "colonial power", "colonial era", "colonial architecture"]
+ },
+ "genre": {
+  "vi": "thể loại; dòng (nhạc, phim)",
+  "coll": ["musical genre", "literary genre", "film genre", "genre fiction"]
+ },
+ "lease": {
+  "vi": "hợp đồng thuê; cho thuê dài hạn; thuê (theo hợp đồng)",
+  "coll": ["sign a lease", "renew the lease", "lease agreement", "long-term lease", "a new lease of life"]
+ },
+ "revolutionary": {
+  "vi": "mang tính cách mạng; đột phá; nhà cách mạng",
+  "coll": ["revolutionary idea", "revolutionary change", "revolutionary technology", "revolutionary leader"]
+ },
+ "scandal": {
+  "vi": "vụ bê bối; tai tiếng",
+  "coll": ["corruption scandal", "political scandal", "cause a scandal", "financial scandal"]
+ },
+ "surveillance": {
+  "vi": "sự giám sát; sự theo dõi",
+  "coll": ["under surveillance", "video surveillance", "surveillance camera", "mass surveillance"]
+ },
+ "testimony": {
+  "vi": "lời khai; lời chứng; bằng chứng",
+  "coll": ["give testimony", "sworn testimony", "expert testimony", "testimony in court"]
+ },
+ "trophy": {
+  "vi": "cúp; chiếc cúp vô địch; chiến lợi phẩm",
+  "coll": ["win a trophy", "lift the trophy", "trophy cabinet", "trophy wife"]
+ },
+ "well-balanced": {
+  "vi": "cân đối; hài hòa; điềm đạm",
+  "coll": ["well-balanced diet", "well-balanced meal", "well-balanced person", "well-balanced approach"]
+ },
+ "ash": {
+  "vi": "tro; tàn tro; cây tần bì",
+  "coll": ["volcanic ash", "cigarette ash", "reduced to ashes", "ash tray"]
+ },
+ "embrace": {
+  "vi": "ôm; đón nhận; cái ôm",
+  "coll": ["embrace change", "warm embrace", "embrace a new idea", "embrace her tightly"]
+ },
+ "exhibit": {
+  "vi": "trưng bày; bộc lộ; vật trưng bày",
+  "coll": ["exhibit paintings", "exhibit symptoms", "museum exhibit", "exhibit at a show"]
+ },
+ "icon": {
+  "vi": "biểu tượng; hình tượng; ảnh thánh",
+  "coll": ["cultural icon", "fashion icon", "click the icon", "religious icon"]
+ },
+ "legislature": {
+  "vi": "cơ quan lập pháp; nghị viện",
+  "coll": ["state legislature", "national legislature", "elected legislature", "pass through the legislature"]
+ },
+ "marathon": {
+  "vi": "cuộc chạy marathon; việc kéo dài liên tục",
+  "coll": ["run a marathon", "marathon runner", "marathon session", "half marathon"]
+ },
+ "parade": {
+  "vi": "cuộc diễu hành; diễu hành; phô trương",
+  "coll": ["military parade", "hold a parade", "parade through the streets", "victory parade"]
+ },
+ "preliminary": {
+  "vi": "sơ bộ; ban đầu; vòng loại",
+  "coll": ["preliminary results", "preliminary report", "preliminary investigation", "preliminary round"]
+ },
+ "presidency": {
+  "vi": "nhiệm kỳ tổng thống; chức tổng thống",
+  "coll": ["run for the presidency", "during his presidency", "assume the presidency", "the US presidency"]
+ },
+ "rocky": {
+  "vi": "nhiều đá; gập ghềnh; trắc trở",
+  "coll": ["rocky road", "rocky coastline", "rocky relationship", "rocky start"]
+ },
+ "strictly": {
+  "vi": "nghiêm ngặt; nghiêm khắc; nói cho đúng",
+  "coll": ["strictly forbidden", "strictly speaking", "strictly confidential", "strictly prohibited"]
+ }
+}

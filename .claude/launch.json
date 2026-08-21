@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "en-dev",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd code && npm run dev"],
+      "port": 3000,
+      "autoPort": true
+    }
+  ]
+}

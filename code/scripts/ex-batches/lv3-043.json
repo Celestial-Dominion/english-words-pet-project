@@ -1,0 +1,814 @@
+[
+ {
+  "id": "fiend",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ độc ác, quỷ dữ; kẻ mê cuồng",
+  "coll": [
+   "an evil fiend",
+   "a drug fiend",
+   "a fresh-air fiend",
+   "a fiend for hard work"
+  ]
+ },
+ {
+  "id": "pleasurable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thú vị, dễ chịu",
+  "coll": [
+   "pleasurable experience",
+   "pleasurable sensation",
+   "highly pleasurable",
+   "pleasurable activity"
+  ]
+ },
+ {
+  "id": "dispensary",
+  "pos": [
+   "n"
+  ],
+  "vi": "quầy phát thuốc; phòng khám phát thuốc",
+  "coll": [
+   "hospital dispensary",
+   "village dispensary",
+   "work in a dispensary",
+   "cannabis dispensary"
+  ]
+ },
+ {
+  "id": "revere",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tôn kính; sùng kính",
+  "coll": [
+   "revere a leader",
+   "revered as a hero",
+   "widely revered",
+   "revere the tradition"
+  ]
+ },
+ {
+  "id": "motley",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "hỗn tạp, ô hợp; áo sặc sỡ của anh hề",
+  "coll": [
+   "a motley crew",
+   "motley collection",
+   "motley assortment",
+   "motley group"
+  ]
+ },
+ {
+  "id": "symptomatic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "là dấu hiệu của; có triệu chứng",
+  "coll": [
+   "symptomatic of a wider problem",
+   "symptomatic patients",
+   "symptomatic treatment",
+   "symptomatic relief"
+  ]
+ },
+ {
+  "id": "tact",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự khéo léo tế nhị",
+  "coll": [
+   "show tact",
+   "with great tact",
+   "tact and diplomacy",
+   "a lack of tact"
+  ]
+ },
+ {
+  "id": "remedial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "để khắc phục, sửa chữa; phụ đạo",
+  "coll": [
+   "remedial action",
+   "remedial work",
+   "remedial classes",
+   "remedial measures"
+  ]
+ },
+ {
+  "id": "munch",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhai rau ráu; nhai nhóp nhép",
+  "coll": [
+   "munch on an apple",
+   "munch popcorn",
+   "munch away",
+   "munch noisily"
+  ]
+ },
+ {
+  "id": "shortlist",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "danh sách rút gọn; đưa vào vòng chung khảo",
+  "coll": [
+   "draw up a shortlist",
+   "on the shortlist",
+   "be shortlisted for",
+   "a shortlist of candidates"
+  ]
+ },
+ {
+  "id": "elitist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "theo chủ nghĩa tinh hoa; kẻ trọng giới tinh hoa",
+  "coll": [
+   "elitist attitude",
+   "elitist system",
+   "accused of being elitist",
+   "elitist education"
+  ]
+ },
+ {
+  "id": "churn",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khuấy đảo, cuộn lên; đánh sữa làm bơ; tỷ lệ khách rời bỏ",
+  "coll": [
+   "my stomach churns",
+   "churn butter",
+   "churn out novels",
+   "customer churn"
+  ]
+ },
+ {
+  "id": "mythological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc thần thoại",
+  "coll": [
+   "mythological creature",
+   "mythological figure",
+   "Greek mythological stories",
+   "mythological beast"
+  ]
+ },
+ {
+  "id": "antiquated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lỗi thời; cổ lỗ",
+  "coll": [
+   "antiquated system",
+   "antiquated laws",
+   "antiquated equipment",
+   "antiquated ideas"
+  ]
+ },
+ {
+  "id": "impediment",
+  "pos": [
+   "n"
+  ],
+  "vi": "trở ngại; tật (nói)",
+  "coll": [
+   "a speech impediment",
+   "an impediment to progress",
+   "serious impediment",
+   "remove impediments"
+  ]
+ },
+ {
+  "id": "somber",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "u ám, ảm đạm; trầm buồn",
+  "coll": [
+   "somber mood",
+   "somber tone",
+   "somber colors",
+   "somber occasion"
+  ]
+ },
+ {
+  "id": "expedite",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "đẩy nhanh, xúc tiến",
+  "coll": [
+   "expedite the process",
+   "expedite delivery",
+   "expedite a request",
+   "expedite matters"
+  ]
+ },
+ {
+  "id": "convoluted",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rối rắm, lằng nhằng; cuộn xoắn",
+  "coll": [
+   "convoluted plot",
+   "convoluted argument",
+   "convoluted process",
+   "overly convoluted"
+  ]
+ },
+ {
+  "id": "sanctity",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính thiêng liêng; sự thánh thiện",
+  "coll": [
+   "the sanctity of life",
+   "sanctity of marriage",
+   "violate the sanctity",
+   "sanctity of the home"
+  ]
+ },
+ {
+  "id": "poise",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự điềm tĩnh tự tin; thế thăng bằng; ở tư thế sẵn sàng",
+  "coll": [
+   "keep your poise",
+   "regain her poise",
+   "poise and confidence",
+   "poised for growth"
+  ]
+ },
+ {
+  "id": "instinctive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "theo bản năng, tự nhiên",
+  "coll": [
+   "instinctive reaction",
+   "instinctive response",
+   "instinctive fear",
+   "purely instinctive"
+  ]
+ },
+ {
+  "id": "intuitively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo trực giác; một cách dễ hiểu",
+  "coll": [
+   "intuitively understand",
+   "intuitively obvious",
+   "intuitively appealing",
+   "know intuitively"
+  ]
+ },
+ {
+  "id": "dynamically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách linh hoạt; theo kiểu động",
+  "coll": [
+   "dynamically generated",
+   "dynamically allocated",
+   "dynamically changing",
+   "dynamically adjust"
+  ]
+ },
+ {
+  "id": "alienate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "làm xa lánh, khiến ghẻ lạnh; chuyển nhượng (tài sản)",
+  "coll": [
+   "alienate voters",
+   "alienate friends",
+   "feel alienated from",
+   "alienate the audience"
+  ]
+ },
+ {
+  "id": "apprehensive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lo lắng, e ngại",
+  "coll": [
+   "apprehensive about the future",
+   "feel apprehensive",
+   "slightly apprehensive",
+   "an apprehensive look"
+  ]
+ },
+ {
+  "id": "stuffy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ngột ngạt, bí hơi; cổ hủ, cứng nhắc; nghẹt mũi",
+  "coll": [
+   "stuffy room",
+   "stuffy atmosphere",
+   "stuffy nose",
+   "stuffy old rules"
+  ]
+ },
+ {
+  "id": "magnetism",
+  "pos": [
+   "n"
+  ],
+  "vi": "sức hút, sự cuốn hút; từ tính",
+  "coll": [
+   "personal magnetism",
+   "animal magnetism",
+   "the magnetism of the earth",
+   "study magnetism"
+  ]
+ },
+ {
+  "id": "uniformity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đồng nhất; sự đồng đều",
+  "coll": [
+   "uniformity of standards",
+   "a degree of uniformity",
+   "impose uniformity",
+   "lack of uniformity"
+  ]
+ },
+ {
+  "id": "cleanly",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "gọn gàng, dứt khoát; sạch sẽ",
+  "coll": [
+   "cut cleanly",
+   "break cleanly",
+   "burn cleanly",
+   "cleanly separated"
+  ]
+ },
+ {
+  "id": "methodical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có phương pháp, bài bản",
+  "coll": [
+   "methodical approach",
+   "methodical search",
+   "slow and methodical",
+   "methodical worker"
+  ]
+ },
+ {
+  "id": "socialization",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hòa nhập xã hội; việc giao tiếp xã hội",
+  "coll": [
+   "early socialization",
+   "socialization process",
+   "gender socialization",
+   "puppy socialization"
+  ]
+ },
+ {
+  "id": "tranquility",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự yên bình, tĩnh lặng",
+  "coll": [
+   "peace and tranquility",
+   "rural tranquility",
+   "a sense of tranquility",
+   "disturb the tranquility"
+  ]
+ },
+ {
+  "id": "placid",
+  "pos": [
+   "adj"
+  ],
+  "vi": "điềm tĩnh; phẳng lặng",
+  "coll": [
+   "placid lake",
+   "placid temperament",
+   "placid waters",
+   "placid smile"
+  ]
+ },
+ {
+  "id": "inexplicably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách khó hiểu",
+  "coll": [
+   "inexplicably disappeared",
+   "inexplicably absent",
+   "inexplicably delayed",
+   "inexplicably linked"
+  ]
+ },
+ {
+  "id": "dissection",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mổ xẻ; sự phân tích tỉ mỉ",
+  "coll": [
+   "frog dissection",
+   "careful dissection",
+   "dissection of the data",
+   "anatomical dissection"
+  ]
+ },
+ {
+  "id": "unwavering",
+  "pos": [
+   "adj"
+  ],
+  "vi": "kiên định, không lay chuyển",
+  "coll": [
+   "unwavering support",
+   "unwavering commitment",
+   "unwavering faith",
+   "unwavering loyalty"
+  ]
+ },
+ {
+  "id": "hibernation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ngủ đông",
+  "coll": [
+   "go into hibernation",
+   "come out of hibernation",
+   "winter hibernation",
+   "hibernation mode"
+  ]
+ },
+ {
+  "id": "blister",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vết phồng rộp; phồng rộp lên",
+  "coll": [
+   "get a blister",
+   "blisters on my feet",
+   "painful blister",
+   "blister pack"
+  ]
+ },
+ {
+  "id": "overalls",
+  "pos": [
+   "n"
+  ],
+  "vi": "quần yếm bảo hộ; bộ đồ bảo hộ",
+  "coll": [
+   "a pair of overalls",
+   "wear overalls",
+   "denim overalls",
+   "greasy overalls"
+  ]
+ },
+ {
+  "id": "commendation",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời khen ngợi; bằng khen",
+  "coll": [
+   "receive a commendation",
+   "letter of commendation",
+   "high commendation",
+   "commendation for bravery"
+  ]
+ },
+ {
+  "id": "gusto",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hào hứng, hăng say",
+  "coll": [
+   "with gusto",
+   "eat with gusto",
+   "sing with great gusto",
+   "tackle the job with gusto"
+  ]
+ },
+ {
+  "id": "succulent",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "mọng nước, ngon ngọt; cây mọng nước",
+  "coll": [
+   "succulent meat",
+   "succulent fruit",
+   "succulent plants",
+   "juicy and succulent"
+  ]
+ },
+ {
+  "id": "wayside",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "ven đường, lề đường",
+  "coll": [
+   "fall by the wayside",
+   "by the wayside",
+   "wayside inn",
+   "wayside flowers"
+  ]
+ },
+ {
+  "id": "manicure",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc làm móng tay; làm móng tay",
+  "coll": [
+   "get a manicure",
+   "have a manicure",
+   "French manicure",
+   "manicure and pedicure"
+  ]
+ },
+ {
+  "id": "perceptive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tinh ý, nhạy bén",
+  "coll": [
+   "perceptive observation",
+   "highly perceptive",
+   "perceptive comment",
+   "perceptive reader"
+  ]
+ },
+ {
+  "id": "riveting",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cuốn hút, hấp dẫn khó rời",
+  "coll": [
+   "riveting performance",
+   "riveting story",
+   "absolutely riveting",
+   "riveting account"
+  ]
+ },
+ {
+  "id": "sprawl",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nằm sõng soài; sự lan rộng lộn xộn (đô thị)",
+  "coll": [
+   "urban sprawl",
+   "suburban sprawl",
+   "sprawl on the sofa",
+   "sprawl across the floor"
+  ]
+ },
+ {
+  "id": "lackluster",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tẻ nhạt, mờ nhạt; thiếu sức sống",
+  "coll": [
+   "lackluster performance",
+   "lackluster results",
+   "lackluster economy",
+   "lackluster response"
+  ]
+ },
+ {
+  "id": "daydream",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mơ mộng viển vông; giấc mơ giữa ban ngày",
+  "coll": [
+   "daydream about",
+   "lost in a daydream",
+   "daydream in class",
+   "a pleasant daydream"
+  ]
+ },
+ {
+  "id": "suitor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người theo đuổi, kẻ cầu hôn; bên muốn thâu tóm",
+  "coll": [
+   "a rejected suitor",
+   "potential suitor",
+   "wealthy suitor",
+   "corporate suitor"
+  ]
+ },
+ {
+  "id": "gushing",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "tuôn trào ào ạt; khen nức nở quá đà",
+  "coll": [
+   "gushing water",
+   "gushing praise",
+   "gushing review",
+   "gushing blood"
+  ]
+ },
+ {
+  "id": "snooze",
+  "pos": [
+   "v"
+  ],
+  "vi": "chợp mắt, ngủ gà; hoãn báo thức",
+  "coll": [
+   "hit the snooze button",
+   "snooze for ten minutes",
+   "have a snooze",
+   "snooze in the afternoon"
+  ]
+ },
+ {
+  "id": "repertory",
+  "pos": [
+   "n"
+  ],
+  "vi": "kịch mục; kiểu diễn luân phiên (nhà hát)",
+  "coll": [
+   "repertory theatre",
+   "repertory company",
+   "in repertory",
+   "repertory season"
+  ]
+ },
+ {
+  "id": "fanciful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "viển vông; bay bổng kỳ khôi",
+  "coll": [
+   "fanciful notion",
+   "fanciful idea",
+   "fanciful name",
+   "highly fanciful"
+  ]
+ },
+ {
+  "id": "crumb",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vụn bánh; mẩu nhỏ, chút xíu",
+  "coll": [
+   "bread crumbs",
+   "brush away the crumbs",
+   "a crumb of comfort",
+   "cake crumbs"
+  ]
+ },
+ {
+  "id": "exuberant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hồ hởi, tràn đầy sức sống; sum suê",
+  "coll": [
+   "exuberant personality",
+   "exuberant celebration",
+   "exuberant growth",
+   "young and exuberant"
+  ]
+ },
+ {
+  "id": "carpentry",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghề mộc",
+  "coll": [
+   "do carpentry",
+   "carpentry skills",
+   "carpentry tools",
+   "learn carpentry"
+  ]
+ },
+ {
+  "id": "scathing",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gay gắt, chỉ trích nặng nề",
+  "coll": [
+   "scathing criticism",
+   "scathing attack",
+   "scathing review",
+   "scathing remarks"
+  ]
+ },
+ {
+  "id": "pounce",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "vồ lấy, chồm tới; cú vồ mồi",
+  "coll": [
+   "pounce on the mouse",
+   "pounce on a mistake",
+   "ready to pounce",
+   "pounce on the opportunity"
+  ]
+ },
+ {
+  "id": "flattery",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời nịnh nọt, tâng bốc",
+  "coll": [
+   "flattery will get you nowhere",
+   "shameless flattery",
+   "susceptible to flattery",
+   "empty flattery"
+  ]
+ }
+]

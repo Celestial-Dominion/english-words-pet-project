@@ -1,0 +1,402 @@
+{
+  "angst": {
+    "vi": "nỗi lo âu day dứt; sự bất an; nỗi trăn trở",
+    "coll": ["teenage angst", "existential angst", "full of angst", "angst and anxiety"]
+  },
+  "dissemination": {
+    "vi": "sự phổ biến; sự truyền bá",
+    "coll": ["dissemination of information", "wide dissemination", "dissemination of knowledge", "research dissemination"]
+  },
+  "mercenary": {
+    "vi": "lính đánh thuê; vụ lợi; hám tiền",
+    "coll": ["foreign mercenaries", "hire mercenaries", "mercenary soldier", "purely mercenary motives"]
+  },
+  "knack": {
+    "vi": "biệt tài; năng khiếu; mẹo khéo",
+    "coll": ["have a knack for", "the knack of doing something", "a knack for languages", "get the knack"]
+  },
+  "hamper": {
+    "vi": "cản trở; giỏ có nắp; giỏ quà",
+    "coll": ["hamper efforts", "hamper progress", "laundry hamper", "a picnic hamper"]
+  },
+  "tortoise": {
+    "vi": "rùa cạn",
+    "coll": ["giant tortoise", "a pet tortoise", "tortoise shell", "slow as a tortoise"]
+  },
+  "outage": {
+    "vi": "sự mất điện; sự gián đoạn dịch vụ",
+    "coll": ["power outage", "a service outage", "internet outage", "widespread outages"]
+  },
+  "dank": {
+    "vi": "ẩm thấp tối tăm; ẩm mốc; chất, đỉnh (lóng)",
+    "coll": ["a dank cellar", "dank and dark", "a dank basement", "dank memes"]
+  },
+  "multiplication": {
+    "vi": "phép nhân; sự nhân lên",
+    "coll": ["multiplication table", "multiplication and division", "learn multiplication", "cell multiplication"]
+  },
+  "kosher": {
+    "vi": "hợp luật Do Thái; đúng phép; chính đáng",
+    "coll": ["kosher food", "kosher meat", "strictly kosher", "not quite kosher"]
+  },
+  "frown": {
+    "vi": "cau mày; nhíu mày; cái cau mày",
+    "coll": ["frown at someone", "a deep frown", "frown upon", "with a frown"]
+  },
+  "expel": {
+    "vi": "đuổi học; trục xuất; tống ra",
+    "coll": ["expel a student", "expel from school", "expel diplomats", "expel air"]
+  },
+  "typewriter": {
+    "vi": "máy đánh chữ",
+    "coll": ["an old typewriter", "manual typewriter", "type on a typewriter", "typewriter keys"]
+  },
+  "inversion": {
+    "vi": "sự đảo ngược; phép đảo ngữ; sự nghịch nhiệt",
+    "coll": ["inversion of the word order", "temperature inversion", "an inversion of roles", "inversion layer"]
+  },
+  "orb": {
+    "vi": "quả cầu; khối cầu; thiên thể",
+    "coll": ["a glowing orb", "crystal orb", "the orb of the sun", "orb and sceptre"]
+  },
+  "visceral": {
+    "vi": "từ bản năng; sâu trong ruột gan; thuộc nội tạng",
+    "coll": ["visceral reaction", "visceral fear", "a visceral response", "visceral fat"]
+  },
+  "fad": {
+    "vi": "mốt nhất thời; trào lưu chóng tàn",
+    "coll": ["a passing fad", "the latest fad", "a diet fad", "just a fad"]
+  },
+  "macho": {
+    "vi": "nam tính phô trương; ra vẻ đàn ông; gã hổ báo",
+    "coll": ["macho image", "macho man", "macho attitude", "act macho"]
+  },
+  "heroism": {
+    "vi": "chủ nghĩa anh hùng; hành động anh hùng",
+    "coll": ["an act of heroism", "great heroism", "show heroism", "quiet heroism"]
+  },
+  "packer": {
+    "vi": "người đóng gói; công nhân đóng hộp",
+    "coll": ["meat packer", "packers and movers", "a fruit packer", "packer of goods"]
+  },
+  "wiggle": {
+    "vi": "ngọ nguậy; lắc lư; sự ngoe nguẩy",
+    "coll": ["wiggle your toes", "wiggle your hips", "wiggle free", "a little wiggle"]
+  },
+  "apathy": {
+    "vi": "sự thờ ơ; sự lãnh đạm",
+    "coll": ["voter apathy", "public apathy", "political apathy", "widespread apathy"]
+  },
+  "casket": {
+    "vi": "quan tài; tráp nhỏ đựng nữ trang",
+    "coll": ["an open casket", "a jewel casket", "carry the casket", "a closed casket funeral"]
+  },
+  "convex": {
+    "vi": "lồi; mặt lồi",
+    "coll": ["convex lens", "convex mirror", "convex surface", "convex shape"]
+  },
+  "gunpowder": {
+    "vi": "thuốc súng",
+    "coll": ["the Gunpowder Plot", "a barrel of gunpowder", "the invention of gunpowder", "the smell of gunpowder"]
+  },
+  "helix": {
+    "vi": "đường xoắn ốc; chuỗi xoắn; vành tai",
+    "coll": ["double helix", "the DNA helix", "helix structure", "alpha helix"]
+  },
+  "burrito": {
+    "vi": "bánh burrito",
+    "coll": ["bean burrito", "breakfast burrito", "eat a burrito", "burrito wrap"]
+  },
+  "artisan": {
+    "vi": "thợ thủ công; nghệ nhân; làm thủ công",
+    "coll": ["a skilled artisan", "local artisans", "artisan bread", "artisan cheese"]
+  },
+  "longitude": {
+    "vi": "kinh độ",
+    "coll": ["latitude and longitude", "degrees of longitude", "lines of longitude", "measure longitude"]
+  },
+  "secretive": {
+    "vi": "kín tiếng; giữ bí mật; úp mở",
+    "coll": ["highly secretive", "a secretive organization", "secretive about something", "secretive nature"]
+  },
+  "cartilage": {
+    "vi": "sụn",
+    "coll": ["torn cartilage", "knee cartilage", "cartilage damage", "cartilage tissue"]
+  },
+  "smallpox": {
+    "vi": "bệnh đậu mùa",
+    "coll": ["smallpox vaccine", "smallpox epidemic", "eradicate smallpox", "die of smallpox"]
+  },
+  "projectile": {
+    "vi": "vật phóng ra; viên đạn; phóng tới",
+    "coll": ["a flying projectile", "projectile motion", "fire a projectile", "projectile vomiting"]
+  },
+  "brothel": {
+    "vi": "nhà thổ; nhà chứa",
+    "coll": ["run a brothel", "an illegal brothel", "work in a brothel", "brothel keeper"]
+  },
+  "undisputed": {
+    "vi": "không thể chối cãi; không ai tranh cãi",
+    "coll": ["undisputed champion", "undisputed leader", "an undisputed fact", "undisputed evidence"]
+  },
+  "inventive": {
+    "vi": "sáng tạo; giàu sáng kiến",
+    "coll": ["an inventive mind", "highly inventive", "an inventive solution", "inventive genius"]
+  },
+  "revoke": {
+    "vi": "thu hồi; hủy bỏ; bãi bỏ",
+    "coll": ["revoke a licence", "revoke permission", "revoke a visa", "revoke the decision"]
+  },
+  "veggie": {
+    "vi": "rau củ; người ăn chay; chay",
+    "coll": ["veggie burger", "fresh veggies", "a veggie option", "go veggie"]
+  },
+  "disparate": {
+    "vi": "khác biệt hẳn nhau; không đồng nhất",
+    "coll": ["disparate groups", "disparate elements", "widely disparate", "disparate sources"]
+  },
+  "groin": {
+    "vi": "háng; bẹn",
+    "coll": ["groin injury", "groin strain", "pain in the groin", "pull a groin muscle"]
+  },
+  "speechless": {
+    "vi": "nghẹn lời; không nói nên lời",
+    "coll": ["leave someone speechless", "left me speechless", "speechless with shock", "utterly speechless"]
+  },
+  "starship": {
+    "vi": "phi thuyền liên sao; tàu vũ trụ",
+    "coll": ["the starship Enterprise", "starship captain", "board the starship", "starship crew"]
+  },
+  "pelvis": {
+    "vi": "khung chậu; xương chậu",
+    "coll": ["a fractured pelvis", "the female pelvis", "pelvis bone", "renal pelvis"]
+  },
+  "potty": {
+    "vi": "bô trẻ em; đi vệ sinh (trẻ); hâm hâm",
+    "coll": ["potty training", "use the potty", "go potty", "potty about someone"]
+  },
+  "foreground": {
+    "vi": "tiền cảnh; cận cảnh; làm nổi bật",
+    "coll": ["in the foreground", "the foreground of the picture", "foreground process", "foreground and background"]
+  },
+  "remuneration": {
+    "vi": "thù lao; tiền công; khoản đãi ngộ",
+    "coll": ["adequate remuneration", "remuneration package", "receive remuneration", "remuneration for services"]
+  },
+  "serotonin": {
+    "vi": "serotonin (chất dẫn truyền thần kinh)",
+    "coll": ["serotonin levels", "boost serotonin", "serotonin reuptake", "low serotonin"]
+  },
+  "maxi": {
+    "vi": "dài chấm gót; cỡ lớn nhất; váy maxi",
+    "coll": ["maxi dress", "maxi skirt", "maxi length", "maxi pad"]
+  },
+  "morbid": {
+    "vi": "bệnh hoạn; ám ảnh chết chóc; thuộc bệnh lý",
+    "coll": ["morbid curiosity", "morbid fascination", "morbid obesity", "a morbid sense of humour"]
+  },
+  "silky": {
+    "vi": "mượt như lụa; mềm mượt; êm ái",
+    "coll": ["silky hair", "silky smooth", "silky texture", "silky skin"]
+  },
+  "clothed": {
+    "vi": "mặc quần áo; được che phủ",
+    "coll": ["fully clothed", "warmly clothed", "clothed in black", "partially clothed"]
+  },
+  "polarization": {
+    "vi": "sự phân cực; sự chia rẽ hai phe",
+    "coll": ["political polarization", "increasing polarization", "polarization of light", "social polarization"]
+  },
+  "sorority": {
+    "vi": "hội nữ sinh viên; hội chị em",
+    "coll": ["sorority house", "join a sorority", "sorority sister", "sorority rush"]
+  },
+  "cleanliness": {
+    "vi": "sự sạch sẽ; tính ưa sạch",
+    "coll": ["personal cleanliness", "standards of cleanliness", "cleanliness and hygiene", "maintain cleanliness"]
+  },
+  "excise": {
+    "vi": "thuế tiêu thụ đặc biệt; cắt bỏ",
+    "coll": ["excise duty", "excise tax", "excise a tumour", "excise the passage"]
+  },
+  "infidelity": {
+    "vi": "sự ngoại tình; sự không chung thủy",
+    "coll": ["marital infidelity", "accused of infidelity", "sexual infidelity", "admit infidelity"]
+  },
+  "contraception": {
+    "vi": "biện pháp tránh thai",
+    "coll": ["use contraception", "emergency contraception", "access to contraception", "reliable contraception"]
+  },
+  "discretionary": {
+    "vi": "tùy nghi quyết định; tùy ý",
+    "coll": ["discretionary spending", "discretionary powers", "discretionary income", "a discretionary fund"]
+  },
+  "fruity": {
+    "vi": "vị trái cây; thơm mùi quả; hơi tưng tửng",
+    "coll": ["fruity flavour", "fruity aroma", "a fruity wine", "fruity taste"]
+  },
+  "homie": {
+    "vi": "chiến hữu; bạn nối khố; anh em (suồng sã)",
+    "coll": ["my homie", "hey homie", "an old homie", "homies from the block"]
+  },
+  "assortment": {
+    "vi": "tập hợp đủ loại; bộ hỗn hợp",
+    "coll": ["a wide assortment", "an assortment of sweets", "a strange assortment", "an assortment of colours"]
+  },
+  "legalize": {
+    "vi": "hợp pháp hóa",
+    "coll": ["legalize cannabis", "legalize abortion", "legalize gambling", "legalize same-sex marriage"]
+  },
+  "liquidation": {
+    "vi": "sự thanh lý; sự giải thể; sự bán tháo tài sản",
+    "coll": ["go into liquidation", "voluntary liquidation", "liquidation of assets", "forced liquidation"]
+  },
+  "nonfiction": {
+    "vi": "sách phi hư cấu; thể loại người thật việc thật",
+    "coll": ["a nonfiction book", "creative nonfiction", "narrative nonfiction", "fiction and nonfiction"]
+  },
+  "advisable": {
+    "vi": "nên làm; đáng khuyên",
+    "coll": ["it is advisable to", "highly advisable", "not advisable", "advisable to check"]
+  },
+  "fledged": {
+    "vi": "đủ lông đủ cánh; đã trưởng thành",
+    "coll": ["fully fledged", "a fully fledged member", "a fully fledged doctor", "newly fledged"]
+  },
+  "protracted": {
+    "vi": "kéo dài dai dẳng; dây dưa",
+    "coll": ["protracted negotiations", "a protracted conflict", "protracted illness", "a protracted legal battle"]
+  },
+  "understandably": {
+    "vi": "dễ hiểu là; cũng phải thôi",
+    "coll": ["understandably upset", "understandably angry", "understandably cautious", "understandably enough"]
+  },
+  "mysteriously": {
+    "vi": "một cách bí ẩn; khó hiểu",
+    "coll": ["mysteriously disappeared", "mysteriously vanished", "smile mysteriously", "mysteriously silent"]
+  },
+  "richness": {
+    "vi": "sự phong phú; độ đậm đà; sự giàu có",
+    "coll": ["the richness of the soil", "richness of flavour", "cultural richness", "species richness"]
+  },
+  "kinase": {
+    "vi": "kinase (enzym phosphoryl hóa)",
+    "coll": ["protein kinase", "kinase activity", "kinase inhibitor", "tyrosine kinase"]
+  },
+  "supremacist": {
+    "vi": "kẻ theo thuyết thượng đẳng; thuộc phái thượng đẳng",
+    "coll": ["white supremacist", "supremacist ideology", "supremacist groups", "a supremacist movement"]
+  },
+  "strategist": {
+    "vi": "nhà chiến lược",
+    "coll": ["political strategist", "chief strategist", "a brilliant strategist", "military strategist"]
+  },
+  "reload": {
+    "vi": "tải lại; nạp đạn lại; lần nạp lại",
+    "coll": ["reload the page", "reload a gun", "reload the weapon", "hit reload"]
+  },
+  "sociological": {
+    "vi": "thuộc xã hội học",
+    "coll": ["sociological research", "sociological perspective", "sociological theory", "a sociological study"]
+  },
+  "concurrently": {
+    "vi": "đồng thời; cùng lúc; song song",
+    "coll": ["run concurrently", "serve sentences concurrently", "work concurrently", "concurrently with"]
+  },
+  "dodger": {
+    "vi": "kẻ né tránh; kẻ trốn nghĩa vụ",
+    "coll": ["tax dodger", "draft dodger", "fare dodger", "an artful dodger"]
+  },
+  "unprofessional": {
+    "vi": "thiếu chuyên nghiệp",
+    "coll": ["unprofessional behaviour", "unprofessional conduct", "highly unprofessional", "an unprofessional attitude"]
+  },
+  "puddle": {
+    "vi": "vũng nước",
+    "coll": ["a puddle of water", "step in a puddle", "a muddy puddle", "a puddle on the floor"]
+  },
+  "dehydrated": {
+    "vi": "mất nước; đã sấy khô",
+    "coll": ["severely dehydrated", "become dehydrated", "dehydrated food", "dehydrated skin"]
+  },
+  "tragically": {
+    "vi": "một cách bi thảm; đau xót thay",
+    "coll": ["tragically killed", "tragically died", "tragically short", "end tragically"]
+  },
+  "recruiter": {
+    "vi": "nhà tuyển dụng; người chiêu mộ",
+    "coll": ["a corporate recruiter", "an army recruiter", "talk to a recruiter", "a tech recruiter"]
+  },
+  "dex": {
+    "vi": "chỉ số nhanh nhẹn (game); bậc mười lần",
+    "coll": ["high dex", "dex build", "dex stat", "boost dex"]
+  },
+  "kodak": {
+    "vi": "máy ảnh (cũ); tấm ảnh chụp (cũ); chụp ảnh (cũ)",
+    "coll": ["a Kodak camera", "a Kodak moment", "Kodak film", "take a kodak"]
+  },
+  "brood": {
+    "vi": "ưu tư nghiền ngẫm; lứa con; ấp trứng",
+    "coll": ["brood over something", "brood about the past", "a brood of chicks", "a brood hen"]
+  },
+  "extant": {
+    "vi": "còn tồn tại; còn lưu lại",
+    "coll": ["extant manuscripts", "the earliest extant", "extant species", "still extant"]
+  },
+  "antidote": {
+    "vi": "thuốc giải độc; phương thuốc hóa giải",
+    "coll": ["an antidote to poison", "the perfect antidote", "an antidote for stress", "administer an antidote"]
+  },
+  "lament": {
+    "vi": "than khóc; thương tiếc; khúc bi ai",
+    "coll": ["lament the loss", "lament the death of", "a lament for", "lament the decline"]
+  },
+  "impeccable": {
+    "vi": "hoàn hảo không chê được; chỉn chu",
+    "coll": ["impeccable taste", "impeccable manners", "impeccable timing", "impeccable credentials"]
+  },
+  "heinous": {
+    "vi": "ghê tởm; tày trời; cực kỳ tàn ác",
+    "coll": ["a heinous crime", "a heinous act", "heinous offence", "particularly heinous"]
+  },
+  "jellyfish": {
+    "vi": "con sứa",
+    "coll": ["jellyfish sting", "a swarm of jellyfish", "box jellyfish", "stung by a jellyfish"]
+  },
+  "emit": {
+    "vi": "phát ra; thải ra; tỏa ra",
+    "coll": ["emit light", "emit carbon dioxide", "emit a sound", "emit radiation"]
+  },
+  "snowflake": {
+    "vi": "bông tuyết; người quá mỏng manh",
+    "coll": ["a delicate snowflake", "snowflake pattern", "a special snowflake", "no two snowflakes are alike"]
+  },
+  "fathom": {
+    "vi": "hiểu thấu; sải (đơn vị đo sâu)",
+    "coll": ["can't fathom it", "fathom out", "hard to fathom", "twenty fathoms deep"]
+  },
+  "ahem": {
+    "vi": "ehèm (hắng giọng); ừm",
+    "coll": ["ahem, excuse me", "a polite ahem", "with an ahem", "ahem, as I was saying"]
+  },
+  "biennial": {
+    "vi": "hai năm một lần; cây hai năm tuổi",
+    "coll": ["biennial conference", "biennial report", "biennial exhibition", "a biennial plant"]
+  },
+  "reptile": {
+    "vi": "loài bò sát",
+    "coll": ["reptile species", "a cold-blooded reptile", "reptile house", "keep reptiles"]
+  },
+  "prodigy": {
+    "vi": "thần đồng; kỳ tài",
+    "coll": ["a child prodigy", "a musical prodigy", "a young prodigy", "math prodigy"]
+  },
+  "pesticide": {
+    "vi": "thuốc trừ sâu; thuốc bảo vệ thực vật",
+    "coll": ["pesticide residues", "spray pesticides", "pesticide use", "chemical pesticides"]
+  },
+  "aggregation": {
+    "vi": "sự tập hợp; sự kết tụ; khối tổng hợp",
+    "coll": ["data aggregation", "an aggregation of", "platelet aggregation", "content aggregation"]
+  }
+}

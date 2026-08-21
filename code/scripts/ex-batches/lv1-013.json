@@ -1,0 +1,894 @@
+[
+ {
+  "id": "contribution",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đóng góp; khoản đóng góp; phần góp",
+  "coll": [
+   "make a contribution",
+   "valuable contribution",
+   "financial contribution",
+   "significant contribution",
+   "contribution to society"
+  ]
+ },
+ {
+  "id": "deny",
+  "pos": [
+   "v"
+  ],
+  "vi": "phủ nhận; chối; từ chối cho",
+  "coll": [
+   "deny the allegations",
+   "flatly deny",
+   "deny responsibility",
+   "deny access",
+   "there's no denying"
+  ]
+ },
+ {
+  "id": "extend",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "kéo dài; mở rộng; gia hạn",
+  "coll": [
+   "extend the deadline",
+   "extend a contract",
+   "extend an invitation",
+   "extend the range",
+   "extend beyond"
+  ]
+ },
+ {
+  "id": "genetic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc di truyền; về gen",
+  "coll": [
+   "genetic code",
+   "genetic disorder",
+   "genetic engineering",
+   "genetic material",
+   "genetic testing"
+  ]
+ },
+ {
+  "id": "principle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nguyên tắc; nguyên lý; đạo lý",
+  "coll": [
+   "in principle",
+   "on principle",
+   "basic principles",
+   "guiding principle",
+   "matter of principle"
+  ]
+ },
+ {
+  "id": "punishment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trừng phạt; hình phạt",
+  "coll": [
+   "capital punishment",
+   "corporal punishment",
+   "severe punishment",
+   "as a punishment",
+   "escape punishment"
+  ]
+ },
+ {
+  "id": "rapidly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhanh chóng; mau lẹ",
+  "coll": [
+   "grow rapidly",
+   "change rapidly",
+   "spread rapidly",
+   "rapidly increasing",
+   "expand rapidly"
+  ]
+ },
+ {
+  "id": "twin",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sinh đôi; anh em sinh đôi; đôi",
+  "coll": [
+   "identical twins",
+   "twin brother",
+   "twin sister",
+   "twin beds",
+   "twin towers"
+  ]
+ },
+ {
+  "id": "boom",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "sự bùng nổ; tiếng nổ ầm; phát triển mạnh",
+  "coll": [
+   "economic boom",
+   "boom and bust",
+   "baby boom",
+   "property boom",
+   "business is booming"
+  ]
+ },
+ {
+  "id": "commit",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phạm (tội); cam kết; dốc sức làm",
+  "coll": [
+   "commit a crime",
+   "commit suicide",
+   "commit yourself",
+   "commit to memory",
+   "commit resources"
+  ]
+ },
+ {
+  "id": "composition",
+  "pos": [
+   "n"
+  ],
+  "vi": "thành phần; cấu tạo; bố cục; bản nhạc sáng tác",
+  "coll": [
+   "chemical composition",
+   "musical composition",
+   "the composition of the team",
+   "write a composition",
+   "composition of a photograph"
+  ]
+ },
+ {
+  "id": "conservation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bảo tồn; việc gìn giữ; sự tiết kiệm",
+  "coll": [
+   "wildlife conservation",
+   "energy conservation",
+   "nature conservation",
+   "conservation area",
+   "conservation efforts"
+  ]
+ },
+ {
+  "id": "crossing",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "chỗ sang đường; sự băng qua; giao lộ",
+  "coll": [
+   "pedestrian crossing",
+   "zebra crossing",
+   "level crossing",
+   "border crossing",
+   "railway crossing"
+  ]
+ },
+ {
+  "id": "guidance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hướng dẫn; sự chỉ dẫn; lời khuyên",
+  "coll": [
+   "seek guidance",
+   "provide guidance",
+   "parental guidance",
+   "career guidance",
+   "under the guidance of"
+  ]
+ },
+ {
+  "id": "infection",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhiễm trùng; bệnh nhiễm khuẩn; sự lây nhiễm",
+  "coll": [
+   "bacterial infection",
+   "viral infection",
+   "ear infection",
+   "spread of infection",
+   "risk of infection"
+  ]
+ },
+ {
+  "id": "intention",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ý định; dự định; mục đích",
+  "coll": [
+   "good intentions",
+   "have no intention",
+   "with the intention of",
+   "declare one's intention",
+   "the best of intentions"
+  ]
+ },
+ {
+  "id": "mechanical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc cơ khí; chạy bằng máy; như cái máy",
+  "coll": [
+   "mechanical engineer",
+   "mechanical failure",
+   "mechanical problem",
+   "mechanical device",
+   "purely mechanical"
+  ]
+ },
+ {
+  "id": "precious",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "quý giá; đáng quý; quý báu",
+  "coll": [
+   "precious metal",
+   "precious stones",
+   "precious time",
+   "precious little",
+   "precious memories"
+  ]
+ },
+ {
+  "id": "priest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "linh mục; thầy tu; tu sĩ",
+  "coll": [
+   "Catholic priest",
+   "parish priest",
+   "high priest",
+   "become a priest",
+   "ordained priest"
+  ]
+ },
+ {
+  "id": "prominent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nổi bật; có tiếng tăm; nhô ra",
+  "coll": [
+   "prominent role",
+   "prominent figure",
+   "prominent position",
+   "prominent member",
+   "play a prominent part"
+  ]
+ },
+ {
+  "id": "residential",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc khu dân cư; dùng để ở",
+  "coll": [
+   "residential area",
+   "residential property",
+   "residential neighborhood",
+   "residential building",
+   "residential care"
+  ]
+ },
+ {
+  "id": "reward",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phần thưởng; sự đền đáp; thưởng cho",
+  "coll": [
+   "offer a reward",
+   "reward for",
+   "financial reward",
+   "reward someone",
+   "risk and reward"
+  ]
+ },
+ {
+  "id": "satellite",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vệ tinh; nước chư hầu",
+  "coll": [
+   "satellite dish",
+   "communications satellite",
+   "satellite TV",
+   "launch a satellite",
+   "satellite image"
+  ]
+ },
+ {
+  "id": "substantial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đáng kể; lớn; vững chắc",
+  "coll": [
+   "substantial amount",
+   "substantial increase",
+   "substantial evidence",
+   "substantial part",
+   "substantial changes"
+  ]
+ },
+ {
+  "id": "teen",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "thiếu niên; tuổi teen; thuộc tuổi mới lớn",
+  "coll": [
+   "teen years",
+   "teen idol",
+   "teen movie",
+   "troubled teen",
+   "teen fashion"
+  ]
+ },
+ {
+  "id": "wildlife",
+  "pos": [
+   "n"
+  ],
+  "vi": "động vật hoang dã; thiên nhiên hoang dã",
+  "coll": [
+   "wildlife conservation",
+   "wildlife sanctuary",
+   "protect wildlife",
+   "wildlife habitat",
+   "wildlife photography"
+  ]
+ },
+ {
+  "id": "aggressive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hung hăng; hiếu chiến; quyết liệt",
+  "coll": [
+   "aggressive behaviour",
+   "aggressive marketing",
+   "highly aggressive",
+   "aggressive driver",
+   "aggressive tumour"
+  ]
+ },
+ {
+  "id": "apparent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rõ ràng; có vẻ như; bề ngoài",
+  "coll": [
+   "become apparent",
+   "for no apparent reason",
+   "apparent contradiction",
+   "it is apparent that",
+   "heir apparent"
+  ]
+ },
+ {
+  "id": "bang",
+  "pos": [
+   "n",
+   "v",
+   "adv",
+   "intj"
+  ],
+  "vi": "tiếng nổ; đập mạnh; cú va đập",
+  "coll": [
+   "a loud bang",
+   "bang the door",
+   "go with a bang",
+   "bang your head",
+   "bang on the table"
+  ]
+ },
+ {
+  "id": "courage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lòng can đảm; sự dũng cảm",
+  "coll": [
+   "have the courage",
+   "take courage",
+   "moral courage",
+   "lose courage",
+   "pluck up the courage"
+  ]
+ },
+ {
+  "id": "cure",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chữa khỏi; cách chữa; phương thuốc",
+  "coll": [
+   "find a cure",
+   "cure a disease",
+   "cure for cancer",
+   "miracle cure",
+   "there is no cure"
+  ]
+ },
+ {
+  "id": "desperate",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "tuyệt vọng; liều lĩnh; khao khát",
+  "coll": [
+   "desperate attempt",
+   "desperate need",
+   "desperate situation",
+   "become desperate",
+   "desperate measures"
+  ]
+ },
+ {
+  "id": "frozen",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đông lạnh; đóng băng; đứng sững",
+  "coll": [
+   "frozen food",
+   "frozen lake",
+   "frozen assets",
+   "frozen solid",
+   "frozen with fear"
+  ]
+ },
+ {
+  "id": "humanity",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân loại; lòng nhân đạo; tính người",
+  "coll": [
+   "crimes against humanity",
+   "all of humanity",
+   "show humanity",
+   "the future of humanity",
+   "sense of humanity"
+  ]
+ },
+ {
+  "id": "ice hockey",
+  "pos": [
+   "n"
+  ],
+  "vi": "khúc côn cầu trên băng",
+  "coll": [
+   "play ice hockey",
+   "ice hockey team",
+   "ice hockey player",
+   "ice hockey match",
+   "professional ice hockey"
+  ]
+ },
+ {
+  "id": "invest",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đầu tư; bỏ vốn; dốc công sức",
+  "coll": [
+   "invest money",
+   "invest in shares",
+   "invest heavily",
+   "invest time",
+   "invest in property"
+  ]
+ },
+ {
+  "id": "painful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đau đớn; gây đau; khổ tâm",
+  "coll": [
+   "painful experience",
+   "extremely painful",
+   "painful memories",
+   "painful truth",
+   "a painful death"
+  ]
+ },
+ {
+  "id": "pound",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bảng Anh; pao (đơn vị cân); đấm thình thịch",
+  "coll": [
+   "British pound",
+   "a pound of butter",
+   "pound sterling",
+   "heart pounding",
+   "pound on the door"
+  ]
+ },
+ {
+  "id": "preparation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chuẩn bị; công tác chuẩn bị",
+  "coll": [
+   "in preparation for",
+   "make preparations",
+   "careful preparation",
+   "exam preparation",
+   "food preparation"
+  ]
+ },
+ {
+  "id": "railroad",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đường sắt; đường ray; ép làm gấp",
+  "coll": [
+   "railroad track",
+   "railroad station",
+   "railroad company",
+   "transcontinental railroad",
+   "railroad crossing"
+  ]
+ },
+ {
+  "id": "registration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đăng ký; việc ghi danh; giấy đăng ký",
+  "coll": [
+   "registration form",
+   "registration fee",
+   "voter registration",
+   "complete registration",
+   "vehicle registration"
+  ]
+ },
+ {
+  "id": "sufficient",
+  "pos": [
+   "adj",
+   "det"
+  ],
+  "vi": "đủ; đầy đủ; thỏa đáng",
+  "coll": [
+   "sufficient evidence",
+   "sufficient time",
+   "sufficient funds",
+   "more than sufficient",
+   "sufficient for"
+  ]
+ },
+ {
+  "id": "tissue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mô (cơ thể); khăn giấy; giấy lụa",
+  "coll": [
+   "brain tissue",
+   "muscle tissue",
+   "a box of tissues",
+   "tissue paper",
+   "tissue damage"
+  ]
+ },
+ {
+  "id": "virtual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ảo; trên mạng; gần như là",
+  "coll": [
+   "virtual reality",
+   "virtual world",
+   "virtual meeting",
+   "virtual assistant",
+   "virtual machine"
+  ]
+ },
+ {
+  "id": "announcement",
+  "pos": [
+   "n"
+  ],
+  "vi": "thông báo; lời tuyên bố",
+  "coll": [
+   "make an announcement",
+   "official announcement",
+   "public announcement",
+   "surprise announcement",
+   "announcement of the results"
+  ]
+ },
+ {
+  "id": "dare",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "dám; thách; lời thách đố",
+  "coll": [
+   "how dare you",
+   "dare to say",
+   "I dare say",
+   "dare someone to",
+   "take a dare"
+  ]
+ },
+ {
+  "id": "define",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "định nghĩa; xác định rõ; làm rõ",
+  "coll": [
+   "define a word",
+   "clearly define",
+   "define the terms",
+   "define the role",
+   "hard to define"
+  ]
+ },
+ {
+  "id": "discrimination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân biệt đối xử; khả năng phân biệt",
+  "coll": [
+   "racial discrimination",
+   "age discrimination",
+   "gender discrimination",
+   "face discrimination",
+   "discrimination against"
+  ]
+ },
+ {
+  "id": "documentary",
+  "pos": [
+   "n"
+  ],
+  "vi": "phim tài liệu; thể loại tài liệu",
+  "coll": [
+   "watch a documentary",
+   "documentary film",
+   "make a documentary",
+   "TV documentary",
+   "documentary series"
+  ]
+ },
+ {
+  "id": "grave",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "ngôi mộ; nấm mồ; nghiêm trọng",
+  "coll": [
+   "dig a grave",
+   "visit the grave",
+   "mass grave",
+   "grave danger",
+   "grave mistake"
+  ]
+ },
+ {
+  "id": "jazz",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhạc jazz; sự sôi động",
+  "coll": [
+   "jazz music",
+   "jazz band",
+   "play jazz",
+   "jazz club",
+   "jazz musician"
+  ]
+ },
+ {
+  "id": "laboratory",
+  "pos": [
+   "n"
+  ],
+  "vi": "phòng thí nghiệm",
+  "coll": [
+   "research laboratory",
+   "laboratory test",
+   "laboratory experiment",
+   "chemistry laboratory",
+   "laboratory conditions"
+  ]
+ },
+ {
+  "id": "literary",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc văn học; văn chương",
+  "coll": [
+   "literary criticism",
+   "literary work",
+   "literary style",
+   "literary award",
+   "literary tradition"
+  ]
+ },
+ {
+  "id": "praise",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khen ngợi; lời khen; ca tụng",
+  "coll": [
+   "high praise",
+   "praise for",
+   "win praise",
+   "praise someone",
+   "words of praise"
+  ]
+ },
+ {
+  "id": "presentation",
+  "pos": [
+   "n"
+  ],
+  "vi": "bài thuyết trình; sự trình bày; lễ trao tặng",
+  "coll": [
+   "give a presentation",
+   "presentation skills",
+   "PowerPoint presentation",
+   "make a presentation",
+   "presentation of the award"
+  ]
+ },
+ {
+  "id": "relation",
+  "pos": [
+   "n"
+  ],
+  "vi": "mối quan hệ; sự liên quan; họ hàng",
+  "coll": [
+   "in relation to",
+   "public relations",
+   "close relation",
+   "diplomatic relations",
+   "bear no relation to"
+  ]
+ },
+ {
+  "id": "steady",
+  "pos": [
+   "adj",
+   "v",
+   "phr",
+   "n",
+   "adv",
+   "intj"
+  ],
+  "vi": "vững vàng; đều đặn; ổn định",
+  "coll": [
+   "steady job",
+   "steady progress",
+   "steady growth",
+   "hold steady",
+   "steady stream"
+  ]
+ },
+ {
+  "id": "terminal",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "nhà ga sân bay; giai đoạn cuối; máy đầu cuối",
+  "coll": [
+   "airport terminal",
+   "bus terminal",
+   "terminal illness",
+   "terminal cancer",
+   "computer terminal"
+  ]
+ },
+ {
+  "id": "unlikely",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "khó xảy ra; ít có khả năng",
+  "coll": [
+   "highly unlikely",
+   "unlikely event",
+   "unlikely to happen",
+   "seem unlikely",
+   "in the unlikely event"
+  ]
+ },
+ {
+  "id": "agenda",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chương trình nghị sự; lịch làm việc; ý đồ riêng",
+  "coll": [
+   "on the agenda",
+   "set the agenda",
+   "hidden agenda",
+   "top of the agenda",
+   "political agenda"
+  ]
+ }
+]

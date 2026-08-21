@@ -1,0 +1,832 @@
+[
+ {
+  "id": "suddenly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đột nhiên; bất thình lình; bỗng nhiên",
+  "coll": [
+   "suddenly realize",
+   "stop suddenly",
+   "die suddenly",
+   "suddenly appear"
+  ]
+ },
+ {
+  "id": "update",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cập nhật; bản cập nhật; thông tin mới nhất",
+  "coll": [
+   "software update",
+   "update your profile",
+   "news update",
+   "get the latest update"
+  ]
+ },
+ {
+  "id": "flow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dòng chảy; chảy; sự lưu thông",
+  "coll": [
+   "cash flow",
+   "traffic flow",
+   "the flow of information",
+   "blood flow"
+  ]
+ },
+ {
+  "id": "stuck",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "bị kẹt; mắc kẹt; bế tắc",
+  "coll": [
+   "get stuck",
+   "stuck in traffic",
+   "stuck at home",
+   "stuck on a problem"
+  ]
+ },
+ {
+  "id": "transport",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vận tải; giao thông; vận chuyển; chuyên chở",
+  "coll": [
+   "public transport",
+   "transport system",
+   "air transport",
+   "transport goods"
+  ]
+ },
+ {
+  "id": "appeal",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sức hấp dẫn; lời kêu gọi; kháng cáo; kêu gọi",
+  "coll": [
+   "mass appeal",
+   "make an appeal",
+   "court of appeal",
+   "appeal to young people",
+   "lose its appeal"
+  ]
+ },
+ {
+  "id": "device",
+  "pos": [
+   "n"
+  ],
+  "vi": "thiết bị; dụng cụ",
+  "coll": [
+   "electronic device",
+   "mobile device",
+   "medical device",
+   "storage device"
+  ]
+ },
+ {
+  "id": "entry",
+  "pos": [
+   "n"
+  ],
+  "vi": "lối vào; sự gia nhập; mục từ; bài dự thi",
+  "coll": [
+   "entry fee",
+   "no entry",
+   "entry requirements",
+   "entry form",
+   "dictionary entry"
+  ]
+ },
+ {
+  "id": "era",
+  "pos": [
+   "n"
+  ],
+  "vi": "thời đại; kỷ nguyên",
+  "coll": [
+   "a new era",
+   "the modern era",
+   "the digital era",
+   "the end of an era"
+  ]
+ },
+ {
+  "id": "exchange rate",
+  "pos": [
+   "n"
+  ],
+  "vi": "tỷ giá hối đoái; tỷ giá",
+  "coll": [
+   "current exchange rate",
+   "fixed exchange rate",
+   "favorable exchange rate",
+   "exchange rate fluctuations"
+  ]
+ },
+ {
+  "id": "grant",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khoản trợ cấp; tiền tài trợ; cấp cho; thừa nhận",
+  "coll": [
+   "research grant",
+   "government grant",
+   "grant permission",
+   "take for granted",
+   "grant a request"
+  ]
+ },
+ {
+  "id": "platform",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nền tảng; sân ga; bục; cương lĩnh",
+  "coll": [
+   "online platform",
+   "railway platform",
+   "social media platform",
+   "political platform"
+  ]
+ },
+ {
+  "id": "regarding",
+  "pos": [
+   "prep",
+   "v",
+   "n"
+  ],
+  "vi": "liên quan đến; về; đối với",
+  "coll": [
+   "information regarding the case",
+   "questions regarding the policy",
+   "concerns regarding safety",
+   "regarding this matter"
+  ]
+ },
+ {
+  "id": "duty-free",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "miễn thuế; hàng miễn thuế",
+  "coll": [
+   "duty-free shop",
+   "duty-free goods",
+   "duty-free allowance",
+   "duty-free shopping"
+  ]
+ },
+ {
+  "id": "emotional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đầy cảm xúc; dễ xúc động; thuộc cảm xúc",
+  "coll": [
+   "emotional support",
+   "emotional response",
+   "get emotional",
+   "emotional intelligence"
+  ]
+ },
+ {
+  "id": "internal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bên trong; nội bộ",
+  "coll": [
+   "internal affairs",
+   "internal organs",
+   "internal investigation",
+   "internal injuries"
+  ]
+ },
+ {
+  "id": "relatively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tương đối; khá là",
+  "coll": [
+   "relatively small",
+   "relatively easy",
+   "relatively new",
+   "relatively cheap"
+  ]
+ },
+ {
+  "id": "studio",
+  "pos": [
+   "n"
+  ],
+  "vi": "phòng thu; xưởng vẽ; trường quay; căn hộ studio",
+  "coll": [
+   "recording studio",
+   "film studio",
+   "art studio",
+   "studio apartment"
+  ]
+ },
+ {
+  "id": "advance",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sự tiến bộ; bước tiến; tiến lên; ứng trước",
+  "coll": [
+   "in advance",
+   "advance notice",
+   "technological advances",
+   "advance payment"
+  ]
+ },
+ {
+  "id": "confidence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tự tin; lòng tin; sự tin cậy",
+  "coll": [
+   "self-confidence",
+   "build confidence",
+   "lose confidence",
+   "confidence in the government",
+   "gain confidence"
+  ]
+ },
+ {
+  "id": "equal",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "bằng nhau; bình đẳng; ngang bằng; sánh bằng",
+  "coll": [
+   "equal rights",
+   "equal opportunities",
+   "equal pay",
+   "divide into equal parts"
+  ]
+ },
+ {
+  "id": "fake",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "giả; giả mạo; đồ giả; làm giả",
+  "coll": [
+   "fake news",
+   "fake ID",
+   "fake smile",
+   "fake money"
+  ]
+ },
+ {
+  "id": "finance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tài chính; cấp vốn; tài trợ",
+  "coll": [
+   "personal finance",
+   "finance minister",
+   "corporate finance",
+   "finance a project"
+  ]
+ },
+ {
+  "id": "identity",
+  "pos": [
+   "n"
+  ],
+  "vi": "danh tính; bản sắc",
+  "coll": [
+   "identity card",
+   "identity theft",
+   "national identity",
+   "sense of identity",
+   "mistaken identity"
+  ]
+ },
+ {
+  "id": "maintain",
+  "pos": [
+   "v"
+  ],
+  "vi": "duy trì; bảo trì; khẳng định",
+  "coll": [
+   "maintain a relationship",
+   "maintain order",
+   "maintain high standards",
+   "maintain equipment"
+  ]
+ },
+ {
+  "id": "measure",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "biện pháp; thước đo; đo; đo lường",
+  "coll": [
+   "safety measures",
+   "take measures",
+   "measure the distance",
+   "a measure of success"
+  ]
+ },
+ {
+  "id": "numerous",
+  "pos": [
+   "adj",
+   "det"
+  ],
+  "vi": "nhiều; vô số; đông đảo",
+  "coll": [
+   "numerous occasions",
+   "numerous studies",
+   "numerous examples",
+   "numerous times"
+  ]
+ },
+ {
+  "id": "approximately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "khoảng; xấp xỉ; gần đúng",
+  "coll": [
+   "approximately two hours",
+   "approximately 50 percent",
+   "cost approximately $100",
+   "approximately equal"
+  ]
+ },
+ {
+  "id": "conflict",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xung đột; mâu thuẫn",
+  "coll": [
+   "armed conflict",
+   "conflict of interest",
+   "resolve a conflict",
+   "come into conflict"
+  ]
+ },
+ {
+  "id": "distribution",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân phối; sự phân bố",
+  "coll": [
+   "distribution network",
+   "food distribution",
+   "income distribution",
+   "distribution channels"
+  ]
+ },
+ {
+  "id": "lay",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đặt; để; đẻ trứng; bày biện",
+  "coll": [
+   "lay the table",
+   "lay eggs",
+   "lay the foundations",
+   "lay it on the bed"
+  ]
+ },
+ {
+  "id": "properly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đúng cách; hẳn hoi; đàng hoàng",
+  "coll": [
+   "work properly",
+   "properly trained",
+   "eat properly",
+   "function properly"
+  ]
+ },
+ {
+  "id": "pure",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "vi": "tinh khiết; thuần khiết; hoàn toàn",
+  "coll": [
+   "pure water",
+   "pure gold",
+   "pure luck",
+   "pure cotton"
+  ]
+ },
+ {
+  "id": "secure",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "an toàn; chắc chắn; bảo đảm; giành được",
+  "coll": [
+   "secure a job",
+   "a secure future",
+   "feel secure",
+   "secure connection",
+   "secure a victory"
+  ]
+ },
+ {
+  "id": "vice president",
+  "pos": [
+   "n"
+  ],
+  "vi": "phó tổng thống; phó chủ tịch",
+  "coll": [
+   "vice president of the company",
+   "elected vice president",
+   "senior vice president",
+   "former vice president"
+  ]
+ },
+ {
+  "id": "determine",
+  "pos": [
+   "v"
+  ],
+  "vi": "xác định; quyết định; định đoạt",
+  "coll": [
+   "determine the cause",
+   "determine whether",
+   "factors that determine success",
+   "determine the outcome"
+  ]
+ },
+ {
+  "id": "experienced",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "có kinh nghiệm; từng trải",
+  "coll": [
+   "experienced teacher",
+   "highly experienced",
+   "experienced in marketing",
+   "experienced staff"
+  ]
+ },
+ {
+  "id": "incredible",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khó tin; tuyệt vời; đáng kinh ngạc",
+  "coll": [
+   "an incredible story",
+   "incredible speed",
+   "absolutely incredible",
+   "an incredible experience"
+  ]
+ },
+ {
+  "id": "obvious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rõ ràng; hiển nhiên",
+  "coll": [
+   "for obvious reasons",
+   "an obvious question",
+   "an obvious choice",
+   "it's obvious that"
+  ]
+ },
+ {
+  "id": "public transport",
+  "pos": [
+   "n"
+  ],
+  "vi": "giao thông công cộng; phương tiện công cộng",
+  "coll": [
+   "use public transport",
+   "public transport system",
+   "travel by public transport",
+   "improve public transport"
+  ]
+ },
+ {
+  "id": "surgery",
+  "pos": [
+   "n"
+  ],
+  "vi": "phẫu thuật; ca mổ; phòng khám",
+  "coll": [
+   "undergo surgery",
+   "plastic surgery",
+   "heart surgery",
+   "minor surgery"
+  ]
+ },
+ {
+  "id": "vision",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tầm nhìn; thị lực; ảo ảnh",
+  "coll": [
+   "blurred vision",
+   "night vision",
+   "a vision for the future",
+   "have a clear vision"
+  ]
+ },
+ {
+  "id": "whenever",
+  "pos": [
+   "adv",
+   "conj"
+  ],
+  "vi": "bất cứ khi nào; mỗi khi",
+  "coll": [
+   "whenever possible",
+   "whenever you want",
+   "whenever necessary",
+   "whenever I see her"
+  ]
+ },
+ {
+  "id": "champion",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "nhà vô địch; người bênh vực; đấu tranh cho",
+  "coll": [
+   "world champion",
+   "defending champion",
+   "national champion",
+   "a champion of human rights"
+  ]
+ },
+ {
+  "id": "crisis",
+  "pos": [
+   "n"
+  ],
+  "vi": "khủng hoảng; cơn nguy kịch",
+  "coll": [
+   "economic crisis",
+   "financial crisis",
+   "crisis management",
+   "midlife crisis",
+   "energy crisis"
+  ]
+ },
+ {
+  "id": "giant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khổng lồ; người khổng lồ; tập đoàn lớn",
+  "coll": [
+   "giant panda",
+   "tech giant",
+   "a giant screen",
+   "giant corporation"
+  ]
+ },
+ {
+  "id": "jail",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà tù; nhà giam; bỏ tù",
+  "coll": [
+   "go to jail",
+   "jail sentence",
+   "put in jail",
+   "released from jail"
+  ]
+ },
+ {
+  "id": "literature",
+  "pos": [
+   "n"
+  ],
+  "vi": "văn học; văn chương; tài liệu nghiên cứu",
+  "coll": [
+   "English literature",
+   "classic literature",
+   "scientific literature",
+   "literature review"
+  ]
+ },
+ {
+  "id": "mayor",
+  "pos": [
+   "n"
+  ],
+  "vi": "thị trưởng",
+  "coll": [
+   "mayor of London",
+   "elect a mayor",
+   "deputy mayor",
+   "former mayor"
+  ]
+ },
+ {
+  "id": "minor",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "nhỏ; thứ yếu; trẻ vị thành niên",
+  "coll": [
+   "minor injury",
+   "minor changes",
+   "a minor role",
+   "minor surgery"
+  ]
+ },
+ {
+  "id": "selection",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lựa chọn; sự tuyển chọn; tập hợp chọn lọc",
+  "coll": [
+   "natural selection",
+   "a wide selection",
+   "selection process",
+   "make a selection"
+  ]
+ },
+ {
+  "id": "signal",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "tín hiệu; dấu hiệu; ra hiệu",
+  "coll": [
+   "send a signal",
+   "phone signal",
+   "traffic signal",
+   "a weak signal",
+   "give a signal"
+  ]
+ },
+ {
+  "id": "stream",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dòng suối; dòng; phát trực tuyến",
+  "coll": [
+   "a mountain stream",
+   "a steady stream of visitors",
+   "stream music online",
+   "live stream"
+  ]
+ },
+ {
+  "id": "struggle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc đấu tranh; sự vật lộn; vật lộn; đấu tranh",
+  "coll": [
+   "power struggle",
+   "struggle for independence",
+   "struggle to survive",
+   "struggle with debt"
+  ]
+ },
+ {
+  "id": "suicide",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tự tử; tự sát",
+  "coll": [
+   "commit suicide",
+   "suicide attempt",
+   "suicide rate",
+   "suicide prevention"
+  ]
+ },
+ {
+  "id": "tiny",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bé xíu; tí hon; nhỏ xíu",
+  "coll": [
+   "a tiny baby",
+   "a tiny bit",
+   "a tiny fraction of",
+   "a tiny village"
+  ]
+ },
+ {
+  "id": "typically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thường; thông thường; điển hình",
+  "coll": [
+   "typically used for",
+   "typically associated with",
+   "typically takes two hours",
+   "typically found in"
+  ]
+ },
+ {
+  "id": "alcohol",
+  "pos": [
+   "n"
+  ],
+  "vi": "rượu; cồn; đồ uống có cồn",
+  "coll": [
+   "drink alcohol",
+   "alcohol abuse",
+   "alcohol content",
+   "alcohol consumption"
+  ]
+ },
+ {
+  "id": "capable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có khả năng; có năng lực; giỏi",
+  "coll": [
+   "capable of learning",
+   "in capable hands",
+   "highly capable",
+   "capable of anything"
+  ]
+ },
+ {
+  "id": "combination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kết hợp; sự phối hợp; mã số khóa",
+  "coll": [
+   "a combination of factors",
+   "in combination with",
+   "winning combination",
+   "color combination"
+  ]
+ }
+]

@@ -1,0 +1,147 @@
+[
+ {
+  "id": "wiki-jakarta-enterprise-beans",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Jakarta_Enterprise_Beans",
+  "title_en": "Jakarta Enterprise Beans",
+  "sentences": [
+   "Jakarta Enterprise Beans are standardized components inside the Java Enterpise framework.",
+   "They used to be called Enterprise Java Beans but they were renamed.",
+   "They make it easier to build multi-tier applications, which can also be distributed.",
+   "EJBs are a server-side components, that are used for the business logic of an application.",
+   "There are three different types of these beans: Entity beans model entities of a database.",
+   "One such bean has the informartion of one database record.",
+   "Session beans model the interactions with the system.",
+   "Message-driven beans are there to model messaging systems.",
+   "This also makes it possible to decouple different systems.",
+   "The system sending the message does not need to know how to process it.",
+   "EJBs also support other Enterprise Java features such as managing transactions, when needed."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-electronic-frontier-foundation-sues-sony",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Electronic_Frontier_Foundation_sues_Sony_over_CD_technology",
+  "title_en": "Electronic Frontier Foundation sues Sony over CD technology",
+  "sentences": [
+   "Tuesday, November 22, 2005 The California-based non-profit organization Electronic Frontier Foundation, as well as the Attorney General of Texas, has filed a law suit against Sony Computer Entertainment of America for their controversial use of anti-piracy software.",
+   "The EFF claims that the digital rights management software on the CDs BMG Music (a subsidiary of Sony) produces acts as spyware, which the EFF claims is against Texas law.",
+   "The program, known as XCP, is said to install software on one's system when they insert the CD into their computer for purposes such as adding to iTunes music software.",
+   "Sony currently rejects the idea of XCP technology being considered as spyware, however they have agreed to replace CDs with the software and to temporarily discontinue the installation of it on their CDs.",
+   "Among the controversy that Sony's moves to counter piracy have raised is the accusation that their software leaves a machine more vulnerable to attacks across the Internet.",
+   "A trojan horse has already been found in the wild that utilizes one of the anti-piracy software's functions."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-mobile-app",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Mobile_app",
+  "title_en": "Mobile app",
+  "sentences": [
+   "A mobile application, also referred to as a mobile app or simply an app, is a computer program designed to run on smartphones, tablet computers and other mobile devices.",
+   "Apps are usually available through an app store for that platform.",
+   "These began appearing in 2008.",
+   "The largest stores are operated by the owner of the mobile operating system.",
+   "Some apps are usually bundled with the device, already installed before you buy it.",
+   "Other apps may be downloaded for free from the app store, and some must be purchased.",
+   "Software developers make as they make other computer programs, and usually offer them through the app store."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-radio-frequency-identification",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Radio-frequency_identification",
+  "title_en": "Radio-frequency identification",
+  "sentences": [
+   "Radio-frequency identification (RFID) is a technology used to record the presence of an object using radio signals.",
+   "It is used for inventory control or timing sporting events.",
+   "RFID is not a replacement for barcoding, but a complement for distant reading of codes.",
+   "The technology is used for automatically identifying a person, a package or an item.",
+   "To do this, it relies on RFID tags.",
+   "These are small transponders (combined radio receiver and transmitter) that will transmit identity information over a short distance, when asked.",
+   "The other piece to make use of RFID tags is an RFID tag reader.",
+   "An RFID tag is an object that can be applied to or incorporated into a product, animal, or person for the purpose of identification and tracking using radio waves.",
+   "Some tags can be read from several meters away and beyond the line of sight of the reader.",
+   "Most tags carry a plain text inscription and a barcode as complements for direct reading and for cases of any failure of radio frequency electronics.",
+   "Most RFID tags contain at least two parts.",
+   "One is an integrated circuit for storing and processing information, modulating and de-modulating a radio-frequency (RF) signal, and other specialized functions.",
+   "The second is an antenna for receiving and transmitting the signal.",
+   "There are generally two types of RFID tags: active RFID tags, which contain a battery, and passive RFID tags, which have no batteries."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-gnome-web",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/GNOME_Web",
+  "title_en": "GNOME Web",
+  "sentences": [
+   "GNOME Web (sometimes called Epiphany) is a web browser for GNOME.",
+   "The browser uses the WebKit browser engine to load web pages but supports extensions from Mozilla Firefox and Google Chrome and uses Firefox Sync's API to allow syncing between multiple browsers.",
+   "This also allows the browser to sync its bookmarks and reading list with Firefox and its mobile app.",
+   "GNOME Web was originally made from Galeon by Marco Pesenti Gritti (also the creator of Galeon) with the aim of making a web browser with a very simple user experience.",
+   "Because of that, GNOME Webdoes not have its own themes, instead, it uses GNOME’s settings that are set in the GNOME Control Center.",
+   "It also used to be Firefox based but switched to WebKit in September of 2009."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-itri-to-challenge-the-infrastructure-of-",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/ITRI_to_challenge_the_infrastructure_of_WiMAX_on_High_Speed_Rails_in_Taiwan",
+  "title_en": "ITRI to challenge the infrastructure of WiMAX on High Speed Rails in Taiwan",
+  "sentences": [
+   "Sunday, June 8, 2008 To challenge the possibility of WiMAX connection on high speed rails, Industrial Technology Research Institute (ITRI) and Taiwan High Speed Rail Corporation (THSRC) started an experiment on Mobile WiMAX technology for the THSR.",
+   "It's the first-ever WiMAX experiment on high speed rails in the world.",
+   "Industrial companies including Nippon Telegraph and Telephone Broadband Platform Inc., Nippon Telegraph and Telephone, Corning Incorporated, and ZyXEL are confirmed to provide solutions in this first-ever experiment.",
+   "\"THSR is a must-have transportation way for the public besides of inter-city buses and railways in Taiwan.\" stated THSRC.",
+   "\"There are three critical difficulties that this experiment should be overcome: 'Speed of the THSR', 'Base station construction inside the rails', and the most important one - 'Internet connection on tunnels'.\" stated ITRI.",
+   "\"If this [difficult] experiment can be succeeded, Taiwan will become the first nation to provide the Internet connection on high speed rails in the world.\" said by Moses Yen, Director of Exhibition Department of Taiwan External Trade Development Council."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-wikinews-interviews-journalist-konrad-go",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Wikinews_interviews_journalist_Konrad_Godlewski%2C_who_uncovered_BATUTA_hoax",
+  "title_en": "Wikinews interviews journalist Konrad Godlewski, who uncovered BATUTA hoax",
+  "sentences": [
+   "Sunday, February 14, 2010 Four years ago, on February 9, a major Polish newspaper, Gazeta Wyborcza published a report detailing a hoax in Polish Wikipedia entitled Henryk Batuta.",
+   "The author of the report was Konrad Godlewski; several weeks later, Godlewski began editing Polish Wikipedia.",
+   "The results of his work include one featured article – pismo chińskie (Polish for \"Chinese character\") – as well as various articles relating to China.",
+   "During our interview, Godlewski discusses memes, hoaxes, and the Batuta Army – the creators of the hoax his paper reported on.",
+   "From February this year, a special project on the Polish Wikipedia, BATUTA, saw a makeshift taskforce work on improving the quality of content.",
+   "BATUTA stands for \"Bezwzględna Akcja Troskliwego Uźródławiania Tysięcy artykłów\", roughly translated as \"Ruthless Action of Carefully Adding References to Thousands of Articles\"."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-mtn-irancell",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/MTN_Irancell",
+  "title_en": "MTN Irancell",
+  "sentences": [
+   "MTN Irancell is a big Iranian company that provides mobile phone and internet services.",
+   "It's the biggest company for these services in Iran.",
+   "MTN Group, a company from South Africa, owns almost half of Irancell.",
+   "The rest is owned by an Iranian company called Kowsar Sign Paniz.",
+   "Irancell started providing 4G internet in 2014.",
+   "This was the first time 4G was available in Iran.",
+   "By 2021, over 50 million people were using Irancell's services.",
+   "Irancell has won awards for its public relations work.",
+   "This means they are good at communicating with their customers."
+  ],
+  "topic": "it"
+ }
+]

@@ -1,0 +1,718 @@
+[
+ {
+  "id": "productivity",
+  "pos": [
+   "n"
+  ],
+  "vi": "năng suất, hiệu suất làm việc",
+  "coll": [
+   "increase productivity",
+   "labour productivity",
+   "productivity growth",
+   "boost productivity",
+   "productivity gains"
+  ]
+ },
+ {
+  "id": "threshold",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngưỡng, mức giới hạn; ngưỡng cửa",
+  "coll": [
+   "pain threshold",
+   "cross the threshold",
+   "threshold value",
+   "income threshold",
+   "a high threshold"
+  ]
+ },
+ {
+  "id": "reconstruction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tái thiết, xây dựng lại",
+  "coll": [
+   "post-war reconstruction",
+   "economic reconstruction",
+   "reconstruction of the city",
+   "reconstruction plan"
+  ]
+ },
+ {
+  "id": "mainland",
+  "pos": [
+   "n"
+  ],
+  "vi": "đất liền, lục địa chính",
+  "coll": [
+   "mainland China",
+   "the mainland",
+   "mainland Europe",
+   "return to the mainland"
+  ]
+ },
+ {
+  "id": "sovereign",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "có chủ quyền; quốc vương, nguyên thủ",
+  "coll": [
+   "sovereign state",
+   "sovereign debt",
+   "sovereign right",
+   "sovereign wealth fund"
+  ]
+ },
+ {
+  "id": "norm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuẩn mực, thông lệ; định mức",
+  "coll": [
+   "social norms",
+   "cultural norms",
+   "the norm",
+   "deviate from the norm",
+   "become the norm"
+  ]
+ },
+ {
+  "id": "transparency",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự minh bạch; độ trong suốt",
+  "coll": [
+   "financial transparency",
+   "greater transparency",
+   "transparency and accountability",
+   "lack of transparency"
+  ]
+ },
+ {
+  "id": "opt",
+  "pos": [
+   "v"
+  ],
+  "vi": "chọn, quyết định chọn",
+  "coll": [
+   "opt for",
+   "opt out",
+   "opt in",
+   "opt to do something"
+  ]
+ },
+ {
+  "id": "broker",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "người môi giới; làm trung gian dàn xếp",
+  "coll": [
+   "insurance broker",
+   "broker a deal",
+   "stock broker",
+   "mortgage broker",
+   "broker an agreement"
+  ]
+ },
+ {
+  "id": "node",
+  "pos": [
+   "n"
+  ],
+  "vi": "nút, điểm nút (mạng, cây); hạch",
+  "coll": [
+   "network node",
+   "lymph node",
+   "root node",
+   "node in a graph",
+   "child node"
+  ]
+ },
+ {
+  "id": "behavioral",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc về hành vi",
+  "coll": [
+   "behavioral change",
+   "behavioral economics",
+   "behavioral problems",
+   "behavioral science"
+  ]
+ },
+ {
+  "id": "logistics",
+  "pos": [
+   "n"
+  ],
+  "vi": "hậu cần, khâu tổ chức vận chuyển",
+  "coll": [
+   "logistics company",
+   "supply chain logistics",
+   "handle the logistics",
+   "logistics costs"
+  ]
+ },
+ {
+  "id": "rig",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gian lận, dàn xếp; giàn khoan; lắp ráp",
+  "coll": [
+   "rig an election",
+   "oil rig",
+   "rig the market",
+   "drilling rig",
+   "rig up something"
+  ]
+ },
+ {
+  "id": "levy",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đánh thuế, thu (phí); khoản thu",
+  "coll": [
+   "levy a tax",
+   "levy a fine",
+   "import levy",
+   "levy duties on"
+  ]
+ },
+ {
+  "id": "monopoly",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự độc quyền; thế độc quyền",
+  "coll": [
+   "state monopoly",
+   "have a monopoly on",
+   "break up a monopoly",
+   "monopoly power",
+   "natural monopoly"
+  ]
+ },
+ {
+  "id": "economically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt kinh tế; một cách tiết kiệm",
+  "coll": [
+   "economically viable",
+   "economically active",
+   "economically disadvantaged",
+   "grow economically"
+  ]
+ },
+ {
+  "id": "marketplace",
+  "pos": [
+   "n"
+  ],
+  "vi": "thị trường; khu chợ",
+  "coll": [
+   "in the marketplace",
+   "online marketplace",
+   "global marketplace",
+   "marketplace competition"
+  ]
+ },
+ {
+  "id": "boycott",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tẩy chay; cuộc tẩy chay",
+  "coll": [
+   "boycott the election",
+   "consumer boycott",
+   "call for a boycott",
+   "boycott a product"
+  ]
+ },
+ {
+  "id": "gamble",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đánh cược, liều; canh bạc",
+  "coll": [
+   "take a gamble",
+   "a risky gamble",
+   "gamble on",
+   "the gamble paid off"
+  ]
+ },
+ {
+  "id": "forge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gây dựng, tạo lập; giả mạo; lò rèn",
+  "coll": [
+   "forge a relationship",
+   "forge ahead",
+   "forge a signature",
+   "forge links with",
+   "forge an alliance"
+  ]
+ },
+ {
+  "id": "tenant",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người thuê nhà, bên thuê",
+  "coll": [
+   "tenant and landlord",
+   "commercial tenant",
+   "evict a tenant",
+   "tenant rights",
+   "anchor tenant"
+  ]
+ },
+ {
+  "id": "internally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trong nội bộ; bên trong",
+  "coll": [
+   "internally consistent",
+   "handled internally",
+   "promote internally",
+   "internally displaced"
+  ]
+ },
+ {
+  "id": "null",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "vô hiệu, rỗng; giá trị rỗng",
+  "coll": [
+   "null and void",
+   "null value",
+   "null hypothesis",
+   "return null"
+  ]
+ },
+ {
+  "id": "vest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trao quyền; áo gi-lê; (quyền) được xác lập",
+  "coll": [
+   "vested interest",
+   "vest authority in",
+   "safety vest",
+   "shares vest",
+   "bulletproof vest"
+  ]
+ },
+ {
+  "id": "yen",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồng yên (Nhật); niềm khao khát",
+  "coll": [
+   "the Japanese yen",
+   "billion yen",
+   "yen exchange rate",
+   "a yen for travel"
+  ]
+ },
+ {
+  "id": "dismissal",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sa thải; sự bác bỏ",
+  "coll": [
+   "unfair dismissal",
+   "constructive dismissal",
+   "dismissal of the case",
+   "face dismissal"
+  ]
+ },
+ {
+  "id": "consolidation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hợp nhất, sáp nhập; sự củng cố",
+  "coll": [
+   "industry consolidation",
+   "debt consolidation",
+   "consolidation of power",
+   "market consolidation"
+  ]
+ },
+ {
+  "id": "validity",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính hợp lệ, giá trị pháp lý; độ tin cậy",
+  "coll": [
+   "question the validity",
+   "validity of the contract",
+   "period of validity",
+   "scientific validity"
+  ]
+ },
+ {
+  "id": "yuan",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồng nhân dân tệ (Trung Quốc)",
+  "coll": [
+   "Chinese yuan",
+   "billion yuan",
+   "yuan exchange rate",
+   "devalue the yuan"
+  ]
+ },
+ {
+  "id": "beverage",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ uống, thức uống",
+  "coll": [
+   "alcoholic beverage",
+   "beverage industry",
+   "food and beverage",
+   "soft beverage"
+  ]
+ },
+ {
+  "id": "dent",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vết lõm; làm sứt mẻ, làm giảm",
+  "coll": [
+   "make a dent in",
+   "a dent in the door",
+   "dent confidence",
+   "put a dent in profits"
+  ]
+ },
+ {
+  "id": "dub",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lồng tiếng; đặt biệt danh",
+  "coll": [
+   "dub a film",
+   "dubbed into English",
+   "dubbed the king of",
+   "be dubbed"
+  ]
+ },
+ {
+  "id": "lender",
+  "pos": [
+   "n"
+  ],
+  "vi": "bên cho vay, người cho vay",
+  "coll": [
+   "mortgage lender",
+   "lender of last resort",
+   "commercial lender",
+   "lender and borrower"
+  ]
+ },
+ {
+  "id": "scarce",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "khan hiếm, hiếm hoi",
+  "coll": [
+   "scarce resources",
+   "become scarce",
+   "in scarce supply",
+   "scarce funds"
+  ]
+ },
+ {
+  "id": "mister",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ông (cách xưng hô)",
+  "coll": [
+   "mister president",
+   "hey mister",
+   "Mister Smith"
+  ]
+ },
+ {
+  "id": "amend",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "sửa đổi, tu chỉnh",
+  "coll": [
+   "amend the law",
+   "amend a contract",
+   "amend the constitution",
+   "amend a proposal"
+  ]
+ },
+ {
+  "id": "cater",
+  "pos": [
+   "v",
+   "n",
+   "adv"
+  ],
+  "vi": "phục vụ, đáp ứng; cung cấp đồ ăn",
+  "coll": [
+   "cater for",
+   "cater to demand",
+   "cater an event",
+   "catering company"
+  ]
+ },
+ {
+  "id": "downside",
+  "pos": [
+   "n"
+  ],
+  "vi": "mặt hạn chế, mặt trái",
+  "coll": [
+   "the downside is",
+   "downside risk",
+   "upside and downside",
+   "downside of the plan"
+  ]
+ },
+ {
+  "id": "ledger",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sổ cái (kế toán)",
+  "coll": [
+   "general ledger",
+   "keep a ledger",
+   "ledger entry",
+   "ledger balance",
+   "distributed ledger"
+  ]
+ },
+ {
+  "id": "bidder",
+  "pos": [
+   "n"
+  ],
+  "vi": "người trả giá, bên dự thầu",
+  "coll": [
+   "the highest bidder",
+   "successful bidder",
+   "potential bidder",
+   "sell to the highest bidder"
+  ]
+ },
+ {
+  "id": "deter",
+  "pos": [
+   "v"
+  ],
+  "vi": "ngăn cản, răn đe",
+  "coll": [
+   "deter crime",
+   "deter investors",
+   "deter someone from",
+   "deter an attack"
+  ]
+ },
+ {
+  "id": "liquidity",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính thanh khoản",
+  "coll": [
+   "market liquidity",
+   "liquidity crisis",
+   "provide liquidity",
+   "liquidity risk",
+   "cash liquidity"
+  ]
+ },
+ {
+  "id": "competitiveness",
+  "pos": [
+   "n"
+  ],
+  "vi": "khả năng cạnh tranh, sức cạnh tranh",
+  "coll": [
+   "global competitiveness",
+   "improve competitiveness",
+   "price competitiveness",
+   "loss of competitiveness"
+  ]
+ },
+ {
+  "id": "orient",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "định hướng; hướng về; phương Đông",
+  "coll": [
+   "orient yourself",
+   "customer-oriented",
+   "orient towards",
+   "orient a strategy"
+  ]
+ },
+ {
+  "id": "substitution",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thay thế",
+  "coll": [
+   "import substitution",
+   "make a substitution",
+   "substitution effect",
+   "substitution of goods"
+  ]
+ },
+ {
+  "id": "hurdle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rào cản, trở ngại; rào (điền kinh)",
+  "coll": [
+   "overcome a hurdle",
+   "the biggest hurdle",
+   "clear a hurdle",
+   "regulatory hurdle",
+   "hurdle rate"
+  ]
+ },
+ {
+  "id": "rein",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kiềm chế, siết chặt; dây cương",
+  "coll": [
+   "rein in spending",
+   "take the reins",
+   "hand over the reins",
+   "keep a tight rein on"
+  ]
+ },
+ {
+  "id": "bolster",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "củng cố, nâng đỡ",
+  "coll": [
+   "bolster confidence",
+   "bolster the economy",
+   "bolster sales",
+   "bolster support"
+  ]
+ },
+ {
+  "id": "payoff",
+  "pos": [
+   "n"
+  ],
+  "vi": "khoản lợi thu về; tiền chung chi",
+  "coll": [
+   "a big payoff",
+   "the payoff from",
+   "risk and payoff",
+   "payoff period"
+  ]
+ },
+ {
+  "id": "annum",
+  "pos": [
+   "n"
+  ],
+  "vi": "năm (dùng trong \"per annum\": mỗi năm)",
+  "coll": [
+   "per annum",
+   "5% per annum",
+   "salary per annum"
+  ]
+ },
+ {
+  "id": "clout",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ảnh hưởng, thế lực",
+  "coll": [
+   "political clout",
+   "carry clout",
+   "financial clout",
+   "wield clout"
+  ]
+ },
+ {
+  "id": "tonne",
+  "pos": [
+   "n"
+  ],
+  "vi": "tấn (1.000 kg)",
+  "coll": [
+   "a tonne of steel",
+   "million tonnes",
+   "tonnes of cargo",
+   "price per tonne"
+  ]
+ }
+]

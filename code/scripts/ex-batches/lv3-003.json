@@ -1,0 +1,875 @@
+[
+ {
+  "id": "chronic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mãn tính; dai dẳng, kéo dài",
+  "coll": [
+   "chronic pain",
+   "chronic illness",
+   "chronic disease",
+   "chronic shortage",
+   "chronic fatigue"
+  ]
+ },
+ {
+  "id": "marijuana",
+  "pos": [
+   "n"
+  ],
+  "vi": "cần sa",
+  "coll": [
+   "smoke marijuana",
+   "medical marijuana",
+   "legalize marijuana",
+   "marijuana use",
+   "marijuana plant"
+  ]
+ },
+ {
+  "id": "pic",
+  "pos": [
+   "n"
+  ],
+  "vi": "tấm ảnh; tấm hình",
+  "coll": [
+   "post a pic",
+   "profile pic",
+   "send me a pic",
+   "take a pic"
+  ]
+ },
+ {
+  "id": "solely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chỉ riêng; duy nhất; hoàn toàn",
+  "coll": [
+   "solely responsible",
+   "based solely on",
+   "rely solely on",
+   "solely for",
+   "solely dependent"
+  ]
+ },
+ {
+  "id": "scenario",
+  "pos": [
+   "n"
+  ],
+  "vi": "kịch bản; tình huống giả định",
+  "coll": [
+   "worst-case scenario",
+   "likely scenario",
+   "in this scenario",
+   "scenario planning",
+   "possible scenario"
+  ]
+ },
+ {
+  "id": "sustainable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bền vững; duy trì được lâu dài",
+  "coll": [
+   "sustainable development",
+   "sustainable growth",
+   "environmentally sustainable",
+   "sustainable energy",
+   "sustainable agriculture"
+  ]
+ },
+ {
+  "id": "bulk",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "phần lớn; khối lượng lớn; số lượng lớn",
+  "coll": [
+   "in bulk",
+   "buy in bulk",
+   "the bulk of",
+   "bulk order",
+   "bulk discount"
+  ]
+ },
+ {
+  "id": "bulk up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tăng cơ bắp; lên cân; làm dày thêm",
+  "coll": [
+   "bulk up for the role",
+   "bulk up muscle",
+   "bulk up in the gym",
+   "bulk up your portfolio"
+  ]
+ },
+ {
+  "id": "respective",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tương ứng; riêng của từng bên",
+  "coll": [
+   "their respective fields",
+   "respective owners",
+   "respective roles",
+   "respective countries",
+   "respective positions"
+  ]
+ },
+ {
+  "id": "raid",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc đột kích; đột kích; cuộc khám xét",
+  "coll": [
+   "police raid",
+   "air raid",
+   "raid the house",
+   "carry out a raid",
+   "drug raid"
+  ]
+ },
+ {
+  "id": "census",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "điều tra dân số; cuộc tổng kiểm kê",
+  "coll": [
+   "national census",
+   "census data",
+   "conduct a census",
+   "census figures",
+   "the 2020 census"
+  ]
+ },
+ {
+  "id": "anytime",
+  "pos": [
+   "adv",
+   "intj",
+   "adj"
+  ],
+  "vi": "bất cứ lúc nào; không có chi (đáp lại cảm ơn)",
+  "coll": [
+   "anytime soon",
+   "call me anytime",
+   "anytime you want",
+   "come anytime"
+  ]
+ },
+ {
+  "id": "partially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một phần; phần nào",
+  "coll": [
+   "partially blind",
+   "partially complete",
+   "partially correct",
+   "partially funded",
+   "partially responsible"
+  ]
+ },
+ {
+  "id": "commentary",
+  "pos": [
+   "n"
+  ],
+  "vi": "bình luận; lời tường thuật; chú giải",
+  "coll": [
+   "running commentary",
+   "live commentary",
+   "social commentary",
+   "political commentary",
+   "provide commentary"
+  ]
+ },
+ {
+  "id": "situated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tọa lạc, nằm ở; ở vào hoàn cảnh",
+  "coll": [
+   "conveniently situated",
+   "situated in the centre",
+   "beautifully situated",
+   "situated on the coast",
+   "well situated"
+  ]
+ },
+ {
+  "id": "congressional",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc quốc hội",
+  "coll": [
+   "congressional hearing",
+   "congressional election",
+   "congressional committee",
+   "congressional approval",
+   "congressional district"
+  ]
+ },
+ {
+  "id": "advisory",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tư vấn, cố vấn; bản khuyến cáo",
+  "coll": [
+   "advisory board",
+   "advisory committee",
+   "advisory role",
+   "travel advisory",
+   "weather advisory"
+  ]
+ },
+ {
+  "id": "structural",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc kết cấu; mang tính cơ cấu",
+  "coll": [
+   "structural damage",
+   "structural changes",
+   "structural reform",
+   "structural integrity",
+   "structural engineer"
+  ]
+ },
+ {
+  "id": "chill",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "làm lạnh; thư giãn, nghỉ ngơi; cái lạnh buốt",
+  "coll": [
+   "chill out",
+   "chill in the fridge",
+   "a chill in the air",
+   "send a chill down my spine",
+   "chill with friends"
+  ]
+ },
+ {
+  "id": "rifle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "súng trường; lục lọi",
+  "coll": [
+   "assault rifle",
+   "sniper rifle",
+   "hunting rifle",
+   "fire a rifle",
+   "rifle through the drawers"
+  ]
+ },
+ {
+  "id": "grid",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lưới ô vuông; mạng lưới điện; bảng kẻ ô",
+  "coll": [
+   "power grid",
+   "national grid",
+   "grid system",
+   "off the grid",
+   "grid layout"
+  ]
+ },
+ {
+  "id": "suite",
+  "pos": [
+   "n"
+  ],
+  "vi": "phòng hạng sang; bộ (phần mềm); tổ khúc nhạc",
+  "coll": [
+   "hotel suite",
+   "honeymoon suite",
+   "software suite",
+   "executive suite",
+   "en suite bathroom"
+  ]
+ },
+ {
+  "id": "gospel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phúc âm; chân lý tuyệt đối; nhạc gospel",
+  "coll": [
+   "the Gospel of John",
+   "spread the gospel",
+   "gospel music",
+   "gospel truth",
+   "preach the gospel"
+  ]
+ },
+ {
+  "id": "consecutive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "liên tiếp; liền nhau",
+  "coll": [
+   "consecutive days",
+   "consecutive years",
+   "third consecutive win",
+   "consecutive months",
+   "consecutive numbers"
+  ]
+ },
+ {
+  "id": "vintage",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "cổ điển; đồ cũ có giá trị; niên vụ rượu vang",
+  "coll": [
+   "vintage clothing",
+   "vintage car",
+   "vintage wine",
+   "vintage store",
+   "a vintage year"
+  ]
+ },
+ {
+  "id": "parliamentary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc nghị viện; theo chế độ nghị viện",
+  "coll": [
+   "parliamentary election",
+   "parliamentary system",
+   "parliamentary democracy",
+   "parliamentary seat",
+   "parliamentary debate"
+  ]
+ },
+ {
+  "id": "patent",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "bằng sáng chế; đăng ký sáng chế; rành rành, hiển nhiên",
+  "coll": [
+   "file a patent",
+   "patent application",
+   "patent infringement",
+   "hold a patent",
+   "patent office"
+  ]
+ },
+ {
+  "id": "compliance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tuân thủ; việc chấp hành",
+  "coll": [
+   "in compliance with",
+   "regulatory compliance",
+   "ensure compliance",
+   "compliance with the law",
+   "compliance officer"
+  ]
+ },
+ {
+  "id": "magnetic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có từ tính; thuộc từ trường; có sức hút",
+  "coll": [
+   "magnetic field",
+   "magnetic force",
+   "magnetic north",
+   "magnetic personality",
+   "magnetic resonance"
+  ]
+ },
+ {
+  "id": "propaganda",
+  "pos": [
+   "n"
+  ],
+  "vi": "tuyên truyền; hoạt động tuyên truyền",
+  "coll": [
+   "political propaganda",
+   "propaganda campaign",
+   "spread propaganda",
+   "war propaganda",
+   "propaganda machine"
+  ]
+ },
+ {
+  "id": "aviation",
+  "pos": [
+   "n"
+  ],
+  "vi": "hàng không; ngành hàng không",
+  "coll": [
+   "civil aviation",
+   "aviation industry",
+   "aviation fuel",
+   "aviation safety",
+   "commercial aviation"
+  ]
+ },
+ {
+  "id": "diabetes",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh tiểu đường",
+  "coll": [
+   "type 2 diabetes",
+   "diagnosed with diabetes",
+   "manage diabetes",
+   "diabetes risk",
+   "gestational diabetes"
+  ]
+ },
+ {
+  "id": "underlying",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tiềm ẩn; nằm bên dưới; cơ bản, cốt lõi",
+  "coll": [
+   "underlying cause",
+   "underlying problem",
+   "underlying assumption",
+   "underlying condition",
+   "underlying principle"
+  ]
+ },
+ {
+  "id": "marvel",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "trầm trồ thán phục; kỳ quan, điều kỳ diệu",
+  "coll": [
+   "marvel at the view",
+   "a marvel of engineering",
+   "marvel at how",
+   "modern marvel"
+  ]
+ },
+ {
+  "id": "vocal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc giọng hát; lên tiếng mạnh mẽ; phần hát",
+  "coll": [
+   "vocal cords",
+   "a vocal critic",
+   "vocal opposition",
+   "vocal performance",
+   "lead vocals"
+  ]
+ },
+ {
+  "id": "tier",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tầng, bậc; hạng, cấp",
+  "coll": [
+   "top tier",
+   "second tier",
+   "a three-tier system",
+   "tier one",
+   "the bottom tier"
+  ]
+ },
+ {
+  "id": "infinite",
+  "pos": [
+   "adj",
+   "num",
+   "n"
+  ],
+  "vi": "vô hạn; vô tận; vô số",
+  "coll": [
+   "infinite number",
+   "infinite possibilities",
+   "infinite loop",
+   "infinite patience",
+   "infinite space"
+  ]
+ },
+ {
+  "id": "indigenous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bản địa; thuộc dân bản xứ",
+  "coll": [
+   "indigenous people",
+   "indigenous population",
+   "indigenous culture",
+   "indigenous species",
+   "indigenous rights"
+  ]
+ },
+ {
+  "id": "premiere",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "buổi công chiếu; ra mắt lần đầu",
+  "coll": [
+   "world premiere",
+   "film premiere",
+   "premiere night",
+   "the season premiere",
+   "premiere in cinemas"
+  ]
+ },
+ {
+  "id": "installation",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc lắp đặt; hệ thống lắp đặt; tác phẩm sắp đặt",
+  "coll": [
+   "installation process",
+   "software installation",
+   "art installation",
+   "installation costs",
+   "easy installation"
+  ]
+ },
+ {
+  "id": "liability",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghĩa vụ pháp lý; khoản nợ phải trả; gánh nặng",
+  "coll": [
+   "limited liability",
+   "liability insurance",
+   "accept liability",
+   "legal liability",
+   "assets and liabilities"
+  ]
+ },
+ {
+  "id": "vertical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thẳng đứng; dọc; đường thẳng đứng",
+  "coll": [
+   "vertical line",
+   "vertical axis",
+   "vertical integration",
+   "vertical drop",
+   "vertical position"
+  ]
+ },
+ {
+  "id": "lesbian",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "đồng tính nữ; người đồng tính nữ",
+  "coll": [
+   "lesbian couple",
+   "lesbian relationship",
+   "openly lesbian",
+   "lesbian community",
+   "gay and lesbian"
+  ]
+ },
+ {
+  "id": "protocol",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giao thức; quy trình chuẩn; nghi thức ngoại giao",
+  "coll": [
+   "follow the protocol",
+   "internet protocol",
+   "safety protocol",
+   "diplomatic protocol",
+   "standard protocol"
+  ]
+ },
+ {
+  "id": "violation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự vi phạm; hành vi xâm phạm",
+  "coll": [
+   "human rights violation",
+   "traffic violation",
+   "in violation of",
+   "serious violation",
+   "violation of the rules"
+  ]
+ },
+ {
+  "id": "podcast",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "podcast; chương trình âm thanh trên mạng",
+  "coll": [
+   "listen to a podcast",
+   "podcast episode",
+   "host a podcast",
+   "podcast series",
+   "true crime podcast"
+  ]
+ },
+ {
+  "id": "timeline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dòng thời gian; tiến độ; mốc thời gian",
+  "coll": [
+   "project timeline",
+   "historical timeline",
+   "tight timeline",
+   "timeline of events",
+   "on the timeline"
+  ]
+ },
+ {
+  "id": "portfolio",
+  "pos": [
+   "n"
+  ],
+  "vi": "hồ sơ năng lực; danh mục đầu tư; cặp đựng tài liệu",
+  "coll": [
+   "investment portfolio",
+   "portfolio of work",
+   "diversify a portfolio",
+   "build a portfolio",
+   "portfolio manager"
+  ]
+ },
+ {
+  "id": "trauma",
+  "pos": [
+   "n"
+  ],
+  "vi": "sang chấn tâm lý; chấn thương",
+  "coll": [
+   "childhood trauma",
+   "emotional trauma",
+   "head trauma",
+   "suffer trauma",
+   "trauma centre"
+  ]
+ },
+ {
+  "id": "self-conscious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ngượng ngùng, e dè; tự ý thức về bản thân",
+  "coll": [
+   "feel self-conscious",
+   "self-conscious about her weight",
+   "painfully self-conscious",
+   "a self-conscious smile"
+  ]
+ },
+ {
+  "id": "conviction",
+  "pos": [
+   "n"
+  ],
+  "vi": "niềm tin vững chắc; bản án kết tội; sự tin chắc",
+  "coll": [
+   "criminal conviction",
+   "a strong conviction",
+   "prior conviction",
+   "overturn a conviction",
+   "speak with conviction"
+  ]
+ },
+ {
+  "id": "duration",
+  "pos": [
+   "n"
+  ],
+  "vi": "thời lượng; khoảng thời gian kéo dài",
+  "coll": [
+   "for the duration of",
+   "duration of the course",
+   "short duration",
+   "long duration",
+   "average duration"
+  ]
+ },
+ {
+  "id": "immune",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "miễn dịch; miễn nhiễm; không bị ảnh hưởng",
+  "coll": [
+   "immune system",
+   "immune response",
+   "immune to criticism",
+   "immune from prosecution",
+   "immune cells"
+  ]
+ },
+ {
+  "id": "intensity",
+  "pos": [
+   "n"
+  ],
+  "vi": "cường độ; sự mãnh liệt",
+  "coll": [
+   "high intensity",
+   "light intensity",
+   "emotional intensity",
+   "intensity of the storm",
+   "increase in intensity"
+  ]
+ },
+ {
+  "id": "statistical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc thống kê; mang tính thống kê",
+  "coll": [
+   "statistical analysis",
+   "statistical data",
+   "statistical significance",
+   "statistical model",
+   "statistical evidence"
+  ]
+ },
+ {
+  "id": "judicial",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuộc tư pháp; ngành tư pháp",
+  "coll": [
+   "judicial system",
+   "judicial review",
+   "judicial branch",
+   "judicial process",
+   "judicial independence"
+  ]
+ },
+ {
+  "id": "inventory",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hàng tồn kho; bản kiểm kê; kiểm kê",
+  "coll": [
+   "take inventory",
+   "inventory management",
+   "inventory levels",
+   "physical inventory",
+   "inventory control"
+  ]
+ },
+ {
+  "id": "accordance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phù hợp; sự tuân theo",
+  "coll": [
+   "in accordance with",
+   "in accordance with the law",
+   "in accordance with regulations",
+   "in accordance with policy"
+  ]
+ },
+ {
+  "id": "valve",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "van; van tim",
+  "coll": [
+   "heart valve",
+   "safety valve",
+   "open the valve",
+   "shut-off valve",
+   "valve control"
+  ]
+ },
+ {
+  "id": "hip-hop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhạc hip-hop; văn hóa hip-hop",
+  "coll": [
+   "hip-hop music",
+   "hip-hop culture",
+   "hip-hop artist",
+   "old-school hip-hop",
+   "hip-hop scene"
+  ]
+ }
+]

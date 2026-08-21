@@ -1,0 +1,1202 @@
+[
+ {
+  "id": "animal",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "A multicellular organism of the kingdom Animalia that is usually mobile, with cells that are not encased in a rigid cell wall…",
+   "Any member of the kingdom Animalia other than a human.",
+   "A higher animal"
+  ]
+ },
+ {
+  "id": "apply",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To lay or place",
+   "To put to use",
+   "To make use of, declare, or pronounce, as suitable, fitting, or relevant."
+  ]
+ },
+ {
+  "id": "department store",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A large store containing many different departments, each of which deals in the sale of different goods or services."
+  ]
+ },
+ {
+  "id": "draw",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "Senses relating to exerting force or pulling.",
+   "Pull back your bowstring in preparation to shoot.",
+   "That which draws"
+  ],
+  "reg": [
+   "formal"
+  ]
+ },
+ {
+  "id": "enter",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To go or come into an enclosed or partially enclosed space.",
+   "To cause to go (into), or to be received (into)",
+   "To go or come into (a state or profession)."
+  ]
+ },
+ {
+  "id": "memory",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The ability of the brain to record information or impressions with the facility of recalling them later, usually at will.",
+   "A record of a thing or an event stored and available for later use by an organism.",
+   "The part of a computer that stores variable executable code or data (RAM) or unalterable executable code or default data (ROM)."
+  ]
+ },
+ {
+  "id": "ring",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A solid object in the shape of a circle.",
+   "To enclose or surround.",
+   "To make an incision around"
+  ]
+ },
+ {
+  "id": "silver",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Made from silver.",
+   "Made from another white metal.",
+   "Having a color like silver"
+  ]
+ },
+ {
+  "id": "spread",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To stretch out, open out (a material etc.) so that it more fully covers a given area of space.",
+   "To extend (individual rays, limbs etc.)",
+   "To disperse, to scatter or distribute over a given area."
+  ]
+ },
+ {
+  "id": "adult",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "An animal that is full-grown.",
+   "A person who has reached the legal age of majority.",
+   "Fully grown."
+  ]
+ },
+ {
+  "id": "apparently",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Seemingly",
+   "According to what the speaker has read or heard.",
+   "According to what one can deduce."
+  ]
+ },
+ {
+  "id": "chairman",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A person presiding over a meeting, sometimes especially a man. (Compare chairwoman, chairperson, chair.)",
+   "The head of a corporate or governmental board of directors, a committee, or other formal entity.",
+   "Someone whose job is to carry people in a portable chair, sedan chair, or similar conveyance."
+  ]
+ },
+ {
+  "id": "grade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A rating.",
+   "Performance on a test or other evaluation(s), expressed by a number, letter, or other symbol",
+   "A degree or level of something"
+  ]
+ },
+ {
+  "id": "healthy",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Enjoying good health",
+   "Conducive to health.",
+   "Evincing health."
+  ]
+ },
+ {
+  "id": "method",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A process by which a task is completed",
+   "Systematicity, methodicalness, intentionality, order.",
+   "A technique for acting based on the ideas articulated by Konstantin Stanislavski and focusing on authentically experiencing the inner…"
+  ]
+ },
+ {
+  "id": "monday",
+  "pos": [
+   "n",
+   "adv"
+  ],
+  "en": [
+   "The second day of the week in many religious traditions, and the first day of the week in systems using the ISO 8601 norm. It follows…",
+   "On Monday."
+  ]
+ },
+ {
+  "id": "somebody",
+  "pos": [
+   "pron",
+   "n"
+  ],
+  "en": [
+   "Some unspecified person.",
+   "Synonym of someone",
+   "Any person."
+  ]
+ },
+ {
+  "id": "stone",
+  "pos": [
+   "n",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "A hard earthen substance that can form rocks",
+   "A piece of such material",
+   "A gemstone, a jewel, especially a diamond."
+  ]
+ },
+ {
+  "id": "strength",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The quality or degree of being strong.",
+   "The intensity of a force or power",
+   "The strongest part of something"
+  ]
+ },
+ {
+  "id": "wild",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Untamed",
+   "From or relating to wild creatures.",
+   "Unrestrained or uninhibited."
+  ]
+ },
+ {
+  "id": "window",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An opening, usually covered by one or more panes of clear glass, to allow light and air from outside to enter a building or vehicle.",
+   "An opening, usually covered by glass, in a shop which allows people to view the shop and its products from outside",
+   "The shutter, casement, sash with its fittings, or other framework, which closes a window opening."
+  ]
+ },
+ {
+  "id": "winner",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who has won or often wins.",
+   "A point or goal that wins a competition."
+  ]
+ },
+ {
+  "id": "bag",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A soft container made out of cloth, paper, thin plastic, etc. and open at the top, used to hold food, commodities, and other goods.",
+   "A container made of leather, plastic, or other material, usually with a handle or handles, in which you carry personal items, or clothes…",
+   "One's preference."
+  ]
+ },
+ {
+  "id": "camp",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "An outdoor place acting as temporary accommodation in tents or other simple structures.",
+   "An organised event, often taking place in tents or temporary accommodation.",
+   "A base of a military group, not necessarily temporary."
+  ]
+ },
+ {
+  "id": "correct",
+  "pos": [
+   "adj",
+   "v",
+   "adv",
+   "intj",
+   "n"
+  ],
+  "en": [
+   "Free from error",
+   "With good manners",
+   "Correctly."
+  ]
+ },
+ {
+  "id": "dangerous",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Full of danger.",
+   "Causing danger",
+   "In a condition of danger, as from illness"
+  ]
+ },
+ {
+  "id": "extremely",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "To an extreme degree."
+  ]
+ },
+ {
+  "id": "handle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The part of an object which is (designed to be) held in the hand when used or moved.",
+   "An instrument for effecting a purpose (either literally or figuratively)",
+   "The gross amount of wagering within a given period of time or for a given event at one of more establishments."
+  ]
+ },
+ {
+  "id": "improve",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To make (something) better",
+   "To become better.",
+   "To use or employ to good purpose"
+  ]
+ },
+ {
+  "id": "indeed",
+  "pos": [
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "Synonym of actually or truly.",
+   "In fact.",
+   "Indicates agreement with another speaker's previous statement."
+  ]
+ },
+ {
+  "id": "negative",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "Not positive or neutral",
+   "Of a number",
+   "Of a test result"
+  ]
+ },
+ {
+  "id": "prevent",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To stop (an outcome)"
+  ]
+ },
+ {
+  "id": "television",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An electronic communication medium that allows the transmission of real-time visual images, and often sound.",
+   "An electronic home entertainment device equipped with a screen and a speaker for receiving television signals and displaying them in…",
+   "Collectively, the programs broadcast via the medium of television."
+  ]
+ },
+ {
+  "id": "till",
+  "pos": [
+   "conj",
+   "prep",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Until",
+   "Before (a certain time or event).",
+   "So that (something may happen)."
+  ]
+ },
+ {
+  "id": "trouble",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To mentally distress",
+   "In weaker sense",
+   "To physically afflict."
+  ]
+ },
+ {
+  "id": "advantage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any condition, circumstance, opportunity or means, particularly favorable or chance to success, or to any desired end.",
+   "Superiority of state, or that which gives it",
+   "The score where one player wins a point after deuce but needs the next to carry the game."
+  ]
+ },
+ {
+  "id": "apart",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "Placed separately (in regard to space or time).",
+   "Separately, exclusively, not together.",
+   "In or into two or more parts."
+  ]
+ },
+ {
+  "id": "cat",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Terms relating to animals.",
+   "Terms relating to people.",
+   "To hoist (an anchor) by its ring so that it hangs at the cathead."
+  ]
+ },
+ {
+  "id": "decide",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To resolve (a contest, problem, dispute, etc.)",
+   "To make a judgment, especially after deliberation.",
+   "To cause someone to come to a decision."
+  ]
+ },
+ {
+  "id": "dinner",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The main meal of the day, often eaten in the evening.",
+   "An evening meal.",
+   "A midday meal (in a context in which the evening meal is called supper or tea)."
+  ]
+ },
+ {
+  "id": "function",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "What something does or is used for.",
+   "A professional or official position.",
+   "An official or social occasion."
+  ]
+ },
+ {
+  "id": "gift",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Something given to another voluntarily, without charge.",
+   "A talent or natural ability.",
+   "Something gained incidentally, without effort."
+  ]
+ },
+ {
+  "id": "herself",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "Her",
+   "She",
+   "The subject or non-reflexive object of a predicate"
+  ]
+ },
+ {
+  "id": "impossible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Not possible",
+   "Very difficult to deal with.",
+   "imaginary"
+  ]
+ },
+ {
+  "id": "influence",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The power to affect, control or manipulate something or someone",
+   "An action exerted by a person or thing with such power on another to cause change.",
+   "A person or thing exerting such power or action."
+  ]
+ },
+ {
+  "id": "produce",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To bring forth, to yield, make, manufacture, or otherwise generate.",
+   "To make or yield something.",
+   "To make (a thing) available to a person, an authority, etc."
+  ]
+ },
+ {
+  "id": "shut",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "To close, in various senses.",
+   "Closed, not open, in any of various senses.",
+   "Synonym of close."
+  ]
+ },
+ {
+  "id": "wood",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "The substance making up the central part of the trunk and branches of a tree. Used as a material for construction, to manufacture…",
+   "The wood from a particular species of tree.",
+   "A forested or wooded area."
+  ]
+ },
+ {
+  "id": "background",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Less important or less noticeable in a scene or system.",
+   "One's social heritage, or previous life",
+   "A part of the picture that depicts scenery to the rear or behind the main subject"
+  ]
+ },
+ {
+  "id": "birth",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "The process of childbearing",
+   "An instance of childbirth.",
+   "A beginning or start"
+  ]
+ },
+ {
+  "id": "bridge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A construction or natural feature that spans a divide.",
+   "An arch or superstructure.",
+   "To be or make a bridge over something."
+  ]
+ },
+ {
+  "id": "copy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The result of copying",
+   "An imitation, sometimes of inferior quality.",
+   "The text (words, content) that is to be typeset or similarly prepared and published."
+  ]
+ },
+ {
+  "id": "dear",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "High in price",
+   "Loved",
+   "Lovely"
+  ]
+ },
+ {
+  "id": "garden",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "An outdoor area containing one or more types of plants, usually plants grown for food or ornamental purposes.",
+   "The grounds at the front or back of a house.",
+   "A road, street, or similar thoroughfare, which sometimes occupies a former garden."
+  ]
+ },
+ {
+  "id": "host",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "One which receives or entertains a guest, socially, commercially, or officially.",
+   "One that provides a facility for an event.",
+   "A person or organization responsible for running an event."
+  ]
+ },
+ {
+  "id": "labor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Alternative spelling of labour."
+  ]
+ },
+ {
+  "id": "lucky",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Favoured by luck",
+   "Producing, or resulting in, good fortune",
+   "seven"
+  ]
+ },
+ {
+  "id": "patient",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Willing to wait if necessary",
+   "Constant in pursuit or exertion",
+   "A person or animal that receives health care from a doctor, nurse, dentist, allied health practitioner, or other person educated in…"
+  ]
+ },
+ {
+  "id": "possibly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Perhaps",
+   "In the realm of possibility"
+  ]
+ },
+ {
+  "id": "software",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Encoded computer instructions, usually modifiable (unless stored in some form of unalterable memory such as ROM).",
+   "The human beings involved in warfare, as opposed to hardware such as weapons and vehicles.",
+   "Recorded music content, as opposed to the hardware necessary for reproducing it."
+  ]
+ },
+ {
+  "id": "alive",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Having life",
+   "In a state of action",
+   "Busy with activity of many living beings"
+  ]
+ },
+ {
+  "id": "apple",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A common, firm, round fruit produced by a tree of the genus Malus.",
+   "To make (something) appear like an apple (noun sense 1.1).",
+   "To become like an apple."
+  ]
+ },
+ {
+  "id": "birthday",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The anniversary of the day on which someone is born.",
+   "The anniversary of the day on which something is created.",
+   "The date on which someone is born or something is created, more commonly called birthdate or date of birth."
+  ]
+ },
+ {
+  "id": "boss",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "One who is in charge or something.",
+   "To exercise authoritative control over",
+   "Of excellent quality, first-rate."
+  ]
+ },
+ {
+  "id": "dress",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To put clothes (or, formerly, armour) on (oneself or someone, a doll, a mannequin, etc.)",
+   "To design, make, provide, or select clothes (for someone).",
+   "To arrange or style (someone's hair)."
+  ]
+ },
+ {
+  "id": "horse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A hoofed mammal, Equus ferus caballus, often used throughout history for riding and draft work.",
+   "Synonym of horse around.",
+   "To play mischievous pranks on."
+  ]
+ },
+ {
+  "id": "magic",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "The application of rituals or actions, especially those based on occult knowledge, to subdue or manipulate natural or supernatural…",
+   "Something producing successful and remarkable results, especially when not fully understood",
+   "Having supernatural talents, properties or qualities attributed to magic."
+  ]
+ },
+ {
+  "id": "map",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A visual representation of an area, whether real or imaginary, showing the relative positions of places and other features.",
+   "A graphical or logical representation of any structure or system, showing the positions of or relationships between its components.",
+   "A function, especially a function satisfying a certain property (e.g. continuity, linearity, etc."
+  ]
+ },
+ {
+  "id": "net",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "A mesh of string, cord or rope.",
+   "A device made from such mesh, used for catching fish, butterflies, etc.",
+   "A device made from such mesh, generally used for trapping something."
+  ]
+ },
+ {
+  "id": "request",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To ask for (something).",
+   "To ask (somebody) to do something.",
+   "Act of requesting (with the adposition at in the presence of possessives, and on in their absence)."
+  ]
+ },
+ {
+  "id": "wake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "(often followed by up) To stop sleeping.",
+   "(often followed by up) To make somebody stop sleeping",
+   "To put in motion or action"
+  ]
+ },
+ {
+  "id": "beauty",
+  "pos": [
+   "n",
+   "intj",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "The quality of being (especially visually) attractive, pleasing, fine or good-looking",
+   "Someone who is beautiful.",
+   "Those aspects or elements that make someone or something beautiful."
+  ]
+ },
+ {
+  "id": "bus stop",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A place where public transport buses stop to allow passengers to board or leave.",
+   "The tableau used in short division, taught as if it were a bus stop with the digits treated as people queueing.",
+   "\"⟌\""
+  ]
+ },
+ {
+  "id": "busy",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Crowded with business or activities",
+   "Engaged with or preoccupied by an activity or person.",
+   "Having much work to do"
+  ]
+ },
+ {
+  "id": "conversation",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Expression and exchange of individual ideas through talking with other people",
+   "The back-and-forth play of the blades in a bout.",
+   "The protocol-based interaction between systems processing a transaction."
+  ]
+ },
+ {
+  "id": "corner",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "The point where two converging lines meet",
+   "To drive (someone or something) into a corner or other confined space.",
+   "To trap in a position of great difficulty or hopeless embarrassment."
+  ]
+ },
+ {
+  "id": "develop",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To change with a specific direction, progress.",
+   "To progress through a sequence of stages.",
+   "To advance"
+  ]
+ },
+ {
+  "id": "driver",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who drives something.",
+   "Something that drives something else."
+  ]
+ },
+ {
+  "id": "farm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A place where agricultural and similar activities take place, especially the growing of crops or the raising of livestock.",
+   "A tract of land held on lease for the purpose of cultivation.",
+   "A location used for an industrial purpose, having many similar structures."
+  ]
+ },
+ {
+  "id": "file",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A collection of papers collated and archived together.",
+   "A roll or list.",
+   "A course of thought"
+  ]
+ },
+ {
+  "id": "fix",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To attach",
+   "To mend, to repair.",
+   "A repair or corrective action."
+  ]
+ },
+ {
+  "id": "fly",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Any insect of the order Diptera",
+   "Especially, any of the insects of the family Muscidae, such as the common housefly (other families of Diptera include mosquitoes and…",
+   "Those or any similar but not closely related insect, such as a dragonfly, butterfly, or gallfly."
+  ]
+ },
+ {
+  "id": "frank",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Free postage, a right exercised by governments (usually with definite article).",
+   "The notice on an envelope where a stamp would normally be found.",
+   "To place a frank on an envelope."
+  ]
+ },
+ {
+  "id": "raise",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To cause to rise",
+   "A shot in which the delivered stone bumps another stone forward.",
+   "A bet that increases the previous bet."
+  ]
+ },
+ {
+  "id": "roll",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To revolve by turning over and over",
+   "To wrap (something) round on itself",
+   "To bind or involve by winding, as with a bandage"
+  ]
+ },
+ {
+  "id": "sitting room",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A room in a house where people (residents or guests) pass the time in leisure."
+  ]
+ },
+ {
+  "id": "sports center",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A building or building complex housing in which a variety of sports can be played."
+  ]
+ },
+ {
+  "id": "suggest",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To imply but stop short of explicitly stating (something).",
+   "To cause one to suppose (something)",
+   "To explicitly mention (something) as a possibility for consideration, often to recommend it."
+  ]
+ },
+ {
+  "id": "surprise",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "Something unexpected.",
+   "The feeling that something unexpected has happened.",
+   "To cause (someone) to feel unusually alarmed or delighted by something unexpected."
+  ]
+ },
+ {
+  "id": "yours",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "That or those belonging to you",
+   "Your house or home.",
+   "Written at the end of a letter, before the signature."
+  ]
+ },
+ {
+  "id": "youth",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The quality or state of being young.",
+   "The part of life following childhood",
+   "A young person."
+  ]
+ },
+ {
+  "id": "appreciate",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To be grateful or thankful for.",
+   "To view as valuable.",
+   "To be fully conscious of"
+  ]
+ },
+ {
+  "id": "dry",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Free from or lacking moisture.",
+   "Unable to produce a liquid, as water, (petrochemistry) oil, or (agriculture) milk.",
+   "Built without or lacking mortar."
+  ]
+ },
+ {
+  "id": "excited",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Having great enthusiasm, passion and energy.",
+   "Being in a state of higher energy.",
+   "Having an erection"
+  ]
+ },
+ {
+  "id": "forever",
+  "pos": [
+   "adv",
+   "n",
+   "adj"
+  ],
+  "en": [
+   "For all time, for all eternity",
+   "For a very long time, a seeming eternity.",
+   "Constantly or frequently."
+  ]
+ },
+ {
+  "id": "lovely",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "en": [
+   "Delightful for beauty, harmony, or grace.",
+   "Nice",
+   "An attractive, lovely person, especially a (professional) beauty."
+  ]
+ },
+ {
+  "id": "mad",
+  "pos": [
+   "adj",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "Insane",
+   "Angry, annoyed.",
+   "Used litotically to indicate satisfaction or approval."
+  ]
+ },
+ {
+  "id": "magazine",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A nonacademic, periodical publication which consists of articles by multiple writers on some broad topic or theme.",
+   "An ammunition storehouse.",
+   "A chamber in or attachable to a firearm enabling multiple rounds of ammunition to be fed into the firearm."
+  ]
+ },
+ {
+  "id": "somewhere",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "en": [
+   "In an uncertain or unspecified location.",
+   "To an uncertain or unspecified location.",
+   "At some unspecified point."
+  ]
+ },
+ {
+  "id": "strategy",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The science and art of military command as applied to the overall planning and conduct of warfare.",
+   "A plan of action intended to accomplish a specific goal.",
+   "The act of strategizing"
+  ]
+ }
+]

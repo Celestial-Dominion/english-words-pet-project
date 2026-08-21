@@ -1,0 +1,899 @@
+[
+ {
+  "id": "guide",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hướng dẫn viên; sách hướng dẫn; dẫn đường",
+  "coll": [
+   "a tour guide",
+   "a guide book",
+   "a guide dog",
+   "guide someone through",
+   "a study guide"
+  ]
+ },
+ {
+  "id": "investigation",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuộc điều tra; sự nghiên cứu",
+  "coll": [
+   "a criminal investigation",
+   "launch an investigation",
+   "under investigation",
+   "a thorough investigation",
+   "police investigation"
+  ]
+ },
+ {
+  "id": "responsibility",
+  "pos": [
+   "n"
+  ],
+  "vi": "trách nhiệm; nhiệm vụ; bổn phận",
+  "coll": [
+   "take responsibility",
+   "a sense of responsibility",
+   "personal responsibility",
+   "claim responsibility",
+   "shared responsibility"
+  ]
+ },
+ {
+  "id": "slightly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hơi, một chút; khẽ",
+  "coll": [
+   "slightly different",
+   "slightly better",
+   "slightly more",
+   "slightly higher",
+   "slightly nervous"
+  ]
+ },
+ {
+  "id": "treat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đối xử; điều trị; chiêu đãi; món khoái khẩu",
+  "coll": [
+   "treat someone well",
+   "treat a disease",
+   "treat yourself",
+   "a special treat",
+   "treat with respect"
+  ]
+ },
+ {
+  "id": "unique",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "độc nhất, duy nhất; độc đáo; riêng có",
+  "coll": [
+   "a unique opportunity",
+   "unique to",
+   "truly unique",
+   "unique features",
+   "a unique identifier"
+  ]
+ },
+ {
+  "id": "variety",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đa dạng; nhiều loại; giống, chủng loại",
+  "coll": [
+   "a wide variety of",
+   "a variety of options",
+   "add variety",
+   "a variety show",
+   "a new variety"
+  ]
+ },
+ {
+  "id": "violence",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bạo lực; sự hung bạo",
+  "coll": [
+   "domestic violence",
+   "an outbreak of violence",
+   "acts of violence",
+   "gun violence",
+   "resort to violence"
+  ]
+ },
+ {
+  "id": "edge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cạnh, rìa; mép; lợi thế",
+  "coll": [
+   "the edge of the table",
+   "on the edge",
+   "cutting edge",
+   "a competitive edge",
+   "the edge of the cliff"
+  ]
+ },
+ {
+  "id": "injury",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chấn thương; vết thương; tổn hại",
+  "coll": [
+   "a serious injury",
+   "a head injury",
+   "sustain an injury",
+   "injury time",
+   "personal injury"
+  ]
+ },
+ {
+  "id": "iron",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sắt; bàn là; là, ủi",
+  "coll": [
+   "cast iron",
+   "iron ore",
+   "iron a shirt",
+   "an iron will",
+   "wrought iron"
+  ]
+ },
+ {
+  "id": "prepared",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "sẵn sàng; đã chuẩn bị; được pha chế sẵn",
+  "coll": [
+   "be prepared for",
+   "well prepared",
+   "prepared to accept",
+   "a prepared statement",
+   "prepared food"
+  ]
+ },
+ {
+  "id": "religion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tôn giáo; đạo; tín ngưỡng",
+  "coll": [
+   "freedom of religion",
+   "practise a religion",
+   "organized religion",
+   "religion and politics",
+   "convert to a religion"
+  ]
+ },
+ {
+  "id": "blog",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhật ký mạng (blog); bài blog; viết blog",
+  "coll": [
+   "write a blog",
+   "a blog post",
+   "a personal blog",
+   "read a blog",
+   "start a blog"
+  ]
+ },
+ {
+  "id": "democratic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "dân chủ; thuộc đảng Dân chủ",
+  "coll": [
+   "a democratic society",
+   "democratic elections",
+   "the democratic process",
+   "democratic values",
+   "a democratic government"
+  ]
+ },
+ {
+  "id": "ground floor",
+  "pos": [
+   "n"
+  ],
+  "vi": "tầng trệt; tầng một",
+  "coll": [
+   "on the ground floor",
+   "a ground floor apartment",
+   "get in on the ground floor",
+   "a ground floor flat"
+  ]
+ },
+ {
+  "id": "honest",
+  "pos": [
+   "adj",
+   "v",
+   "adv"
+  ],
+  "vi": "trung thực; thật thà; chân thành",
+  "coll": [
+   "an honest man",
+   "to be honest",
+   "an honest opinion",
+   "an honest mistake",
+   "an honest answer"
+  ]
+ },
+ {
+  "id": "nuclear",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hạt nhân; nguyên tử",
+  "coll": [
+   "nuclear weapons",
+   "nuclear power",
+   "nuclear energy",
+   "a nuclear reactor",
+   "a nuclear family"
+  ]
+ },
+ {
+  "id": "port",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "cảng, hải cảng; cổng (máy tính); rượu poóc-tô",
+  "coll": [
+   "a busy port",
+   "a port of entry",
+   "a USB port",
+   "port authority",
+   "come into port"
+  ]
+ },
+ {
+  "id": "presence",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự có mặt; sự hiện diện; phong thái",
+  "coll": [
+   "in the presence of",
+   "a strong presence",
+   "a military presence",
+   "an online presence",
+   "stage presence"
+  ]
+ },
+ {
+  "id": "reduce",
+  "pos": [
+   "v"
+  ],
+  "vi": "giảm; làm giảm; cắt giảm",
+  "coll": [
+   "reduce costs",
+   "reduce the risk",
+   "reduce waste",
+   "greatly reduce",
+   "reduce to a minimum"
+  ]
+ },
+ {
+  "id": "solid",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "rắn, đặc; vững chắc; chất rắn",
+  "coll": [
+   "solid ground",
+   "solid evidence",
+   "solid gold",
+   "frozen solid",
+   "solid food"
+  ]
+ },
+ {
+  "id": "stress",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự căng thẳng; áp lực; nhấn mạnh",
+  "coll": [
+   "under stress",
+   "stress levels",
+   "cope with stress",
+   "stress the importance",
+   "work-related stress"
+  ]
+ },
+ {
+  "id": "taste",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "vị, mùi vị; nếm; gu thẩm mỹ",
+  "coll": [
+   "a bitter taste",
+   "taste good",
+   "have a taste",
+   "good taste",
+   "an acquired taste"
+  ]
+ },
+ {
+  "id": "victory",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "vi": "chiến thắng; thắng lợi",
+  "coll": [
+   "win a victory",
+   "a narrow victory",
+   "claim victory",
+   "a landslide victory",
+   "victory over"
+  ]
+ },
+ {
+  "id": "entirely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hoàn toàn; toàn bộ",
+  "coll": [
+   "entirely different",
+   "not entirely",
+   "entirely new",
+   "entirely true",
+   "entirely up to you"
+  ]
+ },
+ {
+  "id": "failure",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thất bại; hỏng hóc; việc không làm được",
+  "coll": [
+   "heart failure",
+   "a complete failure",
+   "failure to comply",
+   "engine failure",
+   "failure rate"
+  ]
+ },
+ {
+  "id": "fuel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhiên liệu; tiếp nhiên liệu; thổi bùng",
+  "coll": [
+   "fossil fuel",
+   "fuel consumption",
+   "fuel prices",
+   "run out of fuel",
+   "fuel efficiency"
+  ]
+ },
+ {
+  "id": "initial",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "ban đầu; đầu tiên; chữ cái đầu",
+  "coll": [
+   "the initial stage",
+   "an initial reaction",
+   "the initial cost",
+   "an initial response",
+   "sign your initials"
+  ]
+ },
+ {
+  "id": "massive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khổng lồ; to lớn; đồ sộ",
+  "coll": [
+   "a massive increase",
+   "massive damage",
+   "a massive success",
+   "on a massive scale",
+   "massive amounts"
+  ]
+ },
+ {
+  "id": "regional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc khu vực; vùng, miền",
+  "coll": [
+   "regional differences",
+   "regional government",
+   "a regional office",
+   "a regional accent",
+   "regional development"
+  ]
+ },
+ {
+  "id": "session",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "buổi, phiên; kỳ họp; phiên làm việc",
+  "coll": [
+   "a training session",
+   "a practice session",
+   "in session",
+   "a photo session",
+   "a parliamentary session"
+  ]
+ },
+ {
+  "id": "teaching",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc dạy học; nghề dạy; giáo lý",
+  "coll": [
+   "teaching methods",
+   "teaching experience",
+   "language teaching",
+   "a teaching assistant",
+   "the teachings of Buddha"
+  ]
+ },
+ {
+  "id": "transfer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuyển; chuyển giao; sự chuyển nhượng",
+  "coll": [
+   "transfer money",
+   "a bank transfer",
+   "the transfer of power",
+   "transfer to another school",
+   "a transfer fee"
+  ]
+ },
+ {
+  "id": "upper",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phía trên; ở trên; cao hơn",
+  "coll": [
+   "the upper body",
+   "the upper class",
+   "the upper lip",
+   "the upper hand",
+   "an upper limit"
+  ]
+ },
+ {
+  "id": "alternative",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phương án thay thế; thay thế; khác biệt",
+  "coll": [
+   "an alternative to",
+   "no alternative",
+   "alternative energy",
+   "alternative medicine",
+   "a viable alternative"
+  ]
+ },
+ {
+  "id": "capacity",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sức chứa; năng lực; công suất",
+  "coll": [
+   "seating capacity",
+   "at full capacity",
+   "production capacity",
+   "the capacity to learn",
+   "in his capacity as"
+  ]
+ },
+ {
+  "id": "climate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khí hậu; bầu không khí chung",
+  "coll": [
+   "climate change",
+   "a mild climate",
+   "the economic climate",
+   "a tropical climate",
+   "the political climate"
+  ]
+ },
+ {
+  "id": "duty",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhiệm vụ; bổn phận; thuế",
+  "coll": [
+   "on duty",
+   "a sense of duty",
+   "duty free",
+   "civic duty",
+   "off duty"
+  ]
+ },
+ {
+  "id": "governor",
+  "pos": [
+   "n"
+  ],
+  "vi": "thống đốc; tỉnh trưởng; ủy viên hội đồng",
+  "coll": [
+   "a state governor",
+   "the governor of California",
+   "deputy governor",
+   "the governor's office",
+   "an elected governor"
+  ]
+ },
+ {
+  "id": "industrial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc công nghiệp; về công nghiệp",
+  "coll": [
+   "the industrial revolution",
+   "industrial waste",
+   "an industrial park",
+   "industrial production",
+   "industrial action"
+  ]
+ },
+ {
+  "id": "joint",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chung, liên kết; khớp xương; mối nối",
+  "coll": [
+   "a joint venture",
+   "a joint effort",
+   "the knee joint",
+   "a joint account",
+   "a joint decision"
+  ]
+ },
+ {
+  "id": "remove",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "loại bỏ; gỡ bỏ; dời đi",
+  "coll": [
+   "remove a stain",
+   "remove from office",
+   "remove obstacles",
+   "remove the lid",
+   "safely remove"
+  ]
+ },
+ {
+  "id": "steel",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "thép; bằng thép",
+  "coll": [
+   "stainless steel",
+   "the steel industry",
+   "steel beams",
+   "a steel mill",
+   "nerves of steel"
+  ]
+ },
+ {
+  "id": "turning",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chỗ rẽ; sự quay; khúc quanh",
+  "coll": [
+   "a turning point",
+   "take the first turning",
+   "turning left",
+   "a turning circle",
+   "a sharp turning"
+  ]
+ },
+ {
+  "id": "vice",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "prep"
+  ],
+  "vi": "thói xấu; tệ nạn; phó (chức vụ)",
+  "coll": [
+   "the vice president",
+   "vices and virtues",
+   "the vice squad",
+   "a vice chairman",
+   "smoking is his vice"
+  ]
+ },
+ {
+  "id": "border",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "biên giới; đường viền; giáp ranh",
+  "coll": [
+   "cross the border",
+   "border control",
+   "a national border",
+   "a border crossing",
+   "border on"
+  ]
+ },
+ {
+  "id": "command",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mệnh lệnh; ra lệnh; quyền chỉ huy",
+  "coll": [
+   "give a command",
+   "in command",
+   "command respect",
+   "the chain of command",
+   "the command line"
+  ]
+ },
+ {
+  "id": "dating",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc hẹn hò; sự xác định niên đại",
+  "coll": [
+   "online dating",
+   "a dating app",
+   "a dating site",
+   "speed dating",
+   "carbon dating"
+  ]
+ },
+ {
+  "id": "enemy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ thù; quân địch; đối thủ",
+  "coll": [
+   "a sworn enemy",
+   "behind enemy lines",
+   "make enemies",
+   "the enemy forces",
+   "public enemy"
+  ]
+ },
+ {
+  "id": "ensure",
+  "pos": [
+   "v"
+  ],
+  "vi": "đảm bảo; bảo đảm chắc chắn",
+  "coll": [
+   "ensure safety",
+   "ensure success",
+   "ensure that",
+   "help ensure",
+   "ensure compliance"
+  ]
+ },
+ {
+  "id": "environmental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc môi trường; về môi trường",
+  "coll": [
+   "environmental protection",
+   "environmental impact",
+   "environmental issues",
+   "environmental damage",
+   "environmental policy"
+  ]
+ },
+ {
+  "id": "limit",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "giới hạn; mức tối đa; hạn chế",
+  "coll": [
+   "a speed limit",
+   "a time limit",
+   "set a limit",
+   "within limits",
+   "an age limit"
+  ]
+ },
+ {
+  "id": "ocean",
+  "pos": [
+   "n"
+  ],
+  "vi": "đại dương; biển cả",
+  "coll": [
+   "the Pacific Ocean",
+   "the ocean floor",
+   "across the ocean",
+   "ocean currents",
+   "ocean waves"
+  ]
+ },
+ {
+  "id": "proof",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "bằng chứng; chứng cứ; bản in thử",
+  "coll": [
+   "proof of identity",
+   "the burden of proof",
+   "living proof",
+   "proof of purchase",
+   "proof of payment"
+  ]
+ },
+ {
+  "id": "debt",
+  "pos": [
+   "n"
+  ],
+  "vi": "nợ; khoản nợ; món nợ ân tình",
+  "coll": [
+   "pay off a debt",
+   "in debt",
+   "national debt",
+   "a debt collector",
+   "get into debt"
+  ]
+ },
+ {
+  "id": "historical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc lịch sử; có thật trong lịch sử",
+  "coll": [
+   "historical evidence",
+   "a historical figure",
+   "historical context",
+   "historical records",
+   "a historical novel"
+  ]
+ },
+ {
+  "id": "honestly",
+  "pos": [
+   "adv",
+   "intj"
+  ],
+  "vi": "thành thật; thật lòng; nói thật thì",
+  "coll": [
+   "honestly speaking",
+   "quite honestly",
+   "answer honestly",
+   "honestly believe",
+   "I honestly don't know"
+  ]
+ },
+ {
+  "id": "launch",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phóng; ra mắt; khởi động; hạ thủy",
+  "coll": [
+   "launch a rocket",
+   "launch a new product",
+   "launch a campaign",
+   "launch an attack"
+  ]
+ },
+ {
+  "id": "minimum",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tối thiểu; mức tối thiểu",
+  "coll": [
+   "minimum wage",
+   "minimum requirement",
+   "a minimum of two hours",
+   "keep to a minimum"
+  ]
+ }
+]

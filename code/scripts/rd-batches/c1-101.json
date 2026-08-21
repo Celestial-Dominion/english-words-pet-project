@@ -1,0 +1,166 @@
+[
+ {
+  "id": "wiki-nested-paging",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Nested_Paging",
+  "title_en": "Nested Paging",
+  "sentences": [
+   "In computing, paging is the idea, to have a table that maps virtual addresses of small pieces of memory (called pages) to real adresses of pages.",
+   "Some of the addresses point to locations in memory, other point to locations on disk.",
+   "The page is loaded into memory, when it is accessed.",
+   "Operating systems have done this for a long time.",
+   "Nowadays, computers are also used for virtualization, that a guest operating system is run on another operating system.",
+   "Such virtualized operating systems are not aware that they run in a virtual environment.",
+   "Software on the host operating system needs to simulate most of the hardware.",
+   "Nested Paging, or Second Level Address Translation is the name for a number of technologies that allow the processor to do some of the management of these virtual page tables in hardware.",
+   "AMD first introduced nested paging.",
+   "Intel later supported it as well.",
+   "Some of their processors support the technology."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-clinux",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/%CE%9CCLinux",
+  "title_en": "ΜCLinux",
+  "sentences": [
+   "µCLinux IPA: ['mu.'si.'lınʊks] is an operating system for small computers inside integrated circuits (chips).",
+   "The system is based on the Linux operating system in many ways.",
+   "Apart from the rather big size of Linux, µCLinux is much smaller and not as packed with features as Linux.",
+   "It finds uses in many places, mostly dealing with sensor and data-gathering of different sorts.",
+   "Thanks to its compact nature, it can easily be transferred over slow connections.",
+   "Yet it is a stable and robust system distributed as an open source program."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-swedish-parliament-passes-electronic-sur",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Swedish_Parliament_passes_electronic_surveillance_law",
+  "title_en": "Swedish Parliament passes electronic surveillance law",
+  "sentences": [
+   "Thursday, June 19, 2008 On June 18, 2008 the Parliament of Sweden approved a bill that permits the interception and recording of data traveling through and within Sweden's borders beginning on the first day of 2009.",
+   "The proposition was passed in a 143 to 138 vote, with one abstention.",
+   "It was passed with an addendum to be reviewed this fall.",
+   "The amendment will further stipulate the rights of the Swedish people under the new law.",
+   "The stated intent of the monitoring is to protect against foreign threats, cyber warfare, and the like.",
+   "The hundreds who rallied to protest the privacy infringement seemed to have their own ideas.",
+   "The Swedish National Defence Radio Establishment, the national signals intelligence agency, will now have expanded access to electronic communications including phone calls, e-mails, text messages and internet usage."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-plan-9-from-bell-labs",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Plan_9_from_Bell_Labs",
+  "title_en": "Plan 9 from Bell Labs",
+  "sentences": [
+   "Plan 9 from Bell Labs is a free software distributed operating system.",
+   "It was made for research purposes as the successor to UNIX by the Computing Sciences Research Center at Bell Labs during the late 1980s.",
+   "Plan 9 is currently used as a hobbyist's operating system, and in certain experimental fields, where the highly distributed nature of the operating system is valued.",
+   "Plan 9 has novel features such as the 9P protocol for accessing local and remote resources as files, union mounts, an improved proc file system, and native unicode support throughout the system.",
+   "In Plan 9, all system interfaces, including those required for networking and the user interface, are represented through the file system rather than specialized interfaces.",
+   "It also has a graphical user interface built in, called rio, in anticipation of the graphical world.",
+   "The name Plan 9 from Bell Labs is a reference to the Ed Wood 1959 cult science fiction movie Plan 9 from Outer Space.",
+   "Also, Glenda, the Plan 9 Bunny, is presumably a reference to Wood's film Glen or Glenda."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-two-azerbaijani-bloggers-jailed",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Two_Azerbaijani_bloggers_jailed",
+  "title_en": "Two Azerbaijani bloggers jailed",
+  "sentences": [
+   "Saturday, November 14, 2009 Two Azerbaijani bloggers were sentenced to prison on Wednesday for \"hooliganism\", after posting a satirical video on allegations that the Government paid for twelve US$41 thousand (€27.5 thousand) donkeys from Germany.",
+   "In a ruling on Wednesday, blogger Adnan Hajizade received a sentence of two years and Emin Milli two and a half years.",
+   "Both have been in prison since their arrest on July 8 for fighting in a cafe in Baku.",
+   "The video, posted on YouTube in July, depicts a donkey giving a news conference in the ex-Soviet Republic.",
+   "The government claims that the two incidents are unrelated.",
+   "However, the Organisation for Security and Cooperation in Europe (OSCE) have condemned the decision.",
+   "Human Rights Watch have called the sentences \"a step backward for free expression in Azerbaijan\" and want the Azerbaijani government to ensure that the bloggers' appeal considers if the charges were trumped up.",
+   "\"There is a longstanding pattern of Azerbaijani officials filing trumped-up charges against journalists to punish them for critical or satirical comment,\" said Giorgi Gogia, Human Rights Watch's South Caucasus researcher.",
+   "\"The case against Milli and Hajizade falls squarely in that pattern.\" Onnik Krikorian, himself a blogger, also says the government often uses similar tactics to silence critics, although usually journalists.",
+   "\"Lots of countries in this region, including Armenia, continue to use Soviet-era practices and regulations to silence dissent.",
+   "This 'hooliganism' charge is normally used to jail journalists.",
+   "The only difference here, is that it happened to two young activists because of something posted on YouTube.\" he commented.",
+   "\"Online media is becoming increasingly widespread in Azerbaijan, and the OL! youth movement used social and new media very efficiently and extensively.",
+   "I think this case against Hajizade and Milli was pretty much a warning against youth activists from speaking out.",
+   "I think that when you have oil, pressure [from the OSCE and the public] really doesn't have much effect.\" he added.",
+   "The two bloggers intend to appeal."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-media-round-up-april-fools-day-2008",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Media_round-up%3A_April_Fools'_Day_2008",
+  "title_en": "Media round-up: April Fools' Day 2008",
+  "sentences": [
+   "Tuesday, April 1, 2008 Many media outlets traditionally deliberately spread hoaxes on April Fools' Day, including notable quality sources such as National Geographic and Science.",
+   "The popular British tabloid The Sun wrote that French President Nicolas Sarkozy is to undergo stretch surgery to make him taller than his wife, Italian artist and model Carla Bruni.",
+   "The report claimed the 5 foot 5 inch leader would be made 5 inches taller in one year using a method by Israeli professor Ura Schmuck.",
+   "The Sun noted that during his visit to Britain last week, Sarkozy had high-heel shoes while his wife wore a pair of flat pumps.",
+   "The Guardian on the other hand ran an article that suggested that Carla would head an initiative by Prime Minister Gordon Brown to bring more glamour, good taste and sophistication to the U.K. general population.",
+   "This would involve collaboration with Marks & Spencer for high-street fashion and Jamie Oliver for meals and wine.",
+   "BBC News had real-looking footage of flying penguins fronted by documentary host Terry Jones, which were actually an advertisement for its new iPlayer."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-two-arrests-made-in-zotob-worm-attack",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Two_arrests_made_in_Zotob_worm_attack",
+  "title_en": "Two arrests made in Zotob worm attack",
+  "sentences": [
+   "Saturday, August 27, 2005 Turkish and Moroccan authorities arrested two suspects who are believed to be the creators of the Zotob worm that took down CNN’s computer network and crippled other computers in the U.S. and worldwide earlier this month.",
+   "The FBI traced an electronic trail that led to two men from the Middle East and North Africa.",
+   "An 18-year old Moroccan, Farid Essebar, is believed to have written the worm in return for a payment from a 21-year old Turk Atilla Ekici.",
+   "Both were arrested Friday and await prosecution in their respective countries.",
+   "It appears that Essebar and Ekici never met personally, and conducted the entire cyber crime through contact with each other over the internet.",
+   "The online monikers for the two is believed to be \"Diabl0\" for Essebar and “Coder” for Ekici.",
+   "The speedy pace at which investigators made arrests is credited from working closely with the Microsoft Corp., and Moroccan and Turkish authorities, said the FBI assistant director Louis Reigel.",
+   "\"Had we not had those entities involved in this investigation, I suspect it would still be ongoing today.\" Microsoft investigators began in March to analyze an e-mail variant called Mytob, which emerged in late February.",
+   "The two suspects are believed to have authored the predecessor to Mytob, known then as 'Rbot'.",
+   "These worms could plant in infected computers a backdoor that could be used to gain remote access to the computer and their networks at a later date.",
+   "The release of the Zytob worm yielded more evidence of the perpetrators’ identities.",
+   "The motive for the attacks appears to be financial gain and not terrorist related.",
+   "The two men allegedly forwarded stolen financial information to a credit-card fraud ring, according to the Moroccan government.",
+   "The 5-year-old Windows 2000 operating system is most vulnerable to attack.",
+   "The worm uses a flaw in the Windows Plug and Play service; a flaw for which Microsoft has issued a patch.",
+   "But an August 23 Microsoft advisory notes that some non-default configurations of Windows XP Service Pack 1 systems could also be at risk."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-obama-s-transition-website-frees-the-con",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Obama's_transition_website_'frees_the_content'",
+  "title_en": "Obama's transition website 'frees the content'",
+  "sentences": [
+   "Tuesday, December 2, 2008 In a move to open up government and embrace modern thinking on copyright, U.S.",
+   "President-Elect Barack Obama's transition team website, Change.gov, has adopted the Creative Commons licenses for all content and user contributions.",
+   "This will allow anyone to take material from the site and reuse it, without any concern that they may be violating copyright.",
+   "\"This is great news and an encouraging sign that the new administration has a clear sense of the importance of openness in government and on the web.",
+   "The embrace of Creative Commons licensing on Change.gov is consistent with earlier support by both Obama and John McCain for the idea of 'open debates',\" said Creative Commons in a statement posted on their website.",
+   "Those making reuse of the site's content are only obliged to attribute it, per the terms of the Creative Commons Attribution 3.0 Unported licence.",
+   "The 'right to remix' the new license extends is not restricted to text; videos are included and the site now provides links to download copies of clips for this purpose.",
+   "In addition to the new license, Change.gov has introduced open forums for the discussion of items that concern the electorate.",
+   "According to Computerworld, unlike the blogs used by some government departments, posts appear unfiltered and a scoring and ranking system is employed.",
+   "One of the high-traffic early discussion threads is soliciting public input on healthcare worries.",
+   "Official works of federal government employees are all in the public domain.",
+   "Despite the \".gov\" web address, the site is run by the \"Obama-Biden Transition Project\" charity.",
+   "Creative Commons licenses are encouraged on popular photo sharing website Flickr, and are the only applicable licenses on Wikinews."
+  ],
+  "topic": "it"
+ }
+]

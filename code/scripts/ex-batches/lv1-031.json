@@ -1,0 +1,821 @@
+[
+ {
+  "id": "aloud",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "thành tiếng; to lên (đọc, nói)",
+  "coll": [
+   "read aloud",
+   "think aloud",
+   "say it aloud",
+   "laugh aloud"
+  ]
+ },
+ {
+  "id": "boast",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khoe khoang; tự hào sở hữu; lời khoe khoang",
+  "coll": [
+   "boast about his success",
+   "boast of victory",
+   "the hotel boasts a pool",
+   "an empty boast"
+  ]
+ },
+ {
+  "id": "chemist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà hóa học; dược sĩ; hiệu thuốc (Anh)",
+  "coll": [
+   "research chemist",
+   "go to the chemist",
+   "chemist shop",
+   "analytical chemist"
+  ]
+ },
+ {
+  "id": "dedicate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "cống hiến; dành trọn cho; đề tặng",
+  "coll": [
+   "dedicate time to",
+   "dedicate his life to",
+   "dedicate a book to",
+   "dedicated to helping others"
+  ]
+ },
+ {
+  "id": "derive",
+  "pos": [
+   "v"
+  ],
+  "vi": "thu được từ; bắt nguồn từ; suy ra",
+  "coll": [
+   "derive pleasure from",
+   "derive benefit from",
+   "derived from Latin",
+   "derive a formula"
+  ]
+ },
+ {
+  "id": "diligence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự siêng năng; sự cần cù; sự cẩn trọng",
+  "coll": [
+   "due diligence",
+   "work with diligence",
+   "great diligence",
+   "diligence and hard work"
+  ]
+ },
+ {
+  "id": "nutrient",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chất dinh dưỡng; bổ dưỡng",
+  "coll": [
+   "essential nutrients",
+   "nutrient-rich foods",
+   "absorb nutrients",
+   "nutrient deficiency"
+  ]
+ },
+ {
+  "id": "outlaw",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ ngoài vòng pháp luật; tướng cướp; cấm, đặt ra ngoài vòng pháp luật",
+  "coll": [
+   "a notorious outlaw",
+   "outlaw gang",
+   "outlaw gambling",
+   "declared an outlaw"
+  ]
+ },
+ {
+  "id": "parachute",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái dù; nhảy dù; thả dù",
+  "coll": [
+   "parachute jump",
+   "open the parachute",
+   "parachute into enemy territory",
+   "golden parachute"
+  ]
+ },
+ {
+  "id": "preschool",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "tuổi mẫu giáo; trường mầm non",
+  "coll": [
+   "preschool children",
+   "preschool education",
+   "attend preschool",
+   "preschool teacher"
+  ]
+ },
+ {
+  "id": "spectator",
+  "pos": [
+   "n"
+  ],
+  "vi": "khán giả; người xem",
+  "coll": [
+   "spectator sport",
+   "thousands of spectators",
+   "cheering spectators",
+   "watching spectators"
+  ]
+ },
+ {
+  "id": "stripe",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sọc; vằn; vạch quân hàm",
+  "coll": [
+   "black and white stripes",
+   "horizontal stripes",
+   "a shirt with stripes",
+   "earn your stripes"
+  ]
+ },
+ {
+  "id": "tighten",
+  "pos": [
+   "v"
+  ],
+  "vi": "siết chặt; thắt chặt; trở nên chặt hơn",
+  "coll": [
+   "tighten a screw",
+   "tighten security",
+   "tighten your belt",
+   "tighten restrictions"
+  ]
+ },
+ {
+  "id": "trustworthy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng tin cậy",
+  "coll": [
+   "a trustworthy friend",
+   "trustworthy source",
+   "trustworthy information",
+   "reliable and trustworthy"
+  ]
+ },
+ {
+  "id": "broccoli",
+  "pos": [
+   "n"
+  ],
+  "vi": "bông cải xanh; súp lơ xanh",
+  "coll": [
+   "steamed broccoli",
+   "broccoli florets",
+   "broccoli soup",
+   "fresh broccoli"
+  ]
+ },
+ {
+  "id": "humid",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ẩm ướt; oi ẩm (không khí)",
+  "coll": [
+   "hot and humid",
+   "humid climate",
+   "humid air",
+   "a humid summer"
+  ]
+ },
+ {
+  "id": "raspberry",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "quả mâm xôi; cây mâm xôi",
+  "coll": [
+   "raspberry jam",
+   "fresh raspberries",
+   "raspberry bush",
+   "blow a raspberry"
+  ]
+ },
+ {
+  "id": "diaper",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tã lót; bỉm trẻ em; thay tã cho",
+  "coll": [
+   "change a diaper",
+   "disposable diapers",
+   "diaper rash",
+   "a wet diaper"
+  ]
+ },
+ {
+  "id": "dissolve",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "hòa tan; tan ra; giải tán, giải thể",
+  "coll": [
+   "dissolve in water",
+   "dissolve the sugar",
+   "dissolve parliament",
+   "dissolve a marriage"
+  ]
+ },
+ {
+  "id": "loaf",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ổ bánh mì; lêu lổng, la cà",
+  "coll": [
+   "a loaf of bread",
+   "meat loaf",
+   "a freshly baked loaf",
+   "loaf around the house"
+  ]
+ },
+ {
+  "id": "paddle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mái chèo; chèo (thuyền); lội nước nông",
+  "coll": [
+   "paddle a canoe",
+   "paddle board",
+   "a wooden paddle",
+   "paddle upstream"
+  ]
+ },
+ {
+  "id": "parrot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con vẹt; nhắc lại như vẹt",
+  "coll": [
+   "a pet parrot",
+   "parrot cage",
+   "the parrot repeats words",
+   "learn parrot fashion"
+  ]
+ },
+ {
+  "id": "swimmer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người bơi; vận động viên bơi lội",
+  "coll": [
+   "a strong swimmer",
+   "Olympic swimmer",
+   "competitive swimmer",
+   "a keen swimmer"
+  ]
+ },
+ {
+  "id": "teller",
+  "pos": [
+   "n"
+  ],
+  "vi": "giao dịch viên ngân hàng; người kể chuyện",
+  "coll": [
+   "bank teller",
+   "automated teller machine",
+   "teller window",
+   "fortune teller"
+  ]
+ },
+ {
+  "id": "webcam",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "webcam; camera trực tuyến",
+  "coll": [
+   "webcam chat",
+   "built-in webcam",
+   "turn on the webcam",
+   "webcam footage"
+  ]
+ },
+ {
+  "id": "anyhow",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "dù sao thì; dù thế nào; qua loa, đại khái",
+  "coll": [
+   "anyhow, let's get started",
+   "but anyhow, that's life",
+   "anyhow, as I was saying",
+   "do it anyhow"
+  ]
+ },
+ {
+  "id": "ape",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "vượn người; khỉ không đuôi; bắt chước",
+  "coll": [
+   "the great apes",
+   "apes and monkeys",
+   "go ape",
+   "ape someone's style"
+  ]
+ },
+ {
+  "id": "crossroads",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngã tư; giao lộ; bước ngoặt (cuộc đời)",
+  "coll": [
+   "at a crossroads",
+   "stand at the crossroads",
+   "a career crossroads",
+   "the crossroads of history"
+  ]
+ },
+ {
+  "id": "ecstasy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự ngây ngất; niềm sung sướng tột độ; thuốc lắc",
+  "coll": [
+   "in ecstasy",
+   "sheer ecstasy",
+   "religious ecstasy",
+   "ecstasy pills"
+  ]
+ },
+ {
+  "id": "gravy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nước sốt thịt; nước thịt; món hời dễ kiếm",
+  "coll": [
+   "gravy boat",
+   "the gravy train",
+   "mashed potatoes and gravy",
+   "thick gravy"
+  ]
+ },
+ {
+  "id": "revise",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "sửa đổi; ôn tập (thi); xem xét lại",
+  "coll": [
+   "revise a plan",
+   "revise for exams",
+   "revise the draft",
+   "revise upwards"
+  ]
+ },
+ {
+  "id": "spinach",
+  "pos": [
+   "n"
+  ],
+  "vi": "rau chân vịt; cải bó xôi; rau bina",
+  "coll": [
+   "fresh spinach",
+   "spinach salad",
+   "spinach leaves",
+   "creamed spinach"
+  ]
+ },
+ {
+  "id": "teamwork",
+  "pos": [
+   "n"
+  ],
+  "vi": "làm việc nhóm; tinh thần đồng đội",
+  "coll": [
+   "good teamwork",
+   "teamwork skills",
+   "promote teamwork",
+   "teamwork and communication"
+  ]
+ },
+ {
+  "id": "uncover",
+  "pos": [
+   "v"
+  ],
+  "vi": "phát hiện ra; vạch trần; mở nắp",
+  "coll": [
+   "uncover the truth",
+   "uncover evidence",
+   "uncover a plot",
+   "uncover secrets"
+  ]
+ },
+ {
+  "id": "dangerously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách nguy hiểm",
+  "coll": [
+   "dangerously close",
+   "dangerously high",
+   "live dangerously",
+   "dangerously low levels"
+  ]
+ },
+ {
+  "id": "inconvenient",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bất tiện; phiền phức",
+  "coll": [
+   "an inconvenient time",
+   "an inconvenient truth",
+   "highly inconvenient",
+   "an inconvenient location"
+  ]
+ },
+ {
+  "id": "onstage",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "trên sân khấu; ra sân khấu",
+  "coll": [
+   "appear onstage",
+   "perform onstage",
+   "walk onstage",
+   "onstage presence"
+  ]
+ },
+ {
+  "id": "politely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách lịch sự; lễ phép",
+  "coll": [
+   "politely decline",
+   "ask politely",
+   "smile politely",
+   "politely refuse"
+  ]
+ },
+ {
+  "id": "rewrite",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "viết lại; bản viết lại",
+  "coll": [
+   "rewrite history",
+   "rewrite the script",
+   "a complete rewrite",
+   "rewrite the rules"
+  ]
+ },
+ {
+  "id": "underage",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chưa đủ tuổi; vị thành niên",
+  "coll": [
+   "underage drinking",
+   "underage drivers",
+   "underage marriage",
+   "underage customers"
+  ]
+ },
+ {
+  "id": "advert",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mẩu quảng cáo; quảng cáo",
+  "coll": [
+   "a TV advert",
+   "a job advert",
+   "place an advert",
+   "advert break"
+  ]
+ },
+ {
+  "id": "applaud",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "vỗ tay; hoan nghênh; tán thưởng",
+  "coll": [
+   "applaud loudly",
+   "applaud the decision",
+   "the audience applauded",
+   "applaud his efforts"
+  ]
+ },
+ {
+  "id": "boredom",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự buồn chán; nỗi chán chường",
+  "coll": [
+   "out of boredom",
+   "relieve the boredom",
+   "die of boredom",
+   "sheer boredom"
+  ]
+ },
+ {
+  "id": "chewing gum",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẹo cao su; kẹo sing-gum",
+  "coll": [
+   "a stick of chewing gum",
+   "a piece of chewing gum",
+   "sugar-free chewing gum",
+   "chew chewing gum"
+  ]
+ },
+ {
+  "id": "compose",
+  "pos": [
+   "v"
+  ],
+  "vi": "sáng tác (nhạc); soạn, viết; cấu thành; trấn tĩnh",
+  "coll": [
+   "compose music",
+   "compose a song",
+   "compose yourself",
+   "composed of ten members"
+  ]
+ },
+ {
+  "id": "dialog",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc đối thoại; đoạn hội thoại; hộp thoại (tin học)",
+  "coll": [
+   "a dialog box",
+   "open a dialog",
+   "dialog between characters",
+   "constructive dialog"
+  ]
+ },
+ {
+  "id": "disc jockey",
+  "pos": [
+   "n"
+  ],
+  "vi": "DJ, người chỉnh nhạc; phát thanh viên âm nhạc",
+  "coll": [
+   "a radio disc jockey",
+   "a club disc jockey",
+   "work as a disc jockey",
+   "a famous disc jockey"
+  ]
+ },
+ {
+  "id": "enthusiast",
+  "pos": [
+   "n"
+  ],
+  "vi": "người đam mê; người hâm mộ nhiệt thành",
+  "coll": [
+   "a car enthusiast",
+   "sports enthusiast",
+   "fitness enthusiast",
+   "a keen enthusiast"
+  ]
+ },
+ {
+  "id": "grouping",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự phân nhóm; nhóm, khối; sự gộp nhóm",
+  "coll": [
+   "a political grouping",
+   "regional grouping",
+   "a grouping of countries",
+   "form a grouping"
+  ]
+ },
+ {
+  "id": "simplify",
+  "pos": [
+   "v"
+  ],
+  "vi": "đơn giản hóa",
+  "coll": [
+   "simplify the process",
+   "simplify a fraction",
+   "greatly simplify",
+   "simplify your life"
+  ]
+ },
+ {
+  "id": "stormy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giông bão; đầy sóng gió (quan hệ)",
+  "coll": [
+   "stormy weather",
+   "stormy seas",
+   "a stormy relationship",
+   "a stormy night"
+  ]
+ },
+ {
+  "id": "entertainer",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghệ sĩ giải trí; người mua vui",
+  "coll": [
+   "a popular entertainer",
+   "professional entertainer",
+   "children's entertainer",
+   "a born entertainer"
+  ]
+ },
+ {
+  "id": "quake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trận động đất; run rẩy; rung chuyển",
+  "coll": [
+   "quake victims",
+   "a major quake",
+   "quake with fear",
+   "quake in your boots"
+  ]
+ },
+ {
+  "id": "roadside",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "lề đường; ven đường",
+  "coll": [
+   "roadside assistance",
+   "a roadside café",
+   "by the roadside",
+   "a roadside bomb"
+  ]
+ },
+ {
+  "id": "unfold",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "mở ra, trải ra; diễn ra; hé lộ dần",
+  "coll": [
+   "events unfold",
+   "unfold a map",
+   "the story unfolds",
+   "watch the drama unfold"
+  ]
+ },
+ {
+  "id": "brightly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "sáng chói; rực rỡ; tươi vui",
+  "coll": [
+   "smile brightly",
+   "shine brightly",
+   "brightly colored",
+   "brightly lit"
+  ]
+ },
+ {
+  "id": "inject",
+  "pos": [
+   "v"
+  ],
+  "vi": "tiêm, chích; bơm vào; đưa thêm vào",
+  "coll": [
+   "inject insulin",
+   "inject drugs",
+   "inject money into the economy",
+   "inject some humor"
+  ]
+ },
+ {
+  "id": "mule",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con la; người bướng bỉnh; kẻ vận chuyển ma túy",
+  "coll": [
+   "stubborn as a mule",
+   "a pack mule",
+   "a drug mule",
+   "mule train"
+  ]
+ },
+ {
+  "id": "orderly",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "ngăn nắp; trật tự; hộ lý (bệnh viện)",
+  "coll": [
+   "in an orderly manner",
+   "an orderly queue",
+   "orderly fashion",
+   "a hospital orderly"
+  ]
+ },
+ {
+  "id": "postcard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bưu thiếp; thiệp gửi qua bưu điện",
+  "coll": [
+   "send a postcard",
+   "a picture postcard",
+   "a postcard from Paris",
+   "write a postcard"
+  ]
+ }
+]

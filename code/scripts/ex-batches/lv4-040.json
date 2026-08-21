@@ -1,0 +1,801 @@
+[
+ {
+  "id": "cleric",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "giáo sĩ, tu sĩ",
+  "coll": [
+   "a senior cleric",
+   "Muslim cleric",
+   "cleric and scholar",
+   "radical cleric"
+  ]
+ },
+ {
+  "id": "segmentation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân khúc, phân đoạn",
+  "coll": [
+   "market segmentation",
+   "customer segmentation",
+   "segmentation strategy",
+   "image segmentation"
+  ]
+ },
+ {
+  "id": "confer",
+  "pos": [
+   "v"
+  ],
+  "vi": "trao (danh hiệu, quyền); hội ý, bàn bạc",
+  "coll": [
+   "confer a degree",
+   "confer with colleagues",
+   "confer power on",
+   "confer an honour"
+  ]
+ },
+ {
+  "id": "devise",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nghĩ ra, vạch ra (kế hoạch)",
+  "coll": [
+   "devise a plan",
+   "devise a strategy",
+   "devise a system",
+   "devise a method"
+  ]
+ },
+ {
+  "id": "downturn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự suy giảm, đi xuống (kinh tế)",
+  "coll": [
+   "economic downturn",
+   "a sharp downturn",
+   "downturn in sales",
+   "global downturn"
+  ]
+ },
+ {
+  "id": "dilute",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "pha loãng; làm suy giảm (giá trị)",
+  "coll": [
+   "dilute a solution",
+   "dilute the impact",
+   "dilute shareholdings",
+   "dilute the message"
+  ]
+ },
+ {
+  "id": "streamline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tinh gọn, đơn giản hoá quy trình",
+  "coll": [
+   "streamline operations",
+   "streamline the process",
+   "streamline production",
+   "streamline costs"
+  ]
+ },
+ {
+  "id": "deregulation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nới lỏng quản lý, bãi bỏ quy định",
+  "coll": [
+   "market deregulation",
+   "financial deregulation",
+   "deregulation of the industry",
+   "push for deregulation"
+  ]
+ },
+ {
+  "id": "cyclical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có tính chu kỳ",
+  "coll": [
+   "cyclical industry",
+   "cyclical downturn",
+   "cyclical pattern",
+   "cyclical stocks"
+  ]
+ },
+ {
+  "id": "diversify",
+  "pos": [
+   "v"
+  ],
+  "vi": "đa dạng hoá",
+  "coll": [
+   "diversify the portfolio",
+   "diversify into",
+   "diversify risk",
+   "diversify the economy"
+  ]
+ },
+ {
+  "id": "intensify",
+  "pos": [
+   "v"
+  ],
+  "vi": "tăng cường, đẩy mạnh; trở nên gay gắt hơn",
+  "coll": [
+   "intensify efforts",
+   "intensify competition",
+   "intensify pressure",
+   "the storm intensified"
+  ]
+ },
+ {
+  "id": "telecommunication",
+  "pos": [
+   "n"
+  ],
+  "vi": "viễn thông",
+  "coll": [
+   "telecommunication network",
+   "telecommunication services",
+   "telecommunication company",
+   "telecommunication industry"
+  ]
+ },
+ {
+  "id": "buyout",
+  "pos": [
+   "n"
+  ],
+  "vi": "vụ mua lại (quyền kiểm soát công ty)",
+  "coll": [
+   "management buyout",
+   "leveraged buyout",
+   "buyout offer",
+   "buyout firm"
+  ]
+ },
+ {
+  "id": "deteriorate",
+  "pos": [
+   "v"
+  ],
+  "vi": "xấu đi, suy giảm",
+  "coll": [
+   "conditions deteriorate",
+   "deteriorate rapidly",
+   "deteriorating health",
+   "relations deteriorated"
+  ]
+ },
+ {
+  "id": "incline",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nghiêng về, có xu hướng; dốc nghiêng",
+  "coll": [
+   "incline towards",
+   "be inclined to",
+   "a steep incline",
+   "incline your head"
+  ]
+ },
+ {
+  "id": "peacekeeping",
+  "pos": [
+   "n"
+  ],
+  "vi": "gìn giữ hoà bình",
+  "coll": [
+   "peacekeeping mission",
+   "peacekeeping force",
+   "UN peacekeeping",
+   "peacekeeping operation"
+  ]
+ },
+ {
+  "id": "unsecured",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không có bảo đảm (khoản vay)",
+  "coll": [
+   "unsecured loan",
+   "unsecured debt",
+   "unsecured creditor",
+   "unsecured credit card"
+  ]
+ },
+ {
+  "id": "flotation",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc phát hành cổ phiếu lần đầu; sự nổi",
+  "coll": [
+   "stock market flotation",
+   "plan a flotation",
+   "flotation of the company",
+   "flotation device"
+  ]
+ },
+ {
+  "id": "negotiator",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà đàm phán",
+  "coll": [
+   "chief negotiator",
+   "skilled negotiator",
+   "trade negotiator",
+   "a tough negotiator"
+  ]
+ },
+ {
+  "id": "reformer",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà cải cách",
+  "coll": [
+   "a political reformer",
+   "social reformer",
+   "economic reformer",
+   "leading reformer"
+  ]
+ },
+ {
+  "id": "capitalization",
+  "pos": [
+   "n"
+  ],
+  "vi": "vốn hoá (thị trường); sự viết hoa",
+  "coll": [
+   "market capitalization",
+   "capitalization of the company",
+   "thin capitalization",
+   "capitalization rules"
+  ]
+ },
+ {
+  "id": "separatist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người ly khai; thuộc phe ly khai",
+  "coll": [
+   "separatist movement",
+   "separatist rebels",
+   "separatist leader",
+   "separatist region"
+  ]
+ },
+ {
+  "id": "discontinue",
+  "pos": [
+   "v"
+  ],
+  "vi": "ngừng, ngưng cung cấp",
+  "coll": [
+   "discontinue a product",
+   "discontinue the service",
+   "discontinue treatment",
+   "discontinued model"
+  ]
+ },
+ {
+  "id": "franc",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồng franc (Thuỵ Sĩ, Pháp cũ)",
+  "coll": [
+   "Swiss franc",
+   "million francs",
+   "the franc exchange rate"
+  ]
+ },
+ {
+  "id": "protester",
+  "pos": [
+   "n"
+  ],
+  "vi": "người biểu tình",
+  "coll": [
+   "anti-government protester",
+   "hundreds of protesters",
+   "protesters gathered",
+   "peaceful protesters"
+  ]
+ },
+ {
+  "id": "smuggle",
+  "pos": [
+   "v"
+  ],
+  "vi": "buôn lậu, tuồn lậu",
+  "coll": [
+   "smuggle goods",
+   "smuggle drugs",
+   "smuggle across the border",
+   "smuggle out"
+  ]
+ },
+ {
+  "id": "stochastic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ngẫu nhiên (theo xác suất)",
+  "coll": [
+   "stochastic process",
+   "stochastic model",
+   "stochastic variable",
+   "stochastic analysis"
+  ]
+ },
+ {
+  "id": "creditor",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nợ, bên cho vay",
+  "coll": [
+   "repay creditors",
+   "secured creditor",
+   "creditors' meeting",
+   "major creditor"
+  ]
+ },
+ {
+  "id": "slowdown",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chững lại, giảm tốc",
+  "coll": [
+   "economic slowdown",
+   "a sharp slowdown",
+   "slowdown in growth",
+   "global slowdown"
+  ]
+ },
+ {
+  "id": "tort",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "hành vi dân sự gây thiệt hại (luật)",
+  "coll": [
+   "tort law",
+   "tort claim",
+   "commit a tort",
+   "tort reform"
+  ]
+ },
+ {
+  "id": "deduct",
+  "pos": [
+   "v"
+  ],
+  "vi": "khấu trừ, trừ đi",
+  "coll": [
+   "deduct tax",
+   "deduct expenses",
+   "deduct from salary",
+   "tax-deductible"
+  ]
+ },
+ {
+  "id": "respondent",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người trả lời (khảo sát); bên bị đơn",
+  "coll": [
+   "survey respondents",
+   "most respondents said",
+   "respondent rate",
+   "the respondent in the case"
+  ]
+ },
+ {
+  "id": "debtor",
+  "pos": [
+   "n"
+  ],
+  "vi": "con nợ, bên vay nợ",
+  "coll": [
+   "debtor nation",
+   "debtor and creditor",
+   "debtor country",
+   "chase debtors"
+  ]
+ },
+ {
+  "id": "distort",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "bóp méo, làm sai lệch",
+  "coll": [
+   "distort the facts",
+   "distort competition",
+   "distort the market",
+   "a distorted picture"
+  ]
+ },
+ {
+  "id": "importer",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà nhập khẩu",
+  "coll": [
+   "a major importer",
+   "oil importer",
+   "importer and exporter",
+   "net importer"
+  ]
+ },
+ {
+  "id": "handset",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "máy cầm tay, điện thoại di động",
+  "coll": [
+   "mobile handset",
+   "handset maker",
+   "handset sales",
+   "replace the handset"
+  ]
+ },
+ {
+  "id": "issuer",
+  "pos": [
+   "n"
+  ],
+  "vi": "bên phát hành (thẻ, chứng khoán)",
+  "coll": [
+   "card issuer",
+   "bond issuer",
+   "issuer of securities",
+   "the issuing bank"
+  ]
+ },
+ {
+  "id": "omit",
+  "pos": [
+   "v"
+  ],
+  "vi": "bỏ sót, lược bỏ",
+  "coll": [
+   "omit a detail",
+   "omit to mention",
+   "omit from the list",
+   "deliberately omit"
+  ]
+ },
+ {
+  "id": "marketable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dễ tiêu thụ, bán được giá",
+  "coll": [
+   "marketable skills",
+   "marketable product",
+   "marketable securities",
+   "highly marketable"
+  ]
+ },
+ {
+  "id": "fiduciary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc trách nhiệm uỷ thác",
+  "coll": [
+   "fiduciary duty",
+   "fiduciary responsibility",
+   "fiduciary relationship",
+   "act in a fiduciary capacity"
+  ]
+ },
+ {
+  "id": "macroeconomic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc kinh tế vĩ mô",
+  "coll": [
+   "macroeconomic policy",
+   "macroeconomic stability",
+   "macroeconomic conditions",
+   "macroeconomic data"
+  ]
+ },
+ {
+  "id": "erode",
+  "pos": [
+   "v"
+  ],
+  "vi": "bào mòn, làm xói mòn (niềm tin, giá trị)",
+  "coll": [
+   "erode confidence",
+   "erode profits",
+   "erode away",
+   "erode support"
+  ]
+ },
+ {
+  "id": "enforceable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có thể thi hành (theo luật)",
+  "coll": [
+   "legally enforceable",
+   "enforceable contract",
+   "enforceable rights",
+   "not enforceable"
+  ]
+ },
+ {
+  "id": "shortfall",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thiếu hụt so với mức cần",
+  "coll": [
+   "budget shortfall",
+   "revenue shortfall",
+   "make up the shortfall",
+   "a shortfall of funds"
+  ]
+ },
+ {
+  "id": "outflow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dòng tiền chảy ra, luồng ra",
+  "coll": [
+   "capital outflow",
+   "cash outflow",
+   "outflow of funds",
+   "net outflow"
+  ]
+ },
+ {
+  "id": "outperform",
+  "pos": [
+   "v"
+  ],
+  "vi": "vượt trội hơn, làm tốt hơn",
+  "coll": [
+   "outperform the market",
+   "outperform rivals",
+   "outperform expectations",
+   "consistently outperform"
+  ]
+ },
+ {
+  "id": "restructure",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tái cơ cấu, tổ chức lại",
+  "coll": [
+   "restructure debt",
+   "restructure the company",
+   "restructure operations",
+   "restructuring plan"
+  ]
+ },
+ {
+  "id": "stakeholder",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bên liên quan, các bên có lợi ích",
+  "coll": [
+   "key stakeholders",
+   "stakeholder engagement",
+   "consult stakeholders",
+   "stakeholder value"
+  ]
+ },
+ {
+  "id": "peso",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồng peso (Mexico, Philippines…)",
+  "coll": [
+   "Mexican peso",
+   "Philippine peso",
+   "peso exchange rate",
+   "billion pesos"
+  ]
+ },
+ {
+  "id": "frustrate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "gây bực bội; cản trở, làm hỏng",
+  "coll": [
+   "frustrate efforts",
+   "frustrate customers",
+   "frustrate the plan",
+   "deeply frustrated"
+  ]
+ },
+ {
+  "id": "amortization",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khấu hao dần, phân bổ dần (khoản vay)",
+  "coll": [
+   "amortization schedule",
+   "loan amortization",
+   "depreciation and amortization",
+   "amortization period"
+  ]
+ },
+ {
+  "id": "marketer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người làm tiếp thị",
+  "coll": [
+   "digital marketer",
+   "content marketer",
+   "marketers target",
+   "a savvy marketer"
+  ]
+ },
+ {
+  "id": "entrant",
+  "pos": [
+   "n"
+  ],
+  "vi": "người mới tham gia, đơn vị mới vào ngành",
+  "coll": [
+   "new entrant",
+   "market entrant",
+   "entrants to the competition",
+   "late entrant"
+  ]
+ },
+ {
+  "id": "oust",
+  "pos": [
+   "v"
+  ],
+  "vi": "lật đổ, hất cẳng",
+  "coll": [
+   "oust the leader",
+   "be ousted from power",
+   "oust the CEO",
+   "oust a rival"
+  ]
+ },
+ {
+  "id": "ratify",
+  "pos": [
+   "v"
+  ],
+  "vi": "phê chuẩn, thông qua chính thức",
+  "coll": [
+   "ratify a treaty",
+   "ratify the agreement",
+   "ratify an amendment",
+   "formally ratify"
+  ]
+ },
+ {
+  "id": "repurchase",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "mua lại (cổ phiếu)",
+  "coll": [
+   "share repurchase",
+   "repurchase agreement",
+   "repurchase program",
+   "repurchase shares"
+  ]
+ },
+ {
+  "id": "scorecard",
+  "pos": [
+   "n"
+  ],
+  "vi": "bảng điểm đánh giá",
+  "coll": [
+   "balanced scorecard",
+   "performance scorecard",
+   "scorecard metrics",
+   "keep a scorecard"
+  ]
+ },
+ {
+  "id": "deflation",
+  "pos": [
+   "n"
+  ],
+  "vi": "giảm phát",
+  "coll": [
+   "risk of deflation",
+   "deflation and inflation",
+   "fight deflation",
+   "price deflation"
+  ]
+ },
+ {
+  "id": "worksheet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bảng tính, phiếu bài tập",
+  "coll": [
+   "Excel worksheet",
+   "complete a worksheet",
+   "worksheet template",
+   "practice worksheet"
+  ]
+ },
+ {
+  "id": "outsource",
+  "pos": [
+   "v"
+  ],
+  "vi": "thuê ngoài, giao cho bên ngoài làm",
+  "coll": [
+   "outsource production",
+   "outsource IT services",
+   "outsource to another company",
+   "outsource jobs"
+  ]
+ }
+]

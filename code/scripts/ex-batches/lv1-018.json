@@ -1,0 +1,839 @@
+[
+ {
+  "id": "satisfaction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hài lòng; sự thỏa mãn",
+  "coll": [
+   "customer satisfaction",
+   "job satisfaction",
+   "great satisfaction",
+   "satisfaction survey"
+  ]
+ },
+ {
+  "id": "scratch",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "cào, gãi; vết xước; làm trầy",
+  "coll": [
+   "scratch your head",
+   "scratch an itch",
+   "scratch the surface",
+   "start from scratch"
+  ]
+ },
+ {
+  "id": "sheriff",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cảnh sát trưởng (hạt)",
+  "coll": [
+   "county sheriff",
+   "the sheriff's office",
+   "sheriff's deputy",
+   "the local sheriff"
+  ]
+ },
+ {
+  "id": "sometime",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "một lúc nào đó; trước đây, từng là",
+  "coll": [
+   "sometime next week",
+   "sometime soon",
+   "sometime in the future",
+   "sometime during the day"
+  ]
+ },
+ {
+  "id": "warrior",
+  "pos": [
+   "n"
+  ],
+  "vi": "chiến binh",
+  "coll": [
+   "brave warrior",
+   "ancient warrior",
+   "warrior spirit",
+   "weekend warrior"
+  ]
+ },
+ {
+  "id": "admission",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc nhận vào; phí vào cửa; sự thừa nhận",
+  "coll": [
+   "admission fee",
+   "free admission",
+   "university admission",
+   "an admission of guilt",
+   "hospital admission"
+  ]
+ },
+ {
+  "id": "bacon",
+  "pos": [
+   "n"
+  ],
+  "vi": "thịt xông khói; thịt ba chỉ muối",
+  "coll": [
+   "bacon and eggs",
+   "crispy bacon",
+   "bacon sandwich",
+   "bring home the bacon"
+  ]
+ },
+ {
+  "id": "burst",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nổ tung, vỡ; bật ra đột ngột; cơn bùng phát",
+  "coll": [
+   "burst into tears",
+   "burst out laughing",
+   "burst into flames",
+   "burst a balloon",
+   "a burst of energy"
+  ]
+ },
+ {
+  "id": "cattle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gia súc, trâu bò",
+  "coll": [
+   "a herd of cattle",
+   "cattle ranch",
+   "raise cattle",
+   "beef cattle"
+  ]
+ },
+ {
+  "id": "compromise",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự thỏa hiệp; thỏa hiệp; làm tổn hại",
+  "coll": [
+   "reach a compromise",
+   "make a compromise",
+   "compromise on the price",
+   "compromise security"
+  ]
+ },
+ {
+  "id": "crop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cây trồng, vụ mùa; sản lượng thu hoạch; cắt cúp (ảnh)",
+  "coll": [
+   "crop failure",
+   "cash crop",
+   "harvest the crops",
+   "crop yields"
+  ]
+ },
+ {
+  "id": "eliminate",
+  "pos": [
+   "v"
+  ],
+  "vi": "loại bỏ; loại (khỏi cuộc thi); thủ tiêu",
+  "coll": [
+   "eliminate the risk",
+   "eliminate poverty",
+   "eliminate errors",
+   "eliminated from the competition"
+  ]
+ },
+ {
+  "id": "harbor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bến cảng; nuôi (ý nghĩ, cảm xúc); chứa chấp",
+  "coll": [
+   "a natural harbor",
+   "boats in the harbor",
+   "harbor a grudge",
+   "harbor doubts"
+  ]
+ },
+ {
+  "id": "inform",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "thông báo; báo cho biết; tố giác",
+  "coll": [
+   "inform the police",
+   "keep me informed",
+   "inform the public",
+   "please inform us"
+  ]
+ },
+ {
+  "id": "mathematics",
+  "pos": [
+   "n"
+  ],
+  "vi": "toán học",
+  "coll": [
+   "applied mathematics",
+   "study mathematics",
+   "pure mathematics",
+   "a mathematics teacher"
+  ]
+ },
+ {
+  "id": "scholarship",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "học bổng; học vấn uyên bác",
+  "coll": [
+   "win a scholarship",
+   "full scholarship",
+   "apply for a scholarship",
+   "scholarship program"
+  ]
+ },
+ {
+  "id": "southeast",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "đông nam; phía đông nam",
+  "coll": [
+   "Southeast Asia",
+   "southeast of the city",
+   "in the southeast",
+   "the southeast coast"
+  ]
+ },
+ {
+  "id": "strain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự căng thẳng; chủng (vi khuẩn, vi rút); làm căng, gắng sức",
+  "coll": [
+   "under strain",
+   "put a strain on",
+   "muscle strain",
+   "a new strain of the virus",
+   "strain your eyes"
+  ]
+ },
+ {
+  "id": "urgent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khẩn cấp; cấp bách",
+  "coll": [
+   "urgent need",
+   "urgent message",
+   "urgent matter",
+   "in urgent need of"
+  ]
+ },
+ {
+  "id": "workshop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xưởng; buổi hội thảo thực hành",
+  "coll": [
+   "training workshop",
+   "attend a workshop",
+   "repair workshop",
+   "a workshop on writing"
+  ]
+ },
+ {
+  "id": "aboard",
+  "pos": [
+   "adv",
+   "prep"
+  ],
+  "vi": "trên tàu, xe; lên tàu, máy bay",
+  "coll": [
+   "welcome aboard",
+   "climb aboard",
+   "all aboard",
+   "go aboard the ship"
+  ]
+ },
+ {
+  "id": "abstract",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "trừu tượng; bản tóm tắt",
+  "coll": [
+   "abstract art",
+   "abstract concept",
+   "an abstract idea",
+   "in the abstract"
+  ]
+ },
+ {
+  "id": "accent",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giọng (vùng miền); trọng âm; điểm nhấn",
+  "coll": [
+   "a foreign accent",
+   "a strong accent",
+   "a British accent",
+   "speak with an accent"
+  ]
+ },
+ {
+  "id": "curve",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "đường cong; chỗ ngoặt; uốn cong",
+  "coll": [
+   "learning curve",
+   "a sharp curve",
+   "a curve in the road",
+   "the curve of the spine"
+  ]
+ },
+ {
+  "id": "depressed",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trầm cảm, chán nản; đình đốn, suy thoái",
+  "coll": [
+   "feel depressed",
+   "clinically depressed",
+   "deeply depressed",
+   "a depressed area"
+  ]
+ },
+ {
+  "id": "encouraging",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đáng khích lệ; động viên",
+  "coll": [
+   "encouraging news",
+   "encouraging results",
+   "encouraging signs",
+   "an encouraging smile"
+  ]
+ },
+ {
+  "id": "horn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sừng; còi xe; kèn đồng",
+  "coll": [
+   "honk the horn",
+   "car horn",
+   "a bull's horns",
+   "the French horn"
+  ]
+ },
+ {
+  "id": "inspection",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kiểm tra; sự thanh tra",
+  "coll": [
+   "safety inspection",
+   "close inspection",
+   "carry out an inspection",
+   "on closer inspection"
+  ]
+ },
+ {
+  "id": "install",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cài đặt; lắp đặt",
+  "coll": [
+   "install software",
+   "install an app",
+   "install a camera",
+   "newly installed"
+  ]
+ },
+ {
+  "id": "instruction",
+  "pos": [
+   "n"
+  ],
+  "vi": "hướng dẫn; chỉ thị; sự giảng dạy",
+  "coll": [
+   "follow the instructions",
+   "instruction manual",
+   "detailed instructions",
+   "give instructions"
+  ]
+ },
+ {
+  "id": "invitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời mời; thiệp mời",
+  "coll": [
+   "wedding invitation",
+   "accept an invitation",
+   "decline an invitation",
+   "send out invitations"
+  ]
+ },
+ {
+  "id": "lean",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "nghiêng, dựa vào; gầy; (thịt) nạc",
+  "coll": [
+   "lean against the wall",
+   "lean forward",
+   "lean on someone",
+   "lean meat"
+  ]
+ },
+ {
+  "id": "lecture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bài giảng; thuyết trình; giảng đạo lý",
+  "coll": [
+   "give a lecture",
+   "attend a lecture",
+   "lecture hall",
+   "lecture notes",
+   "a lecture on history"
+  ]
+ },
+ {
+  "id": "meaningful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có ý nghĩa; đầy ngụ ý",
+  "coll": [
+   "meaningful relationship",
+   "meaningful conversation",
+   "meaningful change",
+   "in a meaningful way"
+  ]
+ },
+ {
+  "id": "northwest",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "tây bắc; phía tây bắc",
+  "coll": [
+   "northwest of the city",
+   "the northwest coast",
+   "in the northwest",
+   "a northwest wind"
+  ]
+ },
+ {
+  "id": "organ",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơ quan (cơ thể); nội tạng; đàn ống",
+  "coll": [
+   "organ donor",
+   "organ transplant",
+   "internal organs",
+   "play the organ",
+   "pipe organ"
+  ]
+ },
+ {
+  "id": "patrol",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tuần tra; đội tuần tra",
+  "coll": [
+   "police patrol",
+   "on patrol",
+   "border patrol",
+   "patrol car",
+   "patrol the streets"
+  ]
+ },
+ {
+  "id": "plug",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phích cắm; nút bịt; cắm (điện)",
+  "coll": [
+   "pull the plug",
+   "plug it in",
+   "electrical plug",
+   "spark plug",
+   "plug the gap"
+  ]
+ },
+ {
+  "id": "thunder",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sấm; tiếng sấm; gầm vang",
+  "coll": [
+   "thunder and lightning",
+   "a clap of thunder",
+   "a roll of thunder",
+   "thunder rumbled"
+  ]
+ },
+ {
+  "id": "tragedy",
+  "pos": [
+   "n"
+  ],
+  "vi": "bi kịch; thảm kịch",
+  "coll": [
+   "Greek tragedy",
+   "end in tragedy",
+   "a terrible tragedy",
+   "family tragedy"
+  ]
+ },
+ {
+  "id": "acquire",
+  "pos": [
+   "v"
+  ],
+  "vi": "có được, thu được; mua lại; học được",
+  "coll": [
+   "acquire knowledge",
+   "acquire skills",
+   "acquire a company",
+   "acquire a taste for"
+  ]
+ },
+ {
+  "id": "alike",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "giống nhau; như nhau, đều",
+  "coll": [
+   "look alike",
+   "think alike",
+   "young and old alike",
+   "great minds think alike"
+  ]
+ },
+ {
+  "id": "arrow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mũi tên",
+  "coll": [
+   "bow and arrow",
+   "shoot an arrow",
+   "arrow keys",
+   "follow the arrows"
+  ]
+ },
+ {
+  "id": "cabin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà gỗ nhỏ; buồng (trên tàu); khoang máy bay",
+  "coll": [
+   "log cabin",
+   "cabin crew",
+   "a cabin in the woods",
+   "first-class cabin"
+  ]
+ },
+ {
+  "id": "cage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái lồng, chuồng; nhốt vào lồng",
+  "coll": [
+   "bird cage",
+   "locked in a cage",
+   "rib cage",
+   "the cage door"
+  ]
+ },
+ {
+  "id": "central heating",
+  "pos": [
+   "n"
+  ],
+  "vi": "hệ thống sưởi trung tâm",
+  "coll": [
+   "install central heating",
+   "central heating system",
+   "turn on the central heating"
+  ]
+ },
+ {
+  "id": "combine",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "kết hợp; phối hợp",
+  "coll": [
+   "combine the ingredients",
+   "combine work and study",
+   "combine forces",
+   "a combined effort"
+  ]
+ },
+ {
+  "id": "companion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bạn đồng hành; người bầu bạn",
+  "coll": [
+   "travel companion",
+   "constant companion",
+   "lifelong companion",
+   "companion animal"
+  ]
+ },
+ {
+  "id": "goodness",
+  "pos": [
+   "intj",
+   "n"
+  ],
+  "vi": "trời ơi!; lòng tốt; chất bổ",
+  "coll": [
+   "thank goodness",
+   "goodness me",
+   "for goodness' sake",
+   "the goodness of his heart"
+  ]
+ },
+ {
+  "id": "guilt",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "cảm giác tội lỗi; tội trạng",
+  "coll": [
+   "feel guilt",
+   "a sense of guilt",
+   "admit guilt",
+   "guilt trip",
+   "guilt and shame"
+  ]
+ },
+ {
+  "id": "haven",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nơi trú ẩn; chốn bình yên; bến cảng (cũ)",
+  "coll": [
+   "safe haven",
+   "tax haven",
+   "a haven for wildlife",
+   "a haven of peace"
+  ]
+ },
+ {
+  "id": "mere",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chỉ là, đơn thuần",
+  "coll": [
+   "a mere coincidence",
+   "a mere formality",
+   "mere mortals",
+   "the mere thought of it"
+  ]
+ },
+ {
+  "id": "miracle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phép màu; điều kỳ diệu",
+  "coll": [
+   "perform a miracle",
+   "miracle cure",
+   "by a miracle",
+   "economic miracle",
+   "it's a miracle"
+  ]
+ },
+ {
+  "id": "mud",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bùn; bùn đất",
+  "coll": [
+   "covered in mud",
+   "stuck in the mud",
+   "mud bath",
+   "thick mud"
+  ]
+ },
+ {
+  "id": "observation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quan sát; lời nhận xét",
+  "coll": [
+   "under observation",
+   "careful observation",
+   "make an observation",
+   "powers of observation"
+  ]
+ },
+ {
+  "id": "owe",
+  "pos": [
+   "v"
+  ],
+  "vi": "nợ; mang ơn; có được là nhờ",
+  "coll": [
+   "owe money",
+   "owe someone an apology",
+   "owe a debt",
+   "owe it to yourself"
+  ]
+ },
+ {
+  "id": "phenomenon",
+  "pos": [
+   "n"
+  ],
+  "vi": "hiện tượng",
+  "coll": [
+   "natural phenomenon",
+   "social phenomenon",
+   "global phenomenon",
+   "a rare phenomenon"
+  ]
+ },
+ {
+  "id": "profession",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghề nghiệp; giới nghề; sự bày tỏ",
+  "coll": [
+   "the medical profession",
+   "the legal profession",
+   "by profession",
+   "the teaching profession"
+  ]
+ },
+ {
+  "id": "protective",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bảo vệ, che chở; có tính bảo hộ",
+  "coll": [
+   "protective clothing",
+   "protective equipment",
+   "protective layer",
+   "protective of her children"
+  ]
+ },
+ {
+  "id": "publisher",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà xuất bản",
+  "coll": [
+   "book publisher",
+   "major publisher",
+   "the publisher of the magazine",
+   "academic publisher"
+  ]
+ }
+]

@@ -1,0 +1,815 @@
+[
+ {
+  "id": "questionnaire",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bảng câu hỏi; phiếu khảo sát",
+  "coll": [
+   "fill in a questionnaire",
+   "complete a questionnaire",
+   "a questionnaire survey",
+   "design a questionnaire"
+  ]
+ },
+ {
+  "id": "reclaim",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đòi lại, lấy lại; cải tạo (đất); tái chế",
+  "coll": [
+   "reclaim land",
+   "reclaim your baggage",
+   "reclaim the title",
+   "baggage reclaim"
+  ]
+ },
+ {
+  "id": "riddle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "câu đố; điều bí ẩn; bắn lỗ chỗ",
+  "coll": [
+   "solve a riddle",
+   "speak in riddles",
+   "an unsolved riddle",
+   "riddled with bullets"
+  ]
+ },
+ {
+  "id": "swarm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đàn (ong, côn trùng); đám đông; kéo đến hàng đàn",
+  "coll": [
+   "a swarm of bees",
+   "a swarm of locusts",
+   "tourists swarmed the streets",
+   "swarming with people"
+  ]
+ },
+ {
+  "id": "ache",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn đau âm ỉ; đau nhức; khao khát",
+  "coll": [
+   "aches and pains",
+   "a stomach ache",
+   "my head aches",
+   "ache all over"
+  ]
+ },
+ {
+  "id": "hostel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà trọ giá rẻ; ký túc xá; nhà nghỉ thanh niên",
+  "coll": [
+   "a youth hostel",
+   "stay in a hostel",
+   "a backpacker hostel",
+   "hostel dormitory"
+  ]
+ },
+ {
+  "id": "limp",
+  "pos": [
+   "v",
+   "n",
+   "adj",
+   "phr"
+  ],
+  "vi": "đi khập khiễng; mềm oặt; dáng đi cà nhắc",
+  "coll": [
+   "walk with a limp",
+   "limp badly",
+   "go limp",
+   "a limp handshake"
+  ]
+ },
+ {
+  "id": "mourn",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "thương tiếc; để tang; đau buồn vì",
+  "coll": [
+   "mourn the loss of",
+   "mourn the dead",
+   "mourn her death",
+   "mourn the passing of"
+  ]
+ },
+ {
+  "id": "cultivate",
+  "pos": [
+   "v"
+  ],
+  "vi": "trồng trọt; canh tác; vun đắp (quan hệ); trau dồi",
+  "coll": [
+   "cultivate crops",
+   "cultivate the land",
+   "cultivate relationships",
+   "cultivate a habit"
+  ]
+ },
+ {
+  "id": "englishman",
+  "pos": [
+   "n"
+  ],
+  "vi": "người đàn ông Anh; người Anh",
+  "coll": [
+   "a true Englishman",
+   "an Englishman abroad",
+   "a typical Englishman",
+   "an Englishman's home is his castle"
+  ]
+ },
+ {
+  "id": "stumble",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "vấp ngã; loạng choạng; nói vấp; tình cờ gặp",
+  "coll": [
+   "stumble across",
+   "stumble upon",
+   "stumble over his words",
+   "stumble and fall"
+  ]
+ },
+ {
+  "id": "cucumber",
+  "pos": [
+   "n"
+  ],
+  "vi": "dưa chuột; dưa leo",
+  "coll": [
+   "cucumber salad",
+   "sliced cucumber",
+   "cool as a cucumber",
+   "cucumber sandwiches"
+  ]
+ },
+ {
+  "id": "diver",
+  "pos": [
+   "n"
+  ],
+  "vi": "thợ lặn; vận động viên nhảy cầu",
+  "coll": [
+   "a scuba diver",
+   "deep-sea diver",
+   "pearl diver",
+   "rescue diver"
+  ]
+ },
+ {
+  "id": "embarrass",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm xấu hổ; làm ngượng; làm lúng túng",
+  "coll": [
+   "embarrass yourself",
+   "embarrass me in front of everyone",
+   "deeply embarrassed",
+   "embarrass the government"
+  ]
+ },
+ {
+  "id": "fortnight",
+  "pos": [
+   "n"
+  ],
+  "vi": "hai tuần lễ (cũ)",
+  "coll": [
+   "a fortnight ago",
+   "every fortnight",
+   "in a fortnight",
+   "a fortnight's holiday"
+  ]
+ },
+ {
+  "id": "persuasive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đầy thuyết phục; có sức thuyết phục",
+  "coll": [
+   "a persuasive argument",
+   "persuasive essay",
+   "highly persuasive",
+   "persuasive evidence"
+  ]
+ },
+ {
+  "id": "tumble",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "ngã nhào; lộn nhào; lao dốc (giá cả)",
+  "coll": [
+   "take a tumble",
+   "tumble down the stairs",
+   "prices tumbled",
+   "tumble dryer"
+  ]
+ },
+ {
+  "id": "arithmetic",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "số học; phép tính",
+  "coll": [
+   "mental arithmetic",
+   "simple arithmetic",
+   "do the arithmetic",
+   "arithmetic mean"
+  ]
+ },
+ {
+  "id": "chronological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "theo trình tự thời gian; thuộc niên đại",
+  "coll": [
+   "chronological order",
+   "chronological sequence",
+   "in chronological order",
+   "chronological age"
+  ]
+ },
+ {
+  "id": "indefinite article",
+  "pos": [
+   "n"
+  ],
+  "vi": "mạo từ không xác định",
+  "coll": [
+   "use the indefinite article",
+   "the indefinite article 'a'",
+   "an indefinite article before a vowel"
+  ]
+ },
+ {
+  "id": "modem",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thiết bị modem; bộ điều giải tín hiệu mạng",
+  "coll": [
+   "a cable modem",
+   "dial-up modem",
+   "wireless modem",
+   "connect via modem"
+  ]
+ },
+ {
+  "id": "newcomer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người mới đến; lính mới; người mới vào nghề",
+  "coll": [
+   "a newcomer to the city",
+   "a relative newcomer",
+   "newcomers to the sport",
+   "welcome newcomers"
+  ]
+ },
+ {
+  "id": "chest of drawers",
+  "pos": [
+   "n"
+  ],
+  "vi": "tủ ngăn kéo; tủ com-mốt",
+  "coll": [
+   "a wooden chest of drawers",
+   "an antique chest of drawers",
+   "the top of the chest of drawers"
+  ]
+ },
+ {
+  "id": "classify",
+  "pos": [
+   "v"
+  ],
+  "vi": "phân loại; xếp loại; liệt vào hàng mật",
+  "coll": [
+   "classify information",
+   "classified as endangered",
+   "classify documents",
+   "classify by type"
+  ]
+ },
+ {
+  "id": "graceful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "duyên dáng; uyển chuyển; thanh lịch",
+  "coll": [
+   "graceful movements",
+   "a graceful dancer",
+   "a graceful exit",
+   "graceful curves"
+  ]
+ },
+ {
+  "id": "misty",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mù sương; mờ ảo; nhòa lệ (mắt)",
+  "coll": [
+   "a misty morning",
+   "misty mountains",
+   "misty eyes",
+   "misty weather"
+  ]
+ },
+ {
+  "id": "rainforest",
+  "pos": [
+   "n"
+  ],
+  "vi": "rừng mưa nhiệt đới; rừng rậm",
+  "coll": [
+   "tropical rainforest",
+   "the Amazon rainforest",
+   "rainforest destruction",
+   "rainforest canopy"
+  ]
+ },
+ {
+  "id": "scatter",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "rắc, rải; phân tán; chạy tán loạn",
+  "coll": [
+   "scatter seeds",
+   "scattered across the floor",
+   "scatter in all directions",
+   "scattered showers"
+  ]
+ },
+ {
+  "id": "subconscious",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc tiềm thức; tiềm thức",
+  "coll": [
+   "the subconscious mind",
+   "on a subconscious level",
+   "a subconscious desire",
+   "buried in the subconscious"
+  ]
+ },
+ {
+  "id": "frying pan",
+  "pos": [
+   "n"
+  ],
+  "vi": "chảo rán; chảo chiên",
+  "coll": [
+   "a non-stick frying pan",
+   "heat the frying pan",
+   "a cast-iron frying pan",
+   "out of the frying pan into the fire"
+  ]
+ },
+ {
+  "id": "hearty",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nồng nhiệt; thịnh soạn (bữa ăn); khỏe khoắn",
+  "coll": [
+   "a hearty breakfast",
+   "a hearty welcome",
+   "a hearty laugh",
+   "a hearty appetite"
+  ]
+ },
+ {
+  "id": "jogging",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chạy bộ (thể dục); môn chạy bộ chậm",
+  "coll": [
+   "go jogging",
+   "jogging in the park",
+   "jogging shoes",
+   "a jogging trail"
+  ]
+ },
+ {
+  "id": "sparkle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ánh lấp lánh; lấp lánh, long lanh; vẻ rạng rỡ",
+  "coll": [
+   "her eyes sparkle",
+   "sparkle with excitement",
+   "add some sparkle",
+   "diamonds sparkle"
+  ]
+ },
+ {
+  "id": "firefighter",
+  "pos": [
+   "n"
+  ],
+  "vi": "lính cứu hỏa",
+  "coll": [
+   "a volunteer firefighter",
+   "firefighters battled the blaze",
+   "a trained firefighter",
+   "firefighters and paramedics"
+  ]
+ },
+ {
+  "id": "lessen",
+  "pos": [
+   "v"
+  ],
+  "vi": "giảm bớt; làm giảm; dịu đi",
+  "coll": [
+   "lessen the risk",
+   "lessen the impact",
+   "lessen the pain",
+   "lessen the burden"
+  ]
+ },
+ {
+  "id": "smoker",
+  "pos": [
+   "n"
+  ],
+  "vi": "người hút thuốc",
+  "coll": [
+   "a heavy smoker",
+   "a chain smoker",
+   "smokers and non-smokers",
+   "a lifelong smoker"
+  ]
+ },
+ {
+  "id": "stun",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm sững sờ; làm choáng váng; làm bất tỉnh",
+  "coll": [
+   "stunned by the news",
+   "a stun gun",
+   "stunned silence",
+   "stun the audience"
+  ]
+ },
+ {
+  "id": "tiring",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "gây mệt mỏi; làm kiệt sức",
+  "coll": [
+   "a tiring day",
+   "a tiring journey",
+   "physically tiring",
+   "long and tiring"
+  ]
+ },
+ {
+  "id": "toothpaste",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kem đánh răng",
+  "coll": [
+   "a tube of toothpaste",
+   "brush with toothpaste",
+   "squeeze the toothpaste",
+   "whitening toothpaste"
+  ]
+ },
+ {
+  "id": "unheard",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chưa từng nghe thấy; không được lắng nghe",
+  "coll": [
+   "unheard of",
+   "go unheard",
+   "previously unheard recordings",
+   "voices go unheard"
+  ]
+ },
+ {
+  "id": "biochemistry",
+  "pos": [
+   "n"
+  ],
+  "vi": "hóa sinh; hóa sinh học",
+  "coll": [
+   "study biochemistry",
+   "a biochemistry degree",
+   "biochemistry lab",
+   "molecular biochemistry"
+  ]
+ },
+ {
+  "id": "handshake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái bắt tay",
+  "coll": [
+   "a firm handshake",
+   "exchange handshakes",
+   "seal the deal with a handshake",
+   "a golden handshake"
+  ]
+ },
+ {
+  "id": "mischief",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trò tinh nghịch; sự nghịch ngợm; trò quậy phá",
+  "coll": [
+   "get into mischief",
+   "make mischief",
+   "full of mischief",
+   "a glint of mischief"
+  ]
+ },
+ {
+  "id": "souvenir",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quà lưu niệm; đồ kỷ niệm",
+  "coll": [
+   "a souvenir shop",
+   "buy souvenirs",
+   "a souvenir stall",
+   "keep it as a souvenir"
+  ]
+ },
+ {
+  "id": "unfairly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách bất công; không công bằng",
+  "coll": [
+   "treated unfairly",
+   "unfairly dismissed",
+   "unfairly criticized",
+   "unfairly punished"
+  ]
+ },
+ {
+  "id": "bedside",
+  "pos": [
+   "n"
+  ],
+  "vi": "cạnh giường; đầu giường",
+  "coll": [
+   "a bedside table",
+   "a bedside lamp",
+   "at his bedside",
+   "bedside manner"
+  ]
+ },
+ {
+  "id": "continual",
+  "pos": [
+   "adj"
+  ],
+  "vi": "liên tục; liên miên; không ngớt",
+  "coll": [
+   "continual improvement",
+   "continual interruptions",
+   "continual change",
+   "continual pain"
+  ]
+ },
+ {
+  "id": "farmland",
+  "pos": [
+   "n"
+  ],
+  "vi": "đất nông nghiệp; đất canh tác",
+  "coll": [
+   "fertile farmland",
+   "acres of farmland",
+   "prime farmland",
+   "surrounded by farmland"
+  ]
+ },
+ {
+  "id": "giggle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cười rúc rích; cười khúc khích; tiếng cười khúc khích",
+  "coll": [
+   "giggle nervously",
+   "get the giggles",
+   "a fit of giggles",
+   "the girls giggled"
+  ]
+ },
+ {
+  "id": "golfer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người chơi gôn",
+  "coll": [
+   "a professional golfer",
+   "a keen golfer",
+   "an amateur golfer",
+   "a top golfer"
+  ]
+ },
+ {
+  "id": "oily",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nhiều dầu; dính dầu mỡ; trơn nhớt; nịnh nọt",
+  "coll": [
+   "oily skin",
+   "oily hair",
+   "an oily rag",
+   "oily food"
+  ]
+ },
+ {
+  "id": "pleasantly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách dễ chịu; vui vẻ",
+  "coll": [
+   "pleasantly surprised",
+   "smile pleasantly",
+   "pleasantly warm",
+   "chat pleasantly"
+  ]
+ },
+ {
+  "id": "takeoff",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cất cánh; màn nhại, bắt chước",
+  "coll": [
+   "ready for takeoff",
+   "during takeoff",
+   "takeoff and landing",
+   "a smooth takeoff"
+  ]
+ },
+ {
+  "id": "westward",
+  "pos": [
+   "adv",
+   "adj",
+   "n"
+  ],
+  "vi": "về phía tây; hướng tây",
+  "coll": [
+   "head westward",
+   "travel westward",
+   "westward expansion",
+   "a westward journey"
+  ]
+ },
+ {
+  "id": "aspirin",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuốc aspirin; viên aspirin giảm đau",
+  "coll": [
+   "take an aspirin",
+   "an aspirin tablet",
+   "two aspirins",
+   "aspirin for headaches"
+  ]
+ },
+ {
+  "id": "burglar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ trộm đột nhập; đạo chích",
+  "coll": [
+   "a burglar alarm",
+   "a cat burglar",
+   "burglars broke in",
+   "catch a burglar"
+  ]
+ },
+ {
+  "id": "likeness",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự giống nhau; chân dung giống thật",
+  "coll": [
+   "a family likeness",
+   "a striking likeness",
+   "in his likeness",
+   "capture her likeness"
+  ]
+ },
+ {
+  "id": "annoyance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khó chịu; điều phiền toái; sự bực mình",
+  "coll": [
+   "much to my annoyance",
+   "a look of annoyance",
+   "a minor annoyance",
+   "express annoyance"
+  ]
+ },
+ {
+  "id": "glide",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lướt đi; trượt nhẹ; bay lượn",
+  "coll": [
+   "glide across the ice",
+   "glide through the water",
+   "birds gliding overhead",
+   "glide smoothly"
+  ]
+ },
+ {
+  "id": "mend",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "sửa chữa; vá, khâu lại; hàn gắn; bình phục",
+  "coll": [
+   "mend clothes",
+   "mend fences",
+   "on the mend",
+   "mend a broken heart"
+  ]
+ }
+]

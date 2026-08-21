@@ -1,0 +1,782 @@
+[
+ {
+  "id": "cock up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm hỏng bét",
+  "coll": [
+   "cock up the order",
+   "cock it up completely",
+   "cock up the arrangements",
+   "cock up an interview"
+  ]
+ },
+ {
+  "id": "break in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đột nhập; xen ngang; dùng cho quen",
+  "coll": [
+   "break in through a window",
+   "break in on a conversation",
+   "break in a new pair of shoes",
+   "burglars broke in"
+  ]
+ },
+ {
+  "id": "break out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bùng phát; vượt ngục; lôi ra dùng",
+  "coll": [
+   "war broke out",
+   "break out of prison",
+   "a fire broke out",
+   "break out the champagne"
+  ]
+ },
+ {
+  "id": "catch on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "trở nên thịnh hành; hiểu ra vấn đề",
+  "coll": [
+   "the trend caught on",
+   "catch on quickly",
+   "the idea never caught on",
+   "catch on to the joke"
+  ]
+ },
+ {
+  "id": "passed away",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đã qua đời; đã mất",
+  "coll": [
+   "he passed away peacefully",
+   "passed away last year",
+   "passed away at home",
+   "passed away after a long illness"
+  ]
+ },
+ {
+  "id": "bail out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "cứu trợ tài chính; bảo lãnh tại ngoại; nhảy dù thoát hiểm",
+  "coll": [
+   "bail out a bank",
+   "bail out a friend",
+   "bail out of a plane",
+   "bail out the water"
+  ]
+ },
+ {
+  "id": "beef up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tăng cường; củng cố thêm",
+  "coll": [
+   "beef up security",
+   "beef up the team",
+   "beef up the rules",
+   "beef up defences"
+  ]
+ },
+ {
+  "id": "cop on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tỉnh ra; chín chắn lên",
+  "coll": [
+   "cop on to yourself",
+   "cop on quickly",
+   "cop on to the truth",
+   "tell him to cop on"
+  ]
+ },
+ {
+  "id": "major in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "học chuyên ngành",
+  "coll": [
+   "major in economics",
+   "major in history",
+   "major in computer science",
+   "decide what to major in"
+  ]
+ },
+ {
+  "id": "round up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tập hợp lại; vây bắt; làm tròn lên",
+  "coll": [
+   "round up the cattle",
+   "round up suspects",
+   "round up to the nearest dollar",
+   "round up volunteers"
+  ]
+ },
+ {
+  "id": "round down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm tròn xuống",
+  "coll": [
+   "round down to the nearest whole number",
+   "round down the figure",
+   "round down the total",
+   "round down to two decimals"
+  ]
+ },
+ {
+  "id": "mess up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm hỏng bét; làm bừa bộn",
+  "coll": [
+   "mess up the exam",
+   "mess up your hair",
+   "mess up the schedule",
+   "really mess things up"
+  ]
+ },
+ {
+  "id": "get together",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "gặp mặt; tụ họp",
+  "coll": [
+   "get together for dinner",
+   "get together with friends",
+   "get together at the weekend",
+   "get the team together"
+  ]
+ },
+ {
+  "id": "pony up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chi tiền ra; nôn tiền",
+  "coll": [
+   "pony up the cash",
+   "pony up for the tickets",
+   "pony up the rent",
+   "pony up a large sum"
+  ]
+ },
+ {
+  "id": "flip off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "giơ ngón tay thối",
+  "coll": [
+   "flip off another driver",
+   "flip him off",
+   "flip off the camera",
+   "get flipped off"
+  ]
+ },
+ {
+  "id": "get along",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "hòa thuận; xoay xở sống được",
+  "coll": [
+   "get along with colleagues",
+   "get along fine",
+   "get along without help",
+   "we get along well"
+  ]
+ },
+ {
+  "id": "warming up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đang khởi động; đang ấm dần lên",
+  "coll": [
+   "warming up before the match",
+   "the engine is warming up",
+   "warming up the audience",
+   "the weather is warming up"
+  ]
+ },
+ {
+  "id": "beat off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đánh lui; đẩy lùi",
+  "coll": [
+   "beat off an attack",
+   "beat off the competition",
+   "beat off intruders",
+   "beat off a challenge"
+  ]
+ },
+ {
+  "id": "comment out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chú thích bỏ dòng lệnh",
+  "coll": [
+   "comment out a line",
+   "comment out the code",
+   "comment out the function",
+   "temporarily comment out"
+  ]
+ },
+ {
+  "id": "lay down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đặt xuống; buông vũ khí; đề ra quy tắc",
+  "coll": [
+   "lay down your weapons",
+   "lay down the rules",
+   "lay down the law",
+   "lay down a foundation"
+  ]
+ },
+ {
+  "id": "set up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "thiết lập; dựng lên; gài bẫy",
+  "coll": [
+   "set up a business",
+   "set up a meeting",
+   "set up the equipment",
+   "set someone up"
+  ]
+ },
+ {
+  "id": "lie down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nằm xuống; nằm nghỉ",
+  "coll": [
+   "lie down for a while",
+   "lie down on the bed",
+   "go and lie down",
+   "lie down and rest"
+  ]
+ },
+ {
+  "id": "branch out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "mở rộng sang lĩnh vực mới",
+  "coll": [
+   "branch out into publishing",
+   "branch out on your own",
+   "branch out into new markets",
+   "branch out from music"
+  ]
+ },
+ {
+  "id": "boil down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tóm lại là; cô đặc lại",
+  "coll": [
+   "it boils down to money",
+   "boil down the sauce",
+   "boil down to a simple choice",
+   "boil down the argument"
+  ]
+ },
+ {
+  "id": "flick off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "giơ ngón tay thối; búng cho rơi ra",
+  "coll": [
+   "flick him off",
+   "flick off the crumbs",
+   "flick off an insult",
+   "flick off the dust"
+  ]
+ },
+ {
+  "id": "chat up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tán tỉnh; bắt chuyện làm quen",
+  "coll": [
+   "chat up a girl",
+   "chat up the customers",
+   "try to chat someone up",
+   "chat up the boss"
+  ]
+ },
+ {
+  "id": "set apart",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm nổi bật khác biệt; dành riêng ra",
+  "coll": [
+   "set him apart from the rest",
+   "set apart a day",
+   "what sets it apart",
+   "set apart some money"
+  ]
+ },
+ {
+  "id": "shape up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tiến triển tốt lên; chấn chỉnh lại",
+  "coll": [
+   "shape up or ship out",
+   "shaping up nicely",
+   "shape up your act",
+   "the plan is shaping up"
+  ]
+ },
+ {
+  "id": "scarf down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ăn ngấu nghiến",
+  "coll": [
+   "scarf down a sandwich",
+   "scarf down breakfast",
+   "scarf down the pizza",
+   "scarf it down quickly"
+  ]
+ },
+ {
+  "id": "screw up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm hỏng bét; vặn chặt; nhăn dúm",
+  "coll": [
+   "screw up the interview",
+   "screw up your eyes",
+   "screw up a piece of paper",
+   "really screw things up"
+  ]
+ },
+ {
+  "id": "brush up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ôn lại; trau dồi lại",
+  "coll": [
+   "brush up your English",
+   "brush up on the rules",
+   "brush up before the exam",
+   "brush up your skills"
+  ]
+ },
+ {
+  "id": "crack down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "mạnh tay trấn áp; siết chặt xử lý",
+  "coll": [
+   "crack down on crime",
+   "crack down on speeding",
+   "crack down hard",
+   "crack down on tax evasion"
+  ]
+ },
+ {
+  "id": "dawn on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chợt nhận ra; vỡ lẽ ra",
+  "coll": [
+   "it dawned on me",
+   "the truth dawned on him",
+   "it slowly dawned on her",
+   "it finally dawned on us"
+  ]
+ },
+ {
+  "id": "cough up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "miễn cưỡng chi tiền; ho ra khạc ra",
+  "coll": [
+   "cough up the money",
+   "cough up blood",
+   "cough up the rent",
+   "cough up for the repairs"
+  ]
+ },
+ {
+  "id": "top off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đổ đầy thêm; hoàn tất trọn vẹn",
+  "coll": [
+   "top off the tank",
+   "top off your drink",
+   "top off the evening",
+   "top it off with dessert"
+  ]
+ },
+ {
+  "id": "sit out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "không tham gia; ngồi ngoài",
+  "coll": [
+   "sit out the game",
+   "sit out this round",
+   "sit out the dance",
+   "sit out the storm"
+  ]
+ },
+ {
+  "id": "start over",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm lại từ đầu",
+  "coll": [
+   "start over from scratch",
+   "have to start over",
+   "start over again",
+   "delete it and start over"
+  ]
+ },
+ {
+  "id": "cut in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chen ngang; cắt lời; tạt đầu xe",
+  "coll": [
+   "cut in on a conversation",
+   "cut in line",
+   "the car cut in front of me",
+   "cut in with a question"
+  ]
+ },
+ {
+  "id": "touch up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chỉnh sửa đôi chút; dặm lại",
+  "coll": [
+   "touch up a photo",
+   "touch up the paintwork",
+   "touch up your makeup",
+   "touch up the edges"
+  ]
+ },
+ {
+  "id": "fill in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "điền vào; thay thế tạm; nói cho biết",
+  "coll": [
+   "fill in a form",
+   "fill in the blanks",
+   "fill in for a colleague",
+   "fill me in on the details"
+  ]
+ },
+ {
+  "id": "give in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nhượng bộ; chịu thua; nộp bài",
+  "coll": [
+   "give in to pressure",
+   "refuse to give in",
+   "give in to temptation",
+   "give in your homework"
+  ]
+ },
+ {
+  "id": "catch up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bắt kịp; theo kịp; cập nhật tin tức",
+  "coll": [
+   "catch up with the leaders",
+   "catch up on sleep",
+   "catch up on work",
+   "catch up with an old friend"
+  ]
+ },
+ {
+  "id": "frame up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "vu oan dàn dựng; dựng khung nhà",
+  "coll": [
+   "frame up an innocent man",
+   "frame up the walls",
+   "be framed up for murder",
+   "frame up a shot"
+  ]
+ },
+ {
+  "id": "fold up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "gấp gọn lại; sập tiệm; gục xuống",
+  "coll": [
+   "fold up the map",
+   "fold up a chair",
+   "the company folded up",
+   "fold up the clothes"
+  ]
+ },
+ {
+  "id": "look into",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "điều tra; xem xét kỹ",
+  "coll": [
+   "look into the matter",
+   "look into a complaint",
+   "look into the possibility",
+   "promise to look into it"
+  ]
+ },
+ {
+  "id": "do in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "hạ sát; làm kiệt sức",
+  "coll": [
+   "do in an enemy",
+   "the climb did me in",
+   "feel done in",
+   "do himself in"
+  ]
+ },
+ {
+  "id": "look after",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chăm sóc; trông nom",
+  "coll": [
+   "look after the children",
+   "look after yourself",
+   "look after the house",
+   "look after a patient"
+  ]
+ },
+ {
+  "id": "buckle up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "thắt dây an toàn; chuẩn bị tinh thần",
+  "coll": [
+   "buckle up before driving",
+   "buckle up for safety",
+   "buckle up your seat belt",
+   "buckle up, it's going to be bumpy"
+  ]
+ },
+ {
+  "id": "carry off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm trót lọt; giành được; mang đi",
+  "coll": [
+   "carry off the prize",
+   "carry it off convincingly",
+   "carry off the role",
+   "carry off the trophy"
+  ]
+ },
+ {
+  "id": "shell out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chi bộn tiền; móc hầu bao",
+  "coll": [
+   "shell out for a new car",
+   "shell out a fortune",
+   "shell out hundreds of pounds",
+   "shell out for repairs"
+  ]
+ },
+ {
+  "id": "black out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ngất đi; mất điện tối om; bôi đen kiểm duyệt",
+  "coll": [
+   "black out from the heat",
+   "the city blacked out",
+   "black out a name",
+   "black out the windows"
+  ]
+ },
+ {
+  "id": "hash out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bàn bạc cho ra nhẽ; thống nhất chi tiết",
+  "coll": [
+   "hash out a deal",
+   "hash out the details",
+   "hash out their differences",
+   "hash out an agreement"
+  ]
+ },
+ {
+  "id": "lighten up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bớt căng thẳng; thoải mái hơn",
+  "coll": [
+   "lighten up a bit",
+   "lighten up the mood",
+   "tell him to lighten up",
+   "lighten up the atmosphere"
+  ]
+ },
+ {
+  "id": "straighten out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "giải quyết ổn thỏa; làm cho thẳng lại",
+  "coll": [
+   "straighten out a problem",
+   "straighten out the mess",
+   "straighten out your life",
+   "straighten out the wire"
+  ]
+ },
+ {
+  "id": "come across",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tình cờ gặp thấy; tạo cảm giác là",
+  "coll": [
+   "come across an old photo",
+   "come across as arrogant",
+   "come across a problem",
+   "come across well"
+  ]
+ },
+ {
+  "id": "suck up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nịnh bợ; hút vào",
+  "coll": [
+   "suck up to the boss",
+   "suck up the water",
+   "suck up the spill",
+   "stop sucking up"
+  ]
+ },
+ {
+  "id": "mop up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "lau sạch; dọn nốt; quét sạch tàn quân",
+  "coll": [
+   "mop up the spill",
+   "mop up the mess",
+   "mop up the sauce with bread",
+   "mop up remaining resistance"
+  ]
+ },
+ {
+  "id": "hit up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "liên hệ nhờ vả; ghé qua",
+  "coll": [
+   "hit me up later",
+   "hit up a friend for money",
+   "hit up the new restaurant",
+   "hit up the gym"
+  ]
+ },
+ {
+  "id": "knock together",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm vội cho xong; ráp tạm",
+  "coll": [
+   "knock together a meal",
+   "knock together a shed",
+   "knock something together quickly",
+   "knock together a report"
+  ]
+ },
+ {
+  "id": "take on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đảm nhận; tuyển thêm; đối đầu với",
+  "coll": [
+   "take on responsibility",
+   "take on new staff",
+   "take on a challenge",
+   "take on the champion"
+  ]
+ }
+]

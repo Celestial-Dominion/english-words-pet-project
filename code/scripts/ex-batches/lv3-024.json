@@ -1,0 +1,805 @@
+[
+ {
+  "id": "binge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn quá độ (ăn, uống); cày liên tục (phim); ăn uống vô độ",
+  "coll": [
+   "a drinking binge",
+   "binge eating",
+   "binge-watch a series",
+   "go on a binge"
+  ]
+ },
+ {
+  "id": "attendant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đi kèm, kèm theo; nhân viên phục vụ",
+  "coll": [
+   "attendant risks",
+   "attendant problems",
+   "a flight attendant",
+   "attendant circumstances"
+  ]
+ },
+ {
+  "id": "testosterone",
+  "pos": [
+   "n"
+  ],
+  "vi": "testosterone (nội tiết tố nam)",
+  "coll": [
+   "testosterone levels",
+   "low testosterone",
+   "testosterone replacement",
+   "high in testosterone"
+  ]
+ },
+ {
+  "id": "benchmark",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuẩn so sánh, mốc chuẩn; lấy làm chuẩn đối chiếu",
+  "coll": [
+   "set a benchmark",
+   "an industry benchmark",
+   "benchmark performance",
+   "a benchmark test"
+  ]
+ },
+ {
+  "id": "restless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bồn chồn, không yên; trằn trọc",
+  "coll": [
+   "grow restless",
+   "a restless night",
+   "restless legs",
+   "restless energy"
+  ]
+ },
+ {
+  "id": "cinematic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mang tính điện ảnh; đoạn phim cắt cảnh",
+  "coll": [
+   "a cinematic experience",
+   "cinematic style",
+   "cinematic techniques",
+   "a cinematic masterpiece"
+  ]
+ },
+ {
+  "id": "duh",
+  "pos": [
+   "intj"
+  ],
+  "vi": "biết rồi, hiển nhiên!; xì, đồ ngốc",
+  "coll": [
+   "well, duh",
+   "duh, obviously",
+   "no duh",
+   "uh, duh"
+  ]
+ },
+ {
+  "id": "backstage",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "hậu trường; ở phía sau sân khấu",
+  "coll": [
+   "go backstage",
+   "a backstage pass",
+   "the backstage area",
+   "backstage deals"
+  ]
+ },
+ {
+  "id": "cockpit",
+  "pos": [
+   "n"
+  ],
+  "vi": "buồng lái máy bay; nơi tranh chấp ác liệt",
+  "coll": [
+   "the aircraft cockpit",
+   "the cockpit crew",
+   "in the cockpit",
+   "a cockpit voice recorder"
+  ]
+ },
+ {
+  "id": "consul",
+  "pos": [
+   "n"
+  ],
+  "vi": "lãnh sự; quan chấp chính (La Mã)",
+  "coll": [
+   "the British consul",
+   "consul general",
+   "an honorary consul",
+   "the Roman consul"
+  ]
+ },
+ {
+  "id": "interestingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "điều thú vị là; một cách thú vị",
+  "coll": [
+   "interestingly enough",
+   "more interestingly",
+   "interestingly, however",
+   "interestingly named"
+  ]
+ },
+ {
+  "id": "referral",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giới thiệu chuyển tiếp; giấy chuyển viện",
+  "coll": [
+   "a referral letter",
+   "a doctor's referral",
+   "a referral fee",
+   "by referral only"
+  ]
+ },
+ {
+  "id": "brutality",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tàn bạo, dã man; hành vi tàn bạo",
+  "coll": [
+   "police brutality",
+   "sheer brutality",
+   "acts of brutality",
+   "the brutality of war"
+  ]
+ },
+ {
+  "id": "contender",
+  "pos": [
+   "n"
+  ],
+  "vi": "ứng viên nặng ký; đối thủ tranh tài",
+  "coll": [
+   "a serious contender",
+   "a title contender",
+   "a leading contender",
+   "a contender for the prize"
+  ]
+ },
+ {
+  "id": "yankee",
+  "pos": [
+   "n"
+  ],
+  "vi": "người Mỹ (nhất là miền Bắc); buồm mũi cao",
+  "coll": [
+   "a damn Yankee",
+   "Yankee ingenuity",
+   "Yankee soldiers",
+   "the New York Yankees"
+  ]
+ },
+ {
+  "id": "inherently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vốn dĩ, tự bản chất",
+  "coll": [
+   "inherently dangerous",
+   "inherently unstable",
+   "inherently flawed",
+   "inherently biased"
+  ]
+ },
+ {
+  "id": "plumbing",
+  "pos": [
+   "n"
+  ],
+  "vi": "hệ thống ống nước; nghề sửa ống nước",
+  "coll": [
+   "the plumbing system",
+   "plumbing problems",
+   "indoor plumbing",
+   "a plumbing repair"
+  ]
+ },
+ {
+  "id": "conditional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có điều kiện; câu điều kiện (ngữ pháp)",
+  "coll": [
+   "conditional approval",
+   "a conditional offer",
+   "conditional on the outcome",
+   "the conditional tense"
+  ]
+ },
+ {
+  "id": "calorie",
+  "pos": [
+   "n"
+  ],
+  "vi": "ca-lo (đơn vị năng lượng)",
+  "coll": [
+   "calorie intake",
+   "burn calories",
+   "count calories",
+   "a low-calorie diet"
+  ]
+ },
+ {
+  "id": "cynical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hoài nghi, yếm thế; vụ lợi trơ tráo",
+  "coll": [
+   "a cynical view",
+   "become cynical",
+   "deeply cynical",
+   "a cynical attempt"
+  ]
+ },
+ {
+  "id": "elastic",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "co giãn, đàn hồi; dây chun",
+  "coll": [
+   "an elastic band",
+   "an elastic waistband",
+   "elastic demand",
+   "highly elastic"
+  ]
+ },
+ {
+  "id": "abide",
+  "pos": [
+   "v"
+  ],
+  "vi": "chịu đựng, cam chịu; tuân theo; lưu lại",
+  "coll": [
+   "abide by the rules",
+   "can't abide him",
+   "abide by a decision",
+   "abide with me"
+  ]
+ },
+ {
+  "id": "fart",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đánh rắm, xì hơi; cái rắm",
+  "coll": [
+   "fart loudly",
+   "let out a fart",
+   "a silent fart",
+   "an old fart"
+  ]
+ },
+ {
+  "id": "accumulation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tích lũy, tích tụ; đống chất lại",
+  "coll": [
+   "the accumulation of wealth",
+   "snow accumulation",
+   "capital accumulation",
+   "an accumulation of dust"
+  ]
+ },
+ {
+  "id": "unreal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không có thực, phi thực; quá đỉnh, khó tin",
+  "coll": [
+   "seem unreal",
+   "an unreal world",
+   "absolutely unreal",
+   "unreal expectations"
+  ]
+ },
+ {
+  "id": "lumber",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gỗ xẻ; đi lặc lè, nặng nề; đồ đạc cũ lỉnh kỉnh",
+  "coll": [
+   "a lumber yard",
+   "cut lumber",
+   "lumber along",
+   "the lumber industry"
+  ]
+ },
+ {
+  "id": "typhoon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bão nhiệt đới, bão lớn",
+  "coll": [
+   "a powerful typhoon",
+   "the typhoon season",
+   "a typhoon warning",
+   "the typhoon hit the coast"
+  ]
+ },
+ {
+  "id": "fetish",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cuồng si (tình dục); vật tôn sùng, bùa thiêng",
+  "coll": [
+   "a foot fetish",
+   "a sexual fetish",
+   "make a fetish of",
+   "a fetish object"
+  ]
+ },
+ {
+  "id": "surreal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "siêu thực, kỳ ảo như mơ",
+  "coll": [
+   "a surreal experience",
+   "surreal humour",
+   "surreal images",
+   "feel surreal"
+  ]
+ },
+ {
+  "id": "fundraiser",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kiện gây quỹ; người gây quỹ",
+  "coll": [
+   "a charity fundraiser",
+   "hold a fundraiser",
+   "a fundraiser dinner",
+   "a professional fundraiser"
+  ]
+ },
+ {
+  "id": "avail",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "có ích, giúp ích; ích lợi, hiệu quả",
+  "coll": [
+   "to no avail",
+   "of little avail",
+   "avail yourself of",
+   "avail oneself of the opportunity"
+  ]
+ },
+ {
+  "id": "humility",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khiêm nhường, khiêm tốn",
+  "coll": [
+   "show humility",
+   "with great humility",
+   "a sense of humility",
+   "humility and grace"
+  ]
+ },
+ {
+  "id": "slender",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "mảnh mai, thon thả; ít ỏi, mong manh",
+  "coll": [
+   "a slender figure",
+   "slender fingers",
+   "a slender majority",
+   "a slender chance"
+  ]
+ },
+ {
+  "id": "commence",
+  "pos": [
+   "v"
+  ],
+  "vi": "bắt đầu, khởi sự (trang trọng)",
+  "coll": [
+   "commence proceedings",
+   "commence work",
+   "commence operations",
+   "commence at nine"
+  ]
+ },
+ {
+  "id": "superiority",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự vượt trội; thái độ tự cho hơn người",
+  "coll": [
+   "air superiority",
+   "a sense of superiority",
+   "military superiority",
+   "a superiority complex"
+  ]
+ },
+ {
+  "id": "resemblance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giống nhau, nét tương đồng",
+  "coll": [
+   "a striking resemblance",
+   "bear a resemblance to",
+   "a family resemblance",
+   "no resemblance at all"
+  ]
+ },
+ {
+  "id": "marital",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc hôn nhân, vợ chồng",
+  "coll": [
+   "marital status",
+   "marital problems",
+   "marital bliss",
+   "marital breakdown"
+  ]
+ },
+ {
+  "id": "multitude",
+  "pos": [
+   "n"
+  ],
+  "vi": "vô số, số đông; đám đông quần chúng",
+  "coll": [
+   "a multitude of reasons",
+   "a vast multitude",
+   "a multitude of choices",
+   "cover a multitude of sins"
+  ]
+ },
+ {
+  "id": "overhaul",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự đại tu, cải tổ; đại tu, cải tổ toàn diện",
+  "coll": [
+   "a complete overhaul",
+   "overhaul the system",
+   "an engine overhaul",
+   "a major overhaul"
+  ]
+ },
+ {
+  "id": "wicket",
+  "pos": [
+   "n"
+  ],
+  "vi": "cửa nhỏ, cửa phụ; quầy giao dịch; cầu môn (cricket)",
+  "coll": [
+   "take a wicket",
+   "lose a wicket",
+   "the wicket keeper",
+   "a ticket wicket"
+  ]
+ },
+ {
+  "id": "sucker",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ khờ dễ bị lừa; giác mút; chồi dại mọc từ gốc",
+  "coll": [
+   "a sucker for romance",
+   "a sucker punch",
+   "play someone for a sucker",
+   "the suckers on a tentacle"
+  ]
+ },
+ {
+  "id": "orbital",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc quỹ đạo; thuộc hốc mắt; đường vành đai",
+  "coll": [
+   "orbital velocity",
+   "an orbital station",
+   "the orbital bone",
+   "the orbital motorway"
+  ]
+ },
+ {
+  "id": "impeachment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự luận tội, phế truất; sự chất vấn tính xác thực",
+  "coll": [
+   "impeachment proceedings",
+   "face impeachment",
+   "an impeachment trial",
+   "articles of impeachment"
+  ]
+ },
+ {
+  "id": "geometric",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc hình học; theo cấp số nhân",
+  "coll": [
+   "geometric shapes",
+   "a geometric pattern",
+   "geometric progression",
+   "a geometric design"
+  ]
+ },
+ {
+  "id": "vaccination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tiêm chủng, tiêm vắc-xin",
+  "coll": [
+   "mass vaccination",
+   "a vaccination programme",
+   "vaccination rates",
+   "childhood vaccination"
+  ]
+ },
+ {
+  "id": "sermon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bài giảng đạo; bài lên lớp dài dòng",
+  "coll": [
+   "preach a sermon",
+   "deliver a sermon",
+   "a Sunday sermon",
+   "the Sermon on the Mount"
+  ]
+ },
+ {
+  "id": "gracious",
+  "pos": [
+   "adj",
+   "intj"
+  ],
+  "vi": "nhã nhặn, ân cần; độ lượng, khoan dung",
+  "coll": [
+   "a gracious host",
+   "gracious living",
+   "gracious in defeat",
+   "good gracious"
+  ]
+ },
+ {
+  "id": "gaga",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mê mệt, cuồng si; lú lẫn vì già",
+  "coll": [
+   "go gaga over someone",
+   "go gaga for",
+   "completely gaga",
+   "gaga about her"
+  ]
+ },
+ {
+  "id": "authoritarian",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "độc đoán, chuyên quyền; kẻ độc đoán",
+  "coll": [
+   "an authoritarian regime",
+   "an authoritarian leader",
+   "authoritarian rule",
+   "an authoritarian government"
+  ]
+ },
+ {
+  "id": "crusade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc Thập tự chinh; chiến dịch vận động quyết liệt",
+  "coll": [
+   "the First Crusade",
+   "a moral crusade",
+   "a crusade against corruption",
+   "launch a crusade"
+  ]
+ },
+ {
+  "id": "periodically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "định kỳ, theo chu kỳ; thỉnh thoảng lại",
+  "coll": [
+   "check periodically",
+   "periodically review",
+   "periodically updated",
+   "occur periodically"
+  ]
+ },
+ {
+  "id": "readiness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sẵn sàng; sự sẵn lòng",
+  "coll": [
+   "combat readiness",
+   "in readiness for",
+   "a state of readiness",
+   "readiness to help"
+  ]
+ },
+ {
+  "id": "cortex",
+  "pos": [
+   "n"
+  ],
+  "vi": "vỏ não; lớp vỏ ngoài (cơ quan)",
+  "coll": [
+   "the cerebral cortex",
+   "the prefrontal cortex",
+   "the visual cortex",
+   "the adrenal cortex"
+  ]
+ },
+ {
+  "id": "attacker",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ tấn công; tiền đạo",
+  "coll": [
+   "identify the attacker",
+   "the attacker fled",
+   "a lone attacker",
+   "a fast attacker"
+  ]
+ },
+ {
+  "id": "exposition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trình bày, thuyết minh; cuộc triển lãm",
+  "coll": [
+   "a clear exposition",
+   "an exposition of the theory",
+   "the world exposition",
+   "an art exposition"
+  ]
+ },
+ {
+  "id": "outgoing",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hướng ngoại, cởi mở; sắp mãn nhiệm; đi ra, gửi đi",
+  "coll": [
+   "an outgoing personality",
+   "the outgoing president",
+   "outgoing calls",
+   "outgoing mail"
+  ]
+ },
+ {
+  "id": "compatibility",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính tương thích; sự hợp nhau",
+  "coll": [
+   "backward compatibility",
+   "software compatibility",
+   "compatibility issues",
+   "compatibility with older devices"
+  ]
+ },
+ {
+  "id": "societal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc xã hội, mang tính xã hội",
+  "coll": [
+   "societal norms",
+   "societal change",
+   "societal pressure",
+   "societal values"
+  ]
+ },
+ {
+  "id": "brutally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách tàn bạo; thẳng thừng, phũ phàng",
+  "coll": [
+   "brutally murdered",
+   "brutally honest",
+   "brutally beaten",
+   "brutally cold"
+  ]
+ },
+ {
+  "id": "banquet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bữa tiệc lớn, yến tiệc",
+  "coll": [
+   "a wedding banquet",
+   "a state banquet",
+   "hold a banquet",
+   "a banquet hall"
+  ]
+ }
+]

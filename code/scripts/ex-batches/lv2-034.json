@@ -1,0 +1,806 @@
+[
+ {
+  "id": "suspiciously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách nghi ngờ; đáng ngờ",
+  "coll": [
+   "look suspiciously at",
+   "behave suspiciously",
+   "suspiciously similar",
+   "eye someone suspiciously"
+  ]
+ },
+ {
+  "id": "tiresome",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phiền toái; chán ngắt; gây mệt mỏi",
+  "coll": [
+   "a tiresome task",
+   "tiresome and repetitive",
+   "a tiresome journey",
+   "become tiresome"
+  ]
+ },
+ {
+  "id": "unmistakable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không thể nhầm lẫn; rõ mồn một",
+  "coll": [
+   "an unmistakable sign",
+   "an unmistakable voice",
+   "an unmistakable smell",
+   "quite unmistakable"
+  ]
+ },
+ {
+  "id": "abnormally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách bất thường; khác thường",
+  "coll": [
+   "abnormally high",
+   "abnormally low",
+   "abnormally large",
+   "behave abnormally"
+  ]
+ },
+ {
+  "id": "circuitry",
+  "pos": [
+   "n"
+  ],
+  "vi": "hệ mạch điện; mạch điện tử",
+  "coll": [
+   "electronic circuitry",
+   "complex circuitry",
+   "the circuitry of the brain",
+   "internal circuitry"
+  ]
+ },
+ {
+  "id": "compress",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nén; ép chặt; gạc chườm",
+  "coll": [
+   "compress a file",
+   "compress the data",
+   "compress air",
+   "a cold compress"
+  ]
+ },
+ {
+  "id": "emphatically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách dứt khoát; nhấn mạnh",
+  "coll": [
+   "deny emphatically",
+   "state emphatically",
+   "emphatically reject",
+   "emphatically no"
+  ]
+ },
+ {
+  "id": "humanist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nhà nhân văn; theo chủ nghĩa nhân văn",
+  "coll": [
+   "a Renaissance humanist",
+   "humanist values",
+   "a secular humanist",
+   "the humanist tradition"
+  ]
+ },
+ {
+  "id": "lawmaker",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà lập pháp; nghị sĩ",
+  "coll": [
+   "state lawmakers",
+   "lawmakers voted",
+   "urge lawmakers",
+   "senior lawmakers"
+  ]
+ },
+ {
+  "id": "mogul",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ông trùm; đại gia; mô tuyết (trượt tuyết)",
+  "coll": [
+   "a media mogul",
+   "a business mogul",
+   "a movie mogul",
+   "an oil mogul"
+  ]
+ },
+ {
+  "id": "motorist",
+  "pos": [
+   "n"
+  ],
+  "vi": "người lái ô tô; tài xế",
+  "coll": [
+   "warn motorists",
+   "motorists are advised",
+   "a passing motorist",
+   "motorists face delays"
+  ]
+ },
+ {
+  "id": "nomad",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "dân du mục; người nay đây mai đó",
+  "coll": [
+   "a desert nomad",
+   "nomads wander",
+   "a digital nomad",
+   "nomad tribes"
+  ]
+ },
+ {
+  "id": "purposeful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có mục đích; quyết đoán",
+  "coll": [
+   "a purposeful stride",
+   "purposeful action",
+   "look purposeful",
+   "purposeful activity"
+  ]
+ },
+ {
+  "id": "southward",
+  "pos": [
+   "adv",
+   "n",
+   "adj"
+  ],
+  "vi": "về phía nam; hướng nam",
+  "coll": [
+   "head southward",
+   "travel southward",
+   "a southward direction",
+   "move southward"
+  ]
+ },
+ {
+  "id": "yawn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngáp; cái ngáp",
+  "coll": [
+   "stifle a yawn",
+   "yawn loudly",
+   "a big yawn",
+   "yawn widely"
+  ]
+ },
+ {
+  "id": "beagle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chó beagle (giống chó săn nhỏ)",
+  "coll": [
+   "a beagle puppy",
+   "a pet beagle",
+   "walk the beagle",
+   "the beagle breed"
+  ]
+ },
+ {
+  "id": "flutter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vỗ cánh; phấp phới; rung rinh",
+  "coll": [
+   "flutter in the breeze",
+   "butterflies flutter",
+   "her eyelashes fluttered",
+   "a flutter of wings"
+  ]
+ },
+ {
+  "id": "hatching",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự nở trứng; đàn con mới nở; nét gạch chéo (trong bản vẽ)",
+  "coll": [
+   "egg hatching",
+   "hatching season",
+   "cross hatching",
+   "hatching eggs"
+  ]
+ },
+ {
+  "id": "islander",
+  "pos": [
+   "n"
+  ],
+  "vi": "dân đảo; người sống trên đảo",
+  "coll": [
+   "Pacific Islander",
+   "local islanders",
+   "fellow islanders",
+   "native islander"
+  ]
+ },
+ {
+  "id": "stimulant",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chất kích thích; thứ khích lệ",
+  "coll": [
+   "mild stimulant",
+   "powerful stimulant",
+   "natural stimulant",
+   "stimulant drug"
+  ]
+ },
+ {
+  "id": "sympathize",
+  "pos": [
+   "v"
+  ],
+  "vi": "thông cảm; đồng cảm; ủng hộ",
+  "coll": [
+   "sympathize with someone",
+   "deeply sympathize",
+   "sympathize with the victims",
+   "sympathize with the cause"
+  ]
+ },
+ {
+  "id": "thirdly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thứ ba là; ba là",
+  "coll": [
+   "firstly, secondly, thirdly",
+   "and thirdly",
+   "thirdly and finally"
+  ]
+ },
+ {
+  "id": "vibrate",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "rung; rung động; ngân vang",
+  "coll": [
+   "vibrate gently",
+   "the phone vibrates",
+   "set to vibrate",
+   "vibrate with excitement"
+  ]
+ },
+ {
+  "id": "worsen",
+  "pos": [
+   "v"
+  ],
+  "vi": "xấu đi; trầm trọng thêm; làm tệ hơn",
+  "coll": [
+   "conditions worsen",
+   "worsen the situation",
+   "symptoms worsen",
+   "rapidly worsen"
+  ]
+ },
+ {
+  "id": "delicately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhẹ nhàng; tinh tế; khéo léo",
+  "coll": [
+   "delicately balanced",
+   "delicately handle",
+   "delicately flavoured",
+   "delicately carved"
+  ]
+ },
+ {
+  "id": "fearsome",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng sợ; dữ tợn; ghê gớm",
+  "coll": [
+   "fearsome reputation",
+   "fearsome opponent",
+   "fearsome creature",
+   "look fearsome"
+  ]
+ },
+ {
+  "id": "flax",
+  "pos": [
+   "n"
+  ],
+  "vi": "cây lanh; sợi lanh",
+  "coll": [
+   "flax seed",
+   "flax fibre",
+   "grow flax",
+   "flax plant"
+  ]
+ },
+ {
+  "id": "glorify",
+  "pos": [
+   "v"
+  ],
+  "vi": "tôn vinh; ca tụng; thổi phồng",
+  "coll": [
+   "glorify violence",
+   "glorify war",
+   "glorify God",
+   "glorify the past"
+  ]
+ },
+ {
+  "id": "leisurely",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "thong thả; nhàn nhã; ung dung",
+  "coll": [
+   "leisurely pace",
+   "leisurely stroll",
+   "leisurely breakfast",
+   "at a leisurely speed"
+  ]
+ },
+ {
+  "id": "respiration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hô hấp; hơi thở",
+  "coll": [
+   "artificial respiration",
+   "cellular respiration",
+   "rate of respiration",
+   "aerobic respiration"
+  ]
+ },
+ {
+  "id": "standstill",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đình trệ; tình trạng ngưng trệ",
+  "coll": [
+   "come to a standstill",
+   "at a standstill",
+   "bring to a standstill",
+   "grind to a standstill"
+  ]
+ },
+ {
+  "id": "tremor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự run rẩy; cơn địa chấn nhẹ; sự rung",
+  "coll": [
+   "slight tremor",
+   "earth tremor",
+   "a tremor in his voice",
+   "hand tremor"
+  ]
+ },
+ {
+  "id": "unsatisfactory",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không thỏa đáng; không đạt yêu cầu",
+  "coll": [
+   "unsatisfactory result",
+   "highly unsatisfactory",
+   "unsatisfactory performance",
+   "unsatisfactory explanation"
+  ]
+ },
+ {
+  "id": "bookmark",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dấu trang; đánh dấu trang",
+  "coll": [
+   "add a bookmark",
+   "bookmark a page",
+   "bookmark a website",
+   "browser bookmarks"
+  ]
+ },
+ {
+  "id": "impossibility",
+  "pos": [
+   "n"
+  ],
+  "vi": "điều không thể; sự bất khả thi",
+  "coll": [
+   "a physical impossibility",
+   "sheer impossibility",
+   "the impossibility of the task",
+   "practical impossibility"
+  ]
+ },
+ {
+  "id": "penicillin",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuốc penicillin; kháng sinh penicillin",
+  "coll": [
+   "allergic to penicillin",
+   "a course of penicillin",
+   "discover penicillin",
+   "penicillin injection"
+  ]
+ },
+ {
+  "id": "strangle",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bóp cổ; siết cổ; bóp nghẹt, kìm hãm",
+  "coll": [
+   "strangle someone",
+   "strangle to death",
+   "strangle a cry",
+   "strangle the economy"
+  ]
+ },
+ {
+  "id": "desolation",
+  "pos": [
+   "n"
+  ],
+  "vi": "cảnh hoang tàn; nỗi cô quạnh",
+  "coll": [
+   "a scene of desolation",
+   "utter desolation",
+   "a sense of desolation",
+   "leave desolation behind"
+  ]
+ },
+ {
+  "id": "incurable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không chữa được; nan y; không sửa được",
+  "coll": [
+   "incurable disease",
+   "incurable illness",
+   "incurable cancer",
+   "an incurable romantic"
+  ]
+ },
+ {
+  "id": "modernize",
+  "pos": [
+   "v"
+  ],
+  "vi": "hiện đại hóa; đổi mới",
+  "coll": [
+   "modernize the economy",
+   "modernize equipment",
+   "modernize the system",
+   "modernize infrastructure"
+  ]
+ },
+ {
+  "id": "nourishment",
+  "pos": [
+   "n"
+  ],
+  "vi": "chất dinh dưỡng; sự nuôi dưỡng",
+  "coll": [
+   "provide nourishment",
+   "spiritual nourishment",
+   "lack of nourishment",
+   "a source of nourishment"
+  ]
+ },
+ {
+  "id": "petrified",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sợ chết khiếp; hóa đá",
+  "coll": [
+   "petrified with fear",
+   "absolutely petrified",
+   "petrified wood",
+   "petrified forest"
+  ]
+ },
+ {
+  "id": "showbiz",
+  "pos": [
+   "n"
+  ],
+  "vi": "làng giải trí; ngành giải trí",
+  "coll": [
+   "the showbiz world",
+   "showbiz career",
+   "showbiz gossip",
+   "showbiz industry"
+  ]
+ },
+ {
+  "id": "stingy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "keo kiệt; bủn xỉn; ít ỏi",
+  "coll": [
+   "stingy with money",
+   "a stingy portion",
+   "don't be stingy",
+   "a stingy tipper"
+  ]
+ },
+ {
+  "id": "toil",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lao động cực nhọc; sự khổ nhọc",
+  "coll": [
+   "toil away",
+   "endless toil",
+   "toil in the fields",
+   "years of toil"
+  ]
+ },
+ {
+  "id": "trusty",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đáng tin cậy; trung thành",
+  "coll": [
+   "trusty old car",
+   "trusty sidekick",
+   "trusty steed",
+   "trusty companion"
+  ]
+ },
+ {
+  "id": "vigor",
+  "pos": [
+   "n"
+  ],
+  "vi": "sức sống; sinh lực; sự hăng hái",
+  "coll": [
+   "youthful vigor",
+   "with renewed vigor",
+   "physical vigor",
+   "attack with vigor"
+  ]
+ },
+ {
+  "id": "fantastically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cực kỳ; tuyệt vời; một cách kỳ lạ",
+  "coll": [
+   "fantastically wealthy",
+   "fantastically successful",
+   "fantastically expensive",
+   "fantastically well"
+  ]
+ },
+ {
+  "id": "fluency",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lưu loát; sự trôi chảy; sự thành thạo",
+  "coll": [
+   "fluency in English",
+   "improve fluency",
+   "reading fluency",
+   "speak with fluency"
+  ]
+ },
+ {
+  "id": "kerosene",
+  "pos": [
+   "n"
+  ],
+  "vi": "dầu hỏa; dầu lửa",
+  "coll": [
+   "kerosene lamp",
+   "kerosene heater",
+   "kerosene stove",
+   "a gallon of kerosene"
+  ]
+ },
+ {
+  "id": "nobleman",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà quý tộc",
+  "coll": [
+   "a wealthy nobleman",
+   "a French nobleman",
+   "a young nobleman",
+   "the nobleman's estate"
+  ]
+ },
+ {
+  "id": "optimist",
+  "pos": [
+   "n"
+  ],
+  "vi": "người lạc quan",
+  "coll": [
+   "eternal optimist",
+   "born optimist",
+   "incurable optimist",
+   "cautious optimist"
+  ]
+ },
+ {
+  "id": "outwardly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "bề ngoài; ra phía ngoài",
+  "coll": [
+   "outwardly calm",
+   "outwardly confident",
+   "outwardly similar",
+   "outwardly appear fine"
+  ]
+ },
+ {
+  "id": "adorn",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "trang trí; tô điểm",
+  "coll": [
+   "adorn the walls",
+   "adorned with flowers",
+   "adorn with jewels",
+   "richly adorned"
+  ]
+ },
+ {
+  "id": "eyelid",
+  "pos": [
+   "n"
+  ],
+  "vi": "mí mắt",
+  "coll": [
+   "upper eyelid",
+   "lower eyelid",
+   "heavy eyelids",
+   "droopy eyelids"
+  ]
+ },
+ {
+  "id": "inanimate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "vô tri; không có sự sống",
+  "coll": [
+   "inanimate object",
+   "inanimate matter",
+   "inanimate nouns",
+   "animate and inanimate"
+  ]
+ },
+ {
+  "id": "inflate",
+  "pos": [
+   "v"
+  ],
+  "vi": "bơm phồng; thổi phồng; đẩy giá lên",
+  "coll": [
+   "inflate a balloon",
+   "inflate the tyres",
+   "inflate prices",
+   "inflate the figures"
+  ]
+ },
+ {
+  "id": "legislate",
+  "pos": [
+   "v"
+  ],
+  "vi": "ban hành luật; lập pháp",
+  "coll": [
+   "legislate against",
+   "legislate for change",
+   "the power to legislate",
+   "legislate on the issue"
+  ]
+ },
+ {
+  "id": "mutton",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thịt cừu",
+  "coll": [
+   "leg of mutton",
+   "roast mutton",
+   "mutton stew",
+   "mutton curry"
+  ]
+ },
+ {
+  "id": "stanza",
+  "pos": [
+   "n"
+  ],
+  "vi": "khổ thơ; đoạn thơ",
+  "coll": [
+   "opening stanza",
+   "final stanza",
+   "the first stanza",
+   "four-line stanza"
+  ]
+ }
+]

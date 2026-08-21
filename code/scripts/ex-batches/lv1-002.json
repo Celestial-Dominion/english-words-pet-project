@@ -1,0 +1,868 @@
+[
+ {
+  "id": "financial",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tài chính; về tài chính",
+  "coll": [
+   "financial support",
+   "financial crisis",
+   "financial problems",
+   "financial services",
+   "financial year"
+  ]
+ },
+ {
+  "id": "legal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hợp pháp; pháp lý",
+  "coll": [
+   "legal advice",
+   "legal action",
+   "legal system",
+   "perfectly legal",
+   "legal rights"
+  ]
+ },
+ {
+  "id": "race",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc đua; chủng tộc; chạy đua",
+  "coll": [
+   "horse race",
+   "win the race",
+   "race against time",
+   "the human race",
+   "arms race"
+  ]
+ },
+ {
+  "id": "union",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "công đoàn; liên minh; sự kết hợp",
+  "coll": [
+   "trade union",
+   "the European Union",
+   "labor union",
+   "student union"
+  ]
+ },
+ {
+  "id": "career",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sự nghiệp; nghề nghiệp",
+  "coll": [
+   "career path",
+   "successful career",
+   "pursue a career",
+   "career opportunities",
+   "career change"
+  ]
+ },
+ {
+  "id": "loss",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự mất mát; khoản lỗ; thất bại",
+  "coll": [
+   "weight loss",
+   "job losses",
+   "memory loss",
+   "at a loss",
+   "loss of income"
+  ]
+ },
+ {
+  "id": "army",
+  "pos": [
+   "n"
+  ],
+  "vi": "quân đội; lục quân; đoàn quân",
+  "coll": [
+   "join the army",
+   "army officer",
+   "army base",
+   "a volunteer army"
+  ]
+ },
+ {
+  "id": "huge",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khổng lồ; to lớn",
+  "coll": [
+   "huge amount",
+   "huge success",
+   "huge difference",
+   "huge fan",
+   "huge crowd"
+  ]
+ },
+ {
+  "id": "access",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quyền truy cập; lối vào; truy cập",
+  "coll": [
+   "internet access",
+   "access to information",
+   "easy access",
+   "gain access to",
+   "wheelchair access"
+  ]
+ },
+ {
+  "id": "risk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rủi ro; nguy cơ; liều",
+  "coll": [
+   "take a risk",
+   "at risk",
+   "high risk",
+   "risk factor",
+   "risk your life"
+  ]
+ },
+ {
+  "id": "self-service",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tự phục vụ",
+  "coll": [
+   "self-service checkout",
+   "self-service restaurant",
+   "self-service petrol station"
+  ]
+ },
+ {
+  "id": "district",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "quận, huyện; khu",
+  "coll": [
+   "school district",
+   "business district",
+   "district court",
+   "financial district",
+   "shopping district"
+  ]
+ },
+ {
+  "id": "percent",
+  "pos": [
+   "n",
+   "adv",
+   "phr"
+  ],
+  "vi": "phần trăm",
+  "coll": [
+   "fifty percent",
+   "a hundred percent",
+   "percent of the population",
+   "ten percent increase"
+  ]
+ },
+ {
+  "id": "growth",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tăng trưởng; sự phát triển",
+  "coll": [
+   "economic growth",
+   "population growth",
+   "growth rate",
+   "rapid growth"
+  ]
+ },
+ {
+  "id": "pain",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn đau; nỗi đau",
+  "coll": [
+   "back pain",
+   "chest pain",
+   "in pain",
+   "pain relief",
+   "a pain in the neck"
+  ]
+ },
+ {
+  "id": "respect",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "sự tôn trọng; tôn trọng; khía cạnh",
+  "coll": [
+   "show respect",
+   "earn respect",
+   "respect for others",
+   "with all due respect",
+   "in this respect"
+  ]
+ },
+ {
+  "id": "standard",
+  "pos": [
+   "adj",
+   "n",
+   "intj"
+  ],
+  "vi": "tiêu chuẩn; chuẩn mực; chuẩn",
+  "coll": [
+   "high standards",
+   "standard of living",
+   "safety standards",
+   "meet the standard",
+   "standard procedure"
+  ]
+ },
+ {
+  "id": "charge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phí; cáo buộc; sạc pin; phụ trách",
+  "coll": [
+   "free of charge",
+   "in charge of",
+   "charge a fee",
+   "charge the battery",
+   "criminal charges"
+  ]
+ },
+ {
+  "id": "hand-held",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cầm tay",
+  "coll": [
+   "hand-held device",
+   "hand-held camera",
+   "hand-held games console"
+  ]
+ },
+ {
+  "id": "limited",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "hạn chế; có hạn",
+  "coll": [
+   "limited time",
+   "limited edition",
+   "limited resources",
+   "limited space",
+   "limited liability company"
+  ]
+ },
+ {
+  "id": "network",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mạng lưới; mạng; giao lưu kết nối",
+  "coll": [
+   "social network",
+   "computer network",
+   "rail network",
+   "network of contacts",
+   "television network"
+  ]
+ },
+ {
+  "id": "provided",
+  "pos": [
+   "conj",
+   "v"
+  ],
+  "vi": "miễn là; với điều kiện; được cung cấp",
+  "coll": [
+   "provided that",
+   "meals are provided",
+   "services provided",
+   "provided with"
+  ]
+ },
+ {
+  "id": "via",
+  "pos": [
+   "prep",
+   "n",
+   "intj"
+  ],
+  "vi": "qua; thông qua; theo đường",
+  "coll": [
+   "via email",
+   "via the Internet",
+   "fly via Bangkok",
+   "via satellite"
+  ]
+ },
+ {
+  "id": "anti",
+  "pos": [
+   "adj",
+   "n",
+   "prep"
+  ],
+  "vi": "chống; phản đối",
+  "coll": [
+   "anti-war protests",
+   "anti-government demonstrations",
+   "anti-social behaviour"
+  ]
+ },
+ {
+  "id": "beat",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "đánh bại; đánh, đập; nhịp",
+  "coll": [
+   "beat the record",
+   "beat eggs",
+   "the beat of the drum",
+   "miss a beat",
+   "beat the traffic"
+  ]
+ },
+ {
+  "id": "potential",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tiềm năng; khả năng",
+  "coll": [
+   "potential customers",
+   "full potential",
+   "potential risk",
+   "reach your potential",
+   "potential danger"
+  ]
+ },
+ {
+  "id": "treatment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự điều trị; cách đối xử; sự xử lý",
+  "coll": [
+   "medical treatment",
+   "treatment for cancer",
+   "equal treatment",
+   "water treatment",
+   "special treatment"
+  ]
+ },
+ {
+  "id": "completely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hoàn toàn",
+  "coll": [
+   "completely different",
+   "completely free",
+   "completely forgot",
+   "completely destroyed"
+  ]
+ },
+ {
+  "id": "content",
+  "pos": [
+   "adj",
+   "n",
+   "intj",
+   "v"
+  ],
+  "vi": "nội dung; hài lòng",
+  "coll": [
+   "table of contents",
+   "online content",
+   "content of the letter",
+   "content with life"
+  ]
+ },
+ {
+  "id": "despite",
+  "pos": [
+   "prep",
+   "n",
+   "v"
+  ],
+  "vi": "mặc dù; bất chấp",
+  "coll": [
+   "despite the fact that",
+   "despite the rain",
+   "despite everything",
+   "despite difficulties"
+  ]
+ },
+ {
+  "id": "individual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cá nhân; riêng lẻ; người",
+  "coll": [
+   "individual needs",
+   "each individual",
+   "individual rights",
+   "private individuals",
+   "individual attention"
+  ]
+ },
+ {
+  "id": "leading",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "hàng đầu; dẫn đầu",
+  "coll": [
+   "leading role",
+   "leading company",
+   "leading cause of death",
+   "leading expert",
+   "leading position"
+  ]
+ },
+ {
+  "id": "previous",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trước; trước đây",
+  "coll": [
+   "previous experience",
+   "the previous year",
+   "previous owner",
+   "previous studies"
+  ]
+ },
+ {
+  "id": "region",
+  "pos": [
+   "n"
+  ],
+  "vi": "vùng; khu vực; miền",
+  "coll": [
+   "coastal region",
+   "remote regions",
+   "in the region of",
+   "border region"
+  ]
+ },
+ {
+  "id": "sort",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "loại; kiểu; sắp xếp; phân loại",
+  "coll": [
+   "sort of",
+   "all sorts of",
+   "sort out",
+   "sort by name",
+   "some sort of"
+  ]
+ },
+ {
+  "id": "air force",
+  "pos": [
+   "n"
+  ],
+  "vi": "không quân",
+  "coll": [
+   "air force base",
+   "join the air force",
+   "the Royal Air Force",
+   "air force pilot"
+  ]
+ },
+ {
+  "id": "link",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "liên kết; mối liên hệ; kết nối",
+  "coll": [
+   "click the link",
+   "link between smoking and cancer",
+   "close links",
+   "rail link",
+   "link to the website"
+  ]
+ },
+ {
+  "id": "next door",
+  "pos": [
+   "adv",
+   "adj",
+   "prep"
+  ],
+  "vi": "bên cạnh; nhà bên",
+  "coll": [
+   "live next door",
+   "the girl next door",
+   "next door to the bank",
+   "move next door"
+  ]
+ },
+ {
+  "id": "next-door",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "sát vách; bên cạnh",
+  "coll": [
+   "next-door neighbour",
+   "next-door apartment",
+   "the next-door room"
+  ]
+ },
+ {
+  "id": "positive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tích cực; khẳng định; dương tính",
+  "coll": [
+   "positive attitude",
+   "positive thinking",
+   "positive result",
+   "test positive",
+   "positive feedback"
+  ]
+ },
+ {
+  "id": "throughout",
+  "pos": [
+   "prep",
+   "adv"
+  ],
+  "vi": "khắp; suốt",
+  "coll": [
+   "throughout the world",
+   "throughout the year",
+   "throughout history",
+   "throughout the day"
+  ]
+ },
+ {
+  "id": "absolutely",
+  "pos": [
+   "adv",
+   "intj"
+  ],
+  "vi": "hoàn toàn; tuyệt đối; chắc chắn rồi",
+  "coll": [
+   "absolutely right",
+   "absolutely amazing",
+   "absolutely not",
+   "absolutely necessary"
+  ]
+ },
+ {
+  "id": "immediately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngay lập tức; ngay",
+  "coll": [
+   "leave immediately",
+   "immediately after",
+   "respond immediately",
+   "immediately obvious"
+  ]
+ },
+ {
+  "id": "unless",
+  "pos": [
+   "conj"
+  ],
+  "vi": "trừ khi; nếu không",
+  "coll": [
+   "unless otherwise stated",
+   "unless absolutely necessary",
+   "not unless"
+  ]
+ },
+ {
+  "id": "construction",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc xây dựng; công trình; cấu trúc",
+  "coll": [
+   "under construction",
+   "construction site",
+   "construction worker",
+   "construction industry"
+  ]
+ },
+ {
+  "id": "income",
+  "pos": [
+   "n"
+  ],
+  "vi": "thu nhập",
+  "coll": [
+   "low income",
+   "income tax",
+   "source of income",
+   "annual income",
+   "household income"
+  ]
+ },
+ {
+  "id": "justice",
+  "pos": [
+   "n"
+  ],
+  "vi": "công lý; sự công bằng; thẩm phán",
+  "coll": [
+   "social justice",
+   "bring to justice",
+   "criminal justice system",
+   "justice for the victims"
+  ]
+ },
+ {
+  "id": "movement",
+  "pos": [
+   "n"
+  ],
+  "vi": "chuyển động; phong trào; sự di chuyển",
+  "coll": [
+   "political movement",
+   "freedom of movement",
+   "sudden movement",
+   "civil rights movement"
+  ]
+ },
+ {
+  "id": "safety",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự an toàn",
+  "coll": [
+   "health and safety",
+   "road safety",
+   "safety measures",
+   "safety first",
+   "for your own safety"
+  ]
+ },
+ {
+  "id": "definitely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chắc chắn; nhất định",
+  "coll": [
+   "definitely worth it",
+   "definitely not",
+   "will definitely come",
+   "most definitely"
+  ]
+ },
+ {
+  "id": "particularly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đặc biệt là; nhất là",
+  "coll": [
+   "particularly important",
+   "particularly difficult",
+   "not particularly",
+   "particularly useful"
+  ]
+ },
+ {
+  "id": "generally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nói chung; thường thường",
+  "coll": [
+   "generally speaking",
+   "generally accepted",
+   "generally believed",
+   "generally used"
+  ]
+ },
+ {
+  "id": "global",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "toàn cầu",
+  "coll": [
+   "global warming",
+   "global economy",
+   "global market",
+   "on a global scale",
+   "global village"
+  ]
+ },
+ {
+  "id": "annual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hàng năm; thường niên",
+  "coll": [
+   "annual report",
+   "annual meeting",
+   "annual income",
+   "annual event",
+   "annual growth"
+  ]
+ },
+ {
+  "id": "battle",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "trận đánh; cuộc chiến; chiến đấu",
+  "coll": [
+   "win the battle",
+   "legal battle",
+   "battle against cancer",
+   "fierce battle",
+   "battle of wills"
+  ]
+ },
+ {
+  "id": "insurance",
+  "pos": [
+   "n"
+  ],
+  "vi": "bảo hiểm",
+  "coll": [
+   "health insurance",
+   "car insurance",
+   "life insurance",
+   "insurance company",
+   "insurance policy"
+  ]
+ },
+ {
+  "id": "majority",
+  "pos": [
+   "n"
+  ],
+  "vi": "đa số; phần lớn",
+  "coll": [
+   "the vast majority",
+   "majority of people",
+   "majority vote",
+   "in the majority"
+  ]
+ },
+ {
+  "id": "opening",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sự khai mạc; lỗ hổng; mở đầu; vị trí trống",
+  "coll": [
+   "opening ceremony",
+   "grand opening",
+   "opening hours",
+   "job opening",
+   "opening night"
+  ]
+ },
+ {
+  "id": "sports",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thể thao; các môn thể thao",
+  "coll": [
+   "sports car",
+   "sports team",
+   "play sports",
+   "sports centre",
+   "sports fan"
+  ]
+ },
+ {
+  "id": "stupid",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "ngu ngốc; ngớ ngẩn",
+  "coll": [
+   "stupid mistake",
+   "stupid question",
+   "feel stupid",
+   "don't be stupid"
+  ]
+ }
+]

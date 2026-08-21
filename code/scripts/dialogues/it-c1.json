@@ -1,0 +1,136 @@
+[
+ {
+  "id": "dlg-it-cache-tradeoff",
+  "level": 3,
+  "topic": "it",
+  "title_en": "Trading freshness for speed",
+  "title_vi": "Đánh đổi độ mới lấy tốc độ",
+  "speakers": ["Vy", "Andrew"],
+  "turns": [
+   { "sp": 0, "en": "The product listing page hits the database on every request. I want to put a cache in front of it.", "vi": "Trang danh sách sản phẩm đang query thẳng vào database ở mỗi request. Tôi muốn đặt một lớp cache phía trước." },
+   { "sp": 1, "en": "Caching the listing is fine, until a seller changes a price. How stale are you willing to be?", "vi": "Cache trang danh sách thì ổn thôi, cho đến khi người bán đổi giá. Chị chấp nhận dữ liệu cũ đến mức nào?" },
+   { "sp": 0, "en": "Sixty seconds. Prices rarely change, and the database load drops by ninety percent.", "vi": "Sáu mươi giây. Giá hiếm khi đổi, mà tải lên database giảm được chín mươi phần trăm." },
+   { "sp": 1, "en": "Sixty seconds is an eternity during a flash sale. That's exactly when traffic spikes and prices move.", "vi": "Trong flash sale thì sáu mươi giây là cả một thế kỷ. Đó chính là lúc traffic tăng vọt và giá thay đổi liên tục." },
+   { "sp": 0, "en": "Fair point. We could invalidate the cache on every price update instead of using a timer.", "vi": "Cũng có lý. Vậy thay vì hẹn giờ, mình invalidate cache mỗi lần cập nhật giá." },
+   { "sp": 1, "en": "Then you've traded a read problem for a write problem. A big sale updates thousands of items at once, and that invalidation storm hits the database anyway.", "vi": "Vậy là chị đổi bài toán đọc lấy bài toán ghi. Một đợt sale lớn cập nhật hàng nghìn sản phẩm cùng lúc, và cơn bão invalidation đó rốt cuộc vẫn đập vào database." },
+   { "sp": 0, "en": "Only if we invalidate item by item. We can version the whole category and refresh it in one go.", "vi": "Chỉ khi mình invalidate từng sản phẩm một. Mình có thể đánh version cả danh mục rồi làm mới một lượt." },
+   { "sp": 1, "en": "That helps, but then one cheap update rebuilds an entire category. What about serving slightly stale data with a visible timestamp?", "vi": "Cách đó đỡ hơn, nhưng khi ấy một cập nhật lặt vặt cũng dựng lại cả danh mục. Hay là cứ trả dữ liệu hơi cũ, kèm mốc thời gian hiển thị rõ ràng?" },
+   { "sp": 0, "en": "You mean showing 'prices updated one minute ago' right on the page?", "vi": "Ý anh là ghi hẳn 'giá cập nhật một phút trước' ngay trên trang?" },
+   { "sp": 1, "en": "Exactly. Honest staleness is often cheaper than perfect freshness, and users barely notice.", "vi": "Chính xác. Cũ mà minh bạch thường rẻ hơn nhiều so với mới tuyệt đối, mà người dùng gần như không để ý." },
+   { "sp": 0, "en": "I can accept that for the listing, but checkout must read the real price from the database.", "vi": "Trang danh sách thì tôi chấp nhận được, nhưng lúc checkout phải đọc giá thật từ database." },
+   { "sp": 1, "en": "Agreed. Cache the browsing path, never the buying path. Let's write that rule into the design doc.", "vi": "Đồng ý. Cache đường đi xem hàng, tuyệt đối không cache đường đi mua hàng. Mình ghi luật đó vào design doc luôn." }
+  ]
+ },
+ {
+  "id": "dlg-it-postmortem",
+  "level": 3,
+  "topic": "it",
+  "title_en": "Postmortem after the outage",
+  "title_vi": "Postmortem sau sự cố production",
+  "speakers": ["Thắng", "Sophie"],
+  "turns": [
+   { "sp": 0, "en": "Let's rebuild the timeline. The first alert fired at 14:02, but the incident channel only woke up at 14:31.", "vi": "Mình dựng lại timeline nhé. Alert đầu tiên nổ lúc 14:02, nhưng kênh incident mãi 14:31 mới có người lên tiếng." },
+   { "sp": 1, "en": "The alert went to the old on-call rotation. Half of those people left the company months ago.", "vi": "Alert được gửi vào ca trực on-call cũ. Một nửa số người trong đó đã nghỉ công ty từ mấy tháng trước." },
+   { "sp": 0, "en": "So the paging config was stale. That's finding number one, and it's an easy fix.", "vi": "Vậy là cấu hình paging bị lỗi thời. Đó là phát hiện số một, và sửa thì dễ." },
+   { "sp": 1, "en": "The harder question is why the deploy passed the health checks while the service was already failing.", "vi": "Câu hỏi khó hơn là vì sao bản deploy vẫn qua được health check trong khi service đã hỏng rồi." },
+   { "sp": 0, "en": "The health check only pings the process, not the database connection. The pods looked healthy while every query timed out.", "vi": "Health check chỉ ping tiến trình, không kiểm tra kết nối database. Các pod nhìn vẫn khoẻ trong khi mọi query đều timeout." },
+   { "sp": 1, "en": "So we need a proper readiness check. And what actually broke the connection pool?", "vi": "Vậy là cần một readiness check tử tế. Còn thực ra cái gì đã làm hỏng connection pool?" },
+   { "sp": 0, "en": "The migration added an index on the orders table and locked it for eleven minutes. Every request piled up behind that lock.", "vi": "Bản migration thêm index vào bảng đơn hàng và khoá bảng suốt mười một phút. Mọi request dồn ứ lại phía sau cái khoá đó." },
+   { "sp": 1, "en": "Which means that migration should never have run at peak hours. Do we have a rule against it?", "vi": "Tức là bản migration đó lẽ ra không được chạy vào giờ cao điểm. Mình có quy định nào cấm chưa?" },
+   { "sp": 0, "en": "An unwritten one, which is the same as none. I'll propose a deployment window and have the pipeline enforce it.", "vi": "Có, nhưng là luật bất thành văn, tức là coi như không có. Tôi sẽ đề xuất khung giờ deploy và để pipeline tự cưỡng chế." },
+   { "sp": 1, "en": "Good. And the report must be clear that no single person caused this. Three safeguards failed together.", "vi": "Tốt. Và báo cáo phải nói rõ không một cá nhân nào gây ra chuyện này. Ba lớp bảo vệ cùng thủng một lúc." },
+   { "sp": 0, "en": "Agreed. Blameless, but specific. I'll draft the action items with owners and deadlines by tomorrow.", "vi": "Đồng ý. Không đổ lỗi, nhưng phải cụ thể. Mai tôi sẽ soạn danh sách việc cần làm, kèm người phụ trách và hạn chót." },
+   { "sp": 1, "en": "Send it to me first. If those actions aren't done in two weeks, this postmortem was just theatre.", "vi": "Gửi tôi xem trước nhé. Nếu hai tuần nữa mà các việc đó chưa xong thì buổi postmortem này chỉ là diễn kịch." }
+  ]
+ },
+ {
+  "id": "dlg-it-tech-debt",
+  "level": 3,
+  "topic": "it",
+  "title_en": "Buying back the technical debt",
+  "title_vi": "Đàm phán trả technical debt",
+  "speakers": ["Diễm", "Peter"],
+  "turns": [
+   { "sp": 0, "en": "I want twenty percent of next quarter for debt work, and I know that's not what you came to hear.", "vi": "Tôi muốn dành hai mươi phần trăm quý sau cho việc trả technical debt, và tôi biết đó không phải điều anh muốn nghe." },
+   { "sp": 1, "en": "Twenty percent is a whole feature. What exactly would I be giving it up for?", "vi": "Hai mươi phần trăm là nguyên một tính năng đấy. Tôi đánh đổi nó để lấy cái gì mới được?" },
+   { "sp": 0, "en": "The order module. Every change there takes three times longer than it should, and it's where most of our bugs are born.", "vi": "Module đơn hàng. Mọi thay đổi ở đó tốn gấp ba thời gian đáng lẽ phải tốn, và đa số bug của mình sinh ra từ đấy." },
+   { "sp": 1, "en": "You said something similar last year. We gave you three weeks, and I honestly can't point to what changed.", "vi": "Năm ngoái chị cũng nói na ná vậy. Bọn tôi cho ba tuần, mà thú thật tôi không chỉ ra được cái gì đã thay đổi." },
+   { "sp": 0, "en": "That's fair, and it's on us. We fixed invisible things and never translated them into numbers you could see.", "vi": "Anh nói đúng, và đó là lỗi bọn tôi. Bọn tôi sửa toàn thứ vô hình mà không bao giờ quy chúng ra những con số anh nhìn thấy được." },
+   { "sp": 1, "en": "So translate them now.", "vi": "Vậy giờ quy ra đi." },
+   { "sp": 0, "en": "Last quarter we spent 340 hours on order-related bugs. That's two engineers doing nothing but cleanup, permanently.", "vi": "Quý trước bọn tôi tốn 340 giờ cho bug liên quan đến đơn hàng. Tương đương hai kỹ sư không làm gì ngoài dọn dẹp, quanh năm suốt tháng." },
+   { "sp": 1, "en": "And if I give you the twenty percent, what does that number become?", "vi": "Thế nếu tôi đưa chị hai mươi phần trăm đó, con số kia sẽ thành bao nhiêu?" },
+   { "sp": 0, "en": "I won't promise a miracle, but the plan targets the three worst files. I expect bug hours to drop by roughly a third within two quarters.", "vi": "Tôi không hứa phép màu, nhưng kế hoạch nhắm vào ba file tệ nhất. Tôi kỳ vọng số giờ sửa bug giảm khoảng một phần ba trong hai quý." },
+   { "sp": 1, "en": "Put that forecast in writing and we review it monthly. If the trend isn't moving by the second month, we stop.", "vi": "Chị viết dự báo đó ra giấy và mỗi tháng mình cùng soát lại. Đến tháng thứ hai mà xu hướng không nhúc nhích thì dừng." },
+   { "sp": 0, "en": "Deal. One more thing: new features in that module go through a stricter review until it stabilises.", "vi": "Chốt. Thêm một điều nữa: tính năng mới trong module đó phải qua vòng review chặt hơn cho đến khi nó ổn định." },
+   { "sp": 1, "en": "As long as stricter doesn't mean slower for everything else, fine. Send me the plan and I'll defend it upstairs.", "vi": "Miễn là chặt hơn không có nghĩa là chậm đi với mọi thứ khác thì được. Gửi tôi bản kế hoạch, tôi sẽ bảo vệ nó với cấp trên." }
+  ]
+ },
+ {
+  "id": "dlg-it-micro-vs-mono",
+  "level": 3,
+  "topic": "it",
+  "title_en": "Microservices or a modular monolith",
+  "title_vi": "Microservices hay monolith chia module",
+  "speakers": ["Long", "Hannah"],
+  "turns": [
+   { "sp": 0, "en": "Before we split the platform into services, I want someone to tell me which problem we're actually solving.", "vi": "Trước khi tách nền tảng thành các service, tôi muốn có người nói rõ mình đang giải bài toán nào." },
+   { "sp": 1, "en": "Deploy speed, mostly. Right now one team's change blocks everyone else's release for days.", "vi": "Chủ yếu là tốc độ deploy. Hiện giờ thay đổi của một team chặn release của tất cả các team khác mấy ngày liền." },
+   { "sp": 0, "en": "That's a build and release problem. You can fix it with better pipelines and a disciplined modular monolith, without paying the network tax.", "vi": "Đó là bài toán build và release. Chị có thể xử lý bằng pipeline tốt hơn và một monolith chia module có kỷ luật, mà không phải trả thuế network." },
+   { "sp": 1, "en": "Modules discipline nobody. We said the same thing two years ago, and today every module reaches into every other module's tables.", "vi": "Module thì có kỷ luật được ai đâu. Hai năm trước mình cũng nói y như vậy, và hôm nay module nào cũng thò tay vào bảng dữ liệu của module khác." },
+   { "sp": 0, "en": "Because we never enforced the boundaries. Services enforce them with a network, but they also hand you distributed transactions and a zoo of library versions to keep compatible.", "vi": "Vì mình chưa bao giờ cưỡng chế ranh giới. Service thì cưỡng chế bằng network thật, nhưng nó cũng dúi vào tay chị transaction phân tán và cả một sở thú version thư viện phải giữ tương thích." },
+   { "sp": 1, "en": "I'll grant that. But we already run the infrastructure: Kubernetes, tracing, a message queue. The entry price is mostly paid.", "vi": "Điểm đó tôi công nhận. Nhưng hạ tầng thì mình chạy sẵn rồi: Kubernetes, tracing, message queue. Giá vé vào cửa coi như trả gần xong." },
+   { "sp": 0, "en": "The entry price, yes. The running cost is different: every cross-service call becomes a failure mode you have to design for.", "vi": "Vé vào cửa thì đúng. Chi phí vận hành lại là chuyện khác: mỗi lần gọi chéo giữa các service là thêm một kiểu hỏng hóc chị phải thiết kế để chống đỡ." },
+   { "sp": 1, "en": "Then let's not split everything. Carve out billing and notifications first; they're the most independent and change the most often.", "vi": "Vậy thì đừng tách tất cả. Bóc billing và notification ra trước; hai mảng đó độc lập nhất và cũng thay đổi thường xuyên nhất." },
+   { "sp": 0, "en": "Two services I can support. What I'm against is the slide showing fourteen of them by December.", "vi": "Hai service thì tôi ủng hộ được. Thứ tôi phản đối là cái slide vẽ ra mười bốn service trước tháng Mười Hai." },
+   { "sp": 1, "en": "Fine, the slide goes. We split two, run them for a quarter, and measure deploy frequency and incident count.", "vi": "Được, bỏ cái slide đó. Mình tách hai service, chạy một quý, rồi đo tần suất deploy và số sự cố." },
+   { "sp": 0, "en": "And if the numbers don't improve, we fold them back and invest in the monolith instead. Both directions, written down.", "vi": "Và nếu các con số không khá lên, mình gộp chúng về và đầu tư cho monolith. Cả hai hướng đều phải ghi ra giấy." },
+   { "sp": 1, "en": "Agreed. An experiment with an exit, not a religion. I'll rewrite the proposal this week.", "vi": "Đồng ý. Một thí nghiệm có đường lui, chứ không phải một tôn giáo. Tuần này tôi viết lại bản đề xuất." }
+  ]
+ },
+ {
+  "id": "dlg-it-senior-interview",
+  "level": 3,
+  "topic": "it",
+  "title_en": "Interviewing a senior engineer",
+  "title_vi": "Phỏng vấn kỹ sư senior",
+  "speakers": ["Claire", "Bách"],
+  "turns": [
+   { "sp": 0, "en": "Your CV says you led the migration off the legacy billing system. What would you do differently now?", "vi": "CV của anh ghi anh dẫn dắt cuộc di cư khỏi hệ thống billing legacy. Bây giờ nhìn lại, anh sẽ làm gì khác đi?" },
+   { "sp": 1, "en": "I'd migrate customers in cohorts instead of all at once. We chose a big-bang cutover and spent the whole weekend firefighting.", "vi": "Tôi sẽ chuyển khách hàng theo từng đợt thay vì tất cả cùng lúc. Hồi đó bọn tôi chọn cutover một phát ăn ngay, và mất nguyên một cuối tuần đi chữa cháy." },
+   { "sp": 0, "en": "What broke, specifically?", "vi": "Cụ thể là hỏng cái gì?" },
+   { "sp": 1, "en": "Invoice numbering. The old system allowed duplicates across branches, and our clean schema didn't. We found out at two in the morning.", "vi": "Đánh số hoá đơn. Hệ thống cũ cho phép trùng số giữa các chi nhánh, còn cái schema sạch sẽ của bọn tôi thì không. Bọn tôi phát hiện ra lúc hai giờ sáng." },
+   { "sp": 0, "en": "How did you handle the pressure in that moment?", "vi": "Khoảnh khắc đó anh xử lý áp lực thế nào?" },
+   { "sp": 1, "en": "We rolled back within the hour, and we could only do that because I'd insisted on keeping the old system warm. The real fix took another month.", "vi": "Bọn tôi rollback trong vòng một tiếng, và làm được vậy chỉ vì tôi đã khăng khăng giữ hệ thống cũ chạy ấm. Còn bản sửa thật sự mất thêm một tháng." },
+   { "sp": 0, "en": "Tell me about a technical decision where you were overruled.", "vi": "Kể tôi nghe một quyết định kỹ thuật mà anh bị bác." },
+   { "sp": 1, "en": "I wanted event sourcing for the audit trail. The team said it was overkill, and looking back, they were right. A simple history table has served us well for four years.", "vi": "Tôi từng muốn dùng event sourcing cho audit trail. Cả team bảo là quá tay, và giờ nhìn lại thì họ đúng. Một bảng lịch sử đơn giản đã phục vụ tốt suốt bốn năm." },
+   { "sp": 0, "en": "What made you accept it rather than fight for it?", "vi": "Điều gì khiến anh chấp nhận thay vì đấu đến cùng?" },
+   { "sp": 1, "en": "The cost of being wrong was low and reversible. I save my fights for one-way doors, like schema design and data ownership.", "vi": "Cái giá của việc sai lúc đó thấp và đảo ngược được. Tôi để dành sức cho những cánh cửa một chiều, như thiết kế schema hay quyền sở hữu dữ liệu." },
+   { "sp": 0, "en": "Last one. A junior sends you a pull request that works but is badly structured. What happens next?", "vi": "Câu cuối. Một bạn junior gửi anh pull request chạy được nhưng cấu trúc thì tệ. Chuyện gì xảy ra tiếp theo?" },
+   { "sp": 1, "en": "It depends on the deadline. With time, I review it as a teaching session. Without it, I merge, note the debt, and we refactor together within the week. What I never do is silently rewrite their code.", "vi": "Tuỳ deadline. Nếu còn thời gian, tôi review như một buổi dạy nghề. Nếu không, tôi merge, ghi nợ lại, rồi trong tuần hai anh em cùng refactor. Thứ tôi không bao giờ làm là lẳng lặng viết lại code của bạn ấy." },
+   { "sp": 0, "en": "Good answer. Any questions for me?", "vi": "Trả lời tốt. Anh có câu hỏi nào cho tôi không?" },
+   { "sp": 1, "en": "Yes. How does this team decide when something is good enough to ship?", "vi": "Có. Team này dựa vào đâu để quyết một thứ đã đủ tốt để ship?" }
+  ]
+ },
+ {
+  "id": "dlg-it-security-exposure",
+  "level": 3,
+  "topic": "it",
+  "title_en": "A bucket left open",
+  "title_vi": "Một bucket bị bỏ ngỏ",
+  "speakers": ["Yến", "Victor"],
+  "turns": [
+   { "sp": 0, "en": "Our nightly scan flagged an S3 bucket with public read access. It holds invoice PDFs from 2023.", "vi": "Bản scan đêm qua đánh dấu một bucket S3 đang mở quyền đọc public. Trong đó là các file PDF hoá đơn từ năm 2023 anh ạ." },
+   { "sp": 1, "en": "Public since when? That's the difference between an embarrassment and an incident.", "vi": "Public từ bao giờ? Đó là ranh giới giữa một chuyện xấu hổ và một sự cố thật sự." },
+   { "sp": 0, "en": "The access change was made in March, during the storage migration. So roughly five months.", "vi": "Quyền truy cập bị đổi hồi tháng Ba, trong đợt migrate storage. Vậy là tầm năm tháng ạ." },
+   { "sp": 1, "en": "Do the access logs show any reads from outside our network?", "vi": "Log truy cập có thấy lượt đọc nào từ ngoài mạng công ty không?" },
+   { "sp": 0, "en": "That's the uncomfortable part. Logging was only enabled on that bucket in June, so we're blind for the first three months.", "vi": "Đó mới là phần khó chịu ạ. Bucket đó tháng Sáu mới được bật logging, nên ba tháng đầu mình mù hoàn toàn." },
+   { "sp": 1, "en": "Then we treat it as a potential breach, not a near miss. What exactly is in those PDFs?", "vi": "Vậy thì phải coi đây là một vụ lộ dữ liệu tiềm tàng, chứ không phải thoát nạn trong gang tấc. Trong mấy file PDF đó chính xác có gì?" },
+   { "sp": 0, "en": "Customer names, addresses, and order totals. No passwords and no full card numbers.", "vi": "Tên khách hàng, địa chỉ và tổng tiền đơn hàng. Không có mật khẩu, không có số thẻ đầy đủ ạ." },
+   { "sp": 1, "en": "Personal data all the same. Legal needs to assess the notification duty; that's not our call to make.", "vi": "Thì vẫn là dữ liệu cá nhân. Bên pháp chế phải đánh giá nghĩa vụ thông báo; chuyện đó không đến lượt mình quyết." },
+   { "sp": 0, "en": "Agreed. I've already closed the public access and rotated every key that touched the bucket.", "vi": "Vâng. Em đã đóng quyền public và rotate toàn bộ key từng chạm vào bucket đó rồi ạ." },
+   { "sp": 1, "en": "Good. Next, I want an inventory of every bucket and its access policy by Friday. If it happened once, it happened elsewhere.", "vi": "Tốt. Tiếp theo, anh cần danh sách toàn bộ bucket kèm policy truy cập trước thứ Sáu. Đã xảy ra một lần thì kiểu gì cũng có ở chỗ khác." },
+   { "sp": 0, "en": "I'll automate the check instead of doing it by hand, so it runs every night from now on.", "vi": "Em sẽ tự động hoá việc kiểm tra thay vì soát tay, để từ giờ đêm nào nó cũng chạy ạ." },
+   { "sp": 1, "en": "Even better. And write the timeline down today while memories are fresh. If regulators ask, that document is our credibility.", "vi": "Càng tốt. Và hôm nay em viết lại timeline luôn khi mọi người còn nhớ rõ. Nếu cơ quan quản lý hỏi đến, tài liệu đó chính là uy tín của mình." }
+  ]
+ }
+]

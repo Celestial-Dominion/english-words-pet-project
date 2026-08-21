@@ -1,0 +1,151 @@
+[
+ {
+  "id": "wiki-mobile-communication-company-of-iran",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Mobile_Communication_Company_of_Iran",
+  "title_en": "Mobile Communication Company of Iran",
+  "sentences": [
+   "Hamrah-e Avval is the biggest mobile phone company in Iran.",
+   "It's part of a bigger company called the Telecommunication Company of Iran.",
+   "Hamrah-e Avval has a lot of customers.",
+   "Around 17 million people have a monthly plan, and 49 million people pay as they go.",
+   "You can use Hamrah-e Avval in most of Iran.",
+   "It also works in other countries.",
+   "In 2010, people could start buying shares in Hamrah-e Avval.",
+   "This means they could become part owners of the company.",
+   "In 2013, Hamrah-e Avval started trading on the stock exchange.",
+   "In 2015, Hamrah-e Avval started offering 3G and 4G internet.",
+   "This is a faster way to use the internet on your phone."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-folder-computing",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Folder_(computing)",
+  "title_en": "Folder (computing)",
+  "sentences": [
+   "When talking about file systems, a folder (also called directory, or catalog) is a way to organize computer files.",
+   "A folder is a storage space, or container, where many files can be placed into groups and organize the computer.",
+   "A folder can also contain other folders.",
+   "For many computer software applications, there is a current working directory.",
+   "This is the folder that the application runs in.",
+   "In Unix and Linux, a directory is a special type of file.",
+   "Folders can be put together to make a filesystem and are laid out like a tree.",
+   "The folders inside folders are like branches and sub-branches off the tree trunk.",
+   "This idea is used by the software to allow the user to navigate the folders.",
+   "A computer file, such as a spreadsheet or music file can only be in one folder directly.",
+   "This folder, however, can be inside other folders.",
+   "On some operating systems, shortcuts or links can be made from one folder to another to make it appear that one file or folder is contained in two different parent folders.",
+   "On Unix systems, this is called a symbolic link, and is similar in function to a hyperlink.",
+   "Folders are inspired by a real-life item called a file folder."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-google-assistant",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Google_Assistant",
+  "title_en": "Google Assistant",
+  "sentences": [
+   "Google Assistant is an artificial intelligence virtual assistant.",
+   "It is developed by Google.",
+   "It can be used on many devices, on mobile devices, like smartphones, tablets, and laptops.",
+   "It can also be used in smart home devices.",
+   "It encompasses a wide variety of different tasks, such as rolling dice, reading reminders, Mad Libs, Lucky Trivia (includes a sports version), Snake, a geography quiz, and many more.",
+   "It can also look up different songs."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-visual-basic",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Visual_Basic",
+  "title_en": "Visual Basic",
+  "sentences": [
+   "Visual Basic (VB) is a programming language developed by Microsoft for their operating system Windows.",
+   "The BASIC language is said to be easier to read than other languages.",
+   "Visual Basic is a widely understood high-level programming language, written using simple English-like words and syntax.",
+   "It is an interpreted language, code can be run immediately after being written.",
+   "Having an interpreter makes it simpler to use, as there is no need for the computer to compile the code, possibly finding errors to fix, before the compiled version can be run.",
+   "Once the code is working, it can be compiled into an .exe file so that it will run on all modern Windows computers, whether VB is installed or not.",
+   "The language allows a beginning programmer to produce professional-looking Windows applications, as it includes drawing tools to create normal Windows forms.",
+   "VB also includes advanced features - concepts and structures which allow programs to be adapted for use with the Internet.",
+   "Visual Basic will not run on operating systems other than Windows and on machines with non-Intel compatible processors.",
+   "Though the program has received criticism for its faults, Visual Basic was a runaway commercial success since its release for version 3 in the summer of 1993.",
+   "Many companies offered third party controls greatly extending its functionality."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-institute-for-advanced-technology-in-the",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Institute_for_Advanced_Technology_in_the_Humanities",
+  "title_en": "Institute for Advanced Technology in the Humanities",
+  "sentences": [
+   "The Institute for Advanced Technology in the Humanities (IATH) is a research institute at the University of Virginia in the United States.",
+   "It specializes in the use of Information technology in the humanities.The institute was founded in 1992 with money donated by IBM.",
+   "In 2010, the institute developed the Social Networks and Archival Context (SNAC) database.",
+   "This database has authority controls for people and what other people have written about the person.",
+   "The database also tells which libraries have the writings about the person.",
+   "Each person in the database has their own unique number.",
+   "As of 2016, the SNAC database had entries for 2.5 million people."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-video-game-artist",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Video_game_artist",
+  "title_en": "Video game artist",
+  "sentences": [
+   "A game artist is an artist who creates art for video games.",
+   "Game artists are in charge of all game development of visual art.",
+   "Many game artists are asked to develop graphical environments and elements in which role-playing games take place.",
+   "For example, in the Monster Manual early Dungeons & Dragons artists created visual imitations of monsters players might see while playing the video game.",
+   "Visual art can help make the gameplay of a video game more appealing to a player.",
+   "Art for role-playing games can be expressed in a lot of different ways.",
+   "These can include from pencil drawings, pen and ink drawings, oil paintings or even 3D models created with a computer."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-brachistochrone-curve",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Brachistochrone_curve",
+  "title_en": "Brachistochrone curve",
+  "sentences": [
+   "A Brachistochrone curve is the fastest path for a ball to roll between two points that are at different heights.",
+   "A ball can roll along the curve faster than a straight line between the points.",
+   "And the bottom one would be faster then the top.",
+   "The curve will always be the quickest route regardless of how strong gravity is or how heavy the object is.",
+   "However, it might not be the quickest if there is friction.",
+   "The curve can be found using calculus of variations and optimal control."
+  ]
+ },
+ {
+  "id": "news-data-for-3-million-uk-driving-candidates",
+  "level": 2,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Data_for_3_million_UK_driving_candidates_lost",
+  "title_en": "Data for 3 million UK driving candidates lost",
+  "sentences": [
+   "Monday, December 17, 2007 Some personal details of 3 million British learner drivers who had applied for the 'theory test' component of their Driving licence have been lost in Iowa, in the USA.",
+   "The data was lost on a hard drive that was owned by Pearson Driving Assessments Ltd, a private contractor to the UK driving standards agency.",
+   "Details were given by the UK Transport Secretary, Ruth Kelly, in the House of Commons at 1730 UTC yesterday.",
+   "It is the first major loss of data in the UK since information on 25 million people was lost by HM Revenue in October.",
+   "In her statement to MPs, Ruth Kelly confirmed that no banking information was contained within the lost data, nor were individuals' dates of birth.",
+   "She highlighted that security measures had been taken, and that the information that had been stored was not in a format \"readily usable or accessible\" by standard means.",
+   "Political figures in the UK continue to raise concerns about both the specific loss of this information, and the nature of governments ability to safely gather and maintain information.",
+   "Susan Kramer, representing the Liberal Democrats stated \"This constant attempt to gather data, to get more data, to know more about you, to link it more together, all of that it seems to me is what comes into question.\""
+  ],
+  "topic": "it"
+ }
+]

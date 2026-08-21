@@ -1,0 +1,1258 @@
+[
+ {
+  "id": "city",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A large settlement, bigger than a town",
+   "A settlement granted special status by royal charter or letters patent",
+   "The central business district"
+  ]
+ },
+ {
+  "id": "lot",
+  "pos": [
+   "adv",
+   "n",
+   "pron",
+   "v"
+  ],
+  "en": [
+   "A large quantity or number",
+   "A separate, appropriated portion",
+   "One or more items auctioned or sold as a unit, separate from other items."
+  ]
+ },
+ {
+  "id": "name",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+   "A reputation.",
+   "An abusive or insulting epithet."
+  ]
+ },
+ {
+  "id": "night",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "The time when the Sun is below the horizon when the sky is dark.",
+   "The period of darkness beginning at the end of evening astronomical twilight when the sun is 18 degrees below the horizon, and ending at…",
+   "A period of time often defined in the legal system as beginning 30 minutes after sunset, and ending 30 minutes before sunrise."
+  ]
+ },
+ {
+  "id": "play",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To act in a manner such that one has fun",
+   "To toy or trifle",
+   "To perform in (a sport)"
+  ]
+ },
+ {
+  "id": "until",
+  "pos": [
+   "conj",
+   "prep"
+  ],
+  "en": [
+   "Up to the time of (something happening)",
+   "Up to (a certain place)",
+   "Before (a time)."
+  ]
+ },
+ {
+  "id": "company",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A team"
+  ]
+ },
+ {
+  "id": "doing",
+  "pos": [
+   "vaux",
+   "v",
+   "n",
+   "intj"
+  ],
+  "en": [
+   "present participle and gerund of do",
+   "A deed or action, especially when somebody is held responsible for it.",
+   "The sound made by an elastic object when struck by or striking a hard object."
+  ]
+ },
+ {
+  "id": "few",
+  "pos": [
+   "det",
+   "pron"
+  ],
+  "en": [
+   "An indefinite, but usually small, number of.",
+   "Not many",
+   "Obscuring one to two oktas (eighths) of the sky."
+  ]
+ },
+ {
+  "id": "let",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To allow to, not to prevent (+ infinitive, but usually without to).",
+   "To allow to be or do without interference",
+   "To allow the release of (a fluid)."
+  ]
+ },
+ {
+  "id": "real",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "True, genuine, not merely nominal or apparent.",
+   "Genuine, not artificial, counterfeit, or fake.",
+   "Genuine, unfeigned, sincere."
+  ]
+ },
+ {
+  "id": "different",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "en": [
+   "Not the same",
+   "Various, assorted, diverse.",
+   "Distinct, separate"
+  ]
+ },
+ {
+  "id": "set",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To put (something) down, to rest.",
+   "To attach or affix (something) to something else, or in or upon a certain place.",
+   "To put in a specified condition or state"
+  ]
+ },
+ {
+  "id": "thought",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A representation created in the mind without the use of one's faculties of vision, sound, smell, touch, or taste",
+   "The operation by which mental activity arise or are manipulated",
+   "A way of thinking (associated with a group, nation or region)."
+  ]
+ },
+ {
+  "id": "done",
+  "pos": [
+   "vaux",
+   "adj",
+   "v",
+   "intj",
+   "n"
+  ],
+  "en": [
+   "Having completed or finished an activity.",
+   "Completed or finished.",
+   "Ready, fully cooked."
+  ]
+ },
+ {
+  "id": "however",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Nevertheless",
+   "In contrast.",
+   "Regardless of how"
+  ]
+ },
+ {
+  "id": "government",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The body with the power to make and/or enforce laws to control a country, land area, people or organization.",
+   "The relationship between a word and its dependents.",
+   "The state and its administration viewed as the ruling political power."
+  ]
+ },
+ {
+  "id": "group",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A number of things or persons being in some relation to one another.",
+   "A set with an associative binary operation, under which there exists an identity element, and such that each element has an inverse.",
+   "A (usually small) group of people who perform music together."
+  ]
+ },
+ {
+  "id": "public",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Able to be known or seen by everyone",
+   "Open to all members of a community, as opposed to only a segment of it",
+   "Pertaining to the people as a whole, as opposed to a group of people"
+  ]
+ },
+ {
+  "id": "top",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "The highest or uppermost part of something.",
+   "To cover on the top or with a top.",
+   "To exceed in height."
+  ]
+ },
+ {
+  "id": "business",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "A specific commercial enterprise or establishment.",
+   "A person's occupation, work, or trade.",
+   "Commercial, industrial, or professional activity."
+  ]
+ },
+ {
+  "id": "care",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Close attention",
+   "Worry.",
+   "Maintenance, upkeep."
+  ]
+ },
+ {
+  "id": "each other",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "To one another"
+  ]
+ },
+ {
+  "id": "start",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "The beginning of an activity.",
+   "A sudden involuntary movement.",
+   "The beginning point of a race, a board game, etc."
+  ]
+ },
+ {
+  "id": "system",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A group or set of related things that operate together as a complex whole."
+  ]
+ },
+ {
+  "id": "week",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "en": [
+   "Any period of seven consecutive days.",
+   "A period of seven days beginning with Sunday or Monday.",
+   "A period of five days beginning with Monday."
+  ]
+ },
+ {
+  "id": "already",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Prior to some specified time, either past, present, or future",
+   "So soon.",
+   "An intensifier used to emphasize impatience or express exasperation."
+  ]
+ },
+ {
+  "id": "anything",
+  "pos": [
+   "pron",
+   "n",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "Any object, act, state, event, or fact whatsoever",
+   "Expressing an indefinite comparison.",
+   "Someone or something of importance."
+  ]
+ },
+ {
+  "id": "case",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "An actual event, situation, or fact.",
+   "A specific matter or piece of work, specifically defined within a profession, usually in respect of a specific person and/or event",
+   "An instance or event as a topic of study."
+  ]
+ },
+ {
+  "id": "nothing",
+  "pos": [
+   "pron",
+   "n",
+   "adv",
+   "adj",
+   "intj"
+  ],
+  "en": [
+   "Not any thing",
+   "An absence of anything, including empty space, brightness, darkness, matter, or a vacuum.",
+   "Something trifling, or of no consequence or importance."
+  ]
+ },
+ {
+  "id": "person",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An individual who has been granted personhood",
+   "To man, to supply with staff or crew."
+  ]
+ },
+ {
+  "id": "today",
+  "pos": [
+   "adv",
+   "n",
+   "adj"
+  ],
+  "en": [
+   "On the current day or date.",
+   "In the current era",
+   "On the day of a recurring cycle or event which is currently happening."
+  ]
+ },
+ {
+  "id": "change",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To become something different.",
+   "To make something into something else.",
+   "To replace."
+  ]
+ },
+ {
+  "id": "enough",
+  "pos": [
+   "adv",
+   "det",
+   "pron",
+   "intj",
+   "n"
+  ],
+  "en": [
+   "Sufficient",
+   "Sufficiently.",
+   "Fully"
+  ]
+ },
+ {
+  "id": "everything",
+  "pos": [
+   "pron",
+   "v",
+   "n"
+  ],
+  "en": [
+   "All the things under discussion.",
+   "Many or most things.",
+   "A state of well-being (from all parts of the whole)."
+  ]
+ },
+ {
+  "id": "full",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Containing the maximum possible amount that can fit in the space available.",
+   "Complete",
+   "Total, entire."
+  ]
+ },
+ {
+  "id": "live",
+  "pos": [
+   "adj",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "To be alive",
+   "To have permanent residence somewhere, to inhabit, to reside.",
+   "To survive"
+  ]
+ },
+ {
+  "id": "point",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "A small dot or mark.",
+   "point taken",
+   "To extend the index finger in the direction of something in order to show where it is or to draw attention to it."
+  ]
+ },
+ {
+  "id": "read",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To look at and interpret letters or other information that is written.",
+   "To speak aloud words or other information that is written. (often construed with a to phrase or an indirect object)",
+   "To interpret, or infer a meaning, significance, thought, intention, etc., from."
+  ]
+ },
+ {
+  "id": "yet",
+  "pos": [
+   "adv",
+   "conj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Thus far",
+   "At some future time",
+   "Not as of the time referenced."
+  ]
+ },
+ {
+  "id": "bad",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "Not covered by funds on account.",
+   "Bold, daring, and tough.",
+   "Good, superlative, excellent, cool."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "four",
+  "pos": [
+   "num",
+   "n"
+  ],
+  "en": [
+   "A numerical value equal to 4",
+   "Describing a set or group with four elements.",
+   "The digit or figure 4"
+  ]
+ },
+ {
+  "id": "hard",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Solid and firm.",
+   "With much force or effort.",
+   "With difficulty."
+  ]
+ },
+ {
+  "id": "mean",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "To intend.",
+   "To convey (a meaning).",
+   "Low in quality or degree"
+  ]
+ },
+ {
+  "id": "once",
+  "pos": [
+   "adv",
+   "conj",
+   "n"
+  ],
+  "en": [
+   "One and only one time.",
+   "Formerly",
+   "Multiplied by one"
+  ]
+ },
+ {
+  "id": "support",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To help keep from falling.",
+   "To back or favor a cause, party, etc., mentally or with concrete aid",
+   "To provide sustenance or maintenance for"
+  ]
+ },
+ {
+  "id": "tell",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "Mental senses related to determining, reckoning, or perceiving",
+   "Social senses of communicating",
+   "A reflexive, often habitual behavior, especially one occurring in a context that often features attempts at deception by persons under…"
+  ]
+ },
+ {
+  "id": "music",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A series of sounds organized in time, usually employing some combination of harmony, melody, rhythm, tempo, etc., often to convey a mood.",
+   "Any interesting or pleasing sounds.",
+   "An art form, created by organizing pitch, rhythm, and sounds made using musical instruments and/or singing."
+  ]
+ },
+ {
+  "id": "power",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "intj"
+  ],
+  "en": [
+   "The ability to do or undergo something.",
+   "The ability to coerce, influence, or control.",
+   "To provide power for (a mechanical or electronic device)."
+  ]
+ },
+ {
+  "id": "stop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To cease moving.",
+   "Not to continue.",
+   "To cause (something) to cease moving or progressing."
+  ]
+ },
+ {
+  "id": "water",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An inorganic compound (of molecular formula H₂O) found at room temperature and pressure as a clear liquid",
+   "The aforementioned liquid, considered one of the Classical elements or basic elements of alchemy.",
+   "Water in a body"
+  ]
+ },
+ {
+  "id": "believe",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To accept as true, particularly without absolute certainty (i.e., as opposed to knowing).",
+   "To accept that someone is telling the truth.",
+   "To have been persuaded to accept the factuality of something despite a lack of sufficient evidence therefore."
+  ]
+ },
+ {
+  "id": "call",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To reach out with one's voice.",
+   "A cry or shout.",
+   "The characteristic cry of a bird or other animal."
+  ]
+ },
+ {
+  "id": "head",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "The part of the body of an animal or human which contains the brain, mouth, and main sense organs.",
+   "To be in command of. (See also head up.)",
+   "To come at the beginning or front of"
+  ]
+ },
+ {
+  "id": "national",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Pertaining to a nation or country, especially as a whole",
+   "Belonging to or characteristic of a specific nation or country, as opposed to others.",
+   "A subject of a nation."
+  ]
+ },
+ {
+  "id": "small",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Not large or big",
+   "Young, as a child.",
+   "Minuscule or lowercase, referring to written or printed letters."
+  ]
+ },
+ {
+  "id": "white",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Bright and colourless",
+   "Of or relating to Europeans or those of European descent, regardless if their skin has cool or warm undertones.",
+   "Of or relating to Caucasians (people with white complexion and European ancestry)."
+  ]
+ },
+ {
+  "id": "far",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Distant",
+   "Remote in time.",
+   "Long."
+  ]
+ },
+ {
+  "id": "job",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A task.",
+   "An economic role for which a person is paid.",
+   "Plastic surgery."
+  ]
+ },
+ {
+  "id": "side",
+  "pos": [
+   "n",
+   "adj",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "A bounding straight edge of a two-dimensional shape.",
+   "A flat surface of a three-dimensional object",
+   "One half (left or right, top or bottom, front or back, etc.) of something or someone."
+  ]
+ },
+ {
+  "id": "though",
+  "pos": [
+   "adv",
+   "conj",
+   "v"
+  ],
+  "en": [
+   "Despite that",
+   "Used to intensify statements or questions",
+   "Despite the fact that"
+  ]
+ },
+ {
+  "id": "try",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To attempt",
+   "To test, to work out.",
+   "An attempt."
+  ]
+ },
+ {
+  "id": "yes",
+  "pos": [
+   "adv",
+   "phr",
+   "intj",
+   "n",
+   "v",
+   "det"
+  ],
+  "en": [
+   "Used to show agreement or acceptance.",
+   "Used to indicate disagreement or dissent in reply to a negative statement.",
+   "Answer to a question presuming one answer when all answers are correct."
+  ]
+ },
+ {
+  "id": "actually",
+  "pos": [
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "In act or in fact",
+   "Currently",
+   "Indicating affirmation, agreement."
+  ]
+ },
+ {
+  "id": "first name",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The first element of a full name, particularly when it could also be surname in East Asian and other cultural traditions.",
+   "Synonym of given name, particularly when it forms the first element of a full name."
+  ]
+ },
+ {
+  "id": "good night",
+  "pos": [
+   "intj",
+   "phr"
+  ],
+  "en": [
+   "A farewell said in the evening or before going to sleep.",
+   "Expressing incredulity."
+  ]
+ },
+ {
+  "id": "later",
+  "pos": [
+   "adj",
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "comparative form of late",
+   "Afterward in time (used with than when comparing with another time).",
+   "At some unspecified time in the future."
+  ]
+ },
+ {
+  "id": "less",
+  "pos": [
+   "adv",
+   "det",
+   "pron",
+   "prep",
+   "v",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "comparative degree of little",
+   "Used for constructing syntactic diminutive comparatives of adjectives and adverbs.",
+   "To a smaller extent or degree."
+  ]
+ },
+ {
+  "id": "line",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "A path through two or more points (compare ‘segment’)",
+   "Expresses that the speaker has forgotten their dialogue and needs to be prompted with it.",
+   "To place (objects) into a line (usually used with \"up\")"
+  ]
+ },
+ {
+  "id": "order",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Arrangement, disposition, or sequence.",
+   "A position in an arrangement, disposition, or sequence.",
+   "The state of being well arranged."
+  ]
+ },
+ {
+  "id": "party",
+  "pos": [
+   "n",
+   "v",
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "A person or group of people constituting one side in a legal proceeding, such as in a legal action or a contract.",
+   "A person",
+   "To celebrate at a party, to have fun, to enjoy oneself."
+  ]
+ },
+ {
+  "id": "run",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To move swiftly.",
+   "Act or instance of running, of moving rapidly using the feet.",
+   "Act or instance of hurrying (to or from a place) (not necessarily on foot)"
+  ]
+ },
+ {
+  "id": "country",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "The territory of a nation",
+   "An area of land of undefined extent",
+   "A rural area, as opposed to a town or city"
+  ]
+ },
+ {
+  "id": "open",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Physically unobstructed, uncovered, etc.",
+   "To make or become physically unobstructed, uncovered, etc.",
+   "Open or unobstructed space"
+  ]
+ },
+ {
+  "id": "thank",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To express appreciation or gratitude toward (someone or something).",
+   "In the future tense in the form one will thank someone to do something, chiefly expressing a command or criticism",
+   "To respond to (someone) out of, or as if out of, appreciation or gratitude."
+  ]
+ },
+ {
+  "id": "everyone",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "Every person."
+  ]
+ },
+ {
+  "id": "area",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A measure of the extent of a surface",
+   "A particular geographic region.",
+   "Any particular extent of surface, especially an empty or unused extent."
+  ]
+ },
+ {
+  "id": "black",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Absorbing all light and reflecting none",
+   "Without light.",
+   "Belonging to or descended from any of various (African, Aboriginal, etc.) ethnic groups which typically have dark pigmentation of the…"
+  ]
+ },
+ {
+  "id": "following",
+  "pos": [
+   "adj",
+   "prep",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Coming next, either in sequence or in time.",
+   "About to be specified.",
+   "Blowing in the direction of travel, as opposed to headwind"
+  ]
+ },
+ {
+  "id": "good-looking",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Physically attractive (of a person)."
+  ]
+ },
+ {
+  "id": "law",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "The body of binding rules and regulations, customs, and standards established in a community by its legislative and judicial authorities.",
+   "A binding regulation or custom established in a community in this way.",
+   "A rule, such as"
+  ]
+ },
+ {
+  "id": "together",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "At the same time, in the same place",
+   "Into one place",
+   "In a relationship or partnership, for example a business relationship or a romantic partnership."
+  ]
+ },
+ {
+  "id": "war",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Organized, large-scale, armed conflict between countries or between national, ethnic, or other sizeable groups, usually but not always…",
+   "A particular conflict of this kind.",
+   "Protracted armed conflict against irregular forces, particularly groups considered terrorists."
+  ]
+ },
+ {
+  "id": "whole",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "en": [
+   "Entire, undivided.",
+   "Sound, uninjured, healthy.",
+   "From which none of its constituents has been removed."
+  ]
+ },
+ {
+  "id": "car",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for…",
+   "Any vehicle designed to run on rails, especially an unpowered one towed by being connected to others.",
+   "The first part of a cons in Lisp. The first element of a list."
+  ]
+ },
+ {
+  "id": "face",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "The front part of the head of a human or other animal, featuring the eyes, nose, and mouth, and the surrounding area.",
+   "One's facial expression.",
+   "A distorted facial expression"
+  ]
+ },
+ {
+  "id": "five",
+  "pos": [
+   "num",
+   "n"
+  ],
+  "en": [
+   "A numerical value equal to 5",
+   "Describing a group or set with five elements.",
+   "The digit/figure 5."
+  ]
+ },
+ {
+  "id": "kind",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "A type, race or category",
+   "A makeshift or otherwise atypical specimen.",
+   "Goods or services used as payment, as e.g. in barter."
+  ]
+ },
+ {
+  "id": "maybe",
+  "pos": [
+   "adv",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Perhaps, possibly.",
+   "Perhaps that is true (expressing no commitment to a decision or a neutral viewpoint to a statement).",
+   "Certainly."
+  ]
+ },
+ {
+  "id": "story",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "An account of real or fictional events.",
+   "A lie, fiction.",
+   "A soap opera."
+  ]
+ },
+ {
+  "id": "course",
+  "pos": [
+   "n",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "A sequence of events.",
+   "To run or flow (especially of liquids and more particularly blood).",
+   "To run through or over."
+  ]
+ },
+ {
+  "id": "health",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state of being free from physical or psychological disease, illness, or malfunction",
+   "A state of well-being or balance, often physical but sometimes also mental and social",
+   "Physical condition."
+  ]
+ },
+ {
+  "id": "hope",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To want (something) to happen, with a sense of expectation that it might [with that (+ clause)",
+   "To intend to do something and look forward to the prospect of having done it [with to (+ infinitive)].",
+   "To expect optimistically that one might get something (either a change in circumstance or an object) [with for]."
+  ]
+ },
+ {
+  "id": "important",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Having relevant and crucial value"
+  ]
+ },
+ {
+  "id": "least",
+  "pos": [
+   "adv",
+   "det",
+   "pron",
+   "adj",
+   "n",
+   "phr"
+  ],
+  "en": [
+   "Chiefly preceded by the",
+   "In a degree below all others",
+   "Used to form superlatives of adjectives, especially those that do not form the superlative by adding -est."
+  ]
+ },
+ {
+  "id": "news",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "New information of interest.",
+   "Information about current events disseminated by the media.",
+   "Messages posted on newsgroups."
+  ]
+ },
+ {
+  "id": "within",
+  "pos": [
+   "prep",
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "In the inner part, spatially",
+   "In the scope or range of.",
+   "Before the specified duration ends."
+  ]
+ },
+ {
+  "id": "book",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+   "A long work fit for publication, typically prose, such as a novel or textbook, and typically published as such a bound collection of…",
+   "A major division of a long work."
+  ]
+ },
+ {
+  "id": "early",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "At a time in advance of the usual or expected event.",
+   "Arriving a time before expected",
+   "After but close to the start of a period of time."
+  ]
+ },
+ {
+  "id": "high school",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An institution which provides all or part of secondary education.",
+   "A secondary school.",
+   "A secondary education school, consisting of junior high school and senior high school (grades 7-12)"
+  ]
+ }
+]

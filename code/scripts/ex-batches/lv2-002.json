@@ -1,0 +1,882 @@
+[
+ {
+  "id": "division",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân chia; sự chia rẽ; phép chia; bộ phận",
+  "coll": [
+   "the division of labour",
+   "long division",
+   "the sales division",
+   "a deep division",
+   "division between rich and poor"
+  ]
+ },
+ {
+  "id": "actual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thực tế; thật sự",
+  "coll": [
+   "the actual cost",
+   "actual figures",
+   "in actual fact",
+   "the actual size",
+   "the actual number"
+  ]
+ },
+ {
+  "id": "prior",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "trước đó; có trước; quan trọng hơn",
+  "coll": [
+   "prior to the meeting",
+   "prior experience",
+   "prior knowledge",
+   "prior notice",
+   "prior approval"
+  ]
+ },
+ {
+  "id": "species",
+  "pos": [
+   "n"
+  ],
+  "vi": "loài; giống loài",
+  "coll": [
+   "endangered species",
+   "a rare species",
+   "the human species",
+   "invasive species",
+   "a species of bird"
+  ]
+ },
+ {
+  "id": "investment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đầu tư; khoản đầu tư",
+  "coll": [
+   "foreign investment",
+   "a good investment",
+   "investment in education",
+   "return on investment",
+   "attract investment"
+  ]
+ },
+ {
+  "id": "previously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trước đây; trước đó",
+  "coll": [
+   "previously mentioned",
+   "previously unknown",
+   "as previously stated",
+   "previously owned"
+  ]
+ },
+ {
+  "id": "sister-in-law",
+  "pos": [
+   "n"
+  ],
+  "vi": "chị dâu, em dâu; chị (em) chồng hoặc vợ",
+  "coll": [
+   "my sister-in-law",
+   "his sister-in-law",
+   "future sister-in-law",
+   "her sister-in-law"
+  ]
+ },
+ {
+  "id": "estate",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "bất động sản; điền trang; di sản, tài sản",
+  "coll": [
+   "real estate",
+   "an estate agent",
+   "a housing estate",
+   "a country estate",
+   "his estate was worth millions"
+  ]
+ },
+ {
+  "id": "faith",
+  "pos": [
+   "n",
+   "adv",
+   "intj"
+  ],
+  "vi": "niềm tin; đức tin; tôn giáo",
+  "coll": [
+   "have faith in",
+   "lose faith",
+   "religious faith",
+   "in good faith",
+   "blind faith"
+  ]
+ },
+ {
+  "id": "profile",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hồ sơ cá nhân; mặt nghiêng; mức độ chú ý",
+  "coll": [
+   "a high profile",
+   "keep a low profile",
+   "a profile picture",
+   "create a profile",
+   "a company profile"
+  ]
+ },
+ {
+  "id": "sexual",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tình dục; thuộc giới tính",
+  "coll": [
+   "sexual harassment",
+   "sexual orientation",
+   "a sexual relationship",
+   "sexual health",
+   "sexual abuse"
+  ]
+ },
+ {
+  "id": "understanding",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "sự hiểu biết; sự thông cảm; biết cảm thông",
+  "coll": [
+   "a better understanding",
+   "mutual understanding",
+   "reach an understanding",
+   "a deep understanding",
+   "an understanding person"
+  ]
+ },
+ {
+  "id": "prime",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chính, quan trọng nhất; thời kỳ sung sức; số nguyên tố",
+  "coll": [
+   "the prime minister",
+   "a prime example",
+   "prime time",
+   "in his prime",
+   "a prime number"
+  ]
+ },
+ {
+  "id": "long-distance",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đường dài; ở xa",
+  "coll": [
+   "a long-distance relationship",
+   "a long-distance runner",
+   "a long-distance call",
+   "long-distance travel"
+  ]
+ },
+ {
+  "id": "remains",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hài cốt; tàn tích; phần còn lại",
+  "coll": [
+   "human remains",
+   "the remains of a building",
+   "ancient remains",
+   "archaeological remains"
+  ]
+ },
+ {
+  "id": "cast",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "dàn diễn viên; ném, quăng; bó bột",
+  "coll": [
+   "the cast of a film",
+   "cast a shadow",
+   "cast doubt on",
+   "cast a vote",
+   "a plaster cast"
+  ]
+ },
+ {
+  "id": "marketing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiếp thị; hoạt động marketing",
+  "coll": [
+   "a marketing strategy",
+   "a marketing campaign",
+   "a marketing manager",
+   "digital marketing",
+   "the marketing department"
+  ]
+ },
+ {
+  "id": "shooting",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vụ nổ súng; việc bắn súng; việc quay phim",
+  "coll": [
+   "a mass shooting",
+   "a shooting range",
+   "a shooting star",
+   "target shooting",
+   "the shooting of the film"
+  ]
+ },
+ {
+  "id": "neither",
+  "pos": [
+   "adv",
+   "conj",
+   "det",
+   "pron"
+  ],
+  "vi": "không cái nào trong hai; cũng không",
+  "coll": [
+   "neither of them",
+   "neither do I",
+   "neither side",
+   "neither one nor the other",
+   "neither here nor there"
+  ]
+ },
+ {
+  "id": "stock market",
+  "pos": [
+   "n"
+  ],
+  "vi": "thị trường chứng khoán",
+  "coll": [
+   "a stock market crash",
+   "invest in the stock market",
+   "stock market prices",
+   "the stock market rose"
+  ]
+ },
+ {
+  "id": "tough",
+  "pos": [
+   "adj",
+   "intj",
+   "n",
+   "v"
+  ],
+  "vi": "khó khăn; cứng rắn; dai (thức ăn)",
+  "coll": [
+   "a tough decision",
+   "a tough guy",
+   "tough luck",
+   "get tough on crime",
+   "tough competition"
+  ]
+ },
+ {
+  "id": "billion",
+  "pos": [
+   "n",
+   "num"
+  ],
+  "vi": "tỷ",
+  "coll": [
+   "a billion dollars",
+   "billions of people",
+   "a billion-dollar industry",
+   "several billion"
+  ]
+ },
+ {
+  "id": "existing",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "hiện có; đang tồn tại",
+  "coll": [
+   "existing customers",
+   "existing laws",
+   "existing conditions",
+   "the existing system",
+   "the existing situation"
+  ]
+ },
+ {
+  "id": "real estate",
+  "pos": [
+   "n"
+  ],
+  "vi": "bất động sản; nhà đất",
+  "coll": [
+   "a real estate agent",
+   "the real estate market",
+   "invest in real estate",
+   "real estate prices"
+  ]
+ },
+ {
+  "id": "technical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kỹ thuật; chuyên môn",
+  "coll": [
+   "technical support",
+   "technical problems",
+   "technical skills",
+   "technical terms",
+   "technical difficulties"
+  ]
+ },
+ {
+  "id": "evil",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "xấu xa, độc ác; điều ác, cái ác",
+  "coll": [
+   "an evil spirit",
+   "a necessary evil",
+   "good and evil",
+   "evil deeds",
+   "the lesser of two evils"
+  ]
+ },
+ {
+  "id": "parliament",
+  "pos": [
+   "n"
+  ],
+  "vi": "quốc hội; nghị viện",
+  "coll": [
+   "a member of parliament",
+   "the Houses of Parliament",
+   "dissolve parliament",
+   "an act of parliament",
+   "parliament voted"
+  ]
+ },
+ {
+  "id": "reference",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự nhắc đến; tài liệu tham khảo; thư giới thiệu",
+  "coll": [
+   "make reference to",
+   "with reference to",
+   "a reference book",
+   "a reference number",
+   "provide a reference"
+  ]
+ },
+ {
+  "id": "core",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "cốt lõi; lõi, nhân; chủ chốt",
+  "coll": [
+   "core values",
+   "the core of the problem",
+   "core business",
+   "an apple core",
+   "the earth's core"
+  ]
+ },
+ {
+  "id": "reaction",
+  "pos": [
+   "n"
+  ],
+  "vi": "phản ứng; phản ứng hóa học",
+  "coll": [
+   "an immediate reaction",
+   "a chemical reaction",
+   "a chain reaction",
+   "an allergic reaction",
+   "reaction to the news"
+  ]
+ },
+ {
+  "id": "willing",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "sẵn lòng; sẵn sàng",
+  "coll": [
+   "willing to help",
+   "more than willing",
+   "a willing participant",
+   "willing and able"
+  ]
+ },
+ {
+  "id": "proposed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "được đề xuất; dự kiến",
+  "coll": [
+   "the proposed changes",
+   "proposed legislation",
+   "the proposed plan",
+   "the proposed site"
+  ]
+ },
+ {
+  "id": "purchase",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mua; sự mua; món hàng đã mua",
+  "coll": [
+   "make a purchase",
+   "the purchase price",
+   "purchase a ticket",
+   "proof of purchase",
+   "an online purchase"
+  ]
+ },
+ {
+  "id": "crew",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thủy thủ đoàn; phi hành đoàn; ê-kíp, tổ",
+  "coll": [
+   "the crew of a ship",
+   "cabin crew",
+   "a film crew",
+   "ground crew",
+   "crew members"
+  ]
+ },
+ {
+  "id": "fixed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "cố định; không đổi; đã sửa xong",
+  "coll": [
+   "a fixed price",
+   "a fixed rate",
+   "at a fixed time",
+   "fixed income",
+   "a fixed point"
+  ]
+ },
+ {
+  "id": "profit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lợi nhuận; thu lợi, có lợi",
+  "coll": [
+   "make a profit",
+   "net profit",
+   "profit margin",
+   "profit and loss",
+   "profit from the deal"
+  ]
+ },
+ {
+  "id": "domestic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trong nước, nội địa; thuộc gia đình",
+  "coll": [
+   "domestic violence",
+   "domestic flights",
+   "the domestic market",
+   "domestic chores",
+   "gross domestic product"
+  ]
+ },
+ {
+  "id": "originally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ban đầu; vốn dĩ",
+  "coll": [
+   "originally from Spain",
+   "originally planned",
+   "originally published",
+   "originally built"
+  ]
+ },
+ {
+  "id": "user",
+  "pos": [
+   "n"
+  ],
+  "vi": "người dùng; người sử dụng",
+  "coll": [
+   "a computer user",
+   "the end user",
+   "user friendly",
+   "a user account",
+   "registered users"
+  ]
+ },
+ {
+  "id": "loan",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khoản vay; sự cho mượn; cho vay",
+  "coll": [
+   "take out a loan",
+   "apply for a loan",
+   "a bank loan",
+   "repay a loan",
+   "a student loan"
+  ]
+ },
+ {
+  "id": "factor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "yếu tố; nhân tố; thừa số",
+  "coll": [
+   "a key factor",
+   "an important factor",
+   "a risk factor",
+   "a contributing factor",
+   "the deciding factor"
+  ]
+ },
+ {
+  "id": "route",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tuyến đường; lộ trình; con đường dẫn đến",
+  "coll": [
+   "the shortest route",
+   "a bus route",
+   "an escape route",
+   "a trade route",
+   "the route to success"
+  ]
+ },
+ {
+  "id": "squad",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đội; tiểu đội; nhóm bạn thân",
+  "coll": [
+   "the national squad",
+   "a bomb squad",
+   "a squad car",
+   "squad members",
+   "the first-team squad"
+  ]
+ },
+ {
+  "id": "abuse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lạm dụng; ngược đãi; lời lăng mạ",
+  "coll": [
+   "child abuse",
+   "drug abuse",
+   "abuse of power",
+   "verbal abuse",
+   "domestic abuse"
+  ]
+ },
+ {
+  "id": "candidate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ứng viên; thí sinh; người có triển vọng",
+  "coll": [
+   "a presidential candidate",
+   "the ideal candidate",
+   "the leading candidate",
+   "the successful candidate",
+   "candidates for the job"
+  ]
+ },
+ {
+  "id": "developing",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đang phát triển; đang hình thành",
+  "coll": [
+   "developing countries",
+   "the developing world",
+   "developing economies",
+   "a developing crisis"
+  ]
+ },
+ {
+  "id": "facilities",
+  "pos": [
+   "n"
+  ],
+  "vi": "cơ sở vật chất; tiện nghi",
+  "coll": [
+   "sports facilities",
+   "modern facilities",
+   "medical facilities",
+   "leisure facilities",
+   "facilities for disabled people"
+  ]
+ },
+ {
+  "id": "fox",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con cáo; kẻ ranh mãnh",
+  "coll": [
+   "a red fox",
+   "sly as a fox",
+   "fox hunting",
+   "a fox cub",
+   "a silver fox"
+  ]
+ },
+ {
+  "id": "grown-up",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "người lớn; đã trưởng thành",
+  "coll": [
+   "act like a grown-up",
+   "grown-up children",
+   "a grown-up conversation",
+   "grown-ups only"
+  ]
+ },
+ {
+  "id": "liberal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phóng khoáng; tự do (chính trị); hào phóng",
+  "coll": [
+   "liberal democracy",
+   "liberal views",
+   "a liberal attitude",
+   "the Liberal Party",
+   "liberal arts"
+  ]
+ },
+ {
+  "id": "payment",
+  "pos": [
+   "n"
+  ],
+  "vi": "khoản thanh toán; việc trả tiền",
+  "coll": [
+   "make a payment",
+   "a monthly payment",
+   "a payment method",
+   "late payment",
+   "payment in full"
+  ]
+ },
+ {
+  "id": "sector",
+  "pos": [
+   "n"
+  ],
+  "vi": "khu vực (kinh tế); ngành; lĩnh vực",
+  "coll": [
+   "the private sector",
+   "the public sector",
+   "the banking sector",
+   "the manufacturing sector",
+   "a sector of the economy"
+  ]
+ },
+ {
+  "id": "climate change",
+  "pos": [
+   "n"
+  ],
+  "vi": "biến đổi khí hậu",
+  "coll": [
+   "combat climate change",
+   "the effects of climate change",
+   "climate change policy",
+   "global climate change"
+  ]
+ },
+ {
+  "id": "high-tech",
+  "pos": [
+   "adj"
+  ],
+  "vi": "công nghệ cao",
+  "coll": [
+   "the high-tech industry",
+   "high-tech equipment",
+   "high-tech companies",
+   "high-tech gadgets"
+  ]
+ },
+ {
+  "id": "specifically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cụ thể; riêng cho; nói rõ ra là",
+  "coll": [
+   "specifically designed",
+   "more specifically",
+   "specifically mention",
+   "aimed specifically at"
+  ]
+ },
+ {
+  "id": "urban",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đô thị; thành thị",
+  "coll": [
+   "urban areas",
+   "urban planning",
+   "urban development",
+   "the urban population",
+   "urban life"
+  ]
+ },
+ {
+  "id": "aircraft",
+  "pos": [
+   "n"
+  ],
+  "vi": "máy bay; phi cơ",
+  "coll": [
+   "military aircraft",
+   "an aircraft carrier",
+   "commercial aircraft",
+   "light aircraft",
+   "the aircraft landed"
+  ]
+ },
+ {
+  "id": "considering",
+  "pos": [
+   "conj",
+   "prep",
+   "v",
+   "n",
+   "adv"
+  ],
+  "vi": "xét đến; kể ra thì cũng; đang cân nhắc",
+  "coll": [
+   "considering the circumstances",
+   "considering his age",
+   "considering everything",
+   "not bad, considering"
+  ]
+ },
+ {
+  "id": "corporate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thuộc công ty; doanh nghiệp",
+  "coll": [
+   "corporate culture",
+   "a corporate image",
+   "corporate finance",
+   "the corporate world",
+   "corporate responsibility"
+  ]
+ },
+ {
+  "id": "determined",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "quyết tâm; kiên quyết",
+  "coll": [
+   "determined to succeed",
+   "a determined effort",
+   "fiercely determined",
+   "a determined attitude"
+  ]
+ }
+]

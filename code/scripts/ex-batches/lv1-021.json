@@ -1,0 +1,818 @@
+[
+ {
+  "id": "flavor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hương vị; mùi vị; tạo hương vị cho",
+  "coll": [
+   "strong flavor",
+   "add flavor",
+   "chocolate flavor",
+   "full of flavor"
+  ]
+ },
+ {
+  "id": "intermediate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "trung cấp; trung gian, ở giữa",
+  "coll": [
+   "intermediate level",
+   "intermediate course",
+   "intermediate stage",
+   "intermediate step"
+  ]
+ },
+ {
+  "id": "magnificent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tráng lệ; lộng lẫy; tuyệt vời",
+  "coll": [
+   "magnificent view",
+   "magnificent building",
+   "magnificent performance",
+   "truly magnificent"
+  ]
+ },
+ {
+  "id": "nonetheless",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tuy nhiên; dù vậy",
+  "coll": [
+   "but nonetheless",
+   "nonetheless, he agreed",
+   "important nonetheless"
+  ]
+ },
+ {
+  "id": "shallow",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "nông, cạn; hời hợt, nông cạn",
+  "coll": [
+   "shallow water",
+   "the shallow end",
+   "shallow breathing",
+   "a shallow person"
+  ]
+ },
+ {
+  "id": "sponsor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà tài trợ; tài trợ, bảo trợ",
+  "coll": [
+   "main sponsor",
+   "corporate sponsor",
+   "sponsor an event",
+   "official sponsor"
+  ]
+ },
+ {
+  "id": "strengthen",
+  "pos": [
+   "v"
+  ],
+  "vi": "củng cố; tăng cường; làm mạnh thêm",
+  "coll": [
+   "strengthen ties",
+   "strengthen the economy",
+   "strengthen muscles",
+   "strengthen relationships"
+  ]
+ },
+ {
+  "id": "sunset",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hoàng hôn; lúc mặt trời lặn",
+  "coll": [
+   "watch the sunset",
+   "a beautiful sunset",
+   "at sunset",
+   "sunset over the sea"
+  ]
+ },
+ {
+  "id": "transform",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "biến đổi; chuyển hóa; thay đổi hoàn toàn",
+  "coll": [
+   "transform into",
+   "completely transform",
+   "transform lives",
+   "transform the economy"
+  ]
+ },
+ {
+  "id": "workplace",
+  "pos": [
+   "n"
+  ],
+  "vi": "nơi làm việc",
+  "coll": [
+   "workplace safety",
+   "in the workplace",
+   "workplace culture",
+   "workplace environment"
+  ]
+ },
+ {
+  "id": "buyer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người mua; bên mua",
+  "coll": [
+   "potential buyer",
+   "first-time buyer",
+   "buyer and seller",
+   "attract buyers"
+  ]
+ },
+ {
+  "id": "differ",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khác nhau, khác biệt; bất đồng ý kiến",
+  "coll": [
+   "differ from each other",
+   "opinions differ",
+   "differ significantly",
+   "differ in size"
+  ]
+ },
+ {
+  "id": "eager",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "háo hức; hăm hở; khao khát",
+  "coll": [
+   "eager to learn",
+   "eager to please",
+   "eager for news",
+   "eager anticipation"
+  ]
+ },
+ {
+  "id": "essence",
+  "pos": [
+   "n"
+  ],
+  "vi": "bản chất; tinh túy; tinh chất",
+  "coll": [
+   "in essence",
+   "the essence of life",
+   "capture the essence",
+   "vanilla essence"
+  ]
+ },
+ {
+  "id": "fur",
+  "pos": [
+   "n",
+   "v",
+   "prep"
+  ],
+  "vi": "lông thú; bộ lông; áo lông thú",
+  "coll": [
+   "fur coat",
+   "thick fur",
+   "soft fur",
+   "fake fur"
+  ]
+ },
+ {
+  "id": "headline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiêu đề báo; tít báo",
+  "coll": [
+   "grab the headlines",
+   "make headlines",
+   "front-page headline",
+   "newspaper headlines"
+  ]
+ },
+ {
+  "id": "insist",
+  "pos": [
+   "v"
+  ],
+  "vi": "khăng khăng; nài nỉ; nhất quyết đòi",
+  "coll": [
+   "insist on paying",
+   "insist that it's true",
+   "if you insist",
+   "insist on doing it"
+  ]
+ },
+ {
+  "id": "ladder",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái thang; nấc thang (sự nghiệp)",
+  "coll": [
+   "climb the ladder",
+   "career ladder",
+   "top of the ladder",
+   "ladder of success"
+  ]
+ },
+ {
+  "id": "mineral",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "khoáng chất; khoáng sản",
+  "coll": [
+   "mineral water",
+   "rich in minerals",
+   "mineral resources",
+   "vitamins and minerals"
+  ]
+ },
+ {
+  "id": "orbit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quỹ đạo; bay quanh, xoay quanh",
+  "coll": [
+   "in orbit",
+   "the Earth's orbit",
+   "orbit the sun",
+   "put a satellite into orbit"
+  ]
+ },
+ {
+  "id": "passive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thụ động; bị động; thể bị động",
+  "coll": [
+   "passive smoking",
+   "the passive voice",
+   "passive role",
+   "passive income"
+  ]
+ },
+ {
+  "id": "pork",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thịt lợn; thịt heo",
+  "coll": [
+   "pork chop",
+   "roast pork",
+   "pork belly",
+   "minced pork"
+  ]
+ },
+ {
+  "id": "reject",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "từ chối; bác bỏ; loại bỏ",
+  "coll": [
+   "reject an offer",
+   "reject a proposal",
+   "flatly reject",
+   "reject the idea"
+  ]
+ },
+ {
+  "id": "remainder",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "phần còn lại; số dư (phép chia)",
+  "coll": [
+   "the remainder of the year",
+   "the remainder of his life",
+   "spend the remainder of the day"
+  ]
+ },
+ {
+  "id": "tin",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "thiếc; hộp thiếc, lon",
+  "coll": [
+   "tin can",
+   "a tin of beans",
+   "tin foil",
+   "tin roof"
+  ]
+ },
+ {
+  "id": "uncertainty",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự không chắc chắn; sự bấp bênh",
+  "coll": [
+   "economic uncertainty",
+   "face uncertainty",
+   "a degree of uncertainty",
+   "political uncertainty"
+  ]
+ },
+ {
+  "id": "weather forecast",
+  "pos": [
+   "n"
+  ],
+  "vi": "dự báo thời tiết",
+  "coll": [
+   "check the weather forecast",
+   "an accurate weather forecast",
+   "according to the weather forecast"
+  ]
+ },
+ {
+  "id": "abandon",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bỏ rơi; từ bỏ; ruồng bỏ",
+  "coll": [
+   "abandon ship",
+   "abandon a plan",
+   "abandon hope",
+   "an abandoned building"
+  ]
+ },
+ {
+  "id": "bounce",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nảy lên; bật lại; sự nảy",
+  "coll": [
+   "bounce a ball",
+   "bounce back",
+   "bounce off the wall",
+   "bounce up and down"
+  ]
+ },
+ {
+  "id": "confusing",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "khó hiểu; gây bối rối",
+  "coll": [
+   "confusing instructions",
+   "very confusing",
+   "a confusing situation",
+   "find it confusing"
+  ]
+ },
+ {
+  "id": "diving",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "môn lặn; môn nhảy cầu",
+  "coll": [
+   "scuba diving",
+   "diving board",
+   "go diving",
+   "deep-sea diving"
+  ]
+ },
+ {
+  "id": "enthusiasm",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhiệt tình; lòng hăng hái",
+  "coll": [
+   "great enthusiasm",
+   "show enthusiasm",
+   "enthusiasm for the project",
+   "full of enthusiasm"
+  ]
+ },
+ {
+  "id": "ferry",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phà; chở qua lại",
+  "coll": [
+   "take the ferry",
+   "ferry crossing",
+   "car ferry",
+   "ferry passengers"
+  ]
+ },
+ {
+  "id": "helmet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mũ bảo hiểm",
+  "coll": [
+   "wear a helmet",
+   "crash helmet",
+   "bike helmet",
+   "safety helmet"
+  ]
+ },
+ {
+  "id": "instructor",
+  "pos": [
+   "n"
+  ],
+  "vi": "người hướng dẫn; huấn luyện viên",
+  "coll": [
+   "driving instructor",
+   "fitness instructor",
+   "ski instructor",
+   "yoga instructor"
+  ]
+ },
+ {
+  "id": "isolation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cô lập; sự cách ly",
+  "coll": [
+   "in isolation",
+   "social isolation",
+   "isolation ward",
+   "complete isolation"
+  ]
+ },
+ {
+  "id": "lamb",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cừu non; thịt cừu",
+  "coll": [
+   "roast lamb",
+   "lamb chop",
+   "leg of lamb",
+   "spring lamb"
+  ]
+ },
+ {
+  "id": "liar",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ nói dối",
+  "coll": [
+   "a compulsive liar",
+   "call him a liar",
+   "a terrible liar"
+  ]
+ },
+ {
+  "id": "possess",
+  "pos": [
+   "v"
+  ],
+  "vi": "sở hữu; có được; ám (ma quỷ)",
+  "coll": [
+   "possess the ability",
+   "possess skills",
+   "possess a weapon",
+   "possess qualities"
+  ]
+ },
+ {
+  "id": "probability",
+  "pos": [
+   "n"
+  ],
+  "vi": "xác suất; khả năng xảy ra",
+  "coll": [
+   "high probability",
+   "probability theory",
+   "in all probability",
+   "the probability of success"
+  ]
+ },
+ {
+  "id": "tire",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm mệt mỏi; chán; lốp xe (Mỹ)",
+  "coll": [
+   "tire easily",
+   "never tire of",
+   "flat tire",
+   "spare tire"
+  ]
+ },
+ {
+  "id": "warn",
+  "pos": [
+   "v"
+  ],
+  "vi": "cảnh báo; báo trước; nhắc nhở",
+  "coll": [
+   "warn against",
+   "warn of danger",
+   "warn someone about",
+   "be warned"
+  ]
+ },
+ {
+  "id": "workout",
+  "pos": [
+   "n"
+  ],
+  "vi": "buổi tập thể dục; bài tập luyện",
+  "coll": [
+   "an intense workout",
+   "workout routine",
+   "do a workout",
+   "gym workout"
+  ]
+ },
+ {
+  "id": "civilization",
+  "pos": [
+   "n"
+  ],
+  "vi": "nền văn minh",
+  "coll": [
+   "ancient civilization",
+   "Western civilization",
+   "human civilization",
+   "the cradle of civilization"
+  ]
+ },
+ {
+  "id": "delicate",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mỏng manh; tinh tế; tế nhị",
+  "coll": [
+   "delicate balance",
+   "delicate skin",
+   "a delicate situation",
+   "delicate flavor"
+  ]
+ },
+ {
+  "id": "disappointment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thất vọng; nỗi thất vọng",
+  "coll": [
+   "bitter disappointment",
+   "hide her disappointment",
+   "a great disappointment",
+   "to my disappointment"
+  ]
+ },
+ {
+  "id": "disk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đĩa; đĩa từ (máy tính)",
+  "coll": [
+   "hard disk",
+   "disk space",
+   "floppy disk",
+   "disk drive"
+  ]
+ },
+ {
+  "id": "formally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách chính thức; trang trọng",
+  "coll": [
+   "formally announce",
+   "formally dressed",
+   "formally agree",
+   "formally recognized"
+  ]
+ },
+ {
+  "id": "goddess",
+  "pos": [
+   "n"
+  ],
+  "vi": "nữ thần",
+  "coll": [
+   "Greek goddess",
+   "the goddess of love",
+   "a domestic goddess"
+  ]
+ },
+ {
+  "id": "nephew",
+  "pos": [
+   "n"
+  ],
+  "vi": "cháu trai (con anh chị em)",
+  "coll": [
+   "nieces and nephews",
+   "my youngest nephew",
+   "uncle and nephew"
+  ]
+ },
+ {
+  "id": "orchestra",
+  "pos": [
+   "n"
+  ],
+  "vi": "dàn nhạc; dàn nhạc giao hưởng",
+  "coll": [
+   "symphony orchestra",
+   "conduct an orchestra",
+   "play in an orchestra",
+   "orchestra pit"
+  ]
+ },
+ {
+  "id": "preservation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bảo tồn; sự bảo quản",
+  "coll": [
+   "the preservation of the environment",
+   "food preservation",
+   "historic preservation",
+   "self-preservation"
+  ]
+ },
+ {
+  "id": "salmon",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "cá hồi; màu hồng cá hồi",
+  "coll": [
+   "smoked salmon",
+   "grilled salmon",
+   "salmon fillet",
+   "wild salmon"
+  ]
+ },
+ {
+  "id": "secretly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "lén lút; một cách bí mật",
+  "coll": [
+   "secretly recorded",
+   "secretly in love",
+   "meet secretly",
+   "secretly hoped"
+  ]
+ },
+ {
+  "id": "sheer",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "hoàn toàn, thuần túy; dốc đứng; mỏng tang",
+  "coll": [
+   "sheer luck",
+   "the sheer size",
+   "sheer determination",
+   "a sheer cliff"
+  ]
+ },
+ {
+  "id": "specially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đặc biệt, dành riêng; riêng cho",
+  "coll": [
+   "specially designed",
+   "specially made",
+   "specially trained",
+   "specially for you"
+  ]
+ },
+ {
+  "id": "sympathy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thông cảm; sự đồng cảm; lòng trắc ẩn",
+  "coll": [
+   "deep sympathy",
+   "express sympathy",
+   "have sympathy for",
+   "in sympathy with"
+  ]
+ },
+ {
+  "id": "thumb",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngón tay cái",
+  "coll": [
+   "thumbs up",
+   "rule of thumb",
+   "under someone's thumb",
+   "twiddle your thumbs"
+  ]
+ },
+ {
+  "id": "wrist",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cổ tay",
+  "coll": [
+   "a sprained wrist",
+   "flick of the wrist",
+   "wear a watch on your wrist",
+   "grab her wrist"
+  ]
+ },
+ {
+  "id": "arrange",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "sắp xếp; thu xếp; dàn xếp",
+  "coll": [
+   "arrange a meeting",
+   "arrange flowers",
+   "arrange an appointment",
+   "arrange for a taxi"
+  ]
+ }
+]

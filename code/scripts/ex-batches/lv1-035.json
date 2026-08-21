@@ -1,0 +1,806 @@
+[
+ {
+  "id": "schoolteacher",
+  "pos": [
+   "n"
+  ],
+  "vi": "giáo viên (trường học)",
+  "coll": [
+   "a primary schoolteacher",
+   "a retired schoolteacher",
+   "a village schoolteacher",
+   "work as a schoolteacher"
+  ]
+ },
+ {
+  "id": "idiom",
+  "pos": [
+   "n"
+  ],
+  "vi": "thành ngữ; đặc ngữ; phong cách riêng",
+  "coll": [
+   "English idioms",
+   "common idioms",
+   "idioms and phrases",
+   "the musical idiom"
+  ]
+ },
+ {
+  "id": "motionless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bất động; đứng im",
+  "coll": [
+   "stand motionless",
+   "lie motionless",
+   "remain motionless",
+   "a motionless body"
+  ]
+ },
+ {
+  "id": "overjoyed",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vui mừng khôn xiết; mừng rỡ",
+  "coll": [
+   "overjoyed at the news",
+   "absolutely overjoyed",
+   "overjoyed to hear",
+   "overjoyed parents"
+  ]
+ },
+ {
+  "id": "talkative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hay nói; nói nhiều; lắm lời",
+  "coll": [
+   "a talkative child",
+   "in a talkative mood",
+   "friendly and talkative",
+   "become more talkative"
+  ]
+ },
+ {
+  "id": "thump",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tiếng thịch; đấm thình thịch; đập mạnh",
+  "coll": [
+   "a loud thump",
+   "thump on the door",
+   "his heart was thumping",
+   "thump the table"
+  ]
+ },
+ {
+  "id": "firework",
+  "pos": [
+   "n"
+  ],
+  "vi": "pháo hoa",
+  "coll": [
+   "a firework display",
+   "set off fireworks",
+   "watch the fireworks",
+   "New Year fireworks"
+  ]
+ },
+ {
+  "id": "procrastination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trì hoãn; thói chần chừ",
+  "coll": [
+   "overcome procrastination",
+   "chronic procrastination",
+   "procrastination is the thief of time",
+   "avoid procrastination"
+  ]
+ },
+ {
+  "id": "loudspeaker",
+  "pos": [
+   "n"
+  ],
+  "vi": "loa phóng thanh; loa",
+  "coll": [
+   "announce over the loudspeaker",
+   "a loudspeaker system",
+   "blaring loudspeakers",
+   "a loudspeaker announcement"
+  ]
+ },
+ {
+  "id": "friendliness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thân thiện",
+  "coll": [
+   "warmth and friendliness",
+   "show friendliness",
+   "the friendliness of the locals",
+   "genuine friendliness"
+  ]
+ },
+ {
+  "id": "impair",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "làm suy giảm; làm suy yếu; làm tổn hại",
+  "coll": [
+   "impair judgment",
+   "impair vision",
+   "severely impaired",
+   "impair performance"
+  ]
+ },
+ {
+  "id": "brainstorming",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "động não nhóm; cùng nêu ý tưởng",
+  "coll": [
+   "a brainstorming session",
+   "brainstorming ideas",
+   "a brainstorming meeting",
+   "group brainstorming"
+  ]
+ },
+ {
+  "id": "categorize",
+  "pos": [
+   "v"
+  ],
+  "vi": "phân loại; xếp loại",
+  "coll": [
+   "categorize information",
+   "categorized by type",
+   "difficult to categorize",
+   "categorize into groups"
+  ]
+ },
+ {
+  "id": "environmentalist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nhà hoạt động môi trường; người bảo vệ môi trường",
+  "coll": [
+   "environmentalists protest",
+   "a leading environmentalist",
+   "environmentalists warn",
+   "a committed environmentalist"
+  ]
+ },
+ {
+  "id": "underpants",
+  "pos": [
+   "n"
+  ],
+  "vi": "quần lót",
+  "coll": [
+   "a pair of underpants",
+   "clean underpants",
+   "cotton underpants",
+   "in his underpants"
+  ]
+ },
+ {
+  "id": "fluently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trôi chảy; lưu loát",
+  "coll": [
+   "speak English fluently",
+   "read fluently",
+   "speak three languages fluently",
+   "write fluently"
+  ]
+ },
+ {
+  "id": "involuntarily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách vô thức; ngoài ý muốn",
+  "coll": [
+   "shudder involuntarily",
+   "flinch involuntarily",
+   "smile involuntarily",
+   "involuntarily unemployed"
+  ]
+ },
+ {
+  "id": "sandal",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dép xăng đan; dép quai hậu",
+  "coll": [
+   "a pair of sandals",
+   "leather sandals",
+   "wear sandals",
+   "strappy sandals"
+  ]
+ },
+ {
+  "id": "windscreen",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kính chắn gió (ô tô)",
+  "coll": [
+   "windscreen wipers",
+   "a crack in the windscreen",
+   "clean the windscreen",
+   "windscreen washer fluid"
+  ]
+ },
+ {
+  "id": "carelessly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách cẩu thả; bất cẩn",
+  "coll": [
+   "carelessly discarded",
+   "drive carelessly",
+   "carelessly tossed aside",
+   "speak carelessly"
+  ]
+ },
+ {
+  "id": "eagerness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự háo hức; lòng hăm hở",
+  "coll": [
+   "eagerness to learn",
+   "in his eagerness",
+   "eagerness to please",
+   "barely contained eagerness"
+  ]
+ },
+ {
+  "id": "calmness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bình tĩnh; sự điềm tĩnh; sự yên ả",
+  "coll": [
+   "a sense of calmness",
+   "calmness under pressure",
+   "maintain calmness",
+   "inner calmness"
+  ]
+ },
+ {
+  "id": "daze",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trạng thái ngẩn ngơ; làm choáng váng",
+  "coll": [
+   "in a daze",
+   "walk around in a daze",
+   "left him in a daze",
+   "dazed and confused"
+  ]
+ },
+ {
+  "id": "rudely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách thô lỗ; khiếm nhã; đột ngột",
+  "coll": [
+   "rudely interrupted",
+   "rudely awakened",
+   "speak rudely",
+   "behave rudely"
+  ]
+ },
+ {
+  "id": "snowstorm",
+  "pos": [
+   "n"
+  ],
+  "vi": "bão tuyết",
+  "coll": [
+   "caught in a snowstorm",
+   "a heavy snowstorm",
+   "a snowstorm warning",
+   "a blinding snowstorm"
+  ]
+ },
+ {
+  "id": "oppress",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "áp bức; đàn áp; đè nặng (tinh thần)",
+  "coll": [
+   "oppress the poor",
+   "oppressed minorities",
+   "oppressed peoples",
+   "feel oppressed"
+  ]
+ },
+ {
+  "id": "undress",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cởi quần áo; cởi đồ cho",
+  "coll": [
+   "get undressed",
+   "undress the child",
+   "undress for bed",
+   "undress quickly"
+  ]
+ },
+ {
+  "id": "uninteresting",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nhàm chán; không thú vị; tẻ nhạt",
+  "coll": [
+   "dull and uninteresting",
+   "an uninteresting book",
+   "uninteresting details",
+   "find it uninteresting"
+  ]
+ },
+ {
+  "id": "penniless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không xu dính túi; nghèo kiết xác",
+  "coll": [
+   "die penniless",
+   "left penniless",
+   "a penniless student",
+   "a penniless immigrant"
+  ]
+ },
+ {
+  "id": "carelessness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bất cẩn; tính cẩu thả",
+  "coll": [
+   "sheer carelessness",
+   "an act of carelessness",
+   "carelessness caused the accident",
+   "a moment of carelessness"
+  ]
+ },
+ {
+  "id": "innermost",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sâu kín nhất; trong cùng",
+  "coll": [
+   "innermost thoughts",
+   "innermost feelings",
+   "innermost secrets",
+   "the innermost circle"
+  ]
+ },
+ {
+  "id": "scold",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "la mắng; mắng mỏ; rầy la",
+  "coll": [
+   "scold a child",
+   "scold him for being late",
+   "scolded by her mother",
+   "gently scold"
+  ]
+ },
+ {
+  "id": "hurriedly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách vội vã; hối hả",
+  "coll": [
+   "hurriedly left the room",
+   "hurriedly written",
+   "dress hurriedly",
+   "hurriedly explained"
+  ]
+ },
+ {
+  "id": "narrate",
+  "pos": [
+   "v"
+  ],
+  "vi": "kể lại; thuật lại; thuyết minh",
+  "coll": [
+   "narrate a story",
+   "narrated by the author",
+   "narrate the documentary",
+   "narrate events"
+  ]
+ },
+ {
+  "id": "barman",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân viên quầy bar (nam); người pha chế rượu",
+  "coll": [
+   "the barman poured a drink",
+   "ask the barman",
+   "tip the barman",
+   "work as a barman"
+  ]
+ },
+ {
+  "id": "enclose",
+  "pos": [
+   "v"
+  ],
+  "vi": "bao quanh; rào kín; gửi kèm (thư)",
+  "coll": [
+   "enclose a cheque",
+   "please find enclosed",
+   "an enclosed garden",
+   "enclosed with this letter"
+  ]
+ },
+ {
+  "id": "thunderous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vang như sấm; như sấm dậy",
+  "coll": [
+   "thunderous applause",
+   "a thunderous roar",
+   "a thunderous voice",
+   "thunderous cheers"
+  ]
+ },
+ {
+  "id": "inhabitant",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "cư dân; dân cư; người ở",
+  "coll": [
+   "local inhabitants",
+   "the city's inhabitants",
+   "the original inhabitants",
+   "the oldest inhabitant"
+  ]
+ },
+ {
+  "id": "aerobics",
+  "pos": [
+   "n"
+  ],
+  "vi": "thể dục nhịp điệu; aerobic",
+  "coll": [
+   "do aerobics",
+   "an aerobics class",
+   "water aerobics",
+   "an aerobics instructor"
+  ]
+ },
+ {
+  "id": "mountaintop",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "đỉnh núi; trên đỉnh núi",
+  "coll": [
+   "snow-capped mountaintops",
+   "from the mountaintop",
+   "mountaintop views",
+   "a mountaintop village"
+  ]
+ },
+ {
+  "id": "unafraid",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không sợ hãi; chẳng e sợ",
+  "coll": [
+   "unafraid of death",
+   "unafraid to speak out",
+   "seemingly unafraid",
+   "bold and unafraid"
+  ]
+ },
+ {
+  "id": "interviewee",
+  "pos": [
+   "n"
+  ],
+  "vi": "người được phỏng vấn",
+  "coll": [
+   "interviewer and interviewee",
+   "put the interviewee at ease",
+   "the interviewee answered",
+   "potential interviewees"
+  ]
+ },
+ {
+  "id": "photocopy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bản phô-tô; sao chụp, phô-tô",
+  "coll": [
+   "make a photocopy",
+   "a photocopy of the document",
+   "photocopy the form",
+   "attach a photocopy"
+  ]
+ },
+ {
+  "id": "tracksuit",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ đồ thể thao (nỉ)",
+  "coll": [
+   "wear a tracksuit",
+   "tracksuit bottoms",
+   "a matching tracksuit",
+   "a tracksuit top"
+  ]
+ },
+ {
+  "id": "wristwatch",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồng hồ đeo tay",
+  "coll": [
+   "glance at his wristwatch",
+   "wear a wristwatch",
+   "a digital wristwatch",
+   "a gold wristwatch"
+  ]
+ },
+ {
+  "id": "pollutant",
+  "pos": [
+   "n"
+  ],
+  "vi": "chất gây ô nhiễm",
+  "coll": [
+   "air pollutants",
+   "harmful pollutants",
+   "pollutant levels",
+   "reduce pollutants"
+  ]
+ },
+ {
+  "id": "uplifted",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "phấn chấn; được nâng lên",
+  "coll": [
+   "feel uplifted",
+   "spiritually uplifted",
+   "uplifted arms",
+   "leave the audience uplifted"
+  ]
+ },
+ {
+  "id": "participle",
+  "pos": [
+   "n"
+  ],
+  "vi": "phân từ",
+  "coll": [
+   "past participle",
+   "present participle",
+   "a dangling participle",
+   "a participle clause"
+  ]
+ },
+ {
+  "id": "easygoing",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dễ tính; xuề xòa; thoải mái",
+  "coll": [
+   "an easygoing personality",
+   "an easygoing attitude",
+   "friendly and easygoing",
+   "an easygoing manner"
+  ]
+ },
+ {
+  "id": "glint",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "ánh lóe sáng; lóe lên; tia lấp lánh (trong mắt)",
+  "coll": [
+   "a glint in his eye",
+   "a glint of steel",
+   "a glint of mischief",
+   "the sun glinted off the water"
+  ]
+ },
+ {
+  "id": "paralyze",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm tê liệt; làm liệt; làm đình trệ",
+  "coll": [
+   "paralyzed from the waist down",
+   "paralyzed with fear",
+   "paralyze the city",
+   "paralyzed by indecision"
+  ]
+ },
+ {
+  "id": "backpacker",
+  "pos": [
+   "n"
+  ],
+  "vi": "dân du lịch bụi; khách ba lô",
+  "coll": [
+   "backpacker hostel",
+   "budget backpacker",
+   "backpacker accommodation",
+   "young backpackers"
+  ]
+ },
+ {
+  "id": "doze",
+  "pos": [
+   "n",
+   "v",
+   "det"
+  ],
+  "vi": "ngủ gà ngủ gật; chợp mắt; giấc ngủ ngắn",
+  "coll": [
+   "doze off in class",
+   "doze in the armchair",
+   "have a doze",
+   "doze lightly"
+  ]
+ },
+ {
+  "id": "devastate",
+  "pos": [
+   "v"
+  ],
+  "vi": "tàn phá; làm suy sụp",
+  "coll": [
+   "devastate the city",
+   "devastated by the news",
+   "devastate the economy",
+   "devastate entire villages"
+  ]
+ },
+ {
+  "id": "overwork",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "làm việc quá sức; bắt làm quá sức; sự lao lực",
+  "coll": [
+   "overworked and underpaid",
+   "overwork yourself",
+   "suffer from overwork",
+   "overworked staff"
+  ]
+ },
+ {
+  "id": "preposition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giới từ",
+  "coll": [
+   "preposition of place",
+   "preposition of time",
+   "end a sentence with a preposition",
+   "choose the correct preposition"
+  ]
+ },
+ {
+  "id": "immigrate",
+  "pos": [
+   "v"
+  ],
+  "vi": "nhập cư",
+  "coll": [
+   "immigrate to the United States",
+   "immigrate to Canada",
+   "immigrate legally",
+   "immigrate from Vietnam"
+  ]
+ },
+ {
+  "id": "pullover",
+  "pos": [
+   "n"
+  ],
+  "vi": "áo len chui đầu",
+  "coll": [
+   "wool pullover",
+   "knitted pullover",
+   "wear a pullover",
+   "warm pullover"
+  ]
+ },
+ {
+  "id": "untidy",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bừa bộn; lộn xộn; luộm thuộm; làm bừa bộn",
+  "coll": [
+   "untidy room",
+   "untidy hair",
+   "untidy desk",
+   "untidy handwriting"
+  ]
+ },
+ {
+  "id": "infinitive",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "động từ nguyên mẫu; nguyên thể; thuộc dạng nguyên mẫu",
+  "coll": [
+   "bare infinitive",
+   "split infinitive",
+   "infinitive form",
+   "verb in the infinitive"
+  ]
+ }
+]

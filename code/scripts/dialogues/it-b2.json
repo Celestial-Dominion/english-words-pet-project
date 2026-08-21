@@ -1,0 +1,138 @@
+[
+ {
+  "id": "dlg-it-code-review",
+  "level": 2,
+  "topic": "it",
+  "title_en": "Reviewing a pull request",
+  "title_vi": "Review một pull request",
+  "speakers": ["Grace", "Tuấn"],
+  "turns": [
+   { "sp": 0, "en": "I've left some comments on your pull request. Do you have time to go through them?", "vi": "Tôi vừa để lại mấy comment trong pull request của anh. Anh có thời gian xem qua cùng tôi không?" },
+   { "sp": 1, "en": "Sure, let's do it now. I saw the one about the duplicate code.", "vi": "Có chứ, mình xem luôn đi. Tôi thấy comment về đoạn code bị lặp rồi." },
+   { "sp": 0, "en": "Right. The same validation logic appears in three places. Could you move it into one function?", "vi": "Đúng vậy. Cùng một logic validate mà xuất hiện ở ba chỗ. Anh gom nó vào một hàm được không?" },
+   { "sp": 1, "en": "Good point. I'll create a helper and call it from all three.", "vi": "Chị nói đúng. Tôi sẽ tạo một hàm helper rồi gọi từ cả ba chỗ." },
+   { "sp": 0, "en": "Also, the new endpoint doesn't handle empty input. It just crashes.", "vi": "Ngoài ra, endpoint mới chưa xử lý input rỗng. Nó crash luôn." },
+   { "sp": 1, "en": "You're right, I missed that case. I'll return a clear error message instead.", "vi": "Chị nói đúng, tôi bỏ sót trường hợp đó. Tôi sẽ trả về thông báo lỗi rõ ràng." },
+   { "sp": 0, "en": "One more thing. Some variable names are quite short. What does 'tmp2' hold?", "vi": "Còn một điều nữa. Vài tên biến hơi cụt. Biến 'tmp2' chứa gì vậy?" },
+   { "sp": 1, "en": "It holds the filtered list of users. I'll rename it to something clearer.", "vi": "Nó chứa danh sách user đã lọc. Tôi sẽ đổi tên cho dễ hiểu hơn." },
+   { "sp": 0, "en": "Great. Apart from that, the logic looks solid to me.", "vi": "Tốt. Ngoài mấy điểm đó ra thì logic nhìn ổn đấy." },
+   { "sp": 1, "en": "Thanks. I'll push the changes this afternoon and tag you again.", "vi": "Cảm ơn chị. Chiều nay tôi push các thay đổi rồi tag chị lần nữa." },
+   { "sp": 0, "en": "Perfect. Once the tests pass, I'll approve and merge it.", "vi": "Chuẩn. Test chạy xanh là tôi approve rồi merge." },
+   { "sp": 1, "en": "Sounds good. Thanks for the careful review.", "vi": "Nghe hợp lý. Cảm ơn chị đã review kỹ." }
+  ]
+ },
+ {
+  "id": "dlg-it-junior-interview",
+  "level": 2,
+  "topic": "it",
+  "title_en": "Interviewing a junior developer",
+  "title_vi": "Phỏng vấn lập trình viên junior",
+  "speakers": ["Emily", "Đạt"],
+  "turns": [
+   { "sp": 0, "en": "Thanks for coming in. Could you tell me about your final year project?", "vi": "Cảm ơn em đã đến. Em kể chị nghe về đồ án tốt nghiệp của em nhé?" },
+   { "sp": 1, "en": "Of course. I built a website for booking badminton courts, using React and Node.", "vi": "Dạ. Em làm một website đặt sân cầu lông, dùng React và Node ạ." },
+   { "sp": 0, "en": "Interesting. What was the hardest part of that project?", "vi": "Thú vị đấy. Phần khó nhất của đồ án là gì?" },
+   { "sp": 1, "en": "Handling double bookings. Two people could pick the same slot at the same time.", "vi": "Là xử lý đặt trùng ạ. Hai người có thể chọn cùng một khung giờ vào cùng lúc." },
+   { "sp": 0, "en": "And how did you solve it?", "vi": "Rồi em giải quyết thế nào?" },
+   { "sp": 1, "en": "I added a unique check in the database, so only the first booking succeeds.", "vi": "Em thêm ràng buộc unique trong database, nên chỉ lượt đặt đầu tiên thành công ạ." },
+   { "sp": 0, "en": "Good. If your code works on your machine but fails on the server, what do you do?", "vi": "Tốt. Nếu code chạy trên máy em mà lên server lại lỗi, em làm gì?" },
+   { "sp": 1, "en": "First I'd read the server logs, then compare configs and library versions.", "vi": "Trước tiên em đọc log trên server, sau đó so sánh config và version thư viện ạ." },
+   { "sp": 0, "en": "Nice answer. Do you prefer working alone or in a team?", "vi": "Trả lời hay đấy. Em thích làm việc một mình hay theo nhóm?" },
+   { "sp": 1, "en": "In a team. I learn much faster when someone reviews my code.", "vi": "Theo nhóm ạ. Có người review code thì em học nhanh hơn nhiều." },
+   { "sp": 0, "en": "Last question. What do you want to learn in your first year here?", "vi": "Câu cuối nhé. Năm đầu ở đây em muốn học gì?" },
+   { "sp": 1, "en": "I want to get better at testing and understand a real deploy process.", "vi": "Em muốn viết test tốt hơn và hiểu một quy trình deploy thực tế ạ." },
+   { "sp": 0, "en": "Great. We'll contact you about the next round within a week.", "vi": "Tốt. Trong vòng một tuần bọn chị sẽ báo em về vòng tiếp theo." },
+   { "sp": 1, "en": "Thank you. I hope to hear good news.", "vi": "Em cảm ơn chị. Em mong sẽ có tin vui ạ." }
+  ]
+ },
+ {
+  "id": "dlg-it-task-handover",
+  "level": 2,
+  "topic": "it",
+  "title_en": "Clarifying a task with the PM",
+  "title_vi": "Làm rõ task mới với PM",
+  "speakers": ["Jason", "Hương"],
+  "turns": [
+   { "sp": 0, "en": "I've assigned you the export feature. The client wants it by the end of the sprint.", "vi": "Tôi vừa giao chị tính năng export. Khách muốn có trước khi hết sprint." },
+   { "sp": 1, "en": "I saw the ticket. Do they need Excel or CSV?", "vi": "Tôi thấy ticket rồi. Họ cần file Excel hay CSV?" },
+   { "sp": 0, "en": "Both, actually. Excel for managers and CSV for their old accounting system.", "vi": "Cả hai luôn. Excel cho quản lý, còn CSV cho hệ thống kế toán cũ của họ." },
+   { "sp": 1, "en": "Okay. Should the export include deleted orders too?", "vi": "Được. File export có gồm cả đơn đã xoá không?" },
+   { "sp": 0, "en": "Good question. Let me check with the client and get back to you.", "vi": "Câu hỏi hay. Để tôi hỏi lại khách rồi báo chị." },
+   { "sp": 1, "en": "Thanks. Also, the ticket says nothing about file size limits.", "vi": "Cảm ơn anh. À, ticket cũng chưa nói gì về giới hạn dung lượng file." },
+   { "sp": 0, "en": "Their biggest report has about fifty thousand rows. Is that a problem?", "vi": "Báo cáo lớn nhất của họ khoảng năm mươi nghìn dòng. Có vấn đề gì không?" },
+   { "sp": 1, "en": "Not for CSV. Excel needs a loading screen, since it takes a few seconds.", "vi": "CSV thì không. Excel thì cần màn hình chờ, vì phải mất vài giây mới xong." },
+   { "sp": 0, "en": "That's fine. Can you finish everything within this sprint?", "vi": "Vậy ổn. Chị làm xong hết trong sprint này được chứ?" },
+   { "sp": 1, "en": "If the answer about deleted orders comes today, yes. Otherwise it slips a day or two.", "vi": "Nếu hôm nay có câu trả lời về đơn đã xoá thì được. Không thì trễ một hai ngày." },
+   { "sp": 0, "en": "Understood. I'll message them right after this meeting.", "vi": "Hiểu rồi. Họp xong tôi nhắn họ luôn." },
+   { "sp": 1, "en": "Great. I'll start with the CSV part since it's already clear.", "vi": "Tốt. Tôi sẽ làm phần CSV trước vì nó rõ ràng rồi." }
+  ]
+ },
+ {
+  "id": "dlg-it-api-question",
+  "level": 2,
+  "topic": "it",
+  "title_en": "Asking the backend team about an API",
+  "title_vi": "Hỏi đội backend về API",
+  "speakers": ["Phong", "Olivia"],
+  "turns": [
+   { "sp": 0, "en": "Olivia, I have a question about the orders API. Is now a good time?", "vi": "Olivia ơi, tôi có câu hỏi về API đơn hàng. Giờ nói chuyện có tiện không?" },
+   { "sp": 1, "en": "Sure, go ahead.", "vi": "Tiện chứ, anh hỏi đi." },
+   { "sp": 0, "en": "The endpoint returns the customer id, but I also need the customer name.", "vi": "Endpoint đang trả về id khách hàng, nhưng tôi cần cả tên khách nữa." },
+   { "sp": 1, "en": "We left the name out to keep the response small. How are you using it?", "vi": "Bọn tôi bỏ tên ra cho response nhẹ. Anh đang dùng nó thế nào?" },
+   { "sp": 0, "en": "I show a list of recent orders, and calling another API for each name is slow.", "vi": "Tôi hiển thị danh sách đơn gần đây, mà gọi thêm một API cho từng cái tên thì chậm quá." },
+   { "sp": 1, "en": "I see. We can add a name field, but it needs a small change on our side.", "vi": "Hiểu rồi. Bọn tôi thêm field tên được, nhưng phải sửa một chút bên này." },
+   { "sp": 0, "en": "How long would that take?", "vi": "Việc đó mất bao lâu?" },
+   { "sp": 1, "en": "About a day, including tests. It should be on staging tomorrow afternoon.", "vi": "Khoảng một ngày, tính cả viết test. Chiều mai chắc là lên staging." },
+   { "sp": 0, "en": "Perfect. Will old versions of the app break when you add the field?", "vi": "Quá tốt. Thêm field như vậy thì các bản app cũ có hỏng không?" },
+   { "sp": 1, "en": "No, adding a field is safe. Removing one would be a breaking change.", "vi": "Không, thêm field thì an toàn. Xoá field mới là breaking change." },
+   { "sp": 0, "en": "Great. Could you update the API docs as well?", "vi": "Tuyệt. Chị cập nhật luôn tài liệu API nhé?" },
+   { "sp": 1, "en": "Of course. I'll send you the link once it's deployed.", "vi": "Tất nhiên. Deploy xong tôi gửi anh link." }
+  ]
+ },
+ {
+  "id": "dlg-it-support-call",
+  "level": 2,
+  "topic": "it",
+  "title_en": "A customer reports an error",
+  "title_vi": "Khách hàng báo lỗi qua support",
+  "speakers": ["Nga", "Daniel"],
+  "turns": [
+   { "sp": 0, "en": "Thank you for calling BlueSky support. This is Nga. How can I help you?", "vi": "Cảm ơn anh đã gọi đến tổng đài BlueSky. Em là Nga. Em có thể giúp gì ạ?" },
+   { "sp": 1, "en": "Hi. Our staff can't log in to the sales app since this morning.", "vi": "Chào em. Từ sáng đến giờ nhân viên bên anh không đăng nhập được app bán hàng." },
+   { "sp": 0, "en": "I'm sorry about that. Do you see any error message on the screen?", "vi": "Em xin lỗi vì sự cố ạ. Trên màn hình có hiện thông báo lỗi gì không anh?" },
+   { "sp": 1, "en": "Yes, it says 'Session expired, please try again'.", "vi": "Có, nó báo 'Phiên đăng nhập hết hạn, vui lòng thử lại'." },
+   { "sp": 0, "en": "Thank you. Does it happen to every account or only some?", "vi": "Dạ. Lỗi xảy ra với tất cả tài khoản hay chỉ vài tài khoản ạ?" },
+   { "sp": 1, "en": "Every account in our shop. We've tried three different phones.", "vi": "Tất cả tài khoản trong cửa hàng. Bên anh thử ba điện thoại khác nhau rồi." },
+   { "sp": 0, "en": "Understood. Could you give me your store code? It starts with two letters.", "vi": "Em hiểu rồi. Anh cho em xin mã cửa hàng ạ? Mã bắt đầu bằng hai chữ cái." },
+   { "sp": 1, "en": "It's HN2047.", "vi": "HN2047 nhé em." },
+   { "sp": 0, "en": "One moment, please. I can see the problem now. Your store token needs a reset.", "vi": "Anh chờ em một chút ạ. Em thấy vấn đề rồi. Token của cửa hàng mình cần được reset." },
+   { "sp": 1, "en": "Can you fix it right now? We have customers waiting.", "vi": "Em xử lý ngay được không? Khách đang đứng chờ đây." },
+   { "sp": 0, "en": "Yes, I've just reset it. Please close the app fully and log in again.", "vi": "Dạ được, em vừa reset xong. Anh tắt hẳn app rồi đăng nhập lại giúp em ạ." },
+   { "sp": 1, "en": "One second. Okay, it works now. Thank you.", "vi": "Chờ chút nhé. Rồi, vào được rồi. Cảm ơn em." },
+   { "sp": 0, "en": "I'm glad to hear that. Is there anything else I can help with?", "vi": "Dạ em mừng quá. Anh còn cần em hỗ trợ gì nữa không ạ?" },
+   { "sp": 1, "en": "No, that's all. Have a nice day.", "vi": "Không, vậy là được rồi. Chúc em một ngày tốt lành." }
+  ]
+ },
+ {
+  "id": "dlg-it-sprint-estimate",
+  "level": 2,
+  "topic": "it",
+  "title_en": "Estimating tasks for the sprint",
+  "title_vi": "Ước lượng thời gian cho sprint",
+  "speakers": ["Rachel", "Khoa"],
+  "turns": [
+   { "sp": 0, "en": "Let's estimate the payment ticket. How big do you think it is?", "vi": "Mình ước lượng ticket thanh toán nhé. Anh thấy nó cỡ nào?" },
+   { "sp": 1, "en": "The happy path is simple, maybe two days. But refunds worry me.", "vi": "Luồng chính thì đơn giản, chắc hai ngày. Nhưng phần hoàn tiền làm tôi lo." },
+   { "sp": 0, "en": "Why the refunds?", "vi": "Sao lại lo phần hoàn tiền?" },
+   { "sp": 1, "en": "The bank API only allows refunds within seven days, and our design ignores that.", "vi": "API ngân hàng chỉ cho hoàn tiền trong bảy ngày, mà bản thiết kế của mình đang bỏ qua điều đó." },
+   { "sp": 0, "en": "So we need an extra rule and probably a new error screen.", "vi": "Vậy là cần thêm một rule và chắc thêm cả một màn hình báo lỗi." },
+   { "sp": 1, "en": "Exactly. With that, I'd say five days in total.", "vi": "Chính xác. Tính cả phần đó thì tôi ước chừng năm ngày." },
+   { "sp": 0, "en": "That's almost half the sprint. Can we split the ticket?", "vi": "Vậy là gần nửa sprint rồi. Mình tách ticket ra được không?" },
+   { "sp": 1, "en": "Sure. Payments first, refunds as a separate ticket next sprint.", "vi": "Được chứ. Thanh toán làm trước, hoàn tiền tách ra để sprint sau." },
+   { "sp": 0, "en": "The client wants refunds this month though. Does next sprint still fit?", "vi": "Nhưng khách muốn có hoàn tiền trong tháng này. Sprint sau liệu có kịp không?" },
+   { "sp": 1, "en": "Yes, next sprint ends on the twenty-fifth. That leaves a few days of buffer.", "vi": "Kịp, sprint sau kết thúc ngày hai lăm. Vẫn dư ra vài ngày buffer." },
+   { "sp": 0, "en": "Okay, I'll split the ticket and update the sprint board.", "vi": "Được, tôi sẽ tách ticket và cập nhật bảng sprint." },
+   { "sp": 1, "en": "Thanks. I'll note down the API limits so we don't forget them.", "vi": "Cảm ơn chị. Tôi sẽ ghi lại các giới hạn của API để mình khỏi quên." }
+  ]
+ }
+]

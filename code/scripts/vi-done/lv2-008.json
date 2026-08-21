@@ -1,0 +1,402 @@
+{
+ "rider": {
+  "vi": "người cưỡi ngựa; người đi xe; điều khoản bổ sung",
+  "coll": ["horse rider", "motorcycle rider", "experienced rider", "bike rider"]
+ },
+ "ritual": {
+  "vi": "nghi lễ; nghi thức; thói quen cố định",
+  "coll": ["religious ritual", "daily ritual", "perform a ritual", "ritual sacrifice", "morning ritual"]
+ },
+ "slam": {
+  "vi": "đóng sầm; đập mạnh; chỉ trích gay gắt",
+  "coll": ["slam the door", "slam on the brakes", "slam into", "slam down the phone", "grand slam"]
+ },
+ "utterly": {
+  "vi": "hoàn toàn; cực kỳ",
+  "coll": ["utterly ridiculous", "utterly exhausted", "utterly destroyed", "utterly different", "utterly convinced"]
+ },
+ "width": {
+  "vi": "chiều rộng; bề ngang",
+  "coll": ["the width of the room", "in width", "full width", "shoulder width apart", "length and width"]
+ },
+ "aluminum": {
+  "vi": "nhôm",
+  "coll": ["aluminum foil", "aluminum can", "aluminum alloy", "recycled aluminum", "aluminum frame"]
+ },
+ "evaluate": {
+  "vi": "đánh giá; thẩm định; tính giá trị",
+  "coll": ["evaluate the results", "evaluate performance", "carefully evaluate", "evaluate options", "evaluate the risk"]
+ },
+ "junk food": {
+  "vi": "đồ ăn vặt vô bổ; thức ăn rác",
+  "coll": ["eat junk food", "junk food diet", "avoid junk food", "junk food addiction"]
+ },
+ "massage": {
+  "vi": "mát-xa; xoa bóp",
+  "coll": ["get a massage", "give someone a massage", "foot massage", "massage therapy", "deep tissue massage"]
+ },
+ "pad": {
+  "vi": "miếng đệm; tập giấy; lót đệm",
+  "coll": ["a pad of paper", "knee pads", "mouse pad", "shoulder pads", "launch pad"]
+ },
+ "privately": {
+  "vi": "riêng tư; kín đáo; do tư nhân",
+  "coll": ["privately owned", "privately funded", "speak privately", "privately educated", "meet privately"]
+ },
+ "sail": {
+  "vi": "đi thuyền; giương buồm; cánh buồm",
+  "coll": ["set sail", "sail across the ocean", "sail a boat", "under sail", "full sail"]
+ },
+ "seller": {
+  "vi": "người bán; món bán chạy",
+  "coll": ["best seller", "private seller", "top seller", "online seller", "buyer and seller"]
+ },
+ "tan": {
+  "vi": "da rám nắng; màu nâu vàng; làm rám nắng",
+  "coll": ["get a tan", "a deep tan", "tan lines", "fake tan", "tan leather"]
+ },
+ "transparent": {
+  "vi": "trong suốt; minh bạch; rõ rành rành",
+  "coll": ["transparent glass", "transparent process", "fully transparent", "transparent government", "transparent material"]
+ },
+ "vitamin": {
+  "vi": "vitamin; sinh tố",
+  "coll": ["vitamin C", "take vitamins", "vitamin deficiency", "vitamin supplement", "rich in vitamins"]
+ },
+ "wheat": {
+  "vi": "lúa mì; hạt lúa mì",
+  "coll": ["wheat flour", "wheat field", "whole wheat", "grow wheat", "wheat harvest"]
+ },
+ "whip": {
+  "vi": "quất roi; cái roi da; đánh bông (kem)",
+  "coll": ["crack a whip", "whip the cream", "whip a horse", "whip out", "riding whip"]
+ },
+ "wipe": {
+  "vi": "lau; chùi; xóa sạch",
+  "coll": ["wipe the table", "wipe your feet", "wipe away tears", "wipe out", "baby wipes"]
+ },
+ "acute": {
+  "vi": "cấp tính; gay gắt; nhạy bén",
+  "coll": ["acute pain", "acute shortage", "acute angle", "acute illness", "acute awareness"]
+ },
+ "considerably": {
+  "vi": "đáng kể; nhiều hơn hẳn",
+  "coll": ["vary considerably", "considerably higher", "increase considerably", "differ considerably", "considerably more"]
+ },
+ "cottage": {
+  "vi": "nhà tranh; nhà nhỏ ở quê",
+  "coll": ["country cottage", "thatched cottage", "holiday cottage", "cottage cheese", "cosy cottage"]
+ },
+ "dash": {
+  "vi": "dấu gạch ngang; chạy vụt đi; một chút xíu",
+  "coll": ["make a dash for", "a dash of salt", "dash off", "dash across the road", "em dash"]
+ },
+ "disposal": {
+  "vi": "việc xử lý rác; sự vứt bỏ; quyền sử dụng",
+  "coll": ["waste disposal", "at your disposal", "garbage disposal", "safe disposal", "disposal of rubbish"]
+ },
+ "donation": {
+  "vi": "khoản quyên góp; sự hiến tặng",
+  "coll": ["make a donation", "blood donation", "charitable donation", "generous donation", "donation to charity"]
+ },
+ "global warming": {
+  "vi": "sự nóng lên toàn cầu",
+  "coll": ["combat global warming", "the effects of global warming", "contribute to global warming", "slow global warming"]
+ },
+ "outlet": {
+  "vi": "cửa hàng bán lẻ; lối thoát cảm xúc; ổ cắm điện",
+  "coll": ["retail outlet", "media outlet", "an outlet for", "power outlet", "outlet store"]
+ },
+ "publicity": {
+  "vi": "sự quảng bá; sự chú ý của công chúng",
+  "coll": ["bad publicity", "publicity stunt", "gain publicity", "publicity campaign", "avoid publicity"]
+ },
+ "upside down": {
+  "vi": "lộn ngược; đảo lộn hết",
+  "coll": ["turn upside down", "hang upside down", "hold it upside down", "upside down cake"]
+ },
+ "vaccine": {
+  "vi": "vắc-xin; thuốc chủng ngừa",
+  "coll": ["flu vaccine", "develop a vaccine", "vaccine dose", "COVID vaccine", "administer a vaccine"]
+ },
+ "barn": {
+  "vi": "nhà kho ở nông trại; chuồng gia súc",
+  "coll": ["an old barn", "barn door", "barn owl", "store hay in the barn"]
+ },
+ "cathedral": {
+  "vi": "nhà thờ lớn; thánh đường",
+  "coll": ["gothic cathedral", "cathedral city", "visit the cathedral", "medieval cathedral", "cathedral ceiling"]
+ },
+ "clause": {
+  "vi": "mệnh đề; điều khoản hợp đồng",
+  "coll": ["relative clause", "subordinate clause", "contract clause", "escape clause", "a clause in the agreement"]
+ },
+ "dock": {
+  "vi": "bến tàu; cập bến; vành móng ngựa",
+  "coll": ["dry dock", "dock the boat", "loading dock", "in the dock", "dock workers"]
+ },
+ "entrepreneur": {
+  "vi": "doanh nhân; người khởi nghiệp",
+  "coll": ["successful entrepreneur", "young entrepreneur", "tech entrepreneur", "serial entrepreneur", "budding entrepreneur"]
+ },
+ "expectation": {
+  "vi": "kỳ vọng; sự mong đợi",
+  "coll": ["meet expectations", "exceed expectations", "high expectations", "live up to expectations", "low expectations"]
+ },
+ "expedition": {
+  "vi": "cuộc thám hiểm; chuyến đi xa",
+  "coll": ["lead an expedition", "polar expedition", "scientific expedition", "join an expedition", "expedition to the Arctic"]
+ },
+ "facilitate": {
+  "vi": "tạo điều kiện; hỗ trợ; điều phối",
+  "coll": ["facilitate communication", "facilitate learning", "facilitate a meeting", "facilitate change", "facilitate access"]
+ },
+ "feat": {
+  "vi": "kỳ tích; chiến công",
+  "coll": ["an impressive feat", "achieve a feat", "a remarkable feat", "a feat of engineering", "no mean feat"]
+ },
+ "infant": {
+  "vi": "trẻ sơ sinh; em bé nhỏ",
+  "coll": ["newborn infant", "infant mortality", "infant formula", "infant school", "premature infant"]
+ },
+ "injection": {
+  "vi": "mũi tiêm; sự tiêm; sự bơm vốn",
+  "coll": ["give an injection", "insulin injection", "cash injection", "injection of funds", "fuel injection"]
+ },
+ "insult": {
+  "vi": "sự lăng mạ; lời sỉ nhục; xúc phạm",
+  "coll": ["hurl insults", "take it as an insult", "insult someone", "racial insult", "add insult to injury"]
+ },
+ "neat": {
+  "vi": "gọn gàng; ngăn nắp; hay đấy",
+  "coll": ["neat and tidy", "neat handwriting", "a neat solution", "keep it neat", "neat whisky"]
+ },
+ "outbreak": {
+  "vi": "sự bùng phát; đợt bùng nổ",
+  "coll": ["outbreak of disease", "flu outbreak", "outbreak of war", "contain an outbreak", "recent outbreak"]
+ },
+ "probe": {
+  "vi": "cuộc điều tra; thăm dò; đầu dò",
+  "coll": ["launch a probe", "space probe", "probe into", "police probe", "probe deeper"]
+ },
+ "sneak": {
+  "vi": "lén lút đi; làm trộm; kẻ lén lút",
+  "coll": ["sneak out", "sneak in", "sneak a look", "sneak up on someone", "sneak preview"]
+ },
+ "spark": {
+  "vi": "tia lửa; khơi mào; châm ngòi",
+  "coll": ["spark a debate", "spark controversy", "a spark of hope", "sparks fly", "spark interest"]
+ },
+ "colleague": {
+  "vi": "đồng nghiệp",
+  "coll": ["a former colleague", "close colleague", "senior colleague", "colleagues at work"]
+ },
+ "dense": {
+  "vi": "dày đặc; đông đúc; đặc quánh",
+  "coll": ["dense forest", "dense fog", "dense population", "dense crowd", "dense traffic"]
+ },
+ "desperately": {
+  "vi": "tuyệt vọng; vô cùng; cuống cuồng",
+  "coll": ["desperately need", "desperately trying", "desperately want", "desperately ill", "desperately poor"]
+ },
+ "financially": {
+  "vi": "về mặt tài chính",
+  "coll": ["financially independent", "financially stable", "financially secure", "struggle financially", "financially viable"]
+ },
+ "furious": {
+  "vi": "giận dữ; điên tiết; dữ dội",
+  "coll": ["absolutely furious", "furious with someone", "a furious row", "a furious pace", "make someone furious"]
+ },
+ "jaw": {
+  "vi": "hàm; quai hàm",
+  "coll": ["broken jaw", "clenched jaw", "his jaw dropped", "square jaw", "lower jaw"]
+ },
+ "lawn": {
+  "vi": "bãi cỏ; thảm cỏ",
+  "coll": ["mow the lawn", "front lawn", "lawn mower", "manicured lawn", "water the lawn"]
+ },
+ "manufacture": {
+  "vi": "sản xuất; chế tạo; việc sản xuất",
+  "coll": ["manufacture goods", "the manufacture of cars", "manufacture products", "manufacture evidence"]
+ },
+ "oval": {
+  "vi": "hình bầu dục; hình trái xoan",
+  "coll": ["oval shape", "oval face", "oval table", "the Oval Office", "oval track"]
+ },
+ "refugee": {
+  "vi": "người tị nạn; dân tị nạn",
+  "coll": ["refugee camp", "political refugee", "refugee crisis", "refugee status", "flee as refugees"]
+ },
+ "seasonal": {
+  "vi": "theo mùa; thuộc mùa vụ",
+  "coll": ["seasonal work", "seasonal changes", "seasonal produce", "seasonal flu", "seasonal demand"]
+ },
+ "sensible": {
+  "vi": "hợp lý; biết điều; thiết thực",
+  "coll": ["a sensible decision", "sensible advice", "be sensible", "sensible shoes", "a sensible approach"]
+ },
+ "twisted": {
+  "vi": "xoắn lại; méo mó; lệch lạc",
+  "coll": ["twisted ankle", "twisted metal", "a twisted sense of humour", "twisted mind", "twisted wire"]
+ },
+ "berry": {
+  "vi": "quả mọng; quả mâm xôi các loại",
+  "coll": ["pick berries", "wild berries", "berry bush", "mixed berries", "berry juice"]
+ },
+ "certification": {
+  "vi": "chứng nhận; giấy chứng nhận",
+  "coll": ["obtain certification", "professional certification", "certification process", "safety certification", "organic certification"]
+ },
+ "compatible": {
+  "vi": "tương thích; hợp nhau",
+  "coll": ["compatible with", "fully compatible", "compatible software", "compatible devices", "compatible personalities"]
+ },
+ "explosive": {
+  "vi": "chất nổ; dễ nổ; bùng nổ mạnh",
+  "coll": ["explosive device", "highly explosive", "explosive growth", "plastic explosives", "explosive material"]
+ },
+ "frontier": {
+  "vi": "biên giới; ranh giới; lĩnh vực mới",
+  "coll": ["cross the frontier", "the final frontier", "new frontiers", "frontier town", "push the frontiers"]
+ },
+ "geographic": {
+  "vi": "thuộc địa lý; về mặt địa lý",
+  "coll": ["geographic location", "geographic area", "geographic distribution", "geographic region", "National Geographic"]
+ },
+ "grasp": {
+  "vi": "nắm chặt; hiểu rõ; tầm với",
+  "coll": ["grasp the concept", "grasp an opportunity", "within your grasp", "a firm grasp", "grasp the meaning"]
+ },
+ "incentive": {
+  "vi": "động lực; ưu đãi khuyến khích",
+  "coll": ["financial incentive", "provide an incentive", "tax incentive", "strong incentive", "an incentive to work"]
+ },
+ "madness": {
+  "vi": "sự điên rồ; sự mất trí",
+  "coll": ["sheer madness", "utter madness", "method in the madness", "the madness of war"]
+ },
+ "merger": {
+  "vi": "sự sáp nhập; vụ hợp nhất",
+  "coll": ["a merger between", "propose a merger", "mergers and acquisitions", "complete a merger", "corporate merger"]
+ },
+ "resign": {
+  "vi": "từ chức; xin nghỉ việc; cam chịu",
+  "coll": ["resign from office", "resign as chairman", "resign your post", "forced to resign", "resign yourself to"]
+ },
+ "rub": {
+  "vi": "xoa; chà xát; sự xoa bóp",
+  "coll": ["rub your eyes", "rub it in", "rub together", "rub off on", "give it a rub"]
+ },
+ "slap": {
+  "vi": "cái tát; tát; vỗ mạnh",
+  "coll": ["a slap in the face", "give someone a slap", "slap on the back", "slap someone", "a slap on the wrist"]
+ },
+ "superintendent": {
+  "vi": "người quản lý; thanh tra cảnh sát; giám đốc học khu",
+  "coll": ["police superintendent", "school superintendent", "building superintendent", "detective superintendent", "superintendent of schools"]
+ },
+ "sweep": {
+  "vi": "quét; quét dọn; càn quét",
+  "coll": ["sweep the floor", "sweep away", "sweep under the rug", "a clean sweep", "sweep through"]
+ },
+ "therapist": {
+  "vi": "nhà trị liệu; chuyên gia trị liệu",
+  "coll": ["see a therapist", "physical therapist", "speech therapist", "licensed therapist", "talk to a therapist"]
+ },
+ "thereafter": {
+  "vi": "sau đó; từ đó trở đi",
+  "coll": ["shortly thereafter", "soon thereafter", "immediately thereafter", "and thereafter"]
+ },
+ "tuition": {
+  "vi": "học phí; sự dạy kèm",
+  "coll": ["tuition fees", "pay tuition", "private tuition", "tuition costs", "in-state tuition"]
+ },
+ "tumor": {
+  "vi": "khối u; bướu",
+  "coll": ["brain tumor", "malignant tumor", "benign tumor", "remove a tumor", "tumor growth"]
+ },
+ "bothered": {
+  "vi": "bận tâm; khó chịu; phiền lòng",
+  "coll": ["can't be bothered", "not bothered", "hot and bothered", "bothered by the noise", "seem bothered"]
+ },
+ "coincidence": {
+  "vi": "sự trùng hợp; chuyện tình cờ",
+  "coll": ["pure coincidence", "by coincidence", "what a coincidence", "mere coincidence", "no coincidence"]
+ },
+ "conscience": {
+  "vi": "lương tâm; lương tri",
+  "coll": ["a guilty conscience", "a clear conscience", "on my conscience", "in good conscience", "a matter of conscience"]
+ },
+ "dedication": {
+  "vi": "sự tận tụy; lòng cống hiến; lời đề tặng",
+  "coll": ["hard work and dedication", "dedication to the job", "show dedication", "unwavering dedication", "book dedication"]
+ },
+ "employ": {
+  "vi": "tuyển dụng; thuê làm; sử dụng",
+  "coll": ["employ staff", "employ workers", "employ a strategy", "employ methods", "in the employ of"]
+ },
+ "enforce": {
+  "vi": "thi hành; thực thi; cưỡng chế",
+  "coll": ["enforce the law", "enforce rules", "strictly enforce", "enforce a ban", "enforce a contract"]
+ },
+ "investor": {
+  "vi": "nhà đầu tư",
+  "coll": ["foreign investor", "private investor", "attract investors", "institutional investor", "investor confidence"]
+ },
+ "nominee": {
+  "vi": "người được đề cử; ứng viên được tiến cử",
+  "coll": ["presidential nominee", "Oscar nominee", "the Democratic nominee", "award nominee", "nominee for the post"]
+ },
+ "oath": {
+  "vi": "lời thề; lời tuyên thệ",
+  "coll": ["take an oath", "under oath", "oath of allegiance", "swear an oath", "break an oath"]
+ },
+ "pee": {
+  "vi": "đi tè; tiểu tiện; nước tiểu",
+  "coll": ["need to pee", "go for a pee", "take a pee", "pee your pants"]
+ },
+ "pirate": {
+  "vi": "cướp biển; kẻ vi phạm bản quyền; sao chép lậu",
+  "coll": ["pirate ship", "pirate copy", "pirate radio", "modern-day pirates", "pirate a film"]
+ },
+ "revelation": {
+  "vi": "sự tiết lộ; điều bất ngờ hé lộ",
+  "coll": ["a shocking revelation", "come as a revelation", "startling revelation", "revelations about", "a revelation to me"]
+ },
+ "spa": {
+  "vi": "spa; khu tắm khoáng; khu nghỉ dưỡng",
+  "coll": ["spa treatment", "day spa", "spa resort", "go to a spa", "spa day"]
+ },
+ "sprint": {
+  "vi": "chạy nước rút; cuộc đua ngắn",
+  "coll": ["a 100-metre sprint", "sprint to the finish", "final sprint", "sprint race", "a sprint finish"]
+ },
+ "superb": {
+  "vi": "tuyệt vời; xuất sắc",
+  "coll": ["superb performance", "superb quality", "absolutely superb", "a superb view", "in superb condition"]
+ },
+ "trek": {
+  "vi": "chuyến đi bộ đường dài; lội bộ đường xa",
+  "coll": ["a long trek", "trek through the jungle", "trek across the mountains", "trek to base camp"]
+ },
+ "tricky": {
+  "vi": "khó nhằn; hóc búa; rắc rối",
+  "coll": ["a tricky situation", "tricky question", "tricky problem", "prove tricky", "a tricky business"]
+ },
+ "underwear": {
+  "vi": "đồ lót",
+  "coll": ["clean underwear", "thermal underwear", "change your underwear", "underwear drawer"]
+ },
+ "unto": {
+  "vi": "đến; tới; cho (văn chương)",
+  "coll": ["do unto others", "unto death", "unto the Lord", "unto him"]
+ },
+ "waist": {
+  "vi": "eo; vòng eo; cạp quần",
+  "coll": ["a slim waist", "waist size", "around the waist", "waist measurement"]
+ },
+ "wit": {
+  "vi": "sự hóm hỉnh; óc hài hước; trí thông minh",
+  "coll": ["quick wit", "dry wit", "sharp wit", "at your wit's end", "keep your wits about you"]
+ }
+}

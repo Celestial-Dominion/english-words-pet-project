@@ -1,0 +1,944 @@
+[
+ {
+  "id": "pear",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An edible fruit produced by the pear tree, similar to an apple but typically elongated towards the stem.",
+   "A type of fruit tree (Pyrus communis).",
+   "The wood of the pear tree (pearwood, pear wood)."
+  ]
+ },
+ {
+  "id": "annoy",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To disturb or irritate, especially by continued or repeated acts"
+  ]
+ },
+ {
+  "id": "liter",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Alternative form of litre, one cubic decimeter."
+  ]
+ },
+ {
+  "id": "motorway",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A highway with grade-separated crossings (rather than level crossings) and designed (and only permitted) for high-speed motor-traffic…",
+   "A racetrack venue designated especially for the sport of auto racing."
+  ]
+ },
+ {
+  "id": "snowy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Marked by snow",
+   "Covered with snow",
+   "Snow-white in color, white as snow."
+  ]
+ },
+ {
+  "id": "tram",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A passenger vehicle for public use that runs on tracks in the road (called a streetcar or trolley in North America).",
+   "A similar vehicle for carrying materials.",
+   "A people mover."
+  ]
+ },
+ {
+  "id": "biscuit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A small, flat, baked good which is either hard and crisp or else soft but firm",
+   "A cracker.",
+   "Any of several hard bread or breadlike foodstuffs, especially those formerly supplied to naval ships and armies, made with very little…"
+  ]
+ },
+ {
+  "id": "hamburger",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To badly injure or damage (a fleshy part of the body)."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "sew",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To use a needle to pass thread repeatedly through (pieces of fabric) in order to join them together.",
+   "To use a needle to pass thread repeatedly through pieces of fabric in order to join them together.",
+   "Followed by into"
+  ]
+ },
+ {
+  "id": "uneasy",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Restless",
+   "Not easy in manner",
+   "Causing discomfort or constraint"
+  ]
+ },
+ {
+  "id": "cafeteria",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A restaurant in which customers select their food at a counter then carry it on a tray to a table to eat.",
+   "A dining area in an institution where meals may be purchased (as above), provided, or brought in from elsewhere."
+  ]
+ },
+ {
+  "id": "cupboard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A cabinet, closet, or other piece of furniture with shelves intended for storing cookware, dishware, or food",
+   "A closet for storing coats.",
+   "To collect, as into a cupboard"
+  ]
+ },
+ {
+  "id": "lemonade",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A flavored beverage consisting of water, lemon, and sweetener, sometimes ice, served mainly as a refreshment. (In the UK and Ireland,…",
+   "A clear, usually carbonated, beverage made from lemon or artificial lemon flavouring, water, and sugar.",
+   "Recreational drugs of poor or weak quality, especially heroin."
+  ]
+ },
+ {
+  "id": "timetable",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A tabular schedule of events with the times at which they occur, especially times of arrivals and departures.",
+   "A schedule of arrivals and departures published in book or booklet form, or as a pamphlet, and available to travellers, either free or…",
+   "To arrange a specific time for (an event, a class, etc)."
+  ]
+ },
+ {
+  "id": "dizzy",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Experiencing a sensation of whirling and of being giddy, unbalanced, or lightheaded.",
+   "Producing giddiness.",
+   "Empty-headed, scatterbrained or frivolous"
+  ]
+ },
+ {
+  "id": "bookstore",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A store where books are bought and sold.",
+   "A stationery store."
+  ]
+ },
+ {
+  "id": "flea",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A small, wingless, parasitic insect of the order Siphonaptera, renowned for its bloodsucking habits and jumping abilities.",
+   "A thing of no significance.",
+   "To remove fleas from (an animal)."
+  ]
+ },
+ {
+  "id": "handbag",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A small bag used chiefly by women for carrying various small personal items, sometimes considered as a fashion accessory.",
+   "To attack verbally or subject to criticism (typically used of a woman)."
+  ]
+ },
+ {
+  "id": "handicapped",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "simple past and past participle of handicap",
+   "Having a handicap.",
+   "Limited by an impediment of some kind."
+  ]
+ },
+ {
+  "id": "cassette",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A small flat case containing magnetic tape on two reels, used to record and play back audio and video material.",
+   "Any similar small cartridge, such as for a computer disk or cassette air conditioner.",
+   "A lightproof container for photographic film."
+  ]
+ },
+ {
+  "id": "pilgrim",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "One who travels to visit a site of religious significance.",
+   "A newcomer.",
+   "A silk screen formerly attached to the back of a woman's bonnet to protect the neck."
+  ],
+  "reg": [
+   "literary"
+  ]
+ },
+ {
+  "id": "toothbrush",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A brush, used with toothpaste, for cleaning the teeth.",
+   "To clean or scrub with a toothbrush."
+  ]
+ },
+ {
+  "id": "midday",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Noon"
+  ]
+ },
+ {
+  "id": "weep",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To cry",
+   "To lament",
+   "To give off moisture in small quantities, e.g. due to condensation."
+  ]
+ },
+ {
+  "id": "apron",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An article of clothing worn over the front of the torso and/or legs for protection from spills",
+   "The short cassock ordinarily worn by English bishops.",
+   "A hard surface bordering a structure or area."
+  ]
+ },
+ {
+  "id": "spaceship",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A manned vehicle that flies through space.",
+   "A finite pattern that reappears after a certain number of generations in the same orientation but in a different position.",
+   "The operator <=> in certain programming languages, which compares two values and indicates whether the first is lesser than, greater…"
+  ]
+ },
+ {
+  "id": "sunflower",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Any plant of the genus Helianthus, so called probably from the form and color of its floral head, having the form of a large disk…",
+   "A bright yellow, like that of the flower petals.",
+   "Any flat, radially symmetric organic compound, such as coronene."
+  ]
+ },
+ {
+  "id": "learner",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who is learning"
+  ]
+ },
+ {
+  "id": "recycle",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To break down and reuse component materials.",
+   "To reuse as a whole.",
+   "To collect or place in a bin for recycling."
+  ]
+ },
+ {
+  "id": "adjective",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A word that modifies a noun or noun phrase or describes a noun’s referent.",
+   "To make an adjective of",
+   "To characterize with an adjective"
+  ]
+ },
+ {
+  "id": "angrily",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an angry manner"
+  ]
+ },
+ {
+  "id": "classmate",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A student who is in the same class at school.",
+   "A member of a different sort of class, such as locomotives etc."
+  ]
+ },
+ {
+  "id": "cooker",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A cookstove.",
+   "An appliance or utensil for cooking food.",
+   "One who cooks."
+  ]
+ },
+ {
+  "id": "lunchtime",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The time or hour at or around which lunch is normally eaten.",
+   "A break in work or school to eat lunch."
+  ]
+ },
+ {
+  "id": "racket",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An implement with a handle connected to a round frame strung with wire, sinew, or plastic cords, and used to hit a ball, such as in…",
+   "A snowshoe formed of cords stretched across a long and narrow frame of light wood.",
+   "A broad wooden shoe or patten for a man or horse, to allow walking on marshy or soft ground."
+  ]
+ },
+ {
+  "id": "roundabout",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Indirect, circuitous, or circumlocutionary.",
+   "Encircling",
+   "A road junction at which traffic streams circularly around a central island."
+  ]
+ },
+ {
+  "id": "melon",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "Some of the plants of the family Cucurbitaceae grown for food, generally not including the cucumber.",
+   "The large, round to ovoid fruits that have rinds and are of such plants.",
+   "A light pinkish orange color, like that of some melon flesh."
+  ]
+ },
+ {
+  "id": "weekday",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Any individual day of the week, except those which form the weekend or the single weekly day off"
+  ]
+ },
+ {
+  "id": "headphone",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "singular of headphones",
+   "Used with headphones."
+  ]
+ },
+ {
+  "id": "punctuation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A set of symbols and marks which are used to clarify meaning in text by separating strings of words into clauses, phrases and sentences",
+   "Nikud.",
+   "An act of punctuating."
+  ]
+ },
+ {
+  "id": "tights",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "third-person singular simple present indicative of tight"
+  ]
+ },
+ {
+  "id": "badminton",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A racquet sport played indoors on a court by two opposing players (singles) or two opposing pairs of players (doubles), in which a…",
+   "A cooling summer drink made with claret, sugar, and soda water."
+  ]
+ },
+ {
+  "id": "swimsuit",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A garment worn for swimming.",
+   "A tight-fitting one-piece garment worn by women and girls."
+  ]
+ },
+ {
+  "id": "injure",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To wound or cause physical harm to a living creature.",
+   "To damage or impair.",
+   "To do injustice to."
+  ]
+ },
+ {
+  "id": "receptionist",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An employee (such as a secretary) who works in reception (receiving visitors and/or calls) for a person or business, especially an office.",
+   "A proponent of receptionism."
+  ]
+ },
+ {
+  "id": "stair",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A single step in a staircase.",
+   "A series of steps"
+  ]
+ },
+ {
+  "id": "thunderstorm",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A storm consisting of thunder and lightning produced by a cumulonimbus, usually accompanied with heavy rain, wind, and sometimes hail"
+  ]
+ },
+ {
+  "id": "unimportant",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "petty"
+  ]
+ },
+ {
+  "id": "armchair",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A chair with supports for the arms or elbows.",
+   "A position removed from that which one is",
+   "Remote from actual involvement, including a person retired from previously active involvement."
+  ]
+ },
+ {
+  "id": "foggy",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Obscured by mist or fog",
+   "Confused, befuddled, or vague.",
+   "Being, covered with, or pertaining to fog (“tall grass etc that grows after, or is left after, cutting"
+  ]
+ },
+ {
+  "id": "sleepless",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Characterized by an absence of sleep"
+  ]
+ },
+ {
+  "id": "laziness",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The quality of being lazy"
+  ]
+ },
+ {
+  "id": "napkin",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A serviette",
+   "A nappy (UK), a diaper (American).",
+   "A small scarf worn on the head by Christian women (chiefly Roman Catholic and Eastern Orthodox) when entering a church, as a token of…"
+  ]
+ },
+ {
+  "id": "skateboarding",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "present participle and gerund of skateboard",
+   "The act of riding on a skateboard."
+  ]
+ },
+ {
+  "id": "snowboarding",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "present participle and gerund of snowboard"
+  ]
+ },
+ {
+  "id": "tablespoon",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A large spoon, used for eating food from a bowl.",
+   "A spoon too large for eating, usually used for cooking or serving.",
+   "A unit of volume, the value of which varies regionally"
+  ]
+ },
+ {
+  "id": "sightseeing",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The activity of going out looking at things"
+  ]
+ },
+ {
+  "id": "grandchild",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A child of someone's child."
+  ]
+ },
+ {
+  "id": "kilo",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Alternative letter-case form of Kilo from the NATO/ICAO Phonetic Alphabet."
+  ]
+ },
+ {
+  "id": "bookshop",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A shop that sells books."
+  ]
+ },
+ {
+  "id": "earring",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A piece of jewelry worn on the ear."
+  ]
+ },
+ {
+  "id": "frighten",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To cause to feel fear",
+   "To become scared or alarmed."
+  ]
+ },
+ {
+  "id": "drugstore",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Synonym of pharmacy, especially a small standalone general store which includes a pharmacy."
+  ]
+ },
+ {
+  "id": "blackboard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A large flat surface, finished with black slate or a similar material, that can be written upon with chalk and subsequently erased",
+   "To use a blackboard to assist in an informal discussion."
+  ]
+ },
+ {
+  "id": "escalator",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Anything that escalates.",
+   "A motor-driven mechanical device consisting of a continuous loop of steps that automatically conveys people from one floor to another.",
+   "An upward or progressive course."
+  ]
+ },
+ {
+  "id": "kilogram",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "In the International System of Units, the base unit of mass",
+   "The unit of weight such that a one-kilogram mass is also a one-kilogram weight."
+  ]
+ },
+ {
+  "id": "underline",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A line placed underneath a piece of text in order to provide emphasis or to indicate that it should be viewed in italics or (in…",
+   "The character _.",
+   "An announcement of a theatrical performance to follow, placed in an advertisement for the current one."
+  ]
+ },
+ {
+  "id": "chimpanzee",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Pan troglodytes, a species of great ape native to the savannas and forests of Africa, and believed by biologists to be the closest…",
+   "A great ape of the genus Pan, including the bonobo which was formerly known as the pygmy chimpanzee."
+  ]
+ },
+ {
+  "id": "businesswoman",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A woman involved in business."
+  ]
+ },
+ {
+  "id": "guidebook",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Alternative spelling of guide book."
+  ]
+ },
+ {
+  "id": "bookshelf",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A shelf or shelves for storing books for easy visual reference."
+  ]
+ },
+ {
+  "id": "centimeter",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "(Canadian spelling, alternative) Alternative form of centimetre."
+  ]
+ },
+ {
+  "id": "pollute",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To make something harmful, especially by the addition of some unwanted product.",
+   "To make something or somewhere less suitable for some activity, especially by the introduction of some unnatural factor.",
+   "To corrupt or profane"
+  ]
+ },
+ {
+  "id": "brainstorm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To investigate something, or solve a problem using brainstorming.",
+   "To participate in a brainstorming session.",
+   "To think up (ideas)"
+  ]
+ },
+ {
+  "id": "grandparent",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The parent of someone's parent.",
+   "Synonym of grandfather."
+  ]
+ },
+ {
+  "id": "terrify",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To frighten greatly",
+   "To menace or intimidate."
+  ]
+ },
+ {
+  "id": "chirp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A short, sharp or high note or noise, as of a bird or insect.",
+   "A pulse of signal whose frequency sweeps through a band of frequencies for the duration of the pulse",
+   "To make a short, sharp, cheerful note, as of small birds or crickets"
+  ]
+ },
+ {
+  "id": "superlative",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "Having the power to carry something or someone above, over or beyond others.",
+   "Exceptionally good",
+   "Of or relating to the superlative degree (a degree of comparison of adjectives and adverbs)."
+  ]
+ },
+ {
+  "id": "bookcase",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A piece of furniture for the storage and display of books."
+  ]
+ },
+ {
+  "id": "toothache",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A pain or ache in a tooth."
+  ]
+ },
+ {
+  "id": "schoolwork",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Work done for school, including both in class and as homework."
+  ]
+ },
+ {
+  "id": "granddad",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "grandfather",
+   "A familiar or disparaging term of address to an old man."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "headteacher",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The most senior teacher in a school who is responsible for its management and administration."
+  ]
+ },
+ {
+  "id": "raincoat",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A waterproof coat to be worn in the rain",
+   "A condom."
+  ]
+ },
+ {
+  "id": "omelet",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "US standard spelling of omelette."
+  ]
+ },
+ {
+  "id": "policewoman",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A female police officer."
+  ]
+ },
+ {
+  "id": "stomachache",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A pain in the abdomen, often caused by indigestion, in which the pain is usually lower than the stomach and related to the intestines."
+  ]
+ },
+ {
+  "id": "schoolchild",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A young person attending school or of an age to attend school."
+  ]
+ },
+ {
+  "id": "penfriend",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A person, often in a foreign country, with whom one exchanges friendly correspondence but whom one never or rarely meets."
+  ]
+ }
+]

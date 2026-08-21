@@ -1,0 +1,1353 @@
+[
+ {
+  "id": "the",
+  "pos": [
+   "det",
+   "adv",
+   "prep",
+   "pron"
+  ],
+  "en": [
+   "With a comparative or with more and a verb phrase, establishes a correlation with one or more other such comparatives.",
+   "With a comparative, and often with for it, indicates a result more like said comparative. This can be negated with none.",
+   "Beyond all others."
+  ]
+ },
+ {
+  "id": "to",
+  "pos": [
+   "phr",
+   "prep",
+   "adv"
+  ],
+  "en": [
+   "A particle used for marking the following verb as an infinitive.",
+   "As above, with the verb implied.",
+   "Used to indicate an obligation on the part of, or a directive given to, the subject."
+  ]
+ },
+ {
+  "id": "and",
+  "pos": [
+   "conj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "As a coordinating conjunction",
+   "In rhythm, the second half of a divided beat.",
+   "Breath."
+  ]
+ },
+ {
+  "id": "of",
+  "pos": [
+   "prep",
+   "v"
+  ],
+  "en": [
+   "Expressing distance or motion.",
+   "Expressing separation.",
+   "Eye dialect spelling of have and 've, chiefly in depictions of colloquial speech."
+  ]
+ },
+ {
+  "id": "a",
+  "pos": [
+   "det",
+   "num",
+   "n",
+   "prep",
+   "v",
+   "pron",
+   "adv",
+   "adj",
+   "phr",
+   "intj"
+  ],
+  "en": [
+   "The first numeral symbol of the English alphabet, called ay and written in the Latin script.",
+   "The name of the Latin script letter A/a.",
+   "To do with separation"
+  ]
+ },
+ {
+  "id": "in",
+  "pos": [
+   "adv",
+   "prep",
+   "v",
+   "n",
+   "adj"
+  ],
+  "en": [
+   "Used to indicate location, inclusion, or position within spatial, temporal or abstract limits.",
+   "At or towards the interior of a defined space, such as a building or room.",
+   "Towards the speaker or other reference point."
+  ]
+ },
+ {
+  "id": "i",
+  "pos": [
+   "pron",
+   "num",
+   "n"
+  ],
+  "en": [
+   "The ninth numeral symbol of the English alphabet, called i and written in the Latin script.",
+   "The name of the Latin script letter I/i."
+  ]
+ },
+ {
+  "id": "is",
+  "pos": [
+   "vaux",
+   "v",
+   "pron",
+   "n"
+  ],
+  "en": [
+   "third-person singular simple present indicative of be",
+   "Used in phrases with existential there (also here and where) when the semantic subject is plural.",
+   "present indicative of be"
+  ]
+ },
+ {
+  "id": "for",
+  "pos": [
+   "conj",
+   "prep",
+   "phr"
+  ],
+  "en": [
+   "Because.",
+   "Towards",
+   "Leading towards in time or circumstance."
+  ],
+  "reg": [
+   "formal",
+   "literary"
+  ]
+ },
+ {
+  "id": "that",
+  "pos": [
+   "adv",
+   "conj",
+   "det",
+   "pron",
+   "n"
+  ],
+  "en": [
+   "Introducing a clause that is the object of a verb, especially a reporting verb or verb expressing belief, knowledge, perception, etc.",
+   "Introducing a clause that is the subject of a verb, especially the 'be' verb or a verb expressing judgement, opinion, etc.",
+   "Introducing a clause that complements an adjective or passive participle."
+  ]
+ },
+ {
+  "id": "you",
+  "pos": [
+   "pron",
+   "det",
+   "v",
+   "n"
+  ],
+  "en": [
+   "The people spoken, or written to, as an object.",
+   "(To) yourselves, (to) yourself.",
+   "The person spoken to or written to, as an object. (Replacing thee"
+  ]
+ },
+ {
+  "id": "it",
+  "pos": [
+   "n",
+   "pron",
+   "det",
+   "adj"
+  ],
+  "en": [
+   "The third-person singular neuter personal pronoun used to refer to an inanimate object, abstract entity, or non-human living thing.",
+   "A third-person singular personal pronoun used to refer to a baby or child, especially of unknown gender.",
+   "A third-person singular personal pronoun used to refer to an animate referent who is transgender or non-binary."
+  ]
+ },
+ {
+  "id": "on",
+  "pos": [
+   "adv",
+   "prep",
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "In the state of being active, functioning or operating.",
+   "Happening",
+   "Fitted"
+  ]
+ },
+ {
+  "id": "with",
+  "pos": [
+   "prep",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "Against.",
+   "In the company of",
+   "In addition to"
+  ]
+ },
+ {
+  "id": "this",
+  "pos": [
+   "det",
+   "pron",
+   "adv",
+   "n",
+   "intj"
+  ],
+  "en": [
+   "The (thing) here (used in indicating something or someone nearby).",
+   "The known (thing) (used in indicating something or someone just mentioned).",
+   "The known (thing) (used in indicating something or someone about to be mentioned)."
+  ]
+ },
+ {
+  "id": "was",
+  "pos": [
+   "vaux",
+   "v"
+  ],
+  "en": [
+   "first-person singular simple past indicative of be.",
+   "third-person singular simple past indicative of be.",
+   "Used in phrases with existential there when the semantic subject is (usually third-person) plural."
+  ]
+ },
+ {
+  "id": "be",
+  "pos": [
+   "vaux",
+   "v",
+   "prep",
+   "n"
+  ],
+  "en": [
+   "As an auxiliary verb",
+   "As a copulative verb",
+   "Alternative form of by. Also found in compounds, especially oaths, e.g. begorra."
+  ]
+ },
+ {
+  "id": "as",
+  "pos": [
+   "conj",
+   "prep",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "To such an extent or degree",
+   "Considered to be, in relation to something else",
+   "For example"
+  ]
+ },
+ {
+  "id": "are",
+  "pos": [
+   "vaux",
+   "v",
+   "n",
+   "det"
+  ],
+  "en": [
+   "second-person singular simple present of be",
+   "first-person plural simple present of be",
+   "second-person plural simple present of be"
+  ]
+ },
+ {
+  "id": "have",
+  "pos": [
+   "vaux",
+   "v",
+   "n"
+  ],
+  "en": [
+   "To possess, own.",
+   "To hold, as something at someone's disposal.",
+   "To include as a part, ingredient, or feature."
+  ]
+ },
+ {
+  "id": "at",
+  "pos": [
+   "prep",
+   "n",
+   "v",
+   "pron"
+  ],
+  "en": [
+   "In, near, or in the general vicinity of (a particular place).",
+   "Present or taking place during (an event).",
+   "Indicating time of occurrence, especially an instant of time, or a period of time relatively short in context or from the speaker’s…"
+  ]
+ },
+ {
+  "id": "he",
+  "pos": [
+   "pron",
+   "det",
+   "n",
+   "intj"
+  ],
+  "en": [
+   "A person who identifies as male, or animal already known or implied.",
+   "They",
+   "It"
+  ]
+ },
+ {
+  "id": "not",
+  "pos": [
+   "adv",
+   "intj",
+   "n"
+  ],
+  "en": [
+   "Negates the meaning of the modified verb.",
+   "To no degree.",
+   "Used to indicate the opposite or near opposite, often in a form of understatement."
+  ]
+ },
+ {
+  "id": "by",
+  "pos": [
+   "prep",
+   "adv",
+   "adj",
+   "n",
+   "intj"
+  ],
+  "en": [
+   "Near or next to.",
+   "From one side of something to the other, passing close by",
+   "Not later than (the given time)"
+  ]
+ },
+ {
+  "id": "but",
+  "pos": [
+   "conj",
+   "prep",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Apart from, except (for), excluding.",
+   "Outside of.",
+   "Merely, only, just, no more than."
+  ]
+ },
+ {
+  "id": "from",
+  "pos": [
+   "prep"
+  ],
+  "en": [
+   "Used to indicate source or provenance.",
+   "Originating at (a year, time, etc.)",
+   "Used to indicate a starting point or initial reference."
+  ]
+ },
+ {
+  "id": "have to",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Must"
+  ]
+ },
+ {
+  "id": "my",
+  "pos": [
+   "det",
+   "intj"
+  ],
+  "en": [
+   "First-person singular possessive determiner. See Appendix",
+   "Used to express surprise, shock or amazement."
+  ]
+ },
+ {
+  "id": "or",
+  "pos": [
+   "conj",
+   "n",
+   "adj",
+   "adv",
+   "prep"
+  ],
+  "en": [
+   "Connects at least two alternative words, phrases, clauses, sentences, etc., each of which could make a passage true.",
+   "An operator denoting the disjunction of two propositions or truth values. There are two forms, the inclusive or and the exclusive or.",
+   "Counts the elements before and after as two possibilities."
+  ]
+ },
+ {
+  "id": "we",
+  "pos": [
+   "pron",
+   "det"
+  ],
+  "en": [
+   "Two or more people including or consisting of the speaker(s)/writer(s).",
+   "The institution which the speaker/writer is acting for. (This is the editorial we, used by writers and others when speaking with the…",
+   "Any other entity that the speaker is a part of or identifies with, such as place of employment or education, nation, region, language, etc."
+  ]
+ },
+ {
+  "id": "an",
+  "pos": [
+   "det",
+   "num",
+   "n",
+   "prep"
+  ],
+  "en": [
+   "The first letter of the Georgian alphabet, ა (Mkhedruli), Ⴀ (Asomtavruli) or ⴀ (Nuskhuri).",
+   "In each"
+  ]
+ },
+ {
+  "id": "your",
+  "pos": [
+   "det"
+  ],
+  "en": [
+   "Belonging to you",
+   "A determiner that conveys familiarity and mutual knowledge of the modified noun.",
+   "That"
+  ]
+ },
+ {
+  "id": "all",
+  "pos": [
+   "adv",
+   "det",
+   "pron",
+   "n",
+   "adj"
+  ],
+  "en": [
+   "Every individual or anything of the given class, with no exceptions (the noun or noun phrase denoting the class must be plural or…",
+   "Throughout the whole of (a stated period of time",
+   "Only"
+  ]
+ },
+ {
+  "id": "so",
+  "pos": [
+   "adv",
+   "conj",
+   "adj",
+   "intj",
+   "pron",
+   "n"
+  ],
+  "en": [
+   "Reduced form of 'so that', used to express purpose",
+   "As a result",
+   "Used to connect previous conversation or events to the following question."
+  ]
+ },
+ {
+  "id": "his",
+  "pos": [
+   "det",
+   "pron",
+   "n"
+  ],
+  "en": [
+   "Belonging to him.",
+   "Belonging to a person of unspecified gender.",
+   "That or those belonging to him"
+  ]
+ },
+ {
+  "id": "they",
+  "pos": [
+   "pron",
+   "det",
+   "v",
+   "n"
+  ],
+  "en": [
+   "A group of entities previously mentioned.",
+   "A single person, previously mentioned, whose gender is unknown, irrelevant, or (since 20th c.) non-binary.",
+   "People"
+  ]
+ },
+ {
+  "id": "me",
+  "pos": [
+   "pron",
+   "n",
+   "det"
+  ],
+  "en": [
+   "The first-person singular, as the object (of a verb, preposition, etc).",
+   "Used in isolation or apposition, or (sometimes proscribed) as the complement of the copula (be).",
+   "The self or personality of the speaker, especially their authentic self."
+  ]
+ },
+ {
+  "id": "if",
+  "pos": [
+   "conj",
+   "n"
+  ],
+  "en": [
+   "Supposing that, assuming that, in the circumstances that",
+   "Supposing that",
+   "Considering the fact that"
+  ]
+ },
+ {
+  "id": "one",
+  "pos": [
+   "det",
+   "num",
+   "pron",
+   "n",
+   "adj",
+   "v",
+   "phr"
+  ],
+  "en": [
+   "The number represented by the Arabic numeral 1",
+   "The first positive number in the set of natural numbers.",
+   "The cardinality of the smallest nonempty set."
+  ]
+ },
+ {
+  "id": "can",
+  "pos": [
+   "vaux",
+   "n",
+   "v",
+   "intj",
+   "phr"
+  ],
+  "en": [
+   "To know how to.",
+   "To be able to.",
+   "May"
+  ]
+ },
+ {
+  "id": "will",
+  "pos": [
+   "vaux",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Used to express the future tense, sometimes with an implication of volition or determination when used in the first person. Compare shall.",
+   "To be able to, to have the capacity to.",
+   "Expressing a present tense or perfect tense with some conditional or subjective weakening"
+  ]
+ },
+ {
+  "id": "just",
+  "pos": [
+   "adv",
+   "adj",
+   "intj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Factually right, correct",
+   "Rationally right, correct.",
+   "Morally right"
+  ]
+ },
+ {
+  "id": "like",
+  "pos": [
+   "conj",
+   "prep",
+   "v",
+   "n",
+   "adj",
+   "adv",
+   "phr"
+  ],
+  "en": [
+   "To enjoy, be pleased by",
+   "To prefer and maintain (an action) as a regular habit or activity.",
+   "To find attractive"
+  ]
+ },
+ {
+  "id": "about",
+  "pos": [
+   "adv",
+   "prep",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "In a circle around",
+   "Over or upon different parts of",
+   "Indicates that something will happen very soon"
+  ]
+ },
+ {
+  "id": "up",
+  "pos": [
+   "adv",
+   "prep",
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Indicating movement towards or location at a higher place or position.",
+   "Indicating movement in any other direction visualised as \"up\".",
+   "Toward the top of."
+  ]
+ },
+ {
+  "id": "out",
+  "pos": [
+   "adv",
+   "prep",
+   "n",
+   "v",
+   "adj",
+   "intj"
+  ],
+  "en": [
+   "Away from the inside or centre.",
+   "Away from, or at a distance from, some point of reference or focus.",
+   "Away, or at a distance, in time (relative to, and usually before, a stated event, or into the future) (often preceded by a stated time…"
+  ]
+ },
+ {
+  "id": "what",
+  "pos": [
+   "det",
+   "pron",
+   "adv",
+   "intj",
+   "n",
+   "phr"
+  ],
+  "en": [
+   "Which, especially which of an open-ended set of possibilities.",
+   "Which.",
+   "Any ... that"
+  ]
+ },
+ {
+  "id": "has",
+  "pos": [
+   "vaux",
+   "v"
+  ],
+  "en": [
+   "third-person singular simple present indicative of have"
+  ]
+ },
+ {
+  "id": "when",
+  "pos": [
+   "adv",
+   "conj",
+   "pron",
+   "n",
+   "intj"
+  ],
+  "en": [
+   "At what time? At which time? Upon which occasion or circumstance? Used to introduce direct or indirect questions about time.",
+   "At an earlier time and under different, usually less favorable, circumstances.",
+   "At which, on which, during which"
+  ]
+ },
+ {
+  "id": "more",
+  "pos": [
+   "adv",
+   "det",
+   "pron",
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "comparative degree of many",
+   "comparative degree of much",
+   "Additional"
+  ]
+ },
+ {
+  "id": "do",
+  "pos": [
+   "vaux",
+   "v",
+   "n",
+   "adv",
+   "num"
+  ],
+  "en": [
+   "A syntactic marker.",
+   "A party, celebration, social function",
+   "Something that can or should be done."
+  ]
+ },
+ {
+  "id": "no",
+  "pos": [
+   "adv",
+   "det",
+   "phr",
+   "prep",
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "Not any.",
+   "Hardly any.",
+   "Not any possibility or allowance of (something)."
+  ]
+ },
+ {
+  "id": "out of",
+  "pos": [
+   "prep"
+  ],
+  "en": [
+   "Expressing motion away, literal or figurative"
+  ]
+ },
+ {
+  "id": "were",
+  "pos": [
+   "vaux",
+   "v",
+   "n"
+  ],
+  "en": [
+   "second-person singular simple past indicative of be",
+   "plural simple past indicative of be",
+   "simple subjunctive of be"
+  ]
+ },
+ {
+  "id": "who",
+  "pos": [
+   "pron",
+   "n",
+   "det"
+  ],
+  "en": [
+   "What person or people",
+   "Introduces a relative clause having a human antecedent.",
+   "Whoever, he who, they who."
+  ]
+ },
+ {
+  "id": "had",
+  "pos": [
+   "vaux",
+   "v"
+  ],
+  "en": [
+   "simple past and past participle of have",
+   "Used to form the past perfect tense, expressing an action that took place prior to a reference point that is itself in the past."
+  ]
+ },
+ {
+  "id": "their",
+  "pos": [
+   "det",
+   "adv"
+  ],
+  "en": [
+   "Belonging to, from, of, or relating to, them (plural).",
+   "Belonging to someone (one person, singular), or occasionally to something."
+  ]
+ },
+ {
+  "id": "there",
+  "pos": [
+   "adv",
+   "intj",
+   "n",
+   "pron",
+   "det"
+  ],
+  "en": [
+   "In or at a place or location (stated, implied or otherwise indicated) that is perceived to be away from, or at a relative distance from,…",
+   "Used to offer encouragement or sympathy",
+   "Used to express victory or completion."
+  ]
+ },
+ {
+  "id": "her",
+  "pos": [
+   "det",
+   "pron",
+   "n"
+  ],
+  "en": [
+   "Belonging to her (belonging to that female person or animal, or in poetic or old-fashioned language that ship, city, season, etc).",
+   "Belonging to a person of unspecified gender (to counterbalance the traditional \"his\" in this sense).",
+   "The form of she used after a preposition, as the object of a verb, or (colloquial) as a subject with a conjunction"
+  ]
+ },
+ {
+  "id": "which",
+  "pos": [
+   "det",
+   "pron"
+  ],
+  "en": [
+   "What, of those mentioned or implied.",
+   "The/Any ... that",
+   "Designates the one(s) previously mentioned."
+  ]
+ },
+ {
+  "id": "time",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "The inevitable progression into the future with the passing of present and past events.",
+   "A duration of time.",
+   "To measure or record the time, duration, or rate of something."
+  ]
+ },
+ {
+  "id": "get",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To obtain",
+   "To receive.",
+   "To have. See usage notes."
+  ]
+ },
+ {
+  "id": "been",
+  "pos": [
+   "vaux",
+   "v",
+   "n"
+  ],
+  "en": [
+   "past participle of be.",
+   "remote past form of be.",
+   "plural of bee"
+  ]
+ },
+ {
+  "id": "would",
+  "pos": [
+   "vaux",
+   "v",
+   "n",
+   "intj"
+  ],
+  "en": [
+   "Past tense of will",
+   "Something that would happen, or would be the case, under different circumstances"
+  ]
+ },
+ {
+  "id": "she",
+  "pos": [
+   "pron",
+   "n",
+   "v",
+   "det"
+  ],
+  "en": [
+   "The female (typically) person or animal previously mentioned or implied.",
+   "A ship or boat.",
+   "A country, or sometimes a city, province, planet, etc."
+  ]
+ },
+ {
+  "id": "new",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Recently made, or created.",
+   "Additional",
+   "Current or later, as opposed to former."
+  ]
+ },
+ {
+  "id": "people",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "plural of person",
+   "Persons forming or belonging to a particular group, such as a nation, class, ethnic group, country, family, etc.",
+   "A group of persons regarded as being servants, followers, companions or subjects of a ruler or leader."
+  ]
+ },
+ {
+  "id": "how",
+  "pos": [
+   "adv",
+   "intj",
+   "n"
+  ],
+  "en": [
+   "To what degree or extent.",
+   "In what manner",
+   "That, the fact that."
+  ]
+ },
+ {
+  "id": "some",
+  "pos": [
+   "det",
+   "pron",
+   "adv"
+  ],
+  "en": [
+   "A certain number (multiple but not all).",
+   "An indefinite quantity.",
+   "An indefinite amount"
+  ]
+ },
+ {
+  "id": "also",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In addition",
+   "and in addition"
+  ]
+ },
+ {
+  "id": "them",
+  "pos": [
+   "pron",
+   "n",
+   "det"
+  ],
+  "en": [
+   "Those ones.",
+   "A single person, previously mentioned, whose gender is unknown, irrelevant, or (since 21st c.) non-binary.",
+   "A non-binary person."
+  ]
+ },
+ {
+  "id": "now",
+  "pos": [
+   "adv",
+   "conj",
+   "adj",
+   "intj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Present",
+   "Fashionable",
+   "At the present time."
+  ]
+ },
+ {
+  "id": "other",
+  "pos": [
+   "det",
+   "pron",
+   "adj",
+   "n",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "See other (determiner) below.",
+   "Second.",
+   "Alien."
+  ]
+ },
+ {
+  "id": "its",
+  "pos": [
+   "det",
+   "pron",
+   "n"
+  ],
+  "en": [
+   "Belonging to it.",
+   "The one (or ones) belonging to it.",
+   "plural of it"
+  ]
+ },
+ {
+  "id": "our",
+  "pos": [
+   "det",
+   "v"
+  ],
+  "en": [
+   "Belonging to us, excluding the person(s) being addressed (exclusive our).",
+   "Belonging to us, including the person(s) being addressed (inclusive our).",
+   "Of, from, or belonging to any entity that the speaker is a part of or identifies with, such as place of employment or education, nation,…"
+  ]
+ },
+ {
+  "id": "than",
+  "pos": [
+   "conj",
+   "prep",
+   "adv"
+  ],
+  "en": [
+   "Used in comparisons, to introduce the basis of comparison.",
+   "Introduces a comparison, and is associated with comparatives, and with words such as more, less, and fewer. Typically, it seeks to…",
+   "At that time"
+  ]
+ },
+ {
+  "id": "good",
+  "pos": [
+   "adj",
+   "n",
+   "intj",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "Of a person or an animal",
+   "That is good",
+   "Well"
+  ]
+ },
+ {
+  "id": "only",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "phr"
+  ],
+  "en": [
+   "Alone in a category.",
+   "Singularly superior",
+   "Without sibling"
+  ]
+ },
+ {
+  "id": "after",
+  "pos": [
+   "adv",
+   "conj",
+   "prep",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Behind",
+   "Subsequently to",
+   "Signifies that the action of the clause it starts takes place before the action of the other clause."
+  ]
+ },
+ {
+  "id": "first",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Preceding all others of a series or kind",
+   "Most eminent or exalted",
+   "Of or belonging to a first family."
+  ]
+ },
+ {
+  "id": "him",
+  "pos": [
+   "pron",
+   "n"
+  ],
+  "en": [
+   "A masculine pronoun",
+   "As a grammatical subject or object when joined with a conjunction.",
+   "Used in isolation or apposition, or (sometimes proscribed) as the complement of the copula (be)."
+  ]
+ },
+ {
+  "id": "into",
+  "pos": [
+   "prep"
+  ],
+  "en": [
+   "To or towards the inside of.",
+   "To or towards the region of.",
+   "To the condition or state."
+  ]
+ },
+ {
+  "id": "know",
+  "pos": [
+   "v",
+   "n",
+   "phr"
+  ],
+  "en": [
+   "To perceive the truth or factuality of",
+   "To be or become aware or cognizant.",
+   "To be aware of"
+  ]
+ },
+ {
+  "id": "no one",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "Used in contrast to anyone, someone or everyone",
+   "Used other than figuratively or idiomatically"
+  ]
+ },
+ {
+  "id": "see",
+  "pos": [
+   "v",
+   "intj",
+   "n"
+  ],
+  "en": [
+   "To perceive or detect someone or something with the eyes, or as if by sight.",
+   "To form a mental picture of, to perceive in a certain way.",
+   "Introducing an explanation"
+  ]
+ },
+ {
+  "id": "two",
+  "pos": [
+   "num",
+   "n"
+  ],
+  "en": [
+   "A numerical value equal to 2",
+   "Describing a set or group with two elements.",
+   "The digit/figure 2."
+  ]
+ },
+ {
+  "id": "make",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To create.",
+   "To behave, to act.",
+   "Brand"
+  ]
+ },
+ {
+  "id": "over",
+  "pos": [
+   "adv",
+   "prep",
+   "adj",
+   "n",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "Finished",
+   "Hopeless",
+   "Visiting one's home or other location."
+  ]
+ },
+ {
+  "id": "think",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To ponder, to go over in one's mind.",
+   "To have (some statement) in one's mind",
+   "To communicate to oneself in one's mind, to try to find a solution to a problem."
+  ]
+ },
+ {
+  "id": "any",
+  "pos": [
+   "det",
+   "pron",
+   "adv"
+  ],
+  "en": [
+   "To even the slightest extent, at all.",
+   "One at all",
+   "A/an, each or some, no matter its/their identity or nature."
+  ]
+ },
+ {
+  "id": "then",
+  "pos": [
+   "adv",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "At that time.",
+   "Soon afterward.",
+   "Next in order of place."
+  ]
+ },
+ {
+  "id": "could",
+  "pos": [
+   "vaux",
+   "v",
+   "n"
+  ],
+  "en": [
+   "simple past of can",
+   "conditional of can",
+   "Something that could happen, or could be the case, under different circumstances"
+  ]
+ },
+ {
+  "id": "back",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "At or near the rear.",
+   "Returned or restored to a previous place or condition.",
+   "Not current."
+  ]
+ },
+ {
+  "id": "these",
+  "pos": [
+   "det",
+   "pron"
+  ],
+  "en": [
+   "plural of this"
+  ]
+ },
+ {
+  "id": "us",
+  "pos": [
+   "pron",
+   "det",
+   "n"
+  ],
+  "en": [
+   "Me and at least one other person, excluding the person(s) being addressed. (exclusive us.)",
+   "Me and at least one other person, including the person(s) being addressed. (inclusive us.)",
+   "We, used in the same circumstances where \"me\" would be used instead of \"I\", e.g. for the pronoun in isolation or as the complement of…"
+  ]
+ },
+ {
+  "id": "want",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To wish for or desire (something)",
+   "To wish, desire, or demand to see, have the presence of or do business with.",
+   "To desire (to experience desire)"
+  ]
+ },
+ {
+  "id": "because",
+  "pos": [
+   "conj",
+   "adv",
+   "intj",
+   "prep"
+  ],
+  "en": [
+   "By or for the cause that",
+   "As is known, inferred, or determined from the fact that.",
+   "On account, for sake [with of]."
+  ]
+ },
+ {
+  "id": "go",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To move, either physically or in an abstract sense",
+   "The act of going.",
+   "A turn at something, or in something (e.g. a game)."
+  ]
+ },
+ {
+  "id": "well",
+  "pos": [
+   "adj",
+   "adv",
+   "intj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Accurately, competently, satisfactorily.",
+   "Completely, fully.",
+   "To a significant degree."
+  ]
+ },
+ {
+  "id": "way",
+  "pos": [
+   "n",
+   "intj",
+   "v",
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "To do with a place or places.",
+   "A method or manner of doing something",
+   "A state or condition"
+  ]
+ }
+]

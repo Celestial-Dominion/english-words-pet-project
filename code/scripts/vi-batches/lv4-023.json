@@ -1,0 +1,921 @@
+[
+ {
+  "id": "abhorrently",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a manner, or to a degree, that is abhorrent"
+  ]
+ },
+ {
+  "id": "superfluously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a superfluous manner."
+  ]
+ },
+ {
+  "id": "ingenuously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an ingenuous manner"
+  ]
+ },
+ {
+  "id": "carbonize",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To turn something to carbon, especially by heating it",
+   "To react something with carbon."
+  ]
+ },
+ {
+  "id": "inartistic",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Lacking in artistic ability.",
+   "Not done in an artistic style."
+  ]
+ },
+ {
+  "id": "calamitously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a calamitous manner."
+  ]
+ },
+ {
+  "id": "echolocate",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To locate by means of echolocation."
+  ]
+ },
+ {
+  "id": "caffeinate",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To add caffeine to something.",
+   "To drink caffeinated beverages in order to increase one's energy or wakefulness or to enhance physical or mental performance.",
+   "To inject tension into (a situation, etc.) for one's own amusement"
+  ]
+ },
+ {
+  "id": "anticlimactically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an anticlimactic manner."
+  ]
+ },
+ {
+  "id": "genomically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "With reference to a genome"
+  ]
+ },
+ {
+  "id": "fabulate",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To tell invented stories, often those that involve fantasy, such as fables.",
+   "A folk story that is not entirely believable.",
+   "A folk story that is told for entertainment, and not intended to be taken as true."
+  ]
+ },
+ {
+  "id": "fabulation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act or result of fabulating",
+   "A style of modern fiction, similar to magical realism and postmodernism."
+  ]
+ },
+ {
+  "id": "blandishment",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Often in the plural form blandishments",
+   "Something alluring or attractive.",
+   "Allurement, attraction."
+  ]
+ },
+ {
+  "id": "deficiently",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a deficient manner."
+  ]
+ },
+ {
+  "id": "paralyzingly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a paralyzing manner."
+  ]
+ },
+ {
+  "id": "choreographical",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "choreographic"
+  ]
+ },
+ {
+  "id": "exaltedly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an exalted manner."
+  ]
+ },
+ {
+  "id": "soliloquize",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "Of a character",
+   "To think to oneself."
+  ]
+ },
+ {
+  "id": "mutinously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a mutinous manner."
+  ]
+ },
+ {
+  "id": "undiminishing",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Not diminishing."
+  ]
+ },
+ {
+  "id": "stultify",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To stunt, inhibit (progress, ideas, etc.) or make dull and uninteresting, especially through routine that is overly restrictive or limiting.",
+   "To make useless or worthless.",
+   "To cause to appear foolish"
+  ]
+ },
+ {
+  "id": "stultifyingly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a stultifying manner."
+  ]
+ },
+ {
+  "id": "undemonstratively",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an undemonstrative manner."
+  ]
+ },
+ {
+  "id": "unharried",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Not harried"
+  ]
+ },
+ {
+  "id": "arcanely",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an arcane way."
+  ]
+ },
+ {
+  "id": "vestigially",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a vestigial manner."
+  ]
+ },
+ {
+  "id": "confabulate",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To speak casually with",
+   "To confer.",
+   "To fabricate memories in order to fill gaps in one's memory."
+  ]
+ },
+ {
+  "id": "impressionistically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an impressionistic manner."
+  ]
+ },
+ {
+  "id": "solitariness",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state or quality of being solitary."
+  ]
+ },
+ {
+  "id": "flightiness",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The quality of being flighty."
+  ]
+ },
+ {
+  "id": "ingratiatingly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an ingratiating manner."
+  ]
+ },
+ {
+  "id": "unobtrusiveness",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state of being unobtrusive."
+  ]
+ },
+ {
+  "id": "inchoately",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an inchoate way."
+  ]
+ },
+ {
+  "id": "amorphously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an amorphous manner."
+  ]
+ },
+ {
+  "id": "counterproductively",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a counterproductive way."
+  ]
+ },
+ {
+  "id": "confrontationally",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a confrontational way."
+  ]
+ },
+ {
+  "id": "histrionically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a histrionic manner."
+  ]
+ },
+ {
+  "id": "taciturnity",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The trait of being taciturn.",
+   "Failure to assert a legal right in a way that implies that it is being given up."
+  ]
+ },
+ {
+  "id": "unexceptionally",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an unexceptional manner."
+  ]
+ },
+ {
+  "id": "inexorability",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The quality or state of being inexorable."
+  ]
+ },
+ {
+  "id": "pop out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To leave a room or building with the expectation of returning soon.",
+   "To appear on the screen as a temporary window or menu.",
+   "To be retired after three strikes, including a popout (pop fly) on the third strike."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "hook up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To hook something together.",
+   "To associate or socialize with someone.",
+   "To sell or supply something."
+  ]
+ },
+ {
+  "id": "hush up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To become quiet",
+   "To silence.",
+   "To keep secret, to prevent from becoming known."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "ask out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To invite somebody, especially on a date."
+  ]
+ },
+ {
+  "id": "blow out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To extinguish something, especially a flame, especially by means of a strong current of air or another gas.",
+   "To destroy or degrade (something) quickly, especially inadvertently and prematurely",
+   "To be destroyed or degraded quickly, especially inadvertently and prematurely."
+  ]
+ },
+ {
+  "id": "bring forward",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To call up for consideration.",
+   "To make something happen earlier than originally planned."
+  ]
+ },
+ {
+  "id": "sign off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To log off",
+   "To cease broadcasting a radio or television signal, usually at the end of a broadcasting day.",
+   "to give one's official approval to something for which it is needed, especially by a signature."
+  ]
+ },
+ {
+  "id": "trump up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To create falsely, to fabricate (particularly applied to accusations, (legal) charges or evidence).",
+   "to heavily publicise, promote or market a product."
+  ]
+ },
+ {
+  "id": "let down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To disappoint",
+   "To lengthen by undoing and resewing a hem.",
+   "To reduce one's level of effort."
+  ]
+ },
+ {
+  "id": "think over",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To ponder or reflect on a subject."
+  ]
+ },
+ {
+  "id": "pass out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To faint",
+   "To fall asleep irrespective of wilful action, as a result of the consumption of alcohol or other drugs or another form of physiological…",
+   "To distribute."
+  ]
+ },
+ {
+  "id": "draw back",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "to retreat from a position",
+   "to move backwards",
+   "to withdraw from an undertaking"
+  ]
+ },
+ {
+  "id": "fired up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "simple past and past participle of fire up"
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "fuck over",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "to cheat or treat unfairly (to exploit somebody in a way which results in an advantage to oneself, at the cost of the other party…"
+  ]
+ },
+ {
+  "id": "screw over",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To cheat someone, or ruin their chances in a game or other situation."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "pass over",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To bypass or disregard in favour of someone or something else.",
+   "To bypass (something)"
+  ]
+ },
+ {
+  "id": "fucked up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "simple past and past participle of fuck up"
+  ]
+ },
+ {
+  "id": "fool around",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To engage in frivolous behaviour",
+   "To waste time.",
+   "To engage in casual or flirtatious sexual acts."
+  ]
+ },
+ {
+  "id": "jerking off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "present participle and gerund of jerk off"
+  ]
+ },
+ {
+  "id": "cover up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To conceal or disguise.",
+   "To clothe",
+   "To put covers over oneself in bed."
+  ]
+ },
+ {
+  "id": "size up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To evaluate",
+   "To wear a larger size of clothing."
+  ]
+ },
+ {
+  "id": "stick to",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To persist",
+   "To follow and remain close to.",
+   "Used other than figuratively or idiomatically"
+  ]
+ },
+ {
+  "id": "sort out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To clarify by reviewing mentally.",
+   "To arrange.",
+   "To fix (a problem)."
+  ]
+ },
+ {
+  "id": "fall in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To collapse inwards.",
+   "Of a soldier, to get into position in a rank.",
+   "To come to an end"
+  ]
+ },
+ {
+  "id": "fade in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To fade from black to a visual image in a film or other visual media.",
+   "To commence with silence in a song and then slowly increase the volume of the music until the intro of the song is over."
+  ]
+ },
+ {
+  "id": "fade out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To slowly disappear",
+   "To sneak away.",
+   "To fade from a cut to black in a movie."
+  ]
+ },
+ {
+  "id": "whack off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To masturbate."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "write out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To write at full length or in expanded form.",
+   "To write or fill out (a ticket or citation).",
+   "To exclude from a narrative or history."
+  ]
+ },
+ {
+  "id": "jack off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To masturbate.",
+   "To stimulate or please oneself in an unproductive or idle way."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "look up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To have better prospects.",
+   "To obtain, or seek to obtain, information about something."
+  ]
+ },
+ {
+  "id": "see through",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To perceive visually through something transparent.",
+   "To not be deceived by something that is false or misleading",
+   "To recognize someone's true motives or character."
+  ]
+ },
+ {
+  "id": "beat up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To give a severe beating to",
+   "To wake up earlier than.",
+   "To cause, by some other means, injuries comparable to the result of being beaten up."
+  ]
+ },
+ {
+  "id": "bow out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To resign, or leave, with one's credibility or reputation still intact."
+  ]
+ },
+ {
+  "id": "fall out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To come out of something by falling.",
+   "To cease to be on friendly terms.",
+   "To leave one's place in the current formation of ranks in order to take one's place in a new formation."
+  ]
+ },
+ {
+  "id": "flag down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Use a flag or similar kind of signal to get someone's attention."
+  ]
+ },
+ {
+  "id": "deal with",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To handle verbally or in some form of artistic expression",
+   "To take action with respect to (someone or something).",
+   "To consider, as an example."
+  ]
+ },
+ {
+  "id": "timed out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "simple past and past participle of time out"
+  ]
+ },
+ {
+  "id": "stuff up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To ruin or harm.",
+   "To make a big mistake.",
+   "To cause (the nasal passages) to be blocked."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "rub off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To clean by rubbing.",
+   "To be transferred with little or no effort."
+  ]
+ },
+ {
+  "id": "cut out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To refrain from (doing something, using something etc.), to stop or cease (doing something).",
+   "To remove"
+  ]
+ },
+ {
+  "id": "carry out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To hold while moving it out.",
+   "To fulfill.",
+   "To execute or perform"
+  ]
+ },
+ {
+  "id": "throw away",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To discard (trash, garbage, or the like), to toss out, to put in the trash.",
+   "To waste, to squander.",
+   "To intentionally throw an incomplete pass."
+  ]
+ },
+ {
+  "id": "throw back",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To hinder the development of something.",
+   "To revert to an earlier stage of development.",
+   "To retort."
+  ]
+ },
+ {
+  "id": "cut up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To cut upward.",
+   "To cut into smaller pieces, parts, or sections.",
+   "To lacerate"
+  ]
+ },
+ {
+  "id": "tick over",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "to idle (to run at a slow speed, or out of gear).",
+   "To run smoothly and without problems."
+  ]
+ },
+ {
+  "id": "tie down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To constrain, or to confine within set limits.",
+   "To secure as if with a rope or hook."
+  ]
+ },
+ {
+  "id": "chuck up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To vomit",
+   "To chuck up the sponge"
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "piss down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To rain heavily."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "borne out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "past participle of bear out"
+  ]
+ },
+ {
+  "id": "get after",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To move into action in pursuit of something.",
+   "To move into action in attempt to catch or defeat another.",
+   "To attempt to convince another to move into action."
+  ]
+ }
+]

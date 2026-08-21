@@ -1,0 +1,154 @@
+[
+ {
+  "id": "wiki-earthshot-prize",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Earthshot_Prize",
+  "title_en": "Earthshot Prize",
+  "sentences": [
+   "The Earthshot Prize is awarded to five winners each year for their works to environmentalism.",
+   "It was first awarded in 2021 and is planned to be awarded annually until 2030.",
+   "Each winner is given a grant of £1 million to continue their environmental work.",
+   "The five categories were inspired by the UN Sustainable Development Goals.",
+   "The Earthshot Prize was created in 2020 by Prince William and David Attenborough.",
+   "The winners are selected by the Earthshot Prize Council, which includes Prince William and Attenborough."
+  ]
+ },
+ {
+  "id": "wiki-fan-person",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Fan_(person)",
+  "title_en": "Fan (person)",
+  "sentences": [
+   "A fan or fanatic is someone who like a thing, a person, or an idea.",
+   "Things that fans might like are hobbies, sports (often a team), music, a kind of movie or book, or almost anything.",
+   "There are lots of kinds of fans, including science fiction fans and fans of popular music stars, like The Beatles.",
+   "Fans will meet with each other to talk about and share their interest, often in large groups called conventions.",
+   "The word fanatic can also be used to talk about people who care a lot about politics, religion or their own group of people.",
+   "Some fanatics can hurt other people whom they dislike, or who disagree with them.",
+   "In British English, supporter is their word for a person who likes and supports a sportsperson or a team.",
+   "Many teams of some sports have thousands of supporters, for example, the football team Real Madrid.",
+   "In American English, supporter is more often used to talk about people in politics.",
+   "Supporters of a politician, a political party, or an idea such as a particular law may like their subject very much, but usually are not violent."
+  ]
+ },
+ {
+  "id": "wiki-virtual-machine",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Virtual_machine",
+  "title_en": "Virtual machine",
+  "sentences": [
+   "A virtual machine is a program on a computer that works like a separate computer inside the main computer.",
+   "The program that controls virtual machines is called a hypervisor, and the computer that is running the virtual machine is called the host.",
+   "The hypervisor controls how the virtual machine can access memory, hard drive space, and other resources on the host computer.",
+   "Virtual machines can be created through software known as virtualization software (such as VMware Workstation and VirtualBox).",
+   "There are many reasons to run a virtual machine: It is a simple way to run more than one operating system on the same computer.",
+   "A very powerful server can be split into several smaller virtual machines to use its resources better.",
+   "It can help with security.",
+   "If the virtual machine is affected by a virus, the host operating system is unaffected.",
+   "A virtual machine can be completely emulated, as with Java.",
+   "This lets a program run on different types of computer without having to be converted into a code specific for it.",
+   "They can communicate even though the programming languages are not the same."
+  ]
+ },
+ {
+  "id": "wiki-healing",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Healing",
+  "title_en": "Healing",
+  "sentences": [
+   "Healing is a process that happens in the body.",
+   "Through healing, cells are able to repair damaged tissue.",
+   "There are two different ways healing can happen: The damaged tissue is replaced with tissue of the same kind.",
+   "This is called regeneration.",
+   "The damaged tissue is replaced with scar tissue.",
+   "This is called repair Most healing processes combine both ways of healing."
+  ]
+ },
+ {
+  "id": "wiki-moment-of-silence",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Moment_of_silence",
+  "title_en": "Moment of silence",
+  "sentences": [
+   "There is also a video game The Moment of Silence, and a poem \"Moment of Silence\".",
+   "A moment of silence is a short time when people do not make noise.",
+   "A moment of silence shows respect for people who have died.",
+   "Many countries observe a minute of silence after a tragic event, usually with half-staff.",
+   "Moments of silence often last one minute, but other amounts of time may be chosen.",
+   "On November 11th, many countries observe a two-minute silence to remember those who have died in World Wars.",
+   "The tradition was started in 1919 exactly one year after the end of World War I.",
+   "It became an official part of the annual service on Remembrance Day or Armistice Day.",
+   "During the moment of silence, people often bow their heads, remove their hats, and do not speak or move.",
+   "A person in charge of a group will tell everyone when the moment begins and ends.",
+   "A moment of silence may come before or after other events with symbolic meaning.",
+   "Examples of these events are the ringing of bells, the release of doves or balloons, or a bugle playing the \"Last Post\"."
+  ]
+ },
+ {
+  "id": "wiki-dress-code",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Dress_code",
+  "title_en": "Dress code",
+  "sentences": [
+   "A dress code is a rule about what people should, must or mustn't wear.",
+   "Many times these rules are obvious: they do not need to be written.",
+   "For example, when walking around a city or going to work one needs to have appropriate clothes.",
+   "These can change depending on different countries and cultures.",
+   "At other times a dress code can be a written rule: this can happen for important events.",
+   "Some private places might also have a dress code that people need to follow to be allowed in - for example churches and nightclubs.",
+   "Many organizations require a uniform.",
+   "The way a person chooses their clothes can be very important in a social environment.",
+   "Different types of clothes can give an idea of how much money a person has, what religion he follows, marital status, etc."
+  ]
+ },
+ {
+  "id": "wiki-wife",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Wife",
+  "title_en": "Wife",
+  "sentences": [
+   "A wife is a married woman.",
+   "\"Married\" means that the law says two people are legally \"joined\".",
+   "During the marriage ceremony, the wife is called the bride.",
+   "In countries and times it has been different how many wives a man can have legally.",
+   "In old times there were no limitations in some countries.",
+   "In Christianity and Judaism a husband (a married man) can have one wife (monogamy).",
+   "In Islam a husband can have up to four wives (polygamy).",
+   "There are some names for special kinds of wives.",
+   "For example, a queen is a wife of a king.",
+   "A man whose wife is deceased is called a widower."
+  ]
+ },
+ {
+  "id": "wiki-book",
+  "level": 1,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Book",
+  "title_en": "Book",
+  "sentences": [
+   "A book is a set of printed sheets of paper held together between two covers.",
+   "The sheets of paper in a book are called pages.",
+   "The pages have words written in them and maybe illustrations drawn.",
+   "The first books were not printed, but written by hand in ink.",
+   "The book is a more flexible format than the earlier idea of the scroll.",
+   "The change from scrolls to books began in the Roman Empire and took many centuries to become complete.",
+   "A writer of a book is often called an author.",
+   "Someone who draws the pictures in a book is called an illustrator.",
+   "Books can have more than one writer or illustrator.",
+   "A book can be a text that is a part of a larger collection of texts.",
+   "A section of a text may be published as a book so that it only has one writer or only focuses on one subject area.",
+   "Books written in this way can be understood without reading whole collection of writings.",
+   "Examples are the Iliad, Odyssey, Bible, Quran and Torah.",
+   "Encyclopedias often have separate articles written by different people, and are published as separate volumes.",
+   "Each volume is a book.",
+   "Hardcover books have hard covers made of cardboard that is covered in cloth or leather and sewn together."
+  ]
+ }
+]

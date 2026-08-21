@@ -1,0 +1,821 @@
+[
+ {
+  "id": "biology",
+  "pos": [
+   "n"
+  ],
+  "vi": "sinh học; môn sinh",
+  "coll": [
+   "study biology",
+   "marine biology",
+   "molecular biology",
+   "biology class"
+  ]
+ },
+ {
+  "id": "briefly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngắn gọn; trong chốc lát",
+  "coll": [
+   "speak briefly",
+   "briefly explain",
+   "pause briefly",
+   "meet briefly"
+  ]
+ },
+ {
+  "id": "canal",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kênh đào; ống dẫn trong cơ thể",
+  "coll": [
+   "the Panama Canal",
+   "irrigation canal",
+   "canal boat",
+   "root canal"
+  ]
+ },
+ {
+  "id": "delete",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "xóa; xóa bỏ",
+  "coll": [
+   "delete a file",
+   "delete an account",
+   "delete a message",
+   "accidentally delete"
+  ]
+ },
+ {
+  "id": "departure",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khởi hành; sự rời đi; sự khác với lệ thường",
+  "coll": [
+   "departure time",
+   "departure lounge",
+   "point of departure",
+   "delay the departure"
+  ]
+ },
+ {
+  "id": "explosion",
+  "pos": [
+   "n"
+  ],
+  "vi": "vụ nổ; sự bùng nổ",
+  "coll": [
+   "bomb explosion",
+   "gas explosion",
+   "population explosion",
+   "a huge explosion"
+  ]
+ },
+ {
+  "id": "folk",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người ta, dân chúng; dân gian; gia đình, họ hàng",
+  "coll": [
+   "folk music",
+   "folk tale",
+   "folk dance",
+   "country folk",
+   "old folks"
+  ]
+ },
+ {
+  "id": "generate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "tạo ra; sản sinh; phát (điện)",
+  "coll": [
+   "generate electricity",
+   "generate income",
+   "generate interest",
+   "generate ideas"
+  ]
+ },
+ {
+  "id": "lightning",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "tia chớp, sét; nhanh như chớp",
+  "coll": [
+   "thunder and lightning",
+   "struck by lightning",
+   "a flash of lightning",
+   "at lightning speed"
+  ]
+ },
+ {
+  "id": "magical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "kỳ diệu; thuộc phép thuật",
+  "coll": [
+   "magical powers",
+   "magical moment",
+   "magical experience",
+   "magical world"
+  ]
+ },
+ {
+  "id": "motivation",
+  "pos": [
+   "n"
+  ],
+  "vi": "động lực; sự thúc đẩy",
+  "coll": [
+   "lack of motivation",
+   "strong motivation",
+   "motivation to learn",
+   "boost motivation"
+  ]
+ },
+ {
+  "id": "nasty",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khó chịu, tồi tệ; ác ý; bẩn thỉu",
+  "coll": [
+   "nasty smell",
+   "nasty habit",
+   "nasty surprise",
+   "nasty weather",
+   "a nasty cut"
+  ]
+ },
+ {
+  "id": "permit",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cho phép; giấy phép",
+  "coll": [
+   "work permit",
+   "building permit",
+   "permit access",
+   "if time permits"
+  ]
+ },
+ {
+  "id": "productive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "năng suất cao; hiệu quả; màu mỡ",
+  "coll": [
+   "productive meeting",
+   "a productive day",
+   "highly productive",
+   "productive land"
+  ]
+ },
+ {
+  "id": "safely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "an toàn; một cách an toàn",
+  "coll": [
+   "arrive safely",
+   "drive safely",
+   "safely stored",
+   "land safely"
+  ]
+ },
+ {
+  "id": "slight",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "nhẹ, nhỏ; mảnh khảnh; sự coi thường",
+  "coll": [
+   "slight increase",
+   "slight difference",
+   "slight change",
+   "slight improvement"
+  ]
+ },
+ {
+  "id": "tension",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự căng thẳng; sức căng",
+  "coll": [
+   "ease tension",
+   "rising tension",
+   "muscle tension",
+   "political tension"
+  ]
+ },
+ {
+  "id": "twist",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xoắn, vặn; tình tiết bất ngờ; khúc quanh",
+  "coll": [
+   "a twist of fate",
+   "plot twist",
+   "twist your ankle",
+   "twist the lid off"
+  ]
+ },
+ {
+  "id": "unemployment",
+  "pos": [
+   "n"
+  ],
+  "vi": "nạn thất nghiệp; tỷ lệ thất nghiệp",
+  "coll": [
+   "unemployment rate",
+   "high unemployment",
+   "unemployment benefits",
+   "rising unemployment"
+  ]
+ },
+ {
+  "id": "useless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô dụng; vô ích",
+  "coll": [
+   "completely useless",
+   "useless information",
+   "feel useless",
+   "useless at cooking"
+  ]
+ },
+ {
+  "id": "bitter",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "đắng; cay đắng; gay gắt; rét buốt",
+  "coll": [
+   "bitter taste",
+   "bitter cold",
+   "bitter experience",
+   "bitter argument",
+   "to the bitter end"
+  ]
+ },
+ {
+  "id": "clinic",
+  "pos": [
+   "n"
+  ],
+  "vi": "phòng khám",
+  "coll": [
+   "health clinic",
+   "dental clinic",
+   "private clinic",
+   "attend a clinic"
+  ]
+ },
+ {
+  "id": "continuous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "liên tục; không ngừng",
+  "coll": [
+   "continuous improvement",
+   "continuous process",
+   "continuous assessment",
+   "a continuous line"
+  ]
+ },
+ {
+  "id": "creator",
+  "pos": [
+   "n"
+  ],
+  "vi": "người sáng tạo; đấng tạo hóa",
+  "coll": [
+   "content creator",
+   "the creator of the series",
+   "game creator",
+   "job creator"
+  ]
+ },
+ {
+  "id": "detective",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thám tử; trinh thám",
+  "coll": [
+   "private detective",
+   "detective story",
+   "detective work",
+   "police detective"
+  ]
+ },
+ {
+  "id": "disability",
+  "pos": [
+   "n"
+  ],
+  "vi": "khuyết tật; sự tàn tật",
+  "coll": [
+   "learning disability",
+   "physical disability",
+   "disability benefits",
+   "people with disabilities"
+  ]
+ },
+ {
+  "id": "excess",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự dư thừa; phần vượt quá",
+  "coll": [
+   "in excess of",
+   "excess weight",
+   "excess baggage",
+   "drink to excess"
+  ]
+ },
+ {
+  "id": "farming",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "nghề nông; việc canh tác, chăn nuôi",
+  "coll": [
+   "organic farming",
+   "dairy farming",
+   "farming community",
+   "fish farming"
+  ]
+ },
+ {
+  "id": "highlight",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "điểm nổi bật; nêu bật; tô sáng",
+  "coll": [
+   "the highlight of the trip",
+   "highlight the importance",
+   "highlight text",
+   "career highlights"
+  ]
+ },
+ {
+  "id": "legally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hợp pháp; về mặt pháp lý",
+  "coll": [
+   "legally binding",
+   "legally responsible",
+   "legally required",
+   "legally married"
+  ]
+ },
+ {
+  "id": "nail",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "móng tay; đinh; đóng đinh",
+  "coll": [
+   "nail polish",
+   "bite your nails",
+   "hammer and nails",
+   "nail it to the wall",
+   "hit the nail on the head"
+  ]
+ },
+ {
+  "id": "nonsense",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "intj"
+  ],
+  "vi": "điều vô lý; chuyện nhảm nhí",
+  "coll": [
+   "talk nonsense",
+   "complete nonsense",
+   "absolute nonsense",
+   "stop this nonsense"
+  ]
+ },
+ {
+  "id": "phoenix",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chim phượng hoàng",
+  "coll": [
+   "rise like a phoenix",
+   "a phoenix from the ashes",
+   "the mythical phoenix"
+  ]
+ },
+ {
+  "id": "poet",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà thơ",
+  "coll": [
+   "famous poet",
+   "romantic poet",
+   "poets and writers",
+   "the national poet"
+  ]
+ },
+ {
+  "id": "repeatedly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhiều lần; lặp đi lặp lại",
+  "coll": [
+   "repeatedly asked",
+   "repeatedly warned",
+   "repeatedly denied",
+   "hit repeatedly"
+  ]
+ },
+ {
+  "id": "slavery",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chế độ nô lệ; cảnh nô lệ",
+  "coll": [
+   "abolish slavery",
+   "the abolition of slavery",
+   "modern slavery",
+   "sold into slavery"
+  ]
+ },
+ {
+  "id": "transformation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự biến đổi; sự chuyển hóa",
+  "coll": [
+   "digital transformation",
+   "complete transformation",
+   "undergo a transformation",
+   "economic transformation"
+  ]
+ },
+ {
+  "id": "attract",
+  "pos": [
+   "v"
+  ],
+  "vi": "thu hút; hấp dẫn; hút",
+  "coll": [
+   "attract attention",
+   "attract tourists",
+   "attract investment",
+   "attract customers"
+  ]
+ },
+ {
+  "id": "bronze",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "đồng (hợp kim); huy chương đồng; màu đồng",
+  "coll": [
+   "bronze medal",
+   "bronze statue",
+   "the Bronze Age",
+   "bronze sculpture"
+  ]
+ },
+ {
+  "id": "cave",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "hang động; nhượng bộ (cave in)",
+  "coll": [
+   "cave paintings",
+   "explore a cave",
+   "a deep cave",
+   "the cave entrance"
+  ]
+ },
+ {
+  "id": "demonstrate",
+  "pos": [
+   "v"
+  ],
+  "vi": "chứng minh; trình diễn cách làm; biểu tình",
+  "coll": [
+   "demonstrate the ability",
+   "clearly demonstrate",
+   "demonstrate how it works",
+   "demonstrate against the government"
+  ]
+ },
+ {
+  "id": "generous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hào phóng; rộng lượng; nhiều, thoải mái",
+  "coll": [
+   "generous donation",
+   "generous offer",
+   "generous with money",
+   "a generous portion"
+  ]
+ },
+ {
+  "id": "loyal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trung thành",
+  "coll": [
+   "loyal customer",
+   "loyal friend",
+   "loyal supporter",
+   "remain loyal to"
+  ]
+ },
+ {
+  "id": "mentally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt tinh thần; trong đầu",
+  "coll": [
+   "mentally ill",
+   "mentally strong",
+   "mentally prepared",
+   "physically and mentally"
+  ]
+ },
+ {
+  "id": "patience",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kiên nhẫn; tính nhẫn nại",
+  "coll": [
+   "lose patience",
+   "have patience",
+   "run out of patience",
+   "patience with children"
+  ]
+ },
+ {
+  "id": "prisoner",
+  "pos": [
+   "n"
+  ],
+  "vi": "tù nhân; người bị giam cầm",
+  "coll": [
+   "political prisoner",
+   "prisoner of war",
+   "release a prisoner",
+   "take someone prisoner"
+  ]
+ },
+ {
+  "id": "resist",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chống lại; kháng cự; cưỡng lại",
+  "coll": [
+   "resist temptation",
+   "resist change",
+   "resist arrest",
+   "can't resist chocolate"
+  ]
+ },
+ {
+  "id": "wrap",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gói, bọc; quấn; khăn choàng",
+  "coll": [
+   "wrap a present",
+   "wrap it in paper",
+   "plastic wrap",
+   "wrap up warm"
+  ]
+ },
+ {
+  "id": "yoga",
+  "pos": [
+   "n"
+  ],
+  "vi": "yoga; môn yoga",
+  "coll": [
+   "do yoga",
+   "practice yoga",
+   "yoga class",
+   "yoga mat"
+  ]
+ },
+ {
+  "id": "adopt",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhận nuôi; áp dụng; thông qua",
+  "coll": [
+   "adopt a child",
+   "adopt a new approach",
+   "adopt a policy",
+   "adopt measures"
+  ]
+ },
+ {
+  "id": "boot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ủng, giày bốt; cốp xe; khởi động máy",
+  "coll": [
+   "leather boots",
+   "hiking boots",
+   "the car boot",
+   "boot up the computer"
+  ]
+ },
+ {
+  "id": "coastal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ven biển; duyên hải",
+  "coll": [
+   "coastal areas",
+   "coastal town",
+   "coastal waters",
+   "coastal erosion"
+  ]
+ },
+ {
+  "id": "confusion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhầm lẫn; sự bối rối; sự hỗn loạn",
+  "coll": [
+   "cause confusion",
+   "avoid confusion",
+   "in confusion",
+   "confusion between the two"
+  ]
+ },
+ {
+  "id": "customs",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hải quan; thuế nhập khẩu",
+  "coll": [
+   "go through customs",
+   "customs officer",
+   "customs duties",
+   "customs declaration"
+  ]
+ },
+ {
+  "id": "dealer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người buôn bán; đại lý; kẻ buôn ma túy",
+  "coll": [
+   "car dealer",
+   "drug dealer",
+   "art dealer",
+   "antique dealer"
+  ]
+ },
+ {
+  "id": "distant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xa xôi; xa cách, lạnh nhạt; (họ hàng) xa",
+  "coll": [
+   "the distant future",
+   "distant relative",
+   "distant memory",
+   "in the distant past"
+  ]
+ },
+ {
+  "id": "emotion",
+  "pos": [
+   "n"
+  ],
+  "vi": "cảm xúc",
+  "coll": [
+   "show emotion",
+   "mixed emotions",
+   "control your emotions",
+   "strong emotions"
+  ]
+ },
+ {
+  "id": "emphasis",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhấn mạnh; trọng tâm",
+  "coll": [
+   "place emphasis on",
+   "put emphasis on",
+   "special emphasis",
+   "shift the emphasis"
+  ]
+ },
+ {
+  "id": "excitement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phấn khích; sự háo hức",
+  "coll": [
+   "great excitement",
+   "a sense of excitement",
+   "shake with excitement",
+   "full of excitement"
+  ]
+ },
+ {
+  "id": "exploration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khám phá; sự thăm dò",
+  "coll": [
+   "space exploration",
+   "oil exploration",
+   "exploration of the topic",
+   "scientific exploration"
+  ]
+ }
+]

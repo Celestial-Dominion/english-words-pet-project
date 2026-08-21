@@ -1,0 +1,402 @@
+{
+  "opioid": {
+    "vi": "thuốc phiện tổng hợp, chất dạng thuốc phiện",
+    "coll": ["opioid crisis", "opioid painkillers", "opioid addiction", "prescription opioids", "opioid overdose"]
+  },
+  "realistically": {
+    "vi": "một cách thực tế; nói thật lòng thì",
+    "coll": ["realistically speaking", "realistically achievable", "realistically expect", "assess realistically", "realistically possible"]
+  },
+  "positivity": {
+    "vi": "sự tích cực, thái độ lạc quan",
+    "coll": ["body positivity", "spread positivity", "a sense of positivity", "toxic positivity", "radiate positivity"]
+  },
+  "treacherous": {
+    "vi": "phản trắc; hiểm trở nguy hiểm",
+    "coll": ["treacherous conditions", "treacherous roads", "a treacherous friend", "treacherous waters", "treacherous terrain"]
+  },
+  "philanthropy": {
+    "vi": "hoạt động từ thiện; lòng bác ái",
+    "coll": ["corporate philanthropy", "acts of philanthropy", "modern philanthropy", "philanthropy and charity", "a life of philanthropy"]
+  },
+  "redundancy": {
+    "vi": "sự dư thừa; việc cắt giảm nhân sự; dự phòng",
+    "coll": ["compulsory redundancy", "redundancy payment", "face redundancy", "built-in redundancy", "voluntary redundancy"]
+  },
+  "baroque": {
+    "vi": "kiểu baroque; rườm rà cầu kỳ",
+    "coll": ["baroque music", "baroque architecture", "baroque style", "baroque period", "baroque detail"]
+  },
+  "ethos": {
+    "vi": "tinh thần đặc trưng; hệ giá trị cốt lõi",
+    "coll": ["company ethos", "the ethos of the school", "work ethos", "shared ethos", "underlying ethos"]
+  },
+  "reindeer": {
+    "vi": "tuần lộc",
+    "coll": ["a herd of reindeer", "reindeer antlers", "Santa's reindeer", "reindeer herding", "flying reindeer"]
+  },
+  "alligator": {
+    "vi": "cá sấu mõm ngắn",
+    "coll": ["American alligator", "alligator skin", "alligator attack", "baby alligator", "alligator farm"]
+  },
+  "pamphlet": {
+    "vi": "tờ rơi, sách mỏng tuyên truyền",
+    "coll": ["hand out pamphlets", "an information pamphlet", "political pamphlet", "read the pamphlet", "distribute pamphlets"]
+  },
+  "cor": {
+    "vi": "chà!, trời ơi! (kiểu Anh)",
+    "coll": ["cor blimey", "cor, that's amazing", "cor, look at that"]
+  },
+  "fag": {
+    "vi": "điếu thuốc lá (lóng Anh); từ miệt thị người đồng tính",
+    "coll": ["have a fag", "a packet of fags", "smoke a fag", "fag end", "fag break"]
+  },
+  "buggy": {
+    "vi": "xe đẩy em bé; xe địa hình nhỏ; đầy lỗi (phần mềm)",
+    "coll": ["dune buggy", "baby buggy", "beach buggy", "buggy software", "golf buggy"]
+  },
+  "volt": {
+    "vi": "vôn (đơn vị điện áp)",
+    "coll": ["12 volt battery", "240 volt supply", "volts and amps", "high volt current", "a nine-volt battery"]
+  },
+  "antagonist": {
+    "vi": "nhân vật phản diện; kẻ đối địch",
+    "coll": ["the main antagonist", "a formidable antagonist", "protagonist and antagonist", "political antagonist", "receptor antagonist"]
+  },
+  "skater": {
+    "vi": "người trượt băng; dân trượt ván",
+    "coll": ["figure skater", "speed skater", "ice skater", "skater boy", "professional skater"]
+  },
+  "manic": {
+    "vi": "hưng cảm; điên cuồng hối hả",
+    "coll": ["manic depression", "manic episode", "manic energy", "manic pace", "manic laughter"]
+  },
+  "celery": {
+    "vi": "cần tây",
+    "coll": ["a stick of celery", "celery sticks", "chopped celery", "celery soup", "celery juice"]
+  },
+  "pervert": {
+    "vi": "kẻ biến thái; làm sai lệch, bóp méo",
+    "coll": ["a sick pervert", "pervert the course of justice", "pervert the truth", "call him a pervert", "pervert the meaning"]
+  },
+  "perpetrator": {
+    "vi": "thủ phạm; kẻ gây án",
+    "coll": ["the perpetrator of the crime", "identify the perpetrator", "alleged perpetrator", "catch the perpetrators", "perpetrators of violence"]
+  },
+  "quid": {
+    "vi": "đồng bảng Anh (tiếng lóng)",
+    "coll": ["fifty quid", "a few quid", "quid pro quo", "worth a couple of quid", "not a quid"]
+  },
+  "fro": {
+    "vi": "lui lại, ngược lại (trong to and fro)",
+    "coll": ["to and fro", "sway to and fro", "walk to and fro", "rock to and fro"]
+  },
+  "photon": {
+    "vi": "photon, hạt ánh sáng",
+    "coll": ["a single photon", "photon energy", "photon emission", "photon beam", "absorb a photon"]
+  },
+  "synod": {
+    "vi": "hội đồng giáo hội, công nghị",
+    "coll": ["the General Synod", "hold a synod", "synod meeting", "church synod", "convene a synod"]
+  },
+  "shred": {
+    "vi": "mảnh vụn, sợi nhỏ; xé vụn, băm nhỏ",
+    "coll": ["not a shred of evidence", "shred the documents", "torn to shreds", "shredded cheese", "a shred of hope"]
+  },
+  "untold": {
+    "vi": "khôn xiết, không kể xiết; chưa được kể",
+    "coll": ["untold damage", "untold wealth", "untold suffering", "the untold story", "untold millions"]
+  },
+  "perish": {
+    "vi": "bỏ mạng, chết; hư hỏng mục nát",
+    "coll": ["perish in the fire", "perish the thought", "perish from hunger", "the rubber perished", "many perished"]
+  },
+  "aromatic": {
+    "vi": "thơm ngát; thuộc vòng thơm (hóa học)",
+    "coll": ["aromatic herbs", "aromatic spices", "aromatic oils", "aromatic compounds", "highly aromatic"]
+  },
+  "foundry": {
+    "vi": "xưởng đúc kim loại; nhà máy đúc chip",
+    "coll": ["iron foundry", "foundry worker", "steel foundry", "chip foundry", "foundry industry"]
+  },
+  "canonical": {
+    "vi": "chính thống, chuẩn mực; theo giáo luật",
+    "coll": ["canonical form", "canonical text", "canonical works", "canonical example", "canonical law"]
+  },
+  "simplistic": {
+    "vi": "giản lược quá mức; đơn giản hóa nông cạn",
+    "coll": ["simplistic view", "overly simplistic", "simplistic approach", "simplistic explanation", "simplistic answer"]
+  },
+  "healer": {
+    "vi": "thầy chữa bệnh; người chữa lành",
+    "coll": ["faith healer", "traditional healer", "a natural healer", "time is a healer", "energy healer"]
+  },
+  "primal": {
+    "vi": "nguyên thủy, bản năng; sơ khai",
+    "coll": ["primal instinct", "primal fear", "primal scream", "primal urge", "primal energy"]
+  },
+  "ceasefire": {
+    "vi": "lệnh ngừng bắn",
+    "coll": ["declare a ceasefire", "agree to a ceasefire", "ceasefire agreement", "break the ceasefire", "temporary ceasefire"]
+  },
+  "oblivion": {
+    "vi": "sự lãng quên; trạng thái vô thức",
+    "coll": ["fade into oblivion", "sink into oblivion", "drink oneself into oblivion", "consigned to oblivion", "bombed into oblivion"]
+  },
+  "potion": {
+    "vi": "thuốc nước, thuốc phép",
+    "coll": ["magic potion", "love potion", "brew a potion", "healing potion", "drink the potion"]
+  },
+  "approximation": {
+    "vi": "sự xấp xỉ; con số ước chừng",
+    "coll": ["a rough approximation", "good approximation", "first approximation", "close approximation", "approximation error"]
+  },
+  "escalation": {
+    "vi": "sự leo thang; mức tăng vọt",
+    "coll": ["escalation of violence", "further escalation", "military escalation", "prevent escalation", "escalation of costs"]
+  },
+  "reelection": {
+    "vi": "sự tái đắc cử; việc tranh cử lại",
+    "coll": ["seek reelection", "win reelection", "reelection campaign", "run for reelection", "reelection bid"]
+  },
+  "measurable": {
+    "vi": "đo lường được; thấy rõ được",
+    "coll": ["measurable results", "measurable impact", "measurable progress", "easily measurable", "measurable difference"]
+  },
+  "sideline": {
+    "vi": "nghề tay trái; đường biên sân; gạt ra ngoài lề",
+    "coll": ["on the sidelines", "a nice little sideline", "sidelined by injury", "watch from the sidelines", "sideline business"]
+  },
+  "exec": {
+    "vi": "sếp, lãnh đạo cấp cao",
+    "coll": ["a senior exec", "top execs", "media exec", "exec producer", "a former exec"]
+  },
+  "reversible": {
+    "vi": "có thể đảo ngược; mặc được hai mặt",
+    "coll": ["reversible jacket", "reversible reaction", "fully reversible", "reversible damage", "reversible decision"]
+  },
+  "preparedness": {
+    "vi": "sự sẵn sàng ứng phó",
+    "coll": ["emergency preparedness", "disaster preparedness", "level of preparedness", "military preparedness", "improve preparedness"]
+  },
+  "earthly": {
+    "vi": "thuộc trần thế; trên đời (dùng nhấn mạnh)",
+    "coll": ["earthly possessions", "no earthly reason", "earthly life", "earthly pleasures", "not an earthly chance"]
+  },
+  "cautiously": {
+    "vi": "một cách thận trọng",
+    "coll": ["cautiously optimistic", "proceed cautiously", "move cautiously", "cautiously welcomed", "tread cautiously"]
+  },
+  "voicemail": {
+    "vi": "hộp thư thoại; tin nhắn thoại",
+    "coll": ["leave a voicemail", "check your voicemail", "voicemail message", "voicemail box", "go to voicemail"]
+  },
+  "attendants": {
+    "vi": "nhân viên phục vụ; người tháp tùng",
+    "coll": ["flight attendants", "parking attendants", "attendants on duty", "a crowd of attendants", "hospital attendants"]
+  },
+  "eyewitness": {
+    "vi": "nhân chứng tận mắt",
+    "coll": ["eyewitness account", "eyewitness testimony", "an eyewitness said", "eyewitness report", "key eyewitness"]
+  },
+  "rendezvous": {
+    "vi": "cuộc hẹn gặp; điểm hẹn",
+    "coll": ["a secret rendezvous", "rendezvous point", "arrange a rendezvous", "rendezvous with the ship", "romantic rendezvous"]
+  },
+  "cutie": {
+    "vi": "cục cưng, người dễ thương",
+    "coll": ["what a cutie", "a real cutie", "hey cutie", "little cutie", "cutie pie"]
+  },
+  "gunman": {
+    "vi": "kẻ có súng, tay súng",
+    "coll": ["a lone gunman", "masked gunman", "the gunman opened fire", "armed gunman", "hunt for the gunman"]
+  },
+  "miscarriage": {
+    "vi": "sự sảy thai; sự thất bại (công lý)",
+    "coll": ["have a miscarriage", "miscarriage of justice", "suffer a miscarriage", "risk of miscarriage", "early miscarriage"]
+  },
+  "narration": {
+    "vi": "lời dẫn chuyện; sự thuật lại",
+    "coll": ["voice-over narration", "first-person narration", "the narration of events", "provide the narration", "narration style"]
+  },
+  "intestinal": {
+    "vi": "thuộc ruột, đường ruột",
+    "coll": ["intestinal tract", "intestinal bacteria", "intestinal problems", "intestinal wall", "intestinal infection"]
+  },
+  "psychopath": {
+    "vi": "kẻ thái nhân cách; kẻ máu lạnh",
+    "coll": ["a dangerous psychopath", "certified psychopath", "psychopath test", "act like a psychopath", "diagnosed as a psychopath"]
+  },
+  "visualization": {
+    "vi": "sự hình dung; biểu diễn trực quan",
+    "coll": ["data visualization", "visualization techniques", "3D visualization", "creative visualization", "visualization tool"]
+  },
+  "ent": {
+    "vi": "khoa tai mũi họng (ENT); người cây Ent (truyện Tolkien)",
+    "coll": ["ENT specialist", "ENT department", "refer to ENT", "ENT consultant", "ENT clinic"]
+  },
+  "skincare": {
+    "vi": "chăm sóc da",
+    "coll": ["skincare routine", "skincare products", "daily skincare", "skincare brand", "skincare regime"]
+  },
+  "selectively": {
+    "vi": "một cách chọn lọc; có chọn lựa",
+    "coll": ["selectively chosen", "selectively enforce", "selectively breed", "selectively quote", "apply selectively"]
+  },
+  "inaugurated": {
+    "vi": "đã nhậm chức; đã khánh thành",
+    "coll": ["was inaugurated as president", "officially inaugurated", "inaugurated in 2020", "newly inaugurated", "inaugurated the new bridge"]
+  },
+  "supervisory": {
+    "vi": "thuộc giám sát; quản lý điều hành",
+    "coll": ["supervisory role", "supervisory board", "supervisory authority", "supervisory position", "supervisory duties"]
+  },
+  "hardcover": {
+    "vi": "sách bìa cứng",
+    "coll": ["hardcover edition", "in hardcover", "hardcover book", "hardcover copy", "hardcover release"]
+  },
+  "vaccinated": {
+    "vi": "đã tiêm phòng, đã chủng ngừa",
+    "coll": ["fully vaccinated", "get vaccinated", "vaccinated against measles", "vaccinated population", "not vaccinated"]
+  },
+  "crowdfunding": {
+    "vi": "gọi vốn cộng đồng",
+    "coll": ["crowdfunding campaign", "crowdfunding platform", "launch a crowdfunding", "raise money via crowdfunding", "crowdfunding site"]
+  },
+  "embodiment": {
+    "vi": "hiện thân; sự thể hiện cụ thể",
+    "coll": ["the embodiment of evil", "living embodiment", "embodiment of the ideal", "physical embodiment", "the very embodiment of"]
+  },
+  "mammal": {
+    "vi": "động vật có vú",
+    "coll": ["marine mammal", "land mammal", "the largest mammal", "small mammals", "mammal species"]
+  },
+  "hamster": {
+    "vi": "chuột hamster",
+    "coll": ["pet hamster", "hamster wheel", "hamster cage", "keep a hamster", "hamster food"]
+  },
+  "slug": {
+    "vi": "con sên trần; viên đạn; ngụm rượu; đấm mạnh",
+    "coll": ["garden slug", "a slug of whisky", "slug it out", "shotgun slug", "slugs and snails"]
+  },
+  "digestion": {
+    "vi": "sự tiêu hóa",
+    "coll": ["aid digestion", "poor digestion", "the process of digestion", "digestion problems", "healthy digestion"]
+  },
+  "labyrinth": {
+    "vi": "mê cung; mê lộ rắc rối",
+    "coll": ["a labyrinth of corridors", "the Cretan labyrinth", "labyrinth of rules", "navigate the labyrinth", "underground labyrinth"]
+  },
+  "cosy": {
+    "vi": "ấm cúng, dễ chịu; bọc ủ ấm ấm trà",
+    "coll": ["cosy atmosphere", "a cosy little room", "cosy up to", "tea cosy", "warm and cosy"]
+  },
+  "muzzle": {
+    "vi": "mõm thú; rọ mõm; nòng súng; bịt miệng",
+    "coll": ["muzzle the dog", "muzzle velocity", "put on a muzzle", "muzzle the press", "the muzzle of the gun"]
+  },
+  "urinary": {
+    "vi": "thuộc đường tiết niệu",
+    "coll": ["urinary tract", "urinary infection", "urinary system", "urinary incontinence", "urinary bladder"]
+  },
+  "proprietor": {
+    "vi": "chủ sở hữu; chủ tiệm",
+    "coll": ["the proprietor of the hotel", "sole proprietor", "shop proprietor", "new proprietor", "proprietor of the newspaper"]
+  },
+  "pious": {
+    "vi": "sùng đạo; ra vẻ đạo đức",
+    "coll": ["pious believer", "pious hope", "deeply pious", "pious platitudes", "a pious man"]
+  },
+  "rebate": {
+    "vi": "khoản hoàn tiền; tiền giảm giá trả lại",
+    "coll": ["tax rebate", "claim a rebate", "cash rebate", "rebate offer", "a £100 rebate"]
+  },
+  "tendon": {
+    "vi": "gân (cơ)",
+    "coll": ["Achilles tendon", "torn tendon", "tendon injury", "tendon damage", "hamstring tendon"]
+  },
+  "chopper": {
+    "vi": "trực thăng; dao chặt; xe mô tô chopper",
+    "coll": ["police chopper", "meat chopper", "board the chopper", "chopper pilot", "vegetable chopper"]
+  },
+  "biopsy": {
+    "vi": "sinh thiết",
+    "coll": ["have a biopsy", "biopsy results", "liver biopsy", "needle biopsy", "perform a biopsy"]
+  },
+  "hex": {
+    "vi": "lời nguyền, bùa ếm; ô lục giác",
+    "coll": ["put a hex on", "cast a hex", "break the hex", "hex code", "hex grid"]
+  },
+  "woe": {
+    "vi": "nỗi thống khổ; tai ương",
+    "coll": ["tales of woe", "woe betide", "financial woes", "a tale of woe", "woe is me"]
+  },
+  "dehydration": {
+    "vi": "sự mất nước (cơ thể)",
+    "coll": ["severe dehydration", "signs of dehydration", "suffer from dehydration", "prevent dehydration", "risk of dehydration"]
+  },
+  "denomination": {
+    "vi": "mệnh giá; hệ phái tôn giáo",
+    "coll": ["small denominations", "religious denomination", "Christian denomination", "notes of high denomination", "different denominations"]
+  },
+  "filtration": {
+    "vi": "sự lọc; quá trình lọc",
+    "coll": ["water filtration", "air filtration", "filtration system", "filtration process", "carbon filtration"]
+  },
+  "intimidate": {
+    "vi": "hăm dọa; làm cho khiếp sợ",
+    "coll": ["intimidate witnesses", "intimidate voters", "try to intimidate", "intimidate the opposition", "easily intimidated"]
+  },
+  "nurture": {
+    "vi": "nuôi dưỡng, bồi đắp; sự dưỡng dục",
+    "coll": ["nature versus nurture", "nurture talent", "nurture a relationship", "nurture young minds", "nurture growth"]
+  },
+  "patriarch": {
+    "vi": "tộc trưởng, người đứng đầu dòng họ; giáo trưởng",
+    "coll": ["family patriarch", "the patriarch of the clan", "Orthodox Patriarch", "aging patriarch", "patriarch of the church"]
+  },
+  "prioritize": {
+    "vi": "ưu tiên; sắp thứ tự ưu tiên",
+    "coll": ["prioritize tasks", "prioritize safety", "prioritize spending", "learn to prioritize", "prioritize the needs of"]
+  },
+  "contentious": {
+    "vi": "gây tranh cãi; hay cãi cọ",
+    "coll": ["contentious issue", "highly contentious", "contentious debate", "contentious topic", "contentious relationship"]
+  },
+  "perjury": {
+    "vi": "tội khai man trước tòa",
+    "coll": ["commit perjury", "charged with perjury", "perjury charges", "guilty of perjury", "accused of perjury"]
+  },
+  "commando": {
+    "vi": "biệt kích; lính đặc nhiệm",
+    "coll": ["commando raid", "commando unit", "elite commando", "commando training", "go commando"]
+  },
+  "valiant": {
+    "vi": "quả cảm, dũng mãnh",
+    "coll": ["a valiant effort", "valiant attempt", "valiant soldier", "valiant struggle", "valiant defence"]
+  },
+  "oblivious": {
+    "vi": "không hay biết gì; hoàn toàn vô tâm",
+    "coll": ["oblivious to the danger", "seemingly oblivious", "completely oblivious", "oblivious of the fact", "blissfully oblivious"]
+  },
+  "allocate": {
+    "vi": "phân bổ; dành riêng cho",
+    "coll": ["allocate resources", "allocate funds", "allocate time", "allocate a budget", "allocate memory"]
+  },
+  "overt": {
+    "vi": "công khai, ra mặt; lộ rõ",
+    "coll": ["overt racism", "overt hostility", "overt act", "overt criticism", "more overt"]
+  },
+  "spectroscopy": {
+    "vi": "quang phổ học",
+    "coll": ["mass spectroscopy", "infrared spectroscopy", "spectroscopy analysis", "Raman spectroscopy", "use spectroscopy"]
+  },
+  "engraving": {
+    "vi": "nghệ thuật khắc; bản khắc",
+    "coll": ["wood engraving", "copper engraving", "an antique engraving", "engraving technique", "laser engraving"]
+  },
+  "limbo": {
+    "vi": "tình trạng lấp lửng; ngục tổ tông; trò chui thanh ngang",
+    "coll": ["in limbo", "legal limbo", "left in limbo", "limbo dance", "a state of limbo"]
+  }
+}

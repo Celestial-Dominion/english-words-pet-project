@@ -1,0 +1,134 @@
+[
+ {
+  "id": "wiki-sir-model",
+  "title_vi": "Mô hình SIR",
+  "vi": [
+   "Mô hình SIR là một mô hình toán học đơn giản về dịch bệnh.",
+   "Dịch bệnh là khi số người mắc bệnh ngày càng tăng trong dân số.",
+   "S, I, R là viết tắt của: Dưới đây là đồ thị của mô hình SIR đã được giải.",
+   "Trục (x) dưới cùng là thời gian và trục (y) bên trái là dân số hoặc số lượng người.",
+   "Màu xanh tượng trưng cho số người dễ bị tổn thương.",
+   "Khi bắt đầu dịch, số người dễ mắc bệnh (màu xanh) giảm khi số người nhiễm bệnh (màu xanh) tăng lên.",
+   "Dần dần số người khỏi bệnh (màu đỏ) tăng lên.",
+   "Trong mô hình cụ thể này, sau khi dịch bệnh kết thúc, tất cả mọi người đều bị nhiễm bệnh và hồi phục.",
+   "Điều này không phải lúc nào cũng đúng; đôi khi, một số người nhạy cảm vẫn không bị nhiễm bệnh.",
+   "Mô hình này cũng thiếu một số phần, chẳng hạn như tạo ra những người dễ mắc bệnh mới bằng cách sinh ra và loại bỏ những người dễ mắc bệnh, bị nhiễm bệnh và đã chết.",
+   "Các mô hình phức tạp hơn có thể bao gồm các bộ phận này.",
+   "Ngoài ra, mô hình này không hoạt động tốt cho mọi bệnh.",
+   "Nó hoạt động tốt khi mọi người khỏi bệnh và trở nên miễn dịch, chẳng hạn như bệnh sởi.",
+   "Không phải tất cả các bệnh truyền nhiễm đều theo mô hình này.",
+   "Ví dụ, người nhiễm HIV không bao giờ khỏi bệnh, chưa có vắc xin nên không có nhóm người khỏi bệnh, chỉ có người dễ mắc bệnh và người nhiễm HIV.",
+   "Cũng có trường hợp người ta khỏi bệnh nhưng không có miễn dịch hoặc mất khả năng miễn dịch theo thời gian."
+  ]
+ },
+ {
+  "id": "wiki-secondary-source",
+  "title_vi": "Nguồn thứ cấp",
+  "vi": [
+   "Nguồn thứ cấp là tài liệu hoặc bản ghi viết lại hay nói lại thông tin đã cách nguồn gốc một bước.",
+   "Nguồn thứ cấp phụ thuộc vào nguồn sơ cấp, tức nguồn gốc của thông tin.",
+   "Các nguồn thứ cấp giải thích, đánh giá hoặc thảo luận thông tin được tìm thấy trong các nguồn chính.",
+   "Trong lịch sử, nguồn thứ cấp là một nghiên cứu được viết bởi một học giả về một chủ đề.",
+   "Các nguồn thứ cấp thường trích dẫn các nguồn sơ cấp và các nguồn thứ cấp khác.",
+   "Họ hiếm khi trích dẫn các nguồn cấp ba."
+  ]
+ },
+ {
+  "id": "wiki-bayesian-network",
+  "title_vi": "Mạng Bayes",
+  "vi": [
+   "Mạng Bayes là một loại đồ thị dùng để mô hình hóa những sự kiện không quan sát được.",
+   "Điều này sau đó có thể được sử dụng để suy luận.",
+   "Đồ thị được sử dụng là đồ thị có hướng và không chứa bất kỳ chu trình nào.",
+   "Các nút của biểu đồ biểu thị các biến ngẫu nhiên.",
+   "Nếu hai nút được kết nối bằng một cạnh thì có khả năng nó sẽ truyền từ nút này sang nút khác.",
+   "Mạng Bayesian chủ yếu được sử dụng trong lĩnh vực học máy (không được hỗ trợ).",
+   "Chúng đã được sử dụng khi thông tin cần được phân loại.",
+   "Ví dụ như nhận dạng hình ảnh, tài liệu hoặc giọng nói và truy xuất thông tin.",
+   "Nó dựa trên khám phá của Mục sư Thomas Bayes vào những năm 1740 được gọi là định lý Bayes."
+  ]
+ },
+ {
+  "id": "wiki-surveying",
+  "title_vi": "Trắc địa",
+  "vi": [
+   "Trắc địa là kỹ thuật và khoa học xác định chính xác vị trí của các điểm cùng khoảng cách và góc giữa chúng.",
+   "Những điểm này thường, nhưng không phải lúc nào cũng liên quan đến các vị trí trên bề mặt Trái đất.",
+   "Chúng thường được sử dụng để lập bản đồ đất đai và ranh giới quyền sở hữu đất đai.",
+   "Người thực hiện việc khảo sát được gọi là người khảo sát.",
+   "Để tìm được thông tin cần thiết, người làm trắc địa dùng hình học, kỹ thuật, lượng giác, toán học, vật lý, địa chất và luật.",
+   "Khảo sát đã rất quan trọng trong sự phát triển của môi trường con người kể từ khi bắt đầu lịch sử được ghi lại (khoảng 5000 năm trước) và đó là yêu cầu quy hoạch của hầu hết mọi hình thức xây dựng.",
+   "Ứng dụng phổ biến nhất của nó là trong các lĩnh vực giao thông, xây dựng, thông tin liên lạc, lập bản đồ và tạo ra ranh giới pháp lý cho quyền sở hữu đất đai."
+  ]
+ },
+ {
+  "id": "wiki-order-of-magnitude",
+  "title_vi": "Bậc độ lớn",
+  "vi": [
+   "Bậc độ lớn là xấp xỉ logarit của một giá trị so với một số giá trị tham chiếu được hiểu theo ngữ cảnh, thường là 10, được hiểu là cơ số của logarit và đại diện cho các giá trị có độ lớn bằng 1.",
+   "Phân phối logarit rất phổ biến trong tự nhiên, và việc xét bậc độ lớn của các giá trị lấy từ một phân phối như vậy có thể trực quan hơn.",
+   "Khi giá trị tham chiếu là 10, bậc độ lớn có thể được hiểu là số chữ số trong biểu diễn cơ số 10 của giá trị.",
+   "Tương tự, nếu giá trị tham chiếu là một trong những lũy thừa nhất định của 2, thì độ lớn có thể được hiểu là dung lượng bộ nhớ máy tính cần thiết để lưu trữ giá trị nguyên chính xác.",
+   "Nếu hai số có cùng bậc độ lớn thì chúng xấp xỉ bằng nhau về kích thước.",
+   "Nhưng nếu so sánh bề mặt của quả cam với bề mặt của trái đất, người ta sẽ nói rằng bề mặt của trái đất lớn hơn bề mặt của quả cam rất nhiều bậc.",
+   "Bậc độ lớn được dùng để so sánh gần đúng.",
+   "Nếu các số khác nhau một bậc độ lớn thì x khác về số lượng khoảng mười lần so với y.",
+   "Nếu các giá trị khác nhau hai bậc độ lớn thì chúng khác nhau theo hệ số khoảng 100.",
+   "Hai số cùng bậc độ lớn có tỷ lệ gần như nhau: giá trị lớn hơn nhỏ hơn mười lần giá trị bé hơn."
+  ]
+ },
+ {
+  "id": "wiki-date-palm",
+  "title_vi": "Cây chà là",
+  "vi": [
+   "Cây chà là (Phoenix dactylifera) là một loài cây cọ.",
+   "Nó đã được trồng từ rất lâu vì quả của nó.",
+   "Cây cao từ 15 đến 25 mét (49 và 82 feet).",
+   "Nó có những chiếc lá dài trông giống như lông vũ.",
+   "Những chiếc lá như vậy được gọi là lông chim.",
+   "Lá có thể dài tới 3 đến 5 mét (9,8 đến 16,4 feet).",
+   "Lá có gai nhìn thấy được.",
+   "Có khoảng 150 tờ rơi.",
+   "Mỗi tờ rơi có thể dài tới 30 cm (12 inch) và rộng 2 cm (0,79 inch).",
+   "Chiều dài toàn bộ tán của cây là từ 6 đến 10 mét (20 đến 33 feet).",
+   "Cây có một hoặc nhiều thân.",
+   "Tất cả các thân cây đều đến từ một hệ thống rễ duy nhất."
+  ]
+ },
+ {
+  "id": "wiki-transport-hub",
+  "title_vi": "Đầu mối giao thông",
+  "vi": [
+   "Đầu mối vận tải (còn gọi là nút giao vận tải) là nơi trao đổi hành khách và hàng hóa giữa các phương thức vận tải.",
+   "Các trung tâm giao thông công cộng bao gồm ga xe lửa, trạm trung chuyển nhanh, trạm xe buýt, trạm xe điện, sân bay và bến phà.",
+   "Các trung tâm vận chuyển hàng hóa bao gồm các bãi phân loại, cảng biển và bến xe tải hoặc sự kết hợp của những nơi này.",
+   "Đối với phương tiện giao thông cá nhân, bãi đỗ xe có chức năng như một trung tâm.",
+   "Delta Air Lines lần đầu tiên sử dụng hệ thống trục và nan hoa cho ngành hàng không vào năm 1955 từ trung tâm ở Atlanta, Georgia, Hoa Kỳ.",
+   "Điều này nhằm cạnh tranh với Eastern Air Lines.",
+   "FedEx đã áp dụng mô hình trục và nan hoa để giao hàng qua đêm trong những năm 1970.",
+   "Khi ngành hàng không được bãi bỏ quy định vào năm 1978, hệ thống trục và nan hoa của Delta đã được một số hãng hàng không sử dụng."
+  ]
+ },
+ {
+  "id": "wiki-axiom",
+  "title_vi": "Tiên đề",
+  "vi": [
+   "Tiên đề là một khái niệm trong logic.",
+   "Đó là một tuyên bố được coi là đúng mà không cần nghi ngờ và không cần bằng chứng.",
+   "Nó còn được gọi là một tiên đề (như trong tiên đề song song).",
+   "Tiên đề này được sử dụng làm tiền đề hoặc điểm khởi đầu cho những lý luận hoặc lập luận sâu hơn, thường là trong logic hoặc toán học.",
+   "Điều này có nghĩa là nó không thể được chứng minh trong quá trình thảo luận về một vấn đề.",
+   "Vì vậy, trong một số cuộc thảo luận, người ta cho rằng điều đó là đúng.",
+   "Có nhiều lý do tại sao nó không có bằng chứng.",
+   "Ví dụ: Tuyên bố có thể hiển nhiên.",
+   "Điều này có nghĩa là hầu hết mọi người nghĩ rằng nó rõ ràng là đúng.",
+   "Một ví dụ về một tiên đề hiển nhiên là nguyên tắc mâu thuẫn.",
+   "Nó nói rằng một tuyên bố và điều ngược lại của nó không thể cùng đúng ở cùng một thời điểm và cùng một địa điểm.",
+   "Tuyên bố này dựa trên các định luật vật lý và có thể dễ dàng quan sát được.",
+   "Một ví dụ là định luật chuyển động của Newton.",
+   "Chúng có thể dễ dàng được quan sát thấy trong thế giới vật chất.",
+   "Tuyên bố là một đề xuất.",
+   "Ở đây, một tiên đề là bất kỳ câu lệnh toán học nào đóng vai trò là điểm khởi đầu mà từ đó các câu lệnh khác được rút ra một cách hợp lý."
+  ]
+ }
+]

@@ -1,0 +1,402 @@
+{
+  "textual": {
+    "vi": "thuộc văn bản; về mặt chữ nghĩa",
+    "coll": ["textual analysis", "textual evidence", "textual content", "textual criticism", "textual data"]
+  },
+  "parlor": {
+    "vi": "tiệm (làm đẹp, kem); phòng khách",
+    "coll": ["beauty parlor", "ice cream parlor", "funeral parlor", "massage parlor", "tattoo parlor"]
+  },
+  "indifference": {
+    "vi": "sự thờ ơ; thái độ dửng dưng",
+    "coll": ["complete indifference", "public indifference", "with indifference", "indifference to suffering", "an air of indifference"]
+  },
+  "hardwood": {
+    "vi": "gỗ cứng; gỗ lá rộng",
+    "coll": ["hardwood floor", "hardwood forest", "solid hardwood", "hardwood timber", "hardwood furniture"]
+  },
+  "embroidered": {
+    "vi": "được thêu; thêm mắm thêm muối",
+    "coll": ["embroidered fabric", "hand-embroidered", "embroidered logo", "embroidered cushion", "richly embroidered"]
+  },
+  "disproportionate": {
+    "vi": "không cân xứng; chênh lệch quá mức",
+    "coll": ["disproportionate impact", "disproportionate share", "disproportionate response", "disproportionate number", "wildly disproportionate"]
+  },
+  "rocker": {
+    "vi": "ghế bập bênh; dân nhạc rock; thanh cong bập bênh",
+    "coll": ["off his rocker", "rocking chair rocker", "an old rocker", "rocker arm", "punk rocker"]
+  },
+  "psychedelic": {
+    "vi": "gây ảo giác; sặc sỡ kỳ ảo",
+    "coll": ["psychedelic drugs", "psychedelic rock", "psychedelic colours", "psychedelic experience", "psychedelic art"]
+  },
+  "intellectually": {
+    "vi": "về mặt trí tuệ; về trí thức",
+    "coll": ["intellectually challenging", "intellectually stimulating", "intellectually dishonest", "intellectually curious", "intellectually rigorous"]
+  },
+  "propagation": {
+    "vi": "sự lan truyền; sự nhân giống",
+    "coll": ["wave propagation", "plant propagation", "signal propagation", "propagation of the species", "error propagation"]
+  },
+  "itchy": {
+    "vi": "ngứa ngáy; bồn chồn muốn đi",
+    "coll": ["itchy skin", "itchy eyes", "itchy feet", "itchy rash", "an itchy throat"]
+  },
+  "coveted": {
+    "vi": "được thèm muốn; ai cũng ao ước",
+    "coll": ["coveted prize", "coveted award", "coveted title", "a coveted spot", "highly coveted"]
+  },
+  "mixtape": {
+    "vi": "băng nhạc tuyển chọn; album mixtape",
+    "coll": ["make a mixtape", "release a mixtape", "a mixtape of songs", "mixtape cover", "drop a mixtape"]
+  },
+  "appellate": {
+    "vi": "thuộc phúc thẩm; xét kháng cáo",
+    "coll": ["appellate court", "appellate judge", "appellate jurisdiction", "appellate division", "appellate review"]
+  },
+  "highness": {
+    "vi": "Điện hạ (tước hiệu hoàng gia)",
+    "coll": ["Your Highness", "His Royal Highness", "Her Highness", "Their Highnesses"]
+  },
+  "bombardment": {
+    "vi": "cuộc oanh tạc; sự dội bom pháo",
+    "coll": ["aerial bombardment", "heavy bombardment", "artillery bombardment", "under bombardment", "constant bombardment"]
+  },
+  "issuance": {
+    "vi": "việc phát hành; sự cấp phát",
+    "coll": ["bond issuance", "issuance of visas", "date of issuance", "issuance of shares", "issuance fee"]
+  },
+  "unaffected": {
+    "vi": "không bị ảnh hưởng; tự nhiên không màu mè",
+    "coll": ["largely unaffected", "unaffected by the change", "remain unaffected", "unaffected areas", "unaffected charm"]
+  },
+  "foreseeable": {
+    "vi": "có thể dự đoán trước",
+    "coll": ["for the foreseeable future", "foreseeable risk", "reasonably foreseeable", "foreseeable consequences", "foreseeable problems"]
+  },
+  "adjourned": {
+    "vi": "đã hoãn lại, tạm nghỉ (phiên họp)",
+    "coll": ["the meeting was adjourned", "adjourned hearing", "court adjourned", "adjourned until Monday", "adjourned session"]
+  },
+  "pancreatic": {
+    "vi": "thuộc tuyến tụy",
+    "coll": ["pancreatic cancer", "pancreatic juice", "pancreatic enzymes", "pancreatic cells", "pancreatic duct"]
+  },
+  "randomized": {
+    "vi": "ngẫu nhiên hóa; chọn ngẫu nhiên",
+    "coll": ["randomized trial", "randomized controlled trial", "randomized sample", "randomized order", "randomly randomized assignment"]
+  },
+  "infirmary": {
+    "vi": "trạm xá; bệnh xá",
+    "coll": ["school infirmary", "the royal infirmary", "sent to the infirmary", "infirmary ward", "prison infirmary"]
+  },
+  "insanely": {
+    "vi": "cực kỳ, điên rồ; như điên",
+    "coll": ["insanely jealous", "insanely popular", "insanely difficult", "insanely expensive", "laugh insanely"]
+  },
+  "rapists": {
+    "vi": "những kẻ hiếp dâm",
+    "coll": ["convicted rapists", "catch the rapists", "serial rapists", "punish rapists", "rapists and murderers"]
+  },
+  "marginalized": {
+    "vi": "bị gạt ra bên lề; bị xem nhẹ",
+    "coll": ["marginalized communities", "marginalized groups", "socially marginalized", "feel marginalized", "marginalized people"]
+  },
+  "informant": {
+    "vi": "người cung cấp tin; chỉ điểm",
+    "coll": ["police informant", "confidential informant", "an informant told", "paid informant", "key informant"]
+  },
+  "deficient": {
+    "vi": "thiếu hụt; không đủ tiêu chuẩn",
+    "coll": ["deficient in vitamin D", "nutritionally deficient", "deficient supply", "mentally deficient", "deficient diet"]
+  },
+  "uncanny": {
+    "vi": "kỳ lạ đến rợn người; giống đến khó tin",
+    "coll": ["uncanny resemblance", "uncanny ability", "uncanny knack", "uncanny valley", "uncanny accuracy"]
+  },
+  "adept": {
+    "vi": "thành thạo, khéo léo; người lão luyện",
+    "coll": ["adept at handling", "highly adept", "adept in the art", "become adept", "adept negotiator"]
+  },
+  "maverick": {
+    "vi": "người độc lập khác người; ngang tàng khác biệt",
+    "coll": ["political maverick", "a maverick genius", "maverick approach", "maverick streak", "something of a maverick"]
+  },
+  "dole out": {
+    "vi": "phân phát nhỏ giọt; chia ra phát",
+    "coll": ["dole out money", "dole out advice", "dole out punishment", "dole out the food", "dole out cash"]
+  },
+  "additive": {
+    "vi": "chất phụ gia; có tính cộng dồn",
+    "coll": ["food additive", "chemical additive", "fuel additive", "additive effect", "no artificial additives"]
+  },
+  "deterrent": {
+    "vi": "yếu tố răn đe; có tác dụng ngăn chặn",
+    "coll": ["nuclear deterrent", "act as a deterrent", "an effective deterrent", "deterrent effect", "strong deterrent"]
+  },
+  "agility": {
+    "vi": "sự nhanh nhẹn; tính linh hoạt",
+    "coll": ["physical agility", "mental agility", "business agility", "speed and agility", "agility training"]
+  },
+  "pristine": {
+    "vi": "nguyên sơ, còn nguyên vẹn; sạch bong",
+    "coll": ["pristine condition", "pristine beaches", "pristine wilderness", "pristine white", "pristine environment"]
+  },
+  "turquoise": {
+    "vi": "màu xanh ngọc lam; đá lam ngọc",
+    "coll": ["turquoise blue", "turquoise water", "turquoise ring", "bright turquoise", "turquoise stone"]
+  },
+  "precedence": {
+    "vi": "quyền ưu tiên; thứ tự trước sau",
+    "coll": ["take precedence over", "give precedence to", "order of precedence", "in order of precedence", "have precedence"]
+  },
+  "nil": {
+    "vi": "số không; không có gì",
+    "coll": ["two-nil", "reduced to nil", "nil return", "the score was nil", "nil by mouth"]
+  },
+  "voyager": {
+    "vi": "nhà thám hiểm đường xa; người viễn du",
+    "coll": ["an intrepid voyager", "space voyager", "Voyager probe", "solo voyager", "ancient voyagers"]
+  },
+  "millennial": {
+    "vi": "thế hệ Y (sinh 1981–1996); thuộc thiên niên kỷ",
+    "coll": ["millennial generation", "young millennials", "millennial workers", "millennial mindset", "millennial celebrations"]
+  },
+  "eerie": {
+    "vi": "rờn rợn, ma quái; kỳ dị đến lạnh người",
+    "coll": ["eerie silence", "eerie feeling", "eerie glow", "eerie atmosphere", "eerie resemblance"]
+  },
+  "monsoon": {
+    "vi": "gió mùa; mùa mưa",
+    "coll": ["monsoon season", "monsoon rains", "the summer monsoon", "monsoon winds", "monsoon flooding"]
+  },
+  "vandalism": {
+    "vi": "hành vi phá hoại tài sản",
+    "coll": ["acts of vandalism", "commit vandalism", "petty vandalism", "vandalism and graffiti", "damage from vandalism"]
+  },
+  "alteration": {
+    "vi": "sự thay đổi; việc sửa chữa (quần áo)",
+    "coll": ["make alterations", "slight alteration", "alteration to the plan", "structural alteration", "alterations and repairs"]
+  },
+  "treble": {
+    "vi": "gấp ba; âm bổng; cú ăn ba",
+    "coll": ["treble clef", "treble the amount", "turn up the treble", "win the treble", "treble voice"]
+  },
+  "propeller": {
+    "vi": "chân vịt, cánh quạt đẩy",
+    "coll": ["aircraft propeller", "propeller blade", "spinning propeller", "propeller shaft", "twin propellers"]
+  },
+  "toaster": {
+    "vi": "máy nướng bánh mì",
+    "coll": ["pop-up toaster", "toaster oven", "put bread in the toaster", "electric toaster", "toaster setting"]
+  },
+  "prognosis": {
+    "vi": "tiên lượng bệnh; dự báo diễn biến",
+    "coll": ["poor prognosis", "good prognosis", "long-term prognosis", "prognosis for recovery", "grim prognosis"]
+  },
+  "werewolf": {
+    "vi": "người sói",
+    "coll": ["turn into a werewolf", "werewolf legend", "werewolf movie", "hunt a werewolf", "werewolf curse"]
+  },
+  "optimize": {
+    "vi": "tối ưu hóa",
+    "coll": ["optimize performance", "optimize resources", "optimize the process", "search engine optimization", "optimize for speed"]
+  },
+  "joyous": {
+    "vi": "vui sướng; hân hoan",
+    "coll": ["joyous occasion", "joyous celebration", "joyous mood", "a joyous reunion", "joyous news"]
+  },
+  "malignant": {
+    "vi": "ác tính; hiểm độc",
+    "coll": ["malignant tumour", "malignant cells", "malignant melanoma", "malignant influence", "turn malignant"]
+  },
+  "underdog": {
+    "vi": "kẻ cửa dưới, bên bị đánh giá thấp",
+    "coll": ["the underdog wins", "root for the underdog", "clear underdog", "underdog story", "play the underdog"]
+  },
+  "afloat": {
+    "vi": "nổi trên mặt nước; trụ được (tài chính)",
+    "coll": ["stay afloat", "keep the business afloat", "set afloat", "remain afloat", "barely afloat"]
+  },
+  "corvette": {
+    "vi": "tàu hộ tống cỡ nhỏ",
+    "coll": ["naval corvette", "missile corvette", "the corvette sailed", "a class of corvette", "patrol corvette"]
+  },
+  "ungrateful": {
+    "vi": "vô ơn; bạc bẽo",
+    "coll": ["ungrateful child", "sound ungrateful", "ungrateful behaviour", "don't be ungrateful", "an ungrateful task"]
+  },
+  "heartless": {
+    "vi": "nhẫn tâm; vô tình lạnh lùng",
+    "coll": ["heartless cruelty", "a heartless act", "heartless decision", "cold and heartless", "heartless bastard"]
+  },
+  "holistic": {
+    "vi": "toàn diện, tổng thể; chỉnh thể",
+    "coll": ["holistic approach", "holistic medicine", "holistic view", "holistic treatment", "more holistic"]
+  },
+  "grudge": {
+    "vi": "mối hiềm khích; ôm hận; tiếc rẻ không muốn cho",
+    "coll": ["hold a grudge", "bear a grudge", "nurse a grudge", "grudge match", "an old grudge"]
+  },
+  "exponential": {
+    "vi": "theo cấp số nhân; hàm mũ",
+    "coll": ["exponential growth", "exponential increase", "exponential function", "exponential rate", "grow exponentially"]
+  },
+  "aero": {
+    "vi": "thuộc hàng không; khí động học",
+    "coll": ["aero engine", "aero industry", "aero dynamics", "aero design", "aero components"]
+  },
+  "measles": {
+    "vi": "bệnh sởi",
+    "coll": ["catch measles", "measles vaccine", "measles outbreak", "German measles", "measles cases"]
+  },
+  "migraine": {
+    "vi": "chứng đau nửa đầu",
+    "coll": ["suffer from migraines", "a severe migraine", "migraine attack", "migraine sufferer", "trigger a migraine"]
+  },
+  "canine": {
+    "vi": "thuộc loài chó; răng nanh",
+    "coll": ["canine teeth", "canine companion", "canine unit", "canine behaviour", "upper canine"]
+  },
+  "ultraviolet": {
+    "vi": "tia tử ngoại; thuộc tia cực tím",
+    "coll": ["ultraviolet light", "ultraviolet radiation", "ultraviolet rays", "ultraviolet spectrum", "block ultraviolet"]
+  },
+  "reorganization": {
+    "vi": "sự tái cơ cấu; việc sắp xếp lại",
+    "coll": ["corporate reorganization", "major reorganization", "reorganization plan", "undergo reorganization", "internal reorganization"]
+  },
+  "usefulness": {
+    "vi": "tính hữu ích; sự có ích",
+    "coll": ["practical usefulness", "limited usefulness", "the usefulness of the tool", "prove its usefulness", "outlive its usefulness"]
+  },
+  "degenerate": {
+    "vi": "suy đồi, thoái hóa; xuống cấp dần; kẻ đồi bại",
+    "coll": ["degenerate into chaos", "degenerate disease", "morally degenerate", "degenerate behaviour", "degenerate matter"]
+  },
+  "wrongful": {
+    "vi": "sai trái, trái pháp luật",
+    "coll": ["wrongful death", "wrongful dismissal", "wrongful arrest", "wrongful conviction", "wrongful termination"]
+  },
+  "playback": {
+    "vi": "sự phát lại (bản ghi)",
+    "coll": ["video playback", "audio playback", "playback speed", "playback quality", "start playback"]
+  },
+  "unbiased": {
+    "vi": "khách quan, không thiên vị",
+    "coll": ["unbiased opinion", "unbiased report", "unbiased view", "completely unbiased", "unbiased estimate"]
+  },
+  "dashboard": {
+    "vi": "bảng điều khiển; táp-lô xe",
+    "coll": ["car dashboard", "dashboard camera", "admin dashboard", "on the dashboard", "dashboard display"]
+  },
+  "steroid": {
+    "vi": "steroid; thuốc tăng cơ",
+    "coll": ["anabolic steroids", "take steroids", "steroid injection", "steroid use", "on steroids"]
+  },
+  "montage": {
+    "vi": "màn dựng cảnh nối tiếp; sự ghép hình",
+    "coll": ["a training montage", "photo montage", "montage sequence", "video montage", "create a montage"]
+  },
+  "bloated": {
+    "vi": "đầy hơi, sưng phù; phình to cồng kềnh",
+    "coll": ["feel bloated", "bloated stomach", "bloated bureaucracy", "bloated budget", "bloated software"]
+  },
+  "threesome": {
+    "vi": "nhóm ba người; chuyện chăn gối ba người",
+    "coll": ["a threesome of golfers", "have a threesome", "the threesome met", "play in a threesome"]
+  },
+  "demonic": {
+    "vi": "ma quỷ; tàn ác như quỷ",
+    "coll": ["demonic possession", "demonic forces", "demonic laughter", "demonic ritual", "demonic presence"]
+  },
+  "cheerleader": {
+    "vi": "cổ động viên nhảy múa; người cổ vũ nhiệt thành",
+    "coll": ["head cheerleader", "cheerleader squad", "a cheerleader for reform", "high school cheerleader", "cheerleader uniform"]
+  },
+  "intrusive": {
+    "vi": "xâm phạm riêng tư; phiền nhiễu",
+    "coll": ["intrusive questions", "intrusive thoughts", "intrusive advertising", "overly intrusive", "intrusive surveillance"]
+  },
+  "disgraceful": {
+    "vi": "đáng hổ thẹn; ô nhục",
+    "coll": ["disgraceful behaviour", "absolutely disgraceful", "disgraceful conduct", "a disgraceful decision", "disgraceful treatment"]
+  },
+  "bonfire": {
+    "vi": "đống lửa trại lớn",
+    "coll": ["light a bonfire", "Bonfire Night", "bonfire party", "build a bonfire", "around the bonfire"]
+  },
+  "hormonal": {
+    "vi": "thuộc nội tiết tố; do hoóc-môn",
+    "coll": ["hormonal changes", "hormonal imbalance", "hormonal therapy", "hormonal contraception", "hormonal levels"]
+  },
+  "thematic": {
+    "vi": "theo chủ đề; thuộc chủ đề",
+    "coll": ["thematic analysis", "thematic content", "thematic approach", "thematic map", "thematic elements"]
+  },
+  "colonialism": {
+    "vi": "chủ nghĩa thực dân",
+    "coll": ["European colonialism", "the legacy of colonialism", "resist colonialism", "settler colonialism", "the end of colonialism"]
+  },
+  "causal": {
+    "vi": "nhân quả; liên quan tới nguyên nhân",
+    "coll": ["causal relationship", "causal link", "causal factor", "causal connection", "causal inference"]
+  },
+  "citadel": {
+    "vi": "thành lũy; pháo đài",
+    "coll": ["ancient citadel", "the citadel walls", "storm the citadel", "hilltop citadel", "citadel of power"]
+  },
+  "harmonic": {
+    "vi": "hài hòa; sóng hài, bội âm",
+    "coll": ["harmonic series", "harmonic motion", "harmonic distortion", "harmonic structure", "harmonic mean"]
+  },
+  "hectic": {
+    "vi": "bận rối lên; tất bật",
+    "coll": ["hectic schedule", "hectic pace", "a hectic day", "hectic lifestyle", "things got hectic"]
+  },
+  "smoky": {
+    "vi": "đầy khói; có mùi khói; màu khói",
+    "coll": ["smoky bar", "smoky flavour", "smoky atmosphere", "smoky eyes", "smoky grey"]
+  },
+  "handwritten": {
+    "vi": "viết tay",
+    "coll": ["handwritten note", "handwritten letter", "handwritten sign", "handwritten manuscript", "handwritten signature"]
+  },
+  "microbial": {
+    "vi": "thuộc vi sinh vật",
+    "coll": ["microbial growth", "microbial infection", "microbial community", "microbial activity", "microbial contamination"]
+  },
+  "enraged": {
+    "vi": "giận điên lên; phẫn nộ",
+    "coll": ["become enraged", "enraged by the decision", "enraged crowd", "utterly enraged", "enraged mob"]
+  },
+  "retrieval": {
+    "vi": "sự truy xuất; việc lấy lại",
+    "coll": ["information retrieval", "data retrieval", "memory retrieval", "retrieval system", "beyond retrieval"]
+  },
+  "shipbuilding": {
+    "vi": "ngành đóng tàu",
+    "coll": ["shipbuilding industry", "shipbuilding yard", "shipbuilding contract", "commercial shipbuilding", "shipbuilding capacity"]
+  },
+  "fatally": {
+    "vi": "gây chết người; nghiêm trọng chí mạng",
+    "coll": ["fatally wounded", "fatally injured", "fatally shot", "fatally flawed", "fatally undermine"]
+  },
+  "grossly": {
+    "vi": "hết sức, quá mức trầm trọng",
+    "coll": ["grossly unfair", "grossly exaggerated", "grossly negligent", "grossly inadequate", "grossly overpaid"]
+  },
+  "relatable": {
+    "vi": "dễ đồng cảm, thấy mình trong đó",
+    "coll": ["a relatable character", "highly relatable", "relatable content", "relatable experience", "make it relatable"]
+  },
+  "centrally": {
+    "vi": "ở vị trí trung tâm; tập trung",
+    "coll": ["centrally located", "centrally planned", "centrally heated", "centrally managed", "centrally controlled"]
+  },
+  "matchmaking": {
+    "vi": "việc mai mối; ghép cặp người chơi",
+    "coll": ["online matchmaking", "matchmaking service", "matchmaking system", "business matchmaking", "do some matchmaking"]
+  }
+}

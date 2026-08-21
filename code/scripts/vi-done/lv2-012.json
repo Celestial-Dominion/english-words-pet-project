@@ -1,0 +1,402 @@
+{
+  "violate": {
+    "vi": "vi phạm; xâm phạm; xúc phạm",
+    "coll": ["violate the law", "violate human rights", "violate a rule", "violate privacy"]
+  },
+  "anticipation": {
+    "vi": "sự mong đợi; sự dự đoán trước",
+    "coll": ["in anticipation of", "eager anticipation", "with great anticipation", "a sense of anticipation"]
+  },
+  "appropriately": {
+    "vi": "một cách phù hợp; thích đáng",
+    "coll": ["dress appropriately", "respond appropriately", "act appropriately", "appropriately named"]
+  },
+  "arrogant": {
+    "vi": "kiêu ngạo; ngạo mạn",
+    "coll": ["an arrogant man", "arrogant behaviour", "sound arrogant", "arrogant and rude"]
+  },
+  "boxer": {
+    "vi": "võ sĩ quyền anh; chó boxer",
+    "coll": ["a professional boxer", "a heavyweight boxer", "an amateur boxer", "boxer shorts"]
+  },
+  "carbon dioxide": {
+    "vi": "khí cacbonic (CO2)",
+    "coll": ["carbon dioxide emissions", "absorb carbon dioxide", "carbon dioxide levels", "release carbon dioxide"]
+  },
+  "coma": {
+    "vi": "hôn mê",
+    "coll": ["fall into a coma", "in a coma", "come out of a coma", "an induced coma"]
+  },
+  "comfortably": {
+    "vi": "thoải mái; dễ dàng (thắng)",
+    "coll": ["sit comfortably", "comfortably seated", "win comfortably", "live comfortably"]
+  },
+  "contempt": {
+    "vi": "sự khinh miệt; tội khinh thường tòa án",
+    "coll": ["treat with contempt", "utter contempt", "contempt of court", "beneath contempt"]
+  },
+  "disappearance": {
+    "vi": "sự biến mất; sự mất tích",
+    "coll": ["a mysterious disappearance", "the disappearance of species", "investigate a disappearance", "a sudden disappearance"]
+  },
+  "emergence": {
+    "vi": "sự xuất hiện; sự nổi lên",
+    "coll": ["the emergence of new technology", "the emergence of a leader", "rapid emergence", "since the emergence of the internet"]
+  },
+  "endurance": {
+    "vi": "sức bền; sự chịu đựng",
+    "coll": ["physical endurance", "an endurance test", "build endurance", "beyond endurance"]
+  },
+  "evacuation": {
+    "vi": "sự sơ tán; cuộc di tản",
+    "coll": ["an emergency evacuation", "order an evacuation", "an evacuation plan", "a mass evacuation"]
+  },
+  "exceptionally": {
+    "vi": "cực kỳ; đặc biệt là",
+    "coll": ["exceptionally good", "exceptionally talented", "exceptionally high", "exceptionally well"]
+  },
+  "hedge": {
+    "vi": "hàng rào cây; phòng ngừa rủi ro; nói nước đôi",
+    "coll": ["trim the hedge", "a garden hedge", "a hedge fund", "hedge against inflation"]
+  },
+  "ironically": {
+    "vi": "trớ trêu thay; một cách mỉa mai",
+    "coll": ["ironically enough", "ironically named", "smile ironically", "ironically, it worked"]
+  },
+  "pneumonia": {
+    "vi": "viêm phổi",
+    "coll": ["develop pneumonia", "die of pneumonia", "severe pneumonia", "bacterial pneumonia"]
+  },
+  "potent": {
+    "vi": "mạnh, hiệu nghiệm; có sức thuyết phục",
+    "coll": ["a potent drug", "a potent weapon", "a potent symbol", "highly potent"]
+  },
+  "salty": {
+    "vi": "mặn; có vị muối",
+    "coll": ["salty water", "salty food", "a salty taste", "too salty"]
+  },
+  "torch": {
+    "vi": "ngọn đuốc; đèn pin (Anh); phóng hỏa",
+    "coll": ["carry a torch", "the Olympic torch", "shine a torch", "a flaming torch"]
+  },
+  "unchanged": {
+    "vi": "không thay đổi",
+    "coll": ["remain unchanged", "essentially unchanged", "largely unchanged", "prices are unchanged"]
+  },
+  "understandable": {
+    "vi": "dễ hiểu; có thể thông cảm",
+    "coll": ["perfectly understandable", "an understandable reaction", "understandable concern", "quite understandable"]
+  },
+  "upright": {
+    "vi": "thẳng đứng; ngay thẳng, chính trực",
+    "coll": ["stand upright", "an upright position", "an upright piano", "an upright citizen"]
+  },
+  "vanity": {
+    "vi": "tính phù phiếm, hư vinh; bàn trang điểm",
+    "coll": ["out of vanity", "wounded vanity", "a vanity project", "a vanity mirror"]
+  },
+  "anticipate": {
+    "vi": "dự đoán trước; mong đợi; lường trước",
+    "coll": ["anticipate problems", "anticipate the outcome", "eagerly anticipate", "as anticipated"]
+  },
+  "bankrupt": {
+    "vi": "phá sản; làm phá sản; người vỡ nợ",
+    "coll": ["go bankrupt", "declared bankrupt", "a bankrupt company", "morally bankrupt"]
+  },
+  "blink": {
+    "vi": "chớp mắt; cái chớp mắt; nhấp nháy",
+    "coll": ["blink your eyes", "in the blink of an eye", "without blinking", "the lights blink"]
+  },
+  "childish": {
+    "vi": "trẻ con, ấu trĩ; như trẻ con",
+    "coll": ["childish behaviour", "don't be childish", "a childish prank", "childish and immature"]
+  },
+  "dilemma": {
+    "vi": "tình thế khó xử; thế tiến thoái lưỡng nan",
+    "coll": ["face a dilemma", "a moral dilemma", "a difficult dilemma", "pose a dilemma"]
+  },
+  "disgrace": {
+    "vi": "sự ô nhục; nỗi hổ thẹn; làm nhục",
+    "coll": ["bring disgrace on", "in disgrace", "a national disgrace", "public disgrace"]
+  },
+  "excel": {
+    "vi": "xuất sắc, vượt trội",
+    "coll": ["excel at sports", "excel in mathematics", "excel yourself", "excel academically"]
+  },
+  "firstly": {
+    "vi": "thứ nhất là; trước hết",
+    "coll": ["firstly and most importantly", "firstly, we must consider", "firstly and secondly", "firstly, let us examine"]
+  },
+  "inflammation": {
+    "vi": "viêm; tình trạng sưng viêm",
+    "coll": ["reduce inflammation", "chronic inflammation", "cause inflammation", "joint inflammation"]
+  },
+  "lava": {
+    "vi": "dung nham",
+    "coll": ["molten lava", "a lava flow", "a lava field", "erupting lava"]
+  },
+  "metaphor": {
+    "vi": "phép ẩn dụ",
+    "coll": ["a mixed metaphor", "use a metaphor", "an extended metaphor", "a metaphor for life"]
+  },
+  "millionaire": {
+    "vi": "triệu phú",
+    "coll": ["a self-made millionaire", "become a millionaire", "a multi-millionaire", "a millionaire businessman"]
+  },
+  "owing to": {
+    "vi": "do, bởi vì",
+    "coll": ["owing to bad weather", "owing to circumstances", "owing to a lack of funds", "cancelled owing to illness"]
+  },
+  "patriot": {
+    "vi": "người yêu nước",
+    "coll": ["a true patriot", "a great patriot", "a loyal patriot", "patriots and heroes"]
+  },
+  "patron": {
+    "vi": "người bảo trợ; khách quen; thánh bảo hộ",
+    "coll": ["a patron of the arts", "regular patrons", "a patron saint", "wealthy patrons"]
+  },
+  "rightly": {
+    "vi": "một cách đúng đắn; quả thật đúng",
+    "coll": ["rightly so", "rightly or wrongly", "rightly proud", "rightly criticised"]
+  },
+  "shrink": {
+    "vi": "co lại, thu nhỏ; giảm sút; né tránh",
+    "coll": ["shrink in the wash", "the economy shrinks", "shrink back", "shrink from responsibility"]
+  },
+  "thigh": {
+    "vi": "đùi",
+    "coll": ["thigh muscles", "the inner thigh", "a chicken thigh", "a thigh injury"]
+  },
+  "undertake": {
+    "vi": "đảm nhận, tiến hành; cam kết",
+    "coll": ["undertake a task", "undertake research", "undertake a project", "undertake to pay"]
+  },
+  "unsuccessful": {
+    "vi": "không thành công; thất bại",
+    "coll": ["an unsuccessful attempt", "prove unsuccessful", "unsuccessful applicants", "largely unsuccessful"]
+  },
+  "caption": {
+    "vi": "chú thích ảnh; phụ đề; đặt chú thích",
+    "coll": ["a photo caption", "read the caption", "closed captions", "the caption under the picture"]
+  },
+  "condemn": {
+    "vi": "lên án; kết án; tuyên bố không an toàn",
+    "coll": ["condemn violence", "strongly condemn", "condemn to death", "widely condemned"]
+  },
+  "disguise": {
+    "vi": "cải trang, ngụy trang; sự trá hình",
+    "coll": ["in disguise", "a clever disguise", "disguise your voice", "a blessing in disguise"]
+  },
+  "impulse": {
+    "vi": "sự bốc đồng, cơn thôi thúc; xung lực",
+    "coll": ["on impulse", "an impulse buy", "resist the impulse", "a sudden impulse"]
+  },
+  "inflammatory": {
+    "vi": "kích động, gây phẫn nộ; gây viêm",
+    "coll": ["inflammatory remarks", "inflammatory language", "anti-inflammatory drugs", "an inflammatory response"]
+  },
+  "integrate": {
+    "vi": "tích hợp; hòa nhập; kết hợp",
+    "coll": ["integrate the systems", "fully integrated", "integrate into society", "integrate new features"]
+  },
+  "knot": {
+    "vi": "nút thắt; thắt nút; hải lý",
+    "coll": ["tie a knot", "untie a knot", "a knot in the rope", "knots in your stomach"]
+  },
+  "lecturer": {
+    "vi": "giảng viên; người thuyết trình",
+    "coll": ["a university lecturer", "a senior lecturer", "a guest lecturer", "a part-time lecturer"]
+  },
+  "microphone": {
+    "vi": "micro",
+    "coll": ["speak into the microphone", "a wireless microphone", "turn on the microphone", "hold the microphone"]
+  },
+  "miniature": {
+    "vi": "thu nhỏ; mô hình thu nhỏ; tranh tí hon",
+    "coll": ["a miniature version", "in miniature", "a miniature model", "miniature golf"]
+  },
+  "perceive": {
+    "vi": "nhận thức; cảm nhận; xem là",
+    "coll": ["perceive a threat", "perceive a difference", "be perceived as", "perceive the world"]
+  },
+  "prose": {
+    "vi": "văn xuôi",
+    "coll": ["write prose", "prose and poetry", "elegant prose", "a prose style"]
+  },
+  "realization": {
+    "vi": "sự nhận ra; sự thực hiện được",
+    "coll": ["a sudden realization", "come to the realization", "the realization of a dream", "a growing realization"]
+  },
+  "rug": {
+    "vi": "tấm thảm nhỏ; chăn đắp",
+    "coll": ["a Persian rug", "lay a rug", "sweep it under the rug", "a woollen rug"]
+  },
+  "steer": {
+    "vi": "lái (xe, tàu); dẫn dắt; bò đực thiến",
+    "coll": ["steer the car", "steer a course", "steer clear of", "steer the conversation"]
+  },
+  "strive": {
+    "vi": "phấn đấu; nỗ lực",
+    "coll": ["strive for excellence", "strive to improve", "strive for success", "continually strive"]
+  },
+  "temptation": {
+    "vi": "sự cám dỗ; điều cám dỗ",
+    "coll": ["resist temptation", "give in to temptation", "a strong temptation", "lead into temptation"]
+  },
+  "thrill": {
+    "vi": "cảm giác phấn khích; làm phấn khích",
+    "coll": ["a thrill of excitement", "thrill seekers", "thrill the crowd", "the thrill of victory"]
+  },
+  "unpopular": {
+    "vi": "không được ưa chuộng; bị ghét",
+    "coll": ["an unpopular decision", "deeply unpopular", "an unpopular policy", "unpopular with voters"]
+  },
+  "ample": {
+    "vi": "dồi dào, thừa đủ; rộng rãi",
+    "coll": ["ample opportunity", "ample evidence", "ample space", "ample time"]
+  },
+  "analogy": {
+    "vi": "sự so sánh tương đồng; phép loại suy",
+    "coll": ["draw an analogy", "by analogy with", "a useful analogy", "a close analogy"]
+  },
+  "backward": {
+    "vi": "về phía sau; lạc hậu; ngược lại",
+    "coll": ["a backward glance", "take a backward step", "backward and forward", "a backward region"]
+  },
+  "digest": {
+    "vi": "tiêu hóa; lĩnh hội, thấm; bản tóm lược",
+    "coll": ["digest food", "hard to digest", "digest the information", "a monthly digest"]
+  },
+  "distract": {
+    "vi": "làm xao nhãng; làm phân tâm",
+    "coll": ["distract attention", "easily distracted", "distract someone from work", "don't distract me"]
+  },
+  "funk": {
+    "vi": "nhạc funk; tâm trạng ủ dột; mùi hôi",
+    "coll": ["funk music", "in a funk", "funk and soul", "a blue funk"]
+  },
+  "greatness": {
+    "vi": "sự vĩ đại",
+    "coll": ["achieve greatness", "a mark of greatness", "destined for greatness", "true greatness"]
+  },
+  "hazardous": {
+    "vi": "nguy hiểm; độc hại",
+    "coll": ["hazardous waste", "hazardous chemicals", "potentially hazardous", "hazardous conditions"]
+  },
+  "hourly": {
+    "vi": "hàng giờ; theo giờ",
+    "coll": ["an hourly rate", "an hourly wage", "hourly updates", "buses run hourly"]
+  },
+  "illustrate": {
+    "vi": "minh họa; làm ví dụ cho",
+    "coll": ["illustrate a point", "illustrate a book", "illustrate with examples", "as the graph illustrates"]
+  },
+  "litter": {
+    "vi": "rác vứt bừa; xả rác; lứa (thú con)",
+    "coll": ["drop litter", "a litter bin", "a litter of puppies", "cat litter"]
+  },
+  "pedestrian": {
+    "vi": "người đi bộ; dành cho người đi bộ; tẻ nhạt",
+    "coll": ["a pedestrian crossing", "a pedestrian zone", "pedestrians and cyclists", "a pedestrian bridge"]
+  },
+  "preferably": {
+    "vi": "tốt nhất là; nếu được thì",
+    "coll": ["preferably before noon", "preferably in writing", "preferably fresh", "preferably not"]
+  },
+  "proudly": {
+    "vi": "một cách tự hào; hãnh diện",
+    "coll": ["proudly announce", "stand proudly", "proudly display", "proudly wear"]
+  },
+  "relaxation": {
+    "vi": "sự thư giãn; sự nới lỏng",
+    "coll": ["a relaxation technique", "rest and relaxation", "muscle relaxation", "relaxation of the rules"]
+  },
+  "winding": {
+    "vi": "quanh co, uốn khúc; cuộn dây",
+    "coll": ["a winding road", "a winding path", "a winding river", "a long winding staircase"]
+  },
+  "adore": {
+    "vi": "yêu quý, tôn thờ; rất thích",
+    "coll": ["adore your children", "absolutely adore", "adore the music", "adore each other"]
+  },
+  "bikini": {
+    "vi": "áo tắm hai mảnh (bikini)",
+    "coll": ["wear a bikini", "a bikini top", "a string bikini", "a bikini body"]
+  },
+  "captive": {
+    "vi": "bị giam cầm; tù nhân; bị mê hoặc",
+    "coll": ["hold someone captive", "a captive audience", "take captive", "captive animals"]
+  },
+  "compulsory": {
+    "vi": "bắt buộc",
+    "coll": ["compulsory education", "compulsory attendance", "make it compulsory", "compulsory insurance"]
+  },
+  "delegate": {
+    "vi": "đại biểu; ủy quyền, giao phó",
+    "coll": ["a conference delegate", "elected delegates", "delegate authority", "delegate tasks"]
+  },
+  "functionality": {
+    "vi": "tính năng; chức năng",
+    "coll": ["add functionality", "basic functionality", "improve functionality", "full functionality"]
+  },
+  "gaze": {
+    "vi": "nhìn chằm chằm; ánh mắt nhìn",
+    "coll": ["gaze at the stars", "a steady gaze", "avert your gaze", "gaze into the distance"]
+  },
+  "idle": {
+    "vi": "nhàn rỗi, không hoạt động; lười biếng; vu vơ",
+    "coll": ["sit idle", "idle chatter", "idle machinery", "idle hands"]
+  },
+  "limb": {
+    "vi": "chi (tay, chân); cành lớn",
+    "coll": ["lose a limb", "the upper limbs", "an artificial limb", "out on a limb"]
+  },
+  "moody": {
+    "vi": "hay thay đổi tâm trạng; ủ rũ, cáu bẳn",
+    "coll": ["a moody teenager", "moody and irritable", "get moody", "a moody atmosphere"]
+  },
+  "offender": {
+    "vi": "người phạm tội; kẻ vi phạm",
+    "coll": ["a repeat offender", "a young offender", "a first-time offender", "a sex offender"]
+  },
+  "overlap": {
+    "vi": "chồng lấn, trùng nhau; phần trùng lặp",
+    "coll": ["overlap with each other", "a considerable overlap", "the roles overlap", "overlapping responsibilities"]
+  },
+  "pentagon": {
+    "vi": "hình ngũ giác; Lầu Năm Góc",
+    "coll": ["a regular pentagon", "shaped like a pentagon", "the Pentagon building", "Pentagon officials"]
+  },
+  "roar": {
+    "vi": "gầm, rống; tiếng gầm; hò reo vang",
+    "coll": ["a lion roars", "the crowd roared", "a deafening roar", "roar with laughter"]
+  },
+  "stain": {
+    "vi": "vết bẩn, vết ố; làm ố, làm bẩn",
+    "coll": ["a coffee stain", "remove a stain", "a stubborn stain", "stain the carpet"]
+  },
+  "stimulation": {
+    "vi": "sự kích thích; sự khơi gợi hứng thú",
+    "coll": ["mental stimulation", "sensory stimulation", "provide stimulation", "electrical stimulation"]
+  },
+  "transcript": {
+    "vi": "bản ghi lời nói; bảng điểm học tập",
+    "coll": ["a full transcript", "an interview transcript", "an academic transcript", "read the transcript"]
+  },
+  "unwilling": {
+    "vi": "không sẵn lòng; miễn cưỡng",
+    "coll": ["unwilling to help", "unwilling participants", "seem unwilling", "unwilling to compromise"]
+  },
+  "blaze": {
+    "vi": "đám cháy lớn; bùng cháy; ánh sáng chói",
+    "coll": ["a raging blaze", "fight the blaze", "a blaze of glory", "the fire blazed"]
+  },
+  "broadband": {
+    "vi": "băng thông rộng; internet tốc độ cao",
+    "coll": ["a broadband connection", "high-speed broadband", "broadband access", "broadband internet"]
+  },
+  "bumper": {
+    "vi": "cản xe (ô tô); bội thu, cực lớn",
+    "coll": ["a front bumper", "bumper to bumper", "a bumper crop", "a bumper sticker"]
+  }
+}

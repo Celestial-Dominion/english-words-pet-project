@@ -1,0 +1,402 @@
+{
+  "technician": {
+    "vi": "kỹ thuật viên",
+    "coll": ["a lab technician", "a dental technician", "a qualified technician", "call a technician", "a service technician"]
+  },
+  "crust": {
+    "vi": "vỏ bánh, lớp vỏ cứng; vỏ Trái Đất",
+    "coll": ["a pizza crust", "the earth's crust", "a crusty loaf", "pie crust", "a thin crust"]
+  },
+  "bisexual": {
+    "vi": "song tính; người song tính luyến ái",
+    "coll": ["openly bisexual", "a bisexual man", "gay and bisexual", "bisexual identity", "bisexual people"]
+  },
+  "counterpart": {
+    "vi": "người tương đương; bên đối tác cùng cấp; vật tương ứng",
+    "coll": ["his American counterpart", "the male counterpart", "meet his counterpart", "a modern counterpart", "unlike its counterpart"]
+  },
+  "prank": {
+    "vi": "trò đùa nghịch; chơi khăm",
+    "coll": ["play a prank", "a practical prank", "a prank call", "a harmless prank", "an April Fools' prank"]
+  },
+  "chronicle": {
+    "vi": "biên niên sử; ghi chép lại theo thời gian",
+    "coll": ["a historical chronicle", "chronicle the events", "chronicle his life", "a family chronicle", "the chronicles of the war"]
+  },
+  "contamination": {
+    "vi": "sự nhiễm bẩn; sự ô nhiễm, nhiễm độc",
+    "coll": ["food contamination", "water contamination", "cross contamination", "risk of contamination", "radioactive contamination"]
+  },
+  "quartz": {
+    "vi": "thạch anh",
+    "coll": ["a quartz crystal", "a quartz watch", "rose quartz", "quartz countertops", "quartz sand"]
+  },
+  "beware": {
+    "vi": "coi chừng, đề phòng",
+    "coll": ["beware of the dog", "beware of scams", "buyer beware", "beware the consequences", "beware of imitations"]
+  },
+  "tidal": {
+    "vi": "thuộc thủy triều; do thủy triều",
+    "coll": ["a tidal wave", "tidal power", "tidal range", "tidal flats", "tidal currents"]
+  },
+  "dietary": {
+    "vi": "thuộc chế độ ăn; về ăn uống",
+    "coll": ["dietary requirements", "dietary supplements", "dietary fibre", "dietary habits", "dietary restrictions"]
+  },
+  "wrath": {
+    "vi": "cơn thịnh nộ; sự trừng phạt trong cơn giận",
+    "coll": ["face his wrath", "the wrath of God", "incur someone's wrath", "divine wrath", "unleash his wrath"]
+  },
+  "verification": {
+    "vi": "sự xác minh; sự kiểm chứng",
+    "coll": ["identity verification", "independent verification", "require verification", "verification process", "two-step verification"]
+  },
+  "baseline": {
+    "vi": "mốc cơ sở, mức chuẩn ban đầu; đường biên sân",
+    "coll": ["a baseline measurement", "establish a baseline", "baseline data", "from the baseline", "above the baseline"]
+  },
+  "comprehend": {
+    "vi": "hiểu thấu; lĩnh hội, nắm bắt",
+    "coll": ["hard to comprehend", "fully comprehend", "comprehend the scale", "unable to comprehend", "comprehend the meaning"]
+  },
+  "vulnerability": {
+    "vi": "sự dễ tổn thương; điểm yếu, lỗ hổng",
+    "coll": ["a security vulnerability", "exploit a vulnerability", "emotional vulnerability", "reduce vulnerability", "a known vulnerability"]
+  },
+  "songwriter": {
+    "vi": "nhạc sĩ sáng tác ca khúc",
+    "coll": ["a singer-songwriter", "a talented songwriter", "a professional songwriter", "songwriter credits", "an award-winning songwriter"]
+  },
+  "residency": {
+    "vi": "quyền cư trú; kỳ nội trú (bác sĩ); đợt lưu trú làm việc",
+    "coll": ["permanent residency", "apply for residency", "a medical residency", "an artist in residency", "residency requirements"]
+  },
+  "emission": {
+    "vi": "khí thải; sự phát thải, phát ra",
+    "coll": ["carbon emissions", "reduce emissions", "greenhouse gas emissions", "emission standards", "zero emissions"]
+  },
+  "manually": {
+    "vi": "bằng tay, thủ công",
+    "coll": ["enter data manually", "operate manually", "manually adjust", "do it manually", "manually controlled"]
+  },
+  "indictment": {
+    "vi": "bản cáo trạng; sự truy tố; lời lên án nặng nề",
+    "coll": ["a federal indictment", "return an indictment", "under indictment", "a damning indictment", "a criminal indictment"]
+  },
+  "responsive": {
+    "vi": "phản hồi nhanh; nhạy bén, biết lắng nghe; tương thích (giao diện)",
+    "coll": ["highly responsive", "responsive to treatment", "a responsive government", "responsive design", "responsive to customer needs"]
+  },
+  "hustle": {
+    "vi": "bươn chải, làm hết sức; xô đẩy, hối thúc; trò lừa gạt",
+    "coll": ["hustle and bustle", "a side hustle", "hustle for business", "hustle him out of the room", "the daily hustle"]
+  },
+  "fracture": {
+    "vi": "gãy xương, vết nứt; làm rạn nứt, làm gãy",
+    "coll": ["a hairline fracture", "a stress fracture", "suffer a fracture", "a skull fracture", "fracture the bone"]
+  },
+  "confederate": {
+    "vi": "liên minh, liên kết; đồng minh, đồng phạm",
+    "coll": ["the Confederate army", "a confederate flag", "confederate states", "a confederate in crime", "confederate soldiers"]
+  },
+  "varsity": {
+    "vi": "đội tuyển của trường; trường đại học (nói tắt)",
+    "coll": ["the varsity team", "varsity football", "make varsity", "a varsity athlete", "varsity match"]
+  },
+  "deploy": {
+    "vi": "triển khai; điều động; đưa vào sử dụng",
+    "coll": ["deploy troops", "deploy resources", "deploy a system", "deploy technology", "be deployed overseas"]
+  },
+  "purity": {
+    "vi": "độ tinh khiết; sự trong sạch, thuần khiết",
+    "coll": ["the purity of the water", "moral purity", "high purity", "test for purity", "purity of heart"]
+  },
+  "apt": {
+    "vi": "thích hợp, xác đáng; dễ có xu hướng; nhanh trí",
+    "coll": ["an apt description", "apt to forget", "an apt comparison", "apt to happen", "an apt pupil"]
+  },
+  "exodus": {
+    "vi": "cuộc di cư ồ ạt; sự ra đi hàng loạt",
+    "coll": ["a mass exodus", "the exodus of refugees", "an exodus from the cities", "trigger an exodus", "a brain exodus"]
+  },
+  "preach": {
+    "vi": "thuyết giảng, giảng đạo; rao giảng đạo lý",
+    "coll": ["preach the gospel", "preach a sermon", "preach to the choir", "practise what you preach", "preach tolerance"]
+  },
+  "realism": {
+    "vi": "chủ nghĩa hiện thực; tinh thần thực tế",
+    "coll": ["social realism", "gritty realism", "a dose of realism", "magical realism", "political realism"]
+  },
+  "plaque": {
+    "vi": "tấm biển kỷ niệm; mảng bám răng; mảng xơ vữa",
+    "coll": ["a commemorative plaque", "a blue plaque", "dental plaque", "plaque buildup", "unveil a plaque"]
+  },
+  "hemisphere": {
+    "vi": "bán cầu",
+    "coll": ["the northern hemisphere", "the southern hemisphere", "the western hemisphere", "the left hemisphere of the brain", "in the other hemisphere"]
+  },
+  "accomplishment": {
+    "vi": "thành tựu; sự hoàn thành; tài năng đạt được",
+    "coll": ["a great accomplishment", "a sense of accomplishment", "his greatest accomplishment", "a remarkable accomplishment", "list of accomplishments"]
+  },
+  "squirrel": {
+    "vi": "con sóc; cất giấu, tích trữ",
+    "coll": ["a grey squirrel", "a red squirrel", "squirrel away money", "squirrel nuts", "a flying squirrel"]
+  },
+  "neighbour": {
+    "vi": "hàng xóm, láng giềng; nước láng giềng",
+    "coll": ["a next-door neighbour", "a friendly neighbour", "noisy neighbours", "a neighbouring country", "help your neighbour"]
+  },
+  "wallpaper": {
+    "vi": "dán giấy tường; giấy dán tường; ảnh nền màn hình",
+    "coll": ["hang wallpaper", "floral wallpaper", "strip the wallpaper", "a desktop wallpaper", "wallpaper the room"]
+  },
+  "inconvenience": {
+    "vi": "sự bất tiện, phiền toái; gây phiền cho",
+    "coll": ["sorry for the inconvenience", "a minor inconvenience", "cause inconvenience", "put up with the inconvenience", "inconvenience the customers"]
+  },
+  "lipstick": {
+    "vi": "son môi",
+    "coll": ["wear lipstick", "red lipstick", "apply lipstick", "a lipstick stain", "a tube of lipstick"]
+  },
+  "contingent": {
+    "vi": "đoàn, nhóm người; tùy thuộc vào; có thể xảy ra",
+    "coll": ["a large contingent", "contingent on approval", "a military contingent", "a contingent plan", "contingent upon funding"]
+  },
+  "irrigation": {
+    "vi": "sự tưới tiêu; thủy lợi",
+    "coll": ["an irrigation system", "drip irrigation", "irrigation canals", "irrigation water", "irrigated farmland"]
+  },
+  "shale": {
+    "vi": "đá phiến sét",
+    "coll": ["shale gas", "shale oil", "oil shale", "shale rock", "shale formations"]
+  },
+  "poetic": {
+    "vi": "nên thơ, giàu chất thơ; thuộc thơ ca",
+    "coll": ["poetic justice", "poetic language", "poetic licence", "a poetic description", "poetic imagery"]
+  },
+  "entirety": {
+    "vi": "toàn bộ, trọn vẹn",
+    "coll": ["in its entirety", "read it in its entirety", "the entirety of the work", "published in its entirety", "the entirety of his career"]
+  },
+  "rabbi": {
+    "vi": "giáo sĩ Do Thái",
+    "coll": ["the chief rabbi", "a local rabbi", "ask a rabbi", "an orthodox rabbi", "the rabbi's sermon"]
+  },
+  "persona": {
+    "vi": "hình tượng thể hiện ra ngoài; nhân vật đóng vai; chân dung người dùng",
+    "coll": ["a public persona", "adopt a persona", "an online persona", "a stage persona", "a user persona"]
+  },
+  "stigma": {
+    "vi": "sự kỳ thị; vết nhơ; đầu nhụy (hoa)",
+    "coll": ["social stigma", "the stigma of mental illness", "attach a stigma to", "reduce the stigma", "carry a stigma"]
+  },
+  "takeover": {
+    "vi": "sự thâu tóm công ty; sự tiếp quản",
+    "coll": ["a hostile takeover", "a takeover bid", "a corporate takeover", "block the takeover", "a military takeover"]
+  },
+  "constituency": {
+    "vi": "đơn vị bầu cử; cử tri của một khu vực; nhóm ủng hộ",
+    "coll": ["a marginal constituency", "his constituency", "a key constituency", "constituency boundaries", "a natural constituency"]
+  },
+  "allegiance": {
+    "vi": "lòng trung thành; sự trung thành với ai",
+    "coll": ["pledge allegiance", "swear allegiance", "loyalty and allegiance", "shift allegiance", "allegiance to the flag"]
+  },
+  "solicitor": {
+    "vi": "luật sư tư vấn (Anh); người chào mời, người đi vận động",
+    "coll": ["consult a solicitor", "a family solicitor", "the solicitor general", "instruct a solicitor", "a solicitor's letter"]
+  },
+  "scoop": {
+    "vi": "muôi múc, muỗng xúc; tin độc quyền; múc, xúc",
+    "coll": ["a scoop of ice cream", "an exclusive scoop", "scoop up the sand", "get the scoop", "an ice cream scoop"]
+  },
+  "invasive": {
+    "vi": "xâm lấn; xâm phạm riêng tư; ngoại lai gây hại",
+    "coll": ["invasive surgery", "minimally invasive", "an invasive species", "invasive questions", "invasive procedures"]
+  },
+  "fallout": {
+    "vi": "hậu quả xấu; bụi phóng xạ",
+    "coll": ["nuclear fallout", "political fallout", "the fallout from the scandal", "radioactive fallout", "economic fallout"]
+  },
+  "coaster": {
+    "vi": "đế lót ly; tàu chạy ven biển; tàu lượn siêu tốc",
+    "coll": ["a roller coaster", "a drinks coaster", "put it on a coaster", "a cork coaster", "a coaster ride"]
+  },
+  "councillor": {
+    "vi": "ủy viên hội đồng; nghị viên địa phương",
+    "coll": ["a local councillor", "a city councillor", "elected councillor", "a Labour councillor", "the councillor said"]
+  },
+  "preacher": {
+    "vi": "nhà thuyết giáo; mục sư giảng đạo",
+    "coll": ["a travelling preacher", "a street preacher", "a lay preacher", "a fiery preacher", "the preacher's sermon"]
+  },
+  "durable": {
+    "vi": "bền, lâu bền; chắc chắn",
+    "coll": ["durable goods", "a durable material", "durable peace", "highly durable", "durable construction"]
+  },
+  "mutually": {
+    "vi": "lẫn nhau; đôi bên cùng",
+    "coll": ["mutually beneficial", "mutually exclusive", "mutually agreed", "mutually respectful", "mutually assured destruction"]
+  },
+  "staple": {
+    "vi": "lương thực chính, mặt hàng thiết yếu; ghim giấy; chủ yếu",
+    "coll": ["a staple food", "a staple diet", "a kitchen staple", "staple crops", "staple the papers together"]
+  },
+  "efficacy": {
+    "vi": "hiệu lực, hiệu quả (thuốc, biện pháp)",
+    "coll": ["the efficacy of the drug", "clinical efficacy", "prove the efficacy", "vaccine efficacy", "doubt its efficacy"]
+  },
+  "betrayal": {
+    "vi": "sự phản bội",
+    "coll": ["a sense of betrayal", "an act of betrayal", "a betrayal of trust", "feel betrayal", "the ultimate betrayal"]
+  },
+  "manifest": {
+    "vi": "biểu lộ, thể hiện rõ; rõ rành rành; bản kê hàng hóa",
+    "coll": ["manifest itself", "manifest symptoms", "make manifest", "a cargo manifest", "a passenger manifest"]
+  },
+  "countdown": {
+    "vi": "sự đếm ngược",
+    "coll": ["the final countdown", "start the countdown", "a countdown to launch", "the countdown clock", "a countdown timer"]
+  },
+  "turnout": {
+    "vi": "tỷ lệ đi bầu; số người tham dự",
+    "coll": ["voter turnout", "a low turnout", "a record turnout", "a good turnout", "turnout at the polls"]
+  },
+  "obese": {
+    "vi": "béo phì",
+    "coll": ["morbidly obese", "obese children", "become obese", "clinically obese", "obese patients"]
+  },
+  "defect": {
+    "vi": "khuyết tật, lỗi; đào tẩu, chạy sang phe khác",
+    "coll": ["a birth defect", "a manufacturing defect", "a serious defect", "defect to the West", "a design defect"]
+  },
+  "procurement": {
+    "vi": "việc mua sắm, thu mua; công tác đấu thầu",
+    "coll": ["public procurement", "the procurement process", "defence procurement", "a procurement officer", "procurement rules"]
+  },
+  "rigorous": {
+    "vi": "nghiêm ngặt; kỹ lưỡng, chặt chẽ",
+    "coll": ["rigorous testing", "a rigorous standard", "rigorous analysis", "rigorous training", "a rigorous approach"]
+  },
+  "terminology": {
+    "vi": "thuật ngữ chuyên ngành; hệ thống thuật ngữ",
+    "coll": ["technical terminology", "medical terminology", "use the correct terminology", "legal terminology", "confusing terminology"]
+  },
+  "trustee": {
+    "vi": "người được ủy thác; thành viên ban quản trị",
+    "coll": ["a board of trustees", "appoint a trustee", "a trustee of the fund", "the trustees agreed", "act as trustee"]
+  },
+  "theatrical": {
+    "vi": "thuộc sân khấu; kịch tính, màu mè",
+    "coll": ["a theatrical production", "a theatrical release", "theatrical performance", "overly theatrical", "a theatrical gesture"]
+  },
+  "sushi": {
+    "vi": "món sushi",
+    "coll": ["a sushi restaurant", "eat sushi", "a sushi roll", "a sushi chef", "sushi bar"]
+  },
+  "skeptical": {
+    "vi": "hoài nghi, nghi ngờ",
+    "coll": ["remain skeptical", "deeply skeptical", "skeptical about the claims", "a skeptical look", "skeptical of the plan"]
+  },
+  "perimeter": {
+    "vi": "chu vi; vành đai, ranh giới ngoài",
+    "coll": ["the perimeter of the field", "a security perimeter", "walk the perimeter", "a perimeter fence", "calculate the perimeter"]
+  },
+  "vengeance": {
+    "vi": "sự trả thù; lòng báo thù",
+    "coll": ["seek vengeance", "take vengeance on", "with a vengeance", "an act of vengeance", "thirst for vengeance"]
+  },
+  "gin": {
+    "vi": "rượu gin; máy tách hạt bông",
+    "coll": ["gin and tonic", "a shot of gin", "a cotton gin", "gin rummy", "dry gin"]
+  },
+  "consortium": {
+    "vi": "liên danh, tổ hợp doanh nghiệp",
+    "coll": ["a banking consortium", "lead a consortium", "an international consortium", "form a consortium", "a consortium of investors"]
+  },
+  "unanimous": {
+    "vi": "nhất trí, đồng lòng",
+    "coll": ["a unanimous decision", "a unanimous vote", "unanimous agreement", "unanimous support", "almost unanimous"]
+  },
+  "protector": {
+    "vi": "người bảo vệ; thiết bị bảo vệ",
+    "coll": ["a screen protector", "an ear protector", "a fierce protector", "act as protector", "a surge protector"]
+  },
+  "pulp": {
+    "vi": "bột giấy; thịt quả, cùi; nghiền nát",
+    "coll": ["wood pulp", "orange pulp", "beat to a pulp", "pulp fiction", "paper pulp"]
+  },
+  "sensory": {
+    "vi": "thuộc giác quan; cảm giác",
+    "coll": ["sensory perception", "sensory overload", "sensory neurons", "sensory experience", "sensory deprivation"]
+  },
+  "outreach": {
+    "vi": "hoạt động tiếp cận cộng đồng; sự vươn tới",
+    "coll": ["community outreach", "an outreach programme", "outreach workers", "outreach efforts", "public outreach"]
+  },
+  "freelance": {
+    "vi": "làm nghề tự do; người làm tự do",
+    "coll": ["a freelance writer", "work freelance", "a freelance journalist", "go freelance", "freelance work"]
+  },
+  "ignition": {
+    "vi": "sự đánh lửa; ổ khóa điện; sự bốc cháy",
+    "coll": ["turn the ignition", "the ignition key", "an ignition switch", "ignition system", "the point of ignition"]
+  },
+  "timer": {
+    "vi": "bộ hẹn giờ; đồng hồ bấm giờ",
+    "coll": ["set a timer", "a kitchen timer", "an egg timer", "a countdown timer", "the timer went off"]
+  },
+  "archaeological": {
+    "vi": "thuộc khảo cổ học",
+    "coll": ["an archaeological site", "archaeological evidence", "an archaeological dig", "archaeological finds", "archaeological research"]
+  },
+  "validation": {
+    "vi": "sự xác nhận, kiểm chứng; sự được công nhận",
+    "coll": ["seek validation", "data validation", "external validation", "validation of the results", "emotional validation"]
+  },
+  "communal": {
+    "vi": "chung, của cộng đồng; giữa các cộng đồng",
+    "coll": ["a communal kitchen", "communal living", "communal areas", "communal violence", "a communal space"]
+  },
+  "suppression": {
+    "vi": "sự đàn áp; sự kìm nén; sự dập tắt",
+    "coll": ["the suppression of dissent", "fire suppression", "immune suppression", "voter suppression", "suppression of evidence"]
+  },
+  "restart": {
+    "vi": "khởi động lại; sự bắt đầu lại",
+    "coll": ["restart the computer", "restart the engine", "restart negotiations", "a fresh restart", "restart the process"]
+  },
+  "cardiovascular": {
+    "vi": "tim mạch",
+    "coll": ["cardiovascular disease", "cardiovascular health", "cardiovascular exercise", "cardiovascular risk", "the cardiovascular system"]
+  },
+  "investigative": {
+    "vi": "điều tra; mang tính điều tra",
+    "coll": ["investigative journalism", "an investigative reporter", "investigative techniques", "an investigative team", "investigative powers"]
+  },
+  "protagonist": {
+    "vi": "nhân vật chính; người chủ xướng",
+    "coll": ["the main protagonist", "the novel's protagonist", "a female protagonist", "the story's protagonist", "a key protagonist"]
+  },
+  "cite": {
+    "vi": "trích dẫn; nêu ra, viện dẫn",
+    "coll": ["cite a source", "cite an example", "cite evidence", "widely cited", "cite reasons for"]
+  },
+  "snail": {
+    "vi": "con ốc sên",
+    "coll": ["at a snail's pace", "a garden snail", "snail shell", "snail mail", "a sea snail"]
+  },
+  "muscular": {
+    "vi": "cơ bắp, vạm vỡ; thuộc về cơ",
+    "coll": ["a muscular build", "muscular arms", "muscular strength", "muscular dystrophy", "lean and muscular"]
+  },
+  "commercially": {
+    "vi": "về mặt thương mại; nhằm mục đích kinh doanh",
+    "coll": ["commercially available", "commercially successful", "commercially viable", "commercially produced", "commercially sensitive"]
+  },
+  "fixture": {
+    "vi": "vật lắp cố định; trận đấu theo lịch; người gắn bó lâu năm",
+    "coll": ["a light fixture", "fixtures and fittings", "a permanent fixture", "the fixture list", "a home fixture"]
+  }
+}

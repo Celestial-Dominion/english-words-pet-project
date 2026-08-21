@@ -1,0 +1,867 @@
+[
+ {
+  "id": "rustic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mộc mạc kiểu đồng quê; thô sơ; dân quê",
+  "coll": [
+   "rustic charm",
+   "rustic style",
+   "rustic furniture",
+   "rustic cabin",
+   "rustic bread"
+  ]
+ },
+ {
+  "id": "scarcity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khan hiếm; tình trạng thiếu hụt",
+  "coll": [
+   "water scarcity",
+   "food scarcity",
+   "scarcity of resources",
+   "labour scarcity",
+   "scarcity value"
+  ]
+ },
+ {
+  "id": "loosen",
+  "pos": [
+   "v"
+  ],
+  "vi": "nới lỏng; làm lỏng ra",
+  "coll": [
+   "loosen the screw",
+   "loosen restrictions",
+   "loosen your grip",
+   "loosen up",
+   "loosen the tie"
+  ]
+ },
+ {
+  "id": "percussion",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ gõ (nhạc cụ); sự va đập",
+  "coll": [
+   "percussion instruments",
+   "percussion section",
+   "play percussion",
+   "percussion cap",
+   "percussion ensemble"
+  ]
+ },
+ {
+  "id": "registrar",
+  "pos": [
+   "n"
+  ],
+  "vi": "cán bộ hộ tịch; người quản lý hồ sơ; bác sĩ nội trú cao cấp",
+  "coll": [
+   "the registrar's office",
+   "domain registrar",
+   "university registrar",
+   "register with the registrar",
+   "hospital registrar"
+  ]
+ },
+ {
+  "id": "curfew",
+  "pos": [
+   "n"
+  ],
+  "vi": "lệnh giới nghiêm; giờ giới nghiêm",
+  "coll": [
+   "impose a curfew",
+   "lift the curfew",
+   "night curfew",
+   "break the curfew",
+   "curfew hours"
+  ]
+ },
+ {
+  "id": "decidedly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "rõ rệt, hẳn hoi; dứt khoát",
+  "coll": [
+   "decidedly different",
+   "decidedly odd",
+   "decidedly better",
+   "decidedly unimpressed",
+   "decidedly mixed"
+  ]
+ },
+ {
+  "id": "bandit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ cướp, thổ phỉ",
+  "coll": [
+   "armed bandit",
+   "one-armed bandit",
+   "band of bandits",
+   "bandit country",
+   "highway bandit"
+  ]
+ },
+ {
+  "id": "triumphant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chiến thắng, khải hoàn; hân hoan thắng lợi",
+  "coll": [
+   "triumphant return",
+   "a triumphant smile",
+   "triumphant victory",
+   "triumphant moment",
+   "emerge triumphant"
+  ]
+ },
+ {
+  "id": "antitrust",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chống độc quyền",
+  "coll": [
+   "antitrust law",
+   "antitrust lawsuit",
+   "antitrust regulators",
+   "antitrust violation",
+   "antitrust case"
+  ]
+ },
+ {
+  "id": "saturation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bão hòa; độ đậm màu",
+  "coll": [
+   "market saturation",
+   "saturation point",
+   "colour saturation",
+   "reach saturation",
+   "saturation level"
+  ]
+ },
+ {
+  "id": "motherhood",
+  "pos": [
+   "n"
+  ],
+  "vi": "thiên chức làm mẹ; việc làm mẹ",
+  "coll": [
+   "the joys of motherhood",
+   "single motherhood",
+   "prepare for motherhood",
+   "motherhood and apple pie",
+   "adjust to motherhood"
+  ]
+ },
+ {
+  "id": "lifespan",
+  "pos": [
+   "n"
+  ],
+  "vi": "tuổi thọ; vòng đời sử dụng",
+  "coll": [
+   "average lifespan",
+   "extend the lifespan",
+   "human lifespan",
+   "short lifespan",
+   "lifespan of the product"
+  ]
+ },
+ {
+  "id": "longitudinal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "theo chiều dọc; kéo dài theo thời gian",
+  "coll": [
+   "longitudinal study",
+   "longitudinal data",
+   "longitudinal section",
+   "longitudinal research",
+   "longitudinal axis"
+  ]
+ },
+ {
+  "id": "moan",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "tiếng rên; rên rỉ; càu nhàu",
+  "coll": [
+   "a low moan",
+   "moan in pain",
+   "moan about the weather",
+   "let out a moan",
+   "stop moaning"
+  ]
+ },
+ {
+  "id": "murderous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giết người, hung tàn; ác liệt",
+  "coll": [
+   "murderous rage",
+   "murderous attack",
+   "murderous regime",
+   "murderous intent",
+   "murderous look"
+  ]
+ },
+ {
+  "id": "bipartisan",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lưỡng đảng; được cả hai đảng ủng hộ",
+  "coll": [
+   "bipartisan support",
+   "bipartisan agreement",
+   "bipartisan bill",
+   "bipartisan effort",
+   "bipartisan committee"
+  ]
+ },
+ {
+  "id": "brokerage",
+  "pos": [
+   "n"
+  ],
+  "vi": "công ty môi giới; phí môi giới",
+  "coll": [
+   "brokerage firm",
+   "online brokerage",
+   "brokerage account",
+   "brokerage fees",
+   "brokerage services"
+  ]
+ },
+ {
+  "id": "roadway",
+  "pos": [
+   "n"
+  ],
+  "vi": "lòng đường; mặt đường xe chạy",
+  "coll": [
+   "on the roadway",
+   "roadway surface",
+   "block the roadway",
+   "roadway maintenance",
+   "narrow roadway"
+  ]
+ },
+ {
+  "id": "porous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "xốp, thấm nước; đầy kẽ hở",
+  "coll": [
+   "porous rock",
+   "porous material",
+   "porous border",
+   "highly porous",
+   "porous surface"
+  ]
+ },
+ {
+  "id": "nonstop",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "liên tục không nghỉ; bay thẳng",
+  "coll": [
+   "nonstop flight",
+   "talk nonstop",
+   "work nonstop",
+   "nonstop service",
+   "nonstop action"
+  ]
+ },
+ {
+  "id": "enlist",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhập ngũ; tranh thủ sự giúp đỡ",
+  "coll": [
+   "enlist in the army",
+   "enlist support",
+   "enlist the help of",
+   "enlist volunteers",
+   "enlist as a soldier"
+  ]
+ },
+ {
+  "id": "launcher",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệ phóng; trình khởi chạy",
+  "coll": [
+   "rocket launcher",
+   "grenade launcher",
+   "missile launcher",
+   "app launcher",
+   "satellite launcher"
+  ]
+ },
+ {
+  "id": "legality",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính hợp pháp",
+  "coll": [
+   "question the legality",
+   "the legality of the war",
+   "challenge the legality",
+   "doubts about legality",
+   "legality of the decision"
+  ]
+ },
+ {
+  "id": "div",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thẻ div (HTML); phép chia lấy phần nguyên",
+  "coll": [
+   "a div element",
+   "wrap it in a div",
+   "nested divs",
+   "div tag",
+   "close the div"
+  ]
+ },
+ {
+  "id": "contour",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đường viền, đường nét; đường đồng mức",
+  "coll": [
+   "contour line",
+   "contour map",
+   "the contours of the body",
+   "follow the contours",
+   "contour of the land"
+  ]
+ },
+ {
+  "id": "identifiable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nhận dạng được; xác định được",
+  "coll": [
+   "easily identifiable",
+   "personally identifiable information",
+   "clearly identifiable",
+   "identifiable features",
+   "readily identifiable"
+  ]
+ },
+ {
+  "id": "interracial",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giữa các chủng tộc; liên chủng tộc",
+  "coll": [
+   "interracial marriage",
+   "interracial couple",
+   "interracial relationships",
+   "interracial adoption",
+   "interracial dating"
+  ]
+ },
+ {
+  "id": "undisclosed",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không tiết lộ; giấu kín",
+  "coll": [
+   "undisclosed sum",
+   "undisclosed amount",
+   "undisclosed location",
+   "for undisclosed reasons",
+   "undisclosed fee"
+  ]
+ },
+ {
+  "id": "racially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt chủng tộc",
+  "coll": [
+   "racially motivated",
+   "racially diverse",
+   "racially segregated",
+   "racially charged",
+   "racially abusive"
+  ]
+ },
+ {
+  "id": "sizable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khá lớn, đáng kể",
+  "coll": [
+   "a sizable amount",
+   "sizable chunk",
+   "sizable majority",
+   "sizable increase",
+   "sizable audience"
+  ]
+ },
+ {
+  "id": "populist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "dân túy; chính trị gia dân túy",
+  "coll": [
+   "populist leader",
+   "populist rhetoric",
+   "populist party",
+   "populist appeal",
+   "right-wing populist"
+  ]
+ },
+ {
+  "id": "catholicism",
+  "pos": [
+   "n"
+  ],
+  "vi": "đạo Công giáo; tính bao dung rộng mở",
+  "coll": [
+   "convert to Catholicism",
+   "Roman Catholicism",
+   "practise Catholicism",
+   "the rise of Catholicism",
+   "embrace Catholicism"
+  ]
+ },
+ {
+  "id": "crippling",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "gây tê liệt, tàn phá nặng nề",
+  "coll": [
+   "crippling debt",
+   "crippling pain",
+   "crippling sanctions",
+   "crippling blow",
+   "crippling costs"
+  ]
+ },
+ {
+  "id": "metadata",
+  "pos": [
+   "n"
+  ],
+  "vi": "siêu dữ liệu; dữ liệu mô tả",
+  "coll": [
+   "file metadata",
+   "metadata tags",
+   "collect metadata",
+   "metadata standards",
+   "strip the metadata"
+  ]
+ },
+ {
+  "id": "thirteenth",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thứ mười ba; một phần mười ba",
+  "coll": [
+   "the thirteenth century",
+   "on the thirteenth",
+   "thirteenth birthday",
+   "thirteenth place",
+   "Friday the thirteenth"
+  ]
+ },
+ {
+  "id": "archaic",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "cổ xưa, lỗi thời; cổ (từ ngữ)",
+  "coll": [
+   "archaic language",
+   "archaic laws",
+   "an archaic system",
+   "archaic word",
+   "seem archaic"
+  ]
+ },
+ {
+  "id": "overrun",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tràn ngập, chiếm lĩnh; vượt quá (thời gian, ngân sách)",
+  "coll": [
+   "overrun by tourists",
+   "overrun with weeds",
+   "overrun the budget",
+   "the meeting overran",
+   "cost overrun"
+  ]
+ },
+ {
+  "id": "cookbook",
+  "pos": [
+   "n"
+  ],
+  "vi": "sách dạy nấu ăn",
+  "coll": [
+   "a vegetarian cookbook",
+   "write a cookbook",
+   "cookbook recipe",
+   "family cookbook",
+   "bestselling cookbook"
+  ]
+ },
+ {
+  "id": "hippie",
+  "pos": [
+   "adj"
+  ],
+  "vi": "kiểu hippie; sống phóng khoáng lập dị",
+  "coll": [
+   "hippie culture",
+   "hippie commune",
+   "hippie style",
+   "hippie movement",
+   "old hippie van"
+  ]
+ },
+ {
+  "id": "baffled",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bối rối khó hiểu; ngơ ngác",
+  "coll": [
+   "completely baffled",
+   "baffled by the question",
+   "left baffled",
+   "baffled expression",
+   "scientists are baffled"
+  ]
+ },
+ {
+  "id": "lattice",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mắt lưới, giàn ô vuông; mạng tinh thể",
+  "coll": [
+   "lattice structure",
+   "crystal lattice",
+   "lattice fence",
+   "lattice pattern",
+   "lattice window"
+  ]
+ },
+ {
+  "id": "analogous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tương tự; giống về chức năng",
+  "coll": [
+   "analogous to",
+   "analogous situation",
+   "broadly analogous",
+   "analogous case",
+   "analogous structures"
+  ]
+ },
+ {
+  "id": "anarchist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người theo chủ nghĩa vô chính phủ",
+  "coll": [
+   "anarchist movement",
+   "anarchist group",
+   "self-proclaimed anarchist",
+   "anarchist ideas",
+   "anarchist collective"
+  ]
+ },
+ {
+  "id": "dysfunctional",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rối loạn chức năng; trục trặc, bất ổn",
+  "coll": [
+   "dysfunctional family",
+   "dysfunctional relationship",
+   "dysfunctional system",
+   "deeply dysfunctional",
+   "dysfunctional government"
+  ]
+ },
+ {
+  "id": "porno",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phim đen, phim khiêu dâm; thuộc phim đen",
+  "coll": [
+   "porno movie",
+   "watch porno",
+   "porno magazine",
+   "porno star",
+   "soft porno"
+  ]
+ },
+ {
+  "id": "fleece",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "áo lông cừu, vải nỉ lông; bộ lông cừu; chặt chém",
+  "coll": [
+   "fleece jacket",
+   "a sheep's fleece",
+   "fleece lining",
+   "fleece the customers",
+   "polar fleece"
+  ]
+ },
+ {
+  "id": "incest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "loạn luân",
+  "coll": [
+   "commit incest",
+   "incest taboo",
+   "accused of incest",
+   "victim of incest",
+   "incest laws"
+  ]
+ },
+ {
+  "id": "fodder",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cỏ khô cho gia súc; thứ để đem ra khai thác",
+  "coll": [
+   "cannon fodder",
+   "animal fodder",
+   "fodder for the tabloids",
+   "fodder crops",
+   "provide fodder for"
+  ]
+ },
+ {
+  "id": "realty",
+  "pos": [
+   "n"
+  ],
+  "vi": "bất động sản",
+  "coll": [
+   "realty company",
+   "realty market",
+   "commercial realty",
+   "realty agent",
+   "realty investment"
+  ]
+ },
+ {
+  "id": "incarceration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giam giữ; việc bỏ tù",
+  "coll": [
+   "mass incarceration",
+   "years of incarceration",
+   "rate of incarceration",
+   "wrongful incarceration",
+   "incarceration rates"
+  ]
+ },
+ {
+  "id": "weaponry",
+  "pos": [
+   "n"
+  ],
+  "vi": "vũ khí trang bị; khí giới",
+  "coll": [
+   "modern weaponry",
+   "nuclear weaponry",
+   "advanced weaponry",
+   "heavy weaponry",
+   "supply weaponry"
+  ]
+ },
+ {
+  "id": "wreath",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vòng hoa; vòng nguyệt quế",
+  "coll": [
+   "lay a wreath",
+   "Christmas wreath",
+   "funeral wreath",
+   "laurel wreath",
+   "wreath of flowers"
+  ]
+ },
+ {
+  "id": "feudal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phong kiến",
+  "coll": [
+   "feudal system",
+   "feudal lord",
+   "feudal society",
+   "feudal era",
+   "feudal obligations"
+  ]
+ },
+ {
+  "id": "plentiful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dồi dào; nhiều vô kể",
+  "coll": [
+   "plentiful supply",
+   "plentiful harvest",
+   "food is plentiful",
+   "plentiful resources",
+   "plentiful rainfall"
+  ]
+ },
+ {
+  "id": "sensual",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gợi cảm, khêu gợi; thuộc giác quan",
+  "coll": [
+   "sensual pleasure",
+   "sensual voice",
+   "sensual experience",
+   "sensual dance",
+   "deeply sensual"
+  ]
+ },
+ {
+  "id": "equitable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "công bằng, hợp lẽ",
+  "coll": [
+   "equitable distribution",
+   "equitable treatment",
+   "equitable solution",
+   "fair and equitable",
+   "equitable access"
+  ]
+ },
+ {
+  "id": "intrigue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "âm mưu, mưu đồ; làm tò mò thích thú",
+  "coll": [
+   "political intrigue",
+   "court intrigue",
+   "intrigue and scandal",
+   "intrigued by the idea",
+   "an air of intrigue"
+  ]
+ },
+ {
+  "id": "pasture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồng cỏ chăn thả; chăn thả",
+  "coll": [
+   "graze in the pasture",
+   "green pastures",
+   "pasture land",
+   "put out to pasture",
+   "open pasture"
+  ]
+ },
+ {
+  "id": "afterlife",
+  "pos": [
+   "n"
+  ],
+  "vi": "kiếp sau, thế giới bên kia",
+  "coll": [
+   "believe in an afterlife",
+   "life after death",
+   "the afterlife awaits",
+   "concept of the afterlife",
+   "journey to the afterlife"
+  ]
+ }
+]

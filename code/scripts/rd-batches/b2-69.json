@@ -1,0 +1,151 @@
+[
+ {
+  "id": "wiki-2024-mobile-guardian-security-breach",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/2024_Mobile_Guardian_security_breach",
+  "title_en": "2024 Mobile Guardian security breach",
+  "sentences": [
+   "The 2024 Mobile Guardian security breach was an incident that affected Mobile Guardian.",
+   "Mobile Guardian is a platform that manages mobile devices.",
+   "It happened in August 2024.",
+   "It caused many people from many countries to lose data.",
+   "It mostly affected Singapore.",
+   "It caused problems to schools in many countries.",
+   "The Singapore Ministry of Education ended their contract with Mobile Guardian."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-side-effect-computer-science",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Side_effect_(computer_science)",
+  "title_en": "Side effect (computer science)",
+  "sentences": [
+   "A part of a program with a side effect performs a noticeable action other than giving back a value.",
+   "Examples include showing a picture on a computer screen, or checking what year it is.",
+   "Code with side effects can be harder to understand without any context, and the order of instructions is more important for code with side effects.",
+   "In functional programming, programmers try to avoid side effects when they can, so it is easier to prove that a program will always do what it is supposed to.",
+   "In some functional languages, like Standard ML, Scheme, or Scala, side effects are not restricted, but programmers still try to use them less.",
+   "In Haskell, actions with side effects must be stated explicitly—this makes it easier to tell what code does or does not have them."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-source-code",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Source_code",
+  "title_en": "Source code",
+  "sentences": [
+   "In computer programming, source code is (generally speaking) a text file version of a computer program or software that contains instructions that the computer follows to do something.",
+   "Source code is written in a programming language which a human can read and change.",
+   "A large program may contain many different source code files that all work together.",
+   "Source code is in many cases compiled before running it.",
+   "That means translating the code into assembly language or machine language which is much faster and easier for the computer to read, but hard for a human to read.",
+   "Another very common way is to interpret the code, without needing a compilation step, while that's generally slower.",
+   "A computer program may be open source, which means the source code is shared with anyone who wants to look at it and change it.",
+   "Many programs are however closed source, which means only the executable code is distributed and people are not allowed to look at and change the code."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-web-hosting-service",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Web_hosting_service",
+  "title_en": "Web hosting service",
+  "sentences": [
+   "A web hosting service is a type of Internet hosting service.",
+   "It allows people and companies to make their website available on the World Wide Web.",
+   "Web hosts are companies which provide space on a server which is owned or leased for use by clients.",
+   "These clients store their Web site on the server.",
+   "The server feeds the web pages to the Internet.",
+   "Fandom, for example, is a hosting service.",
+   "Many web hosting companies also provide other services including file hosting service."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-cursor",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Cursor",
+  "title_en": "Cursor",
+  "sentences": [
+   "A cursor is a shape on a computer screen that shows where actions made with the keyboard or mouse will make a change.",
+   "Before modern computers, a cursor marked a point on a slide rule.",
+   "There are 2 types of cursor that most people will use.",
+   "The Mouse cursor: The pointer on the screen which the person using the computer can move using the computer mouse.",
+   "This cursor allows the person to select or \"click\" items with the mouse.",
+   "On most computers, mouse cursors are the shape of an arrow.",
+   "The Text Cursor: Usually seen as a vertical line or rectangle that flashes on and off.",
+   "The Cursor tells the person using the computer where they are typing things on the screen.",
+   "They can type letters, numbers, and symbols where the cursor is.",
+   "The computer automatically moves the cursor one space to the right when a letter, number, or symbol is typed.",
+   "The cursor can be moved to the start of the next line by pressing the Enter Key when in cases like typing on a text document.",
+   "There are also cases like typing a message where someone would need to hold Shift + Enter to move to another line if Enter would normally send a message.",
+   "Most keyboards also have 4 cursor keys to move the text cursor up, down, left or right."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-encyclopedia-of-life",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Encyclopedia_of_Life",
+  "title_en": "Encyclopedia of Life",
+  "sentences": [
+   "The Encyclopedia of Life (EoL) is an online source of information.",
+   "The Encyclopedia of Life lists plants, animals and all other kinds of living things.",
+   "It gives this information in many languages.",
+   "It has more than 2 million species in it, making it one of the largest sources of species information in the world.",
+   "Many different groups work together to make and run the encyclopedia.",
+   "The Smithsonian Institution's National Museum of Natural History is the leader."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-assembly-language",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Assembly_language",
+  "title_en": "Assembly language",
+  "sentences": [
+   "An assembly language is a programming language that can be used to directly tell the computer what to do.",
+   "An assembly language is almost exactly like the machine code that a computer can understand, except that it uses words in place of numbers.",
+   "A computer cannot really understand an assembly program directly.",
+   "However, it can easily change the program into machine code by replacing the words of the program with the numbers that they stand for.",
+   "A program that does that is called an assembler.",
+   "Programs written in assembly language are usually made of instructions, which are small tasks that the computer performs when it is running the program.",
+   "They are called instructions because the programmer uses them to instruct the computer what to do.",
+   "The part of the computer that follows the instructions is the processor.",
+   "The assembly language of a computer is a low-level language, which means that it can only be used to do the simple tasks that a computer can understand directly.",
+   "In order to perform more complex tasks, one must tell the computer each of the simple tasks that are part of the complex task.",
+   "For example, a computer does not understand how to print a sentence on its screen.",
+   "Instead, a program written in assembly must tell it how to do all of the small steps that are involved in printing the sentence.",
+   "Such an assembly program would be composed of many, many instructions, that together do something that seems very simple and basic to a human.",
+   "This makes it hard for humans to read an assembly program.",
+   "In contrast, a high-level programming language may have a single instruction such as PRINT \"Hello, world!\" that will tell the computer to perform all of the small tasks for you."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-plug-and-play",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Plug_and_play",
+  "title_en": "Plug and play",
+  "sentences": [
+   "Plug and play is the name for a number of technologies used in computing.",
+   "Technologies that support plug and play allow to connect new devices to a computer.",
+   "After a short while, these devices can simply be used.",
+   "When they are no longer needed, they can be disconnected again.",
+   "Plug and play does not require the user to load a specific device driver to access the device.",
+   "Plug and play is used to refer to both the configuration of devices at boot time, as well as to system that support adding a device later on.",
+   "Examples for systems that support plug and play are USB and Firewire."
+  ],
+  "topic": "it"
+ }
+]

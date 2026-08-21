@@ -1,0 +1,803 @@
+[
+ {
+  "id": "reorganize",
+  "pos": [
+   "v"
+  ],
+  "vi": "tổ chức lại; sắp xếp lại",
+  "coll": [
+   "reorganize the company",
+   "reorganize the department",
+   "completely reorganize",
+   "reorganize the files"
+  ]
+ },
+ {
+  "id": "bellow",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "gầm rống; quát to; tiếng rống",
+  "coll": [
+   "bellow with rage",
+   "bellow orders",
+   "let out a bellow",
+   "bellow at someone"
+  ]
+ },
+ {
+  "id": "familiarize",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm quen; giúp quen với",
+  "coll": [
+   "familiarize yourself with",
+   "familiarize students with the rules",
+   "take time to familiarize",
+   "familiarize staff with the system"
+  ]
+ },
+ {
+  "id": "newsworthy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng đưa tin",
+  "coll": [
+   "newsworthy event",
+   "newsworthy story",
+   "considered newsworthy",
+   "highly newsworthy"
+  ]
+ },
+ {
+  "id": "benevolence",
+  "pos": [
+   "n"
+  ],
+  "vi": "lòng nhân từ; sự hảo tâm",
+  "coll": [
+   "an act of benevolence",
+   "human benevolence",
+   "show benevolence",
+   "kindness and benevolence"
+  ]
+ },
+ {
+  "id": "scythe",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lưỡi hái; cắt bằng lưỡi hái",
+  "coll": [
+   "swing a scythe",
+   "sharpen the scythe",
+   "cut with a scythe",
+   "scythe through the grass"
+  ]
+ },
+ {
+  "id": "tenderly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách âu yếm; dịu dàng",
+  "coll": [
+   "kiss tenderly",
+   "hold her tenderly",
+   "smile tenderly",
+   "speak tenderly"
+  ]
+ },
+ {
+  "id": "unease",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự bất an; nỗi lo lắng",
+  "coll": [
+   "a sense of unease",
+   "growing unease",
+   "a feeling of unease",
+   "public unease"
+  ]
+ },
+ {
+  "id": "magnify",
+  "pos": [
+   "v"
+  ],
+  "vi": "phóng to; làm tăng thêm",
+  "coll": [
+   "magnify an image",
+   "magnify the problem",
+   "magnify the risk",
+   "magnify ten times"
+  ]
+ },
+ {
+  "id": "mutter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lẩm bẩm; càu nhàu",
+  "coll": [
+   "mutter under your breath",
+   "mutter something",
+   "mutter a curse",
+   "mutter angrily"
+  ]
+ },
+ {
+  "id": "nostril",
+  "pos": [
+   "n"
+  ],
+  "vi": "lỗ mũi",
+  "coll": [
+   "flared nostrils",
+   "left nostril",
+   "block a nostril",
+   "breathe through the nostrils"
+  ]
+ },
+ {
+  "id": "overcoat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "áo khoác ngoài; áo măng tô",
+  "coll": [
+   "wear an overcoat",
+   "a heavy overcoat",
+   "put on your overcoat",
+   "woollen overcoat"
+  ]
+ },
+ {
+  "id": "splatter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bắn tung tóe; vết bắn",
+  "coll": [
+   "splatter paint",
+   "blood splatter",
+   "splatter the walls",
+   "splatter everywhere"
+  ]
+ },
+ {
+  "id": "apostrophe",
+  "pos": [
+   "n"
+  ],
+  "vi": "dấu lược ('); dấu móc trên",
+  "coll": [
+   "use an apostrophe",
+   "a missing apostrophe",
+   "put an apostrophe",
+   "apostrophe of possession"
+  ]
+ },
+ {
+  "id": "permanence",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính lâu dài; sự vĩnh cửu",
+  "coll": [
+   "a sense of permanence",
+   "object permanence",
+   "the permanence of the change",
+   "lack of permanence"
+  ]
+ },
+ {
+  "id": "snore",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngáy; tiếng ngáy",
+  "coll": [
+   "snore loudly",
+   "snore all night",
+   "a loud snore",
+   "he snores in his sleep"
+  ]
+ },
+ {
+  "id": "transitive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ngoại động (từ); bắc cầu (toán)",
+  "coll": [
+   "transitive verb",
+   "transitive relation",
+   "transitive use",
+   "transitive and intransitive"
+  ]
+ },
+ {
+  "id": "carpool",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đi chung xe; nhóm đi chung xe",
+  "coll": [
+   "carpool to work",
+   "join a carpool",
+   "carpool lane",
+   "organize a carpool"
+  ]
+ },
+ {
+  "id": "bombard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dội bom, oanh tạc; dồn dập (câu hỏi)",
+  "coll": [
+   "bombard with questions",
+   "bombard the city",
+   "bombard with information",
+   "heavily bombarded"
+  ]
+ },
+ {
+  "id": "cybercrime",
+  "pos": [
+   "n"
+  ],
+  "vi": "tội phạm mạng",
+  "coll": [
+   "fight cybercrime",
+   "cybercrime unit",
+   "victim of cybercrime",
+   "a rise in cybercrime"
+  ]
+ },
+ {
+  "id": "impatiently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách sốt ruột; nóng lòng",
+  "coll": [
+   "wait impatiently",
+   "impatiently await",
+   "tap impatiently",
+   "sigh impatiently"
+  ]
+ },
+ {
+  "id": "penalize",
+  "pos": [
+   "v"
+  ],
+  "vi": "phạt; xử phạt",
+  "coll": [
+   "penalize a player",
+   "heavily penalized",
+   "penalize late payment",
+   "penalize the poor"
+  ]
+ },
+ {
+  "id": "unconcerned",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thờ ơ; không bận tâm",
+  "coll": [
+   "seem unconcerned",
+   "unconcerned about the risk",
+   "appear unconcerned",
+   "largely unconcerned"
+  ]
+ },
+ {
+  "id": "countrywide",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "toàn quốc; khắp cả nước",
+  "coll": [
+   "countrywide campaign",
+   "countrywide survey",
+   "countrywide network",
+   "sold countrywide"
+  ]
+ },
+ {
+  "id": "fingernail",
+  "pos": [
+   "n"
+  ],
+  "vi": "móng tay",
+  "coll": [
+   "bite your fingernails",
+   "cut your fingernails",
+   "long fingernails",
+   "dirty fingernails"
+  ]
+ },
+ {
+  "id": "mournful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "buồn thảm; ai oán",
+  "coll": [
+   "a mournful expression",
+   "a mournful song",
+   "mournful eyes",
+   "a mournful cry"
+  ]
+ },
+ {
+  "id": "punctuality",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đúng giờ",
+  "coll": [
+   "value punctuality",
+   "poor punctuality",
+   "punctuality and reliability",
+   "train punctuality"
+  ]
+ },
+ {
+  "id": "scribble",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "viết nguệch ngoạc; nét nguệch ngoạc",
+  "coll": [
+   "scribble a note",
+   "scribble down an address",
+   "illegible scribble",
+   "scribble in the margin"
+  ]
+ },
+ {
+  "id": "bulimia",
+  "pos": [
+   "n"
+  ],
+  "vi": "chứng cuồng ăn ói; rối loạn ăn uống",
+  "coll": [
+   "suffer from bulimia",
+   "bulimia nervosa",
+   "treat bulimia",
+   "anorexia and bulimia"
+  ]
+ },
+ {
+  "id": "conferencing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "họp trực tuyến; việc hội họp",
+  "coll": [
+   "video conferencing",
+   "web conferencing",
+   "audio conferencing",
+   "conferencing facilities"
+  ]
+ },
+ {
+  "id": "iceman",
+  "pos": [
+   "n"
+  ],
+  "vi": "người giao đá lạnh (cũ); người lạnh lùng",
+  "coll": [
+   "the iceman cometh",
+   "the local iceman",
+   "the iceman's cart",
+   "an ancient iceman"
+  ]
+ },
+ {
+  "id": "outdo",
+  "pos": [
+   "v"
+  ],
+  "vi": "vượt hơn; làm hơn hẳn",
+  "coll": [
+   "outdo the competition",
+   "not to be outdone",
+   "outdo each other",
+   "outdo yourself"
+  ]
+ },
+ {
+  "id": "outlive",
+  "pos": [
+   "v"
+  ],
+  "vi": "sống lâu hơn; tồn tại lâu hơn",
+  "coll": [
+   "outlive her husband",
+   "outlive its usefulness",
+   "outlive the war",
+   "outlive expectations"
+  ]
+ },
+ {
+  "id": "tightrope",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dây đi thăng bằng; thế đi trên dây",
+  "coll": [
+   "walk a tightrope",
+   "tightrope walker",
+   "on a tightrope",
+   "a political tightrope"
+  ]
+ },
+ {
+  "id": "unselfish",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không ích kỷ; vị tha",
+  "coll": [
+   "an unselfish act",
+   "unselfish love",
+   "an unselfish player",
+   "generous and unselfish"
+  ]
+ },
+ {
+  "id": "cellist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghệ sĩ cello",
+  "coll": [
+   "a talented cellist",
+   "professional cellist",
+   "principal cellist",
+   "solo cellist"
+  ]
+ },
+ {
+  "id": "entitle",
+  "pos": [
+   "v"
+  ],
+  "vi": "cho quyền hưởng; đặt tựa đề",
+  "coll": [
+   "entitle you to a refund",
+   "be entitled to benefits",
+   "entitled to vote",
+   "a book entitled"
+  ]
+ },
+ {
+  "id": "overshadow",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm lu mờ; che khuất; phủ bóng lên",
+  "coll": [
+   "overshadow the achievement",
+   "be overshadowed by",
+   "overshadow the news",
+   "overshadow his career"
+  ]
+ },
+ {
+  "id": "homeward",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "về nhà; hướng về nhà",
+  "coll": [
+   "homeward journey",
+   "homeward bound",
+   "head homeward",
+   "the homeward leg"
+  ]
+ },
+ {
+  "id": "sneer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cười khinh bỉ; nhếch mép chế nhạo; cái nhếch mép khinh bỉ",
+  "coll": [
+   "sneer at someone",
+   "a contemptuous sneer",
+   "with a sneer",
+   "sneer in disgust"
+  ]
+ },
+ {
+  "id": "stopover",
+  "pos": [
+   "n"
+  ],
+  "vi": "chặng dừng chân; điểm quá cảnh",
+  "coll": [
+   "a stopover in Dubai",
+   "an overnight stopover",
+   "make a stopover",
+   "a short stopover"
+  ]
+ },
+ {
+  "id": "ageless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trẻ mãi không già; vượt thời gian; trường tồn",
+  "coll": [
+   "ageless beauty",
+   "an ageless classic",
+   "ageless appeal",
+   "ageless wisdom"
+  ]
+ },
+ {
+  "id": "recollect",
+  "pos": [
+   "v"
+  ],
+  "vi": "nhớ lại; hồi tưởng; trấn tĩnh lại",
+  "coll": [
+   "recollect the details",
+   "as far as I recollect",
+   "try to recollect",
+   "recollect a conversation"
+  ]
+ },
+ {
+  "id": "ruinous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tàn khốc; tốn kém khủng khiếp; đổ nát",
+  "coll": [
+   "ruinous costs",
+   "a ruinous war",
+   "ruinous consequences",
+   "financially ruinous"
+  ]
+ },
+ {
+  "id": "skyward",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "lên trời; hướng lên bầu trời",
+  "coll": [
+   "look skyward",
+   "point skyward",
+   "rise skyward",
+   "gaze skyward"
+  ]
+ },
+ {
+  "id": "startle",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm giật mình; khiến hoảng hốt; sự giật mình",
+  "coll": [
+   "startle someone",
+   "be startled by",
+   "a startled look",
+   "startle the horses"
+  ]
+ },
+ {
+  "id": "subplot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tuyến truyện phụ; cốt truyện phụ; lô đất nhỏ",
+  "coll": [
+   "a romantic subplot",
+   "develop a subplot",
+   "a minor subplot",
+   "the main subplot"
+  ]
+ },
+ {
+  "id": "tablecloth",
+  "pos": [
+   "n"
+  ],
+  "vi": "khăn trải bàn",
+  "coll": [
+   "a white tablecloth",
+   "spread a tablecloth",
+   "a linen tablecloth",
+   "lay the tablecloth"
+  ]
+ },
+ {
+  "id": "bothersome",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phiền phức; gây khó chịu; lằng nhằng",
+  "coll": [
+   "a bothersome cough",
+   "bothersome noise",
+   "find it bothersome",
+   "bothersome details"
+  ]
+ },
+ {
+  "id": "oversize",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "quá khổ; cỡ lớn quá mức",
+  "coll": [
+   "an oversize load",
+   "oversize baggage",
+   "an oversize sweater",
+   "oversize furniture"
+  ]
+ },
+ {
+  "id": "perspiration",
+  "pos": [
+   "n"
+  ],
+  "vi": "mồ hôi; sự đổ mồ hôi; sự lao động cực nhọc",
+  "coll": [
+   "beads of perspiration",
+   "break out in perspiration",
+   "wipe away perspiration",
+   "inspiration and perspiration"
+  ]
+ },
+ {
+  "id": "ecologist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà sinh thái học; nhà bảo vệ môi trường",
+  "coll": [
+   "a marine ecologist",
+   "a leading ecologist",
+   "ecologists warn",
+   "a plant ecologist"
+  ]
+ },
+ {
+  "id": "gravitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "lực hấp dẫn; sự hút về phía",
+  "coll": [
+   "the law of gravitation",
+   "universal gravitation",
+   "the force of gravitation",
+   "gravitation towards the centre"
+  ]
+ },
+ {
+  "id": "jealously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách ghen tị; khư khư giữ gìn",
+  "coll": [
+   "jealously guard",
+   "a jealously guarded secret",
+   "jealously protect",
+   "watch jealously"
+  ]
+ },
+ {
+  "id": "outgrow",
+  "pos": [
+   "v"
+  ],
+  "vi": "lớn vượt quá; không còn hợp nữa; phát triển nhanh hơn",
+  "coll": [
+   "outgrow his clothes",
+   "outgrow a habit",
+   "outgrow the premises",
+   "children outgrow their toys"
+  ]
+ },
+ {
+  "id": "pessimist",
+  "pos": [
+   "n"
+  ],
+  "vi": "người bi quan",
+  "coll": [
+   "a born pessimist",
+   "a confirmed pessimist",
+   "an eternal pessimist",
+   "call me a pessimist"
+  ]
+ },
+ {
+  "id": "timeliness",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính kịp thời; sự đúng lúc",
+  "coll": [
+   "the timeliness of the report",
+   "accuracy and timeliness",
+   "timeliness of delivery",
+   "ensure timeliness"
+  ]
+ },
+ {
+  "id": "bathhouse",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà tắm công cộng; phòng thay đồ bể bơi",
+  "coll": [
+   "a public bathhouse",
+   "a traditional bathhouse",
+   "a Roman bathhouse",
+   "visit the bathhouse"
+  ]
+ },
+ {
+  "id": "engulf",
+  "pos": [
+   "v"
+  ],
+  "vi": "nhấn chìm; bao trùm; nuốt chửng",
+  "coll": [
+   "flames engulfed the building",
+   "be engulfed in flames",
+   "engulfed in darkness",
+   "engulfed by panic"
+  ]
+ },
+ {
+  "id": "essayist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà viết tiểu luận",
+  "coll": [
+   "a noted essayist",
+   "poet and essayist",
+   "a prolific essayist",
+   "a British essayist"
+  ]
+ }
+]

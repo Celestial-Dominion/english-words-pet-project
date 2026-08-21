@@ -1,0 +1,811 @@
+[
+ {
+  "id": "deem",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cho là, coi là; đánh giá",
+  "coll": [
+   "deem it necessary",
+   "deem appropriate",
+   "be deemed unfit",
+   "deem the plan a success"
+  ]
+ },
+ {
+  "id": "folly",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự điên rồ; hành động dại dột",
+  "coll": [
+   "sheer folly",
+   "the folly of war",
+   "an act of folly",
+   "youthful folly"
+  ]
+ },
+ {
+  "id": "indispensable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không thể thiếu; thiết yếu, tối cần",
+  "coll": [
+   "absolutely indispensable",
+   "an indispensable tool",
+   "indispensable to the team",
+   "become indispensable"
+  ]
+ },
+ {
+  "id": "originality",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính độc đáo; sự sáng tạo mới lạ",
+  "coll": [
+   "a lack of originality",
+   "show originality",
+   "great originality",
+   "the originality of the work"
+  ]
+ },
+ {
+  "id": "pebble",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "viên sỏi; hòn cuội",
+  "coll": [
+   "a smooth pebble",
+   "a pebble beach",
+   "throw pebbles",
+   "pebbles on the shore"
+  ]
+ },
+ {
+  "id": "perseverance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kiên trì; tính bền bỉ",
+  "coll": [
+   "sheer perseverance",
+   "show perseverance",
+   "perseverance pays off",
+   "patience and perseverance"
+  ]
+ },
+ {
+  "id": "pharmacist",
+  "pos": [
+   "n"
+  ],
+  "vi": "dược sĩ",
+  "coll": [
+   "ask your pharmacist",
+   "a qualified pharmacist",
+   "a hospital pharmacist",
+   "consult a pharmacist"
+  ]
+ },
+ {
+  "id": "picky",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kén chọn; khó tính",
+  "coll": [
+   "a picky eater",
+   "be picky about",
+   "too picky",
+   "picky customers"
+  ]
+ },
+ {
+  "id": "relativity",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuyết tương đối; tính tương đối",
+  "coll": [
+   "the theory of relativity",
+   "general relativity",
+   "special relativity",
+   "cultural relativity"
+  ]
+ },
+ {
+  "id": "sincerity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chân thành; lòng thành thật",
+  "coll": [
+   "doubt his sincerity",
+   "with great sincerity",
+   "a lack of sincerity",
+   "question someone's sincerity"
+  ]
+ },
+ {
+  "id": "worldly",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "thuộc thế tục, trần tục; từng trải, lịch lãm",
+  "coll": [
+   "worldly possessions",
+   "worldly goods",
+   "worldly wisdom",
+   "worldly concerns"
+  ]
+ },
+ {
+  "id": "blooming",
+  "pos": [
+   "adj",
+   "v",
+   "adv",
+   "n"
+  ],
+  "vi": "đang nở hoa; nở rộ, rực rỡ; chết tiệt (khẩu ngữ Anh)",
+  "coll": [
+   "the roses are blooming",
+   "a blooming garden",
+   "late blooming",
+   "blooming with health"
+  ]
+ },
+ {
+  "id": "excursion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuyến tham quan; chuyến đi chơi ngắn",
+  "coll": [
+   "a day excursion",
+   "go on an excursion",
+   "a boat excursion",
+   "an excursion to the coast"
+  ]
+ },
+ {
+  "id": "grieve",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đau buồn, thương tiếc; làm đau lòng",
+  "coll": [
+   "grieve for someone",
+   "grieve over the loss",
+   "time to grieve",
+   "still grieving"
+  ]
+ },
+ {
+  "id": "inhabit",
+  "pos": [
+   "v"
+  ],
+  "vi": "sinh sống ở; cư trú tại",
+  "coll": [
+   "inhabit the region",
+   "inhabit an island",
+   "species that inhabit",
+   "inhabited by tribes"
+  ]
+ },
+ {
+  "id": "invoke",
+  "pos": [
+   "v"
+  ],
+  "vi": "viện dẫn; kêu gọi, cầu khẩn; gọi (hàm)",
+  "coll": [
+   "invoke a law",
+   "invoke the right to",
+   "invoke sympathy",
+   "invoke a function"
+  ]
+ },
+ {
+  "id": "passionately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "say mê; nồng nhiệt, mãnh liệt",
+  "coll": [
+   "passionately believe",
+   "argue passionately",
+   "passionately in love",
+   "care passionately about"
+  ]
+ },
+ {
+  "id": "persuasion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thuyết phục; niềm tin, quan điểm",
+  "coll": [
+   "the art of persuasion",
+   "gentle persuasion",
+   "powers of persuasion",
+   "of a different persuasion"
+  ]
+ },
+ {
+  "id": "scarcely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hầu như không; vừa mới, chỉ vừa",
+  "coll": [
+   "scarcely believe",
+   "scarcely any",
+   "scarcely enough",
+   "scarcely had he left"
+  ]
+ },
+ {
+  "id": "temperate",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "ôn hòa; điều độ, chừng mực",
+  "coll": [
+   "a temperate climate",
+   "temperate regions",
+   "temperate zones",
+   "temperate in his habits"
+  ]
+ },
+ {
+  "id": "untreated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chưa được điều trị; chưa qua xử lý",
+  "coll": [
+   "untreated water",
+   "if left untreated",
+   "untreated sewage",
+   "untreated wood"
+  ]
+ },
+ {
+  "id": "blindly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "mù quáng; nhắm mắt làm liều",
+  "coll": [
+   "blindly follow",
+   "blindly obey",
+   "blindly accept",
+   "grope blindly"
+  ]
+ },
+ {
+  "id": "dissatisfaction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự không hài lòng; nỗi bất mãn",
+  "coll": [
+   "express dissatisfaction",
+   "growing dissatisfaction",
+   "widespread dissatisfaction",
+   "dissatisfaction with the service"
+  ]
+ },
+ {
+  "id": "elective",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tự chọn; môn học tự chọn; do bầu cử",
+  "coll": [
+   "an elective course",
+   "elective surgery",
+   "elective office",
+   "take an elective"
+  ]
+ },
+ {
+  "id": "ornament",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồ trang trí; vật trang sức; tô điểm",
+  "coll": [
+   "a Christmas ornament",
+   "a china ornament",
+   "purely for ornament",
+   "ornaments on the shelf"
+  ]
+ },
+ {
+  "id": "outpatient",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bệnh nhân ngoại trú; thuộc ngoại trú",
+  "coll": [
+   "an outpatient clinic",
+   "outpatient treatment",
+   "outpatient surgery",
+   "attend as an outpatient"
+  ]
+ },
+ {
+  "id": "supervise",
+  "pos": [
+   "v"
+  ],
+  "vi": "giám sát; trông coi, quản lý",
+  "coll": [
+   "supervise the work",
+   "supervise students",
+   "closely supervise",
+   "supervise a project"
+  ]
+ },
+ {
+  "id": "syllable",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "âm tiết",
+  "coll": [
+   "a stressed syllable",
+   "a two-syllable word",
+   "the first syllable",
+   "count the syllables"
+  ]
+ },
+ {
+  "id": "crease",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nếp gấp; nếp li quần; làm nhàu, gấp nếp",
+  "coll": [
+   "iron out the creases",
+   "a sharp crease",
+   "crease the paper",
+   "creases in the fabric"
+  ]
+ },
+ {
+  "id": "dissatisfied",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không hài lòng; bất mãn",
+  "coll": [
+   "deeply dissatisfied",
+   "dissatisfied customers",
+   "dissatisfied with the result",
+   "grow dissatisfied"
+  ]
+ },
+ {
+  "id": "instruct",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "chỉ dẫn, hướng dẫn; ra lệnh, dặn dò",
+  "coll": [
+   "instruct someone to do",
+   "instruct students",
+   "instruct a lawyer",
+   "as instructed"
+  ]
+ },
+ {
+  "id": "linger",
+  "pos": [
+   "v"
+  ],
+  "vi": "nán lại, nấn ná; kéo dài dai dẳng",
+  "coll": [
+   "linger on",
+   "the smell lingers",
+   "linger over coffee",
+   "doubts linger"
+  ]
+ },
+ {
+  "id": "lousy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tồi tệ, dở tệ; chán ngắt; khó chịu trong người",
+  "coll": [
+   "a lousy job",
+   "feel lousy",
+   "lousy weather",
+   "a lousy excuse"
+  ]
+ },
+ {
+  "id": "pajamas",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ đồ ngủ; quần áo ngủ",
+  "coll": [
+   "put on your pajamas",
+   "a pair of pajamas",
+   "still in pajamas",
+   "flannel pajamas"
+  ]
+ },
+ {
+  "id": "quarrel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cãi vã; cuộc cãi nhau; bất đồng",
+  "coll": [
+   "have a quarrel",
+   "pick a quarrel",
+   "quarrel with someone",
+   "a bitter quarrel"
+  ]
+ },
+ {
+  "id": "scuba",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bình khí lặn; thiết bị lặn có bình khí",
+  "coll": [
+   "scuba diving",
+   "scuba gear",
+   "a scuba tank",
+   "go scuba diving"
+  ]
+ },
+ {
+  "id": "spreadsheet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bảng tính; phần mềm bảng tính",
+  "coll": [
+   "an Excel spreadsheet",
+   "create a spreadsheet",
+   "a spreadsheet program",
+   "update the spreadsheet"
+  ]
+ },
+ {
+  "id": "aspiration",
+  "pos": [
+   "n"
+  ],
+  "vi": "khát vọng; hoài bão, nguyện vọng",
+  "coll": [
+   "career aspirations",
+   "high aspirations",
+   "political aspirations",
+   "fulfil one's aspirations"
+  ]
+ },
+ {
+  "id": "attentive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chăm chú, chú tâm; ân cần, quan tâm",
+  "coll": [
+   "an attentive audience",
+   "attentive to detail",
+   "be attentive to needs",
+   "attentive service"
+  ]
+ },
+ {
+  "id": "beak",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mỏ chim",
+  "coll": [
+   "a sharp beak",
+   "a long curved beak",
+   "open its beak",
+   "hold in its beak"
+  ]
+ },
+ {
+  "id": "broaden",
+  "pos": [
+   "v"
+  ],
+  "vi": "mở rộng; nới rộng ra",
+  "coll": [
+   "broaden your horizons",
+   "broaden the scope",
+   "broaden your mind",
+   "broaden the appeal"
+  ]
+ },
+ {
+  "id": "exaggeration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phóng đại; lời nói quá",
+  "coll": [
+   "a slight exaggeration",
+   "gross exaggeration",
+   "without exaggeration",
+   "it's no exaggeration to say"
+  ]
+ },
+ {
+  "id": "hastily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vội vàng; hấp tấp, hối hả",
+  "coll": [
+   "hastily arranged",
+   "hastily written",
+   "leave hastily",
+   "a hastily prepared meal"
+  ]
+ },
+ {
+  "id": "incur",
+  "pos": [
+   "v"
+  ],
+  "vi": "gánh chịu; chuốc lấy, phải chịu",
+  "coll": [
+   "incur costs",
+   "incur debts",
+   "incur a penalty",
+   "incur someone's wrath"
+  ]
+ },
+ {
+  "id": "orchid",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "hoa lan; cây phong lan",
+  "coll": [
+   "a wild orchid",
+   "grow orchids",
+   "a rare orchid",
+   "an orchid in bloom"
+  ]
+ },
+ {
+  "id": "overtake",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "vượt qua, vượt lên; bất ngờ ập đến",
+  "coll": [
+   "overtake a car",
+   "overtake the leader",
+   "be overtaken by events",
+   "overtake in sales"
+  ]
+ },
+ {
+  "id": "selfless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vị tha; quên mình, không vụ lợi",
+  "coll": [
+   "a selfless act",
+   "selfless devotion",
+   "selfless dedication",
+   "completely selfless"
+  ]
+ },
+ {
+  "id": "shrug",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhún vai; cái nhún vai",
+  "coll": [
+   "shrug your shoulders",
+   "shrug off criticism",
+   "give a shrug",
+   "just shrug and smile"
+  ]
+ },
+ {
+  "id": "teaspoon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thìa cà phê; muỗng nhỏ",
+  "coll": [
+   "a teaspoon of sugar",
+   "half a teaspoon",
+   "stir with a teaspoon",
+   "one level teaspoon"
+  ]
+ },
+ {
+  "id": "bitterly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cay đắng; dữ dội, gay gắt",
+  "coll": [
+   "bitterly disappointed",
+   "bitterly cold",
+   "complain bitterly",
+   "cry bitterly"
+  ]
+ },
+ {
+  "id": "cello",
+  "pos": [
+   "n"
+  ],
+  "vi": "đàn cello; đàn viôlôngxen",
+  "coll": [
+   "play the cello",
+   "a cello concerto",
+   "a cello solo",
+   "learn the cello"
+  ]
+ },
+ {
+  "id": "complexion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nước da; sắc diện; diện mạo, bản chất",
+  "coll": [
+   "a clear complexion",
+   "a fair complexion",
+   "a pale complexion",
+   "change the complexion of the game"
+  ]
+ },
+ {
+  "id": "generously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hào phóng; rộng rãi, dồi dào",
+  "coll": [
+   "give generously",
+   "generously donated",
+   "season generously",
+   "generously proportioned"
+  ]
+ },
+ {
+  "id": "housekeeper",
+  "pos": [
+   "n"
+  ],
+  "vi": "quản gia; người giúp việc nhà",
+  "coll": [
+   "hire a housekeeper",
+   "the hotel housekeeper",
+   "a live-in housekeeper",
+   "work as a housekeeper"
+  ]
+ },
+ {
+  "id": "improbable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khó xảy ra; khó tin, ít có khả năng",
+  "coll": [
+   "highly improbable",
+   "an improbable story",
+   "seem improbable",
+   "an improbable victory"
+  ]
+ },
+ {
+  "id": "disapproval",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự không tán thành; sự phản đối",
+  "coll": [
+   "express disapproval",
+   "a look of disapproval",
+   "strong disapproval",
+   "public disapproval"
+  ]
+ },
+ {
+  "id": "electronically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "bằng điện tử; qua phương tiện điện tử",
+  "coll": [
+   "submit electronically",
+   "electronically controlled",
+   "stored electronically",
+   "pay electronically"
+  ]
+ },
+ {
+  "id": "impractical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không thực tế; không khả thi; thiếu thực tế",
+  "coll": [
+   "an impractical solution",
+   "an impractical idea",
+   "highly impractical",
+   "impractical to implement"
+  ]
+ },
+ {
+  "id": "predicament",
+  "pos": [
+   "n"
+  ],
+  "vi": "tình thế khó xử; cảnh khó khăn",
+  "coll": [
+   "in a predicament",
+   "a difficult predicament",
+   "find oneself in a predicament",
+   "get out of a predicament"
+  ]
+ },
+ {
+  "id": "puzzled",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bối rối; hoang mang; khó hiểu",
+  "coll": [
+   "look puzzled",
+   "a puzzled expression",
+   "puzzled by the question",
+   "seem puzzled"
+  ]
+ }
+]

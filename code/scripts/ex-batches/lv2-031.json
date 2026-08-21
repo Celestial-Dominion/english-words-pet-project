@@ -1,0 +1,817 @@
+[
+ {
+  "id": "recollection",
+  "pos": [
+   "n"
+  ],
+  "vi": "ký ức; sự nhớ lại; hồi tưởng",
+  "coll": [
+   "to the best of my recollection",
+   "a vivid recollection",
+   "have no recollection of",
+   "childhood recollections"
+  ]
+ },
+ {
+  "id": "rosy",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "hồng hào; tươi sáng; lạc quan",
+  "coll": [
+   "rosy cheeks",
+   "a rosy future",
+   "paint a rosy picture",
+   "a rosy outlook"
+  ]
+ },
+ {
+  "id": "shabby",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tồi tàn; xuềnh xoàng; tệ bạc",
+  "coll": [
+   "shabby clothes",
+   "a shabby room",
+   "look shabby",
+   "shabby treatment"
+  ]
+ },
+ {
+  "id": "adversely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách bất lợi; theo hướng xấu",
+  "coll": [
+   "adversely affect",
+   "adversely impact",
+   "be adversely affected by",
+   "adversely influenced"
+  ]
+ },
+ {
+  "id": "astonished",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "kinh ngạc; sửng sốt",
+  "coll": [
+   "be astonished at",
+   "astonished to hear",
+   "look astonished",
+   "utterly astonished"
+  ]
+ },
+ {
+  "id": "impulsive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bốc đồng; hấp tấp; theo cảm hứng",
+  "coll": [
+   "impulsive behaviour",
+   "an impulsive decision",
+   "impulsive buying",
+   "impulsive by nature"
+  ]
+ },
+ {
+  "id": "incense",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hương, nhang; khói hương; chọc tức",
+  "coll": [
+   "burn incense",
+   "incense sticks",
+   "the smell of incense",
+   "an incense burner"
+  ]
+ },
+ {
+  "id": "nervously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách lo lắng; bồn chồn",
+  "coll": [
+   "laugh nervously",
+   "smile nervously",
+   "glance nervously at",
+   "wait nervously"
+  ]
+ },
+ {
+  "id": "polio",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh bại liệt",
+  "coll": [
+   "the polio vaccine",
+   "contract polio",
+   "a polio epidemic",
+   "eradicate polio"
+  ]
+ },
+ {
+  "id": "serene",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "thanh thản; yên bình; điềm tĩnh",
+  "coll": [
+   "a serene smile",
+   "serene beauty",
+   "remain serene",
+   "a serene landscape"
+  ]
+ },
+ {
+  "id": "sob",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khóc nức nở; tiếng nấc",
+  "coll": [
+   "sob quietly",
+   "burst into sobs",
+   "sob uncontrollably",
+   "a sob story"
+  ]
+ },
+ {
+  "id": "straighten",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm thẳng; sửa cho ngay ngắn; dọn dẹp",
+  "coll": [
+   "straighten your back",
+   "straighten his tie",
+   "straighten the room",
+   "straighten up"
+  ]
+ },
+ {
+  "id": "unsuitable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không phù hợp; không thích hợp",
+  "coll": [
+   "unsuitable for children",
+   "an unsuitable candidate",
+   "totally unsuitable",
+   "unsuitable clothing"
+  ]
+ },
+ {
+  "id": "culmination",
+  "pos": [
+   "n"
+  ],
+  "vi": "đỉnh điểm; kết quả cuối cùng",
+  "coll": [
+   "the culmination of years of work",
+   "reach a culmination",
+   "the culmination of his career",
+   "the culmination of the process"
+  ]
+ },
+ {
+  "id": "decomposition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân hủy; sự phân tách",
+  "coll": [
+   "the decomposition of organic matter",
+   "the rate of decomposition",
+   "in a state of decomposition",
+   "matrix decomposition"
+  ]
+ },
+ {
+  "id": "electrician",
+  "pos": [
+   "n"
+  ],
+  "vi": "thợ điện",
+  "coll": [
+   "a qualified electrician",
+   "call an electrician",
+   "hire an electrician",
+   "a licensed electrician"
+  ]
+ },
+ {
+  "id": "eternally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "mãi mãi; đời đời; luôn luôn",
+  "coll": [
+   "eternally grateful",
+   "eternally young",
+   "eternally optimistic",
+   "eternally indebted"
+  ]
+ },
+ {
+  "id": "forcefully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách mạnh mẽ; kiên quyết",
+  "coll": [
+   "argue forcefully",
+   "speak forcefully",
+   "forcefully reject",
+   "push forcefully"
+  ]
+ },
+ {
+  "id": "godly",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "mộ đạo; sùng đạo; ngoan đạo",
+  "coll": [
+   "a godly man",
+   "a godly life",
+   "godly wisdom",
+   "godly living"
+  ]
+ },
+ {
+  "id": "hover",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bay lơ lửng; lượn lờ; quanh quẩn",
+  "coll": [
+   "hover in the air",
+   "a helicopter hovered",
+   "hover over a link",
+   "hover nearby"
+  ]
+ },
+ {
+  "id": "maestro",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhạc trưởng; bậc thầy",
+  "coll": [
+   "a jazz maestro",
+   "the great maestro",
+   "the maestro conducted",
+   "a maestro of the violin"
+  ]
+ },
+ {
+  "id": "microscopy",
+  "pos": [
+   "n"
+  ],
+  "vi": "kỹ thuật hiển vi; phép soi kính hiển vi",
+  "coll": [
+   "electron microscopy",
+   "light microscopy",
+   "fluorescence microscopy",
+   "microscopy techniques"
+  ]
+ },
+ {
+  "id": "olympia",
+  "pos": [
+   "n"
+  ],
+  "vi": "Olympia (thành cổ Hy Lạp); thủ phủ bang Washington",
+  "coll": [
+   "ancient Olympia",
+   "the ruins of Olympia",
+   "the games at Olympia",
+   "Olympia, Washington"
+  ]
+ },
+ {
+  "id": "orchestral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc dàn nhạc; dành cho dàn nhạc",
+  "coll": [
+   "orchestral music",
+   "an orchestral arrangement",
+   "an orchestral score",
+   "an orchestral performance"
+  ]
+ },
+ {
+  "id": "worldview",
+  "pos": [
+   "n"
+  ],
+  "vi": "thế giới quan; cách nhìn đời",
+  "coll": [
+   "a religious worldview",
+   "shape one's worldview",
+   "a different worldview",
+   "challenge someone's worldview"
+  ]
+ },
+ {
+  "id": "attractiveness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hấp dẫn; sức thu hút",
+  "coll": [
+   "physical attractiveness",
+   "the attractiveness of the offer",
+   "increase the attractiveness of",
+   "rate the attractiveness"
+  ]
+ },
+ {
+  "id": "bony",
+  "pos": [
+   "adj"
+  ],
+  "vi": "gầy giơ xương; nhiều xương; thuộc xương",
+  "coll": [
+   "bony fingers",
+   "bony shoulders",
+   "a bony fish",
+   "the bony structure"
+  ]
+ },
+ {
+  "id": "carbon monoxide",
+  "pos": [
+   "n"
+  ],
+  "vi": "khí CO; khí cacbon monoxit",
+  "coll": [
+   "carbon monoxide poisoning",
+   "a carbon monoxide detector",
+   "carbon monoxide emissions",
+   "levels of carbon monoxide"
+  ]
+ },
+ {
+  "id": "dependable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đáng tin cậy; chắc chắn",
+  "coll": [
+   "a dependable friend",
+   "a dependable source",
+   "dependable service",
+   "reliable and dependable"
+  ]
+ },
+ {
+  "id": "enthusiastically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách hào hứng; nhiệt tình",
+  "coll": [
+   "nod enthusiastically",
+   "applaud enthusiastically",
+   "respond enthusiastically",
+   "enthusiastically welcomed"
+  ]
+ },
+ {
+  "id": "guideline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hướng dẫn; nguyên tắc chỉ đạo",
+  "coll": [
+   "follow the guidelines",
+   "issue guidelines",
+   "safety guidelines",
+   "clear guidelines"
+  ]
+ },
+ {
+  "id": "inference",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự suy luận; kết luận suy ra",
+  "coll": [
+   "draw an inference",
+   "make inferences",
+   "logical inference",
+   "based on inference"
+  ]
+ },
+ {
+  "id": "judo",
+  "pos": [
+   "n"
+  ],
+  "vi": "võ judo; nhu đạo",
+  "coll": [
+   "practise judo",
+   "a judo club",
+   "a judo throw",
+   "a black belt in judo"
+  ]
+ },
+ {
+  "id": "pessimistic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bi quan; yếm thế",
+  "coll": [
+   "a pessimistic view",
+   "pessimistic about the future",
+   "deeply pessimistic",
+   "a pessimistic outlook"
+  ]
+ },
+ {
+  "id": "sag",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "võng xuống; chảy xệ; sụt giảm",
+  "coll": [
+   "sag in the middle",
+   "the roof sags",
+   "his shoulders sagged",
+   "sagging skin"
+  ]
+ },
+ {
+  "id": "tabloid",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "báo lá cải; kiểu báo lá cải",
+  "coll": [
+   "a tabloid newspaper",
+   "the tabloid press",
+   "tabloid journalism",
+   "tabloid headlines"
+  ]
+ },
+ {
+  "id": "widen",
+  "pos": [
+   "v"
+  ],
+  "vi": "mở rộng; nới rộng; giãn ra",
+  "coll": [
+   "widen the road",
+   "widen the gap",
+   "her eyes widened",
+   "widen your horizons"
+  ]
+ },
+ {
+  "id": "appreciative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "biết ơn; tán thưởng; trân trọng",
+  "coll": [
+   "an appreciative audience",
+   "appreciative of the help",
+   "an appreciative smile",
+   "deeply appreciative"
+  ]
+ },
+ {
+  "id": "eastward",
+  "pos": [
+   "adv",
+   "n",
+   "adj"
+  ],
+  "vi": "về phía đông; hướng đông",
+  "coll": [
+   "head eastward",
+   "travel eastward",
+   "an eastward direction",
+   "eastward expansion"
+  ]
+ },
+ {
+  "id": "kneel",
+  "pos": [
+   "v"
+  ],
+  "vi": "quỳ; quỳ gối",
+  "coll": [
+   "kneel down",
+   "kneel in prayer",
+   "kneel before the altar",
+   "kneel on the floor"
+  ]
+ },
+ {
+  "id": "quantify",
+  "pos": [
+   "v"
+  ],
+  "vi": "định lượng; đo bằng con số",
+  "coll": [
+   "difficult to quantify",
+   "quantify the risk",
+   "quantify the impact",
+   "quantify the benefits"
+  ]
+ },
+ {
+  "id": "revolve",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "quay quanh; xoay tròn; xoay quanh (chủ đề)",
+  "coll": [
+   "revolve around the sun",
+   "the plot revolves around",
+   "revolve on an axis",
+   "his life revolves around work"
+  ]
+ },
+ {
+  "id": "stepfather",
+  "pos": [
+   "n"
+  ],
+  "vi": "cha dượng; bố dượng",
+  "coll": [
+   "her stepfather",
+   "live with a stepfather",
+   "a good stepfather",
+   "his stepfather raised him"
+  ]
+ },
+ {
+  "id": "tenderness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự dịu dàng; sự đau khi chạm vào",
+  "coll": [
+   "treat with tenderness",
+   "a moment of tenderness",
+   "love and tenderness",
+   "abdominal tenderness"
+  ]
+ },
+ {
+  "id": "tickle",
+  "pos": [
+   "v",
+   "n",
+   "adj",
+   "adv"
+  ],
+  "vi": "cù; làm nhột; cảm giác nhồn nhột",
+  "coll": [
+   "tickle a baby",
+   "tickle someone's feet",
+   "a tickle in my throat",
+   "tickle your fancy"
+  ]
+ },
+ {
+  "id": "unload",
+  "pos": [
+   "v"
+  ],
+  "vi": "dỡ hàng; trút bỏ; tháo đạn",
+  "coll": [
+   "unload the truck",
+   "unload the cargo",
+   "unload the dishwasher",
+   "unload a gun"
+  ]
+ },
+ {
+  "id": "dreamy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mơ màng; như mơ; đẹp như mơ",
+  "coll": [
+   "a dreamy look",
+   "dreamy eyes",
+   "a dreamy atmosphere",
+   "dreamy music"
+  ]
+ },
+ {
+  "id": "lifeless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không có sự sống; bất động; vô hồn",
+  "coll": [
+   "a lifeless body",
+   "a lifeless planet",
+   "lie lifeless",
+   "a lifeless performance"
+  ]
+ },
+ {
+  "id": "subtitle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phụ đề; tiêu đề phụ",
+  "coll": [
+   "with English subtitles",
+   "turn on the subtitles",
+   "read the subtitles",
+   "subtitles for the deaf"
+  ]
+ },
+ {
+  "id": "alphabetical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "theo thứ tự chữ cái; thuộc bảng chữ cái",
+  "coll": [
+   "in alphabetical order",
+   "an alphabetical list",
+   "an alphabetical index",
+   "alphabetical arrangement"
+  ]
+ },
+ {
+  "id": "clam",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "con nghêu; con ngao (sò)",
+  "coll": [
+   "clam chowder",
+   "dig for clams",
+   "steamed clams",
+   "clam up"
+  ]
+ },
+ {
+  "id": "craftsman",
+  "pos": [
+   "n"
+  ],
+  "vi": "thợ thủ công; nghệ nhân",
+  "coll": [
+   "a skilled craftsman",
+   "a master craftsman",
+   "local craftsmen",
+   "the craftsman's skill"
+  ]
+ },
+ {
+  "id": "cripple",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "người tàn tật (cũ); làm tê liệt; làm què",
+  "coll": [
+   "cripple the economy",
+   "be crippled by debt",
+   "crippled with arthritis",
+   "cripple an industry"
+  ]
+ },
+ {
+  "id": "misconception",
+  "pos": [
+   "n"
+  ],
+  "vi": "quan niệm sai lầm; sự hiểu lầm",
+  "coll": [
+   "a common misconception",
+   "clear up a misconception",
+   "a popular misconception",
+   "a widespread misconception"
+  ]
+ },
+ {
+  "id": "momentarily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trong chốc lát; ngay lát nữa",
+  "coll": [
+   "pause momentarily",
+   "hesitate momentarily",
+   "I'll be with you momentarily",
+   "momentarily distracted"
+  ]
+ },
+ {
+  "id": "narcissistic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ái kỷ; tự yêu bản thân; tự cao tự đại",
+  "coll": [
+   "narcissistic personality disorder",
+   "narcissistic behaviour",
+   "narcissistic tendencies",
+   "a narcissistic person"
+  ]
+ },
+ {
+  "id": "northward",
+  "pos": [
+   "adv",
+   "n",
+   "adj"
+  ],
+  "vi": "về phía bắc; hướng bắc",
+  "coll": [
+   "head northward",
+   "travel northward",
+   "a northward direction",
+   "move northward"
+  ]
+ },
+ {
+  "id": "overturn",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lật đổ; lật úp; đảo ngược (phán quyết)",
+  "coll": [
+   "overturn a decision",
+   "overturn a verdict",
+   "the car overturned",
+   "overturn a government"
+  ]
+ },
+ {
+  "id": "reverence",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tôn kính; lòng thành kính",
+  "coll": [
+   "treat with reverence",
+   "deep reverence",
+   "reverence for nature",
+   "show reverence"
+  ]
+ },
+ {
+  "id": "shatter",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "vỡ tan; đập vỡ; làm tan vỡ",
+  "coll": [
+   "shatter the glass",
+   "shatter into pieces",
+   "shatter someone's dreams",
+   "shatter the silence"
+  ]
+ }
+]

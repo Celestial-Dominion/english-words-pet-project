@@ -1,0 +1,865 @@
+[
+ {
+  "id": "kyrie",
+  "pos": [
+   "n"
+  ],
+  "vi": "kinh Kyrie ('Lạy Chúa xin thương xót')",
+  "coll": [
+   "Kyrie eleison",
+   "sing the Kyrie",
+   "the Kyrie of the Mass",
+   "Kyrie and Gloria"
+  ]
+ },
+ {
+  "id": "latency",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ trễ; trạng thái tiềm ẩn",
+  "coll": [
+   "low latency",
+   "network latency",
+   "high latency",
+   "latency period",
+   "reduce latency"
+  ]
+ },
+ {
+  "id": "attributable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có thể quy cho, do bởi",
+  "coll": [
+   "attributable to the change",
+   "directly attributable",
+   "largely attributable",
+   "attributable risk",
+   "deaths attributable to"
+  ]
+ },
+ {
+  "id": "unanswered",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chưa có lời đáp; bị bỏ lửng",
+  "coll": [
+   "unanswered questions",
+   "go unanswered",
+   "unanswered prayers",
+   "left unanswered",
+   "unanswered calls"
+  ]
+ },
+ {
+  "id": "memorabilia",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ lưu niệm, kỷ vật sưu tầm",
+  "coll": [
+   "sports memorabilia",
+   "collect memorabilia",
+   "rock memorabilia",
+   "war memorabilia",
+   "signed memorabilia"
+  ]
+ },
+ {
+  "id": "resurgence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trỗi dậy trở lại",
+  "coll": [
+   "a resurgence of interest",
+   "resurgence in popularity",
+   "recent resurgence",
+   "resurgence of the virus",
+   "see a resurgence"
+  ]
+ },
+ {
+  "id": "midtown",
+  "pos": [
+   "n"
+  ],
+  "vi": "khu giữa thành phố",
+  "coll": [
+   "midtown Manhattan",
+   "midtown office",
+   "in midtown",
+   "midtown hotel",
+   "midtown traffic"
+  ]
+ },
+ {
+  "id": "smackdown",
+  "pos": [
+   "n"
+  ],
+  "vi": "cú hạ đo ván; màn dập tơi bời",
+  "coll": [
+   "deliver a smackdown",
+   "a legal smackdown",
+   "give him a smackdown",
+   "verbal smackdown"
+  ]
+ },
+ {
+  "id": "complication",
+  "pos": [
+   "n"
+  ],
+  "vi": "biến chứng; rắc rối phát sinh",
+  "coll": [
+   "serious complications",
+   "medical complications",
+   "further complications",
+   "complications arose",
+   "avoid complications"
+  ]
+ },
+ {
+  "id": "fracking",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "kỹ thuật nứt vỉa thủy lực (khai thác khí đá phiến)",
+  "coll": [
+   "ban fracking",
+   "fracking site",
+   "anti-fracking protest",
+   "shale gas fracking",
+   "fracking industry"
+  ]
+ },
+ {
+  "id": "disperse",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "giải tán, tản ra; phát tán",
+  "coll": [
+   "disperse the crowd",
+   "the crowd dispersed",
+   "disperse seeds",
+   "widely dispersed",
+   "disperse quickly"
+  ]
+ },
+ {
+  "id": "depressive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trầm cảm; gây u uất",
+  "coll": [
+   "depressive disorder",
+   "depressive episode",
+   "manic depressive",
+   "depressive symptoms",
+   "depressive illness"
+  ]
+ },
+ {
+  "id": "beige",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "màu be, màu nâu nhạt",
+  "coll": [
+   "beige walls",
+   "a beige carpet",
+   "pale beige",
+   "beige colour",
+   "beige trousers"
+  ]
+ },
+ {
+  "id": "zipper",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khóa kéo, phéc-mơ-tuya",
+  "coll": [
+   "zipper pocket",
+   "undo the zipper",
+   "broken zipper",
+   "zipper pull",
+   "zip up the zipper"
+  ]
+ },
+ {
+  "id": "adjunct",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "phần bổ trợ; giảng viên thỉnh giảng; trạng ngữ",
+  "coll": [
+   "adjunct professor",
+   "a useful adjunct",
+   "adjunct therapy",
+   "adjunct faculty",
+   "adjunct to the treatment"
+  ]
+ },
+ {
+  "id": "hallelujah",
+  "pos": [
+   "intj",
+   "n",
+   "v"
+  ],
+  "vi": "Hallelujah! (ngợi khen Chúa); tiếng reo mừng",
+  "coll": [
+   "sing hallelujah",
+   "Hallelujah Chorus",
+   "shout hallelujah",
+   "a hallelujah moment"
+  ]
+ },
+ {
+  "id": "waffle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bánh waffle; nói lan man dài dòng",
+  "coll": [
+   "Belgian waffle",
+   "waffle iron",
+   "waffle on about",
+   "political waffle",
+   "waffle maker"
+  ]
+ },
+ {
+  "id": "sonar",
+  "pos": [
+   "n"
+  ],
+  "vi": "sóng định vị dưới nước, thiết bị sonar",
+  "coll": [
+   "sonar system",
+   "sonar image",
+   "detect by sonar",
+   "active sonar",
+   "sonar equipment"
+  ]
+ },
+ {
+  "id": "toxin",
+  "pos": [
+   "n"
+  ],
+  "vi": "độc tố",
+  "coll": [
+   "bacterial toxin",
+   "remove toxins",
+   "toxin levels",
+   "environmental toxins",
+   "botulinum toxin"
+  ]
+ },
+ {
+  "id": "latte",
+  "pos": [
+   "n"
+  ],
+  "vi": "cà phê latte",
+  "coll": [
+   "a skinny latte",
+   "order a latte",
+   "latte art",
+   "pumpkin spice latte",
+   "iced latte"
+  ]
+ },
+ {
+  "id": "boar",
+  "pos": [
+   "n"
+  ],
+  "vi": "lợn rừng; lợn đực",
+  "coll": [
+   "wild boar",
+   "boar hunting",
+   "boar meat",
+   "a young boar",
+   "boar tusks"
+  ]
+ },
+ {
+  "id": "leafy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nhiều lá, rợp bóng cây",
+  "coll": [
+   "leafy greens",
+   "leafy suburb",
+   "leafy vegetables",
+   "leafy street",
+   "leafy canopy"
+  ]
+ },
+ {
+  "id": "carnage",
+  "pos": [
+   "n"
+  ],
+  "vi": "cảnh tàn sát đẫm máu",
+  "coll": [
+   "scenes of carnage",
+   "utter carnage",
+   "the carnage of war",
+   "cause carnage",
+   "bloody carnage"
+  ]
+ },
+ {
+  "id": "veg",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "rau (nói tắt); nằm ườn thư giãn",
+  "coll": [
+   "meat and two veg",
+   "fresh veg",
+   "green veg",
+   "veg out",
+   "frozen veg"
+  ]
+ },
+ {
+  "id": "unequal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không ngang bằng; bất bình đẳng",
+  "coll": [
+   "unequal treatment",
+   "unequal distribution",
+   "unequal pay",
+   "grossly unequal",
+   "unequal to the task"
+  ]
+ },
+ {
+  "id": "reaper",
+  "pos": [
+   "n"
+  ],
+  "vi": "thần chết (Grim Reaper); máy gặt",
+  "coll": [
+   "the Grim Reaper",
+   "mechanical reaper",
+   "the reaper comes",
+   "reaper drone",
+   "harvest reaper"
+  ]
+ },
+ {
+  "id": "descendant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hậu duệ, con cháu; bắt nguồn từ",
+  "coll": [
+   "a direct descendant",
+   "descendants of immigrants",
+   "living descendants",
+   "descendant of the family",
+   "distant descendant"
+  ]
+ },
+ {
+  "id": "considerate",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "chu đáo, biết nghĩ cho người khác",
+  "coll": [
+   "considerate of others",
+   "very considerate",
+   "considerate behaviour",
+   "a considerate host",
+   "kind and considerate"
+  ]
+ },
+ {
+  "id": "omission",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bỏ sót; điều thiếu sót",
+  "coll": [
+   "a glaring omission",
+   "errors and omissions",
+   "the omission of details",
+   "notable omission",
+   "sin of omission"
+  ]
+ },
+ {
+  "id": "piggy",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chú heo con; tham ăn tục uống",
+  "coll": [
+   "piggy bank",
+   "piggyback ride",
+   "piggy eyes",
+   "this little piggy",
+   "don't be piggy"
+  ]
+ },
+ {
+  "id": "lobe",
+  "pos": [
+   "n"
+  ],
+  "vi": "thùy (não, phổi); dái tai",
+  "coll": [
+   "frontal lobe",
+   "ear lobe",
+   "temporal lobe",
+   "lobe of the lung",
+   "occipital lobe"
+  ]
+ },
+ {
+  "id": "fermentation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lên men",
+  "coll": [
+   "the fermentation process",
+   "alcoholic fermentation",
+   "natural fermentation",
+   "fermentation tank",
+   "during fermentation"
+  ]
+ },
+ {
+  "id": "starch",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "tinh bột; hồ vải; hồ cứng",
+  "coll": [
+   "corn starch",
+   "starch content",
+   "potato starch",
+   "starch the collar",
+   "reduce starch intake"
+  ]
+ },
+ {
+  "id": "typo",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lỗi đánh máy",
+  "coll": [
+   "a typo in the email",
+   "spot a typo",
+   "fix the typo",
+   "a simple typo",
+   "full of typos"
+  ]
+ },
+ {
+  "id": "taper",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "thu nhỏ dần, vuốt nhọn; nến mảnh",
+  "coll": [
+   "taper off",
+   "taper down",
+   "tapered trousers",
+   "taper the dose",
+   "gradually taper"
+  ]
+ },
+ {
+  "id": "surfer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người lướt sóng; người lướt web",
+  "coll": [
+   "a keen surfer",
+   "professional surfer",
+   "big-wave surfer",
+   "web surfer",
+   "surfer dude"
+  ]
+ },
+ {
+  "id": "periphery",
+  "pos": [
+   "n"
+  ],
+  "vi": "vùng ngoại vi, rìa ngoài",
+  "coll": [
+   "on the periphery",
+   "the periphery of the city",
+   "at the periphery of vision",
+   "outer periphery",
+   "pushed to the periphery"
+  ]
+ },
+ {
+  "id": "pedophile",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ ấu dâm",
+  "coll": [
+   "convicted pedophile",
+   "pedophile ring",
+   "a suspected pedophile",
+   "pedophile network",
+   "expose a pedophile"
+  ]
+ },
+ {
+  "id": "blasphemy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự báng bổ thần thánh",
+  "coll": [
+   "commit blasphemy",
+   "blasphemy laws",
+   "accused of blasphemy",
+   "sheer blasphemy",
+   "charges of blasphemy"
+  ]
+ },
+ {
+  "id": "prelude",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khúc dạo đầu; điềm báo mở màn",
+  "coll": [
+   "a prelude to war",
+   "as a prelude to",
+   "piano prelude",
+   "prelude and fugue",
+   "the prelude to the crisis"
+  ]
+ },
+ {
+  "id": "remnant",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "phần còn sót lại; tàn tích",
+  "coll": [
+   "the last remnants",
+   "remnants of the empire",
+   "remnants of the meal",
+   "a remnant of cloth",
+   "remnants of the storm"
+  ]
+ },
+ {
+  "id": "exponentially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo cấp số nhân; tăng vọt",
+  "coll": [
+   "grow exponentially",
+   "increase exponentially",
+   "rise exponentially",
+   "expand exponentially",
+   "exponentially more"
+  ]
+ },
+ {
+  "id": "ballpark",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "sân bóng chày; ước chừng, áng chừng",
+  "coll": [
+   "a ballpark figure",
+   "in the right ballpark",
+   "ballpark estimate",
+   "at the ballpark",
+   "ballpark number"
+  ]
+ },
+ {
+  "id": "stabilization",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ổn định hóa; việc bình ổn",
+  "coll": [
+   "price stabilization",
+   "economic stabilization",
+   "image stabilization",
+   "stabilization programme",
+   "stabilization of the patient"
+  ]
+ },
+ {
+  "id": "taj",
+  "pos": [
+   "n"
+  ],
+  "vi": "mũ chóp cao kiểu Hồi giáo; vương miện Ấn Độ",
+  "coll": [
+   "the Taj Mahal",
+   "a jewelled taj",
+   "royal taj",
+   "wear a taj"
+  ]
+ },
+ {
+  "id": "commune",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "công xã, cộng đồng sống chung; giao cảm với",
+  "coll": [
+   "live in a commune",
+   "hippie commune",
+   "commune with nature",
+   "rural commune",
+   "the Paris Commune"
+  ]
+ },
+ {
+  "id": "hurtful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "làm tổn thương; gây đau lòng",
+  "coll": [
+   "hurtful comments",
+   "hurtful words",
+   "deeply hurtful",
+   "hurtful remarks",
+   "hurtful behaviour"
+  ]
+ },
+ {
+  "id": "peptide",
+  "pos": [
+   "n"
+  ],
+  "vi": "peptide (chuỗi axit amin)",
+  "coll": [
+   "peptide bond",
+   "peptide chain",
+   "peptide hormone",
+   "synthetic peptide",
+   "peptide sequence"
+  ]
+ },
+ {
+  "id": "gilded",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mạ vàng; hào nhoáng bề ngoài",
+  "coll": [
+   "gilded frame",
+   "the Gilded Age",
+   "gilded cage",
+   "gilded ceiling",
+   "gilded youth"
+  ]
+ },
+ {
+  "id": "epidemiology",
+  "pos": [
+   "n"
+  ],
+  "vi": "dịch tễ học",
+  "coll": [
+   "study epidemiology",
+   "the epidemiology of the disease",
+   "clinical epidemiology",
+   "epidemiology data",
+   "professor of epidemiology"
+  ]
+ },
+ {
+  "id": "inaccessible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khó tiếp cận; không vào được",
+  "coll": [
+   "inaccessible to the public",
+   "remote and inaccessible",
+   "inaccessible areas",
+   "largely inaccessible",
+   "inaccessible website"
+  ]
+ },
+ {
+  "id": "inferno",
+  "pos": [
+   "n"
+  ],
+  "vi": "biển lửa; chốn địa ngục",
+  "coll": [
+   "a raging inferno",
+   "blazing inferno",
+   "the towering inferno",
+   "escape the inferno",
+   "fiery inferno"
+  ]
+ },
+ {
+  "id": "satanic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ma quỷ, thuộc Satan; tàn ác quỷ quyệt",
+  "coll": [
+   "satanic ritual",
+   "satanic cult",
+   "satanic verses",
+   "satanic forces",
+   "satanic imagery"
+  ]
+ },
+ {
+  "id": "sclerosis",
+  "pos": [
+   "n"
+  ],
+  "vi": "chứng xơ cứng",
+  "coll": [
+   "multiple sclerosis",
+   "arterial sclerosis",
+   "suffer from sclerosis",
+   "sclerosis of the liver",
+   "institutional sclerosis"
+  ]
+ },
+ {
+  "id": "gastric",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc dạ dày",
+  "coll": [
+   "gastric acid",
+   "gastric ulcer",
+   "gastric bypass",
+   "gastric juices",
+   "gastric problems"
+  ]
+ },
+ {
+  "id": "prepaid",
+  "pos": [
+   "n"
+  ],
+  "vi": "trả trước; khoản trả trước",
+  "coll": [
+   "prepaid card",
+   "prepaid phone",
+   "prepaid expenses",
+   "prepaid envelope",
+   "prepaid plan"
+  ]
+ },
+ {
+  "id": "fruitful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hiệu quả, đơm hoa kết trái",
+  "coll": [
+   "fruitful discussion",
+   "a fruitful career",
+   "fruitful collaboration",
+   "prove fruitful",
+   "fruitful relationship"
+  ]
+ },
+ {
+  "id": "conclusive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có tính quyết định, dứt điểm",
+  "coll": [
+   "conclusive evidence",
+   "conclusive proof",
+   "conclusive results",
+   "far from conclusive",
+   "conclusive answer"
+  ]
+ },
+ {
+  "id": "unspecified",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không nêu rõ; chưa xác định",
+  "coll": [
+   "an unspecified amount",
+   "unspecified reasons",
+   "unspecified date",
+   "unspecified injuries",
+   "for an unspecified period"
+  ]
+ },
+ {
+  "id": "meddling",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sự can thiệp xen vào; hay xía vào",
+  "coll": [
+   "political meddling",
+   "foreign meddling",
+   "meddling in affairs",
+   "constant meddling",
+   "meddling kids"
+  ]
+ }
+]

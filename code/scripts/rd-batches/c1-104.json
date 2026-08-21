@@ -1,0 +1,177 @@
+[
+ {
+  "id": "wiki-intelligent-agent",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Intelligent_agent",
+  "title_en": "Intelligent agent",
+  "sentences": [
+   "In artificial intelligence, an intelligent agent is a system that observes its environment, makes decisions, and takes actions to achieve specific goals.",
+   "It may improve its performance by learning or using stored knowledge.",
+   "AI is often defined as the study and creation of these agents, focusing on their ability to act rationally toward goals.",
+   "A subset called agentic AI (or AI agents) can independently pursue complex goals over time, making decisions without constant human input.",
+   "Intelligent agents vary from simple systems, like a thermostat, to complex ones, like a self-driving car or a human being.",
+   "They work based on an objective function that defines their goals, aiming to maximize its value through planned actions.",
+   "For example, a reinforcement learning agent uses a reward function to guide its behavior.",
+   "These agents are studied in fields like economics, cognitive science, and ethics, and are related to software agents—programs that perform tasks for users.",
+   "They are sometimes called rational agents, a term from economics."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-church-of-scientology-falsely-accuses-in",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Church_of_Scientology_falsely_accuses_internet_group_'Anonymous'_of_2007_school_shooting",
+  "title_en": "Church of Scientology falsely accuses internet group 'Anonymous' of 2007 school shooting",
+  "sentences": [
+   "Monday, October 20, 2008 Wikinews has learned that the Church of Scientology has begun to falsely accuse the internet protest group Anonymous of a 2007 school shooting in Finland.",
+   "The Church, on October 18, 2008 accused Anonymous of being involved in the November 2007 shooting at Jokela High School, in which a man named Pekka-Eric Auvinen shot and killed nine people, including himself.",
+   "\"Anonymous member Pekka-Eric Auvinen shot and killed seven students, a nurse and a teacher at Jokela High School in Finland before turning the gun on himself and taking his own life,\" said the Church in the October 18 press release.",
+   "On October 17, the President of the Church of Scientology in New York City, John Carmichael, also accused Anonymous of being behind the shooting.",
+   "One month ago, an article on CNN's citizen journalism wing, iReport, also accused Anonymous of being behind the shooting, and several other alleged terrorist plots.",
+   "The article also went on to accuse Anonymous of being behind the suicide of 14-year-old Megan Meier who killed herself after being 'cyber-bullied'.",
+   "Scientology says the initial attack was done by a member of Anonymous named Josh Evans, who later turned out to be a false alias created by Lori Drew, the mother of one of Meier's friends.",
+   "Meier's mother had previously had a falling out with Drew.",
+   "Wikinews contacted the National Bureau of Investigation (NBI) in Finland by e-mail, seeking evidence or a statement to confirm or deny any connection to Anonymous and verify or debunk the claim made by the Church.",
+   "Wikinews was able to confirm that there was no connection between Anonymous and the 2007 shooting.",
+   "\"According to the leader of the criminal investigation of the Jokela High School Shooting in 2007, there was no link between the group called 'Anonymous' and the offender [Auvinen],\" said Tapio Ahola, Detective Chief Inspector of the NBI to Wikinews.",
+   "The Church also accuses Anonymous of plotting terrorist attacks against other schools, stadiums and even plotting a mall massacre which would allegedly have taken place in Los Angeles, California.",
+   "The Church says that Jarrad Willis, who was arrested and questioned after posting the hoax massacre threat on 4chan.org, committed suicide while awaiting charges of internet crimes.",
+   "Wikinews found that his suicide happened just one day before he was to be charged for a crime unrelated to the threat and that authorities had dropped all other charges against him, in relation to the hoax.",
+   "The accusations appear to be part of a Scientology tactic developed by the organization's founder, L.",
+   "Ron Hubbard called \"fair-game\"."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-rhapsody-operating-system",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Rhapsody_(operating_system)",
+  "title_en": "Rhapsody (operating system)",
+  "sentences": [
+   "Rhapsody was the name given to Apple Computer's next-generation operating system.",
+   "Apple got the Rhapsody operating system when they bought NeXT Inc. from Steve Jobs for $425 million.",
+   "The same year Apple released Rhapsody to software developers so they could create versions of their software for the next release of the Apple operating system.",
+   "But a key software vendor, Adobe Systems, did not like Apple's plan for the new OS.",
+   "Without Adobe supporting them Apple decided not to go ahead with Rhapsody.",
+   "Rhapsody was replaced by OS X, scheduled for 1999."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-iraqi-insurgents-intercepted-drone-feeds",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Iraqi_insurgents_intercepted_drone_feeds_using_widely_available_software",
+  "title_en": "Iraqi insurgents intercepted drone feeds using widely available software",
+  "sentences": [
+   "Saturday, December 19, 2009 United States defense officials acknowledged that Iraqi insurgents successfully intercepted live video feeds from U.S.",
+   "MQ-1 Predator unmanned aerial vehicles with widely available software.",
+   "The story broke on Thursday in the Wall Street Journal with a defense official, anonymously, informing them it is an old problem, which has already been fixed.",
+   "The Journal says U.S. military personnel in Iraq discovered the problem late last year when they seized a Shi'ite militant's laptop containing drone video feeds.",
+   "Senior defense and intelligence officials say insurgents were able to take advantage of an unprotected communications link in the systems of the remotely-piloted aircraft.",
+   "The insurgents used software that is available online and costs about $26.",
+   "While U.S. defense officials say the issue has been fixed, the Journal quoted senior intelligence officials as saying it was not yet clear if the problem had been completely resolved.",
+   "U.S. officials say there is no evidence that militants had been able to take control of the drones.",
+   "But the intercepted video feeds could show where the planes are operating.",
+   "The Journal also reported that U.S. drone feeds have also been intercepted in Afghanistan.",
+   "Officials say the U.S. government has known about a flaw in the drone communication system since the NATO intervention in Bosnia in the 1990s.",
+   "At the time, the military assumed local adversaries would not know how to exploit it.",
+   "The report says fighters in Iraq used software programs such as one called \"SkyGrabber\" from the Russian company SkySoftware, which is designed to intercept data transmitted by satellite Internet.",
+   "The Journal quoted one of the program's developers, Andrew Solonikov, as saying it was designed to download legal content — such as music and video — and that it was never intended to intercept military data.",
+   "Solonikov said in an email to the paper, \"It was developed to intercept music, photos, video, programs and other content that other users download from the Internet — no military data or other commercial data, only free legal content.\""
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-texans-vote-online-for-new-license-plate",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Texans_vote_online_for_new_license_plate",
+  "title_en": "Texans vote online for new license plate",
+  "sentences": [
+   "Monday, February 4, 2008 For the first time in Texas's history, the Texas Department of Transportation (TxDOT) is conducting an online vote to help decide which license plate design the state will use beginning in early 2009.",
+   "The week-long vote is being held at dot.state.tx.us.",
+   "It started Monday at noon and will end on February 11 at the same time.",
+   "Anyone can vote for one of five license plate designs, including the current design.",
+   "The designs are: Traditional Texas — This simple design features blue highlights at the top and bottom and a gold star.",
+   "Lone Star Texas — This design uses a mountainous landscape under a bright, cloudy sky as its background.",
+   "In the top left corner is a white star amid a splash of red and blue.",
+   "Natural Texas — The background is a field filled with wildflowers.",
+   "New Texas — This red, white and blue design features a skyline composed of landmarks from major Texas cities including Houston, Dallas, and San Antonio.",
+   "A large gold star is faintly visible in the background.",
+   "My Texas — This is the current license plate that was introduced in 2000.",
+   "It features silhouettes of a desert landscape with an oil derrick and a man on horseback, as well as a starry night sky with a space shuttle.",
+   "All of the designs incorporate the state's name, an outline of the state, and the state's nickname, \"The Lone Star State\".",
+   "TxDOT says they took legibility and reflectivity into account when making the designs, in order to promote safety and law enforcement.",
+   "The decision to allow a public vote was made because the state was running out of six-character combinations to assign to drivers.",
+   "The new license plates will have seven characters, regardless of the public's decision."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-ubuntu-releases-6-06-lts-version-of-popu",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Ubuntu_releases_6.06_LTS_version_of_popular_Linux_distribution",
+  "title_en": "Ubuntu releases 6.06 LTS version of popular Linux distribution",
+  "sentences": [
+   "Thursday, June 1, 2006 The Ubuntu Foundation released its fourth version of the popular GNU/Linux operating system distribution yesterday.",
+   "Codenamed \"Dapper Drake\", the release improves on its predecessor, Breezy Badger, or 5.10.",
+   "The 6.06 LTS version will be the first to offer Long Term Support: three years on the desktop and five years on the server.",
+   "Upgrades to existing Ubuntu 5.10 installations can be accomplished by running the update manager program, where an option to upgrade to 6.06 will be displayed.",
+   "Because the software in the GNU/Linux operating system comes with permission for everyone to modify and redistribute it, there are many versions (called \"distributions\") of the operating system available.",
+   "Ubuntu builds on the popular Debian GNU/Linux distribution.",
+   "Like Debian, it is made almost entirely of free software.",
+   "Users quickly swarmed Ubuntu's servers and mirrors trying to download the new version.",
+   "The servers are currently responding slowly; moderators at the Ubuntu Forums suggested that users download with BitTorrent if at all possible, which is much less prone to such slowdowns.",
+   "Since its first official release in October 2004, Ubuntu has become one of the most popular Linux distributions.",
+   "It is intended to be user-friendly without being insecure by design, a charge sometimes leveled against other beginner-friendly distributions like Linspire.",
+   "The distribution is offered for free, and CDs are available for order via the Internet without charge (including shipping)."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-dell-to-offer-ubuntu-linux-on-some-compu",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Dell_to_offer_Ubuntu_Linux_on_some_computers",
+  "title_en": "Dell to offer Ubuntu Linux on some computers",
+  "sentences": [
+   "Wednesday, May 2, 2007 Dell Inc. (Dell) announced Tuesday that, due to public demand, they will be offering an alternative to Microsoft Windows on a selection of their desktop and laptop computers.",
+   "Dell will partner with Canonical Ltd. to pre-install the recently released Ubuntu 7.04 distribution of the Linux operating system.",
+   "Until recently, Linux distributions have not been adopted by mainstream computer makers due to concerns over ease-of-use.",
+   "Newer distributions, such as Ubuntu 7.04, have become much more user-friendly, with features such as automatic updates and software installation.",
+   "Ubuntu director of business development Chris Kenyon told the BBC that one of the reasons Ubuntu was selected was its support features and hardware compatibility.",
+   "\"Dell are going to work with us to make sure Ubuntu works fully on its hardware,\" said Kenyon.",
+   "A Dell representative suggested that the Ubuntu distribution was chosen due to public demand as expressed on a Dell-run forum website, IdeaStorm.",
+   "\"It was overwhelming, the response we got to the survey,\" said Jeremy Bolen, a Dell spokesman.",
+   "Tuesday's announcement was not the first for Dell's Linux offerings.",
+   "They have offered servers and workstations with an optional enterprise version of Red Hat Linux for some time now.",
+   "The chairman and CEO of Dell, Michael Dell, is reported to have Ubuntu installed on his own laptop.",
+   "Perry Donham, an analyst with Aberdeen Group of Boston, suggested that the Dell-Ubuntu partnership will benefit Ubuntu more than it will Dell.",
+   "\"It's going to be a small part of [Dell's] market,\" said Donham.",
+   "\"But it's a great win for Ubuntu and for Linux in general.\" Dell indicated that the Ubuntu-based computers would be available in the next few weeks, from Dell USA only for the time being.",
+   "The pricing structure has not been revealed, or when such computers would be available in countries other than the United States."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-microformat",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Microformat",
+  "title_en": "Microformat",
+  "sentences": [
+   "A Microformat is an attempt to re-use existing content in HTML and XML documents.",
+   "Such content may be information on how to contact someone, or it may be geographical coordinates, for example.",
+   "This information can then be processed by software more easily.",
+   "Technically, this kind of information is already there.",
+   "A microformat aims at making this information accessible more easily.",
+   "That way, tags might be added to flag the information."
+  ],
+  "topic": "it"
+ }
+]

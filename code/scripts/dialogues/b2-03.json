@@ -1,0 +1,23 @@
+[
+ {
+  "id": "dlg-b2-price-increase",
+  "level": 2,
+  "title_en": "Explaining a price increase to a customer",
+  "title_vi": "Giải thích việc tăng giá với khách hàng",
+  "speakers": ["Sales", "Customer"],
+  "turns": [
+   { "sp": 0, "en": "I'm calling to let you know our prices will rise in July.", "vi": "Tôi gọi để báo với chị là giá của chúng tôi sẽ tăng từ tháng Bảy." },
+   { "sp": 1, "en": "By how much?", "vi": "Tăng bao nhiêu?" },
+   { "sp": 0, "en": "Five percent across the range.", "vi": "Năm phần trăm cho toàn bộ dòng sản phẩm." },
+   { "sp": 1, "en": "That's the second increase this year.", "vi": "Đây là lần tăng thứ hai trong năm nay đấy." },
+   { "sp": 0, "en": "I know, and I'm sorry. Raw material costs went up again.", "vi": "Tôi biết, và tôi xin lỗi. Giá nguyên liệu lại tăng." },
+   { "sp": 1, "en": "We may have to look at other suppliers.", "vi": "Có thể chúng tôi phải tìm nhà cung cấp khác." },
+   { "sp": 0, "en": "I understand. Could I offer you a way to avoid the rise?", "vi": "Tôi hiểu. Tôi đề xuất một cách để chị tránh đợt tăng này nhé?" },
+   { "sp": 1, "en": "Go on.", "vi": "Anh nói đi." },
+   { "sp": 0, "en": "Order the full year in June and we hold the current price.", "vi": "Đặt hàng cả năm trong tháng Sáu thì chúng tôi giữ giá hiện tại." },
+   { "sp": 1, "en": "That's a lot of stock to hold at once.", "vi": "Vậy là phải ôm nhiều hàng cùng lúc." },
+   { "sp": 0, "en": "We can store it and deliver monthly.", "vi": "Chúng tôi có thể lưu kho và giao hàng theo tháng." },
+   { "sp": 1, "en": "Now that's worth discussing. Send me the terms.", "vi": "Vậy thì đáng bàn đấy. Anh gửi tôi các điều khoản." }
+  ]
+ }
+]

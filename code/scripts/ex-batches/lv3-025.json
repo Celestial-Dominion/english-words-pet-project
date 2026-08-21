@@ -1,0 +1,823 @@
+[
+ {
+  "id": "eccentric",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lập dị, khác người; người lập dị; lệch tâm",
+  "coll": [
+   "an eccentric millionaire",
+   "eccentric behaviour",
+   "slightly eccentric",
+   "an eccentric orbit"
+  ]
+ },
+ {
+  "id": "liaison",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự liên lạc, phối hợp; người đầu mối; quan hệ vụng trộm",
+  "coll": [
+   "a liaison officer",
+   "close liaison with",
+   "act as liaison",
+   "in liaison with"
+  ]
+ },
+ {
+  "id": "rotate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "xoay, quay tròn; luân phiên, xoay vòng",
+  "coll": [
+   "rotate the crops",
+   "rotate the tires",
+   "rotate shifts",
+   "rotate 90 degrees"
+  ]
+ },
+ {
+  "id": "resilience",
+  "pos": [
+   "n"
+  ],
+  "vi": "sức bật, khả năng phục hồi; tính đàn hồi",
+  "coll": [
+   "show resilience",
+   "build resilience",
+   "economic resilience",
+   "resilience in the face of adversity"
+  ]
+ },
+ {
+  "id": "abdominal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc bụng, ở vùng bụng",
+  "coll": [
+   "abdominal pain",
+   "abdominal muscles",
+   "abdominal surgery",
+   "the abdominal cavity"
+  ]
+ },
+ {
+  "id": "fascism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa phát xít",
+  "coll": [
+   "the rise of fascism",
+   "fight fascism",
+   "Italian fascism",
+   "fascism and communism"
+  ]
+ },
+ {
+  "id": "charcoal",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "than củi; bút than vẽ; màu xám đậm",
+  "coll": [
+   "a charcoal grill",
+   "a charcoal drawing",
+   "activated charcoal",
+   "charcoal grey"
+  ]
+ },
+ {
+  "id": "duct",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ống dẫn, đường ống",
+  "coll": [
+   "an air duct",
+   "duct tape",
+   "the tear duct",
+   "a ventilation duct"
+  ]
+ },
+ {
+  "id": "kernel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhân, hạt (bên trong vỏ); cốt lõi; nhân hệ điều hành",
+  "coll": [
+   "a kernel of truth",
+   "corn kernels",
+   "the Linux kernel",
+   "the kernel of the argument"
+  ]
+ },
+ {
+  "id": "potassium",
+  "pos": [
+   "n"
+  ],
+  "vi": "kali (nguyên tố hóa học)",
+  "coll": [
+   "potassium chloride",
+   "high in potassium",
+   "potassium levels",
+   "potassium deficiency"
+  ]
+ },
+ {
+  "id": "toxicity",
+  "pos": [
+   "n"
+  ],
+  "vi": "độc tính, mức độ độc hại",
+  "coll": [
+   "high toxicity",
+   "acute toxicity",
+   "reduce toxicity",
+   "toxicity levels"
+  ]
+ },
+ {
+  "id": "staircase",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cầu thang",
+  "coll": [
+   "a spiral staircase",
+   "climb the staircase",
+   "a grand staircase",
+   "a wooden staircase"
+  ]
+ },
+ {
+  "id": "swipe",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "quẹt thẻ, vuốt màn hình; vụt, tát mạnh; chôm, cuỗm",
+  "coll": [
+   "swipe a card",
+   "swipe left",
+   "swipe right",
+   "take a swipe at someone"
+  ]
+ },
+ {
+  "id": "electromagnetic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc điện từ",
+  "coll": [
+   "electromagnetic radiation",
+   "an electromagnetic field",
+   "the electromagnetic spectrum",
+   "electromagnetic waves"
+  ]
+ },
+ {
+  "id": "dictate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "áp đặt, quyết định; đọc cho chép; mệnh lệnh",
+  "coll": [
+   "dictate terms",
+   "dictate a letter",
+   "dictate policy",
+   "the dictates of conscience"
+  ]
+ },
+ {
+  "id": "adolescent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vị thành niên; thiếu niên đang lớn",
+  "coll": [
+   "adolescent boys",
+   "adolescent behaviour",
+   "an adolescent girl",
+   "adolescent development"
+  ]
+ },
+ {
+  "id": "cartel",
+  "pos": [
+   "n"
+  ],
+  "vi": "liên minh độc quyền; băng đảng ma túy",
+  "coll": [
+   "a drug cartel",
+   "the oil cartel",
+   "cartel members",
+   "break up a cartel"
+  ]
+ },
+ {
+  "id": "fearful",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "sợ hãi, lo sợ; đáng sợ, khủng khiếp",
+  "coll": [
+   "fearful of the future",
+   "a fearful sight",
+   "fearful consequences",
+   "fearful and anxious"
+  ]
+ },
+ {
+  "id": "influx",
+  "pos": [
+   "n"
+  ],
+  "vi": "luồng đổ vào, sự tràn vào",
+  "coll": [
+   "an influx of tourists",
+   "a sudden influx",
+   "an influx of refugees",
+   "an influx of capital"
+  ]
+ },
+ {
+  "id": "condolences",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "lời chia buồn",
+  "coll": [
+   "offer condolences",
+   "my deepest condolences",
+   "send condolences",
+   "express condolences"
+  ]
+ },
+ {
+  "id": "constituent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thành phần cấu thành; cử tri trong khu vực; cấu thành",
+  "coll": [
+   "a key constituent",
+   "constituent parts",
+   "a constituent assembly",
+   "meet his constituents"
+  ]
+ },
+ {
+  "id": "backdrop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phông nền; bối cảnh diễn ra",
+  "coll": [
+   "against a backdrop of",
+   "a dramatic backdrop",
+   "provide a backdrop",
+   "a stage backdrop"
+  ]
+ },
+ {
+  "id": "socio",
+  "pos": [
+   "n"
+  ],
+  "vi": "môn xã hội học (nói tắt)",
+  "coll": [
+   "take socio",
+   "a socio class",
+   "socio and psych",
+   "an intro socio course"
+  ]
+ },
+ {
+  "id": "drip",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhỏ giọt, rỏ giọt; sự nhỏ giọt; ống truyền dịch",
+  "coll": [
+   "drip onto the floor",
+   "an IV drip",
+   "drip coffee",
+   "a slow drip"
+  ]
+ },
+ {
+  "id": "emblem",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "biểu tượng, huy hiệu",
+  "coll": [
+   "a national emblem",
+   "the club emblem",
+   "an emblem of hope",
+   "a royal emblem"
+  ]
+ },
+ {
+  "id": "mosaic",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "tranh khảm, tranh ghép mảnh; bức tranh chắp vá",
+  "coll": [
+   "a mosaic floor",
+   "Roman mosaics",
+   "mosaic tiles",
+   "a mosaic of cultures"
+  ]
+ },
+ {
+  "id": "installment",
+  "pos": [
+   "n"
+  ],
+  "vi": "kỳ trả góp; phần, tập (của loạt bài)",
+  "coll": [
+   "pay in installments",
+   "monthly installments",
+   "the latest installment",
+   "the first installment"
+  ]
+ },
+ {
+  "id": "courtroom",
+  "pos": [
+   "n"
+  ],
+  "vi": "phòng xử án",
+  "coll": [
+   "in the courtroom",
+   "a packed courtroom",
+   "courtroom drama",
+   "leave the courtroom"
+  ]
+ },
+ {
+  "id": "announcer",
+  "pos": [
+   "n"
+  ],
+  "vi": "phát thanh viên, người thông báo",
+  "coll": [
+   "a radio announcer",
+   "a TV announcer",
+   "a sports announcer",
+   "the station announcer"
+  ]
+ },
+ {
+  "id": "telecom",
+  "pos": [
+   "n"
+  ],
+  "vi": "viễn thông; công ty viễn thông",
+  "coll": [
+   "a telecom company",
+   "the telecom sector",
+   "telecom services",
+   "telecom regulation"
+  ]
+ },
+ {
+  "id": "cloak",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "áo choàng không tay; che giấu, ngụy trang",
+  "coll": [
+   "a hooded cloak",
+   "under the cloak of darkness",
+   "cloak and dagger",
+   "cloak the truth"
+  ]
+ },
+ {
+  "id": "wary",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "dè chừng, cảnh giác",
+  "coll": [
+   "wary of strangers",
+   "be wary about",
+   "remain wary",
+   "a wary eye"
+  ]
+ },
+ {
+  "id": "victorious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chiến thắng, thắng lợi",
+  "coll": [
+   "emerge victorious",
+   "a victorious army",
+   "the victorious team",
+   "victorious in battle"
+  ]
+ },
+ {
+  "id": "immensely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vô cùng, cực kỳ",
+  "coll": [
+   "immensely popular",
+   "immensely powerful",
+   "enjoy immensely",
+   "immensely valuable"
+  ]
+ },
+ {
+  "id": "intuitive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trực quan, dễ hiểu; theo trực giác",
+  "coll": [
+   "an intuitive interface",
+   "intuitive design",
+   "an intuitive understanding",
+   "intuitive to use"
+  ]
+ },
+ {
+  "id": "orchard",
+  "pos": [
+   "n"
+  ],
+  "vi": "vườn cây ăn quả",
+  "coll": [
+   "an apple orchard",
+   "a fruit orchard",
+   "plant an orchard",
+   "a cherry orchard"
+  ]
+ },
+ {
+  "id": "indicative",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cho thấy, biểu thị; thức trần thuật (ngữ pháp)",
+  "coll": [
+   "indicative of a problem",
+   "be indicative of",
+   "an indicative price",
+   "the indicative mood"
+  ]
+ },
+ {
+  "id": "affirmative",
+  "pos": [
+   "adj",
+   "n",
+   "intj"
+  ],
+  "vi": "khẳng định, xác nhận; câu trả lời có; đúng vậy!",
+  "coll": [
+   "an affirmative answer",
+   "affirmative action",
+   "reply in the affirmative",
+   "that's affirmative"
+  ]
+ },
+ {
+  "id": "dwell",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sống, cư ngụ; nghĩ mãi về; khoảng dừng (kỹ thuật)",
+  "coll": [
+   "dwell on the past",
+   "dwell in the city",
+   "dwell upon details",
+   "dwell among them"
+  ]
+ },
+ {
+  "id": "venom",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "nọc độc (rắn, ong); lời lẽ độc địa",
+  "coll": [
+   "snake venom",
+   "spit venom",
+   "full of venom",
+   "venom glands"
+  ]
+ },
+ {
+  "id": "cigar",
+  "pos": [
+   "n"
+  ],
+  "vi": "điếu xì gà",
+  "coll": [
+   "smoke a cigar",
+   "a Cuban cigar",
+   "light a cigar",
+   "a cigar box"
+  ]
+ },
+ {
+  "id": "libertarian",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người theo chủ nghĩa tự do; thuộc phái tự do cá nhân",
+  "coll": [
+   "libertarian views",
+   "a libertarian party",
+   "libertarian philosophy",
+   "a self-described libertarian"
+  ]
+ },
+ {
+  "id": "flux",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sự biến động liên tục; dòng chảy, thông lượng; chất trợ hàn",
+  "coll": [
+   "in a state of flux",
+   "constant flux",
+   "magnetic flux",
+   "soldering flux"
+  ]
+ },
+ {
+  "id": "archaeology",
+  "pos": [
+   "n"
+  ],
+  "vi": "khảo cổ học",
+  "coll": [
+   "study archaeology",
+   "underwater archaeology",
+   "an archaeology department",
+   "industrial archaeology"
+  ]
+ },
+ {
+  "id": "purge",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "thanh trừng; tẩy sạch, loại bỏ; cuộc thanh trừng",
+  "coll": [
+   "a political purge",
+   "purge the party",
+   "purge the system",
+   "a mass purge"
+  ]
+ },
+ {
+  "id": "autopsy",
+  "pos": [
+   "v"
+  ],
+  "vi": "khám nghiệm tử thi; mổ khám nghiệm",
+  "coll": [
+   "perform an autopsy",
+   "an autopsy report",
+   "the autopsy revealed",
+   "order an autopsy"
+  ]
+ },
+ {
+  "id": "defective",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "bị lỗi, hỏng hóc; khiếm khuyết",
+  "coll": [
+   "a defective product",
+   "defective goods",
+   "defective parts",
+   "a defective gene"
+  ]
+ },
+ {
+  "id": "blockade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự phong tỏa; phong tỏa, bao vây",
+  "coll": [
+   "a naval blockade",
+   "impose a blockade",
+   "lift the blockade",
+   "an economic blockade"
+  ]
+ },
+ {
+  "id": "brightness",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ sáng; sự thông minh sáng dạ",
+  "coll": [
+   "adjust the brightness",
+   "screen brightness",
+   "brightness and contrast",
+   "the brightness of the stars"
+  ]
+ },
+ {
+  "id": "fiery",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rực lửa, nóng rực; nóng nảy, sôi nổi",
+  "coll": [
+   "a fiery temper",
+   "a fiery speech",
+   "fiery red",
+   "a fiery debate"
+  ]
+ },
+ {
+  "id": "pathology",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh lý học; diễn tiến bệnh lý",
+  "coll": [
+   "a pathology report",
+   "forensic pathology",
+   "the pathology of the disease",
+   "a pathology lab"
+  ]
+ },
+ {
+  "id": "deportation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trục xuất",
+  "coll": [
+   "face deportation",
+   "a deportation order",
+   "mass deportation",
+   "deportation proceedings"
+  ]
+ },
+ {
+  "id": "inauguration",
+  "pos": [
+   "n"
+  ],
+  "vi": "lễ nhậm chức; lễ khánh thành",
+  "coll": [
+   "the inauguration ceremony",
+   "a presidential inauguration",
+   "Inauguration Day",
+   "the inauguration of the bridge"
+  ]
+ },
+ {
+  "id": "dungeon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngục tối dưới hầm",
+  "coll": [
+   "a castle dungeon",
+   "thrown into the dungeon",
+   "a dark dungeon",
+   "a dungeon crawler"
+  ]
+ },
+ {
+  "id": "secrecy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bí mật, giữ kín",
+  "coll": [
+   "in secrecy",
+   "a veil of secrecy",
+   "maintain secrecy",
+   "sworn to secrecy"
+  ]
+ },
+ {
+  "id": "relocation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự di dời, chuyển chỗ",
+  "coll": [
+   "job relocation",
+   "relocation costs",
+   "a relocation package",
+   "forced relocation"
+  ]
+ },
+ {
+  "id": "nominate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "đề cử, tiến cử; chỉ định",
+  "coll": [
+   "nominate a candidate",
+   "nominated for an award",
+   "nominate him as chairman",
+   "nominate a successor"
+  ]
+ },
+ {
+  "id": "intercept",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chặn bắt, đánh chặn; cắt bóng; điểm chặn",
+  "coll": [
+   "intercept a message",
+   "intercept the ball",
+   "intercept a missile",
+   "intercept communications"
+  ]
+ },
+ {
+  "id": "majestic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "uy nghi, tráng lệ",
+  "coll": [
+   "a majestic view",
+   "majestic mountains",
+   "a majestic building",
+   "look majestic"
+  ]
+ },
+ {
+  "id": "overdose",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dùng thuốc quá liều; liều quá mức",
+  "coll": [
+   "a drug overdose",
+   "die of an overdose",
+   "overdose on painkillers",
+   "an accidental overdose"
+  ]
+ }
+]

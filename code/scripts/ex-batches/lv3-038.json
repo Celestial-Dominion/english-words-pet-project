@@ -1,0 +1,802 @@
+[
+ {
+  "id": "devoid",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "hoàn toàn không có; thiếu vắng",
+  "coll": [
+   "devoid of meaning",
+   "devoid of emotion",
+   "devoid of life",
+   "completely devoid of"
+  ]
+ },
+ {
+  "id": "brute",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "kẻ vũ phu, con thú; thô bạo, thuần sức mạnh",
+  "coll": [
+   "brute force",
+   "a brute strength",
+   "a big brute",
+   "by brute force"
+  ]
+ },
+ {
+  "id": "muster",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tập hợp, huy động; cuộc điểm danh",
+  "coll": [
+   "muster the courage",
+   "muster support",
+   "pass muster",
+   "muster the troops"
+  ]
+ },
+ {
+  "id": "camouflage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự ngụy trang; ngụy trang",
+  "coll": [
+   "military camouflage",
+   "camouflage clothing",
+   "natural camouflage",
+   "camouflage the truth"
+  ]
+ },
+ {
+  "id": "therein",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trong đó; ở chỗ đó",
+  "coll": [
+   "therein lies the problem",
+   "contained therein",
+   "described therein",
+   "the rights therein"
+  ]
+ },
+ {
+  "id": "physicist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà vật lý học",
+  "coll": [
+   "a theoretical physicist",
+   "a nuclear physicist",
+   "a particle physicist",
+   "a leading physicist"
+  ]
+ },
+ {
+  "id": "stronghold",
+  "pos": [
+   "n"
+  ],
+  "vi": "thành trì; căn cứ vững chắc",
+  "coll": [
+   "a party stronghold",
+   "a rebel stronghold",
+   "a traditional stronghold",
+   "the last stronghold"
+  ]
+ },
+ {
+  "id": "childbirth",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc sinh nở; sự sinh con",
+  "coll": [
+   "die in childbirth",
+   "natural childbirth",
+   "childbirth complications",
+   "prepare for childbirth"
+  ]
+ },
+ {
+  "id": "chiefly",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "chủ yếu; phần lớn",
+  "coll": [
+   "chiefly because",
+   "chiefly concerned with",
+   "chiefly responsible",
+   "used chiefly in"
+  ]
+ },
+ {
+  "id": "voodoo",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tà thuật voodoo; bùa phép",
+  "coll": [
+   "a voodoo doll",
+   "practise voodoo",
+   "voodoo economics",
+   "voodoo magic"
+  ]
+ },
+ {
+  "id": "reopen",
+  "pos": [
+   "v"
+  ],
+  "vi": "mở lại; tái khởi động",
+  "coll": [
+   "reopen the case",
+   "reopen the border",
+   "reopen negotiations",
+   "reopen a wound"
+  ]
+ },
+ {
+  "id": "facade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mặt tiền; vẻ bề ngoài giả tạo",
+  "coll": [
+   "a glass facade",
+   "keep up a facade",
+   "the building's facade",
+   "a facade of normality"
+  ]
+ },
+ {
+  "id": "unnoticed",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không bị chú ý; lọt qua mắt",
+  "coll": [
+   "go unnoticed",
+   "pass unnoticed",
+   "slip by unnoticed",
+   "largely unnoticed"
+  ]
+ },
+ {
+  "id": "plurality",
+  "pos": [
+   "n"
+  ],
+  "vi": "số phiếu cao nhất (chưa quá bán); sự đa dạng",
+  "coll": [
+   "win a plurality",
+   "a plurality of votes",
+   "a plurality of views",
+   "a plurality system"
+  ]
+ },
+ {
+  "id": "witchcraft",
+  "pos": [
+   "n"
+  ],
+  "vi": "phù thủy, ma thuật; nghề phù thủy",
+  "coll": [
+   "practise witchcraft",
+   "accused of witchcraft",
+   "black witchcraft",
+   "witchcraft trials"
+  ]
+ },
+ {
+  "id": "untouched",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nguyên vẹn; chưa đụng tới, không bị ảnh hưởng",
+  "coll": [
+   "remain untouched",
+   "leave the food untouched",
+   "untouched by war",
+   "an untouched wilderness"
+  ]
+ },
+ {
+  "id": "acrylic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "acrylic; nhựa acrylic, sơn acrylic",
+  "coll": [
+   "acrylic paint",
+   "an acrylic sheet",
+   "acrylic nails",
+   "acrylic fibre"
+  ]
+ },
+ {
+  "id": "phosphate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phốt phát; muối photphat",
+  "coll": [
+   "phosphate fertilizer",
+   "calcium phosphate",
+   "phosphate levels",
+   "a phosphate rock"
+  ]
+ },
+ {
+  "id": "triangular",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hình tam giác; ba bên",
+  "coll": [
+   "a triangular shape",
+   "a triangular relationship",
+   "triangular trade",
+   "triangular in section"
+  ]
+ },
+ {
+  "id": "julio",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồng julio (tiền cổ Ý)",
+  "coll": [
+   "a silver julio",
+   "a papal julio",
+   "an old julio coin"
+  ]
+ },
+ {
+  "id": "bigotry",
+  "pos": [
+   "n"
+  ],
+  "vi": "thói cố chấp mù quáng; sự kỳ thị",
+  "coll": [
+   "racial bigotry",
+   "religious bigotry",
+   "fight bigotry",
+   "sheer bigotry"
+  ]
+ },
+ {
+  "id": "trooper",
+  "pos": [
+   "v"
+  ],
+  "vi": "cảnh sát bang, lính kỵ binh; người bền bỉ",
+  "coll": [
+   "a state trooper",
+   "a real trooper",
+   "swear like a trooper",
+   "a storm trooper"
+  ]
+ },
+ {
+  "id": "misguided",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sai lầm, lệch lạc; bị dẫn dắt sai",
+  "coll": [
+   "a misguided attempt",
+   "misguided loyalty",
+   "a misguided belief",
+   "well-meaning but misguided"
+  ]
+ },
+ {
+  "id": "diva",
+  "pos": [
+   "n"
+  ],
+  "vi": "nữ danh ca; người đỏng đảnh khó chiều",
+  "coll": [
+   "a pop diva",
+   "an opera diva",
+   "act like a diva",
+   "a diva attitude"
+  ]
+ },
+ {
+  "id": "continuum",
+  "pos": [
+   "n"
+  ],
+  "vi": "chuỗi liên tục; dải liên tục",
+  "coll": [
+   "a space-time continuum",
+   "along a continuum",
+   "a continuum of care",
+   "a broad continuum"
+  ]
+ },
+ {
+  "id": "replication",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhân bản, sao chép; sự lặp lại thí nghiệm",
+  "coll": [
+   "DNA replication",
+   "data replication",
+   "viral replication",
+   "replication of results"
+  ]
+ },
+ {
+  "id": "livelihood",
+  "pos": [
+   "n"
+  ],
+  "vi": "kế sinh nhai; sinh kế",
+  "coll": [
+   "earn a livelihood",
+   "lose their livelihood",
+   "a source of livelihood",
+   "threaten livelihoods"
+  ]
+ },
+ {
+  "id": "sediment",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trầm tích; cặn lắng",
+  "coll": [
+   "river sediment",
+   "sediment deposits",
+   "a layer of sediment",
+   "sediment builds up"
+  ]
+ },
+ {
+  "id": "encrypted",
+  "pos": [
+   "adj"
+  ],
+  "vi": "được mã hóa; đã mã hóa",
+  "coll": [
+   "encrypted messages",
+   "end-to-end encrypted",
+   "an encrypted connection",
+   "encrypted data"
+  ]
+ },
+ {
+  "id": "disparity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chênh lệch; sự bất bình đẳng",
+  "coll": [
+   "income disparity",
+   "a wide disparity",
+   "racial disparity",
+   "the disparity between"
+  ]
+ },
+ {
+  "id": "ascent",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đi lên; cuộc leo dốc; sự thăng tiến",
+  "coll": [
+   "a steep ascent",
+   "the ascent of Everest",
+   "a rapid ascent",
+   "his ascent to power"
+  ]
+ },
+ {
+  "id": "footwear",
+  "pos": [
+   "n"
+  ],
+  "vi": "giày dép",
+  "coll": [
+   "comfortable footwear",
+   "protective footwear",
+   "a footwear brand",
+   "sports footwear"
+  ]
+ },
+ {
+  "id": "farmhouse",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà nông trại; nhà ở trang trại",
+  "coll": [
+   "an old farmhouse",
+   "a farmhouse kitchen",
+   "a converted farmhouse",
+   "farmhouse cheese"
+  ]
+ },
+ {
+  "id": "inverted",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đảo ngược; lộn ngược",
+  "coll": [
+   "inverted commas",
+   "an inverted pyramid",
+   "inverted order",
+   "hang inverted"
+  ]
+ },
+ {
+  "id": "cosplay",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hóa trang thành nhân vật; cosplay",
+  "coll": [
+   "a cosplay costume",
+   "cosplay as a character",
+   "a cosplay contest",
+   "anime cosplay"
+  ]
+ },
+ {
+  "id": "unbelievably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "không thể tin nổi; cực kỳ",
+  "coll": [
+   "unbelievably good",
+   "unbelievably difficult",
+   "unbelievably fast",
+   "unbelievably lucky"
+  ]
+ },
+ {
+  "id": "redesign",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thiết kế lại; bản thiết kế mới",
+  "coll": [
+   "a complete redesign",
+   "redesign the website",
+   "a major redesign",
+   "a product redesign"
+  ]
+ },
+ {
+  "id": "conservatism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa bảo thủ; tính thận trọng",
+  "coll": [
+   "political conservatism",
+   "social conservatism",
+   "fiscal conservatism",
+   "modern conservatism"
+  ]
+ },
+ {
+  "id": "dealership",
+  "pos": [
+   "n"
+  ],
+  "vi": "đại lý bán xe; quyền phân phối",
+  "coll": [
+   "a car dealership",
+   "a local dealership",
+   "a Toyota dealership",
+   "open a dealership"
+  ]
+ },
+ {
+  "id": "headquartered",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đặt trụ sở tại; có trụ sở chính ở",
+  "coll": [
+   "headquartered in London",
+   "headquartered in New York",
+   "be headquartered abroad",
+   "a company headquartered there"
+  ]
+ },
+ {
+  "id": "miscellaneous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "linh tinh; hỗn hợp, tạp",
+  "coll": [
+   "miscellaneous items",
+   "miscellaneous expenses",
+   "a miscellaneous collection",
+   "miscellaneous goods"
+  ]
+ },
+ {
+  "id": "insightful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sâu sắc; thấu đáo",
+  "coll": [
+   "an insightful comment",
+   "a highly insightful analysis",
+   "insightful observations",
+   "deeply insightful"
+  ]
+ },
+ {
+  "id": "depict",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "khắc họa; mô tả, thể hiện",
+  "coll": [
+   "depict a scene",
+   "vividly depict",
+   "depict as a hero",
+   "the painting depicts"
+  ]
+ },
+ {
+  "id": "indefinite",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vô thời hạn; không xác định",
+  "coll": [
+   "an indefinite period",
+   "an indefinite strike",
+   "the indefinite article",
+   "postponed indefinitely"
+  ]
+ },
+ {
+  "id": "vitality",
+  "pos": [
+   "n"
+  ],
+  "vi": "sức sống; sinh lực",
+  "coll": [
+   "full of vitality",
+   "economic vitality",
+   "restore vitality",
+   "youthful vitality"
+  ]
+ },
+ {
+  "id": "bouquet",
+  "pos": [
+   "n"
+  ],
+  "vi": "bó hoa; hương rượu vang",
+  "coll": [
+   "a bridal bouquet",
+   "a bouquet of roses",
+   "throw the bouquet",
+   "a rich bouquet"
+  ]
+ },
+ {
+  "id": "spacious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rộng rãi; thoáng đãng",
+  "coll": [
+   "a spacious room",
+   "a spacious apartment",
+   "light and spacious",
+   "a spacious interior"
+  ]
+ },
+ {
+  "id": "battered",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tơi tả, sứt sẹo; bị đánh đập; tẩm bột chiên",
+  "coll": [
+   "a battered old car",
+   "a battered woman",
+   "battered fish",
+   "battered and bruised"
+  ]
+ },
+ {
+  "id": "substantive",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thực chất, cốt lõi; đáng kể",
+  "coll": [
+   "substantive changes",
+   "a substantive issue",
+   "substantive discussions",
+   "substantive evidence"
+  ]
+ },
+ {
+  "id": "morphology",
+  "pos": [
+   "n"
+  ],
+  "vi": "hình thái học; hình thái cấu trúc",
+  "coll": [
+   "plant morphology",
+   "word morphology",
+   "the morphology of cells",
+   "morphology and syntax"
+  ]
+ },
+ {
+  "id": "malt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mạch nha; rượu mạch nha",
+  "coll": [
+   "single malt whisky",
+   "malt vinegar",
+   "malt extract",
+   "a malted milkshake"
+  ]
+ },
+ {
+  "id": "filth",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự dơ bẩn; thứ tục tĩu",
+  "coll": [
+   "covered in filth",
+   "talk filth",
+   "layers of filth",
+   "wallow in filth"
+  ]
+ },
+ {
+  "id": "cad",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ đểu cáng (cũ); gã tệ bạc với phụ nữ",
+  "coll": [
+   "an absolute cad",
+   "a bounder and a cad",
+   "behave like a cad",
+   "a charming cad"
+  ]
+ },
+ {
+  "id": "seeker",
+  "pos": [
+   "n"
+  ],
+  "vi": "người tìm kiếm; người theo đuổi",
+  "coll": [
+   "an asylum seeker",
+   "a job seeker",
+   "a truth seeker",
+   "a thrill seeker"
+  ]
+ },
+ {
+  "id": "parity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ngang bằng; tính chẵn lẻ",
+  "coll": [
+   "gender parity",
+   "achieve parity",
+   "parity with",
+   "a parity bit"
+  ]
+ },
+ {
+  "id": "awfully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cực kỳ, rất; một cách tệ hại",
+  "coll": [
+   "awfully nice",
+   "awfully sorry",
+   "awfully quiet",
+   "awfully expensive"
+  ]
+ },
+ {
+  "id": "expulsion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trục xuất; sự đuổi học",
+  "coll": [
+   "face expulsion",
+   "the expulsion of diplomats",
+   "school expulsion",
+   "threatened with expulsion"
+  ]
+ },
+ {
+  "id": "ledge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gờ hẹp; mép, bệ nhô ra",
+  "coll": [
+   "a window ledge",
+   "a narrow ledge",
+   "stand on the ledge",
+   "a rocky ledge"
+  ]
+ },
+ {
+  "id": "unleash",
+  "pos": [
+   "v"
+  ],
+  "vi": "giải phóng, tung ra; thả cho tự do",
+  "coll": [
+   "unleash your potential",
+   "unleash a wave of",
+   "unleash chaos",
+   "unleash an attack"
+  ]
+ },
+ {
+  "id": "proactive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chủ động; đi trước đón đầu",
+  "coll": [
+   "a proactive approach",
+   "be proactive about",
+   "proactive measures",
+   "proactive management"
+  ]
+ }
+]

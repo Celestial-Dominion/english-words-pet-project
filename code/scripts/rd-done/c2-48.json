@@ -1,0 +1,150 @@
+[
+ {
+  "id": "wiki-php",
+  "title_vi": "PHP",
+  "vi": [
+   "PHP (Bộ xử lý siêu văn bản; được sử dụng để viết tắt của Trang chủ cá nhân) là ngôn ngữ kịch bản giúp mọi người làm cho các trang web trở nên tương tác hơn bằng cách cho phép họ thực hiện những việc không thể thực hiện được bằng các công nghệ chạy trên máy tính của khách truy cập.",
+   "Mã PHP được chạy trên máy chủ web (máy tính của trang web).",
+   "Nó được gọi là bộ tiền xử lý vì nó xây dựng thông tin trước khi gửi đến máy tính truy cập trang web.",
+   "Một trang web được lập trình bằng PHP có thể có các trang được bảo vệ bằng mật khẩu.",
+   "Một trang web không có PHP hoặc các công nghệ tương tự không thể làm được điều này vì khách truy cập có thể tìm cách truy cập trang.",
+   "Ví dụ: bằng cách tìm nơi lưu trữ mật khẩu.",
+   "Các phần mở rộng tệp PHP tiêu chuẩn là (nhưng không chỉ): .php, .php3 và .phtml, nhưng máy chủ web có thể được thiết lập để sử dụng bất kỳ phần mở rộng nào.",
+   "Cấu trúc của nó bị ảnh hưởng bởi nhiều ngôn ngữ như C, Perl, Java, C++ và thậm chí cả Python.",
+   "Nó được Tổ chức Phần mềm Tự do coi là phần mềm miễn phí.",
+   "Hiện nay, có nhiều framework PHP, chẳng hạn như Laravel, Symfony, CodeIgniter và Phalcon, cung cấp cho các nhà phát triển một cách tiếp cận có cấu trúc hơn thông qua các thành phần dựng sẵn và khả năng hợp lý hóa quy trình.",
+   "Laravel hiện là framework PHP duy nhất được sử dụng để phát triển hơn 1.723.068 trang web trên toàn cầu."
+  ]
+ },
+ {
+  "id": "wiki-mophun",
+  "title_vi": "Mophun",
+  "vi": [
+   "Mophun là một nền tảng điện toán được sử dụng để chạy mã di động trên các thiết bị nhúng và di động.",
+   "Một số điện thoại và thiết bị khác hỗ trợ Mophun.",
+   "Điện thoại Sony Ericsson, đặc biệt là Sony Ericsson T300 và Sony Ericsson T610, là những thiết bị chạy Mophun nổi tiếng nhất.",
+   "Nó được thiết kế bởi Synergenix Interactive.",
+   "Hầu hết các chương trình Mophun có kích thước khoảng 50–150 kB.",
+   "Các chương trình dành cho Mophun được viết bằng trình biên dịch mã bằng C và C++ bằng cách sử dụng API mở và được ghi chép đầy đủ.",
+   "Một phiên bản đặc biệt của GCC được sử dụng để biên dịch chương trình.",
+   "Mặc dù API rất dễ sử dụng đối với các lập trình viên nhưng Mophun vẫn chưa phổ biến lắm.",
+   "Lý do chính cho điều này có vẻ là do quy trình phê duyệt nghiêm ngặt - chương trình đã biên dịch chỉ có thể chạy dưới trình mô phỏng và Synergenix phải phê duyệt chương trình để có thể sử dụng chương trình trên thiết bị di động.",
+   "Chương trình đã được phê duyệt chỉ có thể được chạy dưới một số IMEI.",
+   "Chỉ những nhà phát triển được Synergix đăng ký và phê duyệt mới có thể sử dụng tính năng tự chứng nhận (và thông qua máy chủ Synergenix) và họ chỉ được phép có một số IMEI.",
+   "Nhà phát triển phải ký hợp đồng bán hàng với Synergenix, sau đó chia sẻ và phê duyệt cho người dùng cuối để chương trình có thể được chia sẻ.",
+   "Quá trình như vậy không cho phép tạo các chương trình miễn phí cho Mophun và cũng không khuyến khích nhiều nhà phát triển phát triển chương trình cho Mophun."
+  ]
+ },
+ {
+  "id": "news-sixteen-additional-suspects-revealed-in-",
+  "title_vi": "Thêm 16 nghi phạm được tiết lộ trong vụ sâu Zotob",
+  "vi": [
+   "Thứ Hai, ngày 29 tháng 8 năm 2005, các nhà điều tra Thổ Nhĩ Kỳ đã kết nối thêm 16 người nữa với sự tàn phá của sâu Internet Zotob, loại sâu này đã gây ảnh hưởng xấu đến máy tính trong hai tuần qua.",
+   "Những người này được tìm thấy bằng cách phân tích thông tin liên lạc giữa họ và hai hacker bị bắt bốn ngày trước.",
+   "Bằng cách phân tích mã của sâu Zotob, cũng như các sản phẩm phái sinh của nó, các quan chức thực thi pháp luật đã phát hiện ra rằng ba băng đảng internet có liên quan đến việc tạo ra sâu này.",
+   "Farid Essebar, hay còn gọi là 'Diab10', chàng trai 18 tuổi đã viết sâu này, cũng như những người khác, như Mytob, là thành viên của băng nhóm '0x90-Team'.",
+   "Các băng nhóm khác, 'BlackCarder' và 'MetalHit', đã viết một số biến thể của Zotob và Mytob.",
+   "Người còn lại trong số hai người đàn ông bị bắt cách đây 4 ngày là Attila Ekici, 21 tuổi.",
+   "Các quan chức Thổ Nhĩ Kỳ nói rằng ông đã được Essebar trả tiền để phân phối Zotob.",
+   "Kiểu quan hệ tài chính này xác nhận giả thuyết rằng việc viết virus đã trở thành một công việc kiếm lời."
+  ]
+ },
+ {
+  "id": "news-17-million-accounts-hashed-passwords-ema",
+  "title_vi": "Zomato cho biết mật khẩu băm của 17 triệu tài khoản, email bị đánh cắp",
+  "vi": [
+   "Thứ sáu, ngày 19 tháng 5 năm 2017 Hôm qua, Zomato, một công ty đặt hàng thực phẩm và tìm kiếm nhà hàng, đã thông báo vi phạm an ninh của hơn 17 triệu tài khoản, thông qua blog chính thức của họ.",
+   "Hackread.com đưa tin, một hacker hoạt động dưới bí danh nclay đã tải lên bằng chứng để chứng minh rằng họ có dữ liệu bị đánh cắp - mật khẩu và email đã băm - để bán.",
+   "Zomato sau đó thông báo rằng họ đã liên hệ với hacker, người đã yêu cầu Zomato tổ chức một chương trình thưởng lỗi.",
+   "Công ty đặt hàng thực phẩm, với 120 triệu người dùng hàng tháng, cho biết thông tin thanh toán của người dùng không được xác định cùng với dữ liệu này và không bị rò rỉ.",
+   "Zomato cho biết họ sử dụng Tiêu chuẩn bảo mật dữ liệu PCI.",
+   "Như một biện pháp bảo mật, tất cả mật khẩu của các tài khoản Zomato liên quan đã được đặt lại và tất cả các tài khoản đều bị buộc đăng xuất khỏi ứng dụng và trang web.",
+   "Công ty cho biết chỉ có mật khẩu băm mới bị xâm phạm.",
+   "Mật khẩu băm được mã hóa và, theo Zomato, mỗi mật khẩu đều có một loại \"muối\" khác nhau, vì việc tạo muối mật mã được thực hiện trước khi băm mật khẩu ban đầu.",
+   "\"Muối\" là một tập hợp ký tự ngẫu nhiên được thêm vào trước khi mã hóa để khiến việc giải mã nhằm lấy mã khóa gốc trở nên khó khăn hơn.",
+   "Bản thân mật khẩu băm không thể được sử dụng để truy cập vào tài khoản.",
+   "Trong bài đăng trên blog trước khi liên hệ với hacker, nói rằng “vi phạm an ninh nội bộ (con người)”, Zomato cho rằng điều này có thể xảy ra sau khi tài khoản phát triển của một công nhân bị chiếm đoạt.",
+   "Họ cho biết, sau khi liên hệ với hacker và hứa hẹn về chương trình tiền thưởng lỗi trên Hackerone, hacker đã đồng ý và xóa dữ liệu bị đánh cắp được rao bán trên web đen.",
+   "Zomato cho biết họ mong muốn được hợp tác chặt chẽ với cộng đồng hacker có đạo đức về các lỗ hổng bảo mật."
+  ]
+ },
+ {
+  "id": "wiki-for-loop",
+  "title_vi": "Vòng lặp For",
+  "vi": [
+   "Trong khoa học máy tính, vòng lặp for (for-loop) được sử dụng để chạy lặp đi lặp lại các dòng mã được chỉ định.",
+   "Trong các ngôn ngữ khác nhau, có những từ khóa khác nhau để chỉ định câu lệnh này—các cách để xác định vòng lặp for—nhưng tất cả chúng đều thực hiện cùng một nhiệm vụ.",
+   "Hầu hết các ngôn ngữ đều sử dụng “for” hoặc “do” làm từ khóa.",
+   "Vòng lặp for có hai phần: tiêu đề và nội dung mã.",
+   "Phần thân bao gồm một tập hợp các hướng dẫn (dòng mã) chạy cho mỗi lần lặp lại vòng lặp.",
+   "Tiêu đề thường khai báo số vòng lặp cần hoàn thành, thường được biểu thị bằng bộ đếm vòng lặp hoặc biến vòng lặp.",
+   "Vòng lặp for thường được sử dụng khi biết số lần lặp lại.",
+   "Vòng lặp for tương tự như “vòng lặp while”, nhưng thường có số lần lặp lại đã biết trước.",
+   "Ví dụ về vòng lặp for trong Python: Vòng lặp for này in ra \"Xin chào thế giới!\" mười lần.",
+   "Tên vòng lặp for xuất phát từ từ for trong tiếng Anh, là bản dịch trực tiếp của für tiếng Đức trước đó, được sử dụng bởi Heinz Rutishauser, người cũng đã giúp định nghĩa ALGOL 58 và 60.",
+   "Vòng lặp for có sẵn trong hầu hết các ngôn ngữ lập trình phổ biến.",
+   "Mặc dù các vòng lặp for trong các ngôn ngữ khác nhau đều thực hiện cùng một nhiệm vụ, nhưng có sự khác biệt về cách mỗi ngôn ngữ lập trình xử lý các vòng lặp for."
+  ]
+ },
+ {
+  "id": "news-google-introduces-google-buzz",
+  "title_vi": "Google giới thiệu Google Buzz",
+  "vi": [
+   "Thứ tư, ngày 10 tháng 2 năm 2010 Vào thứ ba, Google đã giới thiệu một dịch vụ mới có tên Google Buzz, một tính năng mới để chia sẻ thông tin cập nhật, ảnh và video.",
+   "Theo comScore, dịch vụ này được tích hợp vào Gmail và hiện đã có 176 triệu người dùng.",
+   "Các tính năng của Buzz sẽ có sẵn trên điện thoại chạy hệ điều hành Android cũng như iPhone, cho phép cập nhật theo thời gian thực.",
+   "Google hy vọng sẽ tích hợp các trang web được truy cập thường xuyên như Picasa, Flickr, Google Reader, Twitter và YouTube, để người dùng có thể kết nối với mọi người thông qua một cửa sổ trình duyệt duy nhất.",
+   "Buzz có một nhóm bạn cài sẵn được chọn tự động bao gồm những người mà người dùng liên lạc thường xuyên nhất qua Gmail và Google Talk.",
+   "Google Buzz sẽ có sẵn dưới dạng một ứng dụng Web di động, cho phép người dùng cung cấp các cập nhật trạng thái bằng giọng nói và gắn thẻ địa lý cho các bài đăng của họ.",
+   "Các cập nhật dựa trên vị trí có thể được đọc khi một người đang sử dụng Google Mobile Maps.",
+   "Bài đăng của những người dùng khác có thể được phân loại theo vị trí.",
+   "Các giám đốc điều hành của Google cho biết Buzz sẽ giúp giải quyết vấn đề quá tải thông tin vì Google sẽ áp dụng các thuật toán của mình để giúp mọi người tìm thấy thông tin phù hợp nhất với họ.",
+   "Facebook hiện có hơn 350 triệu người dùng hoạt động trên toàn thế giới.",
+   "Google đã có một trang blog vi mô Jaiku, có thể so sánh với Twitter về mặt định dạng.",
+   "Orkut cũng là một trong những dự án kinh doanh trước đây của Google trong lĩnh vực mạng xã hội.",
+   "Google Buzz sẽ tìm cách cạnh tranh với các trang web như vậy."
+  ]
+ },
+ {
+  "id": "news-russian-wikipedia-a-top-internet-communi",
+  "title_vi": "Wikipedia tiếng Nga \"một cộng đồng internet hàng đầu\"",
+  "vi": [
+   "Thứ sáu, ngày 23 tháng 5 năm 2008 Phiên bản tiếng Nga của Wikipedia gần đây đã được mệnh danh là \"cộng đồng Internet hàng đầu\" trong năm qua bởi một hiệp hội chuyên nghiệp gồm các nhân vật chính trong bối cảnh Internet Nga (Runet), \"Ezhe\" (ЕЖЕ).",
+   "Ezhe (\"еже\") có nghĩa là \"mọi\" trong tiếng Nga, ám chỉ các trang web được cập nhật thường xuyên; Linh vật của Ezhe là một con nhím vì nó giống với từ \"yozh\" (\"ёж\").",
+   "Ezhe.Ru là một cộng đồng \"câu lạc bộ\" phi lợi nhuận được điều phối thông qua danh sách gửi thư nói tiếng Nga; ngày nay nó bao gồm hơn 500 thành viên - các chuyên gia CNTT, nhà báo, v.v. từ khắp nơi trên thế giới.",
+   "Nó được thành lập vào năm 1997 và duy trì một số dự án công cộng, chẳng hạn như \"giải thưởng chuyên nghiệp\" hàng năm \"ROTOR\" (giải thích chính tả cho \"Nga trực tuyến TOP\").",
+   "Nó không có thanh toán hoặc tượng nhỏ và được trao thưởng ảo.",
+   "ROTOR là Runet-khôn ngoan thường được coi là một mã thông báo thừa nhận cho một số dự án Internet tiếng Nga từ những người được gọi là \"chuyên gia Runet\", những người sống trong câu lạc bộ Ezhe.",
+   "Cuộc thi thường được đưa tin trên các phương tiện thông tin đại chúng trực tuyến của Nga và trên các blog.",
+   "Có khoảng 30 đề cử vinh danh các trang web khác nhau của Nga hoặc các hoạt động liên quan đến Runet ở các cấp độ khác nhau.",
+   "Các thành viên Ezhe bỏ phiếu trong 2 chuyến tham quan và trong hầu hết ROTOR-2008 đương đại (kéo dài từ ngày 12 đến ngày 22 tháng 5), Wikipedia tiếng Nga đã giành được vị trí số 1 trong đề cử \"Cộng đồng Internet của năm\" (năm trước đó đứng thứ 2).",
+   "Nó cũng giành được vị trí thứ hai trong đề cử “Trang web khoa học và giáo dục của năm” (lần thứ 3).",
+   "Năm 2006 và 2007, Wikipedia tiếng Nga cũng đứng đầu hạng mục \"Khoa học và Giáo dục\" trong Giải thưởng Runet.",
+   "Trong khi đó, các thành viên Wikipedia tiếng Nga gần đây đã ăn mừng việc giới thiệu phạm vi Wikipedia Top 10: Wikipedia tiếng Thụy Điển đứng ở vị trí thứ 10, và tiếng Nga đứng ở vị trí thứ 283 nghìn bài viết vào ngày 19 tháng 5 năm 2008.",
+   "Tập thể các biên tập viên của dự án đã đưa ra một thông cáo báo chí đã trở thành thông lệ mô tả sự phát triển của Wikipedia.",
+   "Các biên tập viên Nga cũng ngay lập tức bắt đầu nỗ lực tổ chức \"Tuần lễ Thụy Điển\" trong cộng đồng của họ để viết một loạt bài báo mới dành riêng cho văn hóa Thụy Điển.",
+   "Người Thụy Điển sau đó đã đáp trả bằng hành động tương tự đối với văn hóa Nga."
+  ]
+ },
+ {
+  "id": "news-authorities-search-home-of-owner-of-germ",
+  "title_vi": "Cơ quan chức năng khám xét nhà của chủ sở hữu tên miền Wikileaks của Đức",
+  "vi": [
+   "Thứ Tư, ngày 25 tháng 3 năm 2009, chính quyền Đức đã khám xét nhà của Theodor Reppe, một sinh viên 32 tuổi sở hữu tên miền \"wikileaks.de\".",
+   "Reppe có nhà ở Dresden và Jena ở Đức.",
+   "Wikileaks tự mô tả mình là một \"Wikipedia không thể kiểm duyệt để phân tích và rò rỉ tài liệu hàng loạt không thể theo dõi được.\" Báo cáo của cảnh sát mà Wikileaks có được cho biết lý do của cuộc đột kích là \"phân phối tài liệu khiêu dâm\" và \"phát hiện ra bằng chứng\".",
+   "Tuy nhiên, Wikileaks khẳng định rằng cuộc đột kích có liên quan đến việc Wikileaks lưu trữ \"danh sách kiểm duyệt\" các trang web bị chính phủ ở Úc, Đan Mạch và Thái Lan chặn.",
+   "Wikileaks gần đây nhất đã công bố một danh sách bị cáo buộc từ Cơ quan Truyền thông và Truyền thông Australia (ACMA).",
+   "Danh sách chứa hàng nghìn URL bị chặn khi các nhà cung cấp dịch vụ internet sử dụng phần mềm của chính phủ.",
+   "Hầu hết các URL bị cáo buộc là trang web khiêu dâm trẻ em và trang web cờ bạc.",
+   "Một trong những URL bị chặn trong danh sách của ACMA bao gồm một hình ảnh được lưu trữ trước đó trên Wikimedia Commons.",
+   "Wikileaks không lưu trữ và chưa bao giờ xuất bản nội dung khiêu dâm trẻ em.",
+   "Wikileaks tiếp tục cáo buộc rằng ông Reppe đã không được thông báo chính xác về các quyền của mình khi cuộc khám xét diễn ra.",
+   "Theo Wikileaks, các nhà chức trách đã yêu cầu đóng cửa tên miền của Đức và yêu cầu giao mật khẩu cho tên miền cho họ.",
+   "Tên miền 'wikileaks.de' là bản sao của 'wikileaks.org' và đã được ông Reppe đăng ký ít nhất từ tháng 11 năm 2007.",
+   "Theo báo cáo này, trang web vẫn đang hoạt động.",
+   "Reppe và Wikileaks chưa bị buộc tội nào và chưa có vụ bắt giữ nào được thực hiện.",
+   "Wikileaks cũng nói rằng Reppe đã từ chối ký bất kỳ tài liệu nào từ chính quyền \"do nó không chính xác\"."
+  ]
+ }
+]

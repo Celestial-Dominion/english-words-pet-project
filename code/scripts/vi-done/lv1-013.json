@@ -1,0 +1,402 @@
+{
+ "tent": {
+  "vi": "lều; lều trại",
+  "coll": ["pitch a tent", "put up a tent", "sleep in a tent", "tent pole"]
+ },
+ "tide": {
+  "vi": "thủy triều; dòng nước; xu thế",
+  "coll": ["high tide", "low tide", "the tide turns", "swim against the tide"]
+ },
+ "airline": {
+  "vi": "hãng hàng không",
+  "coll": ["airline ticket", "budget airline", "airline industry", "major airlines"]
+ },
+ "bust": {
+  "vi": "làm vỡ, làm hỏng; tóm, bắt giữ; phá sản",
+  "coll": ["go bust", "get busted", "drug bust", "bust a myth"]
+ },
+ "collar": {
+  "vi": "cổ áo; vòng cổ (chó, mèo); tóm cổ",
+  "coll": ["shirt collar", "dog collar", "turn up your collar", "grab him by the collar"]
+ },
+ "divorced": {
+  "vi": "đã ly hôn; tách rời khỏi",
+  "coll": ["get divorced", "divorced parents", "divorced from reality", "recently divorced"]
+ },
+ "emotionally": {
+  "vi": "về mặt cảm xúc; một cách xúc động",
+  "coll": ["emotionally attached", "emotionally involved", "emotionally drained", "emotionally unstable"]
+ },
+ "flavor": {
+  "vi": "hương vị; mùi vị; tạo hương vị cho",
+  "coll": ["strong flavor", "add flavor", "chocolate flavor", "full of flavor"]
+ },
+ "intermediate": {
+  "vi": "trung cấp; trung gian, ở giữa",
+  "coll": ["intermediate level", "intermediate course", "intermediate stage", "intermediate step"]
+ },
+ "magnificent": {
+  "vi": "tráng lệ; lộng lẫy; tuyệt vời",
+  "coll": ["magnificent view", "magnificent building", "magnificent performance", "truly magnificent"]
+ },
+ "nonetheless": {
+  "vi": "tuy nhiên; dù vậy",
+  "coll": ["but nonetheless", "nonetheless, he agreed", "important nonetheless"]
+ },
+ "shallow": {
+  "vi": "nông, cạn; hời hợt, nông cạn",
+  "coll": ["shallow water", "the shallow end", "shallow breathing", "a shallow person"]
+ },
+ "sponsor": {
+  "vi": "nhà tài trợ; tài trợ, bảo trợ",
+  "coll": ["main sponsor", "corporate sponsor", "sponsor an event", "official sponsor"]
+ },
+ "strengthen": {
+  "vi": "củng cố; tăng cường; làm mạnh thêm",
+  "coll": ["strengthen ties", "strengthen the economy", "strengthen muscles", "strengthen relationships"]
+ },
+ "sunset": {
+  "vi": "hoàng hôn; lúc mặt trời lặn",
+  "coll": ["watch the sunset", "a beautiful sunset", "at sunset", "sunset over the sea"]
+ },
+ "transform": {
+  "vi": "biến đổi; chuyển hóa; thay đổi hoàn toàn",
+  "coll": ["transform into", "completely transform", "transform lives", "transform the economy"]
+ },
+ "workplace": {
+  "vi": "nơi làm việc",
+  "coll": ["workplace safety", "in the workplace", "workplace culture", "workplace environment"]
+ },
+ "buyer": {
+  "vi": "người mua; bên mua",
+  "coll": ["potential buyer", "first-time buyer", "buyer and seller", "attract buyers"]
+ },
+ "differ": {
+  "vi": "khác nhau, khác biệt; bất đồng ý kiến",
+  "coll": ["differ from each other", "opinions differ", "differ significantly", "differ in size"]
+ },
+ "eager": {
+  "vi": "háo hức; hăm hở; khao khát",
+  "coll": ["eager to learn", "eager to please", "eager for news", "eager anticipation"]
+ },
+ "essence": {
+  "vi": "bản chất; tinh túy; tinh chất",
+  "coll": ["in essence", "the essence of life", "capture the essence", "vanilla essence"]
+ },
+ "fur": {
+  "vi": "lông thú; bộ lông; áo lông thú",
+  "coll": ["fur coat", "thick fur", "soft fur", "fake fur"]
+ },
+ "headline": {
+  "vi": "tiêu đề báo; tít báo",
+  "coll": ["grab the headlines", "make headlines", "front-page headline", "newspaper headlines"]
+ },
+ "insist": {
+  "vi": "khăng khăng; nài nỉ; nhất quyết đòi",
+  "coll": ["insist on paying", "insist that it's true", "if you insist", "insist on doing it"]
+ },
+ "ladder": {
+  "vi": "cái thang; nấc thang (sự nghiệp)",
+  "coll": ["climb the ladder", "career ladder", "top of the ladder", "ladder of success"]
+ },
+ "mineral": {
+  "vi": "khoáng chất; khoáng sản",
+  "coll": ["mineral water", "rich in minerals", "mineral resources", "vitamins and minerals"]
+ },
+ "orbit": {
+  "vi": "quỹ đạo; bay quanh, xoay quanh",
+  "coll": ["in orbit", "the Earth's orbit", "orbit the sun", "put a satellite into orbit"]
+ },
+ "passive": {
+  "vi": "thụ động; bị động; thể bị động",
+  "coll": ["passive smoking", "the passive voice", "passive role", "passive income"]
+ },
+ "pork": {
+  "vi": "thịt lợn; thịt heo",
+  "coll": ["pork chop", "roast pork", "pork belly", "minced pork"]
+ },
+ "reject": {
+  "vi": "từ chối; bác bỏ; loại bỏ",
+  "coll": ["reject an offer", "reject a proposal", "flatly reject", "reject the idea"]
+ },
+ "remainder": {
+  "vi": "phần còn lại; số dư (phép chia)",
+  "coll": ["the remainder of the year", "the remainder of his life", "spend the remainder of the day"]
+ },
+ "tin": {
+  "vi": "thiếc; hộp thiếc, lon",
+  "coll": ["tin can", "a tin of beans", "tin foil", "tin roof"]
+ },
+ "uncertainty": {
+  "vi": "sự không chắc chắn; sự bấp bênh",
+  "coll": ["economic uncertainty", "face uncertainty", "a degree of uncertainty", "political uncertainty"]
+ },
+ "weather forecast": {
+  "vi": "dự báo thời tiết",
+  "coll": ["check the weather forecast", "an accurate weather forecast", "according to the weather forecast"]
+ },
+ "abandon": {
+  "vi": "bỏ rơi; từ bỏ; ruồng bỏ",
+  "coll": ["abandon ship", "abandon a plan", "abandon hope", "an abandoned building"]
+ },
+ "bounce": {
+  "vi": "nảy lên; bật lại; sự nảy",
+  "coll": ["bounce a ball", "bounce back", "bounce off the wall", "bounce up and down"]
+ },
+ "confusing": {
+  "vi": "khó hiểu; gây bối rối",
+  "coll": ["confusing instructions", "very confusing", "a confusing situation", "find it confusing"]
+ },
+ "diving": {
+  "vi": "môn lặn; môn nhảy cầu",
+  "coll": ["scuba diving", "diving board", "go diving", "deep-sea diving"]
+ },
+ "enthusiasm": {
+  "vi": "sự nhiệt tình; lòng hăng hái",
+  "coll": ["great enthusiasm", "show enthusiasm", "enthusiasm for the project", "full of enthusiasm"]
+ },
+ "ferry": {
+  "vi": "phà; chở qua lại",
+  "coll": ["take the ferry", "ferry crossing", "car ferry", "ferry passengers"]
+ },
+ "helmet": {
+  "vi": "mũ bảo hiểm",
+  "coll": ["wear a helmet", "crash helmet", "bike helmet", "safety helmet"]
+ },
+ "instructor": {
+  "vi": "người hướng dẫn; huấn luyện viên",
+  "coll": ["driving instructor", "fitness instructor", "ski instructor", "yoga instructor"]
+ },
+ "isolation": {
+  "vi": "sự cô lập; sự cách ly",
+  "coll": ["in isolation", "social isolation", "isolation ward", "complete isolation"]
+ },
+ "lamb": {
+  "vi": "cừu non; thịt cừu",
+  "coll": ["roast lamb", "lamb chop", "leg of lamb", "spring lamb"]
+ },
+ "liar": {
+  "vi": "kẻ nói dối",
+  "coll": ["a compulsive liar", "call him a liar", "a terrible liar"]
+ },
+ "possess": {
+  "vi": "sở hữu; có được; ám (ma quỷ)",
+  "coll": ["possess the ability", "possess skills", "possess a weapon", "possess qualities"]
+ },
+ "probability": {
+  "vi": "xác suất; khả năng xảy ra",
+  "coll": ["high probability", "probability theory", "in all probability", "the probability of success"]
+ },
+ "tire": {
+  "vi": "làm mệt mỏi; chán; lốp xe (Mỹ)",
+  "coll": ["tire easily", "never tire of", "flat tire", "spare tire"]
+ },
+ "warn": {
+  "vi": "cảnh báo; báo trước; nhắc nhở",
+  "coll": ["warn against", "warn of danger", "warn someone about", "be warned"]
+ },
+ "workout": {
+  "vi": "buổi tập thể dục; bài tập luyện",
+  "coll": ["an intense workout", "workout routine", "do a workout", "gym workout"]
+ },
+ "civilization": {
+  "vi": "nền văn minh",
+  "coll": ["ancient civilization", "Western civilization", "human civilization", "the cradle of civilization"]
+ },
+ "delicate": {
+  "vi": "mỏng manh; tinh tế; tế nhị",
+  "coll": ["delicate balance", "delicate skin", "a delicate situation", "delicate flavor"]
+ },
+ "disappointment": {
+  "vi": "sự thất vọng; nỗi thất vọng",
+  "coll": ["bitter disappointment", "hide her disappointment", "a great disappointment", "to my disappointment"]
+ },
+ "disk": {
+  "vi": "đĩa; đĩa từ (máy tính)",
+  "coll": ["hard disk", "disk space", "floppy disk", "disk drive"]
+ },
+ "formally": {
+  "vi": "một cách chính thức; trang trọng",
+  "coll": ["formally announce", "formally dressed", "formally agree", "formally recognized"]
+ },
+ "goddess": {
+  "vi": "nữ thần",
+  "coll": ["Greek goddess", "the goddess of love", "a domestic goddess"]
+ },
+ "nephew": {
+  "vi": "cháu trai (con anh chị em)",
+  "coll": ["nieces and nephews", "my youngest nephew", "uncle and nephew"]
+ },
+ "orchestra": {
+  "vi": "dàn nhạc; dàn nhạc giao hưởng",
+  "coll": ["symphony orchestra", "conduct an orchestra", "play in an orchestra", "orchestra pit"]
+ },
+ "preservation": {
+  "vi": "sự bảo tồn; sự bảo quản",
+  "coll": ["the preservation of the environment", "food preservation", "historic preservation", "self-preservation"]
+ },
+ "salmon": {
+  "vi": "cá hồi; màu hồng cá hồi",
+  "coll": ["smoked salmon", "grilled salmon", "salmon fillet", "wild salmon"]
+ },
+ "secretly": {
+  "vi": "lén lút; một cách bí mật",
+  "coll": ["secretly recorded", "secretly in love", "meet secretly", "secretly hoped"]
+ },
+ "sheer": {
+  "vi": "hoàn toàn, thuần túy; dốc đứng; mỏng tang",
+  "coll": ["sheer luck", "the sheer size", "sheer determination", "a sheer cliff"]
+ },
+ "specially": {
+  "vi": "đặc biệt, dành riêng; riêng cho",
+  "coll": ["specially designed", "specially made", "specially trained", "specially for you"]
+ },
+ "sympathy": {
+  "vi": "sự thông cảm; sự đồng cảm; lòng trắc ẩn",
+  "coll": ["deep sympathy", "express sympathy", "have sympathy for", "in sympathy with"]
+ },
+ "thumb": {
+  "vi": "ngón tay cái",
+  "coll": ["thumbs up", "rule of thumb", "under someone's thumb", "twiddle your thumbs"]
+ },
+ "wrist": {
+  "vi": "cổ tay",
+  "coll": ["a sprained wrist", "flick of the wrist", "wear a watch on your wrist", "grab her wrist"]
+ },
+ "arrange": {
+  "vi": "sắp xếp; thu xếp; dàn xếp",
+  "coll": ["arrange a meeting", "arrange flowers", "arrange an appointment", "arrange for a taxi"]
+ },
+ "behave": {
+  "vi": "cư xử; ngoan, giữ phép tắc",
+  "coll": ["behave well", "behave badly", "behave yourself", "behave like a child"]
+ },
+ "firmly": {
+  "vi": "kiên quyết; chắc chắn, vững vàng",
+  "coll": ["firmly believe", "hold firmly", "firmly established", "firmly rooted"]
+ },
+ "indirect": {
+  "vi": "gián tiếp; vòng vo",
+  "coll": ["indirect speech", "indirect costs", "indirect effect", "an indirect route"]
+ },
+ "inspire": {
+  "vi": "truyền cảm hứng; khơi dậy; gợi nên",
+  "coll": ["inspire confidence", "inspire people", "inspired by a true story", "inspire a generation"]
+ },
+ "kindness": {
+  "vi": "lòng tốt; sự tử tế",
+  "coll": ["an act of kindness", "show kindness", "kindness to strangers", "random acts of kindness"]
+ },
+ "lottery": {
+  "vi": "xổ số; chuyện may rủi",
+  "coll": ["win the lottery", "lottery ticket", "the national lottery", "lottery numbers"]
+ },
+ "minus": {
+  "vi": "trừ; âm (số, nhiệt độ); điểm trừ",
+  "coll": ["ten minus four", "minus sign", "plus or minus", "minus five degrees"]
+ },
+ "mixing bowl": {
+  "vi": "tô trộn, bát trộn (bột)",
+  "coll": ["a large mixing bowl", "in a mixing bowl", "combine the ingredients in a mixing bowl"]
+ },
+ "pause": {
+  "vi": "tạm dừng; sự tạm ngừng; quãng nghỉ",
+  "coll": ["pause for a moment", "a brief pause", "pause the video", "without a pause"]
+ },
+ "prescription": {
+  "vi": "đơn thuốc; toa thuốc",
+  "coll": ["prescription drugs", "write a prescription", "fill a prescription", "available on prescription"]
+ },
+ "puppy": {
+  "vi": "chó con; cún con",
+  "coll": ["puppy love", "a litter of puppies", "puppy dog eyes", "train a puppy"]
+ },
+ "spelling": {
+  "vi": "chính tả; cách viết (từ)",
+  "coll": ["spelling mistake", "spelling bee", "correct spelling", "spelling and grammar"]
+ },
+ "survivor": {
+  "vi": "người sống sót",
+  "coll": ["sole survivor", "cancer survivor", "survivors of the crash", "a born survivor"]
+ },
+ "accurately": {
+  "vi": "một cách chính xác; đúng đắn",
+  "coll": ["accurately predict", "accurately measure", "accurately describe", "accurately reflect"]
+ },
+ "bent": {
+  "vi": "cong, bị bẻ cong; khiếu, thiên hướng",
+  "coll": ["bent over", "a bent nail", "bent on revenge", "bent double"]
+ },
+ "deaf": {
+  "vi": "điếc; khiếm thính",
+  "coll": ["go deaf", "deaf in one ear", "turn a deaf ear", "profoundly deaf"]
+ },
+ "evident": {
+  "vi": "rõ ràng; hiển nhiên",
+  "coll": ["it is evident that", "self-evident", "clearly evident", "evident from the results"]
+ },
+ "honesty": {
+  "vi": "sự trung thực; tính thật thà",
+  "coll": ["in all honesty", "honesty is the best policy", "complete honesty", "honesty and integrity"]
+ },
+ "mediterranean": {
+  "vi": "Địa Trung Hải; vùng Địa Trung Hải",
+  "coll": ["the Mediterranean Sea", "Mediterranean diet", "Mediterranean climate", "Mediterranean countries"]
+ },
+ "negotiate": {
+  "vi": "đàm phán; thương lượng",
+  "coll": ["negotiate a deal", "negotiate a contract", "negotiate with the seller", "negotiate the terms"]
+ },
+ "propose": {
+  "vi": "đề xuất, đề nghị; cầu hôn",
+  "coll": ["propose a plan", "propose marriage", "propose a toast", "propose changes"]
+ },
+ "sore": {
+  "vi": "đau, nhức; vết loét",
+  "coll": ["sore throat", "sore muscles", "a sore point", "a sight for sore eyes"]
+ },
+ "steep": {
+  "vi": "dốc; (giá) cắt cổ; ngâm (trà)",
+  "coll": ["a steep hill", "steep slope", "a steep climb", "a steep price"]
+ },
+ "straw": {
+  "vi": "rơm; ống hút",
+  "coll": ["drinking straw", "straw hat", "the last straw", "grasp at straws"]
+ },
+ "upload": {
+  "vi": "tải lên",
+  "coll": ["upload a video", "upload files", "upload photos", "upload to the cloud"]
+ },
+ "absent": {
+  "vi": "vắng mặt; thiếu, không có; lơ đãng",
+  "coll": ["absent from school", "absent from work", "absent without leave", "conspicuously absent"]
+ },
+ "adapt": {
+  "vi": "thích nghi; điều chỉnh; chuyển thể",
+  "coll": ["adapt to change", "adapt to a new environment", "adapted from a novel", "adapt quickly"]
+ },
+ "atomic": {
+  "vi": "nguyên tử; hạt nhân",
+  "coll": ["atomic bomb", "atomic energy", "atomic number", "atomic weapons"]
+ },
+ "bump": {
+  "vi": "va, đụng phải; cú va; chỗ u, gồ lên",
+  "coll": ["bump into an old friend", "bump your head", "speed bump", "a bump in the road"]
+ },
+ "circus": {
+  "vi": "rạp xiếc, gánh xiếc; cảnh hỗn loạn",
+  "coll": ["circus act", "circus tent", "a media circus", "run away to join the circus"]
+ },
+ "construct": {
+  "vi": "xây dựng; dựng nên; khái niệm",
+  "coll": ["construct a building", "construct a sentence", "newly constructed", "a social construct"]
+ },
+ "expose": {
+  "vi": "phơi bày; vạch trần; làm tiếp xúc với",
+  "coll": ["expose the truth", "exposed to sunlight", "expose corruption", "expose someone to risk"]
+ },
+ "freshman": {
+  "vi": "sinh viên năm nhất; học sinh lớp chín (Mỹ)",
+  "coll": ["freshman year", "college freshman", "freshman class", "freshman orientation"]
+ }
+}

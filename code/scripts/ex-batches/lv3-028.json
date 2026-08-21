@@ -1,0 +1,815 @@
+[
+ {
+  "id": "whereabouts",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "vi": "tung tích, nơi ở hiện tại; ở khoảng đâu",
+  "coll": [
+   "his whereabouts are unknown",
+   "current whereabouts",
+   "reveal the whereabouts",
+   "know her whereabouts"
+  ]
+ },
+ {
+  "id": "administer",
+  "pos": [
+   "v"
+  ],
+  "vi": "quản lý, điều hành; cho dùng (thuốc); thi hành",
+  "coll": [
+   "administer a program",
+   "administer medication",
+   "administer justice",
+   "administer a test"
+  ]
+ },
+ {
+  "id": "cringe",
+  "pos": [
+   "v",
+   "n",
+   "adj",
+   "intj"
+  ],
+  "vi": "co rúm, rùng mình xấu hổ; ngượng chín, sến",
+  "coll": [
+   "cringe at the thought",
+   "make me cringe",
+   "cringe-worthy",
+   "a cringe moment"
+  ]
+ },
+ {
+  "id": "transcription",
+  "pos": [
+   "n"
+  ],
+  "vi": "bản chép lại lời nói; sự phiên âm; sự phiên mã (gen)",
+  "coll": [
+   "audio transcription",
+   "a transcription error",
+   "phonetic transcription",
+   "DNA transcription"
+  ]
+ },
+ {
+  "id": "misuse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự dùng sai, lạm dụng; dùng sai mục đích",
+  "coll": [
+   "misuse of funds",
+   "drug misuse",
+   "misuse of power",
+   "misuse the data"
+  ]
+ },
+ {
+  "id": "homecoming",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trở về nhà; lễ hội hội trường",
+  "coll": [
+   "a homecoming party",
+   "the homecoming queen",
+   "a triumphant homecoming",
+   "homecoming weekend"
+  ]
+ },
+ {
+  "id": "boutique",
+  "pos": [
+   "n"
+  ],
+  "vi": "cửa hàng thời trang nhỏ; nhỏ mà cao cấp",
+  "coll": [
+   "a boutique hotel",
+   "a fashion boutique",
+   "a boutique firm",
+   "a small boutique"
+  ]
+ },
+ {
+  "id": "catcher",
+  "pos": [
+   "n"
+  ],
+  "vi": "người bắt bóng (bóng chày); vật để hứng",
+  "coll": [
+   "a baseball catcher",
+   "the catcher's mitt",
+   "a dream catcher",
+   "the catcher behind the plate"
+  ]
+ },
+ {
+  "id": "neurological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc thần kinh, thần kinh học",
+  "coll": [
+   "a neurological disorder",
+   "neurological damage",
+   "a neurological exam",
+   "neurological conditions"
+  ]
+ },
+ {
+  "id": "invaluable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô giá, quý giá vô cùng",
+  "coll": [
+   "invaluable experience",
+   "invaluable help",
+   "prove invaluable",
+   "an invaluable resource"
+  ]
+ },
+ {
+  "id": "empowerment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trao quyền, tiếp sức mạnh",
+  "coll": [
+   "women's empowerment",
+   "economic empowerment",
+   "the empowerment of workers",
+   "a sense of empowerment"
+  ]
+ },
+ {
+  "id": "seminary",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chủng viện, trường dòng",
+  "coll": [
+   "a theological seminary",
+   "attend seminary",
+   "a seminary student",
+   "graduate from seminary"
+  ]
+ },
+ {
+  "id": "uniquely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách độc nhất, riêng có",
+  "coll": [
+   "uniquely qualified",
+   "uniquely positioned",
+   "uniquely identify",
+   "uniquely human"
+  ]
+ },
+ {
+  "id": "academia",
+  "pos": [
+   "n"
+  ],
+  "vi": "giới học thuật, giới hàn lâm",
+  "coll": [
+   "a career in academia",
+   "leave academia",
+   "academia and industry",
+   "the world of academia"
+  ]
+ },
+ {
+  "id": "flair",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "năng khiếu bẩm sinh; phong cách sành điệu",
+  "coll": [
+   "a flair for languages",
+   "artistic flair",
+   "with great flair",
+   "a natural flair"
+  ]
+ },
+ {
+  "id": "reactive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phản ứng lại, bị động ứng phó; dễ phản ứng (hóa)",
+  "coll": [
+   "a reactive approach",
+   "highly reactive",
+   "reactive oxygen species",
+   "reactive rather than proactive"
+  ]
+ },
+ {
+  "id": "ensuing",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tiếp theo sau đó",
+  "coll": [
+   "the ensuing years",
+   "the ensuing chaos",
+   "the ensuing debate",
+   "in the ensuing months"
+  ]
+ },
+ {
+  "id": "overwhelmingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "áp đảo; phần lớn là",
+  "coll": [
+   "overwhelmingly positive",
+   "vote overwhelmingly",
+   "overwhelmingly male",
+   "overwhelmingly in favour"
+  ]
+ },
+ {
+  "id": "headset",
+  "pos": [
+   "n"
+  ],
+  "vi": "tai nghe có míc",
+  "coll": [
+   "a wireless headset",
+   "wear a headset",
+   "a VR headset",
+   "a gaming headset"
+  ]
+ },
+ {
+  "id": "restrictive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hạn chế, gò bó",
+  "coll": [
+   "restrictive practices",
+   "a restrictive diet",
+   "overly restrictive",
+   "restrictive rules"
+  ]
+ },
+ {
+  "id": "inmate",
+  "pos": [
+   "n"
+  ],
+  "vi": "tù nhân, người bị giam giữ",
+  "coll": [
+   "a prison inmate",
+   "fellow inmates",
+   "an inmate escaped",
+   "the inmate population"
+  ]
+ },
+ {
+  "id": "conform",
+  "pos": [
+   "v"
+  ],
+  "vi": "tuân theo, làm đúng chuẩn; hòa theo số đông",
+  "coll": [
+   "conform to standards",
+   "conform with the rules",
+   "refuse to conform",
+   "conform to expectations"
+  ]
+ },
+ {
+  "id": "plaster",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vữa trát tường; băng dán cá nhân; trát vữa, bó bột",
+  "coll": [
+   "plaster the walls",
+   "a sticking plaster",
+   "in plaster",
+   "plaster of Paris"
+  ]
+ },
+ {
+  "id": "knowledgeable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hiểu biết sâu rộng, am tường",
+  "coll": [
+   "knowledgeable about wine",
+   "a knowledgeable guide",
+   "highly knowledgeable",
+   "knowledgeable staff"
+  ]
+ },
+ {
+  "id": "customary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "theo thông lệ, quen lệ",
+  "coll": [
+   "customary practice",
+   "it is customary to",
+   "customary law",
+   "the customary greeting"
+  ]
+ },
+ {
+  "id": "flourish",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phát triển mạnh, hưng thịnh; động tác phô trương",
+  "coll": [
+   "business flourishes",
+   "flourish in the wild",
+   "with a flourish",
+   "the arts flourished"
+  ]
+ },
+ {
+  "id": "heroine",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nữ anh hùng; nhân vật nữ chính",
+  "coll": [
+   "a national heroine",
+   "the heroine of the novel",
+   "a tragic heroine",
+   "a war heroine"
+  ]
+ },
+ {
+  "id": "sentimental",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đa cảm, ủy mị; mang giá trị tình cảm",
+  "coll": [
+   "sentimental value",
+   "get sentimental",
+   "a sentimental journey",
+   "overly sentimental"
+  ]
+ },
+ {
+  "id": "reap",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "gặt hái, thu hoạch; hưởng thành quả",
+  "coll": [
+   "reap the benefits",
+   "reap the rewards",
+   "reap what you sow",
+   "reap a harvest"
+  ]
+ },
+ {
+  "id": "recess",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "giờ ra chơi, kỳ nghỉ họp; hốc tường, ngách sâu",
+  "coll": [
+   "school recess",
+   "the summer recess",
+   "in recess",
+   "a wall recess"
+  ]
+ },
+ {
+  "id": "numb",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tê, mất cảm giác; làm tê liệt",
+  "coll": [
+   "go numb",
+   "numb with cold",
+   "numb the pain",
+   "feel numb"
+  ]
+ },
+ {
+  "id": "maneuver",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "điều khiển khéo léo; nước cờ, thủ đoạn; cuộc diễn tập",
+  "coll": [
+   "a military maneuver",
+   "maneuver into position",
+   "a clever maneuver",
+   "room to maneuver"
+  ]
+ },
+ {
+  "id": "characterization",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khắc họa nhân vật; sự mô tả đặc điểm",
+  "coll": [
+   "strong characterization",
+   "the characterization of the hero",
+   "an unfair characterization",
+   "characterization in the novel"
+  ]
+ },
+ {
+  "id": "quirky",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kỳ quặc mà thú vị, độc đáo",
+  "coll": [
+   "a quirky sense of humour",
+   "quirky characters",
+   "a quirky style",
+   "slightly quirky"
+  ]
+ },
+ {
+  "id": "backbone",
+  "pos": [
+   "n"
+  ],
+  "vi": "xương sống; trụ cột, nền tảng; bản lĩnh",
+  "coll": [
+   "the backbone of the economy",
+   "have no backbone",
+   "the network backbone",
+   "show some backbone"
+  ]
+ },
+ {
+  "id": "beetle",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "bọ cánh cứng",
+  "coll": [
+   "a dung beetle",
+   "a stag beetle",
+   "beetle larvae",
+   "a Colorado beetle"
+  ]
+ },
+ {
+  "id": "syntax",
+  "pos": [
+   "n"
+  ],
+  "vi": "cú pháp; ngữ pháp câu",
+  "coll": [
+   "a syntax error",
+   "syntax and semantics",
+   "correct syntax",
+   "language syntax"
+  ]
+ },
+ {
+  "id": "pawn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quân tốt (cờ vua); con tốt bị lợi dụng; đem cầm đồ",
+  "coll": [
+   "a pawn shop",
+   "pawn a watch",
+   "a political pawn",
+   "sacrifice a pawn"
+  ]
+ },
+ {
+  "id": "countess",
+  "pos": [
+   "n"
+  ],
+  "vi": "nữ bá tước",
+  "coll": [
+   "the Countess of Wessex",
+   "a wealthy countess",
+   "the count and countess",
+   "become a countess"
+  ]
+ },
+ {
+  "id": "celestial",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "thuộc thiên thể, bầu trời; thần tiên, tuyệt diệu",
+  "coll": [
+   "a celestial body",
+   "celestial navigation",
+   "the celestial sphere",
+   "celestial beings"
+  ]
+ },
+ {
+  "id": "stealth",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "sự lén lút, bí mật; tàng hình (quân sự)",
+  "coll": [
+   "a stealth bomber",
+   "stealth technology",
+   "by stealth",
+   "stealth mode"
+  ]
+ },
+ {
+  "id": "semiconductor",
+  "pos": [
+   "n"
+  ],
+  "vi": "chất bán dẫn",
+  "coll": [
+   "the semiconductor industry",
+   "semiconductor chips",
+   "a semiconductor device",
+   "semiconductor manufacturing"
+  ]
+ },
+ {
+  "id": "vanguard",
+  "pos": [
+   "n"
+  ],
+  "vi": "lực lượng tiên phong; người đi đầu",
+  "coll": [
+   "in the vanguard of",
+   "the vanguard of change",
+   "a vanguard party",
+   "lead the vanguard"
+  ]
+ },
+ {
+  "id": "fungus",
+  "pos": [
+   "n"
+  ],
+  "vi": "nấm (vi sinh vật)",
+  "coll": [
+   "a parasitic fungus",
+   "toenail fungus",
+   "fungus growth",
+   "a fungus infection"
+  ]
+ },
+ {
+  "id": "amenities",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiện nghi, tiện ích",
+  "coll": [
+   "local amenities",
+   "hotel amenities",
+   "basic amenities",
+   "public amenities"
+  ]
+ },
+ {
+  "id": "snatch",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "giật lấy, cướp giật; sự giật lấy",
+  "coll": [
+   "snatch a bag",
+   "snatch victory",
+   "snatch it away",
+   "a bag snatch"
+  ]
+ },
+ {
+  "id": "vulgar",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thô tục, tục tĩu; bình dân, thông tục",
+  "coll": [
+   "vulgar language",
+   "a vulgar joke",
+   "Vulgar Latin",
+   "crude and vulgar"
+  ]
+ },
+ {
+  "id": "dispose",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "vứt bỏ, thải bỏ; sắp đặt, bố trí; khiến có xu hướng",
+  "coll": [
+   "dispose of waste",
+   "dispose of the body",
+   "properly dispose of",
+   "disposed to agree"
+  ]
+ },
+ {
+  "id": "quota",
+  "pos": [
+   "n"
+  ],
+  "vi": "hạn ngạch, chỉ tiêu",
+  "coll": [
+   "an import quota",
+   "meet the quota",
+   "a sales quota",
+   "a quota system"
+  ]
+ },
+ {
+  "id": "hoax",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "trò lừa bịp; lừa bịp, chơi khăm",
+  "coll": [
+   "a hoax call",
+   "a bomb hoax",
+   "an elaborate hoax",
+   "expose a hoax"
+  ]
+ },
+ {
+  "id": "redeem",
+  "pos": [
+   "v"
+  ],
+  "vi": "chuộc lại; đổi lấy (điểm thưởng); cứu vãn, chuộc lỗi",
+  "coll": [
+   "redeem a coupon",
+   "redeem yourself",
+   "redeem points",
+   "redeem a pledge"
+  ]
+ },
+ {
+  "id": "adobe",
+  "pos": [
+   "n"
+  ],
+  "vi": "gạch đất phơi nắng",
+  "coll": [
+   "adobe bricks",
+   "an adobe house",
+   "adobe walls",
+   "adobe construction"
+  ]
+ },
+ {
+  "id": "waiver",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự từ bỏ quyền; giấy miễn trừ trách nhiệm",
+  "coll": [
+   "sign a waiver",
+   "a liability waiver",
+   "a fee waiver",
+   "a waiver of rights"
+  ]
+ },
+ {
+  "id": "planner",
+  "pos": [
+   "n"
+  ],
+  "vi": "người lập kế hoạch; sổ kế hoạch",
+  "coll": [
+   "a town planner",
+   "a wedding planner",
+   "a daily planner",
+   "a financial planner"
+  ]
+ },
+ {
+  "id": "runoff",
+  "pos": [
+   "n"
+  ],
+  "vi": "nước chảy tràn bề mặt; vòng bầu cử phụ",
+  "coll": [
+   "agricultural runoff",
+   "surface runoff",
+   "a runoff election",
+   "a presidential runoff"
+  ]
+ },
+ {
+  "id": "lingerie",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ lót nữ",
+  "coll": [
+   "a lingerie store",
+   "lacy lingerie",
+   "a lingerie model",
+   "silk lingerie"
+  ]
+ },
+ {
+  "id": "subset",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tập con; nhóm nhỏ trong tổng thể",
+  "coll": [
+   "a small subset",
+   "a subset of the data",
+   "a proper subset",
+   "a subset of users"
+  ]
+ },
+ {
+  "id": "watershed",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bước ngoặt quan trọng; lưu vực sông",
+  "coll": [
+   "a watershed moment",
+   "a watershed in history",
+   "watershed management",
+   "the Amazon watershed"
+  ]
+ },
+ {
+  "id": "gunfire",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiếng súng, hỏa lực súng",
+  "coll": [
+   "heavy gunfire",
+   "the sound of gunfire",
+   "exchange gunfire",
+   "gunfire erupted"
+  ]
+ },
+ {
+  "id": "robotics",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngành người máy, rô bốt học",
+  "coll": [
+   "a robotics engineer",
+   "study robotics",
+   "a robotics competition",
+   "industrial robotics"
+  ]
+ }
+]

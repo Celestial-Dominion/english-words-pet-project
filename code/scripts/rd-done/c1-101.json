@@ -1,0 +1,134 @@
+[
+ {
+  "id": "wiki-nested-paging",
+  "title_vi": "Phân trang lồng nhau",
+  "vi": [
+   "Trong điện toán, phân trang là ý tưởng để có một bảng ánh xạ địa chỉ ảo của các phần bộ nhớ nhỏ (được gọi là trang) tới địa chỉ thực của trang.",
+   "Một số địa chỉ trỏ đến các vị trí trong bộ nhớ, một số khác trỏ đến các vị trí trên đĩa.",
+   "Trang được tải vào bộ nhớ khi nó được truy cập.",
+   "Hệ điều hành đã làm điều này trong một thời gian dài.",
+   "Ngày nay, máy tính cũng được sử dụng để ảo hóa, hệ điều hành khách được chạy trên hệ điều hành khác.",
+   "Các hệ điều hành ảo hóa như vậy không biết rằng chúng chạy trong môi trường ảo.",
+   "Phần mềm trên hệ điều hành máy chủ cần mô phỏng hầu hết phần cứng.",
+   "Phân trang lồng nhau hoặc Dịch địa chỉ cấp hai là tên của một số công nghệ cho phép bộ xử lý thực hiện một số công việc quản lý các bảng trang ảo này trong phần cứng.",
+   "AMD lần đầu tiên giới thiệu phân trang lồng nhau.",
+   "Intel sau đó cũng hỗ trợ nó.",
+   "Một số bộ xử lý của họ hỗ trợ công nghệ này."
+  ]
+ },
+ {
+  "id": "wiki-clinux",
+  "title_vi": "µCLinux",
+  "vi": [
+   "µCLinux IPA: ['mu.'si.'lınʊks] là một hệ điều hành dành cho các máy tính nhỏ bên trong các mạch tích hợp (chip).",
+   "Hệ thống này dựa trên hệ điều hành Linux theo nhiều cách.",
+   "Ngoài kích thước khá lớn của Linux, µCLinux còn nhỏ hơn nhiều và không có nhiều tính năng như Linux.",
+   "Nó được sử dụng ở nhiều nơi, chủ yếu liên quan đến cảm biến và thu thập dữ liệu thuộc nhiều loại khác nhau.",
+   "Nhờ tính chất nhỏ gọn của nó, nó có thể dễ dàng được truyền qua các kết nối chậm.",
+   "Tuy nhiên, nó là một hệ thống ổn định và mạnh mẽ được phân phối dưới dạng chương trình nguồn mở."
+  ]
+ },
+ {
+  "id": "news-swedish-parliament-passes-electronic-sur",
+  "title_vi": "Quốc hội Thụy Điển thông qua luật giám sát điện tử",
+  "vi": [
+   "Thứ năm, ngày 19 tháng 6 năm 2008 Ngày 18 tháng 6 năm 2008, Quốc hội Thụy Điển đã thông qua dự luật cho phép chặn và ghi lại dữ liệu truyền qua và trong biên giới Thụy Điển bắt đầu từ ngày đầu tiên của năm 2009.",
+   "Đề xuất đã được thông qua với số phiếu từ 143 đến 138, với một phiếu trắng.",
+   "Nó đã được thông qua cùng với một phụ lục để được xem xét vào mùa thu này.",
+   "Việc sửa đổi sẽ quy định thêm các quyền của người dân Thụy Điển theo luật mới.",
+   "Mục đích đã nêu của việc giám sát là để bảo vệ khỏi các mối đe dọa từ nước ngoài, chiến tranh mạng và những thứ tương tự.",
+   "Hàng trăm người biểu tình phản đối hành vi xâm phạm quyền riêng tư dường như có ý tưởng riêng của họ.",
+   "Cơ quan Đài phát thanh Quốc phòng Thụy Điển, cơ quan tình báo tín hiệu quốc gia, giờ đây sẽ mở rộng quyền truy cập vào thông tin liên lạc điện tử bao gồm các cuộc gọi điện thoại, e-mail, tin nhắn văn bản và sử dụng internet."
+  ]
+ },
+ {
+  "id": "wiki-plan-9-from-bell-labs",
+  "title_vi": "Plan 9 from Bell Labs",
+  "vi": [
+   "Plan 9 from Bell Labs là một hệ điều hành phân tán thuộc dạng phần mềm tự do.",
+   "Nó được tạo ra cho mục đích nghiên cứu với tư cách là phiên bản kế thừa của UNIX bởi Trung tâm Nghiên cứu Khoa học Máy tính tại Bell Labs vào cuối những năm 1980.",
+   "Kế hoạch 9 hiện được sử dụng làm hệ điều hành dành cho người có sở thích và trong một số lĩnh vực thử nghiệm nhất định, nơi tính chất phân tán cao của hệ điều hành được đánh giá cao.",
+   "Kế hoạch 9 có các tính năng mới như giao thức 9P để truy cập các tài nguyên cục bộ và từ xa dưới dạng tệp, liên kết gắn kết, hệ thống tệp Proc được cải tiến và hỗ trợ unicode gốc trên toàn hệ thống.",
+   "Trong Kế hoạch 9, tất cả các giao diện hệ thống, bao gồm cả những giao diện cần thiết cho mạng và giao diện người dùng, được thể hiện thông qua hệ thống tệp thay vì các giao diện chuyên biệt.",
+   "Nó cũng có một giao diện người dùng đồ họa được tích hợp sẵn, được gọi là rio, nhằm đón đầu thế giới đồ họa.",
+   "Cái tên Kế hoạch 9 của Bell Labs liên quan đến bộ phim khoa học viễn tưởng đình đám năm 1959 của Ed Wood Kế hoạch 9 từ ngoài không gian.",
+   "Ngoài ra, Glenda, Plan 9 Bunny, có lẽ liên quan đến bộ phim Glen hoặc Glenda của Wood."
+  ]
+ },
+ {
+  "id": "news-two-azerbaijani-bloggers-jailed",
+  "title_vi": "Hai blogger người Azerbaijan bị bỏ tù",
+  "vi": [
+   "Thứ Bảy, ngày 14 tháng 11 năm 2009 Hai blogger người Azerbaijan đã bị kết án tù vào thứ Tư vì \"côn đồ\", sau khi đăng một đoạn video châm biếm cáo buộc rằng Chính phủ đã bỏ tiền mua 12 con lừa từ Đức với giá 41 nghìn đô la Mỹ (27,5 nghìn euro) mỗi con.",
+   "Trong phán quyết hôm thứ Tư, blogger Adnan Hajizade nhận bản án hai năm và Emin Milli hai năm rưỡi.",
+   "Cả hai đều ở tù kể từ khi bị bắt vào ngày 8 tháng 7 vì đánh nhau trong một quán cà phê ở Baku.",
+   "Đoạn video được đăng trên YouTube vào tháng 7, mô tả một con lừa đang tổ chức một cuộc họp báo ở Cộng hòa Xô Viết cũ.",
+   "Chính phủ tuyên bố rằng hai vụ việc không liên quan đến nhau.",
+   "Tuy nhiên, Tổ chức An ninh và Hợp tác Châu Âu (OSCE) đã lên án quyết định này.",
+   "Tổ chức Theo dõi Nhân quyền đã gọi các bản án này là \"một bước lùi cho quyền tự do ngôn luận ở Azerbaijan\" và muốn chính phủ Azerbaijan đảm bảo rằng kháng cáo của các blogger sẽ được xem xét liệu các cáo buộc có bị thổi phồng hay không.",
+   "Giorgi Gogia, nhà nghiên cứu Nam Caucasus của Tổ chức Theo dõi Nhân quyền, cho biết: “Đã có một khuôn mẫu lâu đời về việc các quan chức Azerbaijan đưa ra các cáo buộc bịa đặt đối với các nhà báo để trừng phạt họ vì những bình luận chỉ trích hoặc châm biếm”.",
+   "“Vụ án chống lại Milli và Hajizade hoàn toàn rơi vào trường hợp đó.” Onnik Krikorian, bản thân là một blogger, cũng nói rằng chính phủ thường sử dụng các chiến thuật tương tự để bịt miệng những người chỉ trích, mặc dù thường là các nhà báo.",
+   "\"Rất nhiều quốc gia trong khu vực này, bao gồm cả Armenia, tiếp tục sử dụng các thông lệ và quy định từ thời Liên Xô để bịt miệng những người bất đồng chính kiến.",
+   "Cáo buộc 'côn đồ' này thường được dùng để bỏ tù các nhà báo.",
+   "Điểm khác biệt duy nhất ở đây là chuyện này xảy ra với hai nhà hoạt động trẻ vì một nội dung nào đó được đăng trên YouTube.” anh ấy bình luận.",
+   "\"Phương tiện truyền thông trực tuyến ngày càng trở nên phổ biến ở Azerbaijan và phong trào thanh niên OL! đã sử dụng phương tiện truyền thông xã hội và phương tiện truyền thông mới rất hiệu quả và rộng rãi.",
+   "Tôi nghĩ vụ án chống lại Hajizade và Milli gần như là một lời cảnh báo đối với các nhà hoạt động thanh niên đừng lên tiếng.",
+   "Tôi nghĩ rằng khi bạn có dầu, áp lực [từ OSCE và công chúng] thực sự không có nhiều tác dụng.” anh ấy nói thêm.",
+   "Hai blogger có ý định kháng cáo."
+  ]
+ },
+ {
+  "id": "news-media-round-up-april-fools-day-2008",
+  "title_vi": "Điểm tin báo chí: Ngày Cá tháng Tư năm 2008",
+  "vi": [
+   "Thứ ba, ngày 1 tháng 4 năm 2008 Nhiều phương tiện truyền thông có truyền thống cố tình lan truyền những trò lừa bịp vào Ngày Cá tháng Tư, bao gồm cả những nguồn đáng tin cậy như National Geographic và Science.",
+   "Tờ báo lá cải nổi tiếng của Anh The Sun viết rằng Tổng thống Pháp Nicolas Sarkozy sẽ trải qua cuộc phẫu thuật kéo dài để khiến ông cao hơn vợ mình, nghệ sĩ kiêm người mẫu người Ý Carla Bruni.",
+   "Báo cáo khẳng định người đứng đầu cao 5 foot 5 inch sẽ cao hơn 5 inch trong một năm bằng phương pháp của giáo sư người Israel Ura Schmuck.",
+   "The Sun lưu ý rằng trong chuyến thăm Anh tuần trước, Sarkozy đi giày cao gót trong khi vợ ông đi một đôi giày bệt.",
+   "Mặt khác, tờ Guardian đã đăng một bài báo gợi ý rằng Carla sẽ đứng đầu một sáng kiến của Thủ tướng Gordon Brown nhằm mang lại sự quyến rũ, gu thẩm mỹ tốt và sự tinh tế hơn cho người dân Vương quốc Anh nói chung.",
+   "Điều này sẽ liên quan đến sự hợp tác với Marks & Spencer về thời trang đường phố cao cấp và Jamie Oliver về bữa ăn và rượu vang.",
+   "BBC News có những thước phim chân thực về những chú chim cánh cụt đang bay do người dẫn chương trình phim tài liệu Terry Jones trình chiếu, đây thực chất là một quảng cáo cho iPlayer mới của hãng."
+  ]
+ },
+ {
+  "id": "news-two-arrests-made-in-zotob-worm-attack",
+  "title_vi": "Hai vụ bắt giữ được thực hiện trong cuộc tấn công sâu Zotob",
+  "vi": [
+   "Thứ Bảy, ngày 27 tháng 8 năm 2005, chính quyền Thổ Nhĩ Kỳ và Ma-rốc đã bắt giữ hai nghi phạm được cho là người tạo ra sâu Zotob đã đánh sập mạng máy tính của CNN và làm tê liệt các máy tính khác ở Mỹ và trên toàn thế giới vào đầu tháng này.",
+   "FBI lần theo dấu vết điện tử dẫn đến hai người đàn ông đến từ Trung Đông và Bắc Phi.",
+   "Farid Essebar, 18 tuổi, người Marốc, được cho là đã viết sâu này để đổi lấy khoản thanh toán từ Atilla Ekici, 21 tuổi, người Thổ Nhĩ Kỳ.",
+   "Cả hai đều bị bắt hôm thứ Sáu và đang chờ truy tố ở nước họ.",
+   "Có vẻ như Essebar và Ekici chưa bao giờ gặp mặt trực tiếp và thực hiện toàn bộ tội phạm mạng thông qua liên hệ với nhau qua internet.",
+   "Biệt danh trực tuyến của cả hai được cho là \"Diabl0\" cho Essebar và “Coder” cho Ekici.",
+   "Trợ lý giám đốc FBI Louis Reigel cho biết tốc độ nhanh chóng mà các nhà điều tra thực hiện các vụ bắt giữ được cho là nhờ hợp tác chặt chẽ với Tập đoàn Microsoft, chính quyền Ma-rốc và Thổ Nhĩ Kỳ.",
+   "“Nếu chúng tôi không có những thực thể đó tham gia vào cuộc điều tra này, tôi nghi ngờ nó vẫn sẽ tiếp tục cho đến ngày hôm nay.” Các nhà điều tra của Microsoft đã bắt đầu phân tích một biến thể email có tên Mytob từ tháng 3, xuất hiện vào cuối tháng 2.",
+   "Hai nghi phạm được cho là tác giả của phiên bản tiền nhiệm của Mytob, khi đó được gọi là 'Rbot'.",
+   "Những con sâu này có thể cài vào các máy tính bị nhiễm một cửa sau có thể được sử dụng để truy cập từ xa vào máy tính và mạng của chúng sau này.",
+   "Việc phát hành sâu Zytob mang lại nhiều bằng chứng hơn về danh tính của thủ phạm.",
+   "Động cơ của các cuộc tấn công dường như là thu lợi tài chính và không liên quan đến khủng bố.",
+   "Theo chính phủ Maroc, hai người đàn ông này bị cáo buộc đã chuyển thông tin tài chính bị đánh cắp đến một đường dây lừa đảo thẻ tín dụng.",
+   "Hệ điều hành Windows 2000 5 năm tuổi dễ bị tấn công nhất.",
+   "Sâu này sử dụng một lỗ hổng trong dịch vụ Plug and Play của Windows; một lỗ hổng mà Microsoft đã phát hành bản vá.",
+   "Tuy nhiên, tư vấn ngày 23 tháng 8 của Microsoft lưu ý rằng một số cấu hình không mặc định của hệ thống Windows XP Service Pack 1 cũng có thể gặp rủi ro."
+  ]
+ },
+ {
+  "id": "news-obama-s-transition-website-frees-the-con",
+  "title_vi": "Trang web chuyển tiếp của Obama 'giải phóng nội dung'",
+  "vi": [
+   "Thứ Ba, ngày 2 tháng 12 năm 2008 Trong động thái mở cửa chính phủ và đón nhận tư duy hiện đại về bản quyền, Hoa Kỳ.",
+   "Trang web của nhóm chuyển tiếp của Tổng thống đắc cử Barack Obama, Change.gov, đã áp dụng giấy phép Creative Commons cho tất cả nội dung và đóng góp của người dùng.",
+   "Điều này sẽ cho phép bất kỳ ai lấy tài liệu từ trang web và sử dụng lại nó mà không phải lo ngại rằng họ có thể vi phạm bản quyền.",
+   "“Đây là tin tuyệt vời và là dấu hiệu đáng khích lệ rằng chính quyền mới có nhận thức rõ ràng về tầm quan trọng của sự cởi mở trong chính phủ và trên web.",
+   "Việc chấp nhận cấp phép Creative Commons trên Change.gov phù hợp với sự ủng hộ trước đó của cả Obama và John McCain đối với ý tưởng về 'các cuộc tranh luận mở',\" Creative Commons cho biết trong một tuyên bố đăng trên trang web của họ.",
+   "Những người sử dụng lại nội dung của trang web chỉ có nghĩa vụ ghi công nội dung đó theo các điều khoản của giấy phép Creative Commons Ghi công 3.0 Chưa chuyển đổi.",
+   "'Quyền phối lại' mà giấy phép mới mở rộng không bị giới hạn ở văn bản; video được bao gồm và trang web hiện cung cấp liên kết để tải xuống bản sao của clip cho mục đích này.",
+   "Ngoài giấy phép mới, Change.gov đã giới thiệu các diễn đàn mở để thảo luận về các vấn đề liên quan đến cử tri.",
+   "Theo Computerworld, không giống như các blog được một số cơ quan chính phủ sử dụng, các bài đăng xuất hiện không được lọc và sử dụng hệ thống tính điểm và xếp hạng.",
+   "Một trong những chủ đề thảo luận ban đầu có lưu lượng truy cập cao là thu hút ý kiến đóng góp của công chúng về những lo lắng về chăm sóc sức khỏe.",
+   "Các công việc chính thức của nhân viên chính phủ liên bang đều thuộc phạm vi công cộng.",
+   "Mặc dù có địa chỉ web \".gov\", trang web này được điều hành bởi tổ chức từ thiện \"Dự án chuyển đổi Obama-Biden\".",
+   "Giấy phép Creative Commons được khuyến khích trên trang web chia sẻ ảnh phổ biến Flickr và là giấy phép áp dụng duy nhất trên Wikinews."
+  ]
+ }
+]

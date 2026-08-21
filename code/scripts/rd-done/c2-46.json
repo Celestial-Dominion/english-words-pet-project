@@ -1,0 +1,114 @@
+[
+ {
+  "id": "wiki-relational-database",
+  "title_vi": "Cơ sở dữ liệu quan hệ",
+  "vi": [
+   "Cơ sở dữ liệu quan hệ là một cách lưu trữ thông tin (dữ liệu).",
+   "Cơ sở dữ liệu quan hệ giúp người dùng nối thông tin với thông tin khác.",
+   "Trong cơ sở dữ liệu quan hệ, mỗi bản ghi dữ liệu được lưu trữ thành một hàng.",
+   "Các hàng được nhóm lại với nhau trong các bảng.",
+   "Trong mô hình quan hệ, một bảng cơ sở dữ liệu được gọi là quan hệ.",
+   "Đây là lý do tại sao thuật ngữ quan hệ được sử dụng cho loại cơ sở dữ liệu này.",
+   "Phần mềm được sử dụng để thực hiện việc phân nhóm này được gọi là hệ thống quản lý cơ sở dữ liệu quan hệ (RDBMS).",
+   "Thuật ngữ \"cơ sở dữ liệu quan hệ\" thường dùng để chỉ loại phần mềm này.",
+   "Cơ sở dữ liệu quan hệ hiện là cách chính để các công ty lưu trữ thông tin như hồ sơ tài chính, hồ sơ y tế, thông tin cá nhân cũng như dữ liệu sản xuất và hậu cần.",
+   "Thuật ngữ cơ sở dữ liệu quan hệ ban đầu được định nghĩa bởi Edgar Codd tại Trung tâm nghiên cứu IBM Almaden vào năm 1970."
+  ]
+ },
+ {
+  "id": "wiki-firmware",
+  "title_vi": "Phần sụn",
+  "vi": [
+   "Trong điện toán, phần sụn là một chương trình máy tính được \"nhúng\" vào thiết bị phần cứng và là một phần thiết yếu của phần cứng.",
+   "Nó đôi khi được gọi là phần mềm nhúng.",
+   "Ví dụ: trong bộ vi điều khiển, phần sụn sẽ cho bộ vi xử lý biết những hành động cần thực hiện.",
+   "Phần sụn cũng có thể là một chương trình lớn hơn được lưu trữ trên bộ nhớ flash hoặc được người dùng tải lên phần cứng hiện có.",
+   "Đúng như tên gọi của nó, firmware nằm ở đâu đó giữa phần cứng và phần mềm, kết nối hai thế giới.",
+   "Nó có thể có những ý nghĩa hơi khác nhau đối với những người khác nhau, đặc biệt khi các thiết bị điện tử độc lập ngày càng giống máy tính hơn.",
+   "Giống như phần mềm, nó là một chương trình máy tính được điều hành bởi bộ vi xử lý.",
+   "Nhưng nó cũng được liên kết với một phần cứng và không có ý nghĩa gì nếu không có nó."
+  ]
+ },
+ {
+  "id": "wiki-diplomatics",
+  "title_vi": "Ngoại giao",
+  "vi": [
+   "Ngoại giao là một môn học liên quan đến việc phân tích các tài liệu lịch sử.",
+   "Từ này quay trở lại bằng tốt nghiệp, nghĩa đen là gấp lại (tài liệu).",
+   "Việc sử dụng thuật ngữ ngoại giao cho khoa học này có lẽ là do tác phẩm De re ngoại giao của Jean Mabilon (1632-1707).",
+   "Cũng lưu ý rằng thuật ngữ này không liên quan đến ngoại giao.",
+   "Kỷ luật ban đầu được phát triển như một công cụ để nghiên cứu và xác định tính xác thực của các điều lệ và văn bằng chính thức do các cơ quan hoàng gia và giáo hoàng ban hành.",
+   "Sau đó người ta phát hiện ra rằng nhiều nguyên tắc cơ bản tương tự có thể được áp dụng cho các loại tài liệu chính thức và công cụ pháp lý khác, cho các tài liệu phi chính thức như thư riêng và gần đây nhất là siêu dữ liệu của hồ sơ điện tử.",
+   "Ngoại giao là một trong những khoa học phụ trợ của lịch sử.",
+   "Không nên nhầm lẫn nó (như thường lệ) với môn học cổ điển chị em của nó.",
+   "Trên thực tế, các kỹ thuật của nó có nhiều điểm chung hơn với các kỹ thuật của các bộ môn văn học phê bình văn bản và phê bình lịch sử."
+  ]
+ },
+ {
+  "id": "wiki-floating-point-unit",
+  "title_vi": "Đơn vị dấu phẩy động",
+  "vi": [
+   "Đơn vị dấu phẩy động (FPU) là một phần của hệ thống máy tính được thiết kế đặc biệt để thực hiện các phép toán trên số dấu phẩy động.",
+   "Các phép toán điển hình là cộng, trừ, nhân, chia và căn bậc hai.",
+   "Một số hệ thống cũng có thể thực hiện các chức năng nâng cao hơn như tính toán hàm số mũ hoặc lượng giác, tuy nhiên trong hầu hết các bộ xử lý hiện đại, các chức năng này được thực hiện bằng quy trình thư viện phần mềm chứ không phải bằng phần cứng.",
+   "Trong hầu hết các CPU đa năng hiện đại, một hoặc nhiều FPU được tích hợp bên trong CPU; tuy nhiên nhiều bộ vi điều khiển nhúng, đặc biệt là các thiết kế cũ, không có phần cứng hỗ trợ cho các phép toán dấu phẩy động.",
+   "Trước đây, một số hệ thống như Intel 8086 đã triển khai dấu phẩy động thông qua bộ đồng xử lý được điều khiển bởi CPU chứ không phải là một bộ phận tích hợp.",
+   "Hầu hết các máy tính hiện đại đều có phần cứng FPU tích hợp; nhưng không phải tất cả.",
+   "Trong trường hợp không có FPU, nhiều chức năng của FPU có thể được mô phỏng, giúp tiết kiệm chi phí phần cứng tăng thêm của FPU nhưng chậm hơn đáng kể."
+  ]
+ },
+ {
+  "id": "news-facebook-unblocked-in-bangladesh",
+  "title_vi": "Facebook được bỏ chặn ở Bangladesh",
+  "vi": [
+   "Chủ nhật, ngày 6 tháng 6 năm 2010 Sau một tuần bị chặn, trang mạng xã hội Facebook cuối cùng đã quay trở lại Bangladesh.",
+   "Facebook đã bị chính quyền địa phương ở Bangladesh chặn sau khi một số nội dung \"xúc phạm\" các chính trị gia địa phương được tải lên và một người đàn ông đã bị bắt.",
+   "Khối được dỡ bỏ lúc 23:58 giờ địa phương (17:58 UTC).",
+   "Theo BDNews24.com, Mir Masud Kabir, giám đốc điều hành Mango Telecom Services, đã nhận được một cuộc điện thoại từ Thiếu tướng Zia Ahmed lúc 11:57 tối. (17:57 UTC), yêu cầu anh ta dỡ bỏ lệnh chặn Facebook.",
+   "Kabir bỏ chặn Facebook một phút sau đó.",
+   "Nhà chức trách đã quyết định bỏ chặn Facebook sau khi công ty này hứa sẽ xóa những nội dung bị coi là báng bổ cũng như những hình ảnh “đáng ghét” của các nhà lãnh đạo đất nước."
+  ]
+ },
+ {
+  "id": "wiki-parameter-computer-programming",
+  "title_vi": "Tham số (lập trình máy tính)",
+  "vi": [
+   "Trong khoa học máy tính, tham số là tên được lưu trữ của thông tin mà chúng ta muốn sử dụng cho chương trình con.",
+   "Những mẩu thông tin này, được gọi là giá trị, sau đó được chuyển vào chương trình con để sử dụng làm đối số.",
+   "Sau đó, những đối số này có thể ảnh hưởng đến cách chương trình sẽ chạy.",
+   "Tham số (lập trình) Ví dụ: trong hàm Python sau: def hello(name): print(\"Xin chào, \" + name + \"!\") Tên từ là một tham số.",
+   "Khi hàm được gọi với một giá trị (như \"Alice\"), tên tham số sẽ giữ giá trị đó và hàm sẽ sử dụng giá trị đó để thực hiện hành động của nó: hello(\"Alice\") # Kết quả: Hello, Alice!",
+   "Trong trường hợp này, tham số cho phép hàm cá nhân hóa lời chào bằng cách sử dụng giá trị được cung cấp trong lệnh gọi hàm."
+  ]
+ },
+ {
+  "id": "news-us-court-jails-second-man-for-revolution",
+  "title_vi": "Tòa án Hoa Kỳ bỏ tù người thứ hai vì các bài đăng trên trang web Revolution Muslim",
+  "vi": [
+   "Chủ nhật, ngày 24 tháng 6 năm 2012 Một tòa án liên bang Hoa Kỳ ở Virginia đã đưa người đàn ông thứ hai vào tù vì đăng bài trực tuyến liên quan đến Revolution Muslim.",
+   "Jesse Curtis Morton, người cải sang đạo Hồi ở New York, đã nhận bản án 11 năm rưỡi hôm qua sau khi đồng phạm của anh ta bị bỏ tù vào tháng Hai.",
+   "Morton, 33 tuổi, còn được gọi là Younus Abdullah Muhammed, đã viết cùng với người bạn cải đạo Zachary Chesser, 20 tuổi, trên một trang web hiện đã không còn tồn tại nhằm cổ vũ bạo lực chống lại những kẻ thù được cho là của Hồi giáo.",
+   "Các mục tiêu bao gồm những người đứng đằng sau những bức tranh miêu tả về Nhà tiên tri Muhammed, vốn bị cho là xúc phạm đến niềm tin Hồi giáo.",
+   "Morton và Chesser đe dọa mọi người, bao gồm cả tác giả của chương trình truyền hình châm biếm South Park, trong đó có hình ảnh Muhammed trong bộ đồ gấu, và một nghệ sĩ đằng sau Ngày hội mọi người vẽ Mohammed vào tháng 5 năm 2010.",
+   "Bộ đôi đã đăng địa chỉ của các nhà văn South Park, kêu gọi độc giả \"đến thăm họ\".",
+   "Chesser sống ở Virginia đã thừa nhận vai trò của mình trước tòa vào tháng 10 năm 2010 và nhận bản án 25 năm tù, với sự khác biệt giữa các bản án của cặp đôi này được cho là do Chesser đã cố gắng đến Somalia và trở thành thành viên của al-Shabbab.",
+   "Morton bị bắt vào năm ngoái tại Rabat, Maroc và bị dẫn độ về Mỹ, nhận tội vào tháng 2.",
+   "Người bào chữa muốn mức án của Morton được giữ dưới 5 năm và anh ta đã xin lỗi vì đã \"góp phần gây ra xung đột giữa các nền văn minh\" với việc ủng hộ bạo lực.",
+   "Công tố viên cho rằng Morton đã lạm dụng quyền tự do ngôn luận của mình bằng cách đe dọa giết người để \"làm chùn\" quyền tự do biểu đạt của người khác."
+  ]
+ },
+ {
+  "id": "wiki-emman-atienza",
+  "title_vi": "Emman Atienza",
+  "vi": [
+   "Emmanuelle Hung Atienza (tl; 8 tháng 2 năm 2006 - 22 tháng 10 năm 2025) là một nhân vật truyền thông xã hội, người mẫu và nhà hoạt động sức khỏe tâm thần người Philippines và Đài Loan.",
+   "Cô được biết đến khi nói về sức khỏe tâm thần trên tài khoản TikTok và Instagram của mình.",
+   "Emmanuelle Hung Atienza sinh ngày 8 tháng 2 năm 2006 tại Manila, Philippines.",
+   "Atienza là con gái út của người dẫn chương trình truyền hình Philippines Kim Atienza.",
+   "Năm 2019, sau khi cố gắng tự tử, Atienza được chẩn đoán mắc chứng trầm cảm lâm sàng.",
+   "Đầu năm 2022, cô được chẩn đoán mắc chứng rối loạn căng thẳng sau chấn thương, rối loạn lưỡng cực và rối loạn tăng động giảm chú ý với các rối loạn ranh giới và hoang tưởng.",
+   "Vào ngày 22 tháng 10 năm 2025, Atienza được phát hiện đã chết tại nhà riêng ở Los Angeles, California khi mới 19 tuổi.",
+   "Cơ quan giám định y tế quận Los Angeles cho biết nguyên nhân cái chết của cô là do treo cổ tự tử."
+  ]
+ }
+]

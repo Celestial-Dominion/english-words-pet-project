@@ -1,0 +1,806 @@
+[
+ {
+  "id": "furthest",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "xa nhất",
+  "coll": [
+   "the furthest point",
+   "furthest away",
+   "furthest from the sun",
+   "travel the furthest"
+  ]
+ },
+ {
+  "id": "hairdresser",
+  "pos": [
+   "n"
+  ],
+  "vi": "thợ làm tóc; tiệm làm tóc",
+  "coll": [
+   "go to the hairdresser's",
+   "a hairdresser appointment",
+   "a trained hairdresser",
+   "my local hairdresser"
+  ]
+ },
+ {
+  "id": "possessive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hay chiếm hữu; sở hữu (ngữ pháp); sở hữu cách",
+  "coll": [
+   "a possessive pronoun",
+   "a possessive boyfriend",
+   "possessive adjective",
+   "possessive about his belongings"
+  ]
+ },
+ {
+  "id": "pronoun",
+  "pos": [
+   "n"
+  ],
+  "vi": "đại từ",
+  "coll": [
+   "a personal pronoun",
+   "a possessive pronoun",
+   "a relative pronoun",
+   "preferred pronouns"
+  ]
+ },
+ {
+  "id": "ration",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khẩu phần; chia khẩu phần; phân phối định mức",
+  "coll": [
+   "food rations",
+   "ration cards",
+   "ration supplies",
+   "on short rations"
+  ]
+ },
+ {
+  "id": "astronomer",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà thiên văn học",
+  "coll": [
+   "an amateur astronomer",
+   "astronomers discovered a new planet",
+   "a professional astronomer",
+   "the royal astronomer"
+  ]
+ },
+ {
+  "id": "uncontrollable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không kiểm soát được; bất kham",
+  "coll": [
+   "uncontrollable laughter",
+   "uncontrollable rage",
+   "an uncontrollable urge",
+   "uncontrollable shaking"
+  ]
+ },
+ {
+  "id": "nightlife",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuộc sống về đêm",
+  "coll": [
+   "vibrant nightlife",
+   "the city's nightlife",
+   "enjoy the nightlife",
+   "a nightlife district"
+  ]
+ },
+ {
+  "id": "overwhelm",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "áp đảo; làm choáng ngợp; nhấn chìm",
+  "coll": [
+   "overwhelmed by emotion",
+   "overwhelmed with work",
+   "overwhelm the defense",
+   "an overwhelming majority"
+  ]
+ },
+ {
+  "id": "settler",
+  "pos": [
+   "n"
+  ],
+  "vi": "người định cư; dân khai hoang",
+  "coll": [
+   "early settlers",
+   "European settlers",
+   "the first settlers",
+   "settler communities"
+  ]
+ },
+ {
+  "id": "fondness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự yêu mến; sự ưa thích",
+  "coll": [
+   "a fondness for sweets",
+   "a particular fondness",
+   "remember with fondness",
+   "develop a fondness for"
+  ]
+ },
+ {
+  "id": "furnish",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "trang bị nội thất; cung cấp",
+  "coll": [
+   "furnish an apartment",
+   "a fully furnished flat",
+   "furnish information",
+   "furnished with antiques"
+  ]
+ },
+ {
+  "id": "lovingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách trìu mến; âu yếm",
+  "coll": [
+   "lovingly restored",
+   "look lovingly at",
+   "lovingly prepared",
+   "smile lovingly"
+  ]
+ },
+ {
+  "id": "proverb",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tục ngữ; châm ngôn",
+  "coll": [
+   "an old proverb",
+   "as the proverb says",
+   "a Chinese proverb",
+   "quote a proverb"
+  ]
+ },
+ {
+  "id": "someplace",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "vi": "đâu đó; chỗ nào đó",
+  "coll": [
+   "someplace else",
+   "go someplace quiet",
+   "find someplace to stay",
+   "someplace nice"
+  ]
+ },
+ {
+  "id": "unwell",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không khỏe; khó ở",
+  "coll": [
+   "feel unwell",
+   "look unwell",
+   "seriously unwell",
+   "mentally unwell"
+  ]
+ },
+ {
+  "id": "wetland",
+  "pos": [
+   "n"
+  ],
+  "vi": "đất ngập nước; vùng đầm lầy",
+  "coll": [
+   "wetland habitats",
+   "coastal wetlands",
+   "wetland conservation",
+   "protected wetlands"
+  ]
+ },
+ {
+  "id": "seawater",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nước biển",
+  "coll": [
+   "seawater desalination",
+   "warm seawater",
+   "seawater fish",
+   "swallow seawater"
+  ]
+ },
+ {
+  "id": "acknowledgment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thừa nhận; lời cảm tạ; sự báo nhận",
+  "coll": [
+   "in acknowledgment of",
+   "public acknowledgment",
+   "acknowledgment of receipt",
+   "a nod of acknowledgment"
+  ]
+ },
+ {
+  "id": "handball",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bóng ném; lỗi chạm tay (bóng đá)",
+  "coll": [
+   "play handball",
+   "a handball team",
+   "a handball court",
+   "a deliberate handball"
+  ]
+ },
+ {
+  "id": "ironing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc ủi (là) quần áo; đồ chờ ủi",
+  "coll": [
+   "do the ironing",
+   "an ironing board",
+   "a pile of ironing",
+   "the ironing basket"
+  ]
+ },
+ {
+  "id": "postman",
+  "pos": [
+   "n"
+  ],
+  "vi": "người đưa thư",
+  "coll": [
+   "the postman delivers letters",
+   "wait for the postman",
+   "the village postman",
+   "the postman's round"
+  ]
+ },
+ {
+  "id": "unfriendly",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "không thân thiện; lạnh nhạt; thù địch",
+  "coll": [
+   "unfriendly staff",
+   "an unfriendly stare",
+   "an unfriendly atmosphere",
+   "environmentally unfriendly"
+  ]
+ },
+ {
+  "id": "anxiously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách lo lắng; bồn chồn",
+  "coll": [
+   "wait anxiously",
+   "anxiously watching",
+   "ask anxiously",
+   "glance anxiously"
+  ]
+ },
+ {
+  "id": "campsite",
+  "pos": [
+   "n"
+  ],
+  "vi": "khu cắm trại; bãi cắm trại",
+  "coll": [
+   "pitch a tent at the campsite",
+   "campsite facilities",
+   "book a campsite",
+   "return to the campsite"
+  ]
+ },
+ {
+  "id": "consonant",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "phụ âm; hài hòa, nhất quán",
+  "coll": [
+   "consonant sounds",
+   "a consonant cluster",
+   "vowels and consonants",
+   "consonant with his beliefs"
+  ]
+ },
+ {
+  "id": "piety",
+  "pos": [
+   "n"
+  ],
+  "vi": "lòng mộ đạo; sự hiếu kính",
+  "coll": [
+   "filial piety",
+   "religious piety",
+   "acts of piety",
+   "personal piety"
+  ]
+ },
+ {
+  "id": "reunification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tái thống nhất; sự thống nhất lại",
+  "coll": [
+   "German reunification",
+   "family reunification",
+   "national reunification",
+   "peaceful reunification"
+  ]
+ },
+ {
+  "id": "housework",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc nhà",
+  "coll": [
+   "do the housework",
+   "help with the housework",
+   "share the housework",
+   "daily housework"
+  ]
+ },
+ {
+  "id": "irritate",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm khó chịu; chọc tức; kích ứng (da)",
+  "coll": [
+   "irritate the skin",
+   "it really irritates me",
+   "easily irritated",
+   "irritate your eyes"
+  ]
+ },
+ {
+  "id": "storyteller",
+  "pos": [
+   "n"
+  ],
+  "vi": "người kể chuyện",
+  "coll": [
+   "a gifted storyteller",
+   "a master storyteller",
+   "a born storyteller",
+   "traditional storytellers"
+  ]
+ },
+ {
+  "id": "lifeguard",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân viên cứu hộ (hồ bơi, bãi biển)",
+  "coll": [
+   "a pool lifeguard",
+   "a beach lifeguard",
+   "a lifeguard on duty",
+   "a trained lifeguard"
+  ]
+ },
+ {
+  "id": "unify",
+  "pos": [
+   "v"
+  ],
+  "vi": "thống nhất; hợp nhất",
+  "coll": [
+   "unify the country",
+   "unify the party",
+   "a unified system",
+   "unify under one banner"
+  ]
+ },
+ {
+  "id": "excitedly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách phấn khích; háo hức",
+  "coll": [
+   "talk excitedly",
+   "wave excitedly",
+   "excitedly announced",
+   "jump excitedly"
+  ]
+ },
+ {
+  "id": "farthest",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "xa nhất",
+  "coll": [
+   "the farthest corner",
+   "farthest from home",
+   "the farthest point",
+   "farthest away"
+  ]
+ },
+ {
+  "id": "purify",
+  "pos": [
+   "v"
+  ],
+  "vi": "thanh lọc; làm tinh khiết; gột rửa",
+  "coll": [
+   "purify water",
+   "purify the air",
+   "purify the soul",
+   "purified protein"
+  ]
+ },
+ {
+  "id": "saucer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đĩa lót tách; đĩa nhỏ",
+  "coll": [
+   "a cup and saucer",
+   "a flying saucer",
+   "a saucer of milk",
+   "eyes like saucers"
+  ]
+ },
+ {
+  "id": "motherland",
+  "pos": [
+   "n"
+  ],
+  "vi": "tổ quốc; đất mẹ; quê cha đất tổ",
+  "coll": [
+   "defend the motherland",
+   "return to the motherland",
+   "love for the motherland",
+   "far from the motherland"
+  ]
+ },
+ {
+  "id": "shiver",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "run rẩy; rùng mình; cơn rùng mình",
+  "coll": [
+   "shiver with cold",
+   "send shivers down your spine",
+   "shiver in the wind",
+   "a shiver of fear"
+  ]
+ },
+ {
+  "id": "suffix",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hậu tố; đuôi từ",
+  "coll": [
+   "add a suffix",
+   "common suffixes",
+   "prefix and suffix",
+   "the suffix '-ness'"
+  ]
+ },
+ {
+  "id": "nervousness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lo lắng; sự bồn chồn, hồi hộp",
+  "coll": [
+   "hide your nervousness",
+   "a sign of nervousness",
+   "overcome nervousness",
+   "laugh out of nervousness"
+  ]
+ },
+ {
+  "id": "tremble",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "run rẩy; run lên; rung chuyển",
+  "coll": [
+   "tremble with fear",
+   "his hands trembled",
+   "her voice trembled",
+   "tremble at the thought"
+  ]
+ },
+ {
+  "id": "unpack",
+  "pos": [
+   "v"
+  ],
+  "vi": "dỡ đồ (khỏi vali); mở gói; mổ xẻ (vấn đề)",
+  "coll": [
+   "unpack your suitcase",
+   "unpack the boxes",
+   "unpack after the trip",
+   "unpack the concept"
+  ]
+ },
+ {
+  "id": "babysit",
+  "pos": [
+   "v"
+  ],
+  "vi": "trông trẻ hộ; giữ trẻ",
+  "coll": [
+   "babysit for the neighbors",
+   "babysit my sister's kids",
+   "babysit on weekends",
+   "asked her to babysit"
+  ]
+ },
+ {
+  "id": "modal verb",
+  "pos": [
+   "n"
+  ],
+  "vi": "động từ khuyết thiếu; trợ động từ tình thái",
+  "coll": [
+   "English modal verbs",
+   "the modal verb 'can'",
+   "use a modal verb"
+  ]
+ },
+ {
+  "id": "tasteless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô vị, nhạt nhẽo; thiếu tế nhị; kém thẩm mỹ",
+  "coll": [
+   "tasteless food",
+   "a tasteless joke",
+   "bland and tasteless",
+   "tasteless remarks"
+  ]
+ },
+ {
+  "id": "dazzle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "làm lóa mắt; làm choáng ngợp; ánh chói lòa",
+  "coll": [
+   "dazzled by the headlights",
+   "dazzle the audience",
+   "dazzled by her beauty",
+   "a dazzling smile"
+  ]
+ },
+ {
+  "id": "uninterested",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không quan tâm; thờ ơ; hờ hững",
+  "coll": [
+   "uninterested in politics",
+   "seem uninterested",
+   "totally uninterested",
+   "an uninterested look"
+  ]
+ },
+ {
+  "id": "wither",
+  "pos": [
+   "v",
+   "n",
+   "adv"
+  ],
+  "vi": "héo úa; tàn lụi; khô héo",
+  "coll": [
+   "the flowers withered",
+   "wither and die",
+   "wither away",
+   "withered leaves"
+  ]
+ },
+ {
+  "id": "innovator",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà cải tiến; người đổi mới sáng tạo",
+  "coll": [
+   "a technology innovator",
+   "a true innovator",
+   "innovators and entrepreneurs",
+   "a leading innovator"
+  ]
+ },
+ {
+  "id": "intermission",
+  "pos": [
+   "n"
+  ],
+  "vi": "giờ giải lao (buổi diễn); quãng nghỉ",
+  "coll": [
+   "a fifteen-minute intermission",
+   "during the intermission",
+   "after the intermission",
+   "without intermission"
+  ]
+ },
+ {
+  "id": "rearrange",
+  "pos": [
+   "v"
+  ],
+  "vi": "sắp xếp lại; bố trí lại; dời lịch",
+  "coll": [
+   "rearrange the furniture",
+   "rearrange the schedule",
+   "rearrange a meeting",
+   "rearrange the letters"
+  ]
+ },
+ {
+  "id": "refreshments",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ ăn thức uống nhẹ; tiệc nhẹ giải khát",
+  "coll": [
+   "light refreshments",
+   "refreshments will be served",
+   "provide refreshments",
+   "refreshments available"
+  ]
+ },
+ {
+  "id": "saucepan",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái xoong; nồi có cán dài",
+  "coll": [
+   "a saucepan of boiling water",
+   "heat the milk in a saucepan",
+   "a non-stick saucepan",
+   "simmer in a saucepan"
+  ]
+ },
+ {
+  "id": "snowboard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ván trượt tuyết; trượt ván trên tuyết",
+  "coll": [
+   "ride a snowboard",
+   "snowboard down the slope",
+   "snowboard boots",
+   "learn to snowboard"
+  ]
+ },
+ {
+  "id": "sportsmanship",
+  "pos": [
+   "n"
+  ],
+  "vi": "tinh thần thể thao",
+  "coll": [
+   "good sportsmanship",
+   "show sportsmanship",
+   "poor sportsmanship",
+   "the spirit of sportsmanship"
+  ]
+ },
+ {
+  "id": "backpacking",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "du lịch bụi; đi phượt ba lô",
+  "coll": [
+   "go backpacking",
+   "a backpacking trip",
+   "backpacking around Europe",
+   "backpacking gear"
+  ]
+ },
+ {
+  "id": "duvet",
+  "pos": [
+   "n"
+  ],
+  "vi": "chăn lông vũ; mền bông có vỏ",
+  "coll": [
+   "a duvet cover",
+   "under the duvet",
+   "a warm duvet",
+   "a duvet day"
+  ]
+ },
+ {
+  "id": "faraway",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xa xôi; xa xăm (ánh nhìn)",
+  "coll": [
+   "faraway places",
+   "a faraway land",
+   "a faraway look in her eyes",
+   "faraway countries"
+  ]
+ },
+ {
+  "id": "fasten",
+  "pos": [
+   "v"
+  ],
+  "vi": "buộc chặt; cài, thắt (dây, khuy)",
+  "coll": [
+   "fasten your seatbelt",
+   "fasten the buttons",
+   "fasten securely",
+   "fasten a necklace"
+  ]
+ }
+]

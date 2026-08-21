@@ -1,0 +1,402 @@
+{
+  "overshadow": {
+    "vi": "làm lu mờ; che khuất; phủ bóng lên",
+    "coll": ["overshadow the achievement", "be overshadowed by", "overshadow the news", "overshadow his career"]
+  },
+  "homeward": {
+    "vi": "về nhà; hướng về nhà",
+    "coll": ["homeward journey", "homeward bound", "head homeward", "the homeward leg"]
+  },
+  "sneer": {
+    "vi": "cười khinh bỉ; nhếch mép chế nhạo; cái nhếch mép khinh bỉ",
+    "coll": ["sneer at someone", "a contemptuous sneer", "with a sneer", "sneer in disgust"]
+  },
+  "stopover": {
+    "vi": "chặng dừng chân; điểm quá cảnh",
+    "coll": ["a stopover in Dubai", "an overnight stopover", "make a stopover", "a short stopover"]
+  },
+  "ageless": {
+    "vi": "trẻ mãi không già; vượt thời gian; trường tồn",
+    "coll": ["ageless beauty", "an ageless classic", "ageless appeal", "ageless wisdom"]
+  },
+  "recollect": {
+    "vi": "nhớ lại; hồi tưởng; trấn tĩnh lại",
+    "coll": ["recollect the details", "as far as I recollect", "try to recollect", "recollect a conversation"]
+  },
+  "ruinous": {
+    "vi": "tàn khốc; tốn kém khủng khiếp; đổ nát",
+    "coll": ["ruinous costs", "a ruinous war", "ruinous consequences", "financially ruinous"]
+  },
+  "skyward": {
+    "vi": "lên trời; hướng lên bầu trời",
+    "coll": ["look skyward", "point skyward", "rise skyward", "gaze skyward"]
+  },
+  "startle": {
+    "vi": "làm giật mình; khiến hoảng hốt; sự giật mình",
+    "coll": ["startle someone", "be startled by", "a startled look", "startle the horses"]
+  },
+  "subplot": {
+    "vi": "tuyến truyện phụ; cốt truyện phụ; lô đất nhỏ",
+    "coll": ["a romantic subplot", "develop a subplot", "a minor subplot", "the main subplot"]
+  },
+  "tablecloth": {
+    "vi": "khăn trải bàn",
+    "coll": ["a white tablecloth", "spread a tablecloth", "a linen tablecloth", "lay the tablecloth"]
+  },
+  "bothersome": {
+    "vi": "phiền phức; gây khó chịu; lằng nhằng",
+    "coll": ["a bothersome cough", "bothersome noise", "find it bothersome", "bothersome details"]
+  },
+  "oversize": {
+    "vi": "quá khổ; cỡ lớn quá mức",
+    "coll": ["an oversize load", "oversize baggage", "an oversize sweater", "oversize furniture"]
+  },
+  "perspiration": {
+    "vi": "mồ hôi; sự đổ mồ hôi; sự lao động cực nhọc",
+    "coll": ["beads of perspiration", "break out in perspiration", "wipe away perspiration", "inspiration and perspiration"]
+  },
+  "ecologist": {
+    "vi": "nhà sinh thái học; nhà bảo vệ môi trường",
+    "coll": ["a marine ecologist", "a leading ecologist", "ecologists warn", "a plant ecologist"]
+  },
+  "gravitation": {
+    "vi": "lực hấp dẫn; sự hút về phía",
+    "coll": ["the law of gravitation", "universal gravitation", "the force of gravitation", "gravitation towards the centre"]
+  },
+  "jealously": {
+    "vi": "một cách ghen tị; khư khư giữ gìn",
+    "coll": ["jealously guard", "a jealously guarded secret", "jealously protect", "watch jealously"]
+  },
+  "outgrow": {
+    "vi": "lớn vượt quá; không còn hợp nữa; phát triển nhanh hơn",
+    "coll": ["outgrow his clothes", "outgrow a habit", "outgrow the premises", "children outgrow their toys"]
+  },
+  "pessimist": {
+    "vi": "người bi quan",
+    "coll": ["a born pessimist", "a confirmed pessimist", "an eternal pessimist", "call me a pessimist"]
+  },
+  "timeliness": {
+    "vi": "tính kịp thời; sự đúng lúc",
+    "coll": ["the timeliness of the report", "accuracy and timeliness", "timeliness of delivery", "ensure timeliness"]
+  },
+  "bathhouse": {
+    "vi": "nhà tắm công cộng; phòng thay đồ bể bơi",
+    "coll": ["a public bathhouse", "a traditional bathhouse", "a Roman bathhouse", "visit the bathhouse"]
+  },
+  "engulf": {
+    "vi": "nhấn chìm; bao trùm; nuốt chửng",
+    "coll": ["flames engulfed the building", "be engulfed in flames", "engulfed in darkness", "engulfed by panic"]
+  },
+  "essayist": {
+    "vi": "nhà viết tiểu luận",
+    "coll": ["a noted essayist", "poet and essayist", "a prolific essayist", "a British essayist"]
+  },
+  "gravestone": {
+    "vi": "bia mộ; mộ chí",
+    "coll": ["an old gravestone", "the inscription on the gravestone", "a marble gravestone", "erect a gravestone"]
+  },
+  "pedantic": {
+    "vi": "câu nệ tiểu tiết; mô phạm cứng nhắc; hay khoe chữ",
+    "coll": ["sound pedantic", "a pedantic tone", "overly pedantic", "pedantic about grammar"]
+  },
+  "spellbound": {
+    "vi": "bị mê hoặc; như bị bỏ bùa",
+    "coll": ["hold the audience spellbound", "sit spellbound", "spellbound by her voice", "watch spellbound"]
+  },
+  "waistcoat": {
+    "vi": "áo ghi lê",
+    "coll": ["a tweed waistcoat", "wear a waistcoat", "a silk waistcoat", "a suit and waistcoat"]
+  },
+  "diphtheria": {
+    "vi": "bệnh bạch hầu",
+    "coll": ["diphtheria vaccine", "an outbreak of diphtheria", "contract diphtheria", "a diphtheria epidemic"]
+  },
+  "downsize": {
+    "vi": "thu hẹp quy mô; cắt giảm nhân sự",
+    "coll": ["downsize the workforce", "downsize operations", "downsize a company", "downsize to a smaller house"]
+  },
+  "handicraft": {
+    "vi": "nghề thủ công; đồ thủ công",
+    "coll": ["traditional handicraft", "handicraft skills", "local handicrafts", "a handicraft market"]
+  },
+  "overhear": {
+    "vi": "nghe lỏm; tình cờ nghe được",
+    "coll": ["overhear a conversation", "I couldn't help overhearing", "overhear someone talking", "overhear a remark"]
+  },
+  "sunbeam": {
+    "vi": "tia nắng",
+    "coll": ["a shaft of sunbeams", "sunbeams streamed through", "dancing sunbeams", "catch a sunbeam"]
+  },
+  "filial": {
+    "vi": "hiếu thảo; thuộc phận làm con",
+    "coll": ["filial piety", "filial duty", "filial affection", "filial obligation"]
+  },
+  "hyphen": {
+    "vi": "dấu gạch nối; nối bằng gạch nối",
+    "coll": ["insert a hyphen", "use a hyphen", "spelled with a hyphen", "a hyphen between words"]
+  },
+  "impressionism": {
+    "vi": "trường phái ấn tượng; chủ nghĩa ấn tượng",
+    "coll": ["French impressionism", "the birth of impressionism", "influenced by impressionism", "musical impressionism"]
+  },
+  "tiptoe": {
+    "vi": "nhón chân; đi rón rén; đầu ngón chân",
+    "coll": ["stand on tiptoe", "tiptoe out of the room", "walk on tiptoe", "tiptoe past the door"]
+  },
+  "workaholic": {
+    "vi": "người nghiện làm việc; tham công tiếc việc",
+    "coll": ["a self-confessed workaholic", "become a workaholic", "a workaholic culture", "he is a workaholic"]
+  },
+  "anchorman": {
+    "vi": "người dẫn bản tin; phát thanh viên chính",
+    "coll": ["a news anchorman", "a TV anchorman", "a veteran anchorman", "the network's anchorman"]
+  },
+  "bewilderment": {
+    "vi": "sự hoang mang; sự bối rối",
+    "coll": ["a look of bewilderment", "stare in bewilderment", "utter bewilderment", "in bewilderment"]
+  },
+  "fume": {
+    "vi": "khói độc; hơi khí độc; sôi máu tức giận",
+    "coll": ["exhaust fumes", "toxic fumes", "petrol fumes", "fume with anger"]
+  },
+  "microbe": {
+    "vi": "vi khuẩn; vi sinh vật",
+    "coll": ["harmful microbes", "gut microbes", "kill microbes", "soil microbes"]
+  },
+  "offhand": {
+    "vi": "không nghĩ trước; tùy tiện; cộc lốc",
+    "coll": ["an offhand remark", "I don't know offhand", "an offhand manner", "an offhand comment"]
+  },
+  "permeate": {
+    "vi": "thấm qua; lan tỏa khắp",
+    "coll": ["permeate the air", "permeate society", "the smell permeated the house", "permeate every aspect"]
+  },
+  "solidity": {
+    "vi": "độ rắn chắc; tính vững chắc",
+    "coll": ["structural solidity", "the solidity of the argument", "financial solidity", "a sense of solidity"]
+  },
+  "thickly": {
+    "vi": "dày; dày đặc; đặc sệt",
+    "coll": ["thickly wooded", "spread thickly", "thickly populated", "snow fell thickly"]
+  },
+  "unmistakably": {
+    "vi": "rõ mười mươi; không thể nhầm lẫn",
+    "coll": ["unmistakably clear", "unmistakably British", "unmistakably his voice", "unmistakably different"]
+  },
+  "drapery": {
+    "vi": "rèm vải; vải rủ nếp; nghề bán vải",
+    "coll": ["heavy drapery", "folds of drapery", "velvet drapery", "drapery over the window"]
+  },
+  "gymnastic": {
+    "vi": "thuộc thể dục dụng cụ; thuộc môn thể dục",
+    "coll": ["gymnastic exercises", "gymnastic skills", "a gymnastic display", "gymnastic ability"]
+  },
+  "impolite": {
+    "vi": "bất lịch sự; khiếm nhã",
+    "coll": ["it is impolite to stare", "an impolite question", "impolite behaviour", "sound impolite"]
+  },
+  "paintbrush": {
+    "vi": "cọ vẽ; chổi sơn",
+    "coll": ["a fine paintbrush", "clean the paintbrush", "dip the paintbrush", "a wide paintbrush"]
+  },
+  "rainstorm": {
+    "vi": "trận mưa lớn; mưa giông",
+    "coll": ["a heavy rainstorm", "a sudden rainstorm", "caught in a rainstorm", "a violent rainstorm"]
+  },
+  "repaint": {
+    "vi": "sơn lại; việc sơn lại",
+    "coll": ["repaint the walls", "repaint the house", "repaint in white", "a fresh repaint"]
+  },
+  "exalt": {
+    "vi": "tôn vinh; đề cao; nâng lên địa vị cao",
+    "coll": ["exalt the virtues of", "be exalted to a position", "exalt his name", "exalt the leader"]
+  },
+  "humbug": {
+    "vi": "trò lừa bịp; chuyện vớ vẩn; kẻ giả dối",
+    "coll": ["a load of humbug", "political humbug", "Bah, humbug!", "sheer humbug"]
+  },
+  "indignity": {
+    "vi": "sự sỉ nhục; điều nhục nhã",
+    "coll": ["suffer the indignity of", "the final indignity", "endure indignities", "spare him the indignity"]
+  },
+  "olympiad": {
+    "vi": "kỳ thi olympic; kỳ Olympic",
+    "coll": ["a mathematical olympiad", "the international olympiad", "compete in an olympiad", "a chess olympiad"]
+  },
+  "drinkable": {
+    "vi": "uống được; đồ uống",
+    "coll": ["drinkable water", "perfectly drinkable", "a drinkable wine", "make the water drinkable"]
+  },
+  "stopwatch": {
+    "vi": "đồng hồ bấm giờ; bấm giờ",
+    "coll": ["start the stopwatch", "a digital stopwatch", "time it with a stopwatch", "stop the stopwatch"]
+  },
+  "toenail": {
+    "vi": "móng chân",
+    "coll": ["cut your toenails", "an ingrown toenail", "paint her toenails", "a broken toenail"]
+  },
+  "truthfulness": {
+    "vi": "tính trung thực; sự thành thật",
+    "coll": ["the truthfulness of the statement", "question his truthfulness", "honesty and truthfulness", "verify the truthfulness"]
+  },
+  "workbench": {
+    "vi": "bàn thợ; bàn thao tác",
+    "coll": ["a wooden workbench", "at the workbench", "a cluttered workbench", "clamp it to the workbench"]
+  },
+  "ravage": {
+    "vi": "tàn phá; sự tàn phá",
+    "coll": ["ravaged by war", "ravaged by fire", "the ravages of time", "ravage the countryside"]
+  },
+  "uncharacteristic": {
+    "vi": "khác hẳn thường ngày; không giống tính cách vốn có",
+    "coll": ["uncharacteristic of him", "an uncharacteristic mistake", "uncharacteristic behaviour", "an uncharacteristic silence"]
+  },
+  "bookish": {
+    "vi": "mọt sách; sách vở khô khan",
+    "coll": ["a bookish young man", "bookish interests", "bookish language", "shy and bookish"]
+  },
+  "gaiety": {
+    "vi": "sự vui vẻ (cũ); không khí hội hè",
+    "coll": ["an air of gaiety", "forced gaiety", "gaiety and laughter", "the gaiety of the crowd"]
+  },
+  "neurosis": {
+    "vi": "chứng nhiễu tâm; bệnh tâm căn (cũ)",
+    "coll": ["a mild neurosis", "suffer from neurosis", "obsessive neurosis", "a collective neurosis"]
+  },
+  "rafter": {
+    "vi": "rui nhà; xà mái",
+    "coll": ["exposed rafters", "the roof rafters", "hang from the rafters", "wooden rafters"]
+  },
+  "malady": {
+    "vi": "căn bệnh; chứng bệnh; tệ nạn",
+    "coll": ["a common malady", "a mysterious malady", "a social malady", "cure the malady"]
+  },
+  "pillowcase": {
+    "vi": "vỏ gối; áo gối",
+    "coll": ["a clean pillowcase", "change the pillowcase", "a cotton pillowcase", "a matching pillowcase"]
+  },
+  "subjunctive": {
+    "vi": "thức giả định; thuộc thức giả định",
+    "coll": ["the subjunctive mood", "use the subjunctive", "the present subjunctive", "a subjunctive form"]
+  },
+  "stonework": {
+    "vi": "công trình xây đá; nghề xây đá",
+    "coll": ["restore the stonework", "crumbling stonework", "decorative stonework", "medieval stonework"]
+  },
+  "furor": {
+    "vi": "làn sóng phẫn nộ; sự náo động dư luận",
+    "coll": ["cause a furor", "a public furor", "a furor over the decision", "spark a furor"]
+  },
+  "irresistibly": {
+    "vi": "không thể cưỡng lại",
+    "coll": ["irresistibly drawn to", "irresistibly attractive", "irresistibly funny", "irresistibly tempting"]
+  },
+  "newscaster": {
+    "vi": "phát thanh viên bản tin",
+    "coll": ["a TV newscaster", "a veteran newscaster", "a well-known newscaster", "the evening newscaster"]
+  },
+  "attentively": {
+    "vi": "chăm chú; một cách chú tâm",
+    "coll": ["listen attentively", "watch attentively", "read attentively", "follow attentively"]
+  },
+  "beautify": {
+    "vi": "làm đẹp; tô điểm",
+    "coll": ["beautify the city", "beautify the garden", "beautify the neighbourhood", "beautify the surroundings"]
+  },
+  "droop": {
+    "vi": "rũ xuống; xịu xuống; ỉu xìu",
+    "coll": ["his shoulders drooped", "the flowers drooped", "eyelids droop", "droop with tiredness"]
+  },
+  "nought": {
+    "vi": "số không; chẳng gì cả",
+    "coll": ["come to nought", "noughts and crosses", "nought point five", "all for nought"]
+  },
+  "outshine": {
+    "vi": "vượt trội hơn hẳn; tỏa sáng hơn",
+    "coll": ["outshine his rivals", "outshine everyone else", "be outshone by", "outshine the competition"]
+  },
+  "paratrooper": {
+    "vi": "lính nhảy dù",
+    "coll": ["a former paratrooper", "drop paratroopers", "paratroopers landed", "a paratrooper regiment"]
+  },
+  "untie": {
+    "vi": "cởi nút; tháo dây; gỡ ra",
+    "coll": ["untie a knot", "untie the rope", "untie your shoelaces", "untie the boat"]
+  },
+  "walkabout": {
+    "vi": "chuyến đi bộ dài ngày; cuộc dạo thăm dân",
+    "coll": ["go walkabout", "a royal walkabout", "on walkabout", "a walkabout in the town"]
+  },
+  "aircrew": {
+    "vi": "tổ bay; phi hành đoàn",
+    "coll": ["aircrew training", "experienced aircrew", "aircrew members", "aircrew and passengers"]
+  },
+  "antiaircraft": {
+    "vi": "phòng không",
+    "coll": ["an antiaircraft gun", "antiaircraft fire", "an antiaircraft missile", "antiaircraft defences"]
+  },
+  "mistreat": {
+    "vi": "ngược đãi; đối xử tệ bạc",
+    "coll": ["mistreat animals", "mistreat prisoners", "be mistreated by", "mistreat employees"]
+  },
+  "stammer": {
+    "vi": "nói lắp; tật nói lắp",
+    "coll": ["stammer an apology", "a slight stammer", "stammer out a reply", "overcome a stammer"]
+  },
+  "blurt": {
+    "vi": "buột miệng nói; lời buột miệng",
+    "coll": ["blurt out the truth", "blurt out an answer", "blurt out a secret", "blurt something out"]
+  },
+  "idolize": {
+    "vi": "thần tượng; tôn sùng thái quá",
+    "coll": ["idolize his father", "be idolized by fans", "idolize a pop star", "idolize a hero"]
+  },
+  "semicolon": {
+    "vi": "dấu chấm phẩy",
+    "coll": ["use a semicolon", "insert a semicolon", "a semicolon separates clauses", "replace it with a semicolon"]
+  },
+  "astonish": {
+    "vi": "làm kinh ngạc; khiến sửng sốt",
+    "coll": ["astonish the world", "be astonished by", "astonish his critics", "it astonished me"]
+  },
+  "centigrade": {
+    "vi": "độ C; thang bách phân",
+    "coll": ["degrees centigrade", "thirty degrees centigrade", "the centigrade scale", "zero centigrade"]
+  },
+  "flexibly": {
+    "vi": "linh hoạt; một cách uyển chuyển",
+    "coll": ["work flexibly", "respond flexibly", "apply the rules flexibly", "adapt flexibly"]
+  },
+  "quotable": {
+    "vi": "đáng trích dẫn",
+    "coll": ["a highly quotable line", "eminently quotable", "quotable quotes", "a quotable phrase"]
+  },
+  "seesaw": {
+    "vi": "bập bênh; lên xuống thất thường",
+    "coll": ["ride a seesaw", "play on the seesaw", "prices seesawed", "a seesaw battle"]
+  },
+  "skylark": {
+    "vi": "chim sơn ca; nô đùa nghịch ngợm",
+    "coll": ["a singing skylark", "the skylark's song", "hear a skylark", "a skylark rose into the air"]
+  },
+  "popularize": {
+    "vi": "phổ biến rộng rãi; đại chúng hóa",
+    "coll": ["popularize the idea", "help popularize science", "popularize a style", "popularized by the media"]
+  },
+  "birdcage": {
+    "vi": "lồng chim",
+    "coll": ["clean the birdcage", "a wire birdcage", "hang a birdcage", "a bird in a birdcage"]
+  },
+  "humanize": {
+    "vi": "làm cho có tình người; nhân bản hóa",
+    "coll": ["humanize the workplace", "humanize the character", "humanize technology", "humanize the debate"]
+  },
+  "soliloquy": {
+    "vi": "màn độc thoại; lời độc thoại nội tâm",
+    "coll": ["Hamlet's soliloquy", "deliver a soliloquy", "a famous soliloquy", "a long soliloquy"]
+  },
+  "anticancer": {
+    "vi": "chống ung thư",
+    "coll": ["an anticancer drug", "anticancer therapy", "anticancer properties", "anticancer treatment"]
+  }
+}

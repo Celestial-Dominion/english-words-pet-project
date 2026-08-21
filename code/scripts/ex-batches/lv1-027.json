@@ -1,0 +1,815 @@
+[
+ {
+  "id": "backpack",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ba lô; du lịch bụi",
+  "coll": [
+   "carry a backpack",
+   "school backpack",
+   "hiking backpack",
+   "backpack through Europe"
+  ]
+ },
+ {
+  "id": "daisy",
+  "pos": [
+   "n"
+  ],
+  "vi": "hoa cúc dại; hoa cúc",
+  "coll": [
+   "a bunch of daisies",
+   "daisy chain",
+   "fresh as a daisy"
+  ]
+ },
+ {
+  "id": "definite",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chắc chắn; rõ ràng; xác định",
+  "coll": [
+   "a definite answer",
+   "definite plans",
+   "a definite improvement",
+   "definite article"
+  ]
+ },
+ {
+  "id": "ecological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc sinh thái; thân thiện môi trường",
+  "coll": [
+   "ecological balance",
+   "ecological disaster",
+   "ecological footprint",
+   "ecological system"
+  ]
+ },
+ {
+  "id": "ecosystem",
+  "pos": [
+   "n"
+  ],
+  "vi": "hệ sinh thái",
+  "coll": [
+   "marine ecosystem",
+   "fragile ecosystem",
+   "forest ecosystem",
+   "protect the ecosystem"
+  ]
+ },
+ {
+  "id": "faint",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "mờ nhạt; yếu ớt; ngất xỉu",
+  "coll": [
+   "a faint smell",
+   "faint hope",
+   "feel faint",
+   "faint from hunger"
+  ]
+ },
+ {
+  "id": "greenhouse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà kính",
+  "coll": [
+   "greenhouse gases",
+   "greenhouse effect",
+   "greenhouse gas emissions",
+   "grow tomatoes in a greenhouse"
+  ]
+ },
+ {
+  "id": "jade",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "ngọc bích; cẩm thạch; màu ngọc bích",
+  "coll": [
+   "jade bracelet",
+   "jade carving",
+   "jade green",
+   "jade jewelry"
+  ]
+ },
+ {
+  "id": "negotiation",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuộc đàm phán; sự thương lượng",
+  "coll": [
+   "peace negotiations",
+   "under negotiation",
+   "enter into negotiations",
+   "negotiation skills"
+  ]
+ },
+ {
+  "id": "newborn",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sơ sinh; trẻ sơ sinh",
+  "coll": [
+   "newborn baby",
+   "newborn care",
+   "a newborn calf"
+  ]
+ },
+ {
+  "id": "parental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "của cha mẹ; thuộc cha mẹ",
+  "coll": [
+   "parental consent",
+   "parental leave",
+   "parental control",
+   "parental guidance"
+  ]
+ },
+ {
+  "id": "participant",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người tham gia; người tham dự",
+  "coll": [
+   "active participant",
+   "study participants",
+   "participants in the survey",
+   "willing participant"
+  ]
+ },
+ {
+  "id": "phantom",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bóng ma; hư ảo; ma quái",
+  "coll": [
+   "phantom limb",
+   "phantom pain",
+   "the Phantom of the Opera",
+   "a phantom ship"
+  ]
+ },
+ {
+  "id": "queue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hàng người chờ; xếp hàng; hàng đợi",
+  "coll": [
+   "stand in a queue",
+   "join the queue",
+   "jump the queue",
+   "queue up for tickets"
+  ]
+ },
+ {
+  "id": "unwanted",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không mong muốn; thừa thãi; bị bỏ rơi",
+  "coll": [
+   "unwanted attention",
+   "unwanted pregnancy",
+   "unwanted guests",
+   "unwanted items"
+  ]
+ },
+ {
+  "id": "vegetarian",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "người ăn chay; ăn chay; chay",
+  "coll": [
+   "vegetarian diet",
+   "vegetarian food",
+   "strict vegetarian",
+   "vegetarian restaurant"
+  ]
+ },
+ {
+  "id": "abundant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dồi dào; phong phú",
+  "coll": [
+   "abundant supply",
+   "abundant resources",
+   "abundant evidence",
+   "abundant wildlife"
+  ]
+ },
+ {
+  "id": "complement",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phần bổ sung; bổ ngữ; bổ sung cho",
+  "coll": [
+   "complement each other",
+   "a perfect complement to",
+   "complement the flavor",
+   "full complement of staff"
+  ]
+ },
+ {
+  "id": "conquer",
+  "pos": [
+   "v"
+  ],
+  "vi": "chinh phục; xâm chiếm",
+  "coll": [
+   "conquer the world",
+   "conquer your fear",
+   "conquer new territory",
+   "divide and conquer"
+  ]
+ },
+ {
+  "id": "delightful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thú vị; đáng yêu; dễ chịu",
+  "coll": [
+   "a delightful evening",
+   "delightful surprise",
+   "absolutely delightful",
+   "a delightful little town"
+  ]
+ },
+ {
+  "id": "embarrassment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xấu hổ; sự ngượng ngùng; nỗi hổ thẹn",
+  "coll": [
+   "cause embarrassment",
+   "blush with embarrassment",
+   "to my embarrassment",
+   "an embarrassment to the family"
+  ]
+ },
+ {
+  "id": "hearted",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "có lòng (trong từ ghép); có trái tim",
+  "coll": [
+   "kind-hearted",
+   "warm-hearted",
+   "broken-hearted",
+   "whole-hearted support"
+  ]
+ },
+ {
+  "id": "herd",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đàn (gia súc); lùa; chăn dắt",
+  "coll": [
+   "a herd of cattle",
+   "a herd of elephants",
+   "herd mentality",
+   "herd the sheep"
+  ]
+ },
+ {
+  "id": "interval",
+  "pos": [
+   "n"
+  ],
+  "vi": "khoảng thời gian; khoảng cách; quãng nghỉ",
+  "coll": [
+   "at regular intervals",
+   "time interval",
+   "interval training",
+   "at intervals of ten minutes"
+  ]
+ },
+ {
+  "id": "objection",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "sự phản đối; lời phản đối",
+  "coll": [
+   "raise an objection",
+   "no objection",
+   "strong objection",
+   "objection to the plan"
+  ]
+ },
+ {
+  "id": "prohibition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cấm; lệnh cấm; thời kỳ cấm rượu (Mỹ)",
+  "coll": [
+   "prohibition of alcohol",
+   "prohibition on smoking",
+   "strict prohibition",
+   "the Prohibition era"
+  ]
+ },
+ {
+  "id": "vein",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tĩnh mạch; mạch máu; mạch (quặng, lá); giọng điệu",
+  "coll": [
+   "veins and arteries",
+   "varicose veins",
+   "in the same vein",
+   "a vein of gold"
+  ]
+ },
+ {
+  "id": "accountant",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "kế toán viên; nhân viên kế toán",
+  "coll": [
+   "chartered accountant",
+   "certified public accountant",
+   "tax accountant",
+   "hire an accountant"
+  ]
+ },
+ {
+  "id": "amusing",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "buồn cười; thú vị; vui",
+  "coll": [
+   "an amusing story",
+   "highly amusing",
+   "find it amusing",
+   "an amusing anecdote"
+  ]
+ },
+ {
+  "id": "calculation",
+  "pos": [
+   "n"
+  ],
+  "vi": "phép tính; sự tính toán",
+  "coll": [
+   "do a calculation",
+   "a quick calculation",
+   "mathematical calculation",
+   "according to my calculations"
+  ]
+ },
+ {
+  "id": "definite article",
+  "pos": [
+   "n"
+  ],
+  "vi": "mạo từ xác định",
+  "coll": [
+   "the definite article \"the\"",
+   "use the definite article",
+   "omit the definite article"
+  ]
+ },
+ {
+  "id": "extinction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tuyệt chủng",
+  "coll": [
+   "threatened with extinction",
+   "mass extinction",
+   "on the brink of extinction",
+   "extinction of species"
+  ]
+ },
+ {
+  "id": "geology",
+  "pos": [
+   "n"
+  ],
+  "vi": "địa chất học; cấu tạo địa chất",
+  "coll": [
+   "study geology",
+   "geology department",
+   "the geology of the region"
+  ]
+ },
+ {
+  "id": "heavenly",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "thuộc thiên đường; tuyệt diệu; trên trời",
+  "coll": [
+   "heavenly bodies",
+   "heavenly Father",
+   "a heavenly voice",
+   "smell heavenly"
+  ]
+ },
+ {
+  "id": "recycling",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tái chế; việc tái chế",
+  "coll": [
+   "recycling bin",
+   "recycling program",
+   "waste recycling",
+   "recycling center"
+  ]
+ },
+ {
+  "id": "stubborn",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bướng bỉnh; cứng đầu; khó tẩy (vết bẩn)",
+  "coll": [
+   "stubborn as a mule",
+   "stubborn stains",
+   "stubborn refusal",
+   "too stubborn to admit it"
+  ]
+ },
+ {
+  "id": "tightly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chặt; chặt chẽ; khít",
+  "coll": [
+   "hold tightly",
+   "tightly packed",
+   "tightly controlled",
+   "wrapped tightly"
+  ]
+ },
+ {
+  "id": "unusually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "khác thường; hiếm thấy",
+  "coll": [
+   "unusually high",
+   "unusually warm",
+   "unusually quiet",
+   "not unusually"
+  ]
+ },
+ {
+  "id": "volcano",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "núi lửa",
+  "coll": [
+   "active volcano",
+   "dormant volcano",
+   "the volcano erupted",
+   "extinct volcano"
+  ]
+ },
+ {
+  "id": "attach",
+  "pos": [
+   "v"
+  ],
+  "vi": "gắn; đính kèm; buộc",
+  "coll": [
+   "attach a file",
+   "attached to the email",
+   "attach great importance to",
+   "attach a label"
+  ]
+ },
+ {
+  "id": "butcher",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "người bán thịt; đồ tể; tàn sát",
+  "coll": [
+   "butcher shop",
+   "the local butcher",
+   "butcher's knife",
+   "butcher the meat"
+  ]
+ },
+ {
+  "id": "deed",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hành động; việc làm; chứng thư (nhà đất)",
+  "coll": [
+   "a good deed",
+   "evil deeds",
+   "do a good deed",
+   "title deed"
+  ]
+ },
+ {
+  "id": "gallon",
+  "pos": [
+   "n"
+  ],
+  "vi": "galông; đơn vị đo dung tích (~3,8 lít)",
+  "coll": [
+   "a gallon of milk",
+   "gallons of water",
+   "miles per gallon"
+  ]
+ },
+ {
+  "id": "gown",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "áo choàng; váy dài dạ hội; áo thụng",
+  "coll": [
+   "wedding gown",
+   "evening gown",
+   "hospital gown",
+   "cap and gown"
+  ]
+ },
+ {
+  "id": "lifelong",
+  "pos": [
+   "adj"
+  ],
+  "vi": "suốt đời; cả đời",
+  "coll": [
+   "lifelong friend",
+   "lifelong learning",
+   "lifelong dream",
+   "lifelong passion"
+  ]
+ },
+ {
+  "id": "noticeable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dễ nhận thấy; đáng chú ý",
+  "coll": [
+   "a noticeable difference",
+   "noticeable improvement",
+   "barely noticeable",
+   "immediately noticeable"
+  ]
+ },
+ {
+  "id": "vivid",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sống động; rực rỡ; sặc sỡ",
+  "coll": [
+   "vivid memory",
+   "vivid imagination",
+   "vivid colors",
+   "vivid description"
+  ]
+ },
+ {
+  "id": "auxiliary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phụ trợ; dự bị; trợ động từ",
+  "coll": [
+   "auxiliary verb",
+   "auxiliary staff",
+   "auxiliary power",
+   "auxiliary equipment"
+  ]
+ },
+ {
+  "id": "baggage",
+  "pos": [
+   "n"
+  ],
+  "vi": "hành lý; gánh nặng (tâm lý)",
+  "coll": [
+   "baggage claim",
+   "excess baggage",
+   "emotional baggage",
+   "baggage allowance"
+  ]
+ },
+ {
+  "id": "ecology",
+  "pos": [
+   "n"
+  ],
+  "vi": "sinh thái học; hệ sinh thái",
+  "coll": [
+   "marine ecology",
+   "plant ecology",
+   "the ecology of the area",
+   "ecology movement"
+  ]
+ },
+ {
+  "id": "ingredient",
+  "pos": [
+   "n"
+  ],
+  "vi": "nguyên liệu; thành phần",
+  "coll": [
+   "key ingredient",
+   "fresh ingredients",
+   "active ingredient",
+   "secret ingredient"
+  ]
+ },
+ {
+  "id": "nod",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gật đầu; cái gật đầu",
+  "coll": [
+   "nod your head",
+   "nod in agreement",
+   "give a nod",
+   "nod off"
+  ]
+ },
+ {
+  "id": "vain",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tự phụ; vô ích; hão huyền",
+  "coll": [
+   "in vain",
+   "try in vain",
+   "a vain attempt",
+   "vain hope"
+  ]
+ },
+ {
+  "id": "whisper",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiếng thì thầm; thì thầm; lời đồn",
+  "coll": [
+   "speak in a whisper",
+   "whisper in her ear",
+   "whisper softly",
+   "whispers of scandal"
+  ]
+ },
+ {
+  "id": "worthwhile",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng giá; đáng công sức; bổ ích",
+  "coll": [
+   "a worthwhile investment",
+   "a worthwhile cause",
+   "well worthwhile",
+   "make it worthwhile"
+  ]
+ },
+ {
+  "id": "devotion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tận tụy; lòng sùng kính; sự hết lòng",
+  "coll": [
+   "devotion to duty",
+   "deep devotion",
+   "religious devotion",
+   "devotion to her family"
+  ]
+ },
+ {
+  "id": "owing",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "còn nợ; chưa thanh toán",
+  "coll": [
+   "owing to the weather",
+   "money owing",
+   "the amount owing",
+   "owing to circumstances"
+  ]
+ },
+ {
+  "id": "popcorn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bỏng ngô; bắp rang",
+  "coll": [
+   "a bag of popcorn",
+   "microwave popcorn",
+   "popcorn machine",
+   "buttered popcorn"
+  ]
+ },
+ {
+  "id": "regain",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lấy lại; giành lại; hồi phục",
+  "coll": [
+   "regain consciousness",
+   "regain control",
+   "regain confidence",
+   "regain strength"
+  ]
+ },
+ {
+  "id": "renew",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "gia hạn; làm mới; nối lại",
+  "coll": [
+   "renew a contract",
+   "renew your passport",
+   "renew efforts",
+   "renew a subscription"
+  ]
+ }
+]

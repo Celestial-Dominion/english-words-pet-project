@@ -1,0 +1,804 @@
+[
+ {
+  "id": "horde",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đám đông; bầy lũ; đoàn du mục",
+  "coll": [
+   "a horde of tourists",
+   "hordes of people",
+   "the Golden Horde",
+   "a horde of zombies"
+  ]
+ },
+ {
+  "id": "valor",
+  "pos": [
+   "n"
+  ],
+  "vi": "lòng dũng cảm; sự quả cảm",
+  "coll": [
+   "an act of valor",
+   "medal of valor",
+   "great valor",
+   "courage and valor"
+  ]
+ },
+ {
+  "id": "virtuous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đức hạnh; đạo đức; ngay thẳng",
+  "coll": [
+   "a virtuous life",
+   "a virtuous circle",
+   "a virtuous woman",
+   "morally virtuous"
+  ]
+ },
+ {
+  "id": "aroma",
+  "pos": [
+   "n"
+  ],
+  "vi": "hương thơm; mùi thơm",
+  "coll": [
+   "the aroma of coffee",
+   "a rich aroma",
+   "a pleasant aroma",
+   "aroma and flavour"
+  ]
+ },
+ {
+  "id": "firmware",
+  "pos": [
+   "n"
+  ],
+  "vi": "phần sụn (firmware)",
+  "coll": [
+   "firmware update",
+   "flash the firmware",
+   "firmware version",
+   "install new firmware"
+  ]
+ },
+ {
+  "id": "neurology",
+  "pos": [
+   "n"
+  ],
+  "vi": "thần kinh học; chuyên khoa thần kinh",
+  "coll": [
+   "department of neurology",
+   "specialize in neurology",
+   "pediatric neurology",
+   "a neurology clinic"
+  ]
+ },
+ {
+  "id": "lovable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng yêu; dễ mến",
+  "coll": [
+   "a lovable character",
+   "a lovable rogue",
+   "utterly lovable",
+   "a lovable personality"
+  ]
+ },
+ {
+  "id": "inorganic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vô cơ; phi sinh vật",
+  "coll": [
+   "inorganic chemistry",
+   "inorganic compounds",
+   "inorganic matter",
+   "inorganic fertilizer"
+  ]
+ },
+ {
+  "id": "deletion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xóa bỏ; phần bị xóa; đột biến mất đoạn",
+  "coll": [
+   "deletion of a file",
+   "gene deletion",
+   "request deletion",
+   "deletion of data"
+  ]
+ },
+ {
+  "id": "crucible",
+  "pos": [
+   "n"
+  ],
+  "vi": "nồi nấu kim loại; thử thách tôi luyện",
+  "coll": [
+   "a crucible of change",
+   "melt in a crucible",
+   "the crucible of war",
+   "crucible steel"
+  ]
+ },
+ {
+  "id": "pantry",
+  "pos": [
+   "n"
+  ],
+  "vi": "kho đựng thực phẩm; tủ đựng đồ ăn",
+  "coll": [
+   "a walk-in pantry",
+   "pantry shelves",
+   "stock the pantry",
+   "a kitchen pantry"
+  ]
+ },
+ {
+  "id": "girly",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "nữ tính điệu đà; kiểu con gái",
+  "coll": [
+   "girly things",
+   "a girly voice",
+   "girly colours",
+   "a girly girl"
+  ]
+ },
+ {
+  "id": "converge",
+  "pos": [
+   "v"
+  ],
+  "vi": "hội tụ; gặp nhau; quy về một mối",
+  "coll": [
+   "converge on a point",
+   "roads converge",
+   "views converge",
+   "converge towards"
+  ]
+ },
+ {
+  "id": "stretcher",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cáng cứu thương; khung căng vải vẽ",
+  "coll": [
+   "carried off on a stretcher",
+   "a stretcher bearer",
+   "put on a stretcher",
+   "a stretcher case"
+  ]
+ },
+ {
+  "id": "inconsistency",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự không nhất quán; điểm mâu thuẫn",
+  "coll": [
+   "an inconsistency in the story",
+   "logical inconsistency",
+   "point out inconsistencies",
+   "inconsistency between"
+  ]
+ },
+ {
+  "id": "puncture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lỗ thủng; chọc thủng; sự xịt lốp",
+  "coll": [
+   "get a puncture",
+   "puncture the tyre",
+   "a puncture wound",
+   "puncture the balloon"
+  ]
+ },
+ {
+  "id": "downgrade",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hạ cấp; hạ bậc đánh giá; sự giáng cấp",
+  "coll": [
+   "downgrade the rating",
+   "a credit downgrade",
+   "downgrade the forecast",
+   "downgrade a storm"
+  ]
+ },
+ {
+  "id": "discern",
+  "pos": [
+   "v"
+  ],
+  "vi": "nhận ra; phân biệt; nhìn thấu",
+  "coll": [
+   "discern a pattern",
+   "hard to discern",
+   "discern the difference",
+   "discern the truth"
+  ]
+ },
+ {
+  "id": "domino",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quân domino; hiệu ứng dây chuyền",
+  "coll": [
+   "the domino effect",
+   "play dominoes",
+   "fall like dominoes",
+   "a set of dominoes"
+  ]
+ },
+ {
+  "id": "embryonic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phôi thai; còn sơ khai",
+  "coll": [
+   "embryonic stem cells",
+   "at an embryonic stage",
+   "embryonic development",
+   "still embryonic"
+  ]
+ },
+ {
+  "id": "implicitly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách ngầm hiểu; mặc nhiên; tuyệt đối (tin)",
+  "coll": [
+   "implicitly assumed",
+   "trust someone implicitly",
+   "implicitly acknowledged",
+   "implicitly defined"
+  ]
+ },
+ {
+  "id": "droid",
+  "pos": [
+   "n"
+  ],
+  "vi": "người máy; rô-bốt",
+  "coll": [
+   "a battle droid",
+   "a protocol droid",
+   "an astromech droid",
+   "droid army"
+  ]
+ },
+ {
+  "id": "lotto",
+  "pos": [
+   "n"
+  ],
+  "vi": "xổ số lô tô",
+  "coll": [
+   "play the lotto",
+   "win the lotto",
+   "a lotto ticket",
+   "lotto numbers"
+  ]
+ },
+ {
+  "id": "corny",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sến; sáo rỗng; nhạt nhẽo",
+  "coll": [
+   "a corny joke",
+   "corny lines",
+   "sound corny",
+   "corny but true"
+  ]
+ },
+ {
+  "id": "seductive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "quyến rũ; đầy mê hoặc",
+  "coll": [
+   "a seductive smile",
+   "a seductive voice",
+   "a seductive idea",
+   "seductive charm"
+  ]
+ },
+ {
+  "id": "plagiarism",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đạo văn",
+  "coll": [
+   "accused of plagiarism",
+   "commit plagiarism",
+   "a plagiarism check",
+   "blatant plagiarism"
+  ]
+ },
+ {
+  "id": "prologue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lời mở đầu; khúc dạo đầu",
+  "coll": [
+   "the prologue to the novel",
+   "in the prologue",
+   "a prologue to war",
+   "write a prologue"
+  ]
+ },
+ {
+  "id": "gracefully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách duyên dáng; nhẹ nhàng khéo léo",
+  "coll": [
+   "move gracefully",
+   "age gracefully",
+   "bow out gracefully",
+   "fail gracefully"
+  ]
+ },
+ {
+  "id": "unfounded",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô căn cứ; không có cơ sở",
+  "coll": [
+   "unfounded rumours",
+   "unfounded fears",
+   "unfounded allegations",
+   "completely unfounded"
+  ]
+ },
+ {
+  "id": "lifeline",
+  "pos": [
+   "n"
+  ],
+  "vi": "phao cứu sinh; cứu cánh; tuyến tiếp tế sống còn",
+  "coll": [
+   "throw someone a lifeline",
+   "a vital lifeline",
+   "an economic lifeline",
+   "a lifeline for the poor"
+  ]
+ },
+ {
+  "id": "humming",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "ngân nga; tiếng vo ve; rộn ràng nhộn nhịp",
+  "coll": [
+   "humming a tune",
+   "the humming of bees",
+   "a humming sound",
+   "keep the business humming"
+  ]
+ },
+ {
+  "id": "sludge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bùn thải; cặn bùn",
+  "coll": [
+   "sewage sludge",
+   "toxic sludge",
+   "sludge treatment",
+   "thick sludge"
+  ]
+ },
+ {
+  "id": "drenched",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ướt sũng; đẫm",
+  "coll": [
+   "drenched in sweat",
+   "drenched with rain",
+   "completely drenched",
+   "a sun-drenched beach"
+  ]
+ },
+ {
+  "id": "untitled",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không tên; chưa đặt tựa",
+  "coll": [
+   "an untitled painting",
+   "an untitled document",
+   "the album is untitled",
+   "an untitled work"
+  ]
+ },
+ {
+  "id": "truthfully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thành thật; đúng sự thật",
+  "coll": [
+   "answer truthfully",
+   "speak truthfully",
+   "truthfully speaking",
+   "report truthfully"
+  ]
+ },
+ {
+  "id": "relational",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc quan hệ; kiểu quan hệ (cơ sở dữ liệu)",
+  "coll": [
+   "relational database",
+   "relational model",
+   "relational skills",
+   "relational problems"
+  ]
+ },
+ {
+  "id": "transplantation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cấy ghép; ca ghép tạng",
+  "coll": [
+   "organ transplantation",
+   "kidney transplantation",
+   "bone marrow transplantation",
+   "transplantation surgery"
+  ]
+ },
+ {
+  "id": "biologically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt sinh học",
+  "coll": [
+   "biologically active",
+   "biologically determined",
+   "biologically related",
+   "biologically speaking"
+  ]
+ },
+ {
+  "id": "rotational",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc chuyển động quay; luân phiên",
+  "coll": [
+   "rotational speed",
+   "rotational motion",
+   "rotational energy",
+   "rotational shifts"
+  ]
+ },
+ {
+  "id": "ignited",
+  "pos": [
+   "v"
+  ],
+  "vi": "đã bốc cháy; đã châm ngòi",
+  "coll": [
+   "ignited the fire",
+   "ignited a debate",
+   "the fuel ignited",
+   "ignited protests"
+  ]
+ },
+ {
+  "id": "commemorative",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kỷ niệm; để tưởng niệm; vật kỷ niệm",
+  "coll": [
+   "commemorative stamp",
+   "commemorative plaque",
+   "commemorative coin",
+   "commemorative event"
+  ]
+ },
+ {
+  "id": "uninsured",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không có bảo hiểm; chưa mua bảo hiểm",
+  "coll": [
+   "uninsured driver",
+   "uninsured patients",
+   "uninsured losses",
+   "remain uninsured"
+  ]
+ },
+ {
+  "id": "overland",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "đường bộ; bằng đường bộ",
+  "coll": [
+   "overland route",
+   "overland journey",
+   "travel overland",
+   "overland trade"
+  ]
+ },
+ {
+  "id": "filmmaking",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc làm phim; nghề làm phim",
+  "coll": [
+   "independent filmmaking",
+   "documentary filmmaking",
+   "study filmmaking",
+   "filmmaking process"
+  ]
+ },
+ {
+  "id": "remastered",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đã tái xử lý âm thanh/hình ảnh; bản làm lại chất lượng cao",
+  "coll": [
+   "digitally remastered",
+   "remastered edition",
+   "remastered version",
+   "remastered album"
+  ]
+ },
+ {
+  "id": "emoji",
+  "pos": [
+   "n"
+  ],
+  "vi": "biểu tượng cảm xúc; emoji",
+  "coll": [
+   "send an emoji",
+   "smiley emoji",
+   "emoji keyboard",
+   "heart emoji"
+  ]
+ },
+ {
+  "id": "vape",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "hút thuốc lá điện tử; thuốc lá điện tử",
+  "coll": [
+   "vape pen",
+   "vape shop",
+   "start vaping",
+   "quit vaping"
+  ]
+ },
+ {
+  "id": "chronology",
+  "pos": [
+   "n"
+  ],
+  "vi": "trình tự thời gian; niên biểu; niên đại học",
+  "coll": [
+   "in chronology",
+   "detailed chronology",
+   "chronology of events",
+   "establish a chronology"
+  ]
+ },
+ {
+  "id": "meteorology",
+  "pos": [
+   "n"
+  ],
+  "vi": "khí tượng học; ngành khí tượng",
+  "coll": [
+   "study meteorology",
+   "marine meteorology",
+   "meteorology degree",
+   "modern meteorology"
+  ]
+ },
+ {
+  "id": "calamity",
+  "pos": [
+   "n"
+  ],
+  "vi": "tai họa; thảm họa; tai ương",
+  "coll": [
+   "natural calamity",
+   "economic calamity",
+   "avert a calamity",
+   "calamity struck"
+  ]
+ },
+ {
+  "id": "fruition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thành hiện thực; kết quả đạt được",
+  "coll": [
+   "come to fruition",
+   "bring to fruition",
+   "reach fruition",
+   "years of work came to fruition"
+  ]
+ },
+ {
+  "id": "armory",
+  "pos": [
+   "n"
+  ],
+  "vi": "kho vũ khí; xưởng vũ khí",
+  "coll": [
+   "national armory",
+   "raid an armory",
+   "armory building",
+   "weapons armory"
+  ]
+ },
+ {
+  "id": "abrasive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cộc cằn, khó ưa; mài mòn; chất mài mòn",
+  "coll": [
+   "abrasive manner",
+   "abrasive personality",
+   "abrasive material",
+   "mildly abrasive"
+  ]
+ },
+ {
+  "id": "accomplice",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ đồng phạm; tòng phạm",
+  "coll": [
+   "alleged accomplice",
+   "act as an accomplice",
+   "accomplice to murder",
+   "arrest an accomplice"
+  ]
+ },
+ {
+  "id": "accompaniment",
+  "pos": [
+   "n"
+  ],
+  "vi": "phần đệm nhạc; món ăn kèm; sự đi kèm",
+  "coll": [
+   "piano accompaniment",
+   "musical accompaniment",
+   "perfect accompaniment",
+   "to the accompaniment of"
+  ]
+ },
+ {
+  "id": "synergy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cộng hưởng; hiệu quả phối hợp",
+  "coll": [
+   "create synergy",
+   "synergy between teams",
+   "positive synergy",
+   "synergy effect"
+  ]
+ },
+ {
+  "id": "feces",
+  "pos": [
+   "n"
+  ],
+  "vi": "phân; chất thải",
+  "coll": [
+   "animal feces",
+   "human feces",
+   "traces of feces",
+   "feces sample"
+  ]
+ },
+ {
+  "id": "laureate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "người được vinh danh; đoạt giải",
+  "coll": [
+   "Nobel laureate",
+   "poet laureate",
+   "laureate of the prize",
+   "former laureate"
+  ]
+ },
+ {
+  "id": "homogeneous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đồng nhất; thuần nhất",
+  "coll": [
+   "homogeneous group",
+   "homogeneous mixture",
+   "culturally homogeneous",
+   "homogeneous population"
+  ]
+ },
+ {
+  "id": "maniac",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẻ điên; người cuồng (việc gì)",
+  "coll": [
+   "drive like a maniac",
+   "religious maniac",
+   "raving maniac",
+   "control maniac"
+  ]
+ }
+]

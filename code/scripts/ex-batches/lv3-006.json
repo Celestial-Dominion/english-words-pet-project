@@ -1,0 +1,891 @@
+[
+ {
+  "id": "harassment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quấy rối; sự sách nhiễu",
+  "coll": [
+   "sexual harassment",
+   "workplace harassment",
+   "harassment claim",
+   "online harassment",
+   "harassment of staff"
+  ]
+ },
+ {
+  "id": "precision",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "độ chính xác; sự chuẩn xác",
+  "coll": [
+   "with precision",
+   "precision engineering",
+   "precision instrument",
+   "high precision",
+   "surgical precision"
+  ]
+ },
+ {
+  "id": "voluntary",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "tự nguyện; tình nguyện; không hưởng lương",
+  "coll": [
+   "voluntary work",
+   "voluntary contribution",
+   "voluntary redundancy",
+   "voluntary participation",
+   "voluntary organisation"
+  ]
+ },
+ {
+  "id": "upside",
+  "pos": [
+   "n",
+   "prep"
+  ],
+  "vi": "mặt tích cực; tiềm năng tăng giá; phía trên",
+  "coll": [
+   "the upside of",
+   "upside potential",
+   "upside down",
+   "on the upside",
+   "upside risk"
+  ]
+ },
+ {
+  "id": "void",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "vô hiệu; khoảng trống; hủy bỏ",
+  "coll": [
+   "null and void",
+   "declare void",
+   "fill the void",
+   "a void in her life",
+   "void a contract"
+  ]
+ },
+ {
+  "id": "timber",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "vi": "gỗ xẻ; cây lấy gỗ; dầm gỗ",
+  "coll": [
+   "timber frame",
+   "timber industry",
+   "hardwood timber",
+   "timber merchant",
+   "treated timber"
+  ]
+ },
+ {
+  "id": "notably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đáng chú ý là; đặc biệt là",
+  "coll": [
+   "most notably",
+   "notably absent",
+   "notably higher",
+   "notably different"
+  ]
+ },
+ {
+  "id": "insert",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chèn vào; lắp vào; tờ rơi kèm theo",
+  "coll": [
+   "insert a coin",
+   "insert the card",
+   "insert a comment",
+   "insert text",
+   "newspaper insert"
+  ]
+ },
+ {
+  "id": "theoretical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lý thuyết; thuộc lý thuyết",
+  "coll": [
+   "theoretical framework",
+   "theoretical physics",
+   "theoretical model",
+   "purely theoretical",
+   "theoretical approach"
+  ]
+ },
+ {
+  "id": "adaptation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thích nghi; bản chuyển thể",
+  "coll": [
+   "film adaptation",
+   "adaptation to climate change",
+   "stage adaptation",
+   "adaptation of the novel",
+   "evolutionary adaptation"
+  ]
+ },
+ {
+  "id": "legit",
+  "pos": [
+   "n",
+   "adj",
+   "adv"
+  ],
+  "vi": "xịn, thứ thiệt; hợp pháp; thật sự",
+  "coll": [
+   "totally legit",
+   "a legit business",
+   "legit reason",
+   "sounds legit",
+   "a legit concern"
+  ]
+ },
+ {
+  "id": "crude",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thô sơ; thô tục; dầu thô",
+  "coll": [
+   "crude oil",
+   "crude estimate",
+   "crude joke",
+   "crude method",
+   "crude drawing"
+  ]
+ },
+ {
+  "id": "jerk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kẻ đáng ghét; cú giật mạnh; giật mạnh",
+  "coll": [
+   "what a jerk",
+   "a jerk of the head",
+   "jerk away",
+   "knee-jerk reaction",
+   "jerk the rope"
+  ]
+ },
+ {
+  "id": "pledge",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cam kết; lời hứa long trọng; cầm cố",
+  "coll": [
+   "pledge support",
+   "make a pledge",
+   "pledge allegiance",
+   "campaign pledge",
+   "pledge money"
+  ]
+ },
+ {
+  "id": "silicon",
+  "pos": [
+   "n"
+  ],
+  "vi": "silic (nguyên tố hóa học)",
+  "coll": [
+   "silicon chip",
+   "silicon wafer",
+   "Silicon Valley",
+   "silicon dioxide",
+   "silicon-based"
+  ]
+ },
+ {
+  "id": "nude",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khỏa thân; màu da; tranh khỏa thân",
+  "coll": [
+   "nude photo",
+   "in the nude",
+   "nude model",
+   "nude scene",
+   "nude colour"
+  ]
+ },
+ {
+  "id": "distinctive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đặc trưng; dễ nhận ra, riêng biệt",
+  "coll": [
+   "distinctive style",
+   "distinctive feature",
+   "distinctive voice",
+   "distinctive flavour",
+   "highly distinctive"
+  ]
+ },
+ {
+  "id": "interim",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tạm thời; lâm thời",
+  "coll": [
+   "interim government",
+   "interim report",
+   "interim manager",
+   "interim measure",
+   "interim results"
+  ]
+ },
+ {
+  "id": "magnitude",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ lớn; tầm mức, quy mô; cấp độ động đất",
+  "coll": [
+   "the magnitude of the problem",
+   "order of magnitude",
+   "earthquake magnitude",
+   "a magnitude 7 quake",
+   "sheer magnitude"
+  ]
+ },
+ {
+  "id": "vinyl",
+  "pos": [
+   "n"
+  ],
+  "vi": "đĩa than; nhựa vinyl",
+  "coll": [
+   "vinyl record",
+   "vinyl flooring",
+   "on vinyl",
+   "vinyl siding",
+   "vinyl collection"
+  ]
+ },
+ {
+  "id": "escort",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hộ tống; người đi kèm; đoàn hộ tống",
+  "coll": [
+   "police escort",
+   "under escort",
+   "escort service",
+   "escort someone home",
+   "armed escort"
+  ]
+ },
+ {
+  "id": "disclosure",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tiết lộ; việc công bố thông tin",
+  "coll": [
+   "full disclosure",
+   "public disclosure",
+   "financial disclosure",
+   "disclosure of information",
+   "non-disclosure agreement"
+  ]
+ },
+ {
+  "id": "institutional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc thể chế; mang tính tổ chức; của các định chế",
+  "coll": [
+   "institutional investor",
+   "institutional racism",
+   "institutional reform",
+   "institutional framework",
+   "institutional support"
+  ]
+ },
+ {
+  "id": "recruitment",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc tuyển dụng; sự tuyển quân",
+  "coll": [
+   "recruitment process",
+   "recruitment agency",
+   "staff recruitment",
+   "recruitment drive",
+   "online recruitment"
+  ]
+ },
+ {
+  "id": "fossil",
+  "pos": [
+   "n"
+  ],
+  "vi": "hóa thạch",
+  "coll": [
+   "fossil fuel",
+   "fossil record",
+   "dinosaur fossil",
+   "fossil remains",
+   "fossil discovery"
+  ]
+ },
+ {
+  "id": "speculation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đồn đoán; việc đầu cơ",
+  "coll": [
+   "wild speculation",
+   "market speculation",
+   "fuel speculation",
+   "speculation about",
+   "pure speculation"
+  ]
+ },
+ {
+  "id": "wicked",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "độc ác, xấu xa; tinh quái; cực đỉnh",
+  "coll": [
+   "wicked witch",
+   "a wicked sense of humour",
+   "wicked grin",
+   "wicked smile",
+   "wicked problem"
+  ]
+ },
+ {
+  "id": "offset",
+  "pos": [
+   "n",
+   "v",
+   "adv",
+   "adj"
+  ],
+  "vi": "bù đắp, bù trừ; khoản bù trừ; in offset",
+  "coll": [
+   "offset the cost",
+   "carbon offset",
+   "offset losses",
+   "offset printing",
+   "offset against tax"
+  ]
+ },
+ {
+  "id": "quarterly",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "hàng quý; tạp chí ra hàng quý",
+  "coll": [
+   "quarterly report",
+   "quarterly earnings",
+   "quarterly results",
+   "quarterly meeting",
+   "paid quarterly"
+  ]
+ },
+ {
+  "id": "asylum",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quyền tị nạn; nơi lánh nạn; nhà thương điên (cũ)",
+  "coll": [
+   "seek asylum",
+   "political asylum",
+   "asylum seeker",
+   "grant asylum",
+   "asylum application"
+  ]
+ },
+ {
+  "id": "freight",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "hàng hóa vận chuyển; cước phí vận chuyển",
+  "coll": [
+   "freight train",
+   "freight costs",
+   "air freight",
+   "freight forwarder",
+   "rail freight"
+  ]
+ },
+ {
+  "id": "cylinder",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hình trụ; xi lanh; bình khí",
+  "coll": [
+   "gas cylinder",
+   "engine cylinder",
+   "cylinder head",
+   "four-cylinder engine",
+   "oxygen cylinder"
+  ]
+ },
+ {
+  "id": "instrumental",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "then chốt, góp phần quyết định; nhạc không lời",
+  "coll": [
+   "instrumental in",
+   "play an instrumental role",
+   "instrumental music",
+   "instrumental version",
+   "instrumental track"
+  ]
+ },
+ {
+  "id": "vector",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "véc-tơ; vật trung gian truyền bệnh; hướng, đường đi",
+  "coll": [
+   "vector quantity",
+   "disease vector",
+   "vector graphics",
+   "attack vector",
+   "vector of infection"
+  ]
+ },
+ {
+  "id": "affiliate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đơn vị liên kết; liên kết với; đối tác tiếp thị",
+  "coll": [
+   "affiliate marketing",
+   "affiliate link",
+   "affiliate program",
+   "local affiliate",
+   "affiliate with a university"
+  ]
+ },
+ {
+  "id": "skinny",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "gầy nhom; bó sát; ít béo",
+  "coll": [
+   "skinny jeans",
+   "skinny legs",
+   "skinny latte",
+   "too skinny",
+   "skinny dipping"
+  ]
+ },
+ {
+  "id": "denial",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phủ nhận; sự chối bỏ; sự từ chối",
+  "coll": [
+   "in denial",
+   "a flat denial",
+   "denial of service",
+   "issue a denial",
+   "denial of responsibility"
+  ]
+ },
+ {
+  "id": "inappropriate",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không phù hợp; không thích đáng; khiếm nhã",
+  "coll": [
+   "inappropriate behaviour",
+   "inappropriate comment",
+   "inappropriate content",
+   "highly inappropriate",
+   "inappropriate for children"
+  ]
+ },
+ {
+  "id": "perfection",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự hoàn hảo; mức hoàn thiện",
+  "coll": [
+   "strive for perfection",
+   "cooked to perfection",
+   "seek perfection",
+   "near perfection",
+   "the pursuit of perfection"
+  ]
+ },
+ {
+  "id": "consistency",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính nhất quán; độ đặc sệt",
+  "coll": [
+   "lack of consistency",
+   "consistency in quality",
+   "smooth consistency",
+   "maintain consistency",
+   "the consistency of the sauce"
+  ]
+ },
+ {
+  "id": "successor",
+  "pos": [
+   "n"
+  ],
+  "vi": "người kế nhiệm; vật thay thế",
+  "coll": [
+   "name a successor",
+   "chosen successor",
+   "his successor as CEO",
+   "successor to the throne",
+   "designated successor"
+  ]
+ },
+ {
+  "id": "cluster",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cụm, chùm; tụ lại thành cụm",
+  "coll": [
+   "a cluster of stars",
+   "cluster together",
+   "a cluster of cases",
+   "star cluster",
+   "cluster analysis"
+  ]
+ },
+ {
+  "id": "interference",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự can thiệp; nhiễu sóng; sự giao thoa",
+  "coll": [
+   "radio interference",
+   "government interference",
+   "signal interference",
+   "without interference",
+   "outside interference"
+  ]
+ },
+ {
+  "id": "roller",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con lăn; trục lăn; ống cuốn tóc",
+  "coll": [
+   "roller coaster",
+   "paint roller",
+   "roller skate",
+   "roller blind",
+   "hair roller"
+  ]
+ },
+ {
+  "id": "whatsoever",
+  "pos": [
+   "det",
+   "adv",
+   "pron"
+  ],
+  "vi": "bất cứ gì; chút nào (nhấn mạnh phủ định)",
+  "coll": [
+   "no evidence whatsoever",
+   "nothing whatsoever",
+   "none whatsoever",
+   "no reason whatsoever",
+   "no doubt whatsoever"
+  ]
+ },
+ {
+  "id": "resistant",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chống chịu được; đề kháng; phản đối, kháng cự",
+  "coll": [
+   "resistant to change",
+   "heat-resistant",
+   "water-resistant",
+   "drug-resistant",
+   "antibiotic resistant"
+  ]
+ },
+ {
+  "id": "interstate",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "giữa các bang; đường cao tốc liên bang",
+  "coll": [
+   "interstate highway",
+   "interstate commerce",
+   "interstate travel",
+   "cross interstate lines",
+   "Interstate 95"
+  ]
+ },
+ {
+  "id": "rehabilitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "phục hồi chức năng; sự cải tạo, tái hòa nhập",
+  "coll": [
+   "drug rehabilitation",
+   "rehabilitation programme",
+   "rehabilitation centre",
+   "physical rehabilitation",
+   "rehabilitation of offenders"
+  ]
+ },
+ {
+  "id": "remix",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bản phối lại; phối lại",
+  "coll": [
+   "dance remix",
+   "official remix",
+   "remix album",
+   "remix a song",
+   "remix version"
+  ]
+ },
+ {
+  "id": "sequel",
+  "pos": [
+   "n"
+  ],
+  "vi": "phần tiếp theo; hệ quả về sau",
+  "coll": [
+   "movie sequel",
+   "a sequel to the novel",
+   "make a sequel",
+   "long-awaited sequel",
+   "sequel series"
+  ]
+ },
+ {
+  "id": "acoustic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc âm thanh; mộc, không khuếch đại điện",
+  "coll": [
+   "acoustic guitar",
+   "acoustic version",
+   "acoustic panel",
+   "acoustic performance",
+   "acoustic properties"
+  ]
+ },
+ {
+  "id": "prophet",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà tiên tri; ngôn sứ",
+  "coll": [
+   "false prophet",
+   "the Prophet Muhammad",
+   "biblical prophet",
+   "prophet of doom"
+  ]
+ },
+ {
+  "id": "gig",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "buổi diễn; công việc thời vụ",
+  "coll": [
+   "play a gig",
+   "live gig",
+   "gig economy",
+   "book a gig",
+   "a steady gig"
+  ]
+ },
+ {
+  "id": "doctrine",
+  "pos": [
+   "n"
+  ],
+  "vi": "học thuyết; giáo lý",
+  "coll": [
+   "religious doctrine",
+   "military doctrine",
+   "legal doctrine",
+   "the doctrine of",
+   "official doctrine"
+  ]
+ },
+ {
+  "id": "hydrogen",
+  "pos": [
+   "n"
+  ],
+  "vi": "hydro; khí hiđrô",
+  "coll": [
+   "hydrogen atom",
+   "hydrogen bond",
+   "hydrogen fuel",
+   "hydrogen peroxide",
+   "liquid hydrogen"
+  ]
+ },
+ {
+  "id": "defendant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bị đơn; bị cáo",
+  "coll": [
+   "the defendant pleaded guilty",
+   "defendant in the case",
+   "convict the defendant",
+   "the defendant's lawyer",
+   "co-defendant"
+  ]
+ },
+ {
+  "id": "gameplay",
+  "pos": [
+   "n"
+  ],
+  "vi": "lối chơi; trải nghiệm chơi game",
+  "coll": [
+   "smooth gameplay",
+   "gameplay mechanics",
+   "gameplay footage",
+   "core gameplay",
+   "gameplay experience"
+  ]
+ },
+ {
+  "id": "cocaine",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ma túy cocaine; cô-ca-in",
+  "coll": [
+   "cocaine use",
+   "snort cocaine",
+   "cocaine addiction",
+   "cocaine trafficking",
+   "crack cocaine"
+  ]
+ },
+ {
+  "id": "cyber",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "thuộc không gian mạng; trên mạng",
+  "coll": [
+   "cyber attack",
+   "cyber security",
+   "cyber crime",
+   "cyber bullying",
+   "cyber warfare"
+  ]
+ },
+ {
+  "id": "intact",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nguyên vẹn; còn nguyên",
+  "coll": [
+   "remain intact",
+   "keep intact",
+   "largely intact",
+   "survive intact",
+   "intact structure"
+  ]
+ }
+]

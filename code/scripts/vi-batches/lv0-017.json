@@ -1,0 +1,1189 @@
+[
+ {
+  "id": "belong",
+  "pos": [
+   "v",
+   "prep"
+  ],
+  "en": [
+   "To have its proper place.",
+   "To be the property of, or be bound to by dependency or as an attribute.",
+   "To be the spouse or partner of."
+  ]
+ },
+ {
+  "id": "grass",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any plant of the family Poaceae, characterized by leaves that arise from nodes in the stem and leaf bases that wrap around the stem,…",
+   "Any of the various plants that are not in the family Poaceae that resemble grasses.",
+   "A lawn."
+  ]
+ },
+ {
+  "id": "passenger",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "One who rides or travels in a vehicle, but who does not operate it and is not a member of the crew.",
+   "Somebody in a team who does not do their fair share of the work.",
+   "A young hunting bird that can fly and is taken while it is still in its first year."
+  ]
+ },
+ {
+  "id": "pen",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An enclosure (enclosed area) used to contain domesticated animals, especially sheep or cattle.",
+   "A penitentiary, i.e. a state or federal prison for convicted felons.",
+   "The bullpen."
+  ]
+ },
+ {
+  "id": "suitable",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Having sufficient or the required properties for a certain purpose or task"
+  ]
+ },
+ {
+  "id": "thirty",
+  "pos": [
+   "num",
+   "n"
+  ],
+  "en": [
+   "The cardinal number occurring after twenty-nine and before thirty-one, represented in Arabic numerals as 30.",
+   "A rack of thirty beers.",
+   "A commercial lasting 30 seconds."
+  ]
+ },
+ {
+  "id": "collect",
+  "pos": [
+   "v",
+   "adj",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "To gather together",
+   "To get",
+   "To accumulate (a number of similar or related objects), particularly for a hobby or recreation."
+  ]
+ },
+ {
+  "id": "cop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To capture or arrest someone.",
+   "To obtain, to purchase (items including but not limited to drugs), to get hold of, to take.",
+   "To (be forced to) take"
+  ],
+  "reg": [
+   "dated",
+   "informal"
+  ]
+ },
+ {
+  "id": "exhibition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An instance of exhibiting, or something exhibited.",
+   "A large-scale public showing of objects or products.",
+   "A public display, intentional or otherwise, generally characterised as negative."
+  ]
+ },
+ {
+  "id": "honey",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A sweet, viscous, gold-colored fluid produced from plant nectar by bees, and often consumed by humans.",
+   "A variety of this substance.",
+   "Something sweet or desirable."
+  ]
+ },
+ {
+  "id": "hunter",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who hunts game for sport or for food",
+   "A dog used in hunting",
+   "A horse used in hunting, especially a thoroughbred, bred and trained for hunting."
+  ]
+ },
+ {
+  "id": "introduce",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To cause (someone) to be acquainted (with someone else).",
+   "To make (something or someone) known, such as by formal announcement or recommendation.",
+   "To add (something) to a system, a mixture, or a container."
+  ]
+ },
+ {
+  "id": "regret",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To feel sorry about (a thing that has or has not happened), afterthink",
+   "To feel sorry about (any thing).",
+   "Emotional pain on account of something done or experienced in the past, with a wish that it had been different"
+  ]
+ },
+ {
+  "id": "remind",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To cause one to experience a memory (of someone or something)"
+  ]
+ },
+ {
+  "id": "seed",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any propagative portion of a plant which may be sown, such as true seeds, seed-like fruits, tubers, or bulbs.",
+   "An amount of seeds that cannot be readily counted.",
+   "A fragment of coral."
+  ]
+ },
+ {
+  "id": "spell",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To put under the influence of a spell",
+   "To write or say the letters that form a word or part of a word.",
+   "Of letters"
+  ]
+ },
+ {
+  "id": "summary",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "Concise, brief, or presented in a condensed form",
+   "Performed speedily, without formal ceremony, and (especially) without regard to legality.",
+   "Performed by omitting the procedures of a full trial, but within a legally valid framework."
+  ]
+ },
+ {
+  "id": "asleep",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "In a state of sleep",
+   "Inattentive.",
+   "Having a numb or prickling sensation accompanied by a degree of unresponsiveness."
+  ]
+ },
+ {
+  "id": "automatic",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Capable of operating without external control or intervention.",
+   "Done out of habit or without conscious thought.",
+   "Necessary, inevitable, prescribed by logic, law, etc."
+  ]
+ },
+ {
+  "id": "coat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An outer garment covering the upper torso and arms.",
+   "A covering of material, such as paint.",
+   "The fur or feathers covering an animal's skin."
+  ]
+ },
+ {
+  "id": "daddy",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Also used as a term of address",
+   "Often in the form the daddy of",
+   "Chiefly used as a term of address"
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "juice",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A liquid made from plant, especially fruit.",
+   "A beverage made of juice.",
+   "Any liquid resembling juice."
+  ]
+ },
+ {
+  "id": "landscape",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A portion of land or territory as defined by its landform, its geographical (and architectural) features.",
+   "A portion of land which the eye can comprehend in a single view, including all the objects thus seen.",
+   "A sociological aspect of a physical area."
+  ]
+ },
+ {
+  "id": "roughly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a rough manner",
+   "Unevenly or irregularly.",
+   "Without precision or exactness"
+  ]
+ },
+ {
+  "id": "script",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To make or write a script.",
+   "To devise, concoct, or contrive."
+  ]
+ },
+ {
+  "id": "tube",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Anything that is hollow and cylindrical in shape.",
+   "An approximately cylindrical container, usually with a crimped end and a screw top, used to contain and dispense semiliquid substances.",
+   "The London Underground railway system, originally referred to the lower level lines that ran in tubular tunnels as opposed to the higher…"
+  ]
+ },
+ {
+  "id": "a.m.",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "In the 12-hour period from midnight to noon (the first half of the day) when using the 12-hour clock."
+  ]
+ },
+ {
+  "id": "banking",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The business of managing a bank.",
+   "The occupation of managing or working in a bank.",
+   "Investment banking."
+  ]
+ },
+ {
+  "id": "fancy",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "The imagination.",
+   "An image or representation of anything formed in the mind.",
+   "An opinion or notion formed without much reflection."
+  ]
+ },
+ {
+  "id": "grateful",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of a person or their actions, feelings, etc."
+  ]
+ },
+ {
+  "id": "indicate",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To point out",
+   "To show or manifest by symptoms.",
+   "To point to as the proper remedies."
+  ]
+ },
+ {
+  "id": "knock",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An abrupt rapping sound, as from an impact of a hard object against wood.",
+   "A sharp impact.",
+   "A criticism."
+  ]
+ },
+ {
+  "id": "leather",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Made of leather.",
+   "Referring to one who wears leather clothing (motorcycle jacket, chaps over 501 jeans, boots), especially as a sign of sadomasochistic…",
+   "Referring to an establishment of familial relations through agreed sexual or romantic deviance."
+  ]
+ },
+ {
+  "id": "reporter",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Someone or something that reports.",
+   "A journalist who investigates, edits and reports news stories for newspapers, radio and television.",
+   "A person who records and issues official reports of judicial or legislative proceedings."
+  ]
+ },
+ {
+  "id": "rob",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To steal from, especially using force or violence.",
+   "To deprive of, or withhold from, unjustly or injuriously",
+   "To deprive (of)."
+  ]
+ },
+ {
+  "id": "tear",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To rend (a solid material) by holding or restraining in two places and pulling apart, whether intentionally or not",
+   "To injure as if by pulling apart.",
+   "To destroy or reduce abstract unity or coherence, such as social, political or emotional."
+  ]
+ },
+ {
+  "id": "tennis",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A sport played by two players (or four in doubles), who alternately strike the ball over a net using racquets.",
+   "A match in this sport.",
+   "To play tennis."
+  ]
+ },
+ {
+  "id": "terrorist",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "A person, group, or organization that uses violent action, or the threat of violent action, to further political goals.",
+   "An agent or partisan of the revolutionary tribunal during the Reign of Terror in France.",
+   "Of or relating to terrorism."
+  ]
+ },
+ {
+  "id": "theater",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A place or building, consisting of a stage and seating, in which an audience gathers to watch plays, musical performances, public…",
+   "A region where a particular action takes place",
+   "A lecture theatre."
+  ]
+ },
+ {
+  "id": "twelve",
+  "pos": [
+   "num",
+   "n"
+  ],
+  "en": [
+   "The cardinal number occurring after eleven and before thirteen, represented in Arabic numerals as 12 and in Roman numerals as XII.",
+   "A group of twelve items.",
+   "A twelve-bore gun."
+  ]
+ },
+ {
+  "id": "delicious",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Pleasing to the sense of taste",
+   "Pleasing to a person's taste",
+   "Having tremendous sex appeal."
+  ]
+ },
+ {
+  "id": "flood",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An overflow of a large amount of water (usually disastrous) from a lake or other body of water due to excessive rainfall or other input…",
+   "A large number or quantity of anything appearing more rapidly than can easily be dealt with.",
+   "The flowing in of the tide, opposed to the ebb."
+  ]
+ },
+ {
+  "id": "glasses",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "plural of glass",
+   "Spectacles, frames bearing two lenses worn in front of the eyes.",
+   "Field glasses"
+  ]
+ },
+ {
+  "id": "instant",
+  "pos": [
+   "adj",
+   "n",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "A very short period of time",
+   "A single, usually precise, point in time.",
+   "A beverage or food which has been pre-processed to reduce preparation time, especially instant coffee."
+  ]
+ },
+ {
+  "id": "liberty",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The condition of being free.",
+   "The condition of being free from imprisonment, slavery or forced labour.",
+   "The condition of being free to act, believe or express oneself as one chooses."
+  ]
+ },
+ {
+  "id": "progressive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Favouring or promoting progress",
+   "Gradually advancing in extent",
+   "Promoting or favoring progress towards improved conditions or new policies, ideas, or methods."
+  ]
+ },
+ {
+  "id": "reader",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A person who reads.",
+   "A person who reads a publication.",
+   "A person who recites literary works, usually to an audience."
+  ]
+ },
+ {
+  "id": "sum",
+  "pos": [
+   "n",
+   "v",
+   "det",
+   "pron"
+  ],
+  "en": [
+   "A quantity obtained by addition or aggregation.",
+   "An arithmetic computation, especially one posed to a student as an exercise (not necessarily limited to addition).",
+   "A quantity of money."
+  ]
+ },
+ {
+  "id": "brave",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Strong in the face of fear",
+   "Making a fine show or display.",
+   "Foolish or unwise."
+  ]
+ },
+ {
+  "id": "column",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A solid upright structure designed usually to support a larger structure above it, such as a roof or horizontal beam, but sometimes for…",
+   "A vertical line of entries in a table, usually read from top to bottom.",
+   "A body of troops or army vehicles, usually strung out along a road."
+  ]
+ },
+ {
+  "id": "difficulty",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state of being difficult, or hard to do.",
+   "An obstacle that hinders achievement of a goal.",
+   "Physical danger from the environment, especially with risk of drowning"
+  ]
+ },
+ {
+  "id": "elementary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Relating to the basic, essential or fundamental part of something.",
+   "Very simple.",
+   "Relating to an elementary school."
+  ]
+ },
+ {
+  "id": "greatly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "To a great extent or degree."
+  ]
+ },
+ {
+  "id": "knee",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "In humans, the joint or the region of the joint in the middle part of the leg between the thigh and the shank.",
+   "In the horse and allied animals, the carpal joint, corresponding to the wrist in humans.",
+   "In birds"
+  ]
+ },
+ {
+  "id": "pretend",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "To speak or behave so as to give a false or simulated appearance.",
+   "To lay claim (to an ability, status, advantage, etc.).",
+   "Not really what it is represented as being"
+  ]
+ },
+ {
+  "id": "robin",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Any of various passerine birds (about 100 species) of the families Muscicapidae, Turdidae and Petroicidae (formerly Eopsaltriidae),…",
+   "A trimming in front of a dress.",
+   "A toxalbumin obtained from the locust tree."
+  ]
+ },
+ {
+  "id": "shake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To cause (something) to move rapidly in opposite directions alternatingly.",
+   "To move (one's head) from side to side, especially to indicate refusal, reluctance, or disapproval.",
+   "To move or remove by agitating"
+  ]
+ },
+ {
+  "id": "shore",
+  "pos": [
+   "n",
+   "v",
+   "adv",
+   "adj",
+   "intj"
+  ],
+  "en": [
+   "Land adjoining a non-flowing body of water, such as an ocean, lake or pond.",
+   "Land, usually near a port.",
+   "A prop or strut supporting some structure or weight above it."
+  ]
+ },
+ {
+  "id": "trap",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A machine or other device designed to catch (and sometimes kill) animals, either by holding them in a container, or by catching hold of…",
+   "A trick or arrangement designed to catch someone in a more general sense",
+   "An exception generated by the processor or by an external event."
+  ]
+ },
+ {
+  "id": "uniform",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Unvarying",
+   "Consistent",
+   "with speed of convergence not depending on choice of function argument"
+  ]
+ },
+ {
+  "id": "wooden",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Made of wood.",
+   "As if made of wood"
+  ]
+ },
+ {
+  "id": "complaint",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of complaining.",
+   "A grievance, problem, difficulty, or concern.",
+   "In a civil action, the first pleading of the plaintiff setting out the facts on which the claim is based."
+  ]
+ },
+ {
+  "id": "fighter",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A person who fights",
+   "A warrior",
+   "A pugnacious, competitive person."
+  ]
+ },
+ {
+  "id": "jacket",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A piece of clothing worn on the upper body outside a shirt or blouse, often waist length to thigh length.",
+   "A piece of a person's suit, beside trousers and, sometimes, waistcoat",
+   "An outer garment (usually white) intended for chefs and which may be taken to signify status."
+  ]
+ },
+ {
+  "id": "purple",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "A colour between red and blue",
+   "Any non-spectral colour on the line of purples on a colour chromaticity diagram or a colour wheel between violet and red.",
+   "Cloth, or a garment, dyed a purple colour"
+  ]
+ },
+ {
+  "id": "romance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An intimate relationship between two people",
+   "A strong obsession or attachment for something or someone.",
+   "Idealized love which is pure or beautiful."
+  ]
+ },
+ {
+  "id": "bite",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To cut into something by clamping the teeth.",
+   "To hold something by clamping one's teeth.",
+   "To attack with the teeth."
+  ]
+ },
+ {
+  "id": "explore",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To examine or investigate something systematically.",
+   "To travel somewhere in search of discovery.",
+   "To examine diagnostically."
+  ]
+ },
+ {
+  "id": "midnight",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "The middle of the night",
+   "Twelve o'clock at night exactly.",
+   "Synonym of boxcars (“a pair of sixes”)."
+  ]
+ },
+ {
+  "id": "mouse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To move cautiously or furtively, in the manner of a mouse (the rodent) (frequently used in the phrasal verb to mouse around).",
+   "To hunt or catch mice (the rodents), usually of cats.",
+   "To close the mouth of a hook by a careful binding of marline or wire."
+  ]
+ },
+ {
+  "id": "piano",
+  "pos": [
+   "n",
+   "v",
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "A percussive keyboard musical instrument, usually ranging over seven octaves, with white and black colored keys, played by pressing…",
+   "To play the piano.",
+   "To move (the fingers) up and down on, similar to the motions of a pianist playing the piano."
+  ]
+ },
+ {
+  "id": "ruin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The remains of a destroyed or dilapidated construction, such as a house or castle.",
+   "The state of being a ruin, destroyed or decayed.",
+   "Something that leads to serious trouble or destruction."
+  ]
+ },
+ {
+  "id": "slave",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A person who is held in servitude as the property of another person, and whose labor (and often also whose body and life) is subject to…",
+   "A drudge",
+   "An abject person."
+  ]
+ },
+ {
+  "id": "symbol",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A character or glyph representing an idea, concept or object.",
+   "A thing considered the embodiment or cardinal exemplar of a concept, theme, or other thing.",
+   "A type of noun whereby the form refers to the same entity independently of the context"
+  ]
+ },
+ {
+  "id": "toilet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A room, enclosed area or single-purpose building containing a fixture or fixtures used for urination and defecation",
+   "A fixture used for urination and defecation, particularly one with a large bowl and ring-shaped seat which uses water to flush the waste…",
+   "A very shabby or dirty place."
+  ]
+ },
+ {
+  "id": "affair",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Something which is done or is to be done",
+   "Any proceeding or action which it is wished to refer to or characterize vaguely.",
+   "An action or engagement not of sufficient magnitude to be called a battle."
+  ]
+ },
+ {
+  "id": "bat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any flying mammal of the order Chiroptera, usually small and nocturnal, insectivorous or frugivorous.",
+   "An old woman.",
+   "A club, made of wood like a baseball bat or otherwise, used as a weapon"
+  ]
+ },
+ {
+  "id": "calendar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any system by which time is divided into days, weeks, months, and years.",
+   "A means to determine the date consisting of a document containing dates and other temporal information.",
+   "A list of planned events."
+  ]
+ },
+ {
+  "id": "fortune",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Destiny, especially favorable.",
+   "A prediction or set of predictions about a person's future provided by a fortune teller.",
+   "A small slip of paper with wise or vaguely prophetic words printed on it, baked into a fortune cookie."
+  ]
+ },
+ {
+  "id": "invite",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To ask for the presence or participation of someone or something.",
+   "To request formally.",
+   "To encourage."
+  ]
+ },
+ {
+  "id": "partly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In part, or to some degree, but not completely."
+  ]
+ },
+ {
+  "id": "physically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a physical manner.",
+   "According to the laws of physics.",
+   "Using physical force."
+  ]
+ },
+ {
+  "id": "sauce",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A liquid (often thickened) condiment or accompaniment to food.",
+   "Tomato sauce (similar to US tomato ketchup), as in",
+   "Alcohol, booze."
+  ]
+ },
+ {
+  "id": "slide",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To (cause to) move in continuous contact with a surface.",
+   "To move on a low-friction surface.",
+   "To drop down and skid into a base."
+  ]
+ },
+ {
+  "id": "tiger",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Panthera tigris, a large predatory mammal of the cat family, indigenous to Asia.",
+   "Other animals that resemble true tigers in appearance, pattern, colouration, etc.",
+   "A final shouted phrase, accompanied by a jump or outstretched arms, at the end of a cheer."
+  ]
+ },
+ {
+  "id": "toy",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "Something to play with, especially as intended for use by a child.",
+   "A thing of little importance or value",
+   "A simple, light piece of music, written especially for the virginal."
+  ]
+ },
+ {
+  "id": "wisdom",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An element of personal character that enables one to distinguish the wise from the unwise.",
+   "A piece of wise advice.",
+   "The discretionary use of knowledge for the greatest good."
+  ]
+ },
+ {
+  "id": "beef",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "The meat from cattle or other bovines",
+   "Bovine animals.",
+   "A bovine (cow or bull) being raised for its meat."
+  ]
+ },
+ {
+  "id": "candy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Crystallized sugar formed by boiling down sugar syrup.",
+   "Edible, sweet-tasting confectionery containing sugar, or sometimes artificial sweeteners, and often flavored with fruit, chocolate,…",
+   "A piece of confectionery of this kind."
+  ]
+ },
+ {
+  "id": "celebration",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The formal performance of a solemn rite, such as Christian sacrament.",
+   "The observance of a holiday or feast day, as by solemnities.",
+   "The act or process of showing appreciation, joy, gratitude and/or remembrance, notably as a social event."
+  ]
+ },
+ {
+  "id": "fifty",
+  "pos": [
+   "num",
+   "n"
+  ],
+  "en": [
+   "The cardinal number occurring after forty-nine and before fifty-one.",
+   "A banknote or coin with a denomination of 50.",
+   "A batsman's score of at least 50 runs and less than 100 runs."
+  ]
+ },
+ {
+  "id": "fool",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A person with poor judgment or little intelligence.",
+   "A jester",
+   "A stock character typified by unintelligence, naïveté or lucklessness, usually as a form of comic relief"
+  ]
+ },
+ {
+  "id": "furniture",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Large movable item(s), usually in a room, which enhance(s) the room's characteristics, functionally or decoratively.",
+   "The harness, trappings etc. of a horse, hawk, or other animal.",
+   "Fittings, such as handles, of a door, coffin, or other wooden item."
+  ]
+ },
+ {
+  "id": "intelligent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of high or especially quick cognitive capacity, bright.",
+   "Well thought-out, well considered.",
+   "Characterized by thoughtful interaction."
+  ]
+ },
+ {
+  "id": "jet",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A collimated stream, spurt or flow of liquid or gas from a pressurized container, an engine, etc.",
+   "A spout or nozzle for creating a jet of fluid.",
+   "A type of airplane using jet engines rather than propellers."
+  ]
+ },
+ {
+  "id": "lifestyle",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A style of living that reflects the attitudes and values of a person or group.",
+   "The totality of the likes and dislikes of a particular section of the market, especially when expressed in terms of the products and…"
+  ]
+ },
+ {
+  "id": "mall",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A pedestrianised street, especially a shopping precinct.",
+   "An enclosed shopping centre.",
+   "A public walk"
+  ]
+ },
+ {
+  "id": "overseas",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "en": [
+   "Abroad.",
+   "Across a sea"
+  ]
+ },
+ {
+  "id": "relax",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To make something loose.",
+   "To become loose.",
+   "To relieve (someone or someone's mind) of stress"
+  ]
+ },
+ {
+  "id": "succeed",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To follow something in sequence or time.",
+   "To replace or supplant someone in order vis-à-vis an office, position, or title.",
+   "To come after or follow"
+  ]
+ }
+]

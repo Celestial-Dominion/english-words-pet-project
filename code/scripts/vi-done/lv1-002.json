@@ -1,0 +1,402 @@
+{
+ "positive": {
+  "vi": "tích cực; khẳng định; dương tính",
+  "coll": ["positive attitude", "positive thinking", "positive result", "test positive", "positive feedback"]
+ },
+ "throughout": {
+  "vi": "khắp; suốt",
+  "coll": ["throughout the world", "throughout the year", "throughout history", "throughout the day"]
+ },
+ "absolutely": {
+  "vi": "hoàn toàn; tuyệt đối; chắc chắn rồi",
+  "coll": ["absolutely right", "absolutely amazing", "absolutely not", "absolutely necessary"]
+ },
+ "immediately": {
+  "vi": "ngay lập tức; ngay",
+  "coll": ["leave immediately", "immediately after", "respond immediately", "immediately obvious"]
+ },
+ "unless": {
+  "vi": "trừ khi; nếu không",
+  "coll": ["unless otherwise stated", "unless absolutely necessary", "not unless"]
+ },
+ "construction": {
+  "vi": "việc xây dựng; công trình; cấu trúc",
+  "coll": ["under construction", "construction site", "construction worker", "construction industry"]
+ },
+ "income": {
+  "vi": "thu nhập",
+  "coll": ["low income", "income tax", "source of income", "annual income", "household income"]
+ },
+ "justice": {
+  "vi": "công lý; sự công bằng; thẩm phán",
+  "coll": ["social justice", "bring to justice", "criminal justice system", "justice for the victims"]
+ },
+ "movement": {
+  "vi": "chuyển động; phong trào; sự di chuyển",
+  "coll": ["political movement", "freedom of movement", "sudden movement", "civil rights movement"]
+ },
+ "safety": {
+  "vi": "sự an toàn",
+  "coll": ["health and safety", "road safety", "safety measures", "safety first", "for your own safety"]
+ },
+ "definitely": {
+  "vi": "chắc chắn; nhất định",
+  "coll": ["definitely worth it", "definitely not", "will definitely come", "most definitely"]
+ },
+ "particularly": {
+  "vi": "đặc biệt là; nhất là",
+  "coll": ["particularly important", "particularly difficult", "not particularly", "particularly useful"]
+ },
+ "generally": {
+  "vi": "nói chung; thường thường",
+  "coll": ["generally speaking", "generally accepted", "generally believed", "generally used"]
+ },
+ "global": {
+  "vi": "toàn cầu",
+  "coll": ["global warming", "global economy", "global market", "on a global scale", "global village"]
+ },
+ "annual": {
+  "vi": "hàng năm; thường niên",
+  "coll": ["annual report", "annual meeting", "annual income", "annual event", "annual growth"]
+ },
+ "battle": {
+  "vi": "trận đánh; cuộc chiến; chiến đấu",
+  "coll": ["win the battle", "legal battle", "battle against cancer", "fierce battle", "battle of wills"]
+ },
+ "insurance": {
+  "vi": "bảo hiểm",
+  "coll": ["health insurance", "car insurance", "life insurance", "insurance company", "insurance policy"]
+ },
+ "majority": {
+  "vi": "đa số; phần lớn",
+  "coll": ["the vast majority", "majority of people", "majority vote", "in the majority"]
+ },
+ "opening": {
+  "vi": "sự khai mạc; lỗ hổng; mở đầu; vị trí trống",
+  "coll": ["opening ceremony", "grand opening", "opening hours", "job opening", "opening night"]
+ },
+ "sports": {
+  "vi": "thể thao; các môn thể thao",
+  "coll": ["sports car", "sports team", "play sports", "sports centre", "sports fan"]
+ },
+ "stupid": {
+  "vi": "ngu ngốc; ngớ ngẩn",
+  "coll": ["stupid mistake", "stupid question", "feel stupid", "don't be stupid"]
+ },
+ "active": {
+  "vi": "năng động; tích cực; đang hoạt động",
+  "coll": ["active role", "physically active", "active volcano", "active member", "active lifestyle"]
+ },
+ "administration": {
+  "vi": "sự quản lý; chính quyền; việc hành chính",
+  "coll": ["business administration", "the current administration", "administration costs", "public administration"]
+ },
+ "approach": {
+  "vi": "cách tiếp cận; tiếp cận; đến gần",
+  "coll": ["new approach", "approach a problem", "take a different approach", "approach to teaching", "winter approaches"]
+ },
+ "cancer": {
+  "vi": "ung thư",
+  "coll": ["lung cancer", "breast cancer", "cancer treatment", "cancer patients", "cause cancer"]
+ },
+ "civil": {
+  "vi": "dân sự; công dân; lịch sự",
+  "coll": ["civil war", "civil rights", "civil society", "civil servant", "civil engineering"]
+ },
+ "defense": {
+  "vi": "sự phòng thủ; quốc phòng; sự bào chữa",
+  "coll": ["self-defense", "national defense", "defense budget", "in defense of", "defense lawyer"]
+ },
+ "independent": {
+  "vi": "độc lập",
+  "coll": ["fully independent", "independent school", "independent of each other", "financially independent", "independent country"]
+ },
+ "none": {
+  "vi": "không ai; không cái nào; không chút nào",
+  "coll": ["none of us", "none of the above", "none at all", "second to none"]
+ },
+ "awesome": {
+  "vi": "tuyệt vời; đáng kính sợ",
+  "coll": ["awesome experience", "totally awesome", "awesome power", "an awesome sight"]
+ },
+ "commercial": {
+  "vi": "thương mại; phim quảng cáo",
+  "coll": ["commercial success", "commercial break", "TV commercial", "commercial use", "commercial bank"]
+ },
+ "first lady": {
+  "vi": "đệ nhất phu nhân",
+  "coll": ["the First Lady", "former first lady", "the first lady of the United States"]
+ },
+ "operation": {
+  "vi": "ca phẫu thuật; hoạt động; chiến dịch",
+  "coll": ["have an operation", "military operation", "rescue operation", "in operation", "undergo an operation"]
+ },
+ "organization": {
+  "vi": "tổ chức; sự sắp xếp",
+  "coll": ["international organization", "non-profit organization", "charity organization", "the World Health Organization"]
+ },
+ "protect": {
+  "vi": "bảo vệ; che chở",
+  "coll": ["protect the environment", "protect children", "protect against disease", "protect your rights", "protect from harm"]
+ },
+ "analysis": {
+  "vi": "sự phân tích; bản phân tích",
+  "coll": ["data analysis", "detailed analysis", "carry out an analysis", "in the final analysis"]
+ },
+ "first floor": {
+  "vi": "tầng trệt (Mỹ); tầng hai (Anh)",
+  "coll": ["on the first floor", "first floor apartment", "the first floor of the building"]
+ },
+ "first-floor": {
+  "vi": "ở tầng trệt (Mỹ); ở tầng hai (Anh)",
+  "coll": ["first-floor apartment", "first-floor window", "first-floor flat"]
+ },
+ "marriage": {
+  "vi": "hôn nhân; đám cưới",
+  "coll": ["happy marriage", "arranged marriage", "same-sex marriage", "marriage certificate", "propose marriage"]
+ },
+ "skin": {
+  "vi": "da; vỏ; lột da",
+  "coll": ["dry skin", "skin care", "skin cancer", "dark skin", "banana skin"]
+ },
+ "thus": {
+  "vi": "do đó; như vậy; theo cách đó",
+  "coll": ["thus far", "and thus", "thus ensuring that"]
+ },
+ "damage": {
+  "vi": "thiệt hại; làm hư hại",
+  "coll": ["cause damage", "brain damage", "damage to property", "serious damage", "damage your reputation"]
+ },
+ "directly": {
+  "vi": "trực tiếp; thẳng; ngay",
+  "coll": ["directly involved", "directly opposite", "speak directly to", "directly related to"]
+ },
+ "disease": {
+  "vi": "bệnh; bệnh tật",
+  "coll": ["heart disease", "infectious disease", "cure a disease", "spread of disease", "chronic disease"]
+ },
+ "gay": {
+  "vi": "đồng tính; vui tươi (cũ)",
+  "coll": ["gay men", "gay rights", "gay marriage", "gay community"]
+ },
+ "professor": {
+  "vi": "giáo sư",
+  "coll": ["university professor", "professor of economics", "assistant professor", "visiting professor"]
+ },
+ "common sense": {
+  "vi": "lẽ thường; sự khôn ngoan đời thường",
+  "coll": ["use your common sense", "a matter of common sense", "common sense approach", "lack of common sense"]
+ },
+ "effective": {
+  "vi": "hiệu quả; có hiệu lực",
+  "coll": ["highly effective", "effective way", "effective treatment", "cost-effective", "effective immediately"]
+ },
+ "heart attack": {
+  "vi": "cơn đau tim; nhồi máu cơ tim",
+  "coll": ["have a heart attack", "suffer a heart attack", "die of a heart attack", "massive heart attack"]
+ },
+ "highly": {
+  "vi": "rất, hết sức; đánh giá cao",
+  "coll": ["highly recommended", "highly unlikely", "highly skilled", "think highly of", "highly effective"]
+ },
+ "reality": {
+  "vi": "thực tế; hiện thực",
+  "coll": ["in reality", "virtual reality", "become a reality", "reality TV", "face reality"]
+ },
+ "agreement": {
+  "vi": "thỏa thuận; sự đồng ý",
+  "coll": ["reach an agreement", "sign an agreement", "in agreement with", "peace agreement", "trade agreement"]
+ },
+ "bank account": {
+  "vi": "tài khoản ngân hàng",
+  "coll": ["open a bank account", "bank account number", "money in your bank account"]
+ },
+ "christian": {
+  "vi": "theo đạo Cơ Đốc; tín đồ Cơ Đốc giáo",
+  "coll": ["Christian faith", "Christian church", "Christian values", "devout Christian"]
+ },
+ "comment": {
+  "vi": "bình luận; nhận xét",
+  "coll": ["make a comment", "no comment", "leave a comment", "comment on the situation", "positive comments"]
+ },
+ "equipment": {
+  "vi": "thiết bị; dụng cụ",
+  "coll": ["sports equipment", "office equipment", "electrical equipment", "a piece of equipment", "safety equipment"]
+ },
+ "eventually": {
+  "vi": "cuối cùng; rốt cuộc",
+  "coll": ["eventually became", "eventually led to", "eventually agreed"]
+ },
+ "holy": {
+  "vi": "linh thiêng; thần thánh; thánh",
+  "coll": ["the Holy Bible", "holy war", "holy water", "holy place", "the Holy Spirit"]
+ },
+ "killing": {
+  "vi": "vụ giết người; sự giết chóc",
+  "coll": ["mass killings", "make a killing", "the killing of civilians", "brutal killing"]
+ },
+ "otherwise": {
+  "vi": "nếu không thì; khác; về mặt khác",
+  "coll": ["unless otherwise stated", "otherwise known as", "or otherwise", "would otherwise be"]
+ },
+ "responsible": {
+  "vi": "chịu trách nhiệm; có trách nhiệm; là nguyên nhân",
+  "coll": ["responsible for the accident", "hold someone responsible", "socially responsible", "a responsible adult"]
+ },
+ "theory": {
+  "vi": "lý thuyết; học thuyết; giả thuyết",
+  "coll": ["in theory", "the theory of evolution", "scientific theory", "conspiracy theory", "prove a theory"]
+ },
+ "cell": {
+  "vi": "tế bào; phòng giam; pin",
+  "coll": ["blood cells", "prison cell", "cell phone", "cancer cells", "stem cells"]
+ },
+ "economy": {
+  "vi": "nền kinh tế; sự tiết kiệm",
+  "coll": ["global economy", "market economy", "boost the economy", "economy class", "the local economy"]
+ },
+ "foot": {
+  "vi": "bàn chân; chân (núi, trang); đơn vị đo foot",
+  "coll": ["on foot", "at the foot of the mountain", "set foot in", "from head to foot"]
+ },
+ "mass": {
+  "vi": "hàng loạt, đại chúng; khối, đống; thánh lễ",
+  "coll": ["mass production", "mass media", "weapons of mass destruction", "attend Mass"]
+ },
+ "mission": {
+  "vi": "nhiệm vụ; sứ mệnh; phái đoàn",
+  "coll": ["rescue mission", "mission accomplished", "space mission", "on a mission", "mission statement"]
+ },
+ "politics": {
+  "vi": "chính trị",
+  "coll": ["get involved in politics", "local politics", "office politics", "party politics", "talk politics"]
+ },
+ "question mark": {
+  "vi": "dấu chấm hỏi; dấu hỏi (điều nghi ngờ)",
+  "coll": ["put a question mark", "a question mark over his future", "end with a question mark"]
+ },
+ "status": {
+  "vi": "địa vị; tình trạng; trạng thái",
+  "coll": ["social status", "marital status", "status symbol", "status update", "legal status"]
+ },
+ "application": {
+  "vi": "đơn xin; ứng dụng; sự áp dụng",
+  "coll": ["job application", "application form", "fill in an application", "mobile application", "practical application"]
+ },
+ "complex": {
+  "vi": "phức tạp; khu phức hợp; mặc cảm",
+  "coll": ["complex issue", "complex system", "sports complex", "inferiority complex", "housing complex"]
+ },
+ "location": {
+  "vi": "vị trí; địa điểm",
+  "coll": ["exact location", "central location", "prime location", "on location", "location of the hotel"]
+ },
+ "channel": {
+  "vi": "kênh; eo biển; hướng (sức lực) vào",
+  "coll": ["TV channel", "change the channel", "the English Channel", "communication channels", "channel your energy"]
+ },
+ "distance": {
+  "vi": "khoảng cách; giữ khoảng cách",
+  "coll": ["long distance", "in the distance", "keep your distance", "within walking distance", "distance learning"]
+ },
+ "finding": {
+  "vi": "phát hiện; kết quả nghiên cứu; phán quyết",
+  "coll": ["research findings", "key findings", "the findings of the study", "report the findings"]
+ },
+ "northern": {
+  "vi": "phía bắc; miền bắc",
+  "coll": ["Northern Ireland", "the northern hemisphere", "northern England", "the northern lights"]
+ },
+ "protection": {
+  "vi": "sự bảo vệ",
+  "coll": ["environmental protection", "data protection", "sun protection", "protection against infection", "witness protection"]
+ },
+ "religious": {
+  "vi": "tôn giáo; sùng đạo",
+  "coll": ["religious beliefs", "religious freedom", "religious groups", "deeply religious", "religious education"]
+ },
+ "demand": {
+  "vi": "nhu cầu; yêu cầu; đòi hỏi",
+  "coll": ["in demand", "supply and demand", "meet the demand", "demand an explanation", "high demand"]
+ },
+ "engine": {
+  "vi": "động cơ; đầu máy",
+  "coll": ["car engine", "search engine", "start the engine", "jet engine", "fire engine"]
+ },
+ "southern": {
+  "vi": "phía nam; miền nam",
+  "coll": ["the southern hemisphere", "southern Europe", "southern accent", "the southern coast"]
+ },
+ "critical": {
+  "vi": "hay chỉ trích; rất quan trọng; nguy kịch",
+  "coll": ["critical thinking", "highly critical", "critical role", "in critical condition", "critical of the government"]
+ },
+ "digital": {
+  "vi": "kỹ thuật số",
+  "coll": ["digital camera", "digital age", "digital media", "digital technology", "digital clock"]
+ },
+ "fire station": {
+  "vi": "trạm cứu hỏa",
+  "coll": ["the local fire station", "a visit to the fire station", "next to the fire station"]
+ },
+ "mental": {
+  "vi": "tinh thần; tâm thần; trí óc",
+  "coll": ["mental health", "mental illness", "mental state", "mental image", "mental hospital"]
+ },
+ "score": {
+  "vi": "tỷ số; điểm số; ghi bàn",
+  "coll": ["final score", "score a goal", "test scores", "keep score", "high score"]
+ },
+ "surface": {
+  "vi": "bề mặt; mặt; nổi lên",
+  "coll": ["the surface of the water", "smooth surface", "on the surface", "surface area", "below the surface"]
+ },
+ "totally": {
+  "vi": "hoàn toàn",
+  "coll": ["totally different", "totally agree", "totally wrong", "totally destroyed"]
+ },
+ "benefit": {
+  "vi": "lợi ích; trợ cấp; hưởng lợi",
+  "coll": ["health benefits", "benefit from", "for the benefit of", "unemployment benefit", "mutual benefit"]
+ },
+ "fund": {
+  "vi": "quỹ; kinh phí; tài trợ",
+  "coll": ["raise funds", "pension fund", "fund the project", "mutual fund"]
+ },
+ "hearing": {
+  "vi": "thính giác; phiên điều trần",
+  "coll": ["hearing loss", "hearing aid", "court hearing", "hard of hearing"]
+ },
+ "primary school": {
+  "vi": "trường tiểu học",
+  "coll": ["primary school teacher", "go to primary school", "primary school children"]
+ },
+ "authority": {
+  "vi": "quyền lực; nhà chức trách; chuyên gia uy tín",
+  "coll": ["local authorities", "in a position of authority", "authority figure", "an authority on history", "abuse of authority"]
+ },
+ "basis": {
+  "vi": "cơ sở; nền tảng",
+  "coll": ["on a regular basis", "on the basis of", "on a daily basis", "no scientific basis", "legal basis"]
+ },
+ "brand-new": {
+  "vi": "mới tinh; mới toanh",
+  "coll": ["brand-new car", "brand-new phone", "a brand-new start"]
+ },
+ "dude": {
+  "vi": "anh bạn (thân mật); gã, tay",
+  "coll": ["hey, dude", "some dude", "a cool dude", "dude ranch"]
+ },
+ "foundation": {
+  "vi": "nền tảng; nền móng; quỹ; kem nền",
+  "coll": ["lay the foundations", "solid foundation", "charitable foundation", "the foundations of the building", "foundation course"]
+ },
+ "gain": {
+  "vi": "đạt được; giành được; tăng; lợi ích",
+  "coll": ["gain weight", "gain experience", "gain access to", "gain confidence", "weight gain"]
+ },
+ "rise": {
+  "vi": "tăng lên; mọc; sự gia tăng",
+  "coll": ["prices rise", "the sun rises", "a rise in temperature", "give rise to", "on the rise"]
+ }
+}

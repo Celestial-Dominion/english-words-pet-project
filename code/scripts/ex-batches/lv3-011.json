@@ -1,0 +1,870 @@
+[
+ {
+  "id": "cowboy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cao bồi; người chăn bò; kẻ làm ăn cẩu thả",
+  "coll": [
+   "cowboy hat",
+   "cowboy boots",
+   "a cowboy builder",
+   "play cowboys and Indians"
+  ]
+ },
+ {
+  "id": "censorship",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kiểm duyệt; chế độ kiểm duyệt",
+  "coll": [
+   "government censorship",
+   "strict censorship",
+   "media censorship",
+   "impose censorship",
+   "censorship laws"
+  ]
+ },
+ {
+  "id": "bait",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "mồi nhử; mồi câu; nhử, dụ dỗ",
+  "coll": [
+   "take the bait",
+   "use as bait",
+   "fishing bait",
+   "bait a trap",
+   "clickbait"
+  ]
+ },
+ {
+  "id": "compilation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự biên soạn; tuyển tập; sự biên dịch (mã)",
+  "coll": [
+   "a compilation album",
+   "the compilation of data",
+   "compilation error",
+   "a compilation of essays"
+  ]
+ },
+ {
+  "id": "incomplete",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chưa hoàn chỉnh; dang dở, thiếu sót",
+  "coll": [
+   "incomplete data",
+   "an incomplete picture",
+   "incomplete information",
+   "remain incomplete",
+   "an incomplete list"
+  ]
+ },
+ {
+  "id": "therapeutic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trị liệu; có tác dụng chữa lành, giúp thư thái",
+  "coll": [
+   "therapeutic effect",
+   "therapeutic value",
+   "therapeutic massage",
+   "a therapeutic approach",
+   "therapeutic benefits"
+  ]
+ },
+ {
+  "id": "superhero",
+  "pos": [
+   "n"
+  ],
+  "vi": "siêu anh hùng",
+  "coll": [
+   "a superhero movie",
+   "superhero comics",
+   "a superhero costume",
+   "superhero powers"
+  ]
+ },
+ {
+  "id": "spinal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc cột sống; ở tủy sống",
+  "coll": [
+   "spinal cord",
+   "spinal injury",
+   "spinal column",
+   "spinal surgery",
+   "a spinal tap"
+  ]
+ },
+ {
+  "id": "exploitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bóc lột; sự khai thác (tài nguyên); sự lợi dụng",
+  "coll": [
+   "labour exploitation",
+   "sexual exploitation",
+   "the exploitation of resources",
+   "exploitation of workers",
+   "commercial exploitation"
+  ]
+ },
+ {
+  "id": "atmospheric",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc khí quyển; giàu không khí, gợi cảm xúc",
+  "coll": [
+   "atmospheric pressure",
+   "atmospheric conditions",
+   "atmospheric music",
+   "atmospheric CO2 levels",
+   "an atmospheric setting"
+  ]
+ },
+ {
+  "id": "violet",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "màu tím; hoa violet, hoa tím",
+  "coll": [
+   "a violet dress",
+   "deep violet",
+   "ultraviolet light",
+   "African violet",
+   "violet petals"
+  ]
+ },
+ {
+  "id": "goose",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con ngỗng; thịt ngỗng",
+  "coll": [
+   "wild goose chase",
+   "a flock of geese",
+   "goose bumps",
+   "roast goose",
+   "the goose that lays the golden eggs"
+  ]
+ },
+ {
+  "id": "urine",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nước tiểu",
+  "coll": [
+   "a urine sample",
+   "a urine test",
+   "urine output",
+   "blood in the urine",
+   "pass urine"
+  ]
+ },
+ {
+  "id": "sperm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tinh trùng; tinh dịch",
+  "coll": [
+   "sperm count",
+   "sperm donor",
+   "a sperm bank",
+   "sperm whale",
+   "low sperm quality"
+  ]
+ },
+ {
+  "id": "vanilla",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "vani; hương vani; thường, không có gì đặc biệt",
+  "coll": [
+   "vanilla ice cream",
+   "vanilla extract",
+   "a vanilla bean",
+   "plain vanilla",
+   "vanilla flavour"
+  ]
+ },
+ {
+  "id": "heroic",
+  "pos": [
+   "n"
+  ],
+  "vi": "anh hùng, quả cảm; hào hùng; thể thơ anh hùng ca",
+  "coll": [
+   "a heroic effort",
+   "heroic deeds",
+   "heroic measures",
+   "a heroic figure",
+   "heroic resistance"
+  ]
+ },
+ {
+  "id": "swamp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đầm lầy; làm ngập; tràn ngập, quá tải",
+  "coll": [
+   "a mangrove swamp",
+   "drain the swamp",
+   "swamped with work",
+   "swamp water",
+   "be swamped with requests"
+  ]
+ },
+ {
+  "id": "treason",
+  "pos": [
+   "n"
+  ],
+  "vi": "tội phản quốc; sự phản bội",
+  "coll": [
+   "commit treason",
+   "high treason",
+   "guilty of treason",
+   "an act of treason",
+   "charged with treason"
+  ]
+ },
+ {
+  "id": "nationally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trên toàn quốc; ở cấp quốc gia",
+  "coll": [
+   "nationally recognised",
+   "nationally representative",
+   "broadcast nationally",
+   "nationally and internationally",
+   "nationally ranked"
+  ]
+ },
+ {
+  "id": "cardiac",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc về tim; tim mạch",
+  "coll": [
+   "cardiac arrest",
+   "cardiac surgery",
+   "cardiac disease",
+   "cardiac muscle",
+   "a cardiac patient"
+  ]
+ },
+ {
+  "id": "renewal",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự gia hạn; sự đổi mới; sự hồi sinh",
+  "coll": [
+   "contract renewal",
+   "urban renewal",
+   "licence renewal",
+   "a renewal of interest",
+   "renewal fee"
+  ]
+ },
+ {
+  "id": "organizational",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc tổ chức; về tổ chức, sắp xếp",
+  "coll": [
+   "organizational structure",
+   "organizational culture",
+   "organizational skills",
+   "organizational change",
+   "organizational behaviour"
+  ]
+ },
+ {
+  "id": "vicious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hung ác, tàn bạo; hiểm độc, cay nghiệt; dữ dội",
+  "coll": [
+   "a vicious attack",
+   "a vicious circle",
+   "a vicious dog",
+   "a vicious rumour",
+   "vicious criticism"
+  ]
+ },
+ {
+  "id": "inherent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vốn có, cố hữu; gắn liền với bản chất",
+  "coll": [
+   "inherent risk",
+   "inherent in the system",
+   "an inherent flaw",
+   "inherent value",
+   "inherent contradiction"
+  ]
+ },
+ {
+  "id": "refreshing",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "sảng khoái, mát mẻ; mới mẻ, dễ chịu",
+  "coll": [
+   "a refreshing drink",
+   "refreshingly honest",
+   "a refreshing change",
+   "refreshing breeze",
+   "refreshing to see"
+  ]
+ },
+ {
+  "id": "discourse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "diễn ngôn; luận bàn, đàm luận; bài thuyết trình",
+  "coll": [
+   "public discourse",
+   "political discourse",
+   "discourse analysis",
+   "academic discourse",
+   "discourse on a topic"
+  ]
+ },
+ {
+  "id": "reactor",
+  "pos": [
+   "n"
+  ],
+  "vi": "lò phản ứng (hạt nhân); bình phản ứng",
+  "coll": [
+   "a nuclear reactor",
+   "reactor core",
+   "shut down a reactor",
+   "a chemical reactor",
+   "reactor meltdown"
+  ]
+ },
+ {
+  "id": "reset",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đặt lại, cài lại; khởi động lại; sự thiết lập lại",
+  "coll": [
+   "reset the password",
+   "factory reset",
+   "reset the clock",
+   "hit the reset button",
+   "a reset of relations"
+  ]
+ },
+ {
+  "id": "missionary",
+  "pos": [
+   "adj"
+  ],
+  "vi": "truyền giáo; nhà truyền giáo",
+  "coll": [
+   "missionary work",
+   "a missionary school",
+   "Christian missionaries",
+   "missionary zeal",
+   "missionary position"
+  ]
+ },
+ {
+  "id": "vodka",
+  "pos": [
+   "n"
+  ],
+  "vi": "rượu vodka",
+  "coll": [
+   "a shot of vodka",
+   "vodka and tonic",
+   "a bottle of vodka",
+   "Russian vodka",
+   "vodka martini"
+  ]
+ },
+ {
+  "id": "prototype",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nguyên mẫu; bản mẫu thử; mẫu điển hình",
+  "coll": [
+   "build a prototype",
+   "a working prototype",
+   "an early prototype",
+   "test a prototype",
+   "prototype design"
+  ]
+ },
+ {
+  "id": "humour",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự hài hước; khiếu hài hước; tâm trạng; chiều theo ý",
+  "coll": [
+   "a sense of humour",
+   "dry humour",
+   "dark humour",
+   "good humour",
+   "humour someone"
+  ]
+ },
+ {
+  "id": "toddler",
+  "pos": [
+   "n"
+  ],
+  "vi": "trẻ mới biết đi; bé chập chững",
+  "coll": [
+   "a toddler tantrum",
+   "toddler group",
+   "toddler food",
+   "babies and toddlers",
+   "a two-year-old toddler"
+  ]
+ },
+ {
+  "id": "activation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kích hoạt; sự khởi động",
+  "coll": [
+   "account activation",
+   "activation code",
+   "muscle activation",
+   "activation energy",
+   "brain activation"
+  ]
+ },
+ {
+  "id": "justification",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự biện minh; lý do chính đáng; căn lề (chữ)",
+  "coll": [
+   "moral justification",
+   "no justification for",
+   "provide justification",
+   "legal justification",
+   "justification of the war"
+  ]
+ },
+ {
+  "id": "livestock",
+  "pos": [
+   "n"
+  ],
+  "vi": "gia súc, vật nuôi",
+  "coll": [
+   "raise livestock",
+   "livestock farming",
+   "livestock production",
+   "livestock feed",
+   "livestock and crops"
+  ]
+ },
+ {
+  "id": "lego",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ chơi lắp ghép Lego",
+  "coll": [
+   "Lego bricks",
+   "build with Lego",
+   "a Lego set",
+   "Lego pieces",
+   "a Lego model"
+  ]
+ },
+ {
+  "id": "nationalism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa dân tộc; tinh thần dân tộc cực đoan",
+  "coll": [
+   "rising nationalism",
+   "economic nationalism",
+   "extreme nationalism",
+   "a wave of nationalism",
+   "religious nationalism"
+  ]
+ },
+ {
+  "id": "inland",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "trong nội địa; vùng sâu trong đất liền",
+  "coll": [
+   "move inland",
+   "inland waterways",
+   "an inland sea",
+   "inland areas",
+   "further inland"
+  ]
+ },
+ {
+  "id": "outright",
+  "pos": [
+   "adv",
+   "adj",
+   "v"
+  ],
+  "vi": "hoàn toàn, dứt khoát; thẳng thừng; ngay lập tức",
+  "coll": [
+   "an outright ban",
+   "reject outright",
+   "outright winner",
+   "buy a house outright",
+   "an outright lie"
+  ]
+ },
+ {
+  "id": "oversight",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự giám sát; sự sơ suất, sai sót do bỏ quên",
+  "coll": [
+   "congressional oversight",
+   "regulatory oversight",
+   "an administrative oversight",
+   "provide oversight",
+   "due to an oversight"
+  ]
+ },
+ {
+  "id": "diagnostic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chẩn đoán; dùng để chẩn đoán; xét nghiệm chẩn đoán",
+  "coll": [
+   "diagnostic tests",
+   "diagnostic tool",
+   "diagnostic criteria",
+   "diagnostic imaging",
+   "run diagnostics"
+  ]
+ },
+ {
+  "id": "differential",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chênh lệch; khác biệt, phân biệt; vi phân (toán)",
+  "coll": [
+   "a pay differential",
+   "differential treatment",
+   "differential diagnosis",
+   "differential equation",
+   "price differential"
+  ]
+ },
+ {
+  "id": "humidity",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ ẩm; sự ẩm ướt",
+  "coll": [
+   "high humidity",
+   "relative humidity",
+   "humidity levels",
+   "heat and humidity",
+   "low humidity"
+  ]
+ },
+ {
+  "id": "statute",
+  "pos": [
+   "n"
+  ],
+  "vi": "đạo luật; điều lệ, quy chế",
+  "coll": [
+   "by statute",
+   "statute of limitations",
+   "a federal statute",
+   "statute book",
+   "under the statute"
+  ]
+ },
+ {
+  "id": "critique",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phê bình, mổ xẻ; bài phê bình, sự phân tích",
+  "coll": [
+   "a critique of capitalism",
+   "offer a critique",
+   "literary critique",
+   "critique the proposal",
+   "a scathing critique"
+  ]
+ },
+ {
+  "id": "dominance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thống trị; ưu thế vượt trội",
+  "coll": [
+   "male dominance",
+   "market dominance",
+   "establish dominance",
+   "economic dominance",
+   "assert dominance"
+  ]
+ },
+ {
+  "id": "startup",
+  "pos": [
+   "n"
+  ],
+  "vi": "công ty khởi nghiệp; sự khởi động",
+  "coll": [
+   "a tech startup",
+   "startup company",
+   "startup costs",
+   "launch a startup",
+   "startup funding"
+  ]
+ },
+ {
+  "id": "geological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc địa chất; về địa chất học",
+  "coll": [
+   "geological survey",
+   "geological formations",
+   "geological time",
+   "geological record",
+   "geological features"
+  ]
+ },
+ {
+  "id": "premise",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiền đề; giả định; (số nhiều) khuôn viên, cơ sở",
+  "coll": [
+   "the basic premise",
+   "a false premise",
+   "on the premise that",
+   "business premises",
+   "on the premises"
+  ]
+ },
+ {
+  "id": "citation",
+  "pos": [
+   "n"
+  ],
+  "vi": "trích dẫn; sự nêu nguồn; giấy triệu tập, giấy phạt",
+  "coll": [
+   "a citation index",
+   "cite a citation",
+   "citation needed",
+   "traffic citation",
+   "a citation for bravery"
+  ]
+ },
+ {
+  "id": "predecessor",
+  "pos": [
+   "n"
+  ],
+  "vi": "người tiền nhiệm; phiên bản trước",
+  "coll": [
+   "his predecessor",
+   "unlike its predecessor",
+   "immediate predecessor",
+   "succeed a predecessor",
+   "the model's predecessor"
+  ]
+ },
+ {
+  "id": "bot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bot, chương trình tự động; tài khoản ảo",
+  "coll": [
+   "a chat bot",
+   "spam bots",
+   "bot traffic",
+   "a Twitter bot",
+   "bot detection"
+  ]
+ },
+ {
+  "id": "congregation",
+  "pos": [
+   "n"
+  ],
+  "vi": "giáo đoàn, cộng đoàn; sự tụ họp; đám đông",
+  "coll": [
+   "the whole congregation",
+   "address the congregation",
+   "a small congregation",
+   "church congregation",
+   "members of the congregation"
+  ]
+ },
+ {
+  "id": "unprecedented",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chưa từng có; vô tiền khoáng hậu",
+  "coll": [
+   "unprecedented levels",
+   "an unprecedented move",
+   "unprecedented growth",
+   "unprecedented in history",
+   "unprecedented scale"
+  ]
+ },
+ {
+  "id": "calcium",
+  "pos": [
+   "n"
+  ],
+  "vi": "canxi",
+  "coll": [
+   "calcium deficiency",
+   "calcium supplements",
+   "calcium carbonate",
+   "a good source of calcium",
+   "calcium intake"
+  ]
+ },
+ {
+  "id": "infinity",
+  "pos": [
+   "n"
+  ],
+  "vi": "vô cực; sự vô hạn, vô tận",
+  "coll": [
+   "to infinity and beyond",
+   "an infinity pool",
+   "approach infinity",
+   "infinity symbol",
+   "stretch to infinity"
+  ]
+ },
+ {
+  "id": "stimulus",
+  "pos": [
+   "n"
+  ],
+  "vi": "tác nhân kích thích; động lực; gói kích cầu",
+  "coll": [
+   "economic stimulus",
+   "a stimulus package",
+   "respond to a stimulus",
+   "visual stimulus",
+   "provide a stimulus"
+  ]
+ },
+ {
+  "id": "token",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "dấu hiệu, biểu tượng; xu, thẻ; mang tính hình thức",
+  "coll": [
+   "a token of appreciation",
+   "a gift token",
+   "token gesture",
+   "by the same token",
+   "a token payment"
+  ]
+ },
+ {
+  "id": "membrane",
+  "pos": [
+   "n"
+  ],
+  "vi": "màng; màng tế bào",
+  "coll": [
+   "cell membrane",
+   "mucous membrane",
+   "a thin membrane",
+   "membrane protein",
+   "permeable membrane"
+  ]
+ }
+]

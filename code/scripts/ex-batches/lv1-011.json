@@ -1,0 +1,882 @@
+[
+ {
+  "id": "electrical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc về điện; dùng điện",
+  "coll": [
+   "an electrical engineer",
+   "electrical appliances",
+   "electrical wiring",
+   "an electrical current",
+   "an electrical fault"
+  ]
+ },
+ {
+  "id": "establishment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thành lập; cơ sở, cơ quan; giới cầm quyền",
+  "coll": [
+   "the establishment of",
+   "an educational establishment",
+   "the political establishment",
+   "since its establishment",
+   "a business establishment"
+  ]
+ },
+ {
+  "id": "lab",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phòng thí nghiệm; phòng lab",
+  "coll": [
+   "a science lab",
+   "lab results",
+   "a lab technician",
+   "a computer lab",
+   "a lab test"
+  ]
+ },
+ {
+  "id": "middle-aged",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trung niên; ở tuổi trung niên",
+  "coll": [
+   "a middle-aged man",
+   "a middle-aged woman",
+   "a middle-aged couple",
+   "middle-aged spread"
+  ]
+ },
+ {
+  "id": "newly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "mới, vừa mới; gần đây",
+  "coll": [
+   "newly built",
+   "newly married",
+   "newly appointed",
+   "newly formed",
+   "newly arrived"
+  ]
+ },
+ {
+  "id": "ordinary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bình thường; thông thường; tầm thường",
+  "coll": [
+   "ordinary people",
+   "out of the ordinary",
+   "an ordinary day",
+   "ordinary life",
+   "perfectly ordinary"
+  ]
+ },
+ {
+  "id": "participate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "tham gia; góp phần",
+  "coll": [
+   "participate in",
+   "actively participate",
+   "participate fully",
+   "participate in a discussion",
+   "encourage people to participate"
+  ]
+ },
+ {
+  "id": "prayer",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời cầu nguyện; sự cầu nguyện; bài kinh",
+  "coll": [
+   "say a prayer",
+   "answer a prayer",
+   "morning prayers",
+   "a prayer book",
+   "a silent prayer"
+  ]
+ },
+ {
+  "id": "rarely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hiếm khi; ít khi",
+  "coll": [
+   "rarely seen",
+   "very rarely",
+   "rarely used",
+   "rarely happens",
+   "rarely if ever"
+  ]
+ },
+ {
+  "id": "soil",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đất; thổ nhưỡng; làm bẩn",
+  "coll": [
+   "fertile soil",
+   "soil erosion",
+   "poor soil",
+   "soil quality",
+   "native soil"
+  ]
+ },
+ {
+  "id": "trash",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rác; thùng rác; đồ bỏ đi",
+  "coll": [
+   "take out the trash",
+   "a trash can",
+   "a piece of trash",
+   "a trash bag",
+   "talk trash"
+  ]
+ },
+ {
+  "id": "virus",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vi-rút; siêu vi; vi-rút máy tính",
+  "coll": [
+   "a computer virus",
+   "catch a virus",
+   "spread the virus",
+   "a virus infection",
+   "the flu virus"
+  ]
+ },
+ {
+  "id": "whoever",
+  "pos": [
+   "pron"
+  ],
+  "vi": "bất cứ ai; ai mà; người nào",
+  "coll": [
+   "whoever wants it",
+   "whoever you are",
+   "whoever did this",
+   "whoever comes first"
+  ]
+ },
+ {
+  "id": "aspect",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khía cạnh; phương diện; vẻ ngoài",
+  "coll": [
+   "an important aspect",
+   "every aspect of",
+   "positive aspects",
+   "an aspect of life",
+   "a key aspect"
+  ]
+ },
+ {
+  "id": "bureau",
+  "pos": [
+   "n"
+  ],
+  "vi": "cục, vụ (cơ quan); văn phòng; bàn giấy",
+  "coll": [
+   "the Federal Bureau of Investigation",
+   "a news bureau",
+   "a travel bureau",
+   "a bureau chief",
+   "an employment bureau"
+  ]
+ },
+ {
+  "id": "comfort",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự thoải mái; niềm an ủi; an ủi",
+  "coll": [
+   "in comfort",
+   "comfort food",
+   "words of comfort",
+   "a comfort zone",
+   "creature comforts"
+  ]
+ },
+ {
+  "id": "dramatic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đột ngột, gây choáng; kịch tính; thuộc kịch",
+  "coll": [
+   "a dramatic change",
+   "a dramatic increase",
+   "a dramatic effect",
+   "a dramatic improvement",
+   "dramatic scenery"
+  ]
+ },
+ {
+  "id": "illness",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh tật; căn bệnh; sự ốm đau",
+  "coll": [
+   "mental illness",
+   "a serious illness",
+   "suffer from an illness",
+   "terminal illness",
+   "recover from an illness"
+  ]
+ },
+ {
+  "id": "lately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "gần đây; dạo này",
+  "coll": [
+   "lately I've been",
+   "have you seen him lately",
+   "until lately",
+   "not lately"
+  ]
+ },
+ {
+  "id": "minority",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thiểu số; nhóm thiểu số; số ít",
+  "coll": [
+   "an ethnic minority",
+   "a small minority",
+   "a minority group",
+   "in the minority",
+   "minority rights"
+  ]
+ },
+ {
+  "id": "promotion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thăng chức; việc quảng bá; chương trình khuyến mãi",
+  "coll": [
+   "get a promotion",
+   "sales promotion",
+   "the promotion of health",
+   "promotion opportunities",
+   "a special promotion"
+  ]
+ },
+ {
+  "id": "rail",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đường sắt; thanh vịn; đường ray",
+  "coll": [
+   "by rail",
+   "the rail network",
+   "rail travel",
+   "rail fares",
+   "a towel rail"
+  ]
+ },
+ {
+  "id": "well-dressed",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ăn mặc chỉnh tề; ăn mặc đẹp",
+  "coll": [
+   "a well-dressed man",
+   "a well-dressed woman",
+   "impeccably well-dressed",
+   "a well-dressed crowd"
+  ]
+ },
+ {
+  "id": "buddy",
+  "pos": [
+   "n",
+   "pron",
+   "v",
+   "adj"
+  ],
+  "vi": "bạn thân; anh bạn; ông bạn",
+  "coll": [
+   "my best buddy",
+   "a drinking buddy",
+   "hey buddy",
+   "the buddy system",
+   "an old buddy"
+  ]
+ },
+ {
+  "id": "conclusion",
+  "pos": [
+   "n"
+  ],
+  "vi": "kết luận; phần kết; sự kết thúc",
+  "coll": [
+   "reach a conclusion",
+   "draw a conclusion",
+   "in conclusion",
+   "jump to conclusions",
+   "a logical conclusion"
+  ]
+ },
+ {
+  "id": "confirm",
+  "pos": [
+   "v",
+   "adv"
+  ],
+  "vi": "xác nhận; khẳng định; củng cố",
+  "coll": [
+   "confirm a booking",
+   "confirm receipt",
+   "confirm the news",
+   "confirm your identity",
+   "confirm suspicions"
+  ]
+ },
+ {
+  "id": "decline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự suy giảm; giảm sút; từ chối",
+  "coll": [
+   "a sharp decline",
+   "in decline",
+   "decline an offer",
+   "decline an invitation",
+   "a steady decline"
+  ]
+ },
+ {
+  "id": "forth",
+  "pos": [
+   "adv",
+   "prep",
+   "adj",
+   "n"
+  ],
+  "vi": "ra phía trước; trở đi; ra ngoài",
+  "coll": [
+   "and so forth",
+   "set forth",
+   "back and forth",
+   "bring forth",
+   "from this day forth"
+  ]
+ },
+ {
+  "id": "hire",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "thuê; tuyển dụng; người mới tuyển",
+  "coll": [
+   "hire a car",
+   "hire staff",
+   "for hire",
+   "hire a lawyer",
+   "a new hire"
+  ]
+ },
+ {
+  "id": "hop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhảy lò cò; nhảy phốc; bước nhảy ngắn",
+  "coll": [
+   "hop on a bus",
+   "hop over",
+   "a short hop",
+   "hop in the car",
+   "hop on one foot"
+  ]
+ },
+ {
+  "id": "insane",
+  "pos": [
+   "adj"
+  ],
+  "vi": "điên rồ; mất trí; khùng",
+  "coll": [
+   "go insane",
+   "an insane idea",
+   "criminally insane",
+   "drive someone insane",
+   "an insane amount"
+  ]
+ },
+ {
+  "id": "layer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lớp; tầng; xếp thành lớp",
+  "coll": [
+   "a thin layer",
+   "the ozone layer",
+   "a layer of dust",
+   "the top layer",
+   "multiple layers"
+  ]
+ },
+ {
+  "id": "nowhere",
+  "pos": [
+   "adv",
+   "adj",
+   "n"
+  ],
+  "vi": "không ở đâu cả; chẳng đến đâu",
+  "coll": [
+   "out of nowhere",
+   "nowhere to be found",
+   "in the middle of nowhere",
+   "get nowhere",
+   "nowhere else"
+  ]
+ },
+ {
+  "id": "obtain",
+  "pos": [
+   "v"
+  ],
+  "vi": "có được; thu được; xin được",
+  "coll": [
+   "obtain permission",
+   "obtain information",
+   "obtain a degree",
+   "obtain results",
+   "obtain a visa"
+  ]
+ },
+ {
+  "id": "organic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hữu cơ; trồng sạch; thuộc cơ thể sống",
+  "coll": [
+   "organic food",
+   "organic farming",
+   "organic matter",
+   "organic chemistry",
+   "organic growth"
+  ]
+ },
+ {
+  "id": "poetry",
+  "pos": [
+   "n"
+  ],
+  "vi": "thơ ca; chất thơ",
+  "coll": [
+   "write poetry",
+   "a book of poetry",
+   "read poetry",
+   "modern poetry",
+   "poetry in motion"
+  ]
+ },
+ {
+  "id": "pot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái nồi; chậu cây; ấm (trà)",
+  "coll": [
+   "a pot of tea",
+   "a cooking pot",
+   "a flower pot",
+   "pots and pans",
+   "a melting pot"
+  ]
+ },
+ {
+  "id": "recall",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhớ lại; thu hồi; khả năng ghi nhớ",
+  "coll": [
+   "recall the incident",
+   "as I recall",
+   "a product recall",
+   "recall a product",
+   "vividly recall"
+  ]
+ },
+ {
+  "id": "sheet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tờ (giấy); ga trải giường; tấm, lá",
+  "coll": [
+   "a sheet of paper",
+   "bed sheets",
+   "sheet metal",
+   "a balance sheet",
+   "change the sheets"
+  ]
+ },
+ {
+  "id": "spiritual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc tâm linh; về tinh thần",
+  "coll": [
+   "spiritual life",
+   "a spiritual leader",
+   "spiritual growth",
+   "spiritual beliefs",
+   "a spiritual journey"
+  ]
+ },
+ {
+  "id": "associate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "liên tưởng, gắn với; cộng sự; phó, trợ lý",
+  "coll": [
+   "associate with",
+   "closely associated",
+   "a business associate",
+   "an associate professor",
+   "an associate member"
+  ]
+ },
+ {
+  "id": "broadcast",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "adv"
+  ],
+  "vi": "phát sóng; buổi phát sóng; truyền đi rộng rãi",
+  "coll": [
+   "a live broadcast",
+   "a news broadcast",
+   "broadcast live",
+   "a radio broadcast",
+   "broadcast news"
+  ]
+ },
+ {
+  "id": "compete",
+  "pos": [
+   "v"
+  ],
+  "vi": "cạnh tranh; thi đấu; đua tranh",
+  "coll": [
+   "compete with",
+   "compete for",
+   "compete in a race",
+   "compete against",
+   "unable to compete"
+  ]
+ },
+ {
+  "id": "damaged",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bị hư hại; bị tổn thương",
+  "coll": [
+   "badly damaged",
+   "damaged goods",
+   "severely damaged",
+   "fire-damaged",
+   "a damaged reputation"
+  ]
+ },
+ {
+  "id": "disaster",
+  "pos": [
+   "n"
+  ],
+  "vi": "thảm họa; tai họa; thất bại thảm hại",
+  "coll": [
+   "a natural disaster",
+   "a complete disaster",
+   "disaster relief",
+   "a disaster area",
+   "avert a disaster"
+  ]
+ },
+ {
+  "id": "equally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "như nhau; đều nhau; cũng vậy",
+  "coll": [
+   "equally important",
+   "divide equally",
+   "treat equally",
+   "equally good",
+   "share equally"
+  ]
+ },
+ {
+  "id": "fallen",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đã rơi, đã ngã; tử trận; sa ngã",
+  "coll": [
+   "fallen leaves",
+   "a fallen tree",
+   "the fallen soldiers",
+   "a fallen angel",
+   "have fallen"
+  ]
+ },
+ {
+  "id": "fitness",
+  "pos": [
+   "n"
+  ],
+  "vi": "thể lực; việc rèn luyện sức khỏe; sự phù hợp",
+  "coll": [
+   "physical fitness",
+   "a fitness centre",
+   "fitness level",
+   "fitness for purpose",
+   "improve your fitness"
+  ]
+ },
+ {
+  "id": "intense",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mãnh liệt; dữ dội; căng thẳng",
+  "coll": [
+   "intense pressure",
+   "intense heat",
+   "intense pain",
+   "intense competition",
+   "intense emotion"
+  ]
+ },
+ {
+  "id": "liquid",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chất lỏng; lỏng; dễ chuyển thành tiền mặt",
+  "coll": [
+   "a clear liquid",
+   "in liquid form",
+   "liquid soap",
+   "liquid assets",
+   "liquid nitrogen"
+  ]
+ },
+ {
+  "id": "narrative",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "câu chuyện kể; lối kể chuyện; thuộc tự sự",
+  "coll": [
+   "a compelling narrative",
+   "a personal narrative",
+   "narrative structure",
+   "the narrative of the film",
+   "a first-person narrative"
+  ]
+ },
+ {
+  "id": "narrow",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "hẹp; chật; thu hẹp",
+  "coll": [
+   "a narrow street",
+   "a narrow escape",
+   "a narrow margin",
+   "narrow down",
+   "narrow-minded"
+  ]
+ },
+ {
+  "id": "occasionally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thỉnh thoảng; đôi khi",
+  "coll": [
+   "only occasionally",
+   "occasionally visit",
+   "occasionally used",
+   "very occasionally"
+  ]
+ },
+ {
+  "id": "physics",
+  "pos": [
+   "n"
+  ],
+  "vi": "vật lý học; môn vật lý",
+  "coll": [
+   "study physics",
+   "nuclear physics",
+   "quantum physics",
+   "the laws of physics",
+   "a physics teacher"
+  ]
+ },
+ {
+  "id": "reduction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giảm bớt; mức giảm; sự cắt giảm",
+  "coll": [
+   "a price reduction",
+   "cost reduction",
+   "a significant reduction",
+   "a reduction in costs",
+   "tax reduction"
+  ]
+ },
+ {
+  "id": "refuse",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "từ chối; khước từ; rác thải",
+  "coll": [
+   "refuse to answer",
+   "flatly refuse",
+   "refuse an offer",
+   "refuse permission",
+   "refuse collection"
+  ]
+ },
+ {
+  "id": "resource",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nguồn lực; tài nguyên; nguồn tư liệu",
+  "coll": [
+   "natural resources",
+   "human resources",
+   "limited resources",
+   "a valuable resource",
+   "resource management"
+  ]
+ },
+ {
+  "id": "visible",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nhìn thấy được; rõ rệt; dễ nhận thấy",
+  "coll": [
+   "clearly visible",
+   "barely visible",
+   "visible to the naked eye",
+   "highly visible",
+   "become visible"
+  ]
+ },
+ {
+  "id": "angle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "góc (độ); góc nhìn; khía cạnh",
+  "coll": [
+   "a right angle",
+   "at an angle",
+   "a camera angle",
+   "a 45-degree angle",
+   "a different angle"
+  ]
+ },
+ {
+  "id": "bishop",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giám mục; quân tượng (cờ vua)",
+  "coll": [
+   "the Bishop of Rome",
+   "a Catholic bishop",
+   "appointed bishop",
+   "the bishop's palace",
+   "move the bishop"
+  ]
+ }
+]

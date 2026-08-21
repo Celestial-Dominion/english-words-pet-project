@@ -1,0 +1,890 @@
+[
+ {
+  "id": "bow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái cung; cúi chào; cái nơ",
+  "coll": [
+   "bow and arrow",
+   "take a bow",
+   "bow tie",
+   "bow your head",
+   "violin bow"
+  ]
+ },
+ {
+  "id": "craft",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nghề thủ công; tay nghề; chế tác khéo léo",
+  "coll": [
+   "arts and crafts",
+   "craft skills",
+   "master your craft",
+   "craft beer",
+   "craft fair"
+  ]
+ },
+ {
+  "id": "darkness",
+  "pos": [
+   "n"
+  ],
+  "vi": "bóng tối; sự tối tăm",
+  "coll": [
+   "in the darkness",
+   "total darkness",
+   "darkness falls",
+   "plunged into darkness",
+   "under cover of darkness"
+  ]
+ },
+ {
+  "id": "enable",
+  "pos": [
+   "v"
+  ],
+  "vi": "cho phép; tạo điều kiện; kích hoạt",
+  "coll": [
+   "enable someone to",
+   "enable access",
+   "enable the feature",
+   "technology enables",
+   "enable growth"
+  ]
+ },
+ {
+  "id": "phrase",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cụm từ; câu nói; diễn đạt thành lời",
+  "coll": [
+   "a common phrase",
+   "turn of phrase",
+   "catch phrase",
+   "phrase a question",
+   "to coin a phrase"
+  ]
+ },
+ {
+  "id": "racial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc chủng tộc; về sắc tộc",
+  "coll": [
+   "racial discrimination",
+   "racial equality",
+   "racial tension",
+   "racial group",
+   "racial prejudice"
+  ]
+ },
+ {
+  "id": "similarly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tương tự; cũng vậy",
+  "coll": [
+   "similarly affected",
+   "similarly dressed",
+   "similarly sized",
+   "similarly named",
+   "behave similarly"
+  ]
+ },
+ {
+  "id": "stem",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "thân cây; cuống; bắt nguồn từ; ngăn chặn",
+  "coll": [
+   "stem from",
+   "flower stem",
+   "stem cell",
+   "stem the tide",
+   "stem the flow"
+  ]
+ },
+ {
+  "id": "summit",
+  "pos": [
+   "n",
+   "v",
+   "pron"
+  ],
+  "vi": "đỉnh núi; hội nghị thượng đỉnh; tột đỉnh",
+  "coll": [
+   "reach the summit",
+   "summit meeting",
+   "summit conference",
+   "climb to the summit",
+   "hold a summit"
+  ]
+ },
+ {
+  "id": "talented",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tài năng; có tài",
+  "coll": [
+   "highly talented",
+   "talented player",
+   "talented musician",
+   "extremely talented",
+   "talented young writer"
+  ]
+ },
+ {
+  "id": "awkward",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lúng túng; ngượng nghịu; khó xử; vụng về",
+  "coll": [
+   "awkward silence",
+   "awkward moment",
+   "feel awkward",
+   "awkward situation",
+   "awkward question"
+  ]
+ },
+ {
+  "id": "beast",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "con thú; quái vật; kẻ tàn bạo",
+  "coll": [
+   "wild beast",
+   "beast of burden",
+   "tame the beast",
+   "a beast of a machine",
+   "beauty and the beast"
+  ]
+ },
+ {
+  "id": "celebrity",
+  "pos": [
+   "n"
+  ],
+  "vi": "người nổi tiếng; danh tiếng",
+  "coll": [
+   "celebrity status",
+   "celebrity culture",
+   "celebrity chef",
+   "celebrity gossip",
+   "become a celebrity"
+  ]
+ },
+ {
+  "id": "disabled",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "khuyết tật; tàn tật; bị vô hiệu hóa",
+  "coll": [
+   "disabled people",
+   "disabled access",
+   "physically disabled",
+   "disabled parking",
+   "severely disabled"
+  ]
+ },
+ {
+  "id": "drag",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "kéo lê; lôi đi; lực cản",
+  "coll": [
+   "drag and drop",
+   "drag your feet",
+   "drag on",
+   "drag someone into",
+   "what a drag"
+  ]
+ },
+ {
+  "id": "estimate",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "ước tính; ước lượng; bản dự toán",
+  "coll": [
+   "rough estimate",
+   "estimate the cost",
+   "conservative estimate",
+   "official estimates",
+   "estimate the damage"
+  ]
+ },
+ {
+  "id": "interaction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tương tác; sự giao tiếp qua lại",
+  "coll": [
+   "social interaction",
+   "human interaction",
+   "interaction between",
+   "face-to-face interaction",
+   "drug interaction"
+  ]
+ },
+ {
+  "id": "recover",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "hồi phục; lấy lại; thu hồi",
+  "coll": [
+   "recover from illness",
+   "recover fully",
+   "recover the cost",
+   "recover stolen goods",
+   "recover consciousness"
+  ]
+ },
+ {
+  "id": "reliable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đáng tin cậy; tin được; chắc chắn",
+  "coll": [
+   "reliable source",
+   "reliable information",
+   "highly reliable",
+   "reliable service",
+   "reliable friend"
+  ]
+ },
+ {
+  "id": "rely",
+  "pos": [
+   "v"
+  ],
+  "vi": "dựa vào; trông cậy; tin cậy",
+  "coll": [
+   "rely on",
+   "rely heavily on",
+   "rely upon",
+   "rely on someone for",
+   "can't rely on"
+  ]
+ },
+ {
+  "id": "remarkable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng chú ý; phi thường; đáng kinh ngạc",
+  "coll": [
+   "remarkable achievement",
+   "remarkable success",
+   "quite remarkable",
+   "remarkable story",
+   "remarkable similarity"
+  ]
+ },
+ {
+  "id": "tale",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "câu chuyện; chuyện kể",
+  "coll": [
+   "fairy tale",
+   "tell a tale",
+   "cautionary tale",
+   "tall tale",
+   "a tale of two cities"
+  ]
+ },
+ {
+  "id": "worthy",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "xứng đáng; đáng giá; đáng khen",
+  "coll": [
+   "worthy cause",
+   "worthy of note",
+   "worthy opponent",
+   "worthy winner",
+   "worthy of praise"
+  ]
+ },
+ {
+  "id": "consideration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cân nhắc; yếu tố cần xét; sự quan tâm",
+  "coll": [
+   "take into consideration",
+   "under consideration",
+   "careful consideration",
+   "show consideration",
+   "important consideration"
+  ]
+ },
+ {
+  "id": "dependent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phụ thuộc; lệ thuộc; người phụ thuộc",
+  "coll": [
+   "dependent on",
+   "heavily dependent",
+   "financially dependent",
+   "dependent child",
+   "dependent variable"
+  ]
+ },
+ {
+  "id": "filter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bộ lọc; lọc; sàng lọc",
+  "coll": [
+   "air filter",
+   "water filter",
+   "coffee filter",
+   "filter out",
+   "apply a filter"
+  ]
+ },
+ {
+  "id": "involve",
+  "pos": [
+   "v"
+  ],
+  "vi": "liên quan; bao gồm; lôi kéo vào",
+  "coll": [
+   "involve in",
+   "get involved",
+   "involve risk",
+   "closely involved",
+   "involve a lot of work"
+  ]
+ },
+ {
+  "id": "judgment",
+  "pos": [
+   "n"
+  ],
+  "vi": "phán đoán; sự đánh giá; phán quyết",
+  "coll": [
+   "good judgment",
+   "pass judgment",
+   "final judgment",
+   "error of judgment",
+   "against my better judgment"
+  ]
+ },
+ {
+  "id": "logo",
+  "pos": [
+   "n"
+  ],
+  "vi": "logo; biểu trưng; biểu tượng thương hiệu",
+  "coll": [
+   "company logo",
+   "design a logo",
+   "brand logo",
+   "logo design",
+   "new logo"
+  ]
+ },
+ {
+  "id": "pin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ghim; đinh ghim; ghim chặt",
+  "coll": [
+   "safety pin",
+   "drawing pin",
+   "pin a note",
+   "pin down",
+   "pins and needles"
+  ]
+ },
+ {
+  "id": "publicly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "công khai; trước công chúng",
+  "coll": [
+   "publicly available",
+   "publicly announce",
+   "publicly funded",
+   "publicly traded",
+   "speak publicly"
+  ]
+ },
+ {
+  "id": "pump",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "máy bơm; bơm; trụ bơm xăng",
+  "coll": [
+   "water pump",
+   "petrol pump",
+   "bicycle pump",
+   "pump up",
+   "pump water"
+  ]
+ },
+ {
+  "id": "satisfied",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "hài lòng; thỏa mãn; mãn nguyện",
+  "coll": [
+   "fully satisfied",
+   "satisfied customer",
+   "satisfied with",
+   "feel satisfied",
+   "not satisfied"
+  ]
+ },
+ {
+  "id": "slip",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trượt chân; tuột khỏi; sơ suất; mảnh giấy nhỏ",
+  "coll": [
+   "slip on ice",
+   "slip away",
+   "slip of paper",
+   "slip up",
+   "let it slip"
+  ]
+ },
+ {
+  "id": "specialist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "chuyên gia; bác sĩ chuyên khoa; chuyên sâu",
+  "coll": [
+   "medical specialist",
+   "see a specialist",
+   "specialist knowledge",
+   "IT specialist",
+   "specialist advice"
+  ]
+ },
+ {
+  "id": "tourism",
+  "pos": [
+   "n"
+  ],
+  "vi": "du lịch; ngành du lịch",
+  "coll": [
+   "tourism industry",
+   "promote tourism",
+   "mass tourism",
+   "eco tourism",
+   "tourism sector"
+  ]
+ },
+ {
+  "id": "volunteer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tình nguyện viên; tình nguyện; xung phong",
+  "coll": [
+   "volunteer work",
+   "volunteer for",
+   "recruit volunteers",
+   "volunteer their time",
+   "willing volunteer"
+  ]
+ },
+ {
+  "id": "challenging",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đầy thử thách; khó khăn; đòi hỏi cao",
+  "coll": [
+   "challenging task",
+   "intellectually challenging",
+   "challenging job",
+   "challenging environment",
+   "highly challenging"
+  ]
+ },
+ {
+  "id": "chaos",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hỗn loạn; tình trạng hỗn độn",
+  "coll": [
+   "total chaos",
+   "cause chaos",
+   "in chaos",
+   "chaos theory",
+   "descend into chaos"
+  ]
+ },
+ {
+  "id": "concentration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tập trung; nồng độ",
+  "coll": [
+   "lose concentration",
+   "level of concentration",
+   "high concentration",
+   "concentration camp",
+   "require concentration"
+  ]
+ },
+ {
+  "id": "frequent",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "thường xuyên; hay xảy ra; hay lui tới",
+  "coll": [
+   "frequent visitor",
+   "frequent flyer",
+   "frequent use",
+   "become more frequent",
+   "frequent changes"
+  ]
+ },
+ {
+  "id": "moderate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "vừa phải; ôn hòa; điều tiết",
+  "coll": [
+   "moderate amount",
+   "moderate exercise",
+   "moderate temperature",
+   "moderate success",
+   "moderate a debate"
+  ]
+ },
+ {
+  "id": "overcome",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "vượt qua; khắc phục; choáng ngợp",
+  "coll": [
+   "overcome difficulties",
+   "overcome fear",
+   "overcome obstacles",
+   "overcome a problem",
+   "overcome by emotion"
+  ]
+ },
+ {
+  "id": "pit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái hố; hầm mỏ; khu tiếp nhiên liệu",
+  "coll": [
+   "dig a pit",
+   "coal pit",
+   "pit stop",
+   "gravel pit",
+   "the pit of your stomach"
+  ]
+ },
+ {
+  "id": "psychological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc tâm lý; về mặt tinh thần",
+  "coll": [
+   "psychological effect",
+   "psychological problems",
+   "psychological support",
+   "psychological warfare",
+   "psychological state"
+  ]
+ },
+ {
+  "id": "radiation",
+  "pos": [
+   "n"
+  ],
+  "vi": "bức xạ; phóng xạ; sự phát xạ",
+  "coll": [
+   "radiation therapy",
+   "ultraviolet radiation",
+   "radiation exposure",
+   "solar radiation",
+   "radiation levels"
+  ]
+ },
+ {
+  "id": "shocked",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bị sốc; bàng hoàng; sững sờ",
+  "coll": [
+   "deeply shocked",
+   "shocked by the news",
+   "look shocked",
+   "shocked reaction",
+   "shocked silence"
+  ]
+ },
+ {
+  "id": "stunning",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "tuyệt đẹp; gây sững sờ; choáng ngợp",
+  "coll": [
+   "stunning view",
+   "stunning victory",
+   "absolutely stunning",
+   "stunning beauty",
+   "stunning performance"
+  ]
+ },
+ {
+  "id": "vessel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tàu thuyền; mạch máu; bình chứa",
+  "coll": [
+   "blood vessel",
+   "fishing vessel",
+   "naval vessel",
+   "cargo vessel",
+   "sailing vessel"
+  ]
+ },
+ {
+  "id": "wherever",
+  "pos": [
+   "conj",
+   "adv"
+  ],
+  "vi": "bất cứ nơi đâu; ở đâu cũng",
+  "coll": [
+   "wherever possible",
+   "wherever you go",
+   "wherever necessary",
+   "wherever they are",
+   "from wherever"
+  ]
+ },
+ {
+  "id": "announce",
+  "pos": [
+   "v"
+  ],
+  "vi": "thông báo; tuyên bố; công bố",
+  "coll": [
+   "announce a decision",
+   "publicly announce",
+   "announce plans",
+   "announce the winner",
+   "formally announce"
+  ]
+ },
+ {
+  "id": "bold",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "táo bạo; dũng cảm; in đậm",
+  "coll": [
+   "bold move",
+   "bold decision",
+   "bold colours",
+   "in bold type",
+   "be bold"
+  ]
+ },
+ {
+  "id": "classical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cổ điển; kinh điển",
+  "coll": [
+   "classical music",
+   "classical literature",
+   "classical education",
+   "classical antiquity",
+   "classical style"
+  ]
+ },
+ {
+  "id": "clip",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đoạn phim ngắn; cái kẹp; kẹp lại; cắt tỉa",
+  "coll": [
+   "video clip",
+   "paper clip",
+   "hair clip",
+   "clip your nails",
+   "movie clip"
+  ]
+ },
+ {
+  "id": "convince",
+  "pos": [
+   "v"
+  ],
+  "vi": "thuyết phục; làm cho tin",
+  "coll": [
+   "convince someone",
+   "try to convince",
+   "convince the jury",
+   "hard to convince",
+   "convince yourself"
+  ]
+ },
+ {
+  "id": "encounter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gặp phải; chạm trán; cuộc gặp gỡ",
+  "coll": [
+   "encounter problems",
+   "encounter difficulties",
+   "chance encounter",
+   "first encounter",
+   "close encounter"
+  ]
+ },
+ {
+  "id": "equality",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bình đẳng; sự ngang bằng",
+  "coll": [
+   "gender equality",
+   "racial equality",
+   "social equality",
+   "equality of opportunity",
+   "fight for equality"
+  ]
+ },
+ {
+  "id": "examination",
+  "pos": [
+   "n"
+  ],
+  "vi": "kỳ thi; sự kiểm tra; sự khám bệnh",
+  "coll": [
+   "medical examination",
+   "take an examination",
+   "close examination",
+   "pass an examination",
+   "physical examination"
+  ]
+ },
+ {
+  "id": "homeless",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vô gia cư; không nhà cửa",
+  "coll": [
+   "homeless people",
+   "homeless shelter",
+   "become homeless",
+   "homeless person",
+   "help the homeless"
+  ]
+ },
+ {
+  "id": "mutual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lẫn nhau; qua lại; chung",
+  "coll": [
+   "mutual respect",
+   "mutual understanding",
+   "mutual friend",
+   "mutual benefit",
+   "by mutual agreement"
+  ]
+ }
+]

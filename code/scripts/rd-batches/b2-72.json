@@ -1,0 +1,164 @@
+[
+ {
+  "id": "wiki-samsung-galaxy-s25",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Samsung_Galaxy_S25",
+  "title_en": "Samsung Galaxy S25",
+  "sentences": [
+   "The Samsung Galaxy S25, Samsung Galaxy S25 Plus, Samsung Galaxy S25 Edge and Samsung Galaxy S25 Ultra are Android smartphones developed and made by Samsung, they are successor to the Samsung Galaxy S24 Series.",
+   "They were announced in January 22, 2025 at the Galaxy Unpacked event.",
+   "They were released in February 7, 2025.",
+   "They were announced on May 13, 2025 for Samsung Galaxy S25 Edge.",
+   "In addition to manufacturing the S25 Ultra in Vietnam and India, it was officially manufactured in Egypt.",
+   "It was launched in the local market on May 30, 2025, through official stores and agents, as well as exported to the Gulf, North Africa, the Middle East, and Southern Europe as a step towards the global export."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-kellyjackie",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Kellyjackie",
+  "title_en": "Kellyjackie",
+  "sentences": [
+   "Jackie Chan Hiu-ki (陳曉琪), also known as Kellyjackie (born 23 August 1986), is a Hong Kong citizen who enjoys singing as a hobby.",
+   "She is also a member of a band called the Royals.",
+   "She likes the pop singer Kelly Chen, so she puts \"Kelly\" in her nickname.",
+   "She was a secondary school student before 2005.",
+   "She started to put her songs on the Internet from the age of 13, although she mostly sang other singers' songs.",
+   "After about one year, she started writing her own songs.",
+   "Her own first song was Lucky Voice which, like her other songs, was put on the Internet for others to listen.",
+   "In January 2005, she wrote the song He invites me to Disneyland (他約我去迪士尼) to ease her exam stress.",
+   "She got the ideas of the song from the story Sleeping Beauty.",
+   "She uploaded her song He invites me to Disneyland to her band's forum, her Xanga site, i010.com and also cmidi.com for free downloading by Internet users.",
+   "The song became very famous with the help of the Internet within a few weeks.",
+   "The song was also number 1 of Yahoo!",
+   "Hong Kong's Top Searches (搜尋人氣榜) for some time.",
+   "Some DJs also played the song on the radio.",
+   "Many people were happy about her, although some also thought she did not have good singing skills.",
+   "When the Hong Kong Disneyland opened, the Hong Kong Disneyland -The Grand Opening Celebration Album (香港迪士尼樂園開幕紀念大碟) was sold in public."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-heat-sink",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Heat_sink",
+  "title_en": "Heat sink",
+  "sentences": [
+   "A heat sink is an object that cools another part that is too hot.",
+   "It works with a CPU fan to do this.",
+   "The heat sink is in contact with the part that should be cooled.",
+   "It takes heat away and dissipates it, for example into the air around it.",
+   "Heat sinks are found in most computers.",
+   "The chips inside a computer can get very hot.",
+   "Therefore, they need to be cooled, so that they don't break.",
+   "This is usually done with a heat sink.",
+   "Heat sinks are also found in most high fidelity audio amplifiers."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-context-computing",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Context_(computing)",
+  "title_en": "Context (computing)",
+  "sentences": [
+   "Context in computer science refers to a specific set of data, which is related to a task.",
+   "It must be saved to allow a task interruption to happen at a given date, a continuation of this task at the point it has been interrupted, and at an arbitrary future date.",
+   "Context is important when tasks can be interrupted.",
+   "Upon being interrupted, the processor saves the context.",
+   "It then continues with the Interrupt Service Routine.",
+   "The latency will be smaller if the context is smaller.",
+   "The context data will sometimes be located in Processor registers, the computer memory, or control registers on some operating systems.",
+   "The storage memory is not concerned by the task context in the case of a context switch, even if this can be stored for some uses (checkpointing)."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-new-zealander-discovers-us-military-data",
+  "level": 2,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/New_Zealander_discovers_US_military_data_on_MP3_player",
+  "title_en": "New Zealander discovers US military data on MP3 player",
+  "sentences": [
+   "Wednesday, January 28, 2009 A man from New Zealand has found data belonging to the United States Armed Forces on a used MP3 player.",
+   "Chris Ogle was shopping at a thrift store in Oklahoma when he bought the player for $9.",
+   "Upon returning home to Whangarei and connecting it to his computer, he discovered files listing data about US soldiers serving in Afghanistan and Iraq.",
+   "Among the data is lists of Social Security numbers, as well as mission briefings and a list of pregnant soldiers.",
+   "Most of the data is from 2005, and it does not appear its exposure will have a major impact on US national security.",
+   "As with any major data breach, however, there is a chance for identity theft of the persons whose information is contained on the player.",
+   "Ogle has stated he will return the files if he is asked to by US officials.",
+   "Neither the US embassy in Wellington nor the military had any comment for reporters.",
+   "The US government has been hit by several high-profile data breaches and worm infections in the last few years.",
+   "In 2006, investigators had to buy back USB flash drives — containing sensitive information — that had been stolen from a military base in Bagram.",
+   "The United States Department of Defence banned flash drives in 2008 after malware infected computers there.",
+   "Also in 2008, John McCain's presidential campaign accidentally sold a BlackBerry, which held sensitive data about the campaign, to a reporter."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-pattern-matching",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Pattern_matching",
+  "title_en": "Pattern matching",
+  "sentences": [
+   "Pattern matching is a tool for finding similar objects in different sources.",
+   "In image processing, the pattern matching is used for locating a small image (called model) in a bigger one (called target image).",
+   "For searching text, regular expressions are commonly used.",
+   "The simple way is to move the model in the target image and measure a similarity in each position.",
+   "The position with highest value of similarity will be accepted as result.",
+   "The normalized correlation is used as a measure of similarity.",
+   "The common way to reduce calculations is using the image pyramid.",
+   "When using the image pyramid, the search is started on the reduced target image, and results are improved in the next, more detailed one.",
+   "This process is similar to the human vision."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-two-wikimedia-employees-announce-resigna",
+  "level": 2,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Two_Wikimedia_employees_announce_resignations",
+  "title_en": "Two Wikimedia employees announce resignations",
+  "sentences": [
+   "Saturday, March 31, 2007 Brad Patrick and Danny Wool announced their resignations from the Wikimedia Foundation last week.",
+   "Danny Wool, previous Grants Coordinator for the Foundation made his resignation first known on March 20, by removing his name from the current staff listing on the Foundation's website.",
+   "Unlike Patrick, this was the first indication of Wool's resignation.",
+   "According to a mailing list post by Wool, he will be running for a seat on the Board of Trustees, the Wikimedia Foundation's governing body, in June.",
+   "Earlier in the same message, he says that he is unwilling to discuss the reasons of his resignation with the community.",
+   "Brad Patrick's resignation was known to the Board of Trustees about a month previously and was made public on March 22.",
+   "Patrick says in his mailing list message that his resignation is not related to Wools, and that \"the timing is just unfortunate\".",
+   "Patrick says that he will not be leaving the Wikimedia projects, just \"not going to be the WMF's General Counsel\" anymore.",
+   "In an interview with Wired News, Patrick criticized the Board's ability to \"handle things\", as well as concerns with the \"informal structure of the Board\" and \"the inexperience of its seven members\".",
+   "When contacted by phone, Jimbo Wales said that he was confused by Patrick's statements.",
+   "\"What I hope for is for the board to decide to choose a future that will be conducive to a very powerful executive director who can provide some much needed leadership right now,\" Patrick said."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-wikipedia-and-sister-projects-prepare-ne",
+  "level": 2,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Wikipedia_and_sister_projects_prepare_new%2C_easier_interface",
+  "title_en": "Wikipedia and sister projects prepare new, easier interface",
+  "sentences": [
+   "Sunday, March 28, 2010 Wikipedia, one of the top ten websites on the internet, will soon be receiving a face lift.",
+   "The first part of the change is a new skin called Vector.",
+   "This skin, currently used on Wikinews, will be enabled for Wikipedia on April 5th and provide a more updated look and feel.",
+   "The second part will change the toolbar when editing, and is intended to ease common tasks.",
+   "Both changes are important to encourage new people to edit and update content.",
+   "The improvements have been tested by more than 500,000 beta-testers.",
+   "The wiki code will also be altered; editors will be able to change tables data and other elements with what is intended as an easier form, in addition to editing an article while watching it.",
+   "On the other hand, the staff of Wikimedia requested more editors to add and update articles in their wikis.",
+   "Wikipedia is a website maintained by users in unprecedented numbers.",
+   "Maintenance and updating processes are dependent on just one percent of their users.",
+   "Based on some statements, fewer than a thousand users do the maintenance and updating work."
+  ],
+  "topic": "it"
+ }
+]

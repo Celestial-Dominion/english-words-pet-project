@@ -1,0 +1,881 @@
+[
+ {
+  "id": "friendly",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "thân thiện; thân mật; trận giao hữu",
+  "coll": [
+   "a friendly smile",
+   "user friendly",
+   "environmentally friendly",
+   "a friendly atmosphere",
+   "a friendly match"
+  ]
+ },
+ {
+  "id": "phase",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giai đoạn; thời kỳ; pha",
+  "coll": [
+   "the first phase",
+   "a phase of development",
+   "phase out",
+   "in phases",
+   "a difficult phase"
+  ]
+ },
+ {
+  "id": "revenue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "doanh thu; nguồn thu",
+  "coll": [
+   "generate revenue",
+   "tax revenue",
+   "annual revenue",
+   "revenue growth",
+   "advertising revenue"
+  ]
+ },
+ {
+  "id": "remaining",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "còn lại",
+  "coll": [
+   "the remaining time",
+   "the remaining players",
+   "remaining funds",
+   "the remaining questions"
+  ]
+ },
+ {
+  "id": "estimated",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "ước tính; ước lượng",
+  "coll": [
+   "the estimated cost",
+   "estimated at 500",
+   "the estimated time of arrival",
+   "the estimated number"
+  ]
+ },
+ {
+  "id": "theme",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chủ đề; đề tài; nhạc chủ đề",
+  "coll": [
+   "the main theme",
+   "a theme park",
+   "a recurring theme",
+   "a theme song",
+   "the central theme"
+  ]
+ },
+ {
+  "id": "assembly",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lắp ráp; hội đồng, quốc hội; buổi tập trung",
+  "coll": [
+   "an assembly line",
+   "the National Assembly",
+   "the general assembly",
+   "a school assembly",
+   "freedom of assembly"
+  ]
+ },
+ {
+  "id": "draft",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "bản nháp; soạn thảo; gió lùa",
+  "coll": [
+   "a first draft",
+   "draft a letter",
+   "a rough draft",
+   "a draft agreement",
+   "draft legislation"
+  ]
+ },
+ {
+  "id": "improved",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "được cải thiện; tốt hơn trước",
+  "coll": [
+   "greatly improved",
+   "improved performance",
+   "an improved version",
+   "improved conditions"
+  ]
+ },
+ {
+  "id": "prime minister",
+  "pos": [
+   "n"
+  ],
+  "vi": "thủ tướng",
+  "coll": [
+   "the British Prime Minister",
+   "the deputy prime minister",
+   "the former prime minister",
+   "the prime minister's office"
+  ]
+ },
+ {
+  "id": "relevant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "liên quan; thích đáng; hợp thời",
+  "coll": [
+   "relevant information",
+   "relevant experience",
+   "directly relevant",
+   "relevant to the topic",
+   "relevant documents"
+  ]
+ },
+ {
+  "id": "solo",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "đơn ca, độc tấu; một mình; đơn độc",
+  "coll": [
+   "a guitar solo",
+   "a solo career",
+   "go solo",
+   "a solo album",
+   "a solo flight"
+  ]
+ },
+ {
+  "id": "statistics",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "số liệu thống kê; môn thống kê",
+  "coll": [
+   "official statistics",
+   "according to statistics",
+   "crime statistics",
+   "statistics show",
+   "collect statistics"
+  ]
+ },
+ {
+  "id": "territory",
+  "pos": [
+   "n"
+  ],
+  "vi": "lãnh thổ; địa bàn; lĩnh vực",
+  "coll": [
+   "enemy territory",
+   "occupied territory",
+   "uncharted territory",
+   "defend its territory",
+   "a disputed territory"
+  ]
+ },
+ {
+  "id": "corporation",
+  "pos": [
+   "n"
+  ],
+  "vi": "tập đoàn; công ty lớn",
+  "coll": [
+   "a multinational corporation",
+   "a large corporation",
+   "corporation tax",
+   "the British Broadcasting Corporation"
+  ]
+ },
+ {
+  "id": "motion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuyển động; cử động; kiến nghị (trong cuộc họp)",
+  "coll": [
+   "in motion",
+   "set in motion",
+   "slow motion",
+   "propose a motion",
+   "motion sickness"
+  ]
+ },
+ {
+  "id": "resolution",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghị quyết; sự giải quyết; độ phân giải; quyết tâm",
+  "coll": [
+   "pass a resolution",
+   "a UN resolution",
+   "a New Year's resolution",
+   "high resolution",
+   "conflict resolution"
+  ]
+ },
+ {
+  "id": "rural",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nông thôn; thuộc miền quê",
+  "coll": [
+   "rural areas",
+   "rural life",
+   "rural communities",
+   "rural development",
+   "the rural population"
+  ]
+ },
+ {
+  "id": "saving",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "prep"
+  ],
+  "vi": "sự tiết kiệm; khoản tiết kiệm được",
+  "coll": [
+   "energy saving",
+   "cost saving",
+   "a saving of 20 percent",
+   "time-saving",
+   "labour-saving"
+  ]
+ },
+ {
+  "id": "plot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cốt truyện; âm mưu; mảnh đất",
+  "coll": [
+   "the plot of the story",
+   "a plot to kill",
+   "a plot twist",
+   "a plot of land",
+   "the plot thickens"
+  ]
+ },
+ {
+  "id": "senator",
+  "pos": [
+   "n"
+  ],
+  "vi": "thượng nghị sĩ",
+  "coll": [
+   "a US senator",
+   "the senator from Texas",
+   "a senior senator",
+   "senators voted"
+  ]
+ },
+ {
+  "id": "index",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chỉ số; mục lục; ngón trỏ",
+  "coll": [
+   "the price index",
+   "the index finger",
+   "the index of a book",
+   "a stock index",
+   "the consumer price index"
+  ]
+ },
+ {
+  "id": "navy",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "hải quân; màu xanh nước biển đậm",
+  "coll": [
+   "join the navy",
+   "the Royal Navy",
+   "navy blue",
+   "a navy officer",
+   "the US Navy"
+  ]
+ },
+ {
+  "id": "scheme",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chương trình, kế hoạch; mưu đồ",
+  "coll": [
+   "a pension scheme",
+   "a training scheme",
+   "a colour scheme",
+   "a government scheme",
+   "a scheme to defraud investors"
+  ]
+ },
+ {
+  "id": "ultimately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cuối cùng; rốt cuộc; xét cho cùng",
+  "coll": [
+   "ultimately responsible",
+   "ultimately lead to",
+   "ultimately successful",
+   "ultimately, it depends"
+  ]
+ },
+ {
+  "id": "x-ray",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tia X; ảnh chụp X-quang; chụp X-quang",
+  "coll": [
+   "have an X-ray",
+   "a chest X-ray",
+   "an X-ray machine",
+   "X-ray vision"
+  ]
+ },
+ {
+  "id": "creation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tạo ra; tác phẩm; sự sáng thế",
+  "coll": [
+   "job creation",
+   "the creation of the universe",
+   "wealth creation",
+   "a new creation",
+   "the creation of jobs"
+  ]
+ },
+ {
+  "id": "identify",
+  "pos": [
+   "v"
+  ],
+  "vi": "nhận diện; xác định; đồng cảm (identify with)",
+  "coll": [
+   "identify a problem",
+   "identify the body",
+   "identify with a character",
+   "correctly identify",
+   "identify a suspect"
+  ]
+ },
+ {
+  "id": "manufacturing",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "sản xuất; chế tạo; ngành chế tạo",
+  "coll": [
+   "the manufacturing industry",
+   "the manufacturing process",
+   "car manufacturing",
+   "manufacturing jobs",
+   "manufacturing costs"
+  ]
+ },
+ {
+  "id": "personnel",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân sự; đội ngũ nhân viên",
+  "coll": [
+   "military personnel",
+   "the personnel department",
+   "trained personnel",
+   "medical personnel",
+   "a personnel manager"
+  ]
+ },
+ {
+  "id": "perspective",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "góc nhìn; quan điểm; luật phối cảnh",
+  "coll": [
+   "from a different perspective",
+   "put things in perspective",
+   "a historical perspective",
+   "a fresh perspective",
+   "a sense of perspective"
+  ]
+ },
+ {
+  "id": "revolution",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuộc cách mạng; vòng quay",
+  "coll": [
+   "the French Revolution",
+   "the industrial revolution",
+   "a technological revolution",
+   "revolutions per minute",
+   "start a revolution"
+  ]
+ },
+ {
+  "id": "ban",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lệnh cấm; cấm",
+  "coll": [
+   "impose a ban",
+   "lift a ban",
+   "a smoking ban",
+   "a ban on advertising",
+   "ban a book"
+  ]
+ },
+ {
+  "id": "carbon",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cacbon; khí thải cacbon",
+  "coll": [
+   "carbon dioxide",
+   "carbon emissions",
+   "a carbon footprint",
+   "carbon neutral",
+   "carbon monoxide"
+  ]
+ },
+ {
+  "id": "deputy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cấp phó; người thay quyền",
+  "coll": [
+   "the deputy director",
+   "the deputy prime minister",
+   "a deputy head",
+   "a deputy sheriff",
+   "act as deputy"
+  ]
+ },
+ {
+  "id": "interior",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bên trong; nội thất; nội địa",
+  "coll": [
+   "interior design",
+   "the interior of the house",
+   "interior walls",
+   "the car interior",
+   "the Ministry of the Interior"
+  ]
+ },
+ {
+  "id": "legislation",
+  "pos": [
+   "n"
+  ],
+  "vi": "đạo luật; luật pháp; việc lập pháp",
+  "coll": [
+   "new legislation",
+   "pass legislation",
+   "environmental legislation",
+   "introduce legislation",
+   "under current legislation"
+  ]
+ },
+ {
+  "id": "mate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bạn thân; bạn đời; con đực (cái) để phối giống",
+  "coll": [
+   "my best mate",
+   "a mate of mine",
+   "a running mate",
+   "choose a mate",
+   "a soul mate"
+  ]
+ },
+ {
+  "id": "panel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hội đồng, ban chuyên gia; tấm ván; bảng điều khiển",
+  "coll": [
+   "a panel of experts",
+   "a control panel",
+   "a solar panel",
+   "a panel discussion",
+   "a wooden panel"
+  ]
+ },
+ {
+  "id": "relief",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sự nhẹ nhõm; sự cứu trợ; sự giảm đau",
+  "coll": [
+   "a sense of relief",
+   "pain relief",
+   "relief work",
+   "much to my relief",
+   "disaster relief"
+  ]
+ },
+ {
+  "id": "resistance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kháng cự; sức đề kháng; điện trở",
+  "coll": [
+   "meet with resistance",
+   "resistance to change",
+   "put up resistance",
+   "antibiotic resistance",
+   "the French Resistance"
+  ]
+ },
+ {
+  "id": "self-confidence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tự tin",
+  "coll": [
+   "build self-confidence",
+   "a lack of self-confidence",
+   "gain self-confidence",
+   "boost your self-confidence"
+  ]
+ },
+ {
+  "id": "somewhat",
+  "pos": [
+   "adv",
+   "pron",
+   "n"
+  ],
+  "vi": "hơi; phần nào",
+  "coll": [
+   "somewhat different",
+   "somewhat surprised",
+   "somewhat better",
+   "somewhat limited"
+  ]
+ },
+ {
+  "id": "cable",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dây cáp; truyền hình cáp",
+  "coll": [
+   "cable television",
+   "a power cable",
+   "a cable car",
+   "fibre optic cable",
+   "a cable channel"
+  ]
+ },
+ {
+  "id": "client",
+  "pos": [
+   "n"
+  ],
+  "vi": "khách hàng; thân chủ",
+  "coll": [
+   "a regular client",
+   "a client base",
+   "meet a client",
+   "potential clients",
+   "the client relationship"
+  ]
+ },
+ {
+  "id": "constant",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "liên tục; không đổi; hằng số",
+  "coll": [
+   "constant change",
+   "a constant reminder",
+   "constant pain",
+   "remain constant",
+   "a constant temperature"
+  ]
+ },
+ {
+  "id": "dumb",
+  "pos": [
+   "adj",
+   "v",
+   "adv"
+  ],
+  "vi": "ngu ngốc, ngớ ngẩn; câm, không nói được (cũ)",
+  "coll": [
+   "a dumb question",
+   "play dumb",
+   "deaf and dumb",
+   "dumb luck",
+   "struck dumb"
+  ]
+ },
+ {
+  "id": "expansion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mở rộng; sự giãn nở",
+  "coll": [
+   "rapid expansion",
+   "business expansion",
+   "expansion plans",
+   "economic expansion",
+   "the expansion of the EU"
+  ]
+ },
+ {
+  "id": "significantly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đáng kể; rõ rệt",
+  "coll": [
+   "significantly higher",
+   "significantly increase",
+   "significantly different",
+   "significantly reduced"
+  ]
+ },
+ {
+  "id": "soviet",
+  "pos": [
+   "n"
+  ],
+  "vi": "Xô viết; thuộc Liên Xô",
+  "coll": [
+   "the Soviet Union",
+   "a Soviet leader",
+   "the former Soviet republics",
+   "the Soviet era"
+  ]
+ },
+ {
+  "id": "peak",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "đỉnh cao; đỉnh núi; đạt đỉnh",
+  "coll": [
+   "reach a peak",
+   "at its peak",
+   "peak hours",
+   "the peak season",
+   "a mountain peak"
+  ]
+ },
+ {
+  "id": "portion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phần; khẩu phần ăn",
+  "coll": [
+   "a large portion",
+   "portion size",
+   "a portion of the money",
+   "a small portion of food"
+  ]
+ },
+ {
+  "id": "reform",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cải cách; cải tổ",
+  "coll": [
+   "economic reform",
+   "political reform",
+   "reform the system",
+   "educational reform",
+   "land reform"
+  ]
+ },
+ {
+  "id": "retirement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nghỉ hưu; thời gian nghỉ hưu",
+  "coll": [
+   "early retirement",
+   "retirement age",
+   "take retirement",
+   "a retirement plan",
+   "since his retirement"
+  ]
+ },
+ {
+  "id": "secondary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thứ yếu; trung học; thứ cấp",
+  "coll": [
+   "secondary school",
+   "secondary education",
+   "of secondary importance",
+   "a secondary source",
+   "secondary effects"
+  ]
+ },
+ {
+  "id": "solar",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc mặt trời; dùng năng lượng mặt trời",
+  "coll": [
+   "solar energy",
+   "a solar panel",
+   "the solar system",
+   "solar power",
+   "a solar eclipse"
+  ]
+ },
+ {
+  "id": "suffering",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "sự đau khổ; nỗi thống khổ",
+  "coll": [
+   "human suffering",
+   "ease the suffering",
+   "great suffering",
+   "cause suffering",
+   "pain and suffering"
+  ]
+ },
+ {
+  "id": "ultimate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "cuối cùng; tối thượng; tuyệt đỉnh",
+  "coll": [
+   "the ultimate goal",
+   "ultimate responsibility",
+   "the ultimate aim",
+   "ultimate authority",
+   "the ultimate test"
+  ]
+ },
+ {
+  "id": "attached",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "được gắn vào; đính kèm; quyến luyến",
+  "coll": [
+   "attached to the wall",
+   "please find attached",
+   "become attached to",
+   "an attached file",
+   "no strings attached"
+  ]
+ },
+ {
+  "id": "decade",
+  "pos": [
+   "n"
+  ],
+  "vi": "thập kỷ; mười năm",
+  "coll": [
+   "the last decade",
+   "over a decade",
+   "a decade ago",
+   "for decades",
+   "the coming decade"
+  ]
+ }
+]

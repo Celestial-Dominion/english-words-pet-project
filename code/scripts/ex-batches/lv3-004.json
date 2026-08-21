@@ -1,0 +1,878 @@
+[
+ {
+  "id": "closet",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "tủ quần áo; buồng kho nhỏ; giấu kín xu hướng tính dục",
+  "coll": [
+   "walk-in closet",
+   "come out of the closet",
+   "closet space",
+   "in the closet",
+   "clean out the closet"
+  ]
+ },
+ {
+  "id": "boundary",
+  "pos": [
+   "n"
+  ],
+  "vi": "ranh giới; giới hạn",
+  "coll": [
+   "set boundaries",
+   "cross the boundary",
+   "boundary between",
+   "national boundary",
+   "push the boundaries"
+  ]
+ },
+ {
+  "id": "rookie",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "lính mới; người mới vào nghề; tân binh",
+  "coll": [
+   "rookie season",
+   "rookie of the year",
+   "rookie mistake",
+   "rookie cop",
+   "rookie quarterback"
+  ]
+ },
+ {
+  "id": "activist",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nhà hoạt động; người đấu tranh",
+  "coll": [
+   "human rights activist",
+   "political activist",
+   "environmental activist",
+   "activist group",
+   "climate activist"
+  ]
+ },
+ {
+  "id": "applicable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "áp dụng được; phù hợp, thích hợp",
+  "coll": [
+   "applicable law",
+   "where applicable",
+   "not applicable",
+   "applicable to all",
+   "applicable rules"
+  ]
+ },
+ {
+  "id": "mandatory",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bắt buộc",
+  "coll": [
+   "mandatory requirement",
+   "mandatory attendance",
+   "mandatory sentence",
+   "make it mandatory",
+   "mandatory training"
+  ]
+ },
+ {
+  "id": "controller",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ điều khiển; người kiểm soát; kế toán trưởng",
+  "coll": [
+   "game controller",
+   "air traffic controller",
+   "remote controller",
+   "financial controller",
+   "controller settings"
+  ]
+ },
+ {
+  "id": "reportedly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo tin đưa; nghe nói là",
+  "coll": [
+   "reportedly said",
+   "reportedly killed",
+   "is reportedly planning",
+   "reportedly worth millions"
+  ]
+ },
+ {
+  "id": "sexually",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt tình dục; theo đường sinh dục",
+  "coll": [
+   "sexually active",
+   "sexually transmitted",
+   "sexually explicit",
+   "sexually abused",
+   "sexually attracted"
+  ]
+ },
+ {
+  "id": "playoff",
+  "pos": [
+   "n"
+  ],
+  "vi": "trận play-off; vòng đấu loại trực tiếp",
+  "coll": [
+   "playoff game",
+   "make the playoffs",
+   "playoff spot",
+   "playoff berth",
+   "reach the playoffs"
+  ]
+ },
+ {
+  "id": "linear",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tuyến tính; theo đường thẳng",
+  "coll": [
+   "linear equation",
+   "linear relationship",
+   "linear progression",
+   "linear model",
+   "linear growth"
+  ]
+ },
+ {
+  "id": "provisions",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "các điều khoản; lương thực dự trữ",
+  "coll": [
+   "legal provisions",
+   "provisions of the contract",
+   "make provisions for",
+   "key provisions",
+   "food provisions"
+  ]
+ },
+ {
+  "id": "adjacent",
+  "pos": [
+   "adj",
+   "n",
+   "prep"
+  ],
+  "vi": "liền kề; kế bên",
+  "coll": [
+   "adjacent to",
+   "adjacent rooms",
+   "adjacent building",
+   "adjacent area",
+   "adjacent angles"
+  ]
+ },
+ {
+  "id": "interface",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giao diện; điểm giao tiếp; tương tác, kết nối",
+  "coll": [
+   "user interface",
+   "graphical interface",
+   "interface design",
+   "interface between",
+   "intuitive interface"
+  ]
+ },
+ {
+  "id": "electoral",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc bầu cử",
+  "coll": [
+   "electoral system",
+   "electoral college",
+   "electoral roll",
+   "electoral reform",
+   "electoral fraud"
+  ]
+ },
+ {
+  "id": "feminist",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nữ quyền; người ủng hộ nữ quyền",
+  "coll": [
+   "feminist movement",
+   "feminist theory",
+   "radical feminist",
+   "feminist writer",
+   "feminist perspective"
+  ]
+ },
+ {
+  "id": "restoration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phục hồi; việc trùng tu; sự khôi phục",
+  "coll": [
+   "restoration work",
+   "restoration of the building",
+   "habitat restoration",
+   "restoration project",
+   "restoration of order"
+  ]
+ },
+ {
+  "id": "throne",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngai vàng; ngôi vua",
+  "coll": [
+   "the throne of England",
+   "ascend the throne",
+   "heir to the throne",
+   "sit on the throne",
+   "abdicate the throne"
+  ]
+ },
+ {
+  "id": "handful",
+  "pos": [
+   "n"
+  ],
+  "vi": "một nắm; một số ít",
+  "coll": [
+   "a handful of people",
+   "a handful of sand",
+   "only a handful",
+   "a handful of countries",
+   "grab a handful"
+  ]
+ },
+ {
+  "id": "locally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tại địa phương; ở vùng lân cận",
+  "coll": [
+   "locally grown",
+   "locally sourced",
+   "locally produced",
+   "buy locally",
+   "locally owned"
+  ]
+ },
+ {
+  "id": "generic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chung chung; không nhãn hiệu; thuốc gốc",
+  "coll": [
+   "generic term",
+   "generic brand",
+   "generic drug",
+   "generic name",
+   "generic version"
+  ]
+ },
+ {
+  "id": "molecular",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phân tử; thuộc phân tử",
+  "coll": [
+   "molecular structure",
+   "molecular biology",
+   "molecular weight",
+   "molecular level",
+   "molecular formula"
+  ]
+ },
+ {
+  "id": "hmm",
+  "pos": [
+   "intj",
+   "v"
+  ],
+  "vi": "hừm; ừm (tỏ ý suy nghĩ)",
+  "coll": [
+   "hmm, let me think",
+   "hmm, interesting",
+   "hmm, I'm not sure"
+  ]
+ },
+ {
+  "id": "minimal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tối thiểu; rất ít; tối giản",
+  "coll": [
+   "minimal effort",
+   "minimal risk",
+   "minimal impact",
+   "minimal cost",
+   "minimal changes"
+  ]
+ },
+ {
+  "id": "overview",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tổng quan; cái nhìn khái quát",
+  "coll": [
+   "brief overview",
+   "give an overview",
+   "general overview",
+   "overview of the project",
+   "provide an overview"
+  ]
+ },
+ {
+  "id": "pathetic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thảm hại; đáng thương",
+  "coll": [
+   "a pathetic excuse",
+   "look pathetic",
+   "pathetic attempt",
+   "utterly pathetic",
+   "pathetic performance"
+  ]
+ },
+ {
+  "id": "diplomatic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ngoại giao; khéo léo, tế nhị",
+  "coll": [
+   "diplomatic relations",
+   "diplomatic mission",
+   "diplomatic immunity",
+   "diplomatic solution",
+   "be diplomatic"
+  ]
+ },
+ {
+  "id": "artwork",
+  "pos": [
+   "n"
+  ],
+  "vi": "tác phẩm nghệ thuật; phần hình ảnh minh họa",
+  "coll": [
+   "original artwork",
+   "album artwork",
+   "display artwork",
+   "cover artwork",
+   "create artwork"
+  ]
+ },
+ {
+  "id": "jurisdiction",
+  "pos": [
+   "n"
+  ],
+  "vi": "thẩm quyền xét xử; quyền tài phán; địa hạt",
+  "coll": [
+   "legal jurisdiction",
+   "have jurisdiction over",
+   "outside our jurisdiction",
+   "federal jurisdiction",
+   "exclusive jurisdiction"
+  ]
+ },
+ {
+  "id": "facial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc khuôn mặt; liệu trình chăm sóc da mặt",
+  "coll": [
+   "facial expression",
+   "facial hair",
+   "facial recognition",
+   "facial features",
+   "get a facial"
+  ]
+ },
+ {
+  "id": "array",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dãy, mảng; loạt, hàng loạt; bày ra",
+  "coll": [
+   "an array of",
+   "a wide array of",
+   "solar array",
+   "an array of colours",
+   "impressive array"
+  ]
+ },
+ {
+  "id": "shark",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cá mập; kẻ cho vay nặng lãi",
+  "coll": [
+   "great white shark",
+   "shark attack",
+   "loan shark",
+   "shark fin",
+   "card shark"
+  ]
+ },
+ {
+  "id": "poorly",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "kém, tồi; ốm yếu",
+  "coll": [
+   "poorly designed",
+   "perform poorly",
+   "poorly written",
+   "poorly paid",
+   "poorly managed"
+  ]
+ },
+ {
+  "id": "brutal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tàn bạo; dã man; khắc nghiệt",
+  "coll": [
+   "brutal attack",
+   "brutal murder",
+   "brutal honesty",
+   "brutal regime",
+   "brutal winter"
+  ]
+ },
+ {
+  "id": "purely",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "thuần túy; hoàn toàn; chỉ vì",
+  "coll": [
+   "purely coincidental",
+   "purely by chance",
+   "purely academic",
+   "purely for fun",
+   "purely personal"
+  ]
+ },
+ {
+  "id": "monetary",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tiền tệ; thuộc tiền bạc",
+  "coll": [
+   "monetary policy",
+   "monetary value",
+   "monetary system",
+   "monetary union",
+   "monetary compensation"
+  ]
+ },
+ {
+  "id": "seemingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "có vẻ như; bề ngoài thì",
+  "coll": [
+   "seemingly endless",
+   "seemingly impossible",
+   "seemingly unrelated",
+   "seemingly simple",
+   "seemingly random"
+  ]
+ },
+ {
+  "id": "provider",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà cung cấp; người trụ cột nuôi gia đình",
+  "coll": [
+   "service provider",
+   "internet provider",
+   "healthcare provider",
+   "care provider",
+   "sole provider"
+  ]
+ },
+ {
+  "id": "dairy",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sản phẩm từ sữa; trại bò sữa; thuộc sữa",
+  "coll": [
+   "dairy products",
+   "dairy farm",
+   "dairy industry",
+   "dairy cattle",
+   "dairy free"
+  ]
+ },
+ {
+  "id": "vacuum",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chân không; máy hút bụi; hút bụi",
+  "coll": [
+   "vacuum cleaner",
+   "in a vacuum",
+   "vacuum the carpet",
+   "power vacuum",
+   "vacuum sealed"
+  ]
+ },
+ {
+  "id": "cult",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "giáo phái; sự sùng bái; được tôn sùng trong giới hẹp",
+  "coll": [
+   "cult leader",
+   "cult following",
+   "cult classic",
+   "religious cult",
+   "join a cult"
+  ]
+ },
+ {
+  "id": "riot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc bạo loạn; gây bạo loạn",
+  "coll": [
+   "riot police",
+   "start a riot",
+   "prison riot",
+   "a riot broke out",
+   "race riot"
+  ]
+ },
+ {
+  "id": "receiver",
+  "pos": [
+   "n"
+  ],
+  "vi": "người nhận; máy thu; ống nghe điện thoại",
+  "coll": [
+   "wide receiver",
+   "radio receiver",
+   "pick up the receiver",
+   "the receiver of the goods",
+   "TV receiver"
+  ]
+ },
+ {
+  "id": "setup",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cách bố trí; hệ thống thiết bị; cái bẫy gài sẵn",
+  "coll": [
+   "the whole setup",
+   "setup process",
+   "test setup",
+   "setup fee",
+   "a setup to frame him"
+  ]
+ },
+ {
+  "id": "governance",
+  "pos": [
+   "n"
+  ],
+  "vi": "quản trị; sự điều hành",
+  "coll": [
+   "corporate governance",
+   "good governance",
+   "governance structure",
+   "global governance",
+   "governance framework"
+  ]
+ },
+ {
+  "id": "contractor",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà thầu; người làm khoán",
+  "coll": [
+   "general contractor",
+   "independent contractor",
+   "defence contractor",
+   "hire a contractor",
+   "building contractor"
+  ]
+ },
+ {
+  "id": "warehouse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà kho; kho hàng",
+  "coll": [
+   "warehouse worker",
+   "storage warehouse",
+   "warehouse space",
+   "distribution warehouse",
+   "warehouse manager"
+  ]
+ },
+ {
+  "id": "comparable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tương đương; có thể so sánh được",
+  "coll": [
+   "comparable to",
+   "comparable with",
+   "comparable results",
+   "comparable quality",
+   "roughly comparable"
+  ]
+ },
+ {
+  "id": "viral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lan truyền mạnh; do virus gây ra",
+  "coll": [
+   "go viral",
+   "viral video",
+   "viral infection",
+   "viral marketing",
+   "viral load"
+  ]
+ },
+ {
+  "id": "historically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trong lịch sử; xét theo lịch sử",
+  "coll": [
+   "historically accurate",
+   "historically significant",
+   "historically low",
+   "historically speaking",
+   "historically important"
+  ]
+ },
+ {
+  "id": "rotation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quay; sự luân phiên; vòng quay",
+  "coll": [
+   "rotation of the earth",
+   "crop rotation",
+   "in rotation",
+   "job rotation",
+   "rotation speed"
+  ]
+ },
+ {
+  "id": "layout",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bố cục; cách bố trí",
+  "coll": [
+   "page layout",
+   "keyboard layout",
+   "the layout of the room",
+   "layout design",
+   "open-plan layout"
+  ]
+ },
+ {
+  "id": "notable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đáng chú ý; nổi bật; nhân vật tiếng tăm",
+  "coll": [
+   "notable exception",
+   "notable achievement",
+   "notable example",
+   "most notable",
+   "notable figure"
+  ]
+ },
+ {
+  "id": "hostile",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thù địch; hằn học; khắc nghiệt",
+  "coll": [
+   "hostile takeover",
+   "hostile environment",
+   "hostile attitude",
+   "openly hostile",
+   "hostile territory"
+  ]
+ },
+ {
+  "id": "ethical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hợp đạo đức; thuộc đạo đức; có lương tâm",
+  "coll": [
+   "ethical issues",
+   "ethical standards",
+   "ethical dilemma",
+   "ethical behaviour",
+   "ethical concerns"
+  ]
+ },
+ {
+  "id": "testament",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "minh chứng; di chúc; kinh ước",
+  "coll": [
+   "a testament to",
+   "last will and testament",
+   "the New Testament",
+   "the Old Testament",
+   "stand as a testament"
+  ]
+ },
+ {
+  "id": "ninth",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thứ chín; một phần chín",
+  "coll": [
+   "ninth grade",
+   "ninth place",
+   "ninth floor",
+   "ninth inning",
+   "the ninth of March"
+  ]
+ },
+ {
+  "id": "administrator",
+  "pos": [
+   "n"
+  ],
+  "vi": "quản trị viên; người quản lý; người quản lý di sản",
+  "coll": [
+   "system administrator",
+   "network administrator",
+   "hospital administrator",
+   "database administrator",
+   "school administrator"
+  ]
+ },
+ {
+  "id": "quantum",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "lượng tử; lượng, phần",
+  "coll": [
+   "quantum physics",
+   "quantum mechanics",
+   "quantum leap",
+   "quantum computer",
+   "quantum theory"
+  ]
+ },
+ {
+  "id": "momentum",
+  "pos": [
+   "n"
+  ],
+  "vi": "đà, khí thế; động lượng",
+  "coll": [
+   "gain momentum",
+   "lose momentum",
+   "build momentum",
+   "keep the momentum",
+   "the momentum shifted"
+  ]
+ }
+]

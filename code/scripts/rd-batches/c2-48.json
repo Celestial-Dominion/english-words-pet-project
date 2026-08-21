@@ -1,0 +1,182 @@
+[
+ {
+  "id": "wiki-php",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/PHP",
+  "title_en": "PHP",
+  "sentences": [
+   "PHP (Hypertext Preprocessor; used to stand for Personal Home Page) is a scripting language that helps people make web pages more interactive by allowing them to do things that can't be done with technologies running on the visitors computer.",
+   "PHP code is run on the web server (the website's computer).",
+   "It is called a preprocessor because it builds the information before sending it to the computer that visits the web page.",
+   "A website programmed with PHP can have pages that are password protected.",
+   "A website without PHP or similar technologies can't do this, as the visitor can find a way to access the page.",
+   "For example, by finding where the password is stored.",
+   "Standard PHP file extensions are (but not only): .php, .php3, and .phtml, but a web server can be set up to use any extension.",
+   "Its structure was influenced by many languages like C, Perl, Java, C++, and even Python.",
+   "It is considered to be free software by the Free Software Foundation.",
+   "Multiple PHP frameworks are available today, such as Laravel, Symfony, CodeIgniter, and Phalcon, which offer developers a more structured approach via pre-built components and the ability to streamline the process.",
+   "Laravel is currently the only PHP framework used in the development of more than 1,723,068 websites globally."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-mophun",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Mophun",
+  "title_en": "Mophun",
+  "sentences": [
+   "Mophun is a computing platform used to run portable code on embedded and mobile devices.",
+   "Some phones and other devices support Mophun.",
+   "Sony Ericsson phones, especially the Sony Ericsson T300 and Sony Ericsson T610, are the best known devices for running Mophun.",
+   "It was designed by Synergenix Interactive.",
+   "Most Mophun programs are around 50–150 kB in size.",
+   "Programs for Mophun are written in assembler in C and C++ using a well-documented and open API.",
+   "A special version of GCC is used to compile programs.",
+   "Despite the API being very easy for programmers to use, Mophun has not been very popular.",
+   "The main reason for this seems to be the strict approval process - the compiled program can only be run under an emulator, and Synergenix must approve the program so it can be used on a mobile device.",
+   "The approved program can only be run under one IMEI number.",
+   "Only developers registered and approved by Synergix can use self-certification (and through the Synergenix server), and they are only allowed to have one IMEI number.",
+   "The developer must sign a sales contract with Synergenix, which then shares and approves it for end-users, so the program can be shared.",
+   "Such a process disallows free programs to be created for Mophun, and also discourages many developers from developing programs for Mophun."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-sixteen-additional-suspects-revealed-in-",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Sixteen_additional_suspects_revealed_in_Zotob_worm_case",
+  "title_en": "Sixteen additional suspects revealed in Zotob worm case",
+  "sentences": [
+   "Monday, August 29, 2005 Turkish investigators have connected sixteen more people to the havoc of the Zotob internet worm, which has been adversely affecting computers for the last two weeks.",
+   "These people were found by analysing communications between them and the two hackers arrested four days ago.",
+   "By analysing the code of the Zotob worm, as well as its derivative works, law enforcement officials have found that three internet gangs were involved in the creation of the worm.",
+   "Farid Essebar, aka 'Diab10', the 18 year old who wrote the worm, as well as others, like Mytob, was a member of the gang '0x90-Team'.",
+   "The other gangs, 'BlackCarder' and 'MetalHit', wrote some of the variants of Zotob and Mytob.",
+   "The other of the two men arrested four days ago was 21 year old Attila Ekici.",
+   "Turkish officials say that he was paid by Essebar to distribute Zotob.",
+   "This type of financial relationship confirms theories that writing viruses has become a profit-making enterprise."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-17-million-accounts-hashed-passwords-ema",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/17_million_accounts'_hashed_passwords%2C_emails_stolen%2C_Zomato_says",
+  "title_en": "17 million accounts' hashed passwords, emails stolen, Zomato says",
+  "sentences": [
+   "Friday, May 19, 2017 Yesterday, Zomato, a food ordering and restaurant finding company, announced security breach of more than 17 million accounts, via their official blog.",
+   "A hacker operating under the alias nclay uploaded evidence to prove they had the stolen data — hashed passwords and emails — for sale, Hackread.com reported.",
+   "Zomato later announced they contacted the hacker, who asked Zomato to organise a bug bounty programme.",
+   "The food ordering company, with 120 million monthly users, said the payment information of the users was not located with this data and was not leaked.",
+   "Zomato said it uses PCI Data Security Standards.",
+   "As a security measure, all the passwords of the involved Zomato accounts were reset and all of the accounts were forcibly logged out from the application and website.",
+   "The company said only hashed passwords were compromised.",
+   "Hashed passwords are encrypted and, per Zomato, every password had a different \"salt\", for cryptographic salting was performed before hashing the original password.",
+   "A \"salt\" is a random set of characters added before encryption to make decryption to obtain the original passkey more difficult.",
+   "The hashed password itself can not be used to access the account.",
+   "In the blog post before contacting the hacker, saying \"internal (human) security breach\", Zomato suggested this could have happened after a worker's development account was hijacked.",
+   "After contacting the hacker, and promising a bug bounty programme on Hackerone, they said, the hacker agreed and removed the stolen data which was put on sale on the dark web.",
+   "Zomato said they are looking forward to working closely with the ethical hacker community on security vulnerabilities."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-for-loop",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/For_loop",
+  "title_en": "For loop",
+  "sentences": [
+   "In computer science, a for-loop (or “for loop”) is used to run specified lines of code repeatedly.",
+   "In different languages, there are different keywords to specify this statement—ways to identify a for loop—but they all do the same task.",
+   "Most languages use either “for” or “do” as keywords.",
+   "A for-loop has two parts: a header, and a body of code.",
+   "The body consists of a set of instructions (lines of code) that run for each repetition of the loop.",
+   "The header often declares how many loops to complete, generally indicated by either a loop counter or a loop variable.",
+   "For-loops are typically used when the number of repetitions are known.",
+   "For-loops are similar to “while-loops”, but usually have a known number of repetitions.",
+   "Sample for-loop in Python: This for loop prints outs \"Hello, world!\" ten times.",
+   "The name for-loop comes from the English word for, which is the direct translation of the earlier German für, used by Heinz Rutishauser, who also helped define ALGOL 58 and 60.",
+   "A for-loop is available in most common programming languages.",
+   "While for-loops in different languages will all fulfill the same task, there are differences on how each programming language deals with for loops."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-google-introduces-google-buzz",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Google_introduces_Google_Buzz",
+  "title_en": "Google introduces Google Buzz",
+  "sentences": [
+   "Wednesday, February 10, 2010 On Tuesday, Google introduced a new service called Google Buzz, a new feature to share updates, photos and videos.",
+   "The service is built into Gmail, which already has 176 million users, according to comScore.",
+   "Buzz's features will be available on Android operating system based phones as well as the iPhone, allowing real-time updates.",
+   "Google hopes to integrate frequently visited sites like Picasa, Flickr, Google Reader, Twitter and YouTube, so users can stay connected to everyone via a single browser window.",
+   "Buzz has a built-in group of friends which are automatically selected including the people that the user communicates with most frequently via Gmail and Google Talk.",
+   "Google Buzz will be available as a mobile Web application, letting the user provide status updates by voice and geotagging their posts.",
+   "Location-based updates can be read while one is using Google Mobile Maps.",
+   "Posts by fellow users can be classified location-wise.",
+   "Google executives said that Buzz would help tackle the problem of information overload, as Google would apply its algorithms to help people find the information most relevant to them.",
+   "Facebook currently has more than 350 million active users worldwide.",
+   "Google already has a micro-blogging site Jaiku, comparable to Twitter in terms of format.",
+   "Orkut also has been one of Google's previous ventures in social networking.",
+   "Google Buzz will look to compete with such sites."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-russian-wikipedia-a-top-internet-communi",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Russian_Wikipedia_%22a_top_internet_community%22",
+  "title_en": "Russian Wikipedia \"a top internet community\"",
+  "sentences": [
+   "Friday, May 23, 2008 The Russian Language edition of Wikipedia was recently dubbed \"a top Internet community\" of the past year by a professional union of Russian Internet (Runet) scene protagonists, the \"Ezhe\" (ЕЖЕ).",
+   "Ezhe (\"еже\") means \"every\" in Russian, a reference to regularly updated websites; Ezhe's mascot is a hedgehog because of its similarity with the word \"yozh\" (\"ёж\").",
+   "Ezhe.Ru is a non-profit \"club\" community coordinated via a Russian-speaking mailing list; nowadays it comprises more than 500 members — IT professionals, journalists and so on from all over the world.",
+   "It was founded in 1997 and maintains some public projects, such as annual \"professional award\" \"ROTOR\" (a spelling interpretation for \"Russian Online TOP\").",
+   "It has no payments or figurines and is awarded virtually.",
+   "ROTOR is Runet-wise generally regarded as an acknowledgment token for some Russian language Internet project from the so-called \"Runet professionals\" who populate Ezhe club.",
+   "Contest is usually covered by Russian online mass media and in blogs.",
+   "There are approximately 30 nominations honoring different Russian websites, or acts related to Runet, in different planes.",
+   "Ezhe members vote in 2 tours, and in most contemporary ROTOR-2008 (lasted May 12—22) Russian Wikipedia gained 1st place in \"Internet Community of the year\" nomination (the year before it took 2nd).",
+   "It also obtained second place in \"Scientific and Educational website of the year\" nomination (for the 3rd time).",
+   "In 2006 and 2007, Russian Wikipedia also mastered \"Science and Education\" category on the Runet Prize.",
+   "In the meantime Russian Wikipedians recently celebrated Top-10 Wikipedias range introduction: Swedish Wikipedia was out of 10th place, and Russian was in with over 283 thousand articles on May 19th, 2008.",
+   "The collective of editors on the project issued a now-habitual press release describing the developments of Wikipedia.",
+   "Russian editors also immediately started a \"Swedish Week\" organized effort within their community to write a bunch of new articles dedicated to Swedish culture.",
+   "Swedes later replied with the alike action on Russian culture."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-authorities-search-home-of-owner-of-germ",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Authorities_search_home_of_owner_of_German_Wikileaks_domain",
+  "title_en": "Authorities search home of owner of German Wikileaks domain",
+  "sentences": [
+   "Wednesday, March 25, 2009 German authorities have searched the homes of Theodor Reppe, a 32-year-old student who owns the \"wikileaks.de\" domain.",
+   "Reppe has homes in Dresden and Jena in Germany.",
+   "Wikileaks describes itself as an \"uncensorable Wikipedia for untraceable mass document leaking and analysis.\" The police report obtained by Wikileaks states the reasons for the raid were \"distribution of pornographic material\" and \"discovery of evidence\".",
+   "Wikileaks, however, asserts that the raid was in connection to Wikileaks hosting \"censorship lists\" of websites blocked by governments in Australia, Denmark, and Thailand.",
+   "Wikileaks most recently published an alleged list from the Australian Communications and Media Authority (ACMA).",
+   "The list contains thousands of URLs that are blocked when internet service providers use the government's software.",
+   "Most URLs are alleged child porn sites and gambling sites.",
+   "One of the blocked URLs on the ACMA's list included an image previously hosted on Wikimedia Commons.",
+   "Wikileaks does not host and has never published child pornography.",
+   "Wikileaks goes on to allege that Mr Reppe was not properly informed of his rights when the searches were taking place.",
+   "According to Wikileaks, authorities demanded the German domain be shut down and asked that passwords for the domain be handed over to them.",
+   "The 'wikileaks.de' domain is a mirror of 'wikileaks.org', and had been registered to Mr Reppe since at least November 2007.",
+   "As of this report the website was still operating.",
+   "Reppe and Wikileaks have not been charged with any crimes and no arrests have been made.",
+   "Wikileaks also says that Reppe refused to sign any documentation from authorities \"due to its inaccuracies\"."
+  ],
+  "topic": "it"
+ }
+]

@@ -1,0 +1,832 @@
+[
+ {
+  "id": "behave",
+  "pos": [
+   "v"
+  ],
+  "vi": "cư xử; ngoan, giữ phép tắc",
+  "coll": [
+   "behave well",
+   "behave badly",
+   "behave yourself",
+   "behave like a child"
+  ]
+ },
+ {
+  "id": "firmly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "kiên quyết; chắc chắn, vững vàng",
+  "coll": [
+   "firmly believe",
+   "hold firmly",
+   "firmly established",
+   "firmly rooted"
+  ]
+ },
+ {
+  "id": "indirect",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "gián tiếp; vòng vo",
+  "coll": [
+   "indirect speech",
+   "indirect costs",
+   "indirect effect",
+   "an indirect route"
+  ]
+ },
+ {
+  "id": "inspire",
+  "pos": [
+   "v"
+  ],
+  "vi": "truyền cảm hứng; khơi dậy; gợi nên",
+  "coll": [
+   "inspire confidence",
+   "inspire people",
+   "inspired by a true story",
+   "inspire a generation"
+  ]
+ },
+ {
+  "id": "kindness",
+  "pos": [
+   "n"
+  ],
+  "vi": "lòng tốt; sự tử tế",
+  "coll": [
+   "an act of kindness",
+   "show kindness",
+   "kindness to strangers",
+   "random acts of kindness"
+  ]
+ },
+ {
+  "id": "lottery",
+  "pos": [
+   "n"
+  ],
+  "vi": "xổ số; chuyện may rủi",
+  "coll": [
+   "win the lottery",
+   "lottery ticket",
+   "the national lottery",
+   "lottery numbers"
+  ]
+ },
+ {
+  "id": "minus",
+  "pos": [
+   "prep",
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "trừ; âm (số, nhiệt độ); điểm trừ",
+  "coll": [
+   "ten minus four",
+   "minus sign",
+   "plus or minus",
+   "minus five degrees"
+  ]
+ },
+ {
+  "id": "mixing bowl",
+  "pos": [
+   "n"
+  ],
+  "vi": "tô trộn, bát trộn (bột)",
+  "coll": [
+   "a large mixing bowl",
+   "in a mixing bowl",
+   "combine the ingredients in a mixing bowl"
+  ]
+ },
+ {
+  "id": "pause",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "tạm dừng; sự tạm ngừng; quãng nghỉ",
+  "coll": [
+   "pause for a moment",
+   "a brief pause",
+   "pause the video",
+   "without a pause"
+  ]
+ },
+ {
+  "id": "prescription",
+  "pos": [
+   "n"
+  ],
+  "vi": "đơn thuốc; toa thuốc",
+  "coll": [
+   "prescription drugs",
+   "write a prescription",
+   "fill a prescription",
+   "available on prescription"
+  ]
+ },
+ {
+  "id": "puppy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chó con; cún con",
+  "coll": [
+   "puppy love",
+   "a litter of puppies",
+   "puppy dog eyes",
+   "train a puppy"
+  ]
+ },
+ {
+  "id": "spelling",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chính tả; cách viết (từ)",
+  "coll": [
+   "spelling mistake",
+   "spelling bee",
+   "correct spelling",
+   "spelling and grammar"
+  ]
+ },
+ {
+  "id": "survivor",
+  "pos": [
+   "n"
+  ],
+  "vi": "người sống sót",
+  "coll": [
+   "sole survivor",
+   "cancer survivor",
+   "survivors of the crash",
+   "a born survivor"
+  ]
+ },
+ {
+  "id": "accurately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách chính xác; đúng đắn",
+  "coll": [
+   "accurately predict",
+   "accurately measure",
+   "accurately describe",
+   "accurately reflect"
+  ]
+ },
+ {
+  "id": "bent",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "cong, bị bẻ cong; khiếu, thiên hướng",
+  "coll": [
+   "bent over",
+   "a bent nail",
+   "bent on revenge",
+   "bent double"
+  ]
+ },
+ {
+  "id": "deaf",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "điếc; khiếm thính",
+  "coll": [
+   "go deaf",
+   "deaf in one ear",
+   "turn a deaf ear",
+   "profoundly deaf"
+  ]
+ },
+ {
+  "id": "evident",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rõ ràng; hiển nhiên",
+  "coll": [
+   "it is evident that",
+   "self-evident",
+   "clearly evident",
+   "evident from the results"
+  ]
+ },
+ {
+  "id": "honesty",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trung thực; tính thật thà",
+  "coll": [
+   "in all honesty",
+   "honesty is the best policy",
+   "complete honesty",
+   "honesty and integrity"
+  ]
+ },
+ {
+  "id": "mediterranean",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "Địa Trung Hải; vùng Địa Trung Hải",
+  "coll": [
+   "the Mediterranean Sea",
+   "Mediterranean diet",
+   "Mediterranean climate",
+   "Mediterranean countries"
+  ]
+ },
+ {
+  "id": "negotiate",
+  "pos": [
+   "v"
+  ],
+  "vi": "đàm phán; thương lượng",
+  "coll": [
+   "negotiate a deal",
+   "negotiate a contract",
+   "negotiate with the seller",
+   "negotiate the terms"
+  ]
+ },
+ {
+  "id": "propose",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đề xuất, đề nghị; cầu hôn",
+  "coll": [
+   "propose a plan",
+   "propose marriage",
+   "propose a toast",
+   "propose changes"
+  ]
+ },
+ {
+  "id": "sore",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "đau, nhức; vết loét",
+  "coll": [
+   "sore throat",
+   "sore muscles",
+   "a sore point",
+   "a sight for sore eyes"
+  ]
+ },
+ {
+  "id": "steep",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "dốc; (giá) cắt cổ; ngâm (trà)",
+  "coll": [
+   "a steep hill",
+   "steep slope",
+   "a steep climb",
+   "a steep price"
+  ]
+ },
+ {
+  "id": "straw",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rơm; ống hút",
+  "coll": [
+   "drinking straw",
+   "straw hat",
+   "the last straw",
+   "grasp at straws"
+  ]
+ },
+ {
+  "id": "upload",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tải lên",
+  "coll": [
+   "upload a video",
+   "upload files",
+   "upload photos",
+   "upload to the cloud"
+  ]
+ },
+ {
+  "id": "absent",
+  "pos": [
+   "adj",
+   "n",
+   "prep",
+   "v"
+  ],
+  "vi": "vắng mặt; thiếu, không có; lơ đãng",
+  "coll": [
+   "absent from school",
+   "absent from work",
+   "absent without leave",
+   "conspicuously absent"
+  ]
+ },
+ {
+  "id": "adapt",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "thích nghi; điều chỉnh; chuyển thể",
+  "coll": [
+   "adapt to change",
+   "adapt to a new environment",
+   "adapted from a novel",
+   "adapt quickly"
+  ]
+ },
+ {
+  "id": "atomic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nguyên tử; hạt nhân",
+  "coll": [
+   "atomic bomb",
+   "atomic energy",
+   "atomic number",
+   "atomic weapons"
+  ]
+ },
+ {
+  "id": "bump",
+  "pos": [
+   "v",
+   "n",
+   "intj"
+  ],
+  "vi": "va, đụng phải; cú va; chỗ u, gồ lên",
+  "coll": [
+   "bump into an old friend",
+   "bump your head",
+   "speed bump",
+   "a bump in the road"
+  ]
+ },
+ {
+  "id": "circus",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rạp xiếc, gánh xiếc; cảnh hỗn loạn",
+  "coll": [
+   "circus act",
+   "circus tent",
+   "a media circus",
+   "run away to join the circus"
+  ]
+ },
+ {
+  "id": "construct",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "xây dựng; dựng nên; khái niệm",
+  "coll": [
+   "construct a building",
+   "construct a sentence",
+   "newly constructed",
+   "a social construct"
+  ]
+ },
+ {
+  "id": "expose",
+  "pos": [
+   "v"
+  ],
+  "vi": "phơi bày; vạch trần; làm tiếp xúc với",
+  "coll": [
+   "expose the truth",
+   "exposed to sunlight",
+   "expose corruption",
+   "expose someone to risk"
+  ]
+ },
+ {
+  "id": "freshman",
+  "pos": [
+   "n"
+  ],
+  "vi": "sinh viên năm nhất; học sinh lớp chín (Mỹ)",
+  "coll": [
+   "freshman year",
+   "college freshman",
+   "freshman class",
+   "freshman orientation"
+  ]
+ },
+ {
+  "id": "geography",
+  "pos": [
+   "n"
+  ],
+  "vi": "địa lý; địa hình",
+  "coll": [
+   "human geography",
+   "physical geography",
+   "geography lesson",
+   "the geography of the region"
+  ]
+ },
+ {
+  "id": "habitat",
+  "pos": [
+   "n"
+  ],
+  "vi": "môi trường sống; nơi cư trú",
+  "coll": [
+   "natural habitat",
+   "habitat loss",
+   "wildlife habitat",
+   "habitat destruction"
+  ]
+ },
+ {
+  "id": "hazard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mối nguy hiểm; rủi ro; đánh liều",
+  "coll": [
+   "fire hazard",
+   "health hazard",
+   "occupational hazard",
+   "hazard warning lights"
+  ]
+ },
+ {
+  "id": "needle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cây kim; kim tiêm; lá kim",
+  "coll": [
+   "needle and thread",
+   "thread a needle",
+   "a needle in a haystack",
+   "pine needles"
+  ]
+ },
+ {
+  "id": "pond",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ao; hồ nhỏ",
+  "coll": [
+   "fish pond",
+   "duck pond",
+   "garden pond",
+   "across the pond"
+  ]
+ },
+ {
+  "id": "whale",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cá voi",
+  "coll": [
+   "blue whale",
+   "killer whale",
+   "whale watching",
+   "humpback whale"
+  ]
+ },
+ {
+  "id": "caution",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự thận trọng; lời cảnh báo",
+  "coll": [
+   "exercise caution",
+   "proceed with caution",
+   "err on the side of caution",
+   "caution against"
+  ]
+ },
+ {
+  "id": "characteristic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đặc trưng, tiêu biểu; đặc điểm",
+  "coll": [
+   "characteristic feature",
+   "characteristic of the region",
+   "defining characteristic",
+   "physical characteristics"
+  ]
+ },
+ {
+  "id": "continuously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "liên tục; không ngừng",
+  "coll": [
+   "work continuously",
+   "continuously updated",
+   "rain continuously",
+   "continuously improving"
+  ]
+ },
+ {
+  "id": "curiosity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tò mò; tính hiếu kỳ; vật lạ",
+  "coll": [
+   "out of curiosity",
+   "satisfy your curiosity",
+   "curiosity killed the cat",
+   "arouse curiosity"
+  ]
+ },
+ {
+  "id": "delight",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "niềm vui thích; làm vui sướng",
+  "coll": [
+   "take delight in",
+   "to my delight",
+   "squeal with delight",
+   "a delight to watch"
+  ]
+ },
+ {
+  "id": "fortunate",
+  "pos": [
+   "adj"
+  ],
+  "vi": "may mắn",
+  "coll": [
+   "fortunate enough",
+   "very fortunate",
+   "fortunate to have",
+   "the less fortunate"
+  ]
+ },
+ {
+  "id": "frustration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bực bội, ức chế; sự nản lòng",
+  "coll": [
+   "in frustration",
+   "express frustration",
+   "vent your frustration",
+   "growing frustration"
+  ]
+ },
+ {
+  "id": "handy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tiện lợi, hữu ích; trong tầm tay; khéo tay",
+  "coll": [
+   "come in handy",
+   "a handy tool",
+   "keep it handy",
+   "handy tips"
+  ]
+ },
+ {
+  "id": "memorable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đáng nhớ",
+  "coll": [
+   "memorable moment",
+   "memorable experience",
+   "a memorable occasion",
+   "truly memorable"
+  ]
+ },
+ {
+  "id": "suspicion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự nghi ngờ; mối ngờ vực",
+  "coll": [
+   "under suspicion",
+   "arouse suspicion",
+   "on suspicion of murder",
+   "above suspicion"
+  ]
+ },
+ {
+  "id": "thorough",
+  "pos": [
+   "adj",
+   "prep",
+   "n"
+  ],
+  "vi": "kỹ lưỡng; thấu đáo; hoàn toàn",
+  "coll": [
+   "thorough investigation",
+   "thorough understanding",
+   "a thorough examination",
+   "a thorough review"
+  ]
+ },
+ {
+  "id": "circular",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "hình tròn; vòng quanh; thông tư, tờ rơi",
+  "coll": [
+   "circular motion",
+   "a circular table",
+   "circular argument",
+   "circular economy"
+  ]
+ },
+ {
+  "id": "comedian",
+  "pos": [
+   "n"
+  ],
+  "vi": "diễn viên hài; danh hài",
+  "coll": [
+   "stand-up comedian",
+   "a famous comedian",
+   "a professional comedian"
+  ]
+ },
+ {
+  "id": "countless",
+  "pos": [
+   "adj",
+   "det"
+  ],
+  "vi": "vô số; không đếm xuể",
+  "coll": [
+   "countless times",
+   "countless hours",
+   "countless others",
+   "countless examples"
+  ]
+ },
+ {
+  "id": "flu",
+  "pos": [
+   "n"
+  ],
+  "vi": "cúm; bệnh cúm",
+  "coll": [
+   "catch the flu",
+   "flu season",
+   "flu shot",
+   "come down with the flu"
+  ]
+ },
+ {
+  "id": "forbidden",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bị cấm",
+  "coll": [
+   "forbidden fruit",
+   "strictly forbidden",
+   "the Forbidden City",
+   "forbidden love"
+  ]
+ },
+ {
+  "id": "lightly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhẹ nhàng; sơ qua; xem nhẹ",
+  "coll": [
+   "not to be taken lightly",
+   "lightly seasoned",
+   "tread lightly",
+   "touch lightly"
+  ]
+ },
+ {
+  "id": "marble",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "đá cẩm thạch; hòn bi",
+  "coll": [
+   "marble floor",
+   "a marble statue",
+   "play marbles",
+   "white marble"
+  ]
+ },
+ {
+  "id": "melt",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tan chảy; làm tan; tan biến",
+  "coll": [
+   "melt away",
+   "the snow melts",
+   "melt in your mouth",
+   "melt the butter"
+  ]
+ },
+ {
+  "id": "pillow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái gối",
+  "coll": [
+   "pillow fight",
+   "a soft pillow",
+   "pillow case",
+   "rest your head on the pillow"
+  ]
+ },
+ {
+  "id": "puzzle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "câu đố; trò ghép hình; làm bối rối",
+  "coll": [
+   "jigsaw puzzle",
+   "crossword puzzle",
+   "solve a puzzle",
+   "a piece of the puzzle"
+  ]
+ }
+]

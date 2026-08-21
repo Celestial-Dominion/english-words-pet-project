@@ -1,0 +1,1245 @@
+[
+ {
+  "id": "center",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "The point in the interior of a circle that is equidistant from all points on the circumference.",
+   "The point in the interior of a sphere that is equidistant from all points on the circumference.",
+   "The middle portion of something"
+  ]
+ },
+ {
+  "id": "couple",
+  "pos": [
+   "n",
+   "adj",
+   "det",
+   "v"
+  ],
+  "en": [
+   "Two of the same kind connected or considered together.",
+   "Two partners in a romantic or sexual relationship.",
+   "A small number."
+  ]
+ },
+ {
+  "id": "dead",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "No longer living",
+   "Devoid of living things",
+   "Figuratively, not alive"
+  ]
+ },
+ {
+  "id": "happen",
+  "pos": [
+   "v",
+   "adv"
+  ],
+  "en": [
+   "To occur or take place.",
+   "To do or occur by chance or unexpectedly.",
+   "To encounter by chance."
+  ]
+ },
+ {
+  "id": "hold",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To grasp or grip.",
+   "To contain or store.",
+   "To maintain or keep to a position or state."
+  ]
+ },
+ {
+  "id": "inside",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "prep"
+  ],
+  "en": [
+   "The interior or inner part.",
+   "The left-hand side of a road if one drives on the left, or right-hand side if one drives on the right.",
+   "The side of a curved road, racetrack etc. that has the shorter arc length"
+  ]
+ },
+ {
+  "id": "online",
+  "pos": [
+   "adj",
+   "adv",
+   "v"
+  ],
+  "en": [
+   "Of a system",
+   "Available over, or delivered from, the Internet.",
+   "Connected to the Internet."
+  ]
+ },
+ {
+  "id": "player",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One that plays."
+  ]
+ },
+ {
+  "id": "private",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Belonging or pertaining to an individual person, group of people, or entity that is not the state.",
+   "Relating to an individual or group of individuals outside of their official roles",
+   "Not publicly known or divulged"
+  ]
+ },
+ {
+  "id": "return",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To come or go back (to a place or person).",
+   "To go back in thought, narration, or argument.",
+   "To recur"
+  ]
+ },
+ {
+  "id": "sense",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any of the manners by which living beings perceive the physical world",
+   "Perception through the intellect",
+   "Sound practical or moral judgment."
+  ]
+ },
+ {
+  "id": "star",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any small, natural and bright dot in the sky, most visible in the night or twilight sky. This sense includes the planets, but it is now…",
+   "A very massive ball of plasma with strong enough gravity to have ongoing fusion of hydrogen or heavier elements in its core. In strict…",
+   "senses derived from the apparent shape of a star in the sky when blurred by the eyes to have streaks"
+  ]
+ },
+ {
+  "id": "test",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A challenge, trial.",
+   "The external calciferous shell, or endoskeleton, of an echinoderm, e.g. sand dollars and sea urchins",
+   "To challenge, to put a strain on (something)."
+  ]
+ },
+ {
+  "id": "view",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Visual perception.",
+   "A picture, drawn or painted",
+   "To look at."
+  ]
+ },
+ {
+  "id": "break",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To separate into two or more pieces, to fracture or crack, by a process that cannot easily be reversed for reassembly.",
+   "To divide (something, often money) into smaller units.",
+   "To cause (a person or animal) to lose spirit or will"
+  ]
+ },
+ {
+  "id": "event",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An occurrence",
+   "A prearranged social activity (function, etc.)",
+   "One of several contests that combine to make up a competition."
+  ]
+ },
+ {
+  "id": "hour",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A unit of time of one twenty-fourth of a day (sixty minutes).",
+   "A season, moment, or time.",
+   "The time."
+  ]
+ },
+ {
+  "id": "member",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "One who belongs to a group.",
+   "A part of a whole.",
+   "Part of an animal capable of performing a distinct office"
+  ]
+ },
+ {
+  "id": "middle",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "A centre, midpoint.",
+   "The part between the beginning and the end.",
+   "The middle stump."
+  ]
+ },
+ {
+  "id": "present",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Relating to now, for the time being",
+   "Located in the immediate vicinity.",
+   "Ready"
+  ]
+ },
+ {
+  "id": "result",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or…",
+   "To have as a consequence",
+   "To return to the proprietor (or heirs) after a reversion."
+  ]
+ },
+ {
+  "id": "sorry",
+  "pos": [
+   "adj",
+   "intj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Regretful or apologetic for one's actions.",
+   "Grieved or saddened, especially by the loss of something or someone.",
+   "Poor, pitifully sad or regrettable."
+  ]
+ },
+ {
+  "id": "training",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "present participle and gerund of train",
+   "Action of the verb to train.",
+   "The activity of imparting and acquiring skills."
+  ]
+ },
+ {
+  "id": "wish",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A desire, hope, or longing for something or for something to happen.",
+   "An expression of such a desire, often connected with ideas of magic and supernatural power.",
+   "The thing desired or longed for."
+  ]
+ },
+ {
+  "id": "answer",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A response or reply",
+   "A solution to a problem.",
+   "Someone or something that fills a similar role or position."
+  ]
+ },
+ {
+  "id": "boy",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "A male child.",
+   "A young man.",
+   "A son of any age."
+  ]
+ },
+ {
+  "id": "design",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A specification of an object or process, referring to requirements to be satisfied and thus conditions to be met for them to solve a…",
+   "A plan (with more or less detail) for the structure and functions of an artifact, building or system.",
+   "A pattern, as an element of a work of art or architecture."
+  ]
+ },
+ {
+  "id": "finally",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "At the end or conclusion",
+   "At bottom",
+   "To finish (with)"
+  ]
+ },
+ {
+  "id": "gold",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv"
+  ],
+  "en": [
+   "A heavy yellow elemental metal of great value, with atomic number 79.",
+   "A coin or coinage made of this material, or supposedly so.",
+   "A deep yellow colour, resembling the metal gold."
+  ]
+ },
+ {
+  "id": "guess",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To reach a partly (or totally) unconfirmed conclusion",
+   "To solve by a correct conjecture",
+   "To suppose, to imagine (introducing a proposition of uncertain plausibility)."
+  ]
+ },
+ {
+  "id": "interest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The price paid for obtaining, or price received for providing, money or goods in a credit transaction, calculated as a fraction of the…",
+   "Any excess over and above an exact equivalent",
+   "A great attention and concern from someone or something"
+  ]
+ },
+ {
+  "id": "july",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The seventh month of the Gregorian calendar, following June and preceding August.",
+   "A female given name from English.",
+   "A surname from French."
+  ]
+ },
+ {
+  "id": "king",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A male monarch",
+   "The monarch with the most power and authority in a monarchy, regardless of sex.",
+   "A male leader of a traditional Aboriginal group, often used as a title by colonists."
+  ]
+ },
+ {
+  "id": "learn",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To acquire, or attempt to acquire knowledge or an ability to do something.",
+   "To attend a course or other educational activity.",
+   "To gain knowledge from a bad experience so as to improve."
+  ]
+ },
+ {
+  "id": "society",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A long-standing group of people sharing cultural aspects such as language, dress, norms of behavior and artistic forms.",
+   "A group of people who meet from time to time to engage in a common interest",
+   "The sum total of all voluntary interrelations between individuals."
+  ]
+ },
+ {
+  "id": "alone",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "en": [
+   "By oneself, solitary.",
+   "Lacking peers who share one's beliefs, experiences, practices, etc."
+  ]
+ },
+ {
+  "id": "average",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Any measure of central tendency, especially any mean, the median, or the mode.",
+   "A financial loss due to damage to transported goods",
+   "An indication of a player's ability calculated from his scoring record, etc."
+  ]
+ },
+ {
+  "id": "bank",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An institution where one can place and borrow money and take care of financial affairs.",
+   "A branch office of such an institution.",
+   "An underwriter or controller of a card game."
+  ]
+ },
+ {
+  "id": "certain",
+  "pos": [
+   "adj",
+   "det",
+   "pron"
+  ],
+  "en": [
+   "Sure in one's mind, positive",
+   "Not to be doubted or denied",
+   "Sure to happen, inevitable"
+  ]
+ },
+ {
+  "id": "church",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "A Christian house of worship",
+   "Christians collectively seen as a single spiritual community",
+   "A local group of people who follow the same Christian religious beliefs, local or general."
+  ]
+ },
+ {
+  "id": "east",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "The direction of the earth's rotation, specifically 90°.",
+   "The eastern region or area",
+   "In a church"
+  ]
+ },
+ {
+  "id": "hot",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Relating to heat and conditions which produce it.",
+   "Active, in use or ready for use (like a bullet or a firing range), turned on (like a microphone or camera).",
+   "Hotly"
+  ]
+ },
+ {
+  "id": "medical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of or pertaining to the practice of medicine.",
+   "Intended to have a therapeutic effect",
+   "Requiring medical treatment."
+  ]
+ },
+ {
+  "id": "movie",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A recorded sequence of images displayed on a screen at a rate sufficiently fast to create the appearance of motion",
+   "A professionally made motion picture of a substantive narrative work, typically around 1 to 3 hours long, typically intended for cinema,…",
+   "A cinema"
+  ]
+ },
+ {
+  "id": "original",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Relating to the origin or beginning",
+   "First in a series of copies or versions.",
+   "Newly created."
+  ]
+ },
+ {
+  "id": "park",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An area of land set aside for environment preservation or recreation.",
+   "A wide, flat-bottomed valley in a mountainous region.",
+   "An area used for specific purposes."
+  ]
+ },
+ {
+  "id": "performance",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of performing",
+   "That which is performed or accomplished",
+   "A live show or concert."
+  ]
+ },
+ {
+  "id": "role",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A character or part played by a performer or actor.",
+   "The expected behaviour of an individual in a society.",
+   "The function or position of something."
+  ]
+ },
+ {
+  "id": "themselves",
+  "pos": [
+   "pron"
+  ],
+  "en": [
+   "The reflexive case of they, the third-person plural personal pronoun. The group of people, animals, or objects previously mentioned, as…",
+   "The reflexive case of they, the third-person singular personal pronoun. The single person previously mentioned, as the object of a verb…"
+  ]
+ },
+ {
+  "id": "bill",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A written list or inventory. (Now obsolete except in specific senses or set phrases",
+   "A document, originally sealed",
+   "A draft of a law, presented to a legislature for enactment"
+  ]
+ },
+ {
+  "id": "cool",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Of a mildly low temperature.",
+   "Allowing or suggesting heat relief.",
+   "Of a color, in the range of violet to green."
+  ]
+ },
+ {
+  "id": "director",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who directs",
+   "A member of a board of directors.",
+   "A counselor, confessor, or spiritual guide."
+  ]
+ },
+ {
+  "id": "exactly",
+  "pos": [
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "Without approximation",
+   "Precisely, used to provide emphasis.",
+   "Signifies agreement or recognition."
+  ]
+ },
+ {
+  "id": "ground",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "The surface of the Earth, as opposed to the sky or water or underground.",
+   "Terrain.",
+   "Soil, earth."
+  ]
+ },
+ {
+  "id": "meeting",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The act of persons or things that meet.",
+   "A gathering of persons for a purpose",
+   "The people at such a gathering."
+  ]
+ },
+ {
+  "id": "provide",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To make a living",
+   "To act to prepare for something.",
+   "To establish as a previous condition"
+  ]
+ },
+ {
+  "id": "september",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The ninth month of the Gregorian calendar, following August and preceding October, containing the southward equinox."
+  ]
+ },
+ {
+  "id": "sound",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv",
+   "intj"
+  ],
+  "en": [
+   "Healthy.",
+   "Complete, solid, or secure.",
+   "Having the property of soundness."
+  ]
+ },
+ {
+  "id": "source",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The person, place, or thing from which something (information, goods, etc.) comes or is acquired.",
+   "Spring",
+   "A reporter's informant."
+  ]
+ },
+ {
+  "id": "usually",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "Most of the time",
+   "Under normal conditions."
+  ]
+ },
+ {
+  "id": "value",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The quality that renders something desirable or valuable",
+   "The degree of importance given to something.",
+   "That which is valued or highly esteemed, such as one's morals, morality, or belief system."
+  ]
+ },
+ {
+  "id": "evidence",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Facts or observations presented in support of an assertion.",
+   "Anything admitted by a court to prove or disprove alleged matters of fact in a trial.",
+   "One who bears witness."
+  ]
+ },
+ {
+  "id": "follow",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To go after",
+   "To go or come after in a sequence.",
+   "To carry out (orders, instructions, etc.)."
+  ]
+ },
+ {
+  "id": "official",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of or about an office or public trust.",
+   "Derived from the proper office or officer, or the appropriate authority",
+   "Approved by authority"
+  ]
+ },
+ {
+  "id": "ok",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "en": [
+   "Alternative letter-case form of OK."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "production",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of producing, making or creating something.",
+   "The act of bringing something forward, out, etc., for use or consideration.",
+   "The act of being produced."
+  ]
+ },
+ {
+  "id": "rate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The proportional relationship between one amount, value etc. and another.",
+   "Speed.",
+   "The relative speed of change or progress."
+  ]
+ },
+ {
+  "id": "reading",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "present participle and gerund of read",
+   "The process of interpreting written language.",
+   "A value indicated by a measuring device."
+  ]
+ },
+ {
+  "id": "round",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "prep",
+   "v"
+  ],
+  "en": [
+   "Of shape",
+   "Complete, whole, not lacking.",
+   "A circular or spherical object or part of an object."
+  ]
+ },
+ {
+  "id": "save",
+  "pos": [
+   "v",
+   "n",
+   "prep"
+  ],
+  "en": [
+   "To prevent harm or difficulty.",
+   "An instance of preventing (further) harm or difficulty.",
+   "The act, process, or result of saving data to a storage medium."
+  ]
+ },
+ {
+  "id": "stand",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To position or be positioned physically",
+   "The act of standing.",
+   "A defensive position or effort."
+  ]
+ },
+ {
+  "id": "stuff",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Miscellaneous items or objects",
+   "Unspecified things or matters.",
+   "The tangible substance that goes into the makeup of a physical object."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "whatever",
+  "pos": [
+   "det",
+   "pron",
+   "n",
+   "adv",
+   "intj",
+   "adj"
+  ],
+  "en": [
+   "A thing or person whose actual name is unknown or forgotten.",
+   "What ever",
+   "Regardless of the ... that"
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "blue",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Of a blue hue.",
+   "Depressed, melancholic, sad.",
+   "Having a bluish or purplish shade to the skin due to a lack of oxygen to the normally deep-red red blood cells"
+  ]
+ },
+ {
+  "id": "drive",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To operate a vehicle",
+   "To compel to move",
+   "Planned, usually long-lasting, effort to achieve something"
+  ]
+ },
+ {
+  "id": "eat",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To ingest.",
+   "To be ingested.",
+   "To use up."
+  ]
+ },
+ {
+  "id": "fall",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "To be moved downwards.",
+   "The act of moving to a lower position under the effect of gravity.",
+   "A reduction in quantity, pitch, etc."
+  ]
+ },
+ {
+  "id": "fast",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "Firmly or securely fixed in place",
+   "Firm against attack",
+   "Steadfast, with unwavering feeling. (Now mostly in set phrases like fast friend(s).)"
+  ],
+  "reg": [
+   "dated"
+  ]
+ },
+ {
+  "id": "feeling",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Emotionally sensitive.",
+   "Expressive of great sensibility",
+   "Sensation, particularly through the skin."
+  ]
+ },
+ {
+  "id": "green",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "The color of grass and leaves",
+   "A member of a green party",
+   "A putting green, the part of a golf course near the hole."
+  ]
+ },
+ {
+  "id": "match",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A competitive sporting event such as a boxing meet (commonly called a \"bout\"), a baseball game, or a cricket match.",
+   "Any contest or trial of strength or skill, or to determine superiority.",
+   "Someone with a measure of an attribute equaling or exceeding the object of comparison."
+  ]
+ },
+ {
+  "id": "model",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "A person who serves as a human template for artwork or fashion.",
+   "A person, usually attractive, who is hired to show items or goods to the public, such as items that are given away as prizes on a TV…",
+   "A representation of a physical object."
+  ]
+ },
+ {
+  "id": "picture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting,…",
+   "An image",
+   "A painting."
+  ]
+ },
+ {
+  "id": "size",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The dimensions or magnitude of a thing",
+   "A specific set of dimensions for a manufactured article, especially clothing.",
+   "The number of edges in a graph."
+  ]
+ },
+ {
+  "id": "step",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An advance or movement made from one foot to the other",
+   "A rest, or one of a set of rests, for the foot in ascending or descending, as a stair, or a rung of a ladder.",
+   "The part of a spade, digging stick or similar tool that a digger's foot rests against and presses on when digging"
+  ]
+ },
+ {
+  "id": "trust",
+  "pos": [
+   "n",
+   "v",
+   "intj",
+   "adj"
+  ],
+  "en": [
+   "Confidence in or reliance on some person or quality.",
+   "Dependence upon something in the future",
+   "Confidence in the future payment for goods or services supplied"
+  ]
+ },
+ {
+  "id": "board game",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Any of many games of strategy or chance played on a specially designed board"
+  ]
+ },
+ {
+  "id": "forward",
+  "pos": [
+   "adv",
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Situated toward or at the front of something.",
+   "Acting in or pertaining to the direction in which someone or something is facing.",
+   "Acting in or pertaining to the direction of travel or movement."
+  ]
+ },
+ {
+  "id": "hey",
+  "pos": [
+   "intj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "An exclamation to get attention.",
+   "A protest or reprimand.",
+   "An expression of surprise."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "key",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "An object designed to open and close a lock or to activate or deactivate something, especially a length of metal inserted into a narrow…",
+   "An object designed to fit between two other objects (such as a shaft and a wheel) in a mechanism and maintain their relative orientation.",
+   "Indispensable, supremely important."
+  ]
+ },
+ {
+  "id": "mom",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Mother.",
+   "An adult female owner of a pet.",
+   "To care for in a motherly way."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "page",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "One of the many pieces of paper bound together within a book or similar document.",
+   "One side of a paper leaf in a bound document.",
+   "A collective memory"
+  ]
+ },
+ {
+  "id": "range",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A line or series of mountains, buildings, etc.",
+   "A fireplace",
+   "Selection, array."
+  ]
+ },
+ {
+  "id": "review",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A second or subsequent reading of a text or artifact in an attempt to gain new insights.",
+   "An account intended as a critical evaluation of a text or a piece of work.",
+   "A judicial reassessment of a case or an event."
+  ]
+ },
+ {
+  "id": "science",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A particular discipline or branch of knowledge that is natural, measurable or consisting of systematic principles rather than intuition…",
+   "Specifically the natural sciences.",
+   "The fact of knowing something"
+  ]
+ },
+ {
+  "id": "trade",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "The buying and selling of goods and services on a market.",
+   "A particular instance of buying or selling, or a series of related transactions executed as a single investment.",
+   "An idea or strategy for an investment on a market."
+  ]
+ },
+ {
+  "id": "upon",
+  "pos": [
+   "prep"
+  ],
+  "en": [
+   "A higher-register or more formal alternative to on in most, though not all, prepositional uses."
+  ]
+ },
+ {
+  "id": "attention",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "en": [
+   "Mental focus.",
+   "An action or remark expressing concern for or interest in someone or something, especially romantic interest.",
+   "A state of alertness in the standing position."
+  ]
+ },
+ {
+  "id": "brother",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "Son of the same parents as another person.",
+   "A male having at least one parent in common with another person (see half-brother, stepbrother).",
+   "A male fellow member of a religious community, church, trades union etc."
+  ]
+ },
+ {
+  "id": "character",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A being involved in the action of a story",
+   "A distinguishing feature",
+   "A complex of traits marking a person, group, breed, or type."
+  ]
+ }
+]

@@ -1,0 +1,162 @@
+[
+ {
+  "id": "wiki-peripheral-equipment",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Peripheral_equipment",
+  "title_en": "Peripheral equipment",
+  "sentences": [
+   "Peripheral equipment (also called: input and output devices) connects a computer to other things.",
+   "It gives a computer system more features.",
+   "Input is anything that goes in and output is anything that goes out.",
+   "Any device for the computer that the computer can work without is peripheral equipment.",
+   "This equipment is always separated from the central processing unit (CPU) by a device controller.",
+   "Peripheral equipment is necessary for people to interact with a computer system.",
+   "Some peripheral equipment displays information (such as a computer monitor).",
+   "Some peripherals, such as touchscreens, work for both input and output.",
+   "One peripheral device can be connected to many systems."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-more-teenagers-attracted-to-computer-cri",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/More_teenagers_attracted_to_computer_crime%2C_say_experts",
+  "title_en": "More teenagers attracted to computer crime, say experts",
+  "sentences": [
+   "Tuesday, October 28, 2008 Security experts warn more and more teenagers are now into hi-tech computer crime.",
+   "Alarmingly large number of teenagers are found peddling credit card numbers, phishing kits and cracking tips in some Internet forums.",
+   "The young offenders are very likely to get caught and prosecuted due to their inferior technical skills, claim experts.",
+   "Swapping malicious programs, knowledge, stolen data, exploits and virus code are very popular with teenagers exposed to the world of computer crime.",
+   "Online communities and web forums sharing application cracks, exotic exploits and virus code make it easy for teens to do the illegal activities.",
+   "Many nuisance programs are written by teenagers to exploit users of social networking sites, says Chris Boyd, director of malware research at FaceTime Security.",
+   "\"Some are quite crude, some are clever and some are stupid,\" said Mr Boyd.",
+   "Attempts to make money by dabbling in cyber crime quite often fails due to a lack of technical skills.",
+   "\"They do not even know enough to get a simple phishing or attack tool right,\" said Kevin Hogan, a senior manager of Symantec Security Response.",
+   "The teenagers often end up damaging their own PCs by the viruses they have written.",
+   "Teenagers desire to win recognition for their exploits make them post revealing videos in sites such as YouTube.",
+   "They commonly sign on with the same alias used to crack a site, run a phishing attack or write a web exploit.",
+   "They are thus easily tracked down by computer security experts.",
+   "Mathew Bevan, arrested as a teenager cyber criminal and then acquitted, says teens enjoy the \"thrill and power to prove they are somebody\".",
+   "Thus they end up sticking to the same alias, even at a risk of being caught.",
+   "\"The aim of what they are doing is to get the fame within their peer group,\" he said."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-firewall-networking",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Firewall_(networking)",
+  "title_en": "Firewall (networking)",
+  "sentences": [
+   "In terms of computer security, a firewall is a piece of software.",
+   "This software monitors the network traffic between the inside and outside.",
+   "The firewall is placed between the network that is to be protected (trusted) and the outside network (less trusted) aka WAN or Internet.",
+   "A firewall has a set of rules which are applied to each packet.",
+   "The rules decide if a packet can pass, or whether it is discarded.",
+   "When a large network needs to be protected, the firewall software often runs on a computer that does nothing else.",
+   "A firewall protects one part of the network against unauthorized access."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-wikipedia-publishes-10-millionth-article",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Wikipedia_publishes_10_millionth_article",
+  "title_en": "Wikipedia publishes 10 millionth article",
+  "sentences": [
+   "Sunday, March 30, 2008 The online encyclopedia, Wikipedia, has published its 10 millionth article.",
+   "The 10 millionth Wikipedia article is \"Nicholas Hilliard\" in the Hungarian Wikipedia, according to a press release from Wikimedia Foundation head of communications Jay Walsh.",
+   "The Wikimedia Foundation operates Wikipedia editions in 253 languages.",
+   "The largest single language is English, which has 2.3 million articles.",
+   "The official total count reached 10 million on Thursday, March 27, at 00:07 UTC.",
+   "In the press release, Wikimedia founder Jimmy Wales was quoted as saying \"It's incredible to think that we've grown from one Wikipedia in English to over 250 language Wikipedias.",
+   "Ten million articles is something we could never have imagined happening so fast when we embarked on Wikipedia in 2001.",
+   "This is a testament to the incredible dedication of our volunteers around the world.\" The table below lists the five largest Wikipedias:"
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-binary",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Binary",
+  "title_en": "Binary",
+  "sentences": [
+   "Binary is a base 2 number system.",
+   "It is called base 2 because there are only 2 digits: 0 and 1.",
+   "Decimal also has the digits 0 and 1, so a subscript \"(2)\" is usually added to binary numbers to not confuse people.",
+   "Computers work in binary, because it is the simplest way to store information using electricity.",
+   "A wire can be powered on to represent a 1, or powered off to represent a 0.",
+   "Large sets of binary numbers can be used by computers to represent other types of information, such as text, songs, or videos."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-distribution-mathematics",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Distribution_(mathematics)",
+  "title_en": "Distribution (mathematics)",
+  "sentences": [
+   "This is about distribution in a mathematical sense, other meanings can be found at distribution In mathematics, a distribution is a generalisation of a function.",
+   "Distributions were introduced in the middle of the 20th century by Laurent Schwartz, who received a Fields Medal for his work on them.",
+   "The Fields medal is comparable to a Nobel Prize in mathematics, which does not exist.",
+   "Distributions were introduced to model certain concepts from Physics.",
+   "Physics has the concept of a mass of points in space.",
+   "The Dirac delta function can model an electromagnetic charge of a point in space.",
+   "The Dirac delta function is zero everywhere, except at one point, where it is infinitely large.",
+   "This needs to be the case, because the density function needs to be 1.",
+   "There is no function that can meet this criterion, except if integraton is taken as a function in the mathematical sense.",
+   "Today, distributions are used in different fields of mathematics and physics, for example to model Partial differential equations or Fourier analyses, which are important for Quantum electrodynamics or signal processing."
+  ]
+ },
+ {
+  "id": "news-distributed-malware-attacks-dyn-dns-take",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Distributed_malware_attacks_Dyn_DNS%2C_takes_down_websites_in_US",
+  "title_en": "Distributed malware attacks Dyn DNS, takes down websites in US",
+  "sentences": [
+   "Monday, October 24, 2016 On Friday, a network of diverse Internet-connected devices targeted the Dyn domain registration service provider.",
+   "It took down Dyn clients, including several popular websites such as Twitter, Netflix, Spotify, Reddit, New York Times, and Wired.",
+   "The attack involved targeting Dyn's domain name system servers with a large volume of requests, rendering it incapable of serving replies to legitimate requests — a DDoS (distributed denial of service) attack.",
+   "Users' browsers and other clients sent requests to Dyn to resolve the respective web sites' domain names to an IP, but did not get a reply within the time required.",
+   "The first attack started at about 7am local time (UTC-4) and was resolved in two hours.",
+   "A second attack started at mid-day, and a third attack started at about 4pm local time.",
+   "Tens of millions of malicious request sources were observed, interfering with legitimate Dyn traffic.",
+   "The reports noted the malicious devices included internet-connected devices — not only servers and desktops, but also webcams, digital video recorders, routers — referred to as the Internet of Things.",
+   "On Friday evening Dyn said a security company Flashpoint and a cloud services provider Akamai identified symptoms of malware Mirai participating in the attacks.",
+   "The malware infects the devices by brute forcing their passwords.",
+   "This strategy may work as a consequence of users' negligence towards password security of stationary devices, which the users do not directly interact with in their everyday life while leaving them exposed to the Internet.",
+   "Matthew Prince, the CEO of an Internet infrastructure company Cloudflare said it's a known issue, \"There's nothing really new about [this type of DDoS attack].",
+   "We've seen them for at least the last three years, they tend to be difficult to stop\".",
+   "Public release of Mirai source code was announced at Hackforums on September 30.",
+   "Dyn's corporate headquarters are in New Hampshire."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-virtual-iraq-created-to-help-traumatised",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/'Virtual_Iraq'_created_to_help_traumatised_veterans",
+  "title_en": "'Virtual Iraq' created to help traumatised veterans",
+  "sentences": [
+   "Tuesday, March 13, 2007 The University of Southern California developed a simulation system that provides real effects of battlefield.",
+   "The simulation is called Virtual Iraq and it is now being put in practice by the University of Reading.",
+   "Virtual Iraq represents a fully-immersive system created as part of a therapy that aims to help soldiers with post-traumatic stress disorder to handle their psychological issues.",
+   "The Director of the Visualization Center at University of Reading, Professor Paul Sharkey, has been developing the system together with two professors from the USC Institute for Creative Technologies, Albert Rizzo and Jarrell Pair.",
+   "They created a virtual room at the Visualization Center where patients can experience the effects of the battlefield.",
+   "Scientists will provide in their Virtual Iraq sounds, sights and smells of the battlefield so soldiers or military staff would experience real combat scenarios but in a low threat context.",
+   "Thus the therapists are able to add to the virtual world roadside bombs, the smell of burning rubber, as well as the sound of gunfire and buzzing of the helicopter.",
+   "Till now four patients were treated and they all reported improvement in the symptoms.",
+   "Scientists state that the aim of the new system is to re-expose patients to relevant traumatic events and not to re-traumatize them.",
+   "They look forward to manage people’s emotional responses so to make them more flexible in everyday situations."
+  ],
+  "topic": "it"
+ }
+]

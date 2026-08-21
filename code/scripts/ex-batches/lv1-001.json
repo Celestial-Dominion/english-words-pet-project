@@ -1,0 +1,860 @@
+[
+ {
+  "id": "used to",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đã từng; quen với",
+  "coll": [
+   "used to live here",
+   "used to be",
+   "get used to",
+   "be used to it"
+  ]
+ },
+ {
+  "id": "part-time",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "bán thời gian",
+  "coll": [
+   "part-time job",
+   "part-time work",
+   "work part-time",
+   "part-time student"
+  ]
+ },
+ {
+  "id": "including",
+  "pos": [
+   "prep",
+   "v"
+  ],
+  "vi": "bao gồm; kể cả",
+  "coll": [
+   "including tax",
+   "including children",
+   "including but not limited to",
+   "not including"
+  ]
+ },
+ {
+  "id": "service",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dịch vụ; sự phục vụ; nghĩa vụ quân sự",
+  "coll": [
+   "customer service",
+   "public service",
+   "military service",
+   "room service",
+   "service charge"
+  ]
+ },
+ {
+  "id": "season",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mùa; mùa giải; nêm gia vị",
+  "coll": [
+   "rainy season",
+   "holiday season",
+   "football season",
+   "season ticket",
+   "peak season"
+  ]
+ },
+ {
+  "id": "full-time",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "toàn thời gian",
+  "coll": [
+   "full-time job",
+   "full-time employee",
+   "work full-time",
+   "full-time student"
+  ]
+ },
+ {
+  "id": "general",
+  "pos": [
+   "adj",
+   "n",
+   "v",
+   "adv"
+  ],
+  "vi": "chung; tổng quát; đại tướng",
+  "coll": [
+   "general public",
+   "general idea",
+   "general election",
+   "in general",
+   "general manager"
+  ]
+ },
+ {
+  "id": "per",
+  "pos": [
+   "prep",
+   "pron",
+   "det"
+  ],
+  "vi": "mỗi; cho mỗi; theo",
+  "coll": [
+   "per person",
+   "per day",
+   "per hour",
+   "miles per hour"
+  ]
+ },
+ {
+  "id": "president",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "tổng thống; chủ tịch",
+  "coll": [
+   "former president",
+   "vice president",
+   "president of the company",
+   "elect a president"
+  ]
+ },
+ {
+  "id": "working",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "đang làm việc; hoạt động được; sự vận hành",
+  "coll": [
+   "working conditions",
+   "working hours",
+   "working class",
+   "working mother",
+   "in working order"
+  ]
+ },
+ {
+  "id": "able",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "có thể; có năng lực; giỏi",
+  "coll": [
+   "be able to do",
+   "able to afford",
+   "able to swim",
+   "less able students"
+  ]
+ },
+ {
+  "id": "series",
+  "pos": [
+   "n"
+  ],
+  "vi": "loạt, chuỗi; phim bộ nhiều tập",
+  "coll": [
+   "TV series",
+   "a series of events",
+   "drama series",
+   "series of books"
+  ]
+ },
+ {
+  "id": "whether",
+  "pos": [
+   "conj",
+   "det",
+   "pron"
+  ],
+  "vi": "liệu (có... không); dù... hay",
+  "coll": [
+   "whether or not",
+   "ask whether",
+   "decide whether",
+   "doubt whether"
+  ]
+ },
+ {
+  "id": "development",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phát triển; diễn biến mới",
+  "coll": [
+   "economic development",
+   "software development",
+   "child development",
+   "development project",
+   "recent developments"
+  ]
+ },
+ {
+  "id": "according to",
+  "pos": [
+   "prep"
+  ],
+  "vi": "theo; theo như",
+  "coll": [
+   "according to the report",
+   "according to experts",
+   "according to plan",
+   "according to statistics"
+  ]
+ },
+ {
+  "id": "available",
+  "pos": [
+   "adj"
+  ],
+  "vi": "có sẵn; sẵn có; rảnh",
+  "coll": [
+   "available online",
+   "readily available",
+   "tickets are available",
+   "available in stores"
+  ]
+ },
+ {
+  "id": "former",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cựu; trước đây; cái trước",
+  "coll": [
+   "former president",
+   "former wife",
+   "former employee",
+   "the former Soviet Union"
+  ]
+ },
+ {
+  "id": "sometimes",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "thỉnh thoảng; đôi khi",
+  "coll": [
+   "I sometimes wonder",
+   "it sometimes happens",
+   "as sometimes happens"
+  ]
+ },
+ {
+  "id": "current",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hiện tại; dòng (nước, điện)",
+  "coll": [
+   "current situation",
+   "current events",
+   "electric current",
+   "ocean current",
+   "current affairs"
+  ]
+ },
+ {
+  "id": "process",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quá trình; quy trình; xử lý",
+  "coll": [
+   "peace process",
+   "learning process",
+   "process data",
+   "in the process of",
+   "slow process"
+  ]
+ },
+ {
+  "id": "instead of",
+  "pos": [
+   "prep"
+  ],
+  "vi": "thay vì; thay cho",
+  "coll": [
+   "instead of going",
+   "tea instead of coffee",
+   "instead of me",
+   "walk instead of driving"
+  ]
+ },
+ {
+  "id": "main",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "vi": "chính; chủ yếu",
+  "coll": [
+   "main road",
+   "main course",
+   "main reason",
+   "main character",
+   "main entrance"
+  ]
+ },
+ {
+  "id": "department",
+  "pos": [
+   "n"
+  ],
+  "vi": "phòng, ban; khoa; bộ",
+  "coll": [
+   "sales department",
+   "police department",
+   "department store",
+   "head of department"
+  ]
+ },
+ {
+  "id": "full stop",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "dấu chấm; sự dừng hẳn",
+  "coll": [
+   "come to a full stop",
+   "end with a full stop",
+   "put a full stop to"
+  ]
+ },
+ {
+  "id": "rest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự nghỉ ngơi; phần còn lại; nghỉ",
+  "coll": [
+   "take a rest",
+   "the rest of the day",
+   "get some rest",
+   "the rest of your life"
+  ]
+ },
+ {
+  "id": "term",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "thuật ngữ; học kỳ; nhiệm kỳ; điều khoản",
+  "coll": [
+   "technical term",
+   "long term",
+   "term of office",
+   "in terms of",
+   "school term"
+  ]
+ },
+ {
+  "id": "sex",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giới tính; tình dục",
+  "coll": [
+   "have sex",
+   "sex education",
+   "opposite sex",
+   "same sex"
+  ]
+ },
+ {
+  "id": "total",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "tổng; toàn bộ; tổng số",
+  "coll": [
+   "total cost",
+   "total number",
+   "in total",
+   "total amount",
+   "a total of"
+  ]
+ },
+ {
+  "id": "second-hand",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "cũ, đã qua sử dụng; gián tiếp",
+  "coll": [
+   "second-hand car",
+   "second-hand clothes",
+   "second-hand bookshop",
+   "second-hand smoke"
+  ]
+ },
+ {
+  "id": "security",
+  "pos": [
+   "n"
+  ],
+  "vi": "an ninh; sự an toàn; bảo mật",
+  "coll": [
+   "national security",
+   "security guard",
+   "security camera",
+   "job security",
+   "tight security"
+  ]
+ },
+ {
+  "id": "county",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "hạt (đơn vị hành chính); quận",
+  "coll": [
+   "county council",
+   "county court",
+   "county fair"
+  ]
+ },
+ {
+  "id": "hard-working",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chăm chỉ; cần cù",
+  "coll": [
+   "hard-working student",
+   "hard-working people",
+   "hard-working employee"
+  ]
+ },
+ {
+  "id": "industry",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngành công nghiệp; ngành; sự chăm chỉ",
+  "coll": [
+   "tourism industry",
+   "heavy industry",
+   "film industry",
+   "fashion industry",
+   "industry standards"
+  ]
+ },
+ {
+  "id": "out-of-date",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lỗi thời; hết hạn",
+  "coll": [
+   "out-of-date information",
+   "out-of-date technology",
+   "out-of-date passport"
+  ]
+ },
+ {
+  "id": "up-to-date",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cập nhật; mới nhất",
+  "coll": [
+   "up-to-date information",
+   "up-to-date records",
+   "keep up-to-date",
+   "up-to-date technology"
+  ]
+ },
+ {
+  "id": "policy",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chính sách; hợp đồng bảo hiểm",
+  "coll": [
+   "foreign policy",
+   "insurance policy",
+   "government policy",
+   "privacy policy",
+   "company policy"
+  ]
+ },
+ {
+  "id": "press",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "báo chí; ấn, nhấn; máy ép",
+  "coll": [
+   "press conference",
+   "press release",
+   "freedom of the press",
+   "press the button",
+   "printing press"
+  ]
+ },
+ {
+  "id": "worth",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "đáng giá; xứng đáng; giá trị",
+  "coll": [
+   "worth the money",
+   "worth a visit",
+   "worth reading",
+   "net worth",
+   "worth it"
+  ]
+ },
+ {
+  "id": "face to face",
+  "pos": [
+   "adv"
+  ],
+  "vi": "mặt đối mặt; trực tiếp",
+  "coll": [
+   "meet face to face",
+   "talk face to face",
+   "come face to face with"
+  ]
+ },
+ {
+  "id": "face-to-face",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "trực tiếp; mặt đối mặt",
+  "coll": [
+   "face-to-face meeting",
+   "face-to-face interview",
+   "face-to-face conversation"
+  ]
+ },
+ {
+  "id": "relationship",
+  "pos": [
+   "n"
+  ],
+  "vi": "mối quan hệ",
+  "coll": [
+   "close relationship",
+   "romantic relationship",
+   "working relationship",
+   "in a relationship",
+   "build relationships"
+  ]
+ },
+ {
+  "id": "tax",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thuế; đánh thuế",
+  "coll": [
+   "income tax",
+   "pay taxes",
+   "tax cuts",
+   "tax return",
+   "tax rate"
+  ]
+ },
+ {
+  "id": "amount",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "số lượng; lượng; lên tới",
+  "coll": [
+   "large amount",
+   "amount of money",
+   "amount of time",
+   "small amount",
+   "total amount"
+  ]
+ },
+ {
+  "id": "league",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "giải đấu; liên đoàn; đẳng cấp",
+  "coll": [
+   "Premier League",
+   "league table",
+   "major league",
+   "league champions",
+   "out of your league"
+  ]
+ },
+ {
+  "id": "management",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quản lý; ban quản lý",
+  "coll": [
+   "time management",
+   "senior management",
+   "management team",
+   "risk management",
+   "under new management"
+  ]
+ },
+ {
+  "id": "central",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "trung tâm; trung ương; chủ chốt",
+  "coll": [
+   "central London",
+   "central bank",
+   "central heating",
+   "play a central role"
+  ]
+ },
+ {
+  "id": "paid",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "được trả lương; đã thanh toán",
+  "coll": [
+   "paid leave",
+   "well paid",
+   "get paid",
+   "paid holiday",
+   "highly paid"
+  ]
+ },
+ {
+  "id": "various",
+  "pos": [
+   "adj",
+   "det"
+  ],
+  "vi": "nhiều, đủ loại; khác nhau",
+  "coll": [
+   "various reasons",
+   "various types",
+   "various ways",
+   "at various times"
+  ]
+ },
+ {
+  "id": "chief",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chính, chủ yếu; thủ lĩnh, trưởng",
+  "coll": [
+   "chief executive",
+   "police chief",
+   "chief concern",
+   "commander in chief",
+   "tribal chief"
+  ]
+ },
+ {
+  "id": "property",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tài sản; bất động sản; thuộc tính",
+  "coll": [
+   "private property",
+   "property market",
+   "property prices",
+   "intellectual property",
+   "personal property"
+  ]
+ },
+ {
+  "id": "amazing",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tuyệt vời; đáng kinh ngạc",
+  "coll": [
+   "amazing experience",
+   "absolutely amazing",
+   "amazing view",
+   "look amazing"
+  ]
+ },
+ {
+  "id": "economic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "(thuộc) kinh tế; sinh lợi",
+  "coll": [
+   "economic growth",
+   "economic crisis",
+   "economic development",
+   "economic policy",
+   "economic recovery"
+  ]
+ },
+ {
+  "id": "involved",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tham gia, dính líu; phức tạp",
+  "coll": [
+   "get involved",
+   "deeply involved",
+   "involved in a project",
+   "everyone involved"
+  ]
+ },
+ {
+  "id": "serious",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "nghiêm trọng; nghiêm túc",
+  "coll": [
+   "serious problem",
+   "serious injury",
+   "serious illness",
+   "serious about",
+   "serious relationship"
+  ]
+ },
+ {
+  "id": "decision",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quyết định",
+  "coll": [
+   "make a decision",
+   "final decision",
+   "difficult decision",
+   "reach a decision",
+   "decision-making"
+  ]
+ },
+ {
+  "id": "entire",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "toàn bộ; cả; nguyên vẹn",
+  "coll": [
+   "entire life",
+   "the entire world",
+   "entire day",
+   "entire family"
+  ]
+ },
+ {
+  "id": "written",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "được viết ra; bằng văn bản",
+  "coll": [
+   "written exam",
+   "written permission",
+   "written test",
+   "in written form",
+   "written statement"
+  ]
+ },
+ {
+  "id": "council",
+  "pos": [
+   "n"
+  ],
+  "vi": "hội đồng",
+  "coll": [
+   "city council",
+   "local council",
+   "council meeting",
+   "student council",
+   "the UN Security Council"
+  ]
+ },
+ {
+  "id": "currently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hiện tại; hiện nay",
+  "coll": [
+   "currently available",
+   "currently working on",
+   "currently under construction"
+  ]
+ },
+ {
+  "id": "election",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuộc bầu cử",
+  "coll": [
+   "general election",
+   "presidential election",
+   "win the election",
+   "election campaign",
+   "hold elections"
+  ]
+ }
+]

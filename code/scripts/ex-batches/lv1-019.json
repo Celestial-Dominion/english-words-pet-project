@@ -1,0 +1,835 @@
+[
+ {
+  "id": "separation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tách rời; sự chia ly; sự ly thân",
+  "coll": [
+   "separation of powers",
+   "legal separation",
+   "separation anxiety",
+   "separation from his family"
+  ]
+ },
+ {
+  "id": "surgeon",
+  "pos": [
+   "n"
+  ],
+  "vi": "bác sĩ phẫu thuật",
+  "coll": [
+   "heart surgeon",
+   "brain surgeon",
+   "plastic surgeon",
+   "consultant surgeon"
+  ]
+ },
+ {
+  "id": "theft",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trộm cắp; vụ trộm",
+  "coll": [
+   "identity theft",
+   "car theft",
+   "petty theft",
+   "theft of property"
+  ]
+ },
+ {
+  "id": "visa",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thị thực, visa",
+  "coll": [
+   "apply for a visa",
+   "tourist visa",
+   "visa application",
+   "student visa",
+   "visa requirements"
+  ]
+ },
+ {
+  "id": "appreciation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trân trọng; lòng biết ơn; sự tăng giá trị",
+  "coll": [
+   "show appreciation",
+   "in appreciation of",
+   "deep appreciation",
+   "art appreciation"
+  ]
+ },
+ {
+  "id": "athletic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khỏe mạnh, vạm vỡ; thuộc thể thao, điền kinh",
+  "coll": [
+   "athletic ability",
+   "athletic build",
+   "athletic performance",
+   "athletic shoes"
+  ]
+ },
+ {
+  "id": "charm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự quyến rũ; bùa may mắn; làm say mê",
+  "coll": [
+   "lucky charm",
+   "charm bracelet",
+   "natural charm",
+   "work like a charm",
+   "turn on the charm"
+  ]
+ },
+ {
+  "id": "cruel",
+  "pos": [
+   "adj",
+   "adv",
+   "v"
+  ],
+  "vi": "độc ác, tàn nhẫn",
+  "coll": [
+   "a cruel joke",
+   "cruel treatment",
+   "cruel to animals",
+   "a cruel world"
+  ]
+ },
+ {
+  "id": "curriculum",
+  "pos": [
+   "n"
+  ],
+  "vi": "chương trình học; chương trình giảng dạy",
+  "coll": [
+   "school curriculum",
+   "the national curriculum",
+   "curriculum design",
+   "part of the curriculum"
+  ]
+ },
+ {
+  "id": "deadline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hạn chót; thời hạn",
+  "coll": [
+   "meet a deadline",
+   "miss a deadline",
+   "tight deadline",
+   "set a deadline",
+   "deadline for applications"
+  ]
+ },
+ {
+  "id": "dive",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lặn; nhảy cắm đầu; lao xuống",
+  "coll": [
+   "scuba dive",
+   "dive into the pool",
+   "dive for cover",
+   "take a dive"
+  ]
+ },
+ {
+  "id": "heal",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chữa lành; lành lại; hàn gắn",
+  "coll": [
+   "heal wounds",
+   "heal quickly",
+   "time heals",
+   "fully healed"
+  ]
+ },
+ {
+  "id": "jungle",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "rừng rậm",
+  "coll": [
+   "jungle animals",
+   "deep in the jungle",
+   "concrete jungle",
+   "the law of the jungle"
+  ]
+ },
+ {
+  "id": "occasional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thỉnh thoảng; không thường xuyên",
+  "coll": [
+   "occasional visits",
+   "an occasional drink",
+   "occasional showers",
+   "occasional use"
+  ]
+ },
+ {
+  "id": "unfortunate",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không may; đáng tiếc",
+  "coll": [
+   "an unfortunate accident",
+   "an unfortunate situation",
+   "it is unfortunate that",
+   "the unfortunate victim"
+  ]
+ },
+ {
+  "id": "attraction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thu hút; điểm tham quan; lực hút",
+  "coll": [
+   "tourist attraction",
+   "the main attraction",
+   "physical attraction",
+   "the attraction of city life"
+  ]
+ },
+ {
+  "id": "defender",
+  "pos": [
+   "n"
+  ],
+  "vi": "người bảo vệ; hậu vệ",
+  "coll": [
+   "central defender",
+   "defender of human rights",
+   "public defender",
+   "star defender"
+  ]
+ },
+ {
+  "id": "eternal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "vĩnh cửu; bất diệt",
+  "coll": [
+   "eternal life",
+   "eternal love",
+   "eternal flame",
+   "eternal youth"
+  ]
+ },
+ {
+  "id": "keyboard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bàn phím; đàn phím điện tử",
+  "coll": [
+   "computer keyboard",
+   "keyboard shortcuts",
+   "type on a keyboard",
+   "keyboard player"
+  ]
+ },
+ {
+  "id": "lasting",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "lâu dài; bền vững",
+  "coll": [
+   "a lasting impression",
+   "lasting peace",
+   "lasting impact",
+   "long-lasting effects"
+  ]
+ },
+ {
+  "id": "mild",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nhẹ; ôn hòa; dịu",
+  "coll": [
+   "mild weather",
+   "mild symptoms",
+   "a mild winter",
+   "mild flavor",
+   "a mild case"
+  ]
+ },
+ {
+  "id": "preference",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sở thích; sự ưu tiên; sự ưa thích hơn",
+  "coll": [
+   "personal preference",
+   "in order of preference",
+   "have a preference for",
+   "give preference to"
+  ]
+ },
+ {
+  "id": "proportion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tỷ lệ; phần; sự cân đối",
+  "coll": [
+   "a large proportion of",
+   "in proportion to",
+   "out of proportion",
+   "the proportions of the body"
+  ]
+ },
+ {
+  "id": "rage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn thịnh nộ; giận dữ; hoành hành",
+  "coll": [
+   "fly into a rage",
+   "road rage",
+   "full of rage",
+   "the fire raged"
+  ]
+ },
+ {
+  "id": "selfish",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ích kỷ",
+  "coll": [
+   "selfish behavior",
+   "selfish reasons",
+   "purely selfish",
+   "a selfish attitude"
+  ]
+ },
+ {
+  "id": "silk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lụa; tơ",
+  "coll": [
+   "silk dress",
+   "pure silk",
+   "silk scarf",
+   "the Silk Road",
+   "smooth as silk"
+  ]
+ },
+ {
+  "id": "urge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự thôi thúc; thúc giục, hối thúc",
+  "coll": [
+   "resist the urge",
+   "the urge to smoke",
+   "strongly urge",
+   "urge caution"
+  ]
+ },
+ {
+  "id": "citizenship",
+  "pos": [
+   "n"
+  ],
+  "vi": "quốc tịch; tư cách công dân",
+  "coll": [
+   "apply for citizenship",
+   "dual citizenship",
+   "US citizenship",
+   "citizenship test",
+   "granted citizenship"
+  ]
+ },
+ {
+  "id": "cliff",
+  "pos": [
+   "n"
+  ],
+  "vi": "vách đá",
+  "coll": [
+   "cliff edge",
+   "steep cliff",
+   "fall off a cliff",
+   "cliff face",
+   "the cliffs by the sea"
+  ]
+ },
+ {
+  "id": "declaration",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời tuyên bố; bản tuyên ngôn; tờ khai",
+  "coll": [
+   "declaration of independence",
+   "declaration of war",
+   "customs declaration",
+   "an official declaration"
+  ]
+ },
+ {
+  "id": "distinction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phân biệt; nét khác biệt; sự xuất sắc",
+  "coll": [
+   "make a distinction",
+   "a clear distinction",
+   "the distinction between right and wrong",
+   "graduate with distinction"
+  ]
+ },
+ {
+  "id": "faithful",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chung thủy; trung thành; trung thực (bản dịch)",
+  "coll": [
+   "faithful friend",
+   "faithful to his wife",
+   "faithful servant",
+   "a faithful translation"
+  ]
+ },
+ {
+  "id": "hunger",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn đói; nạn đói; sự khao khát",
+  "coll": [
+   "die of hunger",
+   "hunger strike",
+   "world hunger",
+   "a hunger for knowledge",
+   "satisfy your hunger"
+  ]
+ },
+ {
+  "id": "laughter",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiếng cười",
+  "coll": [
+   "burst into laughter",
+   "a roar of laughter",
+   "laughter and tears",
+   "fits of laughter"
+  ]
+ },
+ {
+  "id": "lung",
+  "pos": [
+   "n"
+  ],
+  "vi": "phổi; lá phổi",
+  "coll": [
+   "lung cancer",
+   "lung disease",
+   "lung capacity",
+   "at the top of your lungs"
+  ]
+ },
+ {
+  "id": "nutrition",
+  "pos": [
+   "n"
+  ],
+  "vi": "dinh dưỡng; sự nuôi dưỡng",
+  "coll": [
+   "good nutrition",
+   "nutrition facts",
+   "poor nutrition",
+   "sports nutrition",
+   "nutrition and health"
+  ]
+ },
+ {
+  "id": "severely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nghiêm trọng, nặng nề; nghiêm khắc",
+  "coll": [
+   "severely damaged",
+   "severely injured",
+   "severely affected",
+   "severely punished"
+  ]
+ },
+ {
+  "id": "shocking",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "gây sốc; chấn động; tồi tệ",
+  "coll": [
+   "shocking news",
+   "a shocking discovery",
+   "truly shocking",
+   "shocking behavior"
+  ]
+ },
+ {
+  "id": "southwest",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "tây nam; phía tây nam",
+  "coll": [
+   "southwest of the city",
+   "the southwest coast",
+   "in the southwest",
+   "a southwest wind"
+  ]
+ },
+ {
+  "id": "delighted",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "vui mừng; hân hoan",
+  "coll": [
+   "delighted to meet you",
+   "absolutely delighted",
+   "delighted with the results",
+   "delighted to hear the news"
+  ]
+ },
+ {
+  "id": "forecast",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dự báo; bản dự báo",
+  "coll": [
+   "weather forecast",
+   "forecast rain",
+   "sales forecast",
+   "the forecast for tomorrow"
+  ]
+ },
+ {
+  "id": "intend",
+  "pos": [
+   "v"
+  ],
+  "vi": "dự định; có ý định; dành cho",
+  "coll": [
+   "intend to stay",
+   "intended for children",
+   "fully intend to",
+   "as intended"
+  ]
+ },
+ {
+  "id": "lighter",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "bật lửa; nhẹ hơn; sáng màu hơn",
+  "coll": [
+   "cigarette lighter",
+   "lighter fluid",
+   "a lighter shade",
+   "much lighter than before"
+  ]
+ },
+ {
+  "id": "slot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khe, rãnh; khung giờ; vị trí",
+  "coll": [
+   "time slot",
+   "coin slot",
+   "slot machine",
+   "a slot in the schedule"
+  ]
+ },
+ {
+  "id": "surprisingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đáng ngạc nhiên; bất ngờ là",
+  "coll": [
+   "surprisingly good",
+   "not surprisingly",
+   "surprisingly easy",
+   "surprisingly well"
+  ]
+ },
+ {
+  "id": "traffic jam",
+  "pos": [
+   "n"
+  ],
+  "vi": "kẹt xe; tắc đường",
+  "coll": [
+   "stuck in a traffic jam",
+   "cause a traffic jam",
+   "a heavy traffic jam",
+   "avoid traffic jams"
+  ]
+ },
+ {
+  "id": "approve",
+  "pos": [
+   "v"
+  ],
+  "vi": "phê duyệt; tán thành",
+  "coll": [
+   "approve a plan",
+   "approve the budget",
+   "approve of his choice",
+   "officially approved"
+  ]
+ },
+ {
+  "id": "architect",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kiến trúc sư; người kiến tạo",
+  "coll": [
+   "famous architect",
+   "landscape architect",
+   "the architect of the reform",
+   "software architect"
+  ]
+ },
+ {
+  "id": "basin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chậu rửa; lưu vực; bồn địa",
+  "coll": [
+   "wash basin",
+   "river basin",
+   "the Amazon basin",
+   "a basin of water"
+  ]
+ },
+ {
+  "id": "breed",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giống (vật nuôi); sinh sản, nhân giống; gây ra",
+  "coll": [
+   "a rare breed",
+   "a breed of dog",
+   "breed cattle",
+   "familiarity breeds contempt"
+  ]
+ },
+ {
+  "id": "breeding",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "sự nhân giống; sự sinh sản; sự giáo dưỡng",
+  "coll": [
+   "breeding season",
+   "breeding ground",
+   "selective breeding",
+   "breeding program"
+  ]
+ },
+ {
+  "id": "confirmation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xác nhận; giấy xác nhận",
+  "coll": [
+   "confirmation email",
+   "written confirmation",
+   "await confirmation",
+   "confirmation of the booking"
+  ]
+ },
+ {
+  "id": "diameter",
+  "pos": [
+   "n"
+  ],
+  "vi": "đường kính",
+  "coll": [
+   "in diameter",
+   "the diameter of a circle",
+   "a large diameter",
+   "measure the diameter"
+  ]
+ },
+ {
+  "id": "dump",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bãi rác; vứt bỏ, đổ (rác); đá (người yêu)",
+  "coll": [
+   "rubbish dump",
+   "garbage dump",
+   "dump waste",
+   "dump her boyfriend",
+   "toxic waste dump"
+  ]
+ },
+ {
+  "id": "exhausted",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "kiệt sức; cạn kiệt",
+  "coll": [
+   "completely exhausted",
+   "physically exhausted",
+   "exhausted after work",
+   "utterly exhausted"
+  ]
+ },
+ {
+  "id": "fold",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "gấp, gập; nếp gấp; khoanh (tay)",
+  "coll": [
+   "fold the paper",
+   "fold your arms",
+   "fold the clothes",
+   "fold it in half"
+  ]
+ },
+ {
+  "id": "frustrated",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bực bội; nản lòng; thất vọng",
+  "coll": [
+   "feel frustrated",
+   "get frustrated",
+   "frustrated with the delay",
+   "deeply frustrated"
+  ]
+ },
+ {
+  "id": "glorious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "huy hoàng; vẻ vang; rực rỡ",
+  "coll": [
+   "glorious victory",
+   "glorious sunshine",
+   "glorious history",
+   "a glorious day"
+  ]
+ },
+ {
+  "id": "inevitable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không thể tránh khỏi; tất yếu",
+  "coll": [
+   "inevitable consequence",
+   "seem inevitable",
+   "the inevitable result",
+   "accept the inevitable"
+  ]
+ },
+ {
+  "id": "lodge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà nghỉ (núi, săn bắn); đệ (đơn khiếu nại); mắc kẹt",
+  "coll": [
+   "ski lodge",
+   "hunting lodge",
+   "lodge a complaint",
+   "mountain lodge"
+  ]
+ }
+]

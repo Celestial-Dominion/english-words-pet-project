@@ -1,0 +1,402 @@
+{
+  "formation": {
+    "vi": "sự hình thành; đội hình; khối, cấu tạo",
+    "coll": ["the formation of a government", "cloud formation", "rock formation", "fly in formation", "team formation"]
+  },
+  "jury": {
+    "vi": "bồi thẩm đoàn; ban giám khảo",
+    "coll": ["trial by jury", "jury duty", "serve on a jury", "the jury found him guilty", "a jury verdict"]
+  },
+  "universal": {
+    "vi": "phổ quát; chung cho tất cả; toàn cầu",
+    "coll": ["a universal truth", "universal health care", "universal appeal", "universal suffrage", "a universal language"]
+  },
+  "consistent": {
+    "vi": "nhất quán; ổn định; phù hợp với",
+    "coll": ["consistent with the facts", "a consistent approach", "consistent performance", "remain consistent", "consistent results"]
+  },
+  "necessarily": {
+    "vi": "nhất thiết; tất yếu",
+    "coll": ["not necessarily", "does not necessarily mean", "necessarily true", "necessarily follow"]
+  },
+  "partnership": {
+    "vi": "quan hệ đối tác; sự hợp tác; công ty hợp danh",
+    "coll": ["in partnership with", "form a partnership", "a business partnership", "a close partnership", "a partnership agreement"]
+  },
+  "percentage": {
+    "vi": "tỷ lệ phần trăm; phần trăm",
+    "coll": ["a high percentage", "a percentage of the population", "a percentage increase", "what percentage", "a small percentage"]
+  },
+  "rape": {
+    "vi": "hiếp dâm; tội cưỡng hiếp",
+    "coll": ["a rape victim", "attempted rape", "convicted of rape", "date rape", "report a rape"]
+  },
+  "regardless": {
+    "vi": "bất kể; dù sao đi nữa",
+    "coll": ["regardless of age", "regardless of the cost", "carry on regardless", "regardless of the consequences"]
+  },
+  "circuit": {
+    "vi": "mạch điện; vòng, chu trình; đường đua",
+    "coll": ["an electrical circuit", "a short circuit", "a circuit board", "the racing circuit", "circuit training"]
+  },
+  "clothing": {
+    "vi": "quần áo; y phục",
+    "coll": ["protective clothing", "an item of clothing", "warm clothing", "a clothing store", "the clothing industry"]
+  },
+  "divided": {
+    "vi": "bị chia rẽ; được chia thành",
+    "coll": ["a divided nation", "opinion is divided", "divided into groups", "divided loyalties", "deeply divided"]
+  },
+  "province": {
+    "vi": "tỉnh; địa phương; phạm vi chuyên môn",
+    "coll": ["a Canadian province", "the province of Quebec", "provinces and territories", "live in the provinces"]
+  },
+  "recognition": {
+    "vi": "sự công nhận; sự nhận ra",
+    "coll": ["gain recognition", "in recognition of", "facial recognition", "voice recognition", "changed beyond recognition"]
+  },
+  "assessment": {
+    "vi": "sự đánh giá; bài đánh giá",
+    "coll": ["a risk assessment", "a needs assessment", "make an assessment", "continuous assessment", "an initial assessment"]
+  },
+  "extension": {
+    "vi": "sự gia hạn; phần mở rộng; số máy nhánh",
+    "coll": ["an extension of time", "an extension to the house", "hair extensions", "a phone extension", "a file extension"]
+  },
+  "gear": {
+    "vi": "đồ nghề, dụng cụ; số (xe); bánh răng",
+    "coll": ["camping gear", "change gear", "in first gear", "safety gear", "landing gear"]
+  },
+  "pa": {
+    "vi": "bố, ba (thân mật); ông (cách gọi thân mật)",
+    "coll": ["Ma and Pa", "my old pa", "Pa's farm", "ask your pa"]
+  },
+  "sensitive": {
+    "vi": "nhạy cảm; dễ tự ái; tế nhị",
+    "coll": ["a sensitive issue", "sensitive skin", "sensitive information", "sensitive to criticism", "highly sensitive"]
+  },
+  "transition": {
+    "vi": "sự chuyển tiếp; quá trình chuyển đổi",
+    "coll": ["a smooth transition", "a transition period", "the transition to democracy", "make the transition", "a country in transition"]
+  },
+  "acid": {
+    "vi": "axit; chua, chát; chua cay (lời nói)",
+    "coll": ["acid rain", "sulphuric acid", "amino acid", "an acid comment", "the acid test"]
+  },
+  "administrative": {
+    "vi": "hành chính; thuộc quản trị",
+    "coll": ["administrative work", "administrative staff", "administrative costs", "administrative duties", "an administrative assistant"]
+  },
+  "alongside": {
+    "vi": "bên cạnh; cùng với; song song",
+    "coll": ["work alongside", "stand alongside", "alongside the road", "alongside each other", "fight alongside them"]
+  },
+  "gross": {
+    "vi": "tổng, gộp (chưa trừ); kinh tởm; nghiêm trọng",
+    "coll": ["gross income", "gross domestic product", "gross profit", "gross negligence", "that is gross"]
+  },
+  "non-smoking": {
+    "vi": "cấm hút thuốc; không hút thuốc",
+    "coll": ["a non-smoking area", "a non-smoking room", "a non-smoking policy", "a non-smoking flight"]
+  },
+  "penalty": {
+    "vi": "hình phạt; tiền phạt; quả phạt đền",
+    "coll": ["the death penalty", "pay a penalty", "a penalty kick", "impose a penalty", "a penalty clause"]
+  },
+  "publication": {
+    "vi": "ấn phẩm; sự xuất bản; việc công bố",
+    "coll": ["the publication of a book", "a monthly publication", "the publication date", "a scientific publication", "publication of the report"]
+  },
+  "scheduled": {
+    "vi": "đã lên lịch; theo lịch trình",
+    "coll": ["scheduled to begin", "a scheduled flight", "as scheduled", "a scheduled meeting", "scheduled maintenance"]
+  },
+  "assault": {
+    "vi": "hành hung, tấn công; sự công kích",
+    "coll": ["sexual assault", "assault charges", "an assault on the city", "an assault rifle", "physical assault"]
+  },
+  "concrete": {
+    "vi": "cụ thể, xác thực; bê tông",
+    "coll": ["concrete evidence", "concrete proposals", "reinforced concrete", "a concrete floor", "concrete examples"]
+  },
+  "legend": {
+    "vi": "truyền thuyết; huyền thoại (người); chú giải bản đồ",
+    "coll": ["an urban legend", "a living legend", "according to legend", "legend has it", "a rock legend"]
+  },
+  "procedure": {
+    "vi": "thủ tục; quy trình; ca phẫu thuật",
+    "coll": ["standard procedure", "follow the procedure", "a surgical procedure", "emergency procedure", "the correct procedure"]
+  },
+  "replacement": {
+    "vi": "sự thay thế; người (vật) thay thế",
+    "coll": ["find a replacement", "a hip replacement", "replacement parts", "a replacement bus", "replacement cost"]
+  },
+  "semi-final": {
+    "vi": "trận bán kết; vòng bán kết",
+    "coll": ["reach the semi-final", "a semi-final match", "the World Cup semi-final", "lose in the semi-final"]
+  },
+  "tag": {
+    "vi": "nhãn, thẻ; gắn thẻ; trò đuổi bắt",
+    "coll": ["a price tag", "a name tag", "tag along", "play tag", "tag someone in a photo"]
+  },
+  "thread": {
+    "vi": "sợi chỉ; mạch, luồng ý; chuỗi bài đăng",
+    "coll": ["needle and thread", "a common thread", "lose the thread", "a Twitter thread", "thread a needle"]
+  },
+  "wage": {
+    "vi": "tiền lương (theo giờ, tuần); tiến hành (chiến tranh)",
+    "coll": ["the minimum wage", "a wage increase", "an hourly wage", "wage war", "a living wage"]
+  },
+  "label": {
+    "vi": "nhãn mác; dán nhãn; hãng đĩa",
+    "coll": ["a warning label", "read the label", "a designer label", "a record label", "label someone as lazy"]
+  },
+  "output": {
+    "vi": "sản lượng; đầu ra; kết quả tạo ra",
+    "coll": ["increase output", "industrial output", "output data", "total output", "energy output"]
+  },
+  "pitch": {
+    "vi": "sân bóng; cao độ (âm thanh); lời chào hàng; ném",
+    "coll": ["a football pitch", "a sales pitch", "perfect pitch", "pitch a tent", "pitch black"]
+  },
+  "rear": {
+    "vi": "phía sau; nuôi dạy, nuôi nấng; chồm lên",
+    "coll": ["the rear of the building", "a rear window", "the rear wheel", "rear a child", "at the rear"]
+  },
+  "welfare": {
+    "vi": "phúc lợi; sự an sinh; trợ cấp xã hội",
+    "coll": ["child welfare", "social welfare", "the welfare state", "welfare benefits", "live on welfare"]
+  },
+  "essentially": {
+    "vi": "về cơ bản; thực chất là",
+    "coll": ["essentially the same", "essentially correct", "essentially unchanged", "essentially a matter of money"]
+  },
+  "hunting": {
+    "vi": "sự săn bắn; việc tìm kiếm",
+    "coll": ["go hunting", "fox hunting", "job hunting", "house hunting", "the hunting season"]
+  },
+  "odd": {
+    "vi": "kỳ lạ; lẻ (số); lẻ tẻ, thỉnh thoảng",
+    "coll": ["an odd number", "an odd thing to say", "odd jobs", "odd socks", "the odd one out"]
+  },
+  "racist": {
+    "vi": "phân biệt chủng tộc; kẻ kỳ thị chủng tộc",
+    "coll": ["racist remarks", "racist abuse", "racist attitudes", "a racist attack", "racist language"]
+  },
+  "sexy": {
+    "vi": "gợi cảm; quyến rũ; hấp dẫn",
+    "coll": ["look sexy", "a sexy dress", "a sexy voice", "the sexiest man alive", "feel sexy"]
+  },
+  "suck": {
+    "vi": "mút, hút; dở tệ, chán (suồng sã)",
+    "coll": ["suck a sweet", "this sucks", "suck it up", "suck up to the boss", "suck blood"]
+  },
+  "walker": {
+    "vi": "người đi bộ; khung tập đi",
+    "coll": ["a keen walker", "a baby walker", "a dog walker", "a hill walker"]
+  },
+  "boost": {
+    "vi": "sự thúc đẩy; tăng cường, đẩy mạnh",
+    "coll": ["boost the economy", "a boost in sales", "give a boost", "boost morale", "boost confidence"]
+  },
+  "crack": {
+    "vi": "vết nứt; nứt, vỡ; tiếng rắc",
+    "coll": ["a crack in the wall", "crack a joke", "crack down on crime", "crack an egg", "crack under pressure"]
+  },
+  "deck": {
+    "vi": "boong tàu; sàn hiên; bộ bài",
+    "coll": ["the ship's deck", "on deck", "a deck of cards", "a sun deck", "a deck chair"]
+  },
+  "evolution": {
+    "vi": "sự tiến hóa; sự phát triển dần",
+    "coll": ["the theory of evolution", "human evolution", "the evolution of language", "the evolution of species"]
+  },
+  "institution": {
+    "vi": "tổ chức, cơ quan; thiết chế xã hội; tập tục lâu đời",
+    "coll": ["a financial institution", "an educational institution", "the institution of marriage", "a mental institution", "a public institution"]
+  },
+  "memorial": {
+    "vi": "đài tưởng niệm; lễ tưởng niệm; để tưởng nhớ",
+    "coll": ["a war memorial", "a memorial service", "a memorial to the victims", "Memorial Day"]
+  },
+  "priority": {
+    "vi": "ưu tiên; việc cần làm trước",
+    "coll": ["a top priority", "give priority to", "set priorities", "a high priority", "a priority list"]
+  },
+  "whereas": {
+    "vi": "trong khi đó; ngược lại thì",
+    "coll": ["whereas others disagree", "whereas in the past", "whereas now", "whereas he prefers tea"]
+  },
+  "abandoned": {
+    "vi": "bị bỏ hoang; bị bỏ rơi",
+    "coll": ["an abandoned building", "an abandoned car", "an abandoned child", "an abandoned village", "left abandoned"]
+  },
+  "alliance": {
+    "vi": "liên minh; sự liên kết",
+    "coll": ["form an alliance", "a military alliance", "a strategic alliance", "in alliance with", "the NATO alliance"]
+  },
+  "bid": {
+    "vi": "ra giá, đấu giá; nỗ lực giành; hồ sơ thầu",
+    "coll": ["make a bid", "the highest bid", "a bid for power", "submit a bid", "bid farewell"]
+  },
+  "convinced": {
+    "vi": "tin chắc; bị thuyết phục",
+    "coll": ["firmly convinced", "convinced that he is right", "convinced of his innocence", "not convinced"]
+  },
+  "decent": {
+    "vi": "tử tế; đàng hoàng; khá tốt",
+    "coll": ["a decent person", "a decent meal", "decent wages", "do the decent thing", "a decent standard of living"]
+  },
+  "elite": {
+    "vi": "giới tinh hoa; ưu tú, tinh nhuệ",
+    "coll": ["the ruling elite", "elite athletes", "the political elite", "elite universities", "an elite group"]
+  },
+  "landing": {
+    "vi": "sự hạ cánh; chiếu nghỉ cầu thang; cuộc đổ bộ",
+    "coll": ["a safe landing", "an emergency landing", "a crash landing", "the moon landing", "landing gear"]
+  },
+  "rush hour": {
+    "vi": "giờ cao điểm",
+    "coll": ["in the rush hour", "rush hour traffic", "the morning rush hour", "avoid the rush hour"]
+  },
+  "idiot": {
+    "vi": "thằng ngốc; đồ ngu",
+    "coll": ["a complete idiot", "look like an idiot", "you idiot", "act like an idiot", "the village idiot"]
+  },
+  "lifetime": {
+    "vi": "đời người; cả cuộc đời",
+    "coll": ["in his lifetime", "the chance of a lifetime", "a lifetime of experience", "a lifetime guarantee", "once in a lifetime"]
+  },
+  "mortgage": {
+    "vi": "khoản vay thế chấp; thế chấp nhà đất",
+    "coll": ["take out a mortgage", "pay off the mortgage", "mortgage rates", "monthly mortgage payments", "apply for a mortgage"]
+  },
+  "potentially": {
+    "vi": "có khả năng; tiềm tàng",
+    "coll": ["potentially dangerous", "potentially harmful", "potentially serious", "potentially fatal"]
+  },
+  "translation": {
+    "vi": "bản dịch; việc dịch thuật",
+    "coll": ["an English translation", "a literal translation", "lost in translation", "a translation service", "simultaneous translation"]
+  },
+  "enterprise": {
+    "vi": "doanh nghiệp; công cuộc lớn; tinh thần dám làm",
+    "coll": ["a private enterprise", "small enterprises", "free enterprise", "a risky enterprise", "enterprise culture"]
+  },
+  "mill": {
+    "vi": "nhà máy; cối xay; xay, nghiền",
+    "coll": ["a cotton mill", "a paper mill", "a flour mill", "run-of-the-mill", "mill the grain"]
+  },
+  "spin": {
+    "vi": "quay tròn; xoay; bóp méo thông tin",
+    "coll": ["spin around", "spin a wheel", "put a spin on the story", "spin out of control", "a spin doctor"]
+  },
+  "valid": {
+    "vi": "hợp lệ; còn giá trị; xác đáng",
+    "coll": ["a valid passport", "a valid point", "valid until December", "a valid reason", "a valid argument"]
+  },
+  "vital": {
+    "vi": "thiết yếu; sống còn; cực kỳ quan trọng",
+    "coll": ["a vital role", "of vital importance", "vital organs", "vital information", "absolutely vital"]
+  },
+  "commerce": {
+    "vi": "thương mại; việc buôn bán",
+    "coll": ["international commerce", "the chamber of commerce", "electronic commerce", "commerce and industry"]
+  },
+  "creek": {
+    "vi": "con lạch; suối nhỏ",
+    "coll": ["a small creek", "up the creek", "cross the creek", "the creek bed"]
+  },
+  "fraud": {
+    "vi": "gian lận; sự lừa đảo; kẻ lừa đảo",
+    "coll": ["credit card fraud", "commit fraud", "tax fraud", "insurance fraud", "a fraud investigation"]
+  },
+  "genuine": {
+    "vi": "thật, chính hãng; chân thành",
+    "coll": ["genuine leather", "a genuine interest", "genuine concern", "the genuine article", "a genuine antique"]
+  },
+  "hook": {
+    "vi": "cái móc; lưỡi câu; móc vào",
+    "coll": ["a coat hook", "a fish hook", "off the hook", "hook a fish", "hook up the cables"]
+  },
+  "programming": {
+    "vi": "lập trình; việc xếp lịch phát sóng",
+    "coll": ["computer programming", "a programming language", "television programming", "programming skills"]
+  },
+  "reverse": {
+    "vi": "đảo ngược; lùi xe; số lùi",
+    "coll": ["reverse a decision", "in reverse", "reverse gear", "reverse the order", "reverse the charges"]
+  },
+  "self-confident": {
+    "vi": "tự tin",
+    "coll": ["a self-confident young woman", "appear self-confident", "become more self-confident", "a self-confident manner"]
+  },
+  "comprehensive": {
+    "vi": "toàn diện; bao quát",
+    "coll": ["a comprehensive guide", "comprehensive insurance", "a comprehensive review", "a comprehensive study", "a comprehensive school"]
+  },
+  "consent": {
+    "vi": "sự đồng ý; đồng ý, ưng thuận",
+    "coll": ["give consent", "informed consent", "without his consent", "parental consent", "the age of consent"]
+  },
+  "divorce": {
+    "vi": "sự ly hôn; ly dị",
+    "coll": ["get a divorce", "file for divorce", "the divorce rate", "a divorce settlement", "divorce his wife"]
+  },
+  "fate": {
+    "vi": "số phận; định mệnh; kết cục",
+    "coll": ["seal his fate", "a twist of fate", "decide the fate of", "leave it to fate", "a cruel fate"]
+  },
+  "headquarters": {
+    "vi": "trụ sở chính; tổng hành dinh",
+    "coll": ["company headquarters", "police headquarters", "move its headquarters", "headquarters staff", "national headquarters"]
+  },
+  "heritage": {
+    "vi": "di sản; truyền thống cha ông",
+    "coll": ["cultural heritage", "a World Heritage Site", "national heritage", "a rich heritage", "a heritage site"]
+  },
+  "initiative": {
+    "vi": "sáng kiến; sự chủ động; quyền chủ động",
+    "coll": ["take the initiative", "a new initiative", "a peace initiative", "show initiative", "on his own initiative"]
+  },
+  "residence": {
+    "vi": "nơi cư trú; dinh thự; sự cư trú",
+    "coll": ["a place of residence", "permanent residence", "an official residence", "a residence permit", "a hall of residence"]
+  },
+  "salary": {
+    "vi": "lương tháng; tiền lương",
+    "coll": ["an annual salary", "a high salary", "a salary increase", "a basic salary", "earn a salary"]
+  },
+  "ambassador": {
+    "vi": "đại sứ; người đại diện",
+    "coll": ["the British ambassador", "the ambassador to France", "a goodwill ambassador", "appoint an ambassador", "a brand ambassador"]
+  },
+  "corruption": {
+    "vi": "tham nhũng; sự thối nát; sự hỏng dữ liệu",
+    "coll": ["political corruption", "fight corruption", "a corruption scandal", "widespread corruption", "accused of corruption"]
+  },
+  "exception": {
+    "vi": "ngoại lệ; trường hợp ngoại lệ",
+    "coll": ["with the exception of", "make an exception", "an exception to the rule", "without exception", "a notable exception"]
+  },
+  "input": {
+    "vi": "đầu vào; ý kiến đóng góp; nhập dữ liệu",
+    "coll": ["input data", "valuable input", "user input", "input costs", "provide input"]
+  },
+  "lyrics": {
+    "vi": "lời bài hát; ca từ",
+    "coll": ["song lyrics", "write the lyrics", "the lyrics of a song", "memorize the lyrics"]
+  },
+  "outcome": {
+    "vi": "kết quả; kết cục",
+    "coll": ["the final outcome", "a positive outcome", "the outcome of the election", "affect the outcome", "possible outcomes"]
+  },
+  "wolf": {
+    "vi": "chó sói; kẻ háo sắc",
+    "coll": ["a lone wolf", "a wolf pack", "cry wolf", "a wolf in sheep's clothing", "a grey wolf"]
+  },
+  "commonwealth": {
+    "vi": "khối thịnh vượng chung; cộng đồng quốc gia",
+    "coll": ["the Commonwealth of Nations", "the Commonwealth Games", "Commonwealth countries", "the British Commonwealth"]
+  }
+}

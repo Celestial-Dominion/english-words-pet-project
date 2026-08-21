@@ -1,0 +1,162 @@
+[
+ {
+  "id": "news-volkswagen-engulfed-by-diesel-emissions-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Volkswagen_engulfed_by_diesel_emissions_scandal",
+  "title_en": "Volkswagen engulfed by diesel emissions scandal",
+  "sentences": [
+   "Tuesday, September 22, 2015 Chief Executive of Volkswagen Martin Winterkorn issued on Sunday a public apology and announced an outside inquiry would be carried out, after the company became engulfed in a scandal about diesel emissions tests.",
+   "Over the weekend there were damaging revelations that the car manufacturer has been using illegal software to enable diesel cars to cheat on mandatory emissions tests.",
+   "An investigation into alleged breaches of environmental law was originally initiated on the advice of the International Council on Clean Transportation, a European NGO.",
+   "The United States Environmental Protection Agency requested tests be carried out by West Virginia University, where the secret software was discovered.",
+   "Volkswagen has suffered a significant drop of almost a fifth in the value of its shares.",
+   "There have been knock-on effects for other car manufacturers who have also seen their share values fall after suggestions that the scandal could extend much further than just Volkswagen.",
+   "The company will have to foot the bill for the recall of close to 500,000 VW and Audi cars.",
+   "There is also the possibility of paying federal fines of up to US$18 billion dollars because the US Clean Air Act sets a maximum fine of US$37,500 for each vehicle that contravenes the requirements of the Act.",
+   "The software, known as a \"defeat device\", enabled cars to identify when they were being tested and to switch on the emission control system.",
+   "The devices may have been adding urea to the car exhaust because that would reduce the amount of nitrogen dioxide.",
+   "The car would release a fraction of the nitrogen oxide compared to when they were being driven normally.",
+   "Emissions of nitrogen oxide contribute to smog and are thought to have caused a rise in respiratory illnesses like asthma."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-boundary-value-problem",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Boundary_value_problem",
+  "title_en": "Boundary value problem",
+  "sentences": [
+   "In mathematics, a boundary value problem is a problem to solve a set of differential equations.",
+   "In addition, there are a set of constraints which are called the boundary constraints.",
+   "A solution must both solve the differential equations, and the boundary constraints.",
+   "Boundary value problems are common in many fields of science.",
+   "Boundary value problems can be found in several branches of physics as any physical differential equation will have them.",
+   "Problems involving the wave equation, for example the determination of normal modes, are often stated as boundary value problems.",
+   "A large class of important boundary value problems are the Sturm–Liouville problems.",
+   "The analysis of these problems involves the eigenfunctions of a differential operator.",
+   "To be useful in applications, a boundary value problem should be well posed.",
+   "This means that given the input to the problem there exists a unique solution, which depends continuously on the input.",
+   "Much theoretical work in the field of partial differential equations is devoted to proving that boundary value problems arising from scientific and engineering applications are in fact well-posed.",
+   "Among the earliest boundary value problems to be studied is the Dirichlet problem, of finding the harmonic functions (solutions to Laplace's equation); the solution was given by the Dirichlet's principle."
+  ]
+ },
+ {
+  "id": "wiki-fingerprint",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Fingerprint",
+  "title_en": "Fingerprint",
+  "sentences": [
+   "A fingerprint is a trace of a human finger left on a surface.",
+   "Human fingers have small structures on them (like mountains and valleys).",
+   "These structures are unique in every human; they can be used as means of identification.",
+   "There are many different ways to take fingerprints.",
+   "Forensic scientists use these techniques to identify a person.",
+   "Electronic fingerprint scanners became widespread in the early 21st century."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-facebook-down-for-upgrades-multiple-blog",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Facebook_down_for_%22upgrades%22%3B_multiple_blogs_suggest_site_was_hacked",
+  "title_en": "Facebook down for \"upgrades\"; multiple blogs suggest site was hacked",
+  "sentences": [
+   "Tuesday, July 31, 2007 Popular social networking website Facebook went down for unknown upgrades, possibly to circumvent multiple holes that were published in a white paper earlier.",
+   "From roughly 1:00 to 4:15 pm ET, users reported the site was down.",
+   "Blogs have speculated it may be simply a server upgrade, or it may be new features.",
+   "One web development blogger has even raised the theory that the site was hacked, with the login box showing multiple random email addresses, through \"<input>\" coding.",
+   "Another user replied to this posting, saying that they were even able to read the other, random user's inbox.",
+   "Both a blogger who works at a computing company's office in Johannesburg, South Africa and a Norwegian news outlet reported similar troubles.",
+   "Many blogs received comments from people with similar circumstances, worldwide.",
+   "A white paper by Adrienne Felt, posted on July 27, 2007, explained step-by-step how to use an exploit to hijack a user's account.",
+   "The white paper was then partially censored by the author, until the vulnerability has been fixed by Facebook.",
+   "Regardless of whether the change was prompted by this paper, both the XSS hole and problem with forms described by the author were fixed during the upgrade.",
+   "The site read \"We're upgrading.",
+   "We'll be back soon.\" with no further explanation.",
+   "This is the first known global outage for the site.",
+   "This comes as a rival site, ConnectU, has filed a lawsuit against Facebook founder Mark Zuckerberg for allegedly stealing the idea and the code.",
+   "The hearing is scheduled for tomorrow.",
+   "Also on Wednesday, the Black Hat Briefings computer security conference begins."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-ethernet",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Ethernet",
+  "title_en": "Ethernet",
+  "sentences": [
+   "Ethernet is a way of connecting computers together in a local area network or LAN.",
+   "It has been the most widely used method of linking computers together in LANs since the 1990s.",
+   "The basic idea of its design is that multiple computers have access to it and can send data at any time.",
+   "This is comparatively easy to engineer.",
+   "If two computers send data at the same time, a collision will occur.",
+   "When this happens, the data sent is not usable.",
+   "In general, both computers will stop sending, and wait a random amount of time, before they try again.",
+   "A special protocol was developed to deal with such problems.",
+   "It is called Carrier sense multiple access with collision detection or CSMA/CD."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-british-military-secrets-leaked-on-socia",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/British_military_secrets_leaked_on_social_networking_sites",
+  "title_en": "British military secrets leaked on social networking sites",
+  "sentences": [
+   "Tuesday, January 26, 2010 Britain's Ministry of Defence (MoD) has admitted sixteen instances of sensitive information being leaked on social networking websites in the past eighteen months.",
+   "Ten employees have been disciplined for misuse of the sites.",
+   "The revelations follow a Freedom of Information request by Lewis PR and computer security company F-Secure.",
+   "The MoD would not comment on what disciplinary action was taken, or whether the leaks involved operational information.",
+   "The ministry's guidelines state that staff must obtain clearance to release any information that is related to sensitive, controversial or political matters, or military operations.",
+   "\"It's worrying that employees in sensitive positions have been sharing confidential information via Twitter and other means,\" said Mikko Hypponen, of F-Secure.",
+   "\"Loose Tweets can cost lives.” According to Lewis PR, computers on the main MoD networks are blocked from visiting social networking sites.",
+   "However there are a small number within the department which have unrestricted Internet access.",
+   "Some personnel in Afghanistan and Iraq also have access through internet cafés on military bases.",
+   "The ministry's \"online engagement guidelines\", released in August last year, recognise the importance of social media such as Facebook for personnel keeping in touch with friends and family.",
+   "According to the document: \"Service and MOD civilian personnel are encouraged to talk about what they do, but within certain limits to protect security, reputation and privacy.\""
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-pakistani-punjab-police-website-hacked",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Pakistani_Punjab_police_website_hacked",
+  "title_en": "Pakistani Punjab police website hacked",
+  "sentences": [
+   "Sunday, July 11, 2010 An official website belonging to the Punjab Police of Pakistan was hacked on Friday, a private TV channel reported.",
+   "The hackers left a message on the homepage in which they asked the Pakistani government to \"stop proxy war against India.\" The messages of the chief minister and provincial inspector general were also erased from the site.",
+   "Although the hackers have not been identified, Pakistani sources say the slogan left on the site points to Indian origins; cyber security experts confirmed this and added that 150 Pakistani websites were hacked in the last three days.",
+   "The Punjab police website has been hacked twice recently; in one incident, the official emblem was replaced with the logo of the Indian Punjab Police.",
+   "A police spokesman stated they would take legal action against an Islamabad-based company responsible for the website's security as well as stop the use of its services from July 31.",
+   "“We are also going to give the domain hosting of the website and its maintenance, including the data update to the Punjab Information Technology Board.” The website has temporarily been shut down."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-hyper-magazine",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Hyper_(magazine)",
+  "title_en": "Hyper (magazine)",
+  "sentences": [
+   "Hyper was an Australian monthly magazine that focused on video games, anime, and other media.",
+   "It ran from 1993 until 2019, making it the longest running gaming magazine in Australia.",
+   "The magazine was produced in Strawberry Hills, New South Wales.",
+   "The first issue, released in December 1993, had Chun-Li from Street Fighter on the cover and spotlighted the upcoming the 3DO.",
+   "In 2014, Hyper would switch to a quarterly publication format.",
+   "In 2018, Hyper was bought by Future plc.",
+   "The numbers of copies in circulation and advertising for the magazine was the lowest it had been in 2018.",
+   "Main editor Daniel Wilks would leave the magazine for good in 2018 and David Hollingworth would take over in the position.",
+   "The last issue was in January 2002, with the main feature being Nintendo themed and had Samus Aran, Captain Falcon, and Ike on the cover."
+  ],
+  "topic": "it"
+ }
+]

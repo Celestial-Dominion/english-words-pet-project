@@ -1,0 +1,805 @@
+[
+ {
+  "id": "trifle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuyện vặt vãnh; món bánh trifle; đùa cợt xem thường",
+  "coll": [
+   "a mere trifle",
+   "a trifle annoyed",
+   "not to be trifled with",
+   "trifle with someone"
+  ]
+ },
+ {
+  "id": "subsidize",
+  "pos": [
+   "v"
+  ],
+  "vi": "trợ cấp; bao cấp; tài trợ",
+  "coll": [
+   "subsidize housing",
+   "heavily subsidized",
+   "subsidize farmers",
+   "subsidize the cost"
+  ]
+ },
+ {
+  "id": "milieu",
+  "pos": [
+   "n"
+  ],
+  "vi": "môi trường xung quanh; giới, tầng lớp",
+  "coll": [
+   "a social milieu",
+   "the cultural milieu",
+   "his natural milieu",
+   "the political milieu"
+  ]
+ },
+ {
+  "id": "recluse",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "người ở ẩn; kẻ sống tách biệt",
+  "coll": [
+   "become a recluse",
+   "a virtual recluse",
+   "live as a recluse",
+   "a reclusive hermit"
+  ]
+ },
+ {
+  "id": "stipulation",
+  "pos": [
+   "n"
+  ],
+  "vi": "điều kiện quy định; điều khoản ràng buộc",
+  "coll": [
+   "on one stipulation",
+   "a legal stipulation",
+   "with the stipulation that",
+   "meet the stipulation"
+  ]
+ },
+ {
+  "id": "minefield",
+  "pos": [
+   "n"
+  ],
+  "vi": "bãi mìn; vấn đề đầy rủi ro",
+  "coll": [
+   "a political minefield",
+   "a legal minefield",
+   "clear a minefield",
+   "navigate a minefield"
+  ]
+ },
+ {
+  "id": "euphemism",
+  "pos": [
+   "n"
+  ],
+  "vi": "cách nói giảm nói tránh; uyển ngữ",
+  "coll": [
+   "a euphemism for",
+   "use a euphemism",
+   "a polite euphemism",
+   "a common euphemism"
+  ]
+ },
+ {
+  "id": "reverb",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiếng vọng, độ vang; hiệu ứng vang",
+  "coll": [
+   "add reverb",
+   "heavy reverb",
+   "a reverb effect",
+   "natural reverb"
+  ]
+ },
+ {
+  "id": "unequivocal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dứt khoát; rõ ràng, không mập mờ",
+  "coll": [
+   "unequivocal support",
+   "an unequivocal answer",
+   "unequivocal evidence",
+   "unequivocal condemnation"
+  ]
+ },
+ {
+  "id": "accrue",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tích lũy dần; dồn lại; phát sinh dần",
+  "coll": [
+   "accrue interest",
+   "benefits accrue",
+   "accrue over time",
+   "accrued expenses"
+  ]
+ },
+ {
+  "id": "chronologically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo trình tự thời gian",
+  "coll": [
+   "arranged chronologically",
+   "listed chronologically",
+   "chronologically ordered",
+   "proceed chronologically"
+  ]
+ },
+ {
+  "id": "opulent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "xa hoa; lộng lẫy; giàu sang",
+  "coll": [
+   "an opulent lifestyle",
+   "opulent surroundings",
+   "an opulent palace",
+   "opulent decor"
+  ]
+ },
+ {
+  "id": "ferocity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hung tợn; sự dữ dội; tính hung dữ",
+  "coll": [
+   "with ferocity",
+   "the ferocity of the attack",
+   "sheer ferocity",
+   "unexpected ferocity"
+  ]
+ },
+ {
+  "id": "recitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đọc thuộc lòng; bài ngâm đọc; buổi học thảo luận",
+  "coll": [
+   "a recitation of facts",
+   "poetry recitation",
+   "a long recitation",
+   "recitation of the poem"
+  ]
+ },
+ {
+  "id": "stratosphere",
+  "pos": [
+   "n"
+  ],
+  "vi": "tầng bình lưu; đỉnh cao chót vót",
+  "coll": [
+   "in the stratosphere",
+   "the upper stratosphere",
+   "rise into the stratosphere",
+   "the ozone in the stratosphere"
+  ]
+ },
+ {
+  "id": "posturing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự làm bộ làm tịch; sự ra vẻ; điệu bộ phô trương",
+  "coll": [
+   "political posturing",
+   "mere posturing",
+   "empty posturing",
+   "public posturing"
+  ]
+ },
+ {
+  "id": "innuendo",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lời bóng gió; ám chỉ khiếm nhã",
+  "coll": [
+   "sexual innuendo",
+   "full of innuendo",
+   "a sly innuendo",
+   "innuendo and gossip"
+  ]
+ },
+ {
+  "id": "magpie",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chim ác là; người hay tha nhặt lặt vặt",
+  "coll": [
+   "a chattering magpie",
+   "like a magpie",
+   "magpie collector",
+   "a magpie's nest"
+  ]
+ },
+ {
+  "id": "interrogate",
+  "pos": [
+   "v"
+  ],
+  "vi": "thẩm vấn; tra hỏi; truy vấn dữ liệu",
+  "coll": [
+   "interrogate a suspect",
+   "interrogate a witness",
+   "interrogate the data",
+   "harshly interrogate"
+  ]
+ },
+ {
+  "id": "torrential",
+  "pos": [
+   "adj"
+  ],
+  "vi": "như trút nước; xối xả; ào ạt",
+  "coll": [
+   "torrential rain",
+   "torrential downpour",
+   "torrential flooding",
+   "torrential storms"
+  ]
+ },
+ {
+  "id": "virtuoso",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bậc thầy điêu luyện; nghệ sĩ bậc thầy; điêu luyện",
+  "coll": [
+   "a piano virtuoso",
+   "a virtuoso performance",
+   "a guitar virtuoso",
+   "virtuoso technique"
+  ]
+ },
+ {
+  "id": "instantaneously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngay tức khắc; tức thì",
+  "coll": [
+   "react instantaneously",
+   "happen instantaneously",
+   "almost instantaneously",
+   "transmitted instantaneously"
+  ]
+ },
+ {
+  "id": "fluctuation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự dao động; sự lên xuống thất thường",
+  "coll": [
+   "price fluctuations",
+   "wild fluctuations",
+   "seasonal fluctuation",
+   "fluctuations in demand"
+  ]
+ },
+ {
+  "id": "exorcism",
+  "pos": [
+   "n"
+  ],
+  "vi": "lễ trừ tà; sự trừ quỷ",
+  "coll": [
+   "perform an exorcism",
+   "an exorcism ritual",
+   "undergo an exorcism",
+   "the rite of exorcism"
+  ]
+ },
+ {
+  "id": "divination",
+  "pos": [
+   "n"
+  ],
+  "vi": "thuật bói toán; sự tiên tri",
+  "coll": [
+   "the art of divination",
+   "practise divination",
+   "divination rituals",
+   "a form of divination"
+  ]
+ },
+ {
+  "id": "fabled",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "huyền thoại; lừng danh trong truyền thuyết",
+  "coll": [
+   "the fabled city",
+   "a fabled hero",
+   "fabled beasts",
+   "the fabled treasure"
+  ]
+ },
+ {
+  "id": "fabricate",
+  "pos": [
+   "v"
+  ],
+  "vi": "bịa đặt; chế tạo, gia công",
+  "coll": [
+   "fabricate evidence",
+   "fabricate a story",
+   "fabricate parts",
+   "entirely fabricated"
+  ]
+ },
+ {
+  "id": "locomotion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự di chuyển; khả năng vận động",
+  "coll": [
+   "means of locomotion",
+   "bipedal locomotion",
+   "animal locomotion",
+   "the power of locomotion"
+  ]
+ },
+ {
+  "id": "tactically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt chiến thuật; một cách khôn khéo",
+  "coll": [
+   "tactically astute",
+   "vote tactically",
+   "tactically sound",
+   "tactically flexible"
+  ]
+ },
+ {
+  "id": "hapless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "xấu số; kém may mắn; tội nghiệp",
+  "coll": [
+   "a hapless victim",
+   "the hapless driver",
+   "hapless passengers",
+   "a hapless attempt"
+  ]
+ },
+ {
+  "id": "archetypal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "điển hình mẫu mực; mang tính nguyên mẫu",
+  "coll": [
+   "the archetypal hero",
+   "an archetypal example",
+   "archetypal images",
+   "the archetypal figure"
+  ]
+ },
+ {
+  "id": "disparaging",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "chê bai; xem thường; miệt thị",
+  "coll": [
+   "disparaging remarks",
+   "disparaging comments",
+   "a disparaging tone",
+   "disparaging about"
+  ]
+ },
+ {
+  "id": "cinematographer",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà quay phim; giám đốc hình ảnh",
+  "coll": [
+   "an award-winning cinematographer",
+   "the film's cinematographer",
+   "director of photography and cinematographer",
+   "work as a cinematographer"
+  ]
+ },
+ {
+  "id": "sandwiched",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bị kẹp giữa; chen giữa",
+  "coll": [
+   "sandwiched between",
+   "sandwiched in the middle",
+   "sandwiched together",
+   "sandwiched between meetings"
+  ]
+ },
+ {
+  "id": "paradoxical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nghịch lý; mâu thuẫn tự thân",
+  "coll": [
+   "a paradoxical situation",
+   "seemingly paradoxical",
+   "a paradoxical effect",
+   "paradoxical results"
+  ]
+ },
+ {
+  "id": "attuned",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nhạy bén với; bắt nhịp được; hòa hợp",
+  "coll": [
+   "attuned to the needs",
+   "finely attuned",
+   "well attuned",
+   "attuned to changes"
+  ]
+ },
+ {
+  "id": "preoccupation",
+  "pos": [
+   "n"
+  ],
+  "vi": "mối bận tâm; sự ám ảnh trong đầu",
+  "coll": [
+   "a preoccupation with",
+   "the main preoccupation",
+   "an obsessive preoccupation",
+   "a growing preoccupation"
+  ]
+ },
+ {
+  "id": "gravitate",
+  "pos": [
+   "v"
+  ],
+  "vi": "bị hút về phía; ngả về; hướng tới",
+  "coll": [
+   "gravitate towards",
+   "naturally gravitate",
+   "gravitate to the city",
+   "gravitate around"
+  ]
+ },
+ {
+  "id": "indignant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phẫn nộ; bất bình",
+  "coll": [
+   "indignant at the suggestion",
+   "become indignant",
+   "an indignant response",
+   "highly indignant"
+  ]
+ },
+ {
+  "id": "precocious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "sớm phát triển; khôn trước tuổi",
+  "coll": [
+   "a precocious child",
+   "precocious talent",
+   "precocious ability",
+   "a precocious reader"
+  ]
+ },
+ {
+  "id": "depravity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đồi bại; sự suy đồi đạo đức",
+  "coll": [
+   "moral depravity",
+   "human depravity",
+   "utter depravity",
+   "a life of depravity"
+  ]
+ },
+ {
+  "id": "allegorical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mang tính ẩn dụ; theo lối phúng dụ",
+  "coll": [
+   "an allegorical tale",
+   "allegorical meaning",
+   "allegorical figures",
+   "an allegorical reading"
+  ]
+ },
+ {
+  "id": "spontaneity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tự phát; tính ngẫu hứng",
+  "coll": [
+   "a sense of spontaneity",
+   "lose spontaneity",
+   "natural spontaneity",
+   "spontaneity and freedom"
+  ]
+ },
+ {
+  "id": "euphoric",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lâng lâng sung sướng; ngất ngây",
+  "coll": [
+   "a euphoric mood",
+   "feel euphoric",
+   "euphoric crowds",
+   "a euphoric state"
+  ]
+ },
+ {
+  "id": "brevity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ngắn gọn; tính súc tích; sự ngắn ngủi",
+  "coll": [
+   "for the sake of brevity",
+   "brevity and clarity",
+   "the brevity of life",
+   "admirable brevity"
+  ]
+ },
+ {
+  "id": "unnerving",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "gây bất an; làm rợn người; khiến mất bình tĩnh",
+  "coll": [
+   "an unnerving experience",
+   "unnerving silence",
+   "deeply unnerving",
+   "an unnerving sight"
+  ]
+ },
+ {
+  "id": "maliciously",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hiểm độc; ác ý; cố tình hại người",
+  "coll": [
+   "maliciously damaged",
+   "act maliciously",
+   "maliciously spread",
+   "maliciously false"
+  ]
+ },
+ {
+  "id": "romp",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nô đùa; thắng dễ dàng; cuộc vui nhộn",
+  "coll": [
+   "romp around",
+   "romp to victory",
+   "romp home",
+   "a comic romp"
+  ]
+ },
+ {
+  "id": "eccentricity",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính lập dị; nét kỳ quặc; độ lệch tâm",
+  "coll": [
+   "personal eccentricity",
+   "charming eccentricity",
+   "orbital eccentricity",
+   "his many eccentricities"
+  ]
+ },
+ {
+  "id": "menial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thấp kém, tay chân; công việc hèn mọn",
+  "coll": [
+   "menial work",
+   "a menial job",
+   "menial tasks",
+   "menial labour"
+  ]
+ },
+ {
+  "id": "painstakingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tỉ mỉ công phu; dày công",
+  "coll": [
+   "painstakingly restored",
+   "painstakingly researched",
+   "painstakingly slow",
+   "painstakingly assembled"
+  ]
+ },
+ {
+  "id": "lyricist",
+  "pos": [
+   "n"
+  ],
+  "vi": "người viết lời bài hát",
+  "coll": [
+   "a talented lyricist",
+   "composer and lyricist",
+   "the lyricist behind",
+   "a gifted lyricist"
+  ]
+ },
+ {
+  "id": "opacity",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ mờ đục; tính khó hiểu; sự thiếu minh bạch",
+  "coll": [
+   "reduce the opacity",
+   "the opacity of the language",
+   "adjust opacity",
+   "opacity and transparency"
+  ]
+ },
+ {
+  "id": "quiver",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "run rẩy; rung nhẹ; ống đựng tên",
+  "coll": [
+   "quiver with fear",
+   "a quiver in his voice",
+   "quiver slightly",
+   "an arrow in the quiver"
+  ]
+ },
+ {
+  "id": "collider",
+  "pos": [
+   "n"
+  ],
+  "vi": "máy va chạm hạt",
+  "coll": [
+   "the Large Hadron Collider",
+   "a particle collider",
+   "a proton collider",
+   "build a collider"
+  ]
+ },
+ {
+  "id": "commensurate",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "tương xứng; cân xứng với",
+  "coll": [
+   "commensurate with experience",
+   "a salary commensurate with",
+   "commensurate rewards",
+   "commensurate with the risk"
+  ]
+ },
+ {
+  "id": "substantiate",
+  "pos": [
+   "v"
+  ],
+  "vi": "chứng minh, xác thực; đưa bằng chứng",
+  "coll": [
+   "substantiate a claim",
+   "substantiate the allegations",
+   "fail to substantiate",
+   "substantiate with evidence"
+  ]
+ },
+ {
+  "id": "portraiture",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghệ thuật vẽ chân dung; tranh chân dung",
+  "coll": [
+   "classical portraiture",
+   "the art of portraiture",
+   "portraiture photography",
+   "Renaissance portraiture"
+  ]
+ },
+ {
+  "id": "flagging",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "đang suy yếu; đuối dần; sa sút",
+  "coll": [
+   "flagging spirits",
+   "flagging energy",
+   "a flagging economy",
+   "flagging sales"
+  ]
+ },
+ {
+  "id": "wane",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "suy giảm dần; khuyết dần (trăng); thời kỳ tàn",
+  "coll": [
+   "wax and wane",
+   "interest began to wane",
+   "on the wane",
+   "the waning moon"
+  ]
+ }
+]

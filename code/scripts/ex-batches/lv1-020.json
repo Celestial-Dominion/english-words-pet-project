@@ -1,0 +1,842 @@
+[
+ {
+  "id": "merchant",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thương nhân; nhà buôn",
+  "coll": [
+   "wealthy merchant",
+   "merchant ship",
+   "wine merchant",
+   "merchant bank"
+  ]
+ },
+ {
+  "id": "myth",
+  "pos": [
+   "n"
+  ],
+  "vi": "thần thoại; điều hoang đường",
+  "coll": [
+   "Greek myths",
+   "a popular myth",
+   "dispel a myth",
+   "myths and legends",
+   "urban myth"
+  ]
+ },
+ {
+  "id": "overwhelming",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "áp đảo; choáng ngợp; quá lớn",
+  "coll": [
+   "overwhelming majority",
+   "overwhelming support",
+   "overwhelming evidence",
+   "an overwhelming feeling"
+  ]
+ },
+ {
+  "id": "pale",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "nhợt nhạt, tái; nhạt (màu)",
+  "coll": [
+   "turn pale",
+   "pale skin",
+   "pale blue",
+   "a pale face",
+   "pale in comparison"
+  ]
+ },
+ {
+  "id": "permanently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "vĩnh viễn; lâu dài",
+  "coll": [
+   "permanently closed",
+   "permanently damaged",
+   "live permanently",
+   "permanently removed"
+  ]
+ },
+ {
+  "id": "poison",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chất độc; đầu độc; làm ô nhiễm",
+  "coll": [
+   "rat poison",
+   "poison gas",
+   "food poisoning",
+   "poison the water supply"
+  ]
+ },
+ {
+  "id": "tragic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bi thảm; bi kịch",
+  "coll": [
+   "tragic accident",
+   "tragic death",
+   "tragic loss",
+   "tragic hero",
+   "tragic consequences"
+  ]
+ },
+ {
+  "id": "unbelievable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khó tin; không thể tin nổi; kinh ngạc",
+  "coll": [
+   "absolutely unbelievable",
+   "an unbelievable story",
+   "an unbelievable amount",
+   "simply unbelievable"
+  ]
+ },
+ {
+  "id": "underneath",
+  "pos": [
+   "adv",
+   "prep",
+   "adj",
+   "n"
+  ],
+  "vi": "bên dưới; phía dưới; mặt dưới",
+  "coll": [
+   "underneath the table",
+   "hidden underneath",
+   "wear underneath",
+   "the layer underneath"
+  ]
+ },
+ {
+  "id": "altogether",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "vi": "hoàn toàn; tổng cộng; nhìn chung",
+  "coll": [
+   "disappear altogether",
+   "altogether different",
+   "not altogether clear",
+   "avoided altogether"
+  ]
+ },
+ {
+  "id": "animated",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "hoạt hình; sôi nổi",
+  "coll": [
+   "animated film",
+   "animated series",
+   "an animated discussion",
+   "animated character"
+  ]
+ },
+ {
+  "id": "beard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "râu; bộ râu",
+  "coll": [
+   "grow a beard",
+   "shave off his beard",
+   "a long white beard",
+   "beard and mustache"
+  ]
+ },
+ {
+  "id": "excellence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xuất sắc; sự ưu tú",
+  "coll": [
+   "academic excellence",
+   "the pursuit of excellence",
+   "center of excellence",
+   "commitment to excellence"
+  ]
+ },
+ {
+  "id": "freely",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "tự do; thoải mái; sẵn có",
+  "coll": [
+   "move freely",
+   "speak freely",
+   "freely available",
+   "flow freely"
+  ]
+ },
+ {
+  "id": "graduation",
+  "pos": [
+   "n"
+  ],
+  "vi": "lễ tốt nghiệp; sự tốt nghiệp",
+  "coll": [
+   "graduation ceremony",
+   "after graduation",
+   "graduation day",
+   "college graduation",
+   "graduation gift"
+  ]
+ },
+ {
+  "id": "horizon",
+  "pos": [
+   "n"
+  ],
+  "vi": "đường chân trời; tầm hiểu biết",
+  "coll": [
+   "on the horizon",
+   "broaden your horizons",
+   "beyond the horizon",
+   "sink below the horizon"
+  ]
+ },
+ {
+  "id": "ink",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mực; mực in",
+  "coll": [
+   "pen and ink",
+   "ink cartridge",
+   "written in ink",
+   "an ink stain"
+  ]
+ },
+ {
+  "id": "miserable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khổ sở; tồi tệ; đáng thương",
+  "coll": [
+   "feel miserable",
+   "miserable weather",
+   "a miserable failure",
+   "make life miserable"
+  ]
+ },
+ {
+  "id": "motorcycle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xe máy; mô tô",
+  "coll": [
+   "ride a motorcycle",
+   "motorcycle helmet",
+   "motorcycle accident",
+   "motorcycle gang"
+  ]
+ },
+ {
+  "id": "penny",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồng xu; đồng penny",
+  "coll": [
+   "every penny",
+   "not a penny",
+   "cost a pretty penny",
+   "a penny for your thoughts",
+   "count every penny"
+  ]
+ },
+ {
+  "id": "quantity",
+  "pos": [
+   "n"
+  ],
+  "vi": "số lượng; lượng",
+  "coll": [
+   "a large quantity",
+   "in large quantities",
+   "quantity and quality",
+   "small quantities",
+   "an unknown quantity"
+  ]
+ },
+ {
+  "id": "scan",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quét (ảnh, mã); chụp chiếu; đọc lướt",
+  "coll": [
+   "scan the document",
+   "scan the QR code",
+   "brain scan",
+   "ultrasound scan",
+   "scan the horizon"
+  ]
+ },
+ {
+  "id": "scare",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "làm sợ hãi, dọa; phen hoảng sợ",
+  "coll": [
+   "scare away",
+   "scare someone to death",
+   "health scare",
+   "scare tactics"
+  ]
+ },
+ {
+  "id": "supporter",
+  "pos": [
+   "n"
+  ],
+  "vi": "người ủng hộ; cổ động viên",
+  "coll": [
+   "strong supporter",
+   "football supporters",
+   "loyal supporter",
+   "supporters of the party"
+  ]
+ },
+ {
+  "id": "tremendous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "to lớn; ghê gớm; tuyệt vời",
+  "coll": [
+   "tremendous success",
+   "a tremendous amount",
+   "tremendous pressure",
+   "tremendous effort"
+  ]
+ },
+ {
+  "id": "adorable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đáng yêu; dễ thương",
+  "coll": [
+   "adorable baby",
+   "adorable puppy",
+   "absolutely adorable",
+   "an adorable smile"
+  ]
+ },
+ {
+  "id": "ambulance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "xe cứu thương",
+  "coll": [
+   "call an ambulance",
+   "ambulance driver",
+   "by ambulance",
+   "ambulance service"
+  ]
+ },
+ {
+  "id": "ashamed",
+  "pos": [
+   "adj"
+  ],
+  "vi": "xấu hổ; hổ thẹn",
+  "coll": [
+   "ashamed of myself",
+   "deeply ashamed",
+   "nothing to be ashamed of",
+   "feel ashamed"
+  ]
+ },
+ {
+  "id": "blessing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phước lành; sự chấp thuận; điều may mắn",
+  "coll": [
+   "give her blessing",
+   "a blessing in disguise",
+   "a mixed blessing",
+   "count your blessings"
+  ]
+ },
+ {
+  "id": "demonstration",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuộc biểu tình; sự trình diễn; sự chứng minh",
+  "coll": [
+   "peaceful demonstration",
+   "a demonstration against the war",
+   "cooking demonstration",
+   "product demonstration"
+  ]
+ },
+ {
+  "id": "intensive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chuyên sâu, cấp tốc; cường độ cao; đặc biệt (chăm sóc)",
+  "coll": [
+   "intensive care",
+   "intensive course",
+   "intensive training",
+   "labor-intensive"
+  ]
+ },
+ {
+  "id": "northeast",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "đông bắc; phía đông bắc",
+  "coll": [
+   "northeast of the city",
+   "the northeast coast",
+   "in the northeast",
+   "a northeast wind"
+  ]
+ },
+ {
+  "id": "observe",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "quan sát; nhận xét; tuân thủ",
+  "coll": [
+   "observe the behavior",
+   "observe the rules",
+   "observe closely",
+   "observe a minute of silence"
+  ]
+ },
+ {
+  "id": "packing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc đóng gói; xếp đồ (hành lý)",
+  "coll": [
+   "do the packing",
+   "packing list",
+   "packing materials",
+   "finish packing"
+  ]
+ },
+ {
+  "id": "password",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mật khẩu",
+  "coll": [
+   "enter your password",
+   "change your password",
+   "forgot my password",
+   "a strong password",
+   "password protected"
+  ]
+ },
+ {
+  "id": "rational",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hợp lý; có lý trí; sáng suốt",
+  "coll": [
+   "rational explanation",
+   "rational decision",
+   "rational thinking",
+   "perfectly rational"
+  ]
+ },
+ {
+  "id": "spectacular",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ngoạn mục; hoành tráng",
+  "coll": [
+   "spectacular view",
+   "spectacular success",
+   "spectacular scenery",
+   "a spectacular performance"
+  ]
+ },
+ {
+  "id": "technological",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc công nghệ; về mặt công nghệ",
+  "coll": [
+   "technological advances",
+   "technological progress",
+   "technological change",
+   "technological innovation"
+  ]
+ },
+ {
+  "id": "traditionally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo truyền thống; từ xưa đến nay",
+  "coll": [
+   "traditionally associated with",
+   "traditionally made by hand",
+   "traditionally used for",
+   "traditionally male jobs"
+  ]
+ },
+ {
+  "id": "accomplish",
+  "pos": [
+   "v"
+  ],
+  "vi": "hoàn thành; đạt được",
+  "coll": [
+   "accomplish a goal",
+   "accomplish a task",
+   "accomplish the mission",
+   "much to accomplish"
+  ]
+ },
+ {
+  "id": "apology",
+  "pos": [
+   "n"
+  ],
+  "vi": "lời xin lỗi",
+  "coll": [
+   "make an apology",
+   "accept my apology",
+   "a formal apology",
+   "a letter of apology",
+   "owe an apology"
+  ]
+ },
+ {
+  "id": "brass",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "đồng thau; kèn đồng",
+  "coll": [
+   "brass band",
+   "brass instruments",
+   "a brass handle",
+   "polished brass"
+  ]
+ },
+ {
+  "id": "declare",
+  "pos": [
+   "v"
+  ],
+  "vi": "tuyên bố; khai báo (hải quan, thuế)",
+  "coll": [
+   "declare war",
+   "declare independence",
+   "declare bankruptcy",
+   "nothing to declare",
+   "declare a state of emergency"
+  ]
+ },
+ {
+  "id": "dot",
+  "pos": [
+   "n"
+  ],
+  "vi": "chấm; dấu chấm; điểm nhỏ",
+  "coll": [
+   "polka dots",
+   "dots and dashes",
+   "on the dot",
+   "connect the dots"
+  ]
+ },
+ {
+  "id": "embarrassed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "xấu hổ; ngượng ngùng; lúng túng",
+  "coll": [
+   "feel embarrassed",
+   "an embarrassed silence",
+   "too embarrassed to ask",
+   "deeply embarrassed"
+  ]
+ },
+ {
+  "id": "freezing",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "lạnh cóng; đóng băng; điểm đóng băng",
+  "coll": [
+   "freezing cold",
+   "freezing temperatures",
+   "below freezing",
+   "freezing point"
+  ]
+ },
+ {
+  "id": "graph",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "biểu đồ; đồ thị",
+  "coll": [
+   "draw a graph",
+   "line graph",
+   "bar graph",
+   "the graph shows",
+   "plot a graph"
+  ]
+ },
+ {
+  "id": "hatred",
+  "pos": [
+   "n"
+  ],
+  "vi": "lòng căm thù; sự căm ghét",
+  "coll": [
+   "deep hatred",
+   "racial hatred",
+   "hatred of injustice",
+   "full of hatred",
+   "love and hatred"
+  ]
+ },
+ {
+  "id": "interact",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tương tác; giao tiếp qua lại",
+  "coll": [
+   "interact with customers",
+   "interact with each other",
+   "interact socially",
+   "interact online"
+  ]
+ },
+ {
+  "id": "measurement",
+  "pos": [
+   "n"
+  ],
+  "vi": "phép đo; số đo; kích thước",
+  "coll": [
+   "take measurements",
+   "accurate measurement",
+   "units of measurement",
+   "body measurements"
+  ]
+ },
+ {
+  "id": "passport",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hộ chiếu; chìa khóa dẫn đến",
+  "coll": [
+   "a valid passport",
+   "passport control",
+   "renew a passport",
+   "passport photo",
+   "a passport to success"
+  ]
+ },
+ {
+  "id": "supportive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ủng hộ, hỗ trợ; luôn động viên",
+  "coll": [
+   "supportive family",
+   "supportive environment",
+   "very supportive",
+   "supportive of the idea"
+  ]
+ },
+ {
+  "id": "tablet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "máy tính bảng; viên thuốc; bia đá",
+  "coll": [
+   "tablet computer",
+   "sleeping tablets",
+   "take two tablets",
+   "stone tablet",
+   "tablet screen"
+  ]
+ },
+ {
+  "id": "tent",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lều; lều trại",
+  "coll": [
+   "pitch a tent",
+   "put up a tent",
+   "sleep in a tent",
+   "tent pole"
+  ]
+ },
+ {
+  "id": "tide",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thủy triều; dòng nước; xu thế",
+  "coll": [
+   "high tide",
+   "low tide",
+   "the tide turns",
+   "swim against the tide"
+  ]
+ },
+ {
+  "id": "airline",
+  "pos": [
+   "n"
+  ],
+  "vi": "hãng hàng không",
+  "coll": [
+   "airline ticket",
+   "budget airline",
+   "airline industry",
+   "major airlines"
+  ]
+ },
+ {
+  "id": "bust",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "làm vỡ, làm hỏng; tóm, bắt giữ; phá sản",
+  "coll": [
+   "go bust",
+   "get busted",
+   "drug bust",
+   "bust a myth"
+  ]
+ },
+ {
+  "id": "collar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cổ áo; vòng cổ (chó, mèo); tóm cổ",
+  "coll": [
+   "shirt collar",
+   "dog collar",
+   "turn up your collar",
+   "grab him by the collar"
+  ]
+ },
+ {
+  "id": "divorced",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đã ly hôn; tách rời khỏi",
+  "coll": [
+   "get divorced",
+   "divorced parents",
+   "divorced from reality",
+   "recently divorced"
+  ]
+ },
+ {
+  "id": "emotionally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt cảm xúc; một cách xúc động",
+  "coll": [
+   "emotionally attached",
+   "emotionally involved",
+   "emotionally drained",
+   "emotionally unstable"
+  ]
+ }
+]

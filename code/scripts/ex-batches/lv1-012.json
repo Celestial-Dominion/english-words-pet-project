@@ -1,0 +1,883 @@
+[
+ {
+  "id": "commonly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thường; phổ biến; thông thường",
+  "coll": [
+   "commonly used",
+   "commonly known as",
+   "commonly found",
+   "commonly accepted",
+   "most commonly"
+  ]
+ },
+ {
+  "id": "connect",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "kết nối; nối lại; liên hệ",
+  "coll": [
+   "connect to the internet",
+   "connect with people",
+   "connect two points",
+   "a connecting flight",
+   "connect the dots"
+  ]
+ },
+ {
+  "id": "efficiency",
+  "pos": [
+   "n"
+  ],
+  "vi": "hiệu suất; tính hiệu quả",
+  "coll": [
+   "energy efficiency",
+   "improve efficiency",
+   "fuel efficiency",
+   "increase efficiency",
+   "operational efficiency"
+  ]
+ },
+ {
+  "id": "experiment",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thí nghiệm; cuộc thử nghiệm; thử nghiệm",
+  "coll": [
+   "conduct an experiment",
+   "a scientific experiment",
+   "experiment with",
+   "a laboratory experiment",
+   "carry out an experiment"
+  ]
+ },
+ {
+  "id": "increasingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngày càng; càng lúc càng",
+  "coll": [
+   "increasingly common",
+   "increasingly difficult",
+   "increasingly popular",
+   "increasingly important",
+   "become increasingly"
+  ]
+ },
+ {
+  "id": "incredibly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cực kỳ; vô cùng; đến khó tin",
+  "coll": [
+   "incredibly difficult",
+   "incredibly important",
+   "incredibly lucky",
+   "incredibly fast",
+   "incredibly enough"
+  ]
+ },
+ {
+  "id": "journalist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà báo; phóng viên",
+  "coll": [
+   "a freelance journalist",
+   "an investigative journalist",
+   "a veteran journalist",
+   "a sports journalist",
+   "journalists and photographers"
+  ]
+ },
+ {
+  "id": "occasion",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dịp; sự kiện; cơ hội",
+  "coll": [
+   "on this occasion",
+   "a special occasion",
+   "on several occasions",
+   "rise to the occasion",
+   "mark the occasion"
+  ]
+ },
+ {
+  "id": "pace",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "prep"
+  ],
+  "vi": "nhịp độ; tốc độ; bước chân",
+  "coll": [
+   "at a slow pace",
+   "keep pace with",
+   "set the pace",
+   "a fast pace",
+   "the pace of change"
+  ]
+ },
+ {
+  "id": "possession",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự sở hữu; tài sản; đồ đạc",
+  "coll": [
+   "in possession of",
+   "personal possessions",
+   "take possession",
+   "drug possession",
+   "a prized possession"
+  ]
+ },
+ {
+  "id": "rapid",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "nhanh chóng; mau lẹ",
+  "coll": [
+   "rapid growth",
+   "rapid change",
+   "a rapid decline",
+   "a rapid response",
+   "rapid expansion"
+  ]
+ },
+ {
+  "id": "regulation",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "quy định; luật lệ; sự điều tiết",
+  "coll": [
+   "government regulation",
+   "safety regulations",
+   "comply with regulations",
+   "strict regulations",
+   "rules and regulations"
+  ]
+ },
+ {
+  "id": "resident",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cư dân; người dân sở tại; thường trú",
+  "coll": [
+   "local residents",
+   "a permanent resident",
+   "the resident population",
+   "a residents' association",
+   "a resident of the city"
+  ]
+ },
+ {
+  "id": "agriculture",
+  "pos": [
+   "n"
+  ],
+  "vi": "nông nghiệp; nghề nông",
+  "coll": [
+   "modern agriculture",
+   "organic agriculture",
+   "the Department of Agriculture",
+   "subsistence agriculture",
+   "agriculture and forestry"
+  ]
+ },
+ {
+  "id": "currency",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiền tệ; đồng tiền; sự thịnh hành",
+  "coll": [
+   "foreign currency",
+   "local currency",
+   "currency exchange",
+   "a strong currency",
+   "digital currency"
+  ]
+ },
+ {
+  "id": "funeral",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "đám tang; lễ tang",
+  "coll": [
+   "attend a funeral",
+   "a funeral service",
+   "a funeral home",
+   "a funeral director",
+   "a state funeral"
+  ]
+ },
+ {
+  "id": "log",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khúc gỗ; sổ ghi chép; ghi lại",
+  "coll": [
+   "a log cabin",
+   "a log fire",
+   "keep a log",
+   "log in",
+   "the ship's log"
+  ]
+ },
+ {
+  "id": "merely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chỉ, đơn thuần; chẳng qua",
+  "coll": [
+   "merely a formality",
+   "merely because",
+   "not merely",
+   "merely suggest",
+   "merely a matter of"
+  ]
+ },
+ {
+  "id": "monitor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "theo dõi, giám sát; màn hình; máy theo dõi",
+  "coll": [
+   "closely monitor",
+   "monitor progress",
+   "a computer monitor",
+   "a heart monitor",
+   "monitor the situation"
+  ]
+ },
+ {
+  "id": "remote control",
+  "pos": [
+   "n"
+  ],
+  "vi": "điều khiển từ xa; cái điều khiển",
+  "coll": [
+   "press the remote control",
+   "a TV remote control",
+   "a remote control car",
+   "lose the remote control"
+  ]
+ },
+ {
+  "id": "resort",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khu nghỉ dưỡng; giải pháp cuối; viện đến",
+  "coll": [
+   "a ski resort",
+   "a beach resort",
+   "a last resort",
+   "resort to violence",
+   "a holiday resort"
+  ]
+ },
+ {
+  "id": "routine",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thói quen hằng ngày; thường lệ; tiết mục quen thuộc",
+  "coll": [
+   "a daily routine",
+   "a morning routine",
+   "a routine check",
+   "routine maintenance",
+   "break the routine"
+  ]
+ },
+ {
+  "id": "scary",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "đáng sợ; ghê rợn; rùng rợn",
+  "coll": [
+   "a scary movie",
+   "really scary",
+   "a scary story",
+   "look scary",
+   "a scary moment"
+  ]
+ },
+ {
+  "id": "settle",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "giải quyết; định cư; ổn định lại",
+  "coll": [
+   "settle a dispute",
+   "settle down",
+   "settle an argument",
+   "settle in",
+   "settle the bill"
+  ]
+ },
+ {
+  "id": "survival",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sống sót; sự tồn tại",
+  "coll": [
+   "a chance of survival",
+   "survival rate",
+   "survival skills",
+   "the struggle for survival",
+   "a survival kit"
+  ]
+ },
+ {
+  "id": "sword",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thanh kiếm; gươm",
+  "coll": [
+   "draw a sword",
+   "a sword fight",
+   "a double-edged sword",
+   "sheathe the sword",
+   "sword and shield"
+  ]
+ },
+ {
+  "id": "tongue",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lưỡi; tiếng nói, ngôn ngữ",
+  "coll": [
+   "stick out your tongue",
+   "mother tongue",
+   "hold your tongue",
+   "a tongue twister",
+   "a slip of the tongue"
+  ]
+ },
+ {
+  "id": "ward",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khoa, phòng bệnh; phường (hành chính); người được giám hộ",
+  "coll": [
+   "a maternity ward",
+   "a hospital ward",
+   "an electoral ward",
+   "ward off",
+   "a children's ward"
+  ]
+ },
+ {
+  "id": "achievement",
+  "pos": [
+   "n"
+  ],
+  "vi": "thành tựu; thành tích; sự đạt được",
+  "coll": [
+   "a great achievement",
+   "a sense of achievement",
+   "academic achievement",
+   "the achievement gap",
+   "a notable achievement"
+  ]
+ },
+ {
+  "id": "destruction",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phá hủy; sự tàn phá",
+  "coll": [
+   "widespread destruction",
+   "weapons of mass destruction",
+   "cause destruction",
+   "environmental destruction",
+   "a path of destruction"
+  ]
+ },
+ {
+  "id": "doc",
+  "pos": [
+   "n"
+  ],
+  "vi": "bác sĩ; tài liệu; phim tài liệu",
+  "coll": [
+   "thanks, doc",
+   "the doc said",
+   "a Word doc",
+   "share the doc",
+   "a music doc"
+  ]
+ },
+ {
+  "id": "engage",
+  "pos": [
+   "v"
+  ],
+  "vi": "tham gia, dấn thân; thu hút; giao chiến",
+  "coll": [
+   "engage in conversation",
+   "engage with customers",
+   "engage the audience",
+   "engage in activities",
+   "fully engage"
+  ]
+ },
+ {
+  "id": "extraordinary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "phi thường; khác thường; đặc biệt",
+  "coll": [
+   "an extraordinary achievement",
+   "extraordinary circumstances",
+   "quite extraordinary",
+   "extraordinary talent",
+   "extraordinary measures"
+  ]
+ },
+ {
+  "id": "frequency",
+  "pos": [
+   "n"
+  ],
+  "vi": "tần suất; tần số; mức độ thường xuyên",
+  "coll": [
+   "high frequency",
+   "radio frequency",
+   "the frequency of",
+   "increasing frequency",
+   "frequency range"
+  ]
+ },
+ {
+  "id": "gene",
+  "pos": [
+   "n"
+  ],
+  "vi": "gen di truyền; đơn vị di truyền",
+  "coll": [
+   "a dominant gene",
+   "gene therapy",
+   "gene expression",
+   "the gene pool",
+   "a faulty gene"
+  ]
+ },
+ {
+  "id": "glory",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vinh quang; niềm vinh dự; vẻ huy hoàng",
+  "coll": [
+   "days of glory",
+   "in all its glory",
+   "blaze of glory",
+   "glory days",
+   "win glory"
+  ]
+ },
+ {
+  "id": "logic",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "logic; sự hợp lý; lập luận",
+  "coll": [
+   "sound logic",
+   "flawed logic",
+   "the logic behind",
+   "follow the logic",
+   "logic gate"
+  ]
+ },
+ {
+  "id": "objective",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khách quan; mục tiêu; dựa trên thực tế",
+  "coll": [
+   "objective view",
+   "remain objective",
+   "objective assessment",
+   "main objective",
+   "achieve an objective"
+  ]
+ },
+ {
+  "id": "privacy",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự riêng tư; quyền riêng tư; sự kín đáo",
+  "coll": [
+   "invasion of privacy",
+   "privacy policy",
+   "respect someone's privacy",
+   "protect privacy",
+   "right to privacy"
+  ]
+ },
+ {
+  "id": "regard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "coi là; xem như; sự kính trọng; lời thăm hỏi",
+  "coll": [
+   "regard as",
+   "with regard to",
+   "in this regard",
+   "high regard",
+   "kind regards"
+  ]
+ },
+ {
+  "id": "science fiction",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "khoa học viễn tưởng",
+  "coll": [
+   "science fiction novel",
+   "science fiction film",
+   "science fiction writer",
+   "classic science fiction",
+   "read science fiction"
+  ]
+ },
+ {
+  "id": "strip",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dải; cởi bỏ; lột sạch; tước bỏ",
+  "coll": [
+   "a strip of land",
+   "strip of paper",
+   "comic strip",
+   "strip away",
+   "strip naked"
+  ]
+ },
+ {
+  "id": "breast",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngực; vú; ức (gà)",
+  "coll": [
+   "breast cancer",
+   "breast milk",
+   "chicken breast",
+   "breast feeding",
+   "breast pocket"
+  ]
+ },
+ {
+  "id": "chemistry",
+  "pos": [
+   "n"
+  ],
+  "vi": "hóa học; phản ứng hóa học; sự hợp cạ",
+  "coll": [
+   "study chemistry",
+   "organic chemistry",
+   "chemistry teacher",
+   "chemistry lab",
+   "good chemistry"
+  ]
+ },
+ {
+  "id": "consumption",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tiêu thụ; mức tiêu thụ; sự tiêu dùng",
+  "coll": [
+   "energy consumption",
+   "fuel consumption",
+   "reduce consumption",
+   "human consumption",
+   "food consumption"
+  ]
+ },
+ {
+  "id": "cotton",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "bông; vải bông; cây bông",
+  "coll": [
+   "cotton shirt",
+   "pure cotton",
+   "cotton wool",
+   "cotton field",
+   "raw cotton"
+  ]
+ },
+ {
+  "id": "discount",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "giảm giá; sự chiết khấu; xem nhẹ",
+  "coll": [
+   "give a discount",
+   "discount price",
+   "at a discount",
+   "student discount",
+   "offer a discount"
+  ]
+ },
+ {
+  "id": "dozen",
+  "pos": [
+   "det",
+   "n"
+  ],
+  "vi": "tá; mười hai cái; hàng chục",
+  "coll": [
+   "a dozen eggs",
+   "dozens of people",
+   "half a dozen",
+   "baker's dozen",
+   "by the dozen"
+  ]
+ },
+ {
+  "id": "exit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lối ra; sự rời khỏi; thoát ra",
+  "coll": [
+   "emergency exit",
+   "exit door",
+   "make an exit",
+   "exit the building",
+   "exit strategy"
+  ]
+ },
+ {
+  "id": "expand",
+  "pos": [
+   "v"
+  ],
+  "vi": "mở rộng; nở ra; phát triển thêm",
+  "coll": [
+   "expand the business",
+   "expand rapidly",
+   "expand into new markets",
+   "expand on an idea",
+   "metals expand when heated"
+  ]
+ },
+ {
+  "id": "gorgeous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tuyệt đẹp; lộng lẫy; quyến rũ",
+  "coll": [
+   "gorgeous view",
+   "look gorgeous",
+   "gorgeous weather",
+   "absolutely gorgeous",
+   "gorgeous dress"
+  ]
+ },
+ {
+  "id": "impression",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ấn tượng; cảm nhận; dấu in",
+  "coll": [
+   "first impression",
+   "make an impression",
+   "give the impression",
+   "lasting impression",
+   "under the impression"
+  ]
+ },
+ {
+  "id": "luxury",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xa xỉ; sự xa hoa; hàng cao cấp",
+  "coll": [
+   "luxury car",
+   "luxury hotel",
+   "live in luxury",
+   "luxury goods",
+   "luxury brand"
+  ]
+ },
+ {
+  "id": "ought to",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nên; đáng lẽ nên; phải",
+  "coll": [
+   "ought to know",
+   "ought to be",
+   "you ought to see",
+   "ought to have done",
+   "ought to apologize"
+  ]
+ },
+ {
+  "id": "sequence",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuỗi; trình tự; dãy; sắp xếp thứ tự",
+  "coll": [
+   "in sequence",
+   "a sequence of events",
+   "DNA sequence",
+   "opening sequence",
+   "out of sequence"
+  ]
+ },
+ {
+  "id": "stretch",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "kéo giãn; vươn vai; đoạn; khoảng thời gian",
+  "coll": [
+   "stretch your legs",
+   "stretch out",
+   "a stretch of road",
+   "at a stretch",
+   "stretch the truth"
+  ]
+ },
+ {
+  "id": "absence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự vắng mặt; sự thiếu vắng",
+  "coll": [
+   "in the absence of",
+   "absence from school",
+   "leave of absence",
+   "prolonged absence",
+   "absence of evidence"
+  ]
+ },
+ {
+  "id": "agricultural",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc nông nghiệp; về canh tác",
+  "coll": [
+   "agricultural land",
+   "agricultural production",
+   "agricultural sector",
+   "agricultural machinery",
+   "agricultural products"
+  ]
+ },
+ {
+  "id": "bull",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bò đực; con đực lớn; lao tới",
+  "coll": [
+   "raging bull",
+   "bull market",
+   "take the bull by the horns",
+   "bull fighting",
+   "like a bull in a china shop"
+  ]
+ },
+ {
+  "id": "contribute",
+  "pos": [
+   "v"
+  ],
+  "vi": "đóng góp; góp phần",
+  "coll": [
+   "contribute to",
+   "contribute money",
+   "contribute significantly",
+   "contribute ideas",
+   "contribute towards"
+  ]
+ }
+]

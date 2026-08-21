@@ -1,0 +1,402 @@
+{
+  "hahaha": {
+    "vi": "ha ha ha (tiếng cười)",
+    "coll": ["hahaha, that's funny", "laugh hahaha", "hahaha no way", "reply with hahaha"]
+  },
+  "inheritance": {
+    "vi": "tài sản thừa kế; sự thừa kế; sự di truyền",
+    "coll": ["receive an inheritance", "leave an inheritance", "inheritance tax", "genetic inheritance", "a large inheritance"]
+  },
+  "epidemic": {
+    "vi": "dịch bệnh; nạn lan tràn; mang tính dịch",
+    "coll": ["a flu epidemic", "an epidemic of violence", "reach epidemic proportions", "control the epidemic", "a global epidemic"]
+  },
+  "sting": {
+    "vi": "chích, đốt; vết đốt; cảm giác rát buốt",
+    "coll": ["a bee sting", "sting your eyes", "take the sting out of", "a wasp sting", "a stinging pain"]
+  },
+  "communism": {
+    "vi": "chủ nghĩa cộng sản",
+    "coll": ["the collapse of communism", "under communism", "the spread of communism", "Soviet communism", "the fall of communism"]
+  },
+  "twentieth": {
+    "vi": "thứ hai mươi; một phần hai mươi",
+    "coll": ["the twentieth century", "her twentieth birthday", "the twentieth of May", "the twentieth anniversary"]
+  },
+  "cavalry": {
+    "vi": "kỵ binh; binh chủng cơ động",
+    "coll": ["the cavalry charge", "a cavalry regiment", "light cavalry", "cavalry officer", "here comes the cavalry"]
+  },
+  "puppet": {
+    "vi": "con rối; bù nhìn, tay sai",
+    "coll": ["a puppet show", "a hand puppet", "a puppet government", "a puppet regime", "pull the strings of a puppet"]
+  },
+  "fatty": {
+    "vi": "béo, nhiều mỡ; thằng béo (suồng sã)",
+    "coll": ["fatty foods", "fatty acids", "fatty liver", "fatty tissue", "a fatty diet"]
+  },
+  "glue": {
+    "vi": "keo dán; hồ dán; dán keo",
+    "coll": ["a tube of glue", "super glue", "glue the pieces together", "sniff glue", "glued to the screen"]
+  },
+  "homicide": {
+    "vi": "tội giết người; vụ án mạng",
+    "coll": ["a homicide investigation", "justifiable homicide", "the homicide rate", "homicide detective", "charged with homicide"]
+  },
+  "filthy": {
+    "vi": "bẩn thỉu, dơ dáy; tục tĩu, dâm ô",
+    "coll": ["filthy clothes", "a filthy habit", "filthy rich", "filthy language", "absolutely filthy"]
+  },
+  "psychic": {
+    "vi": "nhà ngoại cảm; thuộc ngoại cảm, tâm linh",
+    "coll": ["psychic powers", "a psychic reading", "consult a psychic", "psychic ability", "psychic phenomena"]
+  },
+  "freestyle": {
+    "vi": "kiểu tự do; bơi tự do; ứng tác (rap)",
+    "coll": ["freestyle swimming", "the 100m freestyle", "a freestyle rap", "freestyle skiing", "freestyle wrestling"]
+  },
+  "flush": {
+    "vi": "xả nước (bồn cầu); ửng đỏ, đỏ bừng; bằng phẳng, sát mép",
+    "coll": ["flush the toilet", "flush with embarrassment", "a hot flush", "flush out the system", "flush with the wall"]
+  },
+  "tutorial": {
+    "vi": "bài hướng dẫn; buổi phụ đạo; thuộc gia sư",
+    "coll": ["an online tutorial", "a video tutorial", "follow a tutorial", "a tutorial group", "step-by-step tutorial"]
+  },
+  "rivalry": {
+    "vi": "sự kình địch; sự cạnh tranh, ganh đua",
+    "coll": ["intense rivalry", "sibling rivalry", "a bitter rivalry", "a long-standing rivalry", "rivalry between clubs"]
+  },
+  "righteous": {
+    "vi": "chính trực, ngay thẳng; chính đáng; ra vẻ đạo đức",
+    "coll": ["righteous anger", "a righteous man", "self-righteous", "righteous indignation", "righteous cause"]
+  },
+  "reproductive": {
+    "vi": "thuộc sinh sản; về sinh sản",
+    "coll": ["reproductive system", "reproductive health", "reproductive rights", "reproductive organs", "reproductive success"]
+  },
+  "extraction": {
+    "vi": "sự chiết xuất; sự khai thác; sự nhổ (răng); dòng dõi",
+    "coll": ["oil extraction", "tooth extraction", "data extraction", "of Irish extraction", "the extraction of minerals"]
+  },
+  "definitive": {
+    "vi": "dứt khoát, quyết định; chuẩn mực, đầy đủ nhất",
+    "coll": ["a definitive answer", "the definitive version", "definitive proof", "a definitive guide", "definitive diagnosis"]
+  },
+  "predominantly": {
+    "vi": "chủ yếu; phần lớn là",
+    "coll": ["predominantly male", "predominantly rural", "predominantly white", "predominantly used for", "predominantly Muslim"]
+  },
+  "automation": {
+    "vi": "sự tự động hóa",
+    "coll": ["factory automation", "home automation", "the rise of automation", "automation technology", "process automation"]
+  },
+  "thankfully": {
+    "vi": "may thay, thật may; một cách biết ơn",
+    "coll": ["thankfully, no one was hurt", "thankfully it was over", "thankfully, nobody died", "thankfully brief"]
+  },
+  "traumatic": {
+    "vi": "gây sang chấn; đau thương, ám ảnh",
+    "coll": ["a traumatic experience", "traumatic brain injury", "post-traumatic stress", "traumatic events", "deeply traumatic"]
+  },
+  "faction": {
+    "vi": "phe phái; bè phái",
+    "coll": ["a rival faction", "rebel factions", "warring factions", "a hardline faction", "factions within the party"]
+  },
+  "rendering": {
+    "vi": "bản dựng hình; cách thể hiện, diễn giải; bản dịch",
+    "coll": ["an artist's rendering", "3D rendering", "a faithful rendering", "rendering software", "the rendering of the text"]
+  },
+  "strap": {
+    "vi": "dây đeo; quai; buộc chặt bằng dây",
+    "coll": ["a shoulder strap", "a watch strap", "strap on a helmet", "strapped in", "adjust the strap"]
+  },
+  "trillion": {
+    "vi": "nghìn tỷ; vô số (nói quá)",
+    "coll": ["a trillion dollars", "trillions of cells", "a trillion-dollar economy", "several trillion", "trillions of dollars in debt"]
+  },
+  "fascist": {
+    "vi": "phát xít; kẻ theo chủ nghĩa phát xít; độc đoán",
+    "coll": ["a fascist regime", "fascist ideology", "fascist dictator", "anti-fascist protest", "fascist state"]
+  },
+  "remake": {
+    "vi": "bản làm lại; làm lại, dựng lại",
+    "coll": ["a Hollywood remake", "remake a film", "a modern remake", "the remake of a classic", "a live-action remake"]
+  },
+  "subjective": {
+    "vi": "chủ quan; theo cảm nhận riêng",
+    "coll": ["a subjective opinion", "highly subjective", "subjective judgement", "subjective experience", "subjective and objective"]
+  },
+  "latino": {
+    "vi": "người gốc Mỹ Latinh",
+    "coll": ["Latino community", "Latino voters", "Latino culture", "young Latinos", "Latino music"]
+  },
+  "horny": {
+    "vi": "hứng tình, nứng (suồng sã); cứng như sừng",
+    "coll": ["feel horny", "get horny", "a horny teenager", "horny plates", "horny skin"]
+  },
+  "rehab": {
+    "vi": "cai nghiện; trung tâm cai nghiện; phục hồi chức năng",
+    "coll": ["go to rehab", "in rehab", "drug rehab", "a rehab centre", "check into rehab"]
+  },
+  "vendor": {
+    "vi": "người bán hàng; nhà cung cấp",
+    "coll": ["a street vendor", "a software vendor", "vendor support", "third-party vendors", "a food vendor"]
+  },
+  "counselor": {
+    "vi": "chuyên viên tư vấn; cố vấn; luật sư (Mỹ)",
+    "coll": ["a school counselor", "a guidance counselor", "see a counselor", "a marriage counselor", "camp counselor"]
+  },
+  "capitalist": {
+    "vi": "nhà tư bản; thuộc chủ nghĩa tư bản",
+    "coll": ["a capitalist system", "capitalist economy", "capitalist society", "a wealthy capitalist", "capitalist countries"]
+  },
+  "curb": {
+    "vi": "kiềm chế, hạn chế; lề đường (Mỹ); sự kìm hãm",
+    "coll": ["curb inflation", "curb spending", "curb emissions", "park at the curb", "put a curb on"]
+  },
+  "reproduction": {
+    "vi": "sự sinh sản; sự sao chép; bản sao chép",
+    "coll": ["sexual reproduction", "human reproduction", "a faithful reproduction", "sound reproduction", "a reproduction of the painting"]
+  },
+  "inconsistent": {
+    "vi": "không nhất quán; mâu thuẫn; thất thường",
+    "coll": ["inconsistent results", "inconsistent with the facts", "inconsistent performance", "wildly inconsistent", "inconsistent behaviour"]
+  },
+  "destined": {
+    "vi": "được định sẵn; ắt sẽ; đi tới (nơi nào)",
+    "coll": ["destined to fail", "destined for greatness", "destined for the US market", "seemed destined", "destined to be together"]
+  },
+  "kindergarten": {
+    "vi": "trường mẫu giáo; lớp mẫu giáo",
+    "coll": ["start kindergarten", "kindergarten teacher", "a kindergarten class", "go to kindergarten", "kindergarten children"]
+  },
+  "probation": {
+    "vi": "án treo, sự quản chế; thời gian thử việc",
+    "coll": ["on probation", "a probation officer", "put on probation", "a probation period", "violate probation"]
+  },
+  "receptor": {
+    "vi": "thụ thể (tế bào)",
+    "coll": ["a cell receptor", "pain receptors", "receptor sites", "bind to a receptor", "sensory receptors"]
+  },
+  "populated": {
+    "vi": "có dân cư sinh sống; đông dân; đã điền đầy dữ liệu",
+    "coll": ["densely populated", "sparsely populated", "a heavily populated area", "thinly populated", "populated with data"]
+  },
+  "efficiently": {
+    "vi": "một cách hiệu quả; gọn gàng, ít tốn kém",
+    "coll": ["work efficiently", "run efficiently", "use resources efficiently", "operate efficiently", "manage time efficiently"]
+  },
+  "collaborative": {
+    "vi": "mang tính hợp tác; cùng làm chung",
+    "coll": ["a collaborative effort", "collaborative work", "a collaborative approach", "collaborative learning", "collaborative project"]
+  },
+  "alignment": {
+    "vi": "sự thẳng hàng; sự đồng nhất, tương thích; sự căn chỉnh",
+    "coll": ["in alignment with", "strategic alignment", "wheel alignment", "out of alignment", "political alignment"]
+  },
+  "bliss": {
+    "vi": "hạnh phúc tột cùng; niềm sung sướng",
+    "coll": ["sheer bliss", "wedded bliss", "pure bliss", "ignorance is bliss", "domestic bliss"]
+  },
+  "render": {
+    "vi": "khiến trở nên, làm cho; thể hiện, trình bày; kết xuất (đồ họa)",
+    "coll": ["render it useless", "render assistance", "render a verdict", "render an image", "render services"]
+  },
+  "compromised": {
+    "vi": "bị xâm phạm, bị lộ; bị suy yếu, tổn hại",
+    "coll": ["a compromised system", "a compromised immune system", "compromised security", "compromised data", "seriously compromised"]
+  },
+  "buffer": {
+    "vi": "vùng đệm, bộ đệm; làm giảm tác động; lớp bảo vệ",
+    "coll": ["a buffer zone", "buffer against inflation", "video buffering", "act as a buffer", "buffer memory"]
+  },
+  "parole": {
+    "vi": "sự tạm tha có điều kiện; cho tạm tha",
+    "coll": ["release on parole", "a parole board", "parole officer", "eligible for parole", "life without parole"]
+  },
+  "tractor": {
+    "vi": "máy kéo, máy cày",
+    "coll": ["drive a tractor", "a farm tractor", "a tractor trailer", "tractor engine", "a red tractor"]
+  },
+  "apparatus": {
+    "vi": "thiết bị, bộ máy; bộ máy tổ chức",
+    "coll": ["laboratory apparatus", "breathing apparatus", "the state apparatus", "a piece of apparatus", "the party apparatus"]
+  },
+  "hierarchy": {
+    "vi": "hệ thống thứ bậc; tôn ti trật tự",
+    "coll": ["a rigid hierarchy", "social hierarchy", "the corporate hierarchy", "at the top of the hierarchy", "hierarchy of needs"]
+  },
+  "precedent": {
+    "vi": "tiền lệ; án lệ",
+    "coll": ["set a precedent", "without precedent", "a legal precedent", "follow precedent", "a dangerous precedent"]
+  },
+  "omega": {
+    "vi": "chữ omega (Hy Lạp); sự kết thúc, điểm cuối",
+    "coll": ["omega-3 fatty acids", "the alpha and the omega", "omega symbol", "omega point"]
+  },
+  "turnover": {
+    "vi": "doanh thu; tỷ lệ thay nhân sự; bánh nướng gấp nhân",
+    "coll": ["annual turnover", "staff turnover", "high turnover", "turnover rate", "an apple turnover"]
+  },
+  "fertility": {
+    "vi": "khả năng sinh sản; độ màu mỡ (đất); tỷ suất sinh",
+    "coll": ["fertility treatment", "fertility rate", "soil fertility", "declining fertility", "a fertility clinic"]
+  },
+  "parody": {
+    "vi": "bản nhại; sự nhại lại; nhại, giễu nhại",
+    "coll": ["a parody of the film", "write a parody", "a cruel parody", "parody song", "a parody account"]
+  },
+  "foam": {
+    "vi": "bọt; mút xốp; sủi bọt",
+    "coll": ["shaving foam", "foam rubber", "sea foam", "foam at the mouth", "a foam mattress"]
+  },
+  "visibility": {
+    "vi": "tầm nhìn; sự dễ thấy; mức độ được chú ý",
+    "coll": ["poor visibility", "low visibility", "high visibility", "increase visibility", "visibility of the brand"]
+  },
+  "variant": {
+    "vi": "biến thể; dạng khác; khác biệt",
+    "coll": ["a new variant", "a variant of the virus", "variant spelling", "variant forms", "a rare variant"]
+  },
+  "notch": {
+    "vi": "khía, rãnh; nấc, bậc; khắc dấu",
+    "coll": ["cut a notch", "a notch above", "take it up a notch", "notch on the belt", "notch a victory"]
+  },
+  "exempt": {
+    "vi": "được miễn; miễn cho, cho miễn trừ",
+    "coll": ["tax exempt", "exempt from military service", "exempt from paying", "be exempt from the rule", "exempt status"]
+  },
+  "wherein": {
+    "vi": "trong đó; ở chỗ đó (trang trọng)",
+    "coll": ["wherein lies the problem", "a case wherein", "the room wherein he slept", "wherein the parties agree"]
+  },
+  "questionable": {
+    "vi": "đáng ngờ; không đáng tin, mờ ám",
+    "coll": ["questionable quality", "of questionable value", "questionable motives", "highly questionable", "ethically questionable"]
+  },
+  "lightweight": {
+    "vi": "nhẹ, nhẹ cân; hạng nhẹ (thể thao); kẻ xoàng, người kém cỏi",
+    "coll": ["a lightweight jacket", "lightweight material", "a lightweight boxer", "lightweight design", "a political lightweight"]
+  },
+  "invalid": {
+    "vi": "không hợp lệ; vô hiệu; người tàn tật, người ốm yếu",
+    "coll": ["an invalid password", "an invalid argument", "declare invalid", "invalid data", "care for an invalid"]
+  },
+  "prevalent": {
+    "vi": "phổ biến, thịnh hành",
+    "coll": ["widely prevalent", "become prevalent", "prevalent among young people", "the most prevalent form", "prevalent in society"]
+  },
+  "traction": {
+    "vi": "độ bám, lực kéo; đà phát triển, sự được ủng hộ",
+    "coll": ["gain traction", "lose traction", "tyre traction", "gain traction in the market", "traction control"]
+  },
+  "constructive": {
+    "vi": "mang tính xây dựng; hữu ích, tích cực",
+    "coll": ["constructive criticism", "constructive feedback", "a constructive approach", "constructive dialogue", "constructive suggestions"]
+  },
+  "sociology": {
+    "vi": "xã hội học",
+    "coll": ["study sociology", "a sociology degree", "a professor of sociology", "urban sociology", "sociology of religion"]
+  },
+  "jointly": {
+    "vi": "chung, cùng nhau; đồng thời cả hai bên",
+    "coll": ["jointly owned", "jointly responsible", "jointly funded", "jointly developed", "jointly and severally liable"]
+  },
+  "developmental": {
+    "vi": "thuộc phát triển; về sự phát triển",
+    "coll": ["developmental stages", "developmental delay", "developmental psychology", "developmental disorder", "developmental milestones"]
+  },
+  "vegetation": {
+    "vi": "thảm thực vật; cây cỏ",
+    "coll": ["dense vegetation", "lush vegetation", "natural vegetation", "vegetation cover", "clear the vegetation"]
+  },
+  "continuity": {
+    "vi": "tính liên tục; sự nối tiếp, mạch liên hoàn",
+    "coll": ["ensure continuity", "business continuity", "a sense of continuity", "continuity of care", "a continuity error"]
+  },
+  "offspring": {
+    "vi": "con cái; đời con, hậu duệ",
+    "coll": ["their offspring", "produce offspring", "human offspring", "raise offspring", "the offspring of the pair"]
+  },
+  "simplicity": {
+    "vi": "sự đơn giản; tính giản dị",
+    "coll": ["for the sake of simplicity", "elegant simplicity", "the simplicity of the design", "simplicity itself", "beauty in simplicity"]
+  },
+  "prop": {
+    "vi": "chống đỡ, kê; đạo cụ; vật chống",
+    "coll": ["prop up the economy", "prop the door open", "a stage prop", "use as a prop", "prop yourself up"]
+  },
+  "maternal": {
+    "vi": "thuộc về mẹ; bên ngoại; đầy tình mẫu tử",
+    "coll": ["maternal instinct", "maternal health", "maternal grandmother", "maternal mortality", "maternal love"]
+  },
+  "contested": {
+    "vi": "bị tranh cãi; bị tranh giành quyết liệt",
+    "coll": ["a hotly contested election", "a contested divorce", "a contested claim", "fiercely contested", "contested territory"]
+  },
+  "credible": {
+    "vi": "đáng tin cậy; có sức thuyết phục",
+    "coll": ["a credible witness", "credible evidence", "a credible threat", "highly credible", "a credible alternative"]
+  },
+  "lunar": {
+    "vi": "thuộc mặt trăng; âm lịch",
+    "coll": ["a lunar eclipse", "the lunar surface", "lunar calendar", "lunar module", "lunar new year"]
+  },
+  "algebra": {
+    "vi": "đại số, đại số học",
+    "coll": ["linear algebra", "study algebra", "an algebra problem", "basic algebra", "algebra and geometry"]
+  },
+  "antenna": {
+    "vi": "ăng ten; râu (côn trùng)",
+    "coll": ["a satellite antenna", "a radio antenna", "adjust the antenna", "an insect's antennae", "antenna signal"]
+  },
+  "felony": {
+    "vi": "trọng tội",
+    "coll": ["commit a felony", "a felony charge", "convicted of a felony", "a felony conviction", "a class A felony"]
+  },
+  "fortress": {
+    "vi": "pháo đài; thành lũy",
+    "coll": ["a medieval fortress", "an impregnable fortress", "storm the fortress", "a mountain fortress", "fortress walls"]
+  },
+  "pathway": {
+    "vi": "con đường, lối đi; lộ trình; đường dẫn (sinh hóa)",
+    "coll": ["a career pathway", "a garden pathway", "a metabolic pathway", "a pathway to success", "neural pathways"]
+  },
+  "occurrence": {
+    "vi": "sự việc xảy ra; sự xuất hiện; tần suất xảy ra",
+    "coll": ["a rare occurrence", "a common occurrence", "an everyday occurrence", "the occurrence of errors", "a regular occurrence"]
+  },
+  "fundamentally": {
+    "vi": "về cơ bản; tận gốc rễ",
+    "coll": ["fundamentally different", "fundamentally flawed", "fundamentally change", "fundamentally wrong", "fundamentally sound"]
+  },
+  "velvet": {
+    "vi": "nhung, vải nhung; mượt như nhung",
+    "coll": ["a velvet dress", "red velvet cake", "velvet curtains", "soft as velvet", "the Velvet Revolution"]
+  },
+  "undercover": {
+    "vi": "bí mật, hoạt động ngầm; chìm (cảnh sát)",
+    "coll": ["an undercover agent", "go undercover", "an undercover operation", "undercover police", "undercover investigation"]
+  },
+  "floral": {
+    "vi": "hoa, có họa tiết hoa; thuộc về hoa",
+    "coll": ["a floral pattern", "a floral dress", "floral arrangement", "a floral scent", "floral tribute"]
+  },
+  "memoir": {
+    "vi": "hồi ký; tự truyện",
+    "coll": ["write a memoir", "publish a memoir", "a bestselling memoir", "a personal memoir", "a memoir of her childhood"]
+  },
+  "drainage": {
+    "vi": "sự thoát nước; hệ thống thoát nước",
+    "coll": ["poor drainage", "a drainage system", "drainage ditch", "improve drainage", "drainage pipe"]
+  },
+  "theological": {
+    "vi": "thuộc thần học",
+    "coll": ["a theological seminary", "theological debate", "theological studies", "theological differences", "a theological argument"]
+  },
+  "insider": {
+    "vi": "người trong cuộc; người nội bộ",
+    "coll": ["insider trading", "an industry insider", "insider information", "a political insider", "insider knowledge"]
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "standing": {
+    "vi": "vị thế, uy tín; thường trực, lâu dài; sự đứng",
+    "coll": ["standing ovation", "long-standing tradition", "standing order", "social standing", "standing committee"]
+  },
+  "regulatory": {
+    "vi": "thuộc quản lý nhà nước; điều tiết, giám sát",
+    "coll": ["regulatory framework", "regulatory body", "regulatory compliance", "regulatory approval", "regulatory authority"]
+  },
+  "integration": {
+    "vi": "sự tích hợp; sự hòa nhập; sự hợp nhất",
+    "coll": ["economic integration", "social integration", "system integration", "racial integration", "seamless integration"]
+  },
+  "counsel": {
+    "vi": "lời khuyên; luật sư (biện hộ); khuyên bảo",
+    "coll": ["legal counsel", "seek counsel", "general counsel", "counsel for the defence", "wise counsel"]
+  },
+  "muscle-bound": {
+    "vi": "cơ bắp cuồn cuộn mà kém dẻo; nặng nề, cứng nhắc",
+    "coll": ["muscle-bound physique", "muscle-bound bodybuilder", "muscle-bound hero", "look muscle-bound"]
+  },
+  "cognitive": {
+    "vi": "thuộc nhận thức; thuộc tư duy",
+    "coll": ["cognitive ability", "cognitive development", "cognitive decline", "cognitive behavioural therapy", "cognitive skills"]
+  },
+  "ore": {
+    "vi": "quặng; mỏ quặng",
+    "coll": ["iron ore", "ore deposit", "copper ore", "extract ore", "ore reserves"]
+  },
+  "provincial": {
+    "vi": "thuộc tỉnh; tỉnh lẻ, quê mùa; người tỉnh lẻ",
+    "coll": ["provincial government", "provincial capital", "provincial town", "provincial attitudes", "provincial election"]
+  },
+  "merit": {
+    "vi": "ưu điểm, giá trị; công trạng; xứng đáng được",
+    "coll": ["on merit", "merit consideration", "artistic merit", "merit-based system", "have merit"]
+  },
+  "hull": {
+    "vi": "thân tàu; vỏ (hạt, quả); bóc vỏ",
+    "coll": ["ship's hull", "hull damage", "steel hull", "hull strawberries", "double hull"]
+  },
+  "bout": {
+    "vi": "đợt, cơn (bệnh); trận đấu",
+    "coll": ["a bout of flu", "a bout of depression", "boxing bout", "a drinking bout", "a bout of coughing"]
+  },
+  "echo": {
+    "vi": "tiếng vọng; vọng lại; lặp lại ý người khác",
+    "coll": ["hear an echo", "echo of the past", "echo the sentiment", "echo chamber", "faint echo"]
+  },
+  "tactical": {
+    "vi": "thuộc chiến thuật; có tính toán khôn khéo",
+    "coll": ["tactical decision", "tactical error", "tactical voting", "tactical nuclear weapons", "tactical approach"]
+  },
+  "herald": {
+    "vi": "báo hiệu; loan báo; người đưa tin",
+    "coll": ["herald a new era", "herald the arrival", "herald of spring", "widely heralded", "herald change"]
+  },
+  "secular": {
+    "vi": "thế tục, phi tôn giáo; lâu dài (xu hướng)",
+    "coll": ["secular state", "secular education", "secular society", "secular trend", "secular values"]
+  },
+  "rhetoric": {
+    "vi": "lời lẽ hoa mỹ; thuật hùng biện; tu từ học",
+    "coll": ["political rhetoric", "empty rhetoric", "heated rhetoric", "anti-immigrant rhetoric", "rhetoric and reality"]
+  },
+  "prone": {
+    "vi": "dễ bị, hay mắc; nằm sấp",
+    "coll": ["prone to error", "accident-prone", "prone to injury", "lie prone", "prone position"]
+  },
+  "accountability": {
+    "vi": "trách nhiệm giải trình; sự chịu trách nhiệm",
+    "coll": ["public accountability", "lack of accountability", "hold to account", "accountability and transparency", "corporate accountability"]
+  },
+  "hypothesis": {
+    "vi": "giả thuyết; giả định",
+    "coll": ["test a hypothesis", "null hypothesis", "working hypothesis", "support the hypothesis", "reject a hypothesis"]
+  },
+  "correlation": {
+    "vi": "mối tương quan; sự liên hệ qua lại",
+    "coll": ["strong correlation", "positive correlation", "direct correlation", "correlation coefficient", "correlation between"]
+  },
+  "commodity": {
+    "vi": "hàng hóa; nguyên liệu thô; thứ có giá trị",
+    "coll": ["commodity prices", "commodity market", "a rare commodity", "agricultural commodity", "commodity trading"]
+  },
+  "scroll": {
+    "vi": "cuộn giấy; cuộn (màn hình); hoa văn xoắn",
+    "coll": ["ancient scroll", "scroll down", "scroll through", "papyrus scroll", "scroll bar"]
+  },
+  "legion": {
+    "vi": "quân đoàn; vô số, đông vô kể",
+    "coll": ["Roman legion", "foreign legion", "a legion of fans", "legions of followers", "their number is legion"]
+  },
+  "autonomous": {
+    "vi": "tự trị; tự hành; độc lập",
+    "coll": ["autonomous region", "autonomous vehicle", "autonomous body", "fully autonomous", "autonomous decision-making"]
+  },
+  "proposition": {
+    "vi": "đề xuất; mệnh đề; việc phải làm",
+    "coll": ["business proposition", "value proposition", "attractive proposition", "a risky proposition", "put forward a proposition"]
+  },
+  "synthesis": {
+    "vi": "sự tổng hợp; phép tổng hợp",
+    "coll": ["protein synthesis", "chemical synthesis", "a synthesis of ideas", "synthesis of research", "speech synthesis"]
+  },
+  "wholly": {
+    "vi": "hoàn toàn; trọn vẹn",
+    "coll": ["wholly owned subsidiary", "wholly dependent", "not wholly", "wholly unacceptable", "wholly different"]
+  },
+  "methodology": {
+    "vi": "phương pháp luận; hệ phương pháp",
+    "coll": ["research methodology", "sound methodology", "methodology section", "adopt a methodology", "teaching methodology"]
+  },
+  "ironic": {
+    "vi": "mỉa mai; trớ trêu; châm biếm",
+    "coll": ["ironic twist", "deeply ironic", "ironic smile", "somewhat ironic", "ironic comment"]
+  },
+  "vicinity": {
+    "vi": "vùng lân cận; khoảng chừng",
+    "coll": ["in the vicinity of", "immediate vicinity", "in the vicinity", "surrounding vicinity", "vicinity of the school"]
+  },
+  "cosmic": {
+    "vi": "thuộc vũ trụ; lớn lao phi thường",
+    "coll": ["cosmic rays", "cosmic dust", "cosmic scale", "cosmic order", "cosmic significance"]
+  },
+  "incumbent": {
+    "vi": "đương nhiệm; người đương nhiệm; là bổn phận của",
+    "coll": ["incumbent president", "the incumbent government", "it is incumbent upon", "incumbent candidate", "defeat the incumbent"]
+  },
+  "corpse": {
+    "vi": "xác chết; thi thể",
+    "coll": ["a rotting corpse", "discover a corpse", "corpse of a man", "bury the corpse", "lifeless corpse"]
+  },
+  "spatial": {
+    "vi": "thuộc không gian",
+    "coll": ["spatial awareness", "spatial distribution", "spatial relationship", "spatial planning", "spatial reasoning"]
+  },
+  "mesh": {
+    "vi": "lưới; ăn khớp; khớp với nhau",
+    "coll": ["wire mesh", "fine mesh", "mesh network", "mesh together", "mesh with"]
+  },
+  "solitary": {
+    "vi": "đơn độc; hẻo lánh; biệt giam",
+    "coll": ["solitary confinement", "a solitary figure", "solitary life", "solitary walk", "solitary existence"]
+  },
+  "paramount": {
+    "vi": "tối quan trọng; tối cao",
+    "coll": ["of paramount importance", "paramount concern", "safety is paramount", "paramount consideration", "paramount duty"]
+  },
+  "reconciliation": {
+    "vi": "sự hòa giải; sự đối chiếu sổ sách",
+    "coll": ["national reconciliation", "truth and reconciliation", "bank reconciliation", "peace and reconciliation", "seek reconciliation"]
+  },
+  "tactic": {
+    "vi": "chiến thuật; thủ thuật",
+    "coll": ["scare tactics", "delaying tactics", "change tactics", "aggressive tactics", "bullying tactics"]
+  },
+  "ad lib": {
+    "vi": "ứng khẩu, nói ứng biến; tùy hứng",
+    "coll": ["ad lib a speech", "ad lib the lines", "ad lib on stage", "have to ad lib"]
+  },
+  "proprietary": {
+    "vi": "độc quyền sở hữu; thuộc quyền sở hữu",
+    "coll": ["proprietary software", "proprietary technology", "proprietary information", "proprietary rights", "proprietary format"]
+  },
+  "malicious": {
+    "vi": "hiểm độc; ác ý",
+    "coll": ["malicious intent", "malicious software", "malicious gossip", "malicious damage", "malicious attack"]
+  },
+  "helm": {
+    "vi": "vị trí lãnh đạo; bánh lái; lái tàu",
+    "coll": ["at the helm", "take the helm", "helm of the company", "man the helm", "helm a project"]
+  },
+  "vocational": {
+    "vi": "thuộc dạy nghề; hướng nghiệp",
+    "coll": ["vocational training", "vocational school", "vocational education", "vocational course", "vocational guidance"]
+  },
+  "rift": {
+    "vi": "rạn nứt (quan hệ); khe nứt",
+    "coll": ["a growing rift", "heal the rift", "rift between them", "deep rift", "rift valley"]
+  },
+  "corpus": {
+    "vi": "kho ngữ liệu; tuyển tập tác phẩm",
+    "coll": ["a corpus of texts", "language corpus", "corpus linguistics", "large corpus", "corpus of work"]
+  },
+  "practitioner": {
+    "vi": "người hành nghề; thầy thuốc",
+    "coll": ["general practitioner", "medical practitioner", "legal practitioner", "experienced practitioner", "nurse practitioner"]
+  },
+  "gale": {
+    "vi": "gió mạnh, bão cấp lớn; tràng (cười)",
+    "coll": ["gale force winds", "a severe gale", "gale warning", "gales of laughter", "howling gale"]
+  },
+  "nostalgia": {
+    "vi": "nỗi hoài niệm; nỗi nhớ quê nhà",
+    "coll": ["a wave of nostalgia", "nostalgia for the past", "feel nostalgia", "sense of nostalgia", "pure nostalgia"]
+  },
+  "hypothetical": {
+    "vi": "giả định; mang tính giả thuyết",
+    "coll": ["hypothetical situation", "purely hypothetical", "hypothetical scenario", "hypothetical question", "hypothetical example"]
+  },
+  "proliferation": {
+    "vi": "sự lan tràn; sự phổ biến (vũ khí); sự tăng sinh",
+    "coll": ["nuclear proliferation", "proliferation of weapons", "rapid proliferation", "cell proliferation", "non-proliferation treaty"]
+  },
+  "proportional": {
+    "vi": "tỉ lệ thuận; tương xứng theo tỉ lệ",
+    "coll": ["proportional representation", "directly proportional", "inversely proportional", "proportional to income", "proportional increase"]
+  },
+  "equilibrium": {
+    "vi": "trạng thái cân bằng; sự thăng bằng",
+    "coll": ["reach equilibrium", "market equilibrium", "maintain equilibrium", "thermal equilibrium", "restore equilibrium"]
+  },
+  "authenticity": {
+    "vi": "tính xác thực; sự chân thật",
+    "coll": ["verify the authenticity", "question the authenticity", "cultural authenticity", "authenticity of the document", "sense of authenticity"]
+  },
+  "scholarly": {
+    "vi": "uyên bác; mang tính học thuật",
+    "coll": ["scholarly work", "scholarly article", "scholarly research", "scholarly journal", "scholarly debate"]
+  },
+  "transmitter": {
+    "vi": "máy phát sóng; vật truyền dẫn",
+    "coll": ["radio transmitter", "TV transmitter", "transmitter station", "install a transmitter", "signal transmitter"]
+  },
+  "blitz": {
+    "vi": "đợt tấn công chớp nhoáng; làm ráo riết",
+    "coll": ["media blitz", "advertising blitz", "a blitz on litter", "blitz the opposition", "blitz campaign"]
+  },
+  "combustion": {
+    "vi": "sự đốt cháy; sự cháy",
+    "coll": ["internal combustion engine", "spontaneous combustion", "combustion chamber", "complete combustion", "combustion process"]
+  },
+  "parameter": {
+    "vi": "tham số, thông số; giới hạn khuôn khổ",
+    "coll": ["set the parameters", "within the parameters", "key parameter", "design parameters", "parameter value"]
+  },
+  "adhere": {
+    "vi": "tuân thủ; bám dính; trung thành với",
+    "coll": ["adhere to the rules", "adhere to a schedule", "adhere to the surface", "strictly adhere", "adhere to principles"]
+  },
+  "eminent": {
+    "vi": "lỗi lạc; kiệt xuất",
+    "coll": ["eminent scientist", "eminent historian", "eminently suitable", "an eminent figure", "eminent domain"]
+  },
+  "induce": {
+    "vi": "gây ra; thuyết phục; kích đẻ",
+    "coll": ["induce sleep", "induce vomiting", "induce labour", "induce someone to do", "stress-induced"]
+  },
+  "interrogation": {
+    "vi": "cuộc thẩm vấn; sự tra hỏi",
+    "coll": ["under interrogation", "police interrogation", "harsh interrogation", "interrogation room", "interrogation techniques"]
+  },
+  "subsidy": {
+    "vi": "khoản trợ cấp; tiền trợ giá",
+    "coll": ["government subsidy", "farm subsidy", "housing subsidy", "cut subsidies", "fuel subsidy"]
+  },
+  "curator": {
+    "vi": "người phụ trách bảo tàng; giám tuyển",
+    "coll": ["museum curator", "art curator", "chief curator", "curator of the exhibition", "assistant curator"]
+  },
+  "physiological": {
+    "vi": "thuộc sinh lý; về cơ thể",
+    "coll": ["physiological response", "physiological changes", "physiological needs", "physiological effects", "physiological function"]
+  },
+  "seismic": {
+    "vi": "thuộc địa chấn; chấn động lớn",
+    "coll": ["seismic activity", "seismic shift", "seismic waves", "seismic survey", "seismic change"]
+  },
+  "menace": {
+    "vi": "mối đe dọa; kẻ gây phiền toái; đe dọa",
+    "coll": ["a public menace", "pose a menace", "menace to society", "with menace", "a growing menace"]
+  },
+  "residue": {
+    "vi": "phần còn lại; cặn, dư lượng",
+    "coll": ["chemical residue", "pesticide residue", "leave a residue", "sticky residue", "residue of the estate"]
+  },
+  "rebound": {
+    "vi": "bật lại; hồi phục; cú bắt bóng bật bảng",
+    "coll": ["on the rebound", "rebound off the wall", "economic rebound", "rebound strongly", "grab the rebound"]
+  },
+  "residual": {
+    "vi": "còn sót lại; phần dư; tiền tác quyền phát lại",
+    "coll": ["residual effects", "residual income", "residual value", "residual risk", "residual heat"]
+  },
+  "procedural": {
+    "vi": "thuộc thủ tục; theo quy trình",
+    "coll": ["procedural error", "procedural issues", "procedural rules", "procedural fairness", "police procedural"]
+  },
+  "brink": {
+    "vi": "bờ vực; miệng vực",
+    "coll": ["on the brink of", "brink of collapse", "brink of war", "teeter on the brink", "pull back from the brink"]
+  },
+  "mediation": {
+    "vi": "sự hòa giải; vai trò trung gian",
+    "coll": ["through mediation", "peace mediation", "mediation process", "offer mediation", "mediation service"]
+  },
+  "angular": {
+    "vi": "góc cạnh; thuộc góc; gầy xương xẩu",
+    "coll": ["angular features", "angular momentum", "angular shape", "angular face", "angular velocity"]
+  },
+  "locomotive": {
+    "vi": "đầu máy xe lửa; đầu tàu (kinh tế)",
+    "coll": ["steam locomotive", "diesel locomotive", "electric locomotive", "locomotive engine", "locomotive of growth"]
+  },
+  "utilization": {
+    "vi": "sự sử dụng; mức tận dụng",
+    "coll": ["resource utilization", "capacity utilization", "efficient utilization", "utilization rate", "land utilization"]
+  },
+  "profitability": {
+    "vi": "khả năng sinh lời; mức sinh lợi",
+    "coll": ["improve profitability", "increase profitability", "long-term profitability", "profitability of the business", "return to profitability"]
+  },
+  "reconcile": {
+    "vi": "dung hòa; hòa giải; đối chiếu sổ sách",
+    "coll": ["reconcile differences", "hard to reconcile", "reconcile with", "reconcile the accounts", "reconcile oneself to"]
+  },
+  "annex": {
+    "vi": "sáp nhập, thôn tính; tòa nhà phụ; phụ lục",
+    "coll": ["annex territory", "annex a region", "hotel annex", "the annex building", "see annex A"]
+  },
+  "slab": {
+    "vi": "tấm lớn (đá, bê tông); miếng dày",
+    "coll": ["concrete slab", "stone slab", "a slab of meat", "marble slab", "slab of chocolate"]
+  },
+  "choreography": {
+    "vi": "vũ đạo; nghệ thuật biên đạo múa",
+    "coll": ["stunning choreography", "dance choreography", "choreography of the ballet", "intricate choreography", "design the choreography"]
+  },
+  "homestead": {
+    "vi": "trang trại gia đình; nhà và đất ở",
+    "coll": ["family homestead", "old homestead", "homestead act", "rural homestead", "return to the homestead"]
+  },
+  "gravitational": {
+    "vi": "thuộc trọng lực; hấp dẫn (vật lý)",
+    "coll": ["gravitational force", "gravitational pull", "gravitational field", "gravitational waves", "gravitational attraction"]
+  },
+  "myriad": {
+    "vi": "vô số; muôn vàn",
+    "coll": ["a myriad of ways", "myriad problems", "myriad forms", "myriad of options", "myriad colours"]
+  },
+  "retrospective": {
+    "vi": "nhìn lại quá khứ; hồi tố; triển lãm hồi cố",
+    "coll": ["retrospective exhibition", "retrospective study", "in retrospect", "retrospective legislation", "retrospective effect"]
+  },
+  "anthology": {
+    "vi": "tuyển tập; hợp tuyển",
+    "coll": ["poetry anthology", "an anthology of short stories", "anthology series", "compile an anthology", "edit an anthology"]
+  },
+  "fabrication": {
+    "vi": "chuyện bịa đặt; sự chế tạo",
+    "coll": ["a complete fabrication", "pure fabrication", "metal fabrication", "steel fabrication", "fabrication of evidence"]
+  },
+  "hysterical": {
+    "vi": "cuồng loạn, kích động dữ dội; buồn cười muốn xỉu",
+    "coll": ["become hysterical", "hysterical laughter", "hysterical crying", "absolutely hysterical", "hysterical reaction"]
+  },
+  "centralized": {
+    "vi": "tập trung hóa; tập quyền",
+    "coll": ["centralized control", "centralized system", "centralized power", "highly centralized", "centralized database"]
+  },
+  "intrinsic": {
+    "vi": "vốn có, nội tại; thuộc bản chất",
+    "coll": ["intrinsic value", "intrinsic motivation", "intrinsic part", "intrinsic quality", "intrinsic to the design"]
+  },
+  "vortex": {
+    "vi": "xoáy nước, luồng xoáy; vòng xoáy cuốn hút",
+    "coll": ["a swirling vortex", "polar vortex", "vortex of violence", "caught in a vortex", "vortex of emotions"]
+  },
+  "stabilize": {
+    "vi": "ổn định; làm cho ổn định",
+    "coll": ["stabilize the economy", "stabilize prices", "stabilize the patient", "stabilize the situation", "begin to stabilize"]
+  },
+  "diminish": {
+    "vi": "giảm bớt; làm suy giảm; hạ thấp",
+    "coll": ["diminish in size", "diminishing returns", "diminish the value", "gradually diminish", "diminish someone's role"]
+  },
+  "apostle": {
+    "vi": "tông đồ; người tiên phong cổ vũ",
+    "coll": ["the twelve apostles", "Apostle Paul", "an apostle of free trade", "apostle of peace", "apostles' creed"]
+  },
+  "nostalgic": {
+    "vi": "hoài niệm; đầy nhớ nhung",
+    "coll": ["feel nostalgic", "nostalgic memories", "nostalgic about the past", "nostalgic mood", "deeply nostalgic"]
+  },
+  "qualitative": {
+    "vi": "định tính; về mặt chất lượng",
+    "coll": ["qualitative research", "qualitative data", "qualitative analysis", "qualitative difference", "qualitative methods"]
+  },
+  "kinetic": {
+    "vi": "thuộc động năng; chuyển động",
+    "coll": ["kinetic energy", "kinetic art", "kinetic theory", "kinetic sculpture", "kinetic movement"]
+  },
+  "contractual": {
+    "vi": "thuộc hợp đồng; theo hợp đồng",
+    "coll": ["contractual obligation", "contractual agreement", "contractual terms", "contractual rights", "contractual dispute"]
+  },
+  "lyrical": {
+    "vi": "trữ tình; du dương; thuộc lời bài hát",
+    "coll": ["lyrical poetry", "lyrical style", "wax lyrical", "lyrical beauty", "lyrical content"]
+  }
+}

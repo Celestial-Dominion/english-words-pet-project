@@ -1,0 +1,786 @@
+[
+ {
+  "id": "dustbin",
+  "pos": [
+   "n"
+  ],
+  "vi": "thùng rác",
+  "coll": [
+   "empty the dustbin",
+   "throw it in the dustbin",
+   "dustbin lid",
+   "the dustbin of history"
+  ]
+ },
+ {
+  "id": "adverb",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trạng từ; phó từ",
+  "coll": [
+   "adverb of frequency",
+   "adverb of manner",
+   "adverb of time",
+   "modify a verb with an adverb"
+  ]
+ },
+ {
+  "id": "feverishly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "hối hả; cuống cuồng; ráo riết",
+  "coll": [
+   "work feverishly",
+   "search feverishly",
+   "write feverishly",
+   "feverishly trying to finish"
+  ]
+ },
+ {
+  "id": "fascinate",
+  "pos": [
+   "v"
+  ],
+  "vi": "mê hoặc; làm say mê; cuốn hút",
+  "coll": [
+   "fascinate the audience",
+   "fascinated by science",
+   "never cease to fascinate",
+   "fascinate readers"
+  ]
+ },
+ {
+  "id": "noisily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ồn ào; ầm ĩ",
+  "coll": [
+   "chew noisily",
+   "laugh noisily",
+   "eat noisily",
+   "complain noisily"
+  ]
+ },
+ {
+  "id": "windsurfing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lướt ván buồm",
+  "coll": [
+   "go windsurfing",
+   "windsurfing lessons",
+   "windsurfing board",
+   "windsurfing equipment"
+  ]
+ },
+ {
+  "id": "signpost",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "biển chỉ đường; cột chỉ đường; cắm biển chỉ dẫn",
+  "coll": [
+   "follow the signposts",
+   "signpost to the village",
+   "clearly signposted",
+   "wooden signpost"
+  ]
+ },
+ {
+  "id": "sundial",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồng hồ mặt trời",
+  "coll": [
+   "ancient sundial",
+   "garden sundial",
+   "read a sundial",
+   "stone sundial"
+  ]
+ },
+ {
+  "id": "hairdryer",
+  "pos": [
+   "n"
+  ],
+  "vi": "máy sấy tóc",
+  "coll": [
+   "use a hairdryer",
+   "turn on the hairdryer",
+   "travel hairdryer",
+   "dry your hair with a hairdryer"
+  ]
+ },
+ {
+  "id": "addressee",
+  "pos": [
+   "n"
+  ],
+  "vi": "người nhận; người nhận thư",
+  "coll": [
+   "name of the addressee",
+   "intended addressee",
+   "addressee unknown",
+   "return to the addressee"
+  ]
+ },
+ {
+  "id": "schoolmate",
+  "pos": [
+   "n"
+  ],
+  "vi": "bạn học; bạn cùng trường",
+  "coll": [
+   "old schoolmate",
+   "former schoolmate",
+   "childhood schoolmate",
+   "reunion with schoolmates"
+  ]
+ },
+ {
+  "id": "retell",
+  "pos": [
+   "v"
+  ],
+  "vi": "kể lại; thuật lại",
+  "coll": [
+   "retell the story",
+   "retell a fairy tale",
+   "retell in your own words",
+   "retell the events"
+  ]
+ },
+ {
+  "id": "sunbathe",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tắm nắng; buổi tắm nắng",
+  "coll": [
+   "sunbathe on the beach",
+   "sunbathe by the pool",
+   "sunbathe in the garden",
+   "sunbathe all afternoon"
+  ]
+ },
+ {
+  "id": "backache",
+  "pos": [
+   "n"
+  ],
+  "vi": "đau lưng; chứng đau lưng",
+  "coll": [
+   "suffer from backache",
+   "have a backache",
+   "chronic backache",
+   "complain of backache"
+  ]
+ },
+ {
+  "id": "courgette",
+  "pos": [
+   "n"
+  ],
+  "vi": "bí ngòi; quả bí ngòi",
+  "coll": [
+   "grilled courgette",
+   "courgette soup",
+   "slice a courgette",
+   "grow courgettes"
+  ]
+ },
+ {
+  "id": "inscribe",
+  "pos": [
+   "v"
+  ],
+  "vi": "khắc chữ; ghi khắc; đề tặng",
+  "coll": [
+   "inscribe a name",
+   "inscribed on the stone",
+   "inscribe a message",
+   "inscribed with his initials"
+  ]
+ },
+ {
+  "id": "flunk",
+  "pos": [
+   "v"
+  ],
+  "vi": "thi trượt; trượt môn; đánh trượt",
+  "coll": [
+   "flunk a test",
+   "flunk math",
+   "flunk out of college",
+   "flunk an exam"
+  ]
+ },
+ {
+  "id": "earache",
+  "pos": [
+   "n"
+  ],
+  "vi": "đau tai; chứng đau tai",
+  "coll": [
+   "have an earache",
+   "suffer from earache",
+   "severe earache",
+   "earache and fever"
+  ]
+ },
+ {
+  "id": "adverbial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc trạng từ; trạng ngữ",
+  "coll": [
+   "adverbial phrase",
+   "adverbial clause",
+   "adverbial modifier"
+  ]
+ },
+ {
+  "id": "horrify",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm kinh hoàng; làm khiếp sợ",
+  "coll": [
+   "horrified by the violence",
+   "horrify audiences",
+   "horrified to discover",
+   "horrify her parents"
+  ]
+ },
+ {
+  "id": "aborigine",
+  "pos": [
+   "n"
+  ],
+  "vi": "thổ dân; người bản địa; thổ dân Úc",
+  "coll": [
+   "Australian Aborigines",
+   "the Aborigines of Australia",
+   "Aborigine communities"
+  ]
+ },
+ {
+  "id": "accustom",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "làm cho quen; tập quen với",
+  "coll": [
+   "accustom yourself to",
+   "become accustomed to",
+   "grow accustomed to",
+   "accustomed to the cold"
+  ]
+ },
+ {
+  "id": "phrasal verb",
+  "pos": [
+   "n"
+  ],
+  "vi": "cụm động từ",
+  "coll": [
+   "common phrasal verbs",
+   "learn phrasal verbs",
+   "separable phrasal verb",
+   "phrasal verb list"
+  ]
+ },
+ {
+  "id": "antonym",
+  "pos": [
+   "n"
+  ],
+  "vi": "từ trái nghĩa",
+  "coll": [
+   "synonyms and antonyms",
+   "the antonym of hot",
+   "find the antonym",
+   "exact antonym"
+  ]
+ },
+ {
+  "id": "reunify",
+  "pos": [
+   "v"
+  ],
+  "vi": "tái thống nhất; thống nhất lại",
+  "coll": [
+   "reunify the country",
+   "reunify Germany",
+   "reunify the two Koreas"
+  ]
+ },
+ {
+  "id": "latecomer",
+  "pos": [
+   "n"
+  ],
+  "vi": "người đến muộn; kẻ đến sau",
+  "coll": [
+   "latecomers will not be admitted",
+   "a latecomer to the market",
+   "seats for latecomers"
+  ]
+ },
+ {
+  "id": "noticeboard",
+  "pos": [
+   "n"
+  ],
+  "vi": "bảng thông báo",
+  "coll": [
+   "pin a notice on the noticeboard",
+   "check the noticeboard",
+   "school noticeboard",
+   "posted on the noticeboard"
+  ]
+ },
+ {
+  "id": "cashpoint",
+  "pos": [
+   "n"
+  ],
+  "vi": "máy rút tiền; cây ATM",
+  "coll": [
+   "withdraw cash from a cashpoint",
+   "the nearest cashpoint",
+   "use a cashpoint",
+   "cashpoint machine"
+  ]
+ },
+ {
+  "id": "washbowl",
+  "pos": [
+   "n"
+  ],
+  "vi": "chậu rửa mặt; bồn rửa mặt",
+  "coll": [
+   "porcelain washbowl",
+   "fill the washbowl",
+   "washbowl and jug"
+  ]
+ },
+ {
+  "id": "leg up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đỡ trèo lên; nâng đỡ, trợ giúp; dắt ngựa đi bộ",
+  "coll": [
+   "give someone a leg up",
+   "get a leg up",
+   "a leg up on the competition"
+  ]
+ },
+ {
+  "id": "press out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ép ra; vắt ra; dập tắt (điếu thuốc)",
+  "coll": [
+   "press out the juice",
+   "press out a cigarette",
+   "press out the dough"
+  ]
+ },
+ {
+  "id": "log in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đăng nhập",
+  "coll": [
+   "log in to your account",
+   "log in with your password",
+   "log in to the website",
+   "unable to log in"
+  ]
+ },
+ {
+  "id": "damp off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chết rạp (cây con); héo gục do nấm",
+  "coll": [
+   "seedlings damp off",
+   "prevent seedlings from damping off",
+   "tomato seedlings damped off"
+  ]
+ },
+ {
+  "id": "pitch in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chung tay giúp; góp sức; góp tiền",
+  "coll": [
+   "everyone pitched in",
+   "pitch in to help",
+   "pitch in with the cleaning",
+   "pitch in some money"
+  ]
+ },
+ {
+  "id": "put up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "dựng lên; treo lên; cho ở nhờ; tăng (giá)",
+  "coll": [
+   "put up a tent",
+   "put up a poster",
+   "put up prices",
+   "put up a fight",
+   "put us up for the night"
+  ]
+ },
+ {
+  "id": "put down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đặt xuống; chê bai, hạ thấp; đặt cọc; ghi lại",
+  "coll": [
+   "put down the phone",
+   "put down a deposit",
+   "put me down in front of everyone",
+   "put down the rebellion",
+   "put the dog down"
+  ]
+ },
+ {
+  "id": "put in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bỏ vào; lắp đặt; nộp (đơn); bỏ (công sức)",
+  "coll": [
+   "put in a request",
+   "put in an application",
+   "put in the effort",
+   "put in long hours",
+   "put in a good word"
+  ]
+ },
+ {
+  "id": "put out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "dập tắt; đưa ra ngoài; làm phiền; công bố",
+  "coll": [
+   "put out the fire",
+   "put out a cigarette",
+   "put out the rubbish",
+   "put out a statement",
+   "put out the lights"
+  ]
+ },
+ {
+  "id": "put off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "hoãn lại; trì hoãn mãi; làm mất hứng; làm phân tâm",
+  "coll": [
+   "put off the meeting",
+   "put off the decision",
+   "put off until tomorrow",
+   "put off by the smell",
+   "never put off till tomorrow"
+  ]
+ },
+ {
+  "id": "put on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "mặc vào; đội, mang vào; bật lên; tăng (cân)",
+  "coll": [
+   "put on your coat",
+   "put on weight",
+   "put on makeup",
+   "put on some music",
+   "put on a show"
+  ]
+ },
+ {
+  "id": "put by",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "để dành; dành dụm",
+  "coll": [
+   "put money by",
+   "put by savings for a rainy day",
+   "put a little by each month"
+  ]
+ },
+ {
+  "id": "put away",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "cất đi; dọn cất; ăn hết sạch; bỏ tù",
+  "coll": [
+   "put away the dishes",
+   "put away your toys",
+   "put away the groceries",
+   "put away money for retirement"
+  ]
+ },
+ {
+  "id": "put to",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đặt (câu hỏi) cho; đưa ra biểu quyết",
+  "coll": [
+   "put a question to the minister",
+   "put it to a vote",
+   "put the proposal to the board"
+  ]
+ },
+ {
+  "id": "kick out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đuổi ra; tống cổ; trục xuất",
+  "coll": [
+   "kicked out of school",
+   "kick him out of the house",
+   "get kicked out",
+   "kick out the troublemakers"
+  ]
+ },
+ {
+  "id": "kick around",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bàn qua bàn lại; đá qua đá lại; ngược đãi; lăn lóc đâu đó",
+  "coll": [
+   "kick around a few ideas",
+   "kick a ball around",
+   "kicked around by his boss",
+   "kicking around the house"
+  ]
+ },
+ {
+  "id": "kick off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bắt đầu; khai mạc; giao bóng",
+  "coll": [
+   "kick off the meeting",
+   "kick off the new season",
+   "the match kicks off at three",
+   "kick off your shoes"
+  ]
+ },
+ {
+  "id": "kick in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bắt đầu có tác dụng; góp tiền; đạp tung (cửa)",
+  "coll": [
+   "the medicine kicks in",
+   "the painkillers kicked in",
+   "kick in the door",
+   "kick in some cash"
+  ]
+ },
+ {
+  "id": "hold up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm chậm trễ; giơ lên; trấn cướp; chống đỡ",
+  "coll": [
+   "hold up traffic",
+   "hold up a bank",
+   "hold up your hand",
+   "sorry to hold you up",
+   "held up in a meeting"
+  ]
+ },
+ {
+  "id": "hang on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chờ chút; bám chặt; giữ lấy",
+  "coll": [
+   "hang on a minute",
+   "hang on tight",
+   "hang on to the railing",
+   "hang on in there"
+  ]
+ },
+ {
+  "id": "hold out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chìa ra; cầm cự; nuôi (hy vọng)",
+  "coll": [
+   "hold out your hand",
+   "hold out hope",
+   "hold out against the attack",
+   "supplies won't hold out"
+  ]
+ },
+ {
+  "id": "hold off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "trì hoãn; cầm chân; khoan hãy làm",
+  "coll": [
+   "hold off on the decision",
+   "hold off the attackers",
+   "the rain held off",
+   "hold off until Monday"
+  ]
+ },
+ {
+  "id": "think about",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nghĩ về; suy nghĩ; cân nhắc",
+  "coll": [
+   "think about the future",
+   "think about it carefully",
+   "think about your family",
+   "something to think about"
+  ]
+ },
+ {
+  "id": "hole up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ẩn náu; trốn kỹ; rúc lại một chỗ",
+  "coll": [
+   "hole up in a cabin",
+   "holed up in a hotel",
+   "hole up for the winter"
+  ]
+ },
+ {
+  "id": "hold back",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "kìm lại; kìm nén (nước mắt); cản bước; giấu giếm",
+  "coll": [
+   "hold back tears",
+   "hold back the crowd",
+   "hold back information",
+   "don't hold back",
+   "hold back a laugh"
+  ]
+ },
+ {
+  "id": "hold over",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "giúp cầm cự tạm; hoãn lại sau; giữ lại thêm",
+  "coll": [
+   "hold me over until dinner",
+   "held over for another week",
+   "hold over the vote"
+  ]
+ },
+ {
+  "id": "show up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "xuất hiện; có mặt, đến; hiện rõ; làm bẽ mặt",
+  "coll": [
+   "show up late",
+   "show up on time",
+   "didn't show up",
+   "show up uninvited",
+   "show up in the test results"
+  ]
+ },
+ {
+  "id": "show off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "khoe khoang; phô diễn; làm nổi bật",
+  "coll": [
+   "show off his new car",
+   "show off in front of friends",
+   "show off your skills",
+   "stop showing off"
+  ]
+ },
+ {
+  "id": "turn down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "từ chối; vặn nhỏ; gập xuống",
+  "coll": [
+   "turn down the offer",
+   "turn down the volume",
+   "turn down an invitation",
+   "turn down the heating"
+  ]
+ },
+ {
+  "id": "turn up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ló mặt, xuất hiện; vặn to lên; được tìm thấy",
+  "coll": [
+   "turn up late",
+   "turn up the volume",
+   "turn up out of nowhere",
+   "something will turn up"
+  ]
+ },
+ {
+  "id": "turn over",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "lật lại, lật úp; giao nộp; đạt doanh thu; trở mình",
+  "coll": [
+   "turn over a new leaf",
+   "turn over the page",
+   "turn over the evidence",
+   "turn over in bed",
+   "turn over millions a year"
+  ]
+ }
+]

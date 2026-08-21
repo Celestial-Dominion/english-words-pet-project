@@ -1,0 +1,875 @@
+[
+ {
+  "id": "intake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lượng nạp vào; đợt tuyển sinh; cửa nạp",
+  "coll": [
+   "calorie intake",
+   "food intake",
+   "air intake",
+   "annual intake",
+   "reduce your intake"
+  ]
+ },
+ {
+  "id": "prey",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con mồi; săn mồi; lợi dụng, hãm hại",
+  "coll": [
+   "easy prey",
+   "bird of prey",
+   "prey on the weak",
+   "fall prey to",
+   "hunt for prey"
+  ]
+ },
+ {
+  "id": "irrelevant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không liên quan; không còn quan trọng",
+  "coll": [
+   "largely irrelevant",
+   "irrelevant to the discussion",
+   "become irrelevant",
+   "irrelevant detail",
+   "totally irrelevant"
+  ]
+ },
+ {
+  "id": "archive",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kho lưu trữ; lưu trữ; tài liệu lưu trữ",
+  "coll": [
+   "national archive",
+   "archive footage",
+   "archive material",
+   "search the archives",
+   "archive a file"
+  ]
+ },
+ {
+  "id": "township",
+  "pos": [
+   "n"
+  ],
+  "vi": "thị trấn; khu dân cư ngoại ô; tổng, xã",
+  "coll": [
+   "township council",
+   "rural township",
+   "South African township",
+   "township residents"
+  ]
+ },
+ {
+  "id": "referendum",
+  "pos": [
+   "n"
+  ],
+  "vi": "trưng cầu dân ý",
+  "coll": [
+   "hold a referendum",
+   "national referendum",
+   "referendum result",
+   "call a referendum",
+   "referendum on independence"
+  ]
+ },
+ {
+  "id": "recalled",
+  "pos": [
+   "v"
+  ],
+  "vi": "đã nhớ lại; đã thu hồi",
+  "coll": [
+   "recalled the incident",
+   "recalled the product",
+   "recalled from the market",
+   "recalled her name"
+  ]
+ },
+ {
+  "id": "revealing",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "hé lộ nhiều điều; hở hang, thiếu vải",
+  "coll": [
+   "a revealing interview",
+   "a revealing dress",
+   "highly revealing",
+   "revealing details",
+   "a revealing study"
+  ]
+ },
+ {
+  "id": "portable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xách tay; di động, dễ mang theo",
+  "coll": [
+   "portable device",
+   "portable computer",
+   "portable charger",
+   "portable heater",
+   "highly portable"
+  ]
+ },
+ {
+  "id": "clan",
+  "pos": [
+   "n"
+  ],
+  "vi": "gia tộc; thị tộc; phe nhóm",
+  "coll": [
+   "clan chief",
+   "family clan",
+   "Scottish clan",
+   "clan member",
+   "rival clans"
+  ]
+ },
+ {
+  "id": "succession",
+  "pos": [
+   "n"
+  ],
+  "vi": "chuỗi liên tiếp; sự kế vị; sự kế nhiệm",
+  "coll": [
+   "in succession",
+   "line of succession",
+   "succession planning",
+   "royal succession",
+   "a succession of events"
+  ]
+ },
+ {
+  "id": "inclusive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bao trùm, hòa nhập; đã bao gồm; tính cả hai đầu",
+  "coll": [
+   "all-inclusive",
+   "inclusive of tax",
+   "an inclusive environment",
+   "socially inclusive",
+   "inclusive language"
+  ]
+ },
+ {
+  "id": "coupled",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đi kèm, kết hợp; được ghép nối",
+  "coll": [
+   "coupled with",
+   "closely coupled",
+   "coupled together",
+   "loosely coupled"
+  ]
+ },
+ {
+  "id": "capitalism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa tư bản",
+  "coll": [
+   "free-market capitalism",
+   "modern capitalism",
+   "the rise of capitalism",
+   "global capitalism",
+   "crony capitalism"
+  ]
+ },
+ {
+  "id": "clash",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc đụng độ; xung đột; chỏi nhau (màu sắc)",
+  "coll": [
+   "violent clash",
+   "clash with police",
+   "culture clash",
+   "the colours clash",
+   "a clash of interests"
+  ]
+ },
+ {
+  "id": "wholesale",
+  "pos": [
+   "n",
+   "adj",
+   "adv",
+   "v"
+  ],
+  "vi": "bán sỉ; bán buôn; ồ ạt, hàng loạt",
+  "coll": [
+   "wholesale price",
+   "wholesale market",
+   "buy wholesale",
+   "wholesale trade",
+   "wholesale changes"
+  ]
+ },
+ {
+  "id": "poker",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bài poker; que cời lửa",
+  "coll": [
+   "play poker",
+   "poker face",
+   "poker game",
+   "poker chips",
+   "poker tournament"
+  ]
+ },
+ {
+  "id": "hardcore",
+  "pos": [
+   "n",
+   "adv"
+  ],
+  "vi": "nhạc hardcore; nhóm nòng cốt cực đoan; một cách quyết liệt",
+  "coll": [
+   "hardcore fan",
+   "hardcore punk",
+   "hardcore gamer",
+   "hardcore supporters",
+   "go hardcore"
+  ]
+ },
+ {
+  "id": "bachelor",
+  "pos": [
+   "n"
+  ],
+  "vi": "cử nhân; đàn ông độc thân",
+  "coll": [
+   "bachelor's degree",
+   "bachelor of arts",
+   "confirmed bachelor",
+   "bachelor party",
+   "eligible bachelor"
+  ]
+ },
+ {
+  "id": "configuration",
+  "pos": [
+   "n"
+  ],
+  "vi": "cấu hình; cách bố trí",
+  "coll": [
+   "system configuration",
+   "configuration file",
+   "default configuration",
+   "change the configuration",
+   "hardware configuration"
+  ]
+ },
+ {
+  "id": "mandate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự ủy nhiệm; mệnh lệnh chính thức; ra lệnh bắt buộc",
+  "coll": [
+   "a clear mandate",
+   "give a mandate",
+   "a mandate from the voters",
+   "mandate vaccines",
+   "legal mandate"
+  ]
+ },
+ {
+  "id": "sexuality",
+  "pos": [
+   "n"
+  ],
+  "vi": "xu hướng tính dục; đời sống tình dục",
+  "coll": [
+   "human sexuality",
+   "explore one's sexuality",
+   "female sexuality",
+   "open about his sexuality",
+   "questions about sexuality"
+  ]
+ },
+ {
+  "id": "autism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chứng tự kỷ",
+  "coll": [
+   "autism spectrum",
+   "diagnosed with autism",
+   "autism awareness",
+   "children with autism",
+   "severe autism"
+  ]
+ },
+ {
+  "id": "randomly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngẫu nhiên; tùy tiện, bất chợt",
+  "coll": [
+   "randomly selected",
+   "randomly assigned",
+   "randomly generated",
+   "chosen randomly",
+   "randomly distributed"
+  ]
+ },
+ {
+  "id": "variables",
+  "pos": [
+   "n"
+  ],
+  "vi": "các biến số; những yếu tố thay đổi",
+  "coll": [
+   "independent variables",
+   "dependent variables",
+   "control the variables",
+   "key variables",
+   "environmental variables"
+  ]
+ },
+ {
+  "id": "substantially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đáng kể; về cơ bản",
+  "coll": [
+   "substantially higher",
+   "increase substantially",
+   "substantially different",
+   "substantially reduced",
+   "substantially the same"
+  ]
+ },
+ {
+  "id": "fraction",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phân số; một phần nhỏ",
+  "coll": [
+   "a fraction of the cost",
+   "a small fraction",
+   "simplify a fraction",
+   "a fraction of a second",
+   "decimal fraction"
+  ]
+ },
+ {
+  "id": "circulation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự lưu thông; tuần hoàn máu; lượng phát hành",
+  "coll": [
+   "blood circulation",
+   "in circulation",
+   "out of circulation",
+   "newspaper circulation",
+   "poor circulation"
+  ]
+ },
+ {
+  "id": "integral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không thể thiếu; tích phân; thuộc số nguyên",
+  "coll": [
+   "an integral part",
+   "integral to the plan",
+   "integral role",
+   "integral component",
+   "definite integral"
+  ]
+ },
+ {
+  "id": "viable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khả thi; sống được, tồn tại được",
+  "coll": [
+   "viable option",
+   "commercially viable",
+   "viable alternative",
+   "economically viable",
+   "viable solution"
+  ]
+ },
+ {
+  "id": "dame",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quý bà (tước hiệu Dame); bà, cô nàng (cũ)",
+  "coll": [
+   "Dame Judi Dench",
+   "grande dame",
+   "a classy dame",
+   "pantomime dame"
+  ]
+ },
+ {
+  "id": "canvas",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vải bạt; toan vẽ; bức tranh sơn dầu",
+  "coll": [
+   "oil on canvas",
+   "canvas bag",
+   "canvas shoes",
+   "a blank canvas",
+   "paint on canvas"
+  ]
+ },
+ {
+  "id": "touchdown",
+  "pos": [
+   "n"
+  ],
+  "vi": "cú ghi điểm (bóng bầu dục); sự hạ cánh",
+  "coll": [
+   "score a touchdown",
+   "touchdown pass",
+   "winning touchdown",
+   "touchdown on the moon",
+   "return for a touchdown"
+  ]
+ },
+ {
+  "id": "maritime",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hàng hải; thuộc biển; ven biển",
+  "coll": [
+   "maritime law",
+   "maritime industry",
+   "maritime security",
+   "maritime trade",
+   "maritime border"
+  ]
+ },
+ {
+  "id": "rapper",
+  "pos": [
+   "n"
+  ],
+  "vi": "ca sĩ nhạc rap; rapper",
+  "coll": [
+   "famous rapper",
+   "American rapper",
+   "underground rapper",
+   "rapper and producer",
+   "aspiring rapper"
+  ]
+ },
+ {
+  "id": "deceased",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đã qua đời; người quá cố",
+  "coll": [
+   "the deceased",
+   "recently deceased",
+   "deceased person",
+   "the family of the deceased",
+   "deceased estate"
+  ]
+ },
+ {
+  "id": "artillery",
+  "pos": [
+   "n"
+  ],
+  "vi": "pháo binh; pháo, đại bác",
+  "coll": [
+   "heavy artillery",
+   "artillery fire",
+   "artillery shell",
+   "artillery unit",
+   "artillery barrage"
+  ]
+ },
+ {
+  "id": "tab",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thẻ tab (trình duyệt); nhãn nhỏ; hóa đơn phải trả",
+  "coll": [
+   "open a new tab",
+   "close the tab",
+   "pick up the tab",
+   "keep tabs on",
+   "browser tab"
+  ]
+ },
+ {
+  "id": "explicitly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách rõ ràng; nói thẳng ra",
+  "coll": [
+   "explicitly stated",
+   "explicitly mentioned",
+   "explicitly forbidden",
+   "explicitly say",
+   "explicitly designed"
+  ]
+ },
+ {
+  "id": "explicit",
+  "pos": [
+   "adj",
+   "phr"
+  ],
+  "vi": "rõ ràng, dứt khoát; nói thẳng; có nội dung nhạy cảm",
+  "coll": [
+   "explicit instructions",
+   "explicit content",
+   "sexually explicit",
+   "make it explicit",
+   "explicit consent"
+  ]
+ },
+ {
+  "id": "polar",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc vùng cực; đối cực; phân cực",
+  "coll": [
+   "polar bear",
+   "polar ice",
+   "polar regions",
+   "polar opposite",
+   "polar molecule"
+  ]
+ },
+ {
+  "id": "clearance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự cho phép, giấy phép; khoảng hở; đợt thanh lý",
+  "coll": [
+   "security clearance",
+   "clearance sale",
+   "clearance from customs",
+   "ground clearance",
+   "get clearance"
+  ]
+ },
+ {
+  "id": "preview",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bản xem trước; buổi chiếu thử; xem trước",
+  "coll": [
+   "preview of the film",
+   "press preview",
+   "sneak preview",
+   "preview the changes",
+   "preview mode"
+  ]
+ },
+ {
+  "id": "architectural",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc kiến trúc",
+  "coll": [
+   "architectural design",
+   "architectural style",
+   "architectural firm",
+   "architectural drawing",
+   "architectural heritage"
+  ]
+ },
+ {
+  "id": "uber",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "siêu, cực kỳ; xe Uber",
+  "coll": [
+   "uber cool",
+   "uber rich",
+   "uber trendy",
+   "take an Uber",
+   "Uber driver"
+  ]
+ },
+ {
+  "id": "salvation",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự cứu rỗi; sự cứu vãn; cứu tinh",
+  "coll": [
+   "eternal salvation",
+   "path to salvation",
+   "the Salvation Army",
+   "seek salvation",
+   "economic salvation"
+  ]
+ },
+ {
+  "id": "amid",
+  "pos": [
+   "prep"
+  ],
+  "vi": "giữa lúc; trong bối cảnh",
+  "coll": [
+   "amid concerns",
+   "amid the crisis",
+   "amid growing tension",
+   "amid speculation",
+   "amid the chaos"
+  ]
+ },
+ {
+  "id": "synthetic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tổng hợp; nhân tạo",
+  "coll": [
+   "synthetic material",
+   "synthetic fibre",
+   "synthetic rubber",
+   "synthetic drug",
+   "synthetic biology"
+  ]
+ },
+ {
+  "id": "plasma",
+  "pos": [
+   "n"
+  ],
+  "vi": "huyết tương; plasma (trạng thái vật chất)",
+  "coll": [
+   "blood plasma",
+   "plasma screen",
+   "plasma donation",
+   "plasma physics",
+   "plasma TV"
+  ]
+ },
+ {
+  "id": "plea",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lời khẩn cầu; lời khai nhận tội",
+  "coll": [
+   "make a plea",
+   "guilty plea",
+   "a plea for help",
+   "plea bargain",
+   "enter a plea"
+  ]
+ },
+ {
+  "id": "vegan",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuần chay; người ăn thuần chay",
+  "coll": [
+   "vegan diet",
+   "vegan food",
+   "go vegan",
+   "vegan restaurant",
+   "strict vegan"
+  ]
+ },
+ {
+  "id": "binary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nhị phân; nhị nguyên, hai trạng thái",
+  "coll": [
+   "binary code",
+   "binary system",
+   "binary number",
+   "binary star",
+   "non-binary"
+  ]
+ },
+ {
+  "id": "spouse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vợ hoặc chồng; người bạn đời",
+  "coll": [
+   "surviving spouse",
+   "spouse and children",
+   "former spouse",
+   "spouse visa",
+   "your spouse's income"
+  ]
+ },
+ {
+  "id": "distress",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nỗi đau khổ; sự khốn quẫn; làm đau buồn",
+  "coll": [
+   "emotional distress",
+   "in distress",
+   "cause distress",
+   "signs of distress",
+   "distress signal"
+  ]
+ },
+ {
+  "id": "collision",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự va chạm; vụ đâm nhau",
+  "coll": [
+   "head-on collision",
+   "collision course",
+   "avoid a collision",
+   "collision with a truck",
+   "mid-air collision"
+  ]
+ },
+ {
+  "id": "quarterback",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiền vệ (bóng bầu dục); chỉ huy, điều phối",
+  "coll": [
+   "starting quarterback",
+   "rookie quarterback",
+   "backup quarterback",
+   "sack the quarterback",
+   "quarterback the project"
+  ]
+ },
+ {
+  "id": "stat",
+  "pos": [
+   "adv",
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "ngay lập tức; số liệu thống kê",
+  "coll": [
+   "I need it stat",
+   "get me a doctor stat",
+   "check the stats",
+   "key stats"
+  ]
+ },
+ {
+  "id": "sensitivity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nhạy cảm; độ nhạy; sự tế nhị",
+  "coll": [
+   "cultural sensitivity",
+   "high sensitivity",
+   "sensitivity to light",
+   "sensitivity analysis",
+   "handle with sensitivity"
+  ]
+ },
+ {
+  "id": "depot",
+  "pos": [
+   "n"
+  ],
+  "vi": "kho hàng; bến, trạm xe",
+  "coll": [
+   "bus depot",
+   "storage depot",
+   "train depot",
+   "military depot",
+   "depot for supplies"
+  ]
+ },
+ {
+  "id": "robust",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vững chắc, bền bỉ; mạnh mẽ; khỏe khoắn",
+  "coll": [
+   "robust economy",
+   "robust system",
+   "robust defence",
+   "robust growth",
+   "robust health"
+  ]
+ }
+]

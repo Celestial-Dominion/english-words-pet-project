@@ -1,0 +1,993 @@
+[
+ {
+  "id": "proscription",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A prohibition.",
+   "Decree of condemnation toward one or more persons, especially in the Roman antiquity.",
+   "The act of proscribing, or its result."
+  ]
+ },
+ {
+  "id": "ingrate",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "en": [
+   "An ungrateful or unpleasant person."
+  ],
+  "reg": [
+   "literary"
+  ]
+ },
+ {
+  "id": "irrelevancy",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The quality of being irrelevant or inapplicable",
+   "A thing that is irrelevant—having no bearing on the subject of discussion."
+  ]
+ },
+ {
+  "id": "connote",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To signify beyond its literal or principal meaning.",
+   "To possess an inseparable related condition",
+   "To express without overt reference"
+  ]
+ },
+ {
+  "id": "infallibly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an infallible manner."
+  ]
+ },
+ {
+  "id": "edify",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To instruct or improve morally or intellectually."
+  ]
+ },
+ {
+  "id": "incongruously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an incongruous manner."
+  ]
+ },
+ {
+  "id": "idiosyncrasy",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A behavior or way of thinking that is characteristic of a person or a group.",
+   "A peculiar individual reaction to a generally innocuous substance or factor",
+   "A peculiarity that serves to distinguish or identify."
+  ]
+ },
+ {
+  "id": "enthuse",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To show enthusiasm.",
+   "To cause (someone) to feel enthusiasm or to be enthusiastic."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "ingenuous",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Naive and trusting.",
+   "Demonstrating childlike simplicity.",
+   "Unsophisticated"
+  ]
+ },
+ {
+  "id": "unnerve",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To deprive of nerve, force, or strength",
+   "To make somebody nervous, upset, alarm, shake the resolve of."
+  ]
+ },
+ {
+  "id": "denotation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act of denoting, or something (such as a symbol) that denotes",
+   "The primary, surface, literal, or explicit meaning of a signifier such as a word, phrase, or symbol",
+   "The intension and extension of a word"
+  ]
+ },
+ {
+  "id": "interweave",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To combine (things) through weaving.",
+   "To intermingle."
+  ]
+ },
+ {
+  "id": "deaden",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To render less lively",
+   "To become less lively",
+   "To make soundproof."
+  ]
+ },
+ {
+  "id": "materialization",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The conversion of something into a physical form.",
+   "The conversion of energy into mass.",
+   "The creation of a temporary table containing the results of a database query."
+  ]
+ },
+ {
+  "id": "ignominiously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a manner which is ignominious (“especially of a person"
+  ]
+ },
+ {
+  "id": "enduringly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an enduring manner or fashion"
+  ]
+ },
+ {
+  "id": "qualm",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A feeling of apprehension, doubt, fear etc.",
+   "A sudden sickly feeling",
+   "A prick of the conscience"
+  ]
+ },
+ {
+  "id": "deprecate",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To express disapproval of, protest or plead against.",
+   "To belittle, depreciate.",
+   "To declare something obsolescent"
+  ]
+ },
+ {
+  "id": "unexcused",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "That has not been excused."
+  ]
+ },
+ {
+  "id": "indulgently",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an indulgent manner."
+  ]
+ },
+ {
+  "id": "unmediated",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Not mediated"
+  ]
+ },
+ {
+  "id": "dissemble",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To disguise or conceal something.",
+   "To feign, dissimulate.",
+   "To deliberately ignore something"
+  ]
+ },
+ {
+  "id": "forlornly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a forlorn manner."
+  ]
+ },
+ {
+  "id": "preservationist",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A person who advocates for the preservation of natural or man-made landmarks."
+  ]
+ },
+ {
+  "id": "attributive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Modifying another word, typically a noun, while in the same phrase.",
+   "Attributing",
+   "An attributive word or phrase (see above), contrasted with predicative or substantive."
+  ]
+ },
+ {
+  "id": "squirmy",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "That squirms, writhes or wriggles."
+  ]
+ },
+ {
+  "id": "emolument",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Payment for employment or an office",
+   "Material benefit, either direct or indirect."
+  ],
+  "reg": [
+   "formal"
+  ]
+ },
+ {
+  "id": "proscribe",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To forbid or prohibit.",
+   "To denounce.",
+   "To banish or exclude."
+  ]
+ },
+ {
+  "id": "tetchy",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Synonym of touchy"
+  ]
+ },
+ {
+  "id": "remonstrate",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To object with in critical fashion",
+   "Specifically, to lodge an official objection (especially by means of a remonstrance) with a monarch or other ruling body.",
+   "To state or plead as an objection, formal protest, or expression of disapproval."
+  ]
+ },
+ {
+  "id": "remonstrance",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A remonstration"
+  ]
+ },
+ {
+  "id": "retrospection",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The deliberate recall of past events."
+  ]
+ },
+ {
+  "id": "kinetically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a kinetic manner.",
+   "Concerning kinetics."
+  ]
+ },
+ {
+  "id": "haughtily",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a haughty manner"
+  ]
+ },
+ {
+  "id": "plutocrat",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Someone who rules by virtue of his or her wealth."
+  ]
+ },
+ {
+  "id": "emulsification",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The process by which an emulsion is formed."
+  ]
+ },
+ {
+  "id": "formidably",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a formidable manner."
+  ]
+ },
+ {
+  "id": "polysyllabic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Having more than one syllable",
+   "Characterized by or consisting of words having numerous syllables.",
+   "A word having more than one syllable"
+  ]
+ },
+ {
+  "id": "rapturously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a rapturous manner."
+  ]
+ },
+ {
+  "id": "tantalize",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To tease (someone) by offering or showing them something desirable but leaving them unsatisfied."
+  ]
+ },
+ {
+  "id": "unnervingly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "To an unnerving degree"
+  ]
+ },
+ {
+  "id": "munificence",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The quality of being munificent"
+  ]
+ },
+ {
+  "id": "confabulation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A casual conversation",
+   "A fabricated memory believed to be true, especially in someone with dementia or with encephalopathy from advanced alcoholism.",
+   "An assertion, statement, or text generated by a generative AI that is presented by that AI as if it were true but is in fact a made-up,…"
+  ]
+ },
+ {
+  "id": "cogently",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a cogent manner."
+  ]
+ },
+ {
+  "id": "magnanimously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a magnanimous manner."
+  ]
+ },
+ {
+  "id": "emulsify",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To make into an emulsion."
+  ]
+ },
+ {
+  "id": "anthropologically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a manner which pertains to anthropology."
+  ]
+ },
+ {
+  "id": "precociously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a precocious manner."
+  ]
+ },
+ {
+  "id": "recuperative",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "In the way of recuperation.",
+   "Any remedy that aids recuperation."
+  ]
+ },
+ {
+  "id": "lassitude",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Lethargy or lack of energy"
+  ]
+ },
+ {
+  "id": "commensurately",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a commensurate manner",
+   "With equal measure or extent."
+  ]
+ },
+ {
+  "id": "encumber",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To load down something with a burden.",
+   "To restrict or block something with a hindrance or impediment.",
+   "To burden with a legal claim or other obligation."
+  ]
+ },
+ {
+  "id": "redundantly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a redundant manner."
+  ]
+ },
+ {
+  "id": "adulterate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "en": [],
+  "reg": [
+   "literary"
+  ]
+ },
+ {
+  "id": "equable",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Unvarying, calm and steady",
+   "Free from extremes of heat or cold.",
+   "Not easily disturbed"
+  ]
+ },
+ {
+  "id": "intersperse",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To mix two things irregularly, placing things of one kind among things of other.",
+   "To scatter or insert something into or among other things.",
+   "To diversify by placing or inserting other things among something."
+  ]
+ },
+ {
+  "id": "shamble",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "en": [
+   "One of a succession of niches or platforms, one above another, to hold ore which is thrown successively from platform to platform, and…",
+   "To walk while shuffling or dragging the feet."
+  ]
+ },
+ {
+  "id": "blubbery",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Having the characteristics of blubber.",
+   "Fat or obese.",
+   "With much blubbering."
+  ]
+ },
+ {
+  "id": "voracity",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state of being voracious"
+  ]
+ },
+ {
+  "id": "austerely",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an austere manner."
+  ]
+ },
+ {
+  "id": "punitively",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a punitive manner."
+  ]
+ },
+ {
+  "id": "incise",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To cut in or into with a sharp instrument"
+  ]
+ },
+ {
+  "id": "tranquilize",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To calm (a person or animal) or put them to sleep using a tranquilizer dart.",
+   "To make (something or someone) tranquil.",
+   "To dart (a person or animal) with a sedative"
+  ]
+ },
+ {
+  "id": "idiomatically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an idiomatic manner.",
+   "With regard to idiomaticness"
+  ]
+ },
+ {
+  "id": "mundanity",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "mundaneness"
+  ]
+ },
+ {
+  "id": "spuriously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a spurious manner."
+  ]
+ },
+ {
+  "id": "ruminative",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Causing rumination or prone to it",
+   "Relating to or characteristic of ruminants"
+  ]
+ },
+ {
+  "id": "metalled",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Surfaced, tarred, covered in stone or crushed rock (usually tar-coated).",
+   "Made of metal or having metal fittings or plating.",
+   "simple past and past participle of metal"
+  ]
+ },
+ {
+  "id": "promotable",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Able to be promoted"
+  ]
+ },
+ {
+  "id": "ephemerality",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The state or condition of being ephemeral",
+   "Something that is ephemeral."
+  ]
+ },
+ {
+  "id": "angularity",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The property or characteristic of possessing angles.",
+   "A sharp point or angle.",
+   "A stiff, cranky, crotchety manner or behaviour."
+  ]
+ },
+ {
+  "id": "arduously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "in an arduous manner"
+  ]
+ },
+ {
+  "id": "demystification",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The removal of mystery or confusion surrounding a topic or idea."
+  ]
+ },
+ {
+  "id": "computerize",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To convert a manual function or system into a computer system.",
+   "To equip with a computer or a computer system.",
+   "To enter data into such a system."
+  ]
+ },
+ {
+  "id": "ponderously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a ponderous manner",
+   "With the appearance of great weight."
+  ]
+ },
+ {
+  "id": "infernally",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an infernal manner.",
+   "To a great degree"
+  ]
+ },
+ {
+  "id": "undemonstrative",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Not given to showing emotion or feelings"
+  ]
+ },
+ {
+  "id": "suffuse",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "en": [
+   "To spread through or over (something), especially as a liquid, colour or light",
+   "To spread through or over in the manner of a liquid.",
+   "To pour underneath."
+  ]
+ },
+ {
+  "id": "patchily",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a patchy manner."
+  ]
+ },
+ {
+  "id": "deprecatingly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a deprecating manner."
+  ]
+ },
+ {
+  "id": "acrobatically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an acrobatic manner."
+  ]
+ },
+ {
+  "id": "melodiously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a melodious manner."
+  ]
+ },
+ {
+  "id": "luridly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a lurid manner, in a way that contains gauche details or is intended to shock or horrify."
+  ]
+ },
+ {
+  "id": "secularly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a secular fashion."
+  ]
+ },
+ {
+  "id": "cosset",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To treat like a pet",
+   "To fondle",
+   "To benefit"
+  ]
+ },
+ {
+  "id": "proprietorial",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of or pertaining to ownership.",
+   "Characteristic of or behaving like a proprietor or owner (of a thing)"
+  ]
+ },
+ {
+  "id": "patronizingly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a patronizing manner."
+  ]
+ },
+ {
+  "id": "drabness",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The characteristic of being drab."
+  ]
+ },
+ {
+  "id": "euphorically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a euphoric manner."
+  ]
+ },
+ {
+  "id": "indiscrete",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Not discrete mathematically.",
+   "Not divided into discrete parts.",
+   "having at most two open sets"
+  ]
+ },
+ {
+  "id": "opulently",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an opulent manner."
+  ]
+ },
+ {
+  "id": "prurience",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The quality of being prurient."
+  ]
+ },
+ {
+  "id": "philanthropically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a philanthropic manner."
+  ]
+ },
+ {
+  "id": "venomously",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a venomous manner"
+  ]
+ },
+ {
+  "id": "telescopically",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "By means of a telescope.",
+   "Using a telescopic action."
+  ]
+ },
+ {
+  "id": "wordage",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Words collectively, considered in a mass sense.",
+   "The excessive use of words.",
+   "The number of words used in a text"
+  ]
+ },
+ {
+  "id": "unfeasibly",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an unfeasible manner"
+  ]
+ },
+ {
+  "id": "indolently",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an indolent manner."
+  ]
+ },
+ {
+  "id": "interrogatively",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In an interrogative manner"
+  ]
+ }
+]

@@ -1,0 +1,881 @@
+[
+ {
+  "id": "cottage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà tranh; nhà nhỏ ở quê",
+  "coll": [
+   "country cottage",
+   "thatched cottage",
+   "holiday cottage",
+   "cottage cheese",
+   "cosy cottage"
+  ]
+ },
+ {
+  "id": "dash",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dấu gạch ngang; chạy vụt đi; một chút xíu",
+  "coll": [
+   "make a dash for",
+   "a dash of salt",
+   "dash off",
+   "dash across the road",
+   "em dash"
+  ]
+ },
+ {
+  "id": "disposal",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc xử lý rác; sự vứt bỏ; quyền sử dụng",
+  "coll": [
+   "waste disposal",
+   "at your disposal",
+   "garbage disposal",
+   "safe disposal",
+   "disposal of rubbish"
+  ]
+ },
+ {
+  "id": "donation",
+  "pos": [
+   "n"
+  ],
+  "vi": "khoản quyên góp; sự hiến tặng",
+  "coll": [
+   "make a donation",
+   "blood donation",
+   "charitable donation",
+   "generous donation",
+   "donation to charity"
+  ]
+ },
+ {
+  "id": "global warming",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự nóng lên toàn cầu",
+  "coll": [
+   "combat global warming",
+   "the effects of global warming",
+   "contribute to global warming",
+   "slow global warming"
+  ]
+ },
+ {
+  "id": "outlet",
+  "pos": [
+   "n"
+  ],
+  "vi": "cửa hàng bán lẻ; lối thoát cảm xúc; ổ cắm điện",
+  "coll": [
+   "retail outlet",
+   "media outlet",
+   "an outlet for",
+   "power outlet",
+   "outlet store"
+  ]
+ },
+ {
+  "id": "publicity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quảng bá; sự chú ý của công chúng",
+  "coll": [
+   "bad publicity",
+   "publicity stunt",
+   "gain publicity",
+   "publicity campaign",
+   "avoid publicity"
+  ]
+ },
+ {
+  "id": "upside down",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "lộn ngược; đảo lộn hết",
+  "coll": [
+   "turn upside down",
+   "hang upside down",
+   "hold it upside down",
+   "upside down cake"
+  ]
+ },
+ {
+  "id": "vaccine",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "vắc-xin; thuốc chủng ngừa",
+  "coll": [
+   "flu vaccine",
+   "develop a vaccine",
+   "vaccine dose",
+   "COVID vaccine",
+   "administer a vaccine"
+  ]
+ },
+ {
+  "id": "barn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhà kho ở nông trại; chuồng gia súc",
+  "coll": [
+   "an old barn",
+   "barn door",
+   "barn owl",
+   "store hay in the barn"
+  ]
+ },
+ {
+  "id": "cathedral",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "nhà thờ lớn; thánh đường",
+  "coll": [
+   "gothic cathedral",
+   "cathedral city",
+   "visit the cathedral",
+   "medieval cathedral",
+   "cathedral ceiling"
+  ]
+ },
+ {
+  "id": "clause",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mệnh đề; điều khoản hợp đồng",
+  "coll": [
+   "relative clause",
+   "subordinate clause",
+   "contract clause",
+   "escape clause",
+   "a clause in the agreement"
+  ]
+ },
+ {
+  "id": "dock",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bến tàu; cập bến; vành móng ngựa",
+  "coll": [
+   "dry dock",
+   "dock the boat",
+   "loading dock",
+   "in the dock",
+   "dock workers"
+  ]
+ },
+ {
+  "id": "entrepreneur",
+  "pos": [
+   "n"
+  ],
+  "vi": "doanh nhân; người khởi nghiệp",
+  "coll": [
+   "successful entrepreneur",
+   "young entrepreneur",
+   "tech entrepreneur",
+   "serial entrepreneur",
+   "budding entrepreneur"
+  ]
+ },
+ {
+  "id": "expectation",
+  "pos": [
+   "n"
+  ],
+  "vi": "kỳ vọng; sự mong đợi",
+  "coll": [
+   "meet expectations",
+   "exceed expectations",
+   "high expectations",
+   "live up to expectations",
+   "low expectations"
+  ]
+ },
+ {
+  "id": "expedition",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc thám hiểm; chuyến đi xa",
+  "coll": [
+   "lead an expedition",
+   "polar expedition",
+   "scientific expedition",
+   "join an expedition",
+   "expedition to the Arctic"
+  ]
+ },
+ {
+  "id": "facilitate",
+  "pos": [
+   "v"
+  ],
+  "vi": "tạo điều kiện; hỗ trợ; điều phối",
+  "coll": [
+   "facilitate communication",
+   "facilitate learning",
+   "facilitate a meeting",
+   "facilitate change",
+   "facilitate access"
+  ]
+ },
+ {
+  "id": "feat",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "kỳ tích; chiến công",
+  "coll": [
+   "an impressive feat",
+   "achieve a feat",
+   "a remarkable feat",
+   "a feat of engineering",
+   "no mean feat"
+  ]
+ },
+ {
+  "id": "infant",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "trẻ sơ sinh; em bé nhỏ",
+  "coll": [
+   "newborn infant",
+   "infant mortality",
+   "infant formula",
+   "infant school",
+   "premature infant"
+  ]
+ },
+ {
+  "id": "injection",
+  "pos": [
+   "n"
+  ],
+  "vi": "mũi tiêm; sự tiêm; sự bơm vốn",
+  "coll": [
+   "give an injection",
+   "insulin injection",
+   "cash injection",
+   "injection of funds",
+   "fuel injection"
+  ]
+ },
+ {
+  "id": "insult",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự lăng mạ; lời sỉ nhục; xúc phạm",
+  "coll": [
+   "hurl insults",
+   "take it as an insult",
+   "insult someone",
+   "racial insult",
+   "add insult to injury"
+  ]
+ },
+ {
+  "id": "neat",
+  "pos": [
+   "adj",
+   "intj",
+   "n"
+  ],
+  "vi": "gọn gàng; ngăn nắp; hay đấy",
+  "coll": [
+   "neat and tidy",
+   "neat handwriting",
+   "a neat solution",
+   "keep it neat",
+   "neat whisky"
+  ]
+ },
+ {
+  "id": "outbreak",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự bùng phát; đợt bùng nổ",
+  "coll": [
+   "outbreak of disease",
+   "flu outbreak",
+   "outbreak of war",
+   "contain an outbreak",
+   "recent outbreak"
+  ]
+ },
+ {
+  "id": "probe",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc điều tra; thăm dò; đầu dò",
+  "coll": [
+   "launch a probe",
+   "space probe",
+   "probe into",
+   "police probe",
+   "probe deeper"
+  ]
+ },
+ {
+  "id": "sneak",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "lén lút đi; làm trộm; kẻ lén lút",
+  "coll": [
+   "sneak out",
+   "sneak in",
+   "sneak a look",
+   "sneak up on someone",
+   "sneak preview"
+  ]
+ },
+ {
+  "id": "spark",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tia lửa; khơi mào; châm ngòi",
+  "coll": [
+   "spark a debate",
+   "spark controversy",
+   "a spark of hope",
+   "sparks fly",
+   "spark interest"
+  ]
+ },
+ {
+  "id": "colleague",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồng nghiệp",
+  "coll": [
+   "a former colleague",
+   "close colleague",
+   "senior colleague",
+   "colleagues at work"
+  ]
+ },
+ {
+  "id": "dense",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "dày đặc; đông đúc; đặc quánh",
+  "coll": [
+   "dense forest",
+   "dense fog",
+   "dense population",
+   "dense crowd",
+   "dense traffic"
+  ]
+ },
+ {
+  "id": "desperately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "tuyệt vọng; vô cùng; cuống cuồng",
+  "coll": [
+   "desperately need",
+   "desperately trying",
+   "desperately want",
+   "desperately ill",
+   "desperately poor"
+  ]
+ },
+ {
+  "id": "financially",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt tài chính",
+  "coll": [
+   "financially independent",
+   "financially stable",
+   "financially secure",
+   "struggle financially",
+   "financially viable"
+  ]
+ },
+ {
+  "id": "furious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giận dữ; điên tiết; dữ dội",
+  "coll": [
+   "absolutely furious",
+   "furious with someone",
+   "a furious row",
+   "a furious pace",
+   "make someone furious"
+  ]
+ },
+ {
+  "id": "jaw",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hàm; quai hàm",
+  "coll": [
+   "broken jaw",
+   "clenched jaw",
+   "his jaw dropped",
+   "square jaw",
+   "lower jaw"
+  ]
+ },
+ {
+  "id": "lawn",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bãi cỏ; thảm cỏ",
+  "coll": [
+   "mow the lawn",
+   "front lawn",
+   "lawn mower",
+   "manicured lawn",
+   "water the lawn"
+  ]
+ },
+ {
+  "id": "manufacture",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sản xuất; chế tạo; việc sản xuất",
+  "coll": [
+   "manufacture goods",
+   "the manufacture of cars",
+   "manufacture products",
+   "manufacture evidence"
+  ]
+ },
+ {
+  "id": "oval",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hình bầu dục; hình trái xoan",
+  "coll": [
+   "oval shape",
+   "oval face",
+   "oval table",
+   "the Oval Office",
+   "oval track"
+  ]
+ },
+ {
+  "id": "refugee",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người tị nạn; dân tị nạn",
+  "coll": [
+   "refugee camp",
+   "political refugee",
+   "refugee crisis",
+   "refugee status",
+   "flee as refugees"
+  ]
+ },
+ {
+  "id": "seasonal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "theo mùa; thuộc mùa vụ",
+  "coll": [
+   "seasonal work",
+   "seasonal changes",
+   "seasonal produce",
+   "seasonal flu",
+   "seasonal demand"
+  ]
+ },
+ {
+  "id": "sensible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hợp lý; biết điều; thiết thực",
+  "coll": [
+   "a sensible decision",
+   "sensible advice",
+   "be sensible",
+   "sensible shoes",
+   "a sensible approach"
+  ]
+ },
+ {
+  "id": "twisted",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "xoắn lại; méo mó; lệch lạc",
+  "coll": [
+   "twisted ankle",
+   "twisted metal",
+   "a twisted sense of humour",
+   "twisted mind",
+   "twisted wire"
+  ]
+ },
+ {
+  "id": "berry",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quả mọng; quả mâm xôi các loại",
+  "coll": [
+   "pick berries",
+   "wild berries",
+   "berry bush",
+   "mixed berries",
+   "berry juice"
+  ]
+ },
+ {
+  "id": "certification",
+  "pos": [
+   "n"
+  ],
+  "vi": "chứng nhận; giấy chứng nhận",
+  "coll": [
+   "obtain certification",
+   "professional certification",
+   "certification process",
+   "safety certification",
+   "organic certification"
+  ]
+ },
+ {
+  "id": "compatible",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tương thích; hợp nhau",
+  "coll": [
+   "compatible with",
+   "fully compatible",
+   "compatible software",
+   "compatible devices",
+   "compatible personalities"
+  ]
+ },
+ {
+  "id": "explosive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chất nổ; dễ nổ; bùng nổ mạnh",
+  "coll": [
+   "explosive device",
+   "highly explosive",
+   "explosive growth",
+   "plastic explosives",
+   "explosive material"
+  ]
+ },
+ {
+  "id": "frontier",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "biên giới; ranh giới; lĩnh vực mới",
+  "coll": [
+   "cross the frontier",
+   "the final frontier",
+   "new frontiers",
+   "frontier town",
+   "push the frontiers"
+  ]
+ },
+ {
+  "id": "geographic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc địa lý; về mặt địa lý",
+  "coll": [
+   "geographic location",
+   "geographic area",
+   "geographic distribution",
+   "geographic region",
+   "National Geographic"
+  ]
+ },
+ {
+  "id": "grasp",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nắm chặt; hiểu rõ; tầm với",
+  "coll": [
+   "grasp the concept",
+   "grasp an opportunity",
+   "within your grasp",
+   "a firm grasp",
+   "grasp the meaning"
+  ]
+ },
+ {
+  "id": "incentive",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "động lực; ưu đãi khuyến khích",
+  "coll": [
+   "financial incentive",
+   "provide an incentive",
+   "tax incentive",
+   "strong incentive",
+   "an incentive to work"
+  ]
+ },
+ {
+  "id": "madness",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự điên rồ; sự mất trí",
+  "coll": [
+   "sheer madness",
+   "utter madness",
+   "method in the madness",
+   "the madness of war"
+  ]
+ },
+ {
+  "id": "merger",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sáp nhập; vụ hợp nhất",
+  "coll": [
+   "a merger between",
+   "propose a merger",
+   "mergers and acquisitions",
+   "complete a merger",
+   "corporate merger"
+  ]
+ },
+ {
+  "id": "resign",
+  "pos": [
+   "v"
+  ],
+  "vi": "từ chức; xin nghỉ việc; cam chịu",
+  "coll": [
+   "resign from office",
+   "resign as chairman",
+   "resign your post",
+   "forced to resign",
+   "resign yourself to"
+  ]
+ },
+ {
+  "id": "rub",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "xoa; chà xát; sự xoa bóp",
+  "coll": [
+   "rub your eyes",
+   "rub it in",
+   "rub together",
+   "rub off on",
+   "give it a rub"
+  ]
+ },
+ {
+  "id": "slap",
+  "pos": [
+   "n",
+   "v",
+   "adv",
+   "adj"
+  ],
+  "vi": "cái tát; tát; vỗ mạnh",
+  "coll": [
+   "a slap in the face",
+   "give someone a slap",
+   "slap on the back",
+   "slap someone",
+   "a slap on the wrist"
+  ]
+ },
+ {
+  "id": "superintendent",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người quản lý; thanh tra cảnh sát; giám đốc học khu",
+  "coll": [
+   "police superintendent",
+   "school superintendent",
+   "building superintendent",
+   "detective superintendent",
+   "superintendent of schools"
+  ]
+ },
+ {
+  "id": "sweep",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "quét; quét dọn; càn quét",
+  "coll": [
+   "sweep the floor",
+   "sweep away",
+   "sweep under the rug",
+   "a clean sweep",
+   "sweep through"
+  ]
+ },
+ {
+  "id": "therapist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà trị liệu; chuyên gia trị liệu",
+  "coll": [
+   "see a therapist",
+   "physical therapist",
+   "speech therapist",
+   "licensed therapist",
+   "talk to a therapist"
+  ]
+ },
+ {
+  "id": "thereafter",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "vi": "sau đó; từ đó trở đi",
+  "coll": [
+   "shortly thereafter",
+   "soon thereafter",
+   "immediately thereafter",
+   "and thereafter"
+  ]
+ },
+ {
+  "id": "tuition",
+  "pos": [
+   "n"
+  ],
+  "vi": "học phí; sự dạy kèm",
+  "coll": [
+   "tuition fees",
+   "pay tuition",
+   "private tuition",
+   "tuition costs",
+   "in-state tuition"
+  ]
+ },
+ {
+  "id": "tumor",
+  "pos": [
+   "n"
+  ],
+  "vi": "khối u; bướu",
+  "coll": [
+   "brain tumor",
+   "malignant tumor",
+   "benign tumor",
+   "remove a tumor",
+   "tumor growth"
+  ]
+ },
+ {
+  "id": "bothered",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bận tâm; khó chịu; phiền lòng",
+  "coll": [
+   "can't be bothered",
+   "not bothered",
+   "hot and bothered",
+   "bothered by the noise",
+   "seem bothered"
+  ]
+ },
+ {
+  "id": "coincidence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trùng hợp; chuyện tình cờ",
+  "coll": [
+   "pure coincidence",
+   "by coincidence",
+   "what a coincidence",
+   "mere coincidence",
+   "no coincidence"
+  ]
+ }
+]

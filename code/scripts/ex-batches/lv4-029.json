@@ -1,0 +1,808 @@
+[
+ {
+  "id": "detract",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm giảm giá trị; làm lu mờ",
+  "coll": [
+   "detract from the beauty",
+   "detract from the value",
+   "nothing can detract",
+   "detract from the achievement"
+  ]
+ },
+ {
+  "id": "reissue",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phát hành lại; tái bản; bản tái phát hành",
+  "coll": [
+   "reissue an album",
+   "a special reissue",
+   "reissue the book",
+   "a remastered reissue"
+  ]
+ },
+ {
+  "id": "veritable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đích thực; thật sự là (nhấn mạnh)",
+  "coll": [
+   "a veritable feast",
+   "a veritable treasure trove",
+   "a veritable army",
+   "a veritable goldmine"
+  ]
+ },
+ {
+  "id": "skew",
+  "pos": [
+   "v",
+   "adj",
+   "adv",
+   "n"
+  ],
+  "vi": "làm sai lệch; làm nghiêng; xiên, lệch",
+  "coll": [
+   "skew the results",
+   "skew the data",
+   "a skewed distribution",
+   "skew towards"
+  ]
+ },
+ {
+  "id": "hindrance",
+  "pos": [
+   "n"
+  ],
+  "vi": "trở ngại; vật cản; sự cản trở",
+  "coll": [
+   "a hindrance to progress",
+   "more of a hindrance",
+   "without hindrance",
+   "a serious hindrance"
+  ]
+ },
+ {
+  "id": "individualism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa cá nhân; tinh thần tự lập",
+  "coll": [
+   "rugged individualism",
+   "American individualism",
+   "individualism and collectivism",
+   "a spirit of individualism"
+  ]
+ },
+ {
+  "id": "abject",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "cùng cực, thảm hại; hèn hạ",
+  "coll": [
+   "abject poverty",
+   "abject failure",
+   "abject misery",
+   "an abject apology"
+  ]
+ },
+ {
+  "id": "austere",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khắc khổ; đơn sơ, mộc mạc; nghiêm khắc",
+  "coll": [
+   "an austere lifestyle",
+   "austere measures",
+   "austere beauty",
+   "austere and simple"
+  ]
+ },
+ {
+  "id": "superfluous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thừa; không cần thiết",
+  "coll": [
+   "superfluous detail",
+   "seem superfluous",
+   "superfluous words",
+   "render superfluous"
+  ]
+ },
+ {
+  "id": "consignment",
+  "pos": [
+   "n"
+  ],
+  "vi": "lô hàng gửi; sự ký gửi; hàng ký gửi",
+  "coll": [
+   "a consignment of goods",
+   "a consignment shop",
+   "on consignment",
+   "a large consignment"
+  ]
+ },
+ {
+  "id": "infernal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "địa ngục; quái quỷ, đáng ghét",
+  "coll": [
+   "infernal noise",
+   "an infernal machine",
+   "the infernal regions",
+   "that infernal thing"
+  ]
+ },
+ {
+  "id": "mystique",
+  "pos": [
+   "n"
+  ],
+  "vi": "vẻ huyền bí; hào quang bí ẩn",
+  "coll": [
+   "an air of mystique",
+   "the mystique of",
+   "lose its mystique",
+   "cultivate a mystique"
+  ]
+ },
+ {
+  "id": "materialistic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chuộng vật chất; thực dụng vật chất",
+  "coll": [
+   "a materialistic society",
+   "materialistic values",
+   "overly materialistic",
+   "a materialistic culture"
+  ]
+ },
+ {
+  "id": "materialize",
+  "pos": [
+   "v"
+  ],
+  "vi": "thành hiện thực; hiện ra; hiện hình",
+  "coll": [
+   "fail to materialize",
+   "never materialized",
+   "materialize out of nowhere",
+   "the deal materialized"
+  ]
+ },
+ {
+  "id": "extracurricular",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ngoại khóa; ngoài chương trình chính",
+  "coll": [
+   "extracurricular activities",
+   "extracurricular programs",
+   "extracurricular clubs",
+   "extracurricular interests"
+  ]
+ },
+ {
+  "id": "fluctuate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "dao động; lên xuống thất thường",
+  "coll": [
+   "prices fluctuate",
+   "fluctuate wildly",
+   "fluctuate between",
+   "temperatures fluctuate"
+  ]
+ },
+ {
+  "id": "ephemeral",
+  "pos": [
+   "adj"
+  ],
+  "vi": "phù du; chóng tàn; ngắn ngủi",
+  "coll": [
+   "ephemeral pleasures",
+   "ephemeral nature",
+   "ephemeral beauty",
+   "ephemeral fame"
+  ]
+ },
+ {
+  "id": "arcane",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bí truyền; khó hiểu; huyền bí",
+  "coll": [
+   "arcane knowledge",
+   "arcane rules",
+   "arcane details",
+   "arcane rituals"
+  ]
+ },
+ {
+  "id": "swivel",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "xoay tròn; khớp xoay; quay ngoắt",
+  "coll": [
+   "a swivel chair",
+   "swivel around",
+   "swivel his head",
+   "a swivel joint"
+  ]
+ },
+ {
+  "id": "behest",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lệnh, yêu cầu (trang trọng)",
+  "coll": [
+   "at the behest of",
+   "at his behest",
+   "at the behest of the president",
+   "at the king's behest"
+  ]
+ },
+ {
+  "id": "athleticism",
+  "pos": [
+   "n"
+  ],
+  "vi": "thể lực tốt; tố chất vận động; sự dẻo dai",
+  "coll": [
+   "sheer athleticism",
+   "raw athleticism",
+   "display of athleticism",
+   "athleticism and skill"
+  ]
+ },
+ {
+  "id": "habitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "nơi cư trú; sự cư ngụ; chỗ ở",
+  "coll": [
+   "fit for human habitation",
+   "unfit for habitation",
+   "human habitation",
+   "signs of habitation"
+  ]
+ },
+ {
+  "id": "interlocking",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "cài khớp vào nhau; đan xen; sự khóa liên động",
+  "coll": [
+   "interlocking pieces",
+   "interlocking bricks",
+   "interlocking systems",
+   "interlocking fingers"
+  ]
+ },
+ {
+  "id": "figuratively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo nghĩa bóng; nói ví von",
+  "coll": [
+   "speaking figuratively",
+   "figuratively speaking",
+   "used figuratively",
+   "both literally and figuratively"
+  ]
+ },
+ {
+  "id": "shimmer",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lung linh; lấp lánh; ánh sáng lung linh",
+  "coll": [
+   "shimmer in the light",
+   "a shimmer of gold",
+   "shimmer on the water",
+   "a faint shimmer"
+  ]
+ },
+ {
+  "id": "aberration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bất thường; sự lệch lạc; quang sai",
+  "coll": [
+   "a temporary aberration",
+   "a mental aberration",
+   "chromatic aberration",
+   "a statistical aberration"
+  ]
+ },
+ {
+  "id": "facsimile",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bản sao y hệt; bản mô phỏng; bản fax",
+  "coll": [
+   "a facsimile edition",
+   "an exact facsimile",
+   "a facsimile of the original",
+   "facsimile reproduction"
+  ]
+ },
+ {
+  "id": "posterity",
+  "pos": [
+   "n"
+  ],
+  "vi": "hậu thế; đời sau; con cháu",
+  "coll": [
+   "for posterity",
+   "preserved for posterity",
+   "leave to posterity",
+   "judged by posterity"
+  ]
+ },
+ {
+  "id": "elated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hân hoan; phấn khích; sướng rơn",
+  "coll": [
+   "feel elated",
+   "elated by the news",
+   "absolutely elated",
+   "elated at the result"
+  ]
+ },
+ {
+  "id": "abhorrent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ghê tởm; kinh tởm; đáng ghê sợ",
+  "coll": [
+   "morally abhorrent",
+   "find it abhorrent",
+   "an abhorrent act",
+   "abhorrent to me"
+  ]
+ },
+ {
+  "id": "spurious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giả mạo; ngụy tạo; không có căn cứ",
+  "coll": [
+   "a spurious claim",
+   "spurious correlation",
+   "spurious arguments",
+   "spurious accuracy"
+  ]
+ },
+ {
+  "id": "bona fide",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "thật, chính hiệu; ngay tình, thiện chí",
+  "coll": [
+   "a bona fide offer",
+   "bona fide purchaser",
+   "bona fide employee",
+   "in bona fide"
+  ]
+ },
+ {
+  "id": "archetype",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nguyên mẫu; hình mẫu điển hình",
+  "coll": [
+   "a classic archetype",
+   "the archetype of",
+   "cultural archetypes",
+   "fit the archetype"
+  ]
+ },
+ {
+  "id": "antithesis",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đối lập hoàn toàn; phản đề; phép tương phản",
+  "coll": [
+   "the very antithesis of",
+   "the antithesis of freedom",
+   "thesis and antithesis",
+   "stand as the antithesis"
+  ]
+ },
+ {
+  "id": "vermin",
+  "pos": [
+   "n"
+  ],
+  "vi": "sâu bọ, chuột bọ; loài gây hại; quân sâu mọt",
+  "coll": [
+   "control vermin",
+   "infested with vermin",
+   "vermin infestation",
+   "treated like vermin"
+  ]
+ },
+ {
+  "id": "cull",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tiêu hủy bớt (đàn vật); chọn lọc ra; đợt tiêu hủy",
+  "coll": [
+   "cull the herd",
+   "a badger cull",
+   "cull information from",
+   "cull the weakest"
+  ]
+ },
+ {
+  "id": "coax",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "dỗ ngọt; thuyết phục nhẹ nhàng; dụ dỗ",
+  "coll": [
+   "coax him into",
+   "coax a smile",
+   "gently coax",
+   "coax out of"
+  ]
+ },
+ {
+  "id": "minster",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhà thờ lớn; tu viện đường",
+  "coll": [
+   "York Minster",
+   "the minster church",
+   "a medieval minster",
+   "the minster tower"
+  ]
+ },
+ {
+  "id": "topple",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "lật đổ; đổ nhào; hạ bệ",
+  "coll": [
+   "topple the government",
+   "topple a regime",
+   "topple over",
+   "topple from power"
+  ]
+ },
+ {
+  "id": "amorphous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô định hình; không rõ hình thù; mơ hồ",
+  "coll": [
+   "an amorphous mass",
+   "amorphous shape",
+   "amorphous solid",
+   "vague and amorphous"
+  ]
+ },
+ {
+  "id": "plumage",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ lông chim; bộ cánh lộng lẫy",
+  "coll": [
+   "colourful plumage",
+   "breeding plumage",
+   "bright plumage",
+   "winter plumage"
+  ]
+ },
+ {
+  "id": "proportionally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "theo tỷ lệ; tương ứng tỷ lệ",
+  "coll": [
+   "proportionally larger",
+   "increase proportionally",
+   "distributed proportionally",
+   "proportionally higher"
+  ]
+ },
+ {
+  "id": "connotation",
+  "pos": [
+   "n"
+  ],
+  "vi": "hàm ý; nghĩa bóng kèm theo; sắc thái nghĩa",
+  "coll": [
+   "negative connotations",
+   "positive connotations",
+   "carry connotations",
+   "religious connotations"
+  ]
+ },
+ {
+  "id": "reproach",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "trách móc; lời trách cứ; nỗi ô danh",
+  "coll": [
+   "beyond reproach",
+   "above reproach",
+   "a tone of reproach",
+   "reproach him for"
+  ]
+ },
+ {
+  "id": "idiosyncratic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "rất riêng, đặc thù; kỳ quặc theo cách riêng",
+  "coll": [
+   "an idiosyncratic style",
+   "highly idiosyncratic",
+   "idiosyncratic behaviour",
+   "idiosyncratic approach"
+  ]
+ },
+ {
+  "id": "exorcist",
+  "pos": [
+   "n"
+  ],
+  "vi": "người trừ tà; thầy trừ quỷ",
+  "coll": [
+   "call an exorcist",
+   "a Catholic exorcist",
+   "the exorcist's ritual",
+   "work as an exorcist"
+  ]
+ },
+ {
+  "id": "allusion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự ám chỉ; lời nói bóng gió; điển tích dẫn chiếu",
+  "coll": [
+   "make an allusion to",
+   "a literary allusion",
+   "a veiled allusion",
+   "biblical allusions"
+  ]
+ },
+ {
+  "id": "embed",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "gắn vào, nhúng vào; cắm sâu; lồng ghép",
+  "coll": [
+   "embed a video",
+   "deeply embedded",
+   "embed in the code",
+   "embed a journalist"
+  ]
+ },
+ {
+  "id": "hysterically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cuồng loạn; như phát điên; cười ngặt nghẽo",
+  "coll": [
+   "laugh hysterically",
+   "cry hysterically",
+   "scream hysterically",
+   "hysterically funny"
+  ]
+ },
+ {
+  "id": "paradoxically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nghịch lý thay; trái khoáy thay",
+  "coll": [
+   "paradoxically enough",
+   "paradoxically, however",
+   "seem paradoxically",
+   "paradoxically true"
+  ]
+ },
+ {
+  "id": "mull over",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ngẫm nghĩ kỹ; cân nhắc; suy đi tính lại",
+  "coll": [
+   "mull over the idea",
+   "mull over an offer",
+   "mull over the options",
+   "mull it over"
+  ]
+ },
+ {
+  "id": "tacit",
+  "pos": [
+   "adj"
+  ],
+  "vi": "ngầm hiểu; không nói ra; mặc nhiên",
+  "coll": [
+   "tacit approval",
+   "tacit agreement",
+   "tacit knowledge",
+   "tacit consent"
+  ]
+ },
+ {
+  "id": "vindication",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự minh oan; sự chứng minh là đúng",
+  "coll": [
+   "complete vindication",
+   "a sense of vindication",
+   "seek vindication",
+   "vindication of his stance"
+  ]
+ },
+ {
+  "id": "midwifery",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghề hộ sinh; ngành đỡ đẻ",
+  "coll": [
+   "study midwifery",
+   "midwifery care",
+   "a midwifery degree",
+   "midwifery practice"
+  ]
+ },
+ {
+  "id": "painstaking",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tỉ mỉ công phu; kỹ lưỡng; sự dày công",
+  "coll": [
+   "painstaking work",
+   "painstaking research",
+   "painstaking detail",
+   "painstaking effort"
+  ]
+ },
+ {
+  "id": "colloquial",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thông tục; khẩu ngữ; suồng sã đời thường",
+  "coll": [
+   "colloquial English",
+   "a colloquial expression",
+   "colloquial speech",
+   "colloquial usage"
+  ]
+ },
+ {
+  "id": "resuscitation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hồi sức; sự cấp cứu hồi sinh",
+  "coll": [
+   "cardiopulmonary resuscitation",
+   "attempt resuscitation",
+   "mouth-to-mouth resuscitation",
+   "resuscitation efforts"
+  ]
+ },
+ {
+  "id": "patchy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chỗ được chỗ không; loang lổ; thất thường",
+  "coll": [
+   "patchy fog",
+   "patchy coverage",
+   "a patchy record",
+   "patchy rain"
+  ]
+ },
+ {
+  "id": "shoal",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "đàn cá; bãi cạn; chỗ nước nông",
+  "coll": [
+   "a shoal of fish",
+   "a sandy shoal",
+   "run onto a shoal",
+   "shoal water"
+  ]
+ },
+ {
+  "id": "edifice",
+  "pos": [
+   "n"
+  ],
+  "vi": "tòa nhà đồ sộ; công trình lớn; hệ thống bề thế",
+  "coll": [
+   "an imposing edifice",
+   "a grand edifice",
+   "the whole edifice collapsed",
+   "an edifice of power"
+  ]
+ }
+]

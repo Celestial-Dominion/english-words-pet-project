@@ -1,0 +1,778 @@
+[
+ {
+  "id": "turn into",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "biến thành; trở thành; hóa thành",
+  "coll": [
+   "turn into a nightmare",
+   "turn into a habit",
+   "caterpillars turn into butterflies",
+   "the argument turned into a fight"
+  ]
+ },
+ {
+  "id": "turn in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nộp (bài); đi ngủ; giao nộp (tội phạm)",
+  "coll": [
+   "turn in your homework",
+   "turn in early",
+   "turn in the assignment",
+   "turned himself in to the police"
+  ]
+ },
+ {
+  "id": "turn out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "hóa ra; kết quả là; kéo đến dự; sản xuất ra",
+  "coll": [
+   "turn out well",
+   "it turns out that",
+   "turn out to be true",
+   "crowds turned out to vote",
+   "turn out the lights"
+  ]
+ },
+ {
+  "id": "polish off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chén sạch, ăn hết veo; làm nốt cho xong",
+  "coll": [
+   "polish off a whole pizza",
+   "polish off the leftovers",
+   "polish off a bottle of wine",
+   "polish off the rest of the cake"
+  ]
+ },
+ {
+  "id": "turn on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bật lên; mở (vòi, máy); quay sang tấn công",
+  "coll": [
+   "turn on the lights",
+   "turn on the TV",
+   "turn on the tap",
+   "turn on the engine",
+   "the dog turned on its owner"
+  ]
+ },
+ {
+  "id": "stand back",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "lùi lại; đứng lùi ra; đứng ngoài nhìn nhận",
+  "coll": [
+   "stand back from the edge",
+   "please stand back",
+   "stand back and watch",
+   "stand back to admire the view"
+  ]
+ },
+ {
+  "id": "stand by",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ở bên, ủng hộ; sẵn sàng chờ; giữ vững (lời hứa); đứng nhìn",
+  "coll": [
+   "stand by your decision",
+   "stand by me",
+   "stand by for further updates",
+   "stand by and do nothing"
+  ]
+ },
+ {
+  "id": "stand out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nổi bật; nhô ra; khác biệt hẳn",
+  "coll": [
+   "stand out from the crowd",
+   "stand out in a crowd",
+   "make your CV stand out",
+   "colors that stand out"
+  ]
+ },
+ {
+  "id": "stand up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đứng dậy; dựng đứng lên; cho leo cây; đứng vững (lý lẽ)",
+  "coll": [
+   "stand up straight",
+   "stand up for yourself",
+   "stand up and applaud",
+   "stood me up on our date",
+   "the story won't stand up in court"
+  ]
+ },
+ {
+  "id": "knock off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nghỉ tay, tan làm; khử, xử (giết); bớt (giá); nhái, làm giả",
+  "coll": [
+   "knock off work at five",
+   "knock off early",
+   "knock ten dollars off the price",
+   "knock it off"
+  ]
+ },
+ {
+  "id": "knock out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đánh gục, hạ đo ván; làm bất tỉnh; loại khỏi giải",
+  "coll": [
+   "knock out his opponent",
+   "knocked out in the first round",
+   "knocked out of the tournament",
+   "the blow knocked him out"
+  ]
+ },
+ {
+  "id": "knock over",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm đổ; đụng ngã; cướp (tiệm)",
+  "coll": [
+   "knock over a glass",
+   "knock over a vase",
+   "knocked over by a car",
+   "knock over a liquor store"
+  ]
+ },
+ {
+  "id": "knock about",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "la cà, lang thang; đánh đập; lăn lóc đâu đó",
+  "coll": [
+   "knock about town",
+   "knock about together",
+   "knocked her about",
+   "an old bike knocking about in the shed"
+  ]
+ },
+ {
+  "id": "egg on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "xúi giục; kích động; hùa nhau cổ vũ",
+  "coll": [
+   "egg him on",
+   "egged on by his friends",
+   "egg each other on"
+  ]
+ },
+ {
+  "id": "big up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tâng bốc, lăng xê; khen nức nở; làm cho hoành tráng",
+  "coll": [
+   "big up your friends",
+   "big it up for the band",
+   "big up the local scene"
+  ]
+ },
+ {
+  "id": "spirit away",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bí mật đem đi; đưa đi biệt tăm",
+  "coll": [
+   "spirited away in the night",
+   "spirit away the documents",
+   "spirited away by fairies"
+  ]
+ },
+ {
+  "id": "squeeze in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chen vào; nhét thêm; tranh thủ xếp lịch",
+  "coll": [
+   "squeeze in a quick meeting",
+   "squeeze in some exercise",
+   "squeeze in one more guest",
+   "squeeze in before lunch"
+  ]
+ },
+ {
+  "id": "squeeze out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "vắt ra; chèn ép loại bỏ; hất cẳng",
+  "coll": [
+   "squeeze out the excess water",
+   "squeeze out the juice",
+   "squeeze out small businesses",
+   "squeeze out a narrow win"
+  ]
+ },
+ {
+  "id": "put together",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "lắp ráp; ghép lại; soạn ra, xây dựng",
+  "coll": [
+   "put together a team",
+   "put together a plan",
+   "put together the furniture",
+   "put together a proposal"
+  ]
+ },
+ {
+  "id": "rub out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tẩy xóa; xóa bằng tẩy; khử, thịt (lóng)",
+  "coll": [
+   "rub out the pencil marks",
+   "rub out a mistake",
+   "rub it out and start again"
+  ]
+ },
+ {
+  "id": "key off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "dựa theo, căn cứ vào; tắt (máy) bằng chìa",
+  "coll": [
+   "key off the sales data",
+   "key off customer behavior",
+   "key off the previous value"
+  ]
+ },
+ {
+  "id": "root about",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "lục lọi; sục sạo tìm; ủi đất tìm (lợn)",
+  "coll": [
+   "root about in the drawer",
+   "root about for food",
+   "pigs rooting about in the mud"
+  ]
+ },
+ {
+  "id": "dumb down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đơn giản hóa quá mức; làm dễ dãi đi",
+  "coll": [
+   "dumb down the curriculum",
+   "dumb down the content",
+   "dumbed down for television"
+  ]
+ },
+ {
+  "id": "work out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tập thể dục; tính ra, tìm ra; diễn ra ổn thỏa",
+  "coll": [
+   "work out at the gym",
+   "work out the answer",
+   "work out a solution",
+   "things will work out",
+   "work out the details"
+  ]
+ },
+ {
+  "id": "talk up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ca ngợi, quảng bá; thổi phồng; nói to lên",
+  "coll": [
+   "talk up the benefits",
+   "talk up the new product",
+   "talk up his chances"
+  ]
+ },
+ {
+  "id": "fire up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "khởi động, nổ máy; nhóm (lửa, lò); làm hăng máu",
+  "coll": [
+   "fire up the engine",
+   "fire up the grill",
+   "fire up the laptop",
+   "fire up the crowd"
+  ]
+ },
+ {
+  "id": "wait on",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "phục vụ (bàn); chờ, đợi",
+  "coll": [
+   "wait on tables",
+   "wait on customers",
+   "wait on him hand and foot",
+   "wait on the test results"
+  ]
+ },
+ {
+  "id": "shut up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "im mồm, câm miệng; đóng kín (nhà); nhốt lại",
+  "coll": [
+   "shut up and listen",
+   "told him to shut up",
+   "shut up shop",
+   "shut up the house for winter"
+  ]
+ },
+ {
+  "id": "take off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "cất cánh; cởi ra; phất lên nhanh; nghỉ (ngày)",
+  "coll": [
+   "the plane takes off",
+   "take off your shoes",
+   "take off your coat",
+   "sales took off",
+   "take a few days off"
+  ]
+ },
+ {
+  "id": "kit out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "trang bị đầy đủ; sắm sửa đồ nghề",
+  "coll": [
+   "kitted out with the latest gear",
+   "kit out the whole team",
+   "fully kitted out for the trip"
+  ]
+ },
+ {
+  "id": "get up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "thức dậy; đứng dậy; ra khỏi giường",
+  "coll": [
+   "get up early",
+   "get up at six",
+   "get up from the chair",
+   "get up late on Sundays"
+  ]
+ },
+ {
+  "id": "wolf down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ăn ngấu nghiến; nuốt vội vàng",
+  "coll": [
+   "wolf down a sandwich",
+   "wolf down breakfast",
+   "wolf down his dinner",
+   "wolf down the food"
+  ]
+ },
+ {
+  "id": "go off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nổ; reo (chuông báo); ôi thiu; nổi cáu",
+  "coll": [
+   "the bomb went off",
+   "the alarm went off",
+   "the gun went off",
+   "the milk has gone off"
+  ]
+ },
+ {
+  "id": "get off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "xuống xe; rời khỏi; tan làm",
+  "coll": [
+   "get off the bus",
+   "get off the train",
+   "get off work",
+   "get off my back"
+  ]
+ },
+ {
+  "id": "piss off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chọc tức; làm phát cáu; cút đi (suồng sã)",
+  "coll": [
+   "piss me off",
+   "really piss someone off",
+   "piss off the boss",
+   "tell someone to piss off"
+  ]
+ },
+ {
+  "id": "pissed off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bực mình; cáu tiết (suồng sã)",
+  "coll": [
+   "get pissed off",
+   "really pissed off",
+   "pissed off at someone",
+   "look pissed off"
+  ]
+ },
+ {
+  "id": "sex up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "làm hấp dẫn hơn; thổi phồng cho giật gân; ve vãn gợi dục",
+  "coll": [
+   "sex up a report",
+   "sex up the image",
+   "sex up a dossier",
+   "sex up the presentation"
+  ]
+ },
+ {
+  "id": "drill down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đào sâu chi tiết; xem xét kỹ hơn",
+  "coll": [
+   "drill down into the data",
+   "drill down into the details",
+   "drill down further",
+   "drill down to the root cause"
+  ]
+ },
+ {
+  "id": "blow off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "thổi bay; xả hơi; phớt lờ, cho leo cây",
+  "coll": [
+   "blow off steam",
+   "blow off the dust",
+   "blow off a meeting",
+   "blow off class"
+  ]
+ },
+ {
+  "id": "pig out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ăn thả ga; ăn no căng bụng (suồng sã)",
+  "coll": [
+   "pig out on pizza",
+   "pig out on junk food",
+   "pig out at a buffet",
+   "really pig out"
+  ]
+ },
+ {
+  "id": "take up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "bắt đầu tập (môn gì); chiếm (chỗ, thời gian); đảm nhận",
+  "coll": [
+   "take up a hobby",
+   "take up space",
+   "take up too much time",
+   "take up the offer",
+   "take up a challenge"
+  ]
+ },
+ {
+  "id": "toy with",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đùa giỡn với; thoáng nghĩ đến; mân mê nghịch",
+  "coll": [
+   "toy with the idea",
+   "toy with someone's emotions",
+   "toy with his food",
+   "toy with a pen"
+  ]
+ },
+ {
+  "id": "breathe in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "hít vào; hít thở vào",
+  "coll": [
+   "breathe in deeply",
+   "breathe in the fresh air",
+   "breathe in and out",
+   "breathe in the smoke"
+  ]
+ },
+ {
+  "id": "lock in",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "chốt (giá, lãi suất); nhốt bên trong; ràng buộc",
+  "coll": [
+   "lock in a price",
+   "lock in profits",
+   "lock in the interest rate",
+   "lock in customers"
+  ]
+ },
+ {
+  "id": "lock out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "khóa không cho vào; nhốt ở ngoài; chặn truy cập",
+  "coll": [
+   "lock yourself out",
+   "lock out the workers",
+   "get locked out of the account",
+   "lock out users"
+  ]
+ },
+ {
+  "id": "geek out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "say sưa bàn về sở thích; phấn khích như mọt sách",
+  "coll": [
+   "geek out about something",
+   "geek out over a new gadget",
+   "geek out on the details",
+   "really geek out"
+  ]
+ },
+ {
+  "id": "mix up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "nhầm lẫn, lẫn lộn; trộn đều; xáo trộn",
+  "coll": [
+   "mix up the names",
+   "get things mixed up",
+   "mix up the ingredients",
+   "mix up the order"
+  ]
+ },
+ {
+  "id": "keep up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "theo kịp; duy trì; tiếp tục giữ",
+  "coll": [
+   "keep up with the news",
+   "keep up the good work",
+   "keep up appearances",
+   "keep up with the pace"
+  ]
+ },
+ {
+  "id": "jerk off",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "thủ dâm (suồng sã); lêu lổng, chơi không",
+  "coll": [
+   "stop jerking off",
+   "jerk off in private",
+   "jerk off all day"
+  ]
+ },
+ {
+  "id": "skin up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "cuốn điếu cần sa (lóng); trượt ván lên dốc",
+  "coll": [
+   "skin up a joint",
+   "skin up in the corner",
+   "skin up the mountain",
+   "skin up before the descent"
+  ]
+ },
+ {
+  "id": "fuck around",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "lông bông phí thời gian; đùa giỡn nhảm (suồng sã)",
+  "coll": [
+   "stop fucking around",
+   "fuck around all day",
+   "fuck around with the settings",
+   "fuck around and find out"
+  ]
+ },
+ {
+  "id": "stock up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "tích trữ; mua dự trữ sẵn",
+  "coll": [
+   "stock up on food",
+   "stock up on supplies",
+   "stock up for winter",
+   "stock up before the storm"
+  ]
+ },
+ {
+  "id": "iron out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "giải quyết (khúc mắc); là phẳng nếp nhăn",
+  "coll": [
+   "iron out the differences",
+   "iron out the details",
+   "iron out problems",
+   "iron out the creases"
+  ]
+ },
+ {
+  "id": "hoover up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "hút bụi; ngốn sạch; thu gom hết",
+  "coll": [
+   "hoover up the crumbs",
+   "hoover up the carpet",
+   "hoover up data",
+   "hoover up all the profits"
+  ]
+ },
+ {
+  "id": "side with",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đứng về phía; ủng hộ, bênh",
+  "coll": [
+   "side with the government",
+   "side with his friend",
+   "side with the majority",
+   "always side with her"
+  ]
+ },
+ {
+  "id": "sit up",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ngồi dậy; ngồi thẳng lưng; chú ý hẳn lên",
+  "coll": [
+   "sit up straight",
+   "sit up in bed",
+   "sit up and take notice",
+   "sit up late"
+  ]
+ },
+ {
+  "id": "sit down",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "ngồi xuống; mời ngồi; ngồi vào bàn đàm phán",
+  "coll": [
+   "sit down please",
+   "sit down at the table",
+   "sit down and talk",
+   "sit down for dinner"
+  ]
+ },
+ {
+  "id": "bring about",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "gây ra; mang lại; dẫn đến",
+  "coll": [
+   "bring about change",
+   "bring about reform",
+   "bring about improvement",
+   "bring about a solution"
+  ]
+ },
+ {
+  "id": "come about",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "xảy ra; diễn ra; đổi hướng (thuyền)",
+  "coll": [
+   "how did it come about",
+   "come about by chance",
+   "come about as a result",
+   "changes come about slowly"
+  ]
+ },
+ {
+  "id": "hang out",
+  "pos": [
+   "phr-v"
+  ],
+  "vi": "đi chơi, tụ tập; la cà",
+  "coll": [
+   "hang out with friends",
+   "hang out at the mall",
+   "hang out together",
+   "hang out after school"
+  ]
+ }
+]

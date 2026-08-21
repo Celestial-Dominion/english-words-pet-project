@@ -1,0 +1,814 @@
+[
+ {
+  "id": "peculiar",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "kỳ quặc; kỳ lạ; riêng có, đặc trưng",
+  "coll": [
+   "a peculiar smell",
+   "peculiar behavior",
+   "peculiar to this region",
+   "rather peculiar"
+  ]
+ },
+ {
+  "id": "ripe",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chín; chín muồi",
+  "coll": [
+   "ripe bananas",
+   "ripe tomatoes",
+   "a ripe old age",
+   "the time is ripe"
+  ]
+ },
+ {
+  "id": "scenic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có cảnh đẹp; ngoạn mục",
+  "coll": [
+   "scenic route",
+   "scenic views",
+   "scenic drive",
+   "scenic beauty"
+  ]
+ },
+ {
+  "id": "strangely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "kỳ lạ thay; một cách kỳ lạ",
+  "coll": [
+   "strangely enough",
+   "strangely quiet",
+   "behave strangely",
+   "strangely familiar"
+  ]
+ },
+ {
+  "id": "advertise",
+  "pos": [
+   "v"
+  ],
+  "vi": "quảng cáo; đăng tin",
+  "coll": [
+   "advertise a product",
+   "advertise on TV",
+   "advertise for a new manager",
+   "heavily advertised"
+  ]
+ },
+ {
+  "id": "assign",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "giao (nhiệm vụ); phân công; chỉ định",
+  "coll": [
+   "assign a task",
+   "assign homework",
+   "assigned to the project",
+   "assign a value"
+  ]
+ },
+ {
+  "id": "disagreement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bất đồng; sự không đồng ý",
+  "coll": [
+   "disagreement over money",
+   "in disagreement",
+   "strong disagreement",
+   "resolve a disagreement"
+  ]
+ },
+ {
+  "id": "earnest",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "nghiêm túc; chân thành",
+  "coll": [
+   "in earnest",
+   "an earnest young man",
+   "deadly earnest",
+   "an earnest conversation"
+  ]
+ },
+ {
+  "id": "extinct",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "tuyệt chủng; đã tắt (núi lửa)",
+  "coll": [
+   "become extinct",
+   "extinct species",
+   "extinct volcano",
+   "go extinct"
+  ]
+ },
+ {
+  "id": "freezer",
+  "pos": [
+   "n"
+  ],
+  "vi": "tủ đông; ngăn đá",
+  "coll": [
+   "put it in the freezer",
+   "freezer compartment",
+   "chest freezer",
+   "freezer bag"
+  ]
+ },
+ {
+  "id": "genetically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt di truyền",
+  "coll": [
+   "genetically modified",
+   "genetically engineered",
+   "genetically identical",
+   "genetically inherited"
+  ]
+ },
+ {
+  "id": "knit",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đan (len); gắn kết chặt",
+  "coll": [
+   "knit a sweater",
+   "knit a scarf",
+   "a tightly knit family",
+   "knit together"
+  ]
+ },
+ {
+  "id": "remark",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lời nhận xét; nhận xét, bình luận",
+  "coll": [
+   "make a remark",
+   "a casual remark",
+   "opening remarks",
+   "remark on the weather"
+  ]
+ },
+ {
+  "id": "repay",
+  "pos": [
+   "v"
+  ],
+  "vi": "hoàn trả; trả nợ; đền đáp",
+  "coll": [
+   "repay a loan",
+   "repay a debt",
+   "repay your kindness",
+   "repay in full"
+  ]
+ },
+ {
+  "id": "discomfort",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự khó chịu; sự bất tiện",
+  "coll": [
+   "cause discomfort",
+   "physical discomfort",
+   "ease the discomfort",
+   "mild discomfort"
+  ]
+ },
+ {
+  "id": "evenly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đều; đồng đều",
+  "coll": [
+   "evenly distributed",
+   "spread evenly",
+   "evenly matched",
+   "breathe evenly"
+  ]
+ },
+ {
+  "id": "fashionable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hợp thời trang; thời thượng",
+  "coll": [
+   "fashionable clothes",
+   "a fashionable district",
+   "highly fashionable",
+   "become fashionable"
+  ]
+ },
+ {
+  "id": "fetch",
+  "pos": [
+   "v",
+   "n",
+   "intj"
+  ],
+  "vi": "đi lấy về; bán được (giá)",
+  "coll": [
+   "fetch some water",
+   "fetch the ball",
+   "fetch a high price",
+   "play fetch"
+  ]
+ },
+ {
+  "id": "vacancy",
+  "pos": [
+   "n"
+  ],
+  "vi": "vị trí trống; phòng trống; chỗ khuyết",
+  "coll": [
+   "job vacancy",
+   "fill a vacancy",
+   "no vacancies",
+   "vacancy rate"
+  ]
+ },
+ {
+  "id": "camel",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "lạc đà",
+  "coll": [
+   "ride a camel",
+   "camel hair",
+   "a caravan of camels",
+   "a camel's hump"
+  ]
+ },
+ {
+  "id": "checkout",
+  "pos": [
+   "n"
+  ],
+  "vi": "quầy thanh toán; giờ trả phòng",
+  "coll": [
+   "checkout counter",
+   "checkout time",
+   "supermarket checkout",
+   "proceed to checkout"
+  ]
+ },
+ {
+  "id": "comet",
+  "pos": [
+   "n"
+  ],
+  "vi": "sao chổi",
+  "coll": [
+   "Halley's Comet",
+   "the comet's tail",
+   "a comet passing close to Earth"
+  ]
+ },
+ {
+  "id": "deficiency",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thiếu hụt; khiếm khuyết",
+  "coll": [
+   "vitamin deficiency",
+   "iron deficiency",
+   "nutritional deficiency",
+   "immune deficiency"
+  ]
+ },
+ {
+  "id": "kitten",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mèo con",
+  "coll": [
+   "a litter of kittens",
+   "newborn kitten",
+   "a playful kitten",
+   "kitten heels"
+  ]
+ },
+ {
+  "id": "northeastern",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc đông bắc; ở phía đông bắc",
+  "coll": [
+   "northeastern region",
+   "northeastern states",
+   "northeastern coast"
+  ]
+ },
+ {
+  "id": "salesman",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân viên bán hàng; người bán hàng",
+  "coll": [
+   "car salesman",
+   "traveling salesman",
+   "door-to-door salesman",
+   "insurance salesman"
+  ]
+ },
+ {
+  "id": "swell",
+  "pos": [
+   "v",
+   "n",
+   "adj",
+   "adv"
+  ],
+  "vi": "sưng lên; phồng to; dâng lên",
+  "coll": [
+   "swell up",
+   "her ankles began to swell",
+   "the crowd swelled",
+   "swell with pride"
+  ]
+ },
+ {
+  "id": "symptom",
+  "pos": [
+   "n"
+  ],
+  "vi": "triệu chứng; dấu hiệu",
+  "coll": [
+   "flu symptoms",
+   "show symptoms of",
+   "symptoms include fever",
+   "relieve the symptoms"
+  ]
+ },
+ {
+  "id": "thirst",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn khát; sự khao khát",
+  "coll": [
+   "quench your thirst",
+   "die of thirst",
+   "a thirst for knowledge",
+   "hunger and thirst"
+  ]
+ },
+ {
+  "id": "transitional",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chuyển tiếp; quá độ",
+  "coll": [
+   "transitional period",
+   "transitional government",
+   "transitional phase",
+   "transitional arrangements"
+  ]
+ },
+ {
+  "id": "tuna",
+  "pos": [
+   "n"
+  ],
+  "vi": "cá ngừ",
+  "coll": [
+   "tuna salad",
+   "canned tuna",
+   "tuna sandwich",
+   "tuna fishing"
+  ]
+ },
+ {
+  "id": "viewpoint",
+  "pos": [
+   "n"
+  ],
+  "vi": "quan điểm; góc nhìn; điểm ngắm cảnh",
+  "coll": [
+   "from my viewpoint",
+   "different viewpoints",
+   "political viewpoint",
+   "express a viewpoint"
+  ]
+ },
+ {
+  "id": "accessory",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "phụ kiện; kẻ tòng phạm",
+  "coll": [
+   "fashion accessories",
+   "car accessories",
+   "matching accessories",
+   "an accessory to murder"
+  ]
+ },
+ {
+  "id": "fax",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bản fax; máy fax; gửi fax",
+  "coll": [
+   "send a fax",
+   "fax machine",
+   "fax number",
+   "by fax"
+  ]
+ },
+ {
+  "id": "gee",
+  "pos": [
+   "intj",
+   "v",
+   "n"
+  ],
+  "vi": "chà, ối chà (cũ); trời ơi (cũ)",
+  "coll": [
+   "gee whiz",
+   "gee, thanks",
+   "gee, I don't know"
+  ]
+ },
+ {
+  "id": "groom",
+  "pos": [
+   "n"
+  ],
+  "vi": "chú rể; người chăm ngựa",
+  "coll": [
+   "bride and groom",
+   "the groom's speech",
+   "a stable groom"
+  ]
+ },
+ {
+  "id": "guitarist",
+  "pos": [
+   "n"
+  ],
+  "vi": "người chơi ghi-ta; nghệ sĩ ghi-ta",
+  "coll": [
+   "lead guitarist",
+   "bass guitarist",
+   "jazz guitarist",
+   "rock guitarist"
+  ]
+ },
+ {
+  "id": "reproduce",
+  "pos": [
+   "v"
+  ],
+  "vi": "sinh sản; sao chép; tái hiện",
+  "coll": [
+   "reproduce sexually",
+   "reproduce the results",
+   "reproduced with permission",
+   "reproduce an image"
+  ]
+ },
+ {
+  "id": "safari",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuyến safari; chuyến đi ngắm thú hoang",
+  "coll": [
+   "go on safari",
+   "safari park",
+   "an African safari",
+   "safari tour"
+  ]
+ },
+ {
+  "id": "unlucky",
+  "pos": [
+   "adj"
+  ],
+  "vi": "xui xẻo; không may; đen đủi",
+  "coll": [
+   "an unlucky number",
+   "unlucky in love",
+   "an unlucky day",
+   "if you're unlucky"
+  ]
+ },
+ {
+  "id": "canned",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "đóng hộp; thu sẵn (tiếng cười)",
+  "coll": [
+   "canned food",
+   "canned tomatoes",
+   "canned tuna",
+   "canned laughter"
+  ]
+ },
+ {
+  "id": "damp",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "ẩm ướt; hơi ẩm",
+  "coll": [
+   "a damp cloth",
+   "damp weather",
+   "cold and damp",
+   "damp walls"
+  ]
+ },
+ {
+  "id": "fuss",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự om sòm; làm nhặng xị; sự rối rít",
+  "coll": [
+   "make a fuss",
+   "fuss over the baby",
+   "a lot of fuss",
+   "without any fuss"
+  ]
+ },
+ {
+  "id": "gorilla",
+  "pos": [
+   "n"
+  ],
+  "vi": "khỉ đột",
+  "coll": [
+   "mountain gorilla",
+   "silverback gorilla",
+   "gorilla habitat"
+  ]
+ },
+ {
+  "id": "lawful",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hợp pháp; chính đáng",
+  "coll": [
+   "lawful owner",
+   "lawful authority",
+   "a lawful purpose",
+   "lawful wedded wife"
+  ]
+ },
+ {
+  "id": "violently",
+  "pos": [
+   "adv"
+  ],
+  "vi": "dữ dội; một cách hung bạo",
+  "coll": [
+   "shake violently",
+   "react violently",
+   "violently opposed",
+   "tremble violently"
+  ]
+ },
+ {
+  "id": "beaver",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hải ly",
+  "coll": [
+   "beaver dam",
+   "busy as a beaver",
+   "beaver fur",
+   "beaver away at something"
+  ]
+ },
+ {
+  "id": "caller",
+  "pos": [
+   "n"
+  ],
+  "vi": "người gọi điện; khách ghé thăm",
+  "coll": [
+   "an anonymous caller",
+   "the caller hung up",
+   "caller ID",
+   "a regular caller"
+  ]
+ },
+ {
+  "id": "cv",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sơ yếu lý lịch; hồ sơ xin việc",
+  "coll": [
+   "send your CV",
+   "update your CV",
+   "CV and cover letter",
+   "attach a CV"
+  ]
+ },
+ {
+  "id": "disturbance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự quấy rầy; vụ náo loạn; sự xáo trộn",
+  "coll": [
+   "cause a disturbance",
+   "public disturbance",
+   "sleep disturbance",
+   "emotional disturbance"
+  ]
+ },
+ {
+  "id": "informative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "giàu thông tin; bổ ích",
+  "coll": [
+   "an informative article",
+   "highly informative",
+   "informative and entertaining",
+   "an informative website"
+  ]
+ },
+ {
+  "id": "interrupt",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "ngắt lời; làm gián đoạn",
+  "coll": [
+   "interrupt a conversation",
+   "sorry to interrupt",
+   "interrupt the meeting",
+   "rudely interrupted"
+  ]
+ },
+ {
+  "id": "mosquito",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con muỗi",
+  "coll": [
+   "mosquito bite",
+   "mosquito net",
+   "mosquito repellent",
+   "mosquito-borne diseases"
+  ]
+ },
+ {
+  "id": "novelist",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiểu thuyết gia; nhà văn viết tiểu thuyết",
+  "coll": [
+   "best-selling novelist",
+   "famous novelist",
+   "crime novelist",
+   "an aspiring novelist"
+  ]
+ },
+ {
+  "id": "remembrance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tưởng nhớ; kỷ niệm; vật kỷ niệm",
+  "coll": [
+   "in remembrance of",
+   "Remembrance Day",
+   "a service of remembrance"
+  ]
+ },
+ {
+  "id": "attain",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đạt được; đạt tới",
+  "coll": [
+   "attain a goal",
+   "attain success",
+   "attain the age of eighteen",
+   "attain a high level"
+  ]
+ },
+ {
+  "id": "careless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bất cẩn; cẩu thả",
+  "coll": [
+   "a careless mistake",
+   "careless driving",
+   "careless with money",
+   "a careless remark"
+  ]
+ },
+ {
+  "id": "cheerful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vui vẻ; tươi tắn; tươi sáng",
+  "coll": [
+   "a cheerful smile",
+   "in a cheerful mood",
+   "bright and cheerful",
+   "a cheerful voice"
+  ]
+ },
+ {
+  "id": "curly",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "xoăn; quăn; uốn cong",
+  "coll": [
+   "curly hair",
+   "curly fries",
+   "naturally curly",
+   "short curly hair"
+  ]
+ },
+ {
+  "id": "gymnastics",
+  "pos": [
+   "n"
+  ],
+  "vi": "thể dục dụng cụ; môn thể dục",
+  "coll": [
+   "do gymnastics",
+   "rhythmic gymnastics",
+   "gymnastics competition",
+   "mental gymnastics"
+  ]
+ }
+]

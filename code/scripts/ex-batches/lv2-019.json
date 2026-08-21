@@ -1,0 +1,815 @@
+[
+ {
+  "id": "bind",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "buộc, trói; ràng buộc; đóng (sách)",
+  "coll": [
+   "bind the pages",
+   "legally binding",
+   "bind together",
+   "bind someone's hands"
+  ]
+ },
+ {
+  "id": "boiling",
+  "pos": [
+   "adj",
+   "v",
+   "n",
+   "adv"
+  ],
+  "vi": "đang sôi; nóng như thiêu",
+  "coll": [
+   "boiling water",
+   "the boiling point",
+   "boiling hot",
+   "a boiling kettle"
+  ]
+ },
+ {
+  "id": "bum",
+  "pos": [
+   "n",
+   "v",
+   "intj",
+   "adj"
+  ],
+  "vi": "mông, đít; kẻ lang thang, vô công rồi nghề; xin xỏ",
+  "coll": [
+   "sit on your bum",
+   "a bum on the street",
+   "bum a cigarette",
+   "bum around"
+  ]
+ },
+ {
+  "id": "conception",
+  "pos": [
+   "n"
+  ],
+  "vi": "quan niệm, ý niệm; sự thụ thai",
+  "coll": [
+   "a clear conception",
+   "the initial conception",
+   "the conception of a child",
+   "at the moment of conception"
+  ]
+ },
+ {
+  "id": "dwarf",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "người lùn; người tí hon (thần thoại); làm lu mờ",
+  "coll": [
+   "a dwarf planet",
+   "a white dwarf",
+   "dwarf varieties",
+   "dwarf the other buildings"
+  ]
+ },
+ {
+  "id": "forthcoming",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sắp tới; sẵn có khi cần; cởi mở",
+  "coll": [
+   "the forthcoming election",
+   "a forthcoming book",
+   "forthcoming events",
+   "not very forthcoming"
+  ]
+ },
+ {
+  "id": "ideally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "lý tưởng nhất là; một cách lý tưởng",
+  "coll": [
+   "ideally suited",
+   "ideally located",
+   "ideally placed",
+   "ideally, we would start now"
+  ]
+ },
+ {
+  "id": "inspirational",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "truyền cảm hứng",
+  "coll": [
+   "an inspirational leader",
+   "an inspirational speech",
+   "an inspirational story",
+   "truly inspirational"
+  ]
+ },
+ {
+  "id": "liner",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tàu khách lớn; lớp lót; bút kẻ mắt",
+  "coll": [
+   "an ocean liner",
+   "a cruise liner",
+   "a bin liner",
+   "eye liner"
+  ]
+ },
+ {
+  "id": "merge",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "sáp nhập; hợp nhất; hòa vào",
+  "coll": [
+   "merge two companies",
+   "merge with",
+   "merge the files",
+   "the lanes merge"
+  ]
+ },
+ {
+  "id": "mortar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vữa xây; cối giã; súng cối",
+  "coll": [
+   "bricks and mortar",
+   "mortar and pestle",
+   "mortar fire",
+   "mix the mortar"
+  ]
+ },
+ {
+  "id": "prestige",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "uy tín, danh tiếng",
+  "coll": [
+   "social prestige",
+   "gain prestige",
+   "international prestige",
+   "a matter of prestige"
+  ]
+ },
+ {
+  "id": "retailer",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà bán lẻ",
+  "coll": [
+   "a major retailer",
+   "online retailers",
+   "a clothing retailer",
+   "retailers and wholesalers"
+  ]
+ },
+ {
+  "id": "telescope",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kính viễn vọng",
+  "coll": [
+   "look through a telescope",
+   "a space telescope",
+   "a radio telescope",
+   "point the telescope"
+  ]
+ },
+ {
+  "id": "thickness",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "độ dày; bề dày",
+  "coll": [
+   "the thickness of the wall",
+   "uniform thickness",
+   "measure the thickness",
+   "ice thickness"
+  ]
+ },
+ {
+  "id": "tray",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cái khay",
+  "coll": [
+   "a serving tray",
+   "an ice tray",
+   "a tea tray",
+   "carry a tray"
+  ]
+ },
+ {
+  "id": "unreasonable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô lý; quá đáng",
+  "coll": [
+   "an unreasonable demand",
+   "unreasonable behaviour",
+   "totally unreasonable",
+   "unreasonable expectations"
+  ]
+ },
+ {
+  "id": "unsure",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không chắc chắn; do dự",
+  "coll": [
+   "unsure of yourself",
+   "unsure what to do",
+   "unsure about the future",
+   "feel unsure"
+  ]
+ },
+ {
+  "id": "utilize",
+  "pos": [
+   "v"
+  ],
+  "vi": "sử dụng, tận dụng",
+  "coll": [
+   "utilize resources",
+   "fully utilize",
+   "utilize technology",
+   "utilize the space"
+  ]
+ },
+ {
+  "id": "violate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "vi phạm; xâm phạm; xúc phạm",
+  "coll": [
+   "violate the law",
+   "violate human rights",
+   "violate a rule",
+   "violate privacy"
+  ]
+ },
+ {
+  "id": "anticipation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mong đợi; sự dự đoán trước",
+  "coll": [
+   "in anticipation of",
+   "eager anticipation",
+   "with great anticipation",
+   "a sense of anticipation"
+  ]
+ },
+ {
+  "id": "appropriately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách phù hợp; thích đáng",
+  "coll": [
+   "dress appropriately",
+   "respond appropriately",
+   "act appropriately",
+   "appropriately named"
+  ]
+ },
+ {
+  "id": "arrogant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "kiêu ngạo; ngạo mạn",
+  "coll": [
+   "an arrogant man",
+   "arrogant behaviour",
+   "sound arrogant",
+   "arrogant and rude"
+  ]
+ },
+ {
+  "id": "boxer",
+  "pos": [
+   "n"
+  ],
+  "vi": "võ sĩ quyền anh; chó boxer",
+  "coll": [
+   "a professional boxer",
+   "a heavyweight boxer",
+   "an amateur boxer",
+   "boxer shorts"
+  ]
+ },
+ {
+  "id": "carbon dioxide",
+  "pos": [
+   "n"
+  ],
+  "vi": "khí cacbonic (CO2)",
+  "coll": [
+   "carbon dioxide emissions",
+   "absorb carbon dioxide",
+   "carbon dioxide levels",
+   "release carbon dioxide"
+  ]
+ },
+ {
+  "id": "coma",
+  "pos": [
+   "n"
+  ],
+  "vi": "hôn mê",
+  "coll": [
+   "fall into a coma",
+   "in a coma",
+   "come out of a coma",
+   "an induced coma"
+  ]
+ },
+ {
+  "id": "comfortably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thoải mái; dễ dàng (thắng)",
+  "coll": [
+   "sit comfortably",
+   "comfortably seated",
+   "win comfortably",
+   "live comfortably"
+  ]
+ },
+ {
+  "id": "contempt",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự khinh miệt; tội khinh thường tòa án",
+  "coll": [
+   "treat with contempt",
+   "utter contempt",
+   "contempt of court",
+   "beneath contempt"
+  ]
+ },
+ {
+  "id": "disappearance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự biến mất; sự mất tích",
+  "coll": [
+   "a mysterious disappearance",
+   "the disappearance of species",
+   "investigate a disappearance",
+   "a sudden disappearance"
+  ]
+ },
+ {
+  "id": "emergence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xuất hiện; sự nổi lên",
+  "coll": [
+   "the emergence of new technology",
+   "the emergence of a leader",
+   "rapid emergence",
+   "since the emergence of the internet"
+  ]
+ },
+ {
+  "id": "endurance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sức bền; sự chịu đựng",
+  "coll": [
+   "physical endurance",
+   "an endurance test",
+   "build endurance",
+   "beyond endurance"
+  ]
+ },
+ {
+  "id": "evacuation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sơ tán; cuộc di tản",
+  "coll": [
+   "an emergency evacuation",
+   "order an evacuation",
+   "an evacuation plan",
+   "a mass evacuation"
+  ]
+ },
+ {
+  "id": "exceptionally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cực kỳ; đặc biệt là",
+  "coll": [
+   "exceptionally good",
+   "exceptionally talented",
+   "exceptionally high",
+   "exceptionally well"
+  ]
+ },
+ {
+  "id": "hedge",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hàng rào cây; phòng ngừa rủi ro; nói nước đôi",
+  "coll": [
+   "trim the hedge",
+   "a garden hedge",
+   "a hedge fund",
+   "hedge against inflation"
+  ]
+ },
+ {
+  "id": "ironically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "trớ trêu thay; một cách mỉa mai",
+  "coll": [
+   "ironically enough",
+   "ironically named",
+   "smile ironically",
+   "ironically, it worked"
+  ]
+ },
+ {
+  "id": "pneumonia",
+  "pos": [
+   "n"
+  ],
+  "vi": "viêm phổi",
+  "coll": [
+   "develop pneumonia",
+   "die of pneumonia",
+   "severe pneumonia",
+   "bacterial pneumonia"
+  ]
+ },
+ {
+  "id": "potent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mạnh, hiệu nghiệm; có sức thuyết phục",
+  "coll": [
+   "a potent drug",
+   "a potent weapon",
+   "a potent symbol",
+   "highly potent"
+  ]
+ },
+ {
+  "id": "salty",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mặn; có vị muối",
+  "coll": [
+   "salty water",
+   "salty food",
+   "a salty taste",
+   "too salty"
+  ]
+ },
+ {
+  "id": "torch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ngọn đuốc; đèn pin (Anh); phóng hỏa",
+  "coll": [
+   "carry a torch",
+   "the Olympic torch",
+   "shine a torch",
+   "a flaming torch"
+  ]
+ },
+ {
+  "id": "unchanged",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không thay đổi",
+  "coll": [
+   "remain unchanged",
+   "essentially unchanged",
+   "largely unchanged",
+   "prices are unchanged"
+  ]
+ },
+ {
+  "id": "understandable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dễ hiểu; có thể thông cảm",
+  "coll": [
+   "perfectly understandable",
+   "an understandable reaction",
+   "understandable concern",
+   "quite understandable"
+  ]
+ },
+ {
+  "id": "upright",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "vi": "thẳng đứng; ngay thẳng, chính trực",
+  "coll": [
+   "stand upright",
+   "an upright position",
+   "an upright piano",
+   "an upright citizen"
+  ]
+ },
+ {
+  "id": "vanity",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính phù phiếm, hư vinh; bàn trang điểm",
+  "coll": [
+   "out of vanity",
+   "wounded vanity",
+   "a vanity project",
+   "a vanity mirror"
+  ]
+ },
+ {
+  "id": "anticipate",
+  "pos": [
+   "v"
+  ],
+  "vi": "dự đoán trước; mong đợi; lường trước",
+  "coll": [
+   "anticipate problems",
+   "anticipate the outcome",
+   "eagerly anticipate",
+   "as anticipated"
+  ]
+ },
+ {
+  "id": "bankrupt",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "phá sản; làm phá sản; người vỡ nợ",
+  "coll": [
+   "go bankrupt",
+   "declared bankrupt",
+   "a bankrupt company",
+   "morally bankrupt"
+  ]
+ },
+ {
+  "id": "blink",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "chớp mắt; cái chớp mắt; nhấp nháy",
+  "coll": [
+   "blink your eyes",
+   "in the blink of an eye",
+   "without blinking",
+   "the lights blink"
+  ]
+ },
+ {
+  "id": "childish",
+  "pos": [
+   "adj"
+  ],
+  "vi": "trẻ con, ấu trĩ; như trẻ con",
+  "coll": [
+   "childish behaviour",
+   "don't be childish",
+   "a childish prank",
+   "childish and immature"
+  ]
+ },
+ {
+  "id": "dilemma",
+  "pos": [
+   "n"
+  ],
+  "vi": "tình thế khó xử; thế tiến thoái lưỡng nan",
+  "coll": [
+   "face a dilemma",
+   "a moral dilemma",
+   "a difficult dilemma",
+   "pose a dilemma"
+  ]
+ },
+ {
+  "id": "disgrace",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự ô nhục; nỗi hổ thẹn; làm nhục",
+  "coll": [
+   "bring disgrace on",
+   "in disgrace",
+   "a national disgrace",
+   "public disgrace"
+  ]
+ },
+ {
+  "id": "excel",
+  "pos": [
+   "v"
+  ],
+  "vi": "xuất sắc, vượt trội",
+  "coll": [
+   "excel at sports",
+   "excel in mathematics",
+   "excel yourself",
+   "excel academically"
+  ]
+ },
+ {
+  "id": "firstly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thứ nhất là; trước hết",
+  "coll": [
+   "firstly and most importantly",
+   "firstly, we must consider",
+   "firstly and secondly",
+   "firstly, let us examine"
+  ]
+ },
+ {
+  "id": "inflammation",
+  "pos": [
+   "n"
+  ],
+  "vi": "viêm; tình trạng sưng viêm",
+  "coll": [
+   "reduce inflammation",
+   "chronic inflammation",
+   "cause inflammation",
+   "joint inflammation"
+  ]
+ },
+ {
+  "id": "lava",
+  "pos": [
+   "n"
+  ],
+  "vi": "dung nham",
+  "coll": [
+   "molten lava",
+   "a lava flow",
+   "a lava field",
+   "erupting lava"
+  ]
+ },
+ {
+  "id": "metaphor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "phép ẩn dụ",
+  "coll": [
+   "a mixed metaphor",
+   "use a metaphor",
+   "an extended metaphor",
+   "a metaphor for life"
+  ]
+ },
+ {
+  "id": "millionaire",
+  "pos": [
+   "n"
+  ],
+  "vi": "triệu phú",
+  "coll": [
+   "a self-made millionaire",
+   "become a millionaire",
+   "a multi-millionaire",
+   "a millionaire businessman"
+  ]
+ },
+ {
+  "id": "owing to",
+  "pos": [
+   "prep"
+  ],
+  "vi": "do, bởi vì",
+  "coll": [
+   "owing to bad weather",
+   "owing to circumstances",
+   "owing to a lack of funds",
+   "cancelled owing to illness"
+  ]
+ },
+ {
+  "id": "patriot",
+  "pos": [
+   "n"
+  ],
+  "vi": "người yêu nước",
+  "coll": [
+   "a true patriot",
+   "a great patriot",
+   "a loyal patriot",
+   "patriots and heroes"
+  ]
+ },
+ {
+  "id": "patron",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "người bảo trợ; khách quen; thánh bảo hộ",
+  "coll": [
+   "a patron of the arts",
+   "regular patrons",
+   "a patron saint",
+   "wealthy patrons"
+  ]
+ },
+ {
+  "id": "rightly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách đúng đắn; quả thật đúng",
+  "coll": [
+   "rightly so",
+   "rightly or wrongly",
+   "rightly proud",
+   "rightly criticised"
+  ]
+ },
+ {
+  "id": "shrink",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "co lại, thu nhỏ; giảm sút; né tránh",
+  "coll": [
+   "shrink in the wash",
+   "the economy shrinks",
+   "shrink back",
+   "shrink from responsibility"
+  ]
+ }
+]

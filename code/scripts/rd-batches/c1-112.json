@@ -1,0 +1,169 @@
+[
+ {
+  "id": "wiki-google-ai",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Google_AI",
+  "title_en": "Google AI",
+  "sentences": [
+   "Google AI is a part of Google that focuses on creating smart computer systems.",
+   "The team studies different areas of artificial intelligence (AI), such as machine learning and natural language processing.",
+   "One of their achievements, Gemini, is an advanced language model intended to help with writing, planning, and learning.",
+   "The findings from their research are used to improve many Google products: Search: AI technology helps the search engine better understand user queries for more relevant results.",
+   "Assistant: AI enables Google Assistant to understand user requests and provide answers or perform tasks.",
+   "Photos: AI helps organize and find specific images within Google Photos.",
+   "Overall, Google AI aims to use AI to make technology more helpful for everyone."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-malware-from-mass-sql-injections-confirm",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Malware_from_mass_SQL_injections_confirmed_by_security_experts",
+  "title_en": "Malware from mass SQL injections confirmed by security experts",
+  "sentences": [
+   "Thursday, June 5, 2008 Nearly 20,000 websites have been attacked by unknown malicious computer users using a technique known as an SQL injection.",
+   "The attackers have inserted code to install malware onto visitors' computers.",
+   "The code exploits a newly-discovered weakness in Adobe Flash Player, a very common web-browser plugin.",
+   "The attacks prompted an investigation by the Taiwanese information security industry into the source of these attacks.",
+   "An SQL injection is a common method employed by malicious users to attack and deface websites, arising from website mistakes in checking user input.",
+   "Attackers take advantage of these weaknesses to inject information of their choosing into the website.",
+   "For example, in June of 2007, Microsoft UK found its webpage changed to a picture of the Saudi Arabia flag, an attack which was carried out using an SQL injection.",
+   "According to SecurityFocus, this most recent series of attacks stems from a vulnerability in versions 9.0.115.0 and 9.0.124.0 of Flash Player.",
+   "It allows attackers to load any code they wish onto a computer running these versions of Flash.",
+   "As the vulnerability in Flash is newly discovered, Adobe has not yet released a newer version which fixes the problem.",
+   "For the time being, computer security experts recommend that internet users with one of the unprotected versions of Flash disable the plug-in on Mozilla Firefox or Internet Explorer to prevent malicious users from gaining control over their computers.",
+   "The most recent version of the Flash Player, version 9.0.124.0, does not appear to be vulnerable to this exploit."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-xai",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/XAI",
+  "title_en": "XAI",
+  "sentences": [
+   "X.AI Corp. is a company founded by Elon Musk.",
+   "It was founded on March 9, 2023 in America.",
+   "It exists in the artificial intelligence (AI), social media and technology spaces.",
+   "It is a fully owned subsidiary by the company SpaceX, another Elon Musk company. xAI has also used its Grok models to launch Grokipedia, a competitor for Wikipedia, however it is not a separate model.",
+   "Grokipedia is an \"AI powered wikipedia\" that is powered by AI.",
+   "It aims to be unbiased and not political, or controlled by any single political wing.",
+   "This means it does not want to be biased towards left or right wing politics or other ideologies and it claims to want to do this by being powered by AI."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-libris",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/LIBRIS",
+  "title_en": "LIBRIS",
+  "sentences": [
+   "LIBRIS is the online catalog of the Swedish national library system.",
+   "It combines the catalogs of 175 libraries in Sweden.",
+   "The catalog is run by the Swedish National Library in Stockholm.",
+   "LIBRIS has authority controls.",
+   "It also has bibliographical information about the books held in Sweden's libraries and which libraries hold the books.",
+   "The LIBRIS database is linked to the Semantic Web.",
+   "The LIBRIS project was begun in 1970.",
+   "In 2011 the bibliography and authority files were released into the public domain.",
+   "As of 2014, LIBRIS contained approximately seven million separate book titles."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-taiwan-s-doritos-coolpedia-website-annou",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Taiwan's_%22Doritos_Coolpedia%22_website_announces_top_%22Internet_Quote%22",
+  "title_en": "Taiwan's \"Doritos Coolpedia\" website announces top \"Internet Quote\"",
+  "sentences": [
+   "Friday, November 2, 2007 \"Among men, La-La; among horses, Red Hare\" (In Chinese: 馬中赤兔，人中拉拉) was recently elected as the \"Best Internet Cool Quote\".",
+   "Laa-Laa refers to the yellow character from the Teletubbies television series, and Red Hare refers to military general Lü Bu's horse during China's Three Kingdoms period.",
+   "The quote was given its title after a two-week voting period, that started on October 14 until PepsiCo Taiwan & Doritos announced \"Top 10 Internet Cool Quote\" on October 31.",
+   "Voting was on the Doritos Coolpedia website, which started on September 28.",
+   "Voting attracted more than 10,000 Internet users from 64 countries participating and electing.",
+   "Coolpedia is a portal for teens and young adults to share and contribute their creations, and interact.",
+   "At the announcement event was the famous Taiwanese band \"MACHI Brothers\" (MACHI).",
+   "Described by Pepsico as a symbol of younger people in the presence of the e-Century in Taiwan, MACHI serves as spokespeople for the website.",
+   "Members of band dressed in different \"Cool Quote T-Shirts\" to symbolize the \"unlimited creation\" of Coolpedia.",
+   "On November 1, Coolpedia launched a website for a \"Cool Video Award\" contest, with the slogan \"No pictures, no truth!\".",
+   "PepsiCo Taiwan has suggested that the site will be a major Web 2.0 site."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-english-magistrate-resigns-over-twitter-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/English_magistrate_resigns_over_Twitter_posts",
+  "title_en": "English magistrate resigns over Twitter posts",
+  "sentences": [
+   "Sunday, April 26, 2009 Stephen Molyneux has resigned from his post of Justice of the Peace in Shropshire, England, after a fellow magistrate reported him for posting messages about a case on the social networking website Twitter.",
+   "Professor Molyneux, an IT consultant and former mayor of Oakengates, tweeted information about bail applications on an armed robbery case.",
+   "He wrote 'just about to hear application from 3 robbers from Manchster as to whether to remand or not', '1st defendant.",
+   "Conspiricy [sic] to rob TSB of £500,000.",
+   "Good start - wrong previous convictions presented' and 'finished hearing bail. 3 refused for planning robbery of £480,000 from Tsb [sic] in Dawley, Telford'.",
+   "Molyneux claimed nothing that he said could have prejudiced a case and he only mentioned what had been discussed in open court.",
+   "He also claimed he was trying to make the criminal justice system seem more transparent.",
+   "He also stated he had never tweeted whilst in court, but only in the retiring room.",
+   "He resigned after he received a letter from the Shropshire Advisory Committee, which requested a meeting."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-cnn-headquarters-infected-with-computer-",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/CNN_headquarters_infected_with_computer_worm%2C_exaggerates_global_threat",
+  "title_en": "CNN headquarters infected with computer worm, exaggerates global threat",
+  "sentences": [
+   "Tuesday, August 16, 2005 CNN television news gave extensive coverage starting around 5:30 PM EST today to a new computer virus, a worm dubbed rbot.cbq.",
+   "Its reporting suggested that it had the potential to become one of the most virulent and costly yet seen.",
+   "This story was unique among cyber-attacks reports as the network apparently learned of the virus through becoming one of its early victims.",
+   "Media organizations ABC and the New York Times were affected as well.",
+   "Perhaps first-hand experience gave the studio more insight on the virus while providing an early notice.",
+   "The coverage that followed, however, raises concerns that the network's perspective was skewed, and that perhaps the damage even diminished its reporting ability.",
+   "CNN treated the story as a potential global crisis in its manner of coverage as well as in the advice given to viewers.",
+   "For over 45 minutes, by one viewer's tally, CNN devoted exclusive air-time to this topic.",
+   "Home users were advised to turn off their computers for safety, while businesses were warned that if continued operations prevented this measure, they were at high risk.",
+   "CNN.com sported a bold red headline above its usual content area, warning of the virus.",
+   "CNN stated they were requesting reports from key sources across the nation, including California governor Arnold Schwarzenegger.",
+   "After some time, the network eventually obtained a Microsoft statement describing the virus as \"low-impact\" and only affecting computers running Windows 2000.",
+   "CNN also learned from Microsoft that there was a patch available at Microsoft's web site.",
+   "CNN's coverage contrasted with a lack of actual evidence of widespread infections, in this reporter's view.",
+   "Much of the discussion and advice came from experts probably not officially associated with CNN, so there is a question of who is at fault.",
+   "Chris Carboni of the Internet Storm Center speculated that \"The fact that CNN, ABC and the NYTimes got it may be as simple as reporters from these organizations visiting the same event and connecting to an infected network."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-digital-security-researchers-publicly-re",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Digital_security_researchers_publicly_reveal_vulnerability_in_WPA2_WiFi_protocol",
+  "title_en": "Digital security researchers publicly reveal vulnerability in WPA2 WiFi protocol",
+  "sentences": [
+   "Thursday, October 19, 2017 On Monday, digital security researchers Mathy Vanhoef and Frank Piessens of Belgium's KU Leuven university publicly disclosed a security vulnerability in the WPA2 Wi-Fi (wireless local-area networking) protocol, which they called KRACK (for Key Reinstallation Attack).",
+   "Their study claimed KRACK affects every modern device using Wi-Fi; it can be fixed by a software update, researchers said.",
+   "Vanhoef wrote, \"Attackers can use this novel attack technique to read information that was previously assumed to be safely encrypted.",
+   "This can be abused to steal sensitive information such as credit card numbers, passwords, chat messages, emails, photos and so on.\" Vanhoef notified vendors about the flaw in July, including UNIX-like operating system OpenBSD.",
+   "\"If your device supports Wi-Fi, it is most likely affected. [...] In general, any data or information that the victim transmits can be decrypted\", he wrote.",
+   "The study papers, which were submitted for review on May 19, were kept in confidence allowing companies to fix the security flaw.",
+   "The United States-based Computer Emergency Response Team (CERT) informed vendors on August 28.",
+   "The Wi-Fi Alliance said it \"could be resolved through a straightforward software update.\" OpenBSD released their software patch on August 30.",
+   "Exploring the flaw which affected every device the researchers had tested, National Cyber Security Centre of the UK said \"the attacker would have to be physically close to the target\".",
+   "But due to this flaw, an attacker can send malware or ransomware on the websites, Vanhoef claimed.",
+   "Linux-based operating systems including Android v6.0 and higher are especially affected by this flaw, while Windows and iOS are not as vulnerable as Android by this flaw as they do not fully implement WPA2.",
+   "Microsoft reportedly has released security patches for Windows 7, 8, 8.1 and 10.",
+   "Google said Android operating systems would receive the updates in the software update scheduled to be made available on November 6.",
+   "Apple has implemented the patch in the beta versions of their operating system iOS, macOS, tvOS and watchOS, however it is yet to roll out patches for stable operating systems.",
+   "WPA2 protocol has been used for more than a decade, and has been compulsory for Wi-Fi since 2006.",
+   "KRACK would also affect various home appliances which can be controlled over Wi-Fi, within the so-called \"Internet of things\"."
+  ],
+  "topic": "it"
+ }
+]

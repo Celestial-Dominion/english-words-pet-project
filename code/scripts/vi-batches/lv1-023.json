@@ -1,0 +1,934 @@
+[
+ {
+  "id": "wolf down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To consume (food) quickly or greedily, without regard for table manners."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "go off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To explode.",
+   "To fire, especially accidentally.",
+   "To explode metaphorically"
+  ]
+ },
+ {
+  "id": "get off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To move from being on top of (something) to not being on top of it."
+  ]
+ },
+ {
+  "id": "piss off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To leave, to go away.",
+   "To annoy, anger."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "pissed off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "simple past and past participle of piss off"
+  ]
+ },
+ {
+  "id": "sex up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To take part in sexual acts with.",
+   "To arouse somebody sexually.",
+   "To make more sexually attractive."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "drill down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To examine something on a more detailed level.",
+   "To examine information at another level or in greater detail",
+   "To replace data with more specific data."
+  ]
+ },
+ {
+  "id": "blow off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To remove something by blowing on it.",
+   "To vent, usually, to reduce pressure in a container.",
+   "To let steam escape through a passage provided for the purpose."
+  ]
+ },
+ {
+  "id": "pig out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To eat voraciously or ravenously"
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "take up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To lift",
+   "To occupy"
+  ]
+ },
+ {
+  "id": "toy with",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To handle something in a careless or frivolous manner.",
+   "To play, especially with or as with a toy."
+  ]
+ },
+ {
+  "id": "breathe in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To inhale."
+  ]
+ },
+ {
+  "id": "lock in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To fix the value of (something potentially variable).",
+   "To prevent (someone or something) from escaping, deteriorating, or switching to an alternative."
+  ]
+ },
+ {
+  "id": "lock out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To inadvertently prevent (a person, particularly oneself) from entering a place, by leaving it locked.",
+   "To prevent from accessing a data structure.",
+   "(industrial) To prevent (a person, including oneself) from powering up or turning on a machine when doing so would be dangerous…"
+  ]
+ },
+ {
+  "id": "geek out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To enthuse about a specific topic",
+   "To do geeky things",
+   "To be scared, freak out, panic"
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "mix up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To mix or blend thoroughly and completely.",
+   "To combine thoroughly.",
+   "To prepare something from ingredients that are mixed."
+  ]
+ },
+ {
+  "id": "keep up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To maintain",
+   "To continue with (work, etc).",
+   "To maintain position"
+  ]
+ },
+ {
+  "id": "jerk off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To masturbate by manually stimulating one's own penis.",
+   "To manually stimulate someone else's penis",
+   "To do nothing"
+  ]
+ },
+ {
+  "id": "skin up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To make a cannabis cigarette.",
+   "To travel uphill on skis or a splitboard.",
+   "To travel up a steep slope while pushing one's bicycle."
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "fuck around",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To fritter aimlessly or distractedly, to procrastinate, to waste time.",
+   "To fool around.",
+   "To horseplay, joke around, behave immaturely or irresponsibly"
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "stock up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To acquire or increase stock or inventory.",
+   "To swell up (usually refers to edema in a leg).",
+   "To extirpate"
+  ]
+ },
+ {
+  "id": "iron out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To remove (a crease or creases) with an iron.",
+   "To make (something) flat or smooth as if with an iron.",
+   "To resolve (a dispute)"
+  ]
+ },
+ {
+  "id": "hoover up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To suck (something) into a vacuum cleaner, irrespective of brand.",
+   "To do the vacuuming.",
+   "To avidly absorb or consume (something), as if by a vacuum cleaner."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "side with",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To choose to take the same point of view as (someone)."
+  ]
+ },
+ {
+  "id": "sit up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To assume a sitting position from a position lying down.",
+   "To sit erect.",
+   "To show sudden interest or surprise."
+  ]
+ },
+ {
+  "id": "sit down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To assume a sitting position from a standing position.",
+   "To cause to be seated or in a sitting posture",
+   "To meet formally at a conference table."
+  ]
+ },
+ {
+  "id": "bring about",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To cause to take place.",
+   "To accomplish, to achieve."
+  ]
+ },
+ {
+  "id": "come about",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To come to pass",
+   "To tack",
+   "To change"
+  ]
+ },
+ {
+  "id": "hang out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To spend time with somebody",
+   "To lodge or reside",
+   "To be unyielding"
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "figure out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To come to understand",
+   "To calculate."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "pick on",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To bully, harass, or make fun of a victim",
+   "To select (a person) for a task, etc."
+  ]
+ },
+ {
+  "id": "pack up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To give in",
+   "To clear away and place into storage.",
+   "To put back together."
+  ]
+ },
+ {
+  "id": "throw up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To vomit.",
+   "To produce or reveal something new or unexpected."
+  ]
+ },
+ {
+  "id": "bottle out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To fail to perform a promised or planned action due to lack of courage or nerve"
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "weigh down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To act as a ballast for.",
+   "To be too much for someone to cope with."
+  ]
+ },
+ {
+  "id": "go down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To descend"
+  ]
+ },
+ {
+  "id": "back up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To move backwards, especially for a vehicle to do so.",
+   "To move a vehicle backwards.",
+   "To undo one's actions."
+  ]
+ },
+ {
+  "id": "butter up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To flatter, especially with the intent of personal gain."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "bowl out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To take all the opponents' wickets (in whatever way) and thus end their innings.",
+   "To dismiss or be dismissed bowled.",
+   "To overcome opposition from (a person)"
+  ]
+ },
+ {
+  "id": "bowled out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "simple past and past participle of bowl out"
+  ]
+ },
+ {
+  "id": "come out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To be discovered",
+   "To be published or released"
+  ]
+ },
+ {
+  "id": "wash up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To clean the utensils, dishes etc. used in preparing and eating a meal.",
+   "To wash one's hands or face, often around mealtimes.",
+   "To carry (an object) to land."
+  ]
+ },
+ {
+  "id": "washed up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "simple past and past participle of wash up"
+  ]
+ },
+ {
+  "id": "trim up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To put up trimmings, especially at Christmas."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "wipe out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To destroy (especially, a large number or complete set of people or things)",
+   "To physically erase (writing, computer data, etc.).",
+   "To do away with"
+  ]
+ },
+ {
+  "id": "go away",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To depart or leave a place.",
+   "To travel somewhere, especially on holiday or vacation.",
+   "To go to prison to be incarcerated."
+  ]
+ },
+ {
+  "id": "take in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To receive.",
+   "To receive and properly absorb or comprehend.",
+   "To enjoy or appreciate."
+  ]
+ },
+ {
+  "id": "get out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To leave or escape.",
+   "To come out of a situation",
+   "To be released, especially from hospital or prison."
+  ]
+ },
+ {
+  "id": "get down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To bring or come down",
+   "To swallow (something).",
+   "To duck or take cover, usually to avoid harm. Commonly used as a caution or warning in the imperative."
+  ]
+ },
+ {
+  "id": "joining in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "present participle and gerund of join in"
+  ]
+ },
+ {
+  "id": "join in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To participate, take part or get involved in something."
+  ]
+ },
+ {
+  "id": "follow on",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To follow in sequence",
+   "To bat their second innings immediately after their first innings."
+  ]
+ },
+ {
+  "id": "bunk off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To leave.",
+   "To play truant"
+  ]
+ },
+ {
+  "id": "cop off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To leave school or work early without permission.",
+   "To make out"
+  ],
+  "reg": [
+   "slang"
+  ]
+ },
+ {
+  "id": "bear up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To sail close to the wind.",
+   "To endure hardship cheerfully or without complaining.",
+   "To support"
+  ]
+ },
+ {
+  "id": "bear down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "Used other than figuratively or idiomatically",
+   "To steer away from the wind",
+   "To push (someone) to the ground"
+  ]
+ },
+ {
+  "id": "gin up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To generate, devise, or create.",
+   "To set up a snare.",
+   "To exaggerate."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "break down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To stop functioning.",
+   "To unexpectedly collapse, physically or in structure.",
+   "To intentionally demolish"
+  ]
+ },
+ {
+  "id": "while away",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To spend (time) idly but pleasantly.",
+   "To elapse, to pass."
+  ]
+ },
+ {
+  "id": "pack away",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To store away, place out of the way, or stash, especially for the longer term.",
+   "To eat (a great deal of food)."
+  ]
+ },
+ {
+  "id": "opt out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To choose not to participate in something."
+  ]
+ },
+ {
+  "id": "sent off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "simple past and past participle of send off"
+  ]
+ },
+ {
+  "id": "send off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To send",
+   "Synonym of send away (“to dispatch orders to a place for something to be delivered”).",
+   "To emit"
+  ]
+ },
+ {
+  "id": "give up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To surrender (someone or something)",
+   "To relinquish (something)",
+   "Devote or dedicate (oneself, one's life, etc.) to something."
+  ]
+ },
+ {
+  "id": "own up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To acknowledge, confess, or admit guilt or responsibility."
+  ]
+ },
+ {
+  "id": "chicken out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To shy away from a daring task"
+  ]
+ },
+ {
+  "id": "keep on",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To persist or continue.",
+   "To persist in talking about a subject, perhaps to the annoyance of the listener.",
+   "To cause or allow to remain in an existing position."
+  ]
+ },
+ {
+  "id": "kill off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To eliminate, to make extinct.",
+   "Of writers or producers, to permanently take a character out of a television series or other work by purposefully and deliberately…",
+   "To put an end to."
+  ]
+ },
+ {
+  "id": "foul out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To become out by hitting a foul ball which is caught.",
+   "To be disqualified from further play for having committed too many fouls."
+  ]
+ },
+ {
+  "id": "knock down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To hit or collide with",
+   "To acquire money, especially illicitly"
+  ]
+ },
+ {
+  "id": "pass away",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To die."
+  ]
+ },
+ {
+  "id": "zoom in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To increase the focal length of a zoom lens in order to obtain a magnified image, or a close-up.",
+   "To manipulate a display (such as a computer screen) so as to make the image larger."
+  ]
+ },
+ {
+  "id": "zoom out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To decrease the focal length of a zoom lens in order to obtain a reduced magnification of the image, or a wider-angle view.",
+   "To manipulate a display (such as a computer screen) so as to make the image smaller and possibly less detailed."
+  ]
+ },
+ {
+  "id": "butt in",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To join a conversation or situation in which one is not welcome or invited",
+   "To join a queue not at the end, but in the middle, in violation of etiquette."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "heads up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "third-person singular simple present indicative of head up"
+  ]
+ },
+ {
+  "id": "knock up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To put together, fabricate, or assemble, particularly if done hastily or temporarily.",
+   "To awaken (someone) as by knocking at the door",
+   "To exhaust"
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "buckle down",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To apply oneself to study, or a task or work"
+  ]
+ },
+ {
+  "id": "crank out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To produce in large volumes mechanically or as if by machine."
+  ]
+ },
+ {
+  "id": "wake up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To stop sleeping",
+   "To awaken somebody.",
+   "To become more aware of a real-life situation"
+  ]
+ },
+ {
+  "id": "ward off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To parry, or turn aside.",
+   "To, while in possession of the ball, move the free hand or the hand and arm holding the butt end of the stick laterally into a defending…",
+   "To avert or prevent."
+  ]
+ },
+ {
+  "id": "warm up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To become warmer.",
+   "To heat or reheat (e.g. food).",
+   "To reach, or cause to reach, a normal operating temperature (of a car for example)."
+  ]
+ },
+ {
+  "id": "make up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To constitute, to compose.",
+   "To compensate, to fill in, to catch up.",
+   "To invent, to imagine, to concoct"
+  ]
+ },
+ {
+  "id": "flesh out",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To complete"
+  ]
+ },
+ {
+  "id": "pull off",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To remove by pulling.",
+   "To achieve, accomplish, succeed at (something difficult).",
+   "To turn off (a road onto the side of the road, or onto another road)."
+  ]
+ },
+ {
+  "id": "stuck up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "simple past and past participle of stick up"
+  ]
+ },
+ {
+  "id": "stick up",
+  "pos": [
+   "phr-v"
+  ],
+  "en": [
+   "To rob at gunpoint.",
+   "To be prominent",
+   "To speak or act in defence (of)."
+  ]
+ }
+]

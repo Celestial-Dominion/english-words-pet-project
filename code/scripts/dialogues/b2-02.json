@@ -1,0 +1,196 @@
+[
+ {
+  "id": "dlg-b2-raise",
+  "level": 2,
+  "title_en": "Asking for a raise",
+  "title_vi": "Đề nghị tăng lương",
+  "speakers": ["Huong", "Manager"],
+  "turns": [
+   { "sp": 0, "en": "Thanks for making time. I'd like to discuss my salary.", "vi": "Cảm ơn anh đã dành thời gian. Em muốn trao đổi về lương." },
+   { "sp": 1, "en": "All right. What did you have in mind?", "vi": "Được thôi. Em nghĩ thế nào?" },
+   { "sp": 0, "en": "I've taken on the whole reporting process this year.", "vi": "Năm nay em đã tiếp nhận toàn bộ quy trình báo cáo." },
+   { "sp": 1, "en": "That's true, and you've handled it well.", "vi": "Đúng vậy, và em làm khá tốt." },
+   { "sp": 0, "en": "I'd like my salary to reflect that.", "vi": "Em mong mức lương phản ánh được điều đó." },
+   { "sp": 1, "en": "What figure are you thinking of?", "vi": "Em nghĩ tới con số nào?" },
+   { "sp": 0, "en": "An increase of about ten percent.", "vi": "Tăng khoảng mười phần trăm ạ." },
+   { "sp": 1, "en": "That's above our usual range for this year.", "vi": "Mức đó cao hơn khung thông thường năm nay." },
+   { "sp": 0, "en": "Could we look at it again after the audit?", "vi": "Sau đợt kiểm toán mình xem lại được không ạ?" },
+   { "sp": 1, "en": "Yes. Let's set a date in September and review the numbers.", "vi": "Được. Ta hẹn một ngày trong tháng Chín rồi xem lại số liệu." },
+   { "sp": 0, "en": "Thank you. I'll prepare a summary of what I've delivered.", "vi": "Cảm ơn anh. Em sẽ chuẩn bị bản tóm tắt những gì em đã làm." }
+  ]
+ },
+ {
+  "id": "dlg-b2-interview",
+  "level": 2,
+  "title_en": "Job interview: strengths and weaknesses",
+  "title_vi": "Phỏng vấn: điểm mạnh và điểm yếu",
+  "speakers": ["Interviewer", "Candidate"],
+  "turns": [
+   { "sp": 0, "en": "What would you say is your main strength?", "vi": "Anh cho rằng điểm mạnh chính của mình là gì?" },
+   { "sp": 1, "en": "I'm good at turning messy data into clear reports.", "vi": "Tôi giỏi biến dữ liệu lộn xộn thành báo cáo rõ ràng." },
+   { "sp": 0, "en": "Can you give me an example?", "vi": "Anh cho một ví dụ được không?" },
+   { "sp": 1, "en": "I rebuilt our sales dashboard and cut reporting time in half.", "vi": "Tôi dựng lại bảng điều khiển bán hàng và giảm nửa thời gian báo cáo." },
+   { "sp": 0, "en": "And a weakness?", "vi": "Còn điểm yếu?" },
+   { "sp": 1, "en": "I used to take on too much instead of delegating.", "vi": "Trước đây tôi hay ôm việc thay vì giao bớt." },
+   { "sp": 0, "en": "How have you worked on that?", "vi": "Anh đã cải thiện thế nào?" },
+   { "sp": 1, "en": "I now agree owners for each task at the start.", "vi": "Giờ tôi thống nhất người phụ trách từng việc ngay từ đầu." },
+   { "sp": 0, "en": "Has that changed anything for your team?", "vi": "Điều đó thay đổi gì cho nhóm của anh?" },
+   { "sp": 1, "en": "Yes, deadlines slip far less often now.", "vi": "Có, giờ hạn chót ít bị trễ hơn hẳn." }
+  ]
+ },
+ {
+  "id": "dlg-b2-delay",
+  "level": 2,
+  "title_en": "Explaining a delay to a client",
+  "title_vi": "Giải thích việc chậm trễ với khách hàng",
+  "speakers": ["Account manager", "Client"],
+  "turns": [
+   { "sp": 0, "en": "I need to update you on the timeline, and it isn't good news.", "vi": "Tôi cần cập nhật với chị về tiến độ, và không phải tin vui." },
+   { "sp": 1, "en": "Go on.", "vi": "Anh nói đi." },
+   { "sp": 0, "en": "Testing found a problem with the payment step.", "vi": "Khâu kiểm thử phát hiện lỗi ở bước thanh toán." },
+   { "sp": 1, "en": "How long will the fix take?", "vi": "Sửa mất bao lâu?" },
+   { "sp": 0, "en": "About ten days, including a second round of testing.", "vi": "Khoảng mười ngày, gồm cả vòng kiểm thử thứ hai." },
+   { "sp": 1, "en": "That pushes us past our own launch date.", "vi": "Vậy là vượt qua ngày ra mắt của chúng tôi." },
+   { "sp": 0, "en": "I know, and I'm sorry. Here's what I propose.", "vi": "Tôi biết, và tôi xin lỗi. Đây là đề xuất của tôi." },
+   { "sp": 1, "en": "I'm listening.", "vi": "Tôi nghe đây." },
+   { "sp": 0, "en": "We release the rest on time and add payments two weeks later.", "vi": "Chúng tôi phát hành phần còn lại đúng hạn, phần thanh toán chậm hai tuần." },
+   { "sp": 1, "en": "That could work, if you confirm it in writing today.", "vi": "Có thể được, nếu hôm nay anh xác nhận bằng văn bản." },
+   { "sp": 0, "en": "You'll have it within the hour.", "vi": "Trong một tiếng chị sẽ có." }
+  ]
+ },
+ {
+  "id": "dlg-b2-budget-cut",
+  "level": 2,
+  "title_en": "Discussing a budget cut",
+  "title_vi": "Bàn về việc cắt giảm ngân sách",
+  "speakers": ["Finance", "Team lead"],
+  "turns": [
+   { "sp": 0, "en": "We need to reduce next quarter's budget by fifteen percent.", "vi": "Chúng ta phải giảm mười lăm phần trăm ngân sách quý tới." },
+   { "sp": 1, "en": "That's a big cut. What's driving it?", "vi": "Cắt nhiều đấy. Nguyên nhân là gì?" },
+   { "sp": 0, "en": "Revenue is behind forecast and costs are up.", "vi": "Doanh thu thấp hơn dự báo còn chi phí tăng." },
+   { "sp": 1, "en": "Can we protect the training budget?", "vi": "Mình giữ được ngân sách đào tạo không?" },
+   { "sp": 0, "en": "Only if you find savings somewhere else.", "vi": "Chỉ khi anh tìm được chỗ khác để tiết kiệm." },
+   { "sp": 1, "en": "We could postpone the new software until next year.", "vi": "Chúng tôi có thể hoãn phần mềm mới sang năm sau." },
+   { "sp": 0, "en": "How much would that save?", "vi": "Việc đó tiết kiệm bao nhiêu?" },
+   { "sp": 1, "en": "Around eight thousand dollars.", "vi": "Khoảng tám nghìn đô la." },
+   { "sp": 0, "en": "That covers most of it. Send me the revised figures.", "vi": "Vậy là bù được phần lớn. Gửi tôi bản số liệu điều chỉnh." },
+   { "sp": 1, "en": "I'll have them ready by Friday.", "vi": "Thứ Sáu tôi sẽ có." }
+  ]
+ },
+ {
+  "id": "dlg-b2-suggest",
+  "level": 2,
+  "title_en": "Proposing an idea to your boss",
+  "title_vi": "Đề xuất ý tưởng với sếp",
+  "speakers": ["Trung", "Director"],
+  "turns": [
+   { "sp": 0, "en": "Could I run an idea past you?", "vi": "Em trình bày một ý tưởng với anh được không?" },
+   { "sp": 1, "en": "Of course.", "vi": "Tất nhiên rồi." },
+   { "sp": 0, "en": "We lose a lot of time answering the same customer questions.", "vi": "Chúng ta mất nhiều thời gian trả lời cùng những câu hỏi của khách." },
+   { "sp": 1, "en": "How much time, roughly?", "vi": "Khoảng bao nhiêu thời gian?" },
+   { "sp": 0, "en": "Around six hours a week across the team.", "vi": "Khoảng sáu tiếng một tuần tính cả nhóm." },
+   { "sp": 1, "en": "And your proposal?", "vi": "Đề xuất của em là gì?" },
+   { "sp": 0, "en": "A short help page with the ten most common questions.", "vi": "Một trang trợ giúp ngắn với mười câu hỏi phổ biến nhất." },
+   { "sp": 1, "en": "Who would write it?", "vi": "Ai sẽ viết?" },
+   { "sp": 0, "en": "I can draft it, and support can review it.", "vi": "Em soạn nháp, bộ phận hỗ trợ duyệt lại." },
+   { "sp": 1, "en": "Try it for a month and show me the numbers.", "vi": "Thử một tháng rồi cho anh xem số liệu." },
+   { "sp": 0, "en": "I'll measure the time saved and report back.", "vi": "Em sẽ đo thời gian tiết kiệm được rồi báo lại." }
+  ]
+ },
+ {
+  "id": "dlg-b2-requirements",
+  "level": 2,
+  "title_en": "Clarifying requirements with a client",
+  "title_vi": "Làm rõ yêu cầu với khách hàng",
+  "speakers": ["Consultant", "Client"],
+  "turns": [
+   { "sp": 0, "en": "Before we quote, I'd like to check a few details.", "vi": "Trước khi báo giá, tôi muốn làm rõ vài chi tiết." },
+   { "sp": 1, "en": "Go ahead.", "vi": "Anh cứ hỏi." },
+   { "sp": 0, "en": "How many users will need access on day one?", "vi": "Ngày đầu tiên sẽ có bao nhiêu người dùng cần truy cập?" },
+   { "sp": 1, "en": "About forty, rising to a hundred by the end of the year.", "vi": "Khoảng bốn mươi, tới cuối năm lên một trăm." },
+   { "sp": 0, "en": "Do you need to keep the old data?", "vi": "Anh có cần giữ lại dữ liệu cũ không?" },
+   { "sp": 1, "en": "Yes, the last three years at least.", "vi": "Có, ít nhất ba năm gần nhất." },
+   { "sp": 0, "en": "That affects the price. Is a full export acceptable?", "vi": "Điều đó ảnh hưởng tới giá. Xuất toàn bộ dữ liệu có được không?" },
+   { "sp": 1, "en": "As long as we can search it afterwards.", "vi": "Miễn là sau đó chúng tôi vẫn tìm kiếm được." },
+   { "sp": 0, "en": "Understood. One last thing: who signs off the design?", "vi": "Tôi hiểu rồi. Điều cuối: ai duyệt thiết kế?" },
+   { "sp": 1, "en": "I do, but marketing must see it first.", "vi": "Tôi duyệt, nhưng bộ phận marketing phải xem trước." },
+   { "sp": 0, "en": "Perfect. I'll send the quote on Thursday.", "vi": "Tốt lắm. Thứ Năm tôi sẽ gửi báo giá." }
+  ]
+ },
+ {
+  "id": "dlg-b2-standup",
+  "level": 2,
+  "title_en": "Running a daily stand-up",
+  "title_vi": "Điều hành họp nhanh đầu ngày",
+  "speakers": ["Lead", "Vy"],
+  "turns": [
+   { "sp": 0, "en": "Let's keep this to ten minutes. Vy, what did you do yesterday?", "vi": "Ta giữ trong mười phút nhé. Vy, hôm qua em làm gì?" },
+   { "sp": 1, "en": "I finished the search page and fixed two bugs.", "vi": "Em xong trang tìm kiếm và sửa hai lỗi." },
+   { "sp": 0, "en": "And today?", "vi": "Còn hôm nay?" },
+   { "sp": 1, "en": "I'll start on the filters and review Nam's code.", "vi": "Em bắt đầu phần bộ lọc và duyệt mã của Nam." },
+   { "sp": 0, "en": "Anything blocking you?", "vi": "Có gì đang chặn em không?" },
+   { "sp": 1, "en": "Yes, I still can't access the test server.", "vi": "Có, em vẫn chưa vào được máy chủ thử nghiệm." },
+   { "sp": 0, "en": "How long has that been an issue?", "vi": "Chuyện đó kéo dài bao lâu rồi?" },
+   { "sp": 1, "en": "Since Monday. I've asked IT twice.", "vi": "Từ thứ Hai. Em đã hỏi IT hai lần." },
+   { "sp": 0, "en": "I'll escalate it after this call.", "vi": "Sau cuộc họp này anh sẽ đẩy vấn đề lên." },
+   { "sp": 1, "en": "Thanks. That would unblock the filters too.", "vi": "Cảm ơn anh. Việc đó cũng gỡ luôn phần bộ lọc." }
+  ]
+ },
+ {
+  "id": "dlg-b2-escalate",
+  "level": 2,
+  "title_en": "Escalating a problem",
+  "title_vi": "Báo cáo vấn đề lên cấp trên",
+  "speakers": ["Duy", "Head of ops"],
+  "turns": [
+   { "sp": 0, "en": "I need to raise something before it gets worse.", "vi": "Em cần nêu một việc trước khi nó tệ hơn." },
+   { "sp": 1, "en": "What's the situation?", "vi": "Tình hình thế nào?" },
+   { "sp": 0, "en": "Our main supplier has missed three deadlines in a row.", "vi": "Nhà cung cấp chính đã trễ ba hạn liên tiếp." },
+   { "sp": 1, "en": "Have you spoken to them directly?", "vi": "Em đã nói chuyện trực tiếp với họ chưa?" },
+   { "sp": 0, "en": "Twice. They keep promising and missing.", "vi": "Hai lần rồi. Họ cứ hứa rồi lại trễ." },
+   { "sp": 1, "en": "What's the impact if this continues?", "vi": "Nếu tiếp diễn thì ảnh hưởng gì?" },
+   { "sp": 0, "en": "We'd have to stop the line for about a week.", "vi": "Chúng ta sẽ phải dừng dây chuyền khoảng một tuần." },
+   { "sp": 1, "en": "That's serious. What do you need from me?", "vi": "Nghiêm trọng đấy. Em cần gì ở anh?" },
+   { "sp": 0, "en": "A call at director level, and approval to find a backup supplier.", "vi": "Một cuộc gọi cấp giám đốc, và duyệt cho em tìm nhà cung cấp dự phòng." },
+   { "sp": 1, "en": "Agreed. Set up the call for tomorrow and start looking today.", "vi": "Đồng ý. Sắp xếp cuộc gọi vào ngày mai và hôm nay bắt đầu tìm luôn." }
+  ]
+ },
+ {
+  "id": "dlg-b2-networking",
+  "level": 2,
+  "title_en": "Networking at a conference",
+  "title_vi": "Giao lưu ở hội thảo",
+  "speakers": ["An", "Stranger"],
+  "turns": [
+   { "sp": 0, "en": "Is this seat free?", "vi": "Ghế này có ai ngồi không ạ?" },
+   { "sp": 1, "en": "Please, go ahead.", "vi": "Mời anh cứ ngồi." },
+   { "sp": 0, "en": "Thanks. Are you here for the whole conference?", "vi": "Cảm ơn. Chị dự cả hội thảo chứ?" },
+   { "sp": 1, "en": "Just today. I'm speaking in the afternoon session.", "vi": "Chỉ hôm nay. Chiều nay tôi có bài nói." },
+   { "sp": 0, "en": "What's your talk about?", "vi": "Bài nói của chị về gì vậy?" },
+   { "sp": 1, "en": "How small firms can cut delivery costs.", "vi": "Cách doanh nghiệp nhỏ giảm chi phí giao hàng." },
+   { "sp": 0, "en": "That's very relevant to us. We ship to three countries.", "vi": "Rất hợp với bên tôi. Chúng tôi giao hàng đi ba nước." },
+   { "sp": 1, "en": "Then come and find me afterwards.", "vi": "Vậy sau đó anh tới gặp tôi nhé." },
+   { "sp": 0, "en": "I will. Here's my card.", "vi": "Tôi sẽ tới. Đây là danh thiếp của tôi." },
+   { "sp": 1, "en": "Thank you. I'll email you the slides.", "vi": "Cảm ơn anh. Tôi sẽ email slide cho anh." }
+  ]
+ },
+ {
+  "id": "dlg-b2-say-no",
+  "level": 2,
+  "title_en": "Saying no to extra work",
+  "title_vi": "Từ chối nhận thêm việc",
+  "speakers": ["Colleague", "Ngoc"],
+  "turns": [
+   { "sp": 0, "en": "Could you take on the newsletter as well?", "vi": "Chị nhận thêm phần bản tin được không?" },
+   { "sp": 1, "en": "I'd like to help, but my plate is full this month.", "vi": "Tôi muốn giúp, nhưng tháng này tôi kín việc rồi." },
+   { "sp": 0, "en": "It's only a few hours a week.", "vi": "Chỉ vài tiếng mỗi tuần thôi mà." },
+   { "sp": 1, "en": "I'm already covering for Mai while she's away.", "vi": "Tôi đang gánh phần của Mai trong lúc cô ấy vắng." },
+   { "sp": 0, "en": "I didn't know that.", "vi": "Tôi không biết chuyện đó." },
+   { "sp": 1, "en": "If it can wait until July, I can take it then.", "vi": "Nếu để tới tháng Bảy thì lúc đó tôi nhận được." },
+   { "sp": 0, "en": "July might be too late.", "vi": "Tháng Bảy có khi muộn quá." },
+   { "sp": 1, "en": "Then ask Tuan. He's done it before.", "vi": "Vậy nhờ Tuấn. Anh ấy từng làm rồi." },
+   { "sp": 0, "en": "Good idea. Thanks for being straight with me.", "vi": "Ý hay. Cảm ơn chị đã nói thẳng." },
+   { "sp": 1, "en": "Any time.", "vi": "Có gì đâu." }
+  ]
+ }
+]

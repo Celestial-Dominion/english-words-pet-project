@@ -1,0 +1,805 @@
+[
+ {
+  "id": "gravestone",
+  "pos": [
+   "n"
+  ],
+  "vi": "bia mộ; mộ chí",
+  "coll": [
+   "an old gravestone",
+   "the inscription on the gravestone",
+   "a marble gravestone",
+   "erect a gravestone"
+  ]
+ },
+ {
+  "id": "pedantic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "câu nệ tiểu tiết; mô phạm cứng nhắc; hay khoe chữ",
+  "coll": [
+   "sound pedantic",
+   "a pedantic tone",
+   "overly pedantic",
+   "pedantic about grammar"
+  ]
+ },
+ {
+  "id": "spellbound",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bị mê hoặc; như bị bỏ bùa",
+  "coll": [
+   "hold the audience spellbound",
+   "sit spellbound",
+   "spellbound by her voice",
+   "watch spellbound"
+  ]
+ },
+ {
+  "id": "waistcoat",
+  "pos": [
+   "n"
+  ],
+  "vi": "áo ghi lê",
+  "coll": [
+   "a tweed waistcoat",
+   "wear a waistcoat",
+   "a silk waistcoat",
+   "a suit and waistcoat"
+  ]
+ },
+ {
+  "id": "diphtheria",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh bạch hầu",
+  "coll": [
+   "diphtheria vaccine",
+   "an outbreak of diphtheria",
+   "contract diphtheria",
+   "a diphtheria epidemic"
+  ]
+ },
+ {
+  "id": "downsize",
+  "pos": [
+   "v"
+  ],
+  "vi": "thu hẹp quy mô; cắt giảm nhân sự",
+  "coll": [
+   "downsize the workforce",
+   "downsize operations",
+   "downsize a company",
+   "downsize to a smaller house"
+  ]
+ },
+ {
+  "id": "handicraft",
+  "pos": [
+   "n"
+  ],
+  "vi": "nghề thủ công; đồ thủ công",
+  "coll": [
+   "traditional handicraft",
+   "handicraft skills",
+   "local handicrafts",
+   "a handicraft market"
+  ]
+ },
+ {
+  "id": "overhear",
+  "pos": [
+   "v"
+  ],
+  "vi": "nghe lỏm; tình cờ nghe được",
+  "coll": [
+   "overhear a conversation",
+   "I couldn't help overhearing",
+   "overhear someone talking",
+   "overhear a remark"
+  ]
+ },
+ {
+  "id": "sunbeam",
+  "pos": [
+   "n"
+  ],
+  "vi": "tia nắng",
+  "coll": [
+   "a shaft of sunbeams",
+   "sunbeams streamed through",
+   "dancing sunbeams",
+   "catch a sunbeam"
+  ]
+ },
+ {
+  "id": "filial",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hiếu thảo; thuộc phận làm con",
+  "coll": [
+   "filial piety",
+   "filial duty",
+   "filial affection",
+   "filial obligation"
+  ]
+ },
+ {
+  "id": "hyphen",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dấu gạch nối; nối bằng gạch nối",
+  "coll": [
+   "insert a hyphen",
+   "use a hyphen",
+   "spelled with a hyphen",
+   "a hyphen between words"
+  ]
+ },
+ {
+  "id": "impressionism",
+  "pos": [
+   "n"
+  ],
+  "vi": "trường phái ấn tượng; chủ nghĩa ấn tượng",
+  "coll": [
+   "French impressionism",
+   "the birth of impressionism",
+   "influenced by impressionism",
+   "musical impressionism"
+  ]
+ },
+ {
+  "id": "tiptoe",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "nhón chân; đi rón rén; đầu ngón chân",
+  "coll": [
+   "stand on tiptoe",
+   "tiptoe out of the room",
+   "walk on tiptoe",
+   "tiptoe past the door"
+  ]
+ },
+ {
+  "id": "workaholic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "người nghiện làm việc; tham công tiếc việc",
+  "coll": [
+   "a self-confessed workaholic",
+   "become a workaholic",
+   "a workaholic culture",
+   "he is a workaholic"
+  ]
+ },
+ {
+  "id": "anchorman",
+  "pos": [
+   "n"
+  ],
+  "vi": "người dẫn bản tin; phát thanh viên chính",
+  "coll": [
+   "a news anchorman",
+   "a TV anchorman",
+   "a veteran anchorman",
+   "the network's anchorman"
+  ]
+ },
+ {
+  "id": "bewilderment",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hoang mang; sự bối rối",
+  "coll": [
+   "a look of bewilderment",
+   "stare in bewilderment",
+   "utter bewilderment",
+   "in bewilderment"
+  ]
+ },
+ {
+  "id": "fume",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khói độc; hơi khí độc; sôi máu tức giận",
+  "coll": [
+   "exhaust fumes",
+   "toxic fumes",
+   "petrol fumes",
+   "fume with anger"
+  ]
+ },
+ {
+  "id": "microbe",
+  "pos": [
+   "n"
+  ],
+  "vi": "vi khuẩn; vi sinh vật",
+  "coll": [
+   "harmful microbes",
+   "gut microbes",
+   "kill microbes",
+   "soil microbes"
+  ]
+ },
+ {
+  "id": "offhand",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "không nghĩ trước; tùy tiện; cộc lốc",
+  "coll": [
+   "an offhand remark",
+   "I don't know offhand",
+   "an offhand manner",
+   "an offhand comment"
+  ]
+ },
+ {
+  "id": "permeate",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "thấm qua; lan tỏa khắp",
+  "coll": [
+   "permeate the air",
+   "permeate society",
+   "the smell permeated the house",
+   "permeate every aspect"
+  ]
+ },
+ {
+  "id": "solidity",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ rắn chắc; tính vững chắc",
+  "coll": [
+   "structural solidity",
+   "the solidity of the argument",
+   "financial solidity",
+   "a sense of solidity"
+  ]
+ },
+ {
+  "id": "thickly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "dày; dày đặc; đặc sệt",
+  "coll": [
+   "thickly wooded",
+   "spread thickly",
+   "thickly populated",
+   "snow fell thickly"
+  ]
+ },
+ {
+  "id": "unmistakably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "rõ mười mươi; không thể nhầm lẫn",
+  "coll": [
+   "unmistakably clear",
+   "unmistakably British",
+   "unmistakably his voice",
+   "unmistakably different"
+  ]
+ },
+ {
+  "id": "drapery",
+  "pos": [
+   "n"
+  ],
+  "vi": "rèm vải; vải rủ nếp; nghề bán vải",
+  "coll": [
+   "heavy drapery",
+   "folds of drapery",
+   "velvet drapery",
+   "drapery over the window"
+  ]
+ },
+ {
+  "id": "gymnastic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc thể dục dụng cụ; thuộc môn thể dục",
+  "coll": [
+   "gymnastic exercises",
+   "gymnastic skills",
+   "a gymnastic display",
+   "gymnastic ability"
+  ]
+ },
+ {
+  "id": "impolite",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bất lịch sự; khiếm nhã",
+  "coll": [
+   "it is impolite to stare",
+   "an impolite question",
+   "impolite behaviour",
+   "sound impolite"
+  ]
+ },
+ {
+  "id": "paintbrush",
+  "pos": [
+   "n"
+  ],
+  "vi": "cọ vẽ; chổi sơn",
+  "coll": [
+   "a fine paintbrush",
+   "clean the paintbrush",
+   "dip the paintbrush",
+   "a wide paintbrush"
+  ]
+ },
+ {
+  "id": "rainstorm",
+  "pos": [
+   "n"
+  ],
+  "vi": "trận mưa lớn; mưa giông",
+  "coll": [
+   "a heavy rainstorm",
+   "a sudden rainstorm",
+   "caught in a rainstorm",
+   "a violent rainstorm"
+  ]
+ },
+ {
+  "id": "repaint",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sơn lại; việc sơn lại",
+  "coll": [
+   "repaint the walls",
+   "repaint the house",
+   "repaint in white",
+   "a fresh repaint"
+  ]
+ },
+ {
+  "id": "exalt",
+  "pos": [
+   "v"
+  ],
+  "vi": "tôn vinh; đề cao; nâng lên địa vị cao",
+  "coll": [
+   "exalt the virtues of",
+   "be exalted to a position",
+   "exalt his name",
+   "exalt the leader"
+  ]
+ },
+ {
+  "id": "humbug",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "vi": "trò lừa bịp; chuyện vớ vẩn; kẻ giả dối",
+  "coll": [
+   "a load of humbug",
+   "political humbug",
+   "Bah, humbug!",
+   "sheer humbug"
+  ]
+ },
+ {
+  "id": "indignity",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sỉ nhục; điều nhục nhã",
+  "coll": [
+   "suffer the indignity of",
+   "the final indignity",
+   "endure indignities",
+   "spare him the indignity"
+  ]
+ },
+ {
+  "id": "olympiad",
+  "pos": [
+   "n"
+  ],
+  "vi": "kỳ thi olympic; kỳ Olympic",
+  "coll": [
+   "a mathematical olympiad",
+   "the international olympiad",
+   "compete in an olympiad",
+   "a chess olympiad"
+  ]
+ },
+ {
+  "id": "drinkable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "uống được; đồ uống",
+  "coll": [
+   "drinkable water",
+   "perfectly drinkable",
+   "a drinkable wine",
+   "make the water drinkable"
+  ]
+ },
+ {
+  "id": "stopwatch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đồng hồ bấm giờ; bấm giờ",
+  "coll": [
+   "start the stopwatch",
+   "a digital stopwatch",
+   "time it with a stopwatch",
+   "stop the stopwatch"
+  ]
+ },
+ {
+  "id": "toenail",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "móng chân",
+  "coll": [
+   "cut your toenails",
+   "an ingrown toenail",
+   "paint her toenails",
+   "a broken toenail"
+  ]
+ },
+ {
+  "id": "truthfulness",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính trung thực; sự thành thật",
+  "coll": [
+   "the truthfulness of the statement",
+   "question his truthfulness",
+   "honesty and truthfulness",
+   "verify the truthfulness"
+  ]
+ },
+ {
+  "id": "workbench",
+  "pos": [
+   "n"
+  ],
+  "vi": "bàn thợ; bàn thao tác",
+  "coll": [
+   "a wooden workbench",
+   "at the workbench",
+   "a cluttered workbench",
+   "clamp it to the workbench"
+  ]
+ },
+ {
+  "id": "ravage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tàn phá; sự tàn phá",
+  "coll": [
+   "ravaged by war",
+   "ravaged by fire",
+   "the ravages of time",
+   "ravage the countryside"
+  ]
+ },
+ {
+  "id": "uncharacteristic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khác hẳn thường ngày; không giống tính cách vốn có",
+  "coll": [
+   "uncharacteristic of him",
+   "an uncharacteristic mistake",
+   "uncharacteristic behaviour",
+   "an uncharacteristic silence"
+  ]
+ },
+ {
+  "id": "bookish",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mọt sách; sách vở khô khan",
+  "coll": [
+   "a bookish young man",
+   "bookish interests",
+   "bookish language",
+   "shy and bookish"
+  ]
+ },
+ {
+  "id": "gaiety",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự vui vẻ (cũ); không khí hội hè",
+  "coll": [
+   "an air of gaiety",
+   "forced gaiety",
+   "gaiety and laughter",
+   "the gaiety of the crowd"
+  ]
+ },
+ {
+  "id": "neurosis",
+  "pos": [
+   "n"
+  ],
+  "vi": "chứng nhiễu tâm; bệnh tâm căn (cũ)",
+  "coll": [
+   "a mild neurosis",
+   "suffer from neurosis",
+   "obsessive neurosis",
+   "a collective neurosis"
+  ]
+ },
+ {
+  "id": "rafter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "rui nhà; xà mái",
+  "coll": [
+   "exposed rafters",
+   "the roof rafters",
+   "hang from the rafters",
+   "wooden rafters"
+  ]
+ },
+ {
+  "id": "malady",
+  "pos": [
+   "n"
+  ],
+  "vi": "căn bệnh; chứng bệnh; tệ nạn",
+  "coll": [
+   "a common malady",
+   "a mysterious malady",
+   "a social malady",
+   "cure the malady"
+  ]
+ },
+ {
+  "id": "pillowcase",
+  "pos": [
+   "n"
+  ],
+  "vi": "vỏ gối; áo gối",
+  "coll": [
+   "a clean pillowcase",
+   "change the pillowcase",
+   "a cotton pillowcase",
+   "a matching pillowcase"
+  ]
+ },
+ {
+  "id": "subjunctive",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thức giả định; thuộc thức giả định",
+  "coll": [
+   "the subjunctive mood",
+   "use the subjunctive",
+   "the present subjunctive",
+   "a subjunctive form"
+  ]
+ },
+ {
+  "id": "stonework",
+  "pos": [
+   "n"
+  ],
+  "vi": "công trình xây đá; nghề xây đá",
+  "coll": [
+   "restore the stonework",
+   "crumbling stonework",
+   "decorative stonework",
+   "medieval stonework"
+  ]
+ },
+ {
+  "id": "furor",
+  "pos": [
+   "n"
+  ],
+  "vi": "làn sóng phẫn nộ; sự náo động dư luận",
+  "coll": [
+   "cause a furor",
+   "a public furor",
+   "a furor over the decision",
+   "spark a furor"
+  ]
+ },
+ {
+  "id": "irresistibly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "không thể cưỡng lại",
+  "coll": [
+   "irresistibly drawn to",
+   "irresistibly attractive",
+   "irresistibly funny",
+   "irresistibly tempting"
+  ]
+ },
+ {
+  "id": "newscaster",
+  "pos": [
+   "n"
+  ],
+  "vi": "phát thanh viên bản tin",
+  "coll": [
+   "a TV newscaster",
+   "a veteran newscaster",
+   "a well-known newscaster",
+   "the evening newscaster"
+  ]
+ },
+ {
+  "id": "attentively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chăm chú; một cách chú tâm",
+  "coll": [
+   "listen attentively",
+   "watch attentively",
+   "read attentively",
+   "follow attentively"
+  ]
+ },
+ {
+  "id": "beautify",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm đẹp; tô điểm",
+  "coll": [
+   "beautify the city",
+   "beautify the garden",
+   "beautify the neighbourhood",
+   "beautify the surroundings"
+  ]
+ },
+ {
+  "id": "droop",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "rũ xuống; xịu xuống; ỉu xìu",
+  "coll": [
+   "his shoulders drooped",
+   "the flowers drooped",
+   "eyelids droop",
+   "droop with tiredness"
+  ]
+ },
+ {
+  "id": "nought",
+  "pos": [
+   "n",
+   "adj",
+   "v",
+   "adv",
+   "pron"
+  ],
+  "vi": "số không; chẳng gì cả",
+  "coll": [
+   "come to nought",
+   "noughts and crosses",
+   "nought point five",
+   "all for nought"
+  ]
+ },
+ {
+  "id": "outshine",
+  "pos": [
+   "v"
+  ],
+  "vi": "vượt trội hơn hẳn; tỏa sáng hơn",
+  "coll": [
+   "outshine his rivals",
+   "outshine everyone else",
+   "be outshone by",
+   "outshine the competition"
+  ]
+ },
+ {
+  "id": "paratrooper",
+  "pos": [
+   "n"
+  ],
+  "vi": "lính nhảy dù",
+  "coll": [
+   "a former paratrooper",
+   "drop paratroopers",
+   "paratroopers landed",
+   "a paratrooper regiment"
+  ]
+ },
+ {
+  "id": "untie",
+  "pos": [
+   "v"
+  ],
+  "vi": "cởi nút; tháo dây; gỡ ra",
+  "coll": [
+   "untie a knot",
+   "untie the rope",
+   "untie your shoelaces",
+   "untie the boat"
+  ]
+ },
+ {
+  "id": "walkabout",
+  "pos": [
+   "n"
+  ],
+  "vi": "chuyến đi bộ dài ngày; cuộc dạo thăm dân",
+  "coll": [
+   "go walkabout",
+   "a royal walkabout",
+   "on walkabout",
+   "a walkabout in the town"
+  ]
+ },
+ {
+  "id": "aircrew",
+  "pos": [
+   "n"
+  ],
+  "vi": "tổ bay; phi hành đoàn",
+  "coll": [
+   "aircrew training",
+   "experienced aircrew",
+   "aircrew members",
+   "aircrew and passengers"
+  ]
+ }
+]

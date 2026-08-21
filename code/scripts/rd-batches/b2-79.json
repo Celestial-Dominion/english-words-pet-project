@@ -1,0 +1,151 @@
+[
+ {
+  "id": "wiki-bunny-colby",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Bunny_Colby",
+  "title_en": "Bunny Colby",
+  "sentences": [
+   "Nadya Nabakova (born 1992), better known as Bunny Colby, is an American pornographic actress and model.",
+   "She started in the adult industry in 2017 using the name Nadya Nabakova.",
+   "Later, she changed her name to Bunny Colby.",
+   "She began to book her own work instead of using an agent.",
+   "Colby has worked for studios such as Naughty America, Vixen, and Devil's Film.",
+   "In January 2020, she was chosen as the Penthouse Pet of the Month."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-common-language-specification",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Common_Language_Specification",
+  "title_en": "Common Language Specification",
+  "sentences": [
+   "A Common Language Specification (CLS) is a document that says how computer programs can be turned into Common Intermediate Language (CIL) code.",
+   "When several languages use the same bytecode, different parts of a program can be written in different languages.",
+   "Microsoft uses a Common Language Specification for their .NET Framework.",
+   "To fully interact with other objects regardless of the language they were used in, objects must expose to callers only those features that are common to all the languages they must exchange information with.",
+   "It was always a dream of Microsoft to unite all different languages under one umbrella and CLS is one step towards that.",
+   "Microsoft has defined CLS which are nothing but guidelines for languages to follow so that it can communicate with other .NET languages in a seamless manner.",
+   "Most of the members defined by types in the .NET Framework class library are able to work with CLS.",
+   "However, some types in the class library have one or more members that are not able to work with CLS.",
+   "These members allow support for language features that are not in the CLS.",
+   "The CLS was designed to be large enough to include the language constructs that are commonly needed by developers, yet small enough that most languages are able to support it.",
+   "Any language construct that makes it impossible to quickly confirm the type safety of code was excluded from the CLS so that all languages that can work with CLS can produce verifiable code if they choose to do so."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-leaked-cables-cause-australian-concern",
+  "level": 2,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Leaked_cables_cause_Australian_concern",
+  "title_en": "Leaked cables cause Australian concern",
+  "sentences": [
+   "Friday, December 10, 2010 Leaked diplomatic cables between Australia and the US Secretary of State, Hillary Clinton, have raised controversy in the Australian community.",
+   "The documents were released by the whistle-blowing website Wikileaks.",
+   "The cables between the then prime minister of Australia, Kevin Rudd, and the US Secretary of State, Hillary Clinton, revealed that China may need to be forced to integrate into the international community.",
+   "The secret documents also contained information of a conversation between Clinton and Rudd in Washington.",
+   "In the interview, Rudd stated that China was \"paranoid\" about Taiwan and Tibet.",
+   "The sensitive documents may place a strain on diplomatic relations between Australia and China.",
+   "Despite this, Kevin Rudd reassured the public that the \"robust\" relationship between Australia and China wouldn't sustain any substantial damage to the relations between the two countries.",
+   "At this stage, Prime Minister Julia Gillard has provided no further comment on the matter, other than to ensure that the relationship between China and Australia would allow opinions to be expressed without any threat to either side.",
+   "At the heart of the leaks is Australian founder, Julian Assange.",
+   "Wikileaks have now released 821 of their promised 251,287 US diplomatic cables.",
+   "The cables are being released on a stage-by-stage basis.",
+   "Earlier this week, Assange was arrested on suspicion of rape in London under a Swedish arrest warrant placed on him from a court in Stockholm on November 18."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-sharechat",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/ShareChat",
+  "title_en": "ShareChat",
+  "sentences": [
+   "ShareChat (शेयरचैट) is a social media platform from India.",
+   "It is owned by a company called Mohalla Tech, which is based in Bangalore.",
+   "ShareChat was started by Ankush Sachdeva, Bhanu Pratap Singh, and Farid Ahsan, and the company was officially formed on 8 January 2015.",
+   "ShareChat is popular because it lets people use the app in 15 different Indian languages, making it easy for many users across the country to connect.",
+   "Today, it has more than 350 million people using it every month.",
+   "The company is now valued at $5 billion."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-webpage",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Webpage",
+  "title_en": "Webpage",
+  "sentences": [
+   "A webpage (or web page) is a document from the internet which can be seen with a web browser.",
+   "Web pages each have a URL or address, which is how a page is found, and is different for every page.",
+   "When a webpage is part of a larger group of pages managed by a company, person, or organization, it is part of a website.",
+   "Pages can have words, pictures, videos, and links.",
+   "Links are ways to get to other web pages.",
+   "For example, this article is a webpage.",
+   "It has the URL https://simple.wikipedia.org/wiki/Webpage, and is part of the Wikipedia website.",
+   "It has words and links.",
+   "The links in this page are shown in blue and can be clicked to go to other webpages."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-momo-challenge-hoax",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Momo_Challenge_hoax",
+  "title_en": "Momo Challenge hoax",
+  "sentences": [
+   "The \"Momo Challenge\" is a hoax and urban legend about a social media challenge that did not exist.",
+   "It was mainly spread on Facebook.",
+   "The hoax says that victims are made to contact a \"Momo\" account through social media network WhatsApp.",
+   "If they do, they get violent images, graphic threats and are told to do dangerous things, including suicide, record it on video and send it to \"Momo\".",
+   "They might also say they are going to make their personal information public, hurt their family members, and some are even threatened with curses.",
+   "An image of a woman with large eyes and mouth, which was shocking to some people, was used with the hoax.",
+   "The hoax made people believe the \"challenge\" had caused many suicides, including one in Argentina, but this is not true according to police.",
+   "The image used by Momo accounts is actually of a sculpture made by a Japanese artist, but some people thought it was a mask or makeup."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-game-informer",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Game_Informer",
+  "title_en": "Game Informer",
+  "sentences": [
+   "Game Informer (GI) is an American video game magazine, that is done monthly.",
+   "That features articles, news, tips, and reviews for video games and game consoles.",
+   "It was made in August 1991, when the video game retailer FuncoLand started making an in-house newsletter.",
+   "It was bought by the retailer GameStop, which they also bought FuncoLand in 2000.",
+   "From this, a large amount of promotion was done in-store, which adds to the success of the magazine.",
+   "As of June 2017, it was the fifth-most popular magazine by copies circulated.",
+   "In August 2024, GameStop stopped making Game Informer after 33 years of publication and made 368 issues.",
+   "The website for Game Informer was also shut down.",
+   "In March 2025, Game Informer announced that it had been bought by Gunzilla Games and made as its own business.",
+   "The relaunch included a released of the magazine and the magazine's website, and brought back all of Game Informer's staff.",
+   "Game Informer also announced plans to restart the printing of the magazine."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-imagine-3d-modeling-software",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Imagine_(3D_modeling_software)",
+  "title_en": "Imagine (3D modeling software)",
+  "sentences": [
+   "Imagine could do more than all other 3D modeling and ray tracing programs.",
+   "It came out for the Amiga and later MS-DOS and Microsoft Windows.",
+   "It was created by Impulse, Inc. It uses the .iob extension for its objects.",
+   "Imagine is based on TurboSilver, which was also for the Amiga and made by Impulse.",
+   "CAD-Technologies continued distributing the Amiga version.",
+   "Starting with version 5.1, current customers could get new updates for free in the Amiga Constant Upgrade Program (ACUP) until Imagine 6.0, which never came out."
+  ],
+  "topic": "it"
+ }
+]

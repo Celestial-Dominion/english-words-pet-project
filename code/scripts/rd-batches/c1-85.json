@@ -1,0 +1,158 @@
+[
+ {
+  "id": "wiki-sir-model",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/SIR_model",
+  "title_en": "SIR model",
+  "sentences": [
+   "The SIR model is a simple mathematical model of epidemics.",
+   "An epidemic is when the number of people infected with a disease is increasing in a population.",
+   "S, I, and R stand for: Below is a graph of a solved SIR model.",
+   "The bottom (x) axis is time, and the left (y) axis is the population or the number of people.",
+   "Blue represents the number of susceptible people.",
+   "At the beginning of the epidemic, the number of susceptible (blue) people decreases as the number of infected (green) people increases.",
+   "Gradually the number of recovered (red) people increases.",
+   "In this particular model, after the epidemic is over, all people have been infected and recovered.",
+   "This is not always the case; sometimes, some susceptible people remain uninfected.",
+   "This model is also missing some parts, such as creating new susceptible people by being born and the removal of susceptible, infected, and recovered people who die.",
+   "More complicated models can include these parts.",
+   "Also, this model does not work well for every disease.",
+   "It works well where people recover from a disease and become immune, such as measles.",
+   "Not all infectious diseases follow this pattern.",
+   "For instance, people infected with HIV never recover, and there is no vaccine, so there is no group of recovered people, only susceptible and infected people.",
+   "There is also the case where people recover from a disease but do not become immune or lose their immunity over time."
+  ]
+ },
+ {
+  "id": "wiki-secondary-source",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Secondary_source",
+  "title_en": "Secondary source",
+  "sentences": [
+   "A secondary source is a document or recording that writes or speaks about information that is one step removed from the original source.",
+   "The secondary source depends on the primary source or original source of the information.",
+   "Secondary sources interpret, evaluate or discuss information found in primary sources.",
+   "In historiography, a secondary source is a study written by a scholar about a topic.",
+   "Secondary sources frequently cite primary sources and other secondary sources.",
+   "They rarely cite tertiary sources."
+  ]
+ },
+ {
+  "id": "wiki-bayesian-network",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Bayesian_network",
+  "title_en": "Bayesian network",
+  "sentences": [
+   "A Bayesian network is a kind of graph which is used to model events that cannot be observed.",
+   "This can then be used for inference.",
+   "The graph that is used is directed, and does not contain any cycles.",
+   "The nodes of the graph represent random variables.",
+   "If two nodes are connected by an edge, it has an associated probability that it will transmit from one node to the other.",
+   "Bayesian networks are mainly used in the field of (unassisted) machine learning.",
+   "They have been used where information needs to be classified.",
+   "Examples are image, document, or speech recognition, and information retrieval.",
+   "It is based on Reverend Thomas Bayes' discovery in the 1740s called Bayes' theorem."
+  ]
+ },
+ {
+  "id": "wiki-surveying",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Surveying",
+  "title_en": "Surveying",
+  "sentences": [
+   "Surveying is the technique and science of accurately finding out the position of points and the distances and angles between them.",
+   "These points are usually, but not always, associated with positions on the surface of the Earth.",
+   "They are often used to make land maps and boundaries for ownership of land.",
+   "A person who does the surveying is called a surveyor.",
+   "In order to find the information they need, surveyors use geometry, engineering, trigonometry, mathematics, physics, geology and law.",
+   "Surveying has been very important in the development of the human environment since the beginning of recorded history (ca. 5000 years ago) and it is a requirement planning of nearly every form of construction.",
+   "Its most common uses are in the fields of transport, building and construction, communications, mapping, and the making of legal boundaries for land ownership."
+  ]
+ },
+ {
+  "id": "wiki-order-of-magnitude",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Order_of_magnitude",
+  "title_en": "Order of magnitude",
+  "sentences": [
+   "An order of magnitude is an approximation of the logarithm of a value relative to some contextually understood reference value, usually ten, interpreted as the base of the logarithm and the representative of values of magnitude one.",
+   "Logarithmic distributions are common in nature and considering the order of magnitude of values sampled from such a distribution can be more intuitive.",
+   "When the reference value is ten, the order of magnitude can be understood as the number of digits in the base-10 representation of the value.",
+   "Similarly, if the reference value is one of certain powers of two, the magnitude can be understood as the amount of computer memory needed to store the exact integer value.",
+   "If two numbers have the same order of magnitude, they are about the same size.",
+   "But if one would compare the surface of an orange with that of the earth, one would say the surface of the earth is many orders of magnitude larger than that of the orange.",
+   "Orders of magnitude are used to make approximate comparisons.",
+   "If numbers differ by one order of magnitude, x is about ten times different in quantity than y.",
+   "If values differ by two orders of magnitude, they differ by a factor of about 100.",
+   "Two numbers of the same order of magnitude have roughly the same scale: the larger value is less than ten times the smaller value."
+  ]
+ },
+ {
+  "id": "wiki-date-palm",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Date_palm",
+  "title_en": "Date palm",
+  "sentences": [
+   "The date palm (Phoenix dactylifera) is a species of palm tree.",
+   "It has been cultivated for a very long time because of its fruit.",
+   "The tree is between 15 and 25 metres (49 and 82 feet) high.",
+   "It has long leaves that look like feathers.",
+   "Such leaves are called pinnate.",
+   "The leaves can grow to 3 to 5 metres (9.8 to 16.4 feet) in length.",
+   "The leaves have visible spines.",
+   "There are about 150 leaflets.",
+   "Each leaflet can be up to 30 centimetres (12 inches) in length and 2 centimetres (0.79 inches) in breadth.",
+   "The full span of the crown of the tree is 6 to 10 metres (20 to 33 feet).",
+   "The tree has one or more trunks.",
+   "All the trunks come from a single system of roots."
+  ]
+ },
+ {
+  "id": "wiki-transport-hub",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Transport_hub",
+  "title_en": "Transport hub",
+  "sentences": [
+   "A transport hub (also transport interchange) is a place where passengers and cargo are exchanged between transport modes.",
+   "Public transport hubs include train stations, rapid transit stations, bus stops, tram stop, airports and ferry slips.",
+   "Freight hubs include classification yards, seaports and truck terminals, or combinations of these.",
+   "For private transport, the parking lot functions as a hub.",
+   "Delta Air Lines first used the hub and spoke system for aviation in 1955 from its hub in Atlanta, Georgia, United States.",
+   "This was to compete with Eastern Air Lines.",
+   "FedEx adopted the hub and spoke model for overnight package delivery during the 1970s.",
+   "When the airline industry was deregulated in 1978, Delta's hub and spoke system was used by several airlines."
+  ]
+ },
+ {
+  "id": "wiki-axiom",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Axiom",
+  "title_en": "Axiom",
+  "sentences": [
+   "An axiom is a concept in logic.",
+   "It is a statement which is assumed to be true without question, and which does not require proof.",
+   "It is also known as a postulate (as in the parallel postulate).",
+   "The axiom is to be used as the premise or starting point for further reasoning or arguments, usually in logic or in mathematics.",
+   "This means it cannot be proved within the discussion of a problem.",
+   "So inside some discussion, it is thought to be true.",
+   "There are many reasons why it has no proof.",
+   "For example, The statement might be obvious.",
+   "This means most people think it is clearly true.",
+   "An example of an obvious axiom is the principle of contradiction.",
+   "It says that a statement and its opposite cannot both be true at the same time and place.",
+   "The statement is based on physical laws and can easily be observed.",
+   "An example is Newton's laws of motion.",
+   "They are easily observed in the physical world.",
+   "The statement is a proposition.",
+   "Here, an axiom is any mathematical statement that serves as a starting point from which other statements are logically derived."
+  ]
+ }
+]

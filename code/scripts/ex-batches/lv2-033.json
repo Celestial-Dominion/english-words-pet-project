@@ -1,0 +1,807 @@
+[
+ {
+  "id": "unimaginable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không thể tưởng tượng nổi; khó hình dung",
+  "coll": [
+   "unimaginable suffering",
+   "unimaginable wealth",
+   "almost unimaginable",
+   "unimaginable horror"
+  ]
+ },
+ {
+  "id": "warship",
+  "pos": [
+   "n"
+  ],
+  "vi": "tàu chiến",
+  "coll": [
+   "a naval warship",
+   "deploy warships",
+   "a fleet of warships",
+   "board a warship"
+  ]
+ },
+ {
+  "id": "animate",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "làm sinh động; làm hoạt hình; có sự sống",
+  "coll": [
+   "animate a character",
+   "animate a drawing",
+   "animate the discussion",
+   "animate objects"
+  ]
+ },
+ {
+  "id": "displeasure",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự không hài lòng; sự bực bội",
+  "coll": [
+   "express displeasure",
+   "show one's displeasure",
+   "much to his displeasure",
+   "great displeasure"
+  ]
+ },
+ {
+  "id": "lark",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chim sơn ca; trò đùa vui",
+  "coll": [
+   "sing like a lark",
+   "for a lark",
+   "up with the lark",
+   "a bit of a lark"
+  ]
+ },
+ {
+  "id": "powerfully",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách mạnh mẽ; đầy sức thuyết phục",
+  "coll": [
+   "powerfully built",
+   "argue powerfully",
+   "powerfully written",
+   "powerfully influenced"
+  ]
+ },
+ {
+  "id": "refute",
+  "pos": [
+   "v"
+  ],
+  "vi": "bác bỏ; phản bác",
+  "coll": [
+   "refute a claim",
+   "refute the allegations",
+   "refute an argument",
+   "flatly refute"
+  ]
+ },
+ {
+  "id": "dowry",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "của hồi môn",
+  "coll": [
+   "pay a dowry",
+   "a large dowry",
+   "the dowry system",
+   "demand a dowry"
+  ]
+ },
+ {
+  "id": "inseparable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không thể tách rời; gắn bó khăng khít",
+  "coll": [
+   "inseparable friends",
+   "virtually inseparable",
+   "inseparable from",
+   "an inseparable pair"
+  ]
+ },
+ {
+  "id": "intravenous",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "qua đường tĩnh mạch; tiêm tĩnh mạch",
+  "coll": [
+   "an intravenous drip",
+   "an intravenous injection",
+   "intravenous fluids",
+   "intravenous antibiotics"
+  ]
+ },
+ {
+  "id": "juror",
+  "pos": [
+   "n"
+  ],
+  "vi": "bồi thẩm viên; hội thẩm",
+  "coll": [
+   "a potential juror",
+   "the jurors deliberated",
+   "select jurors",
+   "twelve jurors"
+  ]
+ },
+ {
+  "id": "millimeter",
+  "pos": [
+   "n"
+  ],
+  "vi": "milimét",
+  "coll": [
+   "a few millimeters",
+   "millimeters thick",
+   "measured in millimeters",
+   "millimeters apart"
+  ]
+ },
+ {
+  "id": "pluck",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nhổ; hái; gảy (đàn); sự gan dạ",
+  "coll": [
+   "pluck a chicken",
+   "pluck your eyebrows",
+   "pluck the strings",
+   "pluck up the courage"
+  ]
+ },
+ {
+  "id": "resonant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vang vọng; ngân vang; đầy sức gợi",
+  "coll": [
+   "a resonant voice",
+   "deep and resonant",
+   "the resonant frequency",
+   "resonant with meaning"
+  ]
+ },
+ {
+  "id": "skillful",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khéo léo; lành nghề; điêu luyện",
+  "coll": [
+   "a skillful player",
+   "skillful use of",
+   "skillful hands",
+   "highly skillful"
+  ]
+ },
+ {
+  "id": "suitably",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách phù hợp; thích đáng",
+  "coll": [
+   "suitably dressed",
+   "suitably qualified",
+   "suitably impressed",
+   "suitably equipped"
+  ]
+ },
+ {
+  "id": "synonym",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "từ đồng nghĩa",
+  "coll": [
+   "a synonym for",
+   "find a synonym",
+   "become a synonym for",
+   "synonyms and antonyms"
+  ]
+ },
+ {
+  "id": "tanned",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "rám nắng; đã thuộc (da)",
+  "coll": [
+   "deeply tanned",
+   "a tanned face",
+   "get tanned",
+   "tanned leather"
+  ]
+ },
+ {
+  "id": "transfusion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự truyền máu",
+  "coll": [
+   "a blood transfusion",
+   "receive a transfusion",
+   "need a transfusion",
+   "an emergency transfusion"
+  ]
+ },
+ {
+  "id": "adaptable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "dễ thích nghi; linh hoạt",
+  "coll": [
+   "highly adaptable",
+   "adaptable to change",
+   "an adaptable species",
+   "flexible and adaptable"
+  ]
+ },
+ {
+  "id": "amuse",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm vui; giải trí; tiêu khiển",
+  "coll": [
+   "amuse the children",
+   "amuse yourself",
+   "be amused by",
+   "keep someone amused"
+  ]
+ },
+ {
+  "id": "archaeologist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà khảo cổ học",
+  "coll": [
+   "archaeologists discovered",
+   "a team of archaeologists",
+   "a marine archaeologist",
+   "archaeologists believe"
+  ]
+ },
+ {
+  "id": "artistry",
+  "pos": [
+   "n"
+  ],
+  "vi": "tài nghệ; nghệ thuật tinh xảo",
+  "coll": [
+   "great artistry",
+   "musical artistry",
+   "the artistry of the performance",
+   "display artistry"
+  ]
+ },
+ {
+  "id": "atypical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không điển hình; bất thường",
+  "coll": [
+   "an atypical case",
+   "atypical behaviour",
+   "atypical symptoms",
+   "highly atypical"
+  ]
+ },
+ {
+  "id": "breezy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "lộng gió; vui vẻ thoải mái",
+  "coll": [
+   "a breezy day",
+   "breezy weather",
+   "a breezy manner",
+   "bright and breezy"
+  ]
+ },
+ {
+  "id": "disapprove",
+  "pos": [
+   "v"
+  ],
+  "vi": "phản đối; không tán thành",
+  "coll": [
+   "disapprove of the plan",
+   "strongly disapprove",
+   "disapprove of his behaviour",
+   "her parents disapprove"
+  ]
+ },
+ {
+  "id": "dormitory",
+  "pos": [
+   "n"
+  ],
+  "vi": "ký túc xá; phòng ngủ tập thể",
+  "coll": [
+   "a university dormitory",
+   "live in a dormitory",
+   "a dormitory room",
+   "a student dormitory"
+  ]
+ },
+ {
+  "id": "figurative",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nghĩa bóng; mang tính ẩn dụ; tả thực (hội họa)",
+  "coll": [
+   "figurative language",
+   "in a figurative sense",
+   "figurative meaning",
+   "figurative art"
+  ]
+ },
+ {
+  "id": "leaflet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tờ rơi; tờ bướm quảng cáo",
+  "coll": [
+   "hand out leaflets",
+   "an information leaflet",
+   "distribute leaflets",
+   "a leaflet campaign"
+  ]
+ },
+ {
+  "id": "pallet",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "pa-lét kê hàng; ổ rơm nằm",
+  "coll": [
+   "a wooden pallet",
+   "stack on a pallet",
+   "pallets of goods",
+   "a pallet truck"
+  ]
+ },
+ {
+  "id": "predictor",
+  "pos": [
+   "n"
+  ],
+  "vi": "yếu tố dự báo; chỉ báo",
+  "coll": [
+   "a strong predictor of",
+   "the best predictor",
+   "a good predictor",
+   "a reliable predictor"
+  ]
+ },
+ {
+  "id": "spokeswoman",
+  "pos": [
+   "n"
+  ],
+  "vi": "nữ phát ngôn viên",
+  "coll": [
+   "a company spokeswoman",
+   "a spokeswoman said",
+   "a spokeswoman for the group",
+   "an official spokeswoman"
+  ]
+ },
+ {
+  "id": "stockpile",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "kho dự trữ; tích trữ",
+  "coll": [
+   "stockpile weapons",
+   "a stockpile of food",
+   "build up a stockpile",
+   "a nuclear stockpile"
+  ]
+ },
+ {
+  "id": "wondrous",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "kỳ diệu; tuyệt diệu",
+  "coll": [
+   "a wondrous sight",
+   "wondrous beauty",
+   "wondrous tales",
+   "truly wondrous"
+  ]
+ },
+ {
+  "id": "affectionately",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách trìu mến; âu yếm",
+  "coll": [
+   "known affectionately as",
+   "smile affectionately",
+   "hug affectionately",
+   "affectionately called"
+  ]
+ },
+ {
+  "id": "frugal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tiết kiệm; tằn tiện; đạm bạc",
+  "coll": [
+   "a frugal lifestyle",
+   "a frugal meal",
+   "frugal with money",
+   "live a frugal life"
+  ]
+ },
+ {
+  "id": "hijack",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cướp máy bay; chiếm quyền điều khiển; lợi dụng thao túng",
+  "coll": [
+   "hijack a plane",
+   "hijack a truck",
+   "hijack the agenda",
+   "hijack an aircraft"
+  ]
+ },
+ {
+  "id": "shipwreck",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vụ đắm tàu; xác tàu đắm",
+  "coll": [
+   "survive a shipwreck",
+   "an ancient shipwreck",
+   "shipwreck survivors",
+   "be shipwrecked"
+  ]
+ },
+ {
+  "id": "attainable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có thể đạt được; trong tầm với",
+  "coll": [
+   "an attainable goal",
+   "realistically attainable",
+   "easily attainable",
+   "attainable targets"
+  ]
+ },
+ {
+  "id": "creatively",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách sáng tạo",
+  "coll": [
+   "think creatively",
+   "work creatively",
+   "creatively designed",
+   "use resources creatively"
+  ]
+ },
+ {
+  "id": "dissident",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người bất đồng chính kiến",
+  "coll": [
+   "a political dissident",
+   "dissident groups",
+   "dissident voices",
+   "exiled dissidents"
+  ]
+ },
+ {
+  "id": "jeopardize",
+  "pos": [
+   "v"
+  ],
+  "vi": "gây nguy hiểm cho; làm phương hại",
+  "coll": [
+   "jeopardize the deal",
+   "jeopardize his career",
+   "jeopardize safety",
+   "jeopardize the peace process"
+  ]
+ },
+ {
+  "id": "schoolgirl",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nữ sinh; học sinh nữ",
+  "coll": [
+   "a young schoolgirl",
+   "a schoolgirl crush",
+   "a schoolgirl uniform",
+   "a teenage schoolgirl"
+  ]
+ },
+ {
+  "id": "subtract",
+  "pos": [
+   "v"
+  ],
+  "vi": "trừ đi; lấy bớt",
+  "coll": [
+   "subtract five from ten",
+   "add and subtract",
+   "subtract the total",
+   "subtract a number"
+  ]
+ },
+ {
+  "id": "tactile",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc xúc giác; cảm nhận bằng sờ chạm",
+  "coll": [
+   "tactile sensation",
+   "tactile feedback",
+   "a tactile experience",
+   "a tactile surface"
+  ]
+ },
+ {
+  "id": "coherence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mạch lạc; tính nhất quán",
+  "coll": [
+   "lack coherence",
+   "internal coherence",
+   "coherence and clarity",
+   "give coherence to"
+  ]
+ },
+ {
+  "id": "cursor",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con trỏ (chuột)",
+  "coll": [
+   "move the cursor",
+   "the cursor blinks",
+   "place the cursor",
+   "the cursor position"
+  ]
+ },
+ {
+  "id": "exclamation mark",
+  "pos": [
+   "n"
+  ],
+  "vi": "dấu chấm than",
+  "coll": [
+   "end with an exclamation mark",
+   "put an exclamation mark",
+   "use exclamation marks",
+   "an exclamation mark after the word"
+  ]
+ },
+ {
+  "id": "frigate",
+  "pos": [
+   "n"
+  ],
+  "vi": "tàu hộ tống; tàu khu trục nhỏ",
+  "coll": [
+   "a naval frigate",
+   "a guided-missile frigate",
+   "the frigate sailed",
+   "deploy a frigate"
+  ]
+ },
+ {
+  "id": "indulgent",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nuông chiều; dễ dãi; buông thả",
+  "coll": [
+   "an indulgent parent",
+   "an indulgent smile",
+   "overly indulgent",
+   "self-indulgent"
+  ]
+ },
+ {
+  "id": "inert",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "trơ (hóa học); bất động; ì ạch",
+  "coll": [
+   "an inert gas",
+   "chemically inert",
+   "lie inert",
+   "inert material"
+  ]
+ },
+ {
+  "id": "prefect",
+  "pos": [
+   "n"
+  ],
+  "vi": "quận trưởng; học sinh cán bộ (Anh)",
+  "coll": [
+   "a school prefect",
+   "the head prefect",
+   "the prefect of police",
+   "appointed prefect"
+  ]
+ },
+ {
+  "id": "soybean",
+  "pos": [
+   "n"
+  ],
+  "vi": "đậu nành; đậu tương",
+  "coll": [
+   "soybean oil",
+   "soybean crops",
+   "soybean production",
+   "soybean farmers"
+  ]
+ },
+ {
+  "id": "unwise",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thiếu khôn ngoan; không sáng suốt",
+  "coll": [
+   "an unwise decision",
+   "it would be unwise to",
+   "an unwise investment",
+   "highly unwise"
+  ]
+ },
+ {
+  "id": "certify",
+  "pos": [
+   "v"
+  ],
+  "vi": "chứng nhận; xác nhận",
+  "coll": [
+   "certify the accounts",
+   "certify a document",
+   "certify that the copy is true",
+   "officially certify"
+  ]
+ },
+ {
+  "id": "dropout",
+  "pos": [
+   "n"
+  ],
+  "vi": "người bỏ học; tình trạng bỏ học",
+  "coll": [
+   "a high school dropout",
+   "a college dropout",
+   "the dropout rate",
+   "school dropouts"
+  ]
+ },
+ {
+  "id": "harrow",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "cái bừa; bừa đất; giày vò",
+  "coll": [
+   "a disc harrow",
+   "harrow the field",
+   "harrow the soil",
+   "a harrowing experience"
+  ]
+ },
+ {
+  "id": "humiliate",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm nhục; hạ nhục; làm bẽ mặt",
+  "coll": [
+   "humiliate someone in public",
+   "publicly humiliate",
+   "feel humiliated",
+   "humiliate an opponent"
+  ]
+ },
+ {
+  "id": "momentary",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thoáng qua; nhất thời",
+  "coll": [
+   "a momentary pause",
+   "a momentary lapse",
+   "a momentary silence",
+   "a momentary hesitation"
+  ]
+ },
+ {
+  "id": "silverware",
+  "pos": [
+   "n"
+  ],
+  "vi": "bộ dao dĩa thìa; đồ bạc",
+  "coll": [
+   "polish the silverware",
+   "a set of silverware",
+   "the family silverware",
+   "the silverware drawer"
+  ]
+ }
+]

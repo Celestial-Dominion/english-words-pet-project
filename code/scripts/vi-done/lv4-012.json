@@ -1,0 +1,402 @@
+{
+  "archery": {
+    "vi": "môn bắn cung",
+    "coll": ["archery competition", "archery range", "practise archery", "archery skills"]
+  },
+  "avenge": {
+    "vi": "báo thù; trả thù cho",
+    "coll": ["avenge his death", "avenge the defeat", "avenge a murder", "avenge oneself on"]
+  },
+  "aversion": {
+    "vi": "ác cảm; sự ghét bỏ; nỗi ngại",
+    "coll": ["an aversion to", "risk aversion", "a strong aversion", "develop an aversion"]
+  },
+  "floppy": {
+    "vi": "mềm oặt; lụng thụng; đĩa mềm",
+    "coll": ["floppy disk", "floppy hat", "floppy ears", "floppy drive"]
+  },
+  "inflatable": {
+    "vi": "bơm hơi được; đồ bơm hơi",
+    "coll": ["inflatable boat", "inflatable mattress", "inflatable castle", "inflatable raft"]
+  },
+  "alum": {
+    "vi": "phèn chua; cựu sinh viên (nói tắt)",
+    "coll": ["potassium alum", "alum powder", "alum crystals", "treat with alum"]
+  },
+  "sod": {
+    "vi": "vầng cỏ; lớp đất cỏ; thằng cha (chửi nhẹ)",
+    "coll": ["lay sod", "a piece of sod", "under the sod", "sod off"]
+  },
+  "stag": {
+    "vi": "hươu đực; tiệc chỉ toàn đàn ông",
+    "coll": ["a majestic stag", "stag party", "stag night", "stag do"]
+  },
+  "smoothie": {
+    "vi": "sinh tố; gã ngọt ngào khéo miệng",
+    "coll": ["fruit smoothie", "banana smoothie", "make a smoothie", "green smoothie"]
+  },
+  "suede": {
+    "vi": "da lộn",
+    "coll": ["suede shoes", "suede jacket", "blue suede", "soft suede"]
+  },
+  "sluggish": {
+    "vi": "chậm chạp; uể oải; trì trệ",
+    "coll": ["a sluggish economy", "feel sluggish", "sluggish growth", "sluggish response"]
+  },
+  "bulletproof": {
+    "vi": "chống đạn; chắc như đinh đóng cột",
+    "coll": ["bulletproof vest", "bulletproof glass", "a bulletproof plan", "bulletproof car"]
+  },
+  "attest": {
+    "vi": "chứng thực; xác nhận; làm chứng",
+    "coll": ["attest to the truth", "as the records attest", "attest a signature", "can attest to"]
+  },
+  "nitrate": {
+    "vi": "nitrat; muối axit nitric",
+    "coll": ["nitrate levels", "potassium nitrate", "nitrate fertilizer", "nitrate pollution"]
+  },
+  "fluoride": {
+    "vi": "florua",
+    "coll": ["fluoride toothpaste", "fluoride in water", "fluoride treatment", "sodium fluoride"]
+  },
+  "submissive": {
+    "vi": "phục tùng; ngoan ngoãn nghe lời",
+    "coll": ["submissive behaviour", "a submissive role", "submissive to authority", "meek and submissive"]
+  },
+  "collagen": {
+    "vi": "collagen (chất tạo keo)",
+    "coll": ["collagen production", "collagen fibres", "boost collagen", "collagen supplements"]
+  },
+  "pastel": {
+    "vi": "màu pastel; phấn màu; tranh phấn màu",
+    "coll": ["pastel colours", "pastel shades", "pastel drawing", "soft pastels"]
+  },
+  "cricketer": {
+    "vi": "cầu thủ cricket",
+    "coll": ["a professional cricketer", "England cricketer", "a former cricketer", "a young cricketer"]
+  },
+  "yelp": {
+    "vi": "kêu ăng ẳng; tiếng kêu thất thanh",
+    "coll": ["yelp in pain", "let out a yelp", "a yelp of surprise", "the dog yelped"]
+  },
+  "trickle": {
+    "vi": "chảy nhỏ giọt; dòng chảy nhỏ; lác đác kéo đến",
+    "coll": ["a trickle of water", "trickle down", "trickle in", "slow to a trickle"]
+  },
+  "borrower": {
+    "vi": "người vay; người mượn",
+    "coll": ["mortgage borrowers", "borrowers and lenders", "a first-time borrower", "protect borrowers"]
+  },
+  "ultimatum": {
+    "vi": "tối hậu thư",
+    "coll": ["issue an ultimatum", "give an ultimatum", "a final ultimatum", "deliver an ultimatum"]
+  },
+  "uncut": {
+    "vi": "chưa cắt; nguyên bản không cắt xén",
+    "coll": ["uncut version", "uncut diamond", "uncut footage", "the uncut film"]
+  },
+  "strata": {
+    "vi": "các tầng lớp; các địa tầng",
+    "coll": ["social strata", "rock strata", "different strata of society", "geological strata"]
+  },
+  "microbiology": {
+    "vi": "vi sinh vật học",
+    "coll": ["study microbiology", "medical microbiology", "microbiology lab", "a professor of microbiology"]
+  },
+  "geologic": {
+    "vi": "thuộc địa chất",
+    "coll": ["geologic time", "geologic formation", "geologic record", "geologic survey"]
+  },
+  "quilt": {
+    "vi": "chăn chần bông; chần bông",
+    "coll": ["a patchwork quilt", "make a quilt", "quilt cover", "under the quilt"]
+  },
+  "modernity": {
+    "vi": "tính hiện đại; thời hiện đại",
+    "coll": ["the age of modernity", "a symbol of modernity", "tradition and modernity", "Western modernity"]
+  },
+  "arterial": {
+    "vi": "thuộc động mạch; trục giao thông chính",
+    "coll": ["arterial blood", "arterial pressure", "arterial road", "arterial disease"]
+  },
+  "hypnosis": {
+    "vi": "thuật thôi miên; trạng thái thôi miên",
+    "coll": ["under hypnosis", "put under hypnosis", "hypnosis therapy", "self-hypnosis"]
+  },
+  "fictitious": {
+    "vi": "hư cấu; bịa đặt; giả tưởng",
+    "coll": ["a fictitious name", "a fictitious character", "a fictitious address", "purely fictitious"]
+  },
+  "headmaster": {
+    "vi": "thầy hiệu trưởng",
+    "coll": ["the school headmaster", "a strict headmaster", "the headmaster's office", "appointed headmaster"]
+  },
+  "psychotherapy": {
+    "vi": "liệu pháp tâm lý; trị liệu tâm lý",
+    "coll": ["undergo psychotherapy", "group psychotherapy", "a psychotherapy session", "cognitive psychotherapy"]
+  },
+  "malpractice": {
+    "vi": "sai sót nghề nghiệp; hành nghề sai trái",
+    "coll": ["medical malpractice", "a malpractice lawsuit", "malpractice insurance", "professional malpractice"]
+  },
+  "intolerant": {
+    "vi": "không khoan dung; hẹp hòi; không dung nạp được",
+    "coll": ["intolerant of criticism", "lactose intolerant", "religiously intolerant", "an intolerant attitude"]
+  },
+  "webinar": {
+    "vi": "hội thảo trực tuyến",
+    "coll": ["attend a webinar", "host a webinar", "a free webinar", "live webinar"]
+  },
+  "alkaline": {
+    "vi": "có tính kiềm",
+    "coll": ["alkaline soil", "alkaline solution", "alkaline battery", "alkaline water"]
+  },
+  "emeritus": {
+    "vi": "danh dự (đã nghỉ hưu); giáo sư danh dự",
+    "coll": ["professor emeritus", "emeritus status", "emeritus chairman", "emeritus fellow"]
+  },
+  "firsthand": {
+    "vi": "trực tiếp; tận mắt; từ chính trải nghiệm",
+    "coll": ["firsthand experience", "a firsthand account", "see firsthand", "know firsthand"]
+  },
+  "customization": {
+    "vi": "sự tùy chỉnh",
+    "coll": ["a high degree of customization", "product customization", "customization options", "allow customization"]
+  },
+  "prod": {
+    "vi": "chọc nhẹ; thúc giục; cú chọc",
+    "coll": ["prod someone into action", "give a prod", "prod with a stick", "prod him gently"]
+  },
+  "triathlon": {
+    "vi": "ba môn phối hợp",
+    "coll": ["compete in a triathlon", "Ironman triathlon", "triathlon training", "win the triathlon"]
+  },
+  "manipulative": {
+    "vi": "hay thao túng; giỏi lèo lái người khác",
+    "coll": ["manipulative behaviour", "a manipulative person", "highly manipulative", "manipulative tactics"]
+  },
+  "summertime": {
+    "vi": "mùa hè; dịp hè",
+    "coll": ["in the summertime", "summertime heat", "summertime activities", "long summertime days"]
+  },
+  "throwback": {
+    "vi": "sự gợi nhớ thời xưa; hình ảnh của quá khứ",
+    "coll": ["a throwback to the 1970s", "throwback Thursday", "a real throwback", "a throwback jersey"]
+  },
+  "infiltrate": {
+    "vi": "thâm nhập; xâm nhập; ngấm vào",
+    "coll": ["infiltrate an organization", "infiltrate enemy lines", "infiltrate the group", "infiltrate the network"]
+  },
+  "stomp": {
+    "vi": "giậm chân; bước rầm rầm",
+    "coll": ["stomp your feet", "stomp out of the room", "stomp on something", "stomp around"]
+  },
+  "awkwardly": {
+    "vi": "lúng túng; vụng về; gượng gạo",
+    "coll": ["smile awkwardly", "stand awkwardly", "awkwardly placed", "shift awkwardly"]
+  },
+  "realtor": {
+    "vi": "môi giới bất động sản",
+    "coll": ["a licensed realtor", "call a realtor", "a local realtor", "realtor commission"]
+  },
+  "lefty": {
+    "vi": "thuận tay trái; người thiên tả",
+    "coll": ["a lefty pitcher", "lefty scissors", "lefty politics", "a lefty golfer"]
+  },
+  "seasonally": {
+    "vi": "theo mùa",
+    "coll": ["seasonally adjusted", "vary seasonally", "seasonally available", "seasonally employed"]
+  },
+  "brighten": {
+    "vi": "làm sáng lên; rạng rỡ hẳn; tươi sáng hơn",
+    "coll": ["brighten the room", "brighten up your day", "her face brightened", "brighten the mood"]
+  },
+  "flashy": {
+    "vi": "hào nhoáng; lòe loẹt; phô trương",
+    "coll": ["a flashy car", "flashy clothes", "flashy jewellery", "flashy style"]
+  },
+  "uninterrupted": {
+    "vi": "liên tục không gián đoạn",
+    "coll": ["uninterrupted sleep", "an uninterrupted view", "uninterrupted service", "uninterrupted flow"]
+  },
+  "subsection": {
+    "vi": "tiểu mục; khoản nhỏ",
+    "coll": ["under subsection 3", "the following subsection", "see subsection (a)", "each subsection"]
+  },
+  "inbound": {
+    "vi": "đi vào; chiều đến",
+    "coll": ["inbound flight", "inbound traffic", "inbound calls", "inbound marketing"]
+  },
+  "interconnected": {
+    "vi": "liên kết với nhau; đan xen nhau",
+    "coll": ["closely interconnected", "interconnected systems", "an interconnected world", "interconnected networks"]
+  },
+  "immersive": {
+    "vi": "đắm chìm; sống động như thật; nhập vai",
+    "coll": ["immersive experience", "immersive technology", "an immersive game", "immersive learning"]
+  },
+  "blight": {
+    "vi": "bệnh tàn rụi (cây); tai họa; làm tàn lụi",
+    "coll": ["potato blight", "urban blight", "a blight on society", "blight their lives"]
+  },
+  "denounce": {
+    "vi": "lên án; tố cáo",
+    "coll": ["denounce the attack", "publicly denounce", "denounce as a traitor", "denounce violence"]
+  },
+  "overlay": {
+    "vi": "phủ lên trên; lớp phủ; lớp chồng",
+    "coll": ["overlay the image", "an overlay of text", "map overlay", "overlay with gold"]
+  },
+  "euphoria": {
+    "vi": "cảm giác lâng lâng; niềm hân hoan tột độ",
+    "coll": ["a sense of euphoria", "post-match euphoria", "a wave of euphoria", "euphoria and excitement"]
+  },
+  "jargon": {
+    "vi": "biệt ngữ; thuật ngữ chuyên ngành",
+    "coll": ["technical jargon", "legal jargon", "full of jargon", "avoid jargon"]
+  },
+  "nigh": {
+    "vi": "gần kề (văn chương); sắp đến; gần như",
+    "coll": ["the end is nigh", "well nigh impossible", "draw nigh", "nigh on impossible"]
+  },
+  "whirlwind": {
+    "vi": "cơn lốc xoáy; chóng vánh như gió",
+    "coll": ["a whirlwind romance", "a whirlwind tour", "a whirlwind of activity", "a whirlwind visit"]
+  },
+  "cinematography": {
+    "vi": "nghệ thuật quay phim",
+    "coll": ["stunning cinematography", "the film's cinematography", "director of cinematography", "an award for cinematography"]
+  },
+  "meticulous": {
+    "vi": "tỉ mỉ; kỹ lưỡng; chỉn chu",
+    "coll": ["meticulous attention to detail", "meticulous planning", "meticulous records", "meticulous care"]
+  },
+  "rewind": {
+    "vi": "tua lại; quấn lại",
+    "coll": ["rewind the tape", "rewind the video", "press rewind", "fast forward and rewind"]
+  },
+  "stallion": {
+    "vi": "ngựa giống đực; gã cường tráng",
+    "coll": ["a black stallion", "a wild stallion", "breed a stallion", "stallion and mare"]
+  },
+  "nozzle": {
+    "vi": "vòi phun; đầu vòi",
+    "coll": ["spray nozzle", "hose nozzle", "the nozzle of the pump", "adjust the nozzle"]
+  },
+  "mayonnaise": {
+    "vi": "sốt mayonnaise",
+    "coll": ["a jar of mayonnaise", "homemade mayonnaise", "mix with mayonnaise", "mayonnaise dressing"]
+  },
+  "loophole": {
+    "vi": "kẽ hở luật; lỗ hổng pháp lý; lỗ châu mai",
+    "coll": ["a legal loophole", "tax loophole", "close a loophole", "exploit a loophole"]
+  },
+  "plutonium": {
+    "vi": "plutoni (nguyên tố phóng xạ)",
+    "coll": ["weapons-grade plutonium", "plutonium production", "enriched plutonium", "plutonium reactor"]
+  },
+  "kayak": {
+    "vi": "thuyền kayak; chèo kayak",
+    "coll": ["paddle a kayak", "sea kayak", "a kayak trip", "kayak down the river"]
+  },
+  "rectangle": {
+    "vi": "hình chữ nhật",
+    "coll": ["draw a rectangle", "a perfect rectangle", "the area of a rectangle", "golden rectangle"]
+  },
+  "secluded": {
+    "vi": "biệt lập; hẻo lánh; kín đáo",
+    "coll": ["a secluded beach", "a secluded spot", "a secluded location", "a secluded garden"]
+  },
+  "hitman": {
+    "vi": "sát thủ đánh thuê",
+    "coll": ["hire a hitman", "a professional hitman", "a hitman for hire", "the mafia's hitman"]
+  },
+  "derogatory": {
+    "vi": "xúc phạm; miệt thị; chê bai",
+    "coll": ["derogatory remarks", "a derogatory term", "derogatory comments", "derogatory language"]
+  },
+  "semifinal": {
+    "vi": "trận bán kết",
+    "coll": ["reach the semifinal", "a semifinal match", "lose in the semifinal", "the semifinal round"]
+  },
+  "tubular": {
+    "vi": "hình ống; dạng ống",
+    "coll": ["tubular structure", "tubular steel", "tubular bells", "tubular shape"]
+  },
+  "thumbnail": {
+    "vi": "ảnh thu nhỏ; móng tay cái; bản phác nhanh",
+    "coll": ["thumbnail image", "click the thumbnail", "a thumbnail sketch", "video thumbnail"]
+  },
+  "moustache": {
+    "vi": "ria mép",
+    "coll": ["grow a moustache", "a bushy moustache", "handlebar moustache", "shave off his moustache"]
+  },
+  "apiece": {
+    "vi": "mỗi cái; mỗi người",
+    "coll": ["cost five dollars apiece", "two goals apiece", "one apiece", "sold for a dollar apiece"]
+  },
+  "plethora": {
+    "vi": "vô số; sự thừa mứa",
+    "coll": ["a plethora of options", "a plethora of information", "a whole plethora of", "a plethora of choices"]
+  },
+  "affirmation": {
+    "vi": "sự khẳng định; lời tuyên thệ; câu tự động viên",
+    "coll": ["an affirmation of faith", "positive affirmations", "seek affirmation", "daily affirmations"]
+  },
+  "waive": {
+    "vi": "từ bỏ (quyền); miễn cho",
+    "coll": ["waive the fee", "waive your right", "waive the requirement", "waive immunity"]
+  },
+  "infiltration": {
+    "vi": "sự xâm nhập; sự thấm vào",
+    "coll": ["enemy infiltration", "water infiltration", "infiltration of the group", "prevent infiltration"]
+  },
+  "recount": {
+    "vi": "kể lại; thuật lại; cuộc kiểm phiếu lại",
+    "coll": ["recount the story", "recount his experiences", "demand a recount", "a vote recount"]
+  },
+  "modesty": {
+    "vi": "sự khiêm tốn; tính kín đáo",
+    "coll": ["false modesty", "with typical modesty", "modesty and humility", "preserve her modesty"]
+  },
+  "wavy": {
+    "vi": "gợn sóng; lượn sóng",
+    "coll": ["wavy hair", "wavy lines", "wavy pattern", "wavy edges"]
+  },
+  "offside": {
+    "vi": "việt vị; lỗi việt vị",
+    "coll": ["caught offside", "the offside rule", "an offside goal", "flagged for offside"]
+  },
+  "lakh": {
+    "vi": "một trăm nghìn (Ấn Độ)",
+    "coll": ["a lakh of rupees", "five lakh people", "lakhs of rupees", "one lakh"]
+  },
+  "rabies": {
+    "vi": "bệnh dại",
+    "coll": ["rabies vaccine", "rabies virus", "contract rabies", "a rabies shot"]
+  },
+  "bulge": {
+    "vi": "chỗ phình ra; phồng lên; sự tăng vọt",
+    "coll": ["a bulge in the wall", "his eyes bulged", "bulge out", "a bulge in his pocket"]
+  },
+  "seduce": {
+    "vi": "quyến rũ; dụ dỗ; lôi kéo sa ngã",
+    "coll": ["seduce a woman", "seduce someone into", "try to seduce", "seduced by money"]
+  },
+  "shun": {
+    "vi": "xa lánh; né tránh; tẩy chay",
+    "coll": ["shun publicity", "shunned by society", "shun contact", "shun the limelight"]
+  },
+  "naw": {
+    "vi": "hông; không đâu (suồng sã)",
+    "coll": ["naw, I'm good", "naw, not really", "naw man", "naw, thanks"]
+  },
+  "malnutrition": {
+    "vi": "suy dinh dưỡng",
+    "coll": ["suffer from malnutrition", "chronic malnutrition", "child malnutrition", "die of malnutrition"]
+  },
+  "orgy": {
+    "vi": "cuộc truy hoan; tiệc trác táng; sự sa đà quá độ",
+    "coll": ["a drunken orgy", "an orgy of violence", "an orgy of spending", "a wild orgy"]
+  }
+}

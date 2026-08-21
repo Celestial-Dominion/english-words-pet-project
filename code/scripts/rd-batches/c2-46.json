@@ -1,0 +1,145 @@
+[
+ {
+  "id": "wiki-relational-database",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Relational_database",
+  "title_en": "Relational database",
+  "sentences": [
+   "A relational database is a way of storing information (data).",
+   "Relational databases help users join information to other information.",
+   "In a relational database, each record of data is stored in a row.",
+   "The rows are grouped together in tables.",
+   "In the relational model, a database table is called a relation.",
+   "This is why the term relational is used for this kind of database.",
+   "The software used to do this grouping is called a relational database management system (RDBMS).",
+   "The term \"relational database\" often refers to this type of software.",
+   "Relational databases are currently the main way in which companies store information like financial records, medical records, personal information, and manufacturing and logistical data.",
+   "The term relational database was originally defined by and is attributed to Edgar Codd at IBM Almaden Research Center in 1970."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-firmware",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Firmware",
+  "title_en": "Firmware",
+  "sentences": [
+   "In computing, firmware is a computer program that is \"embedded\" in a hardware device and is an essential part of the hardware.",
+   "It is sometimes called embedded software.",
+   "For example, in a microcontroller, firmware tells the microprocessor what actions to take.",
+   "Firmware can also be a larger program stored on flash memory, or uploaded onto existing hardware by a user.",
+   "As its name suggests, firmware is somewhere between hardware and software, connecting the two worlds.",
+   "It can mean slightly different things to different people, especially as stand-alone electronic devices become more like computers.",
+   "Like software, it is a computer program which is run by a microprocessor.",
+   "But it is also linked to a piece of hardware and has no meaning without it."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-diplomatics",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Diplomatics",
+  "title_en": "Diplomatics",
+  "sentences": [
+   "Diplomatics is a discipline which is concerned with the analysis of historical documents.",
+   "The word goes back to diploma, which literally means folded (document).",
+   "Using the term diplomatics for this science is probably due to a work called De re diplomatica, by Jean Mabilon (1632-1707).",
+   "Note also, that the term is unrelated to diplomacy.",
+   "The discipline originally evolved as a tool for studying and determining the authenticity of the official charters and diplomas issued by royal and papal chanceries.",
+   "It was later found that many of the same underlying principles could be applied to other types of official document and legal instrument, to non-official documents such as private letters, and, most recently, to the metadata of electronic records.",
+   "Diplomatics is one of the auxiliary sciences of history.",
+   "It should not be confused (as it often is) with its sister-discipline of palaeography.",
+   "In fact, its techniques have more in common with those of the literary disciplines of textual criticism and historical criticism."
+  ]
+ },
+ {
+  "id": "wiki-floating-point-unit",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Floating_point_unit",
+  "title_en": "Floating point unit",
+  "sentences": [
+   "A floating point unit (FPU) is a part of a computer system specially designed to carry out operations on floating point numbers.",
+   "Typical operations are addition, subtraction, multiplication, division, and square root.",
+   "Some systems can also perform more advanced functions as exponential or trigonometric functions calculations, however in most modern processors these functions are done with software library routines, not by hardware.",
+   "In most modern general purpose CPUs, one or more FPUs are integrated inside the CPU; however many embedded microcontrollers, especially older designs, do not have hardware support for floating point operations.",
+   "In the past, some systems as the Intel 8086 have implemented floating point via a coprocessor that is controlled by the CPU rather than as an integrated unit.",
+   "Most modern computers have integrated FPU hardware; but not all.",
+   "In the absence of an FPU, many FPU functions can be emulated, which saves the added hardware cost of an FPU but is significantly slower."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-facebook-unblocked-in-bangladesh",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Facebook_unblocked_in_Bangladesh",
+  "title_en": "Facebook unblocked in Bangladesh",
+  "sentences": [
+   "Sunday, June 6, 2010 After a week's block, the social networking website Facebook is finally back in Bangladesh.",
+   "Facebook was blocked by local authorities in Bangladesh after some \"offensive\" content of local politicians were uploaded and one man was arrested.",
+   "The block was lifted 23:58 local time (17:58 UTC).",
+   "According to BDNews24.com, Mir Masud Kabir, the Mango Telecom Services managing director, had received a phone call from Major General Zia Ahmed at 11:57 p.m. (17:57 UTC), asking him to lift the Facebook block.",
+   "Kabir unblocked Facebook a minute later.",
+   "The authorities had decided to unblock Facebook after the company promised to remove the content considered blasphemous as well as the \"obnoxious\" pictures of the country's leaders."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-parameter-computer-programming",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Parameter_(computer_programming)",
+  "title_en": "Parameter (computer programming)",
+  "sentences": [
+   "In computer science, parameters are stored names of information that we want to use for a subroutine.",
+   "These pieces of information, called values, are then passed on to the subroutine to be used as arguments.",
+   "Then these arguments can affect how the program will run.",
+   "Parameter (programming) For example, in the following Python function: def greet(name): print(\"Hello, \" + name + \"!\") The word name is a parameter.",
+   "When the function is called with a value (like \"Alice\"), the parameter name will hold that value and the function will use it to perform its action: greet(\"Alice\") # Outputs: Hello, Alice!",
+   "In this case, the parameter allows the function to personalize the greeting by using the value provided during the function call."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-us-court-jails-second-man-for-revolution",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/US_court_jails_second_man_for_Revolution_Muslim_web_postings",
+  "title_en": "US court jails second man for Revolution Muslim web postings",
+  "sentences": [
+   "Sunday, June 24, 2012 A US federal court in Virginia has sent a second man to prison for online postings linked to Revolution Muslim.",
+   "New York Islam convert Jesse Curtis Morton received an eleven-and-a-half-year sentence yesterday after his co-defendant was jailed in February.",
+   "Morton, 33, also known as Younus Abdullah Muhammed, wrote alongside fellow convert Zachary Chesser, 20, on a now-defunct website that promoted violence against perceived enemies of Islam.",
+   "Targets included those behind depictions of the Prophet Muhammed, which are widely held to be offensive to Islamic beliefs.",
+   "Morton and Chesser threatened people including the writers of satirical TV show South Park, which had shown Muhammed in a bear suit, and an artist behind May 2010's Everybody Draw Mohammed Day.",
+   "The duo posted addresses for South Park writers, urging readers to \"pay them a visit\".",
+   "Virginia-based Chesser admitted his role in court in October 2010 and received a 25-year sentence, with the discrepancy between the pair's sentences attributed to two attempts by Chesser to head to Somalia and become an al-Shabbab member.",
+   "Morton was arrested last year in Rabat, Morocco and extradited back to the US, pleading guilty in February.",
+   "The defence wanted Morton's sentence kept below five years, and he had apologised for having \"contributed to a clash of civilizations\" with his support of violence.",
+   "The prosecutor contended Morton had abused his right to free speech by threatening murder to \"chill\" the expressions of others."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-emman-atienza",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Emman_Atienza",
+  "title_en": "Emman Atienza",
+  "sentences": [
+   "Emmanuelle Hung Atienza (tl; February 8, 2006 – October 22, 2025) was a Filipino and Taiwanese social media personality, model and mental health activist.",
+   "She was known for talking about mental health on her TikTok and Instagram accounts.",
+   "Emmanuelle Hung Atienza was born on February 8, 2006 in Manila, Philippines.",
+   "Atienza was the youngest daughter of Filipino television host Kim Atienza.",
+   "In 2019, after trying to commit suicide, Atienza was diagnosed with clinical depression.",
+   "In early 2022, she was diagnosed with post-traumatic stress disorder, bipolar disorder, and attention deficit hyperactivity disorder with borderline and paranoid disorders.",
+   "On October 22, 2025, Atienza was found dead at her home in Los Angeles, California at the age of 19.",
+   "The Los Angeles County Medical Examiner said her cause of death was suicide by hanging."
+  ],
+  "topic": "it"
+ }
+]

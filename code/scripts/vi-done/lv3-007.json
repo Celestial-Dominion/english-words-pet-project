@@ -1,0 +1,402 @@
+{
+  "cowboy": {
+    "vi": "cao bồi; người chăn bò; kẻ làm ăn cẩu thả",
+    "coll": ["cowboy hat", "cowboy boots", "a cowboy builder", "play cowboys and Indians"]
+  },
+  "censorship": {
+    "vi": "sự kiểm duyệt; chế độ kiểm duyệt",
+    "coll": ["government censorship", "strict censorship", "media censorship", "impose censorship", "censorship laws"]
+  },
+  "bait": {
+    "vi": "mồi nhử; mồi câu; nhử, dụ dỗ",
+    "coll": ["take the bait", "use as bait", "fishing bait", "bait a trap", "clickbait"]
+  },
+  "compilation": {
+    "vi": "sự biên soạn; tuyển tập; sự biên dịch (mã)",
+    "coll": ["a compilation album", "the compilation of data", "compilation error", "a compilation of essays"]
+  },
+  "incomplete": {
+    "vi": "chưa hoàn chỉnh; dang dở, thiếu sót",
+    "coll": ["incomplete data", "an incomplete picture", "incomplete information", "remain incomplete", "an incomplete list"]
+  },
+  "therapeutic": {
+    "vi": "trị liệu; có tác dụng chữa lành, giúp thư thái",
+    "coll": ["therapeutic effect", "therapeutic value", "therapeutic massage", "a therapeutic approach", "therapeutic benefits"]
+  },
+  "superhero": {
+    "vi": "siêu anh hùng",
+    "coll": ["a superhero movie", "superhero comics", "a superhero costume", "superhero powers"]
+  },
+  "spinal": {
+    "vi": "thuộc cột sống; ở tủy sống",
+    "coll": ["spinal cord", "spinal injury", "spinal column", "spinal surgery", "a spinal tap"]
+  },
+  "exploitation": {
+    "vi": "sự bóc lột; sự khai thác (tài nguyên); sự lợi dụng",
+    "coll": ["labour exploitation", "sexual exploitation", "the exploitation of resources", "exploitation of workers", "commercial exploitation"]
+  },
+  "atmospheric": {
+    "vi": "thuộc khí quyển; giàu không khí, gợi cảm xúc",
+    "coll": ["atmospheric pressure", "atmospheric conditions", "atmospheric music", "atmospheric CO2 levels", "an atmospheric setting"]
+  },
+  "violet": {
+    "vi": "màu tím; hoa violet, hoa tím",
+    "coll": ["a violet dress", "deep violet", "ultraviolet light", "African violet", "violet petals"]
+  },
+  "goose": {
+    "vi": "con ngỗng; thịt ngỗng",
+    "coll": ["wild goose chase", "a flock of geese", "goose bumps", "roast goose", "the goose that lays the golden eggs"]
+  },
+  "urine": {
+    "vi": "nước tiểu",
+    "coll": ["a urine sample", "a urine test", "urine output", "blood in the urine", "pass urine"]
+  },
+  "sperm": {
+    "vi": "tinh trùng; tinh dịch",
+    "coll": ["sperm count", "sperm donor", "a sperm bank", "sperm whale", "low sperm quality"]
+  },
+  "vanilla": {
+    "vi": "vani; hương vani; thường, không có gì đặc biệt",
+    "coll": ["vanilla ice cream", "vanilla extract", "a vanilla bean", "plain vanilla", "vanilla flavour"]
+  },
+  "heroic": {
+    "vi": "anh hùng, quả cảm; hào hùng; thể thơ anh hùng ca",
+    "coll": ["a heroic effort", "heroic deeds", "heroic measures", "a heroic figure", "heroic resistance"]
+  },
+  "swamp": {
+    "vi": "đầm lầy; làm ngập; tràn ngập, quá tải",
+    "coll": ["a mangrove swamp", "drain the swamp", "swamped with work", "swamp water", "be swamped with requests"]
+  },
+  "treason": {
+    "vi": "tội phản quốc; sự phản bội",
+    "coll": ["commit treason", "high treason", "guilty of treason", "an act of treason", "charged with treason"]
+  },
+  "nationally": {
+    "vi": "trên toàn quốc; ở cấp quốc gia",
+    "coll": ["nationally recognised", "nationally representative", "broadcast nationally", "nationally and internationally", "nationally ranked"]
+  },
+  "cardiac": {
+    "vi": "thuộc về tim; tim mạch",
+    "coll": ["cardiac arrest", "cardiac surgery", "cardiac disease", "cardiac muscle", "a cardiac patient"]
+  },
+  "renewal": {
+    "vi": "sự gia hạn; sự đổi mới; sự hồi sinh",
+    "coll": ["contract renewal", "urban renewal", "licence renewal", "a renewal of interest", "renewal fee"]
+  },
+  "organizational": {
+    "vi": "thuộc tổ chức; về tổ chức, sắp xếp",
+    "coll": ["organizational structure", "organizational culture", "organizational skills", "organizational change", "organizational behaviour"]
+  },
+  "vicious": {
+    "vi": "hung ác, tàn bạo; hiểm độc, cay nghiệt; dữ dội",
+    "coll": ["a vicious attack", "a vicious circle", "a vicious dog", "a vicious rumour", "vicious criticism"]
+  },
+  "inherent": {
+    "vi": "vốn có, cố hữu; gắn liền với bản chất",
+    "coll": ["inherent risk", "inherent in the system", "an inherent flaw", "inherent value", "inherent contradiction"]
+  },
+  "refreshing": {
+    "vi": "sảng khoái, mát mẻ; mới mẻ, dễ chịu",
+    "coll": ["a refreshing drink", "refreshingly honest", "a refreshing change", "refreshing breeze", "refreshing to see"]
+  },
+  "discourse": {
+    "vi": "diễn ngôn; luận bàn, đàm luận; bài thuyết trình",
+    "coll": ["public discourse", "political discourse", "discourse analysis", "academic discourse", "discourse on a topic"]
+  },
+  "reactor": {
+    "vi": "lò phản ứng (hạt nhân); bình phản ứng",
+    "coll": ["a nuclear reactor", "reactor core", "shut down a reactor", "a chemical reactor", "reactor meltdown"]
+  },
+  "reset": {
+    "vi": "đặt lại, cài lại; khởi động lại; sự thiết lập lại",
+    "coll": ["reset the password", "factory reset", "reset the clock", "hit the reset button", "a reset of relations"]
+  },
+  "missionary": {
+    "vi": "truyền giáo; nhà truyền giáo",
+    "coll": ["missionary work", "a missionary school", "Christian missionaries", "missionary zeal", "missionary position"]
+  },
+  "vodka": {
+    "vi": "rượu vodka",
+    "coll": ["a shot of vodka", "vodka and tonic", "a bottle of vodka", "Russian vodka", "vodka martini"]
+  },
+  "prototype": {
+    "vi": "nguyên mẫu; bản mẫu thử; mẫu điển hình",
+    "coll": ["build a prototype", "a working prototype", "an early prototype", "test a prototype", "prototype design"]
+  },
+  "humour": {
+    "vi": "sự hài hước; khiếu hài hước; tâm trạng; chiều theo ý",
+    "coll": ["a sense of humour", "dry humour", "dark humour", "good humour", "humour someone"]
+  },
+  "toddler": {
+    "vi": "trẻ mới biết đi; bé chập chững",
+    "coll": ["a toddler tantrum", "toddler group", "toddler food", "babies and toddlers", "a two-year-old toddler"]
+  },
+  "activation": {
+    "vi": "sự kích hoạt; sự khởi động",
+    "coll": ["account activation", "activation code", "muscle activation", "activation energy", "brain activation"]
+  },
+  "justification": {
+    "vi": "sự biện minh; lý do chính đáng; căn lề (chữ)",
+    "coll": ["moral justification", "no justification for", "provide justification", "legal justification", "justification of the war"]
+  },
+  "livestock": {
+    "vi": "gia súc, vật nuôi",
+    "coll": ["raise livestock", "livestock farming", "livestock production", "livestock feed", "livestock and crops"]
+  },
+  "lego": {
+    "vi": "đồ chơi lắp ghép Lego",
+    "coll": ["Lego bricks", "build with Lego", "a Lego set", "Lego pieces", "a Lego model"]
+  },
+  "nationalism": {
+    "vi": "chủ nghĩa dân tộc; tinh thần dân tộc cực đoan",
+    "coll": ["rising nationalism", "economic nationalism", "extreme nationalism", "a wave of nationalism", "religious nationalism"]
+  },
+  "inland": {
+    "vi": "trong nội địa; vùng sâu trong đất liền",
+    "coll": ["move inland", "inland waterways", "an inland sea", "inland areas", "further inland"]
+  },
+  "outright": {
+    "vi": "hoàn toàn, dứt khoát; thẳng thừng; ngay lập tức",
+    "coll": ["an outright ban", "reject outright", "outright winner", "buy a house outright", "an outright lie"]
+  },
+  "oversight": {
+    "vi": "sự giám sát; sự sơ suất, sai sót do bỏ quên",
+    "coll": ["congressional oversight", "regulatory oversight", "an administrative oversight", "provide oversight", "due to an oversight"]
+  },
+  "diagnostic": {
+    "vi": "chẩn đoán; dùng để chẩn đoán; xét nghiệm chẩn đoán",
+    "coll": ["diagnostic tests", "diagnostic tool", "diagnostic criteria", "diagnostic imaging", "run diagnostics"]
+  },
+  "differential": {
+    "vi": "chênh lệch; khác biệt, phân biệt; vi phân (toán)",
+    "coll": ["a pay differential", "differential treatment", "differential diagnosis", "differential equation", "price differential"]
+  },
+  "humidity": {
+    "vi": "độ ẩm; sự ẩm ướt",
+    "coll": ["high humidity", "relative humidity", "humidity levels", "heat and humidity", "low humidity"]
+  },
+  "statute": {
+    "vi": "đạo luật; điều lệ, quy chế",
+    "coll": ["by statute", "statute of limitations", "a federal statute", "statute book", "under the statute"]
+  },
+  "critique": {
+    "vi": "phê bình, mổ xẻ; bài phê bình, sự phân tích",
+    "coll": ["a critique of capitalism", "offer a critique", "literary critique", "critique the proposal", "a scathing critique"]
+  },
+  "dominance": {
+    "vi": "sự thống trị; ưu thế vượt trội",
+    "coll": ["male dominance", "market dominance", "establish dominance", "economic dominance", "assert dominance"]
+  },
+  "startup": {
+    "vi": "công ty khởi nghiệp; sự khởi động",
+    "coll": ["a tech startup", "startup company", "startup costs", "launch a startup", "startup funding"]
+  },
+  "geological": {
+    "vi": "thuộc địa chất; về địa chất học",
+    "coll": ["geological survey", "geological formations", "geological time", "geological record", "geological features"]
+  },
+  "premise": {
+    "vi": "tiền đề; giả định; (số nhiều) khuôn viên, cơ sở",
+    "coll": ["the basic premise", "a false premise", "on the premise that", "business premises", "on the premises"]
+  },
+  "citation": {
+    "vi": "trích dẫn; sự nêu nguồn; giấy triệu tập, giấy phạt",
+    "coll": ["a citation index", "cite a citation", "citation needed", "traffic citation", "a citation for bravery"]
+  },
+  "predecessor": {
+    "vi": "người tiền nhiệm; phiên bản trước",
+    "coll": ["his predecessor", "unlike its predecessor", "immediate predecessor", "succeed a predecessor", "the model's predecessor"]
+  },
+  "bot": {
+    "vi": "bot, chương trình tự động; tài khoản ảo",
+    "coll": ["a chat bot", "spam bots", "bot traffic", "a Twitter bot", "bot detection"]
+  },
+  "congregation": {
+    "vi": "giáo đoàn, cộng đoàn; sự tụ họp; đám đông",
+    "coll": ["the whole congregation", "address the congregation", "a small congregation", "church congregation", "members of the congregation"]
+  },
+  "unprecedented": {
+    "vi": "chưa từng có; vô tiền khoáng hậu",
+    "coll": ["unprecedented levels", "an unprecedented move", "unprecedented growth", "unprecedented in history", "unprecedented scale"]
+  },
+  "calcium": {
+    "vi": "canxi",
+    "coll": ["calcium deficiency", "calcium supplements", "calcium carbonate", "a good source of calcium", "calcium intake"]
+  },
+  "infinity": {
+    "vi": "vô cực; sự vô hạn, vô tận",
+    "coll": ["to infinity and beyond", "an infinity pool", "approach infinity", "infinity symbol", "stretch to infinity"]
+  },
+  "stimulus": {
+    "vi": "tác nhân kích thích; động lực; gói kích cầu",
+    "coll": ["economic stimulus", "a stimulus package", "respond to a stimulus", "visual stimulus", "provide a stimulus"]
+  },
+  "token": {
+    "vi": "dấu hiệu, biểu tượng; xu, thẻ; mang tính hình thức",
+    "coll": ["a token of appreciation", "a gift token", "token gesture", "by the same token", "a token payment"]
+  },
+  "membrane": {
+    "vi": "màng; màng tế bào",
+    "coll": ["cell membrane", "mucous membrane", "a thin membrane", "membrane protein", "permeable membrane"]
+  },
+  "redemption": {
+    "vi": "sự cứu chuộc; sự chuộc lỗi; sự hoàn tiền, đổi phiếu",
+    "coll": ["beyond redemption", "seek redemption", "a story of redemption", "redemption of points", "a redemption song"]
+  },
+  "enzyme": {
+    "vi": "enzim, men (sinh học)",
+    "coll": ["digestive enzymes", "an enzyme that breaks down", "liver enzymes", "enzyme activity", "enzyme levels"]
+  },
+  "coordinate": {
+    "vi": "phối hợp, điều phối; tọa độ; ngang hàng, đồng cấp",
+    "coll": ["coordinate efforts", "coordinate with others", "GPS coordinates", "coordinate the response", "map coordinates"]
+  },
+  "vagina": {
+    "vi": "âm đạo",
+    "coll": ["vaginal infection", "the wall of the vagina", "vagina and vulva", "vaginal delivery"]
+  },
+  "archbishop": {
+    "vi": "tổng giám mục",
+    "coll": ["the Archbishop of Canterbury", "appoint an archbishop", "archbishop of the diocese", "the former archbishop"]
+  },
+  "lace": {
+    "vi": "ren; dây giày; buộc dây; pha thêm (rượu, thuốc)",
+    "coll": ["lace curtains", "lace up your shoes", "a lace dress", "shoe laces", "laced with alcohol"]
+  },
+  "guru": {
+    "vi": "chuyên gia hàng đầu; bậc thầy; đạo sư",
+    "coll": ["a fitness guru", "a management guru", "a spiritual guru", "a tech guru", "a self-help guru"]
+  },
+  "hormone": {
+    "vi": "hoóc môn, nội tiết tố",
+    "coll": ["growth hormone", "hormone levels", "stress hormone", "hormone replacement therapy", "hormone imbalance"]
+  },
+  "drift": {
+    "vi": "trôi dạt; xu hướng, chiều hướng; ý chính",
+    "coll": ["drift apart", "drift off to sleep", "the drift of the argument", "catch my drift", "continental drift"]
+  },
+  "decree": {
+    "vi": "sắc lệnh; ra sắc lệnh, ban chiếu",
+    "coll": ["issue a decree", "a royal decree", "a presidential decree", "by decree", "a divorce decree"]
+  },
+  "bibliography": {
+    "vi": "thư mục tham khảo; danh mục sách",
+    "coll": ["an annotated bibliography", "compile a bibliography", "a selected bibliography", "include a bibliography", "bibliography and index"]
+  },
+  "assassination": {
+    "vi": "vụ ám sát; sự ám sát",
+    "coll": ["an assassination attempt", "political assassination", "the assassination of the president", "assassination plot", "character assassination"]
+  },
+  "capita": {
+    "vi": "đầu người (trong per capita)",
+    "coll": ["per capita income", "GDP per capita", "per capita consumption", "per capita spending"]
+  },
+  "replay": {
+    "vi": "phát lại, chiếu lại; trận đấu lại; đoạn quay chậm",
+    "coll": ["an instant replay", "watch the replay", "action replay", "a cup replay", "replay the video"]
+  },
+  "metallic": {
+    "vi": "thuộc kim loại; ánh kim; nghe chát chúa như kim loại",
+    "coll": ["a metallic taste", "metallic paint", "a metallic sound", "metallic blue", "metallic sheen"]
+  },
+  "collectively": {
+    "vi": "chung, tập thể; gộp lại",
+    "coll": ["known collectively as", "act collectively", "collectively responsible", "collectively owned", "collectively bargain"]
+  },
+  "pier": {
+    "vi": "cầu tàu, bến tàu; trụ cầu",
+    "coll": ["walk along the pier", "a fishing pier", "the end of the pier", "bridge pier", "Brighton Pier"]
+  },
+  "dividend": {
+    "vi": "cổ tức; lợi ích thu về; số bị chia",
+    "coll": ["pay a dividend", "dividend yield", "annual dividend", "pay dividends", "dividend payout"]
+  },
+  "evolutionary": {
+    "vi": "thuộc tiến hóa; mang tính tiến hóa dần dần",
+    "coll": ["evolutionary biology", "evolutionary theory", "an evolutionary advantage", "evolutionary process", "evolutionary psychology"]
+  },
+  "twilight": {
+    "vi": "hoàng hôn, chạng vạng; buổi xế tàn",
+    "coll": ["at twilight", "the twilight years", "twilight zone", "twilight hours", "in the twilight"]
+  },
+  "privileged": {
+    "vi": "có đặc quyền; được ưu ái; (thông tin) được bảo mật",
+    "coll": ["a privileged background", "privileged information", "feel privileged", "the privileged few", "privileged access"]
+  },
+  "retention": {
+    "vi": "sự giữ lại, duy trì; khả năng ghi nhớ",
+    "coll": ["customer retention", "water retention", "staff retention", "memory retention", "retention rate"]
+  },
+  "injustice": {
+    "vi": "sự bất công; điều oan ức",
+    "coll": ["social injustice", "a grave injustice", "fight injustice", "racial injustice", "do someone an injustice"]
+  },
+  "carpenter": {
+    "vi": "thợ mộc",
+    "coll": ["a skilled carpenter", "work as a carpenter", "a carpenter's tools", "carpenter ant", "hire a carpenter"]
+  },
+  "accord": {
+    "vi": "sự đồng thuận; hiệp định; ban cho, dành cho",
+    "coll": ["a peace accord", "of your own accord", "in accord with", "reach an accord", "accord someone respect"]
+  },
+  "eclipse": {
+    "vi": "nhật thực, nguyệt thực; làm lu mờ, che khuất",
+    "coll": ["a solar eclipse", "a lunar eclipse", "a total eclipse", "eclipse the record", "be eclipsed by"]
+  },
+  "protestant": {
+    "vi": "Tin Lành; người theo đạo Tin Lành",
+    "coll": ["the Protestant church", "a Protestant minister", "Protestant Reformation", "Catholics and Protestants", "Protestant work ethic"]
+  },
+  "intro": {
+    "vi": "phần mở đầu; đoạn nhạc dạo; lời giới thiệu ngắn",
+    "coll": ["a short intro", "the intro to the song", "skip the intro", "an intro course", "write an intro"]
+  },
+  "anglo": {
+    "vi": "người gốc Anh; người nói tiếng Anh",
+    "coll": ["Anglo-American relations", "Anglo-Saxon", "Anglo-Irish", "white Anglos"]
+  },
+  "taxation": {
+    "vi": "sự đánh thuế; chế độ thuế",
+    "coll": ["income taxation", "double taxation", "taxation system", "high taxation", "taxation without representation"]
+  },
+  "shotgun": {
+    "vi": "súng săn, súng hoa cải; ghế trước cạnh tài xế",
+    "coll": ["a shotgun blast", "sawn-off shotgun", "ride shotgun", "a shotgun wedding", "fire a shotgun"]
+  },
+  "inferior": {
+    "vi": "kém hơn, thấp kém; cấp dưới; ở dưới",
+    "coll": ["inferior quality", "feel inferior", "inferior to others", "an inferior product", "inferior in size"]
+  },
+  "fundraising": {
+    "vi": "việc gây quỹ; nhằm gây quỹ",
+    "coll": ["a fundraising event", "fundraising campaign", "fundraising efforts", "online fundraising", "fundraising dinner"]
+  },
+  "cuisine": {
+    "vi": "ẩm thực; nghệ thuật nấu ăn",
+    "coll": ["French cuisine", "local cuisine", "haute cuisine", "traditional cuisine", "fine cuisine"]
+  },
+  "asap": {
+    "vi": "càng sớm càng tốt",
+    "coll": ["reply ASAP", "need it ASAP", "send it ASAP", "get back to me ASAP"]
+  },
+  "memo": {
+    "vi": "bản ghi nhớ; thông báo nội bộ",
+    "coll": ["send a memo", "an internal memo", "a leaked memo", "write a memo", "a memo to staff"]
+  },
+  "battalion": {
+    "vi": "tiểu đoàn",
+    "coll": ["an infantry battalion", "the first battalion", "battalion commander", "deploy a battalion", "a tank battalion"]
+  },
+  "reliance": {
+    "vi": "sự phụ thuộc; sự dựa vào, tin cậy",
+    "coll": ["reliance on imports", "heavy reliance", "reduce reliance", "over-reliance on technology", "reliance on fossil fuels"]
+  },
+  "homemade": {
+    "vi": "làm tại nhà, tự làm; thủ công",
+    "coll": ["homemade bread", "homemade soup", "a homemade cake", "homemade remedies", "homemade jam"]
+  },
+  "insulin": {
+    "vi": "insulin (hoóc môn điều hòa đường huyết)",
+    "coll": ["insulin injection", "insulin resistance", "insulin levels", "insulin pump", "produce insulin"]
+  }
+}

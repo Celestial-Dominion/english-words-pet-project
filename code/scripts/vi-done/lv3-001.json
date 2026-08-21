@@ -1,0 +1,402 @@
+{
+  "trying": {
+    "vi": "gian nan; đầy thử thách; khó chịu",
+    "coll": ["a trying time", "trying circumstances", "trying experience", "a trying day"]
+  },
+  "turn to": {
+    "vi": "cầu cứu, nhờ cậy; chuyển sang; giở đến (trang)",
+    "coll": ["turn to someone for help", "turn to violence", "turn to drink", "turn to page 10"]
+  },
+  "check-in": {
+    "vi": "thủ tục nhận phòng; việc làm thủ tục lên máy bay; buổi trao đổi tình hình",
+    "coll": ["check-in desk", "check-in counter", "online check-in", "check-in time", "hotel check-in"]
+  },
+  "cannot": {
+    "vi": "không thể; không được phép",
+    "coll": ["cannot afford", "cannot help but", "cannot wait", "simply cannot", "cannot be denied"]
+  },
+  "mark-up": {
+    "vi": "phần chênh giá; tiền lãi cộng vào giá vốn; mã đánh dấu",
+    "coll": ["high mark-up", "retail mark-up", "mark-up price", "gross mark-up", "a 50% mark-up"]
+  },
+  "self-worth": {
+    "vi": "giá trị bản thân; lòng tự trọng",
+    "coll": ["sense of self-worth", "low self-worth", "feelings of self-worth", "build self-worth"]
+  },
+  "removed": {
+    "vi": "cách xa, tách biệt; đã bị loại bỏ; khác thế hệ (họ hàng)",
+    "coll": ["far removed from reality", "once removed", "removed from office", "removed from the list"]
+  },
+  "bitch": {
+    "vi": "chó cái; đồ đàn bà đanh đá; chuyện khó chịu",
+    "coll": ["son of a bitch", "life's a bitch", "bitch about something", "a real bitch"]
+  },
+  "cost-effective": {
+    "vi": "hiệu quả chi phí; tiết kiệm mà vẫn hiệu quả",
+    "coll": ["cost-effective solution", "cost-effective way", "more cost-effective", "cost-effective method"]
+  },
+  "attorney": {
+    "vi": "luật sư; người được ủy quyền",
+    "coll": ["power of attorney", "district attorney", "defense attorney", "attorney general", "hire an attorney"]
+  },
+  "tech": {
+    "vi": "công nghệ; kỹ thuật viên",
+    "coll": ["tech company", "tech support", "high tech", "tech industry", "tech savvy"]
+  },
+  "jersey": {
+    "vi": "áo đấu; áo len chui đầu; vải thun jersey",
+    "coll": ["football jersey", "team jersey", "yellow jersey", "wear a jersey", "signed jersey"]
+  },
+  "coverage": {
+    "vi": "sự đưa tin; phạm vi bao phủ; mức bảo hiểm",
+    "coll": ["media coverage", "news coverage", "insurance coverage", "extensive coverage", "live coverage"]
+  },
+  "ministry": {
+    "vi": "bộ (cơ quan chính phủ); nội các; công việc mục vụ",
+    "coll": ["Ministry of Health", "Ministry of Defence", "Ministry of Foreign Affairs", "government ministry"]
+  },
+  "mode": {
+    "vi": "chế độ; cách thức; kiểu, mốt",
+    "coll": ["mode of transport", "safe mode", "sleep mode", "mode of operation", "switch modes"]
+  },
+  "info": {
+    "vi": "thông tin",
+    "coll": ["more info", "contact info", "for more info", "info session"]
+  },
+  "random": {
+    "vi": "ngẫu nhiên; tình cờ; kỳ quặc, chẳng đâu vào đâu",
+    "coll": ["random sample", "at random", "random number", "random selection", "completely random"]
+  },
+  "favourite": {
+    "vi": "yêu thích nhất; ưa chuộng; ưu ái",
+    "coll": ["favourite food", "my favourite song", "favourite colour", "personal favourite", "favourite place"]
+  },
+  "premier": {
+    "vi": "hàng đầu; thủ tướng; đứng đầu",
+    "coll": ["Premier League", "premier destination", "the French premier", "premier position"]
+  },
+  "combat": {
+    "vi": "chiến đấu; chống lại; trận giao tranh",
+    "coll": ["combat crime", "armed combat", "combat troops", "hand-to-hand combat", "combat climate change"]
+  },
+  "protein": {
+    "vi": "chất đạm; protein",
+    "coll": ["protein intake", "high in protein", "protein shake", "animal protein", "protein source"]
+  },
+  "haha": {
+    "vi": "ha ha (tiếng cười)",
+    "coll": ["haha, that's funny", "haha, just kidding", "haha no way", "haha yeah"]
+  },
+  "debut": {
+    "vi": "buổi ra mắt; sự trình làng; ra mắt lần đầu",
+    "coll": ["make one's debut", "debut album", "debut novel", "solo debut", "debut performance"]
+  },
+  "clinical": {
+    "vi": "lâm sàng; lạnh lùng, khách quan đến vô cảm",
+    "coll": ["clinical trial", "clinical practice", "clinical depression", "clinical study", "clinical setting"]
+  },
+  "semi": {
+    "vi": "trận bán kết; nhà liền kề; xe đầu kéo",
+    "coll": ["reach the semis", "win the semi", "knocked out in the semis", "the semi final"]
+  },
+  "porn": {
+    "vi": "phim khiêu dâm; nội dung khiêu dâm",
+    "coll": ["porn site", "porn industry", "watch porn", "food porn"]
+  },
+  "equivalent": {
+    "vi": "tương đương; vật tương đương",
+    "coll": ["equivalent to", "the equivalent of", "equivalent amount", "roughly equivalent", "equivalent value"]
+  },
+  "founder": {
+    "vi": "người sáng lập; chìm nghỉm; thất bại, đổ vỡ",
+    "coll": ["the founder of", "co-founder", "founder and CEO", "company founder", "startup founder"]
+  },
+  "infrastructure": {
+    "vi": "cơ sở hạ tầng",
+    "coll": ["infrastructure development", "IT infrastructure", "invest in infrastructure", "transport infrastructure"]
+  },
+  "ceo": {
+    "vi": "tổng giám đốc; giám đốc điều hành",
+    "coll": ["CEO of the company", "former CEO", "appoint a CEO", "CEO role", "chief executive officer"]
+  },
+  "respectively": {
+    "vi": "lần lượt; theo thứ tự tương ứng",
+    "coll": ["A and B respectively", "first and second respectively", "5% and 10% respectively"]
+  },
+  "enforcement": {
+    "vi": "sự thực thi; việc cưỡng chế",
+    "coll": ["law enforcement", "enforcement agency", "strict enforcement", "enforcement action", "enforcement of the law"]
+  },
+  "lieutenant": {
+    "vi": "trung úy; phó, cấp phó",
+    "coll": ["first lieutenant", "second lieutenant", "lieutenant colonel", "police lieutenant", "lieutenant general"]
+  },
+  "exposure": {
+    "vi": "sự tiếp xúc, phơi nhiễm; sự phơi bày; độ phơi sáng",
+    "coll": ["exposure to sunlight", "media exposure", "prolonged exposure", "risk exposure", "exposure time"]
+  },
+  "grounds": {
+    "vi": "lý do, căn cứ; khuôn viên; bã cà phê",
+    "coll": ["on the grounds that", "grounds for divorce", "school grounds", "coffee grounds", "reasonable grounds"]
+  },
+  "commissioner": {
+    "vi": "ủy viên; cao ủy; người đứng đầu một sở",
+    "coll": ["police commissioner", "European Commissioner", "high commissioner", "commissioner of police"]
+  },
+  "colonel": {
+    "vi": "đại tá",
+    "coll": ["lieutenant colonel", "retired colonel", "promoted to colonel", "colonel in the army"]
+  },
+  "vol": {
+    "vi": "tập, quyển (viết tắt của volume); âm lượng",
+    "coll": ["vol. 1", "see vol. 3", "vol. II", "vols. 1-3"]
+  },
+  "ownership": {
+    "vi": "quyền sở hữu; sự làm chủ; tinh thần trách nhiệm",
+    "coll": ["home ownership", "take ownership", "ownership of the company", "private ownership", "change of ownership"]
+  },
+  "congratulations": {
+    "vi": "xin chúc mừng; lời chúc mừng",
+    "coll": ["congratulations on your wedding", "many congratulations", "congratulations to the winner", "offer congratulations"]
+  },
+  "participants": {
+    "vi": "những người tham gia",
+    "coll": ["study participants", "all participants", "participants in the survey", "number of participants"]
+  },
+  "makeup": {
+    "vi": "đồ trang điểm; thành phần cấu tạo; sự tạo thành",
+    "coll": ["wear makeup", "put on makeup", "makeup artist", "makeup remover", "genetic makeup"]
+  },
+  "subsequent": {
+    "vi": "tiếp theo; sau đó",
+    "coll": ["subsequent years", "subsequent events", "in subsequent chapters", "subsequent to", "subsequent visits"]
+  },
+  "hence": {
+    "vi": "do đó; vì vậy; kể từ nay",
+    "coll": ["hence the name", "hence the term", "hence, we conclude", "two years hence"]
+  },
+  "whilst": {
+    "vi": "trong khi; trong lúc; mặc dù",
+    "coll": ["whilst waiting", "whilst driving", "whilst in London", "whilst it is true"]
+  },
+  "sixth": {
+    "vi": "thứ sáu; một phần sáu",
+    "coll": ["sixth form", "sixth sense", "sixth grade", "sixth place", "the sixth of June"]
+  },
+  "amendment": {
+    "vi": "sửa đổi, bổ sung; tu chính án",
+    "coll": ["constitutional amendment", "First Amendment", "propose an amendment", "amendment to the bill", "pass an amendment"]
+  },
+  "defensive": {
+    "vi": "phòng thủ; phòng vệ; hay tự ái, thủ thế",
+    "coll": ["defensive strategy", "get defensive", "defensive player", "on the defensive", "defensive position"]
+  },
+  "forum": {
+    "vi": "diễn đàn; nơi thảo luận",
+    "coll": ["online forum", "discussion forum", "public forum", "forum for debate", "internet forum"]
+  },
+  "legacy": {
+    "vi": "di sản; tài sản thừa kế; (hệ thống) đời cũ",
+    "coll": ["leave a legacy", "lasting legacy", "legacy system", "cultural legacy", "legacy of the war"]
+  },
+  "ratio": {
+    "vi": "tỷ lệ; tỉ số",
+    "coll": ["the ratio of", "debt-to-income ratio", "high ratio", "male-to-female ratio", "in a ratio of 2:1"]
+  },
+  "removal": {
+    "vi": "sự loại bỏ; việc di dời; sự cách chức",
+    "coll": ["removal of the tumour", "hair removal", "stain removal", "removal from office", "waste removal"]
+  },
+  "representation": {
+    "vi": "sự đại diện; sự thể hiện; hình ảnh phản ánh",
+    "coll": ["legal representation", "fair representation", "visual representation", "proportional representation", "representation of women"]
+  },
+  "upcoming": {
+    "vi": "sắp tới; sắp diễn ra",
+    "coll": ["upcoming event", "upcoming election", "upcoming album", "upcoming season", "upcoming week"]
+  },
+  "density": {
+    "vi": "mật độ; tỷ trọng",
+    "coll": ["population density", "high density", "bone density", "low density", "density of the material"]
+  },
+  "constitutional": {
+    "vi": "thuộc hiến pháp; hợp hiến; bẩm sinh, thuộc thể chất",
+    "coll": ["constitutional right", "constitutional amendment", "constitutional court", "constitutional crisis", "constitutional reform"]
+  },
+  "premium": {
+    "vi": "cao cấp; phí bảo hiểm; khoản phụ trội",
+    "coll": ["premium quality", "insurance premium", "pay a premium", "premium price", "at a premium"]
+  },
+  "pregnancy": {
+    "vi": "thai kỳ; sự mang thai",
+    "coll": ["during pregnancy", "unplanned pregnancy", "pregnancy test", "teenage pregnancy", "ectopic pregnancy"]
+  },
+  "diversity": {
+    "vi": "sự đa dạng; tính phong phú",
+    "coll": ["cultural diversity", "biological diversity", "diversity and inclusion", "greater diversity", "diversity of opinion"]
+  },
+  "communist": {
+    "vi": "cộng sản; người cộng sản",
+    "coll": ["Communist Party", "communist regime", "communist state", "communist ideology", "former communist"]
+  },
+  "ongoing": {
+    "vi": "đang diễn ra; liên tục, chưa kết thúc",
+    "coll": ["ongoing process", "ongoing investigation", "ongoing debate", "ongoing support", "ongoing relationship"]
+  },
+  "domain": {
+    "vi": "lĩnh vực; phạm vi; tên miền",
+    "coll": ["public domain", "domain name", "in the domain of", "domain expertise", "domain knowledge"]
+  },
+  "triple": {
+    "vi": "gấp ba; tăng gấp ba; bộ ba",
+    "coll": ["triple the amount", "triple jump", "triple threat", "triple digits", "triple in size"]
+  },
+  "implementation": {
+    "vi": "sự triển khai; việc thực thi",
+    "coll": ["implementation of the plan", "successful implementation", "policy implementation", "implementation phase", "full implementation"]
+  },
+  "footage": {
+    "vi": "đoạn phim; cảnh quay",
+    "coll": ["video footage", "CCTV footage", "archive footage", "raw footage", "security footage"]
+  },
+  "goodbye": {
+    "vi": "tạm biệt; lời chia tay",
+    "coll": ["say goodbye", "wave goodbye", "kiss goodbye", "final goodbye", "goodbye party"]
+  },
+  "petition": {
+    "vi": "đơn thỉnh nguyện; đơn kiến nghị; thỉnh cầu",
+    "coll": ["sign a petition", "online petition", "file a petition", "petition for divorce", "launch a petition"]
+  },
+  "collective": {
+    "vi": "tập thể; nhóm làm chung; hợp tác xã",
+    "coll": ["collective farm", "an artists' collective", "workers' collective", "a design collective"]
+  },
+  "sacrifice": {
+    "vi": "sự hy sinh; hy sinh; vật tế lễ",
+    "coll": ["make sacrifices", "sacrifice everything", "human sacrifice", "the ultimate sacrifice", "sacrifice for the family"]
+  },
+  "carrier": {
+    "vi": "hãng vận chuyển; người mang mầm bệnh; tàu sân bay",
+    "coll": ["aircraft carrier", "carrier of the disease", "national carrier", "low-cost carrier", "mail carrier"]
+  },
+  "distinct": {
+    "vi": "khác biệt; rõ rệt, rõ ràng",
+    "coll": ["distinct from", "distinct advantage", "distinct difference", "distinct possibility", "clearly distinct"]
+  },
+  "dialogue": {
+    "vi": "đối thoại; lời thoại; cuộc trao đổi",
+    "coll": ["open dialogue", "constructive dialogue", "dialogue between", "engage in dialogue", "dialogue in the film"]
+  },
+  "default": {
+    "vi": "mặc định; sự vỡ nợ; không thực hiện nghĩa vụ",
+    "coll": ["by default", "default setting", "default value", "default on a loan", "default option"]
+  },
+  "framework": {
+    "vi": "khuôn khổ; khung sườn; nền tảng lập trình",
+    "coll": ["legal framework", "theoretical framework", "within the framework of", "conceptual framework", "regulatory framework"]
+  },
+  "franchise": {
+    "vi": "nhượng quyền; cửa hàng nhượng quyền; loạt phim ăn khách",
+    "coll": ["fast-food franchise", "franchise agreement", "buy a franchise", "film franchise", "franchise owner"]
+  },
+  "con": {
+    "vi": "lừa đảo; điểm bất lợi; tù nhân",
+    "coll": ["pros and cons", "con man", "con artist", "con someone out of money", "ex-con"]
+  },
+  "collaboration": {
+    "vi": "sự hợp tác; tác phẩm hợp tác",
+    "coll": ["close collaboration", "in collaboration with", "collaboration between", "international collaboration", "collaboration tool"]
+  },
+  "dual": {
+    "vi": "kép; hai, đôi; hai mặt",
+    "coll": ["dual citizenship", "dual role", "dual purpose", "dual nationality", "dual carriageway"]
+  },
+  "experimental": {
+    "vi": "thử nghiệm; thực nghiệm; mang tính thí nghiệm",
+    "coll": ["experimental design", "experimental group", "experimental treatment", "experimental data", "experimental music"]
+  },
+  "corps": {
+    "vi": "quân đoàn; đoàn, đội",
+    "coll": ["Marine Corps", "press corps", "diplomatic corps", "Peace Corps", "corps of engineers"]
+  },
+  "mechanism": {
+    "vi": "cơ chế; bộ máy, cơ cấu",
+    "coll": ["defence mechanism", "coping mechanism", "mechanism of action", "market mechanism", "control mechanism"]
+  },
+  "quest": {
+    "vi": "cuộc tìm kiếm; hành trình truy tìm; truy tìm",
+    "coll": ["quest for knowledge", "in quest of", "quest for power", "embark on a quest", "side quest"]
+  },
+  "parallel": {
+    "vi": "song song; tương đồng; điểm tương đồng",
+    "coll": ["parallel lines", "in parallel", "draw a parallel", "parallel universe", "parallel to"]
+  },
+  "auction": {
+    "vi": "đấu giá; bán đấu giá",
+    "coll": ["auction house", "put up for auction", "online auction", "charity auction", "auction off"]
+  },
+  "anime": {
+    "vi": "phim hoạt hình Nhật; phong cách anime",
+    "coll": ["anime series", "watch anime", "anime fan", "anime convention", "anime style"]
+  },
+  "spectrum": {
+    "vi": "dải, phạm vi; quang phổ; phổ tự kỷ",
+    "coll": ["broad spectrum", "across the spectrum", "political spectrum", "electromagnetic spectrum", "autism spectrum"]
+  },
+  "conspiracy": {
+    "vi": "âm mưu; sự thông đồng",
+    "coll": ["conspiracy theory", "criminal conspiracy", "conspiracy to commit murder", "government conspiracy", "hatch a conspiracy"]
+  },
+  "mainstream": {
+    "vi": "chính thống; phổ biến rộng rãi; dòng chính",
+    "coll": ["mainstream media", "mainstream culture", "enter the mainstream", "mainstream audience", "mainstream society"]
+  },
+  "worn-out": {
+    "vi": "cũ nát, sờn rách; kiệt sức; nhàm, sáo mòn",
+    "coll": ["worn-out shoes", "worn-out tyres", "worn-out clothes", "feel worn-out", "a worn-out excuse"]
+  },
+  "intervention": {
+    "vi": "sự can thiệp",
+    "coll": ["military intervention", "government intervention", "medical intervention", "early intervention", "surgical intervention"]
+  },
+  "seventh": {
+    "vi": "thứ bảy; một phần bảy",
+    "coll": ["seventh grade", "seventh heaven", "seventh place", "seventh floor", "the seventh of May"]
+  },
+  "tribute": {
+    "vi": "sự tri ân; lời tưởng nhớ; cống phẩm",
+    "coll": ["pay tribute to", "tribute band", "floral tribute", "a fitting tribute", "tribute concert"]
+  },
+  "isolated": {
+    "vi": "biệt lập, hẻo lánh; đơn lẻ, cá biệt; bị cô lập",
+    "coll": ["isolated incident", "isolated village", "feel isolated", "isolated case", "socially isolated"]
+  },
+  "suspension": {
+    "vi": "sự đình chỉ; hệ thống treo (xe); huyền phù",
+    "coll": ["suspension from school", "suspension bridge", "a two-game suspension", "car suspension", "suspension of the licence"]
+  },
+  "abortion": {
+    "vi": "sự phá thai; ca nạo phá thai",
+    "coll": ["have an abortion", "abortion rights", "abortion clinic", "legal abortion", "abortion law"]
+  },
+  "democrat": {
+    "vi": "đảng viên Dân chủ; người theo chế độ dân chủ",
+    "coll": ["Democrat candidate", "leading Democrat", "Democrat senator", "social democrat", "Democrat voters"]
+  },
+  "warrant": {
+    "vi": "lệnh của tòa án; biện minh, đáng để; sự bảo đảm",
+    "coll": ["arrest warrant", "search warrant", "issue a warrant", "warrant further investigation", "warrant officer"]
+  },
+  "municipal": {
+    "vi": "thuộc thành phố; của chính quyền địa phương",
+    "coll": ["municipal government", "municipal council", "municipal elections", "municipal services", "municipal waste"]
+  },
+  "consistently": {
+    "vi": "nhất quán; đều đặn, liên tục",
+    "coll": ["consistently high", "consistently good", "consistently apply", "perform consistently", "consistently ranked"]
+  },
+  "dominant": {
+    "vi": "chiếm ưu thế; thống trị; trội (gen)",
+    "coll": ["dominant position", "dominant force", "dominant gene", "dominant player", "become dominant"]
+  }
+}

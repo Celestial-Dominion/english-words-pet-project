@@ -1,0 +1,402 @@
+{
+  "impractical": {
+    "vi": "không thực tế; không khả thi; thiếu thực tế",
+    "coll": ["an impractical solution", "an impractical idea", "highly impractical", "impractical to implement"]
+  },
+  "predicament": {
+    "vi": "tình thế khó xử; cảnh khó khăn",
+    "coll": ["in a predicament", "a difficult predicament", "find oneself in a predicament", "get out of a predicament"]
+  },
+  "puzzled": {
+    "vi": "bối rối; hoang mang; khó hiểu",
+    "coll": ["look puzzled", "a puzzled expression", "puzzled by the question", "seem puzzled"]
+  },
+  "recollection": {
+    "vi": "ký ức; sự nhớ lại; hồi tưởng",
+    "coll": ["to the best of my recollection", "a vivid recollection", "have no recollection of", "childhood recollections"]
+  },
+  "rosy": {
+    "vi": "hồng hào; tươi sáng; lạc quan",
+    "coll": ["rosy cheeks", "a rosy future", "paint a rosy picture", "a rosy outlook"]
+  },
+  "shabby": {
+    "vi": "tồi tàn; xuềnh xoàng; tệ bạc",
+    "coll": ["shabby clothes", "a shabby room", "look shabby", "shabby treatment"]
+  },
+  "adversely": {
+    "vi": "một cách bất lợi; theo hướng xấu",
+    "coll": ["adversely affect", "adversely impact", "be adversely affected by", "adversely influenced"]
+  },
+  "astonished": {
+    "vi": "kinh ngạc; sửng sốt",
+    "coll": ["be astonished at", "astonished to hear", "look astonished", "utterly astonished"]
+  },
+  "impulsive": {
+    "vi": "bốc đồng; hấp tấp; theo cảm hứng",
+    "coll": ["impulsive behaviour", "an impulsive decision", "impulsive buying", "impulsive by nature"]
+  },
+  "incense": {
+    "vi": "hương, nhang; khói hương; chọc tức",
+    "coll": ["burn incense", "incense sticks", "the smell of incense", "an incense burner"]
+  },
+  "nervously": {
+    "vi": "một cách lo lắng; bồn chồn",
+    "coll": ["laugh nervously", "smile nervously", "glance nervously at", "wait nervously"]
+  },
+  "polio": {
+    "vi": "bệnh bại liệt",
+    "coll": ["the polio vaccine", "contract polio", "a polio epidemic", "eradicate polio"]
+  },
+  "serene": {
+    "vi": "thanh thản; yên bình; điềm tĩnh",
+    "coll": ["a serene smile", "serene beauty", "remain serene", "a serene landscape"]
+  },
+  "sob": {
+    "vi": "khóc nức nở; tiếng nấc",
+    "coll": ["sob quietly", "burst into sobs", "sob uncontrollably", "a sob story"]
+  },
+  "straighten": {
+    "vi": "làm thẳng; sửa cho ngay ngắn; dọn dẹp",
+    "coll": ["straighten your back", "straighten his tie", "straighten the room", "straighten up"]
+  },
+  "unsuitable": {
+    "vi": "không phù hợp; không thích hợp",
+    "coll": ["unsuitable for children", "an unsuitable candidate", "totally unsuitable", "unsuitable clothing"]
+  },
+  "culmination": {
+    "vi": "đỉnh điểm; kết quả cuối cùng",
+    "coll": ["the culmination of years of work", "reach a culmination", "the culmination of his career", "the culmination of the process"]
+  },
+  "decomposition": {
+    "vi": "sự phân hủy; sự phân tách",
+    "coll": ["the decomposition of organic matter", "the rate of decomposition", "in a state of decomposition", "matrix decomposition"]
+  },
+  "electrician": {
+    "vi": "thợ điện",
+    "coll": ["a qualified electrician", "call an electrician", "hire an electrician", "a licensed electrician"]
+  },
+  "eternally": {
+    "vi": "mãi mãi; đời đời; luôn luôn",
+    "coll": ["eternally grateful", "eternally young", "eternally optimistic", "eternally indebted"]
+  },
+  "forcefully": {
+    "vi": "một cách mạnh mẽ; kiên quyết",
+    "coll": ["argue forcefully", "speak forcefully", "forcefully reject", "push forcefully"]
+  },
+  "godly": {
+    "vi": "mộ đạo; sùng đạo; ngoan đạo",
+    "coll": ["a godly man", "a godly life", "godly wisdom", "godly living"]
+  },
+  "hover": {
+    "vi": "bay lơ lửng; lượn lờ; quanh quẩn",
+    "coll": ["hover in the air", "a helicopter hovered", "hover over a link", "hover nearby"]
+  },
+  "maestro": {
+    "vi": "nhạc trưởng; bậc thầy",
+    "coll": ["a jazz maestro", "the great maestro", "the maestro conducted", "a maestro of the violin"]
+  },
+  "microscopy": {
+    "vi": "kỹ thuật hiển vi; phép soi kính hiển vi",
+    "coll": ["electron microscopy", "light microscopy", "fluorescence microscopy", "microscopy techniques"]
+  },
+  "olympia": {
+    "vi": "Olympia (thành cổ Hy Lạp); thủ phủ bang Washington",
+    "coll": ["ancient Olympia", "the ruins of Olympia", "the games at Olympia", "Olympia, Washington"]
+  },
+  "orchestral": {
+    "vi": "thuộc dàn nhạc; dành cho dàn nhạc",
+    "coll": ["orchestral music", "an orchestral arrangement", "an orchestral score", "an orchestral performance"]
+  },
+  "worldview": {
+    "vi": "thế giới quan; cách nhìn đời",
+    "coll": ["a religious worldview", "shape one's worldview", "a different worldview", "challenge someone's worldview"]
+  },
+  "attractiveness": {
+    "vi": "sự hấp dẫn; sức thu hút",
+    "coll": ["physical attractiveness", "the attractiveness of the offer", "increase the attractiveness of", "rate the attractiveness"]
+  },
+  "bony": {
+    "vi": "gầy giơ xương; nhiều xương; thuộc xương",
+    "coll": ["bony fingers", "bony shoulders", "a bony fish", "the bony structure"]
+  },
+  "carbon monoxide": {
+    "vi": "khí CO; khí cacbon monoxit",
+    "coll": ["carbon monoxide poisoning", "a carbon monoxide detector", "carbon monoxide emissions", "levels of carbon monoxide"]
+  },
+  "dependable": {
+    "vi": "đáng tin cậy; chắc chắn",
+    "coll": ["a dependable friend", "a dependable source", "dependable service", "reliable and dependable"]
+  },
+  "enthusiastically": {
+    "vi": "một cách hào hứng; nhiệt tình",
+    "coll": ["nod enthusiastically", "applaud enthusiastically", "respond enthusiastically", "enthusiastically welcomed"]
+  },
+  "guideline": {
+    "vi": "hướng dẫn; nguyên tắc chỉ đạo",
+    "coll": ["follow the guidelines", "issue guidelines", "safety guidelines", "clear guidelines"]
+  },
+  "inference": {
+    "vi": "sự suy luận; kết luận suy ra",
+    "coll": ["draw an inference", "make inferences", "logical inference", "based on inference"]
+  },
+  "judo": {
+    "vi": "võ judo; nhu đạo",
+    "coll": ["practise judo", "a judo club", "a judo throw", "a black belt in judo"]
+  },
+  "pessimistic": {
+    "vi": "bi quan; yếm thế",
+    "coll": ["a pessimistic view", "pessimistic about the future", "deeply pessimistic", "a pessimistic outlook"]
+  },
+  "sag": {
+    "vi": "võng xuống; chảy xệ; sụt giảm",
+    "coll": ["sag in the middle", "the roof sags", "his shoulders sagged", "sagging skin"]
+  },
+  "tabloid": {
+    "vi": "báo lá cải; kiểu báo lá cải",
+    "coll": ["a tabloid newspaper", "the tabloid press", "tabloid journalism", "tabloid headlines"]
+  },
+  "widen": {
+    "vi": "mở rộng; nới rộng; giãn ra",
+    "coll": ["widen the road", "widen the gap", "her eyes widened", "widen your horizons"]
+  },
+  "appreciative": {
+    "vi": "biết ơn; tán thưởng; trân trọng",
+    "coll": ["an appreciative audience", "appreciative of the help", "an appreciative smile", "deeply appreciative"]
+  },
+  "eastward": {
+    "vi": "về phía đông; hướng đông",
+    "coll": ["head eastward", "travel eastward", "an eastward direction", "eastward expansion"]
+  },
+  "kneel": {
+    "vi": "quỳ; quỳ gối",
+    "coll": ["kneel down", "kneel in prayer", "kneel before the altar", "kneel on the floor"]
+  },
+  "quantify": {
+    "vi": "định lượng; đo bằng con số",
+    "coll": ["difficult to quantify", "quantify the risk", "quantify the impact", "quantify the benefits"]
+  },
+  "revolve": {
+    "vi": "quay quanh; xoay tròn; xoay quanh (chủ đề)",
+    "coll": ["revolve around the sun", "the plot revolves around", "revolve on an axis", "his life revolves around work"]
+  },
+  "stepfather": {
+    "vi": "cha dượng; bố dượng",
+    "coll": ["her stepfather", "live with a stepfather", "a good stepfather", "his stepfather raised him"]
+  },
+  "tenderness": {
+    "vi": "sự dịu dàng; sự đau khi chạm vào",
+    "coll": ["treat with tenderness", "a moment of tenderness", "love and tenderness", "abdominal tenderness"]
+  },
+  "tickle": {
+    "vi": "cù; làm nhột; cảm giác nhồn nhột",
+    "coll": ["tickle a baby", "tickle someone's feet", "a tickle in my throat", "tickle your fancy"]
+  },
+  "unload": {
+    "vi": "dỡ hàng; trút bỏ; tháo đạn",
+    "coll": ["unload the truck", "unload the cargo", "unload the dishwasher", "unload a gun"]
+  },
+  "dreamy": {
+    "vi": "mơ màng; như mơ; đẹp như mơ",
+    "coll": ["a dreamy look", "dreamy eyes", "a dreamy atmosphere", "dreamy music"]
+  },
+  "lifeless": {
+    "vi": "không có sự sống; bất động; vô hồn",
+    "coll": ["a lifeless body", "a lifeless planet", "lie lifeless", "a lifeless performance"]
+  },
+  "subtitle": {
+    "vi": "phụ đề; tiêu đề phụ",
+    "coll": ["with English subtitles", "turn on the subtitles", "read the subtitles", "subtitles for the deaf"]
+  },
+  "alphabetical": {
+    "vi": "theo thứ tự chữ cái; thuộc bảng chữ cái",
+    "coll": ["in alphabetical order", "an alphabetical list", "an alphabetical index", "alphabetical arrangement"]
+  },
+  "clam": {
+    "vi": "con nghêu; con ngao (sò)",
+    "coll": ["clam chowder", "dig for clams", "steamed clams", "clam up"]
+  },
+  "craftsman": {
+    "vi": "thợ thủ công; nghệ nhân",
+    "coll": ["a skilled craftsman", "a master craftsman", "local craftsmen", "the craftsman's skill"]
+  },
+  "cripple": {
+    "vi": "người tàn tật (cũ); làm tê liệt; làm què",
+    "coll": ["cripple the economy", "be crippled by debt", "crippled with arthritis", "cripple an industry"]
+  },
+  "misconception": {
+    "vi": "quan niệm sai lầm; sự hiểu lầm",
+    "coll": ["a common misconception", "clear up a misconception", "a popular misconception", "a widespread misconception"]
+  },
+  "momentarily": {
+    "vi": "trong chốc lát; ngay lát nữa",
+    "coll": ["pause momentarily", "hesitate momentarily", "I'll be with you momentarily", "momentarily distracted"]
+  },
+  "narcissistic": {
+    "vi": "ái kỷ; tự yêu bản thân; tự cao tự đại",
+    "coll": ["narcissistic personality disorder", "narcissistic behaviour", "narcissistic tendencies", "a narcissistic person"]
+  },
+  "northward": {
+    "vi": "về phía bắc; hướng bắc",
+    "coll": ["head northward", "travel northward", "a northward direction", "move northward"]
+  },
+  "overturn": {
+    "vi": "lật đổ; lật úp; đảo ngược (phán quyết)",
+    "coll": ["overturn a decision", "overturn a verdict", "the car overturned", "overturn a government"]
+  },
+  "reverence": {
+    "vi": "sự tôn kính; lòng thành kính",
+    "coll": ["treat with reverence", "deep reverence", "reverence for nature", "show reverence"]
+  },
+  "shatter": {
+    "vi": "vỡ tan; đập vỡ; làm tan vỡ",
+    "coll": ["shatter the glass", "shatter into pieces", "shatter someone's dreams", "shatter the silence"]
+  },
+  "signify": {
+    "vi": "biểu thị; có nghĩa là; ra hiệu",
+    "coll": ["signify agreement", "signify a change", "signify the end of", "nod to signify"]
+  },
+  "thermometer": {
+    "vi": "nhiệt kế",
+    "coll": ["a digital thermometer", "read the thermometer", "a mercury thermometer", "the thermometer reads"]
+  },
+  "achievable": {
+    "vi": "có thể đạt được; khả thi",
+    "coll": ["an achievable goal", "realistic and achievable", "easily achievable", "achievable targets"]
+  },
+  "aristocracy": {
+    "vi": "tầng lớp quý tộc; chế độ quý tộc",
+    "coll": ["the landed aristocracy", "a member of the aristocracy", "the French aristocracy", "the ruling aristocracy"]
+  },
+  "cardigan": {
+    "vi": "áo len cài khuy; áo cardigan",
+    "coll": ["wear a cardigan", "a woollen cardigan", "button up a cardigan", "a knitted cardigan"]
+  },
+  "eloquent": {
+    "vi": "hùng hồn; lưu loát; giàu sức thuyết phục",
+    "coll": ["an eloquent speech", "an eloquent speaker", "eloquent testimony", "an eloquent defence"]
+  },
+  "generalization": {
+    "vi": "sự khái quát hóa; điều khái quát",
+    "coll": ["make a generalization", "a sweeping generalization", "a broad generalization", "avoid generalizations"]
+  },
+  "indebted": {
+    "vi": "mắc nợ; hàm ơn; biết ơn",
+    "coll": ["deeply indebted to", "heavily indebted countries", "be indebted for", "forever indebted"]
+  },
+  "mover": {
+    "vi": "người chuyển nhà thuê; người khởi xướng",
+    "coll": ["hire movers", "a professional mover", "movers and shakers", "a prime mover"]
+  },
+  "outback": {
+    "vi": "vùng hoang vu nội địa Úc",
+    "coll": ["the Australian outback", "in the outback", "outback towns", "cross the outback"]
+  },
+  "pave": {
+    "vi": "lát (đường); trải nhựa",
+    "coll": ["pave the way for", "pave a road", "a paved street", "pave with stones"]
+  },
+  "skateboard": {
+    "vi": "ván trượt; trượt ván",
+    "coll": ["ride a skateboard", "a skateboard park", "fall off a skateboard", "skateboard tricks"]
+  },
+  "tramp": {
+    "vi": "kẻ lang thang; lê bước nặng nhọc; tiếng chân thình thịch",
+    "coll": ["a homeless tramp", "tramp through the snow", "tramp the streets", "the tramp of feet"]
+  },
+  "transistor": {
+    "vi": "bóng bán dẫn; transistor",
+    "coll": ["a transistor radio", "silicon transistors", "a transistor circuit", "millions of transistors"]
+  },
+  "deforestation": {
+    "vi": "nạn phá rừng; sự phá rừng",
+    "coll": ["large-scale deforestation", "the rate of deforestation", "prevent deforestation", "deforestation of the Amazon"]
+  },
+  "distressing": {
+    "vi": "gây đau buồn; đáng lo ngại",
+    "coll": ["a distressing experience", "deeply distressing", "distressing news", "a distressing sight"]
+  },
+  "fondly": {
+    "vi": "một cách trìu mến; đầy hoài niệm",
+    "coll": ["remember fondly", "smile fondly", "look fondly at", "fondly recall"]
+  },
+  "germ": {
+    "vi": "vi trùng; mầm bệnh; mầm mống",
+    "coll": ["spread germs", "kill germs", "the germ of an idea", "germ warfare"]
+  },
+  "legislator": {
+    "vi": "nhà lập pháp; nghị sĩ",
+    "coll": ["state legislators", "elected legislators", "legislators voted", "urge legislators"]
+  },
+  "amaze": {
+    "vi": "làm kinh ngạc; làm sửng sốt",
+    "coll": ["never cease to amaze me", "amaze the audience", "it amazes me that", "continue to amaze"]
+  },
+  "carefree": {
+    "vi": "vô tư lự; thảnh thơi; hồn nhiên",
+    "coll": ["a carefree life", "carefree days", "a carefree attitude", "young and carefree"]
+  },
+  "exaggerate": {
+    "vi": "phóng đại; cường điệu; nói quá",
+    "coll": ["exaggerate the problem", "grossly exaggerate", "tend to exaggerate", "exaggerate the risks"]
+  },
+  "furiously": {
+    "vi": "một cách giận dữ; điên cuồng",
+    "coll": ["work furiously", "argue furiously", "shake his head furiously", "scribble furiously"]
+  },
+  "motorbike": {
+    "vi": "xe máy; xe mô tô",
+    "coll": ["ride a motorbike", "a motorbike accident", "get on a motorbike", "a motorbike helmet"]
+  },
+  "obedient": {
+    "vi": "vâng lời; ngoan ngoãn; phục tùng",
+    "coll": ["an obedient child", "an obedient dog", "obedient to orders", "blindly obedient"]
+  },
+  "paramedic": {
+    "vi": "nhân viên cấp cứu; nhân viên y tế cứu thương",
+    "coll": ["a trained paramedic", "paramedics arrived at the scene", "call a paramedic", "a paramedic team"]
+  },
+  "redo": {
+    "vi": "làm lại; sửa lại; thao tác làm lại",
+    "coll": ["redo the work", "redo a room", "undo and redo", "redo the calculation"]
+  },
+  "rejoin": {
+    "vi": "gia nhập lại; quay lại với",
+    "coll": ["rejoin the team", "rejoin the group", "rejoin the party", "rejoin the workforce"]
+  },
+  "barometer": {
+    "vi": "phong vũ biểu; thước đo (xu hướng)",
+    "coll": ["a barometer of public opinion", "the barometer is falling", "a reliable barometer", "an economic barometer"]
+  },
+  "bruise": {
+    "vi": "vết bầm tím; làm bầm tím",
+    "coll": ["a nasty bruise", "get a bruise", "bruise easily", "cuts and bruises"]
+  },
+  "delicacy": {
+    "vi": "món đặc sản; sự tinh tế; sự nhạy cảm",
+    "coll": ["a local delicacy", "a rare delicacy", "handle with delicacy", "a matter of great delicacy"]
+  },
+  "demolish": {
+    "vi": "phá dỡ; đập bỏ; bác bỏ",
+    "coll": ["demolish a building", "demolish the old house", "demolish an argument", "be demolished"]
+  },
+  "foresee": {
+    "vi": "thấy trước; dự đoán trước",
+    "coll": ["foresee problems", "could not have foreseen", "foresee the future", "foresee difficulties"]
+  },
+  "frantically": {
+    "vi": "một cách cuống cuồng; điên cuồng",
+    "coll": ["search frantically", "wave frantically", "work frantically", "frantically trying to help"]
+  },
+  "snowball": {
+    "vi": "quả cầu tuyết; tăng nhanh mất kiểm soát",
+    "coll": ["throw a snowball", "a snowball fight", "the snowball effect", "costs snowballed"]
+  },
+  "tulip": {
+    "vi": "hoa tulip; hoa uất kim hương",
+    "coll": ["a bunch of tulips", "tulip bulbs", "red tulips", "tulip fields"]
+  },
+  "unbeatable": {
+    "vi": "không thể đánh bại; vô địch; khó ai bì",
+    "coll": ["an unbeatable team", "unbeatable prices", "an unbeatable combination", "virtually unbeatable"]
+  }
+}

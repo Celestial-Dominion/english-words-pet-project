@@ -1,0 +1,143 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  /* Font hệ thống (VN + Latin), không tải font ngoài — offline-first. */
+  --font-sans:
+    system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    "Noto Sans", sans-serif;
+  --font-mono:
+    ui-monospace, "SF Mono", "Cascadia Code", "Roboto Mono", Menlo, Consolas, monospace;
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-3xl: calc(var(--radius) * 2.2);
+}
+
+:root {
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  /* Đỏ rượu vang Bordeaux làm màu chủ đạo (hue ~18) — nhận diện riêng, khác app HSK (xanh). */
+  --primary: oklch(0.48 0.17 255);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0.006 18);
+  --secondary-foreground: oklch(0.32 0.06 18);
+  --muted: oklch(0.968 0.005 18);
+  --muted-foreground: oklch(0.55 0.02 18);
+  --accent: oklch(0.95 0.02 18);
+  --accent-foreground: oklch(0.32 0.08 18);
+  --destructive: oklch(0.6 0.22 40);
+  --border: oklch(0.92 0.008 18);
+  --input: oklch(0.92 0.008 18);
+  --ring: oklch(0.48 0.17 255);
+  --radius: 0.7rem;
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.66 0.15 255);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.27 0.02 18);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.27 0.015 18);
+  --muted-foreground: oklch(0.72 0.02 18);
+  --accent: oklch(0.3 0.03 18);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.72 0.19 42);
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 16%);
+  --ring: oklch(0.66 0.15 255);
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+  /* Cỡ chữ nền lớn hơn mặc định trình duyệt (giống app HSK) — mọi cỡ text-* theo rem
+     nên toàn app to & dễ đọc hơn. 20px mobile, 21px từ md trở lên. */
+  html {
+    font-size: 20px;
+    -webkit-tap-highlight-color: transparent;
+    scroll-behavior: smooth;
+    overscroll-behavior-y: none;
+  }
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    -webkit-font-smoothing: antialiased;
+    overscroll-behavior-y: none;
+  }
+  h1,
+  h2,
+  h3 {
+    letter-spacing: -0.015em;
+  }
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 21px;
+  }
+}
+
+/* Khoá cuộn nền khi đang trong phiên học/ôn hoặc mở sheet (mobile). */
+body.studying-lock {
+  overflow: hidden;
+}
+
+/* Chế độ tập trung khi đang trong phiên học/ôn (như HSK):
+   ẩn bottom-nav, thu padding main để khung phiên chiếm trọn phần dưới topbar. */
+body.studying #bottom-nav {
+  display: none;
+}
+@media (max-width: 767px) {
+  body.studying main {
+    padding-bottom: 0;
+  }
+  /* ẩn scrollbar trong phiên trên mobile cho gọn */
+  body.studying *::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+/* Thanh đếm giờ "tự chuyển khi đúng" trên nút Tiếp tục (phiên ôn). */
+@keyframes aaFill {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}

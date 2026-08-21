@@ -1,0 +1,815 @@
+[
+ {
+  "id": "ancestral",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc tổ tiên; của cha ông",
+  "coll": [
+   "ancestral home",
+   "ancestral lands",
+   "ancestral worship",
+   "ancestral roots"
+  ]
+ },
+ {
+  "id": "pendant",
+  "pos": [
+   "n"
+  ],
+  "vi": "mặt dây chuyền; đèn thả trần",
+  "coll": [
+   "a silver pendant",
+   "a pendant necklace",
+   "a pendant light",
+   "wear a pendant"
+  ]
+ },
+ {
+  "id": "pimp",
+  "pos": [
+   "n",
+   "v",
+   "adj",
+   "num"
+  ],
+  "vi": "kẻ ma cô; dắt gái; độ, làm hoành tráng",
+  "coll": [
+   "a pimp and his prostitutes",
+   "act as a pimp",
+   "pimp my ride",
+   "pimp out a car"
+  ]
+ },
+ {
+  "id": "lagoon",
+  "pos": [
+   "n"
+  ],
+  "vi": "đầm phá; vũng nước ven biển",
+  "coll": [
+   "a blue lagoon",
+   "a coral lagoon",
+   "a shallow lagoon",
+   "a sewage lagoon"
+  ]
+ },
+ {
+  "id": "whack",
+  "pos": [
+   "v",
+   "adj"
+  ],
+  "vi": "đánh mạnh; thủ tiêu; dở tệ (lóng)",
+  "coll": [
+   "whack someone on the head",
+   "take a whack at",
+   "out of whack",
+   "whack it with a stick"
+  ]
+ },
+ {
+  "id": "pouch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "túi nhỏ; túi da (thú có túi)",
+  "coll": [
+   "a kangaroo's pouch",
+   "a tobacco pouch",
+   "a zip pouch",
+   "a resealable pouch"
+  ]
+ },
+ {
+  "id": "mundane",
+  "pos": [
+   "n"
+  ],
+  "vi": "tầm thường, đời thường; tẻ nhạt, nhàm chán",
+  "coll": [
+   "mundane tasks",
+   "the mundane world",
+   "a mundane job",
+   "mundane details"
+  ]
+ },
+ {
+  "id": "enact",
+  "pos": [
+   "v"
+  ],
+  "vi": "ban hành (luật); diễn lại, thực thi",
+  "coll": [
+   "enact legislation",
+   "enact a law",
+   "enact reforms",
+   "enact a scene"
+  ]
+ },
+ {
+  "id": "collusion",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thông đồng; sự cấu kết",
+  "coll": [
+   "in collusion with",
+   "price collusion",
+   "evidence of collusion",
+   "secret collusion"
+  ]
+ },
+ {
+  "id": "sire",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thưa bệ hạ; con đực bố; sinh ra (con)",
+  "coll": [
+   "yes, sire",
+   "sire an heir",
+   "the sire of the foal",
+   "a champion sire"
+  ]
+ },
+ {
+  "id": "bleak",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ảm đạm; u ám, hoang vắng",
+  "coll": [
+   "a bleak future",
+   "a bleak outlook",
+   "bleak landscape",
+   "look bleak"
+  ]
+ },
+ {
+  "id": "deterioration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự suy thoái; sự xuống cấp",
+  "coll": [
+   "rapid deterioration",
+   "the deterioration of health",
+   "prevent deterioration",
+   "a marked deterioration"
+  ]
+ },
+ {
+  "id": "posterior",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "ở phía sau; mông; về sau",
+  "coll": [
+   "the posterior wall",
+   "posterior to the event",
+   "the posterior surface",
+   "posterior probability"
+  ]
+ },
+ {
+  "id": "grit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự gan lì, bền chí; sạn, cát nhỏ; nghiến (răng)",
+  "coll": [
+   "true grit",
+   "grit your teeth",
+   "a grain of grit",
+   "grit and determination"
+  ]
+ },
+ {
+  "id": "illegitimate",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "bất hợp pháp; con ngoài giá thú",
+  "coll": [
+   "an illegitimate child",
+   "an illegitimate government",
+   "illegitimate means",
+   "declared illegitimate"
+  ]
+ },
+ {
+  "id": "trough",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "máng ăn; đáy (chu kỳ, sóng)",
+  "coll": [
+   "a feeding trough",
+   "a water trough",
+   "peaks and troughs",
+   "hit the trough"
+  ]
+ },
+ {
+  "id": "manifestation",
+  "pos": [
+   "n"
+  ],
+  "vi": "biểu hiện; sự thể hiện ra",
+  "coll": [
+   "a clear manifestation",
+   "a physical manifestation",
+   "clinical manifestations",
+   "a manifestation of anger"
+  ]
+ },
+ {
+  "id": "chubby",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "mũm mĩm; bụ bẫm",
+  "coll": [
+   "chubby cheeks",
+   "a chubby baby",
+   "chubby fingers",
+   "get chubby"
+  ]
+ },
+ {
+  "id": "disbelief",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hoài nghi; sự không tin",
+  "coll": [
+   "in disbelief",
+   "shake your head in disbelief",
+   "suspend disbelief",
+   "utter disbelief"
+  ]
+ },
+ {
+  "id": "mildly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "nhẹ nhàng; hơi hơi, ở mức nhẹ",
+  "coll": [
+   "to put it mildly",
+   "mildly surprised",
+   "mildly amusing",
+   "mildly interested"
+  ]
+ },
+ {
+  "id": "insomnia",
+  "pos": [
+   "n"
+  ],
+  "vi": "chứng mất ngủ",
+  "coll": [
+   "suffer from insomnia",
+   "chronic insomnia",
+   "cure insomnia",
+   "insomnia symptoms"
+  ]
+ },
+ {
+  "id": "afro",
+  "pos": [
+   "n"
+  ],
+  "vi": "tóc xù kiểu Phi; kiểu tóc afro",
+  "coll": [
+   "a big afro",
+   "sport an afro",
+   "an afro hairstyle",
+   "an afro comb"
+  ]
+ },
+ {
+  "id": "relegation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xuống hạng; sự giáng cấp",
+  "coll": [
+   "avoid relegation",
+   "the relegation zone",
+   "face relegation",
+   "relegation battle"
+  ]
+ },
+ {
+  "id": "unjust",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bất công; không công bằng",
+  "coll": [
+   "an unjust law",
+   "unjust treatment",
+   "deeply unjust",
+   "an unjust war"
+  ]
+ },
+ {
+  "id": "appraisal",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đánh giá; việc định giá",
+  "coll": [
+   "a performance appraisal",
+   "a critical appraisal",
+   "an annual appraisal",
+   "a property appraisal"
+  ]
+ },
+ {
+  "id": "coroner",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhân viên điều tra tử vong; giám định viên pháp y",
+  "coll": [
+   "the coroner's report",
+   "a coroner's inquest",
+   "the county coroner",
+   "the coroner ruled"
+  ]
+ },
+ {
+  "id": "blender",
+  "pos": [
+   "v"
+  ],
+  "vi": "máy xay sinh tố; xay bằng máy",
+  "coll": [
+   "put it in a blender",
+   "an immersion blender",
+   "blend in a blender",
+   "a high-speed blender"
+  ]
+ },
+ {
+  "id": "lunatic",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "kẻ điên; điên rồ",
+  "coll": [
+   "a raving lunatic",
+   "the lunatic fringe",
+   "a lunatic asylum",
+   "drive someone lunatic"
+  ]
+ },
+ {
+  "id": "psychotic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "loạn thần; người bị loạn thần",
+  "coll": [
+   "a psychotic episode",
+   "a psychotic break",
+   "psychotic symptoms",
+   "a psychotic disorder"
+  ]
+ },
+ {
+  "id": "fortified",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "được gia cố, kiên cố; được bổ sung dưỡng chất",
+  "coll": [
+   "a fortified city",
+   "fortified wine",
+   "fortified with vitamins",
+   "a fortified position"
+  ]
+ },
+ {
+  "id": "horrendous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "kinh khủng; tồi tệ khủng khiếp",
+  "coll": [
+   "horrendous injuries",
+   "a horrendous mistake",
+   "horrendous traffic",
+   "absolutely horrendous"
+  ]
+ },
+ {
+  "id": "glossy",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bóng láng; hào nhoáng; tạp chí giấy bóng",
+  "coll": [
+   "glossy hair",
+   "a glossy finish",
+   "a glossy magazine",
+   "glossy photos"
+  ]
+ },
+ {
+  "id": "proficiency",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự thành thạo; trình độ thông thạo",
+  "coll": [
+   "language proficiency",
+   "a proficiency test",
+   "a high level of proficiency",
+   "demonstrate proficiency"
+  ]
+ },
+ {
+  "id": "torrent",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "dòng chảy xiết; hàng loạt, cơn tuôn trào",
+  "coll": [
+   "a torrent of abuse",
+   "a torrent of rain",
+   "rush in a torrent",
+   "a torrent of criticism"
+  ]
+ },
+ {
+  "id": "apocalyptic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "như ngày tận thế; mang tính khải huyền",
+  "coll": [
+   "an apocalyptic vision",
+   "post-apocalyptic",
+   "apocalyptic scenes",
+   "an apocalyptic warning"
+  ]
+ },
+ {
+  "id": "logically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách logic; theo lẽ hợp lý",
+  "coll": [
+   "think logically",
+   "logically consistent",
+   "logically follows",
+   "argue logically"
+  ]
+ },
+ {
+  "id": "autistic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tự kỷ; người tự kỷ",
+  "coll": [
+   "an autistic child",
+   "autistic traits",
+   "the autistic spectrum",
+   "diagnosed as autistic"
+  ]
+ },
+ {
+  "id": "incompetence",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự kém cỏi; sự thiếu năng lực",
+  "coll": [
+   "sheer incompetence",
+   "gross incompetence",
+   "professional incompetence",
+   "accuse of incompetence"
+  ]
+ },
+ {
+  "id": "interception",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chặn bắt; cú cắt bóng",
+  "coll": [
+   "throw an interception",
+   "the interception of messages",
+   "an interception of communications",
+   "a missile interception"
+  ]
+ },
+ {
+  "id": "haram",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "điều cấm trong Hồi giáo; bị cấm (theo đạo Hồi)",
+  "coll": [
+   "haram food",
+   "considered haram",
+   "halal and haram",
+   "strictly haram"
+  ]
+ },
+ {
+  "id": "correctional",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc trại cải tạo; mang tính cải huấn",
+  "coll": [
+   "a correctional facility",
+   "a correctional officer",
+   "the correctional system",
+   "a correctional institution"
+  ]
+ },
+ {
+  "id": "centric",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lấy làm trung tâm; ở trung tâm",
+  "coll": [
+   "customer-centric",
+   "user-centric",
+   "a centric position",
+   "ego-centric"
+  ]
+ },
+ {
+  "id": "pharma",
+  "pos": [
+   "n"
+  ],
+  "vi": "ngành dược; công ty dược",
+  "coll": [
+   "big pharma",
+   "the pharma industry",
+   "a pharma company",
+   "pharma sales"
+  ]
+ },
+ {
+  "id": "psyche",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "vi": "tâm lý, tâm hồn; tinh thần",
+  "coll": [
+   "the human psyche",
+   "the national psyche",
+   "damage the psyche",
+   "deep in the psyche"
+  ]
+ },
+ {
+  "id": "unconventional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "khác thường; phi truyền thống",
+  "coll": [
+   "an unconventional approach",
+   "unconventional methods",
+   "highly unconventional",
+   "an unconventional lifestyle"
+  ]
+ },
+ {
+  "id": "compliant",
+  "pos": [
+   "adj"
+  ],
+  "vi": "tuân thủ; dễ bảo, ngoan ngoãn",
+  "coll": [
+   "fully compliant",
+   "compliant with regulations",
+   "GDPR compliant",
+   "a compliant attitude"
+  ]
+ },
+ {
+  "id": "accelerator",
+  "pos": [
+   "n"
+  ],
+  "vi": "chân ga; máy gia tốc; chương trình tăng tốc",
+  "coll": [
+   "press the accelerator",
+   "a particle accelerator",
+   "a startup accelerator",
+   "an accelerator pedal"
+  ]
+ },
+ {
+  "id": "override",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bác bỏ, vô hiệu hóa; sự ghi đè",
+  "coll": [
+   "override a veto",
+   "override the decision",
+   "a manual override",
+   "override the settings"
+  ]
+ },
+ {
+  "id": "proton",
+  "pos": [
+   "n"
+  ],
+  "vi": "proton; hạt mang điện dương",
+  "coll": [
+   "a proton beam",
+   "proton therapy",
+   "the proton mass",
+   "protons and neutrons"
+  ]
+ },
+ {
+  "id": "annexation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự sáp nhập lãnh thổ; sự thôn tính",
+  "coll": [
+   "the annexation of Crimea",
+   "illegal annexation",
+   "the annexation of territory",
+   "oppose annexation"
+  ]
+ },
+ {
+  "id": "helium",
+  "pos": [
+   "n"
+  ],
+  "vi": "khí heli",
+  "coll": [
+   "a helium balloon",
+   "liquid helium",
+   "fill with helium",
+   "helium gas"
+  ]
+ },
+ {
+  "id": "fertilizer",
+  "pos": [
+   "n"
+  ],
+  "vi": "phân bón",
+  "coll": [
+   "chemical fertilizer",
+   "organic fertilizer",
+   "apply fertilizer",
+   "nitrogen fertilizer"
+  ]
+ },
+ {
+  "id": "eater",
+  "pos": [
+   "n"
+  ],
+  "vi": "người ăn; loài ăn",
+  "coll": [
+   "a picky eater",
+   "a meat eater",
+   "a big eater",
+   "a fussy eater"
+  ]
+ },
+ {
+  "id": "visionary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có tầm nhìn xa; người có tầm nhìn",
+  "coll": [
+   "a visionary leader",
+   "a true visionary",
+   "visionary ideas",
+   "a visionary approach"
+  ]
+ },
+ {
+  "id": "reluctance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự miễn cưỡng; sự ngần ngại",
+  "coll": [
+   "a reluctance to change",
+   "show reluctance",
+   "with some reluctance",
+   "initial reluctance"
+  ]
+ },
+ {
+  "id": "inverse",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "nghịch đảo; ngược lại",
+  "coll": [
+   "an inverse relationship",
+   "inverse proportion",
+   "the inverse function",
+   "in inverse order"
+  ]
+ },
+ {
+  "id": "noodle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mì sợi; sợi bún, phở",
+  "coll": [
+   "instant noodles",
+   "a noodle soup",
+   "rice noodles",
+   "egg noodles"
+  ]
+ },
+ {
+  "id": "lavish",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "vi": "xa hoa, hào phóng; ban phát hào phóng",
+  "coll": [
+   "a lavish party",
+   "lavish spending",
+   "lavish praise on",
+   "a lavish lifestyle"
+  ]
+ },
+ {
+  "id": "unnecessarily",
+  "pos": [
+   "adv"
+  ],
+  "vi": "một cách không cần thiết; quá mức cần thiết",
+  "coll": [
+   "unnecessarily complicated",
+   "unnecessarily long",
+   "unnecessarily harsh",
+   "suffer unnecessarily"
+  ]
+ },
+ {
+  "id": "rotor",
+  "pos": [
+   "n"
+  ],
+  "vi": "cánh quạt, rôto; bộ phận quay",
+  "coll": [
+   "a helicopter rotor",
+   "rotor blades",
+   "the main rotor",
+   "a rotor shaft"
+  ]
+ }
+]

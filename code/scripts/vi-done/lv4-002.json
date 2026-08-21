@@ -1,0 +1,402 @@
+{
+  "stringent": {
+    "vi": "nghiêm ngặt; chặt chẽ, khắt khe",
+    "coll": ["stringent rules", "stringent requirements", "stringent controls", "stringent measures", "stringent conditions"]
+  },
+  "bogus": {
+    "vi": "giả mạo; rởm, dỏm",
+    "coll": ["bogus claim", "bogus company", "bogus documents", "bogus website", "bogus charity"]
+  },
+  "hitch": {
+    "vi": "trục trặc nhỏ; móc, buộc vào; đi nhờ xe",
+    "coll": ["without a hitch", "a slight hitch", "hitch a ride", "hitch the trailer", "technical hitch"]
+  },
+  "turret": {
+    "vi": "tháp pháo; tháp canh nhỏ",
+    "coll": ["gun turret", "tank turret", "castle turret", "rotating turret", "turret roof"]
+  },
+  "solitude": {
+    "vi": "sự cô đơn tĩnh lặng; nơi vắng vẻ",
+    "coll": ["in solitude", "seek solitude", "peaceful solitude", "splendid solitude", "enjoy the solitude"]
+  },
+  "constrained": {
+    "vi": "bị hạn chế; gò bó, gượng gạo",
+    "coll": ["financially constrained", "constrained by budget", "constrained resources", "feel constrained", "a constrained smile"]
+  },
+  "austerity": {
+    "vi": "thắt lưng buộc bụng; sự khắc khổ; nét đơn sơ",
+    "coll": ["austerity measures", "austerity programme", "years of austerity", "economic austerity", "austerity budget"]
+  },
+  "emulate": {
+    "vi": "noi gương, học theo; mô phỏng",
+    "coll": ["emulate a role model", "seek to emulate", "emulate his success", "emulate the style", "emulate a system"]
+  },
+  "artifact": {
+    "vi": "hiện vật cổ; đồ tạo tác; nhiễu, lỗi hình ảnh",
+    "coll": ["ancient artifact", "cultural artifact", "archaeological artifact", "rare artifact", "digital artifact"]
+  },
+  "agile": {
+    "vi": "nhanh nhẹn; linh hoạt",
+    "coll": ["agile movement", "mentally agile", "agile development", "agile methodology", "quick and agile"]
+  },
+  "fetal": {
+    "vi": "thuộc bào thai",
+    "coll": ["fetal development", "fetal position", "fetal heartbeat", "fetal alcohol syndrome", "fetal monitoring"]
+  },
+  "motif": {
+    "vi": "mô-típ, chủ đề lặp lại; họa tiết",
+    "coll": ["recurring motif", "central motif", "floral motif", "musical motif", "decorative motif"]
+  },
+  "deviation": {
+    "vi": "sự sai lệch; độ lệch chuẩn",
+    "coll": ["standard deviation", "deviation from the norm", "slight deviation", "significant deviation", "sexual deviation"]
+  },
+  "etiquette": {
+    "vi": "phép xã giao; nghi thức ứng xử",
+    "coll": ["social etiquette", "business etiquette", "proper etiquette", "rules of etiquette", "breach of etiquette"]
+  },
+  "incorporation": {
+    "vi": "sự đưa vào, sự sáp nhập; việc thành lập công ty",
+    "coll": ["articles of incorporation", "certificate of incorporation", "incorporation of new ideas", "date of incorporation", "incorporation into the group"]
+  },
+  "extravagant": {
+    "vi": "xa hoa, hoang phí; thái quá",
+    "coll": ["extravagant lifestyle", "extravagant claims", "extravagant spending", "extravagant gift", "extravagant praise"]
+  },
+  "hoodie": {
+    "vi": "áo hoodie, áo nỉ trùm đầu",
+    "coll": ["wear a hoodie", "black hoodie", "hooded sweatshirt", "zip-up hoodie", "pull up the hoodie"]
+  },
+  "mammoth": {
+    "vi": "voi ma mút; khổng lồ, đồ sộ",
+    "coll": ["woolly mammoth", "mammoth task", "mammoth project", "mammoth undertaking", "mammoth bones"]
+  },
+  "skepticism": {
+    "vi": "sự hoài nghi; thái độ ngờ vực",
+    "coll": ["healthy skepticism", "widespread skepticism", "express skepticism", "greeted with skepticism", "growing skepticism"]
+  },
+  "cuddle": {
+    "vi": "cái ôm âu yếm; ôm ấp, rúc vào",
+    "coll": ["have a cuddle", "cuddle up", "give someone a cuddle", "cuddle together", "a warm cuddle"]
+  },
+  "silicone": {
+    "vi": "silicone (chất dẻo); bôi keo silicone",
+    "coll": ["silicone rubber", "silicone implants", "silicone sealant", "silicone gel", "silicone mould"]
+  },
+  "validate": {
+    "vi": "xác nhận, xác thực; kiểm chứng; công nhận cảm xúc",
+    "coll": ["validate the results", "validate a theory", "validate a ticket", "validate feelings", "validate the data"]
+  },
+  "joyful": {
+    "vi": "vui sướng; hân hoan",
+    "coll": ["joyful occasion", "joyful noise", "joyful reunion", "a joyful heart", "joyful celebration"]
+  },
+  "rampage": {
+    "vi": "cơn phá phách điên cuồng; nổi điên phá phách",
+    "coll": ["go on a rampage", "shooting rampage", "on the rampage", "murderous rampage", "rampage through the streets"]
+  },
+  "culprit": {
+    "vi": "thủ phạm; nguyên nhân gây ra",
+    "coll": ["the main culprit", "catch the culprit", "the real culprit", "likely culprit", "identify the culprit"]
+  },
+  "scrape": {
+    "vi": "cạo, nạo; làm trầy xước; chỗ xây xát",
+    "coll": ["scrape off the paint", "scrape your knee", "scrape by", "scrape together money", "cuts and scrapes"]
+  },
+  "heartfelt": {
+    "vi": "chân thành; tự đáy lòng",
+    "coll": ["heartfelt thanks", "heartfelt apology", "heartfelt gratitude", "heartfelt plea", "heartfelt tribute"]
+  },
+  "insure": {
+    "vi": "bảo hiểm cho; mua bảo hiểm",
+    "coll": ["insure the car", "insure against loss", "fully insured", "insure your home", "insure for $1 million"]
+  },
+  "leftover": {
+    "vi": "thừa lại; còn dư",
+    "coll": ["leftover food", "leftover pizza", "leftover money", "leftover chicken", "leftover from yesterday"]
+  },
+  "openness": {
+    "vi": "sự cởi mở; tính minh bạch",
+    "coll": ["openness to change", "openness and honesty", "greater openness", "openness to new ideas", "a spirit of openness"]
+  },
+  "precaution": {
+    "vi": "biện pháp phòng ngừa; sự đề phòng",
+    "coll": ["take precautions", "safety precautions", "as a precaution", "necessary precautions", "precautionary measure"]
+  },
+  "arson": {
+    "vi": "tội cố ý phóng hỏa",
+    "coll": ["commit arson", "arson attack", "suspected arson", "arson investigation", "charged with arson"]
+  },
+  "semantic": {
+    "vi": "thuộc ngữ nghĩa; chỉ về câu chữ",
+    "coll": ["semantic meaning", "semantic analysis", "semantic field", "purely semantic", "semantic web"]
+  },
+  "diffusion": {
+    "vi": "sự khuếch tán; sự lan tỏa",
+    "coll": ["gas diffusion", "cultural diffusion", "diffusion of light", "rate of diffusion", "diffusion of knowledge"]
+  },
+  "lacrosse": {
+    "vi": "môn bóng vợt lacrosse",
+    "coll": ["play lacrosse", "lacrosse stick", "lacrosse team", "lacrosse player", "college lacrosse"]
+  },
+  "familiarity": {
+    "vi": "sự quen thuộc; sự thân mật suồng sã",
+    "coll": ["familiarity with the subject", "a sense of familiarity", "familiarity breeds contempt", "gain familiarity", "degree of familiarity"]
+  },
+  "distrust": {
+    "vi": "sự ngờ vực; không tin tưởng",
+    "coll": ["deep distrust", "mutual distrust", "distrust of politicians", "growing distrust", "distrust the government"]
+  },
+  "snoop": {
+    "vi": "rình mò; dòm ngó chuyện riêng",
+    "coll": ["snoop around", "snoop on someone", "snoop through emails", "snoop into private affairs", "stop snooping"]
+  },
+  "legalization": {
+    "vi": "sự hợp pháp hóa",
+    "coll": ["legalization of marijuana", "legalization of abortion", "push for legalization", "drug legalization", "support legalization"]
+  },
+  "localized": {
+    "vi": "cục bộ, khu trú; đã bản địa hóa",
+    "coll": ["localized pain", "localized flooding", "localized infection", "localized version", "highly localized"]
+  },
+  "condensed": {
+    "vi": "cô đặc; rút gọn",
+    "coll": ["condensed milk", "condensed version", "condensed into", "highly condensed", "condensed form"]
+  },
+  "matchup": {
+    "vi": "cặp đấu; màn đối đầu",
+    "coll": ["a great matchup", "the matchup against", "favourable matchup", "playoff matchup", "matchup problems"]
+  },
+  "childcare": {
+    "vi": "việc trông trẻ; dịch vụ giữ trẻ",
+    "coll": ["affordable childcare", "childcare costs", "childcare facilities", "childcare provider", "free childcare"]
+  },
+  "playable": {
+    "vi": "chơi được; đấu được",
+    "coll": ["playable character", "playable demo", "the pitch is playable", "eminently playable", "playable version"]
+  },
+  "entrepreneurial": {
+    "vi": "có đầu óc kinh doanh; thuộc khởi nghiệp",
+    "coll": ["entrepreneurial spirit", "entrepreneurial skills", "entrepreneurial mindset", "entrepreneurial activity", "entrepreneurial flair"]
+  },
+  "reliably": {
+    "vi": "một cách đáng tin cậy; chắc chắn",
+    "coll": ["reliably informed", "work reliably", "reliably predict", "perform reliably", "reliably accurate"]
+  },
+  "zionist": {
+    "vi": "người theo chủ nghĩa phục quốc Do Thái",
+    "coll": ["Zionist movement", "Zionist leaders", "Zionist ideology", "a Zionist state", "Zionist organization"]
+  },
+  "pervasive": {
+    "vi": "lan khắp; phổ biến sâu rộng",
+    "coll": ["pervasive influence", "pervasive problem", "increasingly pervasive", "pervasive corruption", "pervasive sense of"]
+  },
+  "melancholy": {
+    "vi": "nỗi u sầu; sầu muộn, buồn man mác",
+    "coll": ["a deep melancholy", "melancholy mood", "sink into melancholy", "melancholy music", "air of melancholy"]
+  },
+  "meteorological": {
+    "vi": "thuộc khí tượng",
+    "coll": ["meteorological conditions", "meteorological data", "meteorological office", "meteorological station", "meteorological phenomena"]
+  },
+  "anonymity": {
+    "vi": "sự ẩn danh; tình trạng vô danh",
+    "coll": ["on condition of anonymity", "preserve anonymity", "protect the anonymity", "request anonymity", "relative anonymity"]
+  },
+  "conglomerate": {
+    "vi": "tập đoàn đa ngành; khối kết tụ; đá cuội kết",
+    "coll": ["media conglomerate", "industrial conglomerate", "giant conglomerate", "conglomerate of companies", "multinational conglomerate"]
+  },
+  "hinder": {
+    "vi": "cản trở; gây trở ngại",
+    "coll": ["hinder progress", "hinder development", "seriously hinder", "hinder the investigation", "hinder growth"]
+  },
+  "punitive": {
+    "vi": "mang tính trừng phạt; trừng trị",
+    "coll": ["punitive damages", "punitive measures", "punitive action", "punitive tariffs", "punitive expedition"]
+  },
+  "counterfeit": {
+    "vi": "giả mạo; hàng giả; làm giả",
+    "coll": ["counterfeit money", "counterfeit goods", "counterfeit notes", "counterfeit products", "counterfeit drugs"]
+  },
+  "pinky": {
+    "vi": "ngón út; hơi hồng",
+    "coll": ["pinky finger", "pinky promise", "pinky swear", "little pinky", "pinky ring"]
+  },
+  "integer": {
+    "vi": "số nguyên",
+    "coll": ["positive integer", "negative integer", "integer value", "an integer number", "round to the nearest integer"]
+  },
+  "mop": {
+    "vi": "cây lau nhà; lau nhà; mớ tóc bù xù",
+    "coll": ["mop the floor", "a mop and bucket", "mop up", "a mop of hair", "wet mop"]
+  },
+  "utopia": {
+    "vi": "chốn không tưởng; xã hội lý tưởng",
+    "coll": ["socialist utopia", "create a utopia", "utopia and dystopia", "a workers' utopia", "dreams of utopia"]
+  },
+  "multicultural": {
+    "vi": "đa văn hóa",
+    "coll": ["multicultural society", "multicultural education", "multicultural city", "multicultural background", "multicultural community"]
+  },
+  "coefficient": {
+    "vi": "hệ số",
+    "coll": ["correlation coefficient", "coefficient of friction", "numerical coefficient", "the coefficient of x", "coefficient value"]
+  },
+  "robber": {
+    "vi": "kẻ cướp; tên trộm cướp",
+    "coll": ["bank robber", "armed robber", "catch the robber", "masked robber", "robber baron"]
+  },
+  "heterosexual": {
+    "vi": "dị tính; người dị tính luyến ái",
+    "coll": ["heterosexual couple", "heterosexual relationship", "heterosexual men", "heterosexual marriage", "openly heterosexual"]
+  },
+  "hobbit": {
+    "vi": "người hobbit (nhân vật hư cấu)",
+    "coll": ["a hobbit hole", "The Hobbit", "hobbit feet", "hobbit village", "like a hobbit"]
+  },
+  "broth": {
+    "vi": "nước dùng; nước hầm",
+    "coll": ["chicken broth", "beef broth", "vegetable broth", "simmer the broth", "clear broth"]
+  },
+  "monsieur": {
+    "vi": "ngài, ông (kiểu Pháp); quý ông người Pháp (cũ)",
+    "coll": ["good evening, monsieur", "Monsieur le Président", "yes, monsieur", "thank you, monsieur"]
+  },
+  "nudity": {
+    "vi": "sự khỏa thân",
+    "coll": ["full frontal nudity", "contains nudity", "public nudity", "scenes of nudity", "partial nudity"]
+  },
+  "preface": {
+    "vi": "lời tựa; mở đầu bằng",
+    "coll": ["write a preface", "in the preface", "preface to the book", "preface his remarks with", "author's preface"]
+  },
+  "gritty": {
+    "vi": "trần trụi, gai góc; gan lì; có sạn",
+    "coll": ["gritty realism", "gritty drama", "gritty determination", "gritty texture", "a gritty performance"]
+  },
+  "horseback": {
+    "vi": "lưng ngựa",
+    "coll": ["on horseback", "horseback riding", "ride horseback", "horseback tour", "travel on horseback"]
+  },
+  "intimidation": {
+    "vi": "sự hăm dọa; sự uy hiếp",
+    "coll": ["voter intimidation", "acts of intimidation", "threats and intimidation", "witness intimidation", "intimidation tactics"]
+  },
+  "iteration": {
+    "vi": "phiên bản mới; lần lặp lại; vòng lặp",
+    "coll": ["the latest iteration", "each iteration", "next iteration", "rapid iteration", "first iteration"]
+  },
+  "roulette": {
+    "vi": "trò cò quay ru-lét; canh bạc may rủi",
+    "coll": ["play roulette", "roulette wheel", "Russian roulette", "roulette table", "spin the roulette"]
+  },
+  "obligatory": {
+    "vi": "bắt buộc; theo lệ thường",
+    "coll": ["obligatory for all", "legally obligatory", "the obligatory photo", "obligatory attendance", "make it obligatory"]
+  },
+  "tonic": {
+    "vi": "thuốc bổ; nước tonic; có tác dụng bồi bổ",
+    "coll": ["gin and tonic", "tonic water", "hair tonic", "act as a tonic", "a tonic for the soul"]
+  },
+  "edgy": {
+    "vi": "táo bạo, gai góc; bồn chồn, dễ cáu",
+    "coll": ["edgy humour", "edgy style", "feel edgy", "a bit edgy", "edgy comedy"]
+  },
+  "chloride": {
+    "vi": "clorua",
+    "coll": ["sodium chloride", "calcium chloride", "chloride ion", "polyvinyl chloride", "chloride levels"]
+  },
+  "magnum": {
+    "vi": "chai rượu 1,5 lít; đạn cỡ mạnh magnum",
+    "coll": ["a magnum of champagne", ".44 Magnum", "magnum revolver", "magnum bottle", "magnum opus"]
+  },
+  "futile": {
+    "vi": "vô ích; công cốc",
+    "coll": ["a futile attempt", "futile effort", "futile exercise", "prove futile", "utterly futile"]
+  },
+  "oxidation": {
+    "vi": "sự oxy hóa",
+    "coll": ["oxidation reaction", "oxidation state", "prevent oxidation", "rate of oxidation", "oxidation number"]
+  },
+  "dentistry": {
+    "vi": "nha khoa; nghề nha sĩ",
+    "coll": ["cosmetic dentistry", "study dentistry", "modern dentistry", "practise dentistry", "preventive dentistry"]
+  },
+  "intermittent": {
+    "vi": "gián đoạn; lúc có lúc không",
+    "coll": ["intermittent rain", "intermittent fasting", "intermittent pain", "intermittent problems", "intermittent showers"]
+  },
+  "outpost": {
+    "vi": "tiền đồn; chốt tiền tiêu",
+    "coll": ["military outpost", "remote outpost", "border outpost", "trading outpost", "last outpost"]
+  },
+  "restroom": {
+    "vi": "nhà vệ sinh (công cộng)",
+    "coll": ["public restroom", "use the restroom", "restroom facilities", "men's restroom", "go to the restroom"]
+  },
+  "barrage": {
+    "vi": "loạt dồn dập; hỏa lực bắn chặn; đập chắn nước",
+    "coll": ["a barrage of questions", "artillery barrage", "barrage of criticism", "constant barrage", "barrage of abuse"]
+  },
+  "spherical": {
+    "vi": "hình cầu; thuộc mặt cầu",
+    "coll": ["spherical shape", "spherical object", "perfectly spherical", "spherical coordinates", "spherical mirror"]
+  },
+  "evade": {
+    "vi": "né tránh; trốn (thuế, truy bắt)",
+    "coll": ["evade capture", "evade taxes", "evade the question", "evade responsibility", "evade detection"]
+  },
+  "espresso": {
+    "vi": "cà phê espresso",
+    "coll": ["a shot of espresso", "espresso machine", "double espresso", "make espresso", "espresso bar"]
+  },
+  "snapshot": {
+    "vi": "ảnh chụp nhanh; cái nhìn thoáng qua; bản lưu trạng thái",
+    "coll": ["take a snapshot", "a snapshot of life", "snapshot in time", "provide a snapshot", "system snapshot"]
+  },
+  "encore": {
+    "vi": "màn diễn thêm; diễn lại đi!",
+    "coll": ["play an encore", "demand an encore", "encore performance", "come back for an encore", "shout encore"]
+  },
+  "reborn": {
+    "vi": "được tái sinh; hồi sinh",
+    "coll": ["born again and reborn", "reborn as", "feel reborn", "a city reborn", "reborn from the ashes"]
+  },
+  "centenary": {
+    "vi": "lễ kỷ niệm 100 năm; thuộc trăm năm",
+    "coll": ["centenary celebrations", "mark the centenary", "centenary year", "centenary of the birth", "centenary edition"]
+  },
+  "brilliance": {
+    "vi": "sự xuất chúng; độ sáng chói",
+    "coll": ["sheer brilliance", "moments of brilliance", "intellectual brilliance", "the brilliance of the sun", "flashes of brilliance"]
+  },
+  "predatory": {
+    "vi": "săn mồi; trục lợi, bóc lột",
+    "coll": ["predatory animals", "predatory lending", "predatory pricing", "predatory behaviour", "predatory instincts"]
+  },
+  "overflow": {
+    "vi": "sự tràn ra; chảy tràn; phần thừa ra",
+    "coll": ["overflow with water", "overflow pipe", "buffer overflow", "overflow car park", "overflowing with joy"]
+  },
+  "anesthesia": {
+    "vi": "sự gây mê; thuốc gây mê",
+    "coll": ["general anesthesia", "local anesthesia", "under anesthesia", "administer anesthesia", "spinal anesthesia"]
+  },
+  "appropriation": {
+    "vi": "sự chiếm dụng; khoản ngân sách cấp",
+    "coll": ["cultural appropriation", "appropriation of funds", "appropriations bill", "misappropriation of money", "budget appropriation"]
+  },
+  "heartbreak": {
+    "vi": "nỗi đau tan vỡ; sự đau lòng",
+    "coll": ["suffer heartbreak", "heartbreak and loss", "cause heartbreak", "years of heartbreak", "heartbreak hotel"]
+  },
+  "inhibition": {
+    "vi": "sự e dè ngại ngùng; sự ức chế",
+    "coll": ["lose your inhibitions", "without inhibition", "sexual inhibitions", "enzyme inhibition", "shed inhibitions"]
+  },
+  "skeletal": {
+    "vi": "thuộc bộ xương; gầy trơ xương; sơ sài",
+    "coll": ["skeletal remains", "skeletal muscle", "skeletal structure", "skeletal frame", "skeletal system"]
+  }
+}

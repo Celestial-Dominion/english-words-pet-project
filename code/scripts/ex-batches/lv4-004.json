@@ -1,0 +1,868 @@
+[
+ {
+  "id": "dentistry",
+  "pos": [
+   "n"
+  ],
+  "vi": "nha khoa; nghề nha sĩ",
+  "coll": [
+   "cosmetic dentistry",
+   "study dentistry",
+   "modern dentistry",
+   "practise dentistry",
+   "preventive dentistry"
+  ]
+ },
+ {
+  "id": "intermittent",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "gián đoạn; lúc có lúc không",
+  "coll": [
+   "intermittent rain",
+   "intermittent fasting",
+   "intermittent pain",
+   "intermittent problems",
+   "intermittent showers"
+  ]
+ },
+ {
+  "id": "outpost",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiền đồn; chốt tiền tiêu",
+  "coll": [
+   "military outpost",
+   "remote outpost",
+   "border outpost",
+   "trading outpost",
+   "last outpost"
+  ]
+ },
+ {
+  "id": "restroom",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà vệ sinh (công cộng)",
+  "coll": [
+   "public restroom",
+   "use the restroom",
+   "restroom facilities",
+   "men's restroom",
+   "go to the restroom"
+  ]
+ },
+ {
+  "id": "barrage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "loạt dồn dập; hỏa lực bắn chặn; đập chắn nước",
+  "coll": [
+   "a barrage of questions",
+   "artillery barrage",
+   "barrage of criticism",
+   "constant barrage",
+   "barrage of abuse"
+  ]
+ },
+ {
+  "id": "spherical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hình cầu; thuộc mặt cầu",
+  "coll": [
+   "spherical shape",
+   "spherical object",
+   "perfectly spherical",
+   "spherical coordinates",
+   "spherical mirror"
+  ]
+ },
+ {
+  "id": "evade",
+  "pos": [
+   "v"
+  ],
+  "vi": "né tránh; trốn (thuế, truy bắt)",
+  "coll": [
+   "evade capture",
+   "evade taxes",
+   "evade the question",
+   "evade responsibility",
+   "evade detection"
+  ]
+ },
+ {
+  "id": "espresso",
+  "pos": [
+   "n"
+  ],
+  "vi": "cà phê espresso",
+  "coll": [
+   "a shot of espresso",
+   "espresso machine",
+   "double espresso",
+   "make espresso",
+   "espresso bar"
+  ]
+ },
+ {
+  "id": "snapshot",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ảnh chụp nhanh; cái nhìn thoáng qua; bản lưu trạng thái",
+  "coll": [
+   "take a snapshot",
+   "a snapshot of life",
+   "snapshot in time",
+   "provide a snapshot",
+   "system snapshot"
+  ]
+ },
+ {
+  "id": "encore",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "vi": "màn diễn thêm; diễn lại đi!",
+  "coll": [
+   "play an encore",
+   "demand an encore",
+   "encore performance",
+   "come back for an encore",
+   "shout encore"
+  ]
+ },
+ {
+  "id": "reborn",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "được tái sinh; hồi sinh",
+  "coll": [
+   "born again and reborn",
+   "reborn as",
+   "feel reborn",
+   "a city reborn",
+   "reborn from the ashes"
+  ]
+ },
+ {
+  "id": "centenary",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "lễ kỷ niệm 100 năm; thuộc trăm năm",
+  "coll": [
+   "centenary celebrations",
+   "mark the centenary",
+   "centenary year",
+   "centenary of the birth",
+   "centenary edition"
+  ]
+ },
+ {
+  "id": "brilliance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xuất chúng; độ sáng chói",
+  "coll": [
+   "sheer brilliance",
+   "moments of brilliance",
+   "intellectual brilliance",
+   "the brilliance of the sun",
+   "flashes of brilliance"
+  ]
+ },
+ {
+  "id": "predatory",
+  "pos": [
+   "adj"
+  ],
+  "vi": "săn mồi; trục lợi, bóc lột",
+  "coll": [
+   "predatory animals",
+   "predatory lending",
+   "predatory pricing",
+   "predatory behaviour",
+   "predatory instincts"
+  ]
+ },
+ {
+  "id": "overflow",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự tràn ra; chảy tràn; phần thừa ra",
+  "coll": [
+   "overflow with water",
+   "overflow pipe",
+   "buffer overflow",
+   "overflow car park",
+   "overflowing with joy"
+  ]
+ },
+ {
+  "id": "anesthesia",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự gây mê; thuốc gây mê",
+  "coll": [
+   "general anesthesia",
+   "local anesthesia",
+   "under anesthesia",
+   "administer anesthesia",
+   "spinal anesthesia"
+  ]
+ },
+ {
+  "id": "appropriation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chiếm dụng; khoản ngân sách cấp",
+  "coll": [
+   "cultural appropriation",
+   "appropriation of funds",
+   "appropriations bill",
+   "misappropriation of money",
+   "budget appropriation"
+  ]
+ },
+ {
+  "id": "heartbreak",
+  "pos": [
+   "n"
+  ],
+  "vi": "nỗi đau tan vỡ; sự đau lòng",
+  "coll": [
+   "suffer heartbreak",
+   "heartbreak and loss",
+   "cause heartbreak",
+   "years of heartbreak",
+   "heartbreak hotel"
+  ]
+ },
+ {
+  "id": "inhibition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự e dè ngại ngùng; sự ức chế",
+  "coll": [
+   "lose your inhibitions",
+   "without inhibition",
+   "sexual inhibitions",
+   "enzyme inhibition",
+   "shed inhibitions"
+  ]
+ },
+ {
+  "id": "skeletal",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "thuộc bộ xương; gầy trơ xương; sơ sài",
+  "coll": [
+   "skeletal remains",
+   "skeletal muscle",
+   "skeletal structure",
+   "skeletal frame",
+   "skeletal system"
+  ]
+ },
+ {
+  "id": "satin",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "vải sa tanh; bóng mượt như sa tanh",
+  "coll": [
+   "satin dress",
+   "white satin",
+   "satin finish",
+   "satin ribbon",
+   "silk satin"
+  ]
+ },
+ {
+  "id": "clinically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt lâm sàng; lạnh lùng vô cảm",
+  "coll": [
+   "clinically proven",
+   "clinically depressed",
+   "clinically obese",
+   "clinically tested",
+   "clinically significant"
+  ]
+ },
+ {
+  "id": "segregated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "bị tách biệt; phân biệt chủng tộc",
+  "coll": [
+   "racially segregated",
+   "segregated schools",
+   "segregated housing",
+   "segregated by gender",
+   "highly segregated"
+  ]
+ },
+ {
+  "id": "cocky",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "tự phụ, vênh váo; ngạo mạn",
+  "coll": [
+   "a cocky attitude",
+   "get cocky",
+   "cocky young man",
+   "too cocky",
+   "cocky grin"
+  ]
+ },
+ {
+  "id": "conditioner",
+  "pos": [
+   "n"
+  ],
+  "vi": "dầu xả; chất làm mềm; máy điều hòa",
+  "coll": [
+   "hair conditioner",
+   "fabric conditioner",
+   "leave-in conditioner",
+   "shampoo and conditioner",
+   "soil conditioner"
+  ]
+ },
+ {
+  "id": "hotline",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đường dây nóng",
+  "coll": [
+   "call the hotline",
+   "24-hour hotline",
+   "emergency hotline",
+   "hotline number",
+   "set up a hotline"
+  ]
+ },
+ {
+  "id": "oceanic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc đại dương; mênh mông",
+  "coll": [
+   "oceanic climate",
+   "oceanic crust",
+   "oceanic currents",
+   "oceanic species",
+   "oceanic ridge"
+  ]
+ },
+ {
+  "id": "interdisciplinary",
+  "pos": [
+   "adj"
+  ],
+  "vi": "liên ngành; đa lĩnh vực",
+  "coll": [
+   "interdisciplinary approach",
+   "interdisciplinary research",
+   "interdisciplinary team",
+   "interdisciplinary studies",
+   "interdisciplinary collaboration"
+  ]
+ },
+ {
+  "id": "showtime",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "giờ diễn; đến lúc ra tay!",
+  "coll": [
+   "it's showtime",
+   "before showtime",
+   "showtime is at eight",
+   "ready for showtime"
+  ]
+ },
+ {
+  "id": "electrode",
+  "pos": [
+   "n"
+  ],
+  "vi": "điện cực",
+  "coll": [
+   "positive electrode",
+   "negative electrode",
+   "attach electrodes",
+   "electrode surface",
+   "carbon electrode"
+  ]
+ },
+ {
+  "id": "rhetorical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tu từ, hùng biện; chỉ để nói cho có",
+  "coll": [
+   "rhetorical question",
+   "rhetorical device",
+   "rhetorical skill",
+   "purely rhetorical",
+   "rhetorical flourish"
+  ]
+ },
+ {
+  "id": "hysteria",
+  "pos": [
+   "n"
+  ],
+  "vi": "cơn cuồng loạn; sự kích động tập thể",
+  "coll": [
+   "mass hysteria",
+   "media hysteria",
+   "public hysteria",
+   "whip up hysteria",
+   "collective hysteria"
+  ]
+ },
+ {
+  "id": "misdemeanor",
+  "pos": [
+   "n"
+  ],
+  "vi": "tội nhẹ; hành vi sai trái",
+  "coll": [
+   "charged with a misdemeanor",
+   "misdemeanor offense",
+   "minor misdemeanor",
+   "misdemeanor charge",
+   "high crimes and misdemeanors"
+  ]
+ },
+ {
+  "id": "acronym",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "từ viết tắt (ghép chữ đầu)",
+  "coll": [
+   "the acronym stands for",
+   "common acronym",
+   "an acronym for",
+   "coin an acronym",
+   "acronym soup"
+  ]
+ },
+ {
+  "id": "baroness",
+  "pos": [
+   "n"
+  ],
+  "vi": "nữ nam tước",
+  "coll": [
+   "Baroness Thatcher",
+   "the baroness said",
+   "a life baroness",
+   "title of baroness"
+  ]
+ },
+ {
+  "id": "imprint",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dấu in, dấu ấn; in hằn lên; nhà xuất bản con",
+  "coll": [
+   "leave an imprint",
+   "imprint on the mind",
+   "publishing imprint",
+   "imprint of a foot",
+   "lasting imprint"
+  ]
+ },
+ {
+  "id": "sixteenth",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thứ mười sáu; một phần mười sáu",
+  "coll": [
+   "the sixteenth century",
+   "sixteenth birthday",
+   "one sixteenth",
+   "sixteenth note",
+   "sixteenth place"
+  ]
+ },
+ {
+  "id": "caterpillar",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sâu bướm; xích bánh xe",
+  "coll": [
+   "a hairy caterpillar",
+   "caterpillar track",
+   "caterpillar to butterfly",
+   "green caterpillar",
+   "caterpillar stage"
+  ]
+ },
+ {
+  "id": "surrogate",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thay thế; người mang thai hộ",
+  "coll": [
+   "surrogate mother",
+   "surrogate father",
+   "act as a surrogate",
+   "surrogate marker",
+   "surrogate pregnancy"
+  ]
+ },
+ {
+  "id": "defamation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phỉ báng, bôi nhọ danh dự",
+  "coll": [
+   "defamation of character",
+   "sue for defamation",
+   "defamation lawsuit",
+   "defamation case",
+   "criminal defamation"
+  ]
+ },
+ {
+  "id": "slime",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chất nhớt; bùn nhão",
+  "coll": [
+   "green slime",
+   "covered in slime",
+   "slime mould",
+   "snail slime",
+   "slimy residue"
+  ]
+ },
+ {
+  "id": "imperialism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa đế quốc",
+  "coll": [
+   "cultural imperialism",
+   "Western imperialism",
+   "economic imperialism",
+   "age of imperialism",
+   "resist imperialism"
+  ]
+ },
+ {
+  "id": "suffrage",
+  "pos": [
+   "n"
+  ],
+  "vi": "quyền bầu cử",
+  "coll": [
+   "universal suffrage",
+   "women's suffrage",
+   "the suffrage movement",
+   "right of suffrage",
+   "adult suffrage"
+  ]
+ },
+ {
+  "id": "obnoxious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "khó ưa, đáng ghét; xấc xược",
+  "coll": [
+   "obnoxious behaviour",
+   "an obnoxious person",
+   "obnoxious smell",
+   "downright obnoxious",
+   "loud and obnoxious"
+  ]
+ },
+ {
+  "id": "infancy",
+  "pos": [
+   "n"
+  ],
+  "vi": "thời thơ ấu; giai đoạn sơ khai",
+  "coll": [
+   "in its infancy",
+   "from infancy",
+   "early infancy",
+   "still in infancy",
+   "die in infancy"
+  ]
+ },
+ {
+  "id": "retribution",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự trừng phạt; sự báo thù",
+  "coll": [
+   "fear of retribution",
+   "divine retribution",
+   "swift retribution",
+   "seek retribution",
+   "face retribution"
+  ]
+ },
+ {
+  "id": "doctorate",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "học vị tiến sĩ",
+  "coll": [
+   "earn a doctorate",
+   "honorary doctorate",
+   "doctorate in physics",
+   "complete a doctorate",
+   "award a doctorate"
+  ]
+ },
+ {
+  "id": "ditto",
+  "pos": [
+   "n",
+   "adv",
+   "v",
+   "intj"
+  ],
+  "vi": "y như trên, tôi cũng vậy; dấu nhắc lại",
+  "coll": [
+   "ditto marks",
+   "ditto for me",
+   "say ditto",
+   "and ditto with"
+  ]
+ },
+ {
+  "id": "variability",
+  "pos": [
+   "n"
+  ],
+  "vi": "tính biến thiên; mức dao động",
+  "coll": [
+   "genetic variability",
+   "high variability",
+   "climate variability",
+   "variability in results",
+   "reduce variability"
+  ]
+ },
+ {
+  "id": "chatter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chuyện phiếm, tiếng lao xao; huyên thuyên",
+  "coll": [
+   "idle chatter",
+   "constant chatter",
+   "chatter away",
+   "online chatter",
+   "teeth chattering"
+  ]
+ },
+ {
+  "id": "astrology",
+  "pos": [
+   "n"
+  ],
+  "vi": "chiêm tinh học",
+  "coll": [
+   "believe in astrology",
+   "Chinese astrology",
+   "astrology chart",
+   "Western astrology",
+   "astrology column"
+  ]
+ },
+ {
+  "id": "insulated",
+  "pos": [
+   "adj"
+  ],
+  "vi": "được cách nhiệt; cách điện; được che chắn",
+  "coll": [
+   "well insulated",
+   "insulated wire",
+   "insulated bottle",
+   "insulated from reality",
+   "insulated walls"
+  ]
+ },
+ {
+  "id": "treatise",
+  "pos": [
+   "n"
+  ],
+  "vi": "chuyên luận; luận thuyết",
+  "coll": [
+   "write a treatise",
+   "a treatise on politics",
+   "philosophical treatise",
+   "learned treatise",
+   "medical treatise"
+  ]
+ },
+ {
+  "id": "leftovers",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồ ăn thừa; phần còn lại",
+  "coll": [
+   "eat the leftovers",
+   "last night's leftovers",
+   "reheat leftovers",
+   "leftovers from dinner",
+   "throw out leftovers"
+  ]
+ },
+ {
+  "id": "plainly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "rõ ràng; thẳng thắn; giản dị",
+  "coll": [
+   "plainly visible",
+   "put it plainly",
+   "speak plainly",
+   "plainly wrong",
+   "dressed plainly"
+  ]
+ },
+ {
+  "id": "biomass",
+  "pos": [
+   "n"
+  ],
+  "vi": "sinh khối; nhiên liệu sinh khối",
+  "coll": [
+   "biomass energy",
+   "biomass fuel",
+   "forest biomass",
+   "biomass production",
+   "total biomass"
+  ]
+ },
+ {
+  "id": "bodyguard",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vệ sĩ; bảo vệ riêng",
+  "coll": [
+   "personal bodyguard",
+   "hire a bodyguard",
+   "armed bodyguard",
+   "bodyguard detail",
+   "act as bodyguard"
+  ]
+ },
+ {
+  "id": "encoding",
+  "pos": [
+   "v"
+  ],
+  "vi": "việc mã hóa; sự chuyển thành mã",
+  "coll": [
+   "character encoding",
+   "video encoding",
+   "encoding scheme",
+   "encoding format",
+   "encoding and decoding"
+  ]
+ },
+ {
+  "id": "directional",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "định hướng; theo một hướng",
+  "coll": [
+   "directional antenna",
+   "directional microphone",
+   "directional signs",
+   "directional drilling",
+   "directional change"
+  ]
+ },
+ {
+  "id": "comedic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc hài kịch; gây cười",
+  "coll": [
+   "comedic timing",
+   "comedic talent",
+   "comedic effect",
+   "comedic role",
+   "comedic value"
+  ]
+ }
+]

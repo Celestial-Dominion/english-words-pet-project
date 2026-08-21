@@ -1,0 +1,878 @@
+[
+ {
+  "id": "swap",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "đổi, trao đổi; sự hoán đổi",
+  "coll": [
+   "swap places",
+   "swap stories",
+   "swap seats",
+   "currency swap",
+   "a fair swap"
+  ]
+ },
+ {
+  "id": "profound",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "sâu sắc; sâu xa; hết sức nghiêm trọng",
+  "coll": [
+   "profound impact",
+   "profound effect",
+   "profound change",
+   "profound respect",
+   "profound silence"
+  ]
+ },
+ {
+  "id": "terrain",
+  "pos": [
+   "n"
+  ],
+  "vi": "địa hình",
+  "coll": [
+   "rough terrain",
+   "mountainous terrain",
+   "difficult terrain",
+   "all-terrain vehicle",
+   "familiar terrain"
+  ]
+ },
+ {
+  "id": "grind",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "nghiền, xay; mài; công việc cực nhọc",
+  "coll": [
+   "grind coffee",
+   "grind to a halt",
+   "the daily grind",
+   "grind your teeth",
+   "grind down"
+  ]
+ },
+ {
+  "id": "generator",
+  "pos": [
+   "n"
+  ],
+  "vi": "máy phát điện; bộ tạo ra",
+  "coll": [
+   "backup generator",
+   "diesel generator",
+   "power generator",
+   "run the generator",
+   "a generator of ideas"
+  ]
+ },
+ {
+  "id": "aggregate",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "tổng hợp; tổng cộng; cốt liệu xây dựng",
+  "coll": [
+   "in aggregate",
+   "on aggregate",
+   "aggregate score",
+   "aggregate demand",
+   "aggregate data"
+  ]
+ },
+ {
+  "id": "prep",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc chuẩn bị; chuẩn bị trước",
+  "coll": [
+   "meal prep",
+   "exam prep",
+   "prep work",
+   "prep the ingredients",
+   "prep school"
+  ]
+ },
+ {
+  "id": "automobile",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "ô tô; xe hơi",
+  "coll": [
+   "automobile industry",
+   "automobile manufacturer",
+   "automobile accident",
+   "automobile parts",
+   "electric automobile"
+  ]
+ },
+ {
+  "id": "anatomy",
+  "pos": [
+   "n"
+  ],
+  "vi": "giải phẫu học; cấu tạo cơ thể; sự mổ xẻ phân tích",
+  "coll": [
+   "human anatomy",
+   "study anatomy",
+   "the anatomy of the eye",
+   "comparative anatomy",
+   "the anatomy of a crisis"
+  ]
+ },
+ {
+  "id": "zombie",
+  "pos": [
+   "n"
+  ],
+  "vi": "thây ma; xác sống",
+  "coll": [
+   "zombie apocalypse",
+   "zombie movie",
+   "like a zombie",
+   "zombie company",
+   "walking zombie"
+  ]
+ },
+ {
+  "id": "illusion",
+  "pos": [
+   "n"
+  ],
+  "vi": "ảo tưởng; ảo giác; trò ảo thuật",
+  "coll": [
+   "optical illusion",
+   "under the illusion",
+   "create an illusion",
+   "shatter the illusion",
+   "the illusion of control"
+  ]
+ },
+ {
+  "id": "simulation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự mô phỏng; bản giả lập",
+  "coll": [
+   "computer simulation",
+   "flight simulation",
+   "run a simulation",
+   "simulation model",
+   "simulation game"
+  ]
+ },
+ {
+  "id": "recipient",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người nhận; bên tiếp nhận",
+  "coll": [
+   "recipient of the award",
+   "aid recipient",
+   "organ recipient",
+   "the intended recipient",
+   "welfare recipient"
+  ]
+ },
+ {
+  "id": "vibe",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cảm giác toát ra; bầu không khí; linh cảm",
+  "coll": [
+   "good vibes",
+   "a bad vibe",
+   "give off a vibe",
+   "the vibe of the place",
+   "chill vibes"
+  ]
+ },
+ {
+  "id": "scam",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trò lừa đảo; lừa gạt",
+  "coll": [
+   "online scam",
+   "fall for a scam",
+   "phone scam",
+   "scam artist",
+   "scam victim"
+  ]
+ },
+ {
+  "id": "optimal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tối ưu; tốt nhất",
+  "coll": [
+   "optimal solution",
+   "optimal performance",
+   "optimal conditions",
+   "optimal level",
+   "optimal use"
+  ]
+ },
+ {
+  "id": "rebellion",
+  "pos": [
+   "n"
+  ],
+  "vi": "cuộc nổi loạn; sự chống đối",
+  "coll": [
+   "armed rebellion",
+   "crush a rebellion",
+   "lead a rebellion",
+   "open rebellion",
+   "teenage rebellion"
+  ]
+ },
+ {
+  "id": "composite",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "ghép, tổng hợp; vật liệu composite; hợp số",
+  "coll": [
+   "composite material",
+   "composite image",
+   "composite score",
+   "composite number",
+   "composite sketch"
+  ]
+ },
+ {
+  "id": "prosecutor",
+  "pos": [
+   "n"
+  ],
+  "vi": "công tố viên; kiểm sát viên",
+  "coll": [
+   "public prosecutor",
+   "chief prosecutor",
+   "federal prosecutor",
+   "special prosecutor",
+   "the prosecutor argued"
+  ]
+ },
+ {
+  "id": "workforce",
+  "pos": [
+   "n"
+  ],
+  "vi": "lực lượng lao động; đội ngũ nhân viên",
+  "coll": [
+   "skilled workforce",
+   "the entire workforce",
+   "workforce development",
+   "reduce the workforce",
+   "female workforce"
+  ]
+ },
+ {
+  "id": "acre",
+  "pos": [
+   "n"
+  ],
+  "vi": "mẫu Anh (đơn vị diện tích)",
+  "coll": [
+   "ten acres of land",
+   "an acre of farmland",
+   "acres of forest",
+   "per acre"
+  ]
+ },
+ {
+  "id": "descent",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự đi xuống; dốc xuống; dòng dõi",
+  "coll": [
+   "of Irish descent",
+   "steep descent",
+   "begin the descent",
+   "descent into chaos",
+   "rapid descent"
+  ]
+ },
+ {
+  "id": "directory",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "danh bạ; thư mục",
+  "coll": [
+   "telephone directory",
+   "business directory",
+   "root directory",
+   "directory listing",
+   "online directory"
+  ]
+ },
+ {
+  "id": "orthodox",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chính thống; theo lối truyền thống",
+  "coll": [
+   "orthodox view",
+   "orthodox medicine",
+   "the Orthodox Church",
+   "orthodox approach",
+   "strictly orthodox"
+  ]
+ },
+ {
+  "id": "tenure",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "nhiệm kỳ; biên chế chính thức; quyền sở hữu đất",
+  "coll": [
+   "during his tenure",
+   "get tenure",
+   "tenure track",
+   "land tenure",
+   "tenure as president"
+  ]
+ },
+ {
+  "id": "treasurer",
+  "pos": [
+   "n"
+  ],
+  "vi": "thủ quỹ; bộ trưởng ngân khố",
+  "coll": [
+   "club treasurer",
+   "state treasurer",
+   "elected treasurer",
+   "the treasurer's report",
+   "honorary treasurer"
+  ]
+ },
+ {
+  "id": "siege",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cuộc vây hãm; sự bao vây",
+  "coll": [
+   "lay siege to",
+   "under siege",
+   "the siege of the city",
+   "siege mentality",
+   "end the siege"
+  ]
+ },
+ {
+  "id": "spine",
+  "pos": [
+   "n"
+  ],
+  "vi": "cột sống; gáy sách; gai (cây, con vật)",
+  "coll": [
+   "curved spine",
+   "spine injury",
+   "the spine of the book",
+   "send shivers down the spine",
+   "cactus spines"
+  ]
+ },
+ {
+  "id": "elimination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự loại bỏ; sự bị loại",
+  "coll": [
+   "elimination of poverty",
+   "process of elimination",
+   "elimination round",
+   "elimination from the tournament",
+   "waste elimination"
+  ]
+ },
+ {
+  "id": "pistol",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "súng lục",
+  "coll": [
+   "loaded pistol",
+   "pistol shot",
+   "point a pistol",
+   "pistol grip",
+   "starting pistol"
+  ]
+ },
+ {
+  "id": "regiment",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trung đoàn; rập khuôn theo kỷ luật cứng nhắc",
+  "coll": [
+   "infantry regiment",
+   "a regiment of soldiers",
+   "join the regiment",
+   "regiment commander"
+  ]
+ },
+ {
+  "id": "bundle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bó, gói; gói combo; bó lại",
+  "coll": [
+   "a bundle of papers",
+   "software bundle",
+   "a bundle of joy",
+   "bundle up",
+   "bundle deal"
+  ]
+ },
+ {
+  "id": "texture",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "kết cấu; chất cảm bề mặt; độ mịn thô",
+  "coll": [
+   "smooth texture",
+   "rough texture",
+   "the texture of the fabric",
+   "texture and flavour",
+   "add texture"
+  ]
+ },
+ {
+  "id": "overhead",
+  "pos": [
+   "adj",
+   "n",
+   "adv",
+   "prep"
+  ],
+  "vi": "phía trên đầu; chi phí chung; ở trên cao",
+  "coll": [
+   "overhead costs",
+   "overhead compartment",
+   "overhead projector",
+   "fly overhead",
+   "reduce overhead"
+  ]
+ },
+ {
+  "id": "inability",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bất lực; việc không thể làm được",
+  "coll": [
+   "inability to pay",
+   "inability to concentrate",
+   "inability to sleep",
+   "inability to cope",
+   "his inability to speak"
+  ]
+ },
+ {
+  "id": "sanctuary",
+  "pos": [
+   "n"
+  ],
+  "vi": "nơi trú ẩn an toàn; khu bảo tồn; thánh đường",
+  "coll": [
+   "wildlife sanctuary",
+   "seek sanctuary",
+   "bird sanctuary",
+   "sanctuary city",
+   "a sanctuary from the world"
+  ]
+ },
+ {
+  "id": "sonic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc âm thanh; thuộc tốc độ âm thanh",
+  "coll": [
+   "sonic boom",
+   "sonic waves",
+   "sonic quality",
+   "sonic landscape"
+  ]
+ },
+ {
+  "id": "litigation",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc kiện tụng; tranh tụng",
+  "coll": [
+   "civil litigation",
+   "involved in litigation",
+   "litigation costs",
+   "threaten litigation",
+   "commercial litigation"
+  ]
+ },
+ {
+  "id": "automotive",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc ô tô; thuộc ngành ô tô",
+  "coll": [
+   "automotive industry",
+   "automotive parts",
+   "automotive engineering",
+   "automotive sector",
+   "automotive design"
+  ]
+ },
+ {
+  "id": "incoming",
+  "pos": [
+   "adj",
+   "intj",
+   "n"
+  ],
+  "vi": "đang đến; sắp nhậm chức; đi vào",
+  "coll": [
+   "incoming call",
+   "incoming email",
+   "incoming president",
+   "incoming flight",
+   "incoming students"
+  ]
+ },
+ {
+  "id": "demographic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "nhân khẩu học; nhóm đối tượng khách hàng",
+  "coll": [
+   "demographic change",
+   "demographic data",
+   "target demographic",
+   "demographic shift",
+   "young demographic"
+  ]
+ },
+ {
+  "id": "biblical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc Kinh Thánh; theo Kinh Thánh; cực kỳ lớn",
+  "coll": [
+   "biblical story",
+   "biblical times",
+   "biblical reference",
+   "biblical proportions",
+   "biblical scholar"
+  ]
+ },
+ {
+  "id": "tenth",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "thứ mười; một phần mười",
+  "coll": [
+   "tenth grade",
+   "tenth place",
+   "tenth anniversary",
+   "one tenth",
+   "the tenth of June"
+  ]
+ },
+ {
+  "id": "velocity",
+  "pos": [
+   "n"
+  ],
+  "vi": "vận tốc; tốc độ",
+  "coll": [
+   "high velocity",
+   "escape velocity",
+   "constant velocity",
+   "muzzle velocity",
+   "the velocity of the object"
+  ]
+ },
+ {
+  "id": "lounge",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phòng chờ; phòng khách; ngả người thư giãn",
+  "coll": [
+   "airport lounge",
+   "departure lounge",
+   "hotel lounge",
+   "lounge around",
+   "lounge chair"
+  ]
+ },
+ {
+  "id": "delegation",
+  "pos": [
+   "n"
+  ],
+  "vi": "phái đoàn; sự ủy quyền",
+  "coll": [
+   "lead a delegation",
+   "trade delegation",
+   "delegation of authority",
+   "official delegation",
+   "delegation of tasks"
+  ]
+ },
+ {
+  "id": "subsidiary",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "công ty con; phụ, thứ yếu",
+  "coll": [
+   "wholly owned subsidiary",
+   "subsidiary company",
+   "subsidiary role",
+   "a subsidiary of the group",
+   "subsidiary issue"
+  ]
+ },
+ {
+  "id": "manuscript",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bản thảo; bản viết tay",
+  "coll": [
+   "submit a manuscript",
+   "original manuscript",
+   "ancient manuscript",
+   "manuscript pages",
+   "illuminated manuscript"
+  ]
+ },
+ {
+  "id": "admin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "việc hành chính; quản trị viên",
+  "coll": [
+   "admin work",
+   "admin fee",
+   "system admin",
+   "admin tasks",
+   "admin rights"
+  ]
+ },
+ {
+  "id": "donor",
+  "pos": [
+   "n"
+  ],
+  "vi": "người hiến tặng; nhà tài trợ",
+  "coll": [
+   "blood donor",
+   "organ donor",
+   "donor countries",
+   "major donor",
+   "donor funding"
+  ]
+ },
+ {
+  "id": "sensor",
+  "pos": [
+   "n"
+  ],
+  "vi": "cảm biến",
+  "coll": [
+   "motion sensor",
+   "temperature sensor",
+   "light sensor",
+   "sensor data",
+   "sensor technology"
+  ]
+ },
+ {
+  "id": "indicator",
+  "pos": [
+   "n"
+  ],
+  "vi": "chỉ số; dấu hiệu; đèn xi nhan",
+  "coll": [
+   "economic indicator",
+   "key indicator",
+   "performance indicator",
+   "a good indicator of",
+   "indicator light"
+  ]
+ },
+ {
+  "id": "reliability",
+  "pos": [
+   "n"
+  ],
+  "vi": "độ tin cậy; tính đáng tin",
+  "coll": [
+   "improve reliability",
+   "the reliability of the data",
+   "high reliability",
+   "reliability test",
+   "product reliability"
+  ]
+ },
+ {
+  "id": "inequality",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự bất bình đẳng; bất đẳng thức",
+  "coll": [
+   "income inequality",
+   "social inequality",
+   "gender inequality",
+   "growing inequality",
+   "reduce inequality"
+  ]
+ },
+ {
+  "id": "notification",
+  "pos": [
+   "n"
+  ],
+  "vi": "thông báo; sự báo tin",
+  "coll": [
+   "push notification",
+   "receive a notification",
+   "notification of changes",
+   "email notification",
+   "notification settings"
+  ]
+ },
+ {
+  "id": "enrollment",
+  "pos": [
+   "n"
+  ],
+  "vi": "việc ghi danh; số người nhập học",
+  "coll": [
+   "student enrollment",
+   "enrollment period",
+   "open enrollment",
+   "enrollment numbers",
+   "enrollment form"
+  ]
+ },
+ {
+  "id": "exterior",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bên ngoài; mặt ngoài; vẻ bề ngoài",
+  "coll": [
+   "exterior wall",
+   "exterior design",
+   "the exterior of the building",
+   "exterior paint",
+   "a calm exterior"
+  ]
+ },
+ {
+  "id": "pioneer",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "người tiên phong; khai phá, đi đầu",
+  "coll": [
+   "a pioneer in the field",
+   "pioneer of modern art",
+   "pioneer new methods",
+   "pioneer settlers",
+   "computing pioneer"
+  ]
+ },
+ {
+  "id": "likelihood",
+  "pos": [
+   "n"
+  ],
+  "vi": "khả năng xảy ra; xác suất",
+  "coll": [
+   "in all likelihood",
+   "the likelihood of success",
+   "increase the likelihood",
+   "high likelihood",
+   "reduce the likelihood"
+  ]
+ },
+ {
+  "id": "suburban",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "thuộc ngoại ô; vùng ven đô",
+  "coll": [
+   "suburban area",
+   "suburban life",
+   "suburban home",
+   "suburban sprawl",
+   "suburban neighbourhood"
+  ]
+ }
+]

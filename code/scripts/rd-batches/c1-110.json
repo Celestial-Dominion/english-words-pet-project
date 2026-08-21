@@ -1,0 +1,158 @@
+[
+ {
+  "id": "news-intel-s-offices-across-the-eu-raided",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Intel's_offices_across_the_EU_raided",
+  "title_en": "Intel's offices across the EU raided",
+  "sentences": [
+   "Tuesday, July 12, 2005 Local Law enforcement officials acting on behalf of the European Commission raided offices of Intel and several computer makers this morning, a spokesman for the EU said.",
+   "He did not specify which countries or which other firms were involved.",
+   "However, a spokesman for Intel Germany, Hans-Jürgen Werner, said that Intel's offices in Munich and Swindon were among those searched.",
+   "It emerged on Wednesday 13th, that raids also took place at Intel's facility in County Kildare, Ireland in relation to the firms anti-competitive business practices.",
+   "Intel employs over 5,000 people at its Irish manufacturing facility.",
+   "The raids are most likely connected to an ongoing anti-trust investigation against Intel by the EU.",
+   "It is alleged that the company used its market dominance to bully its clients into buying its chips instead of AMD ones.",
+   "Intel is denying the allegations."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-heuristic",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Heuristic",
+  "title_en": "Heuristic",
+  "sentences": [
+   "A heuristic is a practical way to solve a problem.",
+   "It is better than chance, but does not always work.",
+   "A person develops a heuristic by using intelligence, experience, and common sense.",
+   "Trial and error is the simplest heuristic, but one of the weakest.",
+   "\"Rule of thumb\" and \"educated guesses\" are other names for simple heuristics.",
+   "Since a heuristic is not certain to get a result, there are always exceptions."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-plotter",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Plotter",
+  "title_en": "Plotter",
+  "sentences": [
+   "A plotter is a kind of printer for computers.",
+   "Plotters use vector graphics.",
+   "Usually they are used to print to paper which is very large in size.",
+   "Plotters print things using special, colored pens.",
+   "There is one called the drum plotter.",
+   "They are often used in warehouses.",
+   "They are generally used for making flex or maps."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-artificial-general-intelligence",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Artificial_general_intelligence",
+  "title_en": "Artificial general intelligence",
+  "sentences": [
+   "Artificial general intelligence (AGI) is when a computer can do many different kinds of tasks as well as a human, or even better.",
+   "Currently some tasks can only be done by humans, who can use learning, thinking, and planning to take actions.",
+   "AGI is when computers can handle many types of tasks, such as solving problems, understanding new information, or learning new skills, at a level similar to humans.",
+   "AGI is different from \"narrow\" Artificial Intelligence (narrow AI).",
+   "Narrow AI is built to do a specific task well, like recognising a face, or playing a game of chess.",
+   "AGI would be able to do many tasks that it wasn’t specifically programmed to do.",
+   "Building on AGI is the idea of Artificial superintelligence (ASI), where computers could be much smarter than humans.",
+   "People working at companies such as OpenAI and Meta are trying to develop computers that can solve general problems.",
+   "They say that making AGI is an important goal."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-touchpad",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Touchpad",
+  "title_en": "Touchpad",
+  "sentences": [
+   "A touchpad (also called a trackpad) is a type of input device for computers that does the same things as a computer mouse.",
+   "It is made up of a flat, touch-sensitive surface which the user slides one or more fingers on to move the cursor on the screen.",
+   "Next to the touchpad are push-buttons that work just like mouse buttons, including left-clicking and right-clicking.",
+   "In some newer touchpads, there are no actual buttons, and clicking is done by pushing near the button of the touchpad itself.",
+   "Unlike computer mice, touchpads stay in one place when they are being used.",
+   "This makes it easy to build them into hardware.",
+   "They are mostly found on laptop computers because, when the user is traveling, sometimes they cannot use a mouse.",
+   "However, most laptops do allow the user to connect a separate mouse.",
+   "Besides laptops, touchpads are also more and more used on mobile devices with a GUI, including MP3 players (a well-known one being the iPod) and mobile phones (such as the BlackBerry).",
+   "However, touchpads on today's mobile devices such as smartphones and tablet computers have been replaced with the touchscreen.",
+   "The touchscreen is used much like a touchpad, except the screen is built into the touch-sensitive surface itself so that no mouse cursor is needed.",
+   "One can just touch anywhere on the surface to choose what is on the screen at that part.",
+   "Most touchpads have the function of tapping, which imitates the left-click button on a mouse.",
+   "New models of touchpads often do more things because they can respond to the pressure of more than one finger.",
+   "This is called multi-touch and makes it possible to do things like scroll though, zoom in and out, and rotate a page or part of the screen.",
+   "The user can choose and change which functions happen if the user does certain moves."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-file-archiver",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/File_archiver",
+  "title_en": "File archiver",
+  "sentences": [
+   "A file archiver is a computer program that puts several files together, and makes one large file from the parts.",
+   "Sometimes file archivers use data compression, but often they don't.",
+   "When doing a backup of data onto magnetic tape, all the data needs to be written together, so an archive file is used.",
+   "An example of an archiver is the command 'tar' which is avilable in many Linux and Unix systems.",
+   "As tar only combines flies, it is usually used together with 'gzip'.",
+   "Programs such as 7zip (or zip) will also compress the output, so it takes less space."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-online-mendelian-inheritance-in-man",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Online_Mendelian_Inheritance_in_Man",
+  "title_en": "Online Mendelian Inheritance in Man",
+  "sentences": [
+   "Online Mendelian Inheritance in Man (OMIM) is a database that keeps track of all known human genes.",
+   "It list those which cause genetic disorders, and those which simply cause traits.",
+   "There are about 8,000 entries for genes, and 15,000 entries for phenotypes, which are (roughly) the feature(s) caused by a person's genes.",
+   "When possible it links diseases to specific genes.",
+   "It provides a useful tool for further research.",
+   "OMIM is one of the databases housed in the U.S.",
+   "National Center for Biotechnology Information (NCBI).",
+   "People search it using the NCBI search menus."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-alleged-rights-group-involved-with-remov",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Alleged_'rights_group'_involved_with_removal_of_anti-Scientology_videos_from_YouTube_doesn't_exist%3B_says_EFF",
+  "title_en": "Alleged 'rights group' involved with removal of anti-Scientology videos from YouTube doesn't exist; says EFF",
+  "sentences": [
+   "Tuesday, September 9, 2008 On September 4 and 5, at least 4,000 anti-Scientology videos were removed from the video sharing website, YouTube.",
+   "The videos removed were done so by a single Digital Millennium Copyright Act (DMCA) notice by an alleged 'rights group' called the American Rights Counsel LLC, which Wikinews has confirmed does not exist beyond the scope of those requests.",
+   "In an exclusive interview with Wikinews the Electronic Frontier Foundation (EFF) acknowledged that they \"don't know anything about\" the Counsel and that any attempt to intentionally commit fraud by filing false DMCA requests, could lead to criminal charges.",
+   "\"We don't know anything about this group.",
+   "However, if these DMCA notices were sent improperly, there could be legal remedies.",
+   "The particulars would depend on the particulars of the situation,\" Rebecca Jeschke, a spokeswoman for the EFF, told Wikinews.",
+   "The EFF first broke the story regarding the requests.",
+   "YouTube received the notice all at once, in a single request.",
+   "When Wikinews asked the EFF if they knew the names or links to the material in question, they stated that they do not know the names and that they have not seen the notice filed with YouTube.",
+   "According to Jeschk, the \"EFF fights abuse of the DMCA. ...\" but did not state where the EFF heard about the request.",
+   "\"We have not seen the notices, merely heard about them [and] we don't know enough to know if the DMCA has been abused here.",
+   "However, only copyright holders can issue DMCA takedowns,\" Jeschke said.",
+   "The EFF is investigating the incident, and it is not yet known who or what was behind the DMCA request.",
+   "Some have speculated that the Counsel is a front for Scientology operated by a Dr. Oliver Schaper.",
+   "In an exclusive interview with Wikinews, Schaper denied any involvement with the DMCA requests and also denied having any knowledge whatsoever of the Counsel.",
+   "\"As many other people, and even members of the Church of Scientology received information about a company that removed anti-Scientology content from YouTube, shit hit the fan and members of Anonymous went on a full attack on me."
+  ],
+  "topic": "it"
+ }
+]

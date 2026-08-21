@@ -1,0 +1,876 @@
+[
+ {
+  "id": "shortcut",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đường tắt; cách làm tắt; phím tắt",
+  "coll": [
+   "take a shortcut",
+   "keyboard shortcut",
+   "no shortcut to success",
+   "a handy shortcut",
+   "shortcut key"
+  ]
+ },
+ {
+  "id": "watermelon",
+  "pos": [
+   "n"
+  ],
+  "vi": "dưa hấu",
+  "coll": [
+   "a slice of watermelon",
+   "watermelon juice",
+   "seedless watermelon",
+   "ripe watermelon",
+   "watermelon seeds"
+  ]
+ },
+ {
+  "id": "biologist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà sinh vật học",
+  "coll": [
+   "marine biologist",
+   "molecular biologist",
+   "evolutionary biologist",
+   "a team of biologists",
+   "wildlife biologist"
+  ]
+ },
+ {
+  "id": "computation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tính toán; phép tính",
+  "coll": [
+   "complex computation",
+   "quantum computation",
+   "perform a computation",
+   "computation time",
+   "numerical computation"
+  ]
+ },
+ {
+  "id": "craze",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cơn sốt nhất thời; trào lưu rầm rộ",
+  "coll": [
+   "the latest craze",
+   "a fitness craze",
+   "a craze for",
+   "a passing craze",
+   "sweeping craze"
+  ]
+ },
+ {
+  "id": "illumination",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự chiếu sáng; ánh sáng; sự khai sáng",
+  "coll": [
+   "street illumination",
+   "natural illumination",
+   "levels of illumination",
+   "provide illumination",
+   "spiritual illumination"
+  ]
+ },
+ {
+  "id": "outspoken",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thẳng thắn, bộc trực",
+  "coll": [
+   "outspoken critic",
+   "outspoken supporter",
+   "outspoken views",
+   "an outspoken opponent",
+   "remarkably outspoken"
+  ]
+ },
+ {
+  "id": "revert",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "quay lại như cũ; hoàn nguyên",
+  "coll": [
+   "revert to type",
+   "revert to the original",
+   "revert back",
+   "revert the changes",
+   "revert to default"
+  ]
+ },
+ {
+  "id": "treadmill",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "máy chạy bộ; vòng xoay tẻ nhạt",
+  "coll": [
+   "run on a treadmill",
+   "treadmill workout",
+   "the daily treadmill",
+   "treadmill test",
+   "get off the treadmill"
+  ]
+ },
+ {
+  "id": "phony",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "giả tạo, đồ dỏm; kẻ giả dối",
+  "coll": [
+   "phony accent",
+   "a phony story",
+   "phony charity",
+   "he's a phony",
+   "phony excuse"
+  ]
+ },
+ {
+  "id": "heresy",
+  "pos": [
+   "n"
+  ],
+  "vi": "dị giáo, tà thuyết; ý kiến trái quy chuẩn",
+  "coll": [
+   "accused of heresy",
+   "sheer heresy",
+   "religious heresy",
+   "commit heresy",
+   "charges of heresy"
+  ]
+ },
+ {
+  "id": "conspicuous",
+  "pos": [
+   "adj"
+  ],
+  "vi": "nổi bật, dễ thấy; lồ lộ",
+  "coll": [
+   "conspicuous by his absence",
+   "conspicuous consumption",
+   "highly conspicuous",
+   "conspicuous position",
+   "make oneself conspicuous"
+  ]
+ },
+ {
+  "id": "unavoidable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không thể tránh khỏi; tất yếu",
+  "coll": [
+   "unavoidable consequence",
+   "unavoidable delay",
+   "largely unavoidable",
+   "unavoidable circumstances",
+   "an unavoidable fact"
+  ]
+ },
+ {
+  "id": "pedigree",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "gia phả, dòng dõi; giấy chứng nhận giống thuần",
+  "coll": [
+   "impressive pedigree",
+   "pedigree dog",
+   "a long pedigree",
+   "academic pedigree",
+   "pedigree chart"
+  ]
+ },
+ {
+  "id": "genealogy",
+  "pos": [
+   "n"
+  ],
+  "vi": "phả hệ; việc nghiên cứu gia phả",
+  "coll": [
+   "family genealogy",
+   "trace one's genealogy",
+   "genealogy research",
+   "study genealogy",
+   "genealogy records"
+  ]
+ },
+ {
+  "id": "authentication",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự xác thực danh tính; việc chứng thực",
+  "coll": [
+   "two-factor authentication",
+   "user authentication",
+   "authentication process",
+   "biometric authentication",
+   "authentication failed"
+  ]
+ },
+ {
+  "id": "escalate",
+  "pos": [
+   "v"
+  ],
+  "vi": "leo thang; đẩy lên mức cao hơn",
+  "coll": [
+   "escalate the conflict",
+   "tensions escalate",
+   "escalate quickly",
+   "escalate the issue",
+   "costs escalate"
+  ]
+ },
+ {
+  "id": "grammatical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đúng ngữ pháp; thuộc ngữ pháp",
+  "coll": [
+   "grammatical error",
+   "grammatical structure",
+   "grammatical rules",
+   "perfectly grammatical",
+   "grammatical gender"
+  ]
+ },
+ {
+  "id": "marxism",
+  "pos": [
+   "n"
+  ],
+  "vi": "chủ nghĩa Marx",
+  "coll": [
+   "classical Marxism",
+   "Marxism and socialism",
+   "study Marxism",
+   "reject Marxism",
+   "Marxism-Leninism"
+  ]
+ },
+ {
+  "id": "cupcake",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bánh cupcake",
+  "coll": [
+   "chocolate cupcake",
+   "bake cupcakes",
+   "cupcake frosting",
+   "a box of cupcakes",
+   "cupcake shop"
+  ]
+ },
+ {
+  "id": "unilateral",
+  "pos": [
+   "adj"
+  ],
+  "vi": "đơn phương; một phía",
+  "coll": [
+   "unilateral decision",
+   "unilateral action",
+   "unilateral withdrawal",
+   "unilateral disarmament",
+   "unilateral ceasefire"
+  ]
+ },
+ {
+  "id": "landfill",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "bãi chôn lấp rác; chôn lấp rác",
+  "coll": [
+   "landfill site",
+   "go to landfill",
+   "landfill waste",
+   "municipal landfill",
+   "landfill gas"
+  ]
+ },
+ {
+  "id": "taxable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "chịu thuế; phải nộp thuế",
+  "coll": [
+   "taxable income",
+   "taxable amount",
+   "taxable profits",
+   "fully taxable",
+   "taxable year"
+  ]
+ },
+ {
+  "id": "exceedingly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "cực kỳ; hết sức",
+  "coll": [
+   "exceedingly rare",
+   "exceedingly difficult",
+   "exceedingly well",
+   "exceedingly polite",
+   "exceedingly important"
+  ]
+ },
+ {
+  "id": "ramen",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "vi": "mì ramen",
+  "coll": [
+   "a bowl of ramen",
+   "instant ramen",
+   "ramen noodles",
+   "ramen shop",
+   "pork ramen"
+  ]
+ },
+ {
+  "id": "mechanically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt cơ khí; như cái máy, máy móc",
+  "coll": [
+   "mechanically sound",
+   "nod mechanically",
+   "mechanically operated",
+   "mechanically repeat",
+   "mechanically separated meat"
+  ]
+ },
+ {
+  "id": "catfish",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cá trê, cá da trơn; kẻ giả danh trên mạng",
+  "coll": [
+   "fried catfish",
+   "catfish farming",
+   "catch a catfish",
+   "catfish scam",
+   "get catfished"
+  ]
+ },
+ {
+  "id": "colonists",
+  "pos": [
+   "n"
+  ],
+  "vi": "những người đi khai hoang lập thuộc địa",
+  "coll": [
+   "European colonists",
+   "early colonists",
+   "American colonists",
+   "colonists settled",
+   "British colonists"
+  ]
+ },
+ {
+  "id": "hipster",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dân sành điệu lập dị; người theo mốt thời thượng",
+  "coll": [
+   "hipster culture",
+   "hipster beard",
+   "hipster café",
+   "a bunch of hipsters",
+   "hipster style"
+  ]
+ },
+ {
+  "id": "pinpoint",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "xác định chính xác; cực chính xác",
+  "coll": [
+   "pinpoint the cause",
+   "pinpoint accuracy",
+   "hard to pinpoint",
+   "pinpoint the location",
+   "pinpoint the problem"
+  ]
+ },
+ {
+  "id": "enamel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "men (răng, sứ); sơn men",
+  "coll": [
+   "tooth enamel",
+   "enamel paint",
+   "protect the enamel",
+   "enamel coating",
+   "enamel erosion"
+  ]
+ },
+ {
+  "id": "excessively",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "vi": "quá mức; thái quá",
+  "coll": [
+   "excessively high",
+   "drink excessively",
+   "excessively long",
+   "excessively expensive",
+   "excessively harsh"
+  ]
+ },
+ {
+  "id": "senseless",
+  "pos": [
+   "adj"
+  ],
+  "vi": "vô nghĩa lý, vô cớ; bất tỉnh",
+  "coll": [
+   "senseless violence",
+   "senseless killing",
+   "senseless act",
+   "knocked senseless",
+   "utterly senseless"
+  ]
+ },
+ {
+  "id": "geographically",
+  "pos": [
+   "adv"
+  ],
+  "vi": "về mặt địa lý",
+  "coll": [
+   "geographically isolated",
+   "geographically diverse",
+   "geographically close",
+   "geographically dispersed",
+   "geographically defined"
+  ]
+ },
+ {
+  "id": "prowess",
+  "pos": [
+   "n"
+  ],
+  "vi": "tài nghệ xuất chúng; sự dũng mãnh",
+  "coll": [
+   "military prowess",
+   "technical prowess",
+   "athletic prowess",
+   "sexual prowess",
+   "demonstrate prowess"
+  ]
+ },
+ {
+  "id": "byzantine",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "rối rắm phức tạp; thuộc đế chế Byzantine",
+  "coll": [
+   "byzantine rules",
+   "byzantine bureaucracy",
+   "byzantine complexity",
+   "byzantine system",
+   "byzantine politics"
+  ]
+ },
+ {
+  "id": "herpes",
+  "pos": [
+   "n"
+  ],
+  "vi": "bệnh herpes (mụn rộp)",
+  "coll": [
+   "genital herpes",
+   "herpes virus",
+   "oral herpes",
+   "herpes outbreak",
+   "contract herpes"
+  ]
+ },
+ {
+  "id": "reimbursement",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hoàn tiền; khoản bồi hoàn",
+  "coll": [
+   "claim reimbursement",
+   "expense reimbursement",
+   "full reimbursement",
+   "reimbursement request",
+   "medical reimbursement"
+  ]
+ },
+ {
+  "id": "frontline",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tuyến đầu; ở tuyến đầu",
+  "coll": [
+   "frontline workers",
+   "frontline staff",
+   "frontline troops",
+   "frontline services",
+   "on the frontline"
+  ]
+ },
+ {
+  "id": "cybersecurity",
+  "pos": [
+   "n"
+  ],
+  "vi": "an ninh mạng",
+  "coll": [
+   "cybersecurity threat",
+   "cybersecurity expert",
+   "cybersecurity firm",
+   "improve cybersecurity",
+   "cybersecurity breach"
+  ]
+ },
+ {
+  "id": "rolex",
+  "pos": [
+   "n"
+  ],
+  "vi": "đồng hồ Rolex; món trứng cuộn bánh chapati (Uganda)",
+  "coll": [
+   "wear a Rolex",
+   "a gold Rolex",
+   "fake Rolex",
+   "Rolex watch",
+   "vintage Rolex"
+  ]
+ },
+ {
+  "id": "hindsight",
+  "pos": [
+   "n"
+  ],
+  "vi": "cái nhìn hồi cố, sự khôn ra sau chuyện",
+  "coll": [
+   "in hindsight",
+   "with hindsight",
+   "hindsight is 20/20",
+   "the benefit of hindsight",
+   "hindsight bias"
+  ]
+ },
+ {
+  "id": "malice",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "ác ý; sự hiểm độc",
+  "coll": [
+   "with malice",
+   "malice aforethought",
+   "no malice intended",
+   "out of malice",
+   "bear malice"
+  ]
+ },
+ {
+  "id": "involuntary",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không chủ ý; ngoài ý muốn",
+  "coll": [
+   "involuntary movement",
+   "involuntary manslaughter",
+   "involuntary reaction",
+   "involuntary muscle",
+   "involuntary redundancy"
+  ]
+ },
+ {
+  "id": "sling",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "quăng, ném mạnh; dây đeo, băng treo tay",
+  "coll": [
+   "sling it over your shoulder",
+   "arm in a sling",
+   "sling mud",
+   "baby sling",
+   "sling a bag"
+  ]
+ },
+ {
+  "id": "subpoena",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trát hầu tòa; triệu tập bằng trát",
+  "coll": [
+   "issue a subpoena",
+   "serve a subpoena",
+   "subpoena the records",
+   "federal subpoena",
+   "comply with a subpoena"
+  ]
+ },
+ {
+  "id": "cognition",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhận thức; quá trình tư duy",
+  "coll": [
+   "human cognition",
+   "social cognition",
+   "impaired cognition",
+   "cognition and memory",
+   "study of cognition"
+  ]
+ },
+ {
+  "id": "cylindrical",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hình trụ",
+  "coll": [
+   "cylindrical shape",
+   "cylindrical container",
+   "cylindrical tank",
+   "roughly cylindrical",
+   "cylindrical body"
+  ]
+ },
+ {
+  "id": "toad",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con cóc; kẻ đáng ghét",
+  "coll": [
+   "a common toad",
+   "cane toad",
+   "toad in the hole",
+   "poisonous toad",
+   "ugly as a toad"
+  ]
+ },
+ {
+  "id": "libel",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự vu khống bằng văn bản; phỉ báng",
+  "coll": [
+   "sue for libel",
+   "libel case",
+   "libel laws",
+   "libel suit",
+   "commit libel"
+  ]
+ },
+ {
+  "id": "ridicule",
+  "pos": [
+   "v",
+   "n",
+   "adj"
+  ],
+  "vi": "chế giễu; sự nhạo báng",
+  "coll": [
+   "hold up to ridicule",
+   "object of ridicule",
+   "public ridicule",
+   "ridicule the idea",
+   "subject to ridicule"
+  ]
+ },
+ {
+  "id": "slander",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vu khống bằng lời nói; bôi nhọ",
+  "coll": [
+   "slander and libel",
+   "sue for slander",
+   "malicious slander",
+   "spread slander",
+   "slander his name"
+  ]
+ },
+ {
+  "id": "embryo",
+  "pos": [
+   "n"
+  ],
+  "vi": "phôi thai",
+  "coll": [
+   "human embryo",
+   "embryo transfer",
+   "frozen embryo",
+   "embryo development",
+   "in embryo"
+  ]
+ },
+ {
+  "id": "junta",
+  "pos": [
+   "n"
+  ],
+  "vi": "chính quyền quân sự (sau đảo chính)",
+  "coll": [
+   "military junta",
+   "the ruling junta",
+   "junta leader",
+   "overthrow the junta",
+   "junta government"
+  ]
+ },
+ {
+  "id": "calibration",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hiệu chuẩn; việc căn chỉnh",
+  "coll": [
+   "instrument calibration",
+   "calibration curve",
+   "regular calibration",
+   "calibration error",
+   "screen calibration"
+  ]
+ },
+ {
+  "id": "devastation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự tàn phá; cảnh hoang tàn",
+  "coll": [
+   "widespread devastation",
+   "cause devastation",
+   "scenes of devastation",
+   "environmental devastation",
+   "utter devastation"
+  ]
+ },
+ {
+  "id": "devout",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "sùng đạo; hết lòng trung thành",
+  "coll": [
+   "devout Catholic",
+   "devout Muslim",
+   "devout believer",
+   "devout follower",
+   "deeply devout"
+  ]
+ },
+ {
+  "id": "latch",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "cài chốt; chốt cửa; bám chặt lấy",
+  "coll": [
+   "latch the door",
+   "latch onto",
+   "door latch",
+   "safety latch",
+   "lift the latch"
+  ]
+ },
+ {
+  "id": "sleek",
+  "pos": [
+   "adj",
+   "adv",
+   "v",
+   "n"
+  ],
+  "vi": "bóng mượt; thanh thoát, gọn đẹp",
+  "coll": [
+   "sleek design",
+   "sleek hair",
+   "sleek black car",
+   "sleek and modern",
+   "sleek lines"
+  ]
+ },
+ {
+  "id": "amnesia",
+  "pos": [
+   "n"
+  ],
+  "vi": "chứng mất trí nhớ",
+  "coll": [
+   "suffer from amnesia",
+   "temporary amnesia",
+   "collective amnesia",
+   "total amnesia",
+   "amnesia patient"
+  ]
+ }
+]

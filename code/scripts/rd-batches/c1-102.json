@@ -1,0 +1,174 @@
+[
+ {
+  "id": "wiki-usb",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/USB",
+  "title_en": "USB",
+  "sentences": [
+   "The Universal Serial Bus (USB) is technology that allows a person to connect an electronic device to a computer.",
+   "It is a serial bus type.",
+   "It is mostly used on personal computers.",
+   "USB is also used on other devices, such as smartphones and video game consoles.",
+   "USB connects different devices using a standard interface.",
+   "Most people use USB for computer mice, keyboards, scanners, printers, digital cameras, and USB flash drives.",
+   "There are over six billion USB devices around the world.",
+   "The standard was made to improve plug and play devices.",
+   "This means that a device can be plugged into a free socket, and simply work.",
+   "The computer will notice the device.",
+   "The computer sometimes installs a device driver to use the device.",
+   "The device can be removed after it stops being used.",
+   "This technology is called \"hot swapping\".",
+   "\"Hot swapping\" means it can be plugged and unplugged while the power is on.",
+   "The computer does not need to be turned off for people to change the devices.",
+   "USB can provide a small amount of power to the attached device through the USB cord."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-biological-encyclopedia-website-too-popu",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Biological_Encyclopedia_website_too_popular_on_first_day%2C_crashes",
+  "title_en": "Biological Encyclopedia website too popular on first day, crashes",
+  "sentences": [
+   "Wednesday, February 27, 2008 While it has taken almost a year, the non-profit Encyclopedia of Life project launched yesterday.",
+   "It gained so much attention, that the site quickly crashed.",
+   "It went back online Tuesday afternoon (EST), but went down again the next morning.",
+   "During five-and-a-half hours, the site logged 11.5 million hits, including visitors who reached the \"503 error\".",
+   "EOL is estimated to have cost US$110.5 million so far.",
+   "The site has limited information on 30,000 species, and full profiles of 25 species.",
+   "These fleshed-out profiles include an article with scientific references, maps of where the species are found, and are illustrated with photos and video.",
+   "One million placeholder pages have been set up so far, and the plan is to eventually catalog all 1.8 million species.",
+   "The Wikimedia Foundation launched a similar project in August 2004, Wikispecies.",
+   "Perhaps the least known of Wikimedia projects, it \"was created to provide an open source forum for taxonomic and biological information.\" It has logged 120,247 species, under a free license.",
+   "The US government runs an Integrated Taxonomic Information System, with 464,081 scientific names.",
+   "It is created in partnership with similar Canadian and Mexican databases.",
+   "There is also a Tree of Life Web Project, and a Catalogue of Life, the latter being the most successful; it is a compilation of 1,008,965 species, from 47 taxonomical databases.",
+   "ZipcodeZoo offers descriptions of over 3 million species of plants and animals, with 250,000 photos, maps, pronunciations, and definitions in 13 languages.",
+   "ARKive collects media of species, and the All Species Foundation was a failed early attempt at a web catalog."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-10-or",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/10.or",
+  "title_en": "10.or",
+  "sentences": [
+   "10.or, often pronounced Tenor, is a mobile phone brand.",
+   "It was launched by Chinese company Huaqin Technology, which was founded in 2005.",
+   "The brand was launched in India at Amazon India.",
+   "In 2017, the company made a debut in India with 10.or E smartphone.",
+   "It is sold only on Amazon India.",
+   "The brand made many product launches.",
+   "This mobile brand manufactured by Huaqin Technology Co Ltd, a renowned hardware technology solutions provider headquartered in Shanghai, China.",
+   "With a strong foothold in the industry, Huaqin Technology leads the way in delivering cutting-edge hardware solutions.",
+   "Their expertise in product development, precision manufacturing, and software and hardware systems operation has earned them a reputation as a top player in the global market.",
+   "This mobiles are a testament to their commitment to innovation and excellence, offering customers reliable and feature-rich devices that cater to their evolving needs.",
+   "As a trailblazer in the technology sector, Huaqin Technology continues to set new standards for the industry."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-google-launches-google-spreadsheets",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Google_launches_Google_Spreadsheets",
+  "title_en": "Google launches Google Spreadsheets",
+  "sentences": [
+   "Tuesday, June 6, 2006 Google has launched an online spreadsheet site, in a private beta.",
+   "The site will allow spreadsheets to be shared between up to 10 users, which is aimed to be useful to teams and small businesses.",
+   "\"Many people already organise information into spreadsheets.",
+   "Where they are struggling is to share it\" said the product manager, Jonathan Rochelle.",
+   "Google recently bought the online word-processor Writely, launched a calendar product, as well as a desktop search tool.",
+   "Many see this as them straying into Microsoft's markets.",
+   "Google Spreadsheets uses very advanced AJAX (Asynchronous Javascript And Xml) and Client Side Scripting to mimic very effectively it's desktop counterparts' functions.",
+   "It is surprisingly fast, has very good formatting and advanced formula support, but best of all it has complete support for Microsoft Excel .xls files, and very good collaboration: just enter the e-mail address and you can share easily."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-off-by-one-error",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Off-by-one_error",
+  "title_en": "Off-by-one error",
+  "sentences": [
+   "An Off-by-one error is a logic error that often occurs in Computer programming and that often involves the checking of boundary conditions.",
+   "A fencepost error (occasionally called a telegraph pole or lamp-post error) is a specific type of off-by-one error.",
+   "The following problem illustrates the error: If you build a straight fence 100 meters long with posts 10 meters apart, how many posts do you need?",
+   "The intuitive answer 10 is wrong.",
+   "The fence has 10 sections, but 11 posts.",
+   "The reverse error occurs when the number of posts is known and the number of sections is assumed to be the same.",
+   "The actual number of sections is one less than the number of posts.",
+   "More generally, the problem can be stated as follows: If you have n telegraph poles, how many gaps are there between them?",
+   "The correct answer may be n − 1, n, or n + 1, depending on the conditions.",
+   "The precise problem definition must be carefully considered, as the setup for one situation may give the wrong answer for other situations.",
+   "Fencepost errors come from counting things rather than the spaces between them, or vice versa, or by neglecting to consider whether one should count one or both ends of a row.",
+   "Off by one errors often occur with loops.",
+   "If there are a number of fields, eg. in an array, and there is a loop over the array, an off-by-one error means that either there is one iteration too few to cover all elements, or one too many.",
+   "In the first case, one element of the array is left out, in the second the index of the array will be outside its dimensions.",
+   "The second error usually leads to a runtime error, because the program checks the size of the data structure, and sees that there are too few elements for the iteration.",
+   "The first error is more problematic, because it usually is not detected."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-latest-trial-of-the-one-laptop-per-child",
+  "level": 3,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Latest_trial_of_the_One_Laptop_Per_Child_running_in_India%3B_Uruguay_orders_100%2C000_machines",
+  "title_en": "Latest trial of the One Laptop Per Child running in India; Uruguay orders 100,000 machines",
+  "sentences": [
+   "Thursday, November 8, 2007 India is the latest of the countries where the One Laptop Per Child (OLPC) experiment has started.",
+   "Children from the village of Khairat were given the opportunity to learn how to use the XO laptop.",
+   "During the last year XO was distributed to children from Arahuay in Peru, Ban Samkha in Thailand, Cardal in Uruguay and Galadima in Nigeria.",
+   "The OLPC team are, in their reports on the startup of the trials, delighted with how the laptop has improved access to information and ability to carry out educational activities.",
+   "Thailand's The Nation has praised the project, describing the children as \"enthusiastic\" and keen to attend school with their laptops.",
+   "Recent good news for the project sees Uruguay having ordered 100,000 of the machines which are to be given to children aged six to twelve.",
+   "Should all go according to plan a further 300,000 machines will be purchased by 2009 to give one to every child in the country.",
+   "As the first to order, Uruguay chose the OLPC XO laptop over its rival from Intel, the Classmate PC.",
+   "In parallel with the delivery of the laptops network connectivity will be provided to schools involved in the project.",
+   "The remainder of this article is based on Carla G.",
+   "Munroy's Khairat Chronicle, which is available from the OLPC Wiki.",
+   "Additional sources are listed at the end."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-cybersquatting",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Cybersquatting",
+  "title_en": "Cybersquatting",
+  "sentences": [
+   "Cybersquatting is the use of a domain name which is another person's trademark.",
+   "The domain name may be the name of a person, a company, or an organization.",
+   "The purpose of cybersquatting is to make money.",
+   "For example: Domain parking: somebody buys a domain name of a company, because they hope to sell the domain to the company later.",
+   "Phishing: somebody buys the domain name of a company, to fool people who visit that website.",
+   "These visitors think the company owns the website — but a scammer actually owns the website.",
+   "When they use their banking number, the scammer can now steal money from their bank account.",
+   "In the USA, cybersquatting may be a crime under the Anticybersquatting Consumer Protection Act."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-fishbase",
+  "level": 3,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/FishBase",
+  "title_en": "FishBase",
+  "sentences": [
+   "FishBase is a global species database of fish.",
+   "It is the largest and most accessed online database on adult fish on the web.",
+   "As of August 2022, FishBase included descriptions of 35,300 species and subspecies, with 327,900 common names, 63,800 pictures, and references to 60,200 works in the scientific literature.",
+   "The site has about 700,000 visits per month.",
+   "It provides comprehensive species data, including information on taxonomy, geographical distribution, biometrics and morphology, behavior and habitats, ecology and population dynamics as well as reproductive, metabolic and genetic data.",
+   "FishBase only covers adult fish, but doesn't detail the early and juvenile stages of fish."
+  ],
+  "topic": "it"
+ }
+]

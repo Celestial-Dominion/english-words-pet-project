@@ -1,0 +1,402 @@
+{
+  "scripture": {
+    "vi": "kinh thánh; kinh sách, thánh thư",
+    "coll": ["holy scripture", "quote scripture", "read the scriptures", "according to scripture", "biblical scripture"]
+  },
+  "ideological": {
+    "vi": "thuộc ý thức hệ; mang tính tư tưởng",
+    "coll": ["ideological differences", "an ideological battle", "ideological divide", "ideological commitment", "ideological reasons"]
+  },
+  "fairness": {
+    "vi": "sự công bằng; tính công tâm",
+    "coll": ["a sense of fairness", "in fairness to him", "fairness and justice", "questions of fairness", "ensure fairness"]
+  },
+  "sustainability": {
+    "vi": "tính bền vững; sự phát triển bền vững",
+    "coll": ["environmental sustainability", "long-term sustainability", "financial sustainability", "sustainability goals", "improve sustainability"]
+  },
+  "registry": {
+    "vi": "sổ đăng ký; cơ quan đăng ký; registry (hệ thống)",
+    "coll": ["a land registry", "the registry office", "a wedding registry", "the Windows registry", "a national registry"]
+  },
+  "analytics": {
+    "vi": "phân tích dữ liệu; công cụ phân tích",
+    "coll": ["web analytics", "data analytics", "predictive analytics", "analytics tools", "business analytics"]
+  },
+  "digit": {
+    "vi": "chữ số; ngón (tay, chân)",
+    "coll": ["a four-digit number", "single digits", "double-digit growth", "the last four digits", "digit span"]
+  },
+  "africans": {
+    "vi": "những người châu Phi",
+    "coll": ["South Africans", "many Africans", "black Africans", "Africans and Europeans", "North Africans"]
+  },
+  "norms": {
+    "vi": "chuẩn mực, quy chuẩn; thông lệ",
+    "coll": ["social norms", "cultural norms", "gender norms", "established norms", "challenge the norms"]
+  },
+  "twitch": {
+    "vi": "co giật, giật giật; cái nháy cơ",
+    "coll": ["a nervous twitch", "an eye twitch", "twitch nervously", "a muscle twitch", "twitch in his sleep"]
+  },
+  "bypass": {
+    "vi": "đi vòng qua, bỏ qua; đường tránh; phẫu thuật bắc cầu",
+    "coll": ["bypass the system", "a heart bypass", "bypass surgery", "bypass the rules", "a ring road bypass"]
+  },
+  "phenomenal": {
+    "vi": "phi thường, tuyệt vời; đáng kinh ngạc",
+    "coll": ["a phenomenal success", "phenomenal growth", "a phenomenal performance", "phenomenal talent", "phenomenal rate"]
+  },
+  "activate": {
+    "vi": "kích hoạt; khởi động, làm hoạt động",
+    "coll": ["activate an account", "activate the alarm", "activate a card", "activate the system", "activate a gene"]
+  },
+  "behold": {
+    "vi": "nhìn xem, chiêm ngưỡng (văn chương); kìa",
+    "coll": ["lo and behold", "behold the sight", "a wonder to behold", "behold his glory", "beautiful to behold"]
+  },
+  "nitrogen": {
+    "vi": "nitơ, đạm",
+    "coll": ["liquid nitrogen", "nitrogen gas", "nitrogen fixation", "nitrogen levels", "the nitrogen cycle"]
+  },
+  "metre": {
+    "vi": "mét (đơn vị đo); nhịp thơ, nhịp điệu",
+    "coll": ["a square metre", "100 metres", "cubic metre", "per metre", "iambic metre"]
+  },
+  "payroll": {
+    "vi": "bảng lương; quỹ lương; danh sách hưởng lương",
+    "coll": ["on the payroll", "payroll taxes", "monthly payroll", "run payroll", "payroll system"]
+  },
+  "nineteenth": {
+    "vi": "thứ mười chín; một phần mười chín",
+    "coll": ["the nineteenth century", "the nineteenth of June", "his nineteenth birthday", "the nineteenth hole"]
+  },
+  "turf": {
+    "vi": "thảm cỏ, lớp cỏ; địa bàn, lãnh địa",
+    "coll": ["artificial turf", "lay turf", "on home turf", "a turf war", "cut the turf"]
+  },
+  "dispatch": {
+    "vi": "gửi đi, cử đi; công văn, bản tin; sự điều phối",
+    "coll": ["dispatch troops", "dispatch a team", "a news dispatch", "same-day dispatch", "the dispatch of goods"]
+  },
+  "billionaire": {
+    "vi": "tỷ phú",
+    "coll": ["a tech billionaire", "become a billionaire", "a self-made billionaire", "billionaire investor", "the world's richest billionaire"]
+  },
+  "neural": {
+    "vi": "thuộc thần kinh; thuộc nơ-ron",
+    "coll": ["a neural network", "neural activity", "neural pathways", "neural connections", "neural tube"]
+  },
+  "cancellation": {
+    "vi": "sự hủy bỏ; việc hủy vé, hủy chuyến",
+    "coll": ["flight cancellation", "a cancellation fee", "cancellation policy", "last-minute cancellation", "notice of cancellation"]
+  },
+  "designation": {
+    "vi": "sự chỉ định; danh xưng, tên gọi chính thức",
+    "coll": ["official designation", "job designation", "the designation of a site", "designation as a park", "a formal designation"]
+  },
+  "transplant": {
+    "vi": "cấy ghép (tạng); ca ghép tạng; đánh chuyển (cây)",
+    "coll": ["a heart transplant", "a kidney transplant", "a transplant patient", "transplant surgery", "transplant seedlings"]
+  },
+  "syrup": {
+    "vi": "siro; nước đường",
+    "coll": ["maple syrup", "cough syrup", "golden syrup", "chocolate syrup", "sugar syrup"]
+  },
+  "pinch": {
+    "vi": "véo, cấu; kẹp chặt; một nhúm (muối)",
+    "coll": ["a pinch of salt", "pinch your arm", "feel the pinch", "at a pinch", "pinch and zoom"]
+  },
+  "stellar": {
+    "vi": "xuất sắc, tuyệt vời; thuộc về các vì sao",
+    "coll": ["a stellar performance", "a stellar career", "stellar reviews", "stellar evolution", "less than stellar"]
+  },
+  "username": {
+    "vi": "tên đăng nhập; tên người dùng",
+    "coll": ["enter your username", "username and password", "choose a username", "an invalid username", "change your username"]
+  },
+  "photographic": {
+    "vi": "thuộc nhiếp ảnh; chính xác như ảnh chụp",
+    "coll": ["a photographic memory", "photographic evidence", "photographic equipment", "a photographic exhibition", "photographic film"]
+  },
+  "dunno": {
+    "vi": "không biết (nói tắt của don't know)",
+    "coll": ["I dunno", "dunno why", "dunno about that", "dunno really"]
+  },
+  "dementia": {
+    "vi": "chứng sa sút trí tuệ; bệnh mất trí nhớ",
+    "coll": ["suffer from dementia", "early-onset dementia", "dementia patients", "vascular dementia", "signs of dementia"]
+  },
+  "newsletter": {
+    "vi": "bản tin (định kỳ)",
+    "coll": ["subscribe to a newsletter", "a monthly newsletter", "an email newsletter", "send out a newsletter", "the company newsletter"]
+  },
+  "ooh": {
+    "vi": "ồ, ôi (tiếng thốt ngạc nhiên, thích thú)",
+    "coll": ["ooh and aah", "ooh, that's nice", "ooh la la", "let out an ooh"]
+  },
+  "shipment": {
+    "vi": "lô hàng; sự vận chuyển hàng",
+    "coll": ["a shipment of goods", "track a shipment", "delay a shipment", "the first shipment", "shipment arrived"]
+  },
+  "mentality": {
+    "vi": "não trạng, lối nghĩ; tâm lý, tư duy",
+    "coll": ["a winning mentality", "a herd mentality", "a siege mentality", "the mentality of the group", "change the mentality"]
+  },
+  "statutory": {
+    "vi": "theo luật định; do luật quy định",
+    "coll": ["statutory rights", "a statutory duty", "statutory requirements", "statutory holiday", "statutory limits"]
+  },
+  "stainless": {
+    "vi": "không gỉ; không tì vết, trong sạch",
+    "coll": ["stainless steel", "a stainless finish", "stainless steel sink", "stainless blade", "a stainless reputation"]
+  },
+  "professionally": {
+    "vi": "một cách chuyên nghiệp; về mặt nghề nghiệp",
+    "coll": ["professionally trained", "act professionally", "professionally produced", "personally and professionally", "professionally qualified"]
+  },
+  "vip": {
+    "vi": "nhân vật quan trọng, khách VIP",
+    "coll": ["a VIP guest", "VIP treatment", "the VIP lounge", "a VIP ticket", "VIP access"]
+  },
+  "forensic": {
+    "vi": "pháp y; thuộc giám định điều tra; tỉ mỉ như điều tra",
+    "coll": ["forensic evidence", "forensic science", "a forensic examination", "forensic accounting", "forensic analysis"]
+  },
+  "endorsement": {
+    "vi": "sự ủng hộ, tán thành; sự quảng bá của người nổi tiếng",
+    "coll": ["a celebrity endorsement", "public endorsement", "seek endorsement", "an endorsement deal", "a ringing endorsement"]
+  },
+  "remotely": {
+    "vi": "từ xa; (phủ định) mảy may, chút nào",
+    "coll": ["work remotely", "not remotely interested", "control remotely", "remotely possible", "remotely located"]
+  },
+  "specification": {
+    "vi": "thông số kỹ thuật; bản đặc tả yêu cầu",
+    "coll": ["technical specifications", "meet the specification", "product specification", "detailed specifications", "built to specification"]
+  },
+  "naive": {
+    "vi": "ngây thơ, cả tin; non nớt; mộc mạc (nghệ thuật)",
+    "coll": ["politically naive", "a naive assumption", "naive to think", "somewhat naive", "naive art"]
+  },
+  "spacecraft": {
+    "vi": "tàu vũ trụ",
+    "coll": ["launch a spacecraft", "an unmanned spacecraft", "the spacecraft orbits", "spacecraft design", "a robotic spacecraft"]
+  },
+  "textile": {
+    "vi": "vải, hàng dệt may; thuộc ngành dệt",
+    "coll": ["the textile industry", "textile mill", "textile workers", "textile production", "textile design"]
+  },
+  "infamous": {
+    "vi": "khét tiếng, tai tiếng",
+    "coll": ["infamous for", "an infamous case", "infamous crimes", "the infamous incident", "become infamous"]
+  },
+  "rigid": {
+    "vi": "cứng nhắc; cứng, không uốn được; nghiêm ngặt",
+    "coll": ["rigid rules", "a rigid structure", "rigid discipline", "rigid adherence", "too rigid"]
+  },
+  "finite": {
+    "vi": "hữu hạn; có giới hạn",
+    "coll": ["finite resources", "a finite number", "finite set", "finite amount", "finite lifespan"]
+  },
+  "screenshot": {
+    "vi": "ảnh chụp màn hình; chụp màn hình",
+    "coll": ["take a screenshot", "send a screenshot", "a screenshot of the message", "attach a screenshot", "screenshot the page"]
+  },
+  "glucose": {
+    "vi": "glucozơ, đường glucô",
+    "coll": ["blood glucose", "glucose levels", "glucose tolerance test", "high glucose", "glucose monitoring"]
+  },
+  "lateral": {
+    "vi": "bên, ở bên; theo chiều ngang",
+    "coll": ["lateral thinking", "a lateral move", "lateral movement", "the lateral side", "lateral view"]
+  },
+  "migrant": {
+    "vi": "người di cư; lao động nhập cư; (chim) di trú",
+    "coll": ["migrant workers", "economic migrants", "migrant families", "illegal migrants", "migrant birds"]
+  },
+  "relevance": {
+    "vi": "sự liên quan; tính thiết thực",
+    "coll": ["have no relevance", "practical relevance", "the relevance of the study", "lose relevance", "relevance to the topic"]
+  },
+  "splendid": {
+    "vi": "tuyệt vời, tuyệt diệu; lộng lẫy, huy hoàng",
+    "coll": ["a splendid view", "a splendid idea", "a splendid meal", "look splendid", "a splendid palace"]
+  },
+  "halo": {
+    "vi": "vầng hào quang; quầng sáng",
+    "coll": ["a halo of light", "the halo effect", "a halo around the moon", "a golden halo", "wear a halo"]
+  },
+  "valuation": {
+    "vi": "sự định giá; mức giá được định",
+    "coll": ["a company valuation", "property valuation", "get a valuation", "market valuation", "a valuation of $1bn"]
+  },
+  "veterinary": {
+    "vi": "thú y",
+    "coll": ["a veterinary surgeon", "veterinary medicine", "veterinary care", "a veterinary clinic", "veterinary science"]
+  },
+  "flagship": {
+    "vi": "chủ lực, hàng đầu; sản phẩm chủ đạo; kỳ hạm",
+    "coll": ["a flagship store", "a flagship product", "the flagship model", "a flagship programme", "the fleet's flagship"]
+  },
+  "upwards": {
+    "vi": "lên trên; trở lên, hơn",
+    "coll": ["look upwards", "upwards of 100", "move upwards", "revise upwards", "prices trending upwards"]
+  },
+  "disciplinary": {
+    "vi": "kỷ luật; thuộc ngành học",
+    "coll": ["disciplinary action", "a disciplinary hearing", "disciplinary procedures", "disciplinary measures", "disciplinary boundaries"]
+  },
+  "selfie": {
+    "vi": "ảnh tự sướng; ảnh tự chụp",
+    "coll": ["take a selfie", "a selfie stick", "post a selfie", "a group selfie", "a mirror selfie"]
+  },
+  "scrutiny": {
+    "vi": "sự soi xét kỹ; sự giám sát chặt chẽ",
+    "coll": ["close scrutiny", "public scrutiny", "come under scrutiny", "intense scrutiny", "withstand scrutiny"]
+  },
+  "stray": {
+    "vi": "đi lạc, lạc đường; lạc, vô chủ; con vật đi lạc",
+    "coll": ["a stray dog", "stray from the path", "a stray bullet", "stray hairs", "stray off topic"]
+  },
+  "compass": {
+    "vi": "la bàn; com-pa; phạm vi, tầm",
+    "coll": ["a moral compass", "a compass needle", "read a compass", "a pair of compasses", "the points of the compass"]
+  },
+  "clergy": {
+    "vi": "giới tăng lữ; hàng giáo phẩm",
+    "coll": ["members of the clergy", "the local clergy", "Catholic clergy", "clergy and laity", "ordained clergy"]
+  },
+  "stud": {
+    "vi": "đinh tán, khuy trang trí; ngựa giống; anh chàng bảnh (suồng sã)",
+    "coll": ["a stud farm", "ear studs", "a stud earring", "at stud", "a leather jacket with studs"]
+  },
+  "ceramic": {
+    "vi": "gốm sứ; bằng gốm",
+    "coll": ["ceramic tiles", "a ceramic bowl", "ceramic art", "ceramic coating", "ceramic materials"]
+  },
+  "homosexuality": {
+    "vi": "đồng tính luyến ái",
+    "coll": ["attitudes to homosexuality", "male homosexuality", "decriminalise homosexuality", "accept homosexuality", "homosexuality and religion"]
+  },
+  "palette": {
+    "vi": "bảng màu; bảng pha màu",
+    "coll": ["a colour palette", "a rich palette", "an artist's palette", "a muted palette", "a palette of flavours"]
+  },
+  "laden": {
+    "vi": "chất đầy, nặng trĩu; đầy ắp",
+    "coll": ["laden with fruit", "heavily laden", "laden with guilt", "a laden truck", "laden down with bags"]
+  },
+  "bounty": {
+    "vi": "tiền thưởng truy nã; sự hào phóng; sản vật dồi dào",
+    "coll": ["a bounty hunter", "put a bounty on his head", "offer a bounty", "nature's bounty", "collect the bounty"]
+  },
+  "initiate": {
+    "vi": "khởi xướng, bắt đầu; kết nạp; người mới nhập môn",
+    "coll": ["initiate a process", "initiate talks", "initiate legal action", "initiate a member", "initiate contact"]
+  },
+  "thereof": {
+    "vi": "của điều đó, của cái đó (trang trọng)",
+    "coll": ["or the lack thereof", "part thereof", "any portion thereof", "the terms thereof"]
+  },
+  "systemic": {
+    "vi": "mang tính hệ thống; ăn sâu toàn hệ thống; toàn thân (y)",
+    "coll": ["systemic racism", "systemic risk", "systemic failure", "systemic change", "a systemic infection"]
+  },
+  "erotic": {
+    "vi": "khiêu dâm, gợi dục; nhục cảm",
+    "coll": ["an erotic novel", "erotic art", "erotic desire", "erotic imagery", "highly erotic"]
+  },
+  "groove": {
+    "vi": "rãnh, đường khía; nhịp điệu cuốn hút; lối mòn quen thuộc",
+    "coll": ["cut a groove", "get into the groove", "a deep groove", "back in the groove", "a funky groove"]
+  },
+  "reverend": {
+    "vi": "mục sư, cha xứ (danh xưng); đáng kính",
+    "coll": ["the Reverend John Smith", "a reverend father", "the local reverend", "Reverend Doctor", "a reverend gentleman"]
+  },
+  "expenditure": {
+    "vi": "chi tiêu; khoản chi; sự tiêu hao",
+    "coll": ["public expenditure", "capital expenditure", "reduce expenditure", "total expenditure", "energy expenditure"]
+  },
+  "seizure": {
+    "vi": "cơn co giật, cơn động kinh; sự tịch thu; sự chiếm giữ",
+    "coll": ["have a seizure", "an epileptic seizure", "drug seizures", "the seizure of assets", "the seizure of power"]
+  },
+  "uprising": {
+    "vi": "cuộc nổi dậy; cuộc khởi nghĩa",
+    "coll": ["a popular uprising", "an armed uprising", "crush an uprising", "lead an uprising", "a peasant uprising"]
+  },
+  "jewellery": {
+    "vi": "đồ trang sức, nữ trang",
+    "coll": ["wear jewellery", "gold jewellery", "a jewellery box", "expensive jewellery", "costume jewellery"]
+  },
+  "turbo": {
+    "vi": "bộ tăng áp; siêu tốc, tăng cường",
+    "coll": ["turbo engine", "turbo mode", "a turbo boost", "turbo charged", "turbo button"]
+  },
+  "authorization": {
+    "vi": "sự cho phép; giấy ủy quyền, sự chuẩn thuận",
+    "coll": ["prior authorization", "obtain authorization", "written authorization", "without authorization", "authorization code"]
+  },
+  "storyline": {
+    "vi": "cốt truyện; mạch truyện",
+    "coll": ["a strong storyline", "follow the storyline", "the main storyline", "a complex storyline", "develop the storyline"]
+  },
+  "allocation": {
+    "vi": "sự phân bổ; phần được phân bổ",
+    "coll": ["resource allocation", "budget allocation", "the allocation of funds", "an allocation of shares", "time allocation"]
+  },
+  "offline": {
+    "vi": "ngoại tuyến, không kết nối mạng; ngoài đời thực",
+    "coll": ["go offline", "work offline", "offline mode", "the server is offline", "online and offline"]
+  },
+  "renovation": {
+    "vi": "sự cải tạo, tu sửa; việc sửa sang",
+    "coll": ["a major renovation", "home renovation", "undergo renovation", "renovation work", "renovation costs"]
+  },
+  "stoke": {
+    "vi": "khơi lên, thổi bùng; đốt lò, tiếp nhiên liệu",
+    "coll": ["stoke fears", "stoke the fire", "stoke tensions", "stoke inflation", "stoke demand"]
+  },
+  "acceleration": {
+    "vi": "sự tăng tốc; gia tốc",
+    "coll": ["rapid acceleration", "the acceleration of growth", "acceleration due to gravity", "hard acceleration", "acceleration and braking"]
+  },
+  "covenant": {
+    "vi": "giao ước; khế ước, cam kết ràng buộc",
+    "coll": ["enter into a covenant", "a covenant with God", "break a covenant", "a restrictive covenant", "the Ark of the Covenant"]
+  },
+  "analog": {
+    "vi": "tương tự (không kỹ thuật số); vật tương ứng",
+    "coll": ["an analog signal", "an analog clock", "analog technology", "analog and digital", "an analog recording"]
+  },
+  "oops": {
+    "vi": "ối, ôi (thốt lên khi lỡ tay)",
+    "coll": ["oops, sorry", "oops, my bad", "an oops moment", "oops, I dropped it"]
+  },
+  "genus": {
+    "vi": "chi (bậc phân loại sinh vật); giống loài",
+    "coll": ["the genus Homo", "a new genus", "genus and species", "belong to the genus", "plants of the genus"]
+  },
+  "quantitative": {
+    "vi": "định lượng; về mặt số lượng",
+    "coll": ["quantitative research", "quantitative data", "quantitative analysis", "quantitative easing", "quantitative methods"]
+  },
+  "analytical": {
+    "vi": "phân tích; có óc phân tích",
+    "coll": ["analytical skills", "an analytical mind", "an analytical approach", "analytical chemistry", "analytical thinking"]
+  },
+  "arcade": {
+    "vi": "khu trò chơi điện tử; dãy vòm; phố có mái vòm",
+    "coll": ["an arcade game", "a shopping arcade", "an amusement arcade", "arcade machine", "a covered arcade"]
+  },
+  "pact": {
+    "vi": "hiệp ước; thỏa ước, giao kèo",
+    "coll": ["sign a pact", "a peace pact", "a suicide pact", "make a pact", "a non-aggression pact"]
+  },
+  "shrine": {
+    "vi": "đền thờ, miếu; nơi linh thiêng",
+    "coll": ["a holy shrine", "visit a shrine", "a Shinto shrine", "a roadside shrine", "a shrine to the saint"]
+  }
+}

@@ -1,0 +1,155 @@
+[
+ {
+  "id": "dlg-c1-investor-qa",
+  "level": 3,
+  "title_en": "Investor pitch: the hard questions",
+  "title_vi": "Gọi vốn: những câu hỏi khó",
+  "speakers": ["Founder", "Investor"],
+  "turns": [
+   { "sp": 1, "en": "Your growth looks impressive. How much of it is paid?", "vi": "Tăng trưởng của anh nhìn ấn tượng. Bao nhiêu phần là nhờ quảng cáo trả tiền?" },
+   { "sp": 0, "en": "About sixty percent, down from eighty last year.", "vi": "Khoảng sáu mươi phần trăm, giảm từ tám mươi của năm ngoái." },
+   { "sp": 1, "en": "And what happens if you switch the spending off tomorrow?", "vi": "Nếu mai anh tắt chi tiêu đó thì sao?" },
+   { "sp": 0, "en": "Growth halves, but it doesn't stop.", "vi": "Tăng trưởng giảm một nửa, nhưng không dừng." },
+   { "sp": 1, "en": "What's your churn on the enterprise side?", "vi": "Tỷ lệ rời bỏ ở mảng doanh nghiệp là bao nhiêu?" },
+   { "sp": 0, "en": "Four percent annually, mostly at the smallest accounts.", "vi": "Bốn phần trăm mỗi năm, chủ yếu ở các tài khoản nhỏ nhất." },
+   { "sp": 1, "en": "How defensible is the product in eighteen months?", "vi": "Sản phẩm phòng thủ được đến đâu trong mười tám tháng tới?" },
+   { "sp": 0, "en": "The integrations are the moat, not the interface.", "vi": "Lợi thế nằm ở các tích hợp, không phải giao diện." },
+   { "sp": 1, "en": "That's a fair answer. What keeps you awake at night?", "vi": "Câu trả lời hợp lý. Điều gì khiến anh mất ngủ?" },
+   { "sp": 0, "en": "Hiring. We need two senior engineers before the next release.", "vi": "Tuyển người. Chúng tôi cần hai kỹ sư cấp cao trước đợt phát hành tới." }
+  ]
+ },
+ {
+  "id": "dlg-c1-dispute",
+  "level": 3,
+  "title_en": "A contract dispute",
+  "title_vi": "Tranh chấp hợp đồng",
+  "speakers": ["Legal", "Supplier"],
+  "turns": [
+   { "sp": 0, "en": "Our position is that the delay triggers the penalty clause.", "vi": "Quan điểm của chúng tôi là việc chậm trễ kích hoạt điều khoản phạt." },
+   { "sp": 1, "en": "We'd argue the delay falls under force majeure.", "vi": "Chúng tôi cho rằng chậm trễ thuộc trường hợp bất khả kháng." },
+   { "sp": 0, "en": "A port strike was foreseeable and was reported weeks earlier.", "vi": "Đình công tại cảng là có thể lường trước và đã được đưa tin từ nhiều tuần." },
+   { "sp": 1, "en": "Foreseeable is not the same as avoidable.", "vi": "Lường trước được không có nghĩa là tránh được." },
+   { "sp": 0, "en": "You had the option of an alternative route and didn't take it.", "vi": "Các anh có lựa chọn tuyến thay thế và đã không dùng." },
+   { "sp": 1, "en": "That route would have doubled the freight cost.", "vi": "Tuyến đó sẽ làm chi phí vận chuyển tăng gấp đôi." },
+   { "sp": 0, "en": "Which is a commercial decision, not an act of God.", "vi": "Đó là quyết định thương mại, không phải thiên tai." },
+   { "sp": 1, "en": "Are you looking to enforce the full penalty?", "vi": "Các anh định áp toàn bộ mức phạt sao?" },
+   { "sp": 0, "en": "We'd rather settle. Half the penalty and a revised schedule.", "vi": "Chúng tôi muốn dàn xếp hơn. Một nửa mức phạt và lịch giao điều chỉnh." },
+   { "sp": 1, "en": "Put that in writing and I'll take it to our board.", "vi": "Anh ghi thành văn bản, tôi sẽ trình hội đồng bên tôi." }
+  ]
+ },
+ {
+  "id": "dlg-c1-restructure",
+  "level": 3,
+  "title_en": "Announcing a restructuring",
+  "title_vi": "Thông báo tái cơ cấu",
+  "speakers": ["HR director", "Department head"],
+  "turns": [
+   { "sp": 0, "en": "The two support teams will merge into one from October.", "vi": "Hai đội hỗ trợ sẽ sáp nhập làm một từ tháng Mười." },
+   { "sp": 1, "en": "How many roles are affected?", "vi": "Bao nhiêu vị trí bị ảnh hưởng?" },
+   { "sp": 0, "en": "Eleven, of which we expect to redeploy seven.", "vi": "Mười một, trong đó chúng tôi kỳ vọng điều chuyển được bảy." },
+   { "sp": 1, "en": "And the remaining four?", "vi": "Còn bốn người còn lại?" },
+   { "sp": 0, "en": "Voluntary terms first, then formal consultation if needed.", "vi": "Ưu tiên phương án tự nguyện trước, nếu cần thì tham vấn chính thức." },
+   { "sp": 1, "en": "When can I tell my team?", "vi": "Khi nào tôi được nói với đội của mình?" },
+   { "sp": 0, "en": "After the all-staff message on Thursday, not before.", "vi": "Sau thông báo toàn công ty thứ Năm, không sớm hơn." },
+   { "sp": 1, "en": "People will have heard rumours by then.", "vi": "Đến lúc đó chắc mọi người đã nghe tin đồn." },
+   { "sp": 0, "en": "Probably. That's why the message must be clear and specific.", "vi": "Có thể. Chính vì vậy thông báo phải rõ ràng và cụ thể." },
+   { "sp": 1, "en": "I'd like to hold a team session immediately afterwards.", "vi": "Tôi muốn họp đội ngay sau đó." },
+   { "sp": 0, "en": "Agreed. I'll join it if that helps.", "vi": "Đồng ý. Nếu cần tôi sẽ dự cùng." }
+  ]
+ },
+ {
+  "id": "dlg-c1-audit",
+  "level": 3,
+  "title_en": "Presenting supplier audit findings",
+  "title_vi": "Trình bày kết quả kiểm tra nhà cung cấp",
+  "speakers": ["Auditor", "Operations"],
+  "turns": [
+   { "sp": 0, "en": "The audit raised three findings, one of them serious.", "vi": "Đợt kiểm tra nêu ba phát hiện, một trong đó nghiêm trọng." },
+   { "sp": 1, "en": "Start with the serious one.", "vi": "Bắt đầu với cái nghiêm trọng đi." },
+   { "sp": 0, "en": "Batch records for March are incomplete.", "vi": "Hồ sơ lô hàng tháng Ba không đầy đủ." },
+   { "sp": 1, "en": "Incomplete how?", "vi": "Không đầy đủ thế nào?" },
+   { "sp": 0, "en": "Sign-offs are missing for eleven of forty batches.", "vi": "Thiếu chữ ký xác nhận ở mười một trên bốn mươi lô." },
+   { "sp": 1, "en": "That's a compliance issue, not a paperwork one.", "vi": "Đó là vấn đề tuân thủ, không phải chuyện giấy tờ." },
+   { "sp": 0, "en": "Exactly. It would fail a customer audit.", "vi": "Chính xác. Nếu khách hàng kiểm tra thì sẽ trượt." },
+   { "sp": 1, "en": "What's the corrective action?", "vi": "Hành động khắc phục là gì?" },
+   { "sp": 0, "en": "Retraining, plus a system that blocks release without sign-off.", "vi": "Đào tạo lại, kèm hệ thống chặn xuất hàng khi chưa có chữ ký." },
+   { "sp": 1, "en": "Set a deadline of thirty days and re-audit after that.", "vi": "Đặt hạn ba mươi ngày rồi kiểm tra lại sau đó." }
+  ]
+ },
+ {
+  "id": "dlg-c1-persuade",
+  "level": 3,
+  "title_en": "Persuading a sceptical stakeholder",
+  "title_vi": "Thuyết phục bên liên quan còn hoài nghi",
+  "speakers": ["Project lead", "Head of sales"],
+  "turns": [
+   { "sp": 1, "en": "I'm not convinced this system will help my team.", "vi": "Tôi chưa tin hệ thống này giúp gì cho đội của tôi." },
+   { "sp": 0, "en": "What's the main concern?", "vi": "Lo ngại chính là gì?" },
+   { "sp": 1, "en": "Sales people will spend more time on data entry.", "vi": "Nhân viên bán hàng sẽ tốn thêm thời gian nhập liệu." },
+   { "sp": 0, "en": "That's a fair worry. We measured it in the pilot.", "vi": "Lo ngại chính đáng. Chúng tôi đã đo trong giai đoạn thí điểm." },
+   { "sp": 1, "en": "And?", "vi": "Và sao?" },
+   { "sp": 0, "en": "Entry time rose four minutes a day; reporting time fell forty.", "vi": "Thời gian nhập tăng bốn phút một ngày; thời gian báo cáo giảm bốn mươi phút." },
+   { "sp": 1, "en": "That's the team average, not the top performers.", "vi": "Đó là trung bình cả đội, không phải nhóm xuất sắc." },
+   { "sp": 0, "en": "True. For them the gain was smaller but still positive.", "vi": "Đúng. Với họ mức lợi ít hơn nhưng vẫn dương." },
+   { "sp": 1, "en": "Would you run a second pilot with my top three?", "vi": "Anh chạy đợt thí điểm thứ hai với ba người giỏi nhất của tôi được không?" },
+   { "sp": 0, "en": "Yes, and I'll report the results to you before we go wider.", "vi": "Được, và tôi sẽ báo kết quả cho chị trước khi triển khai rộng." }
+  ]
+ },
+ {
+  "id": "dlg-c1-decline-partner",
+  "level": 3,
+  "title_en": "Declining a partnership",
+  "title_vi": "Từ chối lời mời hợp tác",
+  "speakers": ["Director", "Partner"],
+  "turns": [
+   { "sp": 1, "en": "So, have you had a chance to consider our proposal?", "vi": "Vậy anh đã có dịp cân nhắc đề xuất của chúng tôi chưa?" },
+   { "sp": 0, "en": "We have, and I'm afraid we won't be taking it forward.", "vi": "Có rồi, và tôi e là chúng tôi sẽ không tiếp tục." },
+   { "sp": 1, "en": "May I ask what tipped the balance?", "vi": "Tôi hỏi điều gì khiến cán cân nghiêng được không?" },
+   { "sp": 0, "en": "The exclusivity clause. It would close off two markets for us.", "vi": "Điều khoản độc quyền. Nó sẽ đóng lại hai thị trường của chúng tôi." },
+   { "sp": 1, "en": "That clause is negotiable.", "vi": "Điều khoản đó có thể thương lượng." },
+   { "sp": 0, "en": "Even so, the timing doesn't work this year.", "vi": "Dù vậy, thời điểm năm nay vẫn không phù hợp." },
+   { "sp": 1, "en": "Is this a no, or a not yet?", "vi": "Đây là 'không', hay là 'chưa phải lúc'?" },
+   { "sp": 0, "en": "A not yet, honestly. Ask me again after our own launch.", "vi": "Thành thật thì là 'chưa phải lúc'. Sau đợt ra mắt của chúng tôi hãy hỏi lại." },
+   { "sp": 1, "en": "I'll do that. Thank you for being direct.", "vi": "Tôi sẽ làm vậy. Cảm ơn anh đã nói thẳng." },
+   { "sp": 0, "en": "It seemed better than keeping you waiting.", "vi": "Như thế tốt hơn là để chị chờ đợi." }
+  ]
+ },
+ {
+  "id": "dlg-c1-lessons",
+  "level": 3,
+  "title_en": "Post-project review",
+  "title_vi": "Tổng kết rút kinh nghiệm sau dự án",
+  "speakers": ["Facilitator", "Team member"],
+  "turns": [
+   { "sp": 0, "en": "Let's start with what actually went well.", "vi": "Bắt đầu bằng những gì thực sự đã tốt." },
+   { "sp": 1, "en": "Testing. We caught the major issues before release.", "vi": "Khâu kiểm thử. Chúng ta bắt được các lỗi lớn trước khi phát hành." },
+   { "sp": 0, "en": "And the biggest problem?", "vi": "Còn vấn đề lớn nhất?" },
+   { "sp": 1, "en": "Requirements changed three times after we started building.", "vi": "Yêu cầu thay đổi ba lần sau khi đã bắt đầu xây dựng." },
+   { "sp": 0, "en": "Was that avoidable?", "vi": "Điều đó có tránh được không?" },
+   { "sp": 1, "en": "Partly. The client wasn't in the early workshops.", "vi": "Một phần. Khách hàng không tham gia các buổi làm việc đầu." },
+   { "sp": 0, "en": "So what would we change next time?", "vi": "Vậy lần sau ta thay đổi gì?" },
+   { "sp": 1, "en": "Freeze the scope only after the client signs the prototype.", "vi": "Chỉ chốt phạm vi sau khi khách ký duyệt bản mẫu." },
+   { "sp": 0, "en": "That's a concrete action. Who owns it?", "vi": "Đó là hành động cụ thể. Ai chịu trách nhiệm?" },
+   { "sp": 1, "en": "I'll write it into our project checklist this week.", "vi": "Tuần này tôi sẽ đưa vào danh mục kiểm tra dự án." }
+  ]
+ },
+ {
+  "id": "dlg-c1-market-entry",
+  "level": 3,
+  "title_en": "Discussing market entry",
+  "title_vi": "Bàn về việc thâm nhập thị trường mới",
+  "speakers": ["Strategy", "CFO"],
+  "turns": [
+   { "sp": 0, "en": "The case for entering Indonesia rests on three assumptions.", "vi": "Lập luận vào thị trường Indonesia dựa trên ba giả định." },
+   { "sp": 1, "en": "Which is the weakest?", "vi": "Giả định nào yếu nhất?" },
+   { "sp": 0, "en": "That we can find a distributor within six months.", "vi": "Rằng chúng ta tìm được nhà phân phối trong sáu tháng." },
+   { "sp": 1, "en": "And if it takes twelve?", "vi": "Nếu mất mười hai tháng thì sao?" },
+   { "sp": 0, "en": "The payback period moves from three years to nearly five.", "vi": "Thời gian hoàn vốn tăng từ ba năm lên gần năm năm." },
+   { "sp": 1, "en": "That's beyond what the board will accept.", "vi": "Vượt quá mức hội đồng chấp nhận được." },
+   { "sp": 0, "en": "Then we should sign a distributor before committing capital.", "vi": "Vậy ta nên ký nhà phân phối trước khi rót vốn." },
+   { "sp": 1, "en": "Can we test demand without the investment?", "vi": "Có thể thử nhu cầu mà chưa đầu tư không?" },
+   { "sp": 0, "en": "Yes, through an online pilot in two cities.", "vi": "Có, bằng thí điểm trực tuyến ở hai thành phố." },
+   { "sp": 1, "en": "Do that first, and bring me the numbers in the autumn.", "vi": "Làm việc đó trước, mùa thu mang số liệu cho tôi." }
+  ]
+ }
+]

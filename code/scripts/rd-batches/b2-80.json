@@ -1,0 +1,73 @@
+[
+ {
+  "id": "wiki-operating-system",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Operating_system",
+  "title_en": "Operating system",
+  "sentences": [
+   "An operating system (OS) is a kind of computer program that helps a computer to interact with other machines or with people.",
+   "An OS is not actually one single program but a group of small programs, like file managers, device drivers, and kernels.",
+   "An OS can be small (like Damn Small Linux), or large (like Microsoft Windows).",
+   "Some are meant for general use, like in a personal computer or a smartphone.",
+   "Others are used for specific purposes.",
+   "For example, an ATM would use a specialized kind of operating system.",
+   "An operating system has many jobs.",
+   "It ensures that all the programs share access to the computer's processor, memory, screen, input devices, and other hardware.",
+   "Today, most operating systems also include a visible interface so the user can easily interact with it.",
+   "An operating system is also responsible for sending data to other computers or devices on a network.",
+   "Some examples of commonly used operating systems are: Android; macOS; Linux; Microsoft Windows."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-clock-rate",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Clock_rate",
+  "title_en": "Clock rate",
+  "sentences": [
+   "The clock rate is the frequency at which a CPU is running.",
+   "It is the rate in cycles per second (measured in hertz) or the frequency of the clock in any synchronous circuit.",
+   "In general, many people think a higher clock speed means a faster processor, but other factors are also come into to picture.",
+   "You can not compare its performance based on only clock speed.",
+   "Depend upon the architecture design of the Processor, In some CPUs, a single instruction may be performed in a single clock cycle.",
+   "For Example, An Intel Core i5 1st generation has a clock speed of 3.2 GHz and the latest Intel Core i5 10th generation has a clock speed of 1.6 GHz.",
+   "Note: it is important to compare processors from the same brand and generation."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-online-streamer",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Online_streamer",
+  "title_en": "Online streamer",
+  "sentences": [
+   "An online streamer or live streamer is a type of social media influencer who broadcasts themselves online through a live stream to an audience.",
+   "There are different formats: People show how they play video games.",
+   "People show themselves using a webcam, this is often done in the context of producing pornography; such people are known as webcam models.",
+   "People show their daily lives, walking around using a webcam.",
+   "Very often, people use advertising, or product placement to generate some earnings.",
+   "Sometimes, people also have a pay per view model.",
+   "This is often the case for streaming in the context of producing pornography."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-kinopoisk",
+  "level": 2,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Kinopoisk",
+  "title_en": "Kinopoisk",
+  "sentences": [
+   "Kinopoisk (Russian: Кинопоиск, a portmanteau of \"cinema\" and \"search\") is a Russian online database.",
+   "It started in 2003.",
+   "It has information about movies and TV shows including cast, production team, biographies, plot summaries, ratings, and reviews.",
+   "It also has stills, trailers, posters, and wallpapers.",
+   "Users can edit the information and post reviews.",
+   "From April 2018, Kinopoisk has an application for Samsung TVs with Smart TV function, which allows people to watch films for rent or purchase."
+  ],
+  "topic": "it"
+ }
+]

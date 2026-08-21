@@ -1,0 +1,159 @@
+[
+ {
+  "id": "wiki-trisquel",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Trisquel",
+  "title_en": "Trisquel",
+  "sentences": [
+   "Trisquel GNU/Linux is a free and open-source Linux distribution for 64-bit computers.",
+   "It is based on Ubuntu and does not use any proprietary software.",
+   "The Free Software Foundation and the GNU Project both recognize it as one of the few distributions that run on 100% free software.",
+   "Trisquel runs on the Linux-libre kernel, a fork of the Linux kernel with non-free code removed.",
+   "The first release of Trisquel was in 2007.",
+   "It is still actively developed."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-cyberattack",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/Cyberattack",
+  "title_en": "Cyberattack",
+  "sentences": [
+   "Cyberattack is a term in computer science.",
+   "It is any attempt to alter, disable, destroy, steal or get into or make unauthorized use of a computer system.",
+   "An attacker is a person or process that attempts to access data, functions, or other restricted areas of the system without authorization.",
+   "Malicious intent is assumed.",
+   "Cyberattacks can be part of cyberwarfare or cyberterrorism.",
+   "A cyberattack can be done by sovereign states, individuals, groups, society, or organizations.",
+   "It may start from an anonymous source.",
+   "A product that helps a cyberattack is sometimes called a cyberweapon.",
+   "A cyberattack may steal, alter, or destroy a specified target by hacking into a susceptible system.",
+   "Cyberattacks can range from installing spyware on a personal computer to attempting to destroy the infrastructure of entire nations."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-gisaid",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/GISAID",
+  "title_en": "GISAID",
+  "sentences": [
+   "GISAID is open-access to genetic data of influenza viruses, and the coronavirus responsible for the COVID-19 pandemic.",
+   "On January 10, 2020, the first whole-genome sequences of SARS-CoV-2 were made available on GISAID.",
+   "This enabled global responses to the pandemic.",
+   "There was the first vaccines, and diagnostic tests, to detect SARS-CoV-2.",
+   "GISAID helps watch for the emergence of new COVID-19 viral strains across the planet.",
+   "Its establishment was an alternative to sharing avian influenza data by conventional public-domain archives.",
+   "GISAID has given rapid exchange of outbreak data during the H1N1 pandemic in 2009, the H7N9 epidemic in 2013, and the COVID-19 pandemic in 2020.",
+   "GISAID was recognized for its importance to world health by G20 health ministers in 2017, and in 2020 the World Health Organization chief scientist called the data-science initiative \"a game changer\"."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-word-2007-will-include-blogging-tools",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/Word_2007_will_include_blogging_tools",
+  "title_en": "Word 2007 will include blogging tools",
+  "sentences": [
+   "Sunday, May 14, 2006 Lead programmer of Microsoft Word, Joe Friend, wrote on his blog that the upcoming version of Microsoft Word (which will be a part of Microsoft Office 2007 suite) will have blog editing and publishing functions.",
+   "Friend said: \"When I write a blog post using my blog providers web-based editor I miss some of the familiar Word features that I've come to rely on, specifically background spelling (those little red squiggles) and autocorrect.",
+   "These features keep me from making stupid mistakes.\" Friend also said that Word 2007 will not generate unnecessary HTML code.",
+   "\"Bold become <strong>, Italic becomes <em>, Heading 1 become <h1>, Quotes become <blockquote> and on it goes.\" Previously, critics of Microsoft Word's HTML generation capabilities held that the application generated unneeded and bulky HTML code.",
+   "Graphic files that users would use in blog entries will be converted to the PNG format, which includes support for alpha channel (i.e. partial) transparency.",
+   "To create new or publish post, there will be three mouse-clicks: to create File → New... → New Blog Post); to publish File → Publish → Blog."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-first-quantum-byte-created",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/First_quantum_byte_created",
+  "title_en": "First quantum byte created",
+  "sentences": [
+   "Thursday, December 1, 2005 The Institute of Quantum Optics and Quantum Information at the University of Innsbruck in Austria has created an entanglement of eight quantum particles, yielding a quantum byte or \"qubyte\", or eight qubits.",
+   "This is an important step toward the realization of a practical quantum computer, which would use superposed quantum states to perform complex calculations.",
+   "A detailed writeup of this work is available in English and German.",
+   "The formal paper was published in the December 1 issue of Nature.",
+   "Contributors to the breakthrough are researchers from IQOQI under the supervision of Rainer Blatt and Hartmut Häffner in coaction with Otfried Gühne and Wolfgang Dür of the Innsbruck research group directed by Hans Jürgen Briegelhave.",
+   "With a trap using magnetic fields they captured eight calcium ions, lined them up, and set them up in \"W states\" using a complicated laser technology.",
+   "A quantum byte with eight ions provides a computing matrix of 65,536 (0-255 x 0-255) elements that are mostly independent.",
+   "It is suggested that the method should be scalable so that the number of ions could be increased.",
+   "This experiment proves that the kind of ion traps used in Innsbruck are the most promising technology for the realization of large computing matrices."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-unix",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/UNIX",
+  "title_en": "UNIX",
+  "sentences": [
+   "UNIX is a computer operating system.",
+   "It was first developed in 1969 at Bell Labs.",
+   "Ken Thompson, Dennis Ritchie, Douglas McIlroy, and others created it.",
+   "It was written in assembly language.",
+   "In 1972, the UNIX code was rewritten with the new C programming language.",
+   "The UNIX operating system is a multiuser and multiprocessing system.",
+   "This means it can run several programs at the same time, for more than one user at the same time.",
+   "It also is able to operate well in a network of computers.",
+   "Computer security is also important in UNIX, because many people can have access to it, both by using a computer directly or over a network.",
+   "Many ideas in UNIX were new.",
+   "Other operating systems copied them.",
+   "Today, there are many operating systems that have some of the ideas of UNIX in them.",
+   "For this reason, some people talk about a \"UNIX philosophy\" of doing things.",
+   "Linux is one of these systems with many of the UNIX ideas in it.",
+   "Linux does not use code from UNIX.",
+   "Linux only shares some of the ideas and the names of commands."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "news-ieee-approves-802-11n-standard-after-six",
+  "level": 4,
+  "src": "wikinews",
+  "url": "https://en.wikinews.org/wiki/IEEE_approves_802.11n_standard_after_six_years",
+  "title_en": "IEEE approves 802.11n standard after six years",
+  "sentences": [
+   "Saturday, September 12, 2009 On Friday, the Institute of Electrical and Electronics Engineers (IEEE) ratified the next generation of Wi-Fi Alliance certification known as 802.11n.",
+   "The path to ratification began on September 11, 2003 with 11 major drafts of the specification over the course of six years.",
+   "Even though just approved, wireless devices have been available on the market for over two years, running on what is known as \"draft n\" or \"pre-N\".",
+   "The 802.11n standard operates on both the 2.4Ghz and 5.0Ghz frequencies.",
+   "This will allow it to be backwards compatible with 802.11a, 802.11b and 802.11g, provided that the base station has dual radios.",
+   "The speeds of 802.11n are substantially faster than that of its predecessors with a maximum theoretical throughput of 600Mbit/s.",
+   "Very few additions were made to the 802.11n draft standard over the last two years, so most if not all \"draft n\" hardware available on the market today is expected to be compatible with n-standard devices available in the future.",
+   "In a similar process of the upgrade from \"pre-G\" to 802.11g, it is expected that most manufacturers of wireless hardware will release new firmware to bring all draft devices up to full standard compliance."
+  ],
+  "topic": "it"
+ },
+ {
+  "id": "wiki-usb-hub",
+  "level": 4,
+  "src": "simplewiki",
+  "url": "https://simple.wikipedia.org/wiki/USB_hub",
+  "title_en": "USB hub",
+  "sentences": [
+   "USB is an international standard of technology for connecting peripherals to computers and other devices that support it.",
+   "An interface where a USB device can be connected is called a port.",
+   "A USB hub is a special device which allows adding more USB ports.",
+   "The additional ports share one USB connection to the computer; for this reason, each of them cannot carry as much data as a direct USB connection can.",
+   "A hub may be bus-powered, which means it gets all its electrical power from the computer.",
+   "This makes simple wiring, but it cannot give full power to its peripherals.",
+   "A self powered hub has its own power cord, and can give full power to peripherals that need it.",
+   "There are different versions of the USB standard; main difference between the version is the maximum speed that is supported.",
+   "The USB standard also defines different types of USB plugs.",
+   "A USB hub is a normal USB device, which was built for a given version of the standard.",
+   "Certain models may support different versions of USB, while others may not.",
+   "As an example: USB 3.0 can transfer payload data at up to 5 GBits per second.",
+   "USB 2.0 is limited to a transfer rate of 480 MBits per second.",
+   "Connecting an USB 3.0 device to the computer using an USB 2.0 hub will limit the transfer rate to that of USB 2.0."
+  ],
+  "topic": "it"
+ }
+]

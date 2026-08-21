@@ -1,0 +1,838 @@
+[
+ {
+  "id": "conservative",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "bảo thủ; người bảo thủ; dè dặt",
+  "coll": [
+   "the Conservative Party",
+   "a conservative estimate",
+   "conservative values",
+   "politically conservative"
+  ]
+ },
+ {
+  "id": "desire",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "khát vọng; ước muốn; khao khát; ham muốn",
+  "coll": [
+   "a strong desire",
+   "sexual desire",
+   "a desire for change",
+   "express a desire"
+  ]
+ },
+ {
+  "id": "drunk",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "say rượu; say xỉn; kẻ say rượu",
+  "coll": [
+   "get drunk",
+   "drunk driving",
+   "blind drunk",
+   "a drunk driver"
+  ]
+ },
+ {
+  "id": "essential",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thiết yếu; cần thiết; cốt lõi",
+  "coll": [
+   "essential oils",
+   "absolutely essential",
+   "an essential part",
+   "essential skills",
+   "essential services"
+  ]
+ },
+ {
+  "id": "guilty",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "có tội; tội lỗi; áy náy",
+  "coll": [
+   "feel guilty",
+   "guilty conscience",
+   "plead guilty",
+   "found guilty",
+   "guilty verdict"
+  ]
+ },
+ {
+  "id": "largely",
+  "pos": [
+   "adv"
+  ],
+  "vi": "phần lớn; chủ yếu",
+  "coll": [
+   "largely due to",
+   "largely responsible",
+   "largely ignored",
+   "largely unknown"
+  ]
+ },
+ {
+  "id": "medium",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "trung bình; cỡ vừa; phương tiện; môi trường",
+  "coll": [
+   "medium size",
+   "medium heat",
+   "medium height",
+   "a medium of communication"
+  ]
+ },
+ {
+  "id": "recommend",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "khuyên; giới thiệu; đề xuất",
+  "coll": [
+   "highly recommend",
+   "recommend a restaurant",
+   "strongly recommend",
+   "recommend that you go"
+  ]
+ },
+ {
+  "id": "unable",
+  "pos": [
+   "adj",
+   "intj",
+   "v"
+  ],
+  "vi": "không thể; không có khả năng",
+  "coll": [
+   "unable to attend",
+   "unable to work",
+   "unable to cope",
+   "unable to sleep"
+  ]
+ },
+ {
+  "id": "wing",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "cánh; cánh nhà; cánh chính trị",
+  "coll": [
+   "chicken wings",
+   "the left wing",
+   "the west wing of the building",
+   "spread its wings"
+  ]
+ },
+ {
+  "id": "bomb",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "quả bom; đánh bom; thất bại thảm hại",
+  "coll": [
+   "drop a bomb",
+   "bomb attack",
+   "atomic bomb",
+   "car bomb",
+   "bomb blast"
+  ]
+ },
+ {
+  "id": "cycle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chu kỳ; vòng tuần hoàn; đạp xe",
+  "coll": [
+   "life cycle",
+   "cycle to work",
+   "the cycle of violence",
+   "business cycle"
+  ]
+ },
+ {
+  "id": "extreme",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "cực độ; cực đoan; khắc nghiệt; thái cực",
+  "coll": [
+   "extreme weather",
+   "extreme sports",
+   "extreme poverty",
+   "go to extremes"
+  ]
+ },
+ {
+  "id": "facility",
+  "pos": [
+   "n"
+  ],
+  "vi": "cơ sở; cơ sở vật chất; tiện nghi",
+  "coll": [
+   "sports facilities",
+   "medical facility",
+   "research facility",
+   "storage facility"
+  ]
+ },
+ {
+  "id": "goods",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hàng hóa",
+  "coll": [
+   "consumer goods",
+   "goods and services",
+   "luxury goods",
+   "manufactured goods"
+  ]
+ },
+ {
+  "id": "hang",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "treo; treo cổ; lơ lửng",
+  "coll": [
+   "hang a picture",
+   "hang out with friends",
+   "hang on the wall",
+   "hang the washing"
+  ]
+ },
+ {
+  "id": "maximum",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "tối đa; mức tối đa",
+  "coll": [
+   "maximum speed",
+   "maximum capacity",
+   "maximum security",
+   "a maximum of ten people"
+  ]
+ },
+ {
+  "id": "republic",
+  "pos": [
+   "n"
+  ],
+  "vi": "nước cộng hòa; nền cộng hòa",
+  "coll": [
+   "the People's Republic of China",
+   "a democratic republic",
+   "declare a republic",
+   "the Czech Republic"
+  ]
+ },
+ {
+  "id": "reserve",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đặt trước; dự trữ; khu bảo tồn; sự dè dặt",
+  "coll": [
+   "reserve a table",
+   "nature reserve",
+   "foreign exchange reserves",
+   "reserve the right"
+  ]
+ },
+ {
+  "id": "scared",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "sợ hãi; hoảng sợ",
+  "coll": [
+   "scared of the dark",
+   "scared to death",
+   "feel scared",
+   "scared stiff"
+  ]
+ },
+ {
+  "id": "switch",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "công tắc; sự thay đổi; chuyển đổi; đổi",
+  "coll": [
+   "light switch",
+   "switch off the TV",
+   "switch jobs",
+   "make the switch",
+   "switch sides"
+  ]
+ },
+ {
+  "id": "threat",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "mối đe dọa; lời đe dọa; nguy cơ",
+  "coll": [
+   "death threat",
+   "pose a threat",
+   "a threat to security",
+   "under threat"
+  ]
+ },
+ {
+  "id": "affect",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "ảnh hưởng đến; tác động đến; làm xúc động",
+  "coll": [
+   "affect the outcome",
+   "directly affect",
+   "adversely affected",
+   "affect your health"
+  ]
+ },
+ {
+  "id": "aside",
+  "pos": [
+   "adv",
+   "adj",
+   "n"
+  ],
+  "vi": "sang một bên; ra một bên; ngoài ra",
+  "coll": [
+   "set aside",
+   "put aside",
+   "step aside",
+   "aside from that",
+   "joking aside"
+  ]
+ },
+ {
+  "id": "assistance",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giúp đỡ; sự hỗ trợ",
+  "coll": [
+   "financial assistance",
+   "technical assistance",
+   "provide assistance",
+   "medical assistance"
+  ]
+ },
+ {
+  "id": "bond",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "mối liên kết; trái phiếu; sự gắn bó; gắn kết",
+  "coll": [
+   "government bonds",
+   "a close bond",
+   "the bond between mother and child",
+   "form a bond",
+   "chemical bond"
+  ]
+ },
+ {
+  "id": "delivery",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự giao hàng; sự sinh nở; cách diễn đạt",
+  "coll": [
+   "free delivery",
+   "delivery service",
+   "express delivery",
+   "delivery room"
+  ]
+ },
+ {
+  "id": "deserve",
+  "pos": [
+   "v"
+  ],
+  "vi": "xứng đáng; đáng được",
+  "coll": [
+   "deserve better",
+   "deserve respect",
+   "deserve a break",
+   "deserve to win"
+  ]
+ },
+ {
+  "id": "instance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "trường hợp; ví dụ; lần",
+  "coll": [
+   "for instance",
+   "in this instance",
+   "in many instances",
+   "in the first instance"
+  ]
+ },
+ {
+  "id": "mile",
+  "pos": [
+   "n"
+  ],
+  "vi": "dặm; dặm Anh",
+  "coll": [
+   "miles per hour",
+   "square mile",
+   "miles away",
+   "go the extra mile"
+  ]
+ },
+ {
+  "id": "prize",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "vi": "giải thưởng; phần thưởng; quý trọng",
+  "coll": [
+   "win a prize",
+   "the Nobel Prize",
+   "first prize",
+   "prize money"
+  ]
+ },
+ {
+  "id": "reasonable",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hợp lý; phải chăng; biết điều",
+  "coll": [
+   "a reasonable price",
+   "beyond reasonable doubt",
+   "a reasonable explanation",
+   "perfectly reasonable"
+  ]
+ },
+ {
+  "id": "register",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "đăng ký; sổ đăng ký; máy tính tiền",
+  "coll": [
+   "register to vote",
+   "cash register",
+   "register a company",
+   "register for the course"
+  ]
+ },
+ {
+  "id": "travel agent",
+  "pos": [
+   "n"
+  ],
+  "vi": "đại lý du lịch; nhân viên du lịch",
+  "coll": [
+   "book through a travel agent",
+   "a local travel agent",
+   "ask your travel agent"
+  ]
+ },
+ {
+  "id": "typical",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "điển hình; tiêu biểu; đặc trưng",
+  "coll": [
+   "a typical example",
+   "a typical day",
+   "typical of him",
+   "fairly typical"
+  ]
+ },
+ {
+  "id": "universe",
+  "pos": [
+   "n"
+  ],
+  "vi": "vũ trụ",
+  "coll": [
+   "the entire universe",
+   "the expanding universe",
+   "the center of the universe",
+   "parallel universe"
+  ]
+ },
+ {
+  "id": "warning",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "vi": "lời cảnh báo; sự cảnh cáo",
+  "coll": [
+   "warning sign",
+   "without warning",
+   "health warning",
+   "early warning",
+   "issue a warning"
+  ]
+ },
+ {
+  "id": "definition",
+  "pos": [
+   "n"
+  ],
+  "vi": "định nghĩa; độ nét; độ phân giải",
+  "coll": [
+   "dictionary definition",
+   "by definition",
+   "high definition",
+   "a clear definition"
+  ]
+ },
+ {
+  "id": "heaven",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thiên đường; thiên đàng; cõi trời",
+  "coll": [
+   "go to heaven",
+   "heaven and earth",
+   "heaven on earth",
+   "thank heavens"
+  ]
+ },
+ {
+  "id": "possibility",
+  "pos": [
+   "n"
+  ],
+  "vi": "khả năng; điều có thể xảy ra",
+  "coll": [
+   "a strong possibility",
+   "rule out the possibility",
+   "endless possibilities",
+   "the possibility of rain"
+  ]
+ },
+ {
+  "id": "recovery",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự hồi phục; sự khôi phục; sự lấy lại",
+  "coll": [
+   "economic recovery",
+   "make a full recovery",
+   "road to recovery",
+   "speedy recovery"
+  ]
+ },
+ {
+  "id": "academic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "học thuật; thuộc nhà trường; giảng viên đại học",
+  "coll": [
+   "academic year",
+   "academic performance",
+   "academic research",
+   "academic achievement"
+  ]
+ },
+ {
+  "id": "academy",
+  "pos": [
+   "n"
+  ],
+  "vi": "học viện; viện hàn lâm",
+  "coll": [
+   "military academy",
+   "police academy",
+   "football academy",
+   "the Royal Academy"
+  ]
+ },
+ {
+  "id": "accurate",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chính xác; đúng",
+  "coll": [
+   "accurate information",
+   "an accurate description",
+   "highly accurate",
+   "accurate measurement"
+  ]
+ },
+ {
+  "id": "afford",
+  "pos": [
+   "v"
+  ],
+  "vi": "đủ tiền mua; đủ khả năng; cho phép",
+  "coll": [
+   "can't afford it",
+   "afford to buy a house",
+   "afford the rent",
+   "can ill afford"
+  ]
+ },
+ {
+  "id": "assume",
+  "pos": [
+   "v"
+  ],
+  "vi": "cho rằng; giả định; đảm nhận",
+  "coll": [
+   "assume responsibility",
+   "let's assume that",
+   "assume control",
+   "assume the worst"
+  ]
+ },
+ {
+  "id": "bunch",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "chùm; bó; đám; nhóm",
+  "coll": [
+   "a bunch of flowers",
+   "a bunch of grapes",
+   "a bunch of people",
+   "a whole bunch of"
+  ]
+ },
+ {
+  "id": "category",
+  "pos": [
+   "n"
+  ],
+  "vi": "hạng mục; loại; phạm trù",
+  "coll": [
+   "fall into a category",
+   "age category",
+   "product category",
+   "a separate category"
+  ]
+ },
+ {
+  "id": "competitive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "cạnh tranh; hiếu thắng",
+  "coll": [
+   "competitive advantage",
+   "a competitive market",
+   "highly competitive",
+   "competitive prices"
+  ]
+ },
+ {
+  "id": "mess",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự bừa bộn; mớ hỗn độn; tình trạng rối ren",
+  "coll": [
+   "make a mess",
+   "clean up the mess",
+   "in a mess",
+   "a complete mess"
+  ]
+ },
+ {
+  "id": "normally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thường; bình thường",
+  "coll": [
+   "normally takes an hour",
+   "function normally",
+   "behave normally",
+   "more than normally"
+  ]
+ },
+ {
+  "id": "opposition",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự phản đối; phe đối lập",
+  "coll": [
+   "opposition party",
+   "strong opposition",
+   "in opposition to",
+   "face opposition",
+   "opposition leader"
+  ]
+ },
+ {
+  "id": "permanent",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "vĩnh viễn; cố định; thường trực",
+  "coll": [
+   "a permanent job",
+   "permanent residence",
+   "permanent damage",
+   "a permanent solution"
+  ]
+ },
+ {
+  "id": "personally",
+  "pos": [
+   "adv"
+  ],
+  "vi": "đích thân; cá nhân mà nói; về mặt cá nhân",
+  "coll": [
+   "take it personally",
+   "personally responsible",
+   "personally involved",
+   "speak to him personally"
+  ]
+ },
+ {
+  "id": "representative",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "người đại diện; đại biểu; tiêu biểu",
+  "coll": [
+   "sales representative",
+   "elected representative",
+   "a representative sample",
+   "the House of Representatives"
+  ]
+ },
+ {
+  "id": "shift",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự thay đổi; ca làm việc; chuyển dịch",
+  "coll": [
+   "night shift",
+   "a shift in attitude",
+   "work shifts",
+   "shift the focus",
+   "gear shift"
+  ]
+ },
+ {
+  "id": "storage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự lưu trữ; kho chứa",
+  "coll": [
+   "storage space",
+   "data storage",
+   "in storage",
+   "storage capacity",
+   "cold storage"
+  ]
+ },
+ {
+  "id": "tank",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "bể chứa; bình; xe tăng",
+  "coll": [
+   "fuel tank",
+   "fish tank",
+   "water tank",
+   "army tank"
+  ]
+ },
+ {
+  "id": "tend",
+  "pos": [
+   "v"
+  ],
+  "vi": "có xu hướng; hay; chăm sóc",
+  "coll": [
+   "tend to be",
+   "tend to forget",
+   "tend to agree",
+   "tend the garden"
+  ]
+ },
+ {
+  "id": "transportation",
+  "pos": [
+   "n"
+  ],
+  "vi": "sự vận chuyển; giao thông vận tải",
+  "coll": [
+   "public transportation",
+   "transportation system",
+   "transportation costs",
+   "means of transportation"
+  ]
+ }
+]

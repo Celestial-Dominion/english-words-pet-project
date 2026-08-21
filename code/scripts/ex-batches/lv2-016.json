@@ -1,0 +1,823 @@
+[
+ {
+  "id": "terrace",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sân thượng; hiên, thềm nhà; ruộng bậc thang",
+  "coll": [
+   "a roof terrace",
+   "sit on the terrace",
+   "rice terraces",
+   "a terrace house"
+  ]
+ },
+ {
+  "id": "undoubtedly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "chắc chắn; không nghi ngờ gì",
+  "coll": [
+   "undoubtedly true",
+   "undoubtedly the best",
+   "will undoubtedly",
+   "undoubtedly important"
+  ]
+ },
+ {
+  "id": "backyard",
+  "pos": [
+   "n"
+  ],
+  "vi": "sân sau; khu vực lân cận",
+  "coll": [
+   "in the backyard",
+   "a backyard barbecue",
+   "a backyard garden",
+   "in our own backyard"
+  ]
+ },
+ {
+  "id": "bully",
+  "pos": [
+   "v",
+   "n",
+   "adj",
+   "intj"
+  ],
+  "vi": "kẻ bắt nạt; bắt nạt, ức hiếp",
+  "coll": [
+   "a school bully",
+   "the class bully",
+   "bully other kids",
+   "stand up to a bully"
+  ]
+ },
+ {
+  "id": "consult",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "tham khảo ý kiến; hỏi ý kiến; tư vấn",
+  "coll": [
+   "consult a doctor",
+   "consult an expert",
+   "consult a dictionary",
+   "consult with colleagues"
+  ]
+ },
+ {
+  "id": "dominate",
+  "pos": [
+   "v",
+   "adj",
+   "n"
+  ],
+  "vi": "thống trị; chi phối; áp đảo",
+  "coll": [
+   "dominate the market",
+   "dominate the game",
+   "dominate the conversation",
+   "dominate the industry"
+  ]
+ },
+ {
+  "id": "economist",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà kinh tế học",
+  "coll": [
+   "a leading economist",
+   "chief economist",
+   "economists predict",
+   "a political economist"
+  ]
+ },
+ {
+  "id": "informal",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không trang trọng; thân mật; phi chính thức",
+  "coll": [
+   "informal language",
+   "an informal meeting",
+   "informal dress",
+   "an informal chat"
+  ]
+ },
+ {
+  "id": "neighboring",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "lân cận; kế bên, láng giềng",
+  "coll": [
+   "neighboring countries",
+   "a neighboring town",
+   "neighboring states",
+   "the neighboring house"
+  ]
+ },
+ {
+  "id": "optimistic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "lạc quan",
+  "coll": [
+   "remain optimistic",
+   "cautiously optimistic",
+   "an optimistic view",
+   "optimistic about the future"
+  ]
+ },
+ {
+  "id": "owl",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "con cú; cú mèo",
+  "coll": [
+   "a barn owl",
+   "a night owl",
+   "a snowy owl",
+   "owls hoot at night"
+  ]
+ },
+ {
+  "id": "regulate",
+  "pos": [
+   "v"
+  ],
+  "vi": "điều tiết; quản lý bằng quy định; điều chỉnh",
+  "coll": [
+   "regulate the industry",
+   "regulate body temperature",
+   "strictly regulated",
+   "regulate the market"
+  ]
+ },
+ {
+  "id": "salon",
+  "pos": [
+   "n"
+  ],
+  "vi": "tiệm làm đẹp; tiệm cắt tóc; phòng khách lớn",
+  "coll": [
+   "a beauty salon",
+   "a hair salon",
+   "a nail salon",
+   "salon treatment"
+  ]
+ },
+ {
+  "id": "unacceptable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "không thể chấp nhận",
+  "coll": [
+   "totally unacceptable",
+   "unacceptable behaviour",
+   "an unacceptable risk",
+   "deemed unacceptable"
+  ]
+ },
+ {
+  "id": "unaware",
+  "pos": [
+   "adj"
+  ],
+  "vi": "không hay biết; không nhận ra",
+  "coll": [
+   "completely unaware",
+   "unaware of the danger",
+   "blissfully unaware",
+   "seemingly unaware"
+  ]
+ },
+ {
+  "id": "uncommon",
+  "pos": [
+   "adj",
+   "adv"
+  ],
+  "vi": "hiếm gặp; không phổ biến",
+  "coll": [
+   "not uncommon",
+   "an uncommon name",
+   "uncommon in adults",
+   "increasingly uncommon"
+  ]
+ },
+ {
+  "id": "zip",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "vi": "khóa kéo; kéo khóa; lao vụt qua",
+  "coll": [
+   "zip up your jacket",
+   "a zip fastener",
+   "zip the file",
+   "zip past the door"
+  ]
+ },
+ {
+  "id": "carnival",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "lễ hội hóa trang; hội chợ vui chơi",
+  "coll": [
+   "a carnival parade",
+   "the Rio Carnival",
+   "a carnival costume",
+   "a carnival atmosphere"
+  ]
+ },
+ {
+  "id": "cooperative",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "hợp tác, sẵn sàng phối hợp; hợp tác xã",
+  "coll": [
+   "a cooperative effort",
+   "a farmers cooperative",
+   "be more cooperative",
+   "cooperative learning"
+  ]
+ },
+ {
+  "id": "coral",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "vi": "san hô; màu hồng cam",
+  "coll": [
+   "a coral reef",
+   "coral bleaching",
+   "a coral island",
+   "coral pink"
+  ]
+ },
+ {
+  "id": "correspondent",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "phóng viên thường trú; người viết thư; tương ứng",
+  "coll": [
+   "a foreign correspondent",
+   "a war correspondent",
+   "our correspondent reports",
+   "a special correspondent"
+  ]
+ },
+ {
+  "id": "fictional",
+  "pos": [
+   "adj"
+  ],
+  "vi": "hư cấu; tưởng tượng",
+  "coll": [
+   "a fictional character",
+   "a fictional story",
+   "purely fictional",
+   "a fictional world"
+  ]
+ },
+ {
+  "id": "fulfill",
+  "pos": [
+   "v"
+  ],
+  "vi": "hoàn thành; thực hiện; đáp ứng",
+  "coll": [
+   "fulfill a promise",
+   "fulfill your potential",
+   "fulfill the requirements",
+   "fulfill a dream"
+  ]
+ },
+ {
+  "id": "instinct",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "bản năng; trực giác",
+  "coll": [
+   "a natural instinct",
+   "the survival instinct",
+   "trust your instincts",
+   "maternal instinct"
+  ]
+ },
+ {
+  "id": "morality",
+  "pos": [
+   "n"
+  ],
+  "vi": "đạo đức; luân lý",
+  "coll": [
+   "public morality",
+   "a question of morality",
+   "morality and ethics",
+   "conventional morality"
+  ]
+ },
+ {
+  "id": "mortal",
+  "pos": [
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "phàm trần, sẽ phải chết; chí mạng, chết người; người trần",
+  "coll": [
+   "mortal danger",
+   "a mortal wound",
+   "mere mortals",
+   "a mortal enemy"
+  ]
+ },
+ {
+  "id": "prestigious",
+  "pos": [
+   "adj"
+  ],
+  "vi": "danh giá; uy tín",
+  "coll": [
+   "a prestigious award",
+   "a prestigious university",
+   "highly prestigious",
+   "a prestigious position"
+  ]
+ },
+ {
+  "id": "prompt",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "nhanh chóng, kịp thời; thúc đẩy, khiến ai làm gì; lời nhắc",
+  "coll": [
+   "a prompt reply",
+   "prompt action",
+   "prompt payment",
+   "prompt someone to act"
+  ]
+ },
+ {
+  "id": "relay",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "tiếp sức; truyền lại (tin tức); rơ-le",
+  "coll": [
+   "a relay race",
+   "the relay team",
+   "relay a message",
+   "relay information"
+  ]
+ },
+ {
+  "id": "symbolic",
+  "pos": [
+   "adj"
+  ],
+  "vi": "mang tính biểu tượng; tượng trưng",
+  "coll": [
+   "a symbolic gesture",
+   "symbolic meaning",
+   "purely symbolic",
+   "symbolic value"
+  ]
+ },
+ {
+  "id": "clarify",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm rõ; giải thích rõ",
+  "coll": [
+   "clarify the situation",
+   "clarify a point",
+   "clarify your position",
+   "seek to clarify"
+  ]
+ },
+ {
+  "id": "correspondence",
+  "pos": [
+   "n"
+  ],
+  "vi": "thư từ, thư tín; sự tương ứng",
+  "coll": [
+   "private correspondence",
+   "a correspondence course",
+   "business correspondence",
+   "a close correspondence"
+  ]
+ },
+ {
+  "id": "desirable",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "vi": "đáng mong muốn; hấp dẫn",
+  "coll": [
+   "highly desirable",
+   "a desirable outcome",
+   "desirable qualities",
+   "a desirable location"
+  ]
+ },
+ {
+  "id": "dismiss",
+  "pos": [
+   "v"
+  ],
+  "vi": "bác bỏ, gạt bỏ; sa thải; cho ra về",
+  "coll": [
+   "dismiss an idea",
+   "dismiss the claim",
+   "dismiss an employee",
+   "dismiss the case"
+  ]
+ },
+ {
+  "id": "explorer",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà thám hiểm",
+  "coll": [
+   "a famous explorer",
+   "an Arctic explorer",
+   "early explorers",
+   "a polar explorer"
+  ]
+ },
+ {
+  "id": "governmental",
+  "pos": [
+   "adj"
+  ],
+  "vi": "thuộc chính phủ",
+  "coll": [
+   "governmental agencies",
+   "a non-governmental organization",
+   "governmental policy",
+   "governmental bodies"
+  ]
+ },
+ {
+  "id": "lengthy",
+  "pos": [
+   "adj"
+  ],
+  "vi": "kéo dài; dài dòng",
+  "coll": [
+   "a lengthy process",
+   "a lengthy discussion",
+   "a lengthy delay",
+   "lengthy negotiations"
+  ]
+ },
+ {
+  "id": "mock",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "vi": "chế nhạo, giễu cợt; giả, thử (thi thử)",
+  "coll": [
+   "a mock exam",
+   "a mock trial",
+   "mock someone openly",
+   "mock surprise"
+  ]
+ },
+ {
+  "id": "porch",
+  "pos": [
+   "n"
+  ],
+  "vi": "hiên nhà; mái hiên",
+  "coll": [
+   "a front porch",
+   "sit on the porch",
+   "the back porch",
+   "a screened porch"
+  ]
+ },
+ {
+  "id": "possessed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "vi": "bị quỷ ám; như điên dại; có, sở hữu",
+  "coll": [
+   "possessed by demons",
+   "like a man possessed",
+   "possessed of great talent",
+   "seem possessed"
+  ]
+ },
+ {
+  "id": "recession",
+  "pos": [
+   "n"
+  ],
+  "vi": "suy thoái kinh tế; sự rút lui",
+  "coll": [
+   "an economic recession",
+   "a deep recession",
+   "slide into recession",
+   "recovery from recession"
+  ]
+ },
+ {
+  "id": "rim",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "vành; mép, miệng; viền",
+  "coll": [
+   "the rim of a cup",
+   "a wheel rim",
+   "the rim of the canyon",
+   "gold-rimmed glasses"
+  ]
+ },
+ {
+  "id": "secondly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "thứ hai là",
+  "coll": [
+   "firstly and secondly",
+   "secondly, we must",
+   "and secondly",
+   "secondly, consider the cost"
+  ]
+ },
+ {
+  "id": "successive",
+  "pos": [
+   "adj"
+  ],
+  "vi": "liên tiếp; kế tiếp nhau",
+  "coll": [
+   "successive governments",
+   "three successive years",
+   "successive generations",
+   "successive attempts"
+  ]
+ },
+ {
+  "id": "tub",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "bồn tắm; chậu, thùng; hộp đựng",
+  "coll": [
+   "a bath tub",
+   "a hot tub",
+   "a tub of ice cream",
+   "a plastic tub"
+  ]
+ },
+ {
+  "id": "undergraduate",
+  "pos": [
+   "n",
+   "adj"
+  ],
+  "vi": "sinh viên đại học; thuộc bậc đại học",
+  "coll": [
+   "an undergraduate student",
+   "an undergraduate degree",
+   "undergraduate courses",
+   "a final-year undergraduate"
+  ]
+ },
+ {
+  "id": "utter",
+  "pos": [
+   "v",
+   "adj",
+   "n",
+   "adv"
+  ],
+  "vi": "thốt ra, nói ra; hoàn toàn, tuyệt đối",
+  "coll": [
+   "utter a word",
+   "utter nonsense",
+   "an utter disaster",
+   "utter chaos"
+  ]
+ },
+ {
+  "id": "bracket",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "dấu ngoặc; giá đỡ; nhóm, khung (thu nhập)",
+  "coll": [
+   "in brackets",
+   "square brackets",
+   "a tax bracket",
+   "an age bracket"
+  ]
+ },
+ {
+  "id": "exile",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự lưu vong; người lưu vong; đày ải",
+  "coll": [
+   "live in exile",
+   "go into exile",
+   "political exile",
+   "exile from his country"
+  ]
+ },
+ {
+  "id": "outrage",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "sự phẫn nộ; hành vi tàn bạo; làm phẫn nộ",
+  "coll": [
+   "public outrage",
+   "express outrage",
+   "moral outrage",
+   "spark outrage"
+  ]
+ },
+ {
+  "id": "paperwork",
+  "pos": [
+   "n"
+  ],
+  "vi": "giấy tờ, thủ tục hành chính",
+  "coll": [
+   "do the paperwork",
+   "fill in the paperwork",
+   "a lot of paperwork",
+   "the necessary paperwork"
+  ]
+ },
+ {
+  "id": "promptly",
+  "pos": [
+   "adv"
+  ],
+  "vi": "ngay lập tức; đúng giờ",
+  "coll": [
+   "reply promptly",
+   "arrive promptly",
+   "promptly at nine",
+   "deal with it promptly"
+  ]
+ },
+ {
+  "id": "sincere",
+  "pos": [
+   "adj"
+  ],
+  "vi": "chân thành; thành thật",
+  "coll": [
+   "a sincere apology",
+   "sincere thanks",
+   "sincere gratitude",
+   "genuinely sincere"
+  ]
+ },
+ {
+  "id": "slaughter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "giết mổ; tàn sát; cuộc thảm sát",
+  "coll": [
+   "slaughter cattle",
+   "mass slaughter",
+   "sent for slaughter",
+   "the slaughter of civilians"
+  ]
+ },
+ {
+  "id": "supplier",
+  "pos": [
+   "n"
+  ],
+  "vi": "nhà cung cấp",
+  "coll": [
+   "a major supplier",
+   "a leading supplier",
+   "a supplier of goods",
+   "change suppliers"
+  ]
+ },
+ {
+  "id": "swan",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "thiên nga",
+  "coll": [
+   "a white swan",
+   "a black swan",
+   "a swan song",
+   "swans glide on the lake"
+  ]
+ },
+ {
+  "id": "testify",
+  "pos": [
+   "v"
+  ],
+  "vi": "làm chứng; khai trước tòa; chứng tỏ",
+  "coll": [
+   "testify in court",
+   "testify against someone",
+   "testify under oath",
+   "refuse to testify"
+  ]
+ },
+ {
+  "id": "tolerate",
+  "pos": [
+   "v"
+  ],
+  "vi": "chịu đựng; dung thứ; khoan dung",
+  "coll": [
+   "tolerate pain",
+   "will not tolerate",
+   "tolerate differences",
+   "hard to tolerate"
+  ]
+ },
+ {
+  "id": "cone",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "vi": "hình nón; ốc quế; quả thông",
+  "coll": [
+   "an ice cream cone",
+   "a traffic cone",
+   "a pine cone",
+   "a cone shape"
+  ]
+ },
+ {
+  "id": "decay",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "vi": "phân hủy, mục nát; sự suy tàn; sâu răng",
+  "coll": [
+   "tooth decay",
+   "urban decay",
+   "radioactive decay",
+   "decay over time"
+  ]
+ }
+]

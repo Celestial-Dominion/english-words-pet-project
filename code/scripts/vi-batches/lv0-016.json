@@ -1,0 +1,1195 @@
+[
+ {
+  "id": "bonus",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Something extra that is good",
+   "An extra sum given as a premium, e.g. to an employee or to a shareholder.",
+   "An addition to the player's score based on performance, e.g. for time remaining."
+  ]
+ },
+ {
+  "id": "castle",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A large residential building or compound that is fortified and contains many defences",
+   "An instance of castling.",
+   "A rook"
+  ]
+ },
+ {
+  "id": "compare",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y,…",
+   "To declare two things to be similar in some respect [\"to compare X to Y\"].",
+   "To form the three degrees of comparison of (an adjective)."
+  ]
+ },
+ {
+  "id": "cooking",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "The process of preparing food by using heat.",
+   "The result of preparing food by using heat.",
+   "The cheapest available beer for sale in a public house."
+  ]
+ },
+ {
+  "id": "encourage",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To mentally support",
+   "To spur on, strongly recommend.",
+   "To foster, give help or patronage."
+  ]
+ },
+ {
+  "id": "gray",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "To turn gray.",
+   "To turn progressively older, alluding to graying of hair through aging (used in context of the population of a geographic region)",
+   "To give a soft effect to (a photograph) by covering the negative while printing with a ground-glass plate."
+  ]
+ },
+ {
+  "id": "hungry",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Affected by hunger",
+   "Causing hunger.",
+   "Eager"
+  ]
+ },
+ {
+  "id": "math",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Arithmetic calculations",
+   "A math course or class.",
+   "To perform mathematical calculations or mathematical analysis"
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "mystery",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Something secret or unexplainable",
+   "Someone or something with an obscure or puzzling nature.",
+   "An account, story, book, film, or play, often with the theme of crime or murder, with a surprise ending that explains all the strange…"
+  ]
+ },
+ {
+  "id": "olympics",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Synonym of Olympic Games.",
+   "Any real or perceived competition."
+  ]
+ },
+ {
+  "id": "palace",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Official residence of a head of state or other dignitary, especially in a monarchical or imperial governmental system.",
+   "A large and lavishly ornate residence.",
+   "A large, ornate public building used for entertainment or exhibitions."
+  ]
+ },
+ {
+  "id": "pet",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "An animal kept as a companion or otherwise for pleasure, rather than for some practical benefit or use.",
+   "Something kept as a companion, including inanimate objects.",
+   "One who is excessively loyal to a superior and receives preferential treatment."
+  ]
+ },
+ {
+  "id": "photography",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The art and technology of producing images on photosensitive surfaces, and its digital counterpart.",
+   "The occupation of taking (and often printing) photographs."
+  ]
+ },
+ {
+  "id": "rating",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "present participle and gerund of rate",
+   "A position on a scale.",
+   "An evaluation of status, especially of financial status."
+  ]
+ },
+ {
+  "id": "refer",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To direct the attention of (someone toward something).",
+   "To submit to (another person or group) for consideration",
+   "To place in or under by a mental or rational process"
+  ]
+ },
+ {
+  "id": "successfully",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "In a successful manner"
+  ]
+ },
+ {
+  "id": "temple",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A house of worship, especially",
+   "A meeting house of the Oddfellows fraternity",
+   "Any place regarded as holding a religious presence."
+  ]
+ },
+ {
+  "id": "uncle",
+  "pos": [
+   "n",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "The brother or brother-in-law of one’s parent.",
+   "The male cousin of one’s parent.",
+   "Used as a fictive kinship title for a close male friend of one's parent or parents."
+  ]
+ },
+ {
+  "id": "unusual",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Not usual, out of the ordinary.",
+   "Something that is unusual"
+  ]
+ },
+ {
+  "id": "badly",
+  "pos": [
+   "adv",
+   "adj"
+  ],
+  "en": [
+   "In a bad manner.",
+   "Very much",
+   "Ill, unwell."
+  ]
+ },
+ {
+  "id": "bath",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A tub or pool which is used for bathing",
+   "A building or area where bathing occurs.",
+   "The act of bathing"
+  ]
+ },
+ {
+  "id": "deeply",
+  "pos": [
+   "adv"
+  ],
+  "en": [
+   "To a deep extent or degree",
+   "So as to extend far down or far into something.",
+   "At depth."
+  ]
+ },
+ {
+  "id": "explanation",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act or process of explaining.",
+   "Something that explains or makes understandable.",
+   "A resolution of disputed points pursuant to discussion"
+  ]
+ },
+ {
+  "id": "fiction",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Literary type using invented or imaginative writing, instead of real facts, usually written as prose.",
+   "A verbal or written account that is not based on actual events (often intended to mislead)",
+   "A legal fiction."
+  ]
+ },
+ {
+  "id": "happiness",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The emotion of being happy"
+  ]
+ },
+ {
+  "id": "ideal",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Pertaining to ideas, or to a given idea.",
+   "Existing only in the mind",
+   "Optimal"
+  ]
+ },
+ {
+  "id": "mood",
+  "pos": [
+   "n",
+   "intj"
+  ],
+  "en": [
+   "A mental or emotional state, composure.",
+   "Emotional character (of a work of music, literature, or other art).",
+   "A sullen, gloomy or angry mental state"
+  ]
+ },
+ {
+  "id": "p.m.",
+  "pos": [
+   "adv",
+   "n"
+  ],
+  "en": [
+   "In the 12-hour period from noon to midnight (the latter half of the day) when using the 12-hour clock.",
+   "after death"
+  ]
+ },
+ {
+  "id": "pleased",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Happy, content.",
+   "simple past and past participle of please"
+  ]
+ },
+ {
+  "id": "retired",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Secluded from society (of a lifestyle, activity etc.)",
+   "Of a place, far from civilization, not able to be easily seen or accessed",
+   "Having left employment, especially on reaching pensionable age. (of people)"
+  ]
+ },
+ {
+  "id": "shadow",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A dark image projected onto a surface where light (or other radiation) is blocked by the shade of an object.",
+   "Relative darkness, especially as caused by the interruption of light",
+   "An area protected by an obstacle (likened to an object blocking out sunlight)."
+  ]
+ },
+ {
+  "id": "tape",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Flexible material in a roll with a sticky surface on one or both sides",
+   "Thin and flat paper, plastic or similar flexible material, usually produced in the form of a roll.",
+   "Finishing tape, stretched across a track to mark the end of a race."
+  ]
+ },
+ {
+  "id": "boring",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "The act or process of boring holes",
+   "A pit or hole which has been bored.",
+   "One of the fragments thrown up when something is bored or drilled."
+  ]
+ },
+ {
+  "id": "clock",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A chronometer, an instrument that measures time, particularly the time of day.",
+   "A common noun relating to an instrument that measures or keeps track of time.",
+   "The odometer of a motor vehicle."
+  ]
+ },
+ {
+  "id": "commitment",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The act or an instance of committing, putting in charge, keeping, or trust, especially",
+   "Promise or agreement to do something in the future, especially",
+   "Being bound emotionally or intellectually to a course of action or to another person or persons."
+  ]
+ },
+ {
+  "id": "confident",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Very sure of something",
+   "Self-assured, self-reliant, sure of oneself."
+  ]
+ },
+ {
+  "id": "custom",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Frequent repetition of the same behavior",
+   "Habitual buying of goods from one same vendor.",
+   "Long-established practice, considered as unwritten law, and resting for authority on long consent. Compare prescription."
+  ]
+ },
+ {
+  "id": "desk",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A table, frame, or case, in past centuries usually with a sloping top but now usually with a flat top, for the use of writers and…",
+   "A reading table or lectern to support the book from which the liturgical service is read, differing from the pulpit from which the…",
+   "A department tasked with a particular topic or focus in certain types of businesses, such as newspapers and financial trading firms."
+  ]
+ },
+ {
+  "id": "ear",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The organ of hearing, consisting of the pinna or auricle, auditory canal, eardrum, malleus, incus, stapes and cochlea.",
+   "The external part of the organ of hearing, the auricle.",
+   "A police informant."
+  ]
+ },
+ {
+  "id": "helpful",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Furnishing help"
+  ]
+ },
+ {
+  "id": "horror",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "An intense distressing emotion of fear or repugnance.",
+   "Something horrible",
+   "Intense dislike or aversion"
+  ]
+ },
+ {
+  "id": "pizza",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A baked Italian dish of a thinly rolled bread crust typically topped before baking with tomato sauce, cheese, and other ingredients such…",
+   "A single instance of this dish.",
+   "snowplow"
+  ]
+ },
+ {
+  "id": "reveal",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "The outer side of a window or door frame.",
+   "A revelation",
+   "To uncover"
+  ]
+ },
+ {
+  "id": "romantic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of a work of literature, a writer etc.",
+   "Fantastic, unrealistic (of an idea etc.)",
+   "Having the qualities of romance (in the sense of something appealing deeply to the imagination)"
+  ]
+ },
+ {
+  "id": "swimming",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The act or art of sustaining and propelling the body in water.",
+   "The state of being dizzy or in vertigo.",
+   "present participle and gerund of swim"
+  ]
+ },
+ {
+  "id": "worker",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "One who works",
+   "A nonreproductive social insect, such as ant, bee, termite, or wasp.",
+   "A thread performing one instance of a particular task within a program."
+  ]
+ },
+ {
+  "id": "architecture",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The art and science of designing and managing the construction of buildings and other structures, particularly if they are well…",
+   "Any particular style of building design.",
+   "Construction, in a more general sense"
+  ]
+ },
+ {
+  "id": "belt",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A band worn around the waist to hold clothing to one's body (usually pants), hold weapons (such as a gun or sword), or serve as a…",
+   "A band used as a restraint for safety purposes, such as a seat belt.",
+   "A band that is used in a machine to help transfer motion or power."
+  ]
+ },
+ {
+  "id": "comic",
+  "pos": [
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Pertaining to comedy, as a literary genre.",
+   "Using the techniques of comedy, as a composition, performer etc",
+   "Unintentionally humorous"
+  ]
+ },
+ {
+  "id": "diamond",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A glimmering glass-like mineral that is an allotrope of carbon in which each atom is surrounded by four others in the form of a tetrahedron.",
+   "A gemstone made from this mineral.",
+   "A diamond ring."
+  ]
+ },
+ {
+  "id": "disappointed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "Defeated of expectations or hope",
+   "Expressing or indicating disappointment.",
+   "simple past and past participle of disappoint"
+  ]
+ },
+ {
+  "id": "dressed",
+  "pos": [
+   "adj",
+   "v"
+  ],
+  "en": [
+   "simple past and past participle of dress",
+   "Having been subjected to a preparatory process or treatment",
+   "Prepared for eating, especially by the addition of specific condiments or dressing."
+  ]
+ },
+ {
+  "id": "flower",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A colorful, conspicuous structure associated with angiosperms, frequently scented and attracting various insects, and which may or may…",
+   "A reproductive structure in angiosperms (flowering plants), often conspicuously colourful and typically including sepals, petals, and…",
+   "A plant that bears flowers, especially a plant that is small and lacks wood."
+  ]
+ },
+ {
+  "id": "ghost",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A disembodied soul",
+   "Any faint shadowy semblance",
+   "A false image, for example in a photographic print or negative, or on a television screen or radar display, or in a telescope, caused by…"
+  ]
+ },
+ {
+  "id": "hockey",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Any of a family of sports in which hockey sticks are used to move a ball or puck into a goal.",
+   "Field hockey, a team sport played on a pitch on solid ground where players have to hit a ball into a net using a hockey stick.",
+   "Ice hockey, a game on ice in which two teams of six players skate and try to score by shooting a puck into the opposing team's net,…"
+  ]
+ },
+ {
+  "id": "kit",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A circular wooden vessel, made of hooped staves.",
+   "A kind of basket made especially from straw of rushes, especially for holding fish",
+   "A collection of items forming the equipment of a soldier, carried in a knapsack."
+  ]
+ },
+ {
+  "id": "nervous",
+  "pos": [
+   "adj"
+  ],
+  "en": [
+   "Of nerves."
+  ]
+ },
+ {
+  "id": "skill",
+  "pos": [
+   "n",
+   "adj",
+   "v"
+  ],
+  "en": [
+   "A capacity to do something well",
+   "A reusable configuration (prompt) that defines how an AI agent performs a specific task.",
+   "Great, excellent."
+  ]
+ },
+ {
+  "id": "solve",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To find an answer or solution to a problem or question",
+   "to find out the perpetrator, the motive etc (of crime)",
+   "To find the values of variables that satisfy a system of equations and/or inequalities."
+  ]
+ },
+ {
+  "id": "stomach",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An organ in animals that stores food in the process of digestion.",
+   "The belly.",
+   "A desire, an appetite (for something abstract)."
+  ]
+ },
+ {
+  "id": "ugly",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Displeasing to the eye",
+   "Displeasing to the ear or some other sense.",
+   "Offensive to one's sensibilities or morality."
+  ]
+ },
+ {
+  "id": "cousin",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Chiefly with a qualifying word",
+   "A person of an ethnicity or nationality regarded as closely related to someone of another ethnicity or nationality.",
+   "Used as a term of address for someone whom one is close to"
+  ]
+ },
+ {
+  "id": "dust",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "Fine particles.",
+   "To remove dust from.",
+   "To remove dust"
+  ]
+ },
+ {
+  "id": "inspiration",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The drawing of air into the lungs, accomplished in mammals by elevation of the chest walls and flattening of the diaphragm, as part of…",
+   "A single inward breath (intake of air).",
+   "A supernatural divine influence on the prophets, apostles, or sacred writers, by which they were qualified to communicate moral or…"
+  ]
+ },
+ {
+  "id": "knife",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A utensil or a tool designed for cutting, consisting of a flat piece of hard material, usually steel or other metal (the blade), usually…",
+   "A weapon designed with the aforementioned specifications intended for slashing or stabbing but too short to be called a sword",
+   "Any blade-like part in a tool or a machine designed for cutting, such as that of a chipper."
+  ]
+ },
+ {
+  "id": "mum",
+  "pos": [
+   "n",
+   "adj",
+   "intj",
+   "v"
+  ],
+  "en": [
+   "Mother.",
+   "A chrysanthemum.",
+   "A decoration traditionally made of chrysanthemums and ribbons, worn by girls at high school homecoming celebrations, marked with…"
+  ]
+ },
+ {
+  "id": "remote",
+  "pos": [
+   "adj",
+   "n",
+   "v"
+  ],
+  "en": [
+   "At a distance",
+   "Distant or otherwise inaccessible.",
+   "Slight."
+  ]
+ },
+ {
+  "id": "repair",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "To restore to good working order, fix, or improve damaged condition",
+   "To make amends for, as for an injury, by an equivalent",
+   "The act of repairing something."
+  ]
+ },
+ {
+  "id": "root",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The part of a plant, generally underground, that anchors and supports the plant body, absorbs and stores water and nutrients, and in…",
+   "A root vegetable.",
+   "The part of a tooth extending into the bone holding the tooth in place."
+  ]
+ },
+ {
+  "id": "steal",
+  "pos": [
+   "v",
+   "n"
+  ],
+  "en": [
+   "To take illegally, or without the owner's permission, something owned by someone else without intending to return it.",
+   "To appropriate without giving credit or acknowledgement.",
+   "To get or effect surreptitiously or artfully."
+  ]
+ },
+ {
+  "id": "telephone",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A telecommunication device which converts data or sounds (usually speech) into electrical signals which are then transmitted to enable…",
+   "A means of communicating information from one person to another or others.",
+   "Now chiefly preceded by a descriptive word"
+  ]
+ },
+ {
+  "id": "annoying",
+  "pos": [
+   "adj",
+   "v",
+   "n"
+  ],
+  "en": [
+   "Causing irritation or annoyance",
+   "present participle and gerund of annoy"
+  ]
+ },
+ {
+  "id": "butter",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A soft, fatty foodstuff made by churning the cream of milk (generally cow's milk).",
+   "Any of various foodstuffs made from other foods or oils, similar in consistency to, eaten like or intended as a substitute for butter…",
+   "Any of various substances made from other (especially plant-based) oils or fats, used in moisturizers, cosmetics, etc."
+  ]
+ },
+ {
+  "id": "delay",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A period of time before an event occurs",
+   "An audio effects unit that introduces a controlled delay.",
+   "Synonym of promise (“object representing delayed result”)."
+  ]
+ },
+ {
+  "id": "desert",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A barren area of land or desolate terrain, especially one with little water or vegetation",
+   "Any barren place or situation.",
+   "Usually of a place"
+  ]
+ },
+ {
+  "id": "downtown",
+  "pos": [
+   "adv",
+   "adj",
+   "n"
+  ],
+  "en": [
+   "Of, relating to, or situated in the central business district.",
+   "In or towards the central business district.",
+   "Outside the three-point line, or generally far from the basket."
+  ]
+ },
+ {
+  "id": "marry",
+  "pos": [
+   "v",
+   "intj"
+  ],
+  "en": [
+   "To enter into the conjugal or connubial state",
+   "To enter into marriage with one another.",
+   "To take as husband or wife."
+  ]
+ },
+ {
+  "id": "nurse",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A person involved in providing direct care for the sick",
+   "A person (usually a woman) who takes care of other people’s children.",
+   "One who, or that which, brings up, rears, causes to grow, trains, or fosters."
+  ],
+  "reg": [
+   "informal"
+  ]
+ },
+ {
+  "id": "pray",
+  "pos": [
+   "v",
+   "adv"
+  ],
+  "en": [
+   "To direct words, thoughts, or one's attention to a deity or any higher being, for the sake of adoration, thanks, petition for help, etc.",
+   "To humbly beg a person for aid or their time.",
+   "To wish or hope strongly for a particular outcome."
+  ]
+ },
+ {
+  "id": "rugby",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A form of football in which players can hold or kick an ovoid ball",
+   "The form of the game known as rugby union (see the usage note).",
+   "To play rugby."
+  ]
+ },
+ {
+  "id": "sake",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "Cause, interest or account.",
+   "Purpose or end",
+   "The benefit or regard of someone or something."
+  ]
+ },
+ {
+  "id": "smooth",
+  "pos": [
+   "adj",
+   "adv",
+   "n",
+   "v"
+  ],
+  "en": [
+   "Having a texture that lacks friction. Not rough.",
+   "Without difficulty, problems, or unexpected consequences or incidents.",
+   "Bland"
+  ]
+ },
+ {
+  "id": "string",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A long, thin and flexible structure made from threads twisted together.",
+   "Any similar long, thin and flexible object.",
+   "A thread or cord on which a number of objects or parts are strung or arranged in close and orderly succession"
+  ]
+ },
+ {
+  "id": "sudden",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "Occurring quickly with little or no warning or expectation",
+   "Suddenly."
+  ]
+ },
+ {
+  "id": "vacation",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An extended trip or journey away from home for rest or pleasure.",
+   "An extended period of leisure time away from work or school.",
+   "A period during which official activity or business is formally suspended"
+  ]
+ },
+ {
+  "id": "abroad",
+  "pos": [
+   "adv",
+   "n",
+   "prep",
+   "adj"
+  ],
+  "en": [
+   "Beyond the bounds of a country",
+   "At large",
+   "Without a certain confine"
+  ]
+ },
+ {
+  "id": "bench",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A long seat with or without a back, found for example in parks and schools.",
+   "The seat where the judges sit in court.",
+   "A seat where people sit together in an official capacity."
+  ]
+ },
+ {
+  "id": "bother",
+  "pos": [
+   "n",
+   "v",
+   "intj"
+  ],
+  "en": [
+   "To annoy, to disturb, to irritate",
+   "To feel care or concern",
+   "To take the trouble, to trouble oneself (to do something)."
+  ]
+ },
+ {
+  "id": "bye",
+  "pos": [
+   "n",
+   "adj",
+   "intj",
+   "prep"
+  ],
+  "en": [
+   "The position of a person or team in a tournament or competition who draws no opponent in a particular round so advances to the next…",
+   "An extra scored when the batsmen take runs after the ball has passed the striker without hitting either the bat or the batsman.",
+   "An unspecified way or place."
+  ]
+ },
+ {
+  "id": "citizen",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "A resident of a city or town, especially one with legally recognized rights or duties.",
+   "A legally recognized member of a state, with associated rights and obligations",
+   "An inhabitant or occupant"
+  ]
+ },
+ {
+  "id": "cricket",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "An insect in the order Orthoptera, especially family Gryllidae, that makes a chirping sound by rubbing its wing casings against combs on…",
+   "A signalling device used by soldiers in hostile territory to identify themselves to a friendly in low visibility conditions.",
+   "An aural warning sound consisting of a continuously-repeating chime, designed to be difficult for pilots to ignore."
+  ]
+ },
+ {
+  "id": "discover",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To find or learn something for the first time.",
+   "To create by moving a piece out of another piece's line of attack.",
+   "To question (a person) as part of discovery in a lawsuit."
+  ]
+ },
+ {
+  "id": "entrance",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "The action of entering, or going in.",
+   "The act of taking possession, as of property, or of office.",
+   "The place of entering, as a gate or doorway."
+  ]
+ },
+ {
+  "id": "friendship",
+  "pos": [
+   "n"
+  ],
+  "en": [
+   "The condition of being friends.",
+   "A friendly relationship, or a relationship as friends.",
+   "Good will."
+  ]
+ },
+ {
+  "id": "medal",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A stamped metal disc used as a personal ornament, a charm, or a religious object.",
+   "A stamped or cast metal object (usually a disc), particularly one awarded as a prize or reward.",
+   "To win a medal."
+  ]
+ },
+ {
+  "id": "pan",
+  "pos": [
+   "n",
+   "v",
+   "adj"
+  ],
+  "en": [
+   "A wide, flat receptacle used around the house, especially for cooking.",
+   "The contents of such a receptacle.",
+   "A cylindrical receptacle about as tall as it is wide, with one long handle, usually made of metal, used for cooking in the home."
+  ]
+ },
+ {
+  "id": "reflect",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To bend back (light, etc.) from a surface.",
+   "To be bent back (light, etc.) from a surface.",
+   "To mirror, or show the image of something."
+  ]
+ },
+ {
+  "id": "shell",
+  "pos": [
+   "n",
+   "v"
+  ],
+  "en": [
+   "A hard external covering of an animal.",
+   "The hard calcareous covering of a bird egg.",
+   "To remove the outer covering or shell of something."
+  ]
+ },
+ {
+  "id": "silly",
+  "pos": [
+   "adj",
+   "adv",
+   "n"
+  ],
+  "en": [
+   "Laughable or amusing through foolishness or a foolish appearance.",
+   "Sillily",
+   "A silly person."
+  ]
+ },
+ {
+  "id": "arrive",
+  "pos": [
+   "v"
+  ],
+  "en": [
+   "To reach",
+   "To obtain a level of success or fame",
+   "To come"
+  ]
+ }
+]
