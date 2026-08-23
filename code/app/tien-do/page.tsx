@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 import { Flame, Trophy, CalendarCheck, Activity, type LucideIcon } from "lucide-react";
 import { db, progressSummary, todayStr, type ProgressSummary } from "@/lib/db";
+import { onSyncMerged } from "@/lib/sync";
 import { LEVELS, levelAccent } from "@/lib/levels";
 import { cn } from "@/lib/utils";
 
@@ -29,8 +30,8 @@ export default function TienDoPage() {
   const [forecast, setForecast] = useState<number[] | null>(null); // 7 ngày tới (hôm nay gộp cả quá hạn)
 
   useEffect(() => {
-    progressSummary().then(setSum);
-    (async () => {
+    const load = async () => {
+      progressSummary().then(setSum);
       const rows = await db.reviews.toArray();
       const today = todayStr();
       const buckets = new Array(7).fill(0);
@@ -46,7 +47,10 @@ export default function TienDoPage() {
         }
       }
       setForecast(buckets);
-    })();
+    };
+    void load();
+    // kéo tiến độ máy khác về → heatmap/dự báo đọc lại ngay
+    return onSyncMerged(() => void load());
   }, []);
 
   if (!sum) return <div className="py-20 text-center text-muted-foreground">Đang tải…</div>;

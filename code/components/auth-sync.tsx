@@ -52,11 +52,13 @@ export default function AuthSync() {
       if (document.visibilityState === "hidden") void doSync(user, true);
     };
     // S3: QUAY LẠI app → kéo thay đổi từ máy khác. Rẻ nhờ fingerprint (không đổi = 1 getDoc).
-    // Chặn dội: chỉ chạy nếu lần sync trước đã quá 60s.
+    // Chặn dội 15s: đủ gộp chuỗi visible+focus bắn liền nhau, nhưng KHÔNG chặn kiểu dùng
+    // thật trên iOS "tắt app xem máy kia rồi bật lại" — 60s như trước làm mấy lần bật lại
+    // đầu tiên không kéo gì, hai máy nhìn lệch nhau mãi.
     let lastVisibleSync = 0;
     const onShow = () => {
       if (document.visibilityState !== "visible") return;
-      if (Date.now() - lastVisibleSync < 60_000) return;
+      if (Date.now() - lastVisibleSync < 15_000) return;
       lastVisibleSync = Date.now();
       void doSync(user, true);
     };

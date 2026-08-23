@@ -42,3 +42,12 @@ export function requestSync(): void {
     /* bỏ qua (SSR) */
   }
 }
+
+/** Sự kiện "vừa KÉO dữ liệu máy khác về" (sync-data phát sau khi merge xong).
+ *  Mọi nơi hiển thị số liệu (số đến hạn, thống kê, nhiệm vụ ngày…) phải nghe sự kiện này
+ *  và ĐỌC LẠI DB — không thì bấm "Đồng bộ ngay" xong con số trên màn vẫn là số cũ. */
+export const SYNC_MERGED_EVENT = "en:sync-merged";
+export function onSyncMerged(cb: () => void): () => void {
+  window.addEventListener(SYNC_MERGED_EVENT, cb);
+  return () => window.removeEventListener(SYNC_MERGED_EVENT, cb);
+}

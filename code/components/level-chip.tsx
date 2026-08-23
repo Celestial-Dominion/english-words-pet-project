@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import { Medal, Sparkles } from "lucide-react";
 import { progressSummary } from "@/lib/db";
+import { onSyncMerged } from "@/lib/sync";
 import { rankForWords } from "@/lib/gamify";
 
 // Chip cấp bậc hiện tại + XP ở header → bấm vào mở trang Binh nghiệp (thành tựu).
@@ -12,10 +13,13 @@ export default function LevelChip() {
   const [xp, setXp] = useState(0);
 
   useEffect(() => {
-    progressSummary().then((s) => {
-      setWords(s.words);
-      setXp(s.xp);
-    });
+    const load = () =>
+      progressSummary().then((s) => {
+        setWords(s.words);
+        setXp(s.xp);
+      });
+    void load();
+    return onSyncMerged(() => void load()); // XP/số từ nhảy theo ngay khi kéo máy khác về
   }, []);
 
   if (words === null) return null;

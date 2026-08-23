@@ -17,6 +17,7 @@ import {
   type Fp, type SyncSnapshot,
 } from "./sync-merge";
 import { setSyncOk } from "./sync-status";
+import { SYNC_MERGED_EVENT } from "./sync";
 import type { ReviewRecord } from "./types";
 
 const CHUNK = 1500;
@@ -190,6 +191,14 @@ async function runSync(uid: string): Promise<SyncResult> {
       } catch {
         /* bỏ qua */
       }
+    }
+    // Báo UI: dữ liệu local vừa ĐỔI vì kéo từ máy khác — trang đang mở phải đọc lại DB.
+    // Không phát thì số "đến hạn" trên màn đứng im ở giá trị lúc mount, bấm Đồng bộ xong
+    // vẫn thấy hai máy lệch nhau dù DB đã khớp.
+    try {
+      window.dispatchEvent(new Event(SYNC_MERGED_EVENT));
+    } catch {
+      /* SSR/test — bỏ qua */
     }
   }
 

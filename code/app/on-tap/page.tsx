@@ -18,6 +18,7 @@ import {
 } from "@/lib/db";
 import { loadWords, loadExamplesForWords, type ExampleSentence } from "@/lib/data";
 import { warmSession } from "@/lib/warm";
+import { onSyncMerged } from "@/lib/sync";
 import { buildQuestions, type Question } from "@/lib/review-session";
 import { LEVELS } from "@/lib/levels";
 import type { Word, SrsConfig, ReviewRecord } from "@/lib/types";
@@ -59,6 +60,9 @@ export default function OnTapPage() {
     refresh();
     warmSession(); // đọc trước words + shard ví dụ trong lúc người dùng còn nhìn bảng điều khiển
   }, [refresh]);
+  // Vừa KÉO tiến độ máy khác về (bấm Đồng bộ / mở lại app) → đọc lại số đến hạn ngay,
+  // không bắt người dùng thoát ra vào lại mới thấy hai máy khớp nhau.
+  useEffect(() => onSyncMerged(() => void refresh()), [refresh]);
 
   // Ghép câu hỏi từ danh sách bản ghi ôn (đến hạn/ôn sớm/hay quên).
   // KHÔNG cần xáo trước: interleave() trong buildQuestions đã trộn toàn phiên

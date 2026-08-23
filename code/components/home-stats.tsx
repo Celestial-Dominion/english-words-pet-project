@@ -5,6 +5,7 @@ import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
 import { Flame, GraduationCap, Library, Plus, Volume2 } from "lucide-react";
 import { countDue, getConfig, newTodayCount, progressSummary } from "@/lib/db";
+import { onSyncMerged } from "@/lib/sync";
 
 // Hero trang chủ (bố cục bento giống HSK): hộp "Hôm nay" + 2 nút Ôn tập / Học từ mới,
 // cạnh đó là cột 2 thẻ thống kê nhanh (chuỗi ngày, từ đã học) bấm sang trang Tiến độ.
@@ -15,7 +16,7 @@ export default function HomeStats() {
   const [newRemain, setNewRemain] = useState(0);
 
   useEffect(() => {
-    (async () => {
+    const load = async () => {
       const [d, sum, cfg, nToday] = await Promise.all([
         countDue(),
         progressSummary(),
@@ -26,7 +27,10 @@ export default function HomeStats() {
       setWords(sum.words);
       setStreak(sum.streak);
       setNewRemain(Math.max(0, cfg.newPerDay - nToday));
-    })();
+    };
+    void load();
+    // kéo tiến độ máy khác về → số đến hạn/chuỗi ngày phải nhảy theo ngay
+    return onSyncMerged(() => void load());
   }, []);
 
   const d = due ?? -1;

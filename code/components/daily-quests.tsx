@@ -6,6 +6,7 @@
 import { useEffect, useState } from "react";
 import { Sparkles, Check } from "lucide-react";
 import { todayQuests, type TodayQuests } from "@/lib/db";
+import { onSyncMerged } from "@/lib/sync";
 import { cn } from "@/lib/utils";
 
 export default function DailyQuests() {
@@ -14,17 +15,24 @@ export default function DailyQuests() {
 
   useEffect(() => {
     let alive = true;
-    todayQuests().then((d) => {
-      if (!alive) return;
-      setData(d);
-      if (d.justGranted > 0) {
-        setFlash(d.justGranted);
-        const t = setTimeout(() => setFlash(0), 4000);
-        return () => clearTimeout(t);
-      }
-    });
+    let t: number | undefined;
+    const load = () =>
+      void todayQuests().then((d) => {
+        if (!alive) return;
+        setData(d);
+        if (d.justGranted > 0) {
+          setFlash(d.justGranted);
+          window.clearTimeout(t);
+          t = window.setTimeout(() => setFlash(0), 4000);
+        }
+      });
+    load();
+    // kéo daily/reads từ máy khác về → tiến độ nhiệm vụ hôm nay phải tính lại
+    const off = onSyncMerged(load);
     return () => {
       alive = false;
+      window.clearTimeout(t);
+      off();
     };
   }, []);
 
