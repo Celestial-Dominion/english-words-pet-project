@@ -5,6 +5,7 @@ import Link from "next/link";
 import { GraduationCap, Plus } from "lucide-react";
 import { loadWords, loadExamplesForWords, loadTopicIds, type ExampleSentence } from "@/lib/data";
 import { warmSession } from "@/lib/warm";
+import { posLabel } from "@/lib/pos";
 import { db, learnedIds, newTodayCount, getConfig } from "@/lib/db";
 import { buildQuestions, type Question } from "@/lib/review-session";
 import { levelMeta, levelAccent } from "@/lib/levels";
@@ -286,7 +287,10 @@ export default function WordBrowser({ level }: { level: number }) {
                         <span className="text-lg font-semibold">{w.id}</span>
                         <span className="shrink-0 font-mono text-sm text-muted-foreground">{w.ipa}</span>
                       </span>
-                      <span className="mt-0.5 line-clamp-2 text-sm text-muted-foreground">{w.meaning_vi}</span>
+                      <span className="mt-0.5 line-clamp-2 text-sm text-muted-foreground">
+                        {w.pos.length > 0 && <i className="opacity-75">{w.pos.map(posLabel).join(", ")} · </i>}
+                        {w.meaning_vi}
+                      </span>
                     </span>
                     {/* chấm trạng thái bên PHẢI (như HSK) */}
                     <span className={cn("mt-1.5 size-2.5 shrink-0 rounded-full", STATUS_DOT[st])} aria-hidden />

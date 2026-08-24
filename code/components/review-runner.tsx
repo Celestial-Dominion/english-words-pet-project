@@ -13,6 +13,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { cn } from "@/lib/utils";
 import { reshuffleOptions, type Question } from "@/lib/review-session";
+import { posLabel } from "@/lib/pos";
 import type { SrsConfig, ReviewRecord } from "@/lib/types";
 import SentenceArrange from "@/components/sentence-arrange";
 import SpellCard from "@/components/spell-card";
@@ -623,6 +624,15 @@ export default function ReviewRunner({
                 </button>
               </div>
               <div className="font-mono text-base text-muted-foreground">{q.word.ipa}</div>
+              {q.word.pos.length > 0 && (
+                <div className="flex flex-wrap justify-center gap-1">
+                  {q.word.pos.map((p) => (
+                    <span key={p} className="rounded-full bg-muted px-2 py-0.5 text-xs font-medium text-muted-foreground">
+                      {posLabel(p)}
+                    </span>
+                  ))}
+                </div>
+              )}
               <div className="text-xl font-medium">{q.word.meaning_vi}</div>
             </div>
             {q.examples && q.examples.length > 0 && (
@@ -872,6 +882,9 @@ export default function ReviewRunner({
                     <Volume2 className="size-4" />
                   </button>
                 </div>
+                {q.word.pos.length > 0 && (
+                  <div className="text-xs italic text-muted-foreground">{q.word.pos.map(posLabel).join(" · ")}</div>
+                )}
                 <div className="text-sm leading-relaxed">{q.word.meaning_vi}</div>
                 {q.exs?.map((s) => (
                   <div key={s.en} className="flex items-start justify-between gap-2 border-t pt-2 text-left text-sm">

@@ -5,6 +5,7 @@ import { Volume2 } from "lucide-react";
 import type { SpellVerdict } from "@/lib/spell";
 import type { Word } from "@/lib/types";
 import type { ExampleSentence } from "@/lib/data";
+import { posLabel } from "@/lib/pos";
 import { cn } from "@/lib/utils";
 
 /**
@@ -72,6 +73,9 @@ export default function SpellCard({
           )}
           <div className="text-2xl font-bold">{word.id}</div>
           <div className="font-mono text-sm text-muted-foreground">{word.ipa}</div>
+          {word.pos.length > 0 && (
+            <div className="text-xs italic text-muted-foreground">{word.pos.map(posLabel).join(" · ")}</div>
+          )}
           <div className="text-sm leading-relaxed">{word.meaning_vi}</div>
           {examples?.slice(0, 1).map((s) => (
             <div key={s.en} className="border-t pt-2 text-left text-sm">
