@@ -10,7 +10,7 @@ import Link from "next/link";
 import { Headphones, Puzzle, ChevronLeft } from "lucide-react";
 import { practiceCounts, gatherPracticeSentences, type PracticeScope, type PracticeSentence } from "@/lib/practice-free";
 import { tokenize, arrangeReady, ARRANGE_TOKENS } from "@/lib/review-session";
-import { learnedIds, recordPractice, addXp } from "@/lib/db";
+import { learnedIds, recordPractice, addXp, getConfig } from "@/lib/db";
 import { XP } from "@/lib/gamify";
 import { LEVELS, FOUNDATION } from "@/lib/levels";
 import SentenceArrange from "@/components/sentence-arrange";
@@ -37,9 +37,11 @@ export default function LuyenTapPage() {
   const [i, setI] = useState(0);
   const [right, setRight] = useState(0);
   const [xpGained, setXpGained] = useState(0);
+  const [showVi, setShowVi] = useState(false); // theo cài đặt sentenceVi (mặc định ẩn tới khi kiểm tra)
 
   useEffect(() => {
     practiceCounts().then(setCounts);
+    getConfig().then((c) => setShowVi(c.sentenceVi));
   }, []);
 
   const start = async () => {
@@ -138,7 +140,7 @@ export default function LuyenTapPage() {
         ) : mode === "dictation" ? (
           <DictationCard key={i} en={cur.en} vi={cur.vi} onNext={answered} />
         ) : (
-          <SentenceArrange key={i} en={cur.en} vi={cur.vi} tokens={tokenize(cur.en)} onNext={answered} />
+          <SentenceArrange key={i} en={cur.en} vi={cur.vi} tokens={tokenize(cur.en)} showVi={showVi} onNext={answered} />
         )}
       </div>
     );

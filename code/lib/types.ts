@@ -63,6 +63,7 @@ export interface SrsConfig {
   listenEnabled: boolean; // ① câu hỏi NGHE → chọn nghĩa.
   clozeEnabled: boolean; // ② điền từ vào câu ví dụ (có từ thẻ còn non, tỉ trọng tăng theo độ chín).
   autoAdvance: boolean; // trả lời ĐÚNG → tự sang thẻ kế.
+  sentenceVi: boolean; // hiện NGHĨA câu ngay từ đầu ở điền từ & ghép câu; TẮT (mặc định) = làm xong mới hiện.
 }
 
 export const DEFAULT_SRS_CONFIG: SrsConfig = {
@@ -76,6 +77,7 @@ export const DEFAULT_SRS_CONFIG: SrsConfig = {
   listenEnabled: true,
   clozeEnabled: true,
   autoAdvance: true,
+  sentenceVi: false, // ẩn nghĩa lúc đang làm — không bị bản dịch mớm đáp án
 };
 
 // ---- Nhật ký từng lượt chấm (revlog — như HSK) ----

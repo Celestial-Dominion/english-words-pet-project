@@ -697,6 +697,7 @@ export default function ReviewRunner({
           en={q.en}
           vi={q.vi}
           tokens={q.tokens}
+          showVi={config.sentenceVi}
           onNext={(correct) => {
             if (correct) {
               setRight((r) => r + 1);
@@ -780,7 +781,10 @@ export default function ReviewRunner({
                     </span>
                     {q.clozeAfter}
                   </div>
-                  {q.clozeVi && <div className="text-sm text-muted-foreground">{q.clozeVi}</div>}
+                  {/* nghĩa câu: mặc định giấu lúc đang làm (bản dịch mớm đáp án); trả lời xong mới hiện */}
+                  {q.clozeVi && (config.sentenceVi || chosen !== null) && (
+                    <div className="text-sm text-muted-foreground">{q.clozeVi}</div>
+                  )}
                   {chosen === null && (
                     <div className="text-xs font-medium uppercase tracking-wide text-muted-foreground">Điền từ còn thiếu</div>
                   )}

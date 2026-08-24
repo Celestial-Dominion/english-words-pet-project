@@ -19,11 +19,13 @@ export default function SentenceArrange({
   vi,
   tokens,
   onNext,
+  showVi = false,
 }: {
   en: string;
   vi: string;
   tokens: string[];
   onNext: (correct: boolean) => void;
+  showVi?: boolean; // hiện nghĩa VI ngay từ đầu; mặc định ẨN tới khi bấm Kiểm tra (cài đặt sentenceVi)
 }) {
   // bank giữ {token, id} để token trùng nhau vẫn phân biệt; xáo tránh ra đúng thứ tự luôn
   const initial = useMemo(() => {
@@ -89,7 +91,13 @@ export default function SentenceArrange({
                 <Volume2 className="h-4 w-4" />
               </button>
             </div>
-            <div className="mt-1.5 text-lg font-medium">{vi}</div>
+            {/* nghĩa VI: mặc định giấu tới khi kiểm tra — bản dịch mớm sẵn trật tự từ,
+                giấu đi thì phải dựng câu bằng ngữ pháp thật (audio vẫn nghe được để gợi ý) */}
+            {showVi || checked !== null ? (
+              <div className="mt-1.5 text-lg font-medium">{vi}</div>
+            ) : (
+              <div className="mt-1.5 text-sm italic text-muted-foreground">Nghĩa sẽ hiện sau khi kiểm tra</div>
+            )}
           </div>
 
           {/* câu đang dựng — chiều cao dự trữ cố định, không xô đẩy bố cục */}

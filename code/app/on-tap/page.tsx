@@ -312,6 +312,21 @@ export default function OnTapPage() {
 
             <label className="flex items-center justify-between gap-4">
               <span className="text-sm font-medium">
+                Nghĩa câu khi đang làm
+                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
+                  hiện bản dịch tiếng Việt ngay từ đầu ở câu điền từ & ghép câu — tắt (mặc định) thì làm xong mới hiện, không bị nghĩa mớm đáp án
+                </span>
+              </span>
+              <input
+                type="checkbox"
+                checked={cfg.sentenceVi === true}
+                onChange={(e) => patch({ sentenceVi: e.target.checked })}
+                className="size-5 accent-primary"
+              />
+            </label>
+
+            <label className="flex items-center justify-between gap-4">
+              <span className="text-sm font-medium">
                 ③ Câu ghép mỗi từ
                 <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
                   luyện sắp xếp câu sau trắc nghiệm — chỉ hiện khi đã học ≥40 từ và câu ví dụ gồm toàn từ bạn đã biết (tránh đoán mù)

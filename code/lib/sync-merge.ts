@@ -324,6 +324,7 @@ export function sanitizeConfig(raw: unknown, base: SrsConfig): SrsConfig {
     listenEnabled: bool(raw.listenEnabled, base.listenEnabled),
     clozeEnabled: bool(raw.clozeEnabled, base.clozeEnabled),
     autoAdvance: bool(raw.autoAdvance, base.autoAdvance),
+    sentenceVi: bool(raw.sentenceVi, base.sentenceVi),
   };
 }
 
