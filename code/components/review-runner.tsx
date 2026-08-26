@@ -16,6 +16,7 @@ import { reshuffleOptions, type Question } from "@/lib/review-session";
 import { posLabel } from "@/lib/pos";
 import type { SrsConfig, ReviewRecord } from "@/lib/types";
 import SentenceArrange from "@/components/sentence-arrange";
+import Celebration from "@/components/celebration";
 import SpellCard from "@/components/spell-card";
 
 const REQUEUE_GAP = 3; // sai → gặp lại sau ~3 thẻ
@@ -449,6 +450,8 @@ export default function ReviewRunner({
     // Màn tổng kết đứng RIÊNG trong luồng trang (không còn khung phiên) — như HSK.
     return (
       <div className="mx-auto w-full max-w-2xl space-y-4 py-4">
+          {/* pháo hoa + fanfare — chỉ khi phiên có chấm điểm thật (không nổ cho phiên trống) */}
+          {summary && summary.reviewed > 0 && <Celebration perfect={summary.perfect} />}
           <div className="flex flex-col items-center gap-3 rounded-3xl border bg-gradient-to-br from-primary/10 to-transparent p-8 text-center sm:p-10">
             <div className="text-2xl font-bold">✅ Xong phiên ôn!</div>
             <div className="text-muted-foreground">

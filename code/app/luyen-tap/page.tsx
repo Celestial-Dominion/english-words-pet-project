@@ -15,6 +15,7 @@ import { XP } from "@/lib/gamify";
 import { LEVELS, FOUNDATION } from "@/lib/levels";
 import SentenceArrange from "@/components/sentence-arrange";
 import DictationCard from "@/components/dictation-card";
+import Celebration from "@/components/celebration";
 import { cn } from "@/lib/utils";
 
 type Mode = "dictation" | "arrange";
@@ -116,6 +117,7 @@ export default function LuyenTapPage() {
         </div>
         {done ? (
           <div className="space-y-4 rounded-3xl border bg-card p-8 text-center shadow-sm">
+            <Celebration perfect={right === session.length} />
             <div className="text-4xl">{right === session.length ? "🏅" : right >= session.length / 2 ? "💪" : "🌊"}</div>
             <h2 className="text-xl font-bold">
               Đúng {right}/{session.length} câu
