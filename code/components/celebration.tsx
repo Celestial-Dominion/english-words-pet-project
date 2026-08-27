@@ -3,45 +3,90 @@
 // PHÁO HOA + NHẠC CHÚC MỪNG cho màn tổng kết phiên học/ôn.
 // - Confetti tự vẽ trên canvas toàn màn (không thêm dependency, ~2,5s rồi tự gỡ).
 // - Fanfare tổng hợp bằng Web Audio (không cần file mp3 — offline sẵn, không vướng bản quyền).
+//   Giai điệu + tiếng "pluck" marimba PORT NGUYÊN từ app HSK (components/celebration.tsx bên đó)
+//   theo yêu cầu: hai app kêu giống nhau.
 // - Tôn trọng prefers-reduced-motion: chỉ phát nhạc, bỏ hiệu ứng chuyển động.
-// - iOS chặn audio ngoài cử chỉ người dùng → phát best-effort, bị chặn thì im lặng bỏ qua
-//   (confetti vẫn nổ; thực tế màn tổng kết hiện ngay sau cú chạm cuối nên thường vẫn kêu).
+// - iOS chỉ cho phát âm sau CỬ CHỈ người dùng → primeCelebrationAudio() phải được gọi từ
+//   một cú chạm TRONG PHIÊN (resume AudioContext lúc còn gesture); tới màn tổng kết context
+//   đã "running" thì phát được, còn suspended thì im lặng bỏ qua.
 import { useEffect, useRef } from "react";
 
-// Hợp âm rải Đô trưởng đi lên + chord kết — vui tai kiểu chuông thắng trận, ~1,4s.
-function playFanfare(big: boolean): void {
+let actx: AudioContext | null = null;
+
+function getCtx(): AudioContext | null {
+  if (typeof window === "undefined") return null;
   try {
-    const Ctx = window.AudioContext ?? (window as Window & { webkitAudioContext?: typeof AudioContext }).webkitAudioContext;
-    if (!Ctx) return;
-    const ctx = new Ctx();
-    if (ctx.state === "suspended") void ctx.resume();
-    const master = ctx.createGain();
-    master.gain.value = 0.16; // nhẹ nhàng — âm báo, không phải nhạc nền
-    master.connect(ctx.destination);
-
-    const note = (freq: number, at: number, dur: number, vol = 1) => {
-      const osc = ctx.createOscillator();
-      const gain = ctx.createGain();
-      osc.type = "triangle";
-      osc.frequency.value = freq;
-      gain.gain.setValueAtTime(0, ctx.currentTime + at);
-      gain.gain.linearRampToValueAtTime(vol, ctx.currentTime + at + 0.02);
-      gain.gain.exponentialRampToValueAtTime(0.001, ctx.currentTime + at + dur);
-      osc.connect(gain).connect(master);
-      osc.start(ctx.currentTime + at);
-      osc.stop(ctx.currentTime + at + dur + 0.05);
-    };
-
-    // C5 → E5 → G5 → C6 rải nhanh, rồi chord C trưởng ngân
-    const seq = [523.25, 659.25, 783.99, 1046.5];
-    seq.forEach((f, i) => note(f, i * 0.09, 0.35, 0.9));
-    [523.25, 659.25, 783.99, 1046.5].forEach((f) => note(f, 0.42, big ? 1.0 : 0.7, 0.5));
-    if (big) [587.33, 880].forEach((f) => note(f, 0.66, 0.9, 0.35)); // phiên hoàn hảo: thêm lớp D5+A5 lấp lánh
-
-    window.setTimeout(() => void ctx.close().catch(() => {}), 2500);
+    if (!actx) actx = new AudioContext();
+    return actx;
   } catch {
-    /* audio là phụ trợ — lỗi/bị chặn thì bỏ qua */
+    return null;
   }
+}
+
+/** Gọi trong một cú chạm bất kỳ của phiên (mồi quyền phát âm cho iOS). */
+export function primeCelebrationAudio(): void {
+  const ctx = getCtx();
+  if (ctx && ctx.state === "suspended") void ctx.resume().catch(() => {});
+}
+
+// Fanfare ~1,5s như app HSK: tiếng gõ mộc kiểu marimba/chuông đồ chơi, giai điệu tự
+// sáng tác Đô trưởng nhịp nảy — câu chạy lên → móc câu láy → rắc lấp lánh → chord kết.
+function playFanfare(): void {
+  const ctx = getCtx();
+  if (!ctx || ctx.state !== "running") return; // chưa được mồi → thôi, không ép
+  const t0 = ctx.currentTime + 0.05;
+  // To hơn mà không vỡ: master đẩy cao + COMPRESSOR chặn đỉnh khi hợp âm 5 bè cộng dồn.
+  const master = ctx.createGain();
+  master.gain.value = 0.85;
+  const comp = ctx.createDynamicsCompressor();
+  comp.threshold.value = -12;
+  comp.knee.value = 12;
+  comp.ratio.value = 6;
+  comp.attack.value = 0.002;
+  comp.release.value = 0.2;
+  master.connect(comp).connect(ctx.destination);
+  const pluck = (freq: number, at: number, dur = 0.3, vol = 1) => {
+    for (const [mult, kVol, type] of [
+      [1, 1, "sine"],
+      [2, 0.35, "sine"],
+      [3, 0.12, "triangle"],
+    ] as const) {
+      const o = ctx.createOscillator();
+      const g = ctx.createGain();
+      o.type = type;
+      o.frequency.value = freq * mult;
+      g.gain.setValueAtTime(0, t0 + at);
+      g.gain.linearRampToValueAtTime(vol * kVol, t0 + at + 0.006);
+      g.gain.exponentialRampToValueAtTime(0.001, t0 + at + dur);
+      o.connect(g).connect(master);
+      o.start(t0 + at);
+      o.stop(t0 + at + dur + 0.05);
+    }
+  };
+  const N = { C3: 130.81, G3: 196.0, C4: 261.63, G4: 392.0, A4: 440.0,
+    C5: 523.25, D5: 587.33, E5: 659.25, G5: 783.99, A5: 880.0,
+    C6: 1046.5, E6: 1318.5, G6: 1568.0, A6: 1760.0, C7: 2093.0 };
+  // câu chạy lấy đà
+  pluck(N.C5, 0.0, 0.22, 0.9);
+  pluck(N.D5, 0.09, 0.22, 0.85);
+  pluck(N.E5, 0.18, 0.22, 0.9);
+  pluck(N.G5, 0.27, 0.26, 0.95);
+  // móc câu: nhảy lên láy xuống rồi bật lên cao — phần "vui" nhất
+  pluck(N.C6, 0.42, 0.3, 1);
+  pluck(N.A5, 0.57, 0.24, 0.85);
+  pluck(N.C6, 0.69, 0.28, 0.95);
+  pluck(N.E6, 0.84, 0.42, 1);
+  // rắc lấp lánh chạy vút lên
+  pluck(N.G6, 1.06, 0.18, 0.7);
+  pluck(N.A6, 1.13, 0.18, 0.7);
+  pluck(N.C7, 1.2, 0.5, 0.9);
+  // bè trầm nảy như bước nhún
+  pluck(N.C3, 0.0, 0.3, 0.9);
+  pluck(N.G3, 0.42, 0.3, 0.85);
+  pluck(N.C4, 0.84, 0.3, 0.85);
+  // hợp âm kết C6/9-thêm-quãng-6 (C E G A) — tươi, ngân vừa phải
+  for (const f of [N.C4, N.E5, N.G5, N.A5, N.C6]) pluck(f, 1.32, 1.0, 0.75);
+  pluck(N.C3, 1.32, 1.0, 0.9);
 }
 
 interface Particle {
@@ -74,7 +119,7 @@ export default function Celebration({ perfect = false }: { perfect?: boolean }) 
   useEffect(() => {
     if (firedRef.current) return; // StrictMode/remount — chỉ nổ một lần
     firedRef.current = true;
-    playFanfare(perfect);
+    playFanfare();
 
     const reduced = window.matchMedia?.("(prefers-reduced-motion: reduce)").matches;
     const canvas = canvasRef.current;

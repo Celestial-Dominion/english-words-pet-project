@@ -16,7 +16,7 @@ import { reshuffleOptions, type Question } from "@/lib/review-session";
 import { posLabel } from "@/lib/pos";
 import type { SrsConfig, ReviewRecord } from "@/lib/types";
 import SentenceArrange from "@/components/sentence-arrange";
-import Celebration from "@/components/celebration";
+import Celebration, { primeCelebrationAudio } from "@/components/celebration";
 import SpellCard from "@/components/spell-card";
 
 const REQUEUE_GAP = 3; // sai → gặp lại sau ~3 thẻ
@@ -340,6 +340,7 @@ export default function ReviewRunner({
 
   const submitAnswer = async (correct: boolean, idx: number) => {
     if (!q) return;
+    primeCelebrationAudio(); // đang trong cử chỉ chạm → mồi quyền phát fanfare cho iOS
     setChosen(idx);
     const comboBefore = comboRef.current;
     if (correct) {

@@ -15,7 +15,7 @@ import { XP } from "@/lib/gamify";
 import { LEVELS, FOUNDATION } from "@/lib/levels";
 import SentenceArrange from "@/components/sentence-arrange";
 import DictationCard from "@/components/dictation-card";
-import Celebration from "@/components/celebration";
+import Celebration, { primeCelebrationAudio } from "@/components/celebration";
 import { cn } from "@/lib/utils";
 
 type Mode = "dictation" | "arrange";
@@ -75,6 +75,7 @@ export default function LuyenTapPage() {
   };
 
   const answered = (correct: boolean) => {
+    primeCelebrationAudio(); // trong cử chỉ chạm → mồi quyền phát fanfare màn kết (iOS)
     if (correct) {
       setRight((r) => r + 1);
       setXpGained((x) => x + XP.practice);
