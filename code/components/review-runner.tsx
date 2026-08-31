@@ -358,6 +358,22 @@ export default function ReviewRunner({
       // trả lời xong → nghe lại (cloze đọc CẢ CÂU, còn lại đọc từ)
       if (q.kind === "mcq" && q.mode === "cloze" && q.clozeEn) play(sentenceAudioUrl(q.clozeEn));
       else play(wordAudioUrl(q.word));
+      // Chèn lại thẻ để làm lại trong phiên (dùng chung cho cả hai nhánh sai/đúng-hẹn-lại).
+      const alreadyQueued = qs.slice(i + 1).some((x) => x.graded && x.word.id === q.word.id);
+      let requeued: Question | null = null;
+      const insertRequeue = () => {
+        requeued = reshuffleOptions({ ...q, isNew: false }); // xáo phương án — khỏi bấm theo trí nhớ vị trí
+        setQs((prev2) => {
+          const copy = [...prev2];
+          copy.splice(Math.min(i + 1 + REQUEUE_GAP, copy.length), 0, requeued!);
+          return copy;
+        });
+      };
+      // SAI → chèn lại NGAY (đồng bộ, TRƯỚC khi ghi DB): ở thẻ CUỐI phiên, nếu đợi await xong
+      // mới chèn thì nút thoáng hiện "Kết thúc", người dùng bấm nhanh là finalize cả phiên và
+      // MẤT lượt làm lại. Chèn đồng bộ + gộp cùng setChosen → nút hiện "Tiếp tục" tức thì.
+      if (!correct && !alreadyQueued) insertRequeue();
+
       const rating = ratingFromSpeed(
         correct,
         shownAtRef.current ? Date.now() - shownAtRef.current : 99_999,
@@ -365,19 +381,9 @@ export default function ReviewRunner({
       );
       const xp = correct ? (q.isNew ? XP.newWord : XP.review) : 0;
       const { prev, next: nextRec, date } = await recordAnswer({ wordId: q.word.id, level: q.word.level, correct, isNew: q.isNew, rating });
-      // Lặp lại trong phiên (như HSK): SAI, hoặc ĐÚNG nhưng FSRS hẹn lại trong ≤15 phút
-      // (thẻ đang ở learning steps) → chèn lại sau vài lá, nếu chưa có bản chờ.
-      const dueSoon = new Date(nextRec.due).getTime() - Date.now() <= REPEAT_WINDOW_MS;
-      let requeued: Question | null = null;
-      if ((!correct || dueSoon) && !qs.slice(i + 1).some((x) => x.graded && x.word.id === q.word.id)) {
-        // xáo lại phương án cho lượt gặp lại — không thì bấm theo trí nhớ vị trí là qua
-        requeued = reshuffleOptions({ ...q, isNew: false });
-        setQs((prev2) => {
-          const copy = [...prev2];
-          copy.splice(Math.min(i + 1 + REQUEUE_GAP, copy.length), 0, requeued!);
-          return copy;
-        });
-      }
+      // ĐÚNG nhưng FSRS hẹn lại trong ≤15 phút (thẻ đang ở learning steps) → cũng chèn lại.
+      // Cần `due` từ DB nên nằm SAU await; nhánh đúng tự chuyển sau 1,3s nên không dính race.
+      if (correct && !alreadyQueued && new Date(nextRec.due).getTime() - Date.now() <= REPEAT_WINDOW_MS) insertRequeue();
       if (xp) void addXp(xp);
       xpRef.current += xp;
       setUndoInfo({ wordId: q.word.id, date, prev, correct, isNew: q.isNew, xp, comboBefore, requeued });
