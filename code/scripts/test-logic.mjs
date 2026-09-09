@@ -32,6 +32,8 @@ import {
 import { gradeSpelling, normalizeSpelling, editDistance, isSpellCorrect } from "../lib/spell.ts";
 import { questionMix, pickQuestionKind } from "../lib/question-mix.ts";
 import { DEFAULT_SRS_CONFIG } from "../lib/types.ts";
+import { elapsedDaysFor, isAheadEligible, pickAhead } from "../lib/srs-ahead.ts";
+import { fsrs, generatorParameters, createEmptyCard, Rating, dateDiffInDays } from "ts-fsrs";
 
 let pass = 0;
 const t = (name, fn) => {
@@ -432,6 +434,112 @@ t("số từ mỗi cấp trong lib/levels.ts khớp public/data/words/*.json", (
     const real = JSON.parse(readFileSync(file, "utf8")).length;
     assert.equal(l.words, real, `${l.cefr}: levels.ts ghi ${l.words} nhưng data có ${real} từ`);
   }
+});
+
+// ---- ÔN SỚM (ahead): lọc + xếp thuần (lib/srs-ahead.ts) ----
+// Scheduler thật của ts-fsrs với learning steps như app — để "đi hết các bước" là thật, không giả lập.
+const FA = fsrs(generatorParameters({
+  request_retention: 0.97, maximum_interval: 120, learning_steps: ["1m", "10m", "1h", "12h"],
+  relearning_steps: ["10m", "1h"], enable_fuzz: true, enable_short_term: true,
+}));
+const curve = (t, s) => FA.forgetting_curve(t, s);
+const NOW = new Date("2026-09-09T13:00:00Z"); // 20h giờ VN
+const ac = (over) => ({ wordId: "w", level: 1, due: new Date("2026-09-15T13:00:00Z"), stability: 10, difficulty: 5,
+  elapsed_days: 3, scheduled_days: 9, reps: 4, lapses: 0, learning_steps: 0, state: 2,
+  last_review: new Date("2026-09-06T13:00:00Z"), introducedOn: "2026-08-01", ...over });
+const noShuffle = () => 1 - 1e-9; // j = i → xáo là phép đồng nhất, để test thứ tự
+// RNG tất định (mulberry32) cho các test rút ngẫu nhiên
+const mulberry = (seed) => () => { seed |= 0; seed = (seed + 0x6d2b79f5) | 0; let x = Math.imul(seed ^ (seed >>> 15), 1 | seed);
+  x = (x + Math.imul(x ^ (x >>> 7), 61 | x)) ^ x; return ((x ^ (x >>> 14)) >>> 0) / 4294967296; };
+
+t("ôn sớm: loại thẻ ĐANG HỌC (Learning/Relearning); Review và bản ghi cũ thiếu state vẫn được", () => {
+  assert.equal(isAheadEligible(ac({ state: 1, due: new Date("2026-09-09T14:00:00Z") }), NOW), false);
+  assert.equal(isAheadEligible(ac({ state: 3, due: new Date("2026-09-09T14:00:00Z") }), NOW), false);
+  assert.equal(isAheadEligible(ac({ state: 2 }), NOW), true);
+  assert.equal(isAheadEligible(ac({ state: undefined }), NOW), true); // không đòi state === Review
+  assert.equal(isAheadEligible(ac({ due: new Date("2026-09-09T12:00:00Z") }), NOW), false); // đã tới hạn → phiên đến hạn lo
+});
+
+t("ôn sớm: loại thẻ ĐÃ ÔN trong ngày; ôn hôm qua thì được", () => {
+  assert.equal(isAheadEligible(ac({ last_review: new Date("2026-09-09T08:00:00Z") }), NOW), false);
+  assert.equal(isAheadEligible(ac({ last_review: new Date("2026-09-08T23:00:00Z") }), NOW), true);
+});
+
+t("ôn sớm: ranh giới ngày theo ĐÚNG scheduler (ngày UTC = 7h sáng VN), khớp dateDiffInDays", () => {
+  const lr = new Date("2026-09-09T16:59:00Z"); // 23:59 VN ngày 9/9
+  const before7am = new Date("2026-09-09T23:59:00Z"); // 06:59 VN ngày 10/9 — vẫn cùng ngày UTC
+  const after7am = new Date("2026-09-10T00:01:00Z"); // 07:01 VN ngày 10/9 — ngày UTC mới
+  const rec = ac({ last_review: lr, due: new Date("2026-09-20T00:00:00Z") });
+  assert.equal(elapsedDaysFor(rec, before7am), dateDiffInDays(lr, before7am));
+  assert.equal(elapsedDaysFor(rec, before7am), 0);
+  assert.equal(isAheadEligible(rec, before7am), false);
+  assert.equal(elapsedDaysFor(rec, after7am), 1);
+  assert.equal(isAheadEligible(rec, after7am), true);
+});
+
+t("ôn sớm: thiếu last_review không lỗi — ước ngày trôi từ due & scheduled_days, tối thiểu 1", () => {
+  const r1 = ac({ last_review: undefined, due: new Date("2026-09-12T13:00:00Z"), scheduled_days: 10 }); // còn 3 ngày → trôi 7
+  assert.equal(elapsedDaysFor(r1, NOW), 7);
+  assert.equal(isAheadEligible(r1, NOW), true);
+  const r2 = ac({ last_review: undefined, due: new Date("2026-09-10T13:00:00Z"), scheduled_days: 1 }); // 1-1=0 → kẹp 1
+  assert.equal(elapsedDaysFor(r2, NOW), 1);
+  assert.equal(isAheadEligible(r2, NOW), true);
+  assert.doesNotThrow(() => pickAhead([r1, r2, ac({ last_review: undefined, scheduled_days: undefined })], NOW, 5, curve));
+});
+
+t("ôn sớm: xếp theo khả năng nhớ TĂNG dần (sắp quên nhất trước), không theo due", () => {
+  const weak = ac({ wordId: "weak", stability: 2, last_review: new Date("2026-09-08T13:00:00Z"), due: new Date("2026-09-30T00:00:00Z") }); // R thấp, due xa
+  const mid = ac({ wordId: "mid", stability: 10, last_review: new Date("2026-09-05T13:00:00Z"), due: new Date("2026-09-11T00:00:00Z") }); // t/S = 0.4 (weak = 0.5)
+  const strong = ac({ wordId: "strong", stability: 60, last_review: new Date("2026-09-08T13:00:00Z"), due: new Date("2026-09-10T00:00:00Z") }); // R cao, due gần nhất
+  const out = pickAhead([strong, mid, weak], NOW, 3, curve, noShuffle, 1);
+  assert.deepEqual(out.map((r) => r.wordId), ["weak", "mid", "strong"]);
+  const R = (r) => curve(elapsedDaysFor(r, NOW), r.stability);
+  assert.ok(R(weak) < R(mid) && R(mid) < R(strong));
+});
+
+t("ôn sớm: ba lượt liên tiếp (chấm thật bằng ts-fsrs) không lặp thẻ, không có thẻ đang học", () => {
+  const recs = [];
+  // 30 thẻ đang học (vừa học tối nay): New → Good → Learning, hẹn 10 phút
+  for (let i = 0; i < 30; i++) recs.push({ wordId: `L${i}`, ...FA.next(createEmptyCard(NOW), NOW, Rating.Good).card });
+  // 90 thẻ Review ôn lần cuối 1–9 ngày trước, chưa tới hạn
+  for (let i = 0; i < 90; i++) {
+    const lr = new Date(NOW.getTime() - (1 + (i % 9)) * 86400000);
+    recs.push(ac({ wordId: `R${i}`, stability: 5 + (i % 7) * 4, last_review: lr, due: new Date(NOW.getTime() + (1 + (i % 5)) * 86400000) }));
+  }
+  const rnd = mulberry(7);
+  const seen = new Set();
+  let now = NOW;
+  for (let round = 0; round < 3; round++) {
+    const picked = pickAhead(recs, now, 20, curve, rnd);
+    assert.equal(picked.length, 20, `lượt ${round + 1} thiếu thẻ`);
+    for (const r of picked) {
+      assert.ok(!seen.has(r.wordId), `lặp thẻ ${r.wordId} ở lượt ${round + 1}`);
+      assert.ok(r.state !== 1 && r.state !== 3, `thẻ đang học ${r.wordId} lọt lượt ${round + 1}`);
+      seen.add(r.wordId);
+      // chấm Good thật → last_review = now (cùng ngày UTC) → lượt sau tự loại
+      Object.assign(r, FA.next(r, now, Rating.Good).card);
+    }
+    now = new Date(now.getTime() + 5 * 60000);
+  }
+  assert.equal(seen.size, 60);
+});
+
+t("ôn sớm: rút ngẫu nhiên không ra ngoài nhóm GẤP ĐÔI có R thấp nhất; đủ số, không trùng", () => {
+  // 100 thẻ R khác nhau hẳn (stability tăng dần, cùng ngày trôi)
+  const recs = Array.from({ length: 100 }, (_, i) => ac({ wordId: `c${i}`, stability: 1 + i * 0.5 }));
+  const ranked = [...recs].sort((a, b) => curve(elapsedDaysFor(a, NOW), a.stability) - curve(elapsedDaysFor(b, NOW), b.stability));
+  const top20 = new Set(ranked.slice(0, 20).map((r) => r.wordId));
+  for (const seed of [1, 2, 3, 42, 2026]) {
+    const out = pickAhead(recs, NOW, 10, curve, mulberry(seed));
+    assert.equal(out.length, 10);
+    assert.equal(new Set(out.map((r) => r.wordId)).size, 10);
+    for (const r of out) assert.ok(top20.has(r.wordId), `seed ${seed}: ${r.wordId} ngoài nhóm 20 sắp quên nhất`);
+  }
+  // các seed khác nhau phải cho ít nhất một bộ khác (đúng là có rút ngẫu nhiên)
+  const sets = new Set([1, 2, 3].map((s) => pickAhead(recs, NOW, 10, curve, mulberry(s)).map((r) => r.wordId).sort().join(",")));
+  assert.ok(sets.size > 1);
+  assert.deepEqual(pickAhead(recs, NOW, 0, curve), []);
+  assert.equal(pickAhead(recs.slice(0, 4), NOW, 20, curve).length, 4); // ít hơn limit → trả hết
 });
 
 console.log(`logic: ${pass} ca đạt${process.exitCode ? " (CÓ LỖI)" : ""}`);

@@ -3,7 +3,8 @@ import Dexie, { type Table } from "dexie";
 import type { Grade } from "ts-fsrs";
 import type { ReviewRecord, DailyStat, ReadRow, NoteRow, GamifyRow, RevlogRow, SrsConfig } from "./types";
 import { DEFAULT_SRS_CONFIG } from "./types";
-import { newCard, schedule, scheduleRated, recordToCard, cardToRecordFields } from "./srs";
+import { newCard, schedule, scheduleRated, recordToCard, cardToRecordFields, forgettingCurve } from "./srs";
+import { pickAhead, isAheadEligible } from "./srs-ahead";
 import { todayStr, computeStreak, longestStreak, maxComebackGap, LEECH_LAPSES, MATURE_STABILITY } from "./srs-pure";
 import { dailyQuests, questProgress, questKey, pruneQuestKeys, type QuestProgress } from "./gamify";
 import { mergeReviews, mergeDaily, mergeReads, mergeNotes, mergeGamify, mergeIdSet } from "./sync-merge";
@@ -105,14 +106,18 @@ export async function countDue(now = new Date()): Promise<number> {
   return db.reviews.where("due").belowOrEqual(now).count();
 }
 
-/** Ôn sớm: các thẻ CHƯA tới hạn (due > now), sắp tới hạn sớm nhất trước. */
+/** Ôn sớm: thẻ CHƯA tới hạn, KHÔNG đang ở bước học trong ngày (Learning/Relearning) và CHƯA ôn
+ *  hôm nay (ngày UTC — đúng cách ts-fsrs tính elapsed_days), xếp "sắp quên nhất trước" rồi rút
+ *  ngẫu nhiên trong nhóm gấp đôi. Vì sao không xếp theo due gần nhất: xem đầu lib/srs-ahead.ts.
+ *  Kết quả ĐÃ xáo, nơi gọi không cần xáo lại. */
 export async function getAheadReviews(now = new Date(), limit = 20): Promise<ReviewRecord[]> {
   const rows = await db.reviews.where("due").above(now).toArray();
-  rows.sort((a, b) => new Date(a.due).getTime() - new Date(b.due).getTime());
-  return rows.slice(0, limit);
+  return pickAhead(rows, now, limit, forgettingCurve);
 }
+/** Số thẻ ôn sớm hiện trên nút — CÙNG bộ lọc với phiên thật (không phải mọi thẻ due > now). */
 export async function countAhead(now = new Date()): Promise<number> {
-  return db.reviews.where("due").above(now).count();
+  const rows = await db.reviews.where("due").above(now).toArray();
+  return rows.filter((r) => isAheadEligible(r, now)).length;
 }
 
 /** Từ "hay quên" (leech): số lần trả lời sai (lapses) từ 3 trở lên. */

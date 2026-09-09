@@ -42,6 +42,13 @@ export function scheduleRated(card: Card, rating: Grade, now: Date): Card {
   return next;
 }
 
+/** Đường cong quên R(t, S) của CHÍNH scheduler đang dùng (cùng w/decay với lúc chấm) — dùng để
+ *  xếp thứ tự ôn sớm (lib/srs-ahead.ts). Không dùng f.get_retrievability: tính elapsed theo
+ *  floor 24h (lệch với next()) và ném lỗi khi thẻ thiếu last_review. */
+export function forgettingCurve(elapsedDays: number, stability: number): number {
+  return f.forgetting_curve(elapsedDays, stability);
+}
+
 // Từ "hay quên" (leech) và từ "đã chín" — dùng để chọn loại câu hỏi + thẻ ôn lại kỹ.
 
 
