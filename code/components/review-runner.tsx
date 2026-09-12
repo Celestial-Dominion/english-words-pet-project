@@ -1,7 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { Volume2, Sparkles } from "lucide-react";
+import { Volume2, VolumeX, Sparkles } from "lucide-react";
 import { recordAnswer, undoAnswer, recordPractice, addXp, progressSummary, getMnemonic, setMnemonic, updateMaxCombo } from "@/lib/db";
 import { XP, badgeGroups, rankForWords, type Stats, type Badge } from "@/lib/gamify";
 import { ratingFromSpeed } from "@/lib/srs";
@@ -248,9 +248,13 @@ export default function ReviewRunner({
     shownAtRef.current = Date.now();
   };
 
+  // Cài đặt Âm thanh tắt (học ở nơi không mở tiếng được) → KHÔNG tự phát gì trong phiên; nút loa
+  // bấm tay vẫn kêu vì đó là chủ ý người dùng. Câu hỏi nghe đã bị bỏ từ lúc dựng phiên (question-mix).
+  const sound = config.soundEnabled !== false;
+
   // Tự phát âm khi hiện thẻ: learn + MCQ nghĩa/nghe (KHÔNG phát ở chế độ ngược/cloze — lộ đáp án).
   useEffect(() => {
-    if (!q) return;
+    if (!q || !sound) return;
     if (q.kind === "learn" || q.kind === "spell" || (q.kind === "mcq" && (q.mode === "meaning" || q.mode === "listen"))) {
       play(wordAudioUrl(q.word));
     }
@@ -355,9 +359,11 @@ export default function ReviewRunner({
 
     if (q.graded) {
       gradedRef.current += 1;
-      // trả lời xong → nghe lại (cloze đọc CẢ CÂU, còn lại đọc từ)
-      if (q.kind === "mcq" && q.mode === "cloze" && q.clozeEn) play(sentenceAudioUrl(q.clozeEn));
-      else play(wordAudioUrl(q.word));
+      // trả lời xong → nghe lại (cloze đọc CẢ CÂU, còn lại đọc từ) — trừ khi đã tắt âm thanh
+      if (sound) {
+        if (q.kind === "mcq" && q.mode === "cloze" && q.clozeEn) play(sentenceAudioUrl(q.clozeEn));
+        else play(wordAudioUrl(q.word));
+      }
       // Chèn lại thẻ để làm lại trong phiên (dùng chung cho cả hai nhánh sai/đúng-hẹn-lại).
       const alreadyQueued = qs.slice(i + 1).some((x) => x.graded && x.word.id === q.word.id);
       let requeued: Question | null = null;
@@ -458,7 +464,7 @@ export default function ReviewRunner({
     return (
       <div className="mx-auto w-full max-w-2xl space-y-4 py-4">
           {/* pháo hoa + fanfare — chỉ khi phiên có chấm điểm thật (không nổ cho phiên trống) */}
-          {summary && summary.reviewed > 0 && <Celebration perfect={summary.perfect} />}
+          {summary && summary.reviewed > 0 && <Celebration perfect={summary.perfect} sound={sound} />}
           <div className="flex flex-col items-center gap-3 rounded-3xl border bg-gradient-to-br from-primary/10 to-transparent p-8 text-center sm:p-10">
             <div className="text-2xl font-bold">✅ Xong phiên ôn!</div>
             <div className="text-muted-foreground">
@@ -614,6 +620,7 @@ export default function ReviewRunner({
       pillPrimary={q.kind === "arrange"}
       isNew={(q.kind === "learn" && !q.leech) || (q.graded && q.isNew)}
       extra={redo > 0 ? `+${redo} làm lại` : undefined}
+      muted={!sound}
     >
       {q.kind === "learn" ? (
         /* Thẻ HỌC: từ mới xem trước khi bị hỏi; từ HAY QUÊN (leech) ôn lại kỹ + ghi mẹo nhớ */
@@ -708,6 +715,7 @@ export default function ReviewRunner({
           vi={q.vi}
           tokens={q.tokens}
           showVi={config.sentenceVi}
+          autoPlay={sound}
           onNext={(correct) => {
             if (correct) {
               setRight((r) => r + 1);
@@ -983,6 +991,7 @@ function SessionShell({
   pillPrimary,
   isNew,
   extra,
+  muted,
   children,
 }: {
   onExit: () => void;
@@ -992,6 +1001,7 @@ function SessionShell({
   pillPrimary?: boolean; // pill tô màu primary (Ghép câu, Hay quên)
   isNew?: boolean; // thẻ từ mới → pill "từ mới"
   extra?: string;
+  muted?: boolean; // cài đặt Âm thanh tắt → loa gạch chéo ở header, biết vì sao phiên im lặng
   children: React.ReactNode;
 }) {
   // Chế độ tập trung: ẩn bottom-nav + khoá cuộn nền (mobile) khi đang trong phiên.
@@ -1010,6 +1020,7 @@ function SessionShell({
           <div className="flex items-center justify-between text-xs">
             <span className="flex items-center gap-2">
               {count && <span className="font-semibold">{count}</span>}
+              {muted && <VolumeX className="size-3.5 text-muted-foreground" aria-label="Âm thanh đang tắt" />}
               {extra && <span className="text-muted-foreground">{extra}</span>}
               {isNew && <span className="rounded-full bg-primary/15 px-2 py-0.5 font-medium text-primary">từ mới</span>}
               {pill && (

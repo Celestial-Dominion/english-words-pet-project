@@ -6,6 +6,7 @@
 //   Giai điệu + tiếng "pluck" marimba PORT NGUYÊN từ app HSK (components/celebration.tsx bên đó)
 //   theo yêu cầu: hai app kêu giống nhau.
 // - Tôn trọng prefers-reduced-motion: chỉ phát nhạc, bỏ hiệu ứng chuyển động.
+// - Cài đặt Âm thanh tắt (sound=false): chỉ pháo hoa, không fanfare — học ở nơi không mở tiếng được.
 // - iOS chỉ cho phát âm sau CỬ CHỈ người dùng → primeCelebrationAudio() phải được gọi từ
 //   một cú chạm TRONG PHIÊN (resume AudioContext lúc còn gesture); tới màn tổng kết context
 //   đã "running" thì phát được, còn suspended thì im lặng bỏ qua.
@@ -112,14 +113,14 @@ function burst(parts: Particle[], cx: number, cy: number, n: number, spread: num
   }
 }
 
-export default function Celebration({ perfect = false }: { perfect?: boolean }) {
+export default function Celebration({ perfect = false, sound = true }: { perfect?: boolean; sound?: boolean }) {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const firedRef = useRef(false);
 
   useEffect(() => {
     if (firedRef.current) return; // StrictMode/remount — chỉ nổ một lần
     firedRef.current = true;
-    playFanfare();
+    if (sound) playFanfare();
 
     const reduced = window.matchMedia?.("(prefers-reduced-motion: reduce)").matches;
     const canvas = canvasRef.current;
@@ -176,7 +177,7 @@ export default function Celebration({ perfect = false }: { perfect?: boolean }) 
       window.clearTimeout(t2);
       if (t3) window.clearTimeout(t3);
     };
-  }, [perfect]);
+  }, [perfect, sound]);
 
   return (
     <canvas

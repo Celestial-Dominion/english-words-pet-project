@@ -306,7 +306,7 @@ test("ôn tập: có dòng trạng thái đồng bộ + công tắc từng dạn
   await page.getByText("⚙️ Cài đặt").click();
   // nhãn nằm trong <span> có cả dòng mô tả con → khớp theo <label> chứa chuỗi, không dùng exact
   const row = (label: string) => page.locator("label").filter({ hasText: label });
-  for (const label of ["① Câu hỏi nghe", "② Điền từ vào câu", "③ Câu ghép mỗi từ", "Gõ chính tả"]) {
+  for (const label of ["🔊 Âm thanh", "① Câu hỏi nghe", "② Điền từ vào câu", "③ Câu ghép mỗi từ", "Gõ chính tả"]) {
     await expect(row(label)).toBeVisible();
   }
   // tắt "câu hỏi nghe" phải được ghi lại qua lần tải trang
@@ -317,6 +317,10 @@ test("ôn tập: có dòng trạng thái đồng bộ + công tắc từng dạn
   await page.reload();
   await page.getByText("⚙️ Cài đặt").click();
   await expect(row("① Câu hỏi nghe").locator('input[type="checkbox"]')).not.toBeChecked();
+  // tắt Âm thanh → công tắc "câu hỏi nghe" bị khoá (không có tiếng thì không làm được)
+  await row("🔊 Âm thanh").locator('input[type="checkbox"]').click();
+  await expect(row("🔊 Âm thanh").locator('input[type="checkbox"]')).not.toBeChecked();
+  await expect(row("① Câu hỏi nghe").locator('input[type="checkbox"]')).toBeDisabled();
   await expect(page.getByRole("link", { name: /Sao lưu/ })).toBeVisible();
 });
 

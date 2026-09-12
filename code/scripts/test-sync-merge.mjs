@@ -233,18 +233,23 @@ t("sanitizeRemote: doc rác vẫn ra ảnh chụp hợp lệ dùng merge đượ
 
 t("lọc cài đặt: giá trị sai kiểu quay về giá trị đang dùng", () => {
   const cur = { ...DEFAULT_SRS_CONFIG, newPerDay: 7 };
-  const out = sanitizeConfig({ newPerDay: "nhiều", direction: "xyz", spelling: "có" }, cur);
+  const out = sanitizeConfig({ newPerDay: "nhiều", direction: "xyz", spelling: "có", soundEnabled: "tắt" }, cur);
   assert.equal(out.newPerDay, 7);
   assert.equal(out.direction, cur.direction);
   assert.equal(out.spelling, cur.spelling);
+  assert.equal(out.soundEnabled, true); // sai kiểu → giữ mặc định (bật)
 });
 
 t("lọc cài đặt: số bị kẹp vào khoảng hợp lệ, nhận giá trị hợp lệ", () => {
-  const out = sanitizeConfig({ newPerDay: 99999, newLevel: -3, reviewPerSession: 30, direction: "vi2en" }, DEFAULT_SRS_CONFIG);
+  const out = sanitizeConfig(
+    { newPerDay: 99999, newLevel: -3, reviewPerSession: 30, direction: "vi2en", soundEnabled: false },
+    DEFAULT_SRS_CONFIG,
+  );
   assert.equal(out.newPerDay, 200);
   assert.equal(out.newLevel, 0);
   assert.equal(out.reviewPerSession, 30);
   assert.equal(out.direction, "vi2en");
+  assert.equal(out.soundEnabled, false); // tắt âm thanh trên máy khác kéo về được
 });
 
 console.log(`sync-merge: ${pass} ca đạt${process.exitCode ? " (CÓ LỖI)" : ""}`);

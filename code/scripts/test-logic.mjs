@@ -286,6 +286,18 @@ t("tắt câu hỏi nghe → không còn dạng listen (mọi giai đoạn)", ()
   for (const s of ["young", "growing", "mature"]) assert.equal(kinds({ listenEnabled: false }, s).has("listen"), false);
 });
 
+t("tắt ÂM THANH → không còn listen dù listenEnabled còn bật; dạng khác giữ nguyên (mọi giai đoạn)", () => {
+  for (const s of ["young", "growing", "mature"]) {
+    const k = kinds({ soundEnabled: false, listenEnabled: true }, s);
+    assert.equal(k.has("listen"), false, `còn listen ở ${s}`);
+    assert.ok(k.has("recall") && k.has("cloze"), `mất dạng khác ở ${s}`);
+  }
+  // gõ chính tả vẫn ra: nhìn nghĩa Việt gõ từ, không cần tiếng
+  assert.ok(kinds({ soundEnabled: false }, "mature").has("spell"));
+  // trọng số còn lại y như khi tắt riêng câu hỏi nghe
+  assert.equal(questionMix(cfg({ soundEnabled: false }), "mature").reduce((a, [, w]) => a + w, 0), 80);
+});
+
 t("tắt điền từ vào câu → không còn cloze (young lẫn mature)", () => {
   assert.equal(kinds({ clozeEnabled: false }, "mature").has("cloze"), false);
   assert.equal(kinds({ clozeEnabled: false }, "young").has("cloze"), false);

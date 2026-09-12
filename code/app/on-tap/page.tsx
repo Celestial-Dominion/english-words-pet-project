@@ -282,16 +282,35 @@ export default function OnTapPage() {
 
             <label className="flex items-center justify-between gap-4">
               <span className="text-sm font-medium">
-                ① Câu hỏi nghe
+                🔊 Âm thanh
                 <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  phát audio từ → chọn nghĩa; tắt nếu đang ở nơi không nghe được
+                  tự đọc từ/câu khi hiện thẻ và sau khi trả lời, câu hỏi nghe, nhạc chúc mừng — tắt khi học ở nơi không mở
+                  tiếng được (nút loa vẫn bấm nghe được khi cần)
                 </span>
               </span>
               <input
                 type="checkbox"
-                checked={cfg.listenEnabled !== false}
-                onChange={(e) => patch({ listenEnabled: e.target.checked })}
+                checked={cfg.soundEnabled !== false}
+                onChange={(e) => patch({ soundEnabled: e.target.checked })}
                 className="size-5 accent-primary"
+              />
+            </label>
+
+            <label className="flex items-center justify-between gap-4">
+              <span className="text-sm font-medium">
+                ① Câu hỏi nghe
+                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
+                  {cfg.soundEnabled === false
+                    ? "đang tắt theo Âm thanh — bật Âm thanh lại thì dùng được"
+                    : "phát audio từ → chọn nghĩa; chỉ bỏ riêng dạng câu này, các thẻ khác vẫn tự đọc"}
+                </span>
+              </span>
+              <input
+                type="checkbox"
+                checked={cfg.listenEnabled !== false && cfg.soundEnabled !== false}
+                disabled={cfg.soundEnabled === false}
+                onChange={(e) => patch({ listenEnabled: e.target.checked })}
+                className="size-5 accent-primary disabled:opacity-40"
               />
             </label>
 

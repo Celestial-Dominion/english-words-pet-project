@@ -14,17 +14,19 @@ export type QuestionKind = "recog" | "recall" | "listen" | "cloze" | "spell";
  *                               gõ chính tả xuất hiện, cắt mạnh nhận diện dễ.
  *  - mature (nhớ bền ≥21 ngày): 35 cloze · 30 GÕ · 15 nhớ lại · 20 nghe — nặng sản sinh, bỏ nhận diện.
  * Người học tắt được nghe/cloze/gõ trong Cài đặt → bỏ khỏi danh sách rồi CHUẨN HOÁ lại trọng số.
+ * Tắt ÂM THANH (soundEnabled) cũng bỏ câu nghe dù listenEnabled còn bật — không có tiếng thì không làm được.
  * Luôn còn "nhớ lại" (young/growing còn cả "nhận diện") nên tắt hết dạng phụ vẫn ôn được.
  */
 export function questionMix(config: SrsConfig, stage: CardStage): [QuestionKind, number][] {
   const on = (flag: boolean | undefined, weight: number) => (flag !== false ? weight : 0);
+  const listenOk = config.listenEnabled !== false && config.soundEnabled !== false;
   const mix: [QuestionKind, number][] =
     stage === "mature"
       ? [
           ["cloze", on(config.clozeEnabled, 35)],
           ["spell", on(config.spelling, 30)],
           ["recall", 15],
-          ["listen", on(config.listenEnabled, 20)],
+          ["listen", on(listenOk, 20)],
         ]
       : stage === "growing"
         ? [
@@ -32,14 +34,14 @@ export function questionMix(config: SrsConfig, stage: CardStage): [QuestionKind,
             ["spell", on(config.spelling, 20)],
             ["recall", 20],
             ["recog", 10],
-            ["listen", on(config.listenEnabled, 20)],
+            ["listen", on(listenOk, 20)],
           ]
         : [
             // young — chưa đưa gõ chính tả, nhưng đã trộn cloze + nghe để bớt đơn điệu.
             ["recog", 30],
             ["recall", 30],
             ["cloze", on(config.clozeEnabled, 20)],
-            ["listen", on(config.listenEnabled, 20)],
+            ["listen", on(listenOk, 20)],
           ];
   return mix.filter(([, weight]) => weight > 0);
 }

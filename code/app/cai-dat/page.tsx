@@ -139,7 +139,7 @@ export default function CaiDatPage() {
           <span>
             <span className="block text-sm font-semibold">Cài đặt phiên học/ôn</span>
             <span className="block text-xs text-muted-foreground">
-              Từ mới mỗi ngày, số thẻ mỗi phiên, hướng hỏi… — trong mục ⚙️ ở tab Ôn tập
+              Từ mới mỗi ngày, số thẻ mỗi phiên, hướng hỏi, âm thanh… — trong mục ⚙️ ở tab Ôn tập
             </span>
           </span>
         </span>

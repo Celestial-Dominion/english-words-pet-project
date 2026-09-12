@@ -39,11 +39,19 @@ export default function LuyenTapPage() {
   const [right, setRight] = useState(0);
   const [xpGained, setXpGained] = useState(0);
   const [showVi, setShowVi] = useState(false); // theo cài đặt sentenceVi (mặc định ẩn tới khi kiểm tra)
+  const [sound, setSound] = useState(true); // cài đặt Âm thanh; tắt → Nghe & gõ câu không làm được
 
   useEffect(() => {
     practiceCounts().then(setCounts);
-    getConfig().then((c) => setShowVi(c.sentenceVi));
+    getConfig().then((c) => {
+      setShowVi(c.sentenceVi);
+      setSound(c.soundEnabled !== false);
+    });
   }, []);
+
+  // Chế độ THỰC dùng: âm thanh tắt thì không thể nghe & gõ → luôn là ghép câu. Không ghi đè
+  // state `mode` để khi bật âm thanh lại là quay về lựa chọn cũ của người dùng.
+  const modeEff: Mode = sound ? mode : "arrange";
 
   const start = async () => {
     setBusy(true);
@@ -53,10 +61,10 @@ export default function LuyenTapPage() {
       // rơi hết (lọc sau khi gom là dính "hết câu" giả). Ghép câu: câu vừa sức, cận token
       // dùng chung với phiên ôn. Dictation: không quá dài + KHÔNG chứa chữ số (audio đọc
       // "nineteen ninety-eight" mà đích là "1998" → chấm oan người gõ dạng chữ).
-      const known = mode === "arrange" ? await learnedIds() : undefined;
+      const known = modeEff === "arrange" ? await learnedIds() : undefined;
       const usable = (s: PracticeSentence): boolean => {
         const tokens = tokenize(s.en);
-        if (mode === "arrange")
+        if (modeEff === "arrange")
           return tokens.length >= ARRANGE_TOKENS.min && tokens.length <= ARRANGE_TOKENS.max && arrangeReady(tokens, known, s.wordId);
         return tokens.length >= 3 && tokens.length <= 14 && !/\d/.test(s.en);
       };
@@ -118,7 +126,7 @@ export default function LuyenTapPage() {
         </div>
         {done ? (
           <div className="space-y-4 rounded-3xl border bg-card p-8 text-center shadow-sm">
-            <Celebration perfect={right === session.length} />
+            <Celebration perfect={right === session.length} sound={sound} />
             <div className="text-4xl">{right === session.length ? "🏅" : right >= session.length / 2 ? "💪" : "🌊"}</div>
             <h2 className="text-xl font-bold">
               Đúng {right}/{session.length} câu
@@ -140,7 +148,7 @@ export default function LuyenTapPage() {
               </button>
             </div>
           </div>
-        ) : mode === "dictation" ? (
+        ) : modeEff === "dictation" ? (
           <DictationCard key={i} en={cur.en} vi={cur.vi} onNext={answered} />
         ) : (
           <SentenceArrange key={i} en={cur.en} vi={cur.vi} tokens={tokenize(cur.en)} showVi={showVi} onNext={answered} />
@@ -164,23 +172,34 @@ export default function LuyenTapPage() {
         <div className="grid grid-cols-2 gap-2">
           <button
             onClick={() => setMode("dictation")}
+            disabled={!sound}
             className={cn(
-              "flex flex-col items-center gap-1.5 rounded-2xl border p-4 text-sm font-semibold transition-colors",
-              mode === "dictation" ? "border-primary bg-primary/10 text-primary" : "hover:bg-muted",
+              "flex flex-col items-center gap-1.5 rounded-2xl border p-4 text-sm font-semibold transition-colors disabled:cursor-not-allowed disabled:opacity-50",
+              modeEff === "dictation" ? "border-primary bg-primary/10 text-primary" : "hover:bg-muted",
             )}
           >
             <Headphones className="size-5" /> Nghe & gõ câu
+            {!sound && <span className="text-[11px] font-normal text-muted-foreground">🔇 đang tắt âm thanh</span>}
           </button>
           <button
             onClick={() => setMode("arrange")}
             className={cn(
               "flex flex-col items-center gap-1.5 rounded-2xl border p-4 text-sm font-semibold transition-colors",
-              mode === "arrange" ? "border-primary bg-primary/10 text-primary" : "hover:bg-muted",
+              modeEff === "arrange" ? "border-primary bg-primary/10 text-primary" : "hover:bg-muted",
             )}
           >
             <Puzzle className="size-5" /> Ghép câu
           </button>
         </div>
+        {!sound && (
+          <p className="mt-2 text-xs text-muted-foreground">
+            Âm thanh đang tắt trong{" "}
+            <Link href="/on-tap" className="font-medium text-primary hover:underline">
+              Cài đặt (tab Ôn tập)
+            </Link>{" "}
+            — bật lại để luyện Nghe &amp; gõ câu.
+          </p>
+        )}
       </div>
 
       <div>
@@ -216,8 +235,8 @@ export default function LuyenTapPage() {
 
       {empty && (
         <div className="rounded-2xl border border-amber-500/30 bg-amber-500/10 p-4 text-sm text-amber-700 dark:text-amber-400">
-          {mode === "arrange"
-            ? "Chưa đủ câu “vừa sức” trong phạm vi này (bài ghép chỉ dùng câu toàn từ đã biết, cần đã học ≥40 từ). Thử phạm vi rộng hơn hoặc chế độ Nghe & gõ."
+          {modeEff === "arrange"
+            ? `Chưa đủ câu “vừa sức” trong phạm vi này (bài ghép chỉ dùng câu toàn từ đã biết, cần đã học ≥40 từ). Thử phạm vi rộng hơn${sound ? " hoặc chế độ Nghe & gõ" : ""}.`
             : "Phạm vi này chưa có câu ví dụ phù hợp. Thử phạm vi rộng hơn."}
         </div>
       )}

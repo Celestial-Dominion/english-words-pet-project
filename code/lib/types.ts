@@ -64,6 +64,9 @@ export interface SrsConfig {
   clozeEnabled: boolean; // ② điền từ vào câu ví dụ (có từ thẻ còn non, tỉ trọng tăng theo độ chín).
   autoAdvance: boolean; // trả lời ĐÚNG → tự sang thẻ kế.
   sentenceVi: boolean; // hiện NGHĨA câu ngay từ đầu ở điền từ & ghép câu; TẮT (mặc định) = làm xong mới hiện.
+  // 🔊 Công tắc ÂM THANH tổng: tự đọc từ/câu khi hiện thẻ & sau khi trả lời, câu hỏi NGHE, nhạc chúc mừng,
+  // bài Nghe & gõ câu. TẮT khi học ở nơi không mở tiếng được — nút loa bấm tay vẫn phát (chủ ý người dùng).
+  soundEnabled: boolean;
 }
 
 export const DEFAULT_SRS_CONFIG: SrsConfig = {
@@ -78,6 +81,7 @@ export const DEFAULT_SRS_CONFIG: SrsConfig = {
   clozeEnabled: true,
   autoAdvance: true,
   sentenceVi: false, // ẩn nghĩa lúc đang làm — không bị bản dịch mớm đáp án
+  soundEnabled: true,
 };
 
 // ---- Nhật ký từng lượt chấm (revlog — như HSK) ----

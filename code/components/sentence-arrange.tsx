@@ -20,12 +20,14 @@ export default function SentenceArrange({
   tokens,
   onNext,
   showVi = false,
+  autoPlay = true,
 }: {
   en: string;
   vi: string;
   tokens: string[];
   onNext: (correct: boolean) => void;
   showVi?: boolean; // hiện nghĩa VI ngay từ đầu; mặc định ẨN tới khi bấm Kiểm tra (cài đặt sentenceVi)
+  autoPlay?: boolean; // tự đọc câu khi Kiểm tra; false = cài đặt Âm thanh tắt (nút loa vẫn bấm được)
 }) {
   // bank giữ {token, id} để token trùng nhau vẫn phân biệt; xáo tránh ra đúng thứ tự luôn
   const initial = useMemo(() => {
@@ -53,8 +55,8 @@ export default function SentenceArrange({
   const check = useCallback(() => {
     const correct = answer.map((x) => x.t).join(" ") === tokens.join(" ");
     setChecked(correct);
-    play(sentenceAudioUrl(en)); // tự đọc lại câu ngay khi kiểm tra (đúng/sai đều đọc)
-  }, [answer, tokens, en]);
+    if (autoPlay) play(sentenceAudioUrl(en)); // tự đọc lại câu ngay khi kiểm tra (đúng/sai đều đọc)
+  }, [answer, tokens, en, autoPlay]);
 
   // Dừng audio khi rời câu (sang câu kế / thoát).
   useEffect(() => () => stop(), []);
