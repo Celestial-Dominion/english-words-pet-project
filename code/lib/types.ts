@@ -60,10 +60,19 @@ export interface SrsConfig {
   arrangePerWord: number; // số câu "sắp xếp câu" mỗi từ (0 = tắt). Mặc định 1.
   recallFirst: boolean; // ẩn đáp án, bắt "nhớ lại" trước khi hiện.
   spelling: boolean; // xen câu GÕ CHÍNH TẢ từ thẻ đang bền (≥3 lần gặp / bền ≥7 ngày) trở đi.
-  listenEnabled: boolean; // ① câu hỏi NGHE → chọn nghĩa.
-  clozeEnabled: boolean; // ② điền từ vào câu ví dụ (có từ thẻ còn non, tỉ trọng tăng theo độ chín).
+  listenEnabled: boolean; // cho phép dạng NGHE → chọn nghĩa trong bài chính.
+  clozeEnabled: boolean; // CŨ: bật/tắt điền câu. Giữ để config đã sync tương thích ngược.
+  // Số câu điền mỗi từ (0 = tắt), như arrangePerWord. Không đặt trong DEFAULT:
+  // config cũ chỉ có clozeEnabled, nơi dùng suy ra true→1 / false→0 để không
+  // ghi đè lựa chọn tắt của người dùng cũ.
+  clozePerWord?: number;
   autoAdvance: boolean; // trả lời ĐÚNG → tự sang thẻ kế.
   sentenceVi: boolean; // hiện NGHĨA câu ngay từ đầu ở điền từ & ghép câu; TẮT (mặc định) = làm xong mới hiện.
+  // Trộn các đợt của mọi từ; cùng một từ được giãn cách ≥3 đợt.
+  interleave?: boolean;
+  // Tỉ lệ token đã biết tối thiểu khi ưu tiên câu điền/ghép. 0 = tắt.
+  // Nếu không có câu đạt ngưỡng, vẫn lấy câu có tỉ lệ cao nhất thay vì bỏ bài.
+  sentenceKnownMin: number;
   // 🔊 Công tắc ÂM THANH tổng: tự đọc từ/câu khi hiện thẻ & sau khi trả lời, câu hỏi NGHE, nhạc chúc mừng,
   // bài Nghe & gõ câu. TẮT khi học ở nơi không mở tiếng được — nút loa bấm tay vẫn phát (chủ ý người dùng).
   soundEnabled: boolean;
@@ -81,6 +90,8 @@ export const DEFAULT_SRS_CONFIG: SrsConfig = {
   clozeEnabled: true,
   autoAdvance: true,
   sentenceVi: false, // ẩn nghĩa lúc đang làm — không bị bản dịch mớm đáp án
+  interleave: true,
+  sentenceKnownMin: 0.7,
   soundEnabled: true,
 };
 

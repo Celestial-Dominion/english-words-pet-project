@@ -50,6 +50,34 @@ async function freshStart(page: Page, path = "/") {
   await page.goto(path);
 }
 
+/** Cho một thẻ đủ điều kiện "ôn sớm": sản phẩm chủ ý loại thẻ vừa ôn trong
+ * cùng ngày vì elapsed=0 không cập nhật độ bền FSRS. */
+async function ageReviewOneDay(page: Page, wordId: string) {
+  await page.evaluate(async (id) => {
+    await new Promise<void>((resolve, reject) => {
+      const open = indexedDB.open("english-words");
+      open.onerror = () => reject(open.error);
+      open.onsuccess = () => {
+        const database = open.result;
+        const tx = database.transaction("reviews", "readwrite");
+        const store = tx.objectStore("reviews");
+        const get = store.get(id);
+        get.onerror = () => reject(get.error);
+        get.onsuccess = () => {
+          const row = get.result;
+          row.last_review = new Date(Date.now() - 86_400_000);
+          store.put(row);
+        };
+        tx.oncomplete = () => {
+          database.close();
+          resolve();
+        };
+        tx.onerror = () => reject(tx.error);
+      };
+    });
+  }, wordId);
+}
+
 test("trang chủ: hero hôm nay + grid cấp độ + khám phá", async ({ page }) => {
   await freshStart(page);
   await expect(page.getByText("Hôm nay")).toBeVisible();
@@ -132,7 +160,13 @@ test("bộ nền A1–A2: duyệt được nhưng không có hàng đợi học"
 });
 
 test("học từ mới: learn-card hiện TRƯỚC, rồi mới tới trắc nghiệm", async ({ page }) => {
-  await freshStart(page, "/hoc/1");
+  await freshStart(page, "/on-tap");
+  await page.getByText("⚙️ Cài đặt").click();
+  // Ca này chỉ kiểm tra bất biến learn-card đứng trước bài chính khi interleave;
+  // bài điền/ghép có luồng riêng ngay dưới và có thao tác UI khác.
+  await page.getByLabel("Số câu điền mỗi từ").selectOption("0");
+  await page.getByLabel("Số câu ghép mỗi từ").selectOption("0");
+  await page.goto("/hoc/1");
   await page.getByRole("button", { name: /Học \(/ }).click();
 
   // 1) thẻ ĐẦU phiên luôn là thẻ học: interleave giữ learn trước mọi đợt khác của chính
@@ -152,6 +186,37 @@ test("học từ mới: learn-card hiện TRƯỚC, rồi mới tới trắc ngh
   // 3) hiện đáp án → đủ 4 phương án
   await gate.click();
   await expect(page.getByText(/Chọn nghĩa đúng/i)).toBeVisible();
+});
+
+test("học từ mới: bài chính vẫn còn trước đợt điền và ghép câu", async ({ page }) => {
+  await freshStart(page, "/on-tap");
+  await page.getByText("⚙️ Cài đặt").click();
+  await page.locator('input[type="number"]').fill("1");
+  await page.getByLabel("Số câu điền mỗi từ").selectOption("1");
+  await page.getByLabel("Số câu ghép mỗi từ").selectOption("1");
+  await page.getByLabel(/Xáo trộn các đợt/).click();
+  await expect(page.getByLabel(/Xáo trộn các đợt/)).not.toBeChecked();
+  await page.getByLabel(/Tự chuyển khi đúng/).click();
+  await expect(page.getByLabel(/Tự chuyển khi đúng/)).not.toBeChecked();
+
+  await page.goto("/hoc/1");
+  await page.getByRole("button", { name: /Học \(1 từ mới\)/ }).click();
+  await page.getByRole("button", { name: /Đã xem — Kiểm tra/ }).click();
+
+  // Đợt ①: bài nhận biết từ vẫn luôn tồn tại, không bị câu điền thay thế.
+  await expect(page.getByText("Anh → nghĩa", { exact: true })).toBeVisible();
+  await page.getByRole("button", { name: /Thử nhớ trong đầu/ }).click();
+  await expect(page.getByText(/Chọn nghĩa đúng/)).toBeVisible();
+  await page.keyboard.press("1");
+  await page.getByRole("button", { name: /Điền vào câu/ }).click();
+
+  // Đợt ② và ③ là luyện tập riêng, không chấm lịch ôn lần nữa.
+  await expect(page.getByText("Điền vào câu", { exact: true })).toBeVisible();
+  await page.getByRole("button", { name: /Thử nhớ trong đầu/ }).click();
+  await expect(page.getByText(/Điền từ còn thiếu/)).toBeVisible();
+  await page.keyboard.press("1");
+  await page.getByRole("button", { name: /Ghép câu/ }).click();
+  await expect(page.getByText("Ghép câu", { exact: true })).toBeVisible();
 });
 
 test("nhiệm vụ ngày: trang chủ hiện khối 3 nhiệm vụ, tiến độ 0/3 khi chưa học", async ({ page }) => {
@@ -174,21 +239,27 @@ test("học từ mới: chạy trọn 1 vòng → tổng kết + thẻ vào hàn
   await page.getByText("⚙️ Cài đặt").click();
   await page.locator('input[type="number"]').fill("1");
   await expect(page.locator('input[type="number"]')).toHaveValue("1");
+  // Helper này chủ ý kiểm tra đúng vòng đời FSRS của một thẻ; tắt hai đợt luyện
+  // câu để phiên ngắn và không trộn thao tác ghép câu vào phép kiểm tra đó.
+  await page.getByLabel("Số câu điền mỗi từ").selectOption("0");
+  await page.getByLabel("Số câu ghép mỗi từ").selectOption("0");
+  await expect(page.getByLabel("Số câu điền mỗi từ")).toHaveValue("0");
+  await expect(page.getByLabel("Số câu ghép mỗi từ")).toHaveValue("0");
 
   await page.goto("/hoc/1");
   await page.getByRole("button", { name: /Học \(1 từ mới\)/ }).click();
   await page.getByRole("button", { name: /Đã xem — Kiểm tra/ }).click();
   await finishOneCardSession(page);
 
-  // thẻ đã thật sự vào hàng đợi → /on-tap ôn sớm được đúng thẻ đó (ôn TÁCH RIÊNG học mới)
-  await page.goto("/on-tap");
-  await expect(page.getByText("Đã học", { exact: true }).locator("xpath=preceding-sibling::div[1]")).toHaveText("1");
-  await page.getByRole("button", { name: /Ôn sớm/ }).first().click();
-  await finishOneCardSession(page);
-
   // Nút gợi ý đọc ở màn tổng kết phải dẫn tới trang THẬT (từng trỏ nhầm sang /doc — route đã bỏ).
   await page.getByRole("link", { name: /Đọc một bài/ }).click();
   await expect(page.getByRole("heading", { name: "Bài đọc" })).toBeVisible();
+
+  // Thẻ đã thật sự vào lịch ôn. Không ép "ôn sớm" ngay trong cùng ngày: bộ lọc hiện
+  // chủ ý loại thẻ vừa ôn hôm nay vì elapsed=0 không làm FSRS học thêm được gì.
+  await page.goto("/on-tap");
+  await expect(page.getByText("Đã học", { exact: true }).locator("xpath=preceding-sibling::div[1]")).toHaveText("1");
+  await expect(page.getByRole("button", { name: "Chưa có thẻ để ôn" })).toBeDisabled();
 });
 
 test("gõ chính tả: thẻ đã chín ra bài gõ, lệch 1 ký tự vẫn tính đúng", async ({ page }) => {
@@ -200,8 +271,14 @@ test("gõ chính tả: thẻ đã chín ra bài gõ, lệch 1 ký tự vẫn tí
   await page.getByRole("button", { name: "Đã biết rồi" }).click();
   await expect(page.getByText(/Đã học · ôn lại sau/)).toBeVisible();
   await page.keyboard.press("Escape");
+  await ageReviewOneDay(page, "decision");
 
   await page.goto("/on-tap");
+  // Bài này chỉ kiểm tra dạng gõ của bài chính; tắt hai đợt luyện câu để dạng
+  // đầu tiên không phụ thuộc thứ tự interleave của một phiên chỉ có một từ.
+  await page.getByText("⚙️ Cài đặt").click();
+  await page.getByLabel("Số câu điền mỗi từ").selectOption("0");
+  await page.getByLabel("Số câu ghép mỗi từ").selectOption("0");
   // Loại câu hỏi bốc theo Math.random → ghim lại để bài gõ chắc chắn ra (0.5 rơi vào ô "spell").
   // Phải ghim SAU khi trang hydrate xong (ghim trước bằng addInitScript làm hỏng hydrate của Next dev).
   await expect(page.getByRole("button", { name: /Ôn sớm/ }).first()).toBeVisible();
@@ -306,21 +383,21 @@ test("ôn tập: có dòng trạng thái đồng bộ + công tắc từng dạn
   await page.getByText("⚙️ Cài đặt").click();
   // nhãn nằm trong <span> có cả dòng mô tả con → khớp theo <label> chứa chuỗi, không dùng exact
   const row = (label: string) => page.locator("label").filter({ hasText: label });
-  for (const label of ["🔊 Âm thanh", "① Câu hỏi nghe", "② Điền từ vào câu", "③ Câu ghép mỗi từ", "Gõ chính tả"]) {
+  for (const label of ["🔊 Âm thanh", "Nghe trong bài chính", "② Điền từ vào câu", "③ Câu ghép mỗi từ", "Gõ chính tả"]) {
     await expect(row(label)).toBeVisible();
   }
   // tắt "câu hỏi nghe" phải được ghi lại qua lần tải trang
   // click() thay vì uncheck(): checkbox là controlled component, state chỉ đổi sau khi patch()
   // ghi xuống IndexedDB xong → uncheck() kiểm tra ngay lập tức nên báo "did not change".
-  await row("① Câu hỏi nghe").locator('input[type="checkbox"]').click();
-  await expect(row("① Câu hỏi nghe").locator('input[type="checkbox"]')).not.toBeChecked();
+  await row("Nghe trong bài chính").locator('input[type="checkbox"]').click();
+  await expect(row("Nghe trong bài chính").locator('input[type="checkbox"]')).not.toBeChecked();
   await page.reload();
   await page.getByText("⚙️ Cài đặt").click();
-  await expect(row("① Câu hỏi nghe").locator('input[type="checkbox"]')).not.toBeChecked();
+  await expect(row("Nghe trong bài chính").locator('input[type="checkbox"]')).not.toBeChecked();
   // tắt Âm thanh → công tắc "câu hỏi nghe" bị khoá (không có tiếng thì không làm được)
   await row("🔊 Âm thanh").locator('input[type="checkbox"]').click();
   await expect(row("🔊 Âm thanh").locator('input[type="checkbox"]')).not.toBeChecked();
-  await expect(row("① Câu hỏi nghe").locator('input[type="checkbox"]')).toBeDisabled();
+  await expect(row("Nghe trong bài chính").locator('input[type="checkbox"]')).toBeDisabled();
   await expect(page.getByRole("link", { name: /Sao lưu/ })).toBeVisible();
 });
 

@@ -3,17 +3,16 @@
 import type { SrsConfig } from "./types";
 import type { CardStage } from "./srs-pure";
 
-export type QuestionKind = "recog" | "recall" | "listen" | "cloze" | "spell";
+export type QuestionKind = "recog" | "recall" | "listen" | "spell";
 
 /**
- * Ramp 3 giai đoạn theo độ chín của thẻ (cardStage) — chống "vòng lặp tap 1/4 nhàm" bằng cách
- * đưa GÕ CHÍNH TẢ (sản sinh thật, không có sẵn đáp án) vào SỚM nhưng không quá sớm:
- *  - young  (mới gặp 1–2 lần):  30 nhận diện · 30 nhớ lại · 20 cloze · 20 nghe — CHƯA gõ (gõ từ
- *                               vừa thấy vài lần → sai liên tục → nản, phản tác dụng).
- *  - growing (≥3 lần / bền ≥7 ngày): 30 cloze · 20 GÕ · 20 nhớ lại · 10 nhận diện · 20 nghe —
- *                               gõ chính tả xuất hiện, cắt mạnh nhận diện dễ.
- *  - mature (nhớ bền ≥21 ngày): 35 cloze · 30 GÕ · 15 nhớ lại · 20 nghe — nặng sản sinh, bỏ nhận diện.
- * Người học tắt được nghe/cloze/gõ trong Cài đặt → bỏ khỏi danh sách rồi CHUẨN HOÁ lại trọng số.
+ * Ramp 3 giai đoạn cho BÀI CHÍNH duy nhất chấm FSRS. Điền câu đã trở
+ * thành đợt luyện phụ riêng (0..5 câu/từ), không còn tranh một suất với bài
+ * nhận biết/nhớ từ và không chấm lịch lần thứ hai.
+ *  - young: 38 nhận diện · 37 nhớ lại · 25 nghe — chưa gõ.
+ *  - growing: 14 nhận diện · 28 nhớ lại · 29 gõ · 29 nghe.
+ *  - mature: 35 nhớ lại · 40 gõ · 25 nghe — nặng sản sinh.
+ * Người học tắt được nghe/gõ; các dạng còn lại tự chia lại xác suất.
  * Tắt ÂM THANH (soundEnabled) cũng bỏ câu nghe dù listenEnabled còn bật — không có tiếng thì không làm được.
  * Luôn còn "nhớ lại" (young/growing còn cả "nhận diện") nên tắt hết dạng phụ vẫn ôn được.
  */
@@ -23,25 +22,21 @@ export function questionMix(config: SrsConfig, stage: CardStage): [QuestionKind,
   const mix: [QuestionKind, number][] =
     stage === "mature"
       ? [
-          ["cloze", on(config.clozeEnabled, 35)],
-          ["spell", on(config.spelling, 30)],
-          ["recall", 15],
-          ["listen", on(listenOk, 20)],
+          ["recall", 35],
+          ["spell", on(config.spelling, 40)],
+          ["listen", on(listenOk, 25)],
         ]
       : stage === "growing"
         ? [
-            ["cloze", on(config.clozeEnabled, 30)],
-            ["spell", on(config.spelling, 20)],
-            ["recall", 20],
-            ["recog", 10],
-            ["listen", on(listenOk, 20)],
+            ["recog", 14],
+            ["recall", 28],
+            ["spell", on(config.spelling, 29)],
+            ["listen", on(listenOk, 29)],
           ]
         : [
-            // young — chưa đưa gõ chính tả, nhưng đã trộn cloze + nghe để bớt đơn điệu.
-            ["recog", 30],
-            ["recall", 30],
-            ["cloze", on(config.clozeEnabled, 20)],
-            ["listen", on(listenOk, 20)],
+            ["recog", 38],
+            ["recall", 37],
+            ["listen", on(listenOk, 25)],
           ];
   return mix.filter(([, weight]) => weight > 0);
 }

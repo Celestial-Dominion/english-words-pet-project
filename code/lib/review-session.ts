@@ -2,13 +2,25 @@
 import type { Word, SrsConfig, ReviewRecord } from "./types";
 import type { ExampleSentence } from "./data";
 import { isLeech, cardStage } from "./srs";
-import { seededShuffle, meaningTooSimilar } from "./srs-pure";
+import {
+  knownRatio,
+  rankByKnown,
+  seededShuffle,
+  meaningTooSimilar,
+  selectDistinctExercises,
+  spreadSameWord,
+} from "./srs-pure";
 import { lookalikeScore } from "./spell";
 import { pickQuestionKind } from "./question-mix";
 
-// 4 chế độ câu trắc nghiệm (chấm FSRS): xem từ→chọn nghĩa, nghĩa→chọn từ (ngược),
-// điền từ vào câu (cloze), nghe→chọn nghĩa (listen).
-export type McqMode = "meaning" | "reverse" | "cloze" | "listen";
+// Các dạng BÀI CHÍNH chấm FSRS. Điền câu là một kind riêng,
+// không chấm lịch ôn để mỗi từ chỉ bị chấm đúng một lần trong một lượt.
+export type McqMode = "meaning" | "reverse" | "listen";
+
+export interface SentenceLexicon {
+  lemmaMap: Readonly<Record<string, string>>;
+  wordLevels: Readonly<Record<string, number>>;
+}
 
 export type Question =
   | { kind: "learn"; word: Word; graded: false; examples?: ExampleSentence[]; leech?: boolean }
@@ -18,14 +30,21 @@ export type Question =
       word: Word;
       graded: true;
       isNew: boolean;
-      prompt: string; // meaning/listen: từ Anh · reverse: nghĩa VI · cloze: không dùng
+      prompt: string; // meaning/listen: từ Anh · reverse: nghĩa VI
       options: string[];
       answer: number;
       exs?: ExampleSentence[]; // 1-2 câu ví dụ cho thẻ chi tiết SAU khi trả lời
-      clozeBefore?: string;
-      clozeAfter?: string;
-      clozeVi?: string;
-      clozeEn?: string; // câu gốc đầy đủ (phát audio sau khi trả lời)
+    }
+  | {
+      kind: "cloze";
+      word: Word;
+      graded: false;
+      options: string[];
+      answer: number;
+      clozeBefore: string;
+      clozeAfter: string;
+      clozeVi: string;
+      clozeEn: string;
     }
   | {
       // gõ chính tả: nghe audio + đọc nghĩa VI → GÕ lại từ tiếng Anh (chấm FSRS như MCQ).
@@ -76,7 +95,7 @@ export const ARRANGE_TOKENS = { min: 3, max: 12 } as const;
  *  lại thẻ sai trong phiên: giữ nguyên thứ tự thì đáp án đúng (vừa được tô xanh lúc chữa bài)
  *  nằm y chỗ cũ, người học bấm theo TRÍ NHỚ VỊ TRÍ chứ không phải nhớ từ. */
 export function reshuffleOptions(q: Question): Question {
-  if (q.kind !== "mcq") return q; // spell/learn/arrange không có phương án
+  if (q.kind !== "mcq" && q.kind !== "cloze") return q; // spell/learn/arrange không có phương án
   const options = shuffle(q.options);
   return { ...q, options, answer: options.indexOf(q.options[q.answer]) };
 }
@@ -88,6 +107,39 @@ export function arrangeReady(tokens: string[], known: Set<string> | undefined, t
   const targetToks = new Set(target.toLowerCase().split(/\s+/));
   const unknown = tokens.filter((t) => !tokenKnown(t, known, targetToks)).length;
   return unknown === 0 || (tokens.length >= 8 && unknown <= 1); // câu dài cho phép lọt 1 từ lạ
+}
+
+// Chuẩn hoá token câu về lemma để "went" được tính là "go", "working" là
+// "work". A1–A2 (level 0) là vốn nền của app B1–C2 nên luôn được tính là đã biết.
+function sentenceLemmas(en: string, lexicon: SentenceLexicon): string[] {
+  const out: string[] = [];
+  for (const raw of tokenize(en)) {
+    const surface = raw
+      .toLowerCase()
+      .replace(/^[^a-z'’-]+/u, "")
+      .replace(/[^a-z'’-]+$/u, "")
+      .replace(/’/g, "'");
+    if (!surface || !/[a-z]/.test(surface)) continue;
+    const base = surface.split("'")[0] || surface;
+    out.push(lexicon.lemmaMap[surface] ?? lexicon.lemmaMap[base] ?? surface);
+  }
+  return out;
+}
+
+/** Tỉ lệ từ đã biết trong một câu, sau khi quy dạng biến hình về lemma. */
+export function sentenceKnownRatio(
+  en: string,
+  learned: ReadonlySet<string>,
+  target: string,
+  lexicon: SentenceLexicon,
+  foundation?: ReadonlySet<string>,
+): number {
+  const tokens = sentenceLemmas(en, lexicon);
+  const targetTokens = new Set(sentenceLemmas(target, lexicon));
+  const baseWords = foundation ?? new Set(
+    Object.entries(lexicon.wordLevels).filter(([, level]) => level === 0).map(([id]) => id),
+  );
+  return knownRatio(tokens, learned, targetTokens, baseWords);
 }
 
 /** Nghĩa RÚT GỌN cho phương án trắc nghiệm (phần trước dấu ';') — đỡ ngợp. */
@@ -169,19 +221,16 @@ function findWordInSentence(en: string, id: string): { before: string; after: st
   return null;
 }
 
-/** MCQ cloze: khoét từ khỏi câu ví dụ → chọn từ điền đúng. */
-function clozeFor(word: Word, ex: ExampleSentence[], pool: Word[], isNew: boolean): Question | null {
-  for (const s of ex) {
-    const cut = findWordInSentence(s.en, word.id);
-    if (!cut) continue;
-    const options = shuffle([word.id, ...pickDistractors(word, pool, 3, true).map((w) => w.id)]);
-    return {
-      kind: "mcq", mode: "cloze", word, graded: true, isNew,
-      prompt: word.id, options, answer: options.indexOf(word.id),
-      clozeBefore: cut.before, clozeAfter: cut.after, clozeVi: s.vi, clozeEn: s.en,
-    };
-  }
-  return null;
+/** Bài phụ cloze: khoét từ khỏi một câu cụ thể, không chấm FSRS. */
+function clozeForSentence(word: Word, sentence: ExampleSentence, pool: Word[]): Question | null {
+  const cut = findWordInSentence(sentence.en, word.id);
+  if (!cut) return null;
+  const options = shuffle([word.id, ...pickDistractors(word, pool, 3, true).map((w) => w.id)]);
+  return {
+    kind: "cloze", word, graded: false,
+    options, answer: options.indexOf(word.id),
+    clozeBefore: cut.before, clozeAfter: cut.after, clozeVi: sentence.vi, clozeEn: sentence.en,
+  };
 }
 
 /** Gõ chính tả: nghe + nghĩa VI → gõ từ. */
@@ -192,9 +241,9 @@ function spellFor(word: Word, isNew: boolean): Question {
 /**
  * Chọn dạng câu hỏi cho một thẻ. Tỉ trọng + việc bật/tắt từng dạng nằm ở lib/question-mix.ts
  * (hàm thuần, có unit test). Ở đây chỉ dựng câu hỏi tương ứng, và lùi về "nhớ lại" khi dạng bốc
- * được không dựng nổi — thực tế chỉ xảy ra với cloze (không có câu ví dụ nào chứa từ).
+ * được không dựng nổi. Điền câu không đi qua hàm này vì là đợt luyện riêng.
  */
-function gradedFor(w: Word, ex: ExampleSentence[], pool: Word[], config: SrsConfig, isNew: boolean, rec?: ReviewRecord): Question {
+function gradedFor(w: Word, pool: Word[], config: SrsConfig, isNew: boolean, rec?: ReviewRecord): Question {
   const recog = () => (config.direction === "vi2en" ? reverseFor(w, pool, isNew) : meaningFor(w, pool, isNew));
   const recall = () => (config.direction === "vi2en" ? meaningFor(w, pool, isNew) : reverseFor(w, pool, isNew));
   if (isNew || !rec || rec.reps <= 0) return recog();
@@ -206,8 +255,6 @@ function gradedFor(w: Word, ex: ExampleSentence[], pool: Word[], config: SrsConf
       return listenFor(w, pool, isNew);
     case "spell":
       return spellFor(w, isNew);
-    case "cloze":
-      return clozeFor(w, ex, pool, isNew) ?? recall();
     default:
       return recall();
   }
@@ -219,7 +266,10 @@ function gradedFor(w: Word, ex: ExampleSentence[], pool: Word[], config: SrsConf
 // của chính từ đó — không thể hỏi từ chưa gặp mặt; ngoài ra trộn tự do. Interleaving
 // nhớ tốt hơn blocking, và phiên bớt cảm giác lặp (hết cụm 3 câu liền một từ).
 // Cách làm: mỗi đợt một khoá ngẫu nhiên, đợt learn nhận khoá NHỎ NHẤT của từ nó.
-function interleave(groups: Question[][]): Question[] {
+const SAME_WORD_GAP = 3;
+
+function interleave(groups: Question[][], enabled: boolean): Question[] {
+  if (!enabled) return groups.flat();
   const entries: { q: Question; key: number }[] = [];
   for (const g of groups) {
     const keys = g.map(() => Math.random());
@@ -230,7 +280,7 @@ function interleave(groups: Question[][]): Question[] {
     }
     g.forEach((q, idx) => entries.push({ q, key: keys[idx] }));
   }
-  return entries.sort((a, b) => a.key - b.key).map((e) => e.q);
+  return spreadSameWord(entries.sort((a, b) => a.key - b.key).map((e) => e.q), SAME_WORD_GAP);
 }
 
 /**
@@ -238,7 +288,8 @@ function interleave(groups: Question[][]): Question[] {
  * Từ MỚI: 1 thẻ "learn" (xem từ + nghĩa + ví dụ, không chấm) TRƯỚC khi kiểm tra —
  * không bị hỏi MCQ trên từ chưa từng thấy.
  * Từ HAY QUÊN (leech, quên ≥4 lần): cũng được 1 thẻ "learn" ôn lại kỹ (kèm ô mẹo nhớ) trước khi hỏi.
- * Mỗi từ: 1 MCQ (chấm FSRS, chế độ theo độ chín thẻ) + arrangePerWord câu sắp xếp.
+ * Mỗi từ: 1 bài chính (chấm FSRS) + clozePerWord câu điền +
+ * arrangePerWord câu sắp xếp. Hai loại sau chỉ luyện, không chấm lịch.
  * Các đợt được XEN KẼ giữa các từ (interleave) thay vì đi hết khối một từ mới sang từ kế.
  */
 export function buildQuestions(
@@ -248,9 +299,16 @@ export function buildQuestions(
   config: SrsConfig,
   isNew: boolean,
   records?: Map<string, ReviewRecord>,
-  knownIds?: Set<string>, // từ đã học — bài ghép câu CHỈ dùng câu toàn từ đã biết
+  knownIds?: Set<string>,
+  lexicon?: SentenceLexicon,
 ): Question[] {
   const groups: Question[][] = [];
+  const clozeCap = config.clozePerWord ?? (config.clozeEnabled !== false ? 1 : 0);
+  const arrangeCap = config.arrangePerWord ?? 1;
+  const knownMin = config.sentenceKnownMin ?? 0.7;
+  const foundation = lexicon
+    ? new Set(Object.entries(lexicon.wordLevels).filter(([, level]) => level === 0).map(([id]) => id))
+    : undefined;
   for (const w of words) {
     const g: Question[] = [];
     const rec = records?.get(w.id);
@@ -258,22 +316,37 @@ export function buildQuestions(
     // trong một phiên thứ tự ổn định khi rebuild, mỗi LẦN ÔN sau gặp bộ câu khác
     // (thẻ học, ví dụ sau trả lời, câu khoét cloze, câu ghép đều xoay theo).
     const ex = seededShuffle(examplesByWord[w.id] || [], `${w.id}:${rec?.reps ?? 0}`);
+    const ranked = knownIds && lexicon && knownMin > 0
+      ? rankByKnown(ex, (s) => sentenceKnownRatio(s.en, knownIds, w.id, lexicon, foundation), knownMin)
+      : ex;
+    const selected = selectDistinctExercises(
+      ranked,
+      (s) => s.en,
+      (s) => findWordInSentence(s.en, w.id) !== null,
+      (s) => {
+        const tokens = tokenize(s.en);
+        return tokens.length >= ARRANGE_TOKENS.min && tokens.length <= ARRANGE_TOKENS.max;
+      },
+      clozeCap,
+      arrangeCap,
+    );
+    const clozes = selected.clozeItems
+      .map((sentence) => clozeForSentence(w, sentence, pool))
+      .filter((question): question is Question => question !== null);
+    const clozeSentences = new Set(selected.clozeItems.map((s) => s.en));
     if (isNew) g.push({ kind: "learn", word: w, graded: false, examples: ex.slice(0, 5) });
     else if (isLeech(rec)) g.push({ kind: "learn", word: w, graded: false, examples: ex.slice(0, 5), leech: true });
-    const q = gradedFor(w, ex, pool, config, isNew, rec);
-    if (q.kind === "mcq" || q.kind === "spell") q.exs = ex.slice(0, 2);
+    const q = gradedFor(w, pool, config, isNew, rec);
+    // Câu đã dành cho đợt điền không được lộ trong thẻ đáp án của bài
+    // chính. Thà ít ví dụ còn hơn biến đợt điền sau thành chép lại.
+    if (q.kind === "mcq" || q.kind === "spell")
+      q.exs = ex.filter((s) => !clozeSentences.has(s.en)).slice(0, 2);
     g.push(q);
+    g.push(...clozes);
 
-    let arranged = 0;
-    for (let i = 0; i < ex.length && arranged < config.arrangePerWord; i++) {
-      const s = ex[i];
-      const tokens = tokenize(s.en);
-      if (tokens.length < ARRANGE_TOKENS.min || tokens.length > ARRANGE_TOKENS.max) continue;
-      if (!arrangeReady(tokens, knownIds, w.id)) continue; // câu còn từ lạ → bỏ, khỏi đoán mù
-      g.push({ kind: "arrange", word: w, graded: false, en: s.en, vi: s.vi, tokens });
-      arranged++;
-    }
+    for (const s of selected.arrangeItems)
+      g.push({ kind: "arrange", word: w, graded: false, en: s.en, vi: s.vi, tokens: tokenize(s.en) });
     groups.push(g);
   }
-  return interleave(groups);
+  return interleave(groups, config.interleave !== false);
 }

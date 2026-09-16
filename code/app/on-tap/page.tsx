@@ -16,7 +16,13 @@ import {
   setConfig,
   progressSummary,
 } from "@/lib/db";
-import { loadWords, loadExamplesForWords, type ExampleSentence } from "@/lib/data";
+import {
+  loadWords,
+  loadExamplesForWords,
+  loadLemmaMap,
+  loadWordLevels,
+  type ExampleSentence,
+} from "@/lib/data";
 import { warmSession } from "@/lib/warm";
 import { onSyncMerged } from "@/lib/sync";
 import { buildQuestions, type Question } from "@/lib/review-session";
@@ -73,7 +79,12 @@ export default function OnTapPage() {
     setBuildError(null);
     try {
       const rows = records;
-      const c = await getConfig();
+      const [c, known, lemmaMap, wordLevels] = await Promise.all([
+        getConfig(),
+        learnedIds(),
+        loadLemmaMap(),
+        loadWordLevels(),
+      ]);
       const levels = [...new Set(rows.map((r) => r.level))];
       const wordMap = new Map<string, Word>();
       let examples: Record<string, ExampleSentence[]> = {};
@@ -90,9 +101,7 @@ export default function OnTapPage() {
       }
       const words = rows.map((r) => wordMap.get(r.wordId)).filter(Boolean) as Word[];
       const recMap = new Map(rows.map((r) => [r.wordId, r]));
-      // ghép câu chỉ dùng câu toàn từ đã biết
-      const known = await learnedIds();
-      const qs = buildQuestions(words, examples, pool, c, false, recMap, known);
+      const qs = buildQuestions(words, examples, pool, c, false, recMap, known, { lemmaMap, wordLevels });
       // 0 câu (dữ liệu từ vựng tải hụt) → ReviewRunner render null = màn hình trắng kẹt.
       if (!qs.length) throw new Error("Không dựng được câu hỏi");
       setSession({ qs, title });
@@ -215,6 +224,14 @@ export default function OnTapPage() {
             <ChevronDown className="size-4 transition-transform group-open:rotate-180" />
           </summary>
           <div className="mt-5 space-y-5">
+            <div className="rounded-2xl border border-primary/20 bg-primary/5 p-4 text-sm">
+              <div className="font-semibold">Mỗi từ được luyện theo 3 đợt</div>
+              <div className="mt-1 text-xs leading-relaxed text-muted-foreground">
+                ① Bài chính nhận biết/nhớ lại/nghe/gõ — chấm lịch ôn một lần · ② Điền từ vào câu · ③ Ghép câu.
+                Hai đợt luyện câu không làm thay đổi lịch FSRS.
+              </div>
+            </div>
+
             <label className="flex items-center justify-between gap-4">
               <span className="text-sm font-medium">Từ mới mỗi ngày</span>
               <input
@@ -298,7 +315,7 @@ export default function OnTapPage() {
 
             <label className="flex items-center justify-between gap-4">
               <span className="text-sm font-medium">
-                ① Câu hỏi nghe
+                Nghe trong bài chính
                 <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
                   {cfg.soundEnabled === false
                     ? "đang tắt theo Âm thanh — bật Âm thanh lại thì dùng được"
@@ -318,15 +335,24 @@ export default function OnTapPage() {
               <span className="text-sm font-medium">
                 ② Điền từ vào câu
                 <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  khoét từ khỏi câu ví dụ → chọn từ điền đúng; có từ thẻ còn non, tỉ trọng tăng dần khi thẻ chín
+                  là đợt riêng sau bài chính nên vẫn luôn có bài nhận biết/nhớ từ; ưu tiên câu chưa dùng cho ghép
                 </span>
               </span>
-              <input
-                type="checkbox"
-                checked={cfg.clozeEnabled !== false}
-                onChange={(e) => patch({ clozeEnabled: e.target.checked })}
-                className="size-5 accent-primary"
-              />
+              <select
+                aria-label="Số câu điền mỗi từ"
+                value={cfg.clozePerWord ?? (cfg.clozeEnabled !== false ? 1 : 0)}
+                onChange={(e) => {
+                  const n = Number(e.target.value);
+                  void patch({ clozePerWord: n, clozeEnabled: n > 0 });
+                }}
+                className="rounded-xl border bg-background px-3 py-2 text-base outline-none focus:border-ring focus:ring-2 focus:ring-ring/40"
+              >
+                <option value={0}>Tắt</option>
+                <option value={1}>1 câu</option>
+                <option value={2}>2 câu</option>
+                <option value={3}>3 câu</option>
+                <option value={5}>5 câu</option>
+              </select>
             </label>
 
             <label className="flex items-center justify-between gap-4">
@@ -348,10 +374,11 @@ export default function OnTapPage() {
               <span className="text-sm font-medium">
                 ③ Câu ghép mỗi từ
                 <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  luyện sắp xếp câu sau trắc nghiệm — chỉ hiện khi đã học ≥40 từ và câu ví dụ gồm toàn từ bạn đã biết (tránh đoán mù)
+                  luyện sắp xếp câu ở đợt riêng; ưu tiên câu khác với bài điền và phù hợp vốn từ của bạn
                 </span>
               </span>
               <select
+                aria-label="Số câu ghép mỗi từ"
                 value={cfg.arrangePerWord}
                 onChange={(e) => patch({ arrangePerWord: Number(e.target.value) })}
                 className="rounded-xl border bg-background px-3 py-2 text-base outline-none focus:border-ring focus:ring-2 focus:ring-ring/40"
@@ -362,6 +389,41 @@ export default function OnTapPage() {
                 <option value={3}>3 câu</option>
                 <option value={5}>5 câu (tất cả)</option>
               </select>
+            </label>
+
+            <label className="flex items-center justify-between gap-4">
+              <span className="text-sm font-medium">
+                Câu vừa sức
+                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
+                  ưu tiên câu có đủ tỉ lệ từ bạn đã học; A1–A2 và chính từ đang luyện luôn được tính là đã biết
+                </span>
+              </span>
+              <select
+                aria-label="Mức câu vừa sức"
+                value={cfg.sentenceKnownMin}
+                onChange={(e) => patch({ sentenceKnownMin: Number(e.target.value) })}
+                className="rounded-xl border bg-background px-3 py-2 text-base outline-none focus:border-ring focus:ring-2 focus:ring-ring/40"
+              >
+                <option value={0}>Không lọc</option>
+                <option value={0.6}>≥ 60%</option>
+                <option value={0.7}>≥ 70%</option>
+                <option value={0.8}>≥ 80%</option>
+              </select>
+            </label>
+
+            <label className="flex items-center justify-between gap-4">
+              <span className="text-sm font-medium">
+                Xáo trộn các đợt
+                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
+                  giãn các bài của cùng một từ bằng bài của từ khác để tránh học thuộc theo thứ tự
+                </span>
+              </span>
+              <input
+                type="checkbox"
+                checked={cfg.interleave !== false}
+                onChange={(e) => patch({ interleave: e.target.checked })}
+                className="size-5 accent-primary"
+              />
             </label>
 
             <label className="flex items-center justify-between gap-4">

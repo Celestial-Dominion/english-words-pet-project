@@ -92,6 +92,84 @@ export function seededShuffle<T>(arr: T[], seedStr: string): T[] {
   return s;
 }
 
+// ---- Xáo trộn (interleave): giãn các đợt CÙNG TỪ ----
+// Trộn ngẫu nhiên thuần vẫn có thể để bài chính của A nằm ngay trước bài
+// điền A. Greedy lấy đợt sớm nhất mà word.id không nằm trong `gap` đợt
+// vừa xếp; cuối phiên hết ứng viên thì chấp nhận xếp sát, không làm mất đợt.
+// Giữ thứ tự tương đối của cùng từ nên bất biến learn đứng trước vẫn đúng.
+export function spreadSameWord<T extends { word: { id: string } }>(steps: T[], gap: number): T[] {
+  if (gap <= 0 || steps.length < 3) return steps;
+  const queue = [...steps];
+  const out: T[] = [];
+  while (queue.length) {
+    const recent = new Set(out.slice(-gap).map((s) => s.word.id));
+    let idx = queue.findIndex((s) => !recent.has(s.word.id));
+    if (idx === -1) idx = 0;
+    out.push(queue[idx]);
+    queue.splice(idx, 1);
+  }
+  return out;
+}
+
+/** Tỉ lệ token đã biết; targetTokens luôn được tính là biết cho từ mới. */
+export function knownRatio(
+  tokens: readonly string[],
+  learned: ReadonlySet<string>,
+  targetTokens: ReadonlySet<string>,
+  foundation: ReadonlySet<string> = new Set<string>(),
+): number {
+  if (tokens.length === 0) return 0;
+  let known = 0;
+  for (const token of tokens)
+    if (targetTokens.has(token) || learned.has(token) || foundation.has(token)) known++;
+  return known / tokens.length;
+}
+
+/**
+ * Câu đạt ngưỡng giữ nguyên thứ tự đầu vào; câu chưa đạt đứng sau theo
+ * tỉ lệ giảm dần. Nhóm sau là đường dự phòng để không âm thầm xoá đợt
+ * điền/ghép khi hồ sơ học trong app chưa phản ánh hết vốn từ thật.
+ */
+export function rankByKnown<T>(items: readonly T[], ratioOf: (item: T) => number, min: number): T[] {
+  if (min <= 0) return [...items];
+  const pass: T[] = [];
+  const rest: { item: T; ratio: number; index: number }[] = [];
+  items.forEach((item, index) => {
+    const ratio = ratioOf(item);
+    if (ratio + 1e-9 >= min) pass.push(item);
+    else rest.push({ item, ratio, index });
+  });
+  rest.sort((a, b) => b.ratio - a.ratio || a.index - b.index);
+  return [...pass, ...rest.map((x) => x.item)];
+}
+
+/** Chọn hai nhóm bài luyện từ cùng một quỹ câu. Nhóm sau ưu tiên câu chưa
+ * dùng ở nhóm trước, rồi mới tái dùng nếu không còn đủ dữ liệu. */
+export function selectDistinctExercises<T>(
+  items: readonly T[],
+  keyOf: (item: T) => string,
+  canCloze: (item: T) => boolean,
+  canArrange: (item: T) => boolean,
+  clozeCount: number,
+  arrangeCount: number,
+): { clozeItems: T[]; arrangeItems: T[] } {
+  const clozeItems: T[] = [];
+  const used = new Set<string>();
+  for (const item of items) {
+    if (clozeItems.length >= clozeCount) break;
+    const key = keyOf(item);
+    if (used.has(key) || !canCloze(item)) continue;
+    clozeItems.push(item);
+    used.add(key);
+  }
+  const usable = items.filter(canArrange);
+  const arrangeItems = [
+    ...usable.filter((item) => !used.has(keyOf(item))),
+    ...usable.filter((item) => used.has(keyOf(item))),
+  ].slice(0, arrangeCount);
+  return { clozeItems, arrangeItems };
+}
+
 // ---- Độ "trùng nghĩa" giữa hai nghĩa tiếng Việt (cho phương án trắc nghiệm) ----
 // Hai nghĩa na ná nhau ("yêu; thích" cạnh "sở thích; yêu thích") làm câu hỏi mập mờ:
 // chọn đúng/sai do đoán chứ không do nhớ. Chặn bằng cách so TỪNG NÉT NGHĨA (tách bởi

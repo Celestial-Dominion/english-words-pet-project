@@ -313,6 +313,14 @@ export function sanitizeConfig(raw: unknown, base: SrsConfig): SrsConfig {
   const int = (v: unknown, d: number, min: number, max: number): number =>
     typeof v === "number" && Number.isFinite(v) ? Math.min(max, Math.max(min, Math.round(v))) : d;
   const bool = (v: unknown, d: boolean): boolean => (typeof v === "boolean" ? v : d);
+  const ratio = (v: unknown, d: number): number =>
+    typeof v === "number" && Number.isFinite(v) ? Math.min(1, Math.max(0, v)) : d;
+  const legacyCloze = bool(raw.clozeEnabled, base.clozeEnabled);
+  // Ảnh chụp cũ chưa có clozePerWord: suy từ chính clozeEnabled của ảnh đó,
+  // không lấy giá trị ở máy hiện tại (sẽ làm công tắc Tắt cũ bị bật lại).
+  const clozePerWord = raw.clozePerWord === undefined
+    ? (legacyCloze ? 1 : 0)
+    : int(raw.clozePerWord, base.clozePerWord ?? (legacyCloze ? 1 : 0), 0, 5);
   return {
     newPerDay: int(raw.newPerDay, base.newPerDay, 0, 200),
     reviewPerSession: int(raw.reviewPerSession, base.reviewPerSession, 0, 500),
@@ -322,9 +330,12 @@ export function sanitizeConfig(raw: unknown, base: SrsConfig): SrsConfig {
     recallFirst: bool(raw.recallFirst, base.recallFirst),
     spelling: bool(raw.spelling, base.spelling),
     listenEnabled: bool(raw.listenEnabled, base.listenEnabled),
-    clozeEnabled: bool(raw.clozeEnabled, base.clozeEnabled),
+    clozeEnabled: legacyCloze,
+    clozePerWord,
     autoAdvance: bool(raw.autoAdvance, base.autoAdvance),
     sentenceVi: bool(raw.sentenceVi, base.sentenceVi),
+    interleave: bool(raw.interleave, base.interleave !== false),
+    sentenceKnownMin: ratio(raw.sentenceKnownMin, base.sentenceKnownMin),
     soundEnabled: bool(raw.soundEnabled, base.soundEnabled),
   };
 }

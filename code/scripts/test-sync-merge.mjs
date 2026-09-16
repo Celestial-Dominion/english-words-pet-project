@@ -242,7 +242,16 @@ t("lọc cài đặt: giá trị sai kiểu quay về giá trị đang dùng", (
 
 t("lọc cài đặt: số bị kẹp vào khoảng hợp lệ, nhận giá trị hợp lệ", () => {
   const out = sanitizeConfig(
-    { newPerDay: 99999, newLevel: -3, reviewPerSession: 30, direction: "vi2en", soundEnabled: false },
+    {
+      newPerDay: 99999,
+      newLevel: -3,
+      reviewPerSession: 30,
+      direction: "vi2en",
+      soundEnabled: false,
+      clozePerWord: 99,
+      interleave: false,
+      sentenceKnownMin: 2,
+    },
     DEFAULT_SRS_CONFIG,
   );
   assert.equal(out.newPerDay, 200);
@@ -250,6 +259,15 @@ t("lọc cài đặt: số bị kẹp vào khoảng hợp lệ, nhận giá tr�
   assert.equal(out.reviewPerSession, 30);
   assert.equal(out.direction, "vi2en");
   assert.equal(out.soundEnabled, false); // tắt âm thanh trên máy khác kéo về được
+  assert.equal(out.clozePerWord, 5);
+  assert.equal(out.interleave, false);
+  assert.equal(out.sentenceKnownMin, 1);
+});
+
+t("config cloud cũ: clozeEnabled=false được chuyển thành 0 câu điền", () => {
+  const out = sanitizeConfig({ clozeEnabled: false }, { ...DEFAULT_SRS_CONFIG, clozePerWord: 3 });
+  assert.equal(out.clozeEnabled, false);
+  assert.equal(out.clozePerWord, 0);
 });
 
 console.log(`sync-merge: ${pass} ca đạt${process.exitCode ? " (CÓ LỖI)" : ""}`);

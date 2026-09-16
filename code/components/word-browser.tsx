@@ -3,7 +3,14 @@
 import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
 import { GraduationCap, Plus } from "lucide-react";
-import { loadWords, loadExamplesForWords, loadTopicIds, type ExampleSentence } from "@/lib/data";
+import {
+  loadWords,
+  loadExamplesForWords,
+  loadTopicIds,
+  loadLemmaMap,
+  loadWordLevels,
+  type ExampleSentence,
+} from "@/lib/data";
 import { warmSession } from "@/lib/warm";
 import { posLabel } from "@/lib/pos";
 import { db, learnedIds, newTodayCount, getConfig } from "@/lib/db";
@@ -112,10 +119,14 @@ export default function WordBrowser({ level }: { level: number }) {
     const quota = force ? 10 : Math.max(0, cfg.newPerDay - newToday);
     const candidates = words.filter((w) => !learned.has(w.id)).slice(0, quota);
     if (!candidates.length) return;
-    const ex = await loadExamplesForWords(level, candidates.map((w) => w.id));
+    const [ex, lemmaMap, wordLevels] = await Promise.all([
+      loadExamplesForWords(level, candidates.map((w) => w.id)),
+      loadLemmaMap(),
+      loadWordLevels(),
+    ]);
     setExamples((prev) => ({ ...prev, ...ex }));
     setConfig(cfg);
-    setSession(buildQuestions(candidates, ex, words, cfg, true, undefined, learned));
+    setSession(buildQuestions(candidates, ex, words, cfg, true, undefined, learned, { lemmaMap, wordLevels }));
   };
 
   const meta = levelMeta(level);

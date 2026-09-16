@@ -14,6 +14,10 @@ import {
   practiceScopeFilter,
   longestStreak as longestStreakPure,
   maxComebackGap,
+  spreadSameWord,
+  knownRatio,
+  rankByKnown,
+  selectDistinctExercises,
 } from "../lib/srs-pure.ts";
 import { lookalikeScore } from "../lib/spell.ts";
 import { LEVELS, FOUNDATION, levelSlug } from "../lib/levels.ts";
@@ -265,21 +269,24 @@ const cfg = (over) => ({ ...DEFAULT_SRS_CONFIG, ...over });
 const kinds = (over, stage = "mature") =>
   new Set(Array.from({ length: 200 }, (_, i) => pickQuestionKind(cfg(over), stage, i / 200)));
 
-t("thẻ đã chín (mature): có cloze, gõ chính tả, nhớ lại, nghe", () => {
+t("thẻ đã chín (mature): bài chính có gõ chính tả, nhớ lại, nghe; không trộn cloze", () => {
   const k = kinds({}, "mature");
-  for (const want of ["cloze", "spell", "recall", "listen"]) assert.ok(k.has(want), `thiếu ${want}`);
+  for (const want of ["spell", "recall", "listen"]) assert.ok(k.has(want), `thiếu ${want}`);
+  assert.equal(k.has("cloze"), false);
 });
 
-t("thẻ non (young): có nhận diện + nhớ lại + cloze + nghe, CHƯA có gõ chính tả", () => {
+t("thẻ non (young): bài chính có nhận diện + nhớ lại + nghe, CHƯA có gõ chính tả", () => {
   const k = kinds({}, "young");
   assert.equal(k.has("spell"), false);
-  assert.ok(k.has("recog") && k.has("recall") && k.has("cloze") && k.has("listen"));
+  assert.equal(k.has("cloze"), false);
+  assert.ok(k.has("recog") && k.has("recall") && k.has("listen"));
 });
 
-t("thẻ đang bền (growing): BẮT ĐẦU có gõ chính tả (cùng cloze + nhớ lại)", () => {
+t("thẻ đang bền (growing): BẮT ĐẦU có gõ chính tả, vẫn có nhận diện + nhớ lại + nghe", () => {
   const k = kinds({}, "growing");
   assert.ok(k.has("spell"), "growing phải có gõ chính tả");
-  assert.ok(k.has("cloze") && k.has("recall"));
+  assert.ok(k.has("recog") && k.has("recall") && k.has("listen"));
+  assert.equal(k.has("cloze"), false);
 });
 
 t("tắt câu hỏi nghe → không còn dạng listen (mọi giai đoạn)", () => {
@@ -290,17 +297,18 @@ t("tắt ÂM THANH → không còn listen dù listenEnabled còn bật; dạng k
   for (const s of ["young", "growing", "mature"]) {
     const k = kinds({ soundEnabled: false, listenEnabled: true }, s);
     assert.equal(k.has("listen"), false, `còn listen ở ${s}`);
-    assert.ok(k.has("recall") && k.has("cloze"), `mất dạng khác ở ${s}`);
+    assert.ok(k.has("recall"), `mất dạng nhớ lại ở ${s}`);
   }
   // gõ chính tả vẫn ra: nhìn nghĩa Việt gõ từ, không cần tiếng
   assert.ok(kinds({ soundEnabled: false }, "mature").has("spell"));
   // trọng số còn lại y như khi tắt riêng câu hỏi nghe
-  assert.equal(questionMix(cfg({ soundEnabled: false }), "mature").reduce((a, [, w]) => a + w, 0), 80);
+  assert.equal(questionMix(cfg({ soundEnabled: false }), "mature").reduce((a, [, w]) => a + w, 0), 75);
 });
 
-t("tắt điền từ vào câu → không còn cloze (young lẫn mature)", () => {
-  assert.equal(kinds({ clozeEnabled: false }, "mature").has("cloze"), false);
-  assert.equal(kinds({ clozeEnabled: false }, "young").has("cloze"), false);
+t("điền câu luôn tách khỏi bộ bốc dạng của bài chính", () => {
+  for (const s of ["young", "growing", "mature"]) {
+    assert.equal(kinds({ clozeEnabled: true, clozePerWord: 5 }, s).has("cloze"), false);
+  }
 });
 
 t("tắt gõ chính tả → không còn spell (growing lẫn mature)", () => {
@@ -308,8 +316,8 @@ t("tắt gõ chính tả → không còn spell (growing lẫn mature)", () => {
   assert.equal(kinds({ spelling: false }, "growing").has("spell"), false);
 });
 
-t("tắt HẾT dạng phụ, thẻ chín vẫn ôn được (chỉ còn nhớ lại)", () => {
-  const k = kinds({ listenEnabled: false, clozeEnabled: false, spelling: false }, "mature");
+t("tắt HẾT dạng phụ của bài chính, thẻ chín vẫn ôn được (chỉ còn nhớ lại)", () => {
+  const k = kinds({ listenEnabled: false, spelling: false }, "mature");
   assert.deepEqual([...k], ["recall"]);
 });
 
@@ -318,9 +326,39 @@ t("trọng số chuẩn hoá 100% ở mọi giai đoạn; tắt một dạng th�
     assert.equal(questionMix(cfg({}), s).reduce((a, [, w]) => a + w, 0), 100, `giai đoạn ${s}`);
   }
   const noListen = questionMix(cfg({ listenEnabled: false }), "mature").reduce((s, [, w]) => s + w, 0);
-  assert.equal(noListen, 80);
+  assert.equal(noListen, 75);
   // vẫn bốc ra dạng hợp lệ ở hai đầu dải rnd
   for (const r of [0, 0.999]) assert.ok(questionMix(cfg({ listenEnabled: false }), "mature").some(([k]) => k === pickQuestionKind(cfg({ listenEnabled: false }), "mature", r)));
+});
+
+// ---- phiên 3 đợt: bài chính → điền → ghép, rồi xen kẽ giữa các từ ----
+t("spreadSameWord: giãn cùng từ khi còn ứng viên khác mà không làm mất đợt", () => {
+  const steps = ["a1", "a2", "a3", "b1", "b2", "b3", "c1", "c2", "c3"]
+    .map((id) => ({ id, word: { id: id[0] } }));
+  const out = spreadSameWord(steps, 2);
+  assert.deepEqual(out.map((x) => x.id).sort(), steps.map((x) => x.id).sort());
+  for (let i = 0; i < out.length; i++) {
+    const recent = out.slice(Math.max(0, i - 2), i);
+    assert.equal(recent.some((x) => x.word.id === out[i].word.id), false, `xếp sát tại ${i}`);
+  }
+});
+
+t("knownRatio + rankByKnown: ưu tiên câu đạt ngưỡng, vẫn giữ câu dự phòng", () => {
+  const learned = new Set(["school"]);
+  const foundation = new Set(["the", "to"]);
+  assert.equal(knownRatio(["the", "go", "to", "school"], learned, new Set(["go"]), foundation), 1);
+  assert.equal(knownRatio(["go", "unknown"], learned, new Set(["go"]), foundation), 0.5);
+  assert.deepEqual(rankByKnown(["medium", "easy", "hard"], (x) => ({ easy: 1, medium: 0.7, hard: 0.2 })[x], 0.8), ["easy", "medium", "hard"]);
+});
+
+t("selectDistinctExercises: điền và ghép lấy câu khác nhau khi còn lựa chọn", () => {
+  const sentences = ["decision one", "decision two", "decision three"];
+  const selected = selectDistinctExercises(sentences, (s) => s, () => true, () => true, 2, 1);
+  assert.deepEqual(selected.clozeItems, sentences.slice(0, 2));
+  assert.deepEqual(selected.arrangeItems, [sentences[2]]);
+
+  const fallback = selectDistinctExercises(sentences.slice(0, 2), (s) => s, () => true, () => true, 2, 2);
+  assert.deepEqual(fallback.arrangeItems, sentences.slice(0, 2));
 });
 
 // ---- xáo trộn tất định theo seed (xoay vòng ngữ cảnh) ----
