@@ -877,6 +877,7 @@ export default function ReviewRunner({
                   const isAnswer = idx === q.answer;
                   const isChosen = idx === chosen;
                   const show = chosen !== null;
+                  const optionMeaning = q.optionMeanings?.[opt];
                   return (
                     <button
                       key={idx}
@@ -903,7 +904,16 @@ export default function ReviewRunner({
                       >
                         {idx + 1}
                       </span>
-                      <span className="min-w-0">{opt}</span>
+                      <span className="min-w-0">
+                        <span className={cn("block", show && optionMeaning && "font-semibold leading-tight")}>{opt}</span>
+                        {/* Như HSK: sau khi chấm, biến cả 4 phương án tiếng Anh thành
+                            một mini-bài học bằng cách lộ nghĩa của cả đáp án đúng lẫn nhiễu. */}
+                        {show && optionMeaning && (
+                          <span className="mt-0.5 block text-xs font-normal leading-snug opacity-70">
+                            {optionMeaning}
+                          </span>
+                        )}
+                      </span>
                     </button>
                   );
                 })}

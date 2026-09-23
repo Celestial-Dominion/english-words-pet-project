@@ -18,6 +18,7 @@ import {
   knownRatio,
   rankByKnown,
   selectDistinctExercises,
+  optionMeaningMap,
 } from "../lib/srs-pure.ts";
 import { lookalikeScore } from "../lib/spell.ts";
 import { LEVELS, FOUNDATION, levelSlug } from "../lib/levels.ts";
@@ -87,6 +88,19 @@ t("gõ chính tả là TỰ NHỚ RA → dạng duy nhất còn được chấm 
   assert.equal(ratingFromSpeed(true, 12_000, "spell"), GOOD);
   assert.equal(ratingFromSpeed(true, 12_000), HARD); // đối chứng: cùng thời gian, dạng thường
   assert.equal(ratingFromSpeed(true, 22_000, "spell"), HARD); // chậm thật thì vẫn Khó
+});
+
+// ---- chữa nghĩa cho mọi phương án tiếng Anh (như HSK) ----
+t("nghĩa chữa bài bám theo từ dù phương án bị xáo lại", () => {
+  const words = [
+    { id: "adapt", meaning_vi: "thích nghi; điều chỉnh" },
+    { id: "adopt", meaning_vi: "nhận nuôi; áp dụng" },
+    { id: "adjust", meaning_vi: "điều chỉnh; thích ứng" },
+    { id: "admire", meaning_vi: "ngưỡng mộ; khâm phục" },
+  ];
+  const meanings = optionMeaningMap(words);
+  for (const option of [...words].reverse())
+    assert.equal(meanings[option.id], option.meaning_vi);
 });
 
 // ---- leech / mature ----

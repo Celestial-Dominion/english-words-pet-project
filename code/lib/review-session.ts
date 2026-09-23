@@ -7,7 +7,9 @@ import {
   rankByKnown,
   seededShuffle,
   meaningTooSimilar,
+  optionMeaningMap,
   selectDistinctExercises,
+  shortMeaningVi,
   spreadSameWord,
 } from "./srs-pure";
 import { lookalikeScore } from "./spell";
@@ -32,6 +34,9 @@ export type Question =
       isNew: boolean;
       prompt: string; // meaning/listen: từ Anh · reverse: nghĩa VI
       options: string[];
+      // Câu có phương án là từ tiếng Anh (reverse): sau khi chấm, lộ nghĩa của
+      // cả 4 lựa chọn như app HSK. Dùng map theo id để xáo lại vẫn không lệch nghĩa.
+      optionMeanings?: Record<string, string>;
       answer: number;
       exs?: ExampleSentence[]; // 1-2 câu ví dụ cho thẻ chi tiết SAU khi trả lời
     }
@@ -40,6 +45,7 @@ export type Question =
       word: Word;
       graded: false;
       options: string[];
+      optionMeanings: Record<string, string>;
       answer: number;
       clozeBefore: string;
       clozeAfter: string;
@@ -144,8 +150,20 @@ export function sentenceKnownRatio(
 
 /** Nghĩa RÚT GỌN cho phương án trắc nghiệm (phần trước dấu ';') — đỡ ngợp. */
 export function shortVi(w: Word): string {
-  const s = w.meaning_vi.split(";")[0].trim();
-  return s || w.meaning_vi;
+  return shortMeaningVi(w.meaning_vi);
+}
+
+/** Bộ 4 phương án là TỪ tiếng Anh, kèm nghĩa đầy đủ để chữa cả đáp án nhiễu.
+ *  Giữ nghĩa theo word id thay vì theo chỉ số: reshuffleOptions chỉ cần xáo options,
+ *  không thể làm từ và nghĩa trượt khỏi nhau. */
+function wordOptions(word: Word, pool: Word[]) {
+  const words = shuffle([word, ...pickDistractors(word, pool, 3, true)]);
+  const options = words.map((w) => w.id);
+  return {
+    options,
+    optionMeanings: optionMeaningMap(words),
+    answer: options.indexOf(word.id),
+  };
 }
 
 // Phương án nhiễu: ưu tiên CÙNG loại từ (gây nhiễu tốt hơn), không trùng nghĩa nhau — như HSK.
@@ -197,8 +215,10 @@ function meaningFor(word: Word, pool: Word[], isNew: boolean): Question {
 
 /** MCQ ngược: hiện nghĩa Việt → chọn từ Anh đúng. */
 function reverseFor(word: Word, pool: Word[], isNew: boolean): Question {
-  const options = shuffle([word.id, ...pickDistractors(word, pool, 3, true).map((w) => w.id)]);
-  return { kind: "mcq", mode: "reverse", word, graded: true, isNew, prompt: shortVi(word), options, answer: options.indexOf(word.id) };
+  return {
+    kind: "mcq", mode: "reverse", word, graded: true, isNew, prompt: shortVi(word),
+    ...wordOptions(word, pool),
+  };
 }
 
 /** MCQ nghe: phát audio từ → chọn nghĩa Việt đúng. */
@@ -225,10 +245,9 @@ function findWordInSentence(en: string, id: string): { before: string; after: st
 function clozeForSentence(word: Word, sentence: ExampleSentence, pool: Word[]): Question | null {
   const cut = findWordInSentence(sentence.en, word.id);
   if (!cut) return null;
-  const options = shuffle([word.id, ...pickDistractors(word, pool, 3, true).map((w) => w.id)]);
   return {
     kind: "cloze", word, graded: false,
-    options, answer: options.indexOf(word.id),
+    ...wordOptions(word, pool),
     clozeBefore: cut.before, clozeAfter: cut.after, clozeVi: sentence.vi, clozeEn: sentence.en,
   };
 }

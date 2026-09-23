@@ -6,6 +6,20 @@ import type { ReviewRecord } from "./types";
 export const RATING = { again: 1, hard: 2, good: 3, easy: 4 } as const;
 export type RatingValue = (typeof RATING)[keyof typeof RATING];
 
+/** Nghĩa ngắn dùng trong phương án: lấy nét nghĩa đầu tiên trước dấu chấm phẩy. */
+export function shortMeaningVi(meaningVi: string): string {
+  const first = meaningVi.split(";")[0].trim();
+  return first || meaningVi;
+}
+
+/** Ánh xạ id từ → nghĩa đầy đủ để chữa bài như HSK. Khóa theo id để thứ tự
+ *  phương án có xáo thế nào thì nghĩa vẫn đi đúng với từ. */
+export function optionMeaningMap(
+  words: ReadonlyArray<{ id: string; meaning_vi: string }>,
+): Record<string, string> {
+  return Object.fromEntries(words.map((word) => [word.id, word.meaning_vi.trim()]));
+}
+
 /** Quên ≥4 lần = thẻ "hay quên" (leech) — được ôn lại kỹ bằng thẻ learn trước khi hỏi. */
 export const LEECH_LAPSES = 4;
 /** Nhớ bền: FSRS stability ≥ 21 ngày. */
