@@ -25,14 +25,16 @@ test("thẻ từ: khối 'gặp lại trong ngữ cảnh' chạy bằng chỉ m�
 
 test("bài đọc: mở bài KHÔNG tự đánh dấu đã đọc", async ({ page }) => {
   await page.goto("/bai-doc");
+  await page.getByRole("button", { name: /B1 · Trung cấp/ }).click();
   await page.getByRole("button", { name: /Air travel/ }).first().click();
   await expect(page.getByRole("button", { name: "Đánh dấu đã đọc" })).toBeVisible();
 });
 
 test("bài đọc: đọc tới cuối bài thì tự đánh dấu đã đọc", async ({ page }) => {
   await page.goto("/bai-doc");
+  await page.getByRole("button", { name: /B1 · Trung cấp/ }).click();
   await page.getByRole("button", { name: /Air travel/ }).first().click();
-  await page.getByRole("button", { name: "Đánh dấu đã đọc" }).scrollIntoViewIfNeeded();
+  await page.getByTestId("reading-end").scrollIntoViewIfNeeded();
   await expect(page.getByRole("button", { name: /Đã đọc/ })).toBeVisible({ timeout: 5000 });
 });
 
@@ -59,6 +61,7 @@ test("hub đọc: tab CNTT gom bài đọc + hội thoại IT theo cấp", async
   // hội thoại IT phải nằm TRONG tab này (khác tab Công việc)
   const nItDlg = index.filter((m) => m.topic === "it" && m.dialogue).length;
   if (nItDlg > 0) {
-    await expect(page.locator("main").getByText(/dlg|·/).first()).toBeVisible();
+    await page.getByRole("button", { name: /B1 · Trung cấp/ }).click();
+    await expect(page.getByRole("button", { name: /Asking about the timesheet tool/ })).toBeVisible();
   }
 });

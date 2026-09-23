@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef, useState } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import { Play, Pause } from "lucide-react";
 import { sentenceAudioUrl } from "@/lib/tts";
 import { cn } from "@/lib/utils";
@@ -64,6 +64,7 @@ export function ReaderToolbar({
   onCycleRate,
   showVi,
   onToggleVi,
+  children,
 }: {
   playing: boolean;
   onToggle: () => void;
@@ -71,10 +72,11 @@ export function ReaderToolbar({
   onCycleRate: () => void;
   showVi: boolean;
   onToggleVi: () => void;
+  children?: ReactNode;
 }) {
   return (
     <div
-      className="sticky z-30 mb-4 flex items-center gap-2 rounded-2xl border bg-background/85 px-2 py-1.5 backdrop-blur"
+      className="sticky z-30 mb-4 flex items-center gap-1.5 overflow-x-auto rounded-2xl border bg-background/90 p-2 shadow-sm backdrop-blur-md"
       style={{ top: "calc(4rem + env(safe-area-inset-top))" }}
     >
       <button
@@ -88,7 +90,9 @@ export function ReaderToolbar({
       >
         {playing ? <Pause className="size-5" /> : <Play className="size-5" />}
       </button>
-      <span className="text-sm font-medium text-muted-foreground">{playing ? "Đang đọc…" : "Nghe cả bài"}</span>
+      <span className="hidden text-sm font-medium text-muted-foreground sm:inline">
+        {playing ? "Đang đọc…" : "Nghe cả bài"}
+      </span>
       <button
         type="button"
         onClick={onCycleRate}
@@ -100,7 +104,7 @@ export function ReaderToolbar({
       >
         {rate}×
       </button>
-      <div className="ml-auto inline-flex items-center rounded-full bg-muted p-0.5">
+      <div className="ml-auto inline-flex shrink-0 items-center rounded-full bg-muted p-0.5">
         <button
           type="button"
           onClick={onToggleVi}
@@ -113,6 +117,7 @@ export function ReaderToolbar({
           Dịch
         </button>
       </div>
+      {children}
     </div>
   );
 }
@@ -137,7 +142,7 @@ export function Passage({
           key={j}
           type="button"
           onClick={() => onTapWord(tok)}
-          className="rounded align-bottom transition-colors hover:bg-primary/15 hover:text-primary"
+          className="-mx-0.5 rounded-sm px-0.5 text-left align-baseline decoration-primary/40 underline-offset-4 transition-colors hover:bg-primary/10 hover:text-primary hover:underline focus-visible:bg-primary/10 focus-visible:text-primary focus-visible:outline-none"
         >
           {tok}
         </button>
@@ -150,23 +155,27 @@ export function Passage({
   // ai đang nói. Vai 1 đọc bằng giọng nam (xem lib/tts.ts).
   if (speakers?.length) {
     return (
-      <div className="space-y-3">
+      <div className="space-y-4">
         {sentences.map((s, i) => {
           const sp = s.sp ?? 0;
           return (
             <div key={i} id={`psent-${i}`} className={cn("flex", sp ? "justify-end" : "justify-start")}>
               <div
                 className={cn(
-                  "max-w-[85%] rounded-2xl border px-4 py-3 transition-colors",
-                  sp ? "bg-sky-500/10 border-sky-500/25" : "bg-card",
-                  i === activeIdx && "ring-2 ring-primary/40",
+                  "max-w-[92%] rounded-2xl border px-4 py-3.5 transition-all sm:max-w-[82%]",
+                  sp ? "border-primary/15 bg-primary/8" : "border-transparent bg-muted/65",
+                  i === activeIdx && "border-primary/35 bg-primary/10 ring-2 ring-primary/20",
                 )}
               >
-                <div className={cn("mb-1 text-xs font-semibold", sp ? "text-sky-700 dark:text-sky-300" : "text-muted-foreground")}>
+                <div className={cn("mb-1.5 text-xs font-bold uppercase tracking-[0.12em]", sp ? "text-primary" : "text-muted-foreground")}>
                   {speakers[sp] ?? (sp ? "B" : "A")}
                 </div>
-                <p className="text-xl leading-relaxed">{renderWords(s.en)}</p>
-                {showVi && <p className="mt-1.5 border-l-[3px] border-primary/30 pl-3 text-sm text-muted-foreground">{s.vi}</p>}
+                <p className="text-[1.05rem] leading-[1.75] sm:text-[1.1rem]">{renderWords(s.en)}</p>
+                {showVi && (
+                  <p className="mt-2 border-l-2 border-primary/30 pl-3 text-sm leading-relaxed text-muted-foreground">
+                    {s.vi}
+                  </p>
+                )}
               </div>
             </div>
           );
@@ -178,12 +187,15 @@ export function Passage({
   // Tắt Dịch → đọc liền mạch (immersive).
   if (!showVi) {
     return (
-      <div className="text-2xl leading-[2.4rem] tracking-wide">
+      <div className="text-[1.08rem] leading-[2] sm:text-[1.14rem] sm:leading-[2.05]">
         {sentences.map((s, i) => (
           <span
             key={i}
             id={`psent-${i}`}
-            className={cn("rounded-md transition-colors", i === activeIdx && "bg-primary/10 dark:bg-primary/20")}
+            className={cn(
+              "rounded-md transition-colors",
+              i === activeIdx && "bg-primary/10 dark:bg-primary/20",
+            )}
           >
             {renderWords(s.en)}{" "}
           </span>
@@ -194,15 +206,18 @@ export function Passage({
 
   // Bật Dịch → mỗi câu một khối: dòng Anh + dòng dịch phụ (viền trái).
   return (
-    <div className="space-y-5">
+    <div className="space-y-4">
       {sentences.map((s, i) => (
         <div
           key={i}
           id={`psent-${i}`}
-          className={cn("rounded-xl px-2 py-1 transition-colors", i === activeIdx && "bg-primary/10 dark:bg-primary/20")}
+          className={cn(
+            "rounded-xl px-3 py-2 transition-colors",
+            i === activeIdx && "bg-primary/10 dark:bg-primary/20",
+          )}
         >
-          <p className="text-2xl leading-relaxed">{renderWords(s.en)}</p>
-          <p className="mt-1.5 border-l-[3px] border-primary/30 pl-3 text-base text-muted-foreground">{s.vi}</p>
+          <p className="text-[1.08rem] leading-[1.85] sm:text-[1.14rem]">{renderWords(s.en)}</p>
+          <p className="mt-2 border-l-2 border-primary/30 pl-3 text-[0.92rem] leading-relaxed text-muted-foreground">{s.vi}</p>
         </div>
       ))}
     </div>

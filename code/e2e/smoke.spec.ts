@@ -333,8 +333,8 @@ test("đọc: hub /bai-doc mở được và liệt kê bài theo cấp", async 
 
 test("bài đọc: bấm vào từ trong bài tra được nghĩa (kể cả dạng biến hình)", async ({ page }) => {
   await freshStart(page, "/bai-doc");
-  // mở bài đọc đầu tiên trong danh sách
-  await page.locator("main a, main button").filter({ hasText: /\p{L}{6,}/u }).first().click();
+  await page.getByRole("button", { name: /B1 · Trung cấp/ }).click();
+  await page.getByRole("button", { name: /2004 Atlantic hurricane season/ }).click();
   await expect(page.getByRole("button", { name: "Quay lại" })).toBeVisible();
 
   // mỗi từ trong bài là một <button> bấm-tra. Chọn từ chắc chắn tra được, ưu tiên DẠNG CHIA
@@ -363,14 +363,16 @@ test("hội thoại công việc: lọc được và render theo lượt nói", 
   await expect(page.getByText(new RegExp(`/${nDialogues} bài`))).toBeVisible();
 
   // mở bài hội thoại đầu tiên → thấy tên vai nói + ghi chú nội dung tự biên soạn
-  await page.locator("main a, main button").filter({ hasText: /\p{L}{6,}/u }).nth(1).click();
+  await page.getByRole("button", { name: /B1 · Trung cấp/ }).click();
+  await page.getByRole("button", { name: /Arranging a meeting time/ }).click();
   await expect(page.getByRole("button", { name: "Quay lại" })).toBeVisible();
   await expect(page.getByText(/Hội thoại luyện tập do dự án biên soạn/)).toBeVisible();
 });
 
 test("bài đọc nguồn mở: có ghi công nguồn ở cuối bài", async ({ page }) => {
   await freshStart(page, "/bai-doc");
-  await page.locator("main a, main button").filter({ hasText: /\p{L}{6,}/u }).nth(1).click();
+  await page.getByRole("button", { name: /B1 · Trung cấp/ }).click();
+  await page.getByRole("button", { name: /2004 Atlantic hurricane season/ }).click();
   await expect(page.getByRole("button", { name: "Quay lại" })).toBeVisible();
   await expect(page.getByText(/Nguồn:/)).toBeVisible();
 });
