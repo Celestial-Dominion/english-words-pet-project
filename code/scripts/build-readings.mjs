@@ -7,6 +7,7 @@ import { join } from "node:path";
 import { levelSlug } from "./lib-levels.mjs";
 import { progress } from "./lib-progress.mjs";
 import { isBlocked } from "./lib-blocklist.mjs";
+import { cleanReadingSourceText, mergeReadingPairs } from "./lib-reading-cleanup.mjs";
 
 const HERE = import.meta.dirname;
 const DATA = join(HERE, "..", "public", "data");
@@ -48,23 +49,6 @@ for (const f of doneFiles) {
 // không thấy nhưng làm hỏng tìm kiếm, TTS và độ dài chuỗi. Chà sạch ở CẢ hai ngôn ngữ.
 const INVISIBLE = /[­​‌‍‎‏⁠﻿]/g;
 const clean = (s) => String(s ?? "").replace(INVISIBLE, "").replace(/ {2,}/g, " ").trim();
-
-// Câu bị TÁCH CỤT ở viết tắt ("… at 4:30 p.m." + "Police said…") — gộp lại cả EN lẫn VI
-// cùng lúc để không lệch chỉ số. Sửa ngay lúc ráp nên build lại bao nhiêu lần cũng sạch.
-const ABBR_END = /\b(?:[A-Z]\.(?:[A-Z]\.)*|Mr|Mrs|Ms|Dr|Prof|St|Mt|Jr|Sr|vs|etc|Inc|Ltd|Co|No|a\.m|p\.m)\.$/;
-function mergeTruncated(pairs) {
-  const out = [];
-  for (const p of pairs) {
-    const prev = out[out.length - 1];
-    if (prev && (ABBR_END.test(prev.en) || /^[a-z]/.test(p.en))) {
-      prev.en = `${prev.en} ${p.en}`;
-      prev.vi = `${prev.vi} ${p.vi}`;
-    } else {
-      out.push(p);
-    }
-  }
-  return out;
-}
 
 // Wikinews mở đầu bằng dòng ngày tháng dính liền câu đầu ("Monday, February 8, 2010 The black
 // box…") — đọc rất chướng, cắt bỏ ở CẢ hai ngôn ngữ (bản dịch máy giữ nguyên cấu trúc đó).
@@ -125,9 +109,17 @@ for (const [id, d] of src) {
     skipped.push(`${id} (gốc ${d.sentences.length} câu, dịch ${t.vi.length})`);
     continue;
   }
-  const { sentences, date } = stripDateline(
-    mergeTruncated(d.sentences.map((en, i) => ({ en: clean(en), vi: clean(t.vi[i]) }))),
+  const stripped = stripDateline(d.sentences.map((en, i) => ({ en: clean(en), vi: clean(t.vi[i]) })));
+  const sentences = mergeReadingPairs(
+    stripped.sentences
+      .map((pair) => ({
+        ...pair,
+        en: cleanReadingSourceText(pair.en, "en"),
+        vi: cleanReadingSourceText(pair.vi, "vi"),
+      }))
+      .filter((pair) => pair.en && pair.vi),
   );
+  const { date } = stripped;
   const topic = rawTopic.get(d.url) ?? d.topic;
   byLevel[d.level].push({
     id,

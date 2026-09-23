@@ -9,7 +9,7 @@
     "lint": "eslint",
     "test:e2e": "playwright test",
     "deploy": "npm run build && firebase deploy --only hosting",
-    "test": "node --experimental-strip-types --no-warnings scripts/test-sync-merge.mjs && node --experimental-strip-types --no-warnings scripts/test-sync-2devices.mjs && node --experimental-strip-types --no-warnings scripts/test-logic.mjs",
+    "test": "node --experimental-strip-types --no-warnings scripts/test-sync-merge.mjs && node --experimental-strip-types --no-warnings scripts/test-sync-2devices.mjs && node --experimental-strip-types --no-warnings scripts/test-logic.mjs && node scripts/test-reading-cleanup.mjs",
     "check": "tsc --noEmit && eslint --quiet && npm test"
   },
   "dependencies": {

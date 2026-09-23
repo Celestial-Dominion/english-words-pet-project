@@ -5,11 +5,18 @@
 //   - bản dịch còn sót tiếng Anh (dịch máy hay bỏ nguyên câu khi gặp câu lạ)
 //   - độ phủ từ vựng thật so với cấp được gán (tính lại, không tin số cũ)
 //   - câu cụt do tách nhầm ở viết tắt ("… U.S." / "Open …")
+//   - markup/tên file ảnh từ nguồn Wiki lọt vào nội dung
 //   - trùng lặp bài, tiêu đề rỗng, thiếu attribution (src/url)
-// --fix: gộp lại các câu bị tách cụt và ghi đè file.
+// --fix: làm sạch rác nguồn, gộp câu bị tách cụt và ghi đè file.
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { levelSlug } from "./lib-levels.mjs";
+import {
+  cleanReadingSourceText,
+  hasReadingSourceNoise,
+  mergeReadingPairs,
+  shouldMergeReadingSentences,
+} from "./lib-reading-cleanup.mjs";
 
 const HERE = import.meta.dirname;
 const DATA = join(HERE, "..", "public", "data");
@@ -61,11 +68,8 @@ const looksEnglish = (en, vi) => {
   return same > 0.6;
 };
 
-// câu bị tách cụt: câu trước kết thúc bằng viết tắt, hoặc câu sau bắt đầu bằng chữ thường
-const ABBR_END = /\b(?:[A-Z]\.(?:[A-Z]\.)*|Mr|Mrs|Ms|Dr|Prof|St|Mt|Jr|Sr|vs|etc|Inc|Ltd|Co|No|a\.m|p\.m)\.$/;
-
 let totalDocs = 0, totalSent = 0;
-const problems = { mismatch: [], empty: [], untranslated: [], lowCov: [], truncated: [], noAttr: [] };
+const problems = { mismatch: [], empty: [], untranslated: [], lowCov: [], truncated: [], sourceNoise: [], noAttr: [] };
 const seenTitle = new Map();
 let fixedCount = 0;
 
@@ -89,26 +93,25 @@ for (const lv of [1, 2, 3, 4]) {
 
     // gộp câu bị tách cụt
     if (FIX) {
-      const merged = [];
-      for (const s of d.sentences) {
-        const prev = merged[merged.length - 1];
-        if (prev && (ABBR_END.test(prev.en) || /^[a-z]/.test(s.en))) {
-          prev.en = `${prev.en} ${s.en}`;
-          prev.vi = `${prev.vi} ${s.vi}`;
-          fixedCount++;
-          changed = true;
-        } else {
-          merged.push({ ...s });
-        }
-      }
+      const cleaned = d.sentences
+        .map((s) => ({
+          ...s,
+          en: cleanReadingSourceText(s.en, "en"),
+          vi: cleanReadingSourceText(s.vi, "vi"),
+        }))
+        .filter((s) => s.en && s.vi);
+      const merged = mergeReadingPairs(cleaned);
+      fixedCount += d.sentences.length - merged.length;
+      changed ||= JSON.stringify(merged) !== JSON.stringify(d.sentences);
       d.sentences = merged;
     }
 
     for (const [i, s] of d.sentences.entries()) {
       if (!s.en?.trim() || !s.vi?.trim()) problems.empty.push(`${d.id}[${i}]`);
       else if (looksEnglish(s.en, s.vi)) problems.untranslated.push(`${d.id}[${i}]: "${s.vi.slice(0, 45)}"`);
+      if (hasReadingSourceNoise(s.en) || hasReadingSourceNoise(s.vi)) problems.sourceNoise.push(`${d.id}[${i}]`);
       // chỉ là CỤT khi còn câu sau nối tiếp — câu cuối bài kết thúc bằng "etc." là hợp lệ
-      if (!FIX && i < d.sentences.length - 1 && ABBR_END.test(s.en)) {
+      if (!FIX && i < d.sentences.length - 1 && shouldMergeReadingSentences(s.en, d.sentences[i + 1].en)) {
         problems.truncated.push(`${d.id}[${i}]: "…${s.en.slice(-30)}"`);
       }
     }
@@ -128,6 +131,7 @@ report("TRÙNG/LỆCH", problems.mismatch);
 report("RỖNG", problems.empty);
 report("CHƯA DỊCH (còn nguyên tiếng Anh)", problems.untranslated);
 report("CÂU CỤT (tách nhầm ở viết tắt)", problems.truncated, 5);
+report("RÁC NGUỒN WIKI", problems.sourceNoise, 8);
 report("ĐỘ PHỦ THẤP (<88%)", problems.lowCov, 5);
 report("THIẾU ATTRIBUTION", problems.noAttr);
 if (FIX) console.log(`Đã gộp ${fixedCount} câu bị tách cụt.`);

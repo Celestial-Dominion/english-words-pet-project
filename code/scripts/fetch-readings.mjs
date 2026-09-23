@@ -9,6 +9,7 @@
 import { readFileSync, writeFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { progress } from "./lib-progress.mjs";
+import { mergeEnglishSentences } from "./lib-reading-cleanup.mjs";
 
 const HERE = import.meta.dirname;
 const DATA = join(HERE, "..", "public", "data");
@@ -70,15 +71,13 @@ function coverage(sentences, lv) {
 }
 
 // ---- tách câu ----
-// Viết tắt có dấu chấm ("U.S.", "Dr.", "Mt.") KHÔNG được coi là hết câu → che tạm bằng
-// ký tự thay thế rồi khôi phục sau khi tách.
-const ABBR = /\b(?:[A-Z]\.(?:[A-Z]\.)+|Mr|Mrs|Ms|Dr|Prof|St|Mt|Jr|Sr|vs|etc|approx|Inc|Ltd|Co|No|Fig|Ave|Rd)\./g;
 function splitSentences(text) {
-  const masked = text.replace(/\s+/g, " ").replace(ABBR, (m) => m.replace(/\./g, "\u0001"));
-  return masked
+  const split = text
+    .replace(/\s+/g, " ")
     .split(/(?<=[.!?])\s+(?=[A-Z"'“])/)
-    .map((s) => s.replace(/\u0001/g, ".").trim())
+    .map((s) => s.trim())
     .filter(Boolean);
+  return mergeEnglishSentences(split);
 }
 
 // ---- tải ----

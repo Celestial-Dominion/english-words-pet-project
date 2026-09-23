@@ -1,4 +1,4 @@
-// Danh sách CHẶN VĨNH VIỄN bài đọc (nội dung người lớn / bạo lực đồ hoạ / vandalism từ nguồn).
+// Danh sách CHẶN VĨNH VIỄN bài đọc (nội dung người lớn, tự hại, bạo lực nặng hoặc rác nguồn).
 // Nguồn dữ liệu: scripts/readings-blocklist.json — mỗi mục { id, url, reason }.
 //
 // Vì sao cần: prep-reading-batches.mjs sinh lại rd-batches TỪ ĐẦU từ out/readings-raw.json, nên
