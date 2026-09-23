@@ -38,6 +38,14 @@ test("bài đọc: đọc tới cuối bài thì tự đánh dấu đã đọc",
   await expect(page.getByRole("button", { name: /Đã đọc/ })).toBeVisible({ timeout: 5000 });
 });
 
+test("audio bài đọc: lần chạm tốc độ đầu tiên tăng từ 1× lên 1,25×", async ({ page }) => {
+  await page.goto("/bai-doc?open=news-black-box-found-near-crash-site-of-ethio");
+  const normalSpeed = page.getByRole("button", { name: "Tốc độ nghe: 1×" });
+  await expect(normalSpeed).toBeVisible();
+  await normalSpeed.click();
+  await expect(page.getByRole("button", { name: "Tốc độ nghe: 1.25×" })).toBeVisible();
+});
+
 test("tin Wikinews hiện ngày đăng gốc (phần lớn là tin đã cũ)", async ({ page }) => {
   await page.goto("/bai-doc?open=news-black-box-found-near-crash-site-of-ethio");
   await expect(page.getByText(/Tin gốc đăng ngày 8\/2\/2010/)).toBeVisible();

@@ -7,22 +7,33 @@ import { cn } from "@/lib/utils";
 
 type Sentence = { en: string; vi: string; sp?: number };
 
+function createSentenceAudio(sentence: Sentence, rate: number): HTMLAudioElement {
+  const audio = new Audio(sentenceAudioUrl(sentence.en, sentence.sp ?? 0));
+  audio.playbackRate = rate;
+  return audio;
+}
+
 function splitTokens(en: string): string[] {
   return en.split(/(\s+)/);
 }
 const isWord = (t: string) => /[a-z'’]/i.test(t);
 
 // Nghe cả bài: phát tuần tự từng câu, tô sáng câu đang đọc + tự cuộn vào giữa; đổi tốc độ.
-const SPEEDS = [1, 0.75, 1.25];
+// Thứ tự ưu tiên thao tác thực tế: đang nghe 1x thì lần chạm đầu tiên phải NHANH hơn.
+// 0.75x vẫn giữ lại cho người cần nghe chậm, nhưng đặt ở cuối vòng lặp.
+const SPEEDS = [1, 1.25, 1.5, 0.75];
 export function useListenAll(sentences: Sentence[]) {
   const [activeIdx, setActiveIdx] = useState(-1);
   const [rate, setRate] = useState(1);
   const audioRef = useRef<HTMLAudioElement | null>(null);
+  const nextAudioRef = useRef<HTMLAudioElement | null>(null);
   const rateRef = useRef(1);
 
   const stop = () => {
     audioRef.current?.pause();
+    nextAudioRef.current?.pause();
     audioRef.current = null;
+    nextAudioRef.current = null;
     setActiveIdx(-1);
   };
   useEffect(() => () => stop(), []);
@@ -32,10 +43,20 @@ export function useListenAll(sentences: Sentence[]) {
   const playFrom = (i: number) => {
     if (i >= sentences.length) return stop();
     setActiveIdx(i);
-    const a = new Audio(sentenceAudioUrl(sentences[i].en, sentences[i].sp ?? 0));
-    a.playbackRate = rateRef.current;
+    // File câu này đã được trình duyệt làm ấm cache trong lúc câu trước phát.
+    nextAudioRef.current = null;
+    const a = createSentenceAudio(sentences[i], rateRef.current);
     audioRef.current = a;
     a.onended = () => playFrom(i + 1);
+
+    const nextIndex = i + 1;
+    if (nextIndex < sentences.length) {
+      const nextSentence = sentences[nextIndex];
+      const nextAudio = createSentenceAudio(nextSentence, rateRef.current);
+      nextAudio.preload = "auto";
+      nextAudio.load();
+      nextAudioRef.current = nextAudio;
+    }
     // Thiếu/hỏng 1 file audio thì BỎ QUA câu đó rồi đọc tiếp, không dừng cả bài (trước đây
     // một câu lỗi giữa chừng là im luôn, người dùng tưởng app hỏng).
     const skip = () => {
@@ -97,6 +118,7 @@ export function ReaderToolbar({
         type="button"
         onClick={onCycleRate}
         title="Tốc độ nghe"
+        aria-label={`Tốc độ nghe: ${rate}×`}
         className={cn(
           "inline-flex shrink-0 items-center rounded-full px-2.5 py-1.5 text-sm font-medium tabular-nums transition-colors",
           rate !== 1 ? "bg-primary/10 text-primary" : "text-muted-foreground hover:bg-muted",
