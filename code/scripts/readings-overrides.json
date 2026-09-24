@@ -291,5 +291,513 @@
     "vi": "Phân chuồng thu hút mối; các đường hầm của chúng giúp đất tơi xốp hơn."
    }
   ]
+ },
+ {
+  "id": "news-britain-votes-to-leave-the-european-unio",
+  "sentences": [
+   {
+    "match_en": "On Thursday, the United Kingdom (UK) voted to leave the European Union (EU) in a referendum.",
+    "vi": "Vào thứ Năm, Vương quốc Anh (UK) đã bỏ phiếu rời Liên minh châu Âu (EU) trong một cuộc trưng cầu dân ý."
+   },
+   {
+    "match_en": "During the referendum, voters were asked the following question with these options: \"Should the United Kingdom remain a member of the European Union or leave the European Union?",
+    "en": "During the referendum, voters were asked: \"Should the United Kingdom remain a member of the European Union or leave the European Union?\"",
+    "vi": "Trong cuộc trưng cầu dân ý, cử tri được hỏi: \"Vương quốc Anh nên tiếp tục là thành viên của Liên minh châu Âu hay rời khỏi Liên minh châu Âu?\""
+   },
+   {
+    "match_en": "Remain a member of the European Union Leave the European Union\".",
+    "en": "The options were \"Remain a member of the European Union\" and \"Leave the European Union\".",
+    "vi": "Hai lựa chọn là \"Tiếp tục là thành viên của Liên minh châu Âu\" và \"Rời khỏi Liên minh châu Âu\"."
+   }
+  ]
+ },
+ {
+  "id": "news-ch-vez-warns-oil-prices-could-double-if-",
+  "sentences": [
+   {
+    "match_en": "The prices of raw oil approached $100 last week before settling down again.",
+    "vi": "Giá dầu thô tiến sát mức 100 USD vào tuần trước rồi giảm trở lại."
+   }
+  ]
+ },
+ {
+  "id": "wiki-clinic",
+  "sentences": [
+   {
+    "match_en": "Physiotherapy clinics are run by physiotherapists, psychology clinics run by clinical psychologists, and so on for each type of health care.",
+    "vi": "Phòng khám vật lý trị liệu do chuyên viên vật lý trị liệu phụ trách, phòng khám tâm lý do nhà tâm lý học lâm sàng phụ trách; các loại hình chăm sóc sức khỏe khác cũng tương tự."
+   },
+   {
+    "match_en": "Some clinics are operated, or run, by employers.",
+    "vi": "Một số phòng khám do doanh nghiệp vận hành để phục vụ nhân viên."
+   },
+   {
+    "match_en": "Some clinics are a place for people with injuries or illness to come and be seen by triage nurse or other health worker.",
+    "vi": "Một số phòng khám tiếp nhận người bị thương hoặc bị bệnh để y tá phân loại hay nhân viên y tế khác thăm khám."
+   },
+   {
+    "match_en": "In these clinics, the injury or illness may not be large or dangerous enough to warrant a visit to an emergency room, but the person can be moved to one if they need to be.",
+    "vi": "Những phòng khám này xử lý các chấn thương hoặc bệnh chưa nghiêm trọng đến mức phải vào khoa cấp cứu, nhưng bệnh nhân vẫn có thể được chuyển đến đó khi cần."
+   },
+   {
+    "match_en": "Doctors at these clinics can send patients to specialists, a doctor who is very good at one kind of medicine.",
+    "vi": "Bác sĩ tại các phòng khám này có thể giới thiệu bệnh nhân đến bác sĩ chuyên khoa, tức người chuyên sâu về một lĩnh vực y học."
+   }
+  ]
+ },
+ {
+  "id": "wiki-google-assistant",
+  "sentences": [
+   {
+    "match_en": "It can be used on many devices, on mobile devices, like smartphones, tablets, and laptops.",
+    "vi": "Google Assistant có thể được sử dụng trên nhiều thiết bị như điện thoại thông minh, máy tính bảng và máy tính xách tay."
+   },
+   {
+    "match_en": "It encompasses a wide variety of different tasks, such as rolling dice, reading reminders, Mad Libs, Lucky Trivia (includes a sports version), Snake, a geography quiz, and many more.",
+    "vi": "Trợ lý này thực hiện được nhiều tác vụ như tung xúc xắc, đọc lời nhắc, chơi Mad Libs, Lucky Trivia (có cả phiên bản thể thao), Snake, câu đố địa lý và nhiều trò khác."
+   }
+  ]
+ },
+ {
+  "id": "wiki-natural-music",
+  "sentences": [
+   {
+    "match_en": "In Western musical notation, musical notes are written as dots on a staff or stave.",
+    "vi": "Trong ký hiệu âm nhạc phương Tây, các nốt nhạc được viết dưới dạng dấu trên khuông nhạc."
+   },
+   {
+    "match_en": "By default, the notes written are the \"natural\" notes - the white keys on a piano.",
+    "vi": "Theo mặc định, các nốt được viết là nốt bình, tương ứng với các phím trắng trên đàn piano."
+   },
+   {
+    "match_en": "Notes that are not \"natural\" are sometimes called \"accidental[s]\".",
+    "en": "Notes that are not natural are sometimes called accidentals.",
+    "vi": "Các nốt không ở trạng thái bình đôi khi được gọi là nốt biến âm."
+   },
+   {
+    "match_en": "The key signature tells the players (I include singers, guitarists, cellists etc. here) which notes are to be played as sharp of flat (usually the black keys on a piano).",
+    "en": "The key signature tells performers, including singers, guitarists, and cellists, which notes are to be played as sharps or flats (usually the black keys on a piano).",
+    "vi": "Hóa biểu cho người biểu diễn, bao gồm ca sĩ, nghệ sĩ guitar và nghệ sĩ cello, biết những nốt nào phải chơi ở dạng thăng hoặc giáng (thường tương ứng với các phím đen trên đàn piano)."
+   },
+   {
+    "match_en": "If the composer wishes players to play the note differently - as a sharp, flat, or natural note (or indeed, double or triple sharp or flat), symbols are used before the note to indicate this.",
+    "vi": "Nếu nhà soạn nhạc muốn người biểu diễn thay đổi cao độ của nốt thành thăng, giáng hoặc bình (kể cả thăng hay giáng kép hoặc ba), họ đặt ký hiệu tương ứng trước nốt nhạc."
+   },
+   {
+    "match_en": "If the notes are preceded by a sharp symbol (♯), it means they should be played a semitone higher.",
+    "vi": "Nếu trước nốt có dấu thăng (♯), nốt đó phải được chơi cao hơn nửa cung."
+   },
+   {
+    "match_en": "This continues until the end of the bar or a change to the key signature.",
+    "en": "This remains in effect until the end of the bar or a change in the key signature.",
+    "vi": "Hiệu lực này kéo dài đến hết ô nhịp hoặc đến khi hóa biểu thay đổi."
+   },
+   {
+    "match_en": "If the notes are preceded by a flat symbol (♭), it means they should be played a semitone lower.",
+    "vi": "Nếu trước nốt có dấu giáng (♭), nốt đó phải được chơi thấp hơn nửa cung."
+   },
+   {
+    "match_en": "This continues until the end of the bar or a change to the key signature.",
+    "en": "This remains in effect until the end of the bar or a change in the key signature.",
+    "vi": "Hiệu lực này kéo dài đến hết ô nhịp hoặc đến khi hóa biểu thay đổi."
+   },
+   {
+    "match_en": "If the note would be played as an accidental, a natural symbol (♮) may be used to indicate that it should be played as a natural note.",
+    "vi": "Nếu một nốt đang chịu tác dụng của dấu hóa, có thể dùng dấu bình (♮) để đưa nốt đó trở lại cao độ tự nhiên."
+   },
+   {
+    "match_en": "The Unicode character MUSIC NATURAL SIGN '♮' (U+266E) should display as a natural sign.",
+    "vi": "Ký tự Unicode MUSIC NATURAL SIGN '♮' (U+266E) sẽ hiển thị dưới dạng dấu bình."
+   },
+   {
+    "match_en": "Its HTML entity is &#9838;.",
+    "vi": "Mã thực thể HTML của ký hiệu này là &#9838;."
+   },
+   {
+    "match_en": "Again, this continues until the end of the bar or a change to the key signature.",
+    "vi": "Tương tự, hiệu lực này kéo dài đến hết ô nhịp hoặc đến khi hóa biểu thay đổi."
+   }
+  ]
+ },
+ {
+  "id": "wiki-ornamentation-music",
+  "title_vi": "Nốt hoa mỹ (âm nhạc)",
+  "sentences": [
+   {
+    "match_en": "In music, ornaments are notes which are added to the main notes of a piece of music in order to make it more interesting.",
+    "vi": "Trong âm nhạc, nốt hoa mỹ là những nốt được thêm vào giai điệu chính để làm tác phẩm sinh động hơn."
+   },
+   {
+    "match_en": "There are several types of ornaments, including trills and slides.",
+    "vi": "Có nhiều loại nốt hoa mỹ, bao gồm nốt láy rền và nốt luyến."
+   },
+   {
+    "match_en": "Music of the Renaissance and Baroque periods have lots of ornaments.",
+    "vi": "Âm nhạc thời Phục hưng và Baroque sử dụng rất nhiều nốt hoa mỹ."
+   },
+   {
+    "match_en": "The composer usually shows what ornaments are needed by little signs written above the notes.",
+    "vi": "Nhà soạn nhạc thường dùng các ký hiệu nhỏ phía trên nốt nhạc để cho biết cần chơi loại hoa mỹ nào."
+   },
+   {
+    "match_en": "In some pieces, especially in slow movements, the composers often did not show the ornaments that are needed: they expected the performers to put them in themselves.",
+    "vi": "Trong một số tác phẩm, nhất là các chương chậm, nhà soạn nhạc thường không ghi sẵn nốt hoa mỹ mà để người biểu diễn tự thêm vào."
+   },
+   {
+    "match_en": "Understanding the correct way of ornamenting music used to be a very important part of the art of singing or playing a musical instrument.",
+    "vi": "Hiểu cách thêm nốt hoa mỹ đúng phong cách từng là một phần rất quan trọng của nghệ thuật ca hát và biểu diễn nhạc cụ."
+   },
+   {
+    "match_en": "The correct way of ornamenting music varied a lot from one country to another and from one century to another.",
+    "vi": "Cách dùng nốt hoa mỹ thay đổi đáng kể giữa các quốc gia và các thời kỳ."
+   },
+   {
+    "match_en": "Fortunately several composers and music theorists wrote books about how to play ornaments.",
+    "vi": "May mắn là một số nhà soạn nhạc và nhà lý luận âm nhạc đã viết sách hướng dẫn cách chơi các nốt hoa mỹ."
+   },
+   {
+    "match_en": "Sometimes composers wrote a preface (introduction) in their music to explain to the performer how to play the ornaments they had written.",
+    "vi": "Đôi khi nhà soạn nhạc viết lời tựa trong bản nhạc để giải thích cho người biểu diễn cách chơi những nốt hoa mỹ đã ghi."
+   },
+   {
+    "match_en": "There are different kinds of ornaments.",
+    "vi": "Có nhiều loại nốt hoa mỹ khác nhau."
+   },
+   {
+    "match_en": "A “grace note” is a note written in smaller print, to show that its note value (how long it lasts) does not count as part of the total time value of the measure.",
+    "vi": "“Grace note” (nốt láy) là nốt được viết nhỏ hơn để cho biết trường độ của nó không được tính vào tổng số phách của ô nhịp."
+   },
+   {
+    "match_en": "In Spain, these ornaments were called \"diferenzias\".",
+    "vi": "Ở Tây Ban Nha, các lối biến tấu hoa mỹ này được gọi là \"diferenzias\"."
+   }
+  ]
+ },
+ {
+  "id": "news-signals-indicate-texas-economy-continues",
+  "sentences": [
+   {
+    "match_en": "More specifically, that report called the state's recent job growth, \"robust\".The state's unemployment rate in March was more than 1% lower than the nationwide rate, according to recent data.",
+    "en": "More specifically, that report called the state's recent job growth \"robust\". The state's unemployment rate in March was more than one percentage point lower than the nationwide rate, according to recent data.",
+    "vi": "Cụ thể hơn, báo cáo gọi mức tăng trưởng việc làm gần đây của bang là \"mạnh mẽ\". Theo dữ liệu mới nhất, tỷ lệ thất nghiệp của bang trong tháng 3 thấp hơn tỷ lệ toàn quốc hơn một điểm phần trăm."
+   }
+  ]
+ },
+ {
+  "id": "wiki-three-sisters-agriculture",
+  "sentences": [
+   {
+    "match_en": "They are winter squash, maize (\"corn\"), and beans.",
+    "vi": "Ba loại cây đó là bí mùa đông, ngô và đậu."
+   },
+   {
+    "match_en": "They were originally from Mesoamerica (present-day Mexico).",
+    "vi": "Các loại cây này có nguồn gốc từ Trung Bộ châu Mỹ, thuộc khu vực Mexico ngày nay."
+   },
+   {
+    "match_en": "The Three Sisters were important for food and trade.",
+    "vi": "Ba Chị Em có vai trò quan trọng đối với lương thực và hoạt động buôn bán."
+   },
+   {
+    "match_en": "The crops, especially maize helped population growth.",
+    "vi": "Các loại cây trồng này, đặc biệt là ngô, đã góp phần thúc đẩy tăng trưởng dân số."
+   }
+  ]
+ },
+ {
+  "id": "news-turkish-government-stops-search-of-survi",
+  "sentences": [
+   {
+    "match_en": "On Wednesday, the Tuskish government declared they were officially ending the search of survivors of the earthquake in the Aegean Sea.",
+    "en": "On Wednesday, the Turkish government declared that it was officially ending the search for survivors of the earthquake in the Aegean Sea.",
+    "vi": "Hôm thứ Tư, chính phủ Thổ Nhĩ Kỳ tuyên bố chính thức kết thúc việc tìm kiếm những người sống sót sau trận động đất ở Biển Aegean."
+   },
+   {
+    "match_en": "Turkey's Disaster and Emergency Management Presidency reported the magnitude of the earthquake was 6.6 and, as of Wednesday, 1885 aftershocks had occurred since the earthquake.",
+    "vi": "Cơ quan Quản lý Thảm họa và Tình trạng Khẩn cấp Thổ Nhĩ Kỳ cho biết trận động đất có độ lớn 6,6; tính đến thứ Tư đã xảy ra 1.885 dư chấn."
+   },
+   {
+    "match_en": "The US Geological Survey reported it was of 7.0 magnitude.",
+    "vi": "Cơ quan Khảo sát Địa chất Hoa Kỳ cho biết trận động đất có độ lớn 7,0."
+   }
+  ]
+ },
+ {
+  "id": "news-arm-to-be-bought-by-softbank",
+  "sentences": [
+   {
+    "match_en": "The United Kingdom's (UK) largest technology company, ARM Holdings, confirmed on Monday morning that it had accepted an offer from the Japanese company, SoftBank.",
+    "vi": "ARM Holdings, công ty công nghệ lớn nhất Vương quốc Anh (UK), xác nhận vào sáng thứ Hai rằng họ đã chấp nhận đề nghị mua lại từ công ty SoftBank của Nhật Bản."
+   },
+   {
+    "match_en": "Simon Segars, ARM's Chief Executive, also said a pledge by SoftBank to double ARM's workforce on the UK would be legally binding.",
+    "en": "Simon Segars, ARM's Chief Executive, also said a pledge by SoftBank to double ARM's workforce in the UK would be legally binding.",
+    "vi": "Simon Segars, Giám đốc điều hành ARM, cũng cho biết cam kết của SoftBank về việc tăng gấp đôi lực lượng lao động của ARM tại Anh sẽ có tính ràng buộc pháp lý."
+   },
+   {
+    "match_en": "Philip Hammond, the UK Chancellor, said it would be the biggest investment into the UK from Asia, as well as showing that “Britain remains one of the most attractive destinations globally for investors to create jobs and wealth”.",
+    "vi": "Bộ trưởng Tài chính Anh Philip Hammond cho biết đây sẽ là khoản đầu tư lớn nhất từ châu Á vào Anh, đồng thời cho thấy “Anh vẫn là một trong những điểm đến hấp dẫn nhất thế giới để các nhà đầu tư tạo việc làm và của cải”."
+   }
+  ]
+ },
+ {
+  "id": "news-at-least-20-die-in-odesa-in-russian-miss",
+  "sentences": [
+   {
+    "match_en": "According to the office of the Prosecutor General of Ukraine, the attack occurred around 11:00 am (12:00 Moscow time) on March 15.",
+    "vi": "Theo Văn phòng Tổng công tố Ukraine, vụ tấn công xảy ra vào khoảng 11 giờ sáng (12 giờ theo giờ Moskva) ngày 15 tháng 3."
+   }
+  ]
+ },
+ {
+  "id": "wiki-atmospheric-pressure",
+  "sentences": [
+   {
+    "match_en": "At higher altitude, the atmospheric density and pressure are lower.",
+    "vi": "Càng lên cao, mật độ không khí và áp suất khí quyển càng giảm."
+   }
+  ]
+ },
+ {
+  "id": "wiki-barista",
+  "sentences": [
+   {
+    "match_en": "A good barista should know exactly how much temperature and water pressure and how long to use to prepare an espresso shot, according to the type of coffee, the type of roast (roast) and the type of grinder.",
+    "en": "A good barista should know the right temperature, water pressure, and extraction time for an espresso shot, based on the coffee, roast, and grinder.",
+    "vi": "Một barista giỏi cần biết nhiệt độ, áp suất nước và thời gian chiết xuất phù hợp cho một ly espresso, tùy vào loại cà phê, mức độ rang và máy xay."
+   }
+  ]
+ },
+ {
+  "id": "wiki-crossbreed",
+  "sentences": [
+   {
+    "match_en": "A crossbreed is an organism that is made up of two different breeds, varieties, or populations.",
+    "vi": "Con lai là sinh vật được tạo ra từ hai giống, thứ hoặc quần thể khác nhau."
+   }
+  ]
+ },
+ {
+  "id": "news-first-television-channel-in-esperanto-la",
+  "sentences": [
+   {
+    "match_en": "The original intention was to establish a 24-hour streamed online channel, with four hours of original programming per day (repeated six times daily) and a daily news bulletin.",
+    "vi": "Mục tiêu ban đầu là xây dựng một kênh trực tuyến phát 24 giờ, với bốn giờ chương trình gốc mỗi ngày (phát lại sáu lần) và một bản tin hằng ngày."
+   }
+  ]
+ },
+ {
+  "id": "news-former-us-senator-kay-hagan-dies-at-age-",
+  "sentences": [
+   {
+    "match_en": "According to Sadie Weiner, Hagan's former spokeswoman, Hagan died from Powassan virus, a flavivirus, leading to encephalitis (brain inflammation).",
+    "vi": "Theo Sadie Weiner, cựu phát ngôn viên của Hagan, bà qua đời do virus Powassan, một loại flavivirus gây viêm não."
+   }
+  ]
+ },
+ {
+  "id": "news-mass-protests-prompt-sri-lankan-cabinet-",
+  "sentences": [
+   {
+    "match_en": "Its currency, the rupee, has lost 30% of its value against the US dollar since it was devalued last month ahead of talks with the International Monetary Fund for a bailout.",
+    "vi": "Đồng rupee đã mất 30% giá trị so với đô la Mỹ kể từ khi bị phá giá vào tháng trước, trước thềm các cuộc đàm phán với Quỹ Tiền tệ Quốc tế về một gói cứu trợ."
+   }
+  ]
+ },
+ {
+  "id": "news-microsoft-drops-bid-for-yahoo",
+  "sentences": [
+   {
+    "match_en": "Microsoft has announced it is dropping its bid to acquire one of their Internet competitors, Yahoo!, after a three-month courting effort by Microsoft.",
+    "vi": "Microsoft thông báo rút đề nghị mua lại đối thủ Internet Yahoo! sau ba tháng theo đuổi thương vụ."
+   }
+  ]
+ },
+ {
+  "id": "wiki-pollination",
+  "sentences": [
+   {
+    "match_en": "In seed plants a seed is started.",
+    "en": "In seed plants, this process begins the formation of a seed.",
+    "vi": "Ở thực vật có hạt, quá trình này bắt đầu sự hình thành của hạt."
+   }
+  ]
+ },
+ {
+  "id": "wiki-quince",
+  "sentences": [
+   {
+    "match_en": "It starts green colored and then ripens to a bright golden yellow color, and looks like a bumpy lemon.",
+    "vi": "Quả lúc đầu có màu xanh lục, khi chín chuyển sang màu vàng óng và trông giống một quả chanh có bề mặt sần sùi."
+   },
+   {
+    "match_en": "The quince fruit is too hard to eat.",
+    "vi": "Quả mộc qua sống quá cứng để ăn trực tiếp."
+   }
+  ]
+ },
+ {
+  "id": "news-record-size-17-4-million-digit-prime-fou",
+  "sentences": [
+   {
+    "match_en": "Cooper found the prime as a participant in the distributed computing project known as the Great Internet Mersenne Prime Search, or GIMPS.",
+    "vi": "Cooper tìm ra số nguyên tố này khi tham gia dự án điện toán phân tán Great Internet Mersenne Prime Search (GIMPS)."
+   },
+   {
+    "match_en": "However as for any Mersenne prime candidates, the discovery was announced after several people have verified the number using different hardware and software.",
+    "vi": "Cũng như mọi ứng viên số nguyên tố Mersenne khác, phát hiện chỉ được công bố sau khi nhiều người xác minh con số bằng các phần cứng và phần mềm khác nhau."
+   },
+   {
+    "match_en": "The first few prime numbers are 2, 3, 5, 7, 11, 13, 17 and 19. 77 (for example) is not prime because it is a product of 7 and 11.",
+    "vi": "Các số nguyên tố đầu tiên là 2, 3, 5, 7, 11, 13, 17 và 19. Ví dụ, 77 không phải số nguyên tố vì bằng 7 nhân 11."
+   },
+   {
+    "match_en": "The newly discovered prime is expressed as 257,885,161 − 1 and has 17,425,170 digits.",
+    "en": "The newly discovered prime is expressed as 2^57,885,161 − 1 and has 17,425,170 digits.",
+    "vi": "Số nguyên tố mới được phát hiện có dạng 2^57.885.161 − 1 và gồm 17.425.170 chữ số."
+   },
+   {
+    "match_en": "It is a specific type of prime number called a Mersenne prime, which are of the form 2p − 1.",
+    "en": "It is a specific type of prime number called a Mersenne prime, which has the form 2^p − 1.",
+    "vi": "Đây là một số nguyên tố Mersenne, tức số nguyên tố có dạng 2^p − 1."
+   }
+  ]
+ },
+ {
+  "id": "news-study-drying-up-rivers-to-cause-freshwat",
+  "sentences": [
+   {
+    "match_en": "The report says governments should ensure better protection of rivers and provide more sustainable water use, in such a way that people's livelihoods are protected.",
+    "vi": "Báo cáo cho rằng các chính phủ cần bảo vệ sông ngòi tốt hơn và sử dụng nước bền vững hơn để bảo đảm sinh kế của người dân."
+   }
+  ]
+ },
+ {
+  "id": "wiki-tianhe-2",
+  "sentences": [
+   {
+    "match_en": "It can do more than 33,862 million million operations every second.",
+    "vi": "Máy có thể thực hiện hơn 33,862 triệu tỷ phép tính mỗi giây."
+   },
+   {
+    "match_en": "It is predicted to become even faster by 2015, reaching speeds of 100,000 million million operations every second.",
+    "vi": "Theo dự đoán, đến năm 2015 máy sẽ còn nhanh hơn, đạt tốc độ 100 triệu tỷ phép tính mỗi giây."
+   }
+  ]
+ },
+ {
+  "id": "wiki-virtual-learning-environment",
+  "sentences": [
+   {
+    "match_en": "Common tools offered on a VLE are: online quizzes, email, discussion forums and student blogs.",
+    "vi": "Các công cụ phổ biến trên VLE gồm bài kiểm tra trực tuyến, email, diễn đàn thảo luận và blog của học viên."
+   },
+   {
+    "match_en": "Common information shared with learners via a VLE is: worksheets, lesson plans, homework, grades, assignments and deadlines.",
+    "vi": "Thông tin thường được chia sẻ qua VLE gồm phiếu học tập, giáo án, bài tập về nhà, điểm số, nhiệm vụ được giao và thời hạn."
+   },
+   {
+    "match_en": "Combining the use of a VLE and normal classes is often called blended learning.",
+    "vi": "Việc kết hợp VLE với lớp học thông thường thường được gọi là học tập kết hợp."
+   }
+  ]
+ },
+ {
+  "id": "news-yahoo-releases-mobile-phone-search-engin",
+  "sentences": [
+   {
+    "match_en": "Yahoo's officials said that the company has already begun offering OneSearch on 85% of existing mobile phones that include Web browsers.",
+    "vi": "Các quan chức Yahoo cho biết công ty đã bắt đầu cung cấp OneSearch trên 85% điện thoại di động có trình duyệt web vào thời điểm đó."
+   },
+   {
+    "match_en": "The results are prioritized according to the calculation that Yahoo computers make about a specific information that the customer is trying to make.",
+    "en": "The results are prioritized according to Yahoo's calculation of the specific information the user is seeking.",
+    "vi": "Kết quả được ưu tiên dựa trên tính toán của Yahoo về thông tin cụ thể mà người dùng đang tìm kiếm."
+   },
+   {
+    "match_en": "Yahoo's new service, oneSearch runs sponsored ad which is being linked to Web search results and display advertisements.",
+    "en": "Yahoo's new oneSearch service runs sponsored ads linked to web search results, as well as display advertisements.",
+    "vi": "Dịch vụ oneSearch mới của Yahoo hiển thị quảng cáo được tài trợ gắn với kết quả tìm kiếm web, cùng với quảng cáo hiển thị."
+   }
+  ]
+ },
+ {
+  "id": "wiki-archaeognatha",
+  "sentences": [
+   {
+    "match_en": "They first appear in the Devonian period along with the arachnids (Spiders).",
+    "vi": "Chúng xuất hiện lần đầu trong kỷ Devon cùng với các loài thuộc lớp Hình nhện, như nhện."
+   },
+   {
+    "match_en": "The Order Archaeognatha has previously been combined with the Order Thysanura, or bristletails.",
+    "vi": "Bộ Archaeognatha trước đây từng được gộp chung với bộ Thysanura, tức nhóm côn trùng đuôi tơ."
+   }
+  ]
+ },
+ {
+  "id": "wiki-biennial-plant",
+  "sentences": [
+   {
+    "match_en": "Biennials that are grown for edible leaves or roots are grown as annuals, e.g. beets, Brussels sprouts, cabbage, carrots, celery, parsley, and Swiss chard.",
+    "vi": "Các cây hai năm được trồng để lấy lá hoặc rễ ăn được thường được canh tác như cây một năm, chẳng hạn củ dền, cải Brussels, bắp cải, cà rốt, cần tây, mùi tây và cải cầu vồng."
+   }
+  ]
+ },
+ {
+  "id": "wiki-gillidanda",
+  "sentences": [
+   {
+    "match_en": "Gilli 'गिल्ली\" -danda \"डन्डा\" is a game played by children in South Asia.",
+    "en": "Gilli-danda (गिल्ली-डन्डा) is a game played by children in South Asia.",
+    "vi": "Gilli-danda (गिल्ली-डन्डा) là một trò chơi của trẻ em Nam Á."
+   }
+  ]
+ },
+ {
+  "id": "news-russian-wikipedia-a-top-internet-communi",
+  "sentences": [
+   {
+    "match_en": "It was founded in 1997 and maintains some public projects, such as annual \"professional award\" \"ROTOR\" (a spelling interpretation for \"Russian Online TOP\").",
+    "vi": "Được thành lập năm 1997, cộng đồng này duy trì một số dự án công khai như giải thưởng nghề nghiệp thường niên ROTOR, tên gọi được tạo từ cụm “Russian Online TOP”."
+   },
+   {
+    "match_en": "It has no payments or figurines and is awarded virtually.",
+    "vi": "Giải thưởng không kèm tiền thưởng hay tượng lưu niệm và được trao hoàn toàn trực tuyến."
+   },
+   {
+    "match_en": "ROTOR is Runet-wise generally regarded as an acknowledgment token for some Russian language Internet project from the so-called \"Runet professionals\" who populate Ezhe club.",
+    "vi": "Trong cộng đồng Runet, ROTOR thường được xem là sự công nhận của các chuyên gia thuộc câu lạc bộ Ezhe dành cho một dự án Internet tiếng Nga."
+   },
+   {
+    "match_en": "Ezhe members vote in 2 tours, and in most contemporary ROTOR-2008 (lasted May 12—22) Russian Wikipedia gained 1st place in \"Internet Community of the year\" nomination (the year before it took 2nd).",
+    "vi": "Các thành viên Ezhe bỏ phiếu qua hai vòng. Tại ROTOR 2008, diễn ra từ ngày 12 đến 22 tháng 5, Wikipedia tiếng Nga đứng đầu hạng mục “Cộng đồng Internet của năm”, sau khi xếp thứ hai vào năm trước."
+   },
+   {
+    "match_en": "In the meantime Russian Wikipedians recently celebrated Top-10 Wikipedias range introduction: Swedish Wikipedia was out of 10th place, and Russian was in with over 283 thousand articles on May 19th, 2008.",
+    "vi": "Trong thời gian đó, cộng đồng Wikipedia tiếng Nga ăn mừng việc lọt vào nhóm mười phiên bản Wikipedia lớn nhất: ngày 19 tháng 5 năm 2008, phiên bản tiếng Nga vượt phiên bản tiếng Thụy Điển để chiếm vị trí thứ mười với hơn 283.000 bài viết."
+   }
+  ]
+ },
+ {
+  "id": "wiki-statehood-day-slovenia",
+  "sentences": [
+   {
+    "match_en": "Statehood Day (Slovene: Dan državnosti) is a holiday in Slovenia.",
+    "vi": "Ngày Quốc khánh (tiếng Slovenia: Dan državnosti) là một ngày lễ tại Slovenia."
+   },
+   {
+    "match_en": "The holiday is the day the country said is was indepentant from Yugoslavia in 1991.",
+    "en": "The holiday marks the day the country declared independence from Yugoslavia in 1991.",
+    "vi": "Ngày lễ đánh dấu ngày Slovenia tuyên bố độc lập khỏi Nam Tư vào năm 1991."
+   },
+   {
+    "match_en": "The formal declaration of independence did not come until 26 June 1991 but Statehood Day is 25 June.",
+    "vi": "Tuyên bố độc lập chính thức được công bố vào ngày 26 tháng 6 năm 1991, nhưng Ngày Quốc khánh được tổ chức vào ngày 25 tháng 6."
+   },
+   {
+    "match_en": "Statehood Day is not the same as Slovenia's Independence and Unity Day.",
+    "vi": "Ngày Quốc khánh không phải là Ngày Độc lập và Thống nhất của Slovenia."
+   }
+  ]
  }
 ]
