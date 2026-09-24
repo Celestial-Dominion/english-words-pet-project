@@ -3,6 +3,7 @@ import {
   cleanReadingSourceText,
   mergeEnglishSentences,
   mergeReadingPairs,
+  normalizeReadingSentence,
   normalizeReadingTitle,
   shouldMergeReadingSentences,
 } from "./lib-reading-cleanup.mjs";
@@ -67,4 +68,10 @@ assert.equal(normalizeReadingTitle("giáo dục Montessori"), "Giáo dục Monte
 assert.equal(normalizeReadingTitle("eBay mua VeriSign"), "eBay mua VeriSign");
 assert.equal(normalizeReadingTitle("xAI"), "xAI");
 
-console.log("reading cleanup: 23 ca đạt");
+assert.equal(normalizeReadingSentence("các quan chức đã xác nhận tin này."), "Các quan chức đã xác nhận tin này.");
+assert.equal(normalizeReadingSentence("“những thay đổi này đã có hiệu lực.”"), "“Những thay đổi này đã có hiệu lực.”");
+assert.equal(normalizeReadingSentence("iPhone được bán vào thứ Sáu."), "iPhone được bán vào thứ Sáu.");
+assert.equal(normalizeReadingSentence("eBay đã công bố thỏa thuận."), "eBay đã công bố thỏa thuận.");
+assert.equal(normalizeReadingSentence("α-Amylase là một enzyme."), "α-Amylase là một enzyme.");
+
+console.log("reading cleanup: 28 ca đạt");

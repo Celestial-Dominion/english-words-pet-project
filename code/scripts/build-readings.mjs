@@ -7,7 +7,12 @@ import { join } from "node:path";
 import { levelSlug } from "./lib-levels.mjs";
 import { progress } from "./lib-progress.mjs";
 import { isBlocked } from "./lib-blocklist.mjs";
-import { cleanReadingSourceText, mergeReadingPairs, normalizeReadingTitle } from "./lib-reading-cleanup.mjs";
+import {
+  cleanReadingSourceText,
+  mergeReadingPairs,
+  normalizeReadingSentence,
+  normalizeReadingTitle,
+} from "./lib-reading-cleanup.mjs";
 
 const HERE = import.meta.dirname;
 const DATA = join(HERE, "..", "public", "data");
@@ -145,7 +150,7 @@ for (const [id, d] of src) {
       .map((pair) => ({
         ...pair,
         en: cleanReadingSourceText(pair.en, "en"),
-        vi: cleanReadingSourceText(pair.vi, "vi"),
+        vi: normalizeReadingSentence(cleanReadingSourceText(pair.vi, "vi")),
       }))
       .filter((pair) => pair.en && pair.vi),
   );

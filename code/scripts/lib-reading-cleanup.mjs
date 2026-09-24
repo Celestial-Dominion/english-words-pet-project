@@ -123,10 +123,23 @@ export function hasReadingSourceNoise(value) {
 
 const STYLED_TITLE_PREFIX = /^(?:eBay|xAI)\b/;
 const LOWER_VI_INITIAL = /^[a-zàáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/u;
+const STYLED_SENTENCE_PREFIX = /^(?:iPhone|iPad|iPod|iOS|eBay|xAI|macOS|µCLinux|α-Amylase)(?=\s|[.,:;!?)]|$)/u;
+const LOWER_VI_SENTENCE_INITIAL = /^([\s“”"'‘’(\[]*)([a-zàáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ])/u;
 
 /** Chuẩn hoá tiêu đề tiếng Việt về sentence case, nhưng giữ nguyên tên thương hiệu cách điệu. */
 export function normalizeReadingTitle(value) {
   const title = String(value ?? "").trim();
   if (!title || STYLED_TITLE_PREFIX.test(title)) return title;
   return title.replace(LOWER_VI_INITIAL, (letter) => letter.toLocaleUpperCase("vi-VN"));
+}
+
+/** Viết hoa đầu câu VI sau khi bỏ dateline, nhưng giữ cách viết thương hiệu/sản phẩm. */
+export function normalizeReadingSentence(value) {
+  const sentence = String(value ?? "").trim();
+  const visible = sentence.replace(/^[\s“”"'‘’(\[]+/, "");
+  if (!sentence || STYLED_SENTENCE_PREFIX.test(visible)) return sentence;
+  return sentence.replace(
+    LOWER_VI_SENTENCE_INITIAL,
+    (_, punctuation, letter) => `${punctuation}${letter.toLocaleUpperCase("vi-VN")}`,
+  );
 }

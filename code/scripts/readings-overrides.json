@@ -78,7 +78,17 @@
  },
  {
   "id": "news-monster-com-aquires-yahoo-s-hotjobs-serv",
-  "title_en": "Monster.com acquires Yahoo's HotJobs service for $225 million"
+  "title_en": "Monster.com acquires Yahoo's HotJobs service for $225 million",
+  "sentences": [
+   {
+    "match_en": "\"Monster will be able to offer its employers a significantly larger pool of candidates across diverse geographies and industries,\" the company said in a statement.Buying Yahoo out of the online recruitment business leaves Monster with only one major competitor, Careerbuilder.com.",
+    "en": "\"Monster will be able to offer its employers a significantly larger pool of candidates across diverse geographies and industries,\" the company said in a statement. Buying Yahoo out of the online recruitment business leaves Monster with only one major competitor, CareerBuilder.com."
+   },
+   {
+    "match_en": "\"We have substantially added quality traffic, while substantially increasing our customer base,\" he added.HotJobs averaged 12.6 million unique visitors a month, according to Media Metrics comScore.",
+    "en": "\"We have substantially added quality traffic, while substantially increasing our customer base,\" he added. HotJobs averaged 12.6 million unique visitors a month, according to comScore Media Metrix."
+   }
+  ]
  },
  {
   "id": "wiki-united-arab-emirates",
@@ -583,6 +593,10 @@
    {
     "match_en": "The original intention was to establish a 24-hour streamed online channel, with four hours of original programming per day (repeated six times daily) and a daily news bulletin.",
     "vi": "Mục tiêu ban đầu là xây dựng một kênh trực tuyến phát 24 giờ, với bốn giờ chương trình gốc mỗi ngày (phát lại sáu lần) và một bản tin hằng ngày."
+   },
+   {
+    "match_en": "The channel currently features 90 minutes of programming daily, with one weekly news bulletin, and three waged employees instead of the intended ten.",
+    "vi": "Hiện kênh phát 90 phút chương trình mỗi ngày, có một bản tin hằng tuần và ba nhân viên hưởng lương thay vì mười người như kế hoạch."
    }
   ]
  },
@@ -797,6 +811,579 @@
    {
     "match_en": "Statehood Day is not the same as Slovenia's Independence and Unity Day.",
     "vi": "Ngày Quốc khánh không phải là Ngày Độc lập và Thống nhất của Slovenia."
+   }
+  ]
+ },
+ {
+  "id": "wiki-hiking",
+  "sentences": [
+   {
+    "match_en": "Hikers (the people who do hiking) enjoy fresh air and the beauty of nature, and learn about the place.",
+    "vi": "Người đi bộ đường dài được tận hưởng không khí trong lành, vẻ đẹp thiên nhiên và tìm hiểu về vùng đất họ đi qua."
+   }
+  ]
+ },
+ {
+  "id": "wiki-hitchhiking",
+  "sentences": [
+   {
+    "match_en": "Hitchhiking is a way to end travel from place to place in someone else's vehicle..",
+    "en": "Hitchhiking is a way to travel from place to place in someone else's vehicle.",
+    "vi": "Đi nhờ xe là cách di chuyển từ nơi này đến nơi khác bằng phương tiện của người khác."
+   },
+   {
+    "match_en": "Usually, a hitchhiker (a person who hitchhikes) will stand at the side of a road and hold his or her thumb in the air waiting for a passing driver to stop and pick them up.",
+    "vi": "Thông thường, người đi nhờ xe đứng bên đường, giơ ngón tay cái và chờ một tài xế đi ngang dừng lại cho đi cùng."
+   },
+   {
+    "match_en": "It was a very common way of traveling in Europe in the 1970s until increased vehicle ownership/affordability..",
+    "en": "It was a common way of travelling in Europe in the 1970s, before vehicle ownership became more affordable.",
+    "vi": "Đây từng là cách đi lại phổ biến ở châu Âu trong thập niên 1970, trước khi việc sở hữu phương tiện trở nên dễ chi trả hơn."
+   },
+   {
+    "match_en": "Fears of drivers and hitchhikers alike as depicted in popular culture and media and likely have also contributed to its decline.",
+    "en": "Fears among both drivers and hitchhikers, often reinforced by popular culture and the media, have also likely contributed to its decline.",
+    "vi": "Nỗi lo của cả tài xế lẫn người đi nhờ xe, thường được củng cố bởi văn hóa đại chúng và truyền thông, có lẽ cũng khiến hình thức này suy giảm."
+   }
+  ]
+ },
+ {
+  "id": "wiki-broccoli",
+  "sentences": [
+   {
+    "match_en": "Purple cauliflower (violet cauliflower) is also a type of broccoli grown in North America and Europe.",
+    "vi": "Súp lơ tím cũng là một dạng bông cải xanh được trồng ở Bắc Mỹ và châu Âu."
+   },
+   {
+    "match_en": "When it is not harvested in the right time, it will turn into a head of yellow flowers.",
+    "en": "When it is not harvested at the right time, it will turn into a head of yellow flowers.",
+    "vi": "Nếu không được thu hoạch đúng lúc, phần đầu bông cải sẽ nở thành một cụm hoa màu vàng."
+   },
+   {
+    "match_en": "The plant was from a cabbage by a Mediterranean civilization called Etruscan.",
+    "vi": "Bông cải xanh được người Etruscan ở vùng Địa Trung Hải phát triển từ một loại bắp cải."
+   },
+   {
+    "match_en": "Broccoli’s name comes from the word \"broccolo\" in Italian language and the Latin word \"brachium\".",
+    "vi": "Tên broccoli bắt nguồn từ \"broccolo\" trong tiếng Ý và \"brachium\" trong tiếng Latin."
+   }
+  ]
+ },
+ {
+  "id": "wiki-boxer-briefs",
+  "sentences": [
+   {
+    "match_en": "They are tight like briefs but still have long legs like boxer shorts.",
+    "vi": "Loại quần này ôm sát như quần brief nhưng có ống dài như quần boxer."
+   },
+   {
+    "match_en": "They are sometimes called retropants, retros or retro shorts.",
+    "vi": "Chúng đôi khi được gọi là retropants, retros hoặc retro shorts."
+   },
+   {
+    "match_en": "They are fashionable men's underwear that, unlike boxer shorts, are not cut wide, but rather fit snugly on the skin.",
+    "vi": "Đây là loại đồ lót nam ôm sát cơ thể, khác với quần boxer có dáng rộng."
+   },
+   {
+    "match_en": "That keeps the penis and testicles from moving and bouncing a lot, which some men find uncomfortable.",
+    "vi": "Thiết kế này giúp nâng đỡ bộ phận sinh dục và hạn chế chuyển động gây khó chịu cho một số người."
+   },
+   {
+    "match_en": "Boxer briefs reversed the trend from the 1960s through the 1980s in which the popular cuts (styles) of underwear and swimwear became smaller and smaller, especially for teenagers and younger men.",
+    "vi": "Quần boxer brief đảo ngược xu hướng từ thập niên 1960 đến 1980, khi kiểu dáng đồ lót và đồ bơi phổ biến ngày càng nhỏ, đặc biệt trong giới thiếu niên và nam giới trẻ."
+   },
+   {
+    "match_en": "Others just have an elastic waistband and can be pulled on or off like briefs.",
+    "vi": "Một số loại chỉ có cạp chun và được mặc hoặc cởi giống quần brief."
+   },
+   {
+    "match_en": "The waistband is often a separate piece of elastic and is sometimes in a color.",
+    "vi": "Cạp quần thường là một dải chun riêng và đôi khi có màu khác với thân quần."
+   },
+   {
+    "match_en": "Some boxer briefs have elastic at the end of the legs, and stitching across the bottom.",
+    "vi": "Một số quần boxer brief có chun ở cuối ống và đường may ngang phía dưới."
+   },
+   {
+    "match_en": "Waistband elastics with the brand name in large letters are sometimes worn with pants (trousers) hanging lower on the hips than the elastic so that the brand name is showing.",
+    "vi": "Loại cạp chun in tên thương hiệu bằng chữ lớn đôi khi được mặc với quần dài trễ hơn cạp đồ lót để lộ tên thương hiệu."
+   },
+   {
+    "match_en": "Pants (trousers) that hang lower on the hips than the underwear elastic are called saggers and the style is called sagging or, in some countries, \"low-riding\".",
+    "vi": "Kiểu mặc quần dài thấp hơn cạp đồ lót được gọi là sagging, hay “low-riding” ở một số quốc gia."
+   },
+   {
+    "match_en": "Having the elastic showing was a style some boys, teenagers and young men liked.",
+    "vi": "Để lộ cạp chun từng là phong cách được một số thiếu niên và nam giới trẻ yêu thích."
+   }
+  ]
+ },
+ {
+  "id": "news-caloundra-defeat-maroochydore-in-third-r",
+  "sentences": [
+   {
+    "match_en": "\"We made a lot of ground on where we were [in the] last couple of weeks. [...] Set piece and breakdown, they've been the two missing pieces [in the] last couple of weeks.",
+    "vi": "\"Chúng tôi đã tiến bộ rất nhiều so với vài tuần trước. […] Các tình huống cố định và tranh chấp bóng sau pha tắc là hai mắt xích còn thiếu trong vài tuần qua."
+   },
+   {
+    "match_en": "We got away with it against Uni [in round 1] but [against] Noosa [in round 2], we didn't.",
+    "vi": "Chúng tôi vẫn vượt qua được Uni [ở vòng 1], nhưng trước Noosa [ở vòng 2] thì không."
+   },
+   {
+    "match_en": "They beat us well.",
+    "vi": "Họ đã đánh bại chúng tôi một cách thuyết phục."
+   },
+   {
+    "match_en": "It was probably a set piece was the weak point against Uni, and then [the] breakdown was the issue against Noosa.",
+    "en": "Set pieces were probably our weak point against Uni, and then the breakdown was the issue against Noosa.",
+    "vi": "Các tình huống cố định có lẽ là điểm yếu của chúng tôi trước Uni, còn trước Noosa thì vấn đề nằm ở khâu tranh chấp bóng sau pha tắc."
+   },
+   {
+    "match_en": "They were good good couple of early lessons and we made big ground on that gap today.\" Maroochydore captain Sam Marshall lamented his side's close loss.",
+    "en": "They were a good couple of early lessons, and we made big ground on that gap today.\" Maroochydore captain Sam Marshall lamented his side's close loss.",
+    "vi": "Đó là hai bài học hữu ích ban đầu và hôm nay chúng tôi đã thu hẹp đáng kể khoảng cách ấy.\" Đội trưởng Sam Marshall của Maroochydore tiếc nuối về trận thua sít sao của đội mình."
+   },
+   {
+    "match_en": "\"A couple of yellows [and] disciplines. [...] We're training really well together, as a unit we're gelling.",
+    "vi": "\"Một vài thẻ vàng và vấn đề kỷ luật. […] Chúng tôi tập luyện rất tốt cùng nhau và đang ngày càng phối hợp ăn ý như một tập thể."
+   },
+   {
+    "match_en": "But there's a lazy high shot from Kauri at the end which was a fair yellow, the other one probably not.\"",
+    "vi": "Nhưng cuối trận Kauri có một pha vào bóng cao thiếu cẩn trọng, xứng đáng nhận thẻ vàng; thẻ còn lại thì có lẽ không.\""
+   }
+  ]
+ },
+ {
+  "id": "wiki-cyworld",
+  "sentences": [
+   {
+    "match_en": "The first meaning is simply short for \"cyber world\" and the second meaning is \"사이(Korean word for relationship) world.\" In Cyworld, making the raltionship as friends is called \"being 1chon\". 1chon means very very close relative like family in Korea.",
+    "en": "The first meaning is simply short for \"cyber world\"; the second combines 사이, the Korean word for relationship, with \"world\". In Cyworld, becoming friends is called \"being 1chon\"; in Korea, 1chon means a very close relative, like immediate family.",
+    "vi": "Nghĩa thứ nhất đơn giản là dạng rút gọn của \"cyber world\"; nghĩa thứ hai kết hợp 사이, từ tiếng Hàn chỉ mối quan hệ, với \"world\". Trên Cyworld, việc kết bạn được gọi là \"trở thành 1chon\"; tại Hàn Quốc, 1chon chỉ người họ hàng rất gần như thành viên gia đình trực hệ."
+   },
+   {
+    "match_en": "The users can easily update pictures, videos clips, and blogs and share them with other users through what is called \"minihompy.\" It is similar to that of Facebook or Myspace in U.S.",
+    "en": "Users can easily update pictures, video clips, and blogs and share them with other users through what is called a \"minihompy\". It is similar to Facebook or Myspace in the U.S.",
+    "vi": "Người dùng có thể dễ dàng cập nhật ảnh, video và blog rồi chia sẻ với người khác thông qua trang gọi là \"minihompy\". Tính năng này tương tự Facebook hoặc Myspace ở Hoa Kỳ."
+   },
+   {
+    "match_en": "The statistics shows that there are about 22,000,000 users in South Korea, which is about the half of the population of South Korea.",
+    "en": "Statistics show that there are about 22 million users in South Korea, which is about half of the country's population.",
+    "vi": "Số liệu cho thấy Cyworld có khoảng 22 triệu người dùng ở Hàn Quốc, tương đương khoảng một nửa dân số nước này."
+   },
+   {
+    "match_en": "Although it is mainly used by Koreans, the SK communications has expanded the cyworld services into other countries, such as China, Japan, Vietnam, and U.S.A starting on 2005.",
+    "en": "Although it is mainly used by Koreans, SK Communications expanded Cyworld into other countries, such as China, Japan, Vietnam, and the U.S., starting in 2005.",
+    "vi": "Mặc dù chủ yếu được người Hàn Quốc sử dụng, từ năm 2005 SK Communications đã mở rộng Cyworld sang các nước khác như Trung Quốc, Nhật Bản, Việt Nam và Hoa Kỳ."
+   }
+  ]
+ },
+ {
+  "id": "news-oil-spilled-after-ships-collide-in-singa",
+  "sentences": [
+   {
+    "match_en": "The tanker received an estimated ten meter gash on its left side, while the bulk ship sustained only minor damage.",
+    "vi": "Tàu chở dầu bị một vết rách dài khoảng 10 mét ở mạn trái, còn tàu chở hàng rời chỉ bị hư hại nhẹ."
+   },
+   {
+    "match_en": "The oil slick has moved north, and is now now encompassing an estimated four square kilometers around six kilometers south of Singapore.",
+    "en": "The oil slick has moved north and now covers an estimated four square kilometers, around six kilometers south of Singapore.",
+    "vi": "Vết dầu loang đã di chuyển về phía bắc và hiện bao phủ khoảng 4 km², ở vị trí cách Singapore chừng 6 km về phía nam."
+   },
+   {
+    "match_en": "Both containment booms and chemical dispersants are being used to clean up the oil.",
+    "vi": "Phao quây dầu và chất phân tán hóa học đều đang được sử dụng để xử lý sự cố."
+   },
+   {
+    "match_en": "The spill is not expected to have any major effects on shipping; Victor Shum, an official from a consulting firm in Singapore, said that \"[i]f it is contained within an oil retaining booms, it may not disrupt shipping traffic.",
+    "en": "The spill is not expected to have any major effects on shipping; Victor Shum, an official from a consulting firm in Singapore, said that \"if it is contained within oil-retaining booms, it may not disrupt shipping traffic.\"",
+    "vi": "Sự cố tràn dầu được dự báo không ảnh hưởng lớn đến hoạt động hàng hải. Victor Shum, đại diện một công ty tư vấn tại Singapore, cho biết: \"Nếu được giữ trong hệ thống phao quây dầu, nó có thể không làm gián đoạn giao thông hàng hải.\""
+   }
+  ]
+ },
+ {
+  "id": "news-polish-drug-company-jelfa-ordered-to-shu",
+  "sentences": [
+   {
+    "match_en": "The Polish Outlook reports that that drug companies in Poland were operating unregulated since December, 2005 as the regulations has expired.",
+    "en": "The Polish Outlook reports that drug companies in Poland had been operating without regulation since December 2005 because the regulations had expired.",
+    "vi": "The Polish Outlook đưa tin các công ty dược phẩm tại Ba Lan đã hoạt động mà không chịu sự quản lý kể từ tháng 12 năm 2005 vì các quy định đã hết hiệu lực."
+   },
+   {
+    "match_en": "The shut-down has been questioned by the Lithuanian Prime Minister Gediminas Kirkilas, who expressed concern over the situation and said that he wants to try to settle the issue diplomatically.",
+    "vi": "Thủ tướng Litva Gediminas Kirkilas đặt câu hỏi về quyết định đóng cửa, bày tỏ lo ngại trước tình hình và cho biết muốn giải quyết vấn đề bằng con đường ngoại giao."
+   }
+  ]
+ },
+ {
+  "id": "wiki-technological-singularity",
+  "sentences": [
+   {
+    "match_en": "Possible effects of such a singularity can include Human extinction or enslavement Mass unemployment, starvation, etc. A post-scarcity system Cybernetic immortality Mind uploading Etc.",
+    "en": "Possible effects of such a singularity could include human extinction or enslavement; mass unemployment and starvation; a post-scarcity society; cybernetic immortality; and mind uploading.",
+    "vi": "Những hệ quả có thể xảy ra gồm loài người tuyệt chủng hoặc bị nô dịch; thất nghiệp hàng loạt và nạn đói; một xã hội không còn khan hiếm; sự bất tử nhờ công nghệ điều khiển học; và việc tải ý thức lên máy tính."
+   }
+  ]
+ },
+ {
+  "id": "wiki-hardback",
+  "sentences": [
+   {
+    "match_en": "A hardback, hardcover, or hardbound book is one with stiff covers.",
+    "vi": "Hardback, hardcover hoặc hardbound đều là tên gọi của sách có bìa cứng."
+   },
+   {
+    "match_en": "It should have a flexible, sewn spine which allows the book to lie flat on a surface when opened.",
+    "vi": "Sách thường có gáy khâu linh hoạt, cho phép các trang nằm phẳng khi mở."
+   },
+   {
+    "match_en": "Less good is a glued spine, because the glue gets worse with time.",
+    "vi": "Gáy dán keo kém bền hơn vì keo xuống cấp theo thời gian."
+   },
+   {
+    "match_en": "Hardbacks may have artistic dust jackets, or designs printed right on the board binding.",
+    "vi": "Sách bìa cứng có thể có áo bìa trang trí hoặc hình thiết kế được in trực tiếp lên bìa."
+   }
+  ]
+ },
+ {
+  "id": "wiki-google-glass",
+  "sentences": [
+   {
+    "match_en": "Google Glass (styled as Google GLΛSS) was a wearable computer that was developed by Google.",
+    "vi": "Google Glass (cách điệu là Google GLΛSS) là một thiết bị máy tính đeo được do Google phát triển."
+   },
+   {
+    "match_en": "It was worn on a person's head, with a screen sitting in front of the eyes that displayed information like a smartphone.",
+    "vi": "Thiết bị được đeo trên đầu, với một màn hình trước mắt hiển thị thông tin tương tự điện thoại thông minh."
+   },
+   {
+    "match_en": "It was instructed through natural language voice commands.",
+    "vi": "Người dùng điều khiển thiết bị bằng các lệnh thoại ngôn ngữ tự nhiên."
+   },
+   {
+    "match_en": "The plan was to make them attached to regular eyeglasses and sunglasses.",
+    "vi": "Kế hoạch là tích hợp thiết bị vào kính thuốc và kính râm thông thường."
+   }
+  ]
+ },
+ {
+  "id": "wiki-green-revolution",
+  "sentences": [
+   {
+    "match_en": "The Green Revolution was a spread of food security technology by Norman Borlaug, who earned the Nobel Peace Prize in 1970.",
+    "vi": "Cách mạng Xanh là quá trình phổ biến các công nghệ giúp tăng cường an ninh lương thực, gắn liền với Norman Borlaug, người nhận Giải Nobel Hòa bình năm 1970."
+   },
+   {
+    "match_en": "It was done by the creation of different types of cereal grains which grew more food than average.",
+    "en": "It involved creating cereal varieties that produced higher-than-average yields.",
+    "vi": "Quá trình này bao gồm việc tạo ra các giống ngũ cốc có năng suất cao hơn mức trung bình."
+   },
+   {
+    "match_en": "Food management was made more modern.",
+    "en": "Agricultural management became more modern.",
+    "vi": "Phương thức quản lý nông nghiệp cũng trở nên hiện đại hơn."
+   }
+  ]
+ },
+ {
+  "id": "wiki-humus",
+  "sentences": [
+   {
+    "match_en": "Humus (or humous) is the organic matter in the soil.",
+    "vi": "Humus (cũng viết là humous), hay mùn, là chất hữu cơ trong đất."
+   },
+   {
+    "match_en": "It is made of dead parts of plants and animals.",
+    "vi": "Mùn được tạo thành từ phần còn lại của thực vật và động vật đã chết."
+   },
+   {
+    "match_en": "When plants and insects die they are first raw organic matter.",
+    "vi": "Khi thực vật và côn trùng chết, xác của chúng trở thành chất hữu cơ thô."
+   },
+   {
+    "match_en": "They leave a small amount behind.",
+    "vi": "Vi khuẩn và nấm để lại một lượng nhỏ vật chất chưa phân hủy hết."
+   },
+   {
+    "match_en": "The part they leave behind is named \"humus\".",
+    "vi": "Phần còn lại đó được gọi là humus, hay mùn."
+   },
+   {
+    "match_en": "This activity is dynamic and keeps happening.",
+    "vi": "Quá trình này diễn ra liên tục."
+   },
+   {
+    "match_en": "There is always more dead material arriving on top.",
+    "vi": "Vật chất hữu cơ mới liên tục tích tụ trên bề mặt đất."
+   },
+   {
+    "match_en": "In agriculture, \"humus\" usually means mature compost, or some taken naturally from a forest, where it may have lived for many years.",
+    "vi": "Trong nông nghiệp, “humus” thường chỉ phân ủ đã hoai mục hoặc lớp mùn tự nhiên lấy từ rừng, nơi nó có thể tích tụ qua nhiều năm."
+   }
+  ]
+ },
+ {
+  "id": "wiki-cron",
+  "sentences": [
+   {
+    "match_en": "The name of the cron computer program is from the word cron, which is from the Greek word for time, χρόνος (chronos).",
+    "vi": "Tên chương trình cron bắt nguồn từ χρόνος (chronos), từ tiếng Hy Lạp có nghĩa là thời gian."
+   }
+  ]
+ },
+ {
+  "id": "wiki-local-community",
+  "sentences": [
+   {
+    "match_en": "A local community is a group of people living in a same location.",
+    "en": "A local community is a group of people living in the same location.",
+    "vi": "Cộng đồng địa phương là một nhóm người sống tại cùng một khu vực."
+   },
+   {
+    "match_en": "The group has common and shared values.",
+    "vi": "Các thành viên trong nhóm có những giá trị chung."
+   },
+   {
+    "match_en": "The groups are larger than a household.",
+    "en": "Such groups are larger than a household.",
+    "vi": "Những nhóm như vậy có quy mô lớn hơn một hộ gia đình."
+   },
+   {
+    "match_en": "The word \"community\" is comes from the Old French word \"communité\".",
+    "en": "The word \"community\" comes from the Old French word \"communité\".",
+    "vi": "Từ “community” bắt nguồn từ từ “communité” trong tiếng Pháp cổ."
+   },
+   {
+    "match_en": "This came from the Latin word \"communitas\" (cum, \"with/together\" + munus, \"gift\"), a broad term for fellowship or organized society.",
+    "vi": "Từ này bắt nguồn từ tiếng Latin “communitas” (cum, nghĩa là “cùng nhau”, và munus, nghĩa là “món quà”), một thuật ngữ rộng chỉ tình bằng hữu hoặc xã hội có tổ chức."
+   }
+  ]
+ },
+ {
+  "id": "wiki-kurukshetra",
+  "sentences": [
+   {
+    "match_en": "Kurukshetra () is a city in the state of Haryana, India.",
+    "en": "Kurukshetra is a city in the state of Haryana, India.",
+    "vi": "Kurukshetra là một thành phố thuộc bang Haryana, Ấn Độ."
+   },
+   {
+    "match_en": "This is the place where Mahabharata war was fought.",
+    "en": "This is the place where the Mahabharata War was fought.",
+    "vi": "Đây là nơi diễn ra cuộc chiến trong sử thi Mahabharata."
+   },
+   {
+    "match_en": "Also, the Bhagavad Gita was explained there during the war when Lord Krishna found Arjuna in a difficult situation.",
+    "en": "During the war, Lord Krishna delivered the teachings of the Bhagavad Gita there when Arjuna faced a difficult situation.",
+    "vi": "Trong cuộc chiến, khi Arjuna lâm vào tình thế khó khăn, thần Krishna đã truyền giảng Bhagavad Gita tại đây."
+   },
+   {
+    "match_en": "Thanesar derives its name from the word \"Sthaneshwar\", which means \"Place of God\".",
+    "vi": "Tên Thanesar bắt nguồn từ “Sthaneshwar”, có nghĩa là “Nơi của Thượng đế”."
+   },
+   {
+    "match_en": "The boundaries of Kurukshetra lies to the central and western parts of state of Haryana and southern Punjab.",
+    "en": "The boundaries of Kurukshetra extend through the central and western parts of Haryana and southern Punjab.",
+    "vi": "Ranh giới của vùng Kurukshetra trải qua phần trung tâm và phía tây bang Haryana cùng miền nam Punjab."
+   }
+  ]
+ },
+ {
+  "id": "news-italian-chocolatemaker-ferrero-rules-out",
+  "sentences": [
+   {
+    "match_en": "Italian chocolatemaker Ferrero has ruled out making a bid to purchase United Kingdom confectioners Cadbury.",
+    "vi": "Nhà sản xuất sô-cô-la Ý Ferrero tuyên bố không đưa ra đề nghị mua hãng bánh kẹo Cadbury của Anh."
+   },
+   {
+    "match_en": "The move comes after Cadbury's board recommended accepting a takeover bid by United States firm Kraft that valued the company at £11.9 billion sterling.",
+    "vi": "Động thái này diễn ra sau khi hội đồng quản trị Cadbury đề nghị chấp nhận lời chào mua từ công ty Kraft của Mỹ, định giá Cadbury ở mức 11,9 tỷ bảng Anh."
+   },
+   {
+    "match_en": "However, on Friday Hershey decided not to attempt to purchase Cadbury, who are most famous for Dairy Milk chocolates.",
+    "vi": "Tuy nhiên, hôm thứ Sáu Hershey quyết định không tìm cách mua Cadbury, hãng nổi tiếng nhất với dòng sô-cô-la Dairy Milk."
+   },
+   {
+    "match_en": "Both companies had been given yesterday as their deadline to declare their intentions regarding their British rival.",
+    "vi": "Hôm qua là hạn chót để cả hai công ty công bố ý định đối với đối thủ Anh."
+   },
+   {
+    "match_en": "Kraft now seem likely to achieve their aim of buying up the confectioner, after four months of negotiations and an offer that was increased twice.",
+    "vi": "Sau bốn tháng đàm phán và hai lần nâng giá chào mua, Kraft hiện có vẻ sắp đạt mục tiêu thâu tóm hãng bánh kẹo này."
+   },
+   {
+    "match_en": "Italian newspaper Il Sole 24 said Ferrero had backed out because of the amount of debt they would need to take on and a perceived requirement for job cuts.",
+    "vi": "Báo Ý Il Sole 24 cho biết Ferrero rút lui vì khoản nợ phải gánh và khả năng phải cắt giảm việc làm."
+   },
+   {
+    "match_en": "However, if some investors accept extra Kraft shares then up to 799p.",
+    "en": "However, if some investors accept extra Kraft shares, the offer could rise to 799p.",
+    "vi": "Tuy nhiên, nếu một số nhà đầu tư nhận thêm cổ phiếu Kraft, mức chào mua có thể tăng lên 799 xu."
+   },
+   {
+    "match_en": "The deal gives Cadbury a total value of 837p, down from the 850p orignally offered due to fluctuations in the exchange rate between the United States dollar and the pound sterling.",
+    "en": "The deal gives Cadbury a total value of 837p per share, down from the 850p originally offered due to fluctuations in the exchange rate between the United States dollar and the pound sterling.",
+    "vi": "Thỏa thuận định giá mỗi cổ phiếu Cadbury ở mức 837 xu, giảm từ mức chào mua ban đầu 850 xu do biến động tỷ giá giữa đô la Mỹ và bảng Anh."
+   },
+   {
+    "match_en": "If they accept, Cadbury will cease to be an independant company, which it has been since it was founded in 1824.",
+    "en": "If they accept, Cadbury will cease to be an independent company, a status it has held since it was founded in 1824.",
+    "vi": "Nếu các cổ đông chấp nhận, Cadbury sẽ không còn là công ty độc lập như từ khi được thành lập năm 1824."
+   }
+  ]
+ },
+ {
+  "id": "wiki-morality-and-religion",
+  "sentences": [
+   {
+    "match_en": "Most civilizations also have a moral code that that group of people find acceptable.",
+    "en": "Most civilizations also have a moral code that their people find acceptable.",
+    "vi": "Phần lớn các nền văn minh cũng có một bộ quy tắc đạo đức được cộng đồng của họ chấp nhận."
+   }
+  ]
+ },
+ {
+  "id": "wiki-bubble-tea",
+  "sentences": [
+   {
+    "match_en": "But after a bubble tea maker was interviewed on a Japanese TV program, it became popular among people of all ages.",
+    "vi": "Sau khi một người làm trà sữa được phỏng vấn trên chương trình truyền hình Nhật Bản, thức uống này trở nên phổ biến với mọi lứa tuổi."
+   }
+  ]
+ },
+ {
+  "id": "wiki-cheongyang-chili-pepper",
+  "sentences": [
+   {
+    "match_en": "It was developed by Dr.Il-ung Yoo in 1983.",
+    "en": "It was developed by Dr. Il-ung Yoo in 1983."
+   }
+  ]
+ },
+ {
+  "id": "wiki-institute-for-advanced-technology-in-the",
+  "sentences": [
+   {
+    "match_en": "It specializes in the use of Information technology in the humanities.The institute was founded in 1992 with money donated by IBM.",
+    "en": "It specializes in the use of information technology in the humanities. The institute was founded in 1992 with money donated by IBM.",
+    "vi": "Viện chuyên ứng dụng công nghệ thông tin trong lĩnh vực nhân văn. Viện được thành lập năm 1992 bằng nguồn tài trợ của IBM."
+   }
+  ]
+ },
+ {
+  "id": "wiki-coca-cola",
+  "sentences": [
+   {
+    "match_en": "Coca-Cola was first made in Columbus, Georgia.The company's headquarters are in Atlanta, Georgia.",
+    "en": "Coca-Cola was first made in Columbus, Georgia. The company's headquarters are in Atlanta, Georgia."
+   }
+  ]
+ },
+ {
+  "id": "wiki-digital-enhanced-cordless-telecommunicat",
+  "sentences": [
+   {
+    "match_en": "In the United States, the band is 1920-1930 MHz.To be sold in the US, only small changes need to be made to DECT equipment.",
+    "en": "In the United States, the band is 1920–1930 MHz. To be sold in the U.S., only small changes need to be made to DECT equipment."
+   }
+  ]
+ },
+ {
+  "id": "wiki-human-eye",
+  "sentences": [
+   {
+    "match_en": "As a conscious sense organ the human eye allows vision; rod and cone cells in the retina allow conscious light perception and vision, including color differentiation and the perception of depth.The eye receives oxygen through the aqueous.",
+    "en": "As a conscious sense organ, the human eye enables vision. Rod and cone cells in the retina allow light perception, color differentiation, and depth perception. The eye receives oxygen through the aqueous humor.",
+    "vi": "Là một cơ quan cảm giác, mắt người tạo ra thị giác. Các tế bào hình que và hình nón trong võng mạc giúp cảm nhận ánh sáng, phân biệt màu sắc và nhận biết chiều sâu. Mắt nhận oxy qua thủy dịch."
+   }
+  ]
+ },
+ {
+  "id": "wiki-korean-new-year",
+  "sentences": [
+   {
+    "match_en": "Korean New Year (Hangul: 설날; RR: Seollal; MR: Sŏllal) is the first day of the Chinese lunisolar calendar.It is one of the most important traditional Korean holidays which orginated from China.",
+    "en": "Korean New Year (Hangul: 설날; RR: Seollal; MR: Sŏllal) is the first day of the traditional Korean lunisolar calendar. It is one of the most important traditional Korean holidays and has historical roots in China.",
+    "vi": "Tết Hàn Quốc (Hangul: 설날; RR: Seollal; MR: Sŏllal) là ngày đầu tiên của âm dương lịch truyền thống Hàn Quốc. Đây là một trong những ngày lễ truyền thống quan trọng nhất của Hàn Quốc và có nguồn gốc lịch sử từ Trung Quốc."
+   }
+  ]
+ },
+ {
+  "id": "news-zimbabwe-government-allocates-us-10-mill",
+  "sentences": [
+   {
+    "match_en": "Murisi Zwizwai, the Deputy Mines Minister, said that the funds would be used to build houses for the residents in the area, and for developments in the area.",
+    "vi": "Thứ trưởng Bộ Mỏ Murisi Zwizwai cho biết số tiền sẽ được dùng để xây nhà cho người dân và phát triển khu vực."
+   }
+  ]
+ },
+ {
+  "id": "wiki-the-three-investigators",
+  "sentences": [
+   {
+    "match_en": "It was created by Robert Arthur, Jr..",
+    "en": "It was created by Robert Arthur Jr."
+   }
+  ]
+ },
+ {
+  "id": "wiki-alpha-amylase",
+  "sentences": [
+   {
+    "match_en": "That shows how important the gene became to humans in their relatively recent evolution..",
+    "en": "That shows how important the gene became to humans in their relatively recent evolution."
+   }
+  ]
+ },
+ {
+  "id": "news-dollar-reaches-record-low-after-us-consu",
+  "sentences": [
+   {
+    "match_en": "The U.S. Dollar fell to an all time low against the Euro after data from the U.S. heightened concerns regarding an economic recession.",
+    "en": "The U.S. dollar fell to an all-time low against the euro after data from the U.S. heightened concerns about an economic recession.",
+    "vi": "Đồng đô la Mỹ giảm xuống mức thấp nhất từ trước đến nay so với đồng euro sau khi dữ liệu từ Hoa Kỳ làm gia tăng lo ngại về suy thoái kinh tế."
+   }
+  ]
+ },
+ {
+  "id": "news-u-s-tariffs-on-chinese-solar-panels-to-b",
+  "sentences": [
+   {
+    "match_en": "In early January, U.S. Customs officials reportedly informed the company that the solar panels contained electronic devices that place the panels in the electric generator import category which is subject to a 2.5% import tariff.",
+    "vi": "Đầu tháng 1, các quan chức Hải quan Hoa Kỳ được cho là đã thông báo với công ty rằng các tấm pin chứa thiết bị điện tử, khiến chúng được xếp vào nhóm máy phát điện nhập khẩu và chịu thuế suất 2,5%."
+   }
+  ]
+ },
+ {
+  "id": "news-us-department-of-justice-investigating-f",
+  "sentences": [
+   {
+    "match_en": "Ford said in a financial filing to the U.S. Securities and Exchange Commission that the criminal investigation started on some unspecified date after Ford voluntarily disclosed the matter to the federal government on February 21.",
+    "vi": "Trong hồ sơ tài chính gửi Ủy ban Chứng khoán và Giao dịch Hoa Kỳ, Ford cho biết cuộc điều tra hình sự bắt đầu vào một ngày không được nêu rõ, sau khi hãng tự nguyện báo cáo vấn đề với chính phủ liên bang vào ngày 21 tháng 2."
+   },
+   {
+    "match_en": "According to the filing, Ford voluntarily disclosed this matter to the U.S. Environmental Protection Agency on February 18, and also to the California Air Resources Board on February 21.",
+    "vi": "Theo hồ sơ, Ford tự nguyện báo cáo vấn đề với Cơ quan Bảo vệ Môi trường Hoa Kỳ vào ngày 18 tháng 2 và với Ủy ban Tài nguyên Không khí California vào ngày 21 tháng 2."
+   }
+  ]
+ },
+ {
+  "id": "news-u-s-army-revives-next-generation-ground-",
+  "sentences": [
+   {
+    "match_en": "On Tuesday the U.S. Army released its revised solicitation for the Ground Combat Vehicle infantry fighting vehicle three months after scrapping its previous plans.",
+    "vi": "Hôm thứ Ba, Quân đội Hoa Kỳ công bố bản mời thầu sửa đổi cho chương trình xe chiến đấu bộ binh Ground Combat Vehicle, ba tháng sau khi hủy kế hoạch trước đó."
+   }
+  ]
+ },
+ {
+  "id": "news-u-s-congressman-jason-altmire-comes-out-",
+  "sentences": [
+   {
+    "match_en": "U.S. Congressman Jason Altmire came out against SOPA yesterday evening at meeting with constituents in Monaca, Pennsylvania.",
+    "en": "U.S. Congressman Jason Altmire came out against SOPA yesterday evening at a meeting with constituents in Monaca, Pennsylvania.",
+    "vi": "Tối qua, Hạ nghị sĩ Hoa Kỳ Jason Altmire tuyên bố phản đối SOPA tại một cuộc gặp cử tri ở Monaca, Pennsylvania."
    }
   ]
  }
