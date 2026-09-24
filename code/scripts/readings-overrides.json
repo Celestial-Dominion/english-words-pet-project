@@ -287,6 +287,25 @@
   "id": "wiki-xsp-software",
   "sentences": [
    {
+    "match_en": "It hosts ASP.NET's System for Linux and other Unix operating systems.",
+    "en": "It hosts the ASP.NET system on Linux and other Unix operating systems.",
+    "vi": "XSP dùng để chạy các ứng dụng ASP.NET trên Linux và các hệ điều hành Unix khác."
+   },
+   {
+    "match_en": "As well as running on the mono runtime for Linux it also runs on the .NET runtime.",
+    "en": "Besides running on the Mono runtime for Linux, it also runs on the .NET runtime.",
+    "vi": "Ngoài môi trường thực thi Mono trên Linux, XSP còn chạy trên môi trường thực thi .NET."
+   },
+   {
+    "match_en": "This makes it usable as a light weight web server on any .NET supporting platform.",
+    "en": "This makes it usable as a lightweight web server on any platform that supports .NET.",
+    "vi": "Nhờ vậy, XSP có thể hoạt động như một máy chủ web gọn nhẹ trên mọi nền tảng hỗ trợ .NET."
+   },
+   {
+    "match_en": "XSP was originally the name of the internal project at Microsoft that became ASP.NET.",
+    "vi": "XSP ban đầu là tên dự án nội bộ của Microsoft, sau này phát triển thành ASP.NET."
+   },
+   {
     "match_en": "The name is a homage to the original name of what became ASP.NET XSP is also a term for the eXtensible Server Pages technology in Apache Cocoon.",
     "en": "The name pays homage to the original name of what became ASP.NET. XSP is also a term for the eXtensible Server Pages technology in Apache Cocoon.",
     "vi": "Tên gọi này nhằm tri ân tên ban đầu của công nghệ sau này trở thành ASP.NET. XSP cũng là thuật ngữ chỉ công nghệ eXtensible Server Pages trong Apache Cocoon."
@@ -1323,7 +1342,8 @@
   "sentences": [
    {
     "match_en": "It was created by Robert Arthur, Jr..",
-    "en": "It was created by Robert Arthur Jr."
+    "en": "It was created by Robert Arthur Jr.",
+    "vi": "Bộ truyện do Robert Arthur Jr. sáng tạo."
    }
   ]
  },
@@ -1332,7 +1352,8 @@
   "sentences": [
    {
     "match_en": "That shows how important the gene became to humans in their relatively recent evolution..",
-    "en": "That shows how important the gene became to humans in their relatively recent evolution."
+    "en": "That shows how important the gene became to humans in their relatively recent evolution.",
+    "vi": "Điều đó cho thấy gen này đã trở nên quan trọng như thế nào trong quá trình tiến hóa tương đối gần đây của loài người."
    }
   ]
  },
@@ -1674,6 +1695,324 @@
     "match_en": "To create new or publish post, there will be three mouse-clicks: to create File → New... → New Blog Post); to publish File → Publish → Blog.",
     "en": "Creating or publishing a post will take three mouse clicks: File → New → New Blog Post to create one, or File → Publish → Blog to publish it.",
     "vi": "Việc tạo hoặc xuất bản bài viết sẽ cần ba lần nhấp chuột: chọn File → New → New Blog Post để tạo bài, hoặc File → Publish → Blog để xuất bản."
+   }
+  ]
+ },
+ {
+  "id": "news-gm-chrysler-offer-buyouts-and-early-reti",
+  "sentences": [
+   {
+    "match_en": "General Motors NYSE: GM (GM) and Chrysler have both begun to offer layoff packages to their workforces.",
+    "en": "General Motors (NYSE: GM) and Chrysler have both begun to offer buyout and early-retirement packages to their workforces.",
+    "vi": "General Motors (NYSE: GM) và Chrysler đều bắt đầu đề nghị các gói hỗ trợ tự nguyện nghỉ việc hoặc nghỉ hưu sớm cho nhân viên."
+   },
+   {
+    "match_en": "Chrysler will offer a $25,000 vehicle voucher and $50,000 with healthcare and $75,000 without.",
+    "vi": "Chrysler sẽ đề nghị phiếu mua xe trị giá 25.000 USD cùng 50.000 USD cho người chọn giữ quyền lợi chăm sóc sức khỏe, hoặc 75.000 USD cho người không giữ quyền lợi này."
+   },
+   {
+    "match_en": "The UAW's \"jobs bank\", a system where workers without duties are still paid, has stopped at both companies.",
+    "vi": "Cả hai công ty đã chấm dứt “jobs bank” của UAW, chương trình vẫn trả lương cho người lao động tạm thời không được phân công việc."
+   },
+   {
+    "match_en": "GM is also attempting to engineer a debt-for-equity swap, reducing its liabilities from $27.5 billion in unsecured debt to $9.2 billion.",
+    "vi": "GM cũng đang tìm cách hoán đổi nợ lấy cổ phần để giảm khoản nợ không có bảo đảm từ 27,5 tỷ USD xuống 9,2 tỷ USD."
+   },
+   {
+    "match_en": "The entire motor manufacturing sector has suffered under the economic downturn, with the Ford Motor Company NYSE: F announcing a $14.6 billion annual loss, although it has not sought federal aid.",
+    "en": "The entire motor manufacturing sector has suffered during the economic downturn, with Ford Motor Company (NYSE: F) announcing a $14.6 billion annual loss, although it has not sought federal aid.",
+    "vi": "Toàn ngành sản xuất ô tô chịu ảnh hưởng của suy thoái kinh tế; Ford Motor Company (NYSE: F) công bố khoản lỗ 14,6 tỷ USD trong năm, dù không xin hỗ trợ liên bang."
+   }
+  ]
+ },
+ {
+  "id": "news-2008-dramexchange-compuforum-global-dram",
+  "sentences": [
+   {
+    "match_en": "Not only e21FORUM, the DRAMeXchange Compuforum was progressively respected by DRAM industry since 2006.",
+    "en": "Besides e21FORUM, the DRAMeXchange Compuforum has gained increasing recognition in the DRAM industry since 2006.",
+    "vi": "Bên cạnh e21FORUM, DRAMeXchange Compuforum ngày càng được ngành DRAM công nhận kể từ năm 2006."
+   },
+   {
+    "match_en": "Since the mobile devices have become popular in the presence, the supply of DRAM modules is still inadequate to meet the demand.",
+    "en": "As mobile devices have become more popular, the supply of DRAM modules has remained inadequate to meet demand.",
+    "vi": "Khi thiết bị di động ngày càng phổ biến, nguồn cung mô-đun DRAM vẫn không đủ đáp ứng nhu cầu."
+   },
+   {
+    "match_en": "If the Mainland China wants to enlarge its market stably, the supply chain and costs of material should be cautioned.\" stated DRAMeXchange Technology.",
+    "en": "If mainland China wants to expand its market steadily, close attention should be paid to the supply chain and material costs,\" DRAMeXchange Technology stated.",
+    "vi": "DRAMeXchange Technology nhận định: \"Nếu Trung Quốc đại lục muốn mở rộng thị trường một cách ổn định, cần đặc biệt chú ý đến chuỗi cung ứng và chi phí nguyên vật liệu.\""
+   },
+   {
+    "match_en": "Mass storage devices with high capacity often linked with enterprises.",
+    "en": "High-capacity mass-storage devices are often associated with enterprises.",
+    "vi": "Thiết bị lưu trữ dung lượng lớn thường gắn với nhu cầu của doanh nghiệp."
+   },
+   {
+    "match_en": "With innovations of information technology, capacity of USB flash drives and mobile drives are larger and larger.",
+    "en": "With advances in information technology, the capacities of USB flash drives and portable drives have continued to grow.",
+    "vi": "Nhờ những tiến bộ của công nghệ thông tin, dung lượng ổ USB flash và ổ đĩa di động tiếp tục tăng."
+   },
+   {
+    "match_en": "\"Capacity, costs of production, prices, and efficiency on writing and reading are critical factors to determine an user on choosing SSDs, hard disks, or flash drives.\" stated Hitach Corp..",
+    "en": "\"Capacity, production costs, prices, and read-write performance are critical factors when users choose SSDs, hard disks, or flash drives,\" Hitachi Corp. stated.",
+    "vi": "Hitachi cho biết: \"Dung lượng, chi phí sản xuất, giá bán và hiệu năng đọc ghi là những yếu tố then chốt khi người dùng chọn SSD, ổ cứng hoặc ổ flash.\""
+   },
+   {
+    "match_en": "\"The market shares on storage will transform from enterprises to digital storage with a significant grown-up of Internet users within four years.\" stated Seagate Technology.",
+    "en": "\"The storage market will shift from enterprise storage toward consumer digital storage as the number of Internet users grows significantly over the next four years,\" Seagate Technology stated.",
+    "vi": "Seagate Technology nhận định: \"Trong bốn năm tới, thị trường sẽ chuyển từ lưu trữ doanh nghiệp sang lưu trữ số cho người tiêu dùng khi số người dùng Internet tăng mạnh.\""
+   }
+  ]
+ },
+ {
+  "id": "wiki-crunch-video-games",
+  "sentences": [
+   {
+    "match_en": "In the video game industry, crunch is needed overtime during the creation of a game.",
+    "en": "In the video game industry, crunch is a period of required overtime during the creation of a game.",
+    "vi": "Trong ngành trò chơi điện tử, crunch là giai đoạn nhân viên phải làm thêm giờ trong quá trình phát triển trò chơi."
+   },
+   {
+    "match_en": "Crunch is common in the industry.",
+    "vi": "Tình trạng crunch khá phổ biến trong ngành."
+   },
+   {
+    "match_en": "It can cause work weeks of 65–80 hours for long periods of time.",
+    "vi": "Tình trạng này có thể khiến nhân viên phải làm việc 65–80 giờ mỗi tuần trong thời gian dài."
+   },
+   {
+    "match_en": "The developers are often not paid for this extra work.",
+    "vi": "Các nhà phát triển thường không được trả thêm tiền cho số giờ làm ngoài giờ này."
+   },
+   {
+    "match_en": "Critics of crunch complain about how it has become normal in the gaming industry..",
+    "en": "Critics of crunch complain that it has become normalized in the gaming industry.",
+    "vi": "Những người phản đối crunch chỉ trích việc hình thức làm việc này đã bị bình thường hóa trong ngành trò chơi."
+   },
+   {
+    "match_en": "A lack of unionization of game developers has often been said to be the reason crunch exists.",
+    "vi": "Việc các nhà phát triển trò chơi thiếu tổ chức công đoàn thường được xem là một nguyên nhân khiến crunch tồn tại."
+   },
+   {
+    "match_en": "Organizations such as Game Workers Unite try to end the crunch by making the companies that make games to follow labor rights.",
+    "en": "Organizations such as Game Workers Unite try to end crunch by pressuring game companies to respect labor rights.",
+    "vi": "Các tổ chức như Game Workers Unite tìm cách chấm dứt crunch bằng cách gây sức ép để các công ty trò chơi tôn trọng quyền lao động."
+   }
+  ]
+ },
+ {
+  "id": "news-oil-prices-at-new-high-on-fears-of-turki",
+  "sentences": [
+   {
+    "match_en": "The price of Brent Crude futures was at $84.40 at 6:39 a.m..",
+    "en": "The price of Brent crude futures was $84.40 at 6:39 a.m.",
+    "vi": "Giá hợp đồng tương lai dầu Brent ở mức 84,40 USD vào lúc 6 giờ 39 sáng."
+   },
+   {
+    "match_en": "Crude stock futures at 6:08 a.m. (eastern time in the United States were trading at $87.52, nearing $90.00 a barrel.",
+    "en": "Crude oil futures were trading at $87.52 at 6:08 a.m. Eastern Time in the United States, nearing $90.00 a barrel.",
+    "vi": "Lúc 6 giờ 08 sáng theo giờ miền Đông Hoa Kỳ, hợp đồng tương lai dầu thô được giao dịch ở mức 87,52 USD, tiến gần 90 USD một thùng."
+   },
+   {
+    "match_en": "The spike is being blamed on fears that Turkey is going to attack Iraqi Kurdish Militants of the Kurdistan Workers Party (PKK) after they killed 13 Turkish soldiers on October 7.",
+    "en": "The spike was blamed on fears that Turkey would attack Iraqi Kurdish militants of the Kurdistan Workers' Party (PKK) after they killed 13 Turkish soldiers on October 7.",
+    "vi": "Mức tăng đột biến được cho là xuất phát từ lo ngại Thổ Nhĩ Kỳ sẽ tấn công các tay súng người Kurd thuộc Đảng Công nhân Kurdistan (PKK) tại Iraq, sau khi lực lượng này giết 13 binh sĩ Thổ Nhĩ Kỳ ngày 7 tháng 10."
+   },
+   {
+    "match_en": "On Monday, the Turkish military asked Parliament for permission to lead a mission into Iraq to hunt down militants.",
+    "vi": "Hôm thứ Hai, quân đội Thổ Nhĩ Kỳ đề nghị Quốc hội cho phép mở chiến dịch truy quét các tay súng tại Iraq."
+   }
+  ]
+ },
+ {
+  "id": "wiki-for-loop",
+  "sentences": [
+   {
+    "match_en": "A for-loop has two parts: a header, and a body of code.",
+    "vi": "Vòng lặp for có hai phần: phần khai báo và phần thân mã lệnh."
+   },
+   {
+    "match_en": "The body consists of a set of instructions (lines of code) that run for each repetition of the loop.",
+    "vi": "Phần thân gồm một nhóm lệnh được thực thi trong mỗi lần lặp."
+   },
+   {
+    "match_en": "The header often declares how many loops to complete, generally indicated by either a loop counter or a loop variable.",
+    "vi": "Phần khai báo thường xác định số lần lặp, thường bằng một bộ đếm hoặc biến vòng lặp."
+   },
+   {
+    "match_en": "For-loops are typically used when the number of repetitions are known.",
+    "en": "For-loops are typically used when the number of repetitions is known."
+   },
+   {
+    "match_en": "Sample for-loop in Python: This for loop prints outs \"Hello, world!\" ten times.",
+    "en": "Sample for-loop in Python: this loop prints \"Hello, world!\" ten times.",
+    "vi": "Ví dụ vòng lặp for trong Python: vòng lặp này in “Hello, world!” mười lần."
+   },
+   {
+    "match_en": "The name for-loop comes from the English word for, which is the direct translation of the earlier German für, used by Heinz Rutishauser, who also helped define ALGOL 58 and 60.",
+    "vi": "Tên gọi for-loop bắt nguồn từ từ khóa for trong tiếng Anh, bản dịch trực tiếp của từ für trong tiếng Đức mà Heinz Rutishauser từng sử dụng; ông cũng góp phần định nghĩa ALGOL 58 và 60."
+   },
+   {
+    "match_en": "While for-loops in different languages will all fulfill the same task, there are differences on how each programming language deals with for loops.",
+    "vi": "Dù vòng lặp for trong các ngôn ngữ đều thực hiện cùng một nhiệm vụ, cách mỗi ngôn ngữ lập trình xử lý vòng lặp này có thể khác nhau."
+   }
+  ]
+ },
+ {
+  "id": "wiki-passionfruit",
+  "sentences": [
+   {
+    "match_en": "The Passionfruit (also spelled passion fruit) is a small, spherical fruit.",
+    "vi": "Passionfruit, cũng viết tách thành passion fruit, là một loại quả nhỏ hình cầu được gọi là chanh dây."
+   },
+   {
+    "match_en": "Is native to the tropical and subtropical zones of the American continent, with a large center of diversity located in Brazil and neighboring South American countries.",
+    "en": "It is native to the tropical and subtropical regions of the Americas, with a major center of diversity in Brazil and neighboring South American countries.",
+    "vi": "Loài cây này có nguồn gốc từ các vùng nhiệt đới và cận nhiệt đới châu Mỹ, với trung tâm đa dạng sinh học lớn ở Brazil và các nước Nam Mỹ lân cận."
+   },
+   {
+    "match_en": "The fruit's name comes from the Tupi-Guarani word \"mara kuya\", meaning: \"food in a cuia\".",
+    "vi": "Tên của quả bắt nguồn từ “mara kuya” trong tiếng Tupi–Guarani, có nghĩa là “thức ăn trong một chiếc cuia”."
+   },
+   {
+    "match_en": "Australia passion fruit it is purple when ripe, and green when not ripe.",
+    "en": "Australian passion fruit is purple when ripe and green when unripe.",
+    "vi": "Chanh dây trồng tại Úc có màu tím khi chín và màu xanh khi còn non."
+   },
+   {
+    "match_en": "The fruit contains many small, black seeds covered with the fruit's flesh.",
+    "vi": "Bên trong quả có nhiều hạt nhỏ màu đen được bao quanh bởi phần thịt quả."
+   },
+   {
+    "match_en": "In Brazil the juice of passionfruits are common drinks.",
+    "en": "In Brazil, passion-fruit juice is a common drink.",
+    "vi": "Tại Brazil, nước chanh dây là một thức uống phổ biến."
+   },
+   {
+    "match_en": "Origin and Regions Tropical America: The genus Passiflora has hundreds of species spread throughout the tropical belt of the Americas.",
+    "en": "The genus Passiflora has hundreds of species spread throughout the tropical regions of the Americas.",
+    "vi": "Chi Passiflora có hàng trăm loài phân bố khắp các vùng nhiệt đới của châu Mỹ."
+   },
+   {
+    "match_en": "Brazil: Considered the main cradle of many popular varieties, such as sweet passion fruit (Passiflora alata) and sour passion fruit (Passiflora edulis).",
+    "en": "Brazil is considered the main center of origin for many popular varieties, such as sweet passion fruit (Passiflora alata) and sour passion fruit (Passiflora edulis).",
+    "vi": "Brazil được xem là trung tâm nguồn gốc chính của nhiều giống phổ biến, như chanh dây ngọt (Passiflora alata) và chanh dây chua (Passiflora edulis)."
+   },
+   {
+    "match_en": "Other Countries: Wild species also occur natively in places like Colombia, Ecuador, Peru, Paraguay, and Bolivia.",
+    "en": "Wild species also occur naturally in countries such as Colombia, Ecuador, Peru, Paraguay, and Bolivia.",
+    "vi": "Các loài hoang dã cũng mọc tự nhiên tại những nước như Colombia, Ecuador, Peru, Paraguay và Bolivia."
+   }
+  ]
+ },
+ {
+  "id": "news-half-of-europe-s-flights-could-take-off-",
+  "sentences": [
+   {
+    "match_en": "The European Union presidency says that air traffic over Europe could return to about 50 percent of its normal level on Monday, if weather forecasts confirm that skies over the continent are clearing of volcanic ash.",
+    "vi": "Nước đang giữ chức Chủ tịch luân phiên Liên minh châu Âu cho biết lưu lượng hàng không tại châu Âu có thể trở lại khoảng 50% mức bình thường vào thứ Hai, nếu dự báo thời tiết xác nhận tro núi lửa đang tan khỏi bầu trời lục địa."
+   },
+   {
+    "match_en": "European transportation ministers from countries affected by the ash from the Eyjafjallajökull volcano in Iceland began spewing into the sky last week will meet on Monday by video conference in an effort to reopen closed airspace.",
+    "en": "European transport ministers from countries affected by ash from Iceland's Eyjafjallajökull volcano, which began erupting last week, will meet by video conference on Monday in an effort to reopen closed airspace.",
+    "vi": "Các bộ trưởng giao thông châu Âu từ những nước bị ảnh hưởng bởi tro của núi lửa Eyjafjallajökull ở Iceland, bắt đầu phun trào từ tuần trước, sẽ họp trực tuyến vào thứ Hai nhằm mở lại không phận."
+   },
+   {
+    "match_en": "\"This is clear also, that this is not sustainable.",
+    "vi": "\"Rõ ràng tình trạng này không thể kéo dài."
+   },
+   {
+    "match_en": "So we cannot go ahead and just wait until the ash cloud will disappear,\" he said.",
+    "vi": "Vì vậy, chúng ta không thể cứ tiếp tục chờ đến khi đám mây tro biến mất\", ông nói."
+   },
+   {
+    "match_en": "\"It is clear that safety is our first and utmost priority, so we cannot compromise with safety.",
+    "vi": "\"Rõ ràng an toàn là ưu tiên cao nhất, vì vậy chúng ta không thể thỏa hiệp về an toàn."
+   },
+   {
+    "match_en": "But we are working based on new evidence about test flights, how to assess the situation and how to find solutions to increase air space without compromising safety,\" he said.",
+    "vi": "Nhưng chúng tôi đang dựa trên dữ liệu mới từ các chuyến bay thử nghiệm để đánh giá tình hình và tìm cách mở rộng không phận hoạt động mà vẫn bảo đảm an toàn\", ông nói."
+   },
+   {
+    "match_en": "Spanish Secretary of State for E.U. Affairs Diego López Garrido says the ash cloud over Europe is moving to the northeast, which could clear half of the air space over the continent.",
+    "vi": "Quốc vụ khanh Tây Ban Nha phụ trách các vấn đề EU Diego López Garrido cho biết đám mây tro đang di chuyển về phía đông bắc, nhờ đó một nửa không phận châu Âu có thể trở nên thông thoáng."
+   },
+   {
+    "match_en": "However, Air travel in Southern Europe — including Spain, southern Italy, Greece, and Turkey — remains open.",
+    "en": "However, air travel in Southern Europe — including Spain, southern Italy, Greece, and Turkey — remains open.",
+    "vi": "Tuy nhiên, hoạt động hàng không tại Nam Âu — gồm Tây Ban Nha, miền nam Italy, Hy Lạp và Thổ Nhĩ Kỳ — vẫn diễn ra."
+   }
+  ]
+ },
+ {
+  "id": "wiki-confederate-states-of-america",
+  "sentences": [
+   {
+    "match_en": "The Confederate States of America (CSA) was a short-lived government that existed in the southern United States during the American Civil War.",
+    "vi": "Liên minh miền Nam Hoa Kỳ (CSA) là một chính quyền tồn tại trong thời gian ngắn tại miền Nam Hoa Kỳ trong Nội chiến Hoa Kỳ."
+   },
+   {
+    "match_en": "It was established (made) in 1861 by seven southern states in which slavery was legal, after Abraham Lincoln was elected president of the U.S., but before he took office.",
+    "vi": "Liên minh được thành lập năm 1861 bởi bảy bang miền Nam cho phép chế độ nô lệ, sau khi Abraham Lincoln đắc cử tổng thống Hoa Kỳ nhưng trước khi ông nhậm chức."
+   },
+   {
+    "match_en": "South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana, and Texas declared their secession (independence) from the United States.",
+    "vi": "South Carolina, Mississippi, Florida, Alabama, Georgia, Louisiana và Texas tuyên bố ly khai khỏi Hoa Kỳ."
+   },
+   {
+    "match_en": "The Confederate States Constitution was similar to that of the United States; however, it emphasized states' rights and clearly protected the enslavement of black Americans.",
+    "vi": "Hiến pháp Liên minh miền Nam tương tự Hiến pháp Hoa Kỳ, nhưng nhấn mạnh quyền của các bang và công khai bảo vệ chế độ nô lệ áp đặt lên người Mỹ da đen."
+   },
+   {
+    "match_en": "Jefferson Davis was chosen as president and Alexander Stephens as vice-president.",
+    "vi": "Jefferson Davis được chọn làm tổng thống và Alexander Stephens làm phó tổng thống."
+   },
+   {
+    "match_en": "As in the United States, the CSA president had a cabinet of advisors.",
+    "vi": "Tương tự Hoa Kỳ, tổng thống CSA có một nội các cố vấn."
+   }
+  ]
+ },
+ {
+  "id": "wiki-common-language-specification",
+  "sentences": [
+   {
+    "match_en": "A Common Language Specification (CLS) is a document that says how computer programs can be turned into Common Intermediate Language (CIL) code.",
+    "vi": "Common Language Specification (CLS) là đặc tả quy định cách biên dịch chương trình máy tính thành mã Common Intermediate Language (CIL)."
+   },
+   {
+    "match_en": "When several languages use the same bytecode, different parts of a program can be written in different languages.",
+    "vi": "Khi nhiều ngôn ngữ cùng sử dụng một dạng bytecode, các phần khác nhau của chương trình có thể được viết bằng những ngôn ngữ khác nhau."
+   },
+   {
+    "match_en": "To fully interact with other objects regardless of the language they were used in, objects must expose to callers only those features that are common to all the languages they must exchange information with.",
+    "vi": "Để tương tác đầy đủ bất kể ngôn ngữ triển khai, một đối tượng chỉ nên công khai cho mã gọi những tính năng chung mà mọi ngôn ngữ liên quan đều hỗ trợ."
+   },
+   {
+    "match_en": "It was always a dream of Microsoft to unite all different languages under one umbrella and CLS is one step towards that.",
+    "vi": "Microsoft từ lâu muốn tạo một nền tảng chung cho nhiều ngôn ngữ, và CLS là một bước hướng tới mục tiêu đó."
+   },
+   {
+    "match_en": "Microsoft has defined CLS which are nothing but guidelines for languages to follow so that it can communicate with other .NET languages in a seamless manner.",
+    "en": "Microsoft defined the CLS as a set of guidelines that languages can follow to communicate seamlessly with other .NET languages.",
+    "vi": "Microsoft định nghĩa CLS như một bộ hướng dẫn để các ngôn ngữ có thể tương tác liền mạch với những ngôn ngữ .NET khác."
+   },
+   {
+    "match_en": "Most of the members defined by types in the .NET Framework class library are able to work with CLS.",
+    "vi": "Phần lớn thành viên của các kiểu trong thư viện lớp .NET Framework đều tuân thủ CLS."
+   },
+   {
+    "match_en": "However, some types in the class library have one or more members that are not able to work with CLS.",
+    "vi": "Tuy nhiên, một số kiểu trong thư viện lớp có một hoặc nhiều thành viên không tuân thủ CLS."
+   },
+   {
+    "match_en": "These members allow support for language features that are not in the CLS.",
+    "vi": "Những thành viên đó hỗ trợ các tính năng ngôn ngữ nằm ngoài CLS."
+   },
+   {
+    "match_en": "Any language construct that makes it impossible to quickly confirm the type safety of code was excluded from the CLS so that all languages that can work with CLS can produce verifiable code if they choose to do so.",
+    "vi": "Mọi cấu trúc ngôn ngữ khiến việc xác minh an toàn kiểu trở nên khó khăn đều bị loại khỏi CLS, nhờ đó các ngôn ngữ tương thích CLS có thể tạo ra mã kiểm chứng được."
    }
   ]
  }
