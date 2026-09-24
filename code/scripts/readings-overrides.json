@@ -2015,5 +2015,462 @@
     "vi": "Mọi cấu trúc ngôn ngữ khiến việc xác minh an toàn kiểu trở nên khó khăn đều bị loại khỏi CLS, nhờ đó các ngôn ngữ tương thích CLS có thể tạo ra mã kiểm chứng được."
    }
   ]
+ },
+ {
+  "id": "wiki-artificial",
+  "sentences": [
+   {
+    "match_en": "When something is artificial, or man-made, it has been made by humans, not nature.",
+    "vi": "Một vật được gọi là nhân tạo, hay do con người làm ra, khi nó không hình thành trong tự nhiên."
+   },
+   {
+    "match_en": "The imitation may use the same basic materials like those in the natural object, or it may use quite different materials like in artificial leather.",
+    "vi": "Vật mô phỏng có thể dùng những vật liệu cơ bản giống vật tự nhiên, hoặc dùng vật liệu hoàn toàn khác như da nhân tạo."
+   },
+   {
+    "match_en": "They are concepts in defining reality.",
+    "vi": "Đây là những khái niệm được dùng để phân biệt các dạng sự vật trong thực tế."
+   },
+   {
+    "match_en": "The word \"artificial\" comes from the Latin words art (meaning \"skill\") and fex (\"to make\").",
+    "en": "The word \"artificial\" comes from the Latin artificialis, meaning \"made by art or skill\".",
+    "vi": "Từ “artificial” bắt nguồn từ artificialis trong tiếng Latin, nghĩa là “được tạo ra bằng nghệ thuật hoặc kỹ năng”."
+   },
+   {
+    "match_en": "Artificial does not necessarily mean synthetic (meaning created by synthesis).",
+    "vi": "Nhân tạo không nhất thiết đồng nghĩa với tổng hợp, tức được tạo ra bằng quá trình tổng hợp."
+   },
+   {
+    "match_en": "That makes it both artificial and synthetic.",
+    "vi": "Vì vậy, chất này vừa là nhân tạo vừa là tổng hợp."
+   },
+   {
+    "match_en": "Some disasters are natural, but some are man-made like the Dust Bowl in the United States.",
+    "vi": "Một số thảm họa có nguồn gốc tự nhiên, nhưng cũng có thảm họa do con người góp phần gây ra, như thời kỳ Bão bụi Dust Bowl tại Hoa Kỳ."
+   }
+  ]
+ },
+ {
+  "id": "news-british-gas-to-increase-electricity-gas-",
+  "title_vi": "British Gas tăng giá điện và khí đốt",
+  "sentences": [
+   {
+    "match_en": "On August 18, 2011, the company plans to raise the costs of gas and electrical supplies by eighteen and sixteen per cent, respectively.",
+    "vi": "Từ ngày 18 tháng 8 năm 2011, công ty dự kiến tăng giá khí đốt 18% và giá điện 16%."
+   },
+   {
+    "match_en": "British price comparison website uSwitch has reported that the \"[a]verage household bill for a dual fuel British Gas customer will now go up from £1,096 to £1,288\".",
+    "en": "British price-comparison website uSwitch reported that the average household bill for a British Gas dual-fuel customer would rise from £1,096 to £1,288.",
+    "vi": "Trang so sánh giá uSwitch của Anh cho biết hóa đơn trung bình của một hộ gia đình dùng cả điện và khí đốt của British Gas sẽ tăng từ 1.096 lên 1.288 bảng."
+   },
+   {
+    "match_en": "Mike O'Connor, the chief executive officer of consumer organisation Consumer Focus, has claimed that the announcement \"will send a shock wave across the country\" and will place an increasing amount of difficulties \"on stretched household budgets.",
+    "en": "Mike O'Connor, chief executive of the consumer organisation Consumer Focus, said the announcement \"will send a shock wave across the country\" and put more pressure on already stretched household budgets.",
+    "vi": "Mike O'Connor, giám đốc điều hành tổ chức bảo vệ người tiêu dùng Consumer Focus, nói thông báo này “sẽ gây chấn động khắp cả nước” và tạo thêm áp lực lên ngân sách vốn đã eo hẹp của các hộ gia đình."
+   },
+   {
+    "match_en": "Consumers [...] rightly question whether prices are fair.\" Phil Bentley, a managing director for British Gas, has claimed that value increases like this are \"an issue facing all energy suppliers\".",
+    "en": "Consumers rightly question whether prices are fair. Phil Bentley, a managing director at British Gas, said price increases like this were \"an issue facing all energy suppliers\".",
+    "vi": "Người tiêu dùng có lý khi đặt câu hỏi liệu mức giá có công bằng hay không. Phil Bentley, một giám đốc điều hành tại British Gas, cho rằng những đợt tăng giá như vậy là “vấn đề mà mọi nhà cung cấp năng lượng đều phải đối mặt”."
+   },
+   {
+    "match_en": "A director for British Gas, named Ian Peters, has claimed that \"a fair return\" will be made after the changes occur.",
+    "vi": "Giám đốc British Gas Ian Peters cho biết công ty sẽ đạt được “mức lợi nhuận hợp lý” sau khi điều chỉnh giá."
+   },
+   {
+    "match_en": "In 2010, British Gas experienced its largest ever profit, making £742 million (US$1,192 million, €835 million).",
+    "vi": "Năm 2010, British Gas đạt lợi nhuận kỷ lục 742 triệu bảng Anh, tương đương khoảng 1,192 tỷ USD hoặc 835 triệu euro."
+   },
+   {
+    "match_en": "Richard Lloyd from product sampling charity Which? criticised the decision to raise prices, calling the declaration \"unwelcome but unsurprising\" for British Gas consumers.",
+    "en": "Richard Lloyd from the consumer organisation Which? criticised the decision to raise prices, calling the announcement \"unwelcome but unsurprising\" for British Gas customers.",
+    "vi": "Richard Lloyd thuộc tổ chức bảo vệ người tiêu dùng Which? chỉ trích quyết định tăng giá, gọi thông báo này là điều “không được hoan nghênh nhưng cũng chẳng bất ngờ” đối với khách hàng British Gas."
+   },
+   {
+    "match_en": "Previously in December 2010, British Gas increased the price of its gas by 6.9%, which equates to £43 (US$69, €48).",
+    "vi": "Trước đó, vào tháng 12 năm 2010, British Gas đã tăng giá khí đốt 6,9%, tương đương 43 bảng Anh, 69 USD hoặc 48 euro."
+   },
+   {
+    "match_en": "On Friday, Chris Huhne, the secretary of the Energy and Climate Change Select Committee, said that British electricity businesses must modify themselves so as to avoid \"the cycle of fossil fuel addiction.",
+    "en": "On Friday, Chris Huhne, the Secretary of State for Energy and Climate Change, said British electricity companies must change to avoid \"the cycle of fossil fuel addiction\".",
+    "vi": "Hôm thứ Sáu, Bộ trưởng Năng lượng và Biến đổi khí hậu Chris Huhne nói các công ty điện lực Anh phải thay đổi để thoát khỏi “vòng luẩn quẩn phụ thuộc vào nhiên liệu hóa thạch”."
+   },
+   {
+    "match_en": "This news comes to light as Scottish Power, a rival energy company to British Gas, announced last month their intentions to up the prices of their electricity and gas supplies by ten and nineteen per cent respectively.",
+    "vi": "Tin này được đưa ra sau khi Scottish Power, đối thủ của British Gas, thông báo vào tháng trước rằng hãng dự định tăng giá điện 10% và giá khí đốt 19%."
+   }
+  ]
+ },
+ {
+  "id": "wiki-child-theft",
+  "sentences": [
+   {
+    "match_en": "Child theft, also called child abduction, is when someone takes away a minor from the child's parents or legal guardian.",
+    "vi": "Bắt cóc trẻ em là hành vi đưa một người chưa thành niên rời khỏi cha mẹ hoặc người giám hộ hợp pháp mà không được phép."
+   },
+   {
+    "match_en": "A minor is a child younger than the legal age of an adult.",
+    "vi": "Người chưa thành niên là người chưa đạt độ tuổi trưởng thành theo pháp luật."
+   },
+   {
+    "match_en": "The most common kind of child abduction is when parents take their children, in what is also called parental child abduction.",
+    "vi": "Dạng phổ biến nhất là cha hoặc mẹ tự ý đưa con đi; trường hợp này được gọi là bắt cóc con bởi cha mẹ."
+   },
+   {
+    "match_en": "The exact legal situation is very complex, and varies between countries.",
+    "vi": "Khung pháp lý cụ thể rất phức tạp và khác nhau giữa các quốc gia."
+   },
+   {
+    "match_en": "All countries have laws defining legal adulthood, and most have laws about age of sexual maturity (age when young people may decide for themselves about their sexual activities with other people), and laws about drinking alcohol and other activities.",
+    "en": "All countries have laws defining legal adulthood, and most also set an age of consent, a legal drinking age, and age limits for other activities.",
+    "vi": "Mọi quốc gia đều có luật quy định tuổi trưởng thành; phần lớn cũng quy định tuổi đồng thuận, độ tuổi được uống rượu và giới hạn tuổi đối với các hoạt động khác."
+   },
+   {
+    "match_en": "Also, there are usually laws about abduction or kidnapping by strangers (people unknown to the child).",
+    "vi": "Ngoài ra thường có các điều luật riêng về hành vi người lạ bắt cóc trẻ em."
+   }
+  ]
+ },
+ {
+  "id": "wiki-cousin",
+  "sentences": [
+   {
+    "match_en": "The word 'cousin' is often used to mean a person's first cousin – the child of someone's aunt or uncle.",
+    "en": "The word 'cousin' often refers to a first cousin — the child of one's aunt or uncle.",
+    "vi": "Từ “cousin” thường chỉ anh, chị hoặc em họ đời thứ nhất, tức con của cô, dì, chú hoặc bác."
+   },
+   {
+    "match_en": "Cousin relationships can have degree and removal (e.g. a second cousin once removed is a cousin with a degree of two and a removal of one).",
+    "en": "Cousin relationships can be described by degree and removal; for example, a second cousin once removed has degree two and removal one.",
+    "vi": "Quan hệ họ hàng kiểu cousin có thể được mô tả bằng bậc họ và độ lệch thế hệ; chẳng hạn, “second cousin once removed” có bậc họ là hai và lệch một thế hệ."
+   },
+   {
+    "match_en": "The family line of the cousin with smallest number of generations to the most recent common ancestor is used to determine the degree (if they are the same use either one).",
+    "en": "The degree is determined from the cousin whose family line has fewer generations to the most recent common ancestor; if both have the same number, either line can be used.",
+    "vi": "Bậc họ được xác định theo người có ít thế hệ hơn tính tới tổ tiên chung gần nhất; nếu hai bên bằng nhau thì có thể dùng bên nào cũng được."
+   },
+   {
+    "match_en": "The number of generations from the parents to the common ancestor (number of generations minus one) is the degree.",
+    "en": "The degree equals the number of generations from that cousin to the common ancestor, minus one.",
+    "vi": "Bậc họ bằng số thế hệ từ người đó tới tổ tiên chung, trừ đi một."
+   },
+   {
+    "match_en": "When the cousins are separated by a different number of generations from the most recent common ancestor, the cousin relationship is \"removed\".",
+    "vi": "Khi hai người cách tổ tiên chung gần nhất một số thế hệ khác nhau, quan hệ của họ được mô tả là có độ lệch thế hệ."
+   },
+   {
+    "match_en": "The difference between the number of generations for each cousin is the removal.",
+    "vi": "Độ lệch này chính là chênh lệch số thế hệ của hai người so với tổ tiên chung."
+   }
+  ]
+ },
+ {
+  "id": "wiki-cultural-appropriation",
+  "title_vi": "Chiếm dụng văn hóa",
+  "sentences": [
+   {
+    "match_en": "Cultural appropriation is when one culture wrongly adopts and takes elements from another culture.",
+    "vi": "Chiếm dụng văn hóa xảy ra khi một nền văn hóa tiếp nhận hoặc sử dụng các yếu tố của nền văn hóa khác theo cách không phù hợp."
+   },
+   {
+    "match_en": "Cultures often do not acknowledge that they are taking something from another culture.",
+    "vi": "Người sử dụng những yếu tố này thường không thừa nhận hoặc nêu rõ nguồn gốc văn hóa của chúng."
+   },
+   {
+    "match_en": "Appropriation can be disrespectful or have stereotypes.",
+    "en": "Appropriation can be disrespectful or reinforce stereotypes.",
+    "vi": "Hành vi chiếm dụng có thể thể hiện sự thiếu tôn trọng hoặc củng cố các định kiến."
+   },
+   {
+    "match_en": "Cultural appropriation can include groups making money off of minority cultures.",
+    "vi": "Chiếm dụng văn hóa có thể bao gồm việc một nhóm thu lợi từ văn hóa của cộng đồng thiểu số."
+   },
+   {
+    "match_en": "Cultural appropriation is different than appreciation.",
+    "en": "Cultural appropriation is different from cultural appreciation.",
+    "vi": "Chiếm dụng văn hóa khác với việc trân trọng một nền văn hóa."
+   },
+   {
+    "match_en": "Appreciation is when one values and respects the customs and cultures one is using or adopting.",
+    "vi": "Trân trọng văn hóa là coi trọng và tôn trọng những phong tục, truyền thống mà một người tìm hiểu hoặc tiếp nhận."
+   },
+   {
+    "match_en": "There are many examples in culture and every day life.",
+    "en": "There are many examples in popular culture and everyday life."
+   },
+   {
+    "match_en": "People can dress up like other cultures during Halloween without having respect for the culture.",
+    "vi": "Ví dụ, một người có thể hóa trang theo hình ảnh của nền văn hóa khác trong dịp Halloween mà không hiểu hoặc tôn trọng nền văn hóa đó."
+   },
+   {
+    "match_en": "There is often appropriation in pop culture.",
+    "vi": "Hiện tượng chiếm dụng cũng thường xuất hiện trong văn hóa đại chúng."
+   },
+   {
+    "match_en": "Singers or celebrities may use cultural dances or clothing and make a lot of money from it.",
+    "vi": "Ca sĩ hoặc người nổi tiếng có thể sử dụng điệu múa hay trang phục của một cộng đồng khác và thu nhiều lợi nhuận từ đó."
+   }
+  ]
+ },
+ {
+  "id": "wiki-key-signature",
+  "sentences": [
+   {
+    "match_en": "A key signature is a group of sharp notes or flat notes which are printed at the beginning of a line/measure of music.",
+    "en": "A key signature is a group of sharps or flats printed at the beginning of each line of music.",
+    "vi": "Hóa biểu là một nhóm dấu thăng hoặc dấu giáng được ghi ở đầu mỗi khuông nhạc."
+   },
+   {
+    "match_en": "It shows which notes have to be changed into sharp notes or flat notes.",
+    "vi": "Hóa biểu cho biết những nốt nào thường phải được nâng lên hoặc hạ xuống nửa cung trong bản nhạc."
+   },
+   {
+    "match_en": "For example: if there is one sharp in the key signature it will be a F sharp.",
+    "en": "For example, if a key signature has one sharp, it is F-sharp.",
+    "vi": "Ví dụ, nếu hóa biểu có một dấu thăng thì đó là dấu thăng ở nốt Fa."
+   },
+   {
+    "match_en": "It means that every time the F note is written, one plays (or sings) an F sharp (on a keyboard: the black note just to the right of the F) instead.",
+    "vi": "Điều đó có nghĩa là mỗi nốt Fa trong bản nhạc thường được chơi hoặc hát thành Fa thăng, tương ứng với phím đen ngay bên phải nốt Fa trên đàn piano."
+   },
+   {
+    "match_en": "There are twelve major and twelve minor keys (properly called “modes\").",
+    "en": "There are twelve major keys and twelve minor keys.",
+    "vi": "Có mười hai giọng trưởng và mười hai giọng thứ."
+   },
+   {
+    "match_en": "This is because a scale can start on any note, and there are twelve notes within an octave (on a piano keyboard, seven white keyboard keys and five black keyboard keys).",
+    "vi": "Điều này là do thang âm có thể bắt đầu từ bất kỳ nốt nào trong mười hai nốt của một quãng tám, tương ứng với bảy phím trắng và năm phím đen trên đàn piano."
+   },
+   {
+    "match_en": "Each major key has its own key signature.",
+    "vi": "Mỗi giọng trưởng có hóa biểu riêng."
+   },
+   {
+    "match_en": "The relationship between the keys is explained in the article \"circle of fifths\".",
+    "vi": "Mối quan hệ giữa các giọng được thể hiện qua vòng quãng năm."
+   },
+   {
+    "match_en": "Each minor key shares a key signature with one of the major keys.",
+    "vi": "Mỗi giọng thứ dùng chung hóa biểu với một giọng trưởng tương ứng."
+   },
+   {
+    "match_en": "There are fifteen possible key signatures: up to seven sharps, up to seven flats, or no sharps or flats.",
+    "vi": "Có mười lăm hóa biểu có thể dùng: từ không có dấu hóa đến tối đa bảy dấu thăng hoặc bảy dấu giáng."
+   },
+   {
+    "match_en": "The reason why there are fifteen and not twelve is because three of them have two possible names: F sharp major (6 sharps) can also be called G flat, C sharp is D flat and B is C flat.",
+    "en": "There are fifteen rather than twelve because three pairs of major keys are enharmonically equivalent: F-sharp and G-flat, C-sharp and D-flat, and B and C-flat.",
+    "vi": "Có mười lăm thay vì mười hai vì ba cặp giọng trưởng tương đương về cao độ: Fa thăng và Sol giáng, Đô thăng và Rê giáng, Si và Đô giáng."
+   },
+   {
+    "match_en": "We call these enharmonic i.e. the same note but with a different name.",
+    "en": "These are called enharmonic keys: they sound the same but have different names.",
+    "vi": "Chúng được gọi là các giọng đồng âm: nghe giống nhau nhưng có tên gọi khác nhau."
+   },
+   {
+    "match_en": "There are two reasons for writing a key signature.",
+    "vi": "Có hai lý do chính để dùng hóa biểu."
+   },
+   {
+    "match_en": "Firstly, it saves writing out lots of sharps or flats during the piece.",
+    "vi": "Thứ nhất, hóa biểu giúp tránh phải ghi lặp lại nhiều dấu thăng hoặc dấu giáng trong tác phẩm."
+   },
+   {
+    "match_en": "Secondly, it helps the player to think in the key (music) of the piece.",
+    "en": "Secondly, it helps the performer recognize and think in the key of the piece.",
+    "vi": "Thứ hai, hóa biểu giúp người biểu diễn nhận biết và cảm nhận giọng của tác phẩm."
+   }
+  ]
+ },
+ {
+  "id": "news-university-defeat-maroochydore-in-round-",
+  "title_vi": "University đánh bại Maroochydore ở vòng 5 giải Sunshine Coast Rugby Union 2020",
+  "sentences": [
+   {
+    "match_en": "In Australian rugby, University have maintained top spot on the Sunshine Coast Rugby Union A grade ladder with a 22 points to 10 win over Maroochydore at Cotton Tree, Australia on Saturday.",
+    "vi": "Trong giải rugby union tại Úc, đội University giữ vững ngôi đầu bảng hạng A Sunshine Coast sau chiến thắng 22–10 trước Maroochydore tại Cotton Tree hôm thứ Bảy."
+   },
+   {
+    "match_en": "\"We turned up here knowing we'd be in for a battle\", University coach Brad Tronc said.",
+    "vi": "“Chúng tôi đến đây và biết rằng một trận đấu khó khăn đang chờ đợi,” huấn luyện viên University Brad Tronc nói."
+   },
+   {
+    "match_en": "\"They pushed [reigning premiers] Caloundra and they pushed Noosa.",
+    "en": "\"They pushed reigning premiers Caloundra, and they pushed Noosa.",
+    "vi": "“Họ từng gây rất nhiều khó khăn cho đương kim vô địch Caloundra và cho cả Noosa."
+   },
+   {
+    "match_en": "We knew the were looking for a scalp.",
+    "en": "We knew they were looking for a scalp.",
+    "vi": "Chúng tôi biết họ quyết tâm đánh bại một đội mạnh."
+   },
+   {
+    "match_en": "To Maroochydore's credit, they've made some big improvements since last season.",
+    "vi": "Phải ghi nhận rằng Maroochydore đã tiến bộ rất nhiều kể từ mùa giải trước."
+   },
+   {
+    "match_en": "I think as the season goes on they'll keep getting better and better, as well.\" The game was a hard, physical match according to Maroochydore assistant coach Ben Radmall.",
+    "vi": "Tôi nghĩ họ sẽ còn tiến bộ hơn nữa trong phần còn lại của mùa giải.” Theo trợ lý huấn luyện viên Maroochydore Ben Radmall, đây là một trận đấu quyết liệt và giàu va chạm."
+   },
+   {
+    "match_en": "\"It was pretty set piece dominated there for the last twenty minutes\", Radmall said.",
+    "vi": "“Hai mươi phút cuối chủ yếu xoay quanh các tình huống bóng cố định,” Radmall nói."
+   },
+   {
+    "match_en": "\"[It was] a pretty physical game out there this afternoon.",
+    "en": "\"It was a pretty physical game out there this afternoon.",
+    "vi": "“Trận đấu chiều nay có rất nhiều pha va chạm."
+   },
+   {
+    "match_en": "It was a good hit out.",
+    "vi": "Đó là một trận cọ xát chất lượng."
+   },
+   {
+    "match_en": "We're sore after that one.\" University were able to pull away in the second half despite an off day in front of goal.",
+    "vi": "Sau trận này ai cũng ê ẩm.” University đã gia tăng cách biệt trong hiệp hai dù khả năng dứt điểm không ở trạng thái tốt nhất."
+   },
+   {
+    "match_en": "\"The two guys that set [Uni's final try] up were an 18 year old half back and an 18 year old five eighth,\" Tronc said.",
+    "en": "\"The two players who set up University's final try were an 18-year-old scrum-half and an 18-year-old fly-half,\" Tronc said.",
+    "vi": "“Hai cầu thủ kiến tạo pha ghi try cuối của University là một scrum-half 18 tuổi và một fly-half 18 tuổi,” Tronc nói."
+   },
+   {
+    "match_en": "Radmall conceded that his side needed to work on some things.",
+    "vi": "Radmall thừa nhận đội của ông vẫn còn một số điểm cần cải thiện."
+   },
+   {
+    "match_en": "\"We had our opportunities in the 22 in that last twenty minutes\", he said.",
+    "en": "\"We had our opportunities inside their 22-metre area in the final twenty minutes,\" he said.",
+    "vi": "“Trong hai mươi phút cuối, chúng tôi đã có cơ hội khi vào được khu vực 22 mét của đối phương,” ông nói."
+   },
+   {
+    "match_en": "\"Just some management, couple of set pieces let us down.",
+    "en": "\"Our game management and a couple of set pieces let us down.",
+    "vi": "“Khả năng điều tiết trận đấu và một vài tình huống cố định đã khiến chúng tôi phải trả giá."
+   },
+   {
+    "match_en": "We couldn't execute there and they exited pretty well.",
+    "vi": "Chúng tôi không tận dụng được cơ hội, còn họ thoát khỏi phần sân nhà khá tốt."
+   },
+   {
+    "match_en": "They slowed the game down pretty well in that last ten minutes to dance up the field and then score a try at the end there.\"",
+    "en": "They slowed the game down well in the final ten minutes, worked their way up the field, and scored a try at the end.\"",
+    "vi": "Trong mười phút cuối, họ giảm nhịp độ rất tốt, từng bước đưa bóng lên phía trên rồi ghi một pha try ở cuối trận.”"
+   }
+  ]
+ },
+ {
+  "id": "news-albania-blames-iran-for-cyberattacks",
+  "sentences": [
+   {
+    "match_en": "On Saturday Albania's Interior Ministry blamed Iranian actors for a cyberattack on Friday evening which targeted the national police's computer systems.",
+    "vi": "Hôm thứ Bảy, Bộ Nội vụ Albania cáo buộc các tác nhân liên quan đến Iran thực hiện cuộc tấn công mạng tối thứ Sáu nhằm vào hệ thống máy tính của cảnh sát quốc gia."
+   },
+   {
+    "match_en": "The ministry said in a statement \"[t]he national police’s computer systems were hit Friday by a cyberattack which, according to initial information, was committed by the same actors who in July attacked the country’s public and government service systems\".",
+    "en": "The ministry said the national police's computer systems were hit on Friday by a cyberattack that, according to initial information, was carried out by the same actors who attacked the country's public and government service systems in July.",
+    "vi": "Bộ cho biết hệ thống máy tính của cảnh sát quốc gia bị tấn công mạng hôm thứ Sáu; theo thông tin ban đầu, thủ phạm cũng là nhóm đã tấn công các hệ thống dịch vụ công và chính phủ của Albania hồi tháng Bảy."
+   },
+   {
+    "match_en": "The statement also said the authorities had deliberately closed down their border crossing management software \"[i]n order to neutralise the criminal act and secure the systems\", with local media reporting queues at border crossings.",
+    "en": "The statement also said the authorities had deliberately shut down border-crossing management software to neutralise the criminal act and secure the systems, while local media reported queues at border crossings.",
+    "vi": "Tuyên bố cho biết nhà chức trách đã chủ động tắt phần mềm quản lý cửa khẩu nhằm vô hiệu hóa hành vi phạm tội và bảo vệ hệ thống; truyền thông địa phương ghi nhận tình trạng xếp hàng tại các cửa khẩu."
+   },
+   {
+    "match_en": "On Wednesday the Albanian Prime Minister Edi Rama accused Iran of directing the attack against Albanian institutions on July 15, stating it was a bid to \"paralyse public services and hack data and electronic communications from the government systems\".",
+    "vi": "Hôm thứ Tư, Thủ tướng Albania Edi Rama cáo buộc Iran chỉ đạo cuộc tấn công ngày 15 tháng 7 nhằm vào các cơ quan nước này, với mục đích “làm tê liệt dịch vụ công và xâm nhập dữ liệu cùng hệ thống liên lạc điện tử của chính phủ”."
+   },
+   {
+    "match_en": "While Rama went on to say that the attack failed in its purpose, he also stated that Albania was severing diplomatic ties with Iran, giving Iranian embassy staff 24 hours to leave the country.",
+    "vi": "Rama cho biết cuộc tấn công không đạt được mục tiêu, đồng thời tuyên bố Albania cắt đứt quan hệ ngoại giao với Iran và yêu cầu nhân viên đại sứ quán Iran rời khỏi nước này trong vòng 24 giờ."
+   },
+   {
+    "match_en": "The Associated Press called this the first known case of diplomatic ties being cut over a cyberattack.",
+    "vi": "Theo hãng tin Associated Press, đây là trường hợp đầu tiên được biết đến mà quan hệ ngoại giao bị cắt đứt vì một cuộc tấn công mạng."
+   },
+   {
+    "match_en": "Iran and Albania have been foes since 2013 when Albania agreed to host members of the People’s Mujahedeen of Iran, also known as Mojahedin-e-Khalq (MEK), at the request of the US and United Nations.",
+    "vi": "Iran và Albania trở nên đối địch từ năm 2013, khi Albania đồng ý tiếp nhận thành viên của Tổ chức Mojahedin Nhân dân Iran, còn gọi là Mojahedin-e-Khalq (MEK), theo đề nghị của Hoa Kỳ và Liên Hợp Quốc."
+   }
+  ]
+ },
+ {
+  "id": "wiki-grading-in-education",
+  "sentences": [
+   {
+    "match_en": "They are often letters (e.g.",
+    "en": "Grades are often expressed as letters such as A, B, C, D, and F.",
+    "vi": "Điểm thường được biểu thị bằng các chữ cái như A, B, C, D và F."
+   },
+   {
+    "match_en": "A, B, C, D, F,) or numbers (e.g. 1-10.), although in some countries they do not use either of these systems.",
+    "en": "They may also be expressed as numbers, such as on a scale from 1 to 10, although some countries use neither system.",
+    "vi": "Điểm cũng có thể được biểu thị bằng số, chẳng hạn theo thang từ 1 đến 10, dù một số quốc gia không dùng cả hai hệ thống này."
+   },
+   {
+    "match_en": "Letter grades are most commonly used in the United States and some others.",
+    "en": "Letter grades are commonly used in the United States and several other countries.",
+    "vi": "Điểm chữ được sử dụng phổ biến tại Hoa Kỳ và một số quốc gia khác."
+   },
+   {
+    "match_en": "Grades can also be on a number scale.",
+    "vi": "Điểm cũng có thể được cho theo thang số."
+   },
+   {
+    "match_en": "Typically a midpoint score is a pass.",
+    "vi": "Thông thường, mức điểm ở giữa thang được xem là đạt."
+   },
+   {
+    "match_en": "Sometimes the numbers can go in descending order to indicate better performance.",
+    "vi": "Trong một số hệ thống, số càng nhỏ lại biểu thị kết quả càng tốt."
+   },
+   {
+    "match_en": "A Grade Point Average, or GPA, takes the grade(s) of a student and assigns point values to them.",
+    "en": "A grade point average, or GPA, converts a student's grades into numerical point values.",
+    "vi": "Điểm trung bình tích lũy, hay GPA, quy đổi các điểm của học sinh thành giá trị số."
+   },
+   {
+    "match_en": "These points are added up and divided to calculate the GPA.",
+    "vi": "Các giá trị này được cộng lại rồi chia theo quy định để tính GPA."
+   },
+   {
+    "match_en": "Simple grades can be found with this formula: right / (right + wrong). The grade is the answer to that formula turned into a percent.",
+    "vi": "Có thể tính điểm phần trăm đơn giản bằng công thức: số câu đúng chia cho tổng số câu đúng và sai, rồi đổi kết quả sang phần trăm."
+   },
+   {
+    "match_en": "This is the type of grading the United States commonly uses.",
+    "vi": "Đây là một cách chấm điểm thường được dùng tại Hoa Kỳ."
+   }
+  ]
+ },
+ {
+  "id": "wiki-himalayan-salt",
+  "sentences": [
+   {
+    "match_en": "Himalayan salt, also known as Himalayan Pink salt, Urdu (ہمالیائی گلابی نمک) comes from the northern Punjab region of Pakistan.",
+    "en": "Himalayan salt, also known as Himalayan pink salt, comes from northern Punjab in Pakistan.",
+    "vi": "Muối Himalaya, còn gọi là muối hồng Himalaya, có nguồn gốc từ miền bắc Punjab của Pakistan."
+   },
+   {
+    "match_en": "It is rock salt or halite with a pinkish color from minerals.",
+    "vi": "Đây là một loại muối mỏ, hay halit, có màu hồng nhạt do các khoáng chất vi lượng."
+   },
+   {
+    "match_en": "Many people prefer pink salt for its health benefits due to the increased amount of minerals present but this topic is already researched on and Effects are often called exactly same as Normal Salt By [1][2][3]Worlds Top Heath Organizations.",
+    "en": "Some people prefer pink salt because it contains trace minerals, but research has found no meaningful health advantage over ordinary table salt.",
+    "vi": "Một số người chuộng muối hồng vì nó chứa các khoáng chất vi lượng, nhưng nghiên cứu chưa cho thấy lợi ích sức khỏe đáng kể nào so với muối ăn thông thường."
+   },
+   {
+    "match_en": "Despite being called 'Himalayan' salt, pink salt is actually mined in the Salt Range mountains of the Pothohar plateau, In[4]Khewra Salt Mine not the Himalayas.",
+    "en": "Despite its name, Himalayan pink salt is mined at the Khewra Salt Mine in the Salt Range of the Pothohar Plateau, not in the Himalayas.",
+    "vi": "Mặc dù mang tên Himalaya, loại muối hồng này được khai thác tại mỏ muối Khewra thuộc dãy Salt Range trên cao nguyên Pothohar, chứ không phải trong dãy Himalaya."
+   },
+   {
+    "match_en": "It is also used to make \"salt lamps\" that radiate a pinkish or orangish light, manufactured by placing a light source within the hollowed-out interior of a block of Himalayan salt.",
+    "en": "It is also used to make \"salt lamps\" that give off pink or orange light by placing a light source inside a hollowed-out block of Himalayan salt.",
+    "vi": "Muối này còn được dùng làm “đèn muối”: một nguồn sáng được đặt trong khối muối Himalaya khoét rỗng để tạo ánh sáng màu hồng hoặc cam."
+   }
+  ]
  }
 ]
