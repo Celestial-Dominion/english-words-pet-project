@@ -7,7 +7,7 @@ import { join } from "node:path";
 import { levelSlug } from "./lib-levels.mjs";
 import { progress } from "./lib-progress.mjs";
 import { isBlocked } from "./lib-blocklist.mjs";
-import { cleanReadingSourceText, mergeReadingPairs } from "./lib-reading-cleanup.mjs";
+import { cleanReadingSourceText, mergeReadingPairs, normalizeReadingTitle } from "./lib-reading-cleanup.mjs";
 
 const HERE = import.meta.dirname;
 const DATA = join(HERE, "..", "public", "data");
@@ -31,6 +31,36 @@ if (existsSync(RAW_PATH)) {
     if (d.topic && d.url) rawTopic.set(d.url, d.topic);
   }
 }
+
+// Vá thủ công các lỗi nguồn/dịch máy đã được xác minh. Khớp bằng nguyên câu EN để build phải
+// dừng nếu nguồn thay đổi, tránh âm thầm áp bản sửa vào nhầm câu hoặc sai phiên bản bài.
+const OVERRIDES_PATH = join(HERE, "readings-overrides.json");
+const overrideEntries = existsSync(OVERRIDES_PATH)
+  ? JSON.parse(readFileSync(OVERRIDES_PATH, "utf8"))
+  : [];
+const overrides = new Map(overrideEntries.map((entry) => [entry.id, entry]));
+if (overrides.size !== overrideEntries.length) throw new Error("readings-overrides.json có id trùng nhau");
+const appliedOverrides = new Set();
+const applyOverride = (id, titleEn, titleVi, sentences) => {
+  const override = overrides.get(id);
+  if (!override) return { titleEn, titleVi, sentences };
+  appliedOverrides.add(id);
+  const patched = sentences.map((sentence) => ({ ...sentence }));
+  for (const correction of override.sentences ?? []) {
+    const index = patched.findIndex((sentence) => sentence.en === correction.match_en);
+    if (index < 0) throw new Error(`Override lỗi thời: ${id} — không tìm thấy câu "${correction.match_en}"`);
+    patched[index] = {
+      ...patched[index],
+      ...(correction.en ? { en: correction.en } : {}),
+      ...(correction.vi ? { vi: correction.vi } : {}),
+    };
+  }
+  return {
+    titleEn: override.title_en ?? titleEn,
+    titleVi: override.title_vi ?? titleVi,
+    sentences: patched,
+  };
+};
 
 // bản dịch theo id
 const vi = new Map();
@@ -110,7 +140,7 @@ for (const [id, d] of src) {
     continue;
   }
   const stripped = stripDateline(d.sentences.map((en, i) => ({ en: clean(en), vi: clean(t.vi[i]) })));
-  const sentences = mergeReadingPairs(
+  const cleanedSentences = mergeReadingPairs(
     stripped.sentences
       .map((pair) => ({
         ...pair,
@@ -119,14 +149,20 @@ for (const [id, d] of src) {
       }))
       .filter((pair) => pair.en && pair.vi),
   );
+  const corrected = applyOverride(
+    id,
+    clean(d.title_en),
+    clean(t.title_vi) || clean(d.title_en),
+    cleanedSentences,
+  );
   const { date } = stripped;
   const topic = rawTopic.get(d.url) ?? d.topic;
   byLevel[d.level].push({
     id,
     level: d.level,
-    title_en: clean(d.title_en),
-    title_vi: clean(t.title_vi) || clean(d.title_en),
-    sentences,
+    title_en: corrected.titleEn,
+    title_vi: normalizeReadingTitle(corrected.titleVi),
+    sentences: corrected.sentences,
     ...(date ? { date } : {}),
     src: d.src,
     url: d.url,
@@ -135,6 +171,10 @@ for (const [id, d] of src) {
 }
 bar.done(`${Object.values(byLevel).flat().length} bài có đủ bản dịch`);
 if (blocked) console.error(`Chặn ${blocked} bài theo readings-blocklist.json`);
+const staleOverrides = overrideEntries.filter((entry) => !appliedOverrides.has(entry.id));
+if (staleOverrides.length) {
+  throw new Error(`Override không áp dụng được: ${staleOverrides.map((entry) => entry.id).join(", ")}`);
+}
 
 // lọc bài gắn nhãn business nhưng nội dung không dính dáng kinh doanh
 let offTopicDropped = 0;

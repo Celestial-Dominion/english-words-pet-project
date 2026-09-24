@@ -15,6 +15,7 @@ import {
   cleanReadingSourceText,
   hasReadingSourceNoise,
   mergeReadingPairs,
+  normalizeReadingTitle,
   shouldMergeReadingSentences,
 } from "./lib-reading-cleanup.mjs";
 
@@ -69,7 +70,9 @@ const looksEnglish = (en, vi) => {
 };
 
 let totalDocs = 0, totalSent = 0;
-const problems = { mismatch: [], empty: [], untranslated: [], lowCov: [], truncated: [], sourceNoise: [], noAttr: [] };
+const problems = {
+  mismatch: [], empty: [], untranslated: [], lowCov: [], truncated: [], sourceNoise: [], titleCase: [], noAttr: [],
+};
 const seenTitle = new Map();
 let fixedCount = 0;
 
@@ -93,6 +96,9 @@ for (const lv of [1, 2, 3, 4]) {
 
     // gộp câu bị tách cụt
     if (FIX) {
+      const normalizedTitle = normalizeReadingTitle(d.title_vi);
+      changed ||= normalizedTitle !== d.title_vi;
+      d.title_vi = normalizedTitle;
       const cleaned = d.sentences
         .map((s) => ({
           ...s,
@@ -105,6 +111,8 @@ for (const lv of [1, 2, 3, 4]) {
       changed ||= JSON.stringify(merged) !== JSON.stringify(d.sentences);
       d.sentences = merged;
     }
+
+    if (d.title_vi !== normalizeReadingTitle(d.title_vi)) problems.titleCase.push(d.id);
 
     for (const [i, s] of d.sentences.entries()) {
       if (!s.en?.trim() || !s.vi?.trim()) problems.empty.push(`${d.id}[${i}]`);
@@ -132,6 +140,7 @@ report("RỖNG", problems.empty);
 report("CHƯA DỊCH (còn nguyên tiếng Anh)", problems.untranslated);
 report("CÂU CỤT (tách nhầm ở viết tắt)", problems.truncated, 5);
 report("RÁC NGUỒN WIKI", problems.sourceNoise, 8);
+report("TIÊU ĐỀ VIẾT THƯỜNG", problems.titleCase, 8);
 report("ĐỘ PHỦ THẤP (<88%)", problems.lowCov, 5);
 report("THIẾU ATTRIBUTION", problems.noAttr);
 if (FIX) console.log(`Đã gộp ${fixedCount} câu bị tách cụt.`);

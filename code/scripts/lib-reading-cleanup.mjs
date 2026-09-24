@@ -25,6 +25,9 @@ const INITIAL_PREFIX_EXCLUSIONS = new Set(["Model", "Part", "Simulator", "Unit",
 // "at 3 a.m. At another office…".
 const TIME_CONTINUATION = /^(?:[A-Z]{2,5}\b|(?:West Africa|Central European|Central Standard|Eastern Standard|Pacific Daylight|Tongan|Sydney|local)\s+[Tt]ime\b|(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2}\b|(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\s+(?:morning|afternoon|evening|night)\b)/;
 
+const isTimeContinuation = (previous, current) =>
+  /\b\d{1,2}(?::\d{2})?\s*[ap]\.m\.$/i.test(previous) && TIME_CONTINUATION.test(current);
+
 const firstWord = (sentence) => sentence.match(/^["'“‘(]*([A-Z][A-Za-z0-9'’-]*)/)?.[1] ?? "";
 
 /** Hai mẩu này có phải một câu bị tokenizer tách nhầm không? */
@@ -37,7 +40,7 @@ export function shouldMergeReadingSentences(previous, current) {
   const nextWord = firstWord(next);
   if (!nextWord) return false;
 
-  if (/\b\d{1,2}(?::\d{2})?\s*[ap]\.m\.$/i.test(prev) && TIME_CONTINUATION.test(next)) return true;
+  if (isTimeContinuation(prev, next)) return true;
 
   // Mr. Smith / Dr. Jones / St. Louis / Mt. Everest.
   if (/\b(?:Mr|Mrs|Ms|Dr|Prof|St|Mt)\.$/.test(prev) && !SENTENCE_STARTERS.has(nextWord)) return true;
@@ -75,8 +78,14 @@ export function mergeReadingPairs(pairs) {
   for (const pair of pairs) {
     const previous = out[out.length - 1];
     if (previous && shouldMergeReadingSentences(previous.en, pair.en)) {
+      const timeContinuation = isTimeContinuation(previous.en, pair.en);
       previous.en = `${previous.en} ${pair.en}`;
-      previous.vi = `${previous.vi} ${pair.vi}`;
+      // Bản dịch máy coi mẩu "10:30 a.m." là hết câu và tự thêm dấu chấm. Khi mẩu sau
+      // chỉ là múi giờ/ngày tiếp nối, bỏ dấu câu giả để không thành "10 giờ sáng. EST".
+      const previousVi = timeContinuation
+        ? previous.vi.replace(/\.\s*$/, "")
+        : previous.vi;
+      previous.vi = `${previousVi} ${pair.vi}`;
     } else {
       out.push({ ...pair });
     }
@@ -98,10 +107,26 @@ export function cleanReadingSourceText(value, language = "en") {
   text = text.replace(SOURCES_SUFFIX, "");
   text = text.replace(WIKI_LINK_TEMPLATE, "$1");
   if (LONE_FILE_LABEL.test(text) || LONE_CAPTION_FRAGMENT.test(text)) return "";
+  if (language === "vi") {
+    text = text.replace(
+      /\b(sáng|chiều|tối|trưa)\.\s+(?=(?:[A-Z]{2,5}\b|giờ\s+(?:địa phương|chuẩn|miền)|Giờ\s+(?:địa phương|chuẩn|miền)))/g,
+      "$1 ",
+    );
+  }
   return text.replace(/\s{2,}/g, " ").trim();
 }
 
 export function hasReadingSourceNoise(value) {
   const text = String(value ?? "");
   return /^(?:(?:File|Tập tin):)?[^.!?]{1,180}\.(?:jpe?g|png|gif|svg)\s+|==\s*(?:Sources|Nguồn)\s*==|\{w\|[^}]+\}\}/i.test(text);
+}
+
+const STYLED_TITLE_PREFIX = /^(?:eBay|xAI)\b/;
+const LOWER_VI_INITIAL = /^[a-zàáảãạăằắẳẵặâầấẩẫậèéẻẽẹêềếểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]/u;
+
+/** Chuẩn hoá tiêu đề tiếng Việt về sentence case, nhưng giữ nguyên tên thương hiệu cách điệu. */
+export function normalizeReadingTitle(value) {
+  const title = String(value ?? "").trim();
+  if (!title || STYLED_TITLE_PREFIX.test(title)) return title;
+  return title.replace(LOWER_VI_INITIAL, (letter) => letter.toLocaleUpperCase("vi-VN"));
 }

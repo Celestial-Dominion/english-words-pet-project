@@ -3,6 +3,7 @@ import {
   cleanReadingSourceText,
   mergeEnglishSentences,
   mergeReadingPairs,
+  normalizeReadingTitle,
   shouldMergeReadingSentences,
 } from "./lib-reading-cleanup.mjs";
 
@@ -29,6 +30,10 @@ assert.equal(
   cleanReadingSourceText("The agency posted on {w|Instagram}} yesterday."),
   "The agency posted on Instagram yesterday.",
 );
+assert.equal(
+  cleanReadingSourceText("Cảnh báo bắt đầu lúc 6 giờ chiều. giờ địa phương (1700 UTC).", "vi"),
+  "Cảnh báo bắt đầu lúc 6 giờ chiều giờ địa phương (1700 UTC).",
+);
 
 assert.equal(shouldMergeReadingSentences("It was developed by Ernest W.", "Burgess studied Chicago."), true);
 assert.equal(shouldMergeReadingSentences("Harris was a sitting U.S.", "Senator from California."), true);
@@ -50,5 +55,16 @@ assert.deepEqual(
   ]),
   [{ en: "It was named after Thomas J. Watson, the chairman of IBM.", vi: "Nó được đặt theo tên Thomas J. Watson, chủ tịch IBM." }],
 );
+assert.deepEqual(
+  mergeReadingPairs([
+    { en: "The event began at 10:30 a.m.", vi: "Sự kiện bắt đầu lúc 10 giờ 30 sáng." },
+    { en: "EST on Saturday.", vi: "EST vào thứ Bảy." },
+  ]),
+  [{ en: "The event began at 10:30 a.m. EST on Saturday.", vi: "Sự kiện bắt đầu lúc 10 giờ 30 sáng EST vào thứ Bảy." }],
+);
 
-console.log("reading cleanup: 18 ca đạt");
+assert.equal(normalizeReadingTitle("giáo dục Montessori"), "Giáo dục Montessori");
+assert.equal(normalizeReadingTitle("eBay mua VeriSign"), "eBay mua VeriSign");
+assert.equal(normalizeReadingTitle("xAI"), "xAI");
+
+console.log("reading cleanup: 23 ca đạt");
