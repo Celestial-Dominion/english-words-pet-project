@@ -161,6 +161,8 @@ listen: câu có trong bài | câu nghe được* / câu gần giống   (bỏ p
   câu nghe được giữa các biến thể ngữ pháp (walk / walked, I'd / I'll) — luyện nghe hình thái.
 - ≥ 70% → đã học; lịch ôn riêng 1 · 3 · 7 · 14 · 30 · 60 · 120 ngày (không trộn hàng đợi thẻ từ; màn Ôn tập nhắc bài
   tới hạn). Mỗi câu trả lời tính vào thống kê ngày + XP như Luyện tập tự do.
+- Tích tay "Đã học" (danh sách hoặc trang bài, không luyện) = đã học nhưng **không xếp lịch ôn** (cờ `man`); lần luyện
+  tập sau đó mới là mốc đầu của lịch.
 - Tiến độ: Dexie bảng `grammar` (v5) → đồng bộ qua trường `grammar: string[]` sẵn có của doc người dùng (mỗi bài một
   chuỗi mã hoá, hợp nhất giao hoán / idempotent — không đổi Firestore rules) và tệp sao lưu.
 - Liên kết (tính lúc build trang, không tải thêm): Vocabulary → Grammar (thẻ từ hiện bài có từ đó là chip tiếng Anh

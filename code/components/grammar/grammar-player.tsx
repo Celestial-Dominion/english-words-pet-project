@@ -9,7 +9,7 @@ import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useLiveQuery } from "dexie-react-hooks";
 import { BookOpenText, ChevronRight, Clapperboard, Library, Pause, Play, Repeat, RotateCcw, SkipBack, SkipForward, Volume2 } from "lucide-react";
-import { audioUrlOf, cueAt, grammarDue, holdSet, isDue, isLearned, lessonHref, lessonJsonUrl, regLabels, type CorpusLink, type GrammarLesson, type LessonRef, type LessonWord } from "@/lib/grammar";
+import { audioUrlOf, cueAt, grammarDue, holdSet, isDue, isLearned, isManual, lessonHref, lessonJsonUrl, regLabels, type CorpusLink, type GrammarLesson, type LessonRef, type LessonWord } from "@/lib/grammar";
 import { grammarRow, setGrammarLearned } from "@/lib/grammar-progress";
 import { contentAccent, contentLevel } from "@/lib/levels";
 import { lookupWord, loadExamplesForWords, type ExampleSentence } from "@/lib/data";
@@ -205,8 +205,9 @@ function Player({ lesson, links }: { lesson: GrammarLesson; links: PlayerLinks }
           done={learned}
           // ghi hỏng (riêng tư / hết quota) đã nổi banner StorageAlert ở lib/db.ts
           onToggle={() => void setGrammarLearned(lesson.id, !learned).catch(() => {})}
-          hint="không cần làm luyện tập"
+          hint="không cần luyện tập, không xếp lịch ôn"
         />
+        {learned && isManual(row) && <span className="text-xs text-muted-foreground">Tích tay · không xếp lịch ôn</span>}
         {learned && dueAt && (
           <span className={`text-xs ${due ? "font-semibold text-amber-600" : "text-muted-foreground"}`}>
             {due ? "Đến hạn ôn — làm lại phần luyện tập" : `Ôn lại: ${dueAt.toLocaleDateString("vi-VN")}`}

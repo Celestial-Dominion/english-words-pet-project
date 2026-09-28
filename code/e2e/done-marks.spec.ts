@@ -76,7 +76,7 @@ test("video: nút Chưa xem ⇄ Đã xem + ô tích và lọc trên danh sách",
   await expect(page.getByText(/Chưa có bài nào đã xem/)).toBeVisible();
 });
 
-test("ngữ pháp: tích đã học trên danh sách, trang bài khớp và bỏ được", async ({ page }) => {
+test("ngữ pháp: tích đã học trên danh sách (không xếp lịch ôn), trang bài khớp và bỏ được", async ({ page }) => {
   const g = grammarLessons().find((x) => x.lv === "a1")!;
   await page.goto("/ngu-phap/a1");
   const t = tick(page, `Đã học: ${g.t}`);
@@ -86,6 +86,8 @@ test("ngữ pháp: tích đã học trên danh sách, trang bài khớp và bỏ
   await expect(page.getByRole("radio", { name: /Đã học/ })).toContainText("1");
   await page.goto(`/ngu-phap/a1/${g.id}`);
   await expect(pill(page, "Đã học")).toHaveAttribute("aria-pressed", "true");
+  await expect(page.getByText("Tích tay · không xếp lịch ôn")).toBeVisible();
+  await expect(page.getByText(/Ôn lại:|Đến hạn ôn/)).toHaveCount(0);
   await pill(page, "Đã học").click();
   await expect(pill(page, "Chưa học")).toHaveAttribute("aria-pressed", "false");
 });

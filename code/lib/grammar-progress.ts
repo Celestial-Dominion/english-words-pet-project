@@ -31,7 +31,8 @@ export async function recordGrammarPractice(id: string, score: number, now = new
   return row;
 }
 
-// Đánh dấu đã học bằng tay / bỏ đánh dấu (giữ điểm cao nhất, mốc mới hơn thắng khi đồng bộ).
+// Tích tay đã học (không xếp lịch ôn — lib/grammar.ts markLearned) / bỏ đánh dấu (giữ điểm cao nhất, mốc mới hơn thắng
+// khi đồng bộ).
 export async function setGrammarLearned(id: string, learned: boolean, now = new Date()): Promise<void> {
   await db.transaction("rw", db.grammar, async () => {
     const cur = await db.grammar.get(id);

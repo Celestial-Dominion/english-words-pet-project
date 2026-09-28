@@ -1,7 +1,7 @@
 "use client";
 
-// Danh sách bài Ngữ pháp (một cấp hoặc một nhóm) theo thứ tự học, kèm tiến độ: ô tích đã học / chưa học (tích tay = như
-// đạt một lần luyện tập — lib/grammar.ts markLearned), đến hạn ôn, điểm cao nhất; thanh lọc theo trạng thái.
+// Danh sách bài Ngữ pháp (một cấp hoặc một nhóm) theo thứ tự học, kèm tiến độ: ô tích đã học / chưa học (tích tay = đã
+// học nhưng không xếp lịch ôn — lib/grammar.ts markLearned), đến hạn ôn, điểm cao nhất; thanh lọc theo trạng thái.
 // Dữ liệu danh sách có sẵn lúc build (HTML tĩnh); tiến độ đọc từ IndexedDB phía client. Không prefetch từng bài
 // (một cấp có vài chục link — tránh vài chục request thừa khi chỉ lướt danh sách).
 import { useState } from "react";

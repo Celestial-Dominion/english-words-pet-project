@@ -79,7 +79,20 @@ ok("khoảng ôn có trần 120 ngày", G.grammarDue(rr).getTime() - new Date(rr
 const off = G.unmarkLearned(r2, new Date("2026-09-03T00:00:00Z"));
 check("bỏ đánh dấu: hết đã học, giữ điểm", [G.isLearned(off), off.best, off.off], [false, 90, 1]);
 check("học lại sau khi bỏ đánh dấu → đã học lại từ đầu", [G.isLearned(G.applyPractice(off, "pronouns-be", 85, new Date("2026-09-04T00:00:00Z"))), G.applyPractice(off, "pronouns-be", 85, new Date("2026-09-04T00:00:00Z")).reps], [true, 1]);
-check("đánh dấu tay → như đạt một lần", [G.isLearned(G.markLearned(undefined, "y", t0)), G.markLearned(undefined, "y", t0).reps], [true, 1]);
+// tích tay "đã học" = đã học nhưng KHÔNG xếp lịch ôn; lần luyện sau đó mới là mốc đầu của lịch
+const later = new Date("2027-09-01T00:00:00Z");
+const mk = G.markLearned(undefined, "y", t0);
+check("tích tay → đã học, không lịch ôn, không bao giờ đến hạn", [G.isLearned(mk), G.isManual(mk), G.grammarDue(mk), G.isDue(mk, later)], [true, true, null, false]);
+const t1 = new Date("2026-09-10T08:00:00Z");
+const mkPass = G.applyPractice(mk, "y", 80, t1);
+check("tích tay rồi luyện đạt → lịch bắt đầu từ lần luyện (reps 1, ôn sau 1 ngày)", [G.isManual(mkPass), mkPass.man, mkPass.reps, G.grammarDue(mkPass)?.toISOString()], [false, undefined, 1, "2026-09-11T08:00:00.000Z"]);
+const mkFail = G.applyPractice(mk, "y", 40, t1);
+check("tích tay rồi luyện trượt → vẫn đã học, ôn ngày mai", [G.isLearned(mkFail), G.isManual(mkFail), G.grammarDue(mkFail)?.toISOString()], [true, false, "2026-09-11T08:00:00.000Z"]);
+check("tích tay bài đã luyện đạt → giữ nguyên lịch cũ", G.markLearned(r2, "pronouns-be", t1), r2);
+const reMk = G.markLearned(off, "pronouns-be", t1);
+check("đạt rồi bỏ đánh dấu, tích tay lại → không lịch ôn dù điểm cao", [G.isLearned(reMk), G.grammarDue(reMk), reMk.best], [true, null, 90]);
+check("dòng tích tay kiểu cũ (reps 1, chưa từng đạt, không cờ) → không lịch ôn", G.grammarDue({ id: "z", doneAt: t0.toISOString(), lastAt: t0.toISOString(), reps: 1, best: 0 }), null);
+check("danh sách đã học kiểu cũ (chuỗi chỉ có id) → không lịch ôn", G.grammarDue(G.decodeGrammarRow("pronouns-be")), null);
 
 // ----- hợp nhất đồng bộ (giao hoán, idempotent) -----
 const A = { id: "g", doneAt: "2026-09-01T00:00:00.000Z", lastAt: "2026-09-03T00:00:00.000Z", reps: 2, best: 80, last: 80 };
@@ -89,10 +102,21 @@ check("merge: lịch theo lần luyện gần hơn, điểm max, học đầu s�
 check("merge giao hoán", G.mergeGrammarRow(B, A), m1);
 check("merge idempotent", G.mergeGrammarRow(m1, m1), m1);
 check("merge: bỏ đánh dấu (mới hơn) thắng doneAt", G.mergeGrammarRow(m1, { id: "g", lastAt: "2026-09-06T00:00:00.000Z", reps: 0, best: 80, off: 1 }).doneAt, undefined);
+const MK = G.markLearned(undefined, "g", new Date("2026-09-07T00:00:00Z"));
+const mMk = G.mergeGrammarRow(m1, MK);
+check("merge: tích tay mới hơn thắng → không lịch ôn, học đầu sớm hơn, điểm max", [mMk.man, G.grammarDue(mMk), mMk.doneAt, mMk.best], [1, null, A.doneAt, 80]);
+check("merge có tích tay giao hoán", G.mergeGrammarRow(MK, m1), mMk);
+const P = G.applyPractice(MK, "g", 90, new Date("2026-09-08T00:00:00Z"));
+check("merge: luyện tập mới hơn thắng tích tay → có lịch lại", [G.mergeGrammarRow(MK, P).man, G.grammarDue(G.mergeGrammarRow(P, MK))?.toISOString()], [undefined, "2026-09-09T00:00:00.000Z"]);
+const MK2 = { ...MK, man: undefined };
+delete MK2.man;
+check("merge trùng mốc: tích tay thắng dòng mất cờ (giao hoán)", [G.mergeGrammarRow(MK, MK2).man, G.mergeGrammarRow(MK2, MK).man], [1, 1]);
 
 // ----- mã hoá qua trường grammar: string[] của doc đồng bộ / tệp sao lưu -----
 const enc = G.encodeGrammarRow(m1);
 check("encode → decode giữ nguyên", G.decodeGrammarRow(enc), m1);
+check("encode → decode giữ cờ tích tay", G.decodeGrammarRow(G.encodeGrammarRow(MK)), MK);
+ok("dòng không tích tay mã hoá như trước (không thêm đuôi)", G.encodeGrammarRow(A).split("~").length <= 7 && !G.encodeGrammarRow(A).endsWith("~"));
 check("decode: chuỗi id cũ = đã học từ lâu", [G.isLearned(G.decodeGrammarRow("pronouns-be")), G.decodeGrammarRow("pronouns-be").reps], [true, 1]);
 check("decode: rác bị bỏ", [G.decodeGrammarRow(""), G.decodeGrammarRow("Bad Id~x"), G.decodeGrammarRow(null)], [null, null, null]);
 const codesA = [G.encodeGrammarRow(A), G.encodeGrammarRow({ id: "h", reps: 1, best: 70, doneAt: "2026-09-01T00:00:00.000Z", lastAt: "2026-09-01T00:00:00.000Z" })];

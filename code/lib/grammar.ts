@@ -384,6 +384,7 @@ export interface GrammarRow {
   best: number; // điểm cao nhất (0–100)
   last?: number; // điểm lần gần nhất
   off?: 1; // người học BỎ đánh dấu đã học (bản ghi mới hơn mang cờ này thắng khi hợp nhất)
+  man?: 1; // đã học do TÍCH TAY (không luyện) → không xếp lịch ôn; lần luyện tập sau đó mới bắt đầu lịch
 }
 
 // Khoảng ôn (ngày) theo số lần đạt liên tiếp — trần 120 ngày.
@@ -393,8 +394,15 @@ export function isLearned(r: GrammarRow | undefined): boolean {
   return !!r?.doneAt;
 }
 
+// Đã học nhờ tích tay, chưa luyện tập lại kể từ đó → KHÔNG có lịch ôn. Dòng tạo trước khi có cờ `man` (markLearned bản
+// cũ "như đạt một lần", danh sách đã học kiểu cũ) vẫn nhận ra được: reps ≥ 1 mà chưa từng đạt luyện tập (best < PASS) —
+// lần luyện đạt nào cũng đẩy best ≥ PASS. Nhờ vậy cờ có rơi mất (bản app cũ còn mở ghi đè khi đồng bộ) vẫn không sao.
+export function isManual(r: GrammarRow | undefined): boolean {
+  return !!r?.doneAt && !r.off && (!!r.man || ((r.reps ?? 0) >= 1 && (r.best ?? 0) < PASS_SCORE));
+}
+
 export function grammarDue(r: GrammarRow | undefined): Date | null {
-  if (!r?.doneAt || !r.lastAt) return null;
+  if (!r?.doneAt || !r.lastAt || isManual(r)) return null;
   const days = REVIEW_DAYS[Math.min(Math.max(r.reps, 1), REVIEW_DAYS.length) - 1];
   return new Date(new Date(r.lastAt).getTime() + days * 86400000);
 }
@@ -405,31 +413,35 @@ export function isDue(r: GrammarRow | undefined, now: Date): boolean {
 }
 
 // Ghi một lần luyện tập: đạt → reps+1 (lần đầu đạt = đã học); chưa đạt → reps về 0 (ôn lại ngày mai nếu đã học).
+// Bài đang tích tay: lần luyện này là mốc ĐẦU của lịch ôn (tích tay không tính là một lần đạt).
 export function applyPractice(prev: GrammarRow | undefined, id: string, score: number, now: Date): GrammarRow {
   const iso = now.toISOString();
   const pass = score >= PASS_SCORE;
   const doneAt = prev?.off ? undefined : prev?.doneAt;
+  const streak = prev?.off || isManual(prev) ? 0 : (prev?.reps ?? 0);
   return {
     id,
     ...(doneAt || pass ? { doneAt: doneAt ?? iso } : {}),
     lastAt: iso,
-    reps: pass ? (prev?.off ? 0 : (prev?.reps ?? 0)) + 1 : 0,
+    reps: pass ? streak + 1 : 0,
     best: Math.max(prev?.best ?? 0, Math.round(score)),
     last: Math.round(score),
   };
 }
 
-// Đánh dấu đã học bằng tay (không luyện) — như đạt một lần.
+// Tích tay "đã học" (không luyện): đã học nhưng KHÔNG xếp lịch ôn (cờ man). reps 1 giữ đúng dạng dòng của bản cũ (bản
+// app cũ vẫn đọc là đã học) và để isManual nhận ra kể cả khi cờ rơi. Bài đã học rồi (luyện đạt / tích trước đó) giữ nguyên.
 export function markLearned(prev: GrammarRow | undefined, id: string, now: Date): GrammarRow {
+  if (prev && isLearned(prev) && !prev.off) return prev;
   const iso = now.toISOString();
-  const live = prev && !prev.off ? prev : undefined;
   return {
     id,
-    doneAt: live?.doneAt ?? iso,
+    doneAt: iso,
     lastAt: iso,
-    reps: Math.max(live?.reps ?? 0, 1),
+    reps: 1,
     best: prev?.best ?? 0,
     ...(prev?.last !== undefined ? { last: prev.last } : {}),
+    man: 1,
   };
 }
 
@@ -438,12 +450,14 @@ export function unmarkLearned(prev: GrammarRow, now: Date): GrammarRow {
   return { id: prev.id, reps: 0, best: prev.best, off: 1, lastAt: now.toISOString(), ...(prev.last !== undefined ? { last: prev.last } : {}) };
 }
 
-// Hợp nhất 2 bản của cùng một bài (đồng bộ nhiều máy / khôi phục backup): lịch ôn theo bản luyện GẦN hơn,
-// điểm cao nhất lấy max, ngày học lần đầu lấy sớm hơn → giao hoán, idempotent.
+// Hợp nhất 2 bản của cùng một bài (đồng bộ nhiều máy / khôi phục backup): lịch ôn (và tích tay hay luyện) theo bản
+// GẦN hơn, điểm cao nhất lấy max, ngày học lần đầu lấy sớm hơn → giao hoán, idempotent. Trùng mốc + trùng reps: bỏ
+// đánh dấu thắng, rồi tới tích tay.
 export function mergeGrammarRow(a: GrammarRow, b: GrammarRow): GrammarRow {
   const la = a.lastAt ?? "";
   const lb = b.lastAt ?? "";
-  const newer = lb > la || (lb === la && ((b.reps ?? 0) > (a.reps ?? 0) || ((b.reps ?? 0) === (a.reps ?? 0) && !!b.off && !a.off))) ? b : a;
+  const flag = (r: GrammarRow) => (r.off ? 2 : 0) + (r.man ? 1 : 0);
+  const newer = lb > la || (lb === la && ((b.reps ?? 0) > (a.reps ?? 0) || ((b.reps ?? 0) === (a.reps ?? 0) && flag(b) > flag(a)))) ? b : a;
   const done = newer.off ? undefined : [a.doneAt, b.doneAt].filter((x): x is string => !!x).sort()[0];
   return {
     id: a.id,
@@ -453,6 +467,7 @@ export function mergeGrammarRow(a: GrammarRow, b: GrammarRow): GrammarRow {
     best: Math.max(a.best ?? 0, b.best ?? 0),
     ...(newer.last !== undefined ? { last: newer.last } : {}),
     ...(newer.off ? { off: 1 as const } : {}),
+    ...(newer.man && !newer.off ? { man: 1 as const } : {}),
   };
 }
 
@@ -464,12 +479,13 @@ export function mergeGrammarRows(a: readonly GrammarRow[], b: readonly GrammarRo
 
 // ---- Mã hoá dòng tiến độ thành CHUỖI để đi qua trường `grammar: string[]` sẵn có của doc đồng bộ và tệp sao lưu
 // (không đổi Firestore rules; bản app cũ gộp mảng chuỗi kiểu hợp tập hợp nên vẫn giữ nguyên dữ liệu).
-// "id~doneAt~lastAt~reps~best~last~off" — mốc thời gian = ms epoch hệ 36; trống = không có.
+// "id~doneAt~lastAt~reps~best~last~off~man" — mốc thời gian = ms epoch hệ 36; trống = không có (đuôi trống bị cắt → dòng
+// không tích tay mã hoá y như trước khi có cờ man; bản app cũ đọc chuỗi mới thì bỏ qua phần thừa).
 const SEP = "~";
 const t36 = (iso?: string) => (iso ? new Date(iso).getTime().toString(36) : "");
 const fromT36 = (s: string) => (s ? new Date(parseInt(s, 36)).toISOString() : undefined);
 export function encodeGrammarRow(r: GrammarRow): string {
-  return [r.id, t36(r.doneAt), t36(r.lastAt), r.reps || 0, r.best || 0, r.last ?? "", r.off ? 1 : ""].join(SEP).replace(/~+$/, "");
+  return [r.id, t36(r.doneAt), t36(r.lastAt), r.reps || 0, r.best || 0, r.last ?? "", r.off ? 1 : "", r.man ? 1 : ""].join(SEP).replace(/~+$/, "");
 }
 export function decodeGrammarRow(s: string): GrammarRow | null {
   if (typeof s !== "string" || !s) return null;
@@ -491,6 +507,7 @@ export function decodeGrammarRow(s: string): GrammarRow | null {
     best: Math.max(0, Math.min(100, num(p[4]) ?? 0)),
     ...(last !== undefined ? { last: Math.max(0, Math.min(100, last)) } : {}),
     ...(p[6] === "1" ? { off: 1 as const } : {}),
+    ...(p[7] === "1" ? { man: 1 as const } : {}),
   };
 }
 export function decodeGrammarRows(list: readonly string[]): GrammarRow[] {
