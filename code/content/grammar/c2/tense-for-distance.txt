@@ -1,0 +1,73 @@
+=== tense-for-distance
+sum: Quá khứ “giữ khoảng cách”: nói về BÂY GIỜ nhưng lùi về quá khứ (và tiếp diễn) để lời đề nghị, câu hỏi mềm và lịch sự hơn: I was wondering if I could… · I wanted to ask… · Did you want…? · Were you looking for…? · I was hoping we could… · We were thinking of… · I was going to ask… Thang lịch sự: Can I…? → Could I…? → I was wondering if I could… → I was just wondering whether I might… Chọn mức hợp với việc nhờ và người nghe: việc nhỏ với người thân mà quá dè dặt thì nghe kỳ, như mỉa mai. Sau wonder là if / whether + trật tự câu kể (if you could, không phải if could you).
+form: I was wondering if + S + could… | I was wondering if I could take Friday off.
+form: I wanted to… · Did you want…? (nói về bây giờ) | I wanted to ask you something.
+form: I was hoping… · We were thinking of… · I was going to… | We were thinking of going to the beach.
+form: mức lịch sự phải hợp tình huống | Can you pass the salt?
+cast: nam ms-khan
+bg: office
+words: wonder, lift, training, course, report, salary
+names: Hue
+
+#hook
+nam: Do you have a minute? I was wondering if I could take Friday off. | Chị có rảnh một phút không ạ? Em muốn hỏi liệu em có thể nghỉ thứ Sáu được không. [shy]
+ms-khan: Friday? Did you want the whole day? | Thứ Sáu à? Em muốn nghỉ cả ngày à? [thinking]
+nam: If possible. I wanted to visit my parents in Hue. | Nếu được ạ. Em định về thăm bố mẹ ở Huế. [explain]
+ms-khan: That should be fine. I was hoping you could finish the report first, though. | Chắc không sao đâu. Nhưng chị mong em hoàn thành bản báo cáo trước đã. [explain]
+> Để ý: cả hai đang nói về bây giờ, nhưng đều dùng quá khứ: [[I was wondering]], [[Did you want]], [[I wanted to]], [[I was hoping]]. Quá khứ ở đây không chỉ thời gian. Nó tạo một khoảng cách nhỏ, làm lời đề nghị mềm và lịch sự hơn.
+
+#form
+th: Mức độ | Câu
+tb: trực tiếp | Can I take Friday off?
+tb: lịch sự | Could I take Friday off?
+tb: mềm hơn | I was wondering if I could take Friday off.
+tb: rất dè dặt | I was just wondering whether I might take Friday off.
+> Mỗi bậc thêm một lớp khoảng cách: [[could]] thay [[can]], rồi quá khứ tiếp diễn [[I was wondering]], rồi [[just]] và [[might]]. Càng xuống dưới càng dè dặt.
+f: [I was wondering / I was hoping] + [if / whether] + chủ ngữ + [could / might] + V
+> Sau [[if]], [[whether]] là trật tự câu kể: [[if you could]], không phải [[if could you]]. Dạng tiếp diễn [[was wondering]] nghe nhẹ hơn [[wondered]].
+
+#examples
+- {I wanted to|k} ask you something. | Tôi muốn hỏi bạn một chuyện.
+- {Were you looking|k} for anything special? | Anh chị đang tìm món gì đặc biệt ạ?
+- {We were thinking of|k} going to the beach this weekend. | Chúng tôi đang tính cuối tuần đi biển.
+- {I was going to|k} ask if you needed a lift. | Tôi đang định hỏi xem bạn có cần đi nhờ xe không.
+
+#contrast
+vs: I wanted to buy a car last year. | Năm ngoái tôi muốn mua xe. || quá khứ thật: năm ngoái
+vs: I wanted to ask you about your plans. | Tôi muốn hỏi bạn về kế hoạch sắp tới. || quá khứ lịch sự: ngay bây giờ
+> Câu đầu có mốc [[last year]]: quá khứ thật. Câu sau không có mốc nào, và người nói đang hỏi ngay lúc này: đó là quá khứ để giữ khoảng cách.
+
+#natural
+rank: best | Can you pass the salt? | Đưa giùm mình lọ muối được không?
+rank: odd | I was wondering whether you might possibly pass the salt.
+> Với người thân, bạn bè, trong một việc nhỏ, câu quá dè dặt nghe kỳ quặc, thậm chí như mỉa mai. Mức lịch sự phải hợp với việc nhờ và với người nghe.
+
+#mistakes
+x: I was wondering if could you help me. => I was wondering if you could help me. | Không biết bạn có thể giúp tôi được không. >> Sau [[if]] là trật tự câu kể: [[you could]].
+x: I was wondered if you were free. => I was wondering if you were free. | Không biết bạn có rảnh không. >> Dạng tiếp diễn: [[was wondering]].
+x: I was wondering that you could call me. => I was wondering if you could call me. | Không biết bạn có thể gọi cho tôi không. >> [[Wonder]] đi với [[if]], [[whether]], không đi với [[that]].
+
+#dialogue
+nam: Of course. I was planning to finish it on Thursday. | Tất nhiên ạ. Em đã định làm xong vào thứ Năm. [happy]
+ms-khan: Perfect. Was there anything else? | Tốt quá. Còn việc gì nữa không em? [happy]
+nam: Just one thing. I was going to ask about the training course. | Chỉ một việc thôi ạ. Em đang định hỏi về khóa đào tạo. [shy]
+ms-khan: Let's talk about that on Monday. | Thứ Hai mình bàn chuyện đó nhé. [explain]
+
+#recall
+? Nhờ lịch sự bằng tiếng Anh, dùng [[I was wondering]]: Không biết anh có thể xem giúp tôi email này không. => I was wondering if you could look at this email for me. | Không biết anh có thể xem giúp tôi email này không.
+? Nói bằng tiếng Anh, dùng [[I wanted to]]: Tôi muốn cảm ơn bạn vì đã giúp đỡ. => I wanted to thank you for your help. | Tôi muốn cảm ơn bạn vì đã giúp đỡ.
+
+#recap
+> Lùi về quá khứ để giữ khoảng cách: [[I was wondering if]], [[I wanted to]], [[Did you want]], [[I was hoping]], [[I was going to]]. Nói về bây giờ, nhưng mềm và lịch sự hơn. Và chọn mức lịch sự hợp với việc nhờ, với người nghe.
+
+#practice
+fill: I was ___ if you could help me move on Saturday. | wondering* / wondered / wonder || I was wondering if…
+fill: Excuse me, ___ you looking for something? | were* / did / have || Were you looking…? = lịch sự.
+fill: I was hoping we ___ talk about my salary. | could* / can't / should to || I was hoping + S + could.
+fix: I was wondering if can I leave early. | I was wondering if I could leave early.* / I was wondering if could I leave early. / I was wondering can I leave early. || if + chủ ngữ + could.
+transform: Viết lại cho mềm hơn: | Can you send me the file? >> I was wondering if you could send me the file.* / I was wondering could you send me the file. / I wondered you could send me the file. || I was wondering if + S + could.
+choice: “I wanted to ask you something.” Người nói muốn hỏi khi nào? | Ngay bây giờ* / Hôm qua / Năm ngoái || Quá khứ lịch sự, nói về hiện tại.
+choice: Nhờ bạn thân đưa lọ muối, câu nào tự nhiên? | Can you pass the salt?* / I was wondering whether you might possibly pass the salt. / I was hoped you could pass the salt. || Việc nhỏ, người thân → câu đơn giản.
+type: I ___ going to ask if you needed a lift. (đang định) | was || I was going to… = tôi đang định….
+order: I / was / wondering / if / I / could / take / Friday / off. | Em muốn hỏi liệu em có thể nghỉ thứ Sáu được không.
+listen: That should be fine. I was hoping you could finish the report first, though. | That should be fine. I was hoping you could finish the report first, though.* / That should be fine. I was hoping you could send the report first, though. / That's fine. I hope you finish the report first. || Nghe was hoping … finish the report.

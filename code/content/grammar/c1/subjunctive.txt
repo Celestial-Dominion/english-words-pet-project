@@ -1,0 +1,79 @@
+=== subjunctive
+sum: Giả định cách (subjunctive): sau động từ insist, demand, recommend, suggest, request, ask, propose + that, và sau tính từ essential, vital, crucial, important + that, động từ ở NGUYÊN THỂ TRẦN cho mọi chủ ngữ — không thêm -s, không lùi thì, be giữ nguyên, phủ định chỉ cần not (The doctor recommended that he rest · It is essential that everyone be on time · We ask that guests not smoke). Nói về điều CẦN xảy ra, không phải điều đang xảy ra. Tiếng Anh Mỹ và văn trang trọng dùng rộng rãi; người Anh hay thêm should (…that he should rest). Không nói suggest him to do. Vài thành ngữ giữ dạng này: Be that as it may · if need be · come what may.
+form: insist / demand / recommend / suggest + that + S + nguyên thể | The doctor recommended that he rest.
+form: It is essential / vital / important + that + S + nguyên thể | It is essential that everyone be on time.
+form: phủ định: that + S + not + V | We ask that guests not smoke.
+form: thành ngữ: Be that as it may · if need be · come what may | We'll stay late, if need be.
+cast: mr-ross ana
+bg: office
+words: request, insist, essential, vital, passenger, client
+
+#hook
+mr-ross: The client has requested that the meeting be moved to Monday. | Khách hàng đề nghị dời cuộc họp sang thứ Hai. [explain]
+ana: Monday? Then it's essential that everyone be told today. | Thứ Hai ạ? Vậy nhất thiết phải báo cho mọi người ngay hôm nay. [worried]
+mr-ross: Yes. And I'd suggest that you book the big room. | Đúng. Và tôi đề nghị chị đặt phòng lớn. [thinking]
+ana: I'll do it now. I insist that nobody be late this time! | Tôi làm ngay đây. Lần này tôi nhất định không để ai đến muộn! [happy]
+> Sau [[requested that]], [[essential that]], [[suggest that]], động từ ở dạng nguyên thể trần, với mọi chủ ngữ: [[the meeting be moved]], [[everyone be told]], [[you book]]. Đây là giả định cách: nói về điều cần xảy ra, không phải điều đang xảy ra.
+
+#form
+f: [insist / demand / recommend / suggest] + [that] + chủ ngữ + nguyên thể
+> Nhóm động từ yêu cầu, đề nghị, khuyên nhủ. Sau [[that]], động từ không chia theo chủ ngữ: [[that he rest]], không phải [[that he rests]].
+f2: [It is essential / vital / important] + [that] + chủ ngữ + nguyên thể
+> Nhóm tính từ nói về sự cần thiết cũng vậy: [[It is vital that she be here]].
+th: Câu thường | Giả định cách
+tb: He rests. | …recommended that he rest.
+tb: She is on time. | …essential that she be on time.
+tb: He doesn't come. | …insisted that he not come.
+> Không thêm [[-s]], không lùi thì, [[be]] giữ nguyên [[be]]. Phủ định cũng không cần [[do]]: chỉ đặt [[not]] trước động từ.
+
+#examples
+- The doctor {recommended that|k} he {rest|v} for a week. | Bác sĩ khuyên ông ấy nghỉ ngơi một tuần.
+- It is {vital that|k} every passenger {wear|v} a seat belt. | Mọi hành khách bắt buộc phải thắt dây an toàn.
+- They {demanded that|k} the company {pay|v} them back. | Họ yêu cầu công ty hoàn tiền cho họ.
+- We {ask that|k} guests {not smoke|v} in the rooms. | Chúng tôi đề nghị quý khách không hút thuốc trong phòng.
+
+#contrast
+vs: She insisted that he stay for dinner. | Cô ấy nhất quyết bảo anh ấy ở lại ăn tối. || yêu cầu: nguyên thể
+vs: She insisted that he stayed for dinner. | Cô ấy khăng khăng rằng anh ấy đã ở lại ăn tối. || khẳng định một sự việc: quá khứ
+> [[Insist]] có hai nghĩa. Nhất quyết đòi một điều xảy ra: dùng giả định cách. Khăng khăng rằng một điều là thật: chia thì bình thường.
+
+#natural
+rank: best | The doctor recommended that he rest. | Bác sĩ khuyên ông ấy nghỉ ngơi.
+rank: ok | The doctor recommended that he should rest. | Bác sĩ khuyên ông ấy nên nghỉ ngơi.
+> Người Mỹ và văn trang trọng dùng nguyên thể trần. Người Anh hay thêm [[should]], hoặc khi nói chuyện thì chia thì bình thường. Cả hai đều đúng; dạng không có [[should]] gọn và trang trọng hơn.
+
+#real
+- {Be that as it may|k}, we still need a decision. | Dù có thế đi nữa, chúng ta vẫn cần một quyết định.
+- We'll work at the weekend, {if need be|k}. | Nếu cần thì chúng ta sẽ làm cả cuối tuần.
+- I'll finish this project, {come what may|k}. | Dù có chuyện gì, tôi cũng sẽ làm xong dự án này.
+> Vài thành ngữ cổ vẫn giữ giả định cách: [[Be that as it may]], [[if need be]], [[come what may]]. Chúng cố định, cứ học nguyên cụm.
+
+#mistakes
+x: The doctor suggested me to rest. => The doctor suggested that I rest. | Bác sĩ khuyên tôi nghỉ ngơi. >> [[Suggest]] không đi với người cộng [[to]]. Dùng [[suggest that]] cộng chủ ngữ cộng nguyên thể.
+x: I demand that you will leave now. => I demand that you leave now. | Tôi yêu cầu anh rời đi ngay. >> Sau [[demand that]], không dùng [[will]]: động từ ở nguyên thể trần.
+x: They recommended that he to take a break. => They recommended that he take a break. | Họ khuyên anh ấy nghỉ một lát. >> Không có [[to]] sau chủ ngữ: [[that he take]].
+
+#dialogue
+ana: Should I also ask that people send their questions in advance? | Tôi có nên đề nghị mọi người gửi câu hỏi trước không ạ? [thinking]
+mr-ross: Good idea. I'd recommend that the questions be sent by Friday. | Ý hay đấy. Tôi đề nghị câu hỏi được gửi trước thứ Sáu. [happy]
+ana: And what if the client is late again? | Còn nếu khách hàng lại đến muộn thì sao ạ? [worried]
+mr-ross: We'll wait ten minutes. After that, I suggest we start without them. | Mình chờ mười phút. Sau đó, tôi đề nghị cứ bắt đầu mà không đợi họ. [explain]
+
+#recall
+? Viết trang trọng bằng tiếng Anh, dùng [[essential that]]: Nhất thiết mọi người phải có mặt đúng giờ. => It is essential that everyone be on time. | Nhất thiết mọi người phải có mặt đúng giờ.
+? Nói bằng tiếng Anh, dùng [[suggest that]]: Tôi đề nghị anh ấy xin lỗi. => I suggest that he apologize. | Tôi đề nghị anh ấy xin lỗi.
+
+#recap
+> Sau các từ yêu cầu, đề nghị, cần thiết như [[insist]], [[recommend]], [[essential]], mệnh đề [[that]] dùng nguyên thể trần cho mọi chủ ngữ: [[that he rest]], [[that she be]], [[that they not smoke]]. Người Anh hay thêm [[should]]. Và nhớ: không nói [[suggest him to]].
+
+#practice
+fill: The doctor recommended that she ___ more water. | drink* / drinks / drank || recommend that + S + nguyên thể.
+fill: It is essential that he ___ informed immediately. | be* / is / was || essential that + S + be.
+fill: The teacher insisted that the students ___ use their phones in class. | not* / don't / didn't || Phủ định: that + S + not + V.
+fix: My boss suggested me to take a day off. | My boss suggested that I take a day off.* / My boss suggested me take a day off. / My boss suggested to me take a day off. || suggest that + S + nguyên thể.
+transform: Viết lại trang trọng, bắt đầu bằng It is vital that: | Everyone must read the rules. >> It is vital that everyone read the rules.* / It is vital that everyone to read the rules. / It is vital for everyone read the rules. || It is vital that + S + nguyên thể.
+choice: “She insisted that he stay.” nghĩa là: | Cô ấy nhất quyết bảo anh ấy ở lại* / Cô ấy khẳng định anh ấy đã ở lại / Cô ấy muốn ở lại cùng anh ấy || insist that + S + nguyên thể = đòi điều đó xảy ra.
+choice: Nội quy khách sạn, câu nào phù hợp nhất? | We ask that guests not smoke in the rooms.* / Guys, no smoking, OK? / Don't smoke or else! || Văn trang trọng → ask that + S + not + V.
+type: I demand that he ___ the money back. (trả lại) | pay || demand that + S + nguyên thể.
+order: They / demanded / that / the / company / pay / them / back. | Họ yêu cầu công ty hoàn tiền cho họ.
+listen: The client has requested that the meeting be moved to Monday. | The client has requested that the meeting be moved to Monday.* / The client has requested that the meeting be moved to Friday. / The client has suggested moving the meeting to Monday. || Nghe be moved to Monday.

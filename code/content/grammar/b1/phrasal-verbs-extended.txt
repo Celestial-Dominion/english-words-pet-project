@@ -1,0 +1,68 @@
+=== phrasal-verbs-extended
+sum: Cụm động từ ba từ = động từ + trạng từ + giới từ, luôn đi liền, tân ngữ đứng CUỐI (không tách như turn it off): run out of (hết), come up with (nghĩ ra), get on with (làm tiếp), get along with (hòa hợp), look forward to + V-ing (mong chờ), catch up with (đuổi kịp), put up with (chịu đựng), look up to (ngưỡng mộ), keep up with (theo kịp), cut down on (cắt giảm). Nghĩa khác hẳn từng từ — học như từ vựng. Cụm động từ nghe đời thường; động từ một từ (tolerate) trang trọng hơn.
+form: động từ + trạng từ + giới từ + tân ngữ | We've run out of coffee.
+form: không tách: come up with an idea | (không nói come up an idea with)
+form: look forward to + V-ing | I'm looking forward to working on it.
+form: nghĩa khác từng từ → học như từ mới | put up with = chịu đựng
+cast: mr-ross mia
+bg: office
+prop: mug x=820
+words: idea, noise, run, catch, anymore, plan
+gloss: ad, script, tolerate
+
+#hook
+mr-ross: We've run out of ideas for the new ad. | Chúng ta cạn ý tưởng cho quảng cáo mới rồi. [worried]
+mia: Don't worry. I'll come up with something. | Đừng lo. Tôi sẽ nghĩ ra cái gì đó. [happy]
+mr-ross: Great. And we've also run out of coffee! | Tốt. À, chúng ta còn hết cả cà phê nữa! [surprised @mug]
+mia: That's a bigger problem! I can't get on with my work without coffee. | Đó mới là vấn đề lớn! Không có cà phê thì tôi chẳng làm tiếp được. [happy]
+> [[Run out of]]: hết, cạn. [[Come up with]]: nghĩ ra. [[Get on with]]: làm tiếp. Đây là những cụm động từ gồm ba từ, và nghĩa của chúng khác hẳn nghĩa từng từ ghép lại.
+
+#form
+th: Cụm động từ | Nghĩa | Ví dụ
+tb: run out of | hết, cạn | We've run out of milk.
+tb: come up with | nghĩ ra | She came up with a plan.
+tb: look forward to | mong chờ | I look forward to it.
+tb: get along with | hòa hợp với | I get along with my boss.
+tb: catch up with | đuổi kịp | I'll catch up with you.
+tb: cut down on | cắt giảm | I'm cutting down on sugar.
+> Cụm ba từ luôn đi liền nhau, tân ngữ đứng ở cuối: [[come up with an idea]]. Khác với cụm hai từ như [[turn it off]], ở đây không chen gì vào giữa.
+
+#examples
+- I can't {put up with|k} this noise anymore. | Tôi không chịu nổi tiếng ồn này nữa.
+- My brother {looks up to|k} our dad. | Anh tôi rất ngưỡng mộ bố.
+- It's hard to {keep up with|k} the news. | Thật khó mà theo kịp tin tức.
+- We {ran out of|k} time. | Chúng tôi hết thời gian.
+
+#natural
+rank: best | I can't put up with it. | Tôi không chịu nổi chuyện đó.
+rank: ok | I can't tolerate it. | Tôi không thể chấp nhận chuyện đó.
+> Cụm động từ nghe tự nhiên, đời thường. Những động từ một từ, như [[tolerate]], thì trang trọng hơn, hay gặp trong văn viết. Nói chuyện hằng ngày, người bản ngữ dùng cụm động từ nhiều hơn hẳn.
+
+#mistakes
+x: We've run out milk. => We've run out of milk. | Chúng tôi hết sữa rồi. >> Đừng quên [[of]]: [[run out of]].
+x: She came up an idea with. => She came up with an idea. | Cô ấy nghĩ ra một ý tưởng. >> Cụm ba từ không tách, tân ngữ đứng cuối.
+x: Do you get along your sister? => Do you get along with your sister? | Bạn có hòa hợp với chị gái không? >> Cần [[with]]: [[get along with]].
+
+#dialogue
+mia: I've got an idea! What about a funny video? | Tôi nghĩ ra rồi! Làm một video hài thì sao? [happy cheer]
+mr-ross: I like it. Can you come up with a script by Friday? | Tôi thích đấy. Cô viết kịch bản được trước thứ sáu không? [thinking]
+mia: Sure. I'm looking forward to working on it. | Được chứ. Tôi rất háo hức được bắt tay vào làm. [happy]
+mr-ross: Great! I'll go and buy more coffee. | Tuyệt! Tôi sẽ đi mua thêm cà phê. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Chúng tôi hết giấy rồi. => We've run out of paper. | Chúng tôi hết giấy rồi.
+? Nói bằng tiếng Anh: Tôi rất mong đến kỳ nghỉ. => I'm looking forward to the holiday. | Tôi rất mong đến kỳ nghỉ.
+
+#recap
+> Cụm động từ ba từ đi liền nhau, tân ngữ đứng cuối: [[run out of]], [[come up with]], [[look forward to]], [[get along with]]. Nghĩa của cả cụm khác từng từ, nên hãy học chúng như học từ mới.
+
+#practice
+fill: We've run out ___ sugar. | of* / from / with || Run out of.
+fill: Who came up ___ this idea? | with* / to / for || Come up with.
+fill: I get along ___ my classmates. | with* / to / on || Get along with.
+fix: She came up a great plan with. | She came up with a great plan.* / She came a great plan up with. / She came with up a great plan. || Không tách cụm ba từ.
+type: I'm looking forward ___ the weekend. | to || Look forward to.
+choice: “I can't put up with it.” nghĩa là: | Tôi không chịu nổi chuyện đó* / Tôi không thể đặt nó lên / Tôi không thể dọn nó đi || Put up with = chịu đựng.
+contrast: I'm trying to cut ___ on sugar. | down* / out || Cut down on = cắt giảm.
+order: My / brother / looks / up / to / our / dad. | Anh tôi rất ngưỡng mộ bố.
+listen: We ran out of time. | We ran out of time.* / We ran out of the room. / We have lots of time. || Nghe ran out of time.

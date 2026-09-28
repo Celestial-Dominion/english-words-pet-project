@@ -1,0 +1,71 @@
+=== should
+sum: Should / shouldn't + động từ nguyên thể để khuyên: You should take a break. You shouldn't work so late. Xin lời khuyên: Should I…? · What should I do? Should nhẹ hơn must nhiều — chỉ là lời khuyên. Khuyên nhẹ nhàng: I think you should… / I don't think you should… (tự nhiên hơn I think you shouldn't). Gợi ý thân mật: Why don't you…?
+form: should / shouldn't + nguyên thể | You should take a break.
+form: Should I…? · What should I do? | xin lời khuyên
+form: should = lời khuyên · must = bắt buộc | You should wear a coat.
+form: Why don't you…? · I don't think you should… | gợi ý · khuyên nhẹ nhàng
+cast: ana mia
+bg: office
+prop: report x=820
+words: should, advice, break, headache, report, rest
+gloss: headache, rest
+
+#hook
+ana: Mia, are you OK? You look tired. | Chị Mia, chị ổn không? Trông chị mệt quá. [worried]
+mia: I have a headache. I worked until midnight. | Tôi đau đầu. Tối qua tôi làm tới nửa đêm. [tired]
+ana: You should take a break. And you shouldn't work so late. | Chị nên nghỉ một lát. Và chị không nên làm khuya như thế. [explain]
+mia: You're right. But what should I do about this report? | Em nói đúng. Nhưng bản báo cáo này thì tôi nên làm sao? [thinking @report]
+ana: Why don't you finish it tomorrow? | Sao chị không để mai làm nốt? [happy]
+> [[Should]] để khuyên: [[You should take a break]], chị nên nghỉ. [[Shouldn't]] là không nên. Muốn xin lời khuyên thì hỏi [[What should I do?]]. Còn [[Why don't you]] là một gợi ý thân mật, chứ không hỏi tại sao.
+
+#form
+f: Chủ ngữ + [should / shouldn't] + động từ nguyên thể
+> [[Should]] không đổi theo chủ ngữ, và theo sau là động từ nguyên thể, không có [[to]].
+- You {should|k} drink more water. | Bạn nên uống nhiều nước hơn.
+- Kids {shouldn't|n} eat too much sugar. | Trẻ con không nên ăn quá nhiều đường.
+- {Should|a} I call her? | Tôi có nên gọi cho cô ấy không?
+
+#meaning
+th: Từ | Nghĩa | Ví dụ
+tb: should | nên (lời khuyên) | You should wear a coat.
+tb: must | phải (bắt buộc) | You must wear a helmet.
+> [[Should]] nhẹ hơn [[must]] rất nhiều. [[Should]] chỉ là lời khuyên, người nghe có thể không làm theo. [[Must]] là bắt buộc, hoặc thật sự cần thiết.
+
+#examples
+- {Why don't you|k} ask your teacher? | Sao bạn không hỏi cô giáo?
+- You {should|k} try the fish here. It's great. | Bạn nên thử món cá ở đây. Ngon lắm.
+- We {shouldn't|n} be late. | Chúng ta không nên đến muộn.
+
+#natural
+rank: best | I don't think you should go. | Tôi nghĩ bạn không nên đi.
+rank: ok | I think you shouldn't go. | Tôi nghĩ bạn không nên đi.
+> Tiếng Việt nói “tôi nghĩ bạn không nên”. Người bản ngữ thì hay chuyển chữ [[not]] lên [[think]]: [[I don't think you should go]]. Cách này nghe nhẹ nhàng và tự nhiên hơn.
+
+#mistakes
+x: You should to see a doctor. => You should see a doctor. | Bạn nên đi khám bác sĩ. >> Sau [[should]] không có [[to]].
+x: He shoulds study harder. => He should study harder. | Cậu ấy nên học chăm hơn. >> [[Should]] không bao giờ thêm [[s]].
+x: Why you don't ask him? => Why don't you ask him? | Sao bạn không hỏi anh ấy? >> Thứ tự đúng là [[Why don't you]].
+
+#dialogue
+mia: Should I go home now? | Tôi có nên về nhà luôn không? [thinking]
+ana: Yes, you should. I'll tell our manager. | Có chứ, chị nên về. Em sẽ báo quản lý. [happy]
+mia: Thanks, Ana. You're a good friend. | Cảm ơn em, Ana. Em đúng là bạn tốt. [happy]
+ana: And you should sleep early tonight! | Và tối nay chị nên ngủ sớm nhé! [happy point]
+
+#recall
+? Khuyên bằng tiếng Anh: Bạn nên đi ngủ sớm. => You should go to bed early. | Bạn nên đi ngủ sớm.
+? Xin lời khuyên bằng tiếng Anh: Tôi nên làm gì? => What should I do? | Tôi nên làm gì?
+
+#recap
+> Khuyên là [[should]], không nên là [[shouldn't]], rồi đến động từ nguyên thể. Xin lời khuyên: [[Should I]], [[What should I do?]]. Gợi ý thân mật: [[Why don't you]].
+
+#practice
+fill: You look tired. You ___ get some rest. | should* / shouldn't / must to || Khuyên nghỉ → should.
+fill: You ___ drink coffee at night. | shouldn't* / should / don't should || Khuyên không nên → shouldn't.
+fix: She should to eat more vegetables. | She should eat more vegetables.* / She shoulds eat more vegetables. / She should eats more vegetables. || Should + nguyên thể.
+choice: “Why don't you take a taxi?” là: | Một gợi ý: bạn đi taxi đi* / Câu hỏi: vì sao bạn không đi taxi? / Một lời cấm || Why don't you…? = gợi ý.
+choice: Câu nào tự nhiên hơn? | I don't think you should buy it.* / I think you shouldn't buy it. || Người bản ngữ hay nói I don't think you should…
+transform: Chuyển thành câu hỏi xin lời khuyên: | I should call her. >> Should I call her?* / Do I should call her? / Should I to call her? || Đưa should lên đầu.
+type: What ___ I do? (nên) | should || What should I do?
+order: Why / don't / you / ask / your / teacher? | Sao bạn không hỏi cô giáo?
+listen: Kids shouldn't eat too much sugar. | Kids shouldn't eat too much sugar.* / Kids should eat too much sugar. / Kids don't eat too much sugar. || Nghe shouldn't.

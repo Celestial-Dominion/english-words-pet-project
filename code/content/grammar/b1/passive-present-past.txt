@@ -1,0 +1,66 @@
+=== passive-present-past
+sum: Bị động: be + V3 — khi việc được làm quan trọng hơn người làm, hoặc không biết / không cần nói ai làm: Coffee is grown in the mountains. The beans are picked by hand. My bike was stolen. Thì nằm ở be: is / are (hiện tại), was / were (quá khứ). Người làm đứng sau by, chỉ khi đáng nhắc tới. Hỏi: Where is it made? When was it built? Tiếng Việt lúc “được”, lúc “bị”, lúc không có gì — tiếng Anh chỉ một cấu trúc. Happen, arrive… không có tân ngữ thì không có bị động (was happened ✗).
+form: is / are + V3 | Coffee is grown here.
+form: was / were + V3 | This bridge was built in 1990.
+form: … by + người làm | The farm was started by my grandfather.
+form: Where is it made? · When was it built? | câu hỏi
+cast: ana jay
+bg: village
+words: grow, pick, dry, build, steal, sell
+gloss: bean
+names: Mekong Delta, Van Gogh
+
+#hook
+ana: Wow, so this is where coffee comes from! | Ồ, hóa ra cà phê được làm ra ở đây! [happy]
+jay: Yes. Coffee is grown here in the mountains. The beans are picked by hand. | Đúng vậy. Cà phê được trồng ở vùng núi này. Hạt được hái bằng tay. [explain]
+ana: By hand? That's a lot of work! | Bằng tay á? Vất vả quá! [surprised]
+jay: Then they're dried in the sun for two weeks. | Rồi hạt được phơi nắng trong hai tuần. [explain]
+> Khi kể một quy trình, người ta dùng câu bị động: [[Coffee is grown]], [[The beans are picked]], [[They're dried]]. Điều quan trọng là cà phê được làm thế nào, chứ không phải ai làm.
+
+#form
+f: Chủ ngữ + [is / are / was / were] + phân từ quá khứ + (by …)
+> Thì của câu nằm ở động từ [[be]]: [[is]], [[are]] cho hiện tại, [[was]], [[were]] cho quá khứ. Động từ chính luôn ở dạng phân từ.
+mv: Farmers pick the beans . => The beans are picked by farmers .
+> Tân ngữ [[the beans]] chuyển lên làm chủ ngữ. Người làm, nếu cần nói, đứng sau [[by]].
+
+#examples
+- English {is spoken|k} in many countries. | Tiếng Anh được nói ở nhiều nước.
+- This bridge {was built|k} in 1990. | Cây cầu này được xây năm 1990.
+- My bike {was stolen|k} last night. | Tối qua xe đạp của tôi bị lấy trộm.
+- {Where|q} {are|a} these shoes {made|k}? | Đôi giày này sản xuất ở đâu?
+> Tiếng Việt có lúc nói “được”, có lúc nói “bị”, có lúc chẳng nói gì. Tiếng Anh thì chỉ có một cấu trúc: [[be]] cộng phân từ.
+
+#meaning
+vs: Someone stole my bike. | Có người lấy trộm xe đạp của tôi. || chủ động: nói về người làm
+vs: My bike was stolen. | Xe đạp của tôi bị trộm mất. || bị động: nói về chiếc xe
+> Không biết ai làm, hay ai làm không quan trọng, thì dùng bị động và bỏ luôn [[by]]. Chỉ thêm [[by]] khi người làm là thông tin đáng nói, như [[painted by Van Gogh]].
+
+#mistakes
+x: Coffee is grow in Vietnam. => Coffee is grown in Vietnam. | Cà phê được trồng ở Việt Nam. >> Sau [[be]] là phân từ: [[grown]].
+x: The house built in 1995. => The house was built in 1995. | Ngôi nhà được xây năm 1995. >> Bị động phải có [[be]]: [[was built]].
+x: This book was wrote by a doctor. => This book was written by a doctor. | Cuốn sách này do một bác sĩ viết. >> Phân từ của [[write]] là [[written]].
+x: The accident was happened at night. => The accident happened at night. | Vụ tai nạn xảy ra vào ban đêm. >> [[Happen]] không có tân ngữ, nên không có bị động.
+
+#dialogue
+ana: When was this farm started? | Trang trại này có từ khi nào? [thinking]
+jay: It was started by my grandfather in 1985. | Nó do ông tôi lập năm 1985. [happy]
+ana: And is your coffee sold in Hanoi? | Thế cà phê nhà anh có được bán ở Hà Nội không? [thinking]
+jay: Yes! It's sold all over Vietnam, and some is even sent to Japan. | Có! Nó được bán khắp Việt Nam, một phần còn được gửi sang cả Nhật. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Ngôi chùa này được xây năm 1070. => This temple was built in 1070. | Ngôi chùa này được xây năm 1070.
+? Hỏi bằng tiếng Anh: Chiếc điện thoại này sản xuất ở đâu? => Where is this phone made? | Chiếc điện thoại này sản xuất ở đâu?
+
+#recap
+> Câu bị động là [[be]] cộng phân từ. Thì nằm ở [[be]]: [[is]], [[are]], [[was]], [[were]]. Dùng khi việc được làm quan trọng hơn người làm, và chỉ thêm [[by]] khi người làm đáng được nhắc tới.
+
+#practice
+fill: Rice ___ grown in the Mekong Delta. | is* / are / does || Rice, sự thật hiện tại → is.
+fill: This song was ___ in 1985. | written* / wrote / write || Was + phân từ.
+fix: My wallet stole on the bus. | My wallet was stolen on the bus.* / My wallet was stole on the bus. / My wallet is stealing on the bus. || Bị động: was + stolen.
+fix: The meeting was happened yesterday. | The meeting happened yesterday.* / The meeting was happen yesterday. / The meeting is happened yesterday. || Happen không có bị động.
+transform: Chuyển sang bị động: | People speak English here. >> English is spoken here.* / English speaks here. / English is speak here. || Be + phân từ.
+choice: Không biết ai làm, câu nào tự nhiên nhất? | My car was damaged last night.* / Someone unknown damaged my car last night. / My car damaged last night. || Không biết ai làm → bị động.
+type: Where ___ these shoes made? | are || Shoes số nhiều → are.
+order: The / beans / are / picked / by / hand. | Hạt được hái bằng tay.
+listen: My bike was stolen last night. | My bike was stolen last night.* / My bike is stolen every night. / Someone stole my bike last week. || Nghe was stolen last night.

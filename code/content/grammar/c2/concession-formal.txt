@@ -1,0 +1,74 @@
+=== concession-formal
+sum: Nhượng bộ trang trọng. For all + danh từ = dù có bao nhiêu… (For all its problems, the project succeeded). albeit + tính từ / trạng từ / cụm từ = dù (là) — không đi với mệnh đề (albeit slowly, không nói albeit it was slow). notwithstanding + danh từ = bất chấp, rất trang trọng, văn bản pháp lý (không có of). Granted, … = phải thừa nhận (rồi phản bác). Thành ngữ giả định cách: Be that as it may = dù có thế đi nữa · Suffice it to say (that)… = chỉ cần nói rằng · Far be it from me to… = tôi không dám… (khiêm tốn trước khi phê bình). Chuyện đời thường thì despite, although tự nhiên hơn.
+form: For all + danh từ, … (dù có bao nhiêu…) | For all its problems, the project succeeded.
+form: albeit + tính từ / trạng từ (không có mệnh đề) | He agreed, albeit reluctantly.
+form: notwithstanding + danh từ · Granted, … | Notwithstanding the bad weather, the event went ahead.
+form: Be that as it may · Suffice it to say · Far be it from me to… | Be that as it may, the client is delighted.
+cast: ms-khan mr-ross
+bg: service-hall
+words: grant, fault, phase, budget, client, reluctantly
+gloss: albeit, notwithstanding
+
+#hook
+ms-khan: For all its problems, the project has been a success. | Dù còn nhiều vấn đề, dự án vẫn thành công. [explain]
+mr-ross: Granted, we went over budget, albeit only slightly. | Phải công nhận là chúng ta vượt ngân sách, dù chỉ một chút. [thinking]
+ms-khan: Be that as it may, the client is delighted. | Dù có thế đi nữa, khách hàng vẫn rất hài lòng. [happy]
+mr-ross: Suffice it to say, they've already asked for a second phase. | Chỉ cần nói thế này: họ đã đề nghị làm giai đoạn hai rồi. [happy]
+> Bốn cách nhượng bộ trang trọng. [[For all its problems]]: dù có bao nhiêu vấn đề. [[Granted]]: phải thừa nhận. [[Albeit only slightly]]: dù chỉ một chút. [[Be that as it may]]: dù có thế đi nữa. Và [[Suffice it to say]]: chỉ cần nói rằng.
+
+#form
+th: Cách nói | Nghĩa | Theo sau
+tb: For all + danh từ | dù có bao nhiêu… | danh từ
+tb: albeit | dù (là) | tính từ, trạng từ
+tb: notwithstanding | bất chấp (rất trang trọng) | danh từ
+tb: Granted, … | phải thừa nhận | mệnh đề
+tb: Be that as it may, … | dù có thế đi nữa | mệnh đề
+> Cột cuối quan trọng nhất: mỗi cụm đi với một loại thành phần. Nhầm loại là câu sai ngay, dù nghĩa nghe có vẻ đúng.
+f: [albeit] + tính từ / trạng từ / cụm từ
+> [[Albeit]] không đi với cả một mệnh đề: [[albeit slowly]], [[albeit small]], không nói [[albeit it was slow]]. Có mệnh đề thì dùng [[although]].
+
+#examples
+- {For all|k} his money, he isn't happy. | Dù giàu có đến đâu, ông ấy vẫn không hạnh phúc.
+- It was a small, {albeit|k} important, change. | Đó là một thay đổi nhỏ, dù quan trọng.
+- {Notwithstanding|k} the bad weather, the event went ahead. | Bất chấp thời tiết xấu, sự kiện vẫn diễn ra.
+- {Far be it from me|k} to complain, but the room is freezing. | Tôi không dám phàn nàn, nhưng căn phòng lạnh cóng.
+
+#contrast
+vs: He agreed, albeit reluctantly. | Anh ấy đồng ý, dù miễn cưỡng. || albeit + trạng từ
+vs: He agreed, although he was reluctant. | Anh ấy đồng ý, dù trong lòng không muốn. || although + mệnh đề
+> Cùng một ý, hai cách dựng. [[Albeit]] gọn, trang trọng, chỉ cần một từ. [[Although]] cần cả một mệnh đề, và dùng được ở mọi văn phong.
+
+#natural
+rank: best | Despite the rain, we had a great time. | Dù trời mưa, chúng tôi vẫn rất vui.
+rank: ok | Notwithstanding the rain, we had a great time. | Bất chấp cơn mưa, chúng tôi vẫn rất vui.
+> [[Notwithstanding]] rất trang trọng, hay gặp trong văn bản pháp lý, báo cáo chính thức. Kể chuyện đi chơi với bạn mà dùng từ này thì nghe như đang đọc hợp đồng.
+
+#mistakes
+x: Albeit it was late, we kept working. => Although it was late, we kept working. | Dù đã muộn, chúng tôi vẫn làm tiếp. >> [[Albeit]] không đi với mệnh đề. Có mệnh đề thì dùng [[although]].
+x: Notwithstanding of the delay, the plane landed safely. => Notwithstanding the delay, the plane landed safely. | Bất chấp sự chậm trễ, máy bay vẫn hạ cánh an toàn. >> [[Notwithstanding]] không có [[of]].
+x: Be it as that may, we must continue. => Be that as it may, we must continue. | Dù có thế đi nữa, chúng ta phải tiếp tục. >> Cụm cố định: [[Be that as it may]].
+
+#dialogue
+mr-ross: Should we celebrate? | Chúng ta có nên ăn mừng không? [happy]
+ms-khan: Of course, albeit briefly. The next phase starts on Monday. | Tất nhiên, dù chỉ một chút thôi. Giai đoạn tiếp theo bắt đầu vào thứ Hai. [explain]
+mr-ross: Far be it from me to complain, but that's very soon. | Tôi không dám than phiền, nhưng như vậy thì gấp quá. [worried]
+ms-khan: Granted. But the client is paying well. | Công nhận. Nhưng khách hàng trả rất hậu. [happy]
+
+#recall
+? Viết trang trọng bằng tiếng Anh, dùng [[For all]]: Dù có nhiều lỗi, cuốn sách vẫn rất đáng đọc. => For all its mistakes, the book is well worth reading. | Dù có nhiều lỗi, cuốn sách vẫn rất đáng đọc.
+? Viết trang trọng, dùng [[albeit]]: Giá đã giảm, dù chỉ chút ít. => Prices have fallen, albeit slightly. | Giá đã giảm, dù chỉ chút ít.
+
+#recap
+> Nhượng bộ trang trọng: [[For all]] cộng danh từ, [[albeit]] cộng tính từ hay trạng từ, [[notwithstanding]] cộng danh từ, [[Granted]] để thừa nhận. Thành ngữ: [[Be that as it may]], [[Suffice it to say]], [[Far be it from me to]]. Chuyện đời thường thì [[despite]], [[although]] tự nhiên hơn.
+
+#practice
+fill: ___ all its faults, I still love this city. | For* / Despite / Albeit || For all + danh từ = dù có bao nhiêu.
+fill: The team won, ___ narrowly. | albeit* / although / despite || albeit + trạng từ.
+fill: ___ the difficulties, the project was completed on time. | Notwithstanding* / Albeit / Although || Notwithstanding + danh từ.
+fix: Albeit she was tired, she finished the race. | Although she was tired, she finished the race.* / Albeit tired she was, she finished the race. / Albeit of being tired, she finished the race. || Có mệnh đề → although.
+transform: Viết lại với albeit: | The plan worked, but only partly. >> The plan worked, albeit only partly.* / The plan worked, albeit it only partly. / Albeit the plan worked only partly. || albeit + cụm trạng từ.
+choice: “Granted, it's expensive, but it's worth it.” Granted dùng để: | Thừa nhận một điểm trước khi phản bác* / Cho phép ai đó làm gì / Kết luận vấn đề || Granted = phải thừa nhận.
+choice: Văn bản pháp lý, câu nào phù hợp? | Notwithstanding the above, the contract remains valid.* / Even though, the contract is still OK. / The contract's fine anyway. || Notwithstanding = rất trang trọng.
+type: ___ it to say, the evening was a disaster. (chỉ cần nói rằng) | Suffice || Suffice it to say.
+order: For / all / his / money, / he / isn't / happy. | Dù giàu có đến đâu, ông ấy vẫn không hạnh phúc.
+listen: Granted, we went over budget, albeit only slightly. | Granted, we went over budget, albeit only slightly.* / Granted, we went over budget, but only slightly. / Granted, we stayed within budget, albeit only just. || Nghe granted … albeit only slightly.

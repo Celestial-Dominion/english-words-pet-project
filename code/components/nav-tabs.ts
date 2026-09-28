@@ -1,4 +1,4 @@
-import { GraduationCap, Layers, Library, Flame, Dumbbell, type LucideIcon } from "lucide-react";
+import { GraduationCap, Layers, Library, Flame, Dumbbell, Puzzle, type LucideIcon } from "lucide-react";
 
 export interface NavTab {
   href: string;
@@ -13,5 +13,6 @@ export const NAV_TABS: NavTab[] = [
   { href: "/on-tap", label: "Ôn tập", icon: Layers, match: ["/on-tap"] },
   { href: "/luyen-tap", label: "Luyện", icon: Dumbbell, match: ["/luyen-tap"] },
   { href: "/tien-do", label: "Tiến độ", icon: Flame, match: ["/tien-do"] },
+  { href: "/ngu-phap", label: "Ngữ pháp", icon: Puzzle, match: ["/ngu-phap"] },
   { href: "/doc", label: "Thư viện", icon: Library, match: ["/doc", "/bai-doc", "/truyen", "/video"] },
 ];

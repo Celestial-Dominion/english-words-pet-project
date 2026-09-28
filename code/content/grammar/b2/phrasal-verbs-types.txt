@@ -1,0 +1,71 @@
+=== phrasal-verbs-types
+sum: Bốn kiểu cụm động từ. Không có tân ngữ: get up, grow up, break down (The car broke down). Tách được (có tân ngữ): danh từ đứng giữa hoặc sau (turn the music down / turn down the music), đại từ BẮT BUỘC đứng giữa (turn it down). Không tách được: tân ngữ luôn đứng sau, kể cả đại từ (look after him, get over it, run into her). Ba từ: không tách (put up with it). Từ điển tốt ghi rõ: turn sth down (tách) · look after sb (không tách).
+form: không tân ngữ: break down · grow up | The car broke down.
+form: tách được: turn the music down · turn it down | đại từ phải đứng giữa
+form: không tách: look after him · get over it | tân ngữ luôn đứng sau
+form: ba từ: put up with it | không tách
+cast: grandma max
+bg: home-day
+words: grow, break, recover, babysit, bother, noise
+gloss: babysit
+
+#hook
+grandma: Max, please turn the music down. It's too loud! | Max, cháu vặn nhỏ nhạc đi. To quá! [angry]
+max: Sorry, Grandma. I'll turn it down now. | Cháu xin lỗi bà. Cháu vặn nhỏ ngay đây. [shy]
+grandma: Thank you. Can you look after your sister while I go to the market? | Cảm ơn cháu. Cháu trông em giúp bà trong lúc bà đi chợ được không? [explain]
+max: Sure! I'll look after her. | Được ạ! Cháu sẽ trông em. [happy]
+> Hai kiểu cụm động từ khác nhau. [[Turn down]] tách được: [[turn the music down]], và với đại từ thì bắt buộc tách: [[turn it down]]. [[Look after]] không tách được: tân ngữ luôn đứng sau, kể cả đại từ: [[look after her]].
+
+#form
+th: Kiểu | Ví dụ | Với đại từ
+tb: không tân ngữ | The car broke down. | —
+tb: tách được | turn the TV off · turn off the TV | turn it off
+tb: không tách | look after the kids | look after them
+tb: ba từ | put up with the noise | put up with it
+> Mẹo nhận biết: nhiều cụm với [[on]], [[off]], [[up]], [[down]], [[out]] mang nghĩa bật, tắt, tăng, giảm thì tách được. Cụm mà từ nhỏ là một giới từ thật, như [[look after]], [[get over]], [[run into]], thì không tách.
+
+#contrast
+vs: Can you pick it up? | Bạn nhặt nó lên giúp tôi được không? || tách được: đại từ ở giữa
+vs: I ran into her at the station. | Tôi tình cờ gặp cô ấy ở nhà ga. || không tách: đại từ ở sau
+> Với cụm tách được, không nói [[pick up it]]. Với cụm không tách, không nói [[ran her into]]. Khi không chắc, hãy tra từ điển: người ta ghi [[pick something up]] hay [[run into someone]].
+
+#examples
+- My car {broke down|k} on the way to work. | Xe tôi chết máy trên đường đi làm.
+- It took her months to {get over|k} the flu. | Cô ấy mất mấy tháng mới khỏi hẳn cúm.
+- Please {fill in|k} this form. | Vui lòng điền vào mẫu đơn này.
+- Please {fill it in|k} before Friday. | Vui lòng điền trước thứ sáu.
+- She {grew up|k} in a small village. | Cô ấy lớn lên ở một ngôi làng nhỏ.
+
+#natural
+rank: best | Turn it down, please. | Vặn nhỏ lại giúp tôi.
+rank: ok | Turn the music down, please. | Vặn nhỏ nhạc giúp tôi.
+rank: bad | Turn down it, please.
+> Với đại từ như [[it]], [[them]], chỉ có một cách đúng: đặt vào giữa. Với danh từ, cả hai vị trí đều tự nhiên.
+
+#mistakes
+x: The music is loud. Turn down it. => The music is loud. Turn it down. | Nhạc to quá. Vặn nhỏ đi. >> Cụm tách được: đại từ phải đứng giữa.
+x: Can you look your brother after? => Can you look after your brother? | Bạn trông em trai giúp tôi được không? >> [[Look after]] không tách được.
+x: I can't put up this noise with. => I can't put up with this noise. | Tôi không chịu nổi tiếng ồn này. >> Cụm ba từ luôn đi liền nhau.
+
+#dialogue
+max: Grandma, the washing machine broke down again! | Bà ơi, máy giặt lại hỏng rồi! [worried]
+grandma: Oh dear. I'll call someone to fix it. Can you turn it off? | Ôi trời. Bà sẽ gọi người đến sửa. Cháu tắt nó đi được không? [worried]
+max: Done! And don't worry, I'll look after everything. | Xong rồi ạ! Bà đừng lo, cháu sẽ trông nom mọi thứ. [happy]
+grandma: You've grown up so much! | Cháu lớn nhiều quá rồi! [happy]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[pick up]]: Cái túi rơi rồi. Bạn nhặt nó lên đi. => The bag fell. Pick it up. | Cái túi rơi rồi. Bạn nhặt nó lên đi.
+? Nói bằng tiếng Anh, dùng [[look after]]: Ai sẽ trông bọn trẻ? => Who will look after the kids? | Ai sẽ trông bọn trẻ?
+
+#recap
+> Cụm động từ có bốn kiểu: không có tân ngữ, tách được, không tách được, và cụm ba từ. Với cụm tách được, đại từ bắt buộc đứng giữa: [[turn it down]]. Với cụm không tách, tân ngữ luôn đứng sau: [[look after her]].
+
+#practice
+fill: It's too loud. Please turn ___. | it down* / down it / it off down || Tách được + đại từ → turn it down.
+fill: Who will look ___ the dog while we're away? | after* / it after / after it || Không tách → look after the dog.
+fix: I found the keys on the floor and picked up them. | I found the keys on the floor and picked them up.* / I found the keys on the floor and picked up it. / I found the keys on the floor and up picked them. || Đại từ đứng giữa.
+fix: She took two weeks to get the flu over. | She took two weeks to get over the flu.* / She took two weeks to get over it the flu. / She took two weeks to over get the flu. || Get over không tách.
+choice: Câu nào đúng? | I ran into Tom at the mall.* / I ran Tom into at the mall. / I ran into at the mall Tom. || Run into không tách.
+type: My car broke ___ on the highway. | down || Break down = chết máy.
+order: Please / fill / it / in / before / Friday. | Vui lòng điền trước thứ sáu.
+listen: My car broke down on the way to work. | My car broke down on the way to work.* / My car broke down on the way home. / My computer broke down at work. || Nghe car broke down … to work.

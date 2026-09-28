@@ -1,0 +1,75 @@
+=== indirect-questions
+sum: Câu hỏi gián tiếp lịch sự hơn, nhất là với người lạ: Could you tell me… / Do you know… / I wonder… / I'm not sure… + từ hỏi hoặc if / whether + mệnh đề xếp như câu KỂ: Could you tell me where the station is? (không nói where is the station). Câu có do / does / did: bỏ trợ động từ, trả đuôi cho động từ (what time it starts). Không lùi thì. Dấu câu theo phần mở đầu: Could you tell me…? / Do you know…? có dấu hỏi; I wonder… / I'm not sure… là câu kể, dấu chấm. Nhờ rất lịch sự: Would you mind + V-ing? · Do you mind if I…? — trả lời No, not at all nghĩa là đồng ý.
+form: Could you tell me + từ hỏi + chủ ngữ + động từ? | Could you tell me where the station is?
+form: Do you know + if / whether + mệnh đề? | Do you know if it's open today?
+form: I wonder + từ hỏi / if + mệnh đề. | I wonder why she left.
+form: không đảo · bỏ do / does / did | what time it starts (không nói does it start)
+form: Would you mind + V-ing? · Do you mind if I…? | nhờ rất lịch sự — trả lời No = không phiền
+cast: leo ana
+bg: service-hall
+words: wonder, near, cost, museum, sure, card
+gloss: ATM, pharmacy, SIM, restroom
+
+#hook
+leo: Excuse me, could you tell me where the nearest ATM is? | Xin lỗi, chị cho tôi hỏi cây ATM gần nhất ở đâu ạ? [thinking ipa=excuse:ɪkˈskjuz]
+ana: Sure. It's next to the pharmacy, across the street. | Được ạ. Nó ở cạnh hiệu thuốc, bên kia đường. [point]
+leo: Thanks. And do you know if the museum is open today? | Cảm ơn chị. À, chị có biết hôm nay bảo tàng có mở cửa không? [thinking]
+ana: I think so. But I'm not sure what time it closes. | Tôi nghĩ là có. Nhưng tôi không chắc mấy giờ nó đóng cửa. [thinking ipa=closes:ˈkloʊzɪz]
+> Hỏi người lạ, người bản ngữ ít khi hỏi thẳng [[Where is the ATM?]]. Họ mở đầu bằng [[Could you tell me]] hay [[Do you know]] cho lịch sự. Và phần sau xếp như câu kể: [[where the nearest ATM is]], động từ [[is]] đứng cuối.
+
+#form
+mv: Where is the station ? => Could you tell me where the station is ?
+> Câu hỏi trực tiếp: [[is]] đứng trước chủ ngữ. Câu hỏi gián tiếp: [[is]] trở về sau chủ ngữ, giống câu kể.
+mv: What time does it start ? => Do you know what time it starts ?
+> Với câu có [[do]], [[does]], [[did]]: bỏ trợ động từ đi, và trả đuôi cho động từ: [[what time it starts]].
+th: Mở đầu lịch sự | Ví dụ
+tb: Could you tell me…? | Could you tell me how much it costs?
+tb: Do you know…? | Do you know where Tom lives?
+tb: I wonder… | I wonder why she left.
+tb: I'm not sure… | I'm not sure if he's coming.
+> Dấu câu theo phần mở đầu. [[Could you tell me]], [[Do you know]] là câu hỏi, nên có dấu hỏi. [[I wonder]], [[I'm not sure]] là câu kể, nên kết thúc bằng dấu chấm.
+
+#examples
+- {Do you know|q} {if|c} this bus goes to the airport? | Bạn có biết xe buýt này có ra sân bay không?
+- {Could you tell me|q} how much {it costs|k}? | Bạn cho tôi hỏi cái này giá bao nhiêu?
+- {I wonder|q} why {she left|k} so early. | Không biết sao cô ấy về sớm thế.
+
+#natural
+rank: best | Excuse me, do you know where the restroom is? | Xin lỗi, bạn có biết nhà vệ sinh ở đâu không? [ipa=excuse:ɪkˈskjuz]
+rank: ok | Where's the restroom? | Nhà vệ sinh ở đâu?
+> Hỏi thẳng vẫn đúng, nhưng với người lạ thì hơi cộc. Thêm [[Excuse me]] và [[do you know]], câu hỏi mềm mại hơn hẳn.
+
+#real
+- {Would you mind|q} {closing|k} the window? | Phiền bạn đóng cửa sổ giúp được không? [ipa=closing:ˈkloʊzɪŋ]
+- {Do you mind if|q} I sit here? — No, not at all. | Tôi ngồi đây có phiền bạn không? — Không, không phiền gì cả.
+> Thêm hai cách nhờ rất lịch sự: [[Would you mind]] cộng động từ đuôi [[ing]], và [[Do you mind if I…?]]. Cẩn thận khi trả lời: [[mind]] nghĩa là thấy phiền, nên [[No, not at all]] có nghĩa là đồng ý, chẳng phiền gì.
+
+#mistakes
+x: Could you tell me where is the station? => Could you tell me where the station is? | Bạn cho tôi hỏi nhà ga ở đâu? >> Trong câu hỏi gián tiếp, [[is]] đứng sau chủ ngữ.
+x: Do you know what time does the film start? => Do you know what time the film starts? | Bạn có biết mấy giờ phim chiếu không? >> Bỏ [[does]], động từ thêm [[s]]: [[starts]].
+x: I wonder where is my phone? => I wonder where my phone is. | Không biết điện thoại tôi đâu rồi. >> Không đảo, và [[I wonder]] là câu kể, nên dùng dấu chấm.
+
+#dialogue
+leo: Sorry, one more question. Do you know where I can buy a SIM card? | Xin lỗi, thêm một câu nữa. Chị có biết tôi mua thẻ SIM ở đâu được không? [shy]
+ana: There's a phone shop near the ATM. | Gần cây ATM có một cửa hàng điện thoại. [explain]
+leo: Great. Could you tell me how much a SIM card costs here? | Tuyệt. Chị cho tôi hỏi ở đây thẻ SIM giá bao nhiêu? [thinking]
+ana: I'm not sure, but I think it's about ten dollars. | Tôi không chắc, nhưng chắc khoảng mười đô. [thinking]
+
+#recall
+? Hỏi lịch sự bằng tiếng Anh: Bạn cho tôi hỏi bưu điện ở đâu? => Could you tell me where the post office is? | Bạn cho tôi hỏi bưu điện ở đâu?
+? Hỏi lịch sự bằng tiếng Anh: Bạn có biết cửa hàng mấy giờ mở cửa không? => Do you know what time the shop opens? | Bạn có biết cửa hàng mấy giờ mở cửa không?
+
+#recap
+> Câu hỏi gián tiếp mở đầu bằng [[Could you tell me]], [[Do you know]] hay [[I wonder]]. Phần sau xếp như câu kể: không đảo, bỏ [[do]], [[does]], [[did]]. Hỏi có hay không thì thêm [[if]].
+
+#practice
+fill: Could you tell me where the bank ___? | is* / does / are || Chủ ngữ + is, như câu kể.
+fill: Do you know what time the train ___? | leaves* / does leave / leave || Bỏ does, thêm s.
+fill: Do you know ___ the museum is open today? | if* / that / what || Có / không → if.
+fix: Can you tell me how much does it cost? | Can you tell me how much it costs?* / Can you tell me how much it cost? / Can you tell me how much costs it? || Bỏ does: it costs.
+transform: Hỏi lịch sự hơn, bắt đầu bằng Do you know: | Where does Tom live? >> Do you know where Tom lives?* / Do you know where does Tom live? / Do you know where Tom live? || Bỏ does: Tom lives.
+choice: Câu nào đúng dấu câu? | I wonder why she left.* / I wonder why she left? / I wonder why did she leave. || I wonder → câu kể, dấu chấm.
+choice: “Would you mind helping me?” — “No, not at all.” nghĩa là: | Đồng ý giúp, không phiền gì* / Từ chối, không giúp / Không hiểu câu hỏi || Mind = thấy phiền → No = không phiền.
+type: Do you know ___ this bus goes to the airport? | if / whether || Có / không → if.
+order: Could / you / tell / me / where / the / station / is? | Bạn cho tôi hỏi nhà ga ở đâu?
+listen: I wonder why she left so early. | I wonder why she left so early.* / I know why she left so early. / Why did she leave so early? || Nghe I wonder.

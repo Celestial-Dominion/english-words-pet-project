@@ -1,0 +1,68 @@
+=== adjective-order
+sum: Tiếng Việt đặt tính từ SAU danh từ (cái túi da nhỏ màu nâu); tiếng Anh đặt tất cả TRƯỚC danh từ, theo thứ tự: ý kiến (lovely, nice) → kích cỡ (big, small) → tuổi (old, new) → màu (brown, red) → nguồn gốc (Italian, Japanese) → chất liệu (leather, wooden, silk) + danh từ: a small brown leather bag, a lovely old wooden house. Ý kiến luôn trước các sự thật; chất liệu sát danh từ nhất. Thực tế thường chỉ dùng 2–3 tính từ.
+form: ý kiến → kích cỡ → tuổi → màu → nguồn gốc → chất liệu + danh từ | a lovely old wooden house
+form: ý kiến trước sự thật | a beautiful red dress
+form: thường 2–3 tính từ | a nice little cafe
+form: tiếng Việt: danh từ trước · tiếng Anh: tính từ trước | túi da nâu nhỏ → a small brown leather bag
+cast: zoe mom
+bg: market
+words: leather, wooden, silk, lovely, cute, box
+gloss: scarf
+
+#hook
+zoe: Mom, look at this beautiful little brown bag! | Mẹ ơi, nhìn cái túi nâu nhỏ xinh chưa này! [happy point]
+mom: Oh, it's lovely. Is it leather? | Ồ, đẹp thật. Túi da à? [thinking]
+zoe: Yes! It's a small brown Italian leather bag. | Vâng! Đây là một chiếc túi da Ý nhỏ màu nâu. [happy]
+mom: It's perfect for your birthday! | Làm quà sinh nhật cho con thì hợp đấy! [happy]
+> Tiếng Việt nói “cái túi da nhỏ màu nâu”: danh từ đứng trước, tính từ theo sau. Tiếng Anh thì ngược lại: mọi tính từ đứng trước danh từ, theo một thứ tự khá cố định: [[a small brown Italian leather bag]].
+
+#form
+th: Thứ tự | Ví dụ
+tb: 1. ý kiến | lovely, beautiful, nice
+tb: 2. kích cỡ | big, small, long
+tb: 3. tuổi | old, new, young
+tb: 4. màu | red, brown, white
+tb: 5. nguồn gốc | Vietnamese, Italian
+tb: 6. chất liệu | wooden, leather, silk
+> Mẹo nhớ: ý kiến của mình đứng đầu, rồi đến những sự thật ai nhìn cũng thấy: to hay nhỏ, cũ hay mới, màu gì, từ đâu tới, làm bằng gì. Chất liệu luôn đứng sát danh từ.
+
+#examples
+- She lives in a {lovely old wooden|k} house. | Cô ấy sống trong một ngôi nhà gỗ cũ rất đẹp.
+- He bought a {big black Japanese|k} car. | Anh ấy mua một chiếc ô tô Nhật to màu đen.
+- I found a {nice little|k} cafe near the lake. | Tôi tìm được một quán cà phê nhỏ xinh gần hồ.
+- She's wearing a {beautiful red silk|k} dress. | Cô ấy mặc một chiếc váy lụa đỏ rất đẹp.
+
+#natural
+rank: best | It's a beautiful old house. | Đó là một ngôi nhà cũ rất đẹp.
+rank: ok | It's a beautiful big old white house. | Đó là một ngôi nhà trắng to, cũ và rất đẹp.
+rank: bad | It's a white old big beautiful house.
+> Trong thực tế, người ta hiếm khi dùng quá ba tính từ trước một danh từ. Hai hay ba tính từ là tự nhiên nhất. Còn đảo lộn thứ tự thì nghe rất sai tai, dù người nghe vẫn hiểu.
+
+#mistakes
+x: I bought a leather brown bag. => I bought a brown leather bag. | Tôi mua một chiếc túi da màu nâu. >> Màu đứng trước chất liệu: [[brown leather]].
+x: She has a black long dress. => She has a long black dress. | Cô ấy có một chiếc váy đen dài. >> Kích cỡ đứng trước màu: [[long black]].
+x: It's a house old beautiful. => It's a beautiful old house. | Đó là một ngôi nhà cũ đẹp. >> Tính từ đứng trước danh từ, không đứng sau như tiếng Việt.
+x: He's a young nice man. => He's a nice young man. | Anh ấy là một chàng trai dễ mến. >> Ý kiến đứng trước tuổi: [[nice young]].
+
+#dialogue
+mom: How much is this bag? | Cái túi này bao nhiêu tiền? [thinking]
+zoe: It's forty dollars. Oh, and look at that cute little wooden box! | Bốn mươi đô ạ. Ôi, nhìn cái hộp gỗ nhỏ xinh kia kìa! [happy point]
+mom: Zoe! One gift is enough. | Zoe! Một món quà thôi là đủ rồi. [shake]
+zoe: But it's such a lovely old box... | Nhưng cái hộp cũ ấy đẹp lắm mà... [shy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi có một con mèo đen nhỏ. => I have a small black cat. | Tôi có một con mèo đen nhỏ.
+? Nói bằng tiếng Anh: Cô ấy mua một chiếc bàn gỗ cũ rất đẹp. => She bought a beautiful old wooden table. | Cô ấy mua một chiếc bàn gỗ cũ rất đẹp.
+
+#recap
+> Tính từ đứng trước danh từ, theo thứ tự: ý kiến, kích cỡ, tuổi, màu, nguồn gốc, chất liệu. Chất liệu đứng sát danh từ nhất. Và thường chỉ cần hai, ba tính từ là đủ.
+
+#practice
+fill: She bought a ___ bag. | small brown leather* / leather small brown / brown leather small || Kích cỡ → màu → chất liệu.
+fill: They live in a ___ house. | lovely old* / old lovely || Ý kiến trước tuổi.
+fix: He drives a red big car. | He drives a big red car.* / He drives a car big red. / He drives a red car big. || Kích cỡ trước màu.
+choice: Câu nào đúng thứ tự? | It's a beautiful Italian silk scarf.* / It's a silk Italian beautiful scarf. / It's an Italian beautiful silk scarf. || Ý kiến → nguồn gốc → chất liệu.
+type: I found a nice ___ cafe near the lake. (nhỏ) | little / small || Ý kiến → kích cỡ.
+transform: Thêm các tính từ theo đúng thứ tự: | a house (old, lovely, wooden) >> a lovely old wooden house* / a wooden old lovely house / an old lovely wooden house || Ý kiến → tuổi → chất liệu.
+order: She's / wearing / a / beautiful / red / silk / dress. | Cô ấy mặc một chiếc váy lụa đỏ rất đẹp.
+listen: He bought a big black Japanese car. | He bought a big black Japanese car.* / He bought a big blue Japanese car. / He bought a small black Japanese car. || Nghe big black.

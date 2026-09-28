@@ -1,0 +1,84 @@
+=== countable-uncountable
+sum: Danh từ đếm được có số ít, số nhiều và đi với a / an: an egg, three eggs. Danh từ không đếm được (milk, water, rice, money, time, advice, information, news, homework) không có a / an, không thêm -s, đi với động từ số ít. Muốn đếm thì dùng đơn vị: a glass of water, a cup of coffee, a bowl of rice, a piece of advice.
+form: an egg · three eggs | đếm được: có a / an, có số nhiều
+form: milk · money · advice · news | không đếm được: không a / an, không -s
+form: a glass of milk · a piece of advice | muốn đếm → dùng đơn vị
+cast: linh jay
+bg: kitchen
+prop: milk x=1110
+words: milk, sugar, butter, advice, information, news, homework, piece
+gloss: butter
+
+#hook
+linh: Jay, can you help me? I want to make a cake. | Jay ơi, giúp tôi với? Tôi muốn làm bánh. [happy]
+jay: Sure! You need three eggs and some milk. | Được thôi! Chị cần ba quả trứng và một ít sữa. [explain @milk]
+linh: Three milks? | Ba sữa á? [confused]
+jay: No, no. Just one glass of milk! | Không, không. Chỉ một cốc sữa thôi! [happy shake]
+> Trứng đếm được từng quả, nên có số nhiều: [[three eggs]]. Còn sữa thì không đếm được, không ai nói [[three milks]]. Muốn đếm sữa, ta đếm bằng cốc, bằng chai: [[a glass of milk]].
+
+#meaning
+th: Đếm được | Không đếm được
+tb: an egg · two eggs | milk · water · rice
+tb: a book · three books | money · time · music
+tb: a job · two jobs | work · homework
+> Danh từ đếm được có [[a]], [[an]], và có số nhiều. Danh từ không đếm được thì không có [[a]], [[an]], không thêm [[s]], và đi với động từ số ít: [[The water is cold]]. Để ý cặp cuối: [[a job]] đếm được, nhưng [[work]] thì không.
+
+#form
+th: Không đếm được | Cách dùng
+tb: advice | some advice · a piece of advice
+tb: information | some information
+tb: news | The news is good.
+tb: homework | a lot of homework
+> Tiếng Việt đếm được những thứ này: một lời khuyên, một thông tin. Tiếng Anh thì không: [[advice]], [[information]], [[news]], [[homework]] không có [[a]], không có [[s]]. [[News]] tuy tận cùng bằng chữ [[s]], nhưng vẫn là số ít: [[The news is good]].
+th: Đơn vị | Dùng với
+tb: a glass of | water · milk · juice
+tb: a cup of | coffee · tea
+tb: a bottle of | water · milk
+tb: a bowl of | rice · soup
+tb: a piece of | cake · paper · advice
+> Muốn đếm, ta đếm cái đựng nó, hoặc một phần của nó: [[two cups of coffee]], [[a bowl of rice]]. Riêng [[a piece of]] dùng được cho nhiều thứ: [[a piece of cake]], [[a piece of paper]], cả [[a piece of advice]].
+
+#examples
+- I drink two {glasses|k} of water every morning. | Sáng nào tôi cũng uống hai cốc nước.
+- Can I have a {piece|k} of cake? | Cho tôi một miếng bánh nhé?
+- My teacher gave me some good {advice|k}. | Cô giáo cho tôi vài lời khuyên hay.
+- The {news|k} is on at seven. | Bản tin phát lúc bảy giờ.
+- {Time|k} is money. | Thời gian là tiền bạc.
+
+#natural
+rank: best | Two coffees, please. | Cho hai ly cà phê.
+rank: ok | Two cups of coffee, please. | Cho hai cốc cà phê.
+rank: bad | Two coffee, please.
+> Khi gọi đồ trong quán, người bản ngữ hay nói gọn [[two coffees]], nghĩa là hai ly cà phê. Nói [[two cups of coffee]] vẫn đúng, chỉ dài hơn. Còn thiếu [[s]] thì sai.
+
+#mistakes
+x: She gave me an advice. => She gave me some advice. | Cô ấy cho tôi một lời khuyên. >> [[Advice]] không đếm được, không đi với [[an]]. Nói [[some advice]], hoặc [[a piece of advice]].
+x: I need some informations. => I need some information. | Tôi cần một vài thông tin. >> [[Information]] không có số nhiều.
+x: I have a lot of homeworks. => I have a lot of homework. | Tôi có rất nhiều bài tập về nhà. >> [[Homework]] không thêm [[s]].
+x: The news are good. => The news is good. | Tin này tốt đấy. >> [[News]] là số ít, nên đi với [[is]].
+
+#dialogue
+jay: OK, now we need some butter. | Được rồi, giờ mình cần ít bơ. [explain]
+linh: How much butter? A bottle? | Bao nhiêu bơ? Một chai à? [thinking]
+jay: No, just a small piece. | Không, chỉ một miếng nhỏ thôi. [happy shake]
+linh: And some sugar? | Thêm ít đường nữa chứ? [thinking]
+jay: Yes, two cups of sugar. | Ừ, hai cốc đường. [nod]
+linh: Two cups? That's a lot of sugar! | Hai cốc á? Nhiều đường quá! [surprised]
+
+#recall
+? Nói bằng tiếng Anh: Cho tôi một cốc nước. => Can I have a glass of water? | Cho tôi một cốc nước.
+? Nói bằng tiếng Anh: Anh ấy cho tôi một lời khuyên hay. => He gave me some good advice. | Anh ấy cho tôi một lời khuyên hay.
+
+#recap
+> Ghi nhớ: [[advice]], [[information]], [[news]], [[homework]] đều không đếm được. Muốn đếm thì mượn đơn vị: [[a glass of]], [[a cup of]], [[a piece of]].
+
+#practice
+fill: Can I have ___ water, please? | some* / a / an || Water không đếm được → some.
+fill: I bought three ___ of milk. | bottles* / bottle / milks || Đếm sữa bằng chai: three bottles of milk.
+contrast: I need ___ information about the trip. | some* / an || Information không đếm được.
+fix: He gave me an advice. | He gave me some advice.* / He gave me advices. / He gave me a advice. || Advice không đếm được.
+type: The news ___ (be) good today. | is || News → số ít.
+choice: Câu nào đúng? | I have a lot of homework.* / I have a lot of homeworks. / I have many homeworks. || Homework không đếm được.
+order: Can / I / have / a / piece / of / cake? | Cho tôi một miếng bánh nhé?
+listen: I drink two glasses of water every morning. | I drink two glasses of water every morning.* / I drink two glasses of milk every morning. / I drink a glass of water every morning. || Nghe two glasses of water.
+natural: Two coffees, please.* / Two coffee, please. || Gọi đồ trong quán: two coffees.

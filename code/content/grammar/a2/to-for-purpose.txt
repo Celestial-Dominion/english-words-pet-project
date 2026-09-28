@@ -1,0 +1,70 @@
+=== to-for-purpose
+sum: Nói mục đích (“để làm gì”): to + động từ nguyên thể — I went to the market to buy fish. Người Việt hay dịch “để” thành for, nhưng for KHÔNG đi với động từ nguyên thể (for buy ✗). For + danh từ: I went out for a coffee. Trả lời Why…? ngắn gọn: To buy some milk. Công dụng của đồ vật: for + V-ing (This knife is for cutting bread).
+form: to + động từ nguyên thể = để làm gì | I went to the market to buy fish.
+form: for + danh từ | I went out for a coffee.
+form: Why…? — To + động từ. | Why are you here? — To see you.
+form: đồ vật + for + V-ing = dùng để | This knife is for cutting bread.
+cast: mom lily
+bg: market
+prop: fish-net x=1100
+words: why, market, buy, knife, cut, bread
+gloss: knife, sunrise, motorbike
+
+#hook
+lily: Mom, why are we at the market so early? | Mẹ ơi, sao mình ra chợ sớm thế ạ? [tired]
+mom: To buy fresh fish. It's Grandma's birthday today. | Để mua cá tươi. Hôm nay là sinh nhật bà mà. [happy @fish-net]
+lily: Oh! Are we going to cook for her? | Ồ! Mình sẽ nấu cho bà ạ? [surprised]
+mom: Yes. I came here to get the best fish for her. | Ừ. Mẹ ra đây để chọn con cá ngon nhất cho bà. [happy]
+> “Để làm gì” trong tiếng Anh là [[to]] cộng động từ nguyên thể: [[to buy fresh fish]], [[to get the best fish]]. Câu trả lời ngắn cho [[why]] cũng chỉ cần [[To buy fresh fish]].
+
+#form
+f: … + [to] + động từ nguyên thể
+> Mục đích luôn đứng sau hành động chính. Tiếng Việt nói “để”, tiếng Anh chỉ cần [[to]].
+- I study English {to get|k} a better job. | Tôi học tiếng Anh để có công việc tốt hơn.
+- She called {to say|k} sorry. | Cô ấy gọi điện để xin lỗi.
+- We got up early {to watch|k} the sunrise. | Chúng tôi dậy sớm để ngắm bình minh.
+
+#contrast
+vs: I went out to buy a coffee. | Tôi ra ngoài để mua cà phê. || to + động từ
+vs: I went out for a coffee. | Tôi ra ngoài uống cà phê. || for + danh từ
+> Hai câu nghĩa gần như nhau, nhưng khác cấu trúc. Sau [[to]] là động từ: [[to buy]]. Sau [[for]] là danh từ: [[for a coffee]]. Đừng bao giờ đặt động từ nguyên thể sau [[for]].
+
+#meaning
+vs: This knife is for cutting bread. | Con dao này dùng để cắt bánh mì. || công dụng của đồ vật: for + V-ing
+vs: I used this knife to cut bread. | Tôi dùng con dao này để cắt bánh mì. [ipa=used:juzd] || mục đích của người: to + động từ
+> Có một chỗ [[for]] đi với động từ: khi nói công dụng của đồ vật, và động từ phải thêm [[ing]]. [[This knife is for cutting bread]], con dao này dùng để cắt bánh mì.
+
+#real
+- Why are you learning English? — {To travel|k}. | Sao bạn học tiếng Anh? — Để đi du lịch.
+- I'm saving money {to buy|k} a motorbike. | Tôi đang để dành tiền mua xe máy.
+- Let's stop here {for|k} lunch. | Mình dừng ở đây ăn trưa đi.
+
+#mistakes
+x: I study English for get a good job. => I study English to get a good job. | Tôi học tiếng Anh để có việc làm tốt. >> “Để” cộng động từ là [[to]], không phải [[for]].
+x: I came here for to see you. => I came here to see you. | Tôi đến đây để gặp bạn. >> Chỉ cần [[to]]: [[to see you]].
+x: She went to the store for buying milk. => She went to the store to buy milk. | Cô ấy ra cửa hàng mua sữa. >> Mục đích của người thì dùng [[to]] cộng động từ nguyên thể.
+
+#dialogue
+lily: Can I help you choose? | Con giúp mẹ chọn được không ạ? [happy]
+mom: Sure. Look at the eyes. Clear eyes mean fresh fish. | Được chứ. Nhìn mắt cá này. Mắt trong là cá tươi. [explain]
+lily: Why do we need two fish? | Sao mình cần hai con ạ? [thinking]
+mom: One to cook, and one for your uncle's family! | Một con để nấu, một con biếu nhà chú! [happy]
+> Câu cuối có cả hai: [[one to cook]], một con để nấu, và [[one for your uncle's family]], một con cho nhà chú.
+
+#recall
+? Nói bằng tiếng Anh: Tôi ra bưu điện để gửi thư. => I went to the post office to send a letter. | Tôi ra bưu điện để gửi thư.
+? Trả lời ngắn bằng tiếng Anh: Sao bạn dậy sớm thế? — Để tập thể dục. => To do some exercise. | Để tập thể dục.
+
+#recap
+> “Để làm gì” là [[to]] cộng động từ nguyên thể. [[For]] đi với danh từ, như [[for a coffee]], hoặc với động từ thêm [[ing]] khi nói công dụng đồ vật. Không bao giờ có [[for]] cộng động từ nguyên thể.
+
+#practice
+fill: I'm calling ___ ask about the price. | to* / for / for to || Mục đích + động từ → to.
+contrast: Let's go out ___ dinner tonight. | for* / to || Dinner là danh từ → for.
+contrast: She went to the bank ___ money. | to get* / for get || Mục đích + động từ → to get.
+fix: He saves money for buy a car. | He saves money to buy a car.* / He saves money for to buy a car. / He saves money for buys a car. || Để mua → to buy.
+fill: A key is ___ opening doors. | for* / to || Công dụng đồ vật → for + V-ing.
+type: Why did you go to the station? — ___ meet my aunt. | To || Trả lời why → To + động từ.
+choice: “I went out for a coffee.” nghĩa là: | Tôi ra ngoài uống cà phê.* / Tôi ra ngoài vì cà phê hết. / Tôi mua cà phê cho mọi người. || For + danh từ = để có, để dùng.
+order: I / study / English / to / get / a / better / job. | Tôi học tiếng Anh để có công việc tốt hơn.
+listen: She called to say sorry. | She called to say sorry.* / She called to say hello. / She's calling to say sorry. || Nghe called to say sorry.

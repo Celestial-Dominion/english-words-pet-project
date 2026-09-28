@@ -1,0 +1,66 @@
+=== much-many-a-lot
+sum: Many + danh từ đếm được số nhiều, much + danh từ không đếm được; much chủ yếu dùng trong câu phủ định và câu hỏi (not much time, How much…?). Câu khẳng định hằng ngày dùng a lot of cho cả hai loại (a lot of friends, a lot of money). A few + đếm được, a little + không đếm được = vài, một ít.
+form: many + danh từ số nhiều | many people · How many…?
+form: much + không đếm được (phủ định, câu hỏi) | not much time · How much…?
+form: a lot of + cả hai loại (khẳng định) | a lot of friends · a lot of money
+form: a few + đếm được · a little + không đếm được | a few eggs · a little sugar
+cast: grandpa sam
+bg: market
+words: many, much, few, little, lot, orange, candy, traffic
+
+#hook
+grandpa: Sam, we need some oranges. Not many. | Sam, mình cần ít cam. Không nhiều đâu. [explain]
+sam: How many, Grandpa? | Bao nhiêu quả ạ, ông? [thinking]
+grandpa: Just a few. Five or six. | Vài quả thôi. Năm, sáu quả. [neutral]
+sam: And a lot of rice for the party! | Còn tiệc thì cần nhiều gạo lắm ạ! [happy]
+grandpa: No, no, just a little. We don't have much money. | Không, không, một ít thôi. Mình không có nhiều tiền đâu. [shake]
+> Cam đếm được, nên dùng [[many]], [[a few]]. Gạo và tiền không đếm được, nên dùng [[much]], [[a little]]. Còn [[a lot of]] thì dùng được cho cả hai.
+
+#form
+th: Nghĩa | Đếm được | Không đếm được
+tb: nhiều | many · a lot of | much · a lot of
+tb: vài, một ít | a few | a little
+tb: bao nhiêu? | How many? | How much?
+> Cột trái cho thứ đếm được, như cam, bạn bè, câu hỏi. Cột phải cho thứ không đếm được, như gạo, tiền, thời gian. [[A lot of]] nằm ở cả hai cột, nên rất tiện.
+
+#examples
+- There are {a lot of|k} people here. | Ở đây đông người quá.
+- I have {a few|k} friends in Da Nang. | Tôi có vài người bạn ở Đà Nẵng.
+- Can I have {a little|k} sugar? | Cho tôi một ít đường nhé?
+- {How many|q} languages do you speak? | Bạn nói được mấy thứ tiếng?
+- There isn't {much|k} traffic today. | Hôm nay đường vắng xe.
+
+#natural
+rank: best | She has a lot of money. | Cô ấy có rất nhiều tiền.
+rank: odd | She has much money.
+> [[Much]] trong câu khẳng định nghe rất cứng, gần như chỉ gặp trong văn viết trang trọng. Nói chuyện hằng ngày, câu khẳng định dùng [[a lot of]]. Nhưng trong câu phủ định và câu hỏi, [[much]] lại hoàn toàn tự nhiên.
+- She doesn't have {much|k} money. | Cô ấy không có nhiều tiền.
+
+#mistakes
+x: I have much friends. => I have a lot of friends. | Tôi có nhiều bạn. >> [[Friends]] đếm được, không đi với [[much]]. Câu khẳng định thì dùng [[a lot of]].
+x: There are a lot people. => There are a lot of people. | Có rất nhiều người. >> Đừng quên [[of]]: [[a lot of]].
+x: Can I have a few water? => Can I have a little water? | Cho tôi một ít nước nhé? >> [[Water]] không đếm được, dùng [[a little]].
+
+#dialogue
+sam: Grandpa, can we buy some candy too? | Ông ơi, mình mua thêm ít kẹo nhé? [shy]
+grandpa: Just a little. Too much candy is bad for you. | Một ít thôi. Ăn nhiều kẹo không tốt đâu. [explain]
+sam: OK. A lot of candy for me, and a little for you? | Vâng. Thế nhiều kẹo cho cháu, một ít cho ông nhé? [happy]
+grandpa: Nice try, Sam! | Khéo nói lắm, Sam! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi có vài người bạn ở Hà Nội. => I have a few friends in Hanoi. | Tôi có vài người bạn ở Hà Nội.
+? Nói bằng tiếng Anh: Chúng tôi không có nhiều thời gian. => We don't have much time. | Chúng tôi không có nhiều thời gian.
+
+#recap
+> Đếm được: [[many]], [[a few]]. Không đếm được: [[much]], [[a little]]. Câu khẳng định hằng ngày, cứ dùng [[a lot of]] cho cả hai loại.
+
+#practice
+contrast: There aren't ___ students in the room. | many* / much || Students đếm được → many.
+contrast: I don't have ___ time. | much* / many || Time không đếm được → much.
+fill: She has ___ friends. | a lot of* / much / a little || Câu khẳng định → a lot of.
+fill: Add ___ salt, please. | a little* / a few / many || Salt không đếm được → a little.
+fix: There are a lot people here. | There are a lot of people here.* / There are much people here. / There is a lot people here. || A lot of + danh từ.
+choice: Câu nào tự nhiên nhất? | He has a lot of money.* / He has much money. / He has many money. || Khẳng định → a lot of.
+type: I have a ___ questions. (vài) | few || Questions đếm được → a few.
+order: I / have / a / few / friends / in / Da Nang. | Tôi có vài người bạn ở Đà Nẵng.
+listen: There isn't much traffic today. | There isn't much traffic today.* / There's a lot of traffic today. / There wasn't much traffic today. || Nghe isn't much.

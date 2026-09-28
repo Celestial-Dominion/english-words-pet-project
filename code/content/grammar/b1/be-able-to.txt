@@ -1,0 +1,68 @@
+=== be-able-to
+sum: Be able to + nguyên thể = có thể, làm được — dùng ở những chỗ can không đứng được: tương lai (I'll be able to…), sau modal khác (might be able to), thì hoàn thành (I haven't been able to…), sau to (I'd like to be able to…). Quá khứ: could cho khả năng chung (I could swim at five); MỘT lần làm được việc khó → was able to / managed to (I managed to fix it), không dùng could khẳng định. Phủ định: couldn't dùng được cho cả hai.
+form: will be able to · might be able to | tương lai, sau modal
+form: have been able to · to be able to | thì hoàn thành, sau to
+form: was able to / managed to = làm được (một lần) | I managed to fix it.
+form: could = có khả năng (nói chung) · couldn't | I could swim at five.
+cast: sam dad
+bg: home-evening
+prop: laptop x=820
+words: able, manage, fix, finish, park, concert
+gloss: laptop
+
+#hook
+sam: Dad, my laptop isn't working. I can't open my homework! | Bố ơi, máy tính con hỏng rồi. Con không mở được bài tập! [worried @laptop]
+dad: Let me try... Hmm, this is hard. | Để bố thử xem... Hừm, khó đây. [thinking]
+dad: Yes! I managed to fix it! | Được rồi! Bố sửa được rồi! [happy cheer]
+sam: You're the best! Will I be able to finish my homework tonight? | Bố tuyệt nhất! Tối nay con có làm xong bài tập được không nhỉ? [happy]
+dad: If you start now, you'll be able to finish it. | Bắt đầu ngay thì con sẽ làm xong được. [explain]
+> [[Can]] không có dạng tương lai, cũng không đứng sau [[will]]. Muốn nói “sẽ làm được”, ta dùng [[will be able to]]. Còn [[I managed to fix it]]: sau một hồi cố gắng, cuối cùng cũng làm được.
+
+#form
+th: Chỗ can không đứng được | Dùng be able to
+tb: tương lai | I'll be able to come.
+tb: sau modal khác | We might be able to help.
+tb: thì hoàn thành | I haven't been able to sleep.
+tb: sau to | I want to be able to speak English well.
+> [[Can]] chỉ có hai dạng: [[can]] và [[could]]. Ở mọi chỗ khác, hãy thay bằng [[be able to]].
+
+#contrast
+vs: I could ride a bike when I was six. | Sáu tuổi tôi đã biết đi xe đạp. || khả năng chung → could
+vs: The water was cold, but I managed to swim across. | Nước lạnh, nhưng tôi vẫn bơi qua được. || làm được một lần, việc khó → managed to
+> Quá khứ có hai trường hợp. Biết làm, có khả năng nói chung: [[could]], như [[I could ride a bike]]. Làm được một việc cụ thể, thường là khó: [[was able to]] hoặc [[managed to]]. Đừng dùng [[could]] khẳng định cho một lần làm được.
+
+#examples
+- She {was able to|k} get tickets for the concert. | Cô ấy đã mua được vé buổi hòa nhạc.
+- I {haven't been able to|n} call him today. | Hôm nay tôi chưa gọi được cho anh ấy.
+- You {won't be able to|n} park here. | Bạn sẽ không đỗ xe ở đây được đâu.
+- He {couldn't|n} find his keys. | Anh ấy không tìm được chìa khóa.
+> Phủ định thì dễ hơn: [[couldn't]] dùng được cả cho một lần cụ thể, như [[He couldn't find his keys]].
+
+#mistakes
+x: I will can help you tomorrow. => I will be able to help you tomorrow. | Mai tôi sẽ giúp bạn được. >> Không có [[will can]]. Dùng [[will be able to]].
+x: After three hours, we could find the hotel. => After three hours, we managed to find the hotel. | Sau ba tiếng, chúng tôi cũng tìm được khách sạn. >> Một lần làm được việc khó: [[managed to]] hoặc [[were able to]].
+x: I'd like to can speak Chinese. => I'd like to be able to speak Chinese. | Tôi muốn nói được tiếng Trung. >> Sau [[to]] không dùng [[can]].
+
+#dialogue
+sam: Dad, how did you fix it? | Bố ơi, bố sửa kiểu gì thế? [thinking]
+dad: I didn't do much. I just turned it off and on again. | Bố có làm gì nhiều đâu. Bố chỉ tắt đi rồi bật lại. [happy]
+sam: Really? That's all? | Thật á? Chỉ vậy thôi ạ? [surprised]
+dad: Sometimes the easiest way is the best way. | Đôi khi cách dễ nhất lại là cách hay nhất. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi sẽ không đến dự tiệc được. => I won't be able to come to the party. | Tôi sẽ không đến dự tiệc được.
+? Nói bằng tiếng Anh: Cuối cùng chúng tôi cũng tìm được nhà cô ấy. => We finally managed to find her house. | Cuối cùng chúng tôi cũng tìm được nhà cô ấy.
+
+#recap
+> [[Be able to]] thay cho [[can]] ở những chỗ [[can]] không đứng được: tương lai, sau [[might]], thì hoàn thành, sau [[to]]. Một lần làm được việc khó: [[managed to]], [[was able to]]. Khả năng chung trong quá khứ: [[could]].
+
+#practice
+fill: I'm busy now, but I'll ___ help you later. | be able to* / can / could || Tương lai → will be able to.
+fill: I haven't ___ to sleep well this week. | been able* / could / can || Thì hoàn thành → have been able to.
+contrast: The exam was hard, but I ___ pass it. | managed to* / could || Một lần làm được việc khó → managed to.
+contrast: When I was young, I ___ run very fast. | could* / managed to || Khả năng chung → could.
+fix: She will can drive next year. | She will be able to drive next year.* / She will able to drive next year. / She can will drive next year. || Will be able to.
+type: I'd love to ___ able to play the guitar. | be || To be able to.
+choice: “We managed to find the hotel.” nghĩa là: | Cuối cùng chúng tôi cũng tìm được khách sạn* / Chúng tôi quản lý khách sạn / Chúng tôi không tìm được khách sạn || Managed to = xoay xở làm được.
+order: You / won't / be / able / to / park / here. | Bạn sẽ không đỗ xe ở đây được đâu.
+listen: I haven't been able to call him today. | I haven't been able to call him today.* / I've been able to call him today. / I wasn't able to call him yesterday. || Nghe haven't been able to.

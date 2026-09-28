@@ -1,0 +1,69 @@
+=== passive-continuous-get
+sum: Bị động tiếp diễn: is / are / was / were being + V3 — việc ĐANG được làm: My car is being repaired. The road was being fixed when we arrived. Get + V3: bị động thân mật, nhấn vào chuyện xảy ra, thường bất ngờ hay không may (get stolen, get hurt, get lost) hoặc thay đổi (get married, get paid). Động từ hai tân ngữ (give, offer, send): để NGƯỜI NHẬN làm chủ ngữ nghe tự nhiên hơn: I was given a free coffee. She was offered a job.
+form: is / are being + V3 = đang được làm | My car is being repaired.
+form: was / were being + V3 | The road was being fixed.
+form: get + V3 (thân mật, chuyện xảy ra) | My bike got stolen.
+form: người nhận làm chủ ngữ | I was given a free coffee.
+cast: jay ben
+bg: street
+words: repair, hurt, luckily, offer, marry, fire
+
+#hook
+jay: Hi, Ben! Where's your car? | Chào Ben! Xe anh đâu rồi? [happy]
+ben: It's being repaired. Someone hit it last week. | Đang được sửa. Tuần trước có người đâm vào. [sad]
+jay: Oh no! Did you get hurt? | Ôi không! Anh có bị thương không? [worried]
+ben: No, luckily. And I was given a free coffee while I waited! | Không, may quá. Mà trong lúc chờ, tôi còn được mời một cốc cà phê miễn phí! [happy]
+> [[It's being repaired]]: việc sửa xe đang diễn ra, bị động tiếp diễn. [[Did you get hurt?]]: [[get]] cộng phân từ, bị động kiểu thân mật. [[I was given a free coffee]]: người nhận đứng làm chủ ngữ.
+
+#form
+th: Loại | Cấu trúc | Ví dụ
+tb: bị động tiếp diễn | is / was being + V3 | The house is being painted.
+tb: bị động với get | get / got + V3 | He got fired.
+tb: hai tân ngữ | người + was given… | She was offered a job.
+> Bị động tiếp diễn chỉ cần thêm [[being]] vào giữa. Còn [[get]] thay cho [[be]] khi nói thân mật, nhất là với chuyện bất ngờ hay không may.
+
+#examples
+- A new hospital {is being built|k} in our town. | Một bệnh viện mới đang được xây ở thị trấn chúng tôi.
+- I felt like I {was being watched|k}. | Tôi có cảm giác như mình đang bị theo dõi.
+- My phone {got broken|k} when I dropped it. | Điện thoại tôi bị vỡ khi tôi đánh rơi nó.
+- They {got married|k} last spring. | Họ cưới nhau mùa xuân năm ngoái.
+- She {was offered|k} a job in Tokyo. | Cô ấy được mời làm việc ở Tokyo.
+
+#contrast
+vs: The window was broken. | Cửa sổ bị vỡ. || be: có thể chỉ trạng thái, đã vỡ sẵn
+vs: The window got broken. | Cửa sổ bị vỡ mất. || get: nhấn vào chuyện xảy ra
+> [[Was broken]] có thể chỉ một trạng thái: lúc đó cửa đã vỡ sẵn. [[Got broken]] nhấn vào chuyện xảy ra: cửa bị vỡ, thường là bất ngờ.
+
+#natural
+rank: best | I was given a free coffee. | Tôi được mời một cốc cà phê miễn phí.
+rank: ok | A free coffee was given to me. | Một cốc cà phê miễn phí được đưa cho tôi.
+> Khi động từ có hai tân ngữ, như [[give]], [[offer]], [[send]], người Anh thích để người nhận làm chủ ngữ. Câu nghe tự nhiên và gọn hơn.
+
+#mistakes
+x: My car is repairing now. => My car is being repaired now. | Xe tôi đang được sửa. >> Xe không tự sửa: bị động tiếp diễn [[is being repaired]].
+x: The road was being fix when we arrived. => The road was being fixed when we arrived. | Lúc chúng tôi đến, con đường đang được sửa. >> Sau [[being]] là phân từ: [[fixed]].
+x: A job was offered her. => She was offered a job. | Cô ấy được mời làm việc. >> Để người nhận làm chủ ngữ: [[She was offered]].
+
+#dialogue
+jay: So when will your car be ready? | Vậy bao giờ xe anh sửa xong? [thinking]
+ben: They said it's being painted today, so maybe Friday. | Họ bảo hôm nay đang sơn lại, nên chắc thứ sáu. [explain]
+jay: Be careful next time. I don't want you to get hurt! | Lần sau cẩn thận nhé. Tôi không muốn anh bị thương đâu! [worried]
+ben: Thanks. I'll drive slowly, I promise. | Cảm ơn. Tôi hứa sẽ lái chậm. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Căn phòng đang được dọn. => The room is being cleaned. | Căn phòng đang được dọn.
+? Nói bằng tiếng Anh, dùng [[get]]: Tôi bị lạc ở Hà Nội. => I got lost in Hanoi. | Tôi bị lạc ở Hà Nội.
+
+#recap
+> Việc đang được làm: [[is being]] cộng phân từ. Nói thân mật, nhất là chuyện bất ngờ: [[get]] cộng phân từ, như [[got stolen]], [[got hurt]]. Và với động từ hai tân ngữ, hãy để người nhận làm chủ ngữ: [[I was given]].
+
+#practice
+fill: The bridge ___ built right now. | is being* / is / was being || Đang được xây → is being built.
+fill: When I got there, my car ___ washed. | was being* / is being / was || Đang được rửa lúc đó → was being.
+fill: My wallet ___ stolen on the bus yesterday. | got* / get / getting || Chuyện không may, thân mật → got stolen.
+fix: The house is painting this week. | The house is being painted this week.* / The house is being paint this week. / The house painting this week. || Bị động tiếp diễn.
+transform: Chuyển sang bị động, người nhận làm chủ ngữ: | They gave me a gift. >> I was given a gift.* / A gift gave me. / I was gave a gift. || Người nhận làm chủ ngữ.
+choice: “Did you get hurt?” nghĩa là: | Bạn có bị thương không?* / Bạn có làm ai đau không? / Bạn có thấy đau không? || Get + V3 = bị.
+type: They got ___ last spring. (cưới) | married || Get married.
+order: A / new / hospital / is / being / built / in / our / town. | Một bệnh viện mới đang được xây ở thị trấn chúng tôi.
+listen: I felt like I was being watched. | I felt like I was being watched.* / I felt like I was watching. / I feel like I'm being watched. || Nghe was being watched.

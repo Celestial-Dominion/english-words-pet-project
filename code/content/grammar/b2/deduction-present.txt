@@ -1,0 +1,65 @@
+=== deduction-present
+sum: Suy đoán về hiện tại, theo mức chắc chắn. Must + V = chắc chắn là (dựa vào bằng chứng): It must be his uncle's car. Can't + V = chắc chắn không: They can't be at home (phủ định của must khi suy đoán là can't, KHÔNG phải mustn't — mustn't là cấm). Might / may / could + V = có thể: They might be at the park. Việc đang diễn ra: must / might be + V-ing (She might be driving). Khả năng của một tình huống cụ thể không dùng can. Câu đời thường: You must be joking! That must be hard for you.
+form: must + V = chắc chắn là (có bằng chứng) | He must be tired.
+form: can't + V = chắc chắn không | It can't be true.
+form: might / may / could + V = có thể | She might be at home.
+form: must / might be + V-ing = chắc là đang | He must be sleeping.
+cast: zoe sam
+bg: street
+words: must, might, uncle, serious, joke, strange
+
+#hook
+zoe: Look, there's a red car outside Tom's house. | Nhìn kìa, có một chiếc ô tô đỏ trước nhà Tom. [point]
+sam: It must be his uncle's car. His uncle visits every Sunday. | Chắc là xe của chú cậu ấy. Chủ nhật nào chú ấy cũng đến chơi. [thinking]
+zoe: But the lights are off. They can't be at home. | Nhưng đèn tắt hết. Chắc chắn họ không có nhà. [thinking]
+sam: They might be at the park. It's such a nice day. | Có khi họ ra công viên. Hôm nay trời đẹp thế cơ mà. [happy]
+> Ba mức suy đoán. [[It must be his uncle's car]]: gần như chắc chắn, vì có bằng chứng. [[They can't be at home]]: chắc chắn không. [[They might be at the park]]: có thể, nhưng không chắc.
+
+#form
+f: Chủ ngữ + [must / might / can't] + động từ nguyên thể
+> Cấu trúc giống mọi động từ khuyết thiếu: không thêm [[s]], không có [[to]]. Điều khác là mức độ chắc chắn của từng từ.
+th: Mức độ | Từ | Ví dụ
+tb: chắc chắn là | must | He must be hungry.
+tb: có thể | might · may · could | He might be busy.
+tb: chắc chắn không | can't | He can't be serious.
+> Để ý: phủ định của [[must]] khi suy đoán là [[can't]], không phải [[mustn't]]. [[Mustn't]] chỉ dùng cho lệnh cấm.
+
+#examples
+- You {must be|k} Anna's sister. You look just like her! | Chắc bạn là em gái của Anna. Trông giống hệt!
+- That {can't be|n} right. Let me check again. | Không thể đúng được. Để tôi kiểm tra lại.
+- She's not answering. She {might be|k} driving. | Cô ấy không nghe máy. Có khi đang lái xe.
+- Listen! Someone {must be|k} playing the piano. | Nghe kìa! Chắc có ai đang chơi piano.
+
+#real
+- {You must be joking|k}! | Bạn đùa à!
+- {That must be|k} hard for you. | Chắc chuyện đó khó khăn với bạn lắm.
+> Hai câu rất đời thường. [[You must be joking]] tỏ ý không tin. Còn [[That must be hard for you]] là một cách thể hiện sự cảm thông.
+
+#mistakes
+x: He mustn't be at home. His car is gone. => He can't be at home. His car is gone. | Chắc chắn anh ấy không ở nhà. Xe anh ấy không còn đó. >> Suy đoán phủ định dùng [[can't]], không dùng [[mustn't]].
+x: She must to be tired. => She must be tired. | Chắc cô ấy mệt lắm. >> Sau [[must]] không có [[to]].
+x: It can be Tom at the door. => It could be Tom at the door. | Có thể là Tom ở ngoài cửa. >> Khả năng của một tình huống cụ thể: [[could]], [[might]], không dùng [[can]].
+
+#dialogue
+zoe: Someone is walking to the car. Is that Tom? | Có người đang đi ra xe kìa. Tom à? [point]
+sam: It can't be Tom. He's much taller. | Không thể là Tom. Cậu ấy cao hơn nhiều. [thinking]
+zoe: Then it must be his uncle! | Vậy chắc là chú cậu ấy! [happy]
+sam: We should stop watching them. People might think we're strange! | Thôi đừng nhìn nữa. Người ta lại tưởng bọn mình kỳ quặc! [shy]
+
+#recall
+? Nói bằng tiếng Anh: Chắc anh ấy đói lắm, cả ngày chưa ăn gì. => He must be hungry. He hasn't eaten all day. | Chắc anh ấy đói lắm, cả ngày chưa ăn gì.
+? Nói bằng tiếng Anh: Không thể là thật được! => It can't be true! | Không thể là thật được!
+
+#recap
+> Chắc chắn là: [[must]]. Có thể: [[might]], [[may]], [[could]]. Chắc chắn không: [[can't]], không phải [[mustn't]]. Còn việc đang diễn ra thì thêm [[be]] và [[ing]]: [[must be sleeping]].
+
+#practice
+fill: He's been working for twelve hours. He ___ be exhausted. | must* / can't / mustn't || Có bằng chứng → must.
+fill: That ___ be Anna. She's in Paris this week. | can't* / must / mustn't || Chắc chắn không → can't.
+fill: I'm not sure where she is. She ___ be at the gym. | might* / must / can't || Không chắc → might.
+contrast: The lights are on. They ___ be at home. | must* / can't || Đèn sáng → chắc là có nhà.
+fix: She mustn't be at school. It's Sunday. | She can't be at school. It's Sunday.* / She mustn't to be at school. It's Sunday. / She doesn't must be at school. It's Sunday. || Suy đoán phủ định → can't.
+choice: “You must be joking!” nghĩa là: | Bạn đùa à!* / Bạn phải nói đùa đi! / Bạn không được đùa! || Must be = chắc là (tỏ ý không tin).
+type: Listen! Someone must be ___ the piano. (play) | playing || Must be + V-ing.
+order: That / must / be / hard / for / you. | Chắc chuyện đó khó khăn với bạn lắm.
+listen: She's not answering. She might be driving. | She's not answering. She might be driving.* / She's not answering. She must be driving. / She's not answering. She might be sleeping. || Nghe might be driving.

@@ -1,0 +1,71 @@
+=== present-continuous
+sum: Hiện tại tiếp diễn nói việc ĐANG diễn ra ngay lúc nói: am / is / are + động từ-ing (I'm cooking, she's sleeping). Phủ định: I'm not working. Hỏi: Are you watching TV? What are you doing? Chính tả: make → making, run → running.
+form: I am / he is / they are + V-ing | I'm cooking. She's sleeping.
+form: be + not + V-ing | I'm not working. They aren't listening.
+form: Be + chủ ngữ + V-ing? | Are you watching TV? What are you doing?
+form: make → making · run → running · lie → lying | chính tả -ing
+cast: leo mia:call
+bg: kitchen
+words: cook, sleep, watch, dinner, now
+gloss: pasta
+
+#hook
+mia: Hi, Leo! What are you doing? | Chào Leo! Cậu đang làm gì đấy? [happy]
+leo: I'm cooking dinner. | Mình đang nấu bữa tối. [happy]
+mia: Really? What are you making? | Thật à? Cậu đang nấu món gì? [surprised]
+leo: I'm making pasta. It smells great! | Mình đang làm mì Ý. Thơm lắm! [happy]
+> [[Mia]] hỏi việc đang diễn ra ngay lúc gọi. Tiếng Việt thêm chữ “đang”, còn tiếng Anh dùng [[be]] cộng động từ có đuôi [[ing]]: [[I'm cooking]].
+
+#meaning
+tl: ~-1..1 is cooking | đang nấu
+tl: now | bây giờ
+> Hình dung việc đang kéo dài qua thời điểm hiện tại: bắt đầu trước lúc nói, và chưa xong. Đó là thì hiện tại tiếp diễn.
++ Leo is cooking dinner now. | Bây giờ Leo đang nấu bữa tối.
+
+#form
+f: Chủ ngữ + [am / is / are] + động từ + [ing]
+> Cần đủ hai phần: [[be]] và động từ thêm [[ing]]. Thiếu [[be]], như [[I cooking]], là sai.
+- {I'm|a} {reading|k} a book. | Tôi đang đọc sách. [ipa=reading:=]
+- {The baby is|a} {sleeping|k}. | Em bé đang ngủ.
+- {They're|a} {playing|k} in the garden. | Bọn trẻ đang chơi ngoài vườn.
+th: Động từ | Thêm ing
+tb: work | working
+tb: make | making (bỏ e)
+tb: run | running (gấp đôi n)
+tb: lie | lying (ie → y)
+> Chính tả: đuôi [[e]] câm thì bỏ, như [[making]]. Một nguyên âm kẹp giữa hai phụ âm thì gấp đôi phụ âm cuối, như [[running]].
+
+#examples
+mv: You are watching TV . => Are you watching TV ?
+> Hỏi thì đưa [[be]] lên trước chủ ngữ, như mọi câu có [[be]].
+- {Is|a} it {raining|k} outside? | Ngoài trời có đang mưa không?
+- {She isn't|n} {listening|k} to me. | Cô ấy không nghe tôi nói.
+- {What|q} {are|a} you {looking|k} at? | Bạn đang nhìn gì thế?
+
+#mistakes
+x: I cooking now. => I'm cooking now. | Tôi đang nấu ăn. >> Không được bỏ [[be]]. [[I'm cooking]], [[she's cooking]].
+x: She is sleep. => She is sleeping. | Cô ấy đang ngủ. >> Động từ phải có đuôi [[ing]]: [[sleeping]].
+x: Look! It rains. => Look! It's raining. | Nhìn kìa! Trời đang mưa. >> Việc đang xảy ra trước mắt thì dùng tiếp diễn: [[It's raining]].
+
+#dialogue
+leo: Are you eating now? | Cậu đang ăn à? [thinking]
+mia: No, I'm not. I'm working. | Không. Mình đang làm việc. [tired]
+leo: Come to my place! I'm making a lot of pasta. | Qua nhà mình đi! Mình đang nấu nhiều mì lắm. [happy]
+mia: Great! I'm coming! | Tuyệt! Mình đến ngay! [happy cheer]
+
+#recall
+? Nói bằng tiếng Anh: Họ đang xem tivi. => They're watching TV. | Họ đang xem tivi.
+? Hỏi bằng tiếng Anh: Bạn đang làm gì thế? => What are you doing? | Bạn đang làm gì thế?
+
+#recap
+> Việc đang diễn ra ngay bây giờ: [[be]] cộng động từ đuôi [[ing]]. [[I'm cooking]], [[Are you working?]], [[She isn't sleeping]]. Đừng quên [[be]].
+
+#practice
+fill: Be quiet! The baby ___. | is sleeping* / sleeps / sleeping || Việc đang xảy ra → is sleeping.
+fill: They ___ football now. | are playing* / is playing / playing || They → are + playing.
+type: She is ___ (make) a cake. | making || Make → bỏ e → making.
+type: He is ___ (run) in the park. | running || Run → gấp đôi n → running.
+fix: I watching TV. | I'm watching TV.* / I watch TV now. / I'm watch TV. || Cần be + V-ing.
+transform: Chuyển thành câu hỏi: | You are reading a book. >> Are you reading a book?* / Do you reading a book? / You are reading a book? || Đưa are lên đầu.
+order: What / are / you / looking / at? | Bạn đang nhìn gì thế?
+listen: They're playing in the garden. | They're playing in the garden.* / They play in the garden. / They were playing in the garden. || Nghe they're + playing.

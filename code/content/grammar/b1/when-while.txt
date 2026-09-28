@@ -1,0 +1,72 @@
+=== when-while
+sum: Việc dài đang diễn ra (quá khứ tiếp diễn) bị một việc ngắn xen vào (quá khứ đơn): I was walking home when it started to rain. When thường đứng trước việc ngắn; while đứng trước việc dài: While I was running, I dropped my phone. Hai việc nối tiếp nhau → cả hai quá khứ đơn: When the phone rang, I answered it. Hai việc song song → hai quá khứ tiếp diễn với while.
+form: quá khứ tiếp diễn + when + quá khứ đơn | I was walking home when it started to rain.
+form: while + quá khứ tiếp diễn, quá khứ đơn | While I was running, I dropped my phone.
+form: when + quá khứ đơn, quá khứ đơn | When the phone rang, I answered it. (nối tiếp)
+form: while + tiếp diễn, tiếp diễn | While I was cooking, he was cleaning. (song song)
+cast: mia leo
+bg: street
+words: when, while, umbrella, drop, accident, knock
+gloss: doorbell, hair dryer
+
+#hook
+mia: You won't believe my day. I was walking home when it started to rain. | Anh không tin nổi đâu. Tôi đang đi bộ về thì trời đổ mưa. [surprised]
+leo: Oh no. Did you have an umbrella? | Ôi không. Chị có mang ô không? [worried]
+mia: No! And while I was running to the bus stop, I dropped my phone in the water. | Không! Mà trong lúc chạy ra bến xe buýt, tôi còn đánh rơi điện thoại xuống nước. [sad]
+leo: What a day! | Đúng là một ngày xui xẻo! [surprised]
+> [[I was walking home]]: việc dài, đang diễn ra. [[It started to rain]]: việc ngắn, xen vào giữa. Việc dài dùng quá khứ tiếp diễn, việc ngắn xen vào dùng quá khứ đơn.
+
+#meaning
+tl: ~-2.5..-0.5 was walking home | đang đi bộ về
+tl: -1.5 started to rain | trời đổ mưa
+tl: now | bây giờ
+> Trên trục thời gian, làn sóng dài là việc đang diễn ra. Còn cái chấm cắt ngang nó là việc xảy ra đột ngột.
+
+#form
+f: quá khứ tiếp diễn + [when] + quá khứ đơn
+> [[When]] thường đứng trước việc ngắn, đột ngột: [[when it started to rain]].
+- I {was taking|k} a shower {when|c} the doorbell {rang|k}. | Tôi đang tắm thì chuông cửa reo.
+- She {was driving|k} to work {when|c} she {saw|k} the accident. | Cô ấy đang lái xe đi làm thì thấy vụ tai nạn.
+f: [While] + quá khứ tiếp diễn, + quá khứ đơn
+> Còn [[while]] đứng trước việc dài, việc đang diễn ra: [[While I was running]].
+- {While|c} we {were having|k} dinner, the lights {went|k} out. | Chúng tôi đang ăn tối thì mất điện.
+
+#examples
+- He {was reading|k} a book {when|c} he {fell|k} asleep. | Anh ấy đang đọc sách thì ngủ thiếp đi. [ipa=reading:=]
+- {While|c} I {was waiting|k} for the bus, it {started|k} to snow. | Trong lúc tôi chờ xe buýt thì tuyết bắt đầu rơi.
+- We {were playing|k} in the garden {when|c} Dad {came|k} home. | Chúng tôi đang chơi trong vườn thì bố về.
+
+#contrast
+vs: When the phone rang, I answered it. | Điện thoại reo, tôi nghe máy. || nối tiếp → hai quá khứ đơn
+vs: When the phone rang, I was cooking. | Lúc điện thoại reo, tôi đang nấu ăn. || đang dở thì bị xen vào
+vs: While I was cooking, he was cleaning the house. | Trong lúc tôi nấu ăn, anh ấy dọn nhà. || song song → hai tiếp diễn
+> Cùng mở đầu bằng [[When the phone rang]], nhưng khác nghĩa. [[I answered it]]: chuông reo rồi tôi mới nghe máy. [[I was cooking]]: chuông reo khi tôi đang nấu dở. Còn hai việc dài diễn ra song song thì cả hai đều là tiếp diễn.
+
+#mistakes
+x: While I walked home, I was seeing an accident. => While I was walking home, I saw an accident. | Trong lúc đi bộ về, tôi thấy một vụ tai nạn. >> Việc dài dùng tiếp diễn, việc ngắn xen vào dùng quá khứ đơn.
+x: I was sleeping while the phone rang. => I was sleeping when the phone rang. | Tôi đang ngủ thì điện thoại reo. >> Trước việc ngắn, đột ngột, dùng [[when]].
+x: When I arrived, they have dinner. => When I arrived, they were having dinner. | Lúc tôi đến, họ đang ăn tối. >> Việc đang diễn ra lúc tôi đến thì dùng quá khứ tiếp diễn.
+
+#dialogue
+leo: So what happened to your phone? | Thế điện thoại chị sao rồi? [thinking]
+mia: When I picked it up, it wasn't working. | Lúc tôi nhặt lên thì nó không chạy nữa. [sad]
+leo: That's terrible. What were you doing when I called you? | Tệ thật. Thế lúc tôi gọi, chị đang làm gì? [worried]
+mia: I was drying my phone with a hair dryer! | Tôi đang sấy điện thoại bằng máy sấy tóc! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi đang xem tivi thì có người gõ cửa. => I was watching TV when someone knocked on the door. | Tôi đang xem tivi thì có người gõ cửa.
+? Nói bằng tiếng Anh: Trong lúc tôi ngủ, con mèo ăn mất cá. => While I was sleeping, the cat ate the fish. | Trong lúc tôi ngủ, con mèo ăn mất cá.
+
+#recap
+> Việc dài đang diễn ra: quá khứ tiếp diễn. Việc ngắn xen vào: quá khứ đơn. [[When]] đứng trước việc ngắn, [[while]] đứng trước việc dài. Còn hai việc nối tiếp nhau thì cả hai đều ở quá khứ đơn.
+
+#practice
+contrast: I ___ a bath when the phone rang. | was having* / had || Việc đang dở → was having.
+contrast: While we were walking, we ___ an old friend. | met* / were meeting || Việc ngắn xen vào → met.
+fill: The lights went out ___ we were having dinner. | while* / when / during || Trước việc dài đang diễn ra → while.
+fill: I was sleeping ___ the alarm went off. | when* / while / during || Trước việc ngắn → when.
+fix: When I arrived, everyone dance. | When I arrived, everyone was dancing.* / When I was arrive, everyone danced. / When I arrived, everyone is dancing. || Việc đang diễn ra lúc tôi đến → was dancing.
+choice: “When the phone rang, I answered it.” nghĩa là: | Chuông reo rồi tôi mới nghe máy* / Tôi đang nghe máy thì chuông reo / Tôi nghe máy trước khi chuông reo || Hai quá khứ đơn → nối tiếp.
+type: She ___ (drive) to work when she saw the accident. | was driving || Việc đang diễn ra → was driving.
+order: I / was / taking / a / shower / when / the / doorbell / rang. | Tôi đang tắm thì chuông cửa reo.
+listen: While we were having dinner, the lights went out. | While we were having dinner, the lights went out.* / When we had dinner, the lights went out. / While we were having dinner, the lights were on. || Nghe while … were having.

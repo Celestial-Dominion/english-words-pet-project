@@ -1,0 +1,73 @@
+=== modality-nuance
+sum: Động từ khuyết thiếu với sắc thái tinh tế, không phải tương lai hay bổn phận. will = đoán về BÂY GIỜ, khá chắc (That'll be the pizza · You'll be tired after the flight). should = theo kế hoạch, lẽ thường thì phải vậy (They should be there by now · The parcel should arrive tomorrow) — nhẹ hơn must, vốn là kết luận từ bằng chứng. would = đúng tính người đó, lại thế (He would say that!). can = có lúc, đôi khi (It can get cold at night · She can be stubborn). You may think…, but… = thừa nhận rồi phản bác. I'd imagine / I would think = đoán dè dặt.
+form: will + V = đoán về bây giờ | That'll be the pizza!
+form: should + V = theo lẽ thường, dự kiến | They should be there by now.
+form: would + V = đúng tính người đó | He would say that!
+form: can = có lúc · You may think…, but… | It can get cold at night.
+cast: sam grandma
+bg: home-evening
+words: parcel, stubborn, flight, imagine, postman, expect
+
+#hook
+sam: Someone's at the door. That'll be the pizza! | Có người ở cửa. Chắc là pizza đến rồi! [happy]
+grandma: So soon? It should take at least half an hour. | Nhanh thế? Theo lẽ thường phải mất ít nhất nửa tiếng chứ. [surprised]
+sam: Then it'll be Dad. He should be home by now. | Vậy chắc là bố. Giờ này bố phải về rồi. [thinking]
+grandma: Your father would forget his keys again! | Bố cháu lại quên chìa khóa, đúng tính bố cháu! [happy]
+> Bốn động từ khuyết thiếu, không cái nào nói về tương lai hay bổn phận. [[That'll be the pizza]]: đoán, khá chắc. [[It should take]], [[He should be home by now]]: theo lẽ thường thì phải vậy. [[Would forget]]: đúng tính anh ấy, lại thế.
+
+#form
+th: Câu | Sắc thái
+tb: That'll be Tom. | đoán, khá chắc (bây giờ)
+tb: They should be there by now. | theo lẽ thường thì phải vậy
+tb: He would say that! | đúng tính người đó
+tb: It can get cold at night. | có lúc, đôi khi
+tb: You may be right, but… | thừa nhận rồi phản bác
+> Cùng những động từ quen thuộc, nhưng ở đây chúng nói về mức độ chắc chắn và thái độ của người nói, không phải về tương lai hay bổn phận.
+f: [will / should / would] + nguyên thể, nói về bây giờ
+> Câu [[That'll be Tom]] nói về hiện tại: người đang bấm chuông chắc là Tom. [[Will]] ở đây là một lời đoán tự tin, không phải thì tương lai.
+
+#examples
+- {You'll be|k} tired after such a long flight. | Chắc bạn mệt lắm sau chuyến bay dài như vậy.
+- The parcel {should arrive|k} tomorrow. | Theo dự kiến, gói hàng sẽ đến vào ngày mai.
+- She {can be|k} very stubborn when she's tired. | Cô ấy có lúc rất bướng bỉnh khi mệt.
+- {You may think|k} it's easy, but it isn't. | Có thể bạn nghĩ nó dễ, nhưng không phải đâu.
+
+#contrast
+vs: They should be there by now. | Giờ này chắc họ đã tới nơi. || should: theo lịch, theo lẽ thường
+vs: They must be there by now. | Giờ này chắc chắn họ đã tới. || must: suy luận chắc chắn
+> [[Should]] dựa vào kế hoạch, lẽ thường: đáng lẽ đã tới, nhưng chưa dám khẳng định. [[Must]] là kết luận từ bằng chứng, chắc hơn nhiều.
+
+#natural
+rank: best | That'll be the postman. | Chắc là bác đưa thư đấy.
+rank: ok | That's probably the postman. | Có lẽ là bác đưa thư.
+> [[That'll be]] rất tự nhiên khi nghe tiếng chuông cửa, tiếng điện thoại: đoán nhanh, khá chắc. [[Probably]] cũng đúng, nhưng [[will]] nghe gọn và tự tin hơn.
+
+#mistakes
+x: The parcel should arrives tomorrow. => The parcel should arrive tomorrow. | Gói hàng dự kiến sẽ đến vào ngày mai. >> Sau [[should]] là nguyên thể: [[arrive]].
+x: It can to be very cold here. => It can be very cold here. | Ở đây có lúc rất lạnh. >> Sau [[can]] không có [[to]].
+x: You may think it's easy, and it isn't. => You may think it's easy, but it isn't. | Có thể bạn nghĩ nó dễ, nhưng không phải đâu. >> [[You may think]] thừa nhận rồi phản bác, nên cần [[but]].
+
+#dialogue
+sam: It's Dad! You were right, he's forgotten his keys. | Là bố! Bà nói đúng, bố quên chìa khóa rồi. [happy]
+grandma: Of course. He would. And the pizza? | Tất nhiên. Đúng tính nó. Còn pizza thì sao? [happy]
+sam: It shouldn't be long now. They said thirty minutes. | Chắc không lâu nữa đâu ạ. Họ bảo ba mươi phút. [explain]
+grandma: Good. You'll be hungry after football! | Tốt. Chắc cháu đói lắm sau trận bóng! [happy]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[should]]: Theo lịch thì giờ này tàu đã đến nơi. => The train should be there by now. | Theo lịch thì giờ này tàu đã đến nơi.
+? Nói bằng tiếng Anh, dùng [[will]] để đoán: Chắc là mẹ tôi gọi đấy. => That'll be my mother calling. | Chắc là mẹ tôi gọi đấy.
+
+#recap
+> [[Will]]: đoán về bây giờ, khá chắc. [[Should]]: theo lẽ thường, dự kiến, nhẹ hơn [[must]]. [[Would]]: đúng tính người đó. [[Can]]: có lúc. [[You may think…, but]]: thừa nhận rồi phản bác. Động từ khuyết thiếu nói lên mức chắc chắn và thái độ.
+
+#practice
+fill: The phone's ringing. That ___ be Anna. | will* / shall to / is to || That will be… = đoán, khá chắc.
+fill: If they left at noon, they ___ be home by now. | should* / would to / can to || should = theo lẽ thường thì phải.
+fill: Winters here ___ be very cold. | can* / will to / must to || can = có lúc.
+fix: He would to say that! | He would say that!* / He would saying that! / He would said that! || would + nguyên thể = đúng tính người đó.
+transform: Viết lại, dùng should: | I expect the package to arrive on Monday. >> The package should arrive on Monday.* / The package should arrives on Monday. / The package should to arrive on Monday. || should + nguyên thể = dự kiến.
+choice: “He would say that!” nghĩa là: | Đúng tính anh ta, nói vậy là phải* / Anh ta sẽ nói điều đó ngày mai / Anh ta muốn nói điều đó || would = đúng tính người đó.
+choice: “You'll be tired after the trip.” nói về khi nào? | Bây giờ, người nói đoán* / Tuần sau / Trước chuyến đi || will = đoán về hiện tại.
+type: She ___ be very funny when she wants to. (có lúc) | can || can = có lúc, đôi khi.
+order: The / parcel / should / arrive / tomorrow. | Theo dự kiến, gói hàng sẽ đến vào ngày mai.
+listen: Then it'll be Dad. He should be home by now. | Then it'll be Dad. He should be home by now.* / Then it'll be Mom. She should be home by now. / Then it must be Dad. He's home now. || Nghe it'll be Dad … by now.

@@ -1,0 +1,68 @@
+=== prepositions-place
+sum: Giới từ nơi chốn cho biết vật ở đâu so với vật khác: in (trong), on (trên, chạm mặt), under (dưới), next to (cạnh), between (giữa hai thứ), behind (sau), in front of (trước), near (gần). Giới từ đứng trước danh từ: on the table.
+form: be + giới từ + the + danh từ | It's on the table.
+form: in · on · under · next to · between · behind · in front of · near | trong · trên · dưới · cạnh · giữa · sau · trước · gần
+cast: dad lily
+bg: kitchen
+prop: phone x=820
+words: table, bag, sofa, door, window, box
+gloss: next, fridge
+
+#hook
+dad: Lily, where's my phone? | Lily ơi, điện thoại của bố đâu rồi? [worried]
+lily: It's on the table, Dad. | Nó ở trên bàn đấy bố. [point @phone]
+dad: Oh, it's under the newspaper! | Ồ, nó ở dưới tờ báo! [surprised]
+> Chỉ một từ nhỏ đứng trước [[the table]] mà vị trí thay đổi hẳn: [[on the table]] là trên bàn, [[under the newspaper]] là dưới tờ báo.
+
+#form
+th: Giới từ | Nghĩa | Ví dụ
+tb: in | ở trong | in the box
+tb: on | ở trên (chạm) | on the table
+tb: under | ở dưới | under the bed
+tb: next to | ở cạnh | next to the door
+tb: between | ở giữa (hai thứ) | between the lamps
+tb: behind | ở sau | behind the sofa
+tb: in front of | ở trước | in front of the house
+> Bảy vị trí hay dùng nhất. Chú ý [[on]] là ở trên và CHẠM vào mặt, như điện thoại nằm trên bàn. Còn [[between]] là ở giữa hai thứ.
+f: [be] + giới từ + [the] + danh từ
+> Câu chỉ vị trí thường có dạng này. [[The keys are in the bag]]: chìa khóa ở trong túi. Giới từ luôn đứng TRƯỚC danh từ.
+
+#examples
+- The cat is {under|k} the sofa. | Con mèo ở dưới ghế sô-pha.
+- My bag is {behind|k} the door. | Túi của tôi ở sau cánh cửa.
+- The bank is {next to|k} the station. | Ngân hàng ở cạnh nhà ga.
+- Our school is {between|k} a park and a hospital. | Trường chúng tôi ở giữa một công viên và một bệnh viện.
+- Wait for me {in front of|k} the cinema. | Đợi tôi ở trước rạp chiếu phim nhé.
+
+#contrast
+vs: The keys are in the box. | Chìa khóa ở trong hộp. || in = bên trong
+vs: The keys are on the box. | Chìa khóa ở trên hộp. || on = trên mặt
+> Người Việt hay nói “trên” cho cả hai trường hợp. Hãy tự hỏi: vật ở BÊN TRONG hay nằm TRÊN MẶT? Bên trong thì dùng [[in]], trên mặt thì dùng [[on]].
+
+#mistakes
+x: The book is on the bag. => The book is in the bag. | Quyển sách ở trong túi. >> Sách nằm bên trong túi thì dùng [[in]]. [[On the bag]] là nằm trên mặt túi.
+x: The shop is next the bank. => The shop is next to the bank. | Cửa hàng ở cạnh ngân hàng. >> [[Next to]] là cụm hai từ, không được bỏ [[to]].
+x: The park is in front the school. => The park is in front of the school. | Công viên ở trước trường. >> [[In front of]] có ba từ, nhớ đủ [[of]].
+
+#dialogue
+lily: Dad, where are my shoes? | Bố ơi, giày của con đâu ạ? [thinking]
+dad: Are they under your bed? | Có phải ở dưới giường con không? [thinking]
+lily: No, they aren't. | Không có bố ạ. [shake]
+dad: Look! They're next to the door. | Nhìn kìa! Chúng ở cạnh cửa đấy. [point]
+
+#recall
+? Nói bằng tiếng Anh: Con chó ở dưới cái bàn. => The dog is under the table. | Con chó ở dưới cái bàn.
+? Nói bằng tiếng Anh: Quán cà phê ở cạnh ngân hàng. => The cafe is next to the bank. | Quán cà phê ở cạnh ngân hàng.
+
+#recap
+> Để chỉ chỗ, chọn đúng một giới từ và đặt nó trước danh từ: [[in the box]], [[on the table]], [[next to the door]]. Nhớ đủ từ trong các cụm dài như [[next to]], [[in front of]].
+
+#practice
+fill: The milk is ___ the fridge. | in* / on / under || Sữa ở bên trong tủ lạnh → in.
+fill: The picture is ___ the wall. | on* / in / between || Tranh treo trên mặt tường → on.
+fill: The bank is ___ the post office and the cafe. | between* / next / in front || Ở giữa hai chỗ → between.
+fix: My car is in front the house. | My car is in front of the house.* / My car is front of the house. / My car is in the front house. || In front of có đủ ba từ.
+choice: “Next to the door” nghĩa là gì? | cạnh cửa* / sau cửa / trong cửa || next to = cạnh.
+order: The / cat / is / under / the / sofa. | Con mèo ở dưới ghế sô-pha.
+listen: The keys are on the box. | The keys are on the box.* / The keys are in the box. / The key is on the box. || Nghe giới từ: on.
+type: The ball is ___ the chair. (ở dưới) | under || Ở dưới → under.

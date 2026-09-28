@@ -1,0 +1,67 @@
+=== object-pronouns
+sum: Đứng SAU động từ hoặc giới từ, đại từ đổi dạng: I → me, he → him, she → her, we → us, they → them (you, it giữ nguyên). Nói "Call me", "with them", không nói "Call I", "with they".
+form: I → me · he → him · she → her | Help me. I like him.
+form: we → us · they → them · you, it giữ nguyên | Come with us. I love them.
+form: động từ / giới từ + tân ngữ | call me, with her, for them
+cast: ben linh
+bg: office
+words: call, help, know, meet, email
+
+#hook
+ben: Do you know Mr Ross? | Chị có biết thầy Ross không? [thinking]
+linh: Yes, I know him. He's my teacher. | Có, tôi biết ông ấy. Ông ấy là thầy tôi. [happy]
+ben: Can you call him for me? | Chị gọi ông ấy giúp tôi được không? [explain]
+linh: Sure. I can call him now. | Được chứ. Tôi gọi ông ấy ngay đây. [nod]
+> [[He]] là “ông ấy” khi đứng làm chủ ngữ. Nhưng đứng sau động từ [[know]], [[call]] thì phải đổi thành [[him]]: [[I know him]].
+
+#form
+th: Chủ ngữ | Tân ngữ | Ví dụ
+tb: I | me | Call me.
+tb: you | you | I love you.
+tb: he | him | Ask him.
+tb: she | her | I know her.
+tb: it | it | Eat it.
+tb: we | us | Help us.
+tb: they | them | Meet them.
+> Đứng trước động từ thì dùng dạng chủ ngữ: [[I]], [[he]], [[they]]. Đứng sau động từ thì dùng dạng tân ngữ: [[me]], [[him]], [[them]].
+f: Chủ ngữ + động từ + [me / him / her / us / them]
+> Tân ngữ cũng đứng sau giới từ: [[with me]], [[for her]], [[to them]].
+
+#examples
+- My mom calls {me|k} every day. | Ngày nào mẹ cũng gọi cho tôi.
+- These cookies are for {you|k}. | Mấy chiếc bánh quy này là cho bạn.
+- Our neighbors are nice. We often visit {them|k}. | Hàng xóm chúng tôi rất tốt. Chúng tôi hay sang thăm họ.
+- Sit with {us|k}! | Ngồi với bọn mình đi!
+
+#contrast
+vs: She loves him. | Cô ấy yêu anh ấy. || she = người làm, him = người được yêu
+vs: He loves her. | Anh ấy yêu cô ấy. || he = người làm, her = người được yêu
+> Tiếng Việt chỉ đổi chỗ: cô ấy yêu anh ấy, anh ấy yêu cô ấy. Tiếng Anh vừa đổi chỗ vừa đổi dạng từ: [[she]] thành [[her]], [[him]] thành [[he]].
+
+#mistakes
+x: Can you help I? => Can you help me? | Bạn giúp tôi được không? >> Sau động từ [[help]] dùng [[me]], không dùng [[I]].
+x: I like she. => I like her. | Tôi thích cô ấy. >> Sau động từ, [[she]] đổi thành [[her]].
+x: Come with we! => Come with us! | Đi cùng bọn mình đi! >> Sau giới từ [[with]], [[we]] đổi thành [[us]].
+
+#dialogue
+linh: Mr Ross wants to meet us. | Thầy Ross muốn gặp chúng ta. [explain]
+ben: Me too? | Cả tôi nữa à? [surprised]
+linh: Yes. He wants to talk to you and me. | Ừ. Thầy muốn nói chuyện với anh và tôi. [nod]
+ben: OK. Tell him we're coming. | Được. Chị bảo thầy là chúng ta đến ngay. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi gọi cho cô ấy mỗi tối. => I call her every evening. | Tôi gọi cho cô ấy mỗi tối.
+? Nói bằng tiếng Anh: Đi cùng chúng tôi nhé! => Come with us! | Đi cùng chúng tôi nhé!
+
+#recap
+> Sau động từ và giới từ, đại từ đổi dạng: [[me]], [[him]], [[her]], [[us]], [[them]]. [[You]] và [[it]] giữ nguyên.
+
+#practice
+fill: Where is Tom? I can't see ___. | him* / he / his || Sau see → him.
+fill: My parents are here. I love ___. | them* / they / their || Sau love → them.
+fill: Please give the book to ___. | me* / I / my || Sau giới từ to → me.
+fix: She often helps we. | She often helps us.* / She often help us. / She often helps our. || Sau helps → us.
+choice: Chọn câu đúng: | They invite us to dinner.* / Them invite us to dinner. / They invite we to dinner. || Chủ ngữ they, tân ngữ us.
+order: My / mom / calls / me / every / day. | Ngày nào mẹ cũng gọi cho tôi.
+listen: Sit with us! | Sit with us!* / Sit with them! / Sit with him! || Nghe us ở cuối câu.
+type: This is Lan. Do you know ___? | her || Lan là nữ, đứng sau know → her.

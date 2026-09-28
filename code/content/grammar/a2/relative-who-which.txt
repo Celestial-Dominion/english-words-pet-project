@@ -1,0 +1,65 @@
+=== relative-who-which
+sum: Mệnh đề quan hệ nói rõ người / vật nào, đứng NGAY SAU danh từ: who cho người (a person who works in a hospital), which cho vật, con vật (an animal which lives in the sea), that dùng được cho cả hai trong văn nói. Who / which / that đã thay cho danh từ, nên không lặp lại đại từ: the book which I bought (không nói which I bought it). Tiếng Việt “mà” không dịch thành that + đại từ thừa.
+form: người + who + động từ | a person who works in a hospital
+form: vật, con vật + which + động từ | an animal which lives in the sea
+form: that = who / which (văn nói) | the man that lives next door
+form: không lặp đại từ | the book which I bought (không có it)
+cast: max dad
+bg: home-evening
+words: who, which, animal, hospital, person, place
+gloss: kangaroo
+
+#hook
+max: Dad, let's play a game! Guess the word. | Bố ơi, mình chơi trò đoán chữ đi! [happy cheer]
+dad: OK! Go ahead. | Được! Con bắt đầu đi. [happy]
+max: It's a person who works in a hospital and helps sick people. | Đó là một người làm ở bệnh viện và giúp người ốm. [explain]
+dad: A doctor! | Bác sĩ! [happy]
+max: Yes! Now it's an animal which lives in Australia and jumps. | Đúng rồi! Giờ là một con vật sống ở Úc và biết nhảy. [happy ipa=lives:lɪvz]
+dad: A kangaroo! | Chuột túi! [happy cheer]
+> Trò đoán chữ cần mệnh đề quan hệ. [[A person who works in a hospital]]: [[who]] nói rõ đó là người nào. [[An animal which lives in Australia]]: [[which]] nói rõ đó là con vật nào.
+
+#form
+f: người + [who] + động từ … · vật + [which] + động từ …
+> Mệnh đề quan hệ đứng ngay sau danh từ mà nó giải thích. Người thì dùng [[who]], vật và con vật thì dùng [[which]].
+- The girl {who|c} lives next door is my classmate. | Cô bé sống cạnh nhà là bạn cùng lớp tôi. [ipa=lives:lɪvz]
+- I have a phone {which|c} takes great photos. | Tôi có một chiếc điện thoại chụp ảnh rất đẹp.
+- A chef is someone {who|c} cooks in a restaurant. | Đầu bếp là người nấu ăn trong nhà hàng.
+
+#meaning
+vs: The man who called you is my uncle. | Người đàn ông gọi cho bạn là chú tôi. || who: người
+vs: The man that called you is my uncle. | Người đàn ông gọi cho bạn là chú tôi. || that: dùng được cho cả người lẫn vật
+> Trong văn nói, người Mỹ rất hay dùng [[that]] thay cho cả [[who]] lẫn [[which]]. Hai câu này nghĩa như nhau.
+
+#examples
+- This is the song {that|c} I love. | Đây là bài hát mà tôi mê.
+- Do you know a place {which|c} sells good coffee? | Bạn có biết chỗ nào bán cà phê ngon không?
+- She's the teacher {who|c} helped me a lot. | Cô ấy là cô giáo đã giúp tôi rất nhiều.
+
+#mistakes
+x: This is the book which I bought it. => This is the book which I bought. | Đây là cuốn sách mà tôi đã mua. >> [[Which]] đã thay cho [[the book]] rồi, nên không thêm [[it]]. Tiếng Việt nói “mà tôi mua nó”, tiếng Anh thì không.
+x: The girl which sings is my sister. => The girl who sings is my sister. | Cô gái đang hát là em gái tôi. >> Người thì dùng [[who]], không dùng [[which]].
+x: The man who he lives here is a doctor. => The man who lives here is a doctor. | Người đàn ông sống ở đây là bác sĩ. [ipa=lives:lɪvz] >> [[Who]] đã là chủ ngữ, không thêm [[he]].
+
+#dialogue
+dad: My turn! It's a thing which you use every day. | Đến lượt bố! Đó là một thứ con dùng hằng ngày. [thinking ipa=use:juz]
+max: Hmm... Is it something that you eat? | Hừm... Có phải thứ để ăn không ạ? [thinking]
+dad: No. It's something that you use to brush your teeth. | Không. Đó là thứ con dùng để đánh răng. [happy ipa=use:juz]
+max: A toothbrush! That's easy! | Bàn chải đánh răng! Dễ ợt! [happy cheer]
+
+#recall
+? Nói bằng tiếng Anh: Tôi có một người bạn sống ở Huế. => I have a friend who lives in Hue. | Tôi có một người bạn sống ở Huế. [ipa=lives:lɪvz]
+? Nói bằng tiếng Anh: Đây là chiếc bánh mà mẹ tôi làm. => This is the cake that my mom made. | Đây là chiếc bánh mà mẹ tôi làm.
+
+#recap
+> Mệnh đề quan hệ đứng ngay sau danh từ: [[who]] cho người, [[which]] cho vật, còn [[that]] dùng được cho cả hai. Và nhớ: đừng thêm [[it]], [[he]], [[she]] thừa vào sau chúng.
+
+#practice
+contrast: I met a woman ___ speaks five languages. | who* / which || Người → who.
+contrast: This is the bus ___ goes to the airport. | which* / who || Vật → which.
+fill: He's the boy ___ won the game. | that* / which / what || That dùng được cho người.
+fix: The cake which I made it is delicious. | The cake which I made is delicious.* / The cake which I made it is delicious it. / The cake who I made is delicious. || Không lặp it.
+choice: Câu nào đúng? | The man who lives here is kind.* / The man which lives here is kind. / The man who he lives here is kind. || Người → who, không lặp he.
+type: A dentist is a doctor ___ looks after your teeth. | who / that || Người → who (hoặc that).
+order: The / girl / who / lives / next / door / is / my / classmate. | Cô bé sống cạnh nhà là bạn cùng lớp tôi.
+listen: This is the song that I love. | This is the song that I love.* / This is the song that I loved. / This is a song I don't love. || Nghe that I love.
+transform: Nối bằng who: | I have a friend. She lives in Da Nang. >> I have a friend who lives in Da Nang.* / I have a friend who she lives in Da Nang. / I have a friend which lives in Da Nang. || Who thay cho she.

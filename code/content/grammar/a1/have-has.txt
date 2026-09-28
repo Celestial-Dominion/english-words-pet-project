@@ -1,0 +1,66 @@
+=== have-has
+sum: Have / has = có (sở hữu, gia đình, đặc điểm): I have a dog; she has long hair. He / she / it dùng has. Câu hỏi và phủ định cần do / does: Do you have…? She doesn't have… Have còn đi với bữa ăn, hoạt động: have breakfast, have a shower, have fun.
+form: I / you / we / they + have | I have two brothers.
+form: he / she / it + has | She has long hair.
+form: Do you have…? · He doesn't have… | hỏi / phủ định dùng do / does
+form: have + bữa ăn / hoạt động | have breakfast, have a shower, have fun
+cast: max zoe
+bg: park
+prop: puppy x=800
+words: brother, sister, dog, hair, breakfast, shower
+gloss: puppy
+
+#hook
+max: I have a new puppy! | Tớ có một chú cún mới! [happy @puppy]
+zoe: Wow! Does it have a name? | Ôi! Nó có tên chưa? [surprised]
+max: Yes. Its name is Coco. It has big ears. | Có rồi. Tên nó là Coco. Nó có đôi tai to. [happy]
+> [[Max]] nói [[I have]], nhưng nói về chú cún thì [[it has]]. Giống mọi động từ khác: [[he]], [[she]], [[it]] thì thêm [[s]], chỉ riêng [[have]] biến thành [[has]].
+
+#form
+th: Chủ ngữ | Động từ | Ví dụ
+tb: I / you / we / they | have | We have a car.
+tb: he / she / it | has | She has a cat.
+> Nhớ cặp này: [[I have]], [[she has]]. Không có dạng [[haves]].
+- My sister {has|k} long hair. | Chị gái tôi có mái tóc dài.
+- We {have|k} two bathrooms. | Nhà chúng tôi có hai phòng tắm.
+- He {has|k} a cold today. | Hôm nay anh ấy bị cảm.
+> [[Have]] không chỉ là sở hữu đồ vật: còn là có anh chị em, có đặc điểm, thậm chí có bệnh như [[have a cold]].
+
+mv: She has a car . => She doesn't have a car .
+> Câu hỏi và phủ định của [[have]] cần [[do]] hoặc [[does]], giống các động từ khác. Và [[has]] quay về [[have]]: [[She doesn't have]].
+- {Do|a} you {have|k} any brothers? | Bạn có anh trai không?
+- {Does|a} he {have|k} a bike? | Anh ấy có xe đạp không?
+
+#real
+- I {have|k} breakfast at seven. | Tôi ăn sáng lúc bảy giờ.
+- She {has|k} a shower every morning. | Sáng nào cô ấy cũng tắm vòi sen.
+- {Have|k} fun at the party! | Chúc bạn vui ở bữa tiệc nhé!
+> [[Have]] đi với bữa ăn và hoạt động: [[have breakfast]] là ăn sáng, [[have a shower]] là tắm, [[have fun]] là chơi vui. Lúc này [[have]] không còn nghĩa là “có”.
+
+#mistakes
+x: She have a big family. => She has a big family. | Cô ấy có một gia đình lớn. >> [[She]] đi với [[has]].
+x: Do you has a pen? => Do you have a pen? | Bạn có bút không? >> Trong câu hỏi, sau [[Do]] hay [[Does]] luôn là [[have]].
+x: He doesn't has time. => He doesn't have time. | Anh ấy không có thời gian. >> Sau [[doesn't]] dùng [[have]], không dùng [[has]].
+
+#dialogue
+zoe: Do you have a pet? | Cậu có nuôi thú cưng không? [thinking]
+max: Now I have Coco. And my sister has a cat. | Giờ tớ có Coco. Còn chị tớ có một con mèo. [happy]
+zoe: I don't have a pet. | Tớ không có con nào. [sad]
+max: You can play with Coco! Have fun! | Cậu chơi với Coco đi! Chơi vui nhé! [happy cheer]
+
+#recall
+? Nói bằng tiếng Anh: Anh ấy có hai con mèo. => He has two cats. | Anh ấy có hai con mèo.
+? Hỏi bằng tiếng Anh: Bạn có xe đạp không? => Do you have a bike? | Bạn có xe đạp không?
+
+#recap
+> Ba điều về [[have]]: [[he]], [[she]], [[it]] dùng [[has]]. Hỏi và phủ định dùng [[do]] và [[have]]. Và [[have]] còn là ăn, tắm, chơi: [[have breakfast]], [[have fun]]. Người Anh hay nói thêm [[have got]], nghĩa giống [[have]].
+
+#practice
+fill: My brother ___ a new phone. | has* / have / haves || My brother = he → has.
+fill: ___ you have a car? | Do* / Does / Have || You → Do you have…?
+fill: She doesn't ___ a computer. | have* / has / having || Sau doesn't dùng have.
+type: We ___ lunch at twelve. | have || Have lunch = ăn trưa.
+fix: He have two sisters. | He has two sisters.* / He haves two sisters. / He is have two sisters. || He → has.
+choice: “Have a shower” nghĩa là gì? | tắm (vòi sen)* / có một vòi sen / mua vòi sen || Have + hoạt động.
+order: Does / she / have / a / cat? | Cô ấy có nuôi mèo không?
+listen: My sister has long hair. | My sister has long hair.* / My sister had long hair. / My sisters have long hair. || Nghe has — một người chị.

@@ -1,0 +1,66 @@
+=== so-not-to
+sum: Tránh lặp lại khi đáp lời. So thay cho cả mệnh đề khẳng định sau think, hope, guess, suppose, be afraid: Will it rain? — I think so / I hope not / I'm afraid so / I'm afraid not (không nói I think it / I hope no). To thay cho cả cụm động từ: Would you like to come? — I'd love to. I didn't want to. Chuyển phủ định lên động từ chính: I don't think it will rain (tự nhiên hơn I think it won't rain); tương tự I don't believe…, I don't expect… — nhưng hope thì không chuyển (I hope it won't rain).
+form: I think so · I hope not · I'm afraid not | Will it rain? — I hope not.
+form: I'd love to · I didn't want to (giữ to, bỏ động từ) | Can you come? — I'd love to.
+form: I don't think + khẳng định (chuyển phủ định) | I don't think it will rain.
+form: hope không chuyển phủ định | I hope it won't rain.
+cast: leo nam
+bg: park
+words: guess, suppose, afraid, hope, expect, forecast
+gloss: forecast, barbecue
+
+#hook
+leo: Are we still having the barbecue on Saturday? | Thứ bảy mình vẫn tổ chức tiệc nướng chứ? [thinking]
+nam: I think so. Will it rain? | Tôi nghĩ là có. Trời có mưa không nhỉ? [thinking]
+leo: I hope not! I don't think it will. The forecast looks good. | Mong là không! Tôi nghĩ là trời sẽ không mưa đâu. Dự báo trông ổn lắm. [happy]
+nam: Great. Would you like to invite Mia? | Tuyệt. Cậu có muốn mời Mia không? [happy]
+leo: I'd love to, but I'm afraid she's busy. | Tớ rất muốn, nhưng e là cô ấy bận. [sad]
+> [[I think so]], [[I hope not]]: chữ [[so]] và [[not]] thay cho cả một mệnh đề, nên không phải lặp lại câu hỏi. [[I'd love to]]: giữ lại [[to]], bỏ động từ. Còn [[I don't think it will]]: người Anh chuyển chữ [[not]] lên [[think]].
+
+#form
+th: Hỏi | Đáp (khẳng định) | Đáp (phủ định)
+tb: Is it true? | I think so. | I don't think so.
+tb: Will she come? | I hope so. | I hope not.
+tb: Did we lose? | I'm afraid so. | I'm afraid not.
+> [[So]] thay cho câu khẳng định, [[not]] thay cho câu phủ định. Với [[think]], phủ định thường là [[I don't think so]]. Với [[hope]] và [[be afraid]], phủ định là [[I hope not]], [[I'm afraid not]].
+
+#examples
+- Are you coming tonight? — {I'd love to|k}, but I can't. | Tối nay bạn có đến không? — Tôi rất muốn, nhưng không được.
+- Is the shop open? — {I don't think so|n}. | Cửa hàng có mở không? — Tôi nghĩ là không.
+- Did you pass? — {I'm afraid not|n}. | Bạn có đỗ không? — Tiếc là không.
+- You don't have to help if you don't {want to|k}. | Bạn không muốn thì không cần giúp đâu.
+> [[I'm afraid]] ở đây không có nghĩa là sợ. Nó là cách nói lịch sự để báo một tin không vui: “e là”, “tiếc là”.
+
+#natural
+rank: best | I don't think it will rain. | Tôi nghĩ trời sẽ không mưa.
+rank: ok | I think it won't rain. | Tôi nghĩ trời sẽ không mưa.
+> Tiếng Việt nói “tôi nghĩ là không mưa”. Người bản ngữ thì thích chuyển [[not]] lên động từ chính: [[I don't think it will rain]]. Cách này nghe nhẹ nhàng, tự nhiên hơn. Riêng [[hope]] thì giữ nguyên: [[I hope it won't rain]].
+
+#mistakes
+x: Will she come? — I think it. => Will she come? — I think so. | Cô ấy có đến không? — Tôi nghĩ là có. >> Thay cho cả mệnh đề là [[so]], không phải [[it]].
+x: Is it going to rain? — I hope no. => Is it going to rain? — I hope not. | Trời sắp mưa à? — Mong là không. >> Phủ định là [[not]]: [[I hope not]].
+x: Do you want to come? — Yes, I'd love. => Do you want to come? — Yes, I'd love to. | Bạn có muốn đi không? — Có, tôi rất muốn. >> Giữ lại [[to]]: [[I'd love to]].
+
+#dialogue
+nam: Is Mia really busy? | Mia bận thật à? [thinking]
+leo: I'm afraid so. She has to work on Saturday. | E là vậy. Thứ bảy cô ấy phải đi làm. [sad]
+nam: Can we move the barbecue to Sunday? | Mình dời tiệc nướng sang chủ nhật được không? [thinking]
+leo: I suppose so. I'll ask her. I'm sure she'd love to come. | Chắc là được. Để tớ hỏi cô ấy. Chắc chắn cô ấy muốn đến lắm. [happy]
+
+#recall
+? Đáp lại bằng tiếng Anh, câu hỏi: [[Will it be sunny tomorrow?]] Mong là vậy. => I hope so. | Mong là vậy.
+? Nói bằng tiếng Anh: Tôi nghĩ anh ấy sẽ không đến. => I don't think he'll come. | Tôi nghĩ anh ấy sẽ không đến.
+
+#recap
+> [[So]] và [[not]] thay cho cả mệnh đề: [[I think so]], [[I hope not]], [[I'm afraid not]]. [[To]] thay cho cả cụm động từ: [[I'd love to]]. Và với [[think]], [[believe]], hãy chuyển [[not]] lên trước: [[I don't think it will]].
+
+#practice
+fill: Is the museum open on Mondays? — I don't think ___. | so* / it / not || I don't think so.
+fill: Will it snow tomorrow? — I hope ___. I have to drive. | not* / no / don't || I hope not.
+fill: Would you like to join us? — I'd love ___! | to* / it / so || I'd love to.
+fix: Did we miss the train? — I'm afraid yes. | Did we miss the train? — I'm afraid so.* / Did we miss the train? — I'm afraid it. / Did we miss the train? — I'm afraid of. || I'm afraid so.
+choice: Câu nào tự nhiên nhất? | I don't think she's coming.* / I think she isn't coming. / I think not she's coming. || Chuyển not lên think.
+contrast: I ___ it won't rain tomorrow. We're going to the beach! | hope* / don't hope || Hope không chuyển phủ định.
+type: Is he at home? — I suppose ___. (chắc là có) | so || I suppose so.
+order: I / don't / think / it / will / rain. | Tôi nghĩ trời sẽ không mưa.
+listen: Did you pass? — I'm afraid not. | Did you pass? — I'm afraid not.* / Did you pass? — I'm afraid so. / Did you pass? — I think so. || Nghe afraid not.

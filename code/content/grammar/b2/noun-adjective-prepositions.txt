@@ -1,0 +1,75 @@
+=== noun-adjective-prepositions
+sum: Danh từ đi với giới từ cố định: a reason for, a demand for, an increase / a change in, a solution / an answer to, an effect / impact on, a difference between. Tính từ + giới từ (hay gặp trong công việc, học thuật): responsible for, aware of, capable of, similar to, familiar with, keen on, involved in. Sau giới từ là danh từ hoặc V-ing (capable of solving it). Increase in + lĩnh vực, of + con số; a 20% increase gọn hơn.
+form: danh từ + giới từ cố định | a reason for · an increase in · a solution to
+form: tính từ + giới từ | responsible for · aware of · similar to
+form: sau giới từ: danh từ / V-ing | capable of solving it
+form: a 20% increase in sales | con số lên trước cho gọn
+cast: mr-ross ben
+bg: office
+words: increase, reason, solution, effect, responsible, aware, similar, familiar
+gloss: website, software, app
+names: Linh
+
+#hook
+mr-ross: Ben, there's been a big increase in sales this month. | Ben, doanh số tháng này tăng mạnh. [happy]
+ben: Yes. The main reason for it is our new website. | Vâng. Lý do chính là trang web mới của chúng ta. [explain]
+mr-ross: Great. Who's responsible for the website? | Tuyệt. Ai phụ trách trang web vậy? [thinking]
+ben: Linh is. She's also found a solution to our delivery problem. | Linh ạ. Cô ấy còn tìm ra giải pháp cho vấn đề giao hàng của chúng ta. [happy]
+> [[An increase in sales]], [[the reason for it]], [[a solution to our problem]]: mỗi danh từ đi với một giới từ riêng. Tiếng Việt nói “giải pháp cho”, nhưng tiếng Anh thường nói [[solution to]]. Còn [[responsible for]]: phụ trách, chịu trách nhiệm về.
+
+#form
+th: Danh từ + giới từ | Ví dụ
+tb: reason for · demand for | the reason for the delay
+tb: increase in · change in | a change in the weather
+tb: solution to · answer to | the answer to your question
+tb: effect on · impact on | the effect of stress on health
+tb: difference between | the difference between A and B
+> Không có quy tắc chung, nên hãy học danh từ cùng giới từ của nó, như học một cụm từ.
+th: Tính từ + giới từ | Ví dụ
+tb: responsible for | She's responsible for the budget.
+tb: aware of · capable of | Are you aware of the risks?
+tb: similar to · familiar with | It's similar to my old phone.
+tb: keen on · involved in | He's keen on photography.
+> Nhóm tính từ này hay gặp trong công việc và học thuật. Sau giới từ, nếu là động từ thì thêm [[ing]]: [[capable of solving]].
+
+#examples
+- There's no {reason for|k} panic. | Không có lý do gì phải hoảng hốt.
+- Stress can have a bad {effect on|k} your sleep. | Căng thẳng có thể ảnh hưởng xấu tới giấc ngủ.
+- Is she {aware of|k} the problem? | Cô ấy có biết về vấn đề này không?
+- I'm not {familiar with|k} this software. | Tôi không quen dùng phần mềm này.
+- What's the {difference between|k} these two phones? | Hai chiếc điện thoại này khác nhau ở điểm nào?
+
+#natural
+rank: best | There was a 20% increase in sales. | Doanh số tăng 20%.
+rank: ok | There was an increase in sales of 20%. | Doanh số tăng thêm 20%.
+> [[In]] đi với lĩnh vực tăng: [[sales]], [[prices]]. [[Of]] đi với con số: [[of 20%]]. Nhưng đặt con số lên trước, như [[a 20% increase]], thì gọn và phổ biến hơn.
+
+#mistakes
+x: What's the reason of the delay? => What's the reason for the delay? | Lý do của sự chậm trễ là gì? >> [[Reason]] đi với [[for]].
+x: There was an increase of prices. => There was an increase in prices. | Giá cả đã tăng. >> Tăng về mặt nào: [[increase in]].
+x: She's responsible of the team. => She's responsible for the team. | Cô ấy phụ trách cả nhóm. >> [[Responsible]] đi với [[for]].
+x: This phone is similar with mine. => This phone is similar to mine. | Điện thoại này giống cái của tôi. >> [[Similar]] đi với [[to]].
+
+#dialogue
+mr-ross: Linh is capable of great things. | Linh có khả năng làm nên những việc lớn. [happy]
+ben: I agree. She's very keen on learning new skills. | Tôi đồng ý. Cô ấy rất ham học kỹ năng mới. [nod]
+mr-ross: Let's put her in charge of the new project. | Hãy giao cho cô ấy phụ trách dự án mới. [explain]
+ben: Good idea. I'm sure she'll be happy with that. | Ý hay. Tôi chắc cô ấy sẽ vui với quyết định này. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi không biết về sự thay đổi đó. => I wasn't aware of that change. | Tôi không biết về sự thay đổi đó.
+? Hỏi bằng tiếng Anh: Đâu là giải pháp cho vấn đề này? => What's the solution to this problem? | Đâu là giải pháp cho vấn đề này?
+
+#recap
+> Danh từ và tính từ cũng có giới từ đi kèm cố định: [[reason for]], [[increase in]], [[solution to]], [[effect on]], [[responsible for]], [[aware of]], [[similar to]]. Hãy học chúng theo cụm, và nhớ: sau giới từ, động từ thêm [[ing]].
+
+#practice
+fill: What's the reason ___ your decision? | for* / of / to || Reason for.
+fill: There has been a big increase ___ crime. | in* / of / on || Increase in.
+fill: Too much sugar has a bad effect ___ your teeth. | on* / to / in || Effect on.
+fill: Who is responsible ___ this mess? | for* / of / with || Responsible for.
+fix: Your bag is similar with mine. | Your bag is similar to mine.* / Your bag is similar of mine. / Your bag is similar than mine. || Similar to.
+choice: Câu nào đúng? | Are you aware of the risks?* / Are you aware about the risks? / Are you aware for the risks? || Aware of.
+type: I'm not familiar ___ this app. | with || Familiar with.
+order: What's / the / difference / between / these / two / phones? | Hai chiếc điện thoại này khác nhau ở điểm nào?
+listen: Stress can have a bad effect on your sleep. | Stress can have a bad effect on your sleep.* / Stress can have a bad effect on your skin. / Sleep can have a good effect on stress. || Nghe effect on your sleep.

@@ -1,0 +1,61 @@
+=== adjectives-basic
+sum: Tính từ đứng TRƯỚC danh từ (a big house — ngược với tiếng Việt “nhà to”) hoặc SAU be (The house is big). Tính từ không thêm -s: two big houses. Very / really / quite đứng trước tính từ để tăng giảm mức độ.
+form: a / an + tính từ + danh từ | a big house (nhà to)
+form: danh từ + be + tính từ | The house is big.
+form: very / really / quite + tính từ | rất / thật / khá
+cast: nam mom:call
+bg: home-evening
+words: small, new, quiet, room, window
+gloss: quite
+
+#hook
+x: I live in a house big. => I live in a big house. | Tôi sống trong một ngôi nhà to. >> Tiếng Việt nói “nhà to”, tính từ đứng sau. Tiếng Anh thì ngược lại: tính từ đứng TRƯỚC danh từ, [[a big house]].
+
+#form
+mv: a room small => a small room
+> Hãy nhớ hình ảnh này: tính từ nhảy lên đứng trước danh từ. [[A small room]], [[a new phone]], [[a quiet street]].
+f: [a / an] + tính từ + danh từ
+f2: danh từ + [be] + tính từ
+> Tính từ còn có chỗ thứ hai: đứng sau [[be]]. [[The room is small]], nhớ là không được bỏ [[be]].
+- It's {a|k} {new|c} {phone|o}. | Đó là một chiếc điện thoại mới.
+- {The|k} {street|o} {is|a} {quiet|c}. | Con phố yên tĩnh.
+- They are {good|c} {friends|o}. | Họ là bạn tốt.
+> Tính từ không bao giờ thêm [[s]], kể cả khi danh từ là số nhiều: [[good friends]], không nói [[goods friends]].
+
+#examples
+- My room is {very|k} small. | Phòng tôi rất nhỏ.
+- This soup is {really|k} good! | Món súp này ngon thật đấy!
+- The city is {quite|k} expensive. | Thành phố này khá đắt đỏ.
+th: Từ | Mức độ
+tb: very / really | rất, thật
+tb: quite | khá
+> Các từ chỉ mức độ đứng ngay trước tính từ: [[very small]], [[really good]], [[quite expensive]].
+
+#dialogue
+mom: Hi, Nam! How's your new room? | Chào Nam! Phòng mới của con thế nào? [happy]
+nam: It's small, but it's very nice. | Nhỏ thôi mẹ ạ, nhưng rất đẹp. [happy]
+mom: Is it quiet? | Có yên tĩnh không con? [thinking]
+nam: Yes, it's really quiet. And it has a big window. | Có ạ, yên tĩnh lắm. Lại có một cửa sổ to nữa. [explain]
+mom: Great! I'm happy for you. | Tốt quá! Mẹ mừng cho con. [happy]
+
+#mistakes
+x: She has a car red. => She has a red car. | Cô ấy có một chiếc xe màu đỏ. >> Màu sắc cũng là tính từ, đứng trước danh từ: [[a red car]].
+x: The movie very good. => The movie is very good. | Bộ phim rất hay. >> Tính từ đứng sau thì phải có [[be]]: [[The film is very good]].
+x: They are news students. => They are new students. | Họ là học sinh mới. >> Tính từ không thêm [[s]]: [[new students]].
+
+#recall
+? Nói bằng tiếng Anh: Tôi sống ở một thành phố lớn. => I live in a big city. | Tôi sống ở một thành phố lớn.
+? Nói bằng tiếng Anh: Cái túi này rất đẹp. => This bag is very nice. | Cái túi này rất đẹp.
+
+#recap
+> Ghi nhớ hai chỗ của tính từ: trước danh từ, như [[a big house]], hoặc sau [[be]], như [[the house is big]]. Tính từ không bao giờ thêm [[s]].
+
+#practice
+order: It's / a / very / old / city. | Đó là một thành phố rất cổ.
+fill: I have a ___. | new phone* / phone new / new phones || Tính từ đứng trước danh từ.
+fill: The weather ___ nice today. | is* / (không có gì) / are || Tính từ đứng sau cần be.
+fix: They are greens apples. | They are green apples.* / They are apples greens. / They green apples. || Tính từ không thêm s.
+natural: My room is very small.* / My room very small. || Sau chủ ngữ cần be trước tính từ.
+choice: Câu nào nghĩa là “nhà rất đẹp”? | The house is very beautiful.* / The house very beautiful. / The very house is beautiful. || Very đứng trước tính từ.
+listen: It's a new phone. | It's a new phone.* / It's a new phones. / It's new phone. || Nghe a trước new.
+type: a street + quiet → a ___ street | quiet || Tính từ quiet đứng trước danh từ street.

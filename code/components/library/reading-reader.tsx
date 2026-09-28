@@ -11,8 +11,10 @@ import { contentAccent, contentLevel } from "@/lib/levels";
 import { isRead, markRead } from "@/lib/db";
 import { usePassageAudio } from "./passage-audio";
 import { FocusWords, PassageText, PassageToolbar, useWordLookup } from "./passage-view";
+import { GrammarLinks } from "@/components/video/lesson-extras";
+import type { LessonRef } from "@/lib/grammar";
 
-export function ReadingReader({ id }: { id: string }) {
+export function ReadingReader({ id, grammar }: { id: string; grammar?: LessonRef[] }) {
   const [doc, setDoc] = useState<ReadingDoc | null>(null);
   const [next, setNext] = useState<ReadingMeta | null>(null);
   const [error, setError] = useState(false);
@@ -33,10 +35,10 @@ export function ReadingReader({ id }: { id: string }) {
   }, [id]);
   if (error) return <p className="text-sm text-destructive">Không tải được bài đọc. Kiểm tra kết nối rồi tải lại trang.</p>;
   if (!doc) return <p className="text-sm text-muted-foreground">Đang tải…</p>;
-  return <Reader doc={doc} next={next} />;
+  return <Reader doc={doc} next={next} grammar={grammar} />;
 }
 
-function Reader({ doc, next }: { doc: ReadingDoc; next: ReadingMeta | null }) {
+function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | null; grammar?: LessonRef[] }) {
   const [showVi, setShowVi] = useState(false);
   const [readOf, setReadOf] = useState<{ id: string; read: boolean }>({ id: doc.id, read: false });
   const read = readOf.id === doc.id && readOf.read;
@@ -142,6 +144,11 @@ function Reader({ doc, next }: { doc: ReadingDoc; next: ReadingMeta | null }) {
       </article>
 
       <FocusWords words={doc.focus} level={doc.level} onOpen={(w) => void lookup.open(w)} />
+      {grammar?.length ? (
+        <section className="mt-8">
+          <GrammarLinks items={grammar} />
+        </section>
+      ) : null}
 
       {doc.series && (
         <section className="mt-8 rounded-2xl border bg-muted/30 p-4">

@@ -1,0 +1,73 @@
+=== third-conditional
+sum: Câu điều kiện loại 3: If + had + V3, would have + V3 — giả định về QUÁ KHỨ, điều đã không xảy ra: If we had left earlier, we wouldn't have missed the flight (thực tế: đi muộn và đã lỡ chuyến). Dùng khi tiếc nuối, trách móc, tưởng tượng quá khứ khác đi. Vế if không có would. Có thể dùng could have / might have. Khi nói: If I'd known, I would've… (would have đọc lướt, người bản ngữ cũng hay viết nhầm would of). Loại 2 giả định bây giờ; loại 3 giả định quá khứ.
+form: If + had + V3, would have + V3 | If we had left earlier, we wouldn't have missed it.
+form: could have / might have + V3 | She could have won.
+form: If I'd known, I would've… | rút gọn khi nói
+form: loại 2: bây giờ · loại 3: quá khứ | If I had time… · If I had had time…
+cast: mia ben
+bg: airport
+prop: passport x=820
+words: early, miss, flight, passport, train, forget
+gloss: apologize
+
+#hook
+mia: Oh no, our flight has already gone! | Ôi không, máy bay cất cánh mất rồi! [sad]
+ben: If we had left home earlier, we wouldn't have missed it. | Nếu mình rời nhà sớm hơn thì đã không bị lỡ chuyến. [sad]
+mia: If you hadn't forgotten your passport, we would have been here on time! | Nếu anh không quên hộ chiếu thì mình đã đến kịp giờ rồi! [angry]
+ben: I know, I know. I'm sorry. | Anh biết, anh biết. Anh xin lỗi. [shy]
+> Chuyện đã xảy ra rồi: họ đi muộn, và đã lỡ chuyến. [[If we had left earlier, we wouldn't have missed it]] là tưởng tượng quá khứ khác đi. Vế [[if]] dùng [[had]] cộng phân từ, vế sau dùng [[would have]] cộng phân từ.
+
+#meaning
+tl: -2 forgot the passport | quên hộ chiếu
+tl: -1 missed the flight | lỡ chuyến bay
+tl: now | bây giờ: chỉ còn tiếc
+> Cả hai việc đều đã xảy ra, và không thể thay đổi. Câu loại 3 chỉ tưởng tượng: giá mà hồi đó khác đi.
+
+#form
+f: [If] + [had] + phân từ, + [would have] + phân từ
+> Cả hai vế đều lùi về quá khứ. Phủ định là [[hadn't]] và [[wouldn't have]].
+
+#examples
+- If I {had known|k} about the party, I {would have come|k}. | Nếu biết có bữa tiệc thì tôi đã đến rồi.
+- If it {hadn't rained|n}, we {would have gone|k} to the beach. | Nếu trời không mưa thì chúng tôi đã đi biển rồi.
+- She {could have won|k} if she {had trained|k} harder. | Nếu tập luyện chăm hơn, cô ấy đã có thể thắng.
+
+#pronunciation
+pron: would have | would've | ˈwʊdəv
+pron: could have | could've | ˈkʊdəv
+> Khi nói, [[would have]] đọc lướt thành [[would've]]. Vì nghe giống nhau, người bản ngữ cũng hay viết nhầm thành [[would of]], nhưng viết đúng luôn là [[would have]].
++ If I'd known, I would've called you. | Nếu biết thì tôi đã gọi cho bạn rồi.
+
+#contrast
+vs: If I had time, I would help you. | Nếu có thời gian, tôi sẽ giúp bạn. || loại 2: bây giờ, không có thật
+vs: If I had had time, I would have helped you. | Nếu hồi đó có thời gian, tôi đã giúp bạn rồi. || loại 3: quá khứ, đã không xảy ra
+> Loại 2 giả định về bây giờ. Loại 3 giả định về quá khứ. Để ý [[had had]]: chữ [[had]] thứ nhất là trợ động từ, chữ thứ hai là phân từ của [[have]].
+
+#mistakes
+x: If I would have known, I would have come. => If I had known, I would have come. | Nếu biết thì tôi đã đến rồi. >> Vế [[if]] không có [[would]]. Dùng [[had]] cộng phân từ.
+x: If you had told me, I would help you. => If you had told me, I would have helped you. | Nếu bạn nói với tôi thì tôi đã giúp rồi. >> Kết quả ở quá khứ: [[would have helped]].
+x: If I had study harder, I would have passed. => If I had studied harder, I would have passed. | Nếu học chăm hơn thì tôi đã đỗ rồi. >> Sau [[had]] là phân từ: [[studied]].
+
+#dialogue
+ben: Good news! There's another flight at six. | Tin tốt đây! Sáu giờ có một chuyến khác. [happy]
+mia: Thank goodness. If there hadn't been another flight, I would have cried! | Ơn trời. Nếu không có chuyến khác chắc em khóc mất! [happy]
+ben: And this time, I have my passport! | Và lần này, anh có hộ chiếu rồi nhé! [happy @passport]
+mia: You'd better not lose it again! | Anh mà làm mất lần nữa thì biết tay em! [happy point]
+
+#recall
+? Nói bằng tiếng Anh: Nếu tôi biết số của bạn thì tôi đã gọi rồi. => If I had known your number, I would have called. | Nếu tôi biết số của bạn thì tôi đã gọi rồi.
+? Nói bằng tiếng Anh: Nếu bạn đến sớm hơn thì bạn đã gặp cô ấy rồi. => If you had come earlier, you would have met her. | Nếu bạn đến sớm hơn thì bạn đã gặp cô ấy rồi.
+
+#recap
+> Loại 3 tưởng tượng quá khứ khác đi: [[If]] cộng [[had]] và phân từ, rồi [[would have]] cộng phân từ. Dùng khi tiếc nuối hay trách móc. Khi nói, [[would have]] đọc lướt thành [[would've]].
+
+#practice
+fill: If I ___ the bus, I wouldn't have been late. | hadn't missed* / didn't miss / wouldn't miss || Vế if loại 3 → hadn't + V3.
+fill: If she had asked me, I ___ her. | would have helped* / would help / will help || Kết quả ở quá khứ → would have + V3.
+fix: If we would have left earlier, we would have caught the train. | If we had left earlier, we would have caught the train.* / If we left earlier, we would have caught the train. / If we had left earlier, we would catch the train. || Vế if → had + V3.
+contrast: If I ___ time now, I'd help you. | had* / had had || Bây giờ → loại 2.
+contrast: If I ___ time yesterday, I'd have helped you. | had had* / had || Quá khứ → loại 3.
+choice: “If I'd known, I would've come.” nghĩa là: | Tôi đã không biết, nên đã không đến* / Tôi đã biết và đã đến / Nếu biết thì mai tôi sẽ đến || Loại 3 = quá khứ đã không xảy ra.
+type: If you had studied, you would have ___ (pass). | passed || Would have + V3.
+order: If / I / had / known, / I / would / have / come. | Nếu biết thì tôi đã đến rồi.
+listen: If it hadn't rained, we would have gone to the beach. | If it hadn't rained, we would have gone to the beach.* / If it doesn't rain, we'll go to the beach. / If it didn't rain, we would go to the beach. || Nghe hadn't rained · would have gone.

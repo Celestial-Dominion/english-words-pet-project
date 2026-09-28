@@ -1,0 +1,77 @@
+=== present-simple
+sum: Hiện tại đơn nói về thói quen, việc lặp lại, sự thật: I work, you work, they work. Với he / she / it, động từ thêm -s (works), -es (watches, goes), y → ies (studies); have → has. Đọc rõ đuôi -s.
+form: I / you / we / they + động từ | I work. They live in Hue.
+form: he / she / it + động từ + s / es | She works. He watches TV.
+form: have → has · do → does · go → goes | dạng đặc biệt
+cast: zoe grandma
+bg: home-day
+words: work, live, study, watch, get up
+
+#hook
+zoe: Grandma, what time do you get up? | Bà ơi, bà dậy lúc mấy giờ ạ? [thinking]
+grandma: I get up at five. Every day. | Bà dậy lúc năm giờ. Ngày nào cũng thế. [happy ~clock:5:00]
+zoe: Wow! My brother gets up at ten! | Ôi! Anh con dậy lúc mười giờ cơ! [surprised]
+> Hai câu, hai dạng động từ: [[I get up]] nhưng [[my brother gets up]]. Khi nói về một người khác, động từ có thêm đuôi [[s]].
+
+#meaning
+tl: -2 gets up | hôm kia
+tl: -1 gets up | hôm qua
+tl: 0 gets up | hôm nay
+tl: 1 gets up | ngày mai
+> Hiện tại đơn dùng cho việc lặp đi lặp lại, ngày nào cũng vậy, như một thói quen. Nó không chỉ nói về lúc này.
++ Grandma gets up at five every day. | Ngày nào bà cũng dậy lúc năm giờ.
+- Fish live in water. | Cá sống dưới nước.
+> Nó cũng dùng cho sự thật luôn đúng, như cá sống dưới nước.
+
+#form
+th: Chủ ngữ | Động từ
+tb: I / you / we / they | work
+tb: he / she / it | works
+> Chỉ có một chỗ phải nhớ: [[he]], [[she]], [[it]], hoặc một người, một vật, thì động từ thêm [[s]].
+th: Đuôi | Ví dụ
+tb: thêm s | works, likes, plays
+tb: s, sh, ch, x, o thêm es | watches, washes, goes
+tb: phụ âm + y | study → studies
+tb: đặc biệt | have → has
+> Giống số nhiều của danh từ: [[watches]] thêm [[es]], [[studies]] đổi [[y]] thành [[ies]]. Và [[have]] thành [[has]].
+
+#pronunciation
+pron: works | /s/ | wɝks
+pron: plays | /z/ | pleɪz
+pron: watches | /ɪz/ | ˈwɑtʃɪz
+> Đuôi này đọc giống đuôi số nhiều: [[works]], [[plays]], [[watches]]. Nếu nuốt mất âm cuối, câu của bạn nghe như sai ngữ pháp.
+
+#examples
+- My dad {works|k} in a bank. | Bố tôi làm ở ngân hàng.
+- She {studies|k} English at night. | Cô ấy học tiếng Anh vào buổi tối.
+- We {live|k} near the river. | Chúng tôi sống gần sông.
+- Our cat {sleeps|k} all day. | Con mèo nhà tôi ngủ cả ngày.
+- The shop {opens|k} at eight. | Cửa hàng mở cửa lúc tám giờ.
+
+#mistakes
+x: He work in a hotel. => He works in a hotel. | Anh ấy làm việc ở khách sạn. >> Chủ ngữ là [[he]], động từ phải thêm [[s]]: [[works]].
+x: She haves two cats. => She has two cats. | Cô ấy nuôi hai con mèo. >> [[Have]] là dạng đặc biệt: với [[she]] thì thành [[has]].
+x: They works at home. => They work at home. | Họ làm việc ở nhà. >> Chỉ [[he]], [[she]], [[it]] mới thêm [[s]]. [[They]] giữ nguyên [[work]].
+
+#dialogue
+grandma: What does your brother do? | Anh con làm nghề gì? [thinking]
+zoe: He works in a cafe. He makes coffee. | Anh ấy làm ở quán cà phê. Anh ấy pha cà phê. [explain]
+grandma: And he gets up at ten? | Thế mà dậy lúc mười giờ à? [surprised]
+zoe: Yes. The cafe opens at twelve! | Vâng. Quán mở cửa lúc mười hai giờ mà bà! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Mẹ tôi uống trà mỗi sáng. => My mom drinks tea every morning. | Mẹ tôi uống trà mỗi sáng.
+? Nói bằng tiếng Anh: Anh ấy xem tivi mỗi tối. => He watches TV every evening. | Anh ấy xem tivi mỗi tối.
+
+#recap
+> Hiện tại đơn cho thói quen và sự thật. Với [[he]], [[she]], [[it]], thêm [[s]] hoặc [[es]]: [[works]], [[watches]], [[studies]], [[has]]. Và đọc rõ âm cuối ấy.
+
+#practice
+fill: My sister ___ in Da Nang. | lives* / live / living || My sister = she → lives.
+fill: They ___ football on Sundays. | play* / plays / playing || They → play (không thêm s).
+type: He ___ (watch) TV every evening. | watches || Đuôi ch → thêm es.
+type: She ___ (have) a big family. | has || Have → has với she.
+fix: My father go to work by bus. | My father goes to work by bus.* / My father going to work by bus. / My father gos to work by bus. || Go → goes với he.
+choice: Câu nào nói về thói quen? | I drink coffee every morning.* / I am drinking coffee now. / I drank coffee yesterday. || Every morning → thói quen → hiện tại đơn.
+order: She / studies / English / every / day. | Cô ấy học tiếng Anh mỗi ngày.
+listen: My dad works in a bank. | My dad works in a bank.* / My dad work in a bank. / My mom works in a bank. || Nghe âm /s/ cuối works.

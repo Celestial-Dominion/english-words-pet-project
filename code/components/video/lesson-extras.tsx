@@ -3,8 +3,10 @@
 // Phần học kèm dưới transcript: Từ trong bài (bấm → thẻ từ / nghe trong hội thoại) và
 // Cách nói (trọng tâm giao tiếp: mẫu câu + câu minh hoạ lấy từ chính hội thoại, bấm để nghe).
 import { memo } from "react";
-import { Play, Volume2 } from "lucide-react";
+import Link from "next/link";
+import { Play, Puzzle, Volume2 } from "lucide-react";
 import { keyRanges, type VideoLesson, type VideoWord } from "@/lib/video";
+import { lessonHref, type LessonRef } from "@/lib/grammar";
 import { audioName } from "@/lib/slug";
 import { playAudio } from "@/lib/tts";
 import { CONTENT_LEVELS } from "@/lib/levels";
@@ -104,9 +106,9 @@ function Marked({ text, keys }: { text: string; keys: string[] }) {
   return <>{out}</>;
 }
 
-export const FocusSection = memo(function FocusSection({ lesson, onPlayLine }: { lesson: VideoLesson; onPlayLine: (i: number) => void }) {
+export const FocusSection = memo(function FocusSection({ lesson, onPlayLine, grammar }: { lesson: VideoLesson; onPlayLine: (i: number) => void; grammar?: LessonRef[] }) {
   const f = lesson.focus;
-  if (!f) return null;
+  if (!f) return grammar?.length ? <GrammarLinks items={grammar} /> : null;
   return (
     <section className="space-y-3">
       <h2 className="text-lg font-semibold">Cách nói</h2>
@@ -140,6 +142,30 @@ export const FocusSection = memo(function FocusSection({ lesson, onPlayLine }: {
         </div>
         {f.note && <p className="rounded-2xl bg-muted/50 px-3 py-2 text-sm">{f.note}</p>}
       </div>
+      {grammar?.length ? <GrammarLinks items={grammar} /> : null}
     </section>
   );
 });
+
+// Ngữ pháp gặp trong học liệu (Reading · Story · Video → Ngữ pháp): tính lúc build trang, không tải thêm gì.
+export function GrammarLinks({ items, title = "Ngữ pháp trong bài" }: { items: LessonRef[]; title?: string }) {
+  return (
+    <div className="space-y-1.5">
+      <div className="text-xs font-semibold tracking-wide text-muted-foreground uppercase">{title}</div>
+      <div className="flex flex-wrap gap-2">
+        {items.map((g) => (
+          <Link
+            key={g.id}
+            href={lessonHref(g)}
+            prefetch={false}
+            className="inline-flex max-w-full items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm transition-colors hover:bg-muted"
+          >
+            <Puzzle className="size-3.5 shrink-0 text-amber-600 dark:text-amber-400" />
+            <span className="truncate">{g.en}</span>
+            <span className="shrink-0 text-xs text-muted-foreground">{g.lv.toUpperCase()}</span>
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+}

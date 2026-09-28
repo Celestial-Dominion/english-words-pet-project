@@ -1,0 +1,70 @@
+=== frequency-adverbs
+sum: Always, usually, often, sometimes, never cho biết việc xảy ra thường xuyên đến đâu. Chúng đứng TRƯỚC động từ thường (I always walk) nhưng SAU be (She is always late). Hỏi: How often…? Trả lời: every day, once a week, twice a month.
+form: always · usually · often · sometimes · never | 100% → 0%
+form: chủ ngữ + trạng từ + động từ thường | I often cook.
+form: chủ ngữ + be + trạng từ | He is never late.
+form: How often…? | once / twice / three times a week
+cast: ana grandpa
+bg: park
+words: always, usually, often, sometimes, never, walk
+gloss: sometimes, twice, once
+
+#hook
+ana: How often do you walk in the park? | Ông có hay đi bộ trong công viên không ạ? [happy]
+grandpa: I walk here every morning. | Sáng nào ông cũng đi bộ ở đây. [happy]
+ana: Every morning? In the rain too? | Sáng nào cũng đi ạ? Cả khi trời mưa ạ? [surprised]
+grandpa: Well, I usually walk. Sometimes I stay home. | Ừ thì, thường là đi. Thỉnh thoảng ông ở nhà. [shrug]
+> Chữ [[usually]], [[sometimes]] cho biết việc xảy ra thường xuyên đến đâu. Chúng đứng ngay trước động từ: [[I usually walk]].
+
+#meaning
+th: Trạng từ | Mức độ | Nghĩa
+tb: always | 100% | luôn luôn
+tb: usually | 80% | thường thường
+tb: often | 60% | hay, thường
+tb: sometimes | 30% | thỉnh thoảng
+tb: never | 0% | không bao giờ
+> Xếp từ nhiều đến ít: [[always]], [[usually]], [[often]], [[sometimes]], [[never]]. [[Never]] đã mang nghĩa phủ định, nên không cần [[don't]].
+
+#form
+f: Chủ ngữ + trạng từ + động từ thường
+f2: Chủ ngữ + [be] + trạng từ
+> Chỗ đứng có hai quy tắc. Với động từ thường, trạng từ đứng TRƯỚC: [[I often cook]]. Với [[be]], nó đứng SAU: [[He is never late]].
+- She {always|k} drinks tea after lunch. | Cô ấy luôn uống trà sau bữa trưa.
+- We {sometimes|k} eat out on Fridays. | Thỉnh thoảng thứ sáu chúng tôi ăn ngoài.
+- My teacher {is|a} {often|k} busy. | Thầy giáo tôi hay bận.
+- I {never|k} drink coffee at night. | Tôi không bao giờ uống cà phê buổi tối.
+
+#examples
+- {How often|q} do you cook? | Bạn có hay nấu ăn không?
+- I cook {twice a week|t}. | Tôi nấu ăn hai lần một tuần.
+- He goes swimming {every day|t}. | Ngày nào anh ấy cũng đi bơi.
+> Hỏi mức độ thường xuyên thì dùng [[How often]]. Trả lời bằng [[once a week]], [[twice a week]], [[every day]]. Những cụm này thường đứng cuối câu.
+
+#mistakes
+x: I go always to school by bike. => I always go to school by bike. | Tôi luôn đi học bằng xe đạp. >> Trạng từ tần suất đứng TRƯỚC động từ thường: [[always go]].
+x: She never is late. => She is never late. | Cô ấy không bao giờ đến muộn. >> Với [[be]], trạng từ đứng SAU: [[is never]].
+x: I don't never eat meat. => I never eat meat. | Tôi không bao giờ ăn thịt. >> [[Never]] đã là phủ định. Thêm [[don't]] nữa là thừa.
+
+#dialogue
+grandpa: And you? How often do you exercise? | Thế còn cháu? Cháu có hay tập thể dục không? [thinking]
+ana: I usually run on Saturdays. | Cháu thường chạy bộ vào thứ bảy ạ. [happy]
+grandpa: Only once a week? | Chỉ một lần một tuần thôi à? [surprised]
+ana: Yes. I'm always busy at work. | Vâng. Cháu lúc nào cũng bận việc. [shy]
+grandpa: Then walk with me! I'm never busy! | Thế thì đi bộ với ông! Ông chẳng bao giờ bận cả! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi thường ăn sáng lúc bảy giờ. => I usually have breakfast at seven. | Tôi thường ăn sáng lúc bảy giờ.
+? Nói bằng tiếng Anh: Anh ấy luôn luôn vui vẻ. => He is always happy. | Anh ấy luôn luôn vui vẻ.
+
+#recap
+> Năm mức: [[always]], [[usually]], [[often]], [[sometimes]], [[never]]. Đứng trước động từ thường, đứng sau [[be]]. Hỏi thì dùng [[How often]].
+
+#practice
+order: I / always / walk / to / work. | Tôi luôn đi bộ đi làm.
+order: She / is / often / tired. | Cô ấy hay mệt.
+fill: I ___ eat fast food. It's bad for me. | never* / always / usually || Không ăn vì có hại → never.
+fix: He drinks sometimes milk. | He sometimes drinks milk.* / He drinks milk sometimes not. / Sometimes he drink milk. || Trạng từ trước động từ thường.
+natural: They are always late.* / They always are late. || Với be: be + always.
+choice: Trả lời đúng cho “How often do you swim?” | Twice a week.* / Yes, I do. / In the pool. || How often → hỏi mức độ thường xuyên.
+listen: We sometimes eat out on Fridays. | We sometimes eat out on Fridays.* / We never eat out on Fridays. / We sometimes eat out on Sundays. || Nghe sometimes và Fridays.
+type: I ___ (không bao giờ) drink milk. | never || Never đứng trước động từ.

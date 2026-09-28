@@ -1,0 +1,69 @@
+=== prepositions-time
+sum: At cho giờ và thời điểm (at 7:00, at noon, at night), on cho ngày (on Monday, on May 5th, on my birthday), in cho khoảng dài (in July, in 2020, in the morning, in summer). Không dùng giới từ trước next, last, every, this, tomorrow.
+form: at + giờ / thời điểm | at 7:00, at noon, at night
+form: on + ngày | on Monday, on May 5th, on my birthday
+form: in + tháng / năm / mùa / buổi | in July, in 2020, in the morning
+form: không giới từ: next / last / every / this / tomorrow | every day, next week
+cast: mom zoe
+bg: home-evening
+prop: cake x=820
+words: birthday, party, morning, night, summer
+gloss: next
+
+#hook
+zoe: Mom, when is my party? | Mẹ ơi, bữa tiệc của con là khi nào ạ? [happy]
+mom: It's on Saturday, at six o'clock. | Vào thứ bảy, lúc sáu giờ. [happy ~calendar:SAT]
+zoe: In the evening? | Buổi tối ạ? [thinking]
+mom: Yes, in the evening. | Ừ, buổi tối. [nod @cake]
+> Ba câu, ba giới từ khác nhau: [[on Saturday]], [[at six o'clock]], [[in the evening]]. Tiếng Việt thường chỉ dùng “vào” hoặc “lúc”, tiếng Anh thì phải chọn đúng từ.
+
+#form
+th: Giới từ | Dùng cho | Ví dụ
+tb: at | giờ, thời điểm | at 7:00, at night
+tb: on | ngày, thứ, ngày tháng | on Monday, on May 5th
+tb: in | tháng, năm, mùa, buổi | in July, in 2020, in the morning
+> Mẹo nhớ: [[at]] là một điểm nhỏ, như giờ. [[On]] là một ngày. [[In]] là khoảng dài hơn: tháng, năm, mùa, hay một buổi trong ngày.
+- The class starts {at|k} nine. | Lớp học bắt đầu lúc chín giờ.
+- I was born {in|k} 2005. | Tôi sinh năm 2005.
+- We go to the beach {in|k} summer. | Chúng tôi đi biển vào mùa hè.
+- The shop is closed {on|k} Sundays. | Cửa hàng đóng cửa vào chủ nhật.
+
+#contrast
+vs: I study in the morning. | Tôi học vào buổi sáng. || buổi trong ngày → in
+vs: I sleep at night. | Tôi ngủ vào ban đêm. || riêng ban đêm → at
+vs: I have a test on Monday morning. | Tôi có bài kiểm tra vào sáng thứ hai. || có ngày cụ thể → on
+> Ba trường hợp dễ nhầm: [[in the morning]], nhưng [[at night]]. Và khi buổi sáng gắn với một ngày cụ thể thì dùng [[on]]: [[on Monday morning]].
+
+#examples
+- I'll see you {next week|t}. | Tuần sau gặp lại nhé.
+- She goes swimming {every Sunday|t}. | Chủ nhật nào cô ấy cũng đi bơi.
+- The meeting is {tomorrow|t}. | Cuộc họp là vào ngày mai.
+> Trước [[next]], [[last]], [[every]], [[this]] và [[tomorrow]] thì không dùng giới từ. Không nói [[on next week]].
+
+#mistakes
+x: I get up on 6 o'clock. => I get up at 6 o'clock. | Tôi dậy lúc sáu giờ. >> Giờ thì dùng [[at]].
+x: My birthday is in May 5th. => My birthday is on May 5th. | Sinh nhật tôi là ngày 5 tháng 5. >> Một ngày cụ thể thì dùng [[on]]. Chỉ có tháng thôi thì mới dùng [[in May]].
+x: See you on next Friday. => See you next Friday. | Hẹn gặp bạn thứ sáu tuần sau. >> Trước [[next]] không dùng giới từ.
+
+#dialogue
+zoe: Can my friends come on Saturday? | Thứ bảy các bạn con đến được không ạ? [thinking]
+mom: Of course. The party starts at six. | Tất nhiên rồi. Bữa tiệc bắt đầu lúc sáu giờ. [happy]
+zoe: What about Grandma? | Còn bà thì sao ạ? [thinking]
+mom: She's coming in the afternoon. She makes the cake! | Bà đến vào buổi chiều. Bà làm bánh mà! [happy @cake]
+
+#recall
+? Nói bằng tiếng Anh: Tôi thường ăn sáng lúc bảy giờ. => I usually eat breakfast at seven. | Tôi thường ăn sáng lúc bảy giờ.
+? Nói bằng tiếng Anh: Anh ấy sinh vào tháng Mười. => He was born in October. | Anh ấy sinh vào tháng Mười.
+
+#recap
+> [[At]] cho giờ, [[on]] cho ngày, [[in]] cho khoảng dài: tháng, năm, mùa, buổi. Và bỏ giới từ trước [[next]], [[last]], [[every]].
+
+#practice
+fill: The movie starts ___ 8 p.m. | at* / on / in || Giờ → at.
+fill: We have English ___ Tuesdays. | on* / in / at || Thứ → on.
+fill: It's very hot here ___ July. | in* / on / at || Tháng → in.
+fill: I study ___ night. | at* / in / on || At night (trường hợp riêng).
+fix: See you on next week! | See you next week!* / See you in next week! / See you at next week! || Trước next không dùng giới từ.
+choice: Chọn cụm đúng: | on my birthday* / in my birthday / at my birthday || Ngày sinh nhật (một ngày) → on.
+order: The / shop / opens / at / nine. | Cửa hàng mở cửa lúc chín giờ.
+listen: We go to the beach in summer. | We go to the beach in summer.* / We go to the beach on Sunday. / We went to the beach in summer. || Nghe in summer.

@@ -1,0 +1,75 @@
+=== present-continuous-future
+sum: Hiện tại tiếp diễn còn dùng cho lịch hẹn đã sắp xếp trong tương lai — thường đã hẹn với ai, có ngày giờ, nơi chốn: I'm meeting Anna at six tomorrow. Luôn kèm cụm chỉ tương lai (tonight, tomorrow, on Saturday). Hỏi kế hoạch: What are you doing tonight? (không hỏi What do you do tonight?). Lịch cố định của tàu xe, phim, giờ học: hiện tại đơn (The train leaves at seven). Thời tiết không phải lịch hẹn: It's going to rain tomorrow.
+form: am / is / are + V-ing + thời gian tương lai | I'm meeting Anna tomorrow.
+form: What are you doing tonight? | hỏi kế hoạch
+form: lịch tàu xe, giờ học → hiện tại đơn | The train leaves at seven.
+cast: sam zoe
+bg: campus-gate
+words: meet, tonight, tomorrow, weekend, leave, basketball
+gloss: dentist
+
+#hook
+sam: Zoe, what are you doing on Saturday? | Zoe, thứ bảy cậu làm gì? [happy]
+zoe: I'm having lunch with my grandparents. Why? | Tớ đi ăn trưa với ông bà. Sao thế? [thinking]
+sam: We're playing basketball at four. Do you want to come? | Bọn tớ chơi bóng rổ lúc bốn giờ. Cậu đi không? [happy]
+zoe: Sure! I'm not doing anything in the afternoon. | Được chứ! Buổi chiều tớ rảnh mà. [happy cheer]
+> Chẳng ai đang ăn trưa hay đang chơi bóng cả. [[I'm having lunch]], [[We're playing basketball]] ở đây nói về thứ bảy, tức là những lịch hẹn đã sắp xếp. Chính các cụm [[on Saturday]], [[at four]] cho biết đó là tương lai.
+
+#meaning
+tl: now | bây giờ
+tl: 2 having lunch | thứ bảy, buổi trưa
+tl: 2.6 playing basketball | 4 giờ chiều
+> Cả hai việc đều ở tương lai, đã hẹn với người khác, có ngày giờ rõ ràng. Đây chính là lúc người bản ngữ dùng tiếp diễn, thay vì [[will]].
+
+#form
+f: Chủ ngữ + [am / is / are] + V-ing + thời gian tương lai
+> Cấu trúc giống hệt thì tiếp diễn. Khác biệt duy nhất là cụm chỉ tương lai đi kèm, như [[tonight]], [[tomorrow]], [[next week]].
+
+#examples
+- {I'm meeting|k} Anna {at six tomorrow|t}. | Sáu giờ mai tôi gặp Anna.
+- {We're flying|k} to Da Nang {on Friday|t}. | Thứ sáu chúng tôi bay vào Đà Nẵng.
+- {Is he coming|k} to the party {tonight|t}? | Tối nay anh ấy có đến dự tiệc không?
+
+#contrast
+vs: What are you doing tonight? | Tối nay bạn làm gì? || hỏi kế hoạch → tiếp diễn
+vs: What do you do for work? | Bạn làm nghề gì? || hỏi nghề nghiệp
+> Hỏi bạn bè về kế hoạch tối nay, hãy hỏi [[What are you doing tonight?]]. Đừng hỏi [[What do you do tonight?]]: câu này nghe rất lạ, vì [[What do you do]] là câu hỏi nghề nghiệp.
+vs: I'm meeting my teacher at nine. | Chín giờ tôi gặp cô giáo. || lịch hẹn cá nhân → tiếp diễn
+vs: The museum opens at nine. | Bảo tàng mở cửa lúc chín giờ. || lịch cố định → hiện tại đơn
+> Còn lịch cố định, như giờ tàu chạy, giờ phim chiếu, giờ mở cửa, thì dùng hiện tại đơn: [[The train leaves at seven]].
+
+#natural
+rank: best | I'm seeing the dentist tomorrow. | Mai tôi đi khám răng.
+rank: ok | I'm going to see the dentist tomorrow. | Mai tôi sẽ đi khám răng.
+rank: odd | I see the dentist tomorrow.
+> Một cuộc hẹn đã đặt lịch thì tiếp diễn là tự nhiên nhất. [[Going to]] vẫn được. Còn hiện tại đơn [[I see the dentist tomorrow]] nghe rất lạ tai.
+
+#mistakes
+x: What do you do this weekend? => What are you doing this weekend? | Cuối tuần này bạn làm gì? >> Hỏi kế hoạch đã sắp xếp thì dùng tiếp diễn.
+x: I meeting Tom tomorrow. => I'm meeting Tom tomorrow. | Mai tôi gặp Tom. >> Đừng bỏ [[am]]: [[I'm meeting]].
+x: It's raining tomorrow. => It's going to rain tomorrow. | Mai trời sẽ mưa. >> Thời tiết đâu phải lịch hẹn ai sắp xếp được. Dự đoán thì dùng [[going to]] hoặc [[will]].
+
+#dialogue
+zoe: Where are you playing? | Các cậu chơi ở đâu? [thinking]
+sam: At the park near school. Tom is bringing the ball. | Ở công viên gần trường. Tom mang bóng. [explain]
+zoe: Great. My bus leaves at three, so I'll be there before four. | Tuyệt. Xe buýt của tớ chạy lúc ba giờ, nên tớ sẽ tới trước bốn giờ. [happy]
+sam: See you on Saturday! | Hẹn gặp cậu thứ bảy nhé! [happy wave]
+> Chỉ ba câu mà có đủ: [[Tom is bringing the ball]] là việc đã hẹn, [[My bus leaves at three]] là lịch xe cố định, còn [[I'll be there]] là một lời hứa.
+
+#recall
+? Nói bằng tiếng Anh: Tối nay tôi đi ăn tối với bố mẹ. => I'm having dinner with my parents tonight. | Tối nay tôi đi ăn tối với bố mẹ.
+? Hỏi bằng tiếng Anh: Cuối tuần này bạn làm gì? => What are you doing this weekend? | Cuối tuần này bạn làm gì?
+
+#recap
+> Lịch hẹn đã sắp xếp: tiếp diễn, kèm thời gian tương lai. Lịch cố định của tàu xe, giờ học: hiện tại đơn. Và hỏi kế hoạch, luôn hỏi [[What are you doing?]]
+
+#practice
+fill: What ___ you doing tomorrow night? | are* / do / will || Hỏi kế hoạch → are you doing.
+fill: I'm ___ my cousin on Sunday. | meeting* / meet / meets || Lịch hẹn → am + meeting.
+contrast: The train ___ at 7:15 every morning. | leaves* / is leaving || Lịch chạy cố định → hiện tại đơn.
+contrast: ___ Anna for lunch tomorrow. | I'm meeting* / I meet || Hẹn với ai đó → tiếp diễn.
+fix: What do you do this evening? | What are you doing this evening?* / What you are doing this evening? / What are you do this evening? || Hỏi kế hoạch → tiếp diễn.
+choice: Câu nào nói về một lịch hẹn tương lai? | We're flying to Da Nang on Friday.* / We're flying over Da Nang now. / We fly to Da Nang every Friday. || On Friday + tiếp diễn → lịch hẹn.
+order: I'm / meeting / Anna / at / six / tomorrow. | Sáu giờ mai tôi gặp Anna.
+listen: Is he coming to the party tonight? | Is he coming to the party tonight?* / Is he coming to the party now? / Was he at the party last night? || Nghe tonight.
+natural: It's going to rain tomorrow.* / It's raining tomorrow. || Thời tiết không phải lịch hẹn.

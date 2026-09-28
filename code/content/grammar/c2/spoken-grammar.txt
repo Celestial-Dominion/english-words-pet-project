@@ -1,0 +1,74 @@
+=== spoken-grammar
+sum: Ngữ pháp khẩu ngữ — những điều tự nhiên khi nói nhưng không dùng khi viết trang trọng. Head: nêu chủ đề trước rồi mới nói (That new café — have you been there? · My brother, he lives in Canada — giống cách nói của người Việt, nhưng khi viết thì bỏ đại từ lặp). Tail: nói rõ ở cuối (He's really friendly, the owner · They're lovely, those shoes). Lược chủ ngữ, trợ động từ theo tình huống: Sounds good · Want some tea? · Told you! · Went last week. Nói ước chừng: sort of / kind of (hơi), or something (hay gì đó), and stuff (các kiểu), ten or so (khoảng mười). Trong email công việc, báo cáo, bài luận: dùng câu đầy đủ, nói cụ thể.
+form: head: nêu chủ đề trước | That new café by the river — have you been there?
+form: tail: nói rõ ở cuối | He's really friendly, the owner.
+form: lược chủ ngữ, trợ động từ | Sounds good. · Want some tea?
+form: nói ước chừng: sort of · or something · and stuff · or so | Ten or so?
+cast: ben jay
+bg: park
+words: owner, view, stuff, invite, grab, marketing
+names: Canada, Mia
+
+#hook
+ben: That new café by the river — have you been there yet? | Cái quán cà phê mới bên sông ấy, anh đến chưa? [thinking]
+jay: Yeah, went last week. Nice coffee, sort of expensive though. | Rồi, tuần trước. Cà phê ngon, mà hơi đắt. [explain]
+ben: Want to go on Saturday? Ten or so? | Thứ Bảy đi không? Tầm mười giờ? [happy]
+jay: Sounds good. They do great cakes and stuff. He's really friendly, the owner. | Được đấy. Quán có bánh ngon các kiểu. Thân thiện lắm, ông chủ ấy. [happy]
+> Ngữ pháp khi nói khác khi viết. [[That new café by the river]]: nêu chủ đề trước, rồi mới hỏi. [[Went last week]], [[Want to go]], [[Sounds good]]: lược chủ ngữ. [[Sort of]], [[and stuff]], [[or so]]: nói ước chừng. [[He's really friendly, the owner]]: nói rõ người ở cuối câu.
+
+#form
+th: Hiện tượng | Ví dụ
+tb: head: nêu chủ đề trước | That bag — is it yours?
+tb: tail: nói rõ ở cuối | He's clever, Tom.
+tb: lược chủ ngữ, trợ động từ | Sounds good. · Want some tea?
+tb: nói ước chừng | sort of · or something · and stuff
+tb: số, giờ ước chừng | ten or so · around seven
+> Người nói nghĩ và nói cùng lúc, nên câu nói được xây từng khúc: nêu chủ đề, nói ý chính, rồi thêm cho rõ. Người nghe không thấy lạ, vì ngữ cảnh đã giúp họ hiểu.
+f: chủ đề (head) + câu có đại từ + phần nói rõ (tail)
+> Phần chủ đề đứng trước giúp người nghe định hướng. Phần nói rõ đứng sau giúp câu rõ nghĩa hơn, khi người nói nhận ra đại từ có thể chưa đủ.
+
+#examples
+- {Told you|k}! The shop's closed on Mondays. | Đã bảo mà! Cửa hàng đóng cửa vào thứ Hai.
+- It's {kind of|k} cold in here. | Trong này hơi lạnh.
+- She's a teacher {or something|k}. | Cô ấy là giáo viên hay gì đó.
+- They're lovely, {those shoes|k}. | Đẹp thật đấy, đôi giày đó.
+
+#contrast
+vs: My brother, he lives in Canada. | Anh trai tôi ấy, anh ấy sống ở Canada. || văn nói: tự nhiên
+vs: My brother lives in Canada. | Anh trai tôi sống ở Canada. || văn viết: chuẩn
+> Nêu chủ đề rồi lặp đại từ rất tự nhiên khi nói, giống hệt cách nói của người Việt. Nhưng khi viết thì bỏ đại từ lặp: [[My brother lives in Canada]].
+
+#natural
+rank: best | Want some tea? | Uống trà không?
+rank: ok | Would you like some tea? | Bạn có muốn uống trà không?
+> Với bạn thân, câu lược [[Want some tea?]] tự nhiên và ấm áp. Câu đầy đủ lịch sự hơn, hợp với khách, với người mới quen. Trong email công việc thì luôn dùng câu đầy đủ.
+
+#mistakes
+x: My teacher, she says reading is important. => My teacher says reading is important. | Thầy tôi nói đọc sách rất quan trọng. >> Trong bài viết, bỏ đại từ lặp. Khi nói chuyện, câu gốc vẫn hoàn toàn tự nhiên.
+x: In the report, sales went up and stuff. => In the report, sales rose significantly. | Theo báo cáo, doanh số tăng đáng kể. >> Văn viết trang trọng không dùng [[and stuff]]: hãy nói rõ, cụ thể.
+x: Sounds good, see you Monday or something. => That sounds good. See you on Monday. | Nghe ổn đấy. Hẹn gặp anh thứ Hai. >> Viết cho khách hàng thì dùng câu đầy đủ, không nói ước chừng như [[or something]].
+
+#dialogue
+jay: Oh, and the view — you'll love it. | À, còn khung cảnh nữa, anh sẽ mê cho xem. [happy]
+ben: Can't wait! Should we invite Mia? | Nóng lòng quá! Có nên rủ Mia không? [happy]
+jay: Good idea. She loves cafés, Mia. | Ý hay. Mê quán cà phê lắm, Mia ấy. [happy]
+ben: Great. Ten or so, then. See you there! | Tuyệt. Vậy tầm mười giờ nhé. Gặp ở đó! [happy]
+
+#recall
+? Nói tự nhiên bằng tiếng Anh, lược chủ ngữ: Nghe hay đấy! => Sounds great! | Nghe hay đấy!
+? Nói bằng tiếng Anh, nói ước chừng: Mình gặp nhau tầm tám giờ nhé. => Let's meet at eight or so. | Mình gặp nhau tầm tám giờ nhé.
+
+#recap
+> Khi nói: nêu chủ đề trước, nói rõ ở cuối, lược chủ ngữ như [[Sounds good]], và nói ước chừng với [[sort of]], [[or something]], [[or so]]. Tất cả đều tự nhiên trong trò chuyện. Nhưng khi viết trang trọng, dùng câu đầy đủ và nói cụ thể.
+
+#practice
+fill: Let's order pizza. — ___ good! | Sounds* / It sound / Sound it || Lược chủ ngữ: Sounds good.
+fill: It's ___ of expensive, but it's worth it. | kind* / type / way || kind of = hơi.
+fill: She works in marketing or ___. | something* / anything / nothing || or something = hay gì đó.
+fix: In our report, sales went up and stuff. | In our report, sales rose significantly.* / In our report, sales went up and things. / In our report, sales kind of rose. || Văn viết: nói rõ, không ước chừng.
+transform: Viết lại theo kiểu văn nói, nói rõ ở cuối: | That restaurant was lovely. >> It was lovely, that restaurant.* / It was lovely, that restaurant was. / That restaurant, lovely it was. || Đại từ trước, nói rõ ở cuối.
+choice: Câu nào hợp với tin nhắn cho bạn thân? | Want to grab lunch?* / Would you care to join me for luncheon? / I hereby invite you to lunch. || Văn nói thân mật: lược, ngắn.
+choice: “That bag — is it yours?” Cấu trúc này là: | Nêu chủ đề trước rồi hỏi* / Câu bị động / Câu điều kiện || Head: nêu chủ đề trước.
+type: I'll be there at seven or ___. (khoảng) | so || seven or so = khoảng bảy giờ.
+order: He's / really / clever, / my / brother. | Thông minh lắm, anh trai tôi ấy.
+listen: Yeah, went last week. Nice coffee, sort of expensive though. | Yeah, went last week. Nice coffee, sort of expensive though.* / Yeah, went last month. Nice coffee, sort of expensive though. / Yes, I went last week. The coffee was nice and cheap. || Nghe went last week … sort of expensive.

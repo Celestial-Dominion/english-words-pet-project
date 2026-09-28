@@ -1,0 +1,81 @@
+=== implied-conditionals
+sum: Điều kiện ẩn: không có if nhưng vẫn là câu điều kiện, mệnh đề chính chia như thường lệ (would / could cho điều không thật). But for + danh từ = nếu không có (trang trọng; But for your help, we would have failed). Without + danh từ / V-ing = nếu không có. Otherwise / or else = nếu không thì (Hurry, otherwise we'll miss the train) — còn otherwise = ngoài điểm đó ra (small, but otherwise perfect). Supposing / Suppose / What if… = giả sử, lỡ như. Assuming (that)… = cứ cho là. Would đứng một mình cũng ngầm chứa điều kiện (I wouldn't do that = nếu là bạn). If so / If not thay cho cả mệnh đề if.
+form: But for / Without + danh từ, … would… | But for your help, we would have failed.
+form: …, otherwise / or else + kết quả | Hurry up, otherwise we'll miss the train.
+form: Supposing / Suppose / What if + mệnh đề | Supposing you lost your job, what would you do?
+form: would ngầm điều kiện · If so / If not | I wouldn't do that.
+cast: mia jay
+bg: mountain-night
+words: torch, farmer, otherwise, suppose, electricity, survive
+
+#hook
+mia: We made it! But for your torch, we'd have got completely lost. | Về được rồi! Không có cái đèn pin của anh thì mình lạc hẳn rồi. [happy]
+jay: And without that farmer's help, we'd still be walking. | Mà không có ông nông dân giúp thì giờ mình vẫn còn đang lội bộ. [tired]
+mia: Supposing we hadn't met him, what would we have done? | Giả sử mình không gặp ông ấy thì mình làm sao? [thinking]
+jay: No idea. Next time, let's check the weather first. Otherwise, we'll end up like this again. | Chịu. Lần sau mình xem thời tiết trước đã. Không thì lại ra nông nỗi này. [explain]
+> Không có [[if]] nào, nhưng câu nào cũng chứa một điều kiện. [[But for your torch]]: nếu không có đèn pin. [[Without that farmer's help]]: nếu không có ông nông dân. [[Supposing we hadn't met him]]: giả sử không gặp. [[Otherwise]]: nếu không làm vậy.
+
+#form
+f: [But for / Without] + danh từ, + mệnh đề chính + [would / could]
+> Phần điều kiện rút gọn thành một cụm danh từ. Mệnh đề chính vẫn chia như câu điều kiện: điều không thật thì dùng [[would]], [[could]].
+mv: If it hadn't been for your help , we would have failed . => But for your help , we would have failed .
+> Cả mệnh đề [[If it hadn't been for]] thu lại thành hai chữ [[But for]].
+th: Cách nói | Nghĩa | Ví dụ
+tb: But for + danh từ | nếu không có (trang trọng) | But for you, I'd have failed.
+tb: Without + danh từ | nếu không có | Without a map, we'd be lost.
+tb: Otherwise · or else | nếu không thì | Hurry, or else we'll be late.
+tb: Supposing · What if | giả sử, lỡ như | What if it rains?
+tb: Assuming (that) | cứ cho là | Assuming he agrees, we'll start.
+> [[Otherwise]] đứng sau lời khuyên, lời cảnh báo, và nói hậu quả nếu không làm theo. [[Supposing]], [[What if]] mở ra một tình huống giả định để cùng suy nghĩ.
+
+#examples
+- {Without|k} electricity, life {would be|v} very different. | Không có điện, cuộc sống sẽ khác hẳn.
+- I was ill. {Otherwise|k}, I {would have come|v} to your party. | Hôm đó tôi ốm. Không thì tôi đã đến dự tiệc của bạn rồi.
+- {Supposing|k} you lost your job, what {would|v} you do? | Giả sử bạn mất việc, bạn sẽ làm gì?
+- {Assuming|k} the train is on time, we'll arrive at noon. | Cứ cho là tàu đúng giờ, trưa là chúng ta tới nơi.
+
+#contrast
+vs: Leave now, otherwise you'll miss the bus. | Đi ngay đi, không thì lỡ xe buýt đấy. || otherwise = nếu không thì
+vs: The room was small, but otherwise perfect. | Phòng hơi nhỏ, nhưng ngoài ra thì hoàn hảo. || otherwise = ngoài điểm đó ra
+> [[Otherwise]] có hai nghĩa. Sau một lời khuyên: nếu không thì. Sau một nhận xét có [[but]]: ngoài điểm đó ra, mọi thứ khác đều ổn.
+
+#real
+- I {wouldn't|v} do that. | Tôi mà là bạn thì tôi không làm thế đâu.
+- A real friend {would|v} never say that. | Bạn thật sự thì không bao giờ nói thế.
+- Are you coming? {If so|k}, bring a jacket. | Bạn có đi không? Nếu có thì mang theo áo khoác.
+> [[Would]] đứng một mình cũng ngầm chứa điều kiện: [[I wouldn't do that]] nghĩa là “nếu là bạn”. Còn [[If so]], [[If not]] thay cho cả một mệnh đề [[if]].
+
+#natural
+rank: best | If it wasn't for you, I'd never have finished. | Nếu không có bạn, tôi chẳng bao giờ làm xong.
+rank: ok | But for you, I would never have finished. | Nếu không có bạn, tôi đã chẳng bao giờ hoàn thành.
+> [[But for]] khá trang trọng, hay gặp trong văn viết. Khi nói, người ta chuộng [[If it wasn't for]], hoặc đơn giản là [[Without]].
+
+#mistakes
+x: But for your help, we will fail. => But for your help, we would fail. | Nếu không có anh giúp, chúng tôi đã thất bại. >> [[But for]] nói về điều không có thật, nên mệnh đề chính dùng [[would]].
+x: Without to study, you won't pass. => Without studying, you won't pass. | Không học thì bạn sẽ không đỗ. >> Sau giới từ [[without]] là danh từ hoặc [[V-ing]].
+x: Hurry up, otherwise we miss the train. => Hurry up, otherwise we'll miss the train. | Nhanh lên, không thì lỡ tàu. >> Sau [[otherwise]] là hậu quả sắp tới: [[we'll miss]].
+
+#dialogue
+jay: Supposing it had snowed, we'd be in real trouble now. | Giả sử trời đổ tuyết thì giờ mình gặp rắc rối to rồi. [worried]
+mia: Let's not think about it. Without a hot drink, I won't survive the night! | Thôi đừng nghĩ nữa. Không có đồ uống nóng thì tối nay em chết cóng mất! [happy]
+jay: Assuming the café is still open, I'll buy you a hot chocolate. | Cứ cho là quán còn mở, anh mua cho em cốc sô-cô-la nóng. [happy]
+mia: Deal! Or else I'm going straight to bed. | Chốt! Không thì em đi ngủ luôn đây. [happy]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[Without]]: Không có điện thoại, tôi sẽ bị lạc. => Without my phone, I would get lost. | Không có điện thoại, tôi sẽ bị lạc.
+? Nói bằng tiếng Anh, dùng [[otherwise]]: Mang áo khoác đi, không thì bạn bị cảm đấy. => Take a coat, otherwise you'll catch a cold. | Mang áo khoác đi, không thì bạn bị cảm đấy.
+
+#recap
+> Điều kiện không cần [[if]]: [[But for]] và [[Without]] cộng danh từ, [[otherwise]] cho hậu quả nếu không làm, [[Supposing]], [[What if]] để giả định, [[Assuming]] để “cứ cho là”. Và [[would]] đứng một mình cũng ngầm chứa một điều kiện.
+
+#practice
+fill: ___ your advice, I would have made a big mistake. | But for* / Unless / Otherwise || But for + danh từ = nếu không có.
+fill: Save your work, ___ you might lose it. | otherwise* / without / supposing || otherwise = nếu không thì.
+fill: ___ you won a million dollars, what would you buy? | Supposing* / Otherwise / Without || Supposing = giả sử.
+fix: Without to ask, he took my car. | Without asking, he took my car.* / Without ask, he took my car. / Without he asked, he took my car. || without + V-ing.
+transform: Viết lại với But for: | If it hadn't been for the rain, we would have won. >> But for the rain, we would have won.* / But for the rain, we will win. / But the rain, we would have won. || But for + danh từ.
+choice: “The hotel was noisy, but otherwise excellent.” nghĩa là: | Ngoài chuyện ồn ra thì khách sạn rất tốt* / Nếu không ồn thì khách sạn sẽ tốt / Khách sạn vừa ồn vừa tệ || otherwise = ngoài điểm đó ra.
+choice: “I wouldn't do that.” ngầm hiểu là: | Nếu là bạn thì tôi không làm thế* / Tôi chưa từng làm thế / Tôi không được phép làm thế || would ngầm chứa điều kiện.
+type: ___ it rains tomorrow? We need a plan B. (lỡ như… thì sao) | What if || What if…? = lỡ như… thì sao?
+order: Without / electricity, / life / would / be / very / different. | Không có điện, cuộc sống sẽ khác hẳn.
+listen: Supposing we hadn't met him, what would we have done? | Supposing we hadn't met him, what would we have done?* / Supposing we hadn't seen him, what would we have done? / If we hadn't met him, what would we do? || Nghe supposing … met him.

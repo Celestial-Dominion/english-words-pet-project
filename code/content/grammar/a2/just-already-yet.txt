@@ -1,0 +1,76 @@
+=== just-already-yet
+sum: Ba từ hay đi với hiện tại hoàn thành. Just = vừa mới (I've just sent it). Already = đã… rồi, thường sớm hơn người ta nghĩ (I've already called him). Yet = chưa / … chưa?, chỉ dùng trong câu phủ định và câu hỏi, đứng cuối câu (I haven't finished yet. Have you finished yet?). Trả lời ngắn: Not yet. Just / already đứng giữa have và phân từ. Tiếng Anh Mỹ thân mật còn nói I just ate, I already did it.
+form: have + just + phân từ = vừa mới | I've just sent it.
+form: have + already + phân từ = đã… rồi | I've already called him.
+form: haven't + phân từ + yet · Have you… yet? | I haven't finished yet.
+form: Not yet. | trả lời ngắn: chưa
+cast: mr-ross linh
+bg: office
+prop: report x=820
+words: just, already, yet, send, report, customer
+gloss: noodle
+
+#hook
+mr-ross: Linh, have you sent the report yet? | Linh, cô gửi bản báo cáo chưa? [thinking]
+linh: Yes, I've just sent it. | Rồi ạ, tôi vừa gửi xong. [happy @report]
+mr-ross: Great! And have you called the customer? | Tốt! Thế cô đã gọi cho khách hàng chưa? [happy]
+linh: I've already called him. He's happy with it. | Tôi gọi rồi ạ. Ông ấy rất hài lòng. [happy]
+mr-ross: Wow, you're fast! I haven't read my emails yet. | Chà, cô nhanh thật! Tôi còn chưa đọc email. [surprised ipa=read:rɛd]
+> Ba từ nhỏ đi với hiện tại hoàn thành. [[Just]]: vừa mới. [[Already]]: đã làm rồi, sớm hơn người ta nghĩ. [[Yet]]: dùng trong câu hỏi và câu phủ định, nghĩa là “chưa”.
+
+#form
+th: Từ | Nghĩa | Ví dụ
+tb: just | vừa mới | I've just eaten.
+tb: already | đã… rồi | She's already left.
+tb: yet (phủ định) | chưa | I haven't finished yet.
+tb: yet (câu hỏi) | … chưa? | Have you finished yet?
+> [[Just]] và [[already]] đứng giữa [[have]] và phân từ. Còn [[yet]] luôn đứng cuối câu.
+mv: I've finished my work . => I've already finished my work .
+> Thêm [[already]] vào, nó chen ngay sau [[I've]].
+mv: I haven't finished my work . => I haven't finished my work yet .
+> Còn [[yet]] thì đi thẳng xuống cuối câu.
+
+#examples
+- The bus has {just|k} left. | Xe buýt vừa mới đi.
+- I've {already|k} seen this movie. | Tôi xem phim này rồi.
+- Has the pizza arrived {yet|k}? — {Not yet|n}. | Pizza đến chưa? — Chưa.
+- We haven't decided {yet|k}. | Chúng tôi chưa quyết định.
+
+#contrast
+vs: Have you finished yet? | Bạn làm xong chưa? || hỏi bình thường
+vs: Have you finished already? | Bạn làm xong rồi á? || ngạc nhiên: nhanh thế!
+> [[Already]] trong câu hỏi mang ý ngạc nhiên: sao nhanh vậy! Còn muốn hỏi bình thường thì dùng [[yet]].
+
+#natural
+rank: best | I've just eaten. | Tôi vừa ăn xong.
+rank: best | I just ate. | Tôi vừa ăn xong.
+> Trong tiếng Anh Mỹ thân mật, người ta rất hay dùng quá khứ đơn với [[just]] và [[already]]: [[I just ate]], [[I already did it]]. Cả hai cách đều tự nhiên. Khi viết hay làm bài thi, dùng hiện tại hoàn thành cho chắc chắn.
+
+#mistakes
+x: I haven't yet finished. => I haven't finished yet. | Tôi chưa làm xong. >> [[Yet]] đứng cuối câu.
+x: I just have eaten. => I've just eaten. | Tôi vừa ăn xong. >> [[Just]] đứng sau [[have]]: [[I've just eaten]].
+x: I've finished my homework yet. => I've already finished my homework. | Tôi làm xong bài tập rồi. >> Câu khẳng định không dùng [[yet]]. Muốn nói “rồi” thì dùng [[already]].
+
+#dialogue
+linh: Have you had lunch yet? | Anh ăn trưa chưa? [thinking]
+mr-ross: No, not yet. Have you? | Chưa. Còn cô? [neutral]
+linh: I've just ordered some noodles. Do you want some? | Tôi vừa gọi mì. Anh ăn không? [happy]
+mr-ross: Yes, please! I've already had three coffees, but no food! | Có chứ! Tôi uống ba cốc cà phê rồi, mà chưa ăn gì cả! [tired]
+
+#recall
+? Nói bằng tiếng Anh: Tôi vừa mới đến. => I've just arrived. | Tôi vừa mới đến.
+? Hỏi bằng tiếng Anh: Bạn làm bài tập xong chưa? => Have you done your homework yet? | Bạn làm bài tập xong chưa?
+
+#recap
+> Ba từ nhỏ, ba chỗ đứng quen thuộc. [[Just]] và [[already]] đứng sau [[have]]. [[Yet]] nằm cuối câu phủ định và câu hỏi. Trả lời “chưa” ngắn gọn: [[Not yet]].
+
+#practice
+fill: I've ___ finished. Look! | just* / yet / ever || Vừa mới → just.
+fill: Have you called your mom ___? | yet* / already / just || Câu hỏi bình thường → yet.
+fill: She's ___ left. You're too late. | already* / yet / ever || Đã đi rồi → already.
+fix: I haven't yet eaten. | I haven't eaten yet.* / I haven't eaten already. / I yet haven't eaten. || Yet đứng cuối câu.
+choice: “Have you finished already?” mang ý: | Ngạc nhiên vì xong nhanh quá* / Hỏi bình thường / Trách vì làm chậm || Already trong câu hỏi = ngạc nhiên.
+type: Has the pizza arrived? — Not ___. | yet || Not yet = chưa.
+transform: Thêm just vào câu: | I've sent the email. >> I've just sent the email.* / I just've sent the email. / I've sent just the email. || Just đứng sau have.
+order: The / bus / has / just / left. | Xe buýt vừa mới đi.
+listen: I've already seen this movie. | I've already seen this movie.* / I haven't seen this movie yet. / I've just seen this movie. || Nghe already.

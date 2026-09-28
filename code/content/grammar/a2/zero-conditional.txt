@@ -1,0 +1,62 @@
+=== zero-conditional
+sum: Câu điều kiện loại 0: If + hiện tại đơn, hiện tại đơn — cho quy luật, sự thật, thói quen lúc nào cũng đúng: If plants don't get water, their leaves turn yellow. If I drink coffee at night, I can't sleep. Trong loại này if gần như bằng when. Vế kết quả có thể là mệnh lệnh: If you feel sick, go home. Vế if không dùng will. Tiếng Việt hay bỏ chữ “nếu”, tiếng Anh thì cần if.
+form: If + hiện tại, hiện tại | If you heat ice, it melts.
+form: If ≈ When (luôn đúng) | When it rains, the roads get wet.
+form: If + hiện tại, mệnh lệnh | If you feel sick, go home.
+cast: lily grandpa
+bg: village
+prop: plant-pot x=820
+words: if, plant, water, leaf, heat, melt
+gloss: melt, sunlight
+
+#hook
+lily: Grandpa, why are these leaves yellow? | Ông ơi, sao lá cây này vàng thế ạ? [thinking @plant-pot]
+grandpa: Plants need water. If they don't get water, their leaves turn yellow. | Cây cần nước. Nếu không có nước, lá cây sẽ vàng. [explain]
+lily: And if they get too much water? | Thế nếu tưới nhiều nước quá thì sao ạ? [thinking]
+grandpa: Then they die too! | Thì cây cũng chết luôn! [happy]
+> [[If they don't get water, their leaves turn yellow]]: đây là một quy luật, lúc nào cũng đúng. Với những điều luôn đúng như vậy, cả hai vế đều dùng hiện tại đơn.
+
+#form
+f: [If] + chủ ngữ + hiện tại đơn, + chủ ngữ + hiện tại đơn
+> Vế [[if]] nêu điều kiện, vế sau nêu kết quả. Cả hai đều ở hiện tại đơn, vì đây là quy luật, chứ không phải dự đoán.
+- {If|c} you heat ice, it {melts|k}. | Làm nóng nước đá thì nó tan.
+- {If|c} you mix red and yellow, you {get|k} orange. | Trộn đỏ với vàng thì ra màu cam.
+- {If|c} I drink coffee at night, I {can't|n} sleep. | Tối mà uống cà phê là tôi không ngủ được.
+
+#meaning
+vs: If it rains, the roads get wet. | Nếu trời mưa, đường sẽ ướt. || if
+vs: When it rains, the roads get wet. | Khi trời mưa, đường ướt. || when: nghĩa gần như nhau
+> Với câu loại này, [[if]] và [[when]] gần như cùng nghĩa, vì kết quả lúc nào cũng xảy ra.
+
+#real
+- If you feel sick, {go|k} home. | Thấy mệt thì về nhà đi.
+- If you don't understand, {ask|k} me. | Không hiểu thì hỏi tôi nhé.
+> Vế kết quả cũng có thể là câu mệnh lệnh, để đưa lời khuyên hay hướng dẫn: [[If you feel sick, go home]].
+
+#mistakes
+x: If you will heat water, it boils. => If you heat water, it boils. | Đun nước thì nước sôi. >> Vế [[if]] không dùng [[will]].
+x: If you heat ice, it melt. => If you heat ice, it melts. | Làm nóng nước đá thì nó tan. >> [[It]] đi với động từ thêm [[s]]: [[melts]].
+x: I drink coffee, I can't sleep. => If I drink coffee, I can't sleep. | Uống cà phê là tôi không ngủ được. >> Tiếng Việt hay bỏ chữ “nếu”, nhưng tiếng Anh cần [[if]] để nối hai vế.
+
+#dialogue
+lily: Grandpa, what happens if you put a plant in a dark room? | Ông ơi, để cây trong phòng tối thì sao ạ? [thinking]
+grandpa: If plants don't get sunlight, they don't grow. | Nếu không có ánh nắng, cây không lớn được. [explain]
+lily: So plants are like me. If I don't eat, I don't grow! | Vậy cây giống cháu. Cháu không ăn thì cháu không lớn! [happy]
+grandpa: Exactly! | Chính xác! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Nếu tôi ngủ muộn, tôi thấy mệt. => If I go to bed late, I feel tired. | Nếu tôi ngủ muộn, tôi thấy mệt.
+? Nói bằng tiếng Anh: Nếu trời lạnh, tôi uống trà nóng. => If it's cold, I drink hot tea. | Nếu trời lạnh, tôi uống trà nóng.
+
+#recap
+> Quy luật, sự thật, thói quen luôn đúng: [[If]] cộng hiện tại đơn, rồi đến hiện tại đơn. [[If]] gần như bằng [[when]], vế sau có thể là mệnh lệnh, và vế [[if]] không bao giờ có [[will]].
+
+#practice
+fill: If you heat ice, it ___. | melts* / will melts / melted || Quy luật → hiện tại đơn.
+fill: If I ___ coffee at night, I can't sleep. | drink* / will drink / drank || Vế if → hiện tại đơn.
+fix: If you will mix red and blue, you get purple. | If you mix red and blue, you get purple.* / If you mixed red and blue, you get purple. / If you mix red and blue, you getting purple. || Vế if không dùng will.
+choice: Câu nào nói một quy luật luôn đúng? | If you don't water plants, they die.* / If it rains tomorrow, we'll stay home. / If I see him, I'll tell him. || Quy luật → cả hai vế ở hiện tại.
+type: If you feel sick, ___ home. (mệnh lệnh: về nhà) | go || Mệnh lệnh → go.
+contrast: ___ it rains, the roads get wet. | When* / Because || Quy luật: when ≈ if.
+order: If / you / mix / red / and / yellow, / you / get / orange. | Trộn đỏ với vàng thì ra màu cam.
+listen: If I drink coffee at night, I can't sleep. | If I drink coffee at night, I can't sleep.* / If I drank coffee at night, I couldn't sleep. / When I drink coffee at night, I can sleep. || Nghe drink · can't.

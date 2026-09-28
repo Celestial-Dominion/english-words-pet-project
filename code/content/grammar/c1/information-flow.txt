@@ -1,0 +1,75 @@
+=== information-flow
+sum: Trật tự thông tin trong câu tiếng Anh: điều đã biết (chủ đề, đại từ) đứng đầu, điều mới đứng cuối — cuối câu là tâm điểm, khi nói cũng nhấn giọng ở đó (end focus). Phần dài, nặng cũng dồn ra cuối (end weight). Công cụ: bị động để giữ chủ đề làm chủ ngữ (This bridge… It was designed by a young engineer); chọn thứ tự hai tân ngữ (I gave it to Anna · I gave Anna a new phone); There is… để giới thiệu điều mới (There's a man at the door); It… để đẩy phần dài ra sau (It's clear that we need more time). Người Việt hay nêu chủ đề rồi bình luận (Bức tranh này, ông tôi vẽ) — tiếng Anh không nói This painting, my grandfather painted it.
+form: điều đã biết + … + điều mới (cuối câu = tâm điểm) | It was painted by my grandfather.
+form: bị động giữ chủ đề làm chủ ngữ | The bridge was designed by a young engineer.
+form: There is / are + điều mới | There's a letter for you.
+form: It + be + tính từ + to V / that… (phần dài để cuối) | It's clear that we need more time.
+cast: ana sam
+bg: home-day
+prop: painting x=800 y=610 back scale=0.8
+words: paint, bridge, engineer, museum, favourite, contract
+names: Hanoi
+
+#hook
+sam: What a beautiful painting! Who painted it? | Bức tranh đẹp quá! Ai vẽ vậy? [surprised]
+ana: It was painted by my grandfather. | Bức này do ông tôi vẽ. [happy]
+sam: Really? Where did he learn to paint? | Thật à? Ông học vẽ ở đâu vậy? [thinking]
+ana: He taught himself. He gave this one to my mother as a wedding present. | Ông tự học. Ông tặng bức này cho mẹ tôi làm quà cưới. [explain]
+> Để ý câu trả lời: [[It was painted by my grandfather]]. Bức tranh là điều cả hai đã biết, nên đứng đầu câu. Điều mới, [[my grandfather]], đứng cuối. Tiếng Anh rất chuộng trật tự này: cũ trước, mới sau.
+
+#form
+f: điều đã biết + động từ + điều mới
+> Đầu câu là chỗ của chủ đề, thường là đại từ hoặc thứ vừa nhắc tới. Cuối câu là tâm điểm: điều người nghe chưa biết. Khi nói, giọng cũng tự nhiên nhấn vào cuối câu.
+th: Công cụ | Ví dụ
+tb: bị động | It was designed by a young engineer.
+tb: thứ tự hai tân ngữ | I gave it to Anna.
+tb: There is / are | There's a letter for you.
+tb: It… (phần dài để cuối) | It's clear that we need more time.
+> Bốn công cụ để sắp thông tin. Bị động giữ chủ đề làm chủ ngữ. Hai tân ngữ thì cái nào mới đứng sau. [[There is]] giới thiệu một thứ mới. Còn [[It]] đẩy phần dài, nặng ra cuối câu.
+mv: That we need more time is clear . => It is clear that we need more time .
+> Chủ ngữ dài như [[That we need more time]] làm câu nặng đầu. Tiếng Anh thích đặt [[It]] ở đầu, rồi dồn phần dài xuống cuối.
+
+#examples
+- This bridge is over a hundred years old. {It was designed by|k} a young engineer. | Cây cầu này đã hơn trăm tuổi. Nó được một kỹ sư trẻ thiết kế.
+- I've still got your umbrella. I'll give {it|o} back to you tomorrow. | Tôi vẫn giữ ô của bạn. Mai tôi trả lại cho bạn.
+- {There's|k} a man at the door. He wants to see you. | Có một người đàn ông ở cửa. Ông ấy muốn gặp bạn.
+- {It's|k} important to read the contract carefully. | Đọc kỹ hợp đồng là điều quan trọng.
+
+#contrast
+vs: I gave it to Anna. | Tôi đưa nó cho Anna. || it đã biết → đứng trước
+vs: I gave Anna a new phone. | Tôi tặng Anna một chiếc điện thoại mới. || a new phone là điều mới → đứng cuối
+> Với hai tân ngữ, cái nào là thông tin mới thì để sau. Đại từ như [[it]] luôn là điều đã biết, nên không để ở cuối câu.
+
+#natural
+rank: best | The reports? I sent them to my boss. | Mấy bản báo cáo à? Tôi gửi cho sếp rồi.
+rank: odd | The reports? I sent my boss them.
+> [[I sent my boss them]] nghe rất lạ, vì đại từ [[them]] bị đẩy vào vị trí tâm điểm, trong khi nó chẳng mang gì mới.
+
+#mistakes
+x: This painting, my grandfather painted it. => This painting was painted by my grandfather. | Bức tranh này do ông tôi vẽ. >> Tiếng Việt hay nêu chủ đề rồi bình luận. Tiếng Anh dùng bị động để giữ chủ đề làm chủ ngữ.
+x: Is important to book early. => It is important to book early. | Đặt sớm là điều quan trọng. >> Phần dài để cuối, còn đầu câu phải có chủ ngữ giả [[It]].
+x: Has a problem with your order. => There's a problem with your order. | Đơn hàng của bạn có vấn đề. >> Giới thiệu điều mới bằng [[There is]], không dùng [[has]] như chữ “có” trong tiếng Việt.
+
+#dialogue
+sam: Did your grandfather sell many paintings? | Ông bạn có bán được nhiều tranh không? [thinking]
+ana: A few. One of them was bought by a museum in Hanoi. | Vài bức. Một bức được một bảo tàng ở Hà Nội mua. [happy]
+sam: Wow! It must be hard to choose a favourite. | Chà! Chắc khó chọn ra bức mình thích nhất lắm nhỉ. [surprised]
+ana: Not really. This is the one I love most. | Không hẳn. Bức này là bức tôi thích nhất. [happy]
+
+#recall
+? Nói bằng tiếng Anh, giữ [[this house]] làm chủ ngữ: Ngôi nhà này do bố tôi xây. => This house was built by my father. | Ngôi nhà này do bố tôi xây.
+? Nói bằng tiếng Anh, mở đầu bằng [[It]]: Thật khó để giải thích chuyện đã xảy ra. => It's hard to explain what happened. | Thật khó để giải thích chuyện đã xảy ra.
+
+#recap
+> Cũ trước, mới sau: đầu câu là chủ đề, cuối câu là tâm điểm. Phần dài, nặng cũng dồn xuống cuối. Công cụ là bị động, thứ tự hai tân ngữ, [[There is]] và [[It]] ở đầu câu. Và đừng nêu chủ đề rồi lặp lại bằng [[it]] như trong tiếng Việt.
+
+#practice
+choice: “Our school has a new library.” Câu tiếp theo tự nhiên nhất? | It was opened by the mayor last week.* / A library was opened by the mayor last week. / The mayor, he opened it last week. || Chủ đề (the library = it) đứng đầu, điều mới ở cuối.
+fill: ___ a problem with your booking. | There's* / It's / Has || Giới thiệu điều mới → There's.
+fill: ___ important to check the details. | It's* / Is / That's || Phần dài để cuối, đầu câu là It.
+fill: I've got your keys. I'll give ___ to you later. | them* / you them / to you them || Đại từ đã biết đứng trước: give them to you.
+fix: This song, my brother wrote it. | This song was written by my brother.* / This song was wrote by my brother. / This song my brother was written. || Bị động giữ chủ đề làm chủ ngữ.
+transform: Viết lại, dồn phần dài xuống cuối: | To find a good flat in this city is difficult. >> It is difficult to find a good flat in this city.* / It is difficult find a good flat in this city. / Is difficult to find a good flat in this city. || It + is + tính từ + to V.
+type: I've got your book. I'll give ___ back tomorrow. | it || Đại từ đã biết: give it back.
+order: One / of / his / paintings / was / bought / by / a / museum. | Một bức tranh của ông được một bảo tàng mua.
+listen: It was painted by my grandfather. | It was painted by my grandfather.* / It was painted by my grandmother. / My grandfather painted it. || Nghe painted by my grandfather.

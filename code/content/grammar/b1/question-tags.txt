@@ -1,0 +1,68 @@
+=== question-tags
+sum: Câu hỏi đuôi (giống “nhỉ”, “phải không”): câu khẳng định + đuôi phủ định (It's cold, isn't it?), câu phủ định + đuôi khẳng định (You aren't busy, are you?). Đuôi lặp lại be / trợ động từ / modal của câu; không có thì mượn do / does / did (You live here, don't you?). Chủ ngữ của đuôi là đại từ. Đặc biệt: I'm…, aren't I? · Let's…, shall we? · Nobody…, did they? Ngữ điệu: xuống giọng = chắc chắn, chờ đồng ý; lên giọng = hỏi thật. Tiếng Anh không có một đuôi chung như “phải không” (…, isn't it? không dùng được cho mọi câu).
+form: khẳng định, + đuôi phủ định? | It's cold today, isn't it?
+form: phủ định, + đuôi khẳng định? | You aren't busy, are you?
+form: không có trợ động từ → do / does / did | You live here, don't you?
+form: I'm…, aren't I? · Let's…, shall we? | trường hợp đặc biệt
+cast: grandpa mia
+bg: park
+words: lovely, walk, move, together, nobody, shall
+
+#hook
+grandpa: Good morning, Mia. It's a lovely day, isn't it? | Chào buổi sáng, Mia. Hôm nay trời đẹp quá nhỉ? [happy wave]
+mia: It is! You walk here every morning, don't you? | Đẹp thật ạ! Sáng nào bác cũng đi bộ ở đây, phải không ạ? [happy]
+grandpa: Yes, I do. You're not working today, are you? | Đúng rồi. Hôm nay cháu không đi làm à? [thinking]
+mia: No, it's Saturday! | Không ạ, hôm nay thứ bảy mà! [happy]
+> [[Isn't it?]], [[don't you?]], [[are you?]] là câu hỏi đuôi, giống “nhỉ”, “phải không” trong tiếng Việt. Câu khẳng định thì đuôi phủ định, câu phủ định thì đuôi khẳng định.
+
+#form
+th: Câu | Đuôi
+tb: It's cold, | isn't it?
+tb: You can swim, | can't you?
+tb: She lives here, | doesn't she?
+tb: They didn't come, | did they?
+tb: You haven't eaten, | have you?
+> Đuôi lặp lại [[be]], trợ động từ, hoặc động từ khuyết thiếu của câu chính. Nếu câu chính không có, như [[She lives here]], thì mượn [[do]], [[does]], [[did]]. Chủ ngữ ở đuôi luôn là đại từ: [[she]], [[it]], [[they]].
+
+#pronunciation
+th: Ngữ điệu | Nghĩa
+tb: isn't it? ↘ (xuống giọng) | gần như chắc chắn, chờ đồng ý
+tb: isn't it? ↗ (lên giọng) | không chắc, hỏi thật
+> Ngữ điệu quyết định nghĩa. Xuống giọng ở cuối: ta gần như chắc chắn, chỉ chờ người kia đồng ý. Lên giọng: ta thật sự không chắc, và đang hỏi.
++ The shop opens at nine, doesn't it? | Cửa hàng mở lúc chín giờ, phải không?
+
+#real
+- {I'm|a} late, {aren't I|q}? | Tôi đến muộn rồi, phải không?
+- {Let's|k} go, {shall we|q}? | Mình đi nhé?
+- {Nobody|n} called, {did they|q}? | Không ai gọi à?
+> Vài trường hợp đặc biệt: [[I'm]] đi với [[aren't I]]. [[Let's]] đi với [[shall we]]. Còn [[nobody]], [[never]] đã mang nghĩa phủ định, nên đuôi ở dạng khẳng định.
+
+#mistakes
+x: It's hot, isn't? => It's hot, isn't it? | Nóng nhỉ? >> Đuôi luôn có chủ ngữ: [[isn't it]].
+x: You like coffee, isn't it? => You like coffee, don't you? | Bạn thích cà phê, phải không? >> Tiếng Anh không có một đuôi chung như “phải không”. Câu dùng [[like]] thì đuôi là [[don't you]].
+x: She can drive, doesn't she? => She can drive, can't she? | Cô ấy lái xe được, phải không? >> Câu có [[can]] thì đuôi dùng [[can]]: [[can't she]].
+x: Tom is here, isn't Tom? => Tom is here, isn't he? | Tom ở đây, phải không? >> Đuôi dùng đại từ: [[he]].
+
+#dialogue
+grandpa: You moved here last year, didn't you? | Cháu chuyển đến đây năm ngoái, phải không? [thinking]
+mia: That's right. And you've lived here a long time, haven't you? | Đúng ạ. Còn bác sống ở đây lâu rồi, phải không ạ? [happy]
+grandpa: Forty years! Let's have a coffee together, shall we? | Bốn mươi năm rồi! Mình đi uống cà phê nhé? [happy]
+mia: I'd love to! | Cháu rất sẵn lòng! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Trời lạnh nhỉ? => It's cold, isn't it? | Trời lạnh nhỉ?
+? Nói bằng tiếng Anh: Bạn chưa ăn, phải không? => You haven't eaten, have you? | Bạn chưa ăn, phải không?
+
+#recap
+> Câu khẳng định đi với đuôi phủ định, câu phủ định đi với đuôi khẳng định. Đuôi lặp lại trợ động từ, hoặc mượn [[do]], [[does]], [[did]], với chủ ngữ là đại từ. Và ngữ điệu: xuống giọng là chờ đồng ý, lên giọng là hỏi thật.
+
+#practice
+fill: It's a nice day, ___? | isn't it* / is it / doesn't it || Khẳng định → đuôi phủ định: isn't it.
+fill: You don't eat meat, ___? | do you* / don't you / are you || Phủ định → đuôi khẳng định: do you.
+fill: She lives near here, ___? | doesn't she* / isn't she / don't she || Lives → mượn does: doesn't she.
+fill: They can't come, ___? | can they* / can't they / do they || Phủ định với can → can they.
+fix: You're Vietnamese, isn't it? | You're Vietnamese, aren't you?* / You're Vietnamese, isn't you? / You're Vietnamese, don't you? || Are → aren't you.
+type: I'm late, ___ I? | aren't || I'm… → aren't I.
+choice: “Let's go, ___?” | shall we* / will we / don't we || Let's… → shall we.
+order: You / moved / here / last / year, / didn't / you? | Bạn chuyển đến đây năm ngoái, phải không?
+listen: Nobody called, did they? | Nobody called, did they?* / Somebody called, didn't they? / Nobody called today. || Nghe did they.

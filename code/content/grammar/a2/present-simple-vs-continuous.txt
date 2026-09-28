@@ -1,0 +1,76 @@
+=== present-simple-vs-continuous
+sum: Hiện tại đơn cho thói quen, việc lặp lại, sự thật (She usually walks to school). Hiện tại tiếp diễn cho việc đang diễn ra lúc nói hoặc chỉ tạm thời (Today she's taking the bus). Dấu hiệu: usually, every day, often ↔ now, today, this week. Động từ trạng thái (know, like, want, need, understand) thường không dùng -ing. What do you do? = làm nghề gì; What are you doing? = đang làm gì.
+form: thói quen · sự thật → hiện tại đơn | She usually walks to school.
+form: đang diễn ra · tạm thời → am / is / are + V-ing | Today she's taking the bus.
+form: know · like · want · need · understand | thường không dùng -ing
+cast: zoe dad:call=office
+bg: library
+words: usually, today, study, understand, know, need
+gloss: library
+
+#hook
+dad: Hi, Zoe! What are you doing? | Chào Zoe! Con đang làm gì đấy? [happy]
+zoe: I'm studying in the library. | Con đang học ở thư viện ạ. [neutral]
+dad: In the library? You usually study at home! | Ở thư viện á? Con thường học ở nhà mà! [surprised]
+zoe: I know, but our internet isn't working today. | Con biết, nhưng hôm nay mạng nhà mình bị hỏng. [sad]
+> Một cuộc gọi, hai thì. [[You usually study at home]]: thói quen, nên dùng hiện tại đơn. [[I'm studying in the library]]: đang diễn ra ngay lúc này, nên dùng tiếp diễn.
+
+#meaning
+vs: She usually walks to school. | Cô bé thường đi bộ đến trường. || thói quen → hiện tại đơn
+vs: Today she's taking the bus. | Hôm nay cô bé đi xe buýt. || hôm nay, tạm thời → tiếp diễn
+> Tiếng Việt dùng cùng một chữ “đi”, chỉ thêm “thường” hay “hôm nay”. Tiếng Anh thì phải chọn thì: việc lặp lại dùng hiện tại đơn, việc đang xảy ra hoặc chỉ tạm thời dùng tiếp diễn.
+tl: -2 walks | thứ hai
+tl: -1 walks | thứ ba
+tl: ~-0.4..0.4 is taking the bus | hôm nay
+> Trên trục thời gian: [[walks]] là những chấm lặp đi lặp lại. Còn [[is taking the bus]] là một việc đang diễn ra quanh lúc này.
+
+#form
+th: Hiện tại đơn | Hiện tại tiếp diễn
+tb: always, usually, often | now, right now
+tb: every day, on Mondays | today, this week
+tb: I work · she works | I'm working · she's working
+> Các từ như [[usually]], [[every day]] thường đi với hiện tại đơn. Còn [[now]], [[today]], [[this week]] hay đi với tiếp diễn.
+
+#examples
+- My mom {works|k} in a bank. | Mẹ tôi làm ở ngân hàng.
+- This week {she's working|k} from home. | Tuần này mẹ tôi làm việc ở nhà.
+- Water {boils|k} at 100 degrees. | Nước sôi ở 100 độ.
+
+#contrast
+vs: What do you do? | Bạn làm nghề gì? || hỏi nghề nghiệp
+vs: What are you doing? | Bạn đang làm gì vậy? || hỏi việc lúc này
+> Hai câu này rất hay bị nhầm. [[What do you do?]] hỏi công việc hằng ngày, tức là nghề nghiệp. [[What are you doing?]] hỏi việc người ta đang làm ngay lúc đó.
+vs: I know the answer. | Tôi biết câu trả lời. || trạng thái → không -ing
+vs: I'm having lunch. | Tôi đang ăn trưa. || hành động → có -ing
+> Một số động từ chỉ trạng thái, không phải hành động, như [[know]], [[like]], [[want]], [[need]], [[understand]]. Chúng thường không dùng [[ing]]. Nhưng [[have]] nghĩa là “ăn” lại là hành động, nên nói [[I'm having lunch]] được.
+
+#mistakes
+x: I'm usually walking to school. => I usually walk to school. | Tôi thường đi bộ đến trường. >> [[Usually]] là thói quen, dùng hiện tại đơn.
+x: Look! It rains. => Look! It's raining. | Nhìn kìa! Trời đang mưa. >> [[Look!]] là ngay lúc này, dùng tiếp diễn.
+x: I'm knowing her very well. => I know her very well. | Tôi biết cô ấy rất rõ. >> [[Know]] chỉ trạng thái, không dùng [[ing]].
+x: Are you understanding? => Do you understand? | Bạn có hiểu không? >> [[Understand]] cũng là động từ trạng thái.
+
+#dialogue
+dad: Do you need anything? | Con có cần gì không? [thinking]
+zoe: No, thanks. But I'm getting hungry! | Không ạ. Nhưng con bắt đầu thấy đói rồi! [tired]
+dad: I'm driving home now. I can pick you up. | Bố đang lái xe về. Bố qua đón con nhé. [happy]
+zoe: Thanks, Dad! The library closes at six. | Cảm ơn bố! Thư viện đóng cửa lúc sáu giờ. [happy ipa=closes:ˈkloʊzɪz]
+> Câu cuối dùng hiện tại đơn, vì giờ đóng cửa của thư viện là lịch cố định, ngày nào cũng vậy.
+
+#recall
+? Nói bằng tiếng Anh: Tôi thường uống trà, nhưng hôm nay tôi uống cà phê. => I usually drink tea, but today I'm drinking coffee. | Tôi thường uống trà, nhưng hôm nay tôi uống cà phê.
+? Hỏi bằng tiếng Anh: Bạn làm nghề gì? => What do you do? | Bạn làm nghề gì?
+
+#recap
+> Việc lặp lại, thói quen, sự thật: hiện tại đơn. Việc đang diễn ra hoặc tạm thời: tiếp diễn. Còn [[know]], [[like]], [[want]], [[need]] thường không đi với [[ing]].
+
+#practice
+contrast: Look! The baby ___. | is sleeping* / sleeps || Look! → đang diễn ra.
+contrast: My mom ___ to work every day. | drives* / is driving || Every day → thói quen.
+contrast: I ___ the answer. | know* / am knowing || Know là động từ trạng thái.
+fill: What ___ you do? — I'm a nurse. | do* / are / does || Hỏi nghề nghiệp → What do you do?
+fix: She is usually getting up at six. | She usually gets up at six.* / She usually getting up at six. / She is usually get up at six. || Usually → hiện tại đơn.
+choice: “What are you doing?” nghĩa là: | Bạn đang làm gì vậy?* / Bạn làm nghề gì? / Bạn định làm gì? || Tiếp diễn → việc lúc này.
+order: I / usually / study / at / home. | Tôi thường học ở nhà.
+listen: I'm studying in the library. | I'm studying in the library.* / I study in the library. / I studied in the library. || Nghe I'm studying.
+natural: Do you understand?* / Are you understanding? || Understand là động từ trạng thái.

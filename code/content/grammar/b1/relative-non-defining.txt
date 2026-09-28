@@ -1,0 +1,67 @@
+=== relative-non-defining
+sum: Mệnh đề quan hệ không xác định thêm THÔNG TIN PHỤ về người / vật đã rõ, đặt giữa hai dấu phẩy: My sister, who lives in Hue, works at a big hospital. Bỏ đi câu vẫn đủ nghĩa. Chỉ dùng who / which / whose / where — KHÔNG dùng that, không bao giờ lược. Dấu phẩy đổi nghĩa: My brother who lives in Da Nang (tôi có nhiều anh) ≠ My brother, who lives in Da Nang (tôi chỉ có một anh). , which còn thay cho cả vế trước: He passed the exam, which surprised everyone.
+form: danh từ đã rõ + , who / which … , | My sister, who lives in Hue, is a doctor.
+form: không dùng that · không lược | Da Lat, which is very cool (không nói that is)
+form: , which = điều đó (cả vế trước) | He passed, which surprised everyone.
+form: có phẩy = thông tin thêm · không phẩy = người / vật nào | My brother, who… ≠ My brother who…
+cast: mia nam
+bg: home-day
+words: who, which, whose, capital, surprise, wedding
+gloss: photography, cousin
+names: Lan, Moon Hotel, Da Lat
+
+#hook
+mia: This is my sister, Lan. She's a doctor. | Đây là chị gái tôi, Lan. Chị ấy là bác sĩ. [happy point]
+nam: Oh, nice! Does she live in Hanoi? | Ồ, hay quá! Chị ấy sống ở Hà Nội à? [thinking]
+mia: No. My sister, who lives in Hue, works at a big hospital. | Không. Chị tôi, người đang sống ở Huế, làm ở một bệnh viện lớn. [explain]
+nam: And who's this? | Còn đây là ai? [thinking]
+mia: That's my grandmother, who is ninety this year! | Đó là bà tôi, năm nay bà chín mươi tuổi rồi! [happy]
+> [[My sister, who lives in Hue, works at a big hospital]]. Ai cũng biết đó là chị của [[Mia]]. Phần [[who lives in Hue]] chỉ thêm thông tin phụ, nên nằm giữa hai dấu phẩy. Bỏ nó đi, câu vẫn đủ nghĩa.
+
+#meaning
+vs: My brother who lives in Da Nang is a teacher. | Người anh sống ở Đà Nẵng của tôi là giáo viên. || không phẩy: tôi có vài người anh
+vs: My brother, who lives in Da Nang, is a teacher. | Anh tôi, người sống ở Đà Nẵng, là giáo viên. || có phẩy: tôi chỉ có một anh
+> Dấu phẩy làm đổi nghĩa. Không có phẩy: tôi có vài người anh, và tôi đang nói về người sống ở Đà Nẵng. Có phẩy: tôi chỉ có một anh, và chuyện sống ở Đà Nẵng chỉ là thông tin thêm. Khi nói, ta ngắt giọng ở chỗ dấu phẩy.
+
+#form
+th: Xác định (không phẩy) | Không xác định (có phẩy)
+tb: cho biết người / vật nào | thêm thông tin phụ
+tb: who · which · that | who · which (không dùng that)
+tb: lược được khi là tân ngữ | không bao giờ lược
+> Hai loại khác nhau ở ba điểm. Loại có dấu phẩy không bao giờ dùng [[that]], và không bao giờ lược đại từ quan hệ.
+
+#examples
+- Hanoi, {which|c} is the capital of Vietnam, has a lot of lakes. | Hà Nội, thủ đô của Việt Nam, có rất nhiều hồ.
+- My boss, {whose|c} wife is Japanese, speaks three languages. | Sếp tôi, người có vợ là người Nhật, nói được ba thứ tiếng.
+- We stayed at the Moon Hotel, {where|c} the food was amazing. | Chúng tôi ở khách sạn Moon, nơi đồ ăn rất tuyệt.
+- He passed the exam, {which|c} surprised everyone. | Anh ấy thi đỗ, điều đó làm mọi người bất ngờ.
+> Câu cuối đặc biệt: [[which]] không thay cho một danh từ, mà thay cho cả vế trước. Việc anh ấy thi đỗ, chính điều đó làm mọi người bất ngờ.
+
+#mistakes
+x: My father, that is a pilot, travels a lot. => My father, who is a pilot, travels a lot. | Bố tôi là phi công, nên đi rất nhiều nơi. >> Mệnh đề có dấu phẩy không dùng [[that]].
+x: I love Da Lat, that is very cool. => I love Da Lat, which is very cool. | Tôi mê Đà Lạt, nơi rất mát mẻ. >> Với vật, nơi chốn trong mệnh đề có phẩy, dùng [[which]].
+x: My mother who is a nurse works at night. => My mother, who is a nurse, works at night. | Mẹ tôi là y tá, làm ca đêm. >> Ai cũng chỉ có một mẹ, nên thông tin thêm phải nằm giữa hai dấu phẩy.
+
+#dialogue
+nam: Your family photos are lovely. Who took them? | Ảnh gia đình chị đẹp quá. Ai chụp thế? [happy]
+mia: My cousin Linh, who studies photography. | Em họ tôi, Linh, cô ấy học nhiếp ảnh. [happy]
+nam: She's really good. I need a photographer for my wedding, which is in June! | Cô ấy giỏi thật. Tôi đang cần thợ chụp ảnh cưới, mà đám cưới của tôi vào tháng sáu! [happy]
+mia: I'll give you her number! | Để tôi cho anh số của cô ấy! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Bố tôi, người sinh ra ở Huế, là kỹ sư. => My father, who was born in Hue, is an engineer. | Bố tôi, người sinh ra ở Huế, là kỹ sư.
+? Nói bằng tiếng Anh: Trời mưa cả tuần, điều đó thật buồn. => It rained all week, which was sad. | Trời mưa cả tuần, điều đó thật buồn.
+
+#recap
+> Mệnh đề có dấu phẩy thêm thông tin phụ về người hay vật đã rõ. Dùng [[who]], [[which]], [[whose]], [[where]], không dùng [[that]], và không lược. [[Which]] còn có thể thay cho cả vế đứng trước nó.
+
+#practice
+fill: My sister, ___ lives in Canada, is visiting us. | who* / that / which || Người, có phẩy → who.
+fill: Da Nang, ___ has beautiful beaches, is my favorite city. | which* / that / where || Nơi chốn làm chủ ngữ, có phẩy → which.
+fill: He forgot my birthday, ___ made me sad. | which* / that / what || Thay cả vế trước → which.
+fix: My mother who is a nurse works at night. | My mother, who is a nurse, works at night.* / My mother, that is a nurse, works at night. / My mother, is a nurse, works at night. || Mẹ chỉ có một → dấu phẩy.
+choice: “My brother, who lives in Da Nang, is a teacher.” cho thấy: | Tôi chỉ có một người anh* / Tôi có nhiều người anh / Anh tôi không sống ở Đà Nẵng || Có phẩy → thông tin thêm.
+type: We visited Hue, ___ my grandparents live. | where || Nơi chốn → where.
+order: He / passed / the / exam, / which / surprised / everyone. | Anh ấy thi đỗ, điều đó làm mọi người bất ngờ.
+listen: My boss, whose wife is Japanese, speaks three languages. | My boss, whose wife is Japanese, speaks three languages.* / My boss, who is Japanese, speaks three languages. / My boss's wife speaks three languages. || Nghe whose wife.
+transform: Nối bằng which: | Hanoi is the capital. It has a lot of lakes. >> Hanoi, which is the capital, has a lot of lakes.* / Hanoi, that is the capital, has a lot of lakes. / Hanoi which is the capital has a lot of lakes it. || Có phẩy → which.

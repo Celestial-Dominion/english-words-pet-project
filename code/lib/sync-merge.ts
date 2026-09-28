@@ -6,7 +6,9 @@
 //   reads    — hành động sau cùng thắng (kể cả bỏ đánh dấu — tombstone)
 //   notes    — máy sửa sau thắng ("" = đã xoá)
 //   storyPos — máy đọc sau thắng (theo mốc thời gian)
+//   grammar  — mỗi bài một dòng mã hoá (lib/grammar.ts): lịch ôn theo lần luyện gần hơn, điểm cao nhất lấy max
 import type { ReviewRecord, DailyStat, ReadRow, NoteRow, GamifyRow, SrsConfig } from "./types";
+import { grammarStamp, mergeGrammarCodes } from "./grammar.ts"; // đuôi .ts: file này chạy thẳng bằng node trong test
 
 /** "Phiên bản" của thẻ ôn: ưu tiên số lượt ôn, sau đó tới thời điểm ôn gần nhất. */
 export function reviewScore(r: ReviewRecord): number {
@@ -134,7 +136,7 @@ export interface SyncSnapshot {
   notes: NoteRow[];
   xp: number;
   phonics: string[];
-  grammar: string[];
+  grammar: string[]; // tiến độ Ngữ pháp đã mã hoá (encodeGrammarRow) — xem lib/grammar.ts
   storyPos: Record<string, StoryPos>;
   gamify: GamifyRow;
 }
@@ -156,6 +158,7 @@ export interface Fp {
   fz: string; // trạng thái đóng băng chuỗi
   cu: string; // thời điểm đổi cài đặt trên máy này
   sp: string; // vị trí đọc truyện
+  gr?: string; // tiến độ Ngữ pháp (đổi điểm / lịch ôn mà không đổi số bài vẫn phải ghi lên)
 }
 
 export function fingerprint(s: SyncSnapshot, cfgStamp: string, storyStamp: string): Fp {
@@ -184,13 +187,15 @@ export function fingerprint(s: SyncSnapshot, cfgStamp: string, storyStamp: strin
     fz: `${g.freezes ?? 0}|${(g.frozenDates ?? []).length}|${g.grantStreak ?? 0}|${g.maxCombo ?? 0}|${(g.questsDone ?? []).length}`,
     cu: cfgStamp,
     sp: storyStamp,
+    gr: grammarStamp(s.grammar),
   };
 }
 
 export function fpEq(a: Fp, b: Fp): boolean {
   return (
     a.rc === b.rc && a.mlr === b.mlr && a.tr === b.tr && a.rd === b.rd && a.ra === b.ra &&
-    a.xp === b.xp && a.nt === b.nt && a.co === b.co && a.fz === b.fz && a.cu === b.cu && a.sp === b.sp
+    a.xp === b.xp && a.nt === b.nt && a.co === b.co && a.fz === b.fz && a.cu === b.cu && a.sp === b.sp &&
+    (a.gr ?? "") === (b.gr ?? "")
   );
 }
 
@@ -203,7 +208,7 @@ export function mergeSnapshots(local: SyncSnapshot, remote: SyncSnapshot): SyncS
     notes: mergeNotes(local.notes, remote.notes),
     xp: Math.max(local.xp, remote.xp),
     phonics: mergeIdSet(local.phonics, remote.phonics),
-    grammar: mergeIdSet(local.grammar, remote.grammar),
+    grammar: mergeGrammarCodes(local.grammar, remote.grammar),
     storyPos: mergeStoryPos(local.storyPos, remote.storyPos),
     gamify: mergeGamify(local.gamify, remote.gamify),
   };

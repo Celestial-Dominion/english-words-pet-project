@@ -1,0 +1,75 @@
+=== ellipsis-substitution
+sum: Tiếng Anh rất ghét lặp lại. Thay thế: one / ones cho danh từ đếm được (the red one); so / not cho cả một mệnh đề (I think so · I hope not · I'm afraid so / not); do so trang trọng (He promised to resign and did so); that of / those of khi so sánh (larger than that of London). Tỉnh lược: giữ lại trợ động từ, bỏ phần sau (He said he'd help, and he did · I can't, but she can); giữ to, bỏ động từ (I'd love to). Không nói I think yes, I don't hope so. So sánh cùng loại: climate với climate (than that of England), không so climate với England. One không thay cho danh từ không đếm được.
+form: one / ones thay danh từ đếm được | Can I see the red one?
+form: so / not thay cả mệnh đề | I think so. · I hope not.
+form: giữ trợ động từ hoặc to, bỏ phần sau | He said he'd help, and he did.
+form: do so · that of / those of (trang trọng) | larger than that of London
+cast: grandma jay
+bg: supermarket
+words: popular, battery, monthly, population, climate, resign
+names: Tokyo, London, England, Vietnam
+
+#hook
+grandma: I don't like this phone. Can I see the red one? | Bà không thích cái điện thoại này. Cho bà xem cái màu đỏ được không? [thinking]
+jay: Of course. It's very popular. | Dạ được ạ. Mẫu này bán chạy lắm. [happy]
+grandma: Is it easy to use? | Có dễ dùng không cháu? [worried]
+jay: I think so. My grandmother has one, and she loves it. | Cháu nghĩ là có ạ. Bà cháu cũng dùng một cái, bà thích lắm. [explain]
+> Người nói tránh lặp lại. [[The red one]] thay cho [[the red phone]]. [[I think so]] thay cho cả câu [[I think it's easy to use]]. Dùng một từ nhỏ thay cho điều đã nói: đó là thay thế.
+
+#form
+th: Thay bằng | Ví dụ
+tb: one / ones (đếm được) | I'd like the red one.
+tb: so / not (cả mệnh đề) | I think so. · I hope not.
+tb: trợ động từ (bỏ phần sau) | He said he'd help, and he did.
+tb: to (bỏ động từ sau to) | I'd love to.
+tb: do so (trang trọng) | He promised to resign and did so.
+tb: that of / those of | larger than that of London
+> Nguyên tắc chung: điều gì người nghe đã biết thì thay bằng một từ nhỏ, hoặc bỏ hẳn. Chỉ giữ lại phần khung: trợ động từ, [[to]], [[so]], [[one]].
+f: động từ + [so / not]
+> [[So]] và [[not]] thay cho cả một mệnh đề, sau [[think]], [[hope]], [[suppose]], [[be afraid]]. [[I'm afraid so]]: e là có. [[I'm afraid not]]: e là không.
+
+#examples
+- I can't swim, but my sister {can|a}. | Tôi không biết bơi, nhưng em gái tôi thì biết.
+- Want to join us? — I'd love {to|k}! | Đi cùng không? — Rất sẵn lòng!
+- The population of Tokyo is larger than {that of|k} London. | Dân số Tokyo đông hơn dân số London.
+- Is the museum open today? — I'm afraid {not|k}. | Hôm nay bảo tàng có mở cửa không? — E là không.
+
+#contrast
+vs: Will it rain tomorrow? — I hope not. | Mai có mưa không? — Mong là không. || hope not: mong là không
+vs: Will she get the job? — I hope so. | Cô ấy có được nhận không? — Mong là có. || hope so: mong là có
+> Phủ định đi với [[hope]] và [[be afraid]] là [[not]] ở cuối: [[I hope not]], không nói [[I don't hope so]]. Riêng [[think]] thì [[I don't think so]] lại rất tự nhiên.
+
+#natural
+rank: best | I prefer these. | Tôi thích mấy cái này hơn.
+rank: ok | I prefer these ones. | Tôi thích mấy cái này hơn cơ.
+> Người Anh hay nói [[these ones]], [[those ones]] khi nói chuyện. Văn trang trọng và tiếng Anh Mỹ thường chỉ dùng [[these]], [[those]].
+
+#mistakes
+x: I think yes. => I think so. | Tôi nghĩ là có. >> Thay cho cả mệnh đề là [[so]]: [[I think so]], không nói [[I think yes]].
+x: I don't hope so. => I hope not. | Mong là không. >> Với [[hope]], phủ định là [[I hope not]].
+x: Vietnam's climate is hotter than England. => Vietnam's climate is hotter than that of England. | Khí hậu Việt Nam nóng hơn khí hậu nước Anh. >> So khí hậu với khí hậu: [[that of England]], không so khí hậu với cả một đất nước.
+
+#dialogue
+grandma: And is it expensive? | Thế có đắt không cháu? [worried]
+jay: I'm afraid so. But its battery lasts much longer than that of the old models. | E là có ạ. Nhưng pin của nó dùng lâu hơn nhiều so với các mẫu cũ. [explain]
+grandma: Can I pay monthly? | Bà trả góp hằng tháng được không? [thinking]
+jay: Yes. Customers who wish to do so can pay over twelve months. | Được ạ. Khách nào muốn thì có thể trả trong mười hai tháng. [happy]
+
+#recall
+? Trả lời bằng tiếng Anh, dùng [[so]]: Tàu có đến đúng giờ không? — Tôi nghĩ là có. => I think so. | Tôi nghĩ là có.
+? Nói bằng tiếng Anh, không lặp động từ: Tôi không đi được, nhưng chồng tôi thì đi được. => I can't go, but my husband can. | Tôi không đi được, nhưng chồng tôi thì đi được.
+
+#recap
+> Tránh lặp bằng từ thay thế: [[one]], [[ones]] cho danh từ, [[so]], [[not]] cho cả mệnh đề, [[do so]] khi trang trọng, [[that of]] khi so sánh. Hoặc tỉnh lược: giữ trợ động từ, giữ [[to]], bỏ phần người nghe đã biết.
+
+#practice
+fill: I don't like this jacket. Can I try the black ___? | one* / it / ones || Danh từ đếm được số ít → one.
+fill: Is the shop open on Sunday? — I'm afraid ___. | not* / no / don't || I'm afraid not = e là không.
+fill: The salary here is higher than ___ of my last job. | that* / this / it || that of = cái… của….
+fill: She said she would call, and she ___. | did* / called it / was || Trợ động từ thay cho phần đã nói.
+fix: Will it snow? — I don't hope so. | Will it snow? — I hope not.* / Will it snow? — I hope no. / Will it snow? — I not hope so. || hope → I hope not.
+transform: Viết lại, tránh lặp: | The rooms of this hotel are bigger than the rooms of that hotel. >> The rooms of this hotel are bigger than those of that hotel.* / The rooms of this hotel are bigger than that of that hotel. / The rooms of this hotel are bigger than ones of that hotel. || Số nhiều → those of.
+choice: “Can you help me tomorrow?” Câu trả lời nào tự nhiên? | I'd love to, but I'm busy.* / I'd love, but I'm busy. / I'd love it to, but I'm busy. || Giữ to, bỏ động từ: I'd love to.
+type: Do you think she'll pass? — I hope ___. | so || I hope so = mong là có.
+order: The / population / of / Tokyo / is / larger / than / that / of / London. | Dân số Tokyo đông hơn dân số London.
+listen: I don't like this phone. Can I see the red one? | I don't like this phone. Can I see the red one?* / I don't like this phone. Can I see the black one? / I don't like these phones. Can I see the red ones? || Nghe the red one.

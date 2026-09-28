@@ -1,0 +1,71 @@
+=== should-have
+sum: Tiếc nuối, trách móc về chuyện đã qua (“lẽ ra”): should have + V3 = lẽ ra nên, nhưng đã không (We should have left earlier); shouldn't have + V3 = lẽ ra không nên, nhưng đã làm (I shouldn't have stopped for coffee); could have + V3 = lẽ ra đã có thể (You could have told me!). You should have seen…! = tiếc là bạn không thấy. Needn't have + V3 = đã làm, hóa ra không cần (We needn't have hurried) ≠ didn't need to + V = không cần nên không làm. Khi nói: should've, could've (đừng viết should of).
+form: should have + V3 = lẽ ra nên | We should have left earlier.
+form: shouldn't have + V3 = lẽ ra không nên | I shouldn't have said that.
+form: could have + V3 = lẽ ra đã có thể | You could have called me!
+form: needn't have + V3 = đã làm mà hóa ra không cần | We needn't have hurried.
+cast: ana nam
+bg: train
+words: should, early, hurry, timetable, least, win
+gloss: needn't
+
+#hook
+ana: The train left five minutes ago! We should have left home earlier. | Tàu chạy năm phút trước rồi! Lẽ ra mình nên đi sớm hơn. [sad]
+nam: I know. I shouldn't have stopped for coffee. | Tôi biết. Lẽ ra tôi không nên dừng lại mua cà phê. [shy]
+ana: You could have told me the right time! | Anh đã có thể nói đúng giờ cho em biết mà! [angry]
+nam: Sorry. I thought it left at ten. | Xin lỗi. Tôi cứ tưởng mười giờ tàu mới chạy. [sad]
+> Nói về chuyện đã qua, không thay đổi được nữa. [[We should have left earlier]]: lẽ ra nên đi sớm, nhưng đã không. [[I shouldn't have stopped]]: lẽ ra không nên dừng, nhưng đã dừng. [[You could have told me]]: lẽ ra đã có thể nói, nhưng lại không nói.
+
+#form
+th: Mẫu | Nghĩa | Thực tế đã xảy ra
+tb: should have + V3 | lẽ ra nên | đã không làm
+tb: shouldn't have + V3 | lẽ ra không nên | đã làm
+tb: could have + V3 | lẽ ra đã có thể | đã không làm
+> Cả ba đều nói ngược với chuyện đã xảy ra. Người Việt nói “lẽ ra”, người Anh dùng động từ khuyết thiếu, cộng [[have]] và phân từ.
+
+#examples
+- You {should have seen|k} his face! | Tiếc là bạn không thấy mặt anh ấy lúc đó!
+- I {shouldn't have eaten|n} so much. | Lẽ ra tôi không nên ăn nhiều thế.
+- She {could have won|k}, but she fell near the end. | Lẽ ra cô ấy đã thắng, nhưng lại ngã gần đích.
+- They {should have asked|k} for help. | Lẽ ra họ nên nhờ giúp đỡ.
+> [[You should have seen his face!]] là câu rất đời thường: bạn không có mặt, và thật tiếc cho bạn, vì cảnh ấy rất đáng xem.
+
+#contrast
+vs: We needn't have hurried. | Hóa ra chúng tôi không cần vội. || đã vội, nhưng không cần
+vs: We didn't need to hurry. | Chúng tôi không cần vội. || không cần, nên đã không vội
+> [[Needn't have hurried]]: đã vội rồi, sau đó mới biết là không cần. [[Didn't need to hurry]]: biết trước là không cần, nên đã không vội. Trong tiếng Anh Mỹ, [[needn't]] khá trang trọng; người ta hay nói [[We didn't have to hurry after all]].
+
+#pronunciation
+pron: should have | should've | ˈʃʊdəv
+pron: could have | could've | ˈkʊdəv
+> Khi nói, [[should have]] đọc lướt thành [[should've]]. Đừng vì nghe giống mà viết thành [[should of]]: viết đúng luôn là [[should have]].
++ You should've told me. | Lẽ ra bạn phải nói với tôi.
+
+#mistakes
+x: You should have tell me. => You should have told me. | Lẽ ra bạn nên nói với tôi. >> Sau [[should have]] là phân từ: [[told]].
+x: I should studied harder. => I should have studied harder. | Lẽ ra tôi nên học chăm hơn. >> Cần có [[have]]: [[should have studied]].
+x: We needn't have to hurry. => We needn't have hurried. | Hóa ra chúng tôi không cần vội. >> [[Needn't have]] cộng phân từ.
+
+#dialogue
+nam: The next train is in an hour. | Một tiếng nữa mới có chuyến tiếp theo. [neutral]
+ana: Well, we needn't have run all the way here. | Thế là mình chạy bở hơi tai đến đây cũng bằng thừa. [tired]
+nam: At least I could have finished my coffee! | Biết thế tôi đã uống xong cốc cà phê! [happy]
+ana: Next time, you should check the timetable. | Lần sau anh nhớ xem lịch tàu nhé. [happy point]
+
+#recall
+? Nói bằng tiếng Anh: Lẽ ra tôi nên mang ô. => I should have brought an umbrella. | Lẽ ra tôi nên mang ô.
+? Nói bằng tiếng Anh: Lẽ ra bạn không nên nói với cô ấy. => You shouldn't have told her. | Lẽ ra bạn không nên nói với cô ấy.
+
+#recap
+> [[Should have]]: lẽ ra nên, nhưng đã không. [[Shouldn't have]]: lẽ ra không nên, nhưng đã làm. [[Could have]]: lẽ ra đã có thể. Và [[needn't have]]: đã làm, nhưng hóa ra không cần.
+
+#practice
+fill: I failed the test. I ___ studied harder. | should have* / should / must have || Tiếc nuối → should have.
+fill: You ___ called me. I would have helped! | could have* / can / must || Lẽ ra đã có thể → could have.
+fill: I feel sick. I ___ eaten so much cake. | shouldn't have* / should have / mustn't || Lẽ ra không nên → shouldn't have.
+fix: She should have came earlier. | She should have come earlier.* / She should came earlier. / She should has come earlier. || Should have + phân từ.
+contrast: I brought an umbrella, but it didn't rain. I ___ brought it. | needn't have* / didn't need to || Đã mang, hóa ra không cần → needn't have.
+choice: “You should have seen his face!” nghĩa là: | Tiếc là bạn không thấy mặt anh ấy lúc đó* / Bạn phải nhìn mặt anh ấy ngay / Bạn đã nhìn thấy mặt anh ấy || Should have seen = tiếc là không thấy.
+type: They should have ___ for help. (ask) | asked || Should have + phân từ.
+order: We / should / have / left / home / earlier. | Lẽ ra mình nên đi sớm hơn.
+listen: I shouldn't have eaten so much. | I shouldn't have eaten so much.* / I should have eaten so much. / I shouldn't eat so much. || Nghe shouldn't have eaten.

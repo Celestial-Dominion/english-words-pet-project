@@ -1,0 +1,68 @@
+=== superlatives
+sum: So sánh nhất: the + tính từ ngắn + -est (the tallest, the biggest, the easiest); the most + tính từ dài (the most beautiful). Bất quy tắc: the best, the worst, the farthest. Luôn có the. Sau đó: in + nơi chốn / nhóm (the tallest in my class), of + khoảng thời gian (the best day of my life). One of the + so sánh nhất + danh từ số nhiều. The best … I've ever… = … nhất từng…
+form: the + tính từ ngắn + est | the tallest · the biggest
+form: the most + tính từ dài | the most beautiful
+form: the best · the worst · the farthest | bất quy tắc
+form: in + nơi chốn · one of the + số nhiều | the tallest in the class · one of the best students
+cast: mr-ross zoe sam
+bg: stage
+prop: microphone x=800 back
+words: long, high, big, popular, world, river
+gloss: popular, whale, modest
+
+#hook
+mr-ross: Welcome to the quiz! First question: what's the longest river in the world? | Chào mừng đến với cuộc thi! Câu hỏi đầu tiên: con sông dài nhất thế giới là sông nào? [happy explain]
+zoe: The Nile! | Sông Nile! [happy]
+mr-ross: Correct! Next: what's the biggest animal in the world? | Chính xác! Câu tiếp: con vật to nhất thế giới là con gì? [happy]
+sam: The blue whale! | Cá voi xanh! [happy cheer]
+> So sánh nhất có hai phần: [[the]], và tính từ thêm [[est]]. [[The longest]], [[the biggest]]. Tiếng Việt nói “nhất” ở cuối, tiếng Anh đặt [[the]] ở đầu và không bao giờ bỏ nó.
+
+#form
+th: Tính từ | So sánh hơn | So sánh nhất
+tb: tall | taller | the tallest
+tb: big | bigger | the biggest
+tb: easy | easier | the easiest
+tb: beautiful | more beautiful | the most beautiful
+tb: good · bad | better · worse | the best · the worst
+> Chính tả giống hệt so sánh hơn: gấp đôi phụ âm trong [[biggest]], đổi [[y]] thành [[iest]] trong [[easiest]]. Tính từ dài dùng [[the most]]. Và hai dạng quen thuộc nhất: [[the best]], [[the worst]].
+f: [the] + tính từ-est · most tính từ + danh từ + [in] + nơi chốn, nhóm
+> Muốn nói nhất ở đâu, dùng [[in]] cộng nơi chốn hoặc nhóm người: [[in the world]], [[in my class]], [[in the family]].
+- She's {the tallest|k} girl {in|k} my class. | Cô ấy là bạn gái cao nhất lớp tôi.
+- It was {the best|k} day {of|k} my life! | Đó là ngày tuyệt nhất đời tôi!
+> Còn với một khoảng thời gian, như “đời tôi”, “năm nay”, thì dùng [[of]]: [[the best day of my life]].
+
+#real
+- This is {the best|k} pizza I've ever eaten! | Đây là chiếc pizza ngon nhất tôi từng ăn!
+- She's one of {the most popular|k} singers in Korea. | Cô ấy là một trong những ca sĩ nổi tiếng nhất Hàn Quốc.
+> Hai mẫu câu rất đời thường. [[The best … I've ever eaten]]: ngon nhất từng ăn. Và [[one of the …]]: “một trong những”, nên danh từ phía sau phải ở số nhiều: [[singers]].
+
+#mistakes
+x: He is the most tallest in my family. => He is the tallest in my family. | Anh ấy cao nhất nhà tôi. >> Đã có [[est]] thì không thêm [[most]].
+x: She is best student in the class. => She is the best student in the class. | Cô ấy là học sinh giỏi nhất lớp. >> So sánh nhất luôn có [[the]].
+x: It's the biggest city of Vietnam. => It's the biggest city in Vietnam. | Đó là thành phố lớn nhất Việt Nam. >> Nơi chốn thì dùng [[in]].
+x: He's one of the best player in the team. => He's one of the best players on the team. | Anh ấy là một trong những cầu thủ giỏi nhất đội. >> Sau [[one of the]] là danh từ số nhiều: [[players]].
+
+#dialogue
+mr-ross: Last question! Who's the youngest person here today? | Câu hỏi cuối! Ai là người trẻ nhất ở đây hôm nay? [happy]
+zoe: That's easy. It's Sam! He's the youngest. | Dễ quá. Sam đấy ạ! Bạn ấy trẻ nhất. [happy point]
+sam: Yes, but I'm the best player! | Đúng, nhưng tớ là người chơi giỏi nhất! [happy cheer]
+mr-ross: And the most modest! | Và cũng khiêm tốn nhất nữa! [happy]
+> Câu cuối là một câu đùa: [[the most modest]] nghĩa là khiêm tốn nhất, ngay sau khi Sam vừa tự khen mình.
+
+#recall
+? Nói bằng tiếng Anh: Đây là ngày nóng nhất trong năm. => This is the hottest day of the year. | Đây là ngày nóng nhất trong năm.
+? Nói bằng tiếng Anh: Anh ấy là người vui tính nhất nhà tôi. => He's the funniest person in my family. | Anh ấy là người vui tính nhất nhà tôi.
+
+#recap
+> Bài học có ba điều. Luôn có [[the]]. Tính từ ngắn thêm [[est]], tính từ dài dùng [[most]]. Rồi [[in]] cho nơi chốn, [[of]] cho khoảng thời gian, như [[the best day of my life]].
+
+#practice
+type: Mount Everest is ___ (high) mountain in the world. | the highest || The + high + est.
+type: This is ___ (easy) question on the test. | the easiest || Y → iest.
+fill: She's the ___ singer in Vietnam. | most famous* / famousest / more famous || Tính từ dài → the most famous.
+fill: It's the biggest city ___ the country. | in* / of / at || Nơi chốn → in.
+fix: It was the most happiest day of my life. | It was the happiest day of my life.* / It was the most happy day in my life. / It was happiest day of my life. || The + happiest, không thêm most.
+choice: “one of the best …” đi với: | students* / student / a student || One of the + danh từ số nhiều.
+order: This / is / the / best / pizza / I've / ever / eaten! | Đây là chiếc pizza ngon nhất tôi từng ăn!
+listen: It was the best day of my life! | It was the best day of my life!* / It was a good day in my life. / It was the worst day of my life! || Nghe the best.
+natural: She's the tallest girl in my class.* / She's the tallest girl of my class. || Nhóm, nơi chốn → in.

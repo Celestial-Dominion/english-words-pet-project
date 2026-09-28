@@ -1,0 +1,66 @@
+=== reduced-relatives
+sum: Rút gọn mệnh đề quan hệ bằng phân từ. V-ing thay cho who / which + động từ chủ động (thường là đang diễn ra hay thường xuyên): The man standing next to the door (= who is standing). V3 thay cho who / which + be + V3 (bị động): a car made in Korea (= which was made). Cụm giới từ cũng được: the woman in the red dress. Việc làm một lần, đã xong trong quá khứ thì giữ mệnh đề đầy đủ: the man who called you (the man calling you = người đang gọi). Không lặp chủ ngữ bằng they, it.
+form: danh từ + V-ing (= who / which + động từ chủ động) | The man standing there is my boss.
+form: danh từ + V3 (= who / which + be + V3) | a car made in Japan
+form: danh từ + cụm giới từ | the woman in the red dress
+form: việc một lần đã xong → giữ mệnh đề đầy đủ | the man who called you
+cast: mia nam
+bg: street
+words: stand, park, electric, cousin, cheat, invite
+gloss: cheating
+
+#hook
+mia: Who's the man standing next to the door? | Người đàn ông đứng cạnh cửa là ai thế? [thinking point]
+nam: That's our new manager. The woman talking to him is his wife. | Đó là quản lý mới của chúng ta. Người phụ nữ đang nói chuyện với anh ấy là vợ anh ấy. [explain]
+mia: Oh! And the car parked outside, is it his? | Ồ! Thế chiếc xe đỗ bên ngoài là của anh ấy à? [surprised]
+nam: Yes. It's an electric car made in Korea. | Đúng. Đó là xe điện sản xuất ở Hàn Quốc. [explain]
+> [[The man standing next to the door]]: người đàn ông đang đứng cạnh cửa, rút gọn từ [[who is standing]]. [[The car parked outside]], [[a car made in Korea]]: rút gọn từ [[which is parked]], [[which was made]]. Mệnh đề ngắn lại mà nghĩa không đổi.
+
+#form
+th: Đầy đủ | Rút gọn
+tb: the man who is standing there | the man standing there
+tb: people who live near here | people living near here
+tb: a car which was made in Japan | a car made in Japan
+tb: the photos which were taken at the party | the photos taken at the party
+> Chủ động thì đổi động từ thành [[ing]]. Bị động thì bỏ [[which was]], giữ lại phân từ. Cách rút gọn này rất phổ biến, cả khi nói lẫn khi viết.
+
+#examples
+- Anyone {wanting|k} to join should call me. | Ai muốn tham gia thì gọi cho tôi.
+- The books {written|k} by her are very popular. | Những cuốn sách do bà ấy viết rất được yêu thích.
+- There's a bus {leaving|k} in five minutes. | Có một chuyến xe buýt khởi hành trong năm phút nữa.
+- Students {caught|k} cheating will fail the test. | Học sinh bị bắt gặp gian lận sẽ bị đánh trượt.
+> Câu đầu thú vị: [[want]] vốn không dùng tiếp diễn, nhưng trong mệnh đề rút gọn thì [[anyone wanting to join]] hoàn toàn tự nhiên.
+
+#contrast
+vs: The man who called you is my brother. | Người đàn ông đã gọi cho bạn là anh tôi. || một lần, đã xong: giữ mệnh đề đầy đủ
+vs: The man calling you is my brother. | Người đang gọi cho bạn là anh tôi. || -ing: đang diễn ra
+> Cẩn thận: dạng [[ing]] thường mang nghĩa đang diễn ra, hoặc thường xuyên. Với một việc làm một lần và đã xong, như một cuộc gọi hôm qua, hãy giữ mệnh đề đầy đủ: [[the man who called you]].
+
+#mistakes
+x: The girl sits next to me is my sister. => The girl sitting next to me is my sister. | Cô gái ngồi cạnh tôi là em gái tôi. >> Rút gọn chủ động thì dùng [[ing]]: [[sitting]].
+x: I bought a phone making in Korea. => I bought a phone made in Korea. | Tôi mua một chiếc điện thoại sản xuất ở Hàn Quốc. >> Điện thoại được làm ra: nghĩa bị động, dùng [[made]].
+x: The people invited to the party they were all friends. => The people invited to the party were all friends. | Những người được mời dự tiệc đều là bạn bè. >> Không lặp chủ ngữ bằng [[they]].
+
+#dialogue
+mia: Do you know anyone working at his old company? | Anh có quen ai làm ở công ty cũ của anh ấy không? [thinking]
+nam: Yes, my cousin. She says he's a manager loved by everyone. | Có, em họ tôi. Cô ấy bảo anh ấy là người quản lý được mọi người quý mến. [happy]
+mia: That's good news for us! | Tin tốt cho chúng ta đấy! [happy]
+nam: Let's go and say hello. | Mình ra chào anh ấy đi. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Người phụ nữ mặc váy đỏ là cô giáo tôi. => The woman wearing a red dress is my teacher. | Người phụ nữ mặc váy đỏ là cô giáo tôi.
+? Nói bằng tiếng Anh: Những bức ảnh chụp ở Huế rất đẹp. => The photos taken in Hue are beautiful. | Những bức ảnh chụp ở Huế rất đẹp.
+
+#recap
+> Rút gọn mệnh đề quan hệ: chủ động thì dùng [[ing]], như [[the man standing there]]. Bị động thì dùng phân từ, như [[a car made in Japan]]. Còn việc làm một lần đã xong trong quá khứ thì giữ nguyên mệnh đề đầy đủ.
+
+#practice
+fill: The woman ___ to Tom is his mother. | talking* / talks / talked || Đang nói chuyện (chủ động) → talking.
+fill: I love the photos ___ at your wedding. | taken* / taking / take || Ảnh được chụp (bị động) → taken.
+fill: Anyone ___ to come is welcome. | wanting* / wants / wanted || Chủ động → wanting.
+fix: The bus leaves at eight is always full. | The bus leaving at eight is always full.* / The bus left at eight is always full. / The bus leave at eight is always full. || Chủ động → leaving.
+transform: Rút gọn mệnh đề quan hệ: | The houses which were built last year are expensive. >> The houses built last year are expensive.* / The houses building last year are expensive. / The houses were built last year are expensive. || Bị động → built.
+choice: “the man calling you” nghĩa là: | người đang gọi cho bạn* / người đã gọi cho bạn hôm qua / người bạn sẽ gọi || -ing → đang diễn ra.
+type: I bought a phone ___ in Korea. (make) | made || Bị động → made.
+order: The / man / standing / next / to / the / door / is / our / manager. | Người đàn ông đứng cạnh cửa là quản lý của chúng ta.
+listen: There's a bus leaving in five minutes. | There's a bus leaving in five minutes.* / There's a bus leaving in fifteen minutes. / The bus left five minutes ago. || Nghe leaving in five minutes.

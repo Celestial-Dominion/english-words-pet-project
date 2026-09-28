@@ -141,3 +141,53 @@ body.studying #bottom-nav {
     width: 100%;
   }
 }
+
+/* ---- Ngữ pháp (components/grammar): bảng giảng + transcript ---- */
+.g-hi {
+  color: var(--primary);
+  text-decoration: underline;
+  text-decoration-thickness: 0.09em;
+  text-underline-offset: 0.2em;
+}
+.g-hi-board {
+  color: #1d4ed8;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.18em;
+}
+.g-cue {
+  display: inline-block;
+  animation: gCue 0.9s ease-out;
+  box-shadow: 0 0 0 0.12em rgb(245 158 11 / 0.9);
+}
+@keyframes gCue {
+  0% { transform: scale(1); }
+  30% { transform: scale(1.14); }
+  100% { transform: scale(1); }
+}
+.g-in {
+  animation: gIn 0.45s ease-out both;
+}
+@keyframes gIn {
+  from { opacity: 0; transform: translateY(0.6em); }
+  to { opacity: 1; transform: none; }
+}
+.g-pop {
+  animation: gPop 0.42s cubic-bezier(0.2, 1.4, 0.4, 1) both;
+}
+@keyframes gPop {
+  from { opacity: 0; transform: scale(0.6); }
+  to { opacity: 1; transform: none; }
+}
+.g-strike {
+  text-decoration: line-through;
+  text-decoration-color: rgb(220 38 38 / 0.85);
+  text-decoration-thickness: 0.08em;
+}
+/* Trục thời gian: khoảng "tiếp diễn" vẽ gợn sóng */
+.g-wave {
+  background-image: repeating-linear-gradient(120deg, currentColor 0 0.25em, transparent 0.25em 0.5em);
+}
+@media (prefers-reduced-motion: reduce) {
+  .g-cue, .g-in, .g-pop { animation: none; }
+}

@@ -1,0 +1,75 @@
+=== articles-general
+sum: Nói chung về cả một loại: danh từ số nhiều hoặc không đếm được, KHÔNG có the (I love dogs. Milk is good for you. Life is beautiful). Nói về cái cụ thể mà người nghe biết là cái nào: the (the dog from the cafe, the milk in the fridge). Nhiều cụm cố định không có mạo từ: go to school / work / bed, at home, by bus, have lunch, play football — nhưng play the piano.
+form: nói chung → không mạo từ | I love dogs. · Milk is good for you.
+form: cái cụ thể → the | the dog from the cafe
+form: go to school · at home · by bus · have lunch | cụm cố định, không mạo từ
+form: play football · play the piano | thể thao / nhạc cụ
+cast: mia ben
+bg: street
+prop: puppy x=1080
+words: dog, cat, life, music, piano, lazy
+gloss: fridge, puppy, friendly
+
+#hook
+mia: Oh, look at that puppy! I love dogs. | Ôi, nhìn con cún kia kìa! Tôi mê chó lắm. [happy point]
+ben: Me too. Is it your dog? | Tôi cũng thế. Chó của chị à? [happy]
+mia: No, it's the dog from the cafe. | Không, đó là con chó của quán cà phê. [explain @puppy]
+ben: Really? It's so cute! | Thật á? Dễ thương quá! [surprised]
+> [[I love dogs]]: chó nói chung, con chó nào cũng mê, nên không có [[the]]. [[The dog from the cafe]]: một con chó cụ thể, cả hai đều biết là con nào, nên có [[the]].
+
+#meaning
+vs: I like dogs. | Tôi thích chó. || chó nói chung → không the
+vs: I like the dog next door. | Tôi thích con chó nhà bên. || một con cụ thể → the
+> Người học tiếng Anh hay thêm [[the]] vào mọi chỗ. Hãy nhớ: nói chung về cả một loại thì dùng số nhiều, hoặc danh từ không đếm được, và bỏ [[the]]. Chỉ thêm [[the]] khi nói về cái cụ thể.
+- {Milk|k} is good for you. | Sữa tốt cho sức khỏe.
+- {Life|k} is beautiful. | Cuộc sống thật đẹp.
+- {The milk|k} in the fridge is old. | Sữa trong tủ lạnh cũ rồi.
+
+#form
+th: Cụm cố định | Nghĩa
+tb: go to school · go to work · go to bed | đi học · đi làm · đi ngủ
+tb: at home · at school · at work | ở nhà · ở trường · ở chỗ làm
+tb: by bus · by car · by train | bằng xe buýt · ô tô · tàu
+tb: have breakfast · have lunch | ăn sáng · ăn trưa
+> Những cụm quen thuộc này không có mạo từ: [[go to school]], [[at home]], [[by bus]], [[have lunch]]. Học thuộc cả cụm, và đừng chen [[the]] vào giữa.
+
+#contrast
+vs: I play football. | Tôi chơi bóng đá. || thể thao → không mạo từ
+vs: I play the piano. | Tôi chơi đàn piano. || nhạc cụ → the
+> Cùng là [[play]], nhưng chơi thể thao thì không có mạo từ, còn chơi nhạc cụ thì có [[the]]: [[play the guitar]], [[play the piano]].
+
+#examples
+- {Cats|k} sleep a lot. | Mèo ngủ nhiều lắm.
+- I usually go to {work|k} by {bus|k}. | Tôi thường đi làm bằng xe buýt.
+- {The movie|k} we saw last night was great. | Bộ phim tối qua chúng ta xem hay thật.
+- She's {an|k} engineer. | Cô ấy là kỹ sư.
+
+#mistakes
+x: I like the cats. => I like cats. | Tôi thích mèo. >> Mèo nói chung, không có [[the]].
+x: The life is beautiful. => Life is beautiful. | Cuộc sống thật đẹp. >> Nói chung về cuộc sống, không có [[the]].
+x: I go to the school by the bus. => I go to school by bus. | Tôi đi học bằng xe buýt. >> [[Go to school]] và [[by bus]] là cụm cố định, không có mạo từ.
+
+#dialogue
+ben: Do you have a dog at home? | Nhà chị có nuôi chó không? [thinking]
+mia: No, I have two cats. The cats sleep all day! | Không, tôi nuôi hai con mèo. Hai đứa ấy ngủ cả ngày! [happy]
+ben: Cats are lazy. Dogs are better! | Mèo lười lắm. Chó vẫn hơn! [happy]
+mia: Hey! My cats aren't lazy. They're just tired! | Này! Mèo nhà tôi đâu có lười. Chúng chỉ mệt thôi! [angry]
+> [[Cats are lazy]] nói về loài mèo nói chung, nên không có [[the]]. Còn [[the cats]] là hai con mèo cụ thể của Mia.
+
+#recall
+? Nói bằng tiếng Anh: Tôi đi làm bằng xe buýt. => I go to work by bus. | Tôi đi làm bằng xe buýt.
+? Nói bằng tiếng Anh: Tôi thích âm nhạc. => I like music. | Tôi thích âm nhạc.
+
+#recap
+> Nói chung chung thì không mạo từ: [[I like dogs]], [[Life is beautiful]]. Cái cụ thể thì [[the]]. Còn [[go to school]], [[by bus]], [[at home]], hãy học thuộc cả cụm.
+
+#practice
+contrast: ___ are friendly animals. | Dogs* / The dogs || Nói về loài chó nói chung → không the.
+fill: ___ milk in the fridge is old. | The* / A / (không có gì) || Sữa cụ thể trong tủ lạnh → The.
+fill: She's ___ engineer. | an* / the / (không có gì) || Nghề nghiệp → an.
+fix: I go to the bed at eleven. | I go to bed at eleven.* / I go to a bed at eleven. / I go the bed at eleven. || Go to bed — không mạo từ.
+choice: Câu nào đúng? | Life is short.* / The life is short. / A life is short. || Nói chung → không the.
+type: I usually go to work ___ bus. | by || By bus — không mạo từ.
+order: I / play / the / piano. | Tôi chơi đàn piano.
+listen: Cats sleep a lot. | Cats sleep a lot.* / The cats sleep a lot. / Cats slept a lot. || Nghe cats — không có the.
+natural: I play football on Sundays.* / I play the football on Sundays. || Thể thao → không mạo từ.

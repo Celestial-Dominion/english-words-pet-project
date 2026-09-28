@@ -1,0 +1,69 @@
+=== used-to-would
+sum: Thói quen trong quá khứ. Used to + V: dùng cho cả hành động lặp lại lẫn TRẠNG THÁI (We used to live in this village. I used to have long hair). Would + V: CHỈ cho hành động lặp lại (Every summer, we would swim in the river), rất hợp khi kể chuyện hoài niệm, thường sau khi đã mở bằng used to hoặc một mốc thời gian. Không dùng would cho trạng thái (I would have long hair ✗), cho một lần duy nhất, hay khi có khoảng thời gian cụ thể — khi đó dùng quá khứ đơn. Would hay viết tắt: we'd.
+form: used to + V: hành động lặp lại và trạng thái | I used to have long hair.
+form: would + V: chỉ hành động lặp lại | We would swim in the river.
+form: would không dùng cho trạng thái | I used to have a dog (không nói I would have a dog)
+form: kể hoài niệm: mở bằng used to, tiếp bằng would | We used to… We'd…
+cast: lily grandma
+bg: village
+words: childhood, village, trouble, climb, neighbour, shout
+gloss: mango
+
+#hook
+lily: Grandma, what was your childhood like? | Bà ơi, hồi nhỏ bà sống thế nào ạ? [thinking]
+grandma: We used to live in this village. Every summer, we would swim in the river. | Hồi đó nhà bà sống ở làng này. Hè nào bà cũng ra sông tắm. [happy]
+lily: Did you have a TV? | Nhà bà có tivi không ạ? [thinking]
+grandma: No! In the evenings, my father would tell us stories. | Không! Tối đến, bố bà lại kể chuyện cho các con nghe. [happy]
+> [[We used to live in this village]]: trạng thái trong quá khứ, dùng [[used to]]. [[We would swim in the river]], [[my father would tell us stories]]: những hành động lặp đi lặp lại, dùng [[would]] được. Giọng kể nghe thật hoài niệm.
+
+#form
+th: Loại | used to | would
+tb: hành động lặp lại | ✓ We used to swim. | ✓ We would swim.
+tb: trạng thái | ✓ I used to have long hair. | ✗
+tb: một lần duy nhất | ✗ | ✗
+> [[Used to]] dùng được cho cả thói quen lẫn trạng thái. [[Would]] chỉ dùng cho hành động lặp lại. Và cả hai đều không dùng cho việc chỉ xảy ra một lần.
+
+#contrast
+vs: I used to have a dog. | Hồi trước tôi có nuôi một con chó. || trạng thái → chỉ used to
+vs: Every morning, I would walk the dog. | Sáng nào tôi cũng dắt chó đi dạo. || hành động lặp lại → would được
+> [[Have a dog]] là một trạng thái, nên không nói [[I would have a dog]]. Còn dắt chó đi dạo mỗi sáng là hành động lặp lại, nên dùng [[would]] rất tự nhiên.
+
+#examples
+- My grandfather {used to|k} be a teacher. | Ông tôi từng là giáo viên.
+- On Sundays, {we'd go|k} to the market together. | Chủ nhật nào chúng tôi cũng đi chợ cùng nhau.
+- When I was a student, I {would|k} study in the library every night. | Hồi sinh viên, tối nào tôi cũng học ở thư viện.
+- There {used to|k} be a big tree here. | Ngày xưa ở đây có một cái cây to.
+
+#natural
+rank: best | We used to spend summers here. We'd fish all day. | Ngày xưa chúng tôi hay nghỉ hè ở đây. Suốt ngày câu cá.
+rank: ok | We used to spend summers here. We used to fish all day. | Ngày xưa chúng tôi hay nghỉ hè ở đây. Chúng tôi hay câu cá cả ngày.
+> Khi kể chuyện hoài niệm, người bản ngữ thường mở đầu bằng [[used to]], rồi chuyển sang [[would]] để câu văn đỡ lặp và mượt hơn.
+
+#mistakes
+x: I would have long hair when I was young. => I used to have long hair when I was young. | Hồi trẻ tôi để tóc dài. >> Trạng thái thì chỉ dùng [[used to]].
+x: We would live in Hue for ten years. => We lived in Hue for ten years. | Chúng tôi sống ở Huế mười năm. >> Có khoảng thời gian cụ thể thì dùng quá khứ đơn.
+x: Last Sunday, we would go to the zoo. => Last Sunday, we went to the zoo. | Chủ nhật tuần trước chúng tôi đi sở thú. >> Một lần duy nhất: quá khứ đơn, không dùng [[would]].
+
+#dialogue
+lily: Grandma, did you use to get into trouble? | Bà ơi, hồi nhỏ bà có hay bị mắng không ạ? [happy]
+grandma: All the time! We'd climb the neighbors' trees and eat their mangoes. | Suốt ấy chứ! Bọn bà hay trèo cây nhà hàng xóm hái xoài ăn. [happy]
+lily: Did they get angry? | Họ có giận không ạ? [surprised]
+grandma: They would shout at us, but they never told our parents. | Họ hay quát bọn bà, nhưng chẳng bao giờ mách bố mẹ. [happy]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[would]]: Hồi nhỏ, chiều nào tôi cũng đá bóng với bạn. => When I was a kid, I would play football with my friends every afternoon. | Hồi nhỏ, chiều nào tôi cũng đá bóng với bạn.
+? Nói bằng tiếng Anh: Ngày xưa ở đây có một cái hồ. => There used to be a lake here. | Ngày xưa ở đây có một cái hồ.
+
+#recap
+> Thói quen trong quá khứ: [[used to]] dùng cho cả hành động lặp lại lẫn trạng thái. [[Would]] chỉ cho hành động lặp lại, và rất hợp khi kể chuyện hoài niệm. Một lần duy nhất, hay có khoảng thời gian cụ thể: dùng quá khứ đơn.
+
+#practice
+contrast: I ___ have a red bike when I was a kid. | used to* / would || Trạng thái (có xe) → used to.
+fill: Every weekend, my dad ___ take us fishing. | would* / will / is || Hành động lặp lại trong quá khứ → would.
+fill: There ___ be a cinema here, but now it's a bank. | used to* / would / was used to || Trạng thái → used to.
+fix: When I was young, I would be very shy. | When I was young, I used to be very shy.* / When I was young, I would been very shy. / When I was young, I use to be very shy. || Trạng thái (be shy) → used to.
+fix: Yesterday I would meet my old teacher. | Yesterday I met my old teacher.* / Yesterday I used to meet my old teacher. / Yesterday I would met my old teacher. || Một lần → quá khứ đơn.
+choice: Câu nào KHÔNG tự nhiên? | I would have a cat when I was ten.* / I used to have a cat when I was ten. / Every day, I would feed the cat. || Trạng thái (have a cat) không dùng would.
+type: My grandfather ___ to be a teacher. | used || Used to be.
+order: In / the / evenings, / my / father / would / tell / us / stories. | Tối đến, bố tôi lại kể chuyện cho chúng tôi nghe.
+listen: There used to be a big tree here. | There used to be a big tree here.* / There's a big tree here. / They used to see a big tree here. || Nghe there used to be.

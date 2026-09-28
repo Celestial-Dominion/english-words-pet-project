@@ -1,0 +1,72 @@
+=== ambiguity-control
+sum: Tránh câu mơ hồ — câu đúng ngữ pháp nhưng hiểu được hai cách. Đại từ chỉ hai người (Ms Tran told Anna she needs to leave early — ai về sớm?) → nêu rõ tên hoặc viết lại. Bổ ngữ lơ lửng (I saw the man with the telescope — ai cầm kính?) → đặt bổ ngữ sát từ nó bổ nghĩa (Using the telescope, I saw… / the man who had the telescope). So sánh (She likes tea more than Tom) → thêm trợ động từ: than Tom does. Phạm vi phủ định (I didn't go because it rained) → đưa lý do lên đầu: Because it rained, I didn't go. Cụm V-ing hai nghĩa (Visiting relatives can be boring) → Going to visit relatives… Nguyên tắc: đọc lại câu với con mắt người lạ.
+form: đại từ chỉ hai người → nêu rõ tên | Ms Tran is leaving early today.
+form: bổ ngữ đặt sát từ nó bổ nghĩa | Using the telescope, I saw the man.
+form: so sánh: thêm trợ động từ | She likes tea more than Tom does.
+form: phủ định + because → đưa lý do lên đầu | Because it rained, I didn't go.
+cast: leo linh
+bg: office
+words: ambiguous, telescope, relative, congratulate, message, discuss
+names: Tran, Anna, Mai, Tom, Ben
+
+#hook
+leo: Read this message from the boss: Ms Tran told Anna she needs to leave early. | Đọc tin nhắn của sếp này: Chị Trần bảo Anna là cô ấy cần về sớm. [confused]
+linh: Who needs to leave early? Ms Tran or Anna? | Ai cần về sớm? Chị Trần hay Anna? [thinking]
+leo: No idea! It should say: Ms Tran needs to leave early, and she told Anna. | Chịu! Lẽ ra phải viết: chị Trần cần về sớm, và chị ấy đã báo cho Anna. [explain]
+linh: Or even simpler: Ms Tran is leaving early today. | Hoặc đơn giản hơn: hôm nay chị Trần về sớm. [happy]
+> Câu gốc mơ hồ vì đại từ [[she]] có thể chỉ hai người. Cách sửa: nêu rõ tên, hoặc viết lại để chỉ còn một cách hiểu. Người viết biết mình định nói gì, nhưng người đọc thì không.
+
+#form
+th: Kiểu mơ hồ | Ví dụ | Cách sửa
+tb: đại từ hai người | Anna told Mai she was late. | nêu rõ tên
+tb: bổ ngữ lơ lửng | I saw the man with the telescope. | đặt sát từ nó bổ nghĩa
+tb: so sánh | She likes tea more than Tom. | thêm: than Tom does
+tb: phủ định + because | I didn't go because it rained. | đưa lý do lên đầu
+> Mỗi kiểu có một cách sửa riêng, nhưng cùng một mục tiêu: câu chỉ còn một cách hiểu. Khi nói, ngữ cảnh và giọng nói giúp người nghe; khi viết, chỉ còn con chữ.
+f: bổ ngữ + đặt sát + từ nó bổ nghĩa
+> Cụm bổ ngữ như [[with the telescope]], [[walking to school]] gắn vào từ đứng gần nó nhất. Đặt nó sát đúng từ mình muốn, câu hết mơ hồ.
+
+#examples
+- {Using the telescope|k}, I saw the man. | Tôi dùng kính viễn vọng và nhìn thấy người đàn ông.
+- I saw the man {who had the telescope|k}. | Tôi thấy người đàn ông đang cầm kính viễn vọng.
+- {Because it rained|k}, I didn't go. | Vì trời mưa nên tôi không đi.
+- Anna was late, so Mai {told her|k} to hurry. | Anna đến muộn, nên Mai bảo cô ấy nhanh lên.
+
+#contrast
+vs: She likes tea more than Tom does. | Cô ấy thích trà hơn Tom thích trà. || than Tom does: so hai người
+vs: She likes tea more than she likes Tom. | Cô ấy thích trà hơn là thích Tom. || than she likes Tom: so hai thứ
+> Câu [[She likes tea more than Tom]] có thể hiểu theo cả hai cách này. Thêm trợ động từ, hoặc nhắc lại động từ, là hết mơ hồ.
+
+#natural
+rank: best | Anna was late, so Mai called her. | Anna đến muộn, nên Mai gọi cho cô ấy.
+rank: odd | Anna called Mai because she was late.
+> Câu thứ hai: ai đến muộn? Có thể là [[Anna]], có thể là Mai, người nghe phải đoán. Câu đầu chỉ có một cách hiểu.
+
+#mistakes
+x: I saw a dog walking to school. => Walking to school, I saw a dog. | Trên đường đi bộ đến trường, tôi thấy một con chó. >> Câu gốc có thể hiểu là con chó đang đi học. Đặt [[walking to school]] sát chủ ngữ [[I]].
+x: Tom told Ben that he had won the prize. => Tom congratulated Ben on winning the prize. | Tom chúc mừng Ben vì đã đoạt giải. >> Câu gốc không rõ ai đoạt giải. Viết lại để chỉ còn một cách hiểu.
+x: Visiting relatives can be boring. => Going to visit relatives can be boring. | Đi thăm họ hàng có thể rất chán. >> [[Visiting relatives]] vừa có thể là “việc đi thăm họ hàng”, vừa có thể là “họ hàng đến chơi”. Viết rõ: [[Going to visit relatives]].
+
+#dialogue
+linh: The same email says: we discussed the problem with the manager. | Email đó còn viết: chúng tôi đã bàn vấn đề với quản lý. [thinking]
+leo: Did they discuss it with the manager, or discuss the manager's problem? | Họ bàn với quản lý, hay bàn về vấn đề của quản lý? [confused]
+linh: Exactly! One small phrase, two meanings. | Đúng thế! Một cụm nhỏ, hai nghĩa. [happy]
+leo: I'll ask. Clear writing saves a lot of time. | Tôi sẽ hỏi lại. Viết rõ ràng tiết kiệm được bao nhiêu thời gian. [explain]
+
+#recall
+? Viết cho rõ bằng tiếng Anh, so hai người: Anh ấy thích cà phê hơn vợ anh ấy thích cà phê. => He likes coffee more than his wife does. | Anh ấy thích cà phê hơn vợ anh ấy thích cà phê.
+? Viết cho khỏi mơ hồ, đưa lý do lên đầu: Vì trời lạnh nên chúng tôi không ra ngoài. => Because it was cold, we didn't go out. | Vì trời lạnh nên chúng tôi không ra ngoài.
+
+#recap
+> Tránh mơ hồ: đại từ chỉ hai người thì nêu rõ tên; bổ ngữ đặt sát từ nó bổ nghĩa; so sánh thì thêm trợ động từ, như [[than Tom does]]; phủ định đi với [[because]] thì đưa lý do lên đầu. Và luôn đọc lại câu với con mắt của người lạ.
+
+#practice
+choice: “I saw the man with the telescope.” Vì sao câu này mơ hồ? | Không rõ ai cầm kính viễn vọng* / Thiếu động từ / Sai thì || with the telescope có thể gắn với I hoặc the man.
+choice: Câu nào rõ nghĩa nhất? | Anna was late, so Mai called her.* / Anna called Mai because she was late. / She called her because she was late. || Chỉ một cách hiểu.
+fill: He runs faster than his brother ___. | does* / is / has || Thêm trợ động từ: than his brother does.
+fill: ___ it was raining, we didn't go out. | Because* / Although / Unless || Đưa lý do lên đầu cho rõ.
+fix: Walking home, the rain started. | While I was walking home, the rain started.* / Walking home, the rain was starting. / The rain walking home started. || Chủ ngữ ngầm phải rõ.
+transform: Viết lại cho rõ, với ý “việc đi thăm họ hàng”: | Visiting relatives can be boring. >> Going to visit relatives can be boring.* / Relatives visiting can be boring. / Visiting can be relatives boring. || Nêu rõ: going to visit.
+type: She likes tea more than Tom ___. (so hai người) | does || than Tom does.
+order: He / speaks / English / better / than / his / sister / does. | Anh ấy nói tiếng Anh giỏi hơn chị gái anh ấy.
+listen: Who needs to leave early? Ms Tran or Anna? | Who needs to leave early? Ms Tran or Anna?* / Who needs to leave early? Ms Tran or Mai? / Who wants to leave early? Ms Tran or Anna? || Nghe needs to leave early … Anna.

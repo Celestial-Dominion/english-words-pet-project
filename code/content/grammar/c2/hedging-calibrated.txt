@@ -1,0 +1,74 @@
+=== hedging-calibrated
+sum: Rào đón đúng mức: lời khẳng định phải tương xứng với bằng chứng. Thang động từ: prove / demonstrate (rất chắc) → show / strongly indicate (khá chắc) → suggest (vừa phải) → may indicate / could suggest (dè dặt) → It is not inconceivable that… (rất dè dặt, phủ định kép). Thang lượng từ: all → most → many → some → a few; tính từ, trạng từ: clearly / certainly → likely / probably → possibly / perhaps. Biết tăng (clearly, undoubtedly) khi bằng chứng mạnh và giảm (may, possibly) khi bằng chứng mỏng. Không trộn từ tăng mạnh với từ dè dặt (clearly prove… might possibly ✗); tăng quá mức nghe như quảng cáo. Kết quả nghiên cứu dùng hiện tại đơn (The results suggest…).
+form: prove → show → indicate → suggest → may indicate | The results suggest a possible link.
+form: all → most → many → some → a few | Most participants felt better.
+form: It is not inconceivable that… = rất dè dặt | It is not inconceivable that prices will double.
+form: khẳng định tương xứng với bằng chứng | The findings strongly indicate a benefit.
+cast: ana dr-lee
+bg: hospital
+words: demonstrate, indicate, participant, finding, drug, patient
+
+#hook
+ana: Our data clearly prove that the new drug works. | Dữ liệu của chúng ta chứng minh rõ ràng thuốc mới có hiệu quả. [happy]
+dr-lee: With only twenty patients? I'd say they suggest it may work. | Chỉ với hai mươi bệnh nhân ư? Tôi sẽ nói là dữ liệu cho thấy thuốc có thể có hiệu quả. [thinking]
+ana: But the results were very strong. | Nhưng kết quả rất mạnh mà. [confused]
+dr-lee: Then say they strongly indicate a benefit. Proof needs a much larger study. | Vậy hãy nói kết quả cho thấy rõ lợi ích. Muốn chứng minh thì cần một nghiên cứu lớn hơn nhiều. [explain]
+> Rào đón ở trình độ cao là chọn đúng mức độ. [[Prove]] mạnh nhất, [[strongly indicate]] khá mạnh, [[suggest]] vừa phải, [[may work]] dè dặt. Lời khẳng định phải tương xứng với bằng chứng.
+
+#form
+th: Mức độ | Cách nói
+tb: rất chắc | The data prove that…
+tb: khá chắc | The data strongly indicate that…
+tb: vừa phải | The data suggest that…
+tb: dè dặt | The data may indicate that…
+tb: rất dè dặt | It is not inconceivable that…
+> Mỗi bậc đi xuống là một lời hứa nhỏ hơn với người đọc. Dòng cuối là phủ định kép: không phải là không thể, tức là có khả năng, nhưng rất nhỏ.
+f: [clearly / probably / possibly] + động từ
+f2: [all / most / some] + danh từ
+> Trạng từ và lượng từ cũng là nấc chỉnh: [[clearly]] tăng, [[possibly]] giảm; [[all]] tuyệt đối, [[most]], [[some]] thận trọng hơn. Chỉnh nhiều nấc cùng lúc, nhưng cùng một hướng.
+
+#examples
+- The findings {strongly indicate|k} a link between diet and mood. | Kết quả cho thấy rõ mối liên hệ giữa ăn uống và tâm trạng.
+- {It is not inconceivable that|k} prices will double. | Không phải là không thể có chuyện giá tăng gấp đôi.
+- {Most|k} participants reported feeling better. | Phần lớn người tham gia cho biết họ thấy khỏe hơn.
+- These results {could suggest|k} a new approach. | Những kết quả này có thể gợi mở một hướng tiếp cận mới.
+
+#contrast
+vs: This clearly shows that the plan failed. | Điều này cho thấy rõ ràng kế hoạch đã thất bại. || tăng độ chắc: clearly shows
+vs: This may suggest that the plan failed. | Điều này có thể cho thấy kế hoạch đã thất bại. || giảm độ chắc: may suggest
+> Người viết giỏi vừa biết tăng, vừa biết giảm. Tăng khi bằng chứng mạnh, giảm khi bằng chứng còn mỏng.
+
+#natural
+rank: best | The results suggest that the method works. | Kết quả cho thấy phương pháp này có hiệu quả.
+rank: odd | The results undoubtedly prove beyond any doubt that the method works.
+> Tăng quá mức cũng là lỗi: [[undoubtedly prove beyond any doubt]] nghe như quảng cáo, không giống khoa học. Người đọc chuyên môn sẽ càng nghi ngờ.
+
+#mistakes
+x: The data clearly prove that the drug might possibly work. => The data suggest that the drug may work. | Dữ liệu cho thấy thuốc có thể có hiệu quả. >> Không trộn từ tăng mạnh [[clearly prove]] với từ dè dặt [[might possibly]]: câu tự mâu thuẫn.
+x: The results are suggesting that sleep matters. => The results suggest that sleep matters. | Kết quả cho thấy giấc ngủ rất quan trọng. >> Văn học thuật dùng hiện tại đơn cho kết quả: [[suggest]].
+x: All people enjoy music. => Most people enjoy music. | Phần lớn mọi người thích âm nhạc. >> Khái quát tuyệt đối rất dễ sai. Dùng [[most]], [[many]] cho an toàn.
+
+#dialogue
+ana: So how should I write the conclusion? | Vậy tôi nên viết phần kết luận thế nào? [thinking]
+dr-lee: Something like this: these findings indicate that the drug is likely to be effective. | Kiểu như: các kết quả này cho thấy thuốc nhiều khả năng có hiệu quả. [explain]
+ana: And then suggest a larger study? | Rồi đề xuất một nghiên cứu lớn hơn? [thinking]
+dr-lee: Exactly. That way, our claims match our evidence. | Chính xác. Như vậy, lời khẳng định của chúng ta khớp với bằng chứng. [happy]
+
+#recall
+? Viết theo văn học thuật, ở mức vừa phải: Kết quả cho thấy có thể có mối liên hệ. => The results suggest a possible link. | Kết quả cho thấy có thể có mối liên hệ.
+? Viết thật dè dặt, dùng [[It is not inconceivable]]: Không phải là không thể có chuyện công ty đóng cửa. => It is not inconceivable that the company will close. | Không phải là không thể có chuyện công ty đóng cửa.
+
+#recap
+> Chọn đúng nấc: [[prove]], [[show]], [[indicate]], [[suggest]], [[may indicate]], và rất dè dặt thì [[It is not inconceivable that]]. Chỉnh cả lượng từ và trạng từ, nhưng cùng một hướng. Lời khẳng định phải tương xứng với bằng chứng: không nói quá, cũng không rào quá.
+
+#practice
+fill: With only ten participants, the results ___ that the method works. | suggest* / prove / demonstrate || Bằng chứng mỏng → suggest.
+fill: After fifty large studies, the evidence clearly ___ the link. | shows* / may suggest / might || Bằng chứng mạnh → clearly shows.
+fill: ___ participants said they felt better, but a few did not. | Most* / All / No || Phần lớn, không phải tất cả → Most.
+fix: The data clearly prove that the plan might possibly work. | The data suggest that the plan might work.* / The data clearly prove that the plan might possibly works. / The data proves clearly the plan possibly work. || Không trộn tăng mạnh với dè dặt.
+transform: Viết lại dè dặt hơn một bậc: | The results show a link. >> The results suggest a link.* / The results prove a link. / The results suggesting a link. || show → suggest.
+choice: Câu nào dè dặt nhất? | It is not inconceivable that prices will fall.* / Prices will clearly fall. / Prices are likely to fall. || not inconceivable = rất dè dặt.
+choice: Nghiên cứu nhỏ, hai mươi người. Câu kết luận nào hợp lý? | The findings may indicate a benefit.* / The findings prove a benefit. / The findings undoubtedly demonstrate a benefit. || Bằng chứng mỏng → may indicate.
+type: These results ___ suggest a new approach. (có thể) | could / may / might || could / may / might suggest = dè dặt.
+order: The / findings / strongly / indicate / a / link / between / diet / and / mood. | Kết quả cho thấy rõ mối liên hệ giữa ăn uống và tâm trạng.
+listen: With only twenty patients? I'd say they suggest it may work. | With only twenty patients? I'd say they suggest it may work.* / With only twenty patients? I'd say they prove it works. / With twenty patients, they suggest it may work. || Nghe suggest it may work.

@@ -1,0 +1,71 @@
+=== possessive-pronouns
+sum: Đại từ sở hữu thay cho cả cụm “của ai + danh từ”, đứng một mình, không có danh từ theo sau: mine, yours, his, hers, ours, theirs (This bag is mine = This is my bag). Hỏi chủ: Whose…? — It's mine. Không có dấu ’ (yours, hers, không phải your's, her's). A friend of mine = một người bạn của tôi.
+form: my / your / his / her / our / their + danh từ | This is my bag.
+form: mine / yours / his / hers / ours / theirs (đứng một mình) | This bag is mine.
+form: Whose + danh từ + is this? — It's mine. | hỏi của ai
+form: a friend of mine | một người bạn của tôi
+cast: ms-khan lily sam
+bg: classroom
+prop: notebook x=800
+words: mine, yours, hers, ours, theirs, whose, umbrella
+gloss: umbrella
+
+#hook
+ms-khan: Whose notebook is this? | Quyển vở này của ai? [thinking @notebook]
+lily: It's not mine. Mine is blue. | Không phải của em ạ. Của em màu xanh. [shake]
+sam: Is it Tom's? | Của Tom à? [thinking]
+ms-khan: No, it isn't his. His name isn't on it. | Không, không phải của bạn ấy. Không có tên bạn ấy trên đó. [explain]
+lily: Oh wait, it's yours, Sam! Look, there's a dinosaur on it. | À khoan, của cậu đấy Sam! Nhìn này, có hình khủng long. [happy point]
+> [[Mine]], [[yours]], [[his]]: “của tôi”, “của bạn”, “của anh ấy”, đứng một mình. Chúng thay cho cả một cụm. [[Mine is blue]] nghĩa là quyển vở của em màu xanh.
+
+#form
+th: Tính từ sở hữu + danh từ | Đại từ sở hữu (đứng một mình)
+tb: my bag | mine
+tb: your bag | yours
+tb: his bag | his
+tb: her bag | hers
+tb: our bag · their bag | ours · theirs
+> Cột trái cần một danh từ theo sau: [[my bag]]. Cột phải thì đứng một mình, vì danh từ đã được hiểu ngầm: [[mine]]. Riêng [[his]] giống nhau ở cả hai cột.
+vs: This is my bag. | Đây là túi của tôi. || my + danh từ
+vs: This bag is mine. | Túi này là của tôi. || mine đứng một mình
+> Hai câu cùng nghĩa, khác cấu trúc. Đã có [[mine]] thì không thêm danh từ phía sau.
+
+#examples
+- {Whose|q} umbrella is this? — It's {hers|k}. | Cái ô này của ai? — Của cô ấy.
+- Your house is bigger than {ours|k}. | Nhà bạn to hơn nhà chúng tôi.
+- These seats aren't {theirs|k}. | Mấy ghế này không phải của họ.
+- Is this pen {yours|k}? | Cây bút này của bạn à?
+
+#real
+- She's a friend {of mine|k}. | Cô ấy là một người bạn của tôi.
+> Một cách nói rất hay gặp: [[a friend of mine]], một người bạn của tôi. Người ta không nói [[a friend of me]], cũng hiếm khi nói [[a my friend]].
+
+#mistakes
+x: This book is my. => This book is mine. | Cuốn sách này là của tôi. >> Đứng một mình thì dùng [[mine]].
+x: Is this your's? => Is this yours? | Cái này của bạn à? >> Đại từ sở hữu không có dấu nháy: [[yours]], [[hers]], [[ours]].
+x: That bag is her. => That bag is hers. | Cái túi đó là của cô ấy. >> [[Her]] cần danh từ theo sau. Đứng một mình thì là [[hers]].
+x: Is this yours pen? => Is this your pen? | Đây có phải bút của bạn không? >> Trước danh từ dùng [[your]], không dùng [[yours]].
+
+#dialogue
+sam: Thanks, Lily! And whose phone is that? | Cảm ơn cậu, Lily! Còn điện thoại kia của ai? [happy point]
+lily: Hmm... I think it's Ms. Khan's. | Hừm... Tớ nghĩ là của cô Khan. [thinking]
+ms-khan: Yes, it's mine! Thank you, both of you. | Đúng rồi, của cô đấy! Cảm ơn cả hai em nhé. [happy]
+sam: No problem. Our class is the best, right? | Không có gì ạ. Lớp mình là tuyệt nhất, đúng không cô? [happy]
+
+#recall
+? Nói bằng tiếng Anh: Cái điện thoại này là của tôi. => This phone is mine. | Cái điện thoại này là của tôi.
+? Hỏi bằng tiếng Anh: Chiếc xe đạp này của ai? => Whose bike is this? | Chiếc xe đạp này của ai?
+
+#recap
+> Trước danh từ: [[my]], [[your]], [[her]], [[our]], [[their]]. Đứng một mình: [[mine]], [[yours]], [[hers]], [[ours]], [[theirs]], không có dấu nháy. Hỏi của ai thì dùng [[Whose]].
+
+#practice
+fill: This bag isn't ___. My bag is black. | mine* / my / me || Đứng một mình → mine.
+fill: Is this ___ coat? | your* / yours / you || Trước danh từ coat → your.
+contrast: That car belongs to my parents. It's ___. | theirs* / their || Đứng một mình → theirs.
+fix: The red bike is her. | The red bike is hers.* / The red bike is her's. / The red bike is she. || Đứng một mình → hers, không có dấu nháy.
+type: ___ phone is this? — It's Linh's. | Whose || Hỏi của ai → Whose.
+choice: “a friend of mine” nghĩa là: | một người bạn của tôi* / bạn thân nhất của tôi / tất cả bạn của tôi || A friend of mine = một người bạn của tôi.
+order: Is / this / pen / yours? | Cây bút này của bạn à?
+listen: Your house is bigger than ours. | Your house is bigger than ours.* / Your house is bigger than hours. / Our house is bigger than yours. || Nghe than ours.
+natural: This umbrella is mine.* / This umbrella is my. || Đứng một mình → mine.

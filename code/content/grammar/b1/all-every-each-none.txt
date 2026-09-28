@@ -1,0 +1,72 @@
+=== all-every-each-none
+sum: All + danh từ số nhiều / không đếm được = tất cả (All the questions are easy). Every + danh từ SỐ ÍT = mọi (nhìn cả nhóm): Every student has a book. Each + số ít = mỗi (nhìn từng cái, thường khác nhau; nhóm hai chỉ dùng each). Every / each + động từ số ít. All of / each of / none of + the / my / đại từ. None (of) = không ai, không cái nào — đã phủ định, không thêm not (None of them came). No + danh từ = không có. Every day (hằng ngày) ≠ all day (suốt cả ngày).
+form: all + số nhiều = tất cả | All the students are here.
+form: every / each + số ít + động từ số ít | Every student has a book.
+form: none of + the / đại từ = không ai, không cái nào | None of them came.
+form: every day (hằng ngày) ≠ all day (cả ngày) | I stayed home all day.
+cast: mr-ross zoe max
+bg: classroom
+words: all, every, each, none, different, question
+gloss: jogging, laptop
+
+#hook
+mr-ross: Good morning, everyone! Is every student here today? | Chào cả lớp! Hôm nay các em có mặt đủ cả chưa? [happy]
+zoe: Yes! All of us are here. | Dạ, đủ cả rồi ạ! [happy]
+mr-ross: Great. Each of you will get a different question. | Tốt. Mỗi em sẽ nhận một câu hỏi khác nhau. [explain]
+max: Oh no. None of us studied yesterday! | Ôi không. Hôm qua chẳng đứa nào học bài cả! [worried]
+mr-ross: Don't worry. All the questions are easy. | Đừng lo. Câu hỏi nào cũng dễ mà. [happy]
+> [[All of us]]: tất cả chúng em. [[Every student]], [[each of you]]: mọi em, mỗi em. [[None of us]]: không ai trong chúng em. Để ý: [[every]] và [[each]] đi với danh từ số ít.
+
+#form
+th: Từ | Đi với | Ví dụ
+tb: all | số nhiều · không đếm được | all students · all the money
+tb: every | số ít | Every student has a book.
+tb: each | số ít | Each room has a TV.
+tb: none of | the / đại từ + số nhiều | None of my friends came.
+tb: no | danh từ | There's no milk.
+> [[Every]] và [[each]] tuy nghĩa là “mọi”, “mỗi”, nhưng đi với danh từ số ít và động từ số ít: [[Every student has]], không phải [[Every students have]].
+
+#contrast
+vs: Every student has a book. | Học sinh nào cũng có sách. || every: nhìn cả nhóm
+vs: Each student has a different book. | Mỗi học sinh có một cuốn sách khác nhau. || each: nhìn từng người
+> [[Every]] nhìn cả nhóm, ai cũng vậy. [[Each]] nhìn từng người một, thường khi mỗi người mỗi khác. Nhóm chỉ có hai thì chỉ dùng [[each]]: [[each hand]].
+vs: I go to the gym every day. | Ngày nào tôi cũng đi tập gym. || every day: hằng ngày
+vs: I stayed at home all day. | Tôi ở nhà cả ngày. || all day: suốt cả ngày
+> Và đừng nhầm [[every day]], hằng ngày, với [[all day]], suốt cả một ngày.
+
+#examples
+- {All|k} my friends like football. | Tất cả bạn bè tôi đều thích bóng đá.
+- {Every|k} room {has|v} a window. | Phòng nào cũng có cửa sổ.
+- {None of|n} the answers {were|v} right. | Không câu trả lời nào đúng.
+- There's {no|n} time to waste. | Không còn thời gian để phí đâu.
+- {Each|k} of the kids got a small gift. | Mỗi đứa trẻ nhận một món quà nhỏ.
+
+#mistakes
+x: Every students have a phone. => Every student has a phone. | Học sinh nào cũng có điện thoại. >> [[Every]] đi với danh từ số ít và động từ số ít.
+x: All of student passed. => All of the students passed. | Tất cả học sinh đều đỗ. >> [[All of]] cần [[the]] và danh từ số nhiều. Hoặc nói gọn [[All students]].
+x: None of them didn't come. => None of them came. | Không ai trong số họ đến. >> [[None]] đã mang nghĩa phủ định, không thêm [[didn't]].
+x: I go jogging all days. => I go jogging every day. | Ngày nào tôi cũng chạy bộ. >> Hằng ngày là [[every day]].
+
+#dialogue
+zoe: Mr. Ross, does each question have one answer? | Thầy Ross ơi, mỗi câu hỏi có một đáp án ạ? [thinking]
+mr-ross: Yes. And every answer is in your book. | Đúng. Và đáp án nào cũng có trong sách. [explain]
+max: So we can use our books? | Vậy bọn em được dùng sách ạ? [happy]
+mr-ross: No! None of you can open your books! | Không! Không em nào được mở sách! [happy shake]
+
+#recall
+? Nói bằng tiếng Anh: Tuần nào tôi cũng gọi cho mẹ. => I call my mom every week. | Tuần nào tôi cũng gọi cho mẹ.
+? Nói bằng tiếng Anh: Không ai trong số chúng tôi biết đường. => None of us knew the way. | Không ai trong số chúng tôi biết đường.
+
+#recap
+> [[All]] cộng số nhiều: tất cả. [[Every]], [[each]] cộng số ít: mọi, mỗi; [[each]] nhìn từng cái riêng. [[None of]]: không ai, không cái nào, và không thêm [[not]]. Nhớ [[every day]] là hằng ngày, còn [[all day]] là suốt cả ngày.
+
+#practice
+fill: ___ student has a laptop. | Every* / All / None || Every + số ít.
+fill: ___ the students passed the exam. | All* / Every / Each || All + the + số nhiều.
+fill: ___ of my friends came. I was so sad. | None* / All / Every || Không ai đến → None.
+fix: Every rooms have a TV. | Every room has a TV.* / Every rooms has a TV. / All room have a TV. || Every + số ít + has.
+contrast: I stayed in bed ___. I was sick. | all day* / every day || Suốt cả ngày → all day.
+contrast: She has two bags. ___ bag is red. | Each* / Every || Nhóm hai → each.
+type: There's ___ milk in the fridge. (không có) | no || No + danh từ.
+order: Each / of / the / kids / got / a / small / gift. | Mỗi đứa trẻ nhận một món quà nhỏ.
+listen: None of the answers were right. | None of the answers were right.* / All of the answers were right. / One of the answers was right. || Nghe none of.

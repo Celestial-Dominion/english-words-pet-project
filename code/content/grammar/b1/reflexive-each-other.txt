@@ -1,0 +1,71 @@
+=== reflexive-each-other
+sum: Đại từ phản thân (myself, yourself / yourselves, himself, herself, itself, ourselves, themselves) dùng khi chủ ngữ và tân ngữ là CÙNG một người: I cut myself. Đặt cuối câu để nhấn mạnh “tự tay”: I made it myself. By myself = một mình, tự mình. Câu quen thuộc: Help yourself! Enjoy yourselves! Each other = lẫn nhau: They love each other (khác They love themselves). Relax, feel, concentrate không cần phản thân (I relaxed, không nói I relaxed myself).
+form: myself · yourself · himself · herself · ourselves · themselves | I cut myself.
+form: nhấn mạnh “tự tay” ở cuối câu | I made it myself.
+form: by myself = một mình | He lives by himself.
+form: each other = lẫn nhau | Let's help each other.
+cast: lily mom
+bg: kitchen
+words: myself, yourself, themselves, each, hurt, knife
+gloss: salad, dressing
+
+#hook
+lily: Ouch! Mom, I cut myself! | Á! Mẹ ơi, con bị đứt tay rồi! [sad]
+mom: Oh no! Let me see. You need to be careful with knives. | Ôi không! Để mẹ xem nào. Con phải cẩn thận với dao chứ. [worried]
+lily: I'm OK. I wanted to make the salad by myself. | Con không sao. Con muốn tự mình làm món salad. [shy]
+mom: That's sweet. But next time, let's help each other, OK? | Ngoan quá. Nhưng lần sau hai mẹ con giúp nhau nhé? [happy]
+> [[I cut myself]]: người cắt và người bị đứt tay là một, nên dùng [[myself]]. [[By myself]]: một mình, tự làm. Còn [[help each other]]: hai người giúp lẫn nhau.
+
+#form
+th: Chủ ngữ | Đại từ phản thân
+tb: I | myself
+tb: you | yourself · yourselves
+tb: he · she · it | himself · herself · itself
+tb: we · they | ourselves · themselves
+> Số ít thì đuôi [[self]], số nhiều thì đuôi [[selves]]. Để ý: [[yourself]] cho một người, [[yourselves]] cho nhiều người.
+
+#examples
+- Help {yourself|k}! | Cứ tự nhiên lấy nhé!
+- Did you paint this {yourself|k}? | Bạn tự vẽ bức này à?
+- The kids enjoyed {themselves|k} at the party. | Bọn trẻ chơi rất vui ở bữa tiệc.
+- He lives {by himself|k}. | Anh ấy sống một mình.
+> [[Help yourself]] là câu mời rất quen thuộc: cứ tự nhiên lấy đồ ăn. Còn [[enjoyed themselves]] nghĩa là chơi vui vẻ.
+
+#contrast
+vs: They love themselves. | Họ yêu bản thân mình. || mỗi người yêu chính mình
+vs: They love each other. | Họ yêu nhau. || người này yêu người kia
+> [[Themselves]] quay về chính mình. [[Each other]] thì đi qua lại giữa hai người. Tiếng Việt nói “nhau”, tiếng Anh là [[each other]].
+
+#natural
+rank: best | I relaxed after work. | Tôi thư giãn sau giờ làm.
+rank: odd | I relaxed myself after work.
+> Một số động từ trong tiếng Anh không cần đại từ phản thân, dù tiếng Việt có chữ “bản thân”: [[relax]], [[feel]], [[concentrate]]. Nói [[I feel tired]], không nói [[I feel myself tired]].
+
+#mistakes
+x: I taught me to play the guitar. => I taught myself to play the guitar. | Tôi tự học chơi guitar. >> Chủ ngữ và tân ngữ cùng một người thì dùng [[myself]].
+x: My brother and I call ourselves every day. => My brother and I call each other every day. | Anh tôi và tôi gọi cho nhau mỗi ngày. >> Người này gọi cho người kia: [[each other]].
+x: She did it by herselves. => She did it by herself. | Cô ấy tự làm một mình. >> Số ít: [[herself]].
+
+#dialogue
+mom: Did you make this salad yourself? | Con tự làm món salad này à? [surprised]
+lily: Yes, all by myself! Well, except for the dressing. | Vâng, tự con làm hết! À, trừ nước sốt ạ. [happy]
+mom: It's delicious. You and your brother should cook for each other more often. | Ngon lắm. Con với anh con nên nấu cho nhau ăn thường xuyên hơn. [happy]
+lily: Only if he cleans the kitchen himself! | Chỉ khi anh ấy tự dọn bếp thôi ạ! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi tự sửa xe đạp. => I fixed my bike myself. | Tôi tự sửa xe đạp.
+? Nói bằng tiếng Anh: Chúng tôi hiểu nhau rất rõ. => We understand each other very well. | Chúng tôi hiểu nhau rất rõ.
+
+#recap
+> Chủ ngữ và tân ngữ là một người: [[myself]], [[yourself]], [[themselves]]. Muốn nhấn mạnh tự tay làm, đặt nó ở cuối câu. [[By myself]] là một mình. Còn hai người làm cho nhau thì dùng [[each other]].
+
+#practice
+fill: Be careful! Don't hurt ___. | yourself* / you / yours || Chủ ngữ ngầm là you → yourself.
+fill: The children made the cake ___. | themselves* / theirselves / himself || They → themselves.
+fill: Tom and Anna text ___ every day. | each other* / themselves / them || Nhắn cho nhau → each other.
+fix: I introduced me to the class. | I introduced myself to the class.* / I introduced mine to the class. / I introduced my self to the class. || Chủ ngữ = tân ngữ → myself.
+fix: Enjoy yourself, everyone! | Enjoy yourselves, everyone!* / Enjoy yourselfs, everyone! / Enjoy you, everyone! || Nhiều người → yourselves.
+type: He lives ___ himself. (một mình) | by || By himself = một mình.
+choice: “They love each other.” nghĩa là: | Họ yêu nhau* / Mỗi người tự yêu bản thân / Họ yêu mọi người || Each other = lẫn nhau.
+order: The / kids / enjoyed / themselves / at / the / party. | Bọn trẻ chơi rất vui ở bữa tiệc.
+listen: Did you paint this yourself? | Did you paint this yourself?* / Did you buy this yourself? / Did he paint this himself? || Nghe paint · yourself.

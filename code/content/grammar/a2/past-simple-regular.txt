@@ -1,0 +1,75 @@
+=== past-simple-regular
+sum: Quá khứ đơn nói việc đã xảy ra và đã xong ở một lúc trong quá khứ (yesterday, last week, in 2020, two days ago). Động từ có quy tắc thêm -ed cho MỌI chủ ngữ: I / she / they worked. Đuôi -ed đọc /t/ (worked), /d/ (played) hoặc /ɪd/ (wanted).
+form: động từ + ed (mọi chủ ngữ) | I worked · she worked · they worked
+form: chính tả: live → lived · stop → stopped · study → studied | e thêm d · gấp đôi phụ âm · y → ied
+form: đọc /t/ · /d/ · /ɪd/ | worked · played · wanted
+cast: ben linh
+bg: office
+prop: mug x=1100
+words: yesterday, stay, clean, cook, watch, visit
+
+#hook
+ben: Hi, Linh! How was your weekend? | Chào Linh! Cuối tuần của chị thế nào? [happy]
+linh: Quiet. I stayed home and cleaned my room. | Yên ả lắm. Tôi ở nhà dọn phòng. [neutral]
+ben: That's nice. I visited my parents. | Hay đấy. Tôi về thăm bố mẹ. [happy]
+linh: Oh, lovely! Did you cook? | Ồ, tuyệt quá! Anh có nấu ăn không? [happy]
+ben: No, my mom cooked a big lunch. | Không, mẹ tôi nấu một bữa trưa thịnh soạn. [happy @mug]
+> Nói chuyện đã qua, tiếng Anh đổi động từ: [[stay]] thành [[stayed]], [[clean]] thành [[cleaned]], [[visit]] thành [[visited]]. Tiếng Việt chỉ cần thêm “cuối tuần rồi”, động từ giữ nguyên.
+
+#meaning
+tl: -2..-1 stayed home | cuối tuần trước
+tl: now | bây giờ
+> Quá khứ đơn nói việc đã xảy ra và đã KẾT THÚC trong quá khứ. Thường có mốc thời gian đi kèm, như [[yesterday]], [[last week]], [[two days ago]].
++ I stayed home last weekend. | Cuối tuần trước tôi ở nhà.
+
+#form
+f: Chủ ngữ + động từ + [ed]
+> Tin vui là quá khứ đơn không đổi theo chủ ngữ. [[I worked]], [[she worked]], [[they worked]], đều thêm [[ed]], không có đuôi [[s]].
+th: Quy tắc | Ví dụ
+tb: thêm ed | work → worked
+tb: đuôi e thêm d | live → lived
+tb: phụ âm + y → ied | study → studied
+tb: 1 nguyên âm + 1 phụ âm → gấp đôi | stop → stopped
+> Chính tả có ba trường hợp riêng: đuôi [[e]] chỉ thêm [[d]], như [[lived]]. Phụ âm cộng [[y]] thì đổi thành [[ied]], như [[studied]]. Còn [[stop]] gấp đôi chữ p: [[stopped]].
+
+#pronunciation
+pron: worked | /t/ | wɝkt
+pron: played | /d/ | pleɪd
+pron: wanted | /ɪd/ | ˈwɑntɪd
+> Đuôi này có ba cách đọc. Sau t hoặc d, nó thành một âm tiết mới: [[wanted]], [[needed]]. Sau âm vô thanh như k, p, s, nó đọc nhẹ như âm t: [[worked]], [[stopped]]. Còn lại đọc như âm d: [[played]], [[cleaned]].
+> Đừng đọc [[worked]] thành “wơ-kết”. Nó chỉ có một âm tiết.
+
+#examples
+- We {watched|k} a movie last night. | Tối qua chúng tôi xem một bộ phim.
+- She {studied|k} in Japan in 2019. | Cô ấy học ở Nhật năm 2019.
+- The bus {stopped|k} near my house. | Xe buýt dừng gần nhà tôi.
+- My grandparents {lived|k} in a small village. | Ông bà tôi từng sống ở một ngôi làng nhỏ.
+- I {called|k} you two hours ago. | Tôi gọi cho bạn hai tiếng trước.
+
+#mistakes
+x: Yesterday I cook dinner. => Yesterday I cooked dinner. | Hôm qua tôi nấu bữa tối. >> Có [[yesterday]] là việc đã qua, động từ phải đổi: [[cooked]].
+x: She studyed hard. => She studied hard. | Cô ấy đã học rất chăm. >> Phụ âm cộng [[y]] thì đổi thành [[ied]]: [[studied]].
+x: He watchs TV last night. => He watched TV last night. | Tối qua anh ấy xem tivi. >> Quá khứ không có đuôi [[s]]. Chỉ thêm [[ed]]: [[watched]].
+
+#dialogue
+linh: What did you do after lunch? | Ăn trưa xong anh làm gì? [thinking]
+ben: We walked to the lake and played cards. | Chúng tôi đi bộ ra hồ rồi chơi bài. [happy]
+linh: Sounds fun! | Nghe vui thế! [happy]
+ben: It was. My dad laughed all afternoon! | Vui lắm. Bố tôi cười suốt cả buổi chiều! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Hôm qua tôi dọn nhà. => I cleaned the house yesterday. | Hôm qua tôi dọn nhà.
+? Nói bằng tiếng Anh: Họ sống ở Huế năm 2015. => They lived in Hue in 2015. | Họ sống ở Huế năm 2015. [ipa=lived:lɪvd]
+
+#recap
+> Việc đã xong trong quá khứ: động từ thêm [[ed]], cho mọi chủ ngữ. Nhớ chính tả [[lived]], [[studied]], [[stopped]], và ba cách đọc: [[worked]], [[played]], [[wanted]].
+
+#practice
+fill: We ___ football last Sunday. | played* / play / plays || Last Sunday → quá khứ.
+type: She ___ (stop) the car. | stopped || Stop → gấp đôi p → stopped.
+type: I ___ (study) English last night. | studied || Phụ âm + y → ied.
+fix: They visit Da Nang last year. | They visited Da Nang last year.* / They visits Da Nang last year. / They visiting Da Nang last year. || Last year → visited.
+choice: Chữ “ed” trong “wanted” đọc thế nào? | /ɪd/ — thêm một âm tiết* / /t/ / /d/ || Sau âm t, -ed thành /ɪd/.
+order: We / watched / a / movie / last / night. | Tối qua chúng tôi xem một bộ phim.
+listen: I called you two hours ago. | I called you two hours ago.* / I call you every day. / I'll call you in two hours. || Nghe called + ago.
+natural: My grandparents lived in a village.* / My grandparents liveed in a village. || Đuôi e chỉ thêm d.

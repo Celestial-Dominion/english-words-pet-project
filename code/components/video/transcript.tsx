@@ -3,9 +3,11 @@
 // Transcript đồng bộ audio: mỗi câu = nhãn người nói + các LỚP bật/tắt độc lập
 // (English · IPA · Việt). IPA là ruby theo TỪ (GA, dạng từ điển); từ đang đọc bôi vàng (karaoke).
 // Tắt hết = luyện nghe (chỉ còn thanh độ dài). Câu đang nói tự cuộn vào vùng nhìn; bấm câu → tua.
-import { memo, useEffect, useMemo, useRef } from "react";
+import { memo, useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { EyeOff } from "lucide-react";
 import { lineTokens, speakersOf, type VideoLesson, type VideoLine } from "@/lib/video";
 import { lookOf } from "./rig";
+import { useFollowScroll } from "./use-follow-scroll";
 
 export interface Layers {
   en: boolean;
@@ -14,6 +16,75 @@ export interface Layers {
 }
 
 export const noLayers = (l: Layers) => !l.en && !l.ipa && !l.vi;
+export const DEFAULT_LAYERS: Layers = { en: true, ipa: false, vi: true };
+
+// Lớp transcript bật/tắt độc lập, nhớ theo `key` (localStorage): Video "en.videoLayers", Ngữ pháp "en.grammarLayers".
+// Tắt hết = luyện nghe; bật lại thì trả về bộ lớp trước đó.
+export function useLayers(key: string, fallback: Layers = DEFAULT_LAYERS) {
+  const [layers, setState] = useState<Layers>(fallback);
+  const before = useRef<Layers | null>(null);
+  useEffect(() => {
+    try {
+      const v = JSON.parse(localStorage.getItem(key) ?? "null") as Layers | null;
+      // eslint-disable-next-line react-hooks/set-state-in-effect -- đọc localStorage một lần sau mount
+      if (v && typeof v.en === "boolean") setState(v);
+    } catch {
+      /* không có localStorage */
+    }
+  }, [key]);
+  const setLayers = useCallback(
+    (l: Layers) => {
+      try {
+        localStorage.setItem(key, JSON.stringify(l));
+      } catch {
+        /* không lưu được thì thôi */
+      }
+      setState(l);
+    },
+    [key],
+  );
+  const blind = noLayers(layers);
+  const flip = (k: keyof Layers) => setLayers({ ...layers, [k]: !layers[k] });
+  const toggleBlind = () => {
+    if (blind) setLayers(before.current ?? fallback);
+    else {
+      before.current = layers;
+      setLayers({ en: false, ipa: false, vi: false });
+    }
+  };
+  return { layers, setLayers, flip, blind, toggleBlind };
+}
+
+// Thanh chọn lớp: English · IPA · Việt + Luyện nghe (ẩn hết chữ).
+export function LayerBar({ layers, flip, blind, toggleBlind }: Pick<ReturnType<typeof useLayers>, "layers" | "flip" | "blind" | "toggleBlind">) {
+  const chip = (on: boolean) =>
+    `rounded-full px-2.5 py-1 text-xs font-medium transition-colors ${on ? "bg-background text-foreground shadow-sm" : "text-muted-foreground"}`;
+  return (
+    <div className="mt-1.5 flex items-center gap-1.5">
+      <div role="group" aria-label="Lớp transcript" className="inline-flex shrink-0 items-center rounded-full bg-muted p-0.5">
+        <button type="button" aria-pressed={layers.en} onClick={() => flip("en")} className={chip(layers.en)}>
+          English
+        </button>
+        <button type="button" aria-pressed={layers.ipa} onClick={() => flip("ipa")} className={chip(layers.ipa)}>
+          IPA
+        </button>
+        <button type="button" aria-pressed={layers.vi} onClick={() => flip("vi")} className={chip(layers.vi)}>
+          Việt
+        </button>
+      </div>
+      <button
+        type="button"
+        onClick={toggleBlind}
+        aria-pressed={blind}
+        title="Ẩn toàn bộ chữ để luyện nghe"
+        aria-label="Luyện nghe"
+        className={`ml-auto inline-flex h-8 shrink-0 items-center gap-1 rounded-full px-2 text-xs font-medium whitespace-nowrap transition-colors ${blind ? "bg-primary/15 text-primary" : "text-muted-foreground hover:bg-muted"}`}
+      >
+        <EyeOff className="size-4" /> <span className="hidden min-[360px]:inline">Luyện nghe</span>
+      </button>
+    </div>
+  );
+}
 
 const WORD_HI = "rounded bg-amber-300/80 text-foreground dark:bg-amber-400/40";
 
@@ -137,38 +208,7 @@ export function Transcript({
   role?: string | null;
 }) {
   const box = useRef<HTMLDivElement>(null);
-  const lastUser = useRef(0);
-
-  // Người dùng tự cuộn → nhường 4 s, không giật trang về câu đang nói.
-  useEffect(() => {
-    const mark = () => (lastUser.current = Date.now());
-    const onKey = (e: KeyboardEvent) => {
-      if (["PageUp", "PageDown", "Home", "End", "ArrowUp", "ArrowDown"].includes(e.key)) mark();
-    };
-    window.addEventListener("wheel", mark, { passive: true });
-    window.addEventListener("touchmove", mark, { passive: true });
-    window.addEventListener("keydown", onKey);
-    return () => {
-      window.removeEventListener("wheel", mark);
-      window.removeEventListener("touchmove", mark);
-      window.removeEventListener("keydown", onKey);
-    };
-  }, []);
-
-  // Câu mới bắt đầu → đưa câu vào khoảng trên của vùng còn nhìn thấy (dưới cảnh dính).
-  useEffect(() => {
-    if (idx < 0 || Date.now() - lastUser.current < 4000) return;
-    const el = box.current?.querySelector<HTMLElement>(`[data-line="${idx}"]`);
-    if (!el || !box.current) return;
-    const top = topInset();
-    const b = box.current.getBoundingClientRect();
-    if (b.bottom < top + 40 || b.top > window.innerHeight - 40) return;
-    const r = el.getBoundingClientRect();
-    const region = window.innerHeight - top;
-    const want = top + Math.min(24, region * 0.06);
-    if (Math.abs(r.top - want) < 8) return;
-    window.scrollTo({ top: window.scrollY + r.top - want, behavior: "smooth" });
-  }, [idx, topInset]);
+  useFollowScroll(box, idx, topInset);
 
   return (
     <div ref={box} className="space-y-1.5">

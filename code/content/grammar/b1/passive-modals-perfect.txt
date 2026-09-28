@@ -1,0 +1,71 @@
+=== passive-modals-perfect
+sum: Bị động với modal: modal + be + V3 (will be sent, can be used, must be turned off, should be done). Bị động hiện tại hoàn thành: have / has been + V3 (The report has been sent. Nothing has been decided yet). Rất hay gặp trong thông báo, biển báo, email công việc vì ngắn gọn, khách quan: Phones must be turned off. The results will be announced tomorrow. Tickets can't be refunded.
+form: will / can / must / should + be + V3 | The results will be announced tomorrow.
+form: have / has been + V3 | The report has been sent.
+form: can't be · mustn't be + V3 | Tickets can't be refunded.
+form: thông báo, biển báo, email | Phones must be turned off.
+cast: mr-ross linh
+bg: office
+prop: report x=820
+words: announce, deliver, decide, order, invite, share
+gloss: refund, backpack, paint, app
+
+#hook
+mr-ross: Linh, has the report been sent to the customer? | Linh, bản báo cáo đã được gửi cho khách hàng chưa? [thinking]
+linh: Yes, it's been sent. And the meeting room has been booked for tomorrow. | Rồi ạ. Phòng họp ngày mai cũng đã được đặt rồi. [happy @report]
+mr-ross: Great. The new prices will be announced at the meeting. | Tốt. Giá mới sẽ được công bố tại cuộc họp. [explain]
+linh: Should the customers be invited too? | Có nên mời cả khách hàng không ạ? [thinking]
+mr-ross: No, the prices can't be shared yet. | Không, giá thì chưa được phép công khai. [shake]
+> Nói chuyện công việc, người ta dùng bị động rất nhiều, vì điều quan trọng là việc đã xong chưa, chứ không phải ai làm. [[Has been sent]]: đã được gửi. [[Will be announced]]: sẽ được công bố.
+
+#form
+f: [will / can / must / should] + [be] + phân từ
+> Sau động từ khuyết thiếu, luôn là [[be]] nguyên thể, rồi đến phân từ: [[will be sent]], [[can be used]], [[must be done]].
+f: [have / has been] + phân từ
+> Còn bị động của hiện tại hoàn thành là [[has been]] cộng phân từ: [[The report has been sent]].
+
+#examples
+- Your order {will be delivered|k} tomorrow. | Đơn hàng của bạn sẽ được giao vào ngày mai.
+- This bag {can be used|k} as a backpack. | Chiếc túi này có thể dùng như ba lô.
+- The problem {has been fixed|k}. | Sự cố đã được khắc phục.
+- Nothing {has been decided|k} yet. | Chưa có gì được quyết định cả.
+
+#real
+- Phones {must be turned off|k} during the exam. | Phải tắt điện thoại trong giờ thi.
+- Tickets {can't be refunded|n}. | Vé đã mua không được hoàn tiền.
+- All rooms {must be cleaned|k} by 11 a.m. | Tất cả các phòng phải được dọn trước 11 giờ sáng.
+> Biển báo, nội quy, email thông báo rất hay dùng dạng này, vì nó ngắn gọn, khách quan, không nhắm vào riêng ai.
+
+#contrast
+vs: We will send the email tomorrow. | Chúng tôi sẽ gửi email vào ngày mai. || chủ động: nói về người gửi
+vs: The email will be sent tomorrow. | Email sẽ được gửi vào ngày mai. || bị động: nói về email
+> Cả hai đều đúng. Bị động nghe trang trọng, khách quan hơn, nên hay dùng trong văn bản công việc.
+
+#mistakes
+x: The report will sent tomorrow. => The report will be sent tomorrow. | Báo cáo sẽ được gửi vào ngày mai. >> Sau [[will]] cần [[be]]: [[will be sent]].
+x: The problem has fixed. => The problem has been fixed. | Sự cố đã được khắc phục. >> Bị động của thì hoàn thành: [[has been fixed]].
+x: Phones must be turn off. => Phones must be turned off. | Phải tắt điện thoại. >> Sau [[be]] là phân từ: [[turned]].
+
+#dialogue
+linh: Has the new office been painted yet? | Văn phòng mới đã được sơn chưa ạ? [thinking]
+mr-ross: Not yet. It'll be finished next week. | Chưa. Tuần sau sẽ xong. [neutral]
+linh: And have the desks been ordered? | Thế bàn làm việc đã được đặt mua chưa ạ? [thinking]
+mr-ross: Yes, they have. They'll be delivered on Friday. | Rồi. Thứ sáu sẽ được giao. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Bữa tiệc đã bị hủy. => The party has been canceled. | Bữa tiệc đã bị hủy.
+? Nói bằng tiếng Anh: Kết quả sẽ được công bố vào ngày mai. => The results will be announced tomorrow. | Kết quả sẽ được công bố vào ngày mai.
+
+#recap
+> Bị động với động từ khuyết thiếu: [[will]], [[must]], [[can]] cộng [[be]] cộng phân từ, như [[will be sent]], [[must be done]]. Bị động của hiện tại hoàn thành: [[has been]] cộng phân từ. Hai dạng này có mặt khắp nơi trong thông báo, biển báo và email công việc.
+
+#practice
+fill: The package will ___ delivered on Monday. | be* / been / being || Will + be + phân từ.
+fill: Your password has ___ changed. | been* / be / being || Has been + phân từ.
+fix: The windows must be close at night. | The windows must be closed at night.* / The windows must closed at night. / The windows must be closing at night. || Must be + phân từ.
+transform: Chuyển sang bị động: | They will announce the results tomorrow. >> The results will be announced tomorrow.* / The results will announced tomorrow. / The results will be announce tomorrow. || Will be + phân từ.
+choice: Biển báo “Tickets can't be refunded.” nghĩa là: | Vé không được hoàn tiền* / Vé không bán nữa / Vé đã hết || Can't be refunded = không thể được hoàn tiền.
+type: Nothing has ___ decided yet. | been || Has been + phân từ.
+contrast: The problem ___ fixed. You can use the app now. | has been* / has || Bị động hoàn thành → has been fixed.
+order: Phones / must / be / turned / off. | Phải tắt điện thoại.
+listen: Your order will be delivered tomorrow. | Your order will be delivered tomorrow.* / Your order was delivered yesterday. / Your order will deliver tomorrow. || Nghe will be delivered.

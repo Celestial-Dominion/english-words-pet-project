@@ -1,0 +1,69 @@
+=== verb-object-to
+sum: Động từ + NGƯỜI + to V: want / would like / ask / tell / remind / advise / expect / need + someone + to do: My parents want me to study medicine. Người ở dạng tân ngữ (me, him, them). Phủ định: not to V (She told the kids not to play near the road). Want không đi với mệnh đề (không nói I want that you come) — muốn dùng mệnh đề thì dùng hope (I hope you can come). Help + người + V (có hoặc không có to).
+form: want / would like + người + to V | My parents want me to study medicine.
+form: ask / tell / remind / advise + người + to V | Could you ask them to come?
+form: tell + người + not to V | She told the kids not to play near the road.
+form: không nói want that… | I want you to come (không nói I want that you come)
+cast: ms-khan zoe
+bg: classroom
+words: want, remind, advise, expect, medicine, university
+gloss: designer, law
+
+#hook
+ms-khan: Zoe, what do you want to study at university? | Zoe, em muốn học ngành gì ở đại học? [thinking]
+zoe: My parents want me to study medicine, but I want to be a designer. | Bố mẹ muốn em học y, nhưng em muốn làm nhà thiết kế. [sad]
+ms-khan: I see. Would you like me to talk to them? | Cô hiểu rồi. Em có muốn cô nói chuyện với bố mẹ em không? [happy]
+zoe: Yes, please! Could you ask them to come to the school? | Dạ có ạ! Cô mời bố mẹ em đến trường được không ạ? [happy]
+> [[My parents want me to study medicine]]: bố mẹ muốn tôi học y. Tiếng Việt chỉ cần “muốn tôi học”. Tiếng Anh thì người đứng ngay sau [[want]], rồi đến [[to]] và động từ: [[want me to study]].
+
+#form
+f: [want / ask / tell / remind] + người + [to] + động từ
+> Người đứng giữa, ở dạng tân ngữ: [[me]], [[him]], [[them]]. Sau đó là [[to]] và động từ nguyên thể.
+th: Động từ | Ví dụ
+tb: want · would like | I'd like you to meet my wife.
+tb: ask · tell | The teacher told us to be quiet.
+tb: remind · advise | The doctor advised me to rest.
+tb: expect · need | We need you to sign here.
+> Nhóm động từ này dùng rất nhiều: muốn ai làm, nhờ ai làm, bảo ai làm, nhắc ai làm, khuyên ai làm.
+
+#examples
+- Can you {remind|k} me {to|k} call my mom? | Bạn nhắc tôi gọi cho mẹ nhé?
+- My boss {asked|k} me {to|k} work on Saturday. | Sếp nhờ tôi làm việc thứ bảy.
+- She {told|k} the kids {not to|n} play near the road. | Cô ấy dặn bọn trẻ đừng chơi gần đường.
+- I {helped|k} my dad {fix|k} the car. | Tôi giúp bố sửa xe.
+> Riêng [[help]] đi được cả hai cách: [[help my dad fix]], hoặc [[help my dad to fix]]. Người Mỹ hay bỏ [[to]].
+
+#contrast
+vs: I want you to come. | Tôi muốn bạn đến. || want + người + to V
+vs: I hope you can come. | Tôi mong bạn đến được. || hope + mệnh đề
+> [[Want]] không đi với một mệnh đề có chủ ngữ riêng. Muốn dùng mệnh đề, hãy chuyển sang [[hope]]: [[I hope you can come]].
+
+#mistakes
+x: My mom wants that I study law. => My mom wants me to study law. | Mẹ tôi muốn tôi học luật. >> [[Want]] đi với người cộng [[to]]: [[wants me to study]].
+x: She asked me help her. => She asked me to help her. | Cô ấy nhờ tôi giúp. >> Sau [[ask]] cộng người là [[to]]: [[asked me to help]].
+x: I'd like you meet my friend. => I'd like you to meet my friend. | Tôi muốn giới thiệu bạn với bạn tôi. >> [[Would like]] cộng người cộng [[to]].
+x: They want I to come. => They want me to come. | Họ muốn tôi đến. >> Người đứng sau động từ ở dạng tân ngữ: [[me]], không phải [[I]].
+
+#dialogue
+ms-khan: What do your parents expect you to do after school? | Bố mẹ mong em làm gì sau khi ra trường? [thinking]
+zoe: They want me to have a safe job. | Bố mẹ muốn em có một công việc ổn định. [sad]
+ms-khan: That's normal. I'll ask them to look at your drawings. | Chuyện đó bình thường thôi. Cô sẽ nhờ bố mẹ em xem các bức vẽ của em. [happy]
+zoe: Thank you! That would help me a lot. | Em cảm ơn cô! Như vậy sẽ giúp em rất nhiều. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi muốn bạn giúp tôi. => I want you to help me. | Tôi muốn bạn giúp tôi.
+? Nói bằng tiếng Anh: Cô giáo dặn chúng tôi làm bài tập. => The teacher told us to do our homework. | Cô giáo dặn chúng tôi làm bài tập.
+
+#recap
+> [[Want]], [[would like]], [[ask]], [[tell]], [[remind]], [[advise]] cộng người, rồi [[to]] và động từ. Phủ định thì đặt [[not]] trước [[to]]. Và đừng nói [[want that]]: hãy nói [[want someone to]].
+
+#practice
+fill: My parents want me ___ harder. | to study* / study / studying || Want + người + to V.
+fill: Can you remind me ___ the bills? | to pay* / pay / paying || Remind + người + to V.
+fill: The doctor told him ___ smoke. | not to* / to not / don't || Tell + người + not to V.
+fix: I want that you come to my party. | I want you to come to my party.* / I want you come to my party. / I want that you to come to my party. || Want + người + to V.
+fix: They asked I to wait. | They asked me to wait.* / They asked me wait. / They asked to I wait. || Tân ngữ me + to V.
+type: I'd like you ___ meet my friend Tom. | to || Would like + người + to V.
+choice: “She asked me to help her.” nghĩa là: | Cô ấy nhờ tôi giúp cô ấy* / Cô ấy hỏi tôi có giúp không / Cô ấy giúp tôi || Ask + người + to V = nhờ ai làm.
+order: The / teacher / told / us / to / be / quiet. | Cô giáo bảo chúng tôi giữ trật tự.
+listen: She told the kids not to play near the road. | She told the kids not to play near the road.* / She told the kids to play near the road. / She told the kids not to play in the rain. || Nghe not to play near the road.

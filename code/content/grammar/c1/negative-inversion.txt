@@ -1,0 +1,68 @@
+=== negative-inversion
+sum: Đảo ngữ sau trạng từ phủ định hoặc hạn chế đứng đầu câu — giọng trang trọng, nhấn mạnh (diễn văn, văn viết, lời nhận xét): Never have I heard such a beautiful voice. Rarely do we eat out. Seldom does he complain. Not only did you sing…, but you also… At no time did… Under no circumstances should you… Thứ tự như câu hỏi: trợ động từ trước chủ ngữ; không có trợ động từ thì mượn do / does / did. Trò chuyện hằng ngày dùng câu thường (I've never seen…).
+form: Never / Rarely / Seldom + trợ động từ + chủ ngữ + V | Never have I seen such talent.
+form: Not only + trợ động từ + chủ ngữ + V…, but … also | Not only did she sing, but she also danced.
+form: Under no circumstances / At no time + đảo ngữ | Under no circumstances should you open it.
+form: văn nói: câu thường | I've never seen anything like it.
+cast: zoe mr-ross
+bg: stage
+prop: microphone x=800 back
+words: rarely, seldom, circumstance, complain, final, welcome
+gloss: password
+
+#hook
+zoe: Thank you. That was my first time on a big stage. | Em cảm ơn thầy. Đó là lần đầu em đứng trên sân khấu lớn. [shy]
+mr-ross: Never have I heard such a beautiful voice! | Tôi chưa từng nghe giọng hát nào hay đến thế! [surprised]
+mr-ross: Not only did you sing perfectly, but you also played the piano. | Em không chỉ hát hoàn hảo, mà còn tự chơi cả piano. [happy]
+zoe: I don't know what to say! | Em không biết nói gì nữa! [happy cheer]
+> [[Never have I heard]]: [[never]] đứng đầu câu kéo theo đảo ngữ, trợ động từ [[have]] lên trước chủ ngữ [[I]]. [[Not only did you sing]]: câu gốc không có trợ động từ, nên mượn [[did]]. Cách nói này trang trọng và nhấn mạnh, đúng giọng một vị giám khảo.
+
+#form
+f: [Never / Rarely / Seldom] + trợ động từ + chủ ngữ + động từ
+> Thứ tự giống hệt câu hỏi. Có trợ động từ thì đảo nó lên: [[have I seen]], [[can we]], [[will she]]. Không có thì mượn [[do]], [[does]], [[did]]: [[Rarely does he smile]].
+th: Câu thường | Đảo ngữ
+tb: I have never seen such a mess. | Never have I seen such a mess.
+tb: We rarely eat out. | Rarely do we eat out.
+tb: She not only sang but also danced. | Not only did she sing, but she also danced.
+tb: You must not open it under any circumstances. | Under no circumstances must you open it.
+> So sánh hai cột: ý giống nhau, nhưng cột phải trang trọng và mạnh hơn nhiều.
+
+#examples
+- {Rarely|n} {have|a} I felt so welcome. | Hiếm khi tôi cảm thấy được chào đón đến vậy.
+- {Seldom|n} {does|a} he complain. | Anh ấy hiếm khi phàn nàn.
+- {Under no circumstances|n} {should|a} you share your password. | Tuyệt đối không được chia sẻ mật khẩu.
+- {At no time|n} {did|a} the company admit any mistakes. | Chưa lúc nào công ty thừa nhận sai sót.
+
+#natural
+rank: best | I've never seen anything like it! | Tôi chưa từng thấy thứ gì như thế!
+rank: ok | Never have I seen anything like it! | Chưa bao giờ tôi thấy thứ gì như thế!
+> Trong trò chuyện hằng ngày, câu thường tự nhiên hơn. Đảo ngữ hợp với diễn văn, bài viết, tin tức, hoặc khi muốn tạo hiệu ứng thật mạnh. Dùng nó khi gọi cà phê thì nghe rất kịch.
+
+#mistakes
+x: Never I have seen such a thing. => Never have I seen such a thing. | Chưa bao giờ tôi thấy chuyện như vậy. >> [[Never]] đứng đầu câu thì phải đảo: [[have I]].
+x: Rarely she goes out. => Rarely does she go out. | Cô ấy hiếm khi ra ngoài. >> Không có trợ động từ thì mượn [[does]], và động từ về nguyên thể.
+x: Not only he is smart, but he is also kind. => Not only is he smart, but he is also kind. | Anh ấy không chỉ thông minh mà còn tốt bụng. >> [[Not only]] đứng đầu câu thì đảo: [[is he]].
+
+#dialogue
+zoe: Can I ask you something? | Em hỏi thầy một câu được không ạ? [shy]
+mr-ross: Of course. | Tất nhiên. [happy]
+zoe: Will I be in the final? | Em có được vào chung kết không ạ? [worried]
+mr-ross: Not only will you be in the final, but you might win it! | Em không chỉ vào chung kết, mà còn có thể giành chiến thắng nữa! [happy cheer]
+
+#recall
+? Nói trang trọng bằng tiếng Anh, dùng [[Never]]: Chưa bao giờ tôi được ăn bữa nào ngon như vậy. => Never have I eaten such a delicious meal. | Chưa bao giờ tôi được ăn bữa nào ngon như vậy.
+? Viết lại trang trọng, dùng [[Rarely]]: Chúng tôi hiếm khi đi du lịch. => Rarely do we travel. | Chúng tôi hiếm khi đi du lịch.
+
+#recap
+> Trạng từ phủ định, hạn chế đứng đầu câu kéo theo đảo ngữ: [[Never have I]], [[Rarely do we]], [[Not only did she]]. Không có trợ động từ thì mượn [[do]], [[does]], [[did]]. Và nhớ: đảo ngữ là giọng trang trọng, không phải giọng trò chuyện hằng ngày.
+
+#practice
+fill: Never ___ such a beautiful sunset. | have I seen* / I have seen / I saw || Never đầu câu → đảo: have I seen.
+fill: Rarely ___ late for work. | is she* / she is / does she || Có be → đảo: is she.
+fill: Not only ___ the exam, but she also got the top score. | did she pass* / she passed / passed she || Không có trợ động từ → did she pass.
+fix: Seldom we go to the cinema. | Seldom do we go to the cinema.* / Seldom we do go to the cinema. / Seldom go we to the cinema. || Mượn do để đảo.
+transform: Viết lại với đảo ngữ: | You must not touch this button under any circumstances. >> Under no circumstances must you touch this button.* / Under no circumstances you must touch this button. / Under no circumstances touch you must this button. || Under no circumstances + must you.
+choice: Nói chuyện với bạn ở quán cà phê, câu nào tự nhiên nhất? | I've never had coffee this good!* / Never have I had coffee this good! / Never I had coffee this good! || Văn nói → câu thường.
+type: At no time ___ the manager apologize. | did || At no time + did + chủ ngữ + V.
+order: Rarely / have / I / felt / so / welcome. | Hiếm khi tôi cảm thấy được chào đón đến vậy.
+listen: Seldom does he complain. | Seldom does he complain.* / Sometimes he complains. / Seldom do they complain. || Nghe seldom does he.

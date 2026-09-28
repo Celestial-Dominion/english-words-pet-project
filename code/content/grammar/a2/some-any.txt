@@ -1,0 +1,71 @@
+=== some-any
+sum: Some dùng trong câu khẳng định (We have some juice). Any dùng trong câu phủ định và câu hỏi (We don't have any ice. Do you have any questions?). Lời mời và lời nhờ vẫn dùng some (Would you like some tea? Can I have some water?). Từ ghép theo cùng quy tắc: something / anything, someone / anyone, somewhere / anywhere. Nothing, no one đã mang nghĩa phủ định — không thêm not.
+form: some + câu khẳng định | We have some juice.
+form: any + câu phủ định · câu hỏi | We don't have any ice. · Is there any milk?
+form: some trong lời mời, lời nhờ | Would you like some tea?
+form: something / anything · someone / anyone · nothing / no one | cùng quy tắc
+cast: leo ana
+bg: home-day
+prop: cake x=1090
+words: some, any, something, anything, someone, anyone, nothing, somewhere
+gloss: fridge
+
+#hook
+leo: The party starts at seven. Do we have any drinks? | Bảy giờ tiệc bắt đầu rồi. Mình có đồ uống gì chưa? [thinking]
+ana: We have some juice, but we don't have any ice. | Có ít nước ép, nhưng chưa có đá. [explain]
+leo: OK, I can buy some. Anything else? | Được, anh đi mua. Còn gì nữa không? [nod]
+ana: Yes, something sweet! | Có, món gì ngọt ngọt ấy! [happy]
+> [[Some]] đi với câu khẳng định: [[We have some juice]]. [[Any]] đi với câu phủ định và câu hỏi: [[we don't have any ice]], [[Do we have any drinks?]]. Tiếng Việt chỉ nói “ít”, “gì”, còn tiếng Anh phải chọn đúng một trong hai.
+
+#form
+th: Loại câu | Dùng | Ví dụ
+tb: khẳng định | some | There's some bread.
+tb: phủ định | any | There isn't any milk.
+tb: câu hỏi | any | Is there any juice?
+tb: mời · nhờ | some | Would you like some tea?
+> Quy tắc rất gọn: [[some]] cho câu khẳng định, [[any]] cho câu phủ định và câu hỏi. Chỉ có một ngoại lệ. Khi mời hoặc nhờ, ta mong người kia đồng ý, nên vẫn dùng [[some]]: [[Would you like some tea?]], [[Can I have some water?]]
+
+th: some- | any- | no-
+tb: something | anything | nothing
+tb: someone | anyone | no one
+tb: somewhere | anywhere | nowhere
+> Các từ ghép cũng theo đúng quy tắc ấy. [[Something]] cho câu khẳng định, [[anything]] cho câu phủ định và câu hỏi. Còn [[nothing]], [[no one]] đã mang nghĩa phủ định sẵn, nên động từ đi kèm ở dạng khẳng định.
+- There's {nothing|n} in the fridge. | Tủ lạnh chẳng có gì cả.
+- Is {anyone|k} home? | Có ai ở nhà không?
+- Let's go {somewhere|k} quiet. | Mình đi đâu đó yên tĩnh đi.
+
+#examples
+- I need {some|k} help. | Tôi cần giúp một chút.
+- There aren't {any|k} buses after midnight. | Sau nửa đêm không còn chuyến xe buýt nào.
+- Do you have {any|k} questions? | Các bạn có câu hỏi nào không?
+- Can I have {some|k} more rice? | Cho tôi thêm ít cơm nhé?
+
+#mistakes
+x: I don't have some money. => I don't have any money. | Tôi chẳng có đồng nào. >> Câu phủ định dùng [[any]].
+x: I didn't see no one. => I didn't see anyone. | Tôi không thấy ai cả. >> Tiếng Anh không phủ định hai lần. [[Didn't]] đã là phủ định, nên dùng [[anyone]].
+x: Would you like any coffee? => Would you like some coffee? | Anh uống chút cà phê nhé? >> Lời mời dùng [[some]].
+
+#dialogue
+ana: Is anyone at the door? | Hình như có ai ở cửa? [thinking]
+leo: Yes! Someone brought a cake! | Có! Ai đó mang bánh tới này! [happy @cake]
+ana: Great! Now we don't need anything else. | Tuyệt! Giờ mình chẳng cần gì thêm nữa. [happy]
+leo: Would you like some juice? | Em uống chút nước ép nhé? [explain]
+ana: Yes, please! | Vâng, cho em với! [happy nod]
+
+#recall
+? Nói bằng tiếng Anh: Tủ lạnh không có sữa. => There isn't any milk in the fridge. | Tủ lạnh không có sữa.
+? Mời bằng tiếng Anh: Bạn uống chút trà nhé? => Would you like some tea? | Bạn uống chút trà nhé?
+
+#recap
+> Hai từ, ba loại câu: [[some]] cho khẳng định, [[any]] cho phủ định và câu hỏi, còn lời mời, lời nhờ quay về [[some]]. [[Nothing]] và [[no one]] đã là phủ định, đừng thêm [[not]].
+
+#practice
+contrast: We don't have ___ bread. | any* / some || Phủ định → any.
+contrast: I bought ___ apples. | some* / any || Khẳng định → some.
+fill: Are there ___ good cafes near here? | any* / some / no || Câu hỏi → any.
+fill: Would you like ___ cake? | some* / any / no || Lời mời → some.
+fix: I didn't eat nothing. | I didn't eat anything.* / I didn't eat something. / I not eat anything. || Không phủ định hai lần.
+type: Is ___ home? (có ai…) | anyone / anybody || Câu hỏi → anyone.
+choice: “There's nothing in the box.” nghĩa là: | Trong hộp không có gì.* / Trong hộp có vài thứ. / Cái hộp không có ở đây. || Nothing = không có gì.
+order: Let's / go / somewhere / quiet. | Mình đi đâu đó yên tĩnh đi.
+listen: Do you have any questions? | Do you have any questions?* / Did you have any questions? / Do you have two questions? || Nghe do you have any.

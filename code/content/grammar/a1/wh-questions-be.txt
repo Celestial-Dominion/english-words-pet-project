@@ -1,0 +1,66 @@
+=== wh-questions-be
+sum: Câu hỏi có từ để hỏi: từ hỏi đứng ĐẦU câu, rồi tới be, rồi chủ ngữ — What's your name? Where are you from? How old is she? Không trả lời Yes / No mà trả lời bằng thông tin.
+form: Từ hỏi + be + chủ ngữ? | What is…? Where are…? How old is…?
+form: What · Who · Where · How · How old | cái gì · ai · ở đâu · thế nào · bao nhiêu tuổi
+cast: zoe sam
+bg: classroom
+words: name, from, old, class
+
+#hook
+zoe: Hi! What's your name? | Chào cậu! Cậu tên là gì? [happy wave]
+sam: I'm Sam. | Mình là Sam. [shy]
+zoe: Where are you from, Sam? | Cậu đến từ đâu vậy, Sam? [thinking]
+sam: I'm from Canada. | Mình đến từ Canada. [happy]
+> [[Zoe]] không hỏi “có hay không” mà hỏi thông tin: tên là gì, đến từ đâu. Câu hỏi kiểu này mở đầu bằng một từ hỏi: [[What]], [[Where]].
+
+#form
+f: [What / Where / Who / How] + [is / are] + chủ ngữ + ?
+> Công thức rất gọn: từ hỏi đứng đầu, rồi tới [[be]], rồi mới tới chủ ngữ. Giống câu hỏi [[Are you…?]] của bài trước, chỉ thêm từ hỏi phía trước.
+th: Từ hỏi | Nghĩa | Ví dụ
+tb: What | cái gì | What's this?
+tb: Who | ai | Who is he?
+tb: Where | ở đâu | Where are you from?
+tb: How old | bao nhiêu tuổi | How old is she?
+tb: How | thế nào | How are you?
+> Nhớ năm từ hỏi này là bạn hỏi được hầu hết thông tin cơ bản: [[What]], [[Who]], [[Where]], [[How old]], [[How]].
+
+#examples
+- {Who|q} {is|a} that man? | Người đàn ông kia là ai?
+- {Where|q} {is|a} the station? | Nhà ga ở đâu?
+- {How old|q} {is|a} your son? | Con trai bạn bao nhiêu tuổi?
+- {What|q} {is|a} your phone number? | Số điện thoại của bạn là gì?
+> Khi nói, [[What is]] thường rút thành [[What's]], [[Where is]] thành [[Where's]], [[Who is]] thành [[Who's]].
+
+#pronunciation
+pron: What is | What's | wʌts
+pron: Where is | Where's | wɛɹz
+pron: Who is | Who's | huz
+> Nghe kỹ âm cuối của [[What's]], [[Where's]], [[Who's]]: hai từ gộp làm một, đọc rất nhanh.
+
+#mistakes
+x: Where you are from? => Where are you from? | Bạn đến từ đâu? >> Sau từ hỏi phải là [[be]] trước, chủ ngữ sau: [[Where are you]], không phải [[Where you are]].
+x: How many years old are you? => How old are you? | Bạn bao nhiêu tuổi? >> Tiếng Việt hỏi “bao nhiêu tuổi”, tiếng Anh chỉ cần [[How old]].
+x: What's your job? He is a doctor. => What's his job? He's a doctor. | Anh ấy làm nghề gì? Anh ấy là bác sĩ. >> Hỏi về anh ấy thì dùng [[his]], không dùng [[your]].
+
+#dialogue
+sam: Who's your teacher? | Cô giáo của cậu là ai thế? [thinking]
+zoe: Ms Khan. She's really nice. | Cô Khan. Cô ấy tốt lắm. [happy]
+sam: Where's her class? | Lớp của cô ấy ở đâu? [confused]
+zoe: It's next to the library. Come with me! | Ở cạnh thư viện. Đi cùng mình nào! [point]
+
+#recall
+? Hỏi bằng tiếng Anh: Bạn đến từ đâu? => Where are you from? | Bạn đến từ đâu?
+? Hỏi bằng tiếng Anh: Cô ấy bao nhiêu tuổi? => How old is she? | Cô ấy bao nhiêu tuổi?
+
+#recap
+> Hỏi thông tin chỉ cần ba bước: từ hỏi, rồi [[be]], rồi chủ ngữ. [[What's your name?]] [[Where are you from?]] [[How old is he?]]
+
+#practice
+fill: ___ is your name? | What* / Who / Where || Hỏi tên (cái gì) → What.
+fill: ___ are you from? | Where* / What / How old || Hỏi quê, nơi đến → Where.
+fill: How old ___ your sister? | is* / are / am || Your sister = she → is.
+fix: Where she is? | Where is she?* / Where she's? / Where does she? || Sau từ hỏi: be trước, chủ ngữ sau.
+choice: Câu trả lời hợp cho “How are you?” | I'm fine, thanks.* / I'm twenty. / I'm from Hue. || How are you? hỏi bạn khỏe không.
+order: Who / is / your / teacher? | Giáo viên của bạn là ai?
+listen: Where is the station? | Where is the station?* / Where are the stations? / What is the station? || Nghe từ hỏi ở đầu câu: Where.
+type: ___ old are you? I'm ten. | How || Hỏi tuổi: How old.

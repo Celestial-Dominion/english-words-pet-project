@@ -1,0 +1,76 @@
+=== reported-statements
+sum: Kể lại lời người khác: said (that) + mệnh đề; told + người nghe + (that) + mệnh đề. Động từ tường thuật ở quá khứ thì thường lùi thì một bước: am / is → was, will → would, can → could, did → had done. Đổi đại từ theo người kể, đổi từ chỉ thời gian, nơi chốn khi kể vào lúc khác, chỗ khác (tomorrow → the next day, here → there). Tell luôn có người nghe (told me); say thì không (không nói said me). Điều vẫn còn đúng có thể giữ nguyên thì; that thường được lược khi nói.
+form: said (that) + mệnh đề | She said (that) she was sick.
+form: told + người nghe + (that) + mệnh đề | She told me she would come.
+form: lùi thì: is → was · will → would · can → could · did → had done | …
+form: tomorrow → the next day · here → there | kể vào lúc khác, chỗ khác
+cast: zoe mom
+bg: home-day
+words: say, tell, sick, present, arrive, cancel
+gloss: get-well
+
+#hook
+mom: Zoe, did you talk to Lily today? | Zoe, hôm nay con có nói chuyện với Lily không? [thinking]
+zoe: Yes. She said she was sick. | Có ạ. Bạn ấy bảo bạn ấy bị ốm. [neutral]
+mom: Oh no. Is she coming to your party? | Ôi. Thế bạn ấy có đến dự tiệc của con không? [worried]
+zoe: She told me she would come if she felt better. | Bạn ấy nói với con là nếu khỏe hơn thì sẽ đến. [happy]
+> [[Lily]] đã nói: [[I'm sick]]. [[Zoe]] kể lại: [[She said she was sick]]. Khi kể lại lời ai đó bằng [[said]] hay [[told]], ta thường lùi về quá khứ một bước: [[am]] thành [[was]], [[will]] thành [[would]].
+
+#form
+th: Lời nói trực tiếp | Kể lại
+tb: “I am tired.” | She said she was tired.
+tb: “I will call you.” | He said he would call me.
+tb: “I can swim.” | She said she could swim.
+tb: “I lost my key.” | He said he had lost his key.
+> Mỗi thì lùi về một bước: hiện tại thành quá khứ, [[will]] thành [[would]], [[can]] thành [[could]], quá khứ thành quá khứ hoàn thành. Đại từ cũng đổi theo người kể: [[I]] thành [[she]], [[you]] thành [[me]].
+
+#examples
+- My boss {said|k} the meeting {was|k} canceled. | Sếp bảo cuộc họp bị hủy rồi.
+- She {told|k} us she {had found|k} a new job. | Cô ấy kể với chúng tôi là đã tìm được việc mới.
+- He {said|k} he {could|k} help us move. | Anh ấy bảo có thể giúp chúng tôi chuyển nhà.
+
+#contrast
+vs: She said that she was busy. | Cô ấy nói là cô ấy bận. || say + điều được nói
+vs: She told me that she was busy. | Cô ấy nói với tôi là cô ấy bận. || tell + người nghe + điều được nói
+> [[Tell]] luôn cần người nghe ngay phía sau: [[told me]], [[told him]]. [[Say]] thì không: nói [[She said that…]], hoặc [[She said to me…]]. Không ai nói [[She said me]].
+
+#meaning
+th: Lời nói trực tiếp | Kể lại vào hôm khác
+tb: today · tonight | that day · that night
+tb: tomorrow | the next day
+tb: yesterday | the day before
+tb: here · this | there · that
+> Khi kể lại vào một ngày khác, ở một nơi khác, các từ chỉ thời gian và nơi chốn cũng đổi theo. Còn nếu kể lại ngay trong ngày, cứ giữ nguyên [[tomorrow]].
+
+#natural
+rank: best | He said he lives in Hue. | Anh ấy bảo anh ấy sống ở Huế.
+rank: best | He said he lived in Hue. | Anh ấy bảo anh ấy sống ở Huế.
+> Nếu điều đó bây giờ vẫn còn đúng, người bản ngữ có thể không lùi thì. Cả hai câu đều tự nhiên. Và khi nói, chữ [[that]] thường được lược bỏ.
+
+#mistakes
+x: She said me she was tired. => She told me she was tired. | Cô ấy nói với tôi là cô ấy mệt. >> Có người nghe ngay sau thì dùng [[told]].
+x: He told that he would come. => He said that he would come. | Anh ấy nói là sẽ đến. >> [[Tell]] cần người nghe, như [[told me]]. Không có người nghe thì dùng [[said]].
+
+#dialogue
+mom: What else did Lily say? | Lily còn nói gì nữa? [thinking]
+zoe: She said she had bought me a present! | Bạn ấy bảo đã mua quà cho con rồi! [happy]
+mom: And did she tell you what time she would arrive? | Thế bạn ấy có nói với con mấy giờ bạn ấy đến không? [thinking]
+zoe: She said she'd be here at six. | Bạn ấy nói sáu giờ sẽ có mặt ở đây. [happy]
+
+#recall
+? Kể lại bằng tiếng Anh. [[Tom]] nói: “Tôi mệt.” => Tom said he was tired. | Tom nói anh ấy mệt.
+? Kể lại bằng tiếng Anh. [[Anna]] nói với tôi: “Tôi sẽ gọi cho bạn.” => Anna told me she would call me. | Anna nói với tôi là cô ấy sẽ gọi cho tôi.
+
+#recap
+> Kể lại lời người khác: [[said]], hoặc [[told]] cộng người nghe. Lùi thì một bước, đổi đại từ và từ chỉ thời gian. Nếu điều đó vẫn còn đúng, có thể giữ nguyên thì, và [[that]] thường được lược đi.
+
+#practice
+contrast: She ___ me that she was busy. | told* / said || Có người nghe → told.
+contrast: He ___ that he would be late. | said* / told || Không có người nghe → said.
+fill: “I'm hungry,” he said. → He said he ___ hungry. | was* / is / be || Lùi thì: am → was.
+fill: “I will help you,” she said. → She said she ___ help me. | would* / will / can || Will → would.
+fix: She said me that she liked the gift. | She told me that she liked the gift.* / She said me that she likes the gift. / She told that she liked the gift. || Có người nghe → told me.
+transform: Kể lại lời Tom: | “I can't come,” Tom said. >> Tom said he couldn't come.* / Tom said I couldn't come. / Tom told he can't come. || Can't → couldn't, I → he.
+type: “We lost the game.” → They said they had ___ the game. | lost || Quá khứ → had + phân từ.
+order: She / told / us / she / had / found / a / new / job. | Cô ấy kể với chúng tôi là đã tìm được việc mới.
+listen: He said he could help us move. | He said he could help us move.* / He said he can't help us move. / He told us to move. || Nghe said he could help.

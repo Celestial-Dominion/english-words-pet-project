@@ -1,0 +1,76 @@
+=== two-objects
+sum: Nhiều động từ nhận hai tân ngữ — người nhận và món đồ: give me the book, send her a message, show him the photos, buy you a gift. Cách thứ hai: món đồ + to / for + người (give the book to me, buy a gift for you). To: give, send, show, tell, lend, pay. For: buy, make, get, cook. Món đồ là it / them → dùng cách thứ hai: Give it to me. Explain, say không nhận người ngay phía sau: explain it to me, say sorry to her (không nói explain me, say me); nói cho ai biết → tell me.
+form: động từ + người + món đồ | give me the book · buy you a gift
+form: động từ + món đồ + to / for + người | give the book to me · buy a gift for you
+form: to: give · send · show · lend — for: buy · make · cook | chọn giới từ
+form: explain / say + điều gì + to + người | explain it to me
+cast: ben mia
+bg: home-evening
+prop: gift-box x=820
+words: give, send, show, lend, explain, gift, message
+gloss: anniversary, necklace
+
+#hook
+ben: Happy anniversary! I bought you a gift. | Chúc mừng kỷ niệm ngày cưới! Anh mua cho em một món quà. [happy @gift-box]
+mia: Oh, thank you! Can I open it now? | Ôi, cảm ơn anh! Em mở ngay được không? [happy]
+ben: Of course. My sister helped me. She showed me a great shop. | Tất nhiên. Em gái anh giúp đấy. Cô ấy chỉ cho anh một cửa hàng rất hay. [happy]
+mia: A necklace! It's beautiful. I'll send your sister a message. | Dây chuyền! Đẹp quá. Em sẽ nhắn tin cảm ơn em gái anh. [happy]
+> [[I bought you a gift]], [[She showed me a great shop]], [[send your sister a message]]. Những động từ này có hai tân ngữ: người nhận đứng trước, món đồ đứng sau. Rất giống tiếng Việt, “mua cho em một món quà”, chỉ là không cần chữ “cho”.
+
+#form
+f: động từ + người + món đồ
+> Người nhận đứng ngay sau động từ, món đồ theo sau.
+- My mom {gave|k} {me|o} {a new bike|o}. | Mẹ tặng tôi một chiếc xe đạp mới.
+- Can you {send|k} {me|o} {the photos|o}? | Bạn gửi cho tôi mấy bức ảnh được không?
+f: động từ + món đồ + [to / for] + người
+> Cũng có thể đưa món đồ lên trước, rồi thêm [[to]] hoặc [[for]] trước người nhận.
+- She {gave|k} {the book|o} {to|k} {her teacher|o}. | Cô ấy đưa cuốn sách cho cô giáo.
+- I {made|k} {a cake|o} {for|k} {my dad|o}. | Tôi làm một chiếc bánh cho bố.
+th: + to | + for
+tb: give · send · show | buy · make
+tb: tell · lend · pay | get · cook · find
+> Chọn [[to]] hay [[for]] tùy động từ. [[To]] khi món đồ đi từ người này sang người kia: [[give]], [[send]], [[show]], [[lend]]. [[For]] khi làm hay kiếm một thứ gì đó giúp ai: [[buy]], [[make]], [[cook]].
+
+#examples
+- Can you {lend|k} me some money? | Bạn cho tôi vay ít tiền được không?
+- Let me {show|k} you my new room. | Để tôi cho bạn xem phòng mới của tôi.
+- My grandma {cooked|k} lunch {for|k} us. | Bà nấu bữa trưa cho chúng tôi.
+
+#natural
+rank: best | Give it to me. | Đưa nó cho tôi.
+rank: odd | Give me it.
+> Khi món đồ là đại từ, như [[it]], [[them]], hãy dùng cách thứ hai: [[Give it to me]], [[Send them to her]]. Nói [[Give me it]] nghe rất lạ.
+
+#contrast
+vs: Can you explain it to me? | Bạn giải thích cho tôi được không? || explain + điều gì + to + người
+vs: Can you tell me the answer? | Bạn nói cho tôi đáp án được không? || tell + người + điều gì
+> Người Việt hay nói [[explain me]], [[say me]]. Hai động từ này không nhận người ngay phía sau. Hãy nói [[explain it to me]], [[say sorry to her]]. Còn muốn nói cho ai biết điều gì, dùng [[tell me]].
+
+#mistakes
+x: Can you explain me this word? => Can you explain this word to me? | Bạn giải thích từ này cho tôi được không? >> [[Explain]] không đi thẳng với người. Nói [[explain this word to me]].
+x: He said me the truth. => He told me the truth. | Anh ấy nói thật với tôi. >> Nói với ai điều gì thì dùng [[tell]]: [[told me]].
+x: I bought a gift to my mom. => I bought a gift for my mom. | Tôi mua quà cho mẹ. >> [[Buy]] đi với [[for]].
+
+#dialogue
+mia: I have something for you too. | Em cũng có quà cho anh. [happy]
+ben: Really? What is it? | Thật à? Gì thế? [surprised]
+mia: I cooked your favorite dinner for you! Can you get me the plates? | Em nấu bữa tối anh thích nhất đấy! Anh lấy giúp em mấy cái đĩa nhé? [happy]
+ben: Sure! Wow, it smells great. | Được chứ! Chà, thơm quá. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Bạn cho tôi mượn cây bút được không? => Can you lend me your pen? | Bạn cho tôi mượn cây bút được không?
+? Nói bằng tiếng Anh: Tôi sẽ gửi email cho bạn. => I'll send you an email. | Tôi sẽ gửi email cho bạn.
+
+#recap
+> Hai tân ngữ: người đứng trước, món đồ đứng sau, như [[give me the book]]. Hoặc đưa món đồ lên trước, thêm [[to]] hay [[for]]. Món đồ là [[it]] thì nói [[give it to me]]. Và nhớ: [[explain it to me]], chứ không phải [[explain me]].
+
+#practice
+fill: I bought a present ___ my sister. | for* / to / at || Buy → for.
+fill: Please give this letter ___ your teacher. | to* / for / at || Give → to.
+fix: Can you explain me the rules? | Can you explain the rules to me?* / Can you explain to me me the rules? / Can you explain me to the rules? || Explain + điều gì + to + người.
+choice: Câu nào tự nhiên nhất? | Give it to me.* / Give me it. / Give to me it. || Món đồ là it → give it to me.
+contrast: He ___ me a funny story. | told* / said || Tell + người + chuyện.
+type: She showed ___ her new phone. (cho tôi xem) | me || Show + người + món đồ.
+transform: Viết lại với to: | She sent her mom a card. >> She sent a card to her mom.* / She sent to her mom a card. / She sent a card for her mom to. || Món đồ + to + người.
+order: Can / you / send / me / the / photos? | Bạn gửi cho tôi mấy bức ảnh được không?
+listen: I made a cake for my dad. | I made a cake for my dad.* / I made a cake for my mom. / I'll make a cake for my dad. || Nghe made … for my dad.

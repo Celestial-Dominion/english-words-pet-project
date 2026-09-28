@@ -1,0 +1,71 @@
+=== sequencing-time-clauses
+sum: Kể chuyện theo thứ tự: First, … Then / Next, … After that, … Finally, … Nối hai việc bằng mệnh đề thời gian: when (khi), after (sau khi), before (trước khi) + chủ ngữ + động từ. Mệnh đề thời gian đứng đầu → có dấu phẩy: When I got home, I had dinner. Đứng sau → không cần phẩy. Tiếng Việt nói “sau khi… thì…”, tiếng Anh không thêm then vào vế sau. After + danh từ / mệnh đề; After that đứng đầu câu mới.
+form: First, … Then, … After that, … Finally, … | kể theo thứ tự
+form: when / after / before + chủ ngữ + động từ | When I got home, …
+form: mệnh đề thời gian đứng đầu → dấu phẩy | When I got home, I had dinner.
+form: After lunch, … · After that, … | sau + danh từ · sau đó
+cast: nam mia
+bg: cafe
+prop: laptop x=820
+words: first, then, finally, after, before, when, miss, drop
+gloss: laptop
+
+#hook
+mia: Nam, you look terrible! What happened? | Nam, trông anh tệ quá! Có chuyện gì thế? [worried]
+nam: What a morning! First, I missed the bus. Then it started to rain. | Sáng nay kinh khủng! Đầu tiên, tôi lỡ xe buýt. Rồi trời đổ mưa. [sad]
+mia: Oh no! | Ôi không! [surprised]
+nam: When I got to the office, I couldn't find my keys. | Tới công ty thì tôi không tìm thấy chìa khóa. [sad]
+mia: And then? | Rồi sao nữa? [worried]
+nam: Finally, I dropped my coffee on my laptop! | Cuối cùng, tôi làm đổ cà phê lên máy tính! [tearful @laptop]
+> [[Nam]] kể lại theo đúng thứ tự: [[First]], [[Then]], [[Finally]]. Còn [[When I got to the office]] là một mệnh đề thời gian: nó cho biết việc tiếp theo xảy ra vào lúc nào.
+
+#form
+th: Từ nối | Nghĩa
+tb: First, … | Đầu tiên
+tb: Then, … · Next, … | Rồi · Tiếp theo
+tb: After that, … | Sau đó
+tb: Finally, … | Cuối cùng
+> Bốn từ nối giúp câu chuyện rõ ràng, dễ theo dõi. Kể chuyện, chỉ đường, hướng dẫn nấu ăn, đều dùng được.
+f: [When / After / Before] + chủ ngữ + động từ, + chủ ngữ + động từ
+> Mệnh đề thời gian có chủ ngữ và động từ riêng. Đứng đầu câu thì có dấu phẩy ngăn cách. Đứng sau thì không cần.
+- {When|c} I got home, I had dinner. | Về đến nhà, tôi ăn tối.
+- I had dinner {when|c} I got home. | Tôi ăn tối khi về đến nhà.
+
+#examples
+- {After|c} we finished the game, we went for pizza. | Chơi xong, chúng tôi đi ăn pizza.
+- Brush your teeth {before|c} you go to bed. | Đánh răng trước khi đi ngủ nhé.
+- {First|c}, cut the onions. {Then|c} add some salt. | Đầu tiên, thái hành. Rồi cho thêm ít muối.
+
+#contrast
+vs: After lunch, we went to the park. | Sau bữa trưa, chúng tôi ra công viên. || after + danh từ hoặc mệnh đề
+vs: We had lunch. After that, we went to the park. | Chúng tôi ăn trưa. Sau đó, chúng tôi ra công viên. || after that: mở đầu câu mới
+> [[After]] cần một danh từ hoặc một mệnh đề theo sau: [[after lunch]], [[after we finished]]. Còn [[After that]] đứng ở đầu câu mới, nghĩa là “sau đó”.
+
+#mistakes
+x: After I finished work, then I went home. => After I finished work, I went home. | Làm xong việc, tôi về nhà. >> Tiếng Việt nói “sau khi… thì…”, nhưng tiếng Anh không thêm [[then]] vào vế sau.
+x: When I got home, I cook dinner. => When I got home, I cooked dinner. | Về đến nhà, tôi nấu bữa tối. >> Kể chuyện quá khứ thì cả hai vế đều ở quá khứ.
+x: After, we went to the beach. => After that, we went to the beach. | Sau đó, chúng tôi ra biển. >> Đứng một mình ở đầu câu, hãy nói [[After that]] hoặc [[Then]].
+
+#dialogue
+mia: Is your laptop OK? | Máy tính của anh có sao không? [worried]
+nam: I don't know. Before I left, I turned it off. | Tôi không biết. Trước khi đi, tôi đã tắt nó. [sad]
+mia: When you get home, dry it carefully. | Về nhà thì anh lau khô nó cẩn thận nhé. [explain]
+nam: Thanks. But first, I need another coffee! | Cảm ơn chị. Nhưng trước tiên, tôi cần thêm một cốc cà phê! [happy]
+
+#recall
+? Kể bằng tiếng Anh: Đầu tiên tôi ăn sáng. Rồi tôi đi làm. => First, I had breakfast. Then I went to work. | Đầu tiên tôi ăn sáng. Rồi tôi đi làm.
+? Nói bằng tiếng Anh: Sau khi ăn tối, tôi xem tivi. => After I had dinner, I watched TV. | Sau khi ăn tối, tôi xem tivi.
+
+#recap
+> Kể theo thứ tự: [[First]], [[Then]], [[After that]], [[Finally]]. Nối hai việc: [[when]], [[after]], [[before]], cộng chủ ngữ và động từ. Mệnh đề thời gian đứng đầu thì có dấu phẩy, và vế sau không cần [[then]].
+
+#practice
+fill: ___, I opened the box. Then I read the letter. | First* / Finally / After || Việc đầu tiên → First.
+fill: I always wash my hands ___ I eat. | before* / after that / then || Rửa tay trước khi ăn → before.
+fill: We had lunch. ___ that, we went shopping. | After* / Before / When || After that = sau đó.
+fix: After I got home, then I took a shower. | After I got home, I took a shower.* / After I got home, then I take a shower. / After got home, I took a shower. || Vế sau không cần then.
+choice: Câu nào đúng dấu câu? | When I got home, I had dinner.* / When I got home I had, dinner. / When, I got home I had dinner. || Mệnh đề thời gian đứng đầu → phẩy sau nó.
+type: ___ we finished the game, we went for pizza. (Sau khi) | After || Sau khi → After.
+transform: Nối hai câu bằng when: | I got home. I called my mom. >> When I got home, I called my mom.* / When I got home I called, my mom. / I got home when, I called my mom. || When + mệnh đề, + mệnh đề.
+order: Brush / your / teeth / before / you / go / to / bed. | Đánh răng trước khi đi ngủ nhé.
+listen: After we finished the game, we went for pizza. | After we finished the game, we went for pizza.* / Before we finished the game, we went for pizza. / After we finish the game, we'll go for pizza. || Nghe after + finished.

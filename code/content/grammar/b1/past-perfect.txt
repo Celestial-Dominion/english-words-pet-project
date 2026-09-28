@@ -1,0 +1,72 @@
+=== past-perfect
+sum: Quá khứ hoàn thành: had + V3 — việc xảy ra TRƯỚC một việc / mốc khác trong quá khứ: When I got to the station, my train had already left. Thêm had là đổi hẳn thứ tự (When I arrived, the movie started ≠ had started). Hay đi với already, never … before, by the time. Khi after / before đã cho thấy thứ tự, quá khứ đơn là đủ. Chỉ có một việc → quá khứ đơn: đừng dịch mọi chữ “đã” thành had.
+form: had + V3 | the train had left
+form: việc trước: had V3 · việc sau: quá khứ đơn | When I arrived, the movie had started.
+form: had already · had never … before · by the time | By the time we arrived, everyone had gone home.
+form: after / before đã rõ thứ tự → quá khứ đơn | After I finished, I went home.
+cast: linh leo
+bg: train
+words: already, before, realize, ticket, arrive, station
+gloss: realize
+
+#hook
+linh: Leo! You're late. What happened? | Leo! Anh đến muộn đấy. Chuyện gì thế? [surprised]
+leo: When I got to the station, my train had already left! | Lúc tôi đến ga thì tàu đã chạy mất rồi! [sad]
+linh: Oh no! Did you wait for the next one? | Ôi không! Anh có chờ chuyến sau không? [worried]
+leo: Yes. And then I realized I had left my ticket at home! | Có. Rồi tôi mới nhận ra là mình đã để quên vé ở nhà! [surprised]
+> Hai việc trong quá khứ. [[I got to the station]] là việc sau. [[My train had already left]] là việc xảy ra trước đó. Muốn chỉ rõ việc nào xảy ra trước, tiếng Anh dùng [[had]] cộng phân từ.
+
+#meaning
+tl: -2 train had left | tàu chạy (trước)
+tl: -1 I got there | tôi đến ga (sau)
+tl: now | bây giờ
+> Đứng ở mốc [[I got there]], nhìn lùi lại phía sau. Việc đã xong trước mốc ấy thì dùng quá khứ hoàn thành.
+
+#contrast
+vs: When I arrived, the movie started. | Tôi vừa đến thì phim bắt đầu. || tôi đến → rồi phim mới chiếu
+vs: When I arrived, the movie had started. | Lúc tôi đến thì phim đã chiếu rồi. || phim chiếu trước → tôi đến sau
+> Chỉ thêm [[had]] mà thứ tự đổi ngược. Không có [[had]]: tôi đến, rồi phim mới bắt đầu. Có [[had]]: phim đã bắt đầu trước khi tôi đến, và tôi lỡ mất đoạn đầu.
+
+#form
+f: Chủ ngữ + [had] + phân từ quá khứ
+> [[Had]] dùng cho mọi chủ ngữ, khi nói thường rút gọn thành [[I'd]], [[she'd]]. Phủ định là [[hadn't]].
+
+#examples
+- She {had never seen|k} snow before she went to Japan. | Trước khi sang Nhật, cô ấy chưa từng thấy tuyết.
+- {By the time|c} we arrived, everyone {had gone|k} home. | Lúc chúng tôi đến nơi thì mọi người đã về hết.
+- I {hadn't eaten|n} all day, so I was very hungry. | Cả ngày tôi chưa ăn gì, nên đói lắm.
+
+#natural
+rank: best | After I finished my work, I went home. | Làm xong việc, tôi về nhà.
+rank: ok | After I had finished my work, I went home. | Làm xong việc, tôi về nhà.
+> Khi [[after]] hay [[before]] đã cho thấy thứ tự, quá khứ đơn là đủ, và nghe tự nhiên hơn. Quá khứ hoàn thành vẫn đúng, chỉ hơi nặng nề.
+
+#mistakes
+x: When we got there, the shop already closed. => When we got there, the shop had already closed. | Lúc chúng tôi đến thì cửa hàng đã đóng cửa rồi. [ipa=closed:kloʊzd] >> Cửa hàng đóng trước khi chúng tôi đến, nên dùng [[had closed]].
+x: I had went there before. => I had gone there before. | Tôi đã từng đến đó trước đây. >> Sau [[had]] là phân từ: [[gone]], không phải [[went]].
+x: Yesterday I had seen a great movie. => Yesterday I saw a great movie. | Hôm qua tôi xem một bộ phim hay. >> Chỉ có một việc, không có việc nào trước nó, nên dùng quá khứ đơn. Đừng dịch mọi chữ “đã” thành [[had]].
+
+#dialogue
+linh: So how did you get here? | Thế anh đến đây bằng cách nào? [thinking]
+leo: I went back home, found my ticket, and took a taxi. | Tôi quay về nhà, tìm được vé, rồi bắt taxi. [tired]
+linh: Well, you're here now. The meeting hadn't started when you called. | Thôi, giờ anh đến rồi. Lúc anh gọi thì cuộc họp vẫn chưa bắt đầu. [happy]
+leo: Thank goodness! | Ơn trời! [happy]
+> Để ý câu [[I went back home, found my ticket, and took a taxi]]: ba việc kể đúng thứ tự, nên chỉ cần quá khứ đơn.
+
+#recall
+? Nói bằng tiếng Anh: Khi tôi đến, bữa tiệc đã kết thúc. => When I arrived, the party had finished. | Khi tôi đến, bữa tiệc đã kết thúc.
+? Nói bằng tiếng Anh: Trước chuyến đi đó, tôi chưa từng đi máy bay. => Before that trip, I had never flown. | Trước chuyến đi đó, tôi chưa từng đi máy bay.
+
+#recap
+> Quá khứ hoàn thành, [[had]] cộng phân từ, dành cho việc xảy ra trước một việc khác trong quá khứ. Khi [[after]], [[before]] đã làm rõ thứ tự, quá khứ đơn là đủ. Và đừng dịch mọi chữ “đã” thành [[had]].
+
+#practice
+contrast: When I got to the cinema, the movie ___. I missed the start. | had started* / started || Phim bắt đầu trước → had started.
+fill: She had never ___ snow before. | seen* / saw / see || Had + phân từ.
+fill: By the time we arrived, everyone ___ home. | had gone* / has gone / goes || Việc trước mốc quá khứ → had gone.
+fix: Yesterday I had bought a new phone. | Yesterday I bought a new phone.* / Yesterday I have bought a new phone. / Yesterday I had buy a new phone. || Chỉ một việc → quá khứ đơn.
+choice: “When I arrived, the movie had started.” nghĩa là: | Phim đã chiếu trước khi tôi đến* / Tôi đến rồi phim mới chiếu / Tôi đến đúng lúc phim bắt đầu || Had started = xảy ra trước.
+type: I ___ eaten all day, so I was hungry. (chưa) | hadn't / had not || Phủ định → hadn't.
+order: The / train / had / already / left. | Tàu đã chạy mất rồi.
+listen: By the time we arrived, everyone had gone home. | By the time we arrived, everyone had gone home.* / By the time we arrived, everyone went home. / When we arrived, everyone was going home. || Nghe had gone.
+transform: Nối bằng when, dùng had cho việc trước: | The shop closed. Then we got there. >> When we got there, the shop had closed.* / When we had got there, the shop closed. / When we got there, the shop has closed. || Việc trước → had closed.

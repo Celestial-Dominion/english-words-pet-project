@@ -1,0 +1,63 @@
+=== this-that
+sum: This (số ít) / these (số nhiều) chỉ thứ ở GẦN người nói; that / those chỉ thứ ở XA. Chúng đứng trước danh từ (this bag) hoặc đứng một mình (This is my room). Nói chuyện qua điện thoại: This is Anna.
+form: this + danh từ số ít | cái này (gần)
+form: these + danh từ số nhiều | những cái này (gần)
+form: that / those | cái kia / những cái kia (xa)
+cast: dad max
+bg: home-evening
+prop: book x=1000
+words: room, picture, shoe, toy
+
+#hook
+max: Dad, look! This is my room. | Bố ơi, nhìn này! Đây là phòng con. [happy point]
+dad: Nice! And what's that on the wall? | Đẹp đấy! Thế cái gì trên tường kia? [thinking]
+max: That's my picture. I made it. | Đó là bức tranh của con. Con tự vẽ đấy. [shy]
+> [[This]] chỉ thứ ở ngay đây, gần mình. [[That]] chỉ thứ ở đằng kia, xa hơn. Tiếng Việt cũng phân biệt như vậy: “này” và “kia”.
+
+#form
+th: Số | Gần | Xa
+tb: Số ít | this | that
+tb: Số nhiều | these | those
+> Bốn từ này chia theo hai câu hỏi: gần hay xa, một hay nhiều. Gần và một thì dùng [[this]], gần và nhiều thì dùng [[these]]. Xa và một là [[that]], xa và nhiều là [[those]].
+- {This|k} {book|o} is new. | Quyển sách này mới.
+- {These|k} {shoes|o} are too big. | Đôi giày này rộng quá.
+- {Those|k} {people|o} are my neighbors. | Những người kia là hàng xóm của tôi.
+> Nhớ đi cùng động từ cho đúng: [[this is]], [[that is]], nhưng [[these are]], [[those are]].
+
+#pronunciation
+pron: this | /ɪ/ ngắn | ðɪs
+pron: these | /i/ dài | ðiz
+> Hai từ này dễ nghe nhầm. [[This]] có âm “i” ngắn và kết thúc bằng âm [[s]]. [[These]] có âm “i” dài và kết thúc bằng âm [[z]].
+
+#examples
+- {That|k}'s a good idea! | Ý hay đấy!
+- Is {this|k} your phone? | Đây có phải điện thoại của bạn không?
+- Hello, {this|k} is Anna. Is Tom there? | Alô, Anna đây. Có Tom ở đó không?
+> Hai cách nói rất hay gặp: [[That's a good idea]] để khen ý kiến của người khác, và khi gọi điện, người ta giới thiệu mình bằng [[This is]], không nói “I am”.
+
+#mistakes
+x: This shoes are nice. => These shoes are nice. | Đôi giày này đẹp. >> [[Shoes]] là số nhiều, nên dùng [[these]], không dùng [[this]].
+x: These is my friend. => This is my friend. | Đây là bạn tôi. >> Một người bạn là số ít: [[this is]]. [[These]] đi với [[are]].
+
+#dialogue
+dad: Are these your toys? | Những cái này là đồ chơi của con à? [thinking]
+max: Yes, they are. And those are my books. | Vâng ạ. Còn kia là sách của con. [point @book]
+dad: Wow, that's a lot of books! | Ôi, nhiều sách thế! [surprised]
+max: This one is my favorite. | Quyển này con thích nhất. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Cái túi này là của tôi. => This bag is mine. | Cái túi này là của tôi.
+? Nói bằng tiếng Anh: Những quả táo kia to quá! => Those apples are very big! | Những quả táo kia to quá!
+
+#recap
+> Hai câu hỏi quyết định chọn từ nào: gần hay xa, một hay nhiều. Gần thì [[this]], [[these]]. Xa thì [[that]], [[those]]. Và nhớ: [[these are]], [[those are]].
+
+#practice
+fill: ___ is my sister, Lan. | This* / These / Those || Một người, ở gần → This.
+fill: Look at ___ birds in the sky! | those* / that / this || Nhiều con, ở xa → those.
+fill: These apples ___ sweet. | are* / is || These → are.
+fix: That books are old. | Those books are old.* / That book are old. / This books are old. || Books số nhiều → those.
+choice: Gọi điện, bạn giới thiệu mình thế nào? | Hello, this is Nam.* / Hello, I is Nam. / Hello, that Nam. || Qua điện thoại dùng This is…
+order: These / shoes / are / too / big. | Đôi giày này rộng quá.
+listen: These shoes are too big. | These shoes are too big.* / This shoe is too big. / Those shoes are too big. || Nghe âm “i” dài và âm z của these.
+natural: That's a good idea!* / This is good idea! || Khen ý kiến: That's a good idea!

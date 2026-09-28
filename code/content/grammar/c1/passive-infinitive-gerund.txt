@@ -1,0 +1,73 @@
+=== passive-infinitive-gerund
+sum: Bị động không chỉ có is done / was done. Dạng nguyên mẫu: to be + V3 (I want to be told the truth · The report needs to be finished). Dạng V-ing: being + V3, sau động từ như enjoy, hate, avoid, mind và sau giới từ (I hate being interrupted · without being noticed). Chủ ngữ là người CHỊU tác động: I like interviewing people (tôi làm) ≠ I like being interviewed (người khác làm với tôi). Động từ có giới từ giữ nguyên giới từ ở bị động: was looked after, must be dealt with, was broken into, was laughed at. Tiếng Anh Anh còn nói needs + V-ing với nghĩa bị động (The car needs washing).
+form: to be + V3 (bị động nguyên mẫu) | I want to be told the truth.
+form: being + V3 (sau động từ, giới từ) | I hate being interrupted.
+form: động từ + giới từ giữ nguyên | The baby was looked after by her aunt.
+form: needs + V-ing = needs to be + V3 | The car needs washing.
+cast: sam dad
+bg: car
+words: interrupt, interview, notice, allow, tidy, magic
+
+#hook
+sam: Dad, I hate being driven to school like a little kid. | Bố ơi, con ghét bị đưa đến trường như trẻ con. [angry]
+dad: Oh? So what would you like? | Thế à? Vậy con muốn thế nào? [thinking]
+sam: I want to be allowed to take the bus with my friends. | Con muốn được phép đi xe buýt với bạn bè. [explain]
+dad: OK. But you can't complain about being woken up early! | Được. Nhưng không được than phiền vì bị đánh thức sớm đấy nhé! [happy]
+> [[Being driven]], [[being woken up]]: bị động ở dạng [[V-ing]]. [[To be allowed]]: bị động ở dạng nguyên mẫu. Người nói là người chịu tác động: bị đưa đón, được cho phép, bị đánh thức.
+
+#form
+f: động từ + [to be] + V3
+> Động từ đi với [[to]], như [[want]], [[need]], [[expect]], thì bị động là [[to be]] cộng [[V3]]: [[I expect to be paid]].
+f2: động từ, giới từ + [being] + V3
+> Động từ đi với [[V-ing]], như [[enjoy]], [[hate]], [[avoid]], và mọi giới từ, thì bị động là [[being]] cộng [[V3]]: [[without being noticed]].
+th: Chủ động | Bị động
+tb: I want to tell him. | I want to be told.
+tb: I like interviewing people. | I like being interviewed.
+tb: They looked after the baby. | The baby was looked after.
+tb: Someone broke into the house. | The house was broken into.
+> Hai dòng cuối là động từ có giới từ. Khi chuyển sang bị động, giới từ vẫn ở lại ngay sau động từ: [[looked after]], [[broken into]].
+
+#examples
+- Nobody likes {being laughed at|v}. | Chẳng ai thích bị cười nhạo.
+- The report {needs to be finished|v} by Friday. | Bản báo cáo cần được hoàn thành trước thứ Sáu.
+- She left the party without {being noticed|v}. | Cô ấy rời bữa tiệc mà không ai để ý.
+- This problem {must be dealt with|v} today. | Vấn đề này phải được giải quyết ngay hôm nay.
+
+#contrast
+vs: I like interviewing people. | Tôi thích phỏng vấn người khác. || chủ động: tôi làm
+vs: I like being interviewed. | Tôi thích được phỏng vấn. || bị động: người khác làm với tôi
+> Cùng một động từ, thêm [[being]] thì vai đảo ngược. Hỏi mình: chủ ngữ làm việc đó, hay chịu việc đó?
+
+#natural
+rank: best | The car needs to be washed. | Xe cần được rửa.
+rank: ok | The car needs washing. | Xe cần rửa rồi.
+> [[Needs washing]] mang nghĩa bị động dù không có [[be]], rất hay gặp trong tiếng Anh Anh khi nói chuyện. [[Needs to be washed]] thì dùng được ở mọi nơi.
+
+#mistakes
+x: He avoided to be seen. => He avoided being seen. | Anh ta tránh để bị nhìn thấy. >> [[Avoid]] đi với [[V-ing]], nên bị động là [[being seen]].
+x: The problem was dealt quickly. => The problem was dealt with quickly. | Vấn đề đã được giải quyết nhanh chóng. >> Giữ giới từ của động từ: [[dealt with]].
+x: I don't like being tell what to do. => I don't like being told what to do. | Tôi không thích bị người khác sai bảo. >> Sau [[being]] là [[V3]]: [[told]].
+
+#dialogue
+sam: Thanks, Dad. I promise not to be late. | Cảm ơn bố. Con hứa sẽ không đến muộn. [happy]
+dad: Good. And one more thing: your room needs to be tidied tonight. | Tốt. Còn một việc: tối nay phòng con cần được dọn. [explain]
+sam: By me, I suppose? | Là con dọn chứ gì? [sad]
+dad: Well, it won't be tidied by magic! | Chứ nó đâu tự sạch bằng phép màu được! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi ghét bị bắt đợi. => I hate being kept waiting. | Tôi ghét bị bắt đợi.
+? Nói bằng tiếng Anh, dùng bị động: Những cây này cần được tưới mỗi ngày. => These plants need to be watered every day. | Những cây này cần được tưới mỗi ngày.
+
+#recap
+> Bị động có cả dạng nguyên mẫu, [[to be]] cộng [[V3]], và dạng [[V-ing]], [[being]] cộng [[V3]]. Động từ có giới từ giữ nguyên giới từ: [[looked after]], [[dealt with]]. Và [[needs washing]] cũng mang nghĩa bị động.
+
+#practice
+fill: I don't enjoy ___ photographed. | being* / be / to being || enjoy + V-ing → being + V3.
+fill: This letter needs ___ sent today. | to be* / being / be || need + to be + V3.
+fill: The children were looked ___ by their aunt. | after* / for / at || look after → was looked after.
+fix: She hates being interrupt. | She hates being interrupted.* / She hates be interrupted. / She hates being interrupting. || being + V3.
+transform: Viết lại ở bị động: | Someone broke into our car last night. >> Our car was broken into last night.* / Our car was broken last night. / Our car was broke into last night. || Giữ giới từ: broken into.
+choice: “I like being interviewed.” nghĩa là: | Tôi thích được người khác phỏng vấn* / Tôi thích phỏng vấn người khác / Tôi đã được phỏng vấn rồi || being + V3: tôi là người chịu tác động.
+type: He left without being ___ (notice). | noticed || without + being + V3.
+order: Nobody / likes / being / laughed / at. | Chẳng ai thích bị cười nhạo.
+listen: I want to be allowed to take the bus with my friends. | I want to be allowed to take the bus with my friends.* / I want to be allowed to take the bus with my family. / I want to allow my friends to take the bus. || Nghe to be allowed.

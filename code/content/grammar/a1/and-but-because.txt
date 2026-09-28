@@ -1,0 +1,66 @@
+=== and-but-because
+sum: Nối hai ý: and (và — thêm ý), but (nhưng — trái ý), or (hoặc — lựa chọn), so (nên — kết quả), because (vì — lý do). So và because đi theo cặp ngược chiều: It's raining, so I'm staying home = I'm staying home because it's raining.
+form: ý 1 + and + ý 2 | thêm
+form: ý 1 + but + ý 2 | trái ngược
+form: … or … | lựa chọn
+form: nguyên nhân + so + kết quả | vì thế
+form: kết quả + because + nguyên nhân | bởi vì
+cast: zoe sam
+bg: train
+words: tired, rain, early, hungry, because
+
+#hook
+sam: Do you want to go out tonight? | Tối nay cậu muốn đi chơi không? [happy]
+zoe: I want to, but I'm tired. | Muốn chứ, nhưng tớ mệt. [tired]
+sam: Because you get up early? | Vì cậu dậy sớm à? [thinking]
+zoe: Yes. And I have a test tomorrow, so I need to sleep. | Ừ. Mai tớ lại có bài kiểm tra, nên tớ cần ngủ. [tired]
+> Chỉ bốn câu mà có bốn từ nối: [[but]], [[because]], [[and]], [[so]]. Chúng biến những câu ngắn thành một cuộc nói chuyện tự nhiên.
+
+#form
+th: Từ nối | Nghĩa | Dùng để
+tb: and | và | thêm ý
+tb: but | nhưng | nói ý trái ngược
+tb: or | hoặc | đưa ra lựa chọn
+tb: so | nên | nói kết quả
+tb: because | vì | nói lý do
+> Năm từ nối cơ bản nhất. [[And]] thêm ý, [[but]] trái ý, [[or]] để chọn, [[so]] cho kết quả, [[because]] cho lý do.
+- I like tea {and|k} coffee. | Tôi thích trà và cà phê.
+- The phone is nice, {but|k} it's expensive. | Điện thoại đẹp, nhưng đắt.
+- Do you want rice {or|k} bread? | Bạn muốn ăn cơm hay bánh mì?
+
+#contrast
+vs: It's raining, so I'm staying home. | Trời mưa, nên tôi ở nhà. || so + kết quả
+vs: I'm staying home because it's raining. | Tôi ở nhà vì trời mưa. || because + lý do
+> [[So]] và [[because]] nói cùng một chuyện nhưng theo hai chiều. Sau [[so]] là kết quả. Sau [[because]] là lý do.
+
+#mistakes
+x: Because it's raining, so I stay home. => It's raining, so I'm staying home. | Trời mưa nên tôi ở nhà. >> Tiếng Việt nói “vì… nên…”, nhưng tiếng Anh chỉ dùng MỘT từ: hoặc [[because]], hoặc [[so]].
+x: I'm tired, because I'm staying home. => I'm tired, so I'm staying home. | Tôi mệt nên tôi ở nhà. >> Mệt là lý do, ở nhà là kết quả. Trước kết quả dùng [[so]]. Trước lý do mới dùng [[because]].
+
+#examples
+- She's sick, {so|k} she isn't at school. | Cô bé bị ốm nên không đến trường.
+- I'm happy {because|k} it's Friday. | Tôi vui vì hôm nay là thứ sáu.
+- We can walk {or|k} take a bus. | Chúng ta có thể đi bộ hoặc đi xe buýt.
+
+#dialogue
+sam: We can go on Saturday or Sunday. | Mình đi thứ bảy hoặc chủ nhật cũng được. [explain]
+zoe: Saturday is good, but not in the morning. | Thứ bảy được, nhưng không phải buổi sáng. [thinking]
+sam: Why not? | Sao lại không? [confused]
+zoe: Because I sleep late on Saturdays! | Vì thứ bảy nào tớ cũng ngủ nướng! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi mệt nên tôi đi ngủ. => I'm tired, so I'm going to bed. | Tôi mệt nên tôi đi ngủ.
+? Nói bằng tiếng Anh: Tôi thích cái túi này, nhưng nó đắt quá. => I like this bag, but it's too expensive. | Tôi thích cái túi này, nhưng nó đắt quá.
+
+#recap
+> Năm từ nối: [[and]], [[but]], [[or]], [[so]], [[because]]. Nhớ: không dùng cả [[because]] lẫn [[so]] trong một câu.
+
+#practice
+fill: I like apples ___ bananas. | and* / but / because || Thêm ý → and.
+fill: The hotel is nice, ___ it's very small. | but* / so / or || Ý trái ngược → but.
+fill: I'm cold, ___ I'm wearing a jacket. | so* / because / or || Kết quả → so.
+fill: She's happy ___ she has a new job. | because* / so / but || Lý do → because.
+fix: Because I was sick, so I stayed home. | I was sick, so I stayed home.* / Because I was sick, so I stay home. / So I was sick, because I stayed home. || Chỉ dùng một từ: so hoặc because.
+choice: Câu nào có nghĩa “Bạn muốn trà hay cà phê?” | Do you want tea or coffee?* / Do you want tea and coffee? / Do you want tea but coffee? || Lựa chọn → or.
+order: I'm / happy / because / it's / Friday. | Tôi vui vì hôm nay là thứ sáu.
+listen: We can walk or take a bus. | We can walk or take a bus.* / We can walk and take a bus. / We can't walk, so take a bus. || Nghe or.

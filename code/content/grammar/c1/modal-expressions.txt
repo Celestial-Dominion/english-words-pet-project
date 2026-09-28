@@ -1,0 +1,74 @@
+=== modal-expressions
+sum: Những cụm mang nghĩa như động từ khuyết thiếu, giúp nói về khả năng chính xác hơn will / might. be bound to / be sure to + V = chắc chắn sẽ, người nói rất tự tin (It's bound to rain). be likely / unlikely to + V = nhiều / ít khả năng (Prices are likely to rise), hoặc It's likely that… may well / might well / could well + V = rất có thể (You may well be right). might as well / may as well + V = chẳng có cách nào hay hơn thì… luôn cho xong (We might as well walk). Chỉ khác chữ as mà nghĩa khác hẳn. Probable không đi với chủ ngữ người + to (She is probable to win ✗).
+form: be bound to / be sure to + V (chắc chắn sẽ) | It's bound to rain.
+form: be likely / unlikely to + V · It's likely that… | He's unlikely to come.
+form: may well / could well + V (rất có thể) | You may well be right.
+form: might as well / may as well + V (… luôn cho xong) | We might as well walk.
+cast: jay leo
+bg: street
+words: bound, likely, unlikely, empty, typical, probable
+
+#hook
+jay: Where's the bus? We've been waiting for twenty minutes. | Xe buýt đâu rồi nhỉ? Mình đợi hai mươi phút rồi. [worried]
+leo: In this rain, it's bound to be late. | Mưa thế này thì kiểu gì nó cũng trễ. [explain]
+jay: And it's likely to be full when it comes. | Mà lúc đến chắc cũng chật kín người. [sad]
+leo: Well, the office is only fifteen minutes away. We might as well walk. | Thôi, văn phòng chỉ cách mười lăm phút. Mình đi bộ luôn cho rồi. [happy]
+> [[Bound to be late]]: chắc chắn sẽ trễ, người nói rất tự tin. [[Likely to be full]]: nhiều khả năng sẽ chật. [[We might as well walk]]: chẳng còn cách nào hay hơn, thì đi bộ luôn cho xong.
+
+#form
+f: chủ ngữ + [be bound to / be likely to] + nguyên thể
+> [[Bound to]] và [[sure to]] là chắc chắn, [[likely to]] là nhiều khả năng, [[unlikely to]] là ít khả năng. Tất cả đi với [[to]] cộng động từ nguyên thể.
+f2: chủ ngữ + [may well / might as well] + nguyên thể
+> Hai cụm này thì không có [[to]]. Chỉ khác nhau chữ [[as]], nhưng nghĩa khác hẳn.
+th: Cách nói | Nghĩa | Ví dụ
+tb: be bound to · be sure to | chắc chắn sẽ | It's bound to rain.
+tb: be likely to · be unlikely to | nhiều, ít khả năng | He's unlikely to come.
+tb: may well · could well | rất có thể | You may well be right.
+tb: might as well · may as well | … luôn cho xong | We might as well walk.
+> Ba dòng đầu nói về khả năng, từ chắc chắn tới rất có thể. Dòng cuối thì khác: không nói về khả năng, mà là một lựa chọn đành vậy, vì không có cách nào hay hơn.
+
+#examples
+- Don't worry, you're {bound to|k} find a job soon. | Đừng lo, kiểu gì bạn cũng sớm tìm được việc.
+- Prices are {likely to|k} rise again next year. | Giá cả nhiều khả năng sẽ lại tăng vào năm sau.
+- She {may well|k} be the best player on the team. | Rất có thể cô ấy là cầu thủ giỏi nhất đội.
+- There's nothing on TV. We {might as well|k} go to bed. | Tivi chẳng có gì. Thôi đi ngủ luôn cho rồi.
+
+#contrast
+vs: It may well rain later. | Rất có thể lát nữa sẽ mưa. || may well: rất có thể
+vs: We might as well stay home. | Thôi thì cứ ở nhà cho xong. || might as well: đành vậy, không có cách hay hơn
+> [[May well]] đo khả năng một việc xảy ra. [[Might as well]] thì là một quyết định, thường nghe hơi chán, kiểu “đằng nào cũng thế”.
+
+#natural
+rank: best | He'll probably be late. | Chắc anh ấy sẽ đến muộn.
+rank: ok | He'll likely be late. | Nhiều khả năng anh ấy sẽ đến muộn.
+> [[Likely]] đứng một mình làm trạng từ rất phổ biến trong tiếng Anh Mỹ. Người Anh thường nói [[probably]], hoặc thêm từ: [[most likely]], [[very likely]].
+
+#mistakes
+x: He is likely come late. => He is likely to come late. | Anh ấy nhiều khả năng sẽ đến muộn. >> [[Likely]] đi với [[to]] cộng nguyên thể.
+x: We might as well to take a taxi. => We might as well take a taxi. | Thôi đi taxi luôn cho rồi. >> Sau [[might as well]] là nguyên thể, không có [[to]].
+x: She is probable to win. => She is likely to win. | Cô ấy nhiều khả năng sẽ thắng. >> [[Probable]] không đi với chủ ngữ người cộng [[to]]. Nói [[She is likely to win]], hoặc [[It is probable that she will win]].
+
+#dialogue
+jay: Look! Our bus. And it's almost empty! | Nhìn kìa! Xe buýt của mình. Mà lại gần như trống! [surprised]
+leo: Typical. Well, we're halfway there. We may as well keep walking. | Đúng là xui. Thôi, mình đi được nửa đường rồi. Cứ đi bộ tiếp cho xong. [sad]
+jay: You could well be right. The walk is good for us anyway! | Có khi anh nói đúng. Dù sao đi bộ cũng tốt cho sức khỏe! [happy]
+leo: And the rain is unlikely to get any worse! | Mà mưa chắc cũng khó to hơn được nữa! [happy]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[bound to]]: Kiểu gì cô ấy cũng thích món quà này. => She's bound to love this present. | Kiểu gì cô ấy cũng thích món quà này.
+? Nói bằng tiếng Anh, dùng [[might as well]]: Cửa hàng đóng cửa rồi. Thôi mình về nhà luôn cho rồi. => The shop is closed. We might as well go home. | Cửa hàng đóng cửa rồi. Thôi mình về nhà luôn cho rồi.
+
+#recap
+> [[Bound to]], [[sure to]]: chắc chắn sẽ. [[Likely to]], [[unlikely to]]: nhiều, ít khả năng. [[May well]], [[could well]]: rất có thể. Còn [[might as well]]: đành vậy, làm luôn cho xong. Hai nhóm đầu có [[to]], hai nhóm sau thì không.
+
+#practice
+fill: Take an umbrella. It's ___ rain later. | bound to* / bound / bound for || be bound to + nguyên thể.
+fill: He's very busy, so he's ___ to come. | unlikely* / unlike / impossible || Ít khả năng → unlikely to.
+fill: The last train has gone. We might as well ___ a taxi. | take* / to take / taking || might as well + nguyên thể, không to.
+fix: You may well to be right. | You may well be right.* / You may be well right. / You may well are right. || may well + nguyên thể.
+transform: Viết lại với likely: | It is probable that prices will rise. >> Prices are likely to rise.* / Prices are likely rise. / Prices are probable to rise. || Chủ ngữ + be likely to + V.
+choice: “We might as well walk.” nghĩa là: | Chẳng có cách nào hay hơn, thì đi bộ luôn* / Chúng ta đi bộ rất giỏi / Chúng ta bắt buộc phải đi bộ || might as well = đành vậy, làm luôn cho xong.
+choice: Câu nào nghĩa là “rất có thể”? | It may well snow tonight.* / It might as well snow tonight. / It may as well snow tonight. || may well = rất có thể.
+type: You've worked so hard. You're ___ to pass. (chắc chắn) | bound / sure / certain || be bound / sure / certain to = chắc chắn sẽ.
+order: Prices / are / likely / to / rise / again / next / year. | Giá cả nhiều khả năng sẽ lại tăng vào năm sau.
+listen: In this rain, it's bound to be late. | In this rain, it's bound to be late.* / In this rain, it's likely to be late. / In this rain, it's bound to be full. || Nghe bound to be late.

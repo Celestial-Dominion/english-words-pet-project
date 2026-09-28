@@ -1,0 +1,64 @@
+=== first-conditional
+sum: Câu điều kiện loại 1: If + hiện tại đơn, will + nguyên thể — cho việc CÓ THỂ xảy ra trong tương lai: If it rains this afternoon, we'll visit the museum. Vế if dùng hiện tại đơn dù nói về tương lai (không nói If it will rain). Đổi thứ tự được: We'll stay home if it rains (không cần phẩy). Vế kết quả có thể là mệnh lệnh hoặc can. Hỏi: What will you do if…? Loại 0: lần nào cũng thế; loại 1: một tình huống cụ thể sắp tới.
+form: If + hiện tại đơn, will + nguyên thể | If it rains, we'll stay inside.
+form: will + nguyên thể + if + hiện tại đơn | We'll stay inside if it rains.
+form: What will you do if…? | hỏi
+form: vế if không có will | If it rains (không phải If it will rain)
+cast: mia leo
+bg: sea-dawn
+words: if, will, rain, museum, hurry, miss, lucky
+gloss: dolphin
+
+#hook
+mia: What a beautiful morning! Let's go swimming. | Buổi sáng đẹp quá! Mình đi bơi đi. [happy]
+leo: OK. But if it gets too hot, we'll go back to the hotel. | Được. Nhưng nếu trời nóng quá, mình sẽ về khách sạn. [explain]
+mia: Sure. And if it rains this afternoon, we'll visit the museum. | Ừ. Còn nếu chiều nay trời mưa, mình sẽ đi bảo tàng. [happy]
+leo: Good plan. If we're lucky, we'll see dolphins! | Kế hoạch hay đấy. Nếu may mắn, mình sẽ thấy cá heo! [happy]
+> [[If it rains this afternoon, we'll visit the museum]]. Chiều nay có thể mưa, cũng có thể không. Với việc có thể xảy ra trong tương lai, ta dùng câu điều kiện loại 1: vế [[if]] ở hiện tại đơn, vế sau dùng [[will]].
+
+#form
+f: [If] + hiện tại đơn, + [will] + động từ nguyên thể
+> Điều đặc biệt: dù nói về tương lai, vế [[if]] vẫn dùng hiện tại đơn. Nói [[If it rains]], không nói [[If it will rain]]. Chữ [[will]] chỉ nằm ở vế kết quả.
+- If you {study|k} hard, you'll {pass|k} the test. | Nếu học chăm, bạn sẽ qua bài kiểm tra.
+- If we {don't hurry|n}, we'll {miss|k} the bus. | Nếu không nhanh lên, chúng ta sẽ lỡ xe buýt.
+- She'll be angry if you {forget|k} her birthday. | Bạn mà quên sinh nhật cô ấy là cô ấy giận đấy.
+> Câu cuối đảo thứ tự: vế [[will]] đứng trước, vế [[if]] đứng sau. Khi đó không cần dấu phẩy.
+
+#contrast
+vs: If I eat too much, I feel sick. | Hễ ăn nhiều quá là tôi thấy khó chịu. || loại 0: lần nào cũng vậy
+vs: If I eat this cake, I'll feel sick. | Nếu ăn cái bánh này, tôi sẽ thấy khó chịu. || loại 1: một lần cụ thể, sắp tới
+> Loại 0 nói về chuyện lần nào cũng thế. Loại 1 nói về một tình huống cụ thể, sắp xảy ra.
+
+#real
+- What will you do if it rains? | Nếu trời mưa bạn sẽ làm gì?
+- If you need help, I'll be in my room. | Nếu cần giúp, tôi ở trong phòng nhé.
+- If you see Tom, {say hi|k} for me. | Nếu gặp Tom, cho mình gửi lời chào nhé.
+> Vế kết quả không nhất thiết phải có [[will]]. Nó có thể là câu mệnh lệnh, như [[say hi for me]], hoặc dùng [[can]]: [[If you're free, we can have lunch]].
+
+#mistakes
+x: If it will rain, we will stay home. => If it rains, we will stay home. | Nếu trời mưa, chúng tôi sẽ ở nhà. >> Vế [[if]] dùng hiện tại đơn, không dùng [[will]].
+x: If you don't hurry, you miss the train. => If you don't hurry, you'll miss the train. | Không nhanh lên là bạn lỡ tàu đấy. >> Kết quả của một việc cụ thể trong tương lai cần [[will]].
+
+#dialogue
+leo: What will we do if the museum is closed? | Nếu bảo tàng đóng cửa thì mình làm gì? [thinking]
+mia: If it's closed, we'll go to a cafe. | Nếu đóng cửa, mình sẽ vào quán cà phê. [happy]
+leo: And if the cafe is full? | Còn nếu quán cà phê hết chỗ? [thinking]
+mia: Leo! If you worry so much, you won't enjoy the trip! | Leo! Anh cứ lo thế này thì chẳng vui được chuyến đi đâu! [angry]
+leo: OK, OK. | Được rồi, được rồi. [shy]
+
+#recall
+? Nói bằng tiếng Anh: Nếu mai trời đẹp, chúng ta sẽ đi biển. => If the weather is nice tomorrow, we'll go to the beach. | Nếu mai trời đẹp, chúng ta sẽ đi biển.
+? Hỏi bằng tiếng Anh: Nếu bạn trượt thì bạn sẽ làm gì? => What will you do if you fail? | Nếu bạn trượt thì bạn sẽ làm gì?
+
+#recap
+> Việc có thể xảy ra trong tương lai: [[If]] cộng hiện tại đơn, rồi [[will]] cộng nguyên thể. Vế [[if]] không có [[will]]. Hai vế đổi chỗ được, và khi vế [[if]] đứng sau thì không cần dấu phẩy.
+
+#practice
+fill: If it ___ tomorrow, we'll stay home. | rains* / will rain / rained || Vế if → hiện tại đơn.
+fill: If you study hard, you ___ the test. | will pass* / passing / passed || Vế kết quả → will + nguyên thể.
+fix: If he will come, I will tell him. | If he comes, I will tell him.* / If he come, I will tell him. / If he will come, I tell him. || Vế if → hiện tại đơn.
+choice: Câu nào nói về một tình huống cụ thể sắp tới? | If it rains this afternoon, we'll visit the museum.* / If it rains, the roads get wet. / When it rains, I stay inside. || Tương lai cụ thể → loại 1.
+type: What ___ you do if you miss the bus? | will || What will you do if…?
+transform: Đổi thứ tự hai vế: | If it rains, we'll stay home. >> We'll stay home if it rains.* / We'll stay home, if it will rain. / If we'll stay home, it rains. || Vế if đứng sau → không cần phẩy.
+order: If / you / need / help, / I'll / be / in / my / room. | Nếu cần giúp, tôi ở trong phòng nhé.
+listen: If we don't hurry, we'll miss the bus. | If we don't hurry, we'll miss the bus.* / If we hurry, we won't miss the bus. / If we didn't hurry, we'd miss the bus. || Nghe don't hurry · we'll miss.

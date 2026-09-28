@@ -9,6 +9,7 @@
 import { doc, getDoc, collection, getDocs, writeBatch, getFirestore, type Firestore } from "firebase/firestore";
 import { getFbApp } from "./firebase";
 import { db, getXp, getConfig, getGamifyState, invalidateProgressSummary } from "./db";
+import { decodeGrammarRows, encodeGrammarRow, mergeGrammarRows } from "./grammar";
 import { getCourseDone, mergeCourseDone, getStoryPositions, mergeStoryPositions, storyPosStamp } from "./progress-local";
 import {
   fingerprint, fpEq, mergeSnapshots, pruneUndefined,
@@ -108,13 +109,14 @@ async function runSync(uid: string): Promise<SyncResult> {
   if (!store) throw new Error("Firestore chưa cấu hình");
 
   // local + fingerprint
-  const [localReviews, localDaily, localReads, localXp, localNotes, localGamify] = await Promise.all([
+  const [localReviews, localDaily, localReads, localXp, localNotes, localGamify, localGrammar] = await Promise.all([
     db.reviews.toArray(),
     db.daily.toArray(),
     db.reads.toArray(),
     getXp(),
     db.notes.toArray(),
     getGamifyState(),
+    db.grammar.toArray(),
   ]);
   const local: SyncSnapshot = {
     reviews: localReviews,
@@ -123,7 +125,7 @@ async function runSync(uid: string): Promise<SyncResult> {
     notes: localNotes,
     xp: localXp,
     phonics: [...getCourseDone("phonics")],
-    grammar: [...getCourseDone("grammar")],
+    grammar: localGrammar.map(encodeGrammarRow).sort(),
     storyPos: getStoryPositions(),
     gamify: localGamify,
   };
@@ -162,24 +164,25 @@ async function runSync(uid: string): Promise<SyncResult> {
   if (remoteChanged) {
     // phần lưu ở localStorage phải ghi qua helper của progress-local (merge + persist)
     mergeCourseDone("phonics", merged.phonics);
-    mergeCourseDone("grammar", merged.grammar);
     mergeStoryPositions(storyPos);
-    await db.transaction("rw", [db.reviews, db.daily, db.reads, db.gamify, db.notes], async () => {
+    await db.transaction("rw", [db.reviews, db.daily, db.reads, db.gamify, db.notes, db.grammar], async () => {
       // ĐỌC LẠI ngay trong transaction rồi merge tiếp: giữa lúc đọc snapshot ở đầu hàm và lúc
       // này đã có vài giây đi mạng, người dùng có thể vừa trả lời thêm thẻ. bulkPut thẳng
       // `merged` sẽ ghi đè mất các lượt đó VĨNH VIỄN (fingerprint sau đó khớp nên không tự lành).
-      const [curReviews, curDaily, curReads, curNotes, curGamify] = await Promise.all([
+      const [curReviews, curDaily, curReads, curNotes, curGamify, curGrammar] = await Promise.all([
         db.reviews.toArray(),
         db.daily.toArray(),
         db.reads.toArray(),
         db.notes.toArray(),
         db.gamify.get("state"),
+        db.grammar.toArray(),
       ]);
       await db.reviews.bulkPut(mergeReviews(curReviews, reviews));
       await db.daily.bulkPut(mergeDaily(curDaily, daily));
       await db.reads.bulkPut(mergeReads(curReads, reads));
       await db.notes.bulkPut(mergeNotes(curNotes, notes));
       await db.gamify.put(mergeGamify({ ...gamify, xp: Math.max(xp, gamify.xp) }, curGamify ?? { key: "state", xp: 0 }));
+      await db.grammar.bulkPut(mergeGrammarRows(curGrammar, decodeGrammarRows(merged.grammar)));
     });
     invalidateProgressSummary(); // vừa kéo tiến độ máy khác về → header/trang chủ phải tính lại
     // cài đặt: máy nào đổi sau thì thắng

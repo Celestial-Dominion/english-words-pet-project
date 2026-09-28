@@ -1,0 +1,61 @@
+=== there-is-are
+sum: There is / there are = CÓ (cái gì tồn tại ở đâu): There's a bank near here. There are two beds in the room. Hỏi: Is there…? Are there…? Người Việt hay dùng nhầm have: "có" ở đâu đó là there is, "có" của ai là have.
+form: There is + danh từ số ít | There's a bank near here.
+form: There are + danh từ số nhiều | There are two beds.
+form: Is there…? / Are there…? · There isn't / aren't any… | hỏi / phủ định
+form: there is (tồn tại ở đâu) ≠ have (của ai) | Có một cái bàn trong phòng / Tôi có một cái bàn
+cast: linh ben
+bg: street
+words: bank, hotel, bed, restaurant, near
+
+#hook
+linh: Excuse me. Is there a bank near here? | Xin lỗi. Gần đây có ngân hàng nào không? [thinking ipa=excuse:ɪkˈskjuz]
+ben: Yes, there is. It's next to the hotel. | Có đấy. Nó ở cạnh khách sạn. [point]
+linh: And are there any good restaurants? | Thế có nhà hàng nào ngon không? [happy]
+ben: There are two on this street. | Có hai nhà hàng trên phố này. [explain]
+> Hỏi đường, hỏi quanh đây có gì, tiếng Anh dùng [[there is]] và [[there are]]. Chữ “có” này là “có tồn tại”, không phải “sở hữu”.
+
+#form
+f: [There is] + danh từ số ít + nơi chốn
+f2: [There are] + danh từ số nhiều + nơi chốn
+> Một thứ thì dùng [[There is]], nói nhanh là [[There's]]. Nhiều thứ thì dùng [[There are]].
+
+#examples
+- {There's|k} a pharmacy on the corner. | Có một hiệu thuốc ở góc phố.
+- {There are|k} three chairs in the kitchen. | Trong bếp có ba cái ghế.
+- {Is there|k} a shower in the room? | Trong phòng có vòi sen không?
+- {There aren't|k} {any|n} buses at night. | Ban đêm không có xe buýt nào.
+> Hỏi thì đảo [[is]] lên trước: [[Is there…?]] Phủ định với danh từ số nhiều thường có thêm [[any]]: [[There aren't any buses]].
+
+#contrast
+vs: There is a cat in the garden. | Có một con mèo trong vườn. || có tồn tại ở đâu
+vs: I have a cat. | Tôi có một con mèo. || có của ai
+> Tiếng Việt dùng một chữ “có” cho cả hai nghĩa. Tiếng Anh thì tách ra. Nói có cái gì Ở ĐÂU thì dùng [[there is]]. Nói cái gì là CỦA AI thì dùng [[have]].
+
+#mistakes
+x: It has a big park in my city. => There is a big park in my city. | Thành phố tôi có một công viên lớn. >> Đây là lỗi rất hay gặp của người Việt. Công viên tồn tại ở trong thành phố, nên dùng [[There is]], không dùng [[It has]].
+x: There is two banks here. => There are two banks here. | Ở đây có hai ngân hàng. >> Hai ngân hàng là số nhiều: [[There are]].
+x: Have a problem with my room. => There's a problem with my room. | Phòng tôi có vấn đề. >> Câu tiếng Anh cần chủ ngữ. Nói có vấn đề thì dùng [[There's a problem]].
+
+#dialogue
+linh: Hello. Is there a hotel near the station? | Chào anh. Gần nhà ga có khách sạn nào không? [thinking]
+ben: Yes. There's a small hotel on Green Street. | Có. Có một khách sạn nhỏ trên phố Green. [point]
+linh: Are there any rooms for tonight? | Tối nay còn phòng không anh? [worried]
+ben: Let me check. Yes, there's one room. | Để tôi xem. Có, còn một phòng. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Có một quán cà phê ở gần nhà tôi. => There's a cafe near my house. | Có một quán cà phê ở gần nhà tôi.
+? Hỏi bằng tiếng Anh: Gần đây có siêu thị không? => Is there a supermarket near here? | Gần đây có siêu thị không?
+
+#recap
+> Có cái gì ở đâu thì dùng [[There is]] hoặc [[There are]]. Hỏi thì [[Is there…?]] Có của ai thì dùng [[have]]. Đừng nói [[It has]] khi muốn nói ở đâu đó có gì.
+
+#practice
+fill: ___ a supermarket on my street. | There's* / It has / There are || Một siêu thị, tồn tại ở đâu → There's.
+fill: There ___ four people in my family. | are* / is / have || Four people số nhiều → are.
+fill: ___ there a bus to the airport? | Is* / Are / Does || A bus số ít → Is there.
+contrast: ___ a lot of old buildings in my city. | There are* / It has / Have || Nói ở đâu có gì → There are.
+fix: It has a school near my house. | There is a school near my house.* / It have a school near my house. / There has a school near my house. || Tồn tại ở đâu → There is.
+choice: Câu nào nghĩa là “Tôi có một chiếc xe đạp”? | I have a bike.* / There is a bike. / It has a bike. || Có của mình → have.
+order: Are / there / any / good / restaurants? | Có nhà hàng nào ngon không?
+listen: There are three chairs in the kitchen. | There are three chairs in the kitchen.* / There's a chair in the kitchen. / They are chairs in the kitchen. || Nghe There are + three chairs.

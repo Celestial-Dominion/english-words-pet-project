@@ -1,0 +1,74 @@
+=== for-since
+sum: Hiện tại hoàn thành + for / since nói việc bắt đầu trong quá khứ và KÉO DÀI đến bây giờ: I've lived here for five years / since 2020. For + khoảng thời gian (for two hours, for ages); since + mốc bắt đầu (since Monday, since 2019, since I was ten). Hỏi: How long have you…? Tiếng Việt “sống ở đây năm năm rồi” — tiếng Anh không dùng hiện tại đơn (I live here for five years ✗), kể cả với know, be, have. Việc đã kết thúc → quá khứ đơn + for.
+form: have / has + V3 + for + khoảng thời gian | I've lived here for five years.
+form: have / has + V3 + since + mốc | I've lived here since 2020.
+form: How long have you + V3…? | hỏi bao lâu rồi
+form: đã kết thúc → quá khứ đơn + for | I lived in Hue for two years.
+cast: ms-khan ben
+bg: office
+words: for, since, long, company, manager, married
+gloss: current, business
+
+#hook
+ms-khan: So, Ben, how long have you lived in Hanoi? | Vậy, Ben, anh sống ở Hà Nội bao lâu rồi? [neutral]
+ben: I've lived here for five years. | Tôi sống ở đây được năm năm rồi. [explain]
+ms-khan: And how long have you worked at your current company? | Còn anh làm ở công ty hiện tại bao lâu rồi? [thinking]
+ben: Since 2022. I've been a manager since last year. | Từ năm 2022. Tôi làm quản lý từ năm ngoái. [happy]
+> [[I've lived here for five years]]: bắt đầu từ năm năm trước, và bây giờ vẫn đang sống ở đây. Việc kéo dài từ quá khứ đến hiện tại dùng hiện tại hoàn thành. [[For]] đi với khoảng thời gian, [[since]] đi với mốc bắt đầu.
+
+#meaning
+tl: -2.5..0 for five years | năm năm nay
+tl: -2.5 since 2020 | từ năm 2020
+tl: now | bây giờ
+> Cùng một việc, hai cách nói. [[For five years]] đo độ dài của cả quãng thời gian. [[Since 2020]] chỉ vào điểm bắt đầu.
+
+#form
+th: for + khoảng thời gian | since + mốc bắt đầu
+tb: for two hours | since nine o'clock
+tb: for three days | since Monday
+tb: for ten years | since 2015
+tb: for a long time | since I was a child
+> Mẹo nhỏ: trả lời được bằng một con số độ dài thì dùng [[for]]. Chỉ ra được một điểm trên lịch hay trên đồng hồ thì dùng [[since]].
+f: [How long] + [have / has] + chủ ngữ + phân từ …?
+> Hỏi bao lâu rồi thì dùng [[How long have you…?]]
+
+#examples
+- {How long|q} {have|a} you {known|k} each other? | Các bạn quen nhau bao lâu rồi?
+- She {has had|k} this car {since|c} 2018. | Cô ấy có chiếc xe này từ năm 2018.
+- We {haven't seen|n} each other {for|c} ages. | Lâu lắm rồi chúng mình không gặp nhau.
+
+#contrast
+vs: I live in Hanoi. | Tôi sống ở Hà Nội. || sự thật hiện tại
+vs: I've lived in Hanoi for five years. | Tôi sống ở Hà Nội được năm năm rồi. || từ quá khứ đến giờ → hoàn thành
+vs: I lived in Hue for two years. | Tôi từng sống ở Huế hai năm. || đã kết thúc → quá khứ đơn
+> Tiếng Việt chỉ thêm “năm năm rồi”, động từ giữ nguyên. Tiếng Anh thì có [[for]] hay [[since]] tính đến bây giờ là phải dùng hiện tại hoàn thành. Còn việc đã kết thúc, không kéo dài đến giờ, thì dùng quá khứ đơn.
+
+#mistakes
+x: I live here since 2019. => I've lived here since 2019. | Tôi sống ở đây từ năm 2019. >> Có [[since]], việc kéo dài đến giờ, nên dùng hiện tại hoàn thành.
+x: I've worked here since five years. => I've worked here for five years. | Tôi làm ở đây được năm năm. >> Khoảng thời gian thì dùng [[for]].
+x: How long are you married? => How long have you been married? | Hai người cưới nhau bao lâu rồi? >> Hỏi bao lâu tính đến giờ: [[How long have you been…?]]
+x: I know her for ten years. => I've known her for ten years. | Tôi quen cô ấy mười năm rồi. >> [[Know]] cũng phải ở hiện tại hoàn thành: [[I've known]].
+
+#dialogue
+ms-khan: Have you studied English for a long time? | Anh học tiếng Anh lâu chưa? [thinking]
+ben: Since I was ten. But I've only taken business English for six months. | Từ năm mười tuổi. Nhưng tiếng Anh thương mại thì tôi mới học được sáu tháng. [explain]
+ms-khan: Your English is very good. When can you start? | Tiếng Anh của anh rất tốt. Khi nào anh có thể bắt đầu? [happy]
+ben: Great! I can start next Monday. | Tuyệt quá! Tôi có thể bắt đầu từ thứ hai tới. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi làm ở đây được ba năm rồi. => I've worked here for three years. | Tôi làm ở đây được ba năm rồi.
+? Hỏi bằng tiếng Anh: Bạn biết anh ấy bao lâu rồi? => How long have you known him? | Bạn biết anh ấy bao lâu rồi?
+
+#recap
+> Việc kéo dài từ quá khứ đến bây giờ: hiện tại hoàn thành. [[For]] cộng khoảng thời gian, [[since]] cộng mốc bắt đầu. Hỏi thì dùng [[How long have you]], và đừng bao giờ dùng hiện tại đơn với [[for]], [[since]] kiểu này.
+
+#practice
+contrast: I've lived here ___ ten years. | for* / since || Khoảng thời gian → for.
+contrast: She's worked at the bank ___ 2019. | since* / for || Mốc bắt đầu → since.
+fill: We ___ each other since we were kids. | have known* / know / knew || Kéo dài đến giờ + know → have known.
+fill: ___ have you had this phone? | How long* / How much / When || Hỏi bao lâu → How long.
+fix: I study English for three years. | I've studied English for three years.* / I'm studying English since three years. / I studied English since three years. || Kéo dài đến giờ → have studied.
+type: They haven't seen each other ___ ages. | for || For ages = lâu lắm rồi.
+choice: “I lived in Hue for two years.” nghĩa là: | Tôi từng sống ở Huế hai năm, giờ không còn* / Tôi đang sống ở Huế được hai năm / Tôi sẽ sống ở Huế hai năm || Quá khứ đơn → đã kết thúc.
+order: How / long / have / you / known / each / other? | Các bạn quen nhau bao lâu rồi?
+listen: She has had this car since 2018. | She has had this car since 2018.* / She had this car in 2018. / She has had this car for 18 years. || Nghe has had … since.

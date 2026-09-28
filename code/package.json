@@ -9,14 +9,17 @@
     "lint": "eslint",
     "test:e2e": "playwright test",
     "deploy": "npm run build && firebase deploy --only hosting",
-    "test": "node --experimental-strip-types --no-warnings scripts/test-sync-merge.mjs && node --experimental-strip-types --no-warnings scripts/test-sync-2devices.mjs && node --experimental-strip-types --no-warnings scripts/test-logic.mjs && node --no-warnings scripts/test-content.mjs",
+    "test": "node --experimental-strip-types --no-warnings scripts/test-sync-merge.mjs && node --experimental-strip-types --no-warnings scripts/test-sync-2devices.mjs && node --experimental-strip-types --no-warnings scripts/test-logic.mjs && node --no-warnings scripts/test-content.mjs && node --experimental-strip-types --no-warnings scripts/test-grammar.mjs",
     "check": "tsc --noEmit && eslint --quiet && npm test",
     "content:check": "node --no-warnings scripts/check-content.mjs",
     "content:coverage": "node --no-warnings scripts/content-coverage.mjs",
     "content:gaps": "node --no-warnings scripts/content-coverage.mjs --gaps",
     "content:audio": "scripts/.venv-tts/bin/python scripts/build-content-audio.py",
     "content:build": "node --no-warnings scripts/build-content.mjs && scripts/.venv-tts/bin/python scripts/build-content-audio.py && node --no-warnings scripts/build-content.mjs --prune",
-    "content:report": "node --no-warnings scripts/content-report.mjs"
+    "content:report": "node --no-warnings scripts/content-report.mjs",
+    "grammar:check": "node --no-warnings scripts/check-grammar.mjs",
+    "grammar:build": "node --no-warnings scripts/build-grammar.mjs && scripts/.venv-tts/bin/python scripts/build-grammar-audio.py && node --no-warnings scripts/build-grammar.mjs --prune",
+    "grammar:state": "node --no-warnings scripts/grammar-state.mjs"
   },
   "dependencies": {
     "class-variance-authority": "^0.7.1",

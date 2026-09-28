@@ -1,0 +1,69 @@
+=== present-perfect-simple-continuous
+sum: Hiện tại hoàn thành đơn (have done) nhấn mạnh KẾT QUẢ, số lượng, việc đã xong: I've painted two walls. Hoàn thành tiếp diễn (have been doing) nhấn mạnh QUÁ TRÌNH, độ dài, việc có thể chưa xong, dấu vết còn thấy: I've been painting all morning (người dính đầy sơn). How many / how much → đơn; How long → thường tiếp diễn. Động từ trạng thái (know, like, own) → đơn. Với live, work, study: hai cách gần như cùng nghĩa.
+form: have done: kết quả, số lượng, đã xong | I've painted two walls.
+form: have been doing: quá trình, độ dài, dấu vết | I've been painting all morning.
+form: How many…? → đơn · How long…? → tiếp diễn | How many emails have you written?
+form: live · work · study: hai cách gần như nhau | I've lived / I've been living here for years.
+cast: sam dad
+bg: home-day
+words: paint, wall, cover, finish, brush, exercise
+gloss: paint
+
+#hook
+sam: Dad, why are you covered in paint? | Bố ơi, sao người bố dính đầy sơn thế? [surprised]
+dad: I've been painting the living room all morning. | Cả buổi sáng bố sơn phòng khách. [tired]
+sam: Wow. How much have you finished? | Chà. Bố sơn xong được bao nhiêu rồi? [thinking]
+dad: I've painted two walls. Two more to go! | Bố sơn xong hai bức tường. Còn hai bức nữa! [happy]
+> [[I've been painting all morning]] nói về quá trình: kéo dài cả buổi sáng, và dấu vết là sơn dính đầy người. [[I've painted two walls]] nói về kết quả: đã xong được bao nhiêu.
+
+#meaning
+vs: I've been painting the room. | Tôi đang sơn dở căn phòng. || quá trình: có thể chưa xong
+vs: I've painted the room. | Tôi sơn xong căn phòng rồi. || kết quả: đã xong
+> Chỉ khác một chữ [[been]] mà nghĩa khác hẳn. Tiếp diễn: việc có thể chưa xong. Đơn: việc đã hoàn tất, và kết quả đang ở ngay đó.
+
+#form
+th: Câu hỏi | Dùng | Ví dụ
+tb: How many / how much…? | hoàn thành đơn | I've written five emails.
+tb: How long…? | hoàn thành tiếp diễn | I've been writing all day.
+tb: know · like · own… | hoàn thành đơn | I've known her for years.
+> Có con số, số lượng thì dùng đơn. Có độ dài thời gian thì thường dùng tiếp diễn. Còn động từ trạng thái thì luôn là đơn.
+
+#examples
+- {I've read|k} three of her books. | Tôi đã đọc ba cuốn sách của bà ấy. [ipa=read:rɛd]
+- {I've been reading|k} her new book, but I haven't finished it. | Tôi đang đọc dở cuốn mới của bà ấy, chưa xong. [ipa=reading:=]
+- {We've been walking|k} for hours. My feet hurt! | Chúng tôi đi bộ hàng giờ rồi. Chân đau quá!
+- {Have you seen|k} my glasses? | Bạn có thấy kính của tôi đâu không?
+
+#natural
+rank: best | I've lived here for ten years. | Tôi sống ở đây mười năm rồi.
+rank: best | I've been living here for ten years. | Tôi sống ở đây mười năm rồi.
+> Với những việc kéo dài như [[live]], [[work]], [[study]], hai thì gần như cùng nghĩa. Tiếp diễn chỉ nhấn nhẹ vào quá trình, hoặc vào tính tạm thời.
+
+#mistakes
+x: I've been writing three emails today. => I've written three emails today. | Hôm nay tôi viết được ba email rồi. >> Có số lượng, kết quả, thì dùng hoàn thành đơn.
+x: I've been knowing him since school. => I've known him since school. | Tôi quen anh ấy từ hồi đi học. >> [[Know]] là động từ trạng thái, không dùng tiếp diễn.
+x: How long have you written this book? => How long have you been writing this book? | Anh viết cuốn sách này bao lâu rồi? >> Hỏi độ dài của một việc chưa xong: dùng tiếp diễn.
+
+#dialogue
+sam: Can I help? I've been playing games all morning. | Con giúp được không? Cả sáng nay con chơi game. [shy]
+dad: Sure. Have you ever painted a wall? | Được chứ. Con sơn tường bao giờ chưa? [happy]
+sam: No, but I've watched lots of videos about it! | Chưa, nhưng con xem nhiều video về nó lắm rồi! [happy]
+dad: Perfect. Grab a brush! | Tuyệt. Cầm lấy cái cọ đi! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Cả tuần nay tôi ôn thi. => I've been studying for the exam all week. | Cả tuần nay tôi ôn thi.
+? Nói bằng tiếng Anh: Tôi đã làm xong ba bài tập. => I've finished three exercises. | Tôi đã làm xong ba bài tập.
+
+#recap
+> Hoàn thành đơn cho kết quả, số lượng, việc đã xong. Hoàn thành tiếp diễn cho quá trình, độ dài, việc có thể chưa xong, và những dấu vết còn thấy. Với [[live]], [[work]], hai cách gần như nhau.
+
+#practice
+contrast: ___ five kilometers today. | I've run* / I've been running || Số lượng → hoàn thành đơn.
+contrast: I'm tired because ___ since six o'clock. | I've been running* / I've run || Quá trình kéo dài → tiếp diễn.
+fill: How many cups of coffee ___ today? | have you had* / have you been having / are you having || Số lượng → đơn.
+fill: How long ___ for the bus? | have you been waiting* / are you waiting / you have waited || How long, việc đang tiếp diễn → have been waiting.
+fix: I've been reading four books this month. | I've read four books this month.* / I've been read four books this month. / I'm reading four books this month. || Số lượng → hoàn thành đơn.
+choice: “I've been painting the room.” cho biết: | Việc sơn có thể chưa xong* / Căn phòng đã sơn xong / Tôi sẽ sơn căn phòng || Tiếp diễn → quá trình, có thể chưa xong.
+type: I've ___ her since we were at school. (know) | known || Know → hoàn thành đơn.
+order: We've / been / walking / for / hours. | Chúng tôi đi bộ hàng giờ rồi.
+listen: I've painted two walls. Two more to go! | I've painted two walls. Two more to go!* / I've been painting two walls. Two more to go! / I painted two walls. Two more to go! || Nghe I've painted.

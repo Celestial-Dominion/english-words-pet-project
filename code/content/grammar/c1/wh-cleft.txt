@@ -1,0 +1,82 @@
+=== wh-cleft
+sum: Câu chẻ với What / All ở trình độ cao: dồn phần quan trọng xuống cuối câu, nơi người nghe chú ý nhất. What happened was (that) + mệnh đề: mở đầu một lời kể, giải thích (What happened was that my car broke down). Nhấn cả một hành động: What + chủ ngữ + do / did + is / was + (to) nguyên thể (What I did was call the police). All I did was + nguyên thể = tôi chỉ… thôi, thường hàm ý “có gì to tát đâu” (All I did was ask a question). Đảo lại, rất hay gặp khi nói: That's what I mean. · That's why… · That's where you're wrong. Cùng họ: The thing is, … · The reason (why)… is that… (văn viết trang trọng tránh the reason… is because).
+form: What happened was (that) + mệnh đề | What happened was that the car broke down.
+form: What + S + do / did + is / was + (to) nguyên thể | What I did was call the police.
+form: All + S + V + is / was… (= chỉ… thôi) | All I did was ask a question.
+form: That's what / why / where… · The thing is, … | That's what I mean.
+cast: mia leo
+bg: home-lake
+prop: flowers x=820
+words: worry, direct, forever, appointment, cancel, simple
+
+#hook
+mia: Leo! Dinner started an hour ago. What happened? | Leo! Bữa tối bắt đầu từ một tiếng trước rồi. Có chuyện gì vậy? [worried]
+leo: What happened was that my car broke down on the way. | Chuyện là xe tôi bị hỏng giữa đường. [sad]
+mia: Oh no! Why didn't you call? | Trời! Sao anh không gọi? [surprised]
+leo: My phone was dead. What I did was walk to the nearest shop. | Điện thoại hết pin. Việc tôi làm là đi bộ tới cửa hàng gần nhất. [explain]
+> [[What happened was that…]]: mở đầu kiểu này, người nghe biết phần giải thích đang tới. [[What I did was walk…]]: nhấn cả một hành động, và sau [[was]] là động từ nguyên thể.
+
+#form
+f: [What happened was] + (that) + mệnh đề
+> Công thức kể chuyện: [[What happened was]], rồi đến sự việc. Khi nói, [[that]] thường được bỏ.
+f: [What] + chủ ngữ + [do / did] + [is / was] + (to) + nguyên thể
+> Muốn nhấn cả một hành động, đặt [[do]] hoặc [[did]] vào mệnh đề [[what]]. Sau [[is]], [[was]] là động từ nguyên thể, có hay không có [[to]] đều được.
+mv: I called the police . => What I did was call the police .
+> Từ câu thường, việc làm được dời xuống cuối. Để ý [[called]] trở về nguyên thể [[call]].
+th: Mẫu | Ví dụ
+tb: All … is / was | All I did was ask.
+tb: That's what / why / how | That's why I left.
+tb: The thing is, … | The thing is, I'm tired.
+tb: The reason… is that… | The reason I left is that I was tired.
+> Cả họ này cùng một ý: dựng khung trước, dồn tâm điểm ra sau. [[All I did was ask]] là “tôi chỉ hỏi thôi”. [[That's why]], [[That's what]] đảo khung ra sau, rất hay gặp khi nói.
+
+#examples
+- {What worries me is|k} that nobody told us. | Điều làm tôi lo là không ai báo cho chúng ta.
+- {What you should do is|k} talk to her directly. | Việc bạn nên làm là nói thẳng với cô ấy.
+- {All I did was|k} ask a simple question. | Tôi chỉ hỏi một câu đơn giản thôi mà.
+- {That's why|k} I never drive at night. | Vì thế mà tôi không bao giờ lái xe ban đêm.
+
+#contrast
+vs: I only asked a question. | Tôi chỉ hỏi một câu. || câu thường
+vs: All I did was ask a question. | Tôi chỉ hỏi một câu thôi mà. || All-cleft: “có gì to tát đâu”
+> [[All I did was…]] mang thêm sắc thái tự bào chữa: việc mình làm nhỏ thôi, sao lại thành chuyện lớn. Câu có [[only]] chỉ nêu sự việc.
+
+#real
+- {That's what|k} I said! We should have left earlier. | Tôi đã nói thế mà! Lẽ ra chúng ta phải đi sớm hơn.
+- {That's where|k} you're wrong. | Đó chính là chỗ bạn sai.
+- {The thing is|k}, I've already paid for the tickets. | Vấn đề là tôi đã trả tiền vé rồi.
+> Khi nói, người ta rất hay đảo khung ra sau: [[That's what I said]], [[That's where you're wrong]]. Còn [[The thing is]] là cách mở lời khi sắp nói ra một điều khó nói.
+
+#natural
+rank: best | The reason I called is that I need your help. | Lý do tôi gọi là vì tôi cần bạn giúp.
+rank: ok | The reason I called is because I need your help. | Tôi gọi là vì cần bạn giúp.
+> Khi nói, [[the reason… is because]] rất phổ biến. Nhưng trong văn viết trang trọng, nhiều người coi đó là thừa, vì [[reason]] và [[because]] cùng một nghĩa. [[The reason… is that]] thì an toàn ở mọi nơi.
+
+#mistakes
+x: What I did was called the police. => What I did was call the police. | Việc tôi làm là gọi cảnh sát. >> Sau [[What I did was]], động từ trở về nguyên thể: [[call]].
+x: All what I want is some sleep. => All I want is some sleep. | Tất cả những gì tôi muốn là được ngủ. >> Nói [[All I want]] hoặc [[All that I want]], không nói [[All what]].
+x: What I want to say that we need more time. => What I want to say is that we need more time. | Điều tôi muốn nói là chúng ta cần thêm thời gian. >> Câu chẻ cần động từ [[is]] ở giữa hai phần.
+
+#dialogue
+mia: So how did you get here in the end? | Thế cuối cùng anh đến đây bằng cách nào? [thinking]
+leo: All I could do was wait for a taxi. It took forever! | Tôi chỉ còn cách đứng chờ taxi. Lâu kinh khủng! [sad]
+mia: Well, what matters is that you're here now. | Thôi, điều quan trọng là giờ anh đã ở đây. [happy]
+leo: And that's why I brought you these flowers. Sorry I'm late! | Và đó là lý do tôi mang hoa tặng chị. Xin lỗi vì tôi đến muộn! [happy]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[What happened was]]: Chuyện là tôi quên mất cuộc hẹn. => What happened was that I forgot the appointment. | Chuyện là tôi quên mất cuộc hẹn.
+? Nói bằng tiếng Anh, dùng [[All I did was]]: Tôi chỉ mở cửa sổ thôi mà. => All I did was open the window. | Tôi chỉ mở cửa sổ thôi mà.
+
+#recap
+> Câu chẻ với [[what]] và [[all]] dồn tâm điểm xuống cuối. [[What happened was]] để kể, [[What I did was]] cộng nguyên thể để nhấn hành động, [[All I did was]] nghĩa là “tôi chỉ… thôi”. Khi nói, người ta hay đảo khung ra sau: [[That's why]], [[That's what I mean]].
+
+#practice
+fill: What I did ___ call the police. | was* / did / has || Kể việc đã làm → was + nguyên thể.
+fill: What you should do ___ talk to your manager. | is* / does / are || Lời khuyên hiện tại → is + nguyên thể.
+fill: What ___ was that the train was cancelled. | happened* / was happened / happening || Kể sự việc → What happened was…
+fix: What I did was called my mom. | What I did was call my mom.* / What I did was calling my mom. / What I did called my mom. || Sau was → nguyên thể: call.
+transform: Viết lại, nhấn mạnh hành động: | I opened all the windows. >> What I did was open all the windows.* / What I did was opened all the windows. / What did I was open all the windows. || What + S + did + was + nguyên thể.
+choice: “All I did was ask a question.” hàm ý gì? | Tôi chỉ hỏi thôi, có gì to tát đâu* / Tôi đã hỏi rất nhiều câu / Tôi không hỏi gì cả || All … was = chỉ… thôi.
+type: The ___ is, I've already booked the tickets. | thing || The thing is, … mở lời cho điều khó nói.
+order: What / worries / me / is / that / nobody / told / us. | Điều làm tôi lo là không ai báo cho chúng ta.
+listen: All I did was ask a simple question. | All I did was ask a simple question.* / All I did was ask a silly question. / What I did was answer a simple question. || Nghe all I did … simple question.

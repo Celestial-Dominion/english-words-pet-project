@@ -1,0 +1,74 @@
+=== too-enough
+sum: Too + tính từ = quá mức, gây ra vấn đề: This coffee is too hot to drink. Tính từ + enough = đủ: She's not old enough to drive. Enough + danh từ: enough time, enough money. Too much + không đếm được, too many + đếm được. Người Việt khen “ngon quá!” — tiếng Anh khen dùng so / really / very (It's so good!); too good nghe lạ vì too mang ý tiêu cực. Very chỉ nhấn mạnh; too kéo theo vấn đề.
+form: too + tính từ (+ to V) | too hot to drink
+form: tính từ + enough (+ to V) | old enough to drive
+form: enough + danh từ | enough time · enough money
+form: too much + không đếm được · too many + đếm được | too much sugar · too many people
+cast: ben jay
+bg: cafe
+prop: mug x=820
+words: too, enough, sugar, spoon, perfect, expensive
+gloss: spoon, laptop
+
+#hook
+jay: Here's your coffee. | Cà phê của anh đây. [happy @mug]
+ben: Thanks. Ouch! It's too hot to drink! | Cảm ơn. Á! Nóng quá, không uống được! [surprised]
+jay: Sorry! Wait a minute. | Xin lỗi anh! Đợi một chút nhé. [worried]
+ben: And is there enough sugar in it? | Mà có đủ đường chưa nhỉ? [thinking]
+jay: I put in two spoons. Is that too much? | Tôi cho hai thìa. Có nhiều quá không? [thinking]
+ben: No, it's perfect. It's just a little too hot! | Không, vừa đủ. Chỉ hơi nóng quá thôi! [happy]
+> [[Too hot to drink]]: nóng quá, đến mức không uống được. [[Too]] luôn mang ý quá mức, gây ra vấn đề. Còn [[enough]] nghĩa là “đủ”.
+
+#form
+th: Mẫu | Ví dụ | Nghĩa
+tb: too + tính từ | too hot · too small | quá (có vấn đề)
+tb: tính từ + enough | big enough · old enough | đủ
+tb: enough + danh từ | enough time · enough money | đủ
+tb: too much / too many | too much sugar · too many people | quá nhiều
+> Để ý vị trí: [[too]] đứng TRƯỚC tính từ, còn [[enough]] lại đứng SAU tính từ: [[big enough]]. Nhưng với danh từ, [[enough]] đứng trước: [[enough money]].
+
+#examples
+- She's not {old enough|k} to drive. | Cô bé chưa đủ tuổi lái xe.
+- This bag is {too small|k} for my laptop. | Cái túi này nhỏ quá, không vừa máy tính của tôi.
+- We don't have {enough|k} time. | Chúng ta không đủ thời gian.
+- There are {too many|k} people here. | Ở đây đông người quá.
+
+#contrast
+vs: It's very expensive, but I can buy it. | Nó rất đắt, nhưng tôi mua được. || very: chỉ nhấn mạnh
+vs: It's too expensive. I can't buy it. | Nó đắt quá, tôi không mua nổi. || too: quá mức → có vấn đề
+> [[Very]] chỉ làm mạnh thêm ý. [[Too]] thì kéo theo một vấn đề: đắt quá, nên không mua được.
+
+#natural
+rank: best | This soup is so good! | Món súp này ngon quá!
+rank: ok | This soup is very good! | Món súp này rất ngon!
+rank: odd | This soup is too good!
+> Người Việt khen “ngon quá!”, rồi dịch thành [[too good]]. Nhưng [[too]] luôn mang ý quá mức, như thể có vấn đề. Muốn khen, hãy dùng [[so]], [[really]] hoặc [[very]]: [[It's so good!]]
+
+#mistakes
+x: He's enough old to drive. => He's old enough to drive. | Anh ấy đủ tuổi lái xe rồi. >> [[Enough]] đứng sau tính từ: [[old enough]].
+x: This coffee is too much hot. => This coffee is too hot. | Cà phê này nóng quá. >> Trước tính từ chỉ cần [[too]], không có [[much]].
+x: There are too much cars. => There are too many cars. | Có quá nhiều xe. >> [[Cars]] đếm được, nên dùng [[too many]].
+
+#dialogue
+jay: Is the coffee cool enough now? | Giờ cà phê nguội đủ chưa anh? [thinking]
+ben: Yes, it's great. Can I have a piece of cake too? | Rồi, ngon lắm. Cho tôi thêm một miếng bánh nhé? [happy]
+jay: Sorry, it's too late. We sold the last piece. | Xin lỗi anh, muộn quá rồi. Chúng tôi vừa bán miếng cuối cùng. [sad]
+ben: Oh well. I eat too much cake anyway! | Thôi vậy. Dù sao tôi cũng ăn bánh nhiều quá rồi! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Hôm nay lạnh quá, không đi bơi được. => It's too cold to go swimming today. | Hôm nay lạnh quá, không đi bơi được.
+? Nói bằng tiếng Anh: Tôi không đủ tiền. => I don't have enough money. | Tôi không đủ tiền.
+
+#recap
+> [[Too]] đứng trước tính từ, mang ý quá mức, có vấn đề. [[Enough]] đứng sau tính từ, nhưng đứng trước danh từ. Và khi khen, đừng dùng [[too]]: hãy nói [[so good]], [[really good]].
+
+#practice
+fill: This coffee is too hot ___ drink. | to* / for / enough || Too + tính từ + to V.
+contrast: My brother is ___ to watch this movie. | old enough* / enough old || Tính từ + enough.
+fill: We don't have ___ chairs for everyone. | enough* / too / very || Enough + danh từ.
+fill: There's ___ sugar in this tea. I can't drink it. | too much* / too many / enough || Sugar không đếm được → too much.
+fix: These shoes are too much small. | These shoes are too small.* / These shoes are small too much. / These shoes are enough small. || Too + tính từ.
+choice: Khen món ăn “Ngon quá!”, nói thế nào? | It's so good!* / It's too good! / It's good too much! || Khen → so good; too mang ý quá mức.
+type: He isn't tall ___ to play basketball. | enough || Tính từ + enough.
+order: This / bag / is / too / small / for / my / laptop. | Cái túi này nhỏ quá, không vừa máy tính của tôi.
+listen: We don't have enough time. | We don't have enough time.* / We don't have any time. / We have enough time. || Nghe don't have enough.

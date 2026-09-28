@@ -197,7 +197,7 @@ export function audioUrl(lesson: VideoLesson): string {
 // ---------- Timeline ----------
 
 // Câu "đang hoạt động" tại t = câu cuối cùng đã bắt đầu (giữ qua khoảng lặng giữa hai câu).
-export function lineIndexAt(lines: Pick<VideoLine, "start">[], t: number): number {
+export function lineIndexAt(lines: readonly Pick<VideoLine, "start">[], t: number): number {
   let lo = 0;
   let hi = lines.length - 1;
   let ans = -1;

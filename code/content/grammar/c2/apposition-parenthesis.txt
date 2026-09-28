@@ -1,0 +1,72 @@
+=== apposition-parenthesis
+sum: Đồng vị và chêm ý: gài thêm thông tin vào câu mà không làm rối. Đồng vị: một cụm danh từ đứng cạnh danh từ để giải thích, giữa hai dấu phẩy, KHÔNG có động từ (Ms Tran, our new director, starts on Monday — không nói Ms Tran, is our new director). Dấu phẩy đổi nghĩa: My sister Mai (tôi có nhiều chị) ≠ My sister, Mai, (tôi chỉ có một chị). Từ báo hiệu: namely = cụ thể là · that is / in other words = tức là · or rather = nói đúng hơn. Dấu gạch — nhấn mạnh phần chêm; ngoặc ( ) — hạ thấp, thông tin phụ. Phần chêm không làm đổi chủ ngữ: Two people, namely Tom and Anna, were late. Khi nói, người ta hay chêm cả một câu nhỏ (My neighbour — he's a pilot — is never home).
+form: danh từ, cụm danh từ giải thích, phần còn lại | Ms Tran, our new director, starts on Monday.
+form: namely · that is · or rather | She has two goals, namely growth and teamwork.
+form: dấu gạch: nhấn mạnh · ngoặc: thông tin phụ | The office move — the biggest news — happens in May.
+form: My sister Mai ≠ My sister, Mai, | My sister, Mai, lives in Hue.
+cast: mia leo
+bg: office
+words: namely, director, goal, teamwork, retired, pilot
+names: Tran, Hue, Lee, Mai, Tom, Anna, Nam, Hanoi, Vietnam
+
+#hook
+mia: Here's the first line. Ms Tran, our new director, starts on Monday. | Đây là câu đầu. Chị Trần, giám đốc mới của chúng ta, bắt đầu làm từ thứ Hai. [explain]
+leo: Good. Add that she has two goals, namely growth and teamwork. | Tốt. Thêm là chị ấy có hai mục tiêu, cụ thể là tăng trưởng và làm việc nhóm. [thinking]
+mia: And the office move — the biggest news — happens in May. | Còn vụ chuyển văn phòng, tin lớn nhất, sẽ diễn ra vào tháng Năm. [happy]
+leo: Great. Keep it short, that is, under two hundred words. | Tuyệt. Viết ngắn thôi, tức là dưới hai trăm chữ. [explain]
+> Bốn cách chêm thông tin vào câu. [[Ms Tran, our new director]]: đồng vị, một cụm danh từ đứng cạnh để giải thích. [[Namely growth and teamwork]]: cụ thể là. [[The biggest news]] giữa hai dấu gạch: nhấn mạnh phần chêm. [[That is]]: tức là, nói rõ hơn.
+
+#form
+th: Cách chêm | Ví dụ
+tb: đồng vị (giữa dấu phẩy) | My brother, a doctor, lives in Hue.
+tb: namely (cụ thể là) | two goals, namely growth and teamwork
+tb: that is / in other words | under 200 words, that is, very short
+tb: dấu gạch — nhấn mạnh | The results — surprisingly — were good.
+tb: ngoặc ( ) — thông tin phụ | The meeting (three hours!) ended late.
+> Dấu phẩy là trung tính, dấu gạch làm phần chêm nổi bật, còn ngoặc đơn thì hạ nó xuống thành lời bên lề. Chọn dấu là chọn mức độ quan trọng.
+
+#examples
+- Only one person, {namely|k} the manager, has the key. | Chỉ một người, cụ thể là quản lý, có chìa khóa.
+- He arrived late — {as usual|k}. | Anh ta đến muộn, như mọi khi.
+- The plan failed, {or rather|k}, it was never tested. | Kế hoạch thất bại, nói đúng hơn là chưa bao giờ được thử.
+- Mr Lee, {a retired teacher|k}, now writes children's books. | Ông Lee, một giáo viên đã nghỉ hưu, giờ viết sách thiếu nhi.
+
+#contrast
+vs: My sister Mai lives in Hue. | Chị Mai, một trong các chị của tôi, sống ở Huế. || không dấu phẩy: tôi có nhiều chị gái
+vs: My sister, Mai, lives in Hue. | Chị gái tôi, Mai, sống ở Huế. || có dấu phẩy: tôi chỉ có một chị gái
+> Dấu phẩy đổi nghĩa. Không có dấu phẩy, [[Mai]] giúp phân biệt chị này với các chị khác. Có dấu phẩy, [[Mai]] chỉ là thông tin thêm. Khi nói, dấu phẩy thành những quãng ngắt nhỏ.
+
+#natural
+rank: best | My neighbour, a pilot, is never home. | Hàng xóm của tôi, một phi công, hiếm khi ở nhà.
+rank: ok | My neighbour — he's a pilot — is never home. | Anh hàng xóm của tôi, anh ấy là phi công, chẳng mấy khi ở nhà.
+> Khi viết, cụm đồng vị [[a pilot]] gọn và chuẩn. Khi nói, người ta hay chêm cả một câu nhỏ, [[he's a pilot]], giữa hai quãng ngắt: rất tự nhiên trong hội thoại.
+
+#mistakes
+x: My brother, he is a doctor, works in Hue. => My brother, a doctor, works in Hue. | Anh trai tôi, một bác sĩ, làm việc ở Huế. >> Khi viết giữa hai dấu phẩy, phần chêm là cụm danh từ [[a doctor]], không phải cả một câu.
+x: She speaks two languages, namely is English and French. => She speaks two languages, namely English and French. | Cô ấy nói hai thứ tiếng, cụ thể là tiếng Anh và tiếng Pháp. >> Sau [[namely]] là danh từ, không có động từ.
+x: Two people, namely Tom and Anna, was late. => Two people, namely Tom and Anna, were late. | Hai người, cụ thể là Tom và Anna, đã đến muộn. >> Phần chêm không đổi chủ ngữ: [[Two people]] số nhiều, nên dùng [[were]].
+
+#dialogue
+leo: Should we mention the party? | Có nên nhắc tới bữa tiệc không? [thinking]
+mia: Yes, briefly. The date, the twelfth of June, is already fixed. | Có, ngắn gọn thôi. Ngày tổ chức, mười hai tháng Sáu, đã chốt rồi. [explain]
+leo: Perfect. Everyone, including the new director, is invited. | Hoàn hảo. Mọi người, kể cả giám đốc mới, đều được mời. [happy]
+mia: I'll add that in brackets at the end. | Tôi sẽ thêm câu đó trong ngoặc ở cuối. [happy]
+
+#recall
+? Viết bằng tiếng Anh, dùng đồng vị: Ông Nam, bác sĩ của tôi, rất tốt bụng. => Mr Nam, my doctor, is very kind. | Ông Nam, bác sĩ của tôi, rất tốt bụng.
+? Viết bằng tiếng Anh, dùng [[namely]]: Chúng tôi đến thăm hai thành phố, cụ thể là Hà Nội và Huế. => We visited two cities, namely Hanoi and Hue. | Chúng tôi đến thăm hai thành phố, cụ thể là Hà Nội và Huế.
+
+#recap
+> Chêm thông tin mà không làm rối: đồng vị giữa hai dấu phẩy, không có động từ; [[namely]], [[that is]], [[or rather]] để nói rõ hơn; dấu gạch để nhấn, ngoặc để hạ xuống. Dấu phẩy có thể đổi nghĩa, và phần chêm không làm đổi chủ ngữ.
+
+#practice
+fill: We need one thing, ___ more time. | namely* / such / as || namely = cụ thể là.
+fill: Mr Lee, ___ retired teacher, writes children's books. | a* / is a / he is || Đồng vị: cụm danh từ.
+fill: The plan failed, or ___, it was never tried. | rather* / other / more || or rather = nói đúng hơn.
+fix: My aunt, she is a nurse, lives in Hue. | My aunt, a nurse, lives in Hue.* / My aunt, is a nurse, lives in Hue. / My aunt a nurse she lives in Hue. || Đồng vị: cụm danh từ, không có động từ.
+transform: Gộp hai câu bằng đồng vị: | Hanoi is the capital of Vietnam. It has many lakes. >> Hanoi, the capital of Vietnam, has many lakes.* / Hanoi, is the capital of Vietnam, has many lakes. / Hanoi the capital of Vietnam it has many lakes. || Danh từ, cụm đồng vị, phần còn lại.
+choice: “My sister, Mai, is a nurse.” (có dấu phẩy) cho biết: | Tôi chỉ có một chị gái* / Tôi có nhiều chị gái / Mai không phải chị tôi || Có dấu phẩy = thông tin thêm.
+choice: Dấu gạch trong “The results — surprisingly — were good.” dùng để: | Nhấn mạnh phần chêm* / Nối hai từ ghép / Thay cho dấu chấm || Dấu gạch làm phần chêm nổi bật.
+type: Keep it short, that ___, under two hundred words. (tức là) | is || that is = tức là.
+order: Only / one / person, / namely / the / manager, / has / the / key. | Chỉ một người, cụ thể là quản lý, có chìa khóa.
+listen: Good. Add that she has two goals, namely growth and teamwork. | Good. Add that she has two goals, namely growth and teamwork.* / Good. Add that she has two goals, mainly growth and teamwork. / Good. She has two goals: growth and money. || Nghe namely growth and teamwork.

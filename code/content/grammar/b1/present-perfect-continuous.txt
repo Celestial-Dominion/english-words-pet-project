@@ -1,0 +1,76 @@
+=== present-perfect-continuous
+sum: Hiện tại hoàn thành tiếp diễn: have / has been + V-ing — việc bắt đầu trong quá khứ, kéo dài liên tục tới bây giờ (hoặc vừa dừng), nhấn mạnh quá trình và độ dài: I've been waiting for an hour. Hay đi với for, since, How long…? Còn dùng để giải thích dấu hiệu đang thấy: Your eyes are red. Have you been crying? Hoàn thành đơn nhấn mạnh kết quả, số lượng (I've read three books). Động từ trạng thái (know, like, have = sở hữu) dùng hoàn thành đơn.
+form: have / has been + V-ing | I've been waiting for an hour.
+form: How long have you been + V-ing? | hỏi kéo dài bao lâu
+form: giải thích dấu hiệu trước mắt | Your eyes are red. Have you been crying?
+form: know · like · have (sở hữu) → hoàn thành đơn | I've known her for ten years.
+cast: nam ana
+bg: cafe
+prop: mug x=820
+words: wait, project, traffic, cry, healthy, since
+gloss: project
+
+#hook
+nam: Sorry I'm late! Have you been waiting long? | Xin lỗi tôi đến muộn! Chị chờ lâu chưa? [shy]
+ana: I've been waiting for an hour, Nam! | Tôi chờ cả tiếng đồng hồ rồi đấy, Nam! [angry]
+nam: I'm so sorry. The traffic was terrible. | Thành thật xin lỗi chị. Tắc đường kinh khủng. [sad]
+ana: You look tired. Have you been working late? | Trông anh mệt quá. Dạo này anh làm muộn à? [worried]
+nam: Yes, I've been working on a big project all week. | Ừ, cả tuần nay tôi làm một dự án lớn. [tired ipa=project:ˈprɑdʒɛkt]
+> [[I've been waiting for an hour]]: bắt đầu chờ từ một tiếng trước, và đến giờ vẫn đang chờ. Thì hiện tại hoàn thành tiếp diễn nhấn mạnh cái quá trình kéo dài liên tục ấy.
+
+#meaning
+tl: ~-2..0 have been waiting | chờ suốt một tiếng
+tl: now | bây giờ
+> Làn sóng bắt đầu từ quá khứ và chạy liên tục tới tận bây giờ. Tiếng Việt thường diễn đạt bằng “suốt”, “cả… nay”, hay “… rồi”.
+
+#form
+f: Chủ ngữ + [have / has been] + V-ing
+> [[I've been]], [[she's been]], rồi đến động từ thêm [[ing]].
+- {It's been raining|k} all day. | Trời mưa cả ngày rồi.
+- {How long|q} {have|a} you {been learning|k} English? | Bạn học tiếng Anh bao lâu rồi?
+- She {has been working|k} here since June. | Cô ấy làm ở đây từ tháng sáu.
+
+#real
+- Your eyes are red. {Have|a} you {been crying|k}? | Mắt bạn đỏ hoe. Bạn vừa khóc à?
+- I'm hot because {I've been running|k}. | Tôi nóng vì vừa chạy bộ xong.
+> Một cách dùng rất đời thường: giải thích điều đang thấy trước mắt. Mắt đỏ hoe, nên đoán [[Have you been crying?]]. Việc có thể đã dừng, nhưng dấu vết vẫn còn.
+
+#contrast
+vs: I've been reading this book. | Tôi đang đọc dở cuốn sách này. [ipa=reading:=] || quá trình, thường chưa xong
+vs: I've read this book. | Tôi đọc xong cuốn sách này rồi. [ipa=read:rɛd] || kết quả: đã xong
+> Hoàn thành tiếp diễn nhấn mạnh quá trình, và việc thường chưa xong. Hoàn thành đơn nhấn mạnh kết quả, hoặc số lượng: [[I've read three books this month]].
+
+#natural
+rank: best | I've known her for ten years. | Tôi quen cô ấy mười năm rồi.
+rank: bad | I've been knowing her for ten years.
+> Động từ trạng thái như [[know]], [[like]], [[believe]], và [[have]] nghĩa là sở hữu, không dùng dạng tiếp diễn này.
+
+#mistakes
+x: I'm waiting for two hours. => I've been waiting for two hours. | Tôi chờ hai tiếng rồi. >> Kéo dài từ quá khứ tới giờ, có [[for]], thì dùng hoàn thành tiếp diễn. Câu tiếng Việt “đang chờ hai tiếng rồi” dễ khiến ta dùng nhầm hiện tại tiếp diễn.
+x: She has been work here since June. => She has been working here since June. | Cô ấy làm ở đây từ tháng sáu. >> Sau [[been]] là động từ thêm [[ing]].
+x: How long are you learning English? => How long have you been learning English? | Bạn học tiếng Anh bao lâu rồi? >> Hỏi kéo dài bao lâu tới giờ: [[How long have you been…?]]
+
+#dialogue
+ana: How long have you been working on it? | Anh làm dự án đó bao lâu rồi? [thinking]
+nam: Since Monday. I've been sleeping only four hours a night. | Từ thứ hai. Tối nào tôi cũng chỉ ngủ được bốn tiếng. [tired]
+ana: That's not healthy. You should take a break. | Thế không tốt đâu. Anh nên nghỉ một chút. [worried]
+nam: I know. That's why I've been drinking so much coffee! | Tôi biết. Thế nên dạo này tôi uống cà phê nhiều thế! [happy @mug]
+
+#recall
+? Nói bằng tiếng Anh: Tôi chờ bạn nửa tiếng rồi. => I've been waiting for you for half an hour. | Tôi chờ bạn nửa tiếng rồi.
+? Hỏi bằng tiếng Anh: Bạn sống ở đây bao lâu rồi? => How long have you been living here? | Bạn sống ở đây bao lâu rồi?
+
+#recap
+> [[Have been]] cộng [[ing]]: việc kéo dài liên tục từ quá khứ tới bây giờ, nhấn mạnh quá trình. Nó còn giải thích dấu hiệu trước mắt. Riêng động từ trạng thái như [[know]] thì dùng hoàn thành đơn.
+
+#practice
+fill: I've been ___ for you since six o'clock! | waiting* / wait / waited || Have been + V-ing.
+fill: How long ___ you been studying? | have* / are / did || How long have you been…?
+contrast: ___ my homework. Here it is! | I've finished* / I've been finishing || Kết quả đã xong → hoàn thành đơn.
+contrast: ___ this book for a week. I'm on page 100. | I've been reading* / I've read || Quá trình, chưa xong → tiếp diễn.
+fix: I'm living here for three years. | I've been living here for three years.* / I'm been living here for three years. / I've been live here for three years. || Kéo dài tới giờ → have been living.
+choice: “You look tired. Have you been running?” dùng để: | Đoán việc vừa làm qua dấu hiệu trước mắt* / Hỏi về kế hoạch ngày mai / Hỏi về thói quen hằng ngày || Hoàn thành tiếp diễn giải thích dấu hiệu.
+type: It's ___ raining all day. | been || It's been raining.
+order: How / long / have / you / been / learning / English? | Bạn học tiếng Anh bao lâu rồi?
+listen: I'm hot because I've been running. | I'm hot because I've been running.* / I'm hot because I'm running. / I'm hot because I ran. || Nghe I've been running.
+natural: I've known her for ten years.* / I've been knowing her for ten years. || Know → hoàn thành đơn.

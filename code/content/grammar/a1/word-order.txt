@@ -1,0 +1,55 @@
+=== word-order
+sum: Câu tiếng Anh có trật tự khá cứng: chủ ngữ – động từ – tân ngữ (– nơi chốn – thời gian). Không đặt tân ngữ trước động từ, không chen từ giữa động từ và tân ngữ. Thời gian có thể đứng đầu câu, nhưng thường nằm cuối.
+form: Ai + làm gì + cái gì + ở đâu + khi nào | I drink coffee at home every morning.
+form: động từ + tân ngữ luôn liền nhau | speak English well (không phải speak well English)
+cast: ben linh
+bg: office
+prop: mug x=1100
+words: coffee, morning, office, well
+
+#hook
+vs: I drink coffee every morning. | Sáng nào tôi cũng uống cà phê. || tiếng Anh
+vs: Every morning I drink coffee. | Sáng nào tôi cũng uống cà phê. || cũng được, nhấn “mỗi sáng”
+> Hai câu đều đúng. Nhưng có một thứ tuyệt đối không đổi: [[drink coffee]]. Động từ và tân ngữ luôn đứng sát nhau.
+
+#form
+f: Ai + làm gì + cái gì + ở đâu + khi nào
+> Đây là khung câu cơ bản nhất: ai, làm gì, cái gì. Sau đó mới tới nơi chốn, cuối cùng là thời gian.
+mv: I every day coffee drink . => I drink coffee every day .
+> Người mới học hay đặt từ theo thói quen của tiếng mẹ đẻ. Hãy luôn giữ động từ ngay sau chủ ngữ, rồi tới tân ngữ: [[I drink coffee every day]].
+- {Linh|s} {reads|v} {books|o} {at home|t} {every evening|t}. | Tối nào Linh cũng đọc sách ở nhà.
+- {We|s} {have|v} {lunch|o} {at the office|t}. | Chúng tôi ăn trưa ở văn phòng.
+- {My son|s} {plays|v} {football|o} {in the park|t} {on Sundays|t}. | Chủ nhật con trai tôi đá bóng ở công viên.
+> Nơi chốn thường đứng trước thời gian: [[in the park on Sundays]], ở đâu rồi mới đến khi nào.
+
+#mistakes
+x: She speaks very well English. => She speaks English very well. | Cô ấy nói tiếng Anh rất giỏi. >> Không chen [[very well]] vào giữa động từ và tân ngữ. Nói hết [[speaks English]] rồi mới đến [[very well]].
+x: I at home watch TV. => I watch TV at home. | Tôi xem tivi ở nhà. >> Nơi chốn đi sau cụm động từ và tân ngữ: [[watch TV at home]].
+
+#examples
+- I usually eat breakfast at seven. | Tôi thường ăn sáng lúc bảy giờ.
+- On Saturdays, we visit my grandparents. | Thứ bảy, chúng tôi đi thăm ông bà.
+> Thời gian có thể đưa lên đầu câu để nhấn mạnh, như [[On Saturdays]]. Khi đó nhớ đặt dấu phẩy sau nó.
+
+#dialogue
+ben: Do you drink coffee in the morning, Linh? | Buổi sáng chị có uống cà phê không, Linh? [thinking @mug]
+linh: Yes. I drink two cups every day. | Có. Ngày nào tôi cũng uống hai cốc. [happy]
+ben: At home or here? | Ở nhà hay ở đây? [neutral]
+linh: I drink one at home and one at the office. | Tôi uống một cốc ở nhà và một cốc ở văn phòng. [explain]
+
+#recall
+? Nói bằng tiếng Anh: Tôi học tiếng Anh ở nhà mỗi tối. => I study English at home every evening. | Tôi học tiếng Anh ở nhà mỗi tối.
+? Nói bằng tiếng Anh: Anh ấy nấu ăn rất ngon. => He cooks very well. | Anh ấy nấu ăn rất ngon.
+
+#recap
+> Giữ khung câu: ai, làm gì, cái gì, rồi ở đâu, khi nào. Động từ và tân ngữ luôn sát nhau, như [[speak English]], [[drink coffee]].
+
+#practice
+order: I / drink / coffee / every / morning. | Sáng nào tôi cũng uống cà phê.
+order: We / play / tennis / in / the / park. | Chúng tôi chơi quần vợt ở công viên.
+natural: She speaks English very well.* / She speaks very well English. || Không chen từ giữa động từ và tân ngữ.
+fix: I at the office work. | I work at the office.* / I work the office at. / At I work the office. || Động từ ngay sau chủ ngữ; nơi chốn ở sau.
+choice: Chọn câu có trật tự đúng: | My brother plays football on Sundays.* / My brother football plays on Sundays. / My brother plays on Sundays football. || Ai + làm gì + cái gì + khi nào.
+fill: They have lunch ___. | at school every day* / every day at school lunch / school at every day || Nơi chốn trước, thời gian sau.
+listen: We have lunch at the office. | We have lunch at the office.* / We have lunch in the office now. / We had lunch at the office. || Nghe động từ have ngay sau we.
+transform: Đưa thời gian lên đầu câu: | I visit my grandma on Sundays. >> On Sundays, I visit my grandma.* / On Sundays I my grandma visit. / I on Sundays visit my grandma. || Thời gian lên đầu, phần còn lại giữ nguyên thứ tự.

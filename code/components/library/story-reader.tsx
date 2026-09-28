@@ -12,8 +12,10 @@ import { getStoryChapter, setStoryChapter } from "@/lib/progress-local";
 import { cn } from "@/lib/utils";
 import { usePassageAudio } from "./passage-audio";
 import { FocusWords, PassageText, PassageToolbar, useWordLookup } from "./passage-view";
+import { GrammarLinks } from "@/components/video/lesson-extras";
+import type { LessonRef } from "@/lib/grammar";
 
-export function StoryReader({ id }: { id: string }) {
+export function StoryReader({ id, grammar }: { id: string; grammar?: LessonRef[] }) {
   const [doc, setDoc] = useState<StoryDoc | null>(null);
   const [error, setError] = useState(false);
   useEffect(() => {
@@ -27,10 +29,10 @@ export function StoryReader({ id }: { id: string }) {
   }, [id]);
   if (error) return <p className="text-sm text-destructive">Không tải được truyện. Kiểm tra kết nối rồi tải lại trang.</p>;
   if (!doc) return <p className="text-sm text-muted-foreground">Đang tải…</p>;
-  return <Reader doc={doc} />;
+  return <Reader doc={doc} grammar={grammar} />;
 }
 
-function Reader({ doc }: { doc: StoryDoc }) {
+function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
   const [ch, setCh] = useState(0);
   const [showVi, setShowVi] = useState(false);
   const [read, setRead] = useState(false);
@@ -189,6 +191,11 @@ function Reader({ doc }: { doc: StoryDoc }) {
       )}
 
       {last && <FocusWords words={doc.focus} level={doc.level} onOpen={(w) => void lookup.open(w)} />}
+      {last && grammar?.length ? (
+        <section className="mt-8">
+          <GrammarLinks items={grammar} />
+        </section>
+      ) : null}
       {lookup.node}
     </div>
   );

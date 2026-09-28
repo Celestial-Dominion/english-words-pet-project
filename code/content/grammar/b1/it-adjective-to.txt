@@ -1,0 +1,68 @@
+=== it-adjective-to
+sum: It làm chủ ngữ giả khi chủ ngữ thật là một việc dài (to + V): It's easy to fly a kite (tự nhiên hơn To fly a kite is easy). Với ai: It's hard for me to wake up early. Tính cách của người: It was kind of you to help. Thời gian: It takes (+ người) + thời gian + to V: It takes twenty minutes to get there; hỏi How long does it take…? Tiếng Việt không có chữ nào thay cho it, nhưng tiếng Anh luôn cần chủ ngữ (Is easy ✗).
+form: It's + tính từ + to V | It's easy to fly a kite.
+form: It's + tính từ + for + người + to V | It's hard for me to wake up early.
+form: It takes (+ người) + thời gian + to V | It takes twenty minutes to get there.
+form: It was kind of you to… | tính cách người → of
+cast: sam grandpa
+bg: park
+words: easy, hard, dangerous, safe, windy, idea
+gloss: kite
+
+#hook
+sam: Grandpa, is it hard to fly a kite? | Ông ơi, thả diều có khó không ạ? [thinking]
+grandpa: No, it's easy to fly a kite. It's harder to make one! | Không, thả diều dễ lắm. Làm diều mới khó! [happy]
+sam: How long does it take to make one? | Làm một cái mất bao lâu ạ? [thinking]
+grandpa: It took me two days to make this one. | Ông mất hai ngày để làm cái này đấy. [explain]
+> [[It's easy to fly a kite]]: chủ ngữ thật là [[to fly a kite]], nhưng nó dài, nên tiếng Anh đặt [[it]] lên đầu và đẩy phần dài ra sau. Tiếng Việt thì nói thẳng “thả diều dễ lắm”, chẳng cần chữ nào giữ chỗ.
+
+#form
+f: [It's] + tính từ + (for + người) + [to] + động từ
+> [[It]] ở đây không có nghĩa, chỉ giữ chỗ chủ ngữ. Muốn nói việc đó khó hay dễ với ai, thêm [[for]] cộng người: [[It's hard for me to…]]
+- {It's|k} dangerous {to|k} swim here. | Bơi ở đây nguy hiểm lắm.
+- {It's|k} hard {for me|s} {to|k} wake up early. | Tôi khó dậy sớm lắm.
+- {It's|k} nice {to|k} meet you. | Rất vui được gặp bạn.
+f: [It takes] + (người) + thời gian + [to] + động từ
+> Nói mất bao lâu để làm gì: [[It takes twenty minutes to get there]]. Quá khứ là [[It took]], còn câu hỏi là [[How long does it take…?]]
+- {It takes|k} about an hour {to|k} get to the airport. | Ra sân bay mất khoảng một tiếng.
+
+#real
+- {It's a good idea to|k} book early. | Nên đặt vé sớm.
+- {It was kind of you to|k} help. | Bạn thật tốt bụng vì đã giúp.
+- {How long does it take|q} to learn to drive? | Học lái xe mất bao lâu?
+> Vài mẫu rất đời thường: [[It's a good idea to]], nên làm gì đó. [[It was kind of you to]], để cảm ơn ai đã tốt bụng. Để ý: khi nói về tính cách của người, như [[kind]], ta dùng [[of you]], không dùng [[for you]].
+
+#natural
+rank: best | It's important to drink water. | Uống nước là việc quan trọng.
+rank: ok | Drinking water is important. | Uống nước rất quan trọng.
+rank: odd | To drink water is important.
+> Cả ba câu đều đúng ngữ pháp. Nhưng đặt [[to]] cộng động từ lên đầu câu nghe rất cứng. Người bản ngữ thường dùng [[it]], hoặc dùng dạng [[ing]] làm chủ ngữ.
+
+#mistakes
+x: Is easy to learn English. => It's easy to learn English. | Học tiếng Anh dễ mà. >> Tiếng Anh luôn cần chủ ngữ. Dùng [[it]] để giữ chỗ.
+x: It's difficult to me to understand. => It's difficult for me to understand. | Tôi thấy khó hiểu quá. >> Với ai thì dùng [[for]]: [[for me]].
+x: It needs thirty minutes to cook rice. => It takes thirty minutes to cook rice. | Nấu cơm mất ba mươi phút. >> “Mất bao lâu” là [[It takes]].
+
+#dialogue
+sam: It's windy today. Is it a good day to fly it? | Hôm nay gió to. Có phải hôm nay thả diều đẹp không ạ? [happy]
+grandpa: Perfect! But it's not safe to fly it near the trees. | Tuyệt! Nhưng thả gần cây thì không an toàn đâu. [explain]
+sam: OK. It's so much fun to do this with you, Grandpa! | Vâng. Thả diều với ông vui quá! [happy cheer]
+grandpa: It's fun for me too! | Ông cũng vui lắm! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi đi bộ đến trường mất mười phút. => It takes me ten minutes to walk to school. | Tôi đi bộ đến trường mất mười phút.
+? Nói bằng tiếng Anh: Nói tiếng Anh không khó đâu. => It isn't hard to speak English. | Nói tiếng Anh không khó đâu.
+
+#recap
+> Khi chủ ngữ là cả một việc dài, hãy đặt [[it]] lên đầu: [[It's easy to…]], [[It's hard for me to…]]. Nói mất bao lâu: [[It takes]]. Và đừng bỏ [[it]], vì tiếng Anh luôn cần chủ ngữ.
+
+#practice
+fill: ___ easy to use this phone. | It's* / Is / There's || Chủ ngữ giả → It's.
+fill: It's hard ___ me to get up early. | for* / to / of || For + người.
+fill: It ___ two hours to drive there. | takes* / needs / spends || It takes + thời gian.
+fix: Is very cold today. | It's very cold today.* / Very cold today. / Is it very cold today. || Luôn cần chủ ngữ it.
+fix: It's nice meet you. | It's nice to meet you.* / It's nice for meet you. / It nice to meet you. || It's + tính từ + to V.
+type: How long does it ___ to get to the airport? | take || How long does it take…?
+choice: “It was kind of you to help.” — tại sao dùng of? | Vì kind nói về tính cách của người đó* / Vì câu ở quá khứ / Vì có động từ help || Tính cách người → of you.
+order: It / takes / about / an / hour / to / get / to / the / airport. | Ra sân bay mất khoảng một tiếng.
+listen: It's dangerous to swim here. | It's dangerous to swim here.* / It's dangerous to swim at night. / It isn't dangerous to swim here. || Nghe dangerous to swim here.

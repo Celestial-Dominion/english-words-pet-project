@@ -1,0 +1,69 @@
+=== passive-reporting
+sum: Tường thuật trang trọng (tin tức, báo cáo, học thuật), không cần nói ai nói: It is said / believed / thought / reported / expected that + mệnh đề (It is reported that it will be shown in Hanoi). Hoặc đưa chủ ngữ thật lên đầu: chủ ngữ + is said / believed + to V (The painting is believed to be 500 years old). Đang diễn ra: to be + V-ing; xảy ra trước: to have + V3 (It is thought to have been painted by a monk). Văn nói thân mật dùng Apparently… / People say…
+form: It is said / believed / reported + that + mệnh đề | It is believed that the painting is very old.
+form: chủ ngữ + is said / believed + to V | The painting is believed to be 500 years old.
+form: to be + V-ing · to have + V3 | She is thought to be living abroad. · He is said to have left.
+form: văn nói: Apparently… · People say… | Apparently, he left the company.
+cast: ana mr-ross
+bg: office
+words: believe, report, expect, article, temple, rise
+gloss: monk
+
+#hook
+ana: Look at this article. The painting is believed to be 500 years old. | Anh xem bài báo này. Người ta tin rằng bức tranh đã 500 năm tuổi. [explain]
+mr-ross: Really? Who painted it? | Thật à? Ai vẽ vậy? [surprised]
+ana: It's thought to have been painted by a monk. | Người ta cho rằng nó do một nhà sư vẽ. [thinking]
+mr-ross: And where is it now? | Thế giờ nó ở đâu? [thinking]
+ana: It is reported that it will be shown in Hanoi next month. | Theo tin đưa, tháng sau nó sẽ được trưng bày ở Hà Nội. [happy]
+> Đây là giọng văn tin tức: không nói rõ ai tin, ai cho rằng. [[It is reported that…]], [[The painting is believed to be…]]. Nghe khách quan và trang trọng hơn nhiều so với [[people say]].
+
+#form
+f: [It is] + said / believed / reported + [that] + mệnh đề
+> Cách thứ nhất: [[It is]] cộng động từ tường thuật ở dạng bị động, rồi [[that]] và một mệnh đề đầy đủ.
+f: Chủ ngữ + [is] + said / believed + [to] + động từ
+> Cách thứ hai: đưa chủ ngữ thật lên đầu, rồi dùng [[to]] cộng động từ. Cách này gọn hơn, rất hay gặp trên báo chí.
+th: Thời gian | Mẫu | Ví dụ
+tb: cùng lúc | to + V | He is said to be very rich.
+tb: đang diễn ra | to be + V-ing | She is thought to be living abroad.
+tb: xảy ra trước | to have + V3 | They are believed to have left.
+> Việc đã xảy ra trước thời điểm nói thì dùng [[to have]] cộng phân từ: [[He is said to have left]].
+
+#examples
+- {It is expected that|k} prices will rise. | Giá cả được dự báo sẽ tăng.
+- The fire {is thought to have started|k} in the kitchen. | Người ta cho rằng đám cháy bắt đầu từ nhà bếp.
+- She {is said to be|k} the best doctor in the city. | Người ta nói cô ấy là bác sĩ giỏi nhất thành phố.
+- The singer {is reported to be|k} planning a world tour. | Theo tin đưa, ca sĩ đang lên kế hoạch lưu diễn thế giới.
+
+#natural
+rank: best | Apparently, he left the company. | Nghe nói anh ấy nghỉ việc ở công ty rồi.
+rank: ok | He is said to have left the company. | Người ta nói rằng anh ấy đã rời công ty.
+> Khi nói chuyện với bạn bè, hãy dùng [[apparently]] hoặc [[people say]]. Bị động tường thuật hợp với tin tức, báo cáo, bài viết học thuật. Dùng khi nói chuyện hằng ngày thì nghe hơi cứng.
+
+#mistakes
+x: It is said the painting to be very old. => The painting is said to be very old. | Người ta nói bức tranh rất cổ. >> Muốn dùng [[to be]], hãy đưa [[the painting]] lên làm chủ ngữ.
+x: He is believed to leave the country last year. => He is believed to have left the country last year. | Người ta tin rằng năm ngoái anh ta đã rời khỏi đất nước. >> Việc đã xảy ra trước: [[to have left]].
+x: It says that he is very rich. => It is said that he is very rich. | Người ta nói anh ấy rất giàu. >> Bị động tường thuật: [[It is said that]].
+
+#dialogue
+mr-ross: Is it true that the painting was lost for a hundred years? | Có đúng là bức tranh bị thất lạc cả trăm năm không? [thinking]
+ana: Yes. It is said to have been found in an old temple. | Đúng thế. Người ta nói nó được tìm thấy trong một ngôi chùa cổ. [explain]
+mr-ross: What an amazing story! We should go and see it. | Câu chuyện hay thật! Mình nên đi xem. [happy]
+ana: Good idea. The tickets are expected to sell out quickly. | Ý hay. Người ta dự đoán vé sẽ bán hết rất nhanh. [happy]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[It is believed that]]: Người ta tin rằng thành phố này được xây năm 1010. => It is believed that this city was built in 1010. | Người ta tin rằng thành phố này được xây năm 1010.
+? Nói bằng tiếng Anh, dùng [[is said to]]: Người ta nói anh ấy nấu ăn rất giỏi. => He is said to be a great cook. | Người ta nói anh ấy nấu ăn rất giỏi.
+
+#recap
+> Tường thuật trang trọng, không cần nói ai nói: [[It is said that]] cộng mệnh đề, hoặc chủ ngữ cộng [[is said to]]. Việc đã xảy ra trước: [[to have]] cộng phân từ. Còn khi nói chuyện thân mật, cứ dùng [[apparently]].
+
+#practice
+fill: It ___ that the museum will close next year. | is reported* / reports / is reporting || Bị động tường thuật → It is reported that.
+fill: The castle is believed ___ built in 1200. | to have been* / to be / being || Đã xảy ra, bị động → to have been built.
+fill: She is said ___ very rich. | to be* / being / that she is || Chủ ngữ + is said + to be.
+fix: He is thought to leave last week. | He is thought to have left last week.* / He is thought to has left last week. / He is thought leaving last week. || Việc đã xảy ra → to have left.
+transform: Viết lại, bắt đầu bằng chủ ngữ thật: | It is said that the hotel is very expensive. >> The hotel is said to be very expensive.* / The hotel is said that it is very expensive. / The hotel says to be very expensive. || Chủ ngữ + is said + to be.
+choice: Nói chuyện với bạn thân, cách nào tự nhiên nhất? | Apparently, Tom got a new job.* / Tom is said to have got a new job. / It is reported that Tom got a new job. || Văn nói → apparently.
+type: The fire is thought to ___ started in the kitchen. | have || To have + V3.
+order: She / is / said / to / be / the / best / doctor / in / the / city. | Người ta nói cô ấy là bác sĩ giỏi nhất thành phố.
+listen: It is expected that prices will rise. | It is expected that prices will rise.* / It is expected that prices will fall. / We expect prices to rise. || Nghe it is expected … rise.

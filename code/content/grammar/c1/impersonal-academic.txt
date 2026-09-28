@@ -1,0 +1,74 @@
+=== impersonal-academic
+sum: Văn học thuật khách quan: đưa lập luận lên trước, giấu bớt người viết. Chủ ngữ giả It + (modal) + be + V3 + that: It could be argued that… · It should be noted that… · It can be seen that… · It is widely accepted / generally believed that… There is (growing) evidence that… Bị động cho phương pháp (The samples were tested). One = người ta, rất trang trọng (One might argue that…). Tránh I think, In my opinion I think, và you chung chung trong bài luận; một số bài báo khoa học vẫn dùng we (We found that…). Khi nói chuyện, những cấu trúc này nghe cứng nhắc.
+form: It + modal + be + V3 + that… | It could be argued that phones distract students.
+form: It is widely accepted / generally believed that… | It is generally believed that exercise improves mood.
+form: There is (growing) evidence that… | There is growing evidence that sugar is harmful.
+form: One might argue… · bị động cho phương pháp | The samples were tested.
+cast: zoe mr-ross
+bg: library
+words: objective, evidence, distract, sample, survey, argue
+
+#hook
+zoe: My essay starts like this: I think phones are bad for students. | Bài luận của em mở đầu thế này: Em nghĩ điện thoại có hại cho học sinh. [shy]
+mr-ross: Try something more objective. It could be argued that phones distract students. | Thử viết khách quan hơn xem. Có thể lập luận rằng điện thoại làm học sinh mất tập trung. [explain]
+zoe: And then? | Rồi sau đó ạ? [thinking]
+mr-ross: Then give evidence. It is widely accepted that sleep affects learning. | Rồi đưa ra bằng chứng. Người ta thừa nhận rộng rãi rằng giấc ngủ ảnh hưởng đến việc học. [explain]
+> Văn học thuật tránh [[I think]], và thay bằng cấu trúc khách quan: [[It could be argued that]], [[It is widely accepted that]]. Người đọc tập trung vào lập luận, không phải vào người viết.
+
+#form
+f: [It] + modal + [be] + V3 + [that] + mệnh đề
+> Chủ ngữ giả [[It]] cộng bị động: [[It can be argued that]], [[It should be noted that]], [[It could be said that]]. Không cần nói ai lập luận: điều quan trọng là lập luận ấy.
+th: Văn nói | Văn học thuật
+tb: I think that… | It could be argued that…
+tb: Everyone knows that… | It is widely accepted that…
+tb: You can see that… | It can be seen that…
+tb: Remember that… | It should be noted that…
+tb: We tested the samples. | The samples were tested.
+> Cột trái hợp khi trò chuyện. Cột phải là giọng của báo cáo, bài luận, bài báo khoa học. Dòng cuối: bị động giúp mô tả phương pháp mà không cần nhắc người làm.
+
+#examples
+- {It should be noted that|k} the sample was small. | Cần lưu ý rằng mẫu khảo sát khá nhỏ.
+- {It is generally believed that|k} exercise improves mood. | Người ta thường tin rằng tập thể dục cải thiện tâm trạng.
+- {There is growing evidence that|k} sugar is harmful. | Ngày càng có nhiều bằng chứng cho thấy đường có hại.
+- {One might argue that|k} the costs are too high. | Có người có thể lập luận rằng chi phí quá cao.
+
+#contrast
+vs: You should always check your sources. | Bạn luôn nên kiểm tra nguồn tư liệu. || you: thân mật, nói chuyện
+vs: One should always check one's sources. | Người ta luôn nên kiểm tra nguồn tư liệu. || one: rất trang trọng
+> [[One]] là đại từ chỉ “người ta” nói chung, rất trang trọng. Văn học thuật hiện đại hay dùng bị động hơn: [[Sources should always be checked]].
+
+#natural
+rank: best | It could be argued that the new tax is unfair. | Có thể lập luận rằng khoản thuế mới là không công bằng.
+rank: odd | In my opinion, I think that the new tax is unfair.
+> Trong bài luận, tránh [[I think]], nhất là khi chồng lên [[In my opinion]]. Cấu trúc khách quan làm lập luận nghe vững vàng hơn.
+
+#mistakes
+x: It can be argue that prices will fall. => It can be argued that prices will fall. | Có thể lập luận rằng giá sẽ giảm. >> Sau [[can be]] là [[V3]]: [[argued]].
+x: One must to consider the costs. => One must consider the costs. | Cần phải cân nhắc chi phí. >> Sau [[must]] là nguyên thể, không có [[to]].
+x: It is widely accept that the earth is warming. => It is widely accepted that the earth is warming. | Người ta thừa nhận rộng rãi rằng trái đất đang nóng lên. >> Bị động: [[is widely accepted]].
+
+#dialogue
+zoe: Is it ever OK to write in the first person? | Có bao giờ được viết ở ngôi thứ nhất không ạ? [thinking]
+mr-ross: In some science papers, yes. We found that… is quite common. | Trong một số bài báo khoa học thì có. Cách viết “chúng tôi nhận thấy rằng…” khá phổ biến. [explain]
+zoe: And in my essay? | Còn trong bài luận của em? [thinking]
+mr-ross: Keep it impersonal. Let the evidence speak for itself. | Cứ viết khách quan. Hãy để bằng chứng tự lên tiếng. [happy]
+
+#recall
+? Viết theo văn học thuật, bắt đầu bằng [[It is widely accepted]]: Người ta thừa nhận rộng rãi rằng hút thuốc gây ung thư. => It is widely accepted that smoking causes cancer. | Người ta thừa nhận rộng rãi rằng hút thuốc gây ung thư.
+? Viết khách quan, dùng [[It should be noted]]: Cần lưu ý rằng chỉ có một trăm người tham gia khảo sát. => It should be noted that only one hundred people took part in the survey. | Cần lưu ý rằng chỉ có một trăm người tham gia khảo sát.
+
+#recap
+> Văn học thuật khách quan: [[It]] cộng động từ khuyết thiếu cộng [[be]] cộng [[V3]] cộng [[that]], như [[It could be argued that]], [[It should be noted that]]. Thêm [[It is widely accepted that]], [[There is evidence that]], và bị động cho phương pháp.
+> [[One]] dùng khi rất trang trọng. Và trong bài luận, tránh [[I think]].
+
+#practice
+fill: It ___ be argued that the law is unfair. | could* / is / has || It + modal + be + V3.
+fill: It is widely ___ that sleep helps memory. | accepted* / accept / accepting || It is widely accepted that…
+fill: ___ might argue that the price is too high. | One* / You / It || One = người ta (trang trọng).
+fix: It should be note that the data is old. | It should be noted that the data is old.* / It should noted that the data is old. / It should be noting that the data is old. || should be + V3.
+transform: Viết lại khách quan hơn: | I think the results are surprising. >> It could be argued that the results are surprising.* / It could argue that the results are surprising. / It could be argue the results surprising. || It could be argued that…
+choice: Câu nào hợp với bài luận học thuật? | It can be seen that prices have risen.* / You can totally see prices went up. / Look, prices are way up! || Cấu trúc khách quan.
+choice: Vì sao văn học thuật chuộng It is believed that…? | Để lập luận khách quan, tập trung vào ý* / Để câu ngắn hơn / Để nghe thân mật hơn || Giấu bớt người viết, đưa lập luận lên trước.
+type: There is growing ___ that coffee is good for the heart. (bằng chứng) | evidence || There is evidence that…
+order: It / should / be / noted / that / the / sample / was / small. | Cần lưu ý rằng mẫu khảo sát khá nhỏ.
+listen: Try something more objective. It could be argued that phones distract students. | Try something more objective. It could be argued that phones distract students.* / Try something more objective. It could be argued that phones help students. / Try something shorter. It is said that phones distract students. || Nghe could be argued … distract students.

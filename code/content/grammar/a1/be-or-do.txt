@@ -1,0 +1,63 @@
+=== be-or-do
+sum: Hỏi bằng be hay do? Nếu câu KHÔNG có động từ thường (chỉ có danh từ, tính từ, nơi chốn) thì dùng be: Are you tired? Nếu câu có động từ thường (like, work, live…) thì dùng do / does: Do you like tea? Không bao giờ dùng cả hai.
+form: Be + chủ ngữ + tính từ / danh từ / nơi chốn? | Are you tired? Is she a teacher?
+form: Do / Does + chủ ngữ + động từ? | Do you like tea? Does he work here?
+cast: nam mia
+bg: cafe
+prop: mug x=960
+words: tired, hungry, like, tea, busy
+
+#hook
+x: Do you are tired? => Are you tired? | Bạn có mệt không? >> Đây là lỗi rất hay gặp: dùng cả [[do]] lẫn [[are]]. Một câu hỏi chỉ cần MỘT trong hai.
+
+#meaning
+vs: Are you tired? | Bạn có mệt không? || không có động từ thường → be
+vs: Do you like tea? | Bạn có thích trà không? || có động từ like → do
+> Cách chọn rất đơn giản: tìm xem câu có động từ thường không. [[Tired]] là tính từ, câu không có động từ thường, nên dùng [[Are you]]. [[Like]] là động từ, nên dùng [[Do you]].
+
+#form
+th: Câu có… | Dùng | Ví dụ
+tb: danh từ | be | Is she a doctor?
+tb: tính từ | be | Are you hungry?
+tb: nơi chốn | be | Is he at home?
+tb: động từ thường | do / does | Does he like fish?
+> Danh từ, tính từ, nơi chốn thì đi với [[be]]. Động từ thường như [[like]], [[work]], [[live]] thì đi với [[do]] hoặc [[does]].
+- {Is|a} your office far from here? | Văn phòng của bạn có xa đây không?
+- {Does|a} your office open on Saturdays? | Văn phòng của bạn có mở cửa thứ bảy không?
+> Cùng nói về văn phòng, nhưng câu thứ hai có động từ [[open]] nên phải dùng [[Does]].
+
+#examples
+- {Are|a} they your friends? | Họ có phải bạn của bạn không?
+- {Do|a} they speak Vietnamese? | Họ có nói tiếng Việt không?
+- {Is|a} it cold in Hanoi now? | Bây giờ Hà Nội có lạnh không?
+- {Does|a} it snow in Hanoi? | Hà Nội có tuyết rơi không?
+
+#mistakes
+x: Are you like coffee? => Do you like coffee? | Bạn có thích cà phê không? >> [[Like]] là động từ thường, nên hỏi bằng [[Do you]], không dùng [[Are you]].
+x: Does she happy? => Is she happy? | Cô ấy có vui không? >> [[Happy]] là tính từ, không có động từ thường, nên dùng [[Is she]].
+x: I'm not like this song. => I don't like this song. | Tôi không thích bài hát này. >> Phủ định cũng vậy: có động từ [[like]] thì dùng [[don't]].
+
+#dialogue
+mia: Are you busy, Nam? | Cậu có bận không, Nam? [thinking]
+nam: No, I'm not. Why? | Không. Sao thế? [neutral]
+mia: Do you want a coffee? | Cậu có muốn uống cà phê không? [happy @mug]
+nam: Yes, please! Is this cafe new? | Có chứ! Quán này mới mở à? [happy]
+mia: Yes. Do you like it? | Ừ. Cậu có thích không? [happy]
+nam: I love it! | Mình rất thích! [cheer]
+
+#recall
+? Hỏi bằng tiếng Anh: Bạn có đói không? => Are you hungry? | Bạn có đói không?
+? Hỏi bằng tiếng Anh: Bạn có thích bóng đá không? => Do you like football? | Bạn có thích bóng đá không?
+
+#recap
+> Tìm động từ trong câu. Không có động từ thường thì dùng [[be]]: [[Are you tired?]] Có động từ thường thì dùng [[do]] hoặc [[does]]: [[Do you like tea?]] Không bao giờ dùng cả hai.
+
+#practice
+contrast: ___ you a student? | Are* / Do || Student là danh từ → be.
+contrast: ___ you live in Hanoi? | Do* / Are || Live là động từ → do.
+contrast: ___ she at home now? | Is* / Does || At home là nơi chốn → be.
+contrast: ___ he play the guitar? | Does* / Is || Play là động từ → does.
+fix: Do you are ready? | Are you ready?* / Do you ready? / Are you do ready? || Ready là tính từ → chỉ dùng be.
+natural: I don't like this song.* / I'm not like this song. || Có động từ like → don't.
+choice: Câu nào đúng? | Is it cold today?* / Does it cold today? / Do it cold today? || Cold là tính từ → Is it…?
+listen: Do they speak Vietnamese? | Do they speak Vietnamese?* / Are they Vietnamese? / Does he speak Vietnamese? || Nghe Do they ở đầu câu.

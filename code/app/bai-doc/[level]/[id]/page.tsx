@@ -1,5 +1,6 @@
 import { ReadingReader } from "@/components/library/reading-reader";
 import { readingsIndex } from "@/lib/library-server";
+import { grammarFor } from "@/lib/grammar-server";
 
 // Sinh tĩnh mọi bài trong chỉ mục; nội dung bài (JSON) + audio tải phía client khi mở.
 export function generateStaticParams() {
@@ -15,5 +16,5 @@ export async function generateMetadata({ params }: { params: Promise<{ level: st
 
 export default async function ReadingPage({ params }: { params: Promise<{ level: string; id: string }> }) {
   const { id } = await params;
-  return <ReadingReader id={id} />;
+  return <ReadingReader id={id} grammar={grammarFor(id)} />;
 }

@@ -1,0 +1,77 @@
+=== register-shifting
+sum: Chuyển văn phong: một ý, nhiều cách nói — chọn theo người nghe và hoàn cảnh. Trang trọng (thư, thông báo, khách hàng): bị động, danh hóa, đảo ngữ Should you…, từ gốc Latin (require, assist, inform, purchase, commence), câu đầy đủ (We regret to inform you that… · Please do not hesitate to contact us). Trung tính: If you need help, … · I'm sorry to tell you… Thân mật (bạn bè): rút gọn, cụm động từ, tỉnh lược, từ đời thường (Need a hand? · Running late, sorry! · Just give me a shout). Cả ba đều đúng ngữ pháp; LỖI là trộn lẫn hoặc đặt sai chỗ (Dear Sir, thanks a lot for the stuff ✗ · nhắn bạn mà viết I regret to inform you ✗).
+form: trang trọng: Should you require… · We regret to inform you… | Should you require assistance, please call reception.
+form: trung tính: If you need… · I'm sorry to tell you… | If you need anything, just ask.
+form: thân mật: Need a hand? · Running late! | Need anything? I'm going to the shop.
+form: không trộn văn phong trong một văn bản | Dear Sir, thank you for the documents you sent.
+cast: ms-khan jay
+bg: service-hall
+words: require, assist, inform, purchase, commence, hesitate
+names: Tom
+
+#hook
+ms-khan: Jay, how would you tell a guest about breakfast? | Jay, em sẽ báo cho khách về bữa sáng thế nào? [thinking]
+jay: Breakfast's from seven. Grab something whenever! | Bữa sáng từ bảy giờ. Cứ lấy gì ăn lúc nào cũng được! [happy]
+ms-khan: That's fine for a friend. To a guest, say: breakfast is served from seven. | Với bạn bè thì được. Với khách, hãy nói: bữa sáng được phục vụ từ bảy giờ. [explain]
+jay: And in a formal email? | Còn trong email trang trọng thì sao ạ? [thinking]
+> Cùng một thông tin, nhiều cách nói. Với bạn: [[Grab something whenever]], gọn và thân mật. Với khách: [[Breakfast is served from seven]], lịch sự, trung tính. Văn phong không đúng hay sai tự thân; nó đúng hay sai với người nghe.
+
+#form
+th: Trang trọng | Trung tính | Thân mật
+tb: Should you require assistance, … | If you need help, … | Need a hand?
+tb: We regret to inform you that… | I'm sorry to tell you that… | Bad news…
+tb: Please do not hesitate to contact us. | Feel free to contact us. | Just give me a shout.
+tb: The meeting has been postponed. | We've moved the meeting. | Meeting's off till Friday.
+> Đi từ trái sang phải: câu ngắn dần, từ ngữ đời thường hơn, rút gọn nhiều hơn. Văn phong trang trọng dùng bị động, đảo ngữ, và từ dài; văn phong thân mật dùng cụm động từ và tỉnh lược.
+th: Từ trang trọng | Từ thường
+tb: require | need
+tb: purchase | buy
+tb: assist | help
+tb: inform | tell
+tb: commence | start
+> Nhiều cặp từ cùng nghĩa, khác văn phong. Từ bên trái hay gặp trong thư, thông báo, hợp đồng; nói chuyện hằng ngày thì dùng từ bên phải.
+
+#examples
+- {Should you require|k} further information, please contact us. | Nếu quý khách cần thêm thông tin, xin liên hệ với chúng tôi.
+- {If you need|k} anything, just ask. | Nếu cần gì, cứ hỏi nhé.
+- {Need anything|k}? I'm going to the shop. | Cần gì không? Tôi đang ra cửa hàng.
+- {We regret to inform you|k} that the course is full. | Chúng tôi rất tiếc phải thông báo khóa học đã đủ người.
+
+#contrast
+vs: Hey, your flight's off. Sorry! | Này, chuyến bay của bạn hủy rồi. Tiếc nhé! || thân mật: hợp với bạn bè
+vs: We regret to inform you that your flight has been cancelled. | Chúng tôi rất tiếc phải thông báo chuyến bay của quý khách đã bị hủy. || trang trọng: hợp với hãng bay, khách hàng
+> Cả hai đều đúng ngữ pháp. Sai văn phong mới là lỗi: hãng bay nói câu đầu với khách thì thiếu chuyên nghiệp, còn bạn bè nói câu sau thì nghe như đang đùa.
+
+#natural
+rank: best | Thanks for your help! | Cảm ơn bạn đã giúp nhé!
+rank: odd | I would like to express my sincere gratitude for your kind assistance.
+> Trong tin nhắn gửi bạn bè, câu thứ hai trang trọng đến mức nghe như mỉa mai. Chọn văn phong theo người nhận và hoàn cảnh.
+
+#mistakes
+x: Dear Sir, thanks a lot for the stuff you sent. => Dear Sir, thank you for the documents you sent. | Kính gửi ông, cảm ơn ông đã gửi tài liệu. >> Thư mở đầu bằng [[Dear Sir]] thì không dùng [[thanks a lot]], [[stuff]].
+x: Should you need help, hit me up. => Should you need help, please contact me. | Nếu cần giúp đỡ, xin hãy liên hệ với tôi. >> Không trộn [[Should you need]] trang trọng với [[hit me up]] rất suồng sã.
+x: Hey Tom, I regret to inform you that I can't come tonight. => Hey Tom, sorry, I can't make it tonight. | Tom ơi, xin lỗi nhé, tối nay mình không đến được. >> Tin nhắn cho bạn mà dùng [[I regret to inform you]] thì quá trang trọng.
+
+#dialogue
+jay: In a formal email: breakfast will be served from seven o'clock in the main restaurant. | Trong email trang trọng: bữa sáng sẽ được phục vụ từ bảy giờ tại nhà hàng chính. [explain]
+ms-khan: Perfect. And if a guest asks where the pool is? | Hoàn hảo. Còn nếu khách hỏi bể bơi ở đâu? [thinking]
+jay: Certainly. It's on the second floor, next to the gym. | Dạ vâng. Bể bơi ở tầng hai, cạnh phòng tập. [happy]
+ms-khan: Excellent. Polite, clear, and not too stiff. | Xuất sắc. Lịch sự, rõ ràng, mà không cứng nhắc. [happy]
+
+#recall
+? Viết trang trọng, dùng [[Should you]]: Nếu quý khách cần hỗ trợ, xin gọi lễ tân. => Should you require assistance, please call reception. | Nếu quý khách cần hỗ trợ, xin gọi lễ tân.
+? Nhắn tin thân mật cho bạn: Cần giúp một tay không? => Need a hand? | Cần giúp một tay không?
+
+#recap
+> Một ý, nhiều văn phong. Trang trọng: bị động, danh hóa, [[Should you]], từ như [[require]], [[inform]]. Trung tính: [[If you need]]. Thân mật: rút gọn, tỉnh lược, như [[Need a hand?]]. Cả ba đều đúng; lỗi là trộn lẫn, hoặc chọn sai với người nghe.
+
+#practice
+choice: Email gửi khách hàng, câu nào phù hợp? | Please do not hesitate to contact us.* / Just give us a shout! / Hit us up anytime. || Trang trọng → do not hesitate to contact us.
+choice: Nhắn tin cho bạn thân, câu nào tự nhiên? | Running late, sorry!* / I regret to inform you that I will be delayed. / Please be advised of my late arrival. || Thân mật → gọn, tỉnh lược.
+fill: ___ you require further information, please call us. | Should* / Would / Could || Should you require = nếu quý khách cần.
+fill: We wish to ___ you that the office will be closed on Monday. | inform* / tell off / let know || inform = thông báo, trang trọng.
+fix: Dear Sir, thanks a lot for the stuff you sent. | Dear Sir, thank you for the documents you sent.* / Dear Sir, thanks loads for the stuff. / Hey Sir, thank you for the stuff. || Giữ văn phong trang trọng.
+transform: Viết lại thân mật hơn: | We regret to inform you that the concert has been cancelled. >> Sorry, the concert's been cancelled.* / Sorry, we regret the concert cancel. / The concert regret cancelled, sorry. || Thân mật: gọn, rút gọn.
+type: The meeting has been ___ until Friday. (hoãn, trang trọng) | postponed || postpone = hoãn, trang trọng hơn put off.
+order: Should / you / require / further / information, / please / contact / us. | Nếu quý khách cần thêm thông tin, xin liên hệ với chúng tôi.
+listen: That's fine for a friend. To a guest, say: breakfast is served from seven. | That's fine for a friend. To a guest, say: breakfast is served from seven.* / That's fine for a friend. To a guest, say: breakfast is served from eight. / That's rude for a guest. Say breakfast is at seven. || Nghe to a guest … served from seven.

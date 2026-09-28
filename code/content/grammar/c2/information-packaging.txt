@@ -1,0 +1,74 @@
+=== information-packaging
+sum: Đóng gói thông tin: cùng một sự việc, chọn cấu trúc theo ĐIỀU NGƯỜI NGHE CẦN. Chủ động (Anna designed the logo — tâm điểm cuối câu: the logo); bị động (The logo was designed by Anna — giữ chủ đề, tâm điểm: Anna); câu chẻ It (It was Anna who designed it — đối lập, sửa hiểu lầm); câu chẻ What (What the client liked was the colors — dồn tâm điểm xuống cuối); There is / are (giới thiệu điều mới, thường với a, some); đưa lên đầu (The colors I can explain — đối lập). Câu hỏi quyết định câu trả lời: thông tin mới vào vị trí tâm điểm. What chỉ vật, sự việc; với người dùng The person who… Đừng chồng nhiều cấu trúc nhấn lên một câu đơn giản.
+form: chủ động / bị động: chọn chủ đề, tâm điểm cuối câu | The logo was designed by Anna.
+form: câu chẻ It (đối lập) · câu chẻ What (dồn tâm điểm) | It was Anna who designed it, not me.
+form: There is / are: giới thiệu điều mới | There's a problem with the printer.
+form: câu hỏi quyết định đâu là thông tin mới | Who designed it? — Anna did.
+cast: ms-khan mia
+bg: office
+words: logo, design, intern, patience, color, present
+names: Anna, Tom, Mai
+
+#hook
+ms-khan: The client loves the new logo. Who designed it? | Khách hàng rất thích logo mới. Ai thiết kế vậy? [happy]
+mia: It was Anna who designed it, not me. I only chose the colors. | Chính Anna thiết kế, không phải tôi. Tôi chỉ chọn màu thôi. [shy]
+ms-khan: Well, what the client liked most was the colors! | Chà, cái khách hàng thích nhất lại chính là màu sắc! [happy]
+mia: Really? There's a lot of work behind those colors, actually. | Thật ạ? Thật ra, đằng sau mấy màu đó là cả núi công việc. [happy]
+> Cùng một câu chuyện, mỗi câu chọn một cấu trúc để đặt trọng tâm. [[It was Anna who]]: sửa hiểu lầm về người làm. [[What the client liked most was]]: dồn tâm điểm vào [[the colors]]. [[There's a lot of work]]: giới thiệu một thông tin mới.
+
+#form
+th: Cấu trúc | Câu | Trọng tâm
+tb: chủ động | Anna designed the logo. | the logo
+tb: bị động | The logo was designed by Anna. | Anna
+tb: câu chẻ It | It was Anna who designed it. | Anna, đối lập
+tb: câu chẻ What | What Anna designed was the logo. | the logo, đối lập
+tb: đưa lên đầu | The logo, Anna designed. | đối lập với việc khác
+> Không cấu trúc nào đúng hơn cấu trúc nào. Câu hay là câu đặt đúng thông tin mới vào đúng vị trí tâm điểm, theo điều người nghe đang cần biết.
+f: thông tin đã biết + … + thông tin mới (tâm điểm)
+> Chọn cấu trúc theo hai câu hỏi: người nghe đã biết gì, và mình muốn họ chú ý vào đâu. Phần họ đã biết để lên trước, phần mới để vào tâm điểm.
+
+#examples
+- {There's|k} a problem with the printer. | Máy in đang có trục trặc.
+- {It wasn't the price that|k} put me off, it was the color. | Không phải giá khiến tôi ngại, mà là màu sắc.
+- The report {was written by|v} two interns. | Bản báo cáo do hai thực tập sinh viết.
+- {What we need now|k} is a clear plan. | Thứ chúng ta cần bây giờ là một kế hoạch rõ ràng.
+
+#contrast
+vs: Who designed the logo? — It was designed by Anna. | Ai thiết kế logo? — Logo do Anna thiết kế. || hỏi về người → người ở cuối
+vs: What did Anna design? — She designed the logo. | Anna thiết kế gì? — Cô ấy thiết kế logo. || hỏi về vật → vật ở cuối
+> Câu hỏi quyết định đâu là thông tin mới. Thông tin mới luôn được đưa vào vị trí tâm điểm: cuối câu, hoặc ngay sau [[It was]].
+
+#natural
+rank: best | Anna designed it. | Anna thiết kế đấy.
+rank: odd | It was by Anna that the logo was designed.
+> Với một câu trả lời đơn giản, đừng chồng nhiều cấu trúc nhấn. Câu chẻ lồng bị động như vậy rất nặng nề, chỉ hợp với văn viết cực kỳ trang trọng.
+
+#mistakes
+x: What designed the logo was Anna. => The person who designed the logo was Anna. | Người thiết kế logo là Anna. >> [[What]] chỉ vật, sự việc. Với người, dùng [[The person who]], hoặc [[It was Anna who]].
+x: There is the new manager in the office. => The new manager is in the office. | Quản lý mới đang ở văn phòng. >> [[There is]] giới thiệu điều mới, thường với [[a]], [[some]]. Người, vật đã xác định bằng [[the]] thì làm chủ ngữ bình thường.
+x: The logo designed Anna. => The logo was designed by Anna. | Logo do Anna thiết kế. >> Muốn giữ [[the logo]] làm chủ đề thì phải dùng bị động.
+
+#dialogue
+ms-khan: So who should present the design to the client? | Vậy ai nên trình bày thiết kế với khách hàng? [thinking]
+mia: It should be Anna. The ideas were hers. | Nên là Anna ạ. Ý tưởng là của cô ấy. [explain]
+ms-khan: And the colors? | Còn màu sắc? [thinking]
+mia: Those I can explain myself! | Phần màu thì tôi tự trình bày được! [happy]
+
+#recall
+? Nói bằng tiếng Anh, để sửa hiểu lầm: Không phải Tom, chính Mai mới là người gọi. => It wasn't Tom, it was Mai who called. | Không phải Tom, chính Mai mới là người gọi.
+? Nói bằng tiếng Anh, dồn tâm điểm vào sự kiên nhẫn: Thứ bạn cần là sự kiên nhẫn. => What you need is patience. | Thứ bạn cần là sự kiên nhẫn.
+
+#recap
+> Cùng một sự việc, nhiều cách đóng gói: chủ động, bị động, câu chẻ [[It]], câu chẻ [[What]], [[There is]], đưa lên đầu. Hãy hỏi: người nghe đã biết gì, và cần chú ý vào đâu? Thông tin mới vào tâm điểm, và đừng chồng quá nhiều cấu trúc nhấn.
+
+#practice
+choice: Câu nào sửa hiểu lầm “Tom viết bài hát này”? | It was my brother who wrote it, not Tom.* / My brother wrote a song. / A song was written by someone. || Câu chẻ It để sửa hiểu lầm.
+fill: ___ a strange noise coming from the kitchen. | There's* / It's / What's || Giới thiệu điều mới → There's.
+fill: ___ I love about this city is the food. | What* / It / That || What + mệnh đề = điều mà.
+fill: It was my mother ___ taught me to cook. | who* / what / which || Câu chẻ với người → who.
+fix: What called me was the manager. | The person who called me was the manager.* / What the manager called me was. / Who called me the manager was. || Với người → The person who.
+transform: Viết lại, giữ “the bridge” làm chủ đề: | Engineers from Japan built the bridge. >> The bridge was built by engineers from Japan.* / The bridge built engineers from Japan. / It was built the bridge by engineers from Japan. || Bị động giữ chủ đề.
+choice: “What did you buy?” Câu trả lời nào tự nhiên nhất? | I bought a new jacket.* / It was a new jacket that was bought by me. / A new jacket, I bought it. || Trả lời thẳng, thông tin mới ở cuối.
+type: ___ was the cost, not the design, that worried us. | It || Câu chẻ It.
+order: What / we / need / now / is / a / clear / plan. | Thứ chúng ta cần bây giờ là một kế hoạch rõ ràng.
+listen: It was Anna who designed it, not me. I only chose the colors. | It was Anna who designed it, not me. I only chose the colors.* / It was Anna who chose the colors, not me. / Anna designed it, and I chose the colors too. || Nghe it was Anna who designed it.

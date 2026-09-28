@@ -1,0 +1,67 @@
+=== subject-object-questions
+sum: Hỏi CHỦ NGỮ (ai / cái gì làm): từ hỏi + động từ, KHÔNG có do / does / did: Who ate the cake? What happened? Hỏi TÂN NGỮ (làm ai / cái gì): từ hỏi + do / does / did + chủ ngữ + động từ: What did you eat? Who did you call? Cùng từ hỏi mà nghĩa ngược nhau: Who called you? (ai gọi bạn) ≠ Who did you call? (bạn gọi ai). Who / What làm chủ ngữ ở hiện tại → động từ thêm s: Who lives here?
+form: Who / What + động từ…? — hỏi chủ ngữ | Who ate the cake?
+form: Who / What + do / does / did + chủ ngữ + động từ? — hỏi tân ngữ | What did you eat?
+form: Who called you? ≠ Who did you call? | ai gọi bạn · bạn gọi ai
+form: Who lives here? · What happens next? | hiện tại: động từ thêm s
+cast: mom sam
+bg: home-evening
+prop: cake x=820
+words: who, happen, belong, cookie, break, meet
+gloss: cookie
+
+#hook
+mom: Who ate the cake? It was for Grandma! | Ai ăn cái bánh rồi? Bánh để dành cho bà mà! [angry @cake]
+sam: Not me! Max ate it. | Không phải con! Max ăn đấy. [shy]
+mom: Really? And what did you eat? | Thật không? Thế con ăn gì? [thinking]
+sam: I... ate the cookies. | Con... ăn bánh quy ạ. [shy]
+> [[Who ate the cake?]] hỏi ai là người ăn, tức là hỏi chủ ngữ, nên không có [[did]]. [[What did you eat?]] thì đã biết con là người ăn, chỉ hỏi món gì bị ăn, tức là hỏi tân ngữ, nên cần [[did]].
+
+#meaning
+vs: Who called you? | Ai gọi cho bạn? || hỏi chủ ngữ: người gọi
+vs: Who did you call? | Bạn gọi cho ai? || hỏi tân ngữ: người được gọi
+> Cùng là [[who]], cùng động từ [[call]], mà nghĩa ngược nhau. Có [[did]] thì [[you]] là người gọi. Không có [[did]] thì chính [[who]] là người gọi.
+
+#form
+f: [Who / What] + động từ + …? — hỏi chủ ngữ
+> Khi từ hỏi chính là chủ ngữ, câu giữ nguyên thứ tự câu kể: chỉ việc thay chủ ngữ bằng [[who]] hay [[what]].
+mv: Max ate the cake . => Who ate the cake ?
+> Thay [[Max]] bằng [[Who]], thế là xong câu hỏi.
+f: [Who / What] + [do / does / did] + chủ ngữ + động từ? — hỏi tân ngữ
+> Còn khi hỏi tân ngữ, ta dùng trợ động từ như mọi câu hỏi bình thường.
+
+#examples
+- {What|q} {happened|k} to your car? | Xe của bạn bị làm sao thế?
+- {Who|q} {lives|k} in that house? | Ai sống trong ngôi nhà đó?
+- {What|q} {did|a} the doctor {say|k}? | Bác sĩ đã nói gì?
+- {Who|q} {does|a} this bag {belong|k} to? | Cái túi này của ai?
+
+#mistakes
+x: Who did call you? => Who called you? | Ai gọi cho bạn? >> Hỏi người gọi, tức là hỏi chủ ngữ, nên không có [[did]].
+x: What did happen? => What happened? | Chuyện gì đã xảy ra? >> [[What]] là chủ ngữ, không dùng [[did]].
+x: Who live next door? => Who lives next door? | Ai sống bên cạnh? >> [[Who]] làm chủ ngữ thì động từ chia như ngôi thứ ba số ít: [[lives]].
+x: What you bought? => What did you buy? | Bạn đã mua gì? >> Hỏi tân ngữ thì cần [[did]].
+
+#dialogue
+mom: Who told you that you could eat the cookies? | Ai bảo con là con được ăn bánh quy? [angry]
+sam: Nobody told me. I was hungry! | Chẳng ai bảo con cả. Con đói mà! [shy]
+mom: OK. Who's going to help me make a new cake? | Được rồi. Thế ai sẽ giúp mẹ làm bánh mới đây? [thinking]
+sam: Me! And Max too! | Con ạ! Cả Max nữa! [happy cheer]
+
+#recall
+? Hỏi bằng tiếng Anh: Ai đã mở cửa sổ? => Who opened the window? | Ai đã mở cửa sổ?
+? Hỏi bằng tiếng Anh: Bạn đã gặp ai ở bữa tiệc? => Who did you meet at the party? | Bạn đã gặp ai ở bữa tiệc?
+
+#recap
+> Hỏi chủ ngữ, tức là ai làm, cái gì xảy ra: từ hỏi cộng động từ, không có [[do]] hay [[did]]. Hỏi tân ngữ: từ hỏi cộng [[do]], [[does]], [[did]], rồi chủ ngữ và động từ. [[Who called you?]] khác hẳn [[Who did you call?]]
+
+#practice
+contrast: ___ the window? — Tom broke it. | Who broke* / Who did break || Hỏi người làm (chủ ngữ) → không did.
+contrast: ___ at the party? — I met Anna. | Who did you meet* / Who met you || Hỏi người được gặp (tân ngữ) → did.
+fill: What ___? You look worried. | happened* / did happen / happen || What là chủ ngữ → happened.
+fill: Who ___ in this apartment? | lives* / live / does live || Who làm chủ ngữ → lives.
+fix: Who did write this letter? | Who wrote this letter?* / Who did wrote this letter? / Who written this letter? || Hỏi người viết → không did.
+choice: “Who did you call?” nghĩa là: | Bạn đã gọi cho ai?* / Ai đã gọi cho bạn? / Bạn gọi cho ai đó chưa? || Có did → you là người gọi.
+type: What ___ you buy at the market? | did || Hỏi tân ngữ → did.
+order: Who / does / this / bag / belong / to? | Cái túi này của ai?
+listen: Who lives in that house? | Who lives in that house?* / Who did you live with? / Who left the house? || Nghe who lives.

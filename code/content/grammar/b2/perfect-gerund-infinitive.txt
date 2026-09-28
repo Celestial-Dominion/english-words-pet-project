@@ -1,0 +1,68 @@
+=== perfect-gerund-infinitive
+sum: Nhấn mạnh việc xảy ra TRƯỚC. Having + V3 đứng ở chỗ cần dạng -ing, sau deny, admit, regret, sau giới từ: I deny having touched it. He regrets having quit his job. To have + V3 đứng ở chỗ cần to V, sau seem, appear, be said / believed: You seem to have forgotten. Would love / like / hate to have + V3 = tiếc vì đã không được: I'd love to have tried it. Khi thứ tự đã rõ (admit, deny), dạng thường là đủ và tự nhiên hơn: He admitted taking it.
+form: having + V3 = đã làm (trước đó) | He denied having eaten the cake.
+form: seem / appear + to have + V3 | She seems to have left.
+form: would love + to have + V3 = tiếc vì không được | I'd love to have seen it.
+form: thứ tự đã rõ → dạng thường cũng đủ | He admitted taking it.
+cast: ana jay
+bg: restaurant
+prop: cake x=820
+words: deny, seem, appear, regret, thief, escape
+gloss: thief
+
+#hook
+ana: Jay, somebody ate half of the new cake! | Jay ơi, có người ăn mất nửa cái bánh mới rồi! [angry @cake]
+jay: Don't look at me. I deny having touched it! | Đừng nhìn tôi. Tôi khẳng định là chưa hề động vào nó! [shy]
+ana: Hmm. You seem to have forgotten to clean your mouth. | Hừm. Hình như anh quên lau miệng rồi. [thinking point]
+jay: Oh... I seem to have eaten a little piece. | Ồ... Hình như tôi có ăn một miếng nhỏ. [shy]
+> [[Having touched]]: dạng [[ing]] hoàn thành, nói về việc đã xảy ra trước lúc nói. [[You seem to have forgotten]]: dạng nguyên thể hoàn thành, tức [[to have]] cộng phân từ, đứng sau [[seem]].
+
+#form
+th: Dạng | Dùng sau | Ví dụ
+tb: having + V3 | deny · admit · regret · giới từ | He regrets having quit.
+tb: to have + V3 | seem · appear · be said · be believed | She seems to have forgotten.
+tb: to have + V3 | would love · would like · would hate | I'd love to have been there.
+> Cả hai dạng đều nhấn mạnh: việc này xảy ra trước. [[Having]] đứng ở chỗ cần dạng [[ing]]. [[To have]] đứng ở chỗ cần dạng [[to]].
+
+#examples
+- He {regrets|k} {having quit|v} his job. | Anh ấy hối hận vì đã bỏ việc.
+- The thief {seems to have entered|k} through the window. | Có vẻ tên trộm đã vào qua cửa sổ.
+- I'd love {to have seen|k} your face! | Giá mà tôi được thấy mặt bạn lúc đó!
+
+#contrast
+vs: They seem to live here. | Có vẻ họ sống ở đây. || seem to + V: nhận xét về bây giờ
+vs: They seem to have lived here for years. | Có vẻ họ đã sống ở đây nhiều năm. || seem to have + V3: điều đã xảy ra
+> [[Seem to]] cộng động từ: nhận xét về hiện tại. [[Seem to have]] cộng phân từ: nhận xét về điều đã xảy ra, hay đã kéo dài tới giờ.
+
+#natural
+rank: best | He admitted taking the money. | Anh ta thừa nhận đã lấy tiền.
+rank: ok | He admitted having taken the money. | Anh ta thừa nhận đã lấy số tiền đó.
+> Khi động từ đã cho thấy thứ tự, như [[admit]], [[deny]], dạng thường là đủ, và tự nhiên hơn. Dạng hoàn thành nhấn mạnh hơn, trang trọng hơn.
+
+#mistakes
+x: He denied to have eaten the cake. => He denied having eaten the cake. | Anh ta chối là không ăn cái bánh. >> [[Deny]] đi với dạng [[ing]]: [[having eaten]].
+x: She seems having left early. => She seems to have left early. | Có vẻ cô ấy đã về sớm. >> [[Seem]] đi với [[to]]: [[to have left]].
+x: I'd love to have see the show. => I'd love to have seen the show. | Giá mà tôi được xem buổi diễn đó. >> Sau [[to have]] là phân từ: [[seen]].
+
+#dialogue
+ana: Well, you seem to have eaten more than a little piece. | Hừm, có vẻ anh ăn nhiều hơn một miếng nhỏ đấy. [thinking]
+jay: OK, I admit eating half of it. I'm sorry! | Thôi được, tôi thừa nhận đã ăn nửa cái. Xin lỗi chị! [shy]
+ana: I'd love to have tried it too, you know! | Tôi cũng muốn được nếm thử lắm chứ! [angry]
+jay: I'll make another one. I promise! | Tôi sẽ làm cái khác. Tôi hứa! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Có vẻ anh ấy đã quên cuộc hẹn. => He seems to have forgotten the appointment. | Có vẻ anh ấy đã quên cuộc hẹn.
+? Nói bằng tiếng Anh: Cô ấy hối hận vì đã bán ngôi nhà. => She regrets having sold the house. | Cô ấy hối hận vì đã bán ngôi nhà.
+
+#recap
+> Muốn nhấn mạnh việc xảy ra trước: [[having]] cộng phân từ ở chỗ cần [[ing]], như sau [[deny]], [[regret]]. [[To have]] cộng phân từ ở chỗ cần [[to]], như sau [[seem]], [[would love]]. Khi thứ tự đã rõ, dạng thường là đủ.
+
+#practice
+fill: He denied ___ the window. | having broken* / to have broken / have broken || Deny + having + V3.
+fill: She seems ___ the key. | to have lost* / having lost / to lose || Seem + to have + V3.
+fill: I'd love ___ to the concert last night. | to have gone* / having gone / to go || Tiếc vì không được → to have gone.
+fix: The thief appears to has escaped. | The thief appears to have escaped.* / The thief appears having escaped. / The thief appears to escaped. || Appear + to have + V3.
+choice: “I'd love to have seen it.” nghĩa là: | Tiếc là tôi đã không được thấy* / Tôi rất muốn xem nó ngày mai / Tôi đã thấy và rất thích || Would love + to have + V3.
+type: They seem ___ lived here for years. | to have || Seem to have + V3.
+order: He / regrets / having / quit / his / job. | Anh ấy hối hận vì đã bỏ việc.
+listen: The thief seems to have entered through the window. | The thief seems to have entered through the window.* / The thief seems to enter through the window. / The thief seemed to have entered through the door. || Nghe seems to have entered … window.

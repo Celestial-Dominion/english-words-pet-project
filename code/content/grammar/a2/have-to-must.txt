@@ -1,0 +1,77 @@
+=== have-to-must
+sum: Have to / has to + nguyên thể = phải (do quy định, hoàn cảnh bên ngoài): I have to work on Saturday. Must = phải (người nói tự thấy cần, hoặc quy định viết trang trọng): You must take this medicine. Quá khứ của cả hai: had to. Phủ định khác nghĩa hẳn: don't have to = không cần, không bắt buộc; mustn't = cấm, không được làm. Hỏi: Do I have to…?
+form: have to / has to + nguyên thể | I have to work on Saturday.
+form: must + nguyên thể | You must take this medicine.
+form: don't have to = không cần · mustn't = cấm | You don't have to pay. · You mustn't smoke.
+form: had to = phải (quá khứ) | I had to wait for an hour.
+cast: dr-lee grandpa
+bg: hospital
+prop: thermometer x=820
+words: must, medicine, rest, smoke, pay, wait
+gloss: medicine, rest, helmet, passport
+names: Brown
+
+#hook
+dr-lee: Mr. Brown, you have a bad cold. You must rest for three days. | Ông Brown, ông bị cảm nặng. Ông phải nghỉ ngơi ba ngày. [explain]
+grandpa: Do I have to stay in bed? | Tôi có phải nằm trên giường không? [worried]
+dr-lee: No, you don't have to stay in bed. But you mustn't go out in the rain. | Không, ông không cần nằm suốt trên giường. Nhưng ông không được ra ngoài trời mưa. [explain]
+grandpa: And I have to take this medicine? | Còn thuốc này, tôi phải uống à? [thinking]
+dr-lee: Yes, twice a day. | Vâng, ngày hai lần. [nod]
+> [[Must]] và [[have to]] đều nghĩa là “phải”. Nhưng phủ định thì khác hẳn nhau. [[You don't have to stay in bed]]: không cần, không bắt buộc. [[You mustn't go out]]: cấm, không được làm.
+
+#meaning
+vs: You don't have to pay. It's free. | Bạn không cần trả tiền. Miễn phí mà. || không cần, không bắt buộc
+vs: You mustn't smoke here. | Bạn không được hút thuốc ở đây. || cấm
+> Đây là cặp dễ nhầm nhất. Tiếng Việt nói “không phải” cho cả hai nghĩa. Nhưng tiếng Anh tách rõ: [[don't have to]] là muốn làm thì làm, không làm cũng được. [[Mustn't]] là tuyệt đối không được làm.
+
+#form
+th: Khẳng định | Phủ định | Câu hỏi
+tb: I have to go. | I don't have to go. | Do I have to go?
+tb: She has to go. | She doesn't have to go. | Does she have to go?
+tb: You must go. | You mustn't go. | —
+> [[Have to]] chia như động từ thường: [[has to]] với [[he]], [[she]], [[it]], phủ định và câu hỏi thì mượn [[do]], [[does]]. [[Must]] thì không bao giờ đổi, và không có [[to]].
+pron: mustn't | t đầu câm | ˈmʌsənt
+> Chú ý phát âm: trong [[mustn't]], chữ t đầu tiên không đọc.
+
+#contrast
+vs: I have to wear a uniform at work. | Ở chỗ làm tôi phải mặc đồng phục. || have to: quy định bên ngoài
+vs: I must call my mom tonight. | Tối nay tôi phải gọi cho mẹ mới được. || must: tự mình thấy cần
+> Khác biệt nhỏ nhưng tự nhiên: [[have to]] khi quy định hay hoàn cảnh bắt mình phải làm. [[Must]] khi chính người nói thấy cần phải làm. Trong nói chuyện hằng ngày, [[have to]] phổ biến hơn nhiều.
+- Yesterday I {had to|k} wait for an hour. | Hôm qua tôi phải đợi cả tiếng đồng hồ.
+> Còn quá khứ thì chỉ có một dạng cho cả hai: [[had to]].
+
+#examples
+- She {has to|k} get up at five every day. | Ngày nào cô ấy cũng phải dậy lúc năm giờ.
+- {Do|a} we {have to|k} bring our passports? | Chúng ta có phải mang theo hộ chiếu không?
+- Students {must|k} turn off their phones in class. | Học sinh phải tắt điện thoại trong lớp.
+- You {don't have to|n} come if you're busy. | Bận thì bạn không cần đến đâu.
+
+#mistakes
+x: You don't have to smoke in the hospital. => You mustn't smoke in the hospital. | Không được hút thuốc trong bệnh viện. >> Cấm thì dùng [[mustn't]]. [[Don't have to]] chỉ có nghĩa là không cần.
+x: I must to go now. => I must go now. | Tôi phải đi bây giờ. >> Sau [[must]] không có [[to]].
+x: She have to work late. => She has to work late. | Cô ấy phải làm muộn. >> [[She]] đi với [[has to]].
+x: I musted leave early. => I had to leave early. | Tôi đã phải về sớm. >> [[Must]] không có quá khứ. Dùng [[had to]].
+
+#dialogue
+grandpa: Doctor, do I have to stop drinking coffee? | Bác sĩ ơi, tôi có phải bỏ cà phê không? [worried]
+dr-lee: You don't have to stop. But you mustn't drink it at night. | Ông không cần bỏ hẳn. Nhưng ông không được uống vào buổi tối. [explain]
+grandpa: Good! I had to stop smoking last year. That was hard! | May quá! Năm ngoái tôi đã phải bỏ thuốc lá. Khó lắm! [happy]
+dr-lee: And you did it. You're a strong man! | Và ông đã làm được. Ông mạnh mẽ lắm! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Mai tôi phải đi làm sớm. => I have to go to work early tomorrow. | Mai tôi phải đi làm sớm.
+? Nói bằng tiếng Anh: Bạn không cần mang gì cả. => You don't have to bring anything. | Bạn không cần mang gì cả.
+
+#recap
+> [[Have to]] và [[must]] đều là “phải”, quá khứ đều là [[had to]]. Nhưng phủ định thì nhớ kỹ: [[don't have to]] là không cần, còn [[mustn't]] là cấm.
+
+#practice
+contrast: It's Sunday. I ___ get up early. | don't have to* / mustn't || Chủ nhật → không cần dậy sớm.
+contrast: You ___ touch that. It's very hot! | mustn't* / don't have to || Nguy hiểm → cấm.
+fill: My brother ___ wear a uniform at school. | has to* / have to / must to || He → has to.
+fill: Yesterday I ___ walk home. My bike was broken. | had to* / must / have to || Quá khứ → had to.
+fix: You must to wear a helmet. | You must wear a helmet.* / You must wearing a helmet. / You musts wear a helmet. || Must + nguyên thể, không to.
+choice: “You don't have to pay.” nghĩa là: | Bạn không cần trả tiền.* / Bạn không được trả tiền. / Bạn chưa trả tiền. || Don't have to = không cần.
+type: ___ we have to bring our passports? | Do || Câu hỏi với have to → Do.
+order: She / has / to / get / up / at / five. | Cô ấy phải dậy lúc năm giờ.
+listen: You mustn't smoke here. | You mustn't smoke here.* / You must smoke here. / You don't smoke here. || Nghe mustn't — t đầu câm.

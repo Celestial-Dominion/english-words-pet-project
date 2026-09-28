@@ -1,0 +1,65 @@
+=== although-however
+sum: Nối hai ý trái ngược. Although / even though (mạnh hơn) + mệnh đề: Although the work is hard, I really like it. Tiếng Việt “tuy… nhưng…” dùng hai từ; tiếng Anh chỉ một — không dùng although … but. Sau although phải là mệnh đề (Although the rain ✗). However = tuy nhiên, mở đầu câu mới, sau dấu chấm, có dấu phẩy ngay sau: She's strict. However, she's always fair. Văn nói: though ở cuối câu (I liked it, though).
+form: although / even though + mệnh đề, + mệnh đề | Although it was raining, we went out.
+form: không dùng although … but | tuy… nhưng… → chỉ một từ
+form: Câu 1. However, câu 2. | It was raining. However, we went out.
+form: …, though. (cuối câu, văn nói) | I liked it, though.
+cast: ana nam
+bg: office
+words: although, however, though, strict, fair, noisy
+gloss: strict
+
+#hook
+ana: How was your first week at the new job? | Tuần đầu ở chỗ làm mới thế nào? [happy]
+nam: Although the work is hard, I really like it. | Tuy công việc vất vả, tôi vẫn rất thích. [happy]
+ana: That's great! And your boss? | Hay quá! Còn sếp anh? [thinking]
+nam: She's very strict. However, she's always fair. | Chị ấy rất nghiêm khắc. Tuy nhiên, lúc nào chị ấy cũng công bằng. [explain]
+ana: Even though it's hard, you look happy! | Dù vất vả, trông anh vẫn vui! [happy]
+> Tiếng Việt nói “tuy… nhưng…”, dùng hai từ. Tiếng Anh chỉ dùng một: [[Although the work is hard, I really like it]], không có [[but]]. Còn [[However]] mở đầu một câu mới, nghĩa là “tuy nhiên”.
+
+#form
+f: [Although / Even though] + mệnh đề, + mệnh đề
+> [[Although]] đứng trước ý nhượng bộ. Đứng đầu câu thì có dấu phẩy ngăn hai vế. [[Even though]] nghĩa giống, nhưng nhấn mạnh hơn, như “dù cho”.
+- {Although|c} he's rich, he lives in a small house. | Tuy giàu, anh ấy vẫn sống trong một ngôi nhà nhỏ.
+- I enjoyed the trip {even though|c} it rained every day. | Tôi vẫn thích chuyến đi, dù ngày nào cũng mưa.
+f: Câu thứ nhất. + [However,] + câu thứ hai.
+> [[However]] nối hai câu riêng biệt. Nó đứng đầu câu thứ hai, sau dấu chấm, và có dấu phẩy ngay sau.
+- The hotel was expensive. {However|c}, the food was great. | Khách sạn đắt. Tuy nhiên, đồ ăn rất ngon.
+
+#examples
+- {Even though|c} she was sick, she went to work. | Dù bị ốm, cô ấy vẫn đi làm.
+- {Although|c} the phone is old, it still works well. | Tuy điện thoại đã cũ, nó vẫn chạy tốt.
+- We lost the game. {However|c}, we played well. | Chúng tôi thua trận. Tuy nhiên, chúng tôi đã chơi tốt.
+
+#natural
+rank: best | The movie was long. I liked it, though. | Phim dài. Nhưng tôi vẫn thích.
+rank: ok | The movie was long. However, I liked it. | Phim dài. Tuy nhiên, tôi vẫn thích.
+> Khi nói chuyện, người Mỹ hay đặt [[though]] ở cuối câu: [[I liked it, though]]. [[However]] trang trọng hơn, và hay dùng khi viết.
+
+#mistakes
+x: Although it was raining, but we went out. => Although it was raining, we went out. | Tuy trời mưa, chúng tôi vẫn ra ngoài. >> Tiếng Anh chỉ dùng một từ: có [[although]] thì bỏ [[but]].
+x: It was raining, however we went out. => It was raining. However, we went out. | Trời mưa. Tuy nhiên, chúng tôi vẫn ra ngoài. >> [[However]] mở đầu câu mới, và có dấu phẩy sau.
+x: Although the rain, we went out. => Although it was raining, we went out. | Dù trời mưa, chúng tôi vẫn ra ngoài. >> Sau [[although]] cần một mệnh đề có chủ ngữ và động từ.
+
+#dialogue
+ana: Do you have to work late? | Anh có phải làm muộn không? [thinking]
+nam: Sometimes. I don't mind, though. The team is really nice. | Thỉnh thoảng. Nhưng tôi không ngại. Mọi người trong nhóm dễ thương lắm. [happy]
+ana: Even though you're busy, let's have dinner on Friday! | Dù anh bận, thứ sáu mình đi ăn tối nhé! [happy]
+nam: Sure! I'm never too busy for food. | Được chứ! Tôi chẳng bao giờ bận đến mức bỏ ăn. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tuy mệt, tôi vẫn đi tập. => Although I was tired, I went to the gym. | Tuy mệt, tôi vẫn đi tập.
+? Nói bằng tiếng Anh: Món này rẻ. Tuy nhiên, nó không ngon lắm. => It's cheap. However, it isn't very good. | Món này rẻ. Tuy nhiên, nó không ngon lắm.
+
+#recap
+> [[Although]], [[even though]] cộng một mệnh đề, và không có [[but]]. [[However]] mở đầu câu mới, sau dấu chấm, có dấu phẩy. Còn khi nói chuyện, [[though]] đặt ở cuối câu rất tự nhiên.
+
+#practice
+fill: ___ it was cold, she didn't wear a coat. | Although* / However / But || Mệnh đề nhượng bộ → Although.
+fill: The test was hard. ___, I passed it. | However* / Although / Even though || Đầu câu mới → However.
+fix: Although he was tired, but he kept working. | Although he was tired, he kept working.* / Although he was tired, however he kept working. / Although tired, but he kept working. || Bỏ but.
+contrast: I love this city, ___ it's very noisy. | even though* / however || Nối trong một câu → even though.
+choice: Câu nào đúng dấu câu? | It was late. However, we kept talking.* / It was late, however we kept talking. / It was late. However we, kept talking. || However + dấu phẩy, đầu câu mới.
+type: The movie was long. I liked it, ___. (cuối câu, văn nói) | though || …, though.
+order: I / enjoyed / the / trip / even / though / it / rained / every / day. | Tôi vẫn thích chuyến đi, dù ngày nào cũng mưa.
+listen: The hotel was expensive. However, the food was great. | The hotel was expensive. However, the food was great.* / The hotel was cheap. However, the food was bad. / The hotel was expensive, and the food was great. || Nghe however.

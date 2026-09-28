@@ -1,0 +1,81 @@
+=== discourse-markers
+sum: Từ dẫn dắt (discourse markers) cho người nghe biết câu sau liên quan thế nào tới câu trước, rất hay dùng khi nói và trong văn viết tự nhiên. That said / Having said that = nói vậy chứ (rào lại ý vừa nói). Mind you = nhưng phải nói là (thêm một ý ngược, văn nói). All the same / Even so = dù vậy. As it happens = tình cờ là, thật ra. In any case / Anyway = dù sao thì, quay về ý chính (anyway cuối câu = dù thế nào vẫn…). Incidentally / By the way = nhân tiện. Đổi hướng khi nói: On second thoughts (đổi ý), Come to think of it (chợt nhận ra), Then again (xét mặt ngược lại). Even though phải có mệnh đề — đứng một mình thì dùng Even so; That said không thêm but.
+form: That said, / Having said that, (nói vậy chứ) | That said, the food was terrible.
+form: Mind you, · All the same, · Even so, | Even so, most students passed.
+form: As it happens, · In any case, · Incidentally, | As it happens, I've found a better place.
+form: văn nói: On second thoughts · Come to think of it · Then again | On second thoughts, I'll have tea.
+cast: mom dad
+bg: home-evening
+words: mention, incidentally, village, decision, terrible, lovely
+names: Tom
+
+#hook
+mom: The hotel was lovely. That said, the food was terrible. | Khách sạn đẹp thật. Nói vậy chứ đồ ăn thì tệ kinh khủng. [thinking]
+dad: Mind you, it was very cheap. | Nhưng mà phải công nhận là rẻ thật. [explain]
+mom: True. All the same, I wouldn't go back. | Đúng. Dù vậy, em cũng không quay lại đâu. [sad]
+dad: As it happens, I've found a better place for next summer. | Thật ra, anh vừa tìm được một chỗ tốt hơn cho mùa hè năm sau. [happy]
+> Bốn từ dẫn dắt, mỗi từ một việc. [[That said]]: nói vậy chứ, rào lại lời vừa khen. [[Mind you]]: nhưng phải nói là, thêm một ý ngược lại. [[All the same]]: dù vậy. [[As it happens]]: tình cờ là, thật ra.
+
+#form
+th: Từ dẫn dắt | Chức năng
+tb: That said, · Having said that, | rào lại ý vừa nói
+tb: Mind you, | thêm một ý ngược (văn nói)
+tb: All the same, · Even so, | dù vậy
+tb: As it happens, | tình cờ là, thật ra
+tb: In any case, · Anyway, | dù sao thì, quay về ý chính
+tb: Incidentally, · By the way, | nhân tiện
+> Thường đứng đầu câu, có dấu phẩy phía sau. Người nghe chưa cần nghe hết câu đã đoán được hướng đi của nó: ngược lại, bổ sung, hay đổi chủ đề.
+f: câu trước. + [That said, / Even so, / In any case,] + câu sau
+> Chúng nối hai câu về mặt ý nghĩa, chứ không nối về ngữ pháp. Vì vậy câu sau vẫn là một câu hoàn chỉnh.
+
+#examples
+- The film was too long. {Having said that|k}, the ending was great. | Phim hơi dài. Nói vậy chứ cái kết rất hay.
+- I'm not sure it'll rain. {In any case|k}, take an umbrella. | Tôi không chắc trời có mưa không. Dù sao thì cứ mang ô đi.
+- {Incidentally|k}, have you seen my keys? | Nhân tiện, bạn có thấy chìa khóa của tôi đâu không?
+- The exam was hard. {Even so|k}, most students passed. | Kỳ thi khó. Dù vậy, phần lớn học sinh vẫn đỗ.
+
+#real
+- {On second thoughts|k}, I'll have tea instead. | Nghĩ lại thì tôi uống trà thôi.
+- {Come to think of it|k}, I haven't seen Tom for weeks. | Nghĩ lại mới thấy, cả mấy tuần rồi tôi không gặp Tom.
+- {Then again|k}, it's not my decision. | Mà nghĩ lại thì, đâu phải tôi quyết định.
+> Khi nói chuyện, những cụm này giúp đổi hướng ngay giữa chừng. [[On second thoughts]]: đổi ý. [[Come to think of it]]: chợt nhận ra. [[Then again]]: cân nhắc mặt ngược lại.
+
+#contrast
+vs: Anyway, where were we? | Thôi, nãy mình đang nói đến đâu nhỉ? || anyway đầu câu: quay lại chủ đề chính
+vs: It was expensive, but I bought it anyway. | Nó đắt, nhưng tôi vẫn cứ mua. || anyway cuối câu: dù sao vẫn làm
+> [[Anyway]] đầu câu gạt chuyện bên lề, quay lại ý chính. Đứng cuối câu, nó nghĩa là dù thế nào thì vẫn làm.
+
+#natural
+rank: best | The room was small. That said, it was very clean. | Phòng nhỏ. Nói vậy chứ rất sạch sẽ.
+rank: ok | The room was small. Nevertheless, it was very clean. | Phòng nhỏ. Tuy nhiên, rất sạch sẽ.
+> Cả hai đều đúng. Khi nói, [[That said]] nhẹ nhàng và tự nhiên hơn. [[Nevertheless]] hợp với văn viết trang trọng.
+
+#mistakes
+x: Even though, I still want to try. => Even so, I still want to try. | Dù vậy, tôi vẫn muốn thử. >> [[Even though]] phải đi với một mệnh đề. Đứng một mình đầu câu thì dùng [[Even so]].
+x: That said, but the food was cold. => That said, the food was cold. | Nói vậy chứ đồ ăn nguội ngắt. >> [[That said]] đã mang nghĩa đối lập, không thêm [[but]].
+x: In any cases, we'll meet on Friday. => In any case, we'll meet on Friday. | Dù sao thì thứ Sáu chúng ta cũng gặp nhau. >> Cụm cố định, số ít: [[in any case]].
+
+#dialogue
+mom: Really? Where is it? | Thật à? Ở đâu thế anh? [surprised]
+dad: A small village by the sea. Incidentally, it's near your sister's house. | Một làng nhỏ ven biển. Nhân tiện, gần nhà em gái em đấy. [happy]
+mom: Oh, come to think of it, she did mention a new hotel there. | Ồ, nghĩ lại mới nhớ, em ấy có nhắc đến một khách sạn mới ở đó. [thinking]
+dad: Well, in any case, let's book early this time! | Thôi, dù sao thì lần này mình đặt sớm nhé! [happy]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[That said]]: Công việc này lương thấp. Nói vậy chứ tôi rất thích nó. => This job doesn't pay well. That said, I really enjoy it. | Công việc này lương thấp. Nói vậy chứ tôi rất thích nó.
+? Nói bằng tiếng Anh, dùng [[Even so]]: Trời lạnh. Dù vậy, chúng tôi vẫn đi bơi. => It was cold. Even so, we went swimming. | Trời lạnh. Dù vậy, chúng tôi vẫn đi bơi.
+
+#recap
+> Từ dẫn dắt báo trước hướng đi của câu sau. [[That said]]: nói vậy chứ. [[Mind you]]: nhưng phải nói là. [[Even so]], [[All the same]]: dù vậy. [[As it happens]]: thật ra. [[In any case]]: dù sao thì. [[Incidentally]]: nhân tiện. Và nhớ: [[Even though]] luôn cần một mệnh đề.
+
+#practice
+fill: The hotel was old. ___, the staff were wonderful. | That said* / As it happens / Incidentally || Rào lại lời chê → That said.
+fill: You need a plumber? ___, my brother is one. | As it happens* / Even so / That said || Tình cờ là → As it happens.
+fill: I'm not sure she'll come. ___, we'll start at eight. | In any case* / Incidentally / Mind you || Dù sao thì, quay về việc chính → In any case.
+fix: Even though, she didn't give up. | Even so, she didn't give up.* / Even though so, she didn't give up. / Even, she didn't give up. || Đứng một mình → Even so.
+transform: Viết lại, dùng Having said that: | The course is expensive. However, it's worth it. >> The course is expensive. Having said that, it's worth it.* / The course is expensive. Having said, it's worth it. / The course is expensive. Having that said, it's worth it. || Having said that = nói vậy chứ.
+choice: “The flat is small. Mind you, it's very cheap.” Mind you dùng để: | Thêm một ý ngược với ý trước* / Tóm tắt ý trước / Đổi sang chủ đề khác || Mind you = nhưng phải nói là.
+choice: Câu nào cho thấy người nói đổi ý? | On second thoughts, I'll stay home.* / Incidentally, I'll stay home. / In any case, I'm staying home. || On second thoughts = nghĩ lại thì (đổi ý).
+type: ___ the way, did you call the bank? (nhân tiện) | By || By the way = nhân tiện.
+order: The / exam / was / hard. / Even / so, / most / students / passed. | Kỳ thi khó. Dù vậy, phần lớn học sinh vẫn đỗ.
+listen: The hotel was lovely. That said, the food was terrible. | The hotel was lovely. That said, the food was terrible.* / The hotel was lovely. That said, the food was wonderful. / The hotel was lovely, and the food was terrible. || Nghe that said … terrible.

@@ -1,0 +1,80 @@
+=== modal-perfect-advanced
+sum: Modal hoàn thành mở rộng. Tiếp diễn: must / might / can't + have been + V-ing = đoán về một việc ĐANG diễn ra, kéo dài trong quá khứ (You must have been waiting for ages · She might have been sleeping when I called). Bị động: should / must / could + have been + V3 (We should have been told · The car must have been stolen · Someone could have been hurt). Chuyện đã không xảy ra: could / might have been…, không dùng may have (You could have been killed!). You might have told me! = trách nhẹ, như should have.
+form: must / might / can't + have been + V-ing (đang… lúc đó) | You must have been waiting for ages.
+form: should / must / could + have been + V3 (bị động) | We should have been told.
+form: could / might have been + V3 = suýt nữa (nhưng không) | You could have been killed!
+form: You might have + V3! (trách nhẹ) | You might have warned me!
+cast: jay ana
+bg: library
+words: librarian, panic, fence, warn, steal, cancel
+
+#hook
+jay: My laptop's gone! I left it right here. | Máy tính của tôi mất rồi! Tôi để ngay đây mà. [worried]
+ana: It must have been taken while we were getting coffee. | Chắc nó bị lấy lúc mình đi mua cà phê. [thinking]
+jay: Someone must have been watching us. | Hẳn là có ai đó đã theo dõi mình. [worried]
+ana: We should have been told that things get stolen here! | Lẽ ra người ta phải báo cho mình là ở đây hay mất đồ chứ! [angry]
+> Hai mẫu mới. [[Must have been watching]]: đoán về một việc đang diễn ra, kéo dài lúc đó. [[Must have been taken]], [[should have been told]]: bị động, vì ta không biết, hoặc không cần nói, ai là người làm.
+
+#form
+f: modal + [have been] + V-ing
+> Dạng tiếp diễn: đoán về một việc đang diễn ra trong quá khứ, không phải một việc đã xong. [[She must have been sleeping when I called]]: lúc tôi gọi, chắc cô ấy đang ngủ.
+f2: modal + [have been] + V3
+> Dạng bị động: chủ ngữ là người, vật chịu tác động. [[The car must have been stolen]]: chắc chiếc xe đã bị trộm.
+th: Mẫu | Ví dụ
+tb: must have been + V-ing | You must have been waiting for ages.
+tb: can't have been + V-ing | He can't have been listening.
+tb: should have been + V3 | We should have been told.
+tb: could have been + V3 | Someone could have been hurt.
+> Hai dòng đầu là tiếp diễn, hai dòng sau là bị động. Mẫu nào cũng có [[have been]]; phần sau quyết định nghĩa: [[V-ing]] là đang diễn ra, [[V3]] là bị động.
+
+#examples
+- Your eyes are red. You {must have been crying|k}. | Mắt bạn đỏ hoe. Chắc bạn vừa khóc.
+- He {can't have been driving|k}. He doesn't even have a licence. | Không thể nào anh ấy lái xe được. Anh ấy còn chẳng có bằng.
+- The window {must have been left|k} open all night. | Chắc cửa sổ bị để mở suốt đêm.
+- The meeting {should have been cancelled|k}. Nobody came. | Lẽ ra cuộc họp nên bị hủy. Chẳng ai đến cả.
+
+#contrast
+vs: She must have read the report. | Chắc cô ấy đã đọc bản báo cáo. || việc đã xong
+vs: She must have been reading when I called. | Chắc lúc tôi gọi cô ấy đang đọc. || việc đang diễn ra lúc đó
+> [[Must have read]] đoán rằng việc đã xong. [[Must have been reading]] đoán về việc đang diễn ra, ở một thời điểm trong quá khứ.
+
+#natural
+rank: best | You could have been killed! | Suýt nữa là bạn mất mạng rồi!
+rank: ok | You might have been killed! | Suýt nữa bạn đã mất mạng!
+rank: odd | You may have been killed!
+> Với chuyện đã không xảy ra, dùng [[could have]] hoặc [[might have]]. [[May have been killed]] nghe như ta chưa biết người đó còn sống hay không!
+
+#real
+- You {might have warned|k} me! | Lẽ ra bạn phải báo trước cho tôi chứ!
+- You {might have told|k} me you were coming! | Bạn đến thì cũng phải báo tôi một tiếng chứ!
+> [[You might have…]] còn là một lời trách nhẹ, nghĩa như [[should have]]: lẽ ra bạn nên làm vậy. Giọng thường hơi bực.
+
+#mistakes
+x: You must have been wait for hours. => You must have been waiting for hours. | Chắc bạn đã phải đợi hàng giờ. >> Sau [[have been]] là [[V-ing]] cho tiếp diễn, hoặc [[V3]] cho bị động.
+x: The car must have stolen last night. => The car must have been stolen last night. | Chắc chiếc xe bị trộm đêm qua. >> Xe không tự trộm được: cần bị động [[have been stolen]].
+x: We should have told about the change. => We should have been told about the change. | Lẽ ra chúng tôi phải được báo về thay đổi này. >> Chúng tôi là người được báo, nên dùng bị động: [[should have been told]].
+
+#dialogue
+ana: Wait, there's a note on your chair. Your laptop is at the front desk! | Khoan, có mẩu giấy trên ghế anh này. Máy tính của anh ở quầy thủ thư! [surprised]
+jay: Oh! It must have been moved by the librarian. | Ồ! Chắc cô thủ thư mang nó đi. [surprised]
+ana: She might have been worried that someone would take it. | Có lẽ cô ấy sợ có người lấy mất. [thinking]
+jay: Well, she might have told me! I've been panicking for ten minutes! | Thì cũng phải báo tôi một tiếng chứ! Tôi hoảng cả mười phút rồi! [angry]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[must have been]] cộng V-ing: Chắc bạn đã phải đợi lâu lắm. => You must have been waiting for a long time. | Chắc bạn đã phải đợi lâu lắm.
+? Nói bằng tiếng Anh, dùng bị động: Lẽ ra học sinh phải được báo sớm hơn. => The students should have been told earlier. | Lẽ ra học sinh phải được báo sớm hơn.
+
+#recap
+> [[Modal]] cộng [[have been]] mở ra hai hướng. Cộng [[V-ing]]: đoán về một việc đang diễn ra lúc đó, như [[must have been waiting]]. Cộng [[V3]]: bị động, như [[should have been told]]. Chuyện suýt xảy ra thì dùng [[could have been]], và [[You might have told me!]] là một lời trách nhẹ.
+
+#practice
+fill: Your hands are covered in paint. You must have been ___ the fence. | painting* / painted / paint || Việc kéo dài → have been + V-ing.
+fill: The letter never arrived. It must have been ___ to the wrong address. | sent* / sending / send || Bị động → have been + V3.
+fill: Nobody told me! I should have ___ told. | been* / be / being || should have been + V3.
+fix: The bridge must have built a long time ago. | The bridge must have been built a long time ago.* / The bridge must been built a long time ago. / The bridge must have being built a long time ago. || Bị động: must have been built.
+transform: Viết lại ở bị động: | Someone should have told the manager. >> The manager should have been told.* / The manager should have told. / The manager should been told. || should have been + V3.
+choice: “You could have been killed!” nghĩa là: | Suýt nữa bạn mất mạng, may mà không sao* / Bạn đã mất mạng / Có thể bạn đã giết ai đó || could have been + V3 = đã có thể xảy ra, nhưng không.
+choice: “She must have been sleeping when I called.” nghĩa là: | Chắc lúc tôi gọi cô ấy đang ngủ* / Chắc cô ấy đi ngủ sau khi tôi gọi / Cô ấy phải đi ngủ khi tôi gọi || must have been + V-ing = chắc là lúc đó đang….
+type: He can't have been ___ (drive). He doesn't have a car. | driving || can't have been + V-ing.
+order: The / window / must / have / been / left / open / all / night. | Chắc cửa sổ bị để mở suốt đêm.
+listen: Someone must have been watching us. | Someone must have been watching us.* / Someone might have been watching us. / Someone must have watched us. || Nghe must have been watching.

@@ -17,13 +17,16 @@ export default function MainNav() {
           <Link
             key={t.href}
             href={t.href}
+            title={t.label}
+            aria-label={t.label}
             className={cn(
-              "flex items-center gap-1.5 rounded-full px-3 py-1.5 text-sm font-medium transition-colors",
+              "flex items-center gap-1.5 rounded-full px-3 py-1.5 text-sm font-medium whitespace-nowrap transition-colors",
               on ? "bg-primary/10 text-primary" : "text-muted-foreground hover:text-foreground",
             )}
           >
             <Icon className="size-4" strokeWidth={on ? 2.4 : 2} />
-            {t.label}
+            {/* 6 mục + khối tài khoản bên phải chỉ vừa một hàng từ ~1150px — hẹp hơn thì chỉ hiện biểu tượng */}
+            <span className="hidden xl:inline">{t.label}</span>
           </Link>
         );
       })}

@@ -1,0 +1,72 @@
+=== emphasis-do-what
+sum: Nhấn mạnh bằng do / does / did + động từ NGUYÊN THỂ trong câu khẳng định, khi nói thì nhấn giọng vào đó: I do like it! (thích thật mà). Dùng để phản bác (I did call you! = có gọi thật mà) hay mời nhiệt tình (Please do come!). Câu chẻ với What: What + mệnh đề + is / was + phần muốn nhấn — đưa điều quan trọng xuống cuối câu: What I need is a hug. What surprised me was the price. Không thêm it (What I need it is ✗).
+form: do / does / did + nguyên thể (nhấn mạnh) | I do like it!
+form: phản bác: I did call you! | có gọi thật mà
+form: What + mệnh đề + is / was + phần nhấn | What I need is a holiday.
+form: Please do + V (mời nhiệt tình) | Please do come!
+cast: ana ben
+bg: cafe
+words: hug, surprise, charge, lock, atmosphere, sweet
+gloss: charger
+
+#hook
+ana: You don't like my cake, do you? | Anh không thích bánh của em, đúng không? [sad]
+ben: No, I do like it! It's just a bit sweet. | Không, anh thích thật mà! Chỉ hơi ngọt chút thôi. [explain]
+ana: You didn't call me yesterday. | Hôm qua anh không gọi cho em. [angry]
+ben: I did call you! Twice! Your phone was off. | Anh có gọi mà! Hai lần! Máy em tắt. [surprised]
+ana: Oh. Well, what I need right now is a hug. | Ồ. Thôi, điều em cần bây giờ là một cái ôm. [shy]
+> [[I do like it]]: thêm [[do]] để nhấn mạnh, nghĩa là “thích thật mà”. [[I did call you]]: phản bác, “có gọi thật mà”. [[What I need is a hug]]: đưa điều quan trọng nhất xuống cuối câu.
+
+#form
+f: Chủ ngữ + [do / does / did] + động từ nguyên thể
+> Chỉ dùng trong câu khẳng định. Động từ chính trở về nguyên thể: [[She does look tired]], không phải [[does looks]]. Khi nói, nhấn giọng vào [[do]], [[does]], [[did]].
+- She {does|k} look tired today. | Hôm nay trông cô ấy mệt thật.
+- I {did|k} lock the door. I'm sure! | Tôi có khóa cửa mà. Chắc chắn luôn!
+- Please {do|k} come to our party! | Nhất định đến dự tiệc với chúng tôi nhé!
+f: [What] + mệnh đề + [is / was] + phần muốn nhấn
+> Câu chẻ với [[what]]: phần muốn nhấn nằm ở cuối, sau [[is]] hoặc [[was]]. Người nghe phải chờ, nên phần cuối càng nổi bật.
+
+#examples
+- {What I love about Hanoi is|k} the food. | Điều tôi mê ở Hà Nội là đồ ăn.
+- {What surprised me was|k} the price. | Điều làm tôi bất ngờ là giá cả.
+- {What we need is|k} more time. | Thứ chúng ta cần là thêm thời gian.
+
+#meaning
+vs: I need a holiday. | Tôi cần một kỳ nghỉ. || câu bình thường
+vs: What I need is a holiday. | Điều tôi cần là một kỳ nghỉ. || nhấn mạnh: a holiday
+> Hai câu cùng nghĩa, nhưng câu có [[What]] làm người nghe tập trung vào [[a holiday]]. Kiểu câu này rất hay dùng khi muốn giải thích, hay phản bác.
+
+#natural
+rank: best | I do like it! | Tôi thích thật mà!
+rank: ok | I really like it! | Tôi thật sự thích nó!
+rank: bad | I do likes it!
+> Cả [[do]] lẫn [[really]] đều nhấn mạnh. Nhưng [[do]] mạnh hơn khi đang phản bác một điều người khác nghĩ sai về mình.
+
+#mistakes
+x: She does looks happy. => She does look happy. | Trông cô ấy vui thật. >> Sau [[does]], động từ về nguyên thể: [[look]].
+x: I did went to the meeting! => I did go to the meeting! | Tôi có đến cuộc họp mà! >> Sau [[did]] là nguyên thể: [[go]].
+x: What I need it is a coffee. => What I need is a coffee. | Thứ tôi cần là một cốc cà phê. >> Không thêm [[it]]: [[What I need is…]]
+
+#dialogue
+ben: What I don't understand is why your phone was off. | Điều anh không hiểu là sao máy em lại tắt. [thinking]
+ana: The battery died. I did charge it, but the charger is broken. | Hết pin. Em có sạc rồi mà, nhưng cục sạc bị hỏng. [sad]
+ben: Then what you need is a new charger! | Vậy thứ em cần là một cục sạc mới! [happy]
+ana: And a hug! | Và một cái ôm nữa! [happy]
+
+#recall
+? Nói bằng tiếng Anh, nhấn mạnh: Tôi có gửi email cho bạn mà! => I did send you an email! | Tôi có gửi email cho bạn mà!
+? Nói bằng tiếng Anh: Điều tôi thích nhất là không khí ở đây. => What I like most is the atmosphere here. | Điều tôi thích nhất là không khí ở đây.
+
+#recap
+> Muốn nhấn mạnh hay phản bác: [[do]], [[does]], [[did]] cộng động từ nguyên thể, và đọc nhấn vào đó. Muốn đưa điều quan trọng xuống cuối: [[What]] cộng mệnh đề, rồi [[is]], [[was]], rồi đến phần muốn nhấn.
+
+#practice
+fill: I ___ turn off the oven. I remember doing it! | did* / do / was || Phản bác, quá khứ → did.
+fill: She ___ look tired today. | does* / is / do || Nhấn mạnh, she → does.
+fill: ___ I need is a good night's sleep. | What* / That / Which || Câu chẻ → What.
+fix: He does knows the answer. | He does know the answer.* / He does knowing the answer. / He do know the answer. || Does + nguyên thể.
+transform: Viết lại với What … is: | I love the food in Hanoi. >> What I love in Hanoi is the food.* / What I love is Hanoi the food. / That I love in Hanoi is the food. || What + mệnh đề + is.
+choice: “I did call you!” dùng để: | Phản bác: tôi có gọi thật mà* / Hỏi xem đã gọi chưa / Hứa sẽ gọi || Did + V = nhấn mạnh, phản bác.
+type: Please ___ come and visit us! (mời nhiệt tình) | do || Please do + V.
+order: What / surprised / me / was / the / price. | Điều làm tôi bất ngờ là giá cả.
+listen: I did lock the door. I'm sure! | I did lock the door. I'm sure!* / I didn't lock the door. I'm sure! / I'll lock the door. I'm sure! || Nghe did lock.

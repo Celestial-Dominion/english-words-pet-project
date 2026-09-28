@@ -1,0 +1,72 @@
+=== relative-defining
+sum: Mệnh đề quan hệ xác định (không dấu phẩy) cho biết người / vật NÀO. Whose + danh từ = của người / vật đó (the man whose dog…). Where = nơi mà (the cafe where we met); when = lúc mà (the day when we became friends). Khi who / which / that là TÂN NGỮ trong mệnh đề thì lược được: the coffee (that) I was drinking; là chủ ngữ thì không (the man who lives here). Văn nói để giới từ ở cuối: the girl I talked to (to whom rất trang trọng). Where đã là “ở đó”: không nói where I live in.
+form: whose + danh từ = của người / vật đó | the man whose dog ran into our table
+form: where = nơi mà · when = lúc mà | the cafe where we met
+form: lược who / which / that khi là tân ngữ | the book (that) I read
+form: giới từ ở cuối (văn nói) | the girl I talked to
+cast: leo ana
+bg: street
+words: whose, where, remember, become, background, pilot
+gloss: pilot, aw
+
+#hook
+leo: That's the cafe where we first met! | Đó là quán cà phê nơi mình gặp nhau lần đầu đấy! [happy point]
+ana: I remember! And that's the man whose dog ran into our table. | Em nhớ rồi! Còn kia là ông có con chó chạy xô vào bàn mình. [happy point]
+leo: Ha! The coffee I was drinking went everywhere. | Ha! Cốc cà phê anh đang uống đổ tung tóe. [happy]
+ana: That was the day when we became friends. | Đó là cái ngày mình trở thành bạn. [happy]
+> [[The cafe where we met]]: quán cà phê nơi mình gặp nhau. [[The man whose dog…]]: người đàn ông có con chó… Còn [[The coffee I was drinking]] không có [[that]], nhưng vẫn là mệnh đề quan hệ, vì [[that]] đã được lược bỏ.
+
+#form
+th: Từ | Nghĩa | Ví dụ
+tb: whose + danh từ | của người / vật đó | a friend whose father is a doctor
+tb: where | nơi mà | the town where I grew up
+tb: when | lúc mà | the year when I was born
+> [[Whose]] luôn đi kèm một danh từ: [[whose car]], [[whose father]]. [[Where]] thay cho một nơi chốn, còn [[when]] thay cho một thời điểm.
+
+#meaning
+vs: The book that I read was great. | Cuốn sách mà tôi đọc rất hay. [ipa=read:rɛd] || that là tân ngữ → lược được
+vs: The book I read was great. | Cuốn sách tôi đọc rất hay. [ipa=read:rɛd] || văn nói hay lược
+vs: The man who lives here is a doctor. | Người đàn ông sống ở đây là bác sĩ. || who là chủ ngữ → không lược
+> Mẹo nhỏ: nếu ngay sau [[that]] là một chủ ngữ khác, như [[I]] trong [[that I read]], thì [[that]] là tân ngữ, và có thể bỏ. Nếu ngay sau là động từ, như [[who lives]], thì không được bỏ.
+
+#examples
+- Is this the bus {you take|k} to work? | Đây có phải xe buýt bạn đi làm hằng ngày không?
+- She's the girl {I talked to|k} at the party. | Cô ấy là cô gái tôi nói chuyện cùng ở bữa tiệc.
+- I have a friend {whose|c} mother is a famous singer. | Tôi có một người bạn có mẹ là ca sĩ nổi tiếng.
+- Do you remember the day {when|c} we moved here? | Bạn có nhớ cái ngày chúng ta chuyển đến đây không?
+> Để ý câu thứ hai: giới từ [[to]] nằm ở cuối, [[the girl I talked to]]. Trong văn nói, đây là cách tự nhiên nhất.
+
+#natural
+rank: best | That's the girl I talked to. | Đó là cô gái tôi đã nói chuyện cùng.
+rank: ok | That's the girl who I talked to. | Đó là cô gái mà tôi đã nói chuyện cùng.
+rank: odd | That's the girl to whom I talked.
+> [[To whom]] đúng ngữ pháp, nhưng rất trang trọng, nghe như văn viết kiểu cũ. Nói chuyện hằng ngày, cứ để giới từ ở cuối và lược luôn đại từ quan hệ.
+
+#mistakes
+x: That's the man who his car was stolen. => That's the man whose car was stolen. | Đó là người đàn ông bị mất trộm xe. >> “Của người đó” là [[whose]], không dùng [[who his]].
+x: The house where I live in is old. => The house where I live is old. | Ngôi nhà tôi đang sống đã cũ. >> [[Where]] đã có nghĩa “ở đó”, nên không thêm [[in]]. Hoặc nói [[The house I live in]].
+x: The man lives next door is a doctor. => The man who lives next door is a doctor. | Người đàn ông sống cạnh nhà là bác sĩ. >> [[Who]] ở đây là chủ ngữ của [[lives]], nên không được lược.
+
+#dialogue
+ana: Do you still have the photo you took that day? | Anh còn giữ bức ảnh anh chụp hôm đó không? [thinking]
+leo: Of course. It's the one I use as my phone background! | Tất nhiên. Chính là bức anh để làm hình nền điện thoại! [happy]
+ana: Aw, that's sweet. Let's go back to the cafe where it all started. | Ôi, dễ thương thế. Mình quay lại quán cà phê nơi mọi chuyện bắt đầu đi. [happy]
+leo: Good idea. I know the table we sat at! | Ý hay. Anh còn nhớ cái bàn mình đã ngồi! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Đây là nhà hàng nơi chúng tôi ăn tối hôm qua. => This is the restaurant where we had dinner yesterday. | Đây là nhà hàng nơi chúng tôi ăn tối hôm qua.
+? Nói bằng tiếng Anh: Tôi có một người bạn có bố là phi công. => I have a friend whose father is a pilot. | Tôi có một người bạn có bố là phi công.
+
+#recap
+> [[Whose]] là “của người đó”, [[where]] là “nơi mà”, [[when]] là “lúc mà”. Khi đại từ quan hệ là tân ngữ, có thể lược: [[the book I read]]. Và trong văn nói, giới từ đứng cuối: [[the girl I talked to]].
+
+#practice
+fill: That's the man ___ dog bit me. | whose* / who / who's || Của người đó → whose.
+fill: This is the hotel ___ we stayed last summer. | where* / which / whose || Nơi mà → where.
+choice: Câu nào lược đúng? | The movie we watched was funny.* / The man lives here is kind. / The girl sings well is my sister. || Chỉ lược khi đại từ quan hệ là tân ngữ.
+fix: I know a girl who her mother is a doctor. | I know a girl whose mother is a doctor.* / I know a girl who's mother is a doctor. / I know a girl whose her mother is a doctor. || Của người đó → whose.
+type: Do you remember the day ___ we met? | when / that || Lúc mà → when.
+transform: Nối hai câu, lược đại từ quan hệ: | This is the book. I bought it yesterday. >> This is the book I bought yesterday.* / This is the book I bought it yesterday. / This is the book bought yesterday I. || Lược which, bỏ it.
+order: She's / the / girl / I / talked / to / at / the / party. | Cô ấy là cô gái tôi nói chuyện cùng ở bữa tiệc.
+listen: I have a friend whose mother is a famous singer. | I have a friend whose mother is a famous singer.* / I have a friend who's a famous singer. / I have a friend whose brother is a famous singer. || Nghe whose mother.
+natural: That's the girl I talked to.* / That's the girl to whom I talked. || Văn nói → giới từ ở cuối.

@@ -1,5 +1,6 @@
 import { VideoPlayer } from "@/components/video/video-player";
 import { videosIndex } from "@/lib/library-server";
+import { grammarFor } from "@/lib/grammar-server";
 
 // Sinh tĩnh mọi bài trong chỉ mục; nội dung bài (JSON) + audio tải phía client khi mở.
 export function generateStaticParams() {
@@ -18,5 +19,5 @@ export default async function VideoLessonPage({ params }: { params: Promise<{ le
   const all = videosIndex();
   const i = all.findIndex((v) => v.id === id);
   const next = i >= 0 && all[i + 1]?.level === all[i].level ? all[i + 1] : undefined;
-  return <VideoPlayer id={id} next={next ? { id: next.id, level: next.level, title: next.title } : undefined} />;
+  return <VideoPlayer id={id} next={next ? { id: next.id, level: next.level, title: next.title } : undefined} grammar={grammarFor(id)} />;
 }

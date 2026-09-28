@@ -1,0 +1,71 @@
+=== inversion-conditionals
+sum: Câu điều kiện đảo ngữ: bỏ if, đưa trợ động từ lên đầu — giọng trang trọng (email công việc, khách sạn, ngân hàng). Had + S + V3 = If S had V3 (Had I known, I would have brought…). Should + S + V = If S should V, lịch sự “nếu có” (Should you need anything, please call reception). Were + S… = If S were (Were I in your position, I would accept); Were + S + to V = If S were to V, giả định xa hơn (Were the company to fail, thousands of jobs would be lost). Were it not for / Had it not been for + danh từ = nếu không có. Phủ định không rút gọn: Had I not seen… (không nói Hadn't I…).
+form: Had + S + V3, … (= If S had V3) | Had I known, I would have come.
+form: Should + S + V, … (= If S should V) | Should you need help, please call.
+form: Were + S… / Were + S + to V (= If S were / were to) | Were I you, I would accept.
+form: Were it not for / Had it not been for + danh từ | Had it not been for your help, …
+cast: ms-khan nam
+bg: service-hall
+words: reception, wish, swimsuit, position, offer, recommend
+gloss: swimsuit
+
+#hook
+ms-khan: Welcome to our hotel. Should you need anything, please call reception. | Chào mừng quý khách. Nếu quý khách cần gì, xin gọi lễ tân. [happy]
+nam: Thank you. Had I known about your pool, I would have brought a swimsuit! | Cảm ơn chị. Nếu biết khách sạn có bể bơi, tôi đã mang đồ bơi! [happy]
+ms-khan: No problem. Should you wish to buy one, our shop is open until ten. | Không sao ạ. Nếu quý khách muốn mua, cửa hàng của chúng tôi mở đến mười giờ. [explain]
+> Ngôn ngữ dịch vụ trang trọng rất hay dùng điều kiện đảo ngữ. [[Should you need anything]]: nếu quý khách có cần gì. [[Had I known]]: giá mà tôi biết, bằng [[If I had known]]. Bỏ [[if]], đưa trợ động từ lên đầu.
+
+#form
+th: Câu với if | Đảo ngữ
+tb: If I had known, … | Had I known, …
+tb: If you should need help, … | Should you need help, …
+tb: If I were you, … | Were I you, …
+tb: If it were not for your help, … | Were it not for your help, …
+tb: If the plan were to fail, … | Were the plan to fail, …
+> Chỉ ba trợ động từ làm được việc này: [[had]], [[should]], [[were]]. Bỏ [[if]], đảo chúng lên đầu, phần còn lại giữ nguyên.
+
+#examples
+- {Had|a} we left earlier, we {would have caught|k} the train. | Nếu đi sớm hơn, chúng tôi đã kịp tàu.
+- {Should|a} you have any questions, please contact us. | Nếu có bất kỳ câu hỏi nào, xin liên hệ với chúng tôi.
+- {Were|a} I in your position, I would accept the offer. | Nếu ở vị trí của anh, tôi sẽ nhận lời đề nghị.
+- {Had it not been for|k} your help, we would have failed. | Nếu không có sự giúp đỡ của anh, chúng tôi đã thất bại.
+- {Were|a} the company {to fail|k}, thousands of jobs would be lost. | Nếu công ty mà phá sản, hàng nghìn người sẽ mất việc.
+
+#contrast
+vs: If I hadn't seen the sign, I would have missed it. | Nếu không thấy biển báo, tôi đã bỏ lỡ rồi. || if + hadn't
+vs: Had I not seen the sign, I would have missed it. | Nếu không thấy biển báo, tôi đã bỏ lỡ rồi. || đảo ngữ: Had I not, không rút gọn
+> Phủ định trong đảo ngữ không rút gọn: [[Had I not seen]], không nói [[Hadn't I seen]].
+
+#natural
+rank: best | If you need help, just call me. | Cần gì thì cứ gọi tôi nhé.
+rank: ok | Should you need help, please call me. | Nếu cần giúp đỡ, xin hãy gọi cho tôi.
+> Với bạn bè, câu có [[if]] tự nhiên hơn. [[Should you need…]] thì rất hay gặp trong email công việc, thông báo của khách sạn, ngân hàng: lịch sự và trang trọng.
+
+#mistakes
+x: Hadn't I seen the sign, I would have missed it. => Had I not seen the sign, I would have missed it. | Nếu không thấy biển báo, tôi đã bỏ lỡ. >> Đảo ngữ phủ định không rút gọn: [[Had I not]].
+x: Should you will need help, call us. => Should you need help, call us. | Nếu cần giúp, xin gọi chúng tôi. >> Sau [[Should you]] là động từ nguyên thể.
+x: If had I known, I would have told you. => Had I known, I would have told you. | Nếu biết thì tôi đã nói với bạn rồi. >> Đảo ngữ thì bỏ [[if]].
+
+#dialogue
+nam: Were it not for the rain, I would go for a walk. | Nếu không mưa thế này, tôi đã đi dạo một vòng. [sad]
+ms-khan: Should the rain stop, I can recommend a lovely park nearby. | Nếu mưa tạnh, tôi có thể giới thiệu một công viên rất đẹp gần đây. [happy]
+nam: Wonderful. Had I asked earlier, I'd have planned my day better! | Tuyệt quá. Giá mà hỏi sớm hơn, tôi đã lên kế hoạch tốt hơn! [happy]
+ms-khan: It's never too late, sir. | Chưa bao giờ là muộn đâu ạ. [happy]
+
+#recall
+? Viết trang trọng bằng tiếng Anh, dùng [[Should]]: Nếu quý khách cần thêm thông tin, xin liên hệ với chúng tôi. => Should you need more information, please contact us. | Nếu quý khách cần thêm thông tin, xin liên hệ với chúng tôi.
+? Viết lại bằng đảo ngữ: Nếu biết, tôi đã giúp rồi. => Had I known, I would have helped. | Nếu biết, tôi đã giúp rồi.
+
+#recap
+> Bỏ [[if]], đảo trợ động từ lên đầu: [[Had I known]] cho loại 3, [[Should you need]] cho loại 1 lịch sự, [[Were I you]] cho loại 2. Nếu không có: [[Were it not for]], [[Had it not been for]]. Phủ định không rút gọn: [[Had I not]].
+
+#practice
+fill: ___ I known, I would have called you. | Had* / If / Were || Loại 3 đảo ngữ → Had I known.
+fill: ___ you need any help, please let us know. | Should* / Had / Were || Loại 1 lịch sự → Should you need.
+fill: ___ I you, I would take the job. | Were* / Had / Should || Loại 2 → Were I you.
+fix: Hadn't she helped us, we would have failed. | Had she not helped us, we would have failed.* / If had she not helped us, we would have failed. / Had not she helped us, we would have failed. || Không rút gọn: Had she not.
+transform: Viết lại với đảo ngữ: | If it hadn't been for the traffic, we would have arrived on time. >> Had it not been for the traffic, we would have arrived on time.* / Hadn't it been for the traffic, we would have arrived on time. / Had been not for the traffic, we would have arrived on time. || Had it not been for.
+choice: Email gửi khách hàng, câu nào phù hợp nhất? | Should you have any questions, please contact us.* / If you got questions, text me. / Questions? Just call lol. || Trang trọng → Should you have…
+type: ___ it not for your support, I would give up. (Nếu không có) | Were || Were it not for.
+order: Had / we / left / earlier, / we / would / have / caught / the / train. | Nếu đi sớm hơn, chúng tôi đã kịp tàu.
+listen: Should you have any questions, please contact us. | Should you have any questions, please contact us.* / If you have any questions, please contact me. / Should you have any problems, please call us. || Nghe should you have any questions.

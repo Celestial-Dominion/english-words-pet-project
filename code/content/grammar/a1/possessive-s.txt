@@ -1,0 +1,66 @@
+=== possessive-s
+sum: Nói đồ vật của ai: thêm 's vào người sở hữu — Sam's phone, my mom's car. Danh từ số nhiều có sẵn -s thì chỉ thêm dấu ' — my parents' house. Hỏi của ai: Whose…?
+form: người + 's + vật | Sam's phone = điện thoại của Sam
+form: số nhiều có -s + ' + vật | my parents' house = nhà của bố mẹ tôi
+form: Whose + vật + is this? | Cái này của ai?
+cast: mr-ross zoe sam
+bg: classroom
+prop: phone x=900
+words: jacket, coat, parent, whose
+
+#hook
+mr-ross: Whose phone is this? | Điện thoại này của ai vậy? [thinking @phone]
+zoe: It's Sam's phone. | Đó là điện thoại của Sam ạ. [point]
+sam: Oh! Thank you, Mr Ross. | Ôi! Cảm ơn thầy Ross ạ. [surprised]
+> Tiếng Việt nói “điện thoại của Sam”, vật trước, người sau. Tiếng Anh thì ngược lại: người trước, thêm [['s]], rồi mới đến vật: [[Sam's phone]].
+
+#form
+mv: the phone of Sam => Sam's phone
+> Cách tự nhiên nhất khi nói đồ của một người là đưa người đó lên trước, thêm [['s]]. [[Sam's phone]], không nói [[the phone of Sam]].
+f: người + ['s] + vật
+f2: số nhiều có s + ['] + vật
+> Nếu người sở hữu là số nhiều có sẵn chữ [[s]], như [[parents]], thì chỉ thêm dấu phẩy trên ở cuối: [[my parents' house]].
+- This is {my mom's|k} car. | Đây là xe của mẹ tôi.
+- {The students'|k} books are on the desk. | Sách của các học sinh ở trên bàn.
+- {The children's|k} room is upstairs. | Phòng của bọn trẻ ở trên gác.
+> [[Children]] là số nhiều nhưng không có chữ [[s]] ở cuối, nên vẫn thêm [['s]]: [[the children's room]].
+
+#pronunciation
+pron: Sam's | /z/ | sæmz
+pron: Kate's | /s/ | keɪts
+pron: Rose's | /ɪz/ | ˈroʊzɪz
+> Đuôi [['s]] đọc giống đuôi số nhiều: có khi là [[s]], có khi là [[z]], có khi thêm một âm tiết như trong [[Rose's]].
+
+#examples
+- {Whose|q} coat is this? | Cái áo khoác này của ai?
+- It's {Anna's|k}. | Nó là của Anna.
+- My {sister's|k} name is Mai. | Em gái tôi tên là Mai.
+> Trả lời câu hỏi [[Whose]] rất gọn: chỉ cần tên người cộng [['s]], như [[It's Anna's]].
+
+#mistakes
+x: This is the car of my father. => This is my father's car. | Đây là xe của bố tôi. >> Nói về đồ của một người, hãy dùng [['s]]: [[my father's car]]. Cách nói với [[of]] nghe rất lạ.
+x: Who's bag is this? => Whose bag is this? | Túi này của ai? >> Hỏi “của ai” là [[Whose]]. [[Who's]] là [[who is]], hai từ đọc giống nhau nhưng viết khác.
+x: My parent's house is big. => My parents' house is big. | Nhà của bố mẹ tôi rộng. >> Hai người là [[parents]], số nhiều đã có [[s]], nên dấu phẩy trên đứng sau [[s]]: [[parents']].
+
+#dialogue
+mr-ross: Is this jacket yours, Zoe? | Áo khoác này của em à, Zoe? [point]
+zoe: No, it's Lily's. Mine is red. | Không ạ, của Lily đấy. Áo của em màu đỏ. [shake]
+mr-ross: And whose bag is this? | Thế còn cái túi này của ai? [thinking]
+sam: It's my brother's. He's in class 5B. | Của anh trai em ạ. Anh ấy học lớp 5B. [explain]
+
+#recall
+? Nói bằng tiếng Anh: Đây là phòng của Tom. => This is Tom's room. | Đây là phòng của Tom.
+? Hỏi bằng tiếng Anh: Cái ô này của ai? => Whose umbrella is this? | Cái ô này của ai?
+
+#recap
+> Người đứng trước, đồ vật đứng sau: [[Tom's room]], [[my parents' house]]. Hỏi của ai thì dùng [[Whose]], đừng nhầm với [[Who's]].
+
+#practice
+fill: This is ___ bike. | Lan's* / Lan / of Lan || Người + 's + vật.
+fill: ___ phone is this? | Whose* / Who's / Who || Hỏi “của ai” → Whose.
+fill: My ___ car is new. | parents'* / parent's / parents || Hai người (bố mẹ) → parents'.
+fix: It is the house of my aunt. | It is my aunt's house.* / It is my aunts house. / It is house my aunt. || Dùng 's cho người sở hữu.
+choice: “The children's toys” nghĩa là gì? | đồ chơi của bọn trẻ* / bọn trẻ và đồ chơi / đồ chơi trẻ em rẻ || Children's = của bọn trẻ.
+order: This / is / my / mom's / car. | Đây là xe của mẹ tôi.
+listen: Whose coat is this? | Whose coat is this?* / Whose car is this? / Whose coats are these? || Nghe danh từ: coat (số ít) — this.
+type: This is Anna. That's ___ bag. (Anna) | Anna's || Người + 's.

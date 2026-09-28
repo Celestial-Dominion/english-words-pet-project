@@ -1,0 +1,72 @@
+=== pronouns-be
+sum: Tiếng Anh luôn cần động từ be để nối chủ ngữ với thông tin về nó: I am, he / she / it is, you / we / they are. Tiếng Việt nói “Tôi mệt”, tiếng Anh phải nói “I'm tired” — không được bỏ be.
+form: I + am | tôi là / tôi đang…
+form: he / she / it + is | anh ấy / cô ấy / nó là
+form: you / we / they + are | bạn / chúng tôi / họ là
+cast: mia nam leo
+bg: campus-gate
+words: student, teacher, tired, hungry, friend
+
+#hook
+mia: Hi! I'm Mia. | Chào cậu! Mình là Mia. [happy wave]
+nam: Hi, Mia. I'm Nam. I'm from Vietnam. | Chào Mia. Mình là Nam. Mình đến từ Việt Nam. [happy]
+> Nghe kỹ nhé: [[I'm Mia]], [[I'm Nam]]. Trong [[I'm]] có động từ [[am]], chỉ còn lại một âm nhỏ. Đó là động từ [[be]]. Thiếu nó, câu tiếng Anh sẽ gãy.
+
+#meaning
+> Tiếng Việt có lúc dùng chữ “là”, có lúc dùng chữ “ở”, có lúc không dùng gì cả. Tiếng Anh thì chỉ cần một động từ: [[be]].
+vs: I'm a student. | Tôi là sinh viên. || + danh từ: “là”
+vs: I'm tired. | Tôi mệt. || + tính từ: tiếng Việt không có chữ nào
+vs: I'm at home. | Tôi ở nhà. || + nơi chốn: “ở”
+> Ba câu dịch ra ba kiểu khác nhau, nhưng tiếng Anh đều dùng [[am]]. Nhất là câu [[I'm tired]]: tiếng Việt không có chữ “là”, tiếng Anh vẫn phải có [[be]].
+
+#form
+th: Chủ ngữ | be | Rút gọn
+tb: I | am | I'm
+tb: he / she / it | is | he's / she's / it's
+tb: you / we / they | are | you're / we're / they're
+> Mỗi chủ ngữ đi với một dạng. [[I]] đi với [[am]]. [[He]], [[she]], [[it]] đi với [[is]]. Còn [[you]], [[we]], [[they]] đi với [[are]].
+> Chú ý: [[you]] có thể là một người hay nhiều người, lúc nào cũng dùng [[are]].
+- {She|s} {is} a teacher. | Cô ấy là giáo viên.
+- {They|s} {are} my friends. | Họ là bạn của tôi.
+
+#pronunciation
+pron: I am | I'm | aɪm
+pron: she is | she's | ʃiz
+pron: we are | we're | wɪɹ
+pron: they are | they're | ðɛɹ
+> Khi nói chuyện, người bản ngữ gần như luôn rút gọn: [[I'm]], [[she's]], [[we're]], [[they're]]. Hai từ gộp thành một âm, bạn cũng nên nói như vậy.
+
+#examples
+- {It's} cold today. | Hôm nay trời lạnh.
+- {We're} in the kitchen. | Chúng tôi đang ở trong bếp.
+- {You're} late again! | Bạn lại đến muộn rồi!
+- {He's} eight years old. | Cậu bé tám tuổi.
+> Tuổi cũng dùng [[be]]: [[He's eight]], không dùng động từ “có” như tiếng Việt.
+
+#mistakes
+x: I hungry. => I'm hungry. | Tôi đói. >> Tiếng Việt nói “tôi đói”, không cần chữ gì ở giữa. Tiếng Anh thì luôn cần [[be]] trước tính từ: [[I'm hungry]].
+x: She are a doctor. => She's a doctor. | Cô ấy là bác sĩ. >> [[She]] là một người, đi với [[is]]. [[Are]] chỉ dành cho [[you]], [[we]], [[they]].
+x: I am like tea. => I like tea. | Tôi thích trà. >> [[Like]] đã là động từ rồi, không thêm [[am]] vào trước. [[Be]] chỉ đứng trước danh từ, tính từ hoặc nơi chốn.
+
+#dialogue
+leo: Hey, Mia! Who's this? | Này Mia! Ai đây? [happy]
+mia: This is Nam. He's a new student. | Đây là Nam. Cậu ấy là sinh viên mới. [explain]
+leo: Nice to meet you, Nam. I'm Leo. | Rất vui được gặp cậu, Nam. Mình là Leo. [wave]
+nam: Nice to meet you too. We're in the same class! | Mình cũng rất vui. Bọn mình học cùng lớp đấy! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi là sinh viên. => I'm a student. | Tôi là sinh viên.
+? Nói bằng tiếng Anh: Họ đang ở nhà. => They're at home. | Họ đang ở nhà.
+
+#recap
+> Tóm lại: tiếng Anh luôn cần [[be]]. [[I am]], [[he is]], [[they are]]. Khi nói, rút gọn thành [[I'm]], [[he's]], [[they're]].
+
+#practice
+fill: She ___ a nurse. | is* / am / are || She là một người → is.
+fill: We ___ in the park. | are* / is / am || We (chúng tôi) → are.
+type: I ___ from Vietnam. | am / 'm || I luôn đi với am.
+natural: I'm hungry.* / I hungry. || Tiếng Anh không bỏ be trước tính từ.
+fix: He are my teacher. | He's my teacher.* / He my teacher. / He be my teacher. || He → is (rút gọn he's).
+order: They / are / my / friends. | Họ là bạn của tôi.
+listen: She is a teacher. | She is a teacher.* / He is a teacher. / She is the teacher. || Nghe kỹ âm đầu: she /ʃ/ khác he /h/.
+choice: Dạng rút gọn của “they are” là gì? | they're* / their / there || their = của họ, there = ở đó; cả ba đọc giống nhau.

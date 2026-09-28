@@ -1,0 +1,67 @@
+=== a-an
+sum: A / an nghĩa là “một”, đứng trước danh từ số ít đếm được. Dùng an khi từ sau BẮT ĐẦU BẰNG ÂM nguyên âm (an apple, an hour), a với âm phụ âm (a car, a university). Nói nghề nghiệp cũng cần a / an: She's a nurse.
+form: a + âm phụ âm | a book, a car, a university
+form: an + âm nguyên âm | an apple, an egg, an hour
+form: be + a / an + nghề | She's a nurse. (không bỏ a)
+cast: lily grandpa
+bg: home-day
+words: apple, egg, doctor, nurse, farmer, hour
+gloss: university
+
+#hook
+x: My dad is doctor. => My dad is a doctor. | Bố tôi là bác sĩ. >> Tiếng Việt nói “bố tôi là bác sĩ”, không cần chữ “một”. Tiếng Anh thì cần [[a]] trước nghề: [[a doctor]].
+
+#meaning
+> [[A]] và [[an]] đều nghĩa là “một”, dùng với danh từ đếm được, số ít. Khi nói về nghề của một người, tiếng Anh cũng dùng [[a]] hoặc [[an]].
+- She's {a} {nurse|c}. | Cô ấy là y tá.
+- I have {an} {egg|c}. | Tôi có một quả trứng.
+
+#form
+f: [a] + âm phụ âm
+f2: [an] + âm nguyên âm
+> Chọn [[a]] hay [[an]] là theo ÂM đầu của từ phía sau, không phải theo chữ cái. Âm đầu là nguyên âm, như trong [[apple]], [[egg]], thì dùng [[an]].
+th: a | an
+tb: a car | an apple
+tb: a book | an egg
+tb: a university | an hour
+> Hai ví dụ dễ nhầm: [[university]] viết bằng chữ U nhưng đọc âm “iu”, nên là [[a university]]. Còn [[hour]] viết bằng chữ H nhưng chữ H câm, nên là [[an hour]].
+
+#pronunciation
+pron: a cup of tea | /ə/ | ə kʌp əv ti
+pron: an old car | /ən/ | ən oʊld kɑɹ
+> Trong câu, [[a]] và [[an]] đọc rất nhẹ, gần như âm “ơ”. Nghe [[a cup of tea]], [[an old car]], chữ ấy lướt qua rất nhanh.
+
+#examples
+- He's {an} {actor|c}. | Anh ấy là diễn viên.
+- I need {a} {new|c} {phone|c}. | Tôi cần một chiếc điện thoại mới.
+- It's {an} {old|c} {house|c}. | Đó là một ngôi nhà cũ.
+- Wait {an} {hour|c}, please. | Làm ơn đợi một tiếng.
+> Chú ý: [[a]] hay [[an]] đi theo từ đứng NGAY SAU nó. [[An old house]] dùng [[an]] vì [[old]] mở đầu bằng nguyên âm, dù [[house]] thì không.
+
+#dialogue
+lily: Grandpa, what's your job? | Ông ơi, ông làm nghề gì ạ? [thinking]
+grandpa: I'm a farmer. I have a big farm. | Ông là nông dân. Ông có một trang trại lớn. [happy]
+lily: And Grandma? | Còn bà ạ? [happy]
+grandpa: She's an English teacher. | Bà là giáo viên tiếng Anh. [explain]
+lily: Wow! I want an English teacher at home! | Ôi! Cháu muốn có giáo viên tiếng Anh ở nhà! [happy cheer]
+
+#mistakes
+x: I eat a apple every day. => I eat an apple every day. | Ngày nào tôi cũng ăn một quả táo. >> [[Apple]] mở đầu bằng âm nguyên âm, nên dùng [[an]].
+x: She is an university student. => She is a university student. | Cô ấy là sinh viên đại học. >> [[University]] đọc bắt đầu bằng âm “iu”, là âm phụ âm, nên dùng [[a]].
+
+#recall
+? Nói bằng tiếng Anh: Anh ấy là kỹ sư. => He's an engineer. | Anh ấy là kỹ sư.
+? Nói bằng tiếng Anh: Tôi có một con mèo. => I have a cat. | Tôi có một con mèo.
+
+#recap
+> Mẹo nhớ: nghe âm đầu của từ phía sau. Âm phụ âm thì dùng [[a]], âm nguyên âm thì dùng [[an]]. Và nói nghề thì luôn có nó: [[She's a nurse]], [[He's an actor]].
+
+#practice
+fill: I have ___ umbrella. | an* / a || Umbrella bắt đầu bằng âm nguyên âm → an.
+fill: My mother is ___ nurse. | a* / an / (không có gì) || Nghề nghiệp cần a / an; nurse bắt đầu bằng âm phụ âm.
+fill: We waited ___ hour. | an* / a || Chữ h trong hour câm → an hour.
+natural: She's a teacher.* / She's teacher. || Nói nghề cần a.
+choice: Chọn cụm đúng: | a university* / an university / a apple || University đọc “iu…” → a; apple → an.
+fix: He is a engineer. | He is an engineer.* / He is engineer. / He is the engineer. || Engineer bắt đầu bằng âm nguyên âm → an.
+order: It's / an / old / house. | Đó là một ngôi nhà cũ.
+listen: He's an actor. | He's an actor.* / He's a doctor. / He's the actor. || Nghe âm “n” nối sang actor: an‿actor.

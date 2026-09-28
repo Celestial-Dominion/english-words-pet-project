@@ -1,0 +1,65 @@
+=== the-basic
+sum: The dùng khi người nghe BIẾT đó là cái nào: vì đã nhắc tới trước (I have a cat. The cat is black.), vì chỉ có một (the sun, the sky), hoặc vì rõ trong tình huống (Close the door, please). Lần đầu nhắc, chưa rõ cái nào → a / an.
+form: a / an: lần đầu nhắc, một cái bất kỳ | I have a dog.
+form: the: cái đã biết | The dog is small.
+form: the + vật duy nhất | the sun, the moon, the sky
+form: the + vật rõ trong tình huống | Open the window, please.
+cast: grandpa lily
+bg: home-lake
+words: sun, sky, door, window
+gloss: lake
+
+#hook
+grandpa: I have a boat. | Ông có một chiếc thuyền. [happy]
+lily: Where is the boat, Grandpa? | Thuyền đâu ạ, ông ơi? [thinking]
+grandpa: The boat is on the lake. | Thuyền ở trên hồ. [point]
+> Lần đầu, ông nói [[a boat]]: một chiếc thuyền, [[Lily]] chưa biết là chiếc nào. Lần sau, cả hai đều biết rồi, nên nói [[the boat]].
+
+#meaning
+vs: I can see a bird. | Tôi nhìn thấy một con chim. || lần đầu nhắc tới → a
+vs: The bird is very small. | Con chim ấy rất nhỏ. || đã biết là con nào → the
+> Tiếng Việt không có mạo từ, nên đây là điểm khó. Hãy tự hỏi: người nghe có biết mình đang nói tới cái NÀO không? Biết rồi thì dùng [[the]].
+
+#form
+th: Dùng the khi… | Ví dụ
+tb: đã nhắc tới trước | a cat → the cat
+tb: chỉ có một | the sun, the sky
+tb: rõ trong tình huống | Close the door.
+> Ba lý do để dùng [[the]]. Đã nhắc tới rồi. Chỉ có một cái duy nhất, như [[the sun]]. Hoặc trong tình huống ai cũng biết là cái nào, như [[the door]] của căn phòng đang đứng.
+- {The|k} sun is very hot today. | Hôm nay mặt trời gay gắt lắm.
+- Can you close {the|k} window, please? | Bạn đóng cửa sổ giúp mình được không? [ipa=close:kloʊz]
+- Where's {the|k} bathroom? | Nhà vệ sinh ở đâu?
+
+#examples
+- I have {a|k} cake. {The|k} cake is for you. | Tôi có một cái bánh. Cái bánh ấy là cho bạn.
+- There's {a|k} man at the door. | Có một người đàn ông ở cửa.
+- Look at {the|k} moon! | Nhìn mặt trăng kìa!
+> Chú ý câu cuối: [[the moon]], vì chỉ có một mặt trăng. Không nói [[a moon]].
+
+#mistakes
+x: Sun is very big. => The sun is very big. | Mặt trời rất lớn. >> Chỉ có một mặt trời, nên phải có [[the]].
+x: I have a dog. A dog is very cute. => I have a dog. The dog is very cute. | Tôi có một con chó. Con chó rất dễ thương. >> Lần thứ hai nhắc tới, người nghe đã biết con chó nào, nên dùng [[the]].
+x: Please open door. => Please open the door. | Làm ơn mở cửa. >> Cửa nào thì cả hai đều biết, và danh từ số ít đếm được không đứng một mình.
+
+#dialogue
+lily: Grandpa, look at the sky! | Ông ơi, nhìn bầu trời kìa! [happy point]
+grandpa: Oh, there's a bird. | Ồ, có một con chim. [surprised]
+lily: The bird is on our boat! | Con chim đậu trên thuyền nhà mình kìa! [happy]
+grandpa: Let's take a photo of it. | Mình chụp một bức ảnh nhé. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi có một con mèo. Con mèo màu đen. => I have a cat. The cat is black. | Tôi có một con mèo. Con mèo màu đen.
+? Nói bằng tiếng Anh: Làm ơn tắt đèn. => Please turn off the light. | Làm ơn tắt đèn.
+
+#recap
+> Người nghe chưa biết cái nào thì dùng [[a]] hoặc [[an]]. Người nghe biết rồi thì dùng [[the]]: vì đã nhắc tới, vì chỉ có một, hoặc vì rõ trong tình huống.
+
+#practice
+fill: I saw a movie yesterday. ___ movie was great. | The* / A / An || Đã nhắc tới → The.
+fill: ___ moon is beautiful tonight. | The* / A / (không có gì) || Chỉ có một mặt trăng → The.
+fill: There's ___ bank near my house. | a* / the || Lần đầu nhắc, người nghe chưa biết ngân hàng nào → a.
+fix: Open window, please. | Open the window, please.* / Open a window please the. / Open windows, please the. || Cửa sổ rõ trong tình huống → the window.
+choice: Chọn câu đúng: | The sky is blue.* / A sky is blue. / Sky is blue. || Chỉ có một bầu trời.
+natural: I have a dog. The dog is small.* / I have a dog. A dog is small. || Lần hai → the.
+order: Where's / the / bathroom? | Nhà vệ sinh ở đâu?
+listen: Look at the moon! | Look at the moon!* / Look at the man! / Look at a moon! || Nghe the moon.

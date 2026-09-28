@@ -24,11 +24,11 @@ export default function BottomNav() {
               href={t.href}
               aria-current={on ? "page" : undefined}
               className={cn(
-                "flex flex-1 flex-col items-center gap-1 pt-2 pb-1.5 text-[0.65rem] font-medium transition-colors active:scale-95",
+                "flex min-w-0 flex-1 flex-col items-center gap-1 pt-2 pb-1.5 text-[0.62rem] font-medium whitespace-nowrap transition-colors active:scale-95",
                 on ? "text-primary" : "text-muted-foreground",
               )}
             >
-              <span className={cn("flex h-8 w-14 items-center justify-center rounded-full transition-colors", on && "bg-primary/15")}>
+              <span className={cn("flex h-8 w-12 max-w-full items-center justify-center rounded-full transition-colors", on && "bg-primary/15")}>
                 <Icon className="size-5" strokeWidth={on ? 2.4 : 2} />
               </span>
               {t.label}

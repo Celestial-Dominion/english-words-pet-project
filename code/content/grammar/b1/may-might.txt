@@ -1,0 +1,73 @@
+=== may-might
+sum: May / might / could + nguyên thể = có thể, có lẽ (không chắc): It might rain later. I may be late. Trong nói chuyện hằng ngày may và might gần như như nhau (might nghe nhẹ hơn một chút). Phủ định: may not / might not (không rút gọn may not). Khả năng của một việc cụ thể không dùng can (It can rain tomorrow ✗); can chỉ cho điều nói chung. Thang mức độ: definitely → probably → may / might → probably not; vị trí: will probably, probably won't. Maybe (trạng từ, đầu câu) khác may be (động từ).
+form: may / might / could + nguyên thể | It might rain later.
+form: may not / might not | I might not come.
+form: definitely → probably → may / might | chắc chắn → rất có thể → có thể
+form: will probably · probably won't · maybe ≠ may be | vị trí, chính tả
+cast: ben mia
+bg: riverside
+prop: sandwich x=820
+words: might, may, maybe, probably, definitely, picnic, storm
+gloss: picnic
+
+#hook
+ben: Shall we have a picnic by the river this afternoon? | Chiều nay mình đi dã ngoại ven sông nhé? [happy]
+mia: Maybe. It might rain later. Look at the sky. | Cũng được. Nhưng có khi lát nữa mưa đấy. Anh nhìn trời kìa. [thinking]
+ben: Hmm. It may be sunny again by three. | Hừm. Đến ba giờ không chừng lại nắng. [thinking]
+mia: OK, but I might be a bit late. I have a meeting at two. | Được, nhưng có thể em đến hơi muộn. Hai giờ em có cuộc họp. [explain]
+> [[It might rain]], [[It may be sunny]], [[I might be late]]: người nói không chắc chắn. [[May]] và [[might]] nghĩa là “có thể”, “có lẽ”. Tiếng Việt hay nói “có khi”, “không chừng”.
+
+#form
+f: Chủ ngữ + [may / might / could] + động từ nguyên thể
+> Giống [[can]] và [[should]]: không thêm [[s]], không có [[to]]. Phủ định là [[may not]], [[might not]], và người ta hầu như không rút gọn [[may not]].
+
+#examples
+- She {might|k} be at home. Try calling her. | Có khi cô ấy ở nhà đấy. Thử gọi xem.
+- We {may not|n} have time to visit the museum. | Có thể chúng ta sẽ không kịp thăm bảo tàng.
+- Don't touch it. It {could|k} be hot. | Đừng chạm vào. Có thể nó nóng đấy.
+
+#meaning
+th: Mức độ | Ví dụ
+tb: definitely — chắc chắn | I'll definitely come.
+tb: probably — rất có thể | I'll probably come.
+tb: may / might — có thể | I might come.
+tb: probably not — chắc là không | I probably won't come.
+> Một thang mức độ chắc chắn. Để ý vị trí: [[probably]] đứng SAU [[will]], nhưng đứng TRƯỚC [[won't]]: [[I'll probably come]], [[I probably won't come]].
+
+#contrast
+vs: It might rain tomorrow. | Mai có thể mưa. || khả năng của một việc cụ thể
+vs: It can rain a lot in Hue in October. | Tháng mười ở Huế có thể mưa rất nhiều. || điều nói chung, thường có thể xảy ra
+> Nói khả năng của một việc cụ thể, dùng [[might]], [[may]], [[could]]. [[Can]] chỉ dùng cho điều nói chung. Đừng nói [[It can rain tomorrow]].
+vs: Maybe she's at home. | Có lẽ cô ấy ở nhà. || maybe: trạng từ, thường đứng đầu câu
+vs: She may be at home. | Có thể cô ấy ở nhà. || may be: may + be, đứng sau chủ ngữ
+> Viết liền, [[maybe]] là trạng từ, thường đứng đầu câu. Viết rời, [[may be]] là [[may]] cộng [[be]], đứng sau chủ ngữ.
+
+#mistakes
+x: It mights rain. => It might rain. | Trời có thể mưa. >> [[Might]] không thêm [[s]].
+x: I might to come late. => I might come late. | Có thể tôi sẽ đến muộn. >> Sau [[might]] không có [[to]].
+x: It can rain tomorrow. => It might rain tomorrow. | Mai trời có thể mưa. >> Khả năng của một việc cụ thể dùng [[might]], [[may]], [[could]].
+x: I will come probably. => I'll probably come. | Có lẽ tôi sẽ đến. >> [[Probably]] đứng sau [[will]].
+
+#dialogue
+mia: Sorry I'm late! Is the weather OK? | Xin lỗi em đến muộn! Trời ổn chứ? [shy]
+ben: It's fine now, but there might be a storm tonight. | Giờ thì ổn, nhưng tối nay có thể có bão. [worried]
+mia: Then let's eat quickly. We probably won't have much time. | Vậy mình ăn nhanh thôi. Chắc là không có nhiều thời gian đâu. [explain]
+ben: Good idea. I made sandwiches. You might like them. | Ý hay. Anh làm bánh mì kẹp đấy. Có khi em sẽ thích. [happy @sandwich]
+
+#recall
+? Nói bằng tiếng Anh: Có thể tối nay tôi sẽ không ra ngoài. => I might not go out tonight. | Có thể tối nay tôi sẽ không ra ngoài.
+? Nói bằng tiếng Anh, dùng [[probably]]: Có lẽ anh ấy sẽ đến muộn. => He'll probably be late. | Có lẽ anh ấy sẽ đến muộn.
+
+#recap
+> [[May]], [[might]], [[could]] cộng nguyên thể: có thể, có lẽ, không chắc chắn. Không thêm [[s]], không có [[to]]. Nhớ vị trí [[will probably]], [[probably won't]], và đừng nhầm [[maybe]] với [[may be]].
+
+#practice
+fill: Take an umbrella. It ___ rain later. | might* / mights / can || Khả năng cụ thể → might.
+fill: I'm not sure. I ___ not come to the party. | may* / will / do || Không chắc → may not.
+fix: He mights be at the office. | He might be at the office.* / He might is at the office. / He mights to be at the office. || Might + nguyên thể.
+fix: I will come probably. | I'll probably come.* / I probably will to come. / I'll come probable. || Probably đứng sau will.
+contrast: ___ she's still at work. | Maybe* / May be || Đứng đầu câu, trạng từ → Maybe.
+choice: Câu nào chắc chắn nhất? | I'll definitely be there.* / I'll probably be there. / I might be there. || Definitely = chắc chắn.
+type: I ___ won't finish today. (chắc là không) | probably || Probably đứng trước won't.
+order: She / might / be / at / home. | Có khi cô ấy ở nhà.
+listen: We may not have time to visit the museum. | We may not have time to visit the museum.* / We may have time to visit the museum. / We'll have time to visit the museum. || Nghe may not.

@@ -1,0 +1,69 @@
+=== present-simple-negatives-questions
+sum: Phủ định hiện tại đơn: don't / doesn't + động từ NGUYÊN THỂ (She doesn't eat meat — không phải doesn't eats). Câu hỏi: Do / Does + chủ ngữ + động từ nguyên thể? Trả lời ngắn: Yes, I do. / No, she doesn't.
+form: I / you / we / they + don't + động từ | I don't like fish.
+form: he / she / it + doesn't + động từ | He doesn't eat meat.
+form: Do / Does + chủ ngữ + động từ? | Do you like tea? Does she work here?
+cast: mia leo jay
+bg: restaurant
+words: meat, fish, vegetable, eat, drink
+gloss: spicy, carrots
+
+#hook
+jay: Do you want the chicken soup? | Chị có muốn súp gà không ạ? [neutral]
+mia: No, thanks. I don't eat meat. | Không, cảm ơn. Tôi không ăn thịt. [shake]
+jay: And your friend? Does he eat meat? | Còn bạn chị? Anh ấy có ăn thịt không? [thinking]
+leo: Yes, I do! I eat everything. | Có chứ! Tôi ăn mọi thứ. [happy]
+> Muốn nói “không” hay hỏi “có… không” với động từ thường như [[eat]], tiếng Anh cần một trợ động từ: [[do]] hoặc [[does]].
+
+#form
+f: Chủ ngữ + [don't / doesn't] + động từ nguyên thể
+> [[I]], [[you]], [[we]], [[they]] dùng [[don't]]. [[He]], [[she]], [[it]] dùng [[doesn't]].
+mv: She eats meat . => She doesn't eat meat .
+> Nhìn kỹ: khi có [[doesn't]], đuôi [[s]] chuyển sang [[does]], động từ quay về nguyên thể. [[She doesn't eat]], không phải [[doesn't eats]].
+- {They|s} {don't|n} live here. | Họ không sống ở đây.
+- {My dad|s} {doesn't|n} drink coffee. | Bố tôi không uống cà phê.
+
+mv: You like tea . => Do you like tea ?
+> Câu hỏi thì thêm [[Do]] hoặc [[Does]] vào đầu câu. Động từ chính vẫn ở dạng nguyên thể.
+
+#examples
+- {Do|a} {you|s} speak English? | Bạn có nói tiếng Anh không?
+- {Does|a} {she|s} work on Sundays? | Cô ấy có làm việc vào Chủ nhật không?
+th: Hỏi | Có | Không
+tb: Do you…? | Yes, I do. | No, I don't.
+tb: Does he…? | Yes, he does. | No, he doesn't.
+> Trả lời ngắn thì lặp lại trợ động từ, không lặp lại động từ chính: [[Yes, I do]], [[No, he doesn't]].
+
+#pronunciation
+pron: do not | don't | doʊnt
+pron: does not | doesn't | ˈdʌzənt
+pron: Do you | /də jə/ | də jə
+> Khi nói nhanh, [[Do you]] đọc rất nhẹ, gần như một âm lướt. Còn [[don't]] và [[doesn't]] thì phải nghe rõ, vì đó là chữ “không”.
+
+#mistakes
+x: He doesn't likes fish. => He doesn't like fish. | Anh ấy không thích cá. >> Đuôi [[s]] đã nằm ở [[doesn't]] rồi, nên động từ chính không thêm [[s]] nữa.
+x: I no like spicy food. => I don't like spicy food. | Tôi không thích đồ cay. >> Tiếng Anh không dùng [[no]] trước động từ. Hãy dùng [[don't]].
+x: Does she works here? => Does she work here? | Cô ấy có làm ở đây không? >> Câu hỏi có [[Does]] thì động từ ở nguyên thể: [[Does she work]].
+
+#dialogue
+mia: Do you like vegetables, Leo? | Cậu có thích rau không, Leo? [thinking]
+leo: Yes, I do. But I don't like carrots. | Có. Nhưng mình không thích cà rốt. [shrug]
+mia: Does your sister like them? | Em gái cậu có thích không? [happy]
+leo: No, she doesn't. She only eats pizza! | Không. Nó chỉ ăn pizza thôi! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Tôi không uống sữa. => I don't drink milk. | Tôi không uống sữa.
+? Hỏi bằng tiếng Anh: Anh ấy có chơi bóng đá không? => Does he play football? | Anh ấy có chơi bóng đá không?
+
+#recap
+> Với động từ thường, nhờ [[do]] giúp: [[don't]] và [[doesn't]] để phủ định, [[Do]] và [[Does]] để hỏi. Có [[does]] rồi thì động từ chính bỏ đuôi [[s]].
+
+#practice
+fill: She ___ like coffee. | doesn't* / don't / isn't || She → doesn't.
+fill: ___ they live near here? | Do* / Does / Are || They → Do.
+fill: He doesn't ___ TV. | watch* / watches / watching || Sau doesn't dùng động từ nguyên thể.
+fix: My mom don't work on Saturdays. | My mom doesn't work on Saturdays.* / My mom doesn't works on Saturdays. / My mom not work on Saturdays. || My mom = she → doesn't + work.
+choice: Trả lời đúng cho “Do you speak French?” | No, I don't.* / No, I'm not. / No, I doesn't. || Hỏi Do thì đáp bằng do / don't.
+transform: Chuyển thành câu hỏi: | She plays the piano. >> Does she play the piano?* / Does she plays the piano? / Do she play the piano? || Does + she + play (nguyên thể).
+order: My / dad / doesn't / drink / coffee. | Bố tôi không uống cà phê.
+listen: They don't live here. | They don't live here.* / They live here. / They didn't live here. || Nghe âm don't — có âm t nhẹ ở cuối.

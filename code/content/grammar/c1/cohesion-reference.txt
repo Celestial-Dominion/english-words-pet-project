@@ -1,0 +1,74 @@
+=== cohesion-reference
+sum: Nối ý không lặp từ bằng từ quy chiếu. this / these + danh từ tóm lại cả ý vừa nói (This decision…, This trend…); this đứng một mình chỉ cả một sự việc, còn it thường chỉ một danh từ cụ thể. such + danh từ = … như vậy (Such problems are common · such an approach — không nói a such). the former / the latter = cái nhắc trước / cái nhắc sau (luôn có the). respectively = theo đúng thứ tự vừa kể. Khi nói chuyện, the first one / the second one tự nhiên hơn the former / the latter.
+form: this / these + danh từ tóm ý (This decision…) | This decision surprised everyone.
+form: such + (a / an) + danh từ = … như vậy | Such problems are common.
+form: the former / the latter = cái trước / cái sau | The latter is cheaper.
+form: …, respectively = theo đúng thứ tự | two and three dollars, respectively
+cast: linh mr-ross
+bg: classroom
+words: former, latter, respectively, trend, rely, conclusion
+names: Hanoi, Seoul
+gloss: metro
+
+#hook
+linh: We compared two cities, Hanoi and Seoul. The latter has a much better metro. | Chúng tôi so sánh hai thành phố, Hà Nội và Seoul. Thành phố sau có tàu điện ngầm tốt hơn nhiều. [explain]
+mr-ross: And the former? | Còn thành phố trước? [thinking]
+linh: The former relies mainly on motorbikes. This causes serious traffic jams. | Thành phố trước chủ yếu dựa vào xe máy. Điều này gây ùn tắc nghiêm trọng. [explain]
+mr-ross: Interesting. Such problems are common in fast-growing cities. | Thú vị đấy. Những vấn đề như vậy rất phổ biến ở các thành phố phát triển nhanh. [happy]
+> [[The former]] là cái được nhắc trước, [[the latter]] là cái nhắc sau. [[This]] thay cho cả ý vừa nói. [[Such problems]]: những vấn đề như vậy. Nhờ các từ này, người viết nối ý mà không phải lặp lại.
+
+#form
+th: Từ | Thay cho | Ví dụ
+tb: this + danh từ | cả ý vừa nói | This decision surprised everyone.
+tb: such + danh từ | thứ như vậy | Such problems are common.
+tb: the former · the latter | cái trước · cái sau | The latter is cheaper.
+tb: respectively | theo đúng thứ tự | two and three dollars, respectively
+> Văn viết tốt hay dùng [[this]] cộng một danh từ tóm lại ý trước: [[this decision]], [[this trend]], [[these changes]]. Người đọc biết ngay mình đang nói về điều gì.
+f: [This / Such] + danh từ tóm ý + …
+> Chọn danh từ tóm ý cho chính xác: một quyết định là [[decision]], một xu hướng là [[trend]], một vấn đề là [[problem]]. Cách này rõ hơn nhiều so với chỉ dùng [[it]].
+
+#examples
+- Many shops closed last year. {This trend|k} is likely to continue. | Nhiều cửa hàng đóng cửa năm ngoái. Xu hướng này nhiều khả năng sẽ tiếp diễn.
+- Some teachers ban phones in class. {Such a rule|k} can be hard to follow. | Một số giáo viên cấm điện thoại trong lớp. Một quy định như vậy có thể khó thực hiện.
+- Tea and coffee cost two and three dollars, {respectively|k}. | Trà và cà phê lần lượt giá hai và ba đô la.
+- We could fly or take the train. {The latter|k} is cheaper but slower. | Chúng ta có thể bay hoặc đi tàu. Đi tàu rẻ hơn nhưng chậm hơn.
+
+#contrast
+vs: Prices rose sharply. This worried many families. | Giá tăng vọt. Điều đó khiến nhiều gia đình lo lắng. || this: cả sự việc
+vs: I bought a new laptop. It was expensive. | Tôi mua một chiếc máy tính mới. Nó khá đắt. || it: một vật cụ thể
+> [[This]] chỉ cả một ý, một sự việc: việc giá tăng vọt. [[It]] thường chỉ một danh từ cụ thể: chiếc máy tính.
+
+#natural
+rank: best | I liked both films, but the second one was funnier. | Tôi thích cả hai phim, nhưng phim thứ hai vui hơn.
+rank: ok | I liked both films, but the latter was funnier. | Tôi thích cả hai phim, nhưng phim sau vui hơn.
+> Khi nói chuyện, [[the former]], [[the latter]] nghe khá sách vở, người ta hay nói [[the first one]], [[the second one]]. Trong văn viết, nhất là văn học thuật, [[the former]], [[the latter]] gọn và chính xác.
+
+#mistakes
+x: Such a approach is risky. => Such an approach is risky. | Một cách làm như vậy thật mạo hiểm. >> [[Such]] đi với [[a]], [[an]] như bình thường: [[such an approach]].
+x: Former is more expensive. => The former is more expensive. | Cái trước đắt hơn. >> Luôn có [[the]]: [[the former]], [[the latter]].
+x: We need a such solution. => We need such a solution. | Chúng ta cần một giải pháp như vậy. >> Thứ tự là [[such a]], không phải [[a such]].
+
+#dialogue
+mr-ross: What do you suggest, then? | Vậy em đề xuất gì? [thinking]
+linh: More buses and a cheaper metro. The former is quick to set up, the latter takes years. | Thêm xe buýt và vé tàu điện rẻ hơn. Cách trước triển khai nhanh, cách sau mất nhiều năm. [explain]
+mr-ross: This is a strong conclusion. Well done. | Đây là một kết luận thuyết phục. Làm tốt lắm. [happy]
+linh: Thank you. Such feedback means a lot to me. | Em cảm ơn thầy. Lời nhận xét như vậy rất có ý nghĩa với em. [happy]
+
+#recall
+? Viết bằng tiếng Anh, dùng [[This]] cộng danh từ: Chính phủ tăng thuế. Quyết định này khiến nhiều người tức giận. => The government raised taxes. This decision made many people angry. | Chính phủ tăng thuế. Quyết định này khiến nhiều người tức giận.
+? Viết bằng tiếng Anh, dùng [[the latter]]: Tôi có thể học tiếng Pháp hoặc tiếng Nhật. Tiếng Nhật khó hơn. => I could study French or Japanese. The latter is more difficult. | Tôi có thể học tiếng Pháp hoặc tiếng Nhật. Tiếng Nhật khó hơn.
+
+#recap
+> Nối ý không lặp từ: [[this]] cộng danh từ tóm lại cả ý trước, [[such]] là “như vậy”, [[the former]], [[the latter]] là cái trước, cái sau, [[respectively]] là theo đúng thứ tự. Khi nói, [[the first one]], [[the second one]] tự nhiên hơn.
+
+#practice
+fill: Prices went up sharply. ___ increase surprised everyone. | This* / It / Such || This + danh từ tóm lại ý trước.
+fill: I had never seen ___ a beautiful beach. | such* / so / this || such + a + tính từ + danh từ.
+fill: We can meet on Monday or Friday. The ___ is better for me. I'm free all day on Friday. | latter* / former / later || Friday nhắc sau → the latter.
+fix: A such problem is hard to solve. | Such a problem is hard to solve.* / Such problem is hard to solve. / A such a problem is hard to solve. || such a + danh từ.
+transform: Viết lại, dùng the former: | Tom and Anna both applied. Tom got the job. >> Tom and Anna both applied. The former got the job.* / Tom and Anna both applied. The latter got the job. / Tom and Anna both applied. Former got the job. || Tom nhắc trước → the former.
+choice: “Anna and Tom are 20 and 25, respectively.” nghĩa là: | Anna 20 tuổi, Tom 25 tuổi* / Anna 25 tuổi, Tom 20 tuổi / Cả hai từ 20 đến 25 tuổi || respectively = theo đúng thứ tự.
+choice: Câu nào dùng this cho cả một sự việc? | Sales fell. This worried the managers.* / This laptop is mine. / Is this seat free? || This đứng sau một câu, chỉ cả sự việc.
+type: ___ behaviour is not acceptable here. (hành vi như vậy) | Such || Such + danh từ.
+order: This / trend / is / likely / to / continue. | Xu hướng này nhiều khả năng sẽ tiếp diễn.
+listen: Interesting. Such problems are common in fast-growing cities. | Interesting. Such problems are common in fast-growing cities.* / Interesting. Such problems are rare in fast-growing cities. / Interesting. These problems are common in big cities. || Nghe such problems are common.

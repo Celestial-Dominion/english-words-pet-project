@@ -1,0 +1,82 @@
+=== present-perfect-experience
+sum: Hiện tại hoàn thành: have / has + phân từ quá khứ. Dùng nói về TRẢI NGHIỆM trong đời, không nói lúc nào: I've seen snow. Have you ever…? = Bạn đã từng… chưa? I've never… = Tôi chưa bao giờ… Phân từ của động từ có quy tắc = -ed (visited); bất quy tắc phải học (been, seen, eaten, gone, done). Been to = đã đến và về rồi; gone to = đã đi, giờ đang ở đó. Có mốc thời gian cụ thể (last winter, in 2019) → quá khứ đơn.
+form: have / has + phân từ quá khứ | I've seen snow.
+form: Have you ever + phân từ? · I've never + phân từ | Have you ever eaten sushi? · I've never been to Japan.
+form: been to (đã về) · gone to (còn ở đó) | She's been to Paris. · She's gone to Paris.
+form: có mốc thời gian → quá khứ đơn | I went to Japan in 2019.
+cast: max grandma
+bg: snow-yard
+prop: snowman x=820
+words: ever, never, snow, visit, try
+gloss: sushi, durian, snowman
+
+#hook
+max: Grandma, look! Snow! Have you ever seen snow before? | Bà ơi, nhìn kìa! Tuyết! Bà đã từng thấy tuyết bao giờ chưa? [happy cheer]
+grandma: Yes, I have. I've seen snow many times. | Rồi cháu ạ. Bà thấy tuyết nhiều lần rồi. [happy]
+max: I've never seen it! This is my first time. | Cháu chưa bao giờ thấy! Đây là lần đầu tiên đấy. [happy]
+grandma: Have you ever made a snowman? | Thế cháu đã từng nặn người tuyết chưa? [happy @snowman]
+max: No, never. Let's make one! | Chưa bao giờ ạ. Mình nặn một cái đi bà! [happy cheer]
+> [[Have you ever seen snow?]]: bà đã từng thấy tuyết chưa? Đây là cách hỏi về trải nghiệm trong đời, chẳng cần biết là khi nào. Tiếng Anh dùng [[have]] cộng một dạng mới của động từ: [[seen]], [[made]].
+
+#form
+f: Chủ ngữ + [have / has] + phân từ quá khứ
+> [[I have]] rút gọn là [[I've]], [[she has]] là [[she's]]. Với động từ có quy tắc, phân từ giống hệt quá khứ: [[visited]], [[tried]]. Còn động từ bất quy tắc thì có dạng riêng.
+th: Nguyên thể | Quá khứ | Phân từ
+tb: be | was / were | been
+tb: see | saw | seen
+tb: eat | ate | eaten
+tb: go | went | gone
+tb: do | did | done
+tb: make | made | made
+> Nhiều động từ có phân từ khác với dạng quá khứ: [[seen]], [[eaten]], [[been]], [[gone]], [[done]]. Một số thì giống nhau, như [[made]].
+
+#meaning
+tl: -3..0 in my life | cả cuộc đời, tới giờ
+tl: -2 seen snow | lúc nào đó
+tl: now | bây giờ
+> Một lúc nào đó trong đời, tính cho tới bây giờ. Không nói cụ thể lúc nào. Điều ta quan tâm chỉ là: đã từng, hay chưa từng.
+
+#examples
+- {Have|a} you {ever|k} {been|k} to Hanoi? | Bạn đã từng đến Hà Nội chưa?
+- I've {never|n} {eaten|k} sushi. | Tôi chưa bao giờ ăn sushi.
+- {She's visited|k} ten countries. | Cô ấy đã đi mười nước.
+- We've {tried|k} Korean food, and we love it! | Chúng tôi đã ăn thử đồ Hàn, và mê luôn!
+
+#contrast
+vs: Anna has been to Paris. | Anna đã từng đến Paris. || đã đi và đã về
+vs: Anna has gone to Paris. | Anna đi Paris rồi. || đang ở Paris, chưa về
+> Hai câu chỉ khác nhau một từ. [[Has been to]]: đã đến và đã về, giờ đang ở đây. [[Has gone to]]: đã đi, và giờ vẫn đang ở đó.
+vs: I've been to Japan. | Tôi đã từng đến Nhật. || không nói lúc nào → hiện tại hoàn thành
+vs: I went to Japan in 2019. | Năm 2019 tôi đã đến Nhật. || có mốc thời gian → quá khứ đơn
+> Còn khi nói rõ lúc nào, như [[in 2019]] hay [[last year]], ta quay về quá khứ đơn.
+
+#mistakes
+x: Have you ever went to Da Nang? => Have you ever been to Da Nang? | Bạn đã từng đến Đà Nẵng chưa? >> Sau [[have]] là phân từ: [[been]], không phải [[went]].
+x: I have seen him yesterday. => I saw him yesterday. | Hôm qua tôi gặp anh ấy. >> Có [[yesterday]] là mốc thời gian cụ thể, nên dùng quá khứ đơn.
+x: I've never been in Japan. => I've never been to Japan. | Tôi chưa bao giờ đến Nhật. >> Nói về chuyến đi thì dùng [[been to]].
+x: She have tried durian. => She has tried durian. | Cô ấy đã ăn thử sầu riêng. >> [[She]] đi với [[has]].
+
+#dialogue
+max: Grandma, where have you seen snow? | Bà ơi, bà thấy tuyết ở đâu rồi ạ? [thinking]
+grandma: In Korea and in Japan. I went to Japan last winter. | Ở Hàn Quốc và Nhật Bản. Mùa đông năm ngoái bà đi Nhật. [happy]
+max: Wow! You've been to so many places! | Ồ! Bà đi nhiều nơi quá! [surprised]
+grandma: And now I've made a snowman with you! | Và giờ thì bà đã nặn người tuyết cùng cháu rồi! [happy]
+> Để ý: [[I went to Japan last winter]] dùng quá khứ đơn, vì có [[last winter]]. Còn [[You've been to so many places]] thì không nói là lúc nào.
+
+#recall
+? Hỏi bằng tiếng Anh: Bạn đã từng uống cà phê Việt Nam chưa? => Have you ever tried Vietnamese coffee? | Bạn đã từng uống cà phê Việt Nam chưa?
+? Nói bằng tiếng Anh: Tôi chưa bao giờ đi máy bay. => I've never been on a plane. | Tôi chưa bao giờ đi máy bay.
+
+#recap
+> Trải nghiệm trong đời, không nói lúc nào: [[have]] hoặc [[has]] cộng phân từ. Hỏi [[Have you ever]], trả lời [[I've never]]. [[Been to]] là đã về, [[gone to]] là còn ở đó. Có mốc thời gian thì dùng quá khứ đơn.
+
+#practice
+fill: Have you ever ___ to Japan? | been* / went / go || Have + been.
+type: I've never ___ (eat) sushi. | eaten || Eat → eaten.
+fill: She ___ visited ten countries. | has* / have / is || She → has.
+contrast: I ___ Paris in 2019. | visited* / have visited || Có mốc 2019 → quá khứ đơn.
+contrast: Tom isn't here. He ___ to the bank. | has gone* / has been || Đang ở ngân hàng, chưa về → gone.
+fix: Have you ever saw a tiger? | Have you ever seen a tiger?* / Did you ever saw a tiger? / Have you ever see a tiger? || Have + seen.
+choice: “Have you ever been to Hue?” nghĩa là: | Bạn đã từng đến Huế chưa?* / Bạn có hay đến Huế không? / Bạn đang ở Huế à? || Have you ever… = đã từng… chưa.
+order: I've / never / been / on / a / plane. | Tôi chưa bao giờ đi máy bay.
+listen: She's visited ten countries. | She's visited ten countries.* / She visited ten countries. / She's visiting ten countries. || Nghe she's visited — có âm z sau she.

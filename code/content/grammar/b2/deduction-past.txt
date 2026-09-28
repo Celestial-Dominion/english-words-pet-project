@@ -1,0 +1,69 @@
+=== deduction-past
+sum: Suy đoán về QUÁ KHỨ: must have + V3 = chắc là đã (It must have rained last night); can't / couldn't have + V3 = chắc chắn đã không (The cat can't have eaten them); might / may / could have + V3 = có thể đã (They might have missed the bus). Chuyển từ suy đoán hiện tại: must be → must have been. Phủ định dùng can't have, không dùng mustn't have. Khi nói, have đọc lướt: must've, might've. (Could have còn nghĩa “lẽ ra đã có thể” — bài should-have.)
+form: must have + V3 = chắc là đã | She must have left early.
+form: can't / couldn't have + V3 = chắc chắn đã không | He can't have seen it.
+form: might / may / could have + V3 = có thể đã | They might have missed the bus.
+form: must have → must've khi nói | You must've been tired.
+cast: dad max
+bg: home-evening
+words: must, empty, remind, throw, break, chocolate
+gloss: jar, cookie
+
+#hook
+dad: Max, the cookie jar is empty! What happened? | Max, hộp bánh quy trống trơn rồi! Chuyện gì thế? [surprised]
+max: It wasn't me! The cat must have eaten them. | Không phải con! Chắc là con mèo ăn đấy. [shy]
+dad: The cat can't have eaten them. Cats don't like cookies! | Mèo không thể ăn được. Mèo đâu có thích bánh quy! [thinking]
+max: Maybe Grandma took them. She might have given them to the neighbors. | Có khi bà lấy. Có thể bà đã mang cho hàng xóm. [thinking]
+dad: Hmm. Then why do you have chocolate on your face? | Hừm. Thế sao mặt con dính sô-cô-la? [happy point]
+> Suy đoán về chuyện đã xảy ra: [[must have eaten]], chắc là đã ăn. [[Can't have eaten]], chắc chắn đã không ăn. [[Might have given]], có thể đã cho. Công thức: động từ khuyết thiếu, cộng [[have]], cộng phân từ.
+
+#form
+f: Chủ ngữ + [must / might / can't] + [have] + phân từ
+> Chỉ cần thêm [[have]] và phân từ, suy đoán chuyển từ hiện tại sang quá khứ.
+th: Hiện tại | Quá khứ
+tb: He must be tired. | He must have been tired.
+tb: She might be at home. | She might have been at home.
+tb: It can't be true. | It can't have been true.
+> So sánh hai cột: [[must be]] thành [[must have been]], [[might be]] thành [[might have been]].
+
+#examples
+- The ground is wet. It {must have rained|k} last night. | Mặt đất ướt. Chắc đêm qua trời mưa.
+- She {can't have forgotten|n}. I reminded her twice. | Cô ấy không thể quên được. Tôi đã nhắc hai lần rồi.
+- They're late. They {might have missed|k} the bus. | Họ đến muộn. Có thể họ lỡ xe buýt.
+- I {must have left|k} my phone in the taxi. | Chắc tôi để quên điện thoại trên taxi rồi.
+
+#pronunciation
+pron: must have | must've | ˈmʌstəv
+pron: might have | might've | ˈmaɪtəv
+pron: can't have | can't've | ˈkæntəv
+> Khi nói nhanh, [[have]] gần như chỉ còn một âm nhỏ: [[must've]], [[might've]]. Khi viết, luôn viết đầy đủ [[must have]].
++ You must've been really tired. | Chắc hẳn bạn đã rất mệt.
+
+#mistakes
+x: He must has left. => He must have left. | Chắc anh ấy đi rồi. >> Sau [[must]] luôn là [[have]], kể cả với [[he]].
+x: She mustn't have seen me. => She can't have seen me. | Chắc chắn cô ấy đã không nhìn thấy tôi. >> Suy đoán phủ định: [[can't have]].
+x: They might have forget. => They might have forgotten. | Có thể họ đã quên. >> Sau [[have]] là phân từ: [[forgotten]].
+
+#dialogue
+max: OK, OK. I might have eaten one or two. | Thôi được ạ. Có thể con đã ăn một hai cái. [shy]
+dad: One or two? The jar was full this morning! | Một hai cái á? Sáng nay hộp còn đầy mà! [surprised]
+max: Then someone else must have helped me! | Vậy chắc là có người khác đã ăn cùng con! [happy]
+dad: Nice try, Max. | Khéo chống chế lắm, Max. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Chắc cô ấy đã về nhà rồi. => She must have gone home. | Chắc cô ấy đã về nhà rồi.
+? Nói bằng tiếng Anh: Anh ấy không thể đã nói vậy được. => He can't have said that. | Anh ấy không thể đã nói vậy được.
+
+#recap
+> Suy đoán quá khứ: [[must have]] là chắc là đã, [[might have]], [[could have]] là có thể đã, [[can't have]] là chắc chắn đã không. Luôn là [[have]] cộng phân từ, và khi nói thì đọc lướt [[must've]].
+
+#practice
+fill: The window is broken. Someone ___ have thrown a ball. | must* / can't / mustn't || Có bằng chứng → must have.
+fill: He ___ have stolen it. He was with me all day. | can't* / must / might || Chắc chắn không → can't have.
+fill: I'm not sure. She ___ have taken the train. | might* / must / can't || Không chắc → might have.
+fix: She must has forgotten. | She must have forgotten.* / She must have forgot. / She must forgotten. || Must have + phân từ.
+transform: Chuyển suy đoán sang quá khứ: | He must be tired. >> He must have been tired.* / He must be tired yesterday. / He must has been tired. || Must have been.
+choice: “They might have missed the bus.” nghĩa là: | Có thể họ đã lỡ xe buýt* / Chắc chắn họ đã lỡ xe buýt / Lẽ ra họ nên lỡ xe buýt || Might have = có thể đã.
+type: I must have ___ my phone in the taxi. (leave) | left || Must have + phân từ.
+order: It / must / have / rained / last / night. | Chắc đêm qua trời mưa.
+listen: She can't have forgotten. I reminded her twice. | She can't have forgotten. I reminded her twice.* / She must have forgotten. I reminded her twice. / She can't forget. I'll remind her twice. || Nghe can't have forgotten.

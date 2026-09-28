@@ -1,0 +1,69 @@
+=== wish
+sum: Wish luôn LÙI THÌ so với điều mình ước, vì điều đó trái với thực tế. Wish + quá khứ đơn = ước cho hiện tại (I wish I were as smart as my brother; I wish I could help). Wish + had + V3 = tiếc cho quá khứ (I wish I had studied harder). Wish + would + V = mong người khác, tình huống thay đổi, thường là phàn nàn (I wish you would stop saying that) — không dùng would cho chính mình. If only… = giá mà (mạnh hơn). Hope dành cho điều còn có thể xảy ra, không lùi thì.
+form: wish + quá khứ đơn = ước cho hiện tại | I wish I had a car.
+form: wish + had + V3 = tiếc cho quá khứ | I wish I had studied harder.
+form: wish + would + V = mong người khác thay đổi | I wish you would stop.
+form: If only… = giá mà · hope = điều có thể xảy ra | If only I knew! · I hope you pass.
+cast: sam zoe
+bg: campus-gate
+words: wish, fail, terrible, smart, chance, shy
+
+#hook
+sam: I failed the math test. I wish I had studied harder. | Tớ trượt bài kiểm tra toán. Giá mà tớ học chăm hơn. [sad]
+zoe: I wish I could help, but I'm terrible at math too. | Ước gì tớ giúp được, nhưng tớ cũng dốt toán lắm. [sad]
+sam: I wish I were as smart as my brother. | Ước gì tớ thông minh như anh tớ. [sad]
+zoe: And I wish you would stop saying that! You're smart. | Còn tớ ước cậu đừng nói thế nữa! Cậu thông minh mà. [angry]
+> Ba kiểu ước. [[I wish I had studied harder]]: tiếc cho quá khứ, nên dùng [[had]] cộng phân từ. [[I wish I were as smart]]: ước cho hiện tại, lùi về quá khứ đơn. [[I wish you would stop]]: mong người khác thay đổi, dùng [[would]].
+
+#form
+th: Ước cho | Cấu trúc | Ví dụ
+tb: hiện tại | wish + quá khứ đơn | I wish I had more time.
+tb: quá khứ | wish + had + V3 | I wish I hadn't said that.
+tb: người khác thay đổi | wish + would + V | I wish he would call me.
+> Quy tắc chung: lùi thì một bước so với điều mình ước. Muốn hiện tại khác đi, dùng quá khứ. Muốn quá khứ khác đi, dùng quá khứ hoàn thành. Với [[be]], văn chuẩn dùng [[were]] cho mọi chủ ngữ: [[I wish I were]].
+
+#examples
+- I {wish|k} I {lived|v} near the sea. | Ước gì tôi sống gần biển.
+- She {wishes|k} she {hadn't sold|v} her old car. | Cô ấy tiếc vì đã bán chiếc xe cũ.
+- I {wish|k} it {would stop|v} raining. | Ước gì trời tạnh mưa.
+- {If only|k} I {knew|v} her number! | Giá mà tôi biết số của cô ấy!
+> [[If only]] giống [[I wish]], nhưng cảm xúc mạnh hơn, như “giá mà” trong tiếng Việt.
+
+#contrast
+vs: I hope you pass the exam. | Mong bạn thi đỗ. || hope: điều có thể xảy ra
+vs: I wish I had passed the exam. | Tiếc là tôi đã không thi đỗ. || wish: điều trái với thực tế
+> [[Hope]] cho điều có thể xảy ra, và dùng thì bình thường. [[Wish]] cho điều trái với thực tế, nên phải lùi thì.
+
+#natural
+rank: best | I wish I were taller. | Ước gì tôi cao hơn.
+rank: ok | I wish I was taller. | Ước gì tôi cao hơn.
+> Trong văn nói, nhiều người nói [[I wish I was]]. Còn văn viết, câu trang trọng thì dùng [[were]].
+
+#mistakes
+x: I wish I have a car. => I wish I had a car. | Ước gì tôi có ô tô. >> Ước cho hiện tại: lùi về quá khứ đơn.
+x: I wish I didn't eat so much yesterday. => I wish I hadn't eaten so much yesterday. | Tiếc là hôm qua tôi ăn nhiều quá. >> Tiếc cho quá khứ: [[had]] cộng phân từ.
+x: I wish I would be rich. => I wish I were rich. | Ước gì tôi giàu. >> Không dùng [[would]] khi ước cho chính mình.
+
+#dialogue
+sam: I wish the teacher would give us another chance. | Ước gì cô giáo cho bọn mình thêm một cơ hội. [thinking]
+zoe: She might! You should ask her. | Có khi cô cho đấy! Cậu nên hỏi cô. [happy]
+sam: I wish I weren't so shy. | Ước gì tớ không nhút nhát thế. [shy]
+zoe: Then I'll come with you. Let's go! | Thế thì tớ đi cùng cậu. Đi thôi! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Ước gì tôi nói được tiếng Nhật. => I wish I could speak Japanese. | Ước gì tôi nói được tiếng Nhật.
+? Nói bằng tiếng Anh: Tiếc là tôi đã không nghe lời mẹ. => I wish I had listened to my mom. | Tiếc là tôi đã không nghe lời mẹ.
+
+#recap
+> [[Wish]] luôn lùi thì so với điều mình ước. Hiện tại: quá khứ đơn. Quá khứ: [[had]] cộng phân từ. Mong người khác thay đổi: [[would]]. Còn [[hope]] thì dành cho điều vẫn còn có thể xảy ra.
+
+#practice
+fill: I wish I ___ more free time. | had* / have / will have || Ước cho hiện tại → had.
+fill: I wish I ___ to the party last night. It was great! | had gone* / went / would go || Tiếc cho quá khứ → had gone.
+fill: I wish my neighbors ___ playing loud music. | would stop* / will stop / had stopped || Phàn nàn, mong người khác thay đổi → would stop.
+fix: I wish I can swim. | I wish I could swim.* / I wish I can to swim. / I wish I would swim. || Wish + could.
+contrast: I ___ you have a great trip! | hope* / wish || Điều có thể xảy ra → hope.
+choice: “I wish I hadn't said that.” nghĩa là: | Tôi tiếc vì đã nói vậy* / Tôi mong sẽ không nói vậy / Tôi ước được nói vậy || Wish + had + V3 = tiếc cho quá khứ.
+type: If ___ I knew the answer! (giá mà) | only || If only…
+order: I / wish / I / lived / near / the / sea. | Ước gì tôi sống gần biển.
+listen: I wish it would stop raining. | I wish it would stop raining.* / I hope it will stop raining. / I wish it had stopped raining. || Nghe wish … would stop.

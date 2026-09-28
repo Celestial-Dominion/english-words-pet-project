@@ -1,0 +1,64 @@
+=== future-time-clauses
+sum: Nói về tương lai, sau when, as soon as, before, after, until, once dùng HIỆN TẠI ĐƠN, không dùng will: When I get home, I'll call you. As soon as you arrive, send me a message. Vế còn lại mới dùng will, can hoặc mệnh lệnh. Muốn nhấn mạnh việc đã xong trước: when / after + hiện tại hoàn thành (After you've finished, you can go). Until = cho đến khi; as soon as = ngay khi. Giống quy tắc vế if trong câu điều kiện loại 1.
+form: when / as soon as / before / after / until + hiện tại đơn | When I get home, …
+form: vế kia: will · can · mệnh lệnh | …, I'll call you.
+form: after / when + hiện tại hoàn thành (đã xong) | After you've finished, you can go.
+form: until = cho đến khi · as soon as = ngay khi | Wait here until I come back.
+cast: mom lily
+bg: park
+words: until, soon, arrive, message, camp, remember
+gloss: camp, sweetie
+
+#hook
+mom: Lily, when you get to the camp, call me. | Lily, khi nào đến trại thì gọi cho mẹ nhé. [explain]
+lily: OK, Mom. I'll call you as soon as I arrive. | Vâng ạ. Con đến nơi là gọi mẹ ngay. [happy]
+mom: And don't go swimming until a teacher is with you. | Và đừng đi bơi cho đến khi có cô giáo đi cùng. [worried]
+lily: I know, I know! | Con biết rồi mà! [happy]
+> [[When you get to the camp]], [[as soon as I arrive]]: đều nói về tương lai, nhưng lại dùng hiện tại đơn. Sau [[when]], [[as soon as]], [[until]], ta không dùng [[will]]. [[Will]] chỉ nằm ở vế còn lại.
+
+#form
+f: [when / as soon as / until] + hiện tại đơn, + will / mệnh lệnh
+> Hai vế có thể đổi chỗ cho nhau. Khi vế thời gian đứng đầu, đặt dấu phẩy sau nó.
+- {When|c} I {get|k} home, I'll call you. | Về đến nhà, tôi sẽ gọi cho bạn.
+- I'll wait here {until|c} you {come|k} back. | Tôi sẽ đợi ở đây cho đến khi bạn quay lại.
+- {As soon as|c} it {stops|k} raining, we'll go out. | Tạnh mưa là chúng ta đi ngay.
+- Turn off the lights {before|c} you {leave|k}. | Tắt đèn trước khi đi nhé.
+
+#meaning
+vs: When I see him, I'll tell him. | Khi nào gặp anh ấy, tôi sẽ nói. || chắc chắn sẽ gặp
+vs: If I see him, I'll tell him. | Nếu gặp anh ấy, tôi sẽ nói. || có thể gặp, có thể không
+> [[When]] cho việc chắc chắn sẽ xảy ra. [[If]] cho việc chỉ có thể xảy ra. Nhưng cả hai đều theo cùng một quy tắc: hiện tại đơn, không có [[will]].
+
+#real
+- {After|c} {you've finished|k}, you can go home. | Làm xong rồi thì bạn có thể về.
+> Muốn nhấn mạnh việc phải xong hẳn trước, có thể dùng hiện tại hoàn thành: [[After you've finished]], [[When you've read it]].
+- I'll lend you the book {when|c} {I've read|k} it. | Đọc xong tôi sẽ cho bạn mượn cuốn sách. [ipa=read:rɛd]
+
+#mistakes
+x: When I will get home, I will call you. => When I get home, I will call you. | Về đến nhà, tôi sẽ gọi cho bạn. >> Sau [[when]], nói về tương lai vẫn dùng hiện tại đơn.
+x: I'll wait until you will come. => I'll wait until you come. | Tôi sẽ đợi đến khi bạn tới. >> Sau [[until]] không dùng [[will]].
+x: As soon as she arrives, she calls me. => As soon as she arrives, she'll call me. | Cô ấy đến là sẽ gọi cho tôi ngay. >> Vế kết quả trong tương lai cần [[will]].
+
+#dialogue
+lily: Mom, can I buy some snacks when we stop for lunch? | Mẹ ơi, lúc dừng ăn trưa con mua ít đồ ăn vặt được không? [happy]
+mom: Yes, but eat them after you've had lunch. | Được, nhưng ăn trưa xong rồi hãy ăn. [explain]
+lily: OK. I'll send you a photo when we get there! | Vâng. Đến nơi con sẽ gửi ảnh cho mẹ! [happy cheer]
+mom: I'll be waiting! Have fun, sweetie. | Mẹ chờ nhé! Đi vui nhé con. [happy wave]
+
+#recall
+? Nói bằng tiếng Anh: Khi nào xong việc, tôi sẽ nhắn cho bạn. => When I finish work, I'll text you. | Khi nào xong việc, tôi sẽ nhắn cho bạn.
+? Nói bằng tiếng Anh: Đợi ở đây cho đến khi tôi quay lại. => Wait here until I come back. | Đợi ở đây cho đến khi tôi quay lại.
+
+#recap
+> Sau [[when]], [[as soon as]], [[before]], [[after]], [[until]], nói về tương lai vẫn dùng hiện tại đơn. [[Will]] chỉ ở vế còn lại. Muốn nhấn mạnh đã xong trước, dùng hiện tại hoàn thành: [[after you've finished]].
+
+#practice
+fill: When I ___ home, I'll call you. | get* / will get / got || Sau when → hiện tại đơn.
+fill: I'll wait here until you ___ back. | come* / will come / came || Sau until → hiện tại đơn.
+fill: As soon as the rain stops, we ___ out. | will go* / go / went || Vế kết quả → will.
+fix: Before you will leave, turn off the lights. | Before you leave, turn off the lights.* / Before you will leave turn off the lights. / Before you leaving, turn off the lights. || Sau before → hiện tại đơn.
+contrast: We have a meeting tomorrow. ___ I see him, I'll give him the book. | When* / If || Chắc chắn sẽ gặp → when.
+type: After you ___ finished, you can go home. | have / 've || After + hiện tại hoàn thành.
+choice: “As soon as I arrive, I'll call you.” nghĩa là: | Đến nơi là tôi gọi ngay* / Tôi sẽ gọi trước khi đến / Nếu đến được thì tôi mới gọi || As soon as = ngay khi.
+order: I'll / wait / here / until / you / come / back. | Tôi sẽ đợi ở đây cho đến khi bạn quay lại.
+listen: As soon as it stops raining, we'll go out. | As soon as it stops raining, we'll go out.* / As soon as it started raining, we went out. / When it stops raining, we'll stay in. || Nghe stops · we'll go out.

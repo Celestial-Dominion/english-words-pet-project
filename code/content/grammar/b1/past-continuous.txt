@@ -1,0 +1,79 @@
+=== past-continuous
+sum: Quá khứ tiếp diễn: was / were + V-ing — việc ĐANG diễn ra ở một thời điểm trong quá khứ, bắt đầu trước và kết thúc sau thời điểm đó: At nine o'clock, I was cleaning the kitchen. Hỏi: What were you doing at…? Phủ định: wasn't / weren't + V-ing. Dùng để vẽ khung cảnh khi kể chuyện (It was raining…) và nói hai việc cùng đang diễn ra (While I was cooking, he was watching TV). Động từ trạng thái (know, want, like) không dùng dạng này.
+form: was / were + V-ing | I was cleaning the kitchen.
+form: What were you doing at…? | hỏi việc đang làm lúc nào đó
+form: wasn't / weren't + V-ing | They weren't listening.
+form: while + hai việc cùng đang diễn ra | While I was cooking, he was watching TV.
+cast: mr-ross jay ana
+bg: restaurant
+prop: cake x=1000
+words: while, clean, count, hold, midnight, loudly
+gloss: loudly
+
+#hook
+mr-ross: Someone ate the cake last night! Jay, what were you doing at nine? | Có người ăn mất cái bánh tối qua! Jay, lúc chín giờ anh đang làm gì? [angry @cake]
+jay: I was cleaning the kitchen. | Tôi đang dọn bếp. [worried]
+mr-ross: And you, Ana? | Còn cô, Ana? [thinking]
+ana: I was counting the money. And Jay was singing very loudly! | Tôi đang đếm tiền. Còn Jay thì đang hát rất to! [explain]
+jay: I always sing when I clean! | Tôi dọn dẹp là hay hát mà! [shy]
+> [[I was cleaning the kitchen]]: lúc chín giờ tối qua, việc dọn bếp đang diễn ra, chưa xong. Đây là thì quá khứ tiếp diễn: [[was]] hoặc [[were]], cộng động từ thêm [[ing]].
+
+#meaning
+tl: ~-2.2..-0.8 was cleaning | 8 giờ 30 đến 9 giờ 30
+tl: -1.5 at nine | đúng 9 giờ tối qua
+tl: now | bây giờ
+> Chín giờ là một điểm nằm giữa việc đang diễn ra. Việc dọn bếp bắt đầu trước đó và kết thúc sau đó. Ta chỉ nói: vào lúc ấy, nó đang diễn ra.
+
+#form
+th: Chủ ngữ | Khẳng định | Phủ định
+tb: I · he · she · it | was working | wasn't working
+tb: you · we · they | were working | weren't working
+> Chọn [[was]] hay [[were]] giống hệt quá khứ của [[be]]. Câu hỏi thì đảo lên đầu: [[Were you working?]], [[What was she doing?]]
+- {What|q} {were|a} you {doing|k} at eight last night? | Tám giờ tối qua bạn đang làm gì?
+- At midnight, I {was still studying|k}. | Nửa đêm tôi vẫn đang học.
+- They {weren't listening|n} to the teacher. | Bọn trẻ không chịu nghe cô giáo nói.
+
+#contrast
+vs: At nine, I cleaned the kitchen. | Chín giờ, tôi dọn bếp. || đúng 9 giờ mới bắt đầu dọn
+vs: At nine, I was cleaning the kitchen. | Lúc chín giờ, tôi đang dọn bếp. || 9 giờ đang dọn dở
+> Chỉ khác một chút mà nghĩa khác hẳn. [[At nine, I cleaned the kitchen]]: đúng chín giờ thì tôi bắt đầu dọn. [[At nine, I was cleaning the kitchen]]: chín giờ, tôi đang dọn dở, đã bắt đầu từ trước.
+
+#real
+- It {was raining|k}, and a cold wind {was blowing|k}. | Trời đang mưa, gió lạnh đang thổi.
+- {While|c} I {was cooking|k}, my husband {was watching|k} TV. | Trong lúc tôi nấu ăn, chồng tôi ngồi xem tivi.
+> Khi kể chuyện, quá khứ tiếp diễn giúp vẽ khung cảnh: trời đang mưa, gió đang thổi. Còn hai việc cùng đang diễn ra một lúc thì nối bằng [[while]].
+
+#natural
+rank: best | I didn't know the answer. | Tôi không biết câu trả lời.
+rank: bad | I wasn't knowing the answer.
+> Giống thì hiện tại tiếp diễn, các động từ trạng thái như [[know]], [[want]], [[like]], [[need]] không dùng dạng [[ing]] này.
+
+#mistakes
+x: I was work at eight. => I was working at eight. | Lúc tám giờ tôi đang làm việc. >> Sau [[was]] là động từ thêm [[ing]].
+x: They was playing football. => They were playing football. | Họ đang đá bóng. >> [[They]] đi với [[were]].
+x: What did you doing at ten? => What were you doing at ten? | Lúc mười giờ bạn đang làm gì? >> Câu hỏi quá khứ tiếp diễn dùng [[were]], không dùng [[did]].
+
+#dialogue
+mr-ross: So nobody was in the kitchen at ten? | Vậy lúc mười giờ không ai ở trong bếp à? [thinking]
+ana: Wait. At ten, I was closing the windows, and I saw someone... | Khoan. Lúc mười giờ tôi đang đóng cửa sổ, và tôi thấy một người... [surprised ipa=closing:ˈkloʊzɪŋ]
+jay: Who? | Ai cơ? [surprised]
+ana: You, Mr. Ross! You were holding a big piece of cake! | Là anh đấy, anh Ross! Anh đang cầm một miếng bánh to! [happy point]
+mr-ross: Ah... I was just checking it! | À... Tôi chỉ đang kiểm tra nó thôi mà! [shy]
+
+#recall
+? Nói bằng tiếng Anh: Lúc bảy giờ tối qua tôi đang ăn tối. => I was having dinner at seven last night. | Lúc bảy giờ tối qua tôi đang ăn tối.
+? Hỏi bằng tiếng Anh: Lúc đó bạn đang làm gì? => What were you doing then? | Lúc đó bạn đang làm gì?
+
+#recap
+> Quá khứ tiếp diễn là [[was]] hoặc [[were]] cộng [[ing]]: việc đang diễn ra ở một lúc trong quá khứ. Dùng nó để trả lời [[What were you doing?]], để vẽ khung cảnh khi kể chuyện, và để nói hai việc cùng lúc với [[while]].
+
+#practice
+fill: At 8 p.m. yesterday, I ___ dinner. | was having* / were having / am having || I → was + V-ing.
+fill: What ___ you doing at midnight? | were* / was / did || You → were.
+type: They ___ (not / listen) to the teacher. | weren't listening / were not listening || They → weren't + V-ing.
+contrast: At nine o'clock, she ___ a shower, so she didn't hear the phone. | was taking* / took || Đang dở lúc 9 giờ → was taking.
+fix: While I was cook, my brother was sleeping. | While I was cooking, my brother was sleeping.* / While I cooking, my brother was sleeping. / While I was cook, my brother sleeping. || Was + V-ing.
+choice: “At nine, I was cleaning the kitchen.” nghĩa là: | Lúc chín giờ tôi đang dọn dở* / Đúng chín giờ tôi mới bắt đầu dọn / Chín giờ tôi đã dọn xong || Quá khứ tiếp diễn = đang diễn ra.
+order: It / was / raining, / and / a / cold / wind / was / blowing. | Trời đang mưa, gió lạnh đang thổi.
+listen: They weren't listening to the teacher. | They weren't listening to the teacher.* / They were listening to the teacher. / They aren't listening to the teacher. || Nghe weren't.
+natural: I didn't know the answer.* / I wasn't knowing the answer. || Know là động từ trạng thái.

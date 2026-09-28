@@ -1,0 +1,74 @@
+=== verbless-clauses
+sum: Mệnh đề không động từ — lược cả chủ ngữ lẫn be, chỉ giữ tính từ, danh từ hay cụm giới từ; gọn và có nhịp, hợp văn viết. liên từ + tính từ: Though small, the hotel was charming · Although exhausted, she kept working · Whether true or false, … liên từ + cụm giới từ: While in Hanoi, we… · Once inside, … · When in doubt, … danh từ + cụm giới từ (tả tư thế): Coffee in hand, I watched the city. Cụm danh từ mở câu: A shy child, she rarely spoke. Cụm cố định: unless otherwise stated · where appropriate. Chủ ngữ ngầm PHẢI trùng chủ ngữ câu chính (When a child, my father… ✗). Không phải cụm nào cũng lược tự nhiên: When I was a child / As a child, không nói When a child.
+form: Though / Although / Whether + tính từ, … | Though small, the hotel was charming.
+form: While / Once / When + cụm giới từ, … | While in Hanoi, we tried egg coffee.
+form: danh từ + cụm giới từ, … (coffee in hand) | Coffee in hand, I watched the city wake up.
+form: chủ ngữ ngầm = chủ ngữ câu chính | When in doubt, ask a local.
+cast: ana linh
+bg: library
+words: charming, exhausted, doubt, local, nurse, tax
+names: Hanoi
+gloss: blog
+
+#hook
+ana: Listen to my travel blog. Though small, the hotel was charming. | Nghe blog du lịch của tôi nè. Tuy nhỏ, khách sạn rất duyên. [happy]
+linh: Nice. What's next? | Hay đấy. Tiếp theo là gì? [thinking]
+ana: While in Hanoi, we tried egg coffee. Every morning, coffee in hand, I watched the city wake up. | Khi ở Hà Nội, chúng tôi thử cà phê trứng. Sáng nào, tay cầm ly cà phê, tôi cũng ngắm thành phố thức giấc. [explain]
+linh: Lovely. And end with some advice: when in doubt, ask a local. | Hay quá. Và kết bằng một lời khuyên: khi phân vân, cứ hỏi người dân địa phương. [happy]
+> Những cụm này không có động từ: [[Though small]], [[While in Hanoi]], [[coffee in hand]], [[when in doubt]]. Chủ ngữ và [[be]] được lược đi, câu gọn và có nhịp, rất hợp với văn viết.
+
+#form
+th: Mẫu | Ví dụ
+tb: liên từ + tính từ | Though small, the flat is bright.
+tb: liên từ + cụm giới từ | While at university, she studied law.
+tb: danh từ + cụm giới từ | Coffee in hand, she opened the door.
+tb: cụm cố định | when in doubt · unless otherwise stated
+> So với mệnh đề phân từ, ở đây không còn cả [[V-ing]] hay [[V3]]: chỉ còn tính từ, danh từ, hoặc cụm giới từ. Người đọc tự điền phần bị lược.
+f: [Though / While / When / If] + tính từ, cụm giới từ + câu chính
+> Chủ ngữ ngầm phải trùng với chủ ngữ câu chính: [[Though small, the flat is bright]], thứ nhỏ chính là căn hộ.
+
+#examples
+- {Whether true or false|k}, the story spread quickly. | Dù thật hay giả, câu chuyện lan đi rất nhanh.
+- {Once inside|k}, please turn off your phone. | Khi đã vào trong, xin tắt điện thoại.
+- {Unless otherwise stated|k}, all prices include tax. | Trừ khi có ghi chú khác, mọi giá đã bao gồm thuế.
+- {A shy child|k}, she rarely spoke in class. | Vốn là một đứa trẻ nhút nhát, cô bé hiếm khi phát biểu trong lớp.
+
+#contrast
+vs: Although she was exhausted, she kept working. | Dù đã kiệt sức, cô ấy vẫn làm tiếp. || đầy đủ
+vs: Although exhausted, she kept working. | Dù kiệt sức, cô ấy vẫn tiếp tục làm việc. || không động từ: gọn, văn viết
+> Bỏ [[she was]] mà nghĩa không đổi, vì chủ ngữ ngầm chính là [[she]] ở câu chính.
+
+#natural
+rank: best | When I was a child, I lived by the sea. | Hồi nhỏ, tôi sống gần biển.
+rank: odd | When a child, I lived by the sea.
+> Không phải cụm nào cũng lược được tự nhiên. [[When a child]] nghe cũ, như văn cổ. Nói về thời thơ ấu, người ta dùng [[When I was a child]], hoặc [[As a child]].
+
+#mistakes
+x: When a child, my father taught me to swim. => When I was a child, my father taught me to swim. | Hồi tôi còn nhỏ, bố dạy tôi bơi. >> Chủ ngữ ngầm phải trùng chủ ngữ câu chính. Ở đây người còn nhỏ là [[I]], không phải [[my father]].
+x: Though tiredly, he finished the race. => Though tired, he finished the race. | Dù mệt, anh ấy vẫn về đích. >> Sau [[though]] rút gọn là tính từ: [[tired]].
+x: If in doubts, ask your teacher. => If in doubt, ask your teacher. | Nếu phân vân, hãy hỏi giáo viên. >> Cụm cố định, số ít: [[in doubt]].
+
+#dialogue
+ana: Should I add that, while there, we got lost twice? | Có nên thêm chuyện, khi ở đó, chúng tôi lạc đường hai lần không? [thinking]
+linh: Yes! Funny stories, however small, make a blog better. | Có chứ! Chuyện vui, dù nhỏ thế nào, cũng làm blog hay hơn. [happy]
+ana: OK. Last line: although exhausted, we had a wonderful time. | Được. Câu cuối: dù kiệt sức, chúng tôi đã có khoảng thời gian tuyệt vời. [explain]
+linh: Perfect ending! | Kết thật hoàn hảo! [happy]
+
+#recall
+? Viết gọn bằng tiếng Anh, bỏ động từ: Dù đắt, chiếc xe này rất đáng tiền. => Though expensive, this car is worth the money. | Dù đắt, chiếc xe này rất đáng tiền.
+? Viết bằng tiếng Anh, dùng [[When in doubt]]: Khi phân vân, hãy chọn phương án an toàn. => When in doubt, choose the safe option. | Khi phân vân, hãy chọn phương án an toàn.
+
+#recap
+> Mệnh đề không động từ: liên từ cộng tính từ, như [[Though small]]; liên từ cộng cụm giới từ, như [[While in Hanoi]]; danh từ cộng cụm giới từ, như [[coffee in hand]]; cụm cố định như [[when in doubt]]. Luôn kiểm tra chủ ngữ ngầm, và đừng lược khi câu nghe cũ kỹ.
+
+#practice
+fill: Though ___, the room was very comfortable. | small* / smallness / smally || Though + tính từ.
+fill: ___ in London, she worked as a nurse. | While* / During / Despite || While + cụm giới từ.
+fill: Keys ___ hand, he ran to the car. | in* / on / at || danh từ + in hand.
+fix: When a student, my teacher helped me a lot. | When I was a student, my teacher helped me a lot.* / When a student, I was helped my teacher a lot. / When student, my teacher helped me a lot. || Chủ ngữ ngầm phải trùng.
+transform: Viết gọn, bỏ chủ ngữ và be: | Although it was old, the car ran well. >> Although old, the car ran well.* / Although was old, the car ran well. / Although oldly, the car ran well. || Although + tính từ.
+choice: Biển báo: “Unless otherwise stated, parking is free.” nghĩa là: | Đỗ xe miễn phí, trừ khi có ghi khác* / Không bao giờ được đỗ xe / Đỗ xe luôn mất phí || Unless otherwise stated = trừ khi có ghi khác.
+choice: Câu nào có lỗi chủ ngữ ngầm? | While at school, my phone was stolen.* / While at school, I lost my phone. / While I was at school, my phone was stolen. || Người ở trường là tôi, không phải chiếc điện thoại.
+type: ___ in doubt, check the dictionary. (khi) | When / If || When / If in doubt.
+order: Whether / true / or / false, / the / story / spread / quickly. | Dù thật hay giả, câu chuyện lan đi rất nhanh.
+listen: Listen to my travel blog. Though small, the hotel was charming. | Listen to my travel blog. Though small, the hotel was charming.* / Listen to my travel blog. Though old, the hotel was charming. / Listen to my blog. The hotel was small but charming. || Nghe though small … charming.

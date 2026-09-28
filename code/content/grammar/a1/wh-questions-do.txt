@@ -1,0 +1,60 @@
+=== wh-questions-do
+sum: Hỏi thông tin với động từ thường: từ hỏi + do / does + chủ ngữ + động từ nguyên thể? — Where do you live? What time does the class start? What do you do? (Bạn làm nghề gì?)
+form: Từ hỏi + do / does + chủ ngữ + động từ? | Where do you work? When does it start?
+form: What do you do? | Bạn làm nghề gì?
+cast: ana sam
+bg: library
+words: live, start, finish, weekend, hobby
+gloss: librarian
+
+#hook
+ana: Hi, Sam. Where do you live? | Chào Sam. Em sống ở đâu? [happy]
+sam: I live near the river. | Em sống gần bờ sông ạ. [shy]
+ana: And what do you do on weekends? | Thế cuối tuần em làm gì? [thinking]
+sam: I play the guitar. | Em chơi đàn ghi-ta ạ. [happy]
+> [[Ana]] không hỏi “có hay không” mà hỏi thông tin: sống ở đâu, cuối tuần làm gì. Câu hỏi thông tin với động từ thường cũng cần [[do]].
+
+#form
+f: [Where / What / When / Why / How] + [do / does] + chủ ngữ + động từ + ?
+> Công thức giống câu hỏi [[Do you…?]] ở bài trước, chỉ thêm từ hỏi lên đầu. [[Do you live…?]] thành [[Where do you live?]]
+mv: Do you live near here ? => Where do you live ?
+> Từ hỏi đứng đầu, [[do]] đứng thứ hai, rồi chủ ngữ, rồi động từ nguyên thể.
+- {What time|q} {does|a} the movie start? | Phim bắt đầu lúc mấy giờ?
+- {Why|q} {do|a} you study English? | Tại sao bạn học tiếng Anh?
+- {How|q} {does|a} she go to school? | Cô bé đi học bằng gì?
+> Chủ ngữ là [[he]], [[she]], [[it]] thì dùng [[does]]: [[What time does the movie start?]]
+
+#examples
+- {What|q} {do|a} you do? — I'm a nurse. | Bạn làm nghề gì? — Tôi là y tá.
+- {Where|q} {does|a} your brother work? | Anh trai bạn làm ở đâu?
+- {When|q} {do|a} you have lunch? | Bạn ăn trưa lúc nào?
+> Câu [[What do you do?]] là cách hỏi nghề nghiệp rất phổ biến. Nó không hỏi “bạn đang làm gì” đâu nhé.
+
+#mistakes
+x: Where you live? => Where do you live? | Bạn sống ở đâu? >> Với động từ thường, câu hỏi thông tin vẫn cần [[do]]: [[Where do you live?]]
+x: What time the shop opens? => What time does the shop open? | Cửa hàng mở cửa lúc mấy giờ? >> Cần [[does]] sau từ hỏi, và động từ quay về nguyên thể: [[does the shop open]].
+x: Where does she lives? => Where does she live? | Cô ấy sống ở đâu? >> Có [[does]] rồi thì bỏ đuôi [[s]] ở động từ chính.
+
+#dialogue
+sam: What do you do, Ana? | Chị làm nghề gì vậy, chị Ana? [thinking]
+ana: I'm a librarian. I work here. | Chị là thủ thư. Chị làm ở đây. [happy]
+sam: When does the library close? | Thư viện đóng cửa lúc mấy giờ ạ? [thinking ipa=close:kloʊz]
+ana: It closes at eight. Why do you ask? | Tám giờ đóng cửa. Sao em hỏi vậy? [confused ipa=closes:ˈkloʊzɪz]
+sam: I want to read here every evening! | Em muốn tối nào cũng đến đây đọc sách! [happy ipa=read:rid]
+
+#recall
+? Hỏi bằng tiếng Anh: Bạn sống ở đâu? => Where do you live? | Bạn sống ở đâu?
+? Hỏi bằng tiếng Anh: Tàu chạy lúc mấy giờ? => What time does the train leave? | Tàu chạy lúc mấy giờ?
+
+#recap
+> Bốn bước của câu hỏi thông tin: từ hỏi, [[do]] hoặc [[does]], chủ ngữ, động từ nguyên thể. [[Where do you live?]] [[What time does it start?]]
+
+#practice
+fill: Where ___ your parents live? | do* / does / are || Your parents = they → do.
+fill: What time ___ the bus leave? | does* / do / is || The bus = it → does.
+fill: Why does he ___ English? | study* / studies / studying || Sau does dùng nguyên thể.
+fix: What you do on Sundays? | What do you do on Sundays?* / What are you do on Sundays? / What does you do on Sundays? || Câu hỏi với động từ thường cần do.
+choice: “What do you do?” nghĩa là gì? | Bạn làm nghề gì?* / Bạn đang làm gì? / Bạn muốn gì? || Câu hỏi về nghề nghiệp.
+order: When / does / the / class / start? | Lớp học bắt đầu lúc nào?
+transform: Hỏi về phần in nghiêng — nơi làm việc: | She works in a hospital. >> Where does she work?* / Where does she works? / Where she works? || Từ hỏi + does + she + work.
+listen: Where does your brother work? | Where does your brother work?* / Where do your brothers work? / Where is your brother? || Nghe does — một người anh.

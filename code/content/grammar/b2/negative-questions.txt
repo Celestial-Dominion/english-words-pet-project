@@ -1,0 +1,69 @@
+=== negative-questions
+sum: Câu hỏi phủ định hiếm khi là câu hỏi bình thường; nó chứa cảm xúc: ngạc nhiên (Don't you remember me?), mong được đồng ý (Isn't it amazing?), gợi ý (Why don't we…?). Trả lời theo SỰ THẬT, không theo câu hỏi: Aren't you busy? — Yes, I am (có bận) / No, I'm not (không bận) — khác tiếng Việt “Ừ, không”. Câu hỏi lặp lại (echo) khi bất ngờ: giữ thứ tự câu kể, thay phần muốn hỏi bằng từ hỏi (You moved where? You paid how much?). Phản hồi ngắn tỏ quan tâm: Did you? Is it? — trợ động từ khớp với câu vừa nghe.
+form: Isn't it…? · Don't you…? = ngạc nhiên, mong đồng ý | Isn't it beautiful?
+form: trả lời theo sự thật: Yes = có, No = không | Aren't you busy? — Yes, I am.
+form: You did what? · You moved where? | hỏi lại vì bất ngờ
+form: Did you? · Is it? · Really? | phản hồi ngắn
+cast: linh mia
+bg: street
+words: remember, amazing, busy, view, cooking, president
+
+#hook
+linh: Mia? Don't you remember me? | Mia? Không lẽ cậu không nhớ tớ à? [surprised]
+mia: Linh! Of course I do! Isn't it amazing to meet like this? | Linh! Nhớ chứ! Gặp nhau thế này có tuyệt không cơ chứ? [happy]
+linh: I know! I moved to Canada last year. | Đúng thế! Năm ngoái tớ chuyển sang Canada. [happy]
+mia: You moved where? Wow! | Cậu chuyển đi đâu cơ? Ồ! [surprised]
+> [[Don't you remember me?]]: ngạc nhiên, “không lẽ bạn không nhớ tôi?”. [[Isn't it amazing?]]: mong người kia đồng ý. Còn [[You moved where?]]: hỏi lại vì bất ngờ, giữ nguyên thứ tự câu kể, chỉ thay phần muốn hỏi bằng từ hỏi.
+
+#form
+th: Mục đích | Ví dụ
+tb: ngạc nhiên | Don't you know him? · Haven't you finished yet?
+tb: mong được đồng ý | Isn't it lovely? · Wasn't that fun?
+tb: gợi ý lịch sự | Why don't we take a break?
+> Câu hỏi phủ định hiếm khi là câu hỏi bình thường. Nó thường chứa cảm xúc: ngạc nhiên, mong được đồng tình, hay một lời gợi ý.
+
+#contrast
+vs: Don't you like coffee? — Yes, I do. | Bạn không thích cà phê à? — Có chứ, tôi thích. || Yes = có thích
+vs: Don't you like coffee? — No, I don't. | Bạn không thích cà phê à? — Ừ, tôi không thích. || No = không thích
+> Đây là cái bẫy lớn với người Việt. Tiếng Việt trả lời theo câu hỏi: “Ừ, không thích”. Tiếng Anh trả lời theo sự thật: thích thì [[Yes]], không thích thì [[No]], dù câu hỏi có [[not]] hay không.
+
+#examples
+- {Isn't|n} this view beautiful? | Cảnh này đẹp quá phải không?
+- {Haven't|n} you finished yet? | Bạn vẫn chưa xong à?
+- {Why don't|q} we order a pizza? | Hay mình gọi pizza nhé?
+- You paid {how much|q}? | Bạn trả bao nhiêu cơ?
+
+#real
+- I got the job! — {Did you|q}? That's great! | Tôi được nhận việc rồi! — Thật á? Tuyệt quá!
+- It's my birthday today. — {Is it|q}? Happy birthday! | Hôm nay sinh nhật tôi. — Thế à? Chúc mừng sinh nhật!
+> Để phản hồi và tỏ ra quan tâm, người bản ngữ hay đáp bằng một câu hỏi ngắn: [[Did you?]], [[Is it?]], [[Really?]]. Trợ động từ phải khớp với câu vừa nghe.
+
+#mistakes
+x: Don't you like tea? — Yes, I don't. => Don't you like tea? — No, I don't. | Bạn không thích trà à? — Ừ, tôi không thích. >> Không thích thì trả lời [[No]], theo sự thật.
+x: Isn't she your sister? — No, she is. => Isn't she your sister? — Yes, she is. | Cô ấy là chị bạn phải không? — Đúng, là chị tôi. >> Đúng là chị thì trả lời [[Yes]].
+x: I passed the exam! — Do you? => I passed the exam! — Did you? | Tôi thi đỗ rồi! — Thật á? >> Câu trước ở quá khứ: [[Did you?]]
+
+#dialogue
+mia: So what do you do in Canada? | Thế cậu làm gì ở Canada? [thinking]
+linh: I teach Vietnamese cooking. | Tớ dạy nấu món Việt. [happy]
+mia: You teach what? That's so cool! Aren't you busy all the time? | Cậu dạy gì cơ? Hay quá! Cậu không bận suốt à? [surprised]
+linh: Yes, I am. But I love it. Why don't we have lunch together? | Có, bận lắm. Nhưng tớ mê công việc này. Hay mình đi ăn trưa cùng nhau nhé? [happy]
+> Để ý câu trả lời [[Yes, I am]]: [[Linh]] đúng là bận, nên nói [[Yes]], dù câu hỏi là [[Aren't you busy?]]
+
+#recall
+? Hỏi bằng tiếng Anh, tỏ ra ngạc nhiên: Không lẽ bạn không biết anh ấy à? => Don't you know him? | Không lẽ bạn không biết anh ấy à?
+? Trả lời câu [[Don't you like spicy food?]] bằng tiếng Anh: Có, tôi thích. => Yes, I do. | Có, tôi thích.
+
+#recap
+> Câu hỏi phủ định chứa cảm xúc: ngạc nhiên, mong đồng tình, hay gợi ý. Trả lời theo sự thật: có là [[Yes]], không là [[No]]. Hỏi lại khi bất ngờ: [[You did what?]]. Và phản hồi ngắn: [[Did you?]], [[Is it?]].
+
+#practice
+fill: ___ this soup delicious? | Isn't* / Doesn't / Aren't || Mong đồng ý, be → Isn't.
+fill: ___ we take a taxi? It's raining. | Why don't* / Why not / Don't || Gợi ý → Why don't we.
+fill: I've just bought a car. — ___? What kind? | Have you* / Did you / Do you || Câu trước: have bought → Have you?
+choice: “Don't you like coffee?” Bạn KHÔNG thích cà phê. Trả lời thế nào? | No, I don't.* / Yes, I don't. / Yes, I do. || Theo sự thật → No, I don't.
+choice: “Aren't you tired?” Bạn đang mệt. Trả lời thế nào? | Yes, I am.* / No, I am. / No, I'm not. || Mệt → Yes, I am.
+fix: I met the president! — Do you? | I met the president! — Did you?* / I met the president! — Were you? / I met the president! — Are you? || Quá khứ → Did you?
+type: You paid ___ much? (hỏi lại vì bất ngờ) | how || You paid how much?
+order: Haven't / you / finished / yet? | Bạn vẫn chưa xong à?
+listen: Isn't this view beautiful? | Isn't this view beautiful?* / Is this view beautiful? / Isn't this room beautiful? || Nghe isn't.

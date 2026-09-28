@@ -1,0 +1,74 @@
+=== tense-in-narrative-news
+sum: Thì trong kể chuyện miệng và tít báo. Kể chuyện miệng, chuyện cười: dùng HIỆN TẠI cho chuyện đã qua để sống động — hiện tại tiếp diễn dựng bối cảnh, hiện tại đơn đẩy sự việc (So I'm sitting in class, and the teacher walks in…); đã chọn thì nào thì giữ nhất quán. Tóm tắt phim, sách cũng dùng hiện tại (In the film, a girl travels back in time…). Tít báo có ngữ pháp riêng: hiện tại đơn cho việc vừa xảy ra (Storm hits coast), to + V cho tương lai (Minister to resign), V3 cho bị động (Man bitten by dog), bỏ mạo từ và be. Phần bài viết bên dưới quay lại ngữ pháp đầy đủ (A storm hit the coast on Monday).
+form: kể miệng: hiện tại tiếp diễn (bối cảnh) + hiện tại đơn (sự việc) | So I'm sitting in class, and the teacher walks in.
+form: tít báo: hiện tại đơn = vừa xảy ra | Storm hits coast
+form: tít báo: to + V = tương lai · V3 = bị động | Man bitten by dog
+form: tóm tắt phim, sách: hiện tại | In the film, a girl travels back in time.
+cast: sam zoe
+bg: street
+words: headline, elect, destroy, rescue, resign, prize
+names: America
+gloss: dragon
+
+#hook
+sam: So yesterday I'm sitting in class, and the teacher walks in with a dog! | Thế là hôm qua tớ đang ngồi trong lớp, thì cô giáo bước vào cùng một con chó! [happy]
+zoe: A dog? | Một con chó á? [surprised]
+sam: Yes! And she says it's our new classmate! Everyone starts laughing. | Ừ! Rồi cô bảo đó là bạn học mới của cả lớp! Cả lớp phá lên cười. [happy]
+zoe: Ha! That's almost as funny as this headline. Dog elected class president. | Ha! Gần buồn cười bằng cái tít báo này. Chó được bầu làm lớp trưởng. [happy]
+> Khi kể chuyện miệng, người ta hay dùng hiện tại cho chuyện đã qua: [[I'm sitting]], [[walks in]], [[says]], [[starts]], để câu chuyện sống động như đang diễn ra. Còn tít báo có ngữ pháp riêng: [[Dog elected class president]] bỏ hẳn [[was]].
+
+#form
+f: bối cảnh + [I'm sitting…] + sự việc chính + [the teacher walks in…]
+> Trong chuyện kể miệng, hiện tại tiếp diễn dựng bối cảnh, hiện tại đơn đẩy câu chuyện đi tiếp. Giống hệt cặp quá khứ tiếp diễn và quá khứ đơn, chỉ là sống động hơn.
+th: Tít báo | Nghĩa đầy đủ
+tb: Storm hits coast | A storm has hit the coast.
+tb: Minister to resign | The minister is going to resign.
+tb: Man bitten by dog | A man was bitten by a dog.
+tb: Prices set to rise | Prices are expected to rise.
+> Tít báo gọn như điện tín: hiện tại đơn cho việc vừa xảy ra, [[to]] cộng V cho tương lai, [[V3]] cho bị động. Mạo từ và [[be]] bị lược bỏ.
+
+#examples
+- So I {get|v} to the station, and {the train's just leaving|v}. | Thế là tôi ra đến ga, thì tàu vừa lăn bánh.
+- {Fire destroys|k} old market. | Hỏa hoạn thiêu rụi chợ cũ.
+- {City to build|k} new bridge. | Thành phố sẽ xây cầu mới.
+- In the film, a young girl {travels|v} back in time and {meets|v} her grandmother. | Trong phim, một cô bé du hành ngược thời gian và gặp bà của mình.
+
+#contrast
+vs: Storm hits coast. | Bão đổ bộ vào bờ biển. || tít báo: hiện tại đơn, lược bỏ
+vs: A storm hit the coast early on Monday. | Một cơn bão đã đổ bộ vào bờ biển sáng sớm thứ Hai. || bài báo: quá khứ đơn, đầy đủ
+> Tít báo gọn như điện tín. Phần bài viết bên dưới quay lại ngữ pháp bình thường, với quá khứ đơn và mốc thời gian cụ thể.
+
+#natural
+rank: best | So I walk in, and she looks at me and smiles. | Thế là tôi bước vào, cô ấy nhìn tôi rồi mỉm cười.
+rank: odd | So I walk in, and she looked at me and smiles.
+> Khi đã chọn hiện tại để kể, hãy giữ nguyên thì đó. Nhảy qua lại giữa hai thì làm người nghe rối.
+
+#mistakes
+x: Man is bitten by dog. => Man bitten by dog. | Một người đàn ông bị chó cắn. >> Tít báo lược bỏ [[is]], [[was]]: chỉ giữ [[V3]].
+x: In the book, the hero lost his memory and tries to find his family. => In the book, the hero loses his memory and tries to find his family. | Trong sách, nhân vật chính mất trí nhớ và cố tìm lại gia đình. >> Tóm tắt sách, phim dùng hiện tại, và giữ nhất quán.
+x: Minister will to resign. => Minister to resign. | Bộ trưởng sẽ từ chức. >> Tít báo dùng [[to]] cộng V cho tương lai, không có [[will]].
+
+#dialogue
+zoe: Look, here's another one. Local boy wins national science prize. | Nhìn này, còn cái nữa. Cậu bé địa phương đoạt giải khoa học quốc gia. [surprised]
+sam: Wait, that's my cousin! He won it last week. | Khoan, đó là em họ tớ! Nó đoạt giải tuần trước. [surprised]
+zoe: No way! So what happens next? | Không thể nào! Rồi sao nữa? [happy]
+sam: He's going to a science camp in America this summer. | Hè này nó sẽ đi trại khoa học ở Mỹ. [happy]
+
+#recall
+? Viết thành tít báo tiếng Anh: Một con hổ vừa trốn khỏi sở thú. => Tiger escapes from zoo. | Một con hổ vừa trốn khỏi sở thú.
+? Kể lại bằng hiện tại, như kể chuyện miệng: Thế là tôi mở cửa, và con mèo nhảy vào. => So I open the door, and the cat jumps in. | Thế là tôi mở cửa, và con mèo nhảy vào.
+
+#recap
+> Kể chuyện miệng: hiện tại tiếp diễn dựng bối cảnh, hiện tại đơn cho sự việc, và giữ nhất quán. Tóm tắt phim, sách: hiện tại. Tít báo: hiện tại đơn cho việc vừa xảy ra, [[to]] cộng V cho tương lai, [[V3]] cho bị động, bỏ mạo từ và [[be]].
+
+#practice
+fill: Headline: Prime Minister ___ visit Vietnam. | to* / will / is going || Tít báo: to + V cho tương lai.
+fill: Headline: Two climbers ___ after storm. | rescued* / are rescued / rescuing || Tít báo: V3 cho bị động.
+fill: So I'm waiting for the bus, and a man ___ up to me. | comes* / came / coming || Kể chuyện bằng hiện tại: comes.
+fix: In the film, a boy found a dragon and becomes its friend. | In the film, a boy finds a dragon and becomes its friend.* / In the film, a boy find a dragon and becomes its friend. / In the film, a boy was finding a dragon and becomes its friend. || Tóm tắt phim: hiện tại, nhất quán.
+transform: Viết thành tít báo: | A fire has destroyed the old library. >> Fire destroys old library* / Fire is destroying the old library / The fire destroyed old library || Tít báo: hiện tại đơn, bỏ mạo từ.
+choice: “Mayor to resign” nghĩa là: | Thị trưởng sắp từ chức* / Thị trưởng đã từ chức / Thị trưởng muốn từ chức || to + V trong tít báo = tương lai.
+choice: “Man bitten by snake” nghĩa là: | Một người đàn ông bị rắn cắn* / Một người đàn ông cắn con rắn / Một người đàn ông sắp bị rắn cắn || V3 trong tít báo = bị động.
+type: So yesterday I'm walking home, and it ___ to rain. (bắt đầu) | starts || Kể chuyện bằng hiện tại: starts.
+order: So / I / get / to / the / station, / and / the / train's / just / leaving. | Thế là tôi ra đến ga, thì tàu vừa lăn bánh.
+listen: Yes! And she says it's our new classmate! Everyone starts laughing. | Yes! And she says it's our new classmate! Everyone starts laughing.* / Yes! And she says it's our new teacher! Everyone starts laughing. / Yes! And she said it was our new classmate! Everyone laughed. || Nghe she says … classmate.

@@ -1,0 +1,68 @@
+=== be-questions-negatives
+sum: Phủ định: thêm not sau be (I'm not, isn't, aren't). Câu hỏi: đưa be lên TRƯỚC chủ ngữ (Are you…? Is it…?). Trả lời ngắn bằng chính động từ be: Yes, I am. / No, it isn't.
+form: Chủ ngữ + be + not | phủ định: I'm not, he isn't, they aren't
+form: Be + chủ ngữ + …? | câu hỏi: Are you…? Is she…?
+form: Yes, + chủ ngữ + be. / No, + chủ ngữ + be + not. | trả lời ngắn
+cast: ben linh
+bg: airport
+prop: passport x=1000
+words: bag, blue, ticket, late
+
+#hook
+ben: Good morning. Are you Linh Tran? | Chào buổi sáng. Chị là Trần Linh phải không? [neutral]
+linh: Yes, I am. | Vâng, đúng rồi. [happy nod]
+ben: Is this your bag? | Đây có phải túi của chị không? [point]
+linh: No, it isn't. My bag is blue. | Không phải. Túi của tôi màu xanh. [shake]
+> Chỉ bốn câu mà có đủ ba thứ của bài hôm nay: hỏi bằng [[be]], trả lời ngắn, và câu phủ định [[it isn't]].
+
+#form
+f: Chủ ngữ + [am / is / are] + [not]
+> Muốn nói “không phải”, bạn chỉ cần thêm [[not]] ngay sau [[be]]. Không cần thêm từ nào khác.
+th: Đầy đủ | Rút gọn
+tb: I am not | I'm not
+tb: she is not | she isn't
+tb: they are not | they aren't
+> Khi nói, người ta dùng dạng rút gọn: [[I'm not]], [[she isn't]], [[they aren't]]. Riêng [[I am not]] chỉ có một cách rút gọn: [[I'm not]].
+- {She|s} {isn't|n} at home. | Cô ấy không có ở nhà.
+- {We|s} {aren't|n} late. | Chúng tôi không đến muộn.
+
+mv: You are tired . => Are you tired ?
+> Câu hỏi thì đổi chỗ: đưa [[are]] lên trước [[you]]. Tiếng Việt thêm chữ “không” ở cuối câu, còn tiếng Anh đổi thứ tự từ.
+
+#examples
+- {Is|a} {it|s} cold outside? | Ngoài trời có lạnh không?
+- {Are|a} {they|s} your parents? | Đó có phải bố mẹ bạn không?
+- {Am|a} {I|s} late? | Tôi có đến muộn không?
+
+vs: Yes, he is. | Vâng, đúng vậy. || trả lời có
+vs: No, he isn't. | Không, không phải. || trả lời không
+> Trả lời ngắn thì lặp lại [[be]]. Hỏi [[Is he…?]], đáp [[Yes, he is]] hoặc [[No, he isn't]]. Hỏi [[Are you…?]], đáp [[Yes, I am]] hoặc [[No, I'm not]].
+
+#mistakes
+x: Yes, she's. => Yes, she is. | Vâng, đúng vậy. >> Câu trả lời ngắn kết thúc bằng [[be]] thì không rút gọn. Nói [[Yes, she is]], [[Yes, I am]].
+x: You are a student? => Are you a student? | Bạn là sinh viên à? >> Câu hỏi cần đưa [[are]] lên đầu, không chỉ lên giọng ở cuối câu.
+x: She not is a teacher. => She isn't a teacher. | Cô ấy không phải giáo viên. >> [[Not]] đứng SAU [[be]]: [[she is not]], rút gọn là [[she isn't]].
+
+#dialogue
+ben: Is your flight to Da Nang? | Chuyến bay của chị đi Đà Nẵng à? [thinking]
+linh: No, it isn't. It's to Hue. | Không phải. Nó đi Huế. [shake]
+ben: OK. Are you with your family? | Vâng. Chị đi cùng gia đình à? [neutral]
+linh: No, I'm not. I'm here for work. | Không. Tôi đi công tác. [happy]
+ben: Here is your ticket. Have a good trip! | Vé của chị đây. Chúc chị chuyến đi vui vẻ! [happy @passport]
+
+#recall
+? Hỏi bằng tiếng Anh: Bạn có mệt không? => Are you tired? | Bạn có mệt không?
+? Nói bằng tiếng Anh: Anh ấy không có ở nhà. => He isn't at home. | Anh ấy không có ở nhà.
+
+#recap
+> Nhớ hai thao tác: phủ định thì thêm [[not]] sau [[be]], như [[isn't]], [[aren't]]. Câu hỏi thì đưa [[be]] lên đầu: [[Are you…?]] Trả lời ngắn: [[Yes, I am]], [[No, it isn't]].
+
+#practice
+fill: ___ you a student? | Are* / Is / Am || You đi với are; câu hỏi đưa are lên đầu.
+fill: My brother ___ at home. He's at school. | isn't* / aren't / not || My brother = he → is not → isn't.
+choice: Trả lời đúng cho “Is it hot today?” | Yes, it is.* / Yes, it's. / Yes, is it. || Trả lời ngắn không rút gọn ở cuối câu.
+fix: They not are my friends. | They aren't my friends.* / They isn't my friends. / They don't my friends. || They → are not → aren't.
+transform: Chuyển thành câu hỏi: | She is from Hanoi. >> Is she from Hanoi?* / She is from Hanoi? / Does she from Hanoi? || Đưa is lên trước she.
+order: Is / your / bag / blue? | Túi của bạn màu xanh à?
+listen: She isn't at home. | She isn't at home.* / She is at home. / She's at home. || Nghe kỹ âm “isn't” /ˈɪzənt/ — có âm n ở cuối.
+natural: No, I'm not.* / No, I amn't. || Dạng phủ định của I am chỉ là I'm not.

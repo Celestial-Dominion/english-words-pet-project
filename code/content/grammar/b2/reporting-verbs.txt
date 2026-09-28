@@ -1,0 +1,67 @@
+=== reporting-verbs
+sum: Thay vì chỉ said / told, dùng động từ tường thuật mang sắc thái; mỗi động từ một mẫu riêng. + to V: agree, refuse, offer, promise (The client refused to sign). + người + to V: advise, warn, remind, persuade (My doctor advised me to drink more water); phủ định not to V. + V-ing: deny, admit, suggest, recommend (Tom admitted breaking the printer). + giới từ + V-ing: apologize for, insist on, accuse someone of. Suggest + V-ing hoặc suggest that + người + V — KHÔNG nói suggest someone to do.
+form: agree / refuse / offer / promise + to V | He refused to sign.
+form: advise / warn / remind / persuade + người + to V | She advised me to rest.
+form: deny / admit / suggest / recommend + V-ing | He denied breaking it.
+form: suggest that + người + V (không nói suggest someone to) | She suggested that we leave early.
+cast: ms-khan ben
+bg: office
+words: admit, deny, refuse, suggest, advise, apologize, contract, accuse
+gloss: printer
+
+#hook
+ms-khan: So what happened at the meeting? | Vậy cuộc họp diễn ra thế nào? [thinking]
+ben: Tom admitted breaking the printer. He apologized for causing so much trouble. | Tom thừa nhận làm hỏng máy in. Anh ấy xin lỗi vì đã gây ra bao rắc rối. [explain]
+ms-khan: Good. And what about the new contract? | Tốt. Còn hợp đồng mới thì sao? [thinking]
+ben: The client refused to sign it. But our boss suggested meeting again next week. | Khách hàng từ chối ký. Nhưng sếp đề nghị tuần sau họp lại. [explain]
+> Thay vì chỉ nói [[said]], tiếng Anh dùng những động từ tường thuật mang sắc thái: [[admitted]], thừa nhận; [[apologized for]], xin lỗi vì; [[refused]], từ chối; [[suggested]], đề nghị. Mỗi động từ đi với một mẫu riêng: [[refused to sign]], nhưng [[admitted breaking]].
+
+#form
+th: Mẫu | Động từ | Ví dụ
+tb: + to V | agree · refuse · offer · promise | She offered to help.
+tb: + người + to V | advise · warn · remind · persuade | He warned me not to go.
+tb: + V-ing | deny · admit · suggest · recommend | He denied taking it.
+tb: + giới từ + V-ing | apologize for · insist on | She insisted on paying.
+> Hãy học mỗi động từ cùng mẫu đi kèm của nó. Với mẫu có [[to]], phủ định thì đặt [[not]] ngay trước [[to]]: [[He warned me not to go]].
+
+#examples
+- He {promised|k} {to call|v} me back. | Anh ấy hứa sẽ gọi lại cho tôi.
+- My doctor {advised|k} me {to drink|v} more water. | Bác sĩ khuyên tôi uống nhiều nước hơn.
+- She {denied|k} {taking|v} the money. | Cô ấy chối là không lấy tiền.
+- They {accused|k} him {of lying|v}. | Họ buộc tội anh ta nói dối.
+- I {apologize for|k} {being|v} late. | Tôi xin lỗi vì đến muộn.
+
+#contrast
+vs: She suggested going to the beach. | Cô ấy gợi ý đi biển. || suggest + V-ing
+vs: She suggested that we go to the beach. | Cô ấy đề nghị chúng tôi đi biển. || suggest that + người + V
+vs: She advised us to go to the beach. | Cô ấy khuyên chúng tôi đi biển. || advise + người + to V
+> [[Suggest]] là động từ hay bị dùng sai nhất. Nó đi với [[ing]], hoặc với [[that]] cộng một mệnh đề. Không nói [[suggested us to go]]. Muốn dùng người cộng [[to]], hãy đổi sang [[advise]].
+
+#mistakes
+x: She suggested me to take a taxi. => She suggested that I take a taxi. | Cô ấy gợi ý tôi đi taxi. >> [[Suggest]] không đi với người cộng [[to]]. Dùng [[suggested that I take]], hoặc [[advised me to take]].
+x: He denied to break the window. => He denied breaking the window. | Anh ấy chối là không làm vỡ cửa sổ. >> [[Deny]] đi với [[ing]].
+x: They refused signing the contract. => They refused to sign the contract. | Họ từ chối ký hợp đồng. >> [[Refuse]] đi với [[to]].
+
+#dialogue
+ms-khan: Did anyone offer to help Tom? | Có ai đề nghị giúp Tom không? [thinking]
+ben: Yes, I offered to fix the printer, but he insisted on paying for it. | Có, tôi đề nghị sửa máy in, nhưng anh ấy nhất quyết tự trả tiền. [explain]
+ms-khan: That's kind of him. I'd recommend buying a new one, though. | Anh ấy tốt thật. Nhưng tôi thì khuyên nên mua cái mới. [happy]
+ben: I'll remind him to order one today. | Tôi sẽ nhắc anh ấy đặt mua ngay hôm nay. [nod]
+
+#recall
+? Tường thuật bằng tiếng Anh, dùng [[refused]]. Anh ấy nói: “Tôi sẽ không xin lỗi.” => He refused to apologize. | Anh ấy từ chối xin lỗi.
+? Tường thuật bằng tiếng Anh, dùng [[admitted]]. Cô ấy nói: “Tôi đã ăn cái bánh.” => She admitted eating the cake. | Cô ấy thừa nhận đã ăn cái bánh.
+
+#recap
+> Động từ tường thuật có sắc thái riêng, mẫu riêng. [[Refuse]], [[offer]], [[promise]] cộng [[to]]. [[Advise]], [[warn]], [[remind]] cộng người, rồi [[to]]. [[Deny]], [[admit]], [[suggest]] cộng [[ing]]. Và nhớ: không nói [[suggest someone to]].
+
+#practice
+fill: He refused ___ the question. | to answer* / answering / answer || Refuse + to V.
+fill: She admitted ___ the mistake. | making* / to make / make || Admit + V-ing.
+fill: My teacher advised me ___ harder. | to study* / studying / study || Advise + người + to V.
+fix: He suggested me to buy a new phone. | He suggested that I buy a new phone.* / He suggested me buying a new phone. / He suggested to me buy a new phone. || Suggest that + người + V.
+contrast: She offered ___ me with my homework. | to help* / helping || Offer + to V.
+choice: “He denied taking the money.” nghĩa là: | Anh ấy chối là không lấy tiền* / Anh ấy thừa nhận đã lấy tiền / Anh ấy từ chối nhận tiền || Deny = chối, phủ nhận.
+type: I apologize ___ being late. | for || Apologize for + V-ing.
+order: My / doctor / advised / me / to / drink / more / water. | Bác sĩ khuyên tôi uống nhiều nước hơn.
+listen: They accused him of lying. | They accused him of lying.* / They told him not to lie. / They accused her of lying. || Nghe accused him of lying.

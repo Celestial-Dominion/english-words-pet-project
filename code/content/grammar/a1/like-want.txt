@@ -1,0 +1,66 @@
+=== like-want
+sum: Like / love / hate + V-ing: thích / ghét làm gì nói chung (I like cooking). Want / need + to + động từ: muốn / cần làm gì (I want to sleep). Would like (I'd like) = muốn, lịch sự, cho một lần cụ thể: I'd like a coffee. Would you like…? = mời.
+form: like / love / hate + V-ing | I like swimming.
+form: want / need + to + động từ | I want to go home.
+form: would like + danh từ / to + động từ | I'd like a tea. I'd like to pay.
+form: Would you like…? | Mời: Would you like some water?
+cast: jay ana leo
+bg: cafe
+prop: mug x=900
+words: like, love, hate, want, need, tea
+gloss: hate
+
+#hook
+jay: Hi! What would you like? | Chào chị! Chị muốn dùng gì ạ? [happy]
+ana: I'd like a green tea, please. | Cho tôi một trà xanh. [happy]
+jay: And you? Would you like a coffee? | Còn anh? Anh có muốn uống cà phê không? [thinking @mug]
+leo: No, thanks. I don't like coffee. | Không, cảm ơn. Tôi không thích cà phê. [shake]
+> Hai câu nghe giống nhau nhưng nghĩa khác: [[I'd like a tea]] là “cho tôi một ly trà”, lúc này. Còn [[I like tea]] là “tôi thích trà”, nói chung.
+
+#meaning
+vs: I like tea. | Tôi thích trà. || nói chung, sở thích
+vs: I'd like a tea, please. | Cho tôi một ly trà. || lúc này, lịch sự
+> [[I'd like]] là dạng rút gọn của [[I would like]]. Nó giống [[I want]] nhưng lịch sự hơn nhiều, dùng khi gọi món, mua hàng, nhờ vả.
+
+#form
+f: [like / love / hate] + động từ + [ing]
+> Nói sở thích, sau [[like]], [[love]], [[hate]] thường là động từ đuôi [[ing]]: [[I love reading]], [[She hates waiting]].
+- My dad {loves|k} {cooking|v}. | Bố tôi mê nấu ăn.
+- I {hate|k} {getting up|v} early. | Tôi ghét dậy sớm.
+f: [want / need] + [to] + động từ
+> Còn [[want]] và [[need]] thì đi với [[to]] cộng động từ: [[I want to sleep]], [[You need to rest]].
+- I {want|k} {to go|v} home. | Tôi muốn về nhà.
+- She {needs|k} {to buy|v} a new phone. | Cô ấy cần mua điện thoại mới.
+
+#real
+- {Would you like|k} some water? | Bạn có muốn uống chút nước không?
+- {I'd like|k} {to pay|v}, please. | Cho tôi thanh toán.
+> [[Would you like]] là câu mời rất lịch sự. Trả lời: [[Yes, please]] hoặc [[No, thank you]].
+
+#mistakes
+x: I want go home. => I want to go home. | Tôi muốn về nhà. >> Sau [[want]] cần [[to]]: [[want to go]].
+x: I like a coffee, please. => I'd like a coffee, please. | Cho tôi một ly cà phê. >> Khi gọi món, [[I like]] nghe như đang nói về sở thích. Hãy dùng [[I'd like]].
+x: She likes swim. => She likes swimming. | Cô ấy thích bơi. >> Sau [[like]] dùng động từ đuôi [[ing]]: [[likes swimming]].
+
+#dialogue
+jay: Would you like something to eat? | Anh chị có muốn ăn gì không ạ? [happy]
+ana: Yes. I'd like a sandwich. | Có. Cho tôi một cái bánh mì kẹp. [happy]
+leo: I don't want to eat now. I need to go. | Tôi không muốn ăn bây giờ. Tôi phải đi rồi. [worried]
+ana: Really? But you love eating! | Thật à? Nhưng anh mê ăn lắm mà! [surprised]
+
+#recall
+? Gọi món bằng tiếng Anh: Cho tôi một ly nước cam. => I'd like an orange juice, please. | Cho tôi một ly nước cam.
+? Nói bằng tiếng Anh: Tôi thích nghe nhạc. => I like listening to music. | Tôi thích nghe nhạc.
+
+#recap
+> Sở thích: [[like]], [[love]], [[hate]] cộng động từ [[ing]]. Muốn, cần: [[want to]], [[need to]]. Gọi món, xin, mời một cách lịch sự: [[I'd like]], [[Would you like…?]]
+
+#practice
+fill: I love ___ books. | reading* / read / to reads || Love + V-ing.
+fill: We need ___ now. | to leave* / leave / leaving || Need + to + động từ.
+fill: ___ a cup of tea, please. | I'd like* / I like / I'd liking || Xin, gọi món → I'd like.
+fix: He wants eat pizza. | He wants to eat pizza.* / He want to eat pizza. / He wants eating pizza. || Want + to + động từ.
+choice: Mời bạn uống nước lịch sự: | Would you like some water?* / Do you like water? / You want water? || Mời → Would you like…?
+natural: I'd like to pay, please.* / I like to pay, please. || Muốn thanh toán lúc này → I'd like.
+order: She / hates / getting / up / early. | Cô ấy ghét dậy sớm.
+listen: I'd like to pay, please. | I'd like to pay, please.* / I like to play. / I'd like to play, please. || Nghe pay và âm d nhẹ của I'd.

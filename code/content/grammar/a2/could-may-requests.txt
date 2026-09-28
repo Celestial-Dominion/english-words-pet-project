@@ -1,0 +1,81 @@
+=== could-may-requests
+sum: Xin phép (tôi làm): Can I…? (thân mật) · Could I…? (lịch sự) · May I…? (trang trọng). Nhờ người khác (bạn làm): Can you…? · Could you…? — không dùng May you…? Sau can / could / may là động từ nguyên thể, không có to. Trả lời: Sure. · Of course. · Sorry, I can't. “Cho tôi…” khi gọi món: Could I have…?, đừng dịch thành Give me… Could còn là quá khứ của can: I could swim when I was five. I couldn't sleep last night.
+form: Can I…? · Could I…? · May I…? | xin phép: thân mật → trang trọng
+form: Can you…? · Could you…? | nhờ người khác
+form: Could I have…, please? | lịch sự khi gọi món, xin đồ
+form: could / couldn't + nguyên thể | quá khứ của can
+cast: ms-khan nam
+bg: airport
+prop: passport x=800
+prop: water-bottle x=1180
+words: could, may, borrow, passport, seat, window
+gloss: security
+
+#hook
+ms-khan: Good morning. May I see your passport, please? | Chào anh. Cho tôi xem hộ chiếu của anh được không? [neutral]
+nam: Of course. Here you are. | Tất nhiên rồi. Của chị đây. [happy @passport]
+ms-khan: Thank you. Could you put your bag here? | Cảm ơn anh. Anh đặt túi lên đây giúp tôi nhé? [explain]
+nam: Sure. Could I have a window seat? | Được. Cho tôi xin ghế cạnh cửa sổ được không? [happy]
+ms-khan: Let me check... Yes, you can. | Để tôi xem... Được anh ạ. [happy nod]
+> Ở sân bay, ai cũng nói lịch sự. [[May I]] để xin phép một cách trang trọng. [[Could you]] để nhờ người khác làm giúp. Còn [[Could I have]] để xin một thứ gì đó.
+
+#form
+th: Xin phép (tôi làm) | Nhờ (bạn làm) | Mức độ
+tb: Can I…? | Can you…? | thân mật
+tb: Could I…? | Could you…? | lịch sự
+tb: May I…? | — | trang trọng
+> Có [[I]] là mình xin được làm gì. Có [[you]] là nhờ người khác làm. [[Could]] lịch sự hơn [[can]], và dùng được gần như mọi lúc. Còn [[may]] thì trang trọng, và chỉ đi với [[I]] hoặc [[we]].
+
+#examples
+- {Can I|k} borrow your pen? | Cho mình mượn cây bút nhé?
+- {Could you|k} speak more slowly, please? | Bạn nói chậm hơn một chút được không?
+- {Could you|k} help me with this bag? | Anh giúp tôi xách cái túi này được không?
+- {May I|k} come in? | Em vào được không ạ?
+
+#real
+th: Đồng ý | Từ chối
+tb: Sure. · Of course. | Sorry, I can't.
+tb: No problem. · Go ahead. | Sorry, I'm busy right now.
+> Đồng ý thì nói [[Sure]], [[Of course]], hoặc [[Go ahead]] khi người kia xin phép. Từ chối thì luôn mở đầu bằng [[Sorry]] cho nhẹ nhàng: [[Sorry, I can't]].
+
+#natural
+rank: best | Could I have the menu, please? | Cho tôi xem thực đơn được không?
+rank: ok | Can I have the menu? | Cho tôi xem thực đơn nhé?
+rank: odd | Give me the menu.
+> Người Việt hay dịch thẳng “cho tôi” thành [[give me]]. Câu [[Give me the menu]] đúng ngữ pháp, nhưng nghe như ra lệnh, rất cộc lốc. Hãy thay bằng [[Could I have…?]]
+
+#contrast
+vs: Could you help me? | Bạn giúp tôi được không? || lời nhờ lịch sự, bây giờ
+vs: I could swim when I was five. | Năm tuổi tôi đã biết bơi. || quá khứ của can
+> [[Could]] còn một nghĩa nữa: quá khứ của [[can]]. [[I could swim when I was five]]: hồi năm tuổi tôi đã biết bơi. Phủ định là [[couldn't]].
+- I {couldn't|n} sleep last night. | Tối qua tôi không ngủ được.
+
+#mistakes
+x: May you help me? => Could you help me? | Bạn giúp tôi được không? >> [[May]] không dùng để nhờ người khác. Nhờ ai thì dùng [[Could you]] hoặc [[Can you]].
+x: Could you to open the door? => Could you open the door? | Bạn mở cửa giúp tôi được không? >> Sau [[could]] là động từ nguyên thể, không có [[to]].
+x: I can't swim when I was young. => I couldn't swim when I was young. | Hồi nhỏ tôi không biết bơi. >> Chuyện quá khứ thì dùng [[couldn't]].
+
+#dialogue
+nam: Could you help me? I can't find Gate 5. | Chị giúp tôi được không? Tôi không tìm thấy cửa số 5. [thinking]
+ms-khan: Sure. It's over there, on the left. | Được chứ. Ở đằng kia, bên trái. [point]
+nam: Thanks. And can I take this water on the plane? | Cảm ơn chị. À, tôi mang chai nước này lên máy bay được không? [thinking @water-bottle]
+ms-khan: Sorry, you can't. But you can buy some after security. | Xin lỗi, không được anh ạ. Nhưng qua cửa an ninh anh có thể mua. [shake]
+nam: I see. Thank you! | Tôi hiểu rồi. Cảm ơn chị! [nod]
+
+#recall
+? Nhờ lịch sự bằng tiếng Anh: Bạn mở cửa sổ giúp tôi được không? => Could you open the window, please? | Bạn mở cửa sổ giúp tôi được không?
+? Xin lịch sự bằng tiếng Anh: Cho tôi một cốc nước được không? => Could I have a glass of water, please? | Cho tôi một cốc nước được không?
+
+#recap
+> Xin phép: [[Can I]], [[Could I]], [[May I]]. Nhờ người khác: [[Can you]], [[Could you]]. Muốn lịch sự thì cứ dùng [[could]]. Và đừng quên: [[could]] cũng là quá khứ của [[can]].
+
+#practice
+fill: ___ you help me with my homework? | Could* / May / Must || Nhờ người khác → Could you.
+fill: ___ I use your phone? | May* / Will / Do || Xin phép → May I.
+fix: May you open the door? | Could you open the door?* / May you to open the door? / Could you to open the door? || Nhờ người khác không dùng may.
+contrast: When I was six, I ___ ride a bike. | could* / can || Quá khứ → could.
+type: I ___ sleep last night. It was too hot. (phủ định) | couldn't / could not || Quá khứ phủ định của can.
+choice: Trong nhà hàng, câu nào lịch sự nhất? | Could I have the menu, please?* / Give me the menu. / I want the menu. || Could I have…? là cách xin lịch sự.
+order: Could / you / speak / more / slowly, / please? | Bạn nói chậm hơn một chút được không?
+listen: May I come in? | May I come in?* / Can I come in? / Can you come in? || Nghe may I.
+natural: Could you help me, please?* / May you help me, please? || Nhờ người khác → could you.

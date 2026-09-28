@@ -1,0 +1,78 @@
+=== plurals
+sum: Danh từ đếm được có từ hai trở lên thì thêm -s (cats), -es sau s / x / ch / sh (boxes), đổi y → ies sau phụ âm (cities); vài từ đổi hẳn dạng (man → men, child → children, person → people). Đuôi -s đọc /s/, /z/ hoặc /ɪz/ — đừng bỏ âm cuối.
+form: danh từ + s | cats, books, apples
+form: s / x / ch / sh + es | buses, boxes, watches, dishes
+form: phụ âm + y → ies | city → cities, baby → babies
+form: dạng riêng | men, women, children, people, feet, teeth
+cast: mom jay
+bg: market
+words: tomato, box, child, person, city, baby
+
+#hook
+mom: Two kilos of tomatoes, please. | Cho tôi hai cân cà chua. [happy]
+jay: Sure. Anything else? | Vâng. Chị cần gì nữa không? [neutral]
+mom: Six eggs and two bottles of milk. | Sáu quả trứng và hai chai sữa. [thinking]
+> Tiếng Việt nói “hai cân cà chua”, “sáu quả trứng”, danh từ không đổi. Tiếng Anh thì danh từ phải đổi: [[tomatoes]], [[eggs]], [[bottles]].
+
+#form
+f: [one] + danh từ || một
+f2: [two, three…] + danh từ + [s / es] || hai trở lên
+> Từ hai trở lên, danh từ đếm được phải có đuôi số nhiều. Đa số chỉ cần thêm [[s]]: [[one book]], [[two books]].
+th: Quy tắc | Số ít | Số nhiều
+tb: thêm s | cat | cats
+tb: s, x, ch, sh thêm es | box | boxes
+tb: phụ âm + y | city | cities
+tb: nguyên âm + y | day | days
+> Sau các đuôi [[s]], [[x]], [[ch]], [[sh]], ta thêm [[es]] cho dễ đọc: [[boxes]]. Phụ âm cộng y thì đổi thành [[ies]]: [[cities]]. Còn [[day]] có nguyên âm trước y nên chỉ thêm [[s]]: [[days]].
+
+tb: man | men
+tb: woman | women
+tb: child | children
+tb: person | people
+tb: foot | feet
+tb: tooth | teeth
+> Có vài danh từ đổi hẳn dạng, phải học thuộc: [[man]] thành [[men]], [[child]] thành [[children]], [[person]] thành [[people]].
++ The children are at school. | Bọn trẻ đang ở trường.
++ Brush your teeth, please. | Con đánh răng đi nhé.
+
+
+#pronunciation
+pron: cats | /s/ | kæts
+pron: dogs | /z/ | dɔɡz
+pron: buses | /ɪz/ | ˈbʌsɪz
+> Đuôi này có ba cách đọc. Sau âm vô thanh như t, p, k là âm [[s]] nhẹ: [[cats]]. Sau các âm khác là âm [[z]]: [[dogs]]. Còn sau các âm như trong [[bus]], [[box]], [[watch]], đuôi này thành thêm một âm tiết: [[buses]].
+> Người Việt hay nuốt mất âm cuối. Nếu không đọc âm này, người nghe tưởng bạn nói số ít.
+
+#examples
+- I have two {brothers|k}. | Tôi có hai anh trai.
+- The {buses|k} are late today. | Hôm nay xe buýt đến muộn.
+- There are three {babies|k} in the room. | Trong phòng có ba em bé.
+- Many {people|k} live in big {cities|k}. | Nhiều người sống ở các thành phố lớn.
+
+#mistakes
+x: I have two sister. => I have two sisters. | Tôi có hai chị gái. >> Có số từ hai trở lên thì danh từ phải thêm [[s]]: [[two sisters]].
+x: There are five childs. => There are five children. | Có năm đứa trẻ. >> [[Child]] là danh từ đặc biệt: số nhiều là [[children]].
+x: Three peoples are here. => Three people are here. | Có ba người ở đây. >> [[People]] đã là số nhiều của [[person]], không thêm [[s]].
+
+#dialogue
+jay: That's six eggs and two bottles of milk. | Vậy là sáu quả trứng và hai chai sữa. [explain]
+mom: And two bananas for my children. | Thêm hai quả chuối cho các con tôi. [happy]
+jay: Here you are. That's eight dollars. | Của chị đây. Tổng cộng tám đô. [happy ~money:8]
+mom: Thanks. Have a nice day! | Cảm ơn. Chúc anh một ngày tốt lành! [wave]
+
+#recall
+? Nói bằng tiếng Anh: Tôi cần hai cái hộp. => I need two boxes. | Tôi cần hai cái hộp.
+? Nói bằng tiếng Anh: Tôi có ba đứa con. => I have three children. | Tôi có ba đứa con.
+
+#recap
+> Vậy là: từ hai trở lên thì thêm [[s]] hoặc [[es]], phụ âm cộng y thì đổi thành [[ies]]. Nhớ vài từ đặc biệt như [[men]], [[children]], [[people]], và luôn đọc rõ âm cuối.
+
+#practice
+fill: I have two ___. | cats* / cat / cates || Từ hai trở lên → thêm s.
+fill: We need three ___. | boxes* / boxs / box || Sau x thêm es.
+type: one city → two ___ | cities || Phụ âm + y → ies.
+fix: Look at those mans. | Look at those men.* / Look at those man. / Look at those mens. || Số nhiều của man là men.
+choice: Số nhiều của “person” là gì? | people* / persons / peoples || Hằng ngày nói people.
+order: The / children / are / at / school. | Bọn trẻ đang ở trường.
+listen: The buses are late today. | The buses are late today.* / The bus is late today. / The buses were late today. || Nghe âm tiết cuối /ɪz/ trong buses.
+natural: Many people live in big cities.* / Many peoples live in big city. || People đã là số nhiều; big cities cần số nhiều.

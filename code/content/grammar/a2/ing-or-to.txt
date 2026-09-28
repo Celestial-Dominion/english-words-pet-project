@@ -1,0 +1,69 @@
+=== ing-or-to
+sum: Hai động từ đứng liền nhau thì động từ sau đổi dạng, tùy động từ trước. + V-ing: enjoy, finish, mind, practice, keep, go (go swimming). + to V: want, need, decide, plan, hope, learn, would like. Like, love, hate, start đi được cả hai, nghĩa gần như nhau. Would like (= muốn) luôn + to V: I'd like to go. Không có quy tắc về nghĩa — học theo từng động từ.
+form: enjoy · finish · mind · keep + V-ing | I enjoy playing basketball.
+form: want · need · decide · hope · learn + to V | I want to practice more.
+form: like · love · hate · start + cả hai | I like swimming. · I like to swim.
+form: would like + to V | I'd like to go.
+cast: leo nam
+bg: park
+prop: basketball x=820
+words: enjoy, finish, mind, practice, decide, hope, learn, keep
+
+#hook
+leo: Nam, do you enjoy playing basketball? | Nam, cậu có thích chơi bóng rổ không? [happy @basketball]
+nam: Yes, but I'm not very good. I want to practice more. | Có, nhưng tớ chơi chưa giỏi. Tớ muốn tập nhiều hơn. [shy]
+leo: Let's practice together! I finish working at five. | Tập cùng nhau đi! Năm giờ tớ tan làm. [happy]
+nam: Great! I'd love to. | Tuyệt! Tớ rất muốn. [happy cheer]
+> Sau [[enjoy]] và [[finish]], động từ thêm [[ing]]: [[enjoy playing]], [[finish working]]. Sau [[want]] lại là [[to]]: [[want to practice]]. Tiếng Việt thì cứ đặt hai động từ cạnh nhau, chẳng cần đổi gì.
+
+#form
+th: + V-ing | + to V
+tb: enjoy · finish · mind | want · need · would like
+tb: practice · keep | decide · plan · hope
+tb: go (swimming, shopping) | learn · promise
+> Không có quy tắc về nghĩa, nên hãy học theo từng động từ. Nhóm [[ing]] hay gặp: [[enjoy]], [[finish]], [[mind]], [[practice]], [[keep]]. Nhóm [[to]]: [[want]], [[need]], [[decide]], [[plan]], [[hope]], [[learn]], và [[would like]].
+
+#examples
+- She {enjoys|k} {cooking|v} for her friends. | Cô ấy thích nấu ăn cho bạn bè.
+- We {decided|k} {to take|v} a taxi. | Chúng tôi quyết định đi taxi.
+- I {need|k} {to buy|v} a new phone. | Tôi cần mua điện thoại mới.
+- I {don't mind|k} {waiting|v}. | Tôi đợi cũng được.
+- Let's {go|k} {shopping|v} this weekend. | Cuối tuần này đi mua sắm đi.
+
+#contrast
+vs: I like swimming. | Tôi thích bơi. || like + V-ing
+vs: I like to swim. | Tôi thích bơi. || like + to V: nghĩa gần như nhau
+> Một số động từ đi được với cả hai, nghĩa gần như không đổi: [[like]], [[love]], [[hate]], [[start]]. Người Mỹ dùng cả hai cách rất tự nhiên.
+vs: I like dancing. | Tôi thích nhảy. || thích, nói chung
+vs: I'd like to dance. | Tôi muốn nhảy. || would like = muốn, bây giờ
+> Nhưng [[would like]] khác hẳn [[like]]. [[I like dancing]]: tôi thích nhảy, nói chung. [[I'd like to dance]]: tôi muốn nhảy, ngay bây giờ. Và [[would like]] luôn đi với [[to]].
+
+#mistakes
+x: I enjoy to read books. => I enjoy reading books. | Tôi thích đọc sách. >> Sau [[enjoy]] là động từ thêm [[ing]].
+x: I want going home. => I want to go home. | Tôi muốn về nhà. >> Sau [[want]] là [[to]] cộng động từ.
+x: She decided buying a car. => She decided to buy a car. | Cô ấy quyết định mua xe. >> Sau [[decide]] là [[to]].
+x: I'd like going with you. => I'd like to go with you. | Tôi muốn đi cùng bạn. >> [[Would like]] luôn đi với [[to]].
+
+#dialogue
+nam: When did you start playing? | Cậu bắt đầu chơi từ bao giờ? [thinking]
+leo: When I was ten. And I never stopped! | Từ hồi mười tuổi. Và tớ chưa bao giờ bỏ! [happy]
+nam: I hope to be as good as you one day. | Tớ mong một ngày nào đó chơi giỏi được như cậu. [happy]
+leo: Just keep practicing! | Cứ chăm tập là được! [happy point]
+
+#recall
+? Nói bằng tiếng Anh, dùng [[enjoy]]: Tôi thích nghe nhạc. => I enjoy listening to music. | Tôi thích nghe nhạc.
+? Nói bằng tiếng Anh: Tôi muốn học lái xe. => I want to learn to drive. | Tôi muốn học lái xe.
+
+#recap
+> Học theo nhóm cho nhanh. [[Enjoy]], [[finish]], [[mind]], [[keep]] đi với [[ing]]. [[Want]], [[need]], [[decide]], [[hope]], [[would like]] đi với [[to]]. Còn [[like]], [[love]], [[start]] thì đi được cả hai.
+
+#practice
+contrast: I enjoy ___ in the sea. | swimming* / to swim || Enjoy + V-ing.
+contrast: We need ___ now. | to leave* / leaving || Need + to V.
+fill: Have you finished ___ your homework? | doing* / to do / do || Finish + V-ing.
+fill: I'd like ___ a table for two, please. | to book* / booking / book || Would like + to V.
+fix: She wants learning Japanese. | She wants to learn Japanese.* / She wants learn Japanese. / She want to learning Japanese. || Want + to V.
+type: Let's go ___ (swim) this afternoon. | swimming || Go + V-ing.
+choice: “I like cooking.” và “I like to cook.”: | Cả hai đều đúng* / Chỉ câu đầu đúng / Chỉ câu sau đúng || Like đi được với cả hai.
+order: We / decided / to / take / a / taxi. | Chúng tôi quyết định đi taxi.
+listen: I don't mind waiting. | I don't mind waiting.* / I don't want to wait. / I didn't mind waiting. || Nghe don't mind waiting.

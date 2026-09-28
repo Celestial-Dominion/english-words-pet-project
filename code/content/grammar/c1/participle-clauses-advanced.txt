@@ -1,0 +1,79 @@
+=== participle-clauses-advanced
+sum: Mệnh đề phân từ nâng cao, giọng văn viết và văn kể chuyện. Having been + V3 = bị động và xảy ra trước (Having been warned, she went anyway). Mệnh đề độc lập có chủ ngữ RIÊNG: Her hands shaking, she opened the letter · The weather being fine, we went out · With prices rising, families spend less. Liên từ + phân từ: When leaving…, Although tired…, If asked…, Once finished… Lỗi phân từ “treo”: chủ ngữ ngầm không khớp chủ ngữ câu chính (Walking into the room, the lights went on ✗). Vài cụm cố định được chấp nhận dù không khớp: Generally speaking, Judging by…, Weather permitting, All things considered.
+form: Having been + V3…, câu chính (bị động, xảy ra trước) | Having been warned, she went anyway.
+form: chủ ngữ riêng + V-ing / V3…, câu chính | Her hands shaking, she opened the letter.
+form: With + danh từ + V-ing · liên từ + phân từ | With prices rising, families spend less.
+form: cụm cố định: Generally speaking · Judging by · Weather permitting | Generally speaking, people are friendly.
+cast: ana mr-ross
+bg: riverside
+words: reject, storm, mystery, novel, consider, shake
+
+#hook
+ana: This is the start of my story. | Đây là đoạn mở đầu truyện của tôi. [happy]
+ana: Her hands shaking, she opened the letter. | Tay run run, cô mở lá thư. [explain]
+mr-ross: Very nice. And the next line? | Hay lắm. Còn câu tiếp theo? [happy]
+ana: Having been warned about the danger, she decided to go anyway. | Dù đã được cảnh báo về nguy hiểm, cô vẫn quyết định đi. [explain]
+> Hai mẫu phân từ nâng cao. [[Her hands shaking]]: mệnh đề có chủ ngữ riêng, [[her hands]], khác với chủ ngữ câu chính. [[Having been warned]]: vừa bị động, vừa xảy ra trước, gói gọn trong một cụm.
+
+#form
+f: [Having been] + V3 + …, + câu chính
+> Bị động và xong trước: [[Having been told the news, she called her mother]], tức là sau khi được báo tin, cô gọi cho mẹ.
+f2: chủ ngữ riêng + V-ing / V3 + …, + câu chính
+> Mệnh đề độc lập có chủ ngữ của riêng nó: [[The weather being fine, we went out]]. Hay đi với [[with]]: [[With prices rising]], giá cả đang tăng.
+th: Mẫu | Ví dụ
+tb: Having been + V3 | Having been rejected twice, he tried again.
+tb: chủ ngữ riêng + V-ing | The weather being fine, we went out.
+tb: With + danh từ + V-ing | With prices rising, people spend less.
+tb: liên từ + phân từ | When leaving, please close the door.
+> Liên từ như [[when]], [[while]], [[although]], [[if]], [[once]] có thể đi thẳng với phân từ, bỏ chủ ngữ và [[be]]: [[Although tired, she kept working]].
+
+#examples
+- {All things considered|k}, the trip was a success. | Xét mọi mặt, chuyến đi đã thành công.
+- {With prices rising|k}, many families are spending less. | Giá cả tăng, nhiều gia đình đang chi tiêu ít đi.
+- {Once finished|k}, the bridge will be the longest in Asia. | Khi hoàn thành, cây cầu sẽ dài nhất châu Á.
+- {If asked|k}, just say you don't know. | Nếu bị hỏi, cứ nói là bạn không biết.
+
+#contrast
+vs: Having told the truth, she felt better. | Nói ra sự thật rồi, cô thấy nhẹ lòng. || chủ động: cô ấy nói
+vs: Having been told the truth, she felt better. | Được biết sự thật rồi, cô thấy nhẹ lòng. || bị động: người khác nói với cô
+> Thêm [[been]] là đảo vai: cô ấy không còn là người nói, mà là người được nghe.
+
+#real
+- {Generally speaking|k}, people here are very friendly. | Nói chung, người ở đây rất thân thiện.
+- {Judging by|k} his face, the news wasn't good. | Nhìn mặt anh ấy thì tin chẳng tốt lành gì.
+- {Weather permitting|k}, we'll have lunch outside. | Nếu thời tiết cho phép, chúng ta sẽ ăn trưa ngoài trời.
+> Vài cụm cố định được dùng thoải mái dù chủ ngữ không khớp: [[Generally speaking]], [[Judging by]], [[Weather permitting]]. Học nguyên cụm.
+
+#natural
+rank: best | The weather was fine, so we went out. | Trời đẹp nên chúng tôi ra ngoài.
+rank: ok | The weather being fine, we went out. | Trời đẹp, chúng tôi ra ngoài chơi.
+> Mệnh đề độc lập như [[The weather being fine]] khá trang trọng, hợp với văn viết và văn kể chuyện. Khi nói, câu có [[so]] hay [[because]] tự nhiên hơn.
+
+#mistakes
+x: Walking into the room, the lights went on. => When I walked into the room, the lights went on. | Khi tôi bước vào phòng, đèn bật sáng. >> Phân từ “treo”: câu gốc nghe như đèn tự đi vào phòng. Thêm chủ ngữ và liên từ cho rõ.
+x: Built in 1900, my grandfather lived in that house. => Built in 1900, that house was my grandfather's home. | Được xây năm 1900, ngôi nhà ấy là nơi ông tôi sống. >> Chủ ngữ câu chính phải là thứ được xây: [[that house]].
+x: Having told the news, she started crying. => Having been told the news, she started crying. | Nghe báo tin xong, cô ấy bật khóc. >> Cô ấy là người được báo tin, nên dùng bị động: [[Having been told]].
+
+#dialogue
+mr-ross: Excellent. And what happens next? | Tuyệt vời. Rồi chuyện gì xảy ra tiếp? [thinking]
+ana: With the storm getting worse, she reaches the old bridge. | Bão mỗi lúc một dữ, cô đến được cây cầu cũ. [explain]
+mr-ross: I love it. Generally speaking, readers enjoy a good mystery. | Tôi thích lắm. Nói chung, độc giả rất mê truyện bí ẩn. [happy]
+ana: Thanks! Once finished, it'll be my first novel. | Cảm ơn thầy! Viết xong, đây sẽ là cuốn tiểu thuyết đầu tay của tôi. [happy]
+
+#recall
+? Viết bằng tiếng Anh, dùng [[Having been]]: Sau khi được mời hai lần, cuối cùng anh ấy cũng đến. => Having been invited twice, he finally came. | Sau khi được mời hai lần, cuối cùng anh ấy cũng đến.
+? Viết bằng tiếng Anh, dùng [[With]]: Giá xăng tăng, nhiều người chuyển sang đi xe buýt. => With petrol prices rising, many people are taking the bus. | Giá xăng tăng, nhiều người chuyển sang đi xe buýt.
+
+#recap
+> [[Having been]] cộng [[V3]]: bị động và xảy ra trước. Mệnh đề độc lập có chủ ngữ riêng: [[Her hands shaking]], [[With prices rising]]. Liên từ đi thẳng với phân từ: [[If asked]], [[Once finished]]. Và luôn kiểm tra chủ ngữ ngầm, để tránh phân từ “treo”.
+
+#practice
+fill: ___ told the news, he called his family. | Having been* / Having / Been having || Bị động, xảy ra trước → Having been + V3.
+fill: With the price ___, we can't afford it now. | rising* / rose / rises || With + danh từ + V-ing.
+fill: ___ tired, she kept working. | Although* / Despite / Because of || Liên từ + phân từ rút gọn: Although tired.
+fix: Driving to work, a deer ran across the road. | While I was driving to work, a deer ran across the road.* / Driving to work, a deer was running across the road. / A deer driving to work ran across the road. || Chủ ngữ ngầm phải khớp: thêm chủ ngữ I.
+transform: Viết lại với mệnh đề độc lập: | Because the weather was fine, we had lunch outside. >> The weather being fine, we had lunch outside.* / The weather was being fine, we had lunch outside. / Being the weather fine, we had lunch outside. || Chủ ngữ riêng + being…
+choice: Câu nào có phân từ “treo”? | Opening the door, the cold air hit me.* / Opening the door, I felt the cold air. / When I opened the door, the cold air hit me. || Luồng khí lạnh không tự mở cửa.
+type: ___ permitting, we'll go hiking tomorrow. (thời tiết) | Weather || Weather permitting = nếu thời tiết cho phép.
+order: All / things / considered, / the / trip / was / a / success. | Xét mọi mặt, chuyến đi đã thành công.
+listen: Her hands shaking, she opened the letter. | Her hands shaking, she opened the letter.* / Her hands shaking, she opened the door. / Her voice shaking, she read the letter. || Nghe hands shaking … letter.

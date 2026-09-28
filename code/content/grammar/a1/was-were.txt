@@ -1,0 +1,70 @@
+=== was-were
+sum: Quá khứ của be: I / he / she / it was, you / we / they were. Phủ định: wasn't, weren't. Hỏi: Were you…? Was it…? Có trong quá khứ: there was / there were. Hay đi với yesterday, last week, two days ago. Sinh ra: I was born in…
+form: I / he / she / it + was | I was at home.
+form: you / we / they + were | They were late.
+form: wasn't / weren't · Was / Were…? | phủ định / câu hỏi
+form: There was / There were · I was born in… | có (quá khứ) · sinh năm / ở
+cast: ms-khan sam
+bg: campus-gate
+words: yesterday, last, ago, sick
+gloss: last
+
+#hook
+ms-khan: Sam, where were you yesterday? | Sam, hôm qua em đi đâu? [thinking]
+sam: I was at home. I was sick. | Em ở nhà ạ. Em bị ốm. [sick]
+ms-khan: Oh no. Are you OK now? | Ôi. Giờ em ổn chưa? [worried]
+sam: Yes, I'm fine now. | Dạ, giờ em ổn rồi ạ. [happy]
+> Nói về hôm qua thì [[be]] đổi dạng: [[am]] thành [[was]], [[are]] thành [[were]]. Còn nói về bây giờ, lại dùng [[I'm fine now]].
+
+#meaning
+tl: -1 I was sick | hôm qua
+tl: now I'm fine | bây giờ
+> Trên trục thời gian: hôm qua [[I was sick]], bây giờ [[I'm fine]]. Tiếng Việt chỉ cần thêm “hôm qua”, còn tiếng Anh đổi cả động từ.
+
+#form
+th: Hiện tại | Quá khứ
+tb: I am | I was
+tb: he / she / it is | he / she / it was
+tb: you / we / they are | you / we / they were
+> [[Am]] và [[is]] đều thành [[was]]. [[Are]] thành [[were]].
+- {She|s} {was|k} at work {last night|t}. | Tối qua cô ấy ở chỗ làm.
+- {We|s} {were|k} in Da Nang {two days ago|t}. | Hai hôm trước chúng tôi ở Đà Nẵng.
+- {The shops|s} {weren't|n} open {yesterday|t}. | Hôm qua các cửa hàng không mở cửa.
+> Các cụm chỉ quá khứ hay gặp: [[yesterday]], [[last night]], [[last week]], [[two days ago]].
+
+#examples
+mv: It was cold . => Was it cold ?
+> Câu hỏi thì đưa [[was]] hoặc [[were]] lên đầu, giống hệt với [[am]], [[is]], [[are]].
+- {Were|a} you at the party? — No, I wasn't. | Bạn có ở bữa tiệc không? — Không.
+- {There was|k} a big party last night. | Tối qua có một bữa tiệc lớn.
+- {There were|k} a lot of people at the station. | Ở nhà ga có rất đông người.
+- I {was born|k} in Hanoi in 2008. | Tôi sinh ra ở Hà Nội năm 2008.
+> Nói nơi sinh, năm sinh thì dùng [[was born]]: [[I was born in Hanoi]]. Tiếng Anh không nói [[I born]].
+
+#mistakes
+x: I was born on 2008. => I was born in 2008. | Tôi sinh năm 2008. >> Năm thì dùng [[in]]: [[in 2008]].
+x: They was very happy. => They were very happy. | Họ đã rất vui. >> [[They]] đi với [[were]].
+x: I born in Hue. => I was born in Hue. | Tôi sinh ra ở Huế. >> Luôn có [[was]]: [[I was born]].
+
+#dialogue
+ms-khan: Were you in bed all day? | Em nằm trên giường cả ngày à? [thinking]
+sam: Yes. There was no one at home. | Vâng. Ở nhà không có ai cả. [sad]
+ms-khan: Where were your parents? | Bố mẹ em đâu? [worried]
+sam: They were at work. But my grandma was there in the evening. | Bố mẹ em đi làm ạ. Nhưng buổi tối có bà ở nhà. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Hôm qua tôi ở nhà. => I was at home yesterday. | Hôm qua tôi ở nhà.
+? Hỏi bằng tiếng Anh: Bộ phim có hay không? => Was the movie good? | Bộ phim có hay không?
+
+#recap
+> Quá khứ của [[be]] chỉ có hai dạng: [[was]] và [[were]]. Phủ định [[wasn't]], [[weren't]]. Có trong quá khứ là [[there was]], [[there were]]. Và nhớ [[I was born]].
+
+#practice
+fill: I ___ tired last night. | was* / were / am || I → was (quá khứ).
+fill: My parents ___ in Hue last week. | were* / was / are || Parents = they → were.
+fill: ___ it hot yesterday? | Was* / Were / Did || It → Was.
+fill: There ___ two cats in the garden. | were* / was / are || Two cats (quá khứ, số nhiều) → were.
+fix: She born in 2010. | She was born in 2010.* / She was born on 2010. / She is born in 2010. || Was born + in + năm.
+choice: Câu nào nói về quá khứ? | We were at the beach last Sunday.* / We are at the beach now. / We are at the beach on Sundays. || Last Sunday → quá khứ → were.
+order: Where / were / you / yesterday? | Hôm qua bạn ở đâu?
+listen: The shops weren't open yesterday. | The shops weren't open yesterday.* / The shops were open yesterday. / The shop wasn't open yesterday. || Nghe weren't — có âm n t ở cuối.

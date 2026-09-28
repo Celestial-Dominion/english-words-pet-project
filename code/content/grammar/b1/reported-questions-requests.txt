@@ -1,0 +1,66 @@
+=== reported-questions-requests
+sum: Kể lại câu hỏi: asked (+ người) + if / whether + mệnh đề với câu hỏi có / không (She asked if I was busy); asked + từ hỏi + mệnh đề với câu có từ hỏi (They asked why I wanted the job). Phần sau xếp như câu kể: KHÔNG đảo, không do / did, không dấu hỏi; vẫn lùi thì. Kể lại lời nhờ, lời khuyên, mệnh lệnh: asked / told + người + to V; phủ định: not to V (He told me not to worry).
+form: asked + (người) + if / whether + mệnh đề | She asked if I was busy.
+form: asked + từ hỏi + chủ ngữ + động từ | They asked where I lived.
+form: asked / told + người + to V | They told me to wait.
+form: told + người + not to V | He told me not to worry.
+cast: linh ben
+bg: cafe
+words: ask, interview, whether, wait, worry, rest
+gloss: interview
+
+#hook
+linh: So, how was the interview? | Thế buổi phỏng vấn thế nào? [happy]
+ben: Not bad. They asked me why I wanted the job. | Cũng ổn. Họ hỏi tôi vì sao tôi muốn làm công việc này. [explain]
+linh: And what else did they ask? | Họ còn hỏi gì nữa? [thinking]
+ben: They asked if I could start next month. Then they told me to wait for their email. | Họ hỏi tôi có thể bắt đầu từ tháng sau không. Rồi họ bảo tôi chờ email. [happy]
+> Câu hỏi thật là [[Why do you want the job?]]. Kể lại thì thành [[They asked me why I wanted the job]]: không đảo, không có [[do]], và lùi thì. Còn lời yêu cầu thì kể lại bằng [[told me to wait]].
+
+#form
+th: Câu hỏi trực tiếp | Kể lại
+tb: “Are you busy?” | She asked if I was busy.
+tb: “Can you swim?” | He asked whether I could swim.
+tb: “Where do you live?” | They asked where I lived.
+tb: “What did you buy?” | She asked what I had bought.
+> Câu hỏi có hay không thì thêm [[if]] hoặc [[whether]]. Câu hỏi có từ hỏi thì giữ nguyên từ hỏi. Phần còn lại xếp như câu kể: chủ ngữ đứng trước động từ, bỏ [[do]], [[did]], và bỏ luôn dấu hỏi.
+
+#examples
+- My friend {asked|k} me {if|c} I {was|k} OK. | Bạn tôi hỏi tôi có ổn không.
+- She {asked|k} {what time|q} the shop {opened|k}. | Cô ấy hỏi mấy giờ cửa hàng mở cửa.
+- He {asked|k} me {whether|c} I {liked|k} spicy food. | Anh ấy hỏi tôi có thích đồ cay không.
+
+#contrast
+vs: Please wait here. | Vui lòng chờ ở đây. || lời nhờ trực tiếp
+vs: She asked me to wait there. | Cô ấy nhờ tôi chờ ở đó. || asked + người + to V
+> Lời nhờ, lời khuyên, mệnh lệnh thì kể lại bằng [[asked]] hoặc [[told]], cộng người, cộng [[to]] và động từ. Phủ định thì đặt [[not]] trước [[to]]: [[He told me not to worry]].
+- He {told|k} me {not to|n} worry. | Anh ấy bảo tôi đừng lo.
+- The doctor {told|k} her {to|k} rest for a week. | Bác sĩ dặn cô ấy nghỉ ngơi một tuần.
+
+#mistakes
+x: She asked me where did I live. => She asked me where I lived. | Cô ấy hỏi tôi sống ở đâu. >> Câu hỏi kể lại không đảo, không có [[did]].
+x: He asked me was I tired. => He asked me if I was tired. | Anh ấy hỏi tôi có mệt không. >> Câu hỏi có hay không thì thêm [[if]] hoặc [[whether]].
+x: She told me don't be late. => She told me not to be late. | Cô ấy dặn tôi đừng đến muộn. >> Kể lại mệnh lệnh phủ định: [[not to]] cộng động từ.
+
+#dialogue
+linh: Did they ask you about your English? | Họ có hỏi về tiếng Anh của anh không? [thinking]
+ben: Yes. They asked how long I had studied it. | Có. Họ hỏi tôi học tiếng Anh bao lâu rồi. [explain]
+linh: What did you say? | Anh trả lời sao? [thinking]
+ben: I told them I'd studied it for ten years, and I was still learning! | Tôi bảo họ là tôi học mười năm rồi, và vẫn đang học tiếp! [happy]
+
+#recall
+? Kể lại bằng tiếng Anh. Cô giáo hỏi: “Em có hiểu không?” => The teacher asked if I understood. | Cô giáo hỏi tôi có hiểu không.
+? Kể lại bằng tiếng Anh. Mẹ dặn: “Đừng về muộn.” => My mom told me not to come home late. | Mẹ dặn tôi đừng về muộn.
+
+#recap
+> Kể lại câu hỏi: [[asked]], cộng [[if]], [[whether]] hoặc từ hỏi, rồi xếp như câu kể: không đảo, không [[do]], không dấu hỏi. Kể lại lời nhờ, mệnh lệnh: [[asked]] hoặc [[told]] cộng người, rồi [[to]] hay [[not to]].
+
+#practice
+fill: She asked me where I ___. | lived* / did live / do I live || Kể lại → không đảo, lùi thì.
+fill: He asked ___ I was free on Friday. | if* / that / what || Câu hỏi có / không → if.
+fill: The doctor told me ___ smoke. | not to* / don't / to not || Mệnh lệnh phủ định → not to.
+fix: They asked me what was my name. | They asked me what my name was.* / They asked me what is my name. / They asked me what my name is it. || Không đảo: my name was.
+transform: Kể lại câu hỏi: | “Can you help me?” she asked. >> She asked if I could help her.* / She asked can I help her. / She asked if could I help her. || If + chủ ngữ + could.
+type: My boss asked me ___ finish the report by Friday. | to || Asked + người + to V.
+choice: “He told me not to worry.” nghĩa là: | Anh ấy bảo tôi đừng lo* / Anh ấy bảo anh ấy không lo / Anh ấy hỏi tôi có lo không || Told + người + not to V.
+order: They / asked / where / I / lived. | Họ hỏi tôi sống ở đâu.
+listen: The doctor told her to rest for a week. | The doctor told her to rest for a week.* / The doctor told her not to rest for a week. / The doctor asked her to rest for a day. || Nghe told her to rest.

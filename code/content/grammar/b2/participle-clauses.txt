@@ -1,0 +1,72 @@
+=== participle-clauses
+sum: Mệnh đề phân từ làm câu gọn hơn, hay dùng khi VIẾT: bỏ chủ ngữ và liên từ, người đọc tự hiểu quan hệ thời gian, lý do. V-ing = chủ động, cùng lúc hoặc lý do: Walking into the room, she saw a letter (= When she walked…). Feeling tired, I went to bed early. V3 = bị động: Written in 1920, this book is still popular. Having + V3 = xong trước: Having read it twice, I can say it's great. Not + V-ing = phủ định. Chủ ngữ ngầm PHẢI trùng chủ ngữ câu chính (Walking home, the rain started ✗). Khi nói chuyện, câu đầy đủ với so / because tự nhiên hơn.
+form: V-ing…, câu chính (chủ động: cùng lúc, lý do) | Feeling tired, she went to bed.
+form: V3…, câu chính (bị động) | Written in 1920, the book is still popular.
+form: Having + V3…, câu chính (xong trước) | Having finished dinner, we went out.
+form: chủ ngữ ngầm = chủ ngữ câu chính | Walking home, I saw… (không nói Walking home, the rain started)
+cast: linh leo
+bg: library
+prop: book x=820
+words: novel, popular, improve, impressive, quiet, bridge
+gloss: novel
+
+#hook
+linh: Walking into the room, she saw a letter on the table. | Bước vào phòng, cô ấy thấy một lá thư trên bàn. [explain @book]
+leo: That sounds like a novel. | Nghe như trong tiểu thuyết vậy. [thinking]
+linh: It is! Written in 1920, this book is still popular today. | Đúng thế! Được viết năm 1920, cuốn sách này đến nay vẫn được yêu thích. [happy]
+leo: Having read it twice, I can say it's great! | Đã đọc hai lần, tôi dám nói là nó rất hay! [happy ipa=read:rɛd]
+> Ba câu gọn gàng nhờ mệnh đề phân từ. [[Walking into the room]] thay cho [[When she walked into the room]]. [[Written in 1920]] thay cho [[The book was written in 1920]]. Còn [[Having read it twice]] thay cho [[Because I have read it twice]].
+
+#form
+th: Dạng | Nghĩa | Ví dụ
+tb: V-ing | chủ động: cùng lúc, lý do | Feeling hungry, I made a sandwich.
+tb: V3 | bị động | Made in Italy, these shoes are expensive.
+tb: having + V3 | xong trước | Having saved enough, he bought a car.
+> Mệnh đề phân từ bỏ chủ ngữ và bỏ luôn liên từ. Người đọc tự hiểu mối quan hệ: thời gian, lý do, hay kết quả.
+mv: When she walked into the room , she saw a letter . => Walking into the room , she saw a letter .
+> Bỏ [[When she]], đổi động từ thành dạng [[ing]]: câu ngắn hơn, mà nghĩa không đổi.
+
+#contrast
+vs: Walking home, I saw an accident. | Trên đường đi bộ về, tôi thấy một vụ tai nạn. || chủ ngữ trùng: tôi đi bộ, tôi thấy
+vs: While I was walking home, it started to rain. | Trong lúc tôi đi bộ về thì trời đổ mưa. || chủ ngữ khác nhau → dùng mệnh đề đầy đủ
+> Quy tắc quan trọng nhất: người làm việc trong mệnh đề phân từ phải chính là chủ ngữ của câu chính. Nói [[Walking home, the rain started]] là sai, vì nghe như cơn mưa đang đi bộ về nhà.
+
+#examples
+- {Not knowing|n} what to say, he stayed quiet. | Không biết nói gì, anh ấy im lặng.
+- {Built|k} in 1890, the bridge is the oldest in the city. | Được xây năm 1890, cây cầu là cây cầu cổ nhất thành phố.
+- She left the room, {closing|k} the door behind her. | Cô ấy rời khỏi phòng, khép cửa lại sau lưng. [ipa=closing:ˈkloʊzɪŋ]
+- {Having lived|k} in Japan, she speaks Japanese well. | Từng sống ở Nhật, cô ấy nói tiếng Nhật giỏi.
+
+#natural
+rank: best | I was tired, so I went to bed early. | Tôi mệt nên đi ngủ sớm.
+rank: ok | Feeling tired, I went to bed early. | Thấy mệt, tôi đi ngủ sớm.
+> Khi nói chuyện, người ta thường dùng câu đầy đủ với [[so]], [[because]]. Mệnh đề phân từ nghe hơi văn chương: rất hợp khi viết truyện, viết bài, nhưng hơi cứng trong hội thoại hằng ngày.
+
+#mistakes
+x: Walking home, the rain started. => While I was walking home, it started to rain. | Trong lúc tôi đi bộ về thì trời mưa. >> Chủ ngữ khác nhau thì không dùng mệnh đề phân từ.
+x: Writing in 1920, the book is still popular. => Written in 1920, the book is still popular. | Được viết năm 1920, cuốn sách vẫn được yêu thích. >> Cuốn sách được viết: nghĩa bị động, dùng [[written]].
+x: Having finish my work, I went home. => Having finished my work, I went home. | Làm xong việc, tôi về nhà. >> Sau [[having]] là phân từ: [[finished]].
+
+#dialogue
+leo: Can you write like that too? | Chị có viết được như thế không? [thinking]
+linh: I'm trying. Wanting to improve my English, I write a short story every week. | Tôi đang thử. Muốn giỏi tiếng Anh hơn, tuần nào tôi cũng viết một truyện ngắn. [explain]
+leo: That's impressive. Can I read one? | Ấn tượng thật. Cho tôi đọc một truyện được không? [happy]
+linh: Sure! But be kind. | Được chứ! Nhưng nhận xét nhẹ tay thôi nhé. [shy]
+
+#recall
+? Viết gọn bằng tiếng Anh, dùng mệnh đề phân từ: Vì không có tiền, tôi ở nhà. => Having no money, I stayed at home. | Không có tiền, tôi ở nhà.
+? Viết gọn bằng tiếng Anh: Được làm ở Việt Nam, loại cà phê này nổi tiếng khắp thế giới. => Made in Vietnam, this coffee is famous around the world. | Được làm ở Việt Nam, loại cà phê này nổi tiếng khắp thế giới.
+
+#recap
+> Mệnh đề phân từ giúp câu gọn hơn khi viết. Dạng [[ing]] cho nghĩa chủ động: cùng lúc, hay lý do. Phân từ quá khứ cho nghĩa bị động. [[Having]] cộng phân từ cho việc xong trước. Và luôn kiểm tra: chủ ngữ ngầm phải trùng với câu chính.
+
+#practice
+fill: ___ tired, I went to bed early. | Feeling* / Felt / To feel || Chủ động, lý do → Feeling.
+fill: ___ in 1850, the house is very old. | Built* / Building / Having built || Ngôi nhà được xây → Built.
+fill: ___ the letter, she started to cry. | Having read* / Read / Being read || Đọc xong trước → Having read.
+fix: Walking to school, my bag fell into the water. | Walking to school, I dropped my bag into the water.* / Walking to school, my bag dropped into the water. / Walk to school, I dropped my bag into the water. || Chủ ngữ ngầm phải là người đi bộ.
+transform: Viết gọn bằng mệnh đề phân từ: | Because she didn't know the answer, she kept quiet. >> Not knowing the answer, she kept quiet.* / Not know the answer, she kept quiet. / Knowing not the answer, she kept quiet. || Not + V-ing.
+choice: Câu nào đúng? | Having finished dinner, we went for a walk.* / Having finished dinner, the walk was nice. / Finished dinner, we went for a walk. || Chủ ngữ ngầm trùng: we.
+type: She left the room, ___ the door behind her. (close) | closing || Chủ động, cùng lúc → closing.
+order: Built / in / 1890, / the / bridge / is / very / old. | Được xây năm 1890, cây cầu đã rất cũ.
+listen: Not knowing what to say, he stayed quiet. | Not knowing what to say, he stayed quiet.* / Not knowing what to do, he stayed home. / Knowing what to say, he spoke quietly. || Nghe not knowing what to say.

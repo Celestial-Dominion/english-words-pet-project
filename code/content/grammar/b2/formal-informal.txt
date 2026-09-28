@@ -1,0 +1,74 @@
+=== formal-informal
+sum: Chọn cách nói hợp hoàn cảnh — không có đúng sai tuyệt đối, chỉ có hợp hay không. Trang trọng (email công việc, văn bản): không rút gọn (I am, do not), động từ một từ gốc Latinh (postpone, receive, assist, require, inform), nhờ vả gián tiếp (Could you possibly…? I would be grateful if…). Thân mật (bạn bè, tin nhắn): rút gọn (I'm, don't), cụm động từ (put off, get, find out), câu ngắn (Can you…?). Email công việc ngày nay thường ở giữa: lịch sự mà không quá cứng.
+form: trang trọng: I am · do not · postpone · receive | email công việc, văn bản
+form: thân mật: I'm · don't · put off · get | tin nhắn, bạn bè
+form: nhờ trang trọng: Could you possibly…? · I would be grateful if… | với khách hàng, cấp trên
+form: nhờ thân mật: Can you…? | với bạn bè
+cast: linh mr-ross
+bg: office
+prop: laptop x=820
+words: postpone, receive, require, inform, grateful, hesitate, formal, casual
+gloss: emoji, application
+names: Tanaka
+
+#hook
+mr-ross: Linh, please write to the client. We need to postpone the meeting. | Linh, cô viết thư cho khách hàng nhé. Chúng ta cần hoãn cuộc họp. [explain @laptop]
+linh: Sure. Can I just say we have to put it off? | Vâng. Tôi cứ viết là mình phải dời lại được không? [thinking]
+mr-ross: That's a bit too casual for a client. It's better to say we must postpone it. | Như thế hơi suồng sã với khách hàng. Nên viết là chúng ta buộc phải hoãn lại. [explain]
+linh: I see. Put off is for friends, and postpone is for clients! | Tôi hiểu rồi. Nói với bạn bè thì một kiểu, viết cho khách hàng thì một kiểu! [happy]
+> [[Put off]] và [[postpone]] cùng nghĩa là hoãn lại. Nhưng [[put off]] là cụm động từ, nghe thân mật. [[Postpone]] là một từ gốc La-tinh, nghe trang trọng hơn, hợp với email công việc.
+
+#form
+th: Thân mật | Trang trọng
+tb: I'm · don't · can't | I am · do not · cannot
+tb: put off · find out · get | postpone · discover · receive
+tb: help · need · tell | assist · require · inform
+tb: Can you send it? | Could you possibly send it?
+tb: Thanks! | Thank you for your help.
+> Ba dấu hiệu của văn trang trọng: không rút gọn, dùng động từ một từ thay cho cụm động từ, và nhờ vả một cách gián tiếp, lịch sự hơn.
+
+#examples
+- {I would be grateful if|k} you could reply by Friday. | Tôi rất cảm kích nếu anh chị có thể trả lời trước thứ sáu.
+- Please {do not hesitate|k} to contact me. | Xin đừng ngần ngại liên hệ với tôi.
+- We {are pleased to inform|k} you that your application was successful. | Chúng tôi vui mừng thông báo hồ sơ của bạn đã được chấp nhận.
+- {Could you possibly|q} send me the file today? | Anh chị có thể gửi tôi tài liệu trong hôm nay được không?
+
+#contrast
+vs: Hey, can you call me back? | Này, gọi lại cho mình nhé? || thân mật: bạn bè
+vs: Could you please return my call when you have a moment? | Mong anh chị gọi lại cho tôi khi có thời gian. || trang trọng: công việc
+> Cùng một yêu cầu, hai giọng điệu. Dùng câu trang trọng với bạn thân nghe rất xa cách. Còn dùng câu thân mật với khách hàng lại thiếu tôn trọng.
+
+#natural
+rank: best | Thanks for your email. I'll get back to you soon. | Cảm ơn email của anh. Tôi sẽ sớm phản hồi.
+rank: ok | Thank you for your email. I will reply as soon as possible. | Cảm ơn email của anh. Tôi sẽ trả lời sớm nhất có thể.
+rank: odd | Thx for ur email. Will reply ASAP.
+> Email công việc ngày nay thường ở giữa: lịch sự nhưng không quá cứng, như câu đầu tiên. Còn kiểu viết tắt như tin nhắn thì chỉ dùng với bạn bè.
+
+#mistakes
+x: Hi boss, can u send me the report? => Could you please send me the report? | Anh có thể gửi tôi bản báo cáo được không ạ? >> Với cấp trên, tránh viết tắt như [[u]], và dùng [[Could you please]].
+x: I want you to reply quickly. => I would appreciate a quick reply. | Tôi rất mong sớm nhận được phản hồi. >> Trong email công việc, [[I want you to]] nghe như ra lệnh.
+x: Dear Linh, what's up? => Dear Linh, I hope you are well. | Linh thân mến, hy vọng chị vẫn khỏe. >> [[What's up]] quá thân mật khi đã mở đầu bằng [[Dear]].
+
+#dialogue
+linh: So, how should I start the email? | Vậy tôi nên mở đầu email thế nào? [thinking]
+mr-ross: Start with Dear Mr. Tanaka, and end with Best regards. | Mở đầu bằng lời chào ông Tanaka thật trang trọng, và kết thư bằng lời chúc lịch sự. [explain]
+linh: And to my friends? | Còn với bạn bè thì sao? [happy]
+mr-ross: Just say hi, and don't forget the emoji! | Cứ chào một tiếng là được, và đừng quên biểu tượng cảm xúc! [happy]
+
+#recall
+? Viết trang trọng bằng tiếng Anh, dùng [[inform]]: Tôi sẽ thông báo cho anh chị. => I will inform you. | Tôi sẽ thông báo cho anh chị.
+? Nói thân mật bằng tiếng Anh, dùng [[put off]]: Bọn mình phải dời cuộc hẹn rồi. => We have to put off the meeting. | Bọn mình phải dời cuộc hẹn rồi.
+
+#recap
+> Không có câu đúng hay sai tuyệt đối, chỉ có câu hợp hoàn cảnh. Trang trọng: không rút gọn, động từ một từ như [[postpone]], [[receive]], nhờ vả gián tiếp. Thân mật: rút gọn, cụm động từ như [[put off]], câu ngắn gọn.
+
+#practice
+choice: Email gửi khách hàng, câu nào phù hợp? | We need to postpone the meeting.* / We gotta put off the meeting. / Meeting's off, sorry! || Trang trọng → postpone.
+choice: Tin nhắn cho bạn thân, câu nào tự nhiên? | Can you call me back?* / Could you please return my call? / I would be grateful if you could call me. || Thân mật → can you.
+fill: I would be ___ if you could help me. | grateful* / happy to / thanks || I would be grateful if…
+fill: Please do not ___ to contact us. | hesitate* / wait / worry || Do not hesitate to contact us.
+fix: Hi boss, can u send the file? | Could you please send me the file?* / Hi boss, can you send the file u? / Boss, send file. || Với cấp trên → Could you please…
+transform: Viết lại trang trọng hơn: | We can't come to the meeting. >> We cannot attend the meeting.* / We can't attend the meeting lol. / We no come to the meeting. || Không rút gọn, dùng attend.
+type: Thank you ___ your help. | for || Thank you for…
+order: Could / you / possibly / send / me / the / file / today? | Anh chị có thể gửi tôi tài liệu trong hôm nay được không?
+listen: I would be grateful if you could reply by Friday. | I would be grateful if you could reply by Friday.* / I would be happy if you could reply on Friday. / I'm grateful you replied by Friday. || Nghe grateful if … by Friday.

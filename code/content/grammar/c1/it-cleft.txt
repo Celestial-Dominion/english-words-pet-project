@@ -1,0 +1,71 @@
+=== it-cleft
+sum: Câu chẻ It: It is / was + phần muốn nhấn + who / that + phần còn lại — đặt một thành phần vào tâm điểm (người, vật, thời gian, nơi chốn, lý do), rất hay dùng để sửa hiểu lầm: It wasn't me. It was Anna who fixed it. It was in 2019 that we met. It's not the price that worries me, it's the quality. Người dùng who hoặc that; vật, thời gian, nơi chốn, lý do dùng that (không dùng which, what). Khi nói có thể chỉ nhấn giọng; khi viết, câu chẻ thay cho ngữ điệu.
+form: It is / was + phần nhấn + who / that + phần còn lại | It was Anna who fixed it.
+form: It was + thời gian / nơi chốn + that… | It was in 2019 that we met.
+form: It's not X that…, it's Y | It's not the price that worries me, it's the quality.
+form: Was it … who…? | Was it you who left this note?
+cast: ben mia
+bg: office
+words: printer, matter, experience, note, bean, special
+names: Anna, Tom, Da Lat
+
+#hook
+ben: Thanks for fixing the printer, Mia! | Cảm ơn chị đã sửa máy in, Mia! [happy]
+mia: Oh, it wasn't me. It was Anna who fixed it. | Ồ, không phải tôi. Chính Anna mới là người sửa. [shy]
+ben: Really? And was it you who ordered the new paper? | Thật à? Thế có phải chị đặt mua giấy mới không? [thinking]
+mia: No, it was Tom who did that. I just made the coffee! | Không, Tom làm việc đó. Tôi chỉ pha cà phê thôi! [happy]
+> [[It was Anna who fixed it]]: nhấn mạnh chính [[Anna]], không phải ai khác. Câu chẻ với [[It]] rất hay dùng để sửa một hiểu lầm: người ta tưởng là A, nhưng thật ra là B.
+
+#form
+f: [It is / It was] + phần nhấn mạnh + [who / that] + phần còn lại
+> Phần muốn nhấn đứng ngay sau [[It was]]. Người thì dùng [[who]] hoặc [[that]]. Vật, thời gian, nơi chốn thì dùng [[that]].
+mv: Anna fixed the printer . => It was Anna who fixed the printer .
+> Từ một câu bình thường, tách [[Anna]] ra và đặt vào khung [[It was … who]].
+th: Nhấn vào | Ví dụ
+tb: người | It was Tom who called you.
+tb: vật | It's the noise that I can't stand.
+tb: thời gian | It was in 2019 that we first met.
+tb: nơi chốn | It was in Hue that I learned to cook.
+tb: lý do | It was because of you that I stayed.
+> Khung câu chẻ đặt được hầu như mọi thành phần vào tâm điểm. Người nghe biết ngay đâu là thông tin quan trọng nhất.
+
+#examples
+- {It was|k} my dad {who|c} taught me to swim. | Chính bố tôi là người dạy tôi bơi.
+- {It's|k} not the money {that|c} matters, it's the experience. | Không phải tiền, mà trải nghiệm mới là điều quan trọng.
+- {It was|k} only yesterday {that|c} I heard the news. | Mãi đến hôm qua tôi mới nghe tin.
+- {It wasn't until|k} I got home {that|c} I noticed the mistake. | Mãi đến khi về nhà tôi mới nhận ra lỗi sai.
+- {Was it|q} you {who|c} left this note? | Có phải bạn để lại mẩu giấy này không?
+
+#natural
+rank: best | Anna fixed it, not me. | Anna sửa đấy, không phải tôi.
+rank: ok | It was Anna who fixed it, not me. | Chính Anna sửa, không phải tôi.
+> Khi nói, người ta có thể chỉ cần nhấn giọng vào [[Anna]]. Câu chẻ rõ ràng và mạnh hơn, và đặc biệt hữu ích khi viết, vì văn viết không có ngữ điệu.
+
+#mistakes
+x: It was Anna which fixed the printer. => It was Anna who fixed the printer. | Chính Anna đã sửa máy in. >> Người thì dùng [[who]] hoặc [[that]], không dùng [[which]].
+x: It was in 2019 when we met. => It was in 2019 that we met. | Chúng tôi gặp nhau vào năm 2019. >> Câu chẻ chuẩn dùng [[that]], kể cả với thời gian.
+x: It is the price what worries me. => It is the price that worries me. | Chính giá cả mới làm tôi lo. >> Câu chẻ với [[It]] dùng [[that]], không dùng [[what]].
+
+#dialogue
+ben: Then it's you who we should thank for the great coffee! | Vậy là phải cảm ơn chị vì cốc cà phê ngon! [happy]
+mia: It's not the coffee that's special, it's the beans from Da Lat. | Không phải cà phê đặc biệt, mà là hạt cà phê từ Đà Lạt. [explain]
+ben: Was it you who bought them? | Có phải chị mua chúng không? [thinking]
+mia: Yes, finally something I did! | Đúng, cuối cùng cũng có một việc do tôi làm! [happy]
+
+#recall
+? Nói bằng tiếng Anh, dùng câu chẻ: Chính mẹ tôi đã dạy tôi nấu ăn. => It was my mom who taught me to cook. | Chính mẹ tôi đã dạy tôi nấu ăn.
+? Nói bằng tiếng Anh: Không phải thời tiết làm tôi mệt, mà là công việc. => It's not the weather that makes me tired, it's the work. | Không phải thời tiết làm tôi mệt, mà là công việc.
+
+#recap
+> Câu chẻ [[It was … who]], [[It was … that]] đặt một thành phần vào tâm điểm: người, vật, thời gian, nơi chốn, lý do. Rất hợp để sửa hiểu lầm: [[It's not X that…, it's Y]]. Người dùng [[who]] hoặc [[that]], còn lại dùng [[that]].
+
+#practice
+fill: It was my sister ___ found the keys. | who* / which / what || Người → who.
+fill: It was in Paris ___ they got married. | that* / which / what || Nơi chốn → that.
+fill: It's not the salary ___ I care about, it's the team. | that* / what / who || Vật → that.
+fix: It was Tom which broke the window. | It was Tom who broke the window.* / It was Tom what broke the window. / It were Tom who broke the window. || Người → who.
+transform: Nhấn mạnh phần “my dad”: | My dad taught me to drive. >> It was my dad who taught me to drive.* / It was my dad which taught me to drive. / My dad it was who taught me to drive. || It was + người + who.
+choice: “It was Anna who fixed it.” nhấn mạnh điều gì? | Chính Anna, không phải ai khác* / Việc sửa chữa rất khó / Anna chưa sửa xong || Câu chẻ nhấn phần đứng sau It was.
+type: ___ it you who called me last night? | Was || Câu hỏi: Was it…?
+order: It / was / only / yesterday / that / I / heard / the / news. | Mãi đến hôm qua tôi mới nghe tin.
+listen: It was my dad who taught me to swim. | It was my dad who taught me to swim.* / It was my mom who taught me to swim. / My dad taught me to drive. || Nghe my dad … swim.

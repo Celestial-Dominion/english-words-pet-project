@@ -1,0 +1,74 @@
+=== parallelism-cohesion
+sum: Giữ nhịp câu bằng song song và chỉ trước. Song song: các ý trong một danh sách, một cặp phải CÙNG DẠNG (reading, painting and listening · to plan, to test and to improve · hard-working, creative and caring). Cặp tương liên not only X but also Y · either X or Y · both X and Y · neither X nor Y: X và Y cùng loại, và đặt từ đầu cặp ngay trước phần được so (speaks not only French but also Spanish; khi nói, She not only speaks French but also Spanish vẫn rất phổ biến). Chỉ trước (cataphora): đại từ đi trước danh từ nó chỉ (Before she moved here, my grandmother…) — tạo tò mò, hay gặp trong kể chuyện, báo chí; chỉ dùng khi không có ai khác gây nhầm (When he arrived, Tom's brother… ✗ mơ hồ).
+form: danh sách cùng dạng | reading, painting and listening to music
+form: not only X but also Y · either X or Y · both X and Y | You can either call or email me.
+form: từ đầu cặp đặt ngay trước phần được so | She speaks not only French but also Spanish.
+form: chỉ trước: đại từ → danh từ (khi không gây nhầm) | Before he left, Tom locked the door.
+cast: zoe mr-ross
+bg: classroom
+words: parallel, essay, creative, caring, nervous, director
+names: Tom, Anna
+
+#hook
+zoe: My essay says I like reading, to paint and music. | Bài luận của em viết là em thích đọc sách, vẽ, và âm nhạc. [shy]
+mr-ross: Make the list parallel: reading, painting and listening to music. | Hãy làm cho danh sách song song: đọc sách, vẽ tranh, và nghe nhạc. [explain]
+zoe: Oh! And my first line: before she moved here, my grandmother taught me to paint. | Ồ! Còn câu đầu của em: trước khi chuyển đến đây, bà đã dạy em vẽ. [thinking]
+mr-ross: Nice. The pronoun comes first, then the person. It keeps the reader curious. | Hay. Đại từ đi trước, rồi mới đến người được nhắc. Người đọc sẽ tò mò. [happy]
+> Hai kỹ thuật giữ nhịp câu. Song song: các ý trong một danh sách cùng một dạng, như [[reading, painting and listening]]. Chỉ trước: đại từ [[she]] xuất hiện trước danh từ nó chỉ, [[my grandmother]].
+
+#form
+th: Cặp, dãy | Ví dụ
+tb: danh sách cùng dạng | to plan, to test and to improve
+tb: not only X but also Y | not only smart but also kind
+tb: either X or Y | either call or email
+tb: both X and Y | both fast and cheap
+tb: chỉ trước: đại từ → danh từ | Before he left, Tom locked the door.
+> Người đọc cảm nhận nhịp câu trước cả khi hiểu nghĩa. Một dãy cùng dạng đọc trôi chảy; một dãy lệch dạng làm câu vấp váp.
+f: [not only] + X + [but also] + Y
+> Phần theo sau [[not only]] và [[but also]] phải cùng loại: hai tính từ, hai động từ, hai cụm danh từ. Đặt [[not only]] ngay trước phần được so.
+
+#examples
+- The course teaches you {to plan, to test and to improve|k}. | Khóa học dạy bạn lập kế hoạch, thử nghiệm và cải tiến.
+- The new phone is {both faster and cheaper|k}. | Điện thoại mới vừa nhanh hơn vừa rẻ hơn.
+- You can {either call or email|k} me. | Bạn có thể gọi điện hoặc gửi email cho tôi.
+- {When she finally arrived|k}, the director apologized to everyone. | Khi cuối cùng cũng đến nơi, bà giám đốc đã xin lỗi mọi người.
+
+#contrast
+vs: Tom locked the door before he left. | Tom khóa cửa trước khi đi. || chỉ lại: danh từ trước, đại từ sau
+vs: Before he left, Tom locked the door. | Trước khi đi, Tom khóa cửa. || chỉ trước: đại từ trước, danh từ sau
+> Cả hai đều rõ nghĩa. Chỉ trước tạo một chút hồi hộp, hay gặp trong văn kể chuyện, báo chí. Nhưng chỉ dùng khi không có nhân vật nào khác gây nhầm lẫn.
+
+#natural
+rank: best | She speaks not only French but also Spanish. | Cô ấy nói không chỉ tiếng Pháp mà cả tiếng Tây Ban Nha.
+rank: ok | She not only speaks French but also Spanish. | Cô ấy không chỉ nói tiếng Pháp mà cả tiếng Tây Ban Nha nữa.
+> Khi nói, câu thứ hai rất phổ biến và chẳng ai thấy lạ. Khi viết cẩn thận, đặt [[not only]] ngay trước phần được so: [[not only French but also Spanish]].
+
+#mistakes
+x: I like swimming, to run and cycling. => I like swimming, running and cycling. | Tôi thích bơi, chạy và đạp xe. >> Danh sách phải cùng dạng: ba [[V-ing]].
+x: Either you can call or email me. => You can either call or email me. | Bạn có thể gọi hoặc gửi email cho tôi. >> Đặt [[either]] ngay trước phần được chọn: [[either call or email]].
+x: When he arrived, Tom's brother was asleep. => When Tom arrived, his brother was asleep. | Khi Tom đến, em trai anh ấy đang ngủ. >> Câu gốc mơ hồ: [[he]] là Tom hay em trai? Chỉ dùng chỉ trước khi không có ai khác gây nhầm.
+
+#dialogue
+zoe: What about this: I am hard-working, creative, and I love helping people. | Còn câu này: em chăm chỉ, sáng tạo, và em thích giúp đỡ mọi người. [thinking]
+mr-ross: Almost. Try: hard-working, creative and caring. Three adjectives. | Gần được rồi. Thử: chăm chỉ, sáng tạo và biết quan tâm. Ba tính từ. [explain]
+zoe: That sounds much stronger! | Nghe mạnh hơn hẳn ạ! [happy]
+mr-ross: Parallel lists always do. | Danh sách song song lúc nào cũng vậy. [happy]
+
+#recall
+? Viết bằng tiếng Anh, giữ song song: Tôi muốn học, làm việc và đi du lịch. => I want to study, work and travel. | Tôi muốn học, làm việc và đi du lịch.
+? Viết bằng tiếng Anh, dùng [[not only … but also]]: Khách sạn không chỉ rẻ mà còn sạch. => The hotel is not only cheap but also clean. | Khách sạn không chỉ rẻ mà còn sạch.
+
+#recap
+> Song song: danh sách và các cặp [[not only … but also]], [[either … or]], [[both … and]] phải cùng dạng, và từ đầu cặp đứng ngay trước phần được so. Chỉ trước: đại từ đi trước danh từ, tạo tò mò, nhưng chỉ khi không gây nhầm lẫn.
+
+#practice
+fill: The job involves planning, testing and ___. | reporting* / to report / report || Cùng dạng V-ing.
+fill: She is not only clever ___ also very kind. | but* / and / or || not only … but also.
+fill: We can ___ take the train or drive. | either* / neither / both || either … or.
+fix: He likes to read, writing and to swim. | He likes to read, to write and to swim.* / He likes to read, writing and swim. / He likes reading, to write and swimming. || Cùng dạng.
+transform: Viết lại, đưa đại từ lên trước: | Anna felt nervous before she went on stage. >> Before she went on stage, Anna felt nervous.* / Before Anna went on stage, she felt nervous she. / Before she went on stage, she Anna felt nervous. || Đại từ trước, danh từ sau.
+choice: Câu nào song song đúng? | The plan is cheap, fast and simple.* / The plan is cheap, speed and simplicity. / The plan is cheap, fastly and simple. || Ba tính từ cùng dạng.
+choice: Câu nào mơ hồ? | When she called, Anna's sister was out.* / When Anna called, her sister was out. / Anna called when her sister was out. || she là Anna hay chị gái?
+type: The hotel was ___ cheap and comfortable. (vừa… vừa) | both || both X and Y.
+order: You / can / either / call / or / email / me. | Bạn có thể gọi điện hoặc gửi email cho tôi.
+listen: Make the list parallel: reading, painting and listening to music. | Make the list parallel: reading, painting and listening to music.* / Make the list shorter: reading, painting and listening to music. / Make the list parallel: reading, dancing and listening to music. || Nghe parallel … painting.

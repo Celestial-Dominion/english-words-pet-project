@@ -1,0 +1,66 @@
+=== possessive-adjectives
+sum: My, your, his, her, its, our, their = của tôi, của bạn, của anh ấy… Chúng đứng TRƯỚC danh từ (my phone), không đổi theo số nhiều (my friends). His = của anh ấy, her = của cô ấy; its (của nó) khác it's (it is).
+form: my · your · his · her · its · our · their + danh từ | của tôi, của bạn, của anh ấy, của cô ấy, của nó, của chúng tôi, của họ
+form: its = của nó · it's = it is | không viết nhầm
+cast: linh mia
+bg: home-day
+words: family, sister, name, house, garden
+
+#hook
+linh: This is a photo of my family. | Đây là ảnh gia đình mình. [happy ~photo:mom,dad,girl]
+mia: Who's this girl? | Cô bé này là ai thế? [thinking]
+linh: That's my sister. Her name is Hoa. | Đó là em gái mình. Tên em ấy là Hoa. [happy]
+> Tiếng Việt nói “ảnh gia đình mình”, “tên em ấy”, phần “của ai” đứng SAU. Tiếng Anh thì đặt từ sở hữu TRƯỚC danh từ: [[my family]], [[her name]].
+
+#form
+th: Chủ ngữ | Sở hữu | Ví dụ
+tb: I | my | my phone
+tb: you | your | your bag
+tb: he | his | his car
+tb: she | her | her name
+tb: it | its | its tail
+tb: we | our | our house
+tb: they | their | their children
+> Mỗi chủ ngữ có một từ sở hữu riêng. [[I]] thành [[my]], [[he]] thành [[his]], [[she]] thành [[her]], [[they]] thành [[their]].
+> Từ sở hữu không đổi khi danh từ là số nhiều: [[my friend]], [[my friends]].
+
+#examples
+- {Our|k} house has a small garden. | Nhà chúng tôi có một khu vườn nhỏ.
+- What's {your|k} email? | Email của bạn là gì?
+- The dog is eating {its|k} food. | Con chó đang ăn đồ ăn của nó.
+- {Their|k} kids are at the same school. | Con của họ học cùng trường.
+
+#contrast
+vs: His name is Nam. | Tên anh ấy là Nam. || his = của anh ấy
+vs: Her name is Linh. | Tên cô ấy là Linh. || her = của cô ấy
+> [[His]] hay [[her]] là theo NGƯỜI SỞ HỮU, không theo đồ vật. Của một người đàn ông thì dùng [[his]], của một người phụ nữ thì dùng [[her]].
+vs: The cat is hungry. Its bowl is empty. | Con mèo đói. Bát của nó trống rỗng. || its = của nó
+vs: It's a cat. | Nó là một con mèo. || it's = it is
+> [[Its]] không có dấu phẩy trên, nghĩa là “của nó”. [[It's]] có dấu phẩy trên, là dạng rút gọn của [[it is]]. Hai từ đọc giống hệt nhau, chỉ khác khi viết.
+
+#mistakes
+x: This is my sister. His name is Hoa. => This is my sister. Her name is Hoa. | Đây là em gái tôi. Tên em ấy là Hoa. >> Em gái là nữ nên dùng [[her]]. Người Việt hay nhầm vì tiếng Việt nói chung là “em ấy”.
+x: I like your's bag. => I like your bag. | Tôi thích cái túi của bạn. >> [[Your]] đứng ngay trước danh từ, không thêm dấu phẩy trên hay chữ [[s]].
+
+#dialogue
+mia: Is this your brother? | Đây có phải anh trai cậu không? [point]
+linh: Yes. His name is Minh. He's a doctor. | Ừ. Tên anh ấy là Minh. Anh ấy là bác sĩ. [happy]
+mia: And these are your parents? | Còn đây là bố mẹ cậu à? [thinking]
+linh: Yes. Their house is in Hue. | Ừ. Nhà bố mẹ mình ở Huế. [happy]
+
+#recall
+? Nói bằng tiếng Anh: Đây là con chó của tôi. => This is my dog. | Đây là con chó của tôi.
+? Nói bằng tiếng Anh: Tên anh ấy là Tom. => His name is Tom. | Tên anh ấy là Tom.
+
+#recap
+> Ghi nhớ: từ sở hữu luôn đứng trước danh từ, như [[my phone]], [[our house]]. Chọn [[his]] hay [[her]] theo người sở hữu. Và đừng nhầm [[its]] với [[it's]].
+
+#practice
+fill: Anna is my friend. ___ house is near here. | Her* / His / Their || Anna là nữ → her.
+fill: We love ___ new teacher. | our* / we / us || Chủ ngữ we → our.
+fill: The cat is playing with ___ ball. | its* / it's / his || Của nó (con mèo) → its.
+fix: Tom and Lisa are here. Theirs car is red. | Their car is red.* / They car is red. / There car is red. || Trước danh từ dùng their.
+choice: “It's” nghĩa là gì? | it is* / của nó / của họ || It's = it is; của nó là its.
+order: What's / your / phone / number? | Số điện thoại của bạn là gì?
+listen: Her name is Linh. | Her name is Linh.* / His name is Linh. / Your name is Linh. || Nghe từ đầu câu: her.
+natural: This is my sister. Her name is Hoa.* / This is my sister. His name is Hoa. || Em gái → her.

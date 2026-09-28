@@ -1,0 +1,75 @@
+=== future-forms
+sum: Bốn cách nói về tương lai, mỗi cách một sắc thái. Hiện tại đơn: lịch cố định, giờ tàu xe (The flight leaves at 7:40). Hiện tại tiếp diễn: lịch hẹn đã sắp xếp (We're meeting Grandma tonight). Be going to: dự định đã quyết, điều sắp xảy ra có dấu hiệu (I'm going to sleep on the plane. It's going to rain). Will: quyết định ngay lúc nói, lời hứa, dự đoán theo ý kiến (I'll get you a hot chocolate. I think you'll love it). Hỏi kế hoạch: What are you doing…? tự nhiên hơn What will you do…?
+form: lịch cố định → hiện tại đơn | The flight leaves at 7:40.
+form: lịch hẹn đã sắp xếp → hiện tại tiếp diễn | We're meeting Grandma tonight.
+form: dự định · dấu hiệu trước mắt → be going to | I'm going to sleep on the plane.
+form: quyết ngay · hứa · đoán theo ý kiến → will | I'll get you a hot chocolate.
+cast: zoe dad
+bg: airport
+words: flight, leave, plan, delay, promise, text
+gloss: board
+
+#hook
+zoe: Dad, what time does our flight leave? | Bố ơi, máy bay của mình mấy giờ cất cánh? [thinking]
+dad: It leaves at 7:40. We're meeting Grandma in Seoul tonight. | 7 giờ 40. Tối nay mình gặp bà ở Seoul. [explain]
+zoe: I'm going to sleep on the plane. I'm so tired. | Con sẽ ngủ trên máy bay. Con mệt quá. [tired]
+dad: Good idea. I'll get you a hot chocolate before we board. | Ý hay đấy. Bố sẽ mua cho con cốc sô-cô-la nóng trước khi lên máy bay. [happy]
+zoe: Thanks, Dad! I think I'll love Seoul. | Cảm ơn bố! Con nghĩ con sẽ mê Seoul cho xem. [happy]
+> Một đoạn hội thoại, bốn cách nói về tương lai. Giờ bay cố định: [[It leaves at 7:40]]. Lịch hẹn đã sắp xếp: [[We're meeting Grandma]]. Dự định: [[I'm going to sleep]]. Và quyết định ngay lúc nói: [[I'll get you a hot chocolate]].
+
+#form
+th: Cách nói | Dùng khi | Ví dụ
+tb: hiện tại đơn | lịch cố định | The train leaves at six.
+tb: hiện tại tiếp diễn | lịch hẹn | I'm seeing the doctor at ten.
+tb: be going to | dự định, dấu hiệu | We're going to buy a house.
+tb: will | quyết ngay, hứa, đoán | I'll call you later.
+> Hiếm khi có cách nào sai hẳn, nhưng mỗi cách mang một sắc thái. Hãy tự hỏi: đây là lịch cố định, một cuộc hẹn, một dự định, hay một ý vừa nảy ra?
+
+#contrast
+vs: I think it will be sunny tomorrow. | Tôi nghĩ mai trời sẽ nắng. || đoán theo ý kiến → will
+vs: Look at the sky! It's going to rain. | Nhìn trời kìa! Sắp mưa rồi. || có dấu hiệu trước mắt → going to
+> Cùng là dự đoán. [[Will]] khi đó là ý kiến của mình, thường đi với [[I think]], [[probably]]. [[Going to]] khi dấu hiệu ở ngay trước mắt.
+vs: I'm going to visit Hue this summer. | Hè này tôi định đi Huế. || dự định, chưa đặt gì
+vs: I'm flying to Hue on Friday. | Thứ sáu tôi bay ra Huế. || đã đặt vé, đã sắp xếp
+> Cùng là kế hoạch. [[Going to]] cho dự định trong đầu. Còn tiếp diễn khi mọi thứ đã sắp xếp xong: vé đã đặt, giờ đã hẹn.
+
+#examples
+- The shop {opens|k} at nine tomorrow. | Mai cửa hàng mở cửa lúc chín giờ.
+- {Are|a} you {doing|k} anything tonight? | Tối nay bạn có bận gì không?
+- Careful! {You're going to drop|k} it! | Cẩn thận! Sắp rơi bây giờ!
+- I'm cold. — {I'll close|k} the window. | Tôi lạnh quá. — Để tôi đóng cửa sổ. [ipa=close:kloʊz]
+
+#natural
+rank: best | What are you doing this weekend? | Cuối tuần này bạn làm gì?
+rank: ok | What are you going to do this weekend? | Cuối tuần này bạn định làm gì?
+rank: odd | What will you do this weekend?
+> Hỏi kế hoạch, người bản ngữ dùng tiếp diễn hoặc [[going to]]. [[What will you do?]] nghe như hỏi bạn sẽ xử lý ra sao trong một tình huống, chứ không phải hỏi lịch.
+
+#mistakes
+x: I call you tonight, I promise. => I'll call you tonight, I promise. | Tối nay tôi sẽ gọi cho bạn, hứa đấy. >> Lời hứa dùng [[will]].
+x: The train is leaving at 6:15 every morning. => The train leaves at 6:15 every morning. | Tàu chạy lúc 6 giờ 15 mỗi sáng. >> Lịch chạy cố định thì dùng hiện tại đơn.
+x: The phone's ringing. I'm going to get it. => The phone's ringing. I'll get it. | Điện thoại reo kìa. Để tôi nghe. >> Quyết định ngay lúc nói dùng [[will]].
+
+#dialogue
+zoe: Dad, look! Our flight is delayed. | Bố ơi, nhìn kìa! Chuyến bay của mình bị hoãn. [surprised]
+dad: Oh no. We're going to be late for dinner with Grandma. | Ôi. Thế thì mình sẽ trễ bữa tối với bà mất. [worried]
+zoe: Don't worry. I'll text her now. | Bố đừng lo. Con sẽ nhắn cho bà ngay. [happy]
+dad: Thanks. What would I do without you? | Cảm ơn con. Không có con thì bố biết làm sao? [happy]
+
+#recall
+? Nói bằng tiếng Anh: Xe buýt chạy lúc tám giờ. => The bus leaves at eight. | Xe buýt chạy lúc tám giờ.
+? Chuông cửa reo, bạn vừa quyết định đi mở. Nói bằng tiếng Anh: Để tôi ra mở cửa. => I'll get the door. | Để tôi ra mở cửa.
+
+#recap
+> Bốn cách, bốn sắc thái. Lịch cố định: hiện tại đơn. Lịch hẹn đã sắp xếp: hiện tại tiếp diễn. Dự định hay dấu hiệu trước mắt: [[going to]]. Quyết ngay, hứa, đoán theo ý kiến: [[will]].
+
+#practice
+choice: Hẹn gặp bạn đã sắp xếp xong. Câu nào tự nhiên nhất? | I'm meeting Anna at six.* / I will meet Anna at six. / I meet Anna at six. || Lịch hẹn → tiếp diễn.
+choice: Điện thoại reo, bạn quyết định nghe ngay: | I'll get it!* / I'm going to get it. / I get it. || Quyết ngay → will.
+fill: Look at those clouds! ___ rain. | It's going to* / It will / It rains || Dấu hiệu trước mắt → going to.
+fill: Our flight ___ at 7:40 tomorrow morning. | leaves* / is going to leave / will leaving || Giờ bay cố định → hiện tại đơn.
+fix: I promise I call you tonight. | I promise I'll call you tonight.* / I promise I'm calling you tonight. / I promise I going to call you tonight. || Lời hứa → will.
+type: What ___ you doing this weekend? | are || Hỏi kế hoạch → What are you doing…?
+order: We're / meeting / Grandma / in / Seoul / tonight. | Tối nay mình gặp bà ở Seoul.
+listen: Careful! You're going to drop it! | Careful! You're going to drop it!* / Careful! You dropped it! / Careful! Don't drop it! || Nghe going to drop.
+natural: What are you doing this weekend?* / What will you do this weekend? || Hỏi kế hoạch → tiếp diễn.

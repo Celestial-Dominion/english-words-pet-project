@@ -1,0 +1,74 @@
+=== dense-noun-phrases
+sum: Đọc và viết cụm danh từ dày — đặc sản của văn học thuật, báo chí. Cách đọc: tìm DANH TỪ CHÍNH (thường là danh từ cuối trước giới từ), rồi gỡ từng lớp: từ hạn định → trạng từ + phân từ (widely cited) → số, năm (2019) → tính từ ghép (government-funded, long-term, low-income) → danh từ bổ nghĩa (city, transport) → danh từ chính (study) → cụm phía sau (on the effects of screen time on children under five). Động từ chia theo danh từ chính, không theo danh từ đứng gần nó (The report on … children IS…; The number of students HAS…). Khi viết: đừng chồng quá ba danh từ lên trước — tách ra sau bằng of, for, to.
+form: từ hạn định + bổ nghĩa + danh từ chính + cụm phía sau | a widely cited 2019 government-funded study on sleep
+form: tìm danh từ chính, gỡ từ phải sang trái | study ← government-funded ← 2019 ← widely cited
+form: động từ chia theo danh từ chính | The number of students has risen.
+form: chồng danh từ quá dày → tách bằng of / for / to | the council's budget for transport
+cast: linh nam
+bg: library
+words: cite, fund, exposure, pollution, rural, income
+
+#hook
+linh: Look at this title: a widely cited 2019 government-funded study on screen time and sleep. | Nhìn tiêu đề này: một nghiên cứu năm 2019, do nhà nước tài trợ, được trích dẫn rộng rãi, về thời gian dùng màn hình và giấc ngủ. [confused]
+nam: Find the main noun first. It's study. | Tìm danh từ chính trước đã. Đó là chữ study. [explain]
+linh: And everything before it describes the study? | Còn mọi thứ đứng trước đều mô tả nghiên cứu đó? [thinking]
+nam: Exactly. Widely cited, from 2019, funded by the government, and about screen time. | Chính xác. Được trích dẫn nhiều, từ năm 2019, do nhà nước tài trợ, và về thời gian dùng màn hình. [explain]
+> Cụm danh từ dày gói cả một câu vào trước và sau một danh từ chính. Cách đọc: tìm danh từ chính, [[study]], rồi gỡ từng lớp: [[widely cited]], [[2019]], [[government-funded]], và phía sau là [[on screen time and sleep]].
+
+#form
+th: Lớp | Ví dụ
+tb: từ hạn định | a, the, our
+tb: trạng từ + phân từ | widely cited, newly built
+tb: số, năm | 2019, three
+tb: tính từ ghép | government-funded, long-term
+tb: danh từ bổ nghĩa | city, transport
+tb: danh từ chính | study, plan
+> Các lớp bổ nghĩa xếp theo thứ tự khá cố định, và danh từ chính luôn đứng cuối phần phía trước. Phía sau nó là cụm giới từ, mệnh đề, hay [[to]] cộng V.
+f: từ hạn định + các lớp bổ nghĩa + danh từ chính + cụm phía sau
+> Đọc cụm dày theo hai bước: tìm danh từ chính, rồi gỡ ngược từ phải sang trái. Viết thì ngược lại: bắt đầu từ danh từ chính, thêm dần từng lớp.
+
+#examples
+- {A newly built children's hospital|k} opened last week. | Một bệnh viện nhi mới xây đã khai trương tuần trước.
+- The report focuses on {low-income families in rural areas|k}. | Báo cáo tập trung vào các gia đình thu nhập thấp ở vùng nông thôn.
+- {Long-term exposure to air pollution|k} harms the lungs. | Tiếp xúc lâu dài với ô nhiễm không khí gây hại cho phổi.
+- They studied {the effects of screen time on children under five|k}. | Họ nghiên cứu tác động của thời gian dùng màn hình đối với trẻ dưới năm tuổi.
+
+#contrast
+vs: The city council transport budget was cut. | Ngân sách giao thông của hội đồng thành phố bị cắt. || chồng danh từ: gọn nhưng khó đọc
+vs: The city council's budget for transport was cut. | Ngân sách dành cho giao thông của hội đồng thành phố bị cắt. || tách bằng for: dễ đọc hơn
+> Chồng nhiều danh từ lên trước rất gọn, nhưng người đọc phải tự đoán quan hệ giữa chúng. Tách bớt ra sau bằng sở hữu cách hay [[for]], quan hệ hiện ra rõ ràng.
+
+#natural
+rank: best | The school's plan to reduce plastic waste won a prize. | Kế hoạch giảm rác thải nhựa của trường đã đoạt giải.
+rank: odd | The school plastic waste reduction plan won a prize.
+> Chồng bốn danh từ lên trước khiến người đọc phải giải mã. Đưa bớt thông tin ra sau bằng [[to]], [[of]], [[for]], cụm dễ đọc hơn nhiều.
+
+#mistakes
+x: The report on the effects of pollution on children are worrying. => The report on the effects of pollution on children is worrying. | Báo cáo về tác động của ô nhiễm đối với trẻ em thật đáng lo. >> Động từ chia theo danh từ chính [[report]], không theo [[children]] đứng gần nó.
+x: A widely study cited was published. => A widely cited study was published. | Một nghiên cứu được trích dẫn rộng rãi đã được công bố. >> Bổ nghĩa đứng trước danh từ chính: [[widely cited study]].
+x: The number of students have risen. => The number of students has risen. | Số lượng sinh viên đã tăng. >> Danh từ chính là [[number]], số ít, nên dùng [[has]].
+
+#dialogue
+linh: So what did the study find? | Vậy nghiên cứu đó phát hiện ra gì? [thinking]
+nam: Children with more than two hours of daily screen time slept less. | Trẻ dùng màn hình hơn hai tiếng mỗi ngày ngủ ít hơn. [explain]
+linh: That sentence is long too! | Câu đó cũng dài quá! [surprised]
+nam: But clear. The main noun is children, and the rest just describes them. | Nhưng rõ ràng. Danh từ chính là children, phần còn lại chỉ mô tả chúng. [happy]
+
+#recall
+? Viết bằng tiếng Anh, dùng tính từ ghép: Chúng ta cần một kế hoạch dài hạn để giảm ô nhiễm. => We need a long-term plan to reduce pollution. | Chúng ta cần một kế hoạch dài hạn để giảm ô nhiễm.
+? Viết bằng tiếng Anh, chú ý danh từ chính: Số lượng người dùng đã tăng gấp đôi. => The number of users has doubled. | Số lượng người dùng đã tăng gấp đôi.
+
+#recap
+> Cụm danh từ dày: tìm danh từ chính, rồi gỡ từng lớp, từ phải sang trái. Động từ chia theo danh từ chính, không theo danh từ đứng gần. Khi viết, đừng chồng quá nhiều danh từ lên trước: tách ra sau bằng [[of]], [[for]], [[to]].
+
+#practice
+fill: The effects of the new rules on small businesses ___ unclear. | are* / is / being || Danh từ chính effects → are.
+fill: The number of cars in the city ___ risen. | has* / have / having || Danh từ chính number → has.
+fill: It was a widely ___ study, used by many researchers. | cited* / citing / cite || Trạng từ + phân từ: widely cited.
+fix: The report on the needs of older people are useful. | The report on the needs of older people is useful.* / The report on the needs of older people were useful. / The reports on the need of older people is useful. || Chia theo danh từ chính report.
+transform: Gộp thành một cụm danh từ làm chủ ngữ: | A study was funded by the government. It is about sleep. It surprised everyone. >> The government-funded study on sleep surprised everyone.* / The study government-funded on sleep surprised everyone. / The on sleep government-funded study surprised everyone. || Tính từ ghép trước, cụm giới từ sau.
+choice: Trong “a widely cited 2019 government-funded study on sleep”, danh từ chính là: | study* / sleep / government || Danh từ chính đứng ngay trước cụm giới từ on….
+choice: Cụm nào dễ đọc nhất? | the council's budget for road repairs* / the council road repair budget plan / the road council repair budget || Tách bớt bằng for.
+type: Long-___ exposure to noise can damage hearing. (dài hạn) | term || long-term.
+order: Long-term / exposure / to / air / pollution / harms / the / lungs. | Tiếp xúc lâu dài với ô nhiễm không khí gây hại cho phổi.
+listen: Exactly. Widely cited, from 2019, funded by the government, and about screen time. | Exactly. Widely cited, from 2019, funded by the government, and about screen time.* / Exactly. Rarely cited, from 2019, funded by a company, and about screen time. / Exactly. Widely cited, from 2009, and about sleep. || Nghe widely cited, from 2019.

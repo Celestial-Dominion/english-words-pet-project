@@ -8,6 +8,7 @@ import { pickAhead, isAheadEligible } from "./srs-ahead";
 import { todayStr, computeStreak, longestStreak, maxComebackGap, LEECH_LAPSES, MATURE_STABILITY } from "./srs-pure";
 import { dailyQuests, questProgress, questKey, pruneQuestKeys, type QuestProgress } from "./gamify";
 import { mergeReviews, mergeDaily, mergeReads, mergeNotes, mergeGamify, mergeIdSet } from "./sync-merge";
+import { decodeGrammarRows, encodeGrammarRow, mergeGrammarRows, type GrammarRow } from "./grammar";
 
 // Re-export để phần còn lại của app vẫn import từ lib/db như trước.
 export { todayStr, computeStreak };
@@ -20,6 +21,7 @@ class EnglishWordsDB extends Dexie {
   gamify!: Table<GamifyRow, string>; // key "state" (xp + đóng băng chuỗi)
   notes!: Table<NoteRow, string>; // mẹo nhớ tự ghi (text "" = tombstone đã xoá)
   revlog!: Table<RevlogRow, number>; // nhật ký từng lượt chấm (local, nền cho tối ưu FSRS)
+  grammar!: Table<GrammarRow, string>; // tiến độ bài Ngữ pháp (1 dòng/bài — lib/grammar.ts)
 
   constructor() {
     super("english-words");
@@ -33,6 +35,8 @@ class EnglishWordsDB extends Dexie {
     this.version(3).stores({ notes: "wordId" });
     // v4: nhật ký từng lượt ôn (revlog) — nền cho tối ưu FSRS. Dữ liệu cũ giữ nguyên.
     this.version(4).stores({ revlog: "++id, wordId, at" });
+    // v5: tiến độ Ngữ pháp (đã học, điểm, lịch ôn riêng). Dữ liệu cũ giữ nguyên.
+    this.version(5).stores({ grammar: "id" });
   }
 }
 
@@ -528,11 +532,11 @@ export interface BackupData {
   notes?: NoteRow[];
   revlog?: RevlogRow[]; // nhật ký lượt chấm (nền tối ưu FSRS) — đổi máy không mất
   phonics?: string[]; // bài phát âm đã học (localStorage)
-  grammar?: string[]; // bài ngữ pháp đã học (localStorage)
+  grammar?: string[]; // tiến độ bài ngữ pháp — mỗi bài một chuỗi mã hoá (encodeGrammarRow)
 }
 
 export async function exportData(): Promise<BackupData> {
-  const [reviews, daily, reads, config, gamify, notes, revlog] = await Promise.all([
+  const [reviews, daily, reads, config, gamify, notes, revlog, grammar] = await Promise.all([
     db.reviews.toArray(),
     db.daily.toArray(),
     db.reads.toArray(),
@@ -540,6 +544,7 @@ export async function exportData(): Promise<BackupData> {
     db.gamify.toArray(),
     db.notes.toArray(),
     db.revlog.toArray(),
+    db.grammar.toArray(),
   ]);
   const local = (k: string): string[] => {
     try {
@@ -554,7 +559,7 @@ export async function exportData(): Promise<BackupData> {
     exportedAt: new Date().toISOString(),
     reviews, daily, reads, config, gamify, notes, revlog,
     phonics: local("en.phonicsDone"),
-    grammar: local("en.grammarDone"),
+    grammar: grammar.map(encodeGrammarRow),
   };
 }
 
@@ -570,7 +575,14 @@ export async function importData(
   if (!isBackupApp(data?.app) || !Array.isArray(data.reviews))
     throw new Error("Tệp sao lưu không hợp lệ (thiếu trường bắt buộc).");
   const fileReviews = data.reviews.map(reviveReview);
-  await db.transaction("rw", [db.reviews, db.daily, db.reads, db.config, db.gamify, db.notes, db.revlog], async () => {
+  const fileGrammar = Array.isArray(data.grammar) ? decodeGrammarRows(data.grammar.filter((x) => typeof x === "string")) : null;
+  await db.transaction("rw", [db.reviews, db.daily, db.reads, db.config, db.gamify, db.notes, db.revlog, db.grammar], async () => {
+    if (fileGrammar) {
+      if (mode === "replace") {
+        await db.grammar.clear();
+        await db.grammar.bulkPut(fileGrammar);
+      } else await db.grammar.bulkPut(mergeGrammarRows(await db.grammar.toArray(), fileGrammar));
+    }
     if (mode === "replace") {
       await Promise.all([db.reviews.clear(), db.daily.clear(), db.reads.clear(), db.config.clear(), db.gamify.clear(), db.notes.clear()]);
       await db.reviews.bulkPut(fileReviews);
@@ -620,7 +632,6 @@ export async function importData(
       localStorage.setItem(k, JSON.stringify(mergeIdSet(cur, ids)));
     };
     if (Array.isArray(data.phonics)) mergeLocal("en.phonicsDone", data.phonics);
-    if (Array.isArray(data.grammar)) mergeLocal("en.grammarDone", data.grammar);
   } catch {
     /* bỏ qua */
   }

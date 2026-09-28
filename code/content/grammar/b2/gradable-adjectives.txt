@@ -1,0 +1,75 @@
+=== gradable-adjectives
+sum: Tính từ thường (có mức độ): tired, good, cold, big, angry — đi với very, extremely, a bit, fairly: very tired, a bit cold. Tính từ cực độ: exhausted, amazing, excellent, terrible, freezing, huge, tiny, furious, delicious, starving — tự mang nghĩa “rất”, đi với absolutely, completely, totally: absolutely exhausted. Không nói very exhausted, cũng không nói absolutely tired. Really dùng được cho cả hai.
+form: very / extremely / a bit + tính từ thường | very tired · a bit cold
+form: absolutely / completely + tính từ cực độ | absolutely exhausted
+form: really: dùng được cho cả hai | really tired · really amazing
+form: không nói very exhausted · absolutely tired | chọn từ nhấn đúng loại
+cast: zoe mom
+bg: home-evening
+words: exhausted, amazing, delicious, freezing, tiny, furious, excellent, terrible
+gloss: starving, picky
+
+#hook
+zoe: Mom, I'm absolutely exhausted! We walked twenty kilometers today. | Mẹ ơi, con mệt rã rời! Hôm nay bọn con đi bộ hai mươi cây số. [tired]
+mom: Wow! Was it very hard? | Chà! Có vất vả lắm không con? [surprised]
+zoe: Yes, but the view was absolutely amazing. | Có ạ, nhưng phong cảnh thì tuyệt vời vô cùng. [happy]
+mom: You must be very hungry. I made your favorite soup. | Chắc con đói lắm. Mẹ nấu món súp con thích nhất đấy. [happy]
+zoe: It smells absolutely delicious! | Thơm ngon hết sảy! [happy cheer]
+> [[Very hard]], [[very hungry]]: tính từ thường, có thể nhiều hay ít, nên đi với [[very]]. Còn [[exhausted]], [[amazing]], [[delicious]] tự mang nghĩa “rất” rồi, nên đi với [[absolutely]], không đi với [[very]].
+
+#form
+th: Tính từ thường | Tính từ cực độ
+tb: tired | exhausted
+tb: good | amazing · excellent
+tb: bad | terrible · awful
+tb: cold · hot | freezing · boiling
+tb: big · small | huge · tiny
+tb: angry | furious
+> Mỗi tính từ thường có một phiên bản mạnh hơn. [[Very]], [[extremely]], [[a bit]] đi với cột trái. [[Absolutely]], [[completely]], [[totally]] đi với cột phải.
+
+#contrast
+vs: I'm very tired. | Tôi rất mệt. || very + tính từ thường
+vs: I'm absolutely exhausted. | Tôi mệt rã rời. || absolutely + tính từ cực độ
+> Không nói [[very exhausted]], cũng không nói [[absolutely tired]]. Còn [[really]] thì an toàn: dùng được cho cả hai cột, như [[really tired]], [[really exhausted]].
+
+#examples
+- It's {freezing|k} outside! Wear a coat. | Ngoài trời lạnh cóng! Mặc áo khoác vào.
+- The hotel room was {tiny|k}. | Phòng khách sạn bé tí.
+- Your English is {absolutely|k} {excellent|k}. | Tiếng Anh của bạn thật xuất sắc.
+- The test was {a bit|k} difficult. | Bài kiểm tra hơi khó.
+- He was {furious|k} when he saw the bill. | Anh ta giận điên lên khi thấy hóa đơn.
+
+#natural
+rank: best | The movie was absolutely amazing! | Bộ phim tuyệt vời vô cùng!
+rank: ok | The movie was really amazing! | Bộ phim thật sự tuyệt vời!
+rank: odd | The movie was very amazing!
+> [[Very amazing]] nghe lạ tai, dù người nghe vẫn hiểu. Với tính từ cực độ, hãy dùng [[absolutely]] hoặc [[really]].
+
+#mistakes
+x: I'm very starving. => I'm absolutely starving. | Tôi đói meo rồi. >> [[Starving]] đã là cực độ: dùng [[absolutely]] hoặc [[really]].
+x: It was absolutely cold. => It was very cold. | Trời rất lạnh. >> [[Cold]] là tính từ thường: dùng [[very]]. Hoặc nói [[absolutely freezing]].
+x: She was very furious. => She was absolutely furious. | Cô ấy giận điên người. >> [[Furious]] đã là cực độ.
+
+#dialogue
+mom: How's the soup? | Súp thế nào con? [thinking]
+zoe: It's really good, but it's a bit salty. | Ngon lắm ạ, nhưng hơi mặn một chút. [happy]
+mom: Oh no! Is it terrible? | Ôi không! Có tệ lắm không? [worried]
+zoe: No, Mom, it's absolutely fine. I'm just very picky! | Không đâu mẹ, hoàn toàn ổn mà. Chỉ là con hơi kén thôi! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Ngoài trời lạnh cóng. => It's absolutely freezing outside. | Ngoài trời lạnh cóng.
+? Nói bằng tiếng Anh: Tôi hơi mệt. => I'm a bit tired. | Tôi hơi mệt.
+
+#recap
+> Tính từ thường, như [[tired]], [[good]], [[cold]], đi với [[very]], [[a bit]], [[extremely]]. Tính từ cực độ, như [[exhausted]], [[amazing]], [[freezing]], đi với [[absolutely]], [[completely]]. Còn [[really]] thì dùng được cho cả hai.
+
+#practice
+contrast: After the marathon, I was absolutely ___. | exhausted* / tired || Absolutely + tính từ cực độ.
+contrast: The room is very ___. | small* / tiny || Very + tính từ thường.
+fill: The food was ___ delicious! | absolutely* / very / a bit || Tính từ cực độ → absolutely.
+fill: It's ___ cold today. Take a jacket. | a bit* / absolutely / completely || Tính từ thường → a bit.
+fix: The concert was very fantastic. | The concert was absolutely fantastic.* / The concert was a bit fantastic. / The concert was very fantastics. || Fantastic là cực độ → absolutely.
+choice: Từ nào dùng được với cả “tired” lẫn “exhausted”? | really* / very / absolutely || Really dùng được cho cả hai.
+type: I'm absolutely ___. I haven't eaten all day. (đói meo) | starving || Starving = cực kỳ đói.
+order: Your / English / is / absolutely / excellent. | Tiếng Anh của bạn thật xuất sắc.
+listen: It's freezing outside! Wear a coat. | It's freezing outside! Wear a coat.* / It's raining outside! Wear a coat. / It's warm outside! Don't wear a coat. || Nghe freezing.

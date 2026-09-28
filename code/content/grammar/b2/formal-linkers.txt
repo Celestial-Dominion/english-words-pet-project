@@ -1,0 +1,69 @@
+=== formal-linkers
+sum: Liên từ trang trọng nối các câu trong bài viết, bài thuyết trình, giúp người nghe theo kịp mạch ý. Thêm ý: moreover, furthermore, in addition. Kết quả: therefore, consequently, as a result. Tương phản: however, nevertheless, on the other hand. Ví dụ: for example, for instance. Thường đứng đầu câu mới, có dấu phẩy sau (It was late. Therefore, we went home), hoặc chen sau chủ ngữ giữa hai dấu phẩy (The plan, however, is expensive). Nói chuyện hằng ngày: also, so, but tự nhiên hơn.
+form: Moreover, · Furthermore, · In addition, | thêm ý
+form: Therefore, · Consequently, · As a result, | kết quả
+form: However, · Nevertheless, · On the other hand, | tương phản
+form: văn nói: also · so · but | thân mật hơn
+cast: ms-khan leo
+bg: stage
+prop: microphone x=560 back
+words: moreover, therefore, consequently, nevertheless, furthermore, cycling, instance
+gloss: lane
+
+#hook
+ms-khan: Good morning. Today I'll talk about cycling in cities. | Chào buổi sáng. Hôm nay tôi sẽ nói về việc đi xe đạp trong thành phố. [explain]
+ms-khan: First, cycling is good for your health. Moreover, it's cheap. | Trước hết, đạp xe tốt cho sức khỏe. Hơn nữa, nó lại rẻ. [explain]
+ms-khan: However, many roads are not safe. As a result, few people cycle to work. | Tuy nhiên, nhiều con đường không an toàn. Vì thế, ít người đạp xe đi làm. [explain]
+leo: So what should cities do? | Vậy các thành phố nên làm gì? [thinking]
+> Giọng thuyết trình dùng liên từ trang trọng: [[Moreover]], hơn nữa. [[However]], tuy nhiên. [[As a result]], vì thế. Chúng như những biển chỉ đường, giúp người nghe theo kịp mạch ý.
+
+#form
+th: Chức năng | Trang trọng | Thân mật
+tb: thêm ý | moreover · furthermore · in addition | also · and · plus
+tb: kết quả | therefore · consequently · as a result | so
+tb: tương phản | however · nevertheless · on the other hand | but · still
+tb: ví dụ | for example · for instance | like
+> Mỗi chức năng có một nhóm từ. Cột giữa hợp với bài viết, bài thuyết trình. Cột phải hợp với nói chuyện hằng ngày.
+f: câu trước. + [However,] + câu sau
+f2: chủ ngữ + [, however,] + động từ
+> Các liên từ này thường đứng đầu câu mới, có dấu phẩy phía sau. Chúng cũng có thể chen ngay sau chủ ngữ, nằm giữa hai dấu phẩy: [[The plan, however, is expensive]].
+
+#examples
+- The hotel was expensive. {Furthermore|c}, the service was poor. | Khách sạn đã đắt. Hơn nữa, dịch vụ lại kém.
+- He didn't study. {Consequently|c}, he failed the exam. | Anh ấy không học bài. Hậu quả là trượt kỳ thi.
+- It was raining. {Nevertheless|c}, the game continued. | Trời mưa. Dù vậy, trận đấu vẫn tiếp tục.
+- Some cities, {for example|c}, have free bikes. | Chẳng hạn, một số thành phố có xe đạp miễn phí.
+- The plan, {however|c}, is too expensive. | Tuy nhiên, kế hoạch này quá tốn kém.
+
+#natural
+rank: best | It's cheap. It's also good for you. | Nó rẻ. Lại còn tốt cho sức khỏe nữa.
+rank: ok | It's cheap. Moreover, it's good for you. | Nó rẻ. Hơn nữa, nó còn tốt cho sức khỏe.
+> Khi nói chuyện với bạn bè, [[also]], [[so]], [[but]] tự nhiên hơn. Dùng [[moreover]] hay [[consequently]] trong câu chuyện thường ngày nghe như đang đọc báo cáo.
+
+#mistakes
+x: It was late, therefore we went home. => It was late. Therefore, we went home. | Trời đã muộn. Vì vậy, chúng tôi về nhà. >> [[Therefore]] nối hai câu: dùng dấu chấm hoặc chấm phẩy trước nó, và dấu phẩy sau nó.
+x: Moreover, but the food was cold. => Moreover, the food was cold. | Hơn nữa, đồ ăn còn nguội. >> Mỗi chỗ chỉ dùng một liên từ.
+x: Although it was raining. Nevertheless, we went out. => It was raining. Nevertheless, we went out. | Trời mưa. Dù vậy, chúng tôi vẫn ra ngoài. >> [[Although]] cần đi kèm một mệnh đề chính; ở đây chỉ cần [[Nevertheless]].
+
+#dialogue
+ms-khan: Good question. First, they should build more bike lanes. | Câu hỏi hay. Trước hết, họ nên làm thêm làn đường cho xe đạp. [explain]
+ms-khan: In addition, they could offer free bikes. Therefore, more people would cycle. | Ngoài ra, họ có thể cho mượn xe đạp miễn phí. Nhờ vậy, sẽ có nhiều người đạp xe hơn. [explain]
+leo: That's a great idea. However, won't it be expensive? | Ý rất hay. Tuy nhiên, như thế có tốn kém lắm không? [thinking]
+ms-khan: Perhaps. Nevertheless, it's cheaper than building new roads. | Có thể. Dù vậy, nó vẫn rẻ hơn làm đường mới. [happy]
+
+#recall
+? Nói trang trọng bằng tiếng Anh: Giá tăng. Vì vậy, doanh số giảm. => Prices went up. As a result, sales fell. | Giá tăng. Vì vậy, doanh số giảm.
+? Nói trang trọng bằng tiếng Anh: Căn hộ rộng. Hơn nữa, nó gần trung tâm. => The apartment is big. Moreover, it's close to the center. | Căn hộ rộng. Hơn nữa, nó gần trung tâm. [ipa=close:kloʊs]
+
+#recap
+> Liên từ trang trọng: [[moreover]], [[in addition]] để thêm ý; [[therefore]], [[as a result]] cho kết quả; [[however]], [[nevertheless]] cho tương phản. Đứng đầu câu, có dấu phẩy phía sau. Còn khi nói chuyện, [[also]], [[so]], [[but]] tự nhiên hơn.
+
+#practice
+fill: The phone is cheap. ___, it has a great camera. | Moreover* / However / Therefore || Thêm ý → Moreover.
+fill: He missed the bus. ___, he was late for work. | As a result* / Moreover / However || Kết quả → As a result.
+fill: The exam was very hard. ___, most students passed. | Nevertheless* / Therefore / Furthermore || Tương phản → Nevertheless.
+fix: I was tired, therefore I went to bed. | I was tired. Therefore, I went to bed.* / I was tired, therefore, I went to bed. / I was tired therefore I went to bed. || Dấu chấm trước, dấu phẩy sau therefore.
+choice: Nói chuyện với bạn thân, câu nào tự nhiên nhất? | It's cheap, and it's also healthy.* / It's cheap. Moreover, it's healthy. / It's cheap. Furthermore, it is healthy. || Văn nói → also.
+type: Some cities, for ___, have free buses. | example / instance || For example / for instance.
+order: The / plan, / however, / is / too / expensive. | Tuy nhiên, kế hoạch này quá tốn kém.
+listen: He didn't study. Consequently, he failed the exam. | He didn't study. Consequently, he failed the exam.* / He didn't study. However, he passed the exam. / He studied hard. Consequently, he passed the exam. || Nghe consequently … failed.

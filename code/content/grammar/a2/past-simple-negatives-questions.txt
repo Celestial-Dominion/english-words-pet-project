@@ -1,0 +1,73 @@
+=== past-simple-negatives-questions
+sum: Phủ định quá khứ: didn't + động từ NGUYÊN THỂ (I didn't go, không nói didn't went). Câu hỏi: Did + chủ ngữ + nguyên thể? (Did you see it?) — trả lời Yes, I did / No, I didn't. Có từ hỏi: Where / What / When + did + chủ ngữ + nguyên thể? Riêng be dùng was / were, không đi với did.
+form: Chủ ngữ + didn't + nguyên thể | I didn't go.
+form: Did + chủ ngữ + nguyên thể? | Did you see it? — Yes, I did. / No, I didn't.
+form: Wh- + did + chủ ngữ + nguyên thể? | Where did you go?
+form: be: wasn't · Were you…? | không dùng did
+cast: mom sam
+bg: home-evening
+words: finish, homework, happen, call, arrive
+
+#hook
+mom: Sam, it's ten o'clock! Where did you go? | Sam, mười giờ rồi đấy! Con đi đâu thế? [angry]
+sam: I went to Tom's house. We studied together. | Con sang nhà Tom. Bọn con học cùng nhau ạ. [shy]
+mom: Did you finish your homework? | Con làm xong bài tập chưa? [thinking]
+sam: Yes, I did. But I didn't eat dinner. | Xong rồi ạ. Nhưng con chưa ăn tối. [sad]
+mom: Oh, Sam! | Trời ơi, Sam! [surprised]
+> Hỏi về quá khứ, tiếng Anh mượn từ [[did]]: [[Did you finish]]. Phủ định thì dùng [[didn't]]: [[I didn't eat]]. Để ý: sau [[did]] và [[didn't]], động từ trở về nguyên thể. [[Eat]], chứ không phải [[ate]].
+
+#form
+f: Chủ ngữ + [didn't] + động từ nguyên thể
+> Dấu hiệu quá khứ đã nằm trong [[didn't]] rồi, nên động từ không cần đổi nữa: [[didn't see]], không phải [[didn't saw]].
+- I {didn't|n} {see|k} him yesterday. | Hôm qua tôi không gặp anh ấy.
+- She {didn't|n} {call|k} me. | Cô ấy không gọi cho tôi.
+mv: You saw the movie . => Did you see the movie ?
+> Câu hỏi thì đặt [[Did]] lên đầu, và [[saw]] quay về [[see]]. Trả lời ngắn: [[Yes, I did]], hoặc [[No, I didn't]].
+f: [Where / What / When] + [did] + chủ ngữ + động từ nguyên thể?
+> Có từ để hỏi thì đặt nó đứng trước [[did]]. Phần còn lại giữ nguyên.
+- {Where|q} {did|a} you {go|k} last summer? | Hè năm ngoái bạn đi đâu?
+- {What|q} {did|a} she {say|k}? | Cô ấy đã nói gì?
+- {When|q} {did|a} they {arrive|k}? | Họ đến lúc nào?
+
+#contrast
+vs: Were you tired? | Bạn có mệt không? || be → Were / Was, không có did
+vs: Did you sleep well? | Bạn ngủ có ngon không? || động từ thường → Did
+> Động từ [[be]] tự làm câu hỏi được, nên không cần [[did]]. Nói [[Were you tired?]], không ai nói [[Did you be tired?]].
+
+#real
+- What {happened|k}? | Có chuyện gì vậy?
+> Một câu cực hay gặp. [[What happened?]] không có [[did]], vì chính [[what]] là cái đã xảy ra. Kiểu câu hỏi này sẽ học kỹ ở cấp sau.
+- {Did|a} you {have|k} a good time? | Bạn chơi có vui không?
+- I {didn't|n} {know|k} that! | Tôi không biết chuyện đó đấy!
+
+#mistakes
+x: I didn't went to school. => I didn't go to school. | Tôi đã không đến trường. >> Sau [[didn't]] là động từ nguyên thể: [[go]].
+x: Did you saw my keys? => Did you see my keys? | Bạn có thấy chìa khóa của tôi không? >> Sau [[Did]], động từ về nguyên thể: [[see]].
+x: Where you went yesterday? => Where did you go yesterday? | Hôm qua bạn đi đâu? >> Câu có từ để hỏi vẫn cần [[did]]: [[Where did you go?]]
+x: Did she was at home? => Was she at home? | Cô ấy có ở nhà không? >> Với [[be]], chỉ cần [[Was]] hoặc [[Were]], không thêm [[did]].
+
+#dialogue
+mom: Why didn't you call me? | Sao con không gọi cho mẹ? [worried]
+sam: My phone died. I'm sorry, Mom. | Điện thoại con hết pin. Con xin lỗi mẹ. [sad]
+mom: Did you eat anything at Tom's house? | Ở nhà Tom con có ăn gì không? [thinking]
+sam: No, I didn't. Can I have some rice now? | Không ạ. Giờ con ăn cơm được không ạ? [shy]
+mom: OK. But next time, call me! | Được. Nhưng lần sau nhớ gọi cho mẹ đấy! [nod]
+> Câu [[My phone died]] nghe hơi lạ: điện thoại “chết”, tức là hết pin. Người Mỹ nói câu này hằng ngày.
+
+#recall
+? Nói bằng tiếng Anh: Tôi không xem trận đấu. => I didn't watch the game. | Tôi không xem trận đấu.
+? Hỏi bằng tiếng Anh: Bạn đã mua gì? => What did you buy? | Bạn đã mua gì?
+
+#recap
+> Phủ định và câu hỏi của quá khứ đều nhờ [[did]]: [[didn't]] cộng nguyên thể, [[Did you]] cộng nguyên thể. Riêng [[be]] thì dùng [[was]] và [[were]].
+
+#practice
+fill: I ___ see Anna at the party. | didn't* / don't / wasn't || Quá khứ, động từ thường → didn't see.
+fill: ___ you enjoy the movie? | Did* / Were / Do || Enjoy là động từ thường, quá khứ → Did.
+fill: ___ you at home last night? | Were* / Did / Do || At home đi với be → Were.
+fix: She didn't came to class. | She didn't come to class.* / She didn't comes to class. / She not came to class. || Didn't + nguyên thể: come.
+transform: Chuyển thành câu hỏi: | They visited Hanoi. >> Did they visit Hanoi?* / Did they visited Hanoi? / Visited they Hanoi? || Did + they + visit (nguyên thể).
+type: Where ___ you go last summer? | did || Hỏi quá khứ với động từ thường → did.
+order: What / did / she / say? | Cô ấy đã nói gì?
+listen: I didn't know that! | I didn't know that!* / I don't know that. / I knew that. || Nghe didn't.
+choice: “My phone died.” nghĩa là: | Điện thoại tôi hết pin.* / Tôi làm mất điện thoại. / Tôi làm vỡ điện thoại. || Phone died = hết pin.

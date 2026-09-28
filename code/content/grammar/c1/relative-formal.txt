@@ -1,0 +1,80 @@
+=== relative-formal
+sum: Cụm quan hệ trang trọng, thay cho cả một tình huống — hay gặp trong văn bản chính sách, hợp đồng, báo cáo. whereby = theo đó, nhờ đó (a system whereby staff work from home). …, in which case = nếu vậy thì (You may be late, in which case call me); in that case thì mở đầu một câu mới. …, at which point = đúng lúc đó; …, by which time = tới lúc đó thì ĐÃ… (thường + quá khứ hoàn thành). the extent to which = mức độ mà; during which = trong thời gian đó. Those who… = những ai… (trang trọng hơn people who); whose dùng được cho vật (a company whose profits have doubled).
+form: whereby = theo đó, nhờ đó | a system whereby staff work from home
+form: …, in which case + mệnh đề | You may be late, in which case call me.
+form: …, at which point / by which time + mệnh đề | We arrived at nine, by which time the film had started.
+form: the extent to which · Those who… · whose (cho vật) | a company whose profits have doubled
+cast: mr-ross nam
+bg: service-hall
+words: scheme, extent, review, urgent, profit, refund
+gloss: whereby
+
+#hook
+mr-ross: We've introduced a system whereby staff can work from home on Fridays. | Chúng tôi đã áp dụng một chế độ theo đó nhân viên được làm ở nhà vào thứ Sáu. [explain]
+nam: Great! But what if there's an urgent meeting? | Tuyệt quá! Nhưng lỡ có cuộc họp gấp thì sao ạ? [thinking]
+mr-ross: You may be asked to come in, in which case we'll pay your travel costs. | Anh có thể được yêu cầu lên công ty, khi đó chúng tôi sẽ trả chi phí đi lại. [explain]
+nam: That sounds fair. | Nghe hợp lý đấy ạ. [happy]
+> Hai cụm quan hệ trang trọng. [[Whereby]]: theo đó, nhờ đó. [[In which case]]: nếu chuyện đó xảy ra thì. Văn bản chính sách, hợp đồng rất hay nối ý theo cách này.
+
+#form
+th: Cụm | Nghĩa
+tb: whereby | theo đó, nhờ đó
+tb: in which case | nếu vậy thì
+tb: at which point | đúng lúc đó thì
+tb: by which time | tới lúc đó thì đã…
+tb: the extent to which | mức độ mà
+tb: during which | trong thời gian đó
+> Mỗi cụm thay cho cả một tình huống vừa nhắc tới, nên người viết không phải lặp lại. Văn nói thường dùng câu đơn giản hơn, với [[if]], [[then]], [[when]].
+f: …, + [in which case / at which point / by which time] + mệnh đề
+> Ba cụm này đứng sau dấu phẩy, nối tiếp câu trước. [[Whereby]] thì đứng ngay sau danh từ: [[a system whereby]], [[an agreement whereby]].
+
+#examples
+- There's a new scheme {whereby|k} students can borrow laptops. | Có một chương trình mới theo đó sinh viên được mượn máy tính.
+- We waited for an hour, {at which point|k} we decided to leave. | Chúng tôi đợi một tiếng, đến lúc đó thì quyết định về.
+- I got there at nine, {by which time|k} the film had started. | Tôi đến lúc chín giờ, khi đó phim đã bắt đầu rồi.
+- It's hard to measure {the extent to which|k} the plan has worked. | Thật khó đo kế hoạch đã hiệu quả đến mức nào.
+
+#contrast
+vs: We waited until ten, at which point the doors opened. | Chúng tôi đợi đến mười giờ, lúc đó cửa mới mở. || at which point: đúng lúc đó
+vs: We arrived at ten, by which time the doors had closed. | Chúng tôi đến lúc mười giờ, khi đó cửa đã đóng rồi. || by which time: đã xảy ra trước lúc đó
+> [[At which point]]: việc xảy ra đúng thời điểm ấy. [[By which time]]: việc đã xong trước thời điểm ấy, nên thường đi với quá khứ hoàn thành.
+
+#real
+- {Those who|k} wish to leave early may do so. | Ai muốn về sớm thì có thể về.
+- It's a company {whose|k} profits have doubled. | Đó là một công ty có lợi nhuận tăng gấp đôi.
+> Văn trang trọng hay dùng [[Those who]] thay cho [[People who]]. Còn [[whose]] dùng được cho cả vật, không chỉ cho người: [[a company whose profits]].
+
+#natural
+rank: best | If you're late, call me. | Nếu muộn thì gọi cho tôi nhé.
+rank: ok | You may be late, in which case please call me. | Có thể bạn sẽ muộn, nếu vậy xin hãy gọi cho tôi.
+> Khi nói chuyện, câu có [[if]] đơn giản hơn. [[In which case]] hợp với email, thông báo, văn bản chính thức.
+
+#mistakes
+x: It's a system which users pay monthly. => It's a system whereby users pay monthly. | Đó là một chế độ theo đó người dùng trả tiền hằng tháng. >> Ý ở đây là “theo đó, nhờ đó”, nên dùng [[whereby]], hoặc [[in which]].
+x: I arrived at noon, by which time they already left. => I arrived at noon, by which time they had already left. | Tôi đến lúc trưa, khi đó họ đã đi mất rồi. >> [[By which time]]: việc đã xong trước, nên dùng [[had left]].
+x: You might miss the bus, in that case take a taxi. => You might miss the bus, in which case take a taxi. | Có thể bạn lỡ xe buýt, nếu vậy thì đi taxi. >> Nối tiếp sau dấu phẩy thì dùng [[in which case]]. [[In that case]] dùng để mở đầu một câu mới.
+
+#dialogue
+nam: And when does this start? | Vậy khi nào thì bắt đầu ạ? [thinking]
+mr-ross: Next month, by which time everyone will have a laptop. | Tháng sau, tới lúc đó mọi người đều sẽ có máy tính xách tay. [explain]
+nam: And if it doesn't work well? | Còn nếu không hiệu quả thì sao ạ? [worried]
+mr-ross: We'll review it in June, at which point we'll decide whether to continue. | Chúng tôi sẽ xem xét lại vào tháng Sáu, lúc đó sẽ quyết định có tiếp tục hay không. [explain]
+
+#recall
+? Viết trang trọng bằng tiếng Anh, dùng [[in which case]]: Chuyến bay có thể bị hủy, nếu vậy chúng tôi sẽ hoàn tiền. => The flight may be cancelled, in which case we will refund your money. | Chuyến bay có thể bị hủy, nếu vậy chúng tôi sẽ hoàn tiền.
+? Viết bằng tiếng Anh, dùng [[by which time]]: Chúng tôi đến lúc mười giờ, khi đó bữa tiệc đã kết thúc. => We arrived at ten, by which time the party had ended. | Chúng tôi đến lúc mười giờ, khi đó bữa tiệc đã kết thúc.
+
+#recap
+> Cụm quan hệ trang trọng thay cho cả một tình huống: [[whereby]] theo đó, [[in which case]] nếu vậy thì, [[at which point]] đúng lúc đó, [[by which time]] tới lúc đó đã, [[the extent to which]] mức độ mà. Thêm [[Those who]], và [[whose]] cho cả vật.
+
+#practice
+fill: We have a system ___ customers can return items within thirty days. | whereby* / which / in which case || Theo đó → whereby.
+fill: The train may be late, ___ we'll take a taxi. | in which case* / whereby / by which time || Nếu vậy thì → in which case.
+fill: I reached the station at six, ___ the train had left. | by which time* / at which point / whereby || Đã xong trước lúc đó → by which time.
+fix: She arrived at eight, by which time we already ate. | She arrived at eight, by which time we had already eaten.* / She arrived at eight, by which time we have already eaten. / She arrived at eight, by which time we already eating. || by which time + quá khứ hoàn thành.
+transform: Gộp hai câu, dùng at which point: | The music stopped. Then everyone went home. >> The music stopped, at which point everyone went home.* / The music stopped, at which everyone went home point. / The music stopped, which point everyone went home. || …, at which point + mệnh đề.
+choice: “It depends on the extent to which people agree.” nghĩa là: | Còn tùy vào mức độ mọi người đồng ý* / Còn tùy vào lý do mọi người đồng ý / Còn tùy vào việc ai đồng ý || the extent to which = mức độ mà.
+choice: Văn bản chính sách, câu nào phù hợp? | Those who wish to apply should email us.* / Guys who wanna apply, email us. / Anyone wanting apply email. || Those who… = những ai… (trang trọng).
+type: It's a company ___ products are sold worldwide. (mà sản phẩm của nó) | whose || whose dùng được cho vật.
+order: We / waited / for / an / hour, / at / which / point / we / left. | Chúng tôi đợi một tiếng, đến lúc đó thì về.
+listen: You may be asked to come in, in which case we'll pay your travel costs. | You may be asked to come in, in which case we'll pay your travel costs.* / You may be asked to come in, in which case we'll pay your hotel costs. / You may come in, and we'll pay your travel costs. || Nghe in which case … travel costs.

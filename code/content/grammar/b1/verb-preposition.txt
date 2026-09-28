@@ -1,0 +1,70 @@
+=== verb-preposition
+sum: Nhiều động từ đi với một giới từ cố định: wait for, look for, ask for, listen to, talk to, belong to, depend on, think about, worry about, pay for, dream of, agree with (người). Trong câu hỏi, giới từ đứng cuối: Who are you waiting for? What are you listening to? Ngược lại, vài động từ KHÔNG có giới từ dù tiếng Việt có: discuss the plan (không nói discuss about), marry someone, enter the room, call / contact someone.
+form: động từ + giới từ cố định | wait for · listen to · depend on
+form: câu hỏi: giới từ đứng cuối | Who are you waiting for?
+form: không giới từ: discuss · marry · enter · contact | We discussed the plan.
+form: agree with + người | I agree with you.
+cast: linh nam
+bg: train
+words: depend, belong, discuss, marry, contact, agree
+gloss: podcast, sushi
+
+#hook
+linh: What are you listening to? | Anh đang nghe gì thế? [thinking]
+nam: A podcast about travel. I'm thinking about going to Japan. | Một chương trình về du lịch. Tôi đang tính đi Nhật. [happy]
+linh: Nice! When? | Hay đấy! Bao giờ đi? [happy]
+nam: It depends on the price of the tickets. I'm waiting for a sale. | Còn tùy vào giá vé. Tôi đang đợi đợt giảm giá. [explain]
+> [[Listen to]], [[think about]], [[depend on]], [[wait for]]: mỗi động từ đi với một giới từ riêng. Để ý câu hỏi [[What are you listening to?]]: giới từ [[to]] nằm ở cuối câu.
+
+#form
+th: Động từ + giới từ | Nghĩa
+tb: wait for · look for · ask for | chờ · tìm · xin
+tb: listen to · talk to · belong to | nghe · nói chuyện với · thuộc về
+tb: depend on · rely on | tùy vào · dựa vào
+tb: think about · worry about | nghĩ về · lo về
+tb: pay for · apologize for | trả tiền cho · xin lỗi vì
+> Không có quy tắc chung, nên hãy học cả cụm. Và nhớ: giới từ luôn đi theo động từ của nó, kể cả khi phải đứng ở cuối câu.
+- {Who|q} are you {waiting for|k}? | Bạn đang đợi ai thế?
+- This bag {belongs to|k} my sister. | Cái túi này là của chị tôi.
+- I {agree with|k} you. | Tôi đồng ý với bạn.
+
+#contrast
+vs: We discussed the plan. | Chúng tôi đã thảo luận về kế hoạch. || discuss: không có about
+vs: We talked about the plan. | Chúng tôi đã bàn về kế hoạch. || talk: có about
+> Tiếng Việt nói “thảo luận về”, nên người Việt hay nói [[discuss about]]. Nhưng [[discuss]] đi thẳng với tân ngữ. Tương tự: [[enter the room]], [[marry someone]], [[call me]], [[contact us]], đều không có giới từ.
+
+#examples
+- She {married|k} a doctor. | Cô ấy lấy một bác sĩ.
+- Please {contact|k} us by email. | Vui lòng liên hệ với chúng tôi qua email.
+- Can I {pay for|k} this by card? | Tôi trả tiền món này bằng thẻ được không?
+- Don't {worry about|k} it. | Đừng lo về chuyện đó.
+
+#mistakes
+x: We need to discuss about the problem. => We need to discuss the problem. | Chúng ta cần thảo luận về vấn đề này. >> [[Discuss]] không có [[about]].
+x: I'm waiting you. => I'm waiting for you. | Tôi đang đợi bạn. >> Chờ ai là [[wait for]].
+x: She married with a pilot. => She married a pilot. | Cô ấy lấy một phi công. >> [[Marry]] đi thẳng với người, không có [[with]].
+x: It depends of the weather. => It depends on the weather. | Còn tùy thời tiết. >> [[Depend]] đi với [[on]].
+
+#dialogue
+linh: Have you asked your boss for a week off? | Anh đã xin sếp nghỉ một tuần chưa? [thinking]
+nam: Not yet. I'll talk to her tomorrow. | Chưa. Mai tôi sẽ nói chuyện với chị ấy. [neutral]
+linh: I'm sure she'll agree. You work so hard! | Chắc chắn chị ấy sẽ đồng ý. Anh làm việc chăm thế cơ mà! [happy]
+nam: I hope so. I'm already dreaming of sushi! | Mong là vậy. Tôi đã mơ tới sushi rồi đây! [happy]
+
+#recall
+? Hỏi bằng tiếng Anh: Bạn đang nghĩ gì vậy? => What are you thinking about? | Bạn đang nghĩ gì vậy?
+? Nói bằng tiếng Anh: Ngày mai chúng ta thảo luận kế hoạch nhé. => Let's discuss the plan tomorrow. | Ngày mai chúng ta thảo luận kế hoạch nhé.
+
+#recap
+> Nhiều động từ đi với giới từ cố định: [[wait for]], [[listen to]], [[depend on]], [[think about]]. Trong câu hỏi, giới từ đứng cuối. Và nhớ nhóm không có giới từ: [[discuss]], [[marry]], [[enter]], [[contact]].
+
+#practice
+fill: Who are you waiting ___? | for* / to / on || Wait for.
+fill: It depends ___ the weather. | on* / of / from || Depend on.
+fill: What kind of music do you listen ___? | to* / for / at || Listen to.
+fix: We discussed about the price. | We discussed the price.* / We discussed on the price. / We discussed for the price. || Discuss không có giới từ.
+fix: He wants to marry with her. | He wants to marry her.* / He wants to marry to her. / He wants marry with her. || Marry + người.
+type: This phone belongs ___ my brother. | to || Belong to.
+choice: “I agree with you.” — dùng with vì: | theo sau là người* / theo sau là một việc / không cần giới từ || Agree with + người.
+order: What / are / you / listening / to? | Bạn đang nghe gì thế?
+listen: Can I pay for this by card? | Can I pay for this by card?* / Can I pay this by cash? / Can you pay for this by card? || Nghe can I pay for.

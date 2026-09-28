@@ -1,0 +1,65 @@
+=== make-let-allowed
+sum: Make + người + nguyên thể (không to) = bắt ai làm: My mom makes me do my homework. Make còn là “làm cho”: Sad movies make me cry. Let + người + nguyên thể = cho ai làm: My parents let me go. Let me… = để tôi… (đề nghị giúp). Be allowed to + nguyên thể = được phép, thường theo quy định: We aren't allowed to use phones in class. Let không có bị động → I'm allowed to…, không nói I'm let to…
+form: make + người + nguyên thể = bắt ai làm | She made me clean my room.
+form: let + người + nguyên thể = cho ai làm | They let us play outside.
+form: be allowed to + nguyên thể = được phép | We aren't allowed to use phones.
+form: không có to sau make / let | let me go (không nói let me to go)
+cast: sam zoe
+bg: campus-gate
+words: make, let, allow, concert, rule, cry
+gloss: school night
+
+#hook
+sam: Zoe, are you coming to the concert on Friday? | Zoe, thứ sáu cậu có đi xem hòa nhạc không? [happy]
+zoe: I can't. My parents won't let me go out late on school nights. | Không được. Hôm sau phải đi học thì bố mẹ không cho tớ đi chơi khuya. [sad]
+sam: That's too bad. My mom makes me do my homework first, but then she lets me go. | Tiếc thật. Mẹ tớ bắt tớ làm bài tập trước, xong mới cho đi. [explain]
+zoe: Lucky you. And at school, we aren't even allowed to use our phones! | Sướng thế. Còn ở trường thì bọn mình còn chẳng được dùng điện thoại! [angry]
+> [[Let me go]]: cho tôi đi. [[Makes me do my homework]]: bắt tôi làm bài tập. [[Aren't allowed to use]]: không được phép dùng, theo nội quy. Để ý: sau [[make]] và [[let]], động từ không có [[to]].
+
+#form
+th: Mẫu | Nghĩa | Ví dụ
+tb: make + người + V | bắt ai làm | She made me clean my room.
+tb: let + người + V | cho ai làm | They let us play outside.
+tb: be allowed to + V | được phép | Are we allowed to take photos?
+> [[Make]] và [[let]] đi thẳng với động từ nguyên thể: [[make me clean]], [[let us play]]. Còn [[be allowed to]] thì có [[to]], và thường nói về quy định.
+
+#examples
+- My boss {made|k} me work on Sunday. | Sếp bắt tôi làm việc vào chủ nhật.
+- {Let|k} me help you with that. | Để tôi giúp bạn việc đó.
+- {You're not allowed to|n} smoke here. | Ở đây không được hút thuốc.
+- Sad movies always {make|k} me cry. | Phim buồn lúc nào cũng làm tôi khóc.
+> [[Make]] còn nghĩa là “làm cho”, như [[make me cry]], làm tôi khóc. Và [[Let me]] là cách lịch sự để đề nghị giúp ai đó.
+
+#contrast
+vs: My parents let me stay out late. | Bố mẹ cho tôi đi chơi khuya. || let: người cho phép đứng đầu câu
+vs: I'm allowed to stay out late. | Tôi được phép đi chơi khuya. || be allowed to: người được phép đứng đầu câu
+> [[Let]] không có dạng bị động. Muốn đặt người được phép lên đầu câu, hãy dùng [[be allowed to]]. Không nói [[I'm let to stay out late]].
+
+#mistakes
+x: My mom made me to clean my room. => My mom made me clean my room. | Mẹ bắt tôi dọn phòng. >> Sau [[make]] cộng người, động từ không có [[to]].
+x: Let me to explain. => Let me explain. | Để tôi giải thích. >> Sau [[let]] không có [[to]].
+x: We don't allow to use phones. => We aren't allowed to use phones. | Chúng tôi không được dùng điện thoại. >> “Được phép” là [[be allowed to]].
+
+#dialogue
+sam: What if you ask your dad? He might let you come. | Hay cậu thử hỏi bố xem? Có khi bố cho cậu đi đấy. [thinking]
+zoe: Maybe. If I finish all my homework, he might say yes. | Có thể. Nếu tớ làm xong hết bài tập, có khi bố đồng ý. [thinking]
+sam: Then let me help you with your math homework! | Vậy để tớ giúp cậu bài toán! [happy]
+zoe: Really? Thanks, Sam! | Thật à? Cảm ơn cậu, Sam! [happy cheer]
+
+#recall
+? Nói bằng tiếng Anh: Mẹ tôi bắt tôi ăn rau. => My mom makes me eat vegetables. | Mẹ tôi bắt tôi ăn rau.
+? Hỏi bằng tiếng Anh: Ở đây có được chụp ảnh không? => Are we allowed to take photos here? | Ở đây có được chụp ảnh không?
+
+#recap
+> [[Make]] cộng người cộng động từ: bắt ai làm. [[Let]] cộng người cộng động từ: cho ai làm. Cả hai đều không có [[to]]. Còn được phép theo quy định thì dùng [[be allowed to]].
+
+#practice
+fill: My parents don't let me ___ out late. | go* / to go / going || Let + người + nguyên thể.
+fill: The teacher made us ___ the test again. | take* / to take / taking || Make + người + nguyên thể.
+fill: Are we ___ to park here? | allowed* / let / made || Be allowed to.
+fix: She let me to use her phone. | She let me use her phone.* / She let me using her phone. / She let to me use her phone. || Let + người + nguyên thể.
+contrast: ___ to stay up late on weekends. | I'm allowed* / I'm let || Let không có bị động → be allowed to.
+choice: “My boss made me work late.” nghĩa là: | Sếp bắt tôi làm muộn* / Sếp cho phép tôi làm muộn / Sếp làm muộn cùng tôi || Make + người + V = bắt ai làm.
+type: ___ me help you with that bag. (Để tôi…) | Let || Let me… = để tôi…
+order: Sad / movies / always / make / me / cry. | Phim buồn lúc nào cũng làm tôi khóc.
+listen: You're not allowed to smoke here. | You're not allowed to smoke here.* / You're allowed to smoke here. / You're not allowed to stay here. || Nghe not allowed to smoke.

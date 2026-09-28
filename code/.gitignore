@@ -56,3 +56,8 @@ next-env.d.ts
 /scripts/.video-tts-cache/
 /scripts/.content-audio/
 /.english-content-state.json
+
+# ngữ pháp: cache TTS từng mảnh, mốc thời gian audio (sinh lại bằng npm run grammar:build), checkpoint sản xuất
+/scripts/.grammar-tts-cache/
+/scripts/.grammar-audio/
+/.english-grammar-state.json

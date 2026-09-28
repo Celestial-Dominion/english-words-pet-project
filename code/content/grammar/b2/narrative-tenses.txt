@@ -1,0 +1,79 @@
+=== narrative-tenses
+sum: Kể chuyện dùng bốn thì quá khứ, mỗi thì một vai. Quá khứ đơn: các sự việc chính nối tiếp (I got to my door and realized…). Quá khứ tiếp diễn: khung cảnh, việc đang dở (It was raining; I was walking home). Quá khứ hoàn thành: việc xảy ra trước mạch chuyện (I'd left my keys). Quá khứ hoàn thành tiếp diễn had been + V-ing: việc kéo dài tới một mốc quá khứ (I'd been working late). Cùng vế When I arrived, ba thì kể ba chuyện khác nhau. Chỉ lùi về quá khứ hoàn thành khi cần làm rõ thứ tự.
+form: quá khứ đơn: sự việc chính, nối tiếp | I opened the door and went in.
+form: quá khứ tiếp diễn: khung cảnh, việc đang dở | It was raining.
+form: quá khứ hoàn thành: việc xảy ra trước | I'd left my keys.
+form: had been + V-ing: kéo dài tới một mốc quá khứ | I'd been waiting for an hour when…
+cast: leo linh
+bg: cafe
+words: heavily, exhausted, realize, knock, landlord, date
+gloss: landlord
+
+#hook
+leo: You'll never believe what happened last night. | Chị sẽ không tin nổi chuyện tối qua đâu. [surprised]
+linh: Go on! | Kể đi! [happy]
+leo: It was raining heavily, and I was walking home. I'd been working late, so I was exhausted. | Trời đang mưa to, còn tôi đang đi bộ về. Tôi làm muộn nên mệt lả. [tired]
+leo: When I got to my door, I realized I'd left my keys at the office! | Đến cửa nhà, tôi mới nhận ra mình đã để quên chìa khóa ở văn phòng! [sad]
+linh: Oh no! What did you do? | Ôi không! Rồi anh làm gì? [worried]
+> Một câu chuyện ngắn dùng đủ bốn thì quá khứ. [[It was raining]], [[I was walking]]: khung cảnh. [[I'd been working late]]: việc kéo dài tới trước lúc đó. [[I got to my door]], [[I realized]]: các sự việc chính. Và [[I'd left my keys]]: việc đã xảy ra từ trước nữa.
+
+#meaning
+tl: -2.8 had left the keys | để quên chìa khóa (từ trước)
+tl: ~-2.4..-1.4 was walking home | đang đi bộ về
+tl: -1 realized | nhận ra
+tl: now | bây giờ
+> Quá khứ đơn đi theo mạch chuyện. Muốn lùi về trước mạch chuyện, dùng quá khứ hoàn thành. Muốn vẽ khung cảnh đang diễn ra, dùng tiếp diễn.
+
+#form
+th: Thì | Vai trò | Ví dụ
+tb: quá khứ đơn | sự việc chính, nối tiếp | I opened the door and went in.
+tb: quá khứ tiếp diễn | khung cảnh, việc đang dở | It was raining.
+tb: quá khứ hoàn thành | việc xảy ra trước | I had left my keys.
+tb: had been + V-ing | việc kéo dài tới một mốc | I had been working for ten hours.
+> Bốn thì, bốn vai. Người kể chuyện giỏi không lạm dụng quá khứ hoàn thành: chỉ dùng khi cần làm rõ việc nào xảy ra trước.
+f: [had been] + V-ing
+> Thì mới trong bài là quá khứ hoàn thành tiếp diễn: [[had been]] cộng [[ing]]. Nó nhấn mạnh một việc đã kéo dài bao lâu, cho tới một thời điểm trong quá khứ.
+
+#examples
+- She {had been studying|k} for hours, so her eyes were tired. | Cô ấy đã học hàng giờ liền, nên mắt mỏi nhừ.
+- They {had been dating|k} for five years when they got married. | Họ yêu nhau năm năm rồi mới cưới.
+
+#contrast
+vs: When I arrived, she left. | Tôi vừa đến thì cô ấy đi. || nối tiếp: tôi đến, rồi cô ấy đi
+vs: When I arrived, she was leaving. | Lúc tôi đến, cô ấy đang sắp đi. || đang dở
+vs: When I arrived, she had left. | Lúc tôi đến, cô ấy đã đi rồi. || xảy ra trước
+> Cùng một vế [[When I arrived]], ba thì khác nhau kể ba câu chuyện khác nhau. Đó là lý do người kể phải chọn thì thật cẩn thận.
+
+#natural
+rank: best | I got home, took a shower and went to bed. | Tôi về nhà, tắm rồi đi ngủ.
+rank: odd | I had arrived home, had taken a shower and had gone to bed.
+> Các sự việc kể đúng thứ tự thì cứ dùng quá khứ đơn. Dùng quá khứ hoàn thành cho mọi thứ làm câu chuyện nặng nề và khó theo dõi.
+
+#mistakes
+x: I was waiting for an hour when the bus finally came. => I had been waiting for an hour when the bus finally came. | Tôi đã chờ cả tiếng thì xe buýt mới tới. >> Nói việc kéo dài bao lâu tới một mốc quá khứ: [[had been waiting]].
+x: While I walked home, it started to rain. => While I was walking home, it started to rain. | Đang đi bộ về thì trời đổ mưa. >> Việc đang dở dùng quá khứ tiếp diễn.
+x: She had been knowing him for years. => She had known him for years. | Cô ấy đã quen anh ấy nhiều năm. >> [[Know]] là động từ trạng thái, không dùng dạng tiếp diễn.
+
+#dialogue
+leo: I called my landlord, but he didn't answer. He'd gone to bed. | Tôi gọi cho chủ nhà, nhưng ông ấy không nghe máy. Ông ấy đi ngủ mất rồi. [sad]
+linh: So where did you sleep? | Thế anh ngủ ở đâu? [thinking]
+leo: At my brother's place. He was watching a movie when I knocked, so he wasn't too angry. | Ở nhà anh trai. Lúc tôi gõ cửa, anh ấy đang xem phim, nên cũng không giận lắm. [happy]
+linh: What a night! | Đúng là một đêm nhớ đời! [happy]
+
+#recall
+? Kể bằng tiếng Anh: Lúc tôi gọi, cô ấy đang nấu bữa tối. => When I called, she was cooking dinner. | Lúc tôi gọi, cô ấy đang nấu bữa tối.
+? Kể bằng tiếng Anh: Tôi đã lái xe suốt sáu tiếng nên rất mệt. => I had been driving for six hours, so I was very tired. | Tôi đã lái xe suốt sáu tiếng nên rất mệt.
+
+#recap
+> Kể chuyện với bốn thì: quá khứ đơn cho mạch chuyện, tiếp diễn cho khung cảnh, hoàn thành cho việc xảy ra trước, và [[had been]] cộng [[ing]] cho việc kéo dài tới một mốc. Chỉ lùi thì khi thật sự cần làm rõ thứ tự.
+
+#practice
+contrast: When I arrived at the party, most people ___. The room was empty. | had left* / were leaving || Phòng trống → họ đã đi trước khi tôi đến.
+contrast: When I arrived at the party, people ___. The music was loud. | were dancing* / had danced || Khung cảnh đang diễn ra → were dancing.
+fill: She was tired because she ___ all day. | had been working* / was worked / has worked || Kéo dài tới mốc quá khứ → had been working.
+fill: It ___ heavily when we left the cinema. | was raining* / rained / has rained || Khung cảnh → was raining.
+fix: I was waiting for two hours when he finally arrived. | I had been waiting for two hours when he finally arrived.* / I have been waiting for two hours when he finally arrived. / I waited for two hours when he finally arrived. || Kéo dài tới mốc → had been waiting.
+choice: “When I arrived, she was leaving.” nghĩa là: | Lúc tôi đến, cô ấy đang sắp đi* / Cô ấy đã đi trước khi tôi đến / Tôi đến rồi cô ấy mới quyết định đi || Tiếp diễn = đang dở.
+type: They had been ___ (date) for five years when they got married. | dating || Had been + V-ing.
+order: I'd / been / working / late, / so / I / was / exhausted. | Tôi làm muộn nên mệt lả.
+listen: When I got to my door, I realized I'd left my keys at the office! | When I got to my door, I realized I'd left my keys at the office!* / When I got to my door, I realized I'd lost my keys at the office! / When I got to the office, I realized I'd left my keys at home! || Nghe I'd left … at the office.

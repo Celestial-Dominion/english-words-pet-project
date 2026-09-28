@@ -1,0 +1,72 @@
+=== nominal-vs-verbal
+sum: Văn danh từ hay văn động từ — chọn theo người đọc và mục đích. Văn danh từ (the implementation of the new system resulted in a reduction in costs): gọn, trừu tượng, trang trọng; hợp tiêu đề, tóm tắt, báo cáo, và khi nối ý như những “sự vật” (This decline…) — nhưng nặng, khó đọc, và dễ giấu người làm (Mistakes were made). Văn động từ (we introduced a new system, and our costs fell): rõ ai làm gì, dễ đọc; hợp giải thích, hướng dẫn, kể chuyện, lời nói. Kỹ năng C2: “gỡ” câu dày khi đọc (danh từ gốc động từ → ai làm, làm gì) và phối hợp hai lối viết. Tránh chuỗi danh từ nối bằng of (the implementation of the improvement of…).
+form: văn danh từ: gọn, trang trọng, dễ giấu người làm | The failure of the plan led to criticism.
+form: văn động từ: rõ ai làm gì, dễ đọc | The plan failed because nobody tested it.
+form: gỡ câu dày: danh từ → động từ + ai làm | the decision to close → the council decided to close
+form: phối hợp: tiêu đề, tóm tắt (danh từ) · giải thích (động từ) | After prices rose, people spent less. This decline hit small shops hardest.
+cast: ms-khan ben
+bg: office
+words: implement, summary, decline, investigate, protest, criticism
+gloss: headings
+
+#hook
+ms-khan: Your report says: the implementation of the new system resulted in a reduction in costs. | Báo cáo của anh viết: việc triển khai hệ thống mới đã đem lại sự cắt giảm chi phí. [thinking]
+ben: Is that not clear? | Như vậy không rõ ạ? [confused]
+ms-khan: It's correct, but heavy. Try: we introduced a new system, and our costs fell. | Đúng, nhưng nặng nề. Thử viết: chúng tôi đưa vào hệ thống mới, và chi phí giảm. [explain]
+ben: Oh, much easier to read. And it says who did it! | Ồ, dễ đọc hơn nhiều. Mà còn nói rõ ai làm nữa! [surprised]
+> Hai cách viết cùng một ý. Văn danh từ, như [[the implementation of]], [[a reduction in costs]]: gọn, trang trọng, nhưng nặng và giấu người làm. Văn động từ, như [[we introduced…, and our costs fell]]: rõ ai làm gì, dễ đọc hơn.
+
+#form
+th: Văn danh từ | Văn động từ
+tb: The failure of the plan… | The plan failed because…
+tb: a sharp rise in prices | prices rose sharply
+tb: the decision to close the school | the council decided to close the school
+tb: after the completion of the project | after we completed the project
+> Cột trái gói ý thành cụm danh từ, cột phải trả lại động từ và người làm. Không cột nào sai; mỗi cột hợp với một kiểu văn bản.
+f: danh từ gốc động từ → động từ + ai làm? + làm gì?
+> Khi đọc một câu học thuật dày, hãy gỡ nó: tìm danh từ gốc động từ, như [[failure]], [[decision]], [[completion]], rồi hỏi ai làm, làm gì. Câu sẽ sáng ra ngay.
+
+#examples
+- {Rising prices|k} led to lower spending. | Giá tăng khiến chi tiêu giảm.
+- {After prices rose|k}, people spent less. | Sau khi giá tăng, người ta chi tiêu ít đi.
+- {This decline|k} hit small shops hardest. | Sự sụt giảm này ảnh hưởng nặng nhất đến các cửa hàng nhỏ.
+- {The government failed to respond|k}, so people were angry. | Chính phủ không phản ứng, nên người dân rất bức xúc.
+
+#contrast
+vs: Mistakes were made in the planning of the event. | Đã có sai sót trong khâu lên kế hoạch sự kiện. || văn danh từ, bị động: giấu người chịu trách nhiệm
+vs: We made mistakes when we planned the event. | Chúng tôi đã sai khi lên kế hoạch sự kiện. || văn động từ: rõ ràng, nhận trách nhiệm
+> Văn danh từ cộng bị động có thể che mất người làm. Đôi khi đó là lựa chọn ngoại giao; nhưng khi người đọc cần biết ai chịu trách nhiệm, văn động từ trung thực hơn.
+
+#natural
+rank: best | Improving the system saved money. | Cải thiện hệ thống đã giúp tiết kiệm tiền.
+rank: odd | The implementation of the improvement of the system resulted in savings.
+> Chuỗi danh từ nối bằng [[of]] như vậy khiến câu khó hiểu. Một động từ, hay một [[V-ing]], thường là đủ.
+
+#mistakes
+x: The discussion of the problem by the team took place. => The team discussed the problem. | Nhóm đã bàn về vấn đề. >> Danh hóa thừa: dùng thẳng động từ [[discussed]], câu gọn và rõ hơn.
+x: The making of a decision was done by the manager. => The manager made a decision. | Quản lý đã đưa ra quyết định. >> Câu gốc vòng vo. Dùng động từ: [[made a decision]].
+x: A decision was made to close the library. => The council decided to close the library. | Hội đồng đã quyết định đóng cửa thư viện. >> Khi người đọc cần biết ai quyết định, hãy nêu rõ người làm.
+
+#dialogue
+ben: So should I never use nouns like that? | Vậy tôi không bao giờ nên dùng những danh từ như thế ạ? [thinking]
+ms-khan: No, they're useful. Use them in headings and summaries, like cost reduction plan. | Không, chúng có ích. Dùng cho tiêu đề và phần tóm tắt, như kế hoạch cắt giảm chi phí. [explain]
+ben: And verbs for explanations? | Còn động từ thì dùng cho phần giải thích? [thinking]
+ms-khan: Exactly. Mix both, and your readers will thank you. | Chính xác. Kết hợp cả hai, người đọc sẽ cảm ơn anh. [happy]
+
+#recall
+? Nói bằng văn động từ: Chúng tôi hoàn thành dự án muộn. => We finished the project late. | Chúng tôi hoàn thành dự án muộn.
+? Viết bằng văn danh từ, dùng [[led to]]: Việc thành phố mở rộng khiến giao thông tệ hơn. => The growth of the city led to worse traffic. | Việc thành phố mở rộng khiến giao thông tệ hơn.
+
+#recap
+> Văn danh từ gọn, trang trọng, hợp tiêu đề và tóm tắt, nhưng nặng và dễ giấu người làm. Văn động từ rõ ràng, dễ đọc, hợp giải thích và kể chuyện. Khi đọc, gỡ câu dày thành ai làm, làm gì. Khi viết, phối hợp cả hai.
+
+#practice
+choice: Câu nào dễ đọc nhất? | The plan failed because nobody tested it.* / The failure of the plan was due to the absence of testing of it. / The plan's failure's cause was no testing. || Văn động từ rõ ràng.
+choice: Tiêu đề báo cáo nên viết thế nào? | Cost reduction plan* / We are going to reduce our costs soon / How we will maybe be reducing costs || Tiêu đề: văn danh từ gọn.
+fill: After we ___ the project, we celebrated. | completed* / completion / completing of || Văn động từ: after + S + V.
+fill: The ___ of the new law caused protests. | introduction* / introduce / introduced || Văn danh từ: the + danh từ + of.
+fix: The investigation of the problem by the police was done. | The police investigated the problem.* / The police did investigation the problem. / The investigating of the problem was by police done. || Dùng thẳng động từ.
+transform: Gỡ sang văn động từ: | The government's failure to act angered people. >> The government failed to act, which angered people.* / The government failure act angered people. / The government was failure to act. || failure → failed.
+type: Rising prices ___ to lower spending. (dẫn đến) | led || led to = dẫn đến.
+order: This / decline / hit / small / shops / hardest. | Sự sụt giảm này ảnh hưởng nặng nhất đến các cửa hàng nhỏ.
+listen: It's correct, but heavy. Try: we introduced a new system, and our costs fell. | It's correct, but heavy. Try: we introduced a new system, and our costs fell.* / It's correct, but heavy. Try: we introduced a new system, and our costs rose. / It's clear and simple. We introduced a new system. || Nghe our costs fell.

@@ -1,0 +1,62 @@
+=== how-much-many
+sum: How many + danh từ số nhiều (đếm được): How many eggs? How much + danh từ không đếm được: How much milk? How much is it / are they? = bao nhiêu tiền. Trả lời bằng số hoặc a lot, a little, not much.
+form: How many + danh từ số nhiều? | How many apples do we need?
+form: How much + danh từ không đếm được? | How much water do you drink?
+form: How much is…? / How much are…? | hỏi giá
+cast: dad max
+bg: supermarket
+words: egg, milk, water, rice, bread, price
+
+#hook
+max: Dad, how many eggs do we need? | Bố ơi, mình cần bao nhiêu quả trứng ạ? [thinking]
+dad: Six eggs. | Sáu quả. [neutral]
+max: And how much milk? | Thế còn bao nhiêu sữa ạ? [thinking]
+dad: Two bottles. And some bread. | Hai chai. Thêm ít bánh mì nữa. [explain]
+> Cùng hỏi “bao nhiêu”, nhưng trứng thì [[How many]], sữa thì [[How much]]. Vì trứng đếm được từng quả, còn sữa thì không đếm được.
+
+#meaning
+vs: How many eggs? | Bao nhiêu quả trứng? || đếm được, số nhiều
+vs: How much milk? | Bao nhiêu sữa? || không đếm được
+> Đếm được là đếm từng cái: một quả trứng, hai quả trứng. Sau [[How many]] là danh từ số nhiều: [[How many eggs]]. Không đếm được là những thứ như nước, sữa, gạo, tiền: [[How much water]].
+
+#form
+th: Đếm được | Không đếm được
+tb: eggs, apples, people | milk, water, rice
+tb: How many…? | How much…?
+> Vài từ không đếm được hay gặp: [[water]], [[milk]], [[rice]], [[bread]], [[money]], [[time]]. Với chúng, dùng [[How much]].
+- {How many|q} people are in your family? | Nhà bạn có bao nhiêu người?
+- {How much|q} time do we have? | Chúng ta còn bao nhiêu thời gian?
+- {How much|q} water do you drink every day? | Mỗi ngày bạn uống bao nhiêu nước?
+
+#real
+- {How much|q} is this bag? — It's twenty dollars. | Cái túi này bao nhiêu tiền? — Hai mươi đô.
+- {How much|q} are these shoes? | Đôi giày này bao nhiêu tiền?
+> Đi mua sắm, [[How much]] còn có nghĩa là “bao nhiêu tiền”. Một món thì [[How much is…?]], nhiều món thì [[How much are…?]]
+
+#mistakes
+x: How many milk do you want? => How much milk do you want? | Bạn muốn bao nhiêu sữa? >> Sữa không đếm được, nên dùng [[How much]].
+x: How much apples do we need? => How many apples do we need? | Chúng ta cần bao nhiêu quả táo? >> Táo đếm được, nên dùng [[How many]] và danh từ số nhiều.
+x: How many child do you have? => How many children do you have? | Bạn có mấy người con? >> Sau [[How many]] là danh từ số nhiều: [[children]].
+
+#dialogue
+max: How much is this chocolate? | Thanh sô-cô-la này bao nhiêu tiền ạ? [thinking]
+dad: Three dollars. | Ba đô. [neutral]
+max: How many can I have? | Con được lấy mấy thanh ạ? [happy]
+dad: One! We don't have much money today. | Một thôi! Hôm nay mình không có nhiều tiền đâu. [shake]
+
+#recall
+? Hỏi bằng tiếng Anh: Bạn có bao nhiêu cây bút? => How many pens do you have? | Bạn có bao nhiêu cây bút?
+? Hỏi giá bằng tiếng Anh: Cái áo này bao nhiêu tiền? => How much is this shirt? | Cái áo này bao nhiêu tiền?
+
+#recap
+> Đếm được thì [[How many]] và danh từ số nhiều. Không đếm được thì [[How much]]. Và hỏi giá: [[How much is it?]]
+
+#practice
+contrast: How ___ sugar do you want? | much* / many || Sugar không đếm được → much.
+contrast: How ___ students are in your class? | many* / much || Students đếm được → many.
+fill: How much ___ these jeans? | are* / is || Jeans là số nhiều → are.
+fix: How many rice do you eat? | How much rice do you eat?* / How many rices do you eat? / How much rices do you eat? || Rice không đếm được → How much.
+choice: Hỏi giá đúng: | How much is this cake?* / How many is this cake? / How much this cake? || Hỏi giá một món → How much is…?
+order: How / many / people / are / there? | Có bao nhiêu người?
+listen: How much time do we have? | How much time do we have?* / How many times do we have? / How much time do you have? || Nghe much time.
+type: How ___ brothers do you have? | many || Brothers đếm được → many.

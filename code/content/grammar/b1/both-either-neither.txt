@@ -1,0 +1,72 @@
+=== both-either-neither
+sum: Nói về HAI thứ: both = cả hai (Both dishes look good); either = một trong hai, cái nào cũng được, hay dùng trong câu hỏi, câu phủ định (Either is fine. I don't like either of them); neither = không cái nào trong hai, đã mang nghĩa phủ định (Neither of them is spicy). Both + số nhiều; either / neither + số ít; có of thì + the / my / đại từ. Cặp: both … and …, either … or … (hoặc… hoặc…), neither … nor … (không… cũng không…, động từ khẳng định). Neither of them is (trang trọng) / are (văn nói).
+form: both (of) = cả hai | Both dishes look good.
+form: either (of) = một trong hai, cái nào cũng được | You can have either one.
+form: neither (of) = không cái nào trong hai | Neither of them is spicy.
+form: both … and · either … or · neither … nor | cặp liên từ
+cast: ana ben
+bg: restaurant
+prop: fish-dish x=820
+words: both, either, neither, dish, spicy, share
+gloss: curry, neither
+
+#hook
+ana: Both dishes look delicious. What should I order? | Cả hai món đều trông ngon. Em nên gọi món nào? [thinking]
+ben: Either is fine. The fish and the chicken are both good here. | Món nào cũng được. Cá và gà ở đây đều ngon. [happy @fish-dish]
+ana: But neither of them is spicy. I want something spicy! | Nhưng cả hai đều không cay. Em muốn ăn cay! [sad]
+ben: Then you can have either the curry or the spicy soup. | Vậy em gọi cà ri hoặc súp cay nhé. [explain]
+> Có hai lựa chọn: [[both]] là cả hai. [[Either]] là cái nào trong hai cũng được. [[Neither]] là không cái nào trong hai. Tiếng Việt nói “cả hai đều không”, tiếng Anh gói gọn trong một chữ [[neither]].
+
+#form
+th: Từ | Nghĩa | Ví dụ
+tb: both | cả hai | Both of them are here.
+tb: either | một trong hai, cái nào cũng được | You can take either bus.
+tb: neither | không cái nào trong hai | Neither answer is right.
+> [[Both]] đi với danh từ số nhiều. [[Either]] và [[neither]] đứng trước danh từ số ít: [[either bus]], [[neither answer]]. Có [[of]] thì theo sau là [[the]], [[my]], hoặc đại từ: [[both of them]], [[neither of us]].
+
+#meaning
+th: Cặp | Nghĩa | Ví dụ
+tb: both … and … | cả… lẫn… | Both Tom and Anna came.
+tb: either … or … | hoặc… hoặc… | Pay either by cash or by card.
+tb: neither … nor … | không… cũng không… | Neither Tom nor Anna came.
+> Ba cặp này nối hai thứ với nhau. [[Neither … nor]] đã mang nghĩa phủ định, nên động từ ở dạng khẳng định: [[Neither Tom nor Anna came]].
+
+#examples
+- {Both|k} my parents are teachers. | Cả bố lẫn mẹ tôi đều là giáo viên.
+- I don't like {either|k} of these shirts. | Tôi không thích cái áo nào trong hai cái này.
+- {Neither|n} of us knew the answer. | Cả hai chúng tôi đều không biết đáp án.
+- We can meet {either|k} today {or|k} tomorrow. | Chúng ta có thể gặp hôm nay hoặc ngày mai.
+
+#natural
+rank: best | Neither of them is spicy. | Cả hai món đều không cay.
+rank: ok | Neither of them are spicy. | Cả hai món đều không cay.
+> Sau [[neither of]], văn viết trang trọng dùng động từ số ít: [[is]]. Khi nói chuyện, nhiều người dùng số nhiều: [[are]]. Cả hai cách đều nghe thấy hằng ngày.
+
+#mistakes
+x: Both of them don't like coffee. => Neither of them likes coffee. | Cả hai người đều không thích cà phê. >> “Cả hai đều không” thì dùng [[neither]], tự nhiên hơn [[both … don't]].
+x: I don't like neither of them. => I don't like either of them. | Tôi không thích ai trong hai người đó. >> Đã có [[don't]] thì dùng [[either]]. Không phủ định hai lần.
+x: Neither Tom nor Anna didn't come. => Neither Tom nor Anna came. | Cả Tom lẫn Anna đều không đến. >> [[Neither … nor]] đã là phủ định, nên động từ ở dạng khẳng định.
+
+#dialogue
+ben: So, the curry or the soup? | Vậy, cà ri hay súp? [thinking]
+ana: Can I have both? | Em gọi cả hai được không? [shy]
+ben: Both? You can't eat both! | Cả hai á? Em không ăn hết được đâu! [surprised]
+ana: Then we can share. Neither of us will be hungry! | Vậy mình ăn chung. Chẳng ai trong hai ta phải đói cả! [happy]
+
+#recall
+? Nói bằng tiếng Anh: Cả anh tôi lẫn tôi đều thích bóng đá. => Both my brother and I like football. | Cả anh tôi lẫn tôi đều thích bóng đá.
+? Nói bằng tiếng Anh: Cả hai câu trả lời đều không đúng. => Neither answer is correct. | Cả hai câu trả lời đều không đúng.
+
+#recap
+> [[Both]]: cả hai. [[Either]]: một trong hai, cái nào cũng được, hay dùng trong câu hỏi và câu phủ định. [[Neither]]: không cái nào trong hai, đã mang nghĩa phủ định. Và ba cặp: [[both … and]], [[either … or]], [[neither … nor]].
+
+#practice
+fill: ___ my sisters live in Hanoi. | Both* / Either / Neither || Cả hai (khẳng định) → Both.
+fill: I don't want ___ of them. | either* / neither / both || Đã có don't → either.
+fill: ___ of us had an umbrella, so we got wet. | Neither* / Both / Either || Không ai trong hai → Neither.
+fill: You can pay ___ by cash or by card. | either* / neither / both || Either … or.
+fix: Neither Tom nor Anna didn't call. | Neither Tom nor Anna called.* / Neither Tom or Anna called. / Either Tom nor Anna called. || Neither … nor + khẳng định.
+type: ___ Tom and Anna came to the party. (Cả… lẫn…) | Both || Both … and.
+choice: “Either is fine.” nghĩa là: | Cái nào trong hai cũng được* / Cả hai đều không được / Cả hai đều tốt nhất || Either = một trong hai, cái nào cũng được.
+order: Neither / of / us / knew / the / answer. | Cả hai chúng tôi đều không biết đáp án.
+listen: We can meet either today or tomorrow. | We can meet either today or tomorrow.* / We can't meet today or tomorrow. / We can meet both today and tomorrow. || Nghe either … or.
