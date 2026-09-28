@@ -4,13 +4,16 @@
 // requestAnimationFrame đọc currentTime → câu đang nói, từ đang đọc, tư thế cảnh.
 // Luyện nói: "Nói theo" dừng sau mỗi câu cho người học nhại lại; "Nhập vai" dừng TRƯỚC lượt của vai
 // người học chọn (hiện nghĩa tiếng Việt làm gợi ý), hết giờ mới phát câu mẫu để so.
+// Đã xem: nghe hết bài thì tự đánh dấu; nút "Chưa xem ⇄ Đã xem" dưới tiêu đề đánh dấu tay (bấm tay thì lần mở này
+// thôi tự đánh dấu — vừa bỏ đánh dấu mà bài chạy hết không bị đánh dấu lại).
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import dynamic from "next/dynamic";
 import Link from "next/link";
-import { Check, Mic, Pause, Play, Repeat, RotateCcw, SkipBack, SkipForward, Users } from "lucide-react";
+import { Mic, Pause, Play, Repeat, RotateCcw, SkipBack, SkipForward, Users } from "lucide-react";
 import { loadVideo } from "@/lib/library";
 import { contentAccent, contentLevel } from "@/lib/levels";
-import { isRead, markRead } from "@/lib/db";
+import { setRead } from "@/lib/read-progress";
+import { DoneButton, useIsRead } from "@/components/done-toggle";
 import { lookupWord, loadExamplesForWords, type ExampleSentence } from "@/lib/data";
 import type { Word } from "@/lib/types";
 import type { LessonRef } from "@/lib/grammar";
@@ -59,7 +62,7 @@ export function VideoPlayer({ id, next, grammar }: { id: string; next?: NextLess
       </div>
     );
   if (!lesson) return <p className="text-sm text-muted-foreground">Đang tải…</p>;
-  return <Player lesson={lesson} nextLesson={next} grammar={grammar} />;
+  return <Player key={lesson.id} lesson={lesson} nextLesson={next} grammar={grammar} />;
 }
 
 type Practice = "off" | "shadow" | "role";
@@ -79,16 +82,13 @@ function Player({ lesson, nextLesson, grammar }: { lesson: VideoLesson; nextLess
   const [practice, setPractice] = useState<Practice>("off");
   const [role, setRole] = useState<string | null>(null);
   const [hint, setHint] = useState(false);
-  const [watched, setWatched] = useState(false);
+  const watched = useIsRead(lesson.id); // undefined = đang đọc IndexedDB
+  const manual = useRef(false); // đã bấm tay ở lần mở này → không tự đánh dấu nữa
   const [popup, setPopup] = useState<{ word: Word; examples: ExampleSentence[] } | null>(null);
   const level = contentLevel(lesson.level);
   const accent = contentAccent(lesson.level);
   const castIds = useMemo(() => Object.keys(lesson.cast), [lesson]);
   const { layers, flip, blind, toggleBlind } = useLayers(LAYERS_KEY);
-
-  useEffect(() => {
-    void isRead(lesson.id).then(setWatched);
-  }, [lesson.id]);
 
   const onFrame = useCallback((t: number) => scene.current?.update(t), []);
   // Luyện nói: "Nói theo" dừng sau mỗi câu; "Nhập vai" dừng TRƯỚC lượt của vai người học chọn.
@@ -117,8 +117,12 @@ function Player({ lesson, nextLesson, grammar }: { lesson: VideoLesson; nextLess
     [lines],
   );
   const onEnded = useCallback(() => {
-    if (!watched) void markRead(lesson.id).then(() => setWatched(true));
+    if (watched === false && !manual.current) void setRead(lesson.id, true).catch(() => {});
   }, [watched, lesson.id]);
+  const toggleWatched = () => {
+    manual.current = true;
+    void setRead(lesson.id, !watched).catch(() => {}); // ghi hỏng → banner StorageAlert (lib/db.ts)
+  };
   const { idx, hi, playing, everPlayed, ended, loop, held, rate, getTime, toggle, prev, next, seekLine, playOnce, toggleLoop, setLooping, resetGates, pause, cycleRate, audioProps, rangeProps } =
     useLessonAudio({ lines, onFrame, gate, seekGates, onEnded, rateKey: RATE_KEY, audioRef: audio, rangeRef: range, clockRef: clock });
   const hold = held && (held.kind === "shadow" || held.kind === "role") ? (held as Hold) : null;
@@ -165,15 +169,11 @@ function Player({ lesson, nextLesson, grammar }: { lesson: VideoLesson; nextLess
             <span className="tabular-nums">
               {fmtTime(duration)} · {lines.length} lượt · {castIds.length} nhân vật
             </span>
-            {watched && (
-              <span className="inline-flex items-center gap-1 text-emerald-600 dark:text-emerald-400">
-                <Check className="size-3.5" /> đã xem
-              </span>
-            )}
           </div>
           <h1 className="mt-1 text-2xl font-bold sm:text-3xl">{lesson.title.en}</h1>
           <p className="text-base text-muted-foreground">{lesson.title.vi}</p>
           <p className="mt-1 text-sm text-muted-foreground">{lesson.summary}</p>
+          <DoneButton kind="watch" done={watched === true} onToggle={toggleWatched} className="mt-2" />
         </div>
         <Link href={`/video/${lesson.level}`} className="shrink-0 text-sm font-medium text-primary hover:underline">
           ← Video

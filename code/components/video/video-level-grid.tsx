@@ -1,18 +1,14 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import Link from "next/link";
 import { Clapperboard } from "lucide-react";
 import { CONTENT_LEVELS, contentAccent } from "@/lib/levels";
-import { readIds } from "@/lib/db";
 import type { VideoMeta } from "@/lib/video";
+import { useReadSet } from "@/components/done-toggle";
 
 // Lưới cấp của Video (giống Truyện / Bài đọc): mỗi cấp = số bài + tổng thời lượng + đã xem.
 export function VideoLevelGrid({ items }: { items: VideoMeta[] }) {
-  const [seen, setSeen] = useState<Set<string>>(new Set());
-  useEffect(() => {
-    void readIds().then(setSeen);
-  }, []);
+  const seen = useReadSet();
   return (
     <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
       {CONTENT_LEVELS.map((l) => {
@@ -20,7 +16,7 @@ export function VideoLevelGrid({ items }: { items: VideoMeta[] }) {
         if (!vs.length) return null;
         const a = contentAccent(l.key);
         const min = Math.round(vs.reduce((n, v) => n + v.duration, 0) / 60);
-        const done = vs.filter((v) => seen.has(v.id)).length;
+        const done = vs.filter((v) => seen?.has(v.id)).length;
         return (
           <Link
             key={l.key}

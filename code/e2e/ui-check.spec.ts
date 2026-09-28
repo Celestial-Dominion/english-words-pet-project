@@ -32,7 +32,7 @@ test("bài đọc: mở bài KHÔNG tự đánh dấu đã đọc", async ({ pag
   const r = firstB1();
   await page.goto(`/bai-doc/b1/${r.id}`);
   await expect(page.getByRole("heading", { name: r.title_en })).toBeVisible();
-  await expect(page.getByRole("button", { name: "Đánh dấu đã đọc" })).toBeVisible();
+  await expect(page.getByRole("button", { name: "Chưa đọc", exact: true })).toHaveAttribute("aria-pressed", "false");
 });
 
 test("bài đọc: đọc tới cuối bài thì tự đánh dấu đã đọc", async ({ page }) => {
@@ -40,7 +40,7 @@ test("bài đọc: đọc tới cuối bài thì tự đánh dấu đã đọc",
   await page.goto(`/bai-doc/b1/${r.id}`);
   await expect(page.getByRole("heading", { name: r.title_en })).toBeVisible();
   await page.getByTestId("reading-end").scrollIntoViewIfNeeded();
-  await expect(page.getByRole("button", { name: /Đã đọc/ })).toBeVisible({ timeout: 5000 });
+  await expect(page.getByRole("button", { name: "Đã đọc", exact: true })).toHaveAttribute("aria-pressed", "true", { timeout: 5000 });
 });
 
 test("audio bài đọc: lần chạm tốc độ đầu tiên tăng từ 1× lên 1,25×", async ({ page }) => {

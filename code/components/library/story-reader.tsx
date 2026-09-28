@@ -1,15 +1,17 @@
 "use client";
 
 // Trang một truyện nhiều chương: nhớ chương đang đọc (đồng bộ qua progress-local), audio từng chương,
-// đọc tới cuối CHƯƠNG CUỐI mới tính đã đọc. Truyện có Video hội thoại tương ứng → thẻ dẫn sang Video.
+// đọc tới cuối CHƯƠNG CUỐI mới tính đã đọc; nút "Chưa đọc ⇄ Đã đọc" trên thanh công cụ đánh dấu tay bất cứ lúc nào
+// (bấm tay thì lần mở này thôi tự đánh dấu). Truyện có Video hội thoại tương ứng → thẻ dẫn sang Video.
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import Link from "next/link";
-import { Check, ChevronLeft, ChevronRight, Clapperboard, Library } from "lucide-react";
+import { ChevronLeft, ChevronRight, Clapperboard, Library } from "lucide-react";
 import { TOPICS, fmtMinutes, loadStory, type StoryDoc } from "@/lib/library";
 import { contentAccent, contentLevel } from "@/lib/levels";
-import { isRead, markRead } from "@/lib/db";
+import { setRead } from "@/lib/read-progress";
 import { getStoryChapter, setStoryChapter } from "@/lib/progress-local";
 import { cn } from "@/lib/utils";
+import { DoneButton, useIsRead } from "@/components/done-toggle";
 import { usePassageAudio } from "./passage-audio";
 import { FocusWords, PassageText, PassageToolbar, useWordLookup } from "./passage-view";
 import { GrammarLinks } from "@/components/video/lesson-extras";
@@ -29,13 +31,14 @@ export function StoryReader({ id, grammar }: { id: string; grammar?: LessonRef[]
   }, [id]);
   if (error) return <p className="text-sm text-destructive">Không tải được truyện. Kiểm tra kết nối rồi tải lại trang.</p>;
   if (!doc) return <p className="text-sm text-muted-foreground">Đang tải…</p>;
-  return <Reader doc={doc} grammar={grammar} />;
+  return <Reader key={doc.id} doc={doc} grammar={grammar} />;
 }
 
 function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
   const [ch, setCh] = useState(0);
   const [showVi, setShowVi] = useState(false);
-  const [read, setRead] = useState(false);
+  const read = useIsRead(doc.id); // undefined = đang đọc IndexedDB
+  const manual = useRef(false); // đã bấm tay ở lần mở này → không tự đánh dấu nữa
   const endRef = useRef<HTMLDivElement>(null);
   const chapter = doc.chapters[ch];
   const player = usePassageAudio(chapter.audio, `ss-${ch}-`);
@@ -48,25 +51,29 @@ function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
     const saved = Math.min(doc.chapters.length - 1, Math.max(0, getStoryChapter(doc.id)));
     // eslint-disable-next-line react-hooks/set-state-in-effect -- khôi phục chương đã đọc (localStorage) sau mount
     setCh(saved);
-    void isRead(doc.id).then(setRead);
   }, [doc]);
   useLayoutEffect(() => {
     window.scrollTo({ top: 0 });
   }, [ch]);
   useEffect(() => {
     const el = endRef.current;
-    if (!el || read || !last) return;
+    if (!el || read !== false || !last || manual.current) return;
     const io = new IntersectionObserver(
       ([e]) => {
-        if (!e.isIntersecting) return;
+        if (!e.isIntersecting || manual.current) return;
         io.disconnect();
-        void markRead(doc.id).then(() => setRead(true));
+        void setRead(doc.id, true).catch(() => {});
       },
       { rootMargin: "0px 0px -10% 0px" },
     );
     io.observe(el);
     return () => io.disconnect();
   }, [doc.id, read, last, ch]);
+
+  const toggleRead = () => {
+    manual.current = true;
+    void setRead(doc.id, !read).catch(() => {}); // ghi hỏng → banner StorageAlert (lib/db.ts)
+  };
 
   const go = (k: number) => {
     const n = Math.max(0, Math.min(doc.chapters.length - 1, k));
@@ -94,11 +101,6 @@ function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
               <span>
                 {doc.chapters.length} chương · {doc.words} từ · {fmtMinutes(doc.min)}
               </span>
-              {read && (
-                <span className="inline-flex items-center gap-1 text-emerald-600 dark:text-emerald-400">
-                  <Check className="size-3.5" /> đã đọc
-                </span>
-              )}
             </div>
           </div>
         </div>
@@ -130,7 +132,9 @@ function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
         onCycleRate={player.cycleRate}
         showVi={showVi}
         onToggleVi={() => setShowVi((v) => !v)}
-      />
+      >
+        <DoneButton kind="read" done={read === true} onToggle={toggleRead} className="ml-1 h-9" />
+      </PassageToolbar>
 
       <article className="rounded-3xl border bg-card p-5 shadow-sm sm:p-8">
         <div className="mb-5 border-b pb-4">

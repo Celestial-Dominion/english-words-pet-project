@@ -12,8 +12,8 @@ export default function TruyenIndex() {
         <div>
           <h1 className="text-2xl font-bold sm:text-3xl">Truyện</h1>
           <p className="mt-1 text-sm text-muted-foreground">
-            {items.length} truyện nhiều chương — đọc rộng, gặp lại từ qua nhân vật và sự kiện. Đọc tới chương cuối là tính đã đọc; mỗi
-            truyện có một video hội thoại để luyện nghe và nói.
+            {items.length} truyện nhiều chương — đọc rộng, gặp lại từ qua nhân vật và sự kiện. Đọc tới chương cuối là tự tính đã đọc
+            (hoặc tích ô tròn để đánh dấu tay); mỗi truyện có một video hội thoại để luyện nghe và nói.
           </p>
         </div>
         <Link href="/doc" className="shrink-0 text-sm font-medium text-primary hover:underline">

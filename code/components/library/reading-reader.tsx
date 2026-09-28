@@ -2,13 +2,15 @@
 
 // Trang một bài đọc: tiêu đề + thông tin → thanh công cụ (nghe cả bài, Dịch, đã đọc) → văn bản bấm-tra
 // → từ trọng tâm → series (bậc trước/sau) → bài tiếp. Mở bài KHÔNG tự đánh dấu đã đọc; đọc tới cuối
-// bài (mốc cuối vào tầm nhìn) mới đánh dấu — như app HSK.
+// bài (mốc cuối vào tầm nhìn) mới đánh dấu — như app HSK. Bấm tay "Chưa đọc ⇄ Đã đọc" thì lần mở này thôi tự
+// đánh dấu (bỏ đánh dấu lúc cuối bài đang hiện không bị đánh dấu lại ngay).
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import Link from "next/link";
-import { BookOpenText, Check, ChevronRight, Layers3 } from "lucide-react";
+import { BookOpenText, ChevronRight, Layers3 } from "lucide-react";
 import { GENRES, TOPICS, loadReading, loadReadingsIndex, fmtMinutes, type ReadingDoc, type ReadingMeta } from "@/lib/library";
 import { contentAccent, contentLevel } from "@/lib/levels";
-import { isRead, markRead } from "@/lib/db";
+import { setRead } from "@/lib/read-progress";
+import { DoneButton, useIsRead } from "@/components/done-toggle";
 import { usePassageAudio } from "./passage-audio";
 import { FocusWords, PassageText, PassageToolbar, useWordLookup } from "./passage-view";
 import { GrammarLinks } from "@/components/video/lesson-extras";
@@ -35,13 +37,13 @@ export function ReadingReader({ id, grammar }: { id: string; grammar?: LessonRef
   }, [id]);
   if (error) return <p className="text-sm text-destructive">Không tải được bài đọc. Kiểm tra kết nối rồi tải lại trang.</p>;
   if (!doc) return <p className="text-sm text-muted-foreground">Đang tải…</p>;
-  return <Reader doc={doc} next={next} grammar={grammar} />;
+  return <Reader key={doc.id} doc={doc} next={next} grammar={grammar} />;
 }
 
 function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | null; grammar?: LessonRef[] }) {
   const [showVi, setShowVi] = useState(false);
-  const [readOf, setReadOf] = useState<{ id: string; read: boolean }>({ id: doc.id, read: false });
-  const read = readOf.id === doc.id && readOf.read;
+  const read = useIsRead(doc.id); // undefined = đang đọc IndexedDB
+  const manual = useRef(false); // đã bấm tay ở lần mở này → không tự đánh dấu nữa
   const endRef = useRef<HTMLDivElement>(null);
   const player = usePassageAudio(doc.audio, "rs-");
   const lookup = useWordLookup();
@@ -52,16 +54,13 @@ function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | n
     window.scrollTo({ top: 0 });
   }, [doc.id]);
   useEffect(() => {
-    void isRead(doc.id).then((v) => setReadOf({ id: doc.id, read: v }));
-  }, [doc.id]);
-  useEffect(() => {
     const el = endRef.current;
-    if (!el || read) return;
+    if (!el || read !== false || manual.current) return;
     const io = new IntersectionObserver(
       ([e]) => {
-        if (!e.isIntersecting) return;
+        if (!e.isIntersecting || manual.current) return;
         io.disconnect();
-        void markRead(doc.id).then(() => setReadOf({ id: doc.id, read: true }));
+        void setRead(doc.id, true).catch(() => {});
       },
       { rootMargin: "0px 0px -10% 0px" },
     );
@@ -69,9 +68,9 @@ function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | n
     return () => io.disconnect();
   }, [doc.id, read]);
 
-  const toggleRead = async () => {
-    await markRead(doc.id, !read);
-    setReadOf({ id: doc.id, read: !read });
+  const toggleRead = () => {
+    manual.current = true;
+    void setRead(doc.id, !read).catch(() => {}); // ghi hỏng → banner StorageAlert (lib/db.ts)
   };
 
   return (
@@ -111,18 +110,7 @@ function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | n
         showVi={showVi}
         onToggleVi={() => setShowVi((v) => !v)}
       >
-        <button
-          type="button"
-          onClick={() => void toggleRead()}
-          aria-pressed={read}
-          aria-label={read ? "Đã đọc — bấm để bỏ đánh dấu" : "Đánh dấu đã đọc"}
-          title={read ? "Đã đọc (bấm để bỏ)" : "Đánh dấu đã đọc"}
-          className={`ml-1 inline-flex size-9 shrink-0 items-center justify-center rounded-full transition-all ${
-            read ? "bg-emerald-500 text-white shadow-sm" : "border bg-background text-muted-foreground hover:border-primary/40 hover:text-primary"
-          }`}
-        >
-          <Check className="size-4.5" strokeWidth={read ? 3 : 2} />
-        </button>
+        <DoneButton kind="read" done={read === true} onToggle={toggleRead} className="ml-1 h-9" />
       </PassageToolbar>
 
       <article className="rounded-3xl border bg-card p-5 shadow-sm sm:p-8">

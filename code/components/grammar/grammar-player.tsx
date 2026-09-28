@@ -8,7 +8,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useLiveQuery } from "dexie-react-hooks";
-import { BookOpenText, CheckCircle2, ChevronRight, Circle, Clapperboard, Library, Pause, Play, Repeat, RotateCcw, SkipBack, SkipForward, Volume2 } from "lucide-react";
+import { BookOpenText, ChevronRight, Clapperboard, Library, Pause, Play, Repeat, RotateCcw, SkipBack, SkipForward, Volume2 } from "lucide-react";
 import { audioUrlOf, cueAt, grammarDue, holdSet, isDue, isLearned, lessonHref, lessonJsonUrl, regLabels, type CorpusLink, type GrammarLesson, type LessonRef, type LessonWord } from "@/lib/grammar";
 import { grammarRow, setGrammarLearned } from "@/lib/grammar-progress";
 import { contentAccent, contentLevel } from "@/lib/levels";
@@ -24,6 +24,7 @@ import { GrammarStage, type StageHandle } from "./stage";
 import { GrammarTranscript } from "./transcript";
 import { Practice } from "./practice";
 import { preloadDialogue } from "./dialogue-scene";
+import { DoneButton } from "@/components/done-toggle";
 
 const WordDetail = dynamic(() => import("@/components/word-detail"), { ssr: false });
 const LAYERS_KEY = "en.grammarLayers";
@@ -199,15 +200,13 @@ function Player({ lesson, links }: { lesson: GrammarLesson; links: PlayerLinks }
       </div>
 
       <div className="mt-2 flex flex-wrap items-center gap-2">
-        <button
-          type="button"
-          onClick={() => void setGrammarLearned(lesson.id, !learned)}
-          className={`inline-flex h-8 items-center gap-1.5 rounded-full px-3 text-xs font-medium transition-colors ${learned ? "bg-emerald-500/15 text-emerald-700 dark:text-emerald-300" : "border text-muted-foreground hover:bg-muted"}`}
-          title={learned ? "Bỏ đánh dấu đã học" : "Đánh dấu đã học (không cần làm luyện tập)"}
-        >
-          {learned ? <CheckCircle2 className="size-4" /> : <Circle className="size-4" />}
-          {learned ? "Đã học" : "Chưa học"}
-        </button>
+        <DoneButton
+          kind="learn"
+          done={learned}
+          // ghi hỏng (riêng tư / hết quota) đã nổi banner StorageAlert ở lib/db.ts
+          onToggle={() => void setGrammarLearned(lesson.id, !learned).catch(() => {})}
+          hint="không cần làm luyện tập"
+        />
         {learned && dueAt && (
           <span className={`text-xs ${due ? "font-semibold text-amber-600" : "text-muted-foreground"}`}>
             {due ? "Đến hạn ôn — làm lại phần luyện tập" : `Ôn lại: ${dueAt.toLocaleDateString("vi-VN")}`}
