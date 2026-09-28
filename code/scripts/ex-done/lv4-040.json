@@ -1,302 +1,422 @@
 {
- "cleric": [
-  "A senior cleric led the ceremony.|Một giáo sĩ cao cấp chủ trì buổi lễ.",
-  "The cleric spoke out against the new law.|Vị giáo sĩ lên tiếng phản đối luật mới.",
-  "He trained as a cleric before becoming a teacher.|Ông ấy học làm tu sĩ trước khi trở thành giáo viên."
- ],
- "segmentation": [
-  "Better market segmentation doubled our response rate.|Phân khúc thị trường tốt hơn giúp tỷ lệ phản hồi tăng gấp đôi.",
-  "Customer segmentation starts with clean data.|Việc phân khúc khách hàng bắt đầu từ dữ liệu sạch.",
-  "The team presented a new segmentation strategy.|Nhóm trình bày chiến lược phân khúc mới."
- ],
- "confer": [
-  "The university conferred an honorary degree on her.|Trường đại học trao bằng danh dự cho bà ấy.",
-  "Let me confer with my colleagues first.|Để tôi hội ý với đồng nghiệp đã.",
-  "The title confers no real power.|Chức danh đó không trao quyền lực thật sự nào."
- ],
- "devise": [
-  "They devised a plan to cut costs by half.|Họ vạch ra kế hoạch cắt giảm một nửa chi phí.",
-  "She devised a simple system for tracking orders.|Cô ấy nghĩ ra một hệ thống đơn giản để theo dõi đơn hàng.",
-  "We need to devise a better strategy.|Chúng ta cần vạch ra chiến lược tốt hơn."
- ],
- "downturn": [
-  "The economic downturn hit small firms hardest.|Suy giảm kinh tế đánh mạnh nhất vào doanh nghiệp nhỏ.",
-  "Sales fell during last year's downturn.|Doanh số giảm trong đợt đi xuống năm ngoái.",
-  "They survived the downturn without layoffs.|Họ vượt qua giai đoạn suy giảm mà không sa thải ai."
- ],
- "dilute": [
-  "Dilute the syrup with cold water.|Pha loãng si rô với nước lạnh.",
-  "New shares would dilute existing shareholdings.|Cổ phiếu mới sẽ làm loãng tỷ lệ sở hữu hiện tại.",
-  "Too many changes dilute the message.|Quá nhiều thay đổi làm loãng thông điệp."
- ],
- "streamline": [
-  "The new software streamlines our operations.|Phần mềm mới giúp tinh gọn hoạt động của chúng tôi.",
-  "They streamlined the approval process to two steps.|Họ rút gọn quy trình duyệt còn hai bước.",
-  "Streamlining production saved millions.|Việc tinh gọn sản xuất tiết kiệm hàng triệu đô."
- ],
- "deregulation": [
-  "Deregulation of the airline industry lowered fares.|Việc nới lỏng quản lý ngành hàng không làm giảm giá vé.",
-  "Critics blame deregulation for the crisis.|Giới phê bình đổ lỗi khủng hoảng cho việc bãi bỏ quy định.",
-  "Business groups are pushing for deregulation.|Các nhóm doanh nghiệp đang thúc đẩy nới lỏng quy định."
- ],
- "cyclical": [
-  "Construction is a highly cyclical industry.|Xây dựng là ngành mang tính chu kỳ cao.",
-  "The company faces a cyclical downturn.|Công ty đối mặt với đợt suy giảm theo chu kỳ.",
-  "Sales follow a clear cyclical pattern.|Doanh số đi theo một mô hình chu kỳ rõ rệt."
- ],
- "diversify": [
-  "We diversified the portfolio to reduce risk.|Chúng tôi đa dạng hoá danh mục để giảm rủi ro.",
-  "The firm diversified into online services.|Công ty mở rộng sang mảng dịch vụ trực tuyến.",
-  "The country needs to diversify its economy.|Đất nước cần đa dạng hoá nền kinh tế."
- ],
- "intensify": [
-  "Competition intensified after the merger.|Cạnh tranh trở nên gay gắt hơn sau vụ sáp nhập.",
-  "We will intensify our efforts next quarter.|Chúng tôi sẽ đẩy mạnh nỗ lực trong quý tới.",
-  "The storm intensified overnight.|Cơn bão mạnh lên trong đêm."
- ],
- "telecommunication": [
-  "The telecommunication network covers the whole country.|Mạng viễn thông phủ khắp cả nước.",
-  "She works for a large telecommunication company.|Cô ấy làm cho một công ty viễn thông lớn.",
-  "Telecommunication services were down for hours.|Dịch vụ viễn thông ngừng hoạt động nhiều giờ."
- ],
- "buyout": [
-  "The management buyout was completed in June.|Vụ ban lãnh đạo mua lại công ty hoàn tất vào tháng Sáu.",
-  "They rejected a buyout offer from a rival.|Họ từ chối lời đề nghị mua lại từ đối thủ.",
-  "A leveraged buyout left the firm deep in debt.|Vụ mua lại bằng vốn vay khiến công ty ngập nợ."
- ],
- "deteriorate": [
-  "Working conditions deteriorated over the winter.|Điều kiện làm việc xấu đi trong mùa đông.",
-  "His health deteriorated rapidly.|Sức khoẻ ông ấy suy giảm nhanh chóng.",
-  "Relations between the two firms deteriorated.|Quan hệ giữa hai công ty xấu đi."
- ],
- "incline": [
-  "I incline towards the cheaper option.|Tôi nghiêng về phương án rẻ hơn.",
-  "She is inclined to accept the offer.|Cô ấy có xu hướng chấp nhận lời đề nghị.",
-  "The path has a steep incline near the top.|Con đường dốc đứng ở đoạn gần đỉnh."
- ],
- "peacekeeping": [
-  "The UN sent a peacekeeping force to the border.|Liên Hợp Quốc cử lực lượng gìn giữ hoà bình tới biên giới.",
-  "He served on a peacekeeping mission for a year.|Anh ấy tham gia một nhiệm vụ gìn giữ hoà bình suốt một năm.",
-  "Peacekeeping operations cost billions each year.|Các chiến dịch gìn giữ hoà bình tốn hàng tỷ đô mỗi năm."
- ],
- "unsecured": [
-  "An unsecured loan usually has a higher rate.|Khoản vay không bảo đảm thường có lãi suất cao hơn.",
-  "Unsecured creditors were paid last.|Các chủ nợ không bảo đảm được trả sau cùng.",
-  "Most credit card debt is unsecured.|Phần lớn nợ thẻ tín dụng là nợ không có bảo đảm."
- ],
- "flotation": [
-  "The company is planning a stock market flotation.|Công ty đang lên kế hoạch niêm yết cổ phiếu.",
-  "The flotation raised two billion dollars.|Đợt phát hành huy động được hai tỷ đô la.",
-  "Every passenger must wear a flotation device.|Mỗi hành khách phải mặc áo phao."
- ],
- "negotiator": [
-  "She is known as a tough negotiator.|Cô ấy nổi tiếng là nhà đàm phán cứng rắn.",
-  "The chief negotiator arrived this morning.|Trưởng đoàn đàm phán tới sáng nay.",
-  "Trade negotiators met for three days.|Các nhà đàm phán thương mại họp suốt ba ngày."
- ],
- "reformer": [
-  "He was a leading reformer in the party.|Ông ấy là nhà cải cách hàng đầu trong đảng.",
-  "Reformers want to change the tax system.|Các nhà cải cách muốn thay đổi hệ thống thuế.",
-  "The new minister is seen as a reformer.|Vị bộ trưởng mới được xem là người cải cách."
- ],
- "capitalization": [
-  "The firm's market capitalization passed ten billion.|Vốn hoá thị trường của công ty vượt mười tỷ.",
-  "Thin capitalization rules limit interest deductions.|Quy định vốn mỏng hạn chế việc khấu trừ lãi vay.",
-  "Check the capitalization of the headings.|Kiểm tra việc viết hoa ở các tiêu đề."
- ],
- "separatist": [
-  "The separatist movement gained support in the north.|Phong trào ly khai được ủng hộ ở miền bắc.",
-  "Separatist leaders refused to attend the talks.|Các thủ lĩnh ly khai từ chối dự đàm phán.",
-  "Fighting continued in the separatist region.|Giao tranh tiếp diễn ở vùng ly khai."
- ],
- "discontinue": [
-  "The company discontinued the product last year.|Công ty ngừng sản xuất sản phẩm đó năm ngoái.",
-  "They will discontinue the service in March.|Họ sẽ ngừng dịch vụ vào tháng Ba.",
-  "That model has been discontinued.|Mẫu đó đã bị ngừng bán."
- ],
- "franc": [
-  "The price was quoted in Swiss francs.|Giá được niêm yết bằng franc Thuỵ Sĩ.",
-  "The Swiss franc rose against the euro.|Đồng franc Thuỵ Sĩ tăng so với euro.",
-  "He paid two hundred francs for the room.|Ông ấy trả hai trăm franc cho căn phòng."
- ],
- "protester": [
-  "Hundreds of protesters gathered outside the office.|Hàng trăm người biểu tình tụ tập bên ngoài văn phòng.",
-  "Protesters demanded the minister resign.|Người biểu tình đòi bộ trưởng từ chức.",
-  "Police kept the protesters behind barriers.|Cảnh sát giữ người biểu tình phía sau hàng rào."
- ],
- "smuggle": [
-  "They tried to smuggle goods across the border.|Họ tìm cách buôn lậu hàng qua biên giới.",
-  "Someone smuggled a phone into the building.|Ai đó đã tuồn một chiếc điện thoại vào toà nhà.",
-  "Customs officers seized the smuggled cigarettes.|Nhân viên hải quan thu giữ số thuốc lá nhập lậu."
- ],
- "stochastic": [
-  "The model uses a stochastic process.|Mô hình sử dụng một quá trình ngẫu nhiên.",
-  "Prices are treated as a stochastic variable.|Giá được coi là một biến ngẫu nhiên.",
-  "Stochastic models handle uncertainty better.|Mô hình ngẫu nhiên xử lý tính bất định tốt hơn."
- ],
- "creditor": [
-  "The firm agreed to repay its creditors in full.|Công ty đồng ý trả đủ cho các chủ nợ.",
-  "Creditors met to discuss the restructuring.|Các chủ nợ họp để bàn về việc tái cơ cấu.",
-  "Secured creditors are paid before others.|Chủ nợ có bảo đảm được trả trước những bên khác."
- ],
- "slowdown": [
-  "The global slowdown cut demand for steel.|Đà giảm tốc toàn cầu làm giảm nhu cầu thép.",
-  "There has been a sharp slowdown in hiring.|Việc tuyển dụng chững lại rõ rệt.",
-  "Economists expect a slowdown in growth.|Các nhà kinh tế dự báo tăng trưởng chậm lại."
- ],
- "tort": [
-  "The case was brought under tort law.|Vụ kiện được đưa ra theo luật về hành vi gây thiệt hại.",
-  "Negligence is the most common tort.|Sơ suất là dạng vi phạm dân sự phổ biến nhất.",
-  "Businesses have long pushed for tort reform.|Giới doanh nghiệp từ lâu thúc đẩy cải cách luật bồi thường."
- ],
- "deduct": [
-  "Tax is deducted from your salary each month.|Thuế được khấu trừ từ lương của bạn hằng tháng.",
-  "You can deduct travel expenses.|Bạn có thể khấu trừ chi phí đi lại.",
-  "They deducted the deposit from the final bill.|Họ trừ tiền đặt cọc vào hoá đơn cuối."
- ],
- "respondent": [
-  "Most respondents said prices were too high.|Phần lớn người trả lời cho rằng giá quá cao.",
-  "Only forty percent of respondents replied.|Chỉ bốn mươi phần trăm người được hỏi trả lời.",
-  "The respondent denied the claim in court.|Bên bị đơn bác bỏ cáo buộc tại toà."
- ],
- "debtor": [
-  "The debtor missed three payments in a row.|Con nợ trễ ba kỳ thanh toán liên tiếp.",
-  "Poor debtor countries asked for relief.|Các nước nghèo mắc nợ xin được giảm nợ.",
-  "The company chases debtors every month.|Công ty đòi nợ khách hàng hằng tháng."
- ],
- "distort": [
-  "The article distorted what she actually said.|Bài báo bóp méo điều cô ấy thật sự nói.",
-  "Subsidies distort competition in the market.|Trợ cấp làm méo mó cạnh tranh trên thị trường.",
-  "The mirror distorted his face.|Chiếc gương làm méo mặt anh ấy."
- ],
- "importer": [
-  "The country is a major importer of oil.|Nước này là nhà nhập khẩu dầu lớn.",
-  "Importers face higher tariffs this year.|Các nhà nhập khẩu chịu thuế cao hơn trong năm nay.",
-  "He works for a food importer in Hanoi.|Anh ấy làm cho một công ty nhập khẩu thực phẩm ở Hà Nội."
- ],
- "handset": [
-  "The company sells millions of handsets a year.|Công ty bán hàng triệu chiếc điện thoại mỗi năm.",
-  "Handset sales fell for the third quarter.|Doanh số điện thoại giảm quý thứ ba liên tiếp.",
-  "She picked up the handset and dialed.|Bà ấy nhấc ống nghe lên và bấm số."
- ],
- "issuer": [
-  "Contact your card issuer to report the loss.|Liên hệ đơn vị phát hành thẻ để báo mất.",
-  "The bond issuer defaulted last year.|Bên phát hành trái phiếu vỡ nợ năm ngoái.",
-  "The issuer must publish audited accounts.|Bên phát hành phải công bố báo cáo đã kiểm toán."
- ],
- "omit": [
-  "He omitted one important detail.|Anh ta bỏ sót một chi tiết quan trọng.",
-  "Please do not omit your phone number.|Xin đừng bỏ trống số điện thoại.",
-  "The report omits any mention of costs.|Bản báo cáo không hề nhắc đến chi phí."
- ],
- "marketable": [
-  "The course teaches highly marketable skills.|Khoá học dạy những kỹ năng rất dễ xin việc.",
-  "They need a more marketable product.|Họ cần một sản phẩm dễ bán hơn.",
-  "The fund holds only marketable securities.|Quỹ chỉ nắm giữ chứng khoán dễ chuyển nhượng."
- ],
- "fiduciary": [
-  "Directors have a fiduciary duty to shareholders.|Ban giám đốc có nghĩa vụ uỷ thác với cổ đông.",
-  "He breached his fiduciary responsibility.|Ông ta vi phạm trách nhiệm uỷ thác của mình.",
-  "The bank acts in a fiduciary capacity.|Ngân hàng hành động với tư cách bên nhận uỷ thác."
- ],
- "macroeconomic": [
-  "Macroeconomic conditions remain difficult.|Điều kiện kinh tế vĩ mô vẫn khó khăn.",
-  "The bank sets macroeconomic policy.|Ngân hàng hoạch định chính sách kinh tế vĩ mô.",
-  "Investors watch macroeconomic data closely.|Nhà đầu tư theo dõi sát dữ liệu vĩ mô."
- ],
- "erode": [
-  "Inflation eroded the value of their savings.|Lạm phát bào mòn giá trị khoản tiết kiệm của họ.",
-  "The scandal eroded public confidence.|Vụ bê bối làm xói mòn niềm tin của công chúng.",
-  "Waves have eroded the cliff for centuries.|Sóng đã bào mòn vách đá suốt nhiều thế kỷ."
- ],
- "enforceable": [
-  "The agreement is legally enforceable.|Thoả thuận này có hiệu lực thi hành về mặt pháp lý.",
-  "Verbal promises are rarely enforceable.|Lời hứa miệng hiếm khi có thể cưỡng chế thi hành.",
-  "Without a signature the contract is not enforceable.|Không có chữ ký thì hợp đồng không thể thi hành."
- ],
- "shortfall": [
-  "The city faces a budget shortfall of $3 million.|Thành phố đối mặt với thiếu hụt ngân sách 3 triệu đô.",
-  "Higher taxes will make up the shortfall.|Thuế cao hơn sẽ bù đắp phần thiếu hụt.",
-  "A revenue shortfall forced them to cut staff.|Doanh thu hụt buộc họ phải cắt giảm nhân sự."
- ],
- "outflow": [
-  "The country saw a large capital outflow.|Nước này chứng kiến dòng vốn chảy ra lớn.",
-  "Cash outflow exceeded inflow last quarter.|Dòng tiền ra vượt dòng tiền vào trong quý trước.",
-  "The outflow of skilled workers worries the government.|Việc lao động lành nghề ra đi khiến chính phủ lo ngại."
- ],
- "outperform": [
-  "Our fund outperformed the market this year.|Quỹ của chúng tôi vượt trội so với thị trường năm nay.",
-  "The new model outperforms the old one easily.|Mẫu mới vượt trội hơn mẫu cũ một cách dễ dàng.",
-  "She consistently outperforms her targets.|Cô ấy luôn vượt chỉ tiêu."
- ],
- "restructure": [
-  "The company plans to restructure its debt.|Công ty dự định tái cơ cấu nợ.",
-  "They restructured the whole sales team.|Họ tổ chức lại toàn bộ đội bán hàng.",
-  "Restructuring will cost three hundred jobs.|Việc tái cơ cấu sẽ khiến ba trăm người mất việc."
- ],
- "stakeholder": [
-  "We consulted all the key stakeholders.|Chúng tôi tham vấn tất cả các bên liên quan chính.",
-  "Stakeholder engagement takes time.|Việc gắn kết các bên liên quan cần thời gian.",
-  "Employees are stakeholders too.|Nhân viên cũng là bên có lợi ích liên quan."
- ],
- "peso": [
-  "The Mexican peso fell sharply this week.|Đồng peso Mexico giảm mạnh trong tuần này.",
-  "The meal cost three hundred pesos.|Bữa ăn giá ba trăm peso.",
-  "Prices are shown in Philippine pesos.|Giá được hiển thị bằng peso Philippines."
- ],
- "frustrate": [
-  "Slow internet frustrates our customers.|Mạng chậm khiến khách hàng của chúng tôi bực bội.",
-  "Bad weather frustrated their efforts.|Thời tiết xấu cản trở nỗ lực của họ.",
-  "It frustrates me that nobody replies.|Tôi bực vì chẳng ai trả lời."
- ],
- "amortization": [
-  "The bank sent us an amortization schedule.|Ngân hàng gửi cho chúng tôi bảng phân bổ trả nợ.",
-  "Profit is measured before depreciation and amortization.|Lợi nhuận được tính trước khấu hao.",
-  "The amortization period is fifteen years.|Thời gian phân bổ khấu hao là mười lăm năm."
- ],
- "marketer": [
-  "A good marketer knows the customer well.|Người làm tiếp thị giỏi hiểu rõ khách hàng.",
-  "Digital marketers rely heavily on data.|Người làm tiếp thị số phụ thuộc nhiều vào dữ liệu.",
-  "Marketers target younger buyers online.|Dân tiếp thị nhắm tới người mua trẻ trên mạng."
- ],
- "entrant": [
-  "A new entrant cut prices across the market.|Một tay chơi mới hạ giá trên toàn thị trường.",
-  "The competition attracted five hundred entrants.|Cuộc thi thu hút năm trăm người dự thi.",
-  "New entrants face high start-up costs.|Đơn vị mới vào ngành đối mặt chi phí khởi sự cao."
- ],
- "oust": [
-  "Shareholders voted to oust the chief executive.|Cổ đông bỏ phiếu phế truất tổng giám đốc.",
-  "He was ousted from power after ten years.|Ông ta bị hất khỏi quyền lực sau mười năm.",
-  "The team ousted the champions in the first round.|Đội bóng loại nhà vô địch ngay vòng đầu."
- ],
- "ratify": [
-  "Parliament voted to ratify the treaty.|Quốc hội bỏ phiếu phê chuẩn hiệp ước.",
-  "Members must ratify the agreement by June.|Các thành viên phải phê chuẩn thoả thuận trước tháng Sáu.",
-  "The board formally ratified the decision.|Hội đồng chính thức thông qua quyết định."
- ],
- "repurchase": [
-  "The firm announced a share repurchase program.|Công ty công bố chương trình mua lại cổ phiếu.",
-  "They repurchased ten million shares last year.|Họ mua lại mười triệu cổ phiếu năm ngoái.",
-  "A repurchase agreement matures in seven days.|Hợp đồng mua lại đáo hạn sau bảy ngày."
- ],
- "scorecard": [
-  "The team tracks progress on a balanced scorecard.|Nhóm theo dõi tiến độ bằng bảng điểm cân bằng.",
-  "Each supplier gets a quarterly scorecard.|Mỗi nhà cung cấp nhận một bảng đánh giá hằng quý.",
-  "The scorecard shows we missed two targets.|Bảng điểm cho thấy chúng ta hụt hai chỉ tiêu."
- ],
- "deflation": [
-  "The country slipped into deflation last year.|Nước này rơi vào giảm phát năm ngoái.",
-  "Deflation makes debts harder to repay.|Giảm phát khiến việc trả nợ khó hơn.",
-  "The bank cut rates to fight deflation.|Ngân hàng hạ lãi suất để chống giảm phát."
- ],
- "worksheet": [
-  "Open the second worksheet in the file.|Mở trang tính thứ hai trong tệp.",
-  "Students completed a worksheet on fractions.|Học sinh làm phiếu bài tập về phân số.",
-  "I copied the totals into a new worksheet.|Tôi chép các số tổng sang một trang tính mới."
- ],
- "outsource": [
-  "They outsource customer support to another country.|Họ thuê ngoài dịch vụ chăm sóc khách hàng ở nước khác.",
-  "We decided to outsource payroll last year.|Chúng tôi quyết định thuê ngoài mảng lương từ năm ngoái.",
-  "Outsourcing production cut costs but hurt quality.|Thuê ngoài sản xuất giảm chi phí nhưng ảnh hưởng chất lượng."
- ]
+  "cleric": [
+    "A senior cleric led the ceremony.|Một giáo sĩ cao cấp chủ trì buổi lễ.",
+    "The cleric spoke out against the new law.|Vị giáo sĩ lên tiếng phản đối luật mới.",
+    "He trained as a cleric before becoming a teacher.|Ông ấy học làm tu sĩ trước khi trở thành giáo viên.",
+    "A radical cleric was banned from preaching.|Một giáo sĩ cực đoan bị cấm thuyết giảng.",
+    "The village cleric also served as the local judge.|Vị tu sĩ trong làng kiêm luôn chức thẩm phán địa phương."
+  ],
+  "segmentation": [
+    "Better market segmentation doubled our response rate.|Phân khúc thị trường tốt hơn giúp tỷ lệ phản hồi tăng gấp đôi.",
+    "Customer segmentation starts with clean data.|Việc phân khúc khách hàng bắt đầu từ dữ liệu sạch.",
+    "The team presented a new segmentation strategy.|Nhóm trình bày chiến lược phân khúc mới.",
+    "Segmentation helps companies target the right customers.|Phân khúc giúp công ty nhắm đúng khách hàng.",
+    "Image segmentation lets the software separate objects in a photo.|Phân đoạn ảnh cho phép phần mềm tách các vật thể trong một bức ảnh."
+  ],
+  "confer": [
+    "The university conferred an honorary degree on her.|Trường đại học trao bằng danh dự cho bà ấy.",
+    "Let me confer with my colleagues first.|Để tôi hội ý với đồng nghiệp đã.",
+    "The title confers no real power.|Chức danh đó không trao quyền lực thật sự nào.",
+    "The judges conferred briefly before announcing the winner.|Ban giám khảo hội ý nhanh trước khi công bố người thắng.",
+    "Citizenship confers certain rights and duties.|Quyền công dân mang lại những quyền lợi và nghĩa vụ nhất định."
+  ],
+  "devise": [
+    "They devised a plan to cut costs by half.|Họ vạch ra kế hoạch cắt giảm một nửa chi phí.",
+    "She devised a simple system for tracking orders.|Cô ấy nghĩ ra một hệ thống đơn giản để theo dõi đơn hàng.",
+    "We need to devise a better strategy.|Chúng ta cần vạch ra chiến lược tốt hơn.",
+    "Teachers devise games to make grammar fun.|Giáo viên nghĩ ra các trò chơi để ngữ pháp trở nên thú vị.",
+    "Engineers devised a way to store solar power at night.|Kỹ sư nghĩ ra cách lưu trữ điện mặt trời cho ban đêm."
+  ],
+  "downturn": [
+    "The economic downturn hit small firms hardest.|Suy giảm kinh tế đánh mạnh nhất vào doanh nghiệp nhỏ.",
+    "Sales fell during last year's downturn.|Doanh số giảm trong đợt đi xuống năm ngoái.",
+    "They survived the downturn without layoffs.|Họ vượt qua giai đoạn suy giảm mà không sa thải ai.",
+    "Tourism suffered a sharp downturn after the storm.|Du lịch sụt giảm mạnh sau cơn bão.",
+    "In a downturn, people cut back on eating out.|Khi kinh tế đi xuống, người ta cắt giảm ăn ngoài."
+  ],
+  "dilute": [
+    "Dilute the syrup with cold water.|Pha loãng si rô với nước lạnh.",
+    "New shares would dilute existing shareholdings.|Cổ phiếu mới sẽ làm loãng tỷ lệ sở hữu hiện tại.",
+    "Too many changes dilute the message.|Quá nhiều thay đổi làm loãng thông điệp.",
+    "The medicine must be diluted before use.|Thuốc phải được pha loãng trước khi dùng.",
+    "Adding more members could dilute the club's identity.|Thêm thành viên có thể làm phai nhạt bản sắc câu lạc bộ."
+  ],
+  "streamline": [
+    "The new software streamlines our operations.|Phần mềm mới giúp tinh gọn hoạt động của chúng tôi.",
+    "They streamlined the approval process to two steps.|Họ rút gọn quy trình duyệt còn hai bước.",
+    "Streamlining production saved millions.|Việc tinh gọn sản xuất tiết kiệm hàng triệu đô.",
+    "Hospitals want to streamline patient admissions.|Các bệnh viện muốn tinh gọn thủ tục nhập viện cho bệnh nhân.",
+    "Designers streamline train noses to cut air resistance.|Nhà thiết kế làm thuôn mũi tàu để giảm lực cản không khí."
+  ],
+  "deregulation": [
+    "Deregulation of the airline industry lowered fares.|Việc nới lỏng quản lý ngành hàng không làm giảm giá vé.",
+    "Critics blame deregulation for the crisis.|Giới phê bình đổ lỗi khủng hoảng cho việc bãi bỏ quy định.",
+    "Business groups are pushing for deregulation.|Các nhóm doanh nghiệp đang thúc đẩy nới lỏng quy định.",
+    "Energy deregulation gave customers more choice.|Việc bãi bỏ quy định trong ngành năng lượng mang lại nhiều lựa chọn hơn cho khách hàng.",
+    "Some economists warn that deregulation increases risk.|Một số nhà kinh tế cảnh báo việc nới lỏng quy định làm tăng rủi ro."
+  ],
+  "cyclical": [
+    "Construction is a highly cyclical industry.|Xây dựng là ngành mang tính chu kỳ cao.",
+    "The company faces a cyclical downturn.|Công ty đối mặt với đợt suy giảm theo chu kỳ.",
+    "Sales follow a clear cyclical pattern.|Doanh số đi theo một mô hình chu kỳ rõ rệt.",
+    "Unemployment is partly cyclical.|Thất nghiệp một phần mang tính chu kỳ.",
+    "History, some say, is cyclical rather than linear.|Có người cho rằng lịch sử mang tính chu kỳ chứ không tuyến tính."
+  ],
+  "diversify": [
+    "We diversified the portfolio to reduce risk.|Chúng tôi đa dạng hoá danh mục để giảm rủi ro.",
+    "The firm diversified into online services.|Công ty mở rộng sang mảng dịch vụ trực tuyến.",
+    "The country needs to diversify its economy.|Đất nước cần đa dạng hoá nền kinh tế.",
+    "Farmers diversify their crops to reduce risk.|Nông dân đa dạng hóa cây trồng để giảm rủi ro.",
+    "The museum wants to diversify its audience.|Bảo tàng muốn đa dạng hóa lượng khách tham quan."
+  ],
+  "intensify": [
+    "Competition intensified after the merger.|Cạnh tranh trở nên gay gắt hơn sau vụ sáp nhập.",
+    "We'll intensify our efforts next quarter.|Chúng tôi sẽ đẩy mạnh nỗ lực trong quý tới.",
+    "The storm intensified overnight.|Cơn bão mạnh lên trong đêm.",
+    "The pain intensified during the night.|Cơn đau dữ dội hơn trong đêm.",
+    "A pinch of salt intensifies the sweetness.|Một nhúm muối làm vị ngọt đậm hơn."
+  ],
+  "telecommunication": [
+    "The telecommunication network covers the whole country.|Mạng viễn thông phủ khắp cả nước.",
+    "She works for a large telecommunication company.|Cô ấy làm cho một công ty viễn thông lớn.",
+    "Telecommunication services were down for hours.|Dịch vụ viễn thông ngừng hoạt động nhiều giờ.",
+    "Satellites are vital for telecommunication.|Vệ tinh có vai trò sống còn đối với viễn thông.",
+    "He studied telecommunication engineering in Hanoi.|Anh học kỹ thuật viễn thông ở Hà Nội."
+  ],
+  "buyout": [
+    "The management buyout was completed in June.|Vụ ban lãnh đạo mua lại công ty hoàn tất vào tháng Sáu.",
+    "They rejected a buyout offer from a rival.|Họ từ chối lời đề nghị mua lại từ đối thủ.",
+    "A leveraged buyout left the firm deep in debt.|Vụ mua lại bằng vốn vay khiến công ty ngập nợ.",
+    "Workers accepted a buyout and left early.|Công nhân chấp nhận gói trợ cấp thôi việc và nghỉ sớm.",
+    "A buyout firm purchased the chain for two billion.|Một quỹ đầu tư mua lại đã thâu tóm chuỗi cửa hàng với giá hai tỷ."
+  ],
+  "deteriorate": [
+    "Working conditions deteriorated over the winter.|Điều kiện làm việc xấu đi trong mùa đông.",
+    "His health deteriorated rapidly.|Sức khoẻ ông ấy suy giảm nhanh chóng.",
+    "Relations between the two firms deteriorated.|Quan hệ giữa hai công ty xấu đi.",
+    "Paintings can deteriorate in damp rooms.|Tranh có thể bị xuống cấp trong phòng ẩm.",
+    "If nothing changes, the situation will deteriorate.|Nếu không có gì thay đổi, tình hình sẽ xấu đi."
+  ],
+  "incline": [
+    "I incline toward the cheaper option.|Tôi nghiêng về phương án rẻ hơn.",
+    "She's inclined to accept the offer.|Cô ấy có xu hướng chấp nhận lời đề nghị.",
+    "The path has a steep incline near the top.|Con đường dốc đứng ở đoạn gần đỉnh.",
+    "The runners slowed on the incline.|Những người chạy chậm lại ở đoạn dốc.",
+    "He inclined his head politely.|Anh khẽ nghiêng đầu lịch sự."
+  ],
+  "peacekeeping": [
+    "The UN sent a peacekeeping force to the border.|Liên Hợp Quốc cử lực lượng gìn giữ hoà bình tới biên giới.",
+    "He served on a peacekeeping mission for a year.|Anh ấy tham gia một nhiệm vụ gìn giữ hoà bình suốt một năm.",
+    "Peacekeeping operations cost billions each year.|Các chiến dịch gìn giữ hoà bình tốn hàng tỷ đô mỗi năm.",
+    "Peacekeeping troops protected the refugee camp.|Binh sĩ gìn giữ hòa bình bảo vệ trại tị nạn.",
+    "Vietnam sends doctors on UN peacekeeping missions.|Việt Nam cử bác sĩ tham gia các phái bộ gìn giữ hòa bình của Liên Hợp Quốc."
+  ],
+  "unsecured": [
+    "An unsecured loan usually has a higher rate.|Khoản vay không bảo đảm thường có lãi suất cao hơn.",
+    "Unsecured creditors were paid last.|Các chủ nợ không bảo đảm được trả sau cùng.",
+    "Most credit card debt is unsecured.|Phần lớn nợ thẻ tín dụng là nợ không có bảo đảm.",
+    "The window was left unsecured all night.|Cửa sổ để không khóa suốt đêm.",
+    "Unsecured Wi-Fi networks are easy to hack.|Mạng Wi-Fi không bảo mật rất dễ bị tấn công."
+  ],
+  "flotation": [
+    "The company is planning a stock market flotation.|Công ty đang lên kế hoạch niêm yết cổ phiếu.",
+    "The flotation raised two billion dollars.|Đợt phát hành huy động được hai tỷ đô la.",
+    "Every passenger must wear a flotation device.|Mỗi hành khách phải mặc áo phao.",
+    "Flotation tanks let you float in salty water.|Bể nổi cho phép bạn nổi lềnh bềnh trong nước muối.",
+    "The firm postponed its flotation until markets calmed down.|Công ty hoãn việc niêm yết cho đến khi thị trường lắng dịu."
+  ],
+  "negotiator": [
+    "She's known as a tough negotiator.|Cô ấy nổi tiếng là nhà đàm phán cứng rắn.",
+    "The chief negotiator arrived this morning.|Trưởng đoàn đàm phán tới sáng nay.",
+    "Trade negotiators met for three days.|Các nhà đàm phán thương mại họp suốt ba ngày.",
+    "Hostage negotiators kept the man talking for hours.|Các nhà đàm phán giải cứu con tin giữ người đàn ông nói chuyện suốt nhiều giờ.",
+    "A good negotiator knows when to walk away.|Nhà đàm phán giỏi biết khi nào nên rút lui."
+  ],
+  "reformer": [
+    "He was a leading reformer in the party.|Ông ấy là nhà cải cách hàng đầu trong đảng.",
+    "Reformers want to change the tax system.|Các nhà cải cách muốn thay đổi hệ thống thuế.",
+    "The new minister is seen as a reformer.|Vị bộ trưởng mới được xem là người cải cách.",
+    "Social reformers fought to end child labor.|Các nhà cải cách xã hội đấu tranh chấm dứt lao động trẻ em.",
+    "The young reformer faced strong opposition.|Nhà cải cách trẻ vấp phải sự phản đối mạnh mẽ."
+  ],
+  "capitalization": [
+    "The firm's market capitalization passed ten billion.|Vốn hoá thị trường của công ty vượt mười tỷ.",
+    "Thin capitalization rules limit interest deductions.|Quy định vốn mỏng hạn chế việc khấu trừ lãi vay.",
+    "Check the capitalization of the headings.|Kiểm tra việc viết hoa ở các tiêu đề.",
+    "Proper nouns need capitalization.|Danh từ riêng phải viết hoa.",
+    "The bank's capitalization is strong enough to survive a crisis.|Vốn của ngân hàng đủ mạnh để vượt qua khủng hoảng."
+  ],
+  "separatist": [
+    "The separatist movement gained support in the north.|Phong trào ly khai được ủng hộ ở miền bắc.",
+    "Separatist leaders refused to attend the talks.|Các thủ lĩnh ly khai từ chối dự đàm phán.",
+    "Fighting continued in the separatist region.|Giao tranh tiếp diễn ở vùng ly khai.",
+    "The separatists want a referendum on independence.|Những người ly khai muốn tổ chức trưng cầu dân ý về độc lập.",
+    "In the regional election, separatist parties won a third of the seats.|Trong cuộc bầu cử cấp vùng, các đảng ly khai giành được một phần ba số ghế."
+  ],
+  "discontinue": [
+    "The company discontinued the product last year.|Công ty ngừng sản xuất sản phẩm đó năm ngoái.",
+    "They'll discontinue the service in March.|Họ sẽ ngừng dịch vụ vào tháng Ba.",
+    "That model has been discontinued.|Mẫu đó đã bị ngừng bán.",
+    "The airline will discontinue flights to the island.|Hãng hàng không sẽ ngừng các chuyến bay tới hòn đảo.",
+    "The bus route was discontinued for lack of passengers.|Tuyến xe buýt bị ngừng vì thiếu hành khách."
+  ],
+  "franc": [
+    "The price was quoted in Swiss francs.|Giá được niêm yết bằng franc Thuỵ Sĩ.",
+    "The Swiss franc rose against the euro.|Đồng franc Thuỵ Sĩ tăng so với euro.",
+    "He paid two hundred francs for the room.|Ông ấy trả hai trăm franc cho căn phòng.",
+    "France replaced the franc with the euro in 2002.|Pháp thay đồng franc bằng đồng euro năm 2002.",
+    "Several African countries still use the CFA franc.|Một số nước châu Phi vẫn dùng đồng franc CFA."
+  ],
+  "protester": [
+    "Hundreds of protesters gathered outside the office.|Hàng trăm người biểu tình tụ tập bên ngoài văn phòng.",
+    "Protesters demanded the minister resign.|Người biểu tình đòi bộ trưởng từ chức.",
+    "Police kept the protesters behind barriers.|Cảnh sát giữ người biểu tình phía sau hàng rào.",
+    "A protester climbed onto the statue with a banner.|Một người biểu tình trèo lên bức tượng với tấm băng rôn.",
+    "Each protester carried a candle.|Mỗi người biểu tình cầm một ngọn nến."
+  ],
+  "smuggle": [
+    "They tried to smuggle goods across the border.|Họ tìm cách buôn lậu hàng qua biên giới.",
+    "Someone smuggled a phone into the building.|Ai đó đã tuồn một chiếc điện thoại vào toà nhà.",
+    "Customs officers seized the smuggled cigarettes.|Nhân viên hải quan thu giữ số thuốc lá nhập lậu.",
+    "The kids smuggled a puppy into their bedroom.|Bọn trẻ lén mang một chú cún vào phòng ngủ.",
+    "Gangs smuggle wildlife across borders.|Các băng nhóm buôn lậu động vật hoang dã qua biên giới."
+  ],
+  "stochastic": [
+    "The model uses a stochastic process.|Mô hình sử dụng một quá trình ngẫu nhiên.",
+    "Prices are treated as a stochastic variable.|Giá được coi là một biến ngẫu nhiên.",
+    "Stochastic models handle uncertainty better.|Mô hình ngẫu nhiên xử lý tính bất định tốt hơn.",
+    "Forecasters now run dozens of stochastic simulations at once.|Các nhà dự báo giờ chạy hàng chục mô phỏng ngẫu nhiên cùng lúc.",
+    "Gene mutations are partly stochastic events.|Đột biến gen một phần là những sự kiện ngẫu nhiên."
+  ],
+  "creditor": [
+    "The firm agreed to repay its creditors in full.|Công ty đồng ý trả đủ cho các chủ nợ.",
+    "Creditors met to discuss the restructuring.|Các chủ nợ họp để bàn về việc tái cơ cấu.",
+    "Secured creditors are paid before others.|Chủ nợ có bảo đảm được trả trước những bên khác.",
+    "The largest creditor refused the deal.|Chủ nợ lớn nhất từ chối thỏa thuận.",
+    "As a creditor, the bank can seize the house.|Là bên cho vay, ngân hàng có quyền thu giữ ngôi nhà."
+  ],
+  "slowdown": [
+    "The global slowdown cut demand for steel.|Đà giảm tốc toàn cầu làm giảm nhu cầu thép.",
+    "There's been a sharp slowdown in hiring.|Việc tuyển dụng chững lại rõ rệt.",
+    "Economists expect a slowdown in growth.|Các nhà kinh tế dự báo tăng trưởng chậm lại.",
+    "A slowdown on the highway made us late.|Xe cộ ùn ứ trên cao tốc khiến chúng tôi đến muộn.",
+    "Workers staged a slowdown instead of a strike.|Công nhân lãn công thay vì đình công."
+  ],
+  "tort": [
+    "The case was brought under tort law.|Vụ kiện được đưa ra theo luật về hành vi gây thiệt hại.",
+    "Negligence is the most common tort.|Sơ suất là dạng vi phạm dân sự phổ biến nhất.",
+    "Businesses have long pushed for tort reform.|Giới doanh nghiệp từ lâu thúc đẩy cải cách luật bồi thường.",
+    "Trespass can be a tort as well as a crime.|Xâm phạm đất đai có thể vừa là vi phạm dân sự vừa là tội hình sự.",
+    "A tort gives the injured party the right to sue for damages.|Hành vi gây thiệt hại cho phép bên bị hại kiện đòi bồi thường."
+  ],
+  "deduct": [
+    "Tax is deducted from your salary each month.|Thuế được khấu trừ từ lương của bạn hằng tháng.",
+    "You can deduct travel expenses.|Bạn có thể khấu trừ chi phí đi lại.",
+    "They deducted the deposit from the final bill.|Họ trừ tiền đặt cọc vào hoá đơn cuối.",
+    "Points are deducted for late homework.|Bài tập nộp muộn sẽ bị trừ điểm.",
+    "The bank deducts a small fee each month.|Ngân hàng khấu trừ một khoản phí nhỏ mỗi tháng."
+  ],
+  "respondent": [
+    "Most respondents said prices were too high.|Phần lớn người trả lời cho rằng giá quá cao.",
+    "Only forty percent of respondents replied.|Chỉ bốn mươi phần trăm người được hỏi trả lời.",
+    "The respondent denied the claim in court.|Bên bị đơn bác bỏ cáo buộc tại toà.",
+    "Respondents could choose more than one answer.|Người trả lời có thể chọn nhiều hơn một đáp án.",
+    "One respondent wrote a long comment about noise.|Một người trả lời viết một bình luận dài về tiếng ồn."
+  ],
+  "debtor": [
+    "The debtor missed three payments in a row.|Con nợ trễ ba kỳ thanh toán liên tiếp.",
+    "Poor debtor countries asked for relief.|Các nước nghèo mắc nợ xin được giảm nợ.",
+    "The company chases debtors every month.|Công ty đòi nợ khách hàng hằng tháng.",
+    "In the past, debtors could be sent to prison.|Ngày xưa, con nợ có thể bị tống vào tù.",
+    "The debtor agreed to a new payment plan.|Con nợ đồng ý với kế hoạch trả nợ mới."
+  ],
+  "distort": [
+    "The article distorted what she actually said.|Bài báo bóp méo điều cô ấy thật sự nói.",
+    "Subsidies distort competition in the market.|Trợ cấp làm méo mó cạnh tranh trên thị trường.",
+    "The mirror distorted his face.|Chiếc gương làm méo mặt anh ấy.",
+    "Heat can distort plastic.|Nhiệt có thể làm biến dạng nhựa.",
+    "Cheap speakers distort the sound at high volume.|Loa rẻ tiền làm méo tiếng khi mở to."
+  ],
+  "importer": [
+    "The country is a major importer of oil.|Nước này là nhà nhập khẩu dầu lớn.",
+    "Importers face higher tariffs this year.|Các nhà nhập khẩu chịu thuế cao hơn trong năm nay.",
+    "He works for a food importer in Hanoi.|Anh ấy làm cho một công ty nhập khẩu thực phẩm ở Hà Nội.",
+    "Japan is a net importer of food.|Nhật Bản là nước nhập khẩu ròng lương thực.",
+    "The importer paid customs duty on the shipment.|Nhà nhập khẩu đóng thuế hải quan cho lô hàng."
+  ],
+  "handset": [
+    "The company sells millions of handsets a year.|Công ty bán hàng triệu chiếc điện thoại mỗi năm.",
+    "Handset sales fell for the third quarter.|Doanh số điện thoại giảm quý thứ ba liên tiếp.",
+    "She picked up the handset and dialed.|Bà ấy nhấc ống nghe lên và bấm số.",
+    "The office replaced all its old handsets.|Văn phòng thay toàn bộ điện thoại bàn cũ.",
+    "The new handset has a better camera.|Chiếc điện thoại mới có camera tốt hơn."
+  ],
+  "issuer": [
+    "Contact your card issuer to report the loss.|Liên hệ đơn vị phát hành thẻ để báo mất.",
+    "The bond issuer defaulted last year.|Bên phát hành trái phiếu vỡ nợ năm ngoái.",
+    "The issuer must publish audited accounts.|Bên phát hành phải công bố báo cáo đã kiểm toán.",
+    "Credit card issuers make money from interest and fees.|Các đơn vị phát hành thẻ tín dụng kiếm tiền từ lãi và phí.",
+    "Each issuer sets its own interest rate.|Mỗi bên phát hành tự đặt lãi suất riêng."
+  ],
+  "omit": [
+    "He omitted one important detail.|Anh ta bỏ sót một chi tiết quan trọng.",
+    "Please don't omit your phone number.|Xin đừng bỏ trống số điện thoại.",
+    "The report omits any mention of costs.|Bản báo cáo không hề nhắc đến chi phí.",
+    "The recipe omits salt, which is odd.|Công thức bỏ qua muối, thật lạ.",
+    "You can omit the last step if you're short of time.|Bạn có thể bỏ bước cuối nếu không đủ thời gian."
+  ],
+  "marketable": [
+    "The course teaches highly marketable skills.|Khoá học dạy những kỹ năng rất dễ xin việc.",
+    "They need a more marketable product.|Họ cần một sản phẩm dễ bán hơn.",
+    "The fund holds only marketable securities.|Quỹ chỉ nắm giữ chứng khoán dễ chuyển nhượng.",
+    "Fluency in Chinese is a marketable skill.|Thông thạo tiếng Trung là một kỹ năng dễ tìm việc.",
+    "The farmers only harvest marketable fruit.|Nông dân chỉ thu hoạch những trái đủ chuẩn để bán."
+  ],
+  "fiduciary": [
+    "Directors have a fiduciary duty to shareholders.|Ban giám đốc có nghĩa vụ uỷ thác với cổ đông.",
+    "He breached his fiduciary responsibility.|Ông ta vi phạm trách nhiệm uỷ thác của mình.",
+    "The bank acts in a fiduciary capacity.|Ngân hàng hành động với tư cách bên nhận uỷ thác.",
+    "Trustees have a fiduciary relationship with the beneficiaries.|Người được ủy thác có quan hệ ủy thác với người thụ hưởng.",
+    "Financial advisers must meet a fiduciary standard.|Cố vấn tài chính phải đáp ứng chuẩn mực ủy thác."
+  ],
+  "macroeconomic": [
+    "Macroeconomic conditions remain difficult.|Điều kiện kinh tế vĩ mô vẫn khó khăn.",
+    "The central bank helps shape macroeconomic policy.|Ngân hàng trung ương góp phần định hình chính sách kinh tế vĩ mô.",
+    "Investors watch macroeconomic data closely.|Nhà đầu tư theo dõi sát dữ liệu vĩ mô.",
+    "Macroeconomic stability attracts foreign investment.|Ổn định kinh tế vĩ mô thu hút đầu tư nước ngoài.",
+    "The course covers inflation, unemployment, and other macroeconomic topics.|Khóa học bao quát lạm phát, thất nghiệp và các chủ đề kinh tế vĩ mô khác."
+  ],
+  "erode": [
+    "Inflation eroded the value of their savings.|Lạm phát bào mòn giá trị khoản tiết kiệm của họ.",
+    "The scandal eroded public confidence.|Vụ bê bối làm xói mòn niềm tin của công chúng.",
+    "Waves have eroded the cliff for centuries.|Sóng đã bào mòn vách đá suốt nhiều thế kỷ.",
+    "Rain and wind slowly erode the soft rock.|Mưa gió dần bào mòn lớp đá mềm.",
+    "Social media can erode our attention span.|Mạng xã hội có thể bào mòn khả năng tập trung của chúng ta."
+  ],
+  "enforceable": [
+    "The agreement is legally enforceable.|Thoả thuận này có hiệu lực thi hành về mặt pháp lý.",
+    "Verbal promises are rarely enforceable.|Lời hứa miệng hiếm khi có thể cưỡng chế thi hành.",
+    "Without a signature, the contract isn't enforceable.|Không có chữ ký thì hợp đồng không thể thi hành.",
+    "Rules are only useful if they're enforceable.|Luật lệ chỉ hữu ích khi có thể thi hành.",
+    "The court ruled the clause enforceable.|Tòa phán quyết điều khoản đó có hiệu lực thi hành."
+  ],
+  "shortfall": [
+    "The city faces a budget shortfall of $3 million.|Thành phố đối mặt với thiếu hụt ngân sách 3 triệu đô.",
+    "Higher taxes will make up the shortfall.|Thuế cao hơn sẽ bù đắp phần thiếu hụt.",
+    "A revenue shortfall forced them to cut staff.|Doanh thu hụt buộc họ phải cắt giảm nhân sự.",
+    "A shortfall in rainfall hurt the harvest.|Lượng mưa thiếu hụt làm ảnh hưởng mùa màng.",
+    "The school faces a shortfall of teachers.|Trường đang thiếu giáo viên."
+  ],
+  "outflow": [
+    "The country saw a large capital outflow.|Nước này chứng kiến dòng vốn chảy ra lớn.",
+    "Cash outflow exceeded inflow last quarter.|Dòng tiền ra vượt dòng tiền vào trong quý trước.",
+    "The outflow of skilled workers worries the government.|Việc lao động lành nghề ra đi khiến chính phủ lo ngại.",
+    "The dam controls the outflow of water.|Con đập điều tiết lượng nước chảy ra.",
+    "Investors fear a sudden outflow of money from the fund.|Nhà đầu tư lo sợ dòng tiền đột ngột rút khỏi quỹ."
+  ],
+  "outperform": [
+    "Our fund outperformed the market this year.|Quỹ của chúng tôi vượt trội so với thị trường năm nay.",
+    "The new model outperforms the old one easily.|Mẫu mới vượt trội hơn mẫu cũ một cách dễ dàng.",
+    "She consistently outperforms her targets.|Cô ấy luôn vượt chỉ tiêu.",
+    "Small companies often outperform big ones in a recovery.|Công ty nhỏ thường làm tốt hơn công ty lớn khi kinh tế phục hồi.",
+    "Can electric cars outperform petrol cars on long trips?|Liệu xe điện có vượt trội xe xăng trong những chuyến đi dài không?"
+  ],
+  "restructure": [
+    "The company plans to restructure its debt.|Công ty dự định tái cơ cấu nợ.",
+    "They restructured the whole sales team.|Họ tổ chức lại toàn bộ đội bán hàng.",
+    "Restructuring will cost three hundred jobs.|Việc tái cơ cấu sẽ khiến ba trăm người mất việc.",
+    "The school restructured its timetable to add more math.|Trường sắp xếp lại thời khóa biểu để thêm giờ toán.",
+    "The coach restructured the team around two young players.|Huấn luyện viên xây dựng lại đội hình xoay quanh hai cầu thủ trẻ."
+  ],
+  "stakeholder": [
+    "We consulted all the key stakeholders.|Chúng tôi tham vấn tất cả các bên liên quan chính.",
+    "Stakeholder engagement takes time.|Việc gắn kết các bên liên quan cần thời gian.",
+    "Employees are stakeholders too.|Nhân viên cũng là bên có lợi ích liên quan.",
+    "Local residents are important stakeholders in the project.|Cư dân địa phương là bên liên quan quan trọng trong dự án.",
+    "The plan was shared with every stakeholder before approval.|Kế hoạch được chia sẻ với mọi bên liên quan trước khi phê duyệt."
+  ],
+  "peso": [
+    "The Mexican peso fell sharply this week.|Đồng peso Mexico giảm mạnh trong tuần này.",
+    "The meal cost three hundred pesos.|Bữa ăn giá ba trăm peso.",
+    "Prices are shown in Philippine pesos.|Giá được hiển thị bằng peso Philippines.",
+    "Several Latin American countries use the peso.|Nhiều nước Mỹ Latinh dùng đồng peso.",
+    "The taxi driver wanted payment in pesos, not dollars.|Tài xế taxi muốn được trả bằng peso chứ không phải đô la."
+  ],
+  "frustrate": [
+    "Slow internet frustrates our customers.|Mạng chậm khiến khách hàng của chúng tôi bực bội.",
+    "Bad weather frustrated their efforts.|Thời tiết xấu cản trở nỗ lực của họ.",
+    "It frustrates me that nobody replies.|Tôi bực vì chẳng ai trả lời.",
+    "Small delays can frustrate even patient people.|Những chậm trễ nhỏ cũng có thể khiến người kiên nhẫn nhất bực mình.",
+    "Rebels tried to frustrate the government's plans.|Quân nổi dậy tìm cách phá hỏng kế hoạch của chính phủ."
+  ],
+  "amortization": [
+    "The bank sent us an amortization schedule.|Ngân hàng gửi cho chúng tôi bảng phân bổ trả nợ.",
+    "Profit is measured before depreciation and amortization.|Lợi nhuận được tính trước khấu hao.",
+    "The amortization period is fifteen years.|Thời gian phân bổ khấu hao là mười lăm năm.",
+    "Amortization spreads the cost of an asset over time.|Khấu hao phân bổ chi phí của tài sản theo thời gian.",
+    "Each payment includes interest and amortization of the loan.|Mỗi khoản trả gồm lãi và phần trả dần nợ gốc."
+  ],
+  "marketer": [
+    "A good marketer knows the customer well.|Người làm tiếp thị giỏi hiểu rõ khách hàng.",
+    "Digital marketers rely heavily on data.|Người làm tiếp thị số phụ thuộc nhiều vào dữ liệu.",
+    "Marketers target younger buyers online.|Dân tiếp thị nhắm tới người mua trẻ trên mạng.",
+    "Marketers love the word \"free.\"|Dân tiếp thị rất thích chữ \"miễn phí.\"",
+    "She began as a marketer before starting her own brand.|Cô khởi đầu là người làm tiếp thị trước khi lập thương hiệu riêng."
+  ],
+  "entrant": [
+    "A new entrant cut prices across the market.|Một tay chơi mới hạ giá trên toàn thị trường.",
+    "The competition attracted five hundred entrants.|Cuộc thi thu hút năm trăm người dự thi.",
+    "New entrants face high start-up costs.|Đơn vị mới vào ngành đối mặt chi phí khởi sự cao.",
+    "The youngest entrant was only nine years old.|Thí sinh nhỏ tuổi nhất mới chín tuổi.",
+    "Each entrant must submit one photo.|Mỗi người dự thi phải nộp một bức ảnh."
+  ],
+  "oust": [
+    "Shareholders voted to oust the chief executive.|Cổ đông bỏ phiếu phế truất tổng giám đốc.",
+    "He was ousted from power after ten years.|Ông ta bị hất khỏi quyền lực sau mười năm.",
+    "The team ousted the champions in the first round.|Đội bóng loại nhà vô địch ngay vòng đầu.",
+    "The rebels tried to oust the president.|Quân nổi dậy tìm cách lật đổ tổng thống.",
+    "Cheap imports have ousted local products from the shops.|Hàng nhập khẩu giá rẻ đã hất cẳng hàng nội địa khỏi các cửa hàng."
+  ],
+  "ratify": [
+    "Parliament voted to ratify the treaty.|Quốc hội bỏ phiếu phê chuẩn hiệp ước.",
+    "Members must ratify the agreement by June.|Các thành viên phải phê chuẩn thoả thuận trước tháng Sáu.",
+    "The board formally ratified the decision.|Hội đồng chính thức thông qua quyết định.",
+    "Only three countries have ratified the new treaty.|Chỉ ba nước đã phê chuẩn hiệp ước mới.",
+    "The union will ask members to ratify the pay deal.|Công đoàn sẽ đề nghị các thành viên thông qua thỏa thuận lương."
+  ],
+  "repurchase": [
+    "The firm announced a share repurchase program.|Công ty công bố chương trình mua lại cổ phiếu.",
+    "They repurchased ten million shares last year.|Họ mua lại mười triệu cổ phiếu năm ngoái.",
+    "A repurchase agreement matures in seven days.|Hợp đồng mua lại đáo hạn sau bảy ngày.",
+    "Customers can repurchase the same plan at a discount.|Khách hàng có thể mua lại cùng gói với giá ưu đãi.",
+    "Share repurchases often push stock prices up.|Việc mua lại cổ phiếu thường đẩy giá cổ phiếu lên."
+  ],
+  "scorecard": [
+    "The team tracks progress on a balanced scorecard.|Nhóm theo dõi tiến độ bằng bảng điểm cân bằng.",
+    "Each supplier gets a quarterly scorecard.|Mỗi nhà cung cấp nhận một bảng đánh giá hằng quý.",
+    "The scorecard shows we missed two targets.|Bảng điểm cho thấy chúng ta hụt hai chỉ tiêu.",
+    "Golfers sign their scorecards after each round.|Người chơi golf ký vào thẻ ghi điểm sau mỗi vòng.",
+    "The group publishes a scorecard of how politicians vote.|Nhóm công bố bảng điểm cách các chính trị gia bỏ phiếu."
+  ],
+  "deflation": [
+    "The country slipped into deflation last year.|Nước này rơi vào giảm phát năm ngoái.",
+    "Deflation makes debts harder to repay.|Giảm phát khiến việc trả nợ khó hơn.",
+    "The bank cut rates to fight deflation.|Ngân hàng hạ lãi suất để chống giảm phát.",
+    "Japan struggled with deflation for years.|Nhật Bản vật lộn với giảm phát suốt nhiều năm.",
+    "During deflation, people delay buying things.|Trong thời kỳ giảm phát, người ta trì hoãn mua sắm."
+  ],
+  "worksheet": [
+    "Open the second worksheet in the file.|Mở trang tính thứ hai trong tệp.",
+    "Students completed a worksheet on fractions.|Học sinh làm phiếu bài tập về phân số.",
+    "I copied the totals into a new worksheet.|Tôi chép các số tổng sang một trang tính mới.",
+    "The teacher handed out a vocabulary worksheet.|Cô giáo phát phiếu bài tập từ vựng.",
+    "Rename the worksheet \"Budget 2026.\"|Đổi tên trang tính thành \"Budget 2026.\""
+  ],
+  "outsource": [
+    "They outsource customer support to another country.|Họ thuê ngoài dịch vụ chăm sóc khách hàng ở nước khác.",
+    "We decided to outsource payroll last year.|Chúng tôi quyết định thuê ngoài mảng lương từ năm ngoái.",
+    "Outsourcing production cut costs but hurt quality.|Thuê ngoài sản xuất giảm chi phí nhưng ảnh hưởng chất lượng.",
+    "Many hospitals outsource cleaning and catering.|Nhiều bệnh viện thuê ngoài dịch vụ vệ sinh và ăn uống.",
+    "You can't outsource responsibility for your own health.|Bạn không thể giao trách nhiệm về sức khỏe của chính mình cho người khác."
+  ]
 }

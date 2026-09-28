@@ -1,62 +1,422 @@
 {
- "genre": ["Horror is my favorite genre of film.|Kinh dị là thể loại phim tôi thích nhất.", "Her novels don't fit neatly into one genre.|Tiểu thuyết của bà khó xếp gọn vào một thể loại.", "The band mixes several musical genres.|Ban nhạc pha trộn nhiều dòng nhạc khác nhau."],
- "lease": ["Our lease on the apartment ends in June.|Hợp đồng thuê căn hộ của chúng tôi hết hạn vào tháng Sáu.", "They signed a five-year lease last week.|Họ ký hợp đồng thuê năm năm tuần trước.", "The company leases its office space downtown.|Công ty thuê văn phòng ở trung tâm thành phố."],
- "revolutionary": ["The phone had a revolutionary design at the time.|Chiếc điện thoại có thiết kế mang tính cách mạng thời đó.", "This drug is a revolutionary treatment for diabetes.|Loại thuốc này là phương pháp điều trị đột phá cho bệnh tiểu đường.", "He was a revolutionary who spent years in exile.|Ông là nhà cách mạng từng lưu vong nhiều năm."],
- "scandal": ["The corruption scandal forced the mayor to resign.|Vụ bê bối tham nhũng buộc thị trưởng phải từ chức.", "The story broke into a full-blown scandal.|Câu chuyện bùng thành một vụ bê bối lớn.", "Their affair caused a scandal in the small town.|Chuyện tình của họ gây tai tiếng ở thị trấn nhỏ."],
- "surveillance": ["The store keeps everyone under video surveillance.|Cửa hàng giám sát mọi người bằng camera.", "Police put the building under surveillance for weeks.|Cảnh sát theo dõi tòa nhà suốt nhiều tuần.", "Mass surveillance raises serious privacy concerns.|Giám sát diện rộng gây lo ngại nghiêm trọng về quyền riêng tư."],
- "testimony": ["Her testimony convinced the jury.|Lời khai của cô ấy thuyết phục được bồi thẩm đoàn.", "He gave testimony for three hours yesterday.|Ông ấy khai suốt ba tiếng hôm qua.", "The crowded shelter is testimony to the crisis.|Nhà tạm trú chật kín là bằng chứng cho cuộc khủng hoảng."],
- "trophy": ["She lifted the trophy above her head.|Cô ấy nâng chiếc cúp lên quá đầu.", "The team won its first trophy in decades.|Đội giành chiếc cúp đầu tiên sau nhiều thập kỷ.", "His office is full of trophies and medals.|Văn phòng anh ấy đầy cúp và huy chương."],
- "well-balanced": ["A well-balanced diet includes plenty of vegetables.|Chế độ ăn cân đối cần nhiều rau xanh.", "The report gives a well-balanced view of both sides.|Bản báo cáo đưa ra cái nhìn hài hòa cho cả hai phía.", "She stayed well-balanced despite the pressure.|Cô ấy vẫn điềm đạm dù áp lực rất lớn."],
- "ash": ["Volcanic ash covered the whole village.|Tro núi lửa phủ kín cả ngôi làng.", "Sweep the ash out of the fireplace, please.|Quét tro trong lò sưởi ra giúp mẹ nhé.", "The old ash tree fell during the storm.|Cây tần bì già đổ trong cơn bão."],
- "embrace": ["She pulled him into a warm embrace.|Cô ôm anh vào lòng thật ấm áp.", "The company was slow to embrace new technology.|Công ty chậm đón nhận công nghệ mới.", "They embraced at the airport after two years apart.|Họ ôm nhau ở sân bay sau hai năm xa cách."],
- "exhibit": ["The gallery will exhibit her paintings next month.|Phòng tranh sẽ trưng bày tranh của cô ấy tháng tới.", "The patient exhibited no symptoms for weeks.|Bệnh nhân không bộc lộ triệu chứng nào suốt nhiều tuần.", "That dinosaur exhibit is worth seeing.|Khu trưng bày khủng long đó đáng xem lắm."],
- "icon": ["She became a fashion icon in the nineties.|Cô ấy trở thành biểu tượng thời trang thập niên chín mươi.", "Tap the icon in the corner to save.|Chạm vào biểu tượng ở góc để lưu.", "The church displays a rare Russian icon.|Nhà thờ trưng bày một bức ảnh thánh Nga quý hiếm."],
- "legislature": ["The state legislature meets twice a year.|Cơ quan lập pháp bang họp hai lần một năm.", "The bill passed the legislature by one vote.|Dự luật qua nghị viện với đúng một phiếu.", "She served in the legislature for eight years.|Bà ấy làm việc ở nghị viện trong tám năm."],
- "marathon": ["He ran his first marathon at forty.|Anh ấy chạy marathon lần đầu năm bốn mươi tuổi.", "Training for a marathon takes months.|Tập luyện cho một cuộc marathon mất mấy tháng.", "We had a marathon meeting that lasted all day.|Chúng tôi họp marathon kéo dài cả ngày."],
- "parade": ["Thousands watched the parade on Main Street.|Hàng nghìn người xem cuộc diễu hành trên phố chính.", "Soldiers paraded through the square at noon.|Binh lính diễu hành qua quảng trường lúc trưa.", "He loves to parade his wealth around town.|Anh ta thích phô trương sự giàu có khắp thị trấn."],
- "preliminary": ["The preliminary results look promising.|Kết quả sơ bộ trông khá khả quan.", "After some preliminary remarks, she began the lecture.|Sau vài lời mở đầu, bà bắt đầu bài giảng.", "Our team lost in the preliminary round.|Đội chúng tôi thua ở vòng loại."],
- "presidency": ["His presidency lasted only one term.|Nhiệm kỳ tổng thống của ông chỉ kéo dài một khóa.", "She announced her run for the presidency.|Bà tuyên bố tranh cử chức tổng thống.", "The economy grew during her presidency.|Kinh tế tăng trưởng trong nhiệm kỳ của bà."],
- "rocky": ["We walked along a rocky beach at sunset.|Chúng tôi đi dọc bãi biển nhiều đá lúc hoàng hôn.", "The road became rocky after the bridge.|Con đường trở nên gập ghềnh sau cây cầu.", "Their marriage got off to a rocky start.|Cuộc hôn nhân của họ khởi đầu khá trắc trở."],
- "strictly": ["Smoking is strictly forbidden in this building.|Hút thuốc bị cấm nghiêm ngặt trong tòa nhà này.", "She was raised strictly by her grandparents.|Cô ấy được ông bà nuôi dạy rất nghiêm khắc.", "Strictly speaking, that's not what the rule says.|Nói cho đúng thì quy định không nói vậy."],
- "yield": ["The new method yields much better results.|Phương pháp mới mang lại kết quả tốt hơn nhiều.", "He refused to yield to their demands.|Anh ấy từ chối nhượng bộ trước yêu sách của họ.", "This year's rice yield was the highest ever.|Sản lượng lúa năm nay cao nhất từ trước tới nay."],
- "barrier": ["Language is still the biggest barrier for her.|Ngôn ngữ vẫn là rào cản lớn nhất với cô ấy.", "Police put barriers across the road.|Cảnh sát dựng hàng rào chắn ngang đường.", "The company aims to break down trade barriers.|Công ty muốn phá bỏ các rào cản thương mại."],
- "medication": ["She takes medication for high blood pressure.|Bà ấy uống thuốc huyết áp cao.", "Don't stop the medication without asking your doctor.|Đừng ngừng thuốc mà không hỏi bác sĩ.", "The medication made him drowsy all afternoon.|Thuốc khiến anh ấy buồn ngủ cả buổi chiều."],
- "stake": ["He owns a twenty percent stake in the company.|Anh ấy sở hữu hai mươi phần trăm cổ phần công ty.", "Thousands of jobs are at stake here.|Hàng nghìn việc làm đang bị đe dọa ở đây.", "They drove a wooden stake into the ground.|Họ đóng một cái cọc gỗ xuống đất."],
- "swift": ["The government's response was surprisingly swift.|Phản ứng của chính phủ nhanh đến bất ngờ.", "She made a swift recovery after surgery.|Cô ấy hồi phục nhanh chóng sau ca mổ.", "A swift kick sent the ball into the net.|Một cú sút mau lẹ đưa bóng vào lưới."],
- "tackle": ["We need to tackle this problem head-on.|Chúng ta cần giải quyết vấn đề này một cách trực diện.", "The defender tackled him just outside the box.|Hậu vệ truy cản anh ta ngay ngoài vòng cấm.", "He keeps his fishing tackle in the garage.|Anh ấy để đồ câu cá trong ga ra."],
- "torture": ["The prisoners were tortured for information.|Các tù nhân bị tra tấn để lấy thông tin.", "Waiting for the results was pure torture.|Chờ kết quả đúng là một cực hình.", "The report documents systematic torture.|Bản báo cáo ghi lại tình trạng tra tấn có hệ thống."],
- "addiction": ["He sought help for his gambling addiction.|Anh ấy tìm sự giúp đỡ cho chứng nghiện cờ bạc.", "Addiction to painkillers is a growing problem.|Nghiện thuốc giảm đau là vấn đề ngày càng lớn.", "She beat her addiction after two years.|Cô ấy cai nghiện thành công sau hai năm."],
- "beam": ["A beam of sunlight came through the curtains.|Một chùm ánh nắng lọt qua rèm cửa.", "The wooden beams in the ceiling are original.|Các xà gỗ trên trần là nguyên bản.", "She beamed when she heard the good news.|Cô ấy cười rạng rỡ khi nghe tin vui."],
- "corrupt": ["The corrupt official was arrested last night.|Viên quan chức tham nhũng bị bắt tối qua.", "Power can corrupt even good people.|Quyền lực có thể làm tha hóa cả người tốt.", "The file got corrupted when the laptop crashed.|File bị hỏng khi máy tính sập nguồn."],
- "inflation": ["Inflation hit six percent this year.|Lạm phát chạm mức sáu phần trăm năm nay.", "Rising inflation is squeezing family budgets.|Lạm phát tăng đang bóp nghẹt ngân sách gia đình.", "The bank raised rates to control inflation.|Ngân hàng tăng lãi suất để kiểm soát lạm phát."],
- "justify": ["Nothing can justify treating people that way.|Không gì biện minh được cho việc đối xử với người khác như vậy.", "How do you justify such a high price?|Anh giải thích thế nào cho mức giá cao vậy?", "The results justify the time we invested.|Kết quả chứng minh thời gian bỏ ra là xứng đáng."],
- "migration": ["The migration of birds begins in autumn.|Cuộc di cư của các loài chim bắt đầu vào mùa thu.", "Rural migration has emptied many villages.|Việc di cư khỏi nông thôn làm nhiều làng vắng bóng người.", "The data migration took the whole weekend.|Việc chuyển đổi dữ liệu mất trọn cuối tuần."],
- "missile": ["The missile was intercepted before landing.|Tên lửa bị đánh chặn trước khi rơi xuống.", "They test-fired a long-range missile yesterday.|Họ bắn thử một tên lửa tầm xa hôm qua.", "Missile defense systems cost billions.|Hệ thống phòng thủ tên lửa tốn hàng tỷ đô."],
- "motivated": ["She's highly motivated and learns fast.|Cô ấy rất có động lực và học nhanh.", "The team looked motivated in the second half.|Đội bóng trông hăng hái trong hiệp hai.", "The attack was politically motivated.|Vụ tấn công có động cơ chính trị."],
- "pearl": ["She wore a simple pearl necklace.|Cô ấy đeo một chuỗi ngọc trai giản dị.", "Divers used to hunt for pearls here.|Thợ lặn từng mò ngọc trai ở đây.", "That advice was a real pearl of wisdom.|Lời khuyên đó đúng là một hạt ngọc trí tuệ."],
- "peer": ["Teenagers care most about their peers' opinions.|Thiếu niên quan tâm nhất đến ý kiến của bạn đồng trang lứa.", "The study was reviewed by his peers.|Nghiên cứu được các đồng nghiệp cùng ngành phản biện.", "She peered through the window into the dark room.|Cô nhìn chăm chú qua cửa sổ vào căn phòng tối."],
- "provision": ["The provision of clean water remains a challenge.|Việc cung cấp nước sạch vẫn là thách thức.", "One provision of the contract worries me.|Một điều khoản trong hợp đồng làm tôi lo.", "They packed enough provisions for a week.|Họ mang đủ lương thực cho một tuần."],
- "tattoo": ["He has a small tattoo on his wrist.|Anh ấy có hình xăm nhỏ trên cổ tay.", "She got a tattoo to remember her grandmother.|Cô xăm một hình để tưởng nhớ bà.", "Getting a tattoo hurts more than people admit.|Xăm mình đau hơn nhiều người thừa nhận."],
- "availability": ["Please check the availability of rooms for Friday.|Vui lòng kiểm tra phòng trống cho thứ Sáu.", "The availability of fresh produce varies by season.|Nguồn rau quả tươi thay đổi theo mùa.", "Let me know your availability next week.|Cho tôi biết lịch rảnh của bạn tuần tới nhé."],
- "chancellor": ["The German chancellor arrived for talks yesterday.|Thủ tướng Đức đến hội đàm hôm qua.", "The university chancellor gave the opening speech.|Hiệu trưởng đại học đọc diễn văn khai mạc.", "The chancellor announced tax cuts in the budget.|Bộ trưởng tài chính công bố giảm thuế trong ngân sách."],
- "consciousness": ["He lost consciousness for about a minute.|Anh ấy bất tỉnh khoảng một phút.", "She regained consciousness in the ambulance.|Cô ấy tỉnh lại trong xe cứu thương.", "The film raised public consciousness about the issue.|Bộ phim nâng cao nhận thức cộng đồng về vấn đề này."],
- "consultant": ["They hired a consultant to review the process.|Họ thuê chuyên gia tư vấn rà soát quy trình.", "She works as a marketing consultant.|Cô ấy làm cố vấn marketing.", "The heart consultant will see you at three.|Bác sĩ chuyên khoa tim sẽ khám cho bạn lúc ba giờ."],
- "corresponding": ["Sales rose in the corresponding period last year.|Doanh số tăng so với cùng kỳ năm ngoái.", "Each key has a corresponding number on the chart.|Mỗi phím có một con số tương ứng trên bảng.", "Every action has a corresponding reaction.|Mọi hành động đều có phản ứng tương ứng."],
- "courtesy": ["He greeted everyone with great courtesy.|Anh ấy chào mọi người rất lịch sự.", "Have the courtesy to reply to her email.|Hãy lịch sự trả lời email của cô ấy.", "The photo is courtesy of the city museum.|Bức ảnh có được nhờ bảo tàng thành phố."],
- "demanding": ["Her new job is far more demanding.|Công việc mới của cô ấy đòi hỏi cao hơn nhiều.", "He's a demanding boss but a fair one.|Ông ấy là sếp khắt khe nhưng công bằng.", "Caring for a newborn is physically demanding.|Chăm trẻ sơ sinh rất vất vả về thể chất."],
- "eagle": ["An eagle circled high above the valley.|Một con đại bàng lượn cao trên thung lũng.", "The eagle is the national bird of the country.|Đại bàng là quốc điểu của nước này.", "We watched an eagle snatch a fish.|Chúng tôi xem một con đại bàng quắp con cá."],
- "embassy": ["You'll need to apply at the embassy.|Bạn phải nộp hồ sơ tại đại sứ quán.", "Protesters gathered outside the embassy.|Người biểu tình tụ tập bên ngoài sứ quán.", "The embassy issued a travel warning yesterday.|Đại sứ quán ra cảnh báo đi lại hôm qua."],
- "flexible": ["My working hours are quite flexible.|Giờ làm việc của tôi khá linh hoạt.", "We need a more flexible approach to this.|Chúng ta cần cách tiếp cận mềm dẻo hơn.", "The material stays flexible even when cold.|Vật liệu vẫn dẻo ngay cả khi lạnh."],
- "helicopter": ["A helicopter airlifted him to the hospital.|Trực thăng đưa anh ấy tới bệnh viện.", "The helicopter circled above the traffic jam.|Chiếc trực thăng lượn trên đám tắc đường.", "Rescue helicopters flew all night.|Trực thăng cứu hộ bay suốt đêm."],
- "infected": ["The wound got infected after a few days.|Vết thương bị nhiễm trùng sau vài ngày.", "Thousands were infected during the outbreak.|Hàng nghìn người nhiễm bệnh trong đợt bùng phát.", "My laptop was infected by a virus.|Máy tính của tôi bị nhiễm virus."],
- "keen": ["She's keen to start the new project.|Cô ấy háo hức bắt đầu dự án mới.", "He's a keen swimmer and runs marathons.|Anh ấy mê bơi lội và chạy marathon.", "Dogs have a keen sense of smell.|Chó có khứu giác rất nhạy bén."],
- "prospect": ["The prospect of rain ruined our plans.|Khả năng trời mưa làm hỏng kế hoạch của chúng tôi.", "Job prospects for graduates look better now.|Triển vọng việc làm cho sinh viên tốt nghiệp khá hơn rồi.", "He faces the prospect of losing his home.|Anh ấy đối mặt với viễn cảnh mất nhà."],
- "retreat": ["The army was forced to retreat.|Quân đội buộc phải rút lui.", "The company beat a hasty retreat from the market.|Công ty vội vã rút khỏi thị trường.", "They spent the weekend at a mountain retreat.|Họ nghỉ cuối tuần ở một khu ẩn dật trên núi."],
- "skilled": ["The factory needs more skilled workers.|Nhà máy cần thêm công nhân lành nghề.", "She's highly skilled at negotiating.|Cô ấy rất giỏi đàm phán.", "It's skilled work that takes years to learn.|Đây là công việc đòi hỏi kỹ năng, phải học nhiều năm."],
- "deer": ["A deer crossed the road in front of us.|Một con nai băng qua đường trước mặt chúng tôi.", "Deer often come into the garden at dusk.|Nai thường vào vườn lúc chạng vạng.", "We saw a herd of deer in the forest.|Chúng tôi thấy một đàn hươu trong rừng."],
- "excessive": ["Excessive drinking damages the liver.|Uống rượu quá mức làm hại gan.", "The fees seemed excessive for such a short course.|Học phí có vẻ quá cao cho một khóa ngắn thế.", "He was fired for excessive absences.|Anh ta bị sa thải vì nghỉ làm quá nhiều."],
- "journalism": ["She studied journalism at university.|Cô ấy học nghề báo ở đại học.", "Good journalism holds power to account.|Báo chí tử tế giám sát quyền lực.", "He won an award for investigative journalism.|Anh ấy đoạt giải cho phóng sự điều tra."],
- "pursuit": ["The pursuit of happiness drives many decisions.|Việc theo đuổi hạnh phúc chi phối nhiều quyết định.", "Police gave up the pursuit after ten minutes.|Cảnh sát bỏ cuộc truy đuổi sau mười phút.", "Gardening is her favorite weekend pursuit.|Làm vườn là thú tiêu khiển cuối tuần cô ấy thích nhất."],
- "reminder": ["Set a reminder so you don't forget.|Đặt lời nhắc để khỏi quên nhé.", "The scar is a constant reminder of the accident.|Vết sẹo luôn nhắc anh về vụ tai nạn.", "I got a reminder about the unpaid bill.|Tôi nhận được giấy nhắc về hóa đơn chưa thanh toán."],
- "resume": ["Let's resume the meeting after lunch.|Ta tiếp tục cuộc họp sau bữa trưa nhé.", "Play resumed once the rain stopped.|Trận đấu nối lại khi mưa tạnh.", "Attach your resume to the application email.|Đính kèm sơ yếu lý lịch vào email ứng tuyển."]
+  "genre": [
+    "Horror is my favorite genre of film.|Kinh dị là thể loại phim tôi thích nhất.",
+    "Her novels don't fit neatly into one genre.|Tiểu thuyết của bà khó xếp gọn vào một thể loại.",
+    "The band mixes several musical genres.|Ban nhạc pha trộn nhiều dòng nhạc khác nhau.",
+    "Jazz is a genre I'm just starting to enjoy.|Jazz là thể loại nhạc tôi mới bắt đầu thích.",
+    "Crime fiction is the best-selling genre in the shop.|Tiểu thuyết trinh thám là thể loại bán chạy nhất trong cửa hàng."
+  ],
+  "lease": [
+    "Our lease on the apartment ends in June.|Hợp đồng thuê căn hộ của chúng tôi hết hạn vào tháng Sáu.",
+    "They signed a five-year lease last week.|Họ ký hợp đồng thuê năm năm tuần trước.",
+    "The company leases its office space downtown.|Công ty thuê văn phòng ở trung tâm thành phố.",
+    "The lease says no pets are allowed.|Hợp đồng thuê ghi rõ không được nuôi thú cưng.",
+    "The new owner gave the old theater a new lease of life.|Người chủ mới đã thổi luồng sinh khí mới vào nhà hát cũ."
+  ],
+  "revolutionary": [
+    "The phone had a revolutionary design at the time.|Chiếc điện thoại có thiết kế mang tính cách mạng thời đó.",
+    "This drug is a revolutionary treatment for diabetes.|Loại thuốc này là phương pháp điều trị đột phá cho bệnh tiểu đường.",
+    "He was a revolutionary who spent years in exile.|Ông là nhà cách mạng từng lưu vong nhiều năm.",
+    "Revolutionary songs are still sung on national holidays.|Những bài ca cách mạng vẫn được hát vào các ngày lễ quốc gia.",
+    "Printing was a revolutionary invention.|In ấn là một phát minh mang tính cách mạng."
+  ],
+  "scandal": [
+    "The corruption scandal forced the mayor to resign.|Vụ bê bối tham nhũng buộc thị trưởng phải từ chức.",
+    "The story broke into a full-blown scandal.|Câu chuyện bùng thành một vụ bê bối lớn.",
+    "Their affair caused a scandal in the small town.|Chuyện tình của họ gây tai tiếng ở thị trấn nhỏ.",
+    "The newspaper exposed the scandal.|Tờ báo đã phanh phui vụ bê bối.",
+    "It's a scandal that children still go hungry here.|Thật đáng hổ thẹn khi trẻ em ở đây vẫn phải chịu đói."
+  ],
+  "surveillance": [
+    "The store keeps everyone under video surveillance.|Cửa hàng giám sát mọi người bằng camera.",
+    "Police put the building under surveillance for weeks.|Cảnh sát theo dõi tòa nhà suốt nhiều tuần.",
+    "Mass surveillance raises serious privacy concerns.|Giám sát diện rộng gây lo ngại nghiêm trọng về quyền riêng tư.",
+    "Surveillance cameras are everywhere in the city center.|Camera giám sát có ở khắp trung tâm thành phố.",
+    "Some parents install surveillance apps on their kids' phones.|Một số phụ huynh cài ứng dụng giám sát trên điện thoại của con."
+  ],
+  "testimony": [
+    "Her testimony convinced the jury.|Lời khai của cô ấy thuyết phục được bồi thẩm đoàn.",
+    "He gave testimony for three hours yesterday.|Ông ấy khai suốt ba tiếng hôm qua.",
+    "The crowded shelter is testimony to the crisis.|Nhà tạm trú chật kín là bằng chứng cho cuộc khủng hoảng.",
+    "The witness changed her testimony.|Nhân chứng đã thay đổi lời khai.",
+    "His success is testimony to years of hard work.|Thành công của anh ấy là minh chứng cho nhiều năm làm việc chăm chỉ."
+  ],
+  "trophy": [
+    "She lifted the trophy above her head.|Cô ấy nâng chiếc cúp lên quá đầu.",
+    "The team won its first trophy in decades.|Đội giành chiếc cúp đầu tiên sau nhiều thập kỷ.",
+    "His office is full of trophies and medals.|Văn phòng anh ấy đầy cúp và huy chương.",
+    "The trophy is on display in the school hall.|Chiếc cúp được trưng bày ở hội trường trường học.",
+    "Which team will take home the trophy this year?|Đội nào sẽ mang cúp về nhà năm nay?"
+  ],
+  "well-balanced": [
+    "A well-balanced diet includes plenty of vegetables.|Chế độ ăn cân đối cần nhiều rau xanh.",
+    "Her paintings are colorful but well-balanced.|Tranh của cô ấy nhiều màu sắc nhưng rất hài hòa.",
+    "She stayed well-balanced despite the pressure.|Cô ấy vẫn điềm đạm dù áp lực rất lớn.",
+    "The coach wants a well-balanced mix of youth and experience.|Huấn luyện viên muốn có sự kết hợp cân đối giữa tuổi trẻ và kinh nghiệm.",
+    "The wine has a well-balanced flavor.|Rượu vang có hương vị hài hòa."
+  ],
+  "ash": [
+    "Volcanic ash covered the whole village.|Tro núi lửa phủ kín cả ngôi làng.",
+    "Sweep the ash out of the fireplace, please.|Quét tro trong lò sưởi ra giúp mẹ nhé.",
+    "The old ash tree fell during the storm.|Cây tần bì già đổ trong cơn bão.",
+    "He dropped cigarette ash on the carpet.|Anh ta làm rơi tàn thuốc lên thảm.",
+    "The house burned to ash in less than an hour.|Ngôi nhà cháy thành tro trong chưa đầy một giờ."
+  ],
+  "embrace": [
+    "She pulled him into a warm embrace.|Cô ôm anh vào lòng thật ấm áp.",
+    "The company was slow to embrace new technology.|Công ty chậm đón nhận công nghệ mới.",
+    "They embraced at the airport after two years apart.|Họ ôm nhau ở sân bay sau hai năm xa cách.",
+    "She embraced the chance to live abroad.|Cô ấy nắm lấy cơ hội sống ở nước ngoài.",
+    "It's time to embrace change instead of fearing it.|Đã đến lúc đón nhận sự thay đổi thay vì sợ hãi nó."
+  ],
+  "exhibit": [
+    "The gallery will exhibit her paintings next month.|Phòng tranh sẽ trưng bày tranh của cô ấy tháng tới.",
+    "The patient exhibited no symptoms for weeks.|Bệnh nhân không bộc lộ triệu chứng nào suốt nhiều tuần.",
+    "That dinosaur exhibit is worth seeing.|Khu trưng bày khủng long đó đáng xem lắm.",
+    "Please don't touch the exhibits.|Vui lòng không chạm vào hiện vật trưng bày.",
+    "The dog exhibited strange behavior before the earthquake.|Con chó có biểu hiện lạ trước trận động đất."
+  ],
+  "icon": [
+    "She became a fashion icon in the nineties.|Cô ấy trở thành biểu tượng thời trang thập niên chín mươi.",
+    "Tap the icon in the corner to save.|Chạm vào biểu tượng ở góc để lưu.",
+    "The church displays a rare Russian icon.|Nhà thờ trưng bày một bức ảnh thánh Nga quý hiếm.",
+    "The Eiffel Tower is an icon of Paris.|Tháp Eiffel là biểu tượng của Paris.",
+    "Drag the icon to the trash to delete it.|Kéo biểu tượng vào thùng rác để xóa."
+  ],
+  "legislature": [
+    "The state legislature meets twice a year.|Cơ quan lập pháp bang họp hai lần một năm.",
+    "The bill passed the legislature by one vote.|Dự luật qua nghị viện với đúng một phiếu.",
+    "She served in the legislature for eight years.|Bà ấy làm việc ở nghị viện trong tám năm.",
+    "The legislature has two houses.|Cơ quan lập pháp gồm hai viện.",
+    "Women hold a third of the seats in the legislature.|Phụ nữ chiếm một phần ba số ghế trong nghị viện."
+  ],
+  "marathon": [
+    "He ran his first marathon at forty.|Anh ấy chạy marathon lần đầu năm bốn mươi tuổi.",
+    "Training for a marathon takes months.|Tập luyện cho một cuộc marathon mất mấy tháng.",
+    "We had a marathon meeting that lasted all day.|Chúng tôi họp marathon kéo dài cả ngày.",
+    "Thousands of runners took part in the city marathon.|Hàng nghìn vận động viên tham gia giải marathon thành phố.",
+    "Learning a language is a marathon, not a sprint.|Học ngoại ngữ là một cuộc chạy đường dài, không phải chạy nước rút."
+  ],
+  "parade": [
+    "Thousands watched the parade on Main Street.|Hàng nghìn người xem cuộc diễu hành trên phố chính.",
+    "Soldiers paraded through the square at noon.|Binh lính diễu hành qua quảng trường lúc trưa.",
+    "He loves to parade his wealth around town.|Anh ta thích phô trương sự giàu có khắp thị trấn.",
+    "The victory parade drew huge crowds.|Cuộc diễu hành mừng chiến thắng thu hút đám đông khổng lồ.",
+    "Children in costumes led the parade.|Trẻ em mặc trang phục hóa trang dẫn đầu đoàn diễu hành."
+  ],
+  "preliminary": [
+    "The preliminary results look promising.|Kết quả sơ bộ trông khá khả quan.",
+    "After some preliminary remarks, she began the lecture.|Sau vài lời mở đầu, bà bắt đầu bài giảng.",
+    "Our team lost in the preliminary round.|Đội chúng tôi thua ở vòng loại.",
+    "A preliminary report will be ready next week.|Một báo cáo sơ bộ sẽ sẵn sàng vào tuần tới.",
+    "Preliminary tests show the water is safe.|Kiểm tra sơ bộ cho thấy nước an toàn."
+  ],
+  "presidency": [
+    "His presidency lasted only one term.|Nhiệm kỳ tổng thống của ông chỉ kéo dài một khóa.",
+    "She announced her run for the presidency.|Bà tuyên bố tranh cử chức tổng thống.",
+    "The economy grew during her presidency.|Kinh tế tăng trưởng trong nhiệm kỳ của bà.",
+    "The presidency comes with huge responsibility.|Chức tổng thống đi kèm trách nhiệm to lớn.",
+    "He won the presidency by a small margin.|Ông giành chức tổng thống với cách biệt nhỏ."
+  ],
+  "rocky": [
+    "We walked along a rocky beach at sunset.|Chúng tôi đi dọc bãi biển nhiều đá lúc hoàng hôn.",
+    "The road became rocky after the bridge.|Con đường trở nên gập ghềnh sau cây cầu.",
+    "Their marriage got off to a rocky start.|Cuộc hôn nhân của họ khởi đầu khá trắc trở.",
+    "The boat hit a rocky island in the fog.|Con thuyền va vào một hòn đảo đá trong sương mù.",
+    "The company has had a rocky year.|Công ty đã trải qua một năm đầy khó khăn."
+  ],
+  "strictly": [
+    "The diet is strictly vegetarian.|Chế độ ăn này hoàn toàn chay.",
+    "She was raised strictly by her grandparents.|Cô ấy được ông bà nuôi dạy rất nghiêm khắc.",
+    "Strictly speaking, that's not what the rule says.|Nói cho đúng thì quy định không nói vậy.",
+    "This information is strictly confidential.|Thông tin này tuyệt đối bảo mật.",
+    "The club is strictly for members over eighteen.|Câu lạc bộ chỉ dành riêng cho thành viên trên mười tám tuổi."
+  ],
+  "yield": [
+    "The new method yields much better results.|Phương pháp mới mang lại kết quả tốt hơn nhiều.",
+    "He refused to yield to their demands.|Anh ấy từ chối nhượng bộ trước yêu sách của họ.",
+    "This year's rice yield was the highest ever.|Sản lượng lúa năm nay cao nhất từ trước tới nay.",
+    "Yield to pedestrians at the crossing.|Nhường đường cho người đi bộ tại vạch sang đường.",
+    "The investment yields five percent a year.|Khoản đầu tư mang lại lợi nhuận năm phần trăm mỗi năm."
+  ],
+  "barrier": [
+    "Language is still the biggest barrier for her.|Ngôn ngữ vẫn là rào cản lớn nhất với cô ấy.",
+    "Police put barriers across the road.|Cảnh sát dựng hàng rào chắn ngang đường.",
+    "The company aims to break down trade barriers.|Công ty muốn phá bỏ các rào cản thương mại.",
+    "A crash barrier stopped the car from going off the bridge.|Một rào chắn đã ngăn chiếc xe lao khỏi cầu.",
+    "Cost is the main barrier to higher education.|Chi phí là rào cản chính đối với việc học lên cao."
+  ],
+  "medication": [
+    "She takes medication for high blood pressure.|Bà ấy uống thuốc huyết áp cao.",
+    "Don't stop the medication without asking your doctor.|Đừng ngừng thuốc mà không hỏi bác sĩ.",
+    "The medication made him drowsy all afternoon.|Thuốc khiến anh ấy buồn ngủ cả buổi chiều.",
+    "Keep all medication out of reach of children.|Để mọi loại thuốc ngoài tầm tay trẻ em.",
+    "Is he on any medication?|Anh ấy có đang dùng thuốc gì không?"
+  ],
+  "stake": [
+    "He owns a twenty percent stake in the company.|Anh ấy sở hữu hai mươi phần trăm cổ phần công ty.",
+    "Thousands of jobs are at stake here.|Hàng nghìn việc làm đang bị đe dọa ở đây.",
+    "They drove a wooden stake into the ground.|Họ đóng một cái cọc gỗ xuống đất.",
+    "The company sold its stake in the hotel.|Công ty đã bán cổ phần của mình trong khách sạn.",
+    "Everyone in the town has a stake in the new factory's success.|Ai trong thị trấn cũng có quyền lợi gắn với thành công của nhà máy mới."
+  ],
+  "swift": [
+    "The government's response was surprisingly swift.|Phản ứng của chính phủ nhanh đến bất ngờ.",
+    "She made a swift recovery after surgery.|Cô ấy hồi phục nhanh chóng sau ca mổ.",
+    "A swift kick sent the ball into the net.|Một cú sút mau lẹ đưa bóng vào lưới.",
+    "Swift action saved the patient's life.|Hành động nhanh chóng đã cứu sống bệnh nhân.",
+    "The river is swift and dangerous here.|Dòng sông ở đây chảy xiết và nguy hiểm."
+  ],
+  "tackle": [
+    "We need to tackle this problem head-on.|Chúng ta cần giải quyết vấn đề này một cách trực diện.",
+    "The defender tackled him just outside the box.|Hậu vệ truy cản anh ta ngay ngoài vòng cấm.",
+    "He keeps his fishing tackle in the garage.|Anh ấy để đồ câu cá trong ga ra.",
+    "The city is trying to tackle air pollution.|Thành phố đang cố giải quyết ô nhiễm không khí.",
+    "It was a hard but fair tackle.|Đó là một pha vào bóng mạnh nhưng hợp lệ."
+  ],
+  "torture": [
+    "The prisoners were tortured for information.|Các tù nhân bị tra tấn để lấy thông tin.",
+    "Waiting for the results was pure torture.|Chờ kết quả đúng là một cực hình.",
+    "The report documents systematic torture.|Bản báo cáo ghi lại tình trạng tra tấn có hệ thống.",
+    "Torture is banned under international law.|Tra tấn bị cấm theo luật pháp quốc tế.",
+    "My new shoes are torture to walk in.|Đôi giày mới đi vào đau như cực hình."
+  ],
+  "addiction": [
+    "He sought help for his gambling addiction.|Anh ấy tìm sự giúp đỡ cho chứng nghiện cờ bạc.",
+    "Addiction to painkillers is a growing problem.|Nghiện thuốc giảm đau là vấn đề ngày càng lớn.",
+    "She beat her addiction after two years.|Cô ấy cai nghiện thành công sau hai năm.",
+    "Phone addiction is common among teenagers.|Nghiện điện thoại phổ biến ở thanh thiếu niên.",
+    "The center helps people recover from addiction.|Trung tâm giúp mọi người hồi phục sau cơn nghiện."
+  ],
+  "beam": [
+    "A beam of sunlight came through the curtains.|Một chùm ánh nắng lọt qua rèm cửa.",
+    "The wooden beams in the ceiling are original.|Các xà gỗ trên trần là nguyên bản.",
+    "She beamed when she heard the good news.|Cô ấy cười rạng rỡ khi nghe tin vui.",
+    "Switch off your high beams when a car is coming.|Tắt đèn pha khi có xe đi ngược chiều.",
+    "The TV station beamed the match around the world.|Đài truyền hình phát trận đấu đi khắp thế giới."
+  ],
+  "corrupt": [
+    "The corrupt official was arrested last night.|Viên quan chức tham nhũng bị bắt tối qua.",
+    "Power can corrupt even good people.|Quyền lực có thể làm tha hóa cả người tốt.",
+    "The file got corrupted when the laptop crashed.|File bị hỏng khi máy tính sập nguồn.",
+    "The police chief was corrupt and took bribes.|Ông cảnh sát trưởng tham nhũng và nhận hối lộ.",
+    "Corrupt judges undermine trust in the whole system.|Những thẩm phán tham nhũng làm xói mòn niềm tin vào cả hệ thống."
+  ],
+  "inflation": [
+    "Inflation hit six percent this year.|Lạm phát chạm mức sáu phần trăm năm nay.",
+    "Rising inflation is squeezing family budgets.|Lạm phát tăng đang bóp nghẹt ngân sách gia đình.",
+    "The bank raised rates to control inflation.|Ngân hàng tăng lãi suất để kiểm soát lạm phát.",
+    "High inflation means your savings are worth less.|Lạm phát cao nghĩa là tiền tiết kiệm của bạn mất giá.",
+    "Inflation makes it harder for young people to buy homes.|Lạm phát khiến người trẻ khó mua nhà hơn."
+  ],
+  "justify": [
+    "Nothing can justify treating people that way.|Không gì biện minh được cho việc đối xử với người khác như vậy.",
+    "How do you justify such a high price?|Anh giải thích thế nào cho mức giá cao vậy?",
+    "The results justify the time we invested.|Kết quả chứng minh thời gian bỏ ra là xứng đáng.",
+    "The end doesn't always justify the means.|Mục đích không phải lúc nào cũng biện minh cho phương tiện.",
+    "Justify the text so both edges are straight.|Căn đều văn bản để hai lề thẳng hàng."
+  ],
+  "migration": [
+    "The migration of birds begins in autumn.|Cuộc di cư của các loài chim bắt đầu vào mùa thu.",
+    "Rural migration has emptied many villages.|Việc di cư khỏi nông thôn làm nhiều làng vắng bóng người.",
+    "The data migration took the whole weekend.|Việc chuyển đổi dữ liệu mất trọn cuối tuần.",
+    "Scientists track the migration of whales.|Các nhà khoa học theo dõi sự di cư của cá voi.",
+    "The history of human migration is fascinating.|Lịch sử di cư của loài người thật thú vị."
+  ],
+  "missile": [
+    "The missile was intercepted before landing.|Tên lửa bị đánh chặn trước khi rơi xuống.",
+    "They test-fired a long-range missile yesterday.|Họ bắn thử một tên lửa tầm xa hôm qua.",
+    "Missile defense systems cost billions.|Hệ thống phòng thủ tên lửa tốn hàng tỷ đô.",
+    "The missile hit an empty field.|Quả tên lửa rơi xuống một cánh đồng trống.",
+    "Nuclear missiles are the most dangerous weapons ever made.|Tên lửa hạt nhân là loại vũ khí nguy hiểm nhất từng được chế tạo."
+  ],
+  "motivated": [
+    "She's highly motivated and learns fast.|Cô ấy rất có động lực và học nhanh.",
+    "The team looked motivated in the second half.|Đội bóng trông hăng hái trong hiệp hai.",
+    "The attack was politically motivated.|Vụ tấn công có động cơ chính trị.",
+    "Money isn't the only thing that keeps people motivated.|Tiền không phải là thứ duy nhất giúp con người có động lực.",
+    "Self-motivated learners do well online.|Người học tự giác thường học trực tuyến tốt."
+  ],
+  "pearl": [
+    "She wore a simple pearl necklace.|Cô ấy đeo một chuỗi ngọc trai giản dị.",
+    "Divers used to hunt for pearls here.|Thợ lặn từng mò ngọc trai ở đây.",
+    "That advice was a real pearl of wisdom.|Lời khuyên đó đúng là một hạt ngọc trí tuệ.",
+    "Pearls are formed inside oysters.|Ngọc trai được hình thành bên trong con hàu.",
+    "She wore pearl earrings to the wedding.|Cô ấy đeo khuyên tai ngọc trai đến đám cưới."
+  ],
+  "peer": [
+    "Teenagers care most about their peers' opinions.|Thiếu niên quan tâm nhất đến ý kiến của bạn đồng trang lứa.",
+    "The study was reviewed by his peers.|Nghiên cứu được các đồng nghiệp cùng ngành phản biện.",
+    "She peered through the window into the dark room.|Cô nhìn chăm chú qua cửa sổ vào căn phòng tối.",
+    "Peer pressure makes teenagers do silly things.|Áp lực đồng trang lứa khiến thanh thiếu niên làm những điều dại dột.",
+    "She had to peer through the fog to see the road.|Cô ấy phải căng mắt nhìn qua màn sương để thấy đường."
+  ],
+  "provision": [
+    "The provision of clean water remains a challenge.|Việc cung cấp nước sạch vẫn là thách thức.",
+    "One provision of the contract worries me.|Một điều khoản trong hợp đồng làm tôi lo.",
+    "They packed enough provisions for a week.|Họ mang đủ lương thực cho một tuần.",
+    "The law makes provision for workers with children.|Luật có quy định dành cho người lao động có con nhỏ.",
+    "Healthcare provision in rural areas is poor.|Dịch vụ y tế ở vùng nông thôn còn yếu kém."
+  ],
+  "tattoo": [
+    "He has a small tattoo on his wrist.|Anh ấy có hình xăm nhỏ trên cổ tay.",
+    "She got a tattoo to remember her grandmother.|Cô xăm một hình để tưởng nhớ bà.",
+    "Getting a tattoo hurts more than people admit.|Xăm mình đau hơn nhiều người thừa nhận.",
+    "Tattoos used to be seen as rebellious.|Hình xăm từng bị coi là biểu hiện nổi loạn.",
+    "The tattoo artist spent four hours on the design.|Thợ xăm mất bốn tiếng cho hình xăm đó."
+  ],
+  "availability": [
+    "Please check the availability of rooms for Friday.|Vui lòng kiểm tra phòng trống cho thứ Sáu.",
+    "The availability of fresh produce varies by season.|Nguồn rau quả tươi thay đổi theo mùa.",
+    "Let me know your availability next week.|Cho tôi biết lịch rảnh của bạn tuần tới nhé.",
+    "All offers are subject to availability.|Mọi ưu đãi tùy thuộc vào tình trạng còn hàng.",
+    "Hotel availability is limited during the festival.|Phòng khách sạn có hạn trong dịp lễ hội."
+  ],
+  "chancellor": [
+    "The German chancellor arrived for talks yesterday.|Thủ tướng Đức đến hội đàm hôm qua.",
+    "The university chancellor gave the opening speech.|Hiệu trưởng đại học đọc diễn văn khai mạc.",
+    "The chancellor announced tax cuts in the budget.|Bộ trưởng tài chính công bố giảm thuế trong ngân sách.",
+    "Germany's first female chancellor served for sixteen years.|Nữ thủ tướng đầu tiên của Đức tại vị suốt mười sáu năm.",
+    "The vice chancellor met with student leaders.|Phó hiệu trưởng gặp gỡ đại diện sinh viên."
+  ],
+  "consciousness": [
+    "He lost consciousness for about a minute.|Anh ấy bất tỉnh khoảng một phút.",
+    "She regained consciousness in the ambulance.|Cô ấy tỉnh lại trong xe cứu thương.",
+    "The film raised public consciousness about the issue.|Bộ phim nâng cao nhận thức cộng đồng về vấn đề này.",
+    "The patient drifted in and out of consciousness.|Bệnh nhân lúc tỉnh lúc mê.",
+    "The book is written as a stream of consciousness.|Cuốn sách được viết theo lối dòng ý thức."
+  ],
+  "consultant": [
+    "They hired a consultant to review the process.|Họ thuê chuyên gia tư vấn rà soát quy trình.",
+    "She works as a marketing consultant.|Cô ấy làm cố vấn marketing.",
+    "The heart consultant will see you at three.|Bác sĩ chuyên khoa tim sẽ khám cho bạn lúc ba giờ.",
+    "An IT consultant fixed our network in a day.|Một chuyên gia tư vấn công nghệ đã sửa mạng cho chúng tôi trong một ngày.",
+    "Consultants are expensive, but they can save you money.|Chuyên gia tư vấn thì đắt, nhưng có thể giúp bạn tiết kiệm tiền."
+  ],
+  "corresponding": [
+    "Sales rose in the corresponding period last year.|Doanh số tăng so với cùng kỳ năm ngoái.",
+    "Each key has a corresponding number on the chart.|Mỗi phím có một con số tương ứng trên bảng.",
+    "Every action has a corresponding reaction.|Mọi hành động đều có phản ứng tương ứng.",
+    "Match each word with its corresponding picture.|Nối mỗi từ với bức tranh tương ứng.",
+    "Higher prices led to a corresponding drop in sales.|Giá cao hơn dẫn đến doanh số giảm tương ứng."
+  ],
+  "courtesy": [
+    "He greeted everyone with great courtesy.|Anh ấy chào mọi người rất lịch sự.",
+    "Have the courtesy to reply to her email.|Hãy lịch sự trả lời email của cô ấy.",
+    "The photo is courtesy of the city museum.|Bức ảnh có được nhờ bảo tàng thành phố.",
+    "It's common courtesy to say thank you.|Nói lời cảm ơn là phép lịch sự tối thiểu.",
+    "The hotel offers a courtesy bus to the airport.|Khách sạn có xe buýt miễn phí đưa đón ra sân bay."
+  ],
+  "demanding": [
+    "Her new job is far more demanding.|Công việc mới của cô ấy đòi hỏi cao hơn nhiều.",
+    "He's a demanding boss but a fair one.|Ông ấy là sếp khắt khe nhưng công bằng.",
+    "Caring for a newborn is physically demanding.|Chăm trẻ sơ sinh rất vất vả về thể chất.",
+    "Customers here are very demanding.|Khách hàng ở đây rất khó tính.",
+    "The course is demanding but rewarding.|Khóa học đòi hỏi cao nhưng rất đáng giá."
+  ],
+  "eagle": [
+    "An eagle circled high above the valley.|Một con đại bàng lượn cao trên thung lũng.",
+    "The eagle is the national bird of the country.|Đại bàng là quốc điểu của nước này.",
+    "We watched an eagle snatch a fish.|Chúng tôi xem một con đại bàng quắp con cá.",
+    "She has an eagle eye for spelling mistakes.|Cô ấy có đôi mắt tinh tường phát hiện lỗi chính tả.",
+    "Eagles build huge nests on cliffs.|Đại bàng làm những cái tổ khổng lồ trên vách đá."
+  ],
+  "embassy": [
+    "You'll need to apply at the embassy.|Bạn phải nộp hồ sơ tại đại sứ quán.",
+    "Protesters gathered outside the embassy.|Người biểu tình tụ tập bên ngoài sứ quán.",
+    "The embassy issued a travel warning yesterday.|Đại sứ quán ra cảnh báo đi lại hôm qua.",
+    "The embassy is closed on public holidays.|Đại sứ quán đóng cửa vào các ngày lễ.",
+    "Call your embassy if you lose your passport abroad.|Hãy gọi cho đại sứ quán nếu bạn mất hộ chiếu ở nước ngoài."
+  ],
+  "flexible": [
+    "My working hours are quite flexible.|Giờ làm việc của tôi khá linh hoạt.",
+    "We need a more flexible approach to this.|Chúng ta cần cách tiếp cận mềm dẻo hơn.",
+    "The material stays flexible even when cold.|Vật liệu vẫn dẻo ngay cả khi lạnh.",
+    "Yoga helps you become more flexible.|Yoga giúp cơ thể bạn dẻo dai hơn.",
+    "Our plans are flexible, so call us anytime.|Kế hoạch của chúng tôi linh hoạt, cứ gọi bất cứ lúc nào."
+  ],
+  "helicopter": [
+    "A helicopter airlifted him to the hospital.|Trực thăng đưa anh ấy tới bệnh viện.",
+    "The helicopter circled above the traffic jam.|Chiếc trực thăng lượn trên đám tắc đường.",
+    "Rescue helicopters flew all night.|Trực thăng cứu hộ bay suốt đêm.",
+    "Helicopter parents do everything for their children.|Những bậc cha mẹ \"trực thăng\" làm mọi thứ thay con.",
+    "The helicopter landed on the roof of the hospital.|Chiếc trực thăng đáp xuống nóc bệnh viện."
+  ],
+  "infected": [
+    "The wound got infected after a few days.|Vết thương bị nhiễm trùng sau vài ngày.",
+    "Thousands were infected during the outbreak.|Hàng nghìn người nhiễm bệnh trong đợt bùng phát.",
+    "My laptop was infected by a virus.|Máy tính của tôi bị nhiễm virus.",
+    "Wash your hands so the cut doesn't get infected.|Rửa tay để vết cắt không bị nhiễm trùng.",
+    "Infected plants must be removed quickly.|Cây bị nhiễm bệnh phải được nhổ bỏ nhanh chóng."
+  ],
+  "keen": [
+    "She's keen to start the new project.|Cô ấy háo hức bắt đầu dự án mới.",
+    "He's a keen swimmer and runs marathons.|Anh ấy mê bơi lội và chạy marathon.",
+    "Dogs have a keen sense of smell.|Chó có khứu giác rất nhạy bén.",
+    "I'm not keen on spicy food.|Tôi không thích đồ cay lắm.",
+    "She has a keen eye for fashion.|Cô ấy có con mắt tinh tường về thời trang."
+  ],
+  "prospect": [
+    "The prospect of rain ruined our plans.|Khả năng trời mưa làm hỏng kế hoạch của chúng tôi.",
+    "Job prospects for graduates look better now.|Triển vọng việc làm cho sinh viên tốt nghiệp khá hơn rồi.",
+    "He faces the prospect of losing his home.|Anh ấy đối mặt với viễn cảnh mất nhà.",
+    "The company's prospects look bright.|Triển vọng của công ty trông rất sáng sủa.",
+    "I'm excited at the prospect of seeing my family again.|Tôi háo hức trước viễn cảnh được gặp lại gia đình."
+  ],
+  "retreat": [
+    "The army was forced to retreat.|Quân đội buộc phải rút lui.",
+    "The company beat a hasty retreat from the market.|Công ty vội vã rút khỏi thị trường.",
+    "They spent the weekend at a mountain retreat.|Họ nghỉ cuối tuần ở một khu ẩn dật trên núi.",
+    "The glaciers are retreating because of warmer weather.|Các sông băng đang thu hẹp vì thời tiết ấm lên.",
+    "The writer went on a retreat to finish her book.|Nhà văn đến một nơi tĩnh dưỡng để hoàn thành cuốn sách."
+  ],
+  "skilled": [
+    "The factory needs more skilled workers.|Nhà máy cần thêm công nhân lành nghề.",
+    "She's highly skilled at negotiating.|Cô ấy rất giỏi đàm phán.",
+    "It's skilled work that takes years to learn.|Đây là công việc đòi hỏi kỹ năng, phải học nhiều năm.",
+    "He's skilled with his hands and can fix almost anything.|Anh ấy khéo tay và sửa được hầu như mọi thứ.",
+    "Skilled nurses are in short supply everywhere.|Y tá có tay nghề đang thiếu hụt ở khắp nơi."
+  ],
+  "deer": [
+    "A deer crossed the road in front of us.|Một con nai băng qua đường trước mặt chúng tôi.",
+    "Deer often come into the garden at dusk.|Nai thường vào vườn lúc chạng vạng.",
+    "We saw a herd of deer in the forest.|Chúng tôi thấy một đàn hươu trong rừng.",
+    "The deer froze in the car's headlights.|Con nai đứng sững trước ánh đèn pha ô tô.",
+    "Male deer lose their antlers every year.|Hươu đực rụng sừng hằng năm."
+  ],
+  "excessive": [
+    "Excessive drinking damages the liver.|Uống rượu quá mức làm hại gan.",
+    "The fees seemed excessive for such a short course.|Học phí có vẻ quá cao cho một khóa ngắn thế.",
+    "He was fired for excessive absences.|Anh ta bị sa thải vì nghỉ làm quá nhiều.",
+    "The police were accused of using excessive force.|Cảnh sát bị cáo buộc dùng vũ lực quá mức.",
+    "Excessive screen time can harm children's sleep.|Dùng màn hình quá nhiều có thể ảnh hưởng đến giấc ngủ của trẻ."
+  ],
+  "journalism": [
+    "She studied journalism at university.|Cô ấy học nghề báo ở đại học.",
+    "Good journalism holds power to account.|Báo chí tử tế giám sát quyền lực.",
+    "He won an award for investigative journalism.|Anh ấy đoạt giải cho phóng sự điều tra.",
+    "Journalism has changed a lot since the internet.|Báo chí đã thay đổi nhiều kể từ khi có internet.",
+    "She left journalism to work in public relations.|Cô ấy rời nghề báo để làm quan hệ công chúng."
+  ],
+  "pursuit": [
+    "The pursuit of happiness drives many decisions.|Việc theo đuổi hạnh phúc chi phối nhiều quyết định.",
+    "Police gave up the pursuit after ten minutes.|Cảnh sát bỏ cuộc truy đuổi sau mười phút.",
+    "Gardening is her favorite weekend pursuit.|Làm vườn là thú tiêu khiển cuối tuần cô ấy thích nhất.",
+    "He moved to the city in pursuit of a better life.|Anh ấy lên thành phố để tìm kiếm cuộc sống tốt hơn.",
+    "The police car was in hot pursuit of the thief.|Xe cảnh sát đang ráo riết truy đuổi tên trộm."
+  ],
+  "reminder": [
+    "Set a reminder so you don't forget.|Đặt lời nhắc để khỏi quên nhé.",
+    "The scar is a constant reminder of the accident.|Vết sẹo luôn nhắc anh về vụ tai nạn.",
+    "I got a reminder about the unpaid bill.|Tôi nhận được giấy nhắc về hóa đơn chưa thanh toán.",
+    "Just a gentle reminder that the rent is due tomorrow.|Xin nhắc nhẹ là ngày mai đến hạn đóng tiền nhà.",
+    "The old photo is a reminder of happier times.|Tấm ảnh cũ gợi nhớ về những ngày hạnh phúc hơn."
+  ],
+  "resume": [
+    "Let's resume the meeting after lunch.|Ta tiếp tục cuộc họp sau bữa trưa nhé.",
+    "Play resumed once the rain stopped.|Trận đấu nối lại khi mưa tạnh.",
+    "Attach your resume to the application email.|Đính kèm sơ yếu lý lịch vào email ứng tuyển.",
+    "Flights will resume tomorrow morning.|Các chuyến bay sẽ hoạt động trở lại vào sáng mai.",
+    "She updated her resume after the promotion.|Cô ấy cập nhật sơ yếu lý lịch sau khi được thăng chức."
+  ]
 }

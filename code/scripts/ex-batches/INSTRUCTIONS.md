@@ -13,7 +13,9 @@ Ghi kết quả vào `../ex-done/` với **cùng tên file**, dạng:
   "achieve": [
     "She worked hard to achieve her goal.|Cô ấy đã làm việc chăm chỉ để đạt được mục tiêu.",
     "You can achieve anything if you keep trying.|Bạn có thể đạt được bất cứ điều gì nếu tiếp tục cố gắng.",
-    "The team achieved record sales last quarter.|Đội đã đạt doanh số kỷ lục quý trước."
+    "The team achieved record sales last quarter.|Đội đã đạt doanh số kỷ lục quý trước.",
+    "What do you hope to achieve by the end of the year?|Bạn mong đạt được điều gì trước cuối năm?",
+    "Few players have achieved so much at such a young age.|Hiếm cầu thủ nào đạt được nhiều thành tích như vậy khi còn trẻ như thế."
   ]
 }
 ```
@@ -22,11 +24,11 @@ Mỗi phần tử là một chuỗi `"câu tiếng Anh|bản dịch tiếng Vi�
 
 ## Quy tắc
 
-1. **3 câu mỗi từ** (B1/B2). Câu phải chứa **đúng từ đó** (dạng chia bất kỳ: *achieve/achieved/achieving*).
+1. **5 câu mỗi từ** (B1–C2). Câu phải chứa **đúng từ đó** (dạng chia bất kỳ: *achieve/achieved/achieving*).
    Phrasal verb: dùng cả cụm, có thể tách (*gave it up*) ở 1 câu.
 2. **Ngắn, tự nhiên, đời thường** — 6–14 từ. Văn phong người bản ngữ nói/viết thật, KHÔNG sách giáo khoa,
    KHÔNG câu bịa gượng ép.
-3. **Đa dạng ngữ cảnh** giữa 3 câu: đừng lặp cùng một khung câu. Ưu tiên 1 câu dùng collocation trong `coll`.
+3. **Đa dạng ngữ cảnh** giữa 5 câu: đừng lặp cùng một khung câu hay cùng một collocation. Ưu tiên 1 câu dùng collocation trong `coll`.
 4. Nếu từ đa nghĩa (`vi` có nhiều nghĩa cách nhau `;`): câu 1 dùng **nghĩa đầu**, các câu sau có thể minh
    hoạ nghĩa khác.
 5. Bản dịch tiếng Việt **tự nhiên**, không dịch máy, không word-by-word.
@@ -36,5 +38,5 @@ Mỗi phần tử là một chuỗi `"câu tiếng Anh|bản dịch tiếng Vi�
 
 ## Định dạng đầu ra
 
-JSON hợp lệ tuyệt đối, key = đúng `id` trong batch (100% từ phải có mặt), mỗi value là mảng 3 chuỗi.
+JSON hợp lệ tuyệt đối, key = đúng `id` trong batch (100% từ phải có mặt), mỗi value là mảng 5 chuỗi.
 Không markdown, không lời dẫn.

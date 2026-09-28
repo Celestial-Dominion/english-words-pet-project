@@ -1,62 +1,422 @@
 {
- "detract": ["The noise detracts from an otherwise lovely apartment.|Tiếng ồn làm giảm giá trị của một căn hộ vốn rất đẹp.", "One weak scene doesn't detract from the film.|Một cảnh yếu không làm lu mờ cả bộ phim.", "Nothing can detract from her achievement.|Không gì làm giảm được thành tựu của cô ấy."],
- "reissue": ["The label plans to reissue the album on vinyl.|Hãng đĩa dự định phát hành lại album trên đĩa than.", "They reissued the novel with a new cover.|Họ tái bản cuốn tiểu thuyết với bìa mới.", "The reissue includes three unreleased tracks.|Bản tái phát hành có thêm ba bài chưa từng công bố."],
- "veritable": ["Her garden is a veritable jungle in summer.|Khu vườn của bà mùa hè đúng là một khu rừng thật sự.", "The market was a veritable feast of colors.|Khu chợ đích thực là một bữa tiệc màu sắc.", "He's a veritable encyclopedia of local history.|Ông ấy đúng là một cuốn bách khoa về lịch sử địa phương."],
- "skew": ["A few extreme values can skew the average.|Vài giá trị cực đoan có thể làm sai lệch số trung bình.", "The sample skews toward younger voters.|Mẫu khảo sát lệch về phía cử tri trẻ.", "The picture hangs slightly skew on the wall.|Bức tranh treo hơi lệch trên tường."],
- "hindrance": ["His broken leg was a serious hindrance.|Cái chân gãy là một trở ngại lớn với anh ấy.", "She works without hindrance from her family.|Cô ấy làm việc mà không bị gia đình cản trở.", "Poor roads are a hindrance to local trade.|Đường sá kém là vật cản cho thương mại địa phương."],
- "individualism": ["American culture prizes individualism highly.|Văn hóa Mỹ đề cao chủ nghĩa cá nhân.", "There's tension between individualism and community.|Có sự giằng co giữa chủ nghĩa cá nhân và tính cộng đồng.", "Her fierce individualism made her hard to manage.|Tinh thần tự lập mạnh mẽ khiến cô ấy khó quản lý."],
- "abject": ["Millions still live in abject poverty.|Hàng triệu người vẫn sống trong cảnh nghèo cùng cực.", "The apology was an abject failure.|Lời xin lỗi là một thất bại thảm hại.", "He offered an abject apology to the court.|Anh ta đưa ra lời xin lỗi hèn hạ trước tòa."],
- "austere": ["The monks live an austere life in the mountains.|Các tu sĩ sống đời khắc khổ trên núi.", "The room was austere but spotlessly clean.|Căn phòng đơn sơ nhưng sạch bong.", "Her father was an austere, distant man.|Cha cô ấy là một người nghiêm khắc và xa cách."],
- "superfluous": ["Cut any superfluous words from the essay.|Cắt bỏ mọi từ thừa trong bài luận.", "Further explanation seemed superfluous.|Giải thích thêm có vẻ không cần thiết.", "The extra staff proved superfluous.|Số nhân viên tăng thêm hóa ra là thừa."],
- "consignment": ["A consignment of medicine arrived this morning.|Một lô hàng thuốc đã đến sáng nay.", "The goods were sent on consignment.|Hàng được gửi theo hình thức ký gửi.", "Customs held the consignment for two days.|Hải quan giữ lô hàng hai ngày."],
- "infernal": ["Turn off that infernal alarm, please.|Tắt cái báo thức quái quỷ đó đi.", "The heat in the kitchen was infernal.|Cái nóng trong bếp như địa ngục.", "He described the infernal noise of the factory.|Ông tả lại tiếng ồn kinh khủng của nhà máy."],
- "mystique": ["The old theater has a certain mystique.|Nhà hát cũ có một vẻ huyền bí riêng.", "Years of silence added to her mystique.|Nhiều năm im lặng càng tăng hào quang bí ẩn quanh bà.", "The brand carefully protects its mystique.|Thương hiệu cẩn thận giữ gìn vẻ huyền bí của mình."],
- "materialistic": ["He accused the younger generation of being materialistic.|Ông trách thế hệ trẻ quá chuộng vật chất.", "She grew tired of their materialistic lifestyle.|Cô chán ngán lối sống thực dụng vật chất của họ.", "Holidays have become increasingly materialistic.|Các dịp lễ ngày càng nặng tính vật chất."],
- "materialize": ["The promised funding never materialized.|Khoản tài trợ được hứa chẳng bao giờ thành hiện thực.", "A figure materialized out of the fog.|Một bóng người hiện ra từ trong sương mù.", "Their plans failed to materialize this year.|Kế hoạch của họ năm nay không thành."],
- "extracurricular": ["She joined several extracurricular activities at school.|Cô ấy tham gia nhiều hoạt động ngoại khóa ở trường.", "Colleges look at extracurricular achievements too.|Các trường đại học cũng xem thành tích ngoại khóa.", "He had no time for extracurricular clubs.|Cậu ấy không có thời gian cho câu lạc bộ ngoại khóa."],
- "fluctuate": ["Oil prices fluctuate wildly these days.|Giá dầu dạo này dao động dữ dội.", "Her weight fluctuated during the illness.|Cân nặng của cô lên xuống thất thường trong thời gian bệnh.", "Temperatures fluctuate between five and twenty degrees.|Nhiệt độ dao động từ năm đến hai mươi độ."],
- "ephemeral": ["Fame in that industry is famously ephemeral.|Danh tiếng trong ngành đó nổi tiếng là phù du.", "Cherry blossoms are beautiful but ephemeral.|Hoa anh đào đẹp nhưng chóng tàn.", "Social media trends are ephemeral by nature.|Trào lưu mạng xã hội vốn dĩ rất ngắn ngủi."],
- "arcane": ["The tax rules are arcane and confusing.|Các quy định thuế vừa khó hiểu vừa rối rắm.", "He collects arcane knowledge about old maps.|Ông ấy sưu tầm kiến thức bí truyền về bản đồ cổ.", "Only specialists grasp these arcane details.|Chỉ chuyên gia mới nắm được những chi tiết khó hiểu này."],
- "swivel": ["She swiveled around in her office chair.|Cô ấy xoay tròn trên chiếc ghế văn phòng.", "The camera swivels a full three hundred degrees.|Máy quay xoay được trọn ba trăm độ.", "He swiveled to face the door.|Anh quay ngoắt lại phía cửa."],
- "behest": ["The inquiry was launched at the behest of parliament.|Cuộc điều tra được mở theo yêu cầu của quốc hội.", "She resigned at the behest of the board.|Bà từ chức theo lệnh của hội đồng quản trị.", "The letter was written at his behest.|Lá thư được viết theo yêu cầu của ông ấy."],
- "athleticism": ["His athleticism was obvious even as a child.|Tố chất vận động của cậu ấy rõ ràng ngay từ nhỏ.", "The team relies on speed and athleticism.|Đội bóng dựa vào tốc độ và thể lực tốt.", "Her athleticism carried her through the final round.|Sự dẻo dai giúp cô vượt qua vòng cuối."],
- "habitation": ["The island shows signs of ancient habitation.|Hòn đảo có dấu vết cư ngụ từ thời cổ.", "The building is unfit for human habitation.|Tòa nhà không đủ điều kiện cho người ở.", "They found traces of habitation in the cave.|Họ tìm thấy dấu vết cư trú trong hang."],
- "interlocking": ["The floor is made of interlocking wooden tiles.|Sàn làm bằng các tấm gỗ cài khớp vào nhau.", "The story has several interlocking plots.|Câu chuyện có nhiều tuyến truyện đan xen.", "These are interlocking problems, not separate ones.|Đây là những vấn đề đan xen, không tách rời."],
- "figuratively": ["He was figuratively drowning in paperwork.|Nói theo nghĩa bóng thì anh ấy chết chìm trong giấy tờ.", "I meant it figuratively, not literally.|Tôi nói theo nghĩa bóng, không phải nghĩa đen.", "She used the word figuratively in her essay.|Cô ấy dùng từ đó theo nghĩa bóng trong bài luận."],
- "shimmer": ["The lake shimmered in the afternoon sun.|Mặt hồ lung linh dưới nắng chiều.", "Her dress shimmered under the stage lights.|Chiếc váy của cô lấp lánh dưới ánh đèn sân khấu.", "A shimmer of heat rose from the road.|Một làn hơi nóng lung linh bốc lên từ mặt đường."],
- "aberration": ["The warm December was a statistical aberration.|Tháng Mười Hai ấm áp là một bất thường về thống kê.", "He called his outburst a temporary aberration.|Ông gọi cơn nổi giận đó là sự lệch lạc nhất thời.", "Such errors are an aberration, not the norm.|Những lỗi như vậy là bất thường, không phải chuyện thường."],
- "facsimile": ["The museum displays a facsimile of the manuscript.|Bảo tàng trưng bày bản sao y hệt của bản thảo.", "This edition is an exact facsimile of the original.|Ấn bản này là bản mô phỏng chính xác bản gốc.", "He sent the contract by facsimile.|Ông ấy gửi hợp đồng qua fax."],
- "posterity": ["The letters were preserved for posterity.|Những lá thư được gìn giữ cho hậu thế.", "He recorded the interview for posterity.|Ông ghi lại cuộc phỏng vấn để lưu cho đời sau.", "Posterity will judge these decisions harshly.|Hậu thế sẽ phán xét những quyết định này rất nghiêm khắc."],
- "elated": ["She was elated by the exam results.|Cô ấy hân hoan với kết quả thi.", "The whole town felt elated after the win.|Cả thị trấn phấn khích sau chiến thắng.", "He sounded elated on the phone.|Giọng anh ấy sướng rơn qua điện thoại."],
- "abhorrent": ["Such cruelty is abhorrent to most people.|Sự tàn ác như vậy khiến hầu hết mọi người ghê tởm.", "The party rejected those abhorrent views.|Đảng bác bỏ những quan điểm kinh tởm đó.", "She found the practice morally abhorrent.|Cô thấy tập tục đó đáng ghê sợ về mặt đạo đức."],
- "spurious": ["The website makes spurious health claims.|Trang web đưa ra những khẳng định vô căn cứ về sức khỏe.", "He was arrested on spurious charges.|Anh ta bị bắt với những cáo buộc ngụy tạo.", "That's a spurious argument at best.|Đó cùng lắm chỉ là lập luận không có căn cứ."],
- "bona fide": ["Only bona fide students can use the library.|Chỉ sinh viên thật sự mới được dùng thư viện.", "She's a bona fide expert in the field.|Cô ấy là chuyên gia chính hiệu trong lĩnh vực này.", "The buyer acted in bona fide good faith.|Người mua hành động hoàn toàn ngay tình."],
- "archetype": ["He is the archetype of the self-made businessman.|Ông ấy là hình mẫu điển hình của doanh nhân tự thân.", "The story uses the hero archetype.|Câu chuyện dùng nguyên mẫu người hùng.", "That building became an archetype for modern design.|Tòa nhà đó trở thành nguyên mẫu cho thiết kế hiện đại."],
- "antithesis": ["His calm style is the antithesis of hers.|Phong cách điềm tĩnh của anh đối lập hoàn toàn với cô ấy.", "Freedom is the antithesis of slavery.|Tự do là sự đối lập hoàn toàn với nô lệ.", "The essay builds on thesis and antithesis.|Bài luận xây dựng trên luận đề và phản đề."],
- "vermin": ["The old barn was overrun with vermin.|Cái kho cũ đầy chuột bọ.", "Farmers treat these birds as vermin.|Nông dân coi mấy loài chim này là loài gây hại.", "He called the corrupt officials vermin.|Ông gọi đám quan tham là quân sâu mọt."],
- "cull": ["Officials plan to cull the deer herd.|Giới chức dự định tiêu hủy bớt đàn hươu.", "She culled the best photos from thousands.|Cô chọn lọc ra những bức ảnh đẹp nhất từ hàng nghìn tấm.", "The badger cull remains highly controversial.|Đợt tiêu hủy lửng vẫn gây tranh cãi gay gắt."],
- "coax": ["She coaxed the cat out from under the bed.|Cô dỗ con mèo chui ra khỏi gầm giường.", "He coaxed her into telling the whole story.|Anh nhẹ nhàng thuyết phục cô kể hết câu chuyện.", "It took an hour to coax the engine to start.|Phải mất một tiếng mới dỗ được cái máy nổ."],
- "minster": ["York Minster draws visitors from around the world.|Nhà thờ lớn York thu hút du khách khắp thế giới.", "The minster dates back to the twelfth century.|Nhà thờ lớn này có từ thế kỷ mười hai.", "We attended a concert at the minster.|Chúng tôi dự một buổi hòa nhạc ở nhà thờ lớn."],
- "topple": ["Protesters vowed to topple the government.|Người biểu tình thề lật đổ chính phủ.", "The statue toppled in the earthquake.|Bức tượng đổ nhào trong trận động đất.", "A scandal toppled the party leader.|Một vụ bê bối hạ bệ lãnh đạo đảng."],
- "amorphous": ["The plan is still amorphous and untested.|Kế hoạch vẫn còn mơ hồ và chưa được kiểm chứng.", "An amorphous shape moved behind the glass.|Một hình thù không rõ ràng di chuyển sau lớp kính.", "Glass is an amorphous solid.|Thủy tinh là chất rắn vô định hình."],
- "plumage": ["The male bird has spectacular plumage.|Con chim trống có bộ lông rực rỡ.", "Its winter plumage is much duller.|Bộ lông mùa đông của nó xỉn hơn nhiều.", "She arrived in full plumage for the gala.|Bà xuất hiện với bộ cánh lộng lẫy tại dạ tiệc."],
- "proportionally": ["Costs rose proportionally with the workload.|Chi phí tăng theo tỷ lệ với khối lượng công việc.", "Smaller towns receive proportionally less funding.|Thị trấn nhỏ nhận được tài trợ ít hơn tương ứng.", "Divide the profits proportionally among partners.|Chia lợi nhuận theo tỷ lệ giữa các đối tác."],
- "connotation": ["The word carries a negative connotation.|Từ này mang hàm ý tiêu cực.", "Choose a term without political connotations.|Chọn một từ không có sắc thái chính trị.", "Its connotation differs across cultures.|Hàm ý của nó khác nhau giữa các nền văn hóa."],
- "reproach": ["She reproached him for forgetting the date.|Cô trách móc anh vì quên mất ngày hẹn.", "His work is beyond reproach.|Công việc của anh ấy không có gì để chê trách.", "There was reproach in her quiet voice.|Có sự trách cứ trong giọng nói khẽ của cô."],
- "idiosyncratic": ["His teaching style is highly idiosyncratic.|Phong cách dạy của thầy rất riêng.", "She has an idiosyncratic way of filing papers.|Cô ấy có cách sắp xếp giấy tờ đặc thù riêng.", "The film's idiosyncratic humor divided critics.|Kiểu hài kỳ quặc của phim chia rẽ giới phê bình."],
- "exorcist": ["The family called in an exorcist.|Gia đình mời một người trừ tà đến.", "The film follows a young exorcist.|Bộ phim theo chân một thầy trừ quỷ trẻ.", "He trained for years as an exorcist.|Ông ấy học nhiều năm để làm người trừ tà."],
- "allusion": ["The poem is full of biblical allusions.|Bài thơ đầy những điển tích Kinh Thánh.", "She made an allusion to his past mistakes.|Cô ám chỉ những sai lầm trong quá khứ của anh.", "The title is an allusion to a Greek myth.|Nhan đề dẫn chiếu một huyền thoại Hy Lạp."],
- "embed": ["You can embed the video in your blog post.|Bạn có thể nhúng video vào bài blog.", "Fragments of glass were embedded in the tire.|Mảnh thủy tinh cắm sâu vào lốp xe.", "The idea is deeply embedded in our culture.|Ý niệm đó ăn sâu trong văn hóa của chúng ta."],
- "hysterically": ["She was crying hysterically when help arrived.|Cô khóc cuồng loạn khi người cứu tới nơi.", "The kids laughed hysterically at the puppet.|Bọn trẻ cười ngặt nghẽo vì con rối.", "He shouted hysterically into the phone.|Anh ta hét như phát điên vào điện thoại."],
- "paradoxically": ["Paradoxically, eating more often helped her lose weight.|Nghịch lý thay, ăn nhiều bữa hơn lại giúp cô giảm cân.", "Paradoxically, the safer road had more accidents.|Trái khoáy thay, con đường an toàn hơn lại nhiều tai nạn hơn.", "Paradoxically, silence made the room feel louder.|Nghịch lý thay, sự im lặng làm căn phòng như ồn hơn."],
- "mull over": ["Let me mull over your offer for a day.|Để tôi ngẫm kỹ đề nghị của bạn một ngày.", "She mulled the decision over all weekend.|Cô cân nhắc quyết định đó suốt cuối tuần.", "He's still mulling over which job to take.|Anh ấy vẫn đang suy đi tính lại chọn việc nào."],
- "tacit": ["There was a tacit agreement not to mention it.|Có một thỏa thuận ngầm là không nhắc đến chuyện đó.", "His silence gave tacit approval.|Sự im lặng của ông coi như đồng ý ngầm.", "They had a tacit understanding about money.|Họ ngầm hiểu nhau về chuyện tiền bạc."],
- "vindication": ["The verdict was a complete vindication for her.|Bản án là sự minh oan trọn vẹn cho cô.", "He saw the results as vindication of his method.|Ông xem kết quả là bằng chứng phương pháp của mình đúng.", "After years of doubt, vindication finally came.|Sau nhiều năm bị nghi ngờ, sự minh oan cuối cùng cũng đến."],
- "midwifery": ["She studied midwifery in Edinburgh.|Cô ấy học nghề hộ sinh ở Edinburgh.", "Midwifery has a long history in rural areas.|Nghề đỡ đẻ có lịch sử lâu đời ở vùng nông thôn.", "The hospital expanded its midwifery program.|Bệnh viện mở rộng chương trình hộ sinh."],
- "painstaking": ["The restoration was painstaking and slow.|Việc phục chế vừa tỉ mỉ vừa chậm chạp.", "She kept painstaking records of every expense.|Cô ghi chép kỹ lưỡng mọi khoản chi.", "It took painstaking work to decode the letter.|Phải rất dày công mới giải mã được lá thư."],
- "colloquial": ["The book is written in colloquial English.|Cuốn sách viết bằng tiếng Anh thông tục.", "Avoid colloquial expressions in academic writing.|Tránh dùng khẩu ngữ trong văn viết học thuật.", "His colloquial style made the lecture enjoyable.|Lối nói đời thường khiến bài giảng dễ nghe."],
- "resuscitation": ["Paramedics attempted resuscitation at the scene.|Nhân viên y tế tiến hành hồi sức ngay tại chỗ.", "He was revived after twenty minutes of resuscitation.|Anh ấy tỉnh lại sau hai mươi phút cấp cứu hồi sinh.", "All staff are trained in resuscitation.|Toàn bộ nhân viên được đào tạo hồi sức."],
- "patchy": ["Cell reception is patchy in the mountains.|Sóng điện thoại trên núi chỗ được chỗ không.", "His knowledge of history is rather patchy.|Kiến thức lịch sử của anh ấy khá chắp vá.", "Patchy fog is expected tomorrow morning.|Sáng mai dự báo có sương mù rải rác."],
- "shoal": ["A shoal of fish darted past the reef.|Một đàn cá lướt qua rạn san hô.", "The boat ran aground on a shoal.|Con thuyền mắc cạn trên một bãi cạn.", "Divers spotted a huge shoal below them.|Thợ lặn thấy một đàn cá khổng lồ bên dưới."],
- "edifice": ["The cathedral is a magnificent stone edifice.|Nhà thờ chính tòa là một công trình đá nguy nga.", "They built an edifice of rules over decades.|Họ dựng nên cả hệ thống quy định bề thế qua nhiều thập kỷ.", "The whole edifice of the theory collapsed.|Toàn bộ hệ thống lý thuyết sụp đổ."]
+  "detract": [
+    "The noise detracts from an otherwise lovely apartment.|Tiếng ồn làm giảm giá trị của một căn hộ vốn rất đẹp.",
+    "One weak scene doesn't detract from the film.|Một cảnh yếu không làm lu mờ cả bộ phim.",
+    "Nothing can detract from her achievement.|Không gì làm giảm được thành tựu của cô ấy.",
+    "Too much makeup can detract from natural beauty.|Trang điểm quá đậm có thể làm lu mờ vẻ đẹp tự nhiên.",
+    "The ugly sign detracts from the old building.|Tấm biển xấu xí làm giảm vẻ đẹp của tòa nhà cổ."
+  ],
+  "reissue": [
+    "The label plans to reissue the album on vinyl.|Hãng đĩa dự định phát hành lại album trên đĩa than.",
+    "They reissued the novel with a new cover.|Họ tái bản cuốn tiểu thuyết với bìa mới.",
+    "The reissue includes three unreleased tracks.|Bản tái phát hành có thêm ba bài chưa từng công bố.",
+    "The bank will reissue your card within a week.|Ngân hàng sẽ cấp lại thẻ cho bạn trong vòng một tuần.",
+    "The film's reissue in theaters drew a new audience.|Việc bộ phim được chiếu lại ở rạp thu hút lượng khán giả mới."
+  ],
+  "veritable": [
+    "Her garden is a veritable jungle in summer.|Khu vườn của bà mùa hè đúng là một khu rừng thật sự.",
+    "The market was a veritable feast of colors.|Khu chợ đích thực là một bữa tiệc màu sắc.",
+    "He's a veritable encyclopedia of local history.|Ông ấy đúng là một cuốn bách khoa về lịch sử địa phương.",
+    "The attic was a veritable treasure trove of old toys.|Căn gác đúng là một kho báu đồ chơi cũ.",
+    "A veritable army of volunteers cleaned the park.|Cả một đội quân tình nguyện viên thực thụ đã dọn dẹp công viên."
+  ],
+  "skew": [
+    "A few extreme values can skew the average.|Vài giá trị cực đoan có thể làm sai lệch số trung bình.",
+    "The sample skews toward younger voters.|Mẫu khảo sát lệch về phía cử tri trẻ.",
+    "The picture hangs slightly skew on the wall.|Bức tranh treo hơi lệch trên tường.",
+    "Social media can skew our view of reality.|Mạng xã hội có thể làm lệch cái nhìn của chúng ta về thực tế.",
+    "Heavy rain can skew the results of an outdoor survey.|Mưa lớn có thể làm sai lệch kết quả của một cuộc khảo sát ngoài trời."
+  ],
+  "hindrance": [
+    "His broken leg was a serious hindrance.|Cái chân gãy là một trở ngại lớn với anh ấy.",
+    "She works without hindrance from her family.|Cô ấy làm việc mà không bị gia đình cản trở.",
+    "Poor roads are a hindrance to local trade.|Đường sá kém là vật cản cho thương mại địa phương.",
+    "Shyness can be a hindrance in job interviews.|Tính nhút nhát có thể là trở ngại trong các buổi phỏng vấn xin việc.",
+    "The new rules are more of a hindrance than a help.|Các quy định mới gây cản trở nhiều hơn là giúp ích."
+  ],
+  "individualism": [
+    "American culture prizes individualism highly.|Văn hóa Mỹ đề cao chủ nghĩa cá nhân.",
+    "There's tension between individualism and community.|Có sự giằng co giữa chủ nghĩa cá nhân và tính cộng đồng.",
+    "Her fierce individualism made her hard to manage.|Tinh thần tự lập mạnh mẽ khiến cô ấy khó quản lý.",
+    "Individualism is less valued in many Asian cultures.|Chủ nghĩa cá nhân ít được đề cao ở nhiều nền văn hóa châu Á.",
+    "The cowboy is a symbol of rugged individualism.|Chàng cao bồi là biểu tượng của tinh thần tự lập kiên cường."
+  ],
+  "abject": [
+    "Millions still live in abject poverty.|Hàng triệu người vẫn sống trong cảnh nghèo cùng cực.",
+    "The apology was an abject failure.|Lời xin lỗi là một thất bại thảm hại.",
+    "He offered an abject apology to the court.|Anh ta hạ mình xin lỗi rối rít trước tòa.",
+    "The refugees lived in abject misery.|Người tị nạn sống trong cảnh khốn cùng.",
+    "The team's defense was an abject mess.|Hàng phòng ngự của đội là một mớ hỗn độn thảm hại."
+  ],
+  "austere": [
+    "The monks live an austere life in the mountains.|Các tu sĩ sống đời khắc khổ trên núi.",
+    "The room was austere but spotlessly clean.|Căn phòng đơn sơ nhưng sạch bong.",
+    "Her father was an austere, distant man.|Cha cô ấy là một người nghiêm khắc và xa cách.",
+    "The government introduced austere budget measures.|Chính phủ đưa ra các biện pháp ngân sách thắt lưng buộc bụng.",
+    "The desert has an austere beauty.|Sa mạc mang một vẻ đẹp khắc nghiệt."
+  ],
+  "superfluous": [
+    "Cut any superfluous words from the essay.|Cắt bỏ mọi từ thừa trong bài luận.",
+    "Further explanation seemed superfluous.|Giải thích thêm có vẻ không cần thiết.",
+    "The extra staff proved superfluous.|Số nhân viên tăng thêm hóa ra là thừa.",
+    "Modern phones make many gadgets superfluous.|Điện thoại hiện đại khiến nhiều thiết bị trở nên thừa thãi.",
+    "The film has too many superfluous scenes.|Bộ phim có quá nhiều cảnh thừa."
+  ],
+  "consignment": [
+    "A consignment of medicine arrived this morning.|Một lô hàng thuốc đã đến sáng nay.",
+    "The goods were sent on consignment.|Hàng được gửi theo hình thức ký gửi.",
+    "Customs held the consignment for two days.|Hải quan giữ lô hàng hai ngày.",
+    "The gallery takes paintings on consignment.|Phòng tranh nhận tranh ký gửi.",
+    "A large consignment of rice is due next week.|Một lô gạo lớn sẽ đến vào tuần sau."
+  ],
+  "infernal": [
+    "Turn off that infernal alarm, please.|Tắt cái báo thức quái quỷ đó đi.",
+    "The heat in the kitchen was infernal.|Cái nóng trong bếp như địa ngục.",
+    "He described the infernal noise of the factory.|Ông tả lại tiếng ồn kinh khủng của nhà máy.",
+    "Dante described the infernal regions in detail.|Dante mô tả chi tiết cõi địa ngục.",
+    "That infernal dog barked all night.|Con chó quái quỷ đó sủa suốt đêm."
+  ],
+  "mystique": [
+    "The old theater has a certain mystique.|Nhà hát cũ có một vẻ huyền bí riêng.",
+    "Years of silence added to her mystique.|Nhiều năm im lặng càng tăng hào quang bí ẩn quanh bà.",
+    "The brand carefully protects its mystique.|Thương hiệu cẩn thận giữ gìn vẻ huyền bí của mình.",
+    "Much of the band's mystique comes from never giving interviews.|Phần lớn vẻ huyền bí của ban nhạc đến từ việc chưa từng trả lời phỏng vấn.",
+    "Once you learn the trick, magic loses its mystique.|Một khi biết mánh, ảo thuật mất hết vẻ huyền bí."
+  ],
+  "materialistic": [
+    "He accused the younger generation of being materialistic.|Ông trách thế hệ trẻ quá chuộng vật chất.",
+    "She grew tired of their materialistic lifestyle.|Cô chán ngán lối sống thực dụng vật chất của họ.",
+    "Holidays have become increasingly materialistic.|Các dịp lễ ngày càng nặng tính vật chất.",
+    "Some parents worry that children are becoming too materialistic.|Một số phụ huynh lo con cái ngày càng chuộng vật chất.",
+    "He's not materialistic; he'd rather travel than buy things.|Anh không chuộng vật chất; anh thích đi du lịch hơn là mua sắm."
+  ],
+  "materialize": [
+    "The promised funding never materialized.|Khoản tài trợ được hứa chẳng bao giờ thành hiện thực.",
+    "A figure materialized out of the fog.|Một bóng người hiện ra từ trong sương mù.",
+    "Their plans failed to materialize this year.|Kế hoạch của họ năm nay không thành.",
+    "Profits will materialize only if sales improve.|Lợi nhuận chỉ thành hiện thực nếu doanh số cải thiện.",
+    "A waiter materialized at our table as soon as we sat down.|Một người phục vụ bỗng xuất hiện bên bàn ngay khi chúng tôi ngồi xuống."
+  ],
+  "extracurricular": [
+    "She joined several extracurricular activities at school.|Cô ấy tham gia nhiều hoạt động ngoại khóa ở trường.",
+    "Colleges look at extracurricular achievements too.|Các trường đại học cũng xem thành tích ngoại khóa.",
+    "He had no time for extracurricular clubs.|Cậu ấy không có thời gian cho câu lạc bộ ngoại khóa.",
+    "The school offers extracurricular music and drama.|Trường có các hoạt động ngoại khóa về âm nhạc và kịch.",
+    "Extracurricular sports help students make friends.|Thể thao ngoại khóa giúp học sinh kết bạn."
+  ],
+  "fluctuate": [
+    "Oil prices fluctuate wildly these days.|Giá dầu dạo này dao động dữ dội.",
+    "Her weight fluctuated during the illness.|Cân nặng của cô lên xuống thất thường trong thời gian bệnh.",
+    "Temperatures fluctuate between five and twenty degrees.|Nhiệt độ dao động từ năm đến hai mươi độ.",
+    "Moods can fluctuate during the day.|Tâm trạng có thể lên xuống thất thường trong ngày.",
+    "The number of visitors fluctuates with the seasons.|Lượng khách thay đổi theo mùa."
+  ],
+  "ephemeral": [
+    "Fame in that industry is famously ephemeral.|Danh tiếng trong ngành đó nổi tiếng là phù du.",
+    "Cherry blossoms are beautiful but ephemeral.|Hoa anh đào đẹp nhưng chóng tàn.",
+    "Social media trends are ephemeral by nature.|Trào lưu mạng xã hội vốn dĩ rất ngắn ngủi.",
+    "Snapchat made ephemeral messages popular.|Snapchat làm phổ biến những tin nhắn tự biến mất.",
+    "Some desert flowers bloom for a single ephemeral day.|Một số loài hoa sa mạc chỉ nở trong một ngày ngắn ngủi."
+  ],
+  "arcane": [
+    "The tax rules are arcane and confusing.|Các quy định thuế vừa khó hiểu vừa rối rắm.",
+    "He collects arcane knowledge about old maps.|Ông ấy sưu tầm kiến thức bí truyền về bản đồ cổ.",
+    "Only specialists grasp these arcane details.|Chỉ chuyên gia mới nắm được những chi tiết khó hiểu này.",
+    "The club has arcane rituals for new members.|Câu lạc bộ có những nghi lễ bí truyền dành cho thành viên mới.",
+    "Lawyers argued over an arcane point of procedure.|Các luật sư tranh cãi về một điểm thủ tục khó hiểu."
+  ],
+  "swivel": [
+    "She swiveled around in her office chair.|Cô ấy xoay tròn trên chiếc ghế văn phòng.",
+    "The camera swivels a full three hundred degrees.|Máy quay xoay được trọn ba trăm độ.",
+    "He swiveled to face the door.|Anh quay ngoắt lại phía cửa.",
+    "Sit in the swivel chair and turn around slowly.|Ngồi vào chiếc ghế xoay rồi xoay người từ từ.",
+    "Owls can swivel their heads a long way.|Cú có thể xoay đầu một góc rất lớn."
+  ],
+  "behest": [
+    "The inquiry was launched at the behest of parliament.|Cuộc điều tra được mở theo yêu cầu của quốc hội.",
+    "She resigned at the behest of the board.|Bà từ chức theo lệnh của hội đồng quản trị.",
+    "The letter was written at his behest.|Lá thư được viết theo yêu cầu của ông ấy.",
+    "At the teacher's behest, the students wrote thank-you notes.|Theo yêu cầu của cô giáo, học sinh viết thiệp cảm ơn.",
+    "The bridge was built at the behest of local farmers.|Cây cầu được xây theo đề nghị của nông dân địa phương."
+  ],
+  "athleticism": [
+    "His athleticism was obvious even as a child.|Tố chất vận động của cậu ấy rõ ràng ngay từ nhỏ.",
+    "The team relies on speed and athleticism.|Đội bóng dựa vào tốc độ và thể lực tốt.",
+    "Her athleticism carried her through the final round.|Sự dẻo dai giúp cô vượt qua vòng cuối.",
+    "The dancers combine grace with athleticism.|Các vũ công kết hợp sự uyển chuyển với thể lực dẻo dai.",
+    "Rock climbing demands strength, balance, and athleticism.|Leo núi đá đòi hỏi sức mạnh, thăng bằng và thể lực dẻo dai."
+  ],
+  "habitation": [
+    "The island shows signs of ancient habitation.|Hòn đảo có dấu vết cư ngụ từ thời cổ.",
+    "The building is unfit for human habitation.|Tòa nhà không đủ điều kiện cho người ở.",
+    "They found traces of habitation in the cave.|Họ tìm thấy dấu vết cư trú trong hang.",
+    "Human habitation of the valley began ten thousand years ago.|Con người bắt đầu cư trú ở thung lũng này từ mười nghìn năm trước.",
+    "Nomads move their habitations with the seasons.|Dân du mục di chuyển chỗ ở theo mùa."
+  ],
+  "interlocking": [
+    "The floor is made of interlocking wooden tiles.|Sàn làm bằng các tấm gỗ cài khớp vào nhau.",
+    "The story has several interlocking plots.|Câu chuyện có nhiều tuyến truyện đan xen.",
+    "These are interlocking problems, not separate ones.|Đây là những vấn đề đan xen, không tách rời.",
+    "Interlocking bricks make the wall stronger.|Gạch cài khớp làm bức tường chắc chắn hơn.",
+    "The Olympic flag shows five interlocking rings.|Lá cờ Olympic có năm vòng tròn lồng vào nhau."
+  ],
+  "figuratively": [
+    "He was figuratively drowning in paperwork.|Nói theo nghĩa bóng thì anh ấy chết chìm trong giấy tờ.",
+    "I meant it figuratively, not literally.|Tôi nói theo nghĩa bóng, không phải nghĩa đen.",
+    "She used the word figuratively in her essay.|Cô ấy dùng từ đó theo nghĩa bóng trong bài luận.",
+    "Figuratively speaking, the city never sleeps.|Nói theo nghĩa bóng, thành phố không bao giờ ngủ.",
+    "Poets often speak figuratively about love and death.|Các nhà thơ thường nói về tình yêu và cái chết theo lối ví von."
+  ],
+  "shimmer": [
+    "The lake shimmered in the afternoon sun.|Mặt hồ lung linh dưới nắng chiều.",
+    "Her dress shimmered under the stage lights.|Chiếc váy của cô lấp lánh dưới ánh đèn sân khấu.",
+    "A shimmer of heat rose from the road.|Một làn hơi nóng lung linh bốc lên từ mặt đường.",
+    "Stars shimmer through the cold air.|Các vì sao lấp lánh xuyên qua bầu không khí lạnh.",
+    "The fabric has a silver shimmer.|Tấm vải có ánh lấp lánh màu bạc."
+  ],
+  "aberration": [
+    "The warm December was a statistical aberration.|Tháng Mười Hai ấm áp là một bất thường về thống kê.",
+    "He called his outburst a temporary aberration.|Ông gọi cơn nổi giận đó là sự lệch lạc nhất thời.",
+    "Such errors are an aberration, not the norm.|Những lỗi như vậy là bất thường, không phải chuyện thường.",
+    "The loss was an aberration in an otherwise great season.|Trận thua là một điều bất thường trong một mùa giải vốn tuyệt vời.",
+    "Cheap lenses can cause chromatic aberration.|Ống kính rẻ tiền có thể gây quang sai màu."
+  ],
+  "facsimile": [
+    "The museum displays a facsimile of the manuscript.|Bảo tàng trưng bày bản sao y hệt của bản thảo.",
+    "This edition is an exact facsimile of the original.|Ấn bản này là bản mô phỏng chính xác bản gốc.",
+    "He sent the contract by facsimile.|Ông ấy gửi hợp đồng qua fax.",
+    "The shop sells facsimile copies of old maps.|Cửa hàng bán bản sao y hệt của các bản đồ cổ.",
+    "The replica is a perfect facsimile of the crown.|Bản sao là một bản mô phỏng hoàn hảo của chiếc vương miện."
+  ],
+  "posterity": [
+    "The letters were preserved for posterity.|Những lá thư được gìn giữ cho hậu thế.",
+    "He recorded the interview for posterity.|Ông ghi lại cuộc phỏng vấn để lưu cho đời sau.",
+    "Posterity will judge these decisions harshly.|Hậu thế sẽ phán xét những quyết định này rất nghiêm khắc.",
+    "We plant trees for posterity, not for ourselves.|Chúng ta trồng cây cho hậu thế chứ không cho bản thân.",
+    "History and posterity will remember her courage.|Lịch sử và hậu thế sẽ ghi nhớ lòng dũng cảm của bà."
+  ],
+  "elated": [
+    "She was elated by the exam results.|Cô ấy hân hoan với kết quả thi.",
+    "The whole town felt elated after the win.|Cả thị trấn phấn khích sau chiến thắng.",
+    "He sounded elated on the phone.|Giọng anh ấy sướng rơn qua điện thoại.",
+    "Fans were elated when the band announced a reunion.|Người hâm mộ vui sướng khi ban nhạc tuyên bố tái hợp.",
+    "She let out an elated little shriek when she opened the letter.|Cô khẽ reo lên đầy phấn khích khi mở lá thư."
+  ],
+  "abhorrent": [
+    "Such cruelty is abhorrent to most people.|Sự tàn ác như vậy khiến hầu hết mọi người ghê tởm.",
+    "The party rejected those abhorrent views.|Đảng bác bỏ những quan điểm kinh tởm đó.",
+    "She found the practice morally abhorrent.|Cô thấy tập tục đó đáng ghê sợ về mặt đạo đức.",
+    "Racism is abhorrent in any form.|Phân biệt chủng tộc dưới bất kỳ hình thức nào cũng đáng ghê tởm.",
+    "The idea of eating insects is abhorrent to some people.|Ý nghĩ ăn côn trùng khiến một số người thấy kinh tởm."
+  ],
+  "spurious": [
+    "The website makes spurious health claims.|Trang web đưa ra những khẳng định vô căn cứ về sức khỏe.",
+    "He was arrested on spurious charges.|Anh ta bị bắt với những cáo buộc ngụy tạo.",
+    "That's a spurious argument at best.|Đó cùng lắm chỉ là lập luận không có căn cứ.",
+    "Ice cream sales and drowning show a spurious correlation.|Doanh số kem và số vụ đuối nước có một mối tương quan giả tạo.",
+    "The document turned out to be spurious.|Tài liệu hóa ra là giả mạo."
+  ],
+  "bona fide": [
+    "Only bona fide students can use the library.|Chỉ sinh viên thật sự mới được dùng thư viện.",
+    "She's a bona fide expert in the field.|Cô ấy là chuyên gia chính hiệu trong lĩnh vực này.",
+    "The court ruled she was a bona fide purchaser.|Tòa phán quyết bà là người mua ngay tình.",
+    "Is this a bona fide offer or just a joke?|Đây là lời đề nghị thật hay chỉ là đùa?",
+    "The band became a bona fide hit overnight.|Ban nhạc trở thành hiện tượng thực sự chỉ sau một đêm."
+  ],
+  "archetype": [
+    "He's the archetype of the self-made businessman.|Ông ấy là hình mẫu điển hình của doanh nhân tự thân.",
+    "The story uses the hero archetype.|Câu chuyện dùng nguyên mẫu người hùng.",
+    "That building became an archetype for modern design.|Tòa nhà đó trở thành nguyên mẫu cho thiết kế hiện đại.",
+    "The wise old mentor is a common archetype in fantasy.|Người thầy già thông thái là nguyên mẫu phổ biến trong truyện giả tưởng.",
+    "Jung believed archetypes live in the collective unconscious.|Jung tin rằng các nguyên mẫu tồn tại trong vô thức tập thể."
+  ],
+  "antithesis": [
+    "His calm style is the antithesis of hers.|Phong cách điềm tĩnh của anh đối lập hoàn toàn với cô ấy.",
+    "Freedom is the antithesis of slavery.|Tự do là sự đối lập hoàn toàn với nô lệ.",
+    "The essay builds on thesis and antithesis.|Bài luận xây dựng trên luận đề và phản đề.",
+    "Fast food is the antithesis of healthy eating.|Đồ ăn nhanh là sự đối lập hoàn toàn với ăn uống lành mạnh.",
+    "His quiet life was the antithesis of his father's.|Cuộc sống lặng lẽ của anh trái ngược hẳn với cuộc sống của cha anh."
+  ],
+  "vermin": [
+    "The old barn was overrun with vermin.|Cái kho cũ đầy chuột bọ.",
+    "Farmers treat these birds as vermin.|Nông dân coi mấy loài chim này là loài gây hại.",
+    "He called the corrupt officials vermin.|Ông gọi đám quan tham là quân sâu mọt.",
+    "Keep food sealed to avoid attracting vermin.|Đậy kín thức ăn để tránh thu hút chuột bọ.",
+    "In the past, foxes were hunted as vermin.|Trước đây, cáo bị săn bắt như loài gây hại."
+  ],
+  "cull": [
+    "Officials plan to cull the deer herd.|Giới chức dự định tiêu hủy bớt đàn hươu.",
+    "She culled the best photos from thousands.|Cô chọn lọc ra những bức ảnh đẹp nhất từ hàng nghìn tấm.",
+    "The badger cull remains highly controversial.|Đợt tiêu hủy lửng vẫn gây tranh cãi gay gắt.",
+    "The company culled hundreds of fake accounts.|Công ty loại bỏ hàng trăm tài khoản giả.",
+    "Farmers were ordered to cull infected chickens.|Nông dân được lệnh tiêu hủy gà bị nhiễm bệnh."
+  ],
+  "coax": [
+    "She coaxed the cat out from under the bed.|Cô dỗ con mèo chui ra khỏi gầm giường.",
+    "He coaxed her into telling the whole story.|Anh nhẹ nhàng thuyết phục cô kể hết câu chuyện.",
+    "It took an hour to coax the engine to start.|Phải mất một tiếng mới dỗ được cái máy nổ.",
+    "The nurse coaxed the child into taking his medicine.|Y tá dỗ đứa bé uống thuốc.",
+    "Gardeners coax roses to bloom in winter.|Người làm vườn khéo léo giúp hoa hồng nở vào mùa đông."
+  ],
+  "minster": [
+    "York Minster draws visitors from around the world.|Nhà thờ lớn York thu hút du khách khắp thế giới.",
+    "The minster's towers can be seen from miles away.|Các tháp của nhà thờ lớn có thể nhìn thấy từ xa hàng dặm.",
+    "We attended a concert at the minster.|Chúng tôi dự một buổi hòa nhạc ở nhà thờ lớn.",
+    "The choir sings in the minster every evening.|Dàn hợp xướng hát trong nhà thờ lớn mỗi tối.",
+    "The minster bells ring every Sunday morning.|Chuông nhà thờ lớn vang lên mỗi sáng Chủ nhật."
+  ],
+  "topple": [
+    "Protesters vowed to topple the government.|Người biểu tình thề lật đổ chính phủ.",
+    "The statue toppled in the earthquake.|Bức tượng đổ nhào trong trận động đất.",
+    "A scandal toppled the party leader.|Một vụ bê bối hạ bệ lãnh đạo đảng.",
+    "The toddler toppled the tower of blocks.|Đứa bé làm đổ tháp đồ chơi xếp hình.",
+    "A strong gust toppled the old oak.|Một cơn gió mạnh quật đổ cây sồi già."
+  ],
+  "amorphous": [
+    "The plan is still amorphous and untested.|Kế hoạch vẫn còn mơ hồ và chưa được kiểm chứng.",
+    "An amorphous shape moved behind the glass.|Một hình thù không rõ ràng di chuyển sau lớp kính.",
+    "Glass is an amorphous solid.|Thủy tinh là chất rắn vô định hình.",
+    "The jellyfish looked like an amorphous blob on the sand.|Con sứa trông như một khối vô định hình trên cát.",
+    "The group's goals remain vague and amorphous.|Mục tiêu của nhóm vẫn còn mơ hồ và không rõ ràng."
+  ],
+  "plumage": [
+    "The male bird has spectacular plumage.|Con chim trống có bộ lông rực rỡ.",
+    "Its winter plumage is much duller.|Bộ lông mùa đông của nó xỉn hơn nhiều.",
+    "She arrived in full plumage for the gala.|Bà xuất hiện với bộ cánh lộng lẫy tại dạ tiệc.",
+    "Flamingos get their pink plumage from their diet.|Chim hồng hạc có bộ lông hồng nhờ chế độ ăn.",
+    "Birds show off their breeding plumage in spring.|Chim khoe bộ lông sinh sản vào mùa xuân."
+  ],
+  "proportionally": [
+    "Costs rose proportionally with the workload.|Chi phí tăng theo tỷ lệ với khối lượng công việc.",
+    "Smaller towns receive proportionally less funding.|Thị trấn nhỏ nhận được tài trợ ít hơn tương ứng.",
+    "Divide the profits proportionally among partners.|Chia lợi nhuận theo tỷ lệ giữa các đối tác.",
+    "Taxes should rise proportionally with income.|Thuế nên tăng tương ứng với thu nhập.",
+    "The model's head is proportionally too large.|Đầu của mô hình to quá so với tỷ lệ."
+  ],
+  "connotation": [
+    "The word carries a negative connotation.|Từ này mang hàm ý tiêu cực.",
+    "Choose a term without political connotations.|Chọn một từ không có sắc thái chính trị.",
+    "Its connotation differs across cultures.|Hàm ý của nó khác nhau giữa các nền văn hóa.",
+    "\"Cheap\" has a negative connotation; \"affordable\" doesn't.|\"Cheap\" mang hàm ý tiêu cực; \"affordable\" thì không.",
+    "The word \"home\" has warm connotations.|Từ \"home\" gợi những sắc thái ấm áp."
+  ],
+  "reproach": [
+    "She reproached him for forgetting the date.|Cô trách móc anh vì quên mất ngày hẹn.",
+    "His work is beyond reproach.|Công việc của anh ấy không có gì để chê trách.",
+    "There was reproach in her quiet voice.|Có sự trách cứ trong giọng nói khẽ của cô.",
+    "Don't reproach yourself; it wasn't your fault.|Đừng tự trách mình; đó không phải lỗi của bạn.",
+    "The dirty river is a reproach to the city.|Dòng sông ô nhiễm là nỗi ô danh của thành phố."
+  ],
+  "idiosyncratic": [
+    "His teaching style is highly idiosyncratic.|Phong cách dạy của thầy rất riêng.",
+    "She has an idiosyncratic way of filing papers.|Cô ấy có cách sắp xếp giấy tờ đặc thù riêng.",
+    "The film's idiosyncratic humor divided critics.|Kiểu hài kỳ quặc của phim chia rẽ giới phê bình.",
+    "The house is decorated in an idiosyncratic mix of styles.|Ngôi nhà được trang trí theo lối pha trộn phong cách rất riêng.",
+    "Each cat has idiosyncratic habits.|Mỗi con mèo có những thói quen rất riêng."
+  ],
+  "exorcist": [
+    "The family called in an exorcist.|Gia đình mời một người trừ tà đến.",
+    "The film follows a young exorcist.|Bộ phim theo chân một thầy trừ quỷ trẻ.",
+    "He trained for years as an exorcist.|Ông ấy học nhiều năm để làm người trừ tà.",
+    "The exorcist read prayers over the sleeping girl.|Người trừ tà đọc kinh cầu bên cô bé đang ngủ.",
+    "Some churches still appoint an official exorcist.|Một số giáo hội vẫn bổ nhiệm người trừ tà chính thức."
+  ],
+  "allusion": [
+    "The poem is full of biblical allusions.|Bài thơ đầy những điển tích Kinh Thánh.",
+    "She made an allusion to his past mistakes.|Cô ám chỉ những sai lầm trong quá khứ của anh.",
+    "The title is an allusion to a Greek myth.|Nhan đề dẫn chiếu một huyền thoại Hy Lạp.",
+    "The song's lyrics contain an allusion to Shakespeare.|Lời bài hát có một chỗ dẫn chiếu Shakespeare.",
+    "Her speech made no allusion to the scandal.|Bài phát biểu của bà không hề ám chỉ đến vụ bê bối."
+  ],
+  "embed": [
+    "You can embed the video in your blog post.|Bạn có thể nhúng video vào bài blog.",
+    "Fragments of glass were embedded in the tire.|Mảnh thủy tinh cắm sâu vào lốp xe.",
+    "The idea is deeply embedded in our culture.|Ý niệm đó ăn sâu trong văn hóa của chúng ta.",
+    "The army embedded reporters with the troops.|Quân đội cho phóng viên đi theo các đơn vị.",
+    "Embed the map on the contact page.|Nhúng bản đồ vào trang liên hệ."
+  ],
+  "hysterically": [
+    "She was crying hysterically when help arrived.|Cô khóc cuồng loạn khi người cứu tới nơi.",
+    "The kids laughed hysterically at the puppet.|Bọn trẻ cười ngặt nghẽo vì con rối.",
+    "He shouted hysterically into the phone.|Anh ta hét như phát điên vào điện thoại.",
+    "The movie is hysterically funny.|Bộ phim buồn cười kinh khủng.",
+    "The dog barked hysterically at the thunder.|Con chó sủa như điên khi có sấm."
+  ],
+  "paradoxically": [
+    "Paradoxically, eating more often helped her lose weight.|Nghịch lý thay, ăn nhiều bữa hơn lại giúp cô giảm cân.",
+    "Paradoxically, the safer road had more accidents.|Trái khoáy thay, con đường an toàn hơn lại nhiều tai nạn hơn.",
+    "Silence, paradoxically, made the room feel louder.|Nghịch lý thay, sự im lặng làm căn phòng như ồn hơn.",
+    "Having more choices can paradoxically make us less happy.|Có nhiều lựa chọn hơn, nghịch lý thay, lại có thể khiến ta kém hạnh phúc.",
+    "The rich neighborhood, paradoxically, had the worst roads.|Khu nhà giàu, trớ trêu thay, lại có đường sá tệ nhất."
+  ],
+  "mull over": [
+    "Let me mull over your offer for a day.|Để tôi ngẫm kỹ đề nghị của bạn một ngày.",
+    "She mulled the decision over all weekend.|Cô cân nhắc quyết định đó suốt cuối tuần.",
+    "He's still mulling over which job to take.|Anh ấy vẫn đang suy đi tính lại chọn việc nào.",
+    "Take the weekend to mull over the contract.|Hãy dành cuối tuần để cân nhắc bản hợp đồng.",
+    "The committee will mull over the proposals next month.|Ủy ban sẽ xem xét kỹ các đề xuất vào tháng tới."
+  ],
+  "tacit": [
+    "There was a tacit agreement not to mention it.|Có một thỏa thuận ngầm là không nhắc đến chuyện đó.",
+    "His silence gave tacit approval.|Sự im lặng của ông coi như đồng ý ngầm.",
+    "They had a tacit understanding about money.|Họ ngầm hiểu nhau về chuyện tiền bạc.",
+    "Workers often have tacit knowledge that isn't written down.|Người lao động thường có kiến thức ngầm không được ghi chép lại.",
+    "Her smile was a tacit admission of guilt.|Nụ cười của cô là sự thừa nhận ngầm tội lỗi."
+  ],
+  "vindication": [
+    "The verdict was a complete vindication for her.|Bản án là sự minh oan trọn vẹn cho cô.",
+    "He saw the results as vindication of his method.|Ông xem kết quả là bằng chứng phương pháp của mình đúng.",
+    "After years of doubt, vindication finally came.|Sau nhiều năm bị nghi ngờ, sự minh oan cuối cùng cũng đến.",
+    "The award felt like vindication after years of criticism.|Giải thưởng như một sự minh oan sau nhiều năm bị chỉ trích.",
+    "Her lawyers sought full vindication in court.|Luật sư của bà tìm kiếm sự minh oan trọn vẹn trước tòa."
+  ],
+  "midwifery": [
+    "She studied midwifery in Edinburgh.|Cô ấy học nghề hộ sinh ở Edinburgh.",
+    "Midwifery has a long history in rural areas.|Nghề đỡ đẻ có lịch sử lâu đời ở vùng nông thôn.",
+    "The hospital expanded its midwifery program.|Bệnh viện mở rộng chương trình hộ sinh.",
+    "Midwifery is one of the oldest professions.|Hộ sinh là một trong những nghề lâu đời nhất.",
+    "The course combines nursing and midwifery.|Khóa học kết hợp điều dưỡng và hộ sinh."
+  ],
+  "painstaking": [
+    "The restoration was painstaking and slow.|Việc phục chế vừa tỉ mỉ vừa chậm chạp.",
+    "She kept painstaking records of every expense.|Cô ghi chép kỹ lưỡng mọi khoản chi.",
+    "It took painstaking work to decode the letter.|Phải rất dày công mới giải mã được lá thư.",
+    "The model ship was built with painstaking care.|Mô hình con tàu được làm với sự tỉ mỉ công phu.",
+    "After painstaking research, they found the family's records.|Sau quá trình nghiên cứu dày công, họ đã tìm thấy hồ sơ của gia đình."
+  ],
+  "colloquial": [
+    "The book is written in colloquial English.|Cuốn sách viết bằng tiếng Anh thông tục.",
+    "Avoid colloquial expressions in academic writing.|Tránh dùng khẩu ngữ trong văn viết học thuật.",
+    "His colloquial style made the lecture enjoyable.|Lối nói đời thường khiến bài giảng dễ nghe.",
+    "\"Gonna\" is a colloquial form of \"going to.\"|\"Gonna\" là dạng khẩu ngữ của \"going to.\"",
+    "The translation sounds too colloquial for a legal document.|Bản dịch nghe quá suồng sã đối với một văn bản pháp lý."
+  ],
+  "resuscitation": [
+    "Paramedics attempted resuscitation at the scene.|Nhân viên y tế tiến hành hồi sức ngay tại chỗ.",
+    "He was revived after twenty minutes of resuscitation.|Anh ấy tỉnh lại sau hai mươi phút cấp cứu hồi sinh.",
+    "All staff are trained in resuscitation.|Toàn bộ nhân viên được đào tạo hồi sức.",
+    "The swimmer needed resuscitation after being pulled from the pool.|Người bơi cần được hồi sức sau khi được kéo lên khỏi hồ.",
+    "Everyone should learn basic resuscitation skills.|Ai cũng nên học kỹ năng hồi sức cơ bản."
+  ],
+  "patchy": [
+    "Cell reception is patchy in the mountains.|Sóng điện thoại trên núi chỗ được chỗ không.",
+    "His knowledge of history is rather patchy.|Kiến thức lịch sử của anh ấy khá chắp vá.",
+    "Patchy fog is expected tomorrow morning.|Sáng mai dự báo có sương mù rải rác.",
+    "The grass is patchy after the dry summer.|Cỏ loang lổ sau mùa hè khô hạn.",
+    "The team's form has been patchy all season.|Phong độ của đội thất thường suốt cả mùa."
+  ],
+  "shoal": [
+    "A shoal of fish darted past the reef.|Một đàn cá lướt qua rạn san hô.",
+    "The boat ran aground on a shoal.|Con thuyền mắc cạn trên một bãi cạn.",
+    "Divers spotted a huge shoal below them.|Thợ lặn thấy một đàn cá khổng lồ bên dưới.",
+    "Dolphins herd a shoal of sardines to the surface.|Cá heo lùa đàn cá mòi lên mặt nước.",
+    "Sailors marked the dangerous shoals on their charts.|Thủy thủ đánh dấu những bãi cạn nguy hiểm trên hải đồ."
+  ],
+  "edifice": [
+    "The cathedral is a magnificent stone edifice.|Nhà thờ chính tòa là một công trình đá nguy nga.",
+    "They built an edifice of rules over decades.|Họ dựng nên cả hệ thống quy định bề thế qua nhiều thập kỷ.",
+    "The whole edifice of the theory collapsed.|Toàn bộ hệ thống lý thuyết sụp đổ.",
+    "The new library is a glass-and-steel edifice.|Thư viện mới là một công trình bằng kính và thép.",
+    "Behind the grand edifice of the company lay huge debts.|Đằng sau vỏ bọc hoành tráng của công ty là những khoản nợ khổng lồ."
+  ]
 }

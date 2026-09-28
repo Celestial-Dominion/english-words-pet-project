@@ -1,302 +1,422 @@
 {
   "biology": [
-    "She's studying marine biology in Australia.|Cô ấy đang học sinh học biển ở Úc.",
+    "My sister teaches biology at a high school.|Chị tôi dạy sinh học ở một trường cấp ba.",
     "We dissected a frog in biology class.|Bọn tôi mổ ếch trong tiết sinh học.",
-    "He switched from chemistry to biology last year.|Năm ngoái anh ấy chuyển từ hóa sang sinh."
+    "He switched from chemistry to biology last year.|Năm ngoái anh ấy chuyển từ hóa sang sinh.",
+    "Biology is the study of living things.|Sinh học là môn nghiên cứu về sinh vật sống.",
+    "Human biology explains why we need sleep.|Sinh học con người giải thích vì sao chúng ta cần ngủ."
   ],
   "briefly": [
     "Can you briefly explain how it works?|Bạn giải thích ngắn gọn cách nó hoạt động được không?",
     "We met briefly at the conference last year.|Chúng tôi có gặp nhau thoáng qua ở hội nghị năm ngoái.",
-    "The sun came out briefly this afternoon.|Mặt trời ló ra một lát vào chiều nay."
+    "The sun came out briefly this afternoon.|Mặt trời ló ra một lát vào chiều nay.",
+    "The power went off briefly during the storm.|Điện mất một lúc trong cơn bão.",
+    "Let me briefly introduce our new team member.|Cho phép tôi giới thiệu ngắn gọn thành viên mới của nhóm."
   ],
   "canal": [
     "Ships pay a lot to use the Panama Canal.|Tàu bè trả rất nhiều tiền để đi qua kênh đào Panama.",
     "They live on a canal boat outside the city.|Họ sống trên một chiếc thuyền kênh đào ngoài thành phố.",
-    "I need a root canal, which sounds terrifying.|Tôi phải điều trị tủy răng, nghe mà rợn người."
+    "I need a root canal, which sounds terrifying.|Tôi phải điều trị tủy răng, nghe mà rợn người.",
+    "Venice is famous for its canals.|Venice nổi tiếng với những con kênh.",
+    "Farmers use irrigation canals to water their rice.|Nông dân dùng kênh thủy lợi để tưới lúa."
   ],
   "delete": [
     "Delete that file before someone sees it.|Xóa cái tệp đó đi trước khi có người thấy.",
     "She deleted her account after the argument.|Cô ấy xóa tài khoản sau cuộc cãi vã.",
-    "I accidentally deleted his message this morning.|Sáng nay tôi lỡ tay xóa mất tin nhắn của anh ấy."
+    "I accidentally deleted his message this morning.|Sáng nay tôi lỡ tay xóa mất tin nhắn của anh ấy.",
+    "Should I delete these old photos to free up space?|Tôi có nên xóa mấy tấm ảnh cũ này để giải phóng dung lượng không?",
+    "Please delete my name from the mailing list.|Vui lòng xóa tên tôi khỏi danh sách nhận thư."
   ],
   "departure": [
     "Our departure time got pushed back an hour.|Giờ khởi hành của chúng tôi bị lùi lại một tiếng.",
     "We waited in the departure lounge for ages.|Chúng tôi chờ ở phòng chờ khởi hành lâu lắm.",
-    "This album is a big departure from their old sound.|Album này khác hẳn so với âm nhạc trước đây của họ."
+    "This album is a big departure from their old sound.|Album này khác hẳn so với âm nhạc trước đây của họ.",
+    "Please arrive two hours before departure.|Vui lòng có mặt hai tiếng trước giờ khởi hành.",
+    "His sudden departure left the team without a leader.|Sự ra đi đột ngột của anh ấy khiến đội mất người dẫn dắt."
   ],
   "explosion": [
     "A gas explosion destroyed two houses.|Một vụ nổ khí ga phá hủy hai căn nhà.",
     "We heard a huge explosion from the docks.|Chúng tôi nghe một tiếng nổ lớn từ phía bến cảng.",
-    "The city saw a population explosion in the eighties.|Thành phố bùng nổ dân số trong thập niên 80."
+    "The city saw a population explosion in the eighties.|Thành phố bùng nổ dân số trong thập niên 80.",
+    "Firefighters are still investigating the cause of the explosion.|Lính cứu hỏa vẫn đang điều tra nguyên nhân vụ nổ.",
+    "The internet caused an explosion of online shopping.|Internet đã tạo ra sự bùng nổ mua sắm trực tuyến."
   ],
   "folk": [
     "Folks around here are pretty friendly.|Người dân quanh đây khá thân thiện.",
     "He plays folk music at the corner bar.|Anh ấy chơi nhạc dân gian ở quán bar đầu phố.",
-    "I'm visiting my folks this weekend.|Cuối tuần này tôi về thăm bố mẹ."
+    "I'm visiting my folks this weekend.|Cuối tuần này tôi về thăm bố mẹ.",
+    "My grandmother knows dozens of old folk songs.|Bà tôi thuộc hàng chục bài dân ca cổ.",
+    "Some folks just don't like change.|Có những người đơn giản là không thích thay đổi."
   ],
   "generate": [
     "The website generates income from ads.|Trang web tạo ra thu nhập từ quảng cáo.",
     "Wind farms generate electricity for the whole town.|Các cánh đồng điện gió phát điện cho cả thị trấn.",
-    "We met to generate ideas for the campaign.|Chúng tôi gặp nhau để nghĩ ý tưởng cho chiến dịch."
+    "We met to generate ideas for the campaign.|Chúng tôi gặp nhau để nghĩ ý tưởng cho chiến dịch.",
+    "The new factory will generate hundreds of jobs.|Nhà máy mới sẽ tạo ra hàng trăm việc làm.",
+    "The story generated a lot of interest online.|Câu chuyện thu hút rất nhiều sự quan tâm trên mạng."
   ],
   "lightning": [
     "Thunder and lightning kept the kids awake.|Sấm chớp khiến bọn trẻ không ngủ được.",
     "That tree was struck by lightning last year.|Cái cây đó bị sét đánh năm ngoái.",
-    "He answered the question at lightning speed.|Anh ấy trả lời câu hỏi nhanh như chớp."
+    "He answered the question at lightning speed.|Anh ấy trả lời câu hỏi nhanh như chớp.",
+    "Lightning never strikes the same place twice, or so they say.|Người ta bảo sét không bao giờ đánh hai lần vào cùng một chỗ.",
+    "Stay away from tall trees during a lightning storm.|Tránh xa cây cao khi có giông sét."
   ],
   "magical": [
     "The whole evening felt magical from start to finish.|Cả buổi tối ấy thật kỳ diệu từ đầu đến cuối.",
     "In the book, the ring has magical powers.|Trong sách, chiếc nhẫn có phép thuật.",
-    "Seeing the northern lights was a magical experience.|Ngắm cực quang là một trải nghiệm kỳ diệu."
+    "Seeing the northern lights was a magical experience.|Ngắm cực quang là một trải nghiệm kỳ diệu.",
+    "The old town looks magical at night.|Phố cổ về đêm trông huyền ảo.",
+    "There's no magical solution to this problem.|Không có giải pháp thần kỳ nào cho vấn đề này."
   ],
   "motivation": [
     "I've had zero motivation to exercise this week.|Tuần này tôi chẳng có tí động lực nào để tập.",
     "Money isn't his main motivation for doing the job.|Tiền không phải động lực chính khiến anh ấy làm việc đó.",
-    "A small goal each day boosts motivation.|Một mục tiêu nhỏ mỗi ngày giúp tăng động lực."
+    "A small goal each day boosts motivation.|Một mục tiêu nhỏ mỗi ngày giúp tăng động lực.",
+    "What's your motivation for learning English?|Động lực học tiếng Anh của bạn là gì?",
+    "Good teachers know how to keep students' motivation high.|Giáo viên giỏi biết cách giữ cho học sinh luôn có động lực."
   ],
   "nasty": [
     "There's a nasty smell in the hallway.|Có mùi khó chịu ở ngoài hành lang.",
     "He got a nasty cut on his hand.|Tay anh ấy bị một vết cắt khá nặng.",
-    "She said something really nasty about my cooking.|Cô ta nói mấy câu rất ác ý về món tôi nấu."
+    "She said something really nasty about my cooking.|Cô ta nói mấy câu rất ác ý về món tôi nấu.",
+    "I've had a nasty cold all week.|Cả tuần nay tôi bị cảm nặng.",
+    "We got a nasty surprise when the bill arrived.|Chúng tôi giật mình khó chịu khi hóa đơn được đưa ra."
   ],
   "permit": [
     "The school doesn't permit phones in class.|Trường không cho phép dùng điện thoại trong lớp.",
     "He's waiting for his work permit to arrive.|Anh ấy đang chờ giấy phép lao động.",
-    "We'll visit the castle too, if time permits.|Nếu còn thời gian, chúng ta sẽ ghé cả lâu đài."
+    "We'll visit the castle too, if time permits.|Nếu còn thời gian, chúng ta sẽ ghé cả lâu đài.",
+    "You need a permit to fish in this lake.|Bạn cần giấy phép mới được câu cá ở hồ này.",
+    "Smoking is not permitted anywhere in the hospital.|Không được phép hút thuốc ở bất cứ đâu trong bệnh viện."
   ],
   "productive": [
     "That was a surprisingly productive meeting.|Cuộc họp đó hiệu quả một cách bất ngờ.",
     "I've had a productive day for once.|Lần này thì tôi có một ngày làm được khối việc.",
-    "The valley has the most productive land around.|Thung lũng có đất màu mỡ nhất vùng."
+    "The valley has the most productive land around.|Thung lũng có đất màu mỡ nhất vùng.",
+    "I'm most productive early in the morning.|Tôi làm việc năng suất nhất vào sáng sớm.",
+    "Let's find a more productive way to spend the weekend.|Hãy tìm cách sử dụng cuối tuần hiệu quả hơn."
   ],
   "safely": [
     "Text me when you arrive safely.|Đến nơi an toàn thì nhắn tôi nhé.",
     "Drive safely, the roads are icy tonight.|Lái xe cẩn thận nhé, tối nay đường đóng băng.",
-    "The documents are safely stored in the office.|Tài liệu được cất giữ an toàn trong văn phòng."
+    "The documents are safely stored in the office.|Tài liệu được cất giữ an toàn trong văn phòng.",
+    "Can I safely eat this if it's past the date?|Quá hạn rồi thì tôi ăn có an toàn không?",
+    "The pilot landed the plane safely in the storm.|Phi công hạ cánh máy bay an toàn giữa cơn bão."
   ],
   "slight": [
     "There's a slight difference in color.|Có một chút khác biệt về màu sắc.",
     "We saw a slight increase in sales.|Chúng tôi thấy doanh số tăng nhẹ.",
-    "She's slight, but she lifts more than me.|Cô ấy mảnh khảnh, nhưng nâng tạ nặng hơn tôi."
+    "She's slight, but she lifts more than me.|Cô ấy mảnh khảnh, nhưng nâng tạ nặng hơn tôi.",
+    "I have a slight headache.|Tôi hơi nhức đầu.",
+    "I don't have the slightest idea where he is.|Tôi hoàn toàn không biết anh ấy ở đâu."
   ],
   "tension": [
     "You could feel the tension in the room.|Bạn có thể cảm nhận sự căng thẳng trong phòng.",
     "A short walk helps ease the tension.|Đi bộ một lát giúp giảm căng thẳng.",
-    "Massage releases muscle tension in your shoulders.|Massage giúp giải tỏa căng cơ ở vai."
+    "Massage releases muscle tension in your shoulders.|Massage giúp giải tỏa căng cơ ở vai.",
+    "There's growing tension between the two countries.|Căng thẳng giữa hai nước ngày càng gia tăng.",
+    "Check the tension of the strings before you play.|Kiểm tra độ căng của dây đàn trước khi chơi."
   ],
   "twist": [
     "Twist the lid off and pour it slowly.|Vặn nắp ra rồi rót từ từ.",
     "I twisted my ankle playing basketball.|Tôi bị trẹo mắt cá khi chơi bóng rổ.",
-    "The plot twist at the end shocked everyone.|Tình tiết bất ngờ ở cuối phim khiến ai cũng sốc."
+    "The plot twist at the end shocked everyone.|Tình tiết bất ngờ ở cuối phim khiến ai cũng sốc.",
+    "By a strange twist of fate, we ended up living on the same street.|Trớ trêu thay, cuối cùng chúng tôi lại sống cùng một con phố.",
+    "He always twists my words to make me look bad.|Anh ta luôn xuyên tạc lời tôi để làm tôi mất mặt."
   ],
   "unemployment": [
     "The unemployment rate fell again last month.|Tỷ lệ thất nghiệp lại giảm trong tháng trước.",
     "He's living on unemployment benefits right now.|Hiện anh ấy sống bằng trợ cấp thất nghiệp.",
-    "High unemployment hit the town hard.|Nạn thất nghiệp cao giáng đòn nặng lên thị trấn."
+    "High unemployment hit the town hard.|Nạn thất nghiệp cao giáng đòn nặng lên thị trấn.",
+    "Youth unemployment is a big problem in the region.|Thất nghiệp ở giới trẻ là một vấn đề lớn trong khu vực.",
+    "After the factory closed, unemployment doubled.|Sau khi nhà máy đóng cửa, tỷ lệ thất nghiệp tăng gấp đôi."
   ],
   "useless": [
     "This old charger is completely useless now.|Cái sạc cũ này giờ vô dụng hoàn toàn.",
     "My head is full of useless information.|Đầu tôi toàn thông tin vô bổ.",
-    "I felt useless just standing there watching.|Tôi thấy mình vô dụng khi chỉ đứng nhìn."
+    "I felt useless just standing there watching.|Tôi thấy mình vô dụng khi chỉ đứng nhìn.",
+    "It's useless to argue with him.|Cãi với anh ta chỉ vô ích.",
+    "I'm useless at cooking, so I usually order food.|Tôi nấu ăn dở tệ nên thường gọi đồ ăn."
   ],
   "bitter": [
     "This coffee has a really bitter taste.|Cà phê này vị đắng thật sự.",
     "They had a bitter argument about money.|Họ có một cuộc cãi vã gay gắt về tiền bạc.",
-    "We walked home in the bitter cold.|Chúng tôi đi bộ về nhà trong cái rét buốt."
+    "We walked home in the bitter cold.|Chúng tôi đi bộ về nhà trong cái rét buốt.",
+    "She felt bitter about losing her job.|Cô ấy cay đắng vì mất việc.",
+    "They fought to the bitter end but lost.|Họ chiến đấu đến cùng nhưng vẫn thua."
   ],
   "clinic": [
     "There's a free health clinic near the market.|Có một phòng khám miễn phí gần chợ.",
     "I have a dental clinic appointment at four.|Tôi có hẹn ở phòng khám nha khoa lúc bốn giờ.",
-    "She works two days a week at a private clinic.|Cô ấy làm hai ngày một tuần ở phòng khám tư."
+    "She works two days a week at a private clinic.|Cô ấy làm hai ngày một tuần ở phòng khám tư.",
+    "The clinic is closed on Sundays.|Phòng khám đóng cửa vào Chủ nhật.",
+    "She runs a small clinic for animals.|Cô ấy điều hành một phòng khám thú y nhỏ."
   ],
   "continuous": [
     "Draw one continuous line across the page.|Vẽ một đường liền mạch ngang trang giấy.",
     "Learning here is a continuous process.|Việc học ở đây là một quá trình liên tục.",
-    "The company focuses on continuous improvement.|Công ty chú trọng cải tiến liên tục."
+    "The company focuses on continuous improvement.|Công ty chú trọng cải tiến liên tục.",
+    "The machine makes a continuous humming noise.|Cái máy phát ra tiếng ù ù liên tục.",
+    "We had three days of continuous rain.|Trời mưa liên tục ba ngày."
   ],
   "creator": [
     "She's a content creator with a big following.|Cô ấy là nhà sáng tạo nội dung có lượng theo dõi lớn.",
     "The creator of the series answered fan questions.|Người sáng tạo ra loạt phim đã trả lời câu hỏi của khán giả.",
-    "Many cultures thank a creator for the harvest.|Nhiều nền văn hóa tạ ơn đấng tạo hóa vì mùa màng."
+    "Many cultures thank a creator for the harvest.|Nhiều nền văn hóa tạ ơn đấng tạo hóa vì mùa màng.",
+    "Who's the creator of this game?|Ai là người tạo ra trò chơi này?",
+    "Small businesses are the biggest job creators here.|Doanh nghiệp nhỏ là nơi tạo ra nhiều việc làm nhất ở đây."
   ],
   "detective": [
     "She hired a private detective to find him.|Cô ấy thuê thám tử tư để tìm anh ta.",
     "The detective asked us the same question twice.|Viên thám tử hỏi chúng tôi cùng một câu hai lần.",
-    "He reads detective stories on the train.|Anh ấy đọc truyện trinh thám trên tàu."
+    "He reads detective stories on the train.|Anh ấy đọc truyện trinh thám trên tàu.",
+    "Detectives are questioning three people about the robbery.|Các thám tử đang thẩm vấn ba người về vụ cướp.",
+    "It took some detective work to find her old address.|Phải mất công điều tra một chút mới tìm ra địa chỉ cũ của cô ấy."
   ],
   "disability": [
     "He has a learning disability but works full-time.|Cậu ấy bị khuyết tật học tập nhưng vẫn làm toàn thời gian.",
     "The building is not friendly to people with disabilities.|Tòa nhà không thân thiện với người khuyết tật.",
-    "She applied for disability benefits last spring.|Cô ấy nộp đơn xin trợ cấp khuyết tật hồi mùa xuân."
+    "She applied for disability benefits last spring.|Cô ấy nộp đơn xin trợ cấp khuyết tật hồi mùa xuân.",
+    "Her disability doesn't stop her from traveling.|Khuyết tật không ngăn được cô ấy đi du lịch.",
+    "The law protects workers with disabilities.|Luật pháp bảo vệ người lao động khuyết tật."
   ],
   "excess": [
     "They charged me for excess baggage.|Họ tính phí hành lý quá cân của tôi.",
     "Repairs cost in excess of two thousand dollars.|Chi phí sửa chữa vượt quá hai nghìn đô.",
-    "Carrying excess weight is hard on your knees.|Mang thừa cân rất hại đầu gối."
+    "Carrying excess weight is hard on your knees.|Mang thừa cân rất hại đầu gối.",
+    "Cut off any excess fat before cooking the meat.|Cắt bỏ phần mỡ thừa trước khi nấu thịt.",
+    "Anything in excess is bad for you.|Cái gì quá cũng không tốt."
   ],
   "farming": [
     "His family has done dairy farming for generations.|Gia đình anh ấy làm nghề nuôi bò sữa qua nhiều thế hệ.",
     "Organic farming needs more labor and fewer chemicals.|Canh tác hữu cơ cần nhiều công hơn và ít hóa chất hơn.",
-    "This is a small farming community up north.|Đây là một cộng đồng làm nông nhỏ ở phía Bắc."
+    "This is a small farming community up north.|Đây là một cộng đồng làm nông nhỏ ở phía Bắc.",
+    "Rice farming uses a lot of water.|Trồng lúa tốn rất nhiều nước.",
+    "Farming is hard work, but he loves it.|Làm nông vất vả nhưng anh ấy rất yêu nghề."
   ],
   "highlight": [
     "The boat ride was the highlight of the trip.|Chuyến đi thuyền là điểm nhấn của cả chuyến du lịch.",
     "The report highlights the importance of sleep.|Báo cáo nhấn mạnh tầm quan trọng của giấc ngủ.",
-    "Highlight the text and press delete.|Bôi đen đoạn văn bản rồi bấm xóa."
+    "Highlight the text and press delete.|Bôi đen đoạn văn bản rồi bấm xóa.",
+    "She had blonde highlights put in her hair.|Cô ấy nhuộm highlight vàng lên tóc.",
+    "The speech highlighted the need for better schools.|Bài phát biểu nêu bật nhu cầu về trường học tốt hơn."
   ],
   "legally": [
     "The contract is legally binding once you sign.|Hợp đồng có hiệu lực pháp lý ngay khi bạn ký.",
     "They've been legally married since April.|Họ đã kết hôn hợp pháp từ tháng Tư.",
-    "Parents are legally responsible for their kids.|Cha mẹ chịu trách nhiệm pháp lý với con cái."
+    "Parents are legally responsible for their kids.|Cha mẹ chịu trách nhiệm pháp lý với con cái.",
+    "You can't legally drive until you're eighteen.|Bạn không được phép lái xe hợp pháp cho đến khi đủ mười tám tuổi.",
+    "Are we legally required to wear masks here?|Ở đây luật có bắt buộc đeo khẩu trang không?"
   ],
   "nail": [
-    "Stop biting your nails, it's a bad habit.|Đừng cắn móng tay nữa, thói quen xấu đấy.",
+    "Stop biting your nails. It's a bad habit.|Đừng cắn móng tay nữa, thói quen xấu đấy.",
     "I need a hammer and some nails for this shelf.|Tôi cần búa và ít đinh để đóng cái kệ này.",
-    "You hit the nail on the head with that comment.|Nhận xét đó của bạn trúng phóc luôn."
+    "You hit the nail on the head with that comment.|Nhận xét đó của bạn trúng phóc luôn.",
+    "She paints her nails a different color every week.|Tuần nào cô ấy cũng sơn móng một màu khác.",
+    "The singer really nailed the high notes.|Ca sĩ thể hiện những nốt cao cực kỳ xuất sắc."
   ],
   "nonsense": [
     "That rumor about us is complete nonsense.|Tin đồn về chúng tôi hoàn toàn nhảm nhí.",
     "He talks nonsense when he's tired.|Anh ấy nói lảm nhảm khi mệt.",
-    "Stop this nonsense and get back to work.|Thôi mấy trò vô lý này đi và quay lại làm việc."
+    "Stop this nonsense and get back to work.|Thôi mấy trò vô lý này đi và quay lại làm việc.",
+    "Nonsense! You're not too old to learn.|Vớ vẩn! Bạn đâu có già quá để học.",
+    "The kids love reading nonsense poems.|Bọn trẻ thích đọc những bài thơ vui vô nghĩa."
   ],
   "phoenix": [
     "The team rose like a phoenix after relegation.|Đội bóng hồi sinh như phượng hoàng sau khi xuống hạng.",
     "The city rebuilt itself, a phoenix from the ashes.|Thành phố tự tái thiết, như phượng hoàng sống lại từ tro tàn.",
-    "She has a phoenix tattooed across her back.|Cô ấy xăm một con phượng hoàng dọc lưng."
+    "She has a phoenix tattooed across her back.|Cô ấy xăm một con phượng hoàng dọc lưng.",
+    "In the legend, the phoenix is born again from fire.|Trong truyền thuyết, phượng hoàng tái sinh từ lửa.",
+    "The phoenix is a symbol of hope in many cultures.|Phượng hoàng là biểu tượng của hy vọng trong nhiều nền văn hóa."
   ],
   "poet": [
     "She's a poet and a schoolteacher.|Cô ấy vừa là nhà thơ vừa là giáo viên.",
     "We studied the romantic poets last term.|Học kỳ trước chúng tôi học về các nhà thơ lãng mạn.",
-    "He's considered the national poet of Ireland.|Ông được xem là nhà thơ dân tộc của Ireland."
+    "He's considered the national poet of Ireland.|Ông được xem là nhà thơ dân tộc của Ireland.",
+    "Who's your favorite poet?|Nhà thơ yêu thích của bạn là ai?",
+    "The young poet read her work at the café.|Nữ nhà thơ trẻ đọc tác phẩm của mình tại quán cà phê."
   ],
   "repeatedly": [
     "I repeatedly asked them to turn the music down.|Tôi đã nhiều lần bảo họ vặn nhỏ nhạc lại.",
     "He repeatedly denied taking the money.|Anh ta liên tục phủ nhận việc lấy tiền.",
-    "She was repeatedly warned about the deadline.|Cô ấy đã bị nhắc nhở nhiều lần về hạn chót."
+    "She was repeatedly warned about the deadline.|Cô ấy đã bị nhắc nhở nhiều lần về hạn chót.",
+    "The phone rang repeatedly, but nobody answered.|Điện thoại reo liên hồi nhưng không ai nhấc máy.",
+    "Doctors have repeatedly said that sugar is harmful.|Các bác sĩ đã nhiều lần nói rằng đường có hại."
   ],
   "slavery": [
     "The country abolished slavery in 1865.|Đất nước này bãi bỏ chế độ nô lệ năm 1865.",
     "Modern slavery still exists in some industries.|Nạn nô lệ hiện đại vẫn tồn tại trong một số ngành.",
-    "Thousands were sold into slavery back then.|Hàng nghìn người khi ấy bị bán làm nô lệ."
+    "Thousands were sold into slavery back then.|Hàng nghìn người khi ấy bị bán làm nô lệ.",
+    "The museum tells the history of slavery in America.|Bảo tàng kể về lịch sử chế độ nô lệ ở Mỹ.",
+    "Many people worked to end slavery.|Nhiều người đã nỗ lực để chấm dứt chế độ nô lệ."
   ],
   "transformation": [
     "The kitchen went through a complete transformation.|Gian bếp đã thay đổi hoàn toàn.",
     "The bank is halfway through its digital transformation.|Ngân hàng đang đi được nửa chặng chuyển đổi số.",
-    "Her transformation after the move surprised us all.|Sự thay đổi của cô ấy sau khi chuyển nhà khiến ai cũng bất ngờ."
+    "Her transformation after the move surprised us all.|Sự thay đổi của cô ấy sau khi chuyển nhà khiến ai cũng bất ngờ.",
+    "The city has undergone a huge transformation in ten years.|Thành phố đã trải qua một sự thay đổi lớn trong mười năm.",
+    "Caterpillars go through a transformation to become butterflies.|Sâu bướm trải qua quá trình biến đổi để trở thành bướm."
   ],
   "attract": [
     "The festival attracts tourists from all over.|Lễ hội thu hút du khách từ khắp nơi.",
     "He wore red to attract attention.|Anh ta mặc đồ đỏ để gây chú ý.",
-    "The city hopes to attract more investment.|Thành phố hy vọng thu hút thêm đầu tư."
+    "The city hopes to attract more investment.|Thành phố hy vọng thu hút thêm đầu tư.",
+    "Bright flowers attract bees.|Những bông hoa rực rỡ thu hút ong.",
+    "What attracted you to this job?|Điều gì đã thu hút bạn đến với công việc này?"
   ],
   "bronze": [
     "She won a bronze medal in the relay.|Cô ấy giành huy chương đồng ở nội dung tiếp sức.",
     "A bronze statue stands in the town square.|Một bức tượng đồng đứng giữa quảng trường thị trấn.",
-    "These tools date from the Bronze Age.|Những công cụ này có từ thời đồ đồng."
+    "These tools date from the Bronze Age.|Những công cụ này có từ thời đồ đồng.",
+    "Her skin turned a deep bronze after the holiday.|Da cô ấy rám nắng màu đồng sau kỳ nghỉ.",
+    "The museum has a famous bronze sculpture of a horse.|Bảo tàng có một tác phẩm điêu khắc bằng đồng nổi tiếng hình con ngựa."
   ],
   "cave": [
     "We explored a cave near the waterfall.|Chúng tôi khám phá một hang động gần thác nước.",
     "The cave paintings are thousands of years old.|Những bức tranh trong hang có tuổi đời hàng nghìn năm.",
-    "He finally caved and let the dog inside.|Cuối cùng anh ấy cũng nhượng bộ và cho con chó vào nhà."
+    "He finally caved and let the dog inside.|Cuối cùng anh ấy cũng nhượng bộ và cho con chó vào nhà.",
+    "Bats sleep in the cave during the day.|Dơi ngủ trong hang vào ban ngày.",
+    "The roof of the old mine caved in last winter.|Trần của khu mỏ cũ bị sập vào mùa đông năm ngoái."
   ],
   "demonstrate": [
     "The results clearly demonstrate that the method works.|Kết quả chứng minh rõ ràng rằng phương pháp này hiệu quả.",
     "Can you demonstrate how it works?|Bạn làm mẫu cho xem nó hoạt động thế nào được không?",
-    "Thousands demonstrated against the government on Sunday.|Hàng nghìn người biểu tình chống chính phủ vào Chủ nhật."
+    "Thousands demonstrated against the government on Sunday.|Hàng nghìn người biểu tình chống chính phủ vào Chủ nhật.",
+    "These results demonstrate the need for more research.|Những kết quả này cho thấy cần nghiên cứu thêm.",
+    "He demonstrated his love by writing her letters every week.|Anh ấy thể hiện tình yêu bằng cách viết thư cho cô mỗi tuần."
   ],
   "generous": [
     "That's a very generous offer, thank you.|Đó là một đề nghị rất hào phóng, cảm ơn nhé.",
     "She made a generous donation to the school.|Bà ấy quyên góp hào phóng cho trường.",
-    "They serve generous portions at that place.|Quán đó phục vụ phần ăn rất đầy đặn."
+    "They serve generous portions at that place.|Quán đó phục vụ phần ăn rất đầy đặn.",
+    "It was generous of you to pay for dinner.|Bạn thật hào phóng khi trả tiền bữa tối.",
+    "The hotel room was generous in size.|Phòng khách sạn khá rộng rãi."
   ],
   "loyal": [
     "He's been a loyal friend for twenty years.|Cậu ấy là người bạn trung thành suốt hai mươi năm.",
     "Loyal customers get a discount every month.|Khách hàng thân thiết được giảm giá mỗi tháng.",
-    "She remained loyal to the team through everything.|Cô ấy vẫn trung thành với đội qua mọi biến cố."
+    "She remained loyal to the team through everything.|Cô ấy vẫn trung thành với đội qua mọi biến cố.",
+    "Dogs are famously loyal to their owners.|Chó nổi tiếng trung thành với chủ.",
+    "The brand has a small but loyal fan base.|Thương hiệu có lượng người hâm mộ nhỏ nhưng trung thành."
   ],
   "mentally": [
     "I wasn't mentally prepared for that question.|Tôi chưa chuẩn bị tinh thần cho câu hỏi đó.",
     "Long-distance runners need to be mentally strong.|Người chạy đường dài cần vững vàng về tinh thần.",
-    "The job drains you physically and mentally.|Công việc vắt kiệt cả thể chất lẫn tinh thần."
+    "The job drains you physically and mentally.|Công việc vắt kiệt cả thể chất lẫn tinh thần.",
+    "She's mentally exhausted after a week of exams.|Cô ấy kiệt sức về tinh thần sau một tuần thi cử.",
+    "I mentally added up the bill while we waited.|Tôi nhẩm tính hóa đơn trong đầu lúc chờ."
   ],
   "patience": [
     "Teaching kids takes a lot of patience.|Dạy trẻ con cần rất nhiều kiên nhẫn.",
     "I lost my patience after the third phone call.|Tôi mất kiên nhẫn sau cuộc gọi thứ ba.",
-    "My patience with him is running out.|Sự kiên nhẫn của tôi với anh ta sắp cạn."
+    "My patience with him is running out.|Sự kiên nhẫn của tôi với anh ta sắp cạn.",
+    "Thank you for your patience while we fix the problem.|Cảm ơn sự kiên nhẫn của quý khách trong lúc chúng tôi khắc phục sự cố.",
+    "Have patience, the results will come.|Hãy kiên nhẫn, kết quả rồi sẽ đến."
   ],
   "prisoner": [
     "The prisoner escaped through a kitchen window.|Tù nhân trốn thoát qua cửa sổ nhà bếp.",
     "His grandfather was a prisoner of war.|Ông của anh ấy từng là tù binh chiến tranh.",
-    "They released two political prisoners last night.|Họ thả hai tù nhân chính trị tối qua."
+    "They released two political prisoners last night.|Họ thả hai tù nhân chính trị tối qua.",
+    "The prisoners are allowed one visit a week.|Tù nhân được thăm gặp một lần mỗi tuần.",
+    "She felt like a prisoner in her own home.|Cô ấy cảm thấy như bị giam cầm trong chính ngôi nhà của mình."
   ],
   "resist": [
     "I can't resist chocolate after dinner.|Tôi không cưỡng nổi sô cô la sau bữa tối.",
     "Older staff tend to resist change.|Nhân viên lớn tuổi thường chống lại sự thay đổi.",
-    "He was charged with resisting arrest.|Anh ta bị buộc tội chống người thi hành công vụ."
+    "He was charged with resisting arrest.|Anh ta bị buộc tội chống người thi hành công vụ.",
+    "The old bridge was built to resist strong winds.|Cây cầu cũ được xây để chịu được gió mạnh.",
+    "I couldn't resist telling her the good news.|Tôi không nhịn được mà kể tin vui cho cô ấy."
   ],
   "wrap": [
     "Can you wrap this present for me?|Bạn gói giùm tôi món quà này nhé?",
     "She wrapped a scarf around her neck.|Cô ấy quấn khăn quanh cổ.",
-    "Wrap up warm, it's freezing out there.|Mặc ấm vào, ngoài kia lạnh cóng."
+    "Wrap up warm. It's freezing out there.|Mặc ấm vào, ngoài kia lạnh cóng.",
+    "Wrap the fish in foil and bake it for twenty minutes.|Gói cá trong giấy bạc và nướng hai mươi phút.",
+    "Let's wrap up the meeting. It's almost five.|Kết thúc cuộc họp thôi, gần năm giờ rồi."
   ],
   "yoga": [
     "I do yoga twice a week now.|Giờ tôi tập yoga hai buổi một tuần.",
     "Her yoga class starts at seven.|Lớp yoga của cô ấy bắt đầu lúc bảy giờ.",
-    "He rolled up his yoga mat and left.|Anh ấy cuộn thảm yoga lại rồi đi."
+    "He rolled up his yoga mat and left.|Anh ấy cuộn thảm yoga lại rồi đi.",
+    "Yoga helps me relax after a long day.|Yoga giúp tôi thư giãn sau một ngày dài.",
+    "Have you ever tried hot yoga?|Bạn đã thử yoga nóng bao giờ chưa?"
   ],
   "adopt": [
     "They adopted a little girl from Vietnam.|Họ nhận nuôi một bé gái từ Việt Nam.",
     "The school adopted a new approach to homework.|Trường áp dụng cách tiếp cận mới với bài tập về nhà.",
-    "The council adopted the policy last night.|Hội đồng thông qua chính sách này tối qua."
+    "The council adopted the policy last night.|Hội đồng thông qua chính sách này tối qua.",
+    "Many companies adopt new technology slowly.|Nhiều công ty áp dụng công nghệ mới một cách chậm chạp.",
+    "It's never too late to adopt healthier habits.|Không bao giờ là quá muộn để tập những thói quen lành mạnh hơn."
   ],
   "boot": [
     "She bought new hiking boots for the trip.|Cô ấy mua giày leo núi mới cho chuyến đi.",
     "The bags are in the car boot.|Mấy cái túi ở trong cốp xe.",
-    "It takes forever to boot up this old laptop.|Cái laptop cũ này khởi động lâu ơi là lâu."
+    "It takes forever to boot up this old laptop.|Cái laptop cũ này khởi động lâu ơi là lâu.",
+    "Put your wet boots by the door.|Để đôi ủng ướt cạnh cửa nhé.",
+    "He got the boot after being late for the tenth time.|Anh ta bị đuổi việc sau lần đi muộn thứ mười."
   ],
   "coastal": [
     "We spent a week in a quiet coastal town.|Chúng tôi ở một tuần tại thị trấn ven biển yên tĩnh.",
     "Coastal areas will flood more often.|Các vùng ven biển sẽ ngập lụt thường xuyên hơn.",
-    "Coastal erosion is eating the cliff path.|Xói lở bờ biển đang ăn dần lối đi trên vách đá."
+    "Coastal erosion is eating the cliff path.|Xói lở bờ biển đang ăn dần lối đi trên vách đá.",
+    "The coastal road offers amazing views.|Con đường ven biển có cảnh quan tuyệt đẹp.",
+    "Coastal waters here are full of fish.|Vùng biển ven bờ ở đây đầy cá."
   ],
   "confusion": [
     "The new signs caused a lot of confusion.|Mấy tấm biển mới gây ra nhiều nhầm lẫn.",
     "To avoid confusion, use full names on the list.|Để tránh nhầm lẫn, hãy ghi họ tên đầy đủ trong danh sách.",
-    "There was total confusion after the fire alarm.|Mọi thứ hỗn loạn hoàn toàn sau khi chuông báo cháy kêu."
+    "There was total confusion after the fire alarm.|Mọi thứ hỗn loạn hoàn toàn sau khi chuông báo cháy kêu.",
+    "Sorry for the confusion. The meeting is at three, not two.|Xin lỗi vì sự nhầm lẫn, cuộc họp lúc ba giờ chứ không phải hai giờ.",
+    "He looked at me in confusion.|Anh ấy nhìn tôi đầy bối rối."
   ],
   "customs": [
     "We went through customs in about ten minutes.|Chúng tôi làm thủ tục hải quan chỉ khoảng mười phút.",
     "A customs officer checked every single bag.|Một nhân viên hải quan kiểm tra từng chiếc túi.",
-    "You'll pay customs duties on that camera.|Bạn sẽ phải đóng thuế nhập khẩu cho cái máy ảnh đó."
+    "You'll pay customs duties on that camera.|Bạn sẽ phải đóng thuế nhập khẩu cho cái máy ảnh đó.",
+    "Declare any cash over ten thousand dollars at customs.|Hãy khai báo số tiền mặt trên mười nghìn đô tại hải quan.",
+    "Customs seized a large amount of fake medicine.|Hải quan thu giữ một lượng lớn thuốc giả."
   ],
   "dealer": [
     "The car dealer offered us a decent trade-in.|Đại lý xe đề nghị mức đổi xe cũ khá ổn.",
     "An art dealer bought the whole collection.|Một nhà buôn tranh mua trọn bộ sưu tập.",
-    "Police arrested a drug dealer near the school.|Cảnh sát bắt một kẻ buôn ma túy gần trường học."
+    "Police arrested a drug dealer near the school.|Cảnh sát bắt một kẻ buôn ma túy gần trường học.",
+    "The dealer shuffled the cards and smiled.|Người chia bài xào bài rồi mỉm cười.",
+    "We bought our piano from an antique dealer.|Chúng tôi mua cây đàn piano từ một người buôn đồ cổ."
   ],
   "distant": [
     "We heard a distant rumble of thunder.|Chúng tôi nghe tiếng sấm ầm ì từ xa.",
     "He's a distant relative on my father's side.|Anh ấy là họ hàng xa bên nội nhà tôi.",
-    "Those arguments feel like a distant memory now.|Những cuộc cãi vã đó giờ như ký ức xa xăm."
+    "Those arguments feel like a distant memory now.|Những cuộc cãi vã đó giờ như ký ức xa xăm.",
+    "Since the divorce, he's been cold and distant.|Từ sau khi ly hôn, anh ấy trở nên lạnh lùng và xa cách.",
+    "Maybe in the distant future, people will live on Mars.|Có lẽ trong tương lai xa, con người sẽ sống trên sao Hỏa."
   ],
   "emotion": [
     "He rarely shows emotion in public.|Anh ấy hiếm khi bộc lộ cảm xúc trước mặt người khác.",
     "I had mixed emotions about leaving the city.|Tôi có cảm xúc lẫn lộn khi rời thành phố.",
-    "Try to control your emotions in the meeting.|Cố kiềm chế cảm xúc trong cuộc họp nhé."
+    "Try to control your emotions in the meeting.|Cố kiềm chế cảm xúc trong cuộc họp nhé.",
+    "Her voice was full of emotion as she said goodbye.|Giọng cô ấy đầy xúc động khi nói lời tạm biệt.",
+    "Music can bring out strong emotions.|Âm nhạc có thể khơi dậy những cảm xúc mãnh liệt."
   ],
   "emphasis": [
     "The school places great emphasis on reading.|Trường rất chú trọng việc đọc.",
     "There's too much emphasis on grades here.|Ở đây người ta quá nặng về điểm số.",
-    "The new manager shifted the emphasis to service.|Quản lý mới chuyển trọng tâm sang dịch vụ."
+    "The new manager shifted the emphasis to service.|Quản lý mới chuyển trọng tâm sang dịch vụ.",
+    "Put the emphasis on the second syllable.|Nhấn trọng âm vào âm tiết thứ hai.",
+    "She said \"no\" with real emphasis.|Cô ấy nói \"không\" một cách dứt khoát."
   ],
   "excitement": [
     "The kids were shaking with excitement.|Bọn trẻ run lên vì phấn khích.",
     "There's a real sense of excitement in town.|Cả thị trấn đang có bầu không khí háo hức thật sự.",
-    "She could hardly hide her excitement.|Cô ấy khó mà giấu nổi sự phấn khích."
+    "She could hardly hide her excitement.|Cô ấy khó mà giấu nổi sự phấn khích.",
+    "What's all the excitement about?|Có chuyện gì mà mọi người háo hức thế?",
+    "The excitement of the first day soon wore off.|Sự háo hức của ngày đầu tiên chẳng mấy chốc đã phai nhạt."
   ],
   "exploration": [
     "He's been obsessed with space exploration since childhood.|Anh ấy mê khám phá vũ trụ từ hồi nhỏ.",
     "Oil exploration has slowed in the region.|Hoạt động thăm dò dầu khí trong khu vực đã chậm lại.",
-    "The book is an exploration of grief.|Cuốn sách là một hành trình khám phá nỗi đau mất mát."
+    "The book is an exploration of grief.|Cuốn sách là một hành trình khám phá nỗi đau mất mát.",
+    "The trip was a chance for exploration and adventure.|Chuyến đi là cơ hội để khám phá và phiêu lưu.",
+    "Deep-sea exploration has found strange new creatures.|Thám hiểm biển sâu đã tìm ra những sinh vật mới lạ."
   ]
 }

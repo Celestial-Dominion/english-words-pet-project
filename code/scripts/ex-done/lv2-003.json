@@ -1,62 +1,422 @@
 {
- "friendly": ["The staff here are always friendly and helpful.|Nhân viên ở đây lúc nào cũng thân thiện và nhiệt tình.", "We played a friendly against the local team.|Chúng tôi đá một trận giao hữu với đội địa phương.", "She gave me a friendly wave from across the street.|Cô ấy vẫy tay chào thân mật từ bên kia đường."],
- "phase": ["The project is still in its early phase.|Dự án vẫn đang ở giai đoạn đầu.", "Teenagers go through a rebellious phase.|Tuổi teen nào cũng trải qua một giai đoạn nổi loạn.", "We'll phase out the old system by June.|Chúng tôi sẽ loại bỏ dần hệ thống cũ trước tháng Sáu."],
- "revenue": ["The company's revenue grew fifteen percent last year.|Doanh thu công ty tăng mười lăm phần trăm năm ngoái.", "Tourism is a major source of revenue here.|Du lịch là nguồn thu chính ở đây.", "Tax revenue fell sharply during the recession.|Nguồn thu thuế giảm mạnh trong thời kỳ suy thoái."],
- "remaining": ["Please divide the remaining cake among the kids.|Chia chỗ bánh còn lại cho bọn trẻ nhé.", "She spent her remaining years by the sea.|Bà ấy sống những năm cuối đời bên bờ biển.", "Only two remaining tickets are left for tonight.|Chỉ còn hai vé cho suất tối nay."],
- "estimated": ["The repairs will cost an estimated two thousand dollars.|Sửa chữa ước tính tốn khoảng hai nghìn đô.", "An estimated ten thousand people joined the march.|Ước tính có mười nghìn người tham gia cuộc tuần hành.", "He estimated the trip would take four hours.|Anh ấy ước chừng chuyến đi mất bốn tiếng."],
- "theme": ["The main theme of the novel is forgiveness.|Chủ đề chính của cuốn tiểu thuyết là sự tha thứ.", "Her birthday party had a jungle theme.|Tiệc sinh nhật của cô bé lấy chủ đề rừng rậm.", "I still hum the theme from that old show.|Tôi vẫn ngân nga nhạc chủ đề của bộ phim cũ đó."],
- "assembly": ["The assembly line stopped for two hours yesterday.|Dây chuyền lắp ráp dừng hai tiếng hôm qua.", "The general assembly votes on the proposal tomorrow.|Đại hội đồng sẽ bỏ phiếu về đề xuất vào ngày mai.", "Students gather in the hall for morning assembly.|Học sinh tập trung ở hội trường trong buổi chào cờ."],
- "draft": ["I've finished the first draft of my report.|Tôi vừa xong bản nháp đầu tiên của báo cáo.", "Could you draft an email to the supplier?|Bạn soạn giúp email gửi nhà cung cấp được không?", "Close the window, there's a cold draft.|Đóng cửa sổ đi, gió lùa lạnh quá."],
- "improved": ["His English has improved a lot this year.|Tiếng Anh của anh ấy tiến bộ nhiều trong năm nay.", "The new model has improved battery life.|Mẫu mới có thời lượng pin tốt hơn trước.", "Her mood improved after a good night's sleep.|Tâm trạng cô ấy khá hơn sau một giấc ngủ ngon."],
- "prime minister": ["The prime minister addressed the nation last night.|Thủ tướng phát biểu trước toàn dân tối qua.", "She became prime minister at just forty-two.|Bà ấy trở thành thủ tướng khi mới bốn mươi hai tuổi.", "The former prime minister now writes memoirs.|Cựu thủ tướng giờ viết hồi ký."],
- "relevant": ["Please attach any relevant documents to the email.|Vui lòng đính kèm mọi tài liệu liên quan vào email.", "That argument isn't relevant to our discussion.|Lập luận đó không liên quan đến vấn đề ta đang bàn.", "The book remains relevant fifty years later.|Cuốn sách vẫn còn hợp thời sau năm mươi năm."],
- "solo": ["She sang a beautiful solo at the concert.|Cô ấy hát một bài đơn ca rất hay trong buổi hòa nhạc.", "He flew solo across the Atlantic in 1927.|Ông ấy bay một mình qua Đại Tây Dương năm 1927.", "After the band split, she went solo.|Sau khi ban nhạc tan rã, cô ấy hát solo."],
- "statistics": ["The statistics show a clear drop in crime.|Số liệu thống kê cho thấy tội phạm giảm rõ rệt.", "I failed statistics twice in college.|Tôi trượt môn thống kê hai lần hồi đại học.", "Official statistics often hide the real story.|Thống kê chính thức thường che giấu câu chuyện thật."],
- "territory": ["The island is disputed territory between two countries.|Hòn đảo là lãnh thổ tranh chấp giữa hai nước.", "Wolves mark their territory with scent.|Chó sói đánh dấu địa bàn bằng mùi.", "Long hours come with the territory in this job.|Làm việc nhiều giờ là chuyện đương nhiên với nghề này."],
- "corporation": ["She works for a multinational corporation in Singapore.|Cô ấy làm cho một tập đoàn đa quốc gia ở Singapore.", "The corporation reported record profits this quarter.|Tập đoàn báo lãi kỷ lục trong quý này.", "Small shops can't compete with giant corporations.|Cửa hàng nhỏ không cạnh tranh nổi với các tập đoàn khổng lồ."],
- "motion": ["The boat's gentle motion made me sleepy.|Chuyển động nhẹ của con thuyền làm tôi buồn ngủ.", "She waved him over with a quick motion.|Cô ấy khoát tay ra hiệu cho anh lại gần.", "The committee passed the motion by six votes.|Ủy ban thông qua kiến nghị với sáu phiếu thuận."],
- "resolution": ["The council passed a resolution banning plastic bags.|Hội đồng thông qua nghị quyết cấm túi nilon.", "My New Year's resolution is to run daily.|Quyết tâm năm mới của tôi là chạy bộ mỗi ngày.", "This screen has a much higher resolution.|Màn hình này có độ phân giải cao hơn nhiều."],
- "rural": ["He grew up in a small rural village.|Anh ấy lớn lên ở một làng quê nhỏ.", "Rural areas often lack decent internet.|Vùng nông thôn thường thiếu internet tử tế.", "They moved from the city to a rural community.|Họ chuyển từ thành phố về một cộng đồng miền quê."],
- "saving": ["Buying in bulk is a real saving.|Mua số lượng lớn tiết kiệm được kha khá.", "She put her savings into a small business.|Cô ấy dồn tiền tiết kiệm vào một cửa hàng nhỏ.", "The new bulbs offer big energy savings.|Bóng đèn mới giúp tiết kiệm điện đáng kể."],
- "plot": ["The plot of the movie was confusing.|Cốt truyện của bộ phim khá khó hiểu.", "They uncovered a plot to overthrow the government.|Họ phát hiện một âm mưu lật đổ chính phủ.", "We bought a small plot of land upstate.|Chúng tôi mua một mảnh đất nhỏ ở ngoại tỉnh."],
- "senator": ["The senator voted against the healthcare bill.|Thượng nghị sĩ bỏ phiếu chống dự luật y tế.", "She's running for senator next November.|Bà ấy tranh cử thượng nghị sĩ vào tháng Mười Một tới.", "Two senators walked out during the speech.|Hai thượng nghị sĩ bỏ ra ngoài giữa bài phát biểu."],
- "index": ["The stock index fell three points today.|Chỉ số chứng khoán giảm ba điểm hôm nay.", "Check the index at the back of the book.|Xem mục lục ở cuối sách nhé.", "He pointed at the map with his index finger.|Anh ấy chỉ lên bản đồ bằng ngón trỏ."],
- "navy": ["His grandfather served in the navy for twenty years.|Ông anh ấy phục vụ trong hải quân hai mươi năm.", "She joined the navy right after high school.|Cô ấy nhập ngũ hải quân ngay sau khi tốt nghiệp cấp ba.", "I wore a navy suit to the interview.|Tôi mặc bộ vest xanh đậm đi phỏng vấn."],
- "scheme": ["The government launched a new housing scheme.|Chính phủ triển khai chương trình nhà ở mới.", "They fell for a get-rich-quick scheme.|Họ sập bẫy một kế hoạch làm giàu nhanh.", "He hatched a scheme to avoid paying taxes.|Hắn nghĩ ra mưu đồ trốn thuế."],
- "ultimately": ["Ultimately, the decision is yours to make.|Rốt cuộc thì quyết định vẫn là ở bạn.", "The plan ultimately failed for lack of funding.|Kế hoạch cuối cùng thất bại vì thiếu vốn.", "Ultimately, what matters is that everyone is safe.|Xét cho cùng, quan trọng là mọi người đều an toàn."],
- "x-ray": ["The doctor ordered an x-ray of my wrist.|Bác sĩ chỉ định chụp X-quang cổ tay tôi.", "The x-ray showed a hairline fracture.|Ảnh chụp X-quang cho thấy một vết rạn nhỏ.", "They x-ray every bag at the airport.|Họ soi chiếu mọi hành lý ở sân bay."],
- "creation": ["The creation of the park took three years.|Việc tạo ra công viên mất ba năm.", "This dessert is my grandmother's own creation.|Món tráng miệng này là tác phẩm của bà tôi.", "The museum celebrates the creation of modern art.|Bảo tàng tôn vinh sự ra đời của nghệ thuật hiện đại."],
- "identify": ["Police asked her to identify the suspect.|Cảnh sát yêu cầu cô nhận diện nghi phạm.", "We need to identify the cause of the leak.|Chúng ta cần xác định nguyên nhân rò rỉ.", "Many readers identify with the main character.|Nhiều độc giả đồng cảm với nhân vật chính."],
- "manufacturing": ["The town depends on car manufacturing for jobs.|Thị trấn sống nhờ việc làm trong ngành sản xuất ô tô.", "Manufacturing costs have risen since last year.|Chi phí chế tạo tăng lên từ năm ngoái.", "She works in a manufacturing plant near the port.|Cô ấy làm ở một nhà máy gần cảng."],
- "personnel": ["All personnel must wear a badge inside.|Toàn bộ nhân viên phải đeo thẻ khi vào trong.", "The personnel department handles all hiring.|Phòng nhân sự phụ trách toàn bộ việc tuyển dụng.", "We're short of trained personnel this month.|Tháng này chúng tôi thiếu nhân sự có tay nghề."],
- "perspective": ["Try to see it from her perspective.|Thử nhìn từ góc nhìn của cô ấy xem.", "Losing my job gave me a new perspective on life.|Mất việc cho tôi một cái nhìn mới về cuộc sống.", "The artist got the perspective slightly wrong.|Họa sĩ vẽ hơi sai luật phối cảnh."],
- "revolution": ["The revolution began with a student protest.|Cuộc cách mạng bắt đầu từ một cuộc biểu tình sinh viên.", "Smartphones caused a revolution in how we work.|Điện thoại thông minh tạo ra cuộc cách mạng trong cách ta làm việc.", "The engine runs at three thousand revolutions per minute.|Động cơ chạy ba nghìn vòng mỗi phút."],
- "ban": ["The city imposed a ban on plastic straws.|Thành phố ban hành lệnh cấm ống hút nhựa.", "They banned him from the stadium for two years.|Họ cấm anh ta vào sân trong hai năm.", "Smoking is banned in all restaurants here.|Hút thuốc bị cấm ở mọi nhà hàng tại đây."],
- "carbon": ["Trees absorb carbon from the atmosphere.|Cây hấp thụ cacbon từ khí quyển.", "The company aims to cut carbon emissions by half.|Công ty đặt mục tiêu giảm một nửa khí thải cacbon.", "Flying leaves a big carbon footprint.|Đi máy bay để lại dấu chân cacbon rất lớn."],
- "deputy": ["The deputy manager will handle it while I'm away.|Phó quản lý sẽ lo việc đó lúc tôi đi vắng.", "She was promoted to deputy director last spring.|Cô ấy được thăng làm phó giám đốc mùa xuân năm ngoái.", "A deputy sheriff arrived within ten minutes.|Một phó cảnh sát trưởng đến trong vòng mười phút."],
- "interior": ["The interior of the house needs painting.|Bên trong ngôi nhà cần sơn lại.", "She studied interior design in Milan.|Cô ấy học thiết kế nội thất ở Milan.", "The country's interior is mostly desert.|Vùng nội địa của nước này chủ yếu là sa mạc."],
- "legislation": ["New legislation on data privacy takes effect Monday.|Đạo luật mới về quyền riêng tư dữ liệu có hiệu lực thứ Hai.", "Parliament passed the legislation without debate.|Quốc hội thông qua đạo luật mà không tranh luận.", "Environmental legislation has tightened in recent years.|Luật môi trường siết chặt hơn trong những năm gần đây."],
- "mate": ["He's been my closest mate since school.|Cậu ấy là bạn thân nhất của tôi từ thời đi học.", "Swans usually keep the same mate for life.|Thiên nga thường sống với một bạn đời suốt đời.", "The birds mate in early spring.|Loài chim này giao phối vào đầu xuân."],
- "panel": ["A panel of experts will review the applications.|Một hội đồng chuyên gia sẽ xét duyệt hồ sơ.", "One panel of the fence blew down last night.|Một tấm ván hàng rào bị gió thổi đổ tối qua.", "The control panel lights up when you start it.|Bảng điều khiển sáng lên khi bạn khởi động."],
- "relief": ["It was such a relief to hear she's safe.|Thật nhẹ nhõm khi nghe tin cô ấy an toàn.", "Aid workers brought relief to the flooded villages.|Nhân viên cứu trợ mang hàng cứu trợ đến các làng bị lụt.", "These pills give quick relief from headaches.|Mấy viên thuốc này giảm đau đầu rất nhanh."],
- "resistance": ["The plan met strong resistance from local residents.|Kế hoạch vấp phải sự phản đối mạnh từ dân địa phương.", "Vitamin C helps build resistance to colds.|Vitamin C giúp tăng sức đề kháng với cảm lạnh.", "Copper wire has very low resistance.|Dây đồng có điện trở rất thấp."],
- "self-confidence": ["Public speaking classes really boosted her self-confidence.|Lớp học nói trước công chúng giúp cô ấy tự tin hơn hẳn.", "He lost all self-confidence after the failure.|Anh ấy mất hết tự tin sau lần thất bại đó.", "Small wins slowly build self-confidence.|Những thành công nhỏ dần dần xây nên sự tự tin."],
- "somewhat": ["I'm somewhat surprised she said yes.|Tôi hơi bất ngờ khi cô ấy đồng ý.", "The situation has improved somewhat since March.|Tình hình đã khá hơn phần nào từ tháng Ba.", "His explanation was somewhat confusing.|Lời giải thích của anh ấy hơi khó hiểu."],
- "cable": ["The cable behind the TV came loose.|Dây cáp sau tivi bị lỏng ra.", "We canceled cable and switched to streaming.|Chúng tôi hủy truyền hình cáp và chuyển sang xem trực tuyến.", "A thick cable holds the bridge in place.|Một sợi cáp lớn giữ cây cầu cố định."],
- "client": ["The client wants the design by Friday.|Khách hàng muốn có bản thiết kế trước thứ Sáu.", "She meets her biggest client tomorrow morning.|Cô ấy gặp khách hàng lớn nhất vào sáng mai.", "The lawyer refused to discuss his client's case.|Luật sư từ chối bàn về vụ của thân chủ."],
- "constant": ["The constant noise from the street drives me crazy.|Tiếng ồn liên tục từ ngoài đường làm tôi phát điên.", "She needs constant care after the surgery.|Bà ấy cần chăm sóc liên tục sau ca mổ.", "Keep the temperature constant for best results.|Giữ nhiệt độ không đổi để có kết quả tốt nhất."],
- "dumb": ["That was a dumb thing to say.|Nói vậy đúng là ngớ ngẩn.", "I felt dumb for forgetting her name.|Tôi thấy mình ngu ngốc vì quên tên cô ấy.", "He was struck dumb by the news.|Anh ấy chết lặng không nói nên lời trước tin đó."],
- "expansion": ["The company announced its expansion into Asia.|Công ty công bố kế hoạch mở rộng sang châu Á.", "Rapid expansion left the team overworked.|Việc mở rộng quá nhanh khiến cả nhóm quá tải.", "Heat causes the expansion of metal.|Nhiệt làm kim loại giãn nở."],
- "significantly": ["Sales rose significantly after the discount.|Doanh số tăng đáng kể sau đợt giảm giá.", "Her health improved significantly this month.|Sức khỏe bà ấy khá lên rõ rệt trong tháng này.", "The two versions differ significantly.|Hai phiên bản khác nhau đáng kể."],
- "soviet": ["The soviet era ended in 1991.|Thời kỳ Xô viết kết thúc năm 1991.", "My father studied in a soviet university.|Bố tôi học ở một trường đại học Liên Xô.", "The museum displays soviet posters from the 1950s.|Bảo tàng trưng bày áp phích Liên Xô từ những năm 1950."],
- "peak": ["Her career reached its peak in her thirties.|Sự nghiệp của cô ấy đạt đỉnh cao ở tuổi ba mươi.", "We reached the peak just before sunrise.|Chúng tôi lên tới đỉnh núi ngay trước bình minh.", "Traffic peaks between five and seven.|Giao thông đông nhất từ năm đến bảy giờ."],
- "portion": ["A large portion of the budget goes to salaries.|Phần lớn ngân sách dành cho lương.", "The portions at that restaurant are huge.|Khẩu phần ăn ở nhà hàng đó rất lớn.", "She saves a portion of every paycheck.|Cô ấy để dành một phần mỗi kỳ lương."],
- "reform": ["The government promised education reform this year.|Chính phủ hứa cải cách giáo dục trong năm nay.", "Tax reform is unpopular with business owners.|Cải cách thuế không được lòng giới chủ doanh nghiệp.", "They want to reform the whole prison system.|Họ muốn cải tổ toàn bộ hệ thống nhà tù."],
- "retirement": ["He took early retirement at fifty-five.|Ông ấy nghỉ hưu sớm ở tuổi năm mươi lăm.", "They're saving hard for retirement.|Họ đang tiết kiệm ráo riết để dưỡng già.", "She spent her retirement traveling in Asia.|Bà ấy dành thời gian nghỉ hưu đi du lịch châu Á."],
- "secondary": ["Cost is secondary to safety in this decision.|Chi phí chỉ là thứ yếu so với an toàn trong quyết định này.", "My daughter starts secondary school in September.|Con gái tôi vào trung học từ tháng Chín.", "The infection was a secondary complication.|Nhiễm trùng là biến chứng thứ phát."],
- "solar": ["We installed solar panels on the roof.|Chúng tôi lắp tấm pin mặt trời trên mái.", "Solar energy is cheaper than it used to be.|Năng lượng mặt trời rẻ hơn trước nhiều.", "Earth is part of the solar system.|Trái Đất là một phần của hệ mặt trời."],
- "suffering": ["The war caused enormous human suffering.|Chiến tranh gây ra nỗi thống khổ khủng khiếp cho con người.", "The medicine eased her suffering considerably.|Thuốc làm dịu đáng kể nỗi đau của bà.", "He's been suffering from back pain for months.|Anh ấy bị đau lưng hành hạ mấy tháng nay."],
- "ultimate": ["Winning the championship was her ultimate goal.|Vô địch giải là mục tiêu cuối cùng của cô ấy.", "This car is the ultimate luxury.|Chiếc xe này là đỉnh cao của sự sang trọng.", "The ultimate decision rests with the board.|Quyết định cuối cùng thuộc về hội đồng quản trị."],
- "attached": ["I've attached the invoice to this email.|Tôi đã đính kèm hóa đơn trong email này.", "The shed is attached to the back of the house.|Nhà kho được gắn vào phía sau ngôi nhà.", "The kids got very attached to the stray cat.|Bọn trẻ quyến luyến con mèo hoang lắm."],
- "decade": ["She's lived abroad for over a decade.|Cô ấy sống ở nước ngoài hơn một thập kỷ.", "The band was famous in the last decade.|Ban nhạc nổi tiếng trong thập kỷ trước.", "Prices have doubled in the past decade.|Giá cả tăng gấp đôi trong mười năm qua."]
+  "friendly": [
+    "The staff here are always friendly and helpful.|Nhân viên ở đây lúc nào cũng thân thiện và nhiệt tình.",
+    "We played a friendly against the local team.|Chúng tôi đá một trận giao hữu với đội địa phương.",
+    "She gave me a friendly wave from across the street.|Cô ấy vẫy tay chào thân mật từ bên kia đường.",
+    "Our neighbors are friendly but a bit noisy.|Hàng xóm nhà tôi thân thiện nhưng hơi ồn ào.",
+    "Try to use environmentally friendly products.|Hãy cố gắng dùng các sản phẩm thân thiện với môi trường."
+  ],
+  "phase": [
+    "The project is still in its early phase.|Dự án vẫn đang ở giai đoạn đầu.",
+    "Teenagers go through a rebellious phase.|Tuổi teen nào cũng trải qua một giai đoạn nổi loạn.",
+    "We'll phase out the old system by June.|Chúng tôi sẽ loại bỏ dần hệ thống cũ trước tháng Sáu.",
+    "The moon goes through phases every month.|Mặt trăng trải qua các pha mỗi tháng.",
+    "The second phase of the metro line opens next year.|Giai đoạn hai của tuyến tàu điện ngầm sẽ khai trương vào năm sau."
+  ],
+  "revenue": [
+    "The company's revenue grew fifteen percent last year.|Doanh thu công ty tăng mười lăm phần trăm năm ngoái.",
+    "Tourism is a major source of revenue here.|Du lịch là nguồn thu chính ở đây.",
+    "Tax revenue fell sharply during the recession.|Nguồn thu thuế giảm mạnh trong thời kỳ suy thoái.",
+    "Advertising revenue has fallen as readers move online.|Doanh thu quảng cáo giảm khi độc giả chuyển sang đọc trực tuyến.",
+    "The festival generates revenue for local businesses.|Lễ hội mang lại nguồn thu cho các doanh nghiệp địa phương."
+  ],
+  "remaining": [
+    "Please divide the remaining cake among the kids.|Chia chỗ bánh còn lại cho bọn trẻ nhé.",
+    "She spent her remaining years by the sea.|Bà ấy sống những năm cuối đời bên bờ biển.",
+    "There are only two remaining tickets for tonight.|Chỉ còn hai vé cho suất tối nay.",
+    "The remaining questions can wait until next week.|Các câu hỏi còn lại có thể để tuần sau.",
+    "He paid the remaining balance in cash.|Anh ấy trả nốt số tiền còn lại bằng tiền mặt."
+  ],
+  "estimated": [
+    "The repairs will cost an estimated two thousand dollars.|Sửa chữa ước tính tốn khoảng hai nghìn đô.",
+    "An estimated ten thousand people joined the march.|Ước tính có mười nghìn người tham gia cuộc tuần hành.",
+    "He estimated the trip would take four hours.|Anh ấy ước chừng chuyến đi mất bốn tiếng.",
+    "What's the estimated time of arrival?|Thời gian dự kiến đến nơi là mấy giờ?",
+    "The painting is estimated to be worth millions.|Bức tranh được ước tính trị giá hàng triệu."
+  ],
+  "theme": [
+    "The main theme of the novel is forgiveness.|Chủ đề chính của cuốn tiểu thuyết là sự tha thứ.",
+    "Her birthday party had a jungle theme.|Tiệc sinh nhật của cô bé lấy chủ đề rừng rậm.",
+    "I still hum the theme from that old show.|Tôi vẫn ngân nga nhạc chủ đề của bộ phim cũ đó.",
+    "Love and loss are common themes in her songs.|Tình yêu và mất mát là những chủ đề quen thuộc trong các bài hát của cô ấy.",
+    "The kids begged to go to the theme park.|Bọn trẻ nằng nặc đòi đi công viên giải trí."
+  ],
+  "assembly": [
+    "The assembly line stopped for two hours yesterday.|Dây chuyền lắp ráp dừng hai tiếng hôm qua.",
+    "The general assembly votes on the proposal tomorrow.|Đại hội đồng sẽ bỏ phiếu về đề xuất vào ngày mai.",
+    "Students gather in the hall for morning assembly.|Học sinh tập trung ở hội trường trong buổi chào cờ.",
+    "The furniture comes flat and needs assembly.|Đồ nội thất được giao dạng tháo rời và cần lắp ráp.",
+    "The constitution protects freedom of assembly.|Hiến pháp bảo vệ quyền tự do hội họp."
+  ],
+  "draft": [
+    "I've finished the first draft of my report.|Tôi vừa xong bản nháp đầu tiên của báo cáo.",
+    "Could you draft an email to the supplier?|Bạn soạn giúp email gửi nhà cung cấp được không?",
+    "Close the window. There's a cold draft.|Đóng cửa sổ đi, gió lùa lạnh quá.",
+    "This is just a rough draft, so ignore the typos.|Đây mới là bản nháp thô, nên đừng để ý lỗi chính tả.",
+    "The two sides are working on a draft agreement.|Hai bên đang soạn dự thảo thỏa thuận."
+  ],
+  "improved": [
+    "His English has improved a lot this year.|Tiếng Anh của anh ấy tiến bộ nhiều trong năm nay.",
+    "The new model has improved battery life.|Mẫu mới có thời lượng pin tốt hơn trước.",
+    "Her mood improved after a good night's sleep.|Tâm trạng cô ấy khá hơn sau một giấc ngủ ngon.",
+    "The improved version is faster and cheaper.|Phiên bản cải tiến nhanh hơn và rẻ hơn.",
+    "Working conditions have greatly improved.|Điều kiện làm việc đã được cải thiện rất nhiều."
+  ],
+  "prime minister": [
+    "The prime minister addressed the nation last night.|Thủ tướng phát biểu trước toàn dân tối qua.",
+    "She became prime minister at just forty-two.|Bà ấy trở thành thủ tướng khi mới bốn mươi hai tuổi.",
+    "The former prime minister now writes memoirs.|Cựu thủ tướng giờ viết hồi ký.",
+    "Farmers hit by the floods met the prime minister yesterday.|Những nông dân bị lũ lụt ảnh hưởng đã gặp thủ tướng hôm qua.",
+    "The prime minister's office has not commented.|Văn phòng thủ tướng chưa đưa ra bình luận."
+  ],
+  "relevant": [
+    "Please attach any relevant documents to the email.|Vui lòng đính kèm mọi tài liệu liên quan vào email.",
+    "That argument isn't relevant to our discussion.|Lập luận đó không liên quan đến vấn đề ta đang bàn.",
+    "The book remains relevant fifty years later.|Cuốn sách vẫn còn hợp thời sau năm mươi năm.",
+    "Do you have any relevant experience?|Bạn có kinh nghiệm liên quan nào không?",
+    "Only include information that is relevant to the question.|Chỉ đưa vào những thông tin liên quan đến câu hỏi."
+  ],
+  "solo": [
+    "She sang a beautiful solo at the concert.|Cô ấy hát một bài đơn ca rất hay trong buổi hòa nhạc.",
+    "He flew solo across the Atlantic in 1927.|Ông ấy bay một mình qua Đại Tây Dương năm 1927.",
+    "After the band split, she went solo.|Sau khi ban nhạc tan rã, cô ấy hát solo.",
+    "The guitar solo is the best part of the song.|Đoạn solo guitar là phần hay nhất của bài hát.",
+    "More women are traveling solo these days.|Ngày nay ngày càng nhiều phụ nữ đi du lịch một mình."
+  ],
+  "statistics": [
+    "The statistics show a clear drop in crime.|Số liệu thống kê cho thấy tội phạm giảm rõ rệt.",
+    "I failed statistics twice in college.|Tôi trượt môn thống kê hai lần hồi đại học.",
+    "Official statistics often hide the real story.|Thống kê chính thức thường che giấu câu chuyện thật.",
+    "According to statistics, women live longer than men.|Theo số liệu thống kê, phụ nữ sống lâu hơn nam giới.",
+    "Crime statistics can be misleading.|Số liệu tội phạm có thể gây hiểu lầm."
+  ],
+  "territory": [
+    "The island is disputed territory between two countries.|Hòn đảo là lãnh thổ tranh chấp giữa hai nước.",
+    "Wolves mark their territory with scent.|Chó sói đánh dấu địa bàn bằng mùi.",
+    "Long hours come with the territory in this job.|Làm việc nhiều giờ là chuyện đương nhiên với nghề này.",
+    "Talking about politics at dinner is dangerous territory.|Nói chuyện chính trị trong bữa tối là vùng cấm địa.",
+    "The team went into unknown territory with the new product.|Cả nhóm dấn bước vào lĩnh vực chưa từng biết với sản phẩm mới."
+  ],
+  "corporation": [
+    "The corporation plans to open ten new stores next year.|Tập đoàn dự định mở thêm mười cửa hàng vào năm tới.",
+    "The corporation reported record profits this quarter.|Tập đoàn báo lãi kỷ lục trong quý này.",
+    "Small shops can't compete with giant corporations.|Cửa hàng nhỏ không cạnh tranh nổi với các tập đoàn khổng lồ.",
+    "Over fifty thousand people work for the corporation.|Hơn năm mươi nghìn người làm việc cho tập đoàn này.",
+    "Corporations must pay tax where they make their profits.|Các tập đoàn phải nộp thuế ở nơi họ tạo ra lợi nhuận."
+  ],
+  "motion": [
+    "The boat's gentle motion made me sleepy.|Chuyển động nhẹ của con thuyền làm tôi buồn ngủ.",
+    "She waved him over with a quick motion.|Cô ấy khoát tay ra hiệu cho anh lại gần.",
+    "The committee passed the motion by six votes.|Ủy ban thông qua kiến nghị với sáu phiếu thuận.",
+    "The scene was shown again in slow motion.|Cảnh đó được chiếu lại ở chế độ quay chậm.",
+    "Some people get motion sickness on boats.|Một số người bị say sóng khi đi thuyền."
+  ],
+  "resolution": [
+    "The council passed a resolution banning plastic bags.|Hội đồng thông qua nghị quyết cấm túi nilon.",
+    "My New Year's resolution is to run daily.|Quyết tâm năm mới của tôi là chạy bộ mỗi ngày.",
+    "This screen has a much higher resolution.|Màn hình này có độ phân giải cao hơn nhiều.",
+    "The resolution of the conflict took years.|Việc giải quyết xung đột mất nhiều năm.",
+    "The UN resolution called for an immediate ceasefire.|Nghị quyết của Liên Hợp Quốc kêu gọi ngừng bắn ngay lập tức."
+  ],
+  "rural": [
+    "He grew up in a small rural village.|Anh ấy lớn lên ở một làng quê nhỏ.",
+    "Rural areas often lack decent internet.|Vùng nông thôn thường thiếu internet tử tế.",
+    "They moved from the city to a rural community.|Họ chuyển từ thành phố về một cộng đồng miền quê.",
+    "Rural life is quieter but not always easier.|Cuộc sống nông thôn yên bình hơn nhưng không phải lúc nào cũng dễ dàng hơn.",
+    "Many young people leave rural areas to find work.|Nhiều người trẻ rời vùng nông thôn để tìm việc."
+  ],
+  "saving": [
+    "Buying in bulk is a real saving.|Mua số lượng lớn tiết kiệm được kha khá.",
+    "She put her savings into a small business.|Cô ấy dồn tiền tiết kiệm vào một cửa hàng nhỏ.",
+    "The new bulbs offer big energy savings.|Bóng đèn mới giúp tiết kiệm điện đáng kể.",
+    "The new system will mean a saving of twenty percent.|Hệ thống mới sẽ giúp tiết kiệm hai mươi phần trăm.",
+    "Dishwashers are great time-saving machines.|Máy rửa bát là thiết bị tiết kiệm thời gian tuyệt vời."
+  ],
+  "plot": [
+    "The plot of the movie was confusing.|Cốt truyện của bộ phim khá khó hiểu.",
+    "They uncovered a plot to overthrow the government.|Họ phát hiện một âm mưu lật đổ chính phủ.",
+    "We bought a small plot of land upstate.|Chúng tôi mua một mảnh đất nhỏ ở ngoại tỉnh.",
+    "I won't tell you the plot; just watch it.|Tôi sẽ không kể cốt truyện đâu, cứ xem đi.",
+    "The villagers plotted to trick the greedy landlord.|Dân làng bày mưu lừa tên địa chủ tham lam."
+  ],
+  "senator": [
+    "The senator voted against the healthcare bill.|Thượng nghị sĩ bỏ phiếu chống dự luật y tế.",
+    "She's running for senator next November.|Bà ấy tranh cử thượng nghị sĩ vào tháng Mười Một tới.",
+    "Two senators walked out during the speech.|Hai thượng nghị sĩ bỏ ra ngoài giữa bài phát biểu.",
+    "Each state elects two senators.|Mỗi bang bầu ra hai thượng nghị sĩ.",
+    "The senator promised to fight for rural schools.|Vị thượng nghị sĩ hứa sẽ đấu tranh cho các trường học nông thôn."
+  ],
+  "index": [
+    "The stock index fell three points today.|Chỉ số chứng khoán giảm ba điểm hôm nay.",
+    "Check the index at the back of the book.|Xem mục lục ở cuối sách nhé.",
+    "He pointed at the map with his index finger.|Anh ấy chỉ lên bản đồ bằng ngón trỏ.",
+    "The price index rose for the third month in a row.|Chỉ số giá tăng tháng thứ ba liên tiếp.",
+    "Write each word on an index card.|Viết mỗi từ lên một tấm thẻ ghi chú."
+  ],
+  "navy": [
+    "His grandfather served in the navy for twenty years.|Ông anh ấy phục vụ trong hải quân hai mươi năm.",
+    "She joined the navy right after high school.|Cô ấy nhập ngũ hải quân ngay sau khi tốt nghiệp cấp ba.",
+    "I wore a navy suit to the interview.|Tôi mặc bộ vest xanh đậm đi phỏng vấn.",
+    "Navy blue goes well with white.|Màu xanh hải quân rất hợp với màu trắng.",
+    "The navy rescued the fishermen after the storm.|Hải quân đã giải cứu các ngư dân sau cơn bão."
+  ],
+  "scheme": [
+    "The government launched a new housing scheme.|Chính phủ triển khai chương trình nhà ở mới.",
+    "They fell for a get-rich-quick scheme.|Họ sập bẫy một kế hoạch làm giàu nhanh.",
+    "He hatched a scheme to avoid paying taxes.|Hắn nghĩ ra mưu đồ trốn thuế.",
+    "What color scheme do you want for the kitchen?|Bạn muốn phối màu thế nào cho căn bếp?",
+    "The pension scheme is open to all staff.|Chương trình hưu trí dành cho mọi nhân viên."
+  ],
+  "ultimately": [
+    "Ultimately, the decision is yours to make.|Rốt cuộc thì quyết định vẫn là ở bạn.",
+    "The plan ultimately failed for lack of funding.|Kế hoạch cuối cùng thất bại vì thiếu vốn.",
+    "Ultimately, what matters is that everyone is safe.|Xét cho cùng, quan trọng là mọi người đều an toàn.",
+    "Their hard work was ultimately rewarded.|Công sức của họ cuối cùng cũng được đền đáp.",
+    "Who is ultimately responsible for the mistake?|Rốt cuộc ai là người chịu trách nhiệm cho sai lầm này?"
+  ],
+  "x-ray": [
+    "The doctor ordered an x-ray of my wrist.|Bác sĩ chỉ định chụp X-quang cổ tay tôi.",
+    "The x-ray showed a hairline fracture.|Ảnh chụp X-quang cho thấy một vết rạn nhỏ.",
+    "They x-ray every bag at the airport.|Họ soi chiếu mọi hành lý ở sân bay.",
+    "Dentists use x-rays to check for problems.|Nha sĩ dùng ảnh chụp X-quang để kiểm tra các vấn đề.",
+    "Superman has x-ray vision.|Siêu Nhân có khả năng nhìn xuyên thấu."
+  ],
+  "creation": [
+    "The creation of the park took three years.|Việc tạo ra công viên mất ba năm.",
+    "This dessert is my grandmother's own creation.|Món tráng miệng này là tác phẩm của bà tôi.",
+    "The museum celebrates the creation of modern art.|Bảo tàng tôn vinh sự ra đời của nghệ thuật hiện đại.",
+    "Job creation is the government's top priority.|Tạo việc làm là ưu tiên hàng đầu của chính phủ.",
+    "Many cultures have stories about the creation of the world.|Nhiều nền văn hóa có những câu chuyện về sự sáng tạo ra thế giới."
+  ],
+  "identify": [
+    "Police asked her to identify the suspect.|Cảnh sát yêu cầu cô nhận diện nghi phạm.",
+    "We need to identify the cause of the leak.|Chúng ta cần xác định nguyên nhân rò rỉ.",
+    "Many readers identify with the main character.|Nhiều độc giả đồng cảm với nhân vật chính.",
+    "Can you identify the bird from its song?|Bạn có nhận ra loài chim qua tiếng hót không?",
+    "The report identifies three main problems.|Bản báo cáo chỉ ra ba vấn đề chính."
+  ],
+  "manufacturing": [
+    "The town depends on car manufacturing for jobs.|Thị trấn sống nhờ việc làm trong ngành sản xuất ô tô.",
+    "Manufacturing costs have risen since last year.|Chi phí chế tạo tăng lên từ năm ngoái.",
+    "She works in a manufacturing plant near the port.|Cô ấy làm ở một nhà máy gần cảng.",
+    "Manufacturing jobs have moved overseas.|Việc làm trong ngành sản xuất đã chuyển ra nước ngoài.",
+    "The manufacturing process uses a lot of water.|Quy trình sản xuất tốn rất nhiều nước."
+  ],
+  "personnel": [
+    "All personnel must wear a badge inside.|Toàn bộ nhân viên phải đeo thẻ khi vào trong.",
+    "The personnel department handles all hiring.|Phòng nhân sự phụ trách toàn bộ việc tuyển dụng.",
+    "We're short of trained personnel this month.|Tháng này chúng tôi thiếu nhân sự có tay nghề.",
+    "Medical personnel worked around the clock.|Nhân viên y tế làm việc suốt ngày đêm.",
+    "Only authorized personnel may enter this area.|Chỉ nhân viên có thẩm quyền mới được vào khu vực này."
+  ],
+  "perspective": [
+    "Try to see it from her perspective.|Thử nhìn từ góc nhìn của cô ấy xem.",
+    "Losing my job gave me a new perspective on life.|Mất việc cho tôi một cái nhìn mới về cuộc sống.",
+    "The artist got the perspective slightly wrong.|Họa sĩ vẽ hơi sai luật phối cảnh.",
+    "Traveling helps put things in perspective.|Đi du lịch giúp ta nhìn nhận mọi việc đúng mức hơn.",
+    "The book looks at the war from a historical perspective.|Cuốn sách nhìn nhận cuộc chiến từ góc độ lịch sử."
+  ],
+  "revolution": [
+    "The revolution began with a student protest.|Cuộc cách mạng bắt đầu từ một cuộc biểu tình sinh viên.",
+    "Smartphones caused a revolution in how we work.|Điện thoại thông minh tạo ra cuộc cách mạng trong cách ta làm việc.",
+    "The engine runs at three thousand revolutions per minute.|Động cơ chạy ba nghìn vòng mỗi phút.",
+    "It was a short revolution, over in less than a week.|Đó là một cuộc cách mạng ngắn ngủi, kết thúc chưa đầy một tuần.",
+    "The French Revolution began in 1789.|Cách mạng Pháp bắt đầu vào năm 1789."
+  ],
+  "ban": [
+    "The city imposed a ban on plastic straws.|Thành phố ban hành lệnh cấm ống hút nhựa.",
+    "They banned him from the stadium for two years.|Họ cấm anh ta vào sân trong hai năm.",
+    "Smoking is banned in all restaurants here.|Hút thuốc bị cấm ở mọi nhà hàng tại đây.",
+    "The government plans to lift the ban next year.|Chính phủ dự định dỡ bỏ lệnh cấm vào năm sau.",
+    "Should phones be banned in schools?|Có nên cấm điện thoại trong trường học không?"
+  ],
+  "carbon": [
+    "Trees absorb carbon from the atmosphere.|Cây hấp thụ cacbon từ khí quyển.",
+    "The company aims to cut carbon emissions by half.|Công ty đặt mục tiêu giảm một nửa khí thải cacbon.",
+    "Flying leaves a big carbon footprint.|Đi máy bay để lại dấu chân cacbon rất lớn.",
+    "The company wants to be carbon neutral by 2030.|Công ty muốn đạt trung hòa cacbon vào năm 2030.",
+    "Diamonds are made of pure carbon.|Kim cương được cấu tạo từ cacbon nguyên chất."
+  ],
+  "deputy": [
+    "The deputy manager will handle it while I'm away.|Phó quản lý sẽ lo việc đó lúc tôi đi vắng.",
+    "She was promoted to deputy director last spring.|Cô ấy được thăng làm phó giám đốc mùa xuân năm ngoái.",
+    "A deputy sheriff arrived within ten minutes.|Một phó cảnh sát trưởng đến trong vòng mười phút.",
+    "The deputy head runs the school on Fridays.|Thầy hiệu phó điều hành trường vào các ngày thứ Sáu.",
+    "She acted as deputy while the director was ill.|Cô ấy làm quyền giám đốc khi giám đốc bị ốm."
+  ],
+  "interior": [
+    "The interior of the house needs painting.|Bên trong ngôi nhà cần sơn lại.",
+    "She studied interior design in Milan.|Cô ấy học thiết kế nội thất ở Milan.",
+    "The country's interior is mostly desert.|Vùng nội địa của nước này chủ yếu là sa mạc.",
+    "The car's interior smells brand new.|Nội thất xe có mùi như mới.",
+    "The interior walls are made of thin wood.|Các bức tường bên trong làm bằng gỗ mỏng."
+  ],
+  "legislation": [
+    "New legislation on data privacy takes effect Monday.|Đạo luật mới về quyền riêng tư dữ liệu có hiệu lực thứ Hai.",
+    "Parliament passed the legislation without debate.|Quốc hội thông qua đạo luật mà không tranh luận.",
+    "Environmental legislation has tightened in recent years.|Luật môi trường siết chặt hơn trong những năm gần đây.",
+    "The government will introduce legislation to protect workers.|Chính phủ sẽ đưa ra dự luật để bảo vệ người lao động.",
+    "Under current legislation, you must be eighteen to vote.|Theo luật hiện hành, bạn phải đủ mười tám tuổi mới được bầu cử."
+  ],
+  "mate": [
+    "He's been my closest mate since school.|Cậu ấy là bạn thân nhất của tôi từ thời đi học.",
+    "Swans usually keep the same mate for life.|Thiên nga thường sống với một bạn đời suốt đời.",
+    "The birds mate in early spring.|Loài chim này giao phối vào đầu xuân.",
+    "I'm going for a drink with a few mates.|Tôi đi uống nước với mấy người bạn.",
+    "Many birds sing to attract a mate.|Nhiều loài chim hót để thu hút bạn tình."
+  ],
+  "panel": [
+    "A panel of experts will review the applications.|Một hội đồng chuyên gia sẽ xét duyệt hồ sơ.",
+    "One panel of the fence blew down last night.|Một tấm ván hàng rào bị gió thổi đổ tối qua.",
+    "The control panel lights up when you start it.|Bảng điều khiển sáng lên khi bạn khởi động.",
+    "The panel discussion ran over time.|Buổi thảo luận nhóm kéo dài quá giờ.",
+    "The judging panel gave her full marks.|Ban giám khảo cho cô ấy điểm tuyệt đối."
+  ],
+  "relief": [
+    "It was such a relief to hear she's safe.|Thật nhẹ nhõm khi nghe tin cô ấy an toàn.",
+    "Aid workers brought relief to the flooded villages.|Nhân viên cứu trợ mang hàng cứu trợ đến các làng bị lụt.",
+    "These pills give quick relief from headaches.|Mấy viên thuốc này giảm đau đầu rất nhanh.",
+    "Much to my relief, the test was easy.|Tôi nhẹ cả người vì bài kiểm tra dễ.",
+    "She breathed a sigh of relief.|Cô ấy thở phào nhẹ nhõm."
+  ],
+  "resistance": [
+    "The plan met strong resistance from local residents.|Kế hoạch vấp phải sự phản đối mạnh từ dân địa phương.",
+    "Vitamin C helps build resistance to colds.|Vitamin C giúp tăng sức đề kháng với cảm lạnh.",
+    "Copper wire has very low resistance.|Dây đồng có điện trở rất thấp.",
+    "Many bacteria have developed resistance to antibiotics.|Nhiều loại vi khuẩn đã kháng thuốc kháng sinh.",
+    "There's always resistance to change in big companies.|Ở các công ty lớn, lúc nào cũng có sự phản đối thay đổi."
+  ],
+  "self-confidence": [
+    "Public speaking classes really boosted her self-confidence.|Lớp học nói trước công chúng giúp cô ấy tự tin hơn hẳn.",
+    "He lost all self-confidence after the failure.|Anh ấy mất hết tự tin sau lần thất bại đó.",
+    "Small wins slowly build self-confidence.|Những thành công nhỏ dần dần xây nên sự tự tin.",
+    "A lack of self-confidence held her back for years.|Thiếu tự tin đã cản bước cô ấy suốt nhiều năm.",
+    "Learning to swim gave him more self-confidence.|Học bơi giúp cậu ấy tự tin hơn."
+  ],
+  "somewhat": [
+    "I'm somewhat surprised she said yes.|Tôi hơi bất ngờ khi cô ấy đồng ý.",
+    "The situation has improved somewhat since March.|Tình hình đã khá hơn phần nào từ tháng Ba.",
+    "His explanation was somewhat confusing.|Lời giải thích của anh ấy hơi khó hiểu.",
+    "The movie was somewhat longer than I expected.|Bộ phim dài hơn tôi nghĩ một chút.",
+    "I somewhat agree, but not completely.|Tôi đồng ý phần nào, nhưng không hoàn toàn."
+  ],
+  "cable": [
+    "The cable behind the TV came loose.|Dây cáp sau tivi bị lỏng ra.",
+    "We canceled cable and switched to streaming.|Chúng tôi hủy truyền hình cáp và chuyển sang xem trực tuyến.",
+    "A thick cable holds the bridge in place.|Một sợi cáp lớn giữ cây cầu cố định.",
+    "We took the cable car to the top of the mountain.|Chúng tôi đi cáp treo lên đỉnh núi.",
+    "Don't trip over the cables on the floor.|Đừng vấp vào mấy sợi dây cáp dưới sàn."
+  ],
+  "client": [
+    "The client wants the design by Friday.|Khách hàng muốn có bản thiết kế trước thứ Sáu.",
+    "She meets her biggest client tomorrow morning.|Cô ấy gặp khách hàng lớn nhất vào sáng mai.",
+    "The lawyer refused to discuss his client's case.|Luật sư từ chối bàn về vụ của thân chủ.",
+    "The firm has clients all over the world.|Công ty có khách hàng khắp thế giới.",
+    "We need to keep our regular clients happy.|Chúng ta cần làm hài lòng các khách hàng quen."
+  ],
+  "constant": [
+    "The constant noise from the street drives me crazy.|Tiếng ồn liên tục từ ngoài đường làm tôi phát điên.",
+    "She needs constant care after the surgery.|Bà ấy cần chăm sóc liên tục sau ca mổ.",
+    "Keep the temperature constant for best results.|Giữ nhiệt độ không đổi để có kết quả tốt nhất.",
+    "Change is the only constant in life.|Thay đổi là điều duy nhất không đổi trong cuộc sống.",
+    "The speed of light is a constant.|Tốc độ ánh sáng là một hằng số."
+  ],
+  "dumb": [
+    "That was a dumb thing to say.|Nói vậy đúng là ngớ ngẩn.",
+    "I felt dumb for forgetting her name.|Tôi thấy mình ngu ngốc vì quên tên cô ấy.",
+    "He was struck dumb by the news.|Anh ấy chết lặng không nói nên lời trước tin đó.",
+    "Stop playing dumb; I know you did it.|Đừng giả ngu nữa, tôi biết là bạn làm.",
+    "It was dumb luck that we found the keys.|Tìm được chìa khóa hoàn toàn là nhờ ăn may."
+  ],
+  "expansion": [
+    "The company announced its expansion into Asia.|Công ty công bố kế hoạch mở rộng sang châu Á.",
+    "Rapid expansion left the team overworked.|Việc mở rộng quá nhanh khiến cả nhóm quá tải.",
+    "Heat causes the expansion of metal.|Nhiệt làm kim loại giãn nở.",
+    "The airport's expansion will create thousands of jobs.|Việc mở rộng sân bay sẽ tạo ra hàng nghìn việc làm.",
+    "The café has big expansion plans for next year.|Quán cà phê có kế hoạch mở rộng lớn cho năm sau."
+  ],
+  "significantly": [
+    "Sales rose significantly after the discount.|Doanh số tăng đáng kể sau đợt giảm giá.",
+    "Her health improved significantly this month.|Sức khỏe bà ấy khá lên rõ rệt trong tháng này.",
+    "The two versions differ significantly.|Hai phiên bản khác nhau đáng kể.",
+    "The new road will significantly reduce travel time.|Con đường mới sẽ giảm đáng kể thời gian đi lại.",
+    "Prices here are significantly higher than in the countryside.|Giá cả ở đây cao hơn đáng kể so với ở nông thôn."
+  ],
+  "soviet": [
+    "The Soviet era ended in 1991.|Thời kỳ Xô viết kết thúc năm 1991.",
+    "My father studied at a Soviet university.|Bố tôi học ở một trường đại học Liên Xô.",
+    "The museum displays Soviet posters from the 1950s.|Bảo tàng trưng bày áp phích Liên Xô từ những năm 1950.",
+    "Many Soviet buildings still stand in the city center.|Nhiều tòa nhà thời Xô viết vẫn còn ở trung tâm thành phố.",
+    "Russian was taught in schools across the former Soviet republics.|Tiếng Nga từng được dạy ở trường học khắp các nước cộng hòa thuộc Liên Xô cũ."
+  ],
+  "peak": [
+    "Her career reached its peak in her thirties.|Sự nghiệp của cô ấy đạt đỉnh cao ở tuổi ba mươi.",
+    "We reached the peak just before sunrise.|Chúng tôi lên tới đỉnh núi ngay trước bình minh.",
+    "Traffic peaks between five and seven.|Giao thông đông nhất từ năm đến bảy giờ.",
+    "Hotels are expensive in peak season.|Khách sạn rất đắt vào mùa cao điểm.",
+    "The snowy peaks were visible from the city.|Từ thành phố có thể nhìn thấy những đỉnh núi phủ tuyết."
+  ],
+  "portion": [
+    "A large portion of the budget goes to salaries.|Phần lớn ngân sách dành cho lương.",
+    "The portions at that restaurant are huge.|Khẩu phần ăn ở nhà hàng đó rất lớn.",
+    "She saves a portion of every paycheck.|Cô ấy để dành một phần mỗi kỳ lương.",
+    "Only a small portion of the forest remains.|Chỉ còn lại một phần nhỏ của khu rừng.",
+    "Kids' portions are half the price.|Suất ăn trẻ em có giá bằng một nửa."
+  ],
+  "reform": [
+    "The government promised education reform this year.|Chính phủ hứa cải cách giáo dục trong năm nay.",
+    "Tax reform is unpopular with business owners.|Cải cách thuế không được lòng giới chủ doanh nghiệp.",
+    "They want to reform the whole prison system.|Họ muốn cải tổ toàn bộ hệ thống nhà tù.",
+    "Many people want reform of the voting system.|Nhiều người muốn cải cách hệ thống bầu cử.",
+    "The reforms made it easier to start a business.|Các cải cách giúp việc khởi nghiệp dễ dàng hơn."
+  ],
+  "retirement": [
+    "He took early retirement at fifty-five.|Ông ấy nghỉ hưu sớm ở tuổi năm mươi lăm.",
+    "They're saving hard for retirement.|Họ đang tiết kiệm ráo riết để dưỡng già.",
+    "She spent her retirement traveling in Asia.|Bà ấy dành thời gian nghỉ hưu đi du lịch châu Á.",
+    "The retirement age is going up.|Tuổi nghỉ hưu đang được nâng lên.",
+    "We threw a party to celebrate her retirement.|Chúng tôi tổ chức tiệc mừng bà ấy nghỉ hưu."
+  ],
+  "secondary": [
+    "Cost is secondary to safety in this decision.|Chi phí chỉ là thứ yếu so với an toàn trong quyết định này.",
+    "My daughter starts secondary school in September.|Con gái tôi vào trung học từ tháng Chín.",
+    "The infection was a secondary complication.|Nhiễm trùng là biến chứng thứ phát.",
+    "Secondary education is free in many countries.|Giáo dục trung học miễn phí ở nhiều nước.",
+    "Where possible, use primary rather than secondary sources.|Khi có thể, hãy dùng nguồn gốc thay vì nguồn thứ cấp."
+  ],
+  "solar": [
+    "We installed solar panels on the roof.|Chúng tôi lắp tấm pin mặt trời trên mái.",
+    "Solar energy is cheaper than it used to be.|Năng lượng mặt trời rẻ hơn trước nhiều.",
+    "Earth is part of the solar system.|Trái Đất là một phần của hệ mặt trời.",
+    "A solar eclipse will be visible next month.|Tháng sau sẽ có thể quan sát nhật thực.",
+    "Solar lamps charge during the day and light up at night.|Đèn năng lượng mặt trời sạc vào ban ngày và sáng vào ban đêm."
+  ],
+  "suffering": [
+    "The war caused enormous human suffering.|Chiến tranh gây ra nỗi thống khổ khủng khiếp cho con người.",
+    "The medicine eased her suffering considerably.|Thuốc làm dịu đáng kể nỗi đau của bà.",
+    "He's been suffering from back pain for months.|Anh ấy bị đau lưng hành hạ mấy tháng nay.",
+    "Animals shouldn't face unnecessary suffering.|Động vật không nên phải chịu đau đớn không cần thiết.",
+    "Her book is about suffering and hope.|Cuốn sách của cô ấy nói về đau khổ và hy vọng."
+  ],
+  "ultimate": [
+    "Winning the championship was her ultimate goal.|Vô địch giải là mục tiêu cuối cùng của cô ấy.",
+    "This car is the ultimate luxury.|Chiếc xe này là đỉnh cao của sự sang trọng.",
+    "The ultimate decision rests with the board.|Quyết định cuối cùng thuộc về hội đồng quản trị.",
+    "The ultimate test of a good teacher is how much students learn.|Thước đo cuối cùng của một giáo viên giỏi là học sinh học được bao nhiêu.",
+    "This is the ultimate guide to Hanoi street food.|Đây là cẩm nang đầy đủ nhất về ẩm thực đường phố Hà Nội."
+  ],
+  "attached": [
+    "I've attached the invoice to this email.|Tôi đã đính kèm hóa đơn trong email này.",
+    "The shed is attached to the back of the house.|Nhà kho được gắn vào phía sau ngôi nhà.",
+    "The kids got very attached to the stray cat.|Bọn trẻ quyến luyến con mèo hoang lắm.",
+    "Please find attached my CV.|Xin gửi kèm CV của tôi.",
+    "He's very attached to his old car.|Anh ấy rất gắn bó với chiếc xe cũ."
+  ],
+  "decade": [
+    "She's lived abroad for over a decade.|Cô ấy sống ở nước ngoài hơn một thập kỷ.",
+    "The band was famous in the last decade.|Ban nhạc nổi tiếng trong thập kỷ trước.",
+    "Prices have doubled in the past decade.|Giá cả tăng gấp đôi trong mười năm qua.",
+    "The project took almost a decade to finish.|Dự án mất gần một thập kỷ mới hoàn thành.",
+    "Fashion from that decade is popular again.|Thời trang của thập niên đó đang thịnh hành trở lại."
+  ]
 }

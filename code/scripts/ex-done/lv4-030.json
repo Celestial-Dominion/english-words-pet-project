@@ -1,62 +1,422 @@
 {
- "trifle": ["Don't waste time on such a trifle.|Đừng phí thời gian vào chuyện vặt vãnh thế.", "My grandmother made trifle every Christmas.|Bà tôi làm bánh trifle mỗi dịp Giáng sinh.", "He's not a man to trifle with.|Ông ta không phải người để mà đùa cợt xem thường."],
- "subsidize": ["The government subsidizes public transport heavily.|Chính phủ trợ cấp mạnh cho giao thông công cộng.", "Taxpayers effectively subsidize the industry.|Người đóng thuế thực chất đang bao cấp cho ngành này.", "Her parents subsidized her rent for two years.|Bố mẹ tài trợ tiền thuê nhà cho cô hai năm."],
- "milieu": ["He grew up in a working-class milieu.|Anh ấy lớn lên trong môi trường lao động.", "The novel captures the artistic milieu of Paris.|Cuốn tiểu thuyết khắc họa giới nghệ sĩ Paris.", "She felt out of place in that milieu.|Cô thấy lạc lõng trong tầng lớp đó."],
- "recluse": ["The writer became a recluse in later life.|Nhà văn sống ẩn dật những năm cuối đời.", "He lived as a recluse in the woods.|Ông sống tách biệt trong rừng.", "Neighbors described her as a quiet recluse.|Hàng xóm tả bà là người sống ẩn dật, ít nói."],
- "stipulation": ["The loan came with one strict stipulation.|Khoản vay đi kèm một điều kiện nghiêm ngặt.", "There's a stipulation about early repayment.|Có một điều khoản ràng buộc về trả nợ sớm.", "She accepted the job with one stipulation.|Cô nhận việc với một điều kiện duy nhất."],
- "minefield": ["The topic is a political minefield.|Chủ đề này là một bãi mìn chính trị.", "Choosing a school here is a minefield.|Chọn trường ở đây là chuyện đầy rủi ro.", "Soldiers carefully crossed the old minefield.|Binh lính cẩn thận băng qua bãi mìn cũ."],
- "euphemism": ["\"Let go\" is a euphemism for fired.|Cho nghỉ là cách nói giảm của bị sa thải.", "The report is full of corporate euphemisms.|Bản báo cáo đầy uyển ngữ kiểu doanh nghiệp.", "He used a euphemism to soften the news.|Anh dùng cách nói tránh để giảm nhẹ tin xấu."],
- "reverb": ["The church has a natural reverb.|Nhà thờ có độ vang tự nhiên.", "Add a little reverb to the vocals.|Thêm chút hiệu ứng vang cho giọng hát.", "The reverb made his voice sound huge.|Tiếng vọng khiến giọng anh nghe rất lớn."],
- "unequivocal": ["The answer was an unequivocal no.|Câu trả lời là một tiếng không dứt khoát.", "She gave unequivocal support to the plan.|Bà ủng hộ kế hoạch một cách rõ ràng.", "The evidence is unequivocal on this point.|Bằng chứng ở điểm này là không mập mờ."],
- "accrue": ["Interest accrues daily on the balance.|Lãi tích lũy hằng ngày trên số dư.", "Benefits accrue to those who wait.|Lợi ích dồn về phía người biết chờ đợi.", "She accrued three weeks of leave.|Cô tích lũy được ba tuần phép."],
- "chronologically": ["The photos are arranged chronologically.|Các bức ảnh được xếp theo trình tự thời gian.", "Tell the story chronologically, please.|Kể câu chuyện theo thứ tự thời gian nhé.", "The exhibits run chronologically from 1900.|Khu trưng bày chạy theo thời gian từ năm 1900."],
- "opulent": ["The hotel lobby was absurdly opulent.|Sảnh khách sạn xa hoa đến mức phi lý.", "She wore an opulent silk gown.|Cô mặc chiếc áo dài lụa lộng lẫy.", "They live in opulent surroundings.|Họ sống trong cảnh giàu sang."],
- "ferocity": ["The storm hit with unexpected ferocity.|Cơn bão ập đến với sự dữ dội bất ngờ.", "He defended his family with ferocity.|Anh bảo vệ gia đình một cách hung tợn.", "The ferocity of the criticism shocked her.|Sự dữ dội của những lời chỉ trích làm cô sốc."],
- "recitation": ["Her recitation of the poem moved everyone.|Bài ngâm thơ của cô làm mọi người xúc động.", "The class began with a recitation of names.|Buổi học bắt đầu bằng việc đọc tên.", "He gave a flawless recitation from memory.|Anh đọc thuộc lòng không sai một chữ."],
- "stratosphere": ["The balloon reached the lower stratosphere.|Khinh khí cầu lên tới tầng bình lưu thấp.", "Ticket prices went into the stratosphere.|Giá vé lên tới mức chót vót.", "Ozone forms mainly in the stratosphere.|Ozone hình thành chủ yếu ở tầng bình lưu."],
- "posturing": ["The debate was mostly political posturing.|Cuộc tranh luận chủ yếu là làm bộ làm tịch chính trị.", "Ignore the posturing and read the details.|Bỏ qua trò ra vẻ đó và đọc kỹ chi tiết.", "His threats were pure posturing.|Lời đe dọa của hắn chỉ là điệu bộ phô trương."],
- "innuendo": ["The article was full of innuendo.|Bài báo đầy những lời bóng gió.", "He made an innuendo about her promotion.|Anh ta ám chỉ bóng gió về việc cô được thăng chức.", "She ignored the innuendo and changed subject.|Cô lờ lời ám chỉ đó và đổi chủ đề."],
- "magpie": ["A magpie stole a coin from the table.|Một con ác là tha mất đồng xu trên bàn.", "Two magpies nested in the old oak.|Hai con ác là làm tổ trên cây sồi già.", "He's a magpie who keeps every receipt.|Anh ấy hay tha nhặt, giữ lại từng cái hóa đơn."],
- "interrogate": ["Police interrogated the suspect for hours.|Cảnh sát thẩm vấn nghi phạm suốt nhiều giờ.", "She interrogated him about the missing money.|Cô tra hỏi anh ta về số tiền mất tích.", "The tool interrogates the database directly.|Công cụ truy vấn thẳng vào cơ sở dữ liệu."],
- "torrential": ["Torrential rain flooded the whole street.|Mưa như trút nước làm ngập cả con phố.", "The match stopped due to torrential downpour.|Trận đấu dừng vì mưa xối xả.", "Torrential floods swept away the bridge.|Lũ ào ạt cuốn trôi cây cầu."],
- "virtuoso": ["She's a virtuoso on the violin.|Cô ấy là bậc thầy violin.", "The film features a virtuoso performance.|Bộ phim có một màn diễn xuất điêu luyện.", "He played with virtuoso skill.|Anh chơi với kỹ thuật bậc thầy."],
- "instantaneously": ["The message arrives almost instantaneously.|Tin nhắn đến gần như tức thì.", "She recognized him instantaneously.|Cô nhận ra anh ngay tức khắc.", "The system responds instantaneously to input.|Hệ thống phản hồi tức thì với thao tác nhập."],
- "fluctuation": ["Price fluctuations worry small investors.|Sự dao động giá làm nhà đầu tư nhỏ lo lắng.", "There's a seasonal fluctuation in demand.|Nhu cầu lên xuống theo mùa.", "Hormone fluctuation can affect your mood.|Sự dao động hormone có thể ảnh hưởng tâm trạng."],
- "exorcism": ["The priest performed an exorcism at the house.|Vị linh mục làm lễ trừ tà tại ngôi nhà.", "The film dramatizes a famous exorcism.|Bộ phim dựng lại một vụ trừ quỷ nổi tiếng.", "Exorcism rituals vary between traditions.|Nghi lễ trừ tà khác nhau giữa các truyền thống."],
- "divination": ["Divination by cards was popular then.|Bói bài rất thịnh hành thời đó.", "The book covers ancient methods of divination.|Cuốn sách nói về các phương pháp bói toán cổ.", "She practiced divination with coins.|Bà xem bói bằng những đồng xu."],
- "fabled": ["They searched for the fabled lost city.|Họ tìm kiếm thành phố huyền thoại đã mất.", "The restaurant's fabled dessert lived up to its name.|Món tráng miệng lừng danh của nhà hàng đúng như lời đồn.", "He owns the fabled first edition.|Ông sở hữu ấn bản đầu tiên lừng danh đó."],
- "fabricate": ["He fabricated the whole alibi.|Hắn bịa đặt toàn bộ chứng cứ ngoại phạm.", "The witness fabricated key details.|Nhân chứng bịa ra những chi tiết quan trọng.", "The parts are fabricated in a local workshop.|Các bộ phận được gia công ở xưởng địa phương."],
- "locomotion": ["Wheels changed human locomotion forever.|Bánh xe thay đổi mãi mãi cách con người di chuyển.", "The injury affected his locomotion.|Chấn thương ảnh hưởng đến khả năng vận động của anh.", "Scientists study insect locomotion closely.|Các nhà khoa học nghiên cứu kỹ cách di chuyển của côn trùng."],
- "tactically": ["Tactically, the retreat made perfect sense.|Về mặt chiến thuật, việc rút lui là hoàn toàn hợp lý.", "She voted tactically to block the bill.|Bà bỏ phiếu khôn khéo để chặn dự luật.", "The team played tactically in the second half.|Đội chơi có chiến thuật trong hiệp hai."],
- "hapless": ["The hapless driver hit a second car.|Người tài xế xấu số đâm luôn vào chiếc xe thứ hai.", "Our hapless team lost again on Sunday.|Đội bóng kém may của chúng tôi lại thua hôm Chủ nhật.", "He played the hapless hero in the comedy.|Anh vào vai người hùng tội nghiệp trong phim hài."],
- "archetypal": ["He's the archetypal absent-minded professor.|Ông ấy là giáo sư đãng trí điển hình.", "The story follows an archetypal quest.|Câu chuyện đi theo hành trình mang tính nguyên mẫu.", "She wrote an archetypal coming-of-age novel.|Bà viết một tiểu thuyết trưởng thành mẫu mực."],
- "disparaging": ["He made disparaging remarks about her work.|Anh ta buông lời chê bai công việc của cô.", "The review was unnecessarily disparaging.|Bài đánh giá miệt thị một cách không cần thiết.", "She refused to be disparaging about rivals.|Cô từ chối nói xem thường đối thủ."],
- "cinematographer": ["The cinematographer won an award for the film.|Nhà quay phim đoạt giải nhờ bộ phim này.", "She works as a cinematographer in documentaries.|Cô làm quay phim cho các phim tài liệu.", "The cinematographer used only natural light.|Giám đốc hình ảnh chỉ dùng ánh sáng tự nhiên."],
- "sandwiched": ["The cafe is sandwiched between two banks.|Quán cà phê bị kẹp giữa hai ngân hàng.", "He sat sandwiched between his parents.|Cậu ngồi chen giữa bố mẹ.", "The meeting was sandwiched between two flights.|Cuộc họp bị kẹp giữa hai chuyến bay."],
- "paradoxical": ["It seems paradoxical, but resting improves output.|Nghe có vẻ nghịch lý, nhưng nghỉ ngơi lại tăng năng suất.", "Her position is frankly paradoxical.|Lập trường của cô ấy thẳng thắn mà nói là mâu thuẫn.", "The result was paradoxical but real.|Kết quả nghịch lý nhưng có thật."],
- "attuned": ["She's attuned to her students' moods.|Cô ấy nhạy bén với tâm trạng học sinh.", "The company is attuned to market shifts.|Công ty bắt nhịp tốt với biến động thị trường.", "He became attuned to the rhythms of village life.|Anh dần hòa hợp với nhịp sống làng quê."],
- "preoccupation": ["Money became his main preoccupation.|Tiền bạc trở thành mối bận tâm chính của anh.", "Her preoccupation with work worried the family.|Sự ám ảnh công việc của cô làm gia đình lo lắng.", "Safety is a growing preoccupation for parents.|An toàn ngày càng là mối bận tâm của phụ huynh."],
- "gravitate": ["Guests naturally gravitate toward the kitchen.|Khách khứa tự nhiên bị hút về phía bếp.", "Young voters gravitated to the new party.|Cử tri trẻ ngả về phía đảng mới.", "He gravitated toward quieter subjects.|Anh hướng tới những môn học yên tĩnh hơn."],
- "indignant": ["She was indignant at being ignored.|Cô phẫn nộ vì bị phớt lờ.", "He wrote an indignant letter to the paper.|Ông viết một lá thư bất bình gửi tòa soạn.", "Passengers grew indignant about the delay.|Hành khách bức xúc vì sự chậm trễ."],
- "precocious": ["She was a precocious reader at four.|Cô bé đọc sách sớm từ năm bốn tuổi.", "His precocious talent drew attention early.|Tài năng phát triển sớm của cậu sớm gây chú ý.", "The boy is precocious but still a child.|Cậu bé khôn trước tuổi nhưng vẫn là trẻ con."],
- "depravity": ["The novel explores human depravity.|Cuốn tiểu thuyết khai thác sự đồi bại của con người.", "He was shocked by the depravity he witnessed.|Anh sốc trước sự suy đồi mà mình chứng kiến.", "Critics condemned the film's depravity.|Giới phê bình lên án sự đồi bại trong phim."],
- "allegorical": ["The painting is deeply allegorical.|Bức tranh mang tính ẩn dụ sâu sắc.", "It's an allegorical tale about greed.|Đó là câu chuyện phúng dụ về lòng tham.", "She gave the story an allegorical reading.|Bà đọc câu chuyện theo lối ẩn dụ."],
- "spontaneity": ["Too much planning kills spontaneity.|Lên kế hoạch quá kỹ giết chết sự ngẫu hứng.", "The band's spontaneity makes each show unique.|Tính ngẫu hứng của ban nhạc khiến mỗi show một khác.", "I miss the spontaneity of our student days.|Tôi nhớ sự tự phát của thời sinh viên."],
- "euphoric": ["Fans were euphoric after the final whistle.|Cổ động viên ngất ngây sau tiếng còi kết thúc.", "She felt euphoric when the offer came.|Cô lâng lâng sung sướng khi nhận được lời mời.", "The euphoric mood faded within days.|Không khí ngất ngây tan biến sau vài ngày."],
- "brevity": ["Brevity is the soul of good writing.|Sự ngắn gọn là linh hồn của văn hay.", "He apologized for the brevity of his reply.|Anh xin lỗi vì trả lời quá ngắn.", "The brevity of the visit disappointed her.|Chuyến thăm ngắn ngủi làm cô thất vọng."],
- "unnerving": ["The silence in the house was unnerving.|Sự im lặng trong nhà thật gây bất an.", "He has an unnerving stare.|Anh ta có ánh nhìn làm người khác rợn người.", "It's unnerving how much she knows.|Thật khiến người ta mất bình tĩnh vì cô ấy biết quá nhiều."],
- "maliciously": ["The rumor was spread maliciously.|Tin đồn được lan truyền một cách hiểm độc.", "He maliciously damaged their car.|Hắn cố tình phá hỏng xe của họ.", "She was maliciously excluded from the group.|Cô bị loại khỏi nhóm một cách ác ý."],
- "romp": ["The children romped in the garden all afternoon.|Bọn trẻ nô đùa ngoài vườn cả buổi chiều.", "Our team romped to a five-goal win.|Đội chúng tôi thắng dễ dàng năm bàn.", "The play is a lighthearted romp.|Vở kịch là một cuộc vui nhộn nhẹ nhàng."],
- "eccentricity": ["His eccentricity charmed the whole village.|Tính lập dị của ông làm cả làng thích thú.", "She's known for her harmless eccentricities.|Bà nổi tiếng với những nét kỳ quặc vô hại.", "The orbit's eccentricity affects the seasons.|Độ lệch tâm quỹ đạo ảnh hưởng đến các mùa."],
- "menial": ["He took menial jobs to pay tuition.|Anh làm những việc tay chân để trả học phí.", "She resented the menial tasks assigned to her.|Cô bực bội với những việc thấp kém được giao.", "Menial work still deserves fair pay.|Công việc tay chân vẫn xứng đáng được trả công công bằng."],
- "painstakingly": ["He painstakingly restored the old clock.|Ông tỉ mỉ phục chế chiếc đồng hồ cổ.", "The data was painstakingly collected over years.|Dữ liệu được thu thập công phu suốt nhiều năm.", "She painstakingly copied every letter.|Cô dày công chép lại từng con chữ."],
- "lyricist": ["He worked as a lyricist for twenty years.|Ông làm người viết lời bài hát suốt hai mươi năm.", "The lyricist won an award for the song.|Người viết lời đoạt giải nhờ ca khúc này.", "She's both composer and lyricist.|Cô vừa soạn nhạc vừa viết lời."],
- "opacity": ["Adjust the opacity of the layer.|Chỉnh độ mờ đục của lớp ảnh.", "The opacity of the rules frustrates applicants.|Sự khó hiểu của quy định làm người nộp đơn bực bội.", "Critics attacked the opacity of the process.|Giới phê bình công kích sự thiếu minh bạch của quy trình."],
- "quiver": ["Her lip quivered as she spoke.|Môi cô run rẩy khi nói.", "The leaves quivered in the light breeze.|Lá cây rung nhẹ trong làn gió.", "He pulled an arrow from his quiver.|Anh rút một mũi tên từ ống đựng tên."],
- "collider": ["The particle collider cost billions to build.|Máy va chạm hạt tốn hàng tỷ đô để xây.", "Physicists ran new experiments at the collider.|Các nhà vật lý chạy thí nghiệm mới trên máy va chạm.", "The collider will restart next spring.|Máy va chạm sẽ hoạt động lại mùa xuân tới."],
- "commensurate": ["The salary is commensurate with experience.|Mức lương tương xứng với kinh nghiệm.", "The punishment should be commensurate with the crime.|Hình phạt phải tương xứng với tội danh.", "Her workload isn't commensurate with her pay.|Khối lượng công việc của cô không cân xứng với lương."],
- "substantiate": ["He couldn't substantiate any of the claims.|Anh ta không chứng minh được khẳng định nào.", "New data substantiates the earlier findings.|Dữ liệu mới xác thực các phát hiện trước đó.", "Please substantiate that figure with sources.|Vui lòng đưa bằng chứng cho con số đó."],
- "portraiture": ["She studied portraiture in Florence.|Cô học nghệ thuật vẽ chân dung ở Florence.", "The gallery specializes in Victorian portraiture.|Phòng tranh chuyên về tranh chân dung thời Victoria.", "His portraiture captures character remarkably.|Tranh chân dung của ông nắm bắt tính cách rất tài."],
- "flagging": ["Sales have been flagging since spring.|Doanh số suy yếu dần từ mùa xuân.", "Coffee revived my flagging energy.|Cà phê vực dậy sức lực đang đuối của tôi.", "The coach tried to lift flagging spirits.|Huấn luyện viên cố nâng tinh thần đang sa sút."],
- "wane": ["Public interest began to wane after a month.|Sự quan tâm của công chúng giảm dần sau một tháng.", "The moon will wane over the next week.|Trăng sẽ khuyết dần trong tuần tới.", "His influence waned in his final years.|Ảnh hưởng của ông suy giảm những năm cuối đời."]
+  "trifle": [
+    "Don't waste time on such a trifle.|Đừng phí thời gian vào chuyện vặt vãnh thế.",
+    "My grandmother made trifle every Christmas.|Bà tôi làm bánh trifle mỗi dịp Giáng sinh.",
+    "He's not a man to trifle with.|Ông ta không phải người để mà đùa cợt xem thường.",
+    "The dress was a trifle too long.|Chiếc váy hơi dài một chút.",
+    "Don't trifle with her feelings.|Đừng đùa giỡn với tình cảm của cô ấy."
+  ],
+  "subsidize": [
+    "The government subsidizes public transport heavily.|Chính phủ trợ cấp mạnh cho giao thông công cộng.",
+    "Taxpayers effectively subsidize the industry.|Người đóng thuế thực chất đang bao cấp cho ngành này.",
+    "Her parents subsidized her rent for two years.|Bố mẹ tài trợ tiền thuê nhà cho cô hai năm.",
+    "Some companies subsidize gym memberships for staff.|Một số công ty trợ cấp phí tập gym cho nhân viên.",
+    "Should cities subsidize sports stadiums?|Các thành phố có nên tài trợ cho sân vận động không?"
+  ],
+  "milieu": [
+    "He grew up in a working-class milieu.|Anh ấy lớn lên trong môi trường lao động.",
+    "The novel captures the artistic milieu of Paris.|Cuốn tiểu thuyết khắc họa giới nghệ sĩ Paris.",
+    "She felt out of place in that milieu.|Cô thấy lạc lõng trong tầng lớp đó.",
+    "The detective moves easily through the criminal milieu.|Viên thám tử di chuyển dễ dàng trong thế giới tội phạm.",
+    "Teachers must understand the social milieu of their students.|Giáo viên cần hiểu môi trường xã hội của học sinh."
+  ],
+  "recluse": [
+    "The writer became a recluse in later life.|Nhà văn sống ẩn dật những năm cuối đời.",
+    "He lived as a recluse in the woods.|Ông sống tách biệt trong rừng.",
+    "Neighbors described her as a quiet recluse.|Hàng xóm tả bà là người sống ẩn dật, ít nói.",
+    "The famous singer lives like a recluse now.|Ca sĩ nổi tiếng giờ sống như một người ẩn dật.",
+    "Brown recluse spiders hide in dark corners.|Nhện ẩn nâu trốn ở những góc tối."
+  ],
+  "stipulation": [
+    "The loan came with one strict stipulation.|Khoản vay đi kèm một điều kiện nghiêm ngặt.",
+    "There's a stipulation about early repayment.|Có một điều khoản ràng buộc về trả nợ sớm.",
+    "She accepted the job with one stipulation.|Cô nhận việc với một điều kiện duy nhất.",
+    "The will contains a stipulation that the house must not be sold.|Di chúc có điều khoản quy định ngôi nhà không được bán.",
+    "The grant's main stipulation is that results be made public.|Điều kiện chính của khoản tài trợ là kết quả phải được công bố."
+  ],
+  "minefield": [
+    "The topic is a political minefield.|Chủ đề này là một bãi mìn chính trị.",
+    "Choosing a school here is a minefield.|Chọn trường ở đây là chuyện đầy rủi ro.",
+    "Soldiers carefully crossed the old minefield.|Binh lính cẩn thận băng qua bãi mìn cũ.",
+    "Hiring rules can be a legal minefield for small firms.|Quy định tuyển dụng có thể là bãi mìn pháp lý với doanh nghiệp nhỏ.",
+    "Farmers still find old shells near the former minefield.|Nông dân vẫn tìm thấy đạn pháo cũ gần bãi mìn cũ."
+  ],
+  "euphemism": [
+    "The phrase \"let go\" is a euphemism for \"fired.\"|Cụm \"let go\" là cách nói giảm của \"fired\" (bị sa thải).",
+    "The report is full of corporate euphemisms.|Bản báo cáo đầy uyển ngữ kiểu doanh nghiệp.",
+    "He used a euphemism to soften the news.|Anh dùng cách nói tránh để giảm nhẹ tin xấu.",
+    "People often use a euphemism when talking about death.|Người ta thường dùng uyển ngữ khi nói về cái chết.",
+    "Military euphemisms can hide terrible facts.|Những uyển ngữ quân sự có thể che giấu sự thật khủng khiếp."
+  ],
+  "reverb": [
+    "The church has a natural reverb.|Nhà thờ có độ vang tự nhiên.",
+    "Add a little reverb to the vocals.|Thêm chút hiệu ứng vang cho giọng hát.",
+    "The reverb made his voice sound huge.|Tiếng vọng khiến giọng anh nghe rất lớn.",
+    "Too much reverb makes the song sound muddy.|Quá nhiều tiếng vang làm bài hát nghe đục.",
+    "The guitarist turned up the reverb on his amp.|Tay guitar vặn to hiệu ứng vang trên bộ khuếch đại."
+  ],
+  "unequivocal": [
+    "The answer was an unequivocal no.|Câu trả lời là một tiếng không dứt khoát.",
+    "She gave unequivocal support to the plan.|Bà ủng hộ kế hoạch một cách rõ ràng.",
+    "The evidence is unequivocal on this point.|Bằng chứng ở điểm này là không mập mờ.",
+    "The doctor's advice was unequivocal: stop smoking now.|Lời khuyên của bác sĩ rất dứt khoát: bỏ thuốc ngay.",
+    "The minister issued an unequivocal apology.|Bộ trưởng đưa ra lời xin lỗi rõ ràng, không quanh co."
+  ],
+  "accrue": [
+    "Interest accrues daily on the balance.|Lãi tích lũy hằng ngày trên số dư.",
+    "Benefits accrue to those who wait.|Lợi ích dồn về phía người biết chờ đợi.",
+    "She accrued three weeks of leave.|Cô tích lũy được ba tuần phép.",
+    "Unpaid fines accrue extra charges each month.|Tiền phạt chưa đóng bị cộng thêm phí mỗi tháng.",
+    "The benefits of exercise accrue over time.|Lợi ích của việc tập thể dục tích lũy dần theo thời gian."
+  ],
+  "chronologically": [
+    "The photos are arranged chronologically.|Các bức ảnh được xếp theo trình tự thời gian.",
+    "Tell the story chronologically, please.|Kể câu chuyện theo thứ tự thời gian nhé.",
+    "The exhibits run chronologically from 1900.|Khu trưng bày chạy theo thời gian từ năm 1900.",
+    "Chronologically, the second film comes before the first.|Xét theo trình tự thời gian, phần phim thứ hai diễn ra trước phần đầu.",
+    "List your jobs chronologically, starting with the latest.|Liệt kê các công việc theo thứ tự thời gian, bắt đầu từ công việc gần nhất."
+  ],
+  "opulent": [
+    "The hotel lobby was absurdly opulent.|Sảnh khách sạn xa hoa đến mức phi lý.",
+    "She wore an opulent silk gown.|Cô mặc chiếc váy dạ hội lụa lộng lẫy.",
+    "They live in opulent surroundings.|Họ sống trong cảnh giàu sang.",
+    "The palace's opulent rooms are open to the public.|Các căn phòng xa hoa của cung điện mở cửa cho công chúng.",
+    "The film shows the opulent lives of the very rich.|Bộ phim khắc họa cuộc sống xa hoa của giới siêu giàu."
+  ],
+  "ferocity": [
+    "The storm hit with unexpected ferocity.|Cơn bão ập đến với sự dữ dội bất ngờ.",
+    "He defended his family with ferocity.|Anh bảo vệ gia đình một cách hung tợn.",
+    "The ferocity of the criticism shocked her.|Sự dữ dội của những lời chỉ trích làm cô sốc.",
+    "The match was played with a ferocity rarely seen in friendlies.|Trận đấu diễn ra quyết liệt hiếm thấy ở một trận giao hữu.",
+    "Mother bears defend their cubs with great ferocity.|Gấu mẹ bảo vệ con với sự hung dữ tột độ."
+  ],
+  "recitation": [
+    "Her recitation of the poem moved everyone.|Bài ngâm thơ của cô làm mọi người xúc động.",
+    "The class began with a recitation of names.|Buổi học bắt đầu bằng việc đọc tên.",
+    "He gave a flawless recitation from memory.|Anh đọc thuộc lòng không sai một chữ.",
+    "Daily recitation of the Koran is common in the village.|Việc đọc tụng kinh Koran hằng ngày phổ biến trong làng.",
+    "The report was a dry recitation of numbers.|Bản báo cáo là một màn đọc số liệu khô khan."
+  ],
+  "stratosphere": [
+    "The balloon reached the lower stratosphere.|Khinh khí cầu lên tới tầng bình lưu thấp.",
+    "Ticket prices went into the stratosphere.|Giá vé lên tới mức chót vót.",
+    "Ozone forms mainly in the stratosphere.|Ozone hình thành chủ yếu ở tầng bình lưu.",
+    "Long-haul jets often cruise near the bottom of the stratosphere.|Máy bay phản lực đường dài thường bay hành trình gần đáy tầng bình lưu.",
+    "His career rocketed into the stratosphere after the film.|Sự nghiệp của anh bay vút lên đỉnh cao sau bộ phim."
+  ],
+  "posturing": [
+    "The debate was mostly political posturing.|Cuộc tranh luận chủ yếu là làm bộ làm tịch chính trị.",
+    "Ignore the posturing and read the details.|Bỏ qua trò ra vẻ đó và đọc kỹ chi tiết.",
+    "His threats were pure posturing.|Lời đe dọa của hắn chỉ là điệu bộ phô trương.",
+    "Both sides are posturing before the real talks begin.|Cả hai bên đang làm bộ làm tịch trước khi cuộc đàm phán thực sự bắt đầu.",
+    "Animals use posturing to avoid real fights.|Động vật dùng điệu bộ đe dọa để tránh đánh nhau thật."
+  ],
+  "innuendo": [
+    "The article was full of innuendo.|Bài báo đầy những lời bóng gió.",
+    "He made an innuendo about her promotion.|Anh ta ám chỉ bóng gió về việc cô được thăng chức.",
+    "The comedian's jokes rely heavily on innuendo.|Những câu đùa của danh hài dựa nhiều vào lối ám chỉ bóng gió.",
+    "Rumor and innuendo destroyed his reputation.|Tin đồn và lời bóng gió đã hủy hoại danh tiếng của ông.",
+    "The film's innuendo went over the children's heads.|Những câu bóng gió trong phim bọn trẻ chẳng hiểu gì."
+  ],
+  "magpie": [
+    "A magpie stole a coin from the table.|Một con ác là tha mất đồng xu trên bàn.",
+    "Two magpies nested in the old oak.|Hai con ác là làm tổ trên cây sồi già.",
+    "He's a magpie who keeps every receipt.|Anh ấy hay tha nhặt, giữ lại từng cái hóa đơn.",
+    "In some cultures, a magpie is a sign of good luck.|Ở một số nền văn hóa, chim ác là là điềm may.",
+    "A magpie chattered noisily in the garden.|Một con ác là kêu ríu rít ồn ào trong vườn."
+  ],
+  "interrogate": [
+    "Police interrogated the suspect for hours.|Cảnh sát thẩm vấn nghi phạm suốt nhiều giờ.",
+    "She interrogated him about the missing money.|Cô tra hỏi anh ta về số tiền mất tích.",
+    "The tool interrogates the database directly.|Công cụ truy vấn thẳng vào cơ sở dữ liệu.",
+    "Police can't interrogate a child without a parent present.|Cảnh sát không được thẩm vấn trẻ em khi không có cha mẹ đi cùng.",
+    "Good scientists interrogate their own results.|Nhà khoa học giỏi luôn chất vấn chính kết quả của mình."
+  ],
+  "torrential": [
+    "Torrential rain flooded the whole street.|Mưa như trút nước làm ngập cả con phố.",
+    "The match stopped due to a torrential downpour.|Trận đấu dừng vì mưa xối xả.",
+    "Torrential floods swept away the bridge.|Lũ ào ạt cuốn trôi cây cầu.",
+    "The monsoon brings torrential rain every July.|Gió mùa mang mưa như trút nước mỗi tháng Bảy.",
+    "A torrential flow of water poured through the valley.|Một dòng nước ào ạt tràn qua thung lũng."
+  ],
+  "virtuoso": [
+    "She's a virtuoso on the violin.|Cô ấy là bậc thầy violin.",
+    "The film features a virtuoso performance.|Bộ phim có một màn diễn xuất điêu luyện.",
+    "He played with virtuoso skill.|Anh chơi với kỹ thuật bậc thầy.",
+    "The young guitarist is a real virtuoso.|Tay guitar trẻ là một bậc thầy thực thụ.",
+    "Her virtuoso solo brought the crowd to its feet.|Màn độc tấu điêu luyện của cô khiến khán giả đứng dậy vỗ tay."
+  ],
+  "instantaneously": [
+    "The message arrives almost instantaneously.|Tin nhắn đến gần như tức thì.",
+    "She recognized him instantaneously.|Cô nhận ra anh ngay tức khắc.",
+    "The system responds instantaneously to input.|Hệ thống phản hồi tức thì với thao tác nhập.",
+    "The lights came on instantaneously.|Đèn bật sáng ngay tức khắc.",
+    "News now travels around the world instantaneously.|Tin tức giờ lan khắp thế giới tức thì."
+  ],
+  "fluctuation": [
+    "Price fluctuations worry small investors.|Sự dao động giá làm nhà đầu tư nhỏ lo lắng.",
+    "There's a seasonal fluctuation in demand.|Nhu cầu lên xuống theo mùa.",
+    "Hormone fluctuation can affect your mood.|Sự dao động hormone có thể ảnh hưởng tâm trạng.",
+    "Small fluctuations in temperature can harm the plants.|Những dao động nhiệt nhỏ cũng có thể gây hại cho cây.",
+    "Currency fluctuations hurt the company's profits.|Biến động tỷ giá làm giảm lợi nhuận của công ty."
+  ],
+  "exorcism": [
+    "The priest performed an exorcism at the house.|Vị linh mục làm lễ trừ tà tại ngôi nhà.",
+    "The film dramatizes a famous exorcism.|Bộ phim dựng lại một vụ trừ quỷ nổi tiếng.",
+    "Exorcism rituals vary between traditions.|Nghi lễ trừ tà khác nhau giữa các truyền thống.",
+    "The villagers asked the monk to perform an exorcism.|Dân làng nhờ nhà sư làm lễ trừ tà.",
+    "Some psychologists see exorcism as a form of therapy.|Một số nhà tâm lý học coi lễ trừ tà là một dạng trị liệu."
+  ],
+  "divination": [
+    "Divination by cards was popular then.|Bói bài rất thịnh hành thời đó.",
+    "The book covers ancient methods of divination.|Cuốn sách nói về các phương pháp bói toán cổ.",
+    "She practiced divination with coins.|Bà xem bói bằng những đồng xu.",
+    "The ancient Chinese used turtle shells for divination.|Người Trung Hoa cổ dùng mai rùa để bói toán.",
+    "Many cultures turned to divination before going to war.|Nhiều nền văn hóa tìm đến bói toán trước khi ra trận."
+  ],
+  "fabled": [
+    "They searched for the fabled lost city.|Họ tìm kiếm thành phố huyền thoại đã mất.",
+    "The restaurant's fabled dessert lived up to its name.|Món tráng miệng lừng danh của nhà hàng đúng như lời đồn.",
+    "He owns the fabled first edition.|Ông sở hữu ấn bản đầu tiên lừng danh đó.",
+    "The fabled unicorn appears in many legends.|Kỳ lân huyền thoại xuất hiện trong nhiều truyền thuyết.",
+    "He finally visited the fabled city of Timbuktu.|Cuối cùng ông cũng đến thăm thành phố lừng danh Timbuktu."
+  ],
+  "fabricate": [
+    "He fabricated the whole alibi.|Hắn bịa đặt toàn bộ chứng cứ ngoại phạm.",
+    "The witness fabricated key details.|Nhân chứng bịa ra những chi tiết quan trọng.",
+    "The parts are fabricated in a local workshop.|Các bộ phận được gia công ở xưởng địa phương.",
+    "Journalists must never fabricate quotes.|Nhà báo tuyệt đối không được bịa trích dẫn.",
+    "The workshop can fabricate custom steel parts.|Xưởng có thể gia công các chi tiết thép theo yêu cầu."
+  ],
+  "locomotion": [
+    "Wheels changed human locomotion forever.|Bánh xe thay đổi mãi mãi cách con người di chuyển.",
+    "The injury affected his locomotion.|Chấn thương ảnh hưởng đến khả năng vận động của anh.",
+    "Scientists study insect locomotion closely.|Các nhà khoa học nghiên cứu kỹ cách di chuyển của côn trùng.",
+    "Snakes use a special kind of locomotion.|Rắn dùng một kiểu di chuyển đặc biệt.",
+    "Robots that copy animal locomotion can climb walls.|Rô-bốt mô phỏng cách di chuyển của động vật có thể leo tường."
+  ],
+  "tactically": [
+    "Tactically, the retreat made perfect sense.|Về mặt chiến thuật, việc rút lui là hoàn toàn hợp lý.",
+    "She voted tactically to block the bill.|Bà bỏ phiếu khôn khéo để chặn dự luật.",
+    "The team played tactically in the second half.|Đội chơi có chiến thuật trong hiệp hai.",
+    "The coach made a tactically brilliant change at halftime.|Huấn luyện viên có một sự thay đổi xuất sắc về chiến thuật giờ nghỉ giữa hiệp.",
+    "It's tactically wiser to wait for their offer.|Về mặt chiến thuật, chờ họ đưa ra đề nghị thì khôn ngoan hơn."
+  ],
+  "hapless": [
+    "The hapless driver hit a second car.|Người tài xế xấu số đâm luôn vào chiếc xe thứ hai.",
+    "Our hapless team lost again on Sunday.|Đội bóng kém may của chúng tôi lại thua hôm Chủ nhật.",
+    "He played the hapless hero in the comedy.|Anh vào vai người hùng tội nghiệp trong phim hài.",
+    "The hapless tourists got lost again.|Những du khách tội nghiệp lại bị lạc.",
+    "A hapless burglar got stuck in the chimney.|Một tên trộm xui xẻo bị kẹt trong ống khói."
+  ],
+  "archetypal": [
+    "He's the archetypal absent-minded professor.|Ông ấy là giáo sư đãng trí điển hình.",
+    "The story follows an archetypal quest.|Câu chuyện đi theo hành trình mang tính nguyên mẫu.",
+    "She wrote an archetypal coming-of-age novel.|Bà viết một tiểu thuyết trưởng thành mẫu mực.",
+    "The cowboy is an archetypal American figure.|Chàng cao bồi là hình tượng Mỹ điển hình.",
+    "It was an archetypal English village with a church and a pub.|Đó là một ngôi làng Anh điển hình với nhà thờ và quán rượu."
+  ],
+  "disparaging": [
+    "He made disparaging remarks about her work.|Anh ta buông lời chê bai công việc của cô.",
+    "The review was unnecessarily disparaging.|Bài đánh giá miệt thị một cách không cần thiết.",
+    "She refused to be disparaging about rivals.|Cô từ chối nói xem thường đối thủ.",
+    "Avoid disparaging comments about other candidates.|Tránh những bình luận chê bai về các ứng viên khác.",
+    "She spoke in a disparaging tone about her old school.|Cô nói về trường cũ bằng giọng xem thường."
+  ],
+  "cinematographer": [
+    "The cinematographer won an award for the film.|Nhà quay phim đoạt giải nhờ bộ phim này.",
+    "She works as a cinematographer in documentaries.|Cô làm quay phim cho các phim tài liệu.",
+    "The cinematographer used only natural light.|Giám đốc hình ảnh chỉ dùng ánh sáng tự nhiên.",
+    "Working with a new cinematographer, the director changed her whole visual style.|Làm việc với một nhà quay phim mới, nữ đạo diễn thay đổi toàn bộ phong cách hình ảnh.",
+    "A good cinematographer can make a small film look expensive.|Một nhà quay phim giỏi có thể khiến một bộ phim nhỏ trông hoành tráng."
+  ],
+  "sandwiched": [
+    "The cafe is sandwiched between two banks.|Quán cà phê bị kẹp giữa hai ngân hàng.",
+    "He sat sandwiched between his parents.|Cậu ngồi chen giữa bố mẹ.",
+    "The meeting was sandwiched between two flights.|Cuộc họp bị kẹp giữa hai chuyến bay.",
+    "The small country is sandwiched between two powerful neighbors.|Đất nước nhỏ bé bị kẹp giữa hai nước láng giềng hùng mạnh.",
+    "A layer of jam was sandwiched between the cakes.|Một lớp mứt được kẹp giữa hai lớp bánh."
+  ],
+  "paradoxical": [
+    "It seems paradoxical, but resting improves output.|Nghe có vẻ nghịch lý, nhưng nghỉ ngơi lại tăng năng suất.",
+    "Her position is frankly paradoxical.|Lập trường của cô ấy thẳng thắn mà nói là mâu thuẫn.",
+    "The result was paradoxical but real.|Kết quả nghịch lý nhưng có thật.",
+    "It's paradoxical that the richest country has so much poverty.|Thật nghịch lý khi đất nước giàu nhất lại có nhiều người nghèo đến thế.",
+    "The drug has a paradoxical effect on some children.|Thuốc có tác dụng ngược với một số trẻ em."
+  ],
+  "attuned": [
+    "She's attuned to her students' moods.|Cô ấy nhạy bén với tâm trạng học sinh.",
+    "The company is attuned to market shifts.|Công ty bắt nhịp tốt với biến động thị trường.",
+    "He became attuned to the rhythms of village life.|Anh dần hòa hợp với nhịp sống làng quê.",
+    "Dogs are closely attuned to their owners' feelings.|Chó rất nhạy bén với cảm xúc của chủ.",
+    "Our ears become attuned to a new accent over time.|Tai chúng ta dần quen với một giọng nói mới theo thời gian."
+  ],
+  "preoccupation": [
+    "Money became his main preoccupation.|Tiền bạc trở thành mối bận tâm chính của anh.",
+    "Her preoccupation with work worried the family.|Sự ám ảnh công việc của cô làm gia đình lo lắng.",
+    "Safety is a growing preoccupation for parents.|An toàn ngày càng là mối bận tâm của phụ huynh.",
+    "The novel reflects the author's preoccupation with death.|Cuốn tiểu thuyết phản ánh nỗi ám ảnh về cái chết của tác giả.",
+    "In her preoccupation, she missed her stop.|Mải nghĩ ngợi, cô lỡ mất trạm dừng."
+  ],
+  "gravitate": [
+    "Guests naturally gravitate toward the kitchen.|Khách khứa tự nhiên bị hút về phía bếp.",
+    "Young voters gravitated to the new party.|Cử tri trẻ ngả về phía đảng mới.",
+    "He gravitated toward quieter subjects.|Anh hướng tới những môn học yên tĩnh hơn.",
+    "Children gravitate to adults who listen.|Trẻ con thường tìm đến những người lớn biết lắng nghe.",
+    "Talent tends to gravitate to big cities.|Nhân tài có xu hướng đổ về các thành phố lớn."
+  ],
+  "indignant": [
+    "She was indignant at being ignored.|Cô phẫn nộ vì bị phớt lờ.",
+    "He wrote an indignant letter to the paper.|Ông viết một lá thư bất bình gửi tòa soạn.",
+    "Passengers grew indignant about the delay.|Hành khách bức xúc vì sự chậm trễ.",
+    "The indignant customer demanded a refund.|Vị khách bất bình đòi hoàn tiền.",
+    "She gave an indignant snort.|Cô khịt mũi đầy phẫn nộ."
+  ],
+  "precocious": [
+    "She was a precocious reader at four.|Cô bé đọc sách sớm từ năm bốn tuổi.",
+    "His precocious talent drew attention early.|Tài năng phát triển sớm của cậu sớm gây chú ý.",
+    "The boy is precocious but still a child.|Cậu bé khôn trước tuổi nhưng vẫn là trẻ con.",
+    "The precocious child asked questions about the universe.|Đứa trẻ khôn trước tuổi hỏi những câu hỏi về vũ trụ.",
+    "Mozart showed precocious ability on the piano.|Mozart bộc lộ năng khiếu piano từ rất sớm."
+  ],
+  "depravity": [
+    "The novel explores human depravity.|Cuốn tiểu thuyết khai thác sự đồi bại của con người.",
+    "He was shocked by the depravity he witnessed.|Anh sốc trước sự suy đồi mà mình chứng kiến.",
+    "Critics condemned the film's depravity.|Giới phê bình lên án sự đồi bại trong phim.",
+    "The prison guards' depravity was exposed in court.|Sự đồi bại của đám cai ngục bị phơi bày trước tòa.",
+    "Some saw the city as a place of depravity and sin.|Một số người xem thành phố là chốn sa đọa và tội lỗi."
+  ],
+  "allegorical": [
+    "The painting is deeply allegorical.|Bức tranh mang tính ẩn dụ sâu sắc.",
+    "It's an allegorical tale about greed.|Đó là câu chuyện phúng dụ về lòng tham.",
+    "She gave the story an allegorical reading.|Bà đọc câu chuyện theo lối ẩn dụ.",
+    "The garden has allegorical statues of the virtues.|Khu vườn có những bức tượng ẩn dụ về các đức tính.",
+    "Medieval plays were often allegorical.|Kịch thời trung cổ thường mang tính phúng dụ."
+  ],
+  "spontaneity": [
+    "Too much planning kills spontaneity.|Lên kế hoạch quá kỹ giết chết sự ngẫu hứng.",
+    "The band's spontaneity makes each show unique.|Tính ngẫu hứng của ban nhạc khiến mỗi show một khác.",
+    "I miss the spontaneity of our student days.|Tôi nhớ sự tự phát của thời sinh viên.",
+    "Children bring spontaneity into our lives.|Trẻ con mang sự ngẫu hứng vào cuộc sống của chúng ta.",
+    "The actor's spontaneity made the scene feel real.|Sự tự nhiên ngẫu hứng của diễn viên khiến cảnh quay như thật."
+  ],
+  "euphoric": [
+    "Fans were euphoric after the final whistle.|Cổ động viên ngất ngây sau tiếng còi kết thúc.",
+    "She felt euphoric when the offer came.|Cô lâng lâng sung sướng khi nhận được lời mời.",
+    "The euphoric mood faded within days.|Không khí ngất ngây tan biến sau vài ngày.",
+    "Some drugs produce a euphoric feeling.|Một số loại thuốc gây cảm giác lâng lâng.",
+    "Winning the lottery left him euphoric for weeks.|Trúng số khiến anh lâng lâng sung sướng suốt nhiều tuần."
+  ],
+  "brevity": [
+    "Brevity is the soul of good writing.|Sự ngắn gọn là linh hồn của văn hay.",
+    "He apologized for the brevity of his reply.|Anh xin lỗi vì trả lời quá ngắn.",
+    "The brevity of the visit disappointed her.|Chuyến thăm ngắn ngủi làm cô thất vọng.",
+    "For the sake of brevity, I'll skip the details.|Để cho ngắn gọn, tôi sẽ bỏ qua chi tiết.",
+    "Poems like haiku are known for their brevity.|Những bài thơ như haiku nổi tiếng vì sự súc tích."
+  ],
+  "unnerving": [
+    "The silence in the house was unnerving.|Sự im lặng trong nhà thật gây bất an.",
+    "He has an unnerving stare.|Anh ta có ánh nhìn làm người khác rợn người.",
+    "It's unnerving how much she knows.|Thật khiến người ta mất bình tĩnh vì cô ấy biết quá nhiều.",
+    "Driving on the ice was an unnerving experience.|Lái xe trên băng là một trải nghiệm gây bất an.",
+    "The unnerving quiet before the storm made the dogs restless.|Sự tĩnh lặng đáng sợ trước cơn bão khiến lũ chó bồn chồn."
+  ],
+  "maliciously": [
+    "The rumor was spread maliciously.|Tin đồn được lan truyền một cách hiểm độc.",
+    "He maliciously damaged their car.|Hắn cố tình phá hỏng xe của họ.",
+    "She was maliciously excluded from the group.|Cô bị loại khỏi nhóm một cách ác ý.",
+    "The software was maliciously designed to steal data.|Phần mềm được thiết kế với ác ý nhằm đánh cắp dữ liệu.",
+    "He grinned maliciously as his rival fell.|Hắn cười nham hiểm khi đối thủ ngã."
+  ],
+  "romp": [
+    "The children romped in the garden all afternoon.|Bọn trẻ nô đùa ngoài vườn cả buổi chiều.",
+    "Our team romped to a five-goal win.|Đội chúng tôi thắng dễ dàng năm bàn.",
+    "The play is a lighthearted romp.|Vở kịch là một cuộc vui nhộn nhẹ nhàng.",
+    "Puppies romp in the snow.|Lũ cún con nô đùa trên tuyết.",
+    "The film is a fun romp through 1920s Paris.|Bộ phim là một chuyến dạo chơi vui nhộn qua Paris thập niên 1920."
+  ],
+  "eccentricity": [
+    "His eccentricity charmed the whole village.|Tính lập dị của ông làm cả làng thích thú.",
+    "She's known for her harmless eccentricities.|Bà nổi tiếng với những nét kỳ quặc vô hại.",
+    "The orbit's eccentricity affects the seasons.|Độ lệch tâm quỹ đạo ảnh hưởng đến các mùa.",
+    "The inventor's eccentricity was part of his genius.|Tính lập dị của nhà phát minh là một phần tài năng của ông.",
+    "Wearing a hat indoors was one of his eccentricities.|Đội mũ trong nhà là một trong những nét kỳ quặc của ông."
+  ],
+  "menial": [
+    "He took menial jobs to pay tuition.|Anh làm những việc tay chân để trả học phí.",
+    "She resented the menial tasks assigned to her.|Cô bực bội với những việc thấp kém được giao.",
+    "Menial work still deserves fair pay.|Công việc tay chân vẫn xứng đáng được trả công công bằng.",
+    "Robots now handle much of the menial labor in factories.|Rô-bốt giờ đảm nhận phần lớn lao động chân tay giản đơn trong nhà máy.",
+    "No task is too menial for a good leader.|Với một nhà lãnh đạo giỏi, không việc gì là quá thấp kém."
+  ],
+  "painstakingly": [
+    "He painstakingly restored the old clock.|Ông tỉ mỉ phục chế chiếc đồng hồ cổ.",
+    "The data was painstakingly collected over years.|Dữ liệu được thu thập công phu suốt nhiều năm.",
+    "She painstakingly copied every letter.|Cô dày công chép lại từng con chữ.",
+    "The puzzle was painstakingly assembled piece by piece.|Bức ghép hình được lắp ráp tỉ mỉ từng mảnh một.",
+    "Scientists painstakingly counted the birds in each nest.|Các nhà khoa học dày công đếm số chim trong từng tổ."
+  ],
+  "lyricist": [
+    "He worked as a lyricist for twenty years.|Ông làm người viết lời bài hát suốt hai mươi năm.",
+    "The lyricist won an award for the song.|Người viết lời đoạt giải nhờ ca khúc này.",
+    "She's both composer and lyricist.|Cô vừa soạn nhạc vừa viết lời.",
+    "The lyricist wrote the words in a single night.|Người viết lời viết xong ca từ chỉ trong một đêm.",
+    "A good lyricist can say a lot in a few lines.|Một người viết lời giỏi có thể nói được nhiều điều chỉ trong vài dòng."
+  ],
+  "opacity": [
+    "Adjust the opacity of the layer.|Chỉnh độ mờ đục của lớp ảnh.",
+    "The opacity of the rules frustrates applicants.|Sự khó hiểu của quy định làm người nộp đơn bực bội.",
+    "Critics attacked the opacity of the process.|Giới phê bình công kích sự thiếu minh bạch của quy trình.",
+    "Frosted glass has high opacity.|Kính mờ có độ mờ đục cao.",
+    "An opacity on the X-ray needed further checks.|Một vùng mờ trên phim X-quang cần được kiểm tra thêm."
+  ],
+  "quiver": [
+    "Her lip quivered as she spoke.|Môi cô run rẩy khi nói.",
+    "The leaves quivered in the light breeze.|Lá cây rung nhẹ trong làn gió.",
+    "He pulled an arrow from his quiver.|Anh rút một mũi tên từ ống đựng tên.",
+    "Her voice quivered with emotion.|Giọng cô run lên vì xúc động.",
+    "The jelly quivered on the plate.|Miếng thạch rung rinh trên đĩa."
+  ],
+  "collider": [
+    "The particle collider cost billions to build.|Máy va chạm hạt tốn hàng tỷ đô để xây.",
+    "Physicists ran new experiments at the collider.|Các nhà vật lý chạy thí nghiệm mới trên máy va chạm.",
+    "The collider will restart next spring.|Máy va chạm sẽ hoạt động lại mùa xuân tới.",
+    "The Large Hadron Collider lies under the border of France and Switzerland.|Máy Va chạm Hadron Lớn nằm dưới biên giới Pháp và Thụy Sĩ.",
+    "Scientists want to build a bigger collider in China.|Các nhà khoa học muốn xây một máy va chạm lớn hơn ở Trung Quốc."
+  ],
+  "commensurate": [
+    "The salary is commensurate with experience.|Mức lương tương xứng với kinh nghiệm.",
+    "The punishment should be commensurate with the crime.|Hình phạt phải tương xứng với tội danh.",
+    "Her workload isn't commensurate with her pay.|Khối lượng công việc của cô không cân xứng với lương.",
+    "Rewards should be commensurate with effort.|Phần thưởng nên tương xứng với nỗ lực.",
+    "The fine wasn't commensurate with the damage.|Mức phạt không tương xứng với thiệt hại."
+  ],
+  "substantiate": [
+    "He couldn't substantiate any of the claims.|Anh ta không chứng minh được khẳng định nào.",
+    "New data substantiates the earlier findings.|Dữ liệu mới xác thực các phát hiện trước đó.",
+    "Please substantiate that figure with sources.|Vui lòng đưa bằng chứng cho con số đó.",
+    "The journalist spent months trying to substantiate the rumor.|Nhà báo mất nhiều tháng cố xác minh tin đồn.",
+    "Scientists must substantiate every claim with data.|Các nhà khoa học phải chứng minh mọi tuyên bố bằng dữ liệu."
+  ],
+  "portraiture": [
+    "She studied portraiture in Florence.|Cô học nghệ thuật vẽ chân dung ở Florence.",
+    "The gallery specializes in Victorian portraiture.|Phòng tranh chuyên về tranh chân dung thời Victoria.",
+    "His portraiture captures character remarkably.|Tranh chân dung của ông nắm bắt tính cách rất tài.",
+    "Photography changed the history of portraiture.|Nhiếp ảnh đã thay đổi lịch sử nghệ thuật chân dung.",
+    "The museum has a wing devoted to portraiture.|Bảo tàng có một khu dành riêng cho tranh chân dung."
+  ],
+  "flagging": [
+    "Sales have been flagging since spring.|Doanh số suy yếu dần từ mùa xuân.",
+    "Coffee revived my flagging energy.|Cà phê vực dậy sức lực đang đuối của tôi.",
+    "The coach tried to lift flagging spirits.|Huấn luyện viên cố nâng tinh thần đang sa sút.",
+    "The new coach revived the team's flagging fortunes.|Huấn luyện viên mới vực dậy vận may đang sa sút của đội.",
+    "Flagging interest forced the show to end early.|Sự quan tâm giảm sút khiến chương trình phải kết thúc sớm."
+  ],
+  "wane": [
+    "Public interest began to wane after a month.|Sự quan tâm của công chúng giảm dần sau một tháng.",
+    "The moon will wane over the next week.|Trăng sẽ khuyết dần trong tuần tới.",
+    "His influence waned in his final years.|Ảnh hưởng của ông suy giảm những năm cuối đời.",
+    "Her popularity is on the wane.|Sự nổi tiếng của cô đang giảm dần.",
+    "As the day waned, the air grew cold.|Khi ngày tàn, không khí trở lạnh."
+  ]
 }

@@ -1,262 +1,366 @@
 {
- "productivity": [
-  "New software helped increase productivity by a fifth.|Phần mềm mới giúp tăng năng suất thêm một phần năm.",
-  "Long meetings hurt team productivity.|Họp dài làm giảm năng suất của cả nhóm.",
-  "Productivity growth has slowed since last year.|Tăng trưởng năng suất đã chậm lại từ năm ngoái."
- ],
- "threshold": [
-  "Your income is just above the tax threshold.|Thu nhập của bạn chỉ nhỉnh hơn ngưỡng chịu thuế một chút.",
-  "She has a very high pain threshold.|Cô ấy có ngưỡng chịu đau rất cao.",
-  "He paused at the threshold before knocking.|Anh ấy dừng lại ở ngưỡng cửa trước khi gõ."
- ],
- "reconstruction": [
-  "Post-war reconstruction took almost a decade.|Việc tái thiết sau chiến tranh mất gần một thập kỷ.",
-  "The reconstruction of the bridge starts in May.|Việc xây lại cây cầu bắt đầu vào tháng Năm.",
-  "Donors promised money for economic reconstruction.|Các nhà tài trợ hứa cấp tiền cho tái thiết kinh tế."
- ],
- "mainland": [
-  "The ferry to the mainland runs twice a day.|Phà về đất liền chạy hai chuyến mỗi ngày.",
-  "Most of their factories are in mainland China.|Phần lớn nhà máy của họ ở Trung Quốc đại lục.",
-  "Prices on the island are higher than on the mainland.|Giá trên đảo cao hơn trong đất liền."
- ],
- "sovereign": [
-  "The island became a sovereign state in 1975.|Hòn đảo trở thành quốc gia có chủ quyền năm 1975.",
-  "Investors worry about the country's sovereign debt.|Nhà đầu tư lo ngại về nợ công của nước này.",
-  "The sovereign opened parliament in person.|Nhà vua đích thân khai mạc kỳ họp quốc hội."
- ],
- "norm": [
-  "Working from home has become the norm here.|Làm việc tại nhà đã thành chuyện thường ở đây.",
-  "Social norms differ a lot between countries.|Chuẩn mực xã hội khác nhau nhiều giữa các nước.",
-  "His behavior deviates from the norm.|Hành vi của anh ta lệch khỏi chuẩn mực."
- ],
- "transparency": [
-  "Voters demanded greater transparency in spending.|Cử tri đòi hỏi minh bạch hơn trong chi tiêu.",
-  "The report criticized the lack of transparency.|Bản báo cáo phê phán sự thiếu minh bạch.",
-  "Transparency and accountability go together.|Minh bạch và trách nhiệm giải trình đi liền với nhau."
- ],
- "opt": [
-  "Many students opt for online courses now.|Nhiều sinh viên giờ chọn học trực tuyến.",
-  "You can opt out of the mailing list anytime.|Bạn có thể ngừng nhận email bất cứ lúc nào.",
-  "She opted to stay in her current job.|Cô ấy chọn ở lại công việc hiện tại."
- ],
- "broker": [
-  "Our insurance broker found a cheaper policy.|Người môi giới bảo hiểm tìm được hợp đồng rẻ hơn.",
-  "The minister helped broker a deal between them.|Bộ trưởng đã giúp dàn xếp một thoả thuận giữa họ.",
-  "He works as a mortgage broker downtown.|Anh ấy làm môi giới vay thế chấp ở trung tâm."
- ],
- "node": [
-  "Each node in the network has its own address.|Mỗi nút trong mạng có địa chỉ riêng.",
-  "The doctor checked a swollen lymph node.|Bác sĩ kiểm tra một hạch bị sưng.",
-  "Start at the root node and work down.|Bắt đầu từ nút gốc rồi đi xuống."
- ],
- "behavioral": [
-  "The clinic treats behavioral problems in children.|Phòng khám điều trị vấn đề hành vi ở trẻ em.",
-  "Behavioral economics explains why we overspend.|Kinh tế học hành vi giải thích vì sao ta tiêu quá tay.",
-  "They noticed a clear behavioral change after the move.|Họ nhận thấy thay đổi hành vi rõ rệt sau khi chuyển đi."
- ],
- "logistics": [
-  "A logistics company handles all our deliveries.|Một công ty hậu cần lo toàn bộ khâu giao hàng.",
-  "Who is handling the logistics for the event?|Ai lo khâu tổ chức cho sự kiện vậy?",
-  "Rising fuel prices pushed up logistics costs.|Giá nhiên liệu tăng đẩy chi phí hậu cần lên cao."
- ],
- "rig": [
-  "The opposition claims the vote was rigged.|Phe đối lập cho rằng cuộc bỏ phiếu bị gian lận.",
-  "He spent two years working on an oil rig.|Anh ấy làm hai năm trên một giàn khoan dầu.",
-  "We rigged up a screen using two sheets.|Chúng tôi dựng tạm một cái màn bằng hai tấm khăn trải."
- ],
- "levy": [
-  "The city plans to levy a tax on plastic bags.|Thành phố dự định đánh thuế lên túi ni lông.",
-  "A small levy is added to each ticket.|Một khoản thu nhỏ được cộng vào mỗi vé.",
-  "The court can levy a fine of up to $5,000.|Toà có thể áp mức phạt tới 5.000 đô la."
- ],
- "monopoly": [
-  "The company has a monopoly on rail freight.|Công ty này độc quyền vận tải hàng đường sắt.",
-  "Regulators moved to break up the monopoly.|Cơ quan quản lý ra tay phá thế độc quyền.",
-  "A state monopoly kept prices high for years.|Độc quyền nhà nước giữ giá cao suốt nhiều năm."
- ],
- "economically": [
-  "The plan is not economically viable.|Kế hoạch này không khả thi về mặt kinh tế.",
-  "The region grew economically after the port opened.|Vùng này phát triển kinh tế sau khi cảng mở.",
-  "We heat the house economically in winter.|Chúng tôi sưởi nhà một cách tiết kiệm vào mùa đông."
- ],
- "marketplace": [
-  "Their product failed in the marketplace.|Sản phẩm của họ thất bại trên thị trường.",
-  "She sells handmade bags on an online marketplace.|Cô ấy bán túi thủ công trên một sàn thương mại điện tử.",
-  "We bought fruit at the old marketplace.|Chúng tôi mua hoa quả ở khu chợ cũ."
- ],
- "boycott": [
-  "Farmers threatened to boycott the auction.|Nông dân doạ tẩy chay phiên đấu giá.",
-  "The boycott lasted almost six months.|Cuộc tẩy chay kéo dài gần sáu tháng.",
-  "Several parties called for a boycott of the election.|Vài đảng kêu gọi tẩy chay cuộc bầu cử."
- ],
- "gamble": [
-  "Opening a second store was a big gamble.|Mở cửa hàng thứ hai là một canh bạc lớn.",
-  "They gambled on a new product and won.|Họ đánh cược vào sản phẩm mới và đã thắng.",
-  "The gamble paid off within a year.|Canh bạc đó sinh lời trong vòng một năm."
- ],
- "forge": [
-  "The two firms forged a close partnership.|Hai công ty gây dựng quan hệ đối tác thân thiết.",
-  "He was jailed for forging signatures.|Anh ta bị tù vì giả mạo chữ ký.",
-  "The blacksmith heated the iron in the forge.|Người thợ rèn nung sắt trong lò."
- ],
- "tenant": [
-  "The tenant pays rent on the first of each month.|Người thuê trả tiền nhà vào mùng một hằng tháng.",
-  "Landlords must give tenants written notice.|Chủ nhà phải báo trước bằng văn bản cho người thuê.",
-  "A supermarket is the anchor tenant of the mall.|Một siêu thị là khách thuê chủ chốt của trung tâm thương mại."
- ],
- "internally": [
-  "The issue was handled internally.|Vấn đề đã được xử lý trong nội bộ.",
-  "They prefer to promote internally.|Họ thích đề bạt người trong nội bộ.",
-  "The report is not internally consistent.|Bản báo cáo tự mâu thuẫn ở bên trong."
- ],
- "null": [
-  "The contract was declared null and void.|Hợp đồng bị tuyên vô hiệu.",
-  "The function returns null if nothing is found.|Hàm trả về null nếu không tìm thấy gì.",
-  "We could not reject the null hypothesis.|Chúng tôi không thể bác bỏ giả thuyết không."
- ],
- "vest": [
-  "The constitution vests power in parliament.|Hiến pháp trao quyền cho quốc hội.",
-  "Your shares vest after three years.|Cổ phần của bạn được xác lập sau ba năm.",
-  "Workers must wear a safety vest on site.|Công nhân phải mặc áo phản quang tại công trường."
- ],
- "yen": [
-  "The yen weakened against the dollar again.|Đồng yên lại yếu đi so với đô la.",
-  "The watch costs about fifty thousand yen.|Chiếc đồng hồ giá khoảng năm mươi nghìn yên.",
-  "She has a real yen for travel.|Cô ấy thật sự khao khát được đi đây đó."
- ],
- "dismissal": [
-  "He is taking the company to court for unfair dismissal.|Anh ấy kiện công ty vì sa thải trái luật.",
-  "Her dismissal shocked the whole department.|Việc cô ấy bị cho thôi việc gây sốc cả phòng.",
-  "The judge ordered the dismissal of the case.|Thẩm phán ra lệnh bác bỏ vụ kiện."
- ],
- "consolidation": [
-  "The industry is going through rapid consolidation.|Ngành này đang trải qua giai đoạn sáp nhập nhanh.",
-  "Debt consolidation lowered his monthly payment.|Việc gộp nợ giúp giảm khoản trả hằng tháng của anh ấy.",
-  "The merger led to further consolidation of power.|Vụ sáp nhập dẫn tới việc củng cố quyền lực hơn nữa."
- ],
- "validity": [
-  "Lawyers questioned the validity of the contract.|Luật sư đặt câu hỏi về tính hợp lệ của hợp đồng.",
-  "The visa has a validity of six months.|Thị thực có giá trị trong sáu tháng.",
-  "Other studies confirmed the validity of the results.|Các nghiên cứu khác xác nhận độ tin cậy của kết quả."
- ],
- "yuan": [
-  "The company reported profits of two billion yuan.|Công ty báo lãi hai tỷ nhân dân tệ.",
-  "The yuan rose slightly against the dollar.|Đồng nhân dân tệ tăng nhẹ so với đô la.",
-  "Prices there are quoted in yuan.|Giá ở đó được niêm yết bằng nhân dân tệ."
- ],
- "beverage": [
-  "The beverage industry is worth billions.|Ngành đồ uống trị giá hàng tỷ đô.",
-  "No alcoholic beverages are allowed on site.|Không được mang đồ uống có cồn vào khu vực này.",
-  "Food and beverage sales rose over the summer.|Doanh thu đồ ăn và đồ uống tăng trong mùa hè."
- ],
- "dent": [
-  "There's a small dent in the car door.|Có một vết lõm nhỏ ở cửa xe.",
-  "The fine barely made a dent in their profits.|Khoản phạt gần như chẳng ảnh hưởng gì tới lợi nhuận của họ.",
-  "The scandal dented public confidence.|Vụ bê bối làm sứt mẻ niềm tin của công chúng."
- ],
- "dub": [
-  "The film was dubbed into six languages.|Bộ phim được lồng tiếng sang sáu thứ tiếng.",
-  "The press dubbed him the king of retail.|Báo chí gọi ông ấy là ông vua bán lẻ.",
-  "Kids prefer dubbed cartoons to subtitles.|Trẻ con thích phim hoạt hình lồng tiếng hơn phụ đề."
- ],
- "lender": [
-  "The lender approved the loan in two days.|Bên cho vay duyệt khoản vay trong hai ngày.",
-  "Mortgage lenders raised their rates again.|Các ngân hàng cho vay thế chấp lại tăng lãi suất.",
-  "The central bank acts as lender of last resort.|Ngân hàng trung ương đóng vai người cho vay cuối cùng."
- ],
- "scarce": [
-  "Clean water is scarce in the region.|Nước sạch khan hiếm ở vùng này.",
-  "Good engineers are scarce right now.|Kỹ sư giỏi đang hiếm vào lúc này.",
-  "Funds became scarce after the crisis.|Nguồn vốn trở nên khan hiếm sau khủng hoảng."
- ],
- "mister": [
-  "Excuse me, mister, is this seat taken?|Xin lỗi ông, chỗ này có ai ngồi chưa?",
-  "Mister Chairman, may I ask a question?|Thưa ngài chủ tịch, tôi hỏi một câu được không?",
-  "The kids call him mister even at home.|Bọn trẻ gọi ông ấy là 'ông' ngay cả ở nhà."
- ],
- "amend": [
-  "Parliament voted to amend the law.|Quốc hội bỏ phiếu sửa đổi luật.",
-  "We had to amend the contract twice.|Chúng tôi phải sửa hợp đồng hai lần.",
-  "She amended her proposal after the feedback.|Cô ấy chỉnh lại đề xuất sau khi nhận góp ý."
- ],
- "cater": [
-  "The hotel caters for large business events.|Khách sạn phục vụ các sự kiện doanh nghiệp lớn.",
-  "This app caters to first-time investors.|Ứng dụng này đáp ứng nhu cầu của nhà đầu tư mới.",
-  "A local company catered the wedding.|Một công ty địa phương lo phần ăn uống cho đám cưới."
- ],
- "downside": [
-  "The downside is that shipping takes a week.|Mặt hạn chế là việc giao hàng mất một tuần.",
-  "Every job has an upside and a downside.|Công việc nào cũng có mặt được và mặt mất.",
-  "Investors want to limit their downside risk.|Nhà đầu tư muốn giới hạn rủi ro giảm giá."
- ],
- "ledger": [
-  "Every payment is recorded in the general ledger.|Mọi khoản thanh toán đều được ghi vào sổ cái.",
-  "She keeps a ledger of daily expenses.|Cô ấy giữ một cuốn sổ ghi chi tiêu hằng ngày.",
-  "The ledger balance did not match the bank statement.|Số dư sổ cái không khớp với sao kê ngân hàng."
- ],
- "bidder": [
-  "The house went to the highest bidder.|Ngôi nhà thuộc về người trả giá cao nhất.",
-  "Only two bidders showed up for the contract.|Chỉ có hai bên dự thầu cho hợp đồng này.",
-  "The successful bidder must pay within a week.|Bên trúng thầu phải thanh toán trong vòng một tuần."
- ],
- "deter": [
-  "Higher fines are meant to deter speeding.|Mức phạt cao hơn nhằm răn đe việc chạy quá tốc độ.",
-  "Bad reviews deter new customers.|Đánh giá xấu khiến khách mới ngại thử.",
-  "Nothing deterred her from starting the company.|Chẳng gì ngăn được cô ấy khởi nghiệp."
- ],
- "liquidity": [
-  "The bank needs to improve its liquidity.|Ngân hàng cần cải thiện tính thanh khoản.",
-  "A liquidity crisis forced them to sell assets.|Khủng hoảng thanh khoản buộc họ phải bán tài sản.",
-  "Central banks provided liquidity to the market.|Các ngân hàng trung ương bơm thanh khoản cho thị trường."
- ],
- "competitiveness": [
-  "Weak infrastructure hurts our competitiveness.|Hạ tầng yếu làm giảm sức cạnh tranh của chúng ta.",
-  "The reform aims to improve competitiveness.|Cuộc cải cách nhằm nâng cao khả năng cạnh tranh.",
-  "A strong currency reduces price competitiveness.|Đồng tiền mạnh làm giảm sức cạnh tranh về giá."
- ],
- "orient": [
-  "It took me a minute to orient myself.|Tôi mất một phút để định hướng.",
-  "The company is strongly oriented towards exports.|Công ty định hướng mạnh vào xuất khẩu.",
-  "New staff are oriented during their first week.|Nhân viên mới được định hướng trong tuần đầu."
- ],
- "substitution": [
-  "The coach made a late substitution.|Huấn luyện viên thay người muộn.",
-  "Import substitution was the policy for decades.|Thay thế hàng nhập khẩu là chính sách suốt nhiều thập kỷ.",
-  "Substitution of cheaper parts lowered the cost.|Việc thay bằng linh kiện rẻ hơn làm giảm chi phí."
- ],
- "hurdle": [
-  "Funding is the biggest hurdle right now.|Vốn là rào cản lớn nhất lúc này.",
-  "The startup cleared its first regulatory hurdle.|Startup vượt qua rào cản pháp lý đầu tiên.",
-  "She trains for the 400-meter hurdles.|Cô ấy tập chạy 400 mét rào."
- ],
- "rein": [
-  "The government wants to rein in spending.|Chính phủ muốn siết chặt chi tiêu.",
-  "She took the reins of the company last year.|Cô ấy nắm quyền điều hành công ty từ năm ngoái.",
-  "He pulled the reins and the horse stopped.|Anh ấy kéo dây cương và con ngựa dừng lại."
- ],
- "bolster": [
-  "The results bolstered investor confidence.|Kết quả này củng cố niềm tin của nhà đầu tư.",
-  "New tax breaks should bolster the economy.|Các khoản miễn giảm thuế mới sẽ nâng đỡ nền kinh tế.",
-  "They hired more staff to bolster sales.|Họ tuyển thêm nhân sự để đẩy doanh số."
- ],
- "payoff": [
-  "The payoff from the training was obvious.|Lợi ích thu về từ khoá đào tạo là rõ ràng.",
-  "It is a long project with a big payoff.|Đó là dự án dài hơi nhưng lợi lớn.",
-  "Investigators uncovered payoffs to officials.|Các điều tra viên phát hiện những khoản chung chi cho quan chức."
- ],
- "annum": [
-  "The loan carries five percent interest per annum.|Khoản vay chịu lãi năm phần trăm mỗi năm.",
-  "She earns sixty thousand dollars per annum.|Cô ấy kiếm sáu mươi nghìn đô la mỗi năm.",
-  "Rent rises by two percent per annum.|Tiền thuê tăng hai phần trăm mỗi năm."
- ],
- "clout": [
-  "The union still has real political clout.|Công đoàn vẫn còn ảnh hưởng chính trị thật sự.",
-  "Small suppliers have little clout in talks.|Các nhà cung cấp nhỏ ít có tiếng nói trong đàm phán.",
-  "His name carries clout in the industry.|Tên tuổi của ông ấy có sức nặng trong ngành."
- ],
- "tonne": [
-  "The factory produces a thousand tonnes a month.|Nhà máy sản xuất một nghìn tấn mỗi tháng.",
-  "The price fell to $400 per tonne.|Giá giảm còn 400 đô la một tấn.",
-  "They shipped twelve tonnes of coffee.|Họ xuất đi mười hai tấn cà phê."
- ]
+  "productivity": [
+    "New software helped increase productivity by a fifth.|Phần mềm mới giúp tăng năng suất thêm một phần năm.",
+    "Long meetings hurt team productivity.|Họp dài làm giảm năng suất của cả nhóm.",
+    "Productivity growth has slowed since last year.|Tăng trưởng năng suất đã chậm lại từ năm ngoái.",
+    "Remote work boosted productivity for some teams.|Làm việc từ xa giúp tăng năng suất cho một số nhóm.",
+    "Lack of sleep is a major drain on productivity.|Thiếu ngủ làm hao hụt năng suất nghiêm trọng."
+  ],
+  "threshold": [
+    "Your income is just above the tax threshold.|Thu nhập của bạn chỉ nhỉnh hơn ngưỡng chịu thuế một chút.",
+    "She has a very high pain threshold.|Cô ấy có ngưỡng chịu đau rất cao.",
+    "He paused at the threshold before knocking.|Anh ấy dừng lại ở ngưỡng cửa trước khi gõ.",
+    "The noise was just below the threshold of hearing.|Tiếng ồn chỉ dưới ngưỡng nghe được.",
+    "He carried her across the threshold of their new home.|Anh ấy bế cô qua ngưỡng cửa ngôi nhà mới của họ."
+  ],
+  "reconstruction": [
+    "Post-war reconstruction took almost a decade.|Việc tái thiết sau chiến tranh mất gần một thập kỷ.",
+    "The reconstruction of the bridge starts in May.|Việc xây lại cây cầu bắt đầu vào tháng Năm.",
+    "Donors promised money for economic reconstruction.|Các nhà tài trợ hứa cấp tiền cho tái thiết kinh tế.",
+    "Facial reconstruction helped police identify the victim.|Phục dựng khuôn mặt giúp cảnh sát xác định danh tính nạn nhân.",
+    "After the Civil War, Reconstruction reshaped the American South.|Sau Nội chiến, công cuộc Tái thiết đã định hình lại miền Nam nước Mỹ."
+  ],
+  "mainland": [
+    "The ferry to the mainland runs twice a day.|Phà về đất liền chạy hai chuyến mỗi ngày.",
+    "Most of their factories are in mainland China.|Phần lớn nhà máy của họ ở Trung Quốc đại lục.",
+    "Prices on the island are higher than on the mainland.|Giá trên đảo cao hơn trong đất liền.",
+    "Storms sometimes cut the island off from the mainland.|Bão đôi khi cắt đứt hòn đảo khỏi đất liền.",
+    "Her ancestors sailed from the mainland two centuries ago.|Tổ tiên cô ấy vượt biển từ đất liền ra đây hai thế kỷ trước."
+  ],
+  "sovereign": [
+    "The island became a sovereign state in 1975.|Hòn đảo trở thành quốc gia có chủ quyền năm 1975.",
+    "Investors worry about the country's sovereign debt.|Nhà đầu tư lo ngại về nợ công của nước này.",
+    "The sovereign opened parliament in person.|Nhà vua đích thân khai mạc kỳ họp quốc hội.",
+    "Every sovereign nation controls its own borders.|Mỗi quốc gia có chủ quyền đều kiểm soát biên giới của mình.",
+    "Norway's sovereign wealth fund owns shares in thousands of companies.|Quỹ đầu tư quốc gia của Na Uy sở hữu cổ phần ở hàng nghìn công ty."
+  ],
+  "norm": [
+    "Working from home has become the norm here.|Làm việc tại nhà đã thành chuyện thường ở đây.",
+    "Social norms differ a lot between countries.|Chuẩn mực xã hội khác nhau nhiều giữa các nước.",
+    "His behavior deviates from the norm.|Hành vi của anh ta lệch khỏi chuẩn mực.",
+    "In some cultures, it's the norm to take your shoes off indoors.|Ở một số nền văn hóa, cởi giày khi vào nhà là chuyện bình thường.",
+    "Factory workers must meet a daily production norm.|Công nhân nhà máy phải đạt định mức sản xuất hằng ngày."
+  ],
+  "transparency": [
+    "Voters demanded greater transparency in spending.|Cử tri đòi hỏi minh bạch hơn trong chi tiêu.",
+    "The report criticized the lack of transparency.|Bản báo cáo phê phán sự thiếu minh bạch.",
+    "Transparency and accountability go together.|Minh bạch và trách nhiệm giải trình đi liền với nhau.",
+    "The company promised full transparency about the data breach.|Công ty hứa sẽ hoàn toàn minh bạch về vụ rò rỉ dữ liệu.",
+    "The transparency of the glass lets in plenty of light.|Độ trong suốt của kính cho nhiều ánh sáng lọt vào."
+  ],
+  "opt": [
+    "Many students opt for online courses now.|Nhiều sinh viên giờ chọn học trực tuyến.",
+    "You can opt out of the mailing list anytime.|Bạn có thể ngừng nhận email bất cứ lúc nào.",
+    "She opted to stay in her current job.|Cô ấy chọn ở lại công việc hiện tại.",
+    "Customers must opt in to receive marketing emails.|Khách hàng phải tự đồng ý thì mới nhận email quảng cáo.",
+    "We opted for the train instead of flying.|Chúng tôi chọn đi tàu thay vì bay."
+  ],
+  "broker": [
+    "Our insurance broker found a cheaper policy.|Người môi giới bảo hiểm tìm được hợp đồng rẻ hơn.",
+    "The minister helped broker a deal between them.|Bộ trưởng đã giúp dàn xếp một thoả thuận giữa họ.",
+    "He works as a mortgage broker downtown.|Anh ấy làm môi giới vay thế chấp ở trung tâm.",
+    "A stock broker bought the shares for her.|Một người môi giới chứng khoán đã mua cổ phiếu giúp cô ấy.",
+    "The UN brokered an agreement to end the fighting.|Liên Hợp Quốc đã làm trung gian cho một thỏa thuận chấm dứt giao tranh."
+  ],
+  "node": [
+    "Each node in the network has its own address.|Mỗi nút trong mạng có địa chỉ riêng.",
+    "The doctor checked a swollen lymph node.|Bác sĩ kiểm tra một hạch bị sưng.",
+    "Start at the root node and work down.|Bắt đầu từ nút gốc rồi đi xuống.",
+    "If one node fails, the others keep the network running.|Nếu một nút hỏng, các nút khác vẫn giữ mạng hoạt động.",
+    "The cancer had not spread to her lymph nodes.|Ung thư chưa lan đến các hạch bạch huyết của cô ấy."
+  ],
+  "behavioral": [
+    "The clinic treats behavioral problems in children.|Phòng khám điều trị vấn đề hành vi ở trẻ em.",
+    "Behavioral economics explains why we overspend.|Kinh tế học hành vi giải thích vì sao ta tiêu quá tay.",
+    "They noticed a clear behavioral change after the move.|Họ nhận thấy thay đổi hành vi rõ rệt sau khi chuyển đi.",
+    "She studied behavioral science at university.|Cô ấy học khoa học hành vi ở đại học.",
+    "Behavioral therapy helped him manage his anxiety.|Liệu pháp hành vi giúp anh ấy kiểm soát chứng lo âu."
+  ],
+  "logistics": [
+    "A logistics company handles all our deliveries.|Một công ty hậu cần lo toàn bộ khâu giao hàng.",
+    "Who is handling the logistics for the event?|Ai lo khâu tổ chức cho sự kiện vậy?",
+    "Rising fuel prices pushed up logistics costs.|Giá nhiên liệu tăng đẩy chi phí hậu cần lên cao.",
+    "The logistics of moving a whole orchestra are complicated.|Khâu hậu cần để di chuyển cả một dàn nhạc rất phức tạp.",
+    "He manages logistics for a large supermarket chain.|Anh ấy quản lý hậu cần cho một chuỗi siêu thị lớn."
+  ],
+  "rig": [
+    "The opposition claims the vote was rigged.|Phe đối lập cho rằng cuộc bỏ phiếu bị gian lận.",
+    "He spent two years working on an oil rig.|Anh ấy làm hai năm trên một giàn khoan dầu.",
+    "We rigged up a screen using two sheets.|Chúng tôi dựng tạm một cái màn bằng hai tấm khăn trải.",
+    "The ship's rig was damaged in the storm.|Hệ thống buồm của con tàu bị hư hại trong cơn bão.",
+    "The drilling rig was evacuated before the storm.|Giàn khoan được sơ tán trước cơn bão."
+  ],
+  "levy": [
+    "The city plans to levy a tax on plastic bags.|Thành phố dự định đánh thuế lên túi ni lông.",
+    "A small levy is added to each ticket.|Một khoản thu nhỏ được cộng vào mỗi vé.",
+    "The court can levy a fine of up to $5,000.|Toà có thể áp mức phạt tới 5.000 đô la.",
+    "The government imposed an import levy on steel.|Chính phủ áp thuế nhập khẩu lên thép.",
+    "Hotels levy a tourist tax of two dollars a night.|Các khách sạn thu thuế du lịch hai đô mỗi đêm."
+  ],
+  "monopoly": [
+    "The company has a monopoly on rail freight.|Công ty này độc quyền vận tải hàng đường sắt.",
+    "Regulators moved to break up the monopoly.|Cơ quan quản lý ra tay phá thế độc quyền.",
+    "A state monopoly kept prices high for years.|Độc quyền nhà nước giữ giá cao suốt nhiều năm.",
+    "No single party should have a monopoly on truth.|Không một phe nào được độc quyền chân lý.",
+    "We played Monopoly until two in the morning.|Chúng tôi chơi cờ tỷ phú đến hai giờ sáng."
+  ],
+  "economically": [
+    "The plan is not economically viable.|Kế hoạch này không khả thi về mặt kinh tế.",
+    "The region grew economically after the port opened.|Vùng này phát triển kinh tế sau khi cảng mở.",
+    "We heat the house economically in winter.|Chúng tôi sưởi nhà một cách tiết kiệm vào mùa đông.",
+    "Many women in the town are not economically active.|Nhiều phụ nữ trong thị trấn không tham gia hoạt động kinh tế.",
+    "The scholarship supports economically disadvantaged students.|Học bổng hỗ trợ sinh viên có hoàn cảnh kinh tế khó khăn."
+  ],
+  "marketplace": [
+    "Their product failed in the marketplace.|Sản phẩm của họ thất bại trên thị trường.",
+    "She sells handmade bags on an online marketplace.|Cô ấy bán túi thủ công trên một sàn thương mại điện tử.",
+    "We bought fruit at the old marketplace.|Chúng tôi mua hoa quả ở khu chợ cũ.",
+    "The global marketplace is more competitive than ever.|Thị trường toàn cầu cạnh tranh hơn bao giờ hết.",
+    "The town's marketplace fills with stalls every Saturday.|Khu chợ của thị trấn đầy sạp hàng mỗi thứ Bảy."
+  ],
+  "boycott": [
+    "Farmers threatened to boycott the auction.|Nông dân doạ tẩy chay phiên đấu giá.",
+    "The boycott lasted almost six months.|Cuộc tẩy chay kéo dài gần sáu tháng.",
+    "Several parties called for a boycott of the election.|Vài đảng kêu gọi tẩy chay cuộc bầu cử.",
+    "Consumers boycotted the brand after the scandal.|Người tiêu dùng tẩy chay thương hiệu sau vụ bê bối.",
+    "Several countries boycotted the Olympic Games in 1980.|Nhiều quốc gia tẩy chay Thế vận hội năm 1980."
+  ],
+  "gamble": [
+    "Opening a second store was a big gamble.|Mở cửa hàng thứ hai là một canh bạc lớn.",
+    "They gambled on a new product and won.|Họ đánh cược vào sản phẩm mới và đã thắng.",
+    "The gamble paid off within a year.|Canh bạc đó sinh lời trong vòng một năm.",
+    "Never gamble more than you can afford to lose.|Đừng bao giờ đánh bạc nhiều hơn số tiền bạn có thể mất.",
+    "You're taking a gamble if you drive on those old tires.|Bạn đang liều nếu lái xe với mấy cái lốp cũ đó."
+  ],
+  "forge": [
+    "The two firms forged a close partnership.|Hai công ty gây dựng quan hệ đối tác thân thiết.",
+    "He was jailed for forging signatures.|Anh ta bị tù vì giả mạo chữ ký.",
+    "The blacksmith heated the iron in the forge.|Người thợ rèn nung sắt trong lò.",
+    "The team forged ahead despite the bad weather.|Cả đội vẫn tiến lên bất chấp thời tiết xấu.",
+    "The school has forged links with a university in Japan.|Trường đã thiết lập quan hệ với một trường đại học ở Nhật Bản."
+  ],
+  "tenant": [
+    "The tenant pays rent on the first of each month.|Người thuê trả tiền nhà vào mùng một hằng tháng.",
+    "Landlords must give tenants written notice.|Chủ nhà phải báo trước bằng văn bản cho người thuê.",
+    "A supermarket is the anchor tenant of the mall.|Một siêu thị là khách thuê chủ chốt của trung tâm thương mại.",
+    "The landlord tried to evict the tenant without notice.|Chủ nhà định đuổi người thuê mà không báo trước.",
+    "Tenant rights groups are campaigning for rent limits.|Các nhóm bảo vệ quyền người thuê nhà đang vận động giới hạn giá thuê."
+  ],
+  "internally": [
+    "The issue was handled internally.|Vấn đề đã được xử lý trong nội bộ.",
+    "They prefer to promote internally.|Họ thích đề bạt người trong nội bộ.",
+    "The report is not internally consistent.|Bản báo cáo tự mâu thuẫn ở bên trong.",
+    "Thousands of people are internally displaced by the war.|Hàng nghìn người phải di tản trong nước vì chiến tranh.",
+    "The medicine is taken internally, not rubbed on the skin.|Thuốc này dùng đường uống, không bôi ngoài da."
+  ],
+  "null": [
+    "The contract was declared null and void.|Hợp đồng bị tuyên vô hiệu.",
+    "The function returns null if nothing is found.|Hàm trả về null nếu không tìm thấy gì.",
+    "We could not reject the null hypothesis.|Chúng tôi không thể bác bỏ giả thuyết không.",
+    "A null value means the field is empty.|Giá trị null nghĩa là trường đó trống.",
+    "Any clause that breaks the law is null.|Bất kỳ điều khoản nào vi phạm pháp luật đều vô hiệu."
+  ],
+  "vest": [
+    "The constitution vests power in parliament.|Hiến pháp trao quyền cho quốc hội.",
+    "Your shares vest after three years.|Cổ phần của bạn được xác lập sau ba năm.",
+    "Workers must wear a safety vest on site.|Công nhân phải mặc áo phản quang tại công trường.",
+    "He wore a bulletproof vest under his jacket.|Anh ấy mặc áo chống đạn bên dưới áo khoác.",
+    "Politicians with a vested interest shouldn't vote on the deal.|Các chính trị gia có lợi ích riêng không nên bỏ phiếu cho thỏa thuận."
+  ],
+  "yen": [
+    "The yen weakened against the dollar again.|Đồng yên lại yếu đi so với đô la.",
+    "The watch costs about fifty thousand yen.|Chiếc đồng hồ giá khoảng năm mươi nghìn yên.",
+    "She has a real yen for travel.|Cô ấy thật sự khao khát được đi đây đó.",
+    "Tourists get more for their money when the yen is weak.|Khách du lịch được lợi hơn khi đồng yên yếu.",
+    "I've always had a yen to learn the piano.|Tôi luôn khao khát học đàn piano."
+  ],
+  "dismissal": [
+    "He is taking the company to court for unfair dismissal.|Anh ấy kiện công ty vì sa thải trái luật.",
+    "Her dismissal shocked the whole department.|Việc cô ấy bị cho thôi việc gây sốc cả phòng.",
+    "The judge ordered the dismissal of the case.|Thẩm phán ra lệnh bác bỏ vụ kiện.",
+    "The coach's dismissal came after five straight losses.|Huấn luyện viên bị sa thải sau năm trận thua liên tiếp.",
+    "She waved her hand in dismissal.|Cô ấy phẩy tay tỏ ý gạt đi."
+  ],
+  "consolidation": [
+    "The industry is going through rapid consolidation.|Ngành này đang trải qua giai đoạn sáp nhập nhanh.",
+    "Debt consolidation lowered his monthly payment.|Việc gộp nợ giúp giảm khoản trả hằng tháng của anh ấy.",
+    "The merger led to further consolidation of power.|Vụ sáp nhập dẫn tới việc củng cố quyền lực hơn nữa.",
+    "The consolidation of three schools into one angered parents.|Việc sáp nhập ba trường thành một khiến phụ huynh tức giận.",
+    "After years of growth, the market entered a period of consolidation.|Sau nhiều năm tăng trưởng, thị trường bước vào giai đoạn củng cố."
+  ],
+  "validity": [
+    "Lawyers questioned the validity of the contract.|Luật sư đặt câu hỏi về tính hợp lệ của hợp đồng.",
+    "The visa has a validity of six months.|Thị thực có giá trị trong sáu tháng.",
+    "Other studies confirmed the validity of the results.|Các nghiên cứu khác xác nhận độ tin cậy của kết quả.",
+    "The validity period of the ticket is one year.|Thời hạn hiệu lực của vé là một năm.",
+    "Scientists doubt the validity of the survey.|Các nhà khoa học nghi ngờ độ tin cậy của cuộc khảo sát."
+  ],
+  "yuan": [
+    "The company reported profits of two billion yuan.|Công ty báo lãi hai tỷ nhân dân tệ.",
+    "The yuan rose slightly against the dollar.|Đồng nhân dân tệ tăng nhẹ so với đô la.",
+    "Prices there are quoted in yuan.|Giá ở đó được niêm yết bằng nhân dân tệ.",
+    "The government decided to devalue the yuan.|Chính phủ quyết định phá giá đồng nhân dân tệ.",
+    "A bowl of noodles costs about fifteen yuan.|Một bát mì giá khoảng mười lăm nhân dân tệ."
+  ],
+  "beverage": [
+    "The beverage industry is worth billions.|Ngành đồ uống trị giá hàng tỷ đô.",
+    "No alcoholic beverages are allowed on site.|Không được mang đồ uống có cồn vào khu vực này.",
+    "Food and beverage sales rose over the summer.|Doanh thu đồ ăn và đồ uống tăng trong mùa hè.",
+    "Hot beverages are served in the lobby from seven.|Đồ uống nóng được phục vụ ở sảnh từ bảy giờ.",
+    "The price includes a meal and one beverage.|Giá đã bao gồm một bữa ăn và một đồ uống."
+  ],
+  "dent": [
+    "There's a small dent in the car door.|Có một vết lõm nhỏ ở cửa xe.",
+    "The fine barely made a dent in their profits.|Khoản phạt gần như chẳng ảnh hưởng gì tới lợi nhuận của họ.",
+    "The scandal dented public confidence.|Vụ bê bối làm sứt mẻ niềm tin của công chúng.",
+    "The new savings plan made a big dent in our debt.|Kế hoạch tiết kiệm mới giúp giảm đáng kể khoản nợ của chúng tôi.",
+    "He dented the fridge door when he moved it.|Anh ấy làm móp cửa tủ lạnh khi di chuyển nó."
+  ],
+  "dub": [
+    "The film was dubbed into six languages.|Bộ phim được lồng tiếng sang sáu thứ tiếng.",
+    "The press dubbed him the king of retail.|Báo chí gọi ông ấy là ông vua bán lẻ.",
+    "Kids prefer dubbed cartoons to subtitles.|Trẻ con thích phim hoạt hình lồng tiếng hơn phụ đề.",
+    "They decided to dub the film rather than add subtitles.|Họ quyết định lồng tiếng cho bộ phim thay vì làm phụ đề.",
+    "Fans dubbed the new stadium \"the Bowl.\"|Người hâm mộ gọi sân vận động mới là \"Cái Chảo\"."
+  ],
+  "lender": [
+    "The lender approved the loan in two days.|Bên cho vay duyệt khoản vay trong hai ngày.",
+    "Mortgage lenders raised their rates again.|Các ngân hàng cho vay thế chấp lại tăng lãi suất.",
+    "The central bank acts as lender of last resort.|Ngân hàng trung ương đóng vai người cho vay cuối cùng.",
+    "Compare several lenders before taking out a mortgage.|So sánh vài bên cho vay trước khi vay thế chấp.",
+    "The lender can take the house if payments stop.|Bên cho vay có thể thu hồi căn nhà nếu việc trả nợ bị ngừng."
+  ],
+  "scarce": [
+    "Clean water is scarce in the region.|Nước sạch khan hiếm ở vùng này.",
+    "Good engineers are scarce right now.|Kỹ sư giỏi đang hiếm vào lúc này.",
+    "Funds became scarce after the crisis.|Nguồn vốn trở nên khan hiếm sau khủng hoảng.",
+    "Jobs were scarce after the factory closed.|Việc làm khan hiếm sau khi nhà máy đóng cửa.",
+    "Fresh fruit was scarce during the war.|Trái cây tươi khan hiếm trong thời chiến."
+  ],
+  "mister": [
+    "Excuse me, mister, is this seat taken?|Xin lỗi ông, chỗ này có ai ngồi chưa?",
+    "Mister Chairman, may I ask a question?|Thưa ngài chủ tịch, tôi hỏi một câu được không?",
+    "The kids call him mister even at home.|Bọn trẻ gọi ông ấy là 'ông' ngay cả ở nhà.",
+    "Hey, mister, you dropped your wallet!|Này ông ơi, ông đánh rơi ví rồi!",
+    "Mister Brown will see you now.|Ông Brown sẽ tiếp bạn bây giờ."
+  ],
+  "amend": [
+    "Parliament voted to amend the law.|Quốc hội bỏ phiếu sửa đổi luật.",
+    "We had to amend the contract twice.|Chúng tôi phải sửa hợp đồng hai lần.",
+    "She amended her proposal after the feedback.|Cô ấy chỉnh lại đề xuất sau khi nhận góp ý.",
+    "The club amended its rules to allow women members.|Câu lạc bộ sửa đổi điều lệ để cho phép hội viên nữ.",
+    "Can we amend the date on the booking?|Chúng tôi có thể sửa ngày trên đơn đặt chỗ không?"
+  ],
+  "cater": [
+    "The hotel caters for large business events.|Khách sạn phục vụ các sự kiện doanh nghiệp lớn.",
+    "This app caters to first-time investors.|Ứng dụng này đáp ứng nhu cầu của nhà đầu tư mới.",
+    "A local company catered the wedding.|Một công ty địa phương lo phần ăn uống cho đám cưới.",
+    "We cater to all dietary needs.|Chúng tôi đáp ứng mọi nhu cầu ăn kiêng.",
+    "Who will cater the conference lunch?|Ai sẽ lo phần ăn trưa cho hội nghị?"
+  ],
+  "downside": [
+    "The downside is that shipping takes a week.|Mặt hạn chế là việc giao hàng mất một tuần.",
+    "Every job has an upside and a downside.|Công việc nào cũng có mặt được và mặt mất.",
+    "Investors want to limit their downside risk.|Nhà đầu tư muốn giới hạn rủi ro giảm giá.",
+    "There's no real downside to trying.|Thử thì chẳng mất gì cả.",
+    "Cheap flights have an environmental downside.|Các chuyến bay giá rẻ có mặt trái về môi trường."
+  ],
+  "ledger": [
+    "Every payment is recorded in the general ledger.|Mọi khoản thanh toán đều được ghi vào sổ cái.",
+    "She keeps a ledger of daily expenses.|Cô ấy giữ một cuốn sổ ghi chi tiêu hằng ngày.",
+    "The ledger balance did not match the bank statement.|Số dư sổ cái không khớp với sao kê ngân hàng.",
+    "The ledger showed a small profit for the year.|Sổ cái cho thấy một khoản lãi nhỏ trong năm.",
+    "Blockchain is a kind of distributed ledger.|Blockchain là một dạng sổ cái phân tán."
+  ],
+  "bidder": [
+    "The house went to the highest bidder.|Ngôi nhà thuộc về người trả giá cao nhất.",
+    "Only two bidders showed up for the contract.|Chỉ có hai bên dự thầu cho hợp đồng này.",
+    "The successful bidder must pay within a week.|Bên trúng thầu phải thanh toán trong vòng một tuần.",
+    "The painting went to an anonymous bidder.|Bức tranh thuộc về một người trả giá giấu tên.",
+    "Several bidders competed for the old railway station.|Nhiều bên cạnh tranh mua nhà ga cũ."
+  ],
+  "deter": [
+    "Higher fines are meant to deter speeding.|Mức phạt cao hơn nhằm răn đe việc chạy quá tốc độ.",
+    "Bad reviews deter new customers.|Đánh giá xấu khiến khách mới ngại thử.",
+    "Nothing deterred her from starting the company.|Chẳng gì ngăn được cô ấy khởi nghiệp.",
+    "Cameras help deter shoplifters.|Camera giúp răn đe kẻ trộm đồ trong cửa hàng.",
+    "The rain didn't deter the fans.|Cơn mưa không ngăn được người hâm mộ."
+  ],
+  "liquidity": [
+    "The bank needs to improve its liquidity.|Ngân hàng cần cải thiện tính thanh khoản.",
+    "A liquidity crisis forced them to sell assets.|Khủng hoảng thanh khoản buộc họ phải bán tài sản.",
+    "Central banks provided liquidity to the market.|Các ngân hàng trung ương bơm thanh khoản cho thị trường.",
+    "Liquidity risk worries investors during a crisis.|Rủi ro thanh khoản khiến nhà đầu tư lo ngại trong khủng hoảng.",
+    "Cash gives a business liquidity when times are hard.|Tiền mặt giúp doanh nghiệp có tính thanh khoản khi khó khăn."
+  ],
+  "competitiveness": [
+    "Weak infrastructure hurts our competitiveness.|Hạ tầng yếu làm giảm sức cạnh tranh của chúng ta.",
+    "The reform aims to improve competitiveness.|Cuộc cải cách nhằm nâng cao khả năng cạnh tranh.",
+    "A strong currency reduces price competitiveness.|Đồng tiền mạnh làm giảm sức cạnh tranh về giá.",
+    "Global competitiveness depends on education.|Khả năng cạnh tranh toàn cầu phụ thuộc vào giáo dục.",
+    "Her competitiveness makes her a great athlete.|Tính háo thắng giúp cô trở thành vận động viên xuất sắc."
+  ],
+  "orient": [
+    "It took me a minute to orient myself.|Tôi mất một phút để định hướng.",
+    "The company is strongly oriented toward exports.|Công ty định hướng mạnh vào xuất khẩu.",
+    "New staff are oriented during their first week.|Nhân viên mới được định hướng trong tuần đầu.",
+    "The course helps new students orient themselves on campus.|Khóa học giúp sinh viên mới làm quen với khuôn viên trường.",
+    "Orient the map so north is at the top.|Xoay bản đồ sao cho hướng bắc ở trên cùng."
+  ],
+  "substitution": [
+    "The coach made a late substitution.|Huấn luyện viên thay người muộn.",
+    "Import substitution was the policy for decades.|Thay thế hàng nhập khẩu là chính sách suốt nhiều thập kỷ.",
+    "Substitution of cheaper parts lowered the cost.|Việc thay bằng linh kiện rẻ hơn làm giảm chi phí.",
+    "No substitutions are allowed on the set menu.|Không được đổi món trong thực đơn cố định.",
+    "In math, substitution means replacing a letter with a number.|Trong toán học, phép thế là thay một chữ bằng một con số."
+  ],
+  "hurdle": [
+    "Funding is the biggest hurdle right now.|Vốn là rào cản lớn nhất lúc này.",
+    "The startup cleared its first regulatory hurdle.|Startup vượt qua rào cản pháp lý đầu tiên.",
+    "She trains for the 400-meter hurdles.|Cô ấy tập chạy 400 mét rào.",
+    "The horse fell at the last hurdle.|Con ngựa ngã ở chướng ngại vật cuối cùng.",
+    "Language is often the first hurdle for new immigrants.|Ngôn ngữ thường là rào cản đầu tiên với người nhập cư mới."
+  ],
+  "rein": [
+    "The government wants to rein in spending.|Chính phủ muốn siết chặt chi tiêu.",
+    "She took the reins of the company last year.|Cô ấy nắm quyền điều hành công ty từ năm ngoái.",
+    "He pulled the reins and the horse stopped.|Anh ấy kéo dây cương và con ngựa dừng lại.",
+    "His parents kept him on a tight rein.|Cha mẹ quản anh rất chặt.",
+    "The founder finally handed over the reins to her son.|Người sáng lập cuối cùng đã trao quyền điều hành cho con trai."
+  ],
+  "bolster": [
+    "The results bolstered investor confidence.|Kết quả này củng cố niềm tin của nhà đầu tư.",
+    "New tax breaks should bolster the economy.|Các khoản miễn giảm thuế mới sẽ nâng đỡ nền kinh tế.",
+    "They hired more staff to bolster sales.|Họ tuyển thêm nhân sự để đẩy doanh số.",
+    "A good night's sleep will bolster your mood.|Một giấc ngủ ngon sẽ giúp tinh thần bạn phấn chấn hơn.",
+    "Engineers used steel beams to bolster the old bridge.|Các kỹ sư dùng dầm thép để gia cố cây cầu cũ."
+  ],
+  "payoff": [
+    "The payoff from the training was obvious.|Lợi ích thu về từ khoá đào tạo là rõ ràng.",
+    "It's a long project with a big payoff.|Đó là dự án dài hơi nhưng lợi lớn.",
+    "Investigators uncovered payoffs to officials.|Các điều tra viên phát hiện những khoản chung chi cho quan chức.",
+    "The payoff for all that practice came at the concert.|Thành quả của bao ngày luyện tập đến vào buổi hòa nhạc.",
+    "The joke has a great payoff at the end.|Câu chuyện cười có một cú chốt rất đắt ở cuối."
+  ],
+  "annum": [
+    "The loan carries five percent interest per annum.|Khoản vay chịu lãi năm phần trăm mỗi năm.",
+    "She earns sixty thousand dollars per annum.|Cô ấy kiếm sáu mươi nghìn đô la mỗi năm.",
+    "Rent rises by two percent per annum.|Tiền thuê tăng hai phần trăm mỗi năm.",
+    "The fee is two hundred dollars per annum.|Phí là hai trăm đô la mỗi năm.",
+    "Visitors to the park now exceed a million per annum.|Lượng khách đến công viên giờ vượt một triệu người mỗi năm."
+  ],
+  "clout": [
+    "The union still has real political clout.|Công đoàn vẫn còn ảnh hưởng chính trị thật sự.",
+    "Small suppliers have little clout in talks.|Các nhà cung cấp nhỏ ít có tiếng nói trong đàm phán.",
+    "His name carries clout in the industry.|Tên tuổi của ông ấy có sức nặng trong ngành.",
+    "Big retailers use their clout to push prices down.|Các nhà bán lẻ lớn dùng thế lực để ép giá xuống.",
+    "Young voters have more clout than ever.|Cử tri trẻ có ảnh hưởng hơn bao giờ hết."
+  ],
+  "tonne": [
+    "The factory produces a thousand tonnes a month.|Nhà máy sản xuất một nghìn tấn mỗi tháng.",
+    "The price fell to $400 per tonne.|Giá giảm còn 400 đô la một tấn.",
+    "They shipped twelve tonnes of coffee.|Họ xuất đi mười hai tấn cà phê.",
+    "The bridge can hold up to forty tonnes.|Cây cầu chịu được tải trọng tới bốn mươi tấn.",
+    "An adult elephant can weigh six tonnes.|Một con voi trưởng thành có thể nặng sáu tấn."
+  ]
 }

@@ -2,301 +2,421 @@
   "division": [
     "The division of labor at home still feels unfair.|Việc phân chia công việc nhà vẫn thấy không công bằng.",
     "There's a deep division between the two groups.|Có sự chia rẽ sâu sắc giữa hai nhóm.",
-    "She was promoted to head the sales division.|Cô ấy được đề bạt lên đứng đầu bộ phận bán hàng."
+    "She was promoted to head the sales division.|Cô ấy được đề bạt lên đứng đầu bộ phận bán hàng.",
+    "Long division was the hardest part of math for me.|Phép chia số lớn là phần khó nhất của môn toán với tôi.",
+    "The team plays in the second division.|Đội bóng chơi ở giải hạng hai."
   ],
   "actual": [
     "The actual cost was double the estimate.|Chi phí thực tế cao gấp đôi dự tính.",
     "Nobody knows the actual number of victims.|Không ai biết con số nạn nhân thực sự.",
-    "In actual fact, she never signed anything.|Thực tế thì cô ấy chưa ký gì cả."
+    "In actual fact, she never signed anything.|Thực tế thì cô ấy chưa ký gì cả.",
+    "The actual wedding was small, but the party was huge.|Lễ cưới thực tế nhỏ thôi, nhưng bữa tiệc thì rất lớn.",
+    "The photos look nothing like the actual hotel.|Ảnh chụp chẳng giống khách sạn thật chút nào."
   ],
   "prior": [
     "Please read the notes prior to the meeting.|Vui lòng đọc tài liệu trước cuộc họp.",
     "No prior experience is needed for this job.|Công việc này không cần kinh nghiệm trước đó.",
-    "You need prior approval to take equipment home.|Bạn cần được phê duyệt trước để mang thiết bị về nhà."
+    "You need prior approval to take equipment home.|Bạn cần được phê duyệt trước để mang thiết bị về nhà.",
+    "Prior to joining us, she worked in Tokyo.|Trước khi về với chúng tôi, cô ấy làm việc ở Tokyo.",
+    "Do you have any prior commitments on Friday?|Thứ Sáu bạn có hẹn trước việc gì không?"
   ],
   "species": [
     "The mountain gorilla is an endangered species.|Khỉ đột núi là một loài đang nguy cấp.",
     "They discovered a new species of frog.|Họ phát hiện một loài ếch mới.",
-    "Invasive species have wiped out the local fish.|Các loài xâm lấn đã diệt sạch cá bản địa."
+    "Invasive species have wiped out the local fish.|Các loài xâm lấn đã diệt sạch cá bản địa.",
+    "Humans are just one species among millions.|Con người chỉ là một loài trong hàng triệu loài.",
+    "How many species of birds live on the island?|Có bao nhiêu loài chim sống trên đảo?"
   ],
   "investment": [
     "Foreign investment has doubled in five years.|Đầu tư nước ngoài đã tăng gấp đôi trong năm năm.",
     "A good mattress is a great investment.|Một chiếc nệm tốt là khoản đầu tư đáng giá.",
-    "Investment in education pays off slowly but surely.|Đầu tư vào giáo dục sinh lời chậm mà chắc."
+    "Investment in education pays off slowly but surely.|Đầu tư vào giáo dục sinh lời chậm mà chắc.",
+    "The new factory is a huge investment for a small town.|Nhà máy mới là một khoản đầu tư lớn đối với một thị trấn nhỏ.",
+    "What's the return on investment for solar panels?|Lắp tấm pin mặt trời thì tỷ suất hoàn vốn là bao nhiêu?"
   ],
   "previously": [
     "The building was previously a shoe factory.|Tòa nhà này trước đây là một xưởng giày.",
     "As previously stated, refunds take ten days.|Như đã nêu ở trên, việc hoàn tiền mất mười ngày.",
-    "They found a previously unknown cave nearby.|Họ tìm thấy một hang động chưa từng được biết gần đó."
+    "They found a previously unknown cave nearby.|Họ tìm thấy một hang động chưa từng được biết gần đó.",
+    "The painting was previously owned by a famous singer.|Bức tranh trước đây thuộc sở hữu của một ca sĩ nổi tiếng.",
+    "She had previously worked as a nurse.|Trước đó, cô ấy từng làm y tá."
   ],
   "sister-in-law": [
     "My sister-in-law works nights at the hospital.|Chị dâu tôi làm đêm ở bệnh viện.",
     "His sister-in-law lives two streets away.|Em vợ anh ấy sống cách đó hai con phố.",
-    "She's flying in with her future sister-in-law.|Cô ấy bay tới cùng chị dâu tương lai."
+    "She's flying in with her future sister-in-law.|Cô ấy bay tới cùng chị dâu tương lai.",
+    "I borrowed my sister-in-law's car for the weekend.|Tôi mượn xe của chị dâu đi cuối tuần.",
+    "Her sister-in-law had a baby girl last week.|Chị chồng cô ấy vừa sinh một bé gái tuần trước."
   ],
   "estate": [
     "She works in real estate down by the harbor.|Cô ấy làm bất động sản gần khu cảng.",
     "They grew up on a housing estate outside London.|Họ lớn lên trong một khu nhà ở ngoại ô London.",
-    "His estate was worth millions when he died.|Tài sản của ông đáng giá hàng triệu khi ông mất."
+    "His estate was worth millions when he died.|Tài sản của ông đáng giá hàng triệu khi ông mất.",
+    "The family owns a large tea estate in the hills.|Gia đình họ sở hữu một đồn điền chè lớn trên đồi.",
+    "Estate agents say prices will rise again.|Giới môi giới nhà đất nói giá sẽ tăng trở lại."
   ],
   "faith": [
     "I still have faith in her judgment.|Tôi vẫn tin vào phán đoán của cô ấy.",
     "He lost faith in the system after that.|Anh ấy mất niềm tin vào hệ thống sau chuyện đó.",
-    "Her religious faith kept the family together.|Đức tin của bà đã giữ gia đình gắn bó."
+    "Her religious faith kept the family together.|Đức tin của bà đã giữ gia đình gắn bó.",
+    "Keeping the faith through hard times isn't easy.|Giữ vững niềm tin qua những lúc khó khăn chẳng dễ dàng gì.",
+    "People of different faiths live peacefully here.|Những người thuộc các tôn giáo khác nhau sống hòa bình ở đây."
   ],
   "profile": [
     "You should update your profile picture.|Bạn nên cập nhật ảnh đại diện đi.",
     "The actor keeps a low profile these days.|Nam diễn viên dạo này khá kín tiếng.",
-    "It only takes a minute to create a profile.|Chỉ mất một phút để tạo hồ sơ."
+    "It only takes a minute to create a profile.|Chỉ mất một phút để tạo hồ sơ.",
+    "The police built a profile of the suspect.|Cảnh sát dựng hồ sơ phân tích nghi phạm.",
+    "The photo shows her face in profile.|Bức ảnh chụp khuôn mặt nghiêng của cô ấy."
   ],
   "sexual": [
     "The company fired him over sexual harassment claims.|Công ty sa thải anh ta vì cáo buộc quấy rối tình dục.",
-    "Nobody should be judged for their sexual orientation.|Không ai đáng bị phán xét vì khuynh hướng tính dục.",
-    "The clinic offers free sexual health checks.|Phòng khám có kiểm tra sức khỏe tình dục miễn phí."
+    "Schools should teach young people about sexual consent.|Trường học nên dạy thanh thiếu niên về sự đồng thuận trong tình dục.",
+    "The clinic offers free sexual health checks.|Phòng khám có kiểm tra sức khỏe tình dục miễn phí.",
+    "Most plants use sexual reproduction.|Phần lớn thực vật sinh sản hữu tính.",
+    "The film contains some sexual content.|Bộ phim có một số nội dung tình dục."
   ],
   "understanding": [
     "The course gave me a better understanding of taxes.|Khóa học giúp tôi hiểu rõ hơn về thuế.",
     "The two sides finally reached an understanding.|Hai bên cuối cùng cũng đạt được sự thông hiểu.",
-    "My boss is an understanding person about family stuff.|Ông chủ tôi rất thông cảm chuyện gia đình."
+    "My boss is an understanding person about family stuff.|Ông chủ tôi rất thông cảm chuyện gia đình.",
+    "My understanding is that the meeting has moved to Monday.|Theo tôi hiểu thì cuộc họp đã dời sang thứ Hai.",
+    "Thank you for your understanding.|Cảm ơn sự thông cảm của bạn."
   ],
   "prime": [
     "The prime minister will speak at eight.|Thủ tướng sẽ phát biểu lúc tám giờ.",
     "This is a prime example of bad design.|Đây là ví dụ điển hình của thiết kế tệ.",
-    "At thirty-five, she's still in her prime.|Ba mươi lăm tuổi, cô ấy vẫn đang sung sức."
+    "At thirty-five, she's still in her prime.|Ba mươi lăm tuổi, cô ấy vẫn đang sung sức.",
+    "Seven is a prime number.|Bảy là một số nguyên tố.",
+    "The house is in a prime location near the beach.|Ngôi nhà ở vị trí đắc địa gần bãi biển."
   ],
   "long-distance": [
     "They kept a long-distance relationship going for years.|Họ duy trì chuyện yêu xa suốt nhiều năm.",
     "He trains as a long-distance runner every morning.|Anh tập chạy đường dài mỗi sáng.",
-    "Long-distance travel wears me out completely.|Đi lại đường dài làm tôi kiệt sức."
+    "Long-distance travel wears me out completely.|Đi lại đường dài làm tôi kiệt sức.",
+    "Long-distance calls used to be very expensive.|Gọi điện đường dài từng rất đắt.",
+    "Truck drivers on long-distance routes need regular breaks.|Tài xế xe tải chạy đường dài cần được nghỉ thường xuyên."
   ],
   "remains": [
     "Human remains were found in the old well.|Người ta tìm thấy hài cốt trong cái giếng cũ.",
     "We toured the remains of a Roman bath.|Chúng tôi tham quan tàn tích một nhà tắm La Mã.",
-    "She scraped the remains of dinner into the bin.|Cô ấy trút phần cơm còn lại vào thùng rác."
+    "She scraped the remains of dinner into the bin.|Cô ấy trút phần cơm còn lại vào thùng rác.",
+    "Scientists studied the remains of a dinosaur.|Các nhà khoa học nghiên cứu hóa thạch của một con khủng long.",
+    "The soldier's remains were finally returned to his family.|Hài cốt của người lính cuối cùng đã được đưa về với gia đình."
   ],
   "cast": [
     "The whole cast came out for the final bow.|Cả dàn diễn viên ra chào khán giả lần cuối.",
     "The trees cast long shadows across the lawn.|Cây cối in bóng dài trên bãi cỏ.",
-    "He wore a plaster cast for six weeks.|Anh ấy bó bột suốt sáu tuần."
+    "He wore a plaster cast for six weeks.|Anh ấy bó bột suốt sáu tuần.",
+    "She was cast as the lead in the school play.|Cô ấy được chọn đóng vai chính trong vở kịch của trường.",
+    "The new evidence casts doubt on his story.|Bằng chứng mới khiến lời khai của anh ta bị nghi ngờ."
   ],
   "marketing": [
     "Their marketing strategy targets young parents.|Chiến lược tiếp thị của họ nhắm vào các bậc phụ huynh trẻ.",
     "She moved into digital marketing last year.|Cô ấy chuyển sang làm marketing số năm ngoái.",
-    "The marketing department is on the third floor.|Phòng marketing ở tầng ba."
+    "The marketing department is on the third floor.|Phòng marketing ở tầng ba.",
+    "Good marketing can sell almost anything.|Tiếp thị giỏi có thể bán được gần như mọi thứ.",
+    "Clever marketing turned the tiny brand into a household name.|Chiến lược tiếp thị khéo léo đã biến thương hiệu nhỏ thành cái tên quen thuộc với mọi nhà."
   ],
   "shooting": [
     "The mass shooting shocked the whole town.|Vụ nổ súng hàng loạt gây sốc cho cả thị trấn.",
     "We saw a shooting star over the lake.|Chúng tôi thấy một ngôi sao băng trên mặt hồ.",
-    "Shooting of the film starts in April.|Việc quay phim bắt đầu vào tháng Tư."
+    "Shooting of the film starts in April.|Việc quay phim bắt đầu vào tháng Tư.",
+    "He took up target shooting as a hobby.|Anh ấy chơi bắn súng thể thao như một sở thích.",
+    "Shooting in low light is hard for beginners.|Chụp ảnh trong điều kiện thiếu sáng rất khó với người mới."
   ],
   "neither": [
     "Neither of them remembered to bring the tickets.|Chẳng ai trong hai người nhớ mang vé.",
     "I can't swim, and neither can my brother.|Tôi không biết bơi, anh tôi cũng không.",
-    "Neither side was willing to apologize first.|Không bên nào chịu xin lỗi trước."
+    "Neither side was willing to apologize first.|Không bên nào chịu xin lỗi trước.",
+    "\"I don't like coffee.\" \"Neither do I.\"|\"Tôi không thích cà phê.\" \"Tôi cũng vậy.\"",
+    "Neither option is perfect, but we have to choose.|Không phương án nào hoàn hảo, nhưng chúng ta phải chọn."
   ],
   "stock market": [
     "The stock market crashed and he lost everything.|Thị trường chứng khoán sụp đổ và anh ta mất hết.",
     "My uncle invests in the stock market every month.|Chú tôi đầu tư vào thị trường chứng khoán hằng tháng.",
-    "Stock market prices barely moved this week.|Giá trên thị trường chứng khoán tuần này gần như không đổi."
+    "Stock market prices barely moved this week.|Giá trên thị trường chứng khoán tuần này gần như không đổi.",
+    "Nobody can predict the stock market.|Không ai có thể đoán trước thị trường chứng khoán.",
+    "After the news, the stock market rose sharply.|Sau tin đó, thị trường chứng khoán tăng mạnh."
   ],
   "tough": [
     "Firing her was a really tough decision.|Sa thải cô ấy là một quyết định rất khó khăn.",
     "He acts like a tough guy around his friends.|Anh ta tỏ ra cứng rắn khi ở với bạn bè.",
-    "The steak was tough and completely tasteless.|Miếng bò dai nhách và nhạt hoàn toàn."
+    "The steak was tough and completely tasteless.|Miếng bò dai nhách và nhạt hoàn toàn.",
+    "The government promised to get tough on crime.|Chính phủ hứa sẽ mạnh tay với tội phạm.",
+    "These boots are tough enough for any weather.|Đôi ủng này đủ bền cho mọi thời tiết."
   ],
   "billion": [
     "The deal was worth almost a billion dollars.|Thương vụ đó trị giá gần một tỷ đô.",
     "Billions of people still lack clean water.|Hàng tỷ người vẫn thiếu nước sạch.",
-    "Streaming became a billion-dollar industry very fast.|Phát trực tuyến trở thành ngành tỷ đô rất nhanh."
+    "Streaming became a billion-dollar industry very fast.|Phát trực tuyến trở thành ngành tỷ đô rất nhanh.",
+    "The world population is over eight billion.|Dân số thế giới đã vượt tám tỷ người.",
+    "A billion is a thousand million.|Một tỷ bằng một nghìn triệu."
   ],
   "existing": [
     "Existing customers get a discount on renewals.|Khách hàng hiện tại được giảm giá khi gia hạn.",
     "The existing system can't handle that many users.|Hệ thống hiện tại không chịu nổi lượng người dùng đó.",
-    "Existing laws already cover this kind of fraud.|Luật hiện hành đã bao trùm loại gian lận này."
+    "Existing laws already cover this kind of fraud.|Luật hiện hành đã bao trùm loại gian lận này.",
+    "We'll improve the existing roads before building new ones.|Chúng tôi sẽ nâng cấp các con đường hiện có trước khi làm đường mới.",
+    "The new drug may help people with existing heart problems.|Thuốc mới có thể giúp những người đã có bệnh tim."
   ],
   "real estate": [
     "Our real estate agent found us three options.|Người môi giới nhà đất tìm cho chúng tôi ba lựa chọn.",
     "The real estate market cooled off last winter.|Thị trường bất động sản nguội đi mùa đông vừa rồi.",
-    "He made his money investing in real estate.|Ông ta làm giàu nhờ đầu tư bất động sản."
+    "He made his money investing in real estate.|Ông ta làm giàu nhờ đầu tư bất động sản.",
+    "Real estate prices in Hanoi have doubled in ten years.|Giá bất động sản ở Hà Nội đã tăng gấp đôi trong mười năm.",
+    "She got her real estate license last year.|Năm ngoái cô ấy lấy được giấy phép hành nghề môi giới bất động sản."
   ],
   "technical": [
     "Call technical support if the screen freezes.|Gọi hỗ trợ kỹ thuật nếu màn hình bị treo.",
     "We had technical problems during the live stream.|Chúng tôi gặp sự cố kỹ thuật khi phát trực tiếp.",
-    "The manual is full of technical terms.|Sách hướng dẫn đầy thuật ngữ chuyên môn."
+    "The manual is full of technical terms.|Sách hướng dẫn đầy thuật ngữ chuyên môn.",
+    "The match was delayed due to technical difficulties.|Trận đấu bị hoãn do trục trặc kỹ thuật.",
+    "He has great technical skills but poor people skills.|Anh ấy giỏi kỹ thuật nhưng kém kỹ năng giao tiếp."
   ],
   "evil": [
     "The villain isn't really evil, just lonely.|Nhân vật phản diện không hẳn xấu xa, chỉ cô đơn.",
     "Taxes are a necessary evil, I suppose.|Thuế là cái xấu cần thiết, tôi nghĩ vậy.",
-    "The film is really about good and evil.|Bộ phim thực chất nói về thiện và ác."
+    "The film is really about good and evil.|Bộ phim thực chất nói về thiện và ác.",
+    "Some people believe money is the root of all evil.|Có người tin rằng tiền là gốc rễ của mọi điều ác.",
+    "The witch in the story has an evil laugh.|Mụ phù thủy trong truyện có tiếng cười độc ác."
   ],
   "parliament": [
     "She became a member of parliament at thirty.|Cô ấy trở thành nghị sĩ ở tuổi ba mươi.",
     "Parliament voted against the bill last night.|Quốc hội bỏ phiếu chống lại dự luật tối qua.",
-    "The president may dissolve parliament next month.|Tổng thống có thể giải tán quốc hội tháng sau."
+    "The president may dissolve parliament next month.|Tổng thống có thể giải tán quốc hội tháng sau.",
+    "The new law must be approved by parliament.|Luật mới phải được quốc hội thông qua.",
+    "Tourists love taking photos outside the Houses of Parliament.|Du khách rất thích chụp ảnh bên ngoài Tòa nhà Quốc hội Anh."
   ],
   "reference": [
     "He made no reference to the argument at all.|Anh ấy không hề nhắc đến cuộc tranh cãi.",
     "Keep the reference number for your own records.|Giữ lại mã tham chiếu để lưu hồ sơ.",
-    "My old boss agreed to provide a reference.|Cựu quản lý của tôi đồng ý viết thư giới thiệu."
+    "My old boss agreed to provide a reference.|Cựu quản lý của tôi đồng ý viết thư giới thiệu.",
+    "This dictionary is a useful reference for translators.|Cuốn từ điển này là tài liệu tham khảo hữu ích cho người dịch.",
+    "With reference to your letter, we are happy to accept.|Liên quan đến thư của bạn, chúng tôi vui lòng chấp nhận."
   ],
   "core": [
     "Honesty is one of our core values.|Trung thực là một trong những giá trị cốt lõi của chúng tôi.",
     "Nobody has addressed the core of the problem.|Chưa ai giải quyết cái gốc của vấn đề.",
-    "She tossed the apple core into the compost.|Cô ấy ném lõi táo vào thùng phân trộn."
+    "She tossed the apple core into the compost.|Cô ấy ném lõi táo vào thùng phân trộn.",
+    "The earth's core is extremely hot.|Lõi Trái Đất cực kỳ nóng.",
+    "The core of the city is full of old churches.|Khu lõi thành phố đầy những nhà thờ cổ."
   ],
   "reaction": [
     "My first reaction was to laugh out loud.|Phản ứng đầu tiên của tôi là bật cười.",
     "Baking soda and vinegar cause a chemical reaction.|Baking soda và giấm tạo ra phản ứng hóa học.",
-    "He had an allergic reaction to the peanuts.|Anh ấy bị dị ứng với đậu phộng."
+    "He had an allergic reaction to the peanuts.|Anh ấy bị dị ứng với đậu phộng.",
+    "What was his reaction to the news?|Anh ấy phản ứng thế nào trước tin đó?",
+    "One small mistake started a chain reaction.|Một lỗi nhỏ đã gây ra phản ứng dây chuyền."
   ],
   "willing": [
     "She's always willing to help with the kids.|Cô ấy luôn sẵn lòng giúp trông trẻ.",
     "I'd be more than willing to drive you there.|Tôi rất sẵn sàng chở bạn đến đó.",
-    "You need willing volunteers, not paid staff.|Bạn cần tình nguyện viên tự nguyện, không phải nhân viên trả lương."
+    "You need willing volunteers, not paid staff.|Bạn cần tình nguyện viên tự nguyện, không phải nhân viên trả lương.",
+    "Are you willing to work weekends?|Bạn có sẵn sàng làm việc cuối tuần không?",
+    "He wasn't willing to admit he was wrong.|Anh ta không chịu thừa nhận mình sai."
   ],
   "proposed": [
     "The proposed changes worry a lot of parents.|Những thay đổi được đề xuất khiến nhiều phụ huynh lo lắng.",
     "Residents oppose the proposed site for the factory.|Người dân phản đối địa điểm dự kiến xây nhà máy.",
-    "Proposed legislation would ban single-use plastics.|Dự luật đề xuất sẽ cấm nhựa dùng một lần."
+    "Proposed legislation would ban single-use plastics.|Dự luật đề xuất sẽ cấm nhựa dùng một lần.",
+    "Under the proposed plan, three schools would close.|Theo kế hoạch được đề xuất, ba trường học sẽ đóng cửa.",
+    "The proposed date for the meeting is May 5.|Ngày dự kiến cho cuộc họp là mùng 5 tháng Năm."
   ],
   "purchase": [
-    "Keep the receipt as proof of purchase.|Giữ hóa đơn làm bằng chứng mua hàng.",
+    "The purchase of the new building took two years.|Việc mua tòa nhà mới mất hai năm.",
     "You can purchase tickets right at the gate.|Bạn có thể mua vé ngay tại cổng.",
-    "It was the best purchase I made all year.|Đó là món hàng đáng nhất tôi mua cả năm."
+    "It was the best purchase I made all year.|Đó là món hàng đáng nhất tôi mua cả năm.",
+    "Online purchases must be returned within 30 days.|Hàng mua trực tuyến phải được trả lại trong vòng 30 ngày.",
+    "The purchase price includes free delivery.|Giá mua đã bao gồm giao hàng miễn phí."
   ],
   "crew": [
     "The crew of the ship worked in shifts.|Thủy thủ đoàn của tàu làm việc theo phiên.",
     "The cabin crew handed out blankets and water.|Tổ bay phát chăn và nước.",
-    "A film crew blocked our street all morning.|Một ê-kíp làm phim chặn cả con phố suốt buổi sáng."
+    "A film crew blocked our street all morning.|Một ê-kíp làm phim chặn cả con phố suốt buổi sáng.",
+    "The crew worked through the night to repair the road.|Đội thợ làm suốt đêm để sửa đường.",
+    "All crew members must wear a uniform.|Tất cả thành viên phi hành đoàn phải mặc đồng phục."
   ],
   "fixed": [
     "We agreed on a fixed price beforehand.|Chúng tôi đã thống nhất một mức giá cố định từ trước.",
     "The loan has a fixed rate for five years.|Khoản vay có lãi suất cố định trong năm năm.",
-    "Good news, the printer is finally fixed.|Tin tốt là máy in cuối cùng cũng sửa xong."
+    "Good news, the printer is finally fixed.|Tin tốt là máy in cuối cùng cũng sửa xong.",
+    "People on fixed incomes suffer most when prices rise.|Những người có thu nhập cố định chịu thiệt nhất khi giá cả tăng.",
+    "The chairs are fixed to the floor.|Ghế được gắn cố định xuống sàn."
   ],
   "profit": [
     "The cafe makes a small profit each month.|Quán cà phê có lãi chút ít mỗi tháng.",
     "Their net profit fell sharply last quarter.|Lợi nhuận thuần của họ giảm mạnh quý trước.",
-    "A few investors profited from the crash.|Vài nhà đầu tư đã hưởng lợi từ vụ sụp đổ."
+    "A few investors profited from the crash.|Vài nhà đầu tư đã hưởng lợi từ vụ sụp đổ.",
+    "They sold the house at a profit.|Họ bán căn nhà và có lãi.",
+    "Nobody should profit from other people's pain.|Không ai nên trục lợi từ nỗi đau của người khác."
   ],
   "domestic": [
     "Domestic flights leave from the smaller terminal.|Các chuyến bay nội địa khởi hành từ nhà ga nhỏ hơn.",
     "The domestic market is shrinking every year.|Thị trường trong nước đang thu hẹp mỗi năm.",
-    "We split the domestic chores fifty-fifty.|Chúng tôi chia việc nhà năm mươi năm mươi."
+    "We split the domestic chores fifty-fifty.|Chúng tôi chia việc nhà năm mươi năm mươi.",
+    "The government wants to boost domestic tourism.|Chính phủ muốn thúc đẩy du lịch nội địa.",
+    "Domestic violence affects families of every kind.|Bạo lực gia đình ảnh hưởng đến mọi kiểu gia đình."
   ],
   "originally": [
     "She's originally from Spain but grew up here.|Cô ấy gốc Tây Ban Nha nhưng lớn lên ở đây.",
     "The wedding was originally planned for June.|Đám cưới ban đầu dự định vào tháng Sáu.",
-    "This church was originally built of wood.|Nhà thờ này ban đầu được xây bằng gỗ."
+    "This church was originally built of wood.|Nhà thờ này ban đầu được xây bằng gỗ.",
+    "Originally, the plan was to stay for a week.|Ban đầu, kế hoạch là ở lại một tuần.",
+    "The song was originally written for another singer.|Bài hát vốn được viết cho một ca sĩ khác."
   ],
   "user": [
     "The app has two million registered users.|Ứng dụng có hai triệu người dùng đã đăng ký.",
     "The new menu is much more user friendly.|Menu mới thân thiện với người dùng hơn nhiều.",
-    "Designers often forget about the end user.|Nhà thiết kế thường quên mất người dùng cuối."
+    "Designers often forget about the end user.|Nhà thiết kế thường quên mất người dùng cuối.",
+    "Each user needs a separate password.|Mỗi người dùng cần một mật khẩu riêng.",
+    "Users have complained about the new design.|Người dùng đã phàn nàn về thiết kế mới."
   ],
   "loan": [
     "They took out a loan to fix the roof.|Họ vay tiền để sửa mái nhà.",
     "He's still repaying his student loan.|Anh ấy vẫn đang trả khoản vay sinh viên.",
-    "I loaned my camera to a friend.|Tôi cho một người bạn mượn máy ảnh."
+    "I loaned my camera to a friend.|Tôi cho một người bạn mượn máy ảnh.",
+    "The bank approved our loan in three days.|Ngân hàng duyệt khoản vay của chúng tôi trong ba ngày.",
+    "The painting is on loan from a museum in Paris.|Bức tranh được một bảo tàng ở Paris cho mượn."
   ],
   "factor": [
     "Price was the deciding factor for us.|Giá cả là yếu tố quyết định với chúng tôi.",
     "Smoking is a major risk factor for cancer.|Hút thuốc là yếu tố nguy cơ lớn gây ung thư.",
-    "Luck was definitely a factor in his success.|May mắn chắc chắn góp phần vào thành công của anh ấy."
+    "Luck was definitely a factor in his success.|May mắn chắc chắn góp phần vào thành công của anh ấy.",
+    "Many factors affect the price of rice.|Nhiều yếu tố ảnh hưởng đến giá gạo.",
+    "Don't forget to factor in the cost of parking.|Đừng quên tính cả chi phí gửi xe."
   ],
   "route": [
     "The app shows the shortest route home.|Ứng dụng chỉ đường về nhà ngắn nhất.",
     "They cut the bus route to save money.|Họ cắt tuyến xe buýt để tiết kiệm tiền.",
-    "Hard work is the only route to success.|Làm việc chăm chỉ là con đường duy nhất đến thành công."
+    "Hard work is the only route to success.|Làm việc chăm chỉ là con đường duy nhất đến thành công.",
+    "The marathon route goes past the river.|Lộ trình cuộc thi marathon đi ngang qua bờ sông.",
+    "Our route took us through three countries.|Hành trình của chúng tôi đi qua ba quốc gia."
   ],
   "squad": [
     "He was left out of the national squad.|Anh ấy bị gạt khỏi đội tuyển quốc gia.",
     "The bomb squad closed the whole street.|Đội xử lý bom mìn phong tỏa cả con phố.",
-    "Squad members trained together every afternoon.|Các thành viên trong đội tập cùng nhau mỗi chiều."
+    "Squad members trained together every afternoon.|Các thành viên trong đội tập cùng nhau mỗi chiều.",
+    "The coach named a young squad for the tournament.|Huấn luyện viên công bố một đội hình trẻ cho giải đấu.",
+    "She's part of a squad of volunteers who clean the beach.|Cô ấy thuộc một nhóm tình nguyện viên dọn dẹp bãi biển."
   ],
   "abuse": [
     "The charity investigates reports of child abuse.|Tổ chức từ thiện điều tra các báo cáo lạm dụng trẻ em.",
     "He was fired for abuse of power.|Anh ta bị sa thải vì lạm quyền.",
-    "Referees put up with verbal abuse every week.|Trọng tài phải chịu lời lăng mạ mỗi tuần."
+    "Referees put up with verbal abuse every week.|Trọng tài phải chịu lời lăng mạ mỗi tuần.",
+    "Don't abuse your position to get favors.|Đừng lạm dụng chức vụ để xin ưu ái.",
+    "The helpline offers support to victims of domestic abuse.|Đường dây nóng hỗ trợ nạn nhân bạo hành gia đình."
   ],
   "candidate": [
     "She's the leading candidate for the job.|Cô ấy là ứng viên dẫn đầu cho vị trí đó.",
     "Every presidential candidate promised lower taxes.|Ứng viên tổng thống nào cũng hứa giảm thuế.",
-    "The successful candidate will start in March.|Người được chọn sẽ bắt đầu vào tháng Ba."
+    "The successful candidate will start in March.|Người được chọn sẽ bắt đầu vào tháng Ba.",
+    "Each candidate has five minutes to speak.|Mỗi ứng viên có năm phút phát biểu.",
+    "He's a strong candidate for player of the year.|Anh ấy là ứng viên sáng giá cho danh hiệu cầu thủ xuất sắc nhất năm."
   ],
   "developing": [
     "Many developing countries struggle with clean water.|Nhiều nước đang phát triển gặp khó khăn về nước sạch.",
     "Developing economies grew faster than expected.|Các nền kinh tế đang phát triển tăng nhanh hơn dự kiến.",
-    "Doctors warned of a developing crisis in hospitals.|Các bác sĩ cảnh báo một cuộc khủng hoảng đang hình thành ở bệnh viện."
+    "Doctors warned of a developing crisis in hospitals.|Các bác sĩ cảnh báo một cuộc khủng hoảng đang hình thành ở bệnh viện.",
+    "The story is still developing, so check back later.|Câu chuyện vẫn đang diễn biến, hãy quay lại xem sau.",
+    "Photos used to take days of developing in a darkroom.|Ngày xưa ảnh phải mất nhiều ngày tráng rửa trong phòng tối."
   ],
   "facilities": [
-    "The school has excellent sports facilities.|Trường có cơ sở thể thao rất tốt.",
+    "The hotel's facilities include a gym and two pools.|Tiện nghi của khách sạn gồm một phòng gym và hai hồ bơi.",
     "Medical facilities in the area are limited.|Cơ sở y tế trong vùng còn hạn chế.",
-    "The campsite has facilities for disabled visitors.|Khu cắm trại có tiện nghi cho khách khuyết tật."
+    "The campsite has facilities for disabled visitors.|Khu cắm trại có tiện nghi cho khách khuyết tật.",
+    "There are no toilet facilities on the island.|Trên đảo không có nhà vệ sinh.",
+    "The city needs more leisure facilities for young people.|Thành phố cần thêm các cơ sở vui chơi giải trí cho giới trẻ."
   ],
   "fox": [
     "A red fox crossed the road at dawn.|Một con cáo đỏ băng qua đường lúc rạng sáng.",
     "Foxes have been raiding our bins again.|Mấy con cáo lại lục thùng rác của chúng tôi.",
-    "He's sly as a fox in negotiations.|Anh ta ranh như cáo khi thương lượng."
+    "He's sly as a fox in negotiations.|Anh ta ranh như cáo khi thương lượng.",
+    "The fox is a symbol of cleverness in many stories.|Con cáo là biểu tượng của sự khôn ngoan trong nhiều câu chuyện.",
+    "A fox cub was playing near its den.|Một con cáo con đang chơi gần hang."
   ],
   "grown-up": [
     "Try to act like a grown-up for once.|Thử cư xử như người lớn một lần xem.",
     "Both her grown-up children live abroad now.|Hai người con đã trưởng thành của bà giờ sống ở nước ngoài.",
-    "We finally had a grown-up conversation about money.|Cuối cùng chúng tôi cũng nói chuyện tiền bạc một cách chín chắn."
+    "We finally had a grown-up conversation about money.|Cuối cùng chúng tôi cũng nói chuyện tiền bạc một cách chín chắn.",
+    "The grown-ups talked while the kids played outside.|Người lớn trò chuyện trong khi bọn trẻ chơi ngoài sân.",
+    "This movie is for grown-ups only.|Bộ phim này chỉ dành cho người lớn."
   ],
   "liberal": [
     "His parents had fairly liberal views on marriage.|Bố mẹ anh có quan điểm khá phóng khoáng về hôn nhân.",
     "The country calls itself a liberal democracy.|Nước này tự gọi mình là nền dân chủ tự do.",
-    "She was liberal with the garlic again.|Cô ấy lại cho tỏi rất mạnh tay."
+    "She was liberal with the garlic again.|Cô ấy lại cho tỏi rất mạnh tay.",
+    "She studied liberal arts at a small college.|Cô ấy học ngành khoa học xã hội và nhân văn ở một trường cao đẳng nhỏ.",
+    "Teachers here have a liberal attitude toward uniforms.|Giáo viên ở đây có thái độ thoải mái về đồng phục."
   ],
   "payment": [
     "You can make a payment by card online.|Bạn có thể thanh toán bằng thẻ trên mạng.",
     "The monthly payment is due on the fifth.|Khoản trả hằng tháng đến hạn vào ngày mùng năm.",
-    "They charge extra for late payment.|Họ thu thêm phí nếu trả muộn."
+    "They charge extra for late payment.|Họ thu thêm phí nếu trả muộn.",
+    "We accept payment by card or cash.|Chúng tôi nhận thanh toán bằng thẻ hoặc tiền mặt.",
+    "Payment in full is required before we ship the goods.|Cần thanh toán đủ trước khi chúng tôi giao hàng."
   ],
   "sector": [
     "She left the private sector to teach.|Cô ấy rời khu vực tư nhân để đi dạy.",
     "The banking sector lost thousands of jobs.|Ngành ngân hàng mất hàng nghìn việc làm.",
-    "Public sector wages have barely risen.|Lương khu vực công gần như không tăng."
+    "Public sector wages have barely risen.|Lương khu vực công gần như không tăng.",
+    "Tourism is the fastest-growing sector of the economy.|Du lịch là ngành phát triển nhanh nhất của nền kinh tế.",
+    "The manufacturing sector employs half the town.|Ngành sản xuất tạo việc làm cho một nửa thị trấn."
   ],
   "climate change": [
     "Governments promised to combat climate change together.|Các chính phủ cam kết cùng chống biến đổi khí hậu.",
     "Farmers already feel the effects of climate change.|Nông dân đã cảm nhận rõ tác động của biến đổi khí hậu.",
-    "Climate change policy dominated the whole summit.|Chính sách biến đổi khí hậu chiếm trọn hội nghị."
+    "Climate change policy dominated the whole summit.|Chính sách biến đổi khí hậu chiếm trọn hội nghị.",
+    "Climate change is making storms stronger.|Biến đổi khí hậu đang khiến các cơn bão mạnh hơn.",
+    "Young people are leading the fight against climate change.|Giới trẻ đang dẫn đầu cuộc chiến chống biến đổi khí hậu."
   ],
   "high-tech": [
     "The high-tech industry hires thousands of graduates.|Ngành công nghệ cao tuyển hàng nghìn sinh viên mới ra trường.",
     "The hospital bought high-tech equipment last year.|Bệnh viện mua thiết bị công nghệ cao năm ngoái.",
-    "He loves gadgets, the more high-tech the better.|Anh ấy thích đồ công nghệ, càng cao cấp càng tốt."
+    "He loves gadgets, the more high-tech the better.|Anh ấy thích đồ công nghệ, càng cao cấp càng tốt.",
+    "Farming has become surprisingly high-tech.|Nông nghiệp đã trở nên công nghệ cao đến bất ngờ.",
+    "Many high-tech companies are based in this area.|Nhiều công ty công nghệ cao đặt trụ sở ở khu vực này."
   ],
   "specifically": [
     "The chair was specifically designed for tall people.|Chiếc ghế được thiết kế riêng cho người cao.",
     "He specifically mentioned your name in the email.|Anh ấy nhắc rõ tên bạn trong email.",
-    "These ads are aimed specifically at teenagers.|Mấy quảng cáo này nhắm cụ thể vào thanh thiếu niên."
+    "These ads are aimed specifically at teenagers.|Mấy quảng cáo này nhắm cụ thể vào thanh thiếu niên.",
+    "I specifically asked for no sugar.|Tôi đã dặn rõ là không đường mà.",
+    "The course is for beginners, more specifically, adults with no experience.|Khóa học dành cho người mới, cụ thể hơn là người lớn chưa có kinh nghiệm."
   ],
   "urban": [
     "Rents in urban areas keep climbing.|Giá thuê ở khu vực đô thị cứ tăng.",
     "Urban planning here ignores cyclists completely.|Quy hoạch đô thị ở đây bỏ qua hoàn toàn người đi xe đạp.",
-    "She misses the noise of urban life.|Cô ấy nhớ sự ồn ào của đời sống thành thị."
+    "She misses the noise of urban life.|Cô ấy nhớ sự ồn ào của đời sống thành thị.",
+    "The urban population is growing quickly.|Dân số đô thị đang tăng nhanh.",
+    "Urban gardens help cool the city.|Vườn đô thị giúp làm mát thành phố."
   ],
   "aircraft": [
     "Two military aircraft flew low over the town.|Hai máy bay quân sự bay thấp qua thị trấn.",
     "The aircraft landed safely despite the storm.|Máy bay hạ cánh an toàn dù có bão.",
-    "He learned to fly light aircraft at twenty.|Anh học lái máy bay hạng nhẹ ở tuổi hai mươi."
+    "He learned to fly light aircraft at twenty.|Anh học lái máy bay hạng nhẹ ở tuổi hai mươi.",
+    "The airline is buying fifty new aircraft.|Hãng hàng không đang mua năm mươi chiếc máy bay mới.",
+    "An aircraft carrier is like a floating city.|Tàu sân bay giống như một thành phố nổi."
   ],
   "considering": [
     "Considering the circumstances, she handled it well.|Xét theo hoàn cảnh thì cô ấy xử lý rất tốt.",
     "Not bad for a first try, considering.|Kể ra thì cũng không tệ cho lần đầu.",
-    "We're seriously considering moving to Da Nang.|Chúng tôi đang cân nhắc chuyện chuyển ra Đà Nẵng."
+    "We're seriously considering moving to Da Nang.|Chúng tôi đang cân nhắc chuyện chuyển ra Đà Nẵng.",
+    "She's in great shape, considering her age.|Bà ấy vẫn rất khỏe, nếu xét đến tuổi tác.",
+    "Considering the price, the food was excellent.|Xét về giá cả thì đồ ăn rất tuyệt."
   ],
   "corporate": [
     "The corporate culture here rewards long hours.|Văn hóa doanh nghiệp ở đây tôn vinh việc làm thêm giờ.",
     "She works in corporate finance in Singapore.|Cô ấy làm tài chính doanh nghiệp ở Singapore.",
-    "He quit the corporate world to open a bakery.|Anh ấy rời chốn công sở để mở tiệm bánh."
+    "He quit the corporate world to open a bakery.|Anh ấy rời chốn công sở để mở tiệm bánh.",
+    "Many corporate clients book the hotel for meetings.|Nhiều khách hàng doanh nghiệp đặt khách sạn để tổ chức hội họp.",
+    "Corporate responsibility means caring about the environment too.|Trách nhiệm doanh nghiệp còn có nghĩa là quan tâm đến môi trường."
   ],
   "determined": [
     "She's determined to finish the marathon this year.|Cô ấy quyết tâm hoàn thành cuộc marathon năm nay.",
     "It took a determined effort to clean the garage.|Phải rất quyết tâm mới dọn xong cái ga ra.",
-    "He looked tired but fiercely determined.|Anh trông mệt nhưng vô cùng quyết tâm."
+    "He looked tired but fiercely determined.|Anh trông mệt nhưng vô cùng quyết tâm.",
+    "Her determined attitude impressed the coach.|Thái độ quyết tâm của cô ấy gây ấn tượng với huấn luyện viên.",
+    "Nothing could stop a determined learner like him.|Không gì cản được một người học quyết tâm như cậu ấy."
   ]
 }

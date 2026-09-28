@@ -1,22 +1,30 @@
 {
- "proprietorship": [
-  "She runs the shop as a sole proprietorship.|Cô ấy điều hành cửa hàng dưới hình thức doanh nghiệp tư nhân.",
-  "A proprietorship is cheap and quick to register.|Doanh nghiệp tư nhân đăng ký rẻ và nhanh.",
-  "Proprietorship of the land is still disputed.|Quyền sở hữu mảnh đất vẫn đang tranh chấp."
- ],
- "realizable": [
-  "Inventory is valued at net realizable value.|Hàng tồn kho được định giá theo giá trị thuần có thể thực hiện được.",
-  "Set a realizable goal for this quarter.|Hãy đặt một mục tiêu khả thi cho quý này.",
-  "Only realizable assets count for the loan.|Chỉ tài sản có thể chuyển thành tiền mới được tính cho khoản vay."
- ],
- "sophisticate": [
-  "They sophisticated the model with new data.|Họ làm mô hình tinh vi hơn bằng dữ liệu mới.",
-  "He plays the urban sophisticate at parties.|Anh ta đóng vai người sành sỏi thành thị trong các buổi tiệc.",
-  "The software has been sophisticated over the years.|Phần mềm đã được làm tinh vi dần qua nhiều năm."
- ],
- "undervalue": [
-  "Analysts think the market undervalues the stock.|Giới phân tích cho rằng thị trường định giá thấp cổ phiếu này.",
-  "Never undervalue your own experience.|Đừng bao giờ đánh giá thấp kinh nghiệm của chính mình.",
-  "The house was undervalued by fifty thousand.|Ngôi nhà bị định giá thấp hơn năm mươi nghìn."
- ]
+  "proprietorship": [
+    "She runs the shop as a sole proprietorship.|Cô ấy điều hành cửa hàng dưới hình thức doanh nghiệp tư nhân.",
+    "A proprietorship is cheap and quick to register.|Doanh nghiệp tư nhân đăng ký rẻ và nhanh.",
+    "Proprietorship of the land is still disputed.|Quyền sở hữu mảnh đất vẫn đang tranh chấp.",
+    "He turned his proprietorship into a company.|Ông chuyển doanh nghiệp tư nhân của mình thành công ty.",
+    "Under a proprietorship, the owner is personally liable for debts.|Với doanh nghiệp tư nhân, chủ sở hữu chịu trách nhiệm cá nhân về các khoản nợ."
+  ],
+  "realizable": [
+    "Inventory is valued at net realizable value.|Hàng tồn kho được định giá theo giá trị thuần có thể thực hiện được.",
+    "Set a realizable goal for this quarter.|Hãy đặt một mục tiêu khả thi cho quý này.",
+    "Only realizable assets count for the loan.|Chỉ tài sản có thể chuyển thành tiền mới được tính cho khoản vay.",
+    "Is this dream realizable on my salary?|Giấc mơ này có khả thi với mức lương của tôi không?",
+    "Shares are more easily realizable than property.|Cổ phiếu dễ chuyển thành tiền mặt hơn bất động sản."
+  ],
+  "sophisticate": [
+    "They sophisticated the model with new data.|Họ làm mô hình tinh vi hơn bằng dữ liệu mới.",
+    "He plays the urban sophisticate at parties.|Anh ta đóng vai người sành sỏi thành thị trong các buổi tiệc.",
+    "Even the sophisticates in the audience were impressed.|Ngay cả những khán giả sành sỏi cũng phải ấn tượng.",
+    "She's a real sophisticate who knows every wine.|Cô là người sành sỏi thực thụ, biết đủ mọi loại rượu.",
+    "He moved to Paris and returned a sophisticate.|Anh sang Paris rồi trở về thành một người sành điệu."
+  ],
+  "undervalue": [
+    "Analysts think the market undervalues the stock.|Giới phân tích cho rằng thị trường định giá thấp cổ phiếu này.",
+    "Never undervalue your own experience.|Đừng bao giờ đánh giá thấp kinh nghiệm của chính mình.",
+    "The house was undervalued by fifty thousand.|Ngôi nhà bị định giá thấp hơn năm mươi nghìn.",
+    "Many companies undervalue their older workers.|Nhiều công ty đánh giá thấp nhân viên lớn tuổi.",
+    "Some economists argued the currency was deliberately undervalued.|Một số nhà kinh tế cho rằng đồng tiền này bị cố ý định giá thấp."
+  ]
 }

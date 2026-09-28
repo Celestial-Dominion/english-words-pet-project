@@ -1,59 +1,401 @@
 {
- "put forward": ["She put forward a plan to cut costs.|Cô ấy đề xuất một kế hoạch cắt giảm chi phí.", "Several names were put forward for the award.|Nhiều cái tên được đưa ra cho giải thưởng.", "Don't forget to put the clocks forward tonight.|Đừng quên chỉnh đồng hồ nhanh lên tối nay."],
- "drop by": ["Drop by anytime you're in the neighborhood.|Ghé qua chơi bất cứ lúc nào bạn ở gần đây nhé.", "My sister dropped by with a homemade cake.|Chị tôi ghé qua với một chiếc bánh tự làm.", "He drops by the office every Friday afternoon.|Anh ấy tạt qua văn phòng mỗi chiều thứ Sáu."],
- "pick up": ["Could you pick up that towel off the floor?|Bạn nhặt cái khăn dưới sàn lên giúp nhé?", "I'll pick you up at the station at six.|Tôi sẽ đón bạn ở ga lúc sáu giờ.", "She picked up Spanish while living in Madrid.|Cô ấy học lỏm được tiếng Tây Ban Nha khi sống ở Madrid."],
- "pass on": ["Please pass on my thanks to your team.|Nhờ bạn chuyển lời cảm ơn của tôi tới cả nhóm.", "He passed the recipe on to his daughter.|Ông ấy truyền lại công thức cho con gái.", "Thanks, but I'll pass on dessert tonight.|Cảm ơn, nhưng tối nay tôi xin nhường món tráng miệng."],
- "come through": ["She came through the surgery without complications.|Cô ấy vượt qua ca mổ mà không biến chứng.", "My visa finally came through last week.|Visa của tôi cuối cùng cũng có kết quả tuần trước.", "He always comes through when we need him.|Anh ấy luôn làm được việc khi chúng tôi cần."],
- "tone down": ["The editor asked her to tone down the criticism.|Biên tập viên yêu cầu cô làm dịu bớt lời phê bình.", "Maybe tone down the colors a little.|Có lẽ nên làm màu sắc dịu đi một chút.", "He toned down his speech after the complaints.|Anh ấy bớt gay gắt trong bài phát biểu sau các khiếu nại."],
- "step up": ["The company stepped up production before the holidays.|Công ty tăng cường sản xuất trước kỳ nghỉ lễ.", "Police stepped up patrols in the area.|Cảnh sát đẩy mạnh tuần tra trong khu vực.", "Someone needs to step up and lead this project.|Cần ai đó đứng ra gánh vác dự án này."],
- "tune in": ["Tune in tomorrow for the final episode.|Nhớ đón xem tập cuối vào ngày mai nhé.", "Millions tuned in to watch the ceremony.|Hàng triệu người mở xem buổi lễ.", "She's good at tuning in to how people feel.|Cô ấy giỏi bắt nhịp với cảm xúc của người khác."],
- "tune out": ["I just tune out when he starts complaining.|Tôi phớt lờ luôn khi anh ta bắt đầu than vãn.", "Students tune out after forty minutes.|Học sinh không còn để tâm sau bốn mươi phút.", "She tuned out the noise and kept reading.|Cô ấy mặc kệ tiếng ồn và tiếp tục đọc."],
- "bring up": ["Don't bring up politics at dinner.|Đừng nhắc đến chính trị trong bữa tối.", "She brought up the issue at the meeting.|Cô ấy nêu vấn đề đó ra trong cuộc họp.", "His grandparents brought him up in the countryside.|Ông bà nuôi dạy cậu ấy ở vùng quê."],
- "follow through": ["He makes promises but rarely follows through.|Anh ta hứa nhiều nhưng hiếm khi làm tới cùng.", "The team followed through on every commitment.|Cả đội thực hiện trọn vẹn mọi cam kết.", "Follow through with the treatment for six weeks.|Hãy theo hết liệu trình trong sáu tuần."],
- "eye up": ["He was eyeing up the cakes in the window.|Anh ta đang nhắm nhía mấy chiếc bánh trong tủ kính.", "Two clubs are eyeing up the young striker.|Hai câu lạc bộ đang nhắm tiền đạo trẻ này.", "She eyed up the competition before the race.|Cô ấy đưa mắt dò xét đối thủ trước cuộc đua."],
- "break up": ["They broke up after three years together.|Họ chia tay sau ba năm bên nhau.", "The ice began to break up in spring.|Băng bắt đầu vỡ vụn vào mùa xuân.", "Police broke up the crowd around midnight.|Cảnh sát giải tán đám đông khoảng nửa đêm."],
- "tick off": ["She ticked off each item on the list.|Cô ấy đánh dấu tích từng mục trong danh sách.", "His constant excuses really tick me off.|Mấy cái cớ liên tục của anh ta làm tôi phát cáu.", "The coach ticked him off for arriving late.|Huấn luyện viên mắng cậu ấy vì đến muộn."],
- "make out": ["I couldn't make out what she was saying.|Tôi không nghe ra cô ấy nói gì.", "How did he make out in the interview?|Anh ấy xoay xở thế nào trong buổi phỏng vấn?", "We could barely make out the road in the fog.|Chúng tôi gần như không nhìn ra đường trong sương mù."],
- "polished off": ["He polished off the whole pizza by himself.|Anh ấy xử gọn cả cái pizza một mình.", "She polished off the report before lunch.|Cô ấy làm xong báo cáo trước bữa trưa.", "The kids polished off dessert in seconds.|Bọn trẻ chén sạch món tráng miệng trong tích tắc."],
- "crack on": ["Let's crack on before the rain starts.|Làm nhanh lên trước khi trời mưa nào.", "She cracked on with the paperwork all morning.|Cô ấy xúc tiến đống giấy tờ suốt buổi sáng.", "We need to crack on if we want to finish today.|Phải làm nhanh nếu muốn xong trong hôm nay."],
- "doll up": ["She dolled up for her sister's wedding.|Cô ấy diện thật đẹp cho đám cưới của chị gái.", "They got all dolled up for the party.|Họ chưng diện hết cỡ để đi tiệc.", "He dolled himself up in a new suit.|Anh ấy diện bộ vest mới thật bảnh."],
- "let in": ["The guard wouldn't let us in without a pass.|Bảo vệ không cho chúng tôi vào nếu không có thẻ.", "Open the blinds and let some light in.|Kéo rèm lên cho ánh sáng vào đi.", "She let the cat in through the back door.|Cô ấy cho con mèo vào bằng cửa sau."],
- "drive out": ["High rents drove out the small shops.|Giá thuê cao đẩy các cửa hàng nhỏ ra khỏi khu này.", "The army drove the invaders out of the valley.|Quân đội xua đuổi quân xâm lược khỏi thung lũng.", "Cheap imports drove local producers out.|Hàng nhập giá rẻ đẩy nhà sản xuất địa phương ra rìa."],
- "hang up": ["She hung up before I could explain.|Cô ấy cúp máy trước khi tôi kịp giải thích.", "Don't hang up, I have one more question.|Đừng cúp máy, tôi còn một câu hỏi nữa.", "Hang your coat up by the door.|Treo áo khoác của bạn cạnh cửa nhé."],
- "keep around": ["I keep a spare charger around just in case.|Tôi để sẵn một cục sạc dự phòng phòng khi cần.", "She keeps her old notebooks around for reference.|Cô ấy giữ mấy cuốn sổ cũ bên mình để tra cứu.", "We keep some cash around for emergencies.|Chúng tôi để sẵn ít tiền mặt cho trường hợp khẩn cấp."],
- "key in": ["Key in your password and press enter.|Gõ nhập mật khẩu rồi bấm enter.", "She keyed in the numbers from the invoice.|Cô ấy nhập các con số từ hóa đơn.", "He keyed in the wrong code three times.|Anh ấy gõ sai mã ba lần."],
- "kid around": ["Stop kidding around and finish your homework.|Đừng đùa giỡn nữa, làm nốt bài tập đi.", "They were just kidding around, no harm meant.|Họ chỉ giỡn chơi thôi, không có ý gì đâu.", "He likes to kid around with the new interns.|Anh ấy thích đùa giỡn với mấy thực tập sinh mới."],
- "kneel down": ["She knelt down to tie her shoelace.|Cô ấy quỳ xuống buộc dây giày.", "He knelt down beside the injured dog.|Anh quỳ xuống bên con chó bị thương.", "The children knelt down to look at the ants.|Bọn trẻ quỳ xuống xem đàn kiến."],
- "give away": ["She gave away most of her books.|Cô ấy cho không phần lớn số sách của mình.", "His shaking hands gave away his nerves.|Đôi tay run rẩy để lộ sự hồi hộp của anh.", "Don't give away the ending of the film.|Đừng tiết lộ cái kết của bộ phim."],
- "hands off": ["He handed off the project to a colleague.|Anh ấy chuyển giao dự án cho một đồng nghiệp.", "The manager hands off routine tasks to her team.|Quản lý giao lại việc thường ngày cho nhóm.", "She handed the file off before going on leave.|Cô ấy trao lại hồ sơ trước khi nghỉ phép."],
- "tap up": ["The club was accused of tapping up a rival's player.|Câu lạc bộ bị tố gạ gẫm cầu thủ của đối thủ.", "A recruiter tapped him up on social media.|Một nhà tuyển dụng gạ chiêu mộ anh ấy trên mạng xã hội.", "They tapped up two engineers from our team.|Họ gạ chiêu mộ hai kỹ sư từ nhóm chúng tôi."],
- "gloss over": ["The report glosses over the safety failures.|Bản báo cáo nói lướt qua các lỗi an toàn.", "He glossed over the part where he quit.|Anh ta che đậy qua loa đoạn anh ta bỏ việc.", "Don't gloss over the risks to investors.|Đừng nói lướt qua rủi ro với nhà đầu tư."],
- "glaze over": ["His eyes glazed over during the presentation.|Mắt anh ấy đờ đẫn suốt buổi thuyết trình.", "Students' eyes glaze over when he talks statistics.|Mắt sinh viên lạc đi khi thầy nói về thống kê.", "She glazed over halfway through the meeting.|Cô ấy đờ người ra từ giữa cuộc họp."],
- "chin up": ["Chin up, things will get better soon.|Ngẩng cao đầu lên, mọi chuyện sẽ khá hơn sớm thôi.", "He told her to keep her chin up.|Anh bảo cô hãy vững tinh thần lên.", "Chin up, you did your best today.|Vững lên nào, hôm nay bạn đã cố hết sức rồi."],
- "drum up": ["They're drumming up support for the campaign.|Họ đang kêu gọi ủng hộ cho chiến dịch.", "The shop drummed up business with free samples.|Cửa hàng gây dựng khách bằng hàng mẫu miễn phí.", "She drummed up interest through social media.|Cô ấy khơi dậy sự quan tâm qua mạng xã hội."],
- "go over": ["Let's go over the contract one more time.|Ta xem lại hợp đồng thêm một lần nữa nhé.", "Her speech went over well with the crowd.|Bài phát biểu của cô được đám đông đón nhận nồng nhiệt.", "He went over the figures before submitting them.|Anh ấy rà kỹ các con số trước khi nộp."],
- "pump up": ["Can you pump up my bike tires?|Bạn bơm căng lốp xe đạp giúp mình nhé?", "The coach pumped up the team before kickoff.|Huấn luyện viên hâm nóng tinh thần đội trước giờ bóng lăn.", "Loud music pumped up the crowd.|Nhạc lớn làm đám đông phấn khích."],
- "pumped up": ["The players looked pumped up before the final.|Các cầu thủ trông máu lửa trước trận chung kết.", "I'm pumped up about starting the new job.|Tôi hưng phấn lắm khi sắp bắt đầu công việc mới.", "The tires are pumped up and ready.|Lốp xe đã bơm căng và sẵn sàng."],
- "keep out": ["The sign says to keep out after dark.|Biển ghi không được vào sau khi trời tối.", "Thick curtains keep out the morning light.|Rèm dày ngăn ánh sáng buổi sáng lọt vào.", "Keep out of the kitchen while I'm cooking.|Tránh xa bếp ra trong lúc mẹ nấu ăn."],
- "firm up": ["We need to firm up the details by Friday.|Chúng ta cần chốt lại chi tiết trước thứ Sáu.", "Let's firm up the dates before booking flights.|Chốt ngày cho chắc rồi hãy đặt vé máy bay.", "Regular exercise firms up your muscles.|Tập luyện đều đặn giúp cơ săn chắc hơn."],
- "key into": ["Her music really keys into what young people feel.|Nhạc của cô ấy bắt nhịp đúng cảm xúc của giới trẻ.", "The campaign keys into growing health concerns.|Chiến dịch bắt nhịp với mối lo sức khỏe đang tăng.", "He keyed into the team's rhythm quickly.|Anh ấy hòa vào nhịp của đội rất nhanh."],
- "peel out": ["He peeled out of the parking lot angrily.|Anh ta rồ ga phóng khỏi bãi xe đầy tức giận.", "The car peeled out and disappeared down the street.|Chiếc xe rít bánh phóng đi rồi khuất cuối phố.", "Don't peel out in a residential area.|Đừng rồ ga rít bánh trong khu dân cư."],
- "fill out": ["Please fill out this form before your appointment.|Vui lòng điền vào mẫu này trước buổi hẹn.", "She filled out the application in ten minutes.|Cô ấy điền xong đơn trong mười phút.", "He's filled out a lot since high school.|Anh ấy đầy đặn ra nhiều từ hồi cấp ba."],
- "filter out": ["The app filters out spam automatically.|Ứng dụng tự động lọc bỏ thư rác.", "We filtered out candidates without experience.|Chúng tôi sàng loại ứng viên chưa có kinh nghiệm.", "These lenses filter out harmful light.|Loại kính này lọc bỏ ánh sáng có hại."],
- "fit into": ["The suitcase won't fit into the overhead bin.|Cái vali không lọt vừa khoang hành lý trên đầu.", "She quickly fit into the new team.|Cô ấy nhanh chóng hòa nhập với nhóm mới.", "Does this piece fit into the puzzle anywhere?|Miếng này có lọt vừa chỗ nào trong bức ghép hình không?"],
- "sand down": ["Sand down the edges before you paint.|Chà nhám các cạnh trước khi sơn.", "He sanded down the old table for hours.|Anh ấy đánh giấy ráp cái bàn cũ hàng giờ.", "The surface needs sanding down first.|Bề mặt cần chà nhám trước đã."],
- "file out": ["The students filed out of the exam hall quietly.|Sinh viên lần lượt đi ra khỏi phòng thi trong im lặng.", "Passengers filed out onto the platform.|Hành khách lần lượt bước ra sân ga.", "The audience filed out after the credits.|Khán giả lần lượt ra về sau phần đề cuối phim."],
- "file in": ["The choir filed in and took their places.|Dàn hợp xướng lần lượt đi vào và vào vị trí.", "Guests filed in through the side entrance.|Khách lần lượt vào qua lối cửa hông.", "Children filed in for the morning assembly.|Học sinh lần lượt vào cho buổi chào cờ."],
- "go out": ["We're going out for dinner tonight.|Tối nay chúng tôi đi ăn ngoài.", "She's been going out with him since May.|Cô ấy hẹn hò với anh ta từ tháng Năm.", "The lights went out during the storm.|Đèn tắt phụt trong cơn bão."],
- "drop in": ["Drop in for coffee whenever you like.|Tạt vào uống cà phê lúc nào cũng được nhé.", "My neighbor dropped in unannounced last night.|Hàng xóm tạt vào bất chợt tối qua.", "He drops in on his parents every Sunday.|Anh ấy ghé thăm bố mẹ mỗi Chủ nhật."],
- "made up": ["He made up an excuse about traffic.|Anh ta bịa ra cái cớ tắc đường.", "The whole story was made up.|Cả câu chuyện là dựng lên hết.", "They argued but made up the next morning.|Họ cãi nhau nhưng làm hòa sáng hôm sau."],
- "bang out": ["She banged out the report in two hours.|Cô ấy làm cho xong báo cáo trong hai tiếng.", "He banged out a few emails before lunch.|Anh ấy tuôn ra vài cái email trước bữa trưa.", "The band banged out three songs in a row.|Ban nhạc chơi liền ba bài một mạch."],
- "close out": ["They closed out the year with record sales.|Họ kết thúc năm với doanh số kỷ lục.", "She closed out her account at the bank.|Cô ấy tất toán tài khoản ở ngân hàng.", "The store is closing out its summer stock.|Cửa hàng đang thanh lý hàng hè."],
- "eat out": ["We eat out about twice a month.|Chúng tôi ăn ngoài khoảng hai lần một tháng.", "Eating out every day gets expensive.|Ăn tiệm mỗi ngày tốn kém lắm.", "Let's eat out tonight instead of cooking.|Tối nay đi ăn ngoài thay vì nấu nhé."],
- "pack on": ["He packed on ten pounds over the winter.|Anh ấy tăng gần năm cân trong mùa đông.", "She packed on muscle after months of training.|Cô ấy lên cơ sau nhiều tháng tập luyện.", "It's easy to pack on weight during holidays.|Rất dễ tăng cân trong dịp lễ."],
- "throw out": ["Throw out anything past its expiry date.|Vứt bỏ mọi thứ đã quá hạn sử dụng.", "The judge threw out the case for lack of evidence.|Thẩm phán bác bỏ vụ kiện vì thiếu chứng cứ.", "He was thrown out of the bar at midnight.|Anh ta bị tống ra khỏi quán bar lúc nửa đêm."],
- "pore over": ["She pored over the documents all night.|Cô ấy chúi mũi đọc đống tài liệu suốt đêm.", "He pored over old maps looking for the route.|Anh nghiền ngẫm mấy tấm bản đồ cũ để tìm đường.", "Analysts pored over the quarterly figures.|Các nhà phân tích nghiền ngẫm số liệu quý."],
- "listen in": ["Someone was listening in on our conversation.|Có ai đó nghe lén cuộc trò chuyện của chúng tôi.", "Feel free to listen in on the training call.|Bạn cứ nghe ké buổi họp đào tạo nhé.", "Thousands listen in to her podcast weekly.|Hàng nghìn người theo dõi podcast của cô mỗi tuần."],
- "soldier on": ["She soldiered on despite the fever.|Cô ấy kiên trì làm tiếp dù đang sốt.", "The small team soldiered on without funding.|Nhóm nhỏ vẫn kiên trì tiếp tục dù không có kinh phí.", "He soldiered on through the last two miles.|Anh ấy gắng gượng đi nốt hai dặm cuối."],
- "pop in": ["I'll pop in on my way home.|Tôi sẽ tạt vào một lát trên đường về.", "She popped in to borrow some sugar.|Cô ấy tạt qua mượn ít đường.", "He pops in for a chat most mornings.|Anh ấy hay tạt vào tán gẫu vào buổi sáng."]
+  "put forward": [
+    "She put forward a plan to cut costs.|Cô ấy đề xuất một kế hoạch cắt giảm chi phí.",
+    "Several names were put forward for the award.|Nhiều cái tên được đưa ra cho giải thưởng.",
+    "Don't forget to put the clocks forward tonight.|Đừng quên chỉnh đồng hồ nhanh lên tối nay.",
+    "The committee put forward three candidates.|Ủy ban đề cử ba ứng viên.",
+    "He put forward a strong argument for waiting.|Anh đưa ra lập luận thuyết phục cho việc chờ đợi."
+  ],
+  "drop by": [
+    "Drop by anytime you're in the neighborhood.|Ghé qua chơi bất cứ lúc nào bạn ở gần đây nhé.",
+    "My sister dropped by with a homemade cake.|Chị tôi ghé qua với một chiếc bánh tự làm.",
+    "He drops by the office every Friday afternoon.|Anh ấy tạt qua văn phòng mỗi chiều thứ Sáu.",
+    "I'll drop by after work to pick up the keys.|Tôi sẽ ghé qua sau giờ làm để lấy chìa khóa.",
+    "Feel free to drop by the library if you need help.|Cứ ghé thư viện nếu bạn cần giúp."
+  ],
+  "pick up": [
+    "Could you pick up that towel off the floor?|Bạn nhặt cái khăn dưới sàn lên giúp nhé?",
+    "I'll pick you up at the station at six.|Tôi sẽ đón bạn ở ga lúc sáu giờ.",
+    "She picked up Spanish while living in Madrid.|Cô ấy học lỏm được tiếng Tây Ban Nha khi sống ở Madrid.",
+    "Sales usually pick up before the holidays.|Doanh số thường khởi sắc trước kỳ nghỉ lễ.",
+    "Can you pick up some bread on your way home?|Bạn mua giúp ít bánh mì trên đường về nhé?"
+  ],
+  "pass on": [
+    "Please pass on my thanks to your team.|Nhờ bạn chuyển lời cảm ơn của tôi tới cả nhóm.",
+    "He passed the recipe on to his daughter.|Ông ấy truyền lại công thức cho con gái.",
+    "Thanks, but I'll pass on dessert tonight.|Cảm ơn, nhưng tối nay tôi xin nhường món tráng miệng.",
+    "Stores pass on higher costs to shoppers.|Các cửa hàng chuyển chi phí tăng sang người mua.",
+    "She passed on the job offer to stay near her family.|Cô từ chối lời mời làm việc để ở gần gia đình."
+  ],
+  "come through": [
+    "She came through the surgery without complications.|Cô ấy vượt qua ca mổ mà không biến chứng.",
+    "My visa finally came through last week.|Visa của tôi cuối cùng cũng có kết quả tuần trước.",
+    "He always comes through when we need him.|Anh ấy luôn làm được việc khi chúng tôi cần.",
+    "Did the money come through yet?|Tiền đã về chưa?",
+    "The city came through the storm with little damage.|Thành phố vượt qua cơn bão với ít thiệt hại."
+  ],
+  "tone down": [
+    "The editor asked her to tone down the criticism.|Biên tập viên yêu cầu cô làm dịu bớt lời phê bình.",
+    "Maybe tone down the colors a little.|Có lẽ nên làm màu sắc dịu đi một chút.",
+    "He toned down his speech after the complaints.|Anh ấy bớt gay gắt trong bài phát biểu sau các khiếu nại.",
+    "The singer toned down her outfit for the TV show.|Nữ ca sĩ ăn mặc bớt táo bạo cho chương trình truyền hình.",
+    "Tone down the spice if kids are eating too.|Hãy giảm bớt độ cay nếu có trẻ em cùng ăn."
+  ],
+  "step up": [
+    "The company stepped up production before the holidays.|Công ty tăng cường sản xuất trước kỳ nghỉ lễ.",
+    "Police stepped up patrols in the area.|Cảnh sát đẩy mạnh tuần tra trong khu vực.",
+    "Someone needs to step up and lead this project.|Cần ai đó đứng ra gánh vác dự án này.",
+    "Fans want the club to step up its efforts in the transfer market.|Người hâm mộ muốn câu lạc bộ đẩy mạnh nỗ lực trên thị trường chuyển nhượng.",
+    "When the captain got hurt, a young player stepped up.|Khi đội trưởng bị thương, một cầu thủ trẻ đã đứng ra gánh vác."
+  ],
+  "tune in": [
+    "Tune in tomorrow for the final episode.|Nhớ đón xem tập cuối vào ngày mai nhé.",
+    "Millions tuned in to watch the ceremony.|Hàng triệu người mở xem buổi lễ.",
+    "She's good at tuning in to how people feel.|Cô ấy giỏi bắt nhịp với cảm xúc của người khác.",
+    "Over ten million people tune in every week.|Hơn mười triệu người đón xem mỗi tuần.",
+    "Tune in to the local station for traffic news.|Hãy mở kênh địa phương để nghe tin giao thông."
+  ],
+  "tune out": [
+    "I just tune out when he starts complaining.|Tôi phớt lờ luôn khi anh ta bắt đầu than vãn.",
+    "Students tune out after forty minutes.|Học sinh không còn để tâm sau bốn mươi phút.",
+    "She tuned out the noise and kept reading.|Cô ấy mặc kệ tiếng ồn và tiếp tục đọc.",
+    "Some people tune out the news because it's too depressing.|Một số người không theo dõi tin tức vì nó quá u ám.",
+    "It's easy to tune out a speaker who just reads from slides.|Rất dễ lơ đãng khi diễn giả chỉ đọc trên slide."
+  ],
+  "bring up": [
+    "Don't bring up politics at dinner.|Đừng nhắc đến chính trị trong bữa tối.",
+    "She brought up the issue at the meeting.|Cô ấy nêu vấn đề đó ra trong cuộc họp.",
+    "His grandparents brought him up in the countryside.|Ông bà nuôi dạy cậu ấy ở vùng quê.",
+    "Bringing up three children alone wasn't easy.|Một mình nuôi dạy ba đứa con không hề dễ dàng.",
+    "Why did you bring up my old mistake?|Sao bạn lại nhắc đến sai lầm cũ của tôi?"
+  ],
+  "follow through": [
+    "He makes promises but rarely follows through.|Anh ta hứa nhiều nhưng hiếm khi làm tới cùng.",
+    "The team followed through on every commitment.|Cả đội thực hiện trọn vẹn mọi cam kết.",
+    "Follow through with the treatment for six weeks.|Hãy theo hết liệu trình trong sáu tuần.",
+    "If you threaten a punishment, you must follow through.|Nếu đã dọa phạt, bạn phải làm đến nơi đến chốn.",
+    "Golfers are taught to follow through after every swing.|Người chơi golf được dạy phải vung gậy trọn vẹn sau mỗi cú đánh."
+  ],
+  "eye up": [
+    "He was eyeing up the cakes in the window.|Anh ta đang nhắm nhía mấy chiếc bánh trong tủ kính.",
+    "Two clubs are eyeing up the young striker.|Hai câu lạc bộ đang nhắm tiền đạo trẻ này.",
+    "She eyed up the competition before the race.|Cô ấy đưa mắt dò xét đối thủ trước cuộc đua.",
+    "Buyers eye up the best fish at the morning market.|Người mua nhắm nhía những con cá ngon nhất ở chợ sáng.",
+    "Cats eye up birds from the window.|Mèo rình ngó lũ chim từ cửa sổ."
+  ],
+  "break up": [
+    "They broke up after three years together.|Họ chia tay sau ba năm bên nhau.",
+    "The ice began to break up in spring.|Băng bắt đầu vỡ vụn vào mùa xuân.",
+    "Police broke up the crowd around midnight.|Cảnh sát giải tán đám đông khoảng nửa đêm.",
+    "Break up the chocolate into small pieces.|Bẻ sô-cô-la thành những miếng nhỏ.",
+    "School breaks up for the summer in June.|Trường nghỉ hè vào tháng Sáu."
+  ],
+  "tick off": [
+    "She ticked off each item on the list.|Cô ấy đánh dấu tích từng mục trong danh sách.",
+    "His constant excuses really tick me off.|Mấy cái cớ liên tục của anh ta làm tôi phát cáu.",
+    "The coach ticked him off for arriving late.|Huấn luyện viên mắng cậu ấy vì đến muộn.",
+    "Tick off each task when it's done.|Đánh dấu từng việc khi đã làm xong.",
+    "Loud phone calls on the bus tick off other passengers.|Những cuộc gọi to tiếng trên xe buýt làm hành khách khác bực mình."
+  ],
+  "make out": [
+    "I couldn't make out what she was saying.|Tôi không nghe ra cô ấy nói gì.",
+    "How did he make out in the interview?|Anh ấy xoay xở thế nào trong buổi phỏng vấn?",
+    "We could barely make out the road in the fog.|Chúng tôi gần như không nhìn ra đường trong sương mù.",
+    "Can you make out the words on that sign?|Bạn có đọc ra chữ trên tấm biển đó không?",
+    "The teenagers were caught making out in the car.|Hai thiếu niên bị bắt gặp đang hôn nhau trong xe."
+  ],
+  "polished off": [
+    "He polished off the whole pizza by himself.|Anh ấy xử gọn cả cái pizza một mình.",
+    "She polished off the report before lunch.|Cô ấy làm xong báo cáo trước bữa trưa.",
+    "The kids polished off dessert in seconds.|Bọn trẻ chén sạch món tráng miệng trong tích tắc.",
+    "By midnight, the guests had polished off every bottle.|Đến nửa đêm, khách đã uống sạch mọi chai rượu.",
+    "The champion polished off her opponent in two sets.|Nhà vô địch hạ gọn đối thủ trong hai set."
+  ],
+  "crack on": [
+    "Let's crack on before the rain starts.|Làm nhanh lên trước khi trời mưa nào.",
+    "She cracked on with the paperwork all morning.|Cô ấy xúc tiến đống giấy tờ suốt buổi sáng.",
+    "We need to crack on if we want to finish today.|Phải làm nhanh nếu muốn xong trong hôm nay.",
+    "Right, time to crack on with the next item.|Được rồi, đến lúc chuyển sang mục tiếp theo.",
+    "The builders cracked on despite the rain.|Thợ xây vẫn làm tiếp dù trời mưa."
+  ],
+  "doll up": [
+    "She dolled up for her sister's wedding.|Cô ấy diện thật đẹp cho đám cưới của chị gái.",
+    "They got all dolled up for the party.|Họ chưng diện hết cỡ để đi tiệc.",
+    "He dolled himself up in a new suit.|Anh ấy diện bộ vest mới thật bảnh.",
+    "They love to doll up for weddings.|Họ rất thích diện thật đẹp đi đám cưới.",
+    "She didn't have time to doll up before the meeting.|Cô không kịp chưng diện trước cuộc họp."
+  ],
+  "let in": [
+    "The guard wouldn't let us in without a pass.|Bảo vệ không cho chúng tôi vào nếu không có thẻ.",
+    "Open the blinds and let some light in.|Kéo rèm lên cho ánh sáng vào đi.",
+    "She let the cat in through the back door.|Cô ấy cho con mèo vào bằng cửa sau.",
+    "Don't let in anyone you don't know.|Đừng cho người lạ vào.",
+    "The old windows let in the cold.|Những ô cửa sổ cũ để lọt hơi lạnh vào."
+  ],
+  "drive out": [
+    "High rents drove out the small shops.|Giá thuê cao đẩy các cửa hàng nhỏ ra khỏi khu này.",
+    "The army drove the invaders out of the valley.|Quân đội xua đuổi quân xâm lược khỏi thung lũng.",
+    "Cheap imports drove local producers out.|Hàng nhập giá rẻ đẩy nhà sản xuất địa phương ra rìa.",
+    "Smoke helped drive out the bees from the old wall.|Khói giúp xua đàn ong ra khỏi bức tường cũ.",
+    "Good laws can drive out corruption over time.|Luật pháp tốt có thể dần đẩy lùi tham nhũng."
+  ],
+  "hang up": [
+    "She hung up before I could explain.|Cô ấy cúp máy trước khi tôi kịp giải thích.",
+    "Don't hang up; I have one more question.|Đừng cúp máy, tôi còn một câu hỏi nữa.",
+    "Hang your coat up by the door.|Treo áo khoác của bạn cạnh cửa nhé.",
+    "He hung up his boots after twenty years of football.|Anh treo giày sau hai mươi năm chơi bóng.",
+    "Never hang up on a customer, even a rude one.|Đừng bao giờ cúp máy ngang với khách hàng, kể cả khách thô lỗ."
+  ],
+  "keep around": [
+    "I keep a spare charger around just in case.|Tôi để sẵn một cục sạc dự phòng phòng khi cần.",
+    "She keeps her old notebooks around for reference.|Cô ấy giữ mấy cuốn sổ cũ bên mình để tra cứu.",
+    "We keep some cash around for emergencies.|Chúng tôi để sẵn ít tiền mặt cho trường hợp khẩn cấp.",
+    "It's smart to keep around a few spare batteries.|Nên để sẵn vài cục pin dự phòng.",
+    "Why do you keep around people who make you unhappy?|Sao bạn cứ giữ bên mình những người khiến bạn không vui?"
+  ],
+  "key in": [
+    "Key in your password and press enter.|Gõ nhập mật khẩu rồi bấm enter.",
+    "She keyed in the numbers from the invoice.|Cô ấy nhập các con số từ hóa đơn.",
+    "He keyed in the wrong code three times.|Anh ấy gõ sai mã ba lần.",
+    "Key in the number on the back of your card.|Nhập số ở mặt sau thẻ của bạn.",
+    "It took hours to key in all the old records.|Mất hàng giờ để nhập toàn bộ hồ sơ cũ."
+  ],
+  "kid around": [
+    "Stop kidding around and finish your homework.|Đừng đùa giỡn nữa, làm nốt bài tập đi.",
+    "They were just kidding around; they meant no harm.|Họ chỉ giỡn chơi thôi, không có ý gì đâu.",
+    "He likes to kid around with the new interns.|Anh ấy thích đùa giỡn với mấy thực tập sinh mới.",
+    "Don't kid around with the fire alarm.|Đừng đùa giỡn với chuông báo cháy.",
+    "The brothers kid around, but they're very close.|Hai anh em hay đùa giỡn, nhưng họ rất thân thiết."
+  ],
+  "kneel down": [
+    "She knelt down to tie her shoelace.|Cô ấy quỳ xuống buộc dây giày.",
+    "He knelt down beside the injured dog.|Anh quỳ xuống bên con chó bị thương.",
+    "The children knelt down to look at the ants.|Bọn trẻ quỳ xuống xem đàn kiến.",
+    "The priest asked everyone to kneel down.|Vị linh mục yêu cầu mọi người quỳ xuống.",
+    "You'll need to kneel down to reach the pipe.|Bạn sẽ phải quỳ xuống mới với tới đường ống."
+  ],
+  "give away": [
+    "She gave away most of her books.|Cô ấy cho không phần lớn số sách của mình.",
+    "His shaking hands gave away his nerves.|Đôi tay run rẩy để lộ sự hồi hộp của anh.",
+    "Don't give away the ending of the film.|Đừng tiết lộ cái kết của bộ phim.",
+    "The shop gives away free samples every Saturday.|Cửa hàng phát hàng mẫu miễn phí mỗi thứ Bảy.",
+    "The goalkeeper gave away a penalty in the last minute.|Thủ môn để đối phương hưởng quả phạt đền ở phút cuối."
+  ],
+  "hands off": [
+    "He handed off the project to a colleague.|Anh ấy chuyển giao dự án cho một đồng nghiệp.",
+    "The manager hands off routine tasks to her team.|Quản lý giao lại việc thường ngày cho nhóm.",
+    "She handed the file off before going on leave.|Cô ấy trao lại hồ sơ trước khi nghỉ phép.",
+    "The quarterback hands off the ball to the running back.|Tiền vệ chính trao bóng tận tay cho hậu vệ chạy.",
+    "She rarely hands off important work to others.|Cô hiếm khi giao việc quan trọng cho người khác."
+  ],
+  "tap up": [
+    "The club was accused of tapping up a rival's player.|Câu lạc bộ bị tố gạ gẫm cầu thủ của đối thủ.",
+    "A recruiter tapped him up on social media.|Một nhà tuyển dụng gạ chiêu mộ anh ấy trên mạng xã hội.",
+    "They tapped up two engineers from our team.|Họ gạ chiêu mộ hai kỹ sư từ nhóm chúng tôi.",
+    "It's against the rules to tap up players under contract.|Gạ gẫm cầu thủ đang có hợp đồng là trái luật.",
+    "Rival clubs tried to tap up their young coach.|Các câu lạc bộ đối thủ tìm cách gạ gẫm vị huấn luyện viên trẻ của họ."
+  ],
+  "gloss over": [
+    "The report glosses over the safety failures.|Bản báo cáo nói lướt qua các lỗi an toàn.",
+    "He glossed over the part where he quit.|Anh ta che đậy qua loa đoạn anh ta bỏ việc.",
+    "Don't gloss over the risks to investors.|Đừng nói lướt qua rủi ro với nhà đầu tư.",
+    "The film glosses over the darker parts of his life.|Bộ phim lướt qua những góc tối trong cuộc đời ông.",
+    "Good teachers don't gloss over students' mistakes.|Giáo viên giỏi không bỏ qua lỗi sai của học sinh."
+  ],
+  "glaze over": [
+    "His eyes glazed over during the presentation.|Mắt anh ấy đờ đẫn suốt buổi thuyết trình.",
+    "Students' eyes glaze over when he talks statistics.|Mắt sinh viên lạc đi khi thầy nói về thống kê.",
+    "She glazed over halfway through the meeting.|Cô ấy đờ người ra từ giữa cuộc họp.",
+    "Mention taxes and watch his eyes glaze over.|Cứ nhắc đến thuế là mắt anh ấy lại đờ ra.",
+    "The audience began to glaze over after the first hour.|Khán giả bắt đầu đờ đẫn sau giờ đầu tiên."
+  ],
+  "chin up": [
+    "Chin up, things will get better soon.|Ngẩng cao đầu lên, mọi chuyện sẽ khá hơn sớm thôi.",
+    "He told her to keep her chin up.|Anh bảo cô hãy vững tinh thần lên.",
+    "Chin up! It's not the end of the world.|Vững lên! Đâu phải tận thế.",
+    "Keep your chin up; the test results aren't in yet.|Hãy vững tinh thần; kết quả xét nghiệm còn chưa có mà.",
+    "Her mother's letters helped her keep her chin up abroad.|Những lá thư của mẹ giúp cô vững tinh thần nơi đất khách."
+  ],
+  "drum up": [
+    "They're drumming up support for the campaign.|Họ đang kêu gọi ủng hộ cho chiến dịch.",
+    "The shop drummed up business with free samples.|Cửa hàng gây dựng khách bằng hàng mẫu miễn phí.",
+    "She drummed up interest through social media.|Cô ấy khơi dậy sự quan tâm qua mạng xã hội.",
+    "The band played in the street to drum up a crowd.|Ban nhạc chơi trên phố để thu hút đám đông.",
+    "It's hard to drum up votes for local elections.|Thật khó vận động được phiếu bầu cho các cuộc bầu cử địa phương."
+  ],
+  "go over": [
+    "Let's go over the contract one more time.|Ta xem lại hợp đồng thêm một lần nữa nhé.",
+    "Her speech went over well with the crowd.|Bài phát biểu của cô được đám đông đón nhận nồng nhiệt.",
+    "He went over the figures before submitting them.|Anh ấy rà kỹ các con số trước khi nộp.",
+    "Go over your answers before you hand in the test.|Kiểm tra lại câu trả lời trước khi nộp bài.",
+    "How did the new menu go over with customers?|Thực đơn mới được khách hàng đón nhận thế nào?"
+  ],
+  "pump up": [
+    "Can you pump up my bike tires?|Bạn bơm căng lốp xe đạp giúp mình nhé?",
+    "The coach pumped up the team before kickoff.|Huấn luyện viên hâm nóng tinh thần đội trước giờ bóng lăn.",
+    "Loud music pumped up the crowd.|Nhạc lớn làm đám đông phấn khích.",
+    "Pump up the ball before the game.|Bơm quả bóng trước trận đấu.",
+    "The DJ knew how to pump up the energy in the room.|DJ biết cách hâm nóng không khí trong phòng."
+  ],
+  "pumped up": [
+    "The players looked pumped up before the final.|Các cầu thủ trông máu lửa trước trận chung kết.",
+    "I'm pumped up about starting the new job.|Tôi hưng phấn lắm khi sắp bắt đầu công việc mới.",
+    "The tires are pumped up and ready.|Lốp xe đã bơm căng và sẵn sàng.",
+    "The kids were pumped up for their first camping trip.|Bọn trẻ háo hức cho chuyến cắm trại đầu tiên.",
+    "Pumped up tires make cycling much easier.|Lốp xe được bơm căng giúp đạp xe dễ hơn nhiều."
+  ],
+  "keep out": [
+    "The sign says to keep out after dark.|Biển ghi không được vào sau khi trời tối.",
+    "Thick curtains keep out the morning light.|Rèm dày ngăn ánh sáng buổi sáng lọt vào.",
+    "Keep out of the kitchen while I'm cooking.|Tránh xa bếp ra trong lúc mẹ nấu ăn.",
+    "Good boots keep out the water.|Ủng tốt ngăn nước lọt vào.",
+    "Try to keep out of arguments that aren't yours.|Cố tránh xa những cuộc cãi vã không phải của mình."
+  ],
+  "firm up": [
+    "We need to firm up the details by Friday.|Chúng ta cần chốt lại chi tiết trước thứ Sáu.",
+    "Let's firm up the dates before booking flights.|Chốt ngày cho chắc rồi hãy đặt vé máy bay.",
+    "Regular exercise firms up your muscles.|Tập luyện đều đặn giúp cơ săn chắc hơn.",
+    "The two companies hope to firm up the deal next week.|Hai công ty hy vọng chốt thương vụ vào tuần tới.",
+    "Squats help firm up your legs.|Bài squat giúp chân săn chắc."
+  ],
+  "key into": [
+    "Her music really keys into what young people feel.|Nhạc của cô ấy bắt nhịp đúng cảm xúc của giới trẻ.",
+    "The campaign keys into growing health concerns.|Chiến dịch bắt nhịp với mối lo sức khỏe đang tăng.",
+    "He keyed into the team's rhythm quickly.|Anh ấy hòa vào nhịp của đội rất nhanh.",
+    "Teachers who key into students' interests get better results.|Giáo viên nắm bắt được sở thích của học sinh sẽ đạt kết quả tốt hơn.",
+    "The new menu tries to key into the vegan trend.|Thực đơn mới cố bắt nhịp xu hướng ăn thuần chay."
+  ],
+  "peel out": [
+    "He peeled out of the parking lot angrily.|Anh ta rồ ga phóng khỏi bãi xe đầy tức giận.",
+    "The car peeled out and disappeared down the street.|Chiếc xe rít bánh phóng đi rồi khuất cuối phố.",
+    "Don't peel out in a residential area.|Đừng rồ ga rít bánh trong khu dân cư.",
+    "The getaway driver peeled out as police arrived.|Tài xế tẩu thoát rồ ga phóng đi khi cảnh sát đến.",
+    "Teenagers love to peel out when the light turns green.|Thanh thiếu niên thích rồ ga rít bánh khi đèn chuyển xanh."
+  ],
+  "fill out": [
+    "Please fill out this form before your appointment.|Vui lòng điền vào mẫu này trước buổi hẹn.",
+    "She filled out the application in ten minutes.|Cô ấy điền xong đơn trong mười phút.",
+    "He's filled out a lot since high school.|Anh ấy đầy đặn ra nhiều từ hồi cấp ba.",
+    "Fill out the survey to win a free coffee.|Điền khảo sát để nhận một ly cà phê miễn phí.",
+    "The puppy has started to fill out.|Chú cún đã bắt đầu đầy đặn hơn."
+  ],
+  "filter out": [
+    "The app filters out spam automatically.|Ứng dụng tự động lọc bỏ thư rác.",
+    "We filtered out candidates without experience.|Chúng tôi sàng loại ứng viên chưa có kinh nghiệm.",
+    "These lenses filter out harmful light.|Loại kính này lọc bỏ ánh sáng có hại.",
+    "Noise-canceling headphones filter out background noise.|Tai nghe chống ồn lọc bỏ tiếng ồn xung quanh.",
+    "The kidneys filter out waste from the blood.|Thận lọc bỏ chất thải khỏi máu."
+  ],
+  "fit into": [
+    "The suitcase won't fit into the overhead bin.|Cái vali không lọt vừa khoang hành lý trên đầu.",
+    "She quickly fit into the new team.|Cô ấy nhanh chóng hòa nhập với nhóm mới.",
+    "Does this piece fit into the puzzle anywhere?|Miếng này có lọt vừa chỗ nào trong bức ghép hình không?",
+    "I can't fit into my old jeans anymore.|Tôi không còn mặc vừa chiếc quần jeans cũ nữa.",
+    "Where does this meeting fit into your schedule?|Cuộc họp này nằm ở đâu trong lịch của bạn?"
+  ],
+  "sand down": [
+    "Sand down the edges before you paint.|Chà nhám các cạnh trước khi sơn.",
+    "He sanded down the old table for hours.|Anh ấy đánh giấy ráp cái bàn cũ hàng giờ.",
+    "The surface needs sanding down first.|Bề mặt cần chà nhám trước đã.",
+    "Use fine paper to sand down the rough spots.|Dùng giấy ráp mịn để chà nhám những chỗ gồ ghề.",
+    "We had to sand down the door so it would close.|Chúng tôi phải chà nhám cánh cửa để nó đóng được."
+  ],
+  "file out": [
+    "The students filed out of the exam hall quietly.|Sinh viên lần lượt đi ra khỏi phòng thi trong im lặng.",
+    "Passengers filed out onto the platform.|Hành khách lần lượt bước ra sân ga.",
+    "The audience filed out after the credits.|Khán giả lần lượt ra về sau phần đề cuối phim.",
+    "Please file out through the back door.|Vui lòng lần lượt đi ra bằng cửa sau.",
+    "We watched the players file out of the tunnel.|Chúng tôi nhìn các cầu thủ lần lượt bước ra khỏi đường hầm."
+  ],
+  "file in": [
+    "The choir filed in and took their places.|Dàn hợp xướng lần lượt đi vào và vào vị trí.",
+    "Guests filed in through the side entrance.|Khách lần lượt vào qua lối cửa hông.",
+    "Children filed in for the morning assembly.|Học sinh lần lượt vào cho buổi chào cờ.",
+    "The jury began to file in at ten.|Bồi thẩm đoàn bắt đầu lần lượt đi vào lúc mười giờ.",
+    "Students file in quietly after the bell.|Học sinh lặng lẽ lần lượt vào lớp sau tiếng chuông."
+  ],
+  "go out": [
+    "We're going out for dinner tonight.|Tối nay chúng tôi đi ăn ngoài.",
+    "She's been going out with him since May.|Cô ấy hẹn hò với anh ta từ tháng Năm.",
+    "The lights went out during the storm.|Đèn tắt phụt trong cơn bão.",
+    "Let's go out for a walk after dinner.|Sau bữa tối mình ra ngoài đi dạo nhé.",
+    "Don't let the fire go out overnight.|Đừng để lửa tắt trong đêm."
+  ],
+  "drop in": [
+    "Drop in for coffee whenever you like.|Tạt vào uống cà phê lúc nào cũng được nhé.",
+    "My neighbor dropped in unannounced last night.|Hàng xóm tạt vào bất chợt tối qua.",
+    "He drops in on his parents every Sunday.|Anh ấy ghé thăm bố mẹ mỗi Chủ nhật.",
+    "The doctor may drop in to check on you later.|Bác sĩ có thể ghé qua kiểm tra bạn lát nữa.",
+    "Old friends often drop in during the holidays.|Bạn cũ thường tạt qua chơi vào dịp lễ."
+  ],
+  "made up": [
+    "He made up an excuse about traffic.|Anh ta bịa ra cái cớ tắc đường.",
+    "The whole story was made up.|Cả câu chuyện là dựng lên hết.",
+    "They argued but made up the next morning.|Họ cãi nhau nhưng làm hòa sáng hôm sau.",
+    "Her face was heavily made up for the stage.|Gương mặt cô được trang điểm đậm để lên sân khấu.",
+    "The team is made up entirely of volunteers.|Đội gồm toàn bộ là tình nguyện viên."
+  ],
+  "bang out": [
+    "She banged out the report in two hours.|Cô ấy làm cho xong báo cáo trong hai tiếng.",
+    "He banged out a few emails before lunch.|Anh ấy tuôn ra vài cái email trước bữa trưa.",
+    "The band banged out three songs in a row.|Ban nhạc chơi liền ba bài một mạch.",
+    "Can you bang out a quick draft tonight?|Tối nay bạn làm nhanh giúp một bản nháp được không?",
+    "He can bang out a tune on any piano.|Anh có thể đánh ngay một giai điệu trên bất kỳ cây đàn piano nào."
+  ],
+  "close out": [
+    "They closed out the year with record sales.|Họ kết thúc năm với doanh số kỷ lục.",
+    "She closed out her account at the bank.|Cô ấy tất toán tài khoản ở ngân hàng.",
+    "The store is closing out its summer stock.|Cửa hàng đang thanh lý hàng hè.",
+    "The team hopes to close out the game in the last quarter.|Đội hy vọng khép lại trận đấu trong hiệp cuối.",
+    "Shops close out old models before the new ones arrive.|Các cửa hàng thanh lý mẫu cũ trước khi mẫu mới về."
+  ],
+  "eat out": [
+    "We eat out about twice a month.|Chúng tôi ăn ngoài khoảng hai lần một tháng.",
+    "Eating out every day gets expensive.|Ăn tiệm mỗi ngày tốn kém lắm.",
+    "Let's eat out tonight instead of cooking.|Tối nay đi ăn ngoài thay vì nấu nhé.",
+    "Families eat out less when money is tight.|Các gia đình ít ăn ngoài hơn khi tiền bạc eo hẹp.",
+    "When we eat out, my son always orders pizza.|Mỗi lần đi ăn ngoài, con trai tôi luôn gọi pizza."
+  ],
+  "pack on": [
+    "He packed on ten pounds over the winter.|Anh ấy tăng gần năm cân trong mùa đông.",
+    "She packed on muscle after months of training.|Cô ấy lên cơ sau nhiều tháng tập luyện.",
+    "It's easy to pack on weight during holidays.|Rất dễ tăng cân trong dịp lễ.",
+    "Seals pack on blubber to survive the cold.|Hải cẩu tích lớp mỡ dày để sống sót qua giá lạnh.",
+    "Some athletes pack on muscle too quickly.|Một số vận động viên tăng cơ quá nhanh."
+  ],
+  "throw out": [
+    "Throw out anything past its expiry date.|Vứt bỏ mọi thứ đã quá hạn sử dụng.",
+    "The judge threw out the case for lack of evidence.|Thẩm phán bác bỏ vụ kiện vì thiếu chứng cứ.",
+    "He was thrown out of the bar at midnight.|Anh ta bị tống ra khỏi quán bar lúc nửa đêm.",
+    "Don't throw out the box; we might need it.|Đừng vứt cái hộp đi; có thể ta sẽ cần đến.",
+    "The committee threw out my proposal.|Ủy ban bác bỏ đề xuất của tôi."
+  ],
+  "pore over": [
+    "She pored over the documents all night.|Cô ấy chúi mũi đọc đống tài liệu suốt đêm.",
+    "He pored over old maps looking for the route.|Anh nghiền ngẫm mấy tấm bản đồ cũ để tìm đường.",
+    "Analysts pored over the quarterly figures.|Các nhà phân tích nghiền ngẫm số liệu quý.",
+    "Fans pore over every detail of the new trailer.|Người hâm mộ soi kỹ từng chi tiết của đoạn giới thiệu mới.",
+    "Lawyers will pore over the contract before we sign.|Luật sư sẽ nghiền ngẫm hợp đồng trước khi chúng ta ký."
+  ],
+  "listen in": [
+    "Someone was listening in on our conversation.|Có ai đó nghe lén cuộc trò chuyện của chúng tôi.",
+    "Feel free to listen in on the training call.|Bạn cứ nghe ké buổi họp đào tạo nhé.",
+    "Thousands listen in to her podcast weekly.|Hàng nghìn người theo dõi podcast của cô mỗi tuần.",
+    "Parents can listen in on the class online.|Phụ huynh có thể nghe ké lớp học trực tuyến.",
+    "Millions listen in to the match on the radio.|Hàng triệu người nghe tường thuật trận đấu qua radio."
+  ],
+  "soldier on": [
+    "She soldiered on despite the fever.|Cô ấy kiên trì làm tiếp dù đang sốt.",
+    "The small team soldiered on without funding.|Nhóm nhỏ vẫn kiên trì tiếp tục dù không có kinh phí.",
+    "He soldiered on through the last two miles.|Anh ấy gắng gượng đi nốt hai dặm cuối.",
+    "When you're sick, it's better to rest than to soldier on.|Khi ốm, nghỉ ngơi vẫn tốt hơn là cố gắng làm tiếp.",
+    "The old car continues to soldier on after twenty years.|Chiếc xe cũ vẫn bền bỉ chạy sau hai mươi năm."
+  ],
+  "pop in": [
+    "I'll pop in on my way home.|Tôi sẽ tạt vào một lát trên đường về.",
+    "She popped in to borrow some sugar.|Cô ấy tạt qua mượn ít đường.",
+    "He pops in for a chat most mornings.|Anh ấy hay tạt vào tán gẫu vào buổi sáng.",
+    "The nurse will pop in every hour.|Y tá sẽ ghé qua mỗi giờ.",
+    "Can I pop in to use your printer?|Tôi tạt vào dùng nhờ máy in được không?"
+  ]
 }

@@ -2,301 +2,421 @@
   "welfare": [
     "The school cares about the welfare of every child.|Trường quan tâm đến phúc lợi của từng đứa trẻ.",
     "Denmark is often described as a welfare state.|Đan Mạch thường được mô tả là một nhà nước phúc lợi.",
-    "His family lived on welfare for almost two years.|Gia đình anh ấy sống nhờ trợ cấp xã hội gần hai năm."
+    "His family lived on welfare for almost two years.|Gia đình anh ấy sống nhờ trợ cấp xã hội gần hai năm.",
+    "Animal welfare groups protested outside the zoo.|Các nhóm bảo vệ quyền lợi động vật biểu tình bên ngoài sở thú.",
+    "The government spends billions on welfare every year.|Chính phủ chi hàng tỷ cho phúc lợi xã hội mỗi năm."
   ],
   "essentially": [
     "The two proposals are essentially the same thing.|Hai đề xuất về cơ bản là một.",
-    "Your summary is essentially correct, just check the dates.|Bản tóm tắt của bạn về cơ bản là đúng, chỉ cần rà lại ngày tháng.",
-    "It's essentially a matter of money, not talent.|Thực chất đây là chuyện tiền bạc, không phải tài năng."
+    "Your summary is essentially correct; just check the dates.|Bản tóm tắt của bạn về cơ bản là đúng, chỉ cần rà lại ngày tháng.",
+    "It's essentially a matter of money, not talent.|Thực chất đây là chuyện tiền bạc, không phải tài năng.",
+    "Essentially, we need more time.|Về cơ bản, chúng ta cần thêm thời gian.",
+    "The village has remained essentially unchanged for a century.|Ngôi làng về cơ bản vẫn không thay đổi suốt một thế kỷ."
   ],
   "hunting": [
     "My uncle goes hunting in the mountains every fall.|Mùa thu nào chú tôi cũng lên núi săn bắn.",
     "I've been job hunting since March with no luck.|Tôi tìm việc từ tháng Ba tới giờ mà chưa được.",
-    "House hunting in this city is completely exhausting.|Đi tìm nhà ở thành phố này mệt muốn xỉu."
+    "House hunting in this city is completely exhausting.|Đi tìm nhà ở thành phố này mệt muốn xỉu.",
+    "Hunting is banned in the national park.|Săn bắn bị cấm trong vườn quốc gia.",
+    "Owls do most of their hunting at night.|Cú chủ yếu đi săn vào ban đêm."
   ],
   "odd": [
     "That's an odd thing to say at a wedding.|Nói vậy trong đám cưới thì kỳ lạ thật.",
     "Houses with odd numbers are on this side.|Nhà số lẻ nằm ở bên này đường.",
-    "He does odd jobs around the neighborhood for cash.|Anh ấy làm mấy việc lặt vặt quanh xóm để kiếm tiền."
+    "He does odd jobs around the neighborhood for cash.|Anh ấy làm mấy việc lặt vặt quanh xóm để kiếm tiền.",
+    "Which word is the odd one out?|Từ nào khác loại?",
+    "It's odd that she hasn't called yet.|Lạ thật, cô ấy vẫn chưa gọi."
   ],
   "racist": [
     "He was fired for posting racist remarks online.|Anh ta bị sa thải vì đăng những lời lẽ phân biệt chủng tộc trên mạng.",
     "The club has a long history of racist attitudes.|Câu lạc bộ này có tiền sử lâu dài về thái độ kỳ thị chủng tộc.",
-    "Several fans reported racist abuse during the match.|Vài cổ động viên trình báo bị lăng mạ phân biệt chủng tộc trong trận đấu."
+    "Several fans reported racist abuse during the match.|Vài cổ động viên trình báo bị lăng mạ phân biệt chủng tộc trong trận đấu.",
+    "Racist jokes are never funny.|Những câu đùa phân biệt chủng tộc chẳng bao giờ buồn cười.",
+    "The school has zero tolerance for racist language.|Nhà trường tuyệt đối không dung thứ ngôn từ phân biệt chủng tộc."
   ],
   "sexy": [
     "He thinks he looks sexy in those sunglasses.|Anh ta nghĩ mình trông quyến rũ với cặp kính râm đó.",
     "The singer has a low, sexy voice.|Cô ca sĩ có giọng trầm và rất gợi cảm.",
-    "Data cleaning isn't sexy, but it pays well.|Làm sạch dữ liệu chẳng hấp dẫn gì, nhưng lương cao."
+    "Data cleaning isn't sexy, but it pays well.|Làm sạch dữ liệu chẳng hấp dẫn gì, nhưng lương cao.",
+    "The ad uses sexy models to sell cars.|Quảng cáo dùng người mẫu gợi cảm để bán xe hơi.",
+    "She felt sexy in her new red dress.|Cô ấy thấy mình quyến rũ trong chiếc váy đỏ mới."
   ],
   "suck": [
     "He sucked the last of his drink through a straw.|Anh ấy hút nốt chỗ nước bằng ống hút.",
-    "This weather sucks, we're stuck inside again.|Thời tiết chán thật, lại phải ở lì trong nhà.",
-    "Stop sucking up to the boss all the time.|Đừng có nịnh sếp suốt ngày như thế nữa."
+    "This weather sucks. We're stuck inside again.|Thời tiết chán thật, lại phải ở lì trong nhà.",
+    "Stop sucking up to the boss all the time.|Đừng có nịnh sếp suốt ngày như thế nữa.",
+    "Babies suck their thumbs to calm down.|Em bé mút ngón tay cái để bình tĩnh lại.",
+    "Mosquitoes suck blood.|Muỗi hút máu."
   ],
   "walker": [
     "He's a keen walker and hikes every weekend.|Anh ấy mê đi bộ và cuối tuần nào cũng leo núi.",
     "My grandmother gets around with a walker now.|Bà tôi giờ đi lại bằng khung tập đi.",
-    "Our dog walker comes at noon every day.|Người dắt chó đi dạo của nhà tôi đến vào trưa mỗi ngày."
+    "Our dog walker comes at noon every day.|Người dắt chó đi dạo của nhà tôi đến vào trưa mỗi ngày.",
+    "My father is a fast walker, so it's hard to keep up.|Bố tôi đi bộ rất nhanh nên khó mà theo kịp.",
+    "Hill walkers should check the weather first.|Người đi bộ leo đồi nên kiểm tra thời tiết trước."
   ],
   "boost": [
     "The tax cut should boost the economy a little.|Việc giảm thuế chắc sẽ thúc đẩy nền kinh tế đôi chút.",
     "The win gave the whole team a huge boost.|Chiến thắng đó khiến cả đội phấn chấn hẳn lên.",
-    "Winning that prize really boosted her confidence.|Giải thưởng đó thực sự giúp cô ấy tự tin hơn."
+    "Winning that prize really boosted her confidence.|Giải thưởng đó thực sự giúp cô ấy tự tin hơn.",
+    "A cup of coffee gives me a quick boost.|Một tách cà phê giúp tôi tỉnh táo nhanh.",
+    "The festival boosts tourism every summer.|Lễ hội thúc đẩy du lịch mỗi mùa hè."
   ],
   "crack": [
     "There's a long crack in the bathroom wall.|Có một vết nứt dài trên tường nhà tắm.",
     "Crack two eggs into the bowl and stir.|Đập hai quả trứng vào bát rồi khuấy đều.",
-    "Police are cracking down on illegal parking.|Cảnh sát đang mạnh tay với nạn đỗ xe trái phép."
+    "Police are cracking down on illegal parking.|Cảnh sát đang mạnh tay với nạn đỗ xe trái phép.",
+    "He cracked a joke to break the ice.|Anh ấy pha một câu đùa để phá tan không khí ngượng ngùng.",
+    "Some players crack under pressure.|Một số cầu thủ gục ngã trước áp lực."
   ],
   "deck": [
     "We sat on deck watching the coast go by.|Chúng tôi ngồi trên boong ngắm bờ biển trôi qua.",
     "They built a wooden deck behind the house.|Họ làm một sàn hiên bằng gỗ phía sau nhà.",
-    "Shuffle the deck and deal seven cards each.|Xào bài rồi chia mỗi người bảy lá."
+    "Shuffle the deck and deal seven cards each.|Xào bài rồi chia mỗi người bảy lá.",
+    "Passengers relaxed on the sun deck.|Hành khách thư giãn trên boong tắm nắng.",
+    "It's all hands on deck before the big launch.|Trước đợt ra mắt lớn, ai cũng phải xắn tay vào làm."
   ],
   "evolution": [
     "Darwin's theory of evolution changed science forever.|Thuyết tiến hóa của Darwin đã thay đổi khoa học mãi mãi.",
     "The evolution of language fascinates her.|Sự phát triển của ngôn ngữ khiến cô ấy mê mẩn.",
-    "The evolution of this brand took twenty years.|Sự chuyển mình của thương hiệu này mất hai mươi năm."
+    "The evolution of this brand took twenty years.|Sự chuyển mình của thương hiệu này mất hai mươi năm.",
+    "Human evolution took millions of years.|Quá trình tiến hóa của loài người mất hàng triệu năm.",
+    "The museum shows the evolution of the bicycle.|Bảo tàng giới thiệu quá trình phát triển của chiếc xe đạp."
   ],
   "institution": [
     "The bank is the oldest financial institution in town.|Ngân hàng đó là tổ chức tài chính lâu đời nhất thị trấn.",
     "Marriage as an institution has changed a lot.|Hôn nhân với tư cách một thiết chế đã thay đổi nhiều.",
-    "He taught at that educational institution for decades.|Ông ấy dạy ở cơ sở giáo dục đó suốt mấy chục năm."
+    "He taught at that educational institution for decades.|Ông ấy dạy ở cơ sở giáo dục đó suốt mấy chục năm.",
+    "The café has become a local institution.|Quán cà phê đã trở thành một nét đặc trưng của khu phố.",
+    "Public institutions should be open to everyone.|Các cơ quan công quyền phải phục vụ mọi người."
   ],
   "memorial": [
     "They laid flowers at the war memorial this morning.|Sáng nay họ đặt hoa ở đài tưởng niệm chiến tranh.",
     "A memorial service will be held on Sunday.|Lễ tưởng niệm sẽ được tổ chức vào Chủ nhật.",
-    "The garden is a memorial to the victims of the fire.|Khu vườn là nơi tưởng nhớ các nạn nhân vụ cháy."
+    "The garden is a memorial to the victims of the fire.|Khu vườn là nơi tưởng nhớ các nạn nhân vụ cháy.",
+    "The memorial lists the names of all the victims.|Đài tưởng niệm khắc tên tất cả các nạn nhân.",
+    "A memorial concert was held for the singer.|Một buổi hòa nhạc tưởng nhớ nữ ca sĩ đã được tổ chức."
   ],
   "priority": [
     "Getting the kids to school is my top priority.|Đưa bọn trẻ đến trường là ưu tiên hàng đầu của tôi.",
     "We give priority to families with young children.|Chúng tôi ưu tiên các gia đình có con nhỏ.",
-    "You need to set clearer priorities this year.|Năm nay bạn cần xác định thứ tự ưu tiên rõ ràng hơn."
+    "You need to set clearer priorities this year.|Năm nay bạn cần xác định thứ tự ưu tiên rõ ràng hơn.",
+    "Patients with serious injuries get priority.|Bệnh nhân bị thương nặng được ưu tiên.",
+    "What are your priorities for this year?|Những ưu tiên của bạn trong năm nay là gì?"
   ],
   "whereas": [
     "I love the mountains, whereas he prefers the beach.|Tôi mê núi, còn anh ấy thì thích biển hơn.",
     "Some staff agreed with the plan, whereas others walked out.|Một số nhân viên đồng ý với kế hoạch, trong khi số khác thì bỏ ra ngoài.",
-    "We work from home now, whereas in the past we commuted.|Giờ chúng tôi làm ở nhà, trong khi trước kia phải đi lại mỗi ngày."
+    "We work from home now, whereas in the past we commuted.|Giờ chúng tôi làm ở nhà, trong khi trước kia phải đi lại mỗi ngày.",
+    "Whereas my sister loves parties, I prefer quiet nights in.|Chị tôi thích tiệc tùng, còn tôi thì thích những buổi tối yên tĩnh ở nhà.",
+    "Cats are independent, whereas dogs need a lot of attention.|Mèo thì độc lập, trong khi chó cần được quan tâm nhiều."
   ],
   "abandoned": [
     "Kids play in that abandoned building after school.|Bọn trẻ hay chơi trong tòa nhà bỏ hoang đó sau giờ học.",
     "An abandoned car has been on our street for weeks.|Một chiếc xe bị bỏ lại nằm ở phố nhà tôi mấy tuần rồi.",
-    "The puppy was found abandoned in a cardboard box.|Con cún được tìm thấy khi bị bỏ rơi trong một thùng giấy."
+    "The puppy was found abandoned in a cardboard box.|Con cún được tìm thấy khi bị bỏ rơi trong một thùng giấy.",
+    "They explored an abandoned mine in the hills.|Họ khám phá một mỏ bỏ hoang trên đồi.",
+    "The plan was abandoned because of the cost.|Kế hoạch bị hủy bỏ vì chi phí."
   ],
   "alliance": [
     "The two parties formed an alliance before the election.|Hai đảng lập liên minh trước kỳ bầu cử.",
     "The country joined a military alliance in 1955.|Nước đó gia nhập một liên minh quân sự vào năm 1955.",
-    "We're working in alliance with several local schools.|Chúng tôi đang liên kết với vài trường học địa phương."
+    "We're working in alliance with several local schools.|Chúng tôi đang liên kết với vài trường học địa phương.",
+    "The alliance between the two companies surprised everyone.|Liên minh giữa hai công ty khiến ai cũng bất ngờ.",
+    "Small farmers formed an alliance to sell directly to shops.|Nông dân nhỏ lẻ lập liên minh để bán thẳng cho cửa hàng."
   ],
   "bid": [
     "Someone bid a thousand dollars for the old painting.|Có người trả giá một nghìn đô cho bức tranh cũ.",
     "The company submitted a bid for the highway contract.|Công ty đã nộp hồ sơ thầu cho hợp đồng làm đường.",
-    "His bid for the mayor's office failed twice.|Nỗ lực tranh ghế thị trưởng của ông ấy thất bại hai lần."
+    "His bid for the mayor's office failed twice.|Nỗ lực tranh ghế thị trưởng của ông ấy thất bại hai lần.",
+    "The city is making a bid to host the Olympics.|Thành phố đang xin đăng cai Thế vận hội.",
+    "We bid farewell to our old neighbors.|Chúng tôi chào tạm biệt những người hàng xóm cũ."
   ],
   "convinced": [
     "I'm convinced he's telling the truth this time.|Tôi tin chắc lần này anh ta nói thật.",
     "She's firmly convinced that walking cures everything.|Cô ấy tin chắc rằng đi bộ chữa được mọi thứ.",
-    "The jury clearly wasn't convinced by his story.|Bồi thẩm đoàn rõ ràng không bị thuyết phục bởi câu chuyện của anh ta."
+    "The jury clearly wasn't convinced by his story.|Bồi thẩm đoàn rõ ràng không bị thuyết phục bởi câu chuyện của anh ta.",
+    "She was convinced we'd met somewhere before.|Cô ấy tin chắc chúng tôi đã gặp nhau ở đâu đó rồi.",
+    "Her parents were convinced of her innocence.|Bố mẹ cô ấy tin chắc cô ấy vô tội."
   ],
   "decent": [
     "He's a decent guy who always helps out.|Anh ấy là người tử tế, lúc nào cũng sẵn lòng giúp.",
     "We finally had a decent meal after the hike.|Sau chuyến leo núi cuối cùng chúng tôi cũng có bữa ăn tử tế.",
-    "The job pays decent wages for this area.|Công việc đó trả lương khá so với vùng này."
+    "The job pays decent wages for this area.|Công việc đó trả lương khá so với vùng này.",
+    "Put on some decent clothes; we have guests.|Mặc quần áo cho tử tế vào, nhà có khách.",
+    "It's hard to find a decent apartment for that price.|Khó mà tìm được căn hộ ra hồn với giá đó."
   ],
   "elite": [
     "The ruling elite lives far from these problems.|Giới tinh hoa cầm quyền sống xa những vấn đề này.",
     "Only elite athletes train that many hours a day.|Chỉ vận động viên đỉnh cao mới tập nhiều giờ như vậy mỗi ngày.",
-    "He got into one of the country's elite universities.|Cậu ấy đỗ vào một trong những trường đại học hàng đầu cả nước."
+    "He got into one of the country's elite universities.|Cậu ấy đỗ vào một trong những trường đại học hàng đầu cả nước.",
+    "Only an elite few can afford to live there.|Chỉ một số ít người thuộc giới thượng lưu đủ tiền sống ở đó.",
+    "He served in an elite unit of the army.|Anh ấy phục vụ trong một đơn vị tinh nhuệ của quân đội."
   ],
   "landing": [
     "The pilot made a safe landing despite the storm.|Phi công hạ cánh an toàn dù trời bão.",
     "We waited on the landing while she found her keys.|Chúng tôi đợi ở chiếu nghỉ cầu thang trong lúc cô ấy tìm chìa khóa.",
-    "The moon landing still amazes me every time.|Cuộc đổ bộ mặt trăng lần nào nghĩ tới tôi cũng thấy kinh ngạc."
+    "The moon landing still amazes me every time.|Cuộc đổ bộ mặt trăng lần nào nghĩ tới tôi cũng thấy kinh ngạc.",
+    "The plane made an emergency landing in Da Nang.|Máy bay hạ cánh khẩn cấp xuống Đà Nẵng.",
+    "Passengers clapped after a smooth landing.|Hành khách vỗ tay sau khi máy bay hạ cánh êm ái."
   ],
   "rush hour": [
     "Try to avoid the highway during rush hour.|Cố tránh đi cao tốc vào giờ cao điểm.",
     "Rush hour traffic added an hour to my trip.|Kẹt xe giờ cao điểm khiến tôi đi lâu thêm một tiếng.",
-    "The morning rush hour starts around seven here.|Giờ cao điểm buổi sáng ở đây bắt đầu khoảng bảy giờ."
+    "The morning rush hour starts around seven here.|Giờ cao điểm buổi sáng ở đây bắt đầu khoảng bảy giờ.",
+    "The buses are packed at rush hour.|Xe buýt chật kín vào giờ cao điểm.",
+    "Rush hour in Hanoi can last for hours.|Giờ cao điểm ở Hà Nội có thể kéo dài hàng tiếng."
   ],
   "idiot": [
     "I felt like a complete idiot during the interview.|Tôi thấy mình như thằng ngốc trong buổi phỏng vấn.",
     "Some idiot parked across two spaces again.|Lại có tên nào đó đỗ xe chiếm hai chỗ.",
-    "Stop acting like an idiot in front of guests.|Đừng có xử sự như đồ dở hơi trước mặt khách."
+    "Stop acting like an idiot in front of guests.|Đừng có xử sự như đồ dở hơi trước mặt khách.",
+    "Don't be an idiot; wear your helmet.|Đừng có ngốc, đội mũ bảo hiểm vào.",
+    "I was an idiot to believe him.|Tôi thật ngốc khi tin anh ta."
   ],
   "lifetime": [
     "He visited over forty countries in his lifetime.|Ông ấy đã đến hơn bốn mươi nước trong đời.",
     "This trip is the chance of a lifetime.|Chuyến đi này là cơ hội cả đời mới có một lần.",
-    "The pan comes with a lifetime guarantee.|Cái chảo này được bảo hành trọn đời."
+    "The pan comes with a lifetime guarantee.|Cái chảo này được bảo hành trọn đời.",
+    "It was a once-in-a-lifetime experience.|Đó là trải nghiệm có một không hai trong đời.",
+    "Winning the lottery is a once-in-a-lifetime event.|Trúng xổ số là chuyện cả đời mới có một lần."
   ],
   "mortgage": [
     "We took out a mortgage on a small apartment.|Chúng tôi vay thế chấp để mua một căn hộ nhỏ.",
     "Mortgage rates went up again this month.|Lãi suất vay mua nhà tháng này lại tăng.",
-    "They finally paid off the mortgage last year.|Năm ngoái họ cuối cùng cũng trả xong khoản vay mua nhà."
+    "They finally paid off the mortgage last year.|Năm ngoái họ cuối cùng cũng trả xong khoản vay mua nhà.",
+    "Our monthly mortgage payment is higher than our rent was.|Khoản trả góp mua nhà hằng tháng còn cao hơn tiền thuê nhà trước đây.",
+    "They had to mortgage the farm to pay the debts.|Họ phải thế chấp trang trại để trả nợ."
   ],
   "potentially": [
     "Mixing those two cleaners is potentially dangerous.|Trộn hai loại chất tẩy đó có khả năng gây nguy hiểm.",
     "The infection is potentially serious if you ignore it.|Nhiễm trùng này có thể trở nặng nếu bạn phớt lờ.",
-    "This change could potentially save us thousands of dollars.|Thay đổi này có thể giúp chúng ta tiết kiệm hàng nghìn đô."
+    "This change could potentially save us thousands of dollars.|Thay đổi này có thể giúp chúng ta tiết kiệm hàng nghìn đô.",
+    "Some mushrooms are potentially fatal if eaten.|Một số loại nấm có thể gây tử vong nếu ăn phải.",
+    "This is potentially the biggest deal of the year.|Đây có thể là thương vụ lớn nhất năm."
   ],
   "translation": [
     "I read the English translation, not the original.|Tôi đọc bản dịch tiếng Anh chứ không phải bản gốc.",
     "A literal translation often sounds really strange.|Bản dịch sát từng chữ nghe thường rất kỳ.",
-    "Some jokes just get lost in translation.|Có những câu đùa dịch ra là mất hết cái hay."
+    "Some jokes just get lost in translation.|Có những câu đùa dịch ra là mất hết cái hay.",
+    "The translation is better than the original.|Bản dịch còn hay hơn bản gốc.",
+    "She works in translation for the United Nations.|Cô ấy làm công việc dịch thuật cho Liên Hợp Quốc."
   ],
   "enterprise": [
     "She runs a small private enterprise from her kitchen.|Cô ấy điều hành một doanh nghiệp tư nhân nhỏ ngay từ căn bếp.",
     "Rebuilding the whole house was a risky enterprise.|Xây lại cả căn nhà là một công cuộc đầy rủi ro.",
-    "Free enterprise transformed the economy after the war.|Kinh tế tư doanh đã thay đổi nền kinh tế sau chiến tranh."
+    "Free enterprise transformed the economy after the war.|Kinh tế tư doanh đã thay đổi nền kinh tế sau chiến tranh.",
+    "The government supports small and medium enterprises.|Chính phủ hỗ trợ các doanh nghiệp vừa và nhỏ.",
+    "We need people with enterprise and new ideas.|Chúng tôi cần những người dám nghĩ dám làm và có ý tưởng mới."
   ],
   "mill": [
     "His grandfather worked at the cotton mill for years.|Ông của anh ấy làm ở nhà máy dệt bông nhiều năm.",
     "The old flour mill is now a fancy restaurant.|Nhà máy xay bột cũ giờ thành nhà hàng sang trọng.",
-    "They mill the grain right here on the farm.|Họ xay ngũ cốc ngay tại nông trại này."
+    "They mill the grain right here on the farm.|Họ xay ngũ cốc ngay tại nông trại này.",
+    "The movie was pretty run-of-the-mill.|Bộ phim khá tầm thường.",
+    "The paper mill closed after fifty years.|Nhà máy giấy đóng cửa sau năm mươi năm."
   ],
   "spin": [
     "The kids love to spin around until they fall.|Bọn trẻ thích quay tròn cho đến khi ngã lăn ra.",
     "Spin the wheel and see what you win.|Quay vòng quay xem bạn trúng gì nào.",
-    "The company tried to put a positive spin on the news.|Công ty cố xoay tin đó theo hướng tích cực."
+    "The company tried to put a positive spin on the news.|Công ty cố xoay tin đó theo hướng tích cực.",
+    "The car spun on the ice and hit a tree.|Chiếc xe quay tròn trên băng rồi đâm vào cây.",
+    "Let's go for a spin in my new car.|Đi một vòng bằng xe mới của tôi nhé."
   ],
   "valid": [
     "You need a valid passport to board the plane.|Bạn cần hộ chiếu còn hạn để lên máy bay.",
-    "That's a valid point, I hadn't thought of it.|Đó là ý xác đáng, tôi chưa nghĩ tới.",
-    "The ticket is valid until the end of December.|Vé có giá trị đến hết tháng Mười Hai."
+    "That's a valid point. I hadn't thought of it.|Đó là ý xác đáng, tôi chưa nghĩ tới.",
+    "The ticket is valid until the end of December.|Vé có giá trị đến hết tháng Mười Hai.",
+    "Is this coupon still valid?|Phiếu giảm giá này còn hiệu lực không?",
+    "He had a valid reason for missing the meeting.|Anh ấy có lý do chính đáng để vắng mặt trong cuộc họp."
   ],
   "vital": [
     "Sleep plays a vital role in recovery.|Giấc ngủ đóng vai trò thiết yếu trong việc hồi phục.",
     "It's of vital importance that everyone signs in.|Việc ai cũng phải ký tên vào sổ là cực kỳ quan trọng.",
-    "She gave police some vital information about the car.|Cô ấy cung cấp cho cảnh sát thông tin sống còn về chiếc xe."
+    "She gave police some vital information about the car.|Cô ấy cung cấp cho cảnh sát thông tin sống còn về chiếc xe.",
+    "Clean water is vital for good health.|Nước sạch rất quan trọng cho sức khỏe.",
+    "Doctors checked his vital signs every hour.|Bác sĩ kiểm tra các chỉ số sinh tồn của anh ấy mỗi giờ."
   ],
   "commerce": [
     "The river was once the center of local commerce.|Con sông từng là trung tâm buôn bán của cả vùng.",
     "He joined the chamber of commerce last year.|Ông ấy gia nhập phòng thương mại từ năm ngoái.",
-    "Electronic commerce changed how small shops sell.|Thương mại điện tử đã thay đổi cách các cửa hàng nhỏ bán hàng."
+    "Electronic commerce changed how small shops sell.|Thương mại điện tử đã thay đổi cách các cửa hàng nhỏ bán hàng.",
+    "The Silk Road was important for commerce between East and West.|Con đường Tơ lụa rất quan trọng cho giao thương giữa phương Đông và phương Tây.",
+    "The city is a center of commerce and industry.|Thành phố là trung tâm thương mại và công nghiệp."
   ],
   "creek": [
     "The kids caught frogs down at the creek.|Bọn trẻ bắt ếch dưới con lạch.",
     "We had to cross the creek on foot.|Chúng tôi phải lội bộ qua con suối nhỏ.",
-    "The creek dries up completely every August.|Cứ tháng Tám là con lạch cạn khô."
+    "The creek dries up completely every August.|Cứ tháng Tám là con lạch cạn khô.",
+    "Stay away from the creek after heavy rain.|Tránh xa con lạch sau những trận mưa lớn.",
+    "Without a map, we'll be up the creek.|Không có bản đồ thì chúng ta gặp rắc rối to."
   ],
   "fraud": [
     "She was arrested for credit card fraud.|Cô ta bị bắt vì gian lận thẻ tín dụng.",
     "Two managers were caught committing fraud last spring.|Hai quản lý bị bắt quả tang lừa đảo hồi mùa xuân năm ngoái.",
-    "The insurance company opened a fraud investigation.|Công ty bảo hiểm đã mở cuộc điều tra gian lận."
+    "The insurance company opened a fraud investigation.|Công ty bảo hiểm đã mở cuộc điều tra gian lận.",
+    "Online fraud is growing every year.|Lừa đảo trực tuyến tăng lên mỗi năm.",
+    "The so-called doctor turned out to be a fraud.|Cái gọi là bác sĩ hóa ra là kẻ lừa đảo."
   ],
   "genuine": [
     "The bag is made of genuine leather.|Chiếc túi được làm bằng da thật.",
     "He showed genuine concern when I got sick.|Anh ấy tỏ ra lo lắng thật lòng khi tôi ốm.",
-    "She has a genuine interest in old maps.|Cô ấy thực sự say mê bản đồ cổ."
+    "She has a genuine interest in old maps.|Cô ấy thực sự say mê bản đồ cổ.",
+    "Is this a genuine antique or a copy?|Đây là đồ cổ thật hay đồ nhái?",
+    "Her smile seemed warm and genuine.|Nụ cười của cô ấy có vẻ ấm áp và chân thành."
   ],
   "hook": [
     "Hang your coat on the hook by the door.|Treo áo khoác lên cái móc cạnh cửa nhé.",
     "He baited the hook and cast the line.|Anh ấy móc mồi vào lưỡi câu rồi quăng dây.",
-    "Can you hook up the cables behind the TV?|Bạn nối giúp mấy sợi dây phía sau tivi được không?"
+    "Every good pop song needs a strong hook.|Bài nhạc pop hay nào cũng cần một đoạn điệp khúc thật bắt tai.",
+    "You're off the hook; the meeting was canceled.|Bạn thoát rồi, cuộc họp bị hủy.",
+    "The show hooked me from the first episode.|Bộ phim cuốn hút tôi ngay từ tập đầu."
   ],
   "programming": [
     "She teaches computer programming to teenagers.|Cô ấy dạy lập trình máy tính cho thiếu niên.",
     "Python was my first programming language.|Python là ngôn ngữ lập trình đầu tiên của tôi.",
-    "Weekend television programming is mostly reruns.|Lịch phát sóng cuối tuần chủ yếu là phát lại."
+    "Weekend television programming is mostly reruns.|Lịch phát sóng cuối tuần chủ yếu là phát lại.",
+    "Programming is easier to learn than many people think.|Lập trình dễ học hơn nhiều người nghĩ.",
+    "The channel's children's programming starts at seven.|Các chương trình thiếu nhi của kênh bắt đầu lúc bảy giờ."
   ],
   "reverse": [
     "The court reversed the decision last month.|Tòa đã đảo ngược phán quyết hồi tháng trước.",
     "Put the car in reverse and back out slowly.|Cài số lùi rồi từ từ lùi ra.",
-    "Let's reverse the order and start from the end.|Đảo ngược thứ tự đi, mình bắt đầu từ cuối."
+    "Let's reverse the order and start from the end.|Đảo ngược thứ tự đi, mình bắt đầu từ cuối.",
+    "The new policy had the reverse effect.|Chính sách mới lại có tác dụng ngược.",
+    "Can you reverse into that parking space?|Bạn lùi xe vào chỗ đỗ đó được không?"
   ],
   "self-confident": [
     "She's a self-confident young woman who speaks her mind.|Cô ấy là một cô gái trẻ tự tin, nghĩ gì nói nấy.",
     "He's become much more self-confident since the promotion.|Anh ấy tự tin hơn hẳn từ khi được thăng chức.",
-    "He walked in with a self-confident manner.|Anh ta bước vào với phong thái tự tin."
+    "He walked in with a self-confident manner.|Anh ta bước vào với phong thái tự tin.",
+    "Self-confident people aren't afraid to ask questions.|Người tự tin không ngại đặt câu hỏi.",
+    "She seems self-confident, but she's actually quite shy.|Cô ấy có vẻ tự tin nhưng thật ra khá nhút nhát."
   ],
   "comprehensive": [
     "The book is a comprehensive guide to Italian cooking.|Cuốn sách là cẩm nang toàn diện về ẩm thực Ý.",
     "We bought comprehensive insurance for the whole trip.|Chúng tôi mua bảo hiểm toàn diện cho cả chuyến đi.",
-    "The city ordered a comprehensive review of safety rules.|Thành phố yêu cầu rà soát toàn diện các quy định an toàn."
+    "The city ordered a comprehensive review of safety rules.|Thành phố yêu cầu rà soát toàn diện các quy định an toàn.",
+    "The report gives a comprehensive picture of the problem.|Bản báo cáo cho một cái nhìn toàn diện về vấn đề.",
+    "He went to a comprehensive school in Leeds.|Anh ấy học ở một trường công lập ở Leeds."
   ],
   "consent": [
     "You can't use her photo without her consent.|Bạn không được dùng ảnh của cô ấy khi chưa có sự đồng ý.",
-    "Students under sixteen need parental consent.|Học sinh dưới mười sáu tuổi cần sự đồng ý của phụ huynh.",
-    "He finally consented to a short interview.|Cuối cùng ông ấy cũng đồng ý cho phỏng vấn ngắn."
+    "Patients must give informed consent before surgery.|Bệnh nhân phải đồng ý sau khi được giải thích đầy đủ trước khi phẫu thuật.",
+    "He finally consented to a short interview.|Cuối cùng ông ấy cũng đồng ý cho phỏng vấn ngắn.",
+    "Silence doesn't mean consent.|Im lặng không có nghĩa là đồng ý.",
+    "The landlord consented to lower the rent.|Chủ nhà đồng ý giảm tiền thuê."
   ],
   "divorce": [
     "They got a divorce after fifteen years together.|Họ ly hôn sau mười lăm năm chung sống.",
     "She filed for divorce in the spring.|Cô ấy nộp đơn ly hôn hồi mùa xuân.",
-    "The divorce rate has fallen slightly since 2010.|Tỷ lệ ly hôn giảm nhẹ kể từ năm 2010."
+    "The divorce rate has fallen slightly since 2010.|Tỷ lệ ly hôn giảm nhẹ kể từ năm 2010.",
+    "Divorce can be very hard on children.|Ly hôn có thể rất khó khăn đối với trẻ con.",
+    "They divorced but stayed good friends.|Họ ly hôn nhưng vẫn là bạn tốt."
   ],
   "fate": [
     "Fate brought them together at a rainy bus stop.|Số phận đưa họ đến với nhau ở một trạm xe buýt ngày mưa.",
     "That one email sealed his fate at the company.|Chỉ một email đó đã định đoạt số phận anh ta ở công ty.",
-    "Voters will decide the fate of the old stadium.|Cử tri sẽ quyết định số phận của sân vận động cũ."
+    "Voters will decide the fate of the old stadium.|Cử tri sẽ quyết định số phận của sân vận động cũ.",
+    "The fate of the missing ship is still unknown.|Số phận của con tàu mất tích vẫn còn là ẩn số.",
+    "Don't leave everything to fate; make a plan.|Đừng phó mặc mọi thứ cho số phận, hãy lập kế hoạch."
   ],
   "headquarters": [
     "The company headquarters moved to Austin last year.|Trụ sở chính của công ty chuyển về Austin năm ngoái.",
     "Reporters gathered outside police headquarters all afternoon.|Phóng viên tụ tập bên ngoài trụ sở cảnh sát suốt buổi chiều.",
-    "They plan to move their headquarters overseas.|Họ dự định dời tổng hành dinh ra nước ngoài."
+    "They plan to move their headquarters overseas.|Họ dự định dời tổng hành dinh ra nước ngoài.",
+    "The bank's headquarters is in a glass tower.|Trụ sở chính của ngân hàng nằm trong một tòa tháp kính.",
+    "Headquarters sent us new instructions.|Tổng bộ gửi cho chúng tôi hướng dẫn mới."
   ],
   "heritage": [
     "The festival celebrates the town's cultural heritage.|Lễ hội tôn vinh di sản văn hóa của thị trấn.",
     "Hoi An is a World Heritage Site.|Hội An là một Di sản Thế giới.",
-    "She's very proud of her Irish heritage.|Cô ấy rất tự hào về nguồn cội Ireland của mình."
+    "She's very proud of her Irish heritage.|Cô ấy rất tự hào về nguồn cội Ireland của mình.",
+    "We must protect our heritage for future generations.|Chúng ta phải bảo vệ di sản cho các thế hệ sau.",
+    "The old quarter is full of heritage buildings.|Khu phố cổ có rất nhiều công trình di sản."
   ],
   "initiative": [
     "He took the initiative and called the client himself.|Anh ấy chủ động gọi thẳng cho khách hàng.",
     "The city launched a new recycling initiative.|Thành phố khởi động một sáng kiến tái chế mới.",
-    "We want staff who show initiative without being told.|Chúng tôi cần nhân viên tự giác chủ động, không cần nhắc."
+    "We want staff who show initiative without being told.|Chúng tôi cần nhân viên tự giác chủ động, không cần nhắc.",
+    "She did it on her own initiative.|Cô ấy tự mình làm điều đó.",
+    "The peace initiative failed after a month.|Sáng kiến hòa bình thất bại sau một tháng."
   ],
   "residence": [
     "Please write your current place of residence here.|Vui lòng ghi nơi cư trú hiện tại vào đây.",
     "She applied for permanent residence last year.|Cô ấy nộp hồ sơ xin thường trú từ năm ngoái.",
-    "The ambassador's official residence is downtown.|Dinh thự chính thức của đại sứ nằm ở trung tâm."
+    "The ambassador's official residence is downtown.|Dinh thự chính thức của đại sứ nằm ở trung tâm.",
+    "Students can live in a hall of residence during their first year.|Sinh viên có thể ở ký túc xá trong năm đầu.",
+    "You need a residence permit to work here.|Bạn cần giấy phép cư trú để làm việc ở đây."
   ],
   "salary": [
     "Her annual salary went up by five percent.|Lương năm của cô ấy tăng năm phần trăm.",
     "The job offers a decent basic salary plus bonuses.|Công việc này có lương cơ bản khá cộng thêm thưởng.",
-    "He earns a good salary but works most weekends.|Anh ấy lương cao nhưng hầu như cuối tuần nào cũng làm."
+    "He earns a good salary but works most weekends.|Anh ấy lương cao nhưng hầu như cuối tuần nào cũng làm.",
+    "Salary isn't everything when choosing a job.|Lương không phải là tất cả khi chọn việc.",
+    "She took a lower salary for a more interesting job.|Cô ấy chấp nhận mức lương thấp hơn để có công việc thú vị hơn."
   ],
   "ambassador": [
     "The British ambassador attended the opening ceremony.|Đại sứ Anh đã dự lễ khai mạc.",
     "She was appointed ambassador to France in May.|Bà ấy được bổ nhiệm làm đại sứ tại Pháp hồi tháng Năm.",
-    "The player is a brand ambassador for a shoe company.|Cầu thủ đó là đại sứ thương hiệu cho một hãng giày."
+    "The player is a brand ambassador for a shoe company.|Cầu thủ đó là đại sứ thương hiệu cho một hãng giày.",
+    "Each country sends an ambassador to the UN.|Mỗi nước cử một đại sứ tới Liên Hợp Quốc.",
+    "The singer became a goodwill ambassador for children's rights.|Nữ ca sĩ trở thành đại sứ thiện chí vì quyền trẻ em."
   ],
   "corruption": [
     "Political corruption is the biggest issue for voters.|Tham nhũng chính trị là vấn đề lớn nhất với cử tri.",
     "The mayor was accused of corruption last spring.|Thị trưởng bị cáo buộc tham nhũng hồi mùa xuân năm ngoái.",
-    "A corruption scandal brought down the whole government.|Một vụ bê bối tham nhũng đã kéo sập cả chính phủ."
+    "A corruption scandal brought down the whole government.|Một vụ bê bối tham nhũng đã kéo sập cả chính phủ.",
+    "The new law aims to fight corruption.|Luật mới nhằm chống tham nhũng.",
+    "File corruption can make a document impossible to open.|Tệp bị hỏng có thể khiến tài liệu không mở được."
   ],
   "exception": [
     "Everyone paid full price, with the exception of kids.|Ai cũng trả nguyên giá, ngoại trừ trẻ em.",
     "I don't usually lend books, but I'll make an exception.|Tôi thường không cho mượn sách, nhưng lần này sẽ ngoại lệ.",
-    "There's always an exception to the rule.|Quy tắc nào cũng có ngoại lệ."
+    "There's always an exception to the rule.|Quy tắc nào cũng có ngoại lệ.",
+    "Without exception, every student passed.|Không trừ một ai, tất cả học sinh đều đỗ.",
+    "She's usually calm, but yesterday was an exception.|Cô ấy thường điềm tĩnh, nhưng hôm qua là ngoại lệ."
   ],
   "input": [
     "Rising input costs are squeezing small farmers.|Chi phí đầu vào tăng đang bóp nghẹt nông dân nhỏ lẻ.",
-    "Thanks for your input, it really helped us decide.|Cảm ơn góp ý của bạn, nó giúp bọn mình chốt được.",
-    "Please input your card number on this screen.|Vui lòng nhập số thẻ trên màn hình này."
+    "Thanks for your input. It really helped us decide.|Cảm ơn góp ý của bạn, nó giúp bọn mình chốt được.",
+    "Please input your card number on this screen.|Vui lòng nhập số thẻ trên màn hình này.",
+    "The printer has two input trays.|Máy in có hai khay nạp giấy.",
+    "We'd like input from students before we decide.|Chúng tôi muốn nghe ý kiến của học sinh trước khi quyết định."
   ],
   "lyrics": [
     "I love the melody but the lyrics are silly.|Tôi thích giai điệu nhưng lời bài hát hơi ngớ ngẩn.",
     "He wrote the lyrics on a paper napkin.|Anh ấy viết lời bài hát lên một tờ khăn giấy.",
-    "She memorized the lyrics of every song on the album.|Cô ấy thuộc lòng ca từ của mọi bài trong album."
+    "She memorized the lyrics of every song on the album.|Cô ấy thuộc lòng ca từ của mọi bài trong album.",
+    "Can you find the lyrics online?|Bạn có tìm được lời bài hát trên mạng không?",
+    "The lyrics are about growing up in a small town.|Lời bài hát kể về chuyện lớn lên ở một thị trấn nhỏ."
   ],
   "outcome": [
     "Nobody could predict the outcome of the election.|Không ai đoán được kết quả cuộc bầu cử.",
     "The final outcome was better than we hoped.|Kết cục cuối cùng còn tốt hơn chúng tôi mong đợi.",
-    "Your attitude can really affect the outcome.|Thái độ của bạn có thể ảnh hưởng lớn đến kết quả."
+    "Your attitude can really affect the outcome.|Thái độ của bạn có thể ảnh hưởng lớn đến kết quả.",
+    "Whatever the outcome, I'm proud of you.|Dù kết quả thế nào, tôi vẫn tự hào về bạn.",
+    "Doctors discussed the possible outcomes of the surgery.|Các bác sĩ bàn về những kết quả có thể xảy ra của ca phẫu thuật."
   ],
   "wolf": [
     "A wolf howled somewhere behind the trees.|Một con sói tru lên đâu đó sau rặng cây.",
     "He works alone and calls himself a lone wolf.|Anh ta làm việc một mình và tự gọi mình là sói đơn độc.",
-    "Don't cry wolf unless it's a real emergency.|Đừng kêu cứu vống lên trừ khi thật sự khẩn cấp."
+    "Don't cry wolf unless it's a real emergency.|Đừng kêu cứu vống lên trừ khi thật sự khẩn cấp.",
+    "The wolf is the ancestor of the dog.|Chó sói là tổ tiên của loài chó.",
+    "Wolves were brought back to the park in 1995.|Sói được đưa trở lại công viên vào năm 1995."
   ],
   "commonwealth": [
     "Fifty-six countries belong to the Commonwealth of Nations.|Năm mươi sáu nước thuộc Khối Thịnh vượng chung.",
     "She won a gold medal at the Commonwealth Games.|Cô ấy giành huy chương vàng ở Đại hội Thể thao Khối Thịnh vượng chung.",
-    "Many Commonwealth countries share a similar legal system.|Nhiều nước trong khối có hệ thống pháp luật khá giống nhau."
+    "Many Commonwealth countries share a similar legal system.|Nhiều nước trong khối có hệ thống pháp luật khá giống nhau.",
+    "Australia and Canada are both members of the Commonwealth.|Úc và Canada đều là thành viên của Khối Thịnh vượng chung.",
+    "Puerto Rico is officially a commonwealth of the United States.|Puerto Rico chính thức là một lãnh thổ tự trị (commonwealth) thuộc Hoa Kỳ."
   ],
   "ease": [
     "She passed the driving test with ease.|Cô ấy vượt qua bài thi lái xe một cách dễ dàng.",
     "Take these pills to ease the pain tonight.|Uống mấy viên này để giảm đau cho đêm nay.",
-    "The talks helped ease tension between the two sides.|Các cuộc đàm phán đã giúp xoa dịu căng thẳng giữa hai bên."
+    "The talks helped ease tension between the two sides.|Các cuộc đàm phán đã giúp xoa dịu căng thẳng giữa hai bên.",
+    "Please sit down and be at ease.|Mời ngồi, cứ tự nhiên.",
+    "The app is popular for its ease of use.|Ứng dụng được ưa chuộng vì dễ sử dụng."
   ]
 }

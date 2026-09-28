@@ -24,7 +24,7 @@ export interface Word {
 // Chỉ mục từ rút gọn: id -> [ipa, meaning_vi]
 export type WordIndex = Record<string, [string, string]>;
 
-// Câu ví dụ (≥2 câu/từ, mục tiêu 3 cho B1–B2). public/data/examples/…
+// Câu ví dụ (B1–C2: 5 câu/từ). public/data/examples/…
 export interface Example {
   wordId: string;
   en: string;
