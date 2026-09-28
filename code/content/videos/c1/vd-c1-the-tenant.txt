@@ -1,0 +1,34 @@
+=== vd-c1-the-tenant
+title: Put Yourself in Their Shoes | Hãy đặt mình vào vị trí của họ
+source: st-c1-the-tenant
+summary: Bà Rosa ở quán cà phê bên cạnh không tranh cãi chuyện luật với Daniel; bà khéo léo khơi gợi những giá trị chung để anh tự hỏi mình muốn trở thành kiểu chủ nhà nào.
+scene: cafe
+prop: mug x=830
+cast: rosa name=Rosa look=mom x=520 voice=en-US-MichelleNeural pitch=-4Hz style.hair=curly style.hairColor=#3B2314 style.skin=#C68E6A style.skinShade=#B07B58 style.outfit=apron style.top=#E74C3C style.topShade=#CB4335
+cast: daniel name=Daniel look=man x=1160 voice=en-US-ChristopherNeural pitch=-1Hz rate=+2% style.hair=short style.hairColor=#8B6B4A style.outfit=jacket style.top=#566573 style.topShade=#4D5B69
+names: Rosa, Daniel, Albert, Mr. Mensah, Ferrier Street, Hackney
+words: eviction; displacement; influx; integral; tribunal; sentimental
+focus: Thuyết phục bằng cách khơi gợi giá trị chung, không đối đầu
+pattern: I'm not asking you to…, I'm asking… · Surely you'd agree that…? · Put yourself in their shoes · Think about what it would mean for… · It's not just about… · Isn't it worth…?
+explain: Hạ nhiệt trước: "I'm not arguing with the law. I'm asking…". Mời đồng thuận: "Surely you'd agree that…?". Khơi gợi đồng cảm: "Put yourself in their shoes.", "Think about what it would mean for…". Mở rộng góc nhìn: "It's not just about money.". Câu hỏi tu từ nhẹ nhàng: "Isn't it worth trying…?". Không buộc tội, để người nghe tự đi đến kết luận.
+keys: i'm not asking you to / surely you'd agree / in their shoes / what it would mean for / not just about / isn't it worth
+
+rosa: Coffee's on the house. Sit down, Daniel. I'd like a word about number fourteen. | Cà phê tôi mời. Ngồi đi, Daniel. Tôi muốn nói chuyện một chút về số nhà mười bốn. [explain @mug ipa=house:=]
+daniel: I suspect I know what you're going to say. The whole street has an opinion about me. | Tôi đoán được bà định nói gì. Cả con phố đều có ý kiến về tôi. [tired]
+rosa: I'm not asking you to break the law or give your building away. I'm asking what kind of landlord you want to be. | Tôi không đòi cậu phạm luật hay cho không toà nhà. Tôi đang hỏi cậu muốn làm kiểu chủ nhà nào. [explain]
+daniel: The kind that can pay his own mortgage. The flats need thousands of pounds of work. | Kiểu chủ nhà trả nổi khoản vay thế chấp của chính mình. Các căn hộ cần sửa chữa hàng nghìn bảng. [shrug]
+rosa: Surely you'd agree the work could be done without four families receiving eviction notices? | Chắc hẳn cậu cũng đồng ý rằng việc sửa chữa có thể làm mà không cần bốn gia đình nhận thông báo đòi nhà chứ? [thinking]
+daniel: Their agreements allow it. I checked with a lawyer. | Hợp đồng của họ cho phép làm vậy. Tôi đã hỏi luật sư. [explain]
+rosa: I'm sure they do. But put yourself in their shoes. A nurse, a bus driver, a family with two little girls. | Tôi chắc là vậy. Nhưng hãy đặt mình vào vị trí của họ. Một y tá, một tài xế xe buýt, một gia đình có hai bé gái. [explain daniel:thinking]
+rosa: Think about what it would mean for them. With this influx of money, none of them could stay in Hackney. | Hãy nghĩ xem điều đó có ý nghĩa gì với họ. Với dòng tiền đổ vào thế này, chẳng ai trong số họ ở lại Hackney được. [worried]
+daniel: That's the market. It isn't something I invented. | Đó là thị trường. Đâu phải thứ tôi nghĩ ra. [shrug]
+rosa: It isn't. But displacement doesn't just happen. It happens one building at a time, through decisions like yours. | Đúng vậy. Nhưng việc người ta bị đẩy đi không tự nhiên xảy ra. Nó xảy ra từng toà nhà một, qua những quyết định như của cậu. [explain]
+daniel: And Mr. Mensah? My lawyer says a tribunal decides his rent anyway. | Còn ông Mensah? Luật sư của tôi nói đằng nào tiền thuê của ông ấy cũng do hội đồng trọng tài quyết định. [thinking]
+rosa: Albert isn't a line in a contract. His shop is an integral part of this street. He kept it alive when nobody else wanted to live here. | Albert không phải một dòng trong hợp đồng. Tiệm của ông ấy là một phần không thể thiếu của con phố này. Ông ấy đã giữ cho nó sống khi chẳng ai muốn sống ở đây. [explain ipa=contract:= ipa=live:lɪv]
+daniel: He showed me photographs. My uncle was in one of them, at a street party. | Ông ấy cho tôi xem ảnh. Chú tôi có trong một tấm, ở một bữa tiệc đường phố. [sad]
+rosa: Then you already know it's not just about money. | Vậy thì cậu đã biết đây không chỉ là chuyện tiền bạc. [nod]
+daniel: I don't want to be sentimental about a building. That's how my uncle ended up with a roof that leaks. | Tôi không muốn uỷ mị về một toà nhà. Chú tôi vì thế mà có một cái mái dột. [thinking]
+rosa: Fair point. So renovate it, one flat at a time. Let the empty one at the full rate. Isn't it worth trying before you send any more letters? | Có lý. Vậy hãy sửa nó, từng căn một. Cho thuê căn trống với giá đầy đủ. Chẳng phải đáng để thử trước khi gửi thêm lá thư nào nữa sao? [explain]
+daniel: One flat at the market rate might cover most of the work. I'd earn less, but not nothing. | Một căn với giá thị trường có thể trang trải phần lớn công việc. Tôi sẽ kiếm ít hơn, nhưng không phải là không có gì. [thinking]
+rosa: And you'd still be welcome for coffee on this street. That's worth something too. | Và cậu vẫn được chào đón uống cà phê trên con phố này. Điều đó cũng có giá trị đấy. [happy daniel:happy]
+gloss: mortgage, flats, renovate, landlord

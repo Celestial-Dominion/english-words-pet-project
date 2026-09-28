@@ -1,0 +1,34 @@
+=== vd-b1-the-drummer-upstairs
+title: I'd Appreciate It If… | Tôi sẽ rất cảm kích nếu…
+source: st-b1-the-drummer-upstairs
+summary: Ở sảnh chung cư, bà Edith lần đầu gặp mặt chàng tay trống tầng trên; khiếu nại lịch sự, lời xin lỗi và một đề nghị bất ngờ.
+scene: home-day
+cast: edith name="Mrs. Kerr" vi="Bà Kerr" look=grandma x=560 voice=en-US-AriaNeural pitch=-10Hz rate=-8% style.glasses=true style.outfit=cardigan style.top=#9B59B6 style.topShade=#8E44AD
+cast: jay name=Jay look=teenboy x=1140 voice=en-US-AndrewNeural pitch=+10Hz style.hair=curly style.hairColor=#1A1A1A style.skin=#6E4127 style.skinShade=#58321D style.outfit=tee style.top=#E67E22 style.topShade=#CA6F1E
+names: Edith, Jay, Kerr
+gloss: drums, drumming
+words: appreciate; complain; noise; practice; electronic; sleep
+focus: Phàn nàn với hàng xóm và phản hồi lịch sự
+pattern: I'm sorry to bother you, but… · I'd appreciate it if you could… · Would you mind not…? · I had no idea. · I'll make sure (that)… · How about if…?
+explain: Mở lời phàn nàn mềm mỏng: "I'm sorry to bother you, but…". Yêu cầu lịch sự: "I'd appreciate it if you could + động từ", "Would you mind not + V-ing after ten?". Người nghe xin lỗi và hứa: "I had no idea.", "I'll make sure it doesn't happen again."
+keys: sorry to bother you / i'd appreciate it if / would you mind not / i had no idea / i'll make sure / how about if
+
+edith: Are you Jay, from the flat upstairs? | Cậu là Jay, ở căn hộ tầng trên phải không? [neutral]
+jay: Yes. You must be Mrs. Kerr. I got your note. | Vâng ạ. Chắc bà là bà Kerr. Cháu nhận được mẩu giấy của bà rồi. [shy]
+edith: I'm sorry to bother you, but I need to talk to you about the noise. | Xin lỗi đã làm phiền cậu, nhưng tôi cần nói chuyện với cậu về tiếng ồn. [explain]
+jay: The drums. I know. I'm really sorry. | Tiếng trống. Cháu biết. Cháu thật sự xin lỗi. [sad]
+edith: The whole ceiling shakes. I haven't slept properly for two weeks. | Cả trần nhà rung lên. Hai tuần nay tôi không ngủ được tử tế. [worried]
+jay: I had no idea it was that loud downstairs. | Cháu không biết ở dưới lại ồn đến thế. [surprised]
+edith: I'd appreciate it if you could stop playing after nine o'clock. | Tôi sẽ rất cảm kích nếu cậu có thể ngừng chơi sau chín giờ tối. [explain]
+jay: That's difficult. I work during the day. Evening is my only time to practice. | Việc đó hơi khó ạ. Ban ngày cháu đi làm. Buổi tối là lúc duy nhất cháu tập được. [worried]
+edith: Practice for what, if you don't mind me asking? | Tập để làm gì, nếu cậu không phiền tôi hỏi? [thinking]
+jay: I have an audition for an orchestra in three months. | Ba tháng nữa cháu có buổi thử giọng vào một dàn nhạc. [explain]
+edith: An orchestra! Well. Would you mind not using the big drums at night, then? | Dàn nhạc cơ à! Chà. Vậy cậu có phiền không nếu ban đêm không dùng bộ trống lớn? [surprised]
+jay: I could use an electronic kit with headphones. The school might lend me one. | Cháu có thể dùng bộ trống điện tử có tai nghe. Trường có thể cho cháu mượn. [thinking ipa=use:juz]
+edith: That would be wonderful. You'd hardly hear a thing. | Thế thì tuyệt quá. Hầu như sẽ chẳng nghe thấy gì. [happy]
+jay: I'll make sure it doesn't happen again. I promise. | Cháu sẽ đảm bảo chuyện này không lặp lại. Cháu hứa. [nod]
+edith: Thank you, Jay. I didn't want to complain. I used to teach music myself. | Cảm ơn cậu, Jay. Tôi không muốn khiếu nại đâu. Chính tôi cũng từng dạy nhạc. [happy ipa=used:just]
+jay: Really? What did you teach? | Thật ạ? Bà dạy môn gì ạ? [surprised]
+edith: Piano, for forty years. How about if you came down and practiced the rhythms with me? | Piano, suốt bốn mươi năm. Hay là cậu xuống đây tập tiết tấu cùng tôi nhé? [happy]
+jay: Are you serious? That would be amazing! | Bà nói thật ạ? Thế thì tuyệt vời quá! [happy cheer edith:happy]
+gloss: audition, orchestra, rhythms

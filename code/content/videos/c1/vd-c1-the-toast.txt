@@ -1,0 +1,36 @@
+=== vd-c1-the-toast
+title: To Owen and Carys! | Chúc mừng Owen và Carys!
+source: st-c1-the-toast
+summary: Tấm ảnh "tai hoạ" vừa hiện lên màn hình; Rhys tắt máy chiếu, bỏ kịch bản và nói lời chúc mừng chân thành nhất đời mình, trong khi Owen và Carys không biết nên cười hay khóc.
+scene: restaurant
+prop: cake x=560
+cast: owen name=Owen look=man x=300 voice=en-US-EricNeural pitch=-2Hz style.hair=short style.hairColor=#3B2314 style.outfit=suit style.top=#1C2833 style.topShade=#17202A
+cast: rhys name=Rhys look=man x=800 voice=en-US-BrianNeural pitch=+1Hz rate=-2% style.hair=curly style.hairColor=#B5651D style.outfit=tie style.top=#FDFEFE style.topShade=#E5E8E8
+cast: carys name=Carys look=woman x=1300 voice=en-US-JennyNeural pitch=+3Hz style.hair=bun style.hairColor=#3B2314 style.outfit=dress style.top=#FDFEFE style.topShade=#F2F3F4
+names: Owen, Rhys, Carys, Nain, Cardiff
+words: congratulations; sincerely; ego; prank; tribute; sentimental
+focus: Phát biểu và nâng ly chúc mừng trong một dịp trang trọng
+pattern: I'd like to say a few words · For those of you who don't know me, … · On behalf of…, … · Without further ado, … · I'd like to propose a toast to… · Please raise your glasses
+explain: Mở đầu: "If I could have your attention, I'd like to say a few words." Giới thiệu bản thân: "For those of you who don't know me, I'm…". Nói thay cho nhóm: "On behalf of everyone here…". Chuyển sang phần chính/kết: "Without further ado…". Nâng ly: "I'd like to propose a toast to the bride and groom. Please raise your glasses… To Owen and Carys!". Câu ngắn, dừng cho khách cười/vỗ tay.
+keys: say a few words / those of you who don't know me / on behalf of / without further ado / propose a toast / raise your glasses
+
+owen: Rhys! That's the stag weekend! You promised you'd never show that photo! | Rhys! Đó là tiệc độc thân mà! Cậu hứa sẽ không bao giờ cho xem tấm ảnh đó! [surprised]
+rhys: I swear I didn't put it there. It must be somebody's idea of a prank. | Tớ thề không phải tớ cho nó vào. Chắc là trò chơi khăm của ai đó. [worried owen:angry]
+carys: Nain has just put her glass down. That's never a good sign. | Bà vừa đặt ly xuống rồi. Đó chưa bao giờ là dấu hiệu tốt. [worried]
+rhys: Right. I'm switching this off. Could I have your attention again, please? I'd like to say a few words, without my cards. | Được rồi. Tôi tắt cái này đi. Xin mọi người chú ý lại được không ạ? Tôi muốn nói vài lời, không cần thẻ ghi chú. [explain]
+rhys: For those of you who don't know me, I'm Rhys, and I've been Owen's best friend since he pushed me into a paddling pool. | Với những ai chưa biết tôi, tôi là Rhys, và tôi là bạn thân nhất của Owen từ khi cậu ấy đẩy tôi xuống một bể bơi trẻ con. [happy]
+owen: And jumped in after you. Tell them that part. | Và nhảy xuống theo cậu nữa. Kể phần đó đi. [shy]
+rhys: I will. But first, I want to be sincerely honest about that photograph. | Tớ sẽ kể. Nhưng trước hết, tôi muốn thật lòng thành thật về tấm ảnh đó. [explain]
+rhys: Owen missed the last train because he gave his wallet to a stranger whose car had broken down. | Owen lỡ chuyến tàu cuối vì đã đưa ví cho một người lạ bị hỏng xe. [explain carys:surprised]
+rhys: He fell asleep on that platform because he wouldn't leave until Carys knew he was safe. | Cậu ấy ngủ gục trên sân ga đó vì không chịu đi đâu cho đến khi Carys biết cậu ấy an toàn. [explain]
+carys: I didn't know about the wallet. He told me he'd simply lost it. | Em không biết chuyện cái ví. Anh ấy bảo em là chỉ làm mất thôi. [tearful]
+rhys: That's Owen. He's got no ego at all, which is lucky, because the cone was his idea. | Owen là vậy đấy. Cậu ấy chẳng có chút cái tôi nào, may mắn thay, vì cái cọc tiêu là ý của cậu ấy. [happy owen:happy]
+rhys: I know I'm getting sentimental, but this isn't a joke. It's a tribute to the kindest person I know. | Tôi biết mình đang uỷ mị, nhưng đây không phải chuyện đùa. Đây là lời tri ân dành cho người tử tế nhất mà tôi biết. [explain]
+owen: Stop it, or I'll start crying in front of a hundred and twenty people. | Thôi đi, không tớ sẽ khóc trước một trăm hai mươi người mất. [tearful]
+rhys: On behalf of everyone here, Carys, thank you for marrying him. Nobody else laughs at his jokes. | Thay mặt mọi người ở đây, Carys, cảm ơn em đã lấy cậu ấy. Chẳng ai khác cười trước những câu đùa của cậu ấy cả. [happy carys:happy]
+carys: They are quite terrible. I laughed on our first date, and he's never forgotten it. | Chúng khá là dở. Em đã cười trong buổi hẹn đầu tiên, và anh ấy chưa bao giờ quên chuyện đó. [happy]
+rhys: So, without further ado, would everyone please stand? | Vậy thì, không dài dòng nữa, xin mời mọi người đứng dậy được không ạ? [explain]
+rhys: I'd like to propose a toast. Please raise your glasses to Owen and Carys, with our warmest congratulations. | Tôi xin đề nghị cạn ly. Xin mời mọi người nâng ly chúc mừng Owen và Carys, với lời chúc mừng nồng ấm nhất của chúng ta. [cheer]
+owen: To Carys. And to the worst slideshow in the history of Welsh weddings. | Vì Carys. Và vì bản trình chiếu tệ nhất lịch sử đám cưới xứ Wales. [cheer carys:happy rhys:happy]
+names: Welsh
+gloss: stag weekend, paddling pool, platform, cone, slideshow, ado

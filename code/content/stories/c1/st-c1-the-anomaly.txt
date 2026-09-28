@@ -1,0 +1,97 @@
+=== st-c1-the-anomaly
+title: The Anomaly | Điểm bất thường
+topic: ethics
+summary: Một chuyên viên phân tích trẻ phát hiện số liệu hỏng hóc của một thiết bị tim bị sửa trước khi nộp cho cơ quan quản lý — và người yêu cầu cô im lặng lại chính là người thầy cô kính trọng nhất.
+names: Nadia Karimi, Nadia, Graham Pell, Graham, Tomás Reyes, Tomás, Ruth Adeyemi, Ruth, Veltro, Veltro Medical, CardiaSense
+gloss: spreadsheet, spreadsheets, cardiac, pacemaker, compliance officer
+
+## The Spreadsheet | Bảng tính
+Nadia Karimi had worked at Veltro Medical for eighteen months, and she still enjoyed the quiet hour before her colleagues arrived. | Nadia Karimi đã làm việc ở Veltro Medical mười tám tháng, và cô vẫn thích khoảng một giờ yên tĩnh trước khi đồng nghiệp đến.
+The company manufactured cardiac devices, including a small monitor called CardiaSense, which patients wore under the skin to detect irregular heartbeats. | Công ty sản xuất các thiết bị tim mạch, trong đó có một máy theo dõi nhỏ tên CardiaSense, được cấy dưới da bệnh nhân để phát hiện nhịp tim bất thường.
+Her job was to analyse the performance data that hospitals sent back, and to prepare the quarterly reports that the company submitted to the regulators. | Công việc của cô là phân tích dữ liệu vận hành do các bệnh viện gửi về, và chuẩn bị những báo cáo hằng quý mà công ty nộp cho các cơ quan quản lý.
+gloss: heartbeats, quarterly, analyse
+
+It was on a grey Tuesday in March that she noticed the anomaly. | Đó là vào một ngày thứ Ba xám xịt tháng Ba khi cô nhận ra điểm bất thường.
+The raw figures from the hospitals showed that roughly one device in every two hundred had stopped transmitting within its first year, a failure rate four times higher than the company had explicitly promised. | Số liệu thô từ các bệnh viện cho thấy khoảng một trên hai trăm thiết bị đã ngừng truyền tín hiệu trong năm đầu tiên, một tỉ lệ hỏng hóc cao gấp bốn lần mức công ty đã cam kết.
+Yet the draft report on the shared drive, which was due to be submitted on Friday, gave a figure comfortably below the acceptable threshold. | Thế nhưng bản báo cáo nháp trên ổ đĩa dùng chung, dự kiến được nộp vào thứ Sáu, lại đưa ra một con số nằm thoải mái dưới ngưỡng chấp nhận được.
+Someone had excluded dozens of cases from the calculation, each marked with the same brief note: "patient error". | Ai đó đã loại hàng chục trường hợp khỏi phép tính, mỗi trường hợp đều được ghi cùng một chú thích ngắn: "lỗi của bệnh nhân".
+gloss: transmitting, raw
+
+Nadia checked the excluded cases one by one. | Nadia kiểm tra từng trường hợp bị loại một.
+Some of them seemed legitimate, but most did not: the hospital notes described devices that had malfunctioned while patients were lying in hospital beds, supervised by nurses. | Một số có vẻ hợp lý, nhưng phần lớn thì không: ghi chép của bệnh viện mô tả những thiết bị đã hỏng khi bệnh nhân đang nằm trên giường bệnh, dưới sự giám sát của y tá.
+She sat back and stared at the screen, hoping that she had misunderstood something. | Cô ngả người ra sau và nhìn chằm chằm vào màn hình, mong rằng mình đã hiểu lầm điều gì đó.
+The document's history showed that the changes had been made late on Sunday night by Graham Pell. | Lịch sử chỉnh sửa của tài liệu cho thấy những thay đổi được thực hiện vào khuya Chủ nhật bởi Graham Pell.
+
+## A Quiet Word | Một lời nhắc khẽ
+Graham was the head of her department, and he had been her mentor since her first day. | Graham là trưởng phòng của cô, và ông đã là người dìu dắt cô từ ngày đầu tiên.
+It was Graham who had taught her how to read clinical data, Graham who had defended her when a senior manager dismissed her first report as naive, and Graham who had recommended her for a promotion only a month earlier. | Chính Graham là người dạy cô cách đọc dữ liệu lâm sàng, chính Graham đã bênh vực cô khi một quản lý cấp cao gạt bỏ bản báo cáo đầu tiên của cô vì cho là ngây ngô, và cũng chính Graham đã đề cử cô thăng chức chỉ một tháng trước đó.
+She reluctantly knocked on his door just after ten, holding a printout of the figures. | Cô miễn cưỡng gõ cửa phòng ông ngay sau mười giờ, tay cầm bản in các số liệu.
+gloss: clinical, printout
+
+He listened without interrupting, and when she had finished, he took off his glasses and rubbed his eyes. | Ông lắng nghe không ngắt lời, và khi cô nói xong, ông tháo kính ra và dụi mắt.
+"I appreciate your thoroughness, Nadia," he said. "But you're looking at this too narrowly." | "Tôi đánh giá cao sự tỉ mỉ của cô, Nadia," ông nói. "Nhưng cô đang nhìn chuyện này quá hẹp."
+"Those cases are ambiguous, and the engineering team is confident that the problem is marginal." | "Những trường hợp đó không rõ ràng, và đội kỹ thuật tin chắc rằng vấn đề chỉ là không đáng kể."
+"If we report a failure rate like that, the regulators will suspend sales while they investigate, and that could take a year." | "Nếu chúng ta báo cáo một tỉ lệ hỏng hóc như thế, các cơ quan quản lý sẽ đình chỉ việc bán hàng trong lúc họ điều tra, và việc đó có thể mất một năm."
+gloss: thoroughness, narrowly, suspend
+
+"But if the devices are failing, patients need to know," Nadia said. | "Nhưng nếu thiết bị đang hỏng, bệnh nhân cần được biết," Nadia nói.
+"Patients will know when there is something to know," he replied, more sharply than she had ever heard him speak. | "Bệnh nhân sẽ được biết khi có điều gì đáng để biết," ông đáp, gay gắt hơn bất kỳ lần nào cô từng nghe ông nói.
+Then his tone softened. "Three hundred people work in this building, and a suspension would cost many of them their jobs." | Rồi giọng ông dịu lại. "Ba trăm người làm việc trong toà nhà này, và một lệnh đình chỉ sẽ khiến nhiều người trong số họ mất việc."
+"Leave the report with me. You've done exactly the right thing by bringing it to me, and now I'll deal with it." | "Để bản báo cáo lại cho tôi. Cô đã làm đúng khi mang nó đến gặp tôi, và giờ tôi sẽ xử lý."
+It was only as she walked back to her desk that she realized he had not actually promised to change anything. | Chỉ khi đi về bàn làm việc, cô mới nhận ra rằng ông thực ra chẳng hề hứa sẽ thay đổi điều gì.
+gloss: sharply, softened, suspension
+
+## Advice | Lời khuyên
+That evening, she met her oldest friend, Tomás Reyes, in a noisy bar near the station. | Tối hôm đó, cô gặp người bạn lâu năm nhất, Tomás Reyes, trong một quán bar ồn ào gần nhà ga.
+Tomás was an employment lawyer, and he had a habit of asking candid questions that people preferred not to answer. | Tomás là một luật sư về lao động, và anh có thói quen hỏi những câu thẳng thắn mà người ta chẳng muốn trả lời.
+"Let me get this straight," he said, after she had explained. "You think your boss deliberately altered safety data, and he's asked you to trust him." | "Để tớ nói cho rõ nhé," anh nói, sau khi cô giải thích xong. "Cậu nghĩ sếp cậu cố ý sửa dữ liệu an toàn, và ông ấy bảo cậu hãy tin ông ấy."
+"I don't know that it was deliberate," Nadia said. "Maybe he genuinely believes those cases don't count." | "Tớ không biết có phải cố ý hay không," Nadia nói. "Có thể ông ấy thực lòng tin rằng những trường hợp đó không tính."
+"Then he won't mind the compliance department taking a look," Tomás said. | "Vậy thì ông ấy sẽ chẳng ngại để phòng tuân thủ xem xét," Tomás nói.
+gloss: altered
+
+He explained that the law protected employees who reported safety concerns in good faith against retaliation, provided they followed the proper protocols. | Anh giải thích rằng luật pháp bảo vệ những nhân viên báo cáo các mối lo ngại về an toàn một cách thiện chí khỏi bị trả đũa, với điều kiện họ tuân theo đúng quy trình.
+"Write down everything: dates, times, exactly what was said. Keep copies of the data somewhere safe, but don't take anything confidential out of the building." | "Ghi lại mọi thứ: ngày, giờ, chính xác những gì đã được nói. Giữ bản sao dữ liệu ở chỗ an toàn, nhưng đừng mang bất cứ thứ gì mật ra khỏi toà nhà."
+"And Nadia, be prepared. Even when the law is on your side, people who raise problems are rarely thanked for it." | "Và Nadia này, hãy chuẩn bị tinh thần. Ngay cả khi luật pháp đứng về phía cậu, những người nêu ra vấn đề hiếm khi được cảm ơn vì điều đó."
+She lay awake that night, calculating. | Đêm ấy cô thao thức, tính toán.
+If she was wrong, she would destroy her relationship with the one person at the company who had believed in her. | Nếu cô sai, cô sẽ huỷ hoại mối quan hệ với người duy nhất ở công ty đã tin tưởng cô.
+If she was right and did nothing, someone's heart might stop while a device that was supposed to be watching over it remained silent, and she would be complicit. | Nếu cô đúng mà không làm gì, trái tim của ai đó có thể ngừng đập trong khi một thiết bị lẽ ra phải canh chừng nó vẫn im lặng, và cô sẽ trở thành kẻ đồng loã.
+gloss: in good faith, complicit
+
+## The Meeting | Cuộc gặp
+On Thursday morning, she requested a confidential meeting with Ruth Adeyemi, the company's compliance officer. | Sáng thứ Năm, cô xin một cuộc gặp kín với Ruth Adeyemi, người phụ trách tuân thủ của công ty.
+Ruth was a tall, unhurried woman with a reputation for being impossible to intimidate. | Ruth là một phụ nữ cao ráo, điềm tĩnh, nổi tiếng là không ai có thể doạ nạt được.
+She subjected the printout to careful scrutiny, asked a series of precise questions and then made a phone call. | Bà xem xét kỹ lưỡng bản in, đặt ra một loạt câu hỏi chính xác rồi gọi một cuộc điện thoại.
+"The report won't be submitted tomorrow," she said, putting down the phone. "I've asked for an independent review of every excluded case." | "Bản báo cáo sẽ không được nộp vào ngày mai," bà nói, đặt điện thoại xuống. "Tôi đã yêu cầu rà soát độc lập từng trường hợp bị loại."
+gloss: unhurried, intimidate
+
+"Will Graham know it was me?" Nadia asked. | "Ông Graham có biết là tôi không?" Nadia hỏi.
+Ruth considered the question honestly. "I'll protect your identity as far as I can," she said. "But only two people had access to that data, so I suspect he'll work it out." | Ruth cân nhắc câu hỏi một cách thành thật. "Tôi sẽ bảo vệ danh tính của cô hết mức có thể," bà nói. "Nhưng chỉ có hai người được truy cập dữ liệu đó, nên tôi ngờ là ông ấy sẽ đoán ra."
+"For what it's worth, you've shown real integrity. I've been in this job for twenty years, and I can count on one hand the people who have walked through that door." | "Nếu điều đó có ý nghĩa gì với cô, thì cô đã thể hiện sự liêm chính thực sự. Tôi làm công việc này hai mươi năm, và số người từng bước qua cánh cửa kia tôi đếm được trên đầu ngón tay."
+gloss: identity
+
+Graham did not speak to her for the rest of the week. | Suốt thời gian còn lại của tuần, Graham không nói chuyện với cô.
+When she passed him in the corridor, he looked through her as if she were a pane of glass. | Khi cô đi ngang qua ông ở hành lang, ông nhìn xuyên qua cô như thể cô là một tấm kính.
+The review took five weeks. | Cuộc rà soát kéo dài năm tuần.
+It concluded that thirty-one of the excluded failures had been caused by a defective battery connection, and that the true failure rate was, if anything, slightly higher than Nadia had calculated. | Nó kết luận rằng ba mươi mốt ca hỏng bị loại là do một mối nối pin bị lỗi, và tỉ lệ hỏng hóc thực tế, nếu có khác, còn cao hơn một chút so với con số Nadia đã tính.
+gloss: corridor, pane, defective
+
+## Aftermath | Hệ quả
+The company announced a voluntary recall in June. | Tháng Sáu, công ty thông báo thu hồi tự nguyện.
+Patients were contacted by their doctors, and the faulty devices were replaced in a short procedure. | Bệnh nhân được bác sĩ của họ liên lạc, và những thiết bị lỗi được thay thế trong một thủ thuật ngắn.
+Sales were suspended for four months rather than a year, hence the damage to the company proved far smaller than Graham had feared, and nobody lost their job, except Graham, who resigned before the internal investigation reached its verdict. | Việc bán hàng bị đình chỉ bốn tháng chứ không phải một năm, do đó thiệt hại với công ty hoá ra nhỏ hơn nhiều so với nỗi lo của Graham, và không ai mất việc, ngoại trừ Graham, người đã từ chức trước khi cuộc điều tra nội bộ đi đến kết luận.
+names: June
+gloss: voluntary, faulty, internal
+
+Nadia had expected to feel relieved, but mostly she felt a deep fatigue. | Nadia đã nghĩ mình sẽ thấy nhẹ nhõm, nhưng chủ yếu cô chỉ thấy một nỗi mệt mỏi sâu sắc.
+Some colleagues treated her with a cautious respect; others, seemingly afraid of being seen with her, stopped inviting her to lunch. | Một số đồng nghiệp đối xử với cô bằng sự tôn trọng dè dặt; những người khác, dường như sợ bị bắt gặp đi cùng cô, thôi mời cô đi ăn trưa.
+She thought often about Graham, and she found that she could not quite hate him. | Cô thường nghĩ về Graham, và cô nhận ra mình không thể thực sự căm ghét ông.
+He had not been a villain; he had been a decent man who had persuaded himself, one small step at a time, that loyalty to the people around him mattered more than strangers he would never meet. | Ông không phải kẻ xấu; ông là một người tử tế đã tự thuyết phục mình, từng bước nhỏ một, rằng lòng trung thành với những người xung quanh quan trọng hơn những người xa lạ mà ông sẽ không bao giờ gặp.
+gloss: villain
+
+In September, an envelope arrived at the office addressed simply to "the analyst who found the problem". | Tháng Chín, một phong bì được gửi đến văn phòng, chỉ đề đơn giản "gửi chuyên viên phân tích đã phát hiện ra vấn đề".
+Inside was a card from a nurse in a hospital in the north. | Bên trong là một tấm thiệp từ một y tá ở một bệnh viện phía bắc.
+One of her patients, a retired teacher, had collapsed a week after his device was replaced; the new monitor had detected the problem, and he had been treated in time. | Một bệnh nhân của cô, một thầy giáo đã nghỉ hưu, đã ngã quỵ một tuần sau khi thiết bị của ông được thay; chiếc máy theo dõi mới đã phát hiện ra vấn đề, và ông được cứu chữa kịp thời.
+"I don't know your name," the nurse had written, "but he does, in a way. Thank you." | "Tôi không biết tên anh chị," người y tá viết, "nhưng theo một cách nào đó, ông ấy biết. Cảm ơn anh chị."
+Nadia read it three times, then pinned it to the wall above her desk, where she would see it every morning in the quiet hour before her colleagues arrived. | Nadia đọc nó ba lần, rồi ghim nó lên bức tường phía trên bàn làm việc, nơi cô sẽ nhìn thấy nó mỗi sáng trong khoảng một giờ yên tĩnh trước khi đồng nghiệp đến.
+names: September
+gloss: envelope, collapsed

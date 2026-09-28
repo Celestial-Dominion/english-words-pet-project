@@ -1,0 +1,1127 @@
+{
+ "levels": [
+  {
+   "level": "a1",
+   "readings": 60,
+   "stories": 20,
+   "chapters": 60,
+   "videos": 20,
+   "words": {
+    "reading": 6431,
+    "story": 6393,
+    "video": 1644
+   },
+   "audioMinutes": {
+    "reading": 50,
+    "story": 53,
+    "video": 16
+   },
+   "coverage": {
+    "targets": 1052,
+    "covered": 970,
+    "ctx2": 687,
+    "ctx3": 555,
+    "weighted": 0.9259,
+    "multimodal": 553,
+    "allThree": 284
+   },
+   "topics": [
+    [
+     "communication",
+     6
+    ],
+    [
+     "nature",
+     6
+    ],
+    [
+     "health",
+     6
+    ],
+    [
+     "education",
+     5
+    ],
+    [
+     "food",
+     5
+    ],
+    [
+     "work",
+     5
+    ],
+    [
+     "daily-life",
+     5
+    ],
+    [
+     "travel",
+     5
+    ],
+    [
+     "culture",
+     5
+    ],
+    [
+     "cities",
+     4
+    ],
+    [
+     "family",
+     4
+    ],
+    [
+     "technology",
+     4
+    ],
+    [
+     "environment",
+     4
+    ],
+    [
+     "science",
+     3
+    ],
+    [
+     "art",
+     3
+    ],
+    [
+     "history",
+     3
+    ],
+    [
+     "geography",
+     2
+    ],
+    [
+     "innovation",
+     2
+    ],
+    [
+     "media",
+     1
+    ],
+    [
+     "literature",
+     1
+    ],
+    [
+     "society",
+     1
+    ]
+   ],
+   "genres": [
+    [
+     "informational",
+     16
+    ],
+    [
+     "description",
+     9
+    ],
+    [
+     "narrative",
+     9
+    ],
+    [
+     "practical",
+     8
+    ],
+    [
+     "how-to",
+     6
+    ],
+    [
+     "comparison",
+     4
+    ],
+    [
+     "letter",
+     3
+    ],
+    [
+     "news",
+     1
+    ],
+    [
+     "biography",
+     1
+    ],
+    [
+     "review",
+     1
+    ],
+    [
+     "opinion",
+     1
+    ],
+    [
+     "cause-effect",
+     1
+    ]
+   ],
+   "audioBytes": 44588016
+  },
+  {
+   "level": "a2",
+   "readings": 108,
+   "stories": 25,
+   "chapters": 100,
+   "videos": 25,
+   "words": {
+    "reading": 16925,
+    "story": 10180,
+    "video": 2977
+   },
+   "audioMinutes": {
+    "reading": 119,
+    "story": 75,
+    "video": 24
+   },
+   "coverage": {
+    "targets": 1234,
+    "covered": 1105,
+    "ctx2": 531,
+    "ctx3": 307,
+    "weighted": 0.8973,
+    "multimodal": 301,
+    "allThree": 109
+   },
+   "topics": [
+    [
+     "health",
+     9
+    ],
+    [
+     "work",
+     8
+    ],
+    [
+     "food",
+     7
+    ],
+    [
+     "education",
+     7
+    ],
+    [
+     "history",
+     7
+    ],
+    [
+     "science",
+     7
+    ],
+    [
+     "nature",
+     7
+    ],
+    [
+     "travel",
+     6
+    ],
+    [
+     "business",
+     6
+    ],
+    [
+     "media",
+     6
+    ],
+    [
+     "art",
+     6
+    ],
+    [
+     "society",
+     6
+    ],
+    [
+     "daily-life",
+     6
+    ],
+    [
+     "cities",
+     5
+    ],
+    [
+     "culture",
+     5
+    ],
+    [
+     "family",
+     5
+    ],
+    [
+     "economics",
+     4
+    ],
+    [
+     "environment",
+     4
+    ],
+    [
+     "technology",
+     4
+    ],
+    [
+     "psychology",
+     4
+    ],
+    [
+     "literature",
+     4
+    ],
+    [
+     "communication",
+     4
+    ],
+    [
+     "innovation",
+     3
+    ],
+    [
+     "geography",
+     3
+    ]
+   ],
+   "genres": [
+    [
+     "informational",
+     24
+    ],
+    [
+     "how-to",
+     22
+    ],
+    [
+     "explanation",
+     10
+    ],
+    [
+     "narrative",
+     10
+    ],
+    [
+     "comparison",
+     9
+    ],
+    [
+     "description",
+     8
+    ],
+    [
+     "review",
+     5
+    ],
+    [
+     "opinion",
+     3
+    ],
+    [
+     "biography",
+     3
+    ],
+    [
+     "practical",
+     3
+    ],
+    [
+     "cause-effect",
+     3
+    ],
+    [
+     "news",
+     3
+    ],
+    [
+     "letter",
+     2
+    ],
+    [
+     "interview",
+     2
+    ],
+    [
+     "argument",
+     1
+    ]
+   ],
+   "audioBytes": 81190512
+  },
+  {
+   "level": "b1",
+   "readings": 119,
+   "stories": 30,
+   "chapters": 150,
+   "videos": 30,
+   "words": {
+    "reading": 31365,
+    "story": 19134,
+    "video": 5497
+   },
+   "audioMinutes": {
+    "reading": 211,
+    "story": 128,
+    "video": 42
+   },
+   "coverage": {
+    "targets": 2271,
+    "covered": 1409,
+    "ctx2": 697,
+    "ctx3": 422,
+    "weighted": 0.6593,
+    "multimodal": 346,
+    "allThree": 96
+   },
+   "topics": [
+    [
+     "psychology",
+     12
+    ],
+    [
+     "science",
+     12
+    ],
+    [
+     "work",
+     10
+    ],
+    [
+     "society",
+     10
+    ],
+    [
+     "health",
+     9
+    ],
+    [
+     "history",
+     9
+    ],
+    [
+     "travel",
+     8
+    ],
+    [
+     "culture",
+     8
+    ],
+    [
+     "art",
+     7
+    ],
+    [
+     "technology",
+     6
+    ],
+    [
+     "education",
+     6
+    ],
+    [
+     "business",
+     6
+    ],
+    [
+     "economics",
+     5
+    ],
+    [
+     "environment",
+     5
+    ],
+    [
+     "family",
+     5
+    ],
+    [
+     "nature",
+     4
+    ],
+    [
+     "ethics",
+     4
+    ],
+    [
+     "communication",
+     4
+    ],
+    [
+     "cities",
+     3
+    ],
+    [
+     "innovation",
+     3
+    ],
+    [
+     "media",
+     3
+    ],
+    [
+     "literature",
+     3
+    ],
+    [
+     "food",
+     2
+    ],
+    [
+     "daily-life",
+     2
+    ],
+    [
+     "geography",
+     2
+    ],
+    [
+     "philosophy",
+     1
+    ]
+   ],
+   "genres": [
+    [
+     "explanation",
+     42
+    ],
+    [
+     "argument",
+     12
+    ],
+    [
+     "analysis",
+     11
+    ],
+    [
+     "narrative",
+     10
+    ],
+    [
+     "how-to",
+     9
+    ],
+    [
+     "comparison",
+     9
+    ],
+    [
+     "cause-effect",
+     8
+    ],
+    [
+     "informational",
+     6
+    ],
+    [
+     "description",
+     6
+    ],
+    [
+     "case-study",
+     3
+    ],
+    [
+     "practical",
+     1
+    ],
+    [
+     "interview",
+     1
+    ],
+    [
+     "biography",
+     1
+    ]
+   ],
+   "audioBytes": 141944448
+  },
+  {
+   "level": "b2",
+   "readings": 95,
+   "stories": 30,
+   "chapters": 150,
+   "videos": 30,
+   "words": {
+    "reading": 30547,
+    "story": 24615,
+    "video": 7198
+   },
+   "audioMinutes": {
+    "reading": 199,
+    "story": 155,
+    "video": 48
+   },
+   "coverage": {
+    "targets": 2578,
+    "covered": 1196,
+    "ctx2": 530,
+    "ctx3": 282,
+    "weighted": 0.521,
+    "multimodal": 278,
+    "allThree": 89
+   },
+   "topics": [
+    [
+     "society",
+     15
+    ],
+    [
+     "history",
+     10
+    ],
+    [
+     "health",
+     10
+    ],
+    [
+     "psychology",
+     8
+    ],
+    [
+     "work",
+     8
+    ],
+    [
+     "business",
+     7
+    ],
+    [
+     "culture",
+     6
+    ],
+    [
+     "technology",
+     6
+    ],
+    [
+     "economics",
+     5
+    ],
+    [
+     "science",
+     5
+    ],
+    [
+     "art",
+     5
+    ],
+    [
+     "ethics",
+     4
+    ],
+    [
+     "nature",
+     4
+    ],
+    [
+     "family",
+     4
+    ],
+    [
+     "environment",
+     4
+    ],
+    [
+     "travel",
+     4
+    ],
+    [
+     "cities",
+     3
+    ],
+    [
+     "innovation",
+     3
+    ],
+    [
+     "geography",
+     3
+    ],
+    [
+     "literature",
+     3
+    ],
+    [
+     "food",
+     3
+    ],
+    [
+     "communication",
+     2
+    ],
+    [
+     "education",
+     2
+    ],
+    [
+     "media",
+     1
+    ]
+   ],
+   "genres": [
+    [
+     "explanation",
+     38
+    ],
+    [
+     "analysis",
+     23
+    ],
+    [
+     "narrative",
+     15
+    ],
+    [
+     "argument",
+     6
+    ],
+    [
+     "cause-effect",
+     4
+    ],
+    [
+     "case-study",
+     2
+    ],
+    [
+     "practical",
+     2
+    ],
+    [
+     "description",
+     2
+    ],
+    [
+     "letter",
+     1
+    ],
+    [
+     "interview",
+     1
+    ],
+    [
+     "opinion",
+     1
+    ]
+   ],
+   "audioBytes": 150270384
+  },
+  {
+   "level": "c1",
+   "readings": 72,
+   "stories": 30,
+   "chapters": 150,
+   "videos": 30,
+   "words": {
+    "reading": 28625,
+    "story": 31983,
+    "video": 8552
+   },
+   "audioMinutes": {
+    "reading": 192,
+    "story": 193,
+    "video": 57
+   },
+   "coverage": {
+    "targets": 3019,
+    "covered": 884,
+    "ctx2": 444,
+    "ctx3": 234,
+    "weighted": 0.3161,
+    "multimodal": 297,
+    "allThree": 94
+   },
+   "topics": [
+    [
+     "society",
+     10
+    ],
+    [
+     "technology",
+     7
+    ],
+    [
+     "health",
+     7
+    ],
+    [
+     "history",
+     6
+    ],
+    [
+     "media",
+     6
+    ],
+    [
+     "economics",
+     5
+    ],
+    [
+     "psychology",
+     5
+    ],
+    [
+     "work",
+     5
+    ],
+    [
+     "art",
+     5
+    ],
+    [
+     "culture",
+     5
+    ],
+    [
+     "business",
+     5
+    ],
+    [
+     "geography",
+     4
+    ],
+    [
+     "science",
+     4
+    ],
+    [
+     "cities",
+     4
+    ],
+    [
+     "ethics",
+     3
+    ],
+    [
+     "environment",
+     3
+    ],
+    [
+     "education",
+     3
+    ],
+    [
+     "family",
+     3
+    ],
+    [
+     "food",
+     2
+    ],
+    [
+     "philosophy",
+     2
+    ],
+    [
+     "literature",
+     2
+    ],
+    [
+     "travel",
+     2
+    ],
+    [
+     "nature",
+     2
+    ],
+    [
+     "innovation",
+     1
+    ],
+    [
+     "communication",
+     1
+    ]
+   ],
+   "genres": [
+    [
+     "analysis",
+     28
+    ],
+    [
+     "argument",
+     12
+    ],
+    [
+     "explanation",
+     10
+    ],
+    [
+     "cause-effect",
+     6
+    ],
+    [
+     "informational",
+     4
+    ],
+    [
+     "case-study",
+     2
+    ],
+    [
+     "narrative",
+     2
+    ],
+    [
+     "comparison",
+     1
+    ],
+    [
+     "review",
+     1
+    ],
+    [
+     "interview",
+     1
+    ],
+    [
+     "biography",
+     1
+    ],
+    [
+     "letter",
+     1
+    ],
+    [
+     "how-to",
+     1
+    ],
+    [
+     "opinion",
+     1
+    ],
+    [
+     "description",
+     1
+    ]
+   ],
+   "audioBytes": 165853728
+  },
+  {
+   "level": "c2",
+   "readings": 60,
+   "stories": 25,
+   "chapters": 133,
+   "videos": 25,
+   "words": {
+    "reading": 34765,
+    "story": 27052,
+    "video": 7963
+   },
+   "audioMinutes": {
+    "reading": 227,
+    "story": 162,
+    "video": 53
+   },
+   "coverage": {
+    "targets": 2404,
+    "covered": 914,
+    "ctx2": 459,
+    "ctx3": 255,
+    "weighted": 0.3966,
+    "multimodal": 282,
+    "allThree": 88
+   },
+   "topics": [
+    [
+     "communication",
+     5
+    ],
+    [
+     "psychology",
+     4
+    ],
+    [
+     "education",
+     4
+    ],
+    [
+     "science",
+     4
+    ],
+    [
+     "history",
+     4
+    ],
+    [
+     "ethics",
+     4
+    ],
+    [
+     "literature",
+     4
+    ],
+    [
+     "environment",
+     4
+    ],
+    [
+     "culture",
+     4
+    ],
+    [
+     "travel",
+     4
+    ],
+    [
+     "work",
+     4
+    ],
+    [
+     "philosophy",
+     3
+    ],
+    [
+     "economics",
+     3
+    ],
+    [
+     "society",
+     3
+    ],
+    [
+     "health",
+     3
+    ],
+    [
+     "art",
+     3
+    ],
+    [
+     "technology",
+     3
+    ],
+    [
+     "media",
+     3
+    ],
+    [
+     "business",
+     3
+    ],
+    [
+     "family",
+     3
+    ],
+    [
+     "daily-life",
+     3
+    ],
+    [
+     "geography",
+     2
+    ],
+    [
+     "nature",
+     2
+    ],
+    [
+     "cities",
+     2
+    ],
+    [
+     "innovation",
+     2
+    ],
+    [
+     "food",
+     2
+    ]
+   ],
+   "genres": [
+    [
+     "analysis",
+     20
+    ],
+    [
+     "argument",
+     16
+    ],
+    [
+     "explanation",
+     12
+    ],
+    [
+     "case-study",
+     3
+    ],
+    [
+     "informational",
+     2
+    ],
+    [
+     "cause-effect",
+     2
+    ],
+    [
+     "comparison",
+     1
+    ],
+    [
+     "review",
+     1
+    ],
+    [
+     "narrative",
+     1
+    ],
+    [
+     "biography",
+     1
+    ],
+    [
+     "letter",
+     1
+    ]
+   ],
+   "audioBytes": 165764880
+  }
+ ],
+ "totals": {
+  "reading": 514,
+  "story": 160,
+  "video": 160,
+  "chapters": 743,
+  "words": {
+   "reading": 148658,
+   "story": 119357,
+   "video": 33831
+  },
+  "min": {
+   "reading": 998,
+   "story": 766,
+   "video": 240
+  }
+ },
+ "sizes": {
+  "readings": {
+   "json": 3331098,
+   "jsonFiles": 514,
+   "jsonMax": 13314,
+   "audio": 359295408,
+   "audioFiles": 514,
+   "audioMax": 1594800
+  },
+  "stories": {
+   "json": 2280175,
+   "jsonFiles": 160,
+   "jsonMax": 22873,
+   "audio": 275461776,
+   "audioFiles": 743,
+   "audioMax": 773424
+  },
+  "videos": {
+   "json": 2175599,
+   "jsonFiles": 160,
+   "jsonMax": 21883,
+   "audio": 114854784,
+   "audioFiles": 160,
+   "audioMax": 1164672
+  },
+  "indexes": 249796,
+  "wordRefs": 319209
+ },
+ "generated": "2026-09-28T00:32:30.181Z"
+}

@@ -1,0 +1,33 @@
+=== vd-b2-the-second-chance
+title: You've Got Nothing to Lose | Bà chẳng mất gì cả
+source: st-b2-the-second-chance
+summary: Trước cửa hàng bỏ trống, Marcus thuyết phục bà Evelyn — người đang rất ngần ngại — cho một người vừa ra tù thuê chỗ mở tiệm bánh.
+scene: street
+cast: evelyn name="Mrs. Park" vi="Bà Park" look=grandma x=520 voice=en-US-AriaNeural pitch=-6Hz rate=-4% style.outfit=coat style.top=#6C3483 style.topShade=#5B2C6F
+cast: marcus name=Marcus look=man x=1160 voice=en-US-GuyNeural style.hair=short style.hairColor=#1A1A1A style.skin=#8D5524 style.skinShade=#74451D style.outfit=jacket style.top=#34495E style.topShade=#2C3E50
+names: Marcus, Park
+words: persuasive; trial; rent; advance; lease; charity
+focus: Thuyết phục người đang ngần ngại
+pattern: I understand your concerns, but… · Could I have two minutes to explain? · I'd be willing to… · What if we agreed on…? · Just think about it · You've got nothing to lose
+explain: Ghi nhận mối lo của người kia trước: "I understand your concerns, Mrs. Park." Đưa ra nhượng bộ cụ thể: "I'd be willing to pay three months' rent in advance." Đề xuất phương án giảm rủi ro: "What if we agreed on a six-month trial?" Nhấn vào lợi ích: "Just think about it. You've got nothing to lose." Kết bằng một bước nhỏ: "Would you at least taste some tomorrow?".
+keys: i understand your concerns / i'd be willing to / what if we agreed / just think about it / nothing to lose / would you at least
+
+evelyn: So you're the young man who called about the shop. Before we go any further, I need to ask you something. | Vậy cậu là người đã gọi hỏi về cửa hàng. Trước khi bàn tiếp, tôi cần hỏi cậu một chuyện. [thinking]
+marcus: Of course. I'd rather be honest from the start. I've just finished a prison sentence. | Tất nhiên ạ. Tôi muốn thành thật ngay từ đầu. Tôi vừa mãn hạn tù. [explain]
+evelyn: I see. Then I'm afraid I can't help you. I simply can't take that risk. | Tôi hiểu rồi. Vậy e là tôi không giúp được cậu. Tôi đơn giản là không thể mạo hiểm. [shake]
+marcus: I understand your concerns, Mrs. Park. But could I have two minutes to explain? | Tôi hiểu mối lo của bà, thưa bà Park. Nhưng bà cho tôi hai phút để giải thích được không ạ? [worried]
+evelyn: Two minutes. Go on. | Hai phút. Cậu nói đi. [thinking]
+marcus: In prison, I trained as a baker. My instructor says I'm the best student she's had in twenty years. | Trong tù, tôi đã học làm bánh. Cô giáo tôi nói tôi là học trò giỏi nhất cô có trong hai mươi năm. [explain]
+evelyn: That's very nice, but good bread doesn't pay the rent. | Nghe hay đấy, nhưng bánh ngon đâu có trả được tiền thuê. [shrug]
+marcus: That's exactly why I'd be willing to pay three months' rent in advance. | Chính vì thế tôi sẵn sàng trả trước ba tháng tiền thuê. [explain]
+evelyn: In advance? Where would you get that kind of money? | Trả trước ư? Cậu lấy đâu ra chừng ấy tiền? [surprised]
+marcus: A charity has given me a grant. You're welcome to call them and check. | Một tổ chức từ thiện đã cấp cho tôi một khoản tài trợ. Bà cứ gọi cho họ để kiểm tra. [nod]
+evelyn: Even so, my husband's shop was robbed once. He never felt safe there again. | Dù vậy, tiệm của chồng tôi từng bị cướp. Từ đó ông ấy không bao giờ thấy an toàn ở đó nữa. [sad]
+marcus: I'm genuinely sorry to hear that. I won't pretend I haven't done wrong. | Tôi thật lòng rất tiếc khi nghe vậy. Tôi sẽ không giả vờ rằng mình chưa từng làm điều sai. [sad]
+marcus: But what if we agreed on a six-month trial? If you're unhappy for any reason, you can end the lease without any penalty. | Nhưng nếu chúng ta thống nhất thử sáu tháng thì sao? Nếu bà không hài lòng vì bất cứ lý do gì, bà có thể chấm dứt hợp đồng mà không bị phạt. [explain]
+evelyn: And you'd accept that? No arguments, no lawyers? | Và cậu chấp nhận như thế? Không cãi cọ, không luật sư? [thinking]
+marcus: No arguments. Just think about it. You've got nothing to lose, and the shop won't be empty any more. | Không cãi cọ gì cả. Bà cứ nghĩ xem. Bà chẳng mất gì, mà cửa hàng cũng sẽ không còn bỏ trống nữa. [explain]
+evelyn: You're very persuasive, young man. I'll give you that. | Cậu khéo thuyết phục đấy, chàng trai. Cái đó thì tôi công nhận. [happy]
+marcus: I'd rather you judged me by my bread. Would you at least taste some tomorrow? | Tôi mong bà đánh giá tôi qua ổ bánh. Ít nhất ngày mai bà nếm thử một chút được không ạ? [happy]
+evelyn: All right. Bring me a loaf in the morning, and I'll decide after that. | Được rồi. Sáng mai mang cho tôi một ổ, rồi tôi sẽ quyết định. [nod marcus:happy]
+gloss: grant

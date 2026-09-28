@@ -1,0 +1,38 @@
+=== vd-c2-the-eulogy
+title: I Wasn't Planning to Say Anything | Tôi đã không định nói gì
+source: st-c2-the-eulogy
+summary: Ở buổi gặp mặt gia đình sau đám tang, Harriet nhờ Daniel nói thêm vài lời trước người thân; anh thử lại cách nói ứng khẩu — mở đầu khiêm tốn, kể một chi tiết, rồi dừng đúng lúc.
+scene: home-evening
+cast: harriet name=Harriet look=woman x=520 voice=en-US-AriaNeural pitch=-5Hz rate=-2% style.hair=bun style.hairColor=#8D8D8D style.outfit=cardigan style.top=#1B2631 style.topShade=#161F28 style.glasses=round
+cast: daniel name=Daniel look=man x=1160 voice=en-US-AndrewNeural pitch=-2Hz style.hair=short style.hairColor=#1A1A1A style.skin=#5A3522 style.skinShade=#48291A style.outfit=suit style.top=#212121 style.topShade=#1A1A1A
+names: Harriet, Daniel, Arthur, Penhaligon, Leeds, Penzance
+words: anecdote; posterity; idiosyncratic; wistful; spontaneity; heartfelt
+focus: Nói ứng khẩu trang trọng: mở đầu khiêm tốn, kể một chi tiết cụ thể, khép lại gọn gàng
+pattern: I wasn't planning to say anything, but… · Bear with me. · What I'll always remember is… · If there's one thing he taught me, it's… · I'll keep this short. · I'll leave it there.
+explain: Mở đầu thừa nhận mình không chuẩn bị ("I wasn't planning to say anything, but…", "Bear with me") để người nghe thông cảm. Chọn MỘT chi tiết cụ thể thay vì liệt kê: "What I'll always remember is…". Rút ra một bài học: "If there's one thing he taught me, it's…". Kết thúc sớm và rõ: "I'll keep this short", "I'll leave it there." — bài nói ngắn mà thật thường cảm động hơn bài dài.
+keys: wasn't planning to say anything / bear with me / always remember / one thing he taught me / keep this short / leave it there
+
+harriet: Daniel, before everyone starts leaving, would you say a few words to the family? Just us this time. | Daniel, trước khi mọi người ra về, anh nói vài lời với gia đình được không? Lần này chỉ có chúng tôi thôi. [explain]
+daniel: Harriet, I've already said far more than I meant to today. | Harriet, hôm nay tôi đã nói nhiều hơn hẳn điều tôi định nói rồi. [surprised]
+harriet: That's why. What you said in the chapel was heartfelt. My aunts want to hear more. | Chính vì vậy đấy. Những gì anh nói ở nhà nguyện rất chân thành. Các cô tôi muốn nghe thêm. [happy]
+daniel: All right. But I'll keep this short, as he'd have insisted. | Được thôi. Nhưng tôi sẽ nói ngắn thôi, như thầy chắc chắn sẽ đòi hỏi. [nod]
+harriet: Everyone? Daniel's going to say something. | Mọi người ơi? Daniel sắp nói vài lời. [wave]
+daniel: I wasn't planning to say anything else today, so bear with me. | Tôi đã không định nói thêm gì hôm nay, nên mọi người thông cảm cho tôi nhé. [explain]
+daniel: I only knew your father as a teacher, and I suspect that was only a small part of him. | Tôi chỉ biết bố của mọi người với tư cách một người thầy, và tôi đoán đó chỉ là một phần nhỏ con người ông. [thinking]
+harriet: He'd have said the teaching part was the best part. | Bố tôi hẳn sẽ nói phần làm thầy là phần hay nhất. [happy]
+daniel: Perhaps. What I'll always remember is his green pen. Every comment was one line, never two. | Có lẽ vậy. Điều tôi sẽ luôn nhớ là cây bút mực xanh của thầy. Mỗi lời phê chỉ một dòng, không bao giờ hai. [explain]
+harriet: Oh, the green pen. He marked our shopping lists with it. | Ôi, cây bút xanh. Bố tôi còn chấm cả danh sách đi chợ của chúng tôi bằng nó. [happy]
+daniel: That's a wonderful anecdote. I believe every word of it. | Một giai thoại tuyệt vời. Tôi tin từng chữ một. [happy]
+daniel: His methods were idiosyncratic, to put it politely. He once gave me a key and told me to lie to the headmaster. | Phương pháp của thầy độc đáo khác người, nói cho lịch sự. Có lần thầy đưa tôi một chiếc chìa khoá và bảo tôi nói dối thầy hiệu trưởng. [explain]
+harriet: That sounds exactly like him. He hated rules that stopped people learning. | Đúng là bố tôi. Ông ghét những luật lệ ngăn người ta học hỏi. [nod]
+daniel: If there's one thing he taught me, it's that you should say what you mean, and then stop. | Nếu có một điều thầy đã dạy tôi, thì đó là hãy nói điều mình muốn nói, rồi dừng lại. [explain]
+harriet: You're allowed to break that rule tonight. | Tối nay anh được phép phá luật đó. [happy]
+daniel: I'd rather not. He'd reach down from somewhere and cross out my adjectives. | Tôi không muốn đâu. Thầy sẽ với xuống từ đâu đó mà gạch bỏ các tính từ của tôi mất. [happy]
+harriet: He never cared about posterity, you know. He used to say being remembered was a vanity. | Anh biết không, bố tôi chưa bao giờ bận tâm đến hậu thế. Ông hay nói được người đời nhớ đến là một sự phù phiếm. [sad ipa=used:juzd]
+daniel: Then he failed, gloriously. Look around this room. | Vậy thì thầy đã thất bại, một cách vẻ vang. Hãy nhìn quanh căn phòng này. [point]
+harriet: I keep doing that. It makes me rather wistful. | Tôi cứ nhìn mãi. Nó khiến tôi thấy bâng khuâng. [sad]
+daniel: It should make you proud. Everyone here carries a line of his in green ink somewhere. | Nó nên khiến bà tự hào. Ai ở đây cũng mang đâu đó một dòng mực xanh của thầy. [explain]
+harriet: Thank you. That was lovely, and I could tell none of it was rehearsed. | Cảm ơn anh. Thật hay, và tôi biết chẳng câu nào là tập trước. [happy]
+daniel: The spontaneity was accidental, believe me. Anyway, I'll leave it there. | Sự tự nhiên ấy là tình cờ thôi, tin tôi đi. Dù sao thì, tôi xin dừng ở đây. [nod]
+harriet: To Dad, then. And to green pens. | Vậy thì, vì bố. Và vì những cây bút mực xanh. [happy daniel:happy]
+gloss: headmaster, chapel, adjectives, vanity, gloriously, rehearsed

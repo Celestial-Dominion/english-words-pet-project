@@ -19,26 +19,35 @@ App chạy đầy đủ offline, không cần Firebase (chỉ cần khi bật đ
 
 - `npm run dev` — phát triển local
 - `npm run build` — xuất tĩnh ra `out/`
-- `npm run lint` — eslint
+- `npm run lint` — eslint · `npm run check` — tsc + eslint + test logic/sync/học liệu
 - `npm run test:e2e` — Playwright smoke test
+- `npm run content:check` — kiểm học liệu nguồn (`content/`) · `content:coverage` / `content:gaps b1` — độ phủ từ
+- `npm run content:build` — build Thư viện: JSON từng bài + audio (edge-tts) + chỉ mục từ→học liệu
+- `npm run content:report` — số bài theo cấp, chủ đề, coverage, thời lượng, dung lượng thực đo
 
 ## Cấu trúc
 
-- `app/` — Next.js App Router (routes tiếng Việt: /hoc, /on-tap, /bai-doc, /tien-do, /tu-luyen…)
+- `app/` — Next.js App Router (routes tiếng Việt: /hoc, /on-tap, /tien-do, /tu-luyen…; Thư viện /doc →
+  /bai-doc · /truyen · /video, mỗi mục chia 6 cấp A1–C2)
 - `lib/` — logic thuần: FSRS (`srs.ts`), Dexie (`db.ts`), sync (`sync-data.ts`), gamify (Hải trình)
 - `components/` — UI (review-runner là trái tim app)
 - `scripts/` — pipeline dữ liệu (adapt từ app Pháp ở Phase E1–E2)
-- `public/data/` — từ vựng/ví dụ/bài đọc (JSON tĩnh, sinh bằng pipeline)
-- `public/audio/` — MP3 edge-tts giọng `en-US-AriaNeural` (build ở E2)
+- `content/` — nguồn học liệu `{readings,stories,videos}/{cấp}/*.txt` (dòng "EN | VI"); quy ước ở
+  `docs/ENGLISH_CONTENT_PLAYBOOK.md` và `docs/ENGLISH_VIDEO_PLAYBOOK.md`
+- `public/data/` — từ vựng/ví dụ (JSON tĩnh) + `library/` (bài đọc/truyện/video, mỗi bài một JSON)
+- `public/audio/` — MP3 edge-tts giọng `en-US-*`: từ, câu ví dụ, `library/` (bài đọc, chương truyện, video)
 
 ## Sinh lại dữ liệu tĩnh
 
-Chạy theo thứ tự khi đổi bộ từ hoặc kho bài đọc (mọi script đều chạy lại được, không hỏng dữ liệu cũ):
+Chạy theo thứ tự khi đổi bộ từ hoặc học liệu (mọi script đều chạy lại được, không hỏng dữ liệu cũ):
 
 ```bash
 node scripts/build-assemble.mjs      # words/ + word-levels + lemma-map (đã gồm luật dọn dạng bịa)
-node scripts/build-readings.mjs      # readings/ + readings-index (lọc theo readings-blocklist.json)
-node scripts/build-word-readings.mjs # chỉ mục từ→bài cho "Gặp lại trong ngữ cảnh" — chạy SAU build-readings
+npm run content:check                # học liệu nguồn không lỗi (✗) trước khi build
+npm run content:build                # Thư viện: JSON + audio còn thiếu + word-refs, dọn file thừa (--prune)
 node scripts/build-audio-manifest.mjs
 python3 scripts/build-audio.py out/audio-sentences.json ../public/audio/sentences   # chạy trong scripts/
 ```
+
+`content:build` chỉ sinh audio cho bài mới/đã sửa (khoá = hash chữ + giọng); bài chưa có audio chưa được xuất
+bản. Venv TTS: `python3 -m venv scripts/.venv-tts && scripts/.venv-tts/bin/pip install edge-tts lameenc numpy`.

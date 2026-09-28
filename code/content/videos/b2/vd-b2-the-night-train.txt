@@ -1,0 +1,33 @@
+=== vd-b2-the-night-train
+title: I Doubt It Was Him | Tôi e là không phải cậu ấy
+source: st-b2-the-night-train
+summary: Hai giờ sáng trên tàu đêm, bà Weber chắc mẩm chàng trai tóc dài đã lấy túi của mình, còn Arjun thì nghi ngờ — luyện cách nói mức độ chắc chắn và hoài nghi.
+scene: train
+cast: weber name="Mrs. Weber" vi="Bà Weber" look=grandma x=520 voice=en-US-AriaNeural pitch=-8Hz rate=-4% style.outfit=coat style.top=#4A235A style.topShade=#3E1D4C style.glasses=round
+cast: arjun name=Arjun look=man x=1160 voice=en-US-ChristopherNeural style.hair=short style.hairColor=#1A1A1A style.skin=#B97A56 style.skinShade=#A66A48 style.outfit=jacket style.top=#566573 style.topShade=#4D5B69
+names: Weber, Arjun, Lorenz
+words: certain; doubt; unlikely; positive; suspicious; convinced
+focus: Diễn đạt mức độ chắc chắn và hoài nghi
+pattern: I'm absolutely certain (that)… · I doubt (that)… · It seems highly unlikely · I wouldn't be surprised if… · I'm fairly sure… · There's no way… · I'm positive about that
+explain: Rất chắc: "I'm absolutely certain…", "I'm positive about that.", "There's no way I would forget…". Khá chắc: "I'm fairly sure we're missing something." Nghi ngờ: "I doubt a thief would leave his guitar behind.", "It seems highly unlikely." Có thể: "He may well have seen someone.", "I wouldn't be surprised if…".
+keys: absolutely certain / i doubt / highly unlikely / i wouldn't be surprised if / fairly sure / there's no way / i'm positive
+
+weber: I'm absolutely certain it was that boy. Who else could it have been? | Tôi hoàn toàn chắc chắn là thằng nhóc đó. Còn ai khác vào đây nữa? [angry]
+arjun: I'm not so sure, Mrs. Weber. I doubt a thief would leave his guitar behind. | Tôi không chắc lắm đâu, bà Weber. Tôi e là kẻ trộm chẳng bỏ lại cây đàn của mình. [thinking]
+weber: Perhaps he's coming back for it. Or perhaps the case is empty. | Có khi nó sẽ quay lại lấy. Hoặc có khi cái hộp đàn rỗng không. [angry]
+arjun: I suppose that's possible, but it seems highly unlikely to me. | Tôi cho là có thể, nhưng với tôi thì khả năng đó rất thấp. [shrug]
+weber: Mr. Lorenz saw a long-haired man walking towards the back of the train. | Ông Lorenz thấy một gã tóc dài đi về phía cuối tàu. [explain]
+arjun: He may well have seen someone. But I wouldn't be surprised if half the people on this train had long hair. | Có thể ông ấy thấy ai đó thật. Nhưng tôi sẽ chẳng ngạc nhiên nếu nửa số người trên tàu này để tóc dài. [explain]
+weber: You're very trusting for a man who travels so much. | Anh cả tin quá so với một người đi nhiều như vậy. [thinking]
+arjun: Maybe. But I'm fairly sure we're missing something. When did you last have your bag? | Có lẽ. Nhưng tôi khá chắc là chúng ta đang bỏ sót điều gì đó. Lần cuối bà cầm túi là lúc nào? [thinking]
+weber: I definitely had it when I went to the bathroom. I'm positive about that. | Chắc chắn là tôi cầm nó khi vào nhà vệ sinh. Điều đó tôi dám chắc. [nod]
+arjun: And are you certain you brought it back with you? | Còn bà có chắc là đã mang nó về không? [thinking]
+weber: Of course I did. Well, I think so. I noticed instantly that it was gone, but I was very tired. | Tất nhiên rồi. À, tôi nghĩ vậy. Tôi nhận ra ngay là nó biến mất, nhưng lúc đó tôi rất mệt. [confused]
+arjun: So there's a chance you left it there? It's an elegant bag, but it can't be the only black one on this train. | Vậy là có khả năng bà để quên nó ở đó? Túi của bà rất sang, nhưng chắc hẳn không phải chiếc túi đen duy nhất trên tàu này. [thinking]
+weber: There's no way I would forget my mother's necklace. | Không đời nào tôi lại quên sợi dây chuyền của mẹ tôi. [angry]
+arjun: I'm sure you wouldn't normally. But at two in the morning, on a moving train, anyone could. This whole night is getting rather bizarre. | Tôi tin bình thường bà sẽ không quên. Nhưng lúc hai giờ sáng, trên một con tàu đang chạy, ai cũng có thể quên. Cả đêm nay đang trở nên khá kỳ quặc. [explain]
+weber: Hmm. It's possible, I suppose. But I still think he looks suspicious. | Hừm. Tôi cho là có thể. Nhưng tôi vẫn thấy nó trông đáng ngờ. [thinking]
+arjun: Looking suspicious and being a thief aren't the same thing. Shall we check the bathroom before the police arrive? | Trông đáng ngờ và là kẻ trộm đâu phải một. Mình kiểm tra nhà vệ sinh trước khi cảnh sát đến nhé? [explain]
+weber: Very well. But if it isn't there, I'll be even more convinced. | Thôi được. Nhưng nếu nó không có ở đó, tôi sẽ càng tin chắc hơn. [shrug]
+arjun: That's fair. Let's go and find out. | Công bằng thôi. Mình đi xem sao. [nod weber:thinking]
+gloss: necklace

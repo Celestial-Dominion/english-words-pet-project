@@ -1,0 +1,34 @@
+=== vd-c1-the-press-room
+title: That's a Fair Question | Câu hỏi hợp lý đấy
+source: st-c1-the-press-room
+summary: Ba ngày trước trận derby, huấn luyện viên Rafael đối mặt với những câu hỏi dồn dập của nhà báo Harriet về video của Jaden — thừa nhận sai phạm, từ chối suy đoán và vẫn đứng về phía cậu học trò.
+scene: service-hall
+prop: microphone x=840
+cast: rafael name=Rafael look=man x=520 voice=en-US-AndrewNeural pitch=-4Hz rate=-2% style.hair=short style.hairColor=#2A2A2A style.skin=#C68E6A style.skinShade=#B07B58 style.outfit=jacket style.top=#8E1B1B style.topShade=#761616
+cast: harriet name=Harriet look=woman x=1160 voice=en-US-EmmaNeural pitch=-5Hz rate=+3% style.hair=bob style.hairColor=#B0A07A style.outfit=blouse style.top=#566573 style.topShade=#4D5B69 style.glasses=square
+names: Rafael, Harriet, Jaden, Mr. Mendes, Mendes, Northgate, Ravensworth
+words: inappropriate; speculate; rivalry; maturity; scrutiny; stance
+focus: Trả lời câu hỏi khó trước báo chí: thừa nhận, giới hạn, giữ lập trường
+pattern: That's a fair question · Let me be absolutely clear · What I can tell you is… · I'm not in a position to… · I'd rather not speculate · That's not what I said
+explain: Ghi nhận câu hỏi để mua thời gian suy nghĩ: "That's a fair question." Khẳng định dứt khoát: "Let me be absolutely clear: …". Nói phần có thể nói: "What I can tell you is…". Nêu giới hạn: "I'm not in a position to discuss…", "I'd rather not speculate." Chỉnh lại khi bị trích sai: "With respect, that's not what I said." Giữ giọng bình tĩnh, câu ngắn, không công kích phóng viên.
+keys: a fair question / absolutely clear / what i can tell you is / not in a position to / rather not speculate / not what i said
+
+harriet: Mr. Mendes, Jaden Mills called you a coward in front of four million people. How do you respond? | Ông Mendes, Jaden Mills gọi ông là kẻ hèn nhát trước bốn triệu người. Ông phản hồi thế nào? [explain @microphone]
+rafael: That's a fair question. Let me be absolutely clear: the video was completely inappropriate, and Jaden knows it. | Câu hỏi hợp lý đấy. Tôi xin nói thật rõ ràng: đoạn video hoàn toàn không phù hợp, và Jaden biết điều đó. [explain]
+harriet: Will he be disciplined? | Cậu ấy có bị kỷ luật không? [thinking]
+rafael: What I can tell you is that he'll be fined in line with club rules. The money will go to a local youth charity. | Điều tôi có thể nói là cậu ấy sẽ bị phạt tiền theo quy định của câu lạc bộ. Số tiền sẽ được chuyển cho một tổ chức từ thiện thanh thiếu niên ở địa phương. [nod]
+harriet: Some directors reportedly wanted him suspended. Did you overrule them? | Nghe nói một số lãnh đạo muốn đình chỉ cậu ấy. Ông có bác bỏ ý kiến của họ không? [thinking]
+rafael: I'm not in a position to discuss private conversations with the board. | Tôi không ở vị trí để bàn về những cuộc trao đổi riêng với ban lãnh đạo. [shake]
+harriet: Will Jaden play against Northgate on Sunday? Fans want to know. | Jaden có ra sân gặp Northgate hôm Chủ nhật không? Người hâm mộ muốn biết. [explain]
+rafael: I'd rather not speculate. Team selection happens on the training ground, not in the press room. | Tôi không muốn suy đoán. Việc chọn đội diễn ra trên sân tập, không phải trong phòng họp báo. [explain]
+harriet: With respect, isn't that a way of avoiding the question? Critics say you've lost control of the dressing room. | Xin phép nói thẳng, chẳng phải đó là một cách né câu hỏi sao? Những người chỉ trích nói ông đã mất kiểm soát phòng thay đồ. [angry]
+rafael: I understand the scrutiny, especially before a derby. This rivalry is a century old, and emotions are high. | Tôi hiểu sự soi xét này, nhất là trước một trận derby. Sự kình địch này đã có từ một thế kỷ, và cảm xúc đang dâng cao. [nod]
+harriet: So you're saying the players are too emotional to control? | Vậy ông đang nói các cầu thủ quá xúc động nên không thể kiểm soát? [thinking]
+rafael: That's not what I said. I said I'd rather have a player who cares too much than one who doesn't care at all. | Tôi đâu có nói vậy. Tôi nói tôi thà có một cầu thủ quan tâm quá nhiều còn hơn một người chẳng quan tâm gì. [explain]
+harriet: But he insulted you publicly. Doesn't that damage your authority? | Nhưng cậu ấy đã xúc phạm ông công khai. Điều đó không làm tổn hại uy quyền của ông sao? [thinking]
+rafael: My authority doesn't depend on humiliating a nineteen-year-old. I'm not going to throw him to the wolves to look strong. | Uy quyền của tôi không phụ thuộc vào việc làm bẽ mặt một cậu trai mười chín tuổi. Tôi sẽ không ném cậu ấy cho bầy sói chỉ để trông mạnh mẽ. [explain]
+harriet: Has he apologized to you? | Cậu ấy đã xin lỗi ông chưa? [thinking]
+rafael: We've spoken, and I'll leave it there. He'll apologize to the team himself, which will take real maturity. | Chúng tôi đã nói chuyện, và tôi xin dừng ở đó. Cậu ấy sẽ tự xin lỗi toàn đội, việc đó đòi hỏi sự trưởng thành thực sự. [nod]
+harriet: Last question. If Ravensworth are relegated, will you resign? | Câu hỏi cuối. Nếu Ravensworth xuống hạng, ông có từ chức không? [explain]
+rafael: My stance hasn't changed: I'm focused on Sunday. Ask me again in May, and I'll give you a proper answer. | Lập trường của tôi không thay đổi: tôi đang tập trung vào ngày Chủ nhật. Tháng Năm hãy hỏi lại tôi, và tôi sẽ trả lời đàng hoàng. [happy harriet:happy]
+gloss: coward, fined, charity, overrule, dressing room, derby, wolves, humiliating, relegated

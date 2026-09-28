@@ -1,0 +1,37 @@
+=== vd-c2-the-burial
+title: For All We Know | Biết đâu được
+source: st-c2-the-burial
+summary: Bên bếp lửa sau ngày có kết quả xét nghiệm, Elspeth, Mateo và Sunita suy đoán người phụ nữ trong mộ là ai — dùng đúng mức độ chắc chắn cho từng giả thuyết về quá khứ.
+scene: home-evening
+cast: elspeth name=Elspeth look=grandma x=300 voice=en-US-MichelleNeural pitch=-6Hz rate=-3% style.hair=bun style.hairColor=#CFCFCF style.outfit=cardigan style.top=#1E8449 style.topShade=#196F3D style.glasses=square
+cast: mateo name=Mateo look=man x=800 voice=en-US-AndrewNeural pitch=+1Hz rate=+2% style.hair=short style.hairColor=#1A1A1A style.skin=#A0673A style.skinShade=#8A5530 style.outfit=jacket style.top=#B9770E style.topShade=#9C640C
+cast: sunita name=Sunita look=woman x=1300 voice=en-US-JennyNeural pitch=-1Hz style.hair=ponytail style.hairColor=#1A1A1A style.skin=#8D5524 style.skinShade=#7A4A1F style.outfit=blouse style.top=#2874A6 style.topShade=#21618C
+names: Elspeth, Mateo, Sunita, Callum, Westray, Orkney
+words: conjecture; insular; sparse; genomic; incongruous; painstaking
+focus: Suy đoán về quá khứ với sắc thái chắc chắn tinh tế: in all likelihood, might well have, it's conceivable, for all we know
+pattern: In all likelihood, … · She might well have… · I'd hazard a guess that… · It's conceivable that… · For all we know, … · We can't rule out…
+explain: Ngoài must have / can't have (đã học ở B2), người nói C2 chia mức chắc chắn mịn hơn: "In all likelihood, …" (nhiều khả năng nhất), "might well have" (rất có thể), "I'd hazard a guess that…" (đoán liều, khiêm tốn), "It's conceivable that…" (có thể hình dung được), "For all we know, …" (biết đâu được), "We can't rule out…" (không thể loại trừ). Tách rõ điều bằng chứng cho thấy với điều mình thích tin.
+keys: in all likelihood / might well have / hazard a guess / conceivable / for all we know / can't rule out
+
+mateo: So she grew up hundreds of kilometres away. In all likelihood, she crossed the sea to get here. | Vậy là bà ấy lớn lên cách đây hàng trăm kilômét. Nhiều khả năng bà ấy đã vượt biển để đến đây. [explain]
+sunita: The teeth are clear about that. Her isotopes are completely incongruous with Orkney. | Răng cho thấy rõ điều đó. Các đồng vị của bà ấy hoàn toàn không khớp với Orkney. [nod]
+elspeth: Which rather demolishes my theory of an insular island community. | Điều đó khá là đánh sập giả thuyết của tôi về một cộng đồng đảo khép kín. [sad]
+mateo: Not entirely. Most people here might well have stayed local. She could have been an exception. | Không hẳn đâu ạ. Phần lớn người ở đây rất có thể đã sống tại chỗ. Bà ấy có thể là một ngoại lệ. [thinking]
+elspeth: Kind of you, Mateo. But one exception buried like a queen isn't a small detail. | Cậu tốt bụng quá, Mateo. Nhưng một ngoại lệ được chôn như một nữ hoàng thì không phải chi tiết nhỏ. [shrug]
+sunita: I'd hazard a guess she was a bride. Marriages between distant groups are common in the record. | Tôi xin đoán liều là bà ấy là một cô dâu. Hôn nhân giữa những nhóm người xa nhau là chuyện phổ biến trong các ghi chép. [thinking ipa=record:ˈrɛkərd]
+mateo: Or a trader. The carved ball is so skilful. It's conceivable that she made it herself. | Hoặc một thương nhân. Quả cầu chạm khắc tinh xảo đến thế. Có thể hình dung rằng chính bà ấy đã làm ra nó. [point]
+elspeth: For all we know, she was a captive. People travelled against their will as well. | Biết đâu được, bà ấy là một tù binh. Người ta cũng từng phải đi xa trái với ý muốn. [thinking]
+sunita: A captive wouldn't have been honoured like that, surely. | Một tù binh thì chắc chẳng được tôn vinh như thế. [confused]
+elspeth: Perhaps not. But we can't rule it out. Our evidence is terribly sparse. | Có lẽ không. Nhưng chúng ta không thể loại trừ điều đó. Bằng chứng của chúng ta ít ỏi kinh khủng. [explain]
+mateo: She can't have been poor, anyway. Somebody spent days carving that stone. | Dù sao thì bà ấy không thể nghèo được. Ai đó đã mất nhiều ngày khắc hòn đá ấy. [explain]
+sunita: Unless the stone belonged to the community, and they gave it to her. | Trừ khi hòn đá thuộc về cộng đồng, và họ trao nó cho bà. [thinking]
+elspeth: That's the trouble. Every story fits the evidence. It's all conjecture beyond the teeth and the genomic data. | Rắc rối là ở đó. Câu chuyện nào cũng khớp với bằng chứng. Ngoài răng và dữ liệu gen ra, tất cả đều là phỏng đoán. [sad]
+mateo: Then which story do we tell in the paper? | Vậy chúng ta kể câu chuyện nào trong bài báo ạ? [confused]
+elspeth: None of them as fact. We describe what we know, then list the possibilities honestly. | Không câu nào như sự thật cả. Chúng ta mô tả những gì mình biết, rồi liệt kê trung thực các khả năng. [explain]
+sunita: The analysis was painstaking. At least the chemistry is solid. | Việc phân tích được làm rất công phu. Ít ra phần hoá học là vững chắc. [nod]
+elspeth: It is. And the chemistry says my twenty years of argument must have been wrong. | Đúng vậy. Và phần hoá học nói rằng hai mươi năm lập luận của tôi hẳn là đã sai. [sad]
+mateo: Or incomplete. Callum says the sea was a road, not a wall. | Hoặc chưa đầy đủ ạ. Callum nói biển là một con đường, không phải một bức tường. [explain]
+elspeth: Callum might well be the wisest person on this dig. | Callum rất có thể là người khôn ngoan nhất ở cuộc khai quật này. [happy]
+sunita: Don't tell him. He'll want his name on the paper. | Đừng nói với anh ấy. Anh ấy sẽ đòi có tên trong bài báo đấy. [happy]
+elspeth: He's earned it. And so has she, whoever she was. | Anh ấy xứng đáng. Và bà ấy cũng vậy, dù bà ấy là ai. [nod mateo:happy sunita:happy]
+gloss: honoured, isotopes, demolishes, exception, carved, skilful, captive, chemistry, dig

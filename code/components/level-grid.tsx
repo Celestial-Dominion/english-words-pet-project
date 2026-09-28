@@ -3,8 +3,8 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 import { progressSummary, getDueReviews } from "@/lib/db";
-import { loadReadingsIndex } from "@/lib/data";
-import { LEVELS, FOUNDATION, levelAccent } from "@/lib/levels";
+import { loadReadingsIndex } from "@/lib/library";
+import { CONTENT_LEVELS, LEVELS, FOUNDATION, levelAccent } from "@/lib/levels";
 
 export default function LevelGrid() {
   const [byLevel, setByLevel] = useState<Record<number, number>>({});
@@ -20,11 +20,17 @@ export default function LevelGrid() {
       });
     };
     refresh();
-    loadReadingsIndex().then((idx) => {
-      const m: Record<number, number> = {};
-      for (const r of idx) m[r.level] = (m[r.level] ?? 0) + 1;
-      setReadsByLevel(m);
-    });
+    // Số bài đọc CÙNG cấp CEFR với cấp từ vựng (B1 từ ↔ bài đọc B1…).
+    loadReadingsIndex()
+      .then((idx) => {
+        const m: Record<number, number> = {};
+        for (const r of idx) {
+          const lv = CONTENT_LEVELS.find((c) => c.key === r.level)?.vocabLevel;
+          if (lv) m[lv] = (m[lv] ?? 0) + 1;
+        }
+        setReadsByLevel(m);
+      })
+      .catch(() => {});
     // Cập nhật số đến hạn định kỳ (như HSK) — BỎ QUA khi tab đang ẩn: mỗi lượt là một lần quét
     // cả bảng reviews, chạy nền cả ngày trên tab mở sẵn thì phí.
     const t = setInterval(() => {

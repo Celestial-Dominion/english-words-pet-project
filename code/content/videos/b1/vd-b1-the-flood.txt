@@ -1,0 +1,32 @@
+=== vd-b1-the-flood
+title: Can I Give You a Hand? | Để tôi giúp một tay nhé?
+source: st-b1-the-flood
+summary: Sáng hôm sau cơn lũ, Lina gặp ông Jonas bên đống đồ hư hỏng trước nhà; hai người hàng xóm lần đầu tiên thật sự trò chuyện.
+scene: street
+cast: lina name=Lina look=woman x=560 voice=en-US-JennyNeural pitch=+2Hz style.hair=bun style.hairColor=#2B1B14 style.skin=#C68E6A style.skinShade=#AD7654 style.outfit=coat style.top=#2E7D6B style.topShade=#246657
+cast: jonas name="Mr. Jonas" vi="Ông Jonas" look=grandpa x=1140 voice=en-US-RogerNeural pitch=-4Hz rate=-6% style.outfit=jacket style.top=#5B4B3A style.topShade=#4A3D2F
+names: Jonas, Lina, Mateo
+words: hand; kind; mention; damage; appreciate; sore
+focus: Đề nghị giúp đỡ và cảm ơn
+pattern: Can I give you a hand? · Is there anything I can do? · Let me… · That's very kind of you. · I really appreciate it. · Don't mention it.
+explain: Đề nghị giúp: "Can I give you a hand (with…)?", "Is there anything I can do?", "Let me carry that." Nhận lời và cảm ơn: "That's very kind of you.", "I really appreciate it." Đáp lại lời cảm ơn khiêm tốn: "Don't mention it." / "It was nothing."
+keys: give you a hand / anything i can do / let me / very kind of you / i really appreciate it / don't mention it
+
+lina: Mr. Jonas! Wait, please. Can I talk to you? | Ông Jonas! Ông đợi đã. Cháu nói chuyện với ông được không? [worried]
+jonas: If it's about the fence, I'll repair it later. | Nếu là chuyện hàng rào thì để sau ta sửa. [neutral]
+lina: No, it's not about the fence. I want to thank you. For last night. | Không, không phải chuyện hàng rào. Cháu muốn cảm ơn ông. Vì chuyện đêm qua. [sad]
+jonas: It was nothing. The boy was brave. | Có gì đâu. Thằng bé rất dũng cảm. [shy]
+lina: You saved his life. And Mrs. Hayes is safe at the shelter because of you. | Ông đã cứu mạng con cháu. Và bà Hayes được an toàn ở chỗ trú ẩn cũng là nhờ ông. [tearful]
+jonas: Don't mention it. Anyone would do the same. | Đừng nhắc chuyện đó. Ai cũng sẽ làm như vậy thôi. [shy]
+lina: Not anyone. Is there anything I can do for you? | Không phải ai cũng thế. Cháu có thể làm gì cho ông không? [thinking]
+jonas: No, no. I'm fine. | Không, không. Ta ổn. [shake]
+lina: Your hands are bleeding. Let me look at them. I'm a nurse. | Tay ông đang chảy máu. Để cháu xem nào. Cháu là y tá. [explain]
+jonas: That's very kind of you. They're a bit sore, to be honest. | Cháu tốt quá. Nói thật thì chúng hơi đau. [shy]
+lina: And your house? Is there much damage? | Còn nhà ông? Có hư hại nhiều không? [worried ipa=house:=]
+jonas: The whole ground floor. Carpets, furniture, everything. | Cả tầng trệt. Thảm, đồ đạc, mọi thứ. [sad]
+lina: Can I give you a hand with the cleaning this weekend? | Cuối tuần này cháu giúp ông một tay dọn dẹp nhé? [happy]
+jonas: You have your own house to clean. | Cháu còn nhà mình phải dọn mà. [thinking ipa=house:=]
+lina: Then we'll clean both. Mateo can help, too. | Vậy thì mình dọn cả hai. Mateo cũng giúp được. [explain]
+jonas: Well… I really appreciate it. Thank you. | Chà… Ta thật sự cảm kích. Cảm ơn cháu. [happy]
+lina: And I'll make dinner for everyone. Neighbors should help each other, right? | Và cháu sẽ nấu bữa tối cho mọi người. Hàng xóm thì phải giúp nhau, phải không ạ? [happy]
+jonas: Right. It took a flood for me to remember that. | Phải. Phải có một trận lũ ta mới nhớ ra điều đó. [happy lina:happy]

@@ -1,0 +1,32 @@
+=== vd-a2-the-surprise-party
+title: Who's Going to Buy the Balloons? | Ai sẽ mua bóng bay?
+source: st-a2-the-surprise-party
+summary: Tối muộn trong bếp, Hannah và Luis thì thầm lên kế hoạch cho bữa tiệc bất ngờ — chia việc, nhắc nhau và lo những tình huống "nếu như".
+scene: kitchen
+prop: notebook x=800
+prop: gift-box x=1330 y=610 scale=0.85
+cast: hannah name=Hannah look=teengirl x=500 voice=en-US-EmmaNeural pitch=+4Hz style.hair=curly style.hairColor=#2B1B14 style.skin=#A8704C style.skinShade=#8E5C3C style.outfit=tee style.top=#E4572E style.topShade=#C94A24
+cast: luis name=Luis look=boy x=1120 voice=en-US-AndrewNeural pitch=+20Hz rate=+4% style.hair=short style.hairColor=#2B1B14 style.skin=#A8704C style.skinShade=#8E5C3C style.outfit=tee style.top=#2E86AB style.topShade=#246E8D
+names: Hannah, Luis, Nana
+words: invite; guest; balloon; forget; cinema; hide
+focus: Lên kế hoạch và chia việc
+pattern: We need to … · Who's going to …? · I'll … · Don't forget to … · What if …?
+explain: "Be going to" nói việc đã định sẵn: "Who's going to buy…?". "I'll…" nhận việc ngay lúc nói: "I'll make the sign." Nhắc việc: "Don't forget to + động từ". Tính tình huống: "What if she finds out?" (nếu… thì sao?).
+keys: we need to / who's going to / i'll / don't forget to / what if
+
+hannah: Shh! Is Nana asleep? | Suỵt! Bà ngủ chưa? [worried]
+luis: Yes. I can hear her in her room. | Rồi. Em nghe thấy tiếng bà trong phòng. [nod]
+hannah: Good. OK, we need to plan the party. | Tốt. Được rồi, mình cần lên kế hoạch cho bữa tiệc. [explain @notebook]
+luis: Who's going to invite the guests? | Ai sẽ lo mời khách đến dự? [thinking]
+hannah: I'll do that. I've got all her friends' numbers. | Chị lo việc đó. Chị có số điện thoại của tất cả bạn bè bà. [explain]
+luis: And who's going to buy the balloons? | Thế ai sẽ mua bóng bay? [thinking]
+hannah: You are. And you can make the sign, too. | Em chứ ai. Em làm luôn tấm biển nhé. [happy]
+luis: OK. I'll buy forty balloons! | Được. Em sẽ mua bốn mươi quả bóng bay! [happy cheer]
+hannah: Forty? Where are you going to hide them? | Bốn mươi á? Em định giấu chúng ở đâu? [surprised]
+luis: Under my bed. Nana never looks there. | Dưới gầm giường em. Bà chẳng bao giờ nhìn chỗ đó. [shy]
+hannah: Fine. Mom and Dad are going to take her to the cinema. | Được thôi. Bố mẹ sẽ đưa bà đi xem phim. [explain]
+luis: What if she doesn't want to go? | Nếu bà không muốn đi thì sao? [worried]
+hannah: She loves films. She'll go. | Bà mê phim lắm. Bà sẽ đi thôi. [happy]
+luis: What if she finds out? | Nếu bà phát hiện ra thì sao? [worried]
+hannah: She won't. But don't forget: not a word to anyone at school! | Không đâu. Nhưng đừng quên: không hé răng với ai ở trường đấy! [explain]
+luis: I promise. I'm very good at secrets. | Em hứa. Em giữ bí mật giỏi lắm. [happy hannah:thinking]

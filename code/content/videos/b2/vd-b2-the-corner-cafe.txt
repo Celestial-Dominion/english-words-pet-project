@@ -1,0 +1,35 @@
+=== vd-b2-the-corner-cafe
+title: On the Plus Side… | Về mặt tích cực…
+source: st-b2-the-corner-cafe
+summary: Bên bàn bếp, Elena cùng bố mẹ cân nhắc ưu nhược điểm của từng phương án cứu quán cà phê — bán hợp đồng thuê, giảm giá hay làm mới quán.
+scene: kitchen
+prop: laptop x=800 y=640 scale=0.75
+cast: luis name=Luis look=dad x=300 voice=en-US-RogerNeural pitch=-2Hz style.hair=short style.hairColor=#9A9A9A style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=apron style.top=#784212 style.topShade=#6E3B10
+cast: elena name=Elena look=woman x=800 voice=en-US-AvaNeural style.hair=long style.hairColor=#2B1B14 style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=blouse style.top=#2980B9 style.topShade=#2471A3
+cast: rosa name=Rosa look=mom x=1300 voice=en-US-AriaNeural pitch=-4Hz style.hair=bun style.hairColor=#8A8A8A style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=cardigan style.top=#A93226 style.topShade=#922B21
+names: Elena, Luis, Rosa, Brew, Mum
+words: generous; advantage; margin; potential; compromise; exhausting
+focus: Cân nhắc ưu nhược điểm của các phương án
+pattern: On the plus side, … · The main advantage/drawback is (that)… · It's worth bearing in mind that… · In the long run, … · Having said that, … · Weighing it all up, …
+explain: Nêu mặt lợi: "On the plus side…", "The main advantage is that…". Nêu mặt hại: "The main drawback is…", "The downside is…". Lưu ý thêm: "It's worth bearing in mind that…". Chuyển ý ngược lại: "Having said that…", "On the other hand…". Kết luận sau khi cân nhắc: "Weighing it all up, I think…".
+keys: on the plus side / the main advantage is / the main drawback is / worth bearing in mind / in the long run / having said that / weighing it all up
+
+elena: OK. Let's start with the offer from Brew and Co. to buy our lease. On the plus side, the money is very generous. | Được rồi. Mình bắt đầu với lời đề nghị mua hợp đồng thuê của Brew and Co. Về mặt tích cực, số tiền rất hào phóng. [explain @laptop]
+luis: How generous? | Hào phóng cỡ nào? [thinking]
+elena: Enough for you both to retire. The main advantage is that you'd be financially secure for life. | Đủ để bố mẹ nghỉ hưu. Lợi ích chính là bố mẹ sẽ yên ổn tài chính suốt đời. [explain]
+rosa: And the main drawback is that we'd lose the café. | Còn bất lợi chính là mình sẽ mất quán. [sad]
+elena: Exactly. It's worth bearing in mind that you can't undo that decision. | Chính xác. Cũng cần nhớ rằng quyết định đó không thể rút lại. [nod]
+luis: What about cutting our prices? | Còn giảm giá thì sao? [thinking]
+elena: The advantage is that it's quick. The problem is that our margins are already tiny. In the long run, we'd lose money. | Lợi thế là làm được ngay. Vấn đề là biên lợi nhuận của mình vốn đã rất mỏng. Về lâu dài, mình sẽ lỗ. [explain]
+rosa: So that's out of the question. | Vậy là phương án đó loại. [shake]
+elena: I'd say so. My third idea is riskier, but it has far more potential. | Con nghĩ vậy. Ý tưởng thứ ba của con mạo hiểm hơn, nhưng tiềm năng lớn hơn nhiều. [thinking]
+luis: Go on. | Con nói tiếp đi. [nod]
+elena: We focus on what they can't copy: your roasting, Mum's cakes and events in the evening. | Mình tập trung vào những thứ họ không sao chép được: cà phê bố tự rang, bánh của mẹ và các sự kiện buổi tối. [explain]
+luis: That sounds exhausting. Having said that, I've always wanted to roast my own beans. | Nghe mệt đấy. Nói thì nói vậy, bố vẫn luôn muốn tự rang hạt cà phê. [thinking]
+rosa: The downside is that we'd be working longer hours at our age. | Điểm trừ là ở tuổi này mà mình phải làm nhiều giờ hơn. [worried]
+elena: That's true. But on the other hand, you'd be doing something you love. | Đúng vậy. Nhưng mặt khác, bố mẹ sẽ được làm điều mình yêu thích. [explain]
+luis: Weighing it all up, I think I'd rather try than give up without a fight. | Cân nhắc tất cả, bố nghĩ thà thử còn hơn bỏ cuộc mà chưa chiến đấu. [nod]
+rosa: As long as we set a time limit. If it hasn't worked in a year, we reconsider the offer. | Miễn là mình đặt ra thời hạn. Nếu sau một năm không ổn, mình sẽ xem lại lời đề nghị. [explain]
+elena: That's a sensible compromise. One year, and then we review everything honestly. | Đó là một thoả hiệp hợp lý. Một năm, rồi mình đánh giá lại mọi thứ thật thẳng thắn. [happy]
+luis: Agreed. Now, who wants a coffee? A proper one, not from across the road! | Đồng ý. Giờ ai muốn uống cà phê nào? Cà phê tử tế, không phải của bên kia đường! [happy rosa:happy]
+gloss: drawback, roasting

@@ -1,0 +1,36 @@
+=== vd-c1-second-opinion
+title: It's Entirely Up to You | Hoàn toàn tuỳ ông quyết định
+source: st-c1-second-opinion
+summary: Bác sĩ Leah giải thích ba lựa chọn điều trị cho Victor và con gái ông — nói rõ lợi ích, rủi ro và cả những điều chưa ai biết chắc — rồi để ông tự quyết.
+scene: hospital
+cast: victor name=Victor look=dad x=300 voice=en-US-GuyNeural pitch=-7Hz rate=-4% style.hair=part style.hairColor=#A6A6A6 style.skin=#C68E6A style.skinShade=#B07B58 style.outfit=cardigan style.top=#7E5109 style.topShade=#6E4608
+cast: leah name="Dr. Brandt" vi="Bác sĩ Brandt" look=woman x=800 voice=en-US-AvaNeural pitch=-5Hz style.hair=bun style.hairColor=#8B5A2B style.outfit=coat style.top=#FDFEFE style.topShade=#E5E8E8 style.glasses=square
+cast: carmen name=Carmen look=woman x=1300 voice=en-US-EmmaNeural pitch=+1Hz rate=+4% style.hair=long style.hairColor=#2C1A12 style.skin=#C68E6A style.skinShade=#B07B58 style.outfit=suit style.top=#922B21 style.topShade=#7B241C
+names: Victor, Carmen, Brandt, Dr. Brandt, Mr. Salgado
+words: benign; likelihood; surgical; seizure; reassurance; symptom
+focus: Trao đổi về lựa chọn điều trị và rủi ro một cách rõ ràng, trung thực
+pattern: The good news is… · Having said that, … · There's a small risk of… · On balance, … · It's entirely up to you · Take your time
+explain: Bắt đầu bằng thông tin quan trọng nhất: "The good news is…". Chuyển sang mặt hạn chế: "Having said that, …". Nói về rủi ro cụ thể mà không làm hoảng sợ: "There's a small risk of…". Cân nhắc tổng thể: "On balance, …". Tôn trọng quyền tự quyết: "It's entirely up to you.", "Take your time." Tránh hứa hẹn chắc chắn khi y học chưa chắc.
+keys: the good news is / having said that / a small risk of / on balance / entirely up to you / take your time
+
+leah: Mr. Salgado, Carmen, thank you for coming. The good news is that the tumour is almost certainly benign. | Ông Salgado, Carmen, cảm ơn hai người đã đến. Tin tốt là khối u gần như chắc chắn lành tính. [explain]
+victor: Benign. So it isn't cancer? | Lành tính. Vậy là không phải ung thư? [surprised]
+leah: It isn't cancer, and it won't spread. Having said that, it's pressing slightly on the surface of your brain. | Không phải ung thư, và nó sẽ không lan ra. Dù vậy, nó đang đè nhẹ lên bề mặt não của ông. [explain]
+carmen: Is that what made him fall? | Có phải vì thế mà bố tôi bị ngã không? [worried]
+leah: Possibly, but I can't be sure. It may also explain his headaches. There are three sensible options. | Có thể, nhưng tôi không chắc được. Nó cũng có thể là lý do của những cơn đau đầu. Có ba lựa chọn hợp lý. [thinking]
+leah: The first is surgical removal. It offers the best chance of a permanent cure. | Thứ nhất là phẫu thuật cắt bỏ. Nó mang lại cơ hội tốt nhất để khỏi hẳn. [explain]
+victor: And the catch? There's always a catch. | Còn cái giá phải trả? Lúc nào cũng có cái giá phải trả. [thinking]
+leah: There's a small risk of infection or a seizure, and a slightly smaller likelihood of problems with speech or memory. Recovery takes months. | Có một rủi ro nhỏ bị nhiễm trùng hoặc co giật, và khả năng thấp hơn một chút gặp vấn đề về nói hay trí nhớ. Hồi phục mất vài tháng. [explain victor:worried]
+carmen: How small is small? | Nhỏ là nhỏ cỡ nào? [thinking]
+leah: A few patients in every hundred. The second option is targeted radiotherapy. It usually stops the tumour growing, with fewer immediate risks. | Vài bệnh nhân trên mỗi trăm người. Lựa chọn thứ hai là xạ trị nhắm đích. Nó thường khiến khối u ngừng phát triển, với ít rủi ro trước mắt hơn. [explain]
+victor: And the third? | Còn lựa chọn thứ ba? [nod]
+leah: The third is watchful waiting. You'd have a scan every six months, and we'd only treat it if it grows or causes a symptom. | Thứ ba là theo dõi chờ đợi. Ông sẽ chụp chiếu sáu tháng một lần, và chúng tôi chỉ điều trị nếu nó lớn lên hoặc gây ra triệu chứng. [explain]
+carmen: Doing nothing? With a tumour in his head? | Không làm gì cả ư? Với một khối u trong đầu bố tôi? [angry]
+leah: I understand why that sounds frightening. On balance, for a small, slow tumour and a man who feels well, it's a perfectly reasonable choice. | Tôi hiểu vì sao điều đó nghe đáng sợ. Cân nhắc tổng thể, với một khối u nhỏ, phát triển chậm và một người đang cảm thấy khoẻ, đó là lựa chọn hoàn toàn hợp lý. [explain]
+victor: What would you do, Doctor, if I were your father? | Nếu tôi là cha bác sĩ, bác sĩ sẽ làm gì? [thinking]
+leah: Honestly, I'd want him to choose the risks he'd rather live with. It's entirely up to you, Mr. Salgado. | Thật lòng, tôi muốn ông ấy chọn những rủi ro mà ông ấy thà sống chung. Việc này hoàn toàn tuỳ ông quyết định, ông Salgado. [nod ipa=live:lɪv]
+carmen: I just want some reassurance that he'll be all right. | Tôi chỉ muốn được trấn an rằng bố tôi sẽ ổn. [tearful]
+leah: I wish I could give you a guarantee, Carmen. What I can promise is that we'll watch closely, whatever you decide. | Tôi ước gì có thể cam đoan với cô, Carmen ạ. Điều tôi có thể hứa là chúng tôi sẽ theo dõi sát sao, dù hai người quyết định thế nào. [sad ipa=closely:=]
+leah: There's no rush. Take your time, talk it over at home, and come back next week with any questions. | Không cần vội. Hai người cứ từ từ, về nhà bàn bạc, và tuần sau quay lại với bất kỳ câu hỏi nào. [nod]
+victor: Thank you. For the first time since the fall, I feel I understand what's happening to me. | Cảm ơn bác sĩ. Lần đầu tiên kể từ cú ngã, tôi thấy mình hiểu được chuyện gì đang xảy ra với mình. [happy carmen:sad]
+gloss: radiotherapy, watchful

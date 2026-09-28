@@ -1,0 +1,41 @@
+=== vd-c2-the-old-crowd
+title: You Haven't Changed a Bit | Cậu chẳng thay đổi chút nào
+source: st-c2-the-old-crowd
+summary: Một năm sau, cả nhóm lại gặp nhau bên hồ; Rob, Anjali và Marcus trêu chọc nhau bằng những thành ngữ quen thuộc — lời lẽ thì sắc mà tình cảm thì ấm.
+scene: home-lake
+cast: rob name=Rob look=man x=300 voice=en-US-BrianNeural pitch=-2Hz rate=+2% style.hair=curly style.hairColor=#795548 style.outfit=cardigan style.top=#7E5109 style.topShade=#6E4608 style.glasses=round
+cast: anjali name=Anjali look=woman x=800 voice=en-US-EmmaNeural pitch=-1Hz style.hair=long style.hairColor=#1A1A1A style.skin=#8D5524 style.skinShade=#7A4A1F style.outfit=coat style.top=#922B21 style.topShade=#7B241C
+cast: marcus name=Marcus look=man x=1300 voice=en-US-GuyNeural pitch=-3Hz style.hair=part style.hairColor=#424242 style.outfit=suit style.top=#1B4F72 style.topShade=#154360
+names: Rob, Anjali, Marcus, Freya, Durham, Coniston
+words: banter; idiosyncratic; wistful; nostalgia; mockery; frivolous
+focus: Trêu đùa bạn thân bằng thành ngữ và lối nói mỉa mai thân mật mà không làm tổn thương
+pattern: You haven't changed a bit. · Pull the other one. · Look who's talking! · Speak for yourself. · I'll let that slide. · You're one to talk.
+explain: Giữa bạn thân, lời trêu thường nói ngược: "You haven't changed a bit" có thể là khen hoặc chọc. "Pull the other one" = đừng hòng tôi tin. "Look who's talking!" / "You're one to talk" = cậu cũng vậy thôi. "Speak for yourself" = đó là cậu chứ không phải tớ. "I'll let that slide" = lần này tớ bỏ qua. Quy tắc ngầm: chọc vào quần áo, thói quen, gu âm nhạc — không chạm vào nỗi đau thật, và giọng phải ấm.
+keys: haven't changed a bit / pull the other one / look who's talking / speak for yourself / let that slide / one to talk
+
+anjali: Rob! You haven't changed a bit. Still wearing that cardigan from 1999. | Rob! Cậu chẳng thay đổi chút nào. Vẫn mặc cái áo len từ năm 1999. [happy]
+rob: This is vintage, Anjali. Some of us have style that improves with age. | Đây là đồ cổ điển đấy, Anjali. Có những người có phong cách càng già càng đẹp. [happy]
+marcus: Pull the other one. It has a hole in the elbow. | Đừng hòng tớ tin. Nó thủng một lỗ ở khuỷu tay kìa. [point]
+rob: Look who's talking. You arrived in a car worth more than my house. | Nhìn lại mình đi. Cậu đến bằng một chiếc xe đắt hơn cả nhà tớ. [happy ipa=house:=]
+marcus: It's a very modest car, by the standards of my industry. | Đó là một chiếc xe rất khiêm tốn, theo tiêu chuẩn ngành của tớ. [shrug]
+anjali: Your industry has very idiosyncratic standards, Marcus. | Ngành của cậu có những tiêu chuẩn rất khác người đấy, Marcus. [happy]
+marcus: I'll let that slide, because you brought the good wine. | Tớ bỏ qua câu đó, vì cậu mang rượu ngon đến. [happy]
+rob: She always brings the good wine. It's the only reason we invite her. | Cậu ấy lúc nào cũng mang rượu ngon. Đó là lý do duy nhất bọn mình mời cậu ấy. [happy]
+anjali: Speak for yourself. Marcus invites me for my medical advice. | Đó là cậu thôi. Marcus mời tớ vì lời khuyên y tế của tớ. [point]
+marcus: True. I have a pain in my wallet every time I see Rob. | Đúng thế. Cứ gặp Rob là ví tớ lại đau nhức. [happy]
+rob: You're one to talk. You still owe me ten pounds from our second year. | Cậu mà cũng nói được à. Cậu vẫn còn nợ tớ mười bảng từ hồi năm hai đấy. [angry]
+marcus: With interest, that's about four hundred now. I'll need to call my accountant. | Tính cả lãi thì giờ khoảng bốn trăm. Tớ sẽ phải gọi kế toán của tớ. [thinking]
+anjali: I've missed this. The banter, I mean. My colleagues are terribly polite, and nobody is ever frivolous. | Tớ nhớ cái này lắm. Những lời trêu chọc ấy. Đồng nghiệp tớ lịch sự kinh khủng, và chẳng ai bao giờ tếu táo cả. [sad]
+rob: You're getting wistful already? We've only been here an hour. | Cậu đã bắt đầu bâng khuâng rồi à? Mình mới đến được một tiếng thôi. [surprised]
+anjali: It's the lake. It makes me nostalgic. Or maybe it's the wine. | Tại cái hồ. Nó làm tớ hoài niệm. Hoặc có khi tại rượu. [shrug]
+marcus: Nostalgia is just memory with the boring parts removed. Freya said that. | Hoài niệm chỉ là ký ức đã bỏ đi những phần nhàm chán. Freya nói câu đó đấy. [explain]
+rob: Freya stole that from me, and then put me in a novel as a man who can't boil an egg. | Freya ăn cắp câu đó của tớ, rồi cho tớ vào tiểu thuyết thành một gã không biết luộc trứng. [angry]
+anjali: To be fair, you can't boil an egg. | Công bằng mà nói thì cậu đâu có biết luộc trứng. [happy]
+rob: I'm a historian. Eggs are beneath me. | Tớ là nhà sử học. Trứng là thứ không xứng tầm tớ. [happy]
+marcus: That's the most self-deprecating thing you've never said. | Đó là câu tự giễu nhất mà cậu chưa từng nói. [happy]
+rob: Anyway, how are you both? Properly, I mean, without the mockery. | Mà này, hai cậu thế nào? Thật lòng ấy, bỏ qua mấy trò chọc ghẹo đi. [thinking]
+anjali: Busy, tired, happy. Much the same as last year. And your hands? | Bận, mệt, vui. Cũng như năm ngoái thôi. Còn tay cậu thế nào? [sad]
+rob: A bit shakier. But I can still hold a glass, which is the important thing. | Run hơn một chút. Nhưng tớ vẫn cầm ly được, đó mới là điều quan trọng. [nod]
+marcus: Then hold it up. To the old crowd. Same time next year? | Vậy thì nâng nó lên. Vì hội bạn cũ. Năm sau cũng giờ này nhé? [happy]
+rob: Same time next year. And Marcus pays. | Năm sau cũng giờ này. Và Marcus trả tiền. [happy anjali:happy marcus:happy]
+gloss: cardigan, vintage, elbow, wallet, accountant, historian

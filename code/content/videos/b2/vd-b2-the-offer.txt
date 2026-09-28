@@ -1,0 +1,33 @@
+=== vd-b2-the-offer
+title: Is There Any Flexibility? | Có thể linh hoạt hơn không?
+source: st-b2-the-offer
+summary: Greg gọi lại với đề nghị mới; Amara lịch sự thương lượng lương, ngân sách đào tạo và một đợt xem xét lương sau sáu tháng.
+scene: home-day
+prop: laptop x=830
+cast: amara name=Amara look=woman x=560 voice=en-US-AvaNeural style.hair=curly style.hairColor=#1A1A1A style.skin=#7A4A2A style.skinShade=#643B20 style.outfit=blouse style.top=#E67E22 style.topShade=#CA6F1E
+cast: greg name=Greg look=man x=1180 voice=en-US-ChristopherNeural call call.bg=office style.hair=short style.hairColor=#8B6B4A style.outfit=shirt style.top=#5DADE2 style.topShade=#3498DB
+names: Amara, Greg, Brightline
+words: salary; budget; flexibility; generous; review; confident
+focus: Đàm phán lương lịch sự và có căn cứ
+pattern: I was hoping for something closer to… · Is there any flexibility on…? · Would you be willing to…? · We could meet in the middle · If…, I'd be happy to accept
+explain: Mở đầu bằng thiện chí rồi mới đưa đề nghị: "Thank you, that's a real improvement. To be honest, I was hoping for something closer to…". Hỏi khả năng nhượng bộ: "Is there any flexibility on the salary?". Đề nghị thêm điều kiện: "Would you be willing to add…?". Chốt có điều kiện: "If the review is in the contract, I'd be happy to accept."
+keys: i was hoping for / is there any flexibility / would you be willing to / meet in the middle / i'd be happy to accept
+
+greg: Hi Amara, it's Greg from Brightline. Is now a good time to talk? | Chào Amara, tôi là Greg ở Brightline. Giờ cô nói chuyện được không? [wave]
+amara: Yes, of course. Thanks for getting back to me so quickly. | Vâng, tất nhiên rồi. Cảm ơn ông đã phản hồi nhanh như vậy. [happy]
+greg: I've spoken to the team about your request, and I'm afraid we can't quite reach forty-four. | Tôi đã trao đổi với nhóm về đề nghị của cô, và e là chúng tôi không thể đáp ứng mức bốn mươi tư. [explain]
+amara: I understand. Is there any flexibility at all on the salary? | Tôi hiểu. Về mức lương thì có thể linh hoạt chút nào không ạ? [thinking]
+greg: We could go up to forty-one. That's the top of our budget for junior roles. | Chúng tôi có thể nâng lên bốn mươi mốt. Đó là mức trần ngân sách cho các vị trí sơ cấp. [explain]
+amara: Thank you, that's a real improvement. To be honest, I was hoping for something closer to forty-three. | Cảm ơn ông, đó là một bước tiến thật sự. Thành thật mà nói, tôi mong một con số gần bốn mươi ba hơn. [nod]
+greg: I know. That's why we'd also like to offer you a training budget of two thousand a year. | Tôi biết. Vì thế chúng tôi muốn tặng thêm cho cô ngân sách đào tạo hai nghìn mỗi năm. [explain]
+amara: That's very generous. Could I use it for courses and conferences? | Thật hào phóng. Tôi có thể dùng nó cho các khoá học và hội thảo không ạ? [happy @laptop ipa=use:juz]
+greg: Absolutely. And you'd be able to work from home two days a week. | Hoàn toàn được. Và cô có thể làm việc tại nhà hai ngày mỗi tuần. [nod]
+amara: That sounds great. Would you be willing to add one more thing? | Nghe tuyệt quá. Ông có sẵn lòng thêm một điều nữa không ạ? [thinking]
+greg: Well, that depends on what it is! | Chà, còn tuỳ đó là điều gì! [shrug]
+amara: A salary review after six months. If my work meets your expectations, we could look at the figure again. | Một đợt xem xét lương sau sáu tháng. Nếu công việc của tôi đáp ứng kỳ vọng của công ty, ta có thể xem lại con số. [explain]
+greg: So we'd meet in the middle now and talk again later. | Vậy là bây giờ hai bên chốt ở giữa và sau này bàn lại. [thinking]
+amara: Exactly. I'm confident I can prove my value by then. | Chính xác. Tôi tự tin mình có thể chứng minh giá trị của mình trước thời điểm đó. [nod]
+greg: I'll need to check with finance, but it sounds reasonable to me. | Tôi cần hỏi lại bộ phận tài chính, nhưng với tôi thì nghe hợp lý. [thinking]
+amara: Thank you. If the review is included in the contract, I'd be happy to accept. | Cảm ơn ông. Nếu đợt xem xét lương được ghi vào hợp đồng, tôi rất sẵn lòng nhận lời. [happy ipa=contract:=]
+greg: Then consider it done. I'll send you the updated offer this afternoon. | Vậy coi như xong. Chiều nay tôi sẽ gửi cô lời mời đã cập nhật. [happy]
+amara: Wonderful. I'm really looking forward to starting. | Tuyệt vời. Tôi rất mong được bắt đầu. [cheer]

@@ -1,0 +1,34 @@
+=== vd-c1-the-last-clause
+title: Purely Hypothetically | Thuần tuý là giả thuyết thôi
+source: st-c1-the-last-clause
+summary: Đêm khuya bên hồ, Elin và Samir — hai người ở hai phía bàn đàm phán — thăm dò một lối thoát bằng những câu nói giả định khéo léo, không ai phải cam kết điều gì.
+scene: riverside
+cast: elin name=Elin look=woman x=520 voice=en-US-JennyNeural pitch=-2Hz rate=-2% style.hair=bun style.hairColor=#D9B26F style.outfit=coat style.top=#34495E style.topShade=#2C3E50 style.scarf=#C0392B
+cast: samir name=Samir look=man x=1160 voice=en-US-AndrewNeural pitch=-3Hz style.hair=short style.hairColor=#1A1A1A style.skin=#B98563 style.skinShade=#A47251 style.outfit=suit style.top=#4A4A4A style.topShade=#3A3A3A
+names: Elin, Samir, Tarra
+words: delegation; mandate; tentative; credible; verification; turbine
+focus: Thăm dò đề xuất một cách thận trọng trong đàm phán (giả định, không cam kết)
+pattern: Purely hypothetically, … · What if we were to…? · Would your side be open to…? · We could probably live with… · That would be a red line for us · I'm not in a position to…
+explain: Thả ý tưởng mà không cam kết: "Purely hypothetically, …", "What if we were to…?" (giả định lịch sự hơn "What if we…"). Dò phản ứng: "Would your side be open to…?". Nhượng bộ có điều kiện: "We could probably live with that, provided…". Nêu giới hạn: "That would be a red line for us." Nói rõ mình không có thẩm quyền: "I'm not in a position to promise anything." Người nghe đáp cũng bằng giả định để giữ thể diện cho cả hai.
+keys: purely hypothetically / what if we were to / would your side be open to / could probably live with / red line / not in a position to
+
+samir: You can't sleep either? I thought I was the only one hiding from my delegation. | Chị cũng không ngủ được à? Tôi tưởng chỉ mình tôi trốn phái đoàn của mình. [wave]
+elin: Three weeks of the same speeches. I needed some air, and the lake is the only quiet place in this hotel. | Ba tuần nghe đi nghe lại cùng những bài phát biểu. Tôi cần chút không khí, và cái hồ là nơi yên tĩnh duy nhất ở khách sạn này. [tired]
+samir: My grandparents farmed on the Tarra, you know. Upstream, of course. | Ông bà tôi từng làm ruộng bên sông Tarra đấy. Ở thượng nguồn, tất nhiên rồi. [talking]
+elin: So did mine, downstream. Perhaps they drank the same water, forty years apart. | Ông bà tôi cũng vậy, ở hạ nguồn. Có lẽ họ đã uống cùng một dòng nước, cách nhau bốn mươi năm. [happy]
+samir: People think the dam is about prestige. It's about villages that have electricity for four hours a day. | Người ta nghĩ con đập là để lấy thể diện. Thật ra nó là chuyện những ngôi làng chỉ có điện bốn tiếng mỗi ngày. [explain]
+elin: I understand that. May I ask you something? Purely hypothetically, of course. | Tôi hiểu điều đó. Tôi hỏi anh một chuyện được không? Tất nhiên là thuần tuý giả thuyết thôi. [thinking]
+samir: Hypothetical questions are the only kind I'm allowed to answer tonight. | Câu hỏi giả thuyết là loại duy nhất tôi được phép trả lời tối nay. [happy]
+elin: What if we were to stop arguing about fixed percentages altogether? | Nếu chúng ta thôi hẳn việc tranh cãi về tỉ lệ phần trăm cố định thì sao? [explain]
+samir: And replace them with what? My minister won't accept a vague promise. | Và thay bằng gì? Bộ trưởng của tôi sẽ không chấp nhận một lời hứa mơ hồ. [thinking]
+elin: With shares that move automatically with the rainfall in the mountains. Dry year, both sides take less. | Bằng những phần chia tự động thay đổi theo lượng mưa trên núi. Năm khô hạn thì cả hai bên đều nhận ít hơn. [explain]
+samir: Would your side be open to a minimum level in the reservoir, so that the turbines never stop completely? | Phía chị có sẵn lòng chấp nhận một mức tối thiểu trong hồ chứa, để các tua-bin không bao giờ ngừng hẳn không? [thinking]
+elin: We could probably live with that, provided the minimum is low and clearly defined. | Chúng tôi có lẽ chấp nhận được điều đó, miễn là mức tối thiểu thấp và được xác định rõ ràng. [nod ipa=live:lɪv]
+samir: The measurements would have to be credible to both sides. Who would own the stations? | Số liệu đo phải đáng tin với cả hai bên. Ai sẽ sở hữu các trạm đo? [explain]
+elin: Nobody, ideally. Joint stations, with independent verification. If either side controlled the data, it would be a red line for the other. | Lý tưởng là không ai cả. Các trạm chung, có kiểm chứng độc lập. Nếu một bên kiểm soát dữ liệu, đó sẽ là giới hạn đỏ với bên kia. [explain samir:thinking]
+samir: Hypothetically, that sounds almost reasonable. Which worries me. | Giả thuyết mà nói, nghe gần như hợp lý. Chính điều đó làm tôi lo. [happy]
+elin: I should be honest. I'm not in a position to offer anything. My delegation has no idea I'm out here. | Tôi nên thành thật. Tôi không có thẩm quyền đưa ra bất cứ đề nghị nào. Phái đoàn của tôi không hề biết tôi ra đây. [shy]
+samir: Nor is mine. My mandate is technical advice, not treaties. | Tôi cũng vậy. Nhiệm vụ của tôi là tư vấn kỹ thuật, không phải hiệp ước. [shrug]
+elin: Then this was a tentative conversation between two engineers who happened to meet by a lake. | Vậy thì đây chỉ là một cuộc trò chuyện dè dặt giữa hai kỹ sư tình cờ gặp nhau bên hồ. [happy]
+samir: Exactly. Nothing was said. Although, if your side raised it tomorrow, I suspect we might listen. | Chính xác. Chẳng có gì được nói ra cả. Dù vậy, nếu mai phía chị nêu chuyện này, tôi ngờ là chúng tôi sẽ lắng nghe. [nod elin:surprised]
+gloss: reservoir

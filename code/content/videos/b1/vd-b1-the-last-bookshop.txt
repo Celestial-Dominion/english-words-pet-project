@@ -1,0 +1,32 @@
+=== vd-b1-the-last-bookshop
+title: As Long As It Pays the Bills | Miễn là đủ trả hoá đơn
+source: st-b1-the-last-bookshop
+summary: Giữa những giá sách bụi bặm, Maya trình bày từng ý tưởng cứu hiệu sách, còn Owen đặt điều kiện cho từng ý một.
+scene: library
+prop: book x=800
+cast: owen name=Owen look=man x=540 voice=en-US-ChristopherNeural pitch=+2Hz style.hair=part style.hairColor=#6B4226 style.outfit=shirt style.top=#5B7DB1 style.topShade=#4B6A99
+cast: maya name=Maya look=woman x=1140 voice=en-US-EmmaNeural pitch=+2Hz style.hair=curly style.hairColor=#2B1B14 style.skin=#A8704C style.skinShade=#8E5C3C style.outfit=cardigan style.top=#E3A33B style.topShade=#C98C2B
+names: Ian, Maya, Owen
+words: unless; provided; volunteer; membership; community; condition
+focus: Đưa ra đề xuất kèm điều kiện
+pattern: As long as… · Provided (that)… · Unless… · In that case… · On one condition. · It's worth a try.
+explain: "As long as / provided (that) + hiện tại đơn" = miễn là: "You can stay, as long as it pays the bills." "Unless" = trừ khi / nếu không: "We'll close unless people help." Đồng ý có điều kiện: "OK, on one condition." Hệ quả: "In that case, …".
+keys: as long as / provided / unless / in that case / on one condition / worth a try
+
+maya: Owen, please don't sell it yet. Let me show you my idea. | Owen, đừng bán vội. Để tớ cho cậu xem ý tưởng của tớ. [worried @book]
+owen: OK. But unless it makes money, I can't keep it. | Được. Nhưng trừ khi nó kiếm ra tiền, tớ không giữ nó được. [thinking]
+maya: I understand. What if the shop became a place for the community? | Tớ hiểu. Nếu cửa hàng trở thành nơi sinh hoạt cho cộng đồng thì sao? [explain]
+owen: A community center? In a bookshop? | Trung tâm cộng đồng? Trong một hiệu sách? [surprised]
+maya: Story hours for kids, a book club, poetry evenings. People would come every week. | Giờ kể chuyện cho trẻ em, câu lạc bộ đọc sách, những buổi tối thơ ca. Tuần nào mọi người cũng sẽ đến. [happy]
+owen: Fine, as long as they buy some books while they're here. | Được thôi, miễn là họ mua vài cuốn sách khi đến đây. [thinking]
+maya: They will. And we could offer membership. Members pay a small amount every month. | Họ sẽ mua. Và mình có thể mở chương trình thành viên. Thành viên trả một khoản nhỏ mỗi tháng. [explain]
+owen: Provided it's enough to pay the bills, I'm interested. | Miễn là đủ trả các hoá đơn, tớ quan tâm đấy. [thinking]
+maya: And I can find volunteers to help clean and paint. | Và tớ có thể tìm tình nguyện viên đến giúp lau dọn và sơn sửa. [happy]
+owen: Volunteers? Who would work for free? | Tình nguyện viên á? Ai lại làm không công? [confused]
+maya: Half of Elm Street loved your uncle. Trust me. | Nửa phố Elm đều quý bác cậu. Tin tớ đi. [explain]
+owen: What about the roof? It leaks every time it rains. | Còn mái nhà thì sao? Mưa lần nào cũng dột. [worried]
+maya: In that case, we ask a local builder. Maybe he'll give us a good price. | Vậy thì mình nhờ một thợ xây trong vùng. Biết đâu anh ấy cho mình giá tốt. [explain]
+owen: You've really thought about this, haven't you? | Cậu nghĩ kỹ về chuyện này thật rồi nhỉ? [happy]
+maya: I have. So, will you give it a chance? | Đúng vậy. Vậy cậu có cho nó một cơ hội không? [thinking]
+owen: OK. On one condition: six months. If it fails, I sell it. | Được. Với một điều kiện: sáu tháng. Nếu thất bại, tớ bán. [explain]
+maya: Deal. Six months. It's worth a try. | Chốt. Sáu tháng. Đáng để thử mà. [happy cheer owen:happy]

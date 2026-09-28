@@ -1,0 +1,39 @@
+=== vd-c2-thirty-years-of-silence
+title: I'm Not Asking You to Forgive Me | Chị không xin em tha thứ
+source: st-c2-thirty-years-of-silence
+summary: Trong căn nhà nhỏ ở Hull, Nora mở lời về chuyện đau lòng đã chia cắt hai chị em ba mươi năm — nhận lỗi rõ ràng, không đòi hỏi, và lắng nghe phía bên kia của câu chuyện.
+scene: home-day
+cast: nora name=Nora look=grandma x=520 voice=en-US-MichelleNeural pitch=-7Hz rate=-4% style.hair=bob style.hairColor=#C0C0C0 style.outfit=cardigan style.top=#1B4F72 style.topShade=#154360 style.glasses=round
+cast: kitty name=Kitty look=grandma x=1160 voice=en-US-AnaNeural pitch=-6Hz rate=-3% style.hair=bun style.hairColor=#D5D5D5 style.outfit=blouse style.top=#A93226 style.topShade=#922B21
+names: Nora, Kitty, Hull, Aberdeen, Dad
+words: estranged; grievance; irrevocable; reproach; frail; reconciliation
+focus: Mở lời về một chuyện đau lòng và xin lỗi riêng tư: nhận lỗi, không đòi tha thứ, lắng nghe
+pattern: There's something I've wanted to say for… · I'm not asking you to forgive me. · I was wrong to… · I should have… · I had no idea that… · Could we try to…?
+explain: Mở đầu một chuyện khó bằng cách báo trước: "There's something I've wanted to say for years". Nhận lỗi cụ thể, không kèm biện hộ: "I was wrong to say…", "I should have asked". Không biến lời xin lỗi thành món nợ: "I'm not asking you to forgive me." Khi người kia kể phía của họ, ghi nhận: "I had no idea that…". Đề nghị bước tiếp nhỏ: "Could we try to…?"
+keys: wanted to say for / not asking you to forgive me / i was wrong to / i should have / i had no idea / could we try to
+
+kitty: You came all the way from Aberdeen. You must want something. | Chị lặn lội từ tận Aberdeen xuống. Hẳn là chị muốn gì đó. [thinking]
+nora: I suppose I do. There's something I've wanted to say for thirty years, and I'm running out of excuses. | Chị đoán là vậy. Có một điều chị đã muốn nói suốt ba mươi năm, và chị hết cớ để trì hoãn rồi. [sad ipa=excuses:ɪkˈskjusɪz]
+kitty: Go on, then. | Vậy thì chị nói đi. [sad]
+nora: What I said at Dad's funeral was cruel and untrue. I was wrong to say it, and I've regretted it every single day. | Điều chị nói ở đám tang bố là tàn nhẫn và không đúng sự thật. Chị đã sai khi nói ra, và ngày nào chị cũng hối hận. [sad]
+kitty: You said I was never part of the family. | Chị bảo em chưa bao giờ là một phần của gia đình. [angry]
+nora: I know. I'm not asking you to forgive me. I just didn't want you to go on thinking I meant it. | Chị biết. Chị không xin em tha thứ. Chị chỉ không muốn em cứ nghĩ rằng chị thật lòng như vậy. [nod]
+kitty: For thirty years I assumed you did. Every Christmas without a card felt like a reproach. | Suốt ba mươi năm em cứ nghĩ chị thật lòng. Mỗi mùa Giáng sinh không có tấm thiệp nào đều như một lời trách móc. [sad]
+nora: For me it was the same. I thought your silence was a verdict on me. | Với chị cũng vậy. Chị tưởng sự im lặng của em là một phán quyết về chị. [sad]
+kitty: We were both so proud. It became irrevocable without either of us deciding anything. | Cả hai chúng ta đều quá kiêu hãnh. Nó trở nên không thể đảo ngược mà chẳng ai trong chúng ta quyết định gì cả. [thinking]
+nora: I should have asked why you couldn't come home that year. I just assumed you didn't care. | Lẽ ra chị nên hỏi vì sao năm đó em không về được. Chị chỉ mặc định là em không quan tâm. [sad]
+kitty: I was going through a divorce. And I lost a baby that spring. I never told anyone. | Lúc đó em đang ly hôn. Và mùa xuân năm ấy em mất một đứa con. Em chưa bao giờ kể với ai. [tearful]
+nora: Kitty, I had no idea. I'm so sorry. You were carrying all that on your own? | Kitty, chị không hề biết. Chị rất tiếc. Em đã gánh tất cả những chuyện đó một mình ư? [surprised]
+kitty: I didn't want to add to your burdens. You were already nursing Dad. | Em không muốn chất thêm gánh nặng cho chị. Chị đã phải chăm bố rồi. [sad]
+nora: So we each had a grievance, and each of us hid half the story. | Vậy là mỗi chúng ta đều có một nỗi bất bình, và mỗi người đều giấu đi một nửa câu chuyện. [thinking]
+kitty: That sounds like our family, doesn't it? Dad never explained anything either. | Nghe đúng là gia đình mình, phải không? Bố cũng chẳng bao giờ giải thích điều gì. [happy]
+nora: Remember his Sunday dinners? He explained those at great length. | Em còn nhớ những bữa tối Chủ nhật của bố không? Mấy món đó thì bố giải thích dài dòng lắm. [happy]
+kitty: The potatoes he set on fire. I'd forgotten about that. | Mấy củ khoai bố làm cháy. Em quên béng chuyện đó rồi. [happy]
+nora: You look frail, Kitty. Is it very hard, the dialysis? | Em trông yếu quá, Kitty. Chạy thận có vất vả lắm không? [worried]
+kitty: Three times a week, four hours each time. I'm tired all the time. | Ba lần một tuần, mỗi lần bốn tiếng. Lúc nào em cũng mệt. [tired]
+nora: Could we try to see each other more often? Whatever happens with your health. | Chúng ta thử gặp nhau thường xuyên hơn được không? Dù sức khoẻ của em có ra sao. [thinking]
+kitty: I'd like that. I'm not sure it's a reconciliation yet, but it's a beginning. | Em muốn thế. Em không chắc đây đã là sự hoà giải, nhưng là một khởi đầu. [nod]
+nora: A beginning is more than I dared hope for on the train. | Một khởi đầu đã là nhiều hơn những gì chị dám mong trên chuyến tàu. [happy]
+kitty: More tea, then? Dad would say we've been estranged long enough. | Thêm trà nhé? Bố hẳn sẽ nói chúng ta xa cách đủ lâu rồi. [happy nora:happy]
+names: Christmas, Sunday
+gloss: excuses, funeral, cruel, untrue, verdict, divorce, burdens, nursing, potatoes, dialysis

@@ -1,0 +1,81 @@
+=== st-c1-the-breach
+title: The Breach | Lỗ hổng
+topic: technology
+summary: Một sáng thứ Bảy, mã độc tống tiền khoá sạch hệ thống máy tính của một bệnh viện; trưởng phòng an ninh mạng phải giải thích cho ban giám đốc chuyện gì đang xảy ra bằng ngôn ngữ ai cũng hiểu, trong khi bọn tội phạm đòi tiền chuộc.
+names: Callum Frazer, Callum, Anita Rao, Anita, Dr. Rao, Bridget Doyle, Bridget, St Hilda's, St Hilda's Hospital
+gloss: ransomware, ransom, phishing, backups, servers, cybersecurity
+
+## Saturday Morning | Sáng thứ Bảy
+At six o'clock on a Saturday morning, the screens in the emergency department of St Hilda's Hospital went black, one after another, and then displayed the same message in red letters. | Sáu giờ sáng thứ Bảy, các màn hình ở khoa cấp cứu Bệnh viện St Hilda lần lượt tắt đen, rồi cùng hiển thị một thông điệp bằng chữ đỏ.
+Every file on the hospital's network had been encrypted, it announced, and would remain locked unless a ransom of four million dollars was paid within seventy-two hours. | Thông điệp tuyên bố mọi tệp trên mạng của bệnh viện đã bị mã hoá, và sẽ bị khoá mãi mãi trừ khi một khoản tiền chuộc bốn triệu đô la được trả trong vòng bảy mươi hai giờ.
+Within minutes, the hospital could not access patient records, test results or the system that allocated beds. | Chỉ trong vài phút, bệnh viện không thể truy cập hồ sơ bệnh nhân, kết quả xét nghiệm hay hệ thống phân bổ giường bệnh.
+St Hilda's was a large teaching hospital that treated more than a thousand patients a day, and almost every aspect of its work depended on software: prescriptions, scans, blood tests, the dispatch of ambulances and even the wireless pumps that delivered drugs to patients in intensive care. | St Hilda là một bệnh viện giảng dạy lớn điều trị hơn một nghìn bệnh nhân mỗi ngày, và gần như mọi khía cạnh công việc của nó đều phụ thuộc vào phần mềm: đơn thuốc, chụp chiếu, xét nghiệm máu, việc điều phối xe cấp cứu và cả những máy bơm không dây truyền thuốc cho bệnh nhân hồi sức tích cực.
+The message on the screens was accompanied by a clock counting down the hours, a detail that Callum later described as unnecessarily theatrical. | Thông điệp trên màn hình đi kèm một chiếc đồng hồ đếm ngược từng giờ, một chi tiết mà về sau Callum mô tả là màu mè không cần thiết.
+names: Saturday
+gloss: encrypted, prescriptions, pumps, intensive care, theatrical
+
+Callum Frazer, the hospital's head of cybersecurity, was woken by a phone call at six fifteen and was in his office by seven. | Callum Frazer, trưởng bộ phận an ninh mạng của bệnh viện, bị một cuộc gọi đánh thức lúc sáu giờ mười lăm và có mặt ở văn phòng trước bảy giờ.
+He had spent years warning the board that an attack of this kind was a question of when, not if, and he took no satisfaction whatsoever in having been right. | Anh đã mất nhiều năm cảnh báo ban giám đốc rằng một cuộc tấn công như thế này chỉ là vấn đề khi nào chứ không phải có hay không, và anh không hề thấy thoả mãn chút nào khi mình đã đúng.
+His first decision was to disconnect the entire network from the internet, which stopped the malware from spreading further but also shut down every system that remained. | Quyết định đầu tiên của anh là ngắt toàn bộ mạng khỏi internet, việc này ngăn phần mềm độc hại lây lan thêm nhưng cũng làm sập mọi hệ thống còn lại.
+gloss: disconnect
+
+## Paper and Pens | Giấy và bút
+In the wards, the staff returned to methods that most of them had only heard about. | Ở các khoa phòng, nhân viên quay về những phương pháp mà phần lớn họ chỉ từng nghe nói.
+Bridget Doyle, a ward manager with thirty years of experience, organized teams to write every patient's medication on whiteboards and paper charts, and she sent junior doctors running between departments with handwritten test requests. | Bridget Doyle, một điều dưỡng trưởng với ba mươi năm kinh nghiệm, tổ chức các nhóm ghi thuốc của từng bệnh nhân lên bảng trắng và phiếu giấy, và cử các bác sĩ trẻ chạy giữa các khoa với những phiếu yêu cầu xét nghiệm viết tay.
+Ambulances carrying the most seriously ill patients were diverted to other hospitals, and non-urgent operations were cancelled. | Xe cấp cứu chở những bệnh nhân nặng nhất được chuyển hướng sang các bệnh viện khác, và các ca mổ không khẩn cấp bị huỷ.
+Paper forms, abandoned a decade earlier, were retrieved from a basement archive, and a retired administrator volunteered to come in and explain the old filing system. | Những mẫu giấy, vốn bị bỏ từ một thập kỷ trước, được lấy ra từ một kho lưu trữ dưới tầng hầm, và một cựu nhân viên hành chính đã nghỉ hưu tình nguyện đến giải thích hệ thống lưu trữ cũ.
+The contingency plans that Callum had written two years earlier, and which the board had approved with little interest, suddenly proved invaluable. | Những kế hoạch dự phòng mà Callum đã soạn hai năm trước, và được ban giám đốc phê duyệt một cách hờ hững, bỗng tỏ ra vô giá.
+gloss: wards, medication, whiteboards, junior, diverted, non-urgent, retrieved, basement, filing system, invaluable
+
+"It's like working in 1985," Bridget told a nervous young nurse. "Except that in 1985 we knew where everything was." | "Cứ như làm việc năm 1985 vậy," Bridget nói với một nữ y tá trẻ đang lo lắng. "Chỉ khác là năm 1985 chúng tôi biết mọi thứ nằm ở đâu."
+Remarkably, nobody died as a result of the attack, although several patients waited far longer than they should have, and the staff were exhausted by the end of the first day. | Đáng chú ý là không ai chết vì cuộc tấn công, dù vài bệnh nhân phải chờ lâu hơn nhiều so với mức đáng phải chờ, và nhân viên kiệt sức vào cuối ngày đầu tiên.
+
+## The Board | Ban giám đốc
+At ten o'clock, Dr. Anita Rao, the hospital's chief executive, called an emergency meeting of the board. | Mười giờ, bác sĩ Anita Rao, giám đốc điều hành bệnh viện, triệu tập một cuộc họp khẩn của ban giám đốc.
+Most of its members were doctors, accountants and retired business people, and few of them understood how the hospital's computers worked. | Phần lớn thành viên là bác sĩ, kế toán và những người kinh doanh đã nghỉ hưu, và rất ít người trong số họ hiểu máy tính của bệnh viện hoạt động thế nào.
+Anita asked Callum to explain what had happened in terms that everyone could follow. | Anita đề nghị Callum giải thích chuyện gì đã xảy ra bằng những từ ngữ ai cũng có thể theo kịp.
+gloss: accountants
+
+Callum had prepared the explanation in the car. | Callum đã chuẩn bị lời giải thích trên xe.
+"Imagine that someone broke into the building overnight, put every document we own into locked boxes and took the keys," he said. "That's what ransomware does, except that the boxes are digital and the burglars are probably on another continent." | "Hãy tưởng tượng có kẻ đột nhập vào toà nhà trong đêm, bỏ mọi tài liệu của chúng ta vào những chiếc hộp khoá kín và mang theo chìa khoá," anh nói. "Đó là việc mã độc tống tiền làm, chỉ khác là những chiếc hộp là kỹ thuật số và bọn trộm có lẽ đang ở một châu lục khác."
+He explained that the attackers had almost certainly entered through a phishing email, a message designed to trick an employee into clicking a link or opening a file, and that they had then spent weeks moving silently through the network before they struck. | Anh giải thích rằng những kẻ tấn công gần như chắc chắn đã xâm nhập qua một email lừa đảo, một thông điệp được thiết kế để lừa nhân viên bấm vào đường link hoặc mở một tệp, và rằng sau đó chúng đã dành nhiều tuần lặng lẽ di chuyển trong mạng trước khi ra đòn.
+They had exploited a vulnerability in an old piece of software that the hospital had been meaning to replace for years, and once inside, they had gradually collected the passwords they needed to reach its most sensitive systems. | Chúng đã lợi dụng một lỗ hổng trong một phần mềm cũ mà bệnh viện định thay thế từ nhiều năm nay, và một khi đã vào bên trong, chúng dần thu thập những mật khẩu cần thiết để tiếp cận các hệ thống nhạy cảm nhất.
+"How long until we know how much damage has been done?" Anita asked. | "Bao lâu nữa chúng ta mới biết thiệt hại đến mức nào?" Anita hỏi.
+"Honestly? Days," Callum said. "The hackers were inside for weeks. We have to assume that every system is compromised until we can prove otherwise." | "Thật lòng ư? Vài ngày," Callum nói. "Tin tặc đã ở bên trong nhiều tuần. Chúng ta phải mặc định mọi hệ thống đều đã bị xâm phạm cho đến khi chứng minh được điều ngược lại."
+gloss: overnight, burglars, digital, continent, struck, passwords
+
+## The Ransom | Tiền chuộc
+The obvious question came from the hospital's treasurer. | Câu hỏi hiển nhiên đến từ thủ quỹ của bệnh viện.
+"If we pay, do we get the keys back?" | "Nếu chúng ta trả tiền, chúng ta có lấy lại được chìa khoá không?"
+Callum's answer was candid. | Câu trả lời của Callum rất thẳng thắn.
+Criminals who ran such operations often did provide the keys, since their business depended on victims believing that paying would work, but there was no guarantee, and paying would fund further attacks on other hospitals. | Những tên tội phạm điều hành các phi vụ như vậy thường đúng là có trao chìa khoá, vì việc làm ăn của chúng phụ thuộc vào chuyện nạn nhân tin rằng trả tiền sẽ hiệu quả, nhưng không có gì bảo đảm, và trả tiền sẽ tiếp tay cho những cuộc tấn công khác vào các bệnh viện khác.
+The government's official advice was never to pay. | Khuyến cáo chính thức của chính phủ là không bao giờ trả tiền.
+The attackers had also threatened to publish confidential medical records if the ransom was not paid, a form of extortion that had become increasingly common. | Những kẻ tấn công còn doạ công bố hồ sơ y tế mật nếu không được trả tiền chuộc, một hình thức tống tiền ngày càng phổ biến.
+There was, moreover, the question of disclosure: patients whose data might have been stolen would have to be informed, and the regulator notified within seventy-two hours. | Hơn nữa, còn vấn đề công bố thông tin: những bệnh nhân có thể đã bị đánh cắp dữ liệu sẽ phải được thông báo, và cơ quan quản lý phải được báo cáo trong vòng bảy mươi hai giờ.
+gloss: treasurer
+
+"What's the alternative?" Anita asked. | "Phương án thay thế là gì?" Anita hỏi.
+"Our backups," Callum said. | "Các bản sao lưu của chúng ta," Callum nói.
+"Every night, copies of our systems are saved to servers that aren't connected to the main network. If those copies are intact, we can rebuild everything from them. It will take days, not hours, and we'll lose whatever was entered since the last copy was made." | "Mỗi đêm, các bản sao của hệ thống được lưu vào những máy chủ không kết nối với mạng chính. Nếu những bản sao đó còn nguyên vẹn, chúng ta có thể dựng lại mọi thứ từ chúng. Việc đó sẽ mất vài ngày, chứ không phải vài giờ, và chúng ta sẽ mất những gì được nhập vào kể từ lần sao lưu gần nhất."
+The board voted unanimously not to pay. | Ban giám đốc nhất trí biểu quyết không trả tiền.
+gloss: intact, rebuild
+
+## Rebuilding | Dựng lại
+The recovery took nine days. | Việc khôi phục mất chín ngày.
+Callum's team worked in shifts around the clock, checking every backup for traces of the malware before restoring it, since a single infected file could have started the whole attack again. | Đội của Callum làm việc theo ca suốt ngày đêm, kiểm tra từng bản sao lưu tìm dấu vết phần mềm độc hại trước khi khôi phục, vì chỉ một tệp nhiễm độc cũng có thể khởi động lại toàn bộ cuộc tấn công.
+Every restored system had to be reset, its configuration checked line by line, and tested before doctors were allowed to use it. | Mỗi hệ thống được khôi phục đều phải được cài đặt lại, kiểm tra cấu hình từng dòng một và chạy thử trước khi các bác sĩ được phép sử dụng.
+One set of backups turned out to be corrupted, and the records of three days' outpatient appointments had to be reconstructed by hand from paper notes and phone calls. | Một bộ sao lưu hoá ra bị hỏng, và hồ sơ các buổi hẹn khám ngoại trú của ba ngày phải được dựng lại bằng tay từ ghi chú giấy và các cuộc điện thoại.
+The interface that nurses used to record medication was the last system to return, and Bridget's whiteboards remained in use for almost a fortnight. | Giao diện mà y tá dùng để ghi chép thuốc là hệ thống cuối cùng hoạt động trở lại, và những tấm bảng trắng của Bridget tiếp tục được dùng gần hai tuần.
+gloss: around the clock, traces, restoring, infected, corrupted, outpatient, reconstructed, fortnight
+
+The attackers were never identified, although investigators believed they belonged to a criminal group operating from abroad, notably one that had targeted several hospitals in Europe that year. | Những kẻ tấn công chưa bao giờ bị nhận diện, dù các nhà điều tra tin rằng chúng thuộc về một nhóm tội phạm hoạt động từ nước ngoài, đáng chú ý là một nhóm đã nhắm vào vài bệnh viện ở châu Âu trong năm đó.
+The investigation that followed confirmed Callum's suspicion. | Cuộc điều tra sau đó xác nhận mối nghi ngờ của Callum.
+Six weeks before the attack, an employee in the payroll office had opened an email that appeared to come from a supplier, and the attackers had used her password to enter the network. | Sáu tuần trước cuộc tấn công, một nhân viên ở phòng lương đã mở một email có vẻ đến từ một nhà cung cấp, và những kẻ tấn công đã dùng mật khẩu của chị để xâm nhập mạng.
+She offered to resign, and Anita refused to accept her resignation. | Chị xin từ chức, và Anita từ chối chấp nhận đơn từ chức của chị.
+"The attack was designed to fool someone," Anita said. "It fooled you. That's a failure of our systems, not of you." | "Cuộc tấn công được thiết kế để đánh lừa ai đó," Anita nói. "Nó đã lừa được chị. Đó là thất bại của hệ thống chúng ta, không phải của chị."
+gloss: payroll, supplier, password
+
+The following year, the hospital doubled its budget for cybersecurity, introduced compulsory training for every employee, installed a system that automatically checked every incoming email for suspicious links, and ran regular exercises in which the network was deliberately switched off for an hour. | Năm sau, bệnh viện tăng gấp đôi ngân sách cho an ninh mạng, đưa ra khoá huấn luyện bắt buộc cho mọi nhân viên, cài đặt một hệ thống tự động kiểm tra mọi email gửi đến để tìm đường link đáng ngờ, và thường xuyên diễn tập bằng cách cố ý tắt mạng trong một giờ.
+Bridget kept a box of whiteboard pens in her desk drawer, labelled "In case of 1985". | Bridget giữ một hộp bút viết bảng trắng trong ngăn kéo bàn làm việc, dán nhãn "Phòng khi năm 1985 quay lại".
+names: Europe
+gloss: compulsory, labelled

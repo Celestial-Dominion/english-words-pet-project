@@ -1,0 +1,28 @@
+=== vd-a2-the-sleeping-lion
+title: How Do I Get There? | Đi đến đó bằng cách nào?
+source: st-a2-the-sleeping-lion
+summary: Trước tiệm cắt tóc, Kenji hỏi đường đến tượng Sư tử ngủ — và nhận được những lời chỉ dẫn rất tự tin.
+scene: street
+cast: kenji name=Kenji look=man x=560 voice=en-US-ChristopherNeural rate=-4% style.hair=short style.hairColor=#1A1A1A style.skin=#EAC7A0 style.skinShade=#D6AE85 style.outfit=jacket style.top=#3E6FB0 style.topShade=#305A93
+cast: barber name=Barber vi="Bác thợ cắt tóc" look=grandpa x=1150 voice=en-US-RogerNeural style.outfit=apron style.top=#F2F2F2 style.topShade=#DADADA
+names: Kenji, Sleeping Lion
+words: lost; straight; roundabout; opposite; far; helpful
+focus: Hỏi và chỉ đường
+pattern: How do I get to …? · Go straight on · Turn left/right at … · It's opposite … · You can't miss it. · How far is it?
+explain: Hỏi đường: "How do I get to…?" hoặc "I'm looking for…". Chỉ đường dùng câu mệnh lệnh: "Go straight on", "Turn left at the roundabout", "Walk past the bank". Vị trí: "opposite" (đối diện), "next to" (cạnh). "You can't miss it" = dễ thấy lắm. Hỏi khoảng cách: "How far is it?".
+keys: how do i get / go straight on / turn left / opposite / you can't miss it / how far
+
+kenji: Excuse me. Could you help me, please? | Xin lỗi. Bác giúp cháu được không ạ? [shy ipa=excuse:ɪkˈskjuz]
+barber: Of course. Are you lost? | Tất nhiên rồi. Cậu bị lạc à? [happy]
+kenji: A little. I'm looking for the Sleeping Lion. | Hơi hơi ạ. Cháu đang tìm tượng Sư tử ngủ. [thinking]
+barber: Ah, the stone lion! It's not far from here. | À, con sư tử đá! Không xa đây đâu. [happy]
+kenji: Great! How do I get there? | Tuyệt quá! Cháu đi đến đó bằng cách nào ạ? [happy]
+barber: Go straight on until you get to the roundabout. | Cứ đi thẳng cho đến khi tới vòng xuyến. [explain]
+kenji: Straight on to the roundabout. OK. | Đi thẳng đến vòng xuyến. Vâng. [nod]
+barber: Then turn left and walk past the bank. | Rồi rẽ trái và đi qua ngân hàng. [explain]
+kenji: Sorry, did you say left or right? | Xin lỗi, bác nói trái hay phải ạ? [confused]
+barber: Left. The lion is opposite the bookshop. You can't miss it. | Trái. Con sư tử ở đối diện hiệu sách. Dễ thấy lắm. [explain]
+kenji: How far is it? Can I walk? | Có xa không ạ? Cháu đi bộ được không? [thinking]
+barber: Yes, it's about ten minutes on foot. | Được, đi bộ chừng mười phút thôi. [happy]
+kenji: Thank you so much. You've been very helpful. | Cảm ơn bác nhiều lắm. Bác giúp cháu nhiều quá. [happy]
+barber: You're welcome. Although… I haven't seen that lion for years. | Không có gì. Có điều… lâu lắm rồi bác không thấy con sư tử đó. [thinking kenji:confused]

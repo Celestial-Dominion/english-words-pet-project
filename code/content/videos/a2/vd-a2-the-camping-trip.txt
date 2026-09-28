@@ -1,0 +1,34 @@
+=== vd-a2-the-camping-trip
+title: Shall We Go Camping? | Mình đi cắm trại nhé?
+source: st-a2-the-camping-trip
+summary: Bố rủ Mason đi cắm trại ở hồ Pine Lake và hai bố con bàn chuyện đi khi nào, mang gì — Mason thì chẳng mặn mà lắm.
+scene: home-evening
+prop: laptop x=800
+cast: mason name=Mason look=teenboy x=500 voice=en-US-BrianNeural pitch=+10Hz rate=+4% style.hair=short style.hairColor=#6B4A32 style.outfit=tee style.top=#E9A23B style.topShade=#D18B28 style.collar=#D18B28
+cast: dad name=Dad vi=Bố look=dad x=1130 voice=en-US-GuyNeural style.hairColor=#6B4A32 style.top=#5E9E7A style.topShade=#4B8765 style.glasses=true
+names: Pine Lake
+gloss: tent, compass
+words: camping; forest; hiking; nature; weather; pack
+focus: Rủ rê và hẹn lịch
+pattern: Shall we…? · How about…? · Are you free on…? · What shall we take? · That sounds…
+explain: "Shall we + động từ?" là lời rủ lịch sự (= mình… nhé?). "How about + danh từ / V-ing?" đưa ra gợi ý. Hẹn giờ: "Are you free on Saturday?". Đáp: "That sounds great / boring."
+keys: shall we / how about / are you free / what shall we / that sounds
+
+dad: Mason, are you free next weekend? | Mason, cuối tuần sau con có rảnh không? [happy]
+mason: I think so. Why? | Chắc là rảnh ạ. Sao thế bố? [neutral]
+dad: Shall we go camping? Just you and me. | Hai bố con mình đi cắm trại nhé? Chỉ bố với con thôi. [happy explain]
+mason: Camping? Where? | Cắm trại ạ? Ở đâu ạ? [surprised]
+dad: How about Pine Lake? It's in the middle of a forest. | Hồ Pine Lake thì sao? Nó ở ngay giữa rừng. [explain @laptop]
+mason: Is there Wi-Fi? | Ở đó có Wi-Fi không ạ? [thinking]
+dad: No Wi-Fi, no phones, no TV. Just nature. | Không Wi-Fi, không điện thoại, không TV. Chỉ có thiên nhiên. [happy]
+mason: That sounds a bit boring, Dad. | Nghe hơi chán bố ạ. [shrug]
+dad: Boring? We can swim, go hiking and cook by the lake! | Chán á? Mình có thể bơi, đi bộ đường dài và nấu ăn bên hồ! [happy cheer]
+mason: OK… What shall we take? | Thôi được… Mình mang theo những gì ạ? [thinking]
+dad: A tent, two sleeping bags, food and a map. | Một cái lều, hai túi ngủ, đồ ăn và một tấm bản đồ. [explain]
+dad: And my old compass. Your grandpa gave it to me. | Với cả chiếc la bàn cũ của bố. Ông nội tặng bố đấy. [happy]
+mason: What about the weather? | Còn thời tiết thì sao ạ? [worried]
+dad: I checked. It's going to be sunny all weekend. | Bố xem rồi. Cả cuối tuần trời sẽ nắng. [happy nod]
+mason: Shall we pack a raincoat, just in case? | Mình mang theo áo mưa cho chắc nhé? [thinking]
+dad: A raincoat? You worry too much! | Áo mưa á? Con lo xa quá đấy! [happy mason:confused]
+names: Wi-Fi
+gloss: in case

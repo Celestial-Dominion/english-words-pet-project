@@ -405,7 +405,8 @@ async function computeProgressSummary(): Promise<ProgressSummary> {
     getXp(),
     db.reads.toArray(),
   ]);
-  const readsCount = readRows.filter(readActive).length;
+  // Huy hiệu "reads" = bài đọc & truyện; video (id "vd-") đánh dấu đã xem nhưng không tính vào đây.
+  const readsCount = readRows.filter((r) => readActive(r) && !r.id.startsWith("vd-")).length;
   const gamifyRow = await applyStreakFreeze(dailyRows);
   const frozenDates = gamifyRow.frozenDates ?? [];
   const byLevel: Record<number, number> = {};
@@ -471,7 +472,7 @@ export interface TodayQuests {
 export async function todayQuests(now = new Date()): Promise<TodayQuests> {
   const date = todayStr(now);
   const [day, readRows] = await Promise.all([db.daily.get(date), db.reads.toArray()]);
-  const reads = readRows.filter((r) => readActive(r) && todayStr(new Date(r.readAt)) === date).length;
+  const reads = readRows.filter((r) => readActive(r) && !r.id.startsWith("vd-") && todayStr(new Date(r.readAt)) === date).length;
   const m = {
     reviews: day?.reviews ?? 0,
     newCount: day?.newCount ?? 0,

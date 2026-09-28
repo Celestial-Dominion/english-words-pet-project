@@ -1,0 +1,36 @@
+=== vd-b1-the-perfect-stranger
+title: Something Doesn't Add Up | Có gì đó không ổn
+source: st-b1-the-perfect-stranger
+summary: Qua cuộc gọi video, Zara nhẹ nhàng đặt từng câu hỏi về "ông David" để bà Irene tự nhận ra những điểm bất thường.
+scene: home-day
+prop: phone x=820
+cast: irene name=Irene look=grandma x=560 voice=en-US-AriaNeural pitch=-8Hz rate=-8% style.outfit=cardigan style.top=#7A9ACB style.topShade=#6582B3
+cast: zara name=Zara look=teengirl x=1180 voice=en-US-AvaNeural pitch=+4Hz call call.bg=home-evening style.hair=long style.hairColor=#1F1A1C style.skin=#B98160 style.skinShade=#A06A4A style.outfit=tee style.top=#8E44AD style.topShade=#7D3C98
+names: David, Irene, Norway, Zara
+words: suspicious; prove; lend; excuse; convinced; video
+focus: Bày tỏ nghi ngờ và đề nghị kiểm chứng
+pattern: Something doesn't add up. · Doesn't it seem strange that…? · How can you be sure…? · I'm not convinced. · Have you ever…? · What if we checked…?
+explain: Nói nghi ngờ khéo léo, không buộc tội: "Something doesn't add up." (có gì đó không khớp), "Doesn't it seem strange that…?". Hỏi bằng chứng: "How can you be sure…?", "Have you ever seen him on video?". Đề nghị kiểm tra: "What if we checked…?".
+keys: something doesn't add up / doesn't it seem strange / how can you be sure / i'm not convinced / what if we checked
+
+zara: Hi, Grandma! How's David? | Chào bà! Ông David thế nào rồi ạ? [happy wave]
+irene: He's fine, dear. But he's got a problem with his bank again. It's only temporary. | Ông ấy ổn, cháu à. Nhưng ông ấy lại gặp rắc rối với ngân hàng. Chỉ là tạm thời thôi. [worried @phone]
+zara: Again? Did he ask you for money? | Lại nữa ạ? Ông ấy có hỏi xin tiền bà không? [surprised]
+irene: Only to lend him a little. He's going to pay it back. | Chỉ mượn một ít thôi. Ông ấy sẽ trả lại mà. [thinking]
+zara: Grandma, doesn't it seem strange that an engineer can't pay for his own ticket? | Bà ơi, bà không thấy lạ sao khi một kỹ sư lại không tự trả được tiền vé? [thinking]
+irene: He explained everything. His card stopped working. | Ông ấy giải thích hết rồi. Thẻ của ông ấy bị khoá. [confused]
+zara: I see. Have you ever talked to him on video? | Cháu hiểu. Bà đã bao giờ gọi video với ông ấy chưa? [thinking]
+irene: No. The internet on the platform is too weak. | Chưa. Mạng trên giàn khoan yếu quá. [thinking]
+zara: But he can send long messages every day? Something doesn't add up. | Nhưng ông ấy lại gửi được tin nhắn dài mỗi ngày? Có gì đó không khớp bà ạ. [worried]
+irene: You think he's lying to me? | Cháu nghĩ ông ấy đang nói dối bà à? [sad]
+zara: I don't know. But how can you be sure he's really from Norway? | Cháu không biết. Nhưng làm sao bà chắc được ông ấy thật sự đến từ Na Uy? [explain]
+irene: His photos, his stories… He always has a good excuse. | Ảnh của ông ấy, những câu chuyện của ông ấy… Lúc nào ông ấy cũng có lý do hợp lý. [thinking ipa=excuse:ɪkˈskjus]
+zara: That's what worries me. It sounds suspicious. Some people create fake profiles. | Chính điều đó làm cháu lo. Nghe đáng ngờ lắm. Có những kẻ tạo hồ sơ giả mà bà. [worried]
+irene: Fake? David? | Giả ư? David á? [surprised]
+zara: I'm not saying he is. But I'm not convinced, Grandma. | Cháu không nói ông ấy là vậy. Nhưng cháu chưa bị thuyết phục đâu bà. [worried]
+irene: So what should I do? | Vậy bà nên làm gì? [worried]
+zara: What if we checked his photos online? It only takes a minute. | Hay mình kiểm tra ảnh của ông ấy trên mạng nhé? Chỉ mất một phút thôi. [explain ipa=minute:ˈmɪnɪt]
+irene: And if they're real? | Nếu chúng là thật thì sao? [thinking]
+zara: Then I'll say sorry, and you can prove me wrong. | Thì cháu sẽ xin lỗi, và bà có thể chứng minh là cháu sai. [happy]
+irene: All right. But I'm sure he's a good man. | Được thôi. Nhưng bà chắc chắn ông ấy là người tốt. [sad zara:worried]
+gloss: platform, profiles

@@ -1,0 +1,33 @@
+=== vd-b2-the-mountain-wakes
+title: There's No Easy Way to Say This | Thật khó để nói điều này
+source: st-b2-the-mountain-wakes
+summary: Ở quảng trường làng Las Brisas, nhà núi lửa học Marisol báo tin xấu cho ông thị trưởng Ruiz và khẩn thiết đề nghị sơ tán cả làng.
+scene: village
+cast: marisol name=Marisol look=woman x=520 voice=en-US-JennyNeural pitch=-3Hz style.hair=ponytail style.hairColor=#3B2314 style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=jacket style.top=#E67E22 style.topShade=#CA6F1E
+cast: ruiz name="Mayor Ruiz" vi="Thị trưởng Ruiz" look=dad x=1160 voice=en-US-GuyNeural pitch=-3Hz rate=-4% style.hair=short style.hairColor=#5A5A5A style.skin=#C68E5E style.skinShade=#B07A4C style.outfit=shirt style.top=#F4F6F7 style.topShade=#E5E8E8
+names: Marisol, Ruiz, Aurelio, Don Aurelio
+words: eruption; essential; temporary; funeral; urge; panic
+focus: Báo tin xấu khéo léo và khẩn thiết thúc giục hành động
+pattern: I'm afraid I have some bad news · There's no easy way to say this, but… · I'm sorry to have to tell you… · I strongly recommend + V-ing · It's essential that… · I urge you to…
+explain: Rào đón trước tin xấu: "I'm afraid I have some bad news.", "There's no easy way to say this, but…". Thể hiện sự cảm thông: "I know this is incredibly hard." Thúc giục rõ ràng: "I strongly recommend evacuating the village.", "It's essential that everyone leaves.", "I urge you to start with families who have young children." Trấn an: "This is temporary."
+keys: i'm afraid i have some bad news / no easy way to say this / sorry to have to tell you / i strongly recommend / it's essential that / i urge you to
+
+marisol: Mayor Ruiz, thank you for meeting me so quickly. I'm afraid I have some bad news. | Thưa ông Ruiz, cảm ơn ông đã gặp tôi gấp như vậy. E là tôi có tin xấu. [worried]
+ruiz: I was worried you'd say that. Is it the earthquakes again? | Tôi đã lo cô sẽ nói thế. Lại là những trận động đất à? [worried]
+marisol: Yes. I'll speak frankly. There's no easy way to say this, but we think an eruption could happen within weeks. | Vâng. Tôi xin nói thẳng. Thật khó để nói điều này, nhưng chúng tôi nghĩ núi có thể phun trào trong vài tuần tới. [sad]
+ruiz: Within weeks? Are you sure? | Trong vài tuần ư? Cô chắc chứ? [surprised]
+marisol: We can't predict precisely when. But the ground has risen eight centimeters, and the magma is getting closer to the surface. | Chúng tôi không thể dự đoán chính xác khi nào. Nhưng mặt đất đã nhô lên tám centimet, và magma đang tiến gần bề mặt hơn. [explain]
+ruiz: What are you asking me to do? | Cô muốn tôi làm gì? [thinking]
+marisol: I'm sorry to have to tell you this, but I strongly recommend evacuating the village. | Tôi rất tiếc phải nói điều này, nhưng tôi khuyến nghị mạnh mẽ việc sơ tán cả làng. [explain]
+ruiz: Eight hundred people? Some of them have never lived anywhere else. | Tám trăm con người ư? Có người cả đời chưa từng sống ở nơi nào khác. [sad]
+marisol: I know this is incredibly hard. But it's essential that everyone leaves before the eruption starts. | Tôi biết điều này vô cùng khó khăn. Nhưng mọi người nhất thiết phải rời đi trước khi núi phun trào. [explain]
+ruiz: And if nothing happens? People will say we panicked for no reason. | Còn nếu chẳng có gì xảy ra? Người ta sẽ nói chúng ta hoảng loạn vô cớ. [thinking]
+marisol: That's possible, and I'd understand their anger. But I'd rather be criticized than attend a funeral. | Có thể lắm, và tôi hiểu nếu họ giận. Nhưng tôi thà bị chỉ trích còn hơn phải dự một đám tang. [sad]
+ruiz: And what about their homes? Will there be any compensation? | Còn nhà cửa của họ thì sao? Liệu có được bồi thường không? [worried]
+marisol: The regional government has promised help. For now, people should take their documents, medicines and pets. | Chính quyền vùng đã hứa hỗ trợ. Lúc này, mọi người nên mang theo giấy tờ, thuốc men và thú cưng. [explain]
+ruiz: What about the old people? Don Aurelio will never agree. | Còn người già thì sao? Ông Aurelio sẽ không bao giờ đồng ý đâu. [worried]
+marisol: Then I'll talk to him myself. I urge you to start with families who have young children. | Vậy tôi sẽ tự nói chuyện với ông ấy. Tôi khẩn thiết đề nghị ông bắt đầu với các gia đình có con nhỏ. [explain]
+ruiz: All right. I'll call a meeting in the square tonight. Will you come and explain the data? | Được rồi. Tối nay tôi sẽ triệu tập một cuộc họp ở quảng trường. Cô đến giải thích dữ liệu nhé? [nod]
+marisol: Of course. And please tell people this is temporary. We want them to come back safely. | Tất nhiên rồi. Và xin ông nói với mọi người rằng đây chỉ là tạm thời. Chúng tôi muốn họ được trở về an toàn. [nod]
+ruiz: I will. Thank you for being honest with me, Marisol, even though it isn't what I wanted to hear. | Tôi sẽ nói. Cảm ơn cô đã thành thật với tôi, Marisol, dù đó không phải điều tôi muốn nghe. [sad marisol:sad]
+gloss: magma, evacuating

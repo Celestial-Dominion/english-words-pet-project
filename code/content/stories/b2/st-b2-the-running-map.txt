@@ -1,0 +1,86 @@
+=== st-b2-the-running-map
+title: The Map That Knew Too Much | Tấm bản đồ biết quá nhiều
+topic: technology
+summary: Một người lạ biết rõ lịch chạy bộ buổi sáng của Noah; cậu phát hiện ứng dụng thể thao của mình đã công khai mọi tuyến đường, kể cả địa chỉ nhà — và vấn đề còn lớn hơn cậu tưởng.
+names: Noah, Noah Fischer, Fischer, Mei, Mei Tanaka, Tanaka, StrideLog
+gloss: heatmap, default, settings, app
+
+## The Stranger | Người lạ
+Noah Fischer ran ten kilometers every morning before his lectures, and he recorded every run with a free app called StrideLog. | Noah Fischer chạy mười cây số mỗi sáng trước giờ lên lớp, và cậu ghi lại mọi buổi chạy bằng một ứng dụng miễn phí tên StrideLog.
+He loved the statistics: his speed, his heart rate, the colorful map of each route. | Cậu mê những con số thống kê: tốc độ, nhịp tim, tấm bản đồ đầy màu sắc của từng tuyến đường.
+Over two years, he had recorded more than six hundred runs, and he had a small but loyal group of followers who liked his posts and sent encouraging comments. | Trong hai năm, cậu đã ghi lại hơn sáu trăm buổi chạy, và có một nhóm người theo dõi nhỏ nhưng trung thành, hay thích bài đăng và gửi bình luận khích lệ.
+gloss: statistics, followers
+
+One Saturday, a man he had never seen before stopped him at the gate of his student house. | Một ngày thứ Bảy, một người đàn ông cậu chưa từng gặp chặn cậu lại ở cổng nhà trọ sinh viên.
+"Great run this morning," the man said with a smile. "You were four minutes faster than Tuesday. Same time tomorrow? Six-fifteen?" | "Sáng nay chạy tốt lắm," người đàn ông mỉm cười nói. "Cậu nhanh hơn hôm thứ Ba bốn phút. Mai vẫn giờ đó chứ? Sáu giờ mười lăm?"
+Then he walked away before Noah could reply. | Rồi ông ta bỏ đi trước khi Noah kịp trả lời.
+Noah stood by the gate for a long time. | Noah đứng ở cổng rất lâu.
+The comment had been friendly, but it was deeply creepy. | Lời nhận xét nghe thân thiện, nhưng thật sự rợn người.
+How did a stranger know where he lived, what time he ran and how fast he had been on Tuesday? | Làm sao một người lạ biết cậu sống ở đâu, chạy lúc mấy giờ và hôm thứ Ba cậu chạy nhanh thế nào?
+
+## What the Map Showed | Điều tấm bản đồ cho thấy
+That evening, he asked his friend Mei, a computer science student, to look at his account. | Tối hôm đó, cậu nhờ Mei, một người bạn học ngành khoa học máy tính, xem giúp tài khoản của mình.
+It took her less than five minutes to find the problem. | Cô mất chưa đầy năm phút để tìm ra vấn đề.
+When Noah had installed the app, he had accepted the default settings without reading them. | Khi cài ứng dụng, Noah đã chấp nhận các cài đặt mặc định mà không đọc.
+As a result, his profile and every one of his runs were public. | Kết quả là trang cá nhân và mọi buổi chạy của cậu đều công khai.
+Anyone in the world could see them. | Bất kỳ ai trên thế giới cũng xem được.
+gloss: installed
+
+"Look," Mei said, zooming in on the map. | "Nhìn này," Mei nói, phóng to tấm bản đồ.
+"Almost every route starts and ends at exactly the same point. That's your front door. And the times are practically identical every day. If someone wanted to know when your house was empty, this would tell them precisely." | "Gần như tuyến nào cũng bắt đầu và kết thúc ở đúng một điểm. Đó là cửa nhà cậu. Và giờ giấc gần như y hệt mỗi ngày. Nếu ai đó muốn biết khi nào nhà cậu không có người, cái này sẽ cho họ biết chính xác."
+Noah felt sick. | Noah thấy buồn nôn.
+He had always thought of privacy as something that mattered to famous people or criminals, not to an ordinary student who liked running. | Cậu vẫn luôn nghĩ quyền riêng tư là chuyện quan trọng với người nổi tiếng hay tội phạm, chứ không phải với một sinh viên bình thường thích chạy bộ.
+gloss: zooming, identical, privacy
+
+Mei showed him how to hide the start and end of each route, make his profile private and delete his old runs. | Mei chỉ cậu cách ẩn điểm đầu và điểm cuối của từng tuyến, chuyển trang cá nhân sang chế độ riêng tư và xoá những buổi chạy cũ.
+Then she said something that surprised him. | Rồi cô nói một điều khiến cậu ngạc nhiên.
+"You're not the only one, you know. This happens to thousands of people. A few years ago, a running app published a global heatmap made from the data of millions of users, and it accidentally revealed the location of secret military bases, because soldiers were jogging around them every morning." | "Cậu không phải người duy nhất đâu. Chuyện này xảy ra với hàng nghìn người. Vài năm trước, một ứng dụng chạy bộ công bố bản đồ nhiệt toàn cầu làm từ dữ liệu của hàng triệu người dùng, và vô tình để lộ vị trí các căn cứ quân sự bí mật, vì binh lính chạy bộ quanh đó mỗi sáng."
+gloss: accidentally, military bases, jogging
+
+## The Article | Bài báo
+Noah could not stop thinking about it. | Noah không thể thôi nghĩ về chuyện đó.
+He wrote to StrideLog, asking why public sharing was the default option, but he received only an automatic reply thanking him for his "valuable feedback." | Cậu viết thư cho StrideLog, hỏi vì sao chia sẻ công khai lại là lựa chọn mặc định, nhưng chỉ nhận được một thư trả lời tự động cảm ơn cậu vì "góp ý quý báu".
+So he did something he had never done before: he wrote an article for the student newspaper. | Vì thế cậu làm một việc chưa từng làm: viết một bài báo cho tờ báo sinh viên.
+gloss: automatic
+
+The article described his experience with the stranger and explained, step by step, how easy it was to find someone's home using their running data. | Bài báo kể lại trải nghiệm của cậu với người lạ và giải thích từng bước việc tìm ra nhà của ai đó bằng dữ liệu chạy bộ dễ dàng đến mức nào.
+With Mei's help, and with their permission, he showed that the maps of eleven students at the university revealed where they lived. | Với sự giúp đỡ của Mei, và được sự đồng ý của họ, cậu chỉ ra rằng bản đồ của mười một sinh viên trong trường để lộ nơi họ sống.
+Seven of them were young women who ran alone early in the morning or late at night. | Bảy người trong số đó là những cô gái trẻ chạy một mình vào sáng sớm hoặc đêm khuya.
+None of them had realized that their routes were public. | Không ai trong số họ nhận ra các tuyến đường của mình là công khai.
+gloss: permission, exaggerating
+
+The article was shared thousands of times. | Bài báo được chia sẻ hàng nghìn lần.
+Some readers accused Noah of exaggerating the danger, but many more wrote to thank him, and several described similar experiences with strangers who seemed to know their routines. | Một số độc giả cho rằng Noah phóng đại mối nguy, nhưng nhiều người hơn hẳn đã viết thư cảm ơn cậu, và vài người kể những trải nghiệm tương tự với những kẻ lạ mặt có vẻ biết rõ nếp sinh hoạt của họ.
+A national newspaper picked up the story, and a member of parliament asked a question about it in a debate on data protection. | Một tờ báo quốc gia đưa lại câu chuyện, và một nghị sĩ đã nêu câu hỏi về nó trong một cuộc tranh luận về bảo vệ dữ liệu.
+Students at other universities began checking their own settings and posting warnings online. | Sinh viên ở các trường đại học khác bắt đầu kiểm tra cài đặt của mình và đăng lời cảnh báo lên mạng.
+
+## The Change | Thay đổi
+Three weeks later, StrideLog announced an update. | Ba tuần sau, StrideLog công bố một bản cập nhật.
+From now on, new users' activities would be private by default, and the start and end of every route would be hidden automatically. | Từ nay, hoạt động của người dùng mới sẽ ở chế độ riêng tư theo mặc định, và điểm đầu, điểm cuối của mọi tuyến đường sẽ tự động được ẩn đi.
+The company's statement described the change as part of its "ongoing commitment to user safety." | Thông cáo của công ty mô tả thay đổi này là một phần của "cam kết không ngừng vì sự an toàn của người dùng".
+It did not mention Noah's article. | Nó không nhắc đến bài báo của Noah.
+gloss: update, ongoing, commitment
+
+Noah did not mind. | Noah không bận tâm.
+He still ran every morning, but now he varied his routes and his times, and he started each run a few streets away from his house. | Cậu vẫn chạy mỗi sáng, nhưng giờ cậu thay đổi tuyến đường và giờ giấc, và bắt đầu mỗi buổi chạy cách nhà vài con phố.
+He never saw the stranger again, and he never discovered who he was. | Cậu không bao giờ gặp lại người lạ ấy, và cũng chẳng bao giờ biết ông ta là ai.
+Perhaps he had been harmless, a fellow runner trying to be friendly in a strange way. | Có lẽ ông ta vô hại, một người cùng mê chạy bộ đang cố tỏ ra thân thiện theo cách kỳ quặc.
+Perhaps not. | Có lẽ không.
+Either way, Noah had learned an important lesson: on the internet, anything you share with your friends, you may also be sharing with strangers. | Dù thế nào, Noah đã học được một bài học quan trọng: trên mạng, bất cứ điều gì bạn chia sẻ với bạn bè, có thể bạn cũng đang chia sẻ với người lạ.
+gloss: harmless
+
+## The Workshop | Buổi hội thảo
+The following September, the university asked Noah and Mei to run a workshop on digital privacy for new students. | Tháng Chín năm sau, trường đại học mời Noah và Mei tổ chức một buổi hội thảo về quyền riêng tư kỹ thuật số cho tân sinh viên.
+They expected about twenty people. | Họ đoán sẽ có khoảng hai mươi người.
+More than two hundred arrived, and the session had to be moved to the largest lecture theater. | Hơn hai trăm người đã đến, và buổi hội thảo phải chuyển sang giảng đường lớn nhất.
+gloss: workshop, session, lecture theater
+
+Mei began by asking everyone to open the apps on their phones and check which ones could see their location. | Mei mở đầu bằng việc đề nghị mọi người mở các ứng dụng trên điện thoại và kiểm tra xem ứng dụng nào có thể thấy vị trí của họ.
+There was a murmur of surprise around the room. | Cả phòng rì rầm ngạc nhiên.
+Many students discovered that games, shopping apps and even a flashlight app had permission to track them constantly. | Nhiều sinh viên phát hiện trò chơi, ứng dụng mua sắm và thậm chí một ứng dụng đèn pin có quyền theo dõi họ liên tục.
+Noah then told the story of the stranger at the gate, and the room went quiet. | Rồi Noah kể câu chuyện về người lạ ở cổng, và cả phòng lặng đi.
+gloss: murmur, flashlight, apps
+
+At the end, a first-year student asked whether it was better simply to stop using apps altogether. | Cuối buổi, một sinh viên năm nhất hỏi liệu có nên thôi dùng ứng dụng luôn cho xong không.
+Noah shook his head. | Noah lắc đầu.
+"Technology isn't the enemy," he said. "The problem is that we give away our data without thinking about it. Read the settings. Ask yourself who can see what you share. And if a company makes it difficult to protect yourself, tell other people. It works. We've seen it work." | "Công nghệ không phải kẻ thù," cậu nói. "Vấn đề là chúng ta cho đi dữ liệu của mình mà không suy nghĩ. Hãy đọc phần cài đặt. Hãy tự hỏi ai có thể thấy những gì bạn chia sẻ. Và nếu một công ty gây khó dễ cho việc tự bảo vệ, hãy nói cho người khác biết. Cách đó hiệu quả. Chúng tôi đã tận mắt thấy."

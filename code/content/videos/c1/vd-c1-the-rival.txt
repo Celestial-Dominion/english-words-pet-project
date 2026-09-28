@@ -1,0 +1,35 @@
+=== vd-c1-the-rival
+title: That Would Explain It | Thế thì giải thích được rồi
+source: st-c1-the-rival
+summary: Sau bốn tháng không tái lập được kết quả của phòng thí nghiệm đối thủ, Yusuf và Mei lần lượt đưa ra và loại trừ các giả thuyết về nguyên nhân — từ lỗi của chính họ đến tấm tế bào bị nhầm.
+scene: office
+prop: notebook x=840
+cast: yusuf name=Yusuf look=dad x=520 voice=en-US-ChristopherNeural pitch=-5Hz style.hair=part style.hairColor=#4A4A4A style.skin=#C68E6A style.skinShade=#B07B58 style.outfit=cardigan style.top=#1B4F72 style.topShade=#154360 style.glasses=square
+cast: mei name=Mei look=woman x=1160 voice=en-US-AnaNeural pitch=-2Hz rate=+2% style.hair=ponytail style.hairColor=#1A1A1A style.skin=#EED3B5 style.skinShade=#DBBE9E style.outfit=coat style.top=#FDFEFE style.topShade=#E5E8E8 style.glasses=round
+names: Yusuf, Mei, Clara, Uppsala, Manchester
+words: receptor; protein; replication; variant; contamination; rivalry
+focus: Suy đoán nguyên nhân với các mức độ chắc chắn khác nhau
+pattern: It could well be that… · Chances are… · I'd be surprised if… · It's conceivable that… · That would explain why… · Assuming that…, …
+explain: Khả năng cao: "Chances are it's something simple.", "It could well be that…". Khả năng thấp: "I'd be surprised if…", "It's highly unlikely that…". Khả năng mở: "It's conceivable that…". Nối giả thuyết với bằng chứng: "That would explain why…". Lập luận có điều kiện: "Assuming that…, then…". Tránh khẳng định chắc chắn khi dữ liệu chưa đủ.
+keys: could well be / chances are / i'd be surprised if / conceivable that / that would explain / assuming that
+
+mei: I've done it four times now. Their protein, their doses, their method. The receptor does nothing at all. | Em đã làm bốn lần rồi. Protein của họ, liều lượng của họ, phương pháp của họ. Thụ thể hoàn toàn không phản ứng gì. [sad @notebook]
+yusuf: Chances are it's something simple on our side. A failed replication usually is. | Nhiều khả năng là một chuyện đơn giản ở phía mình. Tái lập thất bại thường là vậy. [thinking]
+mei: I checked the temperature, the timing and every batch number. It's all in my notebook. | Em đã kiểm tra nhiệt độ, thời gian và từng số lô. Tất cả đều trong sổ của em. [explain]
+yusuf: Then it could well be the chemicals. A bad batch of protein would explain a lot. | Vậy rất có thể là do hoá chất. Một lô protein kém chất lượng sẽ giải thích được nhiều điều. [thinking]
+mei: I'd be surprised if it were that. I ordered a fresh batch from a different supplier. Same result. | Em sẽ ngạc nhiên nếu là do đó. Em đã đặt một lô mới từ nhà cung cấp khác. Kết quả vẫn vậy. [shake]
+yusuf: Hmm. And Tom repeated it independently, without seeing your notes? | Hừm. Còn Tom đã lặp lại độc lập, không xem ghi chép của em chứ? [thinking]
+mei: Yes. Nothing. Is it conceivable that their result is simply wrong? | Vâng. Không có gì. Liệu có khả năng kết quả của họ đơn giản là sai không ạ? [worried]
+yusuf: It's conceivable. But Clara's lab is very good, whatever I think of our rivalry. They repeated it dozens of times. | Có khả năng. Nhưng phòng thí nghiệm của Clara rất giỏi, dù tôi nghĩ gì về chuyện kình địch giữa hai bên. Họ đã lặp lại hàng chục lần. [explain]
+mei: Then something must be different between their lab and ours. Something they don't know about. | Vậy chắc chắn có gì đó khác nhau giữa phòng thí nghiệm của họ và của mình. Một điều mà họ không biết. [thinking]
+yusuf: The cells. Assuming both teams did everything correctly, the cells are the only thing left. | Là tế bào. Giả sử cả hai nhóm đều làm mọi thứ đúng, thì tế bào là thứ duy nhất còn lại. [explain mei:surprised]
+mei: You mean their cell line might not be what they think it is? | Ý thầy là dòng tế bào của họ có thể không phải là thứ họ tưởng? [surprised]
+yusuf: It happens more often than people admit. Contamination between cell lines is surprisingly common. | Chuyện này xảy ra thường xuyên hơn người ta thừa nhận. Việc các dòng tế bào lây nhiễm lẫn nhau phổ biến đến bất ngờ. [explain]
+mei: If their cells carried a variant of the receptor, that would explain why the protein works for them and not for us. | Nếu tế bào của họ mang một biến thể của thụ thể, thì điều đó giải thích được vì sao protein có tác dụng với họ mà không với mình. [thinking]
+yusuf: Exactly. But we can't prove it from here. We'd need their cells. | Chính xác. Nhưng từ đây mình không chứng minh được. Mình cần tế bào của họ. [nod]
+mei: They'll never give them to us. Not to Manchester. | Họ sẽ không bao giờ đưa cho mình đâu. Không phải cho Manchester. [sad]
+yusuf: I'd be surprised if they refused, if we asked properly. It's in everyone's interest to know the truth. | Tôi sẽ ngạc nhiên nếu họ từ chối, nếu mình hỏi cho đàng hoàng. Biết được sự thật là có lợi cho tất cả mọi người. [thinking]
+mei: Or we could publish our results and let everyone else ask the questions. | Hoặc mình có thể công bố kết quả rồi để mọi người khác đặt câu hỏi. [shrug]
+yusuf: We could. But chances are people would say it's jealousy. I think I'd rather pick up the phone. | Mình có thể. Nhưng nhiều khả năng người ta sẽ nói đó là ghen tị. Tôi nghĩ tôi thà nhấc điện thoại lên. [happy mei:happy]
+names: Tom
+gloss: doses, batch, chemicals, supplier, cell line, cell lines, jealousy

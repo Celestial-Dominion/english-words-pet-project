@@ -1,0 +1,31 @@
+=== vd-a2-the-forgotten-promise
+title: I'm Really Sorry, Maya | Anh thật sự xin lỗi, Maya
+source: st-a2-the-forgotten-promise
+summary: Owen gõ cửa phòng em gái sau khi quên mất lời hứa làm núi lửa cùng em; lần này, xin lỗi thôi là chưa đủ.
+scene: home-evening
+cast: owen name=Owen look=teenboy x=520 voice=en-US-BrianNeural pitch=+10Hz style.hair=short style.hairColor=#1F1C22 style.skin=#8D5A3B style.skinShade=#74472D style.outfit=tee style.top=#5E9E7A style.topShade=#4B8765
+cast: maya name=Maya look=girl x=1130 voice=en-US-AnaNeural style.hair=curly style.hairColor=#1F1A1C style.skin=#8D5A3B style.skinShade=#74472D style.top=#F08FB0 style.topShade=#DC7398
+gloss: volcano
+words: promise; fault; apologize; forget; whole; trust
+focus: Xin lỗi và đề nghị chuộc lỗi
+pattern: I'm really sorry. · It was my fault. · I shouldn't have… · Can I make it up to you? · I promise.
+explain: Xin lỗi thật lòng gồm ba phần: nhận lỗi ("It was my fault"), nói rõ mình sai ở đâu ("I shouldn't have gone to Jake's"), và đề nghị sửa sai ("Can I make it up to you?"). Người kia có thể đáp "It's OK" hoặc "Promise?".
+keys: i'm really sorry / it was my fault / i shouldn't have / make it up to you / i promise
+
+owen: Maya? Can I come in? | Maya? Anh vào được không? [shy]
+maya: Go away. | Anh đi đi. [angry]
+owen: Please. I want to apologize. | Làm ơn mà. Anh muốn xin lỗi. [sad]
+maya: You promised to help me. I waited the whole afternoon. | Anh hứa giúp em rồi. Em đã chờ suốt cả buổi chiều. [tearful]
+owen: I know. I'm really sorry, Maya. | Anh biết. Anh thật sự xin lỗi, Maya. [sad]
+owen: It was my fault. I shouldn't have gone to Jake's house. | Là lỗi của anh. Anh không nên sang nhà Jake. [sad ipa=house:=]
+maya: You forgot about me. | Anh quên mất em. [sad]
+owen: Yes, I forgot. And that's not OK. | Ừ, anh đã quên. Và như thế là không được. [nod]
+maya: Why should I trust you now? | Sao giờ em phải tin anh chứ? [angry]
+owen: Can I make it up to you? | Anh chuộc lỗi được không? [thinking]
+owen: Tomorrow we can build the volcano. The whole day. | Mai anh em mình làm núi lửa. Cả ngày luôn. [explain]
+maya: The whole day? No games? | Cả ngày á? Không chơi game? [confused]
+owen: No games, no phone. You can keep my phone until Monday. | Không game, không điện thoại. Em cứ giữ điện thoại của anh đến thứ Hai. [explain]
+maya: Promise? | Hứa nhé? [thinking]
+owen: I promise. This time I really mean it. | Anh hứa. Lần này anh nói thật lòng. [happy nod]
+maya: OK. But I'm keeping your phone! | Được rồi. Nhưng em giữ điện thoại của anh đấy! [happy owen:happy]
+names: Jake

@@ -1,0 +1,33 @@
+=== vd-b1-the-allotment
+title: I've Given Up Working at Weekends | Tôi đã bỏ làm việc cuối tuần
+source: st-b1-the-allotment
+summary: Ba tháng sau, Richard quay lại phòng khám; bác sĩ Osei hỏi ông đã thay đổi những thói quen gì.
+scene: hospital
+cast: osei name="Dr. Osei" vi="Bác sĩ Osei" look=woman x=540 voice=en-US-MichelleNeural pitch=-2Hz style.hair=bun style.hairColor=#1A1A1A style.skin=#7A4A2E style.skinShade=#643A22 style.glasses=true style.outfit=patient style.top=#FFFFFF style.topShade=#E6E6E6
+cast: richard name=Richard look=man x=1140 voice=en-US-GuyNeural pitch=-4Hz style.hair=part style.hairColor=#8C8C8C style.outfit=shirt style.top=#5E7D4E style.topShade=#4D683F
+names: Osei, Patel, Richard
+words: habit; stress; weight; sleep; blood; diet
+focus: Kể về những thay đổi trong lối sống
+pattern: I've started (+V-ing)… · I've given up… · I'm trying to… · I used to…, but now I… · I no longer… · How are you getting on?
+explain: Thói quen mới bằng hiện tại hoàn thành: "I've started walking to work.", "I've given up coffee." Đang cố gắng: "I'm trying to eat less sugar." So sánh trước–sau: "I used to work at weekends, but now I don't." "No longer" = không còn nữa.
+keys: i've started / i've given up / i'm trying to / i used to / but now / no longer / how are you getting on
+
+osei: Good morning, Richard. How are you getting on? | Chào ông Richard. Dạo này ông thế nào? [happy]
+richard: Much better, thank you. I feel like a different person. | Khá hơn nhiều, cảm ơn bác sĩ. Tôi thấy mình như một người khác. [happy]
+osei: Your blood pressure has come down a lot. What have you changed? | Huyết áp của ông giảm nhiều rồi. Ông đã thay đổi những gì? [thinking]
+richard: Well, I've started walking to work. It takes forty minutes. | À, tôi đã bắt đầu đi bộ đi làm. Mất bốn mươi phút. [explain]
+osei: Excellent. And what about your diet? | Tuyệt vời. Còn chế độ ăn thì sao? [thinking]
+richard: I used to eat at my desk every day, but now I have lunch in the park. | Trước đây ngày nào tôi cũng ăn ở bàn làm việc, nhưng giờ tôi ăn trưa ở công viên. [explain ipa=used:just]
+osei: That's a good habit. Have you lost any weight? | Đó là một thói quen tốt. Ông có giảm cân không? [thinking]
+richard: Eight kilos. I've given up chocolate biscuits, too. That was hard. | Tám ký. Tôi cũng bỏ bánh quy sô-cô-la rồi. Khó lắm đấy. [happy]
+osei: And the gardening? | Còn việc làm vườn? [thinking]
+richard: I go every Saturday and Wednesday evening. Mrs. Patel is teaching me. | Tôi đi mỗi thứ Bảy và tối thứ Tư. Bà Patel đang dạy tôi. [happy]
+osei: Do you still answer emails at midnight? | Ông vẫn trả lời email lúc nửa đêm chứ? [thinking]
+richard: No. I no longer check my phone after nine. I'm trying to switch off completely at weekends. | Không. Tôi không còn xem điện thoại sau chín giờ tối nữa. Tôi đang cố hoàn toàn nghỉ ngơi vào cuối tuần. [explain]
+osei: Is that difficult for you? | Việc đó có khó với ông không? [thinking]
+richard: At first it was terrible. Now it's the best part of my week. | Lúc đầu thì kinh khủng. Giờ nó là phần tuyệt nhất trong tuần của tôi. [happy]
+osei: How are you sleeping? | Giấc ngủ của ông thế nào? [thinking]
+richard: Seven hours a night. I used to sleep for five, if I was lucky. | Bảy tiếng mỗi đêm. Trước đây tôi ngủ được năm tiếng, nếu may mắn. [happy ipa=used:just]
+osei: Your stress levels are much lower. The prescription is working. | Mức độ căng thẳng của ông đã thấp hơn nhiều. Đơn thuốc đang có tác dụng. [happy]
+richard: Thank you, Doctor. I'll bring you some tomatoes in September. | Cảm ơn bác sĩ. Tháng Chín tôi sẽ mang cà chua đến biếu bà. [happy osei:happy]
+gloss: kilos, biscuits

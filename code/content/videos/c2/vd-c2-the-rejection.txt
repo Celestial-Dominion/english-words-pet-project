@@ -1,0 +1,39 @@
+=== vd-c2-the-rejection
+title: I'm Afraid I Shall Have to Decline | Tôi e là phải từ chối
+source: st-c2-the-rejection
+summary: Trong quán cà phê ở Bristol, Margot phải từ chối lời đề nghị của một đại diện nhà văn muốn "mượn" danh tiếng của Lionel — lần này cô từ chối dứt khoát nhưng vẫn giữ phép lịch sự.
+scene: cafe
+cast: margot name=Margot look=woman x=520 voice=en-US-MichelleNeural pitch=-2Hz style.hair=bob style.hairColor=#2C1B10 style.outfit=blouse style.top=#943126 style.topShade=#7B241C style.glasses=square
+cast: rupert name=Rupert look=man x=1160 voice=en-US-GuyNeural pitch=+1Hz rate=+4% style.hair=part style.hairColor=#5D4037 style.outfit=suit style.top=#212F3D style.topShade=#17202A
+names: Margot, Rupert, Lionel, Larkspur, Achterberg
+words: eminent; posterity; unsolicited; mediocrity; prolific; memoir
+focus: Từ chối lịch sự nhưng dứt khoát, không mở cửa cho mặc cả tiếp
+pattern: I'm afraid I shall have to decline. · I'm flattered, but… · It isn't something we could take on. · I'd rather not, if it's all the same to you. · That won't be possible, I'm afraid. · Please don't take it personally.
+explain: Mở bằng lời cảm ơn hoặc ghi nhận ("I'm flattered, but…"), rồi từ chối rõ ràng bằng cấu trúc trang trọng: "I'm afraid I shall have to decline", "That won't be possible, I'm afraid". Nêu lý do ngắn gọn, không xin lỗi quá nhiều. Nếu đối phương nài thêm, nhắc lại nhẹ nhàng: "I'd rather not, if it's all the same to you". Có thể kết bằng "Please don't take it personally" để giữ quan hệ.
+keys: afraid i shall have to decline / flattered, but / isn't something we could take on / rather not / won't be possible / don't take it personally
+
+rupert: Margot, thank you for meeting me. I'll get straight to the point. | Margot, cảm ơn chị đã gặp tôi. Tôi sẽ vào thẳng vấn đề. [explain]
+margot: Please do. Your message was rather mysterious. | Xin cứ nói. Tin nhắn của anh khá bí ẩn. [thinking]
+rupert: I represent a young novelist. Very prolific, very commercial. Four books in three years. | Tôi đại diện cho một tiểu thuyết gia trẻ. Viết rất sung, rất ăn khách. Bốn cuốn trong ba năm. [explain]
+margot: Four in three years? That's remarkable. | Bốn cuốn trong ba năm ư? Thật đáng nể. [surprised]
+rupert: And we'd like Lionel Achterberg to write an introduction to the next one. A few pages, for a generous fee. | Và chúng tôi muốn Lionel Achterberg viết lời giới thiệu cho cuốn tiếp theo. Vài trang thôi, với khoản phí hậu hĩnh. [explain]
+margot: I'm flattered you thought of us, but I'm afraid I shall have to decline on his behalf. | Tôi rất vinh dự khi anh nghĩ đến chúng tôi, nhưng tôi e là phải thay mặt ông ấy từ chối. [nod]
+rupert: You haven't even read the book yet. It's really quite good. | Chị còn chưa đọc cuốn sách. Nó thực sự khá hay đấy. [confused ipa=read:rɛd]
+margot: It may well be. But Lionel isn't taking on unsolicited work at the moment. | Có thể lắm. Nhưng hiện giờ Lionel không nhận những việc không phải do ông ấy tự tìm đến. [explain]
+rupert: An eminent name on the cover would change everything for my client. | Một cái tên lỗi lạc trên bìa sẽ thay đổi mọi thứ cho khách hàng của tôi. [point]
+margot: I understand why it appeals to you. It isn't something we could take on, though. | Tôi hiểu vì sao điều đó hấp dẫn anh. Nhưng đó không phải việc chúng tôi có thể nhận. [explain]
+rupert: What if I doubled the fee? | Nếu tôi tăng gấp đôi khoản phí thì sao? [thinking]
+margot: That won't be possible, I'm afraid. It isn't a question of money. | Tôi e là không được. Đây không phải vấn đề tiền bạc. [shake]
+rupert: Then what is it a question of? | Vậy đó là vấn đề gì? [confused]
+margot: Lionel is working on a memoir. Every hour he has is going into that book. | Lionel đang viết một cuốn hồi ký. Mọi giờ ông ấy có đều dành cho cuốn sách đó. [explain]
+rupert: Could I at least send him the manuscript? He might change his mind. | Ít nhất tôi có thể gửi bản thảo cho ông ấy chứ? Biết đâu ông ấy đổi ý. [thinking]
+margot: I'd rather you didn't, if it's all the same to you. I'd only have to return it. | Tôi mong anh đừng làm vậy, nếu anh không phiền. Tôi sẽ chỉ phải gửi trả lại thôi. [nod]
+rupert: You're very protective of him. | Chị bảo vệ ông ấy ghê thật. [shrug]
+margot: I am. His name took fifty years to build. I won't lend it to anyone's first draft. | Đúng vậy. Tên tuổi ông ấy mất năm mươi năm mới gây dựng được. Tôi sẽ không cho mượn nó cho bản nháp đầu tiên của bất kỳ ai. [explain]
+rupert: Are you suggesting my client's work is mediocrity? | Chị đang ám chỉ tác phẩm của khách hàng tôi là tầm thường ư? [angry]
+margot: Not at all. Please don't take it personally. I'd say the same to the best writer in the country. | Hoàn toàn không. Xin đừng coi đây là chuyện cá nhân. Tôi sẽ nói y như vậy với nhà văn giỏi nhất nước. [explain]
+rupert: Well, I suppose I have to respect that. | Thôi được, tôi đoán là mình phải tôn trọng điều đó. [sad]
+margot: If your client's book is good, it won't need a famous introduction. Posterity is rather fair about these things. | Nếu cuốn sách của khách hàng anh hay, nó sẽ chẳng cần một lời giới thiệu nổi tiếng. Hậu thế khá công bằng trong những chuyện này. [explain]
+rupert: That's small comfort for this year's sales figures. | Đó là niềm an ủi nhỏ nhoi cho doanh số năm nay. [shrug]
+margot: True. But send me the book in the spring, and I'll read it myself. That's the best I can offer. | Đúng vậy. Nhưng mùa xuân hãy gửi cuốn sách cho tôi, tôi sẽ tự đọc. Đó là điều tốt nhất tôi có thể đề nghị. [happy rupert:happy ipa=read:rid]
+gloss: commercial, introduction, draft

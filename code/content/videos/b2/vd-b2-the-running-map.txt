@@ -1,0 +1,33 @@
+=== vd-b2-the-running-map
+title: What If He Wasn't Just Friendly? | Lỡ ông ta không chỉ thân thiện thì sao?
+source: st-b2-the-running-map
+summary: Trước cổng trường, Noah và Mei cùng hình dung những tình huống có thể xảy ra khi bản đồ chạy bộ để lộ nhà cậu — luyện cách nêu giả định với What if, Suppose, Imagine.
+scene: campus-gate
+cast: noah name=Noah look=man x=520 voice=en-US-EricNeural pitch=+2Hz style.hair=short style.hairColor=#C8963E style.outfit=jacket style.top=#27AE60 style.topShade=#229954
+cast: mei name=Mei look=woman x=1160 voice=en-US-AvaNeural pitch=+4Hz style.hair=bob style.hairColor=#1A1A1A style.skin=#F1D3B3 style.skinShade=#DDBB98 style.outfit=cardigan style.top=#EC7063 style.topShade=#E74C3C
+names: Noah, Mei
+words: permission; evidence; article; profile; technical; exaggerate
+focus: Nêu giả định và tình huống giả tưởng: What if, Suppose, Imagine
+pattern: What if he was…? · Suppose someone wanted to… · Imagine if… · Supposing you…? · What would happen if…? · If the article made them…, it would…
+explain: "What if + quá khứ" để nêu một khả năng đáng lo: "What if he was planning something?" "Suppose/Supposing + mệnh đề" để dựng tình huống giả định: "Suppose someone wanted to break in…". "Imagine if…" để người nghe hình dung. Câu điều kiện loại 2 cho kết quả giả định: "If the article made them change the default, it would protect thousands of people."
+keys: what if / suppose / imagine if / supposing / what would happen if / if the article made
+
+noah: Mei, can I ask you something? That man at the gate is still bothering me. It was so creepy. | Mei, mình hỏi cậu chút được không? Người đàn ông ở cổng hôm trước vẫn làm mình bận tâm. Rợn người thật. [worried]
+mei: Of course. What's on your mind? | Tất nhiên. Cậu đang nghĩ gì? [thinking]
+noah: What if he wasn't just a friendly runner? What if he was planning something? | Lỡ ông ta không chỉ là một người chạy bộ thân thiện thì sao? Lỡ ông ta đang tính chuyện gì đó? [worried]
+mei: It's possible. Suppose someone wanted to break into your house. Your map would tell them precisely when you're out. | Có thể lắm. Giả sử có kẻ muốn đột nhập nhà cậu. Bản đồ của cậu sẽ cho hắn biết chính xác khi nào cậu vắng nhà. [explain ipa=house:=]
+noah: That's a horrible thought. Imagine if my housemates had been at home alone. | Nghĩ mà sợ. Thử tưởng tượng nếu lúc đó bạn cùng nhà mình ở nhà một mình. [sad]
+mei: Exactly. And supposing you ran at night, alone, on a quiet path? Anyone could wait for you there. | Chính xác. Và giả sử cậu chạy ban đêm, một mình, trên một con đường vắng thì sao? Ai cũng có thể chờ cậu ở đó. [explain]
+noah: I never thought about it like that. I just wanted to see my statistics. | Mình chưa bao giờ nghĩ theo cách đó. Mình chỉ muốn xem số liệu của mình thôi. [shy]
+mei: Most people don't think about it. That's the whole problem. | Hầu hết mọi người không nghĩ đến. Vấn đề chính là ở đó. [nod]
+noah: So what would happen if everyone's routes were public? | Vậy chuyện gì sẽ xảy ra nếu tuyến đường của mọi người đều công khai? [thinking]
+mei: For millions of users, they already are. Nobody reads the default settings, so their data is visible to anyone. | Với hàng triệu người dùng, chúng đã công khai rồi. Chẳng ai đọc cài đặt mặc định, nên dữ liệu của họ ai cũng xem được. [shrug]
+noah: Suppose I wrote an article about it for the student newspaper. Would anyone care? | Giả sử mình viết một bài về chuyện này cho báo sinh viên. Liệu có ai quan tâm không? [thinking]
+mei: I think they would. Imagine how many students have the same settings as you. | Mình nghĩ là có. Thử nghĩ xem bao nhiêu sinh viên có cài đặt giống cậu. [happy]
+noah: What if the company gets angry and says I'm exaggerating? | Lỡ công ty nổi giận và bảo mình phóng đại thì sao? [worried]
+mei: Then you show them the evidence. We could check a few volunteers' profiles, with their permission. | Thì cậu đưa bằng chứng ra. Tụi mình có thể xem trang cá nhân của vài tình nguyện viên, nếu họ cho phép. [explain]
+noah: Great idea. If the article made them change the default, it would protect thousands of people. | Ý hay đấy. Nếu bài báo khiến họ thay đổi chế độ mặc định, nó sẽ bảo vệ hàng nghìn người. [happy]
+mei: And even if it doesn't, your readers will probably change their own settings. | Và kể cả không được, độc giả của cậu chắc cũng sẽ tự đổi cài đặt của họ. [nod]
+noah: Right. I'm going to start writing tonight. Will you help me with the technical part? | Được rồi. Tối nay mình sẽ bắt đầu viết. Cậu giúp mình phần kỹ thuật nhé? [happy]
+mei: Only if you promise never to post your front door online again! | Chỉ khi cậu hứa không bao giờ đăng cửa nhà mình lên mạng nữa! [happy noah:happy]
+gloss: settings, default

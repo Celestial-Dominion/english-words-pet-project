@@ -1,0 +1,33 @@
+=== vd-b2-stranded
+title: I'd Like to Make a Complaint | Tôi muốn khiếu nại
+source: st-b2-stranded
+summary: Tại quầy của hãng bay trong nhà ga nhỏ ở Iceland, Helen khiếu nại gay gắt còn Ingrid giữ bình tĩnh, xin lỗi đúng mực và đưa ra phương án cụ thể.
+scene: airport
+cast: helen name=Helen look=woman x=520 voice=en-US-MichelleNeural pitch=-2Hz rate=+4% style.hair=bob style.hairColor=#4A3426 style.outfit=suit style.top=#1C2833 style.topShade=#17202A
+cast: ingrid name=Ingrid look=woman x=1160 voice=en-US-AnaNeural pitch=-6Hz style.hair=bun style.hairColor=#E8D5A3 style.outfit=uniform style.top=#2471A3 style.topShade=#1F618D
+names: Helen, Ingrid, Boston, Reykjavik
+words: complaint; inconvenience; accommodation; compensation; frustration; acceptable
+focus: Khiếu nại trang trọng và đáp lại khiếu nại một cách chuyên nghiệp
+pattern: I'd like to make a complaint · I'm afraid that's not acceptable · I do apologize for the inconvenience · I completely understand your frustration · What we can offer is… · Would that be acceptable?
+explain: Khách khiếu nại lịch sự nhưng cứng rắn: "I'd like to make a complaint.", "I'm afraid that's simply not acceptable.", "I'd like it in writing, please." Nhân viên thừa nhận cảm xúc và xin lỗi: "I completely understand your frustration.", "I do apologize for the inconvenience." Rồi đưa giải pháp cụ thể: "What we can offer is…", "Would that be acceptable?".
+keys: i'd like to make a complaint / not acceptable / i do apologize / i completely understand your frustration / what we can offer / would that be acceptable
+
+helen: Excuse me. I'd like to make a complaint, please. | Xin lỗi. Tôi muốn khiếu nại. [angry ipa=excuse:ɪkˈskjuz]
+ingrid: Of course. I'm Ingrid, and I'll do my best to help. What seems to be the problem? | Vâng. Tôi là Ingrid, tôi sẽ cố hết sức giúp chị. Chị gặp vấn đề gì ạ? [nod]
+helen: We landed three hours ago, and nobody has told us anything. I'm afraid that's simply not acceptable. | Chúng tôi hạ cánh ba tiếng rồi, và chẳng ai thông báo gì. E rằng như vậy đơn giản là không thể chấp nhận. [angry]
+ingrid: You're absolutely right, and I do apologize for the inconvenience. We've only just received the engineers' report. | Chị hoàn toàn đúng, và tôi thành thật xin lỗi vì sự bất tiện. Chúng tôi vừa mới nhận được báo cáo của các kỹ sư. [sad]
+helen: And what does it say? | Thế báo cáo nói gì? [thinking]
+ingrid: There's a technical fault. A replacement part is coming from Reykjavik, but it won't arrive until tomorrow afternoon. | Máy bay bị một lỗi kỹ thuật. Linh kiện thay thế đang được chở từ Reykjavik, nhưng phải đến chiều mai mới tới. [explain]
+helen: Tomorrow afternoon? I have an important meeting in Boston at nine tomorrow morning! | Chiều mai ư? Sáng mai chín giờ tôi có một cuộc họp quan trọng ở Boston! [surprised]
+ingrid: I completely understand your frustration. Unfortunately, there are no other flights from here tonight. | Tôi hoàn toàn hiểu sự bực bội của chị. Tiếc là tối nay không còn chuyến bay nào khác từ đây. [sad]
+helen: Then what exactly do you intend to do for us? | Vậy chính xác thì các cô định làm gì cho chúng tôi? [angry]
+ingrid: What we can offer is free accommodation tonight, meal vouchers and a phone to contact your family or employer. | Chúng tôi có thể lo chỗ ở miễn phí tối nay, phiếu ăn và điện thoại để chị liên lạc với gia đình hoặc nơi làm việc. [explain]
+helen: Accommodation where? I've been told the only hotel is full. | Chỗ ở ở đâu? Tôi nghe nói khách sạn duy nhất đã kín phòng. [thinking]
+ingrid: That's true. But local families have kindly offered rooms in their homes. Would that be acceptable? | Đúng vậy ạ. Nhưng các gia đình địa phương đã tốt bụng nhường phòng trong nhà họ. Như vậy chị có chấp nhận được không? [explain]
+helen: In a stranger's house? Well, I don't suppose I have much choice. | Ở nhà một người lạ ư? Chà, tôi đoán là mình cũng chẳng có nhiều lựa chọn. [shrug ipa=house:=]
+helen: And what about compensation? A twenty-six-hour delay is a serious matter. | Còn tiền bồi thường thì sao? Trễ hai mươi sáu tiếng là chuyện nghiêm trọng đấy. [thinking]
+ingrid: You may be entitled to compensation under the regulations. Here's a form you can send to our customer service team. | Chị có thể được bồi thường theo quy định. Đây là mẫu đơn chị có thể gửi cho bộ phận chăm sóc khách hàng của chúng tôi. [explain]
+helen: I'd like all of this in writing, please. | Làm ơn ghi tất cả những điều này bằng văn bản cho tôi. [explain]
+ingrid: Of course. I'll email you a written summary within the hour. Is there anything else I can help with? | Tất nhiên ạ. Trong vòng một tiếng tôi sẽ gửi email tóm tắt bằng văn bản cho chị. Tôi còn giúp gì được cho chị nữa không? [nod]
+helen: No, thank you. And I'm sorry, Ingrid. None of this is your fault. | Không, cảm ơn cô. Và xin lỗi cô, Ingrid. Chuyện này đâu phải lỗi của cô. [shy ingrid:happy]
+gloss: vouchers, regulations

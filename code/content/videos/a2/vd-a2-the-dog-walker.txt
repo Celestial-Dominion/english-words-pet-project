@@ -1,0 +1,31 @@
+=== vd-a2-the-dog-walker
+title: How Often Does He Go Out? | Nó ra ngoài bao lâu một lần?
+source: st-a2-the-dog-walker
+summary: Buổi gặp đầu tiên: Mia hỏi bà Kowalski về thói quen hằng ngày của chú chó Biscuit trước khi nhận việc.
+scene: home-day
+prop: puppy x=820
+cast: mia name=Mia look=teengirl x=500 voice=en-US-AnaNeural rate=+2% style.hair=ponytail style.hairColor=#5A3825 style.outfit=tee style.top=#F28C38 style.topShade=#D97826
+cast: kowalski name="Mrs. Kowalski" vi="Bà Kowalski" look=grandma x=1150 voice=en-US-MichelleNeural pitch=-4Hz rate=-6% style.outfit=cardigan style.top=#8E6FB5 style.topShade=#77599C
+names: Biscuit, Kowalski, Mia
+gloss: biscuits, mailbox
+words: often; twice; usually; hardly; afraid; walk
+focus: Nói về tần suất và thói quen
+pattern: How often …? · twice a day · every morning · usually · hardly ever · once a week
+explain: Hỏi tần suất: "How often does he…?". Trả lời bằng cụm chỉ số lần: "once/twice/three times a day/week". Trạng từ tần suất đứng trước động từ thường: "He usually sleeps…", "He hardly ever runs" (hầu như không bao giờ), nhưng đứng sau "be": "He is never hungry".
+keys: how often / twice a day / every / usually / hardly ever / once a week
+
+kowalski: I saw your advertisement in my mailbox. This is Biscuit. | Bà thấy tờ quảng cáo của cháu trong hộp thư. Đây là Biscuit. [happy @puppy]
+mia: Hello, Biscuit! Oh, he's so sweet. | Chào Biscuit! Ôi, nó dễ thương quá. [happy wave]
+mia: How often does he go out? | Nó ra ngoài bao lâu một lần ạ? [thinking]
+kowalski: Twice a day. At eight in the morning and at five. | Hai lần một ngày. Lúc tám giờ sáng và lúc năm giờ. [explain]
+mia: And how long is each walk? | Còn mỗi lần đi dạo bao lâu ạ? [thinking]
+kowalski: Usually about half an hour. He's quite slow. | Thường khoảng nửa tiếng. Nó chậm lắm. [explain]
+mia: Does he ever run? | Nó có bao giờ chạy không ạ? [thinking]
+kowalski: Hardly ever. Only when he sees a cat. | Hầu như không bao giờ. Chỉ khi thấy mèo thôi. [thinking]
+mia: Does he like cats? | Nó thích mèo ạ? [surprised]
+kowalski: No! He's afraid of them. He runs away. | Không! Nó sợ mèo. Nó bỏ chạy đấy. [happy]
+mia: Oh dear. How often does he eat? | Ôi trời. Nó ăn bao lâu một lần ạ? [worried]
+kowalski: Every morning and every evening. And he gets one biscuit on Sundays. | Mỗi sáng và mỗi tối. Chủ nhật được thêm một cái bánh quy. [explain]
+mia: Only once a week? Poor Biscuit! | Chỉ một lần một tuần thôi ạ? Tội nghiệp Biscuit! [sad]
+kowalski: He's a big boy. He needs to be careful. | Nó to xác lắm rồi. Nó cần phải cẩn thận. [happy]
+mia: Don't worry. I'll put all his walks in my calendar. | Bà đừng lo. Cháu sẽ ghi hết lịch đi dạo của nó vào lịch của cháu. [happy kowalski:happy]

@@ -1,0 +1,34 @@
+=== vd-a2-the-lost-suitcase
+title: My Suitcase Is Missing | Vali của tôi bị thất lạc
+source: st-a2-the-lost-suitcase
+summary: Băng chuyền đã trống trơn; Rana đến quầy hành lý thất lạc và phải tả thật rõ chiếc vali đựng chiếc váy cưới.
+scene: service-hall
+prop: passport x=800
+cast: rana name=Rana look=woman x=520 voice=en-US-AvaNeural style.hair=long style.hairColor=#1F1A1C style.skin=#C98E68 style.skinShade=#B07650 style.top=#E07B5F style.topShade=#C8654B
+cast: pedro name=Pedro look=man x=1120 voice=en-US-AndrewNeural style.hair=fringe style.hairColor=#3A2A22 style.outfit=shirt style.top=#3F7FCB style.topShade=#2F66AA style.collar=#FFFFFF
+names: Paris, Lisbon, Pedro
+gloss: luggage, label
+words: missing; describe; handle; wedding; flight; delay
+focus: Báo mất đồ và mô tả đồ vật
+pattern: My … is missing. · I've lost… · It's large and green, with… · When did you…? · We'll call you as soon as…
+explain: Báo sự việc vừa xảy ra còn ảnh hưởng tới bây giờ dùng hiện tại hoàn thành: "I've lost my suitcase." Mô tả đồ vật theo thứ tự: cỡ → màu → chi tiết với "with": "It's large and green, with a black handle."
+keys: is missing / i've lost / with a / as soon as / can you describe
+
+pedro: Good afternoon. How can I help you? | Chào chị. Tôi giúp gì được cho chị? [happy]
+rana: Hi. My suitcase is missing. It wasn't on the belt. | Chào anh. Vali của tôi bị mất. Nó không có trên băng chuyền. [worried]
+pedro: I'm sorry to hear that. Which flight were you on? | Tôi rất tiếc. Chị đi chuyến bay nào ạ? [neutral]
+rana: The flight from Paris. It arrived an hour ago. | Chuyến từ Paris. Nó đến cách đây một tiếng. [explain]
+pedro: Did you change planes in Paris? | Chị có đổi máy bay ở Paris không? [thinking]
+rana: Yes. There was a delay, and I almost missed my second flight. | Có. Chuyến bay bị hoãn, và tôi suýt lỡ chuyến thứ hai. [tired]
+pedro: That's probably the reason. Bags sometimes stay behind. | Có lẽ đó là lý do. Đôi khi hành lý bị kẹt lại. [explain]
+rana: But I've lost something really important. | Nhưng tôi đã làm mất một thứ thật sự quan trọng. [tearful]
+pedro: Don't worry. Can you describe your suitcase? | Chị đừng lo. Chị tả lại chiếc vali được không? [neutral]
+rana: It's large and green, with a black handle and four wheels. | Nó to, màu xanh lá, có tay cầm đen và bốn bánh xe. [explain]
+pedro: Large, green, black handle… Is there a label? | To, màu xanh, tay cầm đen… Có nhãn không ạ? [thinking]
+rana: Yes, a red label with my name on it. Rana Costa. | Có, một cái nhãn đỏ có tên tôi. Rana Costa. [nod]
+pedro: What's inside? Anything expensive? | Bên trong có gì? Có gì đắt tiền không ạ? [thinking]
+rana: A wedding dress. My cousin's wedding is on Saturday! | Một chiếc váy cưới. Thứ Bảy này là đám cưới của chị họ tôi! [worried ~calendar:SAT]
+pedro: OK. Here's your form and your number. | Được rồi. Đây là tờ đơn và mã số của chị. [explain @passport]
+pedro: We'll call you as soon as we find it. | Chúng tôi sẽ gọi cho chị ngay khi tìm thấy. [happy]
+rana: Thank you. Please find it before Saturday! | Cảm ơn anh. Làm ơn tìm thấy nó trước thứ Bảy nhé! [worried pedro:happy]
+names: Costa

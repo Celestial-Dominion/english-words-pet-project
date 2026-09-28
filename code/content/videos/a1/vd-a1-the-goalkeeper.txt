@@ -1,0 +1,31 @@
+=== vd-a1-the-goalkeeper
+title: You Can Do It! | Cậu làm được mà!
+source: st-a1-the-goalkeeper
+summary: Giờ nghỉ giữa hiệp, Sophie ngồi buồn vì để lọt lưới; Amara và thầy Ray động viên cô bé trước khi vào sân lại.
+scene: park
+prop: soccer-ball x=880 y=730
+cast: sophie name=Sophie look=girl x=640 voice=en-US-AnaNeural style.hair=ponytail style.hairColor=#C9923C style.outfit=uniform style.top=#5DBB63 style.topShade=#4AA350 style.collar=#FFFFFF
+cast: amara name=Amara look=girl x=320 voice=en-US-AnaNeural pitch=-7Hz rate=-5% from=1 style.hair=curly style.hairColor=#1F1A1C style.skin=#7A4A2E style.skinShade=#643A22 style.outfit=uniform style.top=#5DBB63 style.topShade=#4AA350 style.collar=#FFFFFF
+cast: ray name="Coach Ray" vi="Thầy Ray" look=man x=1170 voice=en-US-ChristopherNeural from=6 style.outfit=jacket style.top=#2F3A4A style.topShade=#1F2733 style.hat=cap
+names: Ray
+gloss: goalkeeper
+words: worry; kick; afraid; goal; forget
+focus: Động viên người khác
+pattern: Don't worry! · You can do it! · We need you. · Good luck!
+explain: Khi ai đó buồn hay lo, dùng câu ngắn và dứt khoát: "Don't worry!", "You can do it!". "Good luck!" là chúc may mắn trước khi làm việc khó. Người được động viên đáp "Thanks!".
+keys: don't worry / you can do it / good luck / we need you
+
+sophie: I'm so sorry. It was my goal. | Tớ xin lỗi. Bàn thua đó là tại tớ. [sad]
+amara: Sophie! Don't worry. | Sophie! Đừng lo. [worried]
+sophie: But the ball was between my hands! | Nhưng quả bóng đã ở giữa hai tay tớ rồi mà! [tearful]
+amara: It was a very hard kick. | Đó là một cú sút rất mạnh. [explain]
+sophie: The tall boy is very good. | Cậu bé cao lớn đó giỏi lắm. [sad]
+amara: And you are very good, too. We need you! | Và cậu cũng rất giỏi mà. Cả đội cần cậu! [happy]
+ray: Amara is right, Sophie. | Amara nói đúng đấy, Sophie. [nod]
+sophie: Coach, I'm afraid. | Thầy ơi, em sợ lắm. [worried]
+ray: That's OK. Forget the goal. | Không sao. Quên bàn thua đi. [explain]
+ray: Watch the ball, not the boy. | Nhìn bóng thôi, đừng nhìn cậu bé đó. [explain]
+sophie: Watch the ball… not the boy. | Nhìn bóng… đừng nhìn cậu bé. [thinking]
+amara: Yes! You can do it, Sophie! | Đúng rồi! Cậu làm được mà, Sophie! [happy cheer]
+ray: Now go. Good luck! | Giờ ra sân đi. Chúc may mắn! [happy wave]
+sophie: Thanks. I can do it! | Em cảm ơn. Em làm được! [happy cheer amara:happy]

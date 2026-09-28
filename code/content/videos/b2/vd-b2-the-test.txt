@@ -1,0 +1,33 @@
+=== vd-b2-the-test
+title: That Must Have Been a Shock | Hẳn đó là một cú sốc
+source: st-b2-the-test
+summary: Bên bờ sông, Beth kể cho bạn thân Carla về người chị cùng cha khác mẹ vừa phát hiện; Carla lắng nghe và đáp lời đầy cảm thông.
+scene: riverside
+cast: carla name=Carla look=woman x=520 voice=en-US-JennyNeural style.hair=ponytail style.hairColor=#5A3825 style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=jacket style.top=#16A085 style.topShade=#138D75
+cast: beth name=Beth look=woman x=1160 voice=en-US-EmmaNeural pitch=-2Hz style.hair=long style.hairColor=#B5652E style.outfit=coat style.top=#7D3C98 style.topShade=#6C3483
+names: Carla, Beth, Tom
+words: shock; upset; mixture; nervous; natural; cope
+focus: Đáp lời đầy cảm thông khi nghe tin bất ngờ
+pattern: That must have been a huge shock · I can't imagine how you felt · No wonder you… · It sounds as if… · That's completely understandable · How are you feeling about…?
+explain: Suy đoán cảm xúc của người kia bằng "must have been": "That must have been a huge shock." Thừa nhận cảm xúc: "It sounds as if you're angry with him. That's completely understandable." "No wonder + mệnh đề" = chẳng trách: "No wonder you sounded upset." Mời người kia nói tiếp: "How are you feeling about that?" và trấn an: "Take your time."
+keys: that must have been / i can't imagine / no wonder / it sounds as if / completely understandable / how are you feeling about
+
+carla: Beth, you sounded so strange on the phone. What's going on? | Beth, trên điện thoại giọng cậu lạ lắm. Có chuyện gì vậy? [worried]
+beth: You won't believe this. That DNA test Tom gave me for my birthday? I've got a half-sister. | Cậu không tin nổi đâu. Cái bộ xét nghiệm ADN Tom tặng mình hôm sinh nhật ấy? Mình có một người chị cùng cha khác mẹ. [surprised]
+carla: What? You're joking! That must have been a huge shock. | Hả? Cậu đùa à! Hẳn đó là một cú sốc lớn lắm. [surprised]
+beth: It was. I stared at the screen for ten minutes. I honestly thought it was a mistake. | Đúng vậy. Mình nhìn chằm chằm vào màn hình suốt mười phút. Thật lòng mình tưởng là nhầm. [confused]
+carla: I can't imagine how you felt. So it's definitely true? | Mình không tưởng tượng nổi cậu đã cảm thấy thế nào. Vậy là chắc chắn thật à? [thinking]
+beth: We share a quarter of our DNA, so she's my father's biological daughter. There's no other explanation. | Bọn mình có chung một phần tư ADN, nên chị ấy là con ruột của bố mình. Không còn cách giải thích nào khác. [sad]
+carla: Oh, Beth. No wonder you sounded upset. Did your dad ever mention her? | Ôi, Beth. Chẳng trách giọng cậu buồn thế. Bố cậu có bao giờ nhắc đến chị ấy không? [sad]
+beth: Never. Not once in thirty-three years. That's the part I can't get over. | Chưa bao giờ. Không một lần nào trong ba mươi ba năm. Đó là điều mình không sao vượt qua được. [angry]
+carla: It sounds as if you're angry with him. That's completely understandable. | Nghe như cậu đang giận bố. Điều đó hoàn toàn dễ hiểu. [nod]
+beth: It's a mixture of everything: anger, sadness, confusion. And I can't even ask him why. | Đủ thứ cảm xúc lẫn lộn: giận, buồn, bối rối. Mà mình còn chẳng thể hỏi bố vì sao. [tearful]
+carla: That must be the hardest thing to cope with. Have you been in touch with her? | Chắc đó là điều khó đối diện nhất. Cậu đã liên lạc với chị ấy chưa? [sad]
+beth: We're meeting on Saturday, at a café halfway between our two cities. | Bọn mình sẽ gặp nhau thứ Bảy này, ở một quán cà phê nằm giữa hai thành phố. [thinking]
+carla: And how are you feeling about that? | Thế cậu cảm thấy thế nào về chuyện đó? [thinking]
+beth: Terrified. What if we have nothing in common? What if she doesn't like me? | Sợ chết khiếp. Lỡ bọn mình chẳng có gì chung thì sao? Lỡ chị ấy không thích mình thì sao? [worried]
+carla: That's a perfectly natural fear. But she agreed to meet you, didn't she? | Nỗi sợ đó hoàn toàn tự nhiên. Nhưng chị ấy đã đồng ý gặp cậu, đúng không? [explain]
+beth: Actually, she said she'd been waiting twenty years for my message. | Thật ra, chị ấy nói đã chờ tin nhắn của mình suốt hai mươi năm. [surprised]
+carla: Then I'd say she's as nervous as you are. Take your time, and just be yourself. | Vậy mình đoán chị ấy cũng hồi hộp y như cậu. Cứ từ từ, và cứ là chính mình thôi. [happy]
+beth: Thanks, Carla. I'm so glad I told you. I feel a bit lighter already. | Cảm ơn Carla. Mình mừng vì đã kể với cậu. Mình thấy nhẹ lòng hơn rồi. [happy carla:happy]
+gloss: half-sister

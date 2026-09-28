@@ -1,0 +1,37 @@
+=== vd-c2-the-interpreter
+title: Strictly Speaking | Nói cho thật chính xác
+source: st-c2-the-interpreter
+summary: Giữa buổi phỏng vấn, Amira nêu một vấn đề phiên dịch với cán bộ Dunmore mà vẫn giữ trung lập — gọi tên sự mơ hồ của chữ "anh trai", tách sự việc khỏi ý kiến, và nói rõ giới hạn vai trò của mình.
+scene: office
+cast: dunmore name=Mr Dunmore look=dad x=300 voice=en-US-EricNeural pitch=-3Hz rate=-2% style.hair=part style.hairColor=#6D4C41 style.outfit=tie style.top=#566573 style.topShade=#4D5656 style.glasses=square
+cast: amira name=Amira look=woman x=800 voice=en-US-AvaNeural pitch=-2Hz rate=-3% style.hair=long style.hairColor=#1A1A1A style.skin=#A0673A style.skinShade=#8A5530 style.outfit=blouse style.top=#154360 style.topShade=#123A52
+cast: karim name=Karim look=man x=1300 voice=en-US-AndrewNeural pitch=-1Hz rate=-5% style.hair=short style.hairColor=#1A1A1A style.skin=#A0673A style.skinShade=#8A5530 style.outfit=jacket style.top=#626567 style.topShade=#515A5A
+names: Dunmore, Amira, Karim, Samir, Homs
+words: verbatim; colloquial; semantic; discrepancy; intermediary; unequivocal
+focus: Nêu một vấn đề nhạy cảm bằng lời lẽ chính xác và trung lập: gọi tên sự mơ hồ, tách sự việc khỏi ý kiến, nói rõ giới hạn vai trò
+pattern: I'd like to flag something, if I may. · Strictly speaking, … · The word can mean either… or… · To avoid any ambiguity, … · I'm not in a position to…, but I can… · Just to be unequivocal, …
+explain: Khi phải nêu một vấn đề mà vẫn giữ trung lập, xin phép trước: "I'd like to flag something, if I may." Gọi tên sự mơ hồ thật cụ thể: "The word can mean either… or…", và nói cho chính xác: "Strictly speaking, …", "To avoid any ambiguity, …". Nói rõ giới hạn vai trò để không bị hiểu là đứng về một phía: "I'm not in a position to…, but I can…", "Just to be unequivocal, I'm not…".
+keys: flag something / strictly speaking / can mean either / avoid any ambiguity / not in a position to / to be unequivocal
+
+dunmore: Ms Haddad, before we continue, you said there might be an issue with the earlier transcript? | Cô Haddad, trước khi chúng ta tiếp tục, cô nói có thể có vấn đề với biên bản trước? [thinking]
+amira: Possibly. I'd like to flag something, if I may. I can't comment on the case, but I'm obliged to point out problems of interpretation. | Có thể có. Tôi xin phép nêu một điều. Tôi không được bình luận về vụ việc, nhưng tôi có nghĩa vụ chỉ ra những vấn đề phiên dịch. [explain]
+dunmore: Go on. Let me check I've got this right. You think the word "brother" may be a translation problem? | Cô cứ nói. Để tôi kiểm tra xem tôi hiểu có đúng không. Cô nghĩ chữ "anh trai" có thể là một vấn đề dịch thuật? [thinking]
+amira: Strictly speaking, yes. In colloquial Arabic from Homs, the word can mean either a brother or a close cousin. It's a semantic ambiguity, not necessarily a factual one. | Nói cho chính xác thì đúng vậy. Trong tiếng Ả Rập khẩu ngữ ở Homs, từ ấy có thể là anh trai hoặc một người anh họ thân thiết. Đó là sự mơ hồ về ngữ nghĩa, không nhất thiết là về sự kiện. [explain ipa=close:kloʊs]
+dunmore: So what you mean is that the discrepancy could come from the first interpreter, not from him. | Vậy ý cô là sự chênh lệch có thể đến từ người phiên dịch đầu tiên, chứ không phải từ anh ta. [thinking]
+amira: It could. I'm not saying it does. To avoid any ambiguity, I'd suggest asking the question without using the word at all. | Có thể. Tôi không nói là đúng như vậy. Để tránh mọi sự mơ hồ, tôi đề nghị đặt câu hỏi mà không dùng đến từ đó. [nod]
+dunmore: Fair enough. Mr Nasser, could you tell me the name of the man arrested with you? | Được thôi. Anh Nasser, anh có thể cho tôi biết tên người đàn ông bị bắt cùng anh không? [explain]
+karim: His name is Samir. Samir Nasser. | Anh ấy tên là Samir. Samir Nasser. [nod]
+dunmore: And when you say he's your brother, do you mean you have the same parents, or something else? | Và khi anh nói anh ấy là anh trai anh, ý anh là hai người cùng cha mẹ, hay điều gì khác? [thinking]
+karim: Not the same parents. His father is my father's brother. We grew up in one house. | Không cùng cha mẹ. Bố anh ấy là em trai của bố tôi. Chúng tôi lớn lên trong cùng một nhà. [explain ipa=house:=]
+amira: If I've understood you correctly, he's your cousin by blood, but you've always called him your brother. | Nếu tôi hiểu đúng ý anh, anh ấy là anh họ về huyết thống, nhưng anh luôn gọi anh ấy là anh trai. [explain]
+karim: Yes. Exactly. In my family, there is no difference. | Vâng. Chính xác. Trong gia đình tôi, không có gì khác nhau cả. [happy]
+dunmore: To put it another way, both of your statements could be true at the same time. | Nói cách khác, cả hai lời khai của anh có thể cùng đúng một lúc. [thinking]
+karim: Both are true. I did not lie. I did not know the English word mattered so much. | Cả hai đều đúng. Tôi không nói dối. Tôi không biết chữ tiếng Anh lại quan trọng đến thế. [sad]
+dunmore: Could you clarify one more thing? Did the first interpreter translate everything verbatim, as far as you know? | Anh có thể làm rõ thêm một điều không? Theo những gì anh biết, người phiên dịch đầu tiên có dịch nguyên văn mọi thứ không? [thinking]
+karim: He was very fast. Sometimes he spoke for longer than I did, sometimes shorter. | Anh ta nói rất nhanh. Có lúc anh ta nói dài hơn tôi, có lúc ngắn hơn. [confused]
+amira: I should be careful here. I'm only an intermediary. I'm not in a position to assess another interpreter's work, but I can note the risk. | Tôi phải cẩn thận ở điểm này. Tôi chỉ là người trung gian. Tôi không có tư cách đánh giá công việc của một phiên dịch viên khác, nhưng tôi có thể ghi nhận rủi ro. [explain]
+dunmore: Understood. I'll note that the applicant clarified the relationship and that the interpreter flagged the term. | Tôi hiểu. Tôi sẽ ghi lại rằng người nộp đơn đã làm rõ mối quan hệ và phiên dịch viên đã báo hiệu thuật ngữ đó. [nod]
+amira: Thank you. And just to be unequivocal, I'm not offering a view on his credibility. | Cảm ơn ông. Và để hoàn toàn rõ ràng, tôi không đưa ra quan điểm nào về độ tin cậy của anh ấy. [explain]
+dunmore: I know. That's exactly why your comment is useful. | Tôi biết. Chính vì thế nhận xét của cô mới có ích. [happy]
+karim: May I say something? Thank you for asking me properly. | Tôi có thể nói một điều không? Cảm ơn vì đã hỏi tôi cho đúng cách. [sad dunmore:neutral amira:neutral]
+gloss: transcript, obliged, flag, interpretation, cousin, ambiguity, factual, interpreter, arrested, applicant, clarified, assess

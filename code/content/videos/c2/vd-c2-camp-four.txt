@@ -1,0 +1,41 @@
+=== vd-c2-camp-four
+title: A Bit of a Setback | Một chút trục trặc
+source: st-c2-camp-four
+summary: Đêm ở trại chính sau khi bỏ dở lên đỉnh, Pemba dạy Josh "giải mã" lối nói giảm nhẹ kiểu Anh của Hugh — và Hugh tự mình minh hoạ.
+scene: mountain-night
+cast: hugh name=Hugh look=grandpa x=300 voice=en-US-ChristopherNeural pitch=-5Hz rate=-4% style.hair=grandpa style.hairColor=#D5D5D5 style.outfit=coat style.top=#922B21 style.topShade=#7B241C style.hat=helmet
+cast: josh name=Josh look=teenboy x=800 voice=en-US-AndrewNeural pitch=+2Hz rate=+4% style.hair=short style.hairColor=#C9A227 style.outfit=jacket style.top=#1F618D style.topShade=#1A5276
+cast: pemba name=Pemba look=man x=1300 voice=en-US-BrianNeural pitch=-3Hz style.hair=short style.hairColor=#1A1A1A style.skin=#A0673A style.skinShade=#8A5530 style.outfit=coat style.top=#F39C12 style.topShade=#D68910
+names: Hugh, Josh, Pemba, Ines
+words: understatement; ferocity; precarious; lassitude; nonchalant; arduous
+focus: Hiểu và dùng lối nói giảm nhẹ, mỉa mai kiểu Anh — nghĩa thật thường nặng hơn lời nói
+pattern: It's a bit… · not ideal · I'm not entirely thrilled about… · could be worse · slightly concerning · That's one way of putting it.
+explain: Người Anh hay nói giảm để giữ bình tĩnh: "a bit breezy" = gió rất mạnh, "not ideal" = tệ, "slightly concerning" = đáng lo nghiêm trọng, "I'm not entirely thrilled" = tôi không vui chút nào. "Could be worse" có khi là lời an ủi, có khi là mỉa mai. Khi người khác nói giảm, có thể đáp "That's one way of putting it" (Nói thế cũng được) để cho thấy bạn đã hiểu.
+keys: a bit / not ideal / not entirely thrilled / could be worse / slightly concerning / one way of putting it
+
+josh: I still can't believe it. Two hundred metres from the top, and we turned round. | Em vẫn không tin nổi. Cách đỉnh hai trăm mét, và chúng ta quay lại. [sad]
+hugh: Not ideal, I'll admit. But the fingers are all present and correct, I gather. | Không lý tưởng lắm, tôi thừa nhận. Nhưng tôi nghe nói các ngón tay vẫn đủ cả. [nod ipa=present:ˈprɛzənt]
+josh: They are. Ines says another hour up there and I'd have lost two of them. | Vâng. Ines bảo ở trên đó thêm một giờ nữa là em mất hai ngón rồi. [worried]
+pemba: That is what Hugh meant, you know. When he said it would be a bit of a shame. | Đó chính là ý của Hugh đấy. Khi ông ấy nói sẽ hơi đáng tiếc. [explain]
+josh: I thought he was joking! He sounded completely relaxed. | Em cứ tưởng ông ấy đùa! Giọng ông ấy nghe hoàn toàn thoải mái. [surprised]
+pemba: That is the trick. The nonchalant voice is a costume. Underneath, he is counting everything. | Mẹo là ở đó. Giọng thản nhiên ấy chỉ là bộ đồ hoá trang. Bên dưới, ông ấy đang tính toán mọi thứ. [explain]
+hugh: A costume? I'm not entirely thrilled with that description, Pemba. | Bộ đồ hoá trang ư? Tôi không hẳn là thích lối mô tả đó đâu, Pemba. [thinking]
+pemba: You see? Not entirely thrilled. That means he is slightly offended. | Cậu thấy chưa? "Không hẳn là thích." Nghĩa là ông ấy hơi phật ý. [happy]
+josh: Okay, teach me. What did "a bit breezy" mean this morning? | Được rồi, dạy em đi. Sáng nay "hơi có gió" nghĩa là gì? [thinking]
+pemba: It meant a wind of terrible ferocity. The kind that throws people off ridges. | Nghĩa là một cơn gió dữ dội khủng khiếp. Loại gió hất người ta khỏi sống núi. [explain ipa=wind:wɪnd]
+hugh: That's one way of putting it. I'd have called it a stiff breeze. | Nói thế cũng được. Tôi thì sẽ gọi nó là một cơn gió hơi mạnh. [shrug]
+josh: And when you said our position was slightly concerning? | Còn khi ông nói vị trí của chúng ta hơi đáng lo? [thinking]
+hugh: I meant it was precarious in the extreme. One slip and we'd all have gone. | Ý tôi là nó chênh vênh đến cùng cực. Trượt một bước là tất cả chúng ta đi đời. [explain]
+josh: Why not just say that? It would have saved a lot of confusion. | Sao ông không nói thẳng ra? Như thế đỡ bao nhiêu hiểu lầm. [confused]
+hugh: Because if I shout "we're all going to die", you panic. If I say it's not ideal, you think. | Vì nếu tôi hét lên "chúng ta chết hết mất", cậu sẽ hoảng loạn. Nếu tôi nói "không lý tưởng lắm", cậu sẽ suy nghĩ. [explain]
+pemba: Mostly it works. Today it did not work on you. | Phần lớn thì cách đó hiệu quả. Hôm nay nó không hiệu quả với cậu. [shrug]
+josh: Fair enough. I also felt this strange lassitude on the way down. I just wanted to lie in the snow. | Công nhận. Trên đường xuống em còn thấy một sự uể oải kỳ lạ. Em chỉ muốn nằm luôn trong tuyết. [tired]
+hugh: That's the cold talking. Could be worse, though. You could have listened to it. | Đó là cái lạnh đang lên tiếng. Nhưng cũng có thể tệ hơn. Cậu đã có thể nghe theo nó. [thinking]
+josh: Honestly, this whole trip has been more arduous than I imagined. | Thật lòng mà nói, cả chuyến đi này gian nan hơn em tưởng tượng nhiều. [tired]
+hugh: The Himalaya does tend to be a little demanding. | Dãy Himalaya thì đúng là có hơi đòi hỏi một chút. [happy]
+josh: Is that another understatement? | Đó lại là một câu nói giảm nữa phải không ạ? [happy]
+pemba: A very big one. You are learning fast. | Một câu rất lớn. Cậu học nhanh đấy. [happy]
+hugh: Next year, then? Assuming you can bear my vocabulary. | Vậy năm sau nhé? Nếu cậu chịu nổi vốn từ của tôi. [explain]
+josh: I'd be slightly delighted, as you'd probably say. | Em sẽ "hơi vui một chút", như ông chắc sẽ nói vậy. [happy hugh:happy pemba:happy]
+names: Himalaya
+gloss: ridges, breeze, stiff

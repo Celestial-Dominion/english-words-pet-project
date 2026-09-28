@@ -1,0 +1,33 @@
+=== vd-b1-the-last-ferry
+title: I'd Rather Not Sleep in a Tent! | Tớ thà không ngủ trong lều!
+source: st-b1-the-last-ferry
+summary: Chiếc phà cuối đã đi mất, gió thì mỗi lúc một mạnh; trên bến cảng vắng, Lucía và Jonah cân nhắc từng phương án cho đêm nay.
+scene: riverside
+cast: jonah name=Jonah look=man x=540 voice=en-US-BrianNeural rate=+2% style.hair=curly style.hairColor=#C49A5A style.outfit=jacket style.top=#3F7F5F style.topShade=#336A4F
+cast: lucia name=Lucía look=woman x=1140 voice=en-US-JennyNeural pitch=+2Hz style.hair=long style.hairColor=#2B1B14 style.skin=#D9A77E style.skinShade=#C48F66 style.outfit=coat style.top=#B03A2E style.topShade=#942F25
+names: Jonah, Lucía
+words: option; rather; tent; storm; either; risk
+focus: Cân nhắc lựa chọn và nói điều mình thích hơn
+pattern: One option is to… · I'd rather… (than…) · It might be better to… · On the other hand… · Either way,… · Let's go with…
+explain: "I'd rather + động từ nguyên mẫu" = tôi thích… hơn: "I'd rather stay here than walk in the rain." Liệt kê phương án: "One option is to…", "Another option is to…". So sánh: "It might be better to…", "On the other hand…". Chốt: "Let's go with…" (mình chọn…).
+keys: one option is / i'd rather / it might be better to / on the other hand / either way / let's go with
+
+jonah: Well… that was the last ferry. | Chà… đó là chuyến phà cuối cùng. [sad]
+lucia: I can't believe it. This is my fault. Sorry. | Không thể tin nổi. Tất cả là tại tớ. Xin lỗi nhé. [sad]
+jonah: Don't worry. The sunset was worth it. So, what are our options? | Đừng lo. Hoàng hôn đáng mà. Vậy mình có những lựa chọn nào? [thinking]
+lucia: One option is to ask at the guesthouse again. | Một lựa chọn là hỏi lại nhà nghỉ. [thinking]
+jonah: They said they're full. There's a wedding. | Họ bảo kín phòng rồi. Có đám cưới mà. [shake]
+lucia: OK. Another option is your tent. | Được rồi. Lựa chọn khác là cái lều của cậu. [thinking]
+jonah: In this wind? I'd rather not. It'll fly away with us inside! | Với cơn gió này á? Tớ thà không. Nó sẽ bay đi cùng hai đứa mình bên trong mất! [surprised ipa=wind:wɪnd]
+lucia: Ha! True. We could ask someone in the village for help. | Ha! Đúng thật. Mình có thể nhờ ai đó trong làng giúp. [happy]
+jonah: It might be better to ask now, before it gets dark. | Có lẽ nên hỏi ngay bây giờ, trước khi trời tối. [explain]
+lucia: On the other hand, I don't want to knock on strangers' doors. | Mặt khác, tớ không muốn gõ cửa nhà người lạ. [worried]
+jonah: I'd rather knock on a door than sleep on the rocks. | Tớ thà gõ cửa còn hơn ngủ trên đá. [explain]
+lucia: Fair point. The storm is getting closer, too. | Có lý. Cơn bão cũng đang đến gần nữa. [worried]
+jonah: Is there a café or a church that stays open at night? | Có quán cà phê hay nhà thờ nào mở cửa ban đêm không nhỉ? [thinking]
+lucia: I don't think so. It's a very small island. | Tớ không nghĩ vậy. Đảo nhỏ xíu mà. [shake]
+jonah: Either way, we can't stay here. Let's go with the village. | Dù sao thì mình cũng không ở đây được. Mình chọn vào làng nhé. [explain]
+lucia: Agreed. It's a risk, but it's better than nothing. | Đồng ý. Có hơi liều, nhưng còn hơn không. [nod]
+jonah: Wait. Who's that on the bicycle? | Khoan. Ai đang đi xe đạp kia? [surprised]
+lucia: I don't know. But she's waving at us! | Tớ không biết. Nhưng bà ấy đang vẫy tay với mình kìa! [surprised jonah:happy]
+gloss: guesthouse

@@ -1,0 +1,27 @@
+=== vd-a1-the-new-girl
+title: Hi, I'm Emily | Chào bạn, tớ là Emily
+source: st-a1-the-new-girl
+summary: Giờ ăn trưa, Emily đến ngồi cạnh cô bạn mới Nora và hai đứa làm quen bằng những câu tiếng Anh đơn giản nhất.
+scene: classroom
+prop: notebook x=800
+cast: emily name=Emily look=girl x=520 voice=en-US-AnaNeural style.hair=bob style.hairColor=#E0B45C style.top=#4F8FD8 style.topShade=#3C77BD style.skin=#F8DCC8 style.skinShade=#EBC0A5
+cast: nora name=Nora look=girl x=1080 voice=en-US-AnaNeural pitch=-6Hz rate=-8% style.hair=curly style.hairColor=#2A1D1A style.top=#F2C14E style.topShade=#D9A933 style.skin=#C98E68 style.skinShade=#B07650
+names: Brazil, Portuguese, gato
+words: name; draw; picture; from; cat
+focus: Làm quen: hỏi tên, quê quán
+pattern: What's your name? · I'm… · Where are you from? · I'm from… · Nice to meet you.
+explain: Hỏi tên: "What's your name?" — đáp "I'm + tên." Hỏi quê: "Where are you from?" — đáp "I'm from + nơi chốn." Kết thúc màn làm quen bằng "Nice to meet you."
+keys: what's your name / i'm from / where are you from / nice to meet you
+
+emily: Hi! Can I sit here? | Chào cậu! Tớ ngồi đây được không? [happy wave]
+nora: Yes. | Ừ. [shy]
+emily: I'm Emily. What's your name? | Tớ là Emily. Cậu tên là gì? [happy]
+nora: I'm Nora. | Tớ là Nora. [shy]
+emily: Nice to meet you, Nora. Where are you from? | Rất vui được làm quen với cậu, Nora. Cậu đến từ đâu? [happy]
+nora: I'm from Brazil. | Tớ đến từ Brazil. [neutral]
+emily: Brazil! Wow. Is this your notebook? | Brazil à! Oa. Đây là vở của cậu à? [surprised @notebook]
+nora: Yes. I like to draw. | Ừ. Tớ thích vẽ. [happy nod]
+emily: Your pictures are beautiful! Is this a cat? | Tranh của cậu đẹp quá! Đây là con mèo à? [surprised point @notebook]
+nora: Yes. In Portuguese, "gato." | Ừ. Tiếng Bồ Đào Nha là "gato". [happy]
+emily: Gato! Can I draw a cat, too? | Gato! Tớ vẽ một con mèo được không? [happy]
+nora: OK! Nice to meet you, Emily. | Được chứ! Rất vui được làm quen với cậu, Emily. [happy nod emily:happy]

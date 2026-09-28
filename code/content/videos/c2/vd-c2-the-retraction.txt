@@ -1,0 +1,39 @@
+=== vd-c2-the-retraction
+title: I'm Not Sure That Holds Up | Em không chắc điều đó đứng vững
+source: st-c2-the-retraction
+summary: Trong văn phòng giáo sư Weiss, Lena lịch sự nhưng kiên định đưa ra bằng chứng rằng hai hình trong bài báo nổi tiếng là một — và không để lời giải thích "lỗi hành chính" khép lại chuyện.
+scene: office
+cast: weiss name=Weiss look=man x=520 voice=en-US-ChristopherNeural pitch=-5Hz rate=-2% style.hair=part style.hairColor=#9E9E9E style.outfit=suit style.top=#1C2833 style.topShade=#17202A style.glasses=square
+cast: lena name=Lena look=woman x=1160 voice=en-US-EmmaNeural pitch=+1Hz style.hair=ponytail style.hairColor=#C19A6B style.outfit=blouse style.top=#FDFEFE style.topShade=#E5E7E9
+names: Weiss, Lena, Hartmann, Tomás, Freiburg
+words: discrepancy; erroneous; spurious; metadata; archival; replicate
+focus: Phản biện lịch sự bằng bằng chứng với người có quyền lực hơn mình
+pattern: I'm not sure that holds up. · With respect, the data suggest otherwise. · I may be missing something, but… · How would you account for…? · That doesn't quite square with… · I'd feel more comfortable if…
+explain: Mở lời mềm nhưng không lùi: "I may be missing something, but…". Nêu điểm yếu của lời giải thích: "I'm not sure that holds up", "That doesn't quite square with the raw files". Đặt câu hỏi buộc người kia giải thích thay vì buộc tội: "How would you account for…?". Đề nghị bước tiếp theo cụ thể: "I'd feel more comfortable if we checked…". Giữ giọng bình tĩnh, bám vào dữ kiện.
+keys: not sure that holds up / with respect / missing something / account for / doesn't quite square / more comfortable if
+
+weiss: Dr Hartmann, you said it was urgent. I have ten minutes before my next call. | Tiến sĩ Hartmann, cô nói có việc gấp. Tôi có mười phút trước cuộc gọi tiếp theo. [explain]
+lena: Thank you. It's about Figure Three in the 2019 paper. I may be missing something, but two panels look identical. | Cảm ơn thầy. Chuyện về Hình ba trong bài báo năm 2019. Có thể em bỏ sót điều gì đó, nhưng hai ô hình trông giống hệt nhau. [explain]
+weiss: Identical? They show different experiments. | Giống hệt ư? Chúng thể hiện hai thí nghiệm khác nhau. [surprised]
+lena: That's what the legend says. But if you rotate panel C, the cells match panel F exactly. | Chú thích thì nói vậy. Nhưng nếu xoay ô C, các tế bào khớp chính xác với ô F. [point]
+weiss: Then someone uploaded the wrong file. An erroneous image, nothing more. We'll correct it. | Vậy thì ai đó đã tải nhầm tệp. Một hình ảnh nhầm lẫn, chỉ vậy thôi. Chúng ta sẽ đính chính. [shrug]
+lena: I'm not sure that holds up, I'm afraid. The contrast has been adjusted as well. | Em e là lời giải thích đó không đứng vững. Độ tương phản cũng đã bị chỉnh. [explain]
+weiss: Students adjust contrast all the time. It makes the cells easier to see. | Sinh viên chỉnh độ tương phản suốt. Làm vậy cho dễ nhìn tế bào. [explain]
+lena: Of course. But that doesn't quite square with a genuine mix-up. You don't enhance the wrong file by accident. | Tất nhiên. Nhưng điều đó không khớp với một sự nhầm lẫn thật sự. Người ta đâu vô tình làm rõ nét một tệp nhầm. [thinking]
+weiss: You seem very certain for someone who wasn't here in 2019. | Cô có vẻ rất chắc chắn đối với một người không có mặt ở đây năm 2019. [angry]
+lena: I'm not certain. That's why I checked the archival server. The raw data for panel C don't exist. | Em không chắc. Vì thế em đã kiểm tra máy chủ lưu trữ. Dữ liệu thô của ô C không tồn tại. [explain]
+weiss: Files get lost. Servers are migrated. It happens in every lab. | Tệp bị mất. Máy chủ được chuyển đổi. Chuyện đó xảy ra ở mọi phòng thí nghiệm. [shrug]
+lena: With respect, the other panels from that week are all there. How would you account for the discrepancy? | Thưa thầy, các ô hình khác trong tuần đó đều còn cả. Thầy giải thích sự chênh lệch đó thế nào? [explain]
+weiss: I don't need to account for anything. I have published two hundred papers. | Tôi chẳng cần giải thích gì cả. Tôi đã công bố hai trăm bài báo. [angry]
+lena: I know, and that's exactly why it matters. Other labs are trying to replicate a result that may be spurious. | Em biết, và đó chính là lý do chuyện này quan trọng. Các phòng thí nghiệm khác đang cố lặp lại một kết quả có thể là giả tạo. [nod]
+weiss: Be very careful with that word, Dr Hartmann. | Hãy rất cẩn thận với từ đó, tiến sĩ Hartmann. [angry]
+lena: I'm choosing my words carefully. I'm not accusing anyone. I'm asking what happened. | Em đang chọn lời rất cẩn thận. Em không buộc tội ai. Em đang hỏi chuyện gì đã xảy ra. [explain]
+weiss: And if I tell you it was a former student's mistake? | Còn nếu tôi nói với cô đó là lỗi của một cựu sinh viên? [thinking]
+lena: Then the metadata will show it. I'd feel more comfortable if we asked the integrity office to look. | Thì siêu dữ liệu sẽ cho thấy điều đó. Em sẽ yên tâm hơn nếu chúng ta nhờ văn phòng liêm chính xem xét. [explain]
+weiss: You realize how this could look for your career? | Cô có nhận ra chuyện này có thể ảnh hưởng thế nào đến sự nghiệp của cô không? [thinking]
+lena: I do. I'd rather look difficult than be dishonest. | Em nhận ra. Em thà bị coi là khó chịu còn hơn là không trung thực. [sad]
+weiss: I think this conversation is over. | Tôi nghĩ cuộc nói chuyện này kết thúc rồi. [angry]
+lena: I understand. For the record, I'll be putting my concerns in writing today. | Em hiểu. Xin nói để thầy biết, hôm nay em sẽ trình bày những lo ngại của mình bằng văn bản. [nod ipa=record:ˈrɛkərd]
+weiss: Do what you must. | Cứ làm điều cô phải làm. [sad]
+lena: I will. And I'm sorry. I'd hoped you'd be the one to tell me I was wrong. | Em sẽ làm. Và em xin lỗi. Em đã mong thầy sẽ là người nói với em rằng em sai. [sad]
+gloss: legend, panels, rotate, uploaded, contrast, enhance, server, migrated, replicate, integrity

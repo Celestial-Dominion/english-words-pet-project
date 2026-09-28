@@ -1,0 +1,35 @@
+=== vd-c1-the-mirror
+title: As You Can See | Như mọi người thấy đây
+source: st-c1-the-mirror
+summary: Hana trình bày số liệu cho thấy mô hình sàng lọc hồ sơ chấm điểm ứng viên nữ thấp hơn, giải thích vì sao "xoá vài từ" không đủ, trong khi Derek chỉ muốn ra mắt đúng hạn.
+scene: office
+prop: laptop x=800 y=640 scale=0.75
+cast: derek name=Derek look=man x=300 voice=en-US-BrianNeural pitch=-2Hz rate=+5% style.hair=fringe style.hairColor=#6B4A2F style.outfit=shirt style.top=#E5E7E9 style.topShade=#D0D3D4
+cast: hana name=Hana look=woman x=800 voice=en-US-JennyNeural pitch=-1Hz style.hair=long style.hairColor=#1A1A1A style.skin=#F0D5B8 style.skinShade=#DDBF9F style.outfit=blouse style.top=#2E86C1 style.topShade=#2874A6
+cast: elena name=Elena look=woman x=1300 voice=en-US-MichelleNeural pitch=-8Hz rate=-3% style.hair=bob style.hairColor=#8C7853 style.outfit=suit style.top=#212F3D style.topShade=#1B2631 style.glasses=square
+names: Derek, Hana, Elena, Harwick, Brightline
+words: statistical; disparity; proxy; algorithm; shortlist; equivalent
+focus: Trình bày số liệu và giải thích xu hướng trong cuộc họp
+pattern: As you can see, … · On average, … · compared with… · roughly twice as… · This suggests that… · The key finding is…
+explain: Dẫn người nghe vào biểu đồ: "As you can see, …". Nêu số liệu có so sánh: "On average, women scored 18% lower compared with men with equivalent experience." Ước lượng: "roughly", "almost twice as likely". Diễn giải thận trọng: "This suggests that…" (không nói "This proves…" khi chưa đủ chắc). Tóm ý chính: "The key finding is…".
+keys: as you can see / on average / compared with / roughly / this suggests that / the key finding
+
+hana: Thanks for coming. I'll be brief. As you can see on this chart, there's a gap between two groups of applicants. | Cảm ơn mọi người đã đến. Tôi sẽ nói ngắn gọn. Như mọi người thấy trên biểu đồ này, có một khoảng cách giữa hai nhóm ứng viên. [explain @laptop]
+derek: Which two groups? | Hai nhóm nào? [thinking]
+hana: Men and women applying for engineering roles. On average, women scored eighteen per cent lower, compared with men with equivalent qualifications. | Nam và nữ ứng tuyển vị trí kỹ thuật. Trung bình, nữ bị chấm thấp hơn mười tám phần trăm so với nam có bằng cấp tương đương. [explain derek:surprised]
+elena: Eighteen per cent. Is that statistical noise, or something real? | Mười tám phần trăm. Đó là nhiễu thống kê, hay là thật? [thinking]
+hana: It's real. I tested it three different ways, and the disparity appears every time. | Là thật. Tôi đã kiểm định bằng ba cách khác nhau, và sự chênh lệch lần nào cũng xuất hiện. [nod]
+derek: But the algorithm doesn't even know anyone's gender. | Nhưng thuật toán thậm chí còn không biết giới tính của ai. [confused]
+hana: Not directly. This suggests that it learned to use proxies instead: a women's sports team, a certain university, a year out of work. | Không trực tiếp. Điều này gợi ý rằng nó đã học cách dùng những biến đại diện thay thế: một đội thể thao nữ, một trường đại học nhất định, một năm nghỉ việc. [explain ipa=use:juz]
+elena: How much does a single proxy matter? | Một biến đại diện đơn lẻ ảnh hưởng đến mức nào? [thinking]
+hana: A gap of a year makes a candidate roughly twice as likely to be ranked in the bottom half. | Một khoảng trống một năm khiến một ứng viên có khả năng bị xếp ở nửa dưới cao gần gấp đôi. [explain]
+derek: Then we delete those words, retrain it this weekend and launch on schedule. | Vậy thì ta xoá những từ đó, huấn luyện lại cuối tuần này và ra mắt đúng lịch. [explain]
+hana: I wish it were that simple. If we remove one proxy, the model will find another. It's trained to copy the past. | Tôi ước gì chuyện đơn giản thế. Nếu ta bỏ một biến đại diện, mô hình sẽ tìm ra biến khác. Nó được huấn luyện để sao chép quá khứ. [shake]
+elena: So what's the key finding, in one sentence, for someone who isn't a data scientist? | Vậy phát hiện then chốt là gì, trong một câu, cho người không phải là chuyên gia dữ liệu? [explain]
+hana: The key finding is that the model is accurate. It accurately reproduces who Harwick hired, and Harwick hired mostly men. | Phát hiện then chốt là mô hình chính xác. Nó tái hiện chính xác Harwick đã tuyển ai, và Harwick chủ yếu tuyển nam giới. [explain]
+derek: Harwick wants three hundred graduates shortlisted next month. We can't just tell them no. | Harwick muốn lập danh sách rút gọn ba trăm sinh viên tốt nghiệp vào tháng sau. Ta không thể cứ thế nói không với họ. [angry ipa=graduates:ˈɡrædʒuəts]
+elena: Derek, if their shortlist discriminates, they're legally responsible, and so, very probably, are we. | Derek, nếu danh sách rút gọn của họ phân biệt đối xử, họ phải chịu trách nhiệm pháp lý, và rất có thể cả chúng ta cũng vậy. [explain derek:worried]
+derek: How long would a proper fix take? | Sửa cho đàng hoàng thì mất bao lâu? [tired]
+hana: Roughly three months. We'd train it on actual performance, and a person would read every CV it ranks low. | Khoảng ba tháng. Ta sẽ huấn luyện nó dựa trên hiệu quả làm việc thực tế, và một người sẽ đọc mọi hồ sơ bị nó xếp thấp. [explain ipa=read:rid]
+elena: Then I suggest we present these same charts to Harwick's board, exactly as you've shown them to us. | Vậy tôi đề nghị chúng ta trình bày chính những biểu đồ này trước hội đồng quản trị của Harwick, đúng như cô vừa cho chúng tôi xem. [nod ipa=present:prɪˈzɛnt]
+gloss: retrain, graduates, reproduces, discriminates, data scientist

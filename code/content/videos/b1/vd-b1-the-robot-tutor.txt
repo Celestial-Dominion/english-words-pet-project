@@ -1,0 +1,33 @@
+=== vd-b1-the-robot-tutor
+title: I See Your Point, But… | Tớ hiểu ý cậu, nhưng…
+source: st-b1-the-robot-tutor
+summary: Trước giờ tranh luận, Ella và Diego tập với nhau: gia sư AI có nên thay thế giáo viên không? Hai bạn đồng ý, phản bác và cuối cùng tìm được điểm chung.
+scene: classroom
+prop: laptop x=800
+cast: ella name=Ella look=teengirl x=520 voice=en-US-AnaNeural pitch=+2Hz style.hair=pigtails style.hairColor=#E0B060 style.outfit=uniform style.top=#7B2D26 style.topShade=#65241F
+cast: diego name=Diego look=teenboy x=1150 voice=en-US-BrianNeural pitch=+12Hz style.hair=curly style.hairColor=#2B1B14 style.skin=#C9936B style.skinShade=#B07A55 style.outfit=uniform style.top=#7B2D26 style.topShade=#65241F
+names: Diego, Ella, Max
+gloss: AI
+words: agree; point; argue; impatient; available; replace
+focus: Đồng ý và phản đối một cách lịch sự
+pattern: I see your point, but… · I'm not sure I agree. · That's true. However,… · I couldn't agree more. · Exactly! · Fair enough.
+explain: Phản đối lịch sự: ghi nhận trước rồi mới nêu ý khác — "I see your point, but…", "That's true. However, …". Không chắc: "I'm not sure I agree." Đồng ý mạnh: "I couldn't agree more.", "Exactly!". Chấp nhận lý lẽ: "Fair enough."
+keys: i see your point / i'm not sure i agree / that's true / however / i couldn't agree more / exactly / fair enough
+
+ella: OK, let's practice. I'll argue that AI tutors should replace teachers. | Được rồi, mình tập nhé. Tớ sẽ lập luận rằng gia sư AI nên thay thế giáo viên. [explain @laptop]
+diego: And I'll argue against it. Go on. | Còn tớ sẽ phản bác. Cậu nói đi. [nod]
+ella: First, AI is always available. You can ask Max a question at midnight. | Thứ nhất, AI lúc nào cũng sẵn sàng. Cậu có thể hỏi Max lúc nửa đêm. [explain]
+diego: That's true. However, most people shouldn't be studying at midnight! | Đúng vậy. Tuy nhiên, hầu hết mọi người không nên học lúc nửa đêm! [happy]
+ella: Ha! Fair enough. Second, it never gets impatient. | Ha! Cũng có lý. Thứ hai, nó không bao giờ mất kiên nhẫn. [happy]
+diego: I see your point, but patience isn't everything. Max never notices when you're pretending. | Tớ hiểu ý cậu, nhưng kiên nhẫn không phải là tất cả. Max chẳng bao giờ nhận ra khi mình giả vờ. [thinking]
+ella: But it helped me so much with maths. My marks went up! | Nhưng nó giúp tớ rất nhiều môn toán. Điểm tớ tăng lên mà! [surprised]
+diego: Exactly. It helped you. It didn't replace Ms. Park. | Chính xác. Nó giúp cậu. Nó đâu có thay thế cô Park. [explain]
+ella: I'm not sure I agree. Some students can't afford private lessons. AI is cheap. | Tớ không chắc là tớ đồng ý. Có những bạn không đủ tiền học thêm. AI thì rẻ. [thinking]
+diego: That's a good argument. I hadn't thought about that. | Lý lẽ hay đấy. Tớ chưa nghĩ đến điều đó. [thinking]
+ella: So you agree with me? | Vậy cậu đồng ý với tớ à? [happy]
+diego: Partly. AI is a great tool. But a tool shouldn't do your thinking for you. | Một phần thôi. AI là một công cụ tuyệt vời. Nhưng công cụ không nên suy nghĩ thay mình. [explain]
+ella: I couldn't agree more. That's what happened with the homework. | Tớ hoàn toàn đồng ý. Đó chính là chuyện đã xảy ra với bài tập về nhà. [nod]
+diego: Don't remind me. The average score went up, but my essay had three lines. | Đừng nhắc nữa. Điểm trung bình thì tăng, còn bài luận của tớ có đúng ba dòng. [shy]
+ella: So what's our conclusion? | Vậy kết luận của mình là gì? [thinking]
+diego: A compromise. Use AI for practice, but keep the teachers. Can we agree on that? | Một phương án dung hoà. Dùng AI để luyện tập, nhưng giữ lại giáo viên. Mình thống nhất vậy nhé? [explain ipa=use:juz]
+ella: Agreed. Now let's hope the rest of the class thinks the same. | Đồng ý. Giờ chỉ mong cả lớp cũng nghĩ giống vậy. [happy diego:happy]

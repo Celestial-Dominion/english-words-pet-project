@@ -1,0 +1,35 @@
+=== vd-c1-the-heartbeat
+title: More Than I Can Say | Nhiều hơn những gì tôi nói được
+source: st-c1-the-heartbeat
+summary: Lần đầu gặp mẹ của người đã hiến tim cho mình, Ethan cố nói lời cảm ơn mà không làm nhẹ đi nỗi mất mát của bà — và Dolores xin được nghe nhịp tim của con trai.
+scene: cafe
+prop: tea x=830
+cast: ethan name=Ethan look=man x=520 voice=en-US-BrianNeural pitch=-2Hz rate=-4% style.hair=short style.hairColor=#6B4A2F style.outfit=shirt style.top=#85C1E9 style.topShade=#73AFD7
+cast: dolores name=Dolores look=mom x=1160 voice=en-US-AvaNeural pitch=-6Hz rate=-4% style.hair=bun style.hairColor=#3B3B3B style.skin=#C68E6A style.skinShade=#B07B58 style.outfit=cardigan style.top=#7B241C style.topShade=#641E16
+names: Ethan, Dolores, Mateo, Priya
+words: recipient; donor; coordinator; transplant; confidentiality; rehabilitation
+focus: Bày tỏ lòng biết ơn sâu sắc và cảm xúc mạnh một cách tiết chế
+pattern: I don't know how to begin to thank you · It means more than I can say · Words can't express… · I can only imagine… · I'll never forget… · I hope you know that…
+explain: Biết ơn sâu sắc: "I don't know how to begin to thank you.", "Words can't express how grateful I am." Thừa nhận giới hạn của lời nói: "It means more than I can say." Tôn trọng nỗi đau người khác, không so sánh: "I can only imagine how hard this is." Cam kết: "I'll never forget…". Kết bằng điều muốn người kia biết: "I hope you know that…". Câu ngắn, giọng chậm, chấp nhận những khoảng lặng.
+keys: begin to thank you / more than i can say / words can't express / i can only imagine / i'll never forget / i hope you know
+
+dolores: So you're Ethan. Priya said you'd be early. Sit down, please. | Vậy cậu là Ethan. Priya bảo cậu sẽ đến sớm. Mời cậu ngồi. [nod @tea]
+ethan: Thank you for agreeing to meet me. I nearly didn't come. I was afraid I'd say the wrong thing. | Cảm ơn bà đã đồng ý gặp tôi. Suýt nữa tôi đã không đến. Tôi sợ mình sẽ nói sai điều gì đó. [shy]
+dolores: There isn't a right thing. I've learned that in two years. | Chẳng có điều gì là đúng cả. Tôi đã học được điều đó trong hai năm qua. [sad]
+ethan: I don't know how to begin to thank you. Every sentence I prepared sounded small. | Tôi không biết phải bắt đầu cảm ơn bà thế nào. Câu nào tôi chuẩn bị cũng nghe nhỏ bé quá. [tearful]
+dolores: You wrote to us. Most recipients never do. That already told me a great deal. | Cậu đã viết thư cho chúng tôi. Phần lớn người được ghép không bao giờ làm vậy. Điều đó đã nói với tôi rất nhiều. [explain]
+ethan: I can only imagine how hard it was to say yes, on the worst day of your life. | Tôi chỉ có thể hình dung việc đồng ý khó khăn đến mức nào, vào ngày tồi tệ nhất đời bà. [sad]
+dolores: It was the hardest thing and the easiest. Mateo had carried a donor card since he was sixteen. | Đó là việc khó nhất và cũng dễ nhất. Mateo mang thẻ hiến tạng từ năm mười sáu tuổi. [explain]
+ethan: Because of confidentiality, I knew almost nothing. Only his age, and that he'd had an accident. | Vì quy định bảo mật, tôi gần như không biết gì. Chỉ biết tuổi cậu ấy, và rằng cậu ấy gặp tai nạn. [explain]
+dolores: He loved football, terrible jokes and his grandmother's cooking. And motorbikes, unfortunately. | Thằng bé yêu bóng đá, những câu đùa nhạt nhẽo và các món bà nội nấu. Và xe máy nữa, thật không may. [sad]
+ethan: Before the transplant, I couldn't walk to the end of my road. Last month I ran five kilometres with my class. | Trước ca ghép tim, tôi không thể đi bộ đến cuối con đường nhà mình. Tháng trước tôi đã chạy năm ki-lô-mét cùng lớp học của tôi. [explain]
+dolores: The coordinator told me you'd worked very hard at your rehabilitation. | Điều phối viên kể với tôi rằng cậu đã rất nỗ lực trong việc phục hồi chức năng. [nod]
+ethan: I felt I owed it to him. Words can't express how grateful I am, but I hope you know that I think about him every single morning. | Tôi thấy mình nợ cậu ấy điều đó. Không lời nào diễn tả được tôi biết ơn đến mức nào, nhưng tôi mong bà biết rằng sáng nào tôi cũng nghĩ về cậu ấy. [tearful dolores:tearful]
+dolores: That means more than I can say. May I ask you something? You can refuse. | Điều đó có ý nghĩa với tôi hơn những gì tôi nói được. Tôi xin cậu một điều được không? Cậu có thể từ chối. [shy ipa=refuse:=]
+ethan: Anything. | Bất cứ điều gì. [nod]
+dolores: I'm a pharmacist. I brought a stethoscope. I would like to hear his heart. | Tôi là dược sĩ. Tôi có mang theo một chiếc ống nghe. Tôi muốn được nghe trái tim của thằng bé. [tearful]
+ethan: Of course. Take as long as you need. | Tất nhiên rồi. Bà cứ nghe bao lâu tuỳ ý. [nod]
+dolores: It's very steady. Mateo was never steady about anything. He'd have liked that. | Nó đập rất đều. Mateo chưa bao giờ đều đặn trong chuyện gì. Thằng bé hẳn sẽ thích điều đó. [happy ethan:tearful]
+ethan: I'll never forget this. Or him. Could we meet again next year, on the same day? | Tôi sẽ không bao giờ quên khoảnh khắc này. Hay cậu ấy. Năm sau chúng ta có thể gặp lại, vào đúng ngày này không ạ? [thinking]
+dolores: I'd like that very much. Same café. You can tell me about your class. | Tôi rất muốn thế. Cùng quán cà phê này. Cậu có thể kể tôi nghe về lớp học của cậu. [happy]
+gloss: pharmacist, stethoscope, motorbikes, kilometres

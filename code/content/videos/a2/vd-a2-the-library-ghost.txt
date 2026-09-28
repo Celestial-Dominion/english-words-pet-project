@@ -1,0 +1,35 @@
+=== vd-a2-the-library-ghost
+title: Are You Scared of Ghosts? | Cậu có sợ ma không?
+source: st-a2-the-library-ghost
+summary: Trời tối dần trong thư viện; Zoe và Arjun ngồi chờ "hồn ma" và thú nhận với nhau mình sợ nhất điều gì.
+scene: library
+prop: book x=800
+cast: zoe name=Zoe look=teengirl x=500 voice=en-US-EmmaNeural pitch=+6Hz style.hair=bob style.hairColor=#B5652E style.glasses=true style.outfit=uniform style.top=#3A8E8B style.topShade=#2D7673
+cast: arjun name=Arjun look=teenboy x=1120 voice=en-US-BrianNeural pitch=+10Hz style.hair=short style.hairColor=#1F1A1C style.skin=#B07650 style.skinShade=#94603E style.outfit=uniform style.top=#3A8E8B style.topShade=#2D7673
+names: Hale
+gloss: ghost, owl
+words: frightened; scream; dark; mystery; brave; shadow
+focus: Nói về nỗi sợ
+pattern: Are you scared of…? · I'm afraid of… · I'm not scared of… · What are you afraid of? · Don't be silly!
+explain: "Be scared of / be afraid of + danh từ / V-ing" nói về nỗi sợ: "I'm scared of the dark." Hỏi: "What are you afraid of?". Trêu nhẹ khi ai đó sợ vô lý: "Don't be silly!".
+keys: scared of / afraid of / are you scared / what are you afraid of / don't be silly
+
+arjun: Zoe, it's getting dark. | Zoe, trời bắt đầu tối rồi. [worried]
+zoe: I know. The ghost comes after five, remember? | Tớ biết. Con ma đến sau năm giờ, nhớ không? [happy lights=off fade=4]
+arjun: Half the class is too frightened to come here now. | Nửa lớp giờ sợ quá chẳng dám đến đây nữa. [worried]
+zoe: Good. I love a mystery. | Càng tốt. Tớ mê những chuyện bí ẩn mà. [happy]
+arjun: Are you scared of ghosts? | Cậu có sợ ma không? [worried]
+zoe: No. Ghosts don't exist. I'm not scared of ghosts. | Không. Ma làm gì có thật. Tớ không sợ ma. [shake]
+arjun: Then what are you afraid of? | Vậy cậu sợ cái gì? [thinking]
+zoe: Hmm… I'm afraid of spiders. And exams! | Ừm… Tớ sợ nhện. Với cả thi cử! [shy]
+arjun: Exams? Don't be silly! | Thi cử á? Đừng nói linh tinh! [happy]
+zoe: What about you? Are you scared of ghosts? | Còn cậu? Cậu có sợ ma không? [thinking]
+arjun: Not really. But I'm scared of the dark. | Không hẳn. Nhưng tớ sợ bóng tối. [shy]
+zoe: The dark? Why? | Bóng tối á? Sao vậy? [confused]
+arjun: When I was small, I saw a big shadow in my room. I screamed. | Hồi nhỏ, tớ nhìn thấy một cái bóng to trong phòng. Tớ hét toáng lên. [worried]
+zoe: What was it? | Đó là cái gì? [surprised]
+arjun: My coat on the door. | Cái áo khoác của tớ treo trên cửa. [shy]
+zoe: Ha! You're braver than you think. | Ha! Cậu dũng cảm hơn cậu nghĩ đấy. [happy]
+arjun: Wait… did you hear that? | Khoan… cậu có nghe thấy gì không? [surprised @book]
+arjun: Something's moving in there! I'm not scared. I'm just… very careful. | Có gì đang động đậy trong đó! Tớ không sợ đâu. Tớ chỉ… rất cẩn thận thôi. [worried zoe:happy]
+gloss: spiders, braver, scared

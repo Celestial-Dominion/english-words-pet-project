@@ -1,0 +1,39 @@
+=== vd-c2-cross-purposes
+title: I Think We're Talking at Cross Purposes | Tôi nghĩ ta đang hiểu lệch nhau
+source: st-c2-cross-purposes
+summary: Trong bữa tối ở Osaka, Yuki giúp Neil và ông Mori nhận ra họ đã hiểu lệch nhau — và gỡ rối bằng cách hỏi lại, diễn đạt lại và nói rõ ý mình.
+scene: restaurant
+cast: neil name=Neil look=man x=300 voice=en-US-GuyNeural pitch=-2Hz rate=+4% style.hair=short style.hairColor=#8D6E63 style.outfit=suit style.top=#34495E style.topShade=#2C3E50
+cast: yuki name=Yuki look=woman x=800 voice=en-US-AnaNeural pitch=+1Hz style.hair=bob style.hairColor=#111111 style.outfit=blouse style.top=#FADBD8 style.topShade=#F5B7B1
+cast: mori name=Mr. Mori look=grandpa x=1300 voice=en-US-ChristopherNeural pitch=-3Hz rate=-6% style.hair=part style.hairColor=#7F7F7F style.outfit=suit style.top=#1C2833 style.topShade=#17202A style.glasses=square
+names: Neil, Yuki, Mori, Aozora, Hallwood, Osaka
+words: implicitly; tacitly; idiomatic; euphemism; courteous; abrasive
+focus: Gỡ một hiểu lầm: nhận ra hai bên hiểu lệch, hỏi lại, diễn đạt lại ý mình
+pattern: I think we're talking at cross purposes. · What I meant was… · Correct me if I've misunderstood, but… · Could I put that another way? · When you said…, did you mean…? · I didn't mean to give the impression that…
+explain: Khi thấy hai bên đang nói về hai chuyện khác nhau, gọi tên nó: "I think we're talking at cross purposes". Hỏi lại ý người kia: "When you said…, did you mean…?", "Correct me if I've misunderstood, but…". Diễn đạt lại ý mình: "What I meant was…", "Could I put that another way?". Nếu lời mình gây ấn tượng sai, sửa ngay: "I didn't mean to give the impression that…".
+keys: cross purposes / what i meant was / correct me if / put that another way / when you said / didn't mean to give the impression
+
+neil: Mr Mori, thank you for seeing us again. I'm afraid I rushed things last time. | Ông Mori, cảm ơn ông đã gặp lại chúng tôi. Tôi e là lần trước tôi đã quá vội vàng. [nod]
+mori: Not at all. Your presentation was very energetic. | Không có gì. Bài thuyết trình của ông rất sôi nổi. [happy]
+yuki: Mr Mori, may I ask something? When you said it might be a little difficult, did you mean the price? | Thưa ông Mori, tôi có thể hỏi một điều không ạ? Khi ông nói có thể hơi khó, ý ông là về giá cả phải không? [thinking]
+mori: The price is acceptable. That was not my concern. | Giá cả thì chấp nhận được. Đó không phải mối lo của tôi. [explain]
+neil: Then I think we've been talking at cross purposes. I assumed you were negotiating. | Vậy tôi nghĩ chúng ta đã hiểu lệch nhau. Tôi cứ tưởng ông đang mặc cả. [surprised]
+mori: I was trying to express a concern implicitly. Perhaps too implicitly. | Tôi đã cố bày tỏ một mối lo một cách ngầm ẩn. Có lẽ là quá ngầm ẩn. [thinking]
+yuki: Correct me if I've misunderstood, but you praised the beauty of the tables, and said nothing about how long they'd last. | Xin ông sửa nếu tôi hiểu sai, nhưng ông đã khen vẻ đẹp của những chiếc bàn mà không nói gì về độ bền của chúng. [explain]
+mori: Exactly. I was hoping you would notice what was missing. | Chính xác. Tôi đã mong các vị để ý đến điều còn thiếu. [nod]
+neil: I'm afraid subtlety isn't my strong point. Could you put it more directly for me? | Tôi e là sự tinh tế không phải điểm mạnh của tôi. Ông có thể nói thẳng hơn giúp tôi không? [shrug]
+mori: Our summers are very humid. Oak moves. If a joint becomes loose, who repairs it? You are twelve thousand kilometres away. | Mùa hè của chúng tôi rất ẩm. Gỗ sồi co giãn. Nếu một mối ghép bị lỏng, ai sẽ sửa? Các vị ở cách xa mười hai nghìn kilômét. [explain]
+neil: That's a completely fair point. What I meant by "let's talk numbers" was only that I was keen, not impatient. | Đó là một ý hoàn toàn chính đáng. Ý tôi khi nói "nói chuyện con số đi" chỉ là tôi rất hào hứng, chứ không phải sốt ruột. [explain]
+mori: I understood the phrase, but not the intention. It sounded a little abrasive in our meeting. | Tôi hiểu cụm từ đó, nhưng không hiểu ý định. Trong cuộc họp của chúng tôi, nó nghe hơi thô ráp. [thinking]
+yuki: "Cut to the chase" is very idiomatic. It can sound rude even when it isn't meant that way. | Câu "vào thẳng vấn đề" ấy là một thành ngữ rất đặc thù. Nó có thể nghe thô lỗ ngay cả khi người nói không có ý đó. [explain]
+neil: I certainly didn't mean to give the impression that I didn't respect your process. | Tôi chắc chắn không có ý tạo ấn tượng rằng tôi không tôn trọng quy trình của ông. [nod]
+mori: Thank you. And I should say, "it may be difficult" is often a euphemism in Japanese business. | Cảm ơn ông. Và tôi cũng nên nói rằng "có thể khó" thường là một cách nói tránh trong kinh doanh Nhật Bản. [explain]
+neil: So I heard "yes", and you were tacitly saying "not yet". | Vậy là tôi nghe thành "có", còn ông thì ngầm nói "chưa". [thinking]
+mori: "Not in this form." That is more accurate. | "Không phải dưới hình thức này." Nói vậy chính xác hơn. [nod]
+yuki: Could I put a suggestion another way, then? What if Hallwood trained two craftsmen here in Osaka? | Vậy tôi có thể đưa ra một gợi ý theo cách khác không ạ? Nếu Hallwood đào tạo hai thợ thủ công ngay tại Osaka thì sao? [thinking]
+mori: That would change a great deal. Repairs could be made within a week. | Điều đó sẽ thay đổi rất nhiều. Việc sửa chữa có thể xong trong vòng một tuần. [surprised]
+neil: And we could adapt the joints for humid climates. My father would love that challenge. | Và chúng tôi có thể điều chỉnh các mối ghép cho khí hậu ẩm. Bố tôi sẽ rất thích thử thách đó. [happy]
+mori: Then we have something to discuss. I am glad Ms Tanabe was so courteous, and so persistent. | Vậy thì chúng ta có điều để bàn rồi. Tôi mừng vì cô Tanabe đã nhã nhặn, và kiên trì đến thế. [happy]
+yuki: I only asked the questions. You both supplied the answers. | Tôi chỉ đặt câu hỏi thôi ạ. Chính hai vị đã đưa ra câu trả lời. [happy]
+neil: Next time I'll try to listen to what isn't said. | Lần sau tôi sẽ cố lắng nghe cả những điều không được nói ra. [nod mori:happy yuki:happy]
+gloss: presentation, energetic, subtlety, humid, joint, craftsmen, climates, persistent

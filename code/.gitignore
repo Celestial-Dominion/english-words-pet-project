@@ -49,3 +49,10 @@ next-env.d.ts
 /.firebase/
 /test-results/
 /playwright-report/
+
+# học liệu: venv TTS, cache TTS từng lượt thoại, mốc thời gian audio (sinh lại bằng npm run content:build),
+# checkpoint tạm khi sản xuất nội dung hàng loạt
+/scripts/.venv-tts/
+/scripts/.video-tts-cache/
+/scripts/.content-audio/
+/.english-content-state.json

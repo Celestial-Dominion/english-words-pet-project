@@ -1,0 +1,38 @@
+=== vd-c2-the-committee
+title: Where Do You Draw the Line? | Vạch ranh giới ở đâu?
+source: st-c2-the-committee
+summary: Trong giờ giải lao của buổi họp, Helen, bác sĩ Wren và bà Joan tranh luận về Sentinel bằng những tình huống giả định — đẩy lập luận của nhau đến tận cùng để tìm xem nên vạch ranh giới ở đâu.
+scene: office
+cast: helen name=Helen look=grandma x=300 voice=en-US-MichelleNeural pitch=-4Hz rate=-3% style.hair=short style.hairColor=#9E9E9E style.skin=#8D5524 style.skinShade=#7A4A1F style.outfit=suit style.top=#4A235A style.topShade=#3E1F4B style.glasses=round
+cast: wren name=Dr Wren look=man x=800 voice=en-US-GuyNeural pitch=-2Hz rate=+2% style.hair=short style.hairColor=#8D6E63 style.outfit=shirt style.top=#AED6F1 style.topShade=#85C1E9
+cast: joan name=Joan look=grandma x=1300 voice=en-US-AnaNeural pitch=-5Hz rate=-4% style.hair=bun style.hairColor=#E0E0E0 style.outfit=cardigan style.top=#7B241C style.topShade=#641E16 style.glasses=square
+names: Helen, Wren, Joan, Sentinel, Gerald
+words: hypothetical; prioritize; unbiased; condone; utilitarian; stipulation
+focus: Tranh luận bằng tình huống giả định: đặt giả thiết, đẩy lập luận của đối phương đến tận cùng và hỏi ranh giới nằm ở đâu
+pattern: Say, for the sake of argument, … · Taken to its logical conclusion, … · What if…? · Would you still say that if…? · By that logic, … · Where do you draw the line?
+explain: Ở C2, giả định là công cụ tranh luận chứ không chỉ để tưởng tượng: "Say, for the sake of argument, …" (cứ cho là, để bàn cho rõ), "What if…?". Để chỉ ra chỗ yếu, đẩy lập luận đến tận cùng: "Taken to its logical conclusion, …", "By that logic, …", "Would you still say that if…?". Khi cả hai phía đều có lý, câu hỏi then chốt là: "Where do you draw the line?" — và nên đáp bằng một điều kiện cụ thể, không phải một khẩu hiệu.
+keys: for the sake of argument / logical conclusion / what if / would you still say that / by that logic / draw the line
+
+wren: Helen, can I be blunt? I think the committee is letting the perfect be the enemy of the good. | Helen, tôi nói thẳng được không? Tôi nghĩ hội đồng đang để sự hoàn hảo trở thành kẻ thù của điều tốt. [explain]
+helen: Be as blunt as you like. But let's test it. Say, for the sake of argument, we approve Sentinel exactly as it is. What happens? | Anh cứ nói thẳng. Nhưng hãy thử kiểm chứng. Cứ cho là, để bàn cho rõ, chúng ta duyệt Sentinel đúng như hiện tại. Điều gì sẽ xảy ra? [thinking]
+wren: We catch sepsis earlier, we prioritize better, and fewer people die in the waiting room. | Chúng ta phát hiện nhiễm trùng huyết sớm hơn, xếp ưu tiên tốt hơn, và ít người chết trong phòng chờ hơn. [explain]
+joan: Fewer people overall. But what if the people it misses are always the same kind of people? | Ít người hơn tính trên tổng thể. Nhưng nếu những người nó bỏ sót luôn là cùng một kiểu người thì sao? [thinking]
+wren: Then we fix that. But the current system isn't unbiased either. We just don't measure the nurses' mistakes. | Thì chúng ta sửa chỗ đó. Nhưng hệ thống hiện tại cũng đâu có không thiên vị. Chỉ là chúng ta không đo sai sót của y tá. [shrug]
+helen: That's a fair point. So let's say we reject it. Would you call that the safer choice? | Ý đó xác đáng. Vậy cứ cho là chúng ta bác bỏ nó. Anh có gọi đó là lựa chọn an toàn hơn không? [thinking]
+wren: No. I'd call it choosing a harm we can't see over a harm we can. | Không. Tôi sẽ gọi đó là chọn một tác hại mà ta không nhìn thấy thay vì một tác hại mà ta nhìn thấy. [point]
+joan: Taken to its logical conclusion, that means approving anything that's slightly better on average. | Đẩy đến tận cùng thì điều đó có nghĩa là duyệt bất cứ thứ gì nhỉnh hơn một chút tính trung bình. [thinking]
+wren: Not anything. But I won't pretend a purely utilitarian argument has nothing to say. | Không phải bất cứ thứ gì. Nhưng tôi sẽ không giả vờ rằng một lập luận thuần vị lợi chẳng có gì đáng nói. [shake]
+joan: Would you still say that if the patients it missed were your own family? | Anh có còn nói thế không nếu những bệnh nhân nó bỏ sót là chính người nhà anh? [angry]
+wren: That's not fair, Joan. By that logic, I couldn't treat anyone. Everyone's patients are somebody's family. | Nói thế là không công bằng, bà Joan. Theo lô-gích đó thì tôi chẳng chữa được cho ai. Bệnh nhân của ai cũng là người nhà của một ai đó. [angry]
+helen: It's a hypothetical, Tomasz, not an accusation. She's asking whether the principle survives when it's personal. | Đó là một giả định, Tomasz, không phải lời buộc tội. Bà ấy đang hỏi liệu nguyên tắc có đứng vững khi chuyện trở nên cá nhân không. [explain]
+wren: All right. Honestly? No. If it were my brother, I'd want a nurse to look at him, whatever the screen said. | Được thôi. Thành thật mà nói? Không. Nếu đó là anh trai tôi, tôi sẽ muốn một y tá nhìn anh ấy, bất kể màn hình nói gì. [sad]
+joan: Then we agree on more than you think. The screen advises; the nurse decides. | Vậy thì chúng ta đồng ý với nhau nhiều hơn anh nghĩ. Màn hình tư vấn; y tá quyết định. [nod]
+helen: So where do you draw the line? What would make you switch it off? | Vậy anh vạch ranh giới ở đâu? Điều gì sẽ khiến anh tắt nó đi? [thinking]
+wren: If the gap between groups doesn't narrow within a year, I'd switch it off myself. | Nếu khoảng cách giữa các nhóm không thu hẹp trong vòng một năm, chính tôi sẽ tắt nó. [explain]
+joan: I'd like that written down as a stipulation, please. Not just said in a meeting. | Tôi muốn điều đó được ghi thành một điều kiện, làm ơn. Không chỉ nói miệng trong một cuộc họp. [point]
+wren: Fine. I don't condone the gap. I just don't believe refusing the tool will close it. | Được. Tôi không dung túng cho khoảng cách ấy. Tôi chỉ không tin rằng từ chối công cụ thì nó sẽ khép lại. [nod ipa=close:=]
+helen: And what if Gerald says the audits cost too much? | Còn nếu Gerald nói các đợt kiểm tra tốn kém quá thì sao? [thinking]
+joan: Then Gerald can explain to a homeless man why his life was a rounding error. | Thì ông Gerald cứ việc giải thích với một người vô gia cư vì sao mạng sống của ông ấy chỉ là một sai số làm tròn. [angry]
+wren: Remind me never to argue with a former headmistress. | Nhắc tôi đừng bao giờ tranh cãi với một cựu hiệu trưởng nhé. [happy]
+helen: I think we have our conditions. Shall we go back in and vote? | Tôi nghĩ chúng ta đã có các điều kiện. Chúng ta vào trong và bỏ phiếu nhé? [happy wren:happy joan:happy]
+gloss: sepsis, audits, blunt

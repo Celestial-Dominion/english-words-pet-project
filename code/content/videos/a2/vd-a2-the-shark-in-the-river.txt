@@ -1,0 +1,32 @@
+=== vd-a2-the-shark-in-the-river
+title: How Do We Know It's True? | Làm sao biết nó là thật?
+source: st-a2-the-shark-in-the-river
+summary: Phòng báo trường, sáng thứ Hai: Felix muốn đăng ngay tin cá mập, còn Yara hỏi từng câu để kiểm chứng.
+scene: office
+prop: laptop x=800
+cast: felix name=Felix look=teenboy x=520 voice=en-US-EricNeural pitch=+16Hz rate=+4% style.hair=fringe style.hairColor=#C8A165 style.outfit=shirt style.top=#4A90C2 style.topShade=#3B78A5
+cast: yara name=Yara look=teengirl x=1150 voice=en-US-AvaNeural pitch=+2Hz style.hair=long style.hairColor=#2B1B14 style.skin=#B98160 style.skinShade=#A06A4A style.glasses=true style.outfit=cardigan style.top=#C0504D style.topShade=#A64340
+names: Felix, Yara
+gloss: shark, sharks, fin
+words: photo; share; real; fake; expert; fact
+focus: Kiểm chứng thông tin
+pattern: Is that true? · Where did you see that? · How do we know …? · It might be fake. · Let's check.
+explain: Đặt câu hỏi để kiểm chứng: "Where did you see that?", "Who took it?", "How do we know it's real?". Nói khả năng bằng "might": "It might be fake" (có thể là giả). Đề nghị kiểm tra: "Let's check…", "Let's ask an expert."
+keys: is that true / where did you see / how do we know / might be fake / let's check
+
+felix: Yara, look! There's a shark in the river! | Yara, nhìn này! Có cá mập dưới sông! [surprised @laptop]
+yara: Really? Where did you see that? | Thật à? Cậu thấy ở đâu vậy? [surprised]
+felix: Online. Everyone's sharing this photo. | Trên mạng. Ai cũng đang chia sẻ bức ảnh này. [explain]
+yara: Hmm. Who took it? | Hừm. Ai chụp nó? [thinking]
+felix: I don't know. Does it matter? | Tớ không biết. Chuyện đó quan trọng à? [confused]
+yara: Of course it matters. How do we know it's real? | Tất nhiên là quan trọng. Làm sao mình biết nó là thật? [explain]
+felix: Because thousands of people have shared it! | Vì hàng nghìn người đã chia sẻ nó! [happy]
+yara: That doesn't make it true. It might be fake. | Thế đâu có nghĩa là nó thật. Nó có thể là ảnh giả. [shake]
+felix: But it looks so real. Look at that fin! | Nhưng trông thật lắm mà. Nhìn cái vây kìa! [surprised]
+yara: Can sharks even live in rivers? | Cá mập có sống được ở sông không nhỉ? [thinking ipa=live:lɪv]
+felix: I'm not sure. Maybe some can? | Tớ không chắc. Chắc vài loài được? [thinking]
+yara: Let's ask an expert before we write anything. | Mình hỏi chuyên gia trước khi viết gì đi. [explain]
+felix: OK. And let's check where the photo came from. | Được. Và mình kiểm tra xem bức ảnh từ đâu ra nữa. [nod]
+yara: Good idea. If it's fake, that's our story. | Ý hay đấy. Nếu nó là giả, đó chính là tin của mình. [happy]
+felix: A story about a shark that isn't there? | Một bài báo về con cá mập không hề có thật à? [confused]
+yara: Exactly. But first, the facts. | Chính xác. Nhưng trước hết là sự thật đã. [happy felix:thinking]

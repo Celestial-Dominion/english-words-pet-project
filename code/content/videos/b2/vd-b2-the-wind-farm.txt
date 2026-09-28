@@ -1,0 +1,35 @@
+=== vd-b2-the-wind-farm
+title: I Take Your Point, But… | Tôi hiểu ý ông, nhưng…
+source: st-b2-the-wind-farm
+summary: Trong uỷ ban của làng, ông George và Josh tranh luận về số tua-bin, khoảng cách và loài chim — mỗi người nhượng một bước để đi đến thoả hiệp.
+scene: service-hall
+prop: report x=800 y=640 scale=0.8
+cast: george name=George look=grandpa x=300 voice=en-US-RogerNeural pitch=-2Hz style.outfit=cardigan style.top=#7E5109 style.topShade=#6E4608 style.glasses=round
+cast: ruth name=Ruth look=woman x=800 voice=en-US-MichelleNeural pitch=-4Hz style.hair=short style.hairColor=#9A9A9A style.outfit=jacket style.top=#1E8449 style.topShade=#196F3D
+cast: josh name=Josh look=man x=1300 voice=en-US-BrianNeural style.hair=short style.hairColor=#6E4B2A style.outfit=shirt style.top=#2E86C1 style.topShade=#2874A6
+names: George, Ruth, Josh, Ashby Moor
+words: landscape; survey; concern; reasonable; acceptable; distance
+focus: Nhượng bộ một ý trong tranh luận rồi phản biện
+pattern: I take your point about…, but… · That may be true, but… · Fair enough · I'll grant you that… · Even so, … · You have a point there
+explain: Thừa nhận ý đối phương trước khi đưa lập luận của mình: "I take your point about the landscape, but…", "That may be true, but…". Nhượng bộ một phần: "Fair enough.", "I'll grant you that distance matters.", "You have a point there." Giữ lập trường sau khi nhượng bộ: "Even so, …".
+keys: i take your point / that may be true / fair enough / i'll grant you / even so / you have a point there
+
+ruth: Right. Let's discuss the number of turbines. George, you wanted to go first. | Được rồi. Chúng ta bàn về số lượng tua-bin. Ông George, ông muốn nói trước. [explain @report]
+george: Thank you. Eight turbines on that hill is simply too many. The landscape will be ruined. | Cảm ơn bà. Tám tua-bin trên ngọn đồi ấy đơn giản là quá nhiều. Cảnh quan sẽ bị phá hỏng. [angry]
+josh: I take your point about the landscape, but eight turbines would power thirty thousand homes. | Cháu hiểu ý ông về cảnh quan, nhưng tám tua-bin sẽ cấp điện cho ba mươi nghìn hộ gia đình. [explain]
+george: That may be true, but those homes aren't in Ashby Moor. We're the ones who'll have to look at them. | Có thể đúng, nhưng những ngôi nhà đó đâu ở Ashby Moor. Chính chúng tôi mới là người phải nhìn chúng. [shake]
+josh: Fair enough. The village does carry most of the cost. | Cũng phải. Làng đúng là gánh phần lớn cái giá. [nod]
+ruth: So what would you suggest, George? | Vậy ông đề xuất gì, ông George? [thinking]
+george: Fewer turbines, and much further from the houses. Two kilometers at least. | Ít tua-bin hơn, và xa nhà dân hơn nhiều. Ít nhất hai cây số. [point]
+josh: I'll grant you that distance matters. Noise drops significantly after the first kilometer. | Cháu công nhận khoảng cách là quan trọng. Tiếng ồn giảm đáng kể sau cây số đầu tiên. [nod]
+george: Well, I'm glad we agree on something! | Chà, mừng là chúng ta đồng ý được một điều! [surprised]
+josh: Even so, six turbines is the minimum the company will accept. Any fewer and it won't make a profit. | Dù vậy, sáu tua-bin là mức tối thiểu công ty chấp nhận. Ít hơn thì họ sẽ không có lãi. [explain]
+george: You have a point there. I'd rather have six than watch them leave and come back with a worse plan. | Cậu nói có lý. Thà có sáu cái còn hơn để họ bỏ đi rồi quay lại với một kế hoạch tệ hơn. [thinking]
+ruth: What about the birds? That was a genuine concern of yours. | Còn chuyện loài chim thì sao? Đó là mối lo chính đáng của ông. [thinking]
+george: It still is. Nobody has done a proper survey. | Vẫn vậy. Chưa ai làm một cuộc khảo sát tử tế cả. [worried]
+josh: That's a legitimate concern. An independent survey for a full year would answer it. | Đó là mối lo chính đáng. Một cuộc khảo sát độc lập kéo dài trọn một năm sẽ trả lời được. [nod]
+george: Independent? Not paid for by the company? | Độc lập ư? Không do công ty trả tiền à? [thinking]
+josh: Paid for by the company, but chosen by the village. Would that be acceptable? | Công ty trả tiền, nhưng làng chọn người làm. Như vậy có chấp nhận được không ạ? [explain]
+george: I suppose that's reasonable. Just don't expect me to vote for it. | Tôi cho là hợp lý. Chỉ đừng mong tôi bỏ phiếu ủng hộ. [shrug]
+ruth: Nobody's asking you to, George. You've read every document thoroughly. We're asking you to help make the plan better. | Không ai bắt ông phải thế, ông George. Ông đã đọc kỹ từng tài liệu. Chúng tôi chỉ nhờ ông giúp kế hoạch tốt hơn. [happy ipa=read:rɛd]
+gloss: turbines

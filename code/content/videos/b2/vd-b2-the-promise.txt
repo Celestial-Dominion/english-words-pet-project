@@ -1,0 +1,34 @@
+=== vd-b2-the-promise
+title: You've Got What It Takes | Anh có đủ bản lĩnh mà
+source: st-b2-the-promise
+summary: Cây số ba mươi hai, Danny dừng lại bên rào chắn và muốn bỏ cuộc; bà Bea và cậu bé Jamie động viên anh đi tiếp, từng cột đèn một.
+scene: street
+cast: danny name=Danny look=dad x=300 voice=en-US-GuyNeural pitch=-3Hz rate=-4% style.hair=short style.hairColor=#6E4B2A style.outfit=tee style.top=#2E86C1 style.topShade=#2874A6
+cast: bea name=Bea look=grandma x=820 voice=en-US-AriaNeural pitch=-6Hz rate=+4% style.outfit=jacket style.top=#E74C3C style.topShade=#CB4335
+cast: jamie name=Jamie look=boy x=1260 voice=en-US-AnaNeural pitch=+4Hz style.hair=short style.hairColor=#6E4B2A style.outfit=tee style.top=#F4D03F style.topShade=#D4AC0D
+names: Bea, Danny, Jamie, Kevin
+words: shame; tough; knee; hurt; believe; finish
+focus: Động viên người khác khi họ muốn bỏ cuộc
+pattern: You've got what it takes · Keep going! · You're nearly there! · Think how far you've come · I believe in you · Don't give up now · You can do this
+explain: Khẳng định năng lực: "You've got what it takes.", "I believe in you." Nhắc thành quả: "Think how far you've come." Thúc giục: "Keep going!", "Don't give up now.", "You're nearly there!" Chia nhỏ mục tiêu: "Just get to the next lamp post." Giảm áp lực: "There's no shame in walking."
+keys: you've got what it takes / keep going / you're nearly there / think how far you've come / i believe in you / don't give up now / you can do this
+
+danny: I can't do it, Bea. My knee's gone, and I'm utterly exhausted. I think I have to stop. | Tôi không làm nổi đâu, Bea. Đầu gối tôi hỏng rồi, và tôi kiệt sức hoàn toàn. Chắc tôi phải dừng thôi. [tired]
+bea: Danny, look at me. You've got what it takes. You've just run thirty-two kilometers! | Danny, nhìn tôi này. Anh có đủ bản lĩnh mà. Anh vừa chạy ba mươi hai cây số đấy! [explain]
+danny: And there are ten more. I can hardly walk. | Mà còn mười cây số nữa. Tôi gần như không đi nổi. [sad]
+jamie: Uncle Danny! Keep going! You're nearly there! | Bác Danny ơi! Cố lên! Sắp tới rồi! [cheer]
+bea: Think how far you've come. Ten months ago, you couldn't run for five minutes. | Nghĩ xem anh đã đi được bao xa. Mười tháng trước, anh không chạy nổi năm phút. [explain]
+danny: I know, but this is different. Every step hurts. | Tôi biết, nhưng lần này khác. Bước nào cũng đau. [tired]
+bea: Then don't think about ten kilometers. Forget your nerves and just get to the next lamp post. | Vậy đừng nghĩ đến mười cây số. Quên nỗi lo đi và cứ chạy đến cột đèn tiếp theo thôi. [point]
+danny: The next lamp post? | Cột đèn tiếp theo ư? [confused]
+bea: Exactly. Then the next one. Walk if you need to. There's no shame in walking. | Chính xác. Rồi đến cột tiếp theo. Cần thì cứ đi bộ. Đi bộ chẳng có gì đáng xấu hổ. [nod]
+jamie: I believe in you! Dad always said you were tougher than you looked. | Cháu tin bác! Bố cháu luôn nói bác cứng cỏi hơn vẻ ngoài nhiều. [happy]
+danny: Did he really say that? | Bố cháu thực sự nói vậy à? [surprised]
+jamie: All the time. Usually when you were eating cake. | Suốt ạ. Thường là lúc bác đang ăn bánh. [happy]
+danny: That sounds like him. He was genuinely funny. | Đúng là kiểu của nó. Nó thực sự rất hài hước. [happy]
+bea: Don't give up now, Danny. You've already done the hardest part. | Đừng bỏ cuộc lúc này, Danny. Anh đã vượt qua phần khó nhất rồi. [explain]
+danny: All right. Just to the next lamp post. | Được rồi. Chỉ đến cột đèn tiếp theo thôi. [nod]
+bea: That's it! You can do this. We'll see you at the finish. | Đúng rồi! Anh làm được mà. Chúng tôi sẽ đợi anh ở vạch đích. [cheer]
+jamie: Go, Uncle Danny! Do it for Dad! | Cố lên bác Danny! Vì bố cháu nhé! [cheer]
+danny: For Kevin. Here we go. | Vì Kevin. Đi nào. [happy bea:happy]
+gloss: lamp post

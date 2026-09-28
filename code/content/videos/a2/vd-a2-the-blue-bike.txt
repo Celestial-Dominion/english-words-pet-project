@@ -1,0 +1,31 @@
+=== vd-a2-the-blue-bike
+title: What Were You Doing? | Lúc đó em đang làm gì?
+source: st-a2-the-blue-bike
+summary: Ở đồn cảnh sát, cô Ruiz hỏi Dev từng chi tiết về lúc chiếc xe đạp biến mất.
+scene: office
+prop: notebook x=800
+cast: ruiz name="Officer Ruiz" vi="Cảnh sát Ruiz" look=woman x=540 voice=en-US-AriaNeural pitch=-2Hz style.hair=bun style.hairColor=#2B1B14 style.skin=#C98E68 style.skinShade=#B07650 style.outfit=uniform style.top=#2F4A7A style.topShade=#243B63 style.hat=police
+cast: dev name=Dev look=teenboy x=1160 voice=en-US-BrianNeural pitch=+14Hz style.hair=short style.hairColor=#1A1A1A style.skin=#9C6644 style.skinShade=#845436 style.outfit=tee style.top=#3FA34D style.topShade=#338A3F
+names: Dev, Ruiz
+gloss: hoodie, sticker
+words: happen; comic; wear; describe; seat; helpful
+focus: Kể lại sự việc: thì quá khứ tiếp diễn
+pattern: What were you doing when …? · I was …ing. · Was anyone …ing? · A man was …ing. · What was he wearing?
+explain: Quá khứ tiếp diễn (was/were + V-ing) tả việc ĐANG diễn ra tại một thời điểm trong quá khứ, làm nền cho sự việc chính: "I was looking at comics when someone stole my bike." Hỏi: "What were you doing?", "What was he wearing?".
+keys: what were you doing / i was / was anyone / was waiting / was he wearing
+
+ruiz: OK, Dev. Tell me what happened. | Được rồi, Dev. Kể cho cô nghe chuyện gì đã xảy ra. [neutral @notebook]
+dev: Someone stole my new bike outside the bookshop. | Ai đó đã lấy trộm chiếc xe đạp mới của em trước hiệu sách. [sad]
+ruiz: What time was it? | Lúc đó là mấy giờ? [thinking]
+dev: About half past ten this morning. | Khoảng mười rưỡi sáng nay ạ. [sad]
+ruiz: And what were you doing at that time? | Còn lúc đó em đang làm gì? [thinking]
+dev: I was looking at comics inside the shop. | Em đang xem truyện tranh trong cửa hàng. [explain]
+ruiz: Was anyone standing near your bike? | Có ai đứng gần xe của em không? [thinking]
+dev: Yes. A man was waiting across the street. | Có ạ. Một người đàn ông đang đứng đợi bên kia đường. [thinking]
+ruiz: What was he wearing? | Anh ta mặc gì? [thinking]
+dev: He was wearing a grey hoodie and black jeans. | Anh ta mặc áo hoodie xám và quần bò đen. [explain]
+ruiz: What was he doing? | Anh ta đang làm gì? [thinking]
+dev: He was talking on his phone and watching the shop. | Anh ta đang nói chuyện điện thoại và nhìn về phía cửa hàng. [worried]
+ruiz: Good. That's very helpful. Can you describe your bike? | Tốt. Thông tin này rất có ích. Em mô tả chiếc xe được không? [explain]
+dev: It's blue, and there's a lion sticker under the seat. | Nó màu xanh, và có một miếng dán hình sư tử dưới yên. [explain]
+ruiz: A lion? That's a very good detail. We'll do our best, Dev. | Sư tử à? Chi tiết đó rất hay. Chúng tôi sẽ cố hết sức, Dev ạ. [happy dev:happy]

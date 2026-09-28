@@ -1,0 +1,34 @@
+=== vd-b1-the-escape-room
+title: Let's Split Up! | Chia nhau ra nào!
+source: st-b1-the-escape-room
+summary: Còn bốn mươi lăm phút trong phòng thoát hiểm; Nora thôi ra lệnh và bắt đầu phân công, còn Ben thì phát hiện manh mối đầu tiên.
+scene: library
+cast: nora name=Nora look=woman x=540 voice=en-US-AriaNeural pitch=+2Hz rate=+4% style.hair=bob style.hairColor=#1F1A1C style.outfit=suit style.top=#6C3483 style.topShade=#5B2C6F
+cast: ben name=Ben look=man x=1140 voice=en-US-EricNeural pitch=+4Hz rate=+4% style.hair=fringe style.hairColor=#D9B26F style.outfit=shirt style.top=#E67E22 style.topShade=#CA6F1E
+names: Ben, Kit, Nora, Raj
+gloss: padlock
+words: split; code; teamwork; waste; drawer; pleased
+focus: Phân công và phối hợp theo nhóm
+pattern: Let's split up. · You take…, I'll… · Can you check…? · Let me know if you find anything. · Good thinking! · We're running out of time!
+explain: Chia việc: "Let's split up.", "You take the shelves; I'll take the desk." (will cho quyết định tức thì). Nhờ kiểm tra: "Can you check…?". Giữ liên lạc: "Let me know if you find anything." Khen nhanh: "Good thinking!". Báo gấp: "We're running out of time!"
+keys: let's split up / you take / i'll / can you check / let me know if / good thinking / running out of time
+
+nora: Stop, everyone! We've wasted fifteen minutes. This isn't working. | Dừng lại, mọi người! Chúng ta đã phí mười lăm phút rồi. Thế này không ổn. [angry]
+ben: Well, what do you suggest, boss? | Vậy sếp đề xuất gì nào? [thinking]
+nora: Let's split up. You take the shelves, and I'll take the door. | Chia nhau ra đi. Anh lo mấy cái kệ, còn tôi lo cánh cửa. [explain]
+ben: What about Raj and Kit? | Còn Raj và Kit thì sao? [thinking]
+nora: Raj can check the desk. And Kit wants to look at the map. | Raj kiểm tra cái bàn. Còn Kit muốn xem tấm bản đồ. [explain]
+ben: OK. What am I looking for? | Được. Tôi đang tìm cái gì vậy? [confused]
+nora: Anything strange. Let me know if you find anything. | Bất cứ thứ gì lạ. Có gì thì báo tôi nhé. [explain]
+ben: Wait! There's something inside this bottle. It's a small key! | Khoan! Có gì đó trong cái chai này. Một chiếc chìa khoá nhỏ! [surprised]
+nora: Good thinking, Ben! Can you check if it opens the desk drawer? | Khá lắm, Ben! Anh thử xem nó có mở được ngăn kéo bàn không? [happy]
+ben: Yes! It opens. There's a sheet of paper with lots of numbers. | Có! Mở được rồi. Có một tờ giấy đầy những con số. [happy cheer]
+nora: Give it to Raj. He's the numbers person. | Đưa cho Raj đi. Anh ấy là người của những con số mà. [explain]
+ben: Raj says it's a code. Every number is a letter. | Raj bảo đó là mật mã. Mỗi con số là một chữ cái. [explain]
+nora: Brilliant. How long do we have? | Tuyệt vời. Chúng ta còn bao lâu? [thinking]
+ben: Twenty minutes. We're running out of time! | Hai mươi phút. Sắp hết giờ rồi! [worried]
+nora: Don't panic. We're a team now. Kit, is there anything on the map? | Đừng hoảng. Giờ chúng ta là một đội. Kit, trên bản đồ có gì không? [explain]
+ben: She's found a town with four tiny numbers next to it! | Cô ấy tìm được một thị trấn có bốn con số tí hon bên cạnh! [surprised]
+nora: That's the code for the padlock. Quick, read them to me! | Đó là mã của ổ khoá. Nhanh lên, đọc cho tôi đi! [happy ipa=read:rid]
+ben: I can't believe it. This is actually good teamwork. Mr. Slate will be so pleased. | Không thể tin nổi. Đây mới thật sự là tinh thần đồng đội. Ông Slate sẽ vui lắm đây. [happy nora:happy]
+names: Slate

@@ -1,0 +1,36 @@
+=== vd-c1-the-breach
+title: To Put It Simply | Nói một cách đơn giản
+source: st-c1-the-breach
+summary: Trong cuộc họp khẩn, Callum giải thích cho bác sĩ Anita và ông thủ quỹ về mã độc tống tiền bằng những so sánh đời thường, rồi trình bày vì sao bệnh viện không nên trả tiền chuộc.
+scene: office
+prop: laptop x=800 y=640 scale=0.75
+cast: lowe name="Mr. Lowe" vi="Ông Lowe" look=grandpa x=300 voice=en-US-RogerNeural pitch=-9Hz rate=-5% style.hair=grandpa style.hairColor=#E0E0E0 style.outfit=suit style.top=#34495E style.topShade=#2C3E50 style.glasses=square
+cast: anita name="Dr. Rao" vi="Bác sĩ Rao" look=woman x=800 voice=en-US-AvaNeural pitch=-4Hz style.hair=long style.hairColor=#1A1A1A style.skin=#B98563 style.skinShade=#A47251 style.outfit=coat style.top=#FDFEFE style.topShade=#E5E8E8
+cast: callum name=Callum look=man x=1300 voice=en-US-SteffanNeural pitch=-1Hz rate=+2% style.hair=short style.hairColor=#C0392B style.outfit=shirt style.top=#5D6D7E style.topShade=#4D5B69
+names: Lowe, Rao, Callum, Anita, St Hilda's
+words: malware; compromised; vulnerability; extortion; contingency; regulator
+focus: Giải thích vấn đề kỹ thuật cho người không chuyên
+pattern: To put it simply, … · Think of it as… · In plain English, … · In other words, … · What this means for us is… · The bottom line is…
+explain: Đơn giản hoá: "To put it simply, …", "In plain English, …". Dùng hình ảnh so sánh: "Think of it as locked boxes…", "It's a bit like…". Diễn đạt lại: "In other words, …". Nối với tác động thực tế: "What this means for us is…". Chốt điều quan trọng nhất: "The bottom line is…". Kiểm tra người nghe hiểu chưa: "Does that make sense?".
+keys: to put it simply / think of it as / in plain english / in other words / what this means for us / the bottom line
+
+anita: Callum, most of the board aren't technical. Could you explain what's happened without the jargon? | Callum, phần lớn ban giám đốc không rành kỹ thuật. Anh có thể giải thích chuyện đã xảy ra mà không dùng thuật ngữ không? [explain]
+callum: Of course. To put it simply, criminals have locked every file on our network, and they want four million dollars for the key. | Tất nhiên. Nói một cách đơn giản, bọn tội phạm đã khoá mọi tệp trên mạng của chúng ta, và chúng muốn bốn triệu đô la để đổi lấy chìa khoá. [explain @laptop]
+lowe: Locked them? How can you lock something that isn't physical? | Khoá lại ư? Làm sao người ta khoá được một thứ không có hình thể? [confused]
+callum: Think of it as someone breaking in overnight, putting every document into boxes and taking the keys. The malware does that digitally. | Hãy hình dung có kẻ đột nhập trong đêm, bỏ mọi tài liệu vào hộp rồi mang theo chìa khoá. Phần mềm độc hại làm điều đó bằng kỹ thuật số. [explain lowe:thinking]
+anita: How did they get in? We spend a fortune on security. | Chúng vào bằng cách nào? Chúng ta chi cả gia tài cho an ninh. [worried]
+callum: Almost certainly through a fake email. Someone clicked a link, and that gave them a password. | Gần như chắc chắn là qua một email giả. Có người đã bấm vào một đường link, và thế là chúng có được mật khẩu. [explain]
+callum: Then they used a vulnerability in some old software to move around quietly for weeks. | Rồi chúng lợi dụng một lỗ hổng trong một phần mềm cũ để lặng lẽ di chuyển khắp nơi suốt nhiều tuần. [explain ipa=used:juzd]
+lowe: So in plain English, somebody left a window open, and the burglars have been living in the attic. | Vậy nói nôm na, ai đó để hở cửa sổ, và bọn trộm đã sống trên gác xép từ lâu. [thinking]
+callum: That's exactly it. In other words, we have to assume every system is compromised until we can prove otherwise. | Chính xác là vậy. Nói cách khác, chúng ta phải mặc định mọi hệ thống đều đã bị xâm phạm cho đến khi chứng minh được điều ngược lại. [nod]
+anita: What does that mean for patients this weekend? | Điều đó có ý nghĩa gì với bệnh nhân cuối tuần này? [worried]
+callum: What this means for us is paper and pens. The contingency plans are working, but everything takes three times as long. | Với chúng ta, điều đó có nghĩa là giấy và bút. Các kế hoạch dự phòng đang hoạt động, nhưng mọi việc đều mất gấp ba thời gian. [explain]
+lowe: The obvious question, then. If we pay, do we get our files back? | Vậy câu hỏi hiển nhiên là: nếu chúng ta trả tiền, chúng ta có lấy lại được tệp không? [thinking]
+callum: Possibly. But there's no guarantee, and paying funds the next attack on another hospital. It's extortion. | Có thể. Nhưng chẳng có gì bảo đảm, và trả tiền là tiếp tay cho cuộc tấn công tiếp theo vào một bệnh viện khác. Đó là tống tiền. [shake]
+anita: And the alternative? | Còn phương án thay thế? [thinking]
+callum: Our backups. Every night, copies are saved on servers that aren't connected to the main network. If they're clean, we rebuild from them. | Các bản sao lưu. Mỗi đêm, các bản sao được lưu trên những máy chủ không nối với mạng chính. Nếu chúng sạch, chúng ta dựng lại từ đó. [explain]
+lowe: How long would that take? | Việc đó mất bao lâu? [thinking]
+callum: Days, not hours. And they've threatened to publish patient records, so we must also inform the regulator within seventy-two hours. | Vài ngày, chứ không phải vài giờ. Và chúng đã doạ công bố hồ sơ bệnh nhân, nên chúng ta còn phải báo cho cơ quan quản lý trong vòng bảy mươi hai giờ. [explain ipa=records:=]
+anita: Does that make sense to everyone? Good. So what's the bottom line, Callum? | Mọi người đã hiểu cả chưa? Tốt. Vậy điều cốt lõi là gì, Callum? [nod]
+callum: The bottom line is: don't pay, restore from backups, and tell patients the truth. It will be slow, but it's the only safe way. | Điều cốt lõi là: không trả tiền, khôi phục từ bản sao lưu, và nói thật với bệnh nhân. Sẽ chậm, nhưng đó là cách an toàn duy nhất. [explain anita:happy]
+gloss: jargon, overnight, digitally, burglars, attic, backups, servers

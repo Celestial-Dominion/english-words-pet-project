@@ -1,0 +1,35 @@
+=== vd-c2-the-motion
+title: I Stand Corrected | Tớ xin nhận là mình sai
+source: st-c2-the-motion
+summary: Trong quán rượu sau trận chung kết, Eleanor và Kwame tranh luận tiếp về quyền của các dòng sông — Eleanor bị bắt bài một chi tiết, nhận sai gọn gàng rồi biến chính điều đó thành lý lẽ cho mình.
+scene: restaurant
+cast: eleanor name=Eleanor look=woman x=520 voice=en-US-AvaNeural pitch=+1Hz rate=+3% style.hair=ponytail style.hairColor=#7B3F00 style.outfit=blouse style.top=#1F618D style.topShade=#1A5276
+cast: kwame name=Kwame look=man x=1160 voice=en-US-AndrewNeural pitch=-2Hz rate=-3% style.hair=short style.hairColor=#1A1A1A style.skin=#5A3522 style.skinShade=#48291A style.outfit=jacket style.top=#6E2C00 style.topShade=#5B2500
+names: Eleanor, Kwame, Aoife, Cian, Whanganui, New Zealand
+words: concede; spurious; analogy; accountability; cogent; posturing
+focus: Nhận sai hoặc nhượng bộ có giới hạn một cách lịch thiệp, rồi biến sự nhượng bộ thành lợi thế cho lập luận
+pattern: I stand corrected. · Point taken. · You've got me there. · I'll concede that much. · That's a fair point, as far as it goes. · Be that as it may, …
+explain: Khi bị chứng minh là sai về sự kiện, nhận gọn: "I stand corrected.", "You've got me there." Khi chỉ nhượng một phần, nói rõ giới hạn: "I'll concede that much.", "That's a fair point, as far as it goes." Rồi quay lại lập trường: "Be that as it may, …". Người giỏi tranh luận còn dùng chính điều vừa nhận để củng cố luận điểm của mình — nhượng bộ đúng lúc làm phần còn lại đáng tin hơn.
+keys: stand corrected / point taken / got me there / concede that much / as far as it goes / be that as it may
+
+kwame: So, best speaker. Congratulations, even if your side lost. | Vậy là cá nhân xuất sắc nhất. Chúc mừng cậu, dù phe cậu thua. [happy]
+eleanor: Thank you. And congratulations to you and Aoife. You deserved it tonight. | Cảm ơn cậu. Và chúc mừng cậu với Aoife. Tối nay các cậu xứng đáng thắng. [happy]
+kwame: I still think your opening argument was weak, though. The corporation analogy is hardly spurious. | Nhưng tớ vẫn nghĩ lập luận mở đầu của cậu yếu. Phép so sánh với tập đoàn khó mà gọi là giả tạo. [shrug]
+eleanor: I'll concede that much. A company is a fiction too. That's why I dropped the joke about the weather. | Tớ thừa nhận chừng ấy. Một công ty cũng là hư cấu. Vì thế tớ mới bỏ câu đùa về thời tiết. [nod]
+kwame: Very wise. It would have been pure posturing after what I'd said. | Rất khôn ngoan. Sau những gì tớ nói, nó sẽ chỉ là làm màu thuần tuý. [happy]
+eleanor: Point taken. But I haven't conceded everything. Who does the river actually answer to? | Tớ ghi nhận. Nhưng tớ chưa nhượng bộ hết đâu. Rốt cuộc dòng sông phải chịu trách nhiệm trước ai? [thinking]
+kwame: Its guardians answer to a statute. That's more accountability than most companies face. | Người giám hộ của nó chịu ràng buộc bởi một đạo luật. Như thế còn nhiều trách nhiệm giải trình hơn phần lớn các công ty. [explain]
+eleanor: Be that as it may, a statute only works if people trust the ones who wrote it. | Dù vậy, một đạo luật chỉ có tác dụng nếu người ta tin những người đã viết ra nó. [thinking]
+kwame: And in New Zealand they did. The Māori campaigned for over a century. | Và ở New Zealand thì người ta tin. Người Māori đã vận động hơn một thế kỷ. [explain]
+eleanor: Over a century? I thought it was about forty years. | Hơn một thế kỷ ư? Tớ tưởng khoảng bốn mươi năm thôi. [surprised]
+kwame: The first petitions go back to the 1870s. I checked while you were preparing. | Những bản kiến nghị đầu tiên có từ thập niên 1870. Tớ đã kiểm tra trong lúc cậu chuẩn bị. [point]
+eleanor: Then I stand corrected. You've got me there, and it actually helps my point. | Vậy thì tớ nhận là mình sai. Cậu bắt bài tớ rồi, và thực ra điều đó còn giúp luận điểm của tớ. [nod]
+kwame: How? | Sao lại thế? [confused]
+eleanor: Because it took a century of history to make it work. You can't simply copy that onto another river. | Vì phải mất cả thế kỷ lịch sử mới làm nó hiệu quả được. Cậu không thể đơn giản sao chép điều đó sang một dòng sông khác. [explain]
+kwame: That's a fair point, as far as it goes. But you could argue the law creates the relationship over time. | Ý đó đúng, trong chừng mực của nó. Nhưng có thể lập luận rằng luật pháp sẽ dần tạo ra mối quan hệ ấy theo thời gian. [explain]
+eleanor: I could. It's a cogent argument. I just don't find it convincing yet. | Có thể. Đó là một lập luận chặt chẽ. Chỉ là tớ chưa thấy nó thuyết phục. [shrug]
+kwame: That's the most polite disagreement I've ever heard from you. | Đó là lời phản đối lịch sự nhất tớ từng nghe từ cậu. [happy]
+eleanor: Don't tell anyone. My reputation depends on being unbearable. | Đừng kể với ai. Danh tiếng của tớ phụ thuộc vào việc tớ khó chịu không chịu nổi. [happy]
+kwame: Your secret is safe. But admit it, tonight was more fun than winning. | Bí mật của cậu an toàn. Nhưng thừa nhận đi, tối nay vui hơn cả chiến thắng. [point]
+eleanor: You've got me there too. Though if you quote me, I'll deny it. | Lần này cậu cũng bắt bài tớ rồi. Nhưng nếu cậu trích lời tớ, tớ sẽ chối. [happy kwame:happy]
+gloss: guardians, statute, petitions, unbearable

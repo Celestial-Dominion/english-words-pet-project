@@ -1,0 +1,35 @@
+=== vd-c1-the-fact-checker
+title: It Doesn't Add Up | Không khớp chút nào
+source: st-c1-the-fact-checker
+summary: Joel trình bày với bà tổng biên tập Constance vì sao câu chuyện trang bìa của ngôi sao Sebastian không đứng vững: từng nguồn tin được soi xét, và không nguồn nào kiểm chứng được một cách độc lập.
+scene: office
+prop: laptop x=800 y=640 scale=0.75
+cast: joel name=Joel look=man x=520 voice=en-US-EricNeural pitch=+2Hz rate=+2% style.hair=fringe style.hairColor=#3B2314 style.outfit=cardigan style.top=#2E4053 style.topShade=#273746 style.glasses=round
+cast: constance name=Constance look=woman x=1160 voice=en-US-MichelleNeural pitch=-7Hz rate=-3% style.hair=short style.hairColor=#9E9E9E style.outfit=suit style.top=#641E16 style.topShade=#512E1B style.glasses=square
+names: Joel, Constance, Sebastian, Kaalak, Greenland, Aputsiaq, Liam, Chicago
+words: verify; credibility; anomaly; scrutiny; deception; plausible
+focus: Đánh giá độ tin cậy của thông tin và chất vấn nguồn tin
+pattern: According to whom? · Can it be independently verified? · That doesn't add up · Where did that come from? · I'd take that with a pinch of salt · Is anyone willing to go on the record?
+explain: Hỏi nguồn: "According to whom?", "Where did that come from?". Đòi kiểm chứng: "Can it be independently verified?", "Is anyone willing to go on the record?". Chỉ ra mâu thuẫn: "That doesn't add up." Giữ hoài nghi có chừng mực: "I'd take that with a pinch of salt." Phân biệt "hợp lý" (plausible) với "đã được kiểm chứng" (verified).
+keys: according to whom / independently verified / doesn't add up / where did that come from / pinch of salt / on the record
+
+constance: You asked to see me urgently, Joel. Is this about the December cover? | Anh xin gặp tôi gấp, Joel. Có phải chuyện trang bìa tháng Mười Hai không? [explain]
+joel: It is. I'm sorry. I've been trying to verify Sebastian's story for a week, and I can't. | Đúng vậy. Tôi xin lỗi. Tôi đã cố xác minh câu chuyện của Sebastian suốt một tuần, và tôi không thể. [shy @laptop]
+constance: Sebastian has won two national awards. You'll need more than a feeling. | Sebastian đã giành hai giải thưởng quốc gia. Anh sẽ cần nhiều hơn một cảm giác. [thinking]
+joel: I know. Let's start with the village. Kaalak doesn't appear on any official map of Greenland. | Tôi biết. Hãy bắt đầu với ngôi làng. Kaalak không xuất hiện trên bất kỳ bản đồ chính thức nào của Greenland. [explain]
+constance: He'd say it's a local nickname. That's perfectly plausible. | Cậu ta sẽ nói đó là tên gọi địa phương. Điều đó hoàn toàn hợp lý. [shrug]
+joel: He did say that. Plausible, yes. But can it be independently verified? Nobody in the district has heard of it. | Anh ta đã nói vậy. Hợp lý thì có. Nhưng có thể xác minh độc lập không? Không ai trong huyện từng nghe về nó. [explain]
+constance: What about the teenagers? According to whom did this station exist? | Còn đám thiếu niên thì sao? Theo lời ai mà đài phát thanh này tồn tại? [thinking]
+joel: According to Sebastian, and to a founder called Aputsiaq. His number goes to a voicemail with an American accent. | Theo lời Sebastian, và theo một người sáng lập tên Aputsiaq. Số điện thoại của cậu ta dẫn đến một hộp thư thoại giọng Mỹ. [explain]
+constance: That's an anomaly, but people travel. I'd take one strange voicemail with a pinch of salt. | Đó là một điểm bất thường, nhưng người ta vẫn đi đây đi đó. Tôi sẽ không quá tin vào một hộp thư thoại lạ. [nod]
+joel: So would I. Then there's the website with the recordings. It was created seven weeks ago, in Chicago. | Tôi cũng vậy. Rồi đến trang web có các bản ghi. Nó được lập bảy tuần trước, ở Chicago. [explain]
+constance: Where did that come from? | Thông tin đó từ đâu ra? [surprised]
+joel: The public registration records. The company's only director is a man named Liam Vane. Sebastian's brother. | Hồ sơ đăng ký công khai. Giám đốc duy nhất của công ty là một người tên Liam Vane. Em trai của Sebastian. [explain constance:surprised ipa=records:=]
+constance: That doesn't add up at all. Or rather, it adds up far too neatly. | Chuyện đó chẳng khớp chút nào. Hay đúng hơn, nó khớp một cách quá hoàn hảo. [angry]
+joel: Under closer scrutiny, the recordings have problems too. The weather warnings describe storms on days that were calm. | Soi xét kỹ hơn, các bản ghi cũng có vấn đề. Những cảnh báo thời tiết mô tả bão vào những ngày trời yên ả. [explain]
+constance: Is anyone in Greenland willing to go on the record about any of this? | Có ai ở Greenland sẵn sàng lên tiếng chính thức về bất kỳ điều gì trong chuyện này không? [thinking ipa=record:=]
+joel: No one I've found. I may be wrong. But I can't find a single fact I can confirm without Sebastian. | Tôi chưa tìm được ai. Có thể tôi sai. Nhưng tôi không tìm được một sự kiện nào có thể xác nhận mà không cần đến Sebastian. [worried]
+constance: If this is a deception, our credibility depends on finding out before readers do. Have you checked his earlier articles? | Nếu đây là một vụ lừa dối, uy tín của chúng ta phụ thuộc vào việc phát hiện ra trước độc giả. Anh đã kiểm tra những bài viết trước của cậu ta chưa? [explain]
+joel: Not yet. | Chưa ạ. [shy]
+constance: Then start tonight. And Joel, you did exactly the right thing by bringing this to me. | Vậy hãy bắt đầu từ tối nay. Và Joel này, anh đã làm hoàn toàn đúng khi mang chuyện này đến cho tôi. [nod joel:happy]
+gloss: voicemail, registration, district, nickname

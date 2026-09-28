@@ -1,0 +1,39 @@
+=== vd-c2-the-heckler
+title: Let Me Finish, If I May | Cho phép tôi nói hết
+source: st-c2-the-heckler
+summary: Giữa buổi nói chuyện ở Cwmderyn, Ingrid bị Gareth ngắt lời — cô giữ quyền nói hết ý một cách lịch sự, rồi nhường sân khấu, lắng nghe và trả lời thẳng vào điều ông thật sự muốn nói.
+scene: stage
+cast: ingrid name=Ingrid look=woman x=520 voice=en-US-EmmaNeural pitch=-2Hz rate=-2% style.hair=bun style.hairColor=#E6C47A style.outfit=coat style.top=#2E4053 style.topShade=#273746 style.glasses=square
+cast: gareth name=Gareth look=man x=1160 voice=en-US-BrianNeural pitch=-5Hz rate=-3% style.hair=short style.hairColor=#9E9E9E style.outfit=jacket style.top=#4D5656 style.topShade=#424949 style.hat=cap
+names: Ingrid, Gareth, Solberg, Cardiff
+words: inexorable; lament; parochial; marginalized; subsidy; confrontational
+focus: Giữ lượt nói khi bị ngắt lời và đáp lại câu hỏi gay gắt một cách lịch sự nhưng vững vàng
+pattern: Let me finish this point, if I may. · I hear you, and I'll come back to that. · That's a fair point, and it deserves a proper answer. · With respect, that's not quite what I said. · Sorry, go ahead. · The floor is yours.
+explain: Khi bị ngắt lời, đừng cao giọng: ghi nhận rồi giữ lượt, "I hear you. Let me finish this point, if I may, and then I'll come back to you." Khi bị hiểu sai: "With respect, that's not quite what I said." Nhường lượt đúng lúc: "The floor is yours." Nếu chính mình lỡ ngắt lời: "Sorry, go ahead."
+keys: if i may / i hear you / come back to / deserves a proper answer / with respect / go ahead
+
+ingrid: The logic is inexorable. If we keep burning coal, the warming continues, which is why the remaining mines will have to close. | Lô-gích ấy là không thể cưỡng lại. Nếu chúng ta tiếp tục đốt than, trái đất sẽ tiếp tục nóng lên, và đó là lý do các mỏ còn lại sẽ phải đóng cửa. [explain ipa=close:=]
+gareth: Easy for you to say! You've got a job for life. Who's paying for your graph? We are. | Cô nói thì dễ lắm! Cô có việc làm cả đời. Ai trả giá cho cái biểu đồ của cô? Chúng tôi đây. [angry point]
+ingrid: I hear you, and I don't want to brush that aside. Let me finish this point, if I may, and then I'll come straight back to you. | Tôi nghe ông nói, và tôi không muốn gạt điều đó sang một bên. Cho phép tôi nói nốt ý này, rồi tôi sẽ quay lại với ông ngay. [nod]
+gareth: You'll come back to me? That'll be a first. Nobody comes back to this valley. | Cô sẽ quay lại với tôi à? Thế thì là lần đầu đấy. Chẳng ai quay lại thung lũng này cả. [angry]
+ingrid: Then let me be the first. Two minutes, and then the floor is yours. | Vậy hãy để tôi là người đầu tiên. Hai phút thôi, rồi ông cứ việc nói. [explain]
+ingrid: Right, I've finished. Come up here, if you like. What did you want to say? | Được rồi, tôi nói xong rồi. Mời ông lên đây, nếu ông muốn. Ông muốn nói gì? [wave]
+gareth: I drove trucks at that mine for thirty-one years. Then one morning they told me my job had gone. | Tôi lái xe tải ở cái mỏ đó ba mươi mốt năm. Rồi một buổi sáng họ bảo tôi rằng công việc của tôi không còn nữa. [sad]
+ingrid: That must have been a terrible morning. What happened to the others? | Hẳn đó là một buổi sáng tồi tệ. Chuyện gì đã xảy ra với những người khác? [sad]
+gareth: Three of my mates never worked again. They offered us training in Cardiff, ninety minutes each way on a bus that runs twice a day. | Ba người bạn của tôi chẳng bao giờ đi làm lại được. Họ mở lớp đào tạo cho chúng tôi ở Cardiff, chín mươi phút mỗi chiều trên một chiếc xe buýt mỗi ngày chạy hai chuyến. [angry]
+ingrid: That's a fair point, and it deserves a proper answer, not a graph. | Đó là một ý xác đáng, và nó xứng đáng có một câu trả lời thật sự, chứ không phải một cái biểu đồ. [nod]
+gareth: Go on, then. Tell me how the planet needs me to be out of work. | Nói đi. Nói cho tôi biết hành tinh cần tôi thất nghiệp như thế nào. [angry shrug]
+ingrid: With respect, that's not quite what I said. I said the mines will close. I didn't say you should pay for it alone. | Xin lỗi ông, đó không hẳn là điều tôi nói. Tôi nói các mỏ sẽ đóng cửa. Tôi không nói ông phải một mình gánh cái giá đó. [explain ipa=close:=]
+gareth: But we are paying for it alone. You think we're parochial because we want to stay where we were born. | Nhưng chúng tôi đang một mình gánh nó. Các người nghĩ chúng tôi thiển cận vì chúng tôi muốn ở lại nơi mình sinh ra. [sad]
+gareth: People like you lament the planet, and nobody laments us. | Những người như cô than khóc cho hành tinh, còn chẳng ai than khóc cho chúng tôi. [sad]
+ingrid: You're right that promises were broken here. The subsidy went to consultants, and the jobs went somewhere else. | Ông nói đúng rằng những lời hứa đã bị phá vỡ ở đây. Tiền trợ cấp đổ vào túi các nhà tư vấn, còn việc làm thì đi nơi khác. [sad]
+gareth: So you admit it. | Vậy là cô thừa nhận. [surprised]
+ingrid: I do. But I'd be misleading you if I said the physics had changed because the politics was unfair. | Tôi thừa nhận. Nhưng tôi sẽ đánh lừa ông nếu nói rằng vật lý đã thay đổi chỉ vì chính trị bất công. [explain]
+gareth: Hang on, let me finish. I'm not arguing with your science. My granddaughter would never forgive me. | Khoan, để tôi nói hết. Tôi không cãi khoa học của cô. Cháu gái tôi sẽ không bao giờ tha thứ cho tôi. [shake]
+ingrid: Sorry, go ahead. I interrupted you, which is exactly what I asked you not to do. | Xin lỗi, ông cứ nói. Tôi đã ngắt lời ông, đúng điều tôi vừa xin ông đừng làm. [shy]
+gareth: I'm saying the mine closed as if we didn't matter. We've been marginalized for forty years. | Tôi đang nói rằng cái mỏ đã đóng cửa như thể chúng tôi chẳng đáng gì. Chúng tôi bị gạt ra bên lề suốt bốn mươi năm. [sad]
+ingrid: Then that's what we should be arguing about: who pays, how much and when. Not whether the climate is changing. | Vậy đó mới là điều chúng ta nên tranh luận: ai trả giá, trả bao nhiêu và khi nào. Chứ không phải khí hậu có đang thay đổi hay không. [explain]
+gareth: Fair enough. I came here to be confrontational, you know. You've spoiled my evening. | Được thôi. Cô biết không, tôi đến đây để gây sự đấy. Cô làm hỏng buổi tối của tôi rồi. [happy]
+ingrid: Then come and spoil the government's evening with me instead. They need to hear this more than I do. | Vậy thì hãy cùng tôi làm hỏng buổi tối của chính phủ. Họ cần nghe điều này hơn tôi. [happy]
+gareth: You're braver than you look, Dr Solberg. | Cô can đảm hơn vẻ ngoài đấy, tiến sĩ Solberg. [happy ingrid:happy]
+gloss: graph, consultants, misleading

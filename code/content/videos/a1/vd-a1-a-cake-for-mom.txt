@@ -1,0 +1,30 @@
+=== vd-a1-a-cake-for-mom
+title: Let's Make Something Else! | Mình làm món khác đi!
+source: st-a1-a-cake-for-mom
+summary: Chiếc bánh sinh nhật mặn chát vì nhầm muối với đường — còn một tiếng nữa mẹ về, bố và hai chị em phải nghĩ ra món khác.
+scene: kitchen
+prop: cake x=840
+cast: ruby name=Ruby look=girl x=360 voice=en-US-AnaNeural style.hair=ponytail style.hairColor=#7A4A2A style.top=#F08FB0
+cast: finn name=Finn look=boy x=600 voice=en-US-AnaNeural pitch=-12Hz style.hairColor=#C98A3C style.top=#5DBB63 style.topShade=#4AA350 style.collar=#4AA350
+cast: dad name=Dad vi=Bố look=dad x=1160 voice=en-US-GuyNeural style.top=#4F8FD8 style.topShade=#3C77BD style.collar=#EAF2FB
+gloss: salt, yuck
+words: terrible; sugar; fruit; idea; salt = muối
+focus: Đưa ra gợi ý với "Let's"
+pattern: Let's + động từ… · Let's not + động từ… · Good idea!
+explain: "Let's" (= let us) rủ mọi người cùng làm một việc, theo sau là động từ nguyên thể: "Let's make…", "Let's use…". Đồng ý thì đáp "Good idea!" hoặc "OK!".
+keys: let's / good idea
+
+finn: Mmm… Oh no! This cake is terrible! | Ưm… Ôi không! Cái bánh này kinh quá! [surprised @cake]
+ruby: What? Let me try. | Sao cơ? Để chị nếm thử. [confused]
+ruby: Yuck! It is not sweet at all! | Eo ơi! Chẳng ngọt tí nào! [angry shake]
+dad: Finn, what did you put in the cake? | Finn, con cho gì vào bánh thế? [thinking]
+finn: The sugar, Dad. From the white box. | Đường ạ. Ở trong hộp màu trắng. [shy]
+dad: The white box? That is the salt! | Hộp màu trắng á? Đó là muối mà! [surprised]
+ruby: Mom is coming home at twelve. What can we do? | Mười hai giờ mẹ về rồi. Mình làm gì bây giờ? [worried ~clock:11:00]
+dad: Don't worry. Let's make something else. | Đừng lo. Mình làm món khác đi. [thinking]
+finn: Let's use fruit! We have apples and bananas. | Mình dùng trái cây đi! Nhà có táo với chuối mà. [happy ipa=use:juz]
+ruby: And ice cream! | Còn kem nữa! [happy]
+ruby: Let's put the fruit on the ice cream. | Mình xếp trái cây lên kem đi. [happy]
+dad: Good idea, Ruby! Can you cut the bananas? | Ý hay đấy, Ruby! Con cắt chuối được không? [nod]
+ruby: OK! Finn, you wash the apples. | Vâng ạ! Finn, em rửa táo nhé. [explain]
+finn: OK. But let's not use the white box! | Vâng. Nhưng đừng dùng cái hộp trắng nữa nhé! [happy cheer dad:happy ruby:happy ipa=use:juz]

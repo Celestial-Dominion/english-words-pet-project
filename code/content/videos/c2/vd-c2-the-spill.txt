@@ -1,0 +1,39 @@
+=== vd-c2-the-spill
+title: I Take Full Responsibility | Tôi xin chịu hoàn toàn trách nhiệm
+source: st-c2-the-spill
+summary: Trong buổi họp ở toà thị chính, Rachel xin lỗi người dân Fennbridge một cách trọn vẹn — nhận lỗi rõ ràng, nói không vòng vo, và hứa những điều có thể kiểm chứng; Megan chất vấn đến cùng.
+scene: service-hall
+cast: rachel name=Rachel look=woman x=520 voice=en-US-MichelleNeural pitch=-3Hz rate=-3% style.hair=bob style.hairColor=#4E342E style.outfit=suit style.top=#1B2631 style.topShade=#161F28
+cast: megan name=Megan look=woman x=1160 voice=en-US-JennyNeural pitch=+1Hz rate=+3% style.hair=ponytail style.hairColor=#B03A2E style.outfit=coat style.top=#196F3D style.topShade=#145A32
+names: Rachel, Megan, Calder, Fenn, Fennbridge, Owen
+words: euphemism; foreseeable; accountability; palpable; stringent; devastation
+focus: Xin lỗi công khai có trách nhiệm: nhận lỗi rõ ràng, không bào chữa, cam kết cụ thể có thể kiểm chứng
+pattern: I take full responsibility for… · There's no excuse for… · We got this wrong. · I won't insult you by… · Here's what we will do… · Judge us by what we do.
+explain: Một lời xin lỗi công khai đáng tin nêu rõ AI sai và SAI GÌ: "We got this wrong", "I take full responsibility for…". Không kèm "nhưng" hay lời bào chữa: "There's no excuse for…". Tránh uyển ngữ kiểu "any impact" — hãy gọi đúng tên sự việc. Cam kết phải cụ thể và kiểm chứng được: "Here's what we will do…", rồi mời người nghe giám sát: "Judge us by what we do."
+keys: take full responsibility / no excuse / got this wrong / won't insult you / here's what we will do / judge us by
+
+megan: You've come a long way to tell us you regret any environmental impact, I suppose. | Chắc bà đã lặn lội đến đây để nói với chúng tôi rằng bà tiếc về bất kỳ tác động môi trường nào. [angry]
+rachel: No. I won't insult you with that kind of euphemism. Your river is dead for eight kilometres. | Không. Tôi sẽ không xúc phạm các bạn bằng kiểu nói tránh đó. Dòng sông của các bạn đã chết suốt tám kilômét. [explain]
+megan: And whose fault is that? | Vậy đó là lỗi của ai? [angry]
+rachel: Ours. Mine, specifically. We got this wrong, and I take full responsibility for it. | Của chúng tôi. Cụ thể là của tôi. Chúng tôi đã sai, và tôi xin chịu hoàn toàn trách nhiệm. [nod]
+megan: Your press release called it an unforeseen incident. | Thông cáo báo chí của bà gọi đó là một sự cố không lường trước. [point]
+rachel: That draft will not be published. The failure was entirely foreseeable. An engineer warned us eighteen months ago. | Bản dự thảo đó sẽ không được công bố. Sự cố hoàn toàn có thể lường trước. Một kỹ sư đã cảnh báo chúng tôi mười tám tháng trước. [explain]
+megan: Then why wasn't the valve replaced? | Vậy sao chiếc van không được thay? [confused]
+rachel: Because the work was postponed to save money, under a budget I approved. There's no excuse for that. | Vì việc thay thế bị hoãn để tiết kiệm tiền, theo một ngân sách do tôi phê duyệt. Không có lời bào chữa nào cho điều đó. [sad ipa=excuse:ɪkˈskjus]
+megan: You do realize how angry people are? You can feel it in this room. | Bà có nhận ra mọi người giận dữ thế nào không? Có thể cảm nhận nó ngay trong căn phòng này. [angry]
+rachel: The anger is palpable, and it's justified. I'd be angry too if I'd seen that devastation. | Cơn giận có thể cảm nhận rõ, và nó chính đáng. Tôi cũng sẽ giận nếu tôi chứng kiến cảnh tàn phá đó. [nod]
+megan: Words are cheap. What are you actually going to do? | Lời nói thì rẻ. Bà thực sự sẽ làm gì? [thinking]
+rachel: Here's what we will do. We'll pay for the full restoration of the river, however long it takes. | Đây là những gì chúng tôi sẽ làm. Chúng tôi sẽ chi trả cho việc phục hồi toàn bộ dòng sông, dù mất bao lâu. [explain]
+megan: Supervised by whom? Your own consultants? | Ai giám sát? Các chuyên gia tư vấn của chính bà ư? [shrug]
+rachel: By an independent panel that includes local anglers. We'd like you to join it, if you're willing. | Bởi một hội đồng độc lập có cả những người câu cá địa phương. Chúng tôi mong cô tham gia, nếu cô sẵn lòng. [explain]
+megan: That's a clever way to keep your critics quiet. | Đó là một cách khôn khéo để khiến những người chỉ trích bà im lặng. [thinking]
+rachel: It's a way to keep us honest. Real accountability means people who don't trust us checking the figures. | Đó là cách để giữ chúng tôi trung thực. Trách nhiệm giải trình thực sự nghĩa là những người không tin chúng tôi được kiểm tra số liệu. [explain]
+megan: And the other plants? The same valves are probably rusting elsewhere. | Còn các nhà máy khác? Những chiếc van như thế có lẽ cũng đang rỉ sét ở nơi khác. [worried]
+rachel: Every valve of that age will be replaced within a year, and we'll publish stringent monitoring results every month. | Mọi chiếc van cùng đời sẽ được thay trong vòng một năm, và chúng tôi sẽ công bố kết quả quan trắc nghiêm ngặt hằng tháng. [explain]
+megan: Why should anyone believe a word of this? | Tại sao ai lại phải tin bất kỳ lời nào trong số này? [angry]
+rachel: You shouldn't, yet. Judge us by what we do, not by what I say tonight. | Cô chưa nên tin. Hãy đánh giá chúng tôi bằng những gì chúng tôi làm, không phải bằng những gì tôi nói tối nay. [nod]
+megan: Your lawyers must be furious with you. | Các luật sư của bà hẳn đang điên tiết với bà. [surprised]
+rachel: They are. Admitting fault is expensive. But I'd rather pay for honesty than for a cover-up. | Đúng vậy. Nhận lỗi thì tốn kém. Nhưng tôi thà trả giá cho sự trung thực còn hơn cho một vụ che đậy. [explain]
+megan: I'll join your panel. But don't expect me to be polite. | Tôi sẽ tham gia hội đồng của bà. Nhưng đừng mong tôi lịch sự. [thinking]
+rachel: I'd be disappointed if you were. Thank you. | Tôi sẽ thất vọng nếu cô lịch sự. Cảm ơn cô. [happy megan:neutral]
+gloss: environmental, press release, unforeseen, incident, draft, valve, postponed, justified, restoration, supervised, consultants, panel, anglers, rusting, monitoring, cover-up

@@ -1,0 +1,35 @@
+=== vd-c1-the-year-off
+title: I Took a Year Out | Tôi đã nghỉ một năm
+source: st-c1-the-year-off
+summary: Trong buổi phỏng vấn cho vị trí trưởng bộ phận pháp lý, Olivia không che giấu năm hái nho ở Bồ Đào Nha mà biến nó thành câu chuyện về điều cô có thể mang đến cho quỹ.
+scene: office
+prop: notebook x=840
+cast: ruth name=Ruth look=woman x=520 voice=en-US-AvaNeural pitch=-8Hz rate=-4% style.hair=bun style.hairColor=#1A1A1A style.skin=#6E4127 style.skinShade=#58321D style.outfit=suit style.top=#6E2C00 style.topShade=#5A2400 style.glasses=round
+cast: olivia name=Olivia look=woman x=1160 voice=en-US-JennyNeural pitch=+1Hz style.hair=long style.hairColor=#C49A6C style.outfit=blouse style.top=#AED6F1 style.topShade=#9CC4DF
+names: Ruth, Olivia, Grant, Whitfield, Douro, Portugal, Luca, Clearwater
+words: litigation; statute; clarity; tenure; instrumental; candid
+focus: Phỏng vấn vị trí cấp cao: nêu thành tích và giải thích khoảng trống sự nghiệp
+pattern: I took a year out to… · To be perfectly honest, … · I was instrumental in… · In hindsight, … · What I'd bring to the role is… · I'd describe my approach as…
+explain: Giải thích khoảng trống thẳng thắn, không xin lỗi: "I took a year out to recover / to work on…". Nhấn thành tích bằng động từ mạnh: "I was instrumental in…", "I led…". Nhìn lại có suy ngẫm: "In hindsight, I should have…". Kết nối kinh nghiệm với vị trí: "What I'd bring to the role is…". Mô tả phong cách làm việc: "I'd describe my approach as…". Tránh nói dối hay tô vẽ khoảng trống.
+keys: took a year out / perfectly honest / instrumental in / in hindsight / bring to the role / describe my approach
+
+ruth: Your CV is impressive, Ms. Marsh, until last year. Then there's a gap of twelve months. | Hồ sơ của cô rất ấn tượng, cô Marsh, cho đến năm ngoái. Rồi có một khoảng trống mười hai tháng. [explain @notebook]
+olivia: That's right. I took a year out to work on a vineyard in Portugal. | Đúng vậy. Tôi đã nghỉ một năm để làm ở một vườn nho tại Bồ Đào Nha. [nod]
+ruth: You left one of the best firms in London to pick grapes. Why? | Cô rời một trong những hãng luật hàng đầu London để đi hái nho. Tại sao? [thinking]
+olivia: To be perfectly honest, I burned out. After a long tenure in litigation, I couldn't concentrate on a single page. | Nói thật lòng, tôi đã kiệt sức. Sau một thời gian dài làm tranh tụng, tôi không thể tập trung nổi vào một trang giấy. [shy]
+ruth: That's unusually candid. Most candidates would call it a consultancy project. | Thẳng thắn một cách khác thường đấy. Phần lớn ứng viên sẽ gọi nó là một dự án tư vấn. [surprised ipa=project:=]
+olivia: I considered that. But I'd rather lose this job than start it with a lie. | Tôi đã cân nhắc điều đó. Nhưng tôi thà mất công việc này còn hơn bắt đầu nó bằng một lời nói dối. [explain]
+ruth: Fair enough. What did you actually do there, apart from picking grapes? | Cũng được. Ngoài hái nho ra, cô thực sự đã làm gì ở đó? [thinking]
+olivia: A new statute on water use threatened small producers. I found provisions that exempted them, which the ministry hadn't mentioned. | Một đạo luật mới về sử dụng nước đe doạ các nhà sản xuất nhỏ. Tôi đã tìm ra những điều khoản miễn trừ cho họ, mà bộ không hề nhắc đến. [explain ipa=use:jus]
+olivia: In the end, I was instrumental in getting twelve families through the application process before the deadline. | Cuối cùng, tôi đóng vai trò then chốt giúp mười hai gia đình hoàn tất thủ tục nộp đơn trước hạn chót. [happy]
+ruth: How did you explain the law to people who distrust lawyers? | Cô đã giải thích luật thế nào cho những người vốn không tin luật sư? [thinking]
+olivia: Slowly, at kitchen tables, with a dictionary. I'd describe my approach as translating, not advising. | Chậm rãi, bên những chiếc bàn bếp, với một cuốn từ điển. Tôi sẽ mô tả cách làm của mình là "phiên dịch", chứ không phải "tư vấn". [explain]
+ruth: And what would you do differently? | Còn cô sẽ làm gì khác đi? [thinking]
+olivia: In hindsight, I should have contacted a local lawyer sooner. My Portuguese caused one or two embarrassing mistakes. | Nhìn lại, lẽ ra tôi nên liên hệ một luật sư địa phương sớm hơn. Tiếng Bồ Đào Nha của tôi đã gây ra một hai lỗi đáng xấu hổ. [shy]
+ruth: This role pays less than half your old salary. Why should I believe you won't leave us too? | Vị trí này trả chưa bằng một nửa lương cũ của cô. Vì sao tôi nên tin cô sẽ không rời bỏ chúng tôi? [explain]
+olivia: Because I didn't leave the law. I left the wrong side of it. That year gave me a clarity I'd never had before. | Vì tôi không rời bỏ ngành luật. Tôi rời bỏ phía sai của nó. Năm ấy mang lại cho tôi sự sáng tỏ mà trước đây tôi chưa từng có. [explain]
+ruth: Tell me what you'd bring to the role, in one sentence. | Hãy nói cho tôi biết cô sẽ mang đến điều gì cho vị trí này, trong một câu. [nod]
+olivia: What I'd bring to the role is ten years of big-company litigation, and one year of seeing who it leaves behind. | Điều tôi mang đến cho vị trí này là mười năm tranh tụng cho các công ty lớn, và một năm chứng kiến ai bị nó bỏ lại phía sau. [explain]
+ruth: That's a very good sentence. I suspect we'll be talking for longer than we planned. | Một câu rất hay. Tôi ngờ là chúng ta sẽ nói chuyện lâu hơn dự kiến đấy. [happy olivia:happy]
+names: Ms. Marsh, Marsh, London
+gloss: CV, vineyard, burned out, consultancy, exempted, producers, distrust

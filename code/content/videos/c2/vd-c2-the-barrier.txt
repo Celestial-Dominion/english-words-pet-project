@@ -1,0 +1,39 @@
+=== vd-c2-the-barrier
+title: What If We Looked at It Another Way? | Nếu ta nhìn theo cách khác thì sao?
+source: st-c2-the-barrier
+summary: Trên bến cảng sau cuộc họp căng thẳng, Joost giúp Sandra và Gwen đặt lại câu hỏi về lũ lụt — từ "làm sao chặn nước" sang "để nước đi đâu".
+scene: riverside
+cast: sandra name=Sandra look=woman x=300 voice=en-US-MichelleNeural pitch=-3Hz style.hair=bob style.hairColor=#5D4037 style.outfit=coat style.top=#1B4F72 style.topShade=#154360
+cast: joost name=Joost look=man x=800 voice=en-US-BrianNeural pitch=-4Hz rate=-3% style.hair=short style.hairColor=#D4AC0D style.outfit=jacket style.top=#E67E22 style.topShade=#CA6F1E style.glasses=square
+cast: gwen name=Gwen look=grandma x=1300 voice=en-US-AnaNeural pitch=-8Hz rate=-2% style.hair=bun style.hairColor=#BFBFBF style.outfit=apron style.top=#7B241C style.topShade=#641E16
+names: Sandra, Joost, Gwen, Derek, Harwick, Old Quay, Dutch
+words: shortfall; calamity; equilibrium; topography; skeptic; contentious
+focus: Đặt lại vấn đề (reframing) để mở lối ra khi cuộc bàn bạc đi vào ngõ cụt
+pattern: What if we looked at it another way? · The real question isn't… but… · Rather than asking…, we could ask… · Think of it less as… and more as… · Let's turn it on its head. · From that angle, …
+explain: Khi hai bên cãi mãi về cùng một câu hỏi, hãy đổi câu hỏi: "Rather than asking how…, we could ask where…". Chỉ ra câu hỏi thật sự: "The real question isn't X but Y". Đổi cách gọi tên vấn đề: "Think of it less as a wall and more as a sponge". "Let's turn it on its head" = đảo ngược cách nghĩ. Sau đó dẫn người nghe sang góc nhìn mới: "From that angle, …".
+keys: another way / the real question isn't / rather than asking / less as / turn it on its head / from that angle
+
+sandra: Well, that went about as badly as I expected. Derek had the whole room on his side. | Chà, mọi chuyện tệ đúng như tôi dự đoán. Derek kéo được cả phòng về phía ông ta. [sad]
+gwen: He's not wrong about one thing, Sandra. We were promised a wall, and we still don't have one. | Ông ta không sai ở một điểm đâu, Sandra. Chúng tôi được hứa một bức tường, và đến giờ vẫn chưa có. [angry]
+sandra: Because the price has doubled. There's a sixty-million-pound shortfall, and nobody in London will cover it. | Vì giá đã tăng gấp đôi. Có một khoản thiếu hụt sáu mươi triệu bảng, và chẳng ai ở London chịu bù cho. [explain]
+joost: May I suggest something? For five years you've both been asking the same question. | Tôi có thể gợi ý một điều không? Suốt năm năm cả hai bà đều hỏi cùng một câu hỏi. [explain]
+gwen: Which is? | Là câu gì? [confused]
+joost: How do we keep the sea out? What if we looked at it another way? | Làm sao để giữ biển ở ngoài? Nếu ta nhìn theo cách khác thì sao? [point]
+sandra: I'm listening, though I warn you I'm a professional skeptic these days. | Tôi đang nghe đây, dù phải báo trước là dạo này tôi thành người đa nghi chuyên nghiệp rồi. [thinking]
+joost: Rather than asking how to stop the water, we could ask where it can go without hurting anyone. | Thay vì hỏi làm sao chặn nước, ta có thể hỏi nó có thể đi đâu mà không làm hại ai. [explain]
+gwen: It goes into my café. That's where it went last time. | Nó đi vào quán cà phê của tôi. Lần trước nó đã vào đó. [angry]
+joost: Exactly. Because the car park behind you is higher than your kitchen. Look at the topography. | Chính xác. Vì bãi đỗ xe phía sau bà cao hơn gian bếp của bà. Hãy nhìn vào địa hình. [point]
+sandra: So you'd lower the car park? Deliberately let it flood? | Vậy ông sẽ hạ thấp bãi đỗ xe? Cố tình để nó ngập ư? [surprised]
+joost: Think of it less as a car park and more as a sponge. Once in ten years, the sea sits there for a day. | Hãy coi nó không hẳn là bãi đỗ xe mà là một miếng bọt biển. Mười năm một lần, biển nằm lại đó một ngày. [explain]
+gwen: And the other nine years and three hundred and sixty-four days? | Còn chín năm ba trăm sáu mươi tư ngày còn lại thì sao? [thinking]
+joost: A square with grass and benches. Children play. You put tables outside. | Một quảng trường có cỏ và ghế đá. Trẻ con chơi đùa. Bà kê bàn ra ngoài. [happy]
+sandra: It's clever, but it'll be contentious. People will say we're giving up on the Old Quay. | Thông minh đấy, nhưng sẽ gây tranh cãi. Người ta sẽ nói chúng tôi bỏ rơi Old Quay. [worried]
+joost: Then let's turn it on its head. The wall protects the quay until the day it fails. After that, it's a calamity. | Vậy thì hãy đảo ngược cách nghĩ. Bức tường bảo vệ bến cảng cho đến ngày nó sụp. Sau đó là thảm hoạ. [explain]
+gwen: Whereas your sponge fails gently, you mean. | Còn miếng bọt biển của ông thì thất bại nhẹ nhàng, ý ông là vậy. [thinking]
+joost: Yes. The real question isn't whether you'll flood, but how much it costs when you do. | Đúng vậy. Câu hỏi thật sự không phải là bà có bị ngập hay không, mà là ngập thì tốn kém bao nhiêu. [nod]
+sandra: From that angle, a smaller barrier plus flood squares might actually fit the budget. | Nhìn từ góc đó, một con đê nhỏ hơn cộng với các quảng trường đón lũ có khi lại vừa ngân sách. [thinking]
+joost: In my country we call it room for the river. You look for an equilibrium, not a victory. | Ở nước tôi, chúng tôi gọi đó là chừa chỗ cho sông. Người ta tìm sự cân bằng, chứ không tìm chiến thắng. [explain]
+gwen: My grandmother used to say the quay was borrowed from the sea. | Bà tôi hay nói bến cảng này là mượn của biển. [sad ipa=used:juzd]
+joost: Then perhaps it's time to start paying a little rent. | Vậy có lẽ đã đến lúc bắt đầu trả chút tiền thuê. [happy]
+sandra: I'll need you to say all that again, Joost. At the next meeting, in front of Derek. | Tôi sẽ cần ông nói lại tất cả những điều đó, Joost ạ. Ở cuộc họp tới, trước mặt Derek. [happy gwen:happy]
+gloss: sponge, benches, quay, flood squares

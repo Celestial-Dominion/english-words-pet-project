@@ -1,0 +1,34 @@
+=== vd-b1-the-lost-tourist
+title: Slowly, Please | Nói chậm thôi nhé
+source: st-b1-the-lost-tourist
+summary: Sau khi đưa bà Kim về khách sạn, cặp song sinh Max và Ella ngồi trên taxi, rút kinh nghiệm cách nói chuyện với người gần như không biết tiếng Anh.
+scene: car
+cast: max name=Max look=teenboy x=560 voice=en-US-BrianNeural pitch=+10Hz style.hair=short style.hairColor=#6B4226 style.outfit=jacket style.top=#E74C3C style.topShade=#CB4335
+cast: ella name=Ella look=teengirl x=1140 voice=en-US-EmmaNeural pitch=+6Hz style.hair=long style.hairColor=#6B4226 style.outfit=jacket style.top=#5DADE2 style.topShade=#4A9CD1
+names: Ella, Kim, Max, Gr, Plaza
+words: point; guess; understand; gesture; tone; brilliant
+focus: Giao tiếp với người ít biết tiếng Anh
+pattern: Let me show you. · Do you mean…? · Slowly, please. · Is that right? · Sorry, I don't understand. · Could you write it down?
+explain: Khi người nghe ít biết tiếng Anh: nói chậm, dùng từ đơn giản, kèm cử chỉ. Kiểm tra lại: "Do you mean…?", "Is that right?". Nhờ cách khác: "Could you write it down?", "Let me show you." Thành thật: "Sorry, I don't understand."
+keys: let me show you / do you mean / slowly, please / is that right / i don't understand / write it down
+
+max: I can't believe we did it. Her daughter was so happy. | Không tin nổi là tụi mình làm được. Con gái bà ấy vui ghê. [happy]
+ella: I know. At the beginning, I had no idea what she wanted. | Tớ biết. Lúc đầu, tớ chẳng hiểu bà ấy muốn gì. [thinking]
+max: You were brilliant. You spoke so slowly. | Cậu giỏi lắm. Cậu nói chậm ghê. [happy]
+ella: It helps. Short, simple words, one at a time. "You. Hotel. Name?" | Có ích mà. Từ ngắn, đơn giản, từng từ một. "Bà. Khách sạn. Tên?" [explain]
+max: And pointing. Gestures were more useful than words. | Và chỉ trỏ nữa. Cử chỉ còn có ích hơn từ ngữ. [nod]
+ella: When she said "people" and showed twenty fingers, I had to guess. | Khi bà ấy nói "người" và giơ hai mươi ngón tay, tớ phải đoán. [thinking]
+max: You said, "Do you mean a group?" And she understood! | Cậu hỏi: "Ý bà là một đoàn ạ?" Và bà ấy hiểu! [surprised]
+ella: Not the words, I think. The tone. And the gesture. | Tớ nghĩ không phải hiểu từ. Mà là giọng điệu. Và cử chỉ. [explain]
+max: I felt so stupid when I asked, "Where is your hotel?" really fast. | Tớ thấy mình ngốc ghê khi hỏi thật nhanh: "Khách sạn của bà ở đâu?" [shy]
+ella: Everyone does that. People speak faster and louder when they're nervous. | Ai cũng vậy mà. Người ta nói nhanh hơn và to hơn khi hồi hộp. [happy]
+max: Louder obviously doesn't help. She wasn't deaf; she just didn't speak English. | To hơn rõ ràng chẳng giúp gì. Bà ấy đâu có điếc; bà ấy chỉ không biết tiếng Anh thôi. [nod]
+ella: Exactly. Next time, I'll say, "Slowly, please," to myself. | Đúng thế. Lần sau, tớ sẽ tự nhủ: "Nói chậm thôi." [happy]
+max: And the key card was a great clue, even though the name had almost worn off. | Và cái thẻ chìa khoá đúng là manh mối tuyệt vời, dù cái tên gần như mờ hết. [thinking]
+max: Could you show me that photo again? | Cậu cho tớ xem lại tấm ảnh đó được không? [thinking]
+ella: Look. "Gr… Plaza." When I showed her the hotel, I asked, "Is that right?" | Nhìn này. "Gr… Plaza." Khi tớ cho bà xem khách sạn, tớ hỏi: "Có đúng không ạ?" [explain]
+max: And she said yes in Korean. Very loudly. | Và bà ấy nói "đúng" bằng tiếng Hàn. Rất to. [happy]
+ella: If we meet someone like that again, we could ask them to write things down. | Nếu gặp lại ai đó như vậy, mình có thể nhờ họ viết ra. [thinking]
+max: Good idea. And next time, I'll use an app to translate. I'll keep my phone charged! | Ý hay đấy. Và lần sau, tớ sẽ dùng ứng dụng để dịch. Tớ sẽ luôn sạc đầy điện thoại! [happy ipa=use:juz]
+ella: That's the most important lesson of all. | Đó là bài học quan trọng nhất đấy. [happy max:shy]
+gloss: gestures, app

@@ -1,0 +1,35 @@
+=== vd-c1-the-pivot
+title: What Sets Us Apart | Điều làm chúng tôi khác biệt
+source: st-c1-the-pivot
+summary: Lần gọi vốn thứ hai: Kwame và Lily mở đầu bằng chính con số từng giấu, rồi thuyết phục Victoria Crane rằng Tutorly nên chuyển hướng sang phục vụ giáo viên.
+scene: office
+prop: laptop x=800 y=640 scale=0.75
+cast: kwame name=Kwame look=man x=300 voice=en-US-AndrewNeural pitch=-1Hz rate=+3% style.hair=short style.hairColor=#1A1A1A style.skin=#6E4127 style.skinShade=#58321D style.outfit=shirt style.top=#F39C12 style.topShade=#D68910
+cast: lily name=Lily look=woman x=800 voice=en-US-AnaNeural pitch=-4Hz style.hair=bob style.hairColor=#1A1A1A style.skin=#EED3B5 style.skinShade=#DBBE9E style.outfit=jacket style.top=#34495E style.topShade=#2C3E50 style.glasses=round
+cast: victoria name=Victoria look=woman x=1300 voice=en-US-MichelleNeural pitch=-7Hz rate=-3% style.hair=bun style.hairColor=#BDBDBD style.outfit=suit style.top=#6C3483 style.topShade=#5B2C6F
+names: Kwame, Lily, Victoria, Tutorly, Okoro, Leeds
+words: retention; cohort; viable; founder; pivot; skeptical
+focus: Trình bày thuyết phục trước nhà đầu tư và trả lời chất vấn
+pattern: The problem we're solving is… · Our figures show that… · What sets us apart is… · Let me address that concern · We're asking for… · In return, …
+explain: Nêu vấn đề trước giải pháp: "The problem we're solving is…". Đưa số liệu cụ thể: "Our figures show that…". Nhấn điểm khác biệt: "What sets us apart is…". Đón câu hỏi khó chủ động: "That's a fair question. Let me address that concern." Nói rõ đề nghị: "We're asking for £… for …%.", "In return, you'd get…". Thẳng thắn về điểm yếu làm tăng độ tin cậy.
+keys: the problem we're solving / our figures show / what sets us apart / address that concern / we're asking for / in return
+
+kwame: Thank you for seeing us again. I'd like to start with the number I avoided on demo day. | Cảm ơn bà đã gặp lại chúng tôi. Tôi muốn bắt đầu bằng con số tôi đã né tránh ở ngày trình diễn. [explain]
+victoria: Retention. I remember. I was wondering whether you'd mention it. | Tỉ lệ giữ chân người dùng. Tôi nhớ. Tôi đang tự hỏi liệu anh có nhắc đến nó không. [thinking]
+kwame: Our figures show that most individual learners leave within a month. As a consumer app, we're not viable. | Số liệu của chúng tôi cho thấy phần lớn người học cá nhân rời đi trong vòng một tháng. Là một ứng dụng cho người dùng lẻ, chúng tôi không khả thi. [sad]
+victoria: That's an unusual way to begin a pitch. Go on. | Một cách bắt đầu buổi gọi vốn khá lạ. Anh nói tiếp đi. [surprised]
+lily: But one small cohort never left. Teachers. They were setting homework for whole classes, entirely on their own initiative. | Nhưng có một nhóm nhỏ không bao giờ rời đi. Các giáo viên. Họ giao bài tập về nhà cho cả lớp, hoàn toàn tự phát. [explain @laptop]
+kwame: So the problem we're solving is different now. Teachers spend hours every week creating and checking homework. | Vậy nên vấn đề chúng tôi giải quyết giờ đã khác. Giáo viên mất hàng giờ mỗi tuần để soạn và chấm bài tập về nhà. [explain]
+victoria: Plenty of companies sell software to schools. What sets you apart? | Có đầy công ty bán phần mềm cho trường học. Điều gì làm các anh chị khác biệt? [thinking]
+lily: What sets us apart is that every exercise adapts to each pupil, and the teacher sees who is struggling before the lesson. | Điều làm chúng tôi khác biệt là mỗi bài tập đều thích ứng với từng học sinh, và giáo viên thấy ai đang gặp khó khăn trước giờ học. [explain]
+lily: In our pilot, forty teachers joined. Not one has left, and most brought colleagues without being asked. | Trong đợt thí điểm, bốn mươi giáo viên đã tham gia. Chưa ai rời đi, và phần lớn còn tự rủ đồng nghiệp mà không cần ai nhờ. [happy]
+victoria: I'm skeptical. Schools are slow, and budgets are small. You could run out of money waiting for decisions. | Tôi hoài nghi. Trường học chậm chạp, ngân sách thì nhỏ. Các anh chị có thể hết tiền trong lúc chờ họ quyết định. [shake]
+kwame: That's a fair question. Let me address that concern. We sell to teachers first, not to schools. | Câu hỏi rất xác đáng. Cho phép tôi giải đáp mối lo đó. Chúng tôi bán cho giáo viên trước, chưa phải cho trường. [explain]
+lily: A teacher can start a free trial tonight. When half a department is using it, the school usually pays. | Một giáo viên có thể dùng thử miễn phí ngay tối nay. Khi một nửa tổ bộ môn đã dùng, nhà trường thường sẽ trả tiền. [explain]
+victoria: And you're comfortable abandoning your original idea, Kwame? Founders usually aren't. | Còn anh có thoải mái khi từ bỏ ý tưởng ban đầu không, Kwame? Các nhà sáng lập thường không thoải mái. [thinking]
+kwame: I wasn't, at first. But the pivot keeps what mattered: individual attention. We just deliver it through teachers. | Lúc đầu thì không. Nhưng cú xoay trục vẫn giữ được điều quan trọng: sự quan tâm đến từng cá nhân. Chúng tôi chỉ mang nó đến thông qua giáo viên. [nod]
+victoria: What exactly are you asking for? | Chính xác thì các anh chị đang đề nghị điều gì? [explain]
+kwame: We're asking for enough to hire a head of sales and survive eighteen months. | Chúng tôi đề nghị một khoản đủ để tuyển một trưởng bộ phận kinh doanh và trụ được mười tám tháng. [explain]
+lily: In return, you'd increase your stake, and you'd get a monthly report with every number, including the bad ones. | Đổi lại, bà sẽ tăng phần sở hữu của mình, và mỗi tháng bà sẽ nhận một báo cáo với mọi con số, kể cả những con số xấu. [nod ipa=increase:ɪnˈkris]
+victoria: At demo day, you avoided my question. Today you started with it. That's the most persuasive thing you've said. | Ở ngày trình diễn, anh né câu hỏi của tôi. Hôm nay anh bắt đầu bằng chính nó. Đó là điều thuyết phục nhất các anh chị đã nói. [happy kwame:happy lily:happy]
+gloss: pilot, budgets, app

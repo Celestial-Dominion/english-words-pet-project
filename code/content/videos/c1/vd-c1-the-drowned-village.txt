@@ -1,0 +1,36 @@
+=== vd-c1-the-drowned-village
+title: Twenty or So, Give or Take | Chừng hai mươi, xê dịch chút ít
+source: st-c1-the-drowned-village
+summary: Giữa tàn tích ngôi làng vừa hiện lên sau hạn hán, cụ Angus kể cho Fiona về những ngôi nhà, con người và năm tháng — bằng những con số ước chừng của một trí nhớ tám mươi tám năm.
+scene: riverside
+prop: camera x=860 y=640 scale=0.8
+cast: angus name=Angus look=grandpa x=520 voice=en-US-RogerNeural pitch=-10Hz rate=-8% style.hair=grandpa style.hairColor=#F0F0F0 style.outfit=coat style.top=#4E5B31 style.topShade=#404B28 style.scarf=#922B21
+cast: fiona name=Fiona look=woman x=1160 voice=en-US-JennyNeural pitch=-2Hz style.hair=ponytail style.hairColor=#A0522D style.outfit=jacket style.top=#1F618D style.topShade=#1A5276
+names: Angus, Fiona, Glenmorrach, Glasgow, Mrs. Grant
+words: submerged; relocation; erosion; sediment; reminisce; integral
+focus: Dùng ngôn ngữ ước lượng khi không nhớ hay không cần chính xác
+pattern: roughly / about · … or so · give or take · something like… · …-ish · more or less · sort of
+explain: Ước lượng số: "roughly twenty", "about sixty years", "twenty or so", "fifty, give or take a few", "something like eighty people". Thời gian/tuổi: "ten-ish", "in the sixties-ish". Mức độ: "more or less the same", "sort of blue". Người nói tự nhiên dùng những cụm này khi nhớ không chắc, hoặc khi con số chính xác không quan trọng — không có nghĩa là thiếu trung thực.
+keys: roughly / or so / give or take / something like / ish / more or less / sort of
+
+fiona: Are you comfortable, Angus? Tell me if the ground's too rough for the wheelchair. | Ông có thấy thoải mái không, ông Angus? Nếu đường gồ ghề quá với xe lăn thì ông bảo cháu nhé. [worried @camera]
+angus: I'm fine. I haven't seen this street in roughly sixty years. I'm not going to complain about the bumps. | Tôi ổn. Tôi đã không nhìn thấy con phố này khoảng sáu mươi năm rồi. Tôi sẽ không phàn nàn mấy chỗ xóc đâu. [happy]
+fiona: It's incredible how much has survived after being submerged for so long. | Thật khó tin là có bao nhiêu thứ còn sót lại sau khi bị nhấn chìm lâu đến thế. [surprised]
+angus: The water protected it, in a way. Erosion took the roofs, but the walls are more or less as I remember them. | Theo một cách nào đó, nước đã bảo vệ nó. Sự xói mòn lấy đi mái nhà, nhưng các bức tường thì gần như y nguyên như tôi nhớ. [explain]
+fiona: How many people lived here in the end? | Cuối cùng thì có bao nhiêu người sống ở đây ạ? [thinking]
+angus: Something like eighty, I think. Twenty or so families. My mother would have known exactly. | Chừng tám mươi người, tôi nghĩ vậy. Khoảng hai mươi gia đình. Mẹ tôi hẳn sẽ biết chính xác. [thinking]
+fiona: And that building with the big window, was that the school? | Còn toà nhà có ô cửa sổ lớn kia, đó là trường học ạ? [point]
+angus: That's it. There were about twenty pupils, give or take, and one teacher who frightened all of us. | Đúng rồi. Có khoảng hai mươi học sinh, xê dịch chút ít, và một cô giáo khiến tất cả bọn tôi sợ khiếp vía. [happy]
+fiona: Do you mind if I film while you reminisce? You don't have to say anything you don't want to. | Ông có phiền không nếu cháu quay phim trong lúc ông hồi tưởng? Ông không phải nói bất cứ điều gì ông không muốn. [explain]
+angus: Film everything. Look, that was the chapel. It was integral to the village. Everything happened there. | Quay hết đi. Nhìn kìa, đó là nhà nguyện. Nó là một phần không thể thiếu của ngôi làng. Mọi chuyện đều diễn ra ở đó. [point]
+fiona: And the post office? | Còn bưu điện ạ? [thinking]
+angus: Just there, the sort of reddish building. Mrs. Grant ran it, and she read everybody's postcards. | Ngay kia, cái nhà hơi đo đỏ ấy. Bà Grant quản lý nó, và bà đọc hết bưu thiếp của mọi người. [explain ipa=read:rɛd]
+fiona: When did you last walk down this street before the flooding? | Lần cuối ông đi trên con phố này trước khi nước tràn vào là khi nào ạ? [thinking]
+angus: October 1965. The relocation took the best part of a year, but I stayed until the end, more or less. | Tháng Mười năm 1965. Việc di dời mất gần trọn một năm, nhưng tôi ở lại gần như đến tận cùng. [sad]
+fiona: How old were you? Late twenties? | Khi đó ông bao nhiêu tuổi ạ? Gần ba mươi? [thinking]
+angus: Twenty-nine-ish. Old enough to be angry, young enough to think it wouldn't happen. | Chừng hai mươi chín. Đủ lớn để giận dữ, đủ trẻ để nghĩ rằng chuyện đó sẽ không xảy ra. [sad]
+fiona: There's something blue in the sediment by that doorway. Wait, it looks like a piece of china. | Có gì đó màu xanh trong lớp trầm tích cạnh khung cửa kia. Khoan đã, trông như một mảnh sứ. [surprised]
+angus: That's my grandmother's plate. I'd know it anywhere. She only used it once a year or so. | Đó là đĩa của bà tôi. Ở đâu tôi cũng nhận ra. Bà chỉ dùng nó chừng mỗi năm một lần. [tearful fiona:sad ipa=used:juzd]
+fiona: Would you like to keep it? | Ông có muốn giữ nó không? [nod]
+angus: I would. It's roughly the size of my hand, and it's worth more than everything else I own. | Có chứ. Nó cỡ chừng bàn tay tôi, và nó quý hơn mọi thứ khác tôi có. [tearful]
+gloss: wheelchair, bumps, flooding, reddish, doorway, china, chapel, twenty-nine-ish

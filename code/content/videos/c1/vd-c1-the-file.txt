@@ -1,0 +1,36 @@
+=== vd-c1-the-file
+title: Had I Known | Giá mà tôi biết
+source: st-c1-the-file
+summary: Trong căn bếp nhỏ, bà Vera kể cho cháu gái Sofia về lựa chọn không thể tha thứ của ông Karel năm xưa, và cả hai bà cháu nói về những điều giá như đã khác đi.
+scene: home-evening
+prop: tea x=820 y=660 scale=0.8
+cast: vera name=Vera look=grandma x=520 voice=en-US-AriaNeural pitch=-10Hz rate=-8% style.hair=bun style.hairColor=#EDEDED style.outfit=cardigan style.top=#5B2C6F style.topShade=#4A235A style.glasses=round
+cast: sofia name=Sofia look=woman x=1160 voice=en-US-JennyNeural pitch=-2Hz style.hair=long style.hairColor=#7B4A2E style.outfit=jacket style.top=#1E8449 style.topShade=#196F3D
+names: Vera, Sofia, Karel, Pavel, Babička
+words: remorse; compel; betrayal; forgiveness; integrity; regime
+focus: Bày tỏ sự hối tiếc về quá khứ bằng câu điều kiện đảo ngữ và "wish / if only"
+pattern: Had I known…, I would have… · If only he had… · I wish I had… · I should never have… · Were it not for…, … · He would never have… if…
+explain: Hối tiếc về quá khứ (trang trọng, đảo ngữ): "Had I known, I would have spoken to him." (= If I had known…). Than tiếc mạnh: "If only he had told me." Ước điều đã không xảy ra: "I wish I had asked him while he was alive." Tự trách: "I should never have kept it secret." Giả định trái hiện tại (đảo ngữ): "Were it not for the file, nobody would know." Chú ý thì quá khứ hoàn thành sau "wish/if only" khi nói về quá khứ.
+keys: had i known / if only / i wish i had / should never have / were it not for / would have
+
+sofia: Babička, I found Grandpa's name in Pavel Holub's file. He was the informer they called "Violin". | Bà ơi, cháu tìm thấy tên ông trong hồ sơ của Pavel Holub. Ông là kẻ chỉ điểm mà họ gọi là "Vĩ Cầm". [sad @tea]
+vera: I know. I've been waiting for someone to find it for seventy years. | Bà biết. Bà đã chờ có người tìm ra nó suốt bảy mươi năm. [sad]
+sofia: Why didn't you ever tell us? Had I known, I would have asked him about it while he was still alive. | Sao bà không bao giờ kể với cả nhà? Giá mà cháu biết, cháu đã hỏi ông khi ông còn sống. [tearful]
+vera: And what would he have said? He could hardly look at himself in the mirror. | Và ông sẽ nói gì chứ? Ông gần như không dám nhìn mình trong gương. [shrug]
+sofia: I thought he was a man of integrity. Everyone said so. | Cháu đã nghĩ ông là người chính trực. Ai cũng nói vậy. [sad]
+vera: He was, in most things. But the regime knew how to compel people. Your aunt needed heart surgery. | Trong hầu hết mọi chuyện thì ông là người như thế. Nhưng chế độ biết cách ép buộc con người. Cô cháu khi đó cần mổ tim. [explain sofia:surprised]
+sofia: They threatened a baby? | Họ đe doạ cả một đứa trẻ sơ sinh sao? [angry]
+vera: Politely. They always did it politely. Were it not for that operation, he would never have written a single word for them. | Một cách lịch sự. Họ lúc nào cũng làm thế một cách lịch sự. Nếu không vì ca mổ ấy, ông sẽ chẳng bao giờ viết cho họ lấy một chữ. [explain]
+sofia: But Pavel went to prison for eight years. | Nhưng Pavel đã phải ngồi tù tám năm. [sad]
+vera: Yes. And your grandfather never forgave himself. If only he had found another way. | Đúng vậy. Và ông cháu không bao giờ tha thứ cho bản thân. Giá như ông tìm được một cách khác. [tearful]
+sofia: Did he ever try to apologize to Pavel? | Ông có bao giờ tìm cách xin lỗi Pavel không? [thinking]
+vera: He wrote a letter in 1960 and never sent it. I wish I had posted it myself. | Ông viết một lá thư năm 1960 và không bao giờ gửi đi. Bà ước gì chính bà đã gửi nó. [sad]
+sofia: Why didn't you? | Sao bà lại không gửi? [confused]
+vera: I was afraid it would make things worse for all of us. I should never have let fear decide. | Bà sợ nó sẽ khiến mọi chuyện tệ hơn cho tất cả chúng ta. Lẽ ra bà không bao giờ nên để nỗi sợ quyết định. [shy]
+sofia: Was it remorse that made him stop playing the violin? | Có phải vì ân hận mà ông thôi chơi vĩ cầm không? [thinking]
+vera: For eleven years. It was the only punishment he could give himself. It didn't undo the betrayal, of course. | Suốt mười một năm. Đó là hình phạt duy nhất ông có thể tự giáng cho mình. Tất nhiên, nó không xoá được sự phản bội. [sad]
+sofia: Pavel's son still lives in Prague. Would you let me give him the letter? | Con trai của Pavel vẫn sống ở Praha. Bà có cho cháu đưa lá thư cho ông ấy không? [thinking ipa=lives:lɪvz]
+vera: Your grandfather never asked for forgiveness. He said he had no right to it. But I think he would have wanted Petr to read it. | Ông cháu chưa bao giờ xin được tha thứ. Ông nói ông không có quyền đó. Nhưng bà nghĩ ông sẽ muốn Petr đọc nó. [nod ipa=read:rid]
+sofia: Then I'll take it to him. And this time, nobody will keep it in a drawer. | Vậy cháu sẽ mang nó đến cho ông ấy. Và lần này, sẽ không ai cất nó trong ngăn kéo nữa. [nod vera:happy]
+names: Holub, Prague, Petr
+gloss: informer

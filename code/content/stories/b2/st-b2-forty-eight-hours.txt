@@ -1,0 +1,91 @@
+=== st-b2-forty-eight-hours
+title: Forty-Eight Hours | Bốn mươi tám giờ
+topic: technology
+summary: Bốn sinh viên có bốn mươi tám giờ để làm ra một ứng dụng giúp ngân hàng thực phẩm; ý tưởng đơn giản nhất lại đến từ người trầm lặng nhất nhóm — nếu có ai chịu để cậu ấy nói hết câu.
+names: Anjali, Leo, Farah, Jun, Mrs. Okonkwo, Okonkwo, Hillside, Hillside Food Bank
+gloss: hackathon, food bank, surplus, prototype, app, apps
+
+## The Challenge | Thử thách
+At six o'clock on Friday evening, the university's engineering hall was packed with two hundred students for the annual hackathon. | Sáu giờ tối thứ Sáu, hội trường kỹ thuật của trường chật kín hai trăm sinh viên đến dự cuộc thi lập trình thường niên.
+The rules were simple. | Luật lệ rất đơn giản.
+Each team would have exactly forty-eight hours to design and build a piece of software that solved a real problem, and on Sunday evening they would present their work to a panel of judges. | Mỗi đội có đúng bốn mươi tám giờ để thiết kế và xây dựng một phần mềm giải quyết một vấn đề có thật, và tối Chủ nhật họ sẽ trình bày sản phẩm trước một hội đồng giám khảo.
+gloss: annual, software
+
+This year's challenge came from Mrs. Okonkwo, the director of Hillside Food Bank. | Thử thách năm nay đến từ bà Okonkwo, giám đốc Ngân hàng Thực phẩm Hillside.
+She explained that local supermarkets threw away tons of perfectly good food every week, often because it was close to its sell-by date. | Bà giải thích rằng các siêu thị địa phương vứt bỏ hàng tấn thực phẩm còn tốt mỗi tuần, thường vì chúng sắp hết hạn bán.
+The shops were happy to donate it, but they usually called at the last minute, and the food bank rarely had volunteers available to collect it in time. | Các cửa hàng sẵn lòng quyên góp, nhưng họ thường gọi vào phút chót, và ngân hàng thực phẩm hiếm khi có sẵn tình nguyện viên để đến lấy kịp.
+"Every week, food that could feed a hundred families ends up in the bin," she said. "Help us fix that." | "Mỗi tuần, lượng thực phẩm đủ nuôi một trăm gia đình lại nằm trong thùng rác," bà nói. "Hãy giúp chúng tôi khắc phục điều đó."
+gloss: sell-by date
+
+## The Team | Đội thi
+Anjali, a third-year computer science student, had put together a team of four. | Anjali, sinh viên năm ba ngành khoa học máy tính, đã lập một đội bốn người.
+Leo was the most talented programmer she knew, although he was also the loudest, and he tended to dominate every discussion. | Leo là lập trình viên tài năng nhất cô biết, dù cũng là người ồn ào nhất, và cậu có xu hướng lấn át mọi cuộc thảo luận.
+Farah was a design student who could make any screen look elegant. | Farah là sinh viên thiết kế có thể khiến bất kỳ màn hình nào trông thanh lịch.
+The fourth member, Jun, was a first-year student whom nobody knew well. | Thành viên thứ tư, Jun, là sinh viên năm nhất mà chưa ai biết rõ.
+He had signed up alone, and the organizers had placed him with them at random. | Cậu đăng ký một mình, và ban tổ chức xếp cậu vào đội họ một cách ngẫu nhiên.
+gloss: organizers, random
+
+They spent the first two hours brainstorming. | Họ dành hai tiếng đầu để động não.
+Leo was keen on an ambitious idea: an app that used artificial intelligence to predict which shops would have surplus food, with live maps, notifications and a points system to reward volunteers. | Leo hào hứng với một ý tưởng đầy tham vọng: một ứng dụng dùng trí tuệ nhân tạo để dự đoán cửa hàng nào sẽ có thực phẩm dư thừa, kèm bản đồ trực tiếp, thông báo và hệ thống tích điểm thưởng cho tình nguyện viên.
+He had already started drawing the interface on the whiteboard. | Cậu đã bắt đầu vẽ giao diện lên bảng trắng.
+Twice, Jun began to say something, and twice Leo spoke over him without noticing. | Hai lần Jun định nói gì đó, và cả hai lần Leo đều nói át đi mà không hề để ý.
+gloss: brainstorming, artificial intelligence, notifications, interface
+
+The third time, Anjali raised her hand. | Đến lần thứ ba, Anjali giơ tay.
+"Sorry, Leo. Can we just hear what Jun wants to say?" | "Xin lỗi Leo. Mình nghe Jun muốn nói gì được không?"
+Leo looked surprised, then slightly embarrassed. | Leo trông ngạc nhiên, rồi hơi ngượng.
+Jun cleared his throat. | Jun hắng giọng.
+"My grandmother volunteers at a food bank," he said quietly. "Most of the volunteers are over seventy. They don't use apps. But they all have mobile phones, and they all read text messages." | "Bà em làm tình nguyện ở một ngân hàng thực phẩm," cậu khẽ nói. "Phần lớn tình nguyện viên trên bảy mươi tuổi. Họ không dùng ứng dụng. Nhưng ai cũng có điện thoại di động, và ai cũng đọc tin nhắn."
+
+## Three O'Clock in the Morning | Ba giờ sáng
+Jun's idea was almost embarrassingly simple, but it was far more sensible for people who were not comfortable with technology. | Ý tưởng của Jun đơn giản đến mức gần như đáng ngượng, nhưng hợp lý hơn nhiều với những người không quen dùng công nghệ.
+When a shop had food to donate, a staff member would fill in a short online form. | Khi một cửa hàng có thực phẩm để quyên góp, một nhân viên sẽ điền vào một biểu mẫu trực tuyến ngắn.
+The system would then send a text message to the nearest available volunteers, and the first person to reply "YES" would get the job. | Hệ thống sau đó sẽ gửi tin nhắn đến những tình nguyện viên gần nhất đang rảnh, và người đầu tiên trả lời "CÓ" sẽ nhận việc.
+Everyone else would receive a second message saying that the collection had been taken. | Những người còn lại sẽ nhận tin nhắn thứ hai báo rằng chuyến lấy hàng đã có người nhận.
+gloss: collection
+
+Leo was not convinced at first. | Ban đầu Leo không mấy tin tưởng.
+"It's hardly revolutionary," he complained. "The judges want to see something exciting." | "Chẳng có gì đột phá cả," cậu phàn nàn. "Giám khảo muốn thấy thứ gì đó hấp dẫn."
+"The judges aren't going to use it," Anjali replied. "Mrs. Okonkwo's volunteers are." | "Giám khảo đâu có dùng nó," Anjali đáp. "Tình nguyện viên của bà Okonkwo mới dùng."
+In the end, they agreed on a compromise: Jun's text system at the center, with Leo's map as an extra feature for the food bank staff. | Cuối cùng, họ thống nhất một phương án dung hoà: hệ thống tin nhắn của Jun là trọng tâm, kèm bản đồ của Leo như một tính năng bổ sung cho nhân viên ngân hàng thực phẩm.
+gloss: feature
+
+By three o'clock on Sunday morning, the prototype was almost ready. | Đến ba giờ sáng Chủ nhật, bản mẫu gần như đã sẵn sàng.
+Farah was asleep under a table, Anjali was on her fifth coffee, and Leo was testing the database. | Farah ngủ dưới gầm bàn, Anjali đang uống ly cà phê thứ năm, còn Leo đang kiểm tra cơ sở dữ liệu.
+Then his screen went black. | Rồi màn hình của cậu tối đen.
+The server they had been using had crashed, and when it restarted, twelve hours of work had disappeared. | Máy chủ họ đang dùng bị sập, và khi khởi động lại, mười hai tiếng làm việc đã biến mất.
+Leo put his head in his hands and swore. It was a nightmare. | Leo ôm đầu và buông một câu chửi thề. Đúng là một cơn ác mộng.
+gloss: server, crashed
+
+Jun, who had been working silently and independently in the corner, looked up. | Jun, người vẫn lặng lẽ làm việc một mình trong góc, ngẩng lên.
+"I made a backup every hour," he said. "Just in case. We've lost about forty minutes." | "Em sao lưu mỗi tiếng một lần," cậu nói. "Phòng khi có chuyện. Mình chỉ mất khoảng bốn mươi phút thôi."
+For a moment, nobody spoke. | Trong giây lát, không ai nói gì.
+Then Leo stood up, walked across the room and shook Jun's hand very seriously. | Rồi Leo đứng dậy, đi ngang qua phòng và bắt tay Jun một cách rất nghiêm trang.
+"You," he said, "are a genius." | "Cậu," Leo nói, "là một thiên tài."
+
+## The Presentation | Buổi trình bày
+On Sunday evening, twenty-four teams presented their projects. | Tối Chủ nhật, hai mươi bốn đội trình bày dự án của mình.
+Many of them were technically brilliant. | Nhiều dự án xuất sắc về mặt kỹ thuật.
+One team had built a robot that sorted food by its expiry date, and another had designed a virtual reality game about hunger. | Một đội đã chế tạo robot phân loại thực phẩm theo hạn sử dụng, và một đội khác thiết kế trò chơi thực tế ảo về nạn đói.
+gloss: expiry date, virtual reality
+
+When it was their turn, Anjali asked Jun to explain the idea, since it was essentially his. | Khi đến lượt, Anjali đề nghị Jun trình bày ý tưởng, vì về cơ bản đó là ý tưởng của cậu.
+He was visibly nervous, but his explanation was clear and precise. | Cậu lo lắng thấy rõ, nhưng phần giải thích lại rõ ràng và chính xác.
+Then, instead of a video, they gave a live demonstration. | Rồi thay vì chiếu video, họ trình diễn trực tiếp.
+Anjali filled in the form as if she were a supermarket manager, and a moment later, Mrs. Okonkwo's phone, which they had borrowed that morning, buzzed in her hand. | Anjali điền biểu mẫu như thể cô là quản lý siêu thị, và một lát sau, chiếc điện thoại của bà Okonkwo, mà họ đã mượn từ sáng, rung lên trong tay bà.
+She read the message aloud, typed "YES," and the audience applauded. | Bà đọc to tin nhắn, gõ "CÓ", và khán giả vỗ tay.
+gloss: visibly, demonstration
+
+## Second Place | Giải nhì
+They did not win, which was a slight disappointment. | Họ không thắng, điều khiến cả nhóm hơi thất vọng.
+First prize went to the robot, which the judges described as "the most innovative project in the history of the competition." | Giải nhất thuộc về con robot, được giám khảo mô tả là "dự án sáng tạo nhất trong lịch sử cuộc thi".
+But the team came second, and after the ceremony, Mrs. Okonkwo came to find them. | Nhưng đội giành giải nhì, và sau lễ trao giải, bà Okonkwo đến tìm họ.
+"The robot is wonderful," she said. "But I can't afford a robot. I can afford text messages. Could I start using your system next week?" | "Con robot thật tuyệt vời," bà nói. "Nhưng tôi không đủ tiền mua robot. Tôi đủ tiền trả cho tin nhắn. Tuần sau tôi bắt đầu dùng hệ thống của các cháu được không?"
+gloss: ceremony
+
+Six months later, Hillside Food Bank was collecting almost twice as much food as before, and three other food banks in the region had asked to use the system. | Sáu tháng sau, Ngân hàng Thực phẩm Hillside thu gom được lượng thực phẩm gần gấp đôi trước đây, và ba ngân hàng thực phẩm khác trong vùng đã xin được dùng hệ thống.
+The four students still met every few weeks to maintain and upgrade it. | Bốn sinh viên vẫn gặp nhau vài tuần một lần để duy trì và nâng cấp nó.
+At one of these meetings, Leo admitted that he had learned more from the hackathon than from any course. | Ở một trong những buổi gặp ấy, Leo thừa nhận cậu học được từ cuộc thi nhiều hơn bất kỳ môn học nào.
+"Mostly," he said, looking at Jun, "that the best idea in the room doesn't always come from the loudest person." | "Chủ yếu là," cậu nói, nhìn Jun, "ý tưởng hay nhất trong phòng không phải lúc nào cũng đến từ người nói to nhất."
+Jun smiled, but he did not say anything. | Jun mỉm cười, nhưng không nói gì.
+He did not need to. | Cậu chẳng cần nói.

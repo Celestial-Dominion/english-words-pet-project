@@ -1,0 +1,33 @@
+=== vd-b2-the-interpreter
+title: So What You're Saying Is… | Vậy ý ông là…
+source: st-b2-the-interpreter
+summary: Trước khi nói chuyện với gia đình bệnh nhân, Soraya cùng bác sĩ Hughes làm rõ từng thuật ngữ y khoa — luyện cách xin giải thích và diễn đạt lại để kiểm tra mình đã hiểu đúng.
+scene: hospital
+cast: hughes name="Dr. Hughes" vi="Bác sĩ Hughes" look=man x=520 voice=en-US-SteffanNeural pitch=-2Hz style.hair=part style.hairColor=#6E6E6E style.outfit=tie style.top=#FDFEFE style.topShade=#E5E8E8 style.glasses=square
+cast: soraya name=Soraya look=woman x=1160 voice=en-US-JennyNeural pitch=+2Hz style.hair=long style.hairColor=#1A1A1A style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=blouse style.top=#117A65 style.topShade=#0E6655
+names: Soraya, Hughes
+words: clarify; accurately; recovery; risk; infection; frightening
+focus: Xin làm rõ và diễn đạt lại để kiểm tra mình đã hiểu
+pattern: Could you clarify what you mean by…? · So what you're saying is… · In other words, … · Let me make sure I've understood · When you say…, do you mean…? · Could you put that more simply?
+explain: Hỏi lại thuật ngữ: "Could you clarify what you mean by 'bypass'?" Diễn đạt lại để kiểm tra: "So what you're saying is…", "Let me make sure I've understood: …?". Hỏi sâu về một từ người kia vừa dùng: "When you say 'risks', do you mean serious ones?" Nhờ nói đơn giản hơn: "Could you put that more simply?".
+keys: could you clarify what you mean by / so what you're saying is / in other words / let me make sure i've understood / when you say / could you put that more simply
+
+hughes: Thanks for your help in there. Can we go through the next steps before we talk to the family? | Cảm ơn cô đã giúp trong đó. Chúng ta xem lại các bước tiếp theo trước khi nói chuyện với gia đình nhé? [explain]
+soraya: Of course. Could you explain it in simple terms first? Then I can translate it accurately. | Tất nhiên ạ. Ông giải thích bằng từ ngữ đơn giản trước được không? Như vậy tôi mới dịch chính xác được. [nod]
+hughes: Two of her coronary arteries are significantly narrowed, so we're recommending a bypass. | Hai động mạch vành của bà bị hẹp đáng kể, nên chúng tôi đề nghị làm cầu nối động mạch. [explain]
+soraya: Sorry, could you clarify what you mean by "bypass"? | Xin lỗi, ông có thể làm rõ "cầu nối" nghĩa là gì không ạ? [thinking]
+hughes: We take a blood vessel from her leg and use it to carry blood around the blockage. | Chúng tôi lấy một mạch máu ở chân bà và dùng nó để dẫn máu vòng qua chỗ tắc. [explain ipa=use:juz]
+soraya: So what you're saying is that you create a new route for the blood. | Vậy ý ông là các ông tạo ra một đường đi mới cho dòng máu. [thinking]
+hughes: Precisely. In other words, the blood goes around the blocked part instead of through it. | Chính xác. Nói cách khác, máu sẽ đi vòng qua đoạn bị tắc thay vì đi xuyên qua nó. [nod]
+soraya: Is it a major operation? She'll need to give her own consent, so she has to understand it. | Đây có phải một ca mổ lớn không ạ? Bà sẽ cần tự đồng ý, nên bà phải hiểu rõ. [worried]
+hughes: It is. She'll be in hospital for about a week, and recovery takes two or three months. | Đúng vậy. Bà sẽ nằm viện khoảng một tuần, và hồi phục mất hai đến ba tháng. [explain]
+soraya: Let me make sure I've understood. One week in hospital, then about three months at home? | Để tôi chắc là mình hiểu đúng. Một tuần ở viện, rồi khoảng ba tháng ở nhà ạ? [thinking]
+hughes: That's right. Most patients her age do well, but there are risks. | Đúng vậy. Hầu hết bệnh nhân ở tuổi bà hồi phục tốt, nhưng vẫn có rủi ro. [nod]
+soraya: When you say "risks", do you mean serious ones? She'll definitely ask. | Khi ông nói "rủi ro", ý ông là rủi ro nghiêm trọng ạ? Chắc chắn bà sẽ hỏi. [worried]
+hughes: A small risk of stroke or infection. I'd put it at a few percent. | Một nguy cơ nhỏ bị đột quỵ hoặc nhiễm trùng. Tôi ước khoảng vài phần trăm. [explain]
+soraya: Could you put that more simply for her? Numbers can be frightening. | Ông có thể nói điều đó đơn giản hơn cho bà không? Những con số có thể làm người ta sợ. [thinking]
+hughes: Good point. I'll say that most people in her situation recover well, but no operation is completely safe. | Ý hay. Tôi sẽ nói rằng hầu hết những người ở hoàn cảnh của bà đều hồi phục tốt, nhưng không ca mổ nào an toàn tuyệt đối. [nod]
+soraya: That's clear and honest. Will you also explain why the operation is better than doing nothing? | Như vậy rõ ràng và trung thực. Ông cũng sẽ giải thích vì sao phẫu thuật tốt hơn là không làm gì chứ ạ? [nod]
+hughes: Without it, she's at high risk of a heart attack. That's the key message. | Nếu không mổ, bà có nguy cơ cao bị đau tim. Đó là thông điệp then chốt. [explain]
+soraya: Understood. I'm ready when you are. | Tôi hiểu rồi. Khi nào ông sẵn sàng thì tôi cũng sẵn sàng. [happy]
+gloss: coronary arteries, bypass, blockage

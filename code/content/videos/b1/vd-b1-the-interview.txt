@@ -1,0 +1,33 @@
+=== vd-b1-the-interview
+title: Tell Me About Yourself | Hãy giới thiệu về bản thân anh
+source: st-b1-the-interview
+summary: Tối trước buổi phỏng vấn, Nani đóng vai nhà tuyển dụng khó tính để Ravi luyện những câu trả lời quan trọng nhất.
+scene: home-evening
+cast: nani name=Nani look=grandma x=540 voice=en-US-MichelleNeural pitch=-6Hz rate=-4% style.skin=#B98160 style.skinShade=#A06A4A style.glasses=true style.outfit=cardigan style.top=#8E3B5E style.topShade=#76304E
+cast: ravi name=Ravi look=man x=1140 voice=en-US-GuyNeural pitch=+4Hz style.hair=short style.hairColor=#1A1A1A style.skin=#A8704C style.skinShade=#8E5C3C style.outfit=suit style.top=#2F3E55 style.topShade=#243145
+names: Brightway, Nani, Ravi
+words: experience; strength; weakness; hire; customer; manage
+focus: Trả lời phỏng vấn xin việc
+pattern: Tell me about yourself. · I've been … for … · My greatest strength is… · One of my weaknesses is… · I'm really interested in… · Why should we hire you?
+explain: Kể kinh nghiệm bằng hiện tại hoàn thành: "I've worked in…", "I've been studying… for two years". Điểm mạnh: "My greatest strength is + danh từ / V-ing". Điểm yếu nên kèm hướng khắc phục: "One of my weaknesses is…, but I'm working on it." Thể hiện mong muốn: "I'm really interested in…".
+keys: tell me about yourself / i've been / my greatest strength / one of my weaknesses / i'm really interested in / why should we hire you
+
+nani: Good evening, Mr. Ravi. Please sit down. | Chào anh Ravi. Mời anh ngồi. [neutral]
+ravi: Nani, you don't have to be so serious. | Bà ơi, bà không cần nghiêm túc thế đâu. [happy]
+nani: I'm not your grandmother tonight. I'm the interviewer. Tell me about yourself. | Tối nay bà không phải là bà của cháu. Bà là người phỏng vấn. Hãy giới thiệu về bản thân anh. [explain]
+ravi: OK. I've just finished my degree in business, and I'm looking for my first full-time job. | Vâng. Tôi vừa tốt nghiệp ngành quản trị kinh doanh, và tôi đang tìm công việc toàn thời gian đầu tiên. [shy]
+nani: Do you have any experience? | Anh có kinh nghiệm gì không? [thinking]
+ravi: I've worked in my uncle's shop for two summers. I dealt with customers every day. | Tôi đã làm ở cửa hàng của chú tôi hai mùa hè. Ngày nào tôi cũng tiếp khách hàng. [explain]
+nani: And what is your greatest strength? | Vậy điểm mạnh lớn nhất của anh là gì? [thinking]
+ravi: My greatest strength is staying calm. Angry customers don't frighten me. | Điểm mạnh lớn nhất của tôi là giữ bình tĩnh. Khách hàng nổi nóng không làm tôi sợ. [explain]
+nani: Very good. Now the difficult one. What is your greatest weakness? | Rất tốt. Giờ đến câu khó. Điểm yếu lớn nhất của anh là gì? [thinking]
+ravi: Um… I work too hard? | Ừm… Tôi làm việc quá chăm chỉ? [shy]
+nani: Nobody believes that answer, Ravi. Try again. | Chẳng ai tin câu đó đâu, Ravi. Thử lại đi. [shake]
+ravi: All right. One of my weaknesses is that I've never managed a team. | Được rồi. Một trong những điểm yếu của tôi là tôi chưa từng quản lý một nhóm nào. [thinking]
+nani: That's honest. What are you doing about it? | Thành thật đấy. Anh đang làm gì để khắc phục? [nod]
+ravi: I've been reading about leadership, and I'm not afraid to ask for help. | Tôi đang đọc về kỹ năng lãnh đạo, và tôi không ngại nhờ người khác giúp. [explain]
+nani: Why are you interested in this company? | Tại sao anh quan tâm đến công ty này? [thinking]
+ravi: I'm really interested in solar energy. I think Brightway is doing important work. | Tôi thực sự quan tâm đến năng lượng mặt trời. Tôi nghĩ Brightway đang làm những việc quan trọng. [happy]
+nani: Last question. Why should we hire you, young man? | Câu hỏi cuối. Tại sao chúng tôi nên tuyển anh, chàng trai trẻ? [thinking]
+ravi: Because I learn fast, I care about people, and I never give up. | Vì tôi học nhanh, tôi quan tâm đến mọi người, và tôi không bao giờ bỏ cuộc. [happy nani:happy]
+gloss: interviewer

@@ -1,0 +1,34 @@
+=== vd-b1-twenty-years-later
+title: What Have You Been Up To? | Dạo này cậu thế nào?
+source: st-b1-twenty-years-later
+summary: Trên bậc thềm trường cũ, Grace và Liam cập nhật cho nhau hai mươi năm cuộc đời — trước khi dám nhắc đến chuyện năm xưa.
+scene: campus-gate
+cast: grace name=Grace look=woman x=540 voice=en-US-JennyNeural pitch=+2Hz style.hair=bob style.hairColor=#6B4226 style.outfit=blouse style.top=#C0392B style.topShade=#A93226
+cast: liam name=Liam look=man x=1140 voice=en-US-ChristopherNeural pitch=+2Hz style.hair=short style.hairColor=#3A2A22 style.glasses=true style.outfit=shirt style.top=#2E86AB style.topShade=#246E8D
+names: Grace, Liam
+words: architect; married; boring; remember; since; clever
+focus: Hỏi han bạn cũ sau nhiều năm
+pattern: It's been ages! · What have you been up to? · I haven't seen you since… · Are you still…? · So what do you do now? · Last time I saw you,…
+explain: Gặp lại người quen lâu ngày: "It's been ages!", "Long time no see!". Hỏi về quãng thời gian đã qua bằng hiện tại hoàn thành: "What have you been up to?", "I haven't seen you since graduation." Hỏi thay đổi: "Are you still living in…?"
+keys: it's been ages / what have you been up to / i haven't seen you since / are you still / what do you do now / last time i saw you
+
+liam: Hi, Grace. It's been ages. | Chào Grace. Lâu lắm rồi nhỉ. [shy]
+grace: Liam. Wow. Twenty years. I haven't seen you since graduation. | Liam. Chà. Hai mươi năm. Tớ chưa gặp lại cậu từ ngày tốt nghiệp. [surprised]
+liam: You look exactly the same. | Cậu trông vẫn y như xưa. [happy]
+grace: That's a lie, but thank you. So, what have you been up to? | Nói dối đấy, nhưng cảm ơn nhé. Vậy dạo này cậu thế nào? [happy]
+liam: Oh, lots of things. I studied history, and now I teach at a school near the coast. | Ồ, nhiều chuyện lắm. Tớ học sử, và giờ tớ dạy ở một trường gần biển. [explain]
+grace: A teacher! Like Mr. Ellis? | Giáo viên à! Giống thầy Ellis sao? [surprised]
+liam: I hope I'm less boring. What about you? What do you do now? | Mong là tớ đỡ nhàm chán hơn thầy. Còn cậu? Giờ cậu làm gì? [happy]
+grace: I'm an architect. I design schools and libraries, mostly. | Tớ là kiến trúc sư. Chủ yếu tớ thiết kế trường học và thư viện. [explain]
+liam: That's perfect. You were always drawing buildings in maths lessons. | Thế thì hợp quá. Hồi đó giờ toán cậu lúc nào cũng vẽ nhà cửa. [happy]
+grace: Ha! You remember that? Are you still living in town? | Ha! Cậu còn nhớ à? Cậu vẫn sống ở thị trấn chứ? [happy]
+liam: No, I moved away years ago. Are you married? | Không, tớ chuyển đi lâu rồi. Cậu đã kết hôn chưa? [thinking]
+grace: Yes, with two kids. They're seven and ten. And you? | Rồi, có hai đứa nhỏ. Chúng bảy và mười tuổi. Còn cậu? [happy]
+liam: A daughter. She's eleven, and she's much cleverer than me. | Một cô con gái. Con bé mười một tuổi, và thông minh hơn tớ nhiều. [happy]
+grace: The town has changed so much. The old café has gone. | Thị trấn thay đổi nhiều quá. Quán cà phê cũ không còn nữa. [sad]
+liam: I know. Last time I saw you, we were sitting in that café. | Tớ biết. Lần cuối tớ gặp cậu, tụi mình đang ngồi ở quán đó. [sad]
+grace: I remember. It was just before the scholarship… and everything. | Tớ nhớ. Ngay trước vụ học bổng… và mọi chuyện. [sad]
+liam: I was jealous back then, I admit. But I never understood why you stopped talking to me. | Hồi đó tớ ghen tị, tớ thừa nhận. Nhưng tớ chưa bao giờ hiểu vì sao cậu không nói chuyện với tớ nữa. [sad]
+grace: I heard some rumors. Maybe I should have asked you first. | Tớ đã nghe vài lời đồn. Có lẽ lẽ ra tớ nên hỏi cậu trước. [sad]
+liam: Then let's talk now. We've waited twenty years. | Vậy thì nói ngay bây giờ đi. Tụi mình đã đợi hai mươi năm rồi. [nod grace:shy]
+gloss: graduation, rumors

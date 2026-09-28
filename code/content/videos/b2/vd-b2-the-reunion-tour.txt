@@ -1,0 +1,34 @@
+=== vd-b2-the-reunion-tour
+title: If We Hadn't Split Up… | Nếu hồi đó ta không tan rã…
+source: st-b2-the-reunion-tour
+summary: Năm phút trước giờ diễn tái hợp, Nina và Ollie ở hậu trường nghĩ về những ngã rẽ của mười lăm năm qua — luyện câu điều kiện hỗn hợp nối quá khứ với hiện tại.
+scene: stage
+prop: microphone x=820
+cast: nina name=Nina look=woman x=520 voice=en-US-EmmaNeural pitch=-3Hz style.hair=bob style.hairColor=#7B3F20 style.outfit=jacket style.top=#1C1C1C style.topShade=#111111
+cast: ollie name=Ollie look=man x=1160 voice=en-US-AndrewNeural pitch=-3Hz style.hair=short style.hairColor=#9A9A9A style.outfit=shirt style.top=#922B21 style.topShade=#7B241C
+names: Nina, Ollie, Glasgow, Lucy
+words: stubborn; proud; regret; album; doubt; wonder
+focus: Câu điều kiện hỗn hợp: quá khứ ↔ hiện tại
+pattern: If we hadn't split up, we'd probably be… · If I'd kept drinking, I wouldn't be… · If you'd told me, I would have… · If I weren't so stubborn, I would have… · We wouldn't be here now if… hadn't…
+explain: Điều kiện trái với quá khứ, kết quả ở hiện tại: "If + had + V3, would + V" → "If we hadn't split up, we'd be on our tenth album by now." Đặc điểm hiện tại dẫn tới kết quả quá khứ: "If + quá khứ đơn, would have + V3" → "If I weren't so stubborn, I would have called you years ago." Loại 3 thông thường: "If you'd told me, I would have helped."
+keys: if we hadn't split up / if i'd kept drinking / if you'd told me / if i weren't so stubborn / we wouldn't be standing here
+
+ollie: Five minutes. The venue is completely packed. Are you all right? You look pale. | Còn năm phút. Khán phòng chật kín rồi. Em ổn chứ? Trông em tái mét. [worried]
+nina: I'm fine. Just thinking. If we hadn't split up in Glasgow, we'd probably be on our tenth album by now. | Em ổn. Chỉ đang nghĩ ngợi. Nếu hồi đó ở Glasgow mình không tan rã, giờ chắc mình đã ra đến album thứ mười. [thinking @microphone]
+ollie: Or we'd hate each other even more. If I'd kept drinking, I wouldn't be alive today. | Hoặc giờ mình còn ghét nhau hơn. Nếu anh cứ uống tiếp, hôm nay anh đã chẳng còn sống. [sad]
+nina: Don't say that. | Đừng nói thế. [sad]
+ollie: It's true. If I hadn't ended up in hospital that night, I'd still be lying to everyone. | Thật mà. Nếu đêm đó anh không phải vào viện, giờ anh vẫn đang nói dối mọi người. [explain]
+nina: If you'd told me how bad it was back then, I would have tried to help you. | Nếu hồi đó anh nói cho em biết tình trạng tệ đến mức nào, em đã cố giúp anh rồi. [sad]
+ollie: I know. But I was too proud. If I weren't so stubborn, I would have called you years ago. | Anh biết. Nhưng anh quá kiêu hãnh. Nếu anh không bướng bỉnh như vậy, anh đã gọi cho em từ nhiều năm trước. [shy]
+nina: And if I weren't so stubborn, I would have answered. | Và nếu em không bướng bỉnh như vậy, em đã nghe máy. [happy]
+ollie: We wouldn't be standing here now if that girl hadn't posted her video. | Giờ mình đã chẳng đứng ở đây nếu cô bé ấy không đăng đoạn video của mình. [happy]
+nina: Lucy says her whole class is coming tonight. If they'd known I was in a band, they would have behaved better in my lessons! | Lucy nói cả lớp nó tối nay sẽ đến. Nếu biết em từng ở trong một ban nhạc, chắc chúng đã ngoan hơn trong giờ học của em! [happy]
+ollie: Somehow I doubt that. | Anh e là không đâu. [happy]
+nina: Do you ever wonder what our lives would be like now if we'd never met? | Anh có bao giờ tự hỏi cuộc sống của mình giờ sẽ ra sao nếu mình chưa từng gặp nhau không? [thinking ipa=lives:laɪvz]
+ollie: All the time. If we'd never met, I'd be working in an office with no songs to my name. | Lúc nào cũng hỏi. Nếu mình chưa từng gặp nhau, giờ anh đang làm văn phòng mà chẳng có bài hát nào mang tên mình. [shrug]
+nina: You do work in an office with no songs to your name! | Thì anh đang làm văn phòng và chẳng có bài hát nào mang tên mình đấy thôi! [happy]
+ollie: True. But if you hadn't agreed to this tour, I'd still be playing only for my daughter. | Đúng thế. Nhưng nếu em không đồng ý chuyến lưu diễn này, giờ anh vẫn chỉ đang chơi đàn cho con gái nghe. [happy]
+nina: Well, tonight you're playing for seven thousand people. Ready? | Vậy thì tối nay anh sẽ chơi cho bảy nghìn người nghe. Sẵn sàng chưa? [happy]
+ollie: As long as you are. And Nina, if I hadn't said sorry, I'd regret it for the rest of my life. | Miễn là em sẵn sàng. Và Nina này, nếu anh không nói lời xin lỗi, anh sẽ hối hận suốt phần đời còn lại. [shy]
+nina: I know. Now let's go before my nerves take over. | Em biết. Giờ đi thôi trước khi em run quá. [cheer ollie:happy]
+gloss: venue

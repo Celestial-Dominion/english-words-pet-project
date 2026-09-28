@@ -1,0 +1,33 @@
+=== vd-b1-the-time-capsule
+title: We Thought Cars Would Fly | Hồi đó tụi mình tưởng ô tô sẽ bay
+source: st-b1-the-time-capsule
+summary: Sau lễ mở hộp, Nadia và bạn học cũ Toby ngồi đọc lại những dự đoán năm 2001 — đúng, sai và buồn cười.
+scene: campus-gate
+cast: nadia name=Nadia look=woman x=540 voice=en-US-AvaNeural pitch=+2Hz style.hair=long style.hairColor=#2B1B14 style.skin=#C68E6A style.skinShade=#AD7654 style.outfit=blouse style.top=#AF7AC5 style.topShade=#9B65B4
+cast: toby name=Toby look=man x=1140 voice=en-US-EricNeural pitch=+2Hz style.hair=short style.hairColor=#C49A5A style.outfit=tee style.top=#48C9B0 style.topShade=#3AB09A
+names: Holt, Nadia, Sam, Toby
+words: predict; imagine; expect; accurate; future; instead
+focus: Nói về dự đoán trong quá khứ
+pattern: We thought (that)… would… · I was going to… · I never imagined (that)… · Back then,… · It turned out that… · I was sure (that)…
+explain: Dự đoán nhìn từ quá khứ: "We thought cars would fly by now." (will → would). Dự định không thành: "I was going to be a vet." Điều không ngờ: "I never imagined I'd be a teacher." Kết quả thực tế: "It turned out that…".
+keys: we thought / would / i was going to / i never imagined / back then / it turned out / i was sure
+
+toby: Nadia! I can't believe we're reading our own letters. | Nadia! Không tin nổi là tụi mình đang đọc thư của chính mình. [happy]
+nadia: I know. Back then, 2026 seemed so far away. | Tớ biết. Hồi đó, năm 2026 có vẻ xa xôi lắm. [happy]
+toby: Listen to mine. "In 2026, cars will fly and nobody will go to school." | Nghe thư của tớ nè. "Năm 2026, ô tô sẽ bay và chẳng ai phải đến trường." [happy]
+nadia: Ha! We thought cars would fly by now. Everyone predicted that. | Ha! Hồi đó tụi mình tưởng giờ này ô tô sẽ bay rồi. Ai cũng dự đoán vậy. [happy]
+toby: I was sure about it. I even drew a picture. | Tớ đã rất chắc chắn đấy. Tớ còn vẽ cả tranh nữa. [shy]
+nadia: Some predictions were accurate, though. Sam wrote that we'd all have tiny computers. | Nhưng có những dự đoán chính xác mà. Sam viết là ai cũng sẽ có máy tính tí hon. [explain]
+toby: He was right. What did you write? | Cậu ấy nói đúng. Còn cậu viết gì? [thinking]
+nadia: I was going to be a vet and live in a big city with a horse. | Tớ định làm bác sĩ thú y và sống ở thành phố lớn với một con ngựa. [happy ipa=live:lɪv]
+toby: And instead you became a teacher. Here, at our old school! | Vậy mà cậu lại thành giáo viên. Ngay tại trường cũ của tụi mình! [surprised]
+nadia: I never imagined that. It turned out that I loved teaching more than animals. | Tớ chưa bao giờ tưởng tượng ra điều đó. Hoá ra tớ yêu dạy học hơn cả động vật. [happy]
+toby: Because of Mr. Holt? | Vì thầy Holt à? [thinking]
+nadia: Mostly, yes. I didn't expect to find his letter in the box. | Phần lớn là vậy. Tớ không ngờ lại tìm thấy thư của thầy trong hộp. [sad]
+toby: Neither did I. It was beautiful. | Tớ cũng vậy. Lá thư thật đẹp. [sad]
+nadia: So what about you? Were you going to be an astronaut? | Còn cậu thì sao? Hồi đó cậu định làm phi hành gia à? [thinking]
+toby: A footballer, actually. Now I sell insurance. | Thật ra là cầu thủ bóng đá. Giờ tớ bán bảo hiểm. [shy]
+nadia: Well, nobody can predict the future perfectly. | Thôi thì, chẳng ai dự đoán tương lai hoàn hảo được. [happy]
+toby: True. What will your students predict for 2051? | Đúng. Học sinh của cậu sẽ dự đoán gì cho năm 2051? [thinking]
+nadia: Flying cars, probably. Some things never change! | Chắc là ô tô bay. Có những thứ chẳng bao giờ thay đổi! [happy toby:happy]
+gloss: astronaut

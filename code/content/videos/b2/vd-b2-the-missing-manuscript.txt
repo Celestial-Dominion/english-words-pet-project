@@ -1,0 +1,36 @@
+=== vd-b2-the-missing-manuscript
+title: Who Could Have Taken It? | Ai có thể đã lấy nó?
+source: st-b2-the-missing-manuscript
+summary: Clara và bà Achebe cùng suy đoán ai đã lấy bản thảo trong tủ khoá — luyện cách phỏng đoán về quá khứ với must have, might have, can't have.
+scene: office
+prop: report x=820
+cast: clara name=Clara look=woman x=540 voice=en-US-EmmaNeural style.hair=curly style.hairColor=#2B1B14 style.outfit=blouse style.top=#8E44AD style.topShade=#7D3C98
+cast: ngozi name="Ms. Achebe" vi="Bà Achebe" look=woman x=1140 voice=en-US-MichelleNeural pitch=-3Hz style.hair=bun style.hairColor=#1A1A1A style.skin=#8D5524 style.skinShade=#74451D style.outfit=suit style.top=#2C3E50 style.topShade=#243342
+names: Clara, Achebe, Oliver, Dev, Martin
+words: cabinet; suspicious; evidence; admit; security; colleague
+focus: Phỏng đoán về quá khứ: must have / might have / can't have
+pattern: Someone must have… · He might have… · Anyone could have… · It can't have been… · They couldn't have… · Who else could have…?
+explain: "Must have + V3" = gần như chắc chắn đã xảy ra: "Whoever opened it must have had a key." "Might/could have + V3" = có thể đã xảy ra: "He might have taken it home." "Can't/couldn't have + V3" = chắc chắn không: "It can't have been Martin." Phủ định của "must have" là "can't have", không nói "mustn't have".
+keys: must have / might have / could have / can't have / couldn't have / who else could have
+
+ngozi: So, Clara, what do you think? Where could the manuscript have gone? | Vậy Clara, cô nghĩ sao? Bản thảo có thể đã đi đâu? [thinking]
+clara: Well, the lock wasn't broken, so whoever opened the cabinet must have had a key. | Chà, ổ khoá không bị phá, nên người mở tủ hẳn đã có chìa. [explain @report]
+ngozi: But only Oliver and Dev have keys. | Nhưng chỉ Oliver và Dev có chìa. [confused]
+clara: Not quite. Everyone knows about the spare key in Oliver's drawer. Anyone could have taken it. | Không hẳn. Ai cũng biết chiếc chìa dự phòng trong ngăn kéo của ông Oliver. Ai cũng có thể đã lấy nó. [point]
+ngozi: What about Martin? He came in on Saturday, didn't he? | Còn Martin thì sao? Cậu ấy có đến vào thứ Bảy, phải không? [thinking]
+clara: Yes, but it can't have been him. Dev says he was only here for ten minutes. | Vâng, nhưng không thể là anh ấy. Dev nói anh ấy chỉ ở đây mười phút. [shake]
+ngozi: Ten minutes is plenty of time to open a cabinet. | Mười phút là thừa thời gian để mở một cái tủ. [thinking]
+clara: True, but he never went near Oliver's office. The security guard was with him the whole time. | Đúng, nhưng anh ấy không hề lại gần phòng ông Oliver. Nhân viên an ninh đi cùng anh ấy suốt. [explain]
+ngozi: And the nephew? He's been talking to our rivals. I find that rather suspicious. | Còn người cháu? Cậu ta đang tiếp xúc với đối thủ của chúng ta. Tôi thấy chuyện đó khá đáng ngờ. [worried]
+clara: He might have wanted a better deal. But stealing the manuscript wouldn't have helped him at all. | Anh ta có thể muốn một hợp đồng tốt hơn. Nhưng ăn cắp bản thảo chẳng giúp gì được anh ta. [shrug]
+ngozi: Then who else could have done it? The cleaners? | Vậy còn ai khác có thể đã làm? Nhân viên dọn dẹp à? [confused]
+clara: They couldn't have. The cleaners don't come in at weekends. | Không thể nào. Nhân viên dọn dẹp không làm vào cuối tuần. [shake]
+ngozi: So we have no evidence at all. | Vậy là chúng ta hoàn toàn không có bằng chứng nào. [sad]
+clara: Not yet. But one thing bothers me. | Chưa có. Nhưng có một điều khiến tôi băn khoăn. [thinking]
+ngozi: Go on. | Cô nói tiếp đi. [nod]
+clara: Oliver told us that nobody should read it before Monday. What if he couldn't wait himself? | Ông Oliver dặn không ai được đọc nó trước thứ Hai. Lỡ như chính ông ấy không chờ được thì sao? [thinking ipa=read:rid]
+ngozi: You mean he might have taken it home? Oliver would never admit that! | Ý cô là ông ấy có thể đã mang nó về nhà? Oliver sẽ không bao giờ thừa nhận chuyện đó! [surprised]
+clara: Exactly. And if he lost it, he must have been too embarrassed to tell anyone. | Chính xác. Và nếu ông ấy làm mất nó, hẳn ông ấy đã quá ngượng để nói với ai. [explain]
+ngozi: Be careful, Clara. That's a serious thing to say about a colleague. | Cẩn thận đấy, Clara. Nói về một đồng nghiệp như vậy là chuyện nghiêm trọng. [worried]
+clara: I know. That's why I want to be sure before I say a word to him. | Tôi biết. Vì thế tôi muốn chắc chắn trước khi nói một lời nào với ông ấy. [nod]
+gloss: manuscript

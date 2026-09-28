@@ -1,0 +1,40 @@
+=== vd-c2-the-negotiator
+title: Help Me Understand | Hãy giúp tôi hiểu
+source: st-c2-the-negotiator
+summary: Qua bộ đàm, thanh tra Maria làm dịu cơn giận của Carl trên đỉnh cần cẩu: lắng nghe, gọi tên cảm xúc, không hứa suông và đề nghị từng bước nhỏ.
+scene: street
+cast: maria name=Maria look=woman x=520 voice=en-US-AriaNeural pitch=-3Hz rate=-4% style.hair=bun style.hairColor=#3B2314 style.outfit=uniform style.top=#1C2833 style.topShade=#17202A style.hat=police
+cast: carl name=Carl look=man x=1160 voice=en-US-GuyNeural pitch=-5Hz rate=+2% style.hair=short style.hairColor=#7F5A3A style.outfit=jacket style.top=#E67E22 style.topShade=#CA6F1E style.hat=helmet
+names: Maria, Carl, Ellie, Lyle
+words: grievance; negotiator; escalate; incremental; dehydration; ultimatum
+focus: Xoa dịu người đang kích động: lắng nghe, gọi tên cảm xúc, không hứa suông, đề nghị từng bước nhỏ
+pattern: Help me understand… · It sounds as if… · Take your time. · I'm not going to pretend… · What would need to happen for…? · Can we agree on one small thing?
+explain: Mời người kia kể thay vì tranh cãi: "Help me understand what happened". Phản chiếu cảm xúc để họ thấy được lắng nghe: "It sounds as if you feel ignored". Không hứa điều mình không làm được: "I'm not going to pretend I can…". Hỏi điều kiện để tiến lên: "What would need to happen for you to…?". Chốt từng bước nhỏ: "Can we agree on one small thing?" — nhượng bộ nhỏ tạo đà cho nhượng bộ lớn.
+keys: help me understand / it sounds as if / take your time / not going to pretend / what would need to happen / one small thing
+
+carl: I told you already, I'm not coming down. So don't bother with the speech. | Tôi đã nói rồi, tôi không xuống. Nên đừng phí công diễn thuyết. [angry]
+maria: No speech, I promise. I'm Maria. Help me understand what's brought you up there. | Không diễn thuyết đâu, tôi hứa. Tôi là Maria. Hãy giúp tôi hiểu điều gì đã đưa anh lên đó. [explain]
+carl: Four months without pay. That's what. And nobody gives a damn. | Bốn tháng không lương. Thế đấy. Và chẳng ai thèm quan tâm. [angry]
+maria: Four months. That's a long time to keep turning up and hearing excuses. | Bốn tháng. Đó là quãng thời gian dài để cứ đến làm rồi nghe những lời thoái thác. [nod ipa=excuses:ɪkˈskjusɪz]
+carl: Excuses, then silence. The office was empty. They just vanished. | Thoái thác, rồi im lặng. Văn phòng trống trơn. Họ cứ thế biến mất. [sad ipa=excuses:ɪkˈskjusɪz]
+maria: It sounds as if you did everything the right way, and it got you nowhere. | Nghe như thể anh đã làm mọi thứ đúng cách, mà chẳng đi đến đâu. [explain]
+carl: Exactly. So this is the wrong way. At least people are looking now. | Chính xác. Vậy nên đây là cách sai. Ít ra giờ người ta đang nhìn. [point]
+maria: They certainly are. Your grievance has been heard today. I want to make sure you're safe while we deal with it. | Chắc chắn là vậy. Nỗi bất bình của anh hôm nay đã được lắng nghe. Tôi muốn chắc rằng anh an toàn trong lúc chúng ta giải quyết nó. [nod]
+carl: You're a negotiator. You'd say anything to get me down. | Bà là nhà đàm phán. Bà sẽ nói bất cứ điều gì để đưa tôi xuống. [thinking]
+maria: I'm not going to pretend I can get your wages paid this afternoon. I can't. But I won't lie to you either. | Tôi sẽ không giả vờ rằng tôi có thể khiến anh được trả lương ngay chiều nay. Tôi không làm được. Nhưng tôi cũng sẽ không nói dối anh. [explain]
+carl: That's more honesty than I've had in months. | Đó là sự thật lòng nhiều hơn những gì tôi nhận được suốt mấy tháng. [sad]
+maria: Take your time. You've had no water since six, and the wind's picking up. How are you feeling? | Cứ từ từ. Anh không có giọt nước nào từ sáu giờ, và gió đang mạnh lên. Anh thấy thế nào? [worried ipa=wind:wɪnd]
+carl: Dizzy, a bit. My mouth's like sand. | Hơi chóng mặt. Miệng tôi khô như cát. [tired]
+maria: That's dehydration, and it'll cloud your judgement. Can we agree on one small thing? | Đó là mất nước, và nó sẽ làm phán đoán của anh mờ đi. Chúng ta thoả thuận một việc nhỏ được không? [explain]
+carl: Depends what it is. | Còn tuỳ là việc gì. [thinking]
+maria: Put on the harness in the cab, and I'll have water and food sent up on the rope. | Anh mặc bộ dây an toàn trong cabin, và tôi sẽ cho gửi nước với đồ ăn lên theo dây thừng. [point]
+carl: That's all? No trick? | Chỉ thế thôi? Không mẹo gì chứ? [confused]
+maria: No trick. Small steps. Incremental, my trainers would say. | Không mẹo gì cả. Từng bước nhỏ. Các thầy dạy tôi sẽ gọi là dần dần. [happy]
+carl: Fine. It's on. Now I want Lyle here. He comes and apologizes, or I stay. | Được. Mặc rồi. Giờ tôi muốn Lyle đến đây. Ông ta đến xin lỗi, không thì tôi ở lại. [angry]
+maria: I hear you. What would need to happen for you to feel it had been worth it? | Tôi nghe anh rồi. Điều gì cần xảy ra để anh cảm thấy chuyện này là đáng? [thinking]
+carl: The lads get paid. All of them, not just me. | Anh em được trả lương. Tất cả, không chỉ mình tôi. [explain]
+maria: That's a fair demand, and it's clearer than an ultimatum. Let me take it to him, word for word. | Đó là một yêu cầu công bằng, và nó rõ ràng hơn một tối hậu thư. Để tôi đưa nó tới ông ta, nguyên văn từng chữ. [nod]
+carl: And if he refuses? | Còn nếu ông ta từ chối? [worried]
+maria: Then we keep talking. Nobody's going to escalate anything while I'm here. You have my word. | Thì chúng ta tiếp tục nói chuyện. Sẽ không ai làm căng thẳng leo thang khi tôi còn ở đây. Tôi hứa với anh. [explain]
+carl: Maria? Thanks for listening. Really listening, I mean. | Maria? Cảm ơn bà đã lắng nghe. Lắng nghe thật sự ấy. [sad maria:happy]
+gloss: harness, cab, wages, dizzy, trainers, lads

@@ -1,0 +1,34 @@
+=== vd-b1-the-double-booking
+title: I'm Afraid There's Been a Mistake | Tôi e là đã có nhầm lẫn
+source: st-b1-the-double-booking
+summary: Tại quầy lễ tân, Lucy phải báo cho ông Hale khó tính rằng phòng của ông đã bị đặt trùng — và tìm cách xoay xở ngay tại chỗ.
+scene: service-hall
+cast: hale name="Mr. Hale" vi="Ông Hale" look=man x=560 voice=en-US-ChristopherNeural pitch=-6Hz rate=-4% style.hair=short style.hairColor=#8C8C8C style.outfit=suit style.top=#2C3E50 style.topShade=#212F3D
+cast: lucy name=Lucy look=woman x=1140 voice=en-US-EmmaNeural pitch=+4Hz style.hair=bun style.hairColor=#B5652E style.outfit=uniform style.top=#1F618D style.topShade=#1A5276
+names: Fenwick, Hale, Lucy
+words: reservation; available; mistake; apologize; private; personally
+focus: Xử lý sự cố với khách hàng
+pattern: I have a reservation under… · I'm afraid there's been a mistake. · I do apologize. · Let me see what I can do. · We'd like to offer you… · I'll personally make sure…
+explain: Báo tin xấu lịch sự: "I'm afraid (that)…". Xin lỗi trang trọng: "I do apologize for the inconvenience." Không tranh cãi, hướng tới giải pháp: "Let me see what I can do.", "We'd like to offer you…". Cam kết: "I'll personally make sure…".
+keys: reservation under / i'm afraid / i do apologize / let me see what i can do / we'd like to offer you / personally make sure
+
+hale: Good evening. I have a reservation under the name Hale. | Chào cô. Tôi có đặt phòng dưới tên Hale. [neutral]
+lucy: Good evening, Mr. Hale. Let me check for you. | Chào ông Hale. Để tôi kiểm tra cho ông. [happy]
+hale: The sea view suite, for three nights. | Phòng hạng sang nhìn ra biển, ba đêm. [neutral]
+lucy: I'm afraid there's been a mistake with our system. | Tôi e là hệ thống của chúng tôi đã có sai sót. [worried]
+hale: What kind of mistake? | Sai sót kiểu gì? [thinking]
+lucy: The suite was booked twice, and another guest has already checked in. | Phòng đã bị đặt hai lần, và một vị khách khác đã nhận phòng rồi. [worried]
+hale: That's unacceptable. I booked it two months ago. | Thật không thể chấp nhận được. Tôi đặt từ hai tháng trước. [angry]
+lucy: You're absolutely right, and I do apologize. | Ông hoàn toàn đúng, và tôi thành thật xin lỗi. [sad]
+hale: So what are you going to do about it? | Vậy cô định giải quyết thế nào? [angry]
+lucy: Let me see what I can do. Could you give me two minutes? | Để tôi xem có thể làm gì. Ông cho tôi hai phút được không? [explain ipa=minutes:ˈmɪnɪts]
+hale: Two minutes. | Hai phút. [neutral]
+lucy: There's one room available on the top floor. It has a private balcony with a view of the harbor. | Còn một phòng trống ở tầng thượng. Phòng có ban công riêng nhìn ra bến cảng. [explain]
+hale: Is it as big as the suite? | Nó có rộng bằng phòng hạng sang không? [thinking]
+lucy: It's a little smaller. So we'd like to offer you the first night for free. | Nhỏ hơn một chút. Vì vậy chúng tôi xin mời ông ở miễn phí đêm đầu tiên. [explain]
+hale: Hmm. And tomorrow? | Hừm. Còn ngày mai? [thinking]
+lucy: The suite will be ready by twelve. I'll personally make sure of it. | Phòng hạng sang sẽ sẵn sàng trước mười hai giờ. Tôi sẽ đích thân đảm bảo việc đó. [explain]
+hale: You seem very calm for someone in so much trouble. | Cô có vẻ bình tĩnh quá so với một người đang gặp rắc rối lớn. [thinking]
+lucy: It's my first day, sir. I'm terrified. But I want to fix this properly. | Hôm nay là ngày đầu tiên của tôi, thưa ông. Tôi đang sợ chết khiếp. Nhưng tôi muốn giải quyết chuyện này cho đàng hoàng. [shy]
+hale: Honest, too. All right. Let's see this balcony. | Lại còn thành thật nữa. Được thôi. Xem cái ban công ấy thế nào. [happy lucy:happy]
+gloss: suite, balcony, harbor, unacceptable

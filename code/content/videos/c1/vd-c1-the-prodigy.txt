@@ -1,0 +1,35 @@
+=== vd-c1-the-prodigy
+title: I Don't Want to Overstep, But… | Tôi không muốn vượt quá phận mình, nhưng…
+source: st-c1-the-prodigy
+summary: Sau một buổi tập, Magda nói riêng với huấn luyện viên Boris về nỗi lo cho con gái — tôn trọng chuyên môn của ông nhưng không lùi bước khi ông gạt đi cảm xúc của một đứa trẻ mười một tuổi.
+scene: library
+prop: book x=820 y=640 scale=0.8
+cast: magda name=Magda look=mom x=520 voice=en-US-AvaNeural pitch=-2Hz style.hair=bob style.hairColor=#C49A6C style.outfit=cardigan style.top=#AF7AC5 style.topShade=#9B59B6
+cast: boris name=Boris look=grandpa x=1160 voice=en-US-GuyNeural pitch=-8Hz rate=-4% style.hair=bald style.outfit=suit style.top=#4A4A4A style.topShade=#3A3A3A style.glasses=square
+names: Magda, Boris, Anya, October
+words: expertise; vulnerable; fragile; autonomy; stamina; rigorous
+focus: Bày tỏ lo ngại và bất đồng với một chuyên gia một cách tế nhị
+pattern: I don't want to overstep, but… · I'm a little concerned that… · I hear what you're saying, but… · With all due respect, … · Don't you think it might be…? · I'd hate for her to…
+explain: Ghi nhận vị thế chuyên gia trước: "I know you're the expert, and I don't want to overstep, but…". Nêu lo ngại nhẹ nhàng: "I'm a little concerned that…". Ghi nhận rồi phản biện: "I hear what you're saying, but…", "With all due respect, …". Gợi mở bằng câu hỏi phủ định: "Don't you think it might be too much?". Nói về hậu quả mình lo: "I'd hate for her to lose her love of the game."
+keys: overstep / a little concerned / hear what you're saying / all due respect / don't you think / i'd hate for
+
+magda: Mr. Kagan, have you got a few minutes? It's about Anya. | Thưa ông Kagan, ông có vài phút không ạ? Là chuyện về Anya. [explain @book]
+boris: Of course. She played beautifully today. Her endgames are improving every week. | Tất nhiên. Hôm nay con bé chơi rất hay. Các thế tàn cuộc của nó tiến bộ từng tuần. [happy]
+magda: I'm very grateful for everything you've done. I know you're the expert, and I don't want to overstep, but I'm a little concerned. | Tôi rất biết ơn mọi điều ông đã làm. Tôi biết ông là chuyên gia, và tôi không muốn vượt quá phận mình, nhưng tôi hơi lo. [shy]
+boris: Concerned? Her rating has never been higher. | Lo ư? Hệ số xếp hạng của con bé chưa bao giờ cao như vậy. [surprised]
+magda: It isn't her chess. She doesn't laugh any more, and she wakes at night with her heart pounding. | Không phải chuyện cờ của con bé. Nó không còn cười nữa, và nó thức giấc giữa đêm với tim đập thình thịch. [worried]
+boris: Every champion goes through this. The training has to be rigorous, or she'll never reach the top. | Nhà vô địch nào cũng trải qua điều này. Việc luyện tập phải nghiêm ngặt, nếu không con bé sẽ không bao giờ lên được đỉnh. [explain]
+magda: I hear what you're saying, but six hours a day is a lot for an eleven-year-old. Don't you think it might be too much? | Tôi hiểu điều ông nói, nhưng sáu tiếng mỗi ngày là nhiều với một đứa trẻ mười một tuổi. Ông không nghĩ như vậy có thể là quá sức sao? [thinking]
+boris: Talent is common, Mrs. Kowalska. The stamina to work for years is rare. That's what makes champions. | Tài năng thì phổ biến, bà Kowalska ạ. Sức bền để khổ luyện nhiều năm mới hiếm. Đó là thứ làm nên nhà vô địch. [explain]
+magda: With all due respect, I'm a nurse. I recognize anxiety when I see it, and I see it every evening. | Xin thứ lỗi, tôi là y tá. Tôi nhận ra chứng lo âu khi nhìn thấy nó, và tôi thấy nó mỗi tối. [explain]
+boris: I don't doubt your professional expertise. But you're not a chess player. | Tôi không nghi ngờ chuyên môn nghề nghiệp của bà. Nhưng bà không phải người chơi cờ. [shrug]
+magda: That's true. But I'm her mother. She cried in the bathroom last week because she lost one game online. | Đúng vậy. Nhưng tôi là mẹ con bé. Tuần trước nó khóc trong phòng tắm chỉ vì thua một ván trên mạng. [sad]
+boris: Losing hurts. She has to learn that. | Thua thì đau. Con bé phải học điều đó. [shrug]
+magda: Of course. But she seems so fragile lately. I've read that gifted children can be particularly vulnerable to burnout. | Tất nhiên. Nhưng dạo này con bé có vẻ mong manh quá. Tôi đọc được rằng những đứa trẻ có năng khiếu có thể đặc biệt dễ bị kiệt sức. [worried ipa=read:rɛd]
+boris: And if we reduce the training now, three months before the championship, what then? | Còn nếu giờ ta giảm việc luyện tập, ba tháng trước giải vô địch, thì sao? [angry]
+magda: Then she might not win this year. I'd hate for her to win a title and lose her love of the game. | Thì có thể năm nay con bé sẽ không thắng. Tôi không muốn con bé giành một danh hiệu mà đánh mất tình yêu với trò chơi. [explain]
+boris: So what exactly are you proposing? | Vậy chính xác thì bà đề xuất điều gì? [thinking]
+magda: Fewer hours, and some autonomy. Let her choose some of the tournaments. And let her play the violin again. | Ít giờ hơn, và một chút quyền tự quyết. Để con bé tự chọn vài giải đấu. Và để nó chơi vĩ cầm trở lại. [explain]
+boris: I think you're making a mistake. But she is your daughter, not mine. | Tôi nghĩ bà đang mắc sai lầm. Nhưng con bé là con gái bà, không phải của tôi. [sad magda:sad]
+names: Mr. Kagan, Kagan, Mrs. Kowalska, Kowalska
+gloss: endgames, rating, pounding, anxiety, gifted, burnout, tournaments

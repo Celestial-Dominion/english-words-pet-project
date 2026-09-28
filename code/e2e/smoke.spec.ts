@@ -113,7 +113,7 @@ test("phrasal verb hiển thị đúng loại từ", async ({ page }) => {
   await freshStart(page, "/hoc/1");
   await page.getByPlaceholder(/Tìm/).fill("give up");
   await page.getByRole("button", { name: /give up/ }).first().click();
-  await expect(page.getByText("cụm động từ")).toBeVisible();
+  await expect(page.getByText("cụm động từ").first()).toBeVisible();
 });
 
 test("họ từ: bấm từ cùng họ mở thẻ mới, quay lại được", async ({ page }) => {
@@ -135,7 +135,7 @@ test("lọc phrasal verbs: chỉ còn cụm động từ", async ({ page }) => {
   await expect(page.getByText(/^1[0-9]{2} từ$/)).toBeVisible(); // B1 có 152 phrasal verb
   await page.getByPlaceholder(/Tìm/).fill("give up");
   await page.getByRole("button", { name: /give up/ }).first().click();
-  await expect(page.getByText("cụm động từ")).toBeVisible();
+  await expect(page.getByText("cụm động từ").first()).toBeVisible();
 });
 
 test("lọc tiếng Anh công việc: ra đúng vốn từ BSL", async ({ page }) => {
@@ -144,7 +144,7 @@ test("lọc tiếng Anh công việc: ra đúng vốn từ BSL", async ({ page }
   await expect(page.getByText(/^5[0-9]{2} từ$/)).toBeVisible(); // B2 có 514 từ business
   await page.getByPlaceholder(/Tìm/).fill("client");
   await page.getByRole("button", { name: /client/ }).first().click();
-  await expect(page.getByText("💼 công việc")).toBeVisible();
+  await expect(page.getByText("💼 công việc").first()).toBeVisible();
 });
 
 test("bộ nền A1–A2: duyệt được nhưng không có hàng đợi học", async ({ page }) => {
@@ -324,57 +324,68 @@ test("Hải trình: cấp bậc Royal Navy + huy hiệu", async ({ page }) => {
   await expect(page.getByText(/Thủy thủ/).first()).toBeAttached();
 });
 
-// E5 đã gộp truyện vào bài đọc → hub đọc là /bai-doc, không còn /doc riêng.
-test("đọc: hub /bai-doc mở được và liệt kê bài theo cấp", async ({ page }) => {
-  await freshStart(page, "/bai-doc");
+// Thư viện: hub /doc → Bài đọc (/bai-doc) · Truyện (/truyen) · Video (/video), mỗi mục chia 6 cấp.
+type LibMeta = { id: string; level: string; title_en?: string; title?: { en: string } };
+const lib = (name: string) =>
+  JSON.parse(readFileSync(join(process.cwd(), "public", "data", "library", name), "utf8")) as LibMeta[];
+
+test("thư viện: hub /doc dẫn tới Bài đọc, Truyện, Video", async ({ page }) => {
+  await freshStart(page, "/doc");
+  await expect(page.getByRole("heading", { name: "Thư viện" })).toBeVisible();
+  for (const name of ["Bài đọc", "Truyện", "Video"]) await expect(page.getByRole("link", { name: new RegExp(name) }).first()).toBeVisible();
+  await page.getByRole("link", { name: /Bài đọc/ }).first().click();
   await expect(page.getByRole("heading", { name: "Bài đọc" })).toBeVisible();
-  await expect(page.getByText(/B1/).first()).toBeVisible();
+  await expect(page.getByRole("link", { name: /Trung cấp/ }).first()).toBeVisible();
+});
+
+test("bài đọc: danh sách theo cấp lọc được theo chủ đề", async ({ page }) => {
+  await freshStart(page, "/bai-doc/b1");
+  await expect(page.getByText(/Đã đọc/).first()).toBeVisible();
+  const chips = page.locator("button[aria-pressed]");
+  await chips.nth(1).click();
+  await expect(chips.nth(1)).toHaveAttribute("aria-pressed", "true");
 });
 
 test("bài đọc: bấm vào từ trong bài tra được nghĩa (kể cả dạng biến hình)", async ({ page }) => {
-  await freshStart(page, "/bai-doc");
-  await page.getByRole("button", { name: /B1 · Trung cấp/ }).click();
-  await page.getByRole("button", { name: /2004 Atlantic hurricane season/ }).click();
-  await expect(page.getByRole("button", { name: "Quay lại" })).toBeVisible();
-
-  // mỗi từ trong bài là một <button> bấm-tra. Chọn từ chắc chắn tra được, ưu tiên DẠNG CHIA
-  // để đi qua lemma-map (lasted→last, began→begin); "the" là chốt chặn cuối (bộ nền A1–A2).
-  for (const w of ["lasted", "began", "usually", "season", "years", "the"]) {
-    const b = page.getByRole("button", { name: w, exact: true }).first();
-    if (await b.isVisible().catch(() => false)) {
-      await b.click();
-      break;
-    }
+  const r = lib("readings-index.json").find((x) => x.level === "b1")!;
+  await freshStart(page, `/bai-doc/b1/${r.id}`);
+  await expect(page.getByRole("heading", { name: r.title_en })).toBeVisible();
+  // mỗi từ trong bài là một <button> bấm-tra; tra qua lemma-map nên dạng chia vẫn ra từ gốc.
+  // Tên riêng/số không có trong từ điển → bấm lần lượt tới khi thẻ từ mở ra.
+  const words = page.locator("article p button");
+  const card = page.getByRole("button", { name: "Phát âm", exact: true });
+  for (let k = 0; k < 15; k++) {
+    await words.nth(k).click();
+    if (await card.waitFor({ state: "visible", timeout: 1500 }).then(() => true, () => false)) break;
   }
-  // thẻ từ mở ra: có nút phát âm + nghĩa tiếng Việt
-  await expect(page.getByRole("button", { name: "Phát âm" })).toBeVisible();
-  await expect(page.getByRole("button", { name: "Đóng" })).toBeVisible();
+  await expect(card).toBeVisible();
+  await expect(page.getByRole("button", { name: "Đóng", exact: true })).toBeVisible();
 });
 
-test("hội thoại công việc: lọc được và render theo lượt nói", async ({ page }) => {
-  // Số bài lấy từ chính dữ liệu, không viết cứng — thêm hội thoại mới là test cũ đỏ oan.
-  const index = JSON.parse(
-    readFileSync(join(process.cwd(), "public", "data", "readings-index.json"), "utf8"),
-  ) as { dialogue?: boolean }[];
-  const nDialogues = index.filter((m) => m.dialogue).length;
-
-  await freshStart(page, "/bai-doc");
-  await page.getByRole("button", { name: /Hội thoại/ }).click();
-  await expect(page.getByText(new RegExp(`/${nDialogues} bài`))).toBeVisible();
-
-  // mở bài hội thoại đầu tiên → thấy tên vai nói + ghi chú nội dung tự biên soạn
-  await page.getByRole("button", { name: /B1 · Trung cấp/ }).click();
-  await page.getByRole("button", { name: /Arranging a meeting time/ }).click();
-  await expect(page.getByRole("button", { name: "Quay lại" })).toBeVisible();
-  await expect(page.getByText(/Hội thoại luyện tập do dự án biên soạn/)).toBeVisible();
+test("bài đọc: bật Dịch hiện bản tiếng Việt và nút nghe từng câu", async ({ page }) => {
+  const r = lib("readings-index.json").find((x) => x.level === "a2")!;
+  await freshStart(page, `/bai-doc/a2/${r.id}`);
+  const vi = page.getByRole("button", { name: "Dịch", exact: true });
+  await vi.click();
+  await expect(vi).toHaveAttribute("aria-pressed", "true");
+  await expect(page.getByRole("button", { name: "Nghe câu 1", exact: true })).toBeVisible();
 });
 
-test("bài đọc nguồn mở: có ghi công nguồn ở cuối bài", async ({ page }) => {
-  await freshStart(page, "/bai-doc");
-  await page.getByRole("button", { name: /B1 · Trung cấp/ }).click();
-  await page.getByRole("button", { name: /2004 Atlantic hurricane season/ }).click();
-  await expect(page.getByRole("button", { name: "Quay lại" })).toBeVisible();
-  await expect(page.getByText(/Nguồn:/)).toBeVisible();
+test("truyện: chuyển chương và dẫn sang video hội thoại", async ({ page }) => {
+  const s = lib("stories-index.json").find((x) => x.level === "b1")!;
+  await freshStart(page, `/truyen/b1/${s.id}`);
+  await expect(page.getByRole("heading", { name: s.title_en })).toBeVisible();
+  await expect(page.getByText("Chương 1", { exact: true })).toBeVisible();
+  await page.getByRole("button", { name: /^Chương 2/ }).click();
+  await expect(page.getByText("Chương 2", { exact: true })).toBeVisible();
+  await expect(page.getByText("Video hội thoại")).toBeVisible();
+});
+
+test("video: bài học mở được, có nút phát và lớp transcript", async ({ page }) => {
+  const v = lib("videos-index.json").find((x) => x.level === "a2")!;
+  await freshStart(page, `/video/a2/${v.id}`);
+  await expect(page.getByRole("button", { name: "Phát", exact: true })).toBeVisible();
+  await expect(page.getByRole("group", { name: "Lớp transcript" })).toBeVisible();
 });
 
 test("ôn tập: có dòng trạng thái đồng bộ + công tắc từng dạng câu hỏi", async ({ page }) => {

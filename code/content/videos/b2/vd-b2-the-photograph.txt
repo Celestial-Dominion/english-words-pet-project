@@ -1,0 +1,34 @@
+=== vd-b2-the-photograph
+title: They Are Believed to Have… | Người ta tin rằng họ đã…
+source: st-b2-the-photograph
+summary: Ở thư viện làng, nhà sử học Owusu giải thích cho Ella về những người lính Mỹ từng đóng quân quanh đây năm 1944 — luyện câu bị động tường thuật kiểu "It is said that…", "They are believed to have…".
+scene: library
+prop: book x=820 y=640 scale=0.8
+cast: ella name=Ella look=woman x=520 voice=en-US-EmmaNeural pitch=+2Hz style.hair=ponytail style.hairColor=#8B5A2B style.outfit=cardigan style.top=#AF7AC5 style.topShade=#9B59B6
+cast: owusu name="Mr. Owusu" vi="Ông Owusu" look=grandpa x=1160 voice=en-US-ChristopherNeural pitch=-4Hz rate=-4% style.skin=#6E4127 style.skinShade=#58321D style.outfit=cardigan style.top=#7F8C8D style.topShade=#6C7A7B style.glasses=round
+names: Owusu, Ella, Little Harwood, Harwood, Joseph, Omaha, D-Day
+words: uniform; soldier; camp; invasion; available; popular
+focus: Câu bị động tường thuật: It is said that… / They are believed to have…
+pattern: It's thought to be from… · They are known to have been… · About two thousand men are believed to have… · It's said that… · They were reported to be… · Most of them are thought to have…
+explain: Khi thông tin đến từ nguồn chung (người ta nói, tài liệu ghi), dùng bị động tường thuật: "It is said that + mệnh đề" hoặc "S + is said/believed/thought/known + to V". Việc trong quá khứ dùng "to have + V3": "Two thousand men are believed to have lived here." Cách nói này khách quan, hay gặp trong tin tức và sách sử.
+keys: it's thought to be / are known to have been / are believed to have / it's said that / were reported to be / are thought to have
+
+ella: Mr. Owusu, thank you for seeing me. I found this photograph in my grandmother's flat. | Ông Owusu, cảm ơn ông đã dành thời gian. Cháu tìm thấy tấm ảnh này trong căn hộ của bà cháu. [explain]
+owusu: What a lovely picture. That uniform is American, and it's thought to be from the spring of 1944. | Bức ảnh đẹp quá. Bộ quân phục đó là của Mỹ, và người ta cho rằng ảnh chụp vào mùa xuân năm 1944. [thinking @book]
+ella: How can you tell? | Sao ông biết được ạ? [surprised]
+owusu: Thousands of American soldiers are known to have been stationed around here before D-Day. | Người ta biết rằng hàng nghìn lính Mỹ đã đóng quân quanh đây trước Ngày D. [explain]
+ella: Here? In Little Harwood? I had no idea. | Ở đây ư? Ở Little Harwood? Cháu không hề biết. [surprised]
+owusu: Oh yes. About two thousand men are believed to have lived in camps just outside the village. | Có chứ. Người ta tin rằng khoảng hai nghìn người đã sống trong các trại ngay bên ngoài làng. [explain]
+ella: What was it like for the villagers? | Với dân làng thì thế nào ạ? [thinking]
+owusu: It's said that the Saturday dances were the most exciting thing that had ever happened here. They became almost legendary. | Người ta kể rằng những buổi khiêu vũ tối thứ Bảy là điều thú vị nhất từng xảy ra ở đây. Chúng gần như thành huyền thoại. [happy]
+ella: My grandmother loved dancing. Maybe that's where they met. | Bà cháu rất thích khiêu vũ. Có lẽ họ đã gặp nhau ở đó. [happy]
+owusu: Quite possibly. The soldiers were reported to be very popular, especially with the young women. | Rất có thể. Theo các ghi chép, lính Mỹ rất được yêu mến, nhất là với các cô gái trẻ. [nod]
+ella: And then they just left? | Rồi họ cứ thế ra đi ư? [thinking]
+owusu: That's right. The camps were emptied almost overnight at the beginning of June. | Đúng vậy. Các trại trống trơn gần như chỉ sau một đêm vào đầu tháng Sáu. [explain]
+ella: Because of the invasion? | Vì cuộc đổ bộ ạ? [thinking]
+owusu: Exactly. Most of the men from this area are thought to have landed at Omaha Beach. | Chính xác. Người ta cho rằng phần lớn những người lính ở vùng này đã đổ bộ lên bãi biển Omaha. [nod]
+ella: The man in the photo was called Joseph. His last letter is dated the fourth of June. | Người đàn ông trong ảnh tên là Joseph. Lá thư cuối cùng của anh ấy đề ngày mùng bốn tháng Sáu. [sad]
+owusu: Then I'm afraid he may not have come back. There's a memorial to those men near the church. | Vậy e là anh ấy có thể đã không trở về. Có một đài tưởng niệm những người lính ấy gần nhà thờ. [sad]
+ella: Is there any way to find out what happened to him? | Có cách nào tìm hiểu chuyện gì đã xảy ra với anh ấy không ạ? [worried]
+owusu: There is. The military records are available in an online database. Shall we look together? | Có đấy. Hồ sơ quân đội có sẵn trong một cơ sở dữ liệu trực tuyến. Mình cùng tra nhé? [nod ella:happy ipa=records:=]
+gloss: stationed

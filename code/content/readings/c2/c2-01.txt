@@ -1,0 +1,220 @@
+=== rd-c2-the-replication-crisis
+title: The Replication Crisis | Khủng hoảng tái lập
+topic: psychology
+genre: analysis
+names: Open Science Collaboration, Daryl Bem, Bem
+gloss: replication, replications, replicate, p-hacking, preregistration, meta-analyses, peer review
+
+In 2015, a consortium of some two hundred and seventy researchers published the results of an ambitious project: they had attempted to repeat a hundred studies previously published in leading psychology journals. | Năm 2015, một liên minh gồm khoảng hai trăm bảy mươi nhà nghiên cứu công bố kết quả của một dự án đầy tham vọng: họ đã cố lặp lại một trăm nghiên cứu từng được đăng trên các tạp chí tâm lý học hàng đầu.
+Fewer than half of the replications produced results consistent with the originals, and even where effects reappeared, they were typically about half as large as first reported. | Chưa đến một nửa số lần tái lập cho ra kết quả nhất quán với nghiên cứu gốc, và ngay cả khi hiệu ứng xuất hiện trở lại, chúng thường chỉ lớn khoảng một nửa so với lần công bố đầu.
+The findings, which came to be known as the replication crisis, prompted a profound and often uncomfortable reassessment of scholarly practice, not only in psychology but in medicine, economics and several other fields. | Những phát hiện ấy, về sau được gọi là khủng hoảng tái lập, đã thúc đẩy một cuộc đánh giá lại sâu sắc và thường khó chịu về thực tiễn học thuật, không chỉ trong tâm lý học mà cả trong y học, kinh tế học và một số lĩnh vực khác.
+gloss: consortium, reappeared, reassessment
+
+Outright fabrication of data turned out to be rare. | Việc bịa đặt dữ liệu trắng trợn hoá ra là hiếm.
+The more pervasive problem lay in a set of practices that were widespread, largely tolerated and, taken individually, ostensibly innocent. | Vấn đề phổ biến hơn nằm ở một loạt thực hành vốn lan rộng, phần lớn được dung thứ và, xét riêng từng cái, có vẻ vô hại.
+Researchers might collect data until a result reached statistical significance and then stop, test many variables and selectively report only those that produced a striking effect, or formulate their hypothesis only after seeing the data, while presenting it as if it had been predicted in advance. | Các nhà nghiên cứu có thể thu thập dữ liệu cho đến khi kết quả đạt ý nghĩa thống kê rồi dừng lại, kiểm định nhiều biến số rồi chọn lọc chỉ báo cáo những biến tạo ra hiệu ứng nổi bật, hoặc chỉ đưa ra giả thuyết sau khi đã xem dữ liệu, trong khi trình bày nó như thể đã được dự đoán từ trước.
+Critics call this last habit hypothesizing after the results are known. | Giới phê bình gọi thói quen cuối này là đặt giả thuyết sau khi đã biết kết quả.
+Each of these choices increases the probability of a spurious result, or false positive, and in combination they can make almost any hypothesis appear to be confirmed. | Mỗi lựa chọn này đều làm tăng xác suất của một kết quả giả tạo, tức dương tính giả, và khi kết hợp lại, chúng có thể khiến gần như bất kỳ giả thuyết nào trông như đã được xác nhận.
+Studies that relied on correlation rather than randomized experiments were especially vulnerable, since a correlation, however striking, need not reflect any causal relationship. | Những nghiên cứu dựa vào tương quan thay vì thí nghiệm ngẫu nhiên hoá đặc biệt dễ tổn thương, vì một mối tương quan, dù nổi bật đến đâu, không nhất thiết phản ánh bất kỳ quan hệ nhân quả nào.
+gloss: outright, tolerated, formulate, false positive
+
+The underlying cause was a system of incentives that rewarded novelty over rigour, and the discrepancy between the two was rarely discussed. | Nguyên nhân sâu xa là một hệ thống khuyến khích tưởng thưởng cho sự mới lạ hơn là sự chặt chẽ, và độ vênh giữa hai điều ấy hiếm khi được bàn đến.
+Journals preferred surprising, positive findings, careers depended on publication in those journals, and studies that failed to find an effect were seldom published at all, so that the scholarly record came to overstate systematically the strength of the evidence. | Các tạp chí ưa chuộng những phát hiện tích cực, gây bất ngờ, sự nghiệp phụ thuộc vào việc đăng bài trên những tạp chí đó, và những nghiên cứu không tìm thấy hiệu ứng hiếm khi được công bố, khiến hồ sơ học thuật dần phóng đại một cách có hệ thống sức mạnh của bằng chứng.
+The episode that did much to trigger public skepticism was the publication, in a respected journal, of a series of experiments by the psychologist Daryl Bem that purported to show that people could anticipate future events. | Sự kiện góp phần lớn khơi dậy sự hoài nghi của công chúng là việc một tạp chí uy tín đăng một loạt thí nghiệm của nhà tâm lý học Daryl Bem được cho là chứng minh con người có thể đoán trước các sự kiện tương lai.
+The methodology was entirely conventional; that, precisely, was the problem. | Phương pháp luận hoàn toàn theo lối thông thường; và chính điều đó là vấn đề.
+gloss: novelty, rigour, publication, systematically, anticipate, conventional
+
+The response has been remarkably constructive. | Phản ứng trước khủng hoảng này mang tính xây dựng đáng kể.
+Many researchers now preregister their studies, publicly recording their hypothesis, sample size and planned analysis before collecting any data, so that subsequent deviation from the plan is visible. | Nhiều nhà nghiên cứu giờ đăng ký trước nghiên cứu của mình, công khai ghi lại giả thuyết, cỡ mẫu và kế hoạch phân tích trước khi thu thập bất kỳ dữ liệu nào, để mọi sự sai lệch về sau so với kế hoạch đều hiển hiện.
+Some journals have adopted formats in which studies are accepted on the basis of their design, before the results are known, thereby removing the incentive to produce dramatic findings. | Một số tạp chí đã áp dụng hình thức trong đó nghiên cứu được chấp nhận dựa trên thiết kế, trước khi biết kết quả, qua đó loại bỏ động cơ tạo ra những phát hiện gây chấn động.
+Large, collaborative replications across many laboratories have become routine, and data are increasingly shared openly, so that others can validate or challenge an analysis. | Những cuộc tái lập lớn, có sự hợp tác của nhiều phòng thí nghiệm đã trở thành thường lệ, và dữ liệu ngày càng được chia sẻ công khai, để người khác có thể kiểm chứng hoặc chất vấn một phân tích.
+gloss: preregister, sample size, formats, collaborative, routine
+
+It would be a mistake to conclude that psychology, or science more generally, is unreliable. | Sẽ là sai lầm nếu kết luận rằng tâm lý học, hay khoa học nói chung, không đáng tin cậy.
+The crisis was identified by scientists themselves, using the methods of science, and the reforms it provoked are, in a sense, a demonstration of the self-correcting capacity that distinguishes scientific inquiry from other ways of knowing. | Cuộc khủng hoảng được chính các nhà khoa học phát hiện, bằng các phương pháp của khoa học, và những cải cách nó khơi lên, theo một nghĩa nào đó, là minh chứng cho năng lực tự điều chỉnh vốn phân biệt nghiên cứu khoa học với những cách nhận thức khác.
+But it offers a salutary warning about the gap between the ideal and the practice of research, and about the ease with which intelligent, honest people can deceive themselves when their careers depend on finding what they hope to find. | Nhưng nó đưa ra một lời cảnh tỉnh bổ ích về khoảng cách giữa lý tưởng và thực tiễn nghiên cứu, và về việc những con người thông minh, trung thực có thể tự lừa dối mình dễ dàng đến thế nào khi sự nghiệp của họ phụ thuộc vào việc tìm ra điều họ mong muốn.
+gloss: self-correcting, inquiry, salutary
+
+=== rd-c2-the-paradox-of-tolerance
+title: The Paradox of Tolerance | Nghịch lý của lòng khoan dung
+topic: philosophy
+genre: argument
+names: Karl Popper, Popper, The Open Society and Its Enemies, John Stuart Mill, Mill
+gloss: tolerance, intolerant, intolerance, pluralistic
+
+In a footnote to The Open Society and Its Enemies, published in 1945, the philosopher Karl Popper formulated what he called the paradox of tolerance. | Trong một chú thích của cuốn Xã hội mở và những kẻ thù của nó, xuất bản năm 1945, triết gia Karl Popper đã phát biểu cái mà ông gọi là nghịch lý của lòng khoan dung.
+Unlimited tolerance, he argued, must lead to the disappearance of tolerance, since a society that tolerates even those who would destroy it will eventually be destroyed by them. | Ông lập luận rằng khoan dung vô hạn tất sẽ dẫn đến sự biến mất của khoan dung, vì một xã hội dung thứ cả những kẻ muốn huỷ diệt nó rồi sẽ bị chính họ huỷ diệt.
+Written in the aftermath of a war in which intolerant movements had exploited democratic freedoms in order to abolish them and install totalitarian rule, the observation carried an obvious and painful force. | Được viết trong hậu quả của một cuộc chiến mà ở đó những phong trào bất khoan dung đã lợi dụng các quyền tự do dân chủ để thủ tiêu chính những quyền ấy và dựng lên chế độ toàn trị, nhận xét này mang một sức nặng hiển nhiên và đau đớn.
+gloss: footnote, formulated, abolish
+
+Popper's conclusion is often quoted, but less often read with care. | Kết luận của Popper thường được trích dẫn, nhưng ít khi được đọc kỹ.
+He did not suggest that intolerant opinions should be suppressed as a matter of course; on the contrary, he insisted that as long as they could be countered by rational argument and kept in check by public opinion, suppression would be unwise. | Ông không đề xuất rằng những quan điểm bất khoan dung đương nhiên phải bị đàn áp; ngược lại, ông nhấn mạnh rằng chừng nào chúng còn có thể bị phản bác bằng lập luận lý trí và bị dư luận kiềm chế, thì việc đàn áp là không khôn ngoan.
+The right to suppress arose, in his view, only when intolerant movements refused to engage in argument at all, forbade their followers to listen to reason and resorted to violence in place of persuasion. | Theo ông, quyền đàn áp chỉ nảy sinh khi những phong trào bất khoan dung hoàn toàn từ chối tham gia tranh luận, cấm những người theo họ lắng nghe lý lẽ và dùng đến bạo lực thay cho thuyết phục.
+The distinction is between intolerant ideas, which a confident society can afford to answer, and intolerant action, which it cannot afford to permit. | Sự phân biệt nằm giữa những ý tưởng bất khoan dung, thứ mà một xã hội tự tin có thể đủ sức đáp trả, và hành động bất khoan dung, thứ mà nó không thể cho phép.
+gloss: suppressed, countered, suppression, resorted, persuasion
+
+In practice, drawing that line is far from straightforward. | Trên thực tế, vạch ra ranh giới đó chẳng hề đơn giản.
+Contemporary debates about hate speech, misinformation, the regulation of online platforms and the proscription of extremist parties all turn on the question of when rhetoric becomes a form of action, and reasonable people disagree profoundly about the answer. | Những tranh luận đương đại về ngôn từ thù hận, thông tin sai lệch, việc quản lý các nền tảng trực tuyến và việc cấm các đảng cực đoan đều xoay quanh câu hỏi khi nào lời lẽ trở thành một dạng hành động, và những người có lý trí bất đồng sâu sắc về câu trả lời.
+Some argue that speech which dehumanizes a group of people is inherently a precursor to violence, and that its propagation should therefore be restricted before the harm occurs. | Một số người cho rằng lời nói phi nhân hoá một nhóm người tự bản chất đã là bước dạo đầu của bạo lực, và vì thế việc lan truyền nó nên bị hạn chế trước khi tác hại xảy ra.
+Others, following John Stuart Mill, contend that the suppression of opinion is almost always futile and frequently counterproductive, since it deprives society of the opportunity to refute error and lends martyrdom to those it silences. | Những người khác, theo John Stuart Mill, cho rằng việc đàn áp quan điểm gần như luôn vô ích và thường phản tác dụng, vì nó tước đi của xã hội cơ hội bác bỏ sai lầm và mang lại vầng hào quang tử vì đạo cho những người bị nó bịt miệng.
+gloss: contemporary, hate speech, extremist, dehumanizes, precursor, contend, counterproductive, refute, martyrdom
+
+A further difficulty is that the concept of intolerance can itself be deployed strategically. | Một khó khăn nữa là chính khái niệm bất khoan dung cũng có thể được sử dụng một cách chiến lược.
+Movements across the political spectrum have learned to present their opponents as the intolerant ones, whose exclusion is therefore justified, and a principle intended as a narrow safeguard of last resort can easily become a pretext for silencing ordinary, if contentious, dissent. | Các phong trào thuộc mọi phía trên phổ chính trị đã học cách mô tả đối thủ của mình là những kẻ bất khoan dung, vì thế việc loại trừ họ là chính đáng, và một nguyên tắc vốn được dự định như một biện pháp bảo vệ hẹp, bất đắc dĩ mới dùng đến có thể dễ dàng trở thành cái cớ để bịt miệng những tiếng nói bất đồng thông thường, dù gây tranh cãi.
+In deeply divisive times, the temptation to treat every opponent as an enemy of the open society is considerable. | Trong những thời kỳ chia rẽ sâu sắc, sự cám dỗ coi mọi đối thủ là kẻ thù của xã hội mở là rất lớn.
+gloss: deployed, strategically, spectrum, exclusion, safeguard, pretext, dissent
+
+What Popper's paradox ultimately offers is not a rule but a discipline. | Điều mà nghịch lý của Popper rốt cuộc mang lại không phải là một quy tắc mà là một kỷ luật.
+It reminds pluralistic societies that tolerance is not the same as indifference, and that its survival may occasionally require difficult choices. | Nó nhắc các xã hội đa nguyên rằng khoan dung không đồng nghĩa với thờ ơ, và sự tồn tại của nó đôi khi có thể đòi hỏi những lựa chọn khó khăn.
+But it also implies that such choices should be rare, reluctant and justified by genuine threats rather than by discomfort, since a society that suppresses too readily has already begun to abandon the principle it claims to defend. | Nhưng nó cũng hàm ý rằng những lựa chọn như vậy nên hiếm hoi, miễn cưỡng và được biện minh bằng những mối đe doạ thực sự chứ không phải bằng sự khó chịu, vì một xã hội đàn áp quá dễ dãi đã bắt đầu từ bỏ chính nguyên tắc mà nó tuyên bố bảo vệ.
+gloss: indifference, readily
+
+=== rd-c2-the-politics-of-austerity
+title: The Politics of Austerity | Chính trị của thắt lưng buộc bụng
+topic: economics
+genre: analysis
+names: Greece, Eurozone, John Maynard Keynes, Keynes, International Monetary Fund
+gloss: austerity, fiscal multiplier, sovereign debt, bailout
+
+When the financial crisis of 2008 turned into a recession, policymakers across the developed world initially responded in the manner recommended by John Maynard Keynes. | Khi cuộc khủng hoảng tài chính năm 2008 biến thành suy thoái, giới hoạch định chính sách khắp thế giới phát triển ban đầu phản ứng theo cách mà John Maynard Keynes khuyến nghị.
+They cut taxes, increased spending and allowed their deficits to grow, in the hope of sustaining demand while private spending collapsed. | Họ giảm thuế, tăng chi tiêu và để thâm hụt ngân sách phình ra, với hy vọng duy trì cầu trong khi chi tiêu tư nhân sụp đổ.
+Within two years, however, the prevailing mood had changed. | Tuy nhiên, chỉ trong hai năm, tâm thế chủ đạo đã thay đổi.
+Alarmed by rising public debt and by the crisis in Greece, which could no longer borrow at affordable rates, many governments embarked on programmes of austerity, cutting discretionary public spending and raising taxes in an attempt to restore the confidence of financial markets. | Lo ngại trước nợ công tăng và cuộc khủng hoảng ở Hy Lạp, nước không còn vay được với lãi suất phải chăng, nhiều chính phủ bắt tay vào các chương trình thắt lưng buộc bụng, cắt giảm các khoản chi tiêu công không bắt buộc và tăng thuế nhằm khôi phục niềm tin của thị trường tài chính.
+gloss: deficits, prevailing, embarked, programmes
+
+The theoretical justification rested on a contested proposition: that reducing deficits would, by reassuring investors and lowering interest rates, stimulate rather than depress economic activity. | Cơ sở lý thuyết dựa trên một mệnh đề gây tranh cãi: rằng việc giảm thâm hụt, nhờ trấn an nhà đầu tư và hạ lãi suất, sẽ kích thích chứ không làm suy giảm hoạt động kinh tế.
+Critics countered that the size of the fiscal multiplier, the amount by which a reduction in government spending shrinks the economy, is not constant. | Giới phê bình phản bác rằng quy mô của số nhân tài khoá, tức mức độ mà việc cắt giảm chi tiêu chính phủ làm nền kinh tế co lại, không phải là hằng số.
+It is particularly large, they argued, when interest rates are already close to zero and the private sector is reluctant to spend. | Theo họ, số nhân đặc biệt lớn khi lãi suất đã gần bằng không và khu vực tư nhân ngần ngại chi tiêu.
+In 2013, economists at the International Monetary Fund, which had supported many austerity programmes, published an unusually candid analysis acknowledging that it had systematically underestimated the damage such policies would cause. | Năm 2013, các nhà kinh tế tại Quỹ Tiền tệ Quốc tế, tổ chức từng ủng hộ nhiều chương trình thắt lưng buộc bụng, công bố một phân tích thẳng thắn khác thường, thừa nhận rằng họ đã đánh giá thấp một cách có hệ thống thiệt hại mà các chính sách ấy gây ra.
+gloss: contested, proposition, reassuring, depress, countered, shrinks, acknowledging
+
+The consequences were most severe in the countries subjected to the most stringent conditions. | Hệ quả nghiêm trọng nhất ở những nước phải chịu các điều kiện khắt khe nhất.
+Greece, whose successive bailouts were conditional on dramatic cuts, experienced a downturn comparable in scale to the Great Depression. | Hy Lạp, nước có các gói cứu trợ liên tiếp đi kèm điều kiện cắt giảm mạnh, đã trải qua một cuộc suy thoái có quy mô tương đương Đại Khủng hoảng.
+Its economy shrank by roughly a quarter, and unemployment exceeded a quarter of the workforce, reaching more than half among the young. | Nền kinh tế thu hẹp khoảng một phần tư, thất nghiệp vượt quá một phần tư lực lượng lao động và lên đến hơn một nửa ở người trẻ.
+State property was sold off in a hurried programme of privatization, and repeated cuts to pensions left many pensioners in a precarious position. | Tài sản công bị bán tháo trong một chương trình tư nhân hoá vội vã, và những đợt cắt giảm lương hưu liên tiếp đẩy nhiều người hưu trí vào cảnh bấp bênh.
+Because the economy shrank faster than the debt, the ratio of debt to national income actually rose, which rather undermined the rationale for the policy in the first place. | Vì nền kinh tế co lại nhanh hơn khoản nợ, tỉ lệ nợ trên thu nhập quốc dân thực tế lại tăng, điều phần nào làm lung lay chính lý do ban đầu của chính sách.
+names: Great Depression
+gloss: successive, conditional, ratio, rationale
+
+The political aftermath has proved at least as significant as the economic one. | Hậu quả chính trị hoá ra ít nhất cũng quan trọng không kém hậu quả kinh tế.
+Austerity was frequently presented as a technical necessity, beyond the reach of democratic choice, and its costs fell disproportionately on those most dependent on public services, while the bankers widely blamed for the crisis appeared to escape relatively lightly. | Thắt lưng buộc bụng thường được trình bày như một sự tất yếu kỹ thuật, nằm ngoài tầm với của lựa chọn dân chủ, và cái giá của nó đổ dồn không cân xứng lên những người phụ thuộc nhiều nhất vào dịch vụ công, trong khi các nhà ngân hàng vốn bị đổ lỗi rộng rãi cho cuộc khủng hoảng dường như thoát nạn tương đối nhẹ nhàng.
+Several studies have linked the resulting discontent to the subsequent rise of populist parties in Europe, as voters turned against incumbent governments and the established parties that had implemented the cuts. | Một số nghiên cứu đã liên hệ sự bất mãn ấy với sự trỗi dậy về sau của các đảng dân tuý ở châu Âu, khi cử tri quay lưng với các chính phủ đương nhiệm và những đảng lâu đời đã thực thi các đợt cắt giảm.
+names: Europe
+gloss: disproportionately, implemented
+
+None of this settles the underlying question, which is genuinely difficult. | Không điều nào trong số này giải quyết được câu hỏi cốt lõi, vốn thực sự khó.
+Governments cannot borrow indefinitely, and there are circumstances in which a loss of market confidence leaves them with few alternatives. | Các chính phủ không thể vay mượn vô thời hạn, và có những hoàn cảnh mà việc mất niềm tin của thị trường khiến họ gần như không còn lựa chọn nào khác.
+The more modest lesson of the austerity decade is that the timing of fiscal consolidation matters enormously, that its distribution matters just as much, and that economic policies presented as unavoidable tend, sooner or later, to provoke a political reckoning. | Bài học khiêm tốn hơn của thập kỷ thắt lưng buộc bụng là thời điểm củng cố tài khoá cực kỳ quan trọng, cách phân bổ gánh nặng cũng quan trọng không kém, và những chính sách kinh tế được trình bày như điều không thể tránh khỏi sớm muộn gì cũng sẽ khơi lên một sự trả giá về chính trị.
+gloss: indefinitely, consolidation, distribution, unavoidable, reckoning
+
+=== rd-c2-how-the-brain-learns-to-read
+title: How the Brain Learns to Read | Bộ não học đọc như thế nào
+topic: education
+genre: explanation
+names: Stanislas Dehaene, Dehaene
+gloss: phonics, dyslexia, visual word form area, literacy, recycling
+
+Reading is, in evolutionary terms, an astonishingly recent invention. | Xét theo tiến hoá, đọc là một phát minh mới đến kinh ngạc.
+Writing systems appeared little more than five thousand years ago, and for most of that period only a small minority of people could read. | Các hệ thống chữ viết xuất hiện mới hơn năm nghìn năm nay, và trong phần lớn giai đoạn ấy chỉ một thiểu số nhỏ biết đọc.
+Natural selection, therefore, cannot have produced a region of the brain dedicated to the task. | Vì vậy, chọn lọc tự nhiên không thể đã tạo ra một vùng não chuyên dành cho việc này.
+How, then, does a child's brain acquire so complex a skill in a few years? | Vậy thì bộ não một đứa trẻ tiếp thu một kỹ năng phức tạp như vậy chỉ trong vài năm bằng cách nào?
+The neuroscientist Stanislas Dehaene has proposed an influential answer, which he calls neuronal recycling: reading colonizes circuits that evolved for other purposes and repurposes them. | Nhà khoa học thần kinh Stanislas Dehaene đã đề xuất một câu trả lời có ảnh hưởng, mà ông gọi là tái chế nơ-ron: việc đọc chiếm lấy những mạch thần kinh đã tiến hoá cho các mục đích khác và tái sử dụng chúng.
+gloss: evolutionary, natural selection, neuroscientist, neuronal, colonizes, circuits, repurposes
+
+Brain imaging reveals that, in literate adults, written words activate a small area on the underside of the left hemisphere that in illiterate people responds predominantly to faces and objects. | Chụp ảnh não cho thấy, ở người trưởng thành biết chữ, chữ viết kích hoạt một vùng nhỏ ở mặt dưới bán cầu não trái mà ở người mù chữ chủ yếu phản ứng với khuôn mặt và đồ vật.
+As a child learns to read, this region becomes specialized for the recognition of letters and their combinations, in effect competing with, and partially displacing, the face recognition that previously occupied it. | Khi đứa trẻ học đọc, vùng này chuyên biệt hoá cho việc nhận diện chữ cái và các tổ hợp của chúng, trên thực tế là cạnh tranh với, và thay thế một phần, chức năng nhận diện khuôn mặt vốn chiếm giữ nó trước đó.
+From there, the visual encoding of a word is connected to the brain's existing networks for spoken language, so that written symbols come to evoke sounds and, through them, the semantic knowledge stored elsewhere in the brain. | Từ đó, việc mã hoá thị giác của một từ được kết nối với các mạng lưới sẵn có của não dành cho ngôn ngữ nói, để những ký hiệu viết dần gợi lên âm thanh và, qua âm thanh, gợi lên tri thức ngữ nghĩa được lưu trữ ở những vùng khác của não.
+The whole process relies on a cognitive system of remarkable speed: a proficient reader identifies a familiar word and completes the retrieval of its meaning in a fraction of a second, apparently without effort. | Toàn bộ quá trình dựa vào một hệ thống nhận thức có tốc độ đáng kinh ngạc: một người đọc thành thạo nhận ra một từ quen thuộc và truy xuất xong nghĩa của nó chỉ trong một phần nhỏ của giây, dường như không cần nỗ lực.
+gloss: imaging, literate, activate, underside, hemisphere, specialized, recognition, displacing, evoke
+
+This account has practical implications for teaching. | Cách giải thích này có những hàm ý thực tiễn cho việc dạy học.
+Children arrive at school having absorbed since infancy thousands of spoken words and much of the grammatical structure of their language; what they lack is a way of connecting print to this existing knowledge. | Trẻ em đến trường khi đã hấp thụ từ thuở sơ sinh hàng nghìn từ nói và phần lớn cấu trúc ngữ pháp của ngôn ngữ mình; điều chúng thiếu là một cách kết nối chữ in với vốn hiểu biết sẵn có này.
+The ability to hear the separate sounds within words, known as phonological awareness, is a prerequisite for making that connection. | Khả năng nghe ra từng âm riêng biệt trong từ, gọi là nhận thức âm vị, là điều kiện tiên quyết để tạo nên mối liên kết đó.
+Because reading depends on linking letters to the sounds of speech, methods that teach these correspondences explicitly and systematically are consistently more effective for beginners. | Vì việc đọc phụ thuộc vào việc liên kết chữ cái với âm thanh của lời nói, những phương pháp dạy các mối tương ứng này một cách rõ ràng và có hệ thống luôn hiệu quả hơn với người mới bắt đầu.
+Such methods, known as phonics, outperform approaches that encourage children to recognize whole words by their shape or to guess them from context. | Những phương pháp ấy, gọi là phương pháp ngữ âm, vượt trội so với các cách tiếp cận khuyến khích trẻ nhận diện cả từ qua hình dạng hoặc đoán chúng từ ngữ cảnh.
+The evidence for this conclusion, drawn from longitudinal studies and randomized trials, is among the most robust in educational research, although the debate between rival approaches has been conducted, at times, with an intensity more suggestive of dogma than of science. | Bằng chứng cho kết luận này, rút ra từ các nghiên cứu dọc và các thử nghiệm ngẫu nhiên hoá, thuộc hàng vững chắc nhất trong nghiên cứu giáo dục, dù cuộc tranh luận giữa các cách tiếp cận đối địch đôi khi diễn ra với cường độ gợi đến giáo điều hơn là khoa học.
+gloss: phonological, correspondences, systematically, educational, suggestive
+
+The same framework illuminates dyslexia, a persistent and often congenital difficulty in learning to read that affects a substantial minority of children regardless of intelligence. | Khung lý thuyết tương tự cũng soi sáng chứng khó đọc, một khó khăn dai dẳng và thường bẩm sinh trong việc học đọc ảnh hưởng đến một thiểu số đáng kể trẻ em bất kể trí thông minh.
+In most cases, the underlying problem appears to lie not in vision but in the ability to discern the individual sounds of speech, which makes the connection between letters and sounds unusually difficult to establish. | Trong hầu hết các trường hợp, vấn đề cốt lõi dường như không nằm ở thị giác mà ở khả năng phân biệt từng âm riêng lẻ của lời nói, khiến mối liên kết giữa chữ cái và âm thanh khó hình thành một cách khác thường.
+Intensive intervention during the formative early years of schooling, focusing on the links between letters and sounds, can substantially improve outcomes, which is why early screening, to ascertain which children are at risk, is increasingly recommended. | Can thiệp chuyên sâu trong những năm đầu đi học mang tính định hình, tập trung vào liên kết giữa chữ cái và âm thanh, có thể cải thiện đáng kể kết quả, đó là lý do việc sàng lọc sớm, nhằm xác định những trẻ có nguy cơ, ngày càng được khuyến nghị.
+gloss: illuminates, persistent, intensive, screening
+
+Perhaps the most striking implication of this research is how profoundly literacy reshapes the brain itself. | Có lẽ hàm ý nổi bật nhất của nghiên cứu này là việc biết chữ định hình lại chính bộ não sâu sắc đến mức nào.
+Adults who learn to read late in life show many of the same changes as children, which demonstrates that the adult brain retains considerable plasticity and that literacy can transform cognition at any age. | Những người trưởng thành học đọc muộn cho thấy nhiều thay đổi giống như ở trẻ em, điều chứng minh rằng bộ não người trưởng thành vẫn giữ được tính mềm dẻo đáng kể và việc biết chữ có thể biến đổi nhận thức ở mọi lứa tuổi.
+But the intrinsic difficulty of the task also explains why so many children struggle, and why, in a society that assumes universal literacy, the failure to teach reading well is not merely an educational shortcoming but a profound injustice. | Nhưng độ khó nội tại của nhiệm vụ cũng lý giải vì sao nhiều trẻ em chật vật đến vậy, và vì sao, trong một xã hội mặc định mọi người đều biết chữ, thất bại trong việc dạy đọc cho tốt không đơn thuần là một thiếu sót giáo dục mà là một sự bất công sâu sắc.
+gloss: reshapes, plasticity, universal, shortcoming, injustice
+
+=== rd-c2-building-for-earthquakes
+title: Building for Earthquakes | Xây dựng để chống động đất
+topic: science
+genre: explanation
+names: Japan, Chile, Haiti, Port-au-Prince, Tokyo, Taipei 101, Taiwan
+gloss: base isolation, dampers, shear, retrofitting, magnitude
+
+Earthquakes do not, on the whole, kill people; buildings do. | Nhìn chung, động đất không giết người; các công trình mới là thứ giết người.
+The overwhelming majority of deaths in a major earthquake are caused by the collapse of structures, which is why two earthquakes of comparable magnitude can produce radically different casualties. | Phần lớn áp đảo số người chết trong một trận động đất lớn là do các công trình sụp đổ, đó là lý do hai trận động đất có cường độ tương đương có thể gây ra thương vong khác nhau một trời một vực.
+In 2010, an earthquake near Port-au-Prince in Haiti killed well over a hundred thousand people; a few weeks later, an earthquake in Chile that released several hundred times more energy killed fewer than a thousand. | Năm 2010, một trận động đất gần Port-au-Prince ở Haiti đã giết hơn một trăm nghìn người; vài tuần sau, một trận động đất ở Chile giải phóng năng lượng nhiều hơn vài trăm lần lại làm chết chưa đến một nghìn người.
+The difference lay predominantly in the quality of construction and in the enforcement of building codes. | Khác biệt chủ yếu nằm ở chất lượng xây dựng và việc thực thi các quy chuẩn xây dựng.
+Many of the buildings that collapsed in Port-au-Prince were built of unreinforced masonry or of concrete slabs containing too little steel. | Nhiều công trình sụp đổ ở Port-au-Prince được xây bằng gạch đá không gia cố hoặc bằng những tấm bê tông chứa quá ít thép.
+gloss: overwhelming, collapse, structures, comparable, radically, casualties, construction, enforcement, building codes
+
+Understanding why buildings fail requires an appreciation of the forces involved. | Hiểu vì sao công trình hỏng đòi hỏi phải nắm được những lực tác động.
+Seismic waves shake the ground horizontally and vertically, and a building responds by swaying, its upper floors lagging behind the movement of its foundations. | Sóng địa chấn làm rung chuyển mặt đất theo phương ngang và phương dọc, và một công trình phản ứng bằng cách lắc lư, các tầng trên của nó chuyển động chậm hơn móng.
+Every structure has a natural frequency at which it tends to vibrate, and if this coincides with the frequency of the ground motion, the amplitude of the oscillations can grow dramatically, a phenomenon known as resonance. | Mỗi công trình có một tần số riêng mà nó có xu hướng dao động, và nếu tần số này trùng với tần số chuyển động của mặt đất, biên độ dao động có thể tăng mạnh, một hiện tượng gọi là cộng hưởng.
+Local geology and topography also matter: soft, waterlogged soils can amplify shaking considerably and may even lose their strength altogether, behaving temporarily like a liquid and causing buildings to tilt or sink. | Địa chất và địa hình tại chỗ cũng quan trọng: những lớp đất mềm, ngậm nước có thể khuếch đại chấn động đáng kể và thậm chí mất hẳn sức chịu tải, tạm thời hành xử như chất lỏng và khiến các toà nhà nghiêng hoặc lún.
+gloss: horizontally, vertically, swaying, lagging, foundations, frequency, vibrate, coincides, oscillations, resonance, waterlogged, amplify, tilt
+
+The central principle of earthquake engineering is not rigidity but controlled flexibility. | Nguyên lý trung tâm của kỹ thuật chống động đất không phải là sự cứng vững mà là sự linh hoạt có kiểm soát.
+A structure of excessive stiffness may crack suddenly under stress, whereas one designed to bend can absorb and dissipate the kinetic energy of the shaking without catastrophic failure. | Một công trình quá cứng có thể nứt đột ngột dưới ứng suất, trong khi một công trình được thiết kế để uốn cong có thể hấp thụ và tiêu tán động năng của chấn động mà không sụp đổ thảm khốc.
+Reinforced concrete must therefore contain carefully arranged steel bars that lend it a degree of elasticity, allowing it to deform without disintegrating, and the connections between beams and columns, which are particularly vulnerable, require meticulous detailing. | Vì thế bê tông cốt thép phải chứa những thanh thép được bố trí cẩn thận mang lại cho nó một độ đàn hồi nhất định, cho phép nó biến dạng mà không vỡ vụn, và các mối nối giữa dầm và cột, vốn đặc biệt dễ tổn thương, đòi hỏi thiết kế chi tiết cực kỳ tỉ mỉ.
+More sophisticated techniques include base isolation, in which a building rests on flexible bearings that decouple it from the ground, and large dampers that counteract swaying; the skyscraper Taipei 101 contains a spherical steel mass weighing more than six hundred tonnes suspended near its top for precisely this purpose. | Những kỹ thuật tinh vi hơn gồm cách chấn đáy, trong đó công trình đặt trên những gối đỡ linh hoạt tách nó khỏi mặt đất, và những bộ giảm chấn lớn chống lại sự lắc lư; toà nhà chọc trời Taipei 101 có một khối thép hình cầu nặng hơn sáu trăm tấn treo gần đỉnh nhằm đúng mục đích này.
+gloss: rigidity, dissipate, reinforced concrete, deform, disintegrating, beams, columns, meticulous, bearings, decouple, counteract, skyscraper, tonnes, suspended
+
+The technical knowledge to build safely is, for the most part, well established; the obstacles are economic and political. | Tri thức kỹ thuật để xây dựng an toàn, phần lớn, đã được xác lập vững chắc; những trở ngại mang tính kinh tế và chính trị.
+Stringent building codes raise construction costs, and in poor countries with rapidly growing cities, much construction is informal and escapes regulation entirely. | Những quy chuẩn xây dựng nghiêm ngặt làm tăng chi phí xây dựng, và ở những nước nghèo có các thành phố tăng trưởng nhanh, phần lớn việc xây dựng mang tính tự phát và hoàn toàn nằm ngoài sự quản lý.
+Even in wealthy countries, retrofitting older buildings is expensive and disruptive, and because major earthquakes are rare in any particular place and their timing is not foreseeable, the precaution tends to be postponed until a calamity makes it too late. | Ngay cả ở các nước giàu, việc gia cố các công trình cũ tốn kém và gây xáo trộn, và vì những trận động đất lớn hiếm khi xảy ra ở một nơi cụ thể nào và thời điểm của chúng không thể lường trước, biện pháp phòng ngừa thường bị trì hoãn cho đến khi một thảm hoạ khiến mọi thứ trở nên quá muộn.
+Japan offers the most instructive counterexample: successive disasters have produced some of the strictest codes in the world and a remarkable culture of preparedness, and the devastation caused by each earthquake has been used, systematically, to improve the next generation of buildings. | Nhật Bản là phản ví dụ mang tính bài học nhất: những thảm hoạ liên tiếp đã tạo nên một số quy chuẩn nghiêm ngặt nhất thế giới cùng một văn hoá phòng bị đáng nể, và sự tàn phá do mỗi trận động đất gây ra đều được tận dụng, một cách có hệ thống, để cải thiện thế hệ công trình tiếp theo.
+gloss: informal, disruptive, postponed, instructive, counterexample, successive, systematically
+
+=== rd-c2-the-long-afterlife-of-byzantium
+title: The Long Afterlife of Byzantium | Hậu thế dài lâu của Byzantium
+topic: history
+genre: analysis
+names: Byzantine Empire, Byzantium, Constantinople, Istanbul, Roman Empire, Ottoman, Ottomans, Justinian, Hagia Sophia, Venice, Russia, Moscow, Orthodox Church, Crusade, Fourth Crusade, Latin
+gloss: emperors, iconoclasm, the Third Rome
+
+For more than a thousand years after the collapse of the Western Roman Empire, a Christian, Greek-speaking state that called itself Roman ruled from the city of Constantinople. | Suốt hơn một nghìn năm sau sự sụp đổ của Đế chế Tây La Mã, một nhà nước Kitô giáo, nói tiếng Hy Lạp, tự gọi mình là La Mã đã cai trị từ thành phố Constantinople.
+Western historians later named it the Byzantine Empire, and for centuries the adjective carried connotations of decadence and needless complexity, as though the empire had been little more than an elaborate epilogue to the classical world. | Các nhà sử học phương Tây về sau đặt tên cho nó là Đế chế Byzantine, và suốt nhiều thế kỷ tính từ này mang hàm ý suy đồi và phức tạp không cần thiết, như thể đế chế chẳng hơn gì một đoạn kết công phu của thế giới cổ điển.
+Posterity, in short, was unkind, and only recent scholarship has substantially revised that verdict. | Nói gọn, hậu thế đã không công bằng, và chỉ gần đây giới học thuật mới điều chỉnh đáng kể nhận định ấy.
+names: Western Roman Empire, Greek-speaking, Western
+gloss: adjective, connotations, decadence, epilogue, classical, scholarship
+
+Byzantium's longevity was itself an extraordinary achievement. | Bản thân sự trường tồn của Byzantium đã là một thành tựu phi thường.
+Constantinople, a bastion protected by massive land walls and by its position on a peninsula between two seas, withstood repeated sieges by Persians, Arabs, Bulgarians and Russians, and for much of the medieval period it was the largest and wealthiest city in Europe. | Constantinople, một pháo đài được bảo vệ bởi những bức tường thành đồ sộ và vị trí trên một bán đảo giữa hai vùng biển, đã chống chịu được những cuộc vây hãm liên tiếp của người Ba Tư, Ả Rập, Bulgaria và Nga, và trong phần lớn thời trung cổ, đây là thành phố lớn nhất và giàu có nhất châu Âu.
+The empire preserved a sophisticated bureaucracy, a system of law codified under the emperor Justinian that later shaped legal traditions across Europe, and a cosmopolitan culture in which merchants, scholars and diplomats from three continents mingled. | Đế chế duy trì một bộ máy quan liêu tinh vi, một hệ thống luật pháp được hệ thống hoá dưới thời hoàng đế Justinian về sau định hình truyền thống pháp lý khắp châu Âu, và một nền văn hoá quốc tế nơi thương nhân, học giả và nhà ngoại giao từ ba châu lục giao thoa.
+The Hagia Sophia, completed in 537, remained the largest church in the world for almost a thousand years, and its gilded mosaics still astonish visitors today. | Hagia Sophia, hoàn thành năm 537, là nhà thờ lớn nhất thế giới suốt gần một nghìn năm, và những bức khảm dát vàng của nó đến nay vẫn khiến du khách kinh ngạc.
+names: Persians, Arabs, Bulgarians, Russians, Europe
+gloss: longevity, massive, withstood, sieges, medieval, codified, diplomats, continents, mingled
+
+In a devout society, religion was central to Byzantine identity and, frequently, to its internal strife. | Trong một xã hội sùng đạo, tôn giáo là trung tâm của bản sắc Byzantine và, thường xuyên, của những xung đột nội bộ.
+Theological disputes about the nature of Christ, which may seem arcane to modern observers, divided the population, provoked riots and shaped imperial policy. | Những tranh cãi thần học về bản chất của Chúa Kitô, dù có vẻ khó hiểu với người quan sát hiện đại, đã chia rẽ dân chúng, gây ra bạo loạn và định hình chính sách của triều đình.
+What one emperor defended as true doctrine, his successor might condemn as heresy. | Điều mà một hoàng đế bảo vệ như giáo lý chân chính, người kế vị có thể lên án là dị giáo.
+During the eighth and ninth centuries, a movement known as iconoclasm led emperors to prohibit religious images, which its supporters regarded as idolatry, and the destruction that followed deprived later generations of much of the empire's early art. | Trong các thế kỷ tám và chín, một phong trào gọi là bài trừ thánh tượng đã khiến các hoàng đế cấm hình ảnh tôn giáo, thứ mà những người ủng hộ coi là thờ ngẫu tượng, và sự phá huỷ sau đó đã tước đi của các thế hệ sau phần lớn nghệ thuật thời kỳ đầu của đế chế.
+Relations with the papal authorities in Rome deteriorated steadily, and in 1054 the Eastern and Western churches formally separated. | Quan hệ với Toà Thánh ở Rome xấu đi dần dần, và năm 1054 các giáo hội Đông và Tây chính thức chia tách.
+names: Christ, Rome, Eastern
+gloss: theological, arcane, riots, imperial, prohibit, idolatry, deprived, deteriorated
+
+The most devastating blow came not from Muslim armies but from fellow Christians. | Đòn tàn khốc nhất không đến từ các đạo quân Hồi giáo mà đến từ chính những người đồng đạo Kitô.
+In 1204, the soldiers of the Fourth Crusade, diverted from their original objective by Venetian commercial interests and a disputed claim to the throne, captured and plundered Constantinople. | Năm 1204, binh lính của cuộc Thập tự chinh lần thứ tư, bị các lợi ích thương mại của Venice và một yêu sách tranh chấp về ngai vàng làm chệch khỏi mục tiêu ban đầu, đã chiếm và cướp phá Constantinople.
+The empire was eventually restored, but in a diminished form, and it never recovered its former strength before the Ottomans finally captured the city in 1453. | Đế chế cuối cùng được khôi phục, nhưng dưới hình thái suy giảm, và không bao giờ lấy lại sức mạnh xưa trước khi người Ottoman cuối cùng chiếm được thành phố năm 1453.
+The crusaders carried off relics and treasures, among them four bronze horses that can still be seen in Venice. | Quân thập tự chinh mang đi các thánh tích và báu vật, trong đó có bốn con ngựa đồng đến nay vẫn còn ở Venice.
+names: Muslim, Christians, Venetian
+gloss: devastating, diverted, objective, commercial, disputed, throne, plundered, restored, diminished
+
+Yet Byzantium did not simply disappear. | Thế nhưng Byzantium không đơn giản biến mất.
+Greek scholars who fled westward carried classical manuscripts, many preserved for centuries in monastic libraries, that contributed to the Italian Renaissance, and the Orthodox Church, which the empire had nurtured and whose senior patriarch still resides in Istanbul, spread its liturgy, its art and its alphabet across Eastern Europe. | Các học giả Hy Lạp chạy sang phía tây mang theo những bản thảo cổ điển, nhiều bản được lưu giữ hàng thế kỷ trong thư viện tu viện, góp phần vào thời Phục hưng Ý, và Giáo hội Chính thống, được đế chế nuôi dưỡng và có vị thượng phụ cao cấp nhất đến nay vẫn ngự tại Istanbul, đã truyền bá phụng vụ, nghệ thuật và bảng chữ cái của mình khắp Đông Âu.
+Russian rulers subsequently claimed Moscow as the "Third Rome", the legitimate heir of Constantinople, and the Ottoman sultans who conquered the city adopted many of its administrative practices. | Các nhà cai trị Nga về sau tuyên bố Moscow là "La Mã thứ ba", người thừa kế chính danh của Constantinople, và các sultan Ottoman chinh phục thành phố đã tiếp nhận nhiều thực hành hành chính của nó.
+The empire that Western historians once dismissed as a byword for decay proves, on closer inspection, to have been one of the great civilizations of history, and one whose influence persists, often unrecognized, in the religious and political cultures of much of the modern world. | Đế chế mà các nhà sử học phương Tây từng gạt đi như một từ đồng nghĩa với suy tàn, khi xem xét kỹ, hoá ra là một trong những nền văn minh vĩ đại của lịch sử, và là nền văn minh mà ảnh hưởng vẫn còn đó, thường không được nhận ra, trong văn hoá tôn giáo và chính trị của phần lớn thế giới hiện đại.
+names: Greek, Italian Renaissance, Eastern Europe, Russian
+gloss: westward, manuscripts, nurtured, liturgy, alphabet, heir, sultans, administrative, byword, decay, civilizations, persists, unrecognized

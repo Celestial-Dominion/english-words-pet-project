@@ -1,0 +1,35 @@
+=== vd-c1-the-holdout
+title: Just to Play Devil's Advocate | Thử đóng vai phản biện
+source: st-c1-the-holdout
+summary: Trong phòng nghị án, Agnes không bác bỏ ai mà chỉ đặt câu hỏi, thách thức từng giả định về nhân chứng và mốc thời gian, trong khi Barry sốt ruột muốn bỏ phiếu ngay.
+scene: office
+cast: barry name=Barry look=dad x=300 voice=en-US-GuyNeural pitch=-6Hz rate=+4% style.hair=bald style.outfit=shirt style.top=#A9CCE3 style.topShade=#94B8CF
+cast: agnes name=Agnes look=grandma x=800 voice=en-US-AriaNeural pitch=-9Hz rate=-6% style.hair=bun style.hairColor=#E5E5E5 style.outfit=cardigan style.top=#7D6608 style.topShade=#6A5706 style.glasses=round
+cast: tariq name=Tariq look=man x=1300 voice=en-US-EricNeural pitch=+2Hz style.hair=short style.hairColor=#1A1A1A style.skin=#B98563 style.skinShade=#A47251 style.outfit=tee style.top=#16A085 style.topShade=#138D75
+names: Barry, Agnes, Tariq, Leon, Carver Street
+words: defendant; prosecution; speculation; lineup; unanimous; convict
+focus: Phản biện và thách thức giả định mà không gây đối đầu
+pattern: Just to play devil's advocate, … · Let's assume for a moment that… · Isn't it possible that…? · That's a big assumption · How can we be sure that…? · I'm not saying…; I'm saying…
+explain: Phản biện "nhận vai" để giảm căng thẳng: "Just to play devil's advocate, …". Giả định để kiểm tra lập luận: "Let's assume for a moment that…". Gợi khả năng khác bằng câu hỏi phủ định: "Isn't it possible that…?". Chỉ ra điểm yếu: "That's a big assumption." Đòi bằng chứng: "How can we be sure that…?". Phân biệt rõ lập trường: "I'm not saying he's innocent; I'm saying the evidence isn't enough."
+keys: devil's advocate / assume for a moment / isn't it possible that / a big assumption / how can we be sure / i'm not saying
+
+barry: Right, it's eleven to one. Agnes, the victim picked him out. Can we just vote again and go home? | Được rồi, mười một chọi một. Bà Agnes, nạn nhân đã chỉ ra cậu ta. Chúng ta bỏ phiếu lại rồi về được không? [explain]
+agnes: I'd like to go home too, Barry. But before we convict a nineteen-year-old, may I ask a few questions? | Tôi cũng muốn về nhà, Barry ạ. Nhưng trước khi kết tội một thanh niên mười chín tuổi, tôi hỏi vài câu được không? [nod]
+barry: Go on, then. But the evidence is obvious. | Thì bà hỏi đi. Nhưng bằng chứng rõ rành rành rồi. [shrug]
+agnes: Just to play devil's advocate: how long did the victim actually see his attacker? | Thử đóng vai phản biện nhé: nạn nhân thực sự nhìn thấy kẻ tấn công trong bao lâu? [thinking ipa=advocate:ˈædvəkət]
+tariq: He said a few seconds. At night, while he was falling. | Ông ấy nói vài giây. Vào ban đêm, trong lúc đang ngã. [explain]
+agnes: And he chose Leon from the lineup two days after seeing his photo online. Isn't it possible that he remembered the photo, not the face? | Và ông ấy chọn Leon trong buổi nhận dạng hai ngày sau khi xem ảnh cậu ta trên mạng. Chẳng lẽ không thể là ông ấy nhớ bức ảnh, chứ không phải khuôn mặt? [thinking]
+barry: That's pure speculation. He was completely confident in court. | Đó hoàn toàn là suy đoán. Ông ấy hoàn toàn tự tin trước toà. [angry]
+agnes: He was. But confidence isn't accuracy. How can we be sure the post didn't shape what he thought he saw? | Đúng vậy. Nhưng tự tin không có nghĩa là chính xác. Làm sao chúng ta chắc được bài đăng kia không định hình những gì ông ấy nghĩ mình đã thấy? [explain]
+tariq: Honestly, I'd have picked him too, after seeing that post. | Thật lòng mà nói, sau khi xem bài đăng đó, có khi tôi cũng chọn cậu ta. [shy barry:surprised]
+barry: Fine. But what about the timing? The prosecution explained that. | Thôi được. Nhưng còn thời gian thì sao? Bên công tố đã giải thích chuyện đó rồi. [explain]
+agnes: Let's assume for a moment that he got off the bus at the first stop. That's nine hundred metres from Carver Street. | Hãy giả sử một chút rằng cậu ấy xuống xe ở bến đầu tiên. Chỗ đó cách phố Carver chín trăm mét. [explain]
+agnes: He'd have to run there, attack a stranger and be filmed running away, all in about seven minutes. | Cậu ấy sẽ phải chạy đến đó, tấn công một người lạ và bị quay lại cảnh chạy trốn, tất cả trong khoảng bảy phút. [explain ipa=minutes:ˈmɪnɪts]
+barry: A fit lad could do that. | Một cậu thanh niên khoẻ mạnh có thể làm được. [shrug]
+agnes: Perhaps. It isn't impossible, but it's extremely implausible. And nobody showed that he left the bus early. That's a big assumption. | Có thể. Không phải là không thể, nhưng cực kỳ khó tin. Và chưa ai chứng minh được cậu ấy xuống xe sớm. Đó là một giả định lớn. [thinking]
+barry: So you think he's innocent? A defendant with a criminal record? | Vậy bà nghĩ cậu ta vô tội à? Một bị cáo có tiền án? [angry ipa=record:=]
+agnes: I'm not saying he's innocent. I'm saying the evidence isn't good enough. And his record isn't evidence of anything that night. | Tôi không nói cậu ấy vô tội. Tôi nói bằng chứng chưa đủ tốt. Và tiền án của cậu ấy chẳng phải là bằng chứng cho bất cứ điều gì đêm đó. [explain ipa=record:=]
+tariq: The judge said we must be sure. I'm not sure anymore. | Thẩm phán nói chúng ta phải chắc chắn. Tôi không còn chắc nữa. [worried]
+barry: You realize a verdict has to be unanimous, or close to it? We could be here all week. | Hai người có biết phán quyết phải nhất trí, hoặc gần như vậy không? Có khi chúng ta ở đây cả tuần. [tired ipa=close:kloʊs]
+agnes: Then let's use the week well, Barry. Shall we look at the map together? | Vậy thì hãy dùng tuần này cho tốt, Barry ạ. Chúng ta cùng xem tấm bản đồ nhé? [happy ipa=use:juz]
+gloss: lad, criminal record

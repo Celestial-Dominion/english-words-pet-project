@@ -1,0 +1,33 @@
+=== vd-b2-the-last-speakers
+title: Although They Argue… | Dù họ cãi nhau…
+source: st-b2-the-last-speakers
+summary: Leyla hỏi nhà ngôn ngữ học Nadia vì sao ông mình và ông Selim nói tiếng Varesh "khác nhau" — cuộc trò chuyện đầy những cách nói đối lập và nhượng bộ.
+scene: village
+cast: nadia name=Nadia look=woman x=520 voice=en-US-JennyNeural pitch=-4Hz style.hair=long style.hairColor=#2B1B14 style.skin=#C68E5E style.skinShade=#B07A4C style.outfit=coat style.top=#7D6608 style.topShade=#6E5A07
+cast: leyla name=Leyla look=teengirl x=1160 voice=en-US-AnaNeural style.hair=pigtails style.hairColor=#1A1A1A style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=jacket style.top=#C0392B style.topShade=#A93226
+names: Aziz, Leyla, Nadia, Selim, Varesh, Grandpa
+words: pronounce; stubborn; recording; separately; argue; brilliant
+focus: Diễn đạt sự đối lập và nhượng bộ
+pattern: Although…, … · …, whereas… · Even though…, … · Despite + V-ing/N, … · While…, … · However, … · In spite of…, …
+explain: "Although/Even though + mệnh đề" = mặc dù: "Although they both say the other is wrong, their Varesh is almost identical." "Whereas/While" nối hai ý đối lập: "He speaks slowly, whereas Selim speaks faster." "Despite/In spite of + danh từ hoặc V-ing": "Despite living in the same village, they haven't spoken for forty years." "However" đứng đầu câu mới, sau dấu chấm.
+keys: although / whereas / even though / despite / while / however / in spite of
+
+leyla: Dr. Aziz, can I ask you something? Why do Grandpa and Selim speak Varesh so differently? | Cô Aziz, cháu hỏi cô một chuyện được không ạ? Sao ông cháu và ông Selim nói tiếng Varesh khác nhau thế? [thinking]
+nadia: They don't really. Although they both say the other is wrong, their Varesh is almost the same. | Thật ra không khác mấy đâu. Dù cả hai đều bảo người kia sai, tiếng Varesh của họ gần như giống hệt nhau. [explain]
+leyla: But Grandpa says that Selim's version is lazy. | Nhưng ông cháu nói phiên bản của ông Selim cẩu thả. [confused]
+nadia: Your grandfather pronounces some words slowly, whereas Selim speaks faster. That's all. | Ông cháu phát âm một số từ chậm rãi, còn ông Selim nói nhanh hơn. Chỉ vậy thôi. [explain]
+leyla: So neither of them is right? | Vậy là không ai đúng cả ạ? [surprised]
+nadia: Both of them are right. Even though they argue about the details, they share the same language. | Cả hai đều đúng. Dù họ cãi nhau về từng chi tiết, họ vẫn dùng chung một ngôn ngữ. [nod]
+leyla: It's funny. Despite living in the same village, they haven't spoken for forty years. Their feud is legendary. | Buồn cười thật. Dù sống cùng một làng, họ không nói chuyện với nhau suốt bốn mươi năm. Mối hiềm khích của họ nổi tiếng lắm. [sad]
+nadia: I know. While your grandfather taught me the names of plants, Selim taught me songs and proverbs. | Cô biết. Trong khi ông cháu dạy cô tên các loài cây, thì ông Selim dạy cô những bài hát và câu tục ngữ. [explain]
+leyla: So each of them knows things the other doesn't? | Vậy là mỗi ông biết những điều mà ông kia không biết ạ? [thinking]
+nadia: Exactly. Separately, they're interesting. Together, they're the whole language. | Chính xác. Riêng từng người thì thú vị. Cùng nhau, họ là trọn vẹn một ngôn ngữ. [happy]
+leyla: However, they refuse to sit in the same room. | Có điều, hai ông không chịu ngồi chung một phòng. [shrug ipa=refuse:=]
+nadia: That's the crucial problem. In spite of all my efforts, I only have recordings of them talking to me. | Đó chính là vấn đề then chốt. Dù cô đã cố gắng hết sức, cô chỉ có những bản ghi họ nói chuyện với cô. [sad]
+leyla: What if they talked to someone who wanted to learn? Like me? | Nếu họ nói chuyện với một người muốn học thì sao ạ? Như cháu chẳng hạn? [thinking]
+nadia: That's a brilliant idea, although it might not work. They're both very stubborn. | Ý tưởng tuyệt vời đấy, dù có thể không thành. Cả hai ông đều rất cứng đầu. [surprised]
+leyla: I'm stubborn too. It runs in the family! | Cháu cũng cứng đầu mà. Nhà cháu di truyền đấy ạ! [happy]
+nadia: Then let's try. Even if they only correct each other, at least they'll be speaking Varesh together. | Vậy mình thử xem. Kể cả nếu họ chỉ sửa lỗi cho nhau, ít ra họ cũng sẽ nói tiếng Varesh với nhau. [happy]
+leyla: I'll ask Grandpa tonight. Selim always gives me sweets, so I think he'll say yes. | Tối nay cháu sẽ hỏi ông. Ông Selim lúc nào cũng cho cháu kẹo, nên cháu nghĩ ông sẽ đồng ý. [happy]
+nadia: Leyla, you might be the most important person in this valley. | Leyla, có khi cháu là người quan trọng nhất thung lũng này đấy. [happy leyla:shy]
+gloss: proverbs, feud

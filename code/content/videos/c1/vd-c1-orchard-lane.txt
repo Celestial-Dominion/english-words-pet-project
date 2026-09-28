@@ -1,0 +1,37 @@
+=== vd-c1-orchard-lane
+title: Where You're Both Coming From | Hiểu cả hai phía
+source: st-c1-orchard-lane
+summary: Sau khi đọc lá thư của mẹ, Josie ngồi giữa anh trai và chị gái trong căn bếp cũ, khéo léo hoà giải để cả ba cùng tìm ra cách giữ ngôi nhà mà không ai phải thiệt.
+scene: kitchen
+prop: cake x=550
+cast: helen name=Helen look=woman x=300 voice=en-US-MichelleNeural pitch=-3Hz style.hair=bob style.hairColor=#6B4A2F style.outfit=cardigan style.top=#8E44AD style.topShade=#7D3C98 style.glasses=square
+cast: josie name=Josie look=woman x=800 voice=en-US-AriaNeural pitch=+3Hz rate=+2% style.hair=ponytail style.hairColor=#A0522D style.outfit=blouse style.top=#27AE60 style.topShade=#229954
+cast: martin name=Martin look=man x=1300 voice=en-US-GuyNeural pitch=-2Hz style.hair=curly style.hairColor=#5A3A22 style.outfit=jacket style.top=#7F8C8D style.topShade=#6C7A7B
+names: Helen, Josie, Martin, Mum, Amy
+words: inheritance; valuation; sentimental; tenant; viable; sibling
+focus: Hoà giải bất đồng giữa hai người thân
+pattern: I can see where you're both coming from · Let's take a step back · Correct me if I'm wrong, but… · What matters most to you? · Is there a way we could…? · Let's hear … out
+explain: Công nhận cả hai phía trước khi đề xuất: "I can see where you're both coming from." Hạ nhiệt: "Let's take a step back for a moment." Diễn đạt lại để kiểm tra: "Correct me if I'm wrong, but what you need is…". Hỏi về điều cốt lõi: "What matters most to you?". Gợi giải pháp chung: "Is there a way we could…?". Giữ công bằng lượt nói: "Let's hear Helen out." Người hoà giải không phán xử ai đúng sai.
+keys: where you're both coming from / take a step back / correct me if i'm wrong / what matters most / is there a way we could / hear her out
+
+josie: Right. Mum's letter asked us to talk, so let's actually talk. No shouting this time. | Được rồi. Thư của mẹ bảo chúng ta nói chuyện, vậy hãy thực sự nói chuyện. Lần này không quát tháo nhé. [explain @cake]
+martin: I wasn't the one who wanted to sell the house before the flowers had died. | Người muốn bán nhà khi hoa tang còn chưa héo đâu phải là em. [angry ipa=house:=]
+helen: And I wasn't the one who kept a list of every visit I missed. | Còn chị đâu phải người ghi lại từng lần chị không về thăm. [angry]
+josie: OK, let's take a step back. I can see where you're both coming from, honestly. | Thôi, mình lùi lại một bước đã. Thật lòng em hiểu lý do của cả hai người. [explain helen:sad martin:sad]
+josie: Martin, correct me if I'm wrong, but this isn't only sentimental for you. You'd be losing the place where you looked after her. | Anh Martin, em nói sai thì anh sửa nhé, nhưng với anh chuyện này không chỉ là tình cảm. Anh sẽ mất đi nơi anh đã chăm sóc mẹ. [thinking]
+martin: That's exactly it. Every room reminds me of something I did for her. Selling it feels like erasing that. | Chính xác. Phòng nào cũng nhắc anh về việc gì đó anh đã làm cho mẹ. Bán đi thì như xoá sạch những điều đó. [sad]
+josie: And Helen, you need the money soon, because of the mortgage. It isn't greed. | Còn chị Helen, chị cần tiền sớm, vì khoản thế chấp. Đó đâu phải là tham lam. [nod]
+helen: It isn't. If it were up to me, I'd never sell. But I can't let the bank take my own home. | Không phải. Nếu tuỳ chị, chị sẽ không bao giờ bán. Nhưng chị không thể để ngân hàng lấy mất nhà của chính mình. [tearful]
+martin: I didn't know any of that until last night. I'm sorry, Helen. | Đến tối qua em mới biết những chuyện đó. Em xin lỗi, chị Helen. [shy helen:surprised]
+josie: So what matters most to each of you? Martin, is it owning the house, or keeping it in the family? | Vậy điều gì quan trọng nhất với mỗi người? Anh Martin, là sở hữu ngôi nhà, hay giữ nó trong gia đình? [thinking ipa=house:=]
+martin: Keeping it in the family. I could never afford to buy you both out anyway. You've seen the valuation. | Giữ nó trong gia đình. Dù sao anh cũng chẳng bao giờ đủ tiền mua lại phần của hai đứa. Em thấy bản định giá rồi đấy. [shrug]
+josie: Then is there a way we could turn the upstairs into a flat and rent it out? | Vậy có cách nào để mình biến tầng trên thành một căn hộ rồi cho thuê không? [explain]
+helen: A tenant, you mean? And the rent would come to me? | Ý em là có người thuê à? Và tiền thuê sẽ đến tay chị? [surprised]
+josie: Every month, until Martin can buy your share. I'll leave mine where it is for now. | Tháng nào cũng vậy, cho đến khi anh Martin mua được phần của chị. Còn phần của em thì em cứ để đó đã. [nod]
+martin: Hang on, let's hear Helen out first. Would that actually be enough to help? | Khoan, để chị Helen nói hết đã. Như thế có thực sự đủ để giúp chị không? [thinking]
+helen: It wouldn't solve everything, but it's viable. It would keep us afloat while Tom looks for work. | Nó không giải quyết được mọi thứ, nhưng khả thi. Nó sẽ giúp nhà chị cầm cự trong lúc anh Tom tìm việc. [thinking]
+josie: Mum said she'd rather the house were useful than preserved. I think this is what she meant. | Mẹ nói mẹ thà ngôi nhà có ích còn hơn được giữ nguyên. Em nghĩ đây chính là ý mẹ. [happy ipa=house:=]
+martin: A useful inheritance. She'd be pleased. And slightly smug, knowing her. | Một khoản thừa kế có ích. Mẹ sẽ vui lắm. Và còn hơi đắc ý nữa, anh biết tính mẹ mà. [happy]
+helen: For three siblings who can't agree on anything, this might be a record. | Với ba anh chị em chẳng bao giờ đồng ý được chuyện gì, đây có lẽ là một kỷ lục. [happy ipa=record:=]
+names: Tom
+gloss: greed, afloat, smug, upstairs

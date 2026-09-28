@@ -1,0 +1,29 @@
+=== vd-a1-the-wrong-bus
+title: Excuse Me, Where Is This? | Cháu xin lỗi, đây là đâu ạ?
+source: st-a1-the-wrong-bus
+summary: Xuống nhầm trạm xa thành phố, Leo hỏi một bác ở trạm xe buýt đường về công viên rồi gọi điện cho mẹ.
+scene: street
+cast: leo name=Leo look=boy x=520 voice=en-US-AnaNeural pitch=-12Hz
+cast: rosa name="Mrs. Diaz" vi="Bác Diaz" look=woman x=1080 voice=en-US-JennyNeural rate=-14% style.skin=#C98E68 style.skinShade=#B07650 style.hair=bun style.hairColor=#3A2A22 style.top=#8C7BC2 style.topShade=#7666AD style.collar=#F3EEFF
+cast: mom name=Mom vi=Mẹ look=mom x=420 voice=en-US-AvaNeural call call.bg=home-day from=10
+names: Diaz, Airport Road
+words: wrong; airport; wait; worry; near
+focus: Hỏi đường và hỏi xe buýt
+pattern: Excuse me, where is…? · Where do you want to go? · Does the number 5 go to…?
+explain: Mở đầu bằng "Excuse me" cho lịch sự rồi mới hỏi. Hỏi xe đi đâu dùng "Does + xe + go to…?"; câu trả lời ngắn là "Yes, it does." hoặc "No, it doesn't."
+keys: excuse me / where is / where do you want to go / does the number 5 go / where are you
+
+leo: Excuse me. Where is this? | Cháu xin lỗi. Đây là đâu ạ? [worried ipa=excuse:ɪkˈskjuz]
+rosa: This is Airport Road. | Đây là đường Sân Bay. [neutral]
+leo: Airport Road? Oh no! | Đường Sân Bay ạ? Ôi không! [surprised]
+rosa: Are you OK? Where do you want to go? | Cháu có sao không? Cháu muốn đi đâu? [worried]
+leo: The park in the city. I took the wrong bus. | Công viên trong thành phố ạ. Cháu lên nhầm xe. [sad]
+rosa: Don't worry. Wait here for the number 5. | Đừng lo. Cháu đợi xe số 5 ở đây nhé. [happy explain ~number:5]
+leo: Does the number 5 go to the park? | Xe số 5 có đến công viên không ạ? [thinking]
+rosa: Yes, it does. It stops near the park. | Có chứ. Xe dừng gần công viên. [nod]
+leo: Thank you very much! | Cháu cảm ơn bác nhiều ạ! [happy]
+rosa: You're welcome. Call your mom, OK? | Không có gì. Gọi cho mẹ cháu đi nhé? [happy]
+mom: Leo? Where are you? | Leo à? Con đang ở đâu đấy? [worried]
+leo: Mom, I'm OK! I'm near the airport. | Mẹ ơi, con không sao! Con đang ở gần sân bay. [shy]
+mom: The airport? Oh, Leo! | Sân bay á? Trời ơi, Leo! [surprised]
+leo: Don't worry, Mom. The number 5 is coming! | Mẹ đừng lo. Xe số 5 sắp tới rồi! [happy wave rosa:happy]

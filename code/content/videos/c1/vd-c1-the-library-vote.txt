@@ -1,0 +1,37 @@
+=== vd-c1-the-library-vote
+title: Shall We Make a Start? | Chúng ta bắt đầu nhé?
+source: st-c1-the-library-vote
+summary: Bà Gwen chủ toạ phần cuối cuộc họp công khai về thư viện: giữ trật tự, giới hạn thời gian, cho cậu học sinh Kofi được nói, tóm tắt các ý kiến và đưa bản sửa đổi ra biểu quyết.
+scene: service-hall
+prop: microphone x=1060
+cast: malcolm name=Malcolm look=dad x=300 voice=en-US-GuyNeural pitch=-4Hz style.hair=part style.hairColor=#7A7A7A style.outfit=tie style.top=#D5D8DC style.topShade=#BFC4C9 style.glasses=square
+cast: gwen name=Gwen look=woman x=800 voice=en-US-MichelleNeural pitch=-8Hz rate=-3% style.hair=short style.hairColor=#D0D0D0 style.outfit=suit style.top=#1A5276 style.topShade=#154360 style.glasses=round
+cast: kofi name=Kofi look=teenboy x=1300 voice=en-US-EricNeural pitch=+5Hz rate=+2% style.hair=short style.hairColor=#1A1A1A style.skin=#6E4127 style.skinShade=#58321D style.outfit=tee style.top=#F4D03F style.topShade=#D4AC0D
+names: Malcolm, Gwen, Kofi, Nkechi, Kofi Boateng, Councillor Hurst
+words: municipal; petition; amendment; feasible; integral; candid
+focus: Chủ trì một cuộc họp: giữ trật tự, giới hạn thời gian, tóm tắt và biểu quyết
+pattern: Shall we make a start? · Let's stick to the agenda · Could I ask you to keep it brief? · To sum up, … · Let's put it to a vote · Is there any other business?
+explain: Mở đầu / tiếp tục: "Shall we make a start?", "Let's move on to…". Giữ đúng chủ đề: "Let's stick to the agenda, please." Giới hạn thời gian lịch sự: "Could I ask you to keep it brief?", "You have two minutes." Tóm tắt trung lập: "To sum up, …". Biểu quyết: "Let's put it to a vote. All those in favour?". Kết thúc: "Is there any other business?". Người chủ toạ không bày tỏ lập trường riêng.
+keys: make a start / stick to the agenda / keep it brief / to sum up / put it to a vote / any other business
+
+gwen: Right, everyone, it's nearly ten o'clock. Shall we make a start on the final part of this meeting? | Nào, thưa mọi người, đã gần mười giờ. Chúng ta bắt đầu phần cuối của cuộc họp nhé? [explain]
+malcolm: Madam Chair, before we continue, the new roundabout has nothing to do with the library budget. | Thưa bà chủ toạ, trước khi tiếp tục, vòng xuyến mới chẳng liên quan gì đến ngân sách thư viện. [angry]
+gwen: I agree, Councillor Hurst. Let's stick to the agenda, please. We're discussing municipal services, not roads. | Tôi đồng ý, ông Hurst. Xin mọi người bám sát chương trình họp. Chúng ta đang bàn về dịch vụ công của đô thị, không phải đường sá. [nod]
+malcolm: Thank you. I simply want residents to understand that the deficit is real. | Cảm ơn bà. Tôi chỉ muốn cư dân hiểu rằng thâm hụt ngân sách là có thật. [explain]
+gwen: Your presentation was admirably candid, and nobody doubts the figures. Could I ask you to keep your reply brief? | Bài trình bày của ông thẳng thắn đáng khen, và không ai nghi ngờ các con số. Tôi có thể đề nghị ông trả lời ngắn gọn được không? [explain]
+malcolm: Of course. Every pound we spend on the building is a pound we can't spend on care for the elderly. | Tất nhiên. Mỗi bảng chúng ta chi cho toà nhà là một bảng không thể chi cho việc chăm sóc người già. [explain]
+kofi: Excuse me. Sorry. I know I didn't register, but could I say something? | Xin lỗi ạ. Cháu xin lỗi. Cháu biết cháu chưa đăng ký, nhưng cháu nói một chút được không ạ? [shy ipa=excuse:ɪkˈskjuz]
+malcolm: The rules are quite clear, Madam Chair. He isn't on the list. | Quy định khá rõ ràng, thưa bà chủ toạ. Cậu ấy không có tên trong danh sách. [shake]
+gwen: They are. But this meeting is about the people who use the library. Two minutes, young man. Tell us your name first. | Đúng vậy. Nhưng cuộc họp này là về những người sử dụng thư viện. Hai phút thôi, chàng trai. Cho chúng tôi biết tên cháu trước. [nod ipa=use:juz]
+kofi: Kofi Boateng. I've done my homework at the table by the radiator every night for four years. It's the only quiet place I have. | Kofi Boateng ạ. Bốn năm nay tối nào cháu cũng làm bài tập ở chiếc bàn cạnh lò sưởi. Đó là nơi yên tĩnh duy nhất cháu có. [explain]
+kofi: I'm not asking you to keep the building because it's beautiful. I'm asking you to keep somewhere for people like me. | Cháu không xin các bác giữ toà nhà vì nó đẹp. Cháu xin các bác giữ lại một chỗ cho những người như cháu. [tearful gwen:sad]
+gwen: Thank you, Kofi. That was brave, and it was well within two minutes. | Cảm ơn cháu, Kofi. Cháu đã rất dũng cảm, và còn chưa đến hai phút. [happy]
+gwen: Now, to sum up. The petition has eleven thousand signatures, and the council's financial position is genuinely difficult. | Giờ xin tóm tắt. Bản kiến nghị có mười một nghìn chữ ký, và tình hình tài chính của hội đồng thật sự khó khăn. [explain]
+gwen: Several speakers described the library as an integral part of the town. And Ms. Obi has suggested sharing the building with a clinic and the job centre. | Nhiều người phát biểu mô tả thư viện là một phần không thể thiếu của thị trấn. Và bà Obi đã đề xuất dùng chung toà nhà với một phòng khám và trung tâm việc làm. [explain]
+malcolm: I'm not convinced that's feasible, but I'd like a week to examine it properly. | Tôi chưa tin là việc đó khả thi, nhưng tôi muốn có một tuần để xem xét cho kỹ. [thinking]
+gwen: Then I'd like to propose an amendment: that we delay the decision by three months while the plan is assessed. | Vậy tôi xin đề xuất một sửa đổi: hoãn quyết định ba tháng trong khi kế hoạch được đánh giá. [explain]
+gwen: Let's put it to a vote. All those in favour of the amendment? | Chúng ta biểu quyết. Ai tán thành bản sửa đổi xin giơ tay? [point]
+malcolm: In favour. It's the sensible thing to do. | Tán thành. Đó là việc hợp lý nên làm. [nod]
+gwen: The amendment is carried by a large majority. Is there any other business? No? Then thank you all, and please get home safely in the rain. | Bản sửa đổi được thông qua với đa số lớn. Còn việc gì khác không? Không à? Vậy cảm ơn tất cả mọi người, và xin về nhà an toàn trong mưa nhé. [happy kofi:happy]
+names: Ms. Obi, Obi, Madam Chair
+gloss: roundabout, deficit, radiator, signatures, clinic

@@ -1,0 +1,33 @@
+=== vd-a2-the-hidden-portrait
+title: Sorry, What Do You Mean? | Xin lỗi, ý bác là sao ạ?
+source: st-a2-the-hidden-portrait
+summary: Bà Kovac cho Noor xem ảnh X-quang bức tranh cổ và giải thích bằng những từ khó; Noor phải hỏi lại cho rõ.
+scene: office
+prop: laptop x=800
+cast: noor name=Noor look=teengirl x=500 voice=en-US-EmmaNeural pitch=+6Hz style.hair=long style.hairColor=#1F1A1C style.skin=#C98E68 style.skinShade=#B07650 style.scarf=#8C7BC2 style.top=#8C7BC2 style.topShade=#7666AD
+cast: kovac name="Dr. Kovac" vi="Bà Kovac" look=woman x=1130 voice=en-US-MichelleNeural style.hair=bob style.hairColor=#C9C6CF style.glasses=true style.outfit=coat
+names: Kovac
+gloss: x-ray, layers, canvas, restorer
+words: portrait; century; painter; image; layer; expensive
+focus: Hỏi lại khi chưa hiểu
+pattern: Sorry, what do you mean? · Could you say that again, please? · So you mean…? · What does … mean?
+explain: Khi chưa hiểu, đừng im lặng: hỏi "Sorry, what do you mean?" hoặc "Could you say that again, please?". Kiểm tra lại mình hiểu đúng chưa bằng "So you mean…?". Hỏi nghĩa một từ: "What does 'layer' mean?"
+keys: what do you mean / could you say that again / so you mean / what does
+
+kovac: Hello, Noor. Thank you for coming. Look at this image. | Chào Noor. Cảm ơn cháu đã đến. Cháu nhìn hình này xem. [happy point @laptop]
+noor: Is that the painting of the valley? | Đó là bức tranh thung lũng phải không ạ? [thinking]
+kovac: Yes. It's an x-ray. It shows the layers under the paint. | Đúng. Đây là ảnh X-quang. Nó cho thấy các lớp nằm dưới lớp sơn. [explain]
+noor: Sorry, what does "layers" mean? | Cháu xin lỗi, "layers" nghĩa là gì ạ? [confused]
+kovac: Layers are like floors in a building. One on top of another. | Các lớp giống như các tầng của toà nhà vậy. Lớp này chồng lên lớp kia. [explain]
+noor: So you mean there's another painting under the landscape? | Vậy ý bác là có một bức tranh khác bên dưới bức phong cảnh ạ? [surprised]
+kovac: Exactly. A portrait of a young woman. | Chính xác. Một bức chân dung thiếu nữ. [happy]
+kovac: The painter reused the canvas in the eighteenth century. | Người hoạ sĩ đã dùng lại tấm toan vào thế kỷ mười tám. [explain]
+noor: Sorry, could you say that again, please? | Cháu xin lỗi, bác nói lại được không ạ? [confused]
+kovac: Of course. He painted on the same canvas two times. | Tất nhiên. Ông ấy vẽ lên cùng một tấm toan hai lần. [explain]
+noor: Why? What do you mean? | Tại sao ạ? Ý bác là sao ạ? [thinking]
+kovac: Paint and canvas were very expensive then. | Hồi đó sơn và toan đắt lắm. [explain ~money:300]
+noor: So you mean he painted over his first picture to save money? | Vậy ý bác là ông ấy vẽ đè lên bức đầu tiên để tiết kiệm tiền ạ? [thinking]
+kovac: Maybe. Or maybe he didn't like it. | Có thể. Hoặc có thể ông ấy không thích nó. [shrug]
+noor: And now, after three hundred years, we can see her again. | Và giờ, sau ba trăm năm, mình lại được nhìn thấy cô ấy. [happy]
+kovac: Thanks to you, Noor. You really looked. | Nhờ có cháu đấy, Noor. Cháu đã nhìn thật kỹ. [happy noor:shy]
+gloss: reused, eighteenth

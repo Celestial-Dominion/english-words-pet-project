@@ -59,3 +59,39 @@ const ACCENTS: Record<number, LevelAccent> = {
 export function levelAccent(level: number): LevelAccent {
   return ACCENTS[level] ?? ACCENTS[1];
 }
+
+// ---- Cấp HỌC LIỆU (Reading · Story · Video) ----
+// Học liệu dùng đủ 6 cấp CEFR, TÁCH khỏi band dữ liệu từ (bài học từ app HSK): A1 và A2 cùng tra
+// trong bộ nền (level 0) — tách A1/A2 theo nhãn CEFR-J lúc build; B1..C2 = level 1..4 của app.
+// Khoá `key` nằm trong URL (/bai-doc/b1/…) và id bài (rd-b1-…) nên KHÔNG được đổi.
+export interface ContentLevel {
+  key: string; // a1..c2
+  cefr: string; // A1..C2
+  label: string; // nhãn UI
+  band: number; // 0..5 (thứ tự độ khó)
+  vocabLevel: number; // level từ vựng của app (0 = bộ nền)
+}
+
+export const CONTENT_LEVELS: ContentLevel[] = [
+  { key: "a1", cefr: "A1", label: "A1 · Khởi đầu", band: 0, vocabLevel: 0 },
+  { key: "a2", cefr: "A2", label: "A2 · Sơ cấp", band: 1, vocabLevel: 0 },
+  { key: "b1", cefr: "B1", label: "B1 · Trung cấp", band: 2, vocabLevel: 1 },
+  { key: "b2", cefr: "B2", label: "B2 · Trung cao", band: 3, vocabLevel: 2 },
+  { key: "c1", cefr: "C1", label: "C1 · Cao cấp", band: 4, vocabLevel: 3 },
+  { key: "c2", cefr: "C2", label: "C2 · Thành thạo", band: 5, vocabLevel: 4 },
+];
+
+export function contentLevel(key: string): ContentLevel | undefined {
+  return CONTENT_LEVELS.find((l) => l.key === key);
+}
+
+const CONTENT_ACCENTS: Record<string, LevelAccent> = {
+  a1: { text: "text-violet-600 dark:text-violet-400", bar: "bg-violet-500", grad: "from-violet-500/15 to-transparent", badge: "bg-violet-500/15 text-violet-700 dark:text-violet-300" },
+  a2: { text: "text-teal-600 dark:text-teal-400", bar: "bg-teal-500", grad: "from-teal-500/15 to-transparent", badge: "bg-teal-500/15 text-teal-700 dark:text-teal-300" },
+};
+
+/** Màu nhấn theo cấp học liệu: A1/A2 riêng, B1..C2 dùng chung màu cấp từ vựng. */
+export function contentAccent(key: string): LevelAccent {
+  const l = contentLevel(key);
+  return CONTENT_ACCENTS[key] ?? levelAccent(l ? l.vocabLevel : 1);
+}

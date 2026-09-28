@@ -1,0 +1,33 @@
+=== vd-b2-the-debate
+title: Firstly, Secondly, To Sum Up | Thứ nhất, thứ hai, tóm lại
+source: st-b2-the-debate
+summary: Trong lớp học vắng, thầy Petrov giúp Tanvir tập bài nói chung kết theo một cấu trúc chặt chẽ: nêu luận điểm, dẫn ví dụ, thừa nhận phía bên kia và kết luận.
+scene: classroom
+cast: petrov name="Mr. Petrov" vi="Thầy Petrov" look=dad x=520 voice=en-US-SteffanNeural pitch=-4Hz style.hair=short style.hairColor=#6E6E6E style.outfit=cardigan style.top=#7B7D7D style.topShade=#626567 style.glasses=round
+cast: tanvir name=Tanvir look=teenboy x=1160 voice=en-US-EricNeural pitch=+6Hz rate=-4% style.hair=short style.hairColor=#1A1A1A style.skin=#A0673F style.skinShade=#8A5634 style.outfit=shirt style.top=#1F618D style.topShade=#1A5276
+names: Petrov, Tanvir
+words: structure; argument; persuasive; example; conclusion; brave
+focus: Sắp xếp lập luận mạch lạc khi trình bày
+pattern: Firstly, … · For instance, … · Secondly, … · Moreover, … · On the other hand, … · However, the key point is… · To sum up, …
+explain: Mở bài nói rõ quan điểm, rồi đi từng luận điểm: "Firstly…", "Secondly…". Dẫn chứng: "For instance…". Bổ sung: "Moreover/Furthermore…". Thừa nhận phía bên kia: "On the other hand, it's true that…", rồi quay về lập luận: "However, the key point is that…". Kết: "To sum up, …".
+keys: firstly / for instance / secondly / moreover / on the other hand / the key point is / to sum up
+
+petrov: Right, Tanvir. Let's practice your speech. Remember, a strong argument needs a clear structure. | Được rồi, Tanvir. Mình tập bài nói của em nhé. Nhớ là một lập luận mạnh cần có cấu trúc rõ ràng. [explain]
+tanvir: OK. I've researched the other side thoroughly. Should I start with my main point? | Vâng. Em đã tìm hiểu phía bên kia rất kỹ. Em có nên bắt đầu bằng luận điểm chính không ạ? [thinking]
+petrov: Start by telling the judges what you're going to argue. Then give your reasons one by one. | Hãy bắt đầu bằng việc nói với giám khảo em sẽ bảo vệ điều gì. Rồi đưa ra từng lý do một. [explain]
+tanvir: Right. "Firstly, social media gives lonely young people a place to find support." | Vâng. "Thứ nhất, mạng xã hội cho những người trẻ cô đơn một nơi để tìm sự hỗ trợ." [explain]
+petrov: Good. Now give an example to back it up. | Tốt. Giờ đưa ra một ví dụ để chứng minh. [nod]
+tanvir: "For instance, my cousin found the courage to be herself online long before she told her family." | "Chẳng hạn, em họ tôi đã tìm thấy can đảm sống thật với mình trên mạng từ rất lâu trước khi nói với gia đình." [explain]
+petrov: Excellent. A personal example is very persuasive. What's your second point? | Rất tốt. Một ví dụ cá nhân rất có sức thuyết phục. Luận điểm thứ hai của em là gì? [happy]
+tanvir: "Secondly, it helps disabled students who can't easily leave home to stay connected with friends." | "Thứ hai, nó giúp những học sinh khuyết tật không dễ rời khỏi nhà giữ được liên lạc với bạn bè." [explain]
+petrov: And can you add something to strengthen that? | Em có thể thêm điều gì để củng cố ý đó không? [thinking]
+tanvir: "Moreover, many young activists have used it to organize campaigns for causes they care about." | "Hơn nữa, nhiều nhà hoạt động trẻ đã dùng nó để tổ chức các chiến dịch vì những mục tiêu họ quan tâm." [explain ipa=used:juzd]
+petrov: Now, don't forget the other side. The judges will want you to deal with it honestly. | Giờ đừng quên phía bên kia. Giám khảo sẽ muốn em đối diện với nó một cách trung thực. [explain]
+tanvir: "On the other hand, it's true that social media can be cruel. I know that from personal experience." | "Mặt khác, đúng là mạng xã hội có thể tàn nhẫn. Tôi biết điều đó qua trải nghiệm của chính mình." [sad]
+petrov: That's brave. But how do you bring it back to your argument? | Như vậy là dũng cảm. Nhưng em quay về lập luận của mình bằng cách nào? [thinking]
+tanvir: "However, the key point is that the problem lies in how it's designed and used, not in the technology itself." | "Tuy nhiên, điều then chốt là vấn đề nằm ở cách nó được thiết kế và sử dụng, chứ không phải ở bản thân công nghệ." [explain ipa=used:juzd]
+petrov: Precisely. And how will you finish? | Chính xác. Và em sẽ kết thúc thế nào? [nod]
+tanvir: "To sum up, we shouldn't judge social media only by the worst experiences. We should make it better." | "Tóm lại, chúng ta không nên đánh giá mạng xã hội chỉ qua những trải nghiệm tồi tệ nhất. Chúng ta nên làm cho nó tốt hơn." [explain]
+petrov: That's a superb conclusion. Say it slowly, look at the audience, and don't rush. | Đó là một phần kết tuyệt vời. Hãy nói chậm, nhìn vào khán giả, và đừng vội. [happy]
+tanvir: I'll try. I just hope my hands stop shaking! | Em sẽ cố ạ. Em chỉ mong tay em thôi run! [shy petrov:happy]
+gloss: activists, disabled

@@ -1,0 +1,38 @@
+=== vd-c2-the-retrospective
+title: It Doesn't Quite Come Off | Nó chưa thật sự thành công
+source: st-c2-the-retrospective
+summary: Đi dọc triển lãm cùng giám tuyển Dev, Imogen nói rõ nhận định của mình về từng giai đoạn tranh của Tobias — khen cụ thể, chê có lý lẽ, không tâng bốc cũng không miệt thị.
+scene: service-hall
+prop: painting x=800 y=610
+cast: imogen name=Imogen look=woman x=450 voice=en-US-MichelleNeural pitch=-4Hz rate=-2% style.hair=bob style.hairColor=#A6A6A6 style.outfit=coat style.top=#512E5F style.topShade=#43264F style.glasses=round
+cast: dev name=Dev look=man x=1180 voice=en-US-BrianNeural pitch=+1Hz style.hair=short style.hairColor=#1A1A1A style.skin=#8D5524 style.skinShade=#7A4A1F style.outfit=shirt style.top=#117A65 style.topShade=#0E6655
+names: Imogen, Dev, Tobias, Wren, Liverpool
+words: visceral; luminous; virtuosity; disparage; audacity; melancholy
+focus: Nhận xét tác phẩm nghệ thuật một cách tinh tế: khen cụ thể, chỉ ra điểm chưa đạt có lý lẽ
+pattern: What strikes me is… · There's a tension between… and… · It doesn't quite come off. · It works on one level, but… · I'm drawn to… · For me, it lacks…
+explain: Mở đầu bằng điều gây ấn tượng cụ thể: "What strikes me is…", "I'm drawn to…". Gọi tên sự giằng co trong tác phẩm: "There's a tension between control and risk". Chê một cách có chừng mực: "It works on one level, but…", "For me, it lacks…", "It doesn't quite come off" (chưa thật sự thành công). Tránh những từ quá chung như "nice" hay "bad" — hãy nói vì sao.
+keys: what strikes me / tension between / doesn't quite come off / works on one level / drawn to / it lacks
+
+dev: So, you've seen the first rooms. What do you make of them? | Vậy là chị đã xem những phòng đầu. Chị thấy chúng thế nào? [thinking]
+imogen: What strikes me, even now, is how visceral they are. You can feel the struggle in every stroke. | Điều gây ấn tượng với tôi, kể cả bây giờ, là chúng dữ dội tận ruột gan đến thế nào. Có thể cảm nhận sự vật lộn trong từng nét cọ. [explain]
+dev: The critics called them chaotic in 1985. | Năm 1985 các nhà phê bình gọi chúng là hỗn loạn. [shrug]
+imogen: They were wrong. The chaos is controlled, just barely. That's the source of their audacity. | Họ đã sai. Sự hỗn loạn ấy được kiểm soát, vừa đủ. Đó chính là nguồn gốc sự táo bạo của chúng. [nod]
+dev: And the dark series, after his marriage ended? | Còn loạt tranh tối, sau khi cuộc hôn nhân của anh ấy đổ vỡ thì sao? [point]
+imogen: I'm drawn to those more than anything. They're melancholy without being self-pitying, which is very rare. | Tôi bị cuốn hút bởi những bức đó hơn cả. Chúng u buồn mà không tự thương hại, điều rất hiếm. [happy]
+dev: The layers of glaze make them almost luminous from inside. | Những lớp láng màu khiến chúng gần như phát sáng từ bên trong. [explain]
+imogen: Exactly. Now, this one from 2015. You'll want an honest answer, I suppose. | Chính xác. Giờ thì bức này, năm 2015. Chắc anh muốn một câu trả lời thật lòng. [thinking]
+dev: I'd rather have that than a polite one. | Tôi thích thế hơn là một câu lịch sự. [nod]
+imogen: It works on one level. The colours are harmonious and the virtuosity is obvious. | Nó thành công ở một mức độ nào đó. Màu sắc hài hoà và tay nghề điêu luyện là điều hiển nhiên. [explain]
+dev: But? | Nhưng? [thinking]
+imogen: But for me it lacks risk. There's a tension in the early work between control and danger. Here, control has simply won. | Nhưng với tôi, nó thiếu sự mạo hiểm. Trong những tác phẩm đầu có một sự giằng co giữa kiểm soát và hiểm nguy. Ở đây, kiểm soát đơn giản là đã thắng. [explain]
+dev: Some people would call that maturity. | Có người sẽ gọi đó là sự chín chắn. [shrug]
+imogen: Some would, and I understand why. I just don't think it quite comes off. It's beautiful, and it doesn't need me. | Có người sẽ nói vậy, và tôi hiểu vì sao. Chỉ là tôi không nghĩ nó thật sự thành công. Nó đẹp, và nó không cần đến tôi. [sad]
+dev: Are you going to write that? He'll be devastated. | Chị định viết như thế sao? Anh ấy sẽ suy sụp mất. [worried]
+imogen: I'm not going to disparage him. I'll say what the early rooms achieve, precisely, and then say what's missing. | Tôi sẽ không chê bai anh ấy. Tôi sẽ nói chính xác những gì các phòng đầu đạt được, rồi nói điều còn thiếu. [explain]
+dev: That's fairer than most reviews he's had. | Như thế công bằng hơn phần lớn các bài phê bình anh ấy từng nhận. [nod]
+imogen: It's also harder to write. Praise is easy, and so is cruelty. Accuracy takes time. | Nó cũng khó viết hơn. Khen thì dễ, chê độc địa cũng dễ. Chính xác mới tốn thời gian. [explain]
+dev: What would you say to him, if he were standing here? | Nếu anh ấy đang đứng đây, chị sẽ nói gì với anh ấy? [thinking]
+imogen: That the man who painted the first room is still in there somewhere, and I miss him. | Rằng người đàn ông đã vẽ nên căn phòng đầu tiên vẫn còn ở đâu đó trong anh ấy, và tôi nhớ người đó. [sad]
+dev: That might be the kindest criticism I've ever heard. | Đó có lẽ là lời phê bình tử tế nhất tôi từng nghe. [happy]
+imogen: Let's hope he hears it that way. I'm not at all certain he will. | Hy vọng anh ấy nghe nó theo cách đó. Tôi hoàn toàn không chắc anh ấy sẽ như vậy. [worried dev:sad]
+gloss: colours, stroke, chaotic, self-pitying, glaze, harmonious, maturity, devastated, cruelty, accuracy, criticism

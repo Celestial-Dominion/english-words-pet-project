@@ -1,0 +1,34 @@
+=== vd-c1-off-the-record
+title: Meet Me Halfway | Mỗi bên nhường một bước
+source: st-c1-off-the-record
+summary: Nửa đêm ở nhà ăn nhà máy, Frank của công đoàn và Maria của phòng nhân sự nói chuyện "không chính thức", mặc cả từng điều khoản để tìm một thoả thuận cả hai bên có thể mang về.
+scene: cafe
+prop: mug x=830
+cast: frank name=Frank look=grandpa x=520 voice=en-US-RogerNeural pitch=-5Hz rate=-2% style.hair=short style.hairColor=#9E9E9E style.outfit=jacket style.top=#1F618D style.topShade=#1A5276
+cast: maria name=Maria look=woman x=1160 voice=en-US-MichelleNeural pitch=-3Hz style.hair=bob style.hairColor=#2C1A12 style.skin=#D8A77F style.skinShade=#C4936B style.outfit=blouse style.top=#C0392B style.topShade=#A93226
+names: Frank, Maria, Hugh, Castleford
+words: productivity; viable; mandate; automation; premium; credibility
+focus: Mặc cả trong đàm phán: đưa đề nghị, phản đề nghị và điều kiện đổi lại
+pattern: Off the record, … · That's non-negotiable · We could meet you halfway · In exchange for…, we'd… · Let's put … on the table · I'd need to run that by…
+explain: Mở kênh không chính thức: "Off the record, …". Nêu giới hạn cứng: "That's non-negotiable.", "That would be a deal-breaker." Đề nghị nhượng bộ đôi bên: "We could meet you halfway." Ràng buộc có qua có lại: "In exchange for a guarantee, we'd accept…". Đưa phương án ra bàn: "Let's put retraining on the table." Không tự ý cam kết: "I'd need to run that by Hugh / the members."
+keys: off the record / non-negotiable / meet you halfway / in exchange for / on the table / run that by
+
+maria: Can't sleep either, Frank? Sit down. The tea from this machine is terrible, but it's hot. | Ông cũng không ngủ được à, Frank? Ngồi đi. Trà máy này dở tệ, nhưng được cái nóng. [wave @mug]
+frank: After six hours of charts, I needed to see real people working. Your boss called the new shifts non-negotiable. | Sau sáu tiếng xem biểu đồ, tôi cần nhìn thấy những con người thật đang làm việc. Sếp bà gọi ca làm mới là không thể thương lượng. [tired]
+maria: Off the record? Hugh isn't attached to twelve-hour shifts. He needs the ovens running at night without the old overtime rates. | Nói không chính thức nhé? Hugh không khăng khăng với ca mười hai tiếng. Ông ấy cần lò chạy ban đêm mà không phải trả mức tiền làm thêm giờ cũ. [explain ipa=record:=]
+frank: And off the record, my members don't really care about overtime. They care about their jobs when the machines arrive. | Và nói không chính thức, anh em của tôi thực ra không quan tâm mấy đến tiền làm thêm. Họ quan tâm đến việc làm khi máy móc về. [explain ipa=record:=]
+maria: So we're in a stalemate over things neither of us actually wants. | Vậy là chúng ta bế tắc vì những thứ mà thực ra chẳng bên nào muốn. [thinking]
+frank: Twelve-hour nights are still a deal-breaker. On a production line, that's how people lose fingers. | Ca đêm mười hai tiếng vẫn là điều không thể chấp nhận. Trên dây chuyền sản xuất, người ta mất ngón tay là vì thế. [angry]
+maria: Understood. What if nights stayed at eight hours but rotated, so nobody works them for more than two weeks? | Tôi hiểu. Nếu ca đêm vẫn tám tiếng nhưng luân phiên, để không ai phải làm đêm quá hai tuần thì sao? [thinking]
+frank: That I could sell. But you'd have to pay a proper premium for night work, not the pocket money Hugh offered. | Cái đó thì tôi thuyết phục được. Nhưng bà phải trả một mức phụ cấp tử tế cho ca đêm, chứ không phải khoản tiền tiêu vặt mà Hugh đưa ra. [explain]
+maria: The contracts can't support the old rates. We could meet you halfway on the premium. | Các hợp đồng không kham nổi mức cũ. Về phụ cấp, chúng tôi có thể nhường một nửa. [explain ipa=contracts:=]
+frank: Halfway, in exchange for what? My members voted for a strike. That's a strong mandate. | Nhường một nửa, để đổi lấy cái gì? Anh em tôi đã bỏ phiếu đình công. Đó là một sự uỷ nhiệm mạnh mẽ. [thinking]
+maria: In exchange for flexibility on shifts. Without higher productivity, the factory isn't viable for more than a few years. | Để đổi lấy sự linh hoạt về ca làm. Nếu năng suất không tăng, nhà máy không trụ nổi quá vài năm. [explain]
+frank: Then let's put job security on the table. No compulsory redundancies for three years. | Vậy hãy đưa chuyện bảo đảm việc làm lên bàn. Không cắt giảm nhân sự bắt buộc trong ba năm. [explain]
+maria: Three years is a lot to ask while we bring in automation. | Ba năm là đòi hỏi lớn trong lúc chúng tôi đưa tự động hoá vào. [worried]
+frank: That's why it matters. And a retraining fund, so my people learn to fix those machines instead of being replaced by them. | Chính vì thế nó mới quan trọng. Và một quỹ đào tạo lại, để người của tôi học cách sửa những cỗ máy đó thay vì bị chúng thay thế. [explain]
+maria: I like the retraining idea. It would help us too. But I'd need to run the guarantee by Hugh. | Tôi thích ý tưởng đào tạo lại. Nó cũng giúp ích cho chúng tôi. Nhưng chuyện bảo đảm thì tôi cần hỏi ý Hugh đã. [nod]
+frank: And I'd need to run the whole deal by six hundred people who'll say I've gone soft. | Còn tôi thì cần đưa cả thoả thuận ra trước sáu trăm con người sẽ nói tôi đã mềm yếu. [shrug]
+maria: They trust you, Frank. Your credibility is the only reason this could work. | Họ tin ông, Frank ạ. Uy tín của ông là lý do duy nhất khiến chuyện này có thể thành. [explain]
+frank: Then write it down before we both change our minds. Off the record, of course. | Vậy hãy viết nó ra trước khi cả hai chúng ta đổi ý. Không chính thức, tất nhiên rồi. [happy maria:happy ipa=record:=]
+gloss: overtime, ovens, rates, deal-breaker, redundancies, retraining, rotated, non-negotiable, stalemate

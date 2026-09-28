@@ -1,0 +1,30 @@
+=== vd-a1-the-broken-arm
+title: My Arm Hurts | Cháu đau tay
+source: st-a1-the-broken-arm
+summary: Ở phòng khám, bác sĩ Adams hỏi Mei chuyện gì đã xảy ra và đau ở chỗ nào; mẹ ngồi bên cạnh.
+scene: hospital
+prop: thermometer x=820
+cast: mei name=Mei look=girl x=560 voice=en-US-AnaNeural style.hair=bob style.hairColor=#1F1C22 style.top=#F2C14E style.topShade=#D9A933 style.collar=#FFFFFF
+cast: mom name=Mom vi=Mẹ look=mom x=330 voice=en-US-JennyNeural style.hairColor=#1F1C22 style.top=#8C7BC2 style.topShade=#7666AD
+cast: adams name="Dr. Adams" vi="Bác sĩ Adams" look=woman x=1180 voice=en-US-MichelleNeural style.outfit=coat style.skin=#8D5A3B style.skinShade=#74472D style.hair=bun style.hairColor=#2A1D1A style.glasses=true
+names: Adams, Chen
+gloss: x-ray, fell
+words: hurt; arm; fall; hand; broken
+focus: Nói về chỗ đau khi đi khám
+pattern: What's wrong? · My arm hurts. · Does it hurt here? · Yes, a lot. / No, not much.
+explain: Bác sĩ hay hỏi "What's wrong?" hoặc "What happened?". Nói chỗ đau: "My + bộ phận + hurts." Hỏi có đau không: "Does it hurt here?" — đáp "Yes, a lot." hoặc "No, not much."
+keys: what's wrong / hurts / does it hurt / what happened
+
+adams: Hello, Mei. I'm Dr. Adams. What's wrong? | Chào Mei. Bác là bác sĩ Adams. Cháu bị làm sao? [happy]
+mei: My arm hurts. | Cháu đau tay ạ. [tearful]
+adams: I see. What happened? | Bác hiểu rồi. Chuyện gì đã xảy ra thế? [thinking]
+mei: I fell from a tree in the park. | Cháu ngã từ trên cây trong công viên ạ. [sad]
+mom: She was very high in the tree. | Cháu nó trèo lên cao lắm ạ. [worried]
+adams: OK. Can you move your hand? | Được rồi. Cháu cử động bàn tay được không? [explain]
+mei: Yes, a little. | Có ạ, một chút ạ. [sad]
+adams: Does it hurt here? | Đau ở đây không cháu? [thinking point]
+mei: No, not much. | Không đau lắm ạ. [thinking]
+adams: And here? | Còn ở đây? [thinking]
+mei: Yes! It hurts a lot! | Có ạ! Đau lắm ạ! [tearful]
+adams: Let's take an x-ray. Maybe it's broken. | Mình chụp X-quang nhé. Có thể là bị gãy rồi. [neutral]
+mom: Don't worry, Mei. I'm here. | Đừng lo, Mei. Có mẹ ở đây. [happy mei:shy]

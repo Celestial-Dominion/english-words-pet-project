@@ -1,0 +1,34 @@
+=== vd-b1-the-unsent-letter
+title: I Wish I Had Called Him | Giá mà chú đã gọi cho anh ấy
+source: st-b1-the-unsent-letter
+summary: Cuộc điện thoại xuyên Đại Tây Dương: ông Frank tám mươi sáu tuổi nói với Mia về những điều ông hối tiếc nhất.
+scene: home-day
+prop: phone x=820
+cast: mia name=Mia look=woman x=560 voice=en-US-AvaNeural pitch=+4Hz style.hair=ponytail style.hairColor=#6B4226 style.outfit=cardigan style.top=#5499C7 style.topShade=#4488B6
+cast: frank name="Uncle Frank" vi="Ông Frank" look=grandpa x=1180 voice=en-US-RogerNeural pitch=-8Hz rate=-10% call call.bg=kitchen style.outfit=apron style.top=#F4F1EA style.topShade=#E2DDD2
+names: Frank, Joe, Mia
+words: regret; proud; forgive; argument; wish; courage
+focus: Bày tỏ sự hối tiếc
+pattern: I wish I had… · If only I had… · I should have… · I shouldn't have… · It's too late now. · It's never too late to…
+explain: Hối tiếc về quá khứ: "I wish I had + quá khứ phân từ" (giá mà tôi đã…), "If only I had…". Tự trách: "I should have called him." / "I shouldn't have said that." An ủi: "It's never too late to…".
+keys: i wish i had / if only i had / i should have / i shouldn't have / too late / never too late
+
+mia: Mr. Mitchell? I'm Mia, Joe's granddaughter. | Ông Mitchell ạ? Cháu là Mia, cháu gái của ông Joe. [shy @phone]
+frank: Joe's granddaughter? I haven't heard that name for forty years. | Cháu gái của Joe ư? Bốn mươi năm nay chú không nghe thấy cái tên đó. [surprised]
+mia: I'm sorry to tell you that Grandpa died last month. | Cháu rất tiếc phải báo với ông là ông cháu đã mất tháng trước. [sad]
+frank: Oh… I'm so sorry. I always thought there would be more time. | Ôi… Chú rất tiếc. Chú cứ luôn nghĩ vẫn còn thời gian. [tearful]
+mia: I found a letter he wrote to you in 1985. He never sent it. | Cháu tìm thấy một lá thư ông viết cho ông năm 1985. Ông chưa bao giờ gửi. [sad]
+frank: What did it say? | Trong thư viết gì? [worried]
+mia: He said he was wrong, and he asked you to forgive him. | Ông viết là ông đã sai, và ông xin ông tha thứ. [sad]
+frank: He said that? Oh, Joe. I wish I had known. | Anh ấy nói vậy sao? Ôi, Joe. Giá mà chú biết. [tearful]
+mia: He said he regretted the argument every day. | Ông nói ông hối hận về cuộc cãi vã đó mỗi ngày. [sad]
+frank: So did I. I shouldn't have said the things I said. | Chú cũng vậy. Lẽ ra chú không nên nói những lời như thế. [sad]
+mia: What happened between you? | Chuyện gì đã xảy ra giữa hai ông? [thinking]
+frank: It doesn't matter now. It was about money and the shop. Such a stupid reason. | Giờ thì chẳng còn quan trọng. Chuyện tiền bạc và cửa hàng. Một lý do thật ngớ ngẩn. [sad]
+mia: Did you ever try to contact him? | Ông có bao giờ thử liên lạc với ông cháu không? [thinking]
+frank: I wrote three letters, but I never had the courage to send them. We were both too proud. | Chú viết ba lá thư, nhưng chưa bao giờ đủ can đảm gửi đi. Cả hai anh em đều quá kiêu hãnh. [sad]
+mia: That's so sad. You both wanted the same thing. | Buồn quá. Cả hai ông đều mong cùng một điều. [tearful]
+frank: If only I had picked up the phone. Just once. I should have called him. | Giá mà chú nhấc điện thoại lên. Chỉ một lần thôi. Lẽ ra chú nên gọi cho anh ấy. [tearful]
+mia: It's too late for Grandpa. But it isn't too late for our families. | Đã quá muộn với ông cháu. Nhưng chưa quá muộn với gia đình mình. [explain]
+frank: You're right, my dear. It's never too late to start again. Will you come and visit? | Cháu nói đúng. Chẳng bao giờ là quá muộn để bắt đầu lại. Cháu sẽ sang thăm chú chứ? [happy mia:happy]
+names: Mitchell

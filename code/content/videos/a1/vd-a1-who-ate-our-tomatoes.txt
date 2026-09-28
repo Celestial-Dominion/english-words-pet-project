@@ -1,0 +1,29 @@
+=== vd-a1-who-ate-our-tomatoes
+title: What Happened to Our Tomatoes? | Cà chua của lớp mình bị làm sao thế này?
+source: st-a1-who-ate-our-tomatoes
+summary: Sáng thứ Hai, Ava và Lucas phát hiện cà chua đỏ biến mất; cô Stone bảo cả hai quan sát thật kỹ trước khi đổ lỗi cho ai.
+scene: park
+prop: plant-pot x=800
+cast: ava name=Ava look=girl x=520 voice=en-US-AnaNeural style.hair=pigtails style.hairColor=#5A3B2E style.skin=#A8704A style.skinShade=#8E5A38 style.top=#F08FB0
+cast: lucas name=Lucas look=boy x=280 voice=en-US-AnaNeural pitch=-12Hz from=2 style.hairColor=#E0B45C style.top=#5DBB63 style.topShade=#4AA350 style.collar=#4AA350
+cast: stone name="Ms. Stone" vi="Cô Stone" look=woman x=1180 voice=en-US-AvaNeural from=5 style.hair=bob style.hairColor=#7A4A2A style.top=#3A8E8B style.topShade=#2D7673
+gloss: footprints, plants, feet
+words: happen; eat; red; look; small
+focus: Hỏi chuyện gì đã xảy ra
+pattern: What happened? · Who ate…? · Look at… · I don't know.
+explain: Hỏi về sự việc vừa xảy ra: "What happened?" (quá khứ). Hỏi ai làm: "Who + động từ quá khứ…?" (Who ate…?). Chưa chắc thì nói "I don't know." và "Look at…" để chỉ bằng chứng.
+keys: what happened / who ate / look at / i don't know
+
+ava: Oh no! What happened? | Ôi không! Chuyện gì thế này? [surprised @plant-pot]
+ava: The red tomatoes are not here! | Mấy quả cà chua đỏ không còn nữa! [sad]
+lucas: Ava! What happened? | Ava! Có chuyện gì thế? [worried]
+ava: Look at our plants! | Cậu nhìn mấy cây của lớp mình mà xem! [angry point @plant-pot]
+lucas: Who ate our tomatoes? | Ai đã ăn cà chua của lớp mình? [angry]
+ava: I don't know. | Tớ không biết. [sad shrug]
+lucas: I know! The big boys from Class 5A! | Tớ biết rồi! Mấy anh lớp 5A! [angry]
+stone: Wait, Lucas. We don't know that. | Khoan đã, Lucas. Mình chưa biết chắc đâu. [neutral]
+stone: Look at the ground. What can you see? | Các em nhìn xuống đất xem. Các em thấy gì? [thinking]
+ava: Very small footprints! | Những dấu chân rất nhỏ ạ! [surprised]
+lucas: They are not big boys' feet. | Đâu phải chân mấy anh lớp lớn. [confused]
+stone: Right. So who ate them? | Đúng vậy. Vậy ai đã ăn chúng nhỉ? [happy]
+ava: Something small… and hungry! | Một con gì đó nhỏ… mà đói bụng! [thinking lucas:thinking]

@@ -1,0 +1,40 @@
+=== vd-c2-the-viva
+title: It Would Be Premature to Say | Còn quá sớm để khẳng định
+source: st-c2-the-viva
+summary: Trong phòng bảo vệ, Priya chủ động nêu kết quả carbon bất lợi và trả lời những câu hỏi dồn dập của giáo sư Halvorsen bằng ngôn ngữ học thuật thận trọng.
+scene: library
+cast: halvorsen name=Halvorsen look=grandpa x=300 voice=en-US-ChristopherNeural pitch=-6Hz rate=-3% style.hair=grandpa style.hairColor=#C8C8C8 style.outfit=suit style.top=#34495E style.topShade=#2C3E50 style.glasses=round
+cast: priya name=Priya look=woman x=800 voice=en-US-JennyNeural pitch=+1Hz style.hair=long style.hairColor=#1A1A1A style.skin=#8D5524 style.skinShade=#7A4A1F style.outfit=cardigan style.top=#7D3C98 style.topShade=#6C3483
+cast: fiona name=Fiona look=woman x=1300 voice=en-US-EmmaNeural pitch=-3Hz style.hair=bob style.hairColor=#B9770E style.outfit=blouse style.top=#117A65 style.topShade=#0E6655 style.glasses=square
+names: Halvorsen, Priya, Fiona, Anders, Raman
+words: hypothesis; conjecture; archaic; discrepancy; substantiate; calibration
+focus: Nói thận trọng kiểu học thuật: rào đón, giới hạn mức chắc chắn của kết luận
+pattern: The evidence would seem to suggest… · It would be premature to… · One plausible interpretation is… · I'd be cautious about… · To the best of my knowledge… · I'm not in a position to…
+explain: Dùng "would seem to" để làm mềm khẳng định ("The evidence would seem to suggest…"). Nói kết luận còn sớm: "It would be premature to claim…". Đưa ra một cách hiểu, không phải chân lý: "One plausible interpretation is…". Tự giới hạn phạm vi hiểu biết: "To the best of my knowledge…", "I'm not in a position to say…". Chủ động thừa nhận chỗ yếu ("I overstated it") thường làm người nghe tin bạn hơn.
+keys: would seem to suggest / premature / plausible interpretation / cautious about / to the best of my knowledge / not in a position to
+
+halvorsen: Ms Raman, your third chapter dates the psalter to the eighth century. Do you still stand by that? | Cô Raman, chương ba của cô xác định cuốn thánh vịnh thuộc thế kỷ thứ tám. Cô vẫn giữ quan điểm đó chứ? [thinking]
+priya: Not as it's written, no. The carbon results changed my view, and I'd like to deal with them first. | Không phải như đã viết, thưa thầy. Kết quả carbon đã thay đổi quan điểm của em, và em muốn xử lý chúng trước. [explain]
+halvorsen: Please do. I confess I was surprised you sent them to us at all. | Xin mời. Thú thật tôi khá bất ngờ khi cô gửi chúng cho chúng tôi. [surprised]
+priya: The parchment appears to come from the tenth century. That creates a genuine discrepancy with my original argument. | Tấm da thuộc có vẻ thuộc thế kỷ thứ mười. Điều đó tạo ra một sự chênh lệch thực sự với lập luận ban đầu của em. [explain]
+fiona: Priya shared the report within an hour of opening it, Anders. I thought you should know that. | Priya đã chia sẻ báo cáo trong vòng một giờ sau khi mở nó, Anders ạ. Tôi nghĩ anh nên biết điều đó. [nod]
+halvorsen: Admirable. But a gap of a century is hardly a detail. How do you account for it? | Đáng khen. Nhưng một khoảng cách cả thế kỷ khó mà là chi tiết nhỏ. Cô giải thích nó thế nào? [thinking]
+priya: The evidence would seem to suggest that the book is a copy. The archaic features may belong to an older exemplar. | Bằng chứng dường như gợi ý rằng cuốn sách là một bản sao. Những đặc điểm cổ xưa có thể thuộc về một bản mẫu cổ hơn. [explain]
+halvorsen: May belong. You were far more confident in chapter three. | "Có thể thuộc về". Ở chương ba cô tự tin hơn nhiều. [shrug]
+priya: I was, and I overstated it. At this stage it would be premature to offer more than a plausible hypothesis. | Vâng, và em đã phóng đại. Ở giai đoạn này, còn quá sớm để đưa ra điều gì hơn một giả thuyết hợp lý. [nod]
+halvorsen: A hypothesis you can substantiate, or merely a conjecture? | Một giả thuyết cô có thể chứng minh, hay chỉ là một phỏng đoán? [thinking]
+priya: Partly both. The spellings fit eighth-century models, but I'm not in a position to date the exemplar precisely. | Một phần là cả hai. Cách viết khớp với các mẫu thế kỷ thứ tám, nhưng em không đủ cơ sở để xác định chính xác niên đại của bản mẫu. [explain]
+halvorsen: And the calibration curve? Some colleagues would call it unreliable for that period. | Còn đường cong hiệu chỉnh thì sao? Một số đồng nghiệp sẽ cho rằng nó không đáng tin cho giai đoạn đó. [thinking]
+priya: Some would, but I'd be cautious about hiding behind that. The simplest reading of the dates is probably the correct one. | Một số người sẽ nói vậy, nhưng em sẽ dè dặt với việc núp sau lý lẽ đó. Cách đọc đơn giản nhất các niên đại có lẽ là cách đúng. [explain]
+fiona: If I may, that is exactly the kind of caution we hope to see in a young scholar. | Cho phép tôi nói, đó chính là kiểu thận trọng mà chúng ta mong thấy ở một học giả trẻ. [happy]
+halvorsen: Let's test it, then. Why is this abbreviation archaic rather than simply old-fashioned? | Vậy thì hãy kiểm tra nó. Vì sao ký hiệu viết tắt này là cổ xưa chứ không chỉ đơn giản là lỗi thời? [point]
+priya: To the best of my knowledge, it vanishes from Scottish books after about 800. But I admit the sample is small. | Theo những gì em biết, nó biến mất khỏi sách vở Scotland sau khoảng năm 800. Nhưng em thừa nhận mẫu khảo sát còn nhỏ. [explain]
+halvorsen: How small, exactly? | Nhỏ đến mức nào, chính xác? [thinking]
+priya: Eleven examples. Enough to suggest a pattern, but not enough to prove one. | Mười một ví dụ. Đủ để gợi ý một quy luật, nhưng chưa đủ để chứng minh. [shrug]
+halvorsen: And line forty-two? You treat it as a correction by a second hand. | Còn dòng bốn mươi hai? Cô coi nó là chỗ sửa của một người chép thứ hai. [thinking]
+priya: One plausible interpretation is that, yes. But the damage allows both readings, and I've tried to show that uncertainty in a footnote. | Một cách diễn giải hợp lý là như vậy, vâng. Nhưng chỗ hư hại cho phép cả hai cách đọc, và em đã cố thể hiện sự không chắc chắn đó trong một chú thích. [explain]
+halvorsen: So you have. I missed it entirely. | Đúng là cô đã làm vậy. Tôi hoàn toàn bỏ sót nó. [happy]
+fiona: Shall we pause there? I think we've covered the essential points. | Chúng ta dừng ở đây nhé? Tôi nghĩ ta đã bàn hết những điểm cốt yếu. [nod]
+halvorsen: We have. Ms Raman, would you mind waiting outside while we talk it over? | Đúng vậy. Cô Raman, phiền cô chờ bên ngoài trong lúc chúng tôi trao đổi nhé? [explain]
+priya: Of course. Whatever you decide, thank you for taking the argument so seriously. | Dạ vâng. Dù thầy cô quyết định thế nào, cảm ơn thầy cô đã xem xét lập luận này nghiêm túc đến vậy. [nod halvorsen:happy]
+gloss: psalter, parchment, exemplar, footnote, abbreviation

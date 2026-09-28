@@ -1,0 +1,33 @@
+=== vd-a2-snow-on-the-line
+title: Terrible Weather, Isn't It? | Thời tiết tệ quá nhỉ?
+source: st-a2-snow-on-the-line
+summary: Tàu đứng yên giữa trời tuyết; bà Ada bắt chuyện với Theo bằng những câu xã giao quen thuộc — và cuộc trò chuyện dần đi xa hơn chuyện thời tiết.
+scene: train snow
+prop: mug x=820 y=560 scale=0.8
+cast: ada name=Ada look=grandma x=520 voice=en-US-JennyNeural pitch=-6Hz rate=-6% style.scarf=#C0392B style.outfit=coat style.top=#34495E style.topShade=#2C3E50
+cast: theo name=Theo look=teenboy x=1140 voice=en-US-ChristopherNeural pitch=+6Hz rate=-2% style.hair=curly style.hairColor=#6B4226 style.outfit=jacket style.top=#5D6D7E style.topShade=#4D5B69
+names: Ada, Theo
+gloss: cello
+words: weather; visit; college; nervous; audience; normal
+focus: Chuyện xã giao với người lạ
+pattern: Terrible weather, isn't it? · Where are you going? · Are you visiting …? · What do you do? · How about you? · Nice to meet you.
+explain: Mở lời bằng thời tiết + câu hỏi đuôi: "Terrible weather, isn't it?" (xuống giọng, chờ đồng tình). Hỏi nhẹ nhàng về chuyến đi và công việc: "Where are you going?", "What do you do?". Hỏi lại cho công bằng: "How about you?". Kết bằng "Nice to meet you."
+keys: isn't it / where are you going / are you visiting / what do you do / how about you / nice to meet you
+
+ada: Terrible weather, isn't it? | Thời tiết tệ quá nhỉ? [happy]
+theo: Yes, it is. I've never seen so much snow. | Vâng, đúng thế ạ. Cháu chưa bao giờ thấy nhiều tuyết đến vậy. [shy]
+ada: Three hours, the driver said. Where are you going? | Ba tiếng, người lái tàu nói vậy. Cháu đi đâu thế? [thinking]
+theo: Home, to my parents. It's my first visit since September. | Về nhà, về với bố mẹ ạ. Đây là lần đầu cháu về kể từ tháng Chín. [happy]
+ada: How lovely. Are you a student? | Hay quá. Cháu là sinh viên à? [happy]
+theo: Yes, I'm at college in the city. | Vâng, cháu học cao đẳng trên thành phố. [nod]
+ada: And what do you study? | Thế cháu học ngành gì? [thinking]
+theo: Music. That's my cello. How about you? Are you visiting family? | Âm nhạc ạ. Đó là cây đàn cello của cháu. Còn bà thì sao? Bà đi thăm gia đình ạ? [shy]
+ada: Yes, my grandchildren. They're five and seven. | Ừ, thăm các cháu. Chúng năm và bảy tuổi. [happy]
+theo: I like your scarf. It's a lovely color. | Cháu thích chiếc khăn của bà. Màu đẹp quá ạ. [shy]
+ada: Thank you! My granddaughter made it. | Cảm ơn cháu! Cháu gái bà đan đấy. [happy]
+ada: So, do you play in concerts? | Thế cháu có biểu diễn ở các buổi hoà nhạc không? [thinking @mug]
+theo: Not really. I get very nervous in front of an audience. | Không hẳn ạ. Cháu rất run khi đứng trước khán giả. [sad]
+ada: Nervous? That's normal. Everybody is. | Run à? Chuyện bình thường thôi. Ai cũng thế mà. [explain]
+theo: Maybe. By the way, I'm Theo. | Có lẽ vậy ạ. À, cháu tên là Theo. [shy]
+ada: Nice to meet you, Theo. I'm Ada. | Rất vui được gặp cháu, Theo. Bà là Ada. [happy]
+theo: Nice to meet you, too. | Cháu cũng rất vui được gặp bà. [happy ada:happy]

@@ -1,0 +1,29 @@
+=== vd-a1-the-wobbly-tooth
+title: I'm Scared! | Em sợ lắm!
+source: st-a1-the-wobbly-tooth
+summary: Chiếc răng cửa của Poppy lung lay; cô bé sợ, anh Theo hỏi han cảm xúc của em và kể về cô tiên răng.
+scene: kitchen
+prop: fried-eggs x=800
+cast: poppy name=Poppy look=girl x=540 voice=en-US-AnaNeural rate=-8% style.hair=pigtails style.hairColor=#E0B45C style.top=#F08FB0 style.topShade=#DC7398 style.scale=0.94
+cast: theo name=Theo look=boy x=1120 voice=en-US-AnaNeural pitch=-14Hz style.hair=short style.hairColor=#C98A3C style.top=#3F7FCB style.topShade=#2F66AA style.collar=#2F66AA
+gloss: wobbly, tooth fairy, pillow, scared, coin
+words: tooth; hurt; excited; breakfast; gift
+focus: Nói về cảm xúc
+pattern: How do you feel? · Are you scared? · I'm scared / happy / excited. · Don't be scared.
+explain: Hỏi cảm xúc: "How do you feel?" hoặc "Are you + tính từ?". Trả lời: "I'm + tính từ" (scared, happy, excited, sad). Trấn an: "Don't be scared."
+keys: how do you feel / are you scared / i'm scared / i'm so happy / don't be scared
+
+poppy: Theo! My tooth is moving! | Anh Theo! Răng em đang động đậy! [surprised]
+theo: Let me see. Oh, it's wobbly! | Để anh xem. Ồ, nó lung lay rồi! [happy]
+poppy: Is it going to hurt? | Có đau không anh? [worried]
+theo: How do you feel, Poppy? | Em thấy thế nào, Poppy? [thinking]
+poppy: I'm scared. | Em sợ lắm. [tearful]
+theo: Don't be scared. It doesn't hurt much. | Đừng sợ. Không đau lắm đâu. [happy]
+poppy: Are you sure? | Anh chắc không? [confused]
+theo: Yes. I had eight wobbly teeth! | Chắc chứ. Anh có tám cái răng lung lay rồi đấy! [happy nod]
+poppy: Eight? Were you scared? | Tám cái ạ? Lúc đó anh có sợ không? [surprised]
+theo: A little. But then the tooth fairy came. | Hơi hơi. Nhưng rồi cô tiên răng đến. [explain]
+poppy: The tooth fairy? Who is that? | Cô tiên răng á? Là ai vậy ạ? [confused]
+theo: She takes your tooth, and she gives you a gift. | Cô ấy lấy chiếc răng của em, và tặng em một món quà. [explain]
+poppy: A gift? Now I'm not scared. I'm excited! | Quà ạ? Giờ em không sợ nữa. Em háo hức lắm! [happy cheer]
+theo: Good! Now eat your breakfast. | Tốt! Giờ ăn sáng đi nào. [happy point @fried-eggs poppy:happy]

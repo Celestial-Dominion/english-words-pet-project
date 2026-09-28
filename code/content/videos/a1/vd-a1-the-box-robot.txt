@@ -1,0 +1,31 @@
+=== vd-a1-the-box-robot
+title: What Are You Doing? | Các con đang làm gì thế?
+source: st-a1-the-box-robot
+summary: Bố Omar bước vào nhà để xe và hỏi hai đứa đang làm gì; con người máy hộp giấy rất đẹp nhưng lại không chịu cử động.
+scene: office
+prop: robot x=800
+cast: omar name=Omar look=boy x=520 voice=en-US-AnaNeural pitch=-12Hz style.hair=curly style.hairColor=#1F1A1C style.skin=#B07650 style.skinShade=#94603E style.top=#3A8E8B style.topShade=#2D7673 style.collar=#2D7673
+cast: lin name=Lin look=girl x=290 voice=en-US-AnaNeural pitch=-5Hz rate=-6% style.hair=bob style.hairColor=#1F1C22 style.top=#E9A23B style.topShade=#D18B28
+cast: hassan name="Mr. Hassan" vi="Bố Omar" look=dad x=1180 voice=en-US-AndrewNeural style.skin=#B07650 style.skinShade=#94603E style.top=#6B7F9E style.topShade=#56698A style.glasses=true
+names: Hassan
+gloss: robot, motor, science fair
+words: make; move; box; car; problem
+focus: Nói về việc đang làm (hiện tại tiếp diễn)
+pattern: What are you doing? · We're making… · I'm painting… · It isn't moving.
+explain: Việc đang diễn ra ngay lúc nói dùng "am/is/are + động từ-ing": "We're making a robot." Hỏi: "What are you doing?". Phủ định: "It isn't moving."
+keys: what are you doing / we're making / i'm painting / isn't moving / are you
+
+hassan: Hi, kids! What are you doing? | Chào các con! Các con đang làm gì thế? [happy wave]
+omar: We're making a robot, Dad! | Bọn con đang làm người máy bố ạ! [happy point @robot]
+hassan: A robot? From boxes? | Người máy à? Bằng hộp giấy á? [surprised]
+lin: Yes! I'm painting its eyes. | Vâng ạ! Cháu đang vẽ mắt cho nó. [happy explain]
+hassan: It looks great. Is it for school? | Trông tuyệt đấy. Làm cho trường à? [happy]
+omar: Yes, for the science fair on Friday. | Vâng, cho hội chợ khoa học vào thứ Sáu ạ. [nod]
+hassan: So why are you sad, Omar? | Vậy sao con lại buồn thế, Omar? [thinking]
+omar: There is a problem. It isn't moving. | Có một vấn đề ạ. Nó không cử động. [sad]
+lin: We're pushing it, but it's just a box. | Bọn cháu đang đẩy nó, nhưng nó chỉ là cái hộp thôi ạ. [sad shrug]
+hassan: Hmm. A robot has to move. | Ừm. Người máy thì phải cử động được. [thinking]
+hassan: Wait here. I'm getting something from the house. | Đợi đây nhé. Bố vào nhà lấy một thứ. [explain ipa=house:=]
+omar: What are you getting, Dad? | Bố đang đi lấy gì thế ạ? [confused]
+hassan: Your old toy car. It has a small motor! | Chiếc ô tô đồ chơi cũ của con. Nó có một động cơ nhỏ! [happy]
+lin: A motor! Now it can move! | Động cơ! Giờ thì nó cử động được rồi! [happy cheer omar:happy]

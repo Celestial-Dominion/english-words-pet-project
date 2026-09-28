@@ -1,0 +1,36 @@
+=== vd-c1-the-ghostwriter
+title: I Was Wondering Whether… | Tôi đang tự hỏi liệu…
+source: st-c1-the-ghostwriter
+summary: Trong căn bếp nhà hàng vắng người, Jonah khéo léo đề nghị Antoine kể sự thật về tuổi thơ của mình — bằng những lời nhờ vả gián tiếp, không một lời buộc tội.
+scene: kitchen
+prop: mug x=820
+cast: jonah name=Jonah look=man x=520 voice=en-US-BrianNeural pitch=-2Hz rate=-2% style.hair=fringe style.hairColor=#5A3A22 style.outfit=cardigan style.top=#7F8C8D style.topShade=#6C7A7B style.glasses=round
+cast: antoine name=Antoine look=dad x=1160 voice=en-US-GuyNeural pitch=-5Hz rate=+2% style.hair=part style.hairColor=#5E5E5E style.outfit=apron style.top=#FDFEFE style.topShade=#E5E8E8 style.hat=chef
+names: Jonah, Antoine, Céline, Marseille, Lyon
+words: memoir; persona; discretion; cuisine; integrity; vulnerable
+focus: Đưa ra lời đề nghị tế nhị bằng cách nói gián tiếp, lịch sự
+pattern: I was wondering whether you might… · Would it be at all possible to…? · I don't suppose you'd consider…? · I hate to ask, but… · Would you mind if I…? · If it's not too much trouble, …
+explain: Đề nghị nhạy cảm cần "lùi" ngữ pháp để mềm hơn: thì quá khứ/tiếp diễn "I was wondering whether you might…", "Would it be at all possible…?". Câu phủ định để dễ từ chối: "I don't suppose you'd consider…?". Rào trước: "I hate to ask, but…", "If it's not too much trouble…". Xin phép: "Would you mind if I…?". Không buộc tội — nói về khả năng và lợi ích.
+keys: i was wondering whether / at all possible / i don't suppose / i hate to ask / would you mind if / not too much trouble
+
+antoine: Coffee first, Jonah. Nobody writes a good memoir before their second cup. | Cà phê trước đã, Jonah. Chẳng ai viết được hồi ký hay trước tách thứ hai cả. [happy @mug]
+jonah: Thank you. Before we start recording, would you mind if I raised something slightly delicate? | Cảm ơn ông. Trước khi bắt đầu ghi âm, ông có phiền không nếu tôi nêu một chuyện hơi tế nhị? [shy]
+antoine: Delicate? That sounds serious. Go ahead. | Tế nhị ư? Nghe có vẻ nghiêm trọng. Anh cứ nói. [surprised]
+jonah: I hate to ask, but the recipes you attributed to your grandmother. I found them in a cookbook from 1974. | Tôi rất ngại hỏi, nhưng những công thức ông gán cho bà nội. Tôi đã tìm thấy chúng trong một cuốn sách nấu ăn từ năm 1974. [worried antoine:surprised]
+antoine: Every grandmother in France owned that book. She probably learned from it too. | Bà nào ở Pháp chẳng có cuốn đó. Có lẽ bà cũng học từ nó. [shrug]
+jonah: Perhaps. And the street in Marseille was demolished before you were born. | Có thể. Và con phố ở Marseille đã bị phá dỡ trước khi ông ra đời. [explain]
+antoine: You've been busy. Is this a memoir or an investigation? | Anh bận rộn quá nhỉ. Đây là hồi ký hay một cuộc điều tra vậy? [angry]
+jonah: A memoir, I promise. My job requires discretion, and nothing leaves this kitchen without your permission. | Là hồi ký, tôi hứa. Công việc của tôi đòi hỏi sự kín đáo, và không gì rời khỏi căn bếp này nếu không có sự cho phép của ông. [explain]
+antoine: Then what exactly are you asking me? | Vậy chính xác thì anh đang đề nghị tôi điều gì? [thinking]
+jonah: I was wondering whether you might tell the real story. I spoke to Céline. She was very kind about you. | Tôi đang tự hỏi liệu ông có thể kể câu chuyện thật không. Tôi đã nói chuyện với bà Céline. Bà ấy nói về ông rất tử tế. [shy]
+antoine: So you know about Lyon. The dentist's house. The grandmother who couldn't boil an egg. | Vậy là anh biết về Lyon. Ngôi nhà của ông nha sĩ. Người bà không luộc nổi quả trứng. [sad ipa=house:=]
+jonah: I do. And honestly, I think that story is more interesting than the persona. | Tôi biết. Và thật lòng, tôi nghĩ câu chuyện đó thú vị hơn cái hình tượng kia. [explain]
+antoine: Thirty years of television, Jonah. People love the poor boy from Marseille. | Ba mươi năm lên truyền hình, Jonah ạ. Mọi người yêu cậu bé nghèo đến từ Marseille. [tired]
+jonah: They love your cooking. I don't suppose you'd consider trusting them with the man who actually learned it? | Họ yêu những món ông nấu. Tôi đoán ông sẽ không cân nhắc chuyện tin tưởng họ với con người đã thực sự học nấu ăn chứ? [thinking]
+antoine: You make it sound brave. It would be humiliating. | Anh nói cứ như thể đó là can đảm. Việc đó sẽ rất bẽ mặt. [sad]
+jonah: It would make you vulnerable, yes. But if the truth comes out later, the book becomes evidence against you. | Nó sẽ khiến ông dễ bị tổn thương, đúng vậy. Nhưng nếu sau này sự thật lộ ra, cuốn sách sẽ thành bằng chứng chống lại ông. [explain]
+antoine: And your integrity would be in it too, even without your name on the cover. | Và cả sự chính trực của anh cũng nằm trong đó, dù bìa sách không có tên anh. [thinking]
+jonah: Exactly. Would it be at all possible to try one chapter the honest way? If you hate it, we'll stop. | Chính xác. Liệu có thể thử viết một chương theo cách trung thực không? Nếu ông không thích, chúng ta sẽ dừng. [nod]
+antoine: One chapter. About a boy who fell in love with French cuisine in his grandmother's kitchen, even though she never cooked in it. | Một chương thôi. Về một cậu bé đã phải lòng ẩm thực Pháp trong căn bếp của bà mình, dù bà chưa bao giờ nấu nướng trong đó. [happy jonah:happy]
+names: France, French
+gloss: attributed, cookbook, demolished, dentist, humiliating

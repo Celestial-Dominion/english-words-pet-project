@@ -1,0 +1,37 @@
+=== vd-b1-the-pitch
+title: Waste Fell by a Third | Lãng phí giảm một phần ba
+source: st-b1-the-pitch
+summary: Trong phòng họp, Nia và Oscar trình bày những con số thật của FreshLeft; bà Varga hỏi dồn về mức tăng, mức giảm và kế hoạch sắp tới.
+scene: office
+prop: laptop x=800
+cast: varga name="Ms. Varga" vi="Bà Varga" look=woman x=300 voice=en-US-MichelleNeural pitch=-4Hz style.hair=bob style.hairColor=#8C8C8C style.glasses=true style.outfit=suit style.top=#3B3B58 style.topShade=#2E2E46
+cast: nia name=Nia look=woman x=800 voice=en-US-AvaNeural pitch=+4Hz style.hair=curly style.hairColor=#1A1A1A style.skin=#7A4A2E style.skinShade=#643A22 style.outfit=blouse style.top=#16A085 style.topShade=#12876F
+cast: oscar name=Oscar look=man x=1300 voice=en-US-BrianNeural pitch=+2Hz style.hair=part style.hairColor=#C8963E style.outfit=suit style.top=#34495E style.topShade=#2C3E50
+names: FreshLeft, Nia, Oscar, Varga
+gloss: app, users
+words: double; average; percent; growth; ambitious; steadily
+focus: Mô tả số liệu và xu hướng
+pattern: … rose/fell by… · … doubled · about a third · compared to… · on average · The number is growing steadily.
+explain: Tăng/giảm một lượng: "rose by 20%", "fell by a third" (dùng "by"). Tăng/giảm đến mức: "rose to 2,000". Gấp đôi: "doubled". So sánh: "compared to last year". Xu hướng: "growing steadily" (tăng đều), "sharply" (mạnh).
+keys: fell by / rose / doubled / a third / compared to / on average / steadily
+
+varga: Thank you. So, how many shops are using your app? | Cảm ơn. Vậy có bao nhiêu cửa hàng đang dùng ứng dụng của các cô cậu? [neutral]
+oscar: Twelve shops. In January, it was only three. | Mười hai cửa hàng. Hồi tháng Giêng chỉ có ba. [explain @laptop]
+varga: And how many users? | Còn bao nhiêu người dùng? [thinking]
+nia: Just over two thousand. The number has doubled since March. | Hơn hai nghìn một chút. Con số đã tăng gấp đôi kể từ tháng Ba. [explain]
+varga: That's still small. Is it growing steadily? | Vẫn còn nhỏ. Nó có tăng đều không? [thinking]
+oscar: Yes. On average, about two hundred new people join every week. | Có ạ. Trung bình mỗi tuần có khoảng hai trăm người mới tham gia. [explain]
+varga: What about food waste? That's the important part. | Còn lượng thực phẩm lãng phí thì sao? Đó mới là phần quan trọng. [thinking]
+nia: In the shops that use FreshLeft, waste fell by about a third. | Ở những cửa hàng dùng FreshLeft, lãng phí giảm khoảng một phần ba. [explain ipa=use:juz]
+varga: Compared to what? | So với cái gì? [thinking]
+nia: Compared to the same months last year, before they joined. | So với cùng các tháng năm ngoái, trước khi họ tham gia. [explain]
+varga: And do the shops earn more money? | Và các cửa hàng có kiếm được nhiều tiền hơn không? [thinking]
+oscar: A little. Their income from discounted food rose by fifteen percent. | Một chút. Thu nhập từ thực phẩm giảm giá của họ tăng mười lăm phần trăm. [explain]
+varga: Your growth is real, but it's slow. What's your plan for next year? | Tăng trưởng của các cậu là thật, nhưng chậm. Kế hoạch năm tới là gì? [thinking]
+nia: We want to reach a hundred shops. To do that, we need investment. | Chúng tôi muốn đạt một trăm cửa hàng. Để làm được, chúng tôi cần vốn đầu tư. [explain]
+varga: A hundred? That's eight times more than today. | Một trăm ư? Gấp tám lần hiện nay đấy. [surprised]
+oscar: We know it's ambitious. We won't pretend our numbers are bigger than they are. | Chúng tôi biết đó là mục tiêu đầy tham vọng. Chúng tôi sẽ không giả vờ các con số lớn hơn thực tế. [nod]
+varga: Good. I've heard a lot of exaggerated numbers this year. Yours are refreshing. | Tốt. Năm nay tôi đã nghe quá nhiều con số bị thổi phồng. Của các cậu thì khác hẳn. [happy]
+nia: Thank you. Do you have any other questions? | Cảm ơn bà. Bà còn câu hỏi nào khác không? [happy]
+varga: Just one. When can you show me the app working in a shop? | Chỉ một câu. Khi nào các cậu có thể cho tôi xem ứng dụng hoạt động trong một cửa hàng? [happy nia:happy oscar:happy]
+gloss: exaggerated, refreshing, discounted

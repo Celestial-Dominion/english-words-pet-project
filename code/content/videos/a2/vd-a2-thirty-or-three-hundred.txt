@@ -1,0 +1,33 @@
+=== vd-a2-thirty-or-three-hundred
+title: Sorry, You're Breaking Up | Xin lỗi, tiếng bị ngắt quãng
+source: st-a2-thirty-or-three-hundred
+summary: Cuộc điện thoại định mệnh: ông Martin đặt bánh cưới, còn Nora vừa nghe chập chờn vừa đoán — người xem nghe rõ hết, chỉ Nora là không.
+scene: kitchen
+prop: phone x=820
+prop: cake x=1250 y=560 scale=0.9
+cast: nora name=Nora look=woman x=560 voice=en-US-JennyNeural style.hair=bun style.hairColor=#8A5A3B style.outfit=apron style.top=#F3E6D0 style.topShade=#E0CFB3
+cast: martin name=Martin look=man x=1180 voice=en-US-GuyNeural call call.bg=village style.hair=short style.hairColor=#6B6B6B style.outfit=shirt style.top=#7A9A4B style.topShade=#65823C
+names: Bell, Hughes, Martin, Nora
+words: speak; married; wedding; romantic; hear; again
+focus: Nói chuyện điện thoại
+pattern: Can I speak to …? · Speaking. · Who's calling? · Sorry, you're breaking up. · Could you say that again? · I'll call you back.
+explain: Khi nhận máy: "Speaking." = tôi đây (chính là người được hỏi). Hỏi ai gọi: "Who's calling, please?". Khi sóng kém: "You're breaking up" (tiếng bị ngắt), "Could you say that again?" (nói lại giúp tôi). Hẹn gọi lại: "I'll call you back."
+keys: can i speak to / speaking / who's calling / you're breaking up / say that again / call you back
+
+martin: Hello? Is that Bell's Bakery? | A lô? Có phải tiệm bánh Bell không? [neutral]
+nora: Yes, it is. How can I help you? | Vâng, đúng rồi. Tôi giúp gì được ạ? [happy @phone]
+martin: Can I speak to Nora Bell, please? | Cho tôi nói chuyện với chị Nora Bell được không? [neutral]
+nora: Speaking. Who's calling, please? | Tôi đây ạ. Xin hỏi ai đang gọi vậy? [happy]
+martin: It's Martin Hughes, from Hill Farm. My daughter's getting married! | Tôi là Martin Hughes, ở trang trại Hill. Con gái tôi sắp cưới! [happy]
+nora: Oh, congratulations! When is the wedding? | Ôi, chúc mừng anh! Khi nào đám cưới ạ? [surprised]
+martin: On Saturday. It's small and very romantic. | Thứ Bảy này. Nhỏ thôi, và rất lãng mạn. [happy]
+nora: Sorry, you're breaking up. Could you say that again? | Xin lỗi, tiếng bị ngắt quãng. Anh nói lại giúp tôi được không? [confused]
+martin: Saturday! The cake is for thirty people. | Thứ Bảy! Bánh cho ba mươi người. [neutral]
+nora: For… how many people? I can't hear you very well. | Cho… bao nhiêu người ạ? Tôi nghe không rõ lắm. [confused]
+martin: And we can pay about three hundred dollars. | Và chúng tôi có thể trả khoảng ba trăm đô la. [neutral]
+nora: Three hundred? Wow! That's a very big cake! | Ba trăm ạ? Chà! Chiếc bánh to đấy! [surprised]
+martin: Sorry? What did you say? | Sao cơ? Chị nói gì vậy? [confused]
+nora: I said, no problem! I'll start today! | Tôi nói là không vấn đề gì ạ! Hôm nay tôi bắt đầu làm luôn! [happy]
+martin: Hello? Hello? Are you still there? | A lô? A lô? Chị còn đó không? [worried]
+nora: The line's terrible. I'll call you back! | Đường dây tệ quá. Tôi sẽ gọi lại cho anh! [worried]
+gloss: congratulations

@@ -1,0 +1,36 @@
+=== vd-c1-the-soloist
+title: Never Have I… | Chưa bao giờ tôi…
+source: st-c1-the-soloist
+summary: Sau buổi tập hỗn loạn, Beatrice đặt giới hạn với nghệ sĩ vĩ cầm lừng danh Nikolai bằng những câu nhấn mạnh đanh thép — rồi phát hiện ra lý do thật sự đằng sau thái độ của anh.
+scene: stage
+cast: beatrice name=Beatrice look=woman x=520 voice=en-US-EmmaNeural pitch=-4Hz rate=-3% style.hair=bun style.hairColor=#2C1A12 style.outfit=suit style.top=#1C2833 style.topShade=#17202A
+cast: nikolai name=Nikolai look=man x=1160 voice=en-US-SteffanNeural pitch=-6Hz rate=-2% style.hair=part style.hairColor=#BDBDBD style.outfit=shirt style.top=#212121 style.topShade=#111111
+names: Beatrice, Nikolai, Brahms, Hamish
+words: concerto; hierarchy; integrity; stance; vulnerable; precision
+focus: Nhấn mạnh bằng đảo ngữ sau trạng từ phủ định (Never have I…, Not only…)
+pattern: Never have I… · Not only did you…, but you also… · Under no circumstances will I… · At no point did… · Only when… did I… · Rarely have I…
+explain: Đảo ngữ tạo sức nặng trang trọng: trạng từ phủ định/hạn chế lên đầu câu + trợ động từ + chủ ngữ. "Never have I seen…", "Not only did you insult her, but you also…", "Under no circumstances will I allow…", "At no point did anyone agree…", "Only when I saw your hand did I understand." Dùng khi tranh luận nghiêm túc, phát biểu, viết trang trọng; lạm dụng trong hội thoại thường ngày sẽ nghe gượng.
+keys: never have i / not only did / under no circumstances / at no point did / only when / rarely have i
+
+beatrice: Please sit down, Mr. Petrov. We need to talk before the orchestra comes back. | Xin mời ngồi, anh Petrov. Chúng ta cần nói chuyện trước khi dàn nhạc quay lại. [explain]
+nikolai: If this is about the tempo, your orchestra is simply too slow for Brahms. | Nếu là chuyện nhịp độ, thì dàn nhạc của chị đơn giản là quá chậm cho Brahms. [angry]
+beatrice: It isn't about the tempo. Never have I seen a musician humiliated like that in front of her colleagues. | Không phải chuyện nhịp độ. Chưa bao giờ tôi thấy một nhạc công bị sỉ nhục như vậy trước mặt đồng nghiệp. [angry]
+nikolai: She played badly. I told the truth. | Cô ta chơi tệ. Tôi nói sự thật. [shrug]
+beatrice: Not only did you insult her, but you also stopped eighty people to do it. That's not truth, it's cruelty. | Anh không chỉ lăng mạ cô ấy, mà còn dừng cả tám mươi người lại để làm việc đó. Đó không phải sự thật, đó là tàn nhẫn. [explain]
+nikolai: You're very young to lecture me about the hierarchy of an orchestra. | Chị còn quá trẻ để giảng giải cho tôi về trật tự thứ bậc của một dàn nhạc. [thinking]
+beatrice: Perhaps. But my stance is simple. Criticize my interpretation as much as you like. | Có thể. Nhưng lập trường của tôi rất đơn giản. Anh cứ chỉ trích cách diễn giải của tôi bao nhiêu tuỳ thích. [explain]
+beatrice: Under no circumstances, however, will I let you humiliate one of my players again. | Tuy nhiên, trong bất kỳ trường hợp nào tôi cũng sẽ không để anh sỉ nhục một nhạc công của tôi lần nữa. [angry nikolai:surprised]
+nikolai: And if I refuse? | Còn nếu tôi từ chối? [thinking ipa=refuse:=]
+beatrice: Then I'll cancel the concert myself. My integrity matters more to me than two thousand tickets. | Thì chính tôi sẽ huỷ buổi hoà nhạc. Sự chính trực của tôi quan trọng với tôi hơn hai nghìn tấm vé. [explain]
+nikolai: Rarely have I heard a conductor say that. Most of them are afraid of me. | Hiếm khi tôi nghe một nhạc trưởng nói vậy. Phần lớn họ đều sợ tôi. [surprised]
+beatrice: I'm not afraid of you. But I have noticed something. Your left hand is trembling. | Tôi không sợ anh. Nhưng tôi đã để ý một điều. Tay trái của anh đang run. [thinking]
+nikolai: It's nothing. I'm tired. | Không có gì. Tôi mệt thôi. [shake]
+beatrice: At no point today did it shake during the fast passages. Only in the slow ones. Is that why you keep changing the tempo? | Hôm nay chưa lúc nào nó run ở những đoạn nhanh. Chỉ ở những đoạn chậm. Có phải vì thế mà anh liên tục đổi nhịp độ không? [explain]
+nikolai: For a year, my fingers have refused to obey me at certain speeds. Doctors say it may end my career. | Suốt một năm nay, các ngón tay tôi không chịu nghe lời ở một số tốc độ. Bác sĩ nói nó có thể chấm dứt sự nghiệp của tôi. [sad]
+beatrice: Only when I saw your hand did I understand why you seemed so determined to push everyone away. | Chỉ khi thấy bàn tay anh tôi mới hiểu vì sao anh có vẻ quyết tâm đẩy mọi người ra xa đến vậy. [sad]
+nikolai: I didn't want anyone to see me looking vulnerable. Especially not in the Brahms concerto. | Tôi không muốn ai thấy tôi trông yếu đuối. Nhất là không phải trong bản concerto của Brahms. [tearful]
+beatrice: Then tell me exactly where the dangerous passages are. I'll follow you with total precision, and nobody in the audience will know. | Vậy hãy cho tôi biết chính xác những đoạn nguy hiểm ở đâu. Tôi sẽ theo anh thật chính xác, và không ai trong khán phòng sẽ biết. [nod]
+nikolai: And the oboist? | Còn cô chơi oboe? [shy]
+beatrice: You'll apologize to her first, in front of everyone. Then we'll rehearse. | Anh sẽ xin lỗi cô ấy trước, trước mặt mọi người. Rồi chúng ta sẽ tập. [nod nikolai:shy]
+names: Mr. Petrov, Petrov
+gloss: tempo, humiliated, cruelty, interpretation, trembling, passages, oboist, rehearse

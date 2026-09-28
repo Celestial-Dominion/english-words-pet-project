@@ -166,8 +166,8 @@ export default function CaiDatPage() {
             by Browne, C. &amp; Culligan, B. (CC BY-SA 4.0)
           </li>
           <li>Tần suất từ — wordfreq (Robyn Speer, MIT) &amp; OpenSubtitles FrequencyWords (CC BY-SA)</li>
-          <li>Bài đọc — Simple English Wikipedia (CC BY-SA) &amp; Wikinews (CC BY 2.5)</li>
-          <li>Nghĩa tiếng Việt, câu ví dụ, cụm đi kèm — do dự án này tạo</li>
+          <li>Nghĩa tiếng Việt, câu ví dụ, cụm đi kèm, bài đọc, truyện, video hội thoại — do dự án này biên soạn</li>
+          <li>Giọng đọc — Microsoft Edge neural TTS (en-US), sinh sẵn lúc build</li>
         </ul>
         <p className="mt-2 text-xs text-muted-foreground">
           Dữ liệu dẫn xuất từ các nguồn CC BY-SA được chia sẻ lại theo cùng giấy phép.

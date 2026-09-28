@@ -1,0 +1,35 @@
+=== vd-b1-the-language-exchange
+title: What Does "Knackered" Mean? | "Knackered" nghĩa là gì?
+source: st-b1-the-language-exchange
+summary: Buổi trao đổi ngôn ngữ tối thứ Năm ở quán cà phê: Linh hỏi Callum về những từ lóng khó hiểu và cách dùng chúng cho đúng.
+scene: cafe
+prop: mug x=800 y=620 scale=0.8
+cast: callum name=Callum look=man x=540 voice=en-US-BrianNeural pitch=-2Hz style.hair=curly style.hairColor=#B5652E style.outfit=shirt style.top=#27AE60 style.topShade=#229954
+cast: linh name=Linh look=woman x=1140 voice=en-US-AvaNeural pitch=+6Hz style.hair=long style.hairColor=#1A1A1A style.skin=#EAC7A0 style.skinShade=#D6AE85 style.outfit=blouse style.top=#F7DC6F style.topShade=#E4C85C
+names: Callum, Linh, English
+gloss: knackered, shattered
+words: mean; formal; example; slowly; idiom; informal
+focus: Hỏi nghĩa và cách dùng từ
+pattern: What does … mean? · How do you say … in English? · Could you give me an example? · Is it formal or informal? · Can I use it with…? · Could you say that more slowly?
+explain: Hỏi nghĩa: "What does 'knackered' mean?" (dùng "does… mean", không nói "What means…"). Hỏi cách nói: "How do you say … in English?". Hỏi sắc thái: "Is it formal or informal?", "Can I use it with my teacher?". Xin ví dụ: "Could you give me an example?".
+keys: what does / mean / how do you say / give me an example / formal or informal / can i use it / more slowly
+
+callum: Sorry I'm late. I'm absolutely knackered. It's been a nightmare at work. | Xin lỗi anh đến muộn. Anh mệt rã rời. Ở chỗ làm cứ như ác mộng. [sad]
+linh: Sorry, what exactly does "knackered" mean? | Xin lỗi, chính xác thì "knackered" nghĩa là gì ạ? [confused @mug]
+callum: It means very, very tired. | Nghĩa là rất, rất mệt. [explain]
+linh: Is it formal or informal? | Nó trang trọng hay thân mật ạ? [thinking]
+callum: Very informal. You can use it with friends, but not in an essay. | Rất thân mật. Em dùng được với bạn bè, nhưng đừng dùng trong bài luận. [explain ipa=use:juz]
+linh: Can I use it with my teacher? | Em dùng với giáo viên được không ạ? [thinking ipa=use:juz]
+callum: Hmm, better not. Say "exhausted" instead. | Hừm, tốt nhất là không. Hãy nói "exhausted" thay vào. [thinking]
+linh: Could you give me an example with "knackered"? | Anh cho em một ví dụ với "knackered" được không? [thinking]
+callum: Sure. "After the football match, I was completely knackered." | Được chứ. "Sau trận bóng, anh mệt rã rời." [happy]
+linh: OK. And how do you say that you really need to sleep? | Vâng. Còn muốn nói mình rất cần đi ngủ thì nói thế nào ạ? [thinking]
+callum: "I'm so sleepy." Or, if you want to sound like a Scot, "I'm shattered." | "I'm so sleepy." Hoặc, nếu em muốn nói như người Scotland, thì "I'm shattered". [happy]
+linh: Shattered? I thought that meant broken. Like a glass. | Shattered ạ? Em tưởng từ đó nghĩa là vỡ. Như cái cốc ấy. [confused]
+callum: It does! That's the funny thing about English. One word, two meanings. | Đúng rồi! Đó chính là điều buồn cười của tiếng Anh. Một từ, hai nghĩa. [happy]
+linh: Could you say the example more slowly? I want to write it down. | Anh nói lại ví dụ chậm hơn được không? Em muốn ghi lại. [explain]
+callum: Of course. "I'm… shattered… after… work." | Tất nhiên. "Anh… mệt… rã rời… sau… giờ làm." [explain]
+linh: Thank you. English idioms are so strange. | Cảm ơn anh. Thành ngữ tiếng Anh lạ thật. [happy]
+callum: Not as strange as Vietnamese tones. Now it's your turn to teach me. | Không lạ bằng thanh điệu tiếng Việt đâu. Giờ đến lượt em dạy anh. [happy]
+linh: OK. First lesson: how do you order a coffee without asking for a chicken? | Được. Bài đầu tiên: làm sao gọi cà phê mà không gọi nhầm thành gà? [happy callum:shy]
+gloss: tones

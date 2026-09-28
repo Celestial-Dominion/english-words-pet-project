@@ -1,0 +1,33 @@
+=== vd-a2-the-bike-repair-shop
+title: I'm Afraid There's a Problem | Tôi e là có chuyện rồi
+source: st-a2-the-bike-repair-shop
+summary: Ông Grant quay lại tiệm với cánh tay băng bó vì phanh xe bị lỏng; chú Ray lắng nghe, còn Diego phải nhận lỗi.
+scene: street
+prop: bike x=800 y=760
+cast: grant name="Mr. Grant" vi="Ông Grant" look=man x=1180 voice=en-US-ChristopherNeural style.hair=bald style.skin=#E9B896 style.skinShade=#D49E7A style.outfit=jacket style.top=#6B7F9E style.topShade=#56698A
+cast: ray name="Uncle Ray" vi="Chú Ray" look=dad x=520 voice=en-US-GuyNeural rate=-4% style.skin=#B07650 style.skinShade=#94603E style.outfit=apron style.top=#3A8E8B style.topShade=#2D7673
+cast: diego name=Diego look=teenboy x=280 voice=en-US-BrianNeural pitch=+10Hz from=6 style.skin=#B07650 style.skinShade=#94603E style.hair=curly style.hairColor=#1F1A1C style.outfit=tee style.top=#E9A23B style.topShade=#D18B28
+gloss: brakes, refund
+words: repair; brake; customer; loose; fault; check
+focus: Phàn nàn lịch sự và xử lý phàn nàn
+pattern: I'm afraid there's a problem with… · I'm sorry to hear that. · Let me have a look. · It was my fault. · We'll…
+explain: Khách phàn nàn lịch sự bắt đầu bằng "I'm afraid…" (e là…). Người bán đáp "I'm sorry to hear that", xem xét ("Let me have a look") và đưa giải pháp bằng "We'll…". Nhận lỗi: "It was my fault."
+keys: i'm afraid / i'm sorry to hear that / let me have a look / it was my fault / we'll
+
+grant: Good morning. I'm afraid there's a problem with my bike. | Chào anh. Tôi e là chiếc xe của tôi có vấn đề. [angry]
+ray: Oh, I'm sorry to hear that. What happened? | Ôi, tôi rất tiếc. Chuyện gì vậy ạ? [worried]
+grant: Your assistant repaired the brakes on Friday. | Cậu phụ việc của anh sửa phanh cho tôi hôm thứ Sáu. [explain]
+grant: On Saturday, they didn't work, and I fell at a traffic light. | Sang thứ Bảy, phanh không ăn, và tôi bị ngã ngay ở đèn giao thông. [angry]
+ray: Oh no! Are you OK? | Ôi không! Anh có sao không? [surprised]
+grant: My arm hurts, but I'll live. | Tay tôi đau, nhưng không chết được. [angry ipa=live:lɪv]
+ray: Let me have a look at the bike. | Để tôi xem chiếc xe. [thinking point @bike]
+ray: Hmm. This brake is loose. That's dangerous. | Ừm. Phanh bên này bị lỏng. Nguy hiểm thật. [worried]
+diego: Mr. Grant… it was my fault. | Bác Grant… đó là lỗi của cháu. [shy]
+diego: There were a lot of customers, and I didn't check it twice. | Hôm đó đông khách quá, và cháu đã không kiểm tra lại. [sad]
+grant: Well… at least you're honest. | Chà… ít ra cậu cũng thành thật. [thinking]
+ray: We'll repair it right now, and you don't have to pay. | Chúng tôi sẽ sửa ngay bây giờ, và anh không phải trả tiền. [explain]
+diego: And I'll test it three times on the street. | Và cháu sẽ chạy thử ba lần trên phố ạ. [nod]
+grant: Thank you. That's all I wanted. | Cảm ơn. Tôi chỉ cần có vậy. [neutral]
+ray: Please take this new helmet, too. It's a gift. | Anh nhận chiếc mũ bảo hiểm mới này nữa nhé. Quà của tiệm. [happy]
+grant: Now that's good customer service! | Thế mới là phục vụ khách hàng tốt chứ! [happy diego:happy ray:happy]
+gloss: helmet, honest, service

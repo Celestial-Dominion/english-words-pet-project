@@ -1,0 +1,30 @@
+=== vd-a1-a-picnic-in-the-rain
+title: What's the Weather Like? | Trời hôm nay thế nào?
+source: st-a1-a-picnic-in-the-rain
+summary: Sáng thứ Bảy mưa to đúng hôm cả nhà định đi dã ngoại — Ella hỏi mẹ về thời tiết, còn mẹ có một kế hoạch khác.
+scene: home-day rain
+prop: sandwich x=860
+cast: ella name=Ella look=girl x=400 voice=en-US-AnaNeural style.hair=pigtails style.hairColor=#B5652E style.top=#F2C14E style.topShade=#D9A933
+cast: mom name=Mom vi=Mẹ look=mom x=1150 voice=en-US-AvaNeural style.hairColor=#5A3B2E style.top=#5E9E7A style.topShade=#4B8765 style.collar=#EAF6EE
+cast: toby name=Toby look=boy x=640 voice=en-US-AnaNeural pitch=-14Hz rate=-6% from=6 style.hairColor=#B5652E style.top=#E07B5F style.topShade=#C8654B style.collar=#C8654B
+gloss: rainbow, blanket, sunny
+words: weather; rain; picnic; idea; floor
+focus: Hỏi và nói về thời tiết
+pattern: What's the weather like? · It's raining. · It's sunny / cold / windy.
+explain: Hỏi thời tiết dùng "What's the weather like?". Đáp bằng "It's + tính từ" (sunny, cloudy, cold) hoặc "It's raining / snowing" khi trời đang mưa, đang có tuyết.
+keys: what's the weather like / it's raining / it's sunny / it's going to be
+
+ella: Mom! What's the weather like? | Mẹ ơi! Trời hôm nay thế nào ạ? [worried]
+mom: Look out of the window. It's raining. | Con nhìn ra cửa sổ đi. Trời đang mưa. [sad]
+ella: But the phone said, "It's going to be sunny!" | Nhưng điện thoại bảo: "Trời sẽ nắng mà!" [angry]
+mom: I know. The phone was wrong. | Mẹ biết. Điện thoại nói sai rồi. [shrug]
+ella: So no picnic by the river? | Vậy là không đi dã ngoại ngoài sông nữa ạ? [sad]
+mom: Not today. It's cold and wet outside. | Hôm nay thì không. Ngoài trời vừa lạnh vừa ướt. [shake]
+toby: Mom! Is it raining? No picnic? | Mẹ ơi! Trời mưa ạ? Không đi dã ngoại ạ? [tearful]
+mom: Wait, Toby. I have an idea. | Đợi đã, Toby. Mẹ có ý này. [thinking]
+mom: Let's have a picnic here, on the floor! | Mình dã ngoại ngay ở đây, trên sàn nhà luôn! [happy explain]
+ella: Here? In the living room? | Ở đây ạ? Trong phòng khách á? [surprised]
+mom: Yes! A big green blanket is our grass. | Ừ! Tấm chăn xanh to kia sẽ là bãi cỏ. [happy]
+toby: And the sandwiches? | Còn bánh mì kẹp thì sao ạ? [confused @sandwich]
+mom: They're ready! Come and eat. | Làm xong rồi! Lại đây ăn nào. [happy point @sandwich]
+ella: A picnic in the rain. I love it! | Dã ngoại trong mưa. Con thích quá! [happy cheer toby:happy]

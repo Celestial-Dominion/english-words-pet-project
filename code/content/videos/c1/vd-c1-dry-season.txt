@@ -1,0 +1,35 @@
+=== vd-c1-dry-season
+title: It Boils Down To… | Rốt cuộc thì…
+source: st-c1-dry-season
+summary: Tối cuối tuần ở trang trại, Themba, Nomvula và con trai Sipho cân nhắc ba lựa chọn: bán quyền khai thác nước, mất trang trại, hay thử một con đường thứ ba khó khăn hơn.
+scene: village
+cast: themba name=Themba look=dad x=300 voice=en-US-RogerNeural pitch=-6Hz rate=-3% style.hair=short style.hairColor=#3A3A3A style.skin=#5A3522 style.skinShade=#48291A style.outfit=shirt style.top=#A04000 style.topShade=#873600
+cast: nomvula name=Nomvula look=mom x=800 voice=en-US-AvaNeural pitch=-6Hz style.hair=bun style.hairColor=#1A1A1A style.skin=#5A3522 style.skinShade=#48291A style.outfit=dress style.top=#1D8348 style.topShade=#186A3B
+cast: sipho name=Sipho look=teenboy x=1300 voice=en-US-AndrewNeural pitch=+3Hz rate=+3% style.hair=short style.hairColor=#1A1A1A style.skin=#5A3522 style.skinShade=#48291A style.outfit=tee style.top=#2E86C1 style.topShade=#2874A6
+names: Themba, Nomvula, Sipho, Vosloo, Mokoena
+words: groundwater; irrigation; livelihood; sustainability; vulnerable; pragmatic
+focus: Cân nhắc ưu nhược điểm các phương án trước một quyết định lớn
+pattern: On the one hand, … On the other hand, … · The downside is… · The way I see it, … · It boils down to… · Weighing it all up, … · All things considered, …
+explain: Đặt hai mặt cạnh nhau: "On the one hand… On the other hand…". Nêu mặt trái: "The downside is…", "The catch is…". Nêu quan điểm cá nhân: "The way I see it, …". Rút về điều cốt lõi: "It boils down to whether…". Kết luận sau khi cân nhắc: "Weighing it all up, …", "All things considered, I think we should…".
+keys: on the one hand / the downside is / the way i see it / boils down to / weighing it all up / all things considered
+
+themba: Vosloo wants an answer by Friday. His money would pay every debt we have. | Vosloo muốn có câu trả lời trước thứ Sáu. Tiền của ông ta sẽ trả hết mọi khoản nợ của chúng ta. [explain]
+nomvula: On the one hand, we'd keep the farm. On the other hand, they'd pump twenty times the water we use. | Một mặt, chúng ta sẽ giữ được trang trại. Mặt khác, họ sẽ bơm lượng nước gấp hai mươi lần chúng ta dùng. [thinking ipa=use:juz]
+themba: The groundwater isn't only ours, I know. But the bank won't wait forever. | Anh biết nước ngầm không chỉ là của chúng ta. Nhưng ngân hàng sẽ không chờ mãi. [worried]
+sipho: You're both talking as if there are only two options. There's a third one. | Bố mẹ đang nói như thể chỉ có hai lựa chọn. Còn một lựa chọn thứ ba. [explain]
+themba: If it's another idea from your textbooks, I'm listening, but I'm not promising anything. | Nếu lại là ý tưởng từ sách giáo khoa của con thì bố đang nghe đây, nhưng bố không hứa gì đâu. [shrug]
+sipho: Drip irrigation. The water goes straight to the roots. It could cut what we use by half. | Tưới nhỏ giọt. Nước đi thẳng đến rễ cây. Nó có thể giảm một nửa lượng nước chúng ta dùng. [explain ipa=use:juz]
+nomvula: And the downside is the cost. Forty hectares of pipes won't be cheap. | Còn mặt trái là chi phí. Bốn mươi héc-ta ống dẫn sẽ không rẻ đâu. [thinking]
+sipho: That's where the hillside comes in. A solar company would rent it for twenty-five years. | Đó là lúc sườn đồi phát huy tác dụng. Một công ty điện mặt trời sẽ thuê nó hai mươi lăm năm. [point]
+themba: Cover my land with glass? My father would turn in his grave. | Phủ kính lên đất của bố ư? Ông nội con mà biết chắc sẽ trở mình dưới mộ. [angry]
+sipho: Dad, nothing has grown on that hillside for ten years. It's the least useful land we have. | Bố ơi, mười năm nay sườn đồi đó chẳng mọc được gì. Đó là mảnh đất vô dụng nhất nhà mình. [explain]
+nomvula: The way I see it, the rent wouldn't match Vosloo's offer, but it would pay for the irrigation and keep the bank patient. | Theo mẹ thấy, tiền thuê sẽ không bằng lời đề nghị của Vosloo, nhưng nó sẽ trả được cho hệ thống tưới và giữ cho ngân hàng kiên nhẫn. [explain]
+themba: You're always so pragmatic, Nomvula. | Em lúc nào cũng thực tế quá, Nomvula ạ. [happy]
+nomvula: Someone has to keep the accounts. And think of Mrs. Mokoena. If her well dries up, she loses her livelihood. | Phải có người giữ sổ sách chứ. Và hãy nghĩ đến bà Mokoena. Nếu giếng nhà bà ấy cạn, bà ấy mất kế sinh nhai. [worried]
+sipho: The smallholders are the most vulnerable. Their wells are the shallowest in the valley. | Những hộ nông dân nhỏ là dễ tổn thương nhất. Giếng của họ nông nhất thung lũng. [explain]
+themba: So it boils down to this: do we solve our problem by making it everybody else's? | Vậy rốt cuộc là thế này: chúng ta có giải quyết vấn đề của mình bằng cách biến nó thành vấn đề của mọi người khác không? [thinking]
+sipho: And whether we can farm like this for another twenty years. Sustainability isn't a luxury anymore. | Và liệu chúng ta có thể canh tác như thế này thêm hai mươi năm nữa không. Sự bền vững giờ không còn là thứ xa xỉ. [explain]
+nomvula: Weighing it all up, I'd rather take the harder road and still look our neighbours in the eye. | Cân nhắc mọi thứ, mẹ thà đi con đường khó hơn mà vẫn nhìn thẳng được vào mắt hàng xóm. [nod]
+themba: All things considered, we'll try Sipho's plan for one season. One. And if the pipes fail, I'm blaming the university. | Xét mọi mặt, chúng ta sẽ thử kế hoạch của Sipho trong một mùa. Một thôi đấy. Và nếu mấy cái ống hỏng, bố sẽ đổ lỗi cho trường đại học. [happy sipho:happy nomvula:happy]
+names: Friday
+gloss: drip, hectares, hillside, solar, smallholders, shallowest

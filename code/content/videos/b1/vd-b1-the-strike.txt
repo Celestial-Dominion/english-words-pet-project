@@ -1,0 +1,33 @@
+=== vd-b1-the-strike
+title: The Thing Is… | Vấn đề là…
+source: st-b1-the-strike
+summary: Bữa tối căng thẳng: ông Dave phản đối cuộc đình công, bà Clare bảo vệ quan điểm của mình — mỗi người đều có lý lẽ riêng.
+scene: kitchen
+cast: dave name=Dave look=man x=540 voice=en-US-GuyNeural pitch=-2Hz style.hair=short style.hairColor=#5A3825 style.outfit=uniform style.top=#2E4053 style.topShade=#273746
+cast: clare name=Clare look=woman x=1140 voice=en-US-JennyNeural pitch=-2Hz style.hair=ponytail style.hairColor=#8A5A3B style.outfit=patient style.top=#76D7C4 style.topShade=#5FC9B4
+names: Clare, Dave
+words: fair; patient; staff; strike; understand; risk
+focus: Bày tỏ quan điểm và phản biện trong tranh luận
+pattern: The thing is,… · From my point of view,… · That's not fair! · I understand, but… · Look at it from my side. · Let's agree to disagree.
+explain: Nêu lý do chính: "The thing is, there aren't enough staff." Nêu quan điểm: "From my point of view, …". Phản đối mạnh: "That's not fair!" Ghi nhận rồi phản biện: "I understand, but…". Xin người kia đặt mình vào vị trí của mình: "Look at it from my side." Kết thúc êm: "Let's agree to disagree."
+keys: the thing is / from my point of view / that's not fair / i understand, but / look at it from my side / agree to disagree
+
+dave: So you're really going on strike next week? | Vậy là tuần sau em thật sự đình công à? [worried]
+clare: Yes. Almost all the nurses voted for it. | Vâng. Gần như tất cả y tá đều bỏ phiếu đồng ý. [neutral]
+dave: From my point of view, it's dangerous. What about the patients? | Theo quan điểm của anh, như thế là nguy hiểm. Còn bệnh nhân thì sao? [thinking]
+clare: Emergency care will continue. Nobody will be left alone. | Việc cấp cứu vẫn tiếp tục. Sẽ không ai bị bỏ mặc. [explain]
+dave: I understand, but people are waiting for operations. | Anh hiểu, nhưng có những người đang chờ phẫu thuật. [worried]
+clare: The thing is, patients are already in danger. There aren't enough staff. | Vấn đề là, bệnh nhân đã đang gặp nguy rồi. Không đủ nhân lực. [explain]
+dave: Everyone is short of staff. My company is, too. | Chỗ nào cũng thiếu người. Công ty anh cũng vậy. [angry]
+clare: Last night I looked after fourteen patients on my own. Is that safe? | Đêm qua một mình em trông mười bốn bệnh nhân. Như thế có an toàn không? [angry]
+dave: Fourteen? I didn't know it was that bad. | Mười bốn ư? Anh không biết là tệ đến thế. [surprised]
+clare: Look at it from my side, Dave. I'm exhausted every single day. | Anh hãy đặt mình vào vị trí của em, Dave. Ngày nào em cũng kiệt sức. [sad]
+dave: I'm tired, too. But I can't just stop driving my bus. | Anh cũng mệt. Nhưng anh đâu thể cứ thế ngừng lái xe buýt. [sad]
+clare: That's not fair. I'm not stopping because I'm tired. I'm stopping because it's dangerous. | Như thế là không công bằng. Em không nghỉ vì em mệt. Em nghỉ vì tình hình nguy hiểm. [angry]
+dave: OK. Maybe I didn't understand the reasons properly. | Được rồi. Có lẽ anh chưa hiểu đúng lý do. [thinking]
+clare: I'm not asking you to agree. I'm asking you to listen. | Em không bắt anh phải đồng ý. Em chỉ mong anh lắng nghe. [explain]
+dave: I'm listening. I still think a strike is a big risk. | Anh đang nghe đây. Anh vẫn nghĩ đình công là một rủi ro lớn. [thinking]
+clare: Maybe it is. But doing nothing is a bigger one. | Có thể lắm. Nhưng không làm gì còn là rủi ro lớn hơn. [explain]
+dave: Then let's agree to disagree. And I'll bring you coffee on the picket line. | Vậy mình đồng ý là không đồng ý nhé. Và anh sẽ mang cà phê đến chỗ em biểu tình. [happy]
+clare: Deal. Make it twenty cups. There are a lot of us. | Chốt. Mang hai mươi cốc nhé. Bọn em đông lắm. [happy dave:happy]
+gloss: picket line

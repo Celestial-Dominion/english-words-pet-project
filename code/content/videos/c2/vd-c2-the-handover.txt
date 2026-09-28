@@ -1,0 +1,38 @@
+=== vd-c2-the-handover
+title: Would You Be Willing to Take That On? | Anh có sẵn lòng đảm nhận việc đó không?
+source: st-c2-the-handover
+summary: Trong bữa trưa xa văn phòng, Zofia giao hai trách nhiệm quan trọng cho Des — người sếp cũ vừa bị bỏ qua — theo cách tôn trọng chuyên môn của ông và nói rõ ai chịu trách nhiệm việc gì.
+scene: cafe
+cast: zofia name=Zofia look=woman x=520 voice=en-US-EmmaNeural pitch=-1Hz style.hair=ponytail style.hairColor=#D4AC0D style.outfit=blouse style.top=#1F618D style.topShade=#1A5276
+cast: des name=Des look=grandpa x=1160 voice=en-US-RogerNeural pitch=-5Hz rate=-3% style.hair=grandpa style.hairColor=#B0B0B0 style.outfit=jacket style.top=#566573 style.topShade=#4D5656 style.glasses=square
+names: Zofia, Des, Kieran, Belfast
+words: attrition; calamitous; adept; accountable; patronizing; cohesion
+focus: Giao việc khéo léo: ghi nhận chuyên môn, nói rõ trách nhiệm và quyền hạn, mời chứ không ra lệnh
+pattern: Would you be willing to take that on? · You're the best person for… · I'd like you to have full authority over… · I'll stay accountable for… · How would you want to approach it? · Let me know what you need from me.
+explain: Giao việc cho người giỏi (nhất là người từng là sếp) cần mời thay vì ra lệnh: "Would you be willing to take that on?". Nói rõ vì sao chọn họ: "You're the best person for…". Tách quyền hạn và trách nhiệm: "I'd like you to have full authority over the engineering, and I'll stay accountable for the outcome". Hỏi cách họ muốn làm: "How would you want to approach it?", rồi đề nghị hỗ trợ: "Let me know what you need from me."
+keys: willing to take that on / best person for / full authority over / stay accountable / how would you want to approach / what you need from me
+
+zofia: Thanks for coming out, Des. I thought we could talk more easily away from the office. | Cảm ơn anh đã ra ngoài, Des. Tôi nghĩ chúng ta có thể nói chuyện dễ hơn khi ở xa văn phòng. [nod]
+des: If this is about my attitude this week, I'll save you the trouble. I've been professional. | Nếu chuyện này là về thái độ của tôi tuần này, tôi sẽ đỡ cho cô khỏi phiền. Tôi đã cư xử chuyên nghiệp. [shrug]
+zofia: You have. And I know the way the decision was handled was poor. I'm not going to pretend otherwise. | Anh đúng là vậy. Và tôi biết quyết định ấy được xử lý thật tệ. Tôi sẽ không giả vờ điều ngược lại. [sad]
+des: Eleven minutes, Zofia. Twelve years, and eleven minutes. | Mười một phút, Zofia. Mười hai năm, và mười một phút. [angry]
+zofia: I know. And I don't want you to spend your last years just waiting to retire. The team needs you. | Tôi biết. Và tôi không muốn anh dành những năm cuối chỉ để chờ nghỉ hưu. Nhóm cần anh. [explain]
+des: That sounds a little patronizing, if you don't mind me saying. | Nghe hơi kẻ cả đấy, nếu cô không phiền tôi nói thế. [thinking]
+zofia: Then let me be specific. The dam at Carrowbeg. You're the best person for it, by a long way. | Vậy để tôi nói cụ thể. Con đập ở Carrowbeg. Anh là người phù hợp nhất cho nó, hơn hẳn mọi người. [point]
+des: The dam that's leaking? One mistake there could be calamitous for the whole valley. | Con đập đang rò rỉ ấy à? Một sai lầm ở đó có thể là thảm hoạ cho cả thung lũng. [surprised]
+zofia: Exactly. Nobody else is as adept with old concrete. Would you be willing to take that on? | Chính xác. Không ai khác thành thạo với bê tông cũ như anh. Anh có sẵn lòng đảm nhận việc đó không? [explain]
+des: Take it on as what? Your assistant? | Đảm nhận với vai trò gì? Trợ lý của cô à? [thinking]
+zofia: As technical lead. I'd like you to have full authority over the engineering decisions. | Với vai trò trưởng nhóm kỹ thuật. Tôi muốn anh có toàn quyền với các quyết định kỹ thuật. [explain ipa=lead:lid]
+des: And if it goes wrong? | Còn nếu nó hỏng thì sao? [worried]
+zofia: I'll stay accountable for the outcome with the directors. That's my job, not yours. | Tôi sẽ vẫn chịu trách nhiệm về kết quả trước ban giám đốc. Đó là việc của tôi, không phải của anh. [nod]
+des: That's more than they ever gave me. What's the second thing? You said two. | Thế còn hơn những gì họ từng cho tôi. Việc thứ hai là gì? Cô nói hai việc mà. [thinking]
+zofia: The graduates. We've lost two engineers this year. That kind of attrition is killing us. | Các kỹ sư trẻ. Năm nay chúng ta đã mất hai kỹ sư. Kiểu hao hụt đó đang giết chết chúng ta. [worried ipa=graduates:ˈɡrædʒuəts]
+des: They leave because nobody has time to teach them anything. | Họ bỏ đi vì chẳng ai có thời gian dạy họ điều gì. [explain]
+zofia: Which is why I'm asking you. How would you want to approach it? | Chính vì vậy tôi mới nhờ anh. Anh muốn tiếp cận việc đó thế nào? [thinking]
+des: Site visits, every week. You don't learn dams from a screen. You learn them with wet boots. | Đi công trường, mỗi tuần. Người ta không học về đập qua màn hình. Người ta học bằng đôi ủng ướt. [explain]
+zofia: Then that's what we'll do. Let me know what you need from me, time, budget, anything. | Vậy chúng ta sẽ làm thế. Anh cần gì từ tôi cứ nói, thời gian, ngân sách, bất cứ thứ gì. [happy]
+des: Keep the directors out of my site meetings, and we'll get along fine. | Giữ ban giám đốc tránh xa các buổi họp công trường của tôi, và chúng ta sẽ hợp nhau thôi. [happy]
+zofia: Deal. And Des, the team's cohesion matters more to me than who sits in which office. | Đồng ý. Và Des, sự gắn kết của nhóm quan trọng với tôi hơn việc ai ngồi ở phòng nào. [explain]
+des: You'd better read the 1962 survey of that dam, then. I'll dig it out for you. | Vậy cô nên đọc bản khảo sát năm 1962 về con đập đó. Tôi sẽ tìm nó ra cho cô. [nod zofia:happy ipa=read:rid]
+names: Carrowbeg
+gloss: professional, dam, leaking, concrete, assistant, technical, graduates, site, boots, survey

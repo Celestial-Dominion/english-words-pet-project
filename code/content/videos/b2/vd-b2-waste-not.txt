@@ -1,0 +1,34 @@
+=== vd-b2-waste-not
+title: I'd Strongly Recommend… | Tôi đặc biệt đề xuất…
+source: st-b2-waste-not
+summary: Sau giờ đóng cửa, chị quản lý Rukhsana trình bày trực tiếp với giám đốc vùng Whitfield những đề xuất chống lãng phí thực phẩm trong bản báo cáo của mình.
+scene: supermarket
+prop: report x=830
+cast: rukhsana name=Rukhsana look=woman x=520 voice=en-US-AvaNeural pitch=-5Hz style.hair=bun style.hairColor=#1A1A1A style.skin=#A0673F style.skinShade=#8A5634 style.outfit=uniform style.top=#27AE60 style.topShade=#229954
+cast: whitfield name="Mr. Whitfield" vi="Ông Whitfield" look=man x=1160 voice=en-US-SteffanNeural pitch=-5Hz style.hair=part style.hairColor=#9A9A9A style.outfit=suit style.top=#1B2631 style.topShade=#17202A
+names: Begum, Rukhsana, Whitfield, Hillside, Kieran
+words: recommend; suggest; advise; propose; donate; persuasive
+focus: Trình bày đề xuất trang trọng
+pattern: My first recommendation is that… · I'd strongly recommend + N/V-ing · I'd suggest that… · I'd advise + V-ing · It would be advisable to… · I'd also recommend + V-ing
+explain: Đề xuất trang trọng: "My first recommendation is that we (should) reduce prices earlier." "I'd strongly recommend a trial." "I'd suggest that everything (should) be donated." "I'd advise training staff…" "It would be advisable to test everything first." Đáp lại lo ngại: "That's a fair concern.", "With respect, …".
+keys: my first recommendation is that / i'd strongly recommend / i'd suggest that / i'd advise / it would be advisable to / i'd also recommend
+
+whitfield: Mrs. Begum, I've read your report. Before I decide anything, I'd like to hear your recommendations in person. | Chị Begum, tôi đã đọc bản báo cáo của chị. Trước khi quyết định bất cứ điều gì, tôi muốn nghe trực tiếp các đề xuất của chị. [thinking ipa=read:rɛd]
+rukhsana: Thank you. My first recommendation is that we reduce prices earlier in the day, not just an hour before closing. | Cảm ơn ông. Đề xuất đầu tiên của tôi là chúng ta giảm giá sớm hơn trong ngày, chứ không chỉ một tiếng trước giờ đóng cửa. [explain @report]
+whitfield: Won't that cut into our profits? | Chẳng phải như thế sẽ ăn vào lợi nhuận sao? [thinking]
+rukhsana: Not necessarily. I'd strongly recommend a trial, because other chains have found that evening sales actually rise. | Không hẳn. Tôi đặc biệt đề xuất làm thử, vì các chuỗi khác đã thấy doanh số buổi tối thực ra còn tăng. [explain]
+whitfield: What else do you propose? | Chị còn đề xuất gì nữa? [thinking]
+rukhsana: I'd suggest that everything still safe at closing time should be donated to local charities. | Tôi đề nghị mọi thứ còn an toàn vào giờ đóng cửa nên được quyên cho các tổ chức từ thiện địa phương. [explain]
+whitfield: There could be legal risks if someone becomes ill. | Có thể có rủi ro pháp lý nếu ai đó bị ốm. [worried]
+rukhsana: That's a fair concern. I'd advise training staff to check "use by" dates carefully. Only safe food would ever leave the store. | Đó là mối lo chính đáng. Tôi khuyên nên đào tạo nhân viên kiểm tra kỹ hạn "sử dụng đến". Chỉ thực phẩm an toàn mới được mang ra khỏi cửa hàng. [nod ipa=use:juz]
+whitfield: And who would collect it? | Vậy ai sẽ đến lấy? [thinking]
+rukhsana: Hillside Food Bank has offered to collect every evening. Their director is keen to start as soon as possible. | Ngân hàng Thực phẩm Hillside đã đề nghị đến lấy mỗi tối. Bà giám đốc của họ rất muốn bắt đầu càng sớm càng tốt. [explain]
+whitfield: Your report also mentions a pilot scheme. | Báo cáo của chị cũng nhắc đến một dự án thử nghiệm. [thinking]
+rukhsana: Yes. It would be advisable to test everything in one store for six months before any national decision. | Vâng. Nên thử nghiệm mọi thứ ở một cửa hàng trong sáu tháng trước khi có bất kỳ quyết định toàn quốc nào. [explain]
+whitfield: And you'd like that store to be yours, I assume? | Và tôi đoán chị muốn cửa hàng đó là cửa hàng của chị? [shrug]
+rukhsana: I would. I'd also recommend publishing the results openly. After the video, customers need to see that we're serious. | Đúng vậy. Tôi cũng đề xuất công khai minh bạch kết quả. Sau đoạn video, khách hàng cần thấy chúng ta nghiêm túc. [explain]
+whitfield: That's a bold suggestion. Head office won't like the idea of publishing our waste figures. | Đề xuất táo bạo đấy. Trụ sở chính sẽ không thích ý tưởng công bố số liệu lãng phí của chúng ta. [worried]
+rukhsana: With respect, the public has already seen our bins. Honesty is the only way to rebuild trust. | Thưa ông, công chúng đã thấy thùng rác của chúng ta rồi. Trung thực là cách duy nhất để lấy lại lòng tin. [explain]
+whitfield: You make a persuasive case. I'll approve the pilot, on one condition: you lead it personally. | Chị lập luận rất thuyết phục. Tôi sẽ duyệt dự án thử nghiệm, với một điều kiện: chị đích thân dẫn dắt. [nod ipa=lead:lid]
+rukhsana: Agreed. And I'd like Kieran on the team. He knows the problem better than anyone. | Đồng ý. Và tôi muốn Kieran tham gia nhóm. Cậu ấy hiểu vấn đề hơn bất kỳ ai. [happy whitfield:surprised]
+gloss: pilot scheme, advisable

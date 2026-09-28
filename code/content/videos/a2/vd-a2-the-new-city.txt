@@ -1,0 +1,33 @@
+=== vd-a2-the-new-city
+title: I Miss Home | Con nhớ nhà
+source: st-a2-the-new-city
+summary: Sau vài tuần ở Northgate, Tariq nói chuyện qua video với Sami — cậu nhớ nhà và lo mình sẽ không có bạn mới.
+scene: home-evening rain
+prop: phone x=820
+cast: tariq name=Tariq look=teenboy x=560 voice=en-US-BrianNeural pitch=+10Hz style.hair=curly style.hairColor=#1F1A1C style.skin=#B07650 style.skinShade=#94603E style.outfit=tee style.top=#5DBB63 style.topShade=#4AA350
+cast: sami name=Sami look=teenboy x=1180 voice=en-US-AndrewNeural pitch=+12Hz rate=+4% call call.bg=home-day style.hair=short style.hairColor=#3A2A22 style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=tee style.top=#E9A23B style.topShade=#D18B28
+names: Northgate, Sami, Tariq
+words: miss; lonely; worried; team; polite; single
+focus: Nói về cảm xúc khi phải thay đổi
+pattern: I miss… · I'm worried that… · It's hard to… · I'm sure you'll… · It'll get better.
+explain: "Miss + người/nơi chốn" = nhớ. "I'm worried that + mệnh đề" nói điều lo lắng. Trấn an bằng "I'm sure you'll…" hoặc "It'll get better." ('ll = will).
+keys: i miss / i'm worried that / it's hard to / i'm sure you'll / it'll get better
+
+sami: Tariq! How's Northgate? | Tariq! Northgate thế nào? [happy wave]
+tariq: Grey. It rains every day. | Xám xịt. Ngày nào cũng mưa. [sad]
+sami: And your new school? | Còn trường mới của cậu? [thinking]
+tariq: It's OK. The students are polite. | Cũng được. Học sinh đều lịch sự. [neutral]
+sami: But? | Nhưng mà? [thinking]
+tariq: But I don't know a single person. I sit alone at lunch. | Nhưng tớ chẳng quen một ai. Giờ ăn trưa tớ ngồi một mình. [sad]
+sami: That sounds lonely. | Nghe cô đơn thật. [sad]
+tariq: I miss home. I miss our team. I miss you, too. | Tớ nhớ nhà. Tớ nhớ đội bóng của mình. Tớ cũng nhớ cậu nữa. [tearful]
+sami: I miss you, too. The team isn't the same without you. | Tớ cũng nhớ cậu. Đội bóng không còn như trước khi thiếu cậu. [sad]
+tariq: I'm worried that nobody here will ever talk to me. | Tớ lo là ở đây sẽ chẳng ai thèm nói chuyện với tớ. [worried]
+sami: It's hard to start again. But it'll get better. | Bắt đầu lại thì khó thật. Nhưng rồi sẽ ổn thôi. [explain]
+tariq: How do you know? | Sao cậu biết? [confused]
+sami: Is there a football team at your school? | Trường cậu có đội bóng không? [thinking]
+tariq: I think so. Training is on Thursdays. | Hình như có. Thứ Năm có buổi tập. [thinking]
+sami: Then go! That's how you met me, remember? | Vậy thì đi đi! Hồi đó cậu cũng quen tớ như vậy mà, nhớ không? [happy]
+tariq: You're right. OK, I'll go on Thursday. | Cậu nói đúng. Được, thứ Năm tớ sẽ đi. [thinking]
+sami: I'm sure you'll score. Tell me everything! | Tớ chắc là cậu sẽ ghi bàn. Kể hết cho tớ nhé! [happy cheer tariq:happy]
+gloss: score

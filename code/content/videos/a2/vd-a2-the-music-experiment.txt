@@ -1,0 +1,32 @@
+=== vd-a2-the-music-experiment
+title: I Bet the Rap Plants Will Win | Tớ cá là cây nghe rap sẽ thắng
+source: st-a2-the-music-experiment
+summary: Ngày đầu thí nghiệm, Priya và Kofi đứng trước sáu chậu đậu và thi nhau đoán xem cây nào sẽ lớn nhanh nhất.
+scene: classroom
+prop: plant-pot x=800
+prop: notebook x=1010 y=640 scale=0.8
+cast: priya name=Priya look=teengirl x=500 voice=en-US-AvaNeural pitch=+8Hz style.hair=long style.hairColor=#1F1A1C style.skin=#C98E68 style.skinShade=#B07650 style.outfit=uniform style.top=#6C5CE7 style.topShade=#5A4BD1
+cast: kofi name=Kofi look=teenboy x=1180 voice=en-US-AndrewNeural pitch=+12Hz style.hair=short style.hairColor=#1F1A1C style.skin=#7A4A2E style.skinShade=#643A22 style.outfit=uniform style.top=#6C5CE7 style.topShade=#5A4BD1
+names: Kofi, Priya
+words: grow; probably; energy; fair; result; forget
+focus: Dự đoán tương lai
+pattern: I think … will … · I bet … · … will probably … · I don't think … will … · We'll see.
+explain: "Will + động từ nguyên mẫu" để dự đoán: "The rap plants will win." "I bet…" = tớ cá là (rất tự tin). "Probably" đứng sau "will": "They'll probably grow." Nói không đồng ý nhẹ nhàng: "I don't think they'll grow" (tự nhiên hơn "I think they won't…"). "We'll see" = để rồi xem.
+keys: i think / i bet / probably / i don't think / we'll see
+
+kofi: So, which plants will grow faster? | Vậy cây nào sẽ lớn nhanh hơn? [thinking]
+priya: I think the classical music plants will win. | Tớ nghĩ mấy cây nghe nhạc cổ điển sẽ thắng. [happy]
+kofi: No way. I bet the rap plants will win. | Không đời nào. Tớ cá là mấy cây nghe rap sẽ thắng. [happy]
+priya: Why? | Sao vậy? [confused]
+kofi: Rap is full of energy. They'll probably dance! | Rap tràn đầy năng lượng. Chắc chúng sẽ nhảy múa luôn! [happy cheer]
+priya: Kofi, plants don't have ears. | Kofi, cây làm gì có tai. [shake]
+kofi: OK. What about the quiet plants? | Thôi được. Thế còn mấy cây để yên lặng? [thinking]
+priya: I don't think they'll grow very much. | Tớ không nghĩ chúng sẽ lớn nhiều đâu. [thinking @plant-pot]
+kofi: How tall will they be in six weeks? | Sáu tuần nữa chúng sẽ cao bao nhiêu? [thinking]
+priya: Maybe twenty centimeters. Maybe a bit more. | Có lẽ hai mươi phân. Có khi hơn chút. [thinking]
+kofi: And mine will be thirty. I'm sure. | Còn cây của tớ sẽ cao ba mươi. Chắc chắn luôn. [happy]
+priya: We'll see. Don't forget, the test has to be fair. | Rồi sẽ biết. Đừng quên, phép thử phải công bằng. [explain]
+kofi: I know. Same light, same water, same boxes. | Biết rồi. Cùng ánh sáng, cùng nước, cùng hộp. [nod]
+priya: And we write down every result, even the bad ones. | Và mình ghi lại mọi kết quả, kể cả kết quả xấu. [explain @notebook]
+kofi: There won't be any bad ones. My plants will be stars. | Sẽ chẳng có kết quả xấu nào đâu. Cây của tớ sẽ thành ngôi sao. [happy]
+priya: I hope you're right. But I don't think you are. | Tớ mong cậu nói đúng. Nhưng tớ không nghĩ vậy đâu. [happy kofi:surprised]

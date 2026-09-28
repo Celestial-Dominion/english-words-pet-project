@@ -1,0 +1,28 @@
+=== vd-a1-the-snow-day
+title: Can We Help You? | Chúng cháu giúp ông được không?
+source: st-a1-the-snow-day
+summary: Tuyết chắn kín cửa nhà ông Grant; Hana và Kenji mang xẻng sang hỏi ông cần giúp gì.
+scene: snow-yard
+prop: snowman x=260 y=720 back
+cast: hana name=Hana look=girl x=520 voice=en-US-AnaNeural style.hair=bob style.hairColor=#1F1C22 style.sleeve=1 style.top=#E5484D style.topShade=#C73A3F style.scarf=#F2C14E
+cast: kenji name=Kenji look=boy x=770 voice=en-US-AnaNeural pitch=-12Hz style.hairColor=#1F1C22 style.sleeve=1 style.top=#3F7FCB style.topShade=#2F66AA style.hat=cap
+cast: grant name="Mr. Grant" vi="Ông Grant" look=grandpa x=1230 voice=en-US-ChristopherNeural rate=-12% pitch=-8Hz style.top=#8A7A64 style.topShade=#75664F
+gloss: snowman, shovel
+words: help; need; shop; milk; snow
+focus: Đề nghị giúp đỡ
+pattern: Can we help you? · Do you need anything? · We can… · Thank you. Yes, please!
+explain: Đề nghị giúp: "Can I/we help you?" hoặc hỏi "Do you need anything?". Nhận lời thì đáp "Yes, please!" kèm cảm ơn; từ chối lịch sự: "No, thank you. I'm OK."
+keys: can we help / do you need / we can / yes, please
+
+hana: Hello, Mr. Grant! Are you OK? | Chào ông Grant ạ! Ông có sao không ạ? [worried wave]
+grant: Hello, Hana. I can't open my door. | Chào Hana. Ông không mở cửa được. [sad]
+kenji: Wow, that's a lot of snow! | Oa, tuyết nhiều quá ông ạ! [surprised]
+hana: Can we help you? We have Dad's shovel. | Chúng cháu giúp ông được không ạ? Chúng cháu có xẻng của bố đây. [happy]
+grant: Oh, thank you. Yes, please! | Ồ, cảm ơn các cháu. Được thế thì tốt quá! [happy]
+kenji: I can help, too. I have a small shovel. | Cháu cũng giúp được ạ. Cháu có một cái xẻng nhỏ. [happy cheer]
+grant: You are very kind children. | Các cháu ngoan quá. [happy]
+hana: Do you need anything from the shop? | Ông có cần mua gì ở cửa hàng không ạ? [thinking]
+grant: Hmm. Some milk and some bread, please. | Ừm. Cho ông ít sữa và bánh mì nhé. [thinking ~money:10]
+kenji: We can go now! | Chúng cháu đi luôn đây ạ! [happy]
+grant: Wait! First the door, then the shop. | Khoan đã! Dọn cửa trước, rồi hẵng đi cửa hàng. [explain]
+hana: OK! And our snowman can help, too. | Vâng ạ! Người tuyết của chúng cháu cũng giúp nữa. [happy point @snowman grant:happy]

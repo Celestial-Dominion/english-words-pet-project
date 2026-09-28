@@ -1,0 +1,34 @@
+=== vd-c1-the-anomaly
+title: I Feel I Have to Raise This | Tôi thấy mình phải nêu chuyện này
+source: st-c1-the-anomaly
+summary: Nadia mang bản in số liệu đến gặp Graham — người thầy cô kính trọng — để nêu điểm bất thường trong báo cáo một cách lễ độ nhưng không lùi bước.
+scene: office
+prop: report x=830
+cast: nadia name=Nadia look=woman x=520 voice=en-US-EmmaNeural pitch=-2Hz style.hair=long style.hairColor=#2C1A12 style.skin=#C68E6A style.skinShade=#B07B58 style.outfit=blouse style.top=#5DADE2 style.topShade=#4A98CC
+cast: graham name=Graham look=dad x=1160 voice=en-US-RogerNeural pitch=-4Hz style.hair=part style.hairColor=#9A9A9A style.outfit=tie style.top=#EAF2F8 style.topShade=#D4E6F1 style.glasses=square
+names: Nadia, Graham, CardiaSense, Friday
+words: anomaly; compliance; confidential; scrutiny; integrity; liability
+focus: Nêu một mối lo ngại nhạy cảm với cấp trên một cách khéo léo
+pattern: I may be wrong, but… · I feel I have to raise… · I'm not entirely comfortable with… · With respect, … · I'd be grateful if… · I'm afraid I can't…
+explain: Mở lời khiêm tốn nhưng rõ ý: "I may be wrong, but…", "I feel I have to raise something." Bày tỏ sự không đồng tình mà không buộc tội: "I'm not entirely comfortable with…". Phản bác cấp trên lịch sự: "With respect, …". Đề nghị cụ thể: "I'd be grateful if we could…". Giữ lập trường: "I'm afraid I can't…". Tránh "You changed the data!" — nói về sự việc, không công kích con người.
+keys: i may be wrong, but / i feel i have to raise / not entirely comfortable / with respect / i'd be grateful if / i'm afraid i can't
+
+nadia: Have you got a minute, Graham? I feel I have to raise something about the CardiaSense report. | Anh có rảnh một chút không, Graham? Tôi thấy mình phải nêu một chuyện về báo cáo CardiaSense. [talking @report ipa=minute:ˈmɪnɪt]
+graham: Of course. Sit down. You look as if you haven't slept. | Tất nhiên rồi. Ngồi đi. Trông cô như cả đêm không ngủ. [nod]
+nadia: I may be wrong, but there's an anomaly in the failure figures. The draft is much lower than the hospital data. | Có thể tôi sai, nhưng có một điểm bất thường trong số liệu hỏng hóc. Bản nháp thấp hơn nhiều so với dữ liệu từ bệnh viện. [explain @report]
+graham: Ah. Those are the excluded cases. Most of them were patient error, as far as we can tell. | À. Đó là những trường hợp bị loại. Theo những gì chúng ta biết thì phần lớn là do lỗi của bệnh nhân. [thinking]
+nadia: That's what the note says. But several devices failed while patients were in hospital beds, supervised by nurses. | Chú thích ghi vậy. Nhưng một số thiết bị đã hỏng khi bệnh nhân đang nằm giường bệnh, có y tá giám sát. [explain graham:surprised]
+graham: Nadia, clinical data is messy. You learn to use your judgment. | Nadia, dữ liệu lâm sàng lộn xộn lắm. Rồi cô sẽ học cách tự phán đoán. [shrug ipa=use:juz]
+nadia: I understand that, and I've learned a great deal from you. But I'm not entirely comfortable with how the exclusions were made. | Tôi hiểu, và tôi đã học được rất nhiều từ anh. Nhưng tôi không hoàn toàn yên tâm với cách những trường hợp đó bị loại ra. [worried]
+graham: If we report that rate, sales stop for a year. Three hundred people could lose their jobs. | Nếu ta báo cáo tỉ lệ đó, việc bán hàng sẽ dừng cả năm. Ba trăm người có thể mất việc. [explain]
+nadia: With respect, if the devices are failing, the bigger risk is to patients. And to the company, in terms of liability. | Xin phép nói thẳng, nếu thiết bị đang hỏng, rủi ro lớn hơn là với bệnh nhân. Và với công ty nữa, xét về trách nhiệm pháp lý. [explain]
+graham: You're very sure of yourself for someone who has been here eighteen months. | Cô tự tin quá nhỉ, với một người mới ở đây mười tám tháng. [angry nadia:sad]
+nadia: I'm not sure at all. That's exactly why I think someone independent should look at it. | Tôi hoàn toàn không chắc. Chính vì thế tôi nghĩ nên có ai đó độc lập xem xét. [shy]
+graham: Leave it with me. I'll speak to engineering, and we'll sort it out before Friday. | Cứ để đó cho tôi. Tôi sẽ nói chuyện với bên kỹ thuật, và chúng ta sẽ giải quyết trước thứ Sáu. [nod]
+nadia: I'd be grateful if we could delay the submission until compliance has reviewed the cases. | Tôi sẽ rất biết ơn nếu chúng ta có thể hoãn nộp báo cáo cho đến khi bộ phận tuân thủ rà soát xong các trường hợp. [explain]
+graham: Compliance? This is an internal, confidential matter. Why involve them? | Bộ phận tuân thủ ư? Đây là việc nội bộ, cần bảo mật. Việc gì phải lôi họ vào? [surprised]
+nadia: Because the report will face scrutiny from the regulators anyway. It's better if the questions come from us first. | Vì đằng nào báo cáo cũng sẽ bị cơ quan quản lý soi xét. Tốt hơn là những câu hỏi ấy xuất phát từ chính chúng ta trước. [explain]
+graham: And if I ask you to trust me on this, as a personal favour? | Còn nếu tôi nhờ cô tin tôi chuyện này, coi như một ân huệ cá nhân thì sao? [thinking]
+nadia: I'm afraid I can't, Graham. Not with this. It's a question of integrity, and I think you'd say the same in my place. | Tôi e là không thể, Graham ạ. Chuyện này thì không. Đây là vấn đề liêm chính, và tôi nghĩ ở vị trí của tôi anh cũng sẽ nói như vậy. [sad]
+graham: Perhaps I would have, once. Then do what you think is right, Nadia. Just don't expect me to thank you for it. | Có lẽ từng có lúc tôi cũng sẽ nói thế. Vậy thì cô cứ làm điều cô cho là đúng, Nadia. Chỉ đừng mong tôi cảm ơn cô vì điều đó. [tired nadia:sad]
+gloss: exclusions, favour

@@ -1,0 +1,34 @@
+=== vd-b2-the-numbers
+title: He Denied Everything | Ông ta phủ nhận mọi thứ
+source: st-b2-the-numbers
+summary: Sau cuộc điều tra, Hannah kể lại cho bạn luật sư Sofia ai đã nói gì — luyện các động từ tường thuật như deny, claim, insist, admit, warn.
+scene: cafe
+prop: mug x=850
+cast: sofia name=Sofia look=woman x=520 voice=en-US-JennyNeural pitch=-2Hz style.hair=long style.hairColor=#3B2314 style.skin=#C68E5E style.skinShade=#B07A4C style.outfit=suit style.top=#6C3483 style.topShade=#5B2C6F
+cast: hannah name=Hannah look=woman x=1160 voice=en-US-EmmaNeural style.hair=bob style.hairColor=#D4B483 style.outfit=cardigan style.top=#5D6D7E style.topShade=#4D5B69
+names: Sofia, Hannah, Graham, Northfield, Adebayo, Derek, Redwood, Spain
+words: deny; claim; insist; refuse; admit; accuse
+focus: Tường thuật bằng động từ: deny, claim, insist, refuse, admit, warn
+pattern: He denied + V-ing · He claimed (that)… · He insisted that… · He refused to… · He admitted + V-ing · She warned/advised me to… · You suggested + V-ing
+explain: Động từ tường thuật cho biết thái độ người nói, không chỉ lời nói. Chú ý cấu trúc đi kèm: "deny/admit + V-ing" (He denied knowing…), "refuse + to V" (He refused to answer), "warn/advise + tân ngữ + to V" (He advised me to leave it alone), "suggest + V-ing" (You suggested keeping a record), "accuse someone of + V-ing".
+keys: denied / claimed / insisted / refused to / admitted / advised me to / accused / suggested
+
+sofia: So, tell me everything. What happened when the investigators arrived? | Vậy, kể hết cho mình nghe đi. Chuyện gì xảy ra khi các điều tra viên đến? [happy @mug]
+hannah: At first, Graham denied knowing anything about Northfield. | Ban đầu, Graham phủ nhận việc biết bất cứ điều gì về Northfield. [explain]
+sofia: Of course he did. What exactly did he say? | Tất nhiên rồi. Chính xác thì ông ta đã nói gì? [thinking]
+hannah: He claimed it was a genuine supplier. He even insisted that the delivery records had been lost in the system. | Ông ta khẳng định đó là một nhà cung cấp thật. Thậm chí còn một mực cho rằng hồ sơ giao hàng bị thất lạc trong hệ thống. [explain ipa=records:=]
+sofia: And did the investigators believe him? | Thế các điều tra viên có tin ông ta không? [surprised]
+hannah: Not for a second. Ms. Adebayo asked him to explain why the money had ended up in Spain. | Không một giây nào. Bà Adebayo yêu cầu ông ta giải thích vì sao tiền lại chạy sang Tây Ban Nha. [shake]
+sofia: What did he do then? | Rồi ông ta làm gì? [thinking]
+hannah: He refused to answer at first. Then he admitted taking the money and offered to resign. | Lúc đầu ông ta từ chối trả lời. Rồi ông ta thừa nhận đã lấy tiền và xin từ chức. [sad]
+sofia: Wow. And what about Derek? He warned you to stay quiet, didn't he? | Chà. Còn Derek thì sao? Anh ta đã cảnh báo cậu im lặng, phải không? [thinking]
+hannah: Yes, he advised me to leave it alone. Now he's telling everyone he always had doubts. | Ừ, anh ta khuyên mình bỏ qua. Giờ anh ta lại đi nói với mọi người là mình luôn nghi ngờ từ đầu. [angry]
+sofia: That's typical. Has anyone accused you of anything? | Điển hình thật. Có ai buộc tội cậu điều gì không? [worried]
+hannah: Someone left a note calling me a traitor. But nobody has said it to my face. | Có người để lại mẩu giấy gọi mình là kẻ phản bội. Nhưng chưa ai nói thẳng vào mặt mình. [sad]
+sofia: Remember what I told you. You can't be punished for reporting fraud in good faith. | Nhớ điều mình đã nói nhé. Cậu không thể bị trừng phạt vì báo cáo gian lận với thiện chí. [explain]
+hannah: I know. You also suggested keeping a record of everything, and I'm so glad I did. | Mình biết. Cậu còn gợi ý ghi chép lại mọi thứ, và mình rất mừng là đã làm vậy. [nod ipa=record:=]
+sofia: So what will you do now? Stay at Redwood? | Vậy giờ cậu sẽ làm gì? Ở lại Redwood à? [thinking]
+hannah: I haven't decided. My mother keeps reminding me that I have a mortgage to pay! | Mình chưa quyết. Mẹ mình cứ nhắc mãi là mình còn khoản vay mua nhà phải trả! [shrug]
+sofia: And what does your conscience say? | Thế lương tâm cậu nói gì? [thinking]
+hannah: It says I did the right thing. It's just a bit lonely right now. | Nó nói mình đã làm đúng. Chỉ là lúc này hơi cô đơn một chút. [sad sofia:sad]
+gloss: investigators, traitor, mortgage

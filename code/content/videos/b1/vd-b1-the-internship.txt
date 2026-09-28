@@ -1,0 +1,35 @@
+=== vd-b1-the-internship
+title: What Exactly Did He Say? | Chính xác thì ông ấy nói gì?
+source: st-b1-the-internship
+summary: Clara trở về toà soạn sau buổi phỏng vấn ở quán Green Leaf; ông Donovan bắt cô thuật lại từng lời Felipe đã nói.
+scene: office
+prop: notebook x=800
+cast: donovan name="Mr. Donovan" vi="Ông Donovan" look=grandpa x=540 voice=en-US-RogerNeural rate=-4% style.glasses=true style.outfit=shirt style.top=#6B7B8C style.topShade=#58677A
+cast: clara name=Clara look=woman x=1160 voice=en-US-AvaNeural pitch=+6Hz style.hair=ponytail style.hairColor=#7A4A2A style.outfit=cardigan style.top=#D96C4A style.topShade=#BF5A3A
+names: Clara, Felipe, Donovan
+words: admit; organic; publish; temporary; ashamed; include
+focus: Thuật lại lời người khác (câu tường thuật)
+pattern: He said (that)… · He told me (that)… · He admitted that… · He asked me (not) to… · What exactly did he say?
+explain: Khi thuật lại, động từ thường lùi một thì: "My costs have gone up" → "He said his costs had gone up"; "I will change it" → "He said he would change it". "Say" không cần người nghe, "tell" thì cần: "He told me…". Thuật lại lời nhờ: "He asked me (not) to + động từ".
+keys: he said / he told me / admitted that / asked me not to / what exactly did he say
+
+donovan: So, did you talk to Felipe? | Vậy cô đã nói chuyện với Felipe chưa? [thinking]
+clara: Yes, I went to the café this morning. | Rồi ạ, sáng nay em đến quán. [nod @notebook]
+donovan: And? What exactly did he say? | Rồi sao? Chính xác thì anh ta nói gì? [thinking]
+clara: At first, he said that all his food was organic. | Lúc đầu, anh ấy nói toàn bộ đồ ăn của anh ấy là hữu cơ. [explain]
+donovan: Did you show him the photos? | Cô có cho anh ta xem ảnh không? [thinking]
+clara: Yes. Then he admitted that he'd been buying from a supermarket. | Có ạ. Rồi anh ấy thừa nhận là đã mua hàng từ một siêu thị. [explain]
+donovan: Did he tell you why? | Anh ta có nói vì sao không? [thinking]
+clara: He said his wife was ill and his costs had gone up. | Anh ấy nói vợ anh ấy bị ốm và chi phí tăng lên. [sad]
+donovan: I see. And the farms on his menu? | Tôi hiểu. Còn mấy trang trại trong thực đơn? [thinking]
+clara: He told me he hadn't used them for two years. | Anh ấy bảo em là đã hai năm nay không lấy hàng của họ. [explain ipa=used:=]
+donovan: Two years? Didn't he think about his customers? | Hai năm ư? Anh ta không nghĩ đến khách hàng à? [surprised]
+clara: He said it was only supposed to be temporary. | Anh ấy nói lẽ ra chuyện đó chỉ là tạm thời. [sad]
+donovan: Anything else? | Còn gì nữa không? [thinking]
+clara: He asked me not to publish the story. | Anh ấy xin em đừng đăng bài. [worried]
+donovan: They always do. What did you tell him? | Ai cũng vậy cả. Cô đã nói gì với anh ta? [neutral]
+clara: I said we would include his side of the story. | Em nói mình sẽ đưa cả phần giải thích của anh ấy vào. [explain]
+donovan: Good. That's fair. Did he apologize? | Tốt. Thế là công bằng. Anh ta có xin lỗi không? [nod]
+clara: Yes. He said he was ashamed and that he would change the sign. | Có ạ. Anh ấy nói anh ấy thấy xấu hổ và sẽ thay tấm biển. [sad]
+donovan: Then write it exactly as he said it. Readers will respect his honesty. | Vậy thì viết đúng như lời anh ta. Độc giả sẽ trân trọng sự thành thật của anh ta. [explain]
+clara: Don't worry. I recorded the whole interview. | Chú yên tâm. Em đã ghi âm toàn bộ buổi phỏng vấn. [happy donovan:happy ipa=recorded:=]

@@ -1,0 +1,35 @@
+=== vd-b1-the-night-shift
+title: How Long Have You Been Feeling Like This? | Bà thấy như vậy từ bao giờ?
+source: st-b1-the-night-shift
+summary: Ba rưỡi sáng, bác sĩ Omar hỏi bệnh bà Doyle — người chỉ nói mình "hơi mệt" — và từng câu hỏi dần cho thấy điều nghiêm trọng hơn.
+scene: hospital
+cast: omar name="Dr. Omar" vi="Bác sĩ Omar" look=man x=560 voice=en-US-GuyNeural pitch=+2Hz style.hair=short style.hairColor=#1A1A1A style.skin=#B98160 style.skinShade=#A06A4A style.outfit=patient style.top=#FFFFFF style.topShade=#E6E6E6
+cast: doyle name="Mrs. Doyle" vi="Bà Doyle" look=grandma x=1140 voice=en-US-AriaNeural pitch=-10Hz rate=-10% style.outfit=patient style.top=#9EC5E8 style.topShade=#86B1D6
+names: Doyle, Grace
+words: symptom; dizzy; headache; weak; hurt; normal
+focus: Hỏi và kể triệu chứng bệnh
+pattern: How are you feeling? · How long have you been feeling…? · Does it hurt when…? · I've been feeling… · Have you had…before? · Can you…for me?
+explain: Hỏi thời gian của triệu chứng bằng hiện tại hoàn thành tiếp diễn: "How long have you been feeling dizzy?" – "Since this evening." Kể triệu chứng: "I've been feeling weak.", "I've got a headache." Bác sĩ yêu cầu lịch sự: "Can you squeeze my fingers for me?".
+keys: how are you feeling / how long have you been / does it hurt when / i've been feeling / have you had / can you
+
+omar: Good evening, Mrs. Doyle. How are you feeling? | Chào bà Doyle. Bà thấy trong người thế nào ạ? [neutral]
+doyle: Oh, I'm fine, dear. Just a bit tired. | Ồ, tôi ổn mà, cậu. Chỉ hơi mệt thôi. [happy]
+omar: How long have you been feeling tired? | Bà thấy mệt từ bao giờ ạ? [thinking]
+doyle: Since this evening, I suppose. After dinner. | Chắc là từ tối nay. Sau bữa tối. [thinking]
+omar: Have you got a headache? | Bà có đau đầu không ạ? [thinking]
+doyle: A small one. And I've been feeling a little dizzy. | Hơi đau một chút. Và tôi thấy hơi chóng mặt. [thinking]
+omar: Does it hurt when you move your head? | Bà cử động đầu có đau không ạ? [thinking]
+doyle: No, not really. It's just… strange. | Không, không hẳn. Chỉ là… là lạ. [confused]
+omar: Your blood pressure is normal. You came in with a minor infection, didn't you? | Huyết áp của bà bình thường. Bà nhập viện vì một ca nhiễm trùng nhẹ, phải không ạ? [thinking]
+doyle: Yes, but the medicine is working properly now. | Phải, nhưng giờ thuốc đang có tác dụng tốt rồi. [nod]
+omar: Have you had these symptoms before? | Trước đây bà từng có những triệu chứng này chưa ạ? [thinking]
+doyle: Never. I'm usually as strong as a horse. | Chưa bao giờ. Bình thường tôi khoẻ như vâm. [happy]
+omar: Grace tells me you like crosswords. | Chị Grace bảo cháu là bà thích giải ô chữ. [happy]
+doyle: I love them. But tonight I couldn't find the words. How silly. | Tôi mê lắm. Nhưng tối nay tôi không nghĩ ra từ nào. Thật ngớ ngẩn. [sad]
+omar: Can you squeeze my fingers for me? Both hands, please. | Bà bóp tay cháu giúp được không ạ? Cả hai tay nhé. [explain]
+doyle: Like this? My right hand feels a bit weak. | Thế này à? Tay phải của tôi thấy hơi yếu. [worried]
+omar: Thank you. Now can you smile for me? A big smile. | Cảm ơn bà. Giờ bà cười giúp cháu được không? Cười thật tươi nhé. [explain]
+doyle: Is something wrong, Doctor? | Có chuyện gì không ổn à, bác sĩ? [worried]
+omar: I'd like to do a scan, just to be safe. It's probably nothing, but we need to check quickly. | Cháu muốn cho bà chụp phim, cho chắc thôi ạ. Có lẽ không sao, nhưng mình cần kiểm tra ngay. [explain]
+doyle: All right. You're very kind to take so much time over an old woman. | Được thôi. Cậu tử tế quá, mất ngần ấy thời gian cho một bà già. [happy omar:happy]
+gloss: crosswords, squeeze

@@ -1,0 +1,32 @@
+=== vd-b2-the-signal
+title: It Was the Timing That… | Chính thời điểm đã…
+source: st-b2-the-signal
+summary: Sáng hôm sau khi phát hiện "tín hiệu người ngoài hành tinh" đến từ lò vi sóng, Rhea và giáo sư Whitby nhìn lại mọi chuyện — luyện câu chẻ để nhấn mạnh.
+scene: mountain-night
+cast: rhea name=Rhea look=woman x=520 voice=en-US-AvaNeural pitch=+2Hz style.hair=curly style.hairColor=#2B1B14 style.skin=#C68E5E style.skinShade=#B07A4C style.outfit=jacket style.top=#8E44AD style.topShade=#7D3C98
+cast: whitby name="Professor Whitby" vi="Giáo sư Whitby" look=grandpa x=1160 voice=en-US-ChristopherNeural pitch=-5Hz rate=-4% style.outfit=cardigan style.top=#2E4053 style.topShade=#273746 style.glasses=round
+names: Rhea, Whitby
+words: timing; attention; notice; honest; method; careful
+focus: Nhấn mạnh bằng câu chẻ: What… is…, It was… that…
+pattern: It was the timing that… · What really caught my attention was… · What I don't understand is… · What we should have done is… · It's the newspapers that… · What matters most is… · All I wanted was…
+explain: Câu chẻ giúp nhấn mạnh một thông tin: "It was + phần nhấn mạnh + that…" → "It was the timing that gave it away." "What + mệnh đề + is/was + phần nhấn mạnh" → "What really caught my attention was the beep." "All I wanted was…" = điều duy nhất tôi muốn là… Rất hay dùng khi giải thích, kể lại hoặc bày tỏ cảm xúc.
+keys: it was the timing that / what really caught my attention / what i don't understand is / what we should have done is / it's the newspapers that / what matters most is / all i wanted was
+
+whitby: So, Rhea. You've solved it. How did you work it out in the end? | Vậy là, Rhea. Cô đã giải được rồi. Rốt cuộc cô tìm ra bằng cách nào? [happy]
+rhea: It was the timing that gave it away. I noticed something odd: the bursts only happened when people were in the building. | Chính thời điểm đã làm lộ ra tất cả. Tôi để ý thấy một điều lạ: các luồng tín hiệu chỉ xuất hiện khi có người trong toà nhà. [explain]
+whitby: And what made you think of the microwave? | Còn điều gì khiến cô nghĩ đến chiếc lò vi sóng? [thinking]
+rhea: What really caught my attention was the beep. Someone opened the door early, and I just knew. | Điều thực sự khiến tôi chú ý là tiếng bíp. Có người mở cửa lò sớm, và tôi biết ngay. [explain]
+whitby: Brilliant. What I don't understand is why nobody noticed it before. | Xuất sắc. Điều tôi không hiểu là vì sao trước đây không ai nhận ra. [confused]
+rhea: The thing is, we don't usually observe at that frequency. It was just bad luck. | Vấn đề là chúng ta thường không quan sát ở tần số đó. Chỉ là không may thôi. [shrug]
+whitby: I was suspicious from the start, but what we should have done is check the building first, before looking at the stars. | Tôi đã nghi ngờ ngay từ đầu, nhưng điều lẽ ra chúng ta nên làm là kiểm tra toà nhà trước, rồi mới nhìn lên các vì sao. [sad]
+rhea: We investigated every satellite and every plane. It's the newspapers that worry me now. They'll say we fooled everyone. | Chúng ta đã điều tra từng vệ tinh, từng chiếc máy bay. Giờ chính báo chí mới khiến tôi lo. Họ sẽ nói chúng ta lừa mọi người. [worried]
+whitby: What matters most is that we're honest about it. Science corrects its own mistakes. | Điều quan trọng nhất là chúng ta trung thực về chuyện này. Khoa học tự sửa sai lầm của chính nó. [explain]
+rhea: All I wanted was to find something real. Now we're famous for a microwave. | Tất cả những gì tôi muốn là tìm ra một điều có thật. Giờ chúng ta lại nổi tiếng nhờ một chiếc lò vi sóng. [sad]
+whitby: What you found was real. It just wasn't what we hoped for. | Điều cô tìm ra là có thật. Chỉ là nó không phải điều chúng ta mong đợi. [nod]
+rhea: I suppose that's true. So what happens now? | Tôi đoán là đúng vậy. Vậy giờ sẽ thế nào ạ? [thinking]
+whitby: What I'd like you to do is write it up properly, step by step. Other observatories can learn from it. | Điều tôi muốn cô làm là viết lại cẩn thận, từng bước một. Các đài quan sát khác có thể học được từ đó. [explain]
+rhea: A paper about a microwave? People will laugh. | Một bài báo về lò vi sóng ư? Người ta sẽ cười cho. [surprised]
+whitby: Let them laugh. It was your careful method that found the answer, not luck. | Cứ để họ cười. Chính phương pháp cẩn thận của cô đã tìm ra câu trả lời, chứ không phải may mắn. [happy]
+rhea: Thank you. The one thing I've definitely learned is to check the kitchen first. | Cảm ơn thầy. Điều duy nhất tôi chắc chắn đã học được là phải kiểm tra căn bếp trước. [happy]
+whitby: And what I've learned is never to trust a microwave that's older than you are. | Còn điều tôi học được là đừng bao giờ tin một chiếc lò vi sóng già hơn cả cô. [happy rhea:happy]
+gloss: frequency, microwave, observatories

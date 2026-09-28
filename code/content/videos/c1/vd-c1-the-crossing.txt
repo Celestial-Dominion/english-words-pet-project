@@ -1,0 +1,34 @@
+=== vd-c1-the-crossing
+title: The Next Thing I Knew | Rồi ngay sau đó
+source: st-c1-the-crossing
+summary: Trên bờ kè cảng lúc bình minh, Maren kể lại cho nhà báo Nell đêm cô tìm thấy chiếc bè cứu sinh của Jacques giữa Nam Đại Dương — bằng những cụm từ kể chuyện đầy kịch tính.
+scene: sea-dawn
+cast: nell name=Nell look=woman x=520 voice=en-US-AriaNeural pitch=+1Hz rate=+2% style.hair=bob style.hairColor=#D9B26F style.outfit=coat style.top=#117864 style.topShade=#0E6655
+cast: maren name=Maren look=woman x=1160 voice=en-US-EmmaNeural pitch=-5Hz rate=-2% style.hair=ponytail style.hairColor=#E3C16F style.outfit=jacket style.top=#E74C3C style.topShade=#CB4335
+names: Nell, Maren, Jacques, Cape Town, France
+words: coordinate; radius; fatigue; flare; adrenaline; precision
+focus: Kể lại một trải nghiệm kịch tính một cách sinh động, có cao trào
+pattern: You'll never believe… · All of a sudden, … · At that moment, … · The next thing I knew, … · It was only when… that… · To cut a long story short, …
+explain: Mở chuyện gây tò mò: "You'll never believe what happened." Tạo bất ngờ: "All of a sudden…", "At that moment…". Đẩy nhịp: "The next thing I knew, …". Câu chẻ nhấn thời điểm nhận ra: "It was only when I saw the flare that I knew he was alive." Rút gọn phần dài: "To cut a long story short, …". Dùng thì quá khứ tiếp diễn làm nền, quá khứ đơn cho sự kiện chính.
+keys: you'll never believe / all of a sudden / at that moment / the next thing i knew / it was only when / to cut a long story short
+
+nell: Maren, welcome home. Fifth place, and thousands of people cheering as if you'd won. How does it feel? | Maren, chào mừng chị về nhà. Hạng năm, mà hàng nghìn người reo hò như thể chị vô địch. Chị thấy thế nào? [happy]
+maren: Strange. Honestly, the finish feels less real than that night in the Southern Ocean. | Lạ lắm. Thật lòng mà nói, lúc về đích còn kém thật hơn cái đêm ở Nam Đại Dương. [thinking]
+nell: Tell me about that night, from the beginning. | Kể tôi nghe về đêm đó, từ đầu nhé. [nod]
+maren: I was asleep, as much as anyone sleeps out there. All of a sudden, the satellite phone rang. At three in the morning, that's never good news. | Tôi đang ngủ, nếu ngoài đó người ta ngủ được. Bỗng nhiên, điện thoại vệ tinh reo. Lúc ba giờ sáng, đó chẳng bao giờ là tin tốt. [explain]
+nell: And it was race control? | Và đó là ban điều hành cuộc đua? [thinking]
+maren: Yes. Jacques's beacon had gone off, and then nothing. They sent me his coordinates, ninety miles behind me. | Vâng. Đèn hiệu của Jacques đã phát tín hiệu, rồi im bặt. Họ gửi cho tôi toạ độ của anh ấy, cách phía sau tôi chín mươi dặm. [explain]
+nell: Ninety miles doesn't sound very far. | Chín mươi dặm nghe có vẻ không xa lắm. [thinking]
+maren: You'll never believe how long it took. Eleven hours, straight into the wind, with waves as tall as a house. | Chị sẽ không tin nổi mất bao lâu đâu. Mười một tiếng, đi thẳng vào gió, với những con sóng cao bằng cả ngôi nhà. [explain ipa=house:= ipa=wind:wɪnd]
+nell: How did you stay awake? | Làm sao chị giữ được tỉnh táo? [surprised]
+maren: Adrenaline, mostly. But the fatigue was terrible. At one point I fell asleep at the wheel, and the next thing I knew, a wave was pouring into the cockpit. | Chủ yếu là nhờ adrenaline. Nhưng sự mệt mỏi thật khủng khiếp. Có lúc tôi ngủ gục bên tay lái, rồi ngay sau đó, một con sóng đã đổ ập vào buồng lái. [explain]
+nell: And when you reached the area, you just started looking? | Và khi đến khu vực đó, chị cứ thế bắt đầu tìm? [thinking]
+maren: The beacon was only accurate within a radius of several kilometres. In that sea, a raft is invisible from a hundred metres. | Đèn hiệu chỉ chính xác trong bán kính vài ki-lô-mét. Giữa biển như thế, một chiếc bè vô hình ngay cả ở khoảng cách trăm mét. [explain]
+maren: I searched for four hours in total darkness. Twice I thought I saw him, and twice it was only foam. | Tôi tìm suốt bốn giờ trong bóng tối mịt mùng. Hai lần tôi tưởng thấy anh ấy, và cả hai lần chỉ là bọt sóng. [sad]
+nell: Were you starting to give up? | Chị có bắt đầu muốn bỏ cuộc không? [worried]
+maren: Almost. And then, at that moment, a red flare went up, less than a kilometre to the east. | Suýt nữa. Và rồi, đúng lúc đó, một quả pháo sáng đỏ vọt lên, cách chưa đầy một ki-lô-mét về phía đông. [surprised nell:surprised]
+maren: It was only when I saw the flare that I knew for certain he was alive. | Chỉ khi nhìn thấy pháo sáng tôi mới biết chắc anh ấy còn sống. [tearful]
+nell: How do you get someone out of a raft in a storm? | Làm sao đưa được một người ra khỏi bè giữa cơn bão? [thinking]
+maren: With a lot of luck and a little precision. My first two attempts failed. On the third, he caught my rope. | Với rất nhiều may mắn và một chút chính xác. Hai lần đầu tôi thất bại. Đến lần thứ ba, anh ấy bắt được dây của tôi. [explain]
+maren: To cut a long story short, I took him to Cape Town, rejoined the race and finished fifth. And I'd do it again tomorrow. | Nói ngắn gọn thì, tôi đưa anh ấy đến Cape Town, quay lại cuộc đua và về thứ năm. Và ngày mai tôi vẫn sẽ làm lại như thế. [happy nell:happy]
+gloss: beacon, raft, foam, cockpit, rejoined, kilometres

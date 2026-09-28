@@ -1,0 +1,40 @@
+=== vd-c2-the-expert-witness
+title: Isn't It the Case That…? | Chẳng phải là…?
+source: st-c2-the-expert-witness
+summary: Trong buổi tập đối chất ở văn phòng luật, Sebastian dạy luật sư tập sự Nia cách dùng câu hỏi dẫn dắt ngắn gọn để một nhân chứng trung thực tự nói ra lỗ hổng.
+scene: office
+cast: sebastian name=Sebastian look=grandpa x=520 voice=en-US-ChristopherNeural pitch=-4Hz rate=-3% style.hair=part style.hairColor=#BDBDBD style.outfit=suit style.top=#17202A style.topShade=#111820 style.glasses=round
+cast: nia name=Nia look=woman x=1160 voice=en-US-EmmaNeural pitch=+2Hz rate=+2% style.hair=curly style.hairColor=#1A1A1A style.skin=#5A3522 style.skinShade=#48291A style.outfit=suit style.top=#4A235A style.topShade=#3B1C48
+names: Sebastian, Nia, Marsh, Veridian, Holloway
+words: barrister; proprietary; omission; methodology; unequivocally; relentless
+focus: Đặt câu hỏi đối chất: câu hỏi dẫn dắt ngắn, mỗi câu một ý, buộc câu trả lời có/không
+pattern: Isn't it the case that…? · Would you agree that…? · Yes or no, please. · So it's fair to say that…? · You've told us that… Is that right? · No further questions.
+explain: Trong đối chất, dùng câu hỏi dẫn dắt để kiểm soát: "Isn't it the case that…?", "Would you agree that…?". Mỗi câu chỉ một sự kiện, để nhân chứng khó lảng tránh. Khi họ trả lời dài dòng, yêu cầu lịch sự: "Yes or no, please." Chốt lại bằng lời chính họ: "You've told us that… Is that right?", "So it's fair to say that…?". Dừng ngay khi đã có câu trả lời cần: "No further questions."
+keys: isn't it the case / would you agree / yes or no, please / fair to say / you've told us / no further questions
+
+nia: I've drafted forty questions for the engineer tomorrow. Would you look at them? | Em đã soạn bốn mươi câu hỏi cho kỹ sư ngày mai. Thầy xem giúp em được không ạ? [explain]
+sebastian: Forty? You'll be there until Christmas. Read me the first one. | Bốn mươi ư? Cô sẽ ở đó đến Giáng sinh mất. Đọc tôi nghe câu đầu tiên. [surprised ipa=read:rid]
+nia: "Could you explain to the court how the braking system works and why you believe it functioned properly?" | "Ông có thể giải thích cho toà hệ thống phanh hoạt động thế nào và vì sao ông tin nó đã vận hành đúng không?" [explain]
+sebastian: That's an invitation to give a lecture. He'll talk for twenty minutes and win the jury. | Đó là lời mời giảng bài. Anh ta sẽ nói hai mươi phút và thu phục bồi thẩm đoàn. [shake]
+nia: So what should I ask instead? | Vậy em nên hỏi gì thay vào đó ạ? [confused]
+sebastian: One fact per question. "Would you agree that you tested the brakes only in dry conditions?" | Mỗi câu một sự kiện. "Ông có đồng ý rằng ông chỉ thử phanh trong điều kiện khô ráo không?" [explain]
+nia: And if he says, "Well, it's more complicated than that"? | Còn nếu ông ta nói "Ờ, chuyện phức tạp hơn thế"? [thinking]
+sebastian: Then you smile and say, "Yes or no, please." Relentless, but always polite. | Thì cô mỉm cười và nói: "Xin trả lời có hoặc không." Không khoan nhượng, nhưng luôn lịch sự. [happy]
+nia: Doesn't that seem aggressive? | Như thế không có vẻ hung hăng sao ạ? [worried]
+sebastian: Only if your tone is. Juries dislike bullies, so ask as though you're genuinely curious. | Chỉ khi giọng cô hung hăng. Bồi thẩm đoàn ghét kẻ bắt nạt, nên hãy hỏi như thể cô thực sự tò mò. [explain]
+nia: Let me try. "Isn't it the case that your methodology relied on the manufacturer's own figures?" | Để em thử. "Chẳng phải là phương pháp luận của ông dựa vào chính số liệu của nhà sản xuất sao?" [thinking]
+sebastian: Good. Short, clear, and he can't deny it. What's next? | Tốt. Ngắn, rõ, và anh ta không thể chối. Tiếp theo là gì? [nod]
+nia: "Did you ask to see the raw data?" And he'll say the files were proprietary. | "Ông có yêu cầu xem dữ liệu thô không?" Và ông ta sẽ nói các tệp là độc quyền. [explain]
+sebastian: Then don't argue. Just confirm it. "You've told us the raw files were never shown to you. Is that right?" | Thì đừng tranh cãi. Chỉ cần xác nhận. "Ông vừa nói với chúng tôi rằng ông chưa bao giờ được xem các tệp thô. Đúng không?" [explain]
+nia: So I let his own answer make the point. | Vậy là em để chính câu trả lời của ông ta nói lên luận điểm. [thinking]
+sebastian: Exactly. The omission speaks for itself. You don't need to shout about it. | Chính xác. Sự thiếu sót tự nó đã nói lên tất cả. Cô không cần làm ầm lên. [nod]
+nia: And then, "So it's fair to say you can't tell us what the summary left out?" | Rồi sau đó: "Vậy có công bằng không khi nói rằng ông không thể cho chúng tôi biết bản tóm tắt đã bỏ đi những gì?" [explain]
+sebastian: Perfect. And the moment he agrees, you say three words. | Hoàn hảo. Và ngay khi anh ta đồng ý, cô nói năm chữ. [point]
+nia: "No further questions." Even if I've got thirty-seven left? | "Tôi không còn câu hỏi." Kể cả khi em còn ba mươi bảy câu? [surprised]
+sebastian: Especially then. Every extra question is a chance for him to repair the damage. | Nhất là khi đó. Mỗi câu hỏi thêm là một cơ hội để anh ta vãn hồi thiệt hại. [explain]
+nia: When I started at the bar, I thought a good barrister needed brilliant speeches. | Khi mới vào nghề, em cứ nghĩ một luật sư giỏi cần những bài diễn văn xuất sắc. [sad]
+sebastian: Speeches are for the end. Cross-examination is for listening, very carefully. | Diễn văn là để dành cho cuối cùng. Đối chất là để lắng nghe, thật cẩn thận. [explain]
+nia: I'll cut it to six questions tonight, then. | Vậy tối nay em sẽ rút xuống còn sáu câu. [nod]
+sebastian: Make it five. And ask them unequivocally, as if you already know the answers. | Năm câu thôi. Và hỏi thật dứt khoát, như thể cô đã biết sẵn câu trả lời. [happy nia:happy]
+names: Christmas
+gloss: drafted, braking, functioned, lecture, jury, juries, bullies, manufacturer's, summary, cross-examination

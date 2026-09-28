@@ -1,0 +1,39 @@
+=== vd-c2-force-majeure
+title: I'd Like to Escalate This | Tôi muốn đưa việc này lên cấp trên
+source: st-c2-force-majeure
+summary: Qua điện thoại, Clara nói chuyện với một nhân viên tổng đài của hãng bay: bình tĩnh trình bày sự việc, bác lý do "bất khả kháng" và yêu cầu chuyển khiếu nại lên cấp cao hơn.
+scene: airport
+cast: clara name=Clara look=woman x=520 voice=en-US-AvaNeural pitch=-2Hz rate=-2% style.hair=curly style.hairColor=#1A1A1A style.skin=#5A3522 style.skinShade=#48291A style.outfit=coat style.top=#6C3483 style.topShade=#5B2C6F
+cast: agent name=Agent look=man x=1160 voice=en-US-EricNeural pitch=+1Hz rate=+3% style.hair=short style.hairColor=#6D4C41 style.outfit=uniform style.top=#154360 style.topShade=#123A52
+names: Clara, Transalpine, Brandt, Vienna, Toronto
+words: chronology; recourse; escalate; reimbursement; courteous; conjecture
+focus: Khiếu nại chính thức và yêu cầu chuyển lên cấp trên một cách lịch sự nhưng kiên quyết
+pattern: I'd like to escalate this. · This is the third time I've… · I'm not satisfied with… · Could you put that in writing? · I'd like a reference number, please. · Who would be the right person to…?
+explain: Khi khiếu nại không được giải quyết, nói rõ bạn muốn chuyển lên: "I'd like to escalate this". Nêu lịch sử sự việc: "This is the third time I've written". Nói thẳng điều chưa thoả mãn: "I'm not satisfied with that explanation". Yêu cầu bằng chứng và dấu vết: "Could you put that in writing?", "I'd like a reference number, please". Hỏi người có thẩm quyền: "Who would be the right person to review this?". Giữ giọng bình tĩnh — kiên trì thường hiệu quả hơn giận dữ.
+keys: escalate this / third time / not satisfied with / put that in writing / reference number / right person to
+
+agent: Transalpine customer relations, how can I help? | Bộ phận quan hệ khách hàng Transalpine xin nghe, tôi có thể giúp gì? [explain]
+clara: Good morning. My name is Clara Oyelaran. I'm calling about a claim for a damaged cello. | Chào buổi sáng. Tôi tên là Clara Oyelaran. Tôi gọi về một yêu cầu bồi thường cho một cây đàn cello bị hỏng. [nod]
+agent: I see the file. We wrote to you last week. The limit for checked baggage is fifteen hundred euros. | Tôi thấy hồ sơ rồi. Chúng tôi đã viết thư cho chị tuần trước. Mức giới hạn cho hành lý ký gửi là một nghìn năm trăm euro. [explain]
+clara: I received it, thank you. With respect, it was rather perfunctory, and it didn't mention that I'd bought a seat for the instrument. | Tôi đã nhận được, cảm ơn anh. Nói thẳng thì nó khá chiếu lệ, và nó không nhắc đến việc tôi đã mua ghế cho cây đàn. [explain]
+agent: The instrument was checked in at the gate, so baggage rules apply. | Nhạc cụ đã được ký gửi ở cửa ra máy bay, nên áp dụng quy định hành lý. [shrug]
+clara: It was checked in because your supervisor refused to let it on board. That was the airline's decision, not mine. | Nó bị ký gửi vì giám sát viên của các anh không cho nó lên máy bay. Đó là quyết định của hãng, không phải của tôi. [point]
+agent: I'm afraid the damage may have been caused by turbulence. That's force majeure. | Tôi e là hư hại có thể do nhiễu động không khí gây ra. Đó là bất khả kháng. [explain]
+clara: May have been. That's a conjecture, not a finding. Has anyone actually examined the case? | "Có thể" thôi. Đó là một phỏng đoán, không phải một kết luận. Đã có ai thực sự kiểm tra chiếc hộp chưa? [thinking]
+agent: I'm not aware of an inspection, no. | Tôi không biết có cuộc kiểm tra nào, thưa chị. [confused]
+clara: Then I'm not satisfied with that explanation. This is the third time I've written, and each reply has ignored the seat. | Vậy thì tôi không hài lòng với lời giải thích đó. Đây là lần thứ ba tôi viết thư, và lần nào thư trả lời cũng lờ đi chiếc ghế. [explain]
+agent: I understand your frustration. | Tôi hiểu sự bực bội của chị. [sad]
+clara: I appreciate that, and I know it isn't your fault. But I'd like to escalate this to someone who can review the decision. | Tôi cảm kích điều đó, và tôi biết đó không phải lỗi của anh. Nhưng tôi muốn chuyển việc này lên một người có thể xem xét lại quyết định. [nod]
+agent: Normally escalations take up to thirty days. | Thông thường việc chuyển lên cấp trên mất đến ba mươi ngày. [explain]
+clara: That's fine. Who would be the right person to review a case involving a purchased seat? | Không sao. Ai sẽ là người phù hợp để xem xét một vụ việc liên quan đến một chiếc ghế đã được mua? [thinking]
+agent: That would be the complaints manager. I can pass on your details. | Đó sẽ là quản lý bộ phận khiếu nại. Tôi có thể chuyển thông tin của chị. [explain]
+clara: Thank you. Could you also put in writing the policy your supervisor quoted at the gate? I haven't been able to find it. | Cảm ơn anh. Anh có thể gửi bằng văn bản cho tôi chính sách mà giám sát viên đã trích dẫn ở cửa ra máy bay không? Tôi không tìm thấy nó ở đâu cả. [explain]
+agent: I'll ask. I'm not sure it's a written policy, to be honest. | Tôi sẽ hỏi. Thành thật mà nói, tôi không chắc đó là một chính sách bằng văn bản. [worried]
+clara: That's very helpful to know. I'd like a reference number for this call, please. | Biết được điều đó rất có ích. Làm ơn cho tôi một mã số tham chiếu cho cuộc gọi này. [nod]
+agent: Of course. It's TA four-four-seven-one-nine. | Tất nhiên rồi. Mã là TA bốn-bốn-bảy-một-chín. [explain]
+clara: Thank you. I've kept a full chronology, so I'll add this call to it. | Cảm ơn anh. Tôi có lưu một bản trình tự đầy đủ, nên tôi sẽ thêm cuộc gọi này vào đó. [explain]
+agent: May I ask what you're hoping for? Just so I can note it. | Tôi có thể hỏi chị mong muốn điều gì không? Chỉ để tôi ghi chú lại. [thinking]
+clara: Full reimbursement of the repair, which is thirty thousand euros. If that isn't possible, I'll need to understand what recourse I have. | Bồi hoàn toàn bộ chi phí sửa chữa, tức là ba mươi nghìn euro. Nếu điều đó không được, tôi cần biết mình có thể dựa vào đâu để khiếu nại tiếp. [explain]
+agent: I'll put all of that in the note. You've been very courteous, if I may say so. | Tôi sẽ ghi tất cả vào ghi chú. Nếu được phép nói, chị đã rất nhã nhặn. [happy]
+clara: So have you. I'd just like the next person to be as honest as you've been. | Anh cũng vậy. Tôi chỉ mong người tiếp theo cũng trung thực như anh. [happy agent:happy]
+gloss: perfunctory, force majeure, majeure, customer relations, claim, file, baggage, supervisor, turbulence, inspection, frustration, escalations, complaints, details, quoted, reference

@@ -39,6 +39,25 @@ python3 scripts/build-audio.py out/audio-sentences.json ../public/audio/sentence
 Giọng TTS **đã chốt: `en-US-AriaNeural`** — đổi giọng = build lại toàn bộ audio.
 `build-audio.py` resume được (bỏ qua file đã có) nên chạy nhiều đợt thoải mái.
 
+## E5 — Thư viện: bài đọc · truyện · video
+
+Nguồn: `content/{readings,stories,videos}/{a1..c2}/*.txt` (định dạng + quy ước: `docs/ENGLISH_CONTENT_PLAYBOOK.md`,
+`docs/ENGLISH_VIDEO_PLAYBOOK.md`). Thông số theo cấp nằm ở `lib/content-spec.mjs`.
+
+```sh
+node scripts/check-content.mjs [--level c2] [--id rd-…] [--draft]   # ✗ lỗi chặn build · ! cảnh báo
+node scripts/content-coverage.mjs                    # độ phủ từ đích theo cấp (R/S/V, ≥2 ngữ cảnh, ≥2 loại)
+node scripts/content-coverage.mjs --gaps b1 300      # từ đích chưa gặp / mới 1 ngữ cảnh, theo tần suất
+node scripts/content-coverage.mjs --topics c1        # phân bố chủ đề / thể loại / độ dài
+npm run content:build                                # = build-content → build-content-audio.py → build-content --prune
+node scripts/content-report.mjs [--topics]           # số bài, coverage, phút audio, dung lượng → out/content-report.json
+BASE=http://localhost:3012 node scripts/video-frames.mjs --level c2   # contact sheet soát hình video (dev server)
+```
+
+- `build-content-audio.py` resume được: bỏ qua track đã có mốc hợp lệ; bài có mốc câu cuối vượt độ dài file (luồng
+  edge-tts bị cụt đuôi) tự sinh lại. `--kind passage|video`, `--only <tiền tố id>`, `--verify` (đo lại trên PCM).
+- Cache: `scripts/.content-audio/` (mốc thời gian), `scripts/.video-tts-cache/` (từng lượt thoại) — xoá = sinh lại.
+
 ## Ghi chú
 
 `patch-missing.py`: vá từ bị rớt khỏi dump lớn (tháng, thứ, ca lẻ) bằng kaikki per-word API.

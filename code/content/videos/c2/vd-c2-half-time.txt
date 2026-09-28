@@ -1,0 +1,40 @@
+=== vd-c2-half-time
+title: I Won't Pretend This Is Easy | Cô sẽ không giả vờ rằng chuyện này dễ
+source: st-c2-half-time
+summary: Một năm sau trận chung kết, trước buổi tập đầu mùa, Siobhan giúp đội trưởng Jade chuẩn bị bài nói động viên một đội đang mất tinh thần — thật thà mà vẫn thắp được lửa.
+scene: park
+cast: siobhan name=Siobhan look=woman x=300 voice=en-US-AriaNeural pitch=-4Hz rate=+2% style.hair=bob style.hairColor=#A04000 style.outfit=jacket style.top=#1A5276 style.topShade=#154360
+cast: jade name=Jade look=woman x=800 voice=en-US-JennyNeural pitch=-1Hz style.hair=curly style.hairColor=#1A1A1A style.skin=#5A3522 style.skinShade=#48291A style.outfit=tee style.top=#C0392B style.topShade=#A93226
+cast: poppy name=Poppy look=teengirl x=1300 voice=en-US-AnaNeural pitch=+2Hz rate=+3% style.hair=ponytail style.hairColor=#E5C07B style.outfit=tee style.top=#F4D03F style.topShade=#D4AC0D
+names: Siobhan, Jade, Poppy, Harlow, Chelmsford, Kayla
+words: rhetoric; lassitude; relentlessly; defiant; rebuke; cohesion
+focus: Động viên một tập thể đang nản một cách thành thật: thừa nhận khó khăn, rồi chỉ ra điều trong tầm tay
+pattern: I won't pretend this is easy. · Let's be honest with ourselves: … · What we can control is… · Forget the score for a moment. · I need each of you to… · We've earned the right to…
+explain: Người nghe đang nản sẽ không tin lời động viên sáo rỗng; hãy mở đầu thành thật: "I won't pretend this is easy", "Let's be honest with ourselves". Sau đó chuyển sự chú ý sang điều kiểm soát được: "Forget the score for a moment", "What we can control is…". Giao việc rõ ràng cho từng người: "I need each of you to…". Kết bằng niềm tự hào có cơ sở: "We've earned the right to…".
+keys: won't pretend this is easy / let's be honest / what we can control / forget the score / i need each of you / earned the right
+
+jade: We've lost our first three league games. Everyone's flat. You should give the talk tonight, not me. | Mình thua ba trận đầu mùa rồi. Ai cũng xuống tinh thần. Tối nay cô nên nói chứ không phải em. [worried]
+siobhan: You're the captain. They'll listen to you more than me. What were you going to say? | Em là đội trưởng. Các bạn sẽ nghe em hơn nghe cô. Em định nói gì? [explain]
+jade: Something like, "Come on, girls, we're better than this. We'll turn it around." | Kiểu như: "Cố lên các bạn, chúng ta giỏi hơn thế này. Chúng ta sẽ lật ngược tình thế." [thinking]
+siobhan: That's rhetoric, and they'll hear it as rhetoric. Nobody believes a speech that ignores the table. | Đó là lời lẽ suông, và các bạn sẽ nghe nó như lời lẽ suông. Chẳng ai tin một bài nói phớt lờ bảng xếp hạng. [shake]
+poppy: She's right. When you said that last week, I wanted to crawl under the bench. | Cô nói đúng đấy. Tuần trước chị nói thế, em chỉ muốn chui xuống gầm ghế. [shrug]
+jade: Thanks, Poppy. Very supportive. | Cảm ơn nhé, Poppy. Ủng hộ ghê. [sad]
+siobhan: Start with the truth. "I won't pretend this is easy. We're bottom of the league, and we deserve to be." | Hãy bắt đầu bằng sự thật. "Tôi sẽ không giả vờ rằng chuyện này dễ. Chúng ta đứng bét bảng, và chúng ta xứng đáng như vậy." [explain]
+jade: Won't that make it worse? | Như thế không làm mọi chuyện tệ hơn sao ạ? [confused]
+siobhan: No. It tells them you're not hiding anything. After that, they'll trust whatever comes next. | Không. Nó cho các bạn biết em không giấu giếm gì. Sau đó, các bạn sẽ tin mọi điều tiếp theo. [explain]
+poppy: And then? | Rồi sau đó thì sao ạ? [thinking]
+siobhan: Then shift their eyes. "Forget the table for a moment. What we can control is the next ninety minutes." | Rồi chuyển hướng nhìn của các bạn. "Quên bảng xếp hạng đi một lát. Điều chúng ta kiểm soát được là chín mươi phút tiếp theo." [point]
+jade: That's what you did in the final. "A second half we win is still a second half we win." | Đó là điều cô đã làm ở trận chung kết. "Một hiệp hai chúng ta thắng vẫn là một hiệp hai chúng ta thắng." [happy]
+siobhan: It works because it's true. Let's be honest with ourselves: our problem isn't talent, it's a kind of lassitude. | Nó hiệu quả vì nó đúng. Hãy thành thật với chính mình: vấn đề của chúng ta không phải tài năng mà là một kiểu uể oải. [explain]
+poppy: Lassitude? We're losing every week! | Uể oải ư? Tuần nào mình cũng thua cơ mà! [surprised]
+siobhan: Since we won the cup, we've stopped pressing. We wait for things to happen. That was never us. | Từ khi đoạt cúp, chúng ta ngừng pressing. Chúng ta chờ mọi thứ tự xảy ra. Đó chưa bao giờ là chúng ta. [explain]
+jade: So I tell them we press relentlessly again, from the first minute. | Vậy em sẽ bảo các bạn là chúng ta lại pressing không ngừng nghỉ, ngay từ phút đầu tiên. [nod ipa=minute:ˈmɪnɪt]
+siobhan: And give each of them one job. "I need each of you to win your own battle. Just yours." | Và giao cho mỗi người một nhiệm vụ. "Tôi cần mỗi người thắng cuộc đối đầu của riêng mình. Chỉ của mình thôi." [explain]
+poppy: What about the ones who feel they've let everyone down? Like I did in the final. | Còn những người thấy mình đã làm mọi người thất vọng thì sao? Như em ở trận chung kết ấy. [sad]
+siobhan: No rebuke, no blame. Blame destroys cohesion faster than any opponent. | Không trách mắng, không đổ lỗi. Sự đổ lỗi phá huỷ tinh thần gắn kết nhanh hơn bất kỳ đối thủ nào. [shake]
+jade: And how do I finish? I always ramble at the end. | Còn em kết thúc thế nào ạ? Em lúc nào cũng nói lan man ở cuối. [worried]
+siobhan: Remind them who they are. "We've earned the right to be proud. Now let's play like the team that won that cup." | Nhắc các bạn nhớ mình là ai. "Chúng ta đã giành được quyền tự hào. Giờ hãy chơi như đội bóng đã đoạt chiếc cúp ấy." [explain]
+poppy: That's good. A bit defiant. I like defiant. | Hay đấy. Hơi thách thức. Em thích thách thức. [happy]
+jade: I'll try it. If it goes badly, I'm blaming both of you. | Em sẽ thử. Nếu mọi chuyện tệ, em sẽ đổ lỗi cho cả hai người. [happy]
+siobhan: That's the spirit. Just not in front of the team. | Tinh thần là thế đấy. Chỉ đừng làm vậy trước mặt cả đội. [happy jade:happy poppy:happy]
+gloss: league, bench, supportive, pressing, ramble

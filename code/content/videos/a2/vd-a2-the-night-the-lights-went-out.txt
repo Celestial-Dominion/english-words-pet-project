@@ -1,0 +1,32 @@
+=== vd-a2-the-night-the-lights-went-out
+title: Is Anybody There? | Có ai ở đó không?
+source: st-a2-the-night-the-lights-went-out
+summary: Mất điện, bà Weiss bị kẹt trong thang máy; Jamal và ông Sato hàng xóm lần lượt hỏi han, trấn an và đề nghị giúp bà.
+scene: home-evening
+cast: jamal name=Jamal look=teenboy x=480 voice=en-US-BrianNeural pitch=+10Hz style.hair=short style.hairColor=#1F1A1C style.skin=#8D5A3B style.skinShade=#74472D style.outfit=tee style.top=#3F7FCB style.topShade=#2F66AA
+cast: weiss name="Mrs. Weiss" vi="Bà Weiss" look=grandma x=1200 voice=en-US-JennyNeural rate=-12% pitch=-8Hz style.hair=bun style.glasses=true
+cast: sato name="Mr. Sato" vi="Ông Sato" look=man x=880 voice=en-US-SteffanNeural rate=-4% from=8 style.hair=part style.hairColor=#4A4A4A style.outfit=cardigan style.top=#8A7A64 style.topShade=#75664F
+names: Weiss, Sato
+gloss: stuck, candles
+words: emergency; engineer; frightened; blanket; elevator
+focus: Hỏi han và đề nghị giúp trong tình huống khẩn cấp
+pattern: Is anybody there? · Are you OK? · Don't worry, I'll… · Do you need anything? · Would you like…?
+explain: Hỏi tình trạng: "Are you OK?". Hứa làm ngay dùng "I'll + động từ" (I'll call the emergency number). Đề nghị đồ: "Would you like some tea?". Trấn an: "Don't worry. Help is coming."
+keys: are you ok / i'll / do you need / would you like / don't worry
+
+weiss: Hello? Can anybody hear me? I'm stuck in here! | Có ai không? Có ai nghe thấy tôi không? Tôi bị kẹt trong này! [worried lights=off]
+jamal: Hello! Yes, I'm here. My name's Jamal. Are you OK? | Bà ơi! Có ạ, cháu ở đây. Cháu tên là Jamal. Bà có sao không ạ? [worried]
+weiss: I'm Mrs. Weiss, from the eighth floor. It's very dark in here. | Bà là bà Weiss ở tầng tám. Trong này tối lắm. [tearful]
+jamal: Don't worry. I'll call the emergency number now. | Bà đừng lo. Cháu gọi số khẩn cấp ngay bây giờ. [explain]
+weiss: Thank you, dear. I'm a bit frightened. | Cảm ơn cháu. Bà hơi sợ. [sad]
+jamal: They're sending an engineer. But it might take two hours. | Họ đang cử kỹ sư đến. Nhưng có thể mất hai tiếng ạ. [thinking ~clock:9:30]
+weiss: Two hours! | Hai tiếng á! [surprised]
+jamal: I'll stay here with you. Do you need anything? | Cháu sẽ ở đây với bà. Bà có cần gì không ạ? [happy]
+sato: Is everything all right? I heard voices. | Mọi chuyện ổn chứ? Tôi nghe thấy tiếng người. [worried]
+jamal: Mrs. Weiss is stuck in the elevator. | Bà Weiss bị kẹt trong thang máy ạ. [explain]
+sato: Oh no. I'll get some candles from my apartment. | Ôi trời. Để tôi lấy ít nến ở nhà. [surprised]
+sato: Mrs. Weiss, would you like some hot tea? | Bà Weiss ơi, bà có muốn uống chút trà nóng không? [happy lights=on fade=2]
+weiss: Yes, please! And do you have a blanket? It's cold. | Có, cảm ơn anh! Anh có chăn không? Lạnh quá. [nod]
+jamal: My sister has one. I'll bring it now. | Em gái cháu có một cái. Cháu mang ra ngay đây. [happy]
+weiss: You're very kind. I've never met my neighbors before. | Các cháu tốt quá. Bà chưa từng gặp hàng xóm của mình bao giờ. [happy]
+sato: Well, now you have! | Thì giờ bà gặp rồi đấy! [happy cheer jamal:happy weiss:happy]

@@ -1,0 +1,34 @@
+=== vd-b2-the-referee
+title: Let Me Be Clear | Tôi xin nói rõ
+source: st-b2-the-referee
+summary: Bên đường biên, trọng tài Leila đặt giới hạn rõ ràng nhưng lịch sự với một phụ huynh liên tục la hét và lăng mạ cô.
+scene: park
+prop: soccer-ball x=820 y=880 scale=0.8
+cast: crane name="Mr. Crane" vi="Ông Crane" look=dad x=520 voice=en-US-GuyNeural pitch=-4Hz rate=+6% style.hair=short style.hairColor=#5A3825 style.outfit=jacket style.top=#C0392B style.topShade=#A93226
+cast: leila name=Leila look=teengirl x=1160 voice=en-US-AnaNeural pitch=-2Hz style.hair=ponytail style.hairColor=#1A1A1A style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=tee style.top=#1C1C1C style.topShade=#111111
+names: Crane, Leila
+words: appreciate; abuse; accept; calmly; penalty; rope
+focus: Đặt giới hạn: cứng rắn nhưng lịch sự
+pattern: I'd appreciate it if you didn't… · You're entitled to…, but not… · Let me be clear · If it happens again, I'll… · I'm not going to accept… · That's your right
+explain: Đề nghị lịch sự nhưng rõ: "I'd appreciate it if you didn't shout at me." Tách quyền của người kia khỏi hành vi không chấp nhận: "You're entitled to disagree, but not like that." Nói thẳng giới hạn và hậu quả: "Let me be clear.", "If it happens again, I'll stop the match." Giữ bình tĩnh, không đáp trả bằng lời lẽ nặng nề.
+keys: i'd appreciate it if you / you're entitled to / let me be clear / if it happens again / i'm not going to accept / that's your right
+
+crane: Referee! How much are they paying you to give them every decision? | Trọng tài! Người ta trả cô bao nhiêu mà quyết định nào cũng cho họ hưởng thế? [angry]
+leila: Sir, I'd appreciate it if you didn't shout at me during the game. | Thưa ông, tôi mong ông đừng la hét vào tôi trong lúc thi đấu. [explain]
+crane: I'll shout if I want to. That was clearly offside! | Tôi muốn hét thì hét. Rõ ràng là việt vị! [angry]
+leila: You're entitled to disagree with my decisions, but not like that. | Ông có quyền không đồng ý với quyết định của tôi, nhưng không phải theo cách đó. [shake]
+crane: Oh, come on. It's just football. Don't be so sensitive. | Ôi thôi nào. Chỉ là bóng đá thôi. Đừng nhạy cảm thế. [shrug]
+leila: Let me be clear. Insulting the referee is not part of football. | Tôi xin nói rõ. Lăng mạ trọng tài không phải là một phần của bóng đá. [explain]
+crane: I haven't insulted anyone! | Tôi có lăng mạ ai đâu! [surprised]
+leila: You called me useless twice and blind once. I've written it all down. | Ông gọi tôi là đồ vô dụng hai lần và đồ mù một lần. Tôi đã ghi lại hết. [point]
+crane: So what? What are you going to do about it? | Thì sao? Cô định làm gì nào? [angry]
+leila: If it happens again, I'll stop the match and report it to the league. | Nếu chuyện này lặp lại, tôi sẽ dừng trận đấu và báo cáo lên ban tổ chức giải. [explain]
+crane: You wouldn't dare. The kids want to play. | Cô không dám đâu. Bọn trẻ muốn chơi mà. [thinking]
+leila: I know, and so do I. That's why I'm asking you to stand behind the rope and let them. | Tôi biết, và tôi cũng vậy. Vì thế tôi đề nghị ông đứng sau dây chắn và để các em chơi. [nod]
+crane: And if I don't? | Còn nếu tôi không làm thế? [angry]
+leila: Then I'll ask your coach to deal with it. I'm not going to accept abuse from anyone. | Thì tôi sẽ nhờ huấn luyện viên của ông xử lý. Tôi sẽ không chấp nhận bị lăng mạ, dù từ bất kỳ ai. [explain ipa=abuse:əˈbjus]
+crane: Fine. But I still think that penalty was wrong. | Được thôi. Nhưng tôi vẫn cho rằng quả phạt đền đó sai. [shrug]
+leila: That's your right. You can tell me so after the match, calmly, and I'll listen. | Đó là quyền của ông. Sau trận ông có thể nói với tôi điều đó, một cách bình tĩnh, và tôi sẽ lắng nghe. [nod]
+crane: Right. Behind the rope. Happy now? | Được rồi. Sau dây chắn. Giờ vừa lòng chưa? [angry]
+leila: Thank you. I appreciate it. Let's get the game going again. | Cảm ơn ông. Tôi rất cảm kích. Chúng ta cho trận đấu tiếp tục nào. [happy @soccer-ball]
+gloss: offside, league

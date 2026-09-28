@@ -1,0 +1,40 @@
+=== vd-c2-the-whistleblower
+title: Could You Say a Little More About That? | Ông có thể nói thêm một chút không?
+source: st-c2-the-whistleblower
+summary: Trong quán cà phê, Farah phỏng vấn Graham — một nguồn tin sợ hãi: câu hỏi mở, im lặng đúng lúc, hỏi tiếp để làm rõ và kiểm tra lại sự kiện mà không gây áp lực.
+scene: cafe
+cast: farah name=Farah look=woman x=520 voice=en-US-AvaNeural pitch=-1Hz rate=-3% style.hair=long style.hairColor=#1A1A1A style.skin=#A0673A style.skinShade=#8A5530 style.outfit=cardigan style.top=#5B2C6F style.topShade=#4A235A
+cast: graham name=Graham look=grandpa x=1160 voice=en-US-GuyNeural pitch=-5Hz rate=-4% style.hair=grandpa style.hairColor=#9E9E9E style.outfit=plain style.top=#5DADE2 style.topShade=#3498DB
+names: Farah, Graham, Beechwood, Arbor, Lindqvist
+words: anonymity; dehydration; frail; substantiate; retaliation; discrepancy
+focus: Phỏng vấn một người đang e ngại: câu hỏi mở, hỏi tiếp để làm rõ, xác minh sự kiện một cách tế nhị
+pattern: Could you say a little more about that? · What happened next? · How did that make you feel? · Just to be clear, … · When you say…, what do you mean? · Is there anything I haven't asked that I should have?
+explain: Bắt đầu bằng câu hỏi mở, dễ trả lời ("How long have you worked there?") trước khi vào chuyện khó. Khi nguồn tin nhắc đến điều quan trọng, mời họ nói tiếp: "Could you say a little more about that?", "What happened next?". Kiểm tra sự kiện mà không buộc tội: "Just to be clear, you saw…?", "When you say…, what do you mean exactly?". Kết thúc bằng: "Is there anything I haven't asked that I should have?" — câu này thường mở ra thông tin bất ngờ.
+keys: say a little more / what happened next / how did that make you feel / just to be clear / when you say / anything i haven't asked
+
+graham: I nearly didn't come. I sat in the car park for ten minutes. | Tôi suýt nữa thì không đến. Tôi ngồi trong bãi xe mười phút. [worried]
+farah: I'm really glad you did. There's no rush. Can I get you a tea first? | Tôi thật sự mừng vì ông đã đến. Không vội đâu. Tôi mời ông một tách trà trước nhé? [happy]
+graham: Tea's fine. But nobody can know I've talked to you. | Trà thì được. Nhưng không ai được biết tôi đã nói chuyện với cô. [worried]
+farah: Your anonymity comes first. I won't name you, and I won't publish anything that could identify you without asking. | Sự ẩn danh của ông là trên hết. Tôi sẽ không nêu tên ông, và sẽ không đăng bất cứ điều gì có thể làm lộ ông mà không hỏi trước. [explain]
+graham: All right. Where do you want me to start? | Được rồi. Cô muốn tôi bắt đầu từ đâu? [thinking]
+farah: Wherever feels easiest. How long have you worked at Beechwood? | Chỗ nào ông thấy dễ nhất. Ông làm ở Beechwood bao lâu rồi? [explain]
+graham: Nine years. I love the residents. Most of them are very frail now. | Chín năm. Tôi thương các cụ lắm. Giờ phần lớn các cụ đều rất yếu. [sad]
+farah: You mentioned a lady who died in March. Could you say a little more about that? | Ông có nhắc đến một bà cụ mất hồi tháng Ba. Ông có thể nói thêm một chút về chuyện đó không? [thinking]
+graham: Mrs Lindqvist. She taught me chess. She went into hospital with dehydration and never came back. | Bà Lindqvist. Bà dạy tôi chơi cờ. Bà vào viện vì mất nước và không bao giờ trở về. [sad]
+farah: I'm so sorry. What happened in the days before she was admitted? | Tôi rất tiếc. Chuyện gì đã xảy ra trong những ngày trước khi bà nhập viện? [sad]
+graham: There were two of us for forty-six people at night. We couldn't get round everyone with drinks. | Ban đêm có hai người chúng tôi cho bốn mươi sáu người. Chúng tôi không thể đi cho khắp mọi người uống nước. [explain]
+farah: When you say you couldn't get round, what do you mean exactly? | Khi ông nói không thể đi cho khắp, ý ông chính xác là gì? [thinking]
+graham: Some people didn't get a drink for hours. Sometimes all night. | Có người không được uống giọt nào suốt nhiều giờ. Có khi cả đêm. [sad]
+farah: And the fluid charts? Your message said something about them. | Còn các biểu đồ lượng nước uống? Tin nhắn của ông có nói gì đó về chúng. [thinking]
+graham: We were told to fill them in anyway. As if the drinks had been given. | Chúng tôi được bảo cứ điền vào. Như thể đã cho các cụ uống rồi. [sad]
+farah: Just to be clear, the manager told you directly to record drinks that weren't given? | Để cho rõ nhé, quản lý đã trực tiếp bảo ông ghi lại những lần uống không hề diễn ra? [explain ipa=record:rɪˈkɔrd]
+graham: In a meeting, in front of four of us. I did it. That's the part I can't live with. | Trong một cuộc họp, trước mặt bốn người chúng tôi. Tôi đã làm theo. Đó là phần tôi không thể sống yên với nó. [sad ipa=live:lɪv]
+farah: How did that make you feel, at the time? | Lúc đó ông cảm thấy thế nào? [sad]
+graham: Sick. And scared. If I refused, I'd lose my job, and the residents would have one carer fewer. | Buồn nôn. Và sợ. Nếu tôi từ chối, tôi sẽ mất việc, và các cụ sẽ bớt đi một người chăm sóc. [worried]
+farah: That's an impossible position. I'll need to substantiate all this before anything is published, you understand. | Đó là một tình thế không lối thoát. Ông hiểu cho, tôi sẽ cần chứng minh tất cả những điều này trước khi đăng bất cứ thứ gì. [explain]
+graham: I took photos of the rotas. And the hospital will have her real records. | Tôi có chụp ảnh các bảng phân ca. Và bệnh viện sẽ có hồ sơ thật của bà. [point ipa=records:ˈrɛkərdz]
+farah: If their notes and the home's charts don't match, that discrepancy will speak for itself. | Nếu ghi chép của bệnh viện và biểu đồ của viện không khớp, sự chênh lệch đó sẽ tự nói lên tất cả. [nod]
+graham: And if they find out it was me? | Còn nếu họ phát hiện ra đó là tôi? [worried]
+farah: There's legal protection against retaliation, and I'll put you in touch with a lawyer. Is there anything I haven't asked that I should have? | Có sự bảo vệ pháp lý chống lại sự trả đũa, và tôi sẽ kết nối ông với một luật sư. Có điều gì tôi chưa hỏi mà lẽ ra nên hỏi không? [thinking]
+graham: Yes. Ask me why it took me six months to call you. I'll tell you next time. | Có. Hãy hỏi tôi vì sao tôi mất sáu tháng mới gọi cho cô. Lần sau tôi sẽ kể. [sad farah:sad]
+gloss: residents, admitted, fluid charts, rotas, carer

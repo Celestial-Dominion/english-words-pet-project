@@ -1,0 +1,33 @@
+=== vd-a2-the-case-of-the-missing-cookies
+title: It Can't Be Pepper! | Không thể là Pepper được!
+source: st-a2-the-case-of-the-missing-cookies
+summary: "Thám tử" Ivy cùng anh trai Sam xem xét hiện trường hũ bánh quy và đoán xem ai là thủ phạm.
+scene: kitchen
+prop: cake x=820
+prop: puppy x=1360 y=760 back
+cast: ivy name=Ivy look=girl x=520 voice=en-US-AnaNeural style.hair=pigtails style.hairColor=#C98A3C style.glasses=true style.top=#3A8E8B style.topShade=#2D7673
+cast: sam name=Sam look=teenboy x=1080 voice=en-US-BrianNeural pitch=+10Hz style.hair=short style.hairColor=#C98A3C style.outfit=tee style.top=#E5484D style.topShade=#C73A3F
+names: Pepper, Brooks
+gloss: detective, crumbs, suspect
+words: clue; thief; diet; asleep; tall
+focus: Suy đoán: might / must / can't
+pattern: It might be… · It must be… · It can't be… · Maybe it was…
+explain: "Must" = chắc chắn là (dựa trên bằng chứng mạnh), "might / maybe" = có thể, "can't" = không thể nào. Đi sau là động từ nguyên thể: It must be Sam. It can't be Pepper.
+keys: might be / must be / can't be / maybe
+
+sam: So, Detective Ivy, who is the thief? | Nào, Thám tử Ivy, ai là kẻ trộm đây? [happy]
+ivy: I don't know yet. But I have some clues. | Em chưa biết. Nhưng em có vài manh mối rồi. [thinking]
+ivy: Look. There are crumbs next to the jar. | Anh nhìn này. Có vụn bánh cạnh cái hũ. [explain point @cake]
+sam: Maybe it was Grandpa. He wakes up at night. | Có khi là ông đấy. Ông hay dậy ban đêm. [thinking]
+ivy: It can't be Grandpa. He doesn't like chocolate. | Không thể là ông được. Ông không thích sô-cô-la. [shake]
+sam: Then it might be Dad. He's on a diet. | Vậy có thể là bố. Bố đang ăn kiêng mà. [thinking]
+ivy: It might be Dad… People on a diet are always hungry. | Có thể là bố… Người ăn kiêng lúc nào cũng đói. [thinking]
+sam: Or it might be you, Detective! | Hoặc có thể là em đấy, Thám tử! [happy]
+ivy: Very funny. I was asleep. | Buồn cười quá cơ. Em ngủ rồi. [angry]
+sam: What about Pepper? | Thế còn Pepper? [thinking]
+ivy: It can't be Pepper. The jar is too high for a dog. | Không thể là Pepper được. Hũ bánh ở cao quá, chó sao với tới. [explain]
+sam: So the thief must be tall. | Vậy tên trộm hẳn phải cao. [explain]
+ivy: Yes. It must be someone tall… like you! | Đúng. Hẳn phải là ai đó cao… như anh chẳng hạn! [surprised point]
+sam: Me? I'm innocent! | Anh á? Anh vô tội! [surprised]
+ivy: We'll see. Tonight, I'm going to watch the kitchen. | Rồi sẽ biết. Tối nay em sẽ canh bếp. [thinking sam:confused]
+gloss: innocent

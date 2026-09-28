@@ -1,0 +1,35 @@
+=== vd-b1-the-best-man
+title: Please Raise Your Glasses | Xin mời nâng ly
+source: st-b1-the-best-man
+summary: Một ngày trước đám cưới, Leo tập nâng ly chúc mừng trước ông Karl; ông chỉ cho cháu cách mở đầu, kể chuyện và kết thúc một lời chúc.
+scene: home-lake
+cast: karl name="Grandpa Karl" vi="Ông Karl" look=grandpa x=540 voice=en-US-RogerNeural rate=-10% style.glasses=true style.outfit=cardigan style.top=#6D5B4B style.topShade=#5A4B3D
+cast: leo name=Leo look=man x=1140 voice=en-US-EricNeural pitch=+6Hz style.hair=short style.hairColor=#C8963E style.outfit=suit style.top=#2F3E55 style.topShade=#243145
+names: Daniel, Karl, Leo, Sophie
+gloss: toast
+words: guest; congratulations; couple; nervous; raise; terrified
+focus: Phát biểu và nâng ly chúc mừng
+pattern: I'd like to say a few words. · For those who don't know me,… · I've known him since… · Please raise your glasses to… · Congratulations to the happy couple!
+explain: Mở đầu lời chúc: "I'd like to say a few words." / "For those who don't know me, I'm…". Kể về người được chúc bằng hiện tại hoàn thành: "I've known him since we were kids." Kết thúc: "Please raise your glasses to…" rồi cả phòng hô "To Daniel and Sophie!".
+keys: i'd like to say a few words / for those who don't know me / i've known him since / raise your glasses / congratulations to the happy couple
+
+karl: So, you're giving the toast tomorrow. Let me hear the beginning. | Vậy mai cháu sẽ nâng ly chúc mừng. Để ông nghe phần mở đầu nào. [thinking]
+leo: Um… Hello. I'm Leo. I'm very nervous. | Ừm… Xin chào. Tôi là Leo. Tôi rất hồi hộp. [shy]
+karl: Never start with that. Try this: "I'd like to say a few words." | Đừng bao giờ mở đầu như thế. Thử câu này xem: "Tôi xin phép nói đôi lời." [explain]
+leo: "Good evening, everyone. I'd like to say a few words." | "Chào mọi người. Tôi xin phép nói đôi lời." [thinking]
+karl: Better. Then tell them who you are. | Khá hơn rồi. Sau đó cho họ biết cháu là ai. [nod]
+leo: "For those who don't know me, I'm Leo, Daniel's younger brother." | "Với những ai chưa biết tôi, tôi là Leo, em trai của Daniel." [explain]
+karl: Good. Now, how long have you known your brother? | Tốt. Giờ thì, cháu biết anh trai mình bao lâu rồi? [happy]
+leo: Grandpa! My whole life, of course. | Ông ơi! Cả đời cháu chứ còn gì nữa. [happy]
+karl: Then say it. The guests will laugh. | Thế thì nói ra đi. Khách sẽ bật cười đấy. [happy]
+leo: "I've known Daniel since the day I was born, and he's been bossing me around ever since." | "Tôi biết Daniel từ ngày tôi chào đời, và từ đó đến giờ anh ấy vẫn luôn sai bảo tôi." [happy]
+karl: Ha! Perfect. What comes next? | Ha! Hoàn hảo. Tiếp theo là gì? [happy]
+leo: I don't know. I had lots of quotations from famous writers. | Cháu không biết. Cháu có rất nhiều câu trích dẫn của các nhà văn nổi tiếng. [confused]
+karl: Forget them. Tell one true story about Daniel. Something only you know. | Quên chúng đi. Kể một câu chuyện thật về Daniel. Điều gì đó chỉ cháu biết. [explain]
+leo: I think I know which one. But I'm terrified of embarrassing him in front of Sophie's family. | Cháu nghĩ cháu biết nên kể chuyện nào rồi. Nhưng cháu sợ làm anh ấy xấu hổ trước mặt nhà Sophie lắm. [worried]
+karl: Choose a story that shows how generous he is, not one that makes him blush. | Hãy chọn câu chuyện cho thấy anh cháu tốt bụng, rộng lượng thế nào, chứ đừng chọn chuyện khiến anh ấy đỏ mặt. [explain]
+karl: And when they hand you the microphone at the end, how will you finish? | Còn cuối cùng, khi người ta đưa cháu chiếc micro, cháu sẽ kết thúc thế nào? [thinking]
+leo: "Please raise your glasses to Daniel and Sophie. Congratulations to the happy couple!" | "Xin mời mọi người nâng ly chúc mừng Daniel và Sophie. Chúc mừng đôi uyên ương!" [happy]
+karl: Wonderful. Say it slowly, wait for the applause, and don't forget to breathe. | Tuyệt vời. Nói chậm thôi, đợi mọi người vỗ tay, và đừng quên thở. [happy]
+leo: Thanks, Grandpa. Your encouragement really helps. I feel a little less nervous now. | Cảm ơn ông. Lời động viên của ông giúp cháu nhiều lắm. Giờ cháu thấy bớt hồi hộp một chút rồi. [happy karl:happy]
+gloss: quotations, bossing

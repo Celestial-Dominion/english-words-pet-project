@@ -1,0 +1,29 @@
+=== vd-a1-the-singing-contest
+title: I Can't Sing in Front of People | Em không hát trước mọi người được
+source: st-a1-the-singing-contest
+summary: Grace chỉ cho Daniel tấm áp phích cuộc thi hát; cậu em nhút nhát nói mình không làm được — và chị có một kế hoạch.
+scene: home-evening
+cast: daniel name=Daniel look=boy x=500 voice=en-US-AnaNeural pitch=-12Hz rate=-6% style.hair=short style.hairColor=#2A2024 style.skin=#E9B896 style.skinShade=#D49E7A style.top=#E9A23B style.topShade=#D18B28 style.collar=#D18B28
+cast: grace name=Grace look=teengirl x=1100 voice=en-US-EmmaNeural pitch=+6Hz style.hair=long style.hairColor=#2A2024 style.skin=#E9B896 style.skinShade=#D49E7A style.top=#3A8E8B style.topShade=#2D7673
+gloss: poster, understand
+words: sing; try; contest; front; help
+focus: Nói về khả năng với "can / can't"
+pattern: Can you…? · I can… · I can't… · You can!
+explain: "Can + động từ" nói về khả năng hoặc việc làm được. Phủ định là "can't" (= cannot). Hỏi thì đảo "Can" lên đầu: "Can you sing?" — đáp "Yes, I can." / "No, I can't."
+keys: can you / i can / i can't / you can
+
+grace: Daniel, look at this poster. A singing contest! | Daniel, nhìn tấm áp phích này đi. Một cuộc thi hát! [happy ipa=contest:ˈkɑnˌtɛst]
+daniel: So? | Thì sao ạ? [neutral]
+grace: You can sing. You can really sing! | Em hát được mà. Em hát hay thật đấy! [happy explain]
+daniel: At home, yes. In my room. | Ở nhà thì được. Trong phòng em thôi. [shy]
+grace: Can you sing in the contest? | Em hát trong cuộc thi được không? [thinking ipa=contest:ˈkɑnˌtɛst]
+daniel: No! I can't sing in front of people. | Không! Em không hát trước mặt mọi người được. [worried shake]
+grace: Why not? | Sao lại không? [confused]
+daniel: My face goes red, and my legs shake. | Mặt em đỏ lên, chân em run. [sad]
+grace: I understand. But I can help you. | Chị hiểu. Nhưng chị giúp em được. [happy]
+daniel: How? | Bằng cách nào ạ? [confused]
+grace: First, sing for me. | Đầu tiên em hát cho chị nghe. [explain]
+grace: Then for Mom and Dad. Then for Grandma. | Rồi cho bố mẹ. Rồi cho bà. [explain]
+daniel: And then for the school? | Rồi sau đó cho cả trường ạ? [surprised]
+grace: Yes! You can do it. | Đúng thế! Em làm được mà. [happy nod]
+daniel: OK… I can try. | Vâng… em có thể thử. [shy grace:happy]

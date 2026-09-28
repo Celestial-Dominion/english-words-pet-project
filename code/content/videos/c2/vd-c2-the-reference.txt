@@ -1,0 +1,38 @@
+=== vd-c2-the-reference
+title: She's Not Without Her Flaws | Cô ấy không phải không có khuyết điểm
+source: st-c2-the-reference
+summary: Trong thư viện trường, giáo sư Munro nhận xét về học trò cũ trước người tuyển dụng — khen đúng mức, nói rõ điểm yếu mà không bôi xấu, và thành thật cả về phần lỗi của chính mình.
+scene: library
+cast: munro name=Munro look=grandpa x=520 voice=en-US-RogerNeural pitch=-6Hz rate=-4% style.hair=grandpa style.hairColor=#D5D5D5 style.outfit=cardigan style.top=#5D6D7E style.topShade=#4D5B69 style.glasses=round
+cast: ampofo name=Ampofo look=man x=1160 voice=en-US-SteffanNeural pitch=-3Hz rate=-2% style.hair=short style.hairColor=#1A1A1A style.skin=#6F4E37 style.skinShade=#5C4033 style.outfit=suit style.top=#1C2833 style.topShade=#17202A
+names: Munro, Ampofo, Alasdair, Astrid, Berglund
+words: laudatory; revelatory; abrasive; disparaging; indiscretion; unsurpassed
+focus: Nhận xét cân bằng và thẳng thắn về một người: khen đúng mức, nói điểm yếu một cách giảm nhẹ nhưng trung thực
+pattern: She's not without her flaws. · I'd be lying if I said… · To be fair to her, … · I wouldn't go that far. · What I can say is… · On balance, …
+explain: Khi phải nhận xét ai đó, người Anh hay dùng cách nói giảm: "She's not without her flaws" (= cô ấy có khuyết điểm). Để giữ trung thực: "I'd be lying if I said…". Để cân bằng lại: "To be fair to her, …", "On balance, …". Khi bị đẩy về một kết luận quá mạnh: "I wouldn't go that far. What I can say is…".
+keys: not without her flaws / i'd be lying if i said / to be fair to her / wouldn't go that far / what i can say is / on balance
+
+ampofo: Thank you for making the time, Alasdair. I'll be direct. Letters these days are so laudatory that I've almost stopped reading them. | Cảm ơn ông đã dành thời gian, Alasdair. Tôi xin nói thẳng. Thư giới thiệu bây giờ tâng bốc đến mức tôi gần như thôi không đọc nữa. [explain]
+munro: I know the problem. I've written a few of those letters myself, I'm sorry to say. | Tôi hiểu vấn đề đó. Tiếc là chính tôi cũng đã viết vài lá thư như thế. [nod]
+ampofo: So, in your own words, how good is Astrid Berglund? | Vậy, theo lời của chính ông, Astrid Berglund giỏi đến mức nào? [thinking]
+munro: She's the most gifted scientist I've ever supervised. Her thesis was genuinely revelatory. | Cô ấy là nhà khoa học có năng khiếu nhất tôi từng hướng dẫn. Luận án của cô ấy thực sự mang tính khai sáng. [explain]
+ampofo: That's high praise. Is there a "but" coming? | Đó là lời khen rất cao. Sắp có một chữ "nhưng" phải không? [thinking]
+munro: There is. She's not without her flaws. She can be abrasive, and at times rather disparaging about other people's work. | Có. Cô ấy không phải không có khuyết điểm. Cô ấy có thể gay gắt, và có lúc khá chê bai công việc của người khác. [thinking]
+ampofo: How serious are we talking? A difficult personality, or a real problem for a team? | Chúng ta đang nói đến mức nào? Một tính cách khó chịu, hay một vấn đề thực sự cho cả nhóm? [thinking]
+munro: I'd be lying if I said it had no cost. Two people left my group partly because of her. | Tôi sẽ nói dối nếu bảo rằng chuyện đó không có cái giá nào. Hai người đã rời nhóm của tôi, một phần vì cô ấy. [sad]
+ampofo: I see. Would you go so far as to call her a liability? | Tôi hiểu. Ông có đi xa đến mức gọi cô ấy là một gánh nặng không? [thinking]
+munro: No, I wouldn't go that far. What I can say is that she needs a head of department who won't feel threatened by her. | Không, tôi sẽ không đi xa đến thế. Điều tôi có thể nói là cô ấy cần một trưởng khoa không cảm thấy bị cô ấy đe doạ. [explain]
+ampofo: That's an interesting way to put it. Threatened how? | Đó là một cách nói thú vị. Bị đe doạ thế nào? [surprised]
+munro: To be fair to her, I should tell you something that reflects rather badly on me. | Công bằng với cô ấy, tôi nên kể với ông một chuyện phản ánh khá tệ về tôi. [sad]
+ampofo: Please do. That's exactly the kind of thing letters leave out. | Xin ông cứ kể. Đó chính là loại chuyện mà thư giới thiệu bỏ qua. [nod]
+munro: In her third year, she found an error in my best-known paper and announced it at a conference I was chairing. | Năm thứ ba, cô ấy tìm ra một sai sót trong bài báo nổi tiếng nhất của tôi và công bố nó tại một hội nghị do tôi chủ trì. [explain]
+ampofo: In public? That must have been an uncomfortable afternoon. | Trước công chúng ư? Hẳn đó là một buổi chiều khó chịu. [surprised]
+munro: It was an indiscretion on her part, certainly. But she was right, and I responded as if she were the one who'd made the mistake. | Chắc chắn đó là một sự thiếu tế nhị từ phía cô ấy. Nhưng cô ấy đúng, và tôi đã phản ứng như thể cô ấy mới là người phạm sai lầm. [sad]
+ampofo: That's unusually candid, Alasdair. | Ông thẳng thắn một cách hiếm thấy đấy, Alasdair. [surprised]
+munro: You asked me to be candid. On balance, I think some of what people found difficult was her refusal to defer to people who hadn't earned it. | Ông đã yêu cầu tôi thẳng thắn. Nhìn chung, tôi nghĩ một phần những gì người ta thấy khó chịu là việc cô ấy từ chối cúi đầu trước những người chưa xứng đáng. [explain]
+ampofo: Including you, at the time. | Kể cả ông, vào lúc đó. [thinking]
+munro: Including me. It took me twelve years to work that out. | Kể cả tôi. Tôi đã mất mười hai năm để hiểu ra điều ấy. [nod]
+ampofo: Last question, and I ask everyone this. Would you hire her again? | Câu hỏi cuối, và tôi hỏi ai cũng câu này. Ông có tuyển cô ấy lần nữa không? [thinking]
+munro: Without hesitation. Her ability is unsurpassed. I'd just make sure I was a better supervisor this time. | Không chút do dự. Năng lực của cô ấy chưa ai vượt qua. Tôi chỉ cần đảm bảo lần này mình là một người hướng dẫn tốt hơn. [happy]
+ampofo: Thank you. That's the most useful reference I've had all year. | Cảm ơn ông. Đó là lời giới thiệu hữu ích nhất tôi nhận được cả năm nay. [happy munro:happy]
+gloss: thesis, supervised, supervisor, defer

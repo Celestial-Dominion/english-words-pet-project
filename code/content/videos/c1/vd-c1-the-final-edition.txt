@@ -1,0 +1,36 @@
+=== vd-c1-the-final-edition
+title: I'll Be Direct | Tôi sẽ nói thẳng
+source: st-c1-the-final-edition
+summary: Frances báo cho Walter và Declan rằng tờ Gazette sắp đóng cửa — thẳng thắn, không vòng vo, nhưng vẫn tế nhị — và Declan tiết lộ mình đang nắm một tin lớn.
+scene: office
+prop: report x=820 y=640 scale=0.8
+cast: walter name=Walter look=grandpa x=300 voice=en-US-RogerNeural pitch=-8Hz rate=-6% style.hair=grandpa style.hairColor=#DADADA style.outfit=tie style.top=#F4F6F6 style.topShade=#E5E8E8 style.glasses=round
+cast: frances name=Frances look=woman x=800 voice=en-US-MichelleNeural pitch=-5Hz style.hair=bob style.hairColor=#2A2A2A style.skin=#7B4A2E style.skinShade=#653B23 style.outfit=suit style.top=#1F618D style.topShade=#1A5276
+cast: declan name=Declan look=man x=1300 voice=en-US-BrianNeural pitch=+2Hz rate=+4% style.hair=fringe style.hairColor=#B5651D style.outfit=shirt style.top=#F7DC6F style.topShade=#E1C45F
+names: Frances, Walter, Declan, Meridian, Gazette, Lucy
+words: circulation; shareholder; candid; integral; inevitably; scoop
+focus: Báo tin xấu cho tập thể một cách thẳng thắn và tế nhị
+pattern: There's no easy way to say this · I'm afraid that… · I want to be completely honest with you · I realize this comes as a shock · What I can promise is… · I know it's a lot to take in
+explain: Báo tin xấu: vào thẳng vấn đề sau một câu dẫn ngắn — "There's no easy way to say this, so I'll be direct." Nêu tin: "I'm afraid that…". Cam kết minh bạch: "I want to be completely honest with you." Ghi nhận cảm xúc người nghe: "I realize this comes as a shock.", "I know it's a lot to take in." Kết bằng điều mình làm được: "What I can promise is…". Tránh vòng vo quá lâu hoặc hứa những điều không chắc.
+keys: no easy way to say this / i'm afraid that / completely honest with you / comes as a shock / what i can promise / a lot to take in
+
+frances: Thank you both for staying. Lucy already knows. There's no easy way to say this, so I'll be direct. | Cảm ơn hai người đã ở lại. Lucy đã biết rồi. Không có cách nào dễ dàng để nói điều này, nên tôi sẽ nói thẳng. [explain @report]
+walter: That sounds ominous. In fifty years, "I'll be direct" has never been followed by good news. | Nghe có vẻ chẳng lành. Trong năm mươi năm, sau câu "tôi sẽ nói thẳng" chưa bao giờ là tin tốt. [thinking]
+frances: I'm afraid that Meridian is closing the Gazette. The final edition will be in three weeks. | Tôi e rằng Meridian sẽ đóng cửa tờ Gazette. Số cuối cùng sẽ ra trong ba tuần nữa. [sad walter:surprised declan:surprised]
+declan: Three weeks? They can't just switch off a paper that's a hundred and forty years old. | Ba tuần? Họ không thể cứ thế tắt một tờ báo đã một trăm bốn mươi năm tuổi được. [angry]
+frances: I realize this comes as a shock, Declan. It came as one to me this morning. | Tôi biết chuyện này là một cú sốc, Declan. Sáng nay nó cũng là cú sốc với tôi. [nod]
+walter: Is it the circulation? We've lost half our readers since they bought us. | Có phải vì số lượng phát hành không? Từ khi họ mua lại, chúng ta đã mất một nửa độc giả. [thinking]
+frances: I want to be completely honest with you. It's the circulation, the advertising, and shareholders who've lost patience. | Tôi muốn hoàn toàn thành thật với hai người. Đó là số lượng phát hành, quảng cáo, và các cổ đông đã hết kiên nhẫn. [explain]
+declan: Did you know this was coming? | Chị có biết trước chuyện này không? [worried]
+frances: To be candid, I've feared it for years. I didn't expect it this soon, and I'm sorry I couldn't warn you. | Nói thật lòng, tôi đã lo sợ chuyện này nhiều năm rồi. Tôi không ngờ nó đến sớm thế, và tôi xin lỗi vì đã không thể báo trước cho hai người. [shy]
+walter: I joined this paper at seventeen. I always assumed it would outlive me. | Tôi vào làm cho tờ báo này năm mười bảy tuổi. Tôi vẫn luôn nghĩ nó sẽ sống lâu hơn mình. [sad]
+frances: You've been an integral part of it, Walter. Without you, half our stories would still be twice as long. | Ông là một phần không thể thiếu của nó, Walter ạ. Không có ông, một nửa số bài của chúng ta hẳn vẫn còn dài gấp đôi. [happy walter:happy]
+declan: What happens to us? Is there any money, or do we just clear our desks? | Chúng ta sẽ ra sao? Có khoản tiền nào không, hay chúng ta chỉ việc dọn bàn? [worried]
+frances: What I can promise is that I'll fight for the best terms, and I'll write a reference for each of you. | Điều tôi có thể hứa là tôi sẽ đấu tranh cho những điều kiện tốt nhất, và tôi sẽ viết thư giới thiệu cho từng người. [explain]
+frances: I know it's a lot to take in. Take the rest of the day. We'll talk properly tomorrow. | Tôi biết đây là nhiều điều để tiếp nhận. Hãy nghỉ nốt hôm nay. Mai chúng ta sẽ nói chuyện đàng hoàng. [nod]
+walter: If I go home now, I'll only sit and stare at the wall. I'd rather finish the obituaries. | Nếu giờ tôi về nhà, tôi sẽ chỉ ngồi nhìn chằm chằm vào tường. Tôi thà làm nốt mục cáo phó. [shrug]
+declan: Frances, before you go, can I show you something? I was going to wait, but I suppose there isn't time now. | Chị Frances, trước khi chị đi, tôi cho chị xem một thứ được không? Tôi định chờ thêm, nhưng tôi đoán giờ không còn thời gian nữa. [shy]
+frances: That sounds like the beginning of a scoop. How big is it? | Nghe như khởi đầu của một tin độc quyền. Nó lớn cỡ nào? [surprised]
+declan: Thirty million pounds, and the council leader's brother-in-law. It will inevitably cause trouble. | Ba mươi triệu bảng, và anh rể của chủ tịch hội đồng thị trấn. Nó chắc chắn sẽ gây rắc rối. [explain]
+walter: Then it will be a very fine way to close a newspaper. | Vậy thì đó sẽ là một cách rất xứng đáng để khép lại một tờ báo. [happy frances:happy ipa=close:=]
+gloss: ominous, obituaries, brother-in-law

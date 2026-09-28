@@ -1,0 +1,34 @@
+=== vd-b1-the-food-truck
+title: What I Liked Was… | Điều bà thích là…
+source: st-b1-the-food-truck
+summary: Teta nếm thử món của hai cháu ngay bên chiếc xe màu cam và góp ý thẳng thắn nhưng khéo léo; Sami học cách nghe mà không cãi.
+scene: street
+prop: sandwich x=820 y=610 scale=0.9
+cast: teta name=Teta look=grandma x=520 voice=en-US-JennyNeural pitch=-8Hz rate=-8% style.skin=#C9936B style.skinShade=#B07A55 style.outfit=cardigan style.top=#5E7D4E style.topShade=#4D683F
+cast: sami name=Sami look=teenboy x=1150 voice=en-US-BrianNeural pitch=+8Hz style.hair=curly style.hairColor=#1A1A1A style.skin=#C9936B style.skinShade=#B07A55 style.outfit=apron style.top=#F28C28 style.topShade=#D9771C
+names: Sami, Teta
+gloss: falafel
+words: feedback; honest; improve; fresh; suggestion; slightly
+focus: Góp ý mang tính xây dựng
+pattern: What I liked was… · Maybe you could… · It would be better if… · Have you thought about…? · Next time, try… · Thanks, that's really helpful.
+explain: Góp ý kiểu "bánh kẹp": khen trước ("What I liked was…"), góp ý nhẹ nhàng ở giữa ("Maybe you could…", "It would be better if + quá khứ đơn…"), động viên ở cuối. Người nhận đáp lại: "Thanks, that's really helpful." thay vì cãi.
+keys: what i liked was / maybe you could / it would be better if / have you thought about / next time / that's really helpful
+
+sami: So, Teta? Be honest. What do you think? | Sao ạ, Teta? Bà cứ nói thật. Bà thấy thế nào? [worried @sandwich]
+teta: Do you want my honest feedback, or do you want me to be nice? | Cháu muốn bà góp ý thật lòng, hay muốn bà nói cho dễ nghe? [thinking]
+sami: Honest. Please. | Thật lòng ạ. Bà nói đi. [nod]
+teta: All right. What I liked was the bread. It's soft and fresh. | Được. Điều bà thích là bánh mì. Mềm và tươi. [happy]
+sami: Thanks! We buy it every morning. | Cảm ơn bà! Sáng nào tụi cháu cũng mua. [happy]
+teta: But the falafel is a bit dry. Maybe you could fry it at the last moment. | Nhưng bánh falafel hơi khô. Có lẽ cháu nên rán nó vào phút chót. [explain]
+sami: We cook it in the morning because we're so busy. | Tụi cháu nấu từ sáng vì bận quá ạ. [shy]
+teta: I understand. But it would be better if you cooked less, more often. | Bà hiểu. Nhưng sẽ tốt hơn nếu cháu nấu ít một, nhiều lần. [explain]
+sami: Hmm. That makes sense. | Hừm. Nghe có lý ạ. [thinking]
+teta: And have you thought about making the menu shorter? | Và cháu đã nghĩ đến việc làm thực đơn ngắn lại chưa? [thinking]
+sami: Shorter? But customers like choice! Most of the complaints are about waiting, not the menu. | Ngắn lại ạ? Nhưng khách thích được lựa chọn mà! Phần lớn lời phàn nàn là về chuyện chờ lâu, đâu phải thực đơn. [surprised]
+teta: They like fast food more. Twelve dishes and two cooks is too many. | Họ thích được phục vụ nhanh hơn. Mười hai món mà hai đầu bếp là quá nhiều. [shake]
+sami: So we should reduce it to… four dishes? | Vậy tụi cháu nên rút xuống còn… bốn món ạ? [thinking]
+teta: Four perfect dishes. Next time, try that for a week. If it's faster, you'll have a queue every lunchtime. | Bốn món thật hoàn hảo. Lần tới, cháu thử làm vậy một tuần xem. Nếu nhanh hơn, trưa nào cũng sẽ có khách xếp hàng. [explain]
+sami: OK. Anything else? | Vâng. Còn gì nữa không ạ? [thinking]
+teta: One small suggestion. The sauce needs slightly more lemon. | Một góp ý nhỏ nữa. Nước sốt cần thêm một chút chanh. [happy]
+sami: Thanks, Teta. That's really helpful. I'll try to improve everything. | Cảm ơn Teta. Góp ý của bà giúp cháu nhiều lắm. Cháu sẽ cố cải thiện mọi thứ. [happy]
+teta: Good boy. And you didn't argue once. I'm proud of you. | Ngoan lắm. Mà cháu chẳng cãi câu nào. Bà tự hào về cháu. [happy sami:shy]

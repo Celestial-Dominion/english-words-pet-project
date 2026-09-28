@@ -1,0 +1,89 @@
+=== st-c2-the-expert-witness
+title: The Expert Witness | Nhân chứng chuyên môn
+topic: technology
+summary: Tại Toà án Tối cao ở London, luật sư Sebastian Crane đối chất với một kỹ sư lỗi lạc làm chứng cho hãng xe hơi — và chỉ bằng những câu hỏi "có hay không", ông để lộ ra điều bà chưa từng kiểm tra.
+names: Sebastian Crane, Sebastian, Crane, Dr. Philippa Marsh, Philippa, Marsh, High Court, London, Holloway, Rosa Holloway, Rosa, Tom Holloway, Tom, M4, Veridian, Justice Adebayo, Adebayo
+gloss: barrister, plaintiffs, defendants, cross-examination, lane-keeping, braking, logs, telemetry, summary, dossier
+
+## The Case | Vụ kiện
+The case of Holloway against Veridian Motors had been listed for eight days in the High Court in London, and by the fifth it had become a contest between two stories about a single second. | Vụ Holloway kiện Veridian Motors được xếp lịch xử tám ngày tại Toà án Tối cao ở London, và đến ngày thứ năm nó đã trở thành cuộc đọ sức giữa hai câu chuyện về một giây duy nhất.
+On a wet night two years earlier, Tom Holloway's car had drifted out of its lane on the M4 and struck a barrier, and he had been killed instantly. | Vào một đêm mưa hai năm trước, chiếc xe của Tom Holloway trượt khỏi làn đường trên đường cao tốc M4 và đâm vào dải phân cách, và anh chết ngay tức khắc.
+The car was equipped with a system designed to keep it in its lane, and his widow, Rosa, alleged that the system had malfunctioned. | Chiếc xe được trang bị một hệ thống giữ làn đường, và người vợ goá của anh, Rosa, cáo buộc rằng hệ thống đã gặp trục trặc.
+Veridian maintained that the system had functioned exactly as intended, and that the fault lay with a driver who had been distracted. | Veridian khẳng định hệ thống đã vận hành đúng như thiết kế, và lỗi thuộc về một tài xế mất tập trung.
+gloss: listed, contest, drifted, lane, barrier, instantly, equipped, widow, alleged, malfunctioned, maintained, functioned, distracted
+
+Rosa's barrister was Sebastian Crane, a lawyer of formidable prowess in cross-examination whose manner in court was so courteous that witnesses often failed to notice they were being dismantled. | Luật sư của Rosa là Sebastian Crane, một người có tài đối chất đáng gờm, với phong thái ở toà lịch thiệp đến mức các nhân chứng thường không nhận ra mình đang bị tháo gỡ từng mảnh.
+Veridian's principal expert was Dr. Philippa Marsh, an eminent engineer who had written a seminal textbook on vehicle safety and whose reputation for integrity was, by common consent, impeccable. | Chuyên gia chính của Veridian là tiến sĩ Philippa Marsh, một kỹ sư lỗi lạc từng viết một cuốn giáo trình mang tính nền tảng về an toàn xe cộ, và danh tiếng liêm chính của bà, theo nhận định chung, là không tì vết.
+Her written report concluded unequivocally that the system had worked correctly. | Bản báo cáo bằng văn bản của bà kết luận dứt khoát rằng hệ thống đã hoạt động chính xác.
+Everyone in court understood that if her evidence stood, the case was lost. | Mọi người trong phòng xử đều hiểu rằng nếu lời chứng của bà đứng vững, vụ kiện coi như thua.
+Rosa sat in the front row every day, her hands folded in her lap, listening to hours of technical evidence about her husband's death with a stoicism that Sebastian found almost unbearable to watch. | Ngày nào Rosa cũng ngồi ở hàng đầu, tay đặt trong lòng, nghe hàng giờ bằng chứng kỹ thuật về cái chết của chồng mình với một sự nhẫn nại khiến Sebastian gần như không chịu nổi khi nhìn.
+She had refused two offers of settlement, both conditional on her silence, because what she wanted was not money but an acknowledgement that the car had failed. | Bà đã từ chối hai đề nghị dàn xếp, cả hai đều kèm điều kiện bà phải im lặng, vì điều bà muốn không phải là tiền mà là sự thừa nhận rằng chiếc xe đã hỏng.
+"If it happened to Tom," she had told Sebastian at their first meeting, "it will happen to someone else, and I won't be the reason nobody knows." | "Nếu nó xảy ra với Tom," bà đã nói với Sebastian trong lần gặp đầu tiên, "nó sẽ xảy ra với người khác, và tôi sẽ không là lý do khiến không ai biết."
+gloss: formidable, cross-examination, courteous, principal, textbook, integrity, consent, impeccable, folded, unbearable, settlement, conditional, acknowledgement
+
+## Preparation | Chuẩn bị
+Sebastian had spent three nights reading her report, and he had found no error in it. | Sebastian đã dành ba đêm đọc bản báo cáo của bà, và ông không tìm thấy lỗi nào trong đó.
+Its methodology was rigorous, its reasoning clear, and its conclusions followed logically from its evidence. | Phương pháp luận của nó chặt chẽ, lập luận rõ ràng, và các kết luận đi ra một cách logic từ bằng chứng.
+What troubled him was not what the report said, but what it did not say. | Điều khiến ông băn khoăn không phải là những gì bản báo cáo nói, mà là những gì nó không nói.
+Nowhere did it describe the raw telemetry from Tom Holloway's car, the second-by-second record of steering, speed and sensor readings stored in the vehicle's computer. | Không chỗ nào nó mô tả dữ liệu đo xa thô từ xe của Tom Holloway, tức bản ghi từng giây về tay lái, tốc độ và các chỉ số cảm biến lưu trong máy tính của xe.
+Instead, it relied on a summary prepared by Veridian's own engineers. | Thay vào đó, nó dựa vào một bản tóm tắt do chính các kỹ sư của Veridian soạn.
+gloss: rigorous, reasoning, logically, raw, telemetry, steering, sensor, readings, stored, vehicle
+
+It was the kind of omission that an expert might make in good faith, trusting the data she had been given. | Đó là kiểu thiếu sót mà một chuyên gia có thể mắc với thiện ý, vì tin vào dữ liệu được giao cho mình.
+But if the summary was selective, the report built on it might be erroneous without anyone having lied. | Nhưng nếu bản tóm tắt có chọn lọc, bản báo cáo xây trên nó có thể sai mà không ai phải nói dối.
+Sebastian decided that he would not attack her conclusions at all. | Sebastian quyết định ông sẽ không hề công kích các kết luận của bà.
+He would ask only about the foundations, and he would ask questions to which there could be only one honest answer. | Ông sẽ chỉ hỏi về nền móng, và ông sẽ đặt những câu hỏi mà chỉ có thể có một câu trả lời trung thực.
+gloss: omission, faith, selective, foundations
+
+## Cross-Examination | Đối chất
+"Dr. Marsh, you have enormous experience in this field, haven't you?" he began, when she had taken the oath. | "Thưa tiến sĩ Marsh, bà có kinh nghiệm dày dạn trong lĩnh vực này, phải không ạ?" ông mở đầu, khi bà đã tuyên thệ.
+"I have," she said, a little warily. | "Đúng vậy," bà nói, hơi dè chừng.
+"And you would agree that an expert's conclusions can be no more reliable than the data on which they are based?" | "Và bà sẽ đồng ý rằng kết luận của một chuyên gia không thể đáng tin hơn dữ liệu mà chúng dựa vào?"
+"Naturally." | "Tất nhiên."
+"Isn't it the case that your report relies on a summary of the car's data, prepared by the defendant's own engineers?" | "Chẳng phải là bản báo cáo của bà dựa vào một bản tóm tắt dữ liệu của chiếc xe, do chính các kỹ sư của bị đơn soạn ra sao?"
+"It relies on the data provided to me, yes." | "Nó dựa vào dữ liệu được cung cấp cho tôi, đúng vậy."
+gloss: oath, warily, reliable, defendant
+
+"Did you examine the raw telemetry yourself? Yes or no, please." | "Bà có tự mình kiểm tra dữ liệu đo xa thô không? Xin trả lời có hoặc không."
+There was a pause, which the judge, Mrs. Justice Adebayo, noted without comment. | Có một khoảng lặng, điều mà thẩm phán, bà Adebayo, ghi nhận mà không bình luận.
+"No," Dr. Marsh said. "The raw files are in a proprietary format. I was told the summary contained everything relevant." | "Không," tiến sĩ Marsh nói. "Các tệp thô ở định dạng độc quyền. Tôi được bảo rằng bản tóm tắt chứa mọi thứ liên quan."
+"Who told you that?" | "Ai bảo bà như vậy?"
+"Veridian's legal department." | "Bộ phận pháp chế của Veridian."
+Sebastian let the answer settle in the silence of the courtroom before he asked his next question. | Sebastian để câu trả lời lắng xuống trong sự im lặng của phòng xử trước khi đặt câu hỏi tiếp theo.
+gloss: proprietary, format, relevant, legal, department
+
+"Would you agree that a summary, by its nature, omits information?" | "Bà có đồng ý rằng một bản tóm tắt, tự bản chất, bỏ bớt thông tin?"
+"Of course. That is what a summary is." | "Tất nhiên. Tóm tắt là như vậy."
+"And that, as an independent expert, you cannot tell us what the summary left out, because you have never seen what it was summarizing?" | "Và rằng, với tư cách một chuyên gia độc lập, bà không thể cho chúng tôi biết bản tóm tắt đã bỏ đi những gì, vì bà chưa bao giờ thấy thứ mà nó tóm tắt?"
+Dr. Marsh looked at him for a long moment, and something in her expression changed. | Tiến sĩ Marsh nhìn ông rất lâu, và có điều gì đó trong nét mặt bà thay đổi.
+"That is correct," she said. | "Điều đó đúng," bà nói.
+"No further questions, my lady," said Sebastian, and sat down. | "Tôi không còn câu hỏi nào, thưa thẩm phán," Sebastian nói, rồi ngồi xuống.
+gloss: omits, independent, summarizing, expression
+
+## The Adjournment | Hoãn phiên toà
+Veridian's barrister rose to repair the damage, but the judge adjourned the hearing for the afternoon and ordered the company to disclose the raw telemetry to both parties within seven days. | Luật sư của Veridian đứng dậy để vãn hồi thiệt hại, nhưng thẩm phán hoãn phiên xử buổi chiều và ra lệnh cho công ty cung cấp dữ liệu đo xa thô cho cả hai bên trong vòng bảy ngày.
+In the corridor outside, Rosa Holloway gripped Sebastian's arm and asked whether they had won. | Ngoài hành lang, Rosa Holloway nắm chặt tay Sebastian và hỏi liệu họ đã thắng chưa.
+"Not yet," he said. "But we've stopped losing." | "Chưa," ông nói. "Nhưng chúng ta đã ngừng thua."
+He did not tell her that he felt, beneath his satisfaction, a certain discomfort. | Ông không nói với bà rằng bên dưới sự hài lòng, ông cảm thấy một chút không thoải mái.
+He had not caught the expert in a lie; he had merely demonstrated, with the relentless politeness of his profession, that she had trusted the wrong people. | Ông không hề bắt được vị chuyên gia nói dối; ông chỉ chứng minh, bằng sự lịch thiệp không khoan nhượng của nghề mình, rằng bà đã tin nhầm người.
+gloss: repair, adjourned, hearing, disclose, parties, corridor, gripped, satisfaction, discomfort, politeness
+
+That evening, to his considerable surprise, Dr. Marsh telephoned his chambers. | Tối hôm đó, trước sự ngạc nhiên không nhỏ của ông, tiến sĩ Marsh gọi điện đến văn phòng luật của ông.
+She could not, she said, discuss the substance of the case, and she would say nothing that compromised her duty to the court. | Bà nói bà không thể bàn về nội dung vụ án, và sẽ không nói điều gì làm tổn hại nghĩa vụ của bà đối với toà.
+But she wanted him to know that she had asked Veridian for the raw files twice during her investigation and had been refused both times, and that she had been uneasy ever since. | Nhưng bà muốn ông biết rằng bà đã hai lần yêu cầu Veridian cung cấp các tệp thô trong quá trình điều tra và đều bị từ chối, và từ đó đến nay bà vẫn luôn bất an.
+"You asked exactly the question I should have insisted on," she said. "I'm not sure whether to thank you or resent you." | "Ông đã hỏi đúng câu hỏi mà lẽ ra tôi phải khăng khăng đòi," bà nói. "Tôi không biết nên cảm ơn hay oán ông."
+gloss: chambers, substance, compromised, investigation, uneasy, insisted, resent
+
+## The Data | Dữ liệu
+When the telemetry was finally disclosed, it took the engineers on both sides less than a day to find what the summary had omitted. | Khi dữ liệu đo xa cuối cùng được cung cấp, các kỹ sư của cả hai bên chỉ mất chưa đầy một ngày để tìm ra điều bản tóm tắt đã bỏ đi.
+In the four seconds before the crash, one of the camera sensors had repeatedly lost sight of the lane markings in the rain, and the system had switched itself off without giving the driver the audible warning that the manual promised. | Trong bốn giây trước vụ va chạm, một trong các cảm biến camera liên tục mất dấu vạch kẻ làn đường trong mưa, và hệ thống đã tự tắt mà không phát cảnh báo bằng âm thanh cho tài xế như sách hướng dẫn cam kết.
+The discrepancy was small, a matter of software rather than hardware, but it was precisely the kind of detail that had disappeared from the summary. | Sự chênh lệch nhỏ, là vấn đề của phần mềm chứ không phải phần cứng, nhưng đó chính là kiểu chi tiết đã biến mất khỏi bản tóm tắt.
+Dr. Marsh filed a supplementary report acknowledging that her original conclusion could not be sustained. | Tiến sĩ Marsh nộp một bản báo cáo bổ sung thừa nhận rằng kết luận ban đầu của bà không thể đứng vững.
+gloss: crash, markings, switched, audible, manual, software, hardware, filed, supplementary, acknowledging, sustained
+
+Veridian settled the case a week later, on terms that were confidential but that Rosa described to the newspapers as "an admission in everything but words". | Một tuần sau, Veridian dàn xếp vụ kiện, với các điều khoản được giữ bí mật nhưng Rosa mô tả với báo chí là "một sự thừa nhận về mọi mặt trừ lời nói".
+The company also quietly updated the software in thousands of cars. | Công ty cũng lặng lẽ cập nhật phần mềm trên hàng nghìn chiếc xe.
+In hindsight, Sebastian thought, the whole case had turned on a single omission, and on an expert honest enough to admit it. | Nhìn lại, Sebastian nghĩ, cả vụ án đã xoay chuyển nhờ một thiếu sót duy nhất, và nhờ một chuyên gia đủ trung thực để thừa nhận nó.
+Sebastian kept the transcript of the cross-examination, and he sometimes gave it to young barristers as an example. | Sebastian giữ lại biên bản cuộc đối chất, và đôi khi ông đưa nó cho các luật sư trẻ làm ví dụ.
+"The best question," he would tell them, "isn't the one that proves the witness wrong. It's the one that lets an honest witness tell the truth." | "Câu hỏi hay nhất," ông thường bảo họ, "không phải câu chứng minh nhân chứng sai. Mà là câu cho phép một nhân chứng trung thực nói ra sự thật."
+gloss: settled, confidential, admission, updated, transcript

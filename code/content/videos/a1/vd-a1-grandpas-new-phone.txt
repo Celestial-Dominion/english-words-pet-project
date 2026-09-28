@@ -1,0 +1,30 @@
+=== vd-a1-grandpas-new-phone
+title: First, Touch the Camera | Đầu tiên, ông chạm vào máy ảnh
+source: st-a1-grandpas-new-phone
+summary: Zoe dạy ông Joe từng bước chụp ảnh con mèo Bella và gửi cho cả nhà — nhưng ông bấm hơi nhiều lần.
+scene: home-evening
+prop: phone x=800
+cast: zoe name=Zoe look=teengirl x=520 voice=en-US-EmmaNeural pitch=+6Hz style.hair=ponytail style.hairColor=#3A2A22 style.top=#8C7BC2 style.topShade=#7666AD style.skin=#E9B896 style.skinShade=#D49E7A
+cast: joe name="Grandpa Joe" vi="Ông Joe" look=grandpa x=1100 voice=en-US-RogerNeural rate=-12% pitch=-4Hz style.glasses=true
+names: Bella
+gloss: press, screen, send
+words: camera; photo; send; touch; family
+focus: Hướng dẫn từng bước
+pattern: First, … · Then … · Now … · Don't … · Press / Touch …
+explain: Hướng dẫn ai làm gì dùng động từ nguyên thể đứng đầu câu (câu mệnh lệnh): "Touch the camera." Nối các bước bằng "First → Then → Now". Muốn bảo đừng làm thì thêm "Don't" ở đầu.
+keys: first / then / now / don't
+
+joe: Zoe, I want a photo of Bella. | Zoe ơi, ông muốn chụp một tấm ảnh con Bella. [happy]
+zoe: OK, Grandpa. First, touch the camera here. | Vâng ạ. Đầu tiên, ông chạm vào máy ảnh ở đây. [explain @phone]
+joe: This one? The little black camera? | Cái này à? Cái máy ảnh nhỏ màu đen này à? [thinking point @phone]
+zoe: Yes! Then look at the screen. | Đúng rồi ạ! Rồi ông nhìn vào màn hình. [nod]
+joe: I can see Bella! She is on the sofa. | Ông thấy con Bella rồi! Nó đang nằm trên ghế sofa. [surprised]
+zoe: Good. Now press the big white circle. | Giỏi quá. Giờ ông bấm vào vòng tròn to màu trắng. [explain]
+joe: Like this? | Thế này à? [thinking]
+zoe: Yes! Now you have a photo. | Đúng rồi ạ! Giờ ông có ảnh rồi đấy. [happy]
+joe: Wonderful! How do I send it to the family? | Tuyệt quá! Làm sao để ông gửi cho cả nhà? [happy]
+zoe: Touch the photo, then touch "Send." | Ông chạm vào tấm ảnh, rồi chạm vào chữ "Send". [explain]
+joe: Send, send, send… | Gửi, gửi, gửi… [happy]
+zoe: Grandpa, stop! Don't press it again! | Ông ơi, dừng lại! Ông đừng bấm nữa! [surprised ~message:20]
+joe: Oh. How many photos did I send? | Ơ. Ông gửi mấy tấm rồi? [confused]
+zoe: Twenty, Grandpa. Twenty photos of Bella! | Hai mươi tấm ạ. Hai mươi tấm ảnh con Bella! [happy joe:shy]

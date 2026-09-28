@@ -1,0 +1,32 @@
+=== vd-a1-the-hottest-day
+title: You Should Drink Some Water | Bà nên uống chút nước
+source: st-a1-the-hottest-day
+summary: Căn hộ của bà Rose nóng như lò; Jada và bố khuyên bà vài điều cần làm ngay trong ngày nóng nhất năm.
+scene: home-day
+prop: water-bottle x=800
+cast: jada name=Jada look=teengirl x=560 voice=en-US-EmmaNeural pitch=+6Hz style.hair=curly style.hairColor=#1F1A1C style.skin=#7A4A2E style.skinShade=#643A22 style.top=#F2C14E style.topShade=#D9A933
+cast: dad name=Dad vi=Bố look=dad x=330 voice=en-US-GuyNeural style.skin=#7A4A2E style.skinShade=#643A22 style.hairColor=#1F1A1C style.top=#5E9E7A style.topShade=#4B8765
+cast: rose name="Grandma Rose" vi="Bà Rose" look=grandma x=1170 voice=en-US-MichelleNeural rate=-12% pitch=-6Hz style.skin=#8D5A3B style.skinShade=#74472D style.outfit=cardigan style.top=#C9A15C style.topShade=#B08A45
+names: Rose
+gloss: sweater, thirsty, air conditioning
+words: hot; drink; water; should; library
+focus: Khuyên nhủ với "should / shouldn't"
+pattern: You should + động từ… · You shouldn't + động từ… · Why don't you…?
+explain: "Should + động từ" là lời khuyên nên làm; "shouldn't" là không nên. Khuyên nhẹ nhàng hơn có thể nói "Why don't you…?". Đáp lại: "OK, you're right." hoặc "I'm OK, really."
+keys: you should / you shouldn't / why don't you
+
+jada: Grandma! It's so hot in here! | Bà ơi! Trong này nóng quá! [surprised]
+rose: Is it? I'm OK. I'm just a little tired. | Thế à? Bà không sao. Bà chỉ hơi mệt thôi. [tired]
+dad: Mom, your face is very red. | Mẹ ơi, mặt mẹ đỏ lắm. [worried]
+jada: And you're wearing a sweater! | Mà bà còn đang mặc áo len nữa! [surprised point]
+rose: I like this sweater. | Bà thích cái áo len này. [neutral]
+jada: You shouldn't wear it today, Grandma. | Hôm nay bà không nên mặc nó đâu ạ. [shake]
+dad: And you should drink some water. | Mẹ cũng nên uống chút nước đi. [explain @water-bottle]
+rose: But I'm not thirsty. | Nhưng mẹ có khát đâu. [confused]
+dad: Old people often don't feel thirsty. But you need water. | Người già hay không thấy khát. Nhưng mẹ vẫn cần nước. [explain]
+rose: OK, OK. You're right. | Được rồi, được rồi. Con nói đúng. [shy]
+jada: Why don't you come to the library with us? | Sao bà không đến thư viện với bọn cháu ạ? [happy]
+rose: The library? Why? | Thư viện á? Để làm gì? [confused]
+jada: It's cool there. You should read the newspaper with me. | Ở đó mát lắm. Bà nên đọc báo cùng cháu. [happy ipa=read:ɹid]
+rose: A cool library and my granddaughter? That sounds good. | Thư viện mát mẻ lại có cháu gái đi cùng à? Nghe hay đấy. [happy jada:happy dad:happy]
+gloss: granddaughter

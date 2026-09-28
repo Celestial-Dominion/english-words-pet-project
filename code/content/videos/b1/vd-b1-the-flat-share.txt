@@ -1,0 +1,36 @@
+=== vd-b1-the-flat-share
+title: Can We Agree on That? | Mình thống nhất thế nhé?
+source: st-b1-the-flat-share
+summary: Buổi họp nhà quanh bàn bếp: Kwame điều phối, Jade và Tomasz lần lượt đưa ra đề nghị và nhượng bộ để cả bốn cùng sống yên ổn.
+scene: kitchen
+prop: tea x=800
+prop: notebook x=1010 y=640 scale=0.8
+cast: kwame name=Kwame look=man x=300 voice=en-US-AndrewNeural pitch=-2Hz style.hair=short style.hairColor=#1A1A1A style.skin=#6E4127 style.skinShade=#58321D style.outfit=tee style.top=#C9A227 style.topShade=#AE8B1F
+cast: jade name=Jade look=woman x=800 voice=en-US-EmmaNeural pitch=+4Hz style.hair=long style.hairColor=#C8963E style.outfit=blouse style.top=#D6608B style.topShade=#BD4F77
+cast: tomasz name=Tomasz look=teenboy x=1300 voice=en-US-EricNeural pitch=+8Hz style.hair=fringe style.hairColor=#8B6B4A style.outfit=jacket style.top=#4A5D7E style.topShade=#3C4D69
+names: Hana, Jade, Kwame, Tomasz
+gloss: rota
+words: fair; agree; compromise; noise; mind; awkward
+focus: Thương lượng và thoả hiệp
+pattern: How about if we…? · Would you mind (+V-ing)…? · That sounds fair. · I can live with that. · Can we agree that…? · What if…?
+explain: Đề nghị mềm mỏng: "How about if we…?", "What if we…?". Nhờ vả lịch sự: "Would you mind + V-ing?" (trả lời đồng ý: "No, not at all"). Chấp nhận thoả hiệp: "That sounds fair", "I can live with that". Chốt lại: "Can we agree that…?".
+keys: how about if we / would you mind / that sounds fair / i can live with that / can we agree that / what if
+
+kwame: OK, everyone. No shouting tonight. Let's get rid of all this tension. | Được rồi, mọi người. Tối nay không ai la hét. Mình dẹp hết căng thẳng đi. [explain @tea]
+jade: This is a bit awkward, but can I start? It's about the dishes. | Hơi ngại, nhưng tớ nói trước nhé? Chuyện bát đĩa. [shy]
+kwame: Go ahead. | Cậu nói đi. [nod]
+jade: I know I leave them. I'm sorry. What if we had a cleaning rota? | Tớ biết tớ hay bỏ bát đĩa lại. Tớ xin lỗi. Hay là mình lập bảng phân công dọn dẹp? [explain]
+tomasz: That sounds fair. One week each for the kitchen. | Nghe công bằng đấy. Mỗi người một tuần lo bếp. [nod]
+kwame: Good. And the noise at night? | Tốt. Còn chuyện ồn ào ban đêm? [thinking]
+tomasz: That's me, I know. Would you mind if I played until midnight on Fridays? | Là tớ, tớ biết. Các cậu có phiền không nếu tớ chơi đến nửa đêm vào tối thứ Sáu? [shy]
+jade: Only on Fridays? I can live with that. | Chỉ tối thứ Sáu thôi à? Tớ chấp nhận được. [thinking ipa=live:lɪv]
+kwame: And with headphones on, please. | Và nhớ đeo tai nghe nhé. [explain]
+tomasz: No problem. Headphones every night. I promise. | Không vấn đề gì. Đêm nào tớ cũng đeo tai nghe. Tớ hứa. [happy]
+jade: Kwame, what about your trumpet? | Kwame, thế còn cây kèn trumpet của cậu? [thinking]
+kwame: How about if I practice at the university in the afternoons? | Hay là chiều nào tớ cũng tập ở trường nhé? [explain]
+jade: Really? You'd do that? | Thật à? Cậu chịu làm vậy sao? [surprised]
+kwame: Of course. It's a compromise. We all give a little. | Tất nhiên. Đó là thoả hiệp mà. Ai cũng nhường một chút. [happy]
+tomasz: So can we agree that after eleven, the flat is quiet? | Vậy mình thống nhất là sau mười một giờ, cả nhà giữ yên lặng nhé? [explain]
+jade: Agreed. Hana will be very happy. | Đồng ý. Hana sẽ vui lắm đây. [happy]
+kwame: One last thing. Who's been drinking my milk? | Còn một chuyện cuối. Ai hay uống sữa của tớ vậy? [thinking]
+tomasz: Ah… What if we bought milk from a shared fund? Starting tomorrow? | À… Hay là mình mua sữa bằng quỹ chung? Bắt đầu từ mai nhé? [shy jade:happy kwame:surprised]

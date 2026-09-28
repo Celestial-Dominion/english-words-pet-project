@@ -1,0 +1,31 @@
+=== vd-a2-vote-for-nadia
+title: If I Win, I'll… | Nếu tớ thắng, tớ sẽ…
+source: st-a2-vote-for-nadia
+summary: Tối trước ngày bầu cử, Nadia tập bài phát biểu trước Ellis; Ellis đóng vai một bạn học khó tính và hỏi dồn.
+scene: classroom
+prop: microphone x=800
+cast: nadia name=Nadia look=teengirl x=520 voice=en-US-AnaNeural rate=-2% style.hair=bun style.hairColor=#1F1A1C style.skin=#C68E6A style.skinShade=#AD7654 style.outfit=uniform style.top=#2E7D6B style.topShade=#246657
+cast: ellis name=Ellis look=teenboy x=1150 voice=en-US-EricNeural pitch=+12Hz style.hair=short style.hairColor=#D9B26F style.outfit=uniform style.top=#2E7D6B style.topShade=#246657
+names: Ellis, Marcus, Nadia
+gloss: lockers
+words: promise; vote; library; fix; club; win
+focus: Hứa hẹn và điều kiện (câu điều kiện loại 1)
+pattern: If you vote for me, I'll … · If I win, I'll … · I promise … · I won't … · What will you do if …?
+explain: Câu điều kiện loại 1: "If + hiện tại đơn, will + động từ" cho điều có thể xảy ra: "If I win, I'll fix the lockers." Không dùng "will" sau "if". Hứa: "I promise (that) I'll…", "I won't…" (sẽ không).
+keys: if you vote for me / if i win / i'll / i promise / i won't / what will you do if
+
+ellis: OK, candidate Nadia. Why should I vote for you? | Được rồi, ứng cử viên Nadia. Tại sao tớ nên bầu cho cậu? [thinking]
+nadia: Because I listen. I asked everybody about our school. | Vì tớ biết lắng nghe. Tớ đã hỏi mọi người về trường mình. [shy @microphone]
+ellis: Louder, please! I can't hear you at the back. | To lên nào! Ngồi cuối lớp tớ không nghe thấy. [happy]
+nadia: Because I listen! | Vì tớ biết lắng nghe! [surprised]
+ellis: Better. So, what will you do if you win? | Khá hơn rồi. Vậy cậu sẽ làm gì nếu thắng? [thinking]
+nadia: If I win, I'll ask for a quiet room in the library. | Nếu tớ thắng, tớ sẽ đề nghị có một phòng yên tĩnh trong thư viện. [explain]
+ellis: Marcus says he'll give us pizza every week. | Marcus nói cậu ấy sẽ cho bọn mình ăn pizza hằng tuần. [happy]
+nadia: I won't promise pizza. I can't pay for it! | Tớ sẽ không hứa pizza đâu. Tớ đâu có tiền trả! [shake]
+ellis: Ha! Fair. What else? | Ha! Công bằng. Còn gì nữa? [happy]
+nadia: If you vote for me, I'll ask the school to fix the lockers. | Nếu các bạn bầu cho tớ, tớ sẽ đề nghị nhà trường sửa tủ đồ. [explain]
+ellis: And the new students? They don't know anyone. | Còn các bạn mới thì sao? Họ chẳng quen ai cả. [thinking]
+nadia: I'll start a lunch club for them. I promise. | Tớ sẽ lập một câu lạc bộ ăn trưa cho họ. Tớ hứa đấy. [happy]
+ellis: What will you do if you lose? | Cậu sẽ làm gì nếu thua? [thinking]
+nadia: If I lose, I'll start the club anyway. | Nếu thua, tớ vẫn sẽ lập câu lạc bộ. [happy]
+ellis: Then I'll vote for you. And I'll tell everybody. | Vậy thì tớ sẽ bầu cho cậu. Và tớ sẽ nói với tất cả mọi người. [happy cheer nadia:happy]

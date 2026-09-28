@@ -1,0 +1,33 @@
+=== vd-a2-the-fake-message
+title: Don't Click That! | Đừng bấm vào đó!
+source: st-a2-the-fake-message
+summary: Ana đang gõ số thẻ ngân hàng của mẹ vào một trang web tặng quà thì anh Leo bước vào — và đọc thấy có gì đó không ổn.
+scene: home-evening
+prop: phone x=800
+cast: ana name=Ana look=teengirl x=520 voice=en-US-EmmaNeural pitch=+6Hz style.hair=ponytail style.hairColor=#3A2A22 style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=tee style.top=#F08FB0 style.topShade=#DC7398
+cast: leo name=Leo look=man x=1130 voice=en-US-BrianNeural from=1 style.hair=fringe style.hairColor=#3A2A22 style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=jacket style.top=#3A3F4A style.topShade=#2A2F38 style.scale=0.95
+gloss: link, scam, details, delivery
+words: message; prize; trick; account; careful; click
+focus: Cảnh báo và giải thích nguy hiểm
+pattern: Stop! · Don't…! · Be careful! · Watch out! · If you…, they'll…
+explain: Cảnh báo gấp dùng câu mệnh lệnh ngắn: "Stop!", "Don't click!", "Be careful!". Giải thích hậu quả bằng câu điều kiện loại 1: "If you type your card number, they'll take the money."
+keys: stop / don't / be careful / watch out / if you
+
+ana: Yes! A new phone! Just a small fee… | Yeah! Điện thoại mới! Chỉ một khoản phí nhỏ… [happy]
+leo: Ana, what are you doing with Mom's card? | Ana, em làm gì với thẻ của mẹ thế? [confused]
+ana: I won a prize! Look at this message. | Em trúng thưởng! Anh xem tin nhắn này này. [happy point @phone]
+leo: Stop! Don't type anything! | Dừng lại! Đừng gõ gì hết! [surprised]
+ana: Why not? It's only two dollars. | Sao lại không? Có hai đô la thôi mà. [confused]
+leo: Be careful. This is a scam. | Cẩn thận đấy. Đây là lừa đảo. [worried shake]
+ana: How do you know? | Sao anh biết? [confused]
+leo: Look at the address. It's really strange. | Nhìn địa chỉ đi. Lạ lắm. [explain point @phone]
+leo: And there are mistakes in the English. | Tiếng Anh lại còn sai nữa. [explain]
+ana: But the website has a photo of the phone. | Nhưng trang web có ảnh chiếc điện thoại mà. [thinking]
+leo: Anyone can put a photo on a website. It's an old trick. | Ai mà chẳng đưa được ảnh lên mạng. Chiêu cũ rồi. [shrug]
+leo: If you type Mom's card number, they'll take all the money in her account. | Nếu em gõ số thẻ của mẹ, chúng sẽ lấy hết tiền trong tài khoản của mẹ. [explain]
+ana: All the money? Oh no… | Hết tiền á? Ôi không… [surprised]
+leo: Watch out for messages like this. Never click the link. | Hãy cảnh giác với những tin nhắn kiểu này. Đừng bao giờ bấm vào đường link. [neutral]
+ana: I clicked it already. Is that a problem? | Em bấm rồi. Như vậy có sao không ạ? [worried]
+leo: Close it now, delete the message, and let's tell Mom. | Đóng ngay đi, xoá tin nhắn, rồi mình kể với mẹ. [explain ipa=close:kloʊz]
+ana: OK. Thanks, Leo. That was close! | Vâng. Cảm ơn anh. Suýt nữa thì toi! [shy leo:happy ipa=close:kloʊs]
+gloss: delete, anyone

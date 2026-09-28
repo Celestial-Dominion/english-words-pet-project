@@ -1,0 +1,32 @@
+=== vd-a1-twenty-pizzas
+title: How Many Pizzas? | Bao nhiêu chiếc pizza?
+source: st-a1-twenty-pizzas
+summary: Cô Lane gọi điện đặt pizza cho bữa tiệc của trường; Marco nghe máy thay bố và phải hỏi rõ số lượng, giá tiền và giờ giao.
+scene: kitchen
+prop: pizza x=820
+cast: marco name=Marco look=boy x=520 voice=en-US-AnaNeural pitch=-12Hz style.hairColor=#2A2024 style.outfit=apron style.top=#E5484D style.topShade=#C73A3F
+cast: rossi name="Mr. Rossi" vi="Ông Rossi" look=dad x=1150 voice=en-US-GuyNeural rate=-4% style.hairColor=#2A2226 style.outfit=apron style.top=#9FC4E8 style.topShade=#86ACD2
+cast: lane name="Ms. Lane" vi="Cô Lane" look=woman x=420 voice=en-US-AvaNeural call call.bg=classroom style.hair=long style.hairColor=#B5652E
+names: Lane, Rossi
+gloss: order
+words: pizza; party; address; dollar; o'clock
+focus: Hỏi số lượng, giá tiền, giờ giấc
+pattern: How many…? · How much is it? · It's … dollars. · What time…?
+explain: "How many + danh từ số nhiều" hỏi số lượng đếm được (How many pizzas?). "How much…?" hỏi giá tiền. "What time…?" hỏi giờ — đáp "At + giờ" (At six o'clock).
+keys: how many / how much / what time / dollars
+
+marco: Hello, Rossi's Pizza! | A lô, tiệm pizza Rossi xin nghe! [happy]
+lane: Hi! Can I order some pizzas for a school party? | Chào cháu! Cô đặt ít pizza cho tiệc của trường được không? [happy]
+marco: Yes, of course. How many pizzas? | Dạ được ạ. Cô đặt bao nhiêu chiếc ạ? [happy]
+lane: Twenty, please. | Hai mươi chiếc nhé. [neutral]
+marco: Twenty? Wow! Just a moment. | Hai mươi ạ? Oa! Cô đợi cháu một chút. [surprised]
+marco: Dad, how much are twenty pizzas? | Bố ơi, hai mươi chiếc pizza thì bao nhiêu tiền ạ? [thinking]
+rossi: Ten dollars for one. So, two hundred dollars. | Mười đô một chiếc. Vậy là hai trăm đô. [explain ~money:200]
+marco: It's two hundred dollars. Is that OK? | Hết hai trăm đô la ạ. Như vậy có được không ạ? [neutral]
+lane: Yes, that's fine. | Được, không sao. [nod]
+marco: What time do you need them? | Cô cần lúc mấy giờ ạ? [thinking]
+lane: At six o'clock, please. | Sáu giờ nhé cháu. [neutral]
+marco: Six o'clock. OK! And the address? | Sáu giờ. Vâng ạ! Còn địa chỉ ạ? [explain ~clock:6:00]
+lane: The school near the river. Thank you! | Trường gần bờ sông nhé. Cảm ơn cháu! [happy]
+rossi: Twenty pizzas at six? It's three o'clock now! | Hai mươi chiếc lúc sáu giờ á? Giờ đã ba giờ rồi! [surprised marco:worried]
+gloss: hundred

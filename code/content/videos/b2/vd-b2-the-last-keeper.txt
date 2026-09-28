@@ -1,0 +1,34 @@
+=== vd-b2-the-last-keeper
+title: I Was Polishing the Lens When… | Tôi đang lau thấu kính thì…
+source: st-b2-the-last-keeper
+summary: Bên bếp lò trong hải đăng, ông Declan kể cho Maya chuyện lạ nhất từng xảy ra trên đảo: một con thuyền trôi dạt không người — luyện kể chuyện với các thì quá khứ.
+scene: sea-dawn
+prop: puppy x=860 y=900
+cast: maya name=Maya look=woman x=520 voice=en-US-AnaNeural pitch=-4Hz style.hair=long style.hairColor=#1A1A1A style.skin=#F1D3B3 style.skinShade=#DDBB98 style.outfit=coat style.top=#AF601A style.topShade=#935116
+cast: declan name=Declan look=grandpa x=1160 voice=en-US-RogerNeural pitch=-3Hz rate=-4% style.outfit=jacket style.top=#1B4F72 style.topShade=#154360
+names: Maya, Declan, Brigid
+words: polish; drift; storm; harbor; blanket; terrified
+focus: Kể một câu chuyện (anecdote) với các thì quá khứ
+pattern: I was + V-ing when… · There had been… · I'd been + V-ing for hours · It turned out (that)… · How long had it been…? · What happened when…?
+explain: Quá khứ tiếp diễn làm nền: "I was polishing the lens when I saw a boat." Quá khứ hoàn thành cho việc xảy ra trước đó: "There had been a storm." Quá khứ hoàn thành tiếp diễn cho quá trình kéo dài trước một mốc: "I'd been watching the sea for hours." "It turned out (that)…" để hé lộ sự thật. Người nghe giữ mạch chuyện bằng "And what happened?", "How long had it been…?".
+keys: i was polishing / had there been / i'd been watching / it turned out / how long had it been / what happened when
+
+maya: Declan, what's the strangest thing that's ever happened to you here? | Ông Declan, chuyện lạ nhất từng xảy ra với ông ở đây là gì ạ? [thinking]
+declan: The strangest? That would be the summer of ninety-four. I was polishing the lens just after dawn. | Lạ nhất à? Chắc là mùa hè năm chín mươi tư. Hôm đó tôi đang lau thấu kính ngay sau bình minh. [thinking]
+maya: And what happened? | Rồi chuyện gì xảy ra ạ? [happy]
+declan: I looked out and saw a small boat drifting past the island. There was nobody in it, or so I thought. | Tôi nhìn ra và thấy một chiếc thuyền nhỏ trôi ngang qua đảo. Trên thuyền không có ai, hay ít ra tôi tưởng vậy. [point]
+maya: Had there been a storm? | Trước đó có bão ạ? [thinking]
+declan: There had. It had been blowing hard all night, and I'd been watching the sea for hours. | Có đấy. Gió thổi mạnh suốt đêm, và tôi đã canh mặt biển hàng giờ liền. [explain]
+maya: So what did you do? | Vậy ông đã làm gì? [surprised]
+declan: I took our little rowing boat and went out to it. It was hard work, I can tell you. | Tôi lấy chiếc xuồng chèo nhỏ của nhà và ra chỗ nó. Vất vả lắm, tôi nói thật. [explain]
+maya: And was it really empty? | Thế nó có thực sự trống không ạ? [thinking]
+declan: No! When I got close, a little brown dog put its head up and started barking at me. | Không! Khi tôi tới gần, một chú chó nhỏ màu nâu ngóc đầu lên và sủa tôi inh ỏi. [happy @puppy ipa=close:kloʊs]
+maya: A dog? How long had it been out there? | Một chú chó ư? Nó đã ở ngoài đó bao lâu rồi ạ? [surprised]
+declan: About two days, it turned out. The boat had broken loose from a harbor on the mainland. | Hoá ra khoảng hai ngày. Con thuyền đã tuột dây khỏi một bến cảng trên đất liền. [explain]
+maya: The poor thing must have been utterly terrified. | Tội nghiệp, hẳn nó đã sợ chết khiếp. [sad]
+declan: It was shaking like a leaf. Brigid wrapped it in a blanket and fed it half our dinner. | Nó run như cầy sấy. Brigid quấn nó trong chăn và cho nó ăn nửa bữa tối của hai vợ chồng. [sad]
+maya: Did you ever find the owners? | Ông có tìm được chủ của nó không? [thinking]
+declan: We did. A little girl had been crying for two days because she thought her dog had drowned. | Có chứ. Một cô bé đã khóc suốt hai ngày vì tưởng chú chó của mình chết đuối. [sad]
+maya: Oh, that's lovely. What happened when they came to collect it? | Ôi, thật dễ thương. Chuyện gì xảy ra khi họ đến đón nó ạ? [happy]
+declan: She ran up the jetty and the dog nearly knocked her over. She still sends me a card every Christmas. | Cô bé chạy lên cầu tàu và chú chó suýt xô ngã cô. Đến giờ Giáng sinh nào cô bé cũng gửi thiệp cho tôi. [happy maya:happy]
+gloss: jetty, mainland, lens

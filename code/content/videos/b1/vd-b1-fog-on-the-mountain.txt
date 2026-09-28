@@ -1,0 +1,33 @@
+=== vd-b1-fog-on-the-mountain
+title: Stay Calm. Help Is on the Way. | Bình tĩnh. Cứu hộ đang đến.
+source: st-b1-fog-on-the-mountain
+summary: Giữa màn sương lạnh buốt, Nadia trấn an Tom vừa bị ngã, kiểm tra vết thương và giữ cho bạn tỉnh táo trong lúc chờ đội cứu hộ.
+scene: mountain-night
+cast: tom name=Tom look=teenboy x=560 voice=en-US-EricNeural pitch=+10Hz rate=-4% style.hair=short style.hairColor=#B5652E style.outfit=jacket style.top=#C0392B style.topShade=#A93226
+cast: nadia name=Nadia look=woman x=1140 voice=en-US-AriaNeural pitch=+2Hz style.hair=ponytail style.hairColor=#1F1A1C style.skin=#C68E6A style.skinShade=#AD7654 style.outfit=jacket style.top=#2E86AB style.topShade=#246E8D
+names: Nadia, Tom
+words: calm; hurt; warm; injured; rescue; awake
+focus: Trấn an người khác trong tình huống khẩn cấp
+pattern: Stay calm. · Don't move. · You're going to be OK. · Help is on the way. · Can you feel…? · Try to… · Keep talking to me.
+explain: Trong khủng hoảng, dùng câu mệnh lệnh ngắn, rõ: "Don't move.", "Stay still.". Trấn an bằng tương lai gần: "You're going to be OK.", "Help is on the way." Hỏi tình trạng: "Can you feel your toes?", "Does it hurt when…?". Giữ liên lạc: "Keep talking to me."
+keys: stay calm / don't move / you're going to be ok / help is on the way / can you feel / keep talking to me
+
+tom: Ow! My ankle! I think I've broken it! | Ối! Mắt cá chân tớ! Tớ nghĩ tớ gãy chân rồi! [tearful]
+nadia: Tom, stay calm. Don't move. Let me have a look. | Tom, bình tĩnh. Đừng cử động. Để tớ xem nào. [worried]
+tom: It really hurts, Nadia. | Đau lắm, Nadia ơi. [tearful]
+nadia: I know. Can you move your toes? | Tớ biết. Cậu cử động ngón chân được không? [thinking]
+tom: Yes… a little. | Được… một chút. [sad]
+nadia: Good. That's a good sign. Does it hurt when I touch here? | Tốt. Đó là dấu hiệu tốt. Tớ chạm vào đây có đau không? [explain]
+tom: Yes! Don't touch it! | Có! Đừng chạm vào! [angry]
+nadia: Sorry. OK, you're injured, but you're going to be OK. | Xin lỗi. Được rồi, cậu bị thương, nhưng cậu sẽ ổn thôi. [explain]
+tom: How can we get down? I can't walk in this fog. | Làm sao mình xuống được đây? Tớ không đi nổi trong sương mù thế này. [worried]
+nadia: We're not going down. It's too dangerous. We'll wait here, behind this rock. | Mình không xuống. Nguy hiểm lắm. Mình sẽ đợi ở đây, sau tảng đá này. [explain]
+tom: I'm so cold. I can't stop shaking. | Tớ lạnh quá. Tớ không ngừng run được. [sad]
+nadia: Put my jacket on. Try to keep your hands inside. We need to keep you warm. | Mặc áo khoác của tớ vào. Cố giữ tay ở bên trong nhé. Mình phải giữ ấm cho cậu. [explain]
+tom: Did you call for help? | Cậu gọi cứu hộ chưa? [worried]
+nadia: Yes. The rescue team knows where we are. Help is on the way. | Rồi. Đội cứu hộ biết mình ở đâu. Họ đang đến. [nod]
+tom: How long will it take? | Mất bao lâu nữa? [worried]
+nadia: A few hours, maybe. But they'll find us. I promise. | Có lẽ vài tiếng. Nhưng họ sẽ tìm thấy mình. Tớ hứa. [explain]
+tom: I feel so tired. I just want to sleep. | Tớ mệt quá. Tớ chỉ muốn ngủ thôi. [sad]
+nadia: No, Tom. You need to stay awake. Keep talking to me. Tell me about your holiday plans. | Không được, Tom. Cậu phải thức. Cứ nói chuyện với tớ đi. Kể tớ nghe kế hoạch kỳ nghỉ của cậu. [worried]
+tom: My holiday? Somewhere warm. Definitely somewhere warm. | Kỳ nghỉ của tớ á? Chỗ nào ấm áp. Chắc chắn là chỗ nào đó ấm áp. [happy nadia:happy]

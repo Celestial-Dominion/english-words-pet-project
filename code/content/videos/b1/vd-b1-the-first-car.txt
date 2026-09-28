@@ -1,0 +1,33 @@
+=== vd-b1-the-first-car
+title: That's My Final Offer | Đó là giá cuối cùng của tôi
+source: st-b1-the-first-car
+summary: Có lời khuyên của Bex trong đầu, Tomás lần đầu mặc cả với ông Crane dẻo miệng — lịch sự, có lý lẽ và sẵn sàng bỏ đi.
+scene: street
+cast: crane name="Mr. Crane" vi="Ông Crane" look=man x=540 voice=en-US-GuyNeural pitch=-2Hz rate=+4% style.hair=bald style.outfit=shirt style.top=#D4AC0D style.topShade=#B7950B
+cast: tomas name=Tomás look=teenboy x=1140 voice=en-US-EricNeural pitch=+10Hz style.hair=short style.hairColor=#3A2A22 style.skin=#C9936B style.skinShade=#B07A55 style.outfit=jacket style.top=#1F618D style.topShade=#1A5276
+names: Bex, Crane, Tomás
+words: offer; price; fair; repair; deal; accident
+focus: Mặc cả giá
+pattern: Would you take…? · That's too much for me. · Can you do any better? · How about we meet in the middle? · That's my final offer. · It's a deal.
+explain: Đề nghị giá: "Would you take three thousand?". Từ chối khéo: "That's too much for me." Yêu cầu giảm: "Can you do any better?". Thoả hiệp: "How about we meet in the middle?" (gặp nhau ở giữa). Chốt: "That's my final offer.", "It's a deal." (đồng ý giao dịch).
+keys: would you take / too much for me / can you do any better / meet in the middle / final offer / it's a deal
+
+crane: So, have you decided? It's a beautiful car. | Sao, cậu quyết định chưa? Chiếc xe đẹp lắm đấy. [happy]
+tomas: It is. But my friend found some problems. | Đúng vậy. Nhưng bạn tôi phát hiện vài vấn đề. [shy]
+crane: Problems? What problems? | Vấn đề ư? Vấn đề gì? [surprised]
+tomas: The brakes and tires need replacing, and the back has been repainted. | Phanh và lốp cần thay, và phía đuôi xe đã được sơn lại. [explain]
+crane: Oh, that. It was a very small accident. Nothing serious. | Ồ, cái đó. Một vụ va chạm rất nhỏ thôi. Không có gì nghiêm trọng. [neutral]
+tomas: The repairs will cost about seven hundred dollars. Would you take three thousand? | Tiền sửa chữa sẽ tốn khoảng bảy trăm đô. Ông có bán ba nghìn không? [thinking]
+crane: Three thousand? That's ridiculous. The price is three thousand eight hundred. | Ba nghìn á? Thật lố bịch. Giá là ba nghìn tám trăm. [angry]
+tomas: That's too much for me, I'm afraid. Can you do any better? | Tôi e là giá đó quá cao với tôi. Ông có bớt được không? [shy]
+crane: Three thousand six hundred. That's already a very good price. | Ba nghìn sáu trăm. Thế là rẻ lắm rồi đấy. [thinking]
+tomas: I understand, but I need to pay for the repairs, too. | Tôi hiểu, nhưng tôi còn phải trả tiền sửa chữa nữa. [explain]
+crane: Lots of people want this car, you know. | Nhiều người muốn chiếc xe này lắm, cậu biết đấy. [thinking]
+tomas: Then maybe you should sell it to them. Three thousand is a fair price. | Vậy có lẽ ông nên bán cho họ. Ba nghìn là giá hợp lý. [explain]
+crane: Wait, wait. How about we meet in the middle? Three thousand four hundred. | Khoan, khoan. Hay mình gặp nhau ở giữa nhé? Ba nghìn bốn trăm. [worried]
+tomas: Three thousand two hundred. That's my final offer. | Ba nghìn hai trăm. Đó là giá cuối cùng của tôi. [explain]
+crane: You're tougher than you look, young man. | Cậu cứng rắn hơn vẻ ngoài đấy, chàng trai. [thinking]
+tomas: My friend is a mechanic. She told me it's worth buying, but not at that price. | Bạn tôi là thợ máy. Cô ấy bảo xe đáng mua, nhưng không phải với giá đó. [happy]
+crane: All right. Three thousand two hundred. It's a deal. | Được rồi. Ba nghìn hai trăm. Chốt nhé. [happy]
+tomas: Great. Thank you, Mr. Crane. Can I pay by bank transfer? | Tuyệt. Cảm ơn ông Crane. Tôi chuyển khoản được không? [happy crane:happy]
+gloss: mechanic, repainted, transfer

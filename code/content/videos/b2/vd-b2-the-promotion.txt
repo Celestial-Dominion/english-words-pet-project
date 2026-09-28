@@ -1,0 +1,34 @@
+=== vd-b2-the-promotion
+title: I'd Like to Be Considered | Tôi mong được xem xét
+source: st-b2-the-promotion
+summary: Sau sáu tháng thực hiện kế hoạch phát triển, Adaeze chủ động đề nghị được cân nhắc cho vị trí quản lý ca và bàn chuyện lương với bà Foster — có số liệu trong tay.
+scene: office
+prop: report x=830
+cast: adaeze name=Adaeze look=woman x=520 voice=en-US-AvaNeural pitch=-2Hz style.hair=bun style.hairColor=#1A1A1A style.skin=#6E4127 style.skinShade=#58321D style.outfit=blouse style.top=#D35400 style.topShade=#BA4A00
+cast: foster name="Ms. Foster" vi="Bà Foster" look=woman x=1160 voice=en-US-MichelleNeural pitch=-6Hz style.hair=short style.hairColor=#8A8A8A style.outfit=suit style.top=#212F3D style.topShade=#1B2631 style.glasses=square
+names: Adaeze, Foster
+words: career; supervise; responsibility; salary; reasonable; support
+focus: Đề nghị thăng chức và tăng lương một cách chuyên nghiệp
+pattern: I'd like to discuss my career progression · I believe I've shown that… · I'd like to be considered for… · I'd like to raise the question of… · Based on…, I was thinking of… · Could we agree on…?
+explain: Mở lời: "I'd like to discuss my career progression, if that's all right." Đưa bằng chứng: "I believe I've shown that I can manage people." Nêu mong muốn rõ ràng: "I'd like to be considered for the shift manager role." Nói chuyện lương khéo léo: "I'd like to raise the question of salary.", "Based on similar roles, I was thinking of…". Chuẩn bị phương án dự phòng: "If I'm not successful, could we agree on what I'd need to improve?".
+keys: career progression / i believe i've shown / i'd like to be considered for / raise the question of / based on similar roles / could we agree on
+
+adaeze: Thank you for making time for me, Ms. Foster. I'd like to discuss my career progression, if that's all right. | Cảm ơn bà đã dành thời gian cho tôi, bà Foster. Tôi muốn trao đổi về lộ trình sự nghiệp của mình, nếu bà không phiền. [explain]
+foster: Of course. It's been six months since we made your development plan. How do you feel it's gone? | Tất nhiên. Đã sáu tháng kể từ khi chúng ta lập kế hoạch phát triển cho cô. Cô thấy mọi việc thế nào? [thinking]
+adaeze: I think it's gone well. I've completed the management course and I've been supervising the night shift since April. | Tôi nghĩ mọi việc tiến triển tốt. Tôi đã hoàn thành khoá quản lý và giám sát ca đêm từ tháng Tư. [explain @report]
+foster: I've heard good things. You dealt with that incident with the forklift driver very firmly. | Tôi nghe nhiều điều tốt. Cô xử lý vụ tài xế xe nâng rất dứt khoát. [nod]
+adaeze: Thank you. I believe I've shown that I can manage people, not just schedules. | Cảm ơn bà. Tôi tin mình đã chứng tỏ được rằng mình có thể quản lý con người, chứ không chỉ lịch trình. [explain]
+foster: I'd agree with that. So what exactly are you asking for? | Tôi đồng ý. Vậy chính xác thì cô đang đề nghị điều gì? [thinking]
+adaeze: I'd like to be considered for the shift manager role at the new site. | Tôi muốn được xem xét cho vị trí quản lý ca ở cơ sở mới. [explain]
+foster: That's a demanding, senior position. What makes you think you're ready? | Đó là một vị trí cấp cao, đòi hỏi nhiều. Điều gì khiến cô nghĩ mình đã sẵn sàng? [thinking]
+adaeze: I've reduced delays by twenty percent, and fewer people have left my shift. I prepared thoroughly, so I've brought the figures with me. | Tôi đã giảm hai mươi phần trăm số lần trễ hẹn, và ca của tôi ít người nghỉ việc hơn. Tôi đã chuẩn bị kỹ, nên tôi mang theo số liệu đây. [explain @report]
+foster: You've done your homework. I'm impressed. | Cô đã chuẩn bị chu đáo. Tôi rất ấn tượng. [surprised]
+adaeze: I'd also like to raise the question of salary. The role comes with more responsibility, and I'd expect that to be reflected. | Tôi cũng muốn đề cập chuyện lương. Vị trí này đi kèm nhiều trách nhiệm hơn, và tôi mong điều đó được phản ánh. [explain]
+foster: That's reasonable. What figure did you have in mind? | Hợp lý. Cô nghĩ đến con số bao nhiêu? [thinking]
+adaeze: Based on similar roles in the company, I was thinking of around thirty-eight thousand. | Dựa trên các vị trí tương tự trong công ty, tôi nghĩ khoảng ba mươi tám nghìn. [explain]
+foster: I can't promise that today, but I'll put your case to the board. | Hôm nay tôi chưa hứa được, nhưng tôi sẽ trình trường hợp của cô lên ban giám đốc. [nod]
+adaeze: I appreciate that. And if I'm not successful, could we agree on what I'd need to improve? That's precisely why I asked for this meeting. | Tôi rất cảm kích. Và nếu tôi không thành công, chúng ta có thể thống nhất những gì tôi cần cải thiện không? Đó chính là lý do tôi xin cuộc gặp này. [thinking]
+foster: Absolutely. But between you and me, I don't think that will be necessary. | Chắc chắn rồi. Nhưng nói riêng với cô, tôi không nghĩ sẽ cần đến điều đó. [happy]
+adaeze: That's good to hear. Thank you for your support. | Nghe vậy tôi mừng lắm. Cảm ơn bà đã ủng hộ. [happy]
+foster: You've earned it, Adaeze. Now go and get some sleep. You look exhausted! | Cô xứng đáng mà, Adaeze. Giờ thì đi ngủ đi. Trông cô mệt rũ rồi! [happy adaeze:happy]
+gloss: forklift

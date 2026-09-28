@@ -1,0 +1,32 @@
+=== vd-a1-pen-pals
+title: How Was Your Flight? | Chuyến bay của cậu thế nào?
+source: st-a1-pen-pals
+summary: Lần đầu gặp mặt ở sân bay New York sau một năm viết email, Alice và Hiro hỏi han nhau đầy bối rối.
+scene: airport
+prop: soccer-ball x=930 y=720
+cast: alice name=Alice look=girl x=520 voice=en-US-AnaNeural style.hair=long style.hairColor=#C98A3C style.top=#E5484D style.topShade=#C73A3F
+cast: hiro name=Hiro look=boy x=1120 voice=en-US-AnaNeural pitch=-12Hz rate=-6% from=1 style.hair=fringe style.hairColor=#1F1C22 style.top=#3A8E8B style.topShade=#2D7673 style.collar=#2D7673
+cast: tanaka name="Mrs. Tanaka" vi="Bà Tanaka" look=mom x=1400 voice=en-US-JennyNeural rate=-6% from=11 style.hair=bob style.hairColor=#1F1C22 style.top=#8C7BC2 style.topShade=#7666AD
+names: New York, Osaka, Mochi, Tanaka, arigato
+gloss: flight, tired
+words: welcome; long; tired; sleep; hungry
+focus: Đón bạn và hỏi thăm chuyến đi
+pattern: Welcome to…! · How was your flight? · Was it long? · Are you tired / hungry?
+explain: Đón ai vừa đến: "Welcome to + nơi chốn!". Hỏi về chuyến đi đã qua: "How was your flight/trip?" — đáp "It was long / great / OK." Hỏi tình trạng: "Are you tired?".
+keys: welcome to / how was your flight / was it long / are you tired / are you hungry
+
+alice: Hiro? Is that you? | Hiro à? Có phải cậu không? [surprised]
+hiro: Alice! Hello! | Alice! Xin chào! [happy wave]
+alice: Hello! Welcome to New York! | Chào cậu! Chào mừng cậu đến New York! [happy cheer]
+hiro: Thank you! Arigato! | Cảm ơn cậu! Arigato! [happy]
+alice: How was your flight? | Chuyến bay của cậu thế nào? [happy]
+hiro: It was OK. But it was very long. | Cũng được. Nhưng lâu lắm. [tired]
+alice: Was it long? How many hours? | Lâu lắm à? Bao nhiêu tiếng? [thinking]
+hiro: Thirteen hours! | Mười ba tiếng! [surprised ~number:13]
+alice: Wow! Are you tired? | Oa! Cậu có mệt không? [surprised]
+hiro: Yes, a little. I didn't sleep much. | Có, hơi mệt. Tớ không ngủ được mấy. [tired]
+alice: Are you hungry? My mom has pizza at home. | Cậu có đói không? Mẹ tớ có pizza ở nhà đấy. [happy]
+tanaka: Hello, Alice. Hiro talks about you every day! | Chào Alice. Ngày nào Hiro cũng kể về cháu! [happy]
+hiro: Mom! | Mẹ! [shy]
+alice: Nice to meet you, Mrs. Tanaka! | Cháu chào bà Tanaka ạ! [happy]
+alice: Let's go home and eat! | Mình về nhà ăn thôi! [happy hiro:happy]

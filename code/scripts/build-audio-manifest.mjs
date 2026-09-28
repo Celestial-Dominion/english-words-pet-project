@@ -28,9 +28,8 @@ const hashLong = (s) => {
 const HERE = import.meta.dirname;
 const DATA = join(HERE, "..", "public", "data");
 const sel = process.argv.slice(2).map((s) => s.toLowerCase());
-// Giọng nam cho vai thứ 2 trong hội thoại (chốt 09/08). Giọng chính vẫn là en-US-AriaNeural
-// và KHÔNG đổi — chỉ file hội thoại mới dùng giọng này nên không phải build lại audio cũ.
-const MALE_VOICE = "en-US-GuyNeural";
+// Chỉ từ + câu ví dụ. Học liệu (bài đọc / truyện / video) có pipeline audio riêng 1 track/bài:
+// scripts/build-content-audio.py (docs/ENGLISH_CONTENT_PLAYBOOK.md §7).
 
 const words = [];
 const sentences = [];
@@ -47,22 +46,6 @@ for (const level of [0, 1, 2, 3, 4]) {
     const p = join(DATA, "examples", `${cefr}-${i}.json`);
     return existsSync(p) ? JSON.parse(readFileSync(p, "utf8")) : {};
   });
-
-  // Câu trong BÀI ĐỌC — reader phát tuần tự từng câu khi bấm "Nghe cả bài".
-  const readingsPath = join(DATA, "readings", `${cefr}.json`);
-  if (existsSync(readingsPath)) {
-    for (const d of JSON.parse(readFileSync(readingsPath, "utf8"))) {
-      for (const s of d.sentences) {
-        // Hội thoại: lượt của vai 1 đọc bằng GIỌNG NAM → file riêng "-m" + ghi voice vào manifest.
-        const male = (s.sp ?? 0) === 1;
-        const sf = `${hashLong(s.en)}${male ? "-m" : ""}.mp3`;
-        if (!seenS.has(sf)) {
-          seenS.add(sf);
-          sentences.push({ text: s.en, file: sf, ...(male ? { voice: MALE_VOICE } : {}) });
-        }
-      }
-    }
-  }
 
   for (const w of JSON.parse(readFileSync(wordsPath, "utf8"))) {
     const wf = `${audioName(w.id)}.mp3`;

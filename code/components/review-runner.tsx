@@ -8,6 +8,7 @@ import { ratingFromSpeed } from "@/lib/srs";
 import { gradeSpelling, isSpellCorrect, type SpellVerdict } from "@/lib/spell";
 import { wordAudioUrl, sentenceAudioUrl, playAudio as play, stopAudio } from "@/lib/tts";
 import { suggestReading, type ReadingSuggestion } from "@/lib/suggest";
+import { refHref } from "@/lib/library";
 import { requestSync } from "@/lib/sync";
 import Link from "next/link";
 import { useRouter } from "next/navigation";
@@ -536,12 +537,12 @@ export default function ReviewRunner({
           </div>
           {suggestion && (
             <a
-              href={`/bai-doc?open=${encodeURIComponent(suggestion.id)}`}
+              href={refHref(suggestion)}
               className="block rounded-2xl border border-primary/40 bg-primary/5 p-4 text-left transition-colors hover:bg-primary/10"
             >
               <div className="text-sm font-semibold text-primary">📖 Đọc ngay để nhớ lâu</div>
               <div className="mt-1 text-sm leading-relaxed">
-                <b>{suggestion.count} từ</b> vừa học có trong {suggestion.type === "reading" ? "bài đọc" : "truyện"}{" "}
+                <b>{suggestion.count} từ</b> vừa học có trong {suggestion.kind === "reading" ? "bài đọc" : "truyện"}{" "}
                 <span className="font-semibold">“{suggestion.title_en}”</span>{" "}
                 <span className="text-muted-foreground">· {suggestion.title_vi}</span>
               </div>

@@ -1,0 +1,32 @@
+=== vd-b2-the-signal-on-the-ridge
+title: They Must Be Close | Họ hẳn đang ở gần đây
+source: st-b2-the-signal-on-the-ridge
+summary: Trên sống núi giữa đêm bão tuyết, Isla và Kofi đọc từng manh mối để đoán hai cha con đang ở đâu — luyện cách suy luận về hiện tại với must be, can't be, might be.
+scene: mountain-night
+cast: isla name=Isla look=woman x=520 voice=en-US-JennyNeural style.hair=ponytail style.hairColor=#B5652E style.outfit=jacket style.top=#C0392B style.topShade=#A93226
+cast: kofi name=Kofi look=man x=1160 voice=en-US-AndrewNeural pitch=-2Hz style.hair=short style.hairColor=#1A1A1A style.skin=#5C3A21 style.skinShade=#4A2E1A style.outfit=coat style.top=#1F618D style.topShade=#1A5276
+names: Isla, Kofi, Nico, Bramble, Hamish
+words: glove; slope; torch; hollow; injured; footprint
+focus: Suy luận về hiện tại: must be / can't be / might be
+pattern: It must be… · It can't be… · They might be… · Could it be…? · She must be doing… · That has to be…
+explain: "Must be" = gần như chắc chắn (dựa trên bằng chứng): "It must be Nico's glove." "Can't be" = chắc chắn không: "It can't be a torch — it isn't moving." "Might/could be" = có thể: "They might be heading down." Với hành động đang diễn ra dùng "must be + V-ing": "She must be picking up a scent."
+keys: must be / can't be / might be / could it be / has to be
+
+kofi: Isla, over here! Look at this. It's a glove, a small one. | Isla, lại đây! Nhìn này. Một chiếc găng tay, loại nhỏ. [point]
+isla: It must be Nico's. He's the only child on the mountain tonight. | Hẳn là của Nico. Đêm nay cậu bé là đứa trẻ duy nhất trên núi. [explain]
+kofi: There's hardly any snow on it. It can't be more than an hour old. | Trên nó gần như chẳng có tuyết. Nó không thể nằm đây quá một tiếng. [thinking]
+isla: Then they must be somewhere near. They can't be moving fast in this wind. | Vậy thì họ hẳn đang ở đâu đó gần đây. Gió thế này họ không thể đi nhanh được. [worried ipa=wind:wɪnd]
+kofi: But the footprints stop here. The snow must be covering them. | Nhưng dấu chân dừng ở đây. Chắc tuyết đang lấp chúng đi. [confused]
+isla: Or they might be heading down into the hollow to get out of the wind. | Hoặc có thể họ đang đi xuống cái hõm kia để tránh gió. [point ipa=wind:wɪnd]
+kofi: That would make sense. The ridge is far too exposed. | Nghe hợp lý đấy. Sống núi quá trống trải. [nod]
+isla: Can you see that light below us? Could it be their torch? | Anh có thấy ánh sáng phía dưới kia không? Có phải đèn pin của họ không? [thinking]
+kofi: It can't be. It isn't moving at all. It's probably moonlight on the ice. | Không thể nào. Nó chẳng hề di chuyển. Có lẽ là ánh trăng trên mặt băng. [shake]
+isla: You're right. Their torch must be dead by now anyway. They only had one. | Anh nói đúng. Dù sao đèn pin của họ giờ chắc cũng hết pin rồi. Họ chỉ có một cái. [sad]
+kofi: Bramble's pulling towards the rocks. She must be picking up a scent. | Bramble đang kéo về phía đám đá. Chắc nó đang đánh hơi thấy gì đó. [surprised point]
+isla: Is she sure, do you think? | Anh nghĩ nó có chắc không? [thinking]
+kofi: She's never wrong when her tail moves like that. Something's definitely down there. | Nó chưa bao giờ sai khi đuôi vẫy kiểu đó. Chắc chắn có gì đó dưới kia. [happy]
+isla: If the father is injured, he might be losing heat quickly. We have to hurry. | Nếu người bố bị thương, có thể ông ấy đang mất nhiệt rất nhanh. Chúng ta phải nhanh lên. [worried]
+kofi: Careful on this slope. It's much steeper than it looks. | Cẩn thận con dốc này. Nó dốc hơn vẻ ngoài nhiều. [explain]
+isla: Listen! That has to be Bramble barking. | Nghe kìa! Chắc chắn là Bramble đang sủa. [surprised]
+kofi: She's found them. She must be standing right next to them. | Nó tìm thấy họ rồi. Hẳn nó đang đứng ngay cạnh họ. [cheer]
+isla: Let's go. And radio Hamish. He must be worried sick. | Đi thôi. Và gọi bộ đàm cho Hamish. Chắc ông ấy đang lo phát ốm. [happy]

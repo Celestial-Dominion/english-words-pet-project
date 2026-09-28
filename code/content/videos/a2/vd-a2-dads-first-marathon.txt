@@ -1,0 +1,31 @@
+=== vd-a2-dads-first-marathon
+title: Have You Ever Run a Marathon? | Bố đã bao giờ chạy marathon chưa?
+source: st-a2-dads-first-marathon
+summary: Tối hôm bố tuyên bố sẽ chạy marathon, Chloe hỏi bố đã từng làm những gì — và bố thừa nhận là chưa bao giờ chạy quá năm cây số.
+scene: home-evening
+prop: tea x=800
+cast: chloe name=Chloe look=teengirl x=500 voice=en-US-EmmaNeural pitch=+6Hz style.hair=ponytail style.hairColor=#E0B45C style.outfit=tee style.top=#3F7FCB style.topShade=#2F66AA
+cast: tom name=Dad vi=Bố look=dad x=1130 voice=en-US-GuyNeural style.hair=short style.hairColor=#8A6D45 style.outfit=shirt style.top=#E9A23B style.topShade=#D18B28 style.collar=#FFF7EE
+names: Tom
+gloss: marathon, kilometers
+words: challenge; training; diet; injure; speed
+focus: Hỏi và kể về trải nghiệm
+pattern: Have you ever + V3? · I've never + V3. · I've already… · Not yet.
+explain: Hỏi trải nghiệm trong đời (không nói thời điểm) dùng hiện tại hoàn thành: "Have you ever run…?". Trả lời: "Yes, I have." / "No, I've never…". V3 là quá khứ phân từ (run, eaten, been).
+keys: have you ever / i've never / i've already / not yet
+
+tom: Chloe, I've decided something. I'm going to run a marathon. | Chloe, bố quyết định rồi. Bố sẽ chạy marathon. [happy]
+chloe: A marathon? Dad, have you ever run a marathon? | Marathon á? Bố ơi, bố đã bao giờ chạy marathon chưa? [surprised]
+tom: No, I've never run a marathon. That's why it's a challenge! | Chưa, bố chưa bao giờ chạy marathon. Chính vì thế mới là thử thách! [happy explain]
+chloe: Have you ever run ten kilometers? | Bố đã từng chạy mười cây số chưa? [thinking]
+tom: Hmm… no. I've run five kilometers. Once. | Ừm… chưa. Bố từng chạy năm cây. Một lần. [shy]
+chloe: Dad! A marathon is forty-two kilometers! | Bố! Marathon dài bốn mươi hai cây số đấy! [surprised ~number:42]
+tom: I know. I've already made a training plan. | Bố biết. Bố đã lập xong kế hoạch tập luyện rồi. [explain]
+chloe: Have you bought running shoes? | Bố mua giày chạy chưa? [thinking]
+tom: Not yet. But I've found a good shop. | Chưa. Nhưng bố tìm được một cửa hàng tốt rồi. [nod]
+chloe: What about your diet? You love burgers. | Còn chế độ ăn thì sao? Bố mê burger mà. [thinking]
+tom: I've never eaten so much salad in my life! | Cả đời bố chưa bao giờ ăn nhiều sa-lát đến thế! [tired]
+chloe: Have you ever injured your legs? | Bố đã bao giờ bị đau chân chưa? [worried]
+tom: Never. My legs are strong. | Chưa bao giờ. Chân bố khoẻ lắm. [happy]
+chloe: OK. I'll come with you on my bike and check your speed. | Được rồi. Con sẽ đạp xe đi cùng và theo dõi tốc độ cho bố. [happy]
+tom: That's the best idea I've ever heard! | Đó là ý hay nhất bố từng nghe đấy! [happy cheer chloe:happy]

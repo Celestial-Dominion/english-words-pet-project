@@ -1,0 +1,35 @@
+=== vd-b2-the-review
+title: With Respect, I Disagree | Xin phép được không đồng ý
+source: st-b2-the-review
+summary: Một phóng viên phát thanh đến nhà hàng phỏng vấn ông Marco sau bức thư ngỏ; ông đáp lại những câu hỏi gai góc một cách bình tĩnh — nhận phần sai, bác phần không đúng.
+scene: restaurant
+prop: microphone x=860
+cast: dana name=Dana look=woman x=520 voice=en-US-AriaNeural style.hair=bob style.hairColor=#2C1E14 style.outfit=jacket style.top=#34495E style.topShade=#2C3E50
+cast: marco name=Marco look=dad x=1160 voice=en-US-EricNeural pitch=-4Hz style.hair=short style.hairColor=#8A8A8A style.outfit=apron style.top=#FDFEFE style.topShade=#E5E8E8
+names: Bellini, Marco, Harriet, Vance
+words: criticism; publicity; excuse; responsibility; confident; persuade
+focus: Đáp lại lời chỉ trích: nhận phần đúng, phản bác lịch sự phần sai
+pattern: I can see why people might think that · I accept that…, but I don't accept that… · Let me put it into context · That's a fair question · With respect, … · I take full responsibility for…
+explain: Nhận phần đúng trước: "I accept that the meal wasn't good enough." rồi mới bác phần sai: "…but I don't accept that it's a bad restaurant." Giải thích hoàn cảnh: "Let me put it into context." Phản bác lịch sự: "With respect, I don't think that's quite fair." Nhận trách nhiệm: "I take full responsibility for that."
+keys: i can see why / i accept that / let me put it into context / that's a fair question / with respect / i take full responsibility
+
+dana: Mr. Bellini, thank you for talking to us. Your letter has been shared thousands of times. | Ông Bellini, cảm ơn ông đã nhận lời trò chuyện. Bức thư của ông đã được chia sẻ hàng nghìn lần. [happy @microphone]
+marco: Thank you for coming. Honestly, I never expected so much attention. | Cảm ơn cô đã đến. Thật lòng, tôi không ngờ lại được chú ý đến vậy. [shy]
+dana: Some listeners think the letter was just a clever publicity trick. How would you respond to that? | Một số thính giả cho rằng bức thư chỉ là một chiêu quảng bá khéo léo. Ông đáp lại thế nào? [thinking]
+marco: I can see why people might think that. But I wrote it because the review was right about that night. | Tôi hiểu vì sao người ta có thể nghĩ vậy. Nhưng tôi viết nó vì bài phê bình đã nói đúng về tối hôm đó. [explain]
+dana: So you accept the criticism? | Vậy ông chấp nhận lời chỉ trích? [surprised]
+marco: I accept that the meal wasn't good enough. I don't accept that this is a bad restaurant. | Tôi chấp nhận rằng bữa ăn hôm đó chưa đủ tốt. Tôi không chấp nhận rằng đây là một nhà hàng tồi. [shake]
+dana: Harriet Vance is very influential. When she said your sauce tasted like a magazine recipe, that must have hurt. | Harriet Vance rất có ảnh hưởng. Khi bà ấy nói nước sốt của ông có vị như công thức trên tạp chí, chắc hẳn ông rất đau lòng. [thinking]
+marco: It did. But let me put it into context. I had a fever, and a young assistant was cooking alone. | Có chứ. Nhưng để tôi nói rõ hoàn cảnh. Hôm đó tôi bị sốt, và một phụ bếp trẻ phải nấu một mình. [sad]
+dana: Isn't that just an excuse? | Đó chẳng phải chỉ là một lời bào chữa sao? [thinking ipa=excuse:ɪkˈskjus]
+marco: That's a fair question. With respect, though, an excuse means blaming someone else. I'm blaming myself. | Câu hỏi hợp lý. Tuy vậy, xin phép được nói, bào chữa là đổ lỗi cho người khác. Còn tôi đang tự trách mình. [explain ipa=excuse:ɪkˈskjus]
+dana: What about your assistant? Do you hold him responsible? | Còn phụ bếp của ông thì sao? Ông có cho rằng cậu ấy có lỗi không? [thinking]
+marco: Not at all. It was my decision to leave him on his own. I take full responsibility for that. | Hoàn toàn không. Chính tôi quyết định để cậu ấy một mình. Tôi nhận toàn bộ trách nhiệm về điều đó. [shake]
+dana: Your first reaction wasn't quite so calm, though, was it? | Nhưng phản ứng đầu tiên của ông đâu có bình tĩnh như vậy, phải không? [thinking]
+marco: You're right. My first reply was very angry. My daughter persuaded me not to publish it. | Cô nói đúng. Lời đáp đầu tiên của tôi rất giận dữ. Con gái tôi đã thuyết phục tôi đừng đăng nó. [shy]
+dana: What did she say to change your mind? | Cô ấy đã nói gì khiến ông đổi ý? [thinking]
+marco: That attacking a critic only proves the critic's point. She was absolutely right. | Rằng tấn công một nhà phê bình chỉ chứng minh nhà phê bình đúng. Con bé hoàn toàn đúng. [nod]
+dana: And if Harriet Vance comes back and the food is still bad? | Còn nếu Harriet Vance quay lại và đồ ăn vẫn tệ thì sao? [thinking]
+marco: Then I'll have to live with it. But I'm confident it won't be. | Thì tôi đành chấp nhận thôi. Nhưng tôi tự tin sẽ không như vậy. [happy ipa=live:lɪv]
+dana: Mr. Bellini, thank you, and good luck. | Ông Bellini, cảm ơn ông, và chúc ông may mắn. [happy]
+gloss: critic

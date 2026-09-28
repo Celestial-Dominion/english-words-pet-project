@@ -1,0 +1,35 @@
+=== vd-b2-forty-eight-hours
+title: Sorry to Interrupt | Xin lỗi vì ngắt lời
+source: st-b2-forty-eight-hours
+summary: Buổi động não đầu tiên của cuộc thi lập trình: Leo nói không ngừng, Anjali khéo léo điều phối để Jun — người trầm lặng nhất — được trình bày ý tưởng.
+scene: classroom
+prop: laptop x=1050 y=660 scale=0.75
+cast: leo name=Leo look=man x=300 voice=en-US-BrianNeural rate=+6% style.hair=fringe style.hairColor=#C8963E style.outfit=tee style.top=#E74C3C style.topShade=#CB4335
+cast: anjali name=Anjali look=woman x=800 voice=en-US-AvaNeural pitch=+2Hz style.hair=long style.hairColor=#1A1A1A style.skin=#B97A56 style.skinShade=#A66A48 style.outfit=blouse style.top=#48C9B0 style.topShade=#3AB09A
+cast: jun name=Jun look=teenboy x=1300 voice=en-US-EricNeural pitch=+4Hz rate=-4% style.hair=short style.hairColor=#1A1A1A style.skin=#EAC7A0 style.skinShade=#D6AE85 style.outfit=jacket style.top=#5D6D7E style.topShade=#4D5B69 style.glasses=round
+names: Leo, Jun, Anjali, Sunday
+words: interrupt; volunteer; elderly; suggest; reply; clever
+focus: Ngắt lời lịch sự và giữ lượt nói trong cuộc họp
+pattern: Sorry to interrupt, but… · If I could just finish my point… · Can I just come in here? · Hang on, let me finish · Before we move on… · As I was saying…
+explain: Xin ngắt lời: "Sorry to interrupt, but…", "Can I just come in here for a second?". Giữ lượt nói: "If I could just finish my point…", "Hang on, let me finish." Nhường lời: "Go ahead." / "Go on." Quay lại ý cũ: "As I was saying…". Chen câu hỏi trước khi chuyển ý: "Before we move on, …?".
+keys: sorry to interrupt / if i could just finish / can i just come in here / hang on / before we move on / as i was saying
+
+leo: OK, here's my plan. We build an app with live maps, smart predictions and a points system for volunteers. | Được rồi, kế hoạch của mình đây. Mình làm một ứng dụng có bản đồ trực tiếp, dự đoán thông minh và hệ thống tích điểm cho tình nguyện viên. [explain @laptop ipa=live:laɪv]
+anjali: Sorry to interrupt, Leo, but can we agree on the problem first? | Xin lỗi ngắt lời cậu, Leo, nhưng mình thống nhất vấn đề trước được không? [point]
+leo: Sure, but if I could just finish my point. The map uses a database of every shop with extra food, updated in real time. | Được, nhưng để mình nói hết ý đã. Bản đồ dùng một cơ sở dữ liệu gồm mọi cửa hàng có thực phẩm dư, cập nhật theo thời gian thực. [explain ipa=uses:ˈjuzɪz]
+anjali: Go ahead. | Cậu nói tiếp đi. [nod]
+leo: And volunteers collect points, so they compete with each other. It'll look amazing on Sunday. | Và tình nguyện viên tích điểm, nên họ sẽ thi đua với nhau. Chủ nhật trình bày sẽ trông ấn tượng lắm. [happy]
+jun: Can I just come in here for a second? | Em xin nói một chút được không ạ? [shy]
+leo: Hang on, Jun, let me finish. I'm really keen on the prediction system. | Khoan đã Jun, để anh nói xong. Anh rất tâm đắc với hệ thống dự đoán. [talking]
+anjali: Leo, you've been talking for ten minutes. Let's hear from Jun. | Leo, cậu nói mười phút rồi đấy. Mình nghe Jun đi. [explain]
+leo: Fair enough. Sorry, Jun. Go on. | Cũng phải. Xin lỗi Jun. Em nói đi. [shy]
+jun: Thanks. I was going to say that most volunteers are elderly. They might not use an app at all. | Cảm ơn anh. Em định nói là phần lớn tình nguyện viên đã lớn tuổi. Có thể họ hoàn toàn không dùng ứng dụng. [explain ipa=use:juz]
+leo: Really? How do you know that? | Thật à? Sao em biết? [surprised]
+jun: My grandmother volunteers at a food bank. Everyone there has a phone, but they only really use text messages. | Bà em làm tình nguyện ở một ngân hàng thực phẩm. Ở đó ai cũng có điện thoại, nhưng họ chỉ thực sự dùng tin nhắn. [explain ipa=use:juz]
+anjali: That's a really important point. So what would you suggest? | Đó là một điểm rất quan trọng. Vậy em đề xuất gì? [thinking]
+jun: A simple text system. The shop fills in a form, and the nearest volunteers get a message. | Một hệ thống tin nhắn đơn giản. Cửa hàng điền biểu mẫu, và những tình nguyện viên gần nhất nhận được tin nhắn. [explain]
+leo: Sorry, before we move on, what happens if two people reply at the same time? | Xin lỗi, trước khi chuyển ý, nếu hai người trả lời cùng lúc thì sao? [thinking]
+jun: The first "yes" gets the job, and everyone else gets a message saying it's taken. | Người trả lời "có" đầu tiên nhận việc, và những người còn lại nhận tin báo là đã có người nhận. [nod]
+leo: That's actually really clever. Could we still add my map for the staff? | Thực ra như vậy rất thông minh. Mình vẫn thêm bản đồ của anh cho nhân viên được chứ? [surprised]
+anjali: I don't see why not. As I was saying, the problem comes first, and Jun's idea is far more sensible. | Mình thấy chẳng có lý do gì để không. Như mình vừa nói, vấn đề phải đặt lên trước, và ý tưởng của Jun hợp lý hơn nhiều. [happy]
+gloss: app, database

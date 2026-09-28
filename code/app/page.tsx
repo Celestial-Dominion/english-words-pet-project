@@ -1,6 +1,6 @@
 import Link from "next/link";
 import type { ReactNode } from "react";
-import { BookOpenText, ChevronRight } from "lucide-react";
+import { BookOpenText, ChevronRight, Clapperboard, Library } from "lucide-react";
 import HomeStats from "@/components/home-stats";
 import LevelGrid from "@/components/level-grid";
 import DailyQuests from "@/components/daily-quests";
@@ -19,14 +19,30 @@ export default function Home() {
 
       <section className="space-y-3">
         <h2 className="text-lg font-semibold">Khám phá</h2>
-        <div className="grid gap-4">
+        <div className="grid gap-4 lg:grid-cols-3">
           <ExploreCard
             href="/bai-doc"
             icon={<BookOpenText className="size-6" />}
             tint="bg-sky-500/15 text-sky-600 dark:text-sky-400"
             grad="from-sky-500/15"
             title="Bài đọc"
-            desc="Bài đọc phân cấp B1–C2, bấm từ bất kỳ để tra nghĩa."
+            desc="Thư viện kiến thức A1 → C2, bấm từ bất kỳ để tra nghĩa."
+          />
+          <ExploreCard
+            href="/truyen"
+            icon={<Library className="size-6" />}
+            tint="bg-violet-500/15 text-violet-600 dark:text-violet-400"
+            grad="from-violet-500/15"
+            title="Truyện"
+            desc="Truyện nhiều chương — đọc rộng, nhớ từ qua nhân vật."
+          />
+          <ExploreCard
+            href="/video"
+            icon={<Clapperboard className="size-6" />}
+            tint="bg-rose-500/15 text-rose-600 dark:text-rose-400"
+            grad="from-rose-500/15"
+            title="Video hội thoại"
+            desc="Nghe hiểu, nói theo, nhập vai với hội thoại từ truyện."
           />
         </div>
       </section>

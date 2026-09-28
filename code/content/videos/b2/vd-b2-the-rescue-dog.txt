@@ -1,0 +1,34 @@
+=== vd-b2-the-rescue-dog
+title: It Might Be Worth Trying | Có lẽ nên thử xem
+source: st-b2-the-rescue-dog
+summary: Leah kiệt sức vì chú chó Pepper hay hoảng sợ; chuyên gia hành vi Gareth lắng nghe, cảm thông và đưa ra lời khuyên nhẹ nhàng, cụ thể.
+scene: home-day
+prop: puppy x=860 y=900
+cast: leah name=Leah look=woman x=520 voice=en-US-EmmaNeural pitch=+2Hz style.hair=curly style.hairColor=#B5652E style.outfit=cardigan style.top=#5DADE2 style.topShade=#3498DB
+cast: gareth name=Gareth look=man x=1160 voice=en-US-GuyNeural pitch=-6Hz rate=-6% style.hair=short style.hairColor=#5A3825 style.outfit=jacket style.top=#1E8449 style.topShade=#196F3D
+names: Leah, Gareth, Pepper
+words: anxious; reward; routine; punish; gradually; hopeless
+focus: Cảm thông và đưa ra lời khuyên nhẹ nhàng
+pattern: That sounds really tough · It sounds like… · It's not your fault · Have you thought about + V-ing? · The best thing you can do is… · It might be worth + V-ing · You could always…
+explain: Cảm thông trước khi khuyên: "That sounds really tough.", "It's not your fault." Gọi tên vấn đề: "It sounds like separation anxiety." Khuyên mềm mỏng: "Have you thought about leaving him for very short periods?", "It might be worth rewarding him when he's relaxed.", "You could always try a routine." Khuyên dứt khoát hơn: "The best thing you can do is…". Khi không đồng tình: "I wouldn't."
+keys: that sounds really tough / it sounds like / it's not your fault / have you thought about / the best thing you can do / it might be worth / you could always
+
+leah: Thanks for coming, Gareth. Honestly, I'm at my wits' end, and my nerves are in pieces. I'm thinking of taking him back. | Cảm ơn anh đã đến, Gareth. Thật lòng, tôi hết cách rồi, thần kinh căng như dây đàn. Tôi đang tính trả nó lại. [sad]
+gareth: That sounds really tough. How long have you had him? | Nghe thật vất vả. Chị nuôi nó được bao lâu rồi? [nod]
+leah: Three weeks. He chews everything when I'm out, and my neighbor says he howls for hours. | Ba tuần. Tôi ra ngoài là nó nhai mọi thứ, và bà hàng xóm nói nó tru hàng giờ liền. [worried]
+gareth: It sounds like separation anxiety. It's very common in dogs from kennels. Let me assess how he reacts first. | Nghe như chứng lo âu khi bị bỏ lại một mình. Nó rất phổ biến ở những con chó từng sống trong trại. Để tôi đánh giá phản ứng của nó trước đã. [explain]
+leah: Is it something I've done wrong? | Có phải tôi đã làm gì sai không? [sad]
+gareth: Not at all. It's not your fault. He's just never learned that people come back. | Hoàn toàn không. Đó không phải lỗi của chị. Chỉ là nó chưa bao giờ học được rằng con người sẽ quay lại. [shake]
+leah: So what should I do? I can't stay at home all day forever. | Vậy tôi nên làm gì? Tôi đâu thể ở nhà cả ngày mãi được. [confused]
+gareth: Have you thought about leaving him alone for very short periods first? Just a few seconds. | Chị đã nghĩ đến việc để nó một mình trong những khoảng rất ngắn trước chưa? Chỉ vài giây thôi. [thinking]
+leah: Seconds? That seems almost too simple. | Vài giây ư? Nghe có vẻ đơn giản quá. [surprised]
+gareth: It is simple, but it works. Then you gradually increase the time. | Đơn giản, nhưng hiệu quả. Rồi chị tăng dần thời gian lên. [explain ipa=increase:=]
+leah: And what if he starts howling again? | Còn nếu nó lại bắt đầu tru thì sao? [worried]
+gareth: The best thing you can do is come back before he gets upset, and speak to him gently. | Điều tốt nhất chị có thể làm là quay lại trước khi nó hoảng, và nói với nó thật nhẹ nhàng. [explain]
+leah: Should I punish him when he damages things? | Tôi có nên phạt nó khi nó phá đồ không? [thinking]
+gareth: I wouldn't. It'll only make him more anxious. It might be worth rewarding him when he's relaxed instead. | Tôi thì không làm vậy. Nó chỉ khiến con chó lo âu hơn. Có lẽ chị nên thưởng cho nó khi nó thư giãn thì hơn. [shake]
+leah: That makes sense. Anything else? | Hợp lý đấy. Còn gì nữa không? [nod]
+gareth: You could always try a predictable routine, with meals and walks at the same time every day. | Chị cũng có thể thử một nếp sinh hoạt cố định, cho ăn và dắt đi dạo vào cùng giờ mỗi ngày. [explain]
+leah: OK. I'll give it a try. Thank you. I feel a bit less hopeless now. | Được. Tôi sẽ thử. Cảm ơn anh. Giờ tôi thấy bớt tuyệt vọng hơn rồi. [happy @puppy]
+gareth: You're doing better than you think. Most people would have given up already. | Chị đang làm tốt hơn chị nghĩ đấy. Phần lớn mọi người chắc đã bỏ cuộc rồi. [happy leah:happy]
+gloss: separation anxiety, kennels, howls

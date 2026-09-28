@@ -1,0 +1,36 @@
+=== vd-b1-the-old-factory
+title: What Was It Like Back Then? | Hồi đó thế nào hả ông?
+source: st-b1-the-old-factory
+summary: Máy quay bật lên; Sofia phỏng vấn ông nội về những năm làm ở nhà máy Hartley — tiếng ồn, những ký hiệu tay và ban nhạc kèn đồng.
+scene: home-evening
+prop: camera x=820
+cast: sofia name=Sofia look=teengirl x=540 voice=en-US-AnaNeural pitch=+2Hz style.hair=long style.hairColor=#3A2A22 style.outfit=cardigan style.top=#16A085 style.topShade=#12876F
+cast: luca name="Grandpa Luca" vi="Ông Luca" look=grandpa x=1140 voice=en-US-RogerNeural pitch=-2Hz rate=-8% style.outfit=cardigan style.top=#7B5E3B style.topShade=#654D31
+names: Hartley, Luca, Sofia
+words: remember; noise; factory; community; brass; strike
+focus: Phỏng vấn về quá khứ: "used to" và "would"
+pattern: What was it like…? · Did you use to…? · We used to… · Every summer, we would… · I remember… · How did you feel when…?
+explain: "Used to + động từ" nói thói quen/tình trạng trong quá khứ nay không còn: "We used to work twelve hours a day." Câu hỏi: "Did you use to…?" (không có -d). "Would" cũng dùng cho hành động lặp lại trong quá khứ: "Every summer, we would go to the seaside." Mở lời phỏng vấn: "What was it like…?".
+keys: what was it like / did you use to / we used to / we would / i remember / how did you feel
+
+sofia: OK, the camera's on. Grandpa, when did you start working at the mill? | Được rồi, máy quay bật rồi. Ông ơi, ông bắt đầu làm ở nhà máy khi nào ạ? [explain @camera]
+luca: In 1957. I was fifteen. | Năm 1957. Ông mười lăm tuổi. [thinking]
+sofia: What was it like inside? | Bên trong như thế nào ạ? [thinking]
+luca: Hot, dusty and incredibly loud. Hundreds of machines were running all day. | Nóng, bụi và ồn kinh khủng. Hàng trăm cỗ máy chạy suốt cả ngày. [explain]
+sofia: How did you talk to each other with all that noise? | Với ngần ấy tiếng ồn, mọi người nói chuyện với nhau bằng cách nào ạ? [surprised]
+luca: We used to talk with our hands. Look, this means "tea break." | Bọn ông từng nói chuyện bằng tay. Nhìn này, cái này nghĩa là "nghỉ uống trà". [happy ipa=used:just]
+sofia: That's amazing! Did you use to work long hours? | Tuyệt quá! Ngày xưa ông có phải làm nhiều giờ không ạ? [happy ipa=use:jus]
+luca: Ten hours a day, six days a week. We didn't use to complain much. | Mười tiếng mỗi ngày, sáu ngày mỗi tuần. Bọn ông cũng chẳng mấy khi than phiền. [explain ipa=use:jus]
+sofia: Were there any good times? | Có những ngày vui không ạ? [thinking]
+luca: Oh, many. I used to play in the brass band. | Ồ, nhiều lắm. Ông từng chơi trong ban nhạc kèn đồng. [happy ipa=used:just]
+luca: And every summer, we would all go to the seaside together. | Và mùa hè nào mọi người cũng cùng nhau đi biển. [happy]
+sofia: The whole factory? | Cả nhà máy luôn ạ? [surprised]
+luca: The whole factory. The mill closed for a week. It was a real community. | Cả nhà máy. Nhà máy nghỉ một tuần. Đó thật sự là một cộng đồng. [happy]
+sofia: Do you remember the strike in 1972? | Ông có nhớ cuộc đình công năm 1972 không ạ? [thinking]
+luca: I remember it very well. The women stopped working first. | Ông nhớ rất rõ. Các chị em ngừng làm trước tiên. [nod]
+sofia: How did you feel when they went on strike? | Ông cảm thấy thế nào khi họ đình công ạ? [thinking]
+luca: At first, I thought they were wrong. I'm ashamed of that now. | Lúc đầu, ông nghĩ họ sai. Giờ ông thấy xấu hổ về điều đó. [sad]
+sofia: What changed your mind? | Điều gì khiến ông đổi ý ạ? [thinking]
+luca: Mrs. Walsh. She stood on a box and spoke for an hour. By the end, we all joined them. | Bà Walsh. Bà ấy đứng trên một chiếc thùng và nói suốt một tiếng. Đến cuối, tất cả bọn ông đều tham gia cùng. [happy sofia:surprised]
+names: Walsh
+gloss: dusty

@@ -1,0 +1,29 @@
+=== vd-a1-the-old-photo
+title: This Was Park Street | Đây là phố Park ngày xưa
+source: st-a1-the-old-photo
+summary: Ivy hỏi ông Walter về tấm ảnh đen trắng — con phố, rạp chiếu phim và chàng trai đội mũ sáu mươi năm trước.
+scene: home-evening
+prop: book x=800
+cast: ivy name=Ivy look=girl x=520 voice=en-US-AnaNeural style.hair=long style.hairColor=#C98A3C style.top=#5E9E7A style.topShade=#4B8765
+cast: walter name="Grandpa Walter" vi="Ông Walter" look=grandpa x=1120 voice=en-US-RogerNeural rate=-12% pitch=-5Hz style.glasses=true style.skin=#C98E68 style.skinShade=#B07650 style.top=#6B7F9E style.topShade=#56698A
+names: Walter, Star, Park Street
+words: young; cinema; photo; shop; old
+focus: Nói về quá khứ với "was / were"
+pattern: Who was…? · I was… · There was / There were… · It was…
+explain: "Was" (số ít: I/he/she/it) và "were" (số nhiều: you/we/they) là quá khứ của "be". "There was + danh từ số ít", "There were + danh từ số nhiều" để tả ngày xưa có gì.
+keys: was / were / there was / there were
+
+ivy: Grandpa, look at this old photo! | Ông ơi, nhìn tấm ảnh cũ này này! [happy ~photo:walter]
+walter: Oh! Where was it? | Ồ! Cháu tìm thấy nó ở đâu thế? [surprised]
+ivy: In your desk. Who is the young man? | Trong bàn của ông ạ. Chàng trai trẻ này là ai ạ? [thinking]
+walter: That was me! I was twenty. | Là ông đấy! Hồi đó ông hai mươi tuổi. [happy]
+ivy: You were young! And where was this? | Hồi đó ông trẻ quá! Thế đây là ở đâu ạ? [surprised]
+walter: This was Park Street, sixty years ago. | Đây là phố Park, sáu mươi năm trước. [explain]
+ivy: Were there big shops? | Hồi đó có cửa hàng lớn không ạ? [thinking]
+walter: No. There were small shops, and there was a cinema. | Không. Chỉ có những cửa hàng nhỏ, và có một rạp chiếu phim. [explain]
+ivy: Was it a good cinema? | Rạp có hay không ạ? [happy]
+walter: It was the best! I was there every Saturday. | Hay nhất luôn! Thứ Bảy nào ông cũng ở đó. [happy]
+ivy: Every Saturday? Why? | Thứ Bảy nào cũng đi ạ? Sao thế ạ? [confused]
+walter: Your grandma was there, too. | Vì bà cháu cũng ở đó. [shy]
+ivy: Grandpa! Is the cinema still there? | Ông ơi! Rạp chiếu phim đó vẫn còn chứ ạ? [surprised]
+walter: I don't know. Let's go and see! | Ông không biết. Mình đi xem đi! [happy ivy:happy]

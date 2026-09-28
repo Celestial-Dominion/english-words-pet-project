@@ -1,0 +1,31 @@
+=== vd-a1-kates-first-day
+title: Can I Have a Tea, Please? | Cho bà một tách trà nhé?
+source: st-a1-kates-first-day
+summary: Sau một buổi sáng nhầm món liên tục, Kate phục vụ bà Evans — lần này cô ghi lại từng món một.
+scene: cafe
+prop: mug x=640
+prop: cake x=960
+cast: kate name=Kate look=teengirl x=800 voice=en-US-EmmaNeural pitch=+6Hz style.outfit=apron style.hair=ponytail style.hairColor=#9A5B2E style.top=#2F3A4A style.topShade=#1F2733
+cast: evans name="Mrs. Evans" vi="Bà Evans" look=grandma x=1230 voice=en-US-JennyNeural rate=-12% pitch=-8Hz style.top=#8C7BC2 style.topShade=#7666AD
+names: Evans
+gloss: order, mistakes, lemon
+words: tea; cake; please; milk; sugar
+focus: Gọi món và mời món
+pattern: Can I have…, please? · Would you like…? · Anything else? · That's… dollars.
+explain: Khách gọi món lịch sự: "Can I have + món, please?". Người bán mời/hỏi thêm: "Would you like…?", "Anything else?". Đáp lời mời: "Yes, please." hoặc "No, thank you."
+keys: can i have / would you like / anything else / yes, please / no, thank you
+
+kate: Good morning! What can I get you? | Chào bà ạ! Bà dùng gì ạ? [happy]
+evans: Good morning, dear. Can I have a tea, please? | Chào cháu. Cho bà một tách trà nhé? [happy]
+kate: A tea. Would you like milk? | Một trà ạ. Bà có dùng sữa không ạ? [thinking]
+evans: Yes, please. And no sugar. | Có, cháu cho bà ít sữa. Không đường nhé. [nod]
+kate: Tea with milk, no sugar. OK. | Trà sữa, không đường. Vâng ạ. [explain]
+evans: Are you writing it down? | Cháu đang ghi lại à? [surprised]
+kate: Yes. It's my first day. | Vâng. Hôm nay là ngày đầu tiên của cháu. [shy]
+kate: And I make a lot of mistakes. | Mà cháu nhầm nhiều lắm. [sad]
+evans: Everyone has a first day. Take your time. | Ai cũng có ngày đầu tiên mà. Cháu cứ từ từ. [happy]
+kate: Thank you. Anything else? | Cháu cảm ơn bà. Bà dùng thêm gì nữa không ạ? [happy]
+evans: Can I have a piece of lemon cake, please? | Cho bà một miếng bánh chanh nhé? [thinking @cake]
+kate: Lemon cake… not chocolate cake. Right! | Bánh chanh… không phải bánh sô-cô-la. Đúng rồi! [happy point @cake]
+kate: That's six dollars, please. | Của bà hết sáu đô la ạ. [explain ~money:6]
+evans: Here you are. And well done, dear. | Của cháu đây. Cháu làm tốt lắm. [happy kate:happy]

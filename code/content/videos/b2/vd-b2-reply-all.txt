@@ -1,0 +1,33 @@
+=== vd-b2-reply-all
+title: To Put Things Right | Để sửa chữa sai lầm
+source: st-b2-reply-all
+summary: Sáng thứ Hai, Zoe gặp lại ông Holt để xin lỗi một cách chuyên nghiệp và đề xuất những việc cụ thể để khắc phục hậu quả của lá thư gửi nhầm.
+scene: office
+cast: zoe name=Zoe look=woman x=520 voice=en-US-EmmaNeural pitch=+2Hz rate=+2% style.hair=ponytail style.hairColor=#3B2314 style.outfit=blouse style.top=#F5B041 style.topShade=#DC9E36
+cast: trevor name="Mr. Holt" vi="Ông Holt" look=dad x=1160 voice=en-US-EricNeural pitch=-5Hz style.hair=part style.hairColor=#8A8A8A style.outfit=tie style.top=#D6EAF8 style.topShade=#AED6F1 style.glasses=square
+names: Holt, Zoe, Trevor
+words: apologize; excuse; responsibility; openly; generous; offer
+focus: Xin lỗi chuyên nghiệp và đề xuất cách khắc phục
+pattern: I'd like to apologize for… · There's no excuse for… · I should have… · To put things right, I'd like to… · I'll make sure it never happens again · I hope we can put this behind us
+explain: Xin lỗi rõ ràng, không đổ lỗi: "I'd like to apologize for my email. There's no excuse for what I wrote." Nhận lỗi cụ thể: "I should have kept my opinions to myself." Đề xuất hành động: "To put things right, I'd like to…". Cam kết: "I'll make sure it never happens again." Người nhận lời xin lỗi có thể đáp: "I appreciate that.", "What's done is done.", "I hope we can put this behind us."
+keys: i'd like to apologize / there's no excuse for / i should have / to put things right / make sure it never happens again / put this behind us
+
+zoe: Good morning, Mr. Holt. Have you got a moment? I wanted to talk about Friday. | Chào buổi sáng, ông Holt. Ông có chút thời gian không ạ? Tôi muốn nói về chuyện hôm thứ Sáu. [shy]
+trevor: Of course, Zoe. Come in and close the door. | Tất nhiên rồi, Zoe. Vào đi và đóng cửa lại. [nod ipa=close:=]
+zoe: I'd like to apologize again for my email. There's no excuse for what I wrote. | Tôi muốn xin lỗi ông một lần nữa về lá email. Không có lý do gì bào chữa cho những gì tôi đã viết. [sad ipa=excuse:ɪkˈskjus]
+trevor: I appreciate that. It wasn't the best end to my first week. | Tôi trân trọng điều đó. Đó không phải cái kết đẹp nhất cho tuần đầu tiên của tôi. [sad]
+zoe: I know. I should have kept my opinions to myself, or at least shared them with you politely. | Tôi biết. Lẽ ra tôi nên giữ ý kiến cho riêng mình, hoặc ít nhất là nói với ông một cách lịch sự. [sad]
+trevor: Well, some of your opinions were fair. Eighty-four slides was too many. | Chà, vài ý kiến của cô cũng có lý. Tám mươi tư trang chiếu là quá nhiều. [shrug]
+zoe: Even so, it was humiliating for you, and that's my fault. | Dù vậy, chuyện đó khiến ông bẽ mặt, và đó là lỗi của tôi. [sad]
+trevor: What's done is done. Honestly, you've been very decent about it. The question is what happens now. | Chuyện đã rồi. Nói thật, cô đã cư xử rất đàng hoàng. Vấn đề là giờ sẽ thế nào. [thinking]
+zoe: To put things right, I'd like to send a short message to everyone and apologize openly. | Để sửa sai, tôi muốn gửi một tin nhắn ngắn cho mọi người và công khai xin lỗi. [explain]
+trevor: That's generous, but are you sure? It'll remind people of the whole thing. | Cô thật rộng lượng, nhưng cô chắc chứ? Nó sẽ khiến mọi người nhớ lại toàn bộ chuyện này. [thinking]
+zoe: I'm sure. Everyone saw the mistake, so they should also see me take responsibility for it. | Tôi chắc chắn. Mọi người đã thấy sai lầm, nên họ cũng nên thấy tôi chịu trách nhiệm về nó. [nod]
+trevor: All right. Just keep it short. No slides! | Được rồi. Chỉ cần viết ngắn thôi. Không có trang chiếu nào nhé! [happy]
+zoe: Definitely no slides. And I'll make sure it never happens again. I've already changed my email settings. | Chắc chắn không có trang chiếu. Và tôi sẽ đảm bảo chuyện này không bao giờ lặp lại. Tôi đã đổi cài đặt email rồi. [happy]
+trevor: Good. Is there anything else? | Tốt. Còn gì nữa không? [thinking]
+zoe: Actually, yes. I'd like to offer to help with your presentation to the board next month, if that would be useful. | Thật ra là có. Tôi muốn xin được giúp ông chuẩn bị bài thuyết trình trước ban giám đốc tháng sau, nếu điều đó có ích. [explain]
+trevor: You'd do that? After everything? | Cô sẽ làm vậy ư? Sau tất cả mọi chuyện? [surprised]
+zoe: I'd be glad to. I think it's the least I can do. | Tôi rất vui được giúp. Tôi nghĩ đó là điều tối thiểu tôi có thể làm. [nod]
+trevor: Then I accept. I hope we can put this behind us and work well together. | Vậy tôi nhận lời. Tôi mong chúng ta có thể gác chuyện này lại và làm việc tốt với nhau. [happy zoe:happy]
+gloss: slides

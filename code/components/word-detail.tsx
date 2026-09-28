@@ -7,6 +7,7 @@ import { posLabel } from "@/lib/pos";
 import { wordAudioUrl, sentenceAudioUrl, playAudio as play } from "@/lib/tts";
 import { getReview, recordAnswer, addXp, getMnemonic, setMnemonic, markKnown } from "@/lib/db";
 import { occurrencesOf, type Occurrence } from "@/lib/suggest";
+import { refHref } from "@/lib/library";
 import { XP } from "@/lib/gamify";
 import type { Word, ReviewRecord } from "@/lib/types";
 
@@ -306,7 +307,7 @@ export default function WordDetail({
 
           <ExampleList examples={curExamples} />
 
-          {/* Gặp lại trong ngữ cảnh: bài đọc/truyện chứa từ này (như HSK) */}
+          {/* Gặp lại trong ngữ cảnh: bài đọc / truyện / video chứa từ này (như HSK) */}
           {occ.length > 0 && (
             <div className="mt-5">
               <div className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-muted-foreground">
@@ -315,14 +316,16 @@ export default function WordDetail({
               <div className="space-y-1.5">
                 {occ.map((o) => (
                   <a
-                    key={`${o.type}-${o.id}`}
-                    href={`/bai-doc?open=${encodeURIComponent(o.id)}`}
+                    key={`${o.kind}-${o.id}`}
+                    href={refHref(o)}
                     className="flex items-center justify-between gap-2 rounded-xl border px-3 py-2 text-sm transition-colors hover:bg-muted"
                   >
                     <span className="min-w-0 truncate">
                       <b>{o.title_en}</b> <span className="text-muted-foreground">· {o.title_vi}</span>
                     </span>
-                    <span className="shrink-0 text-xs text-muted-foreground">bài đọc</span>
+                    <span className="shrink-0 text-xs text-muted-foreground">
+                      {o.kind === "reading" ? "bài đọc" : o.kind === "story" ? "truyện" : "video"} · {o.level.toUpperCase()}
+                    </span>
                   </a>
                 ))}
               </div>

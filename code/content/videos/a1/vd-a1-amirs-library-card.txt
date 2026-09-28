@@ -1,0 +1,30 @@
+=== vd-a1-amirs-library-card
+title: How Many Books Can I Borrow? | Cháu mượn được mấy cuốn ạ?
+source: st-a1-amirs-library-card
+summary: Amir ôm mười hai cuốn sách đến quầy với tấm thẻ mới tinh; cô Ortiz giải thích quy định mượn sách.
+scene: library
+prop: book x=800
+cast: amir name=Amir look=boy x=520 voice=en-US-AnaNeural pitch=-12Hz style.hair=short style.hairColor=#1F1A1C style.skin=#B07650 style.skinShade=#94603E style.top=#E5484D style.topShade=#C73A3F style.collar=#C73A3F
+cast: ortiz name="Ms. Ortiz" vi="Cô Ortiz" look=woman x=1150 voice=en-US-AvaNeural rate=-4% style.hair=bun style.hairColor=#3A2A22 style.skin=#D9A27A style.skinShade=#C48A62 style.glasses=true style.top=#3F7FCB style.topShade=#2F66AA
+names: Ortiz, Layla
+gloss: librarian
+words: borrow; library; card; week; late
+focus: Hỏi thông tin ở thư viện
+pattern: How many… can I…? · How long can I keep them? · When do I bring them back? · What happens if…?
+explain: Hỏi quy định: "How many…?" (bao nhiêu), "How long…?" (trong bao lâu), "When…?" (khi nào). Câu trả lời thường có "You can…" (được phép) và "You must…" (bắt buộc).
+keys: how many / how long / when do i / what happens if
+
+amir: Hello! I have my new library card. | Cháu chào cô! Cháu có thẻ thư viện mới rồi ạ. [happy]
+ortiz: Hello, Amir! What can I do for you? | Chào Amir! Cô giúp gì được cho cháu nào? [happy]
+amir: I want these books, please. | Cháu muốn mượn những cuốn này ạ. [happy point @book]
+ortiz: That's twelve books! | Mười hai cuốn đấy! [surprised]
+amir: How many books can I borrow? | Cháu được mượn bao nhiêu cuốn ạ? [thinking]
+ortiz: Five books at one time. | Mỗi lần năm cuốn thôi. [explain]
+amir: Only five? Oh. | Chỉ năm cuốn ạ? Ôi. [sad]
+amir: How long can I keep them? | Cháu được giữ trong bao lâu ạ? [thinking]
+ortiz: For two weeks. | Trong hai tuần. [neutral]
+amir: When do I bring them back? | Khi nào cháu mang trả ạ? [thinking]
+ortiz: On Saturday, June 20. It's on your card. | Thứ Bảy, ngày 20 tháng 6. Có ghi trên thẻ đấy. [explain ~calendar:20]
+amir: What happens if I'm late? | Nếu cháu trả muộn thì sao ạ? [worried]
+ortiz: You must pay a little money. So don't be late! | Cháu phải nộp một ít tiền. Nên đừng trả muộn nhé! [happy]
+amir: I won't. And then I can take five more! | Cháu sẽ không muộn đâu ạ. Rồi cháu lại mượn thêm năm cuốn nữa! [happy cheer ortiz:happy]

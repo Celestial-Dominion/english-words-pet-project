@@ -1,0 +1,33 @@
+=== vd-b1-the-dancer
+title: I've Always Wanted to Dance | Con luôn muốn được nhảy
+source: st-b1-the-dancer
+summary: Sau buổi gặp thầy Kai, trên chiếc taxi về nhà, ông Rao lần đầu hỏi con trai về ước mơ thật sự của cậu.
+scene: car
+cast: rao name="Mr. Rao" vi="Ông Rao" look=man x=560 voice=en-US-GuyNeural pitch=-6Hz rate=-4% style.hair=short style.hairColor=#3A3A3A style.skin=#A8704C style.skinShade=#8E5C3C style.outfit=jacket style.top=#4A4A4A style.topShade=#3A3A3A
+cast: arun name=Arun look=teenboy x=1140 voice=en-US-AndrewNeural pitch=+14Hz style.hair=short style.hairColor=#1A1A1A style.skin=#A8704C style.skinShade=#8E5C3C style.outfit=tee style.top=#E74C3C style.topShade=#CB4335
+names: Arun, Kai
+words: dream; hope; career; academy; scholarship; regret
+focus: Nói về ước mơ và dự định
+pattern: I've always wanted to… · My dream is to… · I'd love to… · I'm hoping to… · What do you want to do with your life? · I'd regret it if…
+explain: Ước mơ lâu dài: "I've always wanted to + động từ" (hiện tại hoàn thành). Mơ ước: "My dream is to…", "I'd love to…". Dự định có cơ sở: "I'm hoping to…". Hối tiếc giả định: "I'd regret it if I didn't try."
+keys: i've always wanted to / my dream is to / i'd love to / i'm hoping to / what do you want to do / i'd regret it if
+
+rao: Your teacher, Kai, seems like a good man. He says you're very gifted. | Thầy Kai của con có vẻ là người tốt. Thầy ấy nói con rất có năng khiếu. [neutral]
+arun: He is, Dad. He teaches us for free. | Vâng, bố. Thầy dạy tụi con miễn phí. [shy]
+rao: So tell me honestly. What do you want to do with your life? | Vậy nói thật với bố đi. Con muốn làm gì với cuộc đời mình? [thinking]
+arun: I've always wanted to dance. Since I was fourteen. | Con luôn muốn được nhảy. Từ hồi mười bốn tuổi. [shy]
+rao: And not medicine? Not at all? | Còn ngành y thì sao? Hoàn toàn không à? [sad]
+arun: I'm sorry, Dad. It was your dream, not mine. | Con xin lỗi, bố. Đó là giấc mơ của bố, không phải của con. [sad]
+rao: Then what is your dream? | Vậy giấc mơ của con là gì? [thinking]
+arun: My dream is to study at the dance academy and become a professional dancer. | Giấc mơ của con là học ở học viện múa và trở thành vũ công chuyên nghiệp. [explain]
+rao: That's a difficult career. Most dancers don't earn much money. | Đó là một nghề khó. Hầu hết vũ công chẳng kiếm được bao nhiêu tiền. [worried]
+arun: I know. That's why I'm hoping to get a scholarship. Kai says I have a good chance. | Con biết. Vì vậy con đang hy vọng giành được học bổng. Thầy Kai nói con có cơ hội lớn. [explain]
+rao: And your school? Your exams? | Còn trường học? Còn thi cử? [thinking]
+arun: I'd love to finish school, too. The academy has normal lessons in the morning. | Con cũng muốn học xong phổ thông. Học viện có giờ học văn hoá vào buổi sáng. [happy]
+rao: You've thought about this a lot, haven't you? | Con đã suy nghĩ rất nhiều về chuyện này, phải không? [thinking]
+arun: Every day for two years. I'd regret it if I didn't try. | Ngày nào cũng nghĩ, suốt hai năm nay. Con sẽ hối tiếc nếu không thử. [explain]
+rao: When I was your age, I wanted to be a singer. | Hồi bằng tuổi con, bố muốn làm ca sĩ. [sad]
+arun: Really? You never told me that! | Thật ạ? Bố chưa bao giờ kể với con! [surprised]
+rao: I never tried. I don't want you to make the same mistake. | Bố chưa bao giờ thử. Bố không muốn con mắc sai lầm giống bố. [explain]
+arun: Does that mean… I can apply? | Vậy có nghĩa là… con được nộp đơn ạ? [surprised]
+rao: It means your mother and I want to see your next performance. From the front row. | Nghĩa là mẹ con và bố muốn xem buổi biểu diễn tới của con. Từ hàng ghế đầu. [happy arun:happy ipa=row:=]

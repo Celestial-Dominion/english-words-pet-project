@@ -1,0 +1,31 @@
+=== vd-a2-the-exchange-student
+title: Your School Is Bigger Than Mine! | Trường cậu to hơn trường tớ!
+source: st-a2-the-exchange-student
+summary: Sau tuần đầu ở Ohio, Harper hỏi Lucas thấy nước Mỹ khác nước Pháp thế nào — từ giờ ăn tối đến trường học và bánh mì.
+scene: campus-gate
+cast: harper name=Harper look=teengirl x=500 voice=en-US-EmmaNeural pitch=+6Hz style.hair=ponytail style.hairColor=#B5652E style.outfit=jacket style.top=#E5484D style.topShade=#C73A3F
+cast: lucas name=Lucas look=teenboy x=1130 voice=en-US-AndrewNeural pitch=+12Hz rate=+2% style.hair=curly style.hairColor=#3A2A22 style.outfit=shirt style.top=#3F7FCB style.topShade=#2F66AA style.scarf=#F2C14E
+names: Lyon, France, Ohio, Lucas, Harper
+words: different; stranger; portion; interesting; polite; stadium
+focus: So sánh hai nơi
+pattern: … is bigger / more interesting than… · the biggest… · not as … as… · In France, we…
+explain: Tính từ ngắn thêm "-er than" (bigger than), tính từ dài dùng "more … than" (more interesting than). So sánh bằng phủ định: "not as good as". So sánh nhất: "the biggest", "the most important".
+keys: than / the most / not as / the biggest / in france
+
+harper: So, Lucas, how was your first week? | Nào, Lucas, tuần đầu tiên của cậu thế nào? [happy]
+lucas: Great! But everything is different here. | Tuyệt lắm! Nhưng ở đây cái gì cũng khác. [happy]
+harper: Different how? | Khác thế nào? [thinking]
+lucas: Well, your school is much bigger than mine. | Thì, trường cậu to hơn trường tớ nhiều. [explain]
+lucas: You even have a stadium! | Các cậu có cả sân vận động! [surprised]
+harper: Yeah, football is the most important sport here. | Ừ, ở đây bóng bầu dục là môn thể thao quan trọng nhất. [happy]
+lucas: And dinner is much earlier. In France, we eat at eight. | Bữa tối cũng sớm hơn nhiều. Ở Pháp, bọn tớ ăn lúc tám giờ. [explain ~clock:8:00]
+harper: Eight? I'd be so hungry! | Tám giờ á? Tớ đói chết mất! [surprised]
+lucas: The portions are bigger here, too. The biggest pizza I've ever seen! | Khẩu phần ở đây cũng to hơn. Cái pizza to nhất tớ từng thấy! [happy]
+harper: Is French food better than American food? | Đồ ăn Pháp có ngon hơn đồ ăn Mỹ không? [thinking]
+lucas: Hmm… it's not as big, but it's… more interesting. | Ừm… nó không to bằng, nhưng… thú vị hơn. [thinking]
+harper: That's very polite! What about people? | Nói thế lịch sự quá! Còn con người thì sao? [happy]
+lucas: People here are friendlier with strangers. They talk to me in shops! | Người ở đây thân thiện với người lạ hơn. Họ bắt chuyện với tớ trong cửa hàng! [happy]
+harper: And in France? | Còn ở Pháp? [thinking]
+lucas: In France, we're quieter. But we kiss more! | Ở Pháp, bọn tớ trầm hơn. Nhưng hôn má nhiều hơn! [happy]
+harper: I know! My face was redder than a tomato at the airport! | Tớ biết! Ở sân bay mặt tớ còn đỏ hơn cả quả cà chua! [shy lucas:happy]
+gloss: friendlier, quieter, redder, portions

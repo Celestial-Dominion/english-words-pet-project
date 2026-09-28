@@ -1,0 +1,33 @@
+=== vd-b2-the-cold-case
+title: You Worked There, Didn't You? | Ông từng làm ở đó, phải không?
+source: st-b2-the-cold-case
+summary: Cựu thanh tra Gwen phỏng vấn ông Dennis, người làm vườn cũ của dinh thự Harcourt, dùng câu hỏi đuôi để kiểm chứng từng chi tiết của vụ án ba mươi năm trước.
+scene: home-evening
+cast: gwen name=Gwen look=woman x=520 voice=en-US-MichelleNeural pitch=-8Hz rate=-4% style.hair=short style.hairColor=#B0B0B0 style.outfit=coat style.top=#6E2C00 style.topShade=#5B2500 style.glasses=square
+cast: dennis name=Dennis look=grandpa x=1160 voice=en-US-RogerNeural pitch=-4Hz style.outfit=cardigan style.top=#4D5656 style.topShade=#414A4A
+names: Ward, Gwen, Dennis, Harcourt, Harcourt Hall, Lady Harcourt, Julian, Nesta, France
+words: gardener; confirm; definitely; positive; statement; secret
+focus: Kiểm chứng thông tin bằng câu hỏi đuôi
+pattern: You worked there, didn't you? · You weren't at the house, were you? · That's true, isn't it? · He never asked you to…, did he? · Just to confirm, … · Are you absolutely sure about that?
+explain: Câu hỏi đuôi dùng khi người hỏi đã đoán câu trả lời và muốn xác nhận: mệnh đề khẳng định → đuôi phủ định ("You worked there, didn't you?"), mệnh đề phủ định → đuôi khẳng định ("You weren't there, were you?"). Chú ý "never" mang nghĩa phủ định: "He never asked you, did he?". Kiểm tra lại: "Just to confirm, you're saying…?", "Are you absolutely sure about that?".
+keys: didn't you / were you / isn't it / did he / wouldn't you / just to confirm / are you absolutely sure
+
+gwen: Mr. Ward, thank you for seeing us. You worked at Harcourt Hall in the nineties, didn't you? | Ông Ward, cảm ơn ông đã tiếp chúng tôi. Ông từng làm ở Harcourt Hall vào những năm chín mươi, phải không? [explain]
+dennis: That's right. I was the gardener there for twelve years. | Đúng vậy. Tôi làm vườn ở đó mười hai năm. [nod]
+gwen: So you knew the family quite well, didn't you? | Vậy ông khá hiểu gia đình ấy, phải không? [thinking]
+dennis: As well as anyone did. They weren't easy people to know. | Hiểu như bao người khác thôi. Họ không phải những người dễ gần. [shrug]
+gwen: You weren't at the house on the night the emerald disappeared, were you? | Ông không có mặt ở dinh thự vào đêm viên ngọc biến mất, đúng không? [thinking ipa=house:=]
+dennis: No, I'd gone home by six. I only heard about it the next morning. | Không, sáu giờ tôi đã về nhà. Mãi sáng hôm sau tôi mới nghe chuyện. [shake]
+gwen: Just to confirm, you're saying you left before dark? | Để xác nhận lại, ý ông là ông rời đi trước khi trời tối? [explain]
+dennis: Definitely. My wife would have killed me if I'd been late for dinner. | Chắc chắn. Nếu về muộn bữa tối thì vợ tôi đã xử tôi rồi. [happy]
+gwen: Let's talk about Julian. He told the police he didn't smoke. That's true, isn't it? | Ta nói về Julian nhé. Anh ta khai với cảnh sát là không hút thuốc. Điều đó đúng, phải không? [thinking]
+dennis: Didn't smoke? You're joking, aren't you? He smoked all the time. | Không hút thuốc ư? Bà đùa tôi đấy à? Anh ta hút suốt. [surprised]
+gwen: Are you absolutely sure about that? | Ông hoàn toàn chắc chắn chứ? [thinking]
+dennis: I'm positive. He used to hide behind the greenhouse so Lady Harcourt wouldn't catch him. | Tôi dám chắc. Anh ta hay trốn sau nhà kính để bà Harcourt khỏi bắt gặp. [nod ipa=used:just]
+gwen: And he never asked you to keep it secret, did he? | Và anh ta chưa bao giờ nhờ ông giữ bí mật, đúng không? [thinking]
+dennis: He didn't need to. Nobody asked me anything. The police only talked to the people in the house. | Anh ta chẳng cần nhờ. Có ai hỏi gì tôi đâu. Cảnh sát chỉ nói chuyện với những người trong nhà. [shrug ipa=house:=]
+gwen: He was short of money at the time, wasn't he? He could easily have copied the key to the cabinet. | Hồi đó anh ta túng tiền, phải không? Anh ta hoàn toàn có thể đã sao chìa khoá tủ. [thinking]
+dennis: Very short. Everybody in the village knew he was gambling. And now he lives in a villa in France, doesn't he? | Túng lắm. Cả làng đều biết anh ta cờ bạc. Và giờ anh ta sống trong một biệt thự ở Pháp, đúng không? [explain ipa=lives:lɪvz]
+gwen: He does. That's very helpful, Mr. Ward. You'd be willing to make a statement, wouldn't you? | Đúng thế. Ông giúp chúng tôi nhiều lắm, ông Ward. Ông sẵn lòng viết một bản tường trình, phải không? [happy]
+dennis: Of course. If it helps Nesta, I'll say it in front of anyone. She was always kind to me. | Tất nhiên rồi. Nếu giúp được bà Nesta, tôi sẽ nói trước mặt bất kỳ ai. Bà ấy luôn tử tế với tôi. [nod gwen:happy]
+gloss: emerald, greenhouse

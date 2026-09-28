@@ -1,0 +1,35 @@
+=== vd-c1-whiteout
+title: Nobody Improvises | Không ai được tuỳ tiện
+source: st-c1-whiteout
+summary: Ollie mất liên lạc giữa bão tuyết; ở cửa trạm, Kristin giữ bình tĩnh, lắng nghe Dev và Inês rồi đưa ra những chỉ dẫn ngắn gọn, rõ ràng cho cuộc tìm kiếm.
+scene: snow-yard snow
+cast: ines name=Inês look=woman x=300 voice=en-US-AvaNeural pitch=-3Hz style.hair=bun style.hairColor=#3B2314 style.skin=#D8A77F style.skinShade=#C4936B style.outfit=coat style.top=#C0392B style.topShade=#A93226 style.scarf=#F4D03F
+cast: kristin name=Kristin look=woman x=800 voice=en-US-EmmaNeural pitch=-4Hz rate=-2% style.hair=ponytail style.hairColor=#E3C16F style.outfit=coat style.top=#2471A3 style.topShade=#1F618D style.scarf=#ECF0F1
+cast: dev name=Dev look=man x=1300 voice=en-US-SteffanNeural pitch=-2Hz style.hair=short style.hairColor=#1A1A1A style.skin=#9C6644 style.skinShade=#855536 style.outfit=coat style.top=#D35400 style.topShade=#BA4A00 style.scarf=#566573
+names: Ollie, Kristin, Dev, Inês
+words: contingency; visibility; casualty; vulnerable; protocol; fatigue
+focus: Giữ bình tĩnh và ra chỉ dẫn rõ ràng trong tình huống khẩn cấp
+pattern: Right, listen carefully · First things first · Under no circumstances… · Stay put · Let's not jump to conclusions · We'll get through this
+explain: Giành sự chú ý: "Right, listen carefully." Sắp thứ tự: "First things first, …", "Once that's done, …". Cấm tuyệt đối: "Under no circumstances should anyone…" (đảo ngữ sau "Under no circumstances"). Yêu cầu ở yên: "Stay put." Trấn an mà không hứa suông: "Let's not jump to conclusions.", "We'll get through this." Câu ngắn, động từ mệnh lệnh, nhắc lại điểm quan trọng.
+keys: listen carefully / first things first / under no circumstances / stay put / jump to conclusions / get through this
+
+dev: Kristin, it's been forty minutes. Ollie isn't answering, and the mast has stopped sending data. | Kristin, đã bốn mươi phút rồi. Ollie không trả lời, và cột đo đã ngừng gửi dữ liệu. [worried ipa=minutes:ˈmɪnɪts]
+ines: If he's lying still out there, hypothermia is the real danger. We don't have long. | Nếu cậu ấy đang nằm bất động ngoài đó, hạ thân nhiệt mới là mối nguy thực sự. Chúng ta không còn nhiều thời gian. [worried]
+dev: Give me two people and I'll follow the rope right now. Every minute counts. | Cho tôi hai người và tôi sẽ lần theo dây ngay bây giờ. Từng phút đều quý. [explain ipa=minute:ˈmɪnɪt]
+kristin: Let's not jump to conclusions. His radio battery may simply have died in the cold. | Đừng vội kết luận. Pin bộ đàm của cậu ấy có thể chỉ đơn giản là hết vì lạnh. [thinking]
+ines: Maybe. But in this wind, a search team is vulnerable too, and fatigue makes people careless. I don't want a second casualty. | Có thể. Nhưng trong gió thế này, đội tìm kiếm cũng dễ gặp nguy, và mệt mỏi khiến người ta bất cẩn. Tôi không muốn có thêm nạn nhân thứ hai. [explain ipa=wind:wɪnd]
+kristin: Neither do I. Right, listen carefully. We go, but we go by the contingency plan. Nobody improvises. | Tôi cũng vậy. Được rồi, nghe kỹ đây. Chúng ta đi, nhưng đi theo kế hoạch dự phòng. Không ai được tuỳ tiện. [explain dev:worried]
+dev: Understood. What's the order? | Rõ. Thứ tự thế nào? [nod]
+kristin: First things first: three people on the rope, each clipped on separately, and one at the door with a lifeline. | Việc đầu tiên: ba người lần theo dây, mỗi người móc riêng, và một người ở cửa giữ dây cứu sinh. [explain]
+kristin: Once that's done, we report by radio every fifty metres. If we haven't reached the mast in thirty minutes, we turn back. | Xong việc đó, chúng ta báo cáo qua bộ đàm cứ mỗi năm mươi mét. Nếu sau ba mươi phút chưa đến được cột đo, chúng ta quay về. [explain ipa=minutes:ˈmɪnɪts]
+ines: Even if we can see him? | Kể cả khi chúng ta nhìn thấy cậu ấy? [surprised]
+kristin: Visibility is less than a metre, Inês. If we can see him, we'll be close enough to reach him. | Tầm nhìn chưa tới một mét đâu, Inês. Nếu nhìn thấy được cậu ấy, tức là chúng ta đã đủ gần để với tới. [explain ipa=close:kloʊs]
+kristin: And under no circumstances should anyone unclip from the rope. Disorientation kills people in a whiteout. | Và trong bất kỳ trường hợp nào cũng không ai được tháo móc khỏi dây. Mất phương hướng giết người giữa cơn trắng xoá. [angry]
+dev: I'll lead, then. I know that path better than anyone. | Vậy tôi sẽ dẫn đầu. Tôi thuộc con đường đó hơn ai hết. [explain ipa=lead:lid]
+kristin: No. I'm leading the team. You're staying here and running the station. | Không. Tôi dẫn đội. Anh ở lại đây điều hành trạm. [shake]
+dev: That's not protocol. If something happens to you, who takes charge? | Như vậy là trái quy trình. Nếu chị có chuyện gì, ai sẽ chịu trách nhiệm chỉ huy? [angry]
+kristin: You do. That's exactly why you're staying. Stay put, keep the radio open, and count every minute for me. | Anh. Chính vì thế mà anh ở lại. Ở yên đây, giữ bộ đàm luôn mở, và đếm từng phút giúp tôi. [explain ipa=minute:ˈmɪnɪt]
+ines: I'll warm the medical room and prepare blankets. When you bring him in, he'll need them fast. | Tôi sẽ làm ấm phòng y tế và chuẩn bị chăn. Khi chị đưa cậu ấy vào, cậu ấy sẽ cần ngay. [nod]
+dev: Kristin, be careful out there. | Kristin, ở ngoài đó cẩn thận nhé. [worried]
+kristin: I will. He followed the rope, Dev. He knows the rules. We'll get through this. | Tôi sẽ cẩn thận. Cậu ấy đã lần theo dây, Dev ạ. Cậu ấy biết quy định. Chúng ta sẽ vượt qua chuyện này. [nod ines:worried]
+gloss: hypothermia, lifeline, unclip, whiteout, improvises, clipped, mast, disorientation

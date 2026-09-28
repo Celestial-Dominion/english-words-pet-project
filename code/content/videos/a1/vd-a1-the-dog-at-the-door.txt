@@ -1,0 +1,30 @@
+=== vd-a1-the-dog-at-the-door
+title: Is This Your Dog? | Đây có phải chó của bà không?
+source: st-a1-the-dog-at-the-door
+summary: Bà Hill đến nhà Oscar sau khi thấy tấm áp phích; để chắc chắn, Oscar hỏi bà tả con chó của mình trông thế nào.
+scene: home-day
+prop: puppy x=790
+cast: oscar name=Oscar look=boy x=560 voice=en-US-AnaNeural pitch=-12Hz style.hair=curly style.hairColor=#1F1A1C style.skin=#8D5A3B style.skinShade=#74472D style.top=#3F7FCB style.topShade=#2F66AA style.collar=#2F66AA
+cast: hill name="Mrs. Hill" vi="Bà Hill" look=grandma x=1150 voice=en-US-MichelleNeural rate=-12% pitch=-6Hz from=0
+names: Hill, Biscuit, Rainy
+gloss: collar, poster
+words: dog; brown; small; ear; poster = áp phích
+focus: Miêu tả con vật / đồ vật
+pattern: It's + tính từ (small, brown…) · It has + danh từ (a red collar, big ears…) · Is it…? / Does it have…?
+explain: Tả đặc điểm dùng "It's + tính từ": It's small. Tả thứ nó có dùng "It has + danh từ": It has big ears. Hỏi lại cho chắc: "Is it…?", "Does it have…?".
+keys: it's small / it has / does it have / is it
+
+hill: Hello. I saw your poster. I'm looking for my dog. | Chào cháu. Bà thấy tấm áp phích của cháu. Bà đang đi tìm con chó của bà. [worried]
+oscar: Hello. What does your dog look like? | Cháu chào bà. Chó của bà trông thế nào ạ? [thinking]
+hill: It's small. It's brown and white. | Nó nhỏ thôi. Lông màu nâu trắng. [explain]
+oscar: Does it have a collar? | Nó có đeo vòng cổ không ạ? [thinking]
+hill: Yes, it has a red collar. | Có, nó đeo một cái vòng cổ màu đỏ. [nod]
+oscar: Hmm. And its ears? Are they big? | Ưm. Còn tai nó thì sao ạ? Tai có to không ạ? [thinking]
+hill: Yes, very big! And one ear is white. | Có, to lắm! Mà một bên tai màu trắng. [happy]
+oscar: One white ear… Just a moment. | Một bên tai trắng… Bà đợi cháu một chút. [surprised]
+oscar: Is this your dog? | Đây có phải chó của bà không ạ? [happy point @puppy]
+hill: Biscuit! Oh, it's you! | Biscuit! Ôi, đúng là con rồi! [tearful cheer]
+oscar: His name is Biscuit? I called him Rainy. | Nó tên là Biscuit ạ? Cháu gọi nó là Rainy. [shy]
+hill: Rainy is a good name, too. Thank you so much. | Rainy cũng là một cái tên hay. Cảm ơn cháu nhiều lắm. [happy]
+oscar: He is a very good dog. | Nó là một chú chó rất ngoan ạ. [sad]
+hill: Then come and walk him on Saturday! | Thế thì thứ Bảy cháu sang dắt nó đi dạo nhé! [happy oscar:happy]

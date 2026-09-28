@@ -4,8 +4,21 @@
     {
       "name": "en-dev",
       "runtimeExecutable": "sh",
-      "runtimeArgs": ["-c", "cd code && npm run dev"],
+      "runtimeArgs": [
+        "-c",
+        "cd code && npm run dev"
+      ],
       "port": 3000,
+      "autoPort": true
+    },
+    {
+      "name": "en-dev-local",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": [
+        "-c",
+        "cd code && NEXT_PUBLIC_FIREBASE_API_KEY= npm run dev"
+      ],
+      "port": 3012,
       "autoPort": true
     }
   ]

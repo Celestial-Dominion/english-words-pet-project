@@ -1,0 +1,33 @@
+=== vd-b1-the-chess-club
+title: I'm Getting Better | Cháu đang tiến bộ
+source: st-b1-the-chess-club
+summary: Giờ trưa ở thư viện, Aisha kể với ông Obi về quá trình tự luyện cờ — điều em đã làm được, điều em vẫn chưa làm được.
+scene: library
+prop: book x=800
+cast: obi name="Mr. Obi" vi="Ông Obi" look=grandpa x=540 voice=en-US-GuyNeural pitch=-8Hz rate=-6% style.skin=#6E4127 style.skinShade=#58321D style.outfit=shirt style.top=#5D6D7E style.topShade=#4D5B69
+cast: aisha name=Aisha look=girl x=1140 voice=en-US-AnaNeural pitch=+8Hz style.hair=pigtails style.hairColor=#1A1A1A style.skin=#6E4127 style.skinShade=#58321D style.outfit=uniform style.top=#7D3C98 style.topShade=#6C3483
+names: Aisha, Obi
+words: practice; mistake; opponent; confidence; tournament; pattern
+focus: Nói về quá trình học và sự tiến bộ
+pattern: I've been … for… · I'm getting better at… · I still can't… · I've learned how to… · It's getting easier. · Practice makes perfect.
+explain: Việc đang làm liên tục đến nay: "I've been practicing online for three months." Tiến bộ dần: "I'm getting better at…" (get + so sánh hơn), "It's getting easier." Việc chưa làm được: "I still can't…" / "…yet". Kỹ năng đã học: "I've learned how to…".
+keys: i've been / i'm getting better at / i still can't / i've learned how to / it's getting easier / practice makes perfect
+
+obi: So, Aisha, how is your chess going? The librarian says you borrow a new chess book every week. | Thế nào, Aisha, cháu chơi cờ đến đâu rồi? Cô thủ thư bảo tuần nào cháu cũng mượn một cuốn sách cờ mới. [happy @book]
+aisha: I've been practicing online every evening for three months. | Cháu luyện tập trên mạng mỗi tối suốt ba tháng nay rồi ạ. [shy]
+obi: Every evening? That's real commitment. | Tối nào cũng vậy à? Thật là quyết tâm. [surprised]
+aisha: I'm getting better at the beginning of the game. I don't lose my queen so early now. | Cháu đang khá hơn ở phần khai cuộc. Giờ cháu không bị mất quân hậu sớm như trước nữa. [happy]
+obi: Excellent. What else have you learned? | Tuyệt vời. Cháu còn học được gì nữa? [thinking]
+aisha: I've learned how to think about what my opponent wants. Like you said. | Cháu đã học cách nghĩ xem đối thủ muốn gì. Như ông dặn ạ. [explain]
+obi: That's the most important lesson in chess. And in life. | Đó là bài học quan trọng nhất trong cờ vua. Và cả trong cuộc sống. [happy]
+aisha: But I still can't finish games well. When there are only a few pieces left, I get confused. | Nhưng cháu vẫn chưa kết thúc ván cờ tốt được. Khi chỉ còn vài quân, cháu bị rối. [sad]
+obi: The end of the game is the hardest part. It takes years to learn. | Tàn cuộc là phần khó nhất. Phải mất nhiều năm mới học được. [explain]
+aisha: I lose a lot of games because of silly mistakes. | Cháu thua nhiều ván vì những lỗi ngớ ngẩn. [sad]
+obi: Every mistake is a lesson. Do you look at your games afterwards? | Mỗi sai lầm là một bài học. Cháu có xem lại các ván cờ sau đó không? [thinking]
+aisha: Yes. I write down every move in a notebook, and I look for patterns. | Có ạ. Cháu ghi lại từng nước đi vào một cuốn sổ, và cháu tìm những thế cờ lặp lại. [nod]
+obi: Then you're doing everything right. Is it getting easier? | Vậy là cháu đang làm đúng mọi thứ. Có thấy dễ dần lên không? [happy]
+aisha: A little. And I'm not so scared to play against older kids now. | Một chút ạ. Và giờ cháu không còn sợ chơi với các anh chị lớn hơn nữa. [happy]
+obi: That's confidence. It's growing, like your chess. | Đó là sự tự tin. Nó đang lớn dần, giống như tài chơi cờ của cháu. [happy]
+aisha: Do you think I could play in a tournament one day? | Ông có nghĩ một ngày nào đó cháu có thể thi đấu ở một giải không ạ? [thinking]
+obi: One day? Keep working like this, and it will be next year. Practice makes perfect. | Một ngày nào đó ư? Cứ chăm chỉ thế này, thì sẽ là năm sau đấy. Có công mài sắt có ngày nên kim. [happy aisha:surprised]
+gloss: commitment, librarian

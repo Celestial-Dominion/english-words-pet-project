@@ -1,0 +1,35 @@
+=== vd-b2-the-lake-house
+title: It's Just a Thought, But… | Chỉ là một ý nghĩ thôi, nhưng…
+source: st-b2-the-lake-house
+summary: Tối thứ Bảy bên hồ, ba anh chị em bàn chuyện ngôi nhà thừa kế bằng những lời lẽ mềm mỏng, rào đón — để không ai cảm thấy bị dồn vào thế bí.
+scene: home-lake
+cast: claire name=Claire look=woman x=300 voice=en-US-MichelleNeural pitch=-2Hz style.hair=bob style.hairColor=#6E4B2A style.outfit=cardigan style.top=#2C3E50 style.topShade=#243342
+cast: ben name=Ben look=man x=800 voice=en-US-BrianNeural pitch=-2Hz rate=-4% style.hair=curly style.hairColor=#6E4B2A style.outfit=tee style.top=#7D6608 style.topShade=#6E5A07
+cast: hana name=Hana look=woman x=1300 voice=en-US-AnaNeural pitch=-2Hz style.hair=long style.hairColor=#6E4B2A style.outfit=blouse style.top=#E59866 style.topShade=#DC7633
+names: Claire, Ben, Hana, Gran
+words: judge; afford; fair; rent; share; flat
+focus: Nói giảm, nói tránh khi đưa ý kiến nhạy cảm
+pattern: It seems to me that… · I might be wrong, but… · Correct me if I'm wrong, but… · I'd tend to think… · It's just a thought, but… · It might be worth + V-ing
+explain: Làm mềm ý kiến để tránh căng thẳng: "It seems to me that…", "I'd tend to think…". Rào đón trước khi phản bác: "I might be wrong, but…", "Correct me if I'm wrong, but…". Đề xuất nhẹ nhàng: "It's just a thought, but what if…?", "It might be worth getting a valuation." Dùng "probably", "perhaps", "I suppose" để giọng bớt khẳng định.
+keys: it seems to me that / i might be wrong, but / correct me if i'm wrong / i'd tend to think / it's just a thought / it might be worth
+
+claire: OK, I'll start. It seems to me that selling is probably the most sensible option. | Được rồi, chị nói trước. Chị thấy bán đi có lẽ là lựa chọn hợp lý nhất. [explain]
+hana: I might be wrong, but I don't think Gran would have wanted that. | Có thể em sai, nhưng em không nghĩ bà muốn vậy. [worried]
+claire: Correct me if I'm wrong, but she never actually said so in the will. | Em cứ sửa nếu chị nói sai, nhưng bà đâu có ghi điều đó trong di chúc. [thinking]
+hana: That's true. I just have a feeling she hoped one of us would keep it. | Đúng vậy. Em chỉ có cảm giác bà mong một trong ba chúng ta giữ lại nó. [sad]
+ben: If I may say something, I think we're all partly right. | Cho anh nói một chút, anh nghĩ ai trong chúng ta cũng đúng một phần. [explain]
+claire: Go on, Ben. | Em nói đi, Ben. [nod]
+ben: I'd tend to think the house matters to all of us. | Anh nghĩ ngôi nhà có ý nghĩa với tất cả chúng ta. [explain ipa=house:=]
+ben: But I'm not exactly secure financially, and I'd be lying if I said I didn't need the money. | Nhưng anh đâu có dư dả gì về tài chính, và anh sẽ nói dối nếu bảo mình không cần tiền. [shy]
+hana: I'd never judge you for that. It's just a thought, but what if I bought your shares over time? | Em sẽ không bao giờ trách anh vì điều đó. Chỉ là một ý nghĩ thôi, nhưng nếu em mua dần phần của anh chị thì sao? [thinking]
+claire: That's an interesting idea. Would you be able to afford it, though? | Ý đó hay đấy. Nhưng em có đủ khả năng không? [thinking]
+hana: Not all at once. But perhaps I could pay monthly and rent out two rooms in summer. | Không trả một lần được. Nhưng có lẽ em có thể trả hằng tháng và cho thuê hai phòng vào mùa hè. [explain]
+claire: It might be worth getting a proper valuation first, so that everything is fair. | Có lẽ nên định giá cẩn thận trước, để mọi thứ được công bằng. [nod]
+ben: I'd be happy with that, as long as I don't have to wait ten years for my share. | Anh đồng ý, miễn là anh không phải đợi mười năm mới nhận được phần của mình. [explain]
+hana: What if your share came first? Then you could buy your flat sooner. | Nếu phần của anh được trả trước thì sao? Như vậy anh có thể mua căn hộ sớm hơn. [happy]
+ben: That would make a huge difference. Thanks, Hana. | Như vậy sẽ khác đi rất nhiều. Cảm ơn em, Hana. [happy]
+claire: I suppose it's worth trying. I genuinely want this to work, but I don't want it to become too much for you. | Chị nghĩ cũng đáng để thử. Chị thực sự muốn chuyện này ổn thoả, nhưng chị không muốn nó thành gánh nặng quá sức với em. [worried]
+hana: That's fair. If it doesn't work, we can always think again. | Chị nói phải. Nếu không ổn, mình luôn có thể tính lại. [nod]
+claire: And perhaps we could all come back every August, like we used to? | Và có lẽ tháng Tám nào cả nhà cũng quay lại đây, như ngày xưa nhỉ? [happy ipa=used:just]
+ben: I'd like that. Gran would have liked it too, I think. | Anh thích thế. Anh nghĩ bà cũng sẽ thích. [happy hana:happy]
+gloss: will, valuation

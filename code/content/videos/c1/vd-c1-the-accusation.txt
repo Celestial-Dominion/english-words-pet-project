@@ -1,0 +1,35 @@
+=== vd-c1-the-accusation
+title: I'd Like the Chance to Explain | Tôi mong có cơ hội giải thích
+source: st-c1-the-accusation
+summary: Tại phiên điều trần về đạo văn, Luz bình tĩnh trình bày bằng chứng theo trình tự thời gian, không buộc tội ai, để chứng minh bài trên mạng mới là bản sao của bài cô viết.
+scene: office
+prop: report x=800 y=640 scale=0.8
+cast: lyle name="Dr. Lyle" vi="Tiến sĩ Lyle" look=man x=300 voice=en-US-ChristopherNeural pitch=-2Hz rate=+4% style.hair=short style.hairColor=#5E5E5E style.outfit=tie style.top=#D6EAF8 style.topShade=#AED6F1 style.glasses=square
+cast: bello name="Professor Bello" vi="Giáo sư Bello" look=woman x=800 voice=en-US-MichelleNeural pitch=-8Hz rate=-4% style.hair=bun style.hairColor=#1A1A1A style.skin=#6E4127 style.skinShade=#58321D style.outfit=suit style.top=#4A235A style.topShade=#3B1C48
+cast: luz name=Luz look=woman x=1300 voice=en-US-AnaNeural pitch=+1Hz rate=-2% style.hair=long style.hairColor=#1A1A1A style.skin=#C68E6A style.skinShade=#B07B58 style.outfit=cardigan style.top=#F5B041 style.topShade=#DC9E36
+names: Lyle, Bello, Luz, Ms. Moreno, Moreno, Finch
+words: misconduct; integrity; credible; algorithm; verdict; forum
+focus: Tự bảo vệ trước lời buộc tội một cách bình tĩnh, dựa trên bằng chứng
+pattern: I'd like the chance to explain · I understand why it might look that way, but… · I can assure you that… · With respect, that's simply not the case · If you look at…, you'll see that… · The evidence shows that…
+explain: Xin quyền trình bày: "I'd like the chance to explain." Ghi nhận góc nhìn của người buộc tội: "I understand why it might look that way, but…". Khẳng định dứt khoát mà lịch sự: "I can assure you that…", "With respect, that's simply not the case." Dẫn chứng cụ thể: "If you look at the dates, you'll see that…", "The evidence shows that…". Không công kích người buộc tội; giữ giọng đều, đi theo trình tự thời gian.
+keys: the chance to explain / might look that way / i can assure you / simply not the case / if you look at / the evidence shows
+
+bello: This is a hearing of the academic misconduct panel. Dr. Lyle, would you summarize the concern? | Đây là phiên điều trần của hội đồng xử lý vi phạm học thuật. Tiến sĩ Lyle, ông có thể tóm tắt vấn đề không? [explain]
+lyle: The software found that forty-one per cent of Ms. Moreno's essay matches a text published online eighteen months ago. | Phần mềm phát hiện bốn mươi mốt phần trăm bài luận của cô Moreno trùng với một văn bản đăng trên mạng mười tám tháng trước. [explain @report]
+bello: Ms. Moreno, you've read the report. How do you respond? | Cô Moreno, cô đã đọc báo cáo. Cô phản hồi thế nào? [thinking ipa=read:rɛd]
+luz: I'd like the chance to explain, if I may. I understand why it might look that way, but I didn't copy anything. | Tôi mong có cơ hội giải thích, nếu được phép. Tôi hiểu vì sao sự việc trông như vậy, nhưng tôi không chép gì cả. [explain]
+lyle: The two texts are almost identical. That's difficult to explain away. | Hai văn bản gần như giống hệt nhau. Điều đó khó mà biện minh được. [shrug]
+luz: They are identical, because the website copied my earlier draft. I can assure you that I wrote every sentence. | Chúng giống hệt nhau, vì trang web đã sao chép bản nháp trước đó của tôi. Tôi có thể cam đoan rằng tôi đã viết từng câu. [explain]
+bello: That's a serious claim. What makes it credible? | Đó là một khẳng định nghiêm trọng. Điều gì khiến nó đáng tin? [thinking]
+luz: If you look at page three, you'll see a forum post from two years ago, with my draft, dated three months before the website essay. | Nếu thầy cô xem trang ba, thầy cô sẽ thấy một bài đăng trên diễn đàn từ hai năm trước, có bản nháp của tôi, đề ngày ba tháng trước bài luận trên trang web. [point]
+lyle: Forum posts can be edited later. | Bài đăng trên diễn đàn có thể được sửa sau này. [thinking]
+luz: With respect, that's simply not the case for this forum. The edit history is public, and it shows no changes. | Xin phép nói thẳng, với diễn đàn này thì điều đó hoàn toàn không đúng. Lịch sử chỉnh sửa là công khai, và nó không cho thấy thay đổi nào. [explain]
+luz: Page four is my school's competition entry. It has a stamp showing the date it was received. | Trang bốn là bài dự thi của trường phổ thông tôi. Nó có dấu ghi ngày nhận. [explain]
+bello: And these eleven files? | Còn mười một tệp này? [thinking]
+luz: Earlier drafts from my old laptop. Each one records the date and time it was saved. The evidence shows my version came first. | Những bản nháp trước đó từ máy tính cũ của tôi. Mỗi tệp đều ghi lại ngày giờ được lưu. Bằng chứng cho thấy phiên bản của tôi có trước. [explain ipa=records:rɪˈkɔrdz]
+lyle: I have to admit, that's compelling. The software can't tell us which text is the original. | Tôi phải thừa nhận, điều đó rất thuyết phục. Phần mềm không thể cho chúng ta biết văn bản nào là bản gốc. [nod]
+luz: That's all I'm asking the panel to consider. An algorithm can show that two texts match. It can't show intention. | Đó là tất cả những gì tôi xin hội đồng cân nhắc. Một thuật toán có thể cho thấy hai văn bản trùng nhau. Nó không thể cho thấy ý định. [explain]
+bello: Thank you. You've presented this very clearly, and you've done so without accusing anyone. | Cảm ơn cô. Cô đã trình bày rất rõ ràng, và cô đã làm vậy mà không buộc tội ai. [nod]
+luz: I take academic integrity very seriously. That's exactly why I kept every draft. | Tôi rất coi trọng sự liêm chính học thuật. Chính vì thế tôi đã giữ lại mọi bản nháp. [shy]
+bello: The panel will reach its verdict shortly. I suspect it won't take long. | Hội đồng sẽ sớm đưa ra phán quyết. Tôi đoán sẽ không mất nhiều thời gian. [happy luz:happy]
+gloss: identical, stamp, drafts, laptop

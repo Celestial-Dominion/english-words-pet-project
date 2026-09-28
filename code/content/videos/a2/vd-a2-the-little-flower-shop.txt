@@ -1,0 +1,35 @@
+=== vd-a2-the-little-flower-shop
+title: How About a Workshop? | Hay là mở lớp hướng dẫn?
+source: st-a2-the-little-flower-shop
+summary: Bên tách trà, Lena đưa ra từng ý tưởng cứu tiệm hoa của bà Ines khỏi siêu thị mới — bà thì chưa tin lắm.
+scene: cafe
+prop: flowers x=800
+prop: tea x=980
+cast: lena name=Lena look=woman x=520 voice=en-US-AvaNeural rate=+2% style.hair=ponytail style.hairColor=#3A2A22 style.skin=#D9A27A style.skinShade=#C48A62 style.outfit=jacket style.top=#5DBB63 style.topShade=#4AA350
+cast: ines name=Ines vi="Bà Ines" look=grandma x=1130 voice=en-US-MichelleNeural rate=-10% pitch=-6Hz style.outfit=apron style.skin=#D9A27A style.skinShade=#C48A62 style.hairColor=#C9C6CF style.top=#E07B5F style.topShade=#C8654B
+names: Petals
+gloss: bouquets, workshop, media
+words: customer; offer; knowledge; deliver; rent; idea
+focus: Đưa ra và đón nhận ý tưởng
+pattern: How about + V-ing / danh từ? · What if we…? · We could… · That's a good idea, but… · I'm not sure.
+explain: Gợi ý: "How about a workshop?", "What if we deliver…?", "We could…". Phản hồi: "That's a good idea!" hoặc ngần ngại "I'm not sure…", "That's a good idea, but…".
+keys: how about / what if / we could / that's a good idea / i'm not sure
+
+ines: I'm sorry, Lena. I think it's time to close the shop. | Bà xin lỗi, Lena. Bà nghĩ đã đến lúc đóng cửa tiệm rồi. [sad ipa=close:kloʊz]
+lena: Close? No! We can't win on price. | Đóng cửa á? Không! Mình không thắng được về giá. [surprised ipa=close:kloʊz]
+lena: But we can offer something different. | Nhưng mình có thể mang đến điều khác biệt. [thinking]
+ines: Like what? | Như thế nào? [confused]
+lena: Your knowledge, Grandma. You know everything about flowers. | Kiến thức của bà đấy ạ. Bà biết mọi thứ về hoa mà. [explain @flowers]
+lena: How about a weekend workshop? You could teach people to make bouquets. | Hay là mở lớp hướng dẫn cuối tuần? Bà có thể dạy mọi người bó hoa. [happy]
+ines: A workshop? I'm not sure. I'm not a teacher. | Lớp hướng dẫn á? Bà không chắc. Bà có phải giáo viên đâu. [worried]
+lena: But you talk to customers every day. That's teaching! | Nhưng ngày nào bà cũng nói chuyện với khách. Thế là dạy rồi còn gì! [happy]
+ines: Hmm. That's a good idea, but who will come? | Ừm. Ý hay đấy, nhưng ai sẽ đến chứ? [thinking]
+lena: What if we put photos of your flowers online every day? | Nếu mình đăng ảnh hoa của bà lên mạng mỗi ngày thì sao ạ? [explain]
+ines: Online? At my age? | Lên mạng á? Ở tuổi bà á? [surprised]
+lena: I'll do that part. And we could deliver flowers by bike. | Phần đó để cháu lo. Mình cũng có thể giao hoa bằng xe đạp. [happy]
+ines: Deliver? To whom? | Giao hoa á? Cho ai? [thinking]
+lena: Old people in the area. They can't always come to the shop. | Người già trong khu ạ. Họ không phải lúc nào cũng đến tiệm được. [explain]
+ines: That's a good idea. Mrs. Brown can't walk far anymore. | Ý hay đấy. Bà Brown giờ không đi xa được nữa. [happy nod]
+lena: So… how about we try for three months? | Vậy… mình thử ba tháng xem sao ạ? [thinking ~calendar:3]
+ines: Three months. OK. If it fails, I'll pay the rent with your photos! | Ba tháng. Được. Nếu thất bại, bà sẽ trả tiền thuê nhà bằng ảnh của cháu! [happy lena:happy]
+names: Brown

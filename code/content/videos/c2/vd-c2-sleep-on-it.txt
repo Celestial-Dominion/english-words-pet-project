@@ -1,0 +1,40 @@
+=== vd-c2-sleep-on-it
+title: Before You Do Anything Drastic | Trước khi anh làm điều gì quyết liệt
+source: st-c2-sleep-on-it
+summary: Lúc hai giờ sáng, Celia khuyên Anselm đừng vội từ chức — không tranh cãi, không trấn an sáo rỗng, mà bằng những câu hỏi khiến ông tự nhìn lại.
+scene: hospital
+cast: celia name=Celia look=woman x=520 voice=en-US-AriaNeural pitch=-4Hz rate=-4% style.hair=bun style.hairColor=#5D4037 style.outfit=patient style.top=#5DADE2 style.topShade=#3498DB style.glasses=round
+cast: anselm name=Anselm look=man x=1160 voice=en-US-ChristopherNeural pitch=-4Hz rate=-5% style.hair=short style.hairColor=#9E9E9E style.outfit=patient style.top=#48C9B0 style.topShade=#45B39D
+names: Celia, Anselm, Daniel
+words: futile; remorse; congenital; infallible; prowess; drastic
+focus: Can ngăn ai đó khỏi một quyết định vội vàng: không phản bác trực diện, dùng câu hỏi và đề nghị trì hoãn
+pattern: Before you do anything drastic, … · I'd hate to see you… · Have you thought about…? · What would you say to someone else who…? · Why not sleep on it? · There's no rush to decide tonight.
+explain: Người đang xúc động thường phản kháng khi bị cãi. Thay vào đó, xin phép hỏi: "Before you do anything drastic, can I ask…?". Mời họ nhìn từ góc khác: "What would you say to someone else who…?", "Have you thought about…?". Bày tỏ lo lắng từ phía mình: "I'd hate to see you…". Đề nghị trì hoãn thay vì từ bỏ: "Why not sleep on it?", "There's no rush to decide tonight."
+keys: anything drastic / hate to see you / have you thought about / say to someone else / sleep on it / no rush to decide
+
+celia: Anselm. It's two in the morning. What are you still doing here? | Anselm. Hai giờ sáng rồi. Anh còn làm gì ở đây? [worried]
+anselm: Writing. My resignation, if you must know. | Viết. Đơn từ chức của tôi, nếu chị nhất định phải biết. [sad]
+celia: I thought it might be. May I sit down? | Tôi cũng đoán vậy. Tôi ngồi xuống được không? [nod]
+anselm: If you've come to tell me it wasn't my fault, please don't. It won't help. | Nếu chị đến để bảo tôi đó không phải lỗi của tôi, xin đừng. Nó chẳng giúp gì đâu. [shake]
+celia: I won't. Arguing with you at this hour would be futile. But before you do anything drastic, can I ask you a few questions? | Tôi sẽ không nói thế. Tranh cãi với anh vào giờ này là vô ích. Nhưng trước khi anh làm điều gì quyết liệt, tôi hỏi anh vài câu được không? [explain]
+anselm: Ask. I'm not promising to answer. | Chị hỏi đi. Tôi không hứa sẽ trả lời. [shrug]
+celia: What would you say to one of your registrars who'd lost a patient after doing everything right? | Anh sẽ nói gì với một bác sĩ nội trú của anh vừa mất một bệnh nhân sau khi đã làm mọi thứ đúng? [thinking]
+anselm: I'd tell them to wait for the review. And that caring this much isn't a weakness. | Tôi sẽ bảo họ chờ buổi xem xét lại. Và rằng quan tâm đến mức này không phải là điểm yếu. [explain]
+celia: Then why are you holding yourself to a different standard? | Vậy sao anh lại tự đặt cho mình một tiêu chuẩn khác? [point]
+anselm: Because it's my name on the operation. My hands. My judgement. | Vì tên tôi đứng trên ca mổ. Đôi tay tôi. Phán đoán của tôi. [angry]
+celia: Your perfectionism is the reason patients travel across the country to see you. It's also why you're sitting here tonight. | Chủ nghĩa cầu toàn của anh là lý do bệnh nhân vượt cả nước đến gặp anh. Nó cũng là lý do tối nay anh ngồi đây. [explain]
+anselm: The artery tore where it should have been strongest. I've never seen anything like it. | Động mạch rách ở đúng chỗ lẽ ra chắc nhất. Tôi chưa bao giờ thấy điều gì như vậy. [confused]
+celia: Have you thought about what that might mean? It could be something congenital that no scan would show. | Anh đã nghĩ xem điều đó có thể có nghĩa là gì chưa? Có thể là một điều gì đó bẩm sinh mà không phim chụp nào thấy được. [thinking]
+anselm: Or it could be my mistake. | Hoặc có thể là sai lầm của tôi. [sad]
+celia: It could. Nobody is infallible. But the review will tell us. Right now, you're deciding on the basis of remorse, not evidence. | Có thể. Không ai là không bao giờ sai. Nhưng buổi xem xét sẽ cho chúng ta biết. Lúc này, anh đang quyết định dựa trên sự hối hận, không phải bằng chứng. [explain]
+anselm: That's not fair. | Nói thế là không công bằng. [angry]
+celia: Perhaps not. But you'd never let a registrar operate after thirty hours without sleep. Why decide your career in that state? | Có lẽ không. Nhưng anh sẽ không bao giờ để một bác sĩ nội trú mổ sau ba mươi giờ không ngủ. Sao lại quyết định sự nghiệp của mình trong tình trạng đó? [thinking]
+anselm: You're manipulating me, Celia. | Chị đang thao túng tôi đấy, Celia. [thinking]
+celia: A little. I'd hate to see you throw away twenty years of prowess because of one terrible night. | Một chút thôi. Tôi sẽ rất tiếc nếu thấy anh vứt bỏ hai mươi năm tài nghệ chỉ vì một đêm khủng khiếp. [sad]
+anselm: And the thirty-one patients on my list next month? | Còn ba mươi mốt bệnh nhân trong danh sách của tôi tháng tới thì sao? [worried]
+celia: That's exactly my point. Who do you want operating on them? Someone who resigned tonight, or someone who understood what happened? | Đó chính là ý tôi. Anh muốn ai mổ cho họ? Một người đã từ chức tối nay, hay một người đã hiểu chuyện gì xảy ra? [explain]
+anselm: I don't know. I honestly don't know. | Tôi không biết. Thật lòng tôi không biết. [tired]
+celia: Then there's no rush to decide tonight. Why not sleep on it? The letter will still be there in the morning. | Vậy thì không cần vội quyết định tối nay. Sao không để mai hẵng tính? Lá thư vẫn sẽ ở đó vào buổi sáng. [nod]
+anselm: And you? | Còn chị? [thinking]
+celia: So will I. Go home, Anselm. Please. | Tôi cũng vậy. Về nhà đi, Anselm. Tôi xin anh. [sad anselm:tired]
+gloss: perfectionism, resignation, registrars, review, weakness, operation, artery, scan, registrar

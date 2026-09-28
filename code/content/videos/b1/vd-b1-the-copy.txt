@@ -1,0 +1,38 @@
+=== vd-b1-the-copy
+title: What Did He Look Like? | Ông ta trông thế nào?
+source: st-b1-the-copy
+summary: Ở đồn cảnh sát, thanh tra Hollis đề nghị Petra tả lại chuyên gia phục chế và những người lạ từng lui tới bảo tàng.
+scene: office
+prop: notebook x=800
+cast: hollis name="Inspector Hollis" vi="Thanh tra Hollis" look=man x=540 voice=en-US-ChristopherNeural rate=-6% style.hair=short style.hairColor=#5A5A5A style.outfit=suit style.top=#4B4B4B style.topShade=#3C3C3C
+cast: petra name=Petra look=woman x=1140 voice=en-US-AriaNeural pitch=-4Hz style.hair=bob style.hairColor=#3A2A22 style.outfit=uniform style.top=#26374F style.topShade=#1E2C40
+names: Albrecht, Hollis, Petra
+words: recognize; tall; beard; wear; notice; nervous
+focus: Miêu tả ngoại hình và tính cách một người
+pattern: What does he look like? · He's in his sixties. · He's got a grey beard. · He was wearing… · He seemed… · What's he like?
+explain: "What does he look like?" hỏi ngoại hình; "What's he like?" hỏi tính cách. Tuổi ước chừng: "in his sixties" (khoảng 60–69). Đặc điểm: "He's got + tóc/râu/mắt…". Quần áo lúc gặp: "He was wearing…". Ấn tượng: "He seemed nervous".
+keys: what does he look like / in his sixties / he's got / he was wearing / he seemed / what's he like
+
+hollis: Thank you for coming, Petra. I have a few questions about Mr. Albrecht. | Cảm ơn cô đã đến, Petra. Tôi có vài câu hỏi về ông Albrecht. [neutral @notebook]
+petra: Of course. I only met him twice. | Vâng ạ. Tôi mới gặp ông ta hai lần. [nod]
+hollis: What does he look like? | Ông ta trông thế nào? [thinking]
+petra: He's quite tall and thin. I think he's in his sixties. | Khá cao và gầy. Tôi nghĩ ông ta ngoài sáu mươi. [thinking]
+hollis: Hair? Glasses? | Tóc? Có đeo kính không? [thinking]
+petra: He's got short grey hair and a small beard. No glasses. | Ông ta tóc ngắn màu xám và để một chòm râu nhỏ. Không đeo kính. [explain]
+hollis: What was he wearing when you saw him? | Ông ta mặc gì khi cô gặp? [thinking]
+petra: A dark green coat and very expensive shoes. I noticed the shoes. | Một chiếc áo khoác xanh thẫm và đôi giày rất đắt tiền. Tôi để ý đôi giày. [explain]
+hollis: Interesting. And what's he like? As a person? | Thú vị đấy. Còn tính cách ông ta thế nào? [thinking]
+petra: Very charming. He smiled a lot and spoke very softly. | Rất cuốn hút. Ông ta cười nhiều và nói rất nhẹ nhàng. [thinking]
+hollis: Did he seem nervous at any point? | Ông ta có lúc nào tỏ ra lo lắng không? [thinking]
+petra: Yes, once. When I asked about the crack in the paint, he looked away. | Có, một lần. Khi tôi hỏi về vết nứt trên lớp sơn, ông ta nhìn sang chỗ khác. [worried]
+hollis: What did he say about it? | Ông ta nói gì về chuyện đó? [thinking]
+petra: He said he had removed some old damage. But the colors were slightly different, too. | Ông ta nói đã loại bỏ vài chỗ hư hại cũ. Nhưng màu sắc cũng hơi khác đi. [explain]
+hollis: So you examined it again that night? | Vậy đêm đó cô đã xem xét lại bức tranh? [surprised]
+petra: For two hours. I was almost certain it was a copy. | Suốt hai tiếng. Tôi gần như chắc chắn đó là bản sao. [nod]
+hollis: Was anyone with him? | Có ai đi cùng ông ta không? [thinking]
+petra: A young man carried the painting. He was short, with a red cap. | Một thanh niên khiêng bức tranh. Anh ta thấp, đội mũ lưỡi trai đỏ. [explain]
+hollis: Would you recognize him again? | Cô có nhận ra anh ta nếu gặp lại không? [thinking]
+petra: Definitely. He had a tattoo of a bird on his hand. | Chắc chắn rồi. Anh ta có hình xăm con chim trên bàn tay. [nod]
+hollis: You notice everything, don't you? | Cô để ý mọi thứ, phải không? [happy]
+petra: That's my job, Inspector. I look at things all night. | Đó là công việc của tôi, thưa thanh tra. Tôi nhìn ngắm mọi thứ suốt đêm mà. [happy hollis:happy]
+gloss: charming, tattoo

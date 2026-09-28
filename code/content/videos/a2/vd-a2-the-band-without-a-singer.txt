@@ -1,0 +1,32 @@
+=== vd-a2-the-band-without-a-singer
+title: You'd Be Great! | Cậu sẽ hát hay lắm!
+source: st-a2-the-band-without-a-singer
+summary: Ca sĩ chính bị ốm, Zara và Kai tìm mọi cách thuyết phục cậu tay trống Leo đứng lên hát trong lễ hội.
+scene: stage
+prop: microphone x=800 y=760
+cast: zara name=Zara look=teengirl x=430 voice=en-US-EmmaNeural pitch=+6Hz style.hair=curly style.hairColor=#2A1D1A style.skin=#8D5A3B style.skinShade=#74472D style.outfit=jacket style.top=#E5484D style.topShade=#C73A3F
+cast: leo name=Leo look=teenboy x=1030 voice=en-US-BrianNeural pitch=+10Hz style.hair=fringe style.hairColor=#C98A3C style.outfit=tee style.top=#3A3F4A style.topShade=#2A2F38
+cast: kai name=Kai look=teenboy x=1290 voice=en-US-AndrewNeural pitch=+12Hz rate=+4% style.hair=short style.hairColor=#1F1C22 style.top=#5DBB63 style.topShade=#4AA350
+names: Marcus, Kai, Leo, Zara
+words: voice; audience; festival; song; practice; nervous
+focus: Thuyết phục ai đó
+pattern: You'd be great! · Why not? · Come on! · Just try… · What have you got to lose?
+explain: Thuyết phục bằng lời khen và lời mời thử: "You'd (= you would) be great!", "Just try one song." Khi người kia ngần ngại, hỏi lại "Why not?" hoặc động viên "Come on!".
+keys: you'd be / why not / come on / just try / what have you got to lose
+
+zara: Marcus can't sing on Saturday. His voice is gone. | Marcus không hát được hôm thứ Bảy. Cậu ấy mất giọng rồi. [sad]
+kai: So we have to cancel. | Vậy là mình phải huỷ thôi. [sad shrug]
+zara: No. Leo, you can sing! | Không. Leo, cậu hát được mà! [happy point]
+leo: Me? No way. I play the drums. | Tớ á? Không đời nào. Tớ chơi trống cơ mà. [surprised shake]
+zara: But you wrote the songs. You know every word. | Nhưng cậu viết mấy bài hát đó. Cậu thuộc từng chữ. [explain]
+leo: Writing is different. I'd be terrible. | Viết khác chứ. Tớ mà hát thì dở tệ. [worried]
+kai: Why not try? You'd be great! | Sao không thử? Cậu sẽ hát hay lắm! [happy]
+leo: There will be a thousand people in the audience! | Sẽ có cả nghìn người ngồi dưới khán giả đấy! [worried]
+zara: Come on, Leo. Just try one song. Only for us. | Thôi nào, Leo. Cậu thử một bài thôi. Chỉ cho bọn tớ nghe. [happy explain]
+leo: I'm too nervous. | Tớ hồi hộp quá. [shy]
+kai: Everyone is nervous before a festival. | Trước lễ hội ai mà chẳng hồi hộp. [nod]
+zara: What have you got to lose? | Cậu có mất gì đâu nào? [thinking]
+leo: My friends… if I sing badly! | Mất bạn bè… nếu tớ hát dở! [shy zara:happy]
+kai: Ha! We'll still be your friends. Come on! | Ha! Bọn tớ vẫn là bạn cậu mà. Nào! [happy cheer]
+leo: OK. One song. Where's the microphone? | Thôi được. Một bài thôi đấy. Micro đâu rồi? [thinking @microphone]
+zara: Right here. Let's practice! | Đây này. Tập thôi! [happy point @microphone kai:happy]

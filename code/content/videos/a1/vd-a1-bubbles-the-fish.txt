@@ -1,0 +1,30 @@
+=== vd-a1-bubbles-the-fish
+title: Can I Take Bubbles Home? | Em mang Bubbles về nhà được không ạ?
+source: st-a1-bubbles-the-fish
+summary: Trước kỳ nghỉ, Noah xin cô Kerr cho mang chú cá của lớp về chăm — và phải hứa vài điều.
+scene: classroom
+prop: fishbowl x=800
+cast: noah name=Noah look=boy x=520 voice=en-US-AnaNeural pitch=-12Hz style.hair=short style.hairColor=#6B4A32 style.skin=#E9B896 style.skinShade=#D49E7A style.top=#F2C14E style.topShade=#D9A933 style.collar=#D9A933
+cast: kerr name="Mrs. Kerr" vi="Cô Kerr" look=woman x=1150 voice=en-US-JennyNeural style.hair=bob style.hairColor=#8C6A4A style.glasses=true style.top=#5E9E7A style.topShade=#4B8765
+names: Kerr, Bubbles, Tiger
+gloss: goldfish
+words: take; feed; home; food; clean
+focus: Xin phép
+pattern: Can I…, please? · May I…? · Yes, you can. · No, you can't. · Of course.
+explain: Xin phép làm gì: "Can I + động từ…, please?" — "May I…?" lịch sự hơn. Đồng ý: "Yes, you can." / "Of course." Từ chối: "No, you can't. Sorry."
+keys: can i / may i / yes, you can / of course / no, you can't
+
+noah: Mrs. Kerr, can I ask a question? | Cô Kerr ơi, em hỏi một câu được không ạ? [shy]
+kerr: Of course, Noah. | Tất nhiên rồi, Noah. [happy]
+noah: Can I take Bubbles home for the holiday? | Em mang Bubbles về nhà trong kỳ nghỉ được không ạ? [thinking point @fishbowl]
+kerr: Hmm. Can you feed him every day? | Ừm. Em cho cá ăn mỗi ngày được không? [thinking]
+noah: Yes, two times a day! | Được ạ, hai lần một ngày! [happy]
+kerr: And can you clean the water on Saturday? | Thế thứ Bảy em thay nước bể được không? [neutral]
+noah: Yes, I can. My mom can help me. | Được ạ. Mẹ em giúp em được ạ. [nod]
+kerr: OK. Yes, you can take him. | Được. Em mang cá về nhé. [happy]
+noah: Thank you! May I take his food, too? | Em cảm ơn cô! Em mang cả thức ăn của bạn ấy về được không ạ? [happy]
+kerr: Yes. Here you are. Not too much! | Được. Của em đây. Đừng cho ăn nhiều quá nhé! [explain]
+noah: Can I take the fishbowl to my bedroom? | Em để bể cá trong phòng ngủ được không ạ? [thinking]
+kerr: Your bedroom? Why? | Trong phòng ngủ á? Sao thế? [confused]
+noah: We have a cat. His name is Tiger. | Nhà em có một con mèo. Nó tên là Tiger. [worried]
+kerr: Oh! Then yes, you can. Close the door! | Ồ! Vậy thì được. Nhớ đóng cửa nhé! [surprised noah:happy ipa=close:kloʊz]

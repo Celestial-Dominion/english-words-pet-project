@@ -1,52 +1,39 @@
-// Gợi ý bài đọc sau phiên học + khối "Gặp lại trong ngữ cảnh" ở thẻ từ.
+// Gợi ý học liệu sau phiên học + khối "Gặp lại trong ngữ cảnh" ở thẻ từ.
 //
-// Cả hai chạy trên CHỈ MỤC từ→bài (public/data/word-readings/{0..7}.json, sinh bằng
-// scripts/build-word-readings.mjs) chứ không quét văn bản: bản cũ gọi loadReadings() cho mọi
-// cấp nên chỉ bấm-tra một từ là tải + parse ~4MB JSON.
-import { loadReadingsIndex, loadWordReadings, type ReadingMeta } from "./data";
+// Cả hai chạy trên CHỈ MỤC từ→học liệu (public/data/library/word-refs/{0..7}.json, sinh bằng
+// scripts/build-content.mjs) chứ không quét văn bản: bấm-tra một từ chỉ tải đúng một shard nhỏ.
+import { loadWordRefs, type ContentRef } from "./library";
 import { readIds } from "./db";
 
-export interface ReadingSuggestion {
-  type: "reading";
-  id: string;
-  level: number;
-  title_en: string;
-  title_vi: string;
+export interface ContentSuggestion extends ContentRef {
   count: number; // số từ vừa học xuất hiện trong bài
 }
+/** @deprecated tên cũ — giữ cho nơi gọi hiện có. */
+export type ReadingSuggestion = ContentSuggestion;
 
-const metaToSuggestion = (m: ReadingMeta, count: number): ReadingSuggestion => ({
-  type: "reading",
-  id: m.id,
-  level: m.level,
-  title_en: m.title_en,
-  title_vi: m.title_vi,
-  count,
-});
+const ORDER = ["a1", "a2", "b1", "b2", "c1", "c2"];
 
-/** Bài CHƯA đọc chứa nhiều từ vừa học nhất (hoà nhau thì lấy cấp thấp hơn). */
-export async function suggestReading(wordIds: string[]): Promise<ReadingSuggestion | null> {
+/** Bài đọc / truyện CHƯA đọc chứa nhiều từ vừa học nhất (hoà nhau thì lấy cấp thấp hơn, bài đọc trước). */
+export async function suggestReading(wordIds: string[]): Promise<ContentSuggestion | null> {
   if (wordIds.length < 2) return null;
   try {
-    const [index, read, lists] = await Promise.all([
-      loadReadingsIndex(),
-      readIds(),
-      loadWordReadings(wordIds.map((w) => w.toLowerCase())),
-    ]);
-
-    const hits = new Map<number, number>(); // vị trí bài → số từ khớp
-    for (const positions of lists.values()) {
-      for (const p of positions) hits.set(p, (hits.get(p) ?? 0) + 1);
-    }
-
-    let best: ReadingSuggestion | null = null;
-    for (const [p, count] of hits) {
-      if (count < 2) continue;
-      const m = index[p];
-      if (!m || read.has(m.id)) continue; // chỉ gợi ý bài CHƯA đọc
-      if (!best || count > best.count || (count === best.count && m.level < best.level)) {
-        best = metaToSuggestion(m, count);
+    const [read, refs] = await Promise.all([readIds(), loadWordRefs(wordIds.map((w) => w.toLowerCase()))]);
+    const hits = new Map<string, { ref: ContentRef; count: number }>();
+    for (const list of refs.values())
+      for (const r of list) {
+        if (r.kind === "video") continue;
+        const h = hits.get(r.id) ?? { ref: r, count: 0 };
+        h.count++;
+        hits.set(r.id, h);
       }
+    let best: ContentSuggestion | null = null;
+    for (const { ref, count } of hits.values()) {
+      if (count < 2 || read.has(ref.id)) continue;
+      const better =
+        !best ||
+        count > best.count ||
+        (count === best.count && (ORDER.indexOf(ref.level) < ORDER.indexOf(best.level) || (ref.level === best.level && ref.kind === "reading" && best.kind !== "reading")));
+      if (better) best = { ...ref, count };
     }
     return best;
   } catch {
@@ -54,27 +41,19 @@ export async function suggestReading(wordIds: string[]): Promise<ReadingSuggesti
   }
 }
 
-export interface Occurrence {
-  type: "reading";
-  id: string;
-  level: number;
-  title_en: string;
-  title_vi: string;
-}
+export type Occurrence = ContentRef;
 
-/** "Gặp lại trong ngữ cảnh": các bài đọc có chứa từ này (tối đa `limit` bài, cấp thấp trước). */
-export async function occurrencesOf(wordId: string, limit = 4): Promise<Occurrence[]> {
+/** "Gặp lại trong ngữ cảnh": bài đọc / truyện / video có từ này (tối đa `limit`, đủ loại trước, cấp thấp trước). */
+export async function occurrencesOf(wordId: string, limit = 5): Promise<Occurrence[]> {
   try {
-    const [index, lists] = await Promise.all([
-      loadReadingsIndex(),
-      loadWordReadings([wordId.toLowerCase()]),
-    ]);
-    const positions = lists.get(wordId.toLowerCase()) ?? [];
-    return positions
-      .map((p) => index[p])
-      .filter((m): m is ReadingMeta => !!m)
-      .slice(0, limit)
-      .map((m) => ({ type: "reading" as const, id: m.id, level: m.level, title_en: m.title_en, title_vi: m.title_vi }));
+    const refs = (await loadWordRefs([wordId.toLowerCase()])).get(wordId.toLowerCase()) ?? [];
+    const out: Occurrence[] = [];
+    for (const k of ["reading", "story", "video"] as const) {
+      const r = refs.find((x) => x.kind === k);
+      if (r) out.push(r);
+    }
+    for (const r of refs) if (out.length < limit && !out.includes(r)) out.push(r);
+    return out.sort((a, b) => ORDER.indexOf(a.level) - ORDER.indexOf(b.level)).slice(0, limit);
   } catch {
     return [];
   }

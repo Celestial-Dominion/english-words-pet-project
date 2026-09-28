@@ -1,0 +1,34 @@
+=== vd-c1-the-restorer
+title: Walk Me Through It | Kể tôi nghe từng bước
+source: st-c1-the-restorer
+summary: Trước buổi họp báo, ông giám đốc Julian nhờ Isabel giải thích từng bước cô đã làm thế nào để phát hiện bức Verhulst là tranh giả — rõ ràng đến mức ai cũng hiểu được.
+scene: service-hall
+prop: painting x=840 y=610
+cast: isabel name=Isabel look=woman x=520 voice=en-US-AriaNeural pitch=-2Hz style.hair=bob style.hairColor=#3B2314 style.outfit=apron style.top=#5D6D7E style.topShade=#4D5B69 style.glasses=round
+cast: julian name=Julian look=man x=1160 voice=en-US-ChristopherNeural pitch=-3Hz style.hair=part style.hairColor=#8A8A8A style.outfit=suit style.top=#1C2833 style.topShade=#17202A
+names: Isabel, Julian, Verhulst, Henrik, Kranz
+words: canvas; restoration; anomaly; inconsistent; deception; plausible
+focus: Trình bày một quy trình kỹ thuật theo từng bước rõ ràng
+pattern: The first step is to… · Once that's done, … · At this stage, … · This allows us to… · The next thing we did was… · Finally, …
+explain: Mở đầu quy trình: "The first step is to…". Nối các bước: "Once that's done, …", "The next thing we did was…". Đánh dấu thời điểm quan trọng: "At this stage, …". Giải thích mục đích của mỗi bước: "This allows us to…". Kết thúc: "Finally, …". Dùng câu bị động khi hành động quan trọng hơn người làm: "A sample was taken…", "The painting was x-rayed…".
+keys: the first step is / once that's done / at this stage / this allows us to / the next thing we did / finally
+
+julian: The journalists arrive at ten. Walk me through it, Isabel. Step by step, as if I knew nothing. | Các nhà báo đến lúc mười giờ. Kể tôi nghe từng bước, Isabel. Cứ như thể tôi chẳng biết gì. [explain @painting]
+isabel: Of course. The first step is always the same: we remove the old varnish, a few millimetres at a time, under a microscope. | Tất nhiên. Bước đầu tiên bao giờ cũng vậy: chúng tôi loại bỏ lớp vecni cũ, từng vài mi-li-mét một, dưới kính hiển vi. [explain]
+julian: And that's normal restoration. Nothing suspicious about it. | Và đó là công việc phục chế bình thường. Không có gì đáng ngờ cả. [nod]
+isabel: Exactly. But at this stage, I noticed an anomaly in the cracks. They were too regular for a painting of that age. | Chính xác. Nhưng ở giai đoạn này, tôi nhận thấy một điểm bất thường ở các vết nứt. Chúng quá đều đặn với một bức tranh ở tuổi đó. [point @painting]
+julian: Couldn't there be a plausible explanation? Old paintings are repaired all the time. | Chẳng lẽ không có lời giải thích hợp lý nào sao? Tranh cũ lúc nào chẳng được sửa chữa. [thinking]
+isabel: That's what I hoped. So the next thing we did was take four tiny samples of paint from the edges. | Tôi cũng mong vậy. Nên việc tiếp theo chúng tôi làm là lấy bốn mẫu sơn cực nhỏ từ các mép tranh. [explain]
+julian: Won't the journalists ask whether that damaged the painting? | Các nhà báo sẽ không hỏi việc đó có làm hỏng bức tranh không à? [worried]
+isabel: They might. Each sample is smaller than a grain of sand, and they come from areas hidden by the frame. | Có thể lắm. Mỗi mẫu nhỏ hơn một hạt cát, và chúng được lấy từ những chỗ bị khung tranh che khuất. [explain]
+isabel: Once that's done, the samples go to a laboratory. Henrik analysed the pigments, one layer at a time. | Xong bước đó, các mẫu được gửi đến phòng thí nghiệm. Henrik phân tích các chất màu, từng lớp một. [explain]
+julian: And this allows you to date the paint? | Và việc này cho phép các cô xác định niên đại của lớp sơn? [thinking]
+isabel: This allows us to rule dates out. Titanium white wasn't sold until the twentieth century. It was in the sky, in the very first layer. | Việc này cho phép chúng tôi loại trừ niên đại. Trắng titan không được bán cho đến thế kỷ hai mươi. Nó có trong bầu trời, ngay ở lớp đầu tiên. [explain julian:surprised]
+julian: So the painting is inconsistent with the seventeenth century. That's the key point for the press. | Vậy là bức tranh không khớp với thế kỷ mười bảy. Đó là điểm then chốt để nói với báo chí. [nod]
+isabel: It's one key point. Then the painting was x-rayed, and beneath the river we found a completely different picture. | Đó là một điểm then chốt. Sau đó bức tranh được chụp X-quang, và bên dưới dòng sông chúng tôi thấy một bức tranh hoàn toàn khác. [explain]
+julian: A portrait, you said. Why would anyone paint over a portrait? | Cô nói là một bức chân dung. Tại sao người ta lại vẽ đè lên một bức chân dung? [confused]
+isabel: Because a forger needs an old canvas. A genuine one from the period passes the simple tests. | Vì kẻ làm tranh giả cần một tấm vải cũ. Một tấm thật từ thời kỳ đó sẽ qua được những phép thử đơn giản. [explain]
+julian: And finally, the documents. The dealer who sold it to us was Emil Kranz. | Và cuối cùng là giấy tờ. Nhà buôn đã bán nó cho chúng ta là Emil Kranz. [sad]
+isabel: Finally, yes. Kranz was convicted of fraud in 1971. On its own, each clue proves little. Together, they tell one story. | Đúng, cuối cùng là vậy. Kranz bị kết án tội lừa đảo năm 1971. Tách riêng, mỗi manh mối chứng minh được rất ít. Gộp lại, chúng kể cùng một câu chuyện. [explain]
+julian: Thank you. I think I can explain the deception now without embarrassing myself. Well, not completely. | Cảm ơn cô. Tôi nghĩ giờ tôi có thể giải thích vụ lừa dối này mà không làm mình bẽ mặt. À, không hoàn toàn đâu. [shy isabel:happy]
+gloss: varnish, millimetres, titanium, x-rayed, analysed, pigments, microscope
