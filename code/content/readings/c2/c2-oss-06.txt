@@ -1,0 +1,44 @@
+// Bài đọc C2 phỏng theo nguồn mở (đợt 4): Henry David Thoreau, Walden (1854), chương "Brute Neighbors" — đoạn đuổi theo
+// chim lặn gavia trên hồ Walden; phạm vi công cộng, bản Standard Ebooks trên GitHub (standardebooks/henry-david-thoreau_walden).
+// Kể lại theo cấp C2, có lời bình. Bỏ đoạn "trận chiến của bầy kiến" và chi tiết thợ săn bắn được chim; chỉ giữ cảnh gió
+// nổi lên khiến họ phải bỏ về.
+
+=== rd-c2-a-game-with-a-loon
+title: A Game with a Loon | Ván cờ với chim lặn
+topic: nature
+genre: narrative
+names: Henry David Thoreau, Thoreau, Walden, Walden Pond
+gloss: loon, loons
+source: Walden, Brute Neighbors | Henry David Thoreau (1854), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/henry-david-thoreau_walden
+
+Among the brute neighbours that Thoreau observed during his two years beside Walden Pond, none tested his patience more delightfully than the loon, a large diving bird that arrived every autumn. | Trong số những "hàng xóm" muông thú mà Thoreau quan sát suốt hai năm sống bên hồ Walden, chẳng con nào thử thách lòng kiên nhẫn của ông một cách thú vị bằng chim lặn gavia, một loài chim lớn biết lặn, năm nào cũng đến vào mùa thu.
+Its wild, melancholy laughter would make the woods reverberate before he had even risen. | Tiếng cười hoang dại, sầu muộn của nó làm cả khu rừng vang vọng trước cả khi ông thức dậy.
+At the first news of its arrival, sportsmen from the village came hurrying through the trees with rifles and telescopes, at least ten men to one bird. | Hễ nghe tin chim đến, đám thợ săn trong làng lại vội vã kéo qua rừng với súng trường và ống nhòm, ít nhất mười người cho một con chim.
+Fortunately the kind October wind often took the side of the bird, stirring the surface so that it could be neither seen nor heard, and the indignant sportsmen had to retreat to town and their unfinished jobs. | May thay, ngọn gió tháng Mười hiền hậu thường đứng về phía con chim, khuấy động mặt nước khiến chẳng ai nhìn thấy hay nghe thấy nó, và đám thợ săn phẫn nộ đành rút về thị trấn với những công việc còn dang dở.
+
+One exceptionally calm afternoon, as Thoreau was paddling along the north shore, a loon sailed out a few yards in front of him, set up its wild laugh and thereby betrayed itself. | Một buổi chiều lặng gió lạ thường, khi Thoreau đang chèo thuyền dọc bờ bắc, một con chim lặn lướt ra cách ông vài thước, cất tiếng cười hoang dại và thế là tự để lộ mình.
+He pursued it with his paddle, but each time the bird dived he miscalculated its direction, and it surfaced farther away, laughing long and loud, and with more reason than before. | Ông chèo đuổi theo, nhưng mỗi lần chim lặn xuống, ông lại đoán sai hướng nó đi, và nó trồi lên ở chỗ xa hơn, cười to và dài, mà lần này còn có lý do để cười hơn trước.
+Whenever it came up, it turned its head this way and that, nonchalantly surveyed the water and the land, and chose its course so as to reach the widest expanse of water, at the greatest distance from the boat. | Mỗi lần trồi lên, nó quay đầu bên này bên kia, thản nhiên quan sát mặt nước và bờ đất, rồi chọn hướng đi sao cho đến được vùng nước rộng nhất, ở xa con thuyền nhất.
+It was, Thoreau wrote, a pretty game played on the smooth surface of the pond, a man against a loon, in which the piece of the opponent kept vanishing mysteriously beneath the board. | Thoreau viết rằng đó là một ván cờ đẹp mắt diễn ra trên mặt hồ phẳng lặng, giữa một con người và một con chim, trong đó quân cờ của đối thủ cứ biến mất một cách bí ẩn xuống dưới bàn cờ.
+The problem was to place his own piece in the vicinity of the spot where the other would appear again, and he usually guessed wrong. | Vấn đề là phải đặt quân của mình ở gần chỗ quân kia sẽ hiện ra, và ông thường đoán sai.
+Sometimes the bird came up on the opposite side, having apparently passed directly under the boat, and it was so tenacious that it could plunge again the moment it had surfaced. | Có khi con chim trồi lên ở phía bên kia, hình như đã bơi thẳng bên dưới thuyền, và nó bền bỉ đến mức có thể lặn tiếp ngay khi vừa trồi lên.
+Thoreau imagined the astonishment of the fish as this awkward visitor from another sphere sped effortlessly through their schools in the translucent depths of the pond. | Thoreau hình dung nỗi kinh ngạc của đàn cá khi vị khách vụng về từ một thế giới khác lướt đi nhẹ nhàng qua bầy của chúng trong làn nước trong vắt nơi đáy hồ sâu.
+
+Yet why, after displaying so much intelligence, did it invariably betray itself the moment it came up by that loud, unearthly laugh? | Thế nhưng vì sao, sau khi tỏ ra thông minh đến thế, nó lại luôn tự để lộ mình ngay khi vừa trồi lên bằng tiếng cười to, ma quái ấy?
+Its white breast, the stillness of the air and the smoothness of the water were all against it. | Bộ ngực trắng của nó, sự tĩnh lặng của không khí và mặt nước phẳng lặng đều bất lợi cho nó.
+Thoreau concluded that it laughed in derision of his efforts, wholly confident of its own resources. | Thoreau kết luận rằng nó cười để chế nhạo những cố gắng của ông, hoàn toàn tin vào tài sức của chính mình.
+Occasionally, when it had escaped him most successfully, it uttered a long, unearthly cry, more like the call of a wolf than of any bird, perhaps the wildest sound ever heard in those woods. | Thỉnh thoảng, khi đã thoát khỏi ông một cách ngoạn mục nhất, nó cất lên một tiếng kêu dài, ma quái, giống tiếng sói hơn tiếng bất kỳ loài chim nào, có lẽ là âm thanh hoang dại nhất từng vang lên trong những cánh rừng ấy.
+By now the sky had imperceptibly clouded over, and after an arduous hour the bird seemed as fresh as ever. | Lúc này bầu trời đã âm thầm kéo mây, và sau một giờ đuổi bắt vất vả, con chim vẫn tỏ ra sung sức như thường.
+At length, having surfaced far away, it gave one of those prolonged cries, as if calling on the god of loons to aid it. | Cuối cùng, sau khi trồi lên ở thật xa, nó cất một tiếng kêu kéo dài như thế, như thể cầu khấn thần chim lặn đến cứu giúp.
+Immediately a wind came up from the east and filled the air with misty rain, and Thoreau felt as if the prayer of the loon had been answered and its god was angry with him. | Lập tức một cơn gió từ phía đông nổi lên, phủ kín không trung bằng màn mưa bụi, và Thoreau cảm thấy như thể lời cầu nguyện của chim lặn đã được đáp lại và vị thần của nó đang nổi giận với ông.
+So he left the bird disappearing far away on the stormy water. | Thế là ông để mặc con chim khuất dần nơi xa trên mặt nước dậy sóng.
+
+The passage is characteristic of Walden in its playful refusal to treat nature as a mere object of study. | Đoạn văn tiêu biểu cho Walden ở chỗ tinh nghịch từ chối coi thiên nhiên chỉ là đối tượng nghiên cứu đơn thuần.
+With ironic modesty, Thoreau casts himself not as a triumphant hunter or an eminent naturalist but as a baffled opponent, and the comedy lies in his magnanimous willingness to lose. | Với sự khiêm tốn đầy mỉa mai, Thoreau không tự khắc họa mình như một thợ săn đắc thắng hay một nhà tự nhiên học lừng danh mà như một đối thủ bị làm cho bối rối, và cái hài hước nằm ở chỗ ông rộng lượng sẵn lòng chịu thua.
+By describing the tactics of the bird in the language of a board game, he credits it with intelligence and almost with a sense of humour. | Khi mô tả chiến thuật của con chim bằng ngôn ngữ của trò chơi trên bàn cờ, ông gán cho nó trí thông minh và gần như cả óc hài hước.
+In doing so, he quietly undermines the assumption that human beings are the only reasoning creatures on earth. | Bằng cách đó, ông lặng lẽ làm lung lay giả định rằng con người là sinh vật duy nhất biết suy luận trên trái đất.
+The contrast with the hunters is abundantly clear: ten armed men cannot defeat a single bird, whereas one solitary observer gains an afternoon of delight. | Sự tương phản với đám thợ săn hết sức rõ ràng: mười người có súng không thắng nổi một con chim, trong khi một người quan sát đơn độc lại có được cả buổi chiều thú vị.
+Even the ending, in which a sudden wind seems to answer the prayer of the loon, is half a joke and half genuine reverence. | Ngay cả đoạn kết, khi một cơn gió bất chợt dường như đáp lời cầu nguyện của chim lặn, cũng nửa đùa nửa thật lòng tôn kính.
+Nature, Thoreau implies, is not a puzzle to be solved but a neighbour to be respected, elusive, unpredictable and gloriously indifferent to human ambition. | Thoreau ngụ ý rằng thiên nhiên không phải câu đố để giải mà là người hàng xóm cần được tôn trọng, khó nắm bắt, khó đoán và thản nhiên một cách huy hoàng trước tham vọng của con người.
