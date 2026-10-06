@@ -2,11 +2,13 @@
 //   node scripts/content-coverage.mjs                 bảng tổng theo cấp (+ ghi scripts/out/coverage.json)
 //   node scripts/content-coverage.mjs --gaps b1 [N]   N từ đích B1 CHƯA gặp + từ mới gặp 1 ngữ cảnh (theo tần suất)
 //   node scripts/content-coverage.mjs --topics b1     phân bố chủ đề / thể loại / độ dài của cấp
+//   node scripts/content-coverage.mjs --targets       so từng cấp với mục tiêu §15 (phủ ≥1/≥3 bài cấp ≤ L, giờ đọc, chủ đề, thể loại)
 // Ngữ cảnh = một bài đọc / một truyện / một video (không tính chương riêng — cách đếm thận trọng).
 import { writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 import { loadLibrary, profileOf, ROOT } from "./lib/content-model.mjs";
 import { LEVEL_KEYS, LEVEL_LABEL, targetWords, weightOf, loadVocab } from "./lib/en-vocab.mjs";
+import { SPEC, TARGETS, TOPICS } from "./lib/content-spec.mjs";
 
 const MOD = { reading: "R", story: "S", video: "V" };
 
@@ -84,6 +86,46 @@ if (process.argv[1] && import.meta.filename === process.argv[1]) {
     console.log(`${LEVEL_LABEL[b]}: ${miss.length} từ chưa gặp, ${once.length} từ mới 1 ngữ cảnh (sắp theo tần suất)`);
     console.log(`\nCHƯA GẶP (${Math.min(n, miss.length)}):\n${miss.slice(0, n).join(", ")}`);
     console.log(`\n1 NGỮ CẢNH (${Math.min(n, once.length)}):\n${once.slice(0, n).join(", ")}`);
+    process.exit(0);
+  }
+  if (args[0] === "--targets") {
+    // §15: mỗi cấp so với TARGETS — độ phủ tính ở bài cấp ≤ L (người học đi từ dưới lên), giờ đọc, chủ đề, thể loại.
+    const atOrBelow = LEVEL_KEYS.map(() => new Map()); // band → lemma → số bài cấp ≤ band
+    for (const m of items)
+      for (const k of profileOf(m).counts.keys()) for (let b = m.band; b < LEVEL_KEYS.length; b++) atOrBelow[b].set(k, (atOrBelow[b].get(k) ?? 0) + 1);
+    console.log("Cấp  bài đọc/truyện  chữ R+S   giờ (mục tiêu)   phủ ≥1 (mục tiêu)   phủ ≥3 (mục tiêu)   chủ đề thiếu · thể loại thiếu");
+    for (const lv of LEVEL_KEYS) {
+      const b = LEVEL_KEYS.indexOf(lv);
+      const t = TARGETS[lv];
+      if (!t) {
+        console.log(`${LEVEL_LABEL[b].padEnd(4)} — không đặt mục tiêu (§15)`);
+        continue;
+      }
+      const R = items.filter((m) => m.band === b && m.type === "reading");
+      const S = items.filter((m) => m.band === b && m.type === "story");
+      const words = [...R, ...S].reduce((s, m) => s + profileOf(m).nWords, 0);
+      const hours = words / SPEC[lv].wpm / 60;
+      const targets = targetWords(b);
+      const n1 = targets.filter((w) => (atOrBelow[b].get(w) ?? 0) >= 1).length / targets.length;
+      const n3 = targets.filter((w) => (atOrBelow[b].get(w) ?? 0) >= 3).length / targets.length;
+      const per = (f) => R.reduce((c, m) => c.set(f(m), (c.get(f(m)) ?? 0) + 1), new Map());
+      const byTopic = per((m) => m.topic);
+      const byGenre = per((m) => m.genre);
+      const topicGap = TOPICS.filter((x) => (byTopic.get(x) ?? 0) < t.topic).map((x) => `${x} ${byTopic.get(x) ?? 0}`);
+      const genreGap = t.genres.filter((x) => (byGenre.get(x) ?? 0) < t.genreMin).map((x) => `${x} ${byGenre.get(x) ?? 0}`);
+      const ok = (a, goal) => (a >= goal ? "✓" : "✗");
+      console.log(
+        [
+          LEVEL_LABEL[b].padEnd(4),
+          `${R.length}/${S.length}`.padEnd(14),
+          String(words).padEnd(9),
+          `${hours.toFixed(1)} (${t.hours}) ${ok(hours, t.hours)}`.padEnd(16),
+          `${(n1 * 100).toFixed(1)}% (${t.cov1 * 100}%) ${ok(n1, t.cov1)}`.padEnd(19),
+          `${(n3 * 100).toFixed(1)}% (${t.cov3 * 100}%) ${ok(n3, t.cov3)}`.padEnd(19),
+          `${topicGap.length ? topicGap.join(", ") : "✓"} · ${genreGap.length ? genreGap.join(", ") : "✓"}`,
+        ].join(" "),
+      );
+    }
     process.exit(0);
   }
   if (args[0] === "--topics") {

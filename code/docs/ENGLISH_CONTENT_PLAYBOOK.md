@@ -202,17 +202,18 @@ liệt kê bài/chương còn thiếu câu hỏi.
 
 ## 14. Phỏng theo nguồn mở
 
-Bài đọc / truyện có thể **kể lại** từ nguồn mở trên GitHub — chỉ nhận **phạm vi công cộng, CC0, CC BY**
-(không NC, SA, ND):
+Bài đọc / truyện có thể **kể lại** từ nguồn mở trên GitHub — nhận **phạm vi công cộng, CC0, CC BY**; vì app dùng
+cá nhân, phi thương mại nên nhận thêm **CC BY-NC, CC BY-NC-SA** (truyện tranh African Storybook / LIDA); **không nhận
+ND** (cấm phái sinh). Nhãn hợp lệ = khoá `LICENSES` (`scripts/lib/content-spec.mjs`, khớp `lib/library.ts`):
 
 | Nguồn | Giấy phép | Hợp cấp |
 |---|---|---|
 | `standardebooks/*` (Aesop, Andersen, Grimm, Kipling, Wilde, O. Henry, Saki, Chekhov–Garnett, Doyle, Jerome, Franklin, Thoreau, Mill, Hazlitt, Emerson, Joyce, Leacock, Twain, Chesterton…) | public domain (+ CC0) | A2–C2 |
 | `GITenberg/*` (Project Gutenberg, vd. Baldwin *Fifty Famous Stories*) | public domain | B1–B2 |
-| `global-asp/asp-source`, `pb-source`, `sbc-source`, `lida-source` (African Storybook, Pratham StoryWeaver) | CC BY 4.0 — kiểm từng truyện, bỏ mục NC/SA | A1–B1 |
+| `global-asp/asp-source`, `pb-source`, `lida-source` (African Storybook, Pratham StoryWeaver; `sbc-source` là bản sao asp) | CC BY 4.0 / CC BY-NC 4.0 / CC BY-NC-SA 4.0 — ghi đúng giấy phép từng truyện (dòng `* License:` cuối file) | A1–A2 |
 
 - Header bắt buộc: `source: Tên gốc | tác giả, tuyển tập (năm), nơi lấy` · `license: public domain | CC0 1.0 |
-  CC BY 4.0` · `source-url: https://github.com/…`. Trang bài hiện dòng ghi nguồn (`source-note.tsx`): tên gốc, tác
+  CC BY 4.0 | CC BY-NC 4.0 | CC BY-NC-SA 4.0` · `source-url: https://github.com/…`. Trang bài hiện dòng ghi nguồn (`source-note.tsx`): tên gốc, tác
   giả, giấy phép kèm liên kết, liên kết GitHub, "đã biên soạn lại theo cấp độ và dịch" — đủ ghi công CC BY.
 - **Kể lại theo cấp**, không chép: giữ cốt truyện/ý chính, câu chữ mới đúng mốc §2–§3; bài đọc C1–C2 thêm đoạn
   bình luận ngắn (bối cảnh, ý nghĩa, liên hệ hôm nay) để đủ từ đúng cấp. Ghi chú ở dòng `//` đầu file: nguồn,
@@ -226,3 +227,66 @@ Bài đọc / truyện có thể **kể lại** từ nguồn mở trên GitHub �
 - Tên riêng phổ biến (London, American, German, Christmas…) ≤ 2 truyện/cấp — đổi cách nói ("the capital",
   "a foreign gentleman") thay vì khai thêm.
 
+
+## 15. Mục tiêu theo cấp — "học hết là đủ lên cấp"
+
+Câu hỏi: học hết thẻ từ + ngữ pháp + thư viện của cấp L thì đủ sang L+1 chưa? Thẻ từ dạy nghĩa (B1–C2: mỗi từ
+5 câu ví dụ, ôn theo SRS), ngữ pháp có bài riêng; thư viện lo **gặp lại từ trong ngữ cảnh** và **khối lượng đọc**.
+Số mục tiêu nằm ở `TARGETS` (`scripts/lib/content-spec.mjs`); đo bằng `npm run content:coverage -- --targets`.
+
+| Cấp | Từ của cấp gặp ≥ 1 bài | ≥ 3 bài | Giờ đọc (bài đọc + truyện) | Mỗi chủ đề | Thể loại bắt buộc (mỗi loại ≥ … bài đọc) |
+|---|---|---|---|---|---|
+| A1 | 98% | 85% | ≥ 6,5 | ≥ 2 bài đọc | narrative, description, informational, practical, letter, how-to, news (≥ 3) |
+| A2 | 97% | 70% | ≥ 9 | ≥ 2 | như A1 + review, biography (≥ 4) |
+| B1 | 92% | 60% | ≥ 16 | ≥ 3 | narrative, explanation, informational, news, opinion, how-to, letter, biography, review, interview (≥ 4) |
+| B2 | 85% | 50% | ≥ 16 | ≥ 3 | narrative, explanation, analysis, argument, news, opinion, review, interview, case-study, biography (≥ 4) |
+| C1 | 80% | 40% | ≥ 17 | ≥ 3 | narrative, analysis, argument, explanation, opinion, review, case-study, biography, interview, comparison (≥ 4) |
+
+**C2 không đặt mục tiêu** (chủ app quyết 10/2026): người học C2 cần chuyển sang văn bản thật (CEFR: "hầu như mọi loại
+văn bản"), thư viện C2 chỉ là phần mở đầu.
+
+**Trạng thái 10/2026**: A1–C1 đều đạt cả năm mốc (`--targets` ✓). Cách lấp nhanh nhất: bài đọc tự biên soạn theo cụm
+chủ đề nhắm đúng từ đang gặp 2 bài (mỗi lần gặp thêm kéo một từ lên ≥ 3) và từ chưa gặp (kéo ≥ 1), 15–30 từ thiếu/bài;
+truyện nguồn mở chủ yếu để đủ giờ đọc (một truyện kể lại "tự nhiên" chỉ phủ thêm ~10 từ thiếu).
+
+Cách đếm: "bài" = một bài đọc / một truyện / một video ở cấp **≤ L** (người học đi từ dưới lên — bài cấp trên chưa
+đọc tới); từ = lemma theo `profileOf` (gộp mọi dạng biến hình); danh sách cấp = `targetWords(band)`. Không đếm qua
+`word-refs` (mỗi từ chỉ giữ tối đa 12 bài). Giờ đọc = số chữ ÷ `SPEC[cấp].wpm`.
+
+**Căn cứ nghiên cứu** (số liệu của tác giả):
+- *Độ phủ từ đã biết*: đọc hiểu không trợ giúp cần ~98% token là từ đã biết (Hu & Nation 2000); ngưỡng tối thiểu
+  ~95%, tối ưu 98% (Laufer & Ravenhorst-Kalovski 2010). → giới hạn vượt cấp §2–§3 (≤ 1,2–5% token, phần còn lại
+  khai `gloss:`) giữ mọi bài ở vùng 95–98%+ với người đã học hết từ cấp ≤ L.
+- *Số lần gặp*: từ gặp dưới 8 lần trong sách phân cấp gần như không còn nhớ nghĩa sau 3 tháng (Waring & Takaki
+  2003); ~10 lần gặp mới có tiến bộ rõ trên nhiều mặt kiến thức từ (Webb 2007); số lần gặp là yếu tố dự báo quan
+  trọng nhưng không duy nhất (Uchihara, Webb & Yanagisawa 2019).
+- *Quy mô từ theo CEFR*: A1 < 1.500 · A2 1.500–2.500 · B1 2.500–3.250 · B2 3.250–3.750 · C1 3.750–4.500 · C2
+  4.500–5.000 lemma trong 5.000 từ thường gặp nhất (Milton & Alexiou 2009). Danh sách app luỹ kế A1 1.052 → A2
+  2.289 → B1 4.565 → B2 7.147 → C1 10.185 → C2 12.597 lemma — đủ so với mốc này.
+- *Giờ học có hướng dẫn* luỹ kế (Cambridge English): A2 ~180–200 · B1 ~350–400 · B2 ~500–600 · C1 ~700–800 ·
+  C2 ~1.000–1.200.
+- *Khối lượng đọc rộng*: ~1 sách phân cấp/tuần ở bậc 2–3, 1,5–2 cuốn/tuần ở bậc 4–6 mới đủ gặp lại từ (Nation &
+  Wang 1999; Oxford Bookworms bậc 1–6 dài trung bình 5.200 → 30.000 chữ/cuốn); ~200.000 chữ/năm (Beglar & Hunt
+  2014); đọc ở vùng ≥ 98% từ đã biết, 150–200 từ/phút (Extensive Reading Foundation).
+- *Thể loại* (CEFR Companion Volume 2020): A1–A2 văn bản ngắn, cụ thể (thông báo, tin nhắn, thực đơn, lịch, tin
+  ngắn, truyện đơn giản); B1 văn bản thông tin rõ ràng, bài báo đơn giản, thư cá nhân, hướng dẫn; B2 bài báo/báo
+  cáo có quan điểm, văn xuôi đương đại; C1 văn bản dài, phức tạp, văn học, chuyên ngành; C2 hầu như mọi loại.
+
+**Ước lượng của nhóm soạn** (không phải số nghiên cứu):
+- *≥ 3 bài*: thẻ từ B1–C2 cho 5 ngữ cảnh + ≥ 3 bài khác nhau = ≥ 8 lần gặp có ngữ cảnh (ngưỡng Waring & Takaki).
+  A1–A2 không có câu ví dụ trên thẻ, nhưng từ A1–A2 lặp lại dày đặc ở mọi cấp trên (Nation & Wang 1999).
+- *Tỉ lệ giảm dần theo cấp* (85% → 40%): danh sách cấp cao dài hơn và hiếm dần (Zipf trung vị A1 ≈ 5,0 → C1 ≈ 3,6);
+  phần đuôi hiếm học có chủ đích qua thẻ, không nhồi vào bài (§4). Phần đạt ≥ 3 bài là phần thường gặp nhất.
+- *Giờ đọc* ≈ 7–10% giờ học có hướng dẫn của bậc. Thư viện là phần lõi có kiểm soát — không thay được khối lượng đọc
+  rộng ngoài app.
+- *Lấp khoảng trống*: ưu tiên tác phẩm nguồn mở hợp cấp chứa nhiều từ còn thiếu (§14); từ hiện đại mà văn cổ không
+  có (công nghệ, kinh tế, xã hội…) → bài đọc tự biên soạn nhắm đúng nhóm từ (không cần Video); truyện tranh dài
+  > 650 chữ → truyện A2.
+
+**Nguồn**: Hu, M. & Nation, P. (2000), *Reading in a Foreign Language* 13(1) · Laufer, B. & Ravenhorst-Kalovski,
+G. C. (2010), *RFL* 22(1) · Nation, P. (2006), *Canadian Modern Language Review* 63(1) · Waring, R. & Takaki, M.
+(2003), *RFL* 15(2) · Webb, S. (2007), *Applied Linguistics* 28(1) · Uchihara, T., Webb, S. & Yanagisawa, A.
+(2019), *Language Learning* 69(3) · Milton, J. & Alexiou, T. (2009), *Vocabulary Studies in First and Second
+Language Acquisition* (Palgrave) · Nation, P. & Wang, K. (1999), *RFL* 12(2) · Beglar, D. & Hunt, A. (2014), *RFL*
+26(1) · Cambridge English, *Guided learning hours* · Council of Europe (2020), *CEFR Companion Volume* · Extensive
+Reading Foundation, *Guide to Extensive Reading*.

@@ -85,6 +85,8 @@ export const LICENSES: Record<string, { label: string; url: string }> = {
   "CC0 1.0": { label: "CC0 1.0", url: "https://creativecommons.org/publicdomain/zero/1.0/deed.vi" },
   "CC BY 3.0": { label: "CC BY 3.0", url: "https://creativecommons.org/licenses/by/3.0/deed.vi" },
   "CC BY 4.0": { label: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/deed.vi" },
+  "CC BY-NC 4.0": { label: "CC BY-NC 4.0", url: "https://creativecommons.org/licenses/by-nc/4.0/deed.vi" },
+  "CC BY-NC-SA 4.0": { label: "CC BY-NC-SA 4.0", url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.vi" },
 };
 
 // 1 track audio cho cả bài/chương; starts/ends = mốc từng câu (giây).

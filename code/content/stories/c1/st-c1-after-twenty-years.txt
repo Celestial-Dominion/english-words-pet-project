@@ -1,0 +1,71 @@
+// Truyện C1 phỏng theo nguồn mở (đợt 6): O. Henry, "After Twenty Years", The Four Million (1906) — phạm vi công cộng,
+// bản Standard Ebooks trên GitHub (standardebooks/o-henry_short-fiction). Kể lại theo cấp C1 thành 5 chương, giữ nguyên
+// cốt truyện và lá thư cuối; thêm một câu kết ngắn của người kể.
+=== st-c1-after-twenty-years
+title: After Twenty Years | Hai mươi năm sau
+topic: society
+summary: Một đêm mưa gió, viên cảnh sát tuần tra gặp một người đàn ông đứng chờ trước cửa một tiệm đã đóng: hai mươi năm trước anh ta hẹn người bạn thân Jimmy Wells gặp lại đúng chỗ này. Người bạn đến thật — nhưng cuộc hội ngộ kết thúc theo cách không ai ngờ.
+names: Bob, Silky Bob, Jimmy Wells, Jimmy, Wells, Big Joe Brady, Brady, Chicago
+gloss: pug, cigar, club
+source: After Twenty Years | O. Henry, The Four Million (1906), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/o-henry_short-fiction
+
+## The Policeman on the Beat | Viên cảnh sát tuần tra
+The policeman on the beat moved up the avenue with stately steps and an air of quiet authority, although there were few people to see him. | Viên cảnh sát tuần tra bước dọc đại lộ với những bước chân đường bệ và dáng vẻ uy quyền điềm tĩnh, dù chẳng có mấy ai nhìn thấy anh.
+It was barely ten o'clock at night, but a chilly wind with a taste of rain in it had emptied the streets. | Mới chỉ mười giờ đêm, nhưng một cơn gió se lạnh mang mùi mưa đã khiến đường phố vắng tanh.
+Dutifully trying doors as he went and spinning his club with intricate movements, he made a fine picture of a conscientious keeper of the peace. | Vừa đi vừa cần mẫn thử từng cánh cửa và xoay chiếc dùi cui với những động tác điêu luyện, anh là hình ảnh đẹp đẽ của một người giữ gìn trật tự tận tụy.
+The neighborhood was one that kept early hours, and most of the doors belonged to shops and offices that had long since closed. | Khu phố này vốn đi ngủ sớm, và phần lớn các cánh cửa thuộc về những cửa hàng, văn phòng đã đóng từ lâu.
+The officer was proud of his neighborhood and knew almost every face in it. | Viên cảnh sát tự hào về khu phố của mình và biết mặt gần như tất cả mọi người ở đó.
+Halfway along a certain block, the policeman suddenly slowed down. | Đến khoảng giữa một dãy nhà nọ, viên cảnh sát bỗng đi chậm lại.
+In the doorway of a dark hardware store, a man was leaning with an unlit cigar in his mouth. | Trong ô cửa của một tiệm đồ ngũ kim tối om, một người đàn ông đang đứng tựa, ngậm điếu xì gà chưa châm.
+"It's all right, officer," he said reassuringly. "I'm just waiting for a friend. It's an appointment made twenty years ago." | "Không sao đâu, anh cảnh sát," anh ta nói giọng trấn an. "Tôi chỉ đang chờ một người bạn. Đó là một cuộc hẹn từ hai mươi năm trước."
+
+## An Old Appointment | Cuộc hẹn cũ
+"Sounds a little strange to you, doesn't it?" the man went on. "Well, twenty years ago there used to be a restaurant where this store stands: Big Joe Brady's." | "Nghe hơi lạ với anh, phải không?" người đàn ông nói tiếp. "Chà, hai mươi năm trước từng có một nhà hàng ở chỗ cửa tiệm này: nhà hàng của Big Joe Brady."
+"Until five years ago," said the policeman. "That was when the demolition took place." | "Cho đến năm năm trước," viên cảnh sát nói. "Đó là lúc nó bị phá dỡ."
+The man struck a match and lit his cigar, and the light showed a pale, square-jawed face with sharp eyes and a small, telltale white scar near his right eyebrow. | Người đàn ông quẹt diêm châm điếu xì gà, và ánh lửa soi rõ một gương mặt nhợt nhạt, hàm vuông với đôi mắt sắc và một vết sẹo trắng nhỏ dễ nhận ra gần lông mày phải.
+In his tie he wore a large diamond pin. | Trên cà vạt anh ta cài một chiếc ghim kim cương lớn.
+"Twenty years ago tonight," said the man, "I had dinner here with Jimmy Wells, my best friend and the finest fellow in the world." | "Đúng hai mươi năm trước vào đêm nay," người đàn ông nói, "tôi đã ăn tối ở đây với Jimmy Wells, người bạn thân nhất của tôi và là người tốt nhất trên đời."
+"We grew up here together, just like two brothers; I was eighteen and Jimmy was twenty." | "Chúng tôi lớn lên cùng nhau ở đây, y như hai anh em ruột; khi ấy tôi mười tám còn Jimmy hai mươi."
+"The next morning I was to leave for the West to make my fortune, but nobody could have dragged Jimmy out of this city; he thought it was the only place on earth." | "Sáng hôm sau tôi lên đường về miền Tây lập nghiệp, nhưng chẳng ai lôi nổi Jimmy ra khỏi thành phố này; cậu ấy nghĩ đây là nơi duy nhất trên đời."
+"So we agreed that we would meet here again exactly twenty years later, whatever our circumstances and however far we had to come." | "Vì vậy chúng tôi hẹn sẽ gặp lại ở đây đúng hai mươi năm sau, bất kể hoàn cảnh ra sao và dù phải đi xa đến đâu."
+"Haven't you heard from your friend since you left?" asked the policeman. | "Anh không nhận được tin tức gì của bạn mình kể từ khi đi sao?" viên cảnh sát hỏi.
+"We wrote to each other for a while, but after a year or two we lost track of each other," the man admitted. "The West is a big place, and I had to hustle." | "Chúng tôi viết thư cho nhau một thời gian, nhưng sau một hai năm thì mất liên lạc," người đàn ông thừa nhận. "Miền Tây rộng lớn lắm, và tôi phải bon chen."
+"But I know Jimmy will come if he's alive," he said with unwavering confidence, "because he was always the most loyal fellow in the world, a man of complete integrity." | "Nhưng tôi biết Jimmy sẽ đến nếu cậu ấy còn sống," anh ta nói với niềm tin không lay chuyển, "vì cậu ấy luôn là người trung thành nhất đời, một người hoàn toàn chính trực."
+
+## The Man from the West | Người từ miền Tây
+The waiting man pulled out a handsome watch whose cover was set with small diamonds. "Three minutes to ten," he announced. | Người đàn ông đang chờ rút ra một chiếc đồng hồ đẹp có nắp nạm những viên kim cương nhỏ. "Mười giờ kém ba phút," anh ta thông báo.
+"You did pretty well out West, didn't you?" asked the policeman. | "Anh làm ăn khá ở miền Tây, phải không?" viên cảnh sát hỏi.
+"You bet! I hope Jimmy has done half as well, but he was always a slow, methodical worker, good fellow as he was." | "Chắc chắn rồi! Tôi mong Jimmy làm ăn được bằng nửa tôi, nhưng cậu ấy vốn là người làm việc chậm chạp, cẩn thận, dù là người tốt."
+"A man gets stuck in a groove in this city; it takes the West to give him a sharp edge," he added with a smug, arrogant smile. | "Ở thành phố này người ta dễ bị mắc kẹt trong lối mòn; phải có miền Tây mới mài cho con người ta sắc bén," anh ta nói thêm với nụ cười tự mãn, kiêu ngạo.
+"I'll be on my way," said the policeman, spinning his club. "Will you wait long for him?" | "Tôi đi đây," viên cảnh sát nói, xoay chiếc dùi cui. "Anh sẽ chờ bạn lâu không?"
+"Half an hour at least. If Jimmy is alive on earth, he'll be here by then. Good night, officer." | "Ít nhất nửa tiếng. Nếu Jimmy còn sống trên đời, cậu ấy sẽ có mặt trước lúc đó. Chúc ngủ ngon, anh cảnh sát."
+A fine, cold rain had begun to fall, and the few people still out hurried dismally along with their collars turned up and their hands in their pockets. | Một cơn mưa lạnh lất phất bắt đầu rơi, và số ít người còn ngoài đường hối hả bước đi ủ ê, cổ áo dựng lên và tay đút túi.
+In the doorway, the man who had come a thousand miles to keep an appointment so uncertain that it was almost absurd smoked his cigar and waited. | Trong ô cửa, người đàn ông đã đi cả nghìn dặm để giữ một cuộc hẹn mơ hồ đến gần như phi lý vẫn hút xì gà và chờ đợi.
+
+## The Reunion | Cuộc hội ngộ
+About twenty minutes later, a tall man in a long overcoat, with his collar turned up to his ears, hurried across the street towards him. | Khoảng hai mươi phút sau, một người đàn ông cao lớn mặc áo khoác dài, cổ áo dựng lên tận tai, vội vã băng qua đường về phía anh ta.
+"Is that you, Bob?" he asked doubtfully. | "Có phải cậu không, Bob?" người kia hỏi, giọng ngờ vực.
+"Is that you, Jimmy Wells?" cried the man in the doorway, a little apprehensive. | "Có phải cậu đấy không, Jimmy Wells?" người đàn ông trong ô cửa kêu lên, hơi lo lắng.
+The newcomer seized both his hands exuberantly. "Bless my heart, it's Bob! I was certain I'd find you here if you were still alive. Twenty years is a long time." | Người mới đến hồ hởi nắm chặt cả hai tay anh ta. "Trời đất ơi, đúng là Bob! Tôi chắc mẩm sẽ gặp cậu ở đây nếu cậu còn sống. Hai mươi năm là quãng thời gian dài."
+"You've changed a lot, Jimmy," said Bob. "I never thought you were so tall." | "Cậu thay đổi nhiều quá, Jimmy," Bob nói. "Tôi chưa bao giờ nghĩ cậu cao đến thế."
+"Oh, I grew a bit after I was twenty." | "Ồ, tôi cao thêm chút ít sau tuổi hai mươi."
+"Are you doing well in the city, Jimmy?" | "Cậu làm ăn ở thành phố có khá không, Jimmy?"
+"Reasonably well. I have a position in one of the city departments. Come on, let's go somewhere warm and reminisce about old times." | "Cũng tạm. Tôi có một chức vụ ở một sở của thành phố. Đi nào, ta tìm chỗ nào ấm áp mà ôn lại chuyện xưa."
+The two men walked up the street arm in arm. | Hai người khoác tay nhau đi lên con phố.
+For a few minutes they walked in silence, two old friends with twenty years of divergent lives between them. | Trong vài phút họ lặng lẽ bước đi, hai người bạn cũ cách nhau hai mươi năm sống những cuộc đời rẽ lối.
+The man from the West, full of his own success, began to describe his career, while his nondescript companion, almost hidden in his overcoat, listened with interest. | Người đàn ông từ miền Tây, đầy tự mãn về thành công của mình, bắt đầu kể về sự nghiệp, trong khi người bạn đồng hành chẳng có gì nổi bật, gần như khuất trong chiếc áo khoác, chăm chú lắng nghe.
+
+## A Note from Jimmy | Lá thư của Jimmy
+At the corner stood a drugstore, brilliant with electric lights, and as they came into the glare, each turned to look at the other's face. | Ở góc phố có một hiệu thuốc sáng rực ánh đèn điện, và khi bước vào vùng sáng chói, mỗi người quay sang nhìn mặt người kia.
+The man from the West stopped suddenly and pulled his arm away. | Người đàn ông từ miền Tây khựng lại và giật tay ra.
+For a long moment he stood silent, a con man who had fooled the police of half a continent and had now been caught on a street corner. | Một hồi lâu anh ta đứng câm lặng, một tay lừa đảo từng qua mặt cảnh sát của nửa lục địa giờ lại bị tóm ở một góc phố.
+"You're not Jimmy Wells," he snapped. "Twenty years is a long time, but not long enough to change a man's nose from a straight one to a pug." | "Anh không phải Jimmy Wells," anh ta gắt. "Hai mươi năm là lâu, nhưng không đủ lâu để biến cái mũi thẳng của một người thành mũi tẹt."
+"It sometimes changes a good man into a bad one," said the tall man. "You've been under arrest for ten minutes, Silky Bob." | "Đôi khi nó biến người tốt thành kẻ xấu," người đàn ông cao lớn đáp. "Anh đã bị bắt được mười phút rồi đấy, Silky Bob."
+"The police in Chicago have been trying to discover your whereabouts for months, and they have a warrant for your arrest." | "Cảnh sát Chicago đã tìm nơi ẩn náu của anh nhiều tháng nay, và họ có lệnh bắt anh."
+"Going quietly, are you? That's sensible. You'll be in custody soon, but first, here's a note I was asked to give you. It's from Officer Wells." | "Anh sẽ đi êm thấm chứ? Khôn ngoan đấy. Anh sẽ sớm bị tạm giam, nhưng trước hết, đây là mảnh giấy tôi được nhờ đưa anh. Của cảnh sát Wells."
+The fugitive unfolded the little piece of paper; his hand was steady when he began to read, but it trembled a little by the time he had finished. | Kẻ đang lẩn trốn mở mảnh giấy nhỏ; tay anh ta còn vững khi bắt đầu đọc, nhưng đã hơi run khi đọc xong.
+"Bob: I was at the appointed place on time. When you struck the match to light your cigar, I saw it was the face of the man wanted in Chicago." | "Bob: Tôi đã có mặt ở chỗ hẹn đúng giờ. Khi cậu quẹt diêm châm xì gà, tôi thấy đó là gương mặt của kẻ đang bị truy nã ở Chicago."
+"Somehow I couldn't do it myself, so I went around and got a plainclothes officer to do the job. Jimmy." | "Không hiểu sao tôi không thể tự mình làm việc đó, nên tôi đã đi vòng và nhờ một cảnh sát mặc thường phục làm thay. Jimmy."
+Jimmy Wells had kept his promise and done his duty, but he had discreetly sent a stranger in his place; it was not quite a betrayal, and not quite loyalty. | Jimmy Wells đã giữ lời hẹn và làm tròn bổn phận, nhưng anh đã kín đáo gửi một người lạ đến thay mình; đó chẳng hẳn là phản bội, cũng chẳng hẳn là trung thành.

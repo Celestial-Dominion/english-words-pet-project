@@ -1,0 +1,76 @@
+// Truyện C1 phỏng theo nguồn mở (đợt 5): Nathaniel Hawthorne, "Dr. Heidegger's Experiment", Twice-Told Tales (1837) —
+// phạm vi công cộng, bản Project Gutenberg trên GitHub (GITenberg/Twice-Told-Tales_508). Kể lại theo cấp C1 thành 5
+// chương; làm nhẹ: "suýt cắt cổ nhau" thành "suýt đấu tay đôi", cuộc giằng co cuối truyện chỉ còn xô đẩy; bỏ chi tiết
+// vị hôn thê uống nhầm đơn thuốc, chỉ còn "qua đời ngay trước đám cưới"; bỏ câu "ước nắp quan tài đậy lên mặt".
+
+=== st-c1-dr-heideggers-experiment
+title: Dr Heidegger's Experiment | Thí nghiệm của bác sĩ Heidegger
+topic: science
+summary: Một bác sĩ già lập dị mời bốn người bạn già nua, từng lầm lỡ cả đời, uống thử nước Suối Nguồn Tuổi Trẻ; họ trẻ lại trong chốc lát, nhưng thay vì khôn ngoan hơn, họ lặp lại đúng những thói hư tật xấu thuở xưa.
+names: Dr Heidegger, Heidegger, Mr Medbourne, Medbourne, Killigrew, Mr Gascoigne, Gascoigne, Widow Wycherly, Wycherly, Sylvia Ward, Sylvia, Florida
+gloss: cobwebs, cobweb, petals, wrinkled, icebergs
+source: Dr. Heidegger's Experiment | Nathaniel Hawthorne, Twice-Told Tales (1837), Project Gutenberg
+license: public domain
+source-url: https://github.com/GITenberg/Twice-Told-Tales_508
+
+## Four Old Friends | Bốn người bạn già
+That very singular man, old Dr Heidegger, once invited four elderly friends to meet him in his study. | Ông bác sĩ già Heidegger, một con người hết sức kỳ quặc, có lần mời bốn người bạn đứng tuổi đến gặp mình trong phòng làm việc.
+All four had been unfortunate in life, and their greatest misfortune, perhaps, was that they had lived so long. | Cả bốn đều lận đận trong đời, và có lẽ nỗi bất hạnh lớn nhất của họ là đã sống quá lâu.
+Mr Medbourne had once been a prosperous merchant, but he had lost everything through a foolish speculation and was now almost penniless. | Ông Medbourne từng là một thương gia phát đạt, nhưng đã mất sạch vì một vụ đầu cơ dại dột và giờ gần như không một xu dính túi.
+Colonel Killigrew had wasted his best years, his health and his fortune in the pursuit of pleasure, and he now suffered from chronic aches and pains. | Đại tá Killigrew đã phung phí những năm tháng đẹp nhất, sức khỏe và gia sản vào việc chạy theo khoái lạc, và giờ ông khổ sở vì những cơn đau nhức kinh niên.
+Mr Gascoigne was a ruined politician, whose bad reputation had faded only because the present generation had forgotten him, so that he was now obscure rather than infamous. | Ông Gascoigne là một chính khách thân bại danh liệt, tiếng xấu của ông chỉ phai đi vì thế hệ bây giờ đã quên ông, nên giờ ông chỉ vô danh chứ không còn khét tiếng.
+As for the Widow Wycherly, she had been a great beauty in her day, but for many years she had lived an isolated life because of certain shocking stories about her. | Còn bà góa Wycherly, thời son trẻ bà từng là một mỹ nhân, nhưng nhiều năm nay bà sống biệt lập vì những lời đồn tai tiếng về bà.
+It is worth mentioning that all three gentlemen had once been in love with her, and that their rivalry had nearly led to a duel. | Cũng nên nói rằng cả ba quý ông đều từng yêu bà, và cuộc ganh đua giữa họ suýt nữa dẫn đến một trận đấu tay đôi.
+"My dear old friends," said Dr Heidegger, "I need your help with one of the little experiments with which I amuse myself here." | "Các bạn già thân mến," bác sĩ Heidegger nói, "tôi cần các bạn giúp một thí nghiệm nho nhỏ mà tôi vẫn làm để tiêu khiển ở đây."
+
+## The Study | Căn phòng làm việc
+If all the stories were true, the study of Dr Heidegger must have been a very curious place. | Nếu mọi lời đồn đều đúng, phòng làm việc của bác sĩ Heidegger hẳn là một nơi rất kỳ lạ.
+It was a dim, old-fashioned room, full of cobwebs and dust, with tall bookcases filled with enormous old volumes. | Đó là một căn phòng tối mờ, kiểu cổ, đầy mạng nhện và bụi, với những giá sách cao chất đầy những cuốn sách cổ khổng lồ.
+In the darkest corner stood a narrow closet, and through its half-open door a skeleton could be seen. | Ở góc tối nhất có một chiếc tủ hẹp, và qua cánh cửa khép hờ có thể thấy một bộ xương.
+Between two bookcases hung a tall, dusty mirror, in which, according to legend, the spirits of all the dead patients of the doctor were said to live. | Giữa hai giá sách treo một tấm gương cao phủ bụi, mà theo truyền thuyết, linh hồn của tất cả bệnh nhân đã khuất của bác sĩ đều trú ngụ trong đó.
+On the opposite wall hung the faded portrait of a young lady, Sylvia Ward. | Trên bức tường đối diện treo bức chân dung đã phai màu của một thiếu nữ, Sylvia Ward.
+More than half a century earlier the doctor had been about to marry her, but she had died on the night before their wedding. | Hơn nửa thế kỷ trước, bác sĩ đã sắp cưới nàng, nhưng nàng qua đời ngay đêm trước đám cưới.
+The most notable curiosity of all was an immense book bound in black leather, which everyone believed to be a book of magic. | Món đồ kỳ lạ nhất là một cuốn sách khổng lồ bọc da đen, mà ai cũng tin là sách phép thuật.
+On that splendid summer afternoon a beautiful cut-glass vase of elaborate design stood on a small black table in the centre of the room, with four champagne glasses beside it. | Chiều hè hôm ấy, một chiếc bình pha lê chạm khắc tinh xảo đặt trên chiếc bàn nhỏ màu đen giữa phòng, bên cạnh là bốn chiếc ly sâm-panh.
+
+## The Rose | Bông hồng
+The guests expected nothing more wonderful than the examination of a cobweb under a microscope, the kind of nonsense with which the doctor often bored his friends. | Khách khứa chẳng mong đợi điều gì kỳ diệu hơn việc soi một mạng nhện dưới kính hiển vi, kiểu chuyện vớ vẩn mà bác sĩ vẫn hay làm bạn bè phát chán.
+But Dr Heidegger took from the black book a rose, so dry and brown that it seemed ready to crumble into dust. | Nhưng bác sĩ Heidegger lấy ra từ cuốn sách đen một bông hồng, khô và nâu đến mức như sắp vỡ vụn thành bụi.
+"This rose was given to me by Sylvia Ward fifty-five years ago," he said with a sigh. "Do you think it could ever bloom again?" | "Bông hồng này Sylvia Ward tặng tôi năm mươi lăm năm trước," ông thở dài nói. "Các bạn nghĩ nó có thể nở lại không?"
+"Nonsense!" said the Widow Wycherly. "You might as well ask whether an old woman's wrinkled face could ever bloom again." | "Vớ vẩn!" bà góa Wycherly nói. "Thế thì ông hỏi luôn xem gương mặt nhăn nheo của một bà già có thể tươi tắn lại không."
+The doctor threw the rose into the water in the vase, and slowly the dry petals began to stir and turn red, until it looked as fresh as on the day Sylvia had given it to him. | Bác sĩ thả bông hồng vào nước trong bình, và dần dần những cánh hoa khô bắt đầu cựa quậy và đỏ thắm lại, cho đến khi nó tươi như ngày Sylvia trao cho ông.
+"Have you never heard of the Fountain of Youth?" he asked. | "Các bạn chưa từng nghe về Suối Nguồn Tuổi Trẻ sao?" ông hỏi.
+The famous fountain, he explained, lay in the south of Florida, and a friend had sent him some of its water. | Ông giải thích rằng con suối nổi tiếng ấy nằm ở miền nam Florida, và một người bạn đã gửi cho ông ít nước của nó.
+His guests were skeptical, but they were eager to drink, and the doctor filled their glasses. | Các vị khách hoài nghi, nhưng vẫn háo hức muốn uống, và bác sĩ rót đầy ly cho họ.
+He himself declined, saying with gentle irony that since it had taken him so long to grow old, he was in no hurry to grow young again. | Riêng ông từ chối, mỉa mai nhẹ nhàng rằng vì phải mất bao lâu mới già được, ông chẳng vội gì trẻ lại.
+"Before you drink," he said, "you should draw up a few rules, so that with the experience of a lifetime you may become models of virtue and wisdom for the young." | "Trước khi uống," ông nói, "các bạn nên đặt ra vài quy tắc, để với kinh nghiệm cả một đời, các bạn có thể trở thành tấm gương đạo đức và khôn ngoan cho lớp trẻ."
+His friends only laughed weakly, so ridiculous did it seem that they could ever repeat the mistakes of the past. | Các bạn ông chỉ cười yếu ớt, vì ý nghĩ rằng họ có thể lặp lại những lầm lỗi xưa nghe thật lố bịch.
+
+## Young Again | Trẻ lại
+They raised the glasses to their lips with trembling hands, and almost at once a healthy colour returned to their grey cheeks. | Họ nâng ly lên môi bằng đôi tay run rẩy, và gần như ngay lập tức sắc hồng khỏe khoắn trở lại trên đôi má xám xịt.
+"Give us more!" they cried eagerly. "We are younger, but we are still too old!" | "Cho chúng tôi thêm!" họ háo hức kêu lên. "Chúng tôi trẻ hơn rồi, nhưng vẫn còn già quá!"
+After a second glass, their eyes grew bright, their white hair turned dark, and they sat around the table as three gentlemen of middle age and a woman in her prime. | Sau ly thứ hai, mắt họ sáng lên, tóc bạc sẫm lại, và quanh bàn giờ là ba quý ông trung niên cùng một người phụ nữ đang độ xuân sắc.
+"My dear widow, you are charming!" cried Colonel Killigrew, and she ran to the mirror, still afraid that she would see the face of an old woman. | "Bà góa thân mến, trông bà thật duyên dáng!" Đại tá Killigrew kêu lên, và bà chạy đến bên gương, vẫn còn sợ sẽ thấy gương mặt của một bà già.
+Whilst she admired herself, Mr Gascoigne began making speeches about patriotism and national glory, and the Colonel sang a cheerful drinking song. | Trong lúc bà ngắm mình, ông Gascoigne bắt đầu diễn thuyết về lòng yêu nước và vinh quang dân tộc, còn ông Đại tá hát một bài hát chuốc rượu vui nhộn.
+Mr Medbourne, meanwhile, was calculating the profits of an absurd scheme to supply hot countries with ice by harnessing whales to the polar icebergs. | Còn ông Medbourne thì đang tính toán lợi nhuận của một kế hoạch phi lý: cung cấp băng cho các xứ nóng bằng cách đóng cương cá voi kéo những tảng băng trôi từ vùng cực.
+After the third glass, they were young: age, with its cares and diseases, was remembered only as the trouble of a dream, and they felt a profound bliss. | Sau ly thứ ba, họ đã trẻ lại: tuổi già cùng bao lo âu, bệnh tật chỉ còn được nhớ đến như nỗi phiền muộn của một giấc mơ, và họ thấy một niềm hạnh phúc sâu sắc.
+"We are young! We are young!" they cried, and they began to mock the weakness of old age, limping across the room like sick old grandfathers and laughing at their old-fashioned clothes. | "Chúng ta trẻ rồi! Chúng ta trẻ rồi!" họ reo lên, rồi bắt đầu giễu cợt sự yếu đuối của tuổi già, khập khiễng đi khắp phòng như những ông nội ốm yếu và cười nhạo bộ quần áo cổ lỗ của mình.
+"Doctor, you dear old soul," cried the widow, "get up and dance with me!" | "Bác sĩ, ông già dễ mến," bà góa kêu lên, "đứng dậy khiêu vũ với tôi đi!"
+"Pray excuse me," answered the doctor quietly. "My dancing days were over long ago." | "Xin thứ lỗi," bác sĩ khẽ đáp. "Những ngày khiêu vũ của tôi đã qua lâu rồi."
+
+## The Broken Vase | Chiếc bình vỡ
+At once the three gentlemen gathered round her, each insisting that he should be her partner. | Lập tức ba quý ông xúm quanh bà, ai cũng khăng khăng mình phải là bạn nhảy của bà.
+"She promised me her hand fifty years ago!" cried Mr Medbourne. | "Năm mươi năm trước bà ấy đã hứa sẽ lấy tôi!" ông Medbourne kêu lên.
+Yet, by a strange illusion, the tall mirror is said to have exposed the deception, reflecting three grey, withered old men quarrelling over a wrinkled old woman. | Thế nhưng, bởi một ảo ảnh kỳ lạ, người ta kể rằng tấm gương cao đã vạch trần sự lừa dối, chỉ phản chiếu ba ông già tóc bạc, khô héo đang tranh giành một bà già nhăn nheo.
+The rivalry gained momentum and grew more and more heated, until the three rivals began pushing and pulling at one another. | Cuộc ganh đua mỗi lúc một hăng và nóng lên, cho đến khi ba đối thủ bắt đầu xô đẩy, giằng co nhau.
+As they struggled, the table was knocked over, the precious vase shattered into a thousand fragments, and the Water of Youth flowed across the floor. | Trong lúc giằng co, chiếc bàn bị xô đổ, chiếc bình quý vỡ tan thành nghìn mảnh, và Nước Tuổi Trẻ chảy lênh láng trên sàn.
+A few drops touched the wings of an old, dying butterfly, which flew up lightly and settled on the white head of the doctor. | Vài giọt chạm vào đôi cánh của một con bướm già đang hấp hối, nó nhẹ nhàng bay lên và đậu trên mái đầu bạc trắng của bác sĩ.
+"Come, gentlemen! Come, Madam Wycherly," said the doctor. "I really must protest." | "Thôi nào, các quý ông! Thôi nào, bà Wycherly," bác sĩ nói. "Tôi thực sự phải phản đối đấy."
+They stood still and shivered, as though Time itself were calling them back from their sunny youth. | Họ đứng sững và rùng mình, như thể chính Thời Gian đang gọi họ trở lại từ tuổi xuân rực nắng.
+The doctor held up the rose of Sylvia, and even as they watched, it faded and dried until it was as fragile as before, while the butterfly fell lifeless to the floor. | Bác sĩ giơ bông hồng của Sylvia lên, và ngay trước mắt họ, nó tàn úa, khô lại, mong manh như trước, còn con bướm thì rơi xuống sàn, bất động.
+"I love it as well like this as in its freshness," said the doctor with quiet sentiment, pressing the rose to his lips. | "Tôi vẫn yêu nó như thế này chẳng kém lúc nó tươi thắm," bác sĩ nói với nỗi xúc động lặng lẽ, áp bông hồng lên môi.
+A strange chill spread over the guests, and they cried in dismay, "Are we grown old again, so soon?" | Một cơn ớn lạnh kỳ lạ len vào các vị khách, và họ thảng thốt kêu lên: "Chúng ta lại già rồi sao, nhanh thế ư?"
+They were, for the Water of Youth had a virtue even more temporary than that of wine. | Đúng là vậy, vì Nước Tuổi Trẻ có công hiệu còn ngắn ngủi hơn cả rượu vang.
+Their second youth had been destined to last only a few moments. | Tuổi xuân thứ hai của họ vốn chỉ được định sẵn kéo dài vài khoảnh khắc.
+"Yes, friends, you are old again," said Dr Heidegger, "and I do not regret it. If the fountain gushed at my very doorstep, I would not bend down to drink from it. Such is the lesson you have taught me!" | "Phải, các bạn ạ, các bạn lại già rồi," bác sĩ Heidegger nói, "và tôi chẳng tiếc. Dẫu con suối có tuôn chảy ngay trước cửa nhà, tôi cũng chẳng cúi xuống uống. Đó là bài học các bạn đã dạy tôi!"
+But, inevitably, his four friends had learned no such lesson, and they resolved at once to travel to Florida and drink from the Fountain of Youth morning, noon and night. | Nhưng, như một lẽ tất yếu, bốn người bạn của ông chẳng rút ra bài học nào như thế, và họ quyết ngay sẽ lên đường đến Florida để uống nước Suối Nguồn Tuổi Trẻ sáng, trưa và tối.

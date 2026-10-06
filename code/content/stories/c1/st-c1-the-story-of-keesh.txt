@@ -1,0 +1,101 @@
+// Truyện C1 phỏng theo nguồn mở (đợt 6): Jack London, "The Story of Keesh", Love of Life and Other Stories (1907) —
+// phạm vi công cộng, bản Project Gutenberg trên GitHub (GITenberg/Love-of-Life-and-Other-Stories_710). Kể lại theo cấp
+// C1 thành 6 chương; làm nhẹ: cái chết của người cha chỉ còn "mất trong một chuyến săn", bỏ cảnh bị đánh đòn, lược bớt
+// mô tả con gấu đau đớn (chỉ còn "yếu dần, đi vòng vòng rồi gục"), bỏ chi tiết mổ xẻ con mồi.
+
+=== st-c1-the-story-of-keesh
+title: The Story of Keesh | Chuyện về Keesh
+topic: society
+summary: Ở một ngôi làng bên bờ biển băng giá, cậu bé mồ côi cha Keesh đứng lên giữa hội đồng đòi chia thịt công bằng cho mẹ con mình, bị chế giễu, rồi một mình đi săn và mang về hết con gấu này đến con gấu khác — khiến cả làng nghi cậu dùng phép phù thủy.
+names: Keesh, Bok, Ikeega, Klosh-Kwan, Ugh-Gluk, Massuk, Bim, Bawn
+gloss: igloo, igloos, spear, sleds, whalebone, fat, seal
+source: The Story of Keesh | Jack London, Love of Life and Other Stories (1907), Project Gutenberg
+license: public domain
+source-url: https://github.com/GITenberg/Love-of-Life-and-Other-Stories_710
+
+## A Boy at the Council | Cậu bé giữa hội đồng
+Long ago, on the edge of the polar sea, there lived a man named Keesh, who was head of his village for many prosperous years and died with his name honored by all. | Ngày xưa, bên bờ biển vùng cực, có một người tên là Keesh, làm trưởng làng suốt nhiều năm thịnh vượng và qua đời khi tên tuổi được mọi người tôn vinh.
+The old men still tell his story during the long winter darkness, when storms sweep across the ice and nobody can venture outside, and it has become part of the folklore of the north. | Những ông già vẫn kể câu chuyện về ông trong bóng tối dài của mùa đông, khi bão quét qua mặt băng và chẳng ai dám ra ngoài, và nó đã trở thành một phần văn hóa dân gian của phương bắc.
+It is the story of how Keesh, from the poorest igloo in the village, rose above them all. | Đó là câu chuyện kể rằng Keesh, từ căn lều tuyết nghèo nhất làng, đã vươn lên trên tất cả mọi người.
+gloss: igloo
+He was a bright, healthy boy of thirteen when the story begins. | Khi câu chuyện bắt đầu, cậu là một cậu bé mười ba tuổi sáng dạ và khỏe mạnh.
+His father, Bok, had been a fearless hunter who lost his life during a time of hunger, while hunting a great polar bear to save his people, and the bear's meat had kept the whole village alive. | Cha cậu, Bok, từng là một thợ săn không biết sợ, đã mất mạng trong một thời kỳ đói kém khi săn một con gấu trắng lớn để cứu dân làng, và thịt con gấu ấy đã giữ cho cả làng sống sót.
+But people forget quickly, and before long the boy and his mother, Ikeega, were living in the meanest igloo in the village, with no provider to hunt for them. | Nhưng con người mau quên, và chẳng bao lâu cậu bé cùng mẹ, Ikeega, phải sống trong căn lều tuyết tồi tàn nhất làng, không có ai đi săn nuôi họ.
+It was an injustice that nobody seemed to notice, except the boy himself. | Đó là một sự bất công mà dường như chẳng ai để ý, ngoại trừ chính cậu bé.
+One night, at a council in the great igloo of Klosh-Kwan, the chief, Keesh rose to his feet with the poise of an elder and waited for silence. | Một đêm nọ, tại buổi họp hội đồng trong căn lều tuyết lớn của tù trưởng Klosh-Kwan, Keesh đứng dậy với phong thái điềm tĩnh của một bậc trưởng lão và chờ mọi người im lặng.
+"It is true that meat is given to me and my mother," he said, "but it is often old and tough, and it has an unusual quantity of bones." | "Đúng là mẹ con tôi được chia thịt," cậu nói, "nhưng thịt thường cũ và dai, và có rất nhiều xương một cách bất thường."
+The hunters, grey and young alike, were astonished, for nothing like this had ever happened before; the event was unprecedented. | Những thợ săn, già cũng như trẻ, đều sững sờ, vì chuyện như thế chưa từng xảy ra; sự việc chưa có tiền lệ.
+"My father, Bok, was a great hunter," Keesh continued steadily. "With his own eyes he made sure that the weakest old woman and the last old man received a fair share." | "Cha tôi, Bok, là một thợ săn vĩ đại," Keesh bình thản nói tiếp. "Chính mắt ông bảo đảm rằng bà lão yếu nhất và ông lão cuối cùng đều nhận được phần công bằng."
+"My mother has nobody but me, so I speak for her, and it is only fair that we should have meat in plenty as long as there is plenty in the tribe." | "Mẹ tôi chẳng có ai ngoài tôi, nên tôi lên tiếng thay bà, và thật công bằng khi chúng tôi được có thịt đầy đủ chừng nào bộ lạc còn dư dả."
+
+## A Promise and a Storm | Lời hứa và cơn bão
+The men responded with scornful laughter. | Những người đàn ông đáp lại bằng tràng cười khinh miệt.
+"Put the child out!" they cried. "Send him off to bed! Shall babies tell grown men what to do?" | "Đuổi thằng bé ra ngoài!" họ kêu lên. "Bắt nó đi ngủ! Chẳng lẽ trẻ con lại bảo người lớn phải làm gì sao?"
+Their resentment grew hotter, and they threatened that he would have no meat at all, but the boy's determination was unwavering. | Sự bực bội của họ càng lúc càng nóng lên, và họ dọa rằng cậu sẽ chẳng có miếng thịt nào, nhưng quyết tâm của cậu bé không hề lay chuyển.
+"Hear me!" he cried. "I shall never speak in the council again until the men come to me and say, 'It is good, Keesh, that you should speak.'" | "Hãy nghe tôi!" cậu kêu lên. "Tôi sẽ không bao giờ phát biểu trong hội đồng nữa cho đến khi những người đàn ông tự tìm đến tôi và nói: 'Keesh, thật tốt khi cậu lên tiếng.'"
+"I, too, shall hunt the meat that I eat, and the division of it shall be fair, so that no widow and no weak person shall cry in the night because there is no meat." | "Tôi cũng sẽ tự săn lấy thịt mình ăn, và việc chia thịt sẽ công bằng, để không một góa phụ hay người yếu đuối nào phải khóc trong đêm vì không có thịt."
+He walked out with his jaw set firmly, looking neither to the right nor to the left, while some of the hunters grumbled that the boy had forgotten his place. | Cậu bước ra ngoài, quai hàm nghiến chặt, không nhìn sang phải cũng chẳng nhìn sang trái, trong khi vài thợ săn càu nhàu rằng thằng bé đã quên mất thân phận của mình.
+The next day he went along the shore where the ice met the land, carrying his bow and his dead father's great hunting spear. | Hôm sau cậu đi dọc bờ biển, nơi băng gặp đất liền, mang theo cây cung và cây giáo săn lớn của người cha quá cố.
+There was much laughter in the village, because boys of his age never went hunting, and certainly never alone. | Cả làng được một trận cười, vì những cậu bé ở tuổi ấy không bao giờ đi săn, và hẳn nhiên chưa bao giờ đi một mình.
+"Let him go; it will teach him humility," said the hunters. "He will come back soon, gentle and quiet." | "Cứ để nó đi; như vậy nó sẽ học được sự khiêm nhường," các thợ săn nói. "Nó sẽ sớm quay về, hiền lành và im lặng."
+But a day passed, and then a second, and on the third a wild storm blew, and still there was no Keesh. | Nhưng một ngày trôi qua, rồi ngày thứ hai, và sang ngày thứ ba một cơn bão dữ dội nổi lên, mà vẫn chẳng thấy Keesh đâu.
+Ikeega was overcome with grief, and the women blamed the men for their unjust treatment of the boy, while the men prepared to search for him as soon as the storm ended. | Ikeega đau khổ tột cùng, và những người phụ nữ trách cánh đàn ông đã đối xử bất công với cậu bé, trong khi họ chuẩn bị đi tìm cậu ngay khi bão tan.
+Early the next morning, however, Keesh walked into the village carrying a heavy load of fresh meat on his shoulders, showing remarkable stamina for a boy of his age. | Thế nhưng sáng sớm hôm sau, Keesh bước vào làng, vác trên vai một tải thịt tươi nặng trĩu, cho thấy sức bền đáng nể ở một cậu bé tuổi ấy.
+"Take the dogs and sleds and follow my trail for most of a day," he said calmly. "There is much meat on the ice: a mother bear and two young ones." | "Hãy mang chó và xe trượt theo dấu tôi gần hết một ngày đường," cậu bình thản nói. "Trên băng có rất nhiều thịt: một con gấu mẹ và hai con gấu con."
+
+## A Growing Mystery | Bí ẩn ngày càng lớn
+At first the men greeted his story with disbelief, because killing a mother bear with her young is one of the most dangerous tasks a hunter can attempt. | Ban đầu những người đàn ông đón câu chuyện của cậu với vẻ hoài nghi, vì giết một con gấu mẹ cùng đàn con là một trong những việc nguy hiểm nhất mà thợ săn có thể thử.
+Some even suspected deception, and they remained skeptical until they reached the place and found the bears exactly as he had described, already prepared in true hunter's fashion so that the meat could be carried home. | Vài người còn nghi có sự lừa dối, và họ vẫn ngờ vực cho đến khi tới nơi và thấy những con gấu đúng như cậu tả, đã được sơ chế đúng kiểu thợ săn để có thể mang thịt về.
+So began the mystery of Keesh, which only grew deeper as the days passed. | Thế là bắt đầu bí ẩn về Keesh, một bí ẩn chỉ ngày càng sâu thêm theo thời gian.
+On his very next trip he killed a young bear, and on the trip after that a large male and its mate. | Ngay chuyến sau cậu hạ một con gấu non, và chuyến tiếp theo nữa là một con gấu đực lớn cùng bạn đời của nó.
+He usually stayed away three or four days, sometimes a whole week, and he always refused company. | Cậu thường vắng mặt ba bốn ngày, có khi cả tuần, và luôn từ chối có người đi cùng.
+"How does he do it?" the people asked each other. "He never even takes a dog, and dogs are such a great help." | "Nó làm thế nào vậy?" dân làng hỏi nhau. "Nó còn chẳng bao giờ mang theo chó, mà chó lại giúp ích biết bao."
+Soon there was talk of witchcraft in the village, for his success seemed inexplicable. | Chẳng mấy chốc trong làng rộ lên lời bàn tán về phép phù thủy, vì thành công của cậu có vẻ không thể giải thích nổi.
+"He hunts with evil spirits," some argued, while others suggested that the spirit of his heroic father might be guiding him. | "Nó săn cùng những linh hồn quỷ dữ," một số người khẳng định, trong khi số khác cho rằng linh hồn người cha anh hùng của cậu có thể đang dẫn đường cho cậu.
+Meanwhile, the less skillful hunters were kept busy helping to haul his meat back to the village. | Trong khi đó, những thợ săn kém cỏi hơn bận rộn giúp kéo thịt của cậu về làng.
+In the allocation of that meat he was scrupulously fair, keeping no more for himself than he needed, and making sure that the weakest received their entitlement first. | Trong việc phân chia số thịt ấy, cậu công bằng đến từng li, không giữ cho mình nhiều hơn mức cần, và bảo đảm những người yếu nhất được nhận phần của mình trước tiên.
+gloss: scrupulously
+Because of his fairness and his skill, the people held him in high esteem, and there was even talk of making him chief after old Klosh-Kwan. | Nhờ sự công bằng và tài năng ấy, dân làng hết sức kính trọng cậu, và thậm chí có người bàn chuyện tôn cậu làm tù trưởng sau ông già Klosh-Kwan.
+One day Keesh announced that he needed a large igloo for himself and his mother, but that hunting took all his time. | Một hôm Keesh tuyên bố rằng cậu cần một căn lều tuyết lớn cho mình và mẹ, nhưng việc săn bắn chiếm hết thời gian của cậu.
+"So it is only fair," he said, "that the people who eat my meat should build it for me." | "Vậy nên thật công bằng," cậu nói, "khi những người ăn thịt tôi săn được sẽ dựng nó cho tôi."
+The igloo was built accordingly, larger even than the chief's, and Ikeega, who had once been forgotten, rose to the top of the village hierarchy, so that the other women came to ask her advice. | Căn lều tuyết được dựng đúng như vậy, còn lớn hơn cả lều của tù trưởng, và Ikeega, người từng bị lãng quên, vươn lên đỉnh thứ bậc của làng, đến mức những phụ nữ khác tìm đến xin bà lời khuyên.
+
+## An Accusation | Lời buộc tội
+Yet the mystery of his remarkable hunting remained the main subject of conversation, and one day Ugh-Gluk accused him of witchcraft to his face. | Thế nhưng bí ẩn về tài săn bắn phi thường của cậu vẫn là đề tài chính trong mọi câu chuyện, và một ngày nọ Ugh-Gluk buộc tội cậu dùng phép phù thủy ngay trước mặt.
+"People say," Ugh-Gluk declared ominously, "that you deal with evil spirits, and that this is why your hunting is rewarded." | "Người ta nói," Ugh-Gluk tuyên bố bằng giọng đầy điềm gở, "rằng cậu giao du với ma quỷ, và đó là lý do việc săn bắn của cậu được đền đáp."
+"Is the meat not good?" Keesh replied with the calm of a righteous man. "Has anyone in the village fallen sick from eating it? Or do you accuse me merely because envy is eating you up?" | "Thịt không ngon sao?" Keesh đáp với vẻ bình thản của người ngay thẳng. "Có ai trong làng bị ốm vì ăn nó chưa? Hay ông buộc tội tôi chỉ vì lòng đố kỵ đang gặm nhấm ông?"
+Defeated, Ugh-Gluk walked away while the women laughed at him. | Thua trận, Ugh-Gluk bỏ đi trong khi những người phụ nữ cười nhạo ông.
+Even so, the council met and, after long discussion, decided to send two spies to follow Keesh discreetly and learn his methods. | Dù vậy, hội đồng vẫn họp và, sau một hồi bàn bạc dài, quyết định cử hai người do thám kín đáo bám theo Keesh để tìm hiểu cách săn của cậu.
+The two young men chosen for this reconnaissance, Bim and Bawn, were the most skillful trackers in the village, and they took great care not to be seen. | Hai chàng trai được chọn cho chuyến trinh sát này, Bim và Bawn, là những người lần dấu giỏi nhất làng, và họ hết sức cẩn thận để không bị phát hiện.
+gloss: trackers
+Five days later they returned, their eyes wide and their tongues eager to tell what they had witnessed. | Năm ngày sau họ trở về, mắt mở to và lưỡi nóng lòng muốn kể những gì đã chứng kiến.
+The council was called at once in the chief's igloo, and every man crowded in to listen. | Hội đồng lập tức được triệu tập trong lều của tù trưởng, và mọi người đàn ông chen nhau vào nghe.
+
+## What the Spies Saw | Những gì người do thám thấy
+"Brothers," began Bim, "on the first day Keesh came upon a great male bear, the biggest we had ever seen." | "Hỡi anh em," Bim bắt đầu, "ngay ngày đầu Keesh gặp một con gấu đực khổng lồ, con lớn nhất mà chúng tôi từng thấy."
+"The bear did not want to fight and turned away, but Keesh followed it fearlessly, shouting and waving his arms until it grew angry and rose up on its back legs." | "Con gấu không muốn đánh nhau và quay đi, nhưng Keesh không hề sợ hãi bám theo nó, la hét và vẫy tay cho đến khi nó nổi giận và đứng dậy trên hai chân sau."
+"Then the bear came after him, and Keesh ran away," continued Bawn, "but as he ran he dropped little round balls on the ice, and the bear stopped, smelled them and swallowed them." | "Rồi con gấu đuổi theo cậu ấy, và Keesh bỏ chạy," Bawn tiếp lời, "nhưng vừa chạy cậu vừa thả những viên tròn nhỏ xuống băng, và con gấu dừng lại, ngửi rồi nuốt chúng."
+The listeners cried out in disbelief, and old Ugh-Gluk, still skeptical, openly declared that the story was impossible. | Những người nghe kêu lên đầy hoài nghi, và lão Ugh-Gluk, vẫn ngờ vực, công khai tuyên bố câu chuyện là không thể có.
+"We saw it with our own eyes," insisted Bim. "Soon the bear began to behave strangely, as if something inside it was troubling it, and Keesh moved away to a safe distance." | "Chúng tôi tận mắt thấy," Bim khăng khăng. "Chẳng bao lâu con gấu bắt đầu cư xử kỳ lạ, như thể có thứ gì bên trong đang hành hạ nó, và Keesh lùi ra một khoảng cách an toàn."
+"It was a charm," muttered Ugh-Gluk. "Surely it was witchcraft." | "Đó là bùa phép," Ugh-Gluk lẩm bẩm. "Chắc chắn là phép phù thủy."
+"I tell only what my eyes saw," replied Bawn. "The bear grew weaker and weaker, and for four days it wandered in circles while Keesh followed it with relentless patience, and we followed Keesh." | "Tôi chỉ kể những gì mắt tôi thấy," Bawn đáp. "Con gấu yếu dần, yếu dần, và suốt bốn ngày nó lang thang vòng vòng trong khi Keesh bám theo nó với lòng kiên nhẫn không ngừng nghỉ, còn chúng tôi bám theo Keesh."
+"At last it was so weak that it could go no further, and Keesh came close and finished the hunt with his spear." | "Cuối cùng nó yếu đến mức không đi nổi nữa, và Keesh tiến lại gần, kết thúc cuộc săn bằng cây giáo của mình."
+That afternoon the women hauled the bear's meat into the village while the men sat in council and sent a messenger to Keesh, asking him to come before them. | Chiều hôm đó những người phụ nữ kéo thịt gấu về làng trong khi đàn ông ngồi họp hội đồng và sai một người đưa tin đến gặp Keesh, mời cậu đến trình diện.
+But Keesh replied that he was hungry and tired, and that his igloo was large and comfortable and could hold many men. | Nhưng Keesh trả lời rằng cậu đói và mệt, và rằng lều của cậu rộng rãi, tiện nghi, có thể chứa nhiều người.
+
+## Cleverness, Not Witchcraft | Trí khôn, không phải phép phù thủy
+Their curiosity was so strong that the whole council, led by Klosh-Kwan, rose and went to the igloo of Keesh. | Sự tò mò của họ mạnh đến mức cả hội đồng, do Klosh-Kwan dẫn đầu, đứng dậy kéo đến lều của Keesh.
+He was eating, but he received them respectfully and, with perfect poise, seated them according to their rank, while Ikeega was proud and embarrassed by turns. | Cậu đang ăn, nhưng vẫn tiếp họ một cách kính cẩn và, với phong thái hoàn toàn điềm tĩnh, mời họ ngồi theo đúng thứ bậc, trong khi Ikeega lúc thì tự hào, lúc lại bối rối.
+"An explanation is wanted, Keesh, of your manner of hunting," said Klosh-Kwan sternly. "Is there witchcraft in it?" | "Chúng ta cần một lời giải thích, Keesh, về cách săn của cậu," Klosh-Kwan nghiêm giọng nói. "Trong đó có phép phù thủy không?"
+Keesh looked up and smiled. "No, Klosh-Kwan. I know nothing of magic. I have merely invented a mechanism by which a bear may be hunted easily. It is cleverness, not witchcraft." | Keesh ngước lên mỉm cười. "Không, thưa Klosh-Kwan. Tôi chẳng biết gì về phép thuật. Tôi chỉ nghĩ ra một cơ chế giúp săn gấu dễ dàng. Đó là trí khôn, không phải phép phù thủy."
+"And can any man do it?" | "Và bất kỳ ai cũng làm được sao?"
+"Any man." | "Bất kỳ ai."
+There was a long silence, and the men looked at one another while Keesh went on eating. | Một sự im lặng kéo dài, những người đàn ông nhìn nhau trong khi Keesh vẫn tiếp tục ăn.
+"And will you tell us, Keesh?" asked Klosh-Kwan at last, his voice trembling. | "Và cậu sẽ cho chúng ta biết chứ, Keesh?" cuối cùng Klosh-Kwan hỏi, giọng run run.
+"Yes, I will tell you. It is quite simple." | "Vâng, tôi sẽ cho các ông biết. Đơn giản lắm."
+He picked up a thin strip of whalebone with ends as sharp as needles, rolled it up tightly until it disappeared in his hand, and then released it, so that it sprang straight again. | Cậu nhặt một mảnh tấm sừng hàm cá voi mỏng có hai đầu nhọn như kim, cuộn chặt nó lại cho đến khi nó biến mất trong lòng bàn tay, rồi buông ra, khiến nó bật thẳng trở lại.
+"You hide the rolled whalebone inside a small piece of fat and leave it outside, where it freezes into a little round ball," he explained. | "Ta giấu tấm sừng cá voi đã cuộn vào trong một miếng mỡ nhỏ rồi để ra ngoài, nơi nó đông cứng thành một viên tròn nhỏ," cậu giải thích.
+"The bear swallows the ball, the fat melts, the whalebone springs straight, and the bear becomes sick and weak, so that even a boy can finish the hunt." | "Con gấu nuốt viên ấy, mỡ tan ra, tấm sừng cá voi bật thẳng, và con gấu trở nên ốm yếu, đến mức ngay cả một cậu bé cũng có thể kết thúc cuộc săn."
+Then old Ugh-Gluk said "Oh" and Klosh-Kwan said "Ah", and each of them, in his own way, understood the ingenuity of the ploy. | Rồi lão Ugh-Gluk thốt lên "Ồ" và Klosh-Kwan thốt lên "À", và mỗi người, theo cách của mình, đều hiểu ra sự tài tình của mưu kế ấy.
+Keesh received their praise with humility, for he knew that a sharp mind can be a more powerful weapon than a strong arm. | Keesh đón nhận lời khen của họ với sự khiêm nhường, vì cậu biết rằng một trí óc sắc sảo có thể là vũ khí mạnh hơn một cánh tay khỏe.
+Because he used cleverness rather than witchcraft, Keesh rose from the poorest igloo to become a dauntless hunter and head of his village, and for all the years of his life, it is said, the allocation of meat was always fair, and no widow and no weak person cried in the night for lack of meat. | Vì dùng trí khôn chứ không phải phép phù thủy, Keesh đã vươn lên từ căn lều nghèo nhất để thành một thợ săn gan dạ và trưởng làng, và người ta kể rằng suốt những năm ông còn sống, việc chia thịt luôn công bằng, không một góa phụ hay người yếu đuối nào phải khóc trong đêm vì thiếu thịt.

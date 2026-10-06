@@ -1,0 +1,185 @@
+// Bài đọc C1 tự biên soạn (đợt 6, 10/2026), lượt 4: bài "thuật ngữ then chốt" theo chuyên ngành, mỗi câu giải thích một hai
+// thuật ngữ C1 chưa gặp — tài chính cá nhân, tin học, y khoa, luật và nhà nước, tâm lý học, sinh thái học.
+=== rd-c1-key-terms-in-personal-finance
+title: Key Terms in Personal Finance | Thuật ngữ then chốt về tài chính cá nhân
+topic: economics
+genre: explanation
+
+Many people make expensive mistakes with money simply because they do not understand the vocabulary that banks and financial companies use. | Nhiều người mắc những sai lầm tốn kém về tiền bạc chỉ vì không hiểu vốn từ mà ngân hàng và các công ty tài chính sử dụng.
+Here are some of the most important terms, explained in plain language. | Dưới đây là một số thuật ngữ quan trọng nhất, được giải thích bằng ngôn ngữ dễ hiểu.
+
+A lender is any person or institution that lends money, and the borrower usually repays the loan in regular installments, each of which includes part of the original sum and part of the interest. | Bên cho vay là bất kỳ cá nhân hay tổ chức nào cho vay tiền, và người vay thường trả nợ theo các kỳ đều đặn, mỗi kỳ gồm một phần tiền gốc và một phần tiền lãi.
+If a homeowner cannot keep up the repayments on a mortgage, the bank may begin foreclosure, taking possession of the house to recover its money. | Nếu chủ nhà không theo kịp các khoản trả nợ thế chấp, ngân hàng có thể bắt đầu thủ tục tịch thu, chiếm hữu căn nhà để thu hồi tiền.
+An overdraft allows you to spend more than you have in your current account, but the charges are often high, so it should be used only in emergencies. | Hạn mức thấu chi cho phép bạn tiêu nhiều hơn số tiền có trong tài khoản vãng lai, nhưng phí thường cao, nên chỉ nên dùng khi khẩn cấp.
+
+Companies use their own vocabulary too. | Các công ty cũng có vốn từ riêng.
+An invoice is a document requesting payment, and it usually states the amount payable and the date by which it must be paid. | Hóa đơn là chứng từ yêu cầu thanh toán, và thường ghi số tiền phải trả cùng hạn chót thanh toán.
+A company's payroll is the list of employees and the wages they receive, while its expenditure includes everything it spends, from rent to raw materials. | Bảng lương của công ty là danh sách nhân viên và tiền lương họ nhận, còn chi tiêu của công ty gồm mọi khoản chi, từ tiền thuê đến nguyên liệu thô.
+The mark-up is the amount added to the cost of a product to produce its selling price, and a cost-effective solution is one that achieves good results for a reasonable price. | Phần chênh giá là khoản cộng thêm vào chi phí của sản phẩm để ra giá bán, còn một giải pháp hiệu quả về chi phí là giải pháp đạt kết quả tốt với mức giá hợp lý.
+
+Investors face a further set of terms. | Nhà đầu tư còn đối mặt với một loạt thuật ngữ khác.
+Liquidity describes how easily an asset can be turned into cash: money in a savings account is highly liquid, whereas a house is not. | Tính thanh khoản mô tả mức độ dễ dàng chuyển một tài sản thành tiền mặt: tiền trong tài khoản tiết kiệm có tính thanh khoản cao, còn một căn nhà thì không.
+gloss: asset, liquid
+Volatility measures how sharply prices go up and down, and highly volatile investments can produce large gains or painful losses. | Độ biến động đo mức giá lên xuống mạnh đến đâu, và những khoản đầu tư biến động mạnh có thể mang lại lãi lớn hoặc lỗ đau đớn.
+Investors who borrow money to increase the size of their bets are using leverage, which multiplies both profits and risks. | Nhà đầu tư vay tiền để tăng quy mô khoản đặt cược của mình là đang dùng đòn bẩy tài chính, thứ nhân lên cả lợi nhuận lẫn rủi ro.
+A derivative is a contract whose value depends on something else, such as the price of oil or a currency, and the aggregate value of such contracts worldwide is enormous. | Công cụ phái sinh là một hợp đồng có giá trị phụ thuộc vào thứ khác, như giá dầu hay một đồng tiền, và tổng giá trị các hợp đồng như vậy trên toàn thế giới là khổng lồ.
+
+Finally, governments influence our finances through taxation. | Cuối cùng, chính phủ tác động đến tài chính của chúng ta qua việc đánh thuế.
+A tariff is a tax on imported goods, which raises prices for consumers but may protect local industries, while an exemption frees certain people or activities from a tax that others must pay. | Thuế quan là thuế đánh vào hàng nhập khẩu, làm tăng giá với người tiêu dùng nhưng có thể bảo vệ ngành sản xuất trong nước, còn sự miễn trừ giúp một số người hay hoạt động khỏi phải nộp loại thuế mà người khác phải nộp.
+Before signing any financial agreement, read the small print carefully, ask what every unfamiliar term means and, if a deal seems too good to be true, assume that it probably is. | Trước khi ký bất kỳ thỏa thuận tài chính nào, hãy đọc kỹ phần chữ nhỏ, hỏi rõ nghĩa của mọi thuật ngữ lạ và, nếu một thương vụ có vẻ quá tốt để là thật, hãy cho rằng có lẽ đúng là như vậy.
+
+=== rd-c1-key-terms-in-computing
+title: Key Terms in Computing | Thuật ngữ then chốt về tin học
+topic: technology
+genre: explanation
+
+Computers are part of almost everything we do, yet their vocabulary can still feel like a foreign language. | Máy tính có mặt trong gần như mọi việc ta làm, thế nhưng vốn từ của nó vẫn có thể như một ngoại ngữ.
+This short guide explains some terms that every confident user should know. | Cẩm nang ngắn này giải thích một số thuật ngữ mà mọi người dùng tự tin đều nên biết.
+
+At the most basic level, computers store all information in binary form, as long sequences of ones and zeros, and every image on a screen is made of thousands of tiny dots called pixels. | Ở mức cơ bản nhất, máy tính lưu mọi thông tin dưới dạng nhị phân, như những chuỗi dài các số một và số không, và mỗi hình ảnh trên màn hình được tạo từ hàng nghìn điểm nhỏ gọi là điểm ảnh.
+gloss: sequences
+Older devices such as vinyl records and cassette players were analog, recording sound as a continuous signal rather than as numbers. | Những thiết bị cũ như đĩa than và máy cát-xét là thiết bị tương tự, ghi âm thanh dưới dạng tín hiệu liên tục chứ không phải bằng các con số.
+gloss: cassette
+Programmers write instructions in languages with strict syntax, and a single misplaced symbol can stop a program from working. | Lập trình viên viết lệnh bằng những ngôn ngữ có cú pháp chặt chẽ, và chỉ một ký hiệu đặt sai chỗ có thể khiến chương trình ngừng hoạt động.
+gloss: misplaced
+
+Networks have their own terms. | Mạng máy tính có thuật ngữ riêng.
+A router directs data between devices and the internet, and each device on a network is known as a node. | Bộ định tuyến điều hướng dữ liệu giữa các thiết bị và internet, và mỗi thiết bị trong mạng được gọi là một nút.
+Bandwidth is the amount of data that can be transmitted in a given time, which is why a video call may freeze when too many people in a house are streaming films. | Băng thông là lượng dữ liệu có thể truyền đi trong một khoảng thời gian nhất định, đó là lý do một cuộc gọi video có thể bị đơ khi quá nhiều người trong nhà đang xem phim trực tuyến.
+gloss: streaming
+A browser keeps a cache, a temporary store of recently visited pages, so that they load faster the next time, and clearing it can solve many mysterious problems. | Trình duyệt giữ một bộ nhớ đệm, kho tạm lưu những trang vừa truy cập, để lần sau tải nhanh hơn, và xóa nó có thể giải quyết nhiều trục trặc bí ẩn.
+
+Security vocabulary is essential today. | Vốn từ về bảo mật ngày nay là thiết yếu.
+A firewall blocks unauthorized connections, encryption scrambles data so that only the intended recipient can read it, and malware is any software designed to cause harm, from viruses to programs that spy on your activity. | Tường lửa chặn các kết nối trái phép, mã hóa xáo trộn dữ liệu để chỉ người nhận được chỉ định đọc được, và phần mềm độc hại là bất kỳ phần mềm nào được thiết kế để gây hại, từ virus đến những chương trình theo dõi hoạt động của bạn.
+gloss: scrambles, recipient
+Some trackers record which websites you visit in order to show you targeted advertisements, and many browsers now allow you to block them. | Một số công cụ theo dõi ghi lại những trang web bạn truy cập để hiển thị quảng cáo nhắm mục tiêu, và nhiều trình duyệt giờ cho phép bạn chặn chúng.
+
+Finally, a few everyday terms. | Cuối cùng là vài thuật ngữ thường ngày.
+The interface is everything you see and touch when you use a program, and its layout is the arrangement of buttons, menus and tabs on the screen. | Giao diện là mọi thứ bạn thấy và chạm vào khi dùng một chương trình, và bố cục của nó là cách sắp xếp các nút, trình đơn và thẻ trên màn hình.
+A template is a ready-made design that you can fill with your own content, and a module is a self-contained part of a larger program that can be added or removed. | Mẫu dựng sẵn là thiết kế có sẵn mà bạn có thể điền nội dung của mình vào, còn mô-đun là một phần độc lập của một chương trình lớn hơn có thể thêm vào hay gỡ bỏ.
+When a computer behaves strangely, the oldest advice in the business is still often the best: save your work, shut it down completely and reboot. | Khi máy tính cư xử lạ, lời khuyên lâu đời nhất trong nghề vẫn thường là tốt nhất: lưu công việc, tắt máy hoàn toàn rồi khởi động lại.
+
+=== rd-c1-key-terms-in-medicine
+title: Key Terms in Medicine | Thuật ngữ then chốt trong y khoa
+topic: health
+genre: explanation
+
+Doctors often use specialized vocabulary that can make patients feel confused or anxious. | Bác sĩ thường dùng vốn từ chuyên môn có thể khiến bệnh nhân bối rối hay lo lắng.
+Knowing a few key terms can make conversations with health professionals much easier and help you to ask the right questions. | Biết vài thuật ngữ then chốt có thể khiến các cuộc trò chuyện với người làm nghề y dễ dàng hơn nhiều và giúp bạn đặt đúng câu hỏi.
+
+Medical students begin with anatomy, the study of the structure of the body, and physiology, which explains how its parts work. | Sinh viên y khoa bắt đầu với giải phẫu học, môn nghiên cứu cấu trúc cơ thể, và sinh lý học, môn giải thích cách các bộ phận hoạt động.
+gloss: physiology
+Many terms simply name a part of the body: cardiac refers to the heart, pulmonary to the lungs, renal to the kidneys and vascular to the blood vessels. | Nhiều thuật ngữ chỉ đơn giản gọi tên một bộ phận cơ thể: tim là "cardiac", phổi là "pulmonary", thận là "renal" và mạch máu là "vascular".
+gloss: kidneys, vessels
+Abdominal pain is pain in the stomach area, which may come from the bowel or other organs, and a spinal injury affects the column of bones that protects the nerves of the back. | Đau bụng là cơn đau ở vùng bụng, có thể xuất phát từ ruột hay các cơ quan khác, còn chấn thương cột sống ảnh hưởng đến cột xương bảo vệ dây thần kinh ở lưng.
+gloss: organs, nerves
+
+When something goes wrong, a diagnostic test helps to identify the cause. | Khi có điều gì bất ổn, xét nghiệm chẩn đoán giúp xác định nguyên nhân.
+An ultrasound scan uses sound waves to create images of the inside of the body, and it is commonly used during pregnancy because it involves no radiation. | Siêu âm dùng sóng âm để tạo hình ảnh bên trong cơ thể, và thường được dùng khi mang thai vì không có bức xạ.
+Pathology is the study of disease, and a pathologist may examine a sample of tissue under a microscope to decide whether a tumor is benign, meaning that it will not spread, or dangerous. | Bệnh lý học là môn nghiên cứu bệnh tật, và nhà bệnh lý học có thể kiểm tra một mẫu mô dưới kính hiển vi để xác định khối u lành tính, nghĩa là sẽ không lan rộng, hay nguy hiểm.
+gloss: pathologist, tissue, tumor
+When the cause of a death is unclear, an autopsy may be carried out to establish what happened. | Khi nguyên nhân tử vong chưa rõ, có thể tiến hành khám nghiệm tử thi để xác định chuyện gì đã xảy ra.
+
+Treatment brings another set of terms. | Việc điều trị mang theo một loạt thuật ngữ khác.
+The dosage is the amount of a medicine to be taken and how often, while an overdose is a dangerous excess. | Liều lượng là lượng thuốc cần dùng và tần suất dùng, còn quá liều là sự vượt mức nguy hiểm.
+The efficacy of a treatment is how well it works under ideal conditions, which is tested in carefully controlled trials before a drug is approved. | Hiệu lực của một phương pháp điều trị là mức độ hiệu quả của nó trong điều kiện lý tưởng, được kiểm nghiệm qua những thử nghiệm kiểm soát chặt chẽ trước khi một loại thuốc được phê duyệt.
+A pediatric specialist treats children, and a disease that runs in families is described as hereditary, usually because of a mutation in a particular gene. | Bác sĩ chuyên khoa nhi chữa bệnh cho trẻ em, và một căn bệnh di truyền trong gia đình được gọi là bệnh di truyền, thường do đột biến ở một gen nhất định.
+gloss: gene
+Some viruses remain dormant in the body for years before causing symptoms, and a patient whose illness returns after a period of improvement has suffered a relapse. | Một số virus nằm im trong cơ thể nhiều năm rồi mới gây triệu chứng, và người bệnh có bệnh quay lại sau một giai đoạn cải thiện là đã bị tái phát.
+gloss: symptoms
+
+Never be embarrassed to ask a doctor to explain a word you do not understand. | Đừng bao giờ ngại nhờ bác sĩ giải thích một từ bạn không hiểu.
+Good doctors are happy to use plain language, and patients who understand their condition are more likely to follow their treatment correctly. | Bác sĩ giỏi luôn sẵn lòng dùng ngôn ngữ đơn giản, và những người bệnh hiểu rõ tình trạng của mình có nhiều khả năng tuân thủ đúng việc điều trị hơn.
+
+=== rd-c1-key-terms-in-law-and-government
+title: Key Terms in Law and Government | Thuật ngữ then chốt về luật và nhà nước
+topic: society
+genre: explanation
+
+News reports about courts and parliaments are full of technical vocabulary that many readers find hard to follow. | Bản tin về tòa án và quốc hội đầy những từ chuyên môn mà nhiều độc giả thấy khó theo dõi.
+Here is a short guide to some of the most common terms. | Đây là một cẩm nang ngắn về một số thuật ngữ phổ biến nhất.
+
+Laws passed by parliament are known as statutes, and a duty that is statutory is required by law rather than simply recommended. | Luật do quốc hội thông qua được gọi là đạo luật, và một nghĩa vụ theo luật định là nghĩa vụ bắt buộc theo pháp luật chứ không chỉ được khuyến nghị.
+Parliament can enact a new law or repeal an old one, and courts decide how laws apply in particular cases, often following a precedent set by an earlier judgment. | Quốc hội có thể ban hành luật mới hay bãi bỏ luật cũ, còn tòa án quyết định luật được áp dụng ra sao trong từng vụ việc, thường theo một án lệ do một phán quyết trước đó đặt ra.
+gloss: judgment
+When a government body exceeds its legal powers, its action may be declared unlawful, and the courts may issue an injunction ordering it to stop. | Khi một cơ quan nhà nước vượt quá quyền hạn pháp lý, hành động của nó có thể bị tuyên là trái pháp luật, và tòa án có thể ban hành lệnh cấm buộc nó dừng lại.
+
+In criminal law, a formal charge against a suspect in a serious case is called an indictment, and a homicide is the killing of one person by another, whether intentional or not. | Trong luật hình sự, cáo trạng chính thức đối với một nghi phạm trong vụ việc nghiêm trọng được gọi là bản cáo trạng, và án mạng là việc một người giết chết người khác, dù cố ý hay không.
+Bribery means offering money or favors to influence an official, extortion means obtaining money through threats, and collusion is a secret agreement between people who should be competing or acting independently. | Hối lộ là đưa tiền hay đặc ân để tác động đến một quan chức, tống tiền là lấy tiền bằng đe dọa, còn thông đồng là thỏa thuận bí mật giữa những người lẽ ra phải cạnh tranh hay hành động độc lập.
+gloss: favors
+Illicit goods are those that are illegal to sell or possess, such as smuggled weapons or drugs. | Hàng hóa bất hợp pháp là những thứ bán hay sở hữu là phạm luật, như vũ khí hay ma túy nhập lậu.
+gloss: smuggled
+
+Civil law deals with disputes between individuals or organizations. | Luật dân sự giải quyết tranh chấp giữa các cá nhân hay tổ chức.
+The person who brings a case is the plaintiff, the process of taking a dispute to court is called litigation, and someone who has caused harm through carelessness may be found guilty of negligence. | Người khởi kiện là nguyên đơn, quá trình đưa tranh chấp ra tòa gọi là kiện tụng, và người gây thiệt hại do bất cẩn có thể bị kết luận là tắc trách.
+Because litigation is slow and expensive, many contracts require disputes to be settled by arbitration, in which an independent expert makes a binding decision outside the courts. | Vì kiện tụng chậm và tốn kém, nhiều hợp đồng yêu cầu giải quyết tranh chấp bằng trọng tài, trong đó một chuyên gia độc lập đưa ra quyết định có tính ràng buộc bên ngoài tòa án.
+gloss: binding
+Special tribunals hear particular kinds of cases, such as disputes between employers and employees or appeals against immigration decisions. | Các tòa án đặc biệt xét xử những loại vụ việc nhất định, như tranh chấp giữa người sử dụng lao động và người lao động hay kháng cáo quyết định về nhập cư.
+
+International law has its own vocabulary. | Luật quốc tế có vốn từ riêng.
+Sovereignty is a state's right to govern itself without outside interference, and the annexation of territory by force is considered illegal under international law. | Chủ quyền là quyền tự quản của một quốc gia không có sự can thiệp từ bên ngoài, và việc sáp nhập lãnh thổ bằng vũ lực bị coi là bất hợp pháp theo luật quốc tế.
+Countries may impose sanctions on a government that breaks international rules, and they may grant exemptions to allow food and medicine to continue to reach ordinary people. | Các quốc gia có thể áp đặt lệnh trừng phạt lên một chính phủ vi phạm luật lệ quốc tế, và có thể cho phép miễn trừ để lương thực và thuốc men vẫn đến được với người dân thường.
+Understanding these terms will not make anyone a lawyer, but it will make the news far easier to follow. | Hiểu những thuật ngữ này sẽ không biến ai thành luật sư, nhưng sẽ giúp theo dõi tin tức dễ dàng hơn nhiều.
+
+=== rd-c1-key-terms-in-psychology
+title: Key Terms in Psychology | Thuật ngữ then chốt trong tâm lý học
+topic: psychology
+genre: explanation
+
+Psychology has given everyday language many of its most popular words, yet they are often used loosely or incorrectly. | Tâm lý học đã đem lại cho ngôn ngữ thường ngày nhiều từ thông dụng nhất, thế nhưng chúng thường bị dùng lỏng lẻo hoặc sai.
+Here are some key terms and what they actually mean. | Dưới đây là một số thuật ngữ then chốt và nghĩa thực sự của chúng.
+
+Behavioral psychologists study how people respond to stimuli, the signals from the environment that trigger a reaction. | Các nhà tâm lý học hành vi nghiên cứu cách con người phản ứng với các kích thích, những tín hiệu từ môi trường gây ra phản ứng.
+gloss: trigger
+A reflex is an automatic response that happens without conscious thought, such as blinking when something approaches the eye. | Phản xạ là phản ứng tự động xảy ra không qua suy nghĩ có ý thức, như chớp mắt khi có vật đến gần mắt.
+Socialization is the process by which children learn the norms, values and habits of their society, and conformity is the tendency to adjust one's behavior to match that of a group. | Xã hội hóa là quá trình trẻ em học các chuẩn mực, giá trị và thói quen của xã hội mình, còn sự tuân thủ là xu hướng điều chỉnh hành vi cho khớp với nhóm.
+gloss: norms
+Altruism is unselfish concern for others, and psychologists still debate whether purely altruistic behavior really exists or whether we always gain something in return. | Lòng vị tha là sự quan tâm không vụ lợi đến người khác, và các nhà tâm lý học vẫn tranh luận liệu hành vi vị tha thuần túy có thực sự tồn tại hay ta luôn nhận được điều gì đó đáp lại.
+
+Several popular terms describe aspects of personality and self-image. | Nhiều thuật ngữ phổ biến mô tả các khía cạnh của tính cách và hình ảnh bản thân.
+A person's psyche is their mind and character as a whole, and their mentality is their typical way of thinking, as in "a winning mentality". | Tâm hồn của một người là trí óc và tính cách nói chung, còn não trạng là lối nghĩ đặc trưng của họ, như trong "não trạng của người chiến thắng".
+Self-worth is the value people place on themselves, and those who suffer from insecurity may feel anxious about how others see them, becoming self-conscious in social situations. | Giá trị bản thân là giá trị con người tự đặt cho mình, và những người mang cảm giác bất an có thể lo lắng về cách người khác nhìn mình, trở nên ngượng ngùng trong các tình huống xã hội.
+A temperamental person has moods that change quickly and unpredictably. | Một người tính khí thất thường có tâm trạng thay đổi nhanh và khó đoán.
+
+Clinical terms are often misused. | Các thuật ngữ lâm sàng thường bị dùng sai.
+gloss: clinical
+People casually describe themselves as "a bit paranoid" or "obsessive", but in medicine paranoid thinking involves a serious and unfounded belief that others intend harm, and a compulsion is an irresistible urge to repeat an action. | Người ta thường tự nhận mình "hơi hoang tưởng" hay "ám ảnh", nhưng trong y học, suy nghĩ hoang tưởng là niềm tin nghiêm trọng và vô căn cứ rằng người khác muốn hại mình, và sự cưỡng chế là thôi thúc không cưỡng lại được buộc lặp lại một hành động.
+gloss: unfounded, urge
+A delusional belief is one that a person holds firmly despite clear evidence that it is false. | Niềm tin ảo tưởng là niềm tin mà một người giữ vững bất chấp bằng chứng rõ ràng rằng nó sai.
+Bipolar disorder involves extreme swings between high and low moods, while schizophrenia is a serious condition that affects how a person thinks and perceives reality; neither has anything to do with having a "split personality". | Rối loạn lưỡng cực gồm những dao động cực đoan giữa tâm trạng hưng phấn và trầm uất, còn tâm thần phân liệt là một chứng bệnh nghiêm trọng ảnh hưởng đến cách một người suy nghĩ và nhận thức thực tại; không chứng nào liên quan đến "đa nhân cách".
+gloss: swings, split personality
+
+Using these words accurately is more than a matter of style. | Dùng những từ này chính xác không chỉ là vấn đề văn phong.
+Careless language can trivialize real suffering and increase the stigma that discourages people from seeking help. | Ngôn ngữ cẩu thả có thể xem nhẹ nỗi khổ thực sự và làm tăng sự kỳ thị khiến người ta ngại tìm kiếm sự giúp đỡ.
+gloss: trivialize
+
+=== rd-c1-key-terms-in-ecology
+title: Key Terms in Ecology | Thuật ngữ then chốt trong sinh thái học
+topic: nature
+genre: explanation
+
+Ecology is the study of how living things interact with each other and with their environment. | Sinh thái học là ngành nghiên cứu cách sinh vật tương tác với nhau và với môi trường của chúng.
+As environmental issues dominate the news, its vocabulary has become part of everyday debate, so it is worth understanding some of its basic terms. | Khi các vấn đề môi trường chiếm lĩnh tin tức, vốn từ của nó đã trở thành một phần của những cuộc tranh luận thường ngày, nên đáng để hiểu một số thuật ngữ cơ bản.
+
+Biodiversity refers to the variety of life in a particular place, from bacteria to large mammals, and scientists group related species into larger categories, such as the genus. | Đa dạng sinh học chỉ sự phong phú của sự sống ở một nơi nhất định, từ vi khuẩn đến các loài thú lớn, và các nhà khoa học nhóm những loài có quan hệ gần vào những bậc lớn hơn, như chi.
+gloss: bacteria, mammals, species
+Animals that hunt are predators, and the animals they hunt are their prey, while a parasite lives on or inside another organism and benefits at its expense. | Những động vật săn mồi là thú săn mồi, những con bị săn là con mồi, còn ký sinh trùng sống trên hay trong một sinh vật khác và hưởng lợi trên tổn thất của sinh vật ấy.
+gloss: predators, organism
+An invasive species is one introduced to a new area, often by humans, where it spreads rapidly and harms native wildlife, as rabbits did in Australia. | Loài xâm lấn là loài được đưa đến một vùng mới, thường do con người, nơi nó lan nhanh và gây hại cho động vật bản địa, như loài thỏ đã làm ở Úc.
+names: Australia
+
+Many terms describe how organisms cope with the seasons. | Nhiều thuật ngữ mô tả cách sinh vật thích nghi với các mùa.
+Some birds migrate thousands of kilometers each year, while bears and hedgehogs hibernate, slowing their bodies down to survive the winter, and some seeds remain dormant in the soil for years until conditions are right. | Một số loài chim di cư hàng nghìn kilômét mỗi năm, trong khi gấu và nhím ngủ đông, làm chậm cơ thể để sống qua mùa đông, và một số hạt giống nằm im trong đất nhiều năm cho đến khi điều kiện thích hợp.
+Nocturnal animals, such as owls and many bats, are active at night, whereas aquatic species live in water and terrestrial ones on land. | Động vật sống về đêm, như cú và nhiều loài dơi, hoạt động ban đêm, trong khi các loài thủy sinh sống dưới nước và các loài trên cạn sống trên đất liền.
+gloss: owls, bats
+A perennial plant lives for several years, its foliage changes with the seasons, and in a rainforest the canopy, the dense upper layer of leaves, is home to a large share of all species. | Cây lâu năm sống nhiều năm, tán lá thay đổi theo mùa, và trong rừng mưa nhiệt đới, tầng tán, lớp lá dày phía trên, là nơi sinh sống của một phần lớn các loài.
+
+Other terms describe how ecosystems are damaged. | Các thuật ngữ khác mô tả cách hệ sinh thái bị tổn hại.
+gloss: ecosystems
+Runoff is rainwater that flows over the land into rivers, often carrying fertilizer and pesticides from farms, which can cause algae to grow out of control. | Nước chảy tràn là nước mưa chảy trên mặt đất vào sông, thường mang theo phân bón và thuốc trừ sâu từ nông trại, có thể khiến tảo phát triển mất kiểm soát.
+gloss: pesticides
+Erosion is the gradual removal of soil by wind and water, and it accelerates when trees are cut down and roots no longer hold the ground together. | Xói mòn là sự cuốn trôi dần đất do gió và nước, và nó tăng tốc khi cây bị chặt và rễ không còn giữ đất lại.
+Pollen carried by bees and other insects allows plants to reproduce, which is why declining insect numbers alarm scientists. | Phấn hoa do ong và các loài côn trùng khác mang đi giúp thực vật sinh sản, đó là lý do số lượng côn trùng suy giảm khiến các nhà khoa học lo ngại.
+
+Sustainability, perhaps the most widely used term of all, means meeting our present needs without damaging the ability of future generations to meet theirs. | Tính bền vững, có lẽ là thuật ngữ được dùng rộng rãi nhất, nghĩa là đáp ứng nhu cầu hiện tại mà không làm tổn hại khả năng đáp ứng nhu cầu của các thế hệ tương lai.
+It is easy to say and very hard to achieve, but understanding the vocabulary of ecology is a useful first step. | Nói thì dễ mà đạt được thì rất khó, nhưng hiểu vốn từ của sinh thái học là bước đầu hữu ích.

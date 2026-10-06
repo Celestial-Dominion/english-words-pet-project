@@ -1,0 +1,72 @@
+// Truyện C1 phỏng theo nguồn mở (đợt 6): O. Henry, "Two Thanksgiving Day Gentlemen", The Trimmed Lamp (1907) — phạm vi
+// công cộng, bản Standard Ebooks trên GitHub (standardebooks/o-henry_short-fiction). Kể lại theo cấp C1 thành 5 chương;
+// bỏ đoạn mở đầu đùa về chính trị và các câu nói giọng lóng của bồi bàn; giữ nguyên kết truyện.
+=== st-c1-two-thanksgiving-day-gentlemen
+title: Two Thanksgiving Day Gentlemen | Hai quý ông ngày Lễ Tạ ơn
+topic: culture
+summary: Suốt chín năm, cứ trưa Lễ Tạ ơn, một ông lão quý phái lại tìm gã nghèo Stuffy Pete ở ghế đá quảng trường và đãi gã một bữa thịnh soạn — một "truyền thống" ông nâng niu. Năm nay Pete vừa được hai bà lão nhà giàu cho ăn no căng, nhưng vẫn ra ghế vì bổn phận; còn ông lão giấu một bí mật chỉ lộ ra ở bệnh viện.
+names: Stuffy Pete, Stuffy, Pete, Americans, Old World
+gloss: oysters
+source: Two Thanksgiving Day Gentlemen | O. Henry, The Trimmed Lamp (1907), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/o-henry_short-fiction
+
+## A Tradition in the Making | Một truyền thống đang hình thành
+There is one day in the year that belongs to Americans alone: Thanksgiving, when families gather to eat turkey, the great staple of the holiday, and give thanks, and when even a young country can pretend to have customs of great antiquity. | Có một ngày trong năm chỉ thuộc về người Mỹ: Lễ Tạ ơn, khi các gia đình quây quần ăn gà tây, món chủ đạo của ngày lễ, và tạ ơn, và khi ngay cả một đất nước non trẻ cũng có thể vờ như có những phong tục lâu đời.
+This is the story of how one such custom was born, of an old gentleman who hoped to hand it down like a family heirloom, and of the poor man who kept it alive with him. | Đây là câu chuyện về việc một phong tục như thế ra đời ra sao, về một ông lão mong truyền lại nó như một bảo vật gia truyền, và về người đàn ông nghèo đã cùng ông giữ cho nó sống mãi.
+Every Thanksgiving Day for nine years, at exactly one o'clock, a poor man known as Stuffy Pete had taken his seat on the third bench to the right as you enter the city's great square from the east, opposite the fountain. | Suốt chín năm, cứ mỗi Lễ Tạ ơn, đúng một giờ chiều, một người nghèo tên Stuffy Pete lại ngồi vào chiếc ghế dài thứ ba bên phải khi bước vào quảng trường lớn của thành phố từ phía đông, đối diện đài phun nước.
+And every year, something wonderful had happened to him there, something that had filled his stomach and warmed his heart for days afterwards. | Và năm nào cũng vậy, một điều tuyệt vời đã xảy đến với ông ở đó, một điều làm no bụng và ấm lòng ông nhiều ngày sau đó.
+This year, however, Stuffy Pete arrived at the bench out of habit rather than hunger, and as he lowered himself onto it, he let out a heavy sigh. | Tuy nhiên, năm nay Stuffy Pete đến chiếc ghế vì thói quen chứ không phải vì đói, và khi hạ mình ngồi xuống, ông thở dài nặng nề.
+He was not hungry at all; in fact, he was so full that he could barely breathe. | Ông chẳng đói chút nào; thật ra, ông no đến mức gần như không thở nổi.
+
+## An Unexpected Feast | Bữa tiệc bất ngờ
+The reason was an unexpected banquet. | Lý do là một bữa đại tiệc bất ngờ.
+On his way to the square, he had passed an old red-brick mansion in which lived two elderly, charitable ladies of distinguished lineage, who had a deep reverence for tradition. | Trên đường đến quảng trường, ông đi ngang một dinh thự gạch đỏ cổ kính, nơi có hai bà lão nhân hậu thuộc dòng dõi danh giá sống với lòng tôn kính sâu sắc dành cho truyền thống.
+One of their customs was to station a servant at the gate on Thanksgiving Day, with orders to bring in the first hungry traveler who passed after noon and to feed him until he could eat no more. | Một trong những tục lệ của họ là vào Lễ Tạ ơn đặt một người hầu đứng ở cổng, với lệnh đưa vào nhà người lữ khách đói bụng đầu tiên đi ngang qua sau giờ trưa và cho người đó ăn đến khi không ăn thêm được nữa.
+Stuffy Pete happened to be that traveler, and the servants had honored the custom of the house with solemn care. | Stuffy Pete tình cờ là người lữ khách ấy, và những người hầu đã duy trì tục lệ của ngôi nhà một cách trang nghiêm, chu đáo.
+He had been served a lavish meal that began with oysters and ended with plum pudding, and included, it seemed to him, all the roast turkey, baked potatoes and pumpkin pie in the world. | Ông được dọn một bữa ăn xa hoa bắt đầu bằng hàu và kết thúc bằng bánh pudding mận, và, theo ông thấy, gồm cả toàn bộ gà tây quay, khoai tây nướng và bánh bí đỏ trên đời.
+He had eaten voraciously, and now his digestive system was protesting. | Ông đã ăn ngấu nghiến, và giờ hệ tiêu hóa của ông đang phản đối.
+His eyes looked like two pale berries pressed into a swollen face, his breath came in short gasps, and several buttons had already burst from his ragged coat. | Đôi mắt ông như hai quả mọng nhợt nhạt ấn vào gương mặt sưng phồng, hơi thở ông đứt quãng, và vài chiếc khuy đã bật khỏi chiếc áo khoác rách rưới.
+The chilly November wind, carrying a little snow, felt pleasantly cool on his burning face. | Cơn gió tháng Mười một se lạnh, mang theo chút tuyết, thật mát dịu trên gương mặt nóng bừng của ông.
+He sat lethargically on the bench, gazing at the world with the smug contentment of a man who has eaten far too well. | Ông ngồi uể oải trên ghế, nhìn thế giới với vẻ mãn nguyện tự đắc của một kẻ đã ăn uống quá ư no nê.
+
+## The Old Gentleman | Ông lão quý phái
+After ten minutes, with a tremendous effort, Stuffy Pete turned his head slowly to the left, and his eyes widened in alarm. | Sau mười phút, với một nỗ lực phi thường, Stuffy Pete chầm chậm quay đầu sang trái, và mắt ông mở to vì hốt hoảng.
+The Old Gentleman was crossing the street towards his bench. | Ông lão quý phái đang băng qua đường về phía chiếc ghế của ông.
+Every Thanksgiving Day for nine years, the Old Gentleman had come to this spot, found Stuffy Pete on his bench, led him to a restaurant and watched him eat a big dinner. | Suốt chín năm, cứ mỗi Lễ Tạ ơn, ông lão lại đến chỗ này, tìm thấy Stuffy Pete trên ghế, dẫn ông đến một nhà hàng và ngắm ông ăn một bữa thịnh soạn.
+He was a devoted patriot who believed that his country needed traditions as old as those of the Old World, and he was conscientiously trying to create one. | Ông là một người yêu nước tận tụy tin rằng đất nước mình cần những truyền thống lâu đời như của Cựu Thế giới, và ông đang tận tâm cố tạo ra một truyền thống như thế.
+The annual feeding of Stuffy Pete was hardly a national institution, but it was a start, and nine years was not bad for a young country. | Việc thết đãi Stuffy Pete hằng năm khó có thể gọi là một thiết chế quốc gia, nhưng đó là một khởi đầu, và chín năm đâu phải tệ với một đất nước non trẻ.
+The Old Gentleman was tall, thin and sixty, dressed all in black, with old-fashioned glasses that would not stay on his nose. | Ông lão cao, gầy, sáu mươi tuổi, mặc toàn đồ đen, với cặp kính kiểu cũ không chịu nằm yên trên mũi.
+His hair was whiter and thinner than it had been the year before, and he seemed to lean more heavily on his walking stick. | Tóc ông bạc và thưa hơn năm trước, và ông dường như tựa nặng hơn vào cây gậy chống.
+Yet he moved in his usual stately manner, and his gray mustache was curled as carefully as ever. | Thế nhưng ông vẫn bước đi với dáng vẻ đường bệ thường lệ, và bộ ria mép xám vẫn được uốn cong cẩn thận như mọi khi.
+"Good morning," said the Old Gentleman graciously. "I am glad to see that another year has spared you to move in health about this beautiful world. If you will come with me, my man, I will provide you with a dinner worthy of the day." | "Chào buổi sáng," ông lão nói một cách nhã nhặn. "Ta mừng thấy thêm một năm nữa đã để anh khỏe mạnh đi lại giữa thế gian tươi đẹp này. Nếu anh đi cùng ta, anh bạn, ta sẽ đãi anh một bữa ăn xứng với ngày lễ."
+He said exactly the same words every year, and they had almost become a ceremonial formula, like a prayer. | Năm nào ông cũng nói đúng những lời ấy, và chúng gần như đã trở thành một câu nghi thức, như một lời cầu nguyện.
+Stuffy Pete had always wondered why the old man spoke so somberly. | Stuffy Pete vẫn luôn thắc mắc vì sao ông lão nói giọng u buồn đến thế.
+He did not know that the Old Gentleman had no family and was wishing, every time, that he had a son to be his successor, a son who would come to this bench after he was gone and say, "In memory of my father." | Ông không biết rằng ông lão không có gia đình và lần nào cũng ước có một người con trai kế tục mình, một người con sẽ đến chiếc ghế này khi ông đã khuất và nói: "Để tưởng nhớ cha tôi."
+The Old Gentleman lived alone in rented rooms in a decaying old house, where he grew flowers in a conservatory the size of a suitcase. | Ông lão sống một mình trong mấy căn phòng thuê ở một ngôi nhà cũ đang xuống cấp, nơi ông trồng hoa trong một nhà kính nhỏ cỡ chiếc va li.
+In summer he dreamed of finding a rare butterfly, and in autumn he fed Stuffy Pete; these modest pleasures were the whole of his life. | Mùa hè ông mơ tìm được một loài bướm hiếm, và mùa thu ông thết đãi Stuffy Pete; những thú vui khiêm nhường ấy là toàn bộ cuộc đời ông.
+
+## A Heroic Dinner | Bữa ăn anh hùng
+Stuffy Pete looked up at the old man's face, which was glowing with altruistic pleasure, and he felt obligated to accept. | Stuffy Pete ngước nhìn gương mặt ông lão, đang rạng rỡ niềm vui vị tha, và ông thấy mình có bổn phận phải nhận lời.
+His appetite, he realized, was no longer his own; by the sacred rights of custom, it belonged to this kind old gentleman. | Ông nhận ra cái bụng đói của mình không còn là của riêng ông nữa; theo quyền thiêng liêng của tập tục, nó thuộc về ông lão tốt bụng này.
+"Thank you, sir," he said dutifully. "I'll go with you, and much obliged. I'm very hungry, sir." | "Cảm ơn ngài," ông nói đầy bổn phận. "Tôi sẽ đi với ngài, đội ơn ngài lắm. Tôi đói lắm, thưa ngài."
+The Old Gentleman led his annual guest to the restaurant and to the table where the feast had always taken place, and the waiters recognized them at once. | Ông lão dẫn vị khách thường niên đến nhà hàng và đến chiếc bàn nơi bữa tiệc vẫn luôn diễn ra, và các bồi bàn nhận ra họ ngay.
+"Here comes the old gentleman who buys that same poor fellow a meal every Thanksgiving," said one waiter scornfully. | "Lão già năm nào cũng mua cho đúng cái gã nghèo ấy một bữa ăn vào Lễ Tạ ơn lại đến kìa," một bồi bàn nói giọng khinh khỉnh.
+The table was soon heaped with holiday food, and Stuffy Pete, undaunted, with a sigh that was mistaken for hunger, picked up his knife and fork. | Chiếc bàn chẳng mấy chốc chất đầy đồ ăn ngày lễ, và Stuffy Pete, không nao núng, với một tiếng thở dài bị tưởng là vì đói, cầm dao nĩa lên.
+No hero ever fought more bravely through the ranks of an enemy. | Chưa người anh hùng nào chiến đấu dũng cảm hơn khi xông qua hàng ngũ quân thù.
+Succulent turkey, soup, vegetables and pies disappeared before him as fast as they could be served, and although the smell of food made him feel faint, he made a heroic effort and gamely carried on. | Gà tây mọng nước, súp, rau và bánh nướng biến mất trước mặt ông nhanh như khi chúng được dọn ra, và dù mùi đồ ăn khiến ông muốn ngất, ông đã gắng sức anh hùng và hăng hái tiếp tục.
+He had seen the look of happiness on the Old Gentleman's face, and he did not have the heart to see it fade. | Ông đã thấy vẻ hạnh phúc trên gương mặt ông lão, và ông không nỡ nhìn nó phai đi.
+It was a pathetic and noble sacrifice, and nobody in the restaurant understood it. | Đó là một sự hy sinh vừa đáng thương vừa cao quý, và chẳng ai trong nhà hàng hiểu được.
+After an hour, Stuffy Pete leaned back with the battle won. "Thank you kindly, sir," he gasped, "thank you kindly for a hearty meal." | Sau một giờ, Stuffy Pete ngả người ra với trận chiến đã thắng. "Cảm ơn ngài nhiều lắm," ông thở hổn hển, "cảm ơn ngài vì một bữa ăn thịnh soạn."
+The Old Gentleman carefully counted out his money in small silver coins, leaving a few for the waiter. | Ông lão cẩn thận đếm tiền bằng những đồng xu bạc nhỏ, để lại vài đồng cho bồi bàn.
+The two men parted at the door, as they did every year, the Old Gentleman going south and Stuffy Pete north. | Hai người chia tay ở cửa như mọi năm, ông lão đi về phía nam còn Stuffy Pete đi về phía bắc.
+
+## Two Ambulances | Hai chiếc xe cứu thương
+Around the first corner, Stuffy Pete stopped, stood still for a minute and then fell to the sidewalk like a horse struck down by the sun. | Đến góc phố đầu tiên, Stuffy Pete dừng lại, đứng im một phút rồi ngã xuống vỉa hè như một con ngựa bị say nắng.
+When the ambulance came, the young doctor and the driver complained about his weight, and Stuffy Pete and his two dinners were taken to the hospital. | Khi xe cứu thương đến, viên bác sĩ trẻ và người lái xe than phiền về cân nặng của ông, và Stuffy Pete cùng hai bữa tối của ông được đưa đến bệnh viện.
+There they laid him on a bed, suffering from abdominal pain, and began a series of diagnostic tests in the hope of discovering some rare and interesting disease. | Ở đó người ta đặt ông lên giường, ông quằn quại vì đau bụng, và họ bắt đầu một loạt xét nghiệm chẩn đoán với hy vọng phát hiện căn bệnh hiếm và thú vị nào đó.
+An hour later, another ambulance brought in the Old Gentleman, and they laid him on another bed. | Một giờ sau, một chiếc xe cứu thương khác đưa ông lão đến, và người ta đặt ông lên một chiếc giường khác.
+Soon afterwards, one of the young doctors stopped to chat with a nurse about the cases. | Ít lâu sau, một bác sĩ trẻ dừng lại tán gẫu với một cô y tá về các ca bệnh.
+"That nice old gentleman over there," he said, "you wouldn't think it was a case of near starvation." | "Ông lão dễ mến đằng kia," anh nói, "cô sẽ không ngờ đó là một ca suýt chết đói đâu."
+"Proud old family, I suppose, but completely impoverished. He told me he hadn't eaten a thing for three days." | "Chắc là một gia đình lâu đời và kiêu hãnh, nhưng đã nghèo kiệt xác. Ông ấy bảo tôi rằng ông đã không ăn gì suốt ba ngày."
+Neither gentleman had said a word about his plight, and neither had been willing to let the tradition die; there was more pathos in that than either of them would ever know. | Chẳng quý ông nào hé răng về cảnh ngộ của mình, và chẳng ai chịu để truyền thống ấy chết đi; trong đó có nhiều bi cảm hơn những gì cả hai từng biết.

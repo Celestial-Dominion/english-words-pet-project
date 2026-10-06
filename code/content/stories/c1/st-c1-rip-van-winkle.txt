@@ -1,0 +1,89 @@
+// Truyện C1 phỏng theo nguồn mở (đợt 5): Washington Irving, "Rip Van Winkle", The Sketch Book of Geoffrey Crayon, Gent.
+// (1819) — phạm vi công cộng, bản Standard Ebooks trên GitHub (standardebooks/washington-irving_the-sketch-book-of-
+// geoffrey-crayon-gent). Kể lại theo cấp C1 thành 6 chương; bỏ lời đề tựa, phần tái bút về truyền thuyết người da đỏ và
+// câu "bị người da đỏ bắt đi"; bà vợ chỉ "mất cách đây không lâu" (bỏ chi tiết vỡ mạch máu vì nổi giận); người bạn đi
+// lính chỉ "không bao giờ trở về".
+
+=== st-c1-rip-van-winkle
+title: Rip Van Winkle | Rip Van Winkle
+topic: history
+summary: Anh nông dân lười biếng nhưng tốt bụng Rip Van Winkle trốn bà vợ hay càu nhàu lên núi, uống rượu cùng một đoàn người lạ mặc đồ cổ rồi thiếp đi; khi tỉnh dậy và xuống làng, anh thấy râu mình dài cả gang tay, vợ đã mất, và cả đất nước đã sang một thời đại khác.
+names: Rip Van Winkle, Rip, Van Winkle, Dame Van Winkle, Wolf, Nicholas Vedder, Vedder, Hendrick Hudson, Hudson, Catskill, Catskills, King George, George Washington, Washington, Judith, Peter Vanderdonk, Vanderdonk, Union Hotel, Dutch
+gloss: inn, flagon
+source: Rip Van Winkle | Washington Irving, The Sketch Book of Geoffrey Crayon, Gent. (1819), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/washington-irving_the-sketch-book-of-geoffrey-crayon-gent
+
+## A Good Neighbour | Người hàng xóm tốt bụng
+In a small Dutch village at the foot of the Catskill mountains, whilst the country was still under the British monarchy, there lived a simple, good-natured man called Rip Van Winkle. | Ở một ngôi làng nhỏ của người Hà Lan dưới chân dãy núi Catskill, hồi đất nước còn dưới chế độ quân chủ Anh, có một người đàn ông chất phác, tốt bụng tên là Rip Van Winkle.
+He was a man of great simplicity and good humour, and the children of the village shouted with joy whenever he approached, because he made their toys and told them endless stories of ghosts and magic. | Anh là người hết sức chất phác và vui tính, và lũ trẻ trong làng reo hò mỗi khi anh đến gần, vì anh làm đồ chơi cho chúng và kể không biết bao nhiêu chuyện ma, chuyện phù thủy.
+Rip had only one notable fault: a profound dislike of any kind of profitable work. | Rip chỉ có một khuyết điểm đáng kể: một nỗi chán ghét sâu sắc đối với mọi loại công việc sinh lời.
+He would happily sit on a wet rock and fish all day without a single bite, or tramp through woods and swamps for hours, and he never refused to help a neighbour with the roughest job. | Anh có thể vui vẻ ngồi trên tảng đá ướt câu cá cả ngày mà chẳng được con nào cắn câu, hay lội qua rừng rậm và đầm lầy hàng giờ liền, và anh chưa bao giờ từ chối giúp hàng xóm làm việc nặng nhọc nhất.
+Yet when it came to his own farm, he found work impossible. | Thế nhưng hễ đến nông trại của chính mình, anh lại thấy làm việc là điều không thể.
+His fences kept falling down, his cow wandered into the cabbages, weeds grew faster in his fields than anywhere else, and inevitably it rained just when he had work to do outside. | Hàng rào nhà anh cứ đổ, con bò thì lạc vào ruộng bắp cải, cỏ dại trên đồng anh mọc nhanh hơn bất cứ đâu, và chẳng tránh khỏi, trời cứ mưa đúng lúc anh có việc ngoài đồng.
+His son and heir seemed destined to inherit his habits along with his old clothes. | Cậu con trai, người thừa kế của anh, dường như được định sẵn để thừa hưởng thói quen của cha cùng với bộ quần áo cũ của ông.
+His wife, Dame Van Winkle, scolded him morning, noon and night about his idleness and the ruin he was bringing on the family. | Vợ anh, bà Van Winkle, mắng anh từ sáng đến trưa đến tối về thói lười biếng và cảnh khánh kiệt anh đang mang đến cho gia đình.
+Rip had only one way of replying: instead of making elaborate excuses, he shrugged his shoulders, shook his head and said nothing, which only made her angrier. | Rip chỉ có một cách đáp lại: thay vì bày ra những lời bào chữa dông dài, anh nhún vai, lắc đầu và chẳng nói gì, điều đó chỉ càng khiến bà tức giận hơn.
+
+## Escape to the Mountains | Trốn lên núi
+For a long time Rip found comfort on a bench outside the village inn, under a portrait of King George the Third. | Suốt một thời gian dài, Rip tìm niềm an ủi trên chiếc ghế dài trước quán trọ của làng, bên dưới bức chân dung vua George Đệ Tam.
+There the idle men of the village spent the long summer days discussing old newspapers and telling sleepy stories about nothing. | Ở đó, những người đàn ông nhàn rỗi trong làng trải qua những ngày hè dài bàn luận về mấy tờ báo cũ và kể những câu chuyện ngái ngủ chẳng về điều gì.
+Their leader was Nicholas Vedder, the landlord, who hardly ever spoke but showed his opinions by the way he smoked his pipe. | Người cầm đầu họ là Nicholas Vedder, chủ quán, ông hầu như chẳng bao giờ nói mà chỉ bày tỏ ý kiến qua cách hút tẩu.
+Even this refuge was lost when Dame Van Winkle burst in one day and accused them all of encouraging her husband in his laziness. | Ngay cả chốn nương thân ấy cũng mất khi một hôm bà Van Winkle xông vào, buộc tội cả bọn đã khuyến khích chồng bà lười biếng.
+After that, the only escape for poor Rip was to take his gun and his faithful dog Wolf, his fellow victim of persecution, and wander into the woods. | Sau đó, lối thoát duy nhất của Rip tội nghiệp là vác súng, dẫn theo chú chó trung thành Wolf, bạn đồng cảnh bị hành hạ, và lang thang vào rừng.
+"Poor Wolf," he would say, sharing his lunch with the dog, "your mistress leads you a dog's life, but while I live you shall never want a friend." Wolf looked up at him and seemed to return the sentiment. | "Wolf tội nghiệp," anh thường nói khi chia bữa trưa với chú chó, "bà chủ bắt mày sống đời chó má, nhưng chừng nào tao còn sống, mày sẽ chẳng bao giờ thiếu bạn." Wolf ngước nhìn anh như thể cũng cảm thấy y như vậy.
+One splendid autumn day, chasing squirrels, he climbed to one of the highest and most obscure parts of the Catskills. | Một ngày thu đẹp trời, mải đuổi theo lũ sóc, anh leo lên một trong những nơi cao nhất và hẻo lánh nhất của dãy Catskill.
+Overcome by fatigue, he lay down on a green hill and gazed at the Hudson river far below, moving silently and majestically through the immense landscape. | Mệt rã rời, anh nằm xuống một ngọn đồi xanh và ngắm dòng sông Hudson xa tít bên dưới, lặng lẽ và uy nghi trôi giữa cảnh vật bao la.
+Evening was approaching, and he sighed heavily at the thought of facing the wrath of his wife. | Chiều tối đang buông xuống, và anh thở dài nặng nề khi nghĩ đến cơn thịnh nộ của vợ đang chờ.
+
+## The Strangers in the Hollow | Những người lạ trong thung lũng
+As he was about to descend, he heard a voice calling, "Rip Van Winkle! Rip Van Winkle!" | Khi anh sắp xuống núi, anh nghe một giọng gọi: "Rip Van Winkle! Rip Van Winkle!"
+Wolf growled and moved close to his side, and Rip saw a short, broad old man in old-fashioned Dutch clothes climbing slowly towards him with a heavy barrel on his back. | Wolf gầm gừ rồi lẩn đến bên anh, và Rip thấy một ông già thấp đậm, mặc trang phục Hà Lan kiểu cổ đang chậm chạp leo về phía mình, trên lưng cõng một cái thùng nặng.
+The stranger made signs for him to help, and Rip, though rather suspicious, obligingly took his share of the load. | Người lạ ra hiệu nhờ giúp, và Rip, dù khá ngờ vực, vẫn sốt sắng gánh đỡ một phần.
+As they climbed, Rip heard long rolling sounds like distant thunder coming from a deep, isolated hollow between the cliffs. | Trong lúc leo, Rip nghe những tiếng ầm ì kéo dài như sấm xa vọng ra từ một thung lũng sâu, biệt lập giữa các vách đá.
+In the hollow a company of odd-looking men in old-fashioned clothes was playing ninepins, and the sound of the rolling balls rang through the mountains like thunder. | Trong thung lũng, một đám đàn ông trông kỳ dị trong bộ quần áo kiểu cổ đang chơi trò ném bóng lăn ki, và tiếng bóng lăn dội khắp núi rừng như sấm.
+What struck Rip as particularly odd was that, although they were amusing themselves, they kept the gravest faces and the most mysterious silence. | Điều khiến Rip thấy đặc biệt kỳ lạ là dù đang vui chơi, họ vẫn giữ vẻ mặt nghiêm trang nhất và một sự im lặng bí ẩn nhất.
+When they saw him, they stopped and stared at him so fixedly that his heart turned within him. | Khi trông thấy anh, họ dừng lại và nhìn anh chằm chằm đến mức tim anh như thắt lại.
+His companion poured the drink from the barrel into large flagons and made signs for Rip to serve them, which he did, trembling with fear. | Bạn đồng hành của anh rót thứ đồ uống trong thùng vào những chiếc bình lớn và ra hiệu cho Rip phục vụ họ, anh làm theo, run lên vì sợ.
+Gradually his fear faded, and when nobody was watching, he tasted the drink himself. | Dần dần nỗi sợ tan đi, và khi không ai để ý, anh tự nếm thử thứ đồ uống ấy.
+It was excellent, and he tasted it again and again until his eyes swam, his head drooped and he drifted into a deep sleep of perfect bliss. | Nó ngon tuyệt, và anh nếm hết lần này đến lần khác cho đến khi mắt hoa lên, đầu gục xuống và anh chìm vào một giấc ngủ sâu đầy khoan khoái.
+
+## A Strange Homecoming | Trở về nơi xa lạ
+When he woke, it was a bright morning, and he was lying on the same green hill. | Khi tỉnh dậy, trời đã sáng rõ, và anh đang nằm trên chính ngọn đồi xanh ấy.
+"Surely I have not slept here all night," he thought. "Oh, that wicked flagon! How shall I ever win the forgiveness of Dame Van Winkle?" | "Chẳng lẽ mình đã ngủ ở đây cả đêm," anh nghĩ. "Ôi, cái bình rượu quái ác! Làm sao mình xin được bà Van Winkle tha thứ đây?"
+Beside him, instead of his clean, well-oiled gun, lay an old, rusty one, and Wolf had disappeared. | Bên cạnh anh, thay cho khẩu súng sạch sẽ được lau dầu cẩn thận là một khẩu cũ phủ đầy gỉ sét, và Wolf đã biến mất.
+His joints were stiff, and where the narrow path had been, a mountain stream was now rushing over the rocks. | Các khớp xương anh cứng đờ, và chỗ con đường hẹp hôm qua giờ là một dòng suối núi đang chảy xiết qua những tảng đá.
+As he approached the village, he met many people, but he recognized none of them, and they all stared at him and stroked their chins. | Khi đến gần làng, anh gặp nhiều người, nhưng chẳng nhận ra ai, và tất cả đều nhìn anh chằm chằm rồi vuốt cằm.
+When Rip did the same, he discovered to his astonishment that his beard had grown a foot long. | Khi Rip làm theo, anh sửng sốt nhận ra râu mình đã dài cả gang tay.
+The village itself had changed: it was larger, and there were strange names over the doors and strange faces at the windows. | Chính ngôi làng cũng đã đổi khác: nó lớn hơn, những cái tên lạ trên cửa và những gương mặt lạ bên cửa sổ.
+His own house was in ruins, with the roof fallen in and the windows broken, and his wife and children were nowhere to be found. | Ngôi nhà của anh đã đổ nát, mái sập, cửa sổ vỡ, còn vợ con anh thì chẳng thấy đâu.
+Where the old inn had stood, there was now a building called the Union Hotel, and a strange flag with stars and stripes flew outside. | Chỗ quán trọ cũ giờ là một tòa nhà tên Khách sạn Liên Bang, và bên ngoài phấp phới một lá cờ lạ có sao và sọc.
+Even the portrait of King George had been transformed: the red coat was now blue, and underneath was painted "General Washington." | Ngay cả bức chân dung vua George cũng đã bị biến đổi: chiếc áo đỏ giờ thành màu xanh, và bên dưới vẽ dòng chữ "Tướng Washington."
+
+## Who Am I? | Tôi là ai?
+A crowd gathered round the strange old man with the long grey beard and the rusty gun. | Một đám đông kéo đến vây quanh ông già kỳ lạ có bộ râu dài bạc trắng và khẩu súng gỉ sét.
+One man asked him which side he had voted for, and another asked which political faction he supported, Federal or Democrat, but Rip could not comprehend a word. | Một người hỏi ông đã bỏ phiếu cho phe nào, người khác hỏi ông ủng hộ phe chính trị nào, Liên bang hay Dân chủ, nhưng Rip chẳng hiểu nổi một lời.
+"Alas, gentlemen," he cried, "I am a poor, quiet man, a native of this place, and a loyal subject of the King, God bless him!" | "Than ôi, thưa các ông," ông kêu lên, "tôi là một người nghèo hiền lành, dân gốc ở đây, và là thần dân trung thành của nhà vua, cầu Chúa phù hộ ngài!"
+Hearing this declaration of allegiance to the King, the crowd turned hostile at once and shouted that he was a spy, and it took some time to restore order. | Nghe lời tuyên bố trung thành với nhà vua ấy, đám đông lập tức trở nên thù địch và la lên rằng ông là gián điệp, phải mất một lúc mới lập lại được trật tự.
+Rip asked anxiously about his old friends, but Nicholas Vedder had died eighteen years before, and others had gone away to the war with the militia and never returned. | Rip lo lắng hỏi thăm những người bạn cũ, nhưng Nicholas Vedder đã mất từ mười tám năm trước, còn những người khác đã theo dân quân ra trận và không bao giờ trở về.
+"Does nobody here know Rip Van Winkle?" he cried in despair. | "Ở đây không ai biết Rip Van Winkle sao?" ông tuyệt vọng kêu lên.
+"Oh, Rip Van Winkle! That's him over there, leaning against the tree," they answered. | "Ồ, Rip Van Winkle! Anh ta đằng kia kìa, đang dựa vào gốc cây," họ đáp.
+Rip looked and saw an exact copy of himself as he had been when he went up the mountain, apparently just as lazy and certainly just as ragged. | Rip nhìn sang và thấy một bản sao y hệt mình hồi lên núi, có vẻ lười y như thế và chắc chắn cũng rách rưới y như thế.
+The poor man was now completely bewildered, and he began to doubt his own identity. | Người đàn ông tội nghiệp giờ hoàn toàn rối trí, và ông bắt đầu nghi ngờ chính mình là ai.
+"I'm not myself," he cried. "I was myself last night, but I fell asleep on the mountain, and everything has changed, and I can't tell who I am!" | "Tôi không phải là tôi," ông kêu lên. "Tối qua tôi vẫn là tôi, nhưng tôi ngủ quên trên núi, rồi mọi thứ đổi khác, và tôi chẳng biết mình là ai nữa!"
+
+## Twenty Years in One Night | Hai mươi năm trong một đêm
+At that moment a young woman pushed through the crowd with a child in her arms, and when the child began to cry, she said, "Hush, Rip! The old man won't hurt you." | Đúng lúc đó, một thiếu phụ bế đứa con chen qua đám đông, và khi đứa bé bắt đầu khóc, cô nói: "Nín nào, Rip! Ông già không làm gì con đâu."
+The name of the child and the voice of the mother woke a whole train of memories in his mind. | Tên đứa bé và giọng người mẹ đánh thức cả một chuỗi ký ức trong tâm trí ông.
+"What is your name, my good woman?" he asked, and she told him that she was Judith, the daughter of Rip Van Winkle. | "Cô tên gì, cô gái tốt bụng?" ông hỏi, và cô bảo cô là Judith, con gái của Rip Van Winkle.
+Her father had gone into the mountains with his gun twenty years ago and had never been heard of again, and only his dog had come home. | Cha cô đã vác súng lên núi từ hai mươi năm trước và từ đó bặt vô âm tín, chỉ có con chó của ông là trở về.
+Her mother, she added, had died a short time ago. | Cô nói thêm rằng mẹ cô đã mất cách đây không lâu.
+Rip could contain himself no longer, and he took his daughter and her child in his arms. "I am your father!" he cried. | Rip không kìm nén nổi nữa, ông ôm chầm lấy con gái và đứa cháu. "Ta là cha con đây!" ông kêu lên.
+An old woman peered at his face and declared that it really was Rip Van Winkle, welcome home after twenty long years. | Một bà cụ nheo mắt nhìn mặt ông rồi tuyên bố rằng đúng là Rip Van Winkle thật, mừng ông trở về sau hai mươi năm dài.
+Some of the neighbours remained skeptical, whilst others winked at each other. | Vài người hàng xóm vẫn hoài nghi, trong khi những người khác nháy mắt với nhau.
+To his immense relief, however, old Peter Vanderdonk, the oldest man in the village, confirmed the story. | Tuy nhiên, ông nhẹ nhõm vô cùng khi cụ Peter Vanderdonk, người cao tuổi nhất làng, xác nhận câu chuyện.
+The mountains, he said, had always been haunted, and every twenty years the explorer Hendrick Hudson and his crew returned there to play ninepins. | Cụ bảo những ngọn núi ấy xưa nay vẫn có ma, và cứ hai mươi năm nhà thám hiểm Hendrick Hudson cùng thủy thủ đoàn lại trở về đó chơi ném bóng lăn ki.
+Rip went to live with his daughter, and since he had reached an age when a man may be idle without blame, he took his old place on the bench at the inn. | Rip về sống với con gái, và vì đã đến cái tuổi người ta được nhàn rỗi mà chẳng bị ai trách, ông lại ngồi vào chỗ cũ trên chiếc ghế dài trước quán.
+It took him some time to comprehend that the colonies had risen in revolt and that he was now a free citizen of the United States, not a subject of the King. | Phải mất một thời gian ông mới hiểu được rằng các thuộc địa đã nổi dậy và giờ ông là công dân tự do của Hợp chúng quốc, chứ không còn là thần dân của nhà vua.
+The villagers treated him as a living chronicle of the old times before the war. | Dân làng coi ông như một cuốn biên niên sử sống về thời xưa trước chiến tranh.
+He told his story to every stranger who arrived, and to this day, when thunder rolls over the Catskills on a summer afternoon, the villagers say that Hendrick Hudson and his crew are playing ninepins. | Ông kể câu chuyện của mình cho mọi người lạ ghé qua, và đến tận hôm nay, mỗi khi sấm rền trên dãy Catskill vào một chiều hè, dân làng vẫn bảo Hendrick Hudson và thủy thủ đoàn đang chơi ném bóng lăn ki.
