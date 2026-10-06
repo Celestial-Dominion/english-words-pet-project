@@ -1,10 +1,11 @@
 // Kiểm học liệu nguồn (content/**.txt) — docs/ENGLISH_CONTENT_PLAYBOOK.md §8.
 //   node scripts/check-content.mjs [--level b1] [--id rd-b1-…] [--errors] [--draft] [--verbose]
 // ✗ = LỖI (exit 1): chặn build.  ! = CẢNH BÁO: đọc và xử lý hoặc chấp nhận có lý do.
-// --draft: Story chưa có Video (đang viết dở lô) chỉ là cảnh báo.
-import { loadLibrary, profileOf } from "./lib/content-model.mjs";
+// --draft: Story chưa có Video (đang viết dở lô) chỉ là cảnh báo, và chưa bắt buộc câu hỏi đọc hiểu.
+import { loadLibrary, loadQuizzes, profileOf } from "./lib/content-model.mjs";
 import { LEVEL_KEYS, LEVEL_LABEL, loadVocab, HETERONYMS } from "./lib/en-vocab.mjs";
-import { SPEC, TOPICS, GENRES, VOICES } from "./lib/content-spec.mjs";
+import { SPEC, TOPICS, GENRES, VOICES, LICENSES } from "./lib/content-spec.mjs";
+import { checkQuizzes } from "./lib/quiz-check.mjs";
 import { lineTokens, parseBubble, STYLE_KEYS } from "../lib/video.ts";
 import { LOOK_IDS, BACKGROUND_IDS, LIT_BACKGROUND_IDS, PROP_IDS, BUBBLE_IDS, BUBBLE_ARG, OUTFIT_IDS, HAT_IDS, HAIR_IDS } from "../lib/video-assets.ts";
 
@@ -18,8 +19,10 @@ const ONLY_ID = opt("--id");
 const ERRORS_ONLY = args.includes("--errors");
 const DRAFT = args.includes("--draft");
 const VERBOSE = args.includes("--verbose");
+const REQUIRE_QUIZ = !DRAFT;
 
-export function runChecks({ draft = false } = {}) {
+// requireQuiz: bài đọc / chương truyện chưa có câu hỏi đọc hiểu là LỖI (mặc định; build cũng chặn). --draft thì chỉ thống kê.
+export function runChecks({ draft = false, requireQuiz = true } = {}) {
   const { items, errors: fmtErrors } = loadLibrary();
   const byId = new Map();
   const report = new Map(); // id → {e:[], w:[]}
@@ -47,6 +50,13 @@ export function runChecks({ draft = false } = {}) {
       if (!TOPICS.includes(m.topic)) err(`topic lạ: ${m.topic}`);
       if (m.genre && !GENRES.includes(m.genre)) err(`genre lạ: ${m.genre}`);
     }
+    // bài phỏng theo nguồn mở: ghi đủ nguồn — tên gốc | tác giả/tuyển tập, giấy phép, đường dẫn GitHub
+    if (m.type !== "video" && m.source) {
+      if (!m.source.title || !m.source.credit) err(`source: phải dạng "Tên gốc | tác giả, tuyển tập (năm)"`);
+      if (!LICENSES[m.source.license]) err(`license lạ: "${m.source.license}" (nhận: ${Object.keys(LICENSES).join(" · ")})`);
+      if (!/^https:\/\/github\.com\/[\w.-]+\/[\w.-]+/.test(m.source.url)) err(`source-url phải là đường dẫn GitHub: ${m.source.url || "(trống)"}`);
+    }
+    if (m.series && (!m.series.id || !Number.isInteger(m.series.order) || m.series.order < 1)) err(`series phải dạng "id thứ-tự": ${m.header.series}`);
     if (!m.sentences.length) err("không có câu nào");
 
     // ---- từng câu: tách từ, dấu câu, bản dịch ----
@@ -75,7 +85,6 @@ export function runChecks({ draft = false } = {}) {
       if (nw < lo * 0.85 || nw > hi * 1.15) warn(`độ dài ${nw} từ (mốc ${lo}–${hi})`);
       if (sentAvg < spec.sent[0] || sentAvg > spec.sent[1]) warn(`câu TB ${sentAvg.toFixed(1)} từ (mốc ${spec.sent[0]}–${spec.sent[1]})`);
       if (m.band >= 2 && m.paras.length < 2) warn("chỉ một đoạn — bài B1+ nên chia đoạn");
-      if (m.series && (!m.series.id || !Number.isInteger(m.series.order))) err(`series phải dạng "id thứ-tự": ${m.header.series}`);
     }
     if (m.type === "story") {
       const [clo, chi] = spec.story.ch;
@@ -85,8 +94,9 @@ export function runChecks({ draft = false } = {}) {
       if (!m.summary) err("thiếu summary (tiếng Việt, 1 câu)");
       const dialogue = m.sentences.filter((s) => /["“]/.test(s.en)).length;
       if (dialogue < Math.max(2, m.sentences.length * 0.08)) warn(`ít thoại (${dialogue} câu có lời nói) — truyện cần nhân vật nói với nhau`);
+      // Truyện tự biên soạn đi cặp với một Video; truyện phỏng theo nguồn mở (source:) không bắt buộc.
       const vid = byId.get(m.video);
-      if (!vid) (draft ? warn : err)(`chưa có Video ${m.video}`);
+      if (!vid && !m.source) (draft ? warn : err)(`chưa có Video ${m.video}`);
     }
     if (m.type === "video") checkVideo(m, byId, err, warn, v);
   }
@@ -180,7 +190,27 @@ export function runChecks({ draft = false } = {}) {
     if (!castNames.some((n) => n.split(/\s+/).some((p) => st.names.has(p) || st.names.has(`^${p.replace(/\.$/, "")}`))))
       R(m.id).w.push("không nhân vật nào của truyện xuất hiện trong video");
   }
-  return { items, report, libErr, libWarn };
+  // chuỗi (series): thứ tự không trùng, liền 1..n trong cùng loại
+  for (const type of ["reading", "story"]) {
+    const groups = new Map();
+    for (const m of items.filter((x) => x.type === type && x.series)) (groups.get(m.series.id) ?? groups.set(m.series.id, []).get(m.series.id)).push(m);
+    for (const [sid, list] of groups) {
+      const orders = list.map((m) => m.series.order).sort((a, b) => a - b);
+      if (new Set(orders).size !== orders.length) libErr.push(`${type} series ${sid}: thứ tự trùng (${orders.join(",")})`);
+      else if (orders.some((o, i) => o !== i + 1)) libWarn.push(`${type} series ${sid}: thứ tự không liền 1..${orders.length} (${orders.join(",")})`);
+      if (type === "story" && new Set(list.map((m) => m.level)).size > 1) libErr.push(`story series ${sid}: các phần phải cùng cấp`);
+    }
+  }
+  // câu hỏi đọc hiểu
+  const quiz = loadQuizzes();
+  const qc = checkQuizzes(items, quiz, { requireQuiz });
+  for (const [id, r] of qc.perItem) {
+    R(id).e.push(...r.e);
+    R(id).w.push(...r.w);
+  }
+  libErr.push(...qc.libErr);
+  libWarn.push(...qc.libWarn);
+  return { items, report, libErr, libWarn, quiz, quizCoverage: qc.coverage };
 }
 
 const STOP_OPEN = new Set();
@@ -356,7 +386,7 @@ function checkVideo(m, byId, err, warn, v) {
 
 // ---------- chạy trực tiếp ----------
 if (process.argv[1] && import.meta.filename === process.argv[1]) {
-  const { items, report, libErr, libWarn } = runChecks({ draft: DRAFT });
+  const { items, report, libErr, libWarn, quizCoverage } = runChecks({ draft: DRAFT, requireQuiz: REQUIRE_QUIZ });
   let nErr = libErr.length;
   let nWarn = libWarn.length;
   const shown = items.filter((m) => (!ONLY_LEVEL || m.level === ONLY_LEVEL) && (!ONLY_ID || m.id === ONLY_ID));
@@ -364,7 +394,8 @@ if (process.argv[1] && import.meta.filename === process.argv[1]) {
     const list = shown.filter((m) => m.level === lv);
     if (!list.length) continue;
     const cnt = (t) => list.filter((m) => m.type === t).length;
-    console.log(`\n== ${LEVEL_LABEL[LEVEL_KEYS.indexOf(lv)]}: ${cnt("reading")} reading · ${cnt("story")} story · ${cnt("video")} video`);
+    const qc = quizCoverage[lv] ?? { r: 0, rAll: 0, ch: 0, chAll: 0 };
+    console.log(`\n== ${LEVEL_LABEL[LEVEL_KEYS.indexOf(lv)]}: ${cnt("reading")} reading · ${cnt("story")} story · ${cnt("video")} video · câu hỏi: ${qc.r}/${qc.rAll} bài đọc, ${qc.ch}/${qc.chAll} chương`);
     for (const m of list) {
       const r = report.get(m.id) ?? { e: [], w: [] };
       nErr += r.e.length;

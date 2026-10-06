@@ -62,6 +62,31 @@ export interface LibSentence {
   vi: string;
 }
 
+// Câu hỏi đọc hiểu trắc nghiệm cuối bài đọc / chương truyện (content/quiz → scripts/build-content.mjs).
+// a = chỉ số phương án ĐÚNG trong opts (giao diện xáo thứ tự hiển thị); why = giải thích (VI, trích «nguyên văn»).
+export interface QuizQuestion {
+  q: LibSentence;
+  opts: LibSentence[];
+  a: number;
+  why: string;
+}
+
+// Bài phỏng theo nguồn mở: tên gốc, tác giả/tuyển tập, giấy phép (khoá trong LICENSES), đường dẫn GitHub.
+export interface ContentSource {
+  title: string;
+  credit: string;
+  license: string;
+  url: string;
+}
+
+// PHẢI khớp scripts/lib/content-spec.mjs LICENSES.
+export const LICENSES: Record<string, { label: string; url: string }> = {
+  "public domain": { label: "Phạm vi công cộng", url: "https://creativecommons.org/publicdomain/mark/1.0/deed.vi" },
+  "CC0 1.0": { label: "CC0 1.0", url: "https://creativecommons.org/publicdomain/zero/1.0/deed.vi" },
+  "CC BY 3.0": { label: "CC BY 3.0", url: "https://creativecommons.org/licenses/by/3.0/deed.vi" },
+  "CC BY 4.0": { label: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/deed.vi" },
+};
+
 // 1 track audio cho cả bài/chương; starts/ends = mốc từng câu (giây).
 export interface PassageAudio {
   src: string;
@@ -89,6 +114,7 @@ export interface ReadingMeta {
   words: number;
   min: number;
   series?: string;
+  src?: 1; // phỏng theo nguồn mở
 }
 
 export interface SeriesLink {
@@ -111,6 +137,8 @@ export interface ReadingDoc {
   focus: FocusWord[];
   series?: { id: string; order: number; count: number; prev?: SeriesLink; next?: SeriesLink };
   audio?: PassageAudio;
+  quiz?: QuizQuestion[];
+  source?: ContentSource;
 }
 
 export interface StoryMeta {
@@ -125,6 +153,10 @@ export interface StoryMeta {
   words: number;
   min: number;
   video?: string;
+  series?: string; // truyện dài chia nhiều phần: id chuỗi + phần thứ part/parts
+  part?: number;
+  parts?: number;
+  src?: 1;
 }
 
 export interface StoryChapter {
@@ -132,6 +164,7 @@ export interface StoryChapter {
   paras: number[];
   sentences: LibSentence[];
   audio?: PassageAudio;
+  quiz?: QuizQuestion[];
 }
 
 export interface StoryDoc {
@@ -146,6 +179,8 @@ export interface StoryDoc {
   chapters: StoryChapter[];
   focus: FocusWord[];
   video?: { id: string; title: LibSentence };
+  series?: { id: string; order: number; count: number; prev?: SeriesLink; next?: SeriesLink };
+  source?: ContentSource;
 }
 
 export type LibraryKind = "readings" | "stories" | "videos";

@@ -5,7 +5,7 @@
 // (bấm tay thì lần mở này thôi tự đánh dấu). Truyện có Video hội thoại tương ứng → thẻ dẫn sang Video.
 import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import Link from "next/link";
-import { ChevronLeft, ChevronRight, Clapperboard, Library } from "lucide-react";
+import { ChevronLeft, ChevronRight, Clapperboard, Layers3, Library } from "lucide-react";
 import { TOPICS, fmtMinutes, loadStory, type StoryDoc } from "@/lib/library";
 import { contentAccent, contentLevel } from "@/lib/levels";
 import { setRead } from "@/lib/read-progress";
@@ -14,6 +14,8 @@ import { cn } from "@/lib/utils";
 import { DoneButton, useIsRead } from "@/components/done-toggle";
 import { usePassageAudio } from "./passage-audio";
 import { FocusWords, PassageText, PassageToolbar, useWordLookup } from "./passage-view";
+import { Quiz } from "./quiz";
+import { SourceNote } from "./source-note";
 import { GrammarLinks } from "@/components/video/lesson-extras";
 import type { LessonRef } from "@/lib/grammar";
 
@@ -101,6 +103,14 @@ function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
               <span>
                 {doc.chapters.length} chương · {doc.words} từ · {fmtMinutes(doc.min)}
               </span>
+              {doc.series && (
+                <>
+                  <span aria-hidden>·</span>
+                  <span className="font-medium text-foreground">
+                    Phần {doc.series.order}/{doc.series.count}
+                  </span>
+                </>
+              )}
             </div>
           </div>
         </div>
@@ -153,7 +163,12 @@ function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
           canPlay={player.available}
         />
         <div ref={endRef} data-testid="story-end" aria-hidden className="h-px" />
+        {doc.source && <SourceNote source={doc.source} className="mt-8 border-t pt-4 text-xs leading-relaxed text-muted-foreground" />}
       </article>
+
+      {chapter.quiz?.length ? (
+        <Quiz key={`${doc.id}-${ch}`} questions={chapter.quiz} showVi={showVi} onTapWord={(w) => void lookup.open(w)} title={`Câu hỏi · Chương ${ch + 1}`} />
+      ) : null}
 
       <div className="mt-4 flex items-center justify-between gap-3">
         <button
@@ -172,10 +187,37 @@ function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
           >
             Chương {ch + 2} <ChevronRight className="size-4" />
           </button>
+        ) : doc.series?.next ? (
+          <Link
+            href={`/truyen/${doc.series.next.level}/${doc.series.next.id}`}
+            className="inline-flex items-center gap-1 rounded-full bg-primary px-4 py-2 text-sm font-semibold text-primary-foreground shadow-sm active:scale-95"
+          >
+            Phần {doc.series.order + 1} <ChevronRight className="size-4" />
+          </Link>
         ) : (
           <span className="text-sm font-medium text-muted-foreground">Hết truyện</span>
         )}
       </div>
+
+      {doc.series && (
+        <section className="mt-8 rounded-2xl border bg-muted/30 p-4">
+          <div className="flex items-center gap-2 text-sm font-semibold">
+            <Layers3 className="size-4 text-primary" /> Truyện dài · phần {doc.series.order}/{doc.series.count}
+          </div>
+          <div className="mt-3 grid gap-2 sm:grid-cols-2">
+            {doc.series.prev && (
+              <Link href={`/truyen/${doc.series.prev.level}/${doc.series.prev.id}`} className="rounded-xl border bg-card px-3 py-2 text-sm hover:border-primary/40">
+                ← Phần {doc.series.order - 1} · {doc.series.prev.title_en}
+              </Link>
+            )}
+            {doc.series.next && (
+              <Link href={`/truyen/${doc.series.next.level}/${doc.series.next.id}`} className="rounded-xl border bg-card px-3 py-2 text-right text-sm hover:border-primary/40 sm:col-start-2">
+                Phần {doc.series.order + 1} · {doc.series.next.title_en} →
+              </Link>
+            )}
+          </div>
+        </section>
+      )}
 
       {doc.video && (
         <Link

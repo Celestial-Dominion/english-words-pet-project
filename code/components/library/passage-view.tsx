@@ -18,7 +18,7 @@ const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
 const TOKEN = /([A-Za-zÀ-ÿ]+(?:['’][A-Za-z]+)*(?:-[A-Za-zÀ-ÿ]+)*)/;
 
-function Words({ text, onTap }: { text: string; onTap: (w: string) => void }) {
+export function Words({ text, onTap }: { text: string; onTap: (w: string) => void }) {
   return (
     <>
       {text.split(TOKEN).map((part, j) =>

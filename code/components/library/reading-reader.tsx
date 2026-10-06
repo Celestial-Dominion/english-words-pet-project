@@ -13,6 +13,8 @@ import { setRead } from "@/lib/read-progress";
 import { DoneButton, useIsRead } from "@/components/done-toggle";
 import { usePassageAudio } from "./passage-audio";
 import { FocusWords, PassageText, PassageToolbar, useWordLookup } from "./passage-view";
+import { Quiz } from "./quiz";
+import { SourceNote } from "./source-note";
 import { GrammarLinks } from "@/components/video/lesson-extras";
 import type { LessonRef } from "@/lib/grammar";
 
@@ -127,9 +129,15 @@ function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | n
         />
         <div ref={endRef} data-testid="reading-end" aria-hidden className="h-px" />
         <footer className="mt-8 border-t pt-4 text-xs leading-relaxed text-muted-foreground">
-          Bài đọc do dự án biên soạn theo cấp độ; bản dịch tiếng Việt để đối chiếu — hãy đọc tiếng Anh trước.
+          {doc.source ? (
+            <SourceNote source={doc.source} />
+          ) : (
+            "Bài đọc do dự án biên soạn theo cấp độ; bản dịch tiếng Việt để đối chiếu — hãy đọc tiếng Anh trước."
+          )}
         </footer>
       </article>
+
+      {doc.quiz?.length ? <Quiz key={doc.id} questions={doc.quiz} showVi={showVi} onTapWord={(w) => void lookup.open(w)} /> : null}
 
       <FocusWords words={doc.focus} level={doc.level} onOpen={(w) => void lookup.open(w)} />
       {grammar?.length ? (

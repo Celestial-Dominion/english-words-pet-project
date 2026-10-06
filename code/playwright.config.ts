@@ -6,6 +6,9 @@ export default defineConfig({
   timeout: 30_000,
   expect: { timeout: 10_000 },
   fullyParallel: false,
+  // Một worker: nhiều worker mở song song nhiều route động → next dev biên dịch đồng thời và ghi đè lẫn nhau
+  // .next/dev/prerender-manifest.json (JSON hỏng → mọi trang lỗi 500). Một worker vẫn chạy ~50 giây.
+  workers: 1,
   use: {
     baseURL: "http://localhost:3000",
     browserName: "chromium",

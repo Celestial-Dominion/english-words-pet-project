@@ -1,0 +1,130 @@
+// Bài đọc C2 phỏng theo nguồn mở (phạm vi công cộng, bản Standard Ebooks trên GitHub): Henry David Thoreau,
+// Walden (1854) — standardebooks/henry-david-thoreau_walden; John Stuart Mill, On Liberty (1859) —
+// standardebooks/john-stuart-mill_on-liberty; William Hazlitt, Table Talk (1821) — standardebooks/william-hazlitt_table-talk;
+// Ralph Waldo Emerson, Essays (1841) — standardebooks/ralph-waldo-emerson_essays. Tóm lược và bình luận theo cấp C2.
+
+=== rd-c2-why-thoreau-went-to-the-woods
+title: Why Thoreau Went to the Woods | Vì sao Thoreau vào rừng
+topic: philosophy
+genre: analysis
+names: Henry David Thoreau, Thoreau, Walden Pond, Walden, Concord, Massachusetts, Independence Day, American
+source: Walden | Henry David Thoreau (1854), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/henry-david-thoreau_walden
+On the fourth of July 1845, a twenty-seven-year-old writer named Henry David Thoreau moved into a small wooden hut that he had built with his own hands beside Walden Pond, near the small provincial town of Concord, Massachusetts. | Ngày 4 tháng Bảy năm 1845, một nhà văn hai mươi bảy tuổi tên Henry David Thoreau dọn vào căn chòi gỗ nhỏ do chính tay anh dựng bên hồ Walden, gần thị trấn tỉnh lẻ nhỏ Concord, bang Massachusetts.
+The choice of Independence Day was hardly accidental, since he intended the experiment as a declaration of a different kind of independence. | Việc chọn đúng ngày Độc lập khó mà là tình cờ, vì anh định cuộc thử nghiệm này là một tuyên ngôn về một kiểu độc lập khác.
+He lived there for two years and two months, growing beans, reading, walking and writing, and the book he eventually published became one of the seminal works of American literature. | Anh sống ở đó hai năm hai tháng, trồng đậu, đọc sách, đi dạo và viết, và cuốn sách cuối cùng anh xuất bản đã trở thành một trong những tác phẩm nền tảng của văn học Mỹ.
+
+In its most famous passage, Thoreau explains his motives with unusual plainness. | Trong đoạn văn nổi tiếng nhất, Thoreau giải thích động cơ của mình một cách giản dị lạ thường.
+He went to the woods, he says, because he wished to live deliberately, to confront only the essential facts of life, and to see whether he could learn what it had to teach. | Anh nói anh vào rừng vì muốn sống có chủ đích, chỉ đối diện với những sự thật cốt yếu của cuộc đời, và xem liệu mình có học được những gì nó muốn dạy.
+Above all, he did not want to discover, when he came to die, that he had not lived. | Trên hết, anh không muốn đến lúc lâm chung mới phát hiện ra rằng mình chưa từng sống.
+He wanted to reduce life to its simplest terms, so that if it proved mean he would know its meanness, and if it proved sublime he could give a true account of it. | Anh muốn quy cuộc sống về những gì giản đơn nhất, để nếu nó tỏ ra tầm thường thì anh sẽ biết rõ sự tầm thường ấy, còn nếu nó cao cả thì anh có thể thuật lại nó một cách chân thực.
+
+Most people, in Thoreau's view, wasted their lives on trivial detail, and his remedy was forceful: "Simplicity, simplicity, simplicity!" | Theo Thoreau, phần lớn mọi người phí hoài đời mình vào những chi tiết vụn vặt, và phương thuốc của anh rất mạnh mẽ: "Giản dị, giản dị, giản dị!"
+Elsewhere in the book he lamented that most men lead lives of quiet desperation, exhausted by the drudgery of earning money to buy things they do not need. | Ở chỗ khác trong sách, anh than rằng phần đông con người sống những cuộc đời tuyệt vọng lặng lẽ, kiệt sức vì công việc cực nhọc kiếm tiền để mua những thứ họ không cần.
+Instead of three meals a day, he suggested, one should eat a single meal if necessary, and instead of a hundred dishes, five. | Anh gợi ý rằng thay vì ba bữa một ngày, nếu cần thì chỉ nên ăn một bữa, và thay vì một trăm món, chỉ năm món.
+He was equally disdainful of the restless busyness of his neighbours, who seemed determined to be starved before they were hungry and who woke from every nap demanding the news. | Anh cũng coi thường không kém sự bận rộn bồn chồn của hàng xóm, những người dường như quyết bị bỏ đói trước khi kịp đói và thức dậy sau mỗi giấc ngủ trưa là đòi biết tin tức.
+He claimed never to have read any memorable news in a newspaper, since anyone who has read of one shipwreck need never read of another; to a philosopher, all news is gossip. | Anh khẳng định chưa từng đọc được tin nào đáng nhớ trên báo, vì ai đã đọc về một vụ đắm tàu thì chẳng cần đọc vụ khác nữa; với triết gia, mọi tin tức đều là chuyện phiếm.
+
+Modern readers sometimes find all this a little smug, and it is true that his solitude was less austere than legend suggests. | Độc giả ngày nay đôi khi thấy tất cả những điều này hơi tự mãn, và quả thật sự cô độc của anh không khắc khổ như huyền thoại kể.
+The supposed hermit lived a short walk from his mother's house, where he often ate, and critics have long pointed to the apparent hypocrisy with some derision. | Vị ẩn sĩ được cho là ấy sống cách nhà mẹ mình một quãng đi bộ ngắn, nơi anh thường ăn tối, và giới phê bình từ lâu đã chỉ ra sự đạo đức giả hiển nhiên ấy với ít nhiều chế giễu.
+Some of his neighbours regarded the whole experiment as mere eccentricity, the whim of a clever young man with too little to do. | Vài người hàng xóm coi cả cuộc thử nghiệm chỉ là sự lập dị, ý thích nhất thời của một chàng trai thông minh quá rảnh rỗi.
+Yet the point of the experiment was never total independence from society, still less the life of a recluse. | Thế nhưng mục đích của cuộc thử nghiệm chưa bao giờ là tự cung tự cấp hoàn toàn, càng không phải cuộc đời của một người ẩn dật.
+It was an inquiry into how much of what we consider indispensable is in fact superfluous, and how much freedom we sacrifice in order to maintain it. | Đó là một cuộc truy vấn xem bao nhiêu thứ ta cho là không thể thiếu thật ra lại thừa thãi, và ta hy sinh bao nhiêu tự do để duy trì chúng.
+
+Seen in this light, Walden is less a rejection of society than a protest against a materialism that turns people into servants of their possessions. | Nhìn theo cách này, Walden ít là sự chối bỏ xã hội mà là một lời phản kháng chống lại chủ nghĩa vật chất biến con người thành nô bộc của của cải.
+Its target is not wealth as such but conspicuous consumption, the affluent habit of acquiring things chiefly in order to be seen to have them. | Mục tiêu của nó không phải bản thân sự giàu có mà là lối tiêu dùng phô trương, thói quen của người khá giả mua sắm chủ yếu để được người khác thấy mình sở hữu.
+In an age of perpetual notifications and relentlessly frivolous distractions, his complaint that "we do not ride on the railroad; it rides upon us" sounds uncannily modern. | Trong thời đại của những thông báo không dứt và những thú tiêu khiển phù phiếm triền miên, lời than phiền của anh rằng "không phải ta cưỡi đường sắt mà đường sắt cưỡi lên ta" nghe hiện đại đến lạ lùng.
+The question he posed at Walden, whether our habits serve us or we serve them, has lost none of its urgency, and posterity has made his idiosyncratic little cabin a place of pilgrimage. | Câu hỏi anh đặt ra ở Walden, liệu thói quen phục vụ ta hay ta phục vụ chúng, chẳng hề mất đi tính cấp thiết, và hậu thế đã biến căn chòi nhỏ độc đáo của anh thành nơi hành hương.
+
+=== rd-c2-the-case-for-dissent
+title: The Case for Dissent | Biện hộ cho tiếng nói bất đồng
+topic: society
+genre: argument
+names: John Stuart Mill, Mill, On Liberty, Socrates, Athenians, Cicero
+source: On Liberty | John Stuart Mill (1859), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/john-stuart-mill_on-liberty
+In 1859 the philosopher John Stuart Mill published On Liberty, a short book whose second chapter remains perhaps the most cogent defence of free expression ever written. | Năm 1859, triết gia John Stuart Mill xuất bản cuốn Bàn về tự do, một cuốn sách mỏng mà chương hai có lẽ vẫn là lời bảo vệ tự do ngôn luận thuyết phục nhất từng được viết ra.
+Its central proposition is startling in its boldness. | Mệnh đề trung tâm của nó gây sửng sốt bởi sự táo bạo.
+If all mankind but one person held a single opinion, Mill wrote, mankind would be no more justified in silencing that person than he, if he had the power, would be justified in silencing mankind. | Mill viết rằng nếu toàn nhân loại trừ một người cùng giữ một ý kiến, thì nhân loại cũng chẳng có lý hơn khi bịt miệng người đó so với việc người đó, nếu có quyền lực, bịt miệng cả nhân loại.
+He did not rest this claim on the rights of the speaker but on the harm that silencing does to everyone else, including those who would never dream of agreeing. | Ông không đặt luận điểm này trên quyền của người nói mà trên tác hại mà việc bịt miệng gây ra cho tất cả những người khác, kể cả những người không đời nào đồng tình.
+
+His first argument is that the suppressed opinion may be true, and that to silence it is to assume our own infallibility. | Lập luận đầu tiên của ông là ý kiến bị đàn áp có thể đúng, và bịt miệng nó tức là mặc nhiên cho rằng mình không thể sai.
+History, he observed, is littered with doctrines once thought certain that later proved erroneous, and with heretics condemned in their own time whom posterity vindicated. | Ông nhận xét rằng lịch sử đầy rẫy những học thuyết từng được coi là chắc chắn mà về sau tỏ ra sai lầm, và những kẻ dị giáo bị kết án đương thời mà hậu thế đã minh oan.
+His most eloquent example is Socrates, whom the Athenians condemned for corrupting the young and whom later ages regarded as the wisest of them all. | Ví dụ hùng hồn nhất của ông là Socrates, người bị dân Athens kết tội làm hư hỏng giới trẻ và được các thời đại sau coi là người khôn ngoan nhất trong số họ.
+Second, even a mistaken opinion may contain a portion of the truth, since accepted views on difficult subjects are rarely the whole truth, and the remainder can only be supplied through the collision of opposing views. | Thứ hai, ngay cả một ý kiến sai cũng có thể chứa một phần sự thật, vì những quan điểm được chấp nhận về các vấn đề khó hiếm khi là toàn bộ sự thật, và phần còn lại chỉ có thể được bổ sung qua sự va chạm của các quan điểm đối lập.
+
+Third, and most subtly, even a wholly true belief, if it is never contested, will be held as a dead dogma rather than a living truth. | Thứ ba, và tinh tế nhất, ngay cả một niềm tin hoàn toàn đúng, nếu không bao giờ bị chất vấn, sẽ được giữ như một giáo điều chết thay vì một chân lý sống.
+Those who know only their own side of a case, Mill wrote, know little even of that, and he noted approvingly that the great orator Cicero studied his opponents' arguments as intensely as his own. | Mill viết rằng những ai chỉ biết lập luận của phe mình thì cũng chẳng biết bao nhiêu về chính nó, và ông tán thưởng việc nhà hùng biện vĩ đại Cicero nghiên cứu lập luận của đối thủ kỹ lưỡng như của chính mình.
+Finally, a doctrine that is never challenged gradually loses its meaning, decaying into formulas that are repeated by habit and felt by nobody. | Cuối cùng, một học thuyết không bao giờ bị thách thức sẽ dần mất đi ý nghĩa, mục ruỗng thành những công thức được lặp lại theo thói quen và chẳng ai thực sự cảm nhận.
+
+Mill was not naive about the costs of free speech, and he accepted that speech which incites immediate harm may rightly be restrained. | Mill không ngây thơ về cái giá của tự do ngôn luận, và ông chấp nhận rằng lời nói kích động gây hại tức thời có thể bị kiềm chế một cách chính đáng.
+Yet he insisted that protection should extend to unpalatable and even abhorrent opinions, since nobody can be trusted to decide in advance which heresy will turn out to be true. | Thế nhưng ông khẳng định sự bảo vệ phải mở rộng đến cả những ý kiến khó nghe, thậm chí ghê tởm, vì không ai đáng tin để quyết định trước dị thuyết nào rồi sẽ hoá ra là đúng.
+But he was more concerned about a subtler and more insidious danger: the tyranny of prevailing opinion, which could be more oppressive than any law because it penetrated far more deeply into the details of everyday life. | Nhưng ông lo ngại hơn về một mối nguy tinh vi và âm ỉ hơn: sự chuyên chế của dư luận thống trị, thứ có thể áp bức hơn bất kỳ đạo luật nào vì nó thâm nhập sâu hơn nhiều vào từng chi tiết của đời sống thường nhật.
+Such pressure, he warned, breeds a timid conformity in which original minds learn to keep their thoughts to themselves, and a society that achieves agreement through coercion rather than argument becomes intellectually stagnant. | Ông cảnh báo rằng áp lực như thế nuôi dưỡng một sự tuân phục rụt rè, trong đó những bộ óc độc đáo học cách giữ suy nghĩ cho riêng mình, và một xã hội đạt được đồng thuận bằng cưỡng ép thay vì tranh luận sẽ trở nên trì trệ về trí tuệ.
+His warning has acquired a new urgency in an age when online crowds can make dissent feel dangerous without any government lifting a finger, and when intolerant majorities form and dissolve within hours. | Lời cảnh báo của ông mang tính cấp thiết mới trong thời đại mà đám đông trên mạng có thể khiến sự bất đồng trở nên nguy hiểm mà chẳng cần chính phủ nào động tay, và khi những đa số bất khoan dung hình thành rồi tan rã chỉ trong vài giờ.
+Whether one finds his position heroic or naive, it remains the benchmark against which every subsequent defence of free speech is measured, and even those who reject it on contentious issues usually begin by restating it. | Dù ta thấy lập trường của ông là anh hùng hay ngây thơ, nó vẫn là chuẩn mực để đo mọi lời bảo vệ tự do ngôn luận ra đời sau đó, và ngay cả những người bác bỏ nó trong các vấn đề gây tranh cãi cũng thường bắt đầu bằng việc nhắc lại nó.
+
+=== rd-c2-the-pleasure-of-walking-alone
+title: The Pleasure of Walking Alone | Niềm vui đi bộ một mình
+topic: travel
+genre: opinion
+names: William Hazlitt, Hazlitt, Table Talk
+gloss: inn
+source: On Going a Journey | William Hazlitt, Table Talk (1821), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/william-hazlitt_table-talk
+"One of the pleasantest things in the world is going a journey," wrote the essayist William Hazlitt in 1821, "but I like to go by myself." | "Một trong những điều dễ chịu nhất trên đời là đi một chuyến," nhà tiểu luận William Hazlitt viết năm 1821, "nhưng tôi thích đi một mình."
+He could enjoy company in a room, he explained, but out of doors nature was company enough, and he was never less alone than when he was alone. | Ông giải thích rằng ông có thể vui vẻ với bạn bè trong một căn phòng, nhưng ngoài trời thì thiên nhiên đã là bạn đồng hành đủ rồi, và chưa bao giờ ông bớt cô đơn hơn lúc ở một mình.
+His ideal was beautifully simple: a clear blue sky overhead, green grass underfoot, a winding road ahead and a three hours' march to dinner, followed by the luxury of uninterrupted thought. | Lý tưởng của ông giản dị một cách tuyệt đẹp: trời xanh trong trên đầu, cỏ xanh dưới chân, một con đường quanh co phía trước và ba giờ đi bộ tới bữa tối, tiếp theo là sự xa xỉ của dòng suy tưởng không bị ngắt quãng.
+For him, walking alone was not a sign of gloom but a source of solace and even rapture, a release from the tiring obligation to be clever. | Với ông, đi bộ một mình không phải dấu hiệu của u sầu mà là nguồn an ủi, thậm chí ngây ngất, một sự giải thoát khỏi bổn phận mệt mỏi phải tỏ ra thông minh.
+
+He confessed that he could not see the wit of walking and talking at the same time. | Ông thú nhận rằng ông không thấy cái hay của việc vừa đi vừa nói chuyện.
+Nothing seemed to him more tedious than a companion who insisted on dissecting the scenery, comparing every field and cloud with something else, when he wanted simply to enjoy it. | Với ông, chẳng gì tẻ nhạt hơn một người bạn đồng hành cứ khăng khăng phân tích phong cảnh, so sánh từng cánh đồng và đám mây với thứ gì khác, trong khi ông chỉ muốn tận hưởng nó.
+When he was in the country, he wanted to be as idle and thoughtless as the country itself, free from the obligation to have opinions or to defend them. | Khi về nông thôn, ông muốn được nhàn tản và vô tư lự như chính thôn quê, thoát khỏi bổn phận phải có chính kiến hay phải bảo vệ chúng.
+In such a mood, he wrote, even a smell of beans or a glimpse of a distant hill could bring back long-forgotten memories with an almost painful vividness. | Ông viết rằng trong tâm trạng như thế, ngay cả mùi đậu hay thoáng thấy một ngọn đồi xa cũng có thể gợi lại những ký ức đã quên từ lâu với sự sống động gần như nhức nhối.
+These sudden returns of the past, half melancholy and half joyful, were for him the true reward of the journey, and he guarded them jealously against interruption. | Những lần quá khứ bất chợt trở về ấy, nửa buồn bã nửa hân hoan, với ông mới là phần thưởng thực sự của chuyến đi, và ông ghen tuông canh giữ chúng khỏi mọi sự quấy rầy.
+
+He allowed one exception: a friend might be welcome at a rustic inn in the evening, when the walking was over and the conversation could turn to what to have for supper. | Ông cho phép một ngoại lệ: một người bạn có thể được hoan nghênh ở một quán trọ quê mùa vào buổi tối, khi cuộc đi bộ đã xong và câu chuyện có thể chuyển sang chuyện ăn gì cho bữa khuya.
+Even then, he preferred the anonymity of a strange inn, where nobody knew who he was or cared about his opinions. | Ngay cả khi ấy, ông vẫn thích sự vô danh của một quán trọ lạ, nơi chẳng ai biết ông là ai hay bận tâm đến ý kiến của ông.
+There he could lay aside his reputation along with his dusty boots, and for a few hours become nobody in particular. | Ở đó ông có thể gác lại danh tiếng cùng đôi ủng bám bụi, và trong vài giờ trở thành một người chẳng là ai cả.
+For Hazlitt, part of the purpose of travel was precisely to escape the person one was obliged to be at home. | Với Hazlitt, một phần mục đích của việc đi xa chính là để thoát khỏi con người mà ta buộc phải là khi ở nhà.
+He even confessed that he would gladly spend his whole life travelling abroad, if only he could borrow another life to spend afterwards at home. | Ông còn thú nhận rằng ông sẵn lòng dành cả đời để du hành nước ngoài, giá mà ông có thể mượn thêm một kiếp nữa để sống ở nhà sau đó.
+
+The essay is a manifesto for solitude at a time when solitude was often regarded as either eccentric or faintly morbid. | Bài tiểu luận là một bản tuyên ngôn cho sự cô độc vào thời mà cô độc thường bị coi là lập dị hoặc có phần u uất.
+Its charm lies partly in its candid revelation of a prickly temperament, for Hazlitt was a notoriously difficult companion and seems to have known it perfectly well. | Sức hấp dẫn của nó một phần nằm ở sự bộc bạch thẳng thắn về một tính khí khó chịu, vì Hazlitt nổi tiếng là người bạn đồng hành khó chiều và dường như ông biết rõ điều đó.
+Its lyrical prose, at once nostalgic and defiant, has made it one of the most quoted essays in the language. | Lối văn trữ tình của nó, vừa hoài niệm vừa đầy thách thức, đã khiến nó thành một trong những bài tiểu luận được trích dẫn nhiều nhất trong tiếng Anh.
+Yet his central insight, that some pleasures are diminished by being narrated as they happen, is uncannily relevant to an age of solitary walkers who photograph the view before they have looked at it. | Thế nhưng nhận định cốt lõi của ông, rằng có những niềm vui bị giảm đi khi được thuật lại ngay lúc chúng diễn ra, lại phù hợp đến lạ lùng với thời đại của những người đi bộ một mình chụp ảnh phong cảnh trước khi kịp ngắm nó.
+Hazlitt did not despise company; he simply believed that the mind, like the body, sometimes needs to wander without a guide. | Hazlitt không khinh ghét bạn bè; ông chỉ tin rằng tâm trí, cũng như cơ thể, đôi khi cần lang thang mà không có người dẫn đường.
+
+=== rd-c2-trust-yourself
+title: Trust Yourself | Hãy tin vào chính mình
+topic: psychology
+genre: analysis
+names: Ralph Waldo Emerson, Emerson, Self-Reliance, Socrates, Galileo, Newton, American, European
+gloss: hobgoblin, nonconformist, whoso
+source: Self-Reliance | Ralph Waldo Emerson, Essays (1841), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/ralph-waldo-emerson_essays
+In 1841 Ralph Waldo Emerson, a former minister who had left the church to become a lecturer and essayist, published "Self-Reliance", an essay that has shaped generations of American readers. | Năm 1841, Ralph Waldo Emerson, một cựu mục sư rời bỏ nhà thờ để trở thành diễn giả và nhà tiểu luận, xuất bản "Tự lực", một bài tiểu luận đã định hình nhiều thế hệ độc giả Mỹ.
+In places it reads like a secular sermon, full of soaring rhetoric and sentences that seem designed to be remembered. | Có những đoạn nó đọc như một bài giảng thế tục, đầy lời lẽ bay bổng và những câu văn dường như được viết ra để người ta ghi nhớ.
+Its message is that each person must trust his or her own thoughts rather than deferring to tradition, authority or the opinion of the crowd. | Thông điệp của nó là mỗi người phải tin vào suy nghĩ của chính mình thay vì cúi đầu trước truyền thống, quyền uy hay ý kiến của đám đông.
+To believe that what is true for you in your private heart is true for everyone, Emerson declared, is genius. | Emerson tuyên bố rằng tin rằng điều đúng với bạn trong thâm tâm cũng đúng với mọi người, đó chính là thiên tài.
+He was writing against his contemporaries' habit of imitating European models and bowing to the venerable authorities of the past. | Ông viết để chống lại thói quen của người đương thời là bắt chước các khuôn mẫu châu Âu và cúi đầu trước những bậc thầy đáng kính của quá khứ.
+
+He observed that in every work of genius we recognize our own rejected thoughts, which return to us with a strange, alienated majesty. | Ông nhận xét rằng trong mỗi tác phẩm thiên tài, ta nhận ra những ý nghĩ mình từng gạt bỏ, giờ quay về với ta mang một vẻ uy nghi xa lạ.
+We dismiss our own insights simply because they are ours, he argued, and tomorrow a stranger will say with masterly good sense precisely what we have thought, and we shall be forced to take our own opinion from another with shame. | Ông lập luận rằng ta gạt bỏ những hiểu biết của mình chỉ vì chúng là của ta, và ngày mai một người lạ sẽ nói ra, với lẽ phải điêu luyện, đúng điều ta đã nghĩ, và ta sẽ buộc phải xấu hổ nhận lại ý kiến của chính mình từ người khác.
+Envy, in his view, is ignorance, and imitation a betrayal of oneself, since each person must accept his or her own portion, for better or worse. | Theo ông, đố kỵ là ngu muội, còn bắt chước là phản bội chính mình, vì mỗi người phải chấp nhận phần của mình, dù tốt hay xấu.
+
+Society, Emerson warned, is everywhere in conspiracy against the independence of its members, rewarding conformity and punishing those who refuse it. | Emerson cảnh báo rằng ở đâu xã hội cũng âm mưu chống lại sự độc lập của các thành viên, ban thưởng cho sự tuân phục và trừng phạt những ai khước từ nó.
+"Whoso would be a man must be a nonconformist," he wrote, and he dismissed with derision what he called a foolish consistency, "the hobgoblin of little minds". | "Ai muốn làm người thì phải là kẻ không tuân phục," ông viết, và ông chế giễu cái mà ông gọi là sự nhất quán ngu ngốc, "con ngáo ộp của những tâm trí nhỏ nhen".
+A person who is afraid to contradict what he said yesterday is a slave to his own past, and to be great, he added, is to be misunderstood, as Socrates, Galileo and Newton were. | Người sợ nói ngược với điều mình nói hôm qua là nô lệ của quá khứ, và ông nói thêm rằng vĩ đại tức là bị hiểu lầm, như Socrates, Galileo và Newton đã từng.
+Paradoxically, he suggested, the most original thinkers are simply those most loyal to what they have quietly noticed, rather than to any dogma they have been taught. | Ông gợi ý một cách nghịch lý rằng những nhà tư tưởng độc đáo nhất đơn giản là những người trung thành nhất với điều họ lặng lẽ nhận ra, thay vì với bất kỳ giáo điều nào họ được dạy.
+
+The audacity of the essay is undeniable, and its ringing sentences have been quoted by everyone from poets and presidents to the authors of advertisements. | Sự táo bạo của bài tiểu luận là không thể phủ nhận, và những câu văn vang dội của nó đã được trích dẫn bởi đủ mọi người, từ thi sĩ, tổng thống cho đến người viết quảng cáo.
+Its critics argue that it can be used to justify mere selfishness, or a stubborn refusal to learn from anyone else, and that its contempt for consistency licenses every whim. | Những người phê bình cho rằng nó có thể được dùng để biện minh cho sự ích kỷ đơn thuần, hay sự ngoan cố không chịu học hỏi ai, và rằng sự coi thường tính nhất quán của nó cho phép mọi ý thích bất chợt.
+Others see in it the roots of a distinctively American individualism, admirable in its zeal for freedom but prone to forget the obligations that bind people together. | Những người khác thấy trong đó cội rễ của một chủ nghĩa cá nhân rất Mỹ, đáng ngưỡng mộ ở lòng nhiệt thành với tự do nhưng dễ quên đi những bổn phận gắn kết con người với nhau.
+But Emerson's ideal was not the solitary egoist, and he took care to say so. | Nhưng lý tưởng của Emerson không phải kẻ vị kỷ đơn độc, và ông đã cẩn thận nói rõ điều đó.
+It is easy to live by the world's opinion in the world, he wrote, and easy in solitude to live by our own; the great person is the one who, in the midst of the crowd, keeps with perfect sweetness the independence of solitude. | Ông viết rằng sống theo ý kiến thiên hạ giữa thiên hạ thì dễ, và sống theo ý mình lúc cô độc cũng dễ; người vĩ đại là người, giữa đám đông, vẫn giữ được trọn vẹn và dịu dàng sự độc lập của lúc cô độc.
+That balance between independence and connection remains as elusive, and as precious, as it was in 1841. | Sự cân bằng giữa độc lập và gắn kết ấy vẫn khó nắm bắt, và quý giá, như năm 1841.

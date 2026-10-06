@@ -26,7 +26,7 @@ const writeJson = (p, o) => writeFileSync(p, JSON.stringify(o));
 for (const d of ["readings", "stories", "videos", "word-refs"]) mkdirSync(join(OUT, d), { recursive: true });
 mkdirSync(TIMING, { recursive: true });
 
-const { items, report, libErr } = runChecks();
+const { items, report, libErr, quiz } = runChecks();
 const errs = [...libErr, ...[...report].flatMap(([id, r]) => r.e.map((e) => `${id}: ${e}`))];
 if (errs.length) {
   console.log(errs.slice(0, 40).map((e) => "✗ " + e).join("\n"));
@@ -38,6 +38,15 @@ const v = loadVocab();
 const band = (id) => v.band.get(id);
 const cleanIpa = (w) => ipaOf(w);
 const meaning = (id) => String(v.words.get(id)?.meaning_vi ?? "").trim();
+
+// Câu hỏi đọc hiểu (content/quiz) → [{q:{en,vi}, opts:[{en,vi}], a, why}] — a = chỉ số phương án đúng trong nguồn
+// (giao diện xáo lại mỗi lần mở). Khoá: id bài đọc, "id#n" cho chương n của truyện.
+const quizOf = (key) => {
+  const b = quiz.blocks.get(key);
+  if (!b) return undefined;
+  return b.questions.map((q) => ({ q: q.q, opts: q.opts.map(({ en, vi }) => ({ en, vi })), a: q.opts.findIndex((o) => o.ok), why: q.why }));
+};
+const sourceDoc = (m) => (m.source ? { source: { title: m.source.title, credit: m.source.credit, license: m.source.license, url: m.source.url } } : {});
 
 // ---- audio: key theo nội dung + giọng; mốc có sẵn thì ghép ----
 const jobs = [];
@@ -163,10 +172,15 @@ for (const { m } of videosAll) {
 const videos = videoDocs.filter((x) => x.ready).sort((a, b) => a.m.band - b.m.band || a.lesson.n - b.lesson.n);
 const readyVideo = new Set(videos.map((x) => x.m.id));
 
-// ---- series (ladder) ----
-const series = new Map();
-for (const { m } of readings) if (m.series) (series.get(m.series.id) ?? series.set(m.series.id, []).get(m.series.id)).push(m);
-for (const list of series.values()) list.sort((a, b) => a.series.order - b.series.order);
+// ---- series (ladder bài đọc theo cấp · các phần của một truyện dài) ----
+const seriesMap = (list) => {
+  const out = new Map();
+  for (const { m } of list) if (m.series) (out.get(m.series.id) ?? out.set(m.series.id, []).get(m.series.id)).push(m);
+  for (const l of out.values()) l.sort((a, b) => a.series.order - b.series.order);
+  return out;
+};
+const series = seriesMap(readings);
+const storySeries = seriesMap(stories);
 const link = (m) => m && { id: m.id, level: m.level, title_en: m.title.en };
 
 // ---- ghi Reading ----
@@ -191,10 +205,12 @@ for (const { m, n } of readings) {
     focus: focusOf(m),
     ...(s ? { series: { id: m.series.id, order: k + 1, count: s.length, ...(s[k - 1] ? { prev: link(s[k - 1]) } : {}), ...(s[k + 1] ? { next: link(s[k + 1]) } : {}) } } : {}),
     ...(passageAudio(key) ? { audio: passageAudio(key) } : {}),
+    ...(quizOf(m.id) ? { quiz: quizOf(m.id) } : {}),
+    ...sourceDoc(m),
   };
   writeJson(join(OUT, "readings", `${m.id}.json`), doc);
   wrote.readings.add(m.id);
-  rIndex.push({ id: m.id, level: m.level, n, title_en: m.title.en, title_vi: m.title.vi, topic: m.topic, genre: m.genre, words: doc.words, min: doc.min, ...(m.series ? { series: m.series.id } : {}) });
+  rIndex.push({ id: m.id, level: m.level, n, title_en: m.title.en, title_vi: m.title.vi, topic: m.topic, genre: m.genre, words: doc.words, min: doc.min, ...(m.series ? { series: m.series.id } : {}), ...(m.source ? { src: 1 } : {}) });
 }
 
 // ---- ghi Story ----
@@ -204,9 +220,12 @@ for (const { m, n } of stories) {
   const chapters = m.chapters.map((c, i) => {
     const key = passageJob(`stories/${m.id}-${i + 1}.mp3`, c.sentences, c.paras, m.level);
     const a = passageAudio(key);
-    return { title: c.title, paras: c.paras, sentences: c.sentences.map(({ en, vi }) => ({ en, vi })), ...(a ? { audio: a } : {}) };
+    const q = quizOf(`${m.id}#${i + 1}`);
+    return { title: c.title, paras: c.paras, sentences: c.sentences.map(({ en, vi }) => ({ en, vi })), ...(a ? { audio: a } : {}), ...(q ? { quiz: q } : {}) };
   });
   const vid = readyVideo.has(m.video) ? byId.get(m.video) : null;
+  const ss = m.series ? storySeries.get(m.series.id) : null;
+  const sk = ss ? ss.indexOf(m) : -1;
   const doc = {
     id: m.id,
     level: m.level,
@@ -219,10 +238,26 @@ for (const { m, n } of stories) {
     chapters,
     focus: focusOf(m),
     ...(vid ? { video: { id: vid.id, title: vid.title } } : {}),
+    ...(ss ? { series: { id: m.series.id, order: sk + 1, count: ss.length, ...(ss[sk - 1] ? { prev: link(ss[sk - 1]) } : {}), ...(ss[sk + 1] ? { next: link(ss[sk + 1]) } : {}) } } : {}),
+    ...sourceDoc(m),
   };
   writeJson(join(OUT, "stories", `${m.id}.json`), doc);
   wrote.stories.add(m.id);
-  sIndex.push({ id: m.id, level: m.level, n, title_en: m.title.en, title_vi: m.title.vi, topic: m.topic, summary: m.summary, chapters: chapters.length, words: doc.words, min: doc.min, ...(vid ? { video: vid.id } : {}) });
+  sIndex.push({
+    id: m.id,
+    level: m.level,
+    n,
+    title_en: m.title.en,
+    title_vi: m.title.vi,
+    topic: m.topic,
+    summary: m.summary,
+    chapters: chapters.length,
+    words: doc.words,
+    min: doc.min,
+    ...(vid ? { video: vid.id } : {}),
+    ...(ss ? { series: m.series.id, part: sk + 1, parts: ss.length } : {}),
+    ...(m.source ? { src: 1 } : {}),
+  });
 }
 
 // ---- ghi Video (chỉ bài đã có audio) ----
@@ -313,6 +348,7 @@ if (PRUNE) {
   console.log(`dọn ${n} file không còn dùng`);
 }
 
+const nQuiz = [...quiz.blocks.values()].reduce((n, b) => n + b.questions.length, 0);
 console.log(
-  `thư viện: ${rIndex.length} reading · ${sIndex.length} story · ${vIndex.length}/${videosAll.length} video có audio · audio thiếu ${missing.length}/${jobs.length} track`,
+  `thư viện: ${rIndex.length} reading · ${sIndex.length} story · ${vIndex.length}/${videosAll.length} video có audio · audio thiếu ${missing.length}/${jobs.length} track · ${nQuiz} câu hỏi đọc hiểu (${quiz.blocks.size} bài/chương)`,
 );

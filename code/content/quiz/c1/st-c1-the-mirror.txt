@@ -1,0 +1,109 @@
+=== st-c1-the-mirror 1
+? What did Brightline's newest product do? | Sản phẩm mới nhất của Brightline làm gì?
++ Ranked job candidates by likely success | Xếp hạng ứng viên theo khả năng thành công
+- Wrote job advertisements for employers | Viết tin tuyển dụng cho nhà tuyển dụng
+- Interviewed applicants by video call | Phỏng vấn ứng viên qua gọi video
+- Checked candidates' criminal records | Kiểm tra lý lịch tư pháp của ứng viên
+> Chương 1: «Brightline, the company she worked for, sold software that helped employers screen job applications, and its newest product was an algorithm that read CVs and ranked candidates according to how likely they were to succeed.»
+
+? What had the model been trained on? | Mô hình đã được huấn luyện bằng gì?
++ Ten years of Harwick's hiring decisions | Mười năm quyết định tuyển dụng của Harwick
+- Thousands of university exam results | Hàng nghìn kết quả thi đại học
+- Interviews with successful engineers | Phỏng vấn các kỹ sư thành đạt
+- Data from many different companies | Dữ liệu của nhiều công ty khác nhau
+> Chương 1: «The model had been trained on ten years of Harwick's own hiring decisions.»
+
+? Why had Hana joined Brightline? | Vì sao Hana về làm cho Brightline?
++ She hoped software could make hiring fairer. | Cô mong phần mềm giúp tuyển dụng công bằng hơn.
+- She wanted a much higher salary than before. | Cô muốn mức lương cao hơn trước nhiều.
+- Her university research group had closed down. | Nhóm nghiên cứu ở trường đại học của cô giải thể.
+- Harwick had offered her a personal contract. | Harwick đã mời cô ký hợp đồng riêng.
+> Chương 1: «Hana had joined Brightline two years earlier from a university research group, attracted by the idea that careful software could make hiring fairer than the hurried judgments of human recruiters, who spend, according to one study, an average of seven seconds on each CV.»
+
+=== st-c1-the-mirror 2
+? What problem did Hana find? | Hana phát hiện vấn đề gì?
++ Women received lower scores than similar men. | Phụ nữ bị chấm thấp hơn nam giới có trình độ tương đương.
+- Men were rejected far more often than women. | Nam giới bị loại nhiều hơn phụ nữ.
+- The model ignored every qualification completely. | Mô hình hoàn toàn bỏ qua bằng cấp.
+- The software crashed during the standard tests. | Phần mềm bị treo khi chạy kiểm tra chuẩn.
+> Chương 2: «For engineering roles, female applicants received scores that were, on average, eighteen per cent lower than those of male applicants with equivalent qualifications and experience.»
+
+? How did the model work out applicants' gender? | Mô hình đã suy ra giới tính ứng viên bằng cách nào?
++ Through words statistically linked to women | Qua những từ ngữ có liên hệ thống kê với phụ nữ
+- By reading each applicant's first name | Bằng cách đọc tên của mỗi ứng viên
+- From photographs attached to the CVs | Từ ảnh đính kèm hồ sơ
+- From a question on the application form | Từ một câu hỏi trong mẫu đơn
+> Chương 2: «The model had learned to penalize words and phrases that were statistically associated with women, such as the names of certain universities, membership of a women's rugby team or a gap of a year or more in employment.»
+
+? What had the algorithm concluded from Harwick's history? | Thuật toán đã rút ra kết luận gì từ lịch sử của Harwick?
++ Being a man was part of success. | Là nam giới là một phần của thành công.
+- Women were generally better engineers. | Phụ nữ nhìn chung là kỹ sư giỏi hơn.
+- Universities did not matter at all. | Trường đại học chẳng quan trọng gì.
+- Gaps in employment were very useful. | Khoảng nghỉ việc rất hữu ích.
+> Chương 2: «For a decade, the company had hired and promoted predominantly men, and the algorithm had concluded, reasonably enough from its own point of view, that being a man was part of what success looked like.»
+
+=== st-c1-the-mirror 3
+? What did Derek suggest? | Derek đề xuất điều gì?
++ Removing the problem words and retraining | Loại bỏ các từ có vấn đề rồi huấn luyện lại
+- Delaying the launch for a whole year | Hoãn ra mắt cả một năm
+- Telling Harwick everything about the problem | Kể hết vấn đề cho Harwick
+- Hiring more women engineers at Brightline | Tuyển thêm kỹ sư nữ cho Brightline
+> Derek nói: «So we remove the problematic words»
+
+? Why did Hana say removing those words was not enough? | Vì sao Hana nói loại bỏ các từ đó là chưa đủ?
++ The model would find other proxies. | Mô hình sẽ tìm ra biến đại diện khác.
+- The engineers lacked the necessary skills. | Kỹ sư thiếu kỹ năng cần thiết.
+- Harwick had forbidden any changes to it. | Harwick cấm mọi thay đổi.
+- The weekend was far too short for it. | Một cuối tuần là quá ngắn.
+> Hana nói: «If we remove those words, the model will find other proxies.»
+
+? What did Elena say launching the system would mean? | Elena nói ra mắt hệ thống sẽ có nghĩa là gì?
++ Selling Harwick a lawsuit | Bán cho Harwick một vụ kiện
+- Losing the most important contract | Mất hợp đồng quan trọng nhất
+- Breaking a promise to Derek | Thất hứa với Derek
+- Winning a national award | Giành một giải thưởng quốc gia
+> Elena nói: «We're selling them a lawsuit.»
+
+=== st-c1-the-mirror 4
+? How did Harwick's director of engineering react? | Giám đốc kỹ thuật của Harwick phản ứng thế nào?
++ She thanked them for their candour. | Bà cảm ơn họ vì sự thẳng thắn.
+- She cancelled the contract at once. | Bà huỷ hợp đồng ngay lập tức.
+- She demanded a much lower price. | Bà đòi giảm giá mạnh.
+- She blamed Hana for the whole delay. | Bà đổ lỗi cho Hana về sự chậm trễ.
+> Chương 4: «Instead, the company's director of engineering, one of only two women in the room, thanked them for their candour and asked how long it would take to do the work properly.»
+
+? What would the new model be trained on? | Mô hình mới sẽ được huấn luyện bằng gì?
++ Concrete measures of performance | Các thước đo cụ thể về năng lực làm việc
+- Past hiring decisions and nothing else | Chỉ các quyết định tuyển dụng trước đây
+- Interviews with every senior manager | Phỏng vấn mọi quản lý cấp cao
+- Applicants' posts on social media | Bài đăng mạng xã hội của ứng viên
+> Chương 4: «Instead of predicting whom Harwick had hired in the past, the new model would be trained on concrete measures of performance, such as the results of technical assessments, and every group of applicants would be tested for disparities before any decision was made.»
+
+? What role would humans play in the new system? | Con người sẽ đóng vai trò gì trong hệ thống mới?
++ Reviewing every CV in the bottom half | Xem xét mọi hồ sơ ở nửa dưới bảng xếp hạng
+- Writing every single job advertisement | Viết từng tin tuyển dụng
+- Choosing which words the model should remove | Chọn những từ mô hình nên loại bỏ
+- Testing the software every weekend | Kiểm tra phần mềm mỗi cuối tuần
+> Chương 4: «Most importantly, the algorithm would no longer reject anyone; it would merely recommend, and a trained human reviewer would read every CV that it ranked in the bottom half.»
+
+=== st-c1-the-mirror 5
+? How did the disparity in scores change? | Chênh lệch điểm số thay đổi thế nào?
++ It fell from eighteen to under two per cent. | Nó giảm từ mười tám xuống dưới hai phần trăm.
+- It rose sharply to over twenty per cent. | Nó tăng vọt lên hơn hai mươi phần trăm.
+- It stayed exactly at eighteen per cent. | Nó giữ nguyên mười tám phần trăm.
+- It fell only slightly, to about ten per cent. | Nó chỉ giảm nhẹ, còn khoảng mười phần trăm.
+> Chương 5: «The disparity in scores between men and women fell from eighteen per cent to less than two, a difference that further statistical testing showed to be marginal, and the proportion of women shortlisted for interviews almost doubled.»
+
+? What had the young engineer assumed? | Nữ kỹ sư trẻ đã từng nghĩ gì?
++ Her career gap would disqualify her. | Khoảng nghỉ trong sự nghiệp sẽ khiến cô bị loại.
+- Her degree was simply not good enough. | Bằng cấp của cô không đủ tốt.
+- The interview would be far too hard. | Buổi phỏng vấn sẽ quá khó.
+- Women were not being hired at all. | Phụ nữ hoàn toàn không được tuyển.
+> Chương 5: «For Hana, the most satisfying moment came months later, when a young engineer who had been ranked highly by the new model mentioned that she had taken a year out to care for her father, and that she had assumed the gap would disqualify her.»
+
+? How did Hana describe an algorithm trained on the past? | Hana mô tả một thuật toán học từ quá khứ thế nào?
++ A mirror, not a window | Một tấm gương, không phải cửa sổ
+- A window into the future | Một cửa sổ nhìn ra tương lai
+- A judge that is always fair | Một thẩm phán luôn công bằng
+- A map of every possibility | Một tấm bản đồ mọi khả năng
+> Hana viết: «An algorithm trained on the past is a mirror, not a window»

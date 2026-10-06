@@ -4,8 +4,10 @@ import { writeFileSync, mkdtempSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { analyzeSentence, analyzeWord, lemmaOf, ipaOf, profile, LEVEL_KEYS } from "./lib/en-vocab.mjs";
-import { parseFile, parseProse, parseChapters, parseDialogue, splitPair, parseKv } from "./lib/content-format.mjs";
+import { parseFile, parseProse, parseChapters, parseDialogue, splitPair, parseKv, parseQuizFile } from "./lib/content-format.mjs";
 import { parseAnnotations } from "./lib/content-model.mjs";
+import { checkQuizBlock, quoteFound, quotesOf } from "./lib/quiz-check.mjs";
+import { quizScore, shuffledOrder, splitQuotes } from "../lib/quiz-pure.ts";
 import { lineTokens, wordCount, lineIndexAt, wordAt, keyRanges, castOnStage, sceneAt } from "../lib/video.ts";
 
 let pass = 0;
@@ -120,6 +122,80 @@ eq("IPA không bịa: tên lạ", ipaOf("Zyxworth"), "");
   writeFileSync(f, "=== rd-a1-a-rainy-day\ntitle: A Rainy Day | Một ngày mưa\ntopic: nature\n\nIt is raining. | Trời đang mưa.\n");
   const items = parseFile(f, dir);
   eq("parseFile", [items[0].id, items[0].level, items[0].type, items[0].header.topic, items[0].body.filter((b) => b.text).length], ["rd-a1-a-rainy-day", "a1", "reading", "nature", 1]);
+}
+
+// ---- câu hỏi đọc hiểu: parser + bộ kiểm + hàm thuần giao diện ----
+{
+  const dir = mkdtempSync(join(tmpdir(), "quiz-"));
+  const f = join(dir, "q.txt");
+  writeFileSync(
+    f,
+    [
+      "// ghi chú",
+      "=== rd-a1-rain",
+      "? What day is it? | Hôm đó là thứ mấy?",
+      "+ Monday | Thứ Hai",
+      "- Sunday | Chủ nhật",
+      "- Friday | Thứ Sáu",
+      "- Saturday | Thứ Bảy",
+      "> Câu đầu: «It is Monday morning, and it is raining.»",
+      "",
+      "=== st-a1-cake 2",
+      "? Who cuts the bananas? | Ai cắt chuối?",
+      "+ Ruby | Ruby",
+      "- Finn | Finn",
+      "- Dad | Bố",
+      "- Mom | Mẹ",
+      "> «Ruby cuts bananas and oranges.»",
+    ].join("\n"),
+  );
+  const blocks = parseQuizFile(f, dir);
+  eq("quiz: 2 block", blocks.map((b) => [b.id, b.ch]), [["rd-a1-rain", null], ["st-a1-cake", 2]]);
+  eq("quiz: đáp án đúng", blocks[0].questions[0].opts.map((o) => o.ok), [true, false, false, false]);
+  eq("quiz: giải thích", blocks[1].questions[0].why, "«Ruby cuts bananas and oranges.»");
+  writeFileSync(f, "=== st-a1-cake\n? Q? | H?\n");
+  let thrown = "";
+  try {
+    parseQuizFile(f, dir);
+  } catch (e) {
+    thrown = String(e.message);
+  }
+  eq("quiz: truyện thiếu số chương bị bắt", /số chương/.test(thrown), true);
+  eq("quotesOf", quotesOf("Bài: «A b.» và «C d»"), ["A b.", "C d"]);
+  const sents = [{ en: 'Ruby says, "Let\'s go."' }, { en: "Then they run home." }];
+  eq("quoteFound nguyên văn", quoteFound('"Let\'s go."', sents), true);
+  eq("quoteFound qua hai câu liền", quoteFound('go." Then they', sents), true);
+  eq("quoteFound sai chữ", quoteFound("Then they walk home.", sents), false);
+  // bộ kiểm trên một bài giả: đủ 3 câu, 1 câu sai luật
+  const m = { id: "rd-a1-x", type: "reading", level: "a1", band: 0, names: new Set(["^ruby"]), gloss: new Set(), sentences: [{ en: "Ruby has a red bike." }, { en: "She rides it to school every day." }, { en: "On Sunday, it is very hot." }] };
+  const opt = (en, ok = false) => ({ en, vi: "x", ok });
+  const good = (q, a, why) => ({ line: 1, q: { en: q, vi: "Hỏi?" }, opts: [opt(a, true), opt("A blue car"), opt("A green bus"), opt("A big train")], why });
+  const block = {
+    id: "rd-a1-x",
+    ch: null,
+    questions: [
+      good("What does Ruby have?", "A red bike", "Bài: «Ruby has a red bike.»"),
+      good("Where does she go every day?", "To school", "«She rides it to school every day.»"),
+      { line: 3, q: { en: "What is the consequence of the heat", vi: "Hỏi?" }, opts: [opt("x", true), opt("x"), opt("y")], why: "Không trích" },
+    ],
+  };
+  const r = checkQuizBlock(block, m);
+  const has = (re) => r.e.some((x) => re.test(x));
+  eq("kiểm quiz: câu tốt không lỗi", r.e.filter((x) => /câu [12] /.test(x)), []);
+  eq("kiểm quiz: thiếu ?", has(/câu 3 .*kết bằng "\?"/), true);
+  eq("kiểm quiz: 3 phương án", has(/câu 3 .*3 phương án/), true);
+  eq("kiểm quiz: phương án trùng", has(/câu 3 .*trùng nhau/), true);
+  eq("kiểm quiz: thiếu trích dẫn", has(/câu 3 .*trích «nguyên văn»/), true);
+  eq("kiểm quiz: từ vượt cấp A1", has(/câu 3 .*vượt cấp consequence/), true);
+  // hàm thuần
+  let seed = 7;
+  const rand = () => ((seed = (seed * 16807) % 2147483647) - 1) / 2147483646;
+  const perms = new Set();
+  for (let i = 0; i < 200; i++) perms.add(shuffledOrder(4, rand).join());
+  eq("shuffledOrder là hoán vị và có xáo", [...perms].every((p) => p.split(",").sort().join() === "0,1,2,3") && perms.size > 10, true);
+  eq("shuffledOrder rand=0 tất định", shuffledOrder(3, () => 0), [1, 2, 0]);
+  eq("quizScore", quizScore([1, 0, 2], [1, 2, undefined]), { done: 2, correct: 1, total: 3 });
+  eq("splitQuotes", splitQuotes("Bài: «A b.» nhé"), [{ text: "Bài: ", quote: false }, { text: "A b.", quote: true }, { text: " nhé", quote: false }]);
 }
 
 // ---- hàm thuần Video ----

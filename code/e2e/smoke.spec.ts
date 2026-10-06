@@ -325,7 +325,7 @@ test("Hải trình: cấp bậc Royal Navy + huy hiệu", async ({ page }) => {
 });
 
 // Thư viện: hub /doc → Bài đọc (/bai-doc) · Truyện (/truyen) · Video (/video), mỗi mục chia 6 cấp.
-type LibMeta = { id: string; level: string; title_en?: string; title?: { en: string } };
+type LibMeta = { id: string; level: string; title_en?: string; title?: { en: string }; video?: string };
 const lib = (name: string) =>
   JSON.parse(readFileSync(join(process.cwd(), "public", "data", "library", name), "utf8")) as LibMeta[];
 
@@ -372,7 +372,8 @@ test("bài đọc: bật Dịch hiện bản tiếng Việt và nút nghe từng
 });
 
 test("truyện: chuyển chương và dẫn sang video hội thoại", async ({ page }) => {
-  const s = lib("stories-index.json").find((x) => x.level === "b1")!;
+  // truyện phỏng theo nguồn mở không đi cặp Video → chọn truyện tự biên soạn (có video)
+  const s = lib("stories-index.json").find((x) => x.level === "b1" && x.video)!;
   await freshStart(page, `/truyen/b1/${s.id}`);
   await expect(page.getByRole("heading", { name: s.title_en })).toBeVisible();
   await expect(page.getByText("Chương 1", { exact: true })).toBeVisible();

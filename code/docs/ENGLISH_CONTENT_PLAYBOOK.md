@@ -10,8 +10,9 @@ số liệu hiện tại xem `npm run content:report`.
 |---|---|---|---|
 | Mục tiêu | Đọc hiểu, gặp từ, kiến thức phổ thông → học thuật | Đọc rộng, nhớ từ qua nhân vật/sự kiện | Nghe hiểu, khẩu ngữ, phản xạ giao tiếp |
 | Dạng | Thông tin, giải thích, miêu tả, so sánh, nhân–quả; C1–C2 phân tích/lập luận; A1–B1 thêm văn bản thực dụng (thông báo, email, lịch, menu) | Nhân vật + thoại + vấn đề/xung đột + diễn biến + kết; nhiều chương | Hội thoại tự nhiên 2–3 người (C1–C2 thêm phỏng vấn, thảo luận, tranh luận, trao đổi chuyên môn) |
-| Số lượng | **Nhiều nhất** | = số Video | **1 Video / Story** |
+| Số lượng | **Nhiều nhất** | = số Video (+ truyện phỏng theo nguồn mở, §14) | **1 Video / Story tự viết** |
 | Audio | 1 track/bài, giọng kể | 1 track/chương, giọng kể | 1 track/bài, mỗi nhân vật một giọng |
+| Câu hỏi đọc hiểu | 4 câu/bài (A1 có thể 3) | 3 câu/chương | — |
 
 Quan hệ: `Vocabulary/SRS → Reading → Story → Video`. Ba loại **bổ sung nhau, không lặp nguyên văn**:
 Reading cho kiến thức và từ trong văn viết; Story đặt từ vào tình huống có người; Video lấy tình huống,
@@ -125,7 +126,9 @@ innovation.
 
 Lỗi chặn build: sai schema/định dạng, id trùng/sai dạng, câu thiếu nghĩa Việt, tách từ hỏng (`end.Next`,
 khoảng trắng kép), Story không có Video (và ngược lại), Video trỏ nguồn không tồn tại, asset/biểu cảm/cử
-chỉ lạ, người nói vắng mặt, từ đích không có trong thoại, heteronym chưa khai IPA, trùng nguyên văn.
+chỉ lạ, người nói vắng mặt, từ đích không có trong thoại, heteronym chưa khai IPA, trùng nguyên văn; bài đọc /
+chương truyện **chưa có câu hỏi đọc hiểu** và câu hỏi sai luật (§13) — `--draft` chỉ nới Video + câu hỏi cho lô
+đang viết dở. Truyện có `source:` (§14) không bắt buộc Video.
 
 Cảnh báo cần soát: từ vượt cấp / ngoài từ điển, độ dài và câu TB lệch cấp, tỉ lệ từ đúng cấp thấp, số
 khác nhau giữa Anh–Việt, bản dịch còn tiếng Anh/quá ngắn, near-duplicate (5-gram Jaccard), mở/kết bài
@@ -154,8 +157,72 @@ Id đã phát hành là ổn định: sửa nội dung giữ id; thay hẳn ch�
 ## 12. Checklist mỗi lô
 
 - [ ] `npm run content:check` không lỗi; cảnh báo đã đọc và xử lý hoặc chấp nhận có lý do.
+- [ ] `npm run content:quiz -- --level <cấp> --long` không lỗi, không cờ "dài:"; mọi bài/chương mới đều có câu hỏi.
 - [ ] `npm run content:coverage` — ghi số mới vào checkpoint; `content:gaps` cho lô sau.
 - [ ] Đọc lại bằng mắt ≥ 2 bài/lô (tự nhiên? đúng cấp? dịch đúng?), 1 truyện, 1 video.
 - [ ] Audio: build in "✓ đồng bộ"; nghe thử đầu/cuối một bài.
 - [ ] Cuối cấp: `npm run content:build` + `npm run check` + xem UI ở 390 px và desktop.
 - [ ] Cuối đợt: `npm run content:report` (số liệu báo cáo) + quét cặp truyện giống nhau giữa các cấp.
+
+## 13. Câu hỏi đọc hiểu
+
+Theo app HSK: cuối **mỗi bài đọc** (4 câu; A1 có thể 3) và **mỗi chương truyện** (3 câu) có câu hỏi trắc nghiệm
+4 phương án, chọn là chấm ngay (`components/library/quiz.tsx`): đáp án đúng tô xanh, chọn sai tô đỏ, lộ bản
+dịch mọi phương án + lời giải thích trích nguyên văn câu trong bài; phương án xáo lại mỗi lần mở / Làm lại;
+không lưu điểm.
+
+File riêng `content/quiz/{cấp}/{trùng tên file bài/truyện}.txt`, mỗi khối một bài hoặc một chương:
+
+```
+=== rd-c2-lost-in-the-maze            ← bài đọc;  "=== st-… 2" = chương 2 (đếm từ 1) của truyện
+? Why was Harris sure the maze would be easy? | Vì sao Harris chắc rằng mê cung sẽ dễ?
++ He had studied a map of it beforehand. | Anh đã nghiên cứu bản đồ của nó từ trước.
+- He had visited it often as a boy. | Hồi nhỏ anh đã đến đó nhiều lần.
+- The keeper had given him directions. | Người trông coi đã chỉ đường cho anh.
+- His cousin knew the way perfectly. | Người anh họ biết rõ đường đi.
+> Bài đọc: «Harris had studied a map of the maze beforehand and concluded…»
+```
+
+Luật bộ kiểm (`scripts/lib/quiz-check.mjs`, chạy trong `content:check` và `content:quiz`):
+
+- Đúng 4 phương án, đúng 1 dòng `+`; mọi câu/phương án có nghĩa Việt; phương án Việt dài hơn 2 chữ phải có dấu.
+- `> giải thích` tiếng Việt có ít nhất một «trích dẫn» là **chuỗi con nguyên văn** của một (hoặc hai câu liền
+  nhau) trong bài/chương đó; nhiều trích dẫn nối bằng " — ". Mở đầu quen dùng: `Bài đọc:`, `Chương N:`,
+  `Tên nói:` / `Tên viết:`. Trích đoạn có ngoặc kép bên trong thì chỉ trích phần lời thoại cho chắc.
+- Từ vựng câu hỏi + phương án ≤ cấp bài, hoặc có trong chính bài / `names:` / `gloss:`; chữ viết hoa giữa câu phải
+  là tên đã khai. Độ dài tối đa (số từ) theo cấp: `SPEC[cấp].quiz` (`q` câu hỏi, `opt` phương án).
+- `--long`: báo đáp án đúng dài ≥ 1,3 lần phương án sai dài nhất (khi > 12 ký tự) — người học đoán được nhờ độ dài.
+  Giữ phương án sai cùng dạng ngữ pháp, dài xấp xỉ (≥ ~80% đáp án), hợp lý nhưng sai rõ theo bài; không "all of
+  the above", không bẫy chữ.
+- Loại câu: ý chính, chi tiết, lý do/nhân quả, từ vựng trong ngữ cảnh; C1–C2 thêm suy luận và thái độ tác giả
+  (vẫn phải trích được câu làm căn cứ).
+
+Lệnh: `npm run content:quiz -- --level c1 [--long] [--missing]` — in lỗi/cảnh báo và độ phủ theo cấp; `--missing`
+liệt kê bài/chương còn thiếu câu hỏi.
+
+## 14. Phỏng theo nguồn mở
+
+Bài đọc / truyện có thể **kể lại** từ nguồn mở trên GitHub — chỉ nhận **phạm vi công cộng, CC0, CC BY**
+(không NC, SA, ND):
+
+| Nguồn | Giấy phép | Hợp cấp |
+|---|---|---|
+| `standardebooks/*` (Aesop, Andersen, Grimm, Kipling, Wilde, O. Henry, Saki, Chekhov–Garnett, Doyle, Jerome, Franklin, Thoreau, Mill, Hazlitt, Emerson, Joyce, Leacock, Twain, Chesterton…) | public domain (+ CC0) | A2–C2 |
+| `GITenberg/*` (Project Gutenberg, vd. Baldwin *Fifty Famous Stories*) | public domain | B1–B2 |
+| `global-asp/asp-source`, `pb-source`, `sbc-source`, `lida-source` (African Storybook, Pratham StoryWeaver) | CC BY 4.0 — kiểm từng truyện, bỏ mục NC/SA | A1–B1 |
+
+- Header bắt buộc: `source: Tên gốc | tác giả, tuyển tập (năm), nơi lấy` · `license: public domain | CC0 1.0 |
+  CC BY 4.0` · `source-url: https://github.com/…`. Trang bài hiện dòng ghi nguồn (`source-note.tsx`): tên gốc, tác
+  giả, giấy phép kèm liên kết, liên kết GitHub, "đã biên soạn lại theo cấp độ và dịch" — đủ ghi công CC BY.
+- **Kể lại theo cấp**, không chép: giữ cốt truyện/ý chính, câu chữ mới đúng mốc §2–§3; bài đọc C1–C2 thêm đoạn
+  bình luận ngắn (bối cảnh, ý nghĩa, liên hệ hôm nay) để đủ từ đúng cấp. Ghi chú ở dòng `//` đầu file: nguồn,
+  chương đã dùng, chi tiết đã đổi.
+- **Bạo lực làm nhẹ hoặc bỏ**: giết người, đánh đập, đầu độc, tự tử, xác chết… đổi thành hướng nhẹ (bỏ đi biệt
+  tích, bị nhốt, ngã xuống ao, doạ suông) hoặc bỏ hẳn; không giữ máu me/miêu tả thương tích.
+- Không trùng nội dung đã có: soát tiêu đề + cốt truyện ở **mọi cấp** (một tác phẩm chỉ dùng ở một cấp), tránh
+  tiền đề đã có (vd. "After Twenty Years" ↔ truyện hẹn gặp sau 20 năm).
+- Truyện phỏng theo nguồn **không bắt buộc Video**. Tác phẩm dài tách thành nhiều truyện cùng cấp với
+  `series: <id-chuỗi> <thứ-tự>` (thứ tự liền 1..n, bộ kiểm chặn trùng/lệch cấp).
+- Tên riêng phổ biến (London, American, German, Christmas…) ≤ 2 truyện/cấp — đổi cách nói ("the capital",
+  "a foreign gentleman") thay vì khai thêm.
+

@@ -2,12 +2,15 @@
 // Lỗi CẤU TRÚC (không đọc được) gom vào `errors` kèm file:dòng; lỗi NỘI DUNG để check-content lo.
 import { join } from "node:path";
 import { existsSync } from "node:fs";
-import { listSources, parseFile, parseProse, parseChapters, parseDialogue, parseKv, splitPair, FormatError } from "./content-format.mjs";
+import { listSources, parseFile, parseProse, parseChapters, parseDialogue, parseKv, splitPair, parseQuizFile, FormatError } from "./content-format.mjs";
 import { profile, bandOfKey } from "./en-vocab.mjs";
 import { EXPRESSIONS, GESTURES } from "../../lib/video.ts";
 
 export const ROOT = join(import.meta.dirname, "..", "..");
 export const CONTENT = join(ROOT, "content");
+// Chỉ ba thư mục này là nguồn Thư viện — content/grammar (Ngữ pháp) và content/quiz (câu hỏi) có định dạng riêng.
+export const LIBRARY_DIRS = ["readings", "stories", "videos"];
+export const QUIZ_DIR = join(CONTENT, "quiz");
 
 const list = (s) =>
   String(s ?? "")
@@ -61,18 +64,30 @@ export function parseAnnotations(ann, castIds) {
   return { fields: out, bad };
 }
 
+// Nguồn mở (bài phỏng theo): "source: Tên gốc | tác giả, tuyển tập (năm)" + license: + source-url:.
+function sourceOf(h) {
+  if (!h.source && !h.license && !h["source-url"]) return undefined;
+  const p = splitPair(h.source ?? "");
+  return { title: p?.en ?? String(h.source ?? "").trim(), credit: p?.vi ?? "", license: h.license ?? "", url: h["source-url"] ?? "", raw: h.source ?? "" };
+}
+const seriesOf = (h) => {
+  if (!h.series) return undefined;
+  const [sid, sord] = String(h.series).split(/\s+/);
+  return { id: sid, order: Number(sord) };
+};
+
 function normReading(it, fail) {
   const h = it.header;
   const title = splitPair(h.title ?? "");
   if (!title) fail(it.line, `thiếu/sai title "EN | VI"`);
   const { paras, sentences } = parseProse(it.body, fail);
-  const [sid, sord] = String(h.series ?? "").split(/\s+/);
   return {
     ...base(it),
     title,
     topic: h.topic,
     genre: h.genre,
-    series: h.series ? { id: sid, order: Number(sord) } : undefined,
+    series: seriesOf(h),
+    source: sourceOf(h),
     names: nameSet(list(h.names)),
     gloss: glossSet(list(h.gloss)),
     paras,
@@ -91,6 +106,8 @@ function normStory(it, fail) {
     topic: h.topic,
     genre: h.genre ?? "narrative",
     summary: h.summary ?? "",
+    series: seriesOf(h),
+    source: sourceOf(h),
     names: nameSet(list(h.names)),
     gloss: glossSet(list(h.gloss)),
     chapters,
@@ -196,7 +213,10 @@ export function loadLibrary(dir = CONTENT) {
   const items = [];
   const errors = [];
   if (!existsSync(dir)) return { items, errors };
-  for (const f of listSources(dir)) {
+  const files = LIBRARY_DIRS.map((d) => join(dir, d))
+    .filter((d) => existsSync(d))
+    .flatMap((d) => listSources(d));
+  for (const f of files) {
     let parsed;
     try {
       parsed = parseFile(f, ROOT);
@@ -221,6 +241,35 @@ export function loadLibrary(dir = CONTENT) {
     }
   }
   return { items, errors };
+}
+
+/**
+ * Nạp câu hỏi đọc hiểu (content/quiz/**.txt). Trả { blocks, errors }; khoá block: "id" (bài đọc) hoặc
+ * "id#n" (chương n, 1-based) — trùng khoá thì block sau ghi vào `dupes`.
+ */
+export function loadQuizzes(dir = QUIZ_DIR) {
+  const blocks = new Map();
+  const errors = [];
+  const dupes = [];
+  if (!existsSync(dir)) return { blocks, errors, dupes };
+  for (const f of listSources(dir)) {
+    let parsed;
+    try {
+      parsed = parseQuizFile(f, ROOT);
+    } catch (e) {
+      if (e instanceof FormatError) {
+        errors.push(e.message);
+        continue;
+      }
+      throw e;
+    }
+    for (const b of parsed) {
+      const key = b.ch ? `${b.id}#${b.ch}` : b.id;
+      if (blocks.has(key)) dupes.push({ key, a: blocks.get(key), b });
+      else blocks.set(key, b);
+    }
+  }
+  return { blocks, errors, dupes };
 }
 
 const PROFILE = new WeakMap();

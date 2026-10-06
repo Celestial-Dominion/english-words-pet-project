@@ -56,6 +56,8 @@ next-env.d.ts
 /scripts/.video-tts-cache/
 /scripts/.content-audio/
 /.english-content-state.json
+# tiến độ đợt bài đọc/truyện từ nguồn mở + câu hỏi đọc hiểu (ghi chú làm việc, không commit)
+/.english-oss-state.md
 
 # ngữ pháp: cache TTS từng mảnh, mốc thời gian audio (sinh lại bằng npm run grammar:build), checkpoint sản xuất
 /scripts/.grammar-tts-cache/

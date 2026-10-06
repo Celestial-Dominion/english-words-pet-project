@@ -1,0 +1,109 @@
+=== st-c1-the-breach 1
+? What did the message on the screens demand? | Thông điệp trên màn hình đòi điều gì?
++ A ransom of four million dollars | Khoản tiền chuộc bốn triệu đô la
+- New passwords for every computer | Mật khẩu mới cho mọi máy tính
+- The resignation of the chief executive | Giám đốc điều hành phải từ chức
+- Access to the hospital's ambulance system | Quyền truy cập hệ thống xe cứu thương
+> Chương 1: «Every file on the hospital's network had been encrypted, it announced, and would remain locked unless a ransom of four million dollars was paid within seventy-two hours.»
+
+? How did Callum feel about having been right? | Callum cảm thấy thế nào khi mình đã nói đúng?
++ He took no satisfaction in it. | Anh chẳng thấy hả hê gì.
+- He felt proud and very relieved. | Anh tự hào và rất nhẹ nhõm.
+- He blamed the board loudly for it. | Anh lớn tiếng đổ lỗi cho hội đồng.
+- He was genuinely surprised by it. | Anh thật sự bất ngờ.
+> Chương 1: «He had spent years warning the board that an attack of this kind was a question of when, not if, and he took no satisfaction whatsoever in having been right.»
+
+? What was Callum's first decision? | Quyết định đầu tiên của Callum là gì?
++ Disconnecting the network from the internet | Ngắt mạng khỏi internet
+- Paying part of the ransom straight away | Trả ngay một phần tiền chuộc
+- Calling the police and the national press | Gọi cảnh sát và báo chí
+- Closing the emergency department completely | Đóng cửa hoàn toàn khoa cấp cứu
+> Chương 1: «His first decision was to disconnect the entire network from the internet, which stopped the malware from spreading further but also shut down every system that remained.»
+
+=== st-c1-the-breach 2
+? How did Bridget's teams record medication? | Nhóm của Bridget ghi thuốc men bằng cách nào?
++ On whiteboards and paper charts | Trên bảng trắng và biểu đồ giấy
+- On their own personal phones | Trên điện thoại cá nhân
+- In a separate computer system | Trong một hệ thống máy tính riêng
+- Entirely from memory | Hoàn toàn bằng trí nhớ
+> Chương 2: «Bridget Doyle, a ward manager with thirty years of experience, organized teams to write every patient's medication on whiteboards and paper charts, and she sent junior doctors running between departments with handwritten test requests.»
+
+? What happened to ambulances carrying the most seriously ill patients? | Xe cứu thương chở bệnh nhân nặng nhất được xử lý thế nào?
++ They were diverted to other hospitals. | Chúng được chuyển hướng sang bệnh viện khác.
+- They waited outside in the car park. | Chúng chờ bên ngoài bãi đỗ xe.
+- They were sent home with paper notes. | Họ được cho về nhà kèm giấy ghi chú.
+- They were treated in the corridors. | Họ được chữa trị ngoài hành lang.
+> Chương 2: «Ambulances carrying the most seriously ill patients were diverted to other hospitals, and non-urgent operations were cancelled.»
+
+? What suddenly proved invaluable? | Điều gì bỗng trở nên vô giá?
++ Callum's contingency plans | Các kế hoạch dự phòng của Callum
+- The hospital's new software | Phần mềm mới của bệnh viện
+- A government emergency team | Một đội khẩn cấp của chính phủ
+- Help from other hospitals | Sự giúp đỡ từ các bệnh viện khác
+> Chương 2: «The contingency plans that Callum had written two years earlier, and which the board had approved with little interest, suddenly proved invaluable.»
+
+=== st-c1-the-breach 3
+? How had the attackers most probably entered? | Kẻ tấn công nhiều khả năng đã xâm nhập bằng cách nào?
++ Through a phishing email | Qua một email lừa đảo
+- Through an unlocked office window | Qua một cửa sổ văn phòng không khoá
+- Through a laptop stolen from staff | Qua một máy tính xách tay bị trộm của nhân viên
+- Through a visitor's mobile phone | Qua điện thoại của một khách thăm
+> Chương 3: «He explained that the attackers had almost certainly entered through a phishing email, a message designed to trick an employee into clicking a link or opening a file, and that they had then spent weeks moving silently through the network before they struck.»
+
+? What did the attackers exploit? | Kẻ tấn công đã lợi dụng điều gì?
++ A weakness in an old piece of software | Một lỗ hổng trong phần mềm cũ
+- A mistake made by the security guards | Một sai sót của nhân viên bảo vệ
+- A fault in the hospital's power supply | Một sự cố trong hệ thống điện của bệnh viện
+- A fault in the new ambulance system | Một lỗi trong hệ thống xe cứu thương mới
+> Chương 3: «They had exploited a vulnerability in an old piece of software that the hospital had been meaning to replace for years, and once inside, they had gradually collected the passwords they needed to reach its most sensitive systems.»
+
+? What did Callum say they had to assume? | Callum nói họ phải giả định điều gì?
++ Every system was compromised. | Mọi hệ thống đều đã bị xâm nhập.
+- Only the beds system was affected. | Chỉ hệ thống quản lý giường bị ảnh hưởng.
+- The backups had been destroyed. | Các bản sao lưu đã bị phá huỷ.
+- The attackers had already left. | Kẻ tấn công đã rời đi.
+> Callum nói: «We have to assume that every system is compromised until we can prove otherwise.»
+
+=== st-c1-the-breach 4
+? Why might paying the ransom be a bad idea? | Vì sao trả tiền chuộc có thể là ý tồi?
++ It would fund attacks on other hospitals. | Nó sẽ tài trợ cho các vụ tấn công bệnh viện khác.
+- The keys would certainly not work at all. | Chìa khoá chắc chắn sẽ không hoạt động.
+- The bank would refuse to send the money. | Ngân hàng sẽ không chịu chuyển tiền.
+- The police would arrest the whole board. | Cảnh sát sẽ bắt cả hội đồng.
+> Chương 4: «Criminals who ran such operations often did provide the keys, since their business depended on victims believing that paying would work, but there was no guarantee, and paying would fund further attacks on other hospitals.»
+
+? What else had the attackers threatened? | Kẻ tấn công còn đe doạ điều gì?
++ To publish confidential medical records | Công bố hồ sơ y tế bảo mật
+- To attack the hospital's ambulances | Tấn công xe cứu thương của bệnh viện
+- To delete all of the hospital's backups | Xoá mọi bản sao lưu của bệnh viện
+- To double the ransom every single day | Nhân đôi tiền chuộc mỗi ngày
+> Chương 4: «The attackers had also threatened to publish confidential medical records if the ransom was not paid, a form of extortion that had become increasingly common.»
+
+? What alternative did Callum propose? | Callum đề xuất phương án thay thế nào?
++ Rebuilding from offline backups | Khôi phục từ các bản sao lưu ngoại tuyến
+- Buying a new computer network | Mua một mạng máy tính mới
+- Moving patients to other hospitals | Chuyển bệnh nhân sang bệnh viện khác
+- Asking the government for the keys | Nhờ chính phủ lấy chìa khoá
+> Callum nói: «Every night, copies of our systems are saved to servers that aren't connected to the main network.»
+
+=== st-c1-the-breach 5
+? Why was every backup checked before being restored? | Vì sao mọi bản sao lưu đều được kiểm tra trước khi khôi phục?
++ One infected file could restart the attack. | Một tệp nhiễm mã độc có thể khởi động lại cuộc tấn công.
+- The backups were all completely empty anyway. | Dù sao các bản sao lưu cũng trống rỗng.
+- The regulator had ordered a full review. | Cơ quan quản lý đã yêu cầu rà soát toàn bộ.
+- The doctors had requested it in writing. | Các bác sĩ đã yêu cầu bằng văn bản.
+> Chương 5: «Callum's team worked in shifts around the clock, checking every backup for traces of the malware before restoring it, since a single infected file could have started the whole attack again.»
+
+? How had the attackers got in six weeks earlier? | Sáu tuần trước, kẻ tấn công đã vào bằng cách nào?
++ A payroll employee opened a fake email. | Một nhân viên phòng lương mở một email giả.
+- A doctor lost his work phone at home. | Một bác sĩ làm mất điện thoại công việc ở nhà.
+- A supplier sold them the passwords. | Một nhà cung cấp bán mật khẩu cho chúng.
+- A nurse clicked a link on a strange website. | Một y tá bấm vào đường dẫn trên một trang lạ.
+> Chương 5: «Six weeks before the attack, an employee in the payroll office had opened an email that appeared to come from a supplier, and the attackers had used her password to enter the network.»
+
+? Why did Anita refuse the employee's resignation? | Vì sao Anita không chấp nhận đơn từ chức của nhân viên?
++ The failure was in the systems, not her. | Lỗi nằm ở hệ thống chứ không ở cô ấy.
+- She was needed in the payroll office. | Phòng lương đang cần cô.
+- She had already been punished enough. | Cô đã bị phạt đủ rồi.
+- She promised never to open emails again. | Cô hứa sẽ không bao giờ mở email nữa.
+> Anita nói: «That's a failure of our systems, not of you.»

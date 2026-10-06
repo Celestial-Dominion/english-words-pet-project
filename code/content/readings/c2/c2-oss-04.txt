@@ -1,0 +1,137 @@
+// Bài đọc C2 phỏng theo nguồn mở (phạm vi công cộng, bản Standard Ebooks trên GitHub): James Joyce, Dubliners
+// (1914) — standardebooks/james-joyce_dubliners ("Araby", "Eveline"); Stephen Leacock, Sunshine Sketches of a Little
+// Town (1912) — standardebooks/stephen-leacock_sunshine-sketches-of-a-little-town (chương 5); Mark Twain, The Innocents
+// Abroad (1869) — standardebooks/mark-twain_the-innocents-abroad (chương 27). Kể lại và bình luận theo cấp C2; làm nhẹ
+// chi tiết người cha nóng nảy trong "Eveline", bỏ rượu/bài bạc trong Leacock và câu doạ đánh hướng dẫn viên trong Twain.
+
+=== rd-c2-the-bazaar
+title: The Bazaar | Phiên chợ phương Đông
+topic: literature
+genre: narrative
+names: James Joyce, Joyce, Dubliners, Dublin, Mangan, Araby, Eastern
+gloss: florin
+source: Araby | James Joyce, Dubliners (1914), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/james-joyce_dubliners
+In "Araby", one of the fifteen stories in James Joyce's Dubliners, an unnamed narrator recalls a winter of his boyhood on a quiet, dead-end street in Dublin. | Trong "Araby", một trong mười lăm truyện của tập Người Dublin của James Joyce, một người kể chuyện giấu tên hồi tưởng một mùa đông thời niên thiếu trên một con phố cụt yên tĩnh ở Dublin.
+The houses, he says, conscious of the decent lives within them, gazed at one another with brown, unmoved faces. | Anh kể rằng những ngôi nhà, ý thức được những cuộc sống đứng đắn bên trong, nhìn nhau bằng những gương mặt nâu dửng dưng.
+He lives with his aunt and uncle in a house steeped in gloom, whose previous tenant, a priest, had died in the back room, leaving behind a few damp books and a rusty bicycle pump. | Cậu sống với cô và chú trong một ngôi nhà chìm trong u ám, mà người thuê trước, một linh mục, đã qua đời trong căn phòng phía sau, để lại vài cuốn sách ẩm mốc và một cái bơm xe đạp gỉ sét.
+
+Every morning the boy lies on the floor of the front room, watching through a gap in the blind for the door of his friend Mangan's house to open. | Mỗi sáng cậu bé nằm trên sàn phòng trước, nhìn qua khe rèm chờ cánh cửa nhà cậu bạn Mangan mở ra.
+When Mangan's sister comes out, his heart leaps, and he follows her towards school, overtaking her at the last moment without a word. | Khi chị gái của Mangan bước ra, tim cậu nhảy lên, và cậu đi theo chị về phía trường, vượt qua chị vào phút cuối mà không nói lời nào.
+He has hardly ever spoken to her, and his adoration remains wholly secret, yet her name is like a summons to all his foolish blood, and her image accompanies him even through the noisy streets where his aunt goes shopping on Saturday evenings. | Cậu hầu như chưa từng nói chuyện với chị, và sự tôn thờ của cậu hoàn toàn là bí mật, vậy mà tên chị như một tiếng gọi khuấy động cả dòng máu dại khờ của cậu, và hình bóng chị theo cậu cả qua những con phố ồn ã nơi cô cậu đi chợ mỗi tối thứ Bảy.
+Among the bargaining women and street singers, he imagines that he is carrying a sacred cup safely through a crowd of enemies, in a solitary devotion he cannot explain even to himself. | Giữa những bà nội trợ mặc cả và những người hát rong, cậu tưởng tượng mình đang mang một chiếc chén thánh an toàn qua đám đông kẻ thù, trong một sự tôn thờ đơn độc mà chính cậu cũng không giải thích nổi.
+
+At last she speaks to him, asking whether he is going to Araby, a splendid bazaar with an exotic Eastern theme. | Cuối cùng chị cũng nói chuyện với cậu, hỏi xem cậu có đi Araby không, một phiên chợ lộng lẫy mang màu sắc phương Đông kỳ lạ.
+She cannot go herself, she says, turning a silver bracelet round and round her wrist, and he promises that if he goes, he will bring her something. | Chị nói mình không đi được, tay xoay xoay chiếc vòng bạc quanh cổ tay, và cậu hứa rằng nếu đi, cậu sẽ mang về cho chị một món quà.
+From that moment, the days before the bazaar seem tedious beyond endurance, and the serious work of school appears to him as ugly, monotonous child's play. | Từ lúc ấy, những ngày trước phiên chợ dường như tẻ nhạt không chịu nổi, và việc học hành nghiêm túc ở trường trong mắt cậu chỉ là trò trẻ con xấu xí, đơn điệu.
+
+On the evening of the bazaar, the boy waits through a prolonged tea with an elderly visitor, a widow who collects used stamps for some pious purpose. | Vào tối có phiên chợ, cậu bé phải chờ qua một bữa trà kéo dài với một vị khách lớn tuổi, một bà goá sưu tầm tem cũ cho mục đích mộ đạo nào đó.
+His uncle comes home very late, having forgotten all about it, and the boy does not set off until after nine, clutching a florin and a forlorn hope. | Chú cậu về rất muộn, đã quên bẵng chuyện đó, và cậu bé chỉ lên đường sau chín giờ, tay nắm chặt một đồng florin cùng một niềm hy vọng mong manh.
+By the time he arrives, most of the stalls are closed and the hall is almost dark, with an eerie silence like that of a church after a service. | Khi cậu tới nơi, phần lớn các quầy hàng đã đóng và hội trường gần như tối om, với một sự im lặng rờn rợn như trong nhà thờ sau buổi lễ.
+At one of the few open stalls, a young woman chatting with two young men asks him, with conspicuous indifference, whether he wishes to buy anything. | Ở một trong số ít quầy còn mở, một cô gái đang trò chuyện với hai chàng trai hỏi cậu, với vẻ thờ ơ lộ liễu, xem cậu có muốn mua gì không.
+He murmurs "No, thank you", lingers for a while in futile hope, and turns away as a voice announces that the lights are going out. | Cậu lí nhí "Không, cảm ơn", nấn ná một lúc trong hy vọng vô ích, rồi quay đi khi có tiếng thông báo đèn sắp tắt.
+
+In the final sentence, gazing up into the darkness, he sees himself as a creature driven and mocked by vanity, and his eyes burn with anguish and anger. | Ở câu cuối, ngước nhìn vào bóng tối, cậu thấy mình như một sinh vật bị sự phù phiếm thôi thúc và chế giễu, và mắt cậu cay xè vì đau đớn và giận dữ.
+It is one of the most celebrated moments of sudden revelation in modern fiction, in which a trivial disappointment exposes a larger truth. | Đó là một trong những khoảnh khắc bừng tỉnh nổi tiếng nhất của văn chương hiện đại, khi một nỗi thất vọng vặt vãnh phơi bày một sự thật lớn hơn.
+The boy's romantic idealism collides with a world of commerce, small talk and indifference, and the exotic promise of the bazaar dissolves into a half-empty hall. | Chủ nghĩa lý tưởng lãng mạn của cậu bé va phải một thế giới của buôn bán, chuyện phiếm và sự thờ ơ, và lời hứa hẹn kỳ lạ của phiên chợ tan biến thành một hội trường vắng một nửa.
+Joyce renders this disillusionment with such restraint that many readers recognize their own adolescence in it, a bittersweet mixture of tenderness and humiliation. | Joyce thể hiện sự vỡ mộng ấy với sự tiết chế đến mức nhiều độc giả nhận ra tuổi mới lớn của chính mình trong đó, một hỗn hợp ngọt đắng giữa dịu dàng và bẽ bàng.
+Even the title is ironic, since the exotic name promises a kind of magic that the shabby reality cannot possibly fulfil. | Ngay cả nhan đề cũng mang tính mỉa mai, vì cái tên kỳ lạ hứa hẹn một sự mê hoặc mà thực tế tồi tàn không thể nào đáp ứng.
+The story is told by the adult the boy became, whose wistful, precise voice lets us feel both the intensity of the child's longing and its absurdity. | Câu chuyện được kể bởi người đàn ông mà cậu bé đã trở thành, và giọng kể bâng khuâng, chính xác ấy cho ta cảm nhận cả cường độ khao khát của đứa trẻ lẫn sự phi lý của nó.
+
+=== rd-c2-eveline-at-the-window
+title: Eveline at the Window | Eveline bên khung cửa sổ
+topic: literature
+genre: narrative
+names: James Joyce, Joyce, Dubliners, Dublin, Eveline Hill, Eveline, Frank, Buenos Aires
+gloss: quay
+source: Eveline | James Joyce, Dubliners (1914), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/james-joyce_dubliners
+Joyce's story "Eveline" opens with a young woman sitting at a window in Dublin, watching the evening invade the avenue and breathing the smell of dusty curtains. | Truyện "Eveline" của Joyce mở đầu với hình ảnh một cô gái trẻ ngồi bên cửa sổ ở Dublin, nhìn buổi chiều tràn xuống đại lộ và hít mùi rèm cửa bám bụi.
+Eveline Hill is nineteen, and she has agreed to leave home that night with Frank, a sailor who has promised to marry her and take her to Buenos Aires. | Eveline Hill mười chín tuổi, và cô đã đồng ý rời nhà đêm ấy cùng Frank, một thuỷ thủ đã hứa cưới cô và đưa cô sang Buenos Aires.
+As she waits, she looks round the room at the familiar objects she has dusted every week for years, wondering where on earth all the dust came from. | Trong lúc chờ, cô nhìn quanh căn phòng, nhìn những đồ vật quen thuộc cô đã lau bụi hằng tuần suốt bao năm, tự hỏi bụi ở đâu ra mà lắm thế.
+
+Her life at home has been one of drudgery, and she finds little solace at work. | Cuộc sống ở nhà của cô là chuỗi ngày lao lực, và cô chẳng tìm được mấy an ủi ở chỗ làm.
+Since her mother's death, bereft of anyone to protect her, she has kept house for her ageing father and worked long hours in a shop, where a supervisor humiliates her with patronizing remarks in front of customers. | Từ khi mẹ mất, không còn ai che chở, cô quán xuyến nhà cửa cho người cha đang già đi và làm việc nhiều giờ ở một cửa hàng, nơi bà giám sát làm cô bẽ mặt bằng những lời kẻ cả trước mặt khách.
+Her father has grown harsh and quarrelsome, she has begun to dread his erratic temper, and every Saturday night brings the same exhausting argument about her meagre wages. | Cha cô ngày càng khắt khe và hay gây gổ, cô bắt đầu sợ tính khí thất thường của ông, và tối thứ Bảy nào cũng lặp lại trận cãi vã mệt mỏi quanh đồng lương còm cõi của cô.
+In Buenos Aires, she tells herself, everything would be different: she would be married, and people would treat her with respect. | Cô tự nhủ rằng ở Buenos Aires mọi thứ sẽ khác: cô sẽ có chồng, và người ta sẽ đối xử với cô một cách tôn trọng.
+
+Yet the past keeps pulling at her with a strange, nostalgic force. | Thế nhưng quá khứ cứ níu kéo cô bằng một sức mạnh hoài niệm kỳ lạ.
+She remembers her father reading her a ghost story when she was ill, and the day the family went for a picnic and he put on her mother's hat to make the children laugh. | Cô nhớ cha từng đọc cho cô nghe một truyện ma khi cô ốm, và cái ngày cả nhà đi dã ngoại, cha đội mũ của mẹ để chọc lũ trẻ cười.
+These tender memories, few as they are, weigh more heavily on her than years of grievances. | Những ký ức dịu dàng ấy, dù ít ỏi, đè nặng lên cô hơn cả bao năm uất ức.
+Then a street organ begins to play a melancholy Italian tune, and she recalls her promise to her dying mother to keep the home together for as long as she could. | Rồi một chiếc đàn đường phố bắt đầu chơi một khúc nhạc Ý buồn bã, và cô nhớ lại lời hứa với người mẹ hấp hối rằng sẽ giữ gìn gia đình chừng nào còn có thể.
+The thought of her mother's life of commonplace sacrifices, ending in illness and confusion, fills her with sudden terror, and she resolves, with uncharacteristic audacity, to escape. | Ý nghĩ về cuộc đời đầy những hy sinh tầm thường của mẹ, kết thúc trong bệnh tật và lú lẫn, khiến cô bỗng kinh hãi, và cô quyết tâm, với sự táo bạo khác thường, trốn đi.
+
+At the quay, among a crowd of soldiers and travellers, Frank holds her hand and talks to her, but she cannot answer, and she prays silently to be shown where her duty lies. | Ở bến tàu, giữa đám đông binh lính và lữ khách, Frank nắm tay cô và nói với cô, nhưng cô không thể trả lời, và cô lặng lẽ cầu nguyện để được chỉ cho thấy bổn phận của mình là gì.
+When the bell rings and he calls "Come!", all the seas of the world seem to tumble about her heart, and she grips the iron railing with both hands. | Khi chuông reo và anh gọi "Đi nào!", mọi đại dương trên thế giới dường như cuộn trào quanh tim cô, và cô nắm chặt lan can sắt bằng cả hai tay.
+He rushes through the barrier and calls her name, but she turns her white face towards him, passive, like a helpless animal, and her eyes give him no sign of love or farewell or recognition. | Anh lao qua rào chắn và gọi tên cô, nhưng cô quay gương mặt trắng bệch về phía anh, thụ động, như một con thú bất lực, và đôi mắt cô không cho anh dấu hiệu nào của tình yêu, lời từ biệt hay sự nhận ra.
+
+The ending is famously ambiguous, and its eerie silence has provoked endless critical conjecture. | Cái kết nổi tiếng vì sự mơ hồ, và sự im lặng rờn rợn của nó đã khơi lên vô vàn phỏng đoán của giới phê bình.
+Some readers see Eveline as a victim of the stagnant city that Joyce believed held its people captive; others suspect that Frank's promises were never wholly trustworthy, and that her future with him would have been precarious at best. | Một số độc giả coi Eveline là nạn nhân của thành phố trì trệ mà Joyce tin là giam cầm cư dân của nó; số khác ngờ rằng những lời hứa của Frank chưa bao giờ hoàn toàn đáng tin, và tương lai của cô bên anh, may lắm, cũng chỉ bấp bênh.
+Either way, the story captures with unsparing precision the moment when a longed-for escape becomes unthinkable, and the familiar, however painful, proves stronger than hope. | Dù thế nào, truyện vẫn nắm bắt với độ chính xác không khoan nhượng khoảnh khắc khi cuộc trốn chạy hằng mong ước trở nên không thể, và những gì quen thuộc, dù đau đớn đến đâu, vẫn mạnh hơn hy vọng.
+Joyce withholds any comment, and for some readers her refusal is not cowardice but a desperate fidelity to an irrevocable promise. | Joyce không đưa ra lời bình nào, và với một số độc giả, sự từ chối của cô không phải hèn nhát mà là lòng chung thuỷ tuyệt vọng với một lời hứa không thể rút lại.
+
+=== rd-c2-the-whirlwind-campaign
+title: The Whirlwind Campaign | Chiến dịch chớp nhoáng
+topic: society
+genre: narrative
+names: Stephen Leacock, Leacock, Sunshine Sketches of a Little Town, Mariposa, Henry Mullins, Mullins, Dean Drone, Canadian, Whirlwind Campaign, Grand Central Committee
+source: The Whirlwind Campaign in Mariposa | Stephen Leacock, Sunshine Sketches of a Little Town (1912), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/stephen-leacock_sunshine-sketches-of-a-little-town
+In Sunshine Sketches of a Little Town, the Canadian humorist Stephen Leacock gently mocks the citizens of Mariposa, a small lakeside town modelled on his own. | Trong Những phác hoạ nắng về một thị trấn nhỏ, nhà văn trào phúng người Canada Stephen Leacock nhẹ nhàng giễu cợt cư dân Mariposa, một thị trấn nhỏ ven hồ lấy hình mẫu từ chính thị trấn của ông.
+In one chapter, the banker Henry Mullins returns from a big city full of admiration for a "Whirlwind Campaign" in which a university had raised a fortune in a few days. | Trong một chương, chủ ngân hàng Henry Mullins trở về từ một thành phố lớn, đầy ngưỡng mộ trước một "Chiến dịch chớp nhoáng" mà nhờ đó một trường đại học đã quyên được cả gia tài chỉ trong vài ngày.
+He describes the final scene with emotion: businessmen cheering and shaking hands, and professors with tears streaming down their faces. | Ông xúc động tả lại cảnh cuối: các doanh nhân reo hò bắt tay nhau, và các giáo sư nước mắt chảy dài trên má.
+The town's church is burdened with debt, so Mariposa resolves to emulate the method. | Nhà thờ của thị trấn đang nặng nợ, nên Mariposa quyết định bắt chước phương pháp ấy.
+
+The first stage, Mullins explains, is for a few businessmen to talk things over quietly, then a few more, until the whole community is involved. | Mullins giải thích rằng bước đầu tiên là vài doanh nhân bàn bạc lặng lẽ với nhau, rồi thêm vài người nữa, cho đến khi cả cộng đồng cùng tham gia.
+Leacock describes this stage with deadpan delight, as the same men visit one another's rooms night after night in an ostensibly casual manner, each time bringing one more person along. | Leacock tả giai đoạn này với vẻ khoái trá tỉnh bơ, khi cùng những người đàn ông ấy đêm này qua đêm khác ghé phòng nhau theo kiểu tưởng như tình cờ, mỗi lần lại kéo thêm một người.
+Soon there is a Grand Central Committee, six subcommittees of twenty men each, captains, secretaries and, crucially, a lavish daily luncheon at the local hotel. | Chẳng bao lâu đã có một Đại Uỷ ban Trung ương, sáu tiểu ban mỗi ban hai mươi người, các đội trưởng, thư ký và, quan trọng nhất, một bữa trưa thịnh soạn hằng ngày ở khách sạn địa phương.
+
+The first luncheon is a triumph. | Bữa trưa đầu tiên là một chiến thắng.
+Telegrams of support are read aloud from the bishop, the mayor and local companies, and Mullins even reads one from himself, as head of his own bank, assuring himself, with impeccable seriousness, of his liveliest interest. | Các bức điện ủng hộ của giám mục, thị trưởng và các công ty địa phương được đọc to, và Mullins thậm chí đọc cả một bức của chính mình, với tư cách giám đốc ngân hàng của mình, bảo đảm với bản thân, bằng vẻ nghiêm túc hoàn hảo, về sự quan tâm nồng nhiệt nhất.
+Then he writes a cheque for a hundred dollars, conditional on the fund reaching fifty thousand, and his rival banker immediately writes another, conditional on seventy thousand. | Rồi ông viết một tấm séc một trăm đô la, với điều kiện quỹ đạt năm mươi nghìn, và chủ ngân hàng đối thủ lập tức viết một tấm khác, với điều kiện quỹ đạt bảy mươi nghìn.
+By the end of the meal, conditional pledges have reached a quarter of a million dollars, and the room resounds with cheers. | Đến cuối bữa, các khoản cam kết có điều kiện đã lên tới một phần tư triệu đô la, và căn phòng vang dội tiếng hoan hô.
+
+The difficulty, which Leacock reveals with exquisite understatement, is that almost every man in town is on a committee, and committee members are not allowed to ask one another for money. | Cái khó, mà Leacock hé lộ bằng lối nói giảm tinh tế, là hầu như người đàn ông nào trong thị trấn cũng ở trong một uỷ ban, và thành viên uỷ ban thì không được xin tiền lẫn nhau.
+There is therefore nobody left to ask, and the lunches, at a dollar and a quarter a head, begin eating into the little money that has actually been given. | Vì thế chẳng còn ai để xin, và những bữa trưa, giá một đô la hai mươi lăm xu mỗi người, bắt đầu ăn dần vào số tiền ít ỏi thực sự đã được quyên.
+The real trouble, the narrator concludes, was that they never clearly understood which of them were the whirlwind and who were to be the campaign. | Người kể chuyện kết luận rằng rắc rối thực sự là họ chưa bao giờ hiểu rõ ai trong số họ là cơn lốc và ai sẽ là chiến dịch.
+On the last night, Mullins, unshaven and forlorn, walks through the April snow to see the minister, carrying his own cheque with the condition crossed out. | Đêm cuối cùng, Mullins, râu ria lởm chởm và thất thểu, đi bộ qua tuyết tháng Tư đến gặp vị mục sư, mang theo tấm séc của chính mình với điều kiện đã bị gạch bỏ.
+
+The sketch is a gentle parody of the fundraising rituals of modern organizations, with their committees, pledges and lavish meals. | Bức phác hoạ là một sự nhại lại nhẹ nhàng các nghi thức gây quỹ của những tổ chức hiện đại, với các uỷ ban, các khoản cam kết và những bữa ăn thịnh soạn.
+Its satire is never malicious, because Leacock plainly loves these people, and the banker's quiet final gesture redeems him. | Lối châm biếm của nó không bao giờ ác ý, vì Leacock rõ ràng yêu quý những con người này, và cử chỉ lặng lẽ cuối cùng của chủ ngân hàng đã chuộc lỗi cho ông.
+Its deeper target is the inexorable logic by which organization becomes an end in itself, something Leacock understood long before modern bureaucrats made it a way of life. | Mục tiêu sâu xa hơn của nó là cái logic không cưỡng lại được khiến việc tổ chức trở thành mục đích tự thân, điều Leacock đã hiểu từ lâu trước khi giới quan liêu hiện đại biến nó thành lối sống.
+Yet the gap between grand ambition and meagre result remains uncannily familiar to anyone who has ever sat on a committee. | Thế nhưng khoảng cách giữa tham vọng lớn lao và kết quả còm cõi vẫn quen thuộc đến lạ lùng với bất kỳ ai từng ngồi trong một uỷ ban.
+
+=== rd-c2-is-he-dead
+title: Is He Dead? | Ông ấy chết rồi à?
+topic: travel
+genre: narrative
+names: Mark Twain, Twain, The Innocents Abroad, Europe, European, Holy Land, Genoa, Rome, Vatican, Christopher Columbus, Columbus, America, American, Americans, Ferguson, Doctor, Egyptian, Old World, New World
+gloss: mummy
+source: The Innocents Abroad | Mark Twain (1869), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/mark-twain_the-innocents-abroad
+In 1867 Mark Twain joined a group of American tourists on a long voyage to Europe and the Holy Land, and his account of the trip, The Innocents Abroad, became one of the best-selling travel books of its century. | Năm 1867, Mark Twain tham gia một đoàn du khách Mỹ trong chuyến hải trình dài đến châu Âu và Đất Thánh, và cuốn ký sự về chuyến đi, Những kẻ ngây thơ ở nước ngoài, trở thành một trong những cuốn sách du lịch bán chạy nhất thế kỷ ấy.
+One of its most famous chapters concerns what he called those necessary nuisances, the European guides, whose company Twain and his friends decided to turn into a source of amusement and an elaborate exercise in mockery. | Một trong những chương nổi tiếng nhất của nó nói về thứ mà ông gọi là những phiền toái cần thiết, các hướng dẫn viên châu Âu, mà Twain và bạn bè quyết định biến sự có mặt của họ thành một nguồn giải trí và một màn giễu cợt công phu.
+
+Guides, Twain observed, knew their stories by heart and recited them like parrots, and they lived for the gasps of admiration that tourists produced in front of every statue and painting. | Twain nhận xét rằng các hướng dẫn viên thuộc lòng câu chuyện của mình và đọc lại như vẹt, và họ sống nhờ những tiếng trầm trồ thán phục mà du khách thốt lên trước mỗi pho tượng, mỗi bức tranh.
+The Americans resolved to deprive them of this gratification. | Những người Mỹ quyết tâm tước đi niềm thoả mãn ấy của họ.
+From then on they never admired anything, showing only blank faces and an air of exceedingly stupid indifference. | Từ đó họ không bao giờ trầm trồ điều gì, chỉ phô ra những gương mặt vô cảm và vẻ thờ ơ ngớ ngẩn hết mức.
+The questions were left to a companion they called the Doctor, who could look more like an inspired idiot than any man alive, and every guide, whatever his real name, was called Ferguson. | Việc đặt câu hỏi được giao cho một người bạn mà họ gọi là Bác sĩ, người có thể trông giống một gã ngốc được thần linh soi sáng hơn bất kỳ ai, và mọi hướng dẫn viên, dù tên thật là gì, đều bị gọi là Ferguson.
+
+In Genoa, a guide full of zeal proudly showed them a letter written by Christopher Columbus himself. | Ở Genoa, một hướng dẫn viên đầy nhiệt huyết hãnh diện cho họ xem một lá thư do chính tay Christopher Columbus viết.
+The Doctor examined it with painstaking slowness and then declared that he had seen boys in America of only fourteen who could write better than that. | Bác sĩ xem xét nó chậm rãi đến tỉ mỉ rồi tuyên bố rằng ông từng thấy những cậu bé mới mười bốn tuổi ở Mỹ viết đẹp hơn thế.
+Undeterred, the guide led them to a magnificent bust of the explorer, whereupon the Doctor asked, with exemplary seriousness, who the gentleman was, what he had done, and finally, after a long pause, whether he was dead. | Không nản lòng, người hướng dẫn dẫn họ đến một bức tượng bán thân lộng lẫy của nhà thám hiểm, và Bác sĩ liền hỏi, với vẻ nghiêm túc mẫu mực, quý ông này là ai, ông ta đã làm gì, và cuối cùng, sau một hồi lâu im lặng, liệu ông ta đã chết chưa.
+
+The same question became their favourite weapon. | Câu hỏi ấy trở thành vũ khí ưa thích của họ.
+In Rome they spent hours in the Vatican museums without betraying the slightest interest, a feat of stoicism that Twain believed no visitor had ever achieved before, until their exhausted guide produced his greatest treasure, an Egyptian mummy, with renewed confidence. | Ở Rome, họ dành hàng giờ trong các bảo tàng Vatican mà không để lộ chút hứng thú nào, một kỳ tích nhẫn nại mà Twain tin rằng chưa du khách nào từng làm được, cho đến khi người hướng dẫn kiệt sức đưa ra báu vật lớn nhất của mình, một xác ướp Ai Cập, với niềm tự tin hồi phục.
+After a long and solemn inspection, the Doctor inquired, "Is, ah, is he dead?" | Sau một hồi xem xét lâu và trịnh trọng, Bác sĩ hỏi: "Ông ấy, à, ông ấy chết rồi à?"
+That question, Twain reported, conquered even the most serene of guides, and one of them later described the party to their hotel landlord as lunatics, a verdict Twain accepted with magnanimous good humour. | Twain kể rằng câu hỏi ấy hạ gục cả những hướng dẫn viên điềm tĩnh nhất, và về sau một người trong số họ mô tả cả đoàn với chủ khách sạn là một lũ điên, một nhận định mà Twain đón nhận với sự hào hiệp vui vẻ.
+
+The joke works on several levels at once. | Câu đùa có tác dụng ở nhiều tầng cùng lúc.
+Ostensibly it mocks the guides' mechanical performances, but it plainly mocks the tourists as well, whose pretended ignorance parodies the provincial travellers they were assumed to be. | Bề ngoài, nó chế giễu những màn trình diễn máy móc của các hướng dẫn viên, nhưng rõ ràng nó cũng chế giễu chính các du khách, những người giả vờ ngu ngơ để nhại lại hình ảnh những lữ khách tỉnh lẻ mà người ta vẫn tưởng họ là.
+Twain's humour, at once disrespectful and self-deprecating, punctures both the solemnity with which the Old World presented its treasures and the naive reverence with which the New World consumed them. | Lối hài hước của Twain, vừa bất kính vừa tự giễu, chọc thủng cả vẻ trang nghiêm mà Cựu Thế giới dùng để trưng bày báu vật lẫn sự sùng kính ngây thơ mà Tân Thế giới dùng để thưởng thức chúng.
+More than a century and a half later, anyone who has followed a guide through a crowded museum will recognize the temptation to ask the same impertinent question. | Hơn một thế kỷ rưỡi sau, bất cứ ai từng theo hướng dẫn viên đi qua một bảo tàng đông đúc đều sẽ nhận ra sự cám dỗ muốn hỏi đúng câu hỏi xấc xược ấy.
+The audacity of the game is part of its charm, though Twain does not entirely hide that there is something callous in tormenting a man whose livelihood depends on other people's wonder. | Sự táo tợn của trò chơi là một phần sức hấp dẫn của nó, dù Twain không hoàn toàn che giấu rằng có điều gì đó nhẫn tâm khi hành hạ một người mà sinh kế phụ thuộc vào sự thán phục của người khác.

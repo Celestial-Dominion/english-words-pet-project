@@ -1,0 +1,131 @@
+=== st-c2-the-committee 1
+? What powers did the ethics committee have? | Uỷ ban đạo đức có quyền hạn gì?
++ It could only advise the board. | Nó chỉ có thể tư vấn cho hội đồng quản trị.
+- It could forbid any new treatment. | Nó có thể cấm mọi phương pháp điều trị mới.
+- It could dismiss doctors directly. | Nó có thể trực tiếp sa thải bác sĩ.
+- It controlled the hospital budget. | Nó kiểm soát ngân sách bệnh viện.
+> Chương 1: «The committee's remit was broad but its powers were modest: it could not forbid anything, only advise the hospital's board, although in practice the board had never once gone against its advice.»
+
+? What did Sentinel do? | Sentinel làm gì?
++ It predicted which patients might deteriorate. | Nó dự đoán bệnh nhân nào có thể chuyển nặng.
+- It replaced the doctors in the emergency room. | Nó thay thế bác sĩ ở phòng cấp cứu.
+- It ordered all the medicines automatically. | Nó tự động đặt mua mọi loại thuốc.
+- It booked operations for every patient. | Nó đặt lịch mổ cho mọi bệnh nhân.
+> Chương 1: «The emergency department wanted to adopt an algorithmic triage system called Sentinel, which read each patient's records and vital signs and predicted which of them was most likely to deteriorate over the next few hours.»
+
+? What did the pilot show about sepsis? | Thử nghiệm cho thấy gì về nhiễm trùng huyết?
++ Sentinel spotted it about ninety minutes earlier. | Sentinel phát hiện sớm hơn khoảng chín mươi phút.
+- Sentinel missed every single case of it. | Sentinel bỏ sót mọi ca nhiễm.
+- Nurses were always faster than Sentinel. | Y tá luôn nhanh hơn Sentinel.
+- Sepsis had become extremely rare there. | Nhiễm trùng huyết ở đó đã trở nên cực hiếm.
+> Chương 1: «During a six-month pilot involving eleven thousand patients, Sentinel had identified forty cases of sepsis, on average ninety minutes before the nurses did.»
+
+=== st-c2-the-committee 2
+? For which patients was Sentinel markedly worse? | Sentinel kém hẳn với những bệnh nhân nào?
++ Those with sparse medical records | Những người có hồ sơ y tế thưa thớt
+- Those with long medical histories | Những người có tiền sử bệnh dài
+- Those who arrived by ambulance | Những người đến bằng xe cấp cứu
+- Those over the age of seventy | Những người trên bảy mươi tuổi
+> Chương 2: «For patients with long medical histories, it was more accurate than any nurse; for patients whose records were sparse, such as homeless people, recent migrants and people who rarely saw a doctor, it was markedly worse, and it missed nearly one case in three.»
+
+? Why did the algorithm perform worse for these patients? | Vì sao thuật toán kém hơn với những bệnh nhân này?
++ It knew least about those the hospital knew least. | Nó biết ít nhất về những người bệnh viện ít biết nhất.
+- It had been deliberately programmed with prejudice. | Nó bị cố tình lập trình với định kiến.
+- These patients refused to share their data. | Những bệnh nhân này từ chối chia sẻ dữ liệu.
+- Nurses had entered false information about them. | Y tá đã nhập thông tin sai về họ.
+> Asha nói: «It simply knows least about the people we know least about.»
+
+? Who was Mrs. Joan Pilling? | Bà Joan Pilling là ai?
++ The patient representative on the committee | Đại diện bệnh nhân trong uỷ ban
+- The hospital's finance director | Giám đốc tài chính bệnh viện
+- A nurse with thirty years' experience | Một y tá có ba mươi năm kinh nghiệm
+- The data scientist from the university | Nhà khoa học dữ liệu từ trường đại học
+> Chương 2: «There was a silence, which the patient representative, Mrs. Joan Pilling, was the first to break.»
+
+=== st-c2-the-committee 3
+? What was Dr. Wren's argument against rejecting Sentinel? | Lập luận của bác sĩ Wren chống lại việc từ chối Sentinel là gì?
++ Nurses also have blind spots that go unmeasured. | Y tá cũng có điểm mù nhưng không ai đo.
+- Sentinel was already perfect in every case. | Sentinel vốn đã hoàn hảo trong mọi trường hợp.
+- The hospital had already paid for the tool. | Bệnh viện đã trả tiền cho công cụ này rồi.
+- Patients preferred machines to nurses. | Bệnh nhân thích máy móc hơn y tá.
+> Wren nói: «Nurses have blind spots too. We just don't measure them.»
+
+? What did Helen ask the finance director? | Helen hỏi giám đốc tài chính điều gì?
++ Whether losses falling on one group were acceptable | Liệu thiệt hại dồn vào một nhóm có chấp nhận được không
+- Whether the tool could be made any cheaper | Liệu công cụ có thể rẻ hơn nữa không
+- Whether the board had approved the budget | Liệu hội đồng đã duyệt ngân sách chưa
+- Whether nurses should be paid much more | Liệu y tá có nên được trả lương cao hơn nhiều
+> Helen hỏi: «Would you still say that» — «if the three were always from the same group?»
+
+? Why did most of the committee reject a purely utilitarian view? | Vì sao đa số uỷ ban bác bỏ cách nhìn thuần vị lợi?
++ Harming one group betrays a public hospital. | Gây thiệt hại cho một nhóm là phản bội bệnh viện công.
+- Utilitarian sums are too hard to calculate. | Phép tính vị lợi quá khó thực hiện.
+- Saving lives is not the hospital's job. | Cứu người không phải việc của bệnh viện.
+- The law forbids counting lives at all. | Luật cấm việc đếm số mạng người.
+> Chương 3: «But most of the committee felt that a tool which systematically disadvantaged one group was antithetical to the whole idea of a public hospital, whatever its average performance.»
+
+=== st-c2-the-committee 4
+? What happened to the homeless man in February? | Chuyện gì xảy ra với người vô gia cư vào tháng Hai?
++ A nurse overrode Sentinel's low rating. | Một y tá đã gạt bỏ mức đánh giá thấp của Sentinel.
+- Sentinel correctly rated him high risk. | Sentinel đánh giá đúng ông có nguy cơ cao.
+- He left before he could see a doctor. | Ông bỏ về trước khi kịp gặp bác sĩ.
+- He was sent on to another hospital. | Ông được chuyển sang bệnh viện khác.
+> Chương 4: «The triage nurse, a woman with thirty years' experience, had not liked the look of him; she had overridden the rating and called a doctor, and the man turned out to have advanced sepsis.»
+
+? What was Joan's concern about the next nurse? | Bà Joan lo ngại gì về người y tá tiếp theo?
++ A tired junior nurse might not contradict the screen. | Một y tá trẻ mệt mỏi có thể không dám cãi màn hình.
+- The next nurse might not be trained at all. | Y tá tiếp theo có thể chưa hề được đào tạo.
+- Nurses might simply refuse to use computers. | Y tá có thể đơn giản từ chối dùng máy tính.
+- The next patient might not arrive in time. | Bệnh nhân tiếp theo có thể không đến kịp.
+> Joan nói: «Will a junior nurse at four in the morning, on her third night shift in a row, really contradict the screen?»
+
+? What danger did Helen describe? | Helen mô tả mối nguy nào?
++ Clinical judgement becoming a mere formality | Phán đoán lâm sàng trở thành hình thức
+- Machines replacing every single doctor | Máy móc thay thế mọi bác sĩ
+- The hospital running out of money | Bệnh viện cạn tiền
+- Patients refusing to be treated | Bệnh nhân từ chối điều trị
+> Chương 4: «The danger, Helen suggested, was not that Sentinel would replace clinical judgement but that it would quietly relegate it to a formality.»
+
+=== st-c2-the-committee 5
+? Under what principle would Sentinel be used? | Sentinel sẽ được dùng theo nguyên tắc nào?
++ It would advise and never decide. | Nó chỉ tư vấn và không bao giờ quyết định.
+- It would decide and never advise. | Nó quyết định và không bao giờ tư vấn.
+- It would be used only at night. | Nó chỉ được dùng vào ban đêm.
+- It would replace the senior nurses. | Nó sẽ thay thế các y tá trưởng.
+> Chương 5: «It would advise and never decide»
+
+? Why would nurses not need a form to override it? | Vì sao y tá không cần điền mẫu đơn khi gạt bỏ nó?
++ Paperwork would discourage their judgements. | Thủ tục giấy tờ sẽ làm nản phán đoán của họ.
+- The forms were far too expensive to print. | Mẫu đơn quá tốn kém để in.
+- Nurses were not able to read the forms. | Y tá không đọc được mẫu đơn.
+- The law did not allow such forms. | Luật không cho phép những mẫu đơn như thế.
+> Chương 5: «since an administrative hindrance would discourage the very judgements the committee wanted to protect»
+
+? What was the result of the vote? | Kết quả bỏ phiếu thế nào?
++ Seven to two | Bảy phiếu thuận, hai phiếu chống
+- Nine to nothing | Chín phiếu thuận, không phiếu chống
+- Five to four | Năm phiếu thuận, bốn phiếu chống
+- Six to three | Sáu phiếu thuận, ba phiếu chống
+> Chương 5: «The vote was seven to two, and the board ratified the recommendation the following month.»
+
+=== st-c2-the-committee 6
+? What had happened a year later? | Một năm sau chuyện gì đã xảy ra?
++ The gap had narrowed but not closed. | Khoảng cách đã thu hẹp nhưng chưa xoá hết.
+- The gap had closed completely. | Khoảng cách đã được xoá hoàn toàn.
+- Sentinel had been discontinued. | Sentinel đã bị ngừng sử dụng.
+- The gap had grown much wider. | Khoảng cách đã nới rộng hơn nhiều.
+> Chương 6: «A year later, the gap had narrowed, though it had not closed.»
+
+? What did the audits reveal about nurses' overrides? | Các đợt kiểm tra tiết lộ gì về việc y tá gạt bỏ đánh giá?
++ Nurses were right about half the time. | Y tá đúng khoảng một nửa số lần.
+- Nurses were wrong every time. | Lần nào y tá cũng sai.
+- Nurses never overrode the system. | Y tá chưa bao giờ gạt bỏ hệ thống.
+- Only senior nurses overrode it. | Chỉ y tá trưởng mới gạt bỏ nó.
+> Chương 6: «The quarterly audits had also revealed something nobody had predicted: nurses were overriding Sentinel more often than expected, and they were right about half the time, which suggested that the conversation between human and machine was more useful than either of them alone.»
+
+? According to Helen, what would be unethical? | Theo Helen, điều gì mới là phi đạo đức?
++ Drawing a line and never reviewing it | Vạch ra một ranh giới rồi không bao giờ xem lại
+- Using any machine in a hospital | Dùng bất kỳ máy móc nào trong bệnh viện
+- Asking patients for their opinions | Hỏi ý kiến của bệnh nhân
+- Changing a rule when evidence changes | Thay đổi quy tắc khi bằng chứng thay đổi
+> Helen nói: «The only unethical thing would be to draw one and never look at it again.»

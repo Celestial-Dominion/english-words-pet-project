@@ -121,6 +121,7 @@ export function ReadingList({ level, items }: { level: string; items: ReadingMet
                   <span className="block truncate text-xs text-muted-foreground">{r.title_vi}</span>
                   <span className="block truncate text-[0.7rem] text-muted-foreground/80">
                     {TOPICS[r.topic] ?? r.topic} · {GENRES[r.genre] ?? r.genre} · {fmtMinutes(r.min)}
+                    {r.src ? " · phỏng theo nguồn mở" : ""}
                   </span>
                 </span>
               </TickCard>
@@ -178,6 +179,8 @@ export function StoryList({ level, items }: { level: string; items: StoryMeta[] 
                   <span className="mt-1 line-clamp-2 block text-xs text-muted-foreground/90">{s.summary}</span>
                   <span className="mt-1.5 flex items-center gap-2 text-[0.7rem] text-muted-foreground">
                     {s.chapters} chương · {fmtMinutes(s.min)}
+                    {s.part ? ` · phần ${s.part}/${s.parts}` : ""}
+                    {s.src ? " · phỏng theo nguồn mở" : ""}
                     {s.video && (
                       <span className="inline-flex items-center gap-0.5 text-rose-600 dark:text-rose-400">
                         <Clapperboard className="size-3" /> có video

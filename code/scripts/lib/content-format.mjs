@@ -191,3 +191,63 @@ export function parseDialogue(body, fail) {
 export function levelIndex(key) {
   return LEVEL_KEYS.indexOf(key);
 }
+
+// ---------- Câu hỏi đọc hiểu (content/quiz/{cấp}/*.txt) ----------
+//
+//   === rd-a1-a-rainy-day-in-the-city        ← bài đọc
+//   === st-a1-a-cake-for-mom 2               ← truyện: số chương (1-based)
+//   ? What day is it? | Hôm đó là thứ mấy?   ← câu hỏi "EN | VI"
+//   + Monday | Thứ Hai                        ← phương án ĐÚNG (đúng một dòng +)
+//   - Sunday | Chủ nhật                       ← phương án sai
+//   > Câu đầu bài: «It is Monday morning, and it is raining.»   ← giải thích (VI) trích NGUYÊN VĂN câu trong bài
+// Thứ tự phương án trong nguồn không quan trọng (giao diện xáo mỗi lần mở).
+const QUIZ_HEAD_RE = /^===\s+(\S+)(?:\s+(\d+))?\s*$/;
+
+/** Đọc một file câu hỏi → [{id, ch, file, line, questions:[{line, q:{en,vi}, opts:[{en,vi,ok,line}], why}]}]. */
+export function parseQuizFile(path, root = process.cwd()) {
+  const rel = relative(root, path);
+  const lines = readFileSync(path, "utf8").replace(/\r/g, "").split("\n");
+  const blocks = [];
+  let cur = null;
+  let q = null;
+  const fail = (n, msg) => {
+    throw new FormatError(`${rel}:${n}: ${msg}`);
+  };
+  lines.forEach((raw, i) => {
+    const n = i + 1;
+    const line = raw.replace(/\s+$/, "");
+    if (!line.trim() || line.startsWith("//")) return;
+    const head = QUIZ_HEAD_RE.exec(line);
+    if (head) {
+      const [, id, ch] = head;
+      if (!ID_RE.test(id) || id.startsWith("vd-")) fail(n, `id sai dạng: ${id} (rd|st)-(a1…c2)-…`);
+      if (id.startsWith("st-") && !ch) fail(n, `truyện phải ghi số chương: === ${id} 1`);
+      if (id.startsWith("rd-") && ch) fail(n, `bài đọc không có số chương: ${line}`);
+      cur = { id, ch: ch ? Number(ch) : null, file: rel, line: n, questions: [] };
+      blocks.push(cur);
+      q = null;
+      return;
+    }
+    if (!cur) fail(n, "nội dung trước dòng === id");
+    const m = /^([?+\->])\s+(.*)$/.exec(line);
+    if (!m) fail(n, `dòng câu hỏi phải mở bằng "? ", "+ ", "- " hoặc "> ": ${line.slice(0, 60)}`);
+    const [, k, rest] = m;
+    if (k === "?") {
+      const p = splitPair(rest);
+      if (!p) fail(n, `câu hỏi phải dạng "? EN | VI"`);
+      q = { line: n, q: p, opts: [], why: "" };
+      cur.questions.push(q);
+      return;
+    }
+    if (!q) fail(n, `"${k}" trước dòng "?"`);
+    if (k === ">") {
+      if (q.why) fail(n, "mỗi câu một dòng giải thích >");
+      q.why = rest.trim();
+      return;
+    }
+    const p = splitPair(rest);
+    if (!p) fail(n, `phương án phải dạng "${k} EN | VI"`);
+    q.opts.push({ ...p, ok: k === "+", line: n });
+  });
+  return blocks;
+}

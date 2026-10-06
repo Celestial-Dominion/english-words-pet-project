@@ -1,0 +1,273 @@
+// Bài đọc C2 phỏng theo nguồn mở (đợt 2): Benjamin Franklin, John Stuart Mill, Henry David Thoreau, James Joyce,
+// Stephen Leacock, William Hazlitt — phạm vi công cộng, bản Standard Ebooks trên GitHub. Kể lại theo cấp C2, có lời bình.
+
+=== rd-c2-the-first-lending-library
+title: The First Lending Library | Thư viện cho mượn sách đầu tiên
+topic: education
+genre: narrative
+names: Benjamin Franklin, Franklin, Philadelphia, Boston, England, London, Junto, Library Company, United States, Americans
+gloss: subscription, subscribers, tradesman, tradesmen, shillings, lending
+source: The Autobiography of Benjamin Franklin | Benjamin Franklin (1791), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/benjamin-franklin_the-autobiography-of-benjamin-franklin
+
+In the late 1720s, Philadelphia was a prosperous but unmistakably provincial town. | Cuối những năm 1720, Philadelphia là một thị trấn thịnh vượng nhưng rõ ràng còn tỉnh lẻ.
+Anyone who wished to read seriously faced an obstacle that is hard to imagine today: there was scarcely a decent bookshop anywhere south of Boston. | Ai muốn đọc sách nghiêm túc đều gặp một trở ngại khó hình dung ngày nay: hầu như chẳng có hiệu sách tử tế nào ở phía nam Boston.
+Books had to be ordered from England at considerable expense, so serious reading remained largely a privilege of the affluent, and a young tradesman of modest means could rarely afford more than a handful of volumes. | Sách phải đặt từ nước Anh với chi phí đáng kể, nên việc đọc sách nghiêm túc phần lớn vẫn là đặc quyền của người khá giả, và một thợ thủ công trẻ có thu nhập khiêm tốn hiếm khi mua nổi quá vài cuốn.
+Benjamin Franklin, then in his early twenties, was struggling to establish a printing business. | Benjamin Franklin khi ấy mới ngoài hai mươi và đang chật vật gây dựng một xưởng in.
+He had already founded the Junto, a club of ambitious young artisans who met on Friday evenings for their mutual edification, debating questions of morality, politics and natural philosophy. | Ông đã lập ra Junto, một câu lạc bộ những người thợ trẻ đầy hoài bão họp vào tối thứ Sáu để cùng nhau trau dồi, tranh luận về đạo đức, chính trị và triết học tự nhiên.
+Since their discussions often referred to particular books, Franklin proposed that the members pool their own volumes in the room where they met, so that each could consult the books of all. | Vì các cuộc thảo luận thường viện đến những cuốn sách cụ thể, Franklin đề nghị các thành viên góp sách của mình vào căn phòng nơi họ họp, để ai cũng có thể tra cứu sách của mọi người.
+The experiment was only partly successful, since the books were not always looked after with due care, and after about a year each member took his own volumes home again. | Thử nghiệm ấy chỉ thành công một phần, vì sách không phải lúc nào cũng được giữ gìn cẩn thận, và sau chừng một năm mỗi thành viên lại mang sách của mình về nhà.
+Still, it planted an idea that Franklin would develop with characteristic ingenuity. | Dẫu vậy, nó đã gieo một ý tưởng mà Franklin sẽ phát triển với sự khéo léo đặc trưng của ông.
+
+In 1731 he devised a more ambitious scheme: a subscription library. | Năm 1731, ông nghĩ ra một kế hoạch tham vọng hơn: một thư viện theo hình thức góp tiền.
+Each member would pay forty shillings at the outset to buy the first books, followed by ten shillings a year to enlarge the collection, and the articles of agreement, drawn up in proper legal form, stipulated how the books were to be lent and returned. | Mỗi thành viên sẽ góp bốn mươi shilling ban đầu để mua những cuốn sách đầu tiên, sau đó mười shilling mỗi năm để mở rộng bộ sưu tập, và bản điều lệ, được soạn đúng thể thức pháp lý, quy định rõ cách cho mượn và trả sách.
+Persuading people to part with their money proved arduous: so few of the inhabitants were readers, and most of them were so poor, that Franklin could find only fifty subscribers, mostly young tradesmen like himself. | Thuyết phục người ta bỏ tiền ra hóa ra rất gian nan: dân trong thị trấn có quá ít người đọc sách, mà phần đông lại quá nghèo, nên Franklin chỉ tìm được năm mươi người góp, phần lớn là thợ thủ công trẻ như ông.
+Nevertheless, the books were duly imported from London, and the library opened one day a week, lending volumes on condition that borrowers pay double the value of any book not returned. | Dù vậy, sách vẫn được nhập về từ London đúng hẹn, và thư viện mở cửa mỗi tuần một ngày, cho mượn sách với điều kiện người mượn phải đền gấp đôi giá trị nếu không trả.
+The institution demonstrated its usefulness so plainly that it was soon emulated by other towns and in other provinces. | Thiết chế ấy chứng tỏ sự hữu ích rõ ràng đến mức chẳng bao lâu đã được các thị trấn và các tỉnh khác noi theo.
+Franklin later claimed, with pardonable pride, that such libraries had improved the general conversation of Americans and had made ordinary tradesmen and farmers as intelligent as most gentlemen in other countries. | Về sau Franklin khẳng định, với niềm tự hào có thể thông cảm, rằng những thư viện như thế đã nâng cao chuyện trò của người Mỹ nói chung và khiến những người thợ, người nông dân bình thường hiểu biết chẳng kém phần lớn các quý ông ở những nước khác.
+
+Characteristically, he also drew a pragmatic lesson from the difficulty of raising the money. | Đúng với tính cách của mình, ông còn rút ra một bài học thực dụng từ chuyện khó khăn khi quyên tiền.
+He noticed that people were reluctant to support a project whose author seemed to be seeking glory, so he presented the library as the scheme of "a number of friends" and kept himself unobtrusively in the background. | Ông nhận thấy người ta ngần ngại ủng hộ một dự án mà tác giả của nó có vẻ đang tìm kiếm vinh quang, nên ông giới thiệu thư viện như kế hoạch của "một nhóm bạn" và lặng lẽ đứng sau hậu trường.
+This deliberate anonymity, he observes, was a small sacrifice of vanity that was amply repaid, because the real author was eventually given the credit anyway. | Ông nhận xét rằng sự giấu tên có chủ ý ấy là một hy sinh nhỏ về lòng hư vinh được đền đáp xứng đáng, vì rốt cuộc người khởi xướng thật vẫn được ghi công.
+The library also served him personally: he set aside an hour or two every day for study, and in this painstaking way partly repaired the deficiencies of a schooling that had ended when he was ten. | Thư viện cũng phục vụ chính ông: ông dành một hai giờ mỗi ngày để tự học, và bằng cách cần mẫn ấy phần nào bù đắp những thiếu hụt của một quãng đi học đã chấm dứt khi ông mới mười tuổi.
+The Library Company of Philadelphia still exists, and it is often described as the oldest cultural institution in the United States. | Hội Thư viện Philadelphia đến nay vẫn còn, và thường được coi là thiết chế văn hóa lâu đời nhất của Hoa Kỳ.
+
+The episode is notable less for its scale, which was meagre, than for the mentality it reveals: a conviction that knowledge, like any other commodity, could be made widely accessible through cooperation rather than inheritance. | Câu chuyện đáng chú ý không phải ở quy mô, vốn rất khiêm tốn, mà ở tư duy nó bộc lộ: niềm tin rằng tri thức, cũng như mọi thứ hàng hóa khác, có thể đến tay số đông nhờ hợp tác chứ không phải nhờ thừa kế.
+In hindsight, the scheme looks like an early experiment in the dissemination of learning beyond a small scholarly elite, an aim that was at once philanthropic and decidedly practical. | Nhìn lại, kế hoạch ấy giống một thử nghiệm sớm trong việc truyền bá học vấn ra ngoài một nhóm tinh hoa học thuật nhỏ, một mục tiêu vừa mang tính nhân ái vừa hết sức thực tế.
+His account is, of course, far from impartial, since he narrates his achievements with a self-deprecating modesty that is itself a carefully calculated performance. | Dĩ nhiên lời kể của ông chẳng hề khách quan, vì ông thuật lại thành tựu của mình bằng một sự khiêm tốn tự giễu mà bản thân nó cũng là một màn trình diễn được tính toán kỹ lưỡng.
+Yet the egalitarian impulse behind the scheme was genuine, and its legacy, which Franklin was careful to commend to posterity, has outlasted the colonial society that produced it. | Thế nhưng thôi thúc bình đẳng đằng sau kế hoạch ấy là thật, và di sản của nó, điều Franklin đã cẩn thận gửi gắm cho hậu thế, đã tồn tại lâu hơn cả xã hội thuộc địa sinh ra nó.
+
+=== rd-c2-poor-richards-almanac
+title: Poor Richard's Almanac | Niên lịch của Richard Nghèo
+topic: economics
+genre: analysis
+names: Benjamin Franklin, Franklin, Poor Richard, Richard Saunders, Richard, Pennsylvania, Britain, French, Father Abraham, Abraham, The Way to Wealth, Mark Twain, Twain, D. H. Lawrence, D, H, Lawrence, America, American
+gloss: almanac, almanacs, proverbs, frugality, auction, maxims
+source: The Autobiography of Benjamin Franklin | Benjamin Franklin (1791), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/benjamin-franklin_the-autobiography-of-benjamin-franklin
+
+In 1732 Benjamin Franklin began publishing an almanac under the name of Richard Saunders, a fictitious and impoverished astronomer whose wife constantly urged him to earn some money. | Năm 1732, Benjamin Franklin bắt đầu xuất bản một cuốn niên lịch dưới tên Richard Saunders, một nhà thiên văn hư cấu nghèo khó mà bà vợ lúc nào cũng giục ông kiếm tiền.
+Almanacs were a pervasive feature of colonial life: alongside calendars, weather predictions and astronomical tables, they offered entertainment to households that owned scarcely any other books. | Niên lịch có mặt khắp nơi trong đời sống thời thuộc địa: bên cạnh lịch, dự báo thời tiết và bảng thiên văn, chúng mang lại giải trí cho những gia đình hầu như chẳng có cuốn sách nào khác.
+The almanac of Poor Richard proved so popular that Franklin continued it for about twenty-five years, selling nearly ten thousand copies annually, and its profitability contributed substantially to his fortune. | Niên lịch của Richard Nghèo được ưa chuộng đến mức Franklin duy trì nó khoảng hai mươi lăm năm, mỗi năm bán gần mười nghìn bản, và khả năng sinh lời của nó góp phần đáng kể vào gia sản của ông.
+Recognizing that nearly every household in the province bought a copy, he seized the opportunity to use it as a vehicle for the edification of the common people. | Nhận thấy gần như nhà nào trong tỉnh cũng mua một bản, ông chớp lấy cơ hội dùng nó làm phương tiện giáo hóa dân thường.
+He filled the blank spaces between the important dates of the calendar with proverbial sentences, most of them recommending industry and frugality as the means of acquiring wealth, and thereby, he argued, of securing virtue. | Ông lấp những khoảng trống giữa các ngày quan trọng trên lịch bằng những câu mang tính tục ngữ, phần lớn khuyên chăm chỉ và tằn tiện như phương cách làm giàu, và qua đó, theo ông, giữ được đức hạnh.
+His reasoning was disarmingly practical: it is harder for someone in want to act honestly, because, as one of the proverbs puts it, "it is hard for an empty sack to stand upright". | Lập luận của ông thực tế đến mức khiến người ta phải mỉm cười: kẻ túng thiếu khó mà sống ngay thẳng, bởi như một câu tục ngữ nói, "bao rỗng thì khó mà đứng thẳng".
+
+In 1757 he gathered the best of these proverbs into a single speech, delivered by a wise old man called Father Abraham to a crowd waiting for an auction to begin. | Năm 1757, ông gom những câu tục ngữ hay nhất thành một bài diễn văn duy nhất, do một ông lão thông thái tên Cha Abraham nói với đám đông đang chờ một buổi đấu giá bắt đầu.
+The crowd complains bitterly about heavy taxes, and Father Abraham replies that their idleness, pride and folly tax them far more heavily than any government. | Đám đông than phiền cay đắng về thuế nặng, và Cha Abraham đáp rằng sự lười biếng, kiêu căng và ngu dại của họ đánh thuế họ còn nặng hơn bất kỳ chính quyền nào.
+His speech is a relentless chain of maxims, among them "Lost time is never found again" and "A small leak will sink a great ship", which have long since become truisms. | Bài diễn văn của ông là một chuỗi châm ngôn liên tiếp, trong đó có "Thời gian đã mất không bao giờ tìm lại được" và "Lỗ rò nhỏ cũng đủ đánh chìm con tàu lớn", những câu từ lâu đã thành chân lý hiển nhiên.
+Franklin notes with evident satisfaction that the piece was reprinted in newspapers throughout the colonies, posted on the walls of houses in Britain and translated twice into French. | Franklin ghi lại với vẻ hài lòng rõ rệt rằng bài viết được in lại trên báo khắp các thuộc địa, dán trên tường nhà ở Anh và được dịch hai lần sang tiếng Pháp.
+Some even believed that, by discouraging superfluous spending on foreign luxuries, it contributed to the growing prosperity of Pennsylvania in the years that followed. | Có người còn tin rằng, nhờ ngăn người ta tiêu xài thừa thãi vào hàng xa xỉ ngoại nhập, nó đã góp phần vào sự thịnh vượng ngày càng tăng của Pennsylvania trong những năm sau đó.
+The irony, which the text itself acknowledges, is that the crowd applauds the old man and then immediately does the opposite, spending extravagantly at the auction. | Điều trớ trêu, mà chính văn bản cũng thừa nhận, là đám đông vỗ tay tán thưởng ông lão rồi lập tức làm điều ngược lại, vung tiền phóng tay ở buổi đấu giá.
+
+The speech later circulated as a separate pamphlet under the title The Way to Wealth, and it became one of the most frequently reprinted texts in American history. | Về sau bài diễn văn được lưu hành thành một cuốn sách mỏng riêng với nhan đề "Con đường làm giàu", và trở thành một trong những văn bản được in lại nhiều nhất trong lịch sử nước Mỹ.
+Its influence has been both admired and lamented. | Ảnh hưởng của nó vừa được ngưỡng mộ vừa bị than phiền.
+Admirers regard it as the seminal expression of a practical, self-reliant ethos, whereas critics from Mark Twain to D. H. Lawrence have mocked its relentless utilitarianism as a recipe for joyless, materialistic accumulation. | Những người ngưỡng mộ coi nó là biểu hiện khởi nguyên của một tinh thần thực tế, tự lực, trong khi các nhà phê bình từ Mark Twain đến D. H. Lawrence chế giễu chủ nghĩa vị lợi không ngơi nghỉ của nó như một công thức tích lũy vật chất không chút niềm vui.
+To such readers, Poor Richard is the epitome of a narrow mercantile morality that values virtue chiefly because it pays. | Với những độc giả ấy, Richard Nghèo là hiện thân của một thứ đạo đức con buôn hẹp hòi, coi trọng đức hạnh chủ yếu vì nó sinh lời.
+Both readings contain some truth, yet Franklin himself was rather more playful than his reputation suggests. | Cả hai cách đọc đều có phần đúng, thế nhưng bản thân Franklin tinh nghịch hơn nhiều so với tiếng tăm của ông.
+The maxims are voiced by a fictitious character, and the final scene, paradoxically, undercuts their authority with unmistakable self-mockery, as though the author doubted that anyone would ever follow his advice. | Những câu châm ngôn được nói qua miệng một nhân vật hư cấu, và nghịch lý thay, cảnh kết làm lung lay uy tín của chúng bằng sự tự giễu không thể nhầm lẫn, như thể tác giả ngờ rằng sẽ chẳng ai thật sự làm theo lời khuyên của mình.
+It is decidedly ironic that a text so doubtful of its own persuasive power should have become one of the most influential guides to personal success ever written. | Thật trớ trêu khi một văn bản hoài nghi chính sức thuyết phục của mình đến thế lại trở thành một trong những cẩm nang thành công cá nhân có ảnh hưởng nhất từng được viết ra.
+
+=== rd-c2-the-harm-principle
+title: The Harm Principle | Nguyên tắc gây hại
+topic: philosophy
+genre: argument
+names: John Stuart Mill, Mill, On Liberty, Victorian, Britain, East India Company, East India
+source: On Liberty | John Stuart Mill (1859), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/john-stuart-mill_on-liberty
+
+In On Liberty, published in 1859, John Stuart Mill set out to defend what he called "one very simple principle", intended to govern the relations between society and the individual. | Trong "Bàn về tự do", xuất bản năm 1859, John Stuart Mill đặt mục tiêu bảo vệ điều ông gọi là "một nguyên tắc rất giản dị", nhằm điều chỉnh quan hệ giữa xã hội và cá nhân.
+Whether society acts through punitive laws or through the moral coercion of public opinion, he argued, the only legitimate reason for interfering with the liberty of any person is self-protection. | Ông lập luận rằng dù xã hội hành động bằng luật lệ trừng phạt hay bằng sự cưỡng ép đạo đức của dư luận, lý do chính đáng duy nhất để can thiệp vào tự do của bất kỳ ai là để tự vệ.
+In his own words, the only purpose for which power can be rightfully exercised over any member of a civilised community, against his will, is to prevent harm to others. | Theo chính lời ông, mục đích duy nhất cho phép quyền lực được thực thi một cách chính đáng lên bất kỳ thành viên nào của một cộng đồng văn minh, trái với ý muốn của người đó, là ngăn người đó gây hại cho người khác.
+A person's own good, whether physical or moral, is not a sufficient warrant. | Lợi ích riêng của một người, dù về thể chất hay đạo đức, không phải là lý do đủ để can thiệp.
+We may reason with someone, remonstrate with them or warn them, but we may not compel them simply because we believe a different course would make them happier or wiser. | Ta có thể lý lẽ, can ngăn hay cảnh báo một người, nhưng không được ép buộc họ chỉ vì ta tin rằng một lựa chọn khác sẽ khiến họ hạnh phúc hay khôn ngoan hơn.
+In matters that concern only themselves, Mill insisted unequivocally, individuals are sovereign over their own bodies and minds. | Mill khẳng định dứt khoát rằng trong những việc chỉ liên quan đến bản thân, mỗi cá nhân có chủ quyền đối với thân thể và tâm trí của chính mình.
+
+Mill identified three domains in which this liberty should be protected: freedom of thought and expression, freedom to pursue one's own tastes and plans of life, however idiosyncratic, and freedom to associate with others for any purpose that does not harm third parties. | Mill xác định ba lĩnh vực cần bảo vệ tự do ấy: tự do tư tưởng và ngôn luận, tự do theo đuổi sở thích và kế hoạch sống của riêng mình, dù khác người đến đâu, và tự do kết hợp với người khác vì bất kỳ mục đích nào không gây hại cho bên thứ ba.
+He was acutely aware that the gravest threat to liberty in his own age came not from absolute rulers but from what he called the tyranny of the majority, the insidious and pervasive pressure of prevailing opinion and custom. | Ông ý thức sâu sắc rằng mối đe dọa lớn nhất đối với tự do trong thời đại ông không đến từ những ông vua chuyên chế, mà từ điều ông gọi là sự chuyên chế của số đông, áp lực ngấm ngầm và lan tràn của định kiến và tập tục thống trị.
+Victorian Britain, with its stultifying conventions of respectability, seemed to him dangerously hostile to eccentricity, and he lamented that so few people now dared to be different. | Nước Anh thời Victoria, với những khuôn phép đứng đắn bóp nghẹt mọi sinh khí, trong mắt ông là thù địch một cách nguy hiểm với sự lập dị, và ông than rằng nay quá ít người dám sống khác đi.
+Conformity, in his view, was not merely dull but harmful, since progress depends on individuals who are free to experiment with different ways of living. | Theo ông, sự rập khuôn không chỉ tẻ nhạt mà còn có hại, vì tiến bộ phụ thuộc vào những cá nhân được tự do thử nghiệm các lối sống khác nhau.
+
+The principle has been endlessly debated since this seminal treatise first appeared. | Nguyên tắc ấy đã bị tranh luận không ngớt kể từ khi tác phẩm khởi nguyên này ra đời.
+Critics have objected that almost any conduct affects others in some way, so that the boundary between actions that concern only oneself and actions that affect others is far less clear than Mill supposed. | Các nhà phê bình phản bác rằng hầu như mọi hành vi đều ảnh hưởng đến người khác theo cách nào đó, nên ranh giới giữa hành động chỉ liên quan đến bản thân và hành động ảnh hưởng đến người khác mờ nhạt hơn nhiều so với Mill nghĩ.
+Others have noted that he explicitly excluded children and, more troublingly, societies he considered backward, a qualification that betrays the patronizing presuppositions of a man who spent his career working for the East India Company. | Những người khác lưu ý rằng ông công khai loại trừ trẻ em và, đáng lo ngại hơn, cả những xã hội mà ông coi là lạc hậu, một sự giới hạn bộc lộ những tiền giả định kẻ cả của một người đã gắn cả sự nghiệp với Công ty Đông Ấn.
+Defenders reply that the principle was never meant as a precise legal formula but as a presumption in favour of liberty, placing the burden of proof on those who wish to restrict it. | Những người bênh vực đáp rằng nguyên tắc ấy chưa bao giờ được dự định như một công thức pháp lý chính xác, mà như một sự mặc định có lợi cho tự do, đặt gánh nặng chứng minh lên vai những ai muốn hạn chế nó.
+Today the harm principle is invoked in debates about public health, drug laws, censorship and online speech, frequently by people who have never read a line of Mill. | Ngày nay nguyên tắc gây hại được viện dẫn trong các cuộc tranh luận về y tế công cộng, luật ma túy, kiểm duyệt và ngôn luận trên mạng, thường bởi những người chưa từng đọc một dòng nào của Mill.
+Its enduring appeal arguably lies in its austere simplicity: rather than being prescriptive about how people should live, it seeks to guarantee the space in which they can decide for themselves. | Sức hấp dẫn lâu bền của nó có lẽ nằm ở sự giản dị khắc khổ: thay vì quy định con người nên sống ra sao, nó tìm cách bảo đảm khoảng không gian để họ tự mình quyết định.
+Whether that space can ever be wholly protected from the subtler forms of social coercion remains, as Mill himself suspected, an open question. | Liệu khoảng không gian ấy có bao giờ được bảo vệ trọn vẹn trước những hình thức cưỡng ép xã hội tinh vi hơn hay không vẫn là, như chính Mill đã ngờ, một câu hỏi bỏ ngỏ.
+
+=== rd-c2-a-cabin-for-twenty-eight-dollars
+title: A Cabin for Twenty-Eight Dollars | Căn chòi hai mươi tám đô-la
+topic: economics
+genre: analysis
+names: Henry David Thoreau, Thoreau, Walden, Walden Pond, Concord, Massachusetts, Harvard, James Collins, Collins, Irish, Economy, Ralph Waldo Emerson, Emerson
+gloss: cabin, shanty, garret, cellar, frugality
+source: Walden | Henry David Thoreau (1854), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/henry-david-thoreau_walden
+
+Near the end of March 1845, Henry David Thoreau borrowed an axe and went into the woods beside Walden Pond, near Concord, Massachusetts, to build himself a house where he could live in relative solitude. | Gần cuối tháng Ba năm 1845, Henry David Thoreau mượn một chiếc rìu rồi đi vào khu rừng bên hồ Walden, gần Concord, bang Massachusetts, để tự dựng cho mình một ngôi nhà nơi ông có thể sống tương đối biệt lập.
+He cut and shaped the timber himself. | Ông tự tay đốn và đẽo gỗ.
+He also bought the boards of a shanty belonging to James Collins, an Irish railway labourer, for four dollars and twenty-five cents, taking it apart early one morning and carrying the boards to the pond. | Ông còn mua lại ván của một căn lán thuộc về James Collins, một công nhân đường sắt người Ireland, với giá bốn đô-la hai mươi lăm xu, dỡ nó ra vào một buổi sáng sớm và chở ván đến bên hồ.
+He dug a cellar in the side of a hill, and in May some acquaintances helped him raise the frame, an event that, he remarks, was more a neighbourly occasion than a necessity. | Ông đào một căn hầm vào sườn đồi, và đến tháng Năm, vài người quen giúp ông dựng khung nhà, một sự kiện mà theo ông là dịp để hàng xóm gắn bó hơn là một nhu cầu thiết yếu.
+He moved in on the fourth of July, a date whose symbolic significance can hardly have escaped him. | Ông dọn vào ở ngày mùng bốn tháng Bảy, một ngày mà ý nghĩa biểu tượng hẳn khó lòng thoát khỏi tâm trí ông.
+The finished house was ten feet wide and fifteen feet long, with a garret, a closet, a large window on each side, a door at one end and a brick fireplace opposite. | Ngôi nhà hoàn thiện rộng mười bộ, dài mười lăm bộ, có một gác xép, một buồng kho, mỗi bên một ô cửa sổ lớn, một cánh cửa ở một đầu và lò sưởi gạch ở phía đối diện.
+
+In the chapter called "Economy", Thoreau meticulously lists the exact cost of every material, down to the half-cent: boards, second-hand windows, a thousand old bricks, lime, nails and a latch. | Trong chương "Kinh tế", Thoreau liệt kê tỉ mỉ chi phí chính xác của từng vật liệu, đến từng nửa xu: ván gỗ, cửa sổ cũ, một nghìn viên gạch cũ, vôi, đinh và chốt cửa.
+The total outlay came to twenty-eight dollars and twelve and a half cents. | Tổng chi phí là hai mươi tám đô-la mười hai xu rưỡi.
+He presents these figures with mock seriousness, observing that very few people can say exactly what their houses cost, and fewer still can list the materials that compose them. | Ông trình bày những con số ấy với vẻ nghiêm trang giả vờ, nhận xét rằng rất ít người nói được chính xác ngôi nhà của mình tốn bao nhiêu, và càng ít người kê ra được từng vật liệu cấu thành nó.
+The purpose of the calculation is unmistakably satirical. | Mục đích của phép tính ấy rõ ràng mang tính châm biếm.
+At Harvard, where Thoreau had studied, a student paid about thirty dollars a year merely to rent a room scarcely larger than his cabin, whereas he had acquired a permanent dwelling for less. | Ở Harvard, nơi Thoreau từng học, một sinh viên trả khoảng ba mươi đô-la mỗi năm chỉ để thuê một căn phòng chẳng lớn hơn căn chòi của ông là bao, trong khi ông đã có được một chỗ ở lâu dài với giá rẻ hơn.
+An ordinary labourer, he calculates, must work ten or fifteen years merely to pay for an average house, so that in the end it is the house that owns the man rather than the man who owns the house. | Ông tính rằng một người lao động bình thường phải làm việc mười đến mười lăm năm chỉ để trả tiền cho một ngôi nhà trung bình, đến nỗi rốt cuộc chính ngôi nhà sở hữu con người chứ không phải con người sở hữu ngôi nhà.
+Such a burden, in his view, is wholly superfluous, since most of the comforts for which people sacrifice their lives are not merely unnecessary but positive hindrances to the elevation of mankind. | Theo ông, gánh nặng ấy hoàn toàn thừa thãi, vì phần lớn những tiện nghi mà người ta hy sinh cả đời để có không chỉ không cần thiết mà còn thực sự cản trở sự thăng hoa của loài người.
+The cost of a thing, he writes in one of the most quoted sentences of the book, is the amount of what he calls life which must be exchanged for it, immediately or in the long run. | Ông viết, trong một trong những câu được trích dẫn nhiều nhất của cuốn sách, rằng cái giá của một thứ là lượng đời sống, như ông gọi, phải đánh đổi để có nó, ngay lập tức hoặc về lâu dài.
+
+Skeptics have long delighted in pointing out that the experiment was less austere than it appears. | Những người hoài nghi từ lâu đã thích thú chỉ ra rằng thử nghiệm ấy không khắc khổ như vẻ ngoài.
+The pond lay less than two miles from Concord, Thoreau frequently walked into town, and the land belonged to his friend Ralph Waldo Emerson. | Hồ chỉ cách Concord chưa đầy hai dặm, Thoreau thường xuyên đi bộ vào thị trấn, và mảnh đất thuộc về người bạn của ông là Ralph Waldo Emerson.
+Such objections are not frivolous, but they arguably miss his purpose. | Những phản bác ấy không phải vô căn cứ, nhưng có lẽ chúng bỏ lỡ mục đích của ông.
+Thoreau never claimed to be a hermit or a recluse. | Thoreau chưa bao giờ tự nhận mình là ẩn sĩ hay kẻ sống tách biệt.
+He was conducting an experiment in deliberate living, and the painstaking accounts in "Economy" are a satirical mirror held up to the anxious materialism of his neighbours. | Ông đang tiến hành một thử nghiệm về lối sống có chủ đích, và những bản kê khai cần mẫn trong chương "Kinh tế" là một tấm gương châm biếm soi vào chủ nghĩa vật chất đầy lo âu của những người hàng xóm.
+His frugality was not an end in itself but a means of buying the one commodity he valued above all others: leisure to think, unencumbered by debt or drudgery. | Sự tằn tiện của ông không phải là mục đích tự thân mà là phương tiện để mua thứ hàng hóa duy nhất ông coi trọng hơn mọi thứ khác: thời gian thư thả để suy nghĩ, không vướng nợ nần hay công việc cực nhọc.
+Read in this light, the cabin is less a model for imitation than a parable, and its modest price remains a quiet provocation to any affluent society that measures success by accumulation. | Đọc theo cách ấy, căn chòi không hẳn là một hình mẫu để bắt chước mà là một ngụ ngôn, và cái giá khiêm tốn của nó vẫn là lời khiêu khích lặng lẽ đối với bất kỳ xã hội sung túc nào đo thành công bằng sự tích lũy.
+
+=== rd-c2-a-little-cloud
+title: A Little Cloud | Một đám mây nhỏ
+topic: literature
+genre: narrative
+names: Little Chandler, Chandler, Ignatius Gallaher, Gallaher, Dublin, London, London Press, Paris, Annie, Byron, Celtic, English, European, Bible, James Joyce, Joyce, Dubliners
+gloss: clerk, whisky, journalist
+source: A Little Cloud | James Joyce, Dubliners (1914), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/james-joyce_dubliners
+
+Little Chandler, a mild and meticulously tidy clerk in Dublin, spends a whole working day in a state of suppressed excitement. | Little Chandler, một viên thư ký hiền lành và chỉn chu đến từng chi tiết ở Dublin, trải qua cả một ngày làm việc trong trạng thái phấn khích nén lại.
+That evening he is to meet a friend whom he has not seen for eight years. | Tối hôm ấy anh sẽ gặp một người bạn đã tám năm không gặp.
+Ignatius Gallaher had left Dublin under something of a cloud, but he had since made his name as a journalist on the London Press, and to Chandler his success seems almost miraculous. | Ignatius Gallaher từng rời Dublin trong cảnh tiếng tăm chẳng mấy hay ho, nhưng từ đó đã thành danh với nghề báo ở tờ London Press, và với Chandler thành công ấy gần như một phép màu.
+Walking through the poorer streets of the city after the drudgery of the office, Chandler indulges in a melancholy daydream. | Đi bộ qua những con phố nghèo hơn của thành phố sau những giờ làm việc nhàm chán ở văn phòng, Chandler đắm mình trong một giấc mơ ngày u buồn.
+Perhaps he too could escape and become a poet whose verses English critics would praise as belonging to the Celtic school. | Có lẽ anh cũng có thể thoát ra và trở thành một nhà thơ mà những vần thơ của anh sẽ được giới phê bình Anh ca ngợi là thuộc trường phái Celtic.
+He even composes, in his head, the admiring phrases that reviewers might use about his work, among them the remark that a wistful sadness runs through every poem. | Anh thậm chí còn nghĩ sẵn trong đầu những lời tán dương mà các nhà điểm sách có thể dành cho tác phẩm của mình, trong đó có nhận xét rằng một nỗi buồn man mác thấm qua từng bài thơ.
+
+In the fashionable bar where they meet, a place Chandler has never before dared to enter, Gallaher greets him with loud familiarity. | Trong quán bar sang trọng nơi họ gặp nhau, một chốn Chandler chưa từng dám bước vào, Gallaher chào anh bằng giọng thân mật ồn ào.
+He has grown heavier and his face is pale and clean-shaven, but his voice and manner are as rowdy as ever. | Gallaher đã đẫy đà hơn, gương mặt xanh xao, cạo nhẵn, nhưng giọng nói và cung cách vẫn ầm ĩ như xưa.
+Over several glasses of whisky, which he orders with nonchalant authority, he boasts about the depravity of Paris and the corruption of other European capitals. | Qua mấy ly whisky mà anh ta gọi với vẻ thản nhiên đầy tự tin, anh ta khoe khoang về sự trụy lạc của Paris và sự đồi bại của những kinh đô châu Âu khác.
+Chandler, who rarely drinks, listens with a mixture of fascination, envy and discomfort. | Chandler, người hiếm khi uống rượu, lắng nghe với cảm xúc lẫn lộn giữa say mê, ghen tị và khó chịu.
+When Chandler mentions his wife and young son, Gallaher patronizingly declares that he has no intention of marrying unless he can find a rich woman. | Khi Chandler nhắc đến vợ và đứa con trai nhỏ, Gallaher ra vẻ kẻ cả tuyên bố rằng anh ta không có ý định lấy vợ, trừ phi tìm được một người đàn bà giàu có.
+The evening leaves Chandler with a palpable sense of the distance between the vulgar success of Gallaher and his own timid, constrained existence. | Buổi tối để lại trong Chandler cảm giác rõ rệt về khoảng cách giữa thành công tầm thường của Gallaher và cuộc sống rụt rè, gò bó của chính anh.
+
+At home, holding his sleeping baby while his wife Annie goes out to buy tea, Chandler looks at her photograph and finds her eyes cold and unyielding. | Ở nhà, bế đứa con đang ngủ trong lúc vợ anh, Annie, ra ngoài mua trà, Chandler nhìn tấm ảnh của cô và thấy đôi mắt cô lạnh lùng, cứng cỏi.
+He asks himself resentfully why he married her and whether it is too late to escape the narrow domesticity of his little house and live bravely, as his friend has done. | Anh oán trách tự hỏi vì sao mình lại cưới cô, và liệu có quá muộn để thoát khỏi cảnh gia đình chật hẹp trong căn nhà nhỏ mà sống dũng cảm như bạn mình đã sống.
+He opens a volume of Byron and tries to read a poem aloud, but the baby wakes and begins to cry, and in a moment of frustration he shouts at the child. | Anh mở một tập thơ Byron và cố đọc to một bài, nhưng đứa bé thức giấc và bắt đầu khóc, và trong một phút bực bội anh quát đứa trẻ.
+Annie rushes in, takes the baby and soothes it, glaring at her husband with silent reproach, while Chandler stands back, ashamed, with tears of remorse starting to his eyes. | Annie chạy vào, bế đứa bé lên dỗ dành, trừng mắt nhìn chồng đầy trách móc không lời, trong khi Chandler lùi lại, xấu hổ, nước mắt ăn năn trào lên khóe mắt.
+
+Joyce described Dubliners as a study of the paralysis that he saw at the heart of the city, and this story is among its most painful illustrations. | Joyce mô tả "Người Dublin" như một nghiên cứu về sự tê liệt mà ông thấy nằm ở trung tâm thành phố, và truyện này là một trong những minh họa đau lòng nhất.
+Chandler is not a villain but a man imprisoned by his own timidity, by economic necessity and by the parochial conventions that surround him. | Chandler không phải kẻ xấu, mà là một người bị giam hãm bởi chính sự rụt rè, bởi nhu cầu kinh tế và bởi những khuôn phép tỉnh lẻ vây quanh anh.
+The modest title may allude to the little cloud in the Bible that heralds the rain ending a long drought, yet no such relief ever comes to Chandler. | Nhan đề khiêm tốn có thể ám chỉ đám mây nhỏ trong Kinh Thánh báo hiệu cơn mưa chấm dứt một đợt hạn hán dài, thế nhưng chẳng có sự giải thoát nào như thế đến với Chandler.
+His poetic ambitions are exposed as a comfortable delusion, a form of self-pity that allows him to feel superior to a life he lacks the courage to change. | Những hoài bão thi ca của anh bị phơi bày như một ảo tưởng dễ chịu, một dạng tự thương thân cho phép anh thấy mình cao hơn một cuộc sống mà anh không đủ can đảm thay đổi.
+Yet Joyce treats him with a disconcerting mixture of mockery and compassion, and the remorseful final image suggests that his shame may be the first honest emotion he has felt all day. | Thế nhưng Joyce đối xử với anh bằng một sự pha trộn đáng bối rối giữa giễu cợt và trắc ẩn, và hình ảnh ăn năn ở cuối truyện gợi ý rằng nỗi xấu hổ ấy có lẽ là cảm xúc chân thật đầu tiên anh có trong cả ngày.
+
+=== rd-c2-clay
+title: Clay | Đất sét
+topic: society
+genre: narrative
+names: Maria, Joe Donnelly, Joe, Donnelly, Mrs Donnelly, Dublin, Protestant, Halloween, James Joyce, Joyce, Dubliners
+gloss: laundry, spinster, plumcake, barmbracks, saucer, saucers, blindfolded, corkscrew, tram, matron, convent, clay
+source: Clay | James Joyce, Dubliners (1914), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/james-joyce_dubliners
+
+Maria, a tiny elderly spinster, works in the kitchen of a Dublin laundry run by Protestant ladies for women whose lives have gone badly wrong. | Maria, một bà cô già bé nhỏ không chồng, làm việc trong gian bếp của một tiệm giặt ở Dublin do các quý bà Tin Lành điều hành, dành cho những phụ nữ mà cuộc đời đã gặp nhiều trắc trở.
+Her work is menial and her wages meagre, but she is evidently held in affection there: the cook admires how neatly she cuts the barmbracks, and the matron calls her a veritable peacemaker. | Công việc của bà thấp kém và đồng lương ít ỏi, nhưng ở đó bà rõ ràng được quý mến: chị đầu bếp khen bà cắt bánh mì nho gọn gàng, còn bà quản lý gọi bà là một người hòa giải thực thụ.
+On the evening of Halloween she has time off, and she sets out to visit Joe Donnelly, whom she once looked after as a child and who now has a family of his own. | Vào tối lễ Halloween bà được nghỉ, và bà lên đường đến thăm Joe Donnelly, người bà từng chăm sóc khi còn bé và giờ đã có gia đình riêng.
+She spends part of her savings on penny cakes and, after much hesitation, on an expensive slice of plumcake, a purchase that the shop assistant greets with impatient sarcasm. | Bà tiêu một phần tiền dành dụm vào những chiếc bánh một xu và, sau hồi lâu đắn đo, vào một lát bánh mận đắt tiền, món hàng mà cô bán hàng tiếp đón bằng giọng mỉa mai sốt ruột.
+On the crowded tram, an elderly gentleman with a grey moustache, who looks to her very much like a colonel, makes room for her and chats courteously. | Trên chuyến tàu điện đông nghẹt, một quý ông lớn tuổi để ria mép bạc, trông với bà rất giống một ông đại tá, nhường chỗ cho bà và trò chuyện lịch thiệp.
+Unnerved by this unaccustomed attention, she leaves the plumcake on the tram, and she nearly cries when she discovers the loss. | Bối rối trước sự quan tâm hiếm hoi ấy, bà để quên lát bánh mận trên tàu, và suýt khóc khi phát hiện mình đánh mất nó.
+
+At the house, the children play a traditional Halloween game in which a blindfolded person chooses one of several saucers in order to discover their fortune. | Ở nhà Joe, bọn trẻ chơi một trò truyền thống ngày Halloween, trong đó một người bị bịt mắt chọn một trong mấy chiếc đĩa nhỏ để biết vận mệnh của mình.
+The girls from next door secretly put a saucer of wet clay on the table, and Maria touches it with her fingers. | Mấy cô bé nhà bên lén đặt một đĩa đất sét ướt lên bàn, và Maria chạm ngón tay vào nó.
+A sudden silence falls, Mrs Donnelly speaks sharply to the girls, and the clay is quickly replaced with a prayer book. | Một sự im lặng đột ngột bao trùm, bà Donnelly gắt gỏng với mấy cô bé, và đĩa đất sét nhanh chóng được thay bằng một cuốn sách kinh.
+Maria, oblivious to what she has touched, receives the prayer book instead, which is said to signify that she will enter a convent, a prediction that seems to suit a woman so pious. | Maria, không hề hay biết mình đã chạm vào thứ gì, nhận cuốn sách kinh thay vào đó, thứ được cho là báo trước rằng bà sẽ vào tu viện, một lời tiên đoán có vẻ hợp với một người ngoan đạo như bà.
+Later, Joe persuades her to sing, and in a small, wistful voice she chooses a sentimental song, "I Dreamt that I Dwelt in Marble Halls". | Sau đó Joe nài bà hát, và bằng giọng nhỏ nhẹ man mác, bà chọn một bài ủy mị, "Tôi mơ mình sống trong những sảnh đá cẩm thạch".
+By mistake she sings the first verse twice, omitting the verse about suitors and marriage, but in a tacit act of kindness nobody points out her error. | Bà hát nhầm khổ đầu hai lần, bỏ sót khổ nói về những người cầu hôn và hôn nhân, nhưng như một sự tử tế ngầm, không ai chỉ ra lỗi ấy.
+Joe is so moved that his eyes fill with tears, and he cannot find the corkscrew he has been looking for. | Joe xúc động đến mức mắt rưng rưng, và ông không tìm thấy chiếc mở nút chai mà ông đang lục tìm.
+
+On the surface little happens in the story, yet it is saturated with quiet irony. | Bề ngoài câu chuyện hầu như chẳng có gì xảy ra, thế nhưng nó thấm đẫm sự trớ trêu lặng lẽ.
+In the Halloween game, clay traditionally signifies death, and the omitted verse about marriage underlines everything that life has denied her. | Trong trò chơi Halloween, đất sét theo truyền thống tượng trưng cho cái chết, còn khổ thơ bị bỏ sót về hôn nhân càng nhấn mạnh mọi điều cuộc đời đã từ chối bà.
+The narrator largely adopts the cheerful, self-deceiving perspective of Maria, so that the reader must infer the solitary, forlorn existence she never acknowledges. | Người kể chuyện phần lớn mượn góc nhìn vui vẻ, tự dối mình của Maria, nên người đọc phải tự suy ra cuộc sống cô độc, quạnh hiu mà bà không bao giờ thừa nhận.
+Every detail is rendered with deliberate understatement, from the trifling loss of the plumcake to the unspoken meaning of the game, and the cumulative effect is markedly more moving than any explicit lament. | Mọi chi tiết đều được thể hiện bằng lối nói giảm có chủ ý, từ chuyện mất lát bánh mận vặt vãnh đến ý nghĩa không thành lời của trò chơi, và hiệu quả cộng dồn cảm động hơn hẳn bất kỳ lời than khóc trực tiếp nào.
+Critics have debated whether Joe weeps for Maria, for his own lost youth or simply because he has drunk too much, and Joyce, characteristically, leaves the question unresolved. | Các nhà phê bình đã tranh luận liệu Joe khóc vì Maria, vì tuổi trẻ đã mất của chính ông hay chỉ vì đã uống quá chén, và Joyce, đúng phong cách của mình, để câu hỏi ngỏ.
+What remains is a bittersweet portrait of a woman whose kindness is never quite repaid, drawn with a compassion that is all the more affecting for being so unobtrusive. | Điều còn lại là một bức chân dung buồn vui lẫn lộn về một người phụ nữ mà lòng tốt chưa bao giờ được đền đáp trọn vẹn, được khắc họa bằng một sự trắc ẩn càng xúc động vì nó kín đáo đến thế.
+
+=== rd-c2-the-steamer-that-sank
+title: The Steamer That Sank in Six Feet of Water | Con tàu chìm ở chỗ nước sâu sáu bộ
+topic: culture
+genre: narrative
+names: Stephen Leacock, Leacock, Sunshine Sketches of a Little Town, Sunshine Sketches, Mariposa, Mariposa Belle, Lake Wissanotti, Wissanotti, Knights of Pythias, Pythias, Mr Smith, Smith, Ontario, Orillia, Italian, Swiss, Alps, Venice, O Canada, Canada, Canadian
+gloss: steamer, wharf, lifeboat, mallet, excursion
+source: The Marine Excursion of the Knights of Pythias | Stephen Leacock, Sunshine Sketches of a Little Town (1912), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/stephen-leacock_sunshine-sketches-of-a-little-town
+
+In Sunshine Sketches of a Little Town, published in 1912, Stephen Leacock subjects Mariposa, an imaginary small town in Ontario, to affectionate mockery. | Trong "Phác họa nắng về một thị trấn nhỏ", xuất bản năm 1912, Stephen Leacock đem Mariposa, một thị trấn nhỏ tưởng tượng ở Ontario, ra giễu cợt một cách trìu mến.
+The town was modelled on Orillia, where Leacock spent his summers. | Thị trấn ấy được phỏng theo Orillia, nơi Leacock nghỉ hè.
+One of its most celebrated chapters describes the annual excursion of the Knights of Pythias on the lake steamer Mariposa Belle. | Một trong những chương nổi tiếng nhất kể về chuyến du ngoạn hằng năm của hội Hiệp sĩ Pythias trên con tàu hơi nước Mariposa Belle.
+The narrator begins with breathless rhetoric, insisting that neither the Italian lakes nor the Swiss Alps could rival Lake Wissanotti in the morning sunlight. | Người kể chuyện mở đầu bằng giọng hùng biện hổn hển, khăng khăng rằng cả những hồ nước nước Ý lẫn dãy Alps của Thụy Sĩ đều không sánh được hồ Wissanotti trong nắng sớm.
+He would not even look at the Carnival of Venice, he declares, if he could watch the town band in their peaked caps instead. | Ông tuyên bố sẽ chẳng thèm nhìn Lễ hội hóa trang Venice nếu được ngắm ban nhạc thị trấn đội mũ lưỡi trai.
+Everybody in town, it seems, belongs to the Knights of Pythias, just as everybody belongs to every other association, because in Mariposa everybody is in everything. | Dường như ai trong thị trấn cũng thuộc hội Hiệp sĩ Pythias, cũng như ai cũng thuộc mọi hội khác, bởi ở Mariposa ai cũng có mặt trong mọi chuyện.
+The day passes pleasantly at a picnic on an island. | Ngày trôi qua êm đềm với buổi dã ngoại trên một hòn đảo.
+On the way home, however, as the sleepy passengers sing "O Canada" in the dusk, word spreads that the steamer is sinking. | Thế nhưng trên đường về, khi hành khách lơ mơ hát "O Canada" trong ánh chạng vạng, tin đồn lan ra rằng con tàu đang chìm.
+
+Indignant protests sweep the decks, and the narrator builds suspense with mock-heroic seriousness, as though describing one of the great calamities at sea. | Những lời phản đối phẫn nộ lan khắp boong, và người kể chuyện xây dựng sự hồi hộp bằng giọng nghiêm trang anh hùng ca giả mạo, như thể đang tả một trong những thảm họa lớn trên biển.
+Only then does he casually reveal the crucial detail: in this stretch of the lake, you could not find six feet of water if you tried. | Chỉ đến lúc ấy ông mới thản nhiên tiết lộ chi tiết then chốt: ở quãng hồ này, có cố tìm cũng chẳng thấy chỗ nào nước sâu sáu bộ.
+The Mariposa Belle, it turns out, sinks every now and then. | Hóa ra tàu Mariposa Belle thỉnh thoảng lại chìm.
+The cracks between her timbers must be filled with cotton waste every Sunday, and when this is neglected she simply sits on the bottom until things are put right. | Các khe hở giữa những tấm gỗ thân tàu phải được nhét bông vụn vào mỗi Chủ nhật, và khi việc ấy bị lơ là thì nó chỉ đơn giản nằm yên dưới đáy cho đến khi mọi thứ được sửa sang.
+When she finally goes down, the water barely reaches the lower deck, and she comes to rest, safe and tight, on a bank of reeds. | Khi rốt cuộc tàu chìm xuống, nước chỉ vừa chạm boong dưới, và nó nằm yên, an toàn và chắc chắn, trên một bãi lau sậy.
+Within half a minute the passengers are hunting for sandwiches and cracking jokes. | Chưa đầy nửa phút sau, hành khách đã đi tìm bánh mì kẹp và pha trò.
+A valiant rescue nevertheless follows. | Dù vậy một cuộc giải cứu quả cảm vẫn diễn ra.
+An ancient lifeboat sets out from the town, leaking so badly that its exhausted crew must be hauled aboard the steamer just as their boat sinks beneath them. | Một chiếc xuồng cứu sinh cổ lỗ xuất phát từ thị trấn, rò rỉ nặng đến mức đội chèo kiệt sức phải được kéo lên tàu đúng lúc chiếc xuồng chìm dưới chân họ.
+Meanwhile Mr Smith, the hotel keeper, has bet twenty-five dollars that he will get the steamer home before the passengers ferried ashore can walk back to town. | Trong khi đó, ông Smith, chủ khách sạn, đã đánh cược hai mươi lăm đô-la rằng mình sẽ đưa con tàu về trước khi những hành khách được chở vào bờ kịp đi bộ về thị trấn.
+He quietly plugs the leaks with a mallet and some rope, while ten members of the band work the hand pump. | Ông lặng lẽ bịt các chỗ rò bằng một cái vồ và ít dây thừng, trong khi mười thành viên ban nhạc thay nhau bơm tay.
+The steamer is soon afloat again, and Smith steers her triumphantly back to the wharf while the band plays "O Canada". | Con tàu chẳng mấy chốc lại nổi lên, và Smith đắc thắng lái nó về bến trong khi ban nhạc tấu khúc "O Canada".
+
+The comedy depends on a sustained incongruity between rhetoric and reality. | Tiếng cười dựa trên sự chênh lệch kéo dài giữa lời lẽ và thực tế.
+Leacock borrows the inflated vocabulary of heroic journalism, with its perils, rescues and noble sacrifices, and applies it to an incident that is at worst a farcical inconvenience. | Leacock mượn thứ từ vựng phóng đại của báo chí anh hùng, với những hiểm nguy, cuộc giải cứu và hy sinh cao cả, rồi áp vào một sự cố mà tệ nhất cũng chỉ là một phiền toái nực cười.
+The absurdity is heightened by understatement, since the most reassuring facts are always revealed too late to calm anyone. | Sự phi lý càng tăng nhờ lối nói giảm, vì những sự thật khiến người ta yên tâm nhất bao giờ cũng được tiết lộ quá muộn để trấn an ai.
+Yet the satire is notably gentle. | Thế nhưng sự châm biếm rõ ràng nhẹ nhàng.
+The inhabitants are vain, parochial and absurd, but the narrator plainly loves them, and the episode celebrates a community in which a near-disaster becomes a cherished anecdote. | Dân thị trấn hư vinh, tỉnh lẻ và lố bịch, nhưng người kể chuyện hiển nhiên yêu quý họ, và tình tiết này tôn vinh một cộng đồng nơi một vụ suýt thảm họa trở thành giai thoại được nâng niu.
+For many Canadian readers the book remains a nostalgic portrait of small-town life, touched with the wistful awareness that such places were already disappearing. | Với nhiều độc giả Canada, cuốn sách vẫn là một bức chân dung hoài niệm về đời sống thị trấn nhỏ, phảng phất ý thức man mác rằng những nơi như thế đã đang dần biến mất.
+
+=== rd-c2-the-ignorance-of-the-learned
+title: The Ignorance of the Learned | Sự dốt nát của người có học
+topic: education
+genre: argument
+names: William Hazlitt, Hazlitt, Table Talk, Romantic, Shakespeare, Milton, London, Oxford
+gloss: pedant, stagecoach
+source: On the Ignorance of the Learned | William Hazlitt, Table Talk (1821), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/william-hazlitt_table-talk
+
+William Hazlitt, one of the great essayists of the Romantic period, never took a university degree. | William Hazlitt, một trong những nhà tiểu luận lớn của thời kỳ Lãng mạn, chưa bao giờ có bằng đại học.
+In "On the Ignorance of the Learned", published in Table Talk in 1821, he takes evident pleasure in puncturing scholarly pretensions. | Trong "Về sự dốt nát của người có học", in trong tập "Chuyện bên bàn" năm 1821, ông rõ ràng thích thú khi chọc thủng những sự làm bộ uyên bác.
+He opens with a provocative paradox: anyone who has passed through the regular stages of a classical education without being made a fool by it may consider himself to have had a very narrow escape. | Ông mở đầu bằng một nghịch lý khiêu khích: ai đã trải qua đủ các bậc của một nền giáo dục cổ điển mà không bị nó biến thành kẻ ngốc thì có thể coi mình vừa thoát hiểm trong gang tấc.
+A mere scholar, who knows nothing but books, must be ignorant even of them, he argues, since books do not teach the use of books. | Ông lập luận rằng một kẻ chỉ biết sách vở thì hẳn cũng mù tịt ngay cả về sách, vì sách không dạy người ta cách dùng sách.
+The pedant can translate a word into ten languages but knows nothing of the thing it signifies. | Kẻ thông thái rởm có thể dịch một từ ra mười thứ tiếng nhưng chẳng biết gì về sự vật mà từ ấy biểu thị.
+He piles quotation upon quotation, repeating arcane authorities verbatim, while he locks up his senses, his understanding and his heart. | Hắn chồng trích dẫn lên trích dẫn, lặp lại nguyên văn những bậc thầy khó hiểu, trong khi khóa chặt giác quan, trí hiểu và trái tim mình.
+
+Real knowledge, Hazlitt insists, is confined to the narrow range of our daily experience and to the things we have both the opportunity and the motive to understand. | Hazlitt khẳng định rằng tri thức thật sự chỉ giới hạn trong phạm vi hẹp của trải nghiệm hằng ngày và những điều ta vừa có cơ hội vừa có động lực để hiểu.
+Everything else, he declares, is mere affectation. | Ông tuyên bố rằng mọi thứ khác chỉ là sự làm bộ.
+The common people, who live by their labour and skill, therefore understand their own business and the characters of those they deal with far better than many cloistered scholars. | Vì thế những người bình dân, sống bằng sức lao động và tay nghề, hiểu công việc của chính họ và tính cách những người họ giao thiệp hơn nhiều so với không ít học giả sống khép kín.
+You will hear more good sense, he claims, on the outside of a stagecoach between London and Oxford than in a whole year among the students and professors of that famous university. | Ông khẳng định rằng ngồi ngoài nóc một cỗ xe ngựa chở khách giữa London và Oxford, bạn sẽ nghe được nhiều lẽ phải hơn là trọn một năm giữa sinh viên và giáo sư của ngôi trường danh tiếng ấy.
+Scholars, by contrast, see things not as they are but as they find them in books. | Trái lại, giới học giả nhìn sự vật không như chúng vốn là mà như chúng hiện ra trong sách.
+They defend erroneous systems with an ingenuity that would be admirable if it were not so futile. | Họ bảo vệ những hệ thống sai lầm bằng một sự khéo léo đáng khâm phục nếu nó không vô ích đến thế.
+The most sensible people in society, he concludes, are men of business and of the world, who reason from what they see instead of spinning elaborate theories about what things ought to be. | Ông kết luận rằng những người tỉnh táo nhất trong xã hội là giới kinh doanh và người từng trải, những người suy luận từ điều họ thấy thay vì giăng mắc những lý thuyết công phu về việc sự vật lẽ ra phải thế nào.
+He even suggests that Shakespeare owed the freshness of his imagination to being, in the scholarly sense, uneducated, whereas the mind of Milton was shaped by the schools. | Ông thậm chí còn cho rằng Shakespeare có được trí tưởng tượng tươi mới là nhờ, theo nghĩa học thuật, không được học hành bài bản, trong khi tâm trí Milton được nhào nặn bởi nhà trường.
+
+Hazlitt is, of course, deliberately exaggerating, and the argument is paradoxical in more than one sense. | Dĩ nhiên Hazlitt cố tình phóng đại, và lập luận ấy nghịch lý theo nhiều nghĩa.
+His own prose, crowded with allusions to poets and painters, could hardly have been written by an illiterate man. | Chính văn xuôi của ông, dày đặc những liên hệ tới các nhà thơ, họa sĩ, khó lòng do một người mù chữ viết ra.
+The essay is best read not as a rejection of learning but as a satirical attack on a particular kind of learning: mechanical, self-important and divorced from experience. | Bài tiểu luận nên được đọc không phải như sự bác bỏ học vấn, mà như một cuộc tấn công châm biếm nhắm vào một kiểu học vấn nhất định: máy móc, tự cao tự đại và tách rời khỏi trải nghiệm.
+Its target is the insular world of the universities, where ponderous learning was too often mistaken for wisdom. | Mục tiêu của nó là thế giới khép kín của các trường đại học, nơi học vấn nặng nề quá thường bị nhầm là sự khôn ngoan.
+Some of his generalizations, notably his remarks about women, which mingle praise with a patronizing tone, now seem dated. | Một số khái quát của ông, đáng chú ý là những nhận xét về phụ nữ, vốn trộn lời khen với giọng kẻ cả, giờ đây có vẻ lỗi thời.
+Nevertheless, his central conviction that knowledge acquired from books must be tested against life retains a sharp contemporary relevance. | Dẫu vậy, niềm tin cốt lõi của ông rằng tri thức thu được từ sách phải được kiểm chứng bằng cuộc sống vẫn giữ nguyên tính thời sự sắc bén.
+In an age obsessed with credentials and expertise, his cogent defence of vernacular wisdom deserves a more attentive hearing than it usually receives. | Trong một thời đại bị ám ảnh bởi bằng cấp và chuyên môn, lời bênh vực đầy sức thuyết phục của ông cho sự khôn ngoan bình dân xứng đáng được lắng nghe chăm chú hơn thường lệ.
