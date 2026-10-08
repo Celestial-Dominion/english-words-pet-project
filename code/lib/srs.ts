@@ -22,6 +22,17 @@ export const FSRS_PARAMS = generatorParameters({
 
 const f = fsrs(FSRS_PARAMS);
 
+// Lịch NỚI cho thẻ "đã biết sẵn" chưa từng sai (ReviewRecord.known): giữ 90%, trần 365 ngày.
+// Lịch chặt ở trên với từ đã biết là quá đắt — kiểm ở ngày 60→95→144→212→305 rồi 120 ngày/lần
+// (1.000 từ ≈ 14 lượt/ngày năm đầu); lịch này ≈ 2 lần năm đầu rồi ~1 lần/năm. Sai một lần là
+// thẻ về lịch chặt (db.recordAnswer bỏ cờ) — chỉ từ đã chứng minh được mới hưởng lịch nới.
+export const FSRS_KNOWN_PARAMS = generatorParameters({
+  ...FSRS_PARAMS,
+  request_retention: 0.9,
+  maximum_interval: 365,
+});
+const fKnown = fsrs(FSRS_KNOWN_PARAMS);
+
 // Ôn tập trắc nghiệm tự chấm: đúng = Good, sai = Again (không có nút Khó/Dễ thủ công).
 export const RATING = { wrong: Rating.Again as Grade, right: Rating.Good as Grade };
 
@@ -39,6 +50,12 @@ export function schedule(card: Card, correct: boolean, now: Date): Card {
 /** Lên lịch với mức chấm cụ thể (Lại/Khó/Được/Dễ). */
 export function scheduleRated(card: Card, rating: Grade, now: Date): Card {
   const { card: next } = f.next(card, now, rating);
+  return next;
+}
+
+/** Lên lịch thẻ "đã biết sẵn" trả lời ĐÚNG theo lịch nới (FSRS_KNOWN_PARAMS). */
+export function scheduleKnown(card: Card, rating: Grade, now: Date): Card {
+  const { card: next } = fKnown.next(card, now, rating);
   return next;
 }
 
@@ -85,7 +102,7 @@ export function cardToRecordFields(c: Card) {
 }
 
 // ---- phần THUẦN (test được không cần ts-fsrs/Dexie) — xem lib/srs-pure.ts ----
-export { isLeech, isMature, cardStage, LEECH_LAPSES, MATURE_STABILITY, type CardStage } from "./srs-pure";
+export { isLeech, isMature, isKnownPending, cardStage, LEECH_LAPSES, MATURE_STABILITY, type CardStage } from "./srs-pure";
 
 /** Chấm theo tốc độ, trả về Grade của ts-fsrs (logic thuần nằm ở srs-pure). */
 export function ratingFromSpeed(correct: boolean, ms: number, mode?: SpeedMode): Grade {

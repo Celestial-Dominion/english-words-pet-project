@@ -9,6 +9,7 @@
 //   grammar  — mỗi bài một dòng mã hoá (lib/grammar.ts): lịch ôn theo lần luyện gần hơn, điểm cao nhất lấy max
 import type { ReviewRecord, DailyStat, ReadRow, NoteRow, GamifyRow, SrsConfig } from "./types";
 import { grammarStamp, mergeGrammarCodes } from "./grammar.ts"; // đuôi .ts: file này chạy thẳng bằng node trong test
+import { upgradeLegacyKnown } from "./srs-pure.ts";
 
 /** "Phiên bản" của thẻ ôn: ưu tiên số lượt ôn, sau đó tới thời điểm ôn gần nhất. */
 export function reviewScore(r: ReviewRecord): number {
@@ -242,7 +243,8 @@ export function sanitizeReviews(raw: unknown): ReviewRecord[] {
     const due = asDate(r.due);
     if (!wordId || !safeKey(wordId) || !due) continue; // thiếu key hoặc hạn ôn hỏng → bỏ
     const last = asDate(r.last_review);
-    out.push({
+    // thẻ "Đã biết rồi" bản cũ trên cloud (máy chưa cập nhật ghi lên) → gắn cờ như bản local đã nâng cấp
+    out.push(upgradeLegacyKnown({
       wordId,
       level: num(r.level),
       due,
@@ -256,7 +258,11 @@ export function sanitizeReviews(raw: unknown): ReviewRecord[] {
       state: num(r.state),
       ...(last ? { last_review: last } : {}),
       introducedOn: str(r.introducedOn),
-    });
+      // cờ "đã biết sẵn" / "học lại" (types.ts) — lọc schema mà quên thì kéo từ cloud về là mất cờ:
+      // từ đã biết thành "nhớ bền" ngay, thẻ học lại mất thẻ học.
+      ...(num(r.known) > 0 ? { known: num(r.known) } : {}),
+      ...(r.relearn === true ? { relearn: true } : {}),
+    }));
   }
   return out;
 }

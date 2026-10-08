@@ -1,22 +1,25 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import { X, Volume2, Plus, Check, ArrowLeft } from "lucide-react";
+import { X, Volume2, Plus, Check, ArrowLeft, RotateCcw } from "lucide-react";
 import { lookupWord, loadExamplesForWords, loadTopicIds, type ExampleSentence } from "@/lib/data";
 import { posLabel } from "@/lib/pos";
 import { wordAudioUrl, sentenceAudioUrl, playAudio as play } from "@/lib/tts";
-import { getReview, recordAnswer, addXp, getMnemonic, setMnemonic, markKnown } from "@/lib/db";
+import { getReview, recordAnswer, addXp, getMnemonic, setMnemonic, markKnown, undoMarkKnown, relearnWord } from "@/lib/db";
+import { isKnownPending } from "@/lib/srs-pure";
 import { occurrencesOf, type Occurrence } from "@/lib/suggest";
 import { refHref } from "@/lib/library";
 import { grammarRefsFor, type GrammarWordRef } from "@/lib/grammar-refs";
 import { XP } from "@/lib/gamify";
+import { requestSync } from "@/lib/sync";
 import type { Word, ReviewRecord } from "@/lib/types";
 
-type Status = "new" | "due" | "learned";
+type Status = "new" | "due" | "known" | "learned";
 function statusOf(rec: ReviewRecord | null | undefined): Status | null {
   if (rec === undefined) return null; // đang tải
   if (!rec) return "new";
   if (new Date(rec.due).getTime() <= Date.now()) return "due";
+  if (isKnownPending(rec)) return "known"; // đã biết sẵn, chờ lần kiểm tra đầu
   return "learned";
 }
 /** "ôn lại sau 3 ngày" — khoảng cách tới hạn ôn kế tiếp (như HSK). */
@@ -53,6 +56,7 @@ export default function WordDetail({
 }) {
   const [rec, setRec] = useState<ReviewRecord | null | undefined>(undefined);
   const [busy, setBusy] = useState(false);
+  const [justMarked, setJustMarked] = useState<string | null>(null); // id vừa bấm "Đã biết rồi" (còn Hoàn tác)
   const [note, setNote] = useState("");
   const [occ, setOcc] = useState<Occurrence[]>([]);
   const [gram, setGram] = useState<GrammarWordRef[]>([]);
@@ -99,6 +103,20 @@ export default function WordDetail({
   }, [stack, word.id, onClose]);
 
   const status = statusOf(rec);
+  // Ghi rồi đọc lại thẻ — dùng chung cho Học từ này / Đã biết rồi / Hoàn tác / Học lại.
+  const act = async (fn: () => Promise<unknown>) => {
+    if (busy) return;
+    setBusy(true);
+    try {
+      await fn();
+    } finally {
+      const r = await getReview(cur.id);
+      setRec(r ?? null);
+      setBusy(false);
+      onChange?.();
+      requestSync();
+    }
+  };
   const learn = async () => {
     if (busy || rec) return;
     setBusy(true);
@@ -207,32 +225,59 @@ export default function WordDetail({
                   >
                     <Plus className="size-4" /> Học từ này
                   </button>
-                  {/* Đã biết sẵn → tạo thẻ nhớ bền, khỏi học lại từ đầu (như HSK) */}
-                  <button
-                    onClick={async () => {
-                      if (busy) return;
-                      setBusy(true);
-                      await markKnown(cur.id, cur.level);
-                      const r = await getReview(cur.id);
-                      setRec(r ?? null);
-                      setBusy(false);
-                      onChange?.();
-                    }}
-                    disabled={busy}
-                    className="inline-flex items-center gap-1.5 rounded-full border px-4 py-1.5 text-sm font-semibold text-muted-foreground transition-all hover:bg-muted active:scale-[0.98] disabled:opacity-50"
-                  >
-                    <Check className="size-4" /> Đã biết rồi
-                  </button>
+                  {/* Đã biết sẵn → thẻ hẹn kiểm tra sau 1–3 tháng, khỏi học qua phiên từ mới. Từ nền
+                      A1–A2 app vốn coi là đã biết nên không có nút này. */}
+                  {cur.level > 0 && (
+                    <button
+                      onClick={() =>
+                        void act(async () => {
+                          if (await markKnown(cur.id, cur.level)) setJustMarked(cur.id);
+                        })
+                      }
+                      disabled={busy}
+                      className="inline-flex items-center gap-1.5 rounded-full border px-4 py-1.5 text-sm font-semibold text-muted-foreground transition-all hover:bg-muted active:scale-[0.98] disabled:opacity-50"
+                    >
+                      <Check className="size-4" /> Đã biết rồi
+                    </button>
+                  )}
                 </>
               ) : status === "due" ? (
                 <span className="rounded-full bg-amber-500/15 px-3 py-1 text-sm font-semibold text-amber-700 dark:text-amber-300">
                   Đến hạn ôn
+                </span>
+              ) : status === "known" ? (
+                <span className="rounded-full bg-sky-500/15 px-3 py-1 text-sm font-semibold text-sky-700 dark:text-sky-300">
+                  Đã biết sẵn · kiểm tra lại sau {rec ? intervalLabel(rec.due) : ""}
                 </span>
               ) : (
                 <span className="rounded-full bg-emerald-500/15 px-3 py-1 text-sm font-semibold text-emerald-700 dark:text-emerald-300">
                   Đã học · ôn lại sau {rec ? intervalLabel(rec.due) : ""}
                 </span>
               )}
+              {/* Vừa bấm nhầm → Hoàn tác (về Chưa học). Đánh dấu từ trước mà giờ thấy chưa chắc → Học lại:
+                  thẻ đến hạn ngay, lượt ôn kế hiện thẻ học trước câu hỏi. */}
+              {rec?.known && justMarked === cur.id ? (
+                <button
+                  onClick={() =>
+                    void act(async () => {
+                      await undoMarkKnown(cur.id);
+                      setJustMarked(null);
+                    })
+                  }
+                  disabled={busy}
+                  className="inline-flex items-center gap-1.5 rounded-full px-3 py-1.5 text-sm font-medium text-muted-foreground transition-all hover:bg-muted disabled:opacity-50"
+                >
+                  ↩︎ Hoàn tác
+                </button>
+              ) : rec?.known ? (
+                <button
+                  onClick={() => void act(() => relearnWord(cur.id))}
+                  disabled={busy}
+                  className="inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm font-semibold text-muted-foreground transition-all hover:bg-muted active:scale-[0.98] disabled:opacity-50"
+                >
+                  <RotateCcw className="size-3.5" /> Chưa chắc? Học lại
+                </button>
+              ) : null}
             </div>
           )}
 

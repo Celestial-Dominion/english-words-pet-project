@@ -7,6 +7,10 @@ import {
   ratingValueFromSpeed as ratingFromSpeed,
   isLeech,
   isMature,
+  isKnownPending,
+  knownRecord,
+  KNOWN_FIRST_CHECK_DAYS,
+  upgradeLegacyKnown,
   cardStage,
   computeStreak,
   seededShuffle,
@@ -121,6 +125,57 @@ t("thẻ nhớ bền (stability ≥21) là mature", () => {
 
 t("thẻ hay quên KHÔNG được coi là nhớ bền dù stability cao", () => {
   assert.equal(isMature(card({ stability: 60, lapses: 5 })), false);
+});
+
+// ---- "Đã biết sẵn" (markKnown) ----
+t("đã biết sẵn: hẹn kiểm tra đầu rải trong 30–90 ngày, không dồn một ngày", () => {
+  const now = new Date("2026-10-08T09:00:00");
+  const days = (r) => Math.round((r.due.getTime() - now.getTime()) / 86_400_000);
+  assert.equal(days(knownRecord("a", 1, now, () => 0)), KNOWN_FIRST_CHECK_DAYS.min);
+  assert.equal(days(knownRecord("a", 1, now, () => 0.999999)), KNOWN_FIRST_CHECK_DAYS.max);
+  const spread = new Set(Array.from({ length: 200 }, (_, k) => days(knownRecord("a", 1, now, () => k / 200))));
+  assert.ok(spread.size > 50, `chỉ ${spread.size} ngày khác nhau`);
+  for (const d of spread) assert.ok(d >= 30 && d <= 90);
+});
+
+t("đã biết sẵn: thẻ Review có cờ known, reps 1, scheduled_days khớp hạn", () => {
+  const now = new Date("2026-10-08T09:00:00");
+  const r = knownRecord("decide", 2, now, () => 0.5);
+  assert.equal(r.known, now.getTime());
+  assert.equal(r.reps, 1);
+  assert.equal(r.state, 2);
+  assert.equal(r.level, 2);
+  assert.equal(r.introducedOn, "2026-10-08");
+  assert.equal(r.scheduled_days, Math.round((r.due.getTime() - now.getTime()) / 86_400_000));
+});
+
+t("đã biết sẵn: chưa qua lần kiểm tra đầu thì CHƯA là nhớ bền", () => {
+  const r = knownRecord("x", 1, new Date());
+  assert.equal(isKnownPending(r), true);
+  assert.equal(isMature(r), false); // S = 60 nhưng chưa chứng minh
+  const passed = { ...r, reps: 2, stability: 158 };
+  assert.equal(isKnownPending(passed), false);
+  assert.equal(isMature(passed), true);
+  assert.equal(isKnownPending(card({ stability: 60 })), false); // thẻ thường không có cờ
+  assert.equal(isKnownPending(null), false);
+});
+
+t("đã biết sẵn: nhận ra thẻ 'Đã biết rồi' bản cũ (S 60, D 5, hẹn 60 ngày, chưa ôn) và gắn cờ", () => {
+  const at = new Date("2026-08-01T10:00:00");
+  const legacy = card({ stability: 60, difficulty: 5, scheduled_days: 60, elapsed_days: 0, reps: 1, last_review: at });
+  const up = upgradeLegacyKnown(legacy);
+  assert.equal(up.known, at.getTime());
+  assert.equal(isKnownPending(up), true);
+  // đã ôn (reps 2), đã sai, hay bộ số FSRS thường → giữ nguyên, không gắn nhầm
+  for (const other of [
+    { ...legacy, reps: 2 },
+    { ...legacy, lapses: 1 },
+    { ...legacy, stability: 59.8 },
+    { ...legacy, scheduled_days: 45 },
+  ])
+    assert.equal(upgradeLegacyKnown(other), other);
+  const marked = knownRecord("x", 1, at, () => 0.5); // thẻ bản mới: đã có cờ, không đụng
+  assert.equal(upgradeLegacyKnown(marked), marked);
 });
 
 // ---- chuỗi ngày ----

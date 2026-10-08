@@ -3,9 +3,12 @@ import Dexie, { type Table } from "dexie";
 import type { Grade } from "ts-fsrs";
 import type { ReviewRecord, DailyStat, ReadRow, NoteRow, GamifyRow, RevlogRow, SrsConfig } from "./types";
 import { DEFAULT_SRS_CONFIG } from "./types";
-import { newCard, schedule, scheduleRated, recordToCard, cardToRecordFields, forgettingCurve } from "./srs";
+import { newCard, schedule, scheduleRated, scheduleKnown, recordToCard, cardToRecordFields, forgettingCurve, RATING } from "./srs";
 import { pickAhead, isAheadEligible } from "./srs-ahead";
-import { todayStr, computeStreak, longestStreak, maxComebackGap, LEECH_LAPSES, MATURE_STABILITY } from "./srs-pure";
+import {
+  todayStr, computeStreak, longestStreak, maxComebackGap, LEECH_LAPSES, MATURE_STABILITY, isKnownPending, knownRecord,
+  upgradeLegacyKnown,
+} from "./srs-pure";
 import { dailyQuests, questProgress, questKey, pruneQuestKeys, type QuestProgress } from "./gamify";
 import { mergeReviews, mergeDaily, mergeReads, mergeNotes, mergeGamify, mergeIdSet } from "./sync-merge";
 import { decodeGrammarRows, encodeGrammarRow, mergeGrammarRows, type GrammarRow } from "./grammar";
@@ -37,6 +40,18 @@ class EnglishWordsDB extends Dexie {
     this.version(4).stores({ revlog: "++id, wordId, at" });
     // v5: tiến độ Ngữ pháp (đã học, điểm, lịch ôn riêng). Dữ liệu cũ giữ nguyên.
     this.version(5).stores({ grammar: "id" });
+    // v6: gắn cờ known cho thẻ "Đã biết rồi" tạo bởi bản cũ (srs-pure upgradeLegacyKnown). Không đổi schema.
+    this.version(6)
+      .stores({})
+      .upgrade((tx) =>
+        tx
+          .table("reviews")
+          .toCollection()
+          .modify((r: ReviewRecord) => {
+            const up = upgradeLegacyKnown(r);
+            if (up !== r) r.known = up.known;
+          }),
+      );
   }
 }
 
@@ -171,12 +186,20 @@ export async function recordAnswer(opts: {
   await db.transaction("rw", [db.reviews, db.revlog, db.daily], async () => {
     existing = await db.reviews.get(opts.wordId);
     const card = existing ? recordToCard(existing) : newCard(now);
-    const next = opts.rating != null ? scheduleRated(card, opts.rating, now) : schedule(card, opts.correct, now);
+    // Thẻ "đã biết sẵn" trả lời ĐÚNG → lịch nới, giữ cờ; SAI → lịch chặt, bỏ cờ (từ đã lộ là
+    // chưa thật biết). Cờ relearn luôn bỏ: thẻ học lại đã hiện xong, lần chấm này là mốc mới.
+    const keepKnown = !!existing?.known && opts.correct;
+    const next = keepKnown
+      ? scheduleKnown(card, opts.rating ?? RATING.right, now)
+      : opts.rating != null
+        ? scheduleRated(card, opts.rating, now)
+        : schedule(card, opts.correct, now);
     rec = {
       wordId: opts.wordId,
       level: opts.level,
       introducedOn: existing?.introducedOn ?? todayStr(now),
       ...cardToRecordFields(next),
+      ...(keepKnown ? { known: existing!.known } : {}),
     };
     await db.reviews.put(rec);
 
@@ -229,29 +252,50 @@ function pruneRevlogThrottled(now: Date): void {
     .catch(() => {});
 }
 
-/** "Đã biết rồi": tạo sẵn thẻ NHỚ BỀN (stability cao, due ~60 ngày) cho từ đã biết —
- *  không phải học lại từ đầu qua phiên từ mới (như HSK). */
+/** "Đã biết rồi": tạo thẻ hẹn KIỂM TRA sau 30–90 ngày (srs-pure knownRecord) cho từ chưa học —
+ *  khỏi học lại từ đầu qua phiên từ mới, không chiếm suất từ mới trong ngày, không cộng XP.
+ *  Từ nền A1–A2 (level 0) app vốn coi là đã biết → không tạo thẻ. Trả false nếu không ghi. */
 export async function markKnown(wordId: string, level: number, now = new Date()): Promise<boolean> {
-  if (await db.reviews.get(wordId)) return false;
-  const due = new Date(now);
-  due.setDate(due.getDate() + 60);
-  await db.reviews.put({
-    wordId,
-    level,
-    due,
-    stability: 60,
-    difficulty: 5,
-    elapsed_days: 0,
-    scheduled_days: 60,
-    reps: 1,
-    lapses: 0,
-    learning_steps: 0,
-    state: 2, // Review
-    last_review: now,
-    introducedOn: todayStr(now),
+  if (level <= 0) return false;
+  const wrote = await db.transaction("rw", db.reviews, async () => {
+    if (await db.reviews.get(wordId)) return false;
+    await db.reviews.put(knownRecord(wordId, level, now));
+    return true;
+  });
+  if (wrote) invalidateProgressSummary();
+  return wrote;
+}
+
+/** Hoàn tác "Đã biết rồi" vừa bấm: xoá thẻ nếu nó VẪN là thẻ đã-biết chưa ôn lần nào. */
+export async function undoMarkKnown(wordId: string): Promise<void> {
+  await db.transaction("rw", db.reviews, async () => {
+    const r = await db.reviews.get(wordId);
+    if (r?.known && (r.reps ?? 0) <= 1) await db.reviews.delete(wordId);
   });
   invalidateProgressSummary();
-  return true;
+}
+
+/** "Thật ra chưa chắc → học lại": đưa thẻ về như từ mới, đến hạn NGAY, phiên ôn kế hiện thẻ học
+ *  trước câu hỏi (cờ relearn). KHÔNG xoá bản ghi: đồng bộ không có tombstone cho thẻ ôn, xoá thì
+ *  máy khác đẩy thẻ cũ về lại. Giữ reps + last_review = now để bản này thắng khi gộp. */
+export async function relearnWord(wordId: string, now = new Date()): Promise<boolean> {
+  const wrote = await db.transaction("rw", db.reviews, async () => {
+    const r = await db.reviews.get(wordId);
+    if (!r) return false;
+    await db.reviews.put({
+      wordId,
+      level: r.level,
+      introducedOn: r.introducedOn,
+      ...cardToRecordFields(newCard(now)),
+      reps: r.reps,
+      lapses: r.lapses,
+      last_review: now,
+      relearn: true,
+    });
+    return true;
+  });
+  if (wrote) invalidateProgressSummary();
+  return wrote;
 }
 
 /** Hoàn tác lần chấm vừa rồi: khôi phục bản ghi FSRS cũ + trừ lại thống kê ngày. */
@@ -360,8 +404,14 @@ export async function applyStreakFreeze(daily: DailyStat[], today = todayStr()):
 
 
 export interface ProgressSummary {
+  // words / byLevel / matured là số liệu THÀNH TÍCH (quân hàm, huy hiệu): KHÔNG tính từ đã-biết-sẵn
+  // chưa qua lần kiểm tra đầu — bấm "Đã biết" 1.000 lần không được thành 1.000 "từ đã học".
   words: number; // tổng từ đã học
   byLevel: Record<number, number>; // số từ đã học theo cấp
+  // Độ PHỦ vốn từ (thanh tiến độ cấp): mọi thẻ, kể cả từ đã biết sẵn chưa kiểm tra.
+  coverageByLevel: Record<number, number>;
+  knownByLevel: Record<number, number>; // số từ đánh dấu "đã biết sẵn" theo cấp (đã/chưa kiểm tra)
+  knownPending: number; // từ đã biết sẵn đang chờ lần kiểm tra đầu
   reviews: number; // tổng lượt ôn mọi ngày
   correct: number; // tổng lượt trả lời đúng (reviews - again)
   reads: number; // số bài đã đọc
@@ -414,12 +464,20 @@ async function computeProgressSummary(): Promise<ProgressSummary> {
   const gamifyRow = await applyStreakFreeze(dailyRows);
   const frozenDates = gamifyRow.frozenDates ?? [];
   const byLevel: Record<number, number> = {};
-  for (const r of reviews) byLevel[r.level] = (byLevel[r.level] || 0) + 1;
+  const coverageByLevel: Record<number, number> = {};
+  const knownByLevel: Record<number, number> = {};
+  let knownPending = 0;
+  for (const r of reviews) {
+    coverageByLevel[r.level] = (coverageByLevel[r.level] || 0) + 1;
+    if (r.known) knownByLevel[r.level] = (knownByLevel[r.level] || 0) + 1;
+    if (isKnownPending(r)) knownPending++;
+    else byLevel[r.level] = (byLevel[r.level] || 0) + 1;
+  }
   const daily = dailyRows.sort((a, b) => a.date.localeCompare(b.date));
   const reviewsTotal = daily.reduce((s, d) => s + d.reviews, 0);
   const correctTotal = daily.reduce((s, d) => s + Math.max(0, d.reviews - d.again), 0);
   const activeDays = daily.filter((d) => d.reviews > 0).length;
-  const matured = reviews.filter((r) => (r.stability ?? 0) >= 21).length;
+  const matured = reviews.filter((r) => (r.stability ?? 0) >= MATURE_STABILITY && !isKnownPending(r)).length;
   const maxDayReviews = daily.reduce((m, d) => Math.max(m, d.reviews), 0);
   const weekend = daily.some((d) => {
     const wd = new Date(d.date + "T00:00:00").getDay();
@@ -431,8 +489,11 @@ async function computeProgressSummary(): Promise<ProgressSummary> {
     (r) => (r.lapses ?? 0) >= LEECH_LAPSES && (r.stability ?? 0) >= MATURE_STABILITY,
   ).length;
   return {
-    words: reviews.length,
+    words: reviews.length - knownPending,
     byLevel,
+    coverageByLevel,
+    knownByLevel,
+    knownPending,
     reviews: reviewsTotal,
     correct: correctTotal,
     reads: readsCount,
@@ -565,7 +626,7 @@ export async function exportData(): Promise<BackupData> {
 
 // JSON biến Date → chuỗi ISO; phải hồi sinh để Dexie index `due` so sánh đúng kiểu.
 function reviveReview(r: ReviewRecord): ReviewRecord {
-  return { ...r, due: new Date(r.due), last_review: r.last_review ? new Date(r.last_review) : undefined };
+  return upgradeLegacyKnown({ ...r, due: new Date(r.due), last_review: r.last_review ? new Date(r.last_review) : undefined });
 }
 
 export async function importData(

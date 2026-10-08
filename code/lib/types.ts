@@ -48,6 +48,11 @@ export interface ReviewRecord {
   state: number; // 0 New, 1 Learning, 2 Review, 3 Relearning
   last_review?: Date;
   introducedOn: string; // "YYYY-MM-DD" (giờ địa phương)
+  // "Đã biết sẵn" (markKnown): ms lúc đánh dấu. Còn cờ = chưa từng trả lời sai kể từ khi đánh dấu
+  // → lịch NỚI (srs.ts scheduleKnown); sai một lần là bỏ cờ, về lịch chặt như thẻ thường.
+  known?: number;
+  // "Học lại": phiên ôn kế hiện thẻ HỌC (xem từ + ví dụ) trước câu chấm; bỏ cờ sau lần chấm đó.
+  relearn?: boolean;
 }
 
 export type ReviewDirection = "en2vi" | "vi2en"; // Anh→nghĩa / nghĩa→Anh

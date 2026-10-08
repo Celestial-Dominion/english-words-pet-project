@@ -195,6 +195,39 @@ t("lọc reviews: last_review rỗng thì bỏ hẳn field (Firestore từ chố
   assert.equal("last_review" in r, false);
 });
 
+t("lọc reviews: giữ cờ đã-biết-sẵn và học-lại, bỏ giá trị hỏng", () => {
+  const due = "2026-11-01T00:00:00.000Z";
+  const [a, b, c] = sanitizeReviews([
+    { wordId: "a", due, reps: 1, known: 1791450000000 },
+    { wordId: "b", due, reps: 2, relearn: true },
+    { wordId: "c", due, known: "hôm qua", relearn: "có" },
+  ]);
+  assert.equal(a.known, 1791450000000);
+  assert.equal("relearn" in a, false);
+  assert.equal(b.relearn, true);
+  assert.equal("known" in b, false);
+  assert.equal("known" in c, false);
+  assert.equal("relearn" in c, false);
+});
+
+t("lọc reviews: thẻ 'Đã biết rồi' bản cũ trên cloud được gắn cờ known", () => {
+  const [r] = sanitizeReviews([{
+    wordId: "a", level: 1, due: "2026-10-01T00:00:00.000Z", stability: 60, difficulty: 5, elapsed_days: 0,
+    scheduled_days: 60, reps: 1, lapses: 0, learning_steps: 0, state: 2, last_review: "2026-08-02T00:00:00.000Z",
+    introducedOn: "2026-08-02",
+  }]);
+  assert.equal(r.known, Date.parse("2026-08-02T00:00:00.000Z"));
+});
+
+t("reviews: 'học lại' (cùng reps, ôn sau) thắng bản đã-biết cũ ở máy kia — không bị hồi sinh", () => {
+  const known = { ...rev("a", 1, "2026-10-01"), known: 1, stability: 60 };
+  const relearn = { ...rev("a", 1, "2026-10-05"), state: 0, stability: 0, relearn: true };
+  for (const out of [mergeReviews([known], [relearn]), mergeReviews([relearn], [known])]) {
+    assert.equal(out[0].relearn, true);
+    assert.equal("known" in out[0], false);
+  }
+});
+
 t("lọc: chặn khoá __proto__ từ remote", () => {
   assert.deepEqual(sanitizeReviews([{ wordId: "__proto__", due: "2026-09-01T00:00:00.000Z" }]), []);
   assert.deepEqual(sanitizeNotes([{ wordId: "__proto__", text: "x" }]), []);

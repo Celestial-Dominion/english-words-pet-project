@@ -26,8 +26,56 @@ export const LEECH_LAPSES = 4;
 export const MATURE_STABILITY = 21;
 
 export const isLeech = (r?: ReviewRecord | null): boolean => !!r && (r.lapses ?? 0) >= LEECH_LAPSES;
+
+// ---- "Đã biết sẵn" (markKnown) ----
+// Người học hay khai "biết" cả từ mình chỉ quen mặt chữ, hoặc biết nghĩa KHÁC nghĩa app dạy
+// (found = thành lập, season = nêm gia vị). Nên "đã biết" không phải bỏ qua vĩnh viễn mà là một
+// thẻ hẹn KIỂM TRA sau 30–90 ngày (rải ngẫu nhiên — đánh dấu 300 từ một buổi không được dồn hết
+// vào cùng một ngày). Chưa qua lần kiểm tra đó thì chưa tính là nhớ bền / huy hiệu / quân hàm.
+export const KNOWN_FIRST_CHECK_DAYS = { min: 30, max: 90 } as const;
+const KNOWN_STABILITY = 60;
+
+/** Thẻ đã-biết-sẵn CHƯA qua lần kiểm tra đầu: markKnown đặt reps = 1, trả lời đúng lần kiểm tra
+ *  → reps 2 (vẫn giữ cờ), trả lời sai → bỏ cờ (thành thẻ thường). */
+export const isKnownPending = (r?: ReviewRecord | null): boolean => !!r?.known && (r.reps ?? 0) < 2;
+
+/** Bản ghi thẻ "đã biết sẵn" cho một từ chưa học. `rand` để test cố định ngày hẹn. */
+export function knownRecord(wordId: string, level: number, now: Date, rand: () => number = Math.random): ReviewRecord {
+  const { min, max } = KNOWN_FIRST_CHECK_DAYS;
+  const days = min + Math.min(max - min, Math.floor(rand() * (max - min + 1)));
+  const due = new Date(now);
+  due.setDate(due.getDate() + days);
+  return {
+    wordId,
+    level,
+    due,
+    stability: KNOWN_STABILITY,
+    difficulty: 5,
+    elapsed_days: 0,
+    scheduled_days: days,
+    reps: 1,
+    lapses: 0,
+    learning_steps: 0,
+    state: 2, // Review
+    last_review: now,
+    introducedOn: todayStr(now),
+    known: now.getTime(),
+  };
+}
+
+/** Thẻ do nút "Đã biết rồi" BẢN CŨ tạo (trước khi có cờ known): S 60, D 5, hẹn đúng 60 ngày, chưa
+ *  ôn lần nào. FSRS không bao giờ tự ra bộ số này sau một lượt chấm nên nhận diện được chắc chắn
+ *  → gắn cờ để thẻ cũ cũng hưởng lịch nới và không tính là nhớ bền khi chưa kiểm tra. Dùng ở mọi
+ *  cửa dữ liệu vào: nâng cấp IndexedDB, kéo từ cloud, nhập tệp sao lưu. */
+export function upgradeLegacyKnown<T extends ReviewRecord>(r: T): T {
+  if (r.known || r.reps !== 1 || r.lapses !== 0 || r.state !== 2) return r;
+  if (r.stability !== KNOWN_STABILITY || r.difficulty !== 5 || r.scheduled_days !== 60 || r.elapsed_days !== 0) return r;
+  const at = r.last_review ? new Date(r.last_review).getTime() : NaN;
+  return { ...r, known: Number.isFinite(at) ? at : 1 };
+}
+
 export const isMature = (r?: ReviewRecord | null): boolean =>
-  !!r && r.stability >= MATURE_STABILITY && !isLeech(r);
+  !!r && r.stability >= MATURE_STABILITY && !isLeech(r) && !isKnownPending(r);
 
 // Ngưỡng vào giai đoạn "growing" — lúc BẮT ĐẦU đưa gõ chính tả (sản sinh thật) vào:
 // đã gặp ≥3 lần HOẶC đã bền ≥7 ngày. Trước đó (young) chỉ nhận diện + cloze + nghe,

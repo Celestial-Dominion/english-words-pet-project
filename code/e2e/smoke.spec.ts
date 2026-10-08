@@ -52,8 +52,8 @@ async function freshStart(page: Page, path = "/") {
 
 /** Cho một thẻ đủ điều kiện "ôn sớm": sản phẩm chủ ý loại thẻ vừa ôn trong
  * cùng ngày vì elapsed=0 không cập nhật độ bền FSRS. */
-async function ageReviewOneDay(page: Page, wordId: string) {
-  await page.evaluate(async (id) => {
+async function ageReviewOneDay(page: Page, wordId: string, extra: Record<string, number> = {}) {
+  await page.evaluate(async ([id, patch]) => {
     await new Promise<void>((resolve, reject) => {
       const open = indexedDB.open("english-words");
       open.onerror = () => reject(open.error);
@@ -66,6 +66,7 @@ async function ageReviewOneDay(page: Page, wordId: string) {
         get.onsuccess = () => {
           const row = get.result;
           row.last_review = new Date(Date.now() - 86_400_000);
+          Object.assign(row, patch);
           store.put(row);
         };
         tx.oncomplete = () => {
@@ -75,7 +76,7 @@ async function ageReviewOneDay(page: Page, wordId: string) {
         tx.onerror = () => reject(tx.error);
       };
     });
-  }, wordId);
+  }, [wordId, extra] as const);
 }
 
 test("trang chủ: hero hôm nay + grid cấp độ + khám phá", async ({ page }) => {
@@ -157,6 +158,8 @@ test("bộ nền A1–A2: duyệt được nhưng không có hàng đợi học"
   await page.getByPlaceholder(/Tìm/).fill("people");
   await page.getByRole("button", { name: /people/ }).first().click();
   await expect(page.getByRole("button", { name: "Học từ này" })).toBeVisible();
+  // từ nền app vốn coi là đã biết → không có nút "Đã biết rồi" (khỏi tạo thẻ ôn thừa)
+  await expect(page.getByRole("button", { name: "Đã biết rồi" })).toHaveCount(0);
 });
 
 test("học từ mới: learn-card hiện TRƯỚC, rồi mới tới trắc nghiệm", async ({ page }) => {
@@ -265,13 +268,14 @@ test("học từ mới: chạy trọn 1 vòng → tổng kết + thẻ vào hàn
 test("gõ chính tả: thẻ đã chín ra bài gõ, lệch 1 ký tự vẫn tính đúng", async ({ page }) => {
   await freshStart(page, "/hoc/1");
 
-  // "Đã biết rồi" tạo thẻ nhớ bền (stability 60) → thẻ CHÍN, đúng điều kiện ra bài gõ
+  // "Đã biết rồi" tạo thẻ stability 60; giả lập đã QUA lần kiểm tra đầu (reps 2) → thẻ CHÍN, đúng
+  // điều kiện ra bài gõ (lần kiểm tra đầu của từ đã-biết luôn là câu nhận nghĩa — known-words.spec)
   await page.getByPlaceholder(/Tìm/).fill("decision");
   await page.getByRole("button", { name: /decision/ }).first().click();
   await page.getByRole("button", { name: "Đã biết rồi" }).click();
-  await expect(page.getByText(/Đã học · ôn lại sau/)).toBeVisible();
+  await expect(page.getByText(/Đã biết sẵn · kiểm tra lại sau/)).toBeVisible();
   await page.keyboard.press("Escape");
-  await ageReviewOneDay(page, "decision");
+  await ageReviewOneDay(page, "decision", { reps: 2 });
 
   await page.goto("/on-tap");
   // Bài này chỉ kiểm tra dạng gõ của bài chính; tắt hai đợt luyện câu để dạng

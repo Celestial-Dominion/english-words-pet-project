@@ -12,7 +12,8 @@ export default function LevelGrid() {
   const [readsByLevel, setReadsByLevel] = useState<Record<number, number>>({});
   useEffect(() => {
     const refresh = () => {
-      progressSummary().then((s) => setByLevel(s.byLevel));
+      // độ phủ vốn từ: đã học + đã biết sẵn (byLevel chỉ là số liệu huy hiệu, không tính từ chưa kiểm tra)
+      progressSummary().then((s) => setByLevel(s.coverageByLevel));
       getDueReviews().then((rows) => {
         const m: Record<number, number> = {};
         for (const r of rows) m[r.level] = (m[r.level] ?? 0) + 1;

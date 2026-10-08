@@ -1,8 +1,11 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
-import { Volume2, VolumeX, Sparkles } from "lucide-react";
-import { recordAnswer, undoAnswer, recordPractice, addXp, progressSummary, getMnemonic, setMnemonic, updateMaxCombo } from "@/lib/db";
+import { Volume2, VolumeX, Sparkles, Check } from "lucide-react";
+import {
+  recordAnswer, undoAnswer, recordPractice, addXp, progressSummary, getMnemonic, setMnemonic, updateMaxCombo,
+  markKnown, undoMarkKnown,
+} from "@/lib/db";
 import { XP, badgeGroups, rankForWords, type Stats, type Badge } from "@/lib/gamify";
 import { ratingFromSpeed } from "@/lib/srs";
 import { gradeSpelling, isSpellCorrect, type SpellVerdict } from "@/lib/spell";
@@ -27,7 +30,7 @@ const AUTO_ADVANCE_MS = 1300; // đúng → tự sang thẻ kế sau 1,3s (có n
 
 // Nhãn loại câu hỏi hiện trên header (như HSK).
 function typeLabel(q: Question): string {
-  if (q.kind === "learn") return q.leech ? "🔁 Hay quên" : "✨ Từ mới";
+  if (q.kind === "learn") return q.leech ? "🔁 Hay quên" : q.relearn ? "↺ Học lại" : "✨ Từ mới";
   if (q.kind === "arrange") return "Ghép câu";
   if (q.kind === "cloze") return "Điền vào câu";
   if (q.kind === "spell") return "Gõ chính tả";
@@ -64,6 +67,7 @@ interface Summary {
   maxCombo: number;
   reviewed: number; // số thẻ đã chấm
   again: number; // số thẻ "Lại"
+  known: number; // số từ mới bấm "Biết rồi" (bỏ khỏi phiên)
   newBadges: Badge[];
   rankUp: { from: string; to: string } | null;
 }
@@ -94,6 +98,10 @@ export default function ReviewRunner({
   const [mnemo, setMnemo] = useState(""); // mẹo nhớ trên learn-card từ hay quên
   const [showAllEx, setShowAllEx] = useState(false); // learn-card: xem thêm ví dụ
   const [spell, setSpell] = useState<{ typed: string; verdict: SpellVerdict } | null>(null); // kết quả bài gõ
+  // "Biết rồi" trên thẻ học từ mới: các từ đã gỡ khỏi phiên + bản sao hàng đợi TRƯỚC khi gỡ
+  // (Hoàn tác ngay tại thẻ đó — không kéo nút hoàn tác sang thẻ kế vốn có thể là bất kỳ dạng nào).
+  const [skipped, setSkipped] = useState<string[]>([]);
+  const [knownHere, setKnownHere] = useState<{ id: string; before: Question[] } | null>(null);
 
   const q = qs[i];
 
@@ -110,7 +118,8 @@ export default function ReviewRunner({
       }
     return order;
   }, [questions]);
-  const cardTotal = cardOrder.length;
+  // Từ bấm "Biết rồi" không còn câu chấm nào trong phiên → không tính vào tổng.
+  const cardTotal = cardOrder.filter((id) => !skipped.includes(id)).length;
   // Đang ở thẻ thứ mấy = SỐ TỪ có câu CHẤM ĐIỂM đã gặp tính tới câu hiện tại. Tính theo vị trí
   // trong cardOrder như trước thì thẻ bị chèn lại (requeue) mang số thứ tự BAN ĐẦU của nó →
   // header tụt lùi ("8/10" rồi nhảy về "2/10"). Đếm theo tập từ đã gặp thì số chỉ đi tới.
@@ -269,6 +278,7 @@ export default function ReviewRunner({
     if (q?.kind === "learn" && q.leech) getMnemonic(q.word.id).then(setMnemo);
     else setMnemo("");
     setShowAllEx(false);
+    setKnownHere(null);
     /* eslint-enable react-hooks/set-state-in-effect */
   }, [i]); // eslint-disable-line react-hooks/exhaustive-deps
 
@@ -294,6 +304,7 @@ export default function ReviewRunner({
       maxCombo: maxComboRef.current,
       reviewed: gradedRef.current,
       again: wrongCountRef.current,
+      known: skipped.length,
       newBadges,
       rankUp: before && afterRank.index > before.rankIndex ? { from: before.rankVi, to: afterRank.rank.vi } : null,
     });
@@ -302,7 +313,7 @@ export default function ReviewRunner({
     // gợi ý bài đọc chứa nhiều từ vừa học/ôn nhất (chạy nền, có thì hiện)
     const ids = [...new Set(qs.filter((x) => x.graded).map((x) => x.word.id))];
     suggestReading(ids).then(setSuggestion).catch(() => {});
-  }, [qs]);
+  }, [qs, skipped]);
 
   const advance = (queue: Question[]) => {
     setAutoAdv(false);
@@ -417,6 +428,34 @@ export default function ReviewRunner({
     if (correct && config.autoAdvance) setAutoAdv(true);
   };
 
+  // Thẻ học TỪ MỚI → "Biết rồi": tạo thẻ đã-biết (hẹn kiểm tra 30–90 ngày, không tốn suất từ mới)
+  // và gỡ mọi đợt còn lại của từ khỏi phiên. Interleave luôn đặt thẻ học trước mọi đợt khác của
+  // chính từ đó nên gỡ phần SAU vị trí hiện tại là gỡ hết. Ở lại thẻ này để còn Hoàn tác.
+  const markKnownHere = async () => {
+    if (!q || q.kind !== "learn" || q.leech || q.relearn || knownHere) return;
+    const id = q.word.id;
+    try {
+      await markKnown(id, q.word.level);
+    } catch {
+      return; // ghi hỏng đã nổi banner (db) — giữ nguyên phiên
+    }
+    setKnownHere({ id, before: qs });
+    setQs([...qs.slice(0, i + 1), ...qs.slice(i + 1).filter((x) => x.word.id !== id)]);
+    setSkipped((s) => [...s, id]);
+  };
+  const undoKnownHere = async () => {
+    const k = knownHere;
+    if (!k) return;
+    try {
+      await undoMarkKnown(k.id);
+    } catch {
+      return;
+    }
+    setQs(k.before);
+    setSkipped((s) => s.filter((x) => x !== k.id));
+    setKnownHere(null);
+  };
+
   // Hoàn tác lần chấm vừa rồi (lỡ bấm nhầm) → khôi phục FSRS + làm lại câu này.
   const doUndo = async () => {
     const u = undoInfo;
@@ -484,6 +523,7 @@ export default function ReviewRunner({
             <div className="text-2xl font-bold">✅ Xong phiên ôn!</div>
             <div className="text-muted-foreground">
               Đã ôn {summary?.reviewed ?? 0} thẻ · {summary?.again ?? 0} thẻ “Lại”.
+              {summary && summary.known > 0 && <> · {summary.known} từ đánh dấu đã biết</>}
             </div>
             {summary && summary.xpGained > 0 && (
               <div className="inline-flex items-center gap-1.5 rounded-full bg-amber-500/15 px-4 py-2 text-lg font-bold text-amber-600 dark:text-amber-400">
@@ -633,7 +673,7 @@ export default function ReviewRunner({
       count={`${cardNo}/${cardTotal}`}
       pill={q.kind === "learn" ? undefined : typeLabel(q)}
       pillPrimary={q.kind === "arrange" || q.kind === "cloze"}
-      isNew={(q.kind === "learn" && !q.leech) || (q.graded && q.isNew)}
+      isNew={(q.kind === "learn" && !q.leech && !q.relearn) || (q.graded && q.isNew)}
       extra={redo > 0 ? `+${redo} làm lại` : undefined}
       muted={!sound}
     >
@@ -642,8 +682,13 @@ export default function ReviewRunner({
         <div className="flex min-h-0 flex-1 flex-col sm:flex-none">
           <div className="min-h-0 flex-1 space-y-4 overflow-y-auto overscroll-contain pb-2 sm:flex-none sm:overflow-visible">
             <div className="flex flex-col items-center gap-3 rounded-3xl border bg-gradient-to-br from-primary/12 via-primary/5 to-transparent p-6 text-center shadow-sm sm:p-8">
-              <span className={cn("rounded-full px-3 py-1 text-xs font-semibold", q.leech ? "bg-amber-500/15 text-amber-600 dark:text-amber-400" : "bg-primary/15 text-primary")}>
-                {q.leech ? "🔁 Hay quên — ôn lại kỹ" : "✨ Từ mới — học trước nhé"}
+              <span
+                className={cn(
+                  "rounded-full px-3 py-1 text-xs font-semibold",
+                  q.leech ? "bg-amber-500/15 text-amber-600 dark:text-amber-400" : q.relearn ? "bg-sky-500/15 text-sky-700 dark:text-sky-300" : "bg-primary/15 text-primary",
+                )}
+              >
+                {q.leech ? "🔁 Hay quên — ôn lại kỹ" : q.relearn ? "↺ Học lại — xem kỹ trước nhé" : "✨ Từ mới — học trước nhé"}
               </span>
               <div className="flex items-center gap-2">
                 <span className="text-4xl font-bold tracking-tight sm:text-5xl">{q.word.id}</span>
@@ -712,6 +757,14 @@ export default function ReviewRunner({
             )}
           </div>
           <div className="shrink-0 border-t bg-background/95 pb-[calc(0.5rem+env(safe-area-inset-bottom))] pt-3 backdrop-blur sm:border-0 sm:bg-transparent sm:pb-0 sm:pt-4 sm:backdrop-blur-none">
+            {knownHere?.id === q.word.id && (
+              <p className="mb-2 flex items-start gap-2 rounded-xl bg-sky-500/10 px-3 py-2 text-sm text-sky-800 dark:text-sky-200">
+                <Check className="mt-0.5 size-4 shrink-0" />
+                <span>
+                  <b>{q.word.id}</b>: đã biết — kiểm tra lại sau 1–3 tháng, không tốn suất từ mới.
+                </span>
+              </p>
+            )}
             <button
               onClick={() => {
                 if (q.leech) void setMnemonic(q.word.id, mnemo);
@@ -719,8 +772,27 @@ export default function ReviewRunner({
               }}
               className="w-full rounded-2xl bg-primary py-3.5 text-base font-semibold text-primary-foreground shadow-sm transition-all hover:bg-primary/90 active:scale-[0.99]"
             >
-              {q.leech ? "Đã ôn — Kiểm tra" : "Đã xem — Kiểm tra"} <span className="hidden opacity-60 sm:inline">(Enter)</span>
+              {knownHere?.id === q.word.id ? "Tiếp tục" : q.leech ? "Đã ôn — Kiểm tra" : "Đã xem — Kiểm tra"}{" "}
+              <span className="hidden opacity-60 sm:inline">(Enter)</span>
             </button>
+            {/* Từ mới mà đã biết sẵn → khỏi học qua phiên. Không có ở thẻ hay quên / học lại (đã lộ là chưa chắc). */}
+            {!q.leech && !q.relearn && q.word.level > 0 && (
+              knownHere?.id === q.word.id ? (
+                <button
+                  onClick={() => void undoKnownHere()}
+                  className="mt-2 flex w-full items-center justify-center gap-1.5 rounded-xl py-2 text-sm font-medium text-muted-foreground transition-colors hover:bg-muted hover:text-foreground"
+                >
+                  ↩︎ Hoàn tác — vẫn học từ này
+                </button>
+              ) : (
+                <button
+                  onClick={() => void markKnownHere()}
+                  className="mt-2 flex w-full items-center justify-center gap-1.5 rounded-xl border py-2.5 text-sm font-semibold text-muted-foreground transition-colors hover:bg-muted hover:text-foreground active:scale-[0.99]"
+                >
+                  <Check className="size-4" /> Biết rồi — bỏ qua từ này
+                </button>
+              )
+            )}
           </div>
         </div>
       ) : q.kind === "arrange" ? (

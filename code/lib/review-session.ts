@@ -1,7 +1,7 @@
 // Dựng danh sách câu hỏi cho một phiên ôn/học từ dữ liệu từ + ví dụ.
 import type { Word, SrsConfig, ReviewRecord } from "./types";
 import type { ExampleSentence } from "./data";
-import { isLeech, cardStage } from "./srs";
+import { isLeech, isKnownPending, cardStage } from "./srs";
 import {
   knownRatio,
   rankByKnown,
@@ -25,7 +25,14 @@ export interface SentenceLexicon {
 }
 
 export type Question =
-  | { kind: "learn"; word: Word; graded: false; examples?: ExampleSentence[]; leech?: boolean }
+  | {
+      kind: "learn";
+      word: Word;
+      graded: false;
+      examples?: ExampleSentence[];
+      leech?: boolean;
+      relearn?: boolean; // "Học lại" từ đã đánh dấu biết (ReviewRecord.relearn)
+    }
   | {
       kind: "mcq";
       mode: McqMode;
@@ -266,6 +273,10 @@ function gradedFor(w: Word, pool: Word[], config: SrsConfig, isNew: boolean, rec
   const recog = () => (config.direction === "vi2en" ? reverseFor(w, pool, isNew) : meaningFor(w, pool, isNew));
   const recall = () => (config.direction === "vi2en" ? meaningFor(w, pool, isNew) : reverseFor(w, pool, isNew));
   if (isNew || !rec || rec.reps <= 0) return recog();
+  // Lần kiểm tra đầu của từ "đã biết sẵn" kiểm đúng điều người học đã khai — NHẬN RA nghĩa —
+  // chứ không bốc theo tỉ trọng thẻ chín (S = 60 → toàn gõ chính tả / hỏi ngược). Thẻ "học lại"
+  // cũng vậy: vừa xem lại như từ mới thì hỏi như từ mới.
+  if (isKnownPending(rec) || rec.relearn) return recog();
 
   switch (pickQuestionKind(config, cardStage(rec))) {
     case "recog":
@@ -307,6 +318,7 @@ function interleave(groups: Question[][], enabled: boolean): Question[] {
  * Từ MỚI: 1 thẻ "learn" (xem từ + nghĩa + ví dụ, không chấm) TRƯỚC khi kiểm tra —
  * không bị hỏi MCQ trên từ chưa từng thấy.
  * Từ HAY QUÊN (leech, quên ≥4 lần): cũng được 1 thẻ "learn" ôn lại kỹ (kèm ô mẹo nhớ) trước khi hỏi.
+ * Từ bấm "Học lại" (từng đánh dấu đã biết): 1 thẻ "learn" như từ mới trước câu hỏi.
  * Mỗi từ: 1 bài chính (chấm FSRS) + clozePerWord câu điền +
  * arrangePerWord câu sắp xếp. Hai loại sau chỉ luyện, không chấm lịch.
  * Các đợt được XEN KẼ giữa các từ (interleave) thay vì đi hết khối một từ mới sang từ kế.
@@ -355,6 +367,7 @@ export function buildQuestions(
     const clozeSentences = new Set(selected.clozeItems.map((s) => s.en));
     if (isNew) g.push({ kind: "learn", word: w, graded: false, examples: ex.slice(0, 5) });
     else if (isLeech(rec)) g.push({ kind: "learn", word: w, graded: false, examples: ex.slice(0, 5), leech: true });
+    else if (rec?.relearn) g.push({ kind: "learn", word: w, graded: false, examples: ex.slice(0, 5), relearn: true });
     const q = gradedFor(w, pool, config, isNew, rec);
     // Câu đã dành cho đợt điền không được lộ trong thẻ đáp án của bài
     // chính. Thà ít ví dụ còn hơn biến đợt điền sau thành chép lại.

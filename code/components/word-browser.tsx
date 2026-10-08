@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
-import { GraduationCap, Plus } from "lucide-react";
+import { GraduationCap, ListChecks, Plus } from "lucide-react";
 import {
   loadWords,
   loadExamplesForWords,
@@ -12,30 +12,35 @@ import {
   type ExampleSentence,
 } from "@/lib/data";
 import { warmSession } from "@/lib/warm";
+import { requestSync } from "@/lib/sync";
 import { posLabel } from "@/lib/pos";
 import { db, learnedIds, newTodayCount, getConfig } from "@/lib/db";
 import { buildQuestions, type Question } from "@/lib/review-session";
+import { isKnownPending, MATURE_STABILITY } from "@/lib/srs-pure";
 import { levelMeta, levelAccent } from "@/lib/levels";
 import { toSearch } from "@/lib/slug";
 import { cn } from "@/lib/utils";
 import type { Word, SrsConfig, ReviewRecord } from "@/lib/types";
 import WordDetail from "@/components/word-detail";
 import ReviewRunner from "@/components/review-runner";
+import KnownTriage from "@/components/known-triage";
 
 const PAGE = 90; // cuộn vô hạn: mỗi lần hiện thêm 90 dòng (như HSK)
 
-type Status = "new" | "due" | "learned";
+type Status = "new" | "due" | "known" | "learned";
 const STATUS_DOT: Record<Status, string> = {
   new: "bg-muted-foreground/25",
   due: "bg-amber-500",
+  known: "bg-sky-500", // đã biết sẵn, chờ lần kiểm tra đầu
   learned: "bg-emerald-500",
 };
-type FilterKey = "all" | "new" | "due" | "known" | "leech" | "phrasal" | "business";
+type FilterKey = "all" | "new" | "due" | "known" | "preknown" | "leech" | "phrasal" | "business";
 const FILTERS: { key: FilterKey; label: string }[] = [
   { key: "all", label: "Tất cả" },
   { key: "new", label: "Chưa học" },
   { key: "due", label: "Đến hạn" },
   { key: "known", label: "Đã thuộc" },
+  { key: "preknown", label: "Đã biết sẵn" },
   { key: "leech", label: "Hay quên" },
   { key: "phrasal", label: "Phrasal verbs" },
   { key: "business", label: "Tiếng Anh công việc" },
@@ -46,6 +51,7 @@ const PHRASAL_POS = ["phr-v", "idiom"];
 function statusOf(rec: ReviewRecord | undefined, now: number): Status {
   if (!rec) return "new";
   if (new Date(rec.due).getTime() <= now) return "due";
+  if (isKnownPending(rec)) return "known";
   return "learned";
 }
 function matchFilter(w: Word, rec: ReviewRecord | undefined, now: number, f: FilterKey, business: Set<string>): boolean {
@@ -54,7 +60,9 @@ function matchFilter(w: Word, rec: ReviewRecord | undefined, now: number, f: Fil
   if (f === "business") return business.has(w.id);
   if (f === "new") return !rec;
   if (f === "due") return !!rec && new Date(rec.due).getTime() <= now;
-  if (f === "known") return !!rec && (rec.stability ?? 0) >= 21;
+  // "Đã thuộc" = nhớ bền ĐÃ chứng minh; từ đã-biết-sẵn chưa qua lần kiểm tra đầu nằm ở "Đã biết sẵn".
+  if (f === "known") return !!rec && (rec.stability ?? 0) >= MATURE_STABILITY && !isKnownPending(rec);
+  if (f === "preknown") return !!rec?.known;
   return !!rec && (rec.lapses ?? 0) >= 4; // hay quên (leech)
 }
 
@@ -72,6 +80,7 @@ export default function WordBrowser({ level }: { level: number }) {
   const [remainingNew, setRemainingNew] = useState<number | null>(null);
   const [session, setSession] = useState<Question[] | null>(null);
   const [config, setConfig] = useState<SrsConfig | null>(null);
+  const [triage, setTriage] = useState<{ sound: boolean } | null>(null); // đang "Sàng lọc từ đã biết"
   const [now] = useState(() => Date.now());
   const [business, setBusiness] = useState<Set<string>>(new Set()); // nhãn BSL, tải lười khi lọc
 
@@ -129,9 +138,15 @@ export default function WordBrowser({ level }: { level: number }) {
     setSession(buildQuestions(candidates, ex, words, cfg, true, undefined, learned, { lemmaMap, wordLevels }));
   };
 
+  const openTriage = async () => {
+    const cfg = await getConfig();
+    setTriage({ sound: cfg.soundEnabled !== false });
+  };
+
   const meta = levelMeta(level);
   const accent = levelAccent(level);
-  const learnedCount = reviews.size;
+  const learnedCount = reviews.size; // độ phủ: đã học + đã biết sẵn
+  const knownCount = useMemo(() => [...reviews.values()].filter((r) => r.known).length, [reviews]);
   const totalWords = words?.length ?? meta?.words ?? 0;
   const pct = totalWords ? Math.min(100, (learnedCount / totalWords) * 100) : 0;
 
@@ -145,6 +160,29 @@ export default function WordBrowser({ level }: { level: number }) {
   }, [words, q, filter, reviews, now, business]);
 
   const shown = filtered.slice(0, visible);
+
+  if (triage && words) {
+    const exitTriage = () => {
+      setTriage(null);
+      requestSync(); // vừa đánh dấu cả loạt → đẩy lên cloud luôn (gộp debounce ở AuthSync)
+      refreshNew();
+      void refreshReviews();
+    };
+    return (
+      <KnownTriage
+        level={level}
+        words={words}
+        sound={triage.sound}
+        onExit={exitTriage}
+        onLearn={async () => {
+          exitTriage();
+          // còn suất hôm nay thì học theo suất, hết suất thì "học thêm" như nút ở thẻ cấp
+          const [cfg, newToday] = await Promise.all([getConfig(), newTodayCount()]);
+          await startLearn(cfg.newPerDay - newToday <= 0);
+        }}
+      />
+    );
+  }
 
   // Đang trong phiên học → chỉ hiện phiên (khung nằm dưới topbar như HSK)
   if (session && config) {
@@ -191,7 +229,7 @@ export default function WordBrowser({ level }: { level: number }) {
       <div className={cn("mb-4 rounded-3xl border bg-gradient-to-br p-5", accent.grad)}>
         <div className="flex items-center justify-between gap-3">
           <div>
-            <div className="text-sm text-muted-foreground">Đã học</div>
+            <div className="text-sm text-muted-foreground">{knownCount > 0 ? "Đã học · đã biết" : "Đã học"}</div>
             <div className="text-2xl font-bold">
               {learnedCount.toLocaleString("vi")}
               <span className="text-base font-medium text-muted-foreground">/{totalWords.toLocaleString("vi")}</span>
@@ -223,10 +261,20 @@ export default function WordBrowser({ level }: { level: number }) {
                 <Plus className="size-3.5" /> Học thêm 10 từ
               </button>
             )}
+            {/* Lướt nhanh hàng đợi, đánh dấu từ đã biết sẵn — khỏi học lại qua phiên từ mới */}
+            {words && learnedCount < totalWords && (
+              <button
+                onClick={() => void openTriage()}
+                className="inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-xs font-semibold text-muted-foreground transition-all hover:bg-muted active:scale-[0.98]"
+              >
+                <ListChecks className="size-3.5" /> Sàng lọc từ đã biết
+              </button>
+            )}
           </div>
         </div>
         <div className="mt-2 text-xs text-muted-foreground">
           {Math.max(0, totalWords - learnedCount).toLocaleString("vi")} từ mới chờ học
+          {knownCount > 0 && ` · ${knownCount.toLocaleString("vi")} từ đã biết sẵn`}
         </div>
         <div className="mt-2 h-2 overflow-hidden rounded-full bg-muted">
           <div className={cn("h-full rounded-full transition-all", accent.bar)} style={{ width: `${pct}%` }} />
