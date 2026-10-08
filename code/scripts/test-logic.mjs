@@ -32,6 +32,9 @@ import {
   badgeGroups,
   badgeTotals,
   CAMPAIGN_BADGES,
+  SPECIAL_BADGES,
+  BADGE_GROUPS,
+  ROUTE_WORDS,
   XP,
   QUEST_POOL,
   dailyQuests,
@@ -274,6 +277,43 @@ t("ngưỡng huy hiệu trong mỗi nhóm theo bậc tăng dần", () => {
 
 t("huy hiệu chiến dịch khớp 4 cấp học B1–C2", () => {
   assert.deepEqual(CAMPAIGN_BADGES.map((c) => c.cefr), ["B1", "B2", "C1", "C2"]);
+});
+
+// Huy hiệu gõ tay ngưỡng theo app khác ("cả 6 cấp", "11.000 từ") từng KHÔNG BAO GIỜ mở được
+// trong app 4 cấp / 10.308 từ. Khoá lại: học trọn lộ trình (và làm đủ mọi việc) là mở hết.
+const fullRoute = () => stats({
+  words: ROUTE_WORDS, matured: ROUTE_WORDS,
+  byLevel: Object.fromEntries(LEVELS.map((l) => [l.level, l.words])),
+  xp: 1e6, streak: 1000, longestStreak: 1000, reads: 1e5, reviews: 1e6, correct: 1e6, activeDays: 1000,
+  maxDayReviews: 1000, weekend: true, redeemedLeeches: 1000, maxCombo: 1000, comebackDays: 30, perfectDay: true,
+});
+
+t("học trọn lộ trình B1–C2 thì MỌI huy hiệu đều mở được", () => {
+  const locked = badgeGroups(fullRoute()).flatMap((g) => g.badges).filter((b) => !b.earned);
+  assert.deepEqual(locked.map((b) => b.id), []);
+});
+
+t("ngưỡng theo số từ không vượt dữ liệu thật (quân hàm, Chiêu binh, Cựu binh, chiến dịch, Quân báo)", () => {
+  assert.equal(ROUTE_WORDS, LEVELS.reduce((n, l) => n + l.words, 0));
+  assert.ok(RANKS[RANKS.length - 1].minWords <= ROUTE_WORDS);
+  for (const g of BADGE_GROUPS.filter((x) => x.metric === "words" || x.metric === "matured"))
+    assert.ok(Math.max(...g.tiers) <= ROUTE_WORDS, `nhóm ${g.name} vượt ${ROUTE_WORDS} từ`);
+  for (const c of CAMPAIGN_BADGES)
+    assert.ok(c.need <= LEVELS.find((l) => l.level === c.level).words, `chiến dịch ${c.cefr} vượt số từ của cấp`);
+  const lib = (f) => JSON.parse(readFileSync(join("public", "data", "library", f), "utf8")).length;
+  const reads = BADGE_GROUPS.find((x) => x.metric === "reads");
+  assert.ok(Math.max(...reads.tiers) <= lib("readings-index.json") + lib("stories-index.json"));
+});
+
+t("Đa binh chủng cần đủ 4 cấp B1–C2; Thống chế cần đủ TỪNG cấp, không chỉ tổng số thẻ", () => {
+  const sp = (s, id) => badgeGroups(s).find((g) => g.group === "special").badges.find((b) => b.id === id);
+  assert.equal(sp(stats({ byLevel: { 1: 5, 2: 5, 3: 5 } }), "sp-multi").earned, false);
+  assert.equal(sp(stats({ byLevel: { 1: 5, 2: 5, 3: 5, 4: 1 } }), "sp-multi").earned, true);
+  const almost = fullRoute();
+  almost.byLevel = { ...almost.byLevel, 4: LEVELS[3].words - 1 }; // sót 1 từ C2 dù tổng thẻ vẫn đủ (thêm từ nền)
+  assert.equal(sp(almost, "sp-marechal").earned, false);
+  assert.equal(sp(fullRoute(), "sp-marechal").earned, true);
+  for (const b of SPECIAL_BADGES) assert.doesNotMatch(b.hint, /\b6 (cấp|chiến dịch)|11\.000/, `${b.id}: ${b.hint}`);
 });
 
 t("XP: học từ mới đáng giá hơn ôn lại", () => {

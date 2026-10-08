@@ -1,4 +1,10 @@
 // Gamification — theme cấp bậc Hải quân Hoàng gia Anh ("Hải trình"). Logic thuần (không phụ thuộc DB).
+import { LEVELS } from "./levels.ts"; // đuôi .ts: unit test chạy thẳng file này bằng node
+
+// Tổng từ của lộ trình B1–C2 (không gồm bộ nền A1–A2) — đọc từ dữ liệu thật trong levels.ts.
+// Huy hiệu "học trọn / mọi cấp" phải suy từ đây: trước đây gõ tay "6 cấp", "11.000 từ" (bê từ
+// app khác) nên app 4 cấp, 10.308 từ KHÔNG BAO GIỜ mở được.
+export const ROUTE_WORDS = LEVELS.reduce((n, l) => n + l.words, 0);
 
 // XP cộng khi hành động (giữ tinh thần +3/+5/+2 của app HSK).
 export const XP = { newWord: 5, review: 3, practice: 2, perfectSession: 20 } as const;
@@ -174,15 +180,17 @@ export const SPECIAL_BADGES: SpecialBadge[] = [
   { id: "sp-week", name: "Tuần lễ vàng", icon: "🗓️", hint: "Chuỗi 7 ngày liên tiếp", test: (s) => s.streak >= 7 },
   { id: "sp-weekend", name: "Cuối tuần chăm", icon: "📅", hint: "Học vào T7/CN", test: (s) => s.weekend },
   { id: "sp-100words", name: "Đại đội", icon: "💯", hint: "Học được 100 từ", test: (s) => s.words >= 100 },
-  { id: "sp-multi", name: "Đa binh chủng", icon: "🎏", hint: "Có từ đã học ở cả 6 cấp", test: (s) => [1, 2, 3, 4, 5, 6].every((l) => (s.byLevel[l] ?? 0) > 0) },
+  { id: "sp-multi", name: "Đa binh chủng", icon: "🎏", hint: `Có từ đã học ở cả ${LEVELS.length} cấp B1–C2`, test: (s) => LEVELS.every((l) => (s.byLevel[l.level] ?? 0) > 0) },
   { id: "sp-half", name: "Nửa chặng đường", icon: "⛰️", hint: "Học được 5.500 từ", test: (s) => s.words >= 5500 },
   { id: "sp-elite", name: "Tinh nhuệ", icon: "🎗️", hint: "1.000 từ nhớ bền", test: (s) => s.matured >= 1000 },
   { id: "sp-century", name: "Bách chiến", icon: "🛡️", hint: "≥100 lượt ôn trong 1 ngày", test: (s) => s.maxDayReviews >= 100 },
   { id: "sp-blitz", name: "Cuồng phong", icon: "🌪️", hint: "≥250 lượt ôn trong 1 ngày", test: (s) => s.maxDayReviews >= 250 },
   { id: "sp-persist", name: "Trường kỳ", icon: "🏔️", hint: "Học đủ 100 ngày (tổng)", test: (s) => s.activeDays >= 100 },
   { id: "sp-sharp", name: "Thần xạ", icon: "🎯", hint: "5.000 câu trả lời đúng", test: (s) => s.correct >= 5000 },
-  { id: "sp-allcamp", name: "Toàn thắng", icon: "🏆", hint: "Hoàn thành cả 6 chiến dịch CEFR", test: (s) => CAMPAIGN_BADGES.every((c) => (s.byLevel[c.level] ?? 0) >= c.need) },
-  { id: "sp-marechal", name: "Thống chế", icon: "👑", hint: "Học trọn toàn bộ 11.000 từ", test: (s) => s.words >= 11000 },
+  { id: "sp-allcamp", name: "Toàn thắng", icon: "🏆", hint: `Hoàn thành cả ${CAMPAIGN_BADGES.length} chiến dịch CEFR`, test: (s) => CAMPAIGN_BADGES.every((c) => (s.byLevel[c.level] ?? 0) >= c.need) },
+  // "Học trọn" = đủ từng cấp, không phải tổng số thẻ: tổng gồm cả từ nền A1–A2 học thêm tay nên
+  // có thể đạt con số mà vẫn sót từ B1–C2.
+  { id: "sp-marechal", name: "Thống chế", icon: "👑", hint: `Học trọn toàn bộ ${ROUTE_WORDS.toLocaleString("vi")} từ B1–C2`, test: (s) => LEVELS.every((l) => (s.byLevel[l.level] ?? 0) >= l.words) },
   // ---- chào người quay lại: thưởng việc TRỞ LẠI thay vì chỉ phạt việc đứt chuỗi ----
   { id: "sp-comeback", name: "Tái xuất", icon: "🌅", hint: "Quay lại học sau ≥3 ngày nghỉ", test: (s) => s.comebackDays >= 3 },
   { id: "sp-storm", name: "Trở về từ bão", icon: "⛵", hint: "Quay lại học sau ≥14 ngày nghỉ", test: (s) => s.comebackDays >= 14 },
