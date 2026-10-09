@@ -210,11 +210,18 @@ ND** (cấm phái sinh). Nhãn hợp lệ = khoá `LICENSES` (`scripts/lib/conte
 |---|---|---|
 | `standardebooks/*` (Aesop, Andersen, Grimm, Kipling, Wilde, O. Henry, Saki, Chekhov–Garnett, Doyle, Jerome, Franklin, Thoreau, Mill, Hazlitt, Emerson, Joyce, Leacock, Twain, Chesterton…) | public domain (+ CC0) | A2–C2 |
 | `GITenberg/*` (Project Gutenberg, vd. Baldwin *Fifty Famous Stories*) | public domain | B1–B2 |
-| `global-asp/asp-source`, `pb-source`, `lida-source` (African Storybook, Pratham StoryWeaver; `sbc-source` là bản sao asp) | CC BY 4.0 / CC BY-NC 4.0 / CC BY-NC-SA 4.0 — ghi đúng giấy phép từng truyện (dòng `* License:` cuối file) | A1–A2 |
+| `global-asp/asp-source`, `pb-source`, `lida-source` (African Storybook, Pratham StoryWeaver; `sbc-source` = Storybooks Canada, có thư mục `vi/` dịch sẵn 40 truyện) | CC BY 4.0 / CC BY-NC 4.0 / CC BY-NC-SA 4.0 — ghi đúng giấy phép từng truyện (dòng `* License:` cuối file) | A1–A2 |
+| `openstax/osbooks-*` (Tâm lý, Xã hội học, Triết học, Lịch sử, Thiên văn, Sinh học) | CC BY 4.0 (soát từng sách) | B2–C1 |
+| Web (từ 10/2026): VOA Learning English (trừ bài/ảnh AP–Reuters–AFP) | public domain | A2–B1 |
+| Web: Frontiers for Young Minds, eLife digests, Our World in Data (trừ dữ liệu bên thứ ba) | CC BY 4.0 | B1–C1 |
+| Web: Global Voices | CC BY 3.0 | B2–C1 |
+| Web: Wikipedia / Simple English Wikipedia / Wikivoyage — chỉ làm nguồn dữ kiện, kể lại hoàn toàn | CC BY-SA 4.0 | A2–C1 |
 
 - Header bắt buộc: `source: Tên gốc | tác giả, tuyển tập (năm), nơi lấy` · `license: public domain | CC0 1.0 |
-  CC BY 4.0 | CC BY-NC 4.0 | CC BY-NC-SA 4.0` · `source-url: https://github.com/…`. Trang bài hiện dòng ghi nguồn (`source-note.tsx`): tên gốc, tác
-  giả, giấy phép kèm liên kết, liên kết GitHub, "đã biên soạn lại theo cấp độ và dịch" — đủ ghi công CC BY.
+  CC BY 4.0 | CC BY-NC 4.0 | CC BY-NC-SA 4.0 | CC BY-SA 3.0 | CC BY-SA 4.0` · `source-url: https://…` (GitHub hoặc trang gốc). Trang bài
+  hiện dòng ghi nguồn (`source-note.tsx`): tên gốc, tác giả, giấy phép kèm liên kết, liên kết nguồn, "đã biên soạn lại theo
+  cấp độ và dịch" — đủ ghi công CC BY. Không dùng nguồn có bản quyền (Breaking News English, News in Levels, CommonLit,
+  Newsela) hay CC BY-ND (The Conversation).
 - **Kể lại theo cấp**, không chép: giữ cốt truyện/ý chính, câu chữ mới đúng mốc §2–§3; bài đọc C1–C2 thêm đoạn
   bình luận ngắn (bối cảnh, ý nghĩa, liên hệ hôm nay) để đủ từ đúng cấp. Ghi chú ở dòng `//` đầu file: nguồn,
   chương đã dùng, chi tiết đã đổi.
@@ -234,18 +241,24 @@ Câu hỏi: học hết thẻ từ + ngữ pháp + thư viện của cấp L th�
 5 câu ví dụ, ôn theo SRS), ngữ pháp có bài riêng; thư viện lo **gặp lại từ trong ngữ cảnh** và **khối lượng đọc**.
 Số mục tiêu nằm ở `TARGETS` (`scripts/lib/content-spec.mjs`); đo bằng `npm run content:coverage -- --targets`.
 
-| Cấp | Từ của cấp gặp ≥ 1 bài | ≥ 3 bài | Giờ đọc (bài đọc + truyện) | Mỗi chủ đề | Thể loại bắt buộc (mỗi loại ≥ … bài đọc) |
-|---|---|---|---|---|---|
-| A1 | 98% | 85% | ≥ 6,5 | ≥ 2 bài đọc | narrative, description, informational, practical, letter, how-to, news (≥ 3) |
-| A2 | 97% | 70% | ≥ 9 | ≥ 2 | như A1 + review, biography (≥ 4) |
-| B1 | 92% | 60% | ≥ 16 | ≥ 3 | narrative, explanation, informational, news, opinion, how-to, letter, biography, review, interview (≥ 4) |
-| B2 | 85% | 50% | ≥ 16 | ≥ 3 | narrative, explanation, analysis, argument, news, opinion, review, interview, case-study, biography (≥ 4) |
-| C1 | 80% | 40% | ≥ 17 | ≥ 3 | narrative, analysis, argument, explanation, opinion, review, case-study, biography, interview, comparison (≥ 4) |
+**Mục tiêu 2.0** (10/2026 — bản đầu chỉ vừa chạm mốc, ~1/3 từ B1–C1 mới gặp đúng 1 bài):
+
+| Cấp | Từ của cấp gặp ≥ 1 bài | ≥ 3 bài | ≥ 5 bài | Giờ đọc (bài đọc + truyện) | Mỗi chủ đề | Thể loại bắt buộc (mỗi loại ≥ … bài đọc) |
+|---|---|---|---|---|---|---|
+| A1 | 98% | 90% | 65% | ≥ 8 | ≥ 2 bài đọc | narrative, description, informational, practical, letter, how-to, news (≥ 3) |
+| A2 | 97% | 80% | 40% | ≥ 12 | ≥ 2 | như A1 + review, biography (≥ 4) |
+| B1 | 96% | 70% | 35% | ≥ 20 | ≥ 3 | narrative, explanation, informational, news, opinion, how-to, letter, biography, review, interview (≥ 5) |
+| B2 | 90% | 60% | 30% | ≥ 20 | ≥ 3 | narrative, explanation, analysis, argument, news, opinion, review, interview, case-study, biography, letter, comparison (≥ 5) |
+| C1 | 87% | 50% | 25% | ≥ 21 | ≥ 3 | narrative, analysis, argument, explanation, opinion, review, case-study, biography, interview, comparison, description (≥ 5) |
+
+Bản đầu (đạt 10/2026): ≥ 3 bài A1 85 · A2 70 · B1 60 · B2 50 · C1 40%; giờ 6,5 / 9 / 16 / 16 / 17. `--targets` in thêm "thiếu ngữ
+cảnh" = tổng số lần từ đích phải gặp thêm để đạt cả ba ngưỡng (lấp từ gần ngưỡng trước).
 
 **C2 không đặt mục tiêu** (chủ app quyết 10/2026): người học C2 cần chuyển sang văn bản thật (CEFR: "hầu như mọi loại
 văn bản"), thư viện C2 chỉ là phần mở đầu.
 
-**Trạng thái 10/2026**: A1–C1 đều đạt cả năm mốc (`--targets` ✓). Cách lấp nhanh nhất: bài đọc tự biên soạn theo cụm
+**Trạng thái 10/2026**: A1–C1 đạt mốc bản đầu; đang làm Mục tiêu 2.0. Mỗi cấp A2–C1 có thêm một tác phẩm dài chia nhiều
+phần (`series:`): Oz (A2), The Story of the Treasure Seekers (B1), Around the World in Eighty Days (B2), The Time Machine (C1). Cách lấp nhanh nhất: bài đọc tự biên soạn theo cụm
 chủ đề nhắm đúng từ đang gặp 2 bài (mỗi lần gặp thêm kéo một từ lên ≥ 3) và từ chưa gặp (kéo ≥ 1), 15–30 từ thiếu/bài;
 truyện nguồn mở chủ yếu để đủ giờ đọc (một truyện kể lại "tự nhiên" chỉ phủ thêm ~10 từ thiếu).
 
@@ -273,7 +286,8 @@ Cách đếm: "bài" = một bài đọc / một truyện / một video ở cấ
   cáo có quan điểm, văn xuôi đương đại; C1 văn bản dài, phức tạp, văn học, chuyên ngành; C2 hầu như mọi loại.
 
 **Ước lượng của nhóm soạn** (không phải số nghiên cứu):
-- *≥ 3 bài*: thẻ từ B1–C2 cho 5 ngữ cảnh + ≥ 3 bài khác nhau = ≥ 8 lần gặp có ngữ cảnh (ngưỡng Waring & Takaki).
+- *≥ 3 bài*: thẻ từ B1–C2 cho 5 ngữ cảnh + ≥ 3 bài khác nhau = ≥ 8 lần gặp có ngữ cảnh (ngưỡng Waring & Takaki); *≥ 5 bài* →
+  ≥ 10 lần (Webb 2007), và với A1–A2 (thẻ không có câu ví dụ) mới gần ngưỡng.
   A1–A2 không có câu ví dụ trên thẻ, nhưng từ A1–A2 lặp lại dày đặc ở mọi cấp trên (Nation & Wang 1999).
 - *Tỉ lệ giảm dần theo cấp* (85% → 40%): danh sách cấp cao dài hơn và hiếm dần (Zipf trung vị A1 ≈ 5,0 → C1 ≈ 3,6);
   phần đuôi hiếm học có chủ đích qua thẻ, không nhồi vào bài (§4). Phần đạt ≥ 3 bài là phần thường gặp nhất.
@@ -290,3 +304,21 @@ G. C. (2010), *RFL* 22(1) · Nation, P. (2006), *Canadian Modern Language Review
 Language Acquisition* (Palgrave) · Nation, P. & Wang, K. (1999), *RFL* 12(2) · Beglar, D. & Hunt, A. (2014), *RFL*
 26(1) · Cambridge English, *Guided learning hours* · Council of Europe (2020), *CEFR Companion Volume* · Extensive
 Reading Foundation, *Guide to Extensive Reading*.
+
+
+## 16. Soạn nhanh, ít token
+
+Tiếng Việt chiếm 55–75% token của một file bài/truyện/câu hỏi — để máy dịch nháp, người soạn chỉ viết tiếng Anh rồi
+đọc soát. Công cụ (không cài thêm phần mềm):
+
+- `npm run content:kit -- need <cấp> [k] [N] [--re <nghĩa>]` — từ đang gặp < k bài (gần ngưỡng trước), lọc theo trường nghĩa để
+  gom một bài theo cụm chủ đề; `dens <id>…` — mật độ, vượt cấp, ngoài từ điển, số từ thiếu bài đó phủ; `names <cấp>` — tên đã
+  dùng ≥ 2 truyện.
+- `npm run content:src -- wiki|url|se|gt …` — lấy văn bản nguồn (Wikipedia/Simple/Wikivoyage, trang web, Standard Ebooks,
+  GITenberg) ra văn bản thuần; nguồn web dài thì đọc bằng công cụ tóm tắt trước khi kể lại.
+- Viết file bài **chỉ tiếng Anh** (câu, `title:`, `## Chương`, `summary:` tiếng Anh) và file câu hỏi chỉ `? / + / -` tiếng Anh, giải
+  thích ghi `> ~cụm từ trong câu làm căn cứ` → `npm run content:mt -- fill <file bài> <file câu hỏi>` điền tiếng Việt (Google
+  Translate) và sinh `> Bài đọc: «câu nguyên văn»` / `> Chương N: «…»`.
+- `content:mt -- vi <file>` in "số-dòng|VI" để soát; sửa bằng `content:mt -- fix <file>` (stdin "số-dòng|VI mới"). Lỗi máy hay gặp:
+  xưng hô ("bạn", "anh ấy" → theo vai), số chữ thành số ("eleven" → "11" — giữ chữ để khớp bộ kiểm), từ miền Nam (chén → bát,
+  trái → quả), đảo/gộp ngoặc kép (dòng có ngoặc kép lẻ được báo), câu cứng kiểu "nó tồn tại".

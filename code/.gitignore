@@ -63,3 +63,6 @@ next-env.d.ts
 /scripts/.grammar-tts-cache/
 /scripts/.grammar-audio/
 /.english-grammar-state.json
+
+# nguồn tải về để kể lại (scripts/fetch-source.mjs)
+/scripts/.content-src/

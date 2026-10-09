@@ -50,11 +50,11 @@ export function runChecks({ draft = false, requireQuiz = true } = {}) {
       if (!TOPICS.includes(m.topic)) err(`topic lạ: ${m.topic}`);
       if (m.genre && !GENRES.includes(m.genre)) err(`genre lạ: ${m.genre}`);
     }
-    // bài phỏng theo nguồn mở: ghi đủ nguồn — tên gốc | tác giả/tuyển tập, giấy phép, đường dẫn GitHub
+    // bài phỏng theo nguồn mở: ghi đủ nguồn — tên gốc | tác giả/tuyển tập, giấy phép, đường dẫn (GitHub hoặc trang gốc)
     if (m.type !== "video" && m.source) {
       if (!m.source.title || !m.source.credit) err(`source: phải dạng "Tên gốc | tác giả, tuyển tập (năm)"`);
       if (!LICENSES[m.source.license]) err(`license lạ: "${m.source.license}" (nhận: ${Object.keys(LICENSES).join(" · ")})`);
-      if (!/^https:\/\/github\.com\/[\w.-]+\/[\w.-]+/.test(m.source.url)) err(`source-url phải là đường dẫn GitHub: ${m.source.url || "(trống)"}`);
+      if (!/^https:\/\/[\w.-]+\.[a-z]{2,}\/\S+/.test(m.source.url)) err(`source-url phải là đường dẫn https tới nguồn: ${m.source.url || "(trống)"}`);
     }
     if (m.series && (!m.series.id || !Number.isInteger(m.series.order) || m.series.order < 1)) err(`series phải dạng "id thứ-tự": ${m.header.series}`);
     if (!m.sentences.length) err("không có câu nào");
@@ -141,12 +141,14 @@ export function runChecks({ draft = false, requireQuiz = true } = {}) {
       if (type === "story") {
         const names = new Map();
         const vocab = loadVocab();
-        // Bỏ phần tên là từ thường/danh xưng (Street trong "Elm Street", Mrs.) — chỉ đếm tên riêng thật.
+        // Bỏ phần tên là từ thường/danh xưng (Street trong "Elm Street", Mrs.) — chỉ đếm tên riêng thật. Các phần của một
+        // truyện dài (series) tính là MỘT truyện.
         const generic = (n) => vocab.band.has(n) || /^(mrs?|ms|dr|st)\.?$/.test(n);
         for (const m of list)
           for (const n of [...m.names].map((x) => x.replace(/^\^/, "")).filter((x) => !generic(x))) {
             if (!names.has(n)) names.set(n, []);
-            names.get(n).push(m.id);
+            const key = m.series ? `${m.series.id}(chuỗi)` : m.id;
+            if (!names.get(n).includes(key)) names.get(n).push(key);
           }
         for (const [n, ids] of names) if (ids.length > 2) libWarn.push(`${lv} story: tên "${n}" dùng ở ${ids.length} truyện (${ids.join(", ")})`);
       }

@@ -71,7 +71,7 @@ export interface QuizQuestion {
   why: string;
 }
 
-// Bài phỏng theo nguồn mở: tên gốc, tác giả/tuyển tập, giấy phép (khoá trong LICENSES), đường dẫn GitHub.
+// Bài phỏng theo nguồn mở: tên gốc, tác giả/tuyển tập, giấy phép (khoá trong LICENSES), đường dẫn nguồn (GitHub hoặc trang gốc).
 export interface ContentSource {
   title: string;
   credit: string;
@@ -87,6 +87,8 @@ export const LICENSES: Record<string, { label: string; url: string }> = {
   "CC BY 4.0": { label: "CC BY 4.0", url: "https://creativecommons.org/licenses/by/4.0/deed.vi" },
   "CC BY-NC 4.0": { label: "CC BY-NC 4.0", url: "https://creativecommons.org/licenses/by-nc/4.0/deed.vi" },
   "CC BY-NC-SA 4.0": { label: "CC BY-NC-SA 4.0", url: "https://creativecommons.org/licenses/by-nc-sa/4.0/deed.vi" },
+  "CC BY-SA 3.0": { label: "CC BY-SA 3.0", url: "https://creativecommons.org/licenses/by-sa/3.0/deed.vi" },
+  "CC BY-SA 4.0": { label: "CC BY-SA 4.0", url: "https://creativecommons.org/licenses/by-sa/4.0/deed.vi" },
 };
 
 // 1 track audio cho cả bài/chương; starts/ends = mốc từng câu (giây).

@@ -2,7 +2,8 @@
 //   node scripts/content-coverage.mjs                 bảng tổng theo cấp (+ ghi scripts/out/coverage.json)
 //   node scripts/content-coverage.mjs --gaps b1 [N]   N từ đích B1 CHƯA gặp + từ mới gặp 1 ngữ cảnh (theo tần suất)
 //   node scripts/content-coverage.mjs --topics b1     phân bố chủ đề / thể loại / độ dài của cấp
-//   node scripts/content-coverage.mjs --targets       so từng cấp với mục tiêu §15 (phủ ≥1/≥3 bài cấp ≤ L, giờ đọc, chủ đề, thể loại)
+//   node scripts/content-coverage.mjs --targets       so từng cấp với mục tiêu §15 (phủ ≥1/≥3/≥5 bài cấp ≤ L, giờ đọc, chủ đề,
+//                                                     thể loại) + số "ngữ cảnh" còn thiếu (tổng số lần một từ đích phải gặp thêm)
 // Ngữ cảnh = một bài đọc / một truyện / một video (không tính chương riêng — cách đếm thận trọng).
 import { writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
@@ -93,7 +94,7 @@ if (process.argv[1] && import.meta.filename === process.argv[1]) {
     const atOrBelow = LEVEL_KEYS.map(() => new Map()); // band → lemma → số bài cấp ≤ band
     for (const m of items)
       for (const k of profileOf(m).counts.keys()) for (let b = m.band; b < LEVEL_KEYS.length; b++) atOrBelow[b].set(k, (atOrBelow[b].get(k) ?? 0) + 1);
-    console.log("Cấp  bài đọc/truyện  chữ R+S   giờ (mục tiêu)   phủ ≥1 (mục tiêu)   phủ ≥3 (mục tiêu)   chủ đề thiếu · thể loại thiếu");
+    console.log("Cấp  bài đọc/truyện  chữ R+S   giờ (mục tiêu)   phủ ≥1 (mục tiêu)   phủ ≥3 (mục tiêu)   phủ ≥5 (mục tiêu)   thiếu ngữ cảnh · chủ đề thiếu · thể loại thiếu");
     for (const lv of LEVEL_KEYS) {
       const b = LEVEL_KEYS.indexOf(lv);
       const t = TARGETS[lv];
@@ -108,6 +109,20 @@ if (process.argv[1] && import.meta.filename === process.argv[1]) {
       const targets = targetWords(b);
       const n1 = targets.filter((w) => (atOrBelow[b].get(w) ?? 0) >= 1).length / targets.length;
       const n3 = targets.filter((w) => (atOrBelow[b].get(w) ?? 0) >= 3).length / targets.length;
+      const n5 = targets.filter((w) => (atOrBelow[b].get(w) ?? 0) >= 5).length / targets.length;
+      // ngữ cảnh còn thiếu: lần lượt ≥5 → ≥3 → ≥1, mỗi ngưỡng lấp từ đang gần ngưỡng nhất trước (rẻ nhất)
+      const cnt = targets.map((w) => atOrBelow[b].get(w) ?? 0);
+      let need = 0;
+      for (const [k, goal] of [[5, t.cov5 ?? 0], [3, t.cov3], [1, t.cov1]]) {
+        let have = cnt.filter((c) => c >= k).length;
+        const want = Math.ceil(goal * cnt.length);
+        for (const i of cnt.map((c, i) => [c, i]).filter(([c]) => c < k).sort((x, y) => y[0] - x[0]).map(([, i]) => i)) {
+          if (have >= want) break;
+          need += k - cnt[i];
+          cnt[i] = k;
+          have++;
+        }
+      }
       const per = (f) => R.reduce((c, m) => c.set(f(m), (c.get(f(m)) ?? 0) + 1), new Map());
       const byTopic = per((m) => m.topic);
       const byGenre = per((m) => m.genre);
@@ -122,7 +137,8 @@ if (process.argv[1] && import.meta.filename === process.argv[1]) {
           `${hours.toFixed(1)} (${t.hours}) ${ok(hours, t.hours)}`.padEnd(16),
           `${(n1 * 100).toFixed(1)}% (${t.cov1 * 100}%) ${ok(n1, t.cov1)}`.padEnd(19),
           `${(n3 * 100).toFixed(1)}% (${t.cov3 * 100}%) ${ok(n3, t.cov3)}`.padEnd(19),
-          `${topicGap.length ? topicGap.join(", ") : "✓"} · ${genreGap.length ? genreGap.join(", ") : "✓"}`,
+          `${(n5 * 100).toFixed(1)}% (${(t.cov5 ?? 0) * 100}%) ${ok(n5, t.cov5 ?? 0)}`.padEnd(19),
+          `${need || "✓"} · ${topicGap.length ? topicGap.join(", ") : "✓"} · ${genreGap.length ? genreGap.join(", ") : "✓"}`,
         ].join(" "),
       );
     }

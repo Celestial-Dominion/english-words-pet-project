@@ -18,6 +18,9 @@
     "content:audio": "scripts/.venv-tts/bin/python scripts/build-content-audio.py",
     "content:build": "node --no-warnings scripts/build-content.mjs && scripts/.venv-tts/bin/python scripts/build-content-audio.py && node --no-warnings scripts/build-content.mjs --prune",
     "content:report": "node --no-warnings scripts/content-report.mjs",
+    "content:kit": "node --no-warnings scripts/content-kit.mjs",
+    "content:mt": "node --no-warnings scripts/content-mt.mjs",
+    "content:src": "node --no-warnings scripts/fetch-source.mjs",
     "grammar:check": "node --no-warnings scripts/check-grammar.mjs",
     "grammar:build": "node --no-warnings scripts/build-grammar.mjs && scripts/.venv-tts/bin/python scripts/build-grammar-audio.py && node --no-warnings scripts/build-grammar.mjs --prune",
     "grammar:state": "node --no-warnings scripts/grammar-state.mjs"
