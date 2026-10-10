@@ -28,13 +28,15 @@ export const SPEC = {
 // cov1 / cov3 / cov5 = tỉ lệ từ của danh sách cấp L gặp trong ≥ 1 / ≥ 3 / ≥ 5 bài KHÁC NHAU (đọc · truyện · video) ở cấp ≤ L;
 // hours = giờ đọc bài đọc + truyện của cấp (theo wpm); topic = số bài đọc tối thiểu cho MỖI chủ đề TOPICS;
 // genres = thể loại phải có, mỗi thể loại ≥ genreMin bài đọc. "Mục tiêu 2.0" (10/2026): nâng ≥3, thêm ≥5, +~20% giờ đọc.
-// Chỉ đặt cho A1–C1 (chủ app quyết 06/10/2026): người học C2 chuyển sang đọc văn bản thật.
+// Ban đầu chỉ đặt cho A1–C1 (06/10/2026); 10/10/2026 chủ app mở thêm C2 theo đề xuất "Mục tiêu 2.0" (≥1 70%, ≥3 35%,
+// 13 giờ; chủ đề/thể loại theo cách đặt của C1; không đặt mốc ≥5).
 export const TARGETS = {
   a1: { cov1: 0.98, cov3: 0.9, cov5: 0.65, hours: 8, topic: 2, genreMin: 3, genres: ["narrative", "description", "informational", "practical", "letter", "how-to", "news"] },
   a2: { cov1: 0.97, cov3: 0.8, cov5: 0.4, hours: 12, topic: 2, genreMin: 4, genres: ["narrative", "description", "informational", "practical", "letter", "how-to", "news", "review", "biography"] },
   b1: { cov1: 0.96, cov3: 0.7, cov5: 0.35, hours: 20, topic: 3, genreMin: 5, genres: ["narrative", "explanation", "informational", "news", "opinion", "how-to", "letter", "biography", "review", "interview"] },
   b2: { cov1: 0.9, cov3: 0.6, cov5: 0.3, hours: 20, topic: 3, genreMin: 5, genres: ["narrative", "explanation", "analysis", "argument", "news", "opinion", "review", "interview", "case-study", "biography", "letter", "comparison"] },
   c1: { cov1: 0.87, cov3: 0.5, cov5: 0.25, hours: 21, topic: 3, genreMin: 5, genres: ["narrative", "analysis", "argument", "explanation", "opinion", "review", "case-study", "biography", "interview", "comparison", "description"] },
+  c2: { cov1: 0.7, cov3: 0.35, hours: 13, topic: 3, genreMin: 5, genres: ["narrative", "analysis", "argument", "explanation", "opinion", "review", "case-study", "biography", "interview", "comparison", "description"] },
 };
 
 export const NARRATOR = "en-US-AriaNeural";

@@ -4,8 +4,9 @@
 //   node scripts/content-kit.mjs need <cấp> [k=5] [N=150] [--re <regex nghĩa EN/VI>] [--min c]
 //        từ của danh sách cấp đang gặp < k bài (gần ngưỡng trước — rẻ nhất để đẩy qua), kèm số bài + nghĩa Việt;
 //        --re lọc theo trường nghĩa để gom một bài theo cụm chủ đề; --min bỏ từ đang gặp < c bài
-//   node scripts/content-kit.mjs dens <id|đoạn-tên-file>… [--k 5]
-//        mỗi bài: số chữ, câu TB, mật độ đúng cấp, vượt cấp, ngoài từ điển, và các từ "thiếu" (< k bài KHÁC) bài đó phủ
+//   node scripts/content-kit.mjs dens <id|đoạn-tên-file>… [--k 5] [--show]
+//        mỗi bài: số chữ, câu TB, mật độ đúng cấp, vượt cấp, ngoài từ điển, và các từ "thiếu" (< k bài KHÁC) bài đó phủ;
+//        --show in thêm từng từ đúng cấp kèm số bài khác đang chứa nó
 //   node scripts/content-kit.mjs names <cấp>
 //        tên riêng đã dùng ở ≥ 2 truyện của cấp (bộ kiểm cảnh báo nếu dùng thêm) — tránh khai lại
 import { loadLibrary, profileOf } from "./lib/content-model.mjs";
@@ -65,6 +66,7 @@ if (cmd === "need") {
     );
     if (over.length) console.log(`   vượt: ${over.join(" ")}`);
     if (unk.length) console.log(`   ngoài TĐ: ${unk.join(" ")}`);
+    if (args.includes("--show")) console.log(`   từ đúng cấp (số bài khác): ${own.map((x) => `${x}(${ctx(x, m.band, m)})`).join(" ")}`);
   }
   console.log(`Tổng lượt phủ từ thiếu: ${tot}`);
 } else if (cmd === "names") {
