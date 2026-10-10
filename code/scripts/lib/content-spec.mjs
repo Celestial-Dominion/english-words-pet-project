@@ -50,7 +50,7 @@ export const VOICES = new Set([
 
 export const minutesOf = (words, level) => Math.max(1, Math.round((words / SPEC[level].wpm) * 10) / 10);
 
-// Giấy phép nhận cho bài phỏng theo nguồn mở (header license:) → nhãn + liên kết hiển thị (lib/library.ts LICENSES
+// Giấy phép nhận cho bài phỏng theo nguồn mở (header license:) → nhãn + liên kết hiển thị (lib/library-labels.ts LICENSES
 // phải khớp). Mặc định nhận PD / CC0 / CC BY. App chỉ dùng cá nhân, phi thương mại, nên chủ app cho nhận thêm
 // CC BY-NC và CC BY-NC-SA (truyện tranh thiếu nhi African Storybook / LIDA), CC BY-SA (Wikipedia, Wikivoyage — bài phái
 // sinh giữ cùng giấy phép). Không nhận ND (cấm phái sinh).

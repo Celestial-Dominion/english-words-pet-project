@@ -34,11 +34,19 @@ npx firebase-tools use --add    # chọn project vừa tạo, alias: default
 ## 4. Deploy lần đầu
 
 ```bash
-npm run check     # typecheck + lint + 98 unit test
-npm run deploy    # build tĩnh + đẩy hosting
+npm run check     # typecheck + lint + unit test
+npm run deploy    # = scripts/deploy.sh: build tĩnh + kiểm config Firebase trong bundle + đẩy hosting
 ```
 
-Lần đầu **rất lâu** vì có ~60.000 file audio (~1,5 GB).
+Lần đầu **rất lâu** vì có ~70.000 file audio (~3 GB).
+
+`scripts/deploy.sh` (log: `scripts/.deploy.log`, theo dõi: `scripts/deploy-watch.sh`) giữ deploy sau đó nhanh:
+
+- Mã build băm từ mã nguồn (`next.config.ts` → `generateBuildId`), không tính `public/`, `content/` và
+  `lib/library-labels.ts` → đợt chỉ thêm nội dung thì chỉ trang đổi phải tải lại; sửa code thì mã đổi.
+- `scripts/out-mtime.py` trả ngày sửa gốc cho file chép từ `public/` → firebase-tools không băm lại audio.
+- Số luồng: 8 nếu có hơn 100 MP3 mới kể từ `.firebase/last-deploy` (nhiều luồng thì MP3 lớn quá thời gian chờ),
+  còn lại 32; ép bằng `CONC=…`. `SKIP_BUILD=1` dùng `out/` có sẵn.
 
 ## 5. Hai chế độ truy cập
 

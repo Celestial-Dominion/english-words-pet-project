@@ -80,7 +80,7 @@ Video và gộp; số từ xuất hiện ở ≥2 **modality**.
 
 ## 5. Taxonomy chủ đề
 
-26 chủ đề (`TOPICS` trong `lib/library.ts`): daily-life · family · travel · food · education · work ·
+26 chủ đề (`TOPICS` trong `lib/library-labels.ts`): daily-life · family · travel · food · education · work ·
 technology · science · health · psychology · history · geography · environment · society · economics ·
 business · communication · culture · art · literature · philosophy · ethics · media · cities · nature ·
 innovation.
@@ -204,7 +204,7 @@ liệt kê bài/chương còn thiếu câu hỏi.
 
 Bài đọc / truyện có thể **kể lại** từ nguồn mở trên GitHub — nhận **phạm vi công cộng, CC0, CC BY**; vì app dùng
 cá nhân, phi thương mại nên nhận thêm **CC BY-NC, CC BY-NC-SA** (truyện tranh African Storybook / LIDA); **không nhận
-ND** (cấm phái sinh). Nhãn hợp lệ = khoá `LICENSES` (`scripts/lib/content-spec.mjs`, khớp `lib/library.ts`):
+ND** (cấm phái sinh). Nhãn hợp lệ = khoá `LICENSES` (`scripts/lib/content-spec.mjs`, khớp `lib/library-labels.ts`):
 
 | Nguồn | Giấy phép | Hợp cấp |
 |---|---|---|

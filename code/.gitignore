@@ -45,8 +45,10 @@ next-env.d.ts
 #   python3 scripts/build-audio.py out/audio-sentences.json ../public/audio/sentences
 /public/audio/
 
-# cache & kết quả test
+# cache & kết quả test, log của scripts/deploy.sh
 /.firebase/
+/scripts/.deploy.log
+/scripts/.build.log
 /test-results/
 /playwright-report/
 
