@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useState } from "react";
 import Link from "next/link";
-import { GraduationCap, Zap, Brain, Plus, ChevronDown } from "lucide-react";
+import { GraduationCap, Zap, Brain, Plus, ChevronRight } from "lucide-react";
 import {
   countDue,
   countAhead,
@@ -13,7 +13,7 @@ import {
   learnedIds,
   newTodayCount,
   getConfig,
-  setConfig,
+  onConfigChanged,
   progressSummary,
 } from "@/lib/db";
 import {
@@ -26,12 +26,12 @@ import {
 import { warmSession } from "@/lib/warm";
 import { onSyncMerged } from "@/lib/sync";
 import { buildQuestions, type Question } from "@/lib/review-session";
-import { LEVELS } from "@/lib/levels";
 import type { Word, SrsConfig, ReviewRecord } from "@/lib/types";
 import ReviewRunner from "@/components/review-runner";
 import SyncRow from "@/components/sync-row";
 import { GrammarDueCard } from "@/components/grammar/grammar-due";
 import DailyQuests from "@/components/daily-quests";
+import { openSettings } from "@/components/settings-sheet";
 
 export default function OnTapPage() {
   const [due, setDue] = useState(0);
@@ -70,6 +70,9 @@ export default function OnTapPage() {
   // Vừa KÉO tiến độ máy khác về (bấm Đồng bộ / mở lại app) → đọc lại số đến hạn ngay,
   // không bắt người dùng thoát ra vào lại mới thấy hai máy khớp nhau.
   useEffect(() => onSyncMerged(() => void refresh()), [refresh]);
+  // Đổi cài đặt trong ngăn Cài đặt (mở được cả giữa phiên) → nhãn nút, số từ mới còn lại và
+  // phiên đang chạy (âm thanh, tự chuyển…) theo ngay.
+  useEffect(() => onConfigChanged(() => void refresh()), [refresh]);
 
   // Ghép câu hỏi từ danh sách bản ghi ôn (đến hạn/ôn sớm/hay quên).
   // KHÔNG cần xáo trước: interleave() trong buildQuestions đã trộn toàn phiên
@@ -124,13 +127,6 @@ export default function OnTapPage() {
   };
   const startAhead = async () => buildFromRecords(await getAheadReviews(new Date(), 20), "Ôn sớm");
   const startHard = async () => buildFromRecords(await getHardReviews(20), "Ôn từ hay quên");
-
-  const patch = async (p: Partial<SrsConfig>) => {
-    const next = await setConfig(p);
-    setCfg(next);
-    const nToday = await newTodayCount();
-    setRemainNew(Math.max(0, next.newPerDay - nToday));
-  };
 
   if (session && cfg) {
     return (
@@ -220,269 +216,22 @@ export default function OnTapPage() {
           cloud chưa, không phải mở menu tài khoản. */}
       <SyncRow />
 
-      {/* Cài đặt */}
-      {cfg && (
-        <details className="group rounded-3xl border p-5">
-          <summary className="flex cursor-pointer list-none items-center justify-between text-sm font-semibold text-muted-foreground [&::-webkit-details-marker]:hidden">
-            ⚙️ Cài đặt
-            <ChevronDown className="size-4 transition-transform group-open:rotate-180" />
-          </summary>
-          <div className="mt-5 space-y-5">
-            <div className="rounded-2xl border border-primary/20 bg-primary/5 p-4 text-sm">
-              <div className="font-semibold">Mỗi từ được luyện theo 3 đợt</div>
-              <div className="mt-1 text-xs leading-relaxed text-muted-foreground">
-                ① Bài chính nhận biết/nhớ lại/nghe/gõ — chấm lịch ôn một lần · ② Điền từ vào câu · ③ Ghép câu.
-                Hai đợt luyện câu không làm thay đổi lịch FSRS.
-              </div>
-            </div>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">Từ mới mỗi ngày</span>
-              <input
-                type="number"
-                inputMode="numeric"
-                min={0}
-                max={200}
-                value={cfg.newPerDay}
-                onChange={(e) => patch({ newPerDay: Math.max(0, Math.min(200, Number(e.target.value) || 0)) })}
-                className="w-20 rounded-xl border bg-background px-3 py-2 text-right text-base outline-none focus:border-ring focus:ring-2 focus:ring-ring/40"
-              />
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                Số thẻ ôn mỗi phiên
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">giới hạn thẻ đến hạn mỗi phiên cho đỡ nản; thẻ còn lại ôn ở phiên sau</span>
-              </span>
-              <select
-                value={cfg.reviewPerSession}
-                onChange={(e) => patch({ reviewPerSession: Number(e.target.value) })}
-                className="rounded-xl border bg-background px-3 py-2 text-base outline-none focus:border-ring focus:ring-2 focus:ring-ring/40"
-              >
-                <option value={0}>Không giới hạn</option>
-                {[10, 20, 30, 50, 100].map((n) => (
-                  <option key={n} value={n}>
-                    {n} thẻ
-                  </option>
-                ))}
-              </select>
-            </label>
-
-            <div className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">Hướng hỏi</span>
-              <div className="inline-flex rounded-full border p-0.5 text-sm">
-                {([["en2vi", "Anh→nghĩa"], ["vi2en", "Nghĩa→Anh"]] as const).map(([val, label]) => (
-                  <button
-                    key={val}
-                    onClick={() => patch({ direction: val })}
-                    className={`rounded-full px-3 py-1.5 transition-colors ${
-                      cfg.direction === val ? "bg-primary text-primary-foreground" : "text-muted-foreground hover:text-foreground"
-                    }`}
-                  >
-                    {label}
-                  </button>
-                ))}
-              </div>
-            </div>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">Nguồn từ mới</span>
-              <select
-                value={cfg.newLevel}
-                onChange={(e) => patch({ newLevel: Number(e.target.value) })}
-                className="rounded-xl border bg-background px-3 py-2 text-base outline-none focus:border-ring focus:ring-2 focus:ring-ring/40"
-              >
-                <option value={0}>Tự động (thấp → cao)</option>
-                {LEVELS.map((l) => (
-                  <option key={l.level} value={l.level}>
-                    {l.label}
-                  </option>
-                ))}
-              </select>
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                🔊 Âm thanh
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  tự đọc từ/câu khi hiện thẻ và sau khi trả lời, câu hỏi nghe, nhạc chúc mừng — tắt khi học ở nơi không mở
-                  tiếng được (nút loa vẫn bấm nghe được khi cần)
-                </span>
-              </span>
-              <input
-                type="checkbox"
-                checked={cfg.soundEnabled !== false}
-                onChange={(e) => patch({ soundEnabled: e.target.checked })}
-                className="size-5 accent-primary"
-              />
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                Nghe trong bài chính
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  {cfg.soundEnabled === false
-                    ? "đang tắt theo Âm thanh — bật Âm thanh lại thì dùng được"
-                    : "phát audio từ → chọn nghĩa; chỉ bỏ riêng dạng câu này, các thẻ khác vẫn tự đọc"}
-                </span>
-              </span>
-              <input
-                type="checkbox"
-                checked={cfg.listenEnabled !== false && cfg.soundEnabled !== false}
-                disabled={cfg.soundEnabled === false}
-                onChange={(e) => patch({ listenEnabled: e.target.checked })}
-                className="size-5 accent-primary disabled:opacity-40"
-              />
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                ② Điền từ vào câu
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  là đợt riêng sau bài chính nên vẫn luôn có bài nhận biết/nhớ từ; ưu tiên câu chưa dùng cho ghép
-                </span>
-              </span>
-              <select
-                aria-label="Số câu điền mỗi từ"
-                value={cfg.clozePerWord ?? (cfg.clozeEnabled !== false ? 1 : 0)}
-                onChange={(e) => {
-                  const n = Number(e.target.value);
-                  void patch({ clozePerWord: n, clozeEnabled: n > 0 });
-                }}
-                className="rounded-xl border bg-background px-3 py-2 text-base outline-none focus:border-ring focus:ring-2 focus:ring-ring/40"
-              >
-                <option value={0}>Tắt</option>
-                <option value={1}>1 câu</option>
-                <option value={2}>2 câu</option>
-                <option value={3}>3 câu</option>
-                <option value={5}>5 câu</option>
-              </select>
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                Nghĩa câu khi đang làm
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  hiện bản dịch tiếng Việt ngay từ đầu ở câu điền từ & ghép câu — tắt (mặc định) thì làm xong mới hiện, không bị nghĩa mớm đáp án
-                </span>
-              </span>
-              <input
-                type="checkbox"
-                checked={cfg.sentenceVi === true}
-                onChange={(e) => patch({ sentenceVi: e.target.checked })}
-                className="size-5 accent-primary"
-              />
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                ③ Câu ghép mỗi từ
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  luyện sắp xếp câu ở đợt riêng; ưu tiên câu khác với bài điền và phù hợp vốn từ của bạn
-                </span>
-              </span>
-              <select
-                aria-label="Số câu ghép mỗi từ"
-                value={cfg.arrangePerWord}
-                onChange={(e) => patch({ arrangePerWord: Number(e.target.value) })}
-                className="rounded-xl border bg-background px-3 py-2 text-base outline-none focus:border-ring focus:ring-2 focus:ring-ring/40"
-              >
-                <option value={0}>Tắt</option>
-                <option value={1}>1 câu</option>
-                <option value={2}>2 câu</option>
-                <option value={3}>3 câu</option>
-                <option value={5}>5 câu (tất cả)</option>
-              </select>
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                Câu vừa sức
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  ưu tiên câu có đủ tỉ lệ từ bạn đã học; A1–A2 và chính từ đang luyện luôn được tính là đã biết
-                </span>
-              </span>
-              <select
-                aria-label="Mức câu vừa sức"
-                value={cfg.sentenceKnownMin}
-                onChange={(e) => patch({ sentenceKnownMin: Number(e.target.value) })}
-                className="rounded-xl border bg-background px-3 py-2 text-base outline-none focus:border-ring focus:ring-2 focus:ring-ring/40"
-              >
-                <option value={0}>Không lọc</option>
-                <option value={0.6}>≥ 60%</option>
-                <option value={0.7}>≥ 70%</option>
-                <option value={0.8}>≥ 80%</option>
-              </select>
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                Xáo trộn các đợt
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  giãn các bài của cùng một từ bằng bài của từ khác để tránh học thuộc theo thứ tự
-                </span>
-              </span>
-              <input
-                type="checkbox"
-                checked={cfg.interleave !== false}
-                onChange={(e) => patch({ interleave: e.target.checked })}
-                className="size-5 accent-primary"
-              />
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                Nhớ lại trước
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">ẩn đáp án, tự nhớ trong đầu rồi mới bấm hiện (nhớ lâu hơn)</span>
-              </span>
-              <input
-                type="checkbox"
-                checked={cfg.recallFirst !== false}
-                onChange={(e) => patch({ recallFirst: e.target.checked })}
-                className="size-5 accent-primary"
-              />
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                Gõ chính tả
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">
-                  thỉnh thoảng bắt gõ lại từ thay vì chọn phương án — từ thẻ đã gặp ≥3 lần / bền ≥7 ngày trở đi (nhớ mặt chữ, không chỉ nhận ra)
-                </span>
-              </span>
-              <input
-                type="checkbox"
-                checked={cfg.spelling !== false}
-                onChange={(e) => patch({ spelling: e.target.checked })}
-                className="size-5 accent-primary"
-              />
-            </label>
-
-            <label className="flex items-center justify-between gap-4">
-              <span className="text-sm font-medium">
-                Tự chuyển khi đúng
-                <span className="mt-0.5 block text-xs font-normal text-muted-foreground">trả lời đúng → tự sang thẻ kế</span>
-              </span>
-              <input
-                type="checkbox"
-                checked={cfg.autoAdvance}
-                onChange={(e) => patch({ autoAdvance: e.target.checked })}
-                className="size-5 accent-primary"
-              />
-            </label>
-
-            {/* Sao lưu/khôi phục nằm ở trang Cài đặt — chỉ dẫn đường sang, không nhân đôi giao
-                diện xuất/nhập ở hai nơi (dễ lệch nhau khi sửa). */}
-            <Link
-              href="/cai-dat"
-              className="flex items-center justify-between gap-3 rounded-2xl border px-4 py-3 text-sm font-medium transition-colors hover:bg-muted"
-            >
-              💾 Sao lưu &amp; khôi phục tiến độ
-              <span className="text-xs text-muted-foreground">trang Cài đặt →</span>
-            </Link>
-          </div>
-        </details>
-      )}
+      {/* Cài đặt — mở ngăn Cài đặt dùng chung (cùng ngăn với nút ⚙️ trên topbar): một chạm là thấy
+          đủ mọi mục, kể cả sao lưu, không phải trỏ qua lại giữa hai trang như trước. */}
+      <button
+        type="button"
+        onClick={openSettings}
+        aria-haspopup="dialog"
+        className="flex w-full items-center justify-between gap-3 rounded-3xl border p-5 text-left transition-colors hover:bg-muted/50"
+      >
+        <span className="min-w-0">
+          <span className="block text-sm font-semibold text-muted-foreground">⚙️ Cài đặt</span>
+          <span className="mt-0.5 block truncate text-xs text-muted-foreground">
+            Từ mới mỗi ngày, dạng bài, âm thanh, sao lưu…
+          </span>
+        </span>
+        <ChevronRight className="size-4 shrink-0 text-muted-foreground" />
+      </button>
     </div>
   );
 }

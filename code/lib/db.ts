@@ -105,7 +105,22 @@ export async function setConfig(patch: Partial<SrsConfig>): Promise<SrsConfig> {
   } catch {
     /* bỏ qua */
   }
+  try {
+    window.dispatchEvent(new CustomEvent<SrsConfig>(CONFIG_EVENT, { detail: value }));
+  } catch {
+    /* bỏ qua (chạy ngoài trình duyệt) */
+  }
   return value;
+}
+
+/** Cài đặt mở được ở MỌI trang (ngăn Cài đặt trên topbar) → nơi nào đang giữ bản cấu hình
+ *  (màn Ôn tập, phiên học đang chạy, số từ mới còn lại…) nghe sự kiện này để cập nhật ngay,
+ *  không phải rời trang vào lại mới thấy thay đổi. */
+export const CONFIG_EVENT = "en:config";
+export function onConfigChanged(cb: (cfg: SrsConfig) => void): () => void {
+  const h = (e: Event) => cb((e as CustomEvent<SrsConfig>).detail);
+  window.addEventListener(CONFIG_EVENT, h);
+  return () => window.removeEventListener(CONFIG_EVENT, h);
 }
 
 // ---- Ngày địa phương "YYYY-MM-DD" ----

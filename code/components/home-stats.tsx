@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 import type { ReactNode } from "react";
 import { Flame, GraduationCap, Library, Plus, Volume2 } from "lucide-react";
-import { countDue, getConfig, newTodayCount, progressSummary } from "@/lib/db";
+import { countDue, getConfig, newTodayCount, onConfigChanged, progressSummary } from "@/lib/db";
 import { onSyncMerged } from "@/lib/sync";
 
 // Hero trang chủ (bố cục bento giống HSK): hộp "Hôm nay" + 2 nút Ôn tập / Học từ mới,
@@ -29,8 +29,14 @@ export default function HomeStats() {
       setNewRemain(Math.max(0, cfg.newPerDay - nToday));
     };
     void load();
-    // kéo tiến độ máy khác về → số đến hạn/chuỗi ngày phải nhảy theo ngay
-    return onSyncMerged(() => void load());
+    // kéo tiến độ máy khác về → số đến hạn/chuỗi ngày phải nhảy theo ngay;
+    // đổi "Từ mới mỗi ngày" trong ngăn Cài đặt → số từ mới còn lại cũng vậy
+    const offSync = onSyncMerged(() => void load());
+    const offCfg = onConfigChanged(() => void load());
+    return () => {
+      offSync();
+      offCfg();
+    };
   }, []);
 
   const d = due ?? -1;

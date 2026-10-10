@@ -1,6 +1,5 @@
 import type { Metadata, Viewport } from "next";
 import Link from "next/link";
-import { Settings } from "lucide-react";
 import "./globals.css";
 import SwRegister from "@/components/sw-register";
 import BottomNav from "@/components/bottom-nav";
@@ -10,6 +9,7 @@ import { ThemeToggle } from "@/components/theme-toggle";
 import AuthSync from "@/components/auth-sync";
 import AuthGate from "@/components/auth-gate";
 import { StorageAlert } from "@/components/storage-alert";
+import SettingsSheet, { SettingsButton } from "@/components/settings-sheet";
 
 export const metadata: Metadata = {
   title: "Từ vựng tiếng Anh",
@@ -73,13 +73,8 @@ export default function RootLayout({
               <LevelChip />
               <AuthSync />
               <ThemeToggle />
-              <Link
-                href="/cai-dat"
-                aria-label="Cài đặt"
-                className="grid size-9 place-items-center rounded-full border bg-background text-muted-foreground transition-colors hover:text-foreground"
-              >
-                <Settings className="size-4" />
-              </Link>
+              {/* mở thẳng ngăn Cài đặt ngay tại trang đang đứng — không chuyển trang */}
+              <SettingsButton />
             </div>
           </div>
         </header>
@@ -88,6 +83,7 @@ export default function RootLayout({
           {children}
         </main>
         <BottomNav />
+        <SettingsSheet />
         </AuthGate>
       </body>
     </html>

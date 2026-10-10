@@ -12,22 +12,28 @@ function isDark() {
   return document.documentElement.classList.contains("dark");
 }
 
+/** Giao diện tối đang bật? — dùng chung cho nút trên topbar và mục Giao diện trong Cài đặt. */
+export function useDarkMode(): boolean {
+  return useSyncExternalStore(subscribe, isDark, () => false);
+}
+
+export function setDarkMode(dark: boolean) {
+  document.documentElement.classList.toggle("dark", dark);
+  try {
+    localStorage.setItem("en.theme", dark ? "dark" : "light");
+  } catch {
+    /* bỏ qua */
+  }
+  window.dispatchEvent(new Event("fr-theme"));
+}
+
 export function ThemeToggle() {
-  const dark = useSyncExternalStore(subscribe, isDark, () => false);
+  const dark = useDarkMode();
   return (
     <button
       type="button"
       aria-label="Đổi giao diện sáng/tối"
-      onClick={() => {
-        const next = !document.documentElement.classList.contains("dark");
-        document.documentElement.classList.toggle("dark", next);
-        try {
-          localStorage.setItem("en.theme", next ? "dark" : "light");
-        } catch {
-          /* bỏ qua */
-        }
-        window.dispatchEvent(new Event("fr-theme"));
-      }}
+      onClick={() => setDarkMode(!dark)}
       className="inline-flex size-9 items-center justify-center rounded-full border bg-background text-muted-foreground transition-colors hover:text-foreground"
     >
       {dark ? <Sun className="size-4" /> : <Moon className="size-4" />}

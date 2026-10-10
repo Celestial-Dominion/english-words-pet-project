@@ -10,13 +10,14 @@ import Link from "next/link";
 import { Headphones, Puzzle, ChevronLeft } from "lucide-react";
 import { practiceCounts, gatherPracticeSentences, type PracticeScope, type PracticeSentence } from "@/lib/practice-free";
 import { tokenize, arrangeReady, ARRANGE_TOKENS } from "@/lib/review-session";
-import { learnedIds, recordPractice, addXp, getConfig } from "@/lib/db";
+import { learnedIds, recordPractice, addXp, getConfig, onConfigChanged } from "@/lib/db";
 import { XP } from "@/lib/gamify";
 import { LEVELS, FOUNDATION } from "@/lib/levels";
 import SentenceArrange from "@/components/sentence-arrange";
 import DictationCard from "@/components/dictation-card";
 import Celebration, { primeCelebrationAudio } from "@/components/celebration";
 import { cn } from "@/lib/utils";
+import type { SrsConfig } from "@/lib/types";
 
 type Mode = "dictation" | "arrange";
 const SESSION_SIZE = 10;
@@ -43,10 +44,12 @@ export default function LuyenTapPage() {
 
   useEffect(() => {
     practiceCounts().then(setCounts);
-    getConfig().then((c) => {
+    const apply = (c: SrsConfig) => {
       setShowVi(c.sentenceVi);
       setSound(c.soundEnabled !== false);
-    });
+    };
+    getConfig().then(apply);
+    return onConfigChanged(apply); // đổi trong ngăn Cài đặt → áp dụng ngay, không cần tải lại trang
   }, []);
 
   // Chế độ THỰC dùng: âm thanh tắt thì không thể nghe & gõ → luôn là ghép câu. Không ghi đè

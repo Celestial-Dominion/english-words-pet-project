@@ -14,7 +14,7 @@ import {
 import { warmSession } from "@/lib/warm";
 import { requestSync } from "@/lib/sync";
 import { posLabel } from "@/lib/pos";
-import { db, learnedIds, newTodayCount, getConfig } from "@/lib/db";
+import { db, learnedIds, newTodayCount, getConfig, onConfigChanged } from "@/lib/db";
 import { buildQuestions, type Question } from "@/lib/review-session";
 import { isKnownPending, MATURE_STABILITY } from "@/lib/srs-pure";
 import { levelMeta, levelAccent } from "@/lib/levels";
@@ -121,6 +121,16 @@ export default function WordBrowser({ level }: { level: number }) {
     // eslint-disable-next-line react-hooks/set-state-in-effect
     refreshNew();
   }, [refreshNew]);
+  // Ngăn Cài đặt mở được ngay giữa phiên học → phiên đang chạy dùng cấu hình mới (âm thanh,
+  // tự chuyển…), số từ mới còn lại cũng tính lại theo hạn mức mới.
+  useEffect(
+    () =>
+      onConfigChanged((c) => {
+        setConfig(c);
+        void refreshNew();
+      }),
+    [refreshNew],
+  );
 
   const startLearn = async (force = false) => {
     if (!words) return;

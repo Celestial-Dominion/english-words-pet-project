@@ -283,6 +283,7 @@ test("gõ chính tả: thẻ đã chín ra bài gõ, lệch 1 ký tự vẫn tí
   await page.getByText("⚙️ Cài đặt").click();
   await page.getByLabel("Số câu điền mỗi từ").selectOption("0");
   await page.getByLabel("Số câu ghép mỗi từ").selectOption("0");
+  await page.keyboard.press("Escape"); // đóng ngăn Cài đặt (phủ lên màn ôn)
   // Loại câu hỏi bốc theo Math.random → ghim lại để bài gõ chắc chắn ra (0.5 rơi vào ô "spell").
   // Phải ghim SAU khi trang hydrate xong (ghim trước bằng addInitScript làm hỏng hydrate của Next dev).
   await expect(page.getByRole("button", { name: /Ôn sớm/ }).first()).toBeVisible();
@@ -416,14 +417,56 @@ test("ôn tập: có dòng trạng thái đồng bộ + công tắc từng dạn
   await row("🔊 Âm thanh").locator('input[type="checkbox"]').click();
   await expect(row("🔊 Âm thanh").locator('input[type="checkbox"]')).not.toBeChecked();
   await expect(row("Nghe trong bài chính").locator('input[type="checkbox"]')).toBeDisabled();
-  await expect(page.getByRole("link", { name: /Sao lưu/ })).toBeVisible();
+  // sao lưu nằm ngay trong cùng ngăn — không phải sang trang khác
+  await expect(page.getByRole("button", { name: /Xuất tệp/ })).toBeVisible();
 });
 
-test("cài đặt: đổi hướng hỏi được lưu lại", async ({ page }) => {
+test("cài đặt: nút ⚙️ trên topbar mở thẳng ngăn cài đặt ở mọi trang, đổi xong áp dụng ngay", async ({ page }) => {
   await freshStart(page, "/on-tap");
-  const settings = page.getByRole("button", { name: /Cài đặt/ }).first();
-  if (await settings.isVisible().catch(() => false)) {
-    await settings.click();
-    await expect(page.getByText("Hướng hỏi")).toBeVisible();
-  }
+  const gear = page.getByRole("button", { name: "Cài đặt", exact: true });
+  const sheet = page.getByRole("dialog", { name: "Cài đặt" });
+  await expect(page.getByRole("link", { name: /Học từ mới \(5\)/ })).toBeVisible();
+
+  // một chạm là tới các cài đặt học; đổi xong màn bên dưới nhảy theo, không cần tải lại
+  await gear.click();
+  await expect(sheet).toBeVisible();
+  await sheet.getByRole("button", { name: "Thêm 1" }).click();
+  await expect(sheet.getByLabel("Từ mới mỗi ngày")).toHaveValue("6");
+  await page.keyboard.press("Escape");
+  await expect(sheet).toHaveCount(0);
+  await expect(page.getByRole("link", { name: /Học từ mới \(6\)/ })).toBeVisible();
+
+  // mở từ trang khác cũng được; hướng hỏi lưu qua lần tải lại
+  await page.goto("/doc");
+  await gear.click();
+  await sheet.getByRole("button", { name: "Nghĩa→Anh" }).click();
+  await expect(sheet.getByRole("button", { name: "Nghĩa→Anh" })).toHaveAttribute("aria-pressed", "true");
+  await page.reload();
+  await gear.click();
+  await expect(sheet.getByRole("button", { name: "Nghĩa→Anh" })).toHaveAttribute("aria-pressed", "true");
+  await expect(sheet.getByRole("button", { name: /Xuất tệp/ })).toBeVisible();
+  // bấm nền tối bên ngoài → đóng
+  await page.mouse.click(195, 20);
+  await expect(sheet).toHaveCount(0);
+});
+
+test("cài đặt: mở được ngay giữa phiên học — không hỏi rời phiên, phím gõ không lọt xuống phiên", async ({ page }) => {
+  await freshStart(page, "/hoc/1");
+  await page.getByRole("button", { name: /Học \(/ }).click();
+  await expect(page.getByText(/Từ mới — học trước nhé/)).toBeVisible();
+  const count = page.getByText(/^1\/\d+$/);
+  await expect(count).toBeVisible();
+
+  await page.getByRole("button", { name: "Cài đặt", exact: true }).click();
+  const sheet = page.getByRole("dialog", { name: "Cài đặt" });
+  await expect(sheet).toBeVisible();
+  await expect(page.getByText("Thoát phiên ôn?")).toHaveCount(0);
+  // Enter/Space trong ngăn không được bấm "Đã xem — Kiểm tra" của thẻ học bên dưới
+  await page.keyboard.press("Enter");
+  await page.keyboard.press(" ");
+  await sheet.getByLabel(/Tự chuyển khi đúng/).click();
+  await expect(sheet.getByLabel(/Tự chuyển khi đúng/)).not.toBeChecked();
+  await page.keyboard.press("Escape");
+  await expect(sheet).toHaveCount(0);
+  await expect(count).toBeVisible(); // vẫn đứng nguyên ở thẻ đầu, phiên không bị đẩy đi
 });
