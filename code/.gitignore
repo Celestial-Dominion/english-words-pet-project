@@ -49,6 +49,8 @@ next-env.d.ts
 /.firebase/
 /scripts/.deploy.log
 /scripts/.build.log
+/scripts/.deploy-*.txt
+/firebase-debug*.log
 /test-results/
 /playwright-report/
 

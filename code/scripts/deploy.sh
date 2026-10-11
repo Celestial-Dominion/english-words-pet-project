@@ -1,17 +1,21 @@
 #!/bin/zsh
-# Deploy app lên Firebase Hosting: build → kiểm bundle có config Firebase → giữ mtime file tĩnh → deploy.
+# Deploy app lên Firebase Hosting: build → kiểm bundle có config Firebase → giữ mtime file tĩnh → ƯỚC LƯỢNG
+# khối lượng + chọn số luồng → deploy → KIỂM BẢN LIVE → ghi số liệu vào .firebase/deploy-history.tsv.
+# Cách chọn số luồng / đọc lịch sử / xử lý sự cố: DEPLOY.md mục "Deploy nhanh và an toàn".
 # Tiến trình ghi vào scripts/.deploy.log (dòng "uploading new files [x/y] (p%)") — xem: scripts/deploy-watch.sh
-# (in mỗi +5% rồi tự thoát; dùng làm lệnh Monitor khi deploy chạy nền) hoặc tail -f scripts/.deploy.log
+# (in mỗi +5% rồi tự thoát; dùng làm lệnh Monitor khi deploy chạy nền).
 #
-#   npm run deploy                   build lại rồi deploy (= scripts/deploy.sh)
+#   npm run deploy                   build lại rồi deploy (= scripts/deploy.sh), số luồng tự chọn
 #   SKIP_BUILD=1 scripts/deploy.sh   dùng out/ có sẵn (vừa build xong)
-#   CONC=8 scripts/deploy.sh         ép số luồng tải (mặc định: 8 nếu nhiều MP3 mới, còn lại 32)
+#   PLAN=1 scripts/deploy.sh         build + ước lượng + đề xuất số luồng rồi DỪNG (không deploy)
+#   ACCOUNT=<email> scripts/deploy.sh   chỉ rõ tài khoản Firebase (khi chạy từ bản sao ở thư mục khác)
+#   CONC=N scripts/deploy.sh         ép N luồng (4–200) — AI cân nhắc theo DEPLOY.md
 #
-# Mã build lấy từ băm mã nguồn (next.config.ts) → deploy chỉ có nội dung mới chỉ tải trang đổi + dữ liệu + MP3 mới.
+# Mã build lấy từ băm mã nguồn (next.config.ts) → deploy chỉ có nội dung chỉ tải trang đổi + dữ liệu + MP3 mới.
 set -e
 cd "$(dirname "$0")/.."
 LOG=scripts/.deploy.log
-STAMP=.firebase/last-deploy
+HIST=.firebase/deploy-history.tsv
 mkdir -p .firebase
 T0=$(date +%s)
 
@@ -30,19 +34,85 @@ echo "▸ bundle có config Firebase ✓"
 
 python3 scripts/out-mtime.py
 
-# Nhiều MP3 mới (0,5–2 MB/file) mà nhiều luồng → mỗi file bị chia băng thông, quá thời gian chờ (2026-09-28)
+# Kế hoạch: bao nhiêu file đổi, bao nhiêu file lớn → số luồng đề xuất (lý do: DEPLOY.md)
+node scripts/deploy-plan.mjs > scripts/.deploy-plan.txt || { cat scripts/.deploy-plan.txt; echo "✗ không ước lượng được"; exit 1; }
+grep -v '^PLAN ' scripts/.deploy-plan.txt
+P=$(grep '^PLAN ' scripts/.deploy-plan.txt)
+pv() { echo "$P" | grep -oE "$1=[0-9.]+" | cut -d= -f2 }
+AUTO=$(pv conc)
 if [[ -z "$CONC" ]]; then
-  if [[ -f $STAMP ]]; then NEW=$(find public/audio -name '*.mp3' -newer $STAMP | wc -l | tr -d ' '); else NEW=999999; fi
-  if (( NEW > 100 )); then CONC=8; else CONC=32; fi
-  echo "▸ MP3 mới từ lần deploy trước: $NEW → $CONC luồng"
+  CONC=$AUTO
+  echo "▸ số luồng: $CONC (tự chọn)"
+else
+  echo "▸ số luồng: $CONC (ép; tự chọn sẽ là $AUTO)"
 fi
+(( CONC >= 4 && CONC <= 200 )) || { echo "✗ CONC phải trong khoảng 4–200"; exit 1; }
+[[ -n "$PLAN" ]] && { echo "▸ PLAN=1 → dừng ở đây, chưa deploy"; exit 0; }
+
+[[ -f $HIST ]] || print -r -- $'thời điểm\tmã build\tluồng\tfile dự kiến\tMB\tfile ≥256KB\tfile đã tải\tthử lại\tlỗi tải\tHTTP lỗi\tphút tải\tfile/giây\tkết quả\tkiểm live' > $HIST
+
+# Deploy từ BẢN SAO ở thư mục khác (vd thử deploy khi thư mục chính đang có việc dở): firebase-tools gắn tài
+# khoản Google theo thư mục nên phải chỉ rõ — ACCOUNT=<email> (xem `npx firebase login:list`).
+acct=(); [[ -n "$ACCOUNT" ]] && acct=(--account "$ACCOUNT")
+# DEBUG=true: firebase-tools ghi log debug (gồm thống kê hàng đợi tải: thử lại, lỗi, thời gian) — để đo chất lượng.
+deploy_once() {
+  rm -f firebase-debug.log
+  DEBUG=true FIREBASE_HOSTING_UPLOAD_CONCURRENCY=$1 npx firebase deploy $acct --only hosting --non-interactive > $LOG 2>&1
+}
+# firebase-tools đôi khi ném "Timed out" SAU khi đã "Deploy complete!" (tác vụ phụ sau release — app Pháp
+# 2026-10-10) → bản đã lên rồi; chỉ coi là lỗi khi log KHÔNG có dòng hoàn tất.
+released() { grep -q "Deploy complete!" $LOG }
+# Một dòng lịch sử cho lần chạy vừa xong: $1 = luồng, $2 = kết quả, $3 = kiểm live
+record() {
+  local F=$(grep -F "[hosting][upload queue][FINAL]" $LOG | tail -1 | grep -oE '\{.*\}')
+  jv() { echo "$F" | grep -oE "\"$1\":[0-9.]+" | cut -d: -f2 }
+  local total=$(jv total) retried=$(jv retried) errored=$(jv errored) ms=$(jv elapsed)
+  local http=$(grep -cE "HTTP ERROR [0-9]+" $LOG || true)
+  local mins=- rate=-
+  # 0 file phải tải → firebase-tools báo elapsed tính từ mốc 0 (vô nghĩa) → bỏ
+  if (( ${total:-0} == 0 )); then mins=0
+  elif [[ -n "$ms" ]] && (( ms > 0 )); then
+    mins=$(printf '%.1f' $(( ms / 60000.0 )))
+    rate=$(printf '%.1f' $(( ${total:-0} * 1000.0 / ms )))
+  fi
+  printf '%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n' "$(date '+%Y-%m-%d %H:%M')" \
+    "$(cat .next/BUILD_ID 2>/dev/null || echo -)" "$1" "$(pv files)" "$(pv mb)" "$(pv large)" \
+    "${total:--}" "${retried:--}" "${errored:--}" "$http" "$mins" "$rate" "$2" "$3" >> $HIST
+  echo "  số liệu: tải ${total:-0} file trong $mins phút ($rate file/giây) · thử lại ${retried:-0} · lỗi ${errored:-0} · HTTP lỗi $http"
+}
+# 28/09 (app HSK) lỗi quá hạn chờ hiện thành "Timed out" / "Converting circular structure to JSON"
+UPLOAD_ERR='HTTP ERROR [0-9]+|Timed out|Unexpected error while uploading|circular structure|AbortError|ECONNRESET|ETIMEDOUT|socket hang up|RESOURCE_EXHAUSTED'
 
 START=$(date +%s)
-touch .firebase/deploy-start
 echo "▸ deploy (log: $LOG)…"
-FIREBASE_HOSTING_UPLOAD_CONCURRENCY=$CONC npx firebase deploy --only hosting --non-interactive > $LOG 2>&1 || { tail -20 $LOG; echo "✗ deploy lỗi"; exit 1; }
-mv .firebase/deploy-start $STAMP
+if ! deploy_once $CONC; then
+  if released; then
+    echo "⚠ firebase-tools báo lỗi sau khi đã release xong — bỏ qua ($(grep -m1 -o 'Error: .*' $LOG | cut -c1-200))"
+  # Lỗi trong lúc TẢI thì bản live chưa đổi (Firebase chỉ phát hành khi tải đủ) → hạ luồng thử lại một lần;
+  # file đã lên được server giữ, lần sau chỉ tải phần thiếu.
+  elif grep -qE "$UPLOAD_ERR" $LOG; then
+    tail -5 $LOG | cut -c1-300
+    record $CONC "lỗi tải" -
+    LOW=$(( CONC / 4 )); (( LOW < 4 )) && LOW=4
+    echo "▸ lỗi khi tải ở $CONC luồng (bản live CHƯA đổi) → thử lại một lần với $LOW luồng"
+    CONC=$LOW
+    if ! deploy_once $CONC && ! released; then
+      tail -5 $LOG | cut -c1-300; record $CONC "lỗi tải" -; rm -f firebase-debug.log
+      echo "✗ deploy lỗi (bản live chưa đổi)"; exit 1
+    fi
+  else
+    tail -20 $LOG | cut -c1-300; rm -f firebase-debug.log
+    echo "✗ deploy lỗi"; exit 1
+  fi
+fi
+rm -f firebase-debug.log # trùng nội dung với $LOG
 grep -E "found [0-9]+ files" $LOG | head -1
 U=$(grep -E "uploading new files" $LOG | tail -1); echo "${U:-  0 file mới cần tải}"
 END=$(date +%s)
 echo "✓ deploy xong sau $(( (END - START) / 60 )) phút $(( (END - START) % 60 )) giây (cả build: $(( (END - T0) / 60 )) phút $(( (END - T0) % 60 )) giây)"
+
+# Kiểm bản live: tải lại trang chủ + mẫu file vừa đổi, so byte với out/. Ghi cả vào log để
+# deploy-watch.sh báo được kết quả cuối (nó thoát ở dòng "số liệu").
+if V=$(node scripts/deploy-verify.mjs 40); then R=khớp; else R=LỆCH; fi
+{ echo "$V"; record $CONC "xong" "$R"; } | tee -a $LOG
+[[ $R == khớp ]] || { echo "✗ bản live khác out/ — xem DEPLOY.md mục Khi có sự cố"; exit 1; }
