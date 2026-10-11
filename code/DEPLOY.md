@@ -83,15 +83,14 @@ Mục tiêu: tải **nhanh nhất mà không làm tăng thử lại/lỗi**. AI 
 rõ số luồng đã chọn + lý do + số liệu cuối (file/giây, thử lại, kiểm live).
 
 **Bước 1 — xem kế hoạch:** `PLAN=1 scripts/deploy.sh` (hoặc đọc phần kế hoạch đầu output khi deploy luôn).
-Dòng máy đọc: `PLAN files=… mb=… large=… mp3=… conc=…`, kèm 5 dòng lịch sử gần nhất.
+Dòng máy đọc: `PLAN files=… mb=… large=… mp3=… conc=… up=…` (up = Mbps tải lên đo được, 0 = không đo), kèm 5 dòng lịch sử gần nhất.
 
 **Bước 2 — mặc định của script** (đủ tốt cho phần lớn lần deploy):
 
 | Khối lượng sắp tải | Luồng | Vì sao |
 |---|---|---|
-| > 100 file ≥256 KB (đợt MP3/video mới) | 8 | Nghẽn **băng thông**: nhiều luồng chia nhau đường lên, file lớn quá hạn chờ (~30 s/file) → thử lại hàng trăm lần rồi hỏng (app HSK 28/09: 200 luồng hỏng, 8 luồng ổn ~400 file/phút). |
-| 21–100 file lớn | 32 | Trộn file lớn với trang. |
-| ≤ 20 file lớn (chủ yếu trang HTML/RSC, JSON nhỏ) | 100 | Nghẽn ở **độ trễ từng file**, không phải băng thông (app HSK 11/10: 16.575 trang ~200 MB ở 32 luồng mất 13 phút, ~21 file/giây; ở 100 luồng 4 phút, 68 file/giây, thử lại 0,05%, 0 lỗi). |
+| > 20 file ≥256 KB (MP3 bài đọc/chương, video mới) | tốc độ tải lên (KB/s) ÷ 150, kẹp 4–100 — script tự đo bằng `networkQuality` (~15 s; `UPLINK_MBPS=…` để khỏi đo; không đo được → 8) | Nghẽn **băng thông** tải lên. firebase-tools cho mỗi file thời gian chờ max(30 s, 20 ms/KB) → mỗi luồng cần ≥ 50 KB/s; chia 150 là chừa gấp 3. App HSK 28/09: 200 luồng trên đường ~5,5 MB/s = 27 KB/s mỗi luồng → quá hạn chờ hàng loạt. Mạng 44–57 Mbps (đo 11/10) → 36–47 luồng; trước đây cố định 8 nên cả phần file nhỏ trong đợt (câu ví dụ, trang, JSON) chỉ chạy ~7 file/giây. |
+| ≤ 20 file lớn (chủ yếu trang HTML/RSC, JSON nhỏ, MP3 câu ví dụ ~18 KB) | 100 | Nghẽn ở **độ trễ từng file**, không phải băng thông (app HSK 11/10: 16.575 trang ~200 MB ở 32 luồng mất 13 phút, ~21 file/giây; ở 100 luồng 4 phút, 68 file/giây, thử lại 0,05%, 0 lỗi). |
 
 **Bước 3 — điều chỉnh theo lịch sử** (so với lần trước CÙNG loại khối lượng):
 

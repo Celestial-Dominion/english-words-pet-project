@@ -9,6 +9,7 @@
 #   SKIP_BUILD=1 scripts/deploy.sh   dùng out/ có sẵn (vừa build xong)
 #   PLAN=1 scripts/deploy.sh         build + ước lượng + đề xuất số luồng rồi DỪNG (không deploy)
 #   ACCOUNT=<email> scripts/deploy.sh   chỉ rõ tài khoản Firebase (khi chạy từ bản sao ở thư mục khác)
+#   UPLINK_MBPS=50 scripts/deploy.sh    đợt nhiều file lớn: dùng số này thay vì đo tải lên (~15 s)
 #   CONC=N scripts/deploy.sh         ép N luồng (4–200) — AI cân nhắc theo DEPLOY.md
 #
 # Mã build lấy từ băm mã nguồn (next.config.ts) → deploy chỉ có nội dung chỉ tải trang đổi + dữ liệu + MP3 mới.
@@ -49,7 +50,9 @@ fi
 (( CONC >= 4 && CONC <= 200 )) || { echo "✗ CONC phải trong khoảng 4–200"; exit 1; }
 [[ -n "$PLAN" ]] && { echo "▸ PLAN=1 → dừng ở đây, chưa deploy"; exit 0; }
 
-[[ -f $HIST ]] || print -r -- $'thời điểm\tmã build\tluồng\tfile dự kiến\tMB\tfile ≥256KB\tfile đã tải\tthử lại\tlỗi tải\tHTTP lỗi\tphút tải\tfile/giây\tkết quả\tkiểm live' > $HIST
+[[ -f $HIST ]] || print -r -- $'thời điểm\tmã build\tluồng\tfile dự kiến\tMB\tfile ≥256KB\tfile đã tải\tthử lại\tlỗi tải\tHTTP lỗi\tphút tải\tfile/giây\tkết quả\tkiểm live\tMbps lên' > $HIST
+# lịch sử cũ (14 cột) → thêm cột "Mbps lên" (tốc độ tải lên đo lúc lập kế hoạch; - = không đo)
+head -1 $HIST | grep -q 'Mbps lên' || { awk -F'\t' 'BEGIN { OFS = "\t" } NR == 1 { print $0, "Mbps lên"; next } { print $0, "-" }' $HIST > $HIST.tmp && mv $HIST.tmp $HIST; }
 
 # Deploy từ BẢN SAO ở thư mục khác (vd thử deploy khi thư mục chính đang có việc dở): firebase-tools gắn tài
 # khoản Google theo thư mục nên phải chỉ rõ — ACCOUNT=<email> (xem `npx firebase login:list`).
@@ -75,9 +78,10 @@ record() {
     mins=$(printf '%.1f' $(( ms / 60000.0 )))
     rate=$(printf '%.1f' $(( ${total:-0} * 1000.0 / ms )))
   fi
-  printf '%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n' "$(date '+%Y-%m-%d %H:%M')" \
+  local up=$(pv up); [[ -z "$up" || "$up" == 0 ]] && up=-
+  printf '%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n' "$(date '+%Y-%m-%d %H:%M')" \
     "$(cat .next/BUILD_ID 2>/dev/null || echo -)" "$1" "$(pv files)" "$(pv mb)" "$(pv large)" \
-    "${total:--}" "${retried:--}" "${errored:--}" "$http" "$mins" "$rate" "$2" "$3" >> $HIST
+    "${total:--}" "${retried:--}" "${errored:--}" "$http" "$mins" "$rate" "$2" "$3" "$up" >> $HIST
   echo "  số liệu: tải ${total:-0} file trong $mins phút ($rate file/giây) · thử lại ${retried:-0} · lỗi ${errored:-0} · HTTP lỗi $http"
 }
 # 28/09 (app HSK) lỗi quá hạn chờ hiện thành "Timed out" / "Converting circular structure to JSON"
