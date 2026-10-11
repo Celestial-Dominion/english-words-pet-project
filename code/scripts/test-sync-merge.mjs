@@ -303,4 +303,17 @@ t("config cloud cũ: clozeEnabled=false được chuyển thành 0 câu điền"
   assert.equal(out.clozePerWord, 0);
 });
 
+t("sanitizeConfig: cấp bắt đầu — nhận -1..4, lạ thì bỏ; ảnh chụp cũ chưa có thì giữ lựa chọn máy này", () => {
+  assert.equal(sanitizeConfig({ startLevel: -1 }, DEFAULT_SRS_CONFIG).startLevel, -1);
+  assert.equal(sanitizeConfig({ startLevel: 2 }, DEFAULT_SRS_CONFIG).startLevel, 2);
+  assert.equal("startLevel" in sanitizeConfig({ startLevel: 9 }, DEFAULT_SRS_CONFIG), false);
+  assert.equal("startLevel" in sanitizeConfig({ startLevel: "1" }, DEFAULT_SRS_CONFIG), false);
+  // chưa ai chọn → KHÔNG được tự sinh khoá (để db.getStartLevel suy theo dữ liệu)
+  assert.equal("startLevel" in sanitizeConfig({ newPerDay: 7 }, DEFAULT_SRS_CONFIG), false);
+  // máy cũ (chưa có tính năng) đẩy cài đặt lên thiếu khoá → giữ lựa chọn đã có ở máy này
+  assert.equal(sanitizeConfig({ newPerDay: 7 }, { ...DEFAULT_SRS_CONFIG, startLevel: 0 }).startLevel, 0);
+  // cloud mới hơn có lựa chọn khác → cloud thắng
+  assert.equal(sanitizeConfig({ startLevel: 1 }, { ...DEFAULT_SRS_CONFIG, startLevel: -1 }).startLevel, 1);
+});
+
 console.log(`sync-merge: ${pass} ca đạt${process.exitCode ? " (CÓ LỖI)" : ""}`);

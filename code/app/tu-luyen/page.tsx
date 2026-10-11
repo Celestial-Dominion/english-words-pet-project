@@ -30,7 +30,7 @@ export default function BinhNghiepPage() {
   const stats: Stats = {
     words: sum.words, xp: sum.xp, streak: sum.streak, reads: sum.reads, reviews: sum.reviews,
     correct: sum.correct, activeDays: sum.activeDays, matured: sum.matured, maxDayReviews: sum.maxDayReviews,
-    weekend: sum.weekend, byLevel: sum.byLevel,
+    weekend: sum.weekend, byLevel: sum.byLevel, startLevel: sum.startLevel,
     redeemedLeeches: sum.redeemedLeeches, maxCombo: sum.maxCombo, longestStreak: sum.longestStreak,
     comebackDays: sum.comebackDays, perfectDay: sum.perfectDay,
   };

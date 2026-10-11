@@ -13,6 +13,7 @@ import {
   learnedIds,
   newTodayCount,
   getConfig,
+  getStartLevel,
   onConfigChanged,
   progressSummary,
 } from "@/lib/db";
@@ -89,13 +90,17 @@ export default function OnTapPage() {
         loadLemmaMap(),
         loadWordLevels(),
       ]);
-      const levels = [...new Set(rows.map((r) => r.level))];
+      const startLevel = await getStartLevel(c);
+      // Cấp của từ lấy theo dữ liệu hiện hành (word-levels), r.level chỉ là dự phòng: thẻ từ A1 tạo
+      // trước khi tách A1/A2 còn mang level 0 cũ — tra theo r.level thì không thấy từ, thẻ rơi khỏi phiên.
+      const levelOf = (r: ReviewRecord) => wordLevels[r.wordId] ?? r.level;
+      const levels = [...new Set(rows.map(levelOf))];
       const wordMap = new Map<string, Word>();
       let examples: Record<string, ExampleSentence[]> = {};
       const pool: Word[] = [];
       for (const lv of levels) {
         // chỉ tải shard ví dụ chứa đúng các từ trong phiên (không nạp cả file cấp)
-        const idsOfLevel = rows.filter((r) => r.level === lv).map((r) => r.wordId);
+        const idsOfLevel = rows.filter((r) => levelOf(r) === lv).map((r) => r.wordId);
         const [ws, ex] = await Promise.all([loadWords(lv), loadExamplesForWords(lv, idsOfLevel)]);
         for (const w of ws) {
           wordMap.set(w.id, w);
@@ -105,7 +110,7 @@ export default function OnTapPage() {
       }
       const words = rows.map((r) => wordMap.get(r.wordId)).filter(Boolean) as Word[];
       const recMap = new Map(rows.map((r) => [r.wordId, r]));
-      const qs = buildQuestions(words, examples, pool, c, false, recMap, known, { lemmaMap, wordLevels });
+      const qs = buildQuestions(words, examples, pool, c, false, recMap, known, { lemmaMap, wordLevels, startLevel });
       // 0 câu (dữ liệu từ vựng tải hụt) → ReviewRunner render null = màn hình trắng kẹt.
       if (!qs.length) throw new Error("Không dựng được câu hỏi");
       setSession({ qs, title });

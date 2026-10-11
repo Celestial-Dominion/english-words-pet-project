@@ -3,9 +3,10 @@
 // từ app (nguồn sự thật: public/data/words + word-levels + lemma-map), gán band cấp học liệu.
 //
 // Band (cấp học liệu) = chỉ số trong LEVEL_KEYS: 0 A1 · 1 A2 · 2 B1 · 3 B2 · 4 C1 · 5 C2.
-// Bộ nền (level 0 của app) tách A1/A2 theo nhãn CEFR-J; level 1..4 → band 2..5.
+// Band = level của app + 1 (A1 = -1, A2 = 0 — tách theo nhãn CEFR-J lúc build-assemble; B1..C2 = 1..4).
 import { readFileSync, existsSync } from "node:fs";
 import { join } from "node:path";
+import { loadCefrj } from "./cefrj.mjs";
 
 const ROOT = join(import.meta.dirname, "..", "..");
 const DATA = join(ROOT, "public", "data");
@@ -39,22 +40,14 @@ export function loadVocab() {
   if (V) return V;
   const levels = JSON.parse(readFileSync(join(DATA, "word-levels.json"), "utf8"));
   const lemmaMap = JSON.parse(readFileSync(join(DATA, "lemma-map.json"), "utf8"));
-  const cefrj = new Map();
-  for (const line of readFileSync(join(SCRIPTS, "cefrj-a1b2.csv"), "utf8").split("\n").slice(1)) {
-    const [hw, , c] = line.split(",");
-    if (!hw || !c) continue;
-    for (const h of hw.split("/")) {
-      const k = h.trim().toLowerCase();
-      if (k && (!cefrj.has(k) || c < cefrj.get(k))) cefrj.set(k, c);
-    }
-  }
+  const cefrj = loadCefrj();
   const words = new Map();
   for (const slug of ["foundation", "b1", "b2", "c1", "c2"]) {
     for (const w of JSON.parse(readFileSync(join(DATA, "words", `${slug}.json`), "utf8"))) words.set(w.id, w);
   }
   const band = new Map();
   for (const [id, lv] of Object.entries(levels)) {
-    band.set(id, lv === 0 ? (cefrj.get(id) === "A1" ? 0 : 1) : lv + 1);
+    band.set(id, lv + 1);
   }
   // Zipf (wordfreq) cho trọng số coverage; thiếu thì suy từ hạng tần suất.
   const zipf = new Map();

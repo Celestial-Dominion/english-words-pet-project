@@ -5,7 +5,7 @@ import { X, Volume2, Plus, Check, ArrowLeft, RotateCcw } from "lucide-react";
 import { lookupWord, loadExamplesForWords, loadTopicIds, type ExampleSentence } from "@/lib/data";
 import { posLabel } from "@/lib/pos";
 import { wordAudioUrl, sentenceAudioUrl, playAudio as play } from "@/lib/tts";
-import { getReview, recordAnswer, addXp, getMnemonic, setMnemonic, markKnown, undoMarkKnown, relearnWord } from "@/lib/db";
+import { getReview, recordAnswer, addXp, getMnemonic, setMnemonic, markKnown, undoMarkKnown, relearnWord, getStartLevel } from "@/lib/db";
 import { isKnownPending } from "@/lib/srs-pure";
 import { occurrencesOf, type Occurrence } from "@/lib/suggest";
 import { refHref } from "@/lib/library";
@@ -61,6 +61,7 @@ export default function WordDetail({
   const [occ, setOcc] = useState<Occurrence[]>([]);
   const [gram, setGram] = useState<GrammarWordRef[]>([]);
   const [isBusiness, setIsBusiness] = useState(false); // từ thuộc vốn từ công việc (BSL)
+  const [startLevel, setStartLevel] = useState<number | null>(null); // cấp bắt đầu (cấp thấp hơn = đã bỏ qua)
   // Mở rộng danh sách nghĩa EN — lưu theo id để chuyển sang từ khác là tự thu lại.
   const [showAllEnFor, setShowAllEnFor] = useState<string | null>(null);
   // Điều hướng họ từ NGAY trong modal: bấm "decision" khi đang xem "decide" → chồng thẻ mới,
@@ -81,8 +82,11 @@ export default function WordDetail({
     grammarRefsFor(cur.id).then(setGram).catch(() => {});
     loadTopicIds("business").then((set) => setIsBusiness(set.has(cur.id))).catch(() => {});
   }, [cur.id]);
+  useEffect(() => {
+    getStartLevel().then(setStartLevel).catch(() => {});
+  }, []);
 
-  /** Mở một từ cùng họ (tra qua lemma-map nên chạy được cả với từ nền A1–A2). */
+  /** Mở một từ cùng họ (tra qua lemma-map nên chạy được với từ ở mọi cấp). */
   const openFamily = async (id: string) => {
     const w = await lookupWord(id);
     if (!w) return;
@@ -225,9 +229,9 @@ export default function WordDetail({
                   >
                     <Plus className="size-4" /> Học từ này
                   </button>
-                  {/* Đã biết sẵn → thẻ hẹn kiểm tra sau 1–3 tháng, khỏi học qua phiên từ mới. Từ nền
-                      A1–A2 app vốn coi là đã biết nên không có nút này. */}
-                  {cur.level > 0 && (
+                  {/* Đã biết sẵn → thẻ hẹn kiểm tra sau 1–3 tháng, khỏi học qua phiên từ mới. Từ ở cấp
+                      đã bỏ qua (dưới cấp bắt đầu) app vốn coi là đã biết nên không có nút này. */}
+                  {startLevel !== null && cur.level >= startLevel && (
                     <button
                       onClick={() =>
                         void act(async () => {

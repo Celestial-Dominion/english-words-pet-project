@@ -11,6 +11,8 @@ import { join } from "node:path";
 import { fixWords, newStats } from "./fix-irregular.mjs";
 import { cleanLemmaMap } from "./clean-lemma-map.mjs";
 import { patchRegister } from "./fix-register.mjs";
+import { foundationLevel, cefrjPos } from "./lib/cefrj.mjs";
+import { IPA_A1A2, MEANING_EN_A1A2, POS_A1A2 } from "./lib/a1a2-fixes.mjs";
 
 const HERE = import.meta.dirname;
 const OUT = join(HERE, "out");
@@ -30,6 +32,8 @@ for (const f of existsSync(DONE_DIR) ? readdirSync(DONE_DIR) : []) {
   }
 }
 
+// stage1 gán 0 cho cả bộ A1–A2; tách A1 (-1) / A2 (0) theo nhãn CEFR-J ngay dưới (lib/levels.ts).
+// Hai cấp ghi CHUNG foundation.json (xem phần "xuất theo cấp").
 const SLUG = { 0: "foundation", 1: "b1", 2: "b2", 3: "c1", 4: "c2" };
 const byLevel = { 0: [], 1: [], 2: [], 3: [], 4: [] };
 let translated = 0;
@@ -42,6 +46,7 @@ for (const w of words) {
   const norm = (x) => x.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "");
   const searchTokens = [...new Set([w.id, ...(w.variants ?? []), ...(w.forms ?? [])].map(norm).filter(Boolean))];
   const out = { ...w, meaning_vi: t.vi.trim(), search: searchTokens.join(" ") };
+  if (w.level === 0) out.level = foundationLevel(w.id);
   const coll = (t.coll ?? []).map((c) => String(c).trim()).filter(Boolean).slice(0, 5);
   if (coll.length && w.level >= 1) out.collocations = coll;
   byLevel[w.level].push(out);
@@ -59,6 +64,7 @@ const irrStats = fixWords(allOut, newStats());
 // Hai từ kaikki trả phiên âm kiểu Merriam-Webster (ô ē ī, gạch nối) chứ không phải IPA —
 // override bằng IPA GenAm chuẩn (kiểm tra đợt rà nội dung 08/2026).
 const IPA_OVERRIDE = {
+  ...IPA_A1A2, // bộ A1–A2 (cấp học từ 10/2026): GA âm vị rộng, đối chiếu CMUdict
   doorkeeper: "/ˈdɔɹˌkipɚ/",
   digitalize: "/ˈdɪdʒɪtəˌlaɪz/",
   // nhóm land/play: stage1 mang IPA "biến thể kép" ([A] ~ [B]) nên bước ghép từ ghép
@@ -88,6 +94,13 @@ for (const w of allOut) {
   // thiếu "/" đóng (vd kaikki trả "/fəˈnɑli") → đóng lại
   if (w.ipa.startsWith("/") && !w.ipa.endsWith("/")) w.ipa = `${w.ipa}/`;
   if (w.ipa !== before) ipaFixed++;
+}
+for (const w of allOut) {
+  if (MEANING_EN_A1A2[w.id]) w.meaning_en = MEANING_EN_A1A2[w.id];
+  if (w.level <= 0) {
+    const pos = POS_A1A2[w.id] ?? cefrjPos(w.id);
+    if (pos.length) w.pos = pos;
+  }
 }
 if (ipaFixed) console.log(`IPA chuẩn hoá (bọc / /, bỏ bản ngữ âm hẹp, đóng ngoặc, override): ${ipaFixed} từ`);
 const regFixed = patchRegister(allOut); // nhãn thô tục/miệt thị kaikki bỏ sót

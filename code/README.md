@@ -1,10 +1,13 @@
-# Từ vựng tiếng Anh (B1–C2)
+# Từ vựng tiếng Anh (A1–C2)
 
-Web app cá nhân học từ vựng tiếng Anh trung cấp → thành thạo bằng phương pháp lặp lại
+Web app cá nhân học từ vựng tiếng Anh từ A1 → thành thạo C2 bằng phương pháp lặp lại
 ngắt quãng (FSRS), offline-first (IndexedDB là nguồn sự thật), xuất tĩnh hoàn toàn,
 đồng bộ đa thiết bị qua Firebase. Kế thừa kiến trúc từ app HSK + app tiếng Pháp.
 
 Kế hoạch chi tiết: [`../plan/english_plan.md`](../plan/english_plan.md)
+
+6 cấp học A1–C2 (`lib/levels.ts`): người mới học từ A1, Cài đặt → "Bắt đầu từ cấp" để bỏ qua các cấp dưới
+(chỉ còn tra cứu). Người học từ trước khi có A1/A2 (10/2026, có thẻ B1–C2 cũ) mặc định vẫn bắt đầu B1.
 
 ## Chạy local
 

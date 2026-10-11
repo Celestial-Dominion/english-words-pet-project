@@ -25,7 +25,10 @@ import {
   optionMeaningMap,
 } from "../lib/srs-pure.ts";
 import { lookalikeScore } from "../lib/spell.ts";
-import { LEVELS, FOUNDATION, levelSlug } from "../lib/levels.ts";
+import {
+  LEVELS, levelSlug, routeLevels, resolveStartLevel, validStartLevel, isLegacyRecord,
+  FIRST_LEVEL, LEGACY_START_LEVEL, A1_LAUNCH_DAY, CONTENT_LEVELS, contentAccent, levelAccent,
+} from "../lib/levels.ts";
 import {
   RANKS,
   rankForWords,
@@ -35,6 +38,7 @@ import {
   SPECIAL_BADGES,
   BADGE_GROUPS,
   ROUTE_WORDS,
+  routeWords,
   XP,
   QUEST_POOL,
   dailyQuests,
@@ -275,8 +279,24 @@ t("ngưỡng huy hiệu trong mỗi nhóm theo bậc tăng dần", () => {
   }
 });
 
-t("huy hiệu chiến dịch khớp 4 cấp học B1–C2", () => {
-  assert.deepEqual(CAMPAIGN_BADGES.map((c) => c.cefr), ["B1", "B2", "C1", "C2"]);
+t("huy hiệu chiến dịch khớp 6 cấp học A1–C2", () => {
+  assert.deepEqual(CAMPAIGN_BADGES.map((c) => c.cefr), ["A1", "A2", "B1", "B2", "C1", "C2"]);
+  assert.deepEqual(CAMPAIGN_BADGES.map((c) => c.level), LEVELS.map((l) => l.level));
+});
+
+// Người học cũ (bắt đầu B1 — Stats không có startLevel) phải thấy ĐÚNG bộ huy hiệu như bản 4 cấp:
+// 4 chiến dịch B1–C2, cùng tổng số huy hiệu, cùng chữ "B1–C2".
+t("bắt đầu B1: chiến dịch + tổng huy hiệu y như bản 4 cấp B1–C2", () => {
+  const camp = (s) => badgeGroups(s).find((g) => g.group === "campaign").badges.map((b) => b.id);
+  assert.deepEqual(camp(stats({})), ["camp-1", "camp-2", "camp-3", "camp-4"]);
+  assert.deepEqual(camp(stats({ startLevel: 1 })), ["camp-1", "camp-2", "camp-3", "camp-4"]);
+  assert.deepEqual(camp(stats({ startLevel: -1 })), ["camp-a1", "camp-a2", "camp-1", "camp-2", "camp-3", "camp-4"]);
+  assert.equal(badgeTotals(stats({ startLevel: -1 })).total, badgeTotals(stats({})).total + 2);
+  const sp = (s, id) => badgeGroups(s).find((g) => g.group === "special").badges.find((b) => b.id === id);
+  assert.equal(sp(stats({}), "sp-multi").hint, "Có từ đã học ở cả 4 cấp B1–C2");
+  assert.equal(sp(stats({}), "sp-marechal").hint, `Học trọn toàn bộ ${(10308).toLocaleString("vi")} từ B1–C2`);
+  assert.equal(sp(stats({ startLevel: -1 }), "sp-multi").hint, "Có từ đã học ở cả 6 cấp A1–C2");
+  assert.equal(sp(stats({ startLevel: 4 }), "sp-multi").hint, "Có từ đã học ở cả 1 cấp C2");
 });
 
 // Huy hiệu gõ tay ngưỡng theo app khác ("cả 6 cấp", "11.000 từ") từng KHÔNG BAO GIỜ mở được
@@ -293,8 +313,19 @@ t("học trọn lộ trình B1–C2 thì MỌI huy hiệu đều mở được",
   assert.deepEqual(locked.map((b) => b.id), []);
 });
 
+t("bắt đầu A1: học trọn A1–C2 thì MỌI huy hiệu đều mở; thiếu A1 thì chưa Thống chế", () => {
+  const full = { ...fullRoute(), startLevel: -1, byLevel: Object.fromEntries(LEVELS.map((l) => [l.level, l.words])) };
+  assert.deepEqual(badgeGroups(full).flatMap((g) => g.badges).filter((b) => !b.earned).map((b) => b.id), []);
+  const noA1 = { ...full, byLevel: { ...full.byLevel, [-1]: 0 } };
+  const sp = (s, id) => badgeGroups(s).find((g) => g.group === "special").badges.find((b) => b.id === id);
+  assert.equal(sp(noA1, "sp-marechal").earned, false);
+  assert.equal(sp(noA1, "sp-multi").earned, false);
+  assert.equal(routeWords(-1), LEVELS.reduce((n, l) => n + l.words, 0));
+});
+
 t("ngưỡng theo số từ không vượt dữ liệu thật (quân hàm, Chiêu binh, Cựu binh, chiến dịch, Quân báo)", () => {
-  assert.equal(ROUTE_WORDS, LEVELS.reduce((n, l) => n + l.words, 0));
+  assert.equal(ROUTE_WORDS, routeLevels(LEGACY_START_LEVEL).reduce((n, l) => n + l.words, 0));
+  assert.equal(ROUTE_WORDS, 10308); // lộ trình B1–C2 của người học cũ không đổi khi thêm A1/A2
   assert.ok(RANKS[RANKS.length - 1].minWords <= ROUTE_WORDS);
   for (const g of BADGE_GROUPS.filter((x) => x.metric === "words" || x.metric === "matured"))
     assert.ok(Math.max(...g.tiers) <= ROUTE_WORDS, `nhóm ${g.name} vượt ${ROUTE_WORDS} từ`);
@@ -310,10 +341,13 @@ t("Đa binh chủng cần đủ 4 cấp B1–C2; Thống chế cần đủ TỪN
   assert.equal(sp(stats({ byLevel: { 1: 5, 2: 5, 3: 5 } }), "sp-multi").earned, false);
   assert.equal(sp(stats({ byLevel: { 1: 5, 2: 5, 3: 5, 4: 1 } }), "sp-multi").earned, true);
   const almost = fullRoute();
-  almost.byLevel = { ...almost.byLevel, 4: LEVELS[3].words - 1 }; // sót 1 từ C2 dù tổng thẻ vẫn đủ (thêm từ nền)
+  almost.byLevel = { ...almost.byLevel, 4: LEVELS.find((l) => l.level === 4).words - 1 }; // sót 1 từ C2 dù tổng thẻ vẫn đủ (thêm từ nền)
   assert.equal(sp(almost, "sp-marechal").earned, false);
   assert.equal(sp(fullRoute(), "sp-marechal").earned, true);
-  for (const b of SPECIAL_BADGES) assert.doesNotMatch(b.hint, /\b6 (cấp|chiến dịch)|11\.000/, `${b.id}: ${b.hint}`);
+  for (const b of SPECIAL_BADGES) {
+    const hint = typeof b.hint === "function" ? b.hint(stats({})) : b.hint;
+    assert.doesNotMatch(hint, /\b6 (cấp|chiến dịch)|11\.000/, `${b.id}: ${hint}`);
+  }
 });
 
 t("XP: học từ mới đáng giá hơn ôn lại", () => {
@@ -587,12 +621,65 @@ t("pruneQuestKeys: giữ 14 ngày gần nhất, bỏ khoá hỏng", () => {
 // ---- LEVELS.words phải khớp dữ liệu thật (nếu lệch, thanh tiến độ hiện sai "x/y") ----
 t("số từ mỗi cấp trong lib/levels.ts khớp public/data/words/*.json", () => {
   const dir = join(import.meta.dirname, "..", "public", "data", "words");
-  for (const l of [...LEVELS, FOUNDATION]) {
+  for (const l of LEVELS) {
     const file = join(dir, `${levelSlug(l.level)}.json`);
     if (!existsSync(file)) continue; // cấp chưa có dữ liệu (làm dần) — bỏ qua
-    const real = JSON.parse(readFileSync(file, "utf8")).length;
+    // A1/A2 dùng chung foundation.json → đếm theo trường level của từng từ (như loadWords)
+    const real = JSON.parse(readFileSync(file, "utf8")).filter((w) => w.level === l.level).length;
     assert.equal(l.words, real, `${l.cefr}: levels.ts ghi ${l.words} nhưng data có ${real} từ`);
   }
+});
+
+t("word-levels.json khớp level trong file từ (A1 = -1, A2 = 0, B1..C2 = 1..4)", () => {
+  const data = join(import.meta.dirname, "..", "public", "data");
+  const wl = JSON.parse(readFileSync(join(data, "word-levels.json"), "utf8"));
+  for (const slug of ["foundation", "b1", "b2", "c1", "c2"])
+    for (const w of JSON.parse(readFileSync(join(data, "words", `${slug}.json`), "utf8")))
+      assert.equal(wl[w.id], w.level, `${w.id}: word-levels ${wl[w.id]} ≠ ${w.level}`);
+  assert.deepEqual([...new Set(Object.values(wl))].sort((a, b) => a - b), [-1, 0, 1, 2, 3, 4]);
+});
+
+// ---- cấp bắt đầu / bỏ qua cấp (lib/levels.ts) ----
+t("cấp: thứ tự A1 → C2, slug, lộ trình theo cấp bắt đầu", () => {
+  assert.deepEqual(LEVELS.map((l) => l.cefr), ["A1", "A2", "B1", "B2", "C1", "C2"]);
+  assert.deepEqual(LEVELS.map((l) => l.level), [-1, 0, 1, 2, 3, 4]);
+  assert.equal(levelSlug(-1), "foundation");
+  assert.equal(levelSlug(0), "foundation");
+  assert.equal(levelSlug(1), "b1");
+  assert.equal(levelSlug(4), "c2");
+  assert.deepEqual(routeLevels(1).map((l) => l.cefr), ["B1", "B2", "C1", "C2"]);
+  assert.deepEqual(routeLevels(-1).map((l) => l.cefr), ["A1", "A2", "B1", "B2", "C1", "C2"]);
+  // học liệu A1..C2 trỏ đúng cấp từ vựng, màu A1/A2 giữ violet/teal như trước
+  assert.deepEqual(CONTENT_LEVELS.map((c) => c.vocabLevel), [-1, 0, 1, 2, 3, 4]);
+  assert.equal(contentAccent("a1").bar, "bg-violet-500");
+  assert.equal(contentAccent("a2").bar, "bg-teal-500");
+  assert.equal(contentAccent("b1").bar, levelAccent(1).bar);
+});
+
+t("cấp bắt đầu: tự chọn thắng; chưa chọn thì người học cũ → B1, người mới → A1", () => {
+  assert.equal(FIRST_LEVEL, -1);
+  assert.equal(LEGACY_START_LEVEL, 1);
+  assert.equal(resolveStartLevel(undefined, false), -1);
+  assert.equal(resolveStartLevel(undefined, true), 1);
+  assert.equal(resolveStartLevel(0, true), 0); // người cũ tự chọn học lại từ A2
+  assert.equal(resolveStartLevel(-1, true), -1);
+  assert.equal(resolveStartLevel(3, false), 3);
+  assert.equal(resolveStartLevel(7, false), -1); // giá trị lạ → coi như chưa chọn
+  assert.equal(validStartLevel("1"), undefined);
+  assert.equal(validStartLevel(2.5), undefined);
+  assert.equal(validStartLevel(4), 4);
+});
+
+t("người học cũ = có thẻ B1–C2 tạo TRƯỚC ngày ra mắt A1; người mới học lên B1 không bị đổi lộ trình", () => {
+  const before = "2026-10-01";
+  assert.ok(before < A1_LAUNCH_DAY);
+  assert.equal(isLegacyRecord({ level: 1, introducedOn: before }), true);
+  assert.equal(isLegacyRecord({ level: 4, introducedOn: before }), true);
+  assert.equal(isLegacyRecord({ level: 1, introducedOn: "" }), true); // thẻ cũ thiếu ngày
+  assert.equal(isLegacyRecord({ level: 0, introducedOn: before }), false); // "Học từ này" ở bộ nền cũ
+  assert.equal(isLegacyRecord({ level: -1, introducedOn: before }), false);
+  assert.equal(isLegacyRecord({ level: 1, introducedOn: A1_LAUNCH_DAY }), false); // người mới đã lên B1
+  assert.equal(isLegacyRecord({ level: 2, introducedOn: "2027-01-05" }), false);
 });
 
 // ---- ÔN SỚM (ahead): lọc + xếp thuần (lib/srs-ahead.ts) ----

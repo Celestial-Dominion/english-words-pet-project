@@ -43,7 +43,7 @@ function statsOf(s: Awaited<ReturnType<typeof progressSummary>>): Stats {
   return {
     words: s.words, xp: s.xp, streak: s.streak, reads: s.reads, reviews: s.reviews,
     correct: s.correct, activeDays: s.activeDays, matured: s.matured,
-    maxDayReviews: s.maxDayReviews, weekend: s.weekend, byLevel: s.byLevel,
+    maxDayReviews: s.maxDayReviews, weekend: s.weekend, byLevel: s.byLevel, startLevel: s.startLevel,
     redeemedLeeches: s.redeemedLeeches, maxCombo: s.maxCombo, longestStreak: s.longestStreak,
     comebackDays: s.comebackDays, perfectDay: s.perfectDay,
   };
@@ -776,7 +776,7 @@ export default function ReviewRunner({
               <span className="hidden opacity-60 sm:inline">(Enter)</span>
             </button>
             {/* Từ mới mà đã biết sẵn → khỏi học qua phiên. Không có ở thẻ hay quên / học lại (đã lộ là chưa chắc). */}
-            {!q.leech && !q.relearn && q.word.level > 0 && (
+            {!q.leech && !q.relearn && (
               knownHere?.id === q.word.id ? (
                 <button
                   onClick={() => void undoKnownHere()}

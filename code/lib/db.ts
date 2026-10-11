@@ -12,6 +12,7 @@ import {
 import { dailyQuests, questProgress, questKey, pruneQuestKeys, type QuestProgress } from "./gamify";
 import { mergeReviews, mergeDaily, mergeReads, mergeNotes, mergeGamify, mergeIdSet } from "./sync-merge";
 import { decodeGrammarRows, encodeGrammarRow, mergeGrammarRows, type GrammarRow } from "./grammar";
+import { isLegacyRecord, resolveStartLevel, validStartLevel } from "./levels";
 
 // Re-export để phần còn lại của app vẫn import từ lib/db như trước.
 export { todayStr, computeStreak };
@@ -99,6 +100,7 @@ export async function setConfig(patch: Partial<SrsConfig>): Promise<SrsConfig> {
   const cur = await getConfig();
   const value = { ...cur, ...patch };
   await db.config.put({ key: "srs", value });
+  invalidateProgressSummary(); // tóm tắt tiến độ mang cấp bắt đầu (huy hiệu theo lộ trình)
   // dấu thời gian đổi cài đặt trên MÁY NÀY (để sync cloud biết bên nào mới hơn)
   try {
     localStorage.setItem("en.cfgUpdatedAt", new Date().toISOString());
@@ -111,6 +113,17 @@ export async function setConfig(patch: Partial<SrsConfig>): Promise<SrsConfig> {
     /* bỏ qua (chạy ngoài trình duyệt) */
   }
   return value;
+}
+
+/** Cấp BẮT ĐẦU đang áp dụng (lib/levels.ts): chọn trong Cài đặt; chưa chọn thì người có thẻ B1–C2
+ *  từ trước khi app có A1/A2 → B1 (y như cũ), còn lại → A1. Chỉ ĐỌC, không bao giờ ghi giá trị
+ *  suy ra vào config: máy mới chưa kịp đồng bộ sẽ suy ra A1 và đẩy đè lựa chọn thật lên cloud. */
+export async function getStartLevel(cfg?: SrsConfig): Promise<number> {
+  const c = cfg ?? (await getConfig());
+  const chosen = validStartLevel(c.startLevel);
+  if (chosen !== undefined) return chosen;
+  const legacy = await db.reviews.where("level").aboveOrEqual(1).filter(isLegacyRecord).first();
+  return resolveStartLevel(undefined, !!legacy);
 }
 
 /** Cài đặt mở được ở MỌI trang (ngăn Cài đặt trên topbar) → nơi nào đang giữ bản cấu hình
@@ -269,9 +282,9 @@ function pruneRevlogThrottled(now: Date): void {
 
 /** "Đã biết rồi": tạo thẻ hẹn KIỂM TRA sau 30–90 ngày (srs-pure knownRecord) cho từ chưa học —
  *  khỏi học lại từ đầu qua phiên từ mới, không chiếm suất từ mới trong ngày, không cộng XP.
- *  Từ nền A1–A2 (level 0) app vốn coi là đã biết → không tạo thẻ. Trả false nếu không ghi. */
+ *  Từ thuộc cấp ĐÃ BỎ QUA (dưới cấp bắt đầu) app vốn coi là đã biết → UI không hiện nút này.
+ *  Trả false nếu không ghi. */
 export async function markKnown(wordId: string, level: number, now = new Date()): Promise<boolean> {
-  if (level <= 0) return false;
   const wrote = await db.transaction("rw", db.reviews, async () => {
     if (await db.reviews.get(wordId)) return false;
     await db.reviews.put(knownRecord(wordId, level, now));
@@ -279,6 +292,18 @@ export async function markKnown(wordId: string, level: number, now = new Date())
   });
   if (wrote) invalidateProgressSummary();
   return wrote;
+}
+
+/** Thẻ của từ A1 tạo trước khi tách cấp mang level 0 (bộ nền A1–A2 cũ, "Học từ này") → sửa theo
+ *  word-levels.json để tiến độ từng cấp đúng. Chỉ đổi `level`, giữ nguyên lịch ôn; chỉ quét thẻ
+ *  level ≤ 0 (vài thẻ với người học cũ). Lần chấm kế tiếp cũng tự ghi level đúng (lấy từ Word). */
+export async function healLevels(wordLevels: Record<string, number>): Promise<number> {
+  const rows = await db.reviews.where("level").belowOrEqual(0).toArray();
+  const fix = rows.filter((r) => wordLevels[r.wordId] !== undefined && wordLevels[r.wordId] !== r.level);
+  if (!fix.length) return 0;
+  await db.reviews.bulkPut(fix.map((r) => ({ ...r, level: wordLevels[r.wordId] })));
+  invalidateProgressSummary();
+  return fix.length;
 }
 
 /** Hoàn tác "Đã biết rồi" vừa bấm: xoá thẻ nếu nó VẪN là thẻ đã-biết chưa ôn lần nào. */
@@ -443,6 +468,7 @@ export interface ProgressSummary {
   longestStreak: number; // chuỗi ngày dài nhất từng đạt (kể cả ngày đóng băng, như streak)
   comebackDays: number; // quãng nghỉ dài nhất đã quay lại học — huy hiệu Tái xuất
   perfectDay: boolean; // từng có ngày ≥20 lượt ôn, 0 sai
+  startLevel: number; // cấp bắt đầu đang áp dụng (getStartLevel) — huy hiệu "mọi cấp" chỉ tính lộ trình
 }
 
 // progressSummary quét TOÀN BỘ bảng reviews (12k dòng) + daily + reads. Header (LevelChip),
@@ -468,11 +494,12 @@ export function progressSummary(): Promise<ProgressSummary> {
 }
 
 async function computeProgressSummary(): Promise<ProgressSummary> {
-  const [reviews, dailyRows, xp, readRows] = await Promise.all([
+  const [reviews, dailyRows, xp, readRows, cfg] = await Promise.all([
     db.reviews.toArray(),
     db.daily.toArray(),
     getXp(),
     db.reads.toArray(),
+    getConfig(),
   ]);
   // Huy hiệu "reads" = bài đọc & truyện; video (id "vd-") đánh dấu đã xem nhưng không tính vào đây.
   const readsCount = readRows.filter((r) => readActive(r) && !r.id.startsWith("vd-")).length;
@@ -525,6 +552,7 @@ async function computeProgressSummary(): Promise<ProgressSummary> {
     longestStreak: longestStreak([...activeDates, ...frozenDates]), // cùng luật với streak (ngày đóng băng tính như có học)
     comebackDays: maxComebackGap(activeDates),
     perfectDay: daily.some((d) => d.reviews >= 20 && d.again === 0),
+    startLevel: resolveStartLevel(cfg.startLevel, reviews.some(isLegacyRecord)),
   };
 }
 

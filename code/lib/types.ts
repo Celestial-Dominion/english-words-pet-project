@@ -1,4 +1,4 @@
-// Kiểu dữ liệu dùng chung cho toàn app học từ vựng tiếng Anh (B1–C2).
+// Kiểu dữ liệu dùng chung cho toàn app học từ vựng tiếng Anh (A1–C2).
 
 export interface Word {
   id: string; // lemma chính tả Mỹ, có thể đa từ ("give up")
@@ -15,7 +15,7 @@ export interface Word {
   collocations?: string[]; // "make a decision", "heavy rain" (3–5 cụm)
   meaning_vi: string;
   meaning_en: string[]; // nghĩa/định nghĩa EN (Wiktionary)
-  level: number; // 0 = nền (A1–A2, chỉ tra cứu), 1..4 = B1..C2
+  level: number; // -1 = A1, 0 = A2, 1..4 = B1..C2 (lib/levels.ts)
   frequency: number; // hạng tần suất wordfreq
   forms?: string[]; // mọi dạng biến hình để tra ngược (goes, went, gone, going)
   search: string; // chuỗi thường-hoá (gồm cả variants) để tìm kiếm
@@ -61,7 +61,11 @@ export interface SrsConfig {
   newPerDay: number;
   reviewPerSession: number; // giới hạn thẻ đến hạn mỗi phiên ôn (0 = không giới hạn)
   direction: ReviewDirection;
-  newLevel: number; // 0 = tự động (cấp thấp nhất còn từ chưa học); 1..4 = cố định
+  newLevel: number; // CŨ, không còn ô chỉnh — giữ để config đã sync tương thích ngược (0 = tự động; 1..4 = cố định)
+  // Cấp BẮT ĐẦU (-1 A1 … 4 C2): các cấp thấp hơn được bỏ qua (lib/levels.ts). KHÔNG đặt trong
+  // DEFAULT: chưa tự chọn thì suy theo dữ liệu (db.ts startLevelOf) — có thẻ B1–C2 → B1 như cũ,
+  // chưa học gì → A1. Giá trị suy ra không bao giờ được ghi vào config (đồng bộ sẽ đẩy lên cloud).
+  startLevel?: number;
   arrangePerWord: number; // số câu "sắp xếp câu" mỗi từ (0 = tắt). Mặc định 1.
   recallFirst: boolean; // ẩn đáp án, bắt "nhớ lại" trước khi hiện.
   spelling: boolean; // xen câu GÕ CHÍNH TẢ từ thẻ đang bền (≥3 lần gặp / bền ≥7 ngày) trở đi.

@@ -73,7 +73,7 @@ export function GlobalWordSearch() {
                 className="flex w-full items-center justify-between gap-2 px-4 py-2.5 text-left text-sm transition-colors hover:bg-muted"
               >
                 <span className="font-medium">{h.id}</span>
-                <span className="shrink-0 text-xs text-muted-foreground">{h.level === 0 ? "Nền" : levelMeta(h.level)?.cefr}</span>
+                <span className="shrink-0 text-xs text-muted-foreground">{levelMeta(h.level)?.cefr}</span>
               </button>
             ))
           )}

@@ -1,10 +1,17 @@
 // Gamification — theme cấp bậc Hải quân Hoàng gia Anh ("Hải trình"). Logic thuần (không phụ thuộc DB).
-import { LEVELS } from "./levels.ts"; // đuôi .ts: unit test chạy thẳng file này bằng node
+import { LEGACY_START_LEVEL, routeLevels } from "./levels.ts"; // đuôi .ts: unit test chạy thẳng file này bằng node
 
-// Tổng từ của lộ trình B1–C2 (không gồm bộ nền A1–A2) — đọc từ dữ liệu thật trong levels.ts.
-// Huy hiệu "học trọn / mọi cấp" phải suy từ đây: trước đây gõ tay "6 cấp", "11.000 từ" (bê từ
-// app khác) nên app 4 cấp, 10.308 từ KHÔNG BAO GIỜ mở được.
-export const ROUTE_WORDS = LEVELS.reduce((n, l) => n + l.words, 0);
+// Lộ trình = các cấp từ cấp BẮT ĐẦU trở lên (Cài đặt; cấp thấp hơn là đã bỏ qua). Huy hiệu
+// "học trọn / mọi cấp" phải suy từ dữ liệu thật trong levels.ts: trước đây gõ tay "6 cấp",
+// "11.000 từ" (bê từ app khác) nên app 4 cấp, 10.308 từ KHÔNG BAO GIỜ mở được.
+const startOf = (s: Pick<Stats, "startLevel">): number => s.startLevel ?? LEGACY_START_LEVEL;
+export const routeWords = (start: number): number => routeLevels(start).reduce((n, l) => n + l.words, 0);
+const routeName = (start: number): string => {
+  const r = routeLevels(start);
+  return r.length > 1 ? `${r[0].cefr}–${r[r.length - 1].cefr}` : r[0].cefr;
+};
+// Lộ trình B1–C2 (người học cũ) — mốc của các ngưỡng tính theo số từ (quân hàm, Chiêu binh…).
+export const ROUTE_WORDS = routeWords(LEGACY_START_LEVEL);
 
 // XP cộng khi hành động (giữ tinh thần +3/+5/+2 của app HSK).
 export const XP = { newWord: 5, review: 3, practice: 2, perfectSession: 20 } as const;
@@ -71,6 +78,7 @@ export interface Stats {
   maxDayReviews: number; // lượt ôn cao nhất trong 1 ngày
   weekend: boolean; // từng học cuối tuần
   byLevel: Record<number, number>; // số từ đã học theo cấp
+  startLevel?: number; // cấp bắt đầu (bỏ trống = B1 như người học cũ) — huy hiệu "mọi cấp" chỉ tính lộ trình
   // ---- nhóm "năng lực" (thưởng việc KHÓ, không phải việc NHIỀU) + kỷ lục/tái xuất ----
   redeemedLeeches: number; // từ HAY QUÊN đã thuần phục: quên ≥4 lần mà VẪN đạt nhớ bền
   maxCombo: number; // chuỗi trả lời đúng liên tiếp dài nhất trong một phiên
@@ -159,8 +167,11 @@ export const BADGE_GROUPS: BadgeGroup[] = [
   },
 ];
 
-// Huy hiệu "Chiến dịch": hoàn thành (học hết) từng cấp CEFR.
+// Huy hiệu "Chiến dịch": hoàn thành (học hết) từng cấp CEFR. Chỉ cấp trong lộ trình mới có
+// chiến dịch (người bắt đầu B1 không thấy A1/A2). id camp-1..4 giữ nguyên như bản 4 cấp.
 export const CAMPAIGN_BADGES = [
+  { id: "camp-a1", level: -1, cefr: "A1", need: 1000 },
+  { id: "camp-a2", level: 0, cefr: "A2", need: 1200 },
   { id: "camp-1", level: 1, cefr: "B1", need: 2000 },
   { id: "camp-2", level: 2, cefr: "B2", need: 2500 },
   { id: "camp-3", level: 3, cefr: "C1", need: 3000 },
@@ -172,25 +183,26 @@ export interface SpecialBadge {
   id: string;
   name: string;
   icon: string;
-  hint: string;
+  hint: string | ((s: Stats) => string); // hàm: nội dung theo lộ trình của người học
   test: (s: Stats) => boolean;
 }
+const routeCampaigns = (s: Stats) => CAMPAIGN_BADGES.filter((c) => c.level >= startOf(s));
 export const SPECIAL_BADGES: SpecialBadge[] = [
   { id: "sp-first", name: "Khai hỏa", icon: "🚩", hint: "Học từ đầu tiên", test: (s) => s.words >= 1 },
   { id: "sp-week", name: "Tuần lễ vàng", icon: "🗓️", hint: "Chuỗi 7 ngày liên tiếp", test: (s) => s.streak >= 7 },
   { id: "sp-weekend", name: "Cuối tuần chăm", icon: "📅", hint: "Học vào T7/CN", test: (s) => s.weekend },
   { id: "sp-100words", name: "Đại đội", icon: "💯", hint: "Học được 100 từ", test: (s) => s.words >= 100 },
-  { id: "sp-multi", name: "Đa binh chủng", icon: "🎏", hint: `Có từ đã học ở cả ${LEVELS.length} cấp B1–C2`, test: (s) => LEVELS.every((l) => (s.byLevel[l.level] ?? 0) > 0) },
+  { id: "sp-multi", name: "Đa binh chủng", icon: "🎏", hint: (s) => `Có từ đã học ở cả ${routeLevels(startOf(s)).length} cấp ${routeName(startOf(s))}`, test: (s) => routeLevels(startOf(s)).every((l) => (s.byLevel[l.level] ?? 0) > 0) },
   { id: "sp-half", name: "Nửa chặng đường", icon: "⛰️", hint: "Học được 5.500 từ", test: (s) => s.words >= 5500 },
   { id: "sp-elite", name: "Tinh nhuệ", icon: "🎗️", hint: "1.000 từ nhớ bền", test: (s) => s.matured >= 1000 },
   { id: "sp-century", name: "Bách chiến", icon: "🛡️", hint: "≥100 lượt ôn trong 1 ngày", test: (s) => s.maxDayReviews >= 100 },
   { id: "sp-blitz", name: "Cuồng phong", icon: "🌪️", hint: "≥250 lượt ôn trong 1 ngày", test: (s) => s.maxDayReviews >= 250 },
   { id: "sp-persist", name: "Trường kỳ", icon: "🏔️", hint: "Học đủ 100 ngày (tổng)", test: (s) => s.activeDays >= 100 },
   { id: "sp-sharp", name: "Thần xạ", icon: "🎯", hint: "5.000 câu trả lời đúng", test: (s) => s.correct >= 5000 },
-  { id: "sp-allcamp", name: "Toàn thắng", icon: "🏆", hint: `Hoàn thành cả ${CAMPAIGN_BADGES.length} chiến dịch CEFR`, test: (s) => CAMPAIGN_BADGES.every((c) => (s.byLevel[c.level] ?? 0) >= c.need) },
-  // "Học trọn" = đủ từng cấp, không phải tổng số thẻ: tổng gồm cả từ nền A1–A2 học thêm tay nên
-  // có thể đạt con số mà vẫn sót từ B1–C2.
-  { id: "sp-marechal", name: "Thống chế", icon: "👑", hint: `Học trọn toàn bộ ${ROUTE_WORDS.toLocaleString("vi")} từ B1–C2`, test: (s) => LEVELS.every((l) => (s.byLevel[l.level] ?? 0) >= l.words) },
+  { id: "sp-allcamp", name: "Toàn thắng", icon: "🏆", hint: (s) => `Hoàn thành cả ${routeCampaigns(s).length} chiến dịch CEFR`, test: (s) => routeCampaigns(s).every((c) => (s.byLevel[c.level] ?? 0) >= c.need) },
+  // "Học trọn" = đủ từng cấp, không phải tổng số thẻ: tổng gồm cả từ ở cấp đã bỏ qua học thêm tay
+  // nên có thể đạt con số mà vẫn sót từ trong lộ trình.
+  { id: "sp-marechal", name: "Thống chế", icon: "👑", hint: (s) => `Học trọn toàn bộ ${routeWords(startOf(s)).toLocaleString("vi")} từ ${routeName(startOf(s))}`, test: (s) => routeLevels(startOf(s)).every((l) => (s.byLevel[l.level] ?? 0) >= l.words) },
   // ---- chào người quay lại: thưởng việc TRỞ LẠI thay vì chỉ phạt việc đứt chuỗi ----
   { id: "sp-comeback", name: "Tái xuất", icon: "🌅", hint: "Quay lại học sau ≥3 ngày nghỉ", test: (s) => s.comebackDays >= 3 },
   { id: "sp-storm", name: "Trở về từ bão", icon: "⛵", hint: "Quay lại học sau ≥14 ngày nghỉ", test: (s) => s.comebackDays >= 14 },
@@ -254,7 +266,7 @@ export function badgeGroups(s: Stats): BadgeGroupView[] {
   });
 
   // nhóm Chiến dịch (theo cấp)
-  const campBadges: Badge[] = CAMPAIGN_BADGES.map((c) => {
+  const campBadges: Badge[] = routeCampaigns(s).map((c) => {
     const learned = s.byLevel[c.level] ?? 0;
     return {
       id: c.id,
@@ -285,7 +297,7 @@ export function badgeGroups(s: Stats): BadgeGroupView[] {
     groupName: "Chiến tích",
     name: b.name,
     icon: b.icon,
-    hint: b.hint,
+    hint: typeof b.hint === "function" ? b.hint(s) : b.hint,
     earned: b.test(s),
     value: 0,
     threshold: 0,

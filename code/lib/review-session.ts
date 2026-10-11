@@ -14,6 +14,7 @@ import {
 } from "./srs-pure";
 import { lookalikeScore } from "./spell";
 import { pickQuestionKind } from "./question-mix";
+import { LEGACY_START_LEVEL } from "./levels";
 
 // Các dạng BÀI CHÍNH chấm FSRS. Điền câu là một kind riêng,
 // không chấm lịch ôn để mỗi từ chỉ bị chấm đúng một lần trong một lượt.
@@ -22,6 +23,15 @@ export type McqMode = "meaning" | "reverse" | "listen";
 export interface SentenceLexicon {
   lemmaMap: Readonly<Record<string, string>>;
   wordLevels: Readonly<Record<string, number>>;
+  // Cấp bắt đầu của người học: từ ở cấp THẤP HƠN (đã bỏ qua) coi như đã biết. Bỏ trống = B1
+  // (người học cũ: cả bộ A1–A2 là vốn nền).
+  startLevel?: number;
+}
+
+/** Tập từ thuộc các cấp đã bỏ qua — luôn tính là đã biết khi chấm độ vừa sức của câu. */
+function skippedWords(lexicon: SentenceLexicon): Set<string> {
+  const start = lexicon.startLevel ?? LEGACY_START_LEVEL;
+  return new Set(Object.entries(lexicon.wordLevels).filter(([, level]) => level < start).map(([id]) => id));
 }
 
 export type Question =
@@ -123,7 +133,7 @@ export function arrangeReady(tokens: string[], known: Set<string> | undefined, t
 }
 
 // Chuẩn hoá token câu về lemma để "went" được tính là "go", "working" là
-// "work". A1–A2 (level 0) là vốn nền của app B1–C2 nên luôn được tính là đã biết.
+// "work". Từ ở cấp đã bỏ qua (người bắt đầu B1: cả A1–A2) luôn được tính là đã biết.
 function sentenceLemmas(en: string, lexicon: SentenceLexicon): string[] {
   const out: string[] = [];
   for (const raw of tokenize(en)) {
@@ -145,14 +155,11 @@ export function sentenceKnownRatio(
   learned: ReadonlySet<string>,
   target: string,
   lexicon: SentenceLexicon,
-  foundation?: ReadonlySet<string>,
+  skipped?: ReadonlySet<string>,
 ): number {
   const tokens = sentenceLemmas(en, lexicon);
   const targetTokens = new Set(sentenceLemmas(target, lexicon));
-  const baseWords = foundation ?? new Set(
-    Object.entries(lexicon.wordLevels).filter(([, level]) => level === 0).map(([id]) => id),
-  );
-  return knownRatio(tokens, learned, targetTokens, baseWords);
+  return knownRatio(tokens, learned, targetTokens, skipped ?? skippedWords(lexicon));
 }
 
 /** Nghĩa RÚT GỌN cho phương án trắc nghiệm (phần trước dấu ';') — đỡ ngợp. */
@@ -337,9 +344,7 @@ export function buildQuestions(
   const clozeCap = config.clozePerWord ?? (config.clozeEnabled !== false ? 1 : 0);
   const arrangeCap = config.arrangePerWord ?? 1;
   const knownMin = config.sentenceKnownMin ?? 0.7;
-  const foundation = lexicon
-    ? new Set(Object.entries(lexicon.wordLevels).filter(([, level]) => level === 0).map(([id]) => id))
-    : undefined;
+  const skipped = lexicon ? skippedWords(lexicon) : undefined;
   for (const w of words) {
     const g: Question[] = [];
     const rec = records?.get(w.id);
@@ -348,7 +353,7 @@ export function buildQuestions(
     // (thẻ học, ví dụ sau trả lời, câu khoét cloze, câu ghép đều xoay theo).
     const ex = seededShuffle(examplesByWord[w.id] || [], `${w.id}:${rec?.reps ?? 0}`);
     const ranked = knownIds && lexicon && knownMin > 0
-      ? rankByKnown(ex, (s) => sentenceKnownRatio(s.en, knownIds, w.id, lexicon, foundation), knownMin)
+      ? rankByKnown(ex, (s) => sentenceKnownRatio(s.en, knownIds, w.id, lexicon, skipped), knownMin)
       : ex;
     const selected = selectDistinctExercises(
       ranked,

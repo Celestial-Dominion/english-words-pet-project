@@ -5,17 +5,32 @@ import { levelSlug } from "./levels";
 // Base path để fetch chạy cả khi deploy dưới sub-path. Rỗng ở local.
 const BASE = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 
-// Tải danh sách từ của một cấp (1..4; 0 = bộ nền). Trả [] nếu file chưa có (các cấp làm dần).
-// Cache theo PROMISE: file cấp nặng 1,3–1,7MB mà mở phiên học, mở phiên ôn và bấm kết quả tìm
-// kiếm đều gọi — không cache thì mỗi lần lại tải + parse lại từ đầu.
+// Tải danh sách từ của một cấp (-1..4). Trả [] nếu file chưa có (các cấp làm dần).
+// Cache theo PROMISE: file cấp nặng 1,0–1,7MB mà mở phiên học, mở phiên ôn và bấm kết quả tìm
+// kiếm đều gọi — không cache thì mỗi lần lại tải + parse lại từ đầu. A1 và A2 dùng chung
+// foundation.json (levelSlug) → tải/parse file MỘT lần rồi lọc theo level.
+const fileCache = new Map<string, Promise<Word[]>>();
+function loadWordFile(slug: string): Promise<Word[]> {
+  let p = fileCache.get(slug);
+  if (!p) {
+    p = fetch(`${BASE}/data/words/${slug}.json`)
+      .then((res) => (res.ok ? (res.json() as Promise<Word[]>) : []))
+      .catch((e) => {
+        fileCache.delete(slug); // lỗi mạng → cho phép thử lại lần sau
+        throw e;
+      });
+    fileCache.set(slug, p);
+  }
+  return p;
+}
 const wordsCache = new Map<number, Promise<Word[]>>();
 export function loadWords(level: number): Promise<Word[]> {
   let p = wordsCache.get(level);
   if (!p) {
-    p = fetch(`${BASE}/data/words/${levelSlug(level)}.json`)
-      .then((res) => (res.ok ? (res.json() as Promise<Word[]>) : []))
+    p = loadWordFile(levelSlug(level))
+      .then((ws) => ws.filter((w) => w.level === level))
       .catch((e) => {
-        wordsCache.delete(level); // lỗi mạng → cho phép thử lại lần sau
+        wordsCache.delete(level);
         throw e;
       });
     wordsCache.set(level, p);

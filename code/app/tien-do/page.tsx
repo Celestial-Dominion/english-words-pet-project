@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import { Flame, Trophy, CalendarCheck, Activity, type LucideIcon } from "lucide-react";
 import { db, progressSummary, todayStr, type ProgressSummary } from "@/lib/db";
 import { onSyncMerged } from "@/lib/sync";
-import { LEVELS, levelAccent } from "@/lib/levels";
+import { routeLevels, levelAccent } from "@/lib/levels";
 import { cn } from "@/lib/utils";
 
 const MONTHS = ["Th1", "Th2", "Th3", "Th4", "Th5", "Th6", "Th7", "Th8", "Th9", "Th10", "Th11", "Th12"];
@@ -201,7 +201,8 @@ export default function TienDoPage() {
           {sum.knownPending > 0 && ` · ${sum.knownPending.toLocaleString("vi")} từ đã biết sẵn chờ kiểm tra`}
         </h2>
         <div className="grid gap-x-6 gap-y-3 sm:grid-cols-2">
-          {LEVELS.map((lv) => {
+          {/* chỉ các cấp trong lộ trình — cấp đã bỏ qua (dưới cấp bắt đầu) không phải một chặng */}
+          {routeLevels(sum.startLevel).map((lv) => {
             const done = sum.coverageByLevel[lv.level] || 0; // gồm cả từ đã biết sẵn
             const known = sum.knownByLevel[lv.level] || 0;
             const a = levelAccent(lv.level);

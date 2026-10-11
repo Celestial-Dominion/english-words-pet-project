@@ -24,9 +24,9 @@ nhân vật, từ và chủ đề của Story rồi nói lại bằng tiếng An
 
 ## 2. Cấp độ
 
-App học từ theo 4 cấp B1–C2 (`LEVELS`) + bộ nền A1–A2 chỉ để tra cứu. Học liệu dùng **đủ 6 cấp CEFR**
-(`CONTENT_LEVELS` trong `lib/levels.ts`, khoá `a1…c2`) — tách **cấp học liệu** khỏi **band dữ liệu từ**
-(bài học từ app HSK): A1/A2 cùng tra trong bộ nền, tách A1 ↔ A2 theo nhãn CEFR-J.
+App học từ theo 6 cấp A1–C2 (`LEVELS`: A1 = -1, A2 = 0, B1..C2 = 1..4; người học chọn "Bắt đầu từ cấp", cấp dưới
+đó chỉ tra cứu). Học liệu cũng dùng **đủ 6 cấp CEFR** (`CONTENT_LEVELS` trong `lib/levels.ts`, khoá `a1…c2`);
+band học liệu = level + 1. A1/A2 dùng chung `foundation.json`, tách theo nhãn CEFR-J (`scripts/lib/cefrj.mjs`).
 
 | Cấp | Reading (từ) | Câu TB | Từ đúng cấp ≥ | Vượt cấp ≤ | Story | Video | Tốc độ TTS |
 |---|---|---|---|---|---|---|---|
@@ -287,8 +287,8 @@ Cách đếm: "bài" = một bài đọc / một truyện / một video ở cấ
 
 **Ước lượng của nhóm soạn** (không phải số nghiên cứu):
 - *≥ 3 bài*: thẻ từ B1–C2 cho 5 ngữ cảnh + ≥ 3 bài khác nhau = ≥ 8 lần gặp có ngữ cảnh (ngưỡng Waring & Takaki); *≥ 5 bài* →
-  ≥ 10 lần (Webb 2007), và với A1–A2 (thẻ không có câu ví dụ) mới gần ngưỡng.
-  A1–A2 không có câu ví dụ trên thẻ, nhưng từ A1–A2 lặp lại dày đặc ở mọi cấp trên (Nation & Wang 1999).
+  ≥ 10 lần (Webb 2007), và với A1–A2 (thẻ 3 câu ví dụ từ 10/2026) mới gần ngưỡng.
+  Từ A1–A2 còn lặp lại dày đặc ở mọi cấp trên (Nation & Wang 1999).
 - *Tỉ lệ giảm dần theo cấp* (85% → 40%): danh sách cấp cao dài hơn và hiếm dần (Zipf trung vị A1 ≈ 5,0 → C1 ≈ 3,6);
   phần đuôi hiếm học có chủ đích qua thẻ, không nhồi vào bài (§4). Phần đạt ≥ 3 bài là phần thường gặp nhất.
 - *Giờ đọc* ≈ 7–10% giờ học có hướng dẫn của bậc. Thư viện là phần lõi có kiểm soát — không thay được khối lượng đọc

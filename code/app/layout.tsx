@@ -14,7 +14,7 @@ import SettingsSheet, { SettingsButton } from "@/components/settings-sheet";
 export const metadata: Metadata = {
   title: "Từ vựng tiếng Anh",
   description:
-    "Học từ vựng tiếng Anh trung cấp đến thành thạo (B1–C2) — nghĩa tiếng Việt, phát âm, ôn tập ngắt quãng.",
+    "Học từ vựng tiếng Anh từ A1 đến C2 — nghĩa tiếng Việt, phát âm, ôn tập ngắt quãng.",
   manifest: "/manifest.webmanifest",
   icons: { icon: "/icon-192.png", apple: "/apple-touch-icon.png" },
   appleWebApp: { capable: true, title: "English", statusBarStyle: "default" },

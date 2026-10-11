@@ -87,9 +87,9 @@ test("trang chủ: hero hôm nay + grid cấp độ + khám phá", async ({ page
   await expect(page.getByText("Khám phá")).toBeVisible();
 });
 
-test("grid cấp: đủ 4 cấp B1–C2 với số từ thật", async ({ page }) => {
+test("grid cấp: đủ 6 cấp A1–C2 (người mới bắt đầu từ A1)", async ({ page }) => {
   await freshStart(page, "/hoc");
-  for (const label of ["Trung cấp", "Trung cao", "Cao cấp", "Thành thạo"]) {
+  for (const label of ["Khởi đầu", "Sơ cấp", "Trung cấp", "Trung cao", "Cao cấp", "Thành thạo"]) {
     await expect(page.getByRole("link", { name: new RegExp(label) })).toBeVisible();
   }
 });
@@ -146,20 +146,6 @@ test("lọc tiếng Anh công việc: ra đúng vốn từ BSL", async ({ page }
   await page.getByPlaceholder(/Tìm/).fill("client");
   await page.getByRole("button", { name: /client/ }).first().click();
   await expect(page.getByText("💼 công việc").first()).toBeVisible();
-});
-
-test("bộ nền A1–A2: duyệt được nhưng không có hàng đợi học", async ({ page }) => {
-  await freshStart(page, "/hoc");
-  await page.getByRole("link", { name: /Nền tảng/ }).click();
-  await expect(page.getByRole("heading", { name: "Nền tảng" })).toBeVisible();
-  await expect(page.getByText(/không nằm trong lộ trình học/i)).toBeVisible();
-  await expect(page.getByRole("button", { name: /Học \(/ })).toHaveCount(0);
-  // vẫn tra được và vẫn thêm thủ công vào hàng đợi được
-  await page.getByPlaceholder(/Tìm/).fill("people");
-  await page.getByRole("button", { name: /people/ }).first().click();
-  await expect(page.getByRole("button", { name: "Học từ này" })).toBeVisible();
-  // từ nền app vốn coi là đã biết → không có nút "Đã biết rồi" (khỏi tạo thẻ ôn thừa)
-  await expect(page.getByRole("button", { name: "Đã biết rồi" })).toHaveCount(0);
 });
 
 test("học từ mới: learn-card hiện TRƯỚC, rồi mới tới trắc nghiệm", async ({ page }) => {

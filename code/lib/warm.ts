@@ -2,14 +2,16 @@
 // chạy nền sau ~350ms — người dùng nhìn bảng điều khiển một lúc trước khi bấm nút,
 // trong khi toàn bộ chi phí mạng của phiên (words các cấp, shard ví dụ) dồn hết vào
 // SAU cú bấm. data.ts cache theo PROMISE → warm xong (hoặc đang dở) là lúc dựng phiên
-// dùng lại luôn, không tải trùng. Chỉ ĐỌC, không ghi gì; lỗi bỏ qua (phụ trợ).
-import { db, getConfig } from "./db";
+// dùng lại luôn, không tải trùng. Chỉ ĐỌC, không ghi gì; lỗi bỏ qua (phụ trợ). Ngoại lệ duy nhất là
+// healLegacyLevels ở cuối file (sửa level của thẻ A1 tạo trước khi tách A1/A2).
+import { db, getConfig, healLevels } from "./db";
 import { loadWords, loadExamplesForWords, loadLemmaMap, loadWordLevels } from "./data";
 
 let warmed = false;
 export function warmSession(): void {
   if (warmed || typeof window === "undefined") return;
   warmed = true;
+  void healLegacyLevels();
   setTimeout(() => {
     void (async () => {
       try {
@@ -34,4 +36,16 @@ export function warmSession(): void {
       }
     })();
   }, 350);
+}
+
+// Thẻ từ A1 tạo trước khi tách A1/A2 còn mang level 0 (bộ nền cũ) → sửa một lần mỗi lần mở app để
+// tiến độ từng cấp đúng (db.healLevels). Chỉ tải word-levels.json khi THẬT SỰ có thẻ level 0.
+let healed: Promise<number> | null = null;
+export function healLegacyLevels(): Promise<number> {
+  if (typeof window === "undefined") return Promise.resolve(0);
+  healed ??= (async () => {
+    if (!(await db.reviews.where("level").equals(0).count())) return 0;
+    return healLevels(await loadWordLevels());
+  })().catch(() => 0);
+  return healed;
 }

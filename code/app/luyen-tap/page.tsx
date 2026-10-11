@@ -12,7 +12,7 @@ import { practiceCounts, gatherPracticeSentences, type PracticeScope, type Pract
 import { tokenize, arrangeReady, ARRANGE_TOKENS } from "@/lib/review-session";
 import { learnedIds, recordPractice, addXp, getConfig, onConfigChanged } from "@/lib/db";
 import { XP } from "@/lib/gamify";
-import { LEVELS, FOUNDATION } from "@/lib/levels";
+import { LEVELS } from "@/lib/levels";
 import SentenceArrange from "@/components/sentence-arrange";
 import DictationCard from "@/components/dictation-card";
 import Celebration, { primeCelebrationAudio } from "@/components/celebration";
@@ -103,7 +103,7 @@ export default function LuyenTapPage() {
       { key: "hard", label: "Hay quên", n: counts.hard },
       { key: "due", label: "Đến hạn hôm nay", n: counts.due },
     ];
-    for (const l of [...LEVELS, FOUNDATION]) {
+    for (const l of LEVELS) {
       const n = counts.byLevel[l.level] ?? 0;
       if (n > 0) chips.push({ key: l.level, label: l.cefr, n });
     }

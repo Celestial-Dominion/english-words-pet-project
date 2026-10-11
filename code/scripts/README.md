@@ -16,7 +16,7 @@ node scripts/build-words-stage1.mjs                 # -> out/words-stage1.json
 node scripts/fill-ipa.mjs                           # ghép IPA cho từ ghép/đa từ
 
 # 3. Nghĩa Việt (agent dịch)
-node scripts/prep-vi-batches.mjs 1                  # chia batch cho 1 cấp (0=nền,1=B1..4=C2)
+node scripts/prep-vi-batches.mjs 1                  # chia batch cho 1 cấp (0=A1–A2 foundation.json,1=B1..4=C2)
 #    -> agent đọc vi-batches/INSTRUCTIONS.md, ghi kết quả vào vi-done/
 node scripts/check-vi.mjs                           # QA máy: độ phủ, format, nghĩa trùng
 

@@ -2,7 +2,7 @@
 
 import { useEffect, useRef, useState, type ReactNode } from "react";
 import { Download, Minus, Plus, Upload } from "lucide-react";
-import { exportData, importData, getConfig, setConfig, type BackupData } from "@/lib/db";
+import { exportData, importData, getConfig, setConfig, getStartLevel, type BackupData } from "@/lib/db";
 import { onSyncMerged, requestSync } from "@/lib/sync";
 import { LEVELS } from "@/lib/levels";
 import type { SrsConfig } from "@/lib/types";
@@ -17,18 +17,28 @@ import { cn } from "@/lib/utils";
  */
 export default function SettingsPanel() {
   const [cfg, setCfg] = useState<SrsConfig | null>(null);
+  // Cấp bắt đầu ĐANG ÁP DỤNG — kể cả khi chưa tự chọn (suy theo dữ liệu, db.getStartLevel).
+  const [start, setStart] = useState<number | null>(null);
 
   useEffect(() => {
-    const load = async () => setCfg(await getConfig());
+    const load = async () => {
+      const c = await getConfig();
+      setStart(await getStartLevel(c));
+      setCfg(c);
+    };
     void load();
     // kéo cài đặt từ máy khác về → công tắc nhảy theo ngay
     return onSyncMerged(() => void load());
   }, []);
 
-  const patch = async (p: Partial<SrsConfig>) => setCfg(await setConfig(p));
+  const patch = async (p: Partial<SrsConfig>) => {
+    const c = await setConfig(p);
+    setStart(await getStartLevel(c));
+    setCfg(c);
+  };
 
   // chờ đọc xong cấu hình (vài ms) rồi hiện cả ngăn một lượt — không để các mục nhảy chỗ
-  if (!cfg) return null;
+  if (!cfg || start === null) return null;
 
   return (
     <div className="space-y-6">
@@ -42,13 +52,17 @@ export default function SettingsPanel() {
             onChange={(n) => void patch({ newPerDay: n })}
           />
         </Row>
-        <Row label="Nguồn từ mới" hint={cfg.newLevel === 0 ? "lấy từ cấp thấp nhất còn từ chưa học" : undefined}>
-          <select
-            value={cfg.newLevel}
-            onChange={(e) => void patch({ newLevel: Number(e.target.value) })}
-            className={selectCls}
-          >
-            <option value={0}>Tự động</option>
+        {/* Người mới học từ A1; ai đã có nền thì bỏ qua các cấp dưới. Cấp bỏ qua vẫn tra cứu được, thẻ đã
+            học ở đó vẫn ôn bình thường — chỉ không còn trong lộ trình (lưới cấp, huy hiệu "mọi cấp"). */}
+        <Row
+          label="Bắt đầu từ cấp"
+          hint={
+            start === LEVELS[0].level
+              ? "học từ đầu — chọn cấp cao hơn để bỏ qua các cấp đã biết"
+              : `bỏ qua ${skipRange(start)}: chỉ tra cứu, không vào lộ trình học (thẻ đã học vẫn ôn bình thường)`
+          }
+        >
+          <select value={start} onChange={(e) => void patch({ startLevel: Number(e.target.value) })} className={selectCls}>
             {LEVELS.map((l) => (
               <option key={l.level} value={l.level}>
                 {l.label}
@@ -156,7 +170,7 @@ export default function SettingsPanel() {
             <option value={5}>5 câu (tất cả)</option>
           </select>
         </Row>
-        <Row label="Câu vừa sức" hint="ưu tiên câu có đủ tỉ lệ từ bạn đã học (A1–A2 luôn tính là đã biết)">
+        <Row label="Câu vừa sức" hint="ưu tiên câu có đủ tỉ lệ từ bạn đã học (từ ở cấp đã bỏ qua luôn tính là đã biết)">
           <select
             aria-label="Mức câu vừa sức"
             value={cfg.sentenceKnownMin}
@@ -231,6 +245,12 @@ export default function SettingsPanel() {
       </details>
     </div>
   );
+}
+
+/** "A1" / "A1–A2" / … — các cấp nằm dưới cấp bắt đầu. */
+function skipRange(start: number): string {
+  const below = LEVELS.filter((l) => l.level < start);
+  return below.length > 1 ? `${below[0].cefr}–${below[below.length - 1].cefr}` : (below[0]?.cefr ?? "");
 }
 
 // text-sm vẫn ≥ 16px (gốc chữ app 20px) → iOS không phóng to trang khi chạm ô chọn.
