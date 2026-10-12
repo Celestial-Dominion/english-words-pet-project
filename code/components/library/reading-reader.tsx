@@ -1,10 +1,10 @@
 "use client";
 
 // Trang một bài đọc: tiêu đề + thông tin → thanh công cụ (nghe cả bài, Dịch, đã đọc) → văn bản bấm-tra
-// → từ trọng tâm → series (bậc trước/sau) → bài tiếp. Mở bài KHÔNG tự đánh dấu đã đọc; đọc tới cuối
-// bài (mốc cuối vào tầm nhìn) mới đánh dấu — như app HSK. Bấm tay "Chưa đọc ⇄ Đã đọc" thì lần mở này thôi tự
-// đánh dấu (bỏ đánh dấu lúc cuối bài đang hiện không bị đánh dấu lại ngay).
-import { useEffect, useLayoutEffect, useRef, useState } from "react";
+// → câu hỏi đọc hiểu → từ trọng tâm → series (bậc trước/sau) → bài tiếp. Mở bài hay cuộn tới cuối bài KHÔNG tự đánh
+// dấu (bài A1 ngắn, mở ra đã thấy cuối bài); trả lời xong câu cuối của bộ câu hỏi, đúng từ 70% (PASS_SCORE như Ngữ
+// pháp) mới tự đánh dấu Đã đọc — như app HSK; không bao giờ tự bỏ đánh dấu. Nút tay "Chưa đọc ⇄ Đã đọc" bấm lúc nào cũng được.
+import { useEffect, useLayoutEffect, useState } from "react";
 import Link from "next/link";
 import { BookOpenText, ChevronRight, Layers3 } from "lucide-react";
 import { GENRES, TOPICS, loadReading, loadReadingsIndex, fmtMinutes, type ReadingDoc, type ReadingMeta } from "@/lib/library";
@@ -45,8 +45,6 @@ export function ReadingReader({ id, grammar }: { id: string; grammar?: LessonRef
 function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | null; grammar?: LessonRef[] }) {
   const [showVi, setShowVi] = useState(false);
   const read = useIsRead(doc.id); // undefined = đang đọc IndexedDB
-  const manual = useRef(false); // đã bấm tay ở lần mở này → không tự đánh dấu nữa
-  const endRef = useRef<HTMLDivElement>(null);
   const player = usePassageAudio(doc.audio, "rs-");
   const lookup = useWordLookup();
   const level = contentLevel(doc.level);
@@ -55,24 +53,11 @@ function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | n
   useLayoutEffect(() => {
     window.scrollTo({ top: 0 });
   }, [doc.id]);
-  useEffect(() => {
-    const el = endRef.current;
-    if (!el || read !== false || manual.current) return;
-    const io = new IntersectionObserver(
-      ([e]) => {
-        if (!e.isIntersecting || manual.current) return;
-        io.disconnect();
-        void setRead(doc.id, true).catch(() => {});
-      },
-      { rootMargin: "0px 0px -10% 0px" },
-    );
-    io.observe(el);
-    return () => io.disconnect();
-  }, [doc.id, read]);
 
-  const toggleRead = () => {
-    manual.current = true;
-    void setRead(doc.id, !read).catch(() => {}); // ghi hỏng → banner StorageAlert (lib/db.ts)
+  // ghi hỏng → banner StorageAlert (lib/db.ts)
+  const toggleRead = () => void setRead(doc.id, !read).catch(() => {});
+  const quizDone = (passed: boolean) => {
+    if (passed && read !== true) void setRead(doc.id, true).catch(() => {});
   };
 
   return (
@@ -127,7 +112,6 @@ function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | n
           domPrefix="rs-"
           canPlay={player.available}
         />
-        <div ref={endRef} data-testid="reading-end" aria-hidden className="h-px" />
         <footer className="mt-8 border-t pt-4 text-xs leading-relaxed text-muted-foreground">
           {doc.source ? (
             <SourceNote source={doc.source} />
@@ -137,7 +121,15 @@ function Reader({ doc, next, grammar }: { doc: ReadingDoc; next: ReadingMeta | n
         </footer>
       </article>
 
-      {doc.quiz?.length ? <Quiz key={doc.id} questions={doc.quiz} showVi={showVi} onTapWord={(w) => void lookup.open(w)} /> : null}
+      {doc.quiz?.length ? (
+        <Quiz
+          key={doc.id}
+          questions={doc.quiz}
+          showVi={showVi}
+          onTapWord={(w) => void lookup.open(w)}
+          autoMark={{ unit: "bài", done: read, onFinish: quizDone }}
+        />
+      ) : null}
 
       <FocusWords words={doc.focus} level={doc.level} onOpen={(w) => void lookup.open(w)} />
       {grammar?.length ? (

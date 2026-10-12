@@ -35,12 +35,15 @@ test("bài đọc: mở bài KHÔNG tự đánh dấu đã đọc", async ({ pag
   await expect(page.getByRole("button", { name: "Chưa đọc", exact: true })).toHaveAttribute("aria-pressed", "false");
 });
 
-test("bài đọc: đọc tới cuối bài thì tự đánh dấu đã đọc", async ({ page }) => {
-  const r = firstB1();
-  await page.goto(`/bai-doc/b1/${r.id}`);
+test("bài đọc A1 ngắn: cuộn tới cuối bài mà chưa làm câu hỏi thì KHÔNG tự đánh dấu", async ({ page }) => {
+  // Trước 12/10/2026 mốc cuối bài vào tầm nhìn là tự Đã đọc → bài A1 mở ra đã thấy cuối bài nên bị tính nhầm.
+  // Giờ chỉ câu hỏi cuối bài (đúng từ 70%) mới tự đánh dấu — xem e2e/done-marks.spec.ts.
+  const r = libIndex("readings-index.json").find((x) => x.level === "a1")!;
+  await page.goto(`/bai-doc/a1/${r.id}`);
   await expect(page.getByRole("heading", { name: r.title_en })).toBeVisible();
-  await page.getByTestId("reading-end").scrollIntoViewIfNeeded();
-  await expect(page.getByRole("button", { name: "Đã đọc", exact: true })).toHaveAttribute("aria-pressed", "true", { timeout: 5000 });
+  await page.getByRole("region", { name: "Câu hỏi đọc hiểu" }).scrollIntoViewIfNeeded();
+  await page.waitForTimeout(1500);
+  await expect(page.getByRole("button", { name: "Chưa đọc", exact: true })).toHaveAttribute("aria-pressed", "false");
 });
 
 test("audio bài đọc: lần chạm tốc độ đầu tiên tăng từ 1× lên 1,25×", async ({ page }) => {

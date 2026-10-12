@@ -1,9 +1,10 @@
 "use client";
 
-// Trang một truyện nhiều chương: nhớ chương đang đọc (đồng bộ qua progress-local), audio từng chương,
-// đọc tới cuối CHƯƠNG CUỐI mới tính đã đọc; nút "Chưa đọc ⇄ Đã đọc" trên thanh công cụ đánh dấu tay bất cứ lúc nào
-// (bấm tay thì lần mở này thôi tự đánh dấu). Truyện có Video hội thoại tương ứng → thẻ dẫn sang Video.
-import { useEffect, useLayoutEffect, useRef, useState } from "react";
+// Trang một truyện nhiều chương: nhớ chương đang đọc (đồng bộ qua progress-local), audio từng chương. Cuộn tới cuối
+// truyện KHÔNG tự đánh dấu; trả lời xong câu cuối của câu hỏi CHƯƠNG CUỐI, đúng từ 70% (PASS_SCORE như Ngữ pháp) mới
+// tự đánh dấu Đã đọc (câu hỏi các chương trước không đổi trạng thái; không bao giờ tự bỏ đánh dấu). Nút "Chưa đọc ⇄
+// Đã đọc" trên thanh công cụ đánh dấu tay bất cứ lúc nào. Truyện có Video hội thoại tương ứng → thẻ dẫn sang Video.
+import { useEffect, useLayoutEffect, useState } from "react";
 import Link from "next/link";
 import { ChevronLeft, ChevronRight, Clapperboard, Layers3, Library } from "lucide-react";
 import { TOPICS, fmtMinutes, loadStory, type StoryDoc } from "@/lib/library";
@@ -40,8 +41,6 @@ function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
   const [ch, setCh] = useState(0);
   const [showVi, setShowVi] = useState(false);
   const read = useIsRead(doc.id); // undefined = đang đọc IndexedDB
-  const manual = useRef(false); // đã bấm tay ở lần mở này → không tự đánh dấu nữa
-  const endRef = useRef<HTMLDivElement>(null);
   const chapter = doc.chapters[ch];
   const player = usePassageAudio(chapter.audio, `ss-${ch}-`);
   const lookup = useWordLookup();
@@ -57,24 +56,11 @@ function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
   useLayoutEffect(() => {
     window.scrollTo({ top: 0 });
   }, [ch]);
-  useEffect(() => {
-    const el = endRef.current;
-    if (!el || read !== false || !last || manual.current) return;
-    const io = new IntersectionObserver(
-      ([e]) => {
-        if (!e.isIntersecting || manual.current) return;
-        io.disconnect();
-        void setRead(doc.id, true).catch(() => {});
-      },
-      { rootMargin: "0px 0px -10% 0px" },
-    );
-    io.observe(el);
-    return () => io.disconnect();
-  }, [doc.id, read, last, ch]);
 
-  const toggleRead = () => {
-    manual.current = true;
-    void setRead(doc.id, !read).catch(() => {}); // ghi hỏng → banner StorageAlert (lib/db.ts)
+  // ghi hỏng → banner StorageAlert (lib/db.ts)
+  const toggleRead = () => void setRead(doc.id, !read).catch(() => {});
+  const quizDone = (passed: boolean) => {
+    if (passed && read !== true) void setRead(doc.id, true).catch(() => {});
   };
 
   const go = (k: number) => {
@@ -162,12 +148,18 @@ function Reader({ doc, grammar }: { doc: StoryDoc; grammar?: LessonRef[] }) {
           domPrefix={`ss-${ch}-`}
           canPlay={player.available}
         />
-        <div ref={endRef} data-testid="story-end" aria-hidden className="h-px" />
         {doc.source && <SourceNote source={doc.source} className="mt-8 border-t pt-4 text-xs leading-relaxed text-muted-foreground" />}
       </article>
 
       {chapter.quiz?.length ? (
-        <Quiz key={`${doc.id}-${ch}`} questions={chapter.quiz} showVi={showVi} onTapWord={(w) => void lookup.open(w)} title={`Câu hỏi · Chương ${ch + 1}`} />
+        <Quiz
+          key={`${doc.id}-${ch}`}
+          questions={chapter.quiz}
+          showVi={showVi}
+          onTapWord={(w) => void lookup.open(w)}
+          autoMark={last ? { unit: "truyện", done: read, onFinish: quizDone } : undefined}
+          title={`Câu hỏi · Chương ${ch + 1}`}
+        />
       ) : null}
 
       <div className="mt-4 flex items-center justify-between gap-3">

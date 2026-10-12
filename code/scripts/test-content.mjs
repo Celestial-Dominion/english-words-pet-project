@@ -7,7 +7,7 @@ import { analyzeSentence, analyzeWord, lemmaOf, ipaOf, profile, LEVEL_KEYS } fro
 import { parseFile, parseProse, parseChapters, parseDialogue, splitPair, parseKv, parseQuizFile } from "./lib/content-format.mjs";
 import { parseAnnotations } from "./lib/content-model.mjs";
 import { checkQuizBlock, quoteFound, quotesOf } from "./lib/quiz-check.mjs";
-import { quizScore, shuffledOrder, splitQuotes } from "../lib/quiz-pure.ts";
+import { quizPassMin, quizPassed, quizScore, shuffledOrder, splitQuotes } from "../lib/quiz-pure.ts";
 import { lineTokens, wordCount, lineIndexAt, wordAt, keyRanges, castOnStage, sceneAt } from "../lib/video.ts";
 
 let pass = 0;
@@ -195,6 +195,12 @@ eq("IPA không bịa: tên lạ", ipaOf("Zyxworth"), "");
   eq("shuffledOrder là hoán vị và có xáo", [...perms].every((p) => p.split(",").sort().join() === "0,1,2,3") && perms.size > 10, true);
   eq("shuffledOrder rand=0 tất định", shuffledOrder(3, () => 0), [1, 2, 0]);
   eq("quizScore", quizScore([1, 0, 2], [1, 2, undefined]), { done: 2, correct: 1, total: 3 });
+  eq("quizPassMin 70% như Ngữ pháp: 3/4/5/10 câu cần 3/3/4/7", [3, 4, 5, 10].map(quizPassMin), [3, 3, 4, 7]);
+  eq(
+    "quizPassed đạt / chưa đạt",
+    [quizPassed(2, 3), quizPassed(3, 3), quizPassed(2, 4), quizPassed(3, 4), quizPassed(4, 4), quizPassed(0, 0)],
+    [false, true, false, true, true, false],
+  );
   eq("splitQuotes", splitQuotes("Bài: «A b.» nhé"), [{ text: "Bài: ", quote: false }, { text: "A b.", quote: true }, { text: " nhé", quote: false }]);
 }
 
