@@ -208,12 +208,12 @@ ND** (cấm phái sinh). Nhãn hợp lệ = khoá `LICENSES` (`scripts/lib/conte
 
 | Nguồn | Giấy phép | Hợp cấp |
 |---|---|---|
-| `standardebooks/*` (Aesop, Andersen, Grimm, Kipling, Wilde, O. Henry, Saki, Chekhov–Garnett, Doyle, Jerome, Franklin, Thoreau, Mill, Hazlitt, Emerson, Joyce, Leacock, Twain, Chesterton…) | public domain (+ CC0) | A2–C2 |
+| `standardebooks/*` (Aesop, Andersen, Grimm, Kipling, Wilde, O. Henry, Saki, Chekhov–Garnett, Doyle, Jerome, Franklin, Thoreau, Mill, Hazlitt, Emerson, Joyce, Leacock, Twain, Chesterton, Veblen, Addams, Gilman, Woolf, Wharton…) | public domain (+ CC0) | A2–C2 |
 | `GITenberg/*` (Project Gutenberg, vd. Baldwin *Fifty Famous Stories*) | public domain | B1–B2 |
 | `global-asp/asp-source`, `pb-source`, `lida-source` (African Storybook, Pratham StoryWeaver; `sbc-source` = Storybooks Canada, có thư mục `vi/` dịch sẵn 40 truyện) | CC BY 4.0 / CC BY-NC 4.0 / CC BY-NC-SA 4.0 — ghi đúng giấy phép từng truyện (dòng `* License:` cuối file) | A1–A2 |
-| `openstax/osbooks-*` (Tâm lý, Xã hội học, Triết học, Lịch sử, Thiên văn, Sinh học) | CC BY 4.0 (soát từng sách) | B2–C1 |
+| ~~`openstax/osbooks-*`~~ — **không dùng nữa** (10/2026: sách hiện hành đổi sang CC BY-NC-SA và cấm đưa nội dung vào AI khi chưa xin phép) | — | — |
 | Web (từ 10/2026): VOA Learning English (trừ bài/ảnh AP–Reuters–AFP) | public domain | A2–B1 |
-| Web: Frontiers for Young Minds, eLife digests, Our World in Data (trừ dữ liệu bên thứ ba) | CC BY 4.0 | B1–C1 |
+| Web: Frontiers for Young Minds, eLife digests, Our World in Data (trừ dữ liệu bên thứ ba) | CC BY 4.0 | B1–C2 |
 | Web: Global Voices | CC BY 3.0 | B2–C1 |
 | Web: Wikipedia / Simple English Wikipedia / Wikivoyage — chỉ làm nguồn dữ kiện, kể lại hoàn toàn | CC BY-SA 4.0 | A2–C1 |
 
@@ -250,15 +250,17 @@ Số mục tiêu nằm ở `TARGETS` (`scripts/lib/content-spec.mjs`); đo bằn
 | B1 | 96% | 70% | 35% | ≥ 20 | ≥ 3 | narrative, explanation, informational, news, opinion, how-to, letter, biography, review, interview (≥ 5) |
 | B2 | 90% | 60% | 30% | ≥ 20 | ≥ 3 | narrative, explanation, analysis, argument, news, opinion, review, interview, case-study, biography, letter, comparison (≥ 5) |
 | C1 | 87% | 50% | 25% | ≥ 21 | ≥ 3 | narrative, analysis, argument, explanation, opinion, review, case-study, biography, interview, comparison, description (≥ 5) |
+| C2 | 70% | 35% | – | ≥ 13 | ≥ 3 | như C1 (≥ 5) |
 
 Bản đầu (đạt 10/2026): ≥ 3 bài A1 85 · A2 70 · B1 60 · B2 50 · C1 40%; giờ 6,5 / 9 / 16 / 16 / 17. `--targets` in thêm "thiếu ngữ
 cảnh" = tổng số lần từ đích phải gặp thêm để đạt cả ba ngưỡng (lấp từ gần ngưỡng trước).
 
-**C2 không đặt mục tiêu** (chủ app quyết 10/2026): người học C2 cần chuyển sang văn bản thật (CEFR: "hầu như mọi loại
-văn bản"), thư viện C2 chỉ là phần mở đầu.
+**C2 đặt mốc thấp hơn C1** (chủ app quyết 10/2026): người học C2 cần chuyển sang văn bản thật (CEFR: "hầu như mọi loại
+văn bản"), thư viện C2 là phần đệm để gặp lại từ C2 trong ngữ cảnh, không đặt mốc ≥ 5 bài.
 
-**Trạng thái 10/2026**: A1–C1 đạt mốc bản đầu; đang làm Mục tiêu 2.0. Mỗi cấp A2–C1 có thêm một tác phẩm dài chia nhiều
-phần (`series:`): Oz (A2), The Story of the Treasure Seekers (B1), Around the World in Eighty Days (B2), The Time Machine (C1). Cách lấp nhanh nhất: bài đọc tự biên soạn theo cụm
+**Trạng thái 10/2026**: A1–C2 đạt Mục tiêu 2.0 (C2: 145 bài đọc + 49 truyện, 14,3 giờ, ≥ 1 bài 73,5%, ≥ 3 bài 38,0%). Mỗi cấp
+A2–C2 có một tác phẩm dài chia nhiều phần (`series:`): Oz (A2), The Story of the Treasure Seekers (B1), Around the World in
+Eighty Days (B2), The Time Machine (C1), Herland và The Age of Innocence (C2). Cách lấp nhanh nhất: bài đọc tự biên soạn theo cụm
 chủ đề nhắm đúng từ đang gặp 2 bài (mỗi lần gặp thêm kéo một từ lên ≥ 3) và từ chưa gặp (kéo ≥ 1), 15–30 từ thiếu/bài;
 truyện nguồn mở chủ yếu để đủ giờ đọc (một truyện kể lại "tự nhiên" chỉ phủ thêm ~10 từ thiếu).
 
@@ -319,6 +321,11 @@ Tiếng Việt chiếm 55–75% token của một file bài/truyện/câu hỏi 
 - Viết file bài **chỉ tiếng Anh** (câu, `title:`, `## Chương`, `summary:` tiếng Anh) và file câu hỏi chỉ `? / + / -` tiếng Anh, giải
   thích ghi `> ~cụm từ trong câu làm căn cứ` → `npm run content:mt -- fill <file bài> <file câu hỏi>` điền tiếng Việt (Google
   Translate) và sinh `> Bài đọc: «câu nguyên văn»` / `> Chương N: «…»`.
+- **Bộ dịch macOS** (nên dùng — chạy trên máy, không bị chặn, ~60 dòng/giây): `CONTENT_MT_ENGINE=apple npm run content:mt -- fill …`
+  (`scripts/apple-translate.swift`, tự biên dịch lần đầu; cần macOS 26+ và đã tải gói English + Tiếng Việt ở Cài đặt hệ thống →
+  Cài đặt chung → Ngôn ngữ & Vùng → Ngôn ngữ dịch…). Google gtx hay trả 429 khi chạy nhiều — gặp thì dừng, không lách. Bản máy
+  của Apple cần soát kỹ hơn: dịch sát chữ ("account" → "tài khoản", "May" → "Có thể", "eloquent" → "duyên tài"), lệch thuật ngữ
+  với bài (soát lại theo bản dịch bài), "anh ấy/cô ấy" cho mọi nhân vật.
 - `content:mt -- vi <file>` in "số-dòng|VI" để soát; sửa bằng `content:mt -- fix <file>` (stdin "số-dòng|VI mới"). Lỗi máy hay gặp:
   xưng hô ("bạn", "anh ấy" → theo vai), số chữ thành số ("eleven" → "11" — giữ chữ để khớp bộ kiểm), từ miền Nam (chén → bát,
   trái → quả), đảo/gộp ngoặc kép (dòng có ngoặc kép lẻ được báo), câu cứng kiểu "nó tồn tại".

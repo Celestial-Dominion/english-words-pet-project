@@ -1,0 +1,112 @@
+// Bài đọc C2 phỏng theo nguồn mở (đợt 9 "làm nốt kế hoạch C2", 10/2026): Charlotte Perkins Gilman, Women and Economics
+// (1898) — phạm vi công cộng, bản Standard Ebooks trên GitHub. Ba bài: ch. 1–2 (quan hệ "tính dục–kinh tế"), ch. 11–14
+// (nhà không bếp, nấu ăn và trông trẻ chuyên nghiệp), so sánh Gilman với Veblen. Thay cho OpenStax trong kế hoạch: từ 2026
+// OpenStax chuyển sang CC BY-NC-SA và cấm đưa nội dung vào mô hình AI khi chưa xin phép → không dùng.
+
+=== rd-c2-women-and-economics
+title: Women and Economics | Phụ nữ và kinh tế
+topic: economics
+genre: analysis
+names: Charlotte Perkins Gilman, Gilman, Herland, Harriet Beecher Stowe, Connecticut
+gloss: economically, dependence, sexuo-economic, provider, genteel, nesting, untenable, prescient, inculcated
+source: Women and Economics | Charlotte Perkins Gilman (1898), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/charlotte-perkins-gilman_women-and-economics
+
+Charlotte Perkins Gilman is remembered today chiefly as the author of a chilling short story about a woman's descent into delusion and of Herland, a novel depicting a utopia without men. | Ngày nay Charlotte Perkins Gilman được nhớ đến chủ yếu như tác giả của một truyện ngắn rùng rợn về một người phụ nữ rơi dần vào hoang tưởng, và của Herland, cuốn tiểu thuyết miêu tả một xứ sở lý tưởng không có đàn ông.
+In her own lifetime, however, she was best known for a work of economic theory, Women and Economics, which appeared in 1898 and was soon translated into several languages. | Tuy vậy, khi bà còn sống, tác phẩm nổi tiếng nhất của bà lại là một công trình lý thuyết kinh tế, Phụ nữ và kinh tế, ra đời năm 1898 và chẳng bao lâu được dịch ra nhiều thứ tiếng.
+A great-niece of the novelist Harriet Beecher Stowe, she had grown up in genteel poverty in Connecticut, and she knew from bitter experience what it meant for a woman to depend on others for her bread. | Là cháu gọi nhà tiểu thuyết Harriet Beecher Stowe bằng bà cô, bà lớn lên trong cảnh nghèo mà vẫn giữ nếp lịch sự ở Connecticut, và bà biết qua trải nghiệm cay đắng việc một người phụ nữ phải trông vào người khác để có miếng ăn là thế nào.
+
+The book's central argument is stated with disarming simplicity in its opening pages. | Luận điểm trung tâm của cuốn sách được nêu ra giản dị đến bất ngờ ngay những trang đầu.
+Human beings, Gilman observes, are the only animal species in which the female depends on the male for food, and the only one in which the relation between the sexes is also an economic relation. | Gilman nhận xét rằng con người là loài động vật duy nhất mà con cái phải dựa vào con đực để có thức ăn, và là loài duy nhất mà quan hệ giữa hai giới đồng thời là một quan hệ kinh tế.
+Among birds and other animals, the male may help to feed the young during the nesting season, but no adult female must subsist permanently on what a mate provides. | Ở chim và các loài vật khác, con đực có thể giúp nuôi con non trong mùa làm tổ, nhưng không con cái trưởng thành nào phải sống mãi bằng những gì bạn đời cung cấp.
+Gilman called this peculiar arrangement the sexuo-economic relation, and she regarded it as the hidden root of a plethora of human ills. | Gilman gọi sự sắp đặt kỳ lạ này là quan hệ giới tính - kinh tế, và bà coi nó là gốc rễ ẩn giấu của vô số tệ nạn trong đời sống con người.
+
+The consequences, she argued, were pervasive and largely invisible because they were so familiar. | Bà lập luận rằng hậu quả của nó lan khắp nơi mà phần lớn lại vô hình, chính vì chúng quá quen thuộc.
+Since a woman's livelihood depended on attracting and retaining a husband, she was obliged to cultivate whatever qualities made her pleasing to men, often at the expense of strength, competency and curiosity. | Vì sinh kế của người phụ nữ phụ thuộc vào việc thu hút và giữ được một người chồng, cô buộc phải trau dồi bất cứ phẩm chất nào khiến đàn ông hài lòng, thường phải đánh đổi bằng sức mạnh, năng lực và trí tò mò.
+Girls were trained from childhood in this precarious art, and the traits that resulted were then mistaken for the immutable nature of women. | Các bé gái được rèn luyện thứ nghệ thuật bấp bênh này từ thuở nhỏ, và những nét tính cách hình thành từ đó lại bị lầm tưởng là bản chất không thể thay đổi của phụ nữ.
+Meanwhile, the household labour that women performed, however arduous, was unpaid and therefore economically invisible, with no correlation between the work a wife did and the comfort she enjoyed. | Trong khi đó, việc nhà mà phụ nữ làm, dù vất vả đến đâu, đều không được trả công và vì thế vô hình về mặt kinh tế, chẳng có mối liên hệ nào giữa công sức người vợ bỏ ra và sự sung túc cô được hưởng.
+
+Gilman was careful to emphasize that the fault lay not in women themselves but in the condition imposed on them. | Gilman cẩn thận nhấn mạnh rằng lỗi không nằm ở bản thân phụ nữ mà ở hoàn cảnh bị áp đặt lên họ.
+She described the dependent wife as a person whose development had been arrested, relegated to a narrow sphere in which the social virtues could never fully mature. | Bà mô tả người vợ sống phụ thuộc là một người mà sự phát triển đã bị kìm hãm, bị đẩy vào một phạm vi chật hẹp trong đó các đức tính xã hội không bao giờ trưởng thành trọn vẹn.
+Even men, she suggested, were harmed by the arrangement, since a husband who bore the whole burden of provision became anxious, materialistic and inclined to see his family as a possession. | Bà cho rằng ngay cả đàn ông cũng bị tổn hại bởi sự sắp đặt này, vì người chồng gánh toàn bộ việc chu cấp sẽ trở nên lo âu, thực dụng và có xu hướng coi gia đình như một thứ tài sản.
+In her view, the entire human race was hampered by keeping half its members out of the collective work of the world. | Theo bà, cả loài người bị cản trở vì gạt một nửa thành viên của mình ra khỏi công việc chung của thế giới.
+
+Her remedy was economic independence for women, which she believed would benefit marriage rather than destroy it. | Phương thuốc của bà là độc lập kinh tế cho phụ nữ, điều mà bà tin sẽ có lợi cho hôn nhân chứ không phá hủy nó.
+A union between two self-supporting adults, she argued, would rest on genuine affection and mutual respect instead of financial necessity. | Bà lập luận rằng sự kết hợp giữa hai người trưởng thành tự nuôi sống bản thân sẽ dựa trên tình cảm chân thật và sự tôn trọng lẫn nhau thay vì nhu cầu tiền bạc.
+Critics reviled her as an enemy of the family, motherhood and the sanctity of the home, and some of her more sweeping evolutionary claims now seem dated or untenable. | Những người phản đối chửi rủa bà là kẻ thù của gia đình, của thiên chức làm mẹ và sự thiêng liêng của tổ ấm, và một số khẳng định có tính tiến hóa quá chung chung của bà nay có vẻ lỗi thời hoặc không đứng vững.
+Yet many of her observations have proved uncannily prescient, from the economic value of unpaid domestic work to the way in which gender expectations are inculcated in childhood. | Thế nhưng nhiều nhận xét của bà đã tỏ ra có tầm nhìn xa đến kỳ lạ, từ giá trị kinh tế của việc nhà không được trả công đến cách những kỳ vọng về giới được nhồi nhét từ thời thơ ấu.
+More than a century later, economists who try to measure the intangible contribution of caregiving are, knowingly or not, continuing the inquiry that she began. | Hơn một thế kỷ sau, các nhà kinh tế tìm cách đo lường đóng góp vô hình của công việc chăm sóc, dù biết hay không, đang tiếp tục cuộc tìm tòi mà bà đã khởi đầu.
+
+=== rd-c2-the-kitchenless-home
+title: The Kitchenless Home | Ngôi nhà không bếp
+topic: family
+genre: argument
+names: Charlotte Perkins Gilman, Gilman
+gloss: kitchenless, cooks, nurseries, apartment, apartments, hotels, residential, dependence, shrewdness, impractical, co-housing
+source: Women and Economics | Charlotte Perkins Gilman (1898), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/charlotte-perkins-gilman_women-and-economics
+
+Having diagnosed the economic dependence of women as the root of many social ills, Charlotte Perkins Gilman did not stop at criticism. | Sau khi chẩn đoán sự phụ thuộc kinh tế của phụ nữ là gốc rễ của nhiều tệ nạn xã hội, Charlotte Perkins Gilman không dừng lại ở phê phán.
+In the later chapters of Women and Economics, she sketched a practical alternative that struck many of her contemporaries as a kind of heresy: the kitchenless home. | Trong các chương sau của Phụ nữ và kinh tế, bà phác ra một phương án thực tế mà nhiều người cùng thời coi như một kiểu dị giáo: ngôi nhà không bếp.
+Her reasoning began with a deceptively simple question about efficiency, which she pursued with tenacious logic. | Lập luận của bà bắt đầu từ một câu hỏi tưởng như đơn giản về hiệu quả, câu hỏi mà bà theo đuổi bằng một thứ logic bền bỉ.
+
+In every other field of human activity, Gilman pointed out, progress had come through specialization, the division of labour that turns amateurs into proficient experts. | Gilman chỉ ra rằng trong mọi lĩnh vực hoạt động khác của con người, tiến bộ đều đến nhờ chuyên môn hóa, tức sự phân công lao động biến người nghiệp dư thành chuyên gia thành thạo.
+Yet cooking, one of the most important of all human functions, was still performed by millions of untrained amateurs, each working alone in a separate kitchen for a single family. | Thế nhưng nấu ăn, một trong những chức năng quan trọng nhất của con người, vẫn do hàng triệu người nghiệp dư chưa qua đào tạo đảm nhận, mỗi người làm một mình trong một căn bếp riêng cho một gia đình.
+It was permanently impossible, she wrote, for half the world, acting as amateur cooks for the other half, to attain any high degree of scientific accuracy or skill. | Bà viết rằng một nửa thế giới, làm đầu bếp nghiệp dư cho nửa kia, thì mãi mãi không thể đạt tới độ chính xác hay tay nghề khoa học cao.
+The inevitable results were inefficiency, monotony and a standard of nutrition far below what modern knowledge could provide, a deplorable state of affairs in so advanced a society. | Kết quả tất yếu là sự kém hiệu quả, sự đơn điệu và một mức dinh dưỡng thấp hơn nhiều so với những gì kiến thức hiện đại có thể mang lại, một tình trạng đáng chê trách trong một xã hội tiến bộ đến thế.
+
+Her solution was to transfer such work to trained professionals. | Giải pháp của bà là chuyển những công việc ấy cho người chuyên nghiệp đã qua đào tạo.
+She envisaged apartment buildings and residential hotels in which meals would be prepared in a central kitchen by qualified cooks and served to families in their own dining rooms or in a common hall. | Bà hình dung những tòa chung cư và khách sạn dành cho cư dân, trong đó bữa ăn được các đầu bếp có tay nghề nấu ở một bếp trung tâm rồi dọn cho từng gia đình trong phòng ăn riêng hoặc ở một sảnh chung.
+Cleaning and laundry could be undertaken by specialized services, and young children could spend part of each day in nurseries staffed by teachers who had chosen that vocation. | Việc dọn dẹp và giặt giũ có thể giao cho các dịch vụ chuyên biệt, còn trẻ nhỏ có thể dành một phần mỗi ngày ở nhà trẻ do những giáo viên đã chọn nghề ấy làm thiên chức trông nom.
+Freed from the drudgery of these tasks, women could pursue paid work of their own, and the home would become a place of rest and affection rather than a small, inefficient factory. | Thoát khỏi những việc nặng nhọc lặp đi lặp lại ấy, phụ nữ có thể theo đuổi công việc được trả lương của riêng mình, và tổ ấm sẽ thành nơi nghỉ ngơi và yêu thương thay vì một xưởng máy nhỏ kém hiệu quả.
+
+Gilman anticipated the objections with considerable shrewdness and a certain magnanimity toward her critics. | Gilman lường trước các ý kiến phản đối với sự sắc sảo đáng kể và một thái độ độ lượng nhất định với những người chỉ trích mình.
+She acknowledged that many people found something abhorrent in the idea of food cooked outside the home, and she attributed this to a long-standing myth about the privacy of the household. | Bà thừa nhận rằng nhiều người thấy ghê sợ ý tưởng ăn đồ nấu ngoài nhà, và bà cho rằng điều đó bắt nguồn từ một huyền thoại lâu đời về sự riêng tư của gia đình.
+Eating together, she conceded, did form a bond, but she insisted that the bond lay in companionship rather than in the identity of the person who had stirred the soup. | Bà công nhận rằng ăn cùng nhau quả có tạo nên sự gắn bó, nhưng bà khẳng định sự gắn bó ấy nằm ở việc quây quần bên nhau chứ không phải ở chỗ ai là người khuấy nồi canh.
+As for children, she maintained that devoted mothers were not necessarily expert educators, and that a child would lose nothing, and might gain a great deal of edification, by spending some hours each day with specialists. | Còn về trẻ em, bà cho rằng những người mẹ tận tụy không nhất thiết là nhà giáo dục giỏi, và một đứa trẻ sẽ chẳng mất gì, mà có thể được mở mang rất nhiều, nếu dành vài giờ mỗi ngày với các chuyên gia.
+
+To many readers in 1898, these proposals seemed not merely impractical but subversive of the family itself. | Với nhiều độc giả năm 1898, những đề xuất này không chỉ có vẻ thiếu thực tế mà còn phá hoại chính gia đình.
+Some cooperative housekeeping schemes came to fruition in American cities, but most proved ephemeral, and the single-family house with its private kitchen remained the archetype of respectable life for generations. | Một vài mô hình nội trợ hợp tác đã thành hiện thực ở các thành phố Mỹ, nhưng phần lớn chỉ tồn tại ngắn ngủi, và ngôi nhà một gia đình với căn bếp riêng vẫn là hình mẫu của cuộc sống nề nếp suốt nhiều thế hệ.
+Yet a great deal of what Gilman proposed has quietly come to pass in forms she did not foresee. | Thế nhưng rất nhiều điều Gilman đề xuất đã lặng lẽ thành hiện thực dưới những hình thức bà không lường trước.
+Ready-made meals, restaurant delivery, professional cleaning services and widespread daycare have transferred much domestic work to the market, often to poorly paid and undervalued workers rather than the respected professionals she imagined. | Đồ ăn chế biến sẵn, giao đồ ăn nhà hàng, dịch vụ dọn dẹp chuyên nghiệp và nhà trẻ phổ biến đã chuyển phần lớn việc nhà sang thị trường, thường vào tay những người lao động lương thấp, bị coi nhẹ, chứ không phải những chuyên gia được kính trọng như bà hình dung.
+Her kitchenless home was never built on the scale she hoped, but the questions she raised about who does the work of the household, and why, have never been more pertinent. | Ngôi nhà không bếp của bà chưa bao giờ được xây ở quy mô bà mong muốn, nhưng những câu hỏi bà đặt ra về việc ai làm việc nhà, và vì sao, chưa bao giờ thời sự hơn thế.
+Some historians even see her scheme as an early blueprint for the communal arrangements that reappear in every generation, from the commune to the co-housing project. | Một số nhà sử học thậm chí coi phương án của bà là bản thiết kế ban đầu cho những mô hình sống chung xuất hiện trở lại ở mọi thế hệ, từ công xã đến các dự án nhà ở cộng đồng.
+
+=== rd-c2-two-critics-of-the-idle-wife
+title: Two Critics of the Idle Wife | Hai nhà phê bình người vợ nhàn rỗi
+topic: society
+genre: comparison
+names: Charlotte Perkins Gilman, Gilman, Thorstein Veblen, Veblen, American
+gloss: economically, dependence, vicarious, vicariously, genteel, sardonic, incorrigible, deadpan, lucid
+source: Women and Economics | Charlotte Perkins Gilman (1898), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/charlotte-perkins-gilman_women-and-economics
+
+At the end of the nineteenth century, two American writers published remarkably similar critiques of the affluent household within a year of each other. | Cuối thế kỷ mười chín, hai nhà văn Mỹ cho ra những bài phê phán gia đình giàu có giống nhau đến kinh ngạc, cách nhau chưa đầy một năm.
+Charlotte Perkins Gilman's Women and Economics appeared in 1898, and Thorstein Veblen's The Theory of the Leisure Class followed in 1899. | Cuốn Phụ nữ và kinh tế của Charlotte Perkins Gilman ra đời năm 1898, và Lý thuyết về giai cấp nhàn rỗi của Thorstein Veblen tiếp nối năm 1899.
+Both were steeped in the evolutionary thinking of their age, and both singled out the same figure for analysis: the decorative, economically idle wife of a plutocrat, the very embodiment of genteel indolence. | Cả hai đều thấm đẫm tư duy tiến hóa của thời đại mình, và cả hai đều chọn cùng một hình tượng để phân tích: người vợ chỉ để trang trí, nhàn rỗi về kinh tế của một nhà tài phiệt, hiện thân của sự lười nhác kiểu quý phái.
+Their conclusions converged in striking ways, yet their temperaments and purposes could hardly have been more different. | Kết luận của họ gặp nhau theo những cách đáng chú ý, vậy mà tính khí và mục đích của hai người khó có thể khác nhau hơn.
+
+For Veblen, the idle wife was primarily a vehicle of display. | Với Veblen, người vợ nhàn rỗi trước hết là một phương tiện phô trương.
+She performed what he called vicarious leisure and vicarious consumption, spending her husband's money conspicuously so that his wealth could be seen by others. | Bà ta thực hiện điều ông gọi là nhàn rỗi thay và tiêu dùng thay, tiêu tiền của chồng một cách phô trương để người khác thấy được sự giàu có của ông ta.
+Her extravagant dress and refined incapacity for useful work were, in his account, a kind of advertisement that testified to the husband's munificence and power. | Theo cách ông trình bày, trang phục xa hoa và sự bất lực tinh tế với mọi công việc có ích của bà ta là một kiểu quảng cáo chứng thực sự hào phóng và quyền lực của người chồng.
+Veblen presented this as a dispassionate observation, and he was conspicuously averse to proposing any remedy. | Veblen trình bày điều này như một quan sát khách quan, và ông tỏ ra rõ ràng là không muốn đề xuất bất kỳ phương thuốc nào.
+
+Gilman approached the same figure from the opposite direction, focusing on what the arrangement did to the woman herself. | Gilman tiếp cận cùng hình tượng ấy từ hướng ngược lại, tập trung vào những gì sự sắp đặt ấy gây ra cho chính người phụ nữ.
+In her view, economic dependence distorted women's characters, confined their intellects and arrested the moral development of the entire species. | Theo bà, sự phụ thuộc kinh tế làm méo mó tính cách phụ nữ, giam hãm trí tuệ của họ và kìm hãm sự phát triển đạo đức của cả loài người.
+Where Veblen saw a symbol, Gilman saw a person whose potential had been squandered, and she wrote not with irony but with a reformer's urgency. | Ở chỗ Veblen thấy một biểu tượng, Gilman thấy một con người có tiềm năng bị phung phí, và bà viết không phải bằng giọng mỉa mai mà bằng sự khẩn thiết của một nhà cải cách.
+Her book ended not with a shrug but with a concrete program of economic independence, professional housework and shared nurseries. | Cuốn sách của bà không kết thúc bằng một cái nhún vai mà bằng một chương trình cụ thể về độc lập kinh tế, việc nhà chuyên nghiệp và nhà trẻ chung.
+
+The difference in tone reflected a difference in their underlying convictions. | Sự khác biệt về giọng điệu phản ánh sự khác biệt trong những niềm tin nền tảng của họ.
+Veblen, the sardonic outsider, seemed to doubt that human vanity could ever be reformed, and his detachment sometimes shaded into fatalism. | Veblen, người ngoài cuộc hay châm biếm, dường như nghi ngờ rằng tính phù phiếm của con người có thể được cải tạo, và sự tách biệt của ông đôi khi ngả sang thuyết định mệnh.
+Gilman, by contrast, was an incorrigible optimist who believed that social institutions, being human creations, could be redesigned by deliberate human effort. | Trái lại, Gilman là một người lạc quan không sửa được, tin rằng các thiết chế xã hội, vốn do con người tạo ra, có thể được thiết kế lại bằng nỗ lực có chủ đích của con người.
+Paradoxically, the more cynical of the two has proved the more widely quoted, while the more hopeful has often been relegated to the footnotes of intellectual history. | Nghịch lý thay, người hoài nghi hơn trong hai người lại được trích dẫn rộng rãi hơn, trong khi người nhiều hy vọng hơn thường bị đẩy xuống phần chú thích của lịch sử tư tưởng.
+Their styles differ as much as their conclusions: Veblen's prose is dense with arcane terminology and deadpan humour, whereas Gilman wrote for a broad audience in a lucid, often laudatory manner. | Văn phong của họ khác nhau chẳng kém gì kết luận: văn của Veblen dày đặc thuật ngữ bí hiểm và lối hài hước tỉnh bơ, còn Gilman viết cho đông đảo độc giả bằng giọng sáng sủa, thường đầy tán dương.
+Neither writer was a mediocrity, however, and each saw something that the other had missed. | Tuy vậy, không ai trong hai người là kẻ tầm thường, và mỗi người đều thấy điều mà người kia bỏ lỡ.
+
+Read together, the two books illuminate each other in unexpected ways. | Đọc cùng nhau, hai cuốn sách soi sáng lẫn nhau theo những cách bất ngờ.
+Veblen explains why the idle wife was valued by the society around her, and Gilman explains what that valuation cost the women who embodied it. | Veblen giải thích vì sao người vợ nhàn rỗi được xã hội quanh bà coi trọng, còn Gilman giải thích sự coi trọng ấy đã khiến những người phụ nữ hiện thân cho nó phải trả giá ra sao.
+One offers a diagnosis without a cure, the other a cure that its contemporaries were unwilling to accept. | Một người đưa ra chẩn đoán mà không có thuốc chữa, người kia đưa ra thuốc chữa mà người cùng thời không chịu chấp nhận.
+For modern readers, the most interesting lesson may be that the same social fact can sustain radically different interpretations, depending on whether one is chiefly interested in how a system works or in whom it harms. | Với độc giả hiện đại, bài học thú vị nhất có lẽ là cùng một sự thật xã hội có thể dẫn đến những cách lý giải hoàn toàn khác nhau, tùy vào việc người ta chủ yếu quan tâm hệ thống vận hành ra sao hay nó làm hại ai.

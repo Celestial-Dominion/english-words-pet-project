@@ -1,0 +1,113 @@
+// Bài đọc C2 phỏng theo nguồn mở (đợt 9 "làm nốt kế hoạch C2", 10/2026): Jane Addams, Twenty Years at Hull House
+// (1910) — phạm vi công cộng, bản Standard Ebooks trên GitHub. Ba bài: ch. 4–6 (chợ đêm thứ Bảy ở East End → mở Hull House
+// 1889), ch. 11 (Bảo tàng Lao động), ch. 13 (thanh tra rác phường 19). Tóm lược + bình luận theo cấp C2.
+
+=== rd-c2-the-hands-on-mile-end-road
+title: The Hands on Mile End Road | Những bàn tay trên đường Mile End
+topic: society
+genre: biography
+names: Jane Addams, Addams, Cedarville, Illinois, Mile End Road, East End, Toynbee Hall, Ellen Gates Starr, Starr, Chicago, Halsted Street, Charles Hull, Hull House, Nobel Peace Prize
+gloss: auction, auctioneer, cabbages, settlement, settlements, ineffaceable, furtively, snare, smothered, sickened, dilapidated, tenements
+source: Twenty Years at Hull House | Jane Addams (1910), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/jane-addams_twenty-years-at-hull-house
+
+Jane Addams was born in 1860 in the small town of Cedarville, Illinois, the daughter of a prosperous mill owner whose integrity and magnanimity she revered for the rest of her life. | Jane Addams sinh năm 1860 tại thị trấn nhỏ Cedarville, bang Illinois, con gái một chủ xưởng xay giàu có mà bà tôn kính sự chính trực và lòng hào hiệp suốt cuộc đời.
+She was among the first generation of American women to receive a college education, yet after graduating she found that society offered such women almost no vocation beyond marriage and polite philanthropy. | Bà thuộc thế hệ phụ nữ Mỹ đầu tiên được học đại học, thế nhưng sau khi tốt nghiệp, bà thấy xã hội gần như không cho những người phụ nữ như thế con đường nào ngoài hôn nhân và hoạt động từ thiện lịch sự.
+A protracted illness and the sudden death of her father left her, in her own words, in a state of nervous exhaustion that lasted for years. | Một trận ốm kéo dài và cái chết đột ngột của cha khiến bà, theo lời bà kể, rơi vào tình trạng kiệt quệ thần kinh kéo dài nhiều năm.
+
+During a tour of Europe in her early twenties she had an experience that she later described as ineffaceable. | Trong một chuyến du lịch châu Âu khi mới ngoài hai mươi, bà có một trải nghiệm mà về sau bà mô tả là không thể xóa nhòa.
+One Saturday night a missionary took a small party of tourists to the East End of London to witness the weekly auction of decaying vegetables on Mile End Road. | Một tối thứ Bảy, một nhà truyền giáo dẫn một nhóm nhỏ du khách đến khu East End của London để chứng kiến phiên đấu giá rau thối hằng tuần trên đường Mile End.
+The food was too rotten to keep until Monday, and it was sold off at midnight to a crowd of wretched, hungry people. | Thực phẩm đã quá hỏng để giữ đến thứ Hai, nên được bán tống vào lúc nửa đêm cho một đám đông khốn khổ, đói khát.
+What she remembered most vividly were the hands, a myriad of empty, pale hands reaching upward toward the auctioneer as he held out the cabbages. | Điều bà nhớ rõ nhất là những bàn tay, vô số bàn tay trống trơn, nhợt nhạt vươn lên phía người bán đấu giá khi ông ta giơ những cây bắp cải ra.
+For weeks afterwards she walked about the city almost furtively, afraid to look down narrow streets lest they disclose again that abject human need. | Suốt nhiều tuần sau đó, bà đi lại trong thành phố gần như lén lút, sợ nhìn xuống những con phố hẹp kẻo chúng lại phơi ra nỗi thiếu thốn cùng cực ấy của con người.
+
+Addams later came to regard the years that followed with some severity. | Về sau Addams nhìn lại những năm tiếp theo với con mắt khá nghiêm khắc.
+She read with a restless voracity, travelled and studied art, and she called this period the snare of preparation, a time in which educated young people prepare endlessly for a life of usefulness that never begins. | Bà đọc sách ngấu nghiến không yên, đi du lịch và học mỹ thuật, và bà gọi giai đoạn này là cái bẫy của sự chuẩn bị, quãng thời gian những người trẻ có học chuẩn bị mãi cho một cuộc đời hữu ích không bao giờ bắt đầu.
+She was not alone in this predicament, she argued, since a whole generation of graduates felt insulated from the real struggles of their age. | Bà lập luận rằng bà không đơn độc trong cảnh ngộ này, vì cả một thế hệ người tốt nghiệp đại học cảm thấy bị cách ly khỏi những cuộc vật lộn thật sự của thời đại mình.
+They were, she wrote, smothered and sickened with advantages, and their idleness bred a melancholy and an intangible guilt that no amount of culture could cure. | Bà viết rằng họ bị bóp nghẹt và phát ốm vì đủ mọi đặc quyền, và sự nhàn rỗi của họ sinh ra một nỗi u sầu cùng một cảm giác tội lỗi khó gọi tên mà không vốn văn hóa nào chữa được.
+
+The turning point came in 1888, when she visited Toynbee Hall, a house in the East End where young university men lived among the poor rather than patronizing them with occasional visits. | Bước ngoặt đến vào năm 1888, khi bà thăm Toynbee Hall, một ngôi nhà ở East End nơi các thanh niên đại học sống giữa người nghèo thay vì ban ơn cho họ bằng những chuyến thăm thỉnh thoảng.
+Back in America, she and her friend Ellen Gates Starr resolved to establish something similar, and in September 1889 they moved into a dilapidated mansion on Halsted Street in Chicago. | Trở về Mỹ, bà và người bạn Ellen Gates Starr quyết tâm lập một nơi tương tự, và tháng Chín năm 1889 họ dọn vào một dinh thự xuống cấp trên phố Halsted ở Chicago.
+The house had been built as the homestead of a wealthy citizen, Charles Hull, and it now stood in the vicinity of crowded tenements, factories and saloons inhabited mostly by recent immigrants. | Ngôi nhà vốn được xây làm nhà ở của một thị dân giàu có, Charles Hull, và giờ nằm giữa những khu nhà trọ chật chội, nhà máy và quán rượu, phần lớn là nơi ở của những người nhập cư mới đến.
+
+The two women furnished it as they would have furnished a house in any other part of the city, with pictures and books collected on their travels. | Hai người phụ nữ bày biện nó như họ sẽ bày biện một ngôi nhà ở bất kỳ khu nào khác trong thành phố, với tranh và sách sưu tầm trong những chuyến đi.
+They were convinced that beauty was not a luxury reserved for the rich and that the poor deserved edification as well as bread. | Họ tin chắc rằng cái đẹp không phải thứ xa xỉ dành riêng cho người giàu, và người nghèo xứng đáng được mở mang tâm trí chứ không chỉ có bánh mì.
+They offered a kindergarten, a daycare nursery, vocational classes, concerts and a public kitchen, and over the following decades the settlement grew into a sizable complex of thirteen buildings. | Họ mở một lớp mẫu giáo, một nhà trẻ ban ngày, các lớp dạy nghề, các buổi hòa nhạc và một bếp ăn công cộng, và trong những thập kỷ sau đó khu định cư lớn dần thành một quần thể đáng kể gồm mười ba tòa nhà.
+Addams insisted from the start that the house existed as much for its residents as for its neighbours, since it answered the subjective necessity of young people who longed to be of use. | Ngay từ đầu Addams đã khẳng định ngôi nhà tồn tại vì những người ở trong đó chẳng kém gì vì hàng xóm, vì nó đáp ứng nhu cầu tự thân của những người trẻ khao khát được có ích.
+She became one of the most outspoken reformers of her era, campaigning with staunch persistence for safer factories and women's suffrage, and in 1931 she was awarded the Nobel Peace Prize. | Bà trở thành một trong những nhà cải cách thẳng thắn nhất thời đại mình, kiên định vận động cho nhà máy an toàn hơn và quyền bầu cử của phụ nữ, và năm 1931 bà được trao giải Nobel Hòa bình.
+Yet she never claimed to have solved the problems she confronted, and the memory of those reaching hands seems to have remained with her as a reproach rather than a triumph. | Thế nhưng bà chưa bao giờ tự nhận đã giải quyết được những vấn đề mình đối mặt, và ký ức về những bàn tay vươn lên ấy dường như vẫn ở lại với bà như một lời trách móc hơn là một chiến thắng.
+
+=== rd-c2-the-labor-museum
+title: The Labor Museum | Bảo tàng Lao động
+topic: education
+genre: case-study
+names: Jane Addams, Addams, Hull House, Polk Street, Chicago, John Dewey, Dewey, Italian, Syrian, Irish, Russian
+gloss: spindle, spinning, looms, brash, intelligible, estrangement
+source: Twenty Years at Hull House | Jane Addams (1910), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/jane-addams_twenty-years-at-hull-house
+
+Of all the experiments that Jane Addams undertook at Hull House, the one that best reveals her originality was a modest room that she called the Labor Museum. | Trong mọi thử nghiệm Jane Addams tiến hành ở Hull House, thử nghiệm thể hiện rõ nhất óc sáng tạo của bà là một căn phòng khiêm tốn mà bà gọi là Bảo tàng Lao động.
+It grew out of a problem that troubled her from her earliest years in the immigrant quarter of Chicago: the widening rift between foreign-born parents and their children. | Nó nảy sinh từ một vấn đề khiến bà trăn trở từ những năm đầu ở khu nhập cư Chicago: hố ngăn cách ngày càng rộng giữa cha mẹ sinh ở nước ngoài và con cái họ.
+The children learned English quickly and absorbed the brash, materialistic confidence of the American city, while their parents, often illiterate and bewildered, seemed to them hopelessly old-fashioned, and their counsel was rarely heeded. | Lũ trẻ học tiếng Anh nhanh và thấm vẻ tự tin xốc nổi, thực dụng của thành phố Mỹ, trong khi cha mẹ chúng, thường mù chữ và bỡ ngỡ, có vẻ cổ hủ hết thuốc chữa trong mắt chúng, và lời khuyên của họ hiếm khi được nghe theo.
+Many young people were ashamed of the rustic manners, the vernacular speech and the old-world clothing of their own mothers and fathers. | Nhiều người trẻ xấu hổ vì cung cách quê mùa, lối nói thổ ngữ và quần áo kiểu cố hương của chính cha mẹ mình.
+
+The idea came to her one spring day as she walked down Polk Street, depressed by the difficulty of establishing genuine relations with her older neighbours. | Ý tưởng đến với bà vào một ngày xuân khi bà đi dọc phố Polk, chán nản vì khó xây dựng được quan hệ thực sự với những người hàng xóm lớn tuổi.
+She saw an old Italian woman sitting on a doorstep, spinning thread with a simple stick spindle, exactly as women had done for centuries in the villages of southern Europe. | Bà thấy một bà cụ người Ý ngồi trên bậc cửa, kéo sợi bằng một con suốt que đơn giản, đúng như phụ nữ ở các làng miền nam châu Âu đã làm hàng thế kỷ.
+It occurred to Addams that the skill in those weathered hands represented an intangible heritage that the city had taught the children to disdain. | Addams chợt nghĩ rằng tay nghề trong đôi bàn tay dày dạn sương gió ấy là một di sản vô hình mà thành phố đã dạy bọn trẻ coi thường.
+What if the old crafts could be presented not as relics of an abject poverty but as the early chapters of a history that ended in the modern factory? | Sẽ ra sao nếu những nghề thủ công xưa được giới thiệu không phải như di vật của cảnh nghèo khổ cùng cực mà như những chương đầu của một lịch sử kết thúc ở nhà máy hiện đại?
+
+Within a month, encouraged by the philosopher John Dewey, she had fitted out a room where neighbours who possessed traditional skills could demonstrate them. | Trong vòng một tháng, được nhà triết học John Dewey khích lệ, bà đã sửa sang một căn phòng nơi những người hàng xóm có tay nghề truyền thống có thể trình diễn chúng.
+In the immediate vicinity she found at least four distinct methods of spinning, used by Italian, Syrian, Irish and Russian women, and these were arranged in historical sequence. | Ngay trong vùng lân cận, bà tìm được ít nhất bốn cách kéo sợi khác nhau, do phụ nữ Ý, Syria, Ireland và Nga sử dụng, và chúng được sắp xếp theo trình tự lịch sử.
+Visitors could follow the evolution of the craft from the primitive spindle to the spinning wheel and finally to the industrial machine, and the same was done for weaving. | Khách tham quan có thể theo dõi sự tiến hóa của nghề từ con suốt thô sơ đến guồng quay tơ và cuối cùng là máy công nghiệp, và nghề dệt cũng được trình bày như vậy.
+On Saturday evenings the women worked at their wheels and looms before an audience, and their skill, long undervalued, became something to be lauded. | Vào các tối thứ Bảy, những người phụ nữ làm việc bên guồng quay và khung cửi trước khán giả, và tay nghề của họ, lâu nay bị coi nhẹ, trở thành điều đáng được ca ngợi.
+
+The effect on some families was remarkable. | Tác động lên một số gia đình thật đáng kể.
+Addams recounts the case of a girl who had been so averse to being seen with her mother in public that she would walk several paces ahead of her in the street. | Addams kể chuyện một cô gái ngại bị thấy đi cùng mẹ ở nơi công cộng đến mức luôn đi trước mẹ vài bước trên phố.
+After watching visitors gather respectfully around her mother's spinning, she began to regard her with a new and somewhat astonished esteem. | Sau khi thấy khách tham quan kính cẩn vây quanh xem mẹ mình kéo sợi, cô bắt đầu nhìn mẹ với một sự kính trọng mới mẻ và có phần sửng sốt.
+A tailor who feared that machines were making his trade obsolete took comfort, she reports, from a chart showing how recently steam power had replaced centuries of handwork. | Bà kể rằng một người thợ may vốn sợ máy móc khiến nghề của mình lỗi thời đã thấy được an ủi nhờ một biểu đồ cho thấy hơi nước mới thay thế hàng thế kỷ lao động thủ công gần đây thôi.
+
+The Labor Museum was a small institution, and it would be easy to exaggerate its achievements. | Bảo tàng Lao động là một thiết chế nhỏ, và rất dễ phóng đại thành tựu của nó.
+Yet it embodied a principle that was unusual in an age when most reformers expected immigrants simply to assimilate as quickly as possible and to discard their heritage as a hindrance. | Thế nhưng nó là hiện thân của một nguyên tắc khác thường ở một thời đại mà phần lớn các nhà cải cách chỉ mong người nhập cư hòa nhập càng nhanh càng tốt và vứt bỏ di sản của mình như một vật cản.
+Addams believed that culture consisted not in polished manners but in an understanding of the long-established occupations of ordinary people. | Addams tin rằng văn hóa không nằm ở cung cách bóng bẩy mà ở sự hiểu biết về những nghề nghiệp lâu đời của người bình thường.
+Rather than asking newcomers to forget their past, she tried to make that past intelligible to their children, so that generational change need not mean familial estrangement. | Thay vì bảo người mới đến quên quá khứ của mình, bà cố làm cho quá khứ ấy trở nên dễ hiểu với con cái họ, để sự đổi thay giữa các thế hệ không nhất thiết đồng nghĩa với sự xa cách trong gia đình.
+Modern museums of migration, oral history projects and community workshops all pursue, in their own ways, the insight she had on a doorstep in Polk Street: that heritage can be a lifeline rather than a burden. | Các bảo tàng di cư, các dự án lịch sử truyền khẩu và các xưởng cộng đồng ngày nay, theo cách riêng của mình, đều theo đuổi điều bà nhận ra trên một bậc cửa phố Polk: di sản có thể là chiếc phao cứu sinh chứ không phải gánh nặng.
+
+=== rd-c2-the-garbage-inspector
+title: The Garbage Inspector | Viên thanh tra rác
+topic: cities
+genre: case-study
+names: Jane Addams, Addams, Hull House, Chicago, Italian, Greek
+gloss: garbage, refuse, wagons, inspector, contractor, incinerator, alley, alleys, ward, unsanitary, sinecure, civic, quaint, vigilance
+source: Twenty Years at Hull House | Jane Addams (1910), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/jane-addams_twenty-years-at-hull-house
+
+When Jane Addams and her colleagues moved to the immigrant quarter of Chicago in 1889, one of the first features of the neighbourhood to strike them was the garbage. | Khi Jane Addams và các đồng nghiệp chuyển đến khu nhập cư Chicago năm 1889, một trong những điều đầu tiên ở khu phố khiến họ chú ý là rác.
+Huge wooden boxes were fixed to the pavement along every street, and in them refuse accumulated day after day, swelled in summer by decaying fruit discarded by the Italian and Greek traders. | Những thùng gỗ khổng lồ được gắn chặt vào vỉa hè dọc mọi con phố, và trong đó rác chất đống ngày này qua ngày khác, mùa hè còn đầy thêm vì trái cây thối do các tiểu thương người Ý và Hy Lạp vứt bỏ.
+The boxes emitted a whiff that hung over whole streets. | Những chiếc thùng tỏa ra một mùi hôi bao trùm cả những dãy phố.
+The city's collection system was inadequate everywhere, but in a crowded ward such as theirs it became a genuine menace to the health of the ward's populace. | Hệ thống thu gom của thành phố chỗ nào cũng yếu kém, nhưng ở một phường đông đúc như phường của họ, nó trở thành mối đe dọa thực sự cho sức khỏe của dân cư.
+Small children climbed on the boxes, played among them and, as children will, sometimes ate what they found there. | Trẻ nhỏ trèo lên thùng, chơi đùa giữa chúng và, như trẻ con vẫn thế, đôi khi ăn cả những gì chúng tìm thấy trong đó.
+Outbreaks of disease were a recurrent fear, and infant deaths were tragically common. | Dịch bệnh bùng phát là nỗi lo thường trực, và trẻ sơ sinh tử vong phổ biến đến đau lòng.
+
+For three years the residents of Hull House protested to the city authorities, installed a small incinerator and reported the deplorable conditions again and again, with little result, since the bureaucrats responsible seemed callous or simply indifferent. | Suốt ba năm, cư dân Hull House khiếu nại với chính quyền thành phố, lắp một lò đốt rác nhỏ và báo cáo đi báo cáo lại tình trạng tồi tệ, mà chẳng mấy kết quả, vì những viên chức phụ trách có vẻ nhẫn tâm hoặc đơn giản là thờ ơ.
+The turning point came when the women of the Hull House Woman's Club began to study the high death rate in the ward, which was among the worst in the city. | Bước ngoặt đến khi các bà trong Câu lạc bộ Phụ nữ Hull House bắt đầu nghiên cứu tỷ lệ tử vong cao trong phường, thuộc loại tệ nhất thành phố.
+Over two summers, the members carefully inspected the alleys and recorded hundreds of violations of the sanitary laws, which they forwarded to the city hall. | Trong hai mùa hè, các thành viên tỉ mỉ kiểm tra các con hẻm và ghi lại hàng trăm vi phạm luật vệ sinh, rồi chuyển lên tòa thị chính.
+When the contract for collecting garbage in the ward next came up, Addams herself submitted a bid, partly as a publicity tactic to expose the shortfall in services. | Khi hợp đồng thu gom rác của phường đến kỳ đấu thầu lại, chính Addams nộp hồ sơ dự thầu, một phần như một chiến thuật gây chú ý để phơi bày sự thiếu hụt dịch vụ.
+
+Her bid was not accepted, but the episode attracted so much attention that the mayor appointed her garbage inspector of the ward in 1895, at a salary of a thousand dollars a year. | Hồ sơ của bà không được chấp nhận, nhưng sự việc gây chú ý đến mức năm 1895 thị trưởng bổ nhiệm bà làm thanh tra rác của phường, với mức lương một nghìn đô la một năm.
+The appointment caused an outcry among the politicians, who had regarded the post as a convenient reward for loyal supporters. | Việc bổ nhiệm gây ra làn sóng phản đối trong giới chính khách, những người vốn coi chức vụ ấy là phần thưởng tiện lợi cho những người ủng hộ trung thành.
+Addams, however, treated it as anything but a sinecure, and she discharged her duties with a diligence that astonished her critics. | Tuy nhiên, Addams coi nó là bất cứ thứ gì trừ một chức ngồi không hưởng lộc, và bà làm nhiệm vụ với sự cần mẫn khiến những người chỉ trích phải sửng sốt.
+She rose at six in the morning to make sure the men were at work, and followed the loaded wagons, which dribbled refuse as they went, all the way to the dump. | Bà dậy lúc sáu giờ sáng để chắc rằng đám công nhân đã đi làm, và đi theo những xe chở đầy rác, vừa đi vừa rơi vãi, đến tận bãi đổ.
+She also insisted that the contractor increase the number of his wagons. | Bà cũng đòi nhà thầu tăng số xe chở rác.
+
+Many of her immigrant neighbours were aghast at the spectacle of a woman doing what they regarded as a man's job. | Nhiều người hàng xóm nhập cư kinh hoàng trước cảnh một người phụ nữ làm cái việc mà họ coi là việc của đàn ông.
+Addams answered them with an argument that she would repeat throughout her career: if it was womanly to nurse the sick in their homes, it was surely no less womanly to prevent the diseases that bred in unsanitary streets. | Addams đáp lại họ bằng một lập luận bà sẽ nhắc đi nhắc lại suốt sự nghiệp: nếu chăm người ốm tại nhà là việc của phụ nữ, thì ngăn ngừa những căn bệnh sinh ra từ những con phố mất vệ sinh chắc chắn cũng chẳng kém phần là việc của phụ nữ.
+She called this principle civic housekeeping, the idea that the care of a modern city was simply an extension of the care of a household. | Bà gọi nguyên tắc này là nội trợ đô thị, ý tưởng rằng việc chăm lo một thành phố hiện đại chỉ đơn giản là sự mở rộng của việc chăm lo một gia đình.
+The phrase sounds quaint today, but at the time it was a subtle, even subversive weapon, allowing women who could not yet vote to claim a legitimate role in municipal government. | Cụm từ ấy ngày nay nghe có vẻ cổ kính, nhưng thời đó nó là một vũ khí tinh tế, thậm chí có tính lật đổ, cho phép những người phụ nữ chưa có quyền bầu cử khẳng định một vai trò chính đáng trong chính quyền thành phố.
+
+The garbage episode did not transform the ward, and Addams was frank about the limits of what she accomplished. | Câu chuyện thu gom rác không làm thay đổi hẳn phường ấy, và Addams thẳng thắn về giới hạn của những gì bà làm được.
+Some of the most deplorable conditions persisted, and the post was eventually abolished in a reorganization, perhaps not by coincidence, shortly after a political opponent complained about her. | Một số tình trạng tồi tệ nhất vẫn còn đó, và chức vụ ấy cuối cùng bị bãi bỏ trong một đợt tái tổ chức, có lẽ không phải ngẫu nhiên, ngay sau khi một đối thủ chính trị phàn nàn về bà.
+Nevertheless, the story illustrates a conviction that underpinned all her work: that reform must begin not with grand theories but with tenacious attention to the mundane details of ordinary lives. | Dẫu vậy, câu chuyện minh họa một niềm tin làm nền cho mọi việc bà làm: cải cách phải bắt đầu không phải từ những lý thuyết lớn lao mà từ sự chú tâm bền bỉ vào những chi tiết vụn vặt của đời sống thường ngày.
+It also suggests that the most valuable thing an outsider can bring to a struggling neighbourhood is not charity but persistent, unglamorous vigilance and a refusal to condone what others have come to accept. | Nó cũng cho thấy điều quý giá nhất mà một người ngoài cuộc có thể mang đến cho một khu phố khó khăn không phải là lòng từ thiện, mà là sự cảnh giác kiên trì, không hào nhoáng, và sự khước từ dung túng những điều người khác đã quen chấp nhận.

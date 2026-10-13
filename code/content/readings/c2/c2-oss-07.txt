@@ -1,0 +1,113 @@
+// Bài đọc C2 phỏng theo nguồn mở (đợt 9 "làm nốt kế hoạch C2", 10/2026): Thorstein Veblen, The Theory of the Leisure
+// Class (1899) — phạm vi công cộng, bản Standard Ebooks trên GitHub. Ba bài: ch. 2–5 (nhàn rỗi và tiêu dùng phô trương),
+// ch. 6 (chuẩn mực thẩm mỹ của đồng tiền: thìa bạc, bãi cỏ, chó và mèo), ch. 7 (trang phục). Tóm lược + bình luận theo cấp C2.
+
+=== rd-c2-the-theory-of-the-leisure-class
+title: The Theory of the Leisure Class | Lý thuyết về giai cấp nhàn rỗi
+topic: economics
+genre: analysis
+names: Thorstein Veblen, Veblen, Norwegian, Wisconsin, Minnesota
+gloss: pecuniary, invidious, drudgery, honorific, deadpan, sardonic, superseded, tirelessly
+source: The Theory of the Leisure Class | Thorstein Veblen (1899), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/thorstein-veblen_the-theory-of-the-leisure-class
+
+In 1899 an obscure economist named Thorstein Veblen published a book that was at once a treatise on economics and one of the most scathing satirical portraits ever drawn of the rich. | Năm 1899, một nhà kinh tế học vô danh tên Thorstein Veblen cho ra một cuốn sách vừa là chuyên luận kinh tế vừa là một trong những bức chân dung trào phúng gay gắt nhất từng được vẽ về giới nhà giàu.
+The son of Norwegian immigrants who farmed in Wisconsin and Minnesota, Veblen grew up in an agrarian community and remained a sardonic outsider among the affluent families of the American elite. | Là con của những người nhập cư Na Uy làm nông ở Wisconsin và Minnesota, Veblen lớn lên trong một cộng đồng nông nghiệp và mãi là một người ngoài cuộc hay châm biếm giữa các gia đình giàu có của giới tinh hoa Mỹ.
+His book, The Theory of the Leisure Class, set out to explain why people who already have more than enough continue to labour so tirelessly to acquire still more. | Cuốn sách của ông, Lý thuyết về giai cấp nhàn rỗi, đặt mục tiêu giải thích vì sao những người đã có thừa đủ vẫn tiếp tục lao lực không mệt mỏi để kiếm thêm nữa.
+
+Veblen began not with modern cities but with what he called barbarian societies, in which honour belonged to the warrior and the hunter. | Veblen không bắt đầu từ các thành phố hiện đại mà từ cái ông gọi là các xã hội man rợ, nơi vinh dự thuộc về chiến binh và thợ săn.
+In such communities, he argued, any work that was merely productive came to be regarded as menial drudgery, fit only for the lowly and the defeated, while exploits of force conferred prestige. | Ông lập luận rằng trong những cộng đồng ấy, mọi công việc đơn thuần sản xuất dần bị coi là lao dịch hèn mọn, chỉ hợp với kẻ thấp kém và kẻ chiến bại, còn những chiến công bằng sức mạnh mới đem lại uy danh.
+Over time the possession of wealth itself became honorific, and the surest proof of possession was the ability to refrain from useful work altogether. | Theo thời gian, chính việc sở hữu của cải trở thành điều vinh dự, và bằng chứng chắc chắn nhất của sự sở hữu là khả năng hoàn toàn không phải làm công việc có ích.
+This was what Veblen called conspicuous leisure, a visible and sustained indolence that demonstrated to the populace that one had no need to earn a living. | Đó là điều Veblen gọi là nhàn rỗi phô trương, một sự lười nhác lộ liễu và kéo dài, chứng tỏ với thiên hạ rằng mình không cần kiếm sống.
+
+Leisure, however, had a practical drawback as a badge of status, because it could not easily be seen by strangers. | Tuy nhiên, nhàn rỗi có một nhược điểm thực tế khi làm huy hiệu địa vị, vì người lạ khó mà nhìn thấy nó.
+In a small village everyone knew who worked and who did not, but in a large modern city most people were anonymous figures who passed one another in the street. | Ở một ngôi làng nhỏ, ai cũng biết ai làm việc và ai không, nhưng ở một thành phố hiện đại rộng lớn, phần lớn mọi người là những bóng người vô danh lướt qua nhau trên phố.
+Conspicuous consumption therefore gradually superseded leisure as the predominant means of display: the extravagant house, the opulently furnished dining room and the needlessly expensive carriage. | Vì thế tiêu dùng phô trương dần thay thế nhàn rỗi để thành phương tiện phô bày chủ yếu: ngôi nhà xa hoa, phòng ăn bày biện lộng lẫy và cỗ xe ngựa đắt đỏ không cần thiết.
+The essential point, Veblen insisted, was not that such baubles were enjoyable but that they were wasteful, and their very wastefulness was precisely what made them reputable. | Veblen khẳng định điểm cốt yếu không phải là những món đồ hào nhoáng ấy mang lại niềm vui, mà là chúng lãng phí, và chính sự lãng phí ấy là thứ làm chúng được coi trọng.
+
+The engine that drove this system was what he called pecuniary emulation, the restless urge to match or surpass the class immediately above one's own. | Động cơ vận hành hệ thống này là cái ông gọi là sự ganh đua về tiền bạc, nỗi thôi thúc không ngừng muốn bằng hoặc vượt tầng lớp ngay trên mình.
+Because the standard was always relative, no income could ever be commensurate with the desire it engendered, and each gain merely raised the threshold of decency for everyone below. | Vì chuẩn mực luôn là tương đối, không thu nhập nào có thể tương xứng với ham muốn mà nó khơi dậy, và mỗi lần có thêm chỉ nâng ngưỡng sống cho ra hồn của mọi người bên dưới lên cao hơn.
+Even the poorest households, he observed, would economize on food and warmth in order to preserve some token of respectable expenditure. | Ông nhận xét rằng ngay cả những hộ nghèo nhất cũng sẵn sàng bớt ăn bớt mặc ấm để giữ lại chút dấu hiệu chi tiêu đàng hoàng.
+The result was an all-encompassing competition in which a great deal of effort was spent superfluously, producing envy and discontent rather than satisfaction. | Kết quả là một cuộc cạnh tranh bao trùm mọi mặt, trong đó rất nhiều công sức bị tiêu tốn thừa thãi, sinh ra ghen tị và bất mãn thay vì sự thỏa mãn.
+
+Part of the book's enduring appeal lies in its curious tone, a deadpan scientific detachment that makes its judgements all the more devastating. | Một phần sức hấp dẫn lâu bền của cuốn sách nằm ở giọng văn kỳ lạ của nó, một sự tách biệt khoa học tỉnh bơ khiến những phán xét của nó càng thêm tàn khốc.
+Veblen describes the rituals of polite society as an anthropologist might describe the customs of a remote tribe, as though the plutocrat's drawing room were a ceremonial hut. | Veblen tả các nghi thức của giới thượng lưu như một nhà nhân học tả phong tục của một bộ lạc xa xôi, như thể phòng khách của nhà tài phiệt là một túp lều tế lễ.
+Readers were never quite sure whether he intended to analyse the affluent or to ridicule them, and he never felt obliged to resolve the incongruity. | Người đọc không bao giờ chắc ông định phân tích hay chế giễu giới giàu có, và ông cũng chẳng thấy cần phải giải quyết sự mâu thuẫn ấy.
+
+More than a century later, the vocabulary he invented has become part of ordinary speech, and economists now speak of Veblen goods, for which demand rises as the price increases. | Hơn một thế kỷ sau, những từ ngữ ông đặt ra đã thành một phần của lời ăn tiếng nói thường ngày, và các nhà kinh tế giờ nói về hàng hóa Veblen, loại hàng mà nhu cầu tăng lên khi giá tăng.
+A designer handbag that cost a tenth of its price would, by this logic, lose most of its appeal, since its function is to signal rather than to carry things. | Theo logic này, một chiếc túi xách hàng hiệu có giá chỉ bằng một phần mười sẽ mất gần hết sức hấp dẫn, vì chức năng của nó là ra tín hiệu chứ không phải để đựng đồ.
+Some sociologists argue that the affluent of today prefer subtler signals, such as expensive education, organic food and exotic travel, yet this apparent rejection of materialism would hardly have surprised him. | Một số nhà xã hội học cho rằng giới giàu ngày nay ưa những tín hiệu tinh tế hơn, như học vấn đắt tiền, thực phẩm hữu cơ và những chuyến du lịch xa lạ, nhưng sự chối bỏ chủ nghĩa vật chất có vẻ như thế khó mà làm ông ngạc nhiên.
+What remains unsettling about Veblen is not his portrait of the rich but his suggestion that the same invidious comparisons quietly underpin the choices of almost everyone. | Điều vẫn khiến người ta bất an ở Veblen không phải là bức chân dung giới nhà giàu, mà là gợi ý của ông rằng chính những phép so sánh ganh tị ấy âm thầm làm nền cho lựa chọn của gần như tất cả mọi người.
+
+=== rd-c2-the-hand-wrought-spoon
+title: The Hand-Wrought Spoon | Chiếc thìa rèn tay
+topic: art
+genre: analysis
+names: Veblen
+gloss: pecuniary, aluminium, wrought, hand-wrought, artisanal, pasture, herdsmen, irregularities, hiss
+source: The Theory of the Leisure Class | Thorstein Veblen (1899), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/thorstein-veblen_the-theory-of-the-leisure-class
+
+In one of the most memorable passages of The Theory of the Leisure Class, Thorstein Veblen asks his readers to consider two spoons lying side by side on a table. | Trong một trong những đoạn đáng nhớ nhất của Lý thuyết về giai cấp nhàn rỗi, Thorstein Veblen bảo người đọc thử xem xét hai chiếc thìa nằm cạnh nhau trên bàn.
+One is a hand-wrought silver spoon costing perhaps twenty dollars, the work of a skilled artisan; the other is a machine-made spoon of aluminium, costing perhaps twenty cents. | Một chiếc là thìa bạc rèn tay, giá chừng hai mươi đô la, tác phẩm của một nghệ nhân lành nghề; chiếc kia là thìa nhôm làm bằng máy, giá chừng hai mươi xu.
+Both convey soup to the mouth equally well, and the cheaper one may even be lighter and more serviceable, yet almost everyone regards the silver spoon as more beautiful. | Cả hai đều đưa súp lên miệng tốt như nhau, và chiếc rẻ hơn thậm chí có thể nhẹ hơn và tiện dùng hơn, vậy mà hầu như ai cũng thấy chiếc thìa bạc đẹp hơn.
+
+Veblen did not deny that silver possesses a certain luminous quality, but he doubted that this alone could account for the enormous difference in our admiration. | Veblen không phủ nhận rằng bạc có một vẻ sáng ngời nhất định, nhưng ông ngờ rằng chỉ riêng điều đó khó giải thích được khoảng chênh lệch khổng lồ trong sự ngưỡng mộ của chúng ta.
+If the supposedly hand-wrought spoon turned out to be a clever counterfeit, he noted, its owner's pleasure would decline sharply, although nothing visible had changed. | Ông lưu ý rằng nếu chiếc thìa tưởng là rèn tay hóa ra là một món giả khéo léo, niềm vui của chủ nhân sẽ sụt hẳn, dù chẳng có gì nhìn thấy được thay đổi.
+The admiration, he concluded, attached less to the object itself than to its expensiveness, which our sensibility had silently learned to detect. | Ông kết luận rằng sự ngưỡng mộ gắn với bản thân đồ vật ít hơn là với sự đắt đỏ của nó, điều mà cảm quan của chúng ta đã lặng lẽ học được cách nhận ra.
+He called these hidden standards the pecuniary canons of taste, and he believed that they shaped judgements of refinement that people sincerely regarded as purely aesthetic. | Ông gọi những chuẩn mực ẩn giấu này là các quy tắc tiền bạc của thị hiếu, và ông tin rằng chúng định hình những phán xét về sự tinh tế mà người ta thành thật coi là thuần túy thẩm mỹ.
+
+The argument becomes more provocative when Veblen turns to the small flaws of handmade goods. | Lập luận trở nên khiêu khích hơn khi Veblen chuyển sang những khuyết điểm nhỏ của hàng làm tay.
+Machine production yields an immaculate regularity, but because flawless things are cheap and commonplace, that regularity itself comes to seem vulgar and gauche. | Sản xuất bằng máy cho ra sự đều đặn hoàn hảo, nhưng vì những thứ không tì vết lại rẻ và thông dụng, chính sự đều đặn ấy dần bị coi là thô thiển và vụng về.
+The slight irregularities of handwork, by contrast, are prized as evidence of costly labour, and consumers learn to find grandeur in precisely the marks that betray the human hand. | Trái lại, những chỗ không đều nho nhỏ của hàng thủ công được trân trọng như bằng chứng của lao động tốn kém, và người tiêu dùng học được cách thấy vẻ sang trọng ở đúng những dấu vết để lộ bàn tay con người.
+The same logic, he suggested, explains why an exact machine copy of a masterpiece arouses a faint contempt, however perfect its verisimilitude. | Ông cho rằng cùng logic ấy giải thích vì sao một bản sao bằng máy y hệt một kiệt tác lại gợi lên một chút khinh thường, dù nó giống thật hoàn hảo đến đâu.
+
+He applied this reasoning to the gardens of the wealthy, in particular to the pristine lawn that surrounded every respectable house. | Ông áp dụng lập luận này vào khu vườn của người giàu, đặc biệt là bãi cỏ tinh tươm bao quanh mọi ngôi nhà đàng hoàng.
+A lawn, he suggested, appeals to a people descended from herdsmen because it resembles a pasture, yet it must on no account be used as one. | Ông gợi ý rằng bãi cỏ hấp dẫn một dân tộc có tổ tiên là người chăn gia súc vì nó giống một đồng cỏ, nhưng tuyệt đối không được dùng làm đồng cỏ.
+Its beauty consists partly in the conspicuous waste of land that might have grown food, and partly in the costly upkeep required to keep it immaculate. | Vẻ đẹp của nó một phần nằm ở sự lãng phí lộ liễu mảnh đất lẽ ra có thể trồng lương thực, và một phần ở chi phí chăm sóc tốn kém để giữ nó luôn tinh tươm.
+
+His most playful illustration concerns domestic animals, which he ranked according to their uselessness. | Ví dụ dí dỏm nhất của ông là về vật nuôi trong nhà, mà ông xếp hạng theo mức độ vô dụng của chúng.
+The cat, which earns its keep by catching rodents and other vermin, is in his view a somewhat less reputable companion, while the dog, costly and of no industrial use, enjoys a correspondingly higher esteem. | Theo ông, con mèo, vốn tự kiếm cơm bằng cách bắt chuột và các loài gây hại khác, là một người bạn kém danh giá hơn đôi chút, trong khi con chó, tốn kém và chẳng có ích gì cho sản xuất, lại được quý trọng hơn tương ứng.
+The most coveted breeds were those with an elaborate pedigree, deliberately bred into grotesque shapes, since their very oddity advertised the expense of producing them. | Những giống được thèm muốn nhất là những giống có phả hệ cầu kỳ, được cố ý lai tạo thành những hình dạng kỳ quái, vì chính sự kỳ dị của chúng quảng cáo cho chi phí tạo ra chúng.
+
+Modern readers may protest that Veblen reduces every aesthetic experience to snobbery, and there is truth in the complaint. | Độc giả hiện đại có thể phản đối rằng Veblen quy mọi trải nghiệm thẩm mỹ về thói đua đòi, và lời phàn nàn ấy có phần đúng.
+People who have never heard of him still treasure objects that are cheap, and the cult of the minimalist interior celebrates austere plainness rather than opulence. | Những người chưa từng nghe tên ông vẫn trân quý những đồ vật rẻ tiền, và trào lưu sùng bái nội thất tối giản đề cao sự mộc mạc khắc khổ chứ không phải vẻ xa hoa.
+Yet anyone who has paid a premium for artisanal bread, a bespoke suit or an old record with its faint hiss may recognise his spoon on their own table. | Thế nhưng bất kỳ ai từng trả thêm tiền cho bánh mì thủ công, một bộ com-lê may đo hay một đĩa nhạc cũ có tiếng rè khe khẽ đều có thể nhận ra chiếc thìa của ông trên chính bàn ăn nhà mình.
+The value of his argument lies less in its completeness than in its power to make us ask, whenever we admire something, whether we are admiring the thing or its price. | Giá trị của lập luận ấy nằm ở sức mạnh buộc ta tự hỏi, mỗi khi ngưỡng mộ một thứ gì, rằng ta đang ngưỡng mộ bản thân nó hay giá tiền của nó, hơn là ở sự trọn vẹn của nó.
+
+=== rd-c2-the-dress-that-says-i-do-not-work
+title: The Dress That Says "I Do Not Work" | Chiếc váy nói rằng "Tôi không làm việc"
+topic: culture
+genre: analysis
+names: Veblen
+gloss: pecuniary, corset, athleisure, impractical, unsoiled, impediments, trench
+source: The Theory of the Leisure Class | Thorstein Veblen (1899), Standard Ebooks
+license: public domain
+source-url: https://github.com/standardebooks/thorstein-veblen_the-theory-of-the-leisure-class
+
+Of all the forms of expenditure that Thorstein Veblen examined, none seemed to him so revelatory of a society's values as clothing. | Trong mọi hình thức chi tiêu mà Thorstein Veblen xem xét, không gì theo ông bộc lộ rõ giá trị của một xã hội bằng quần áo.
+Food and furniture are seen only by guests, he observed, but dress is displayed to every passing stranger, and it therefore offers an unrivalled means of advertising one's standing at a glance. | Ông nhận xét rằng đồ ăn và đồ đạc chỉ khách đến nhà mới thấy, còn trang phục thì phô ra trước mọi người lạ đi ngang qua, vì thế nó là phương tiện có một không hai để quảng cáo địa vị của mình chỉ trong một cái liếc mắt.
+For this reason people will often go poorly dressed in private in order to appear well dressed in public, a sacrifice that would make little sense if clothes served merely to keep us warm. | Vì lẽ đó, người ta thường ăn mặc tuềnh toàng ở nhà để có thể ăn mặc chỉn chu ở nơi công cộng, một sự hy sinh sẽ chẳng mấy hợp lý nếu quần áo chỉ để giữ ấm.
+
+Veblen argued that respectable dress had to satisfy two requirements at once: it had to be expensive, and it had to show plainly that the wearer did no productive work. | Veblen lập luận rằng trang phục đàng hoàng phải đáp ứng cùng lúc hai yêu cầu: nó phải đắt tiền, và nó phải cho thấy rõ người mặc không làm công việc sản xuất nào.
+The gentleman's polished shoes, spotless linen, tall hat and walking stick were, in his account, eloquent precisely because they were incompatible with menial labour. | Theo cách ông trình bày, đôi giày bóng loáng, đồ vải lanh trắng tinh, mũ cao và cây gậy của quý ông nói lên nhiều điều chính vì chúng không thể đi đôi với lao động chân tay.
+Nobody could dig a trench or tend a machine in such garments without ruining them, and their unsoiled state was itself a declaration that the wearer was exempt from such tasks. | Không ai có thể đào hào hay vận hành máy móc trong những bộ đồ ấy mà không làm hỏng chúng, và chính vẻ sạch sẽ không vết bẩn của chúng là lời tuyên bố rằng người mặc được miễn những việc như thế.
+
+The clothing of fashionable women, he claimed, carried this logic much further, and his analysis here is at its most contemptuous. | Ông cho rằng trang phục của phụ nữ thời thượng đẩy logic này đi xa hơn nhiều, và phân tích của ông ở đây khinh miệt nhất.
+High heels, long skirts and above all the tight corset made any kind of physical effort difficult, and Veblen interpreted them as deliberate impediments. | Giày cao gót, váy dài và trên hết là chiếc áo nịt chật khiến mọi nỗ lực thể chất đều khó khăn, và Veblen coi chúng là những vật cản có chủ ý.
+In the patriarchal household he described, a wife's elaborate dress served to display not her own status but her husband's ability, as breadwinner, to maintain her in conspicuous idleness. | Trong gia đình gia trưởng mà ông mô tả, trang phục cầu kỳ của người vợ không phô bày địa vị của chính bà ta mà phô bày khả năng của người chồng, với tư cách trụ cột kinh tế, nuôi vợ trong cảnh nhàn rỗi lộ liễu.
+Modern historians have challenged this picture, pointing out that many women chose and enjoyed their clothes for reasons of their own, but his underlying observation retains some force. | Các nhà sử học hiện đại đã thách thức bức tranh này, chỉ ra rằng nhiều phụ nữ chọn và yêu thích quần áo của mình vì những lý do riêng, nhưng nhận xét nền tảng của ông vẫn còn ít nhiều sức nặng.
+
+Veblen was equally interested in why fashions change so restlessly from one season to the next. | Veblen cũng quan tâm không kém đến việc vì sao thời trang thay đổi không ngừng từ mùa này sang mùa khác.
+His answer was that novelty is itself a form of waste, since discarding garments that are still serviceable proves that one can afford to replace them. | Câu trả lời của ông là bản thân sự mới lạ đã là một hình thức lãng phí, vì vứt bỏ những bộ đồ vẫn còn dùng được chứng tỏ rằng người ta đủ tiền thay chúng.
+He added, with characteristic malice, that each new style tends to look absurd after a few years because it was never genuinely beautiful, only expensive and new. | Ông nói thêm, với giọng hiểm hóc quen thuộc, rằng mỗi kiểu mới thường trông lố bịch sau vài năm vì nó chưa bao giờ thực sự đẹp, chỉ đắt và mới.
+In his view, the inexorable cycle of fashion was not an aimless series of whims and fads but a system with a clear, if unacknowledged, purpose. | Theo ông, vòng quay không gì cưỡng nổi của thời trang không phải một chuỗi ý thích và mốt nhất thời vu vơ mà là một hệ thống có mục đích rõ ràng, dù không ai thừa nhận.
+The ephemerality of each style was not a defect of the system but its whole point. | Tính chóng tàn của mỗi kiểu không phải khiếm khuyết của hệ thống mà chính là toàn bộ ý nghĩa của nó.
+
+It is tempting to assume that this theory belongs to the age of corsets and top hats, yet contemporary dress offers some intriguing variations on his themes. | Người ta dễ cho rằng lý thuyết này thuộc về thời áo nịt và mũ chóp cao, thế nhưng trang phục đương đại lại có những biến tấu thú vị trên các chủ đề của ông.
+Expensive running shoes and so-called athleisure suggest a wearer with time for exercise, which may be the modern equivalent of conspicuous leisure. | Giày chạy bộ đắt tiền và cái gọi là đồ thể thao mặc thường ngày gợi ra một người mặc có thời gian tập luyện, điều có thể là phiên bản hiện đại của nhàn rỗi phô trương.
+Torn jeans that cost more than intact ones turn the old rules upside down, displaying a contrived shabbiness that only the secure can afford. | Quần jean rách đắt hơn quần lành đảo lộn các quy tắc cũ, phô ra vẻ tồi tàn cố ý mà chỉ những người dư dả mới kham nổi.
+Even the studied casualness of the technology billionaire, with his plain grey sweater, may announce that he is too powerful to need the glitzy display of lesser men. | Ngay cả vẻ xuề xòa có tính toán của tỷ phú công nghệ, với chiếc áo len xám giản dị, cũng có thể tuyên bố rằng ông ta quá quyền lực đến mức không cần phô trương hào nhoáng như những kẻ kém cỏi hơn.
+Whether or not one accepts Veblen's cynical account, it remains difficult, after reading him, to look at a wardrobe in quite the same way. | Dù có chấp nhận lời lý giải hoài nghi của Veblen hay không, sau khi đọc ông, khó mà nhìn một tủ quần áo theo cách hoàn toàn như trước nữa.

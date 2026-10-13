@@ -1,0 +1,121 @@
+// Bài đọc C2 phỏng theo nguồn mở (đợt 9 "làm nốt kế hoạch C2", 10/2026): Our World in Data (CC BY 4.0) — Max Roser,
+// "Why did renewables become so cheap so fast?" (2020); Max Roser, "The world is awful. The world is much better. The world
+// can be much better." (2022); trang chủ đề "Light at Night" (số liệu Fouquet & Pearson). Số liệu giữ theo bài gốc.
+
+=== rd-c2-why-solar-power-became-cheap
+title: Why Solar Power Became Cheap | Vì sao điện mặt trời trở nên rẻ
+topic: technology
+genre: explanation
+names: Our World in Data, Max Roser, Roser, Vanguard, Theodore Wright, Wright, Moore
+gloss: renewables, renewable, photovoltaic, watt, watts, megawatts, cumulative, deployment, module, modules, satellite, emissions
+source: Why did renewables become so cheap so fast? | Max Roser (2020), Our World in Data
+license: CC BY 4.0
+source-url: https://ourworldindata.org/cheap-renewables-growth
+
+Only fifteen years ago, building a new solar power plant was a costly act of idealism that few investors would underwrite, since electricity from the sun cost more than three times as much as electricity from coal. | Chỉ mười lăm năm trước, xây một nhà máy điện mặt trời mới là một hành động lý tưởng tốn kém mà ít nhà đầu tư chịu bỏ vốn, vì điện từ mặt trời đắt gấp hơn ba lần điện từ than.
+Today, in most places in the world, power from new solar and wind plants is cheaper than power from new fossil fuel plants. | Ngày nay, ở hầu hết mọi nơi trên thế giới, điện từ các nhà máy điện mặt trời và điện gió mới rẻ hơn điện từ các nhà máy nhiên liệu hóa thạch mới.
+The economist Max Roser, writing for Our World in Data, has argued that this reversal is one of the most consequential economic changes of our time, and that its causes remain arcane to much of the public. | Nhà kinh tế học Max Roser, viết cho Our World in Data, cho rằng sự đảo chiều này là một trong những thay đổi kinh tế hệ trọng nhất thời đại chúng ta, và nguyên nhân của nó vẫn còn khó hiểu với phần lớn công chúng.
+
+The key, Roser explains, lies in a phenomenon known as the learning curve. | Theo Roser, chìa khóa nằm ở một hiện tượng gọi là đường cong học tập.
+For many manufactured goods, each doubling of the cumulative quantity produced is accompanied by a roughly constant percentage fall in price, because every round of production teaches manufacturers how to eliminate inefficiency. | Với nhiều mặt hàng chế tạo, mỗi lần tổng sản lượng tích lũy tăng gấp đôi thì giá lại giảm theo một tỷ lệ phần trăm gần như không đổi, vì mỗi đợt sản xuất dạy nhà sản xuất cách loại bỏ sự kém hiệu quả.
+The pattern was first described in 1936 by the aeronautical engineer Theodore Wright, who noticed it in the construction of aircraft, and it is sometimes called Wright's law. | Quy luật này được kỹ sư hàng không Theodore Wright mô tả lần đầu năm 1936, khi ông nhận thấy nó trong việc chế tạo máy bay, và đôi khi được gọi là định luật Wright.
+Its most famous cousin is Moore's law, which describes the exponential improvement of computer chips and the corresponding fall in the cost of computation. | Người anh em nổi tiếng nhất của nó là định luật Moore, mô tả sự cải tiến theo cấp số nhân của chip máy tính và mức giảm tương ứng của chi phí tính toán.
+
+Solar technology illustrates the learning curve with remarkable clarity. | Công nghệ điện mặt trời minh họa đường cong học tập rõ ràng đến kinh ngạc.
+In 1956 a single watt of solar capacity cost the equivalent of about 1,865 dollars, so that one modern rooftop panel would have cost more than half a million. | Năm 1956, một oát công suất điện mặt trời có giá tương đương khoảng 1.865 đô la, nên một tấm pin trên mái nhà ngày nay khi đó sẽ có giá hơn nửa triệu.
+At such a price solar power was obviously unfeasible for ordinary use, but it found a niche in an unlikely place: space. | Với mức giá ấy, điện mặt trời rõ ràng không khả thi cho nhu cầu thông thường, nhưng nó tìm được một chỗ đứng ở một nơi khó ngờ: không gian vũ trụ.
+In 1958 a small satellite called Vanguard was powered by solar cells, and the space industry, for which cost was a secondary concern, kept a small but steady trickle of demand alive. | Năm 1958, một vệ tinh nhỏ tên Vanguard được cấp điện bằng pin mặt trời, và ngành vũ trụ, nơi chi phí chỉ là mối bận tâm thứ yếu, đã duy trì một dòng nhu cầu nhỏ nhưng đều đặn.
+
+That initial demand set in motion what Roser calls a virtuous cycle. | Nhu cầu ban đầu ấy khởi động điều mà Roser gọi là một vòng tuần hoàn tốt đẹp.
+Production taught manufacturers to make better and cheaper modules, lower prices opened up new markets, and new markets in turn stimulated further production, a loop that proved remarkably resilient to economic downturns. | Sản xuất dạy nhà sản xuất làm ra tấm pin tốt hơn và rẻ hơn, giá thấp hơn mở ra thị trường mới, và thị trường mới lại kích thích sản xuất thêm, một vòng lặp tỏ ra bền bỉ đáng kể trước các đợt suy thoái kinh tế.
+For more than four decades, each doubling of installed capacity was accompanied by a price fall of about twenty per cent. | Trong hơn bốn thập kỷ, mỗi lần công suất lắp đặt tăng gấp đôi thì giá lại giảm khoảng hai mươi phần trăm.
+Between 1976 and today, the price of a solar module fell from 106 dollars per watt to well under one dollar, a decline of more than ninety-nine per cent that would once have seemed unthinkable. | Từ năm 1976 đến nay, giá một tấm pin mặt trời đã giảm từ 106 đô la mỗi oát xuống dưới một đô la, mức giảm hơn chín mươi chín phần trăm mà trước kia hẳn bị coi là không tưởng.
+Government subsidies, often reviled as wasteful, played an important part in this burgeoning market, and their most enduring benefit may have been to push the technology down the curve faster. | Trợ cấp của chính phủ, thường bị chê bai là lãng phí, đã góp phần quan trọng vào thị trường đang bùng nổ này, và lợi ích lâu dài nhất của chúng có lẽ là đẩy công nghệ đi xuống đường cong nhanh hơn.
+
+Fossil fuels, by contrast, do not follow learning curves in the same way. | Ngược lại, nhiên liệu hóa thạch không đi theo đường cong học tập theo cách tương tự.
+The cost of electricity from a coal or gas plant depends largely on the price of the fuel it burns, and fuel must be extracted from the ground over and over again. | Chi phí điện từ một nhà máy than hay khí phụ thuộc phần lớn vào giá nhiên liệu nó đốt, và nhiên liệu thì phải khai thác từ lòng đất hết lần này đến lần khác.
+Improvements in the technology of combustion can make power stations somewhat more efficient, but they cannot make coal itself cheaper to mine indefinitely, and fuel prices fluctuate unpredictably. | Cải tiến công nghệ đốt có thể giúp nhà máy điện hiệu quả hơn đôi chút, nhưng không thể khiến bản thân than đá rẻ đi mãi mãi, và giá nhiên liệu dao động khó lường.
+The sunlight and wind on which renewables depend, on the other hand, arrive free of charge, so the cost of their electricity is dominated by the hardware, which keeps getting cheaper. | Trái lại, ánh nắng và gió mà năng lượng tái tạo dựa vào thì đến miễn phí, nên chi phí điện của chúng chủ yếu nằm ở thiết bị, thứ ngày càng rẻ hơn.
+
+The implications are profound for policymakers. | Những hệ quả này rất sâu sắc đối với các nhà hoạch định chính sách.
+If the price of a technology falls with each doubling of its deployment, then early investment is not merely a cost but a way of accelerating its own reward. | Nếu giá một công nghệ giảm sau mỗi lần quy mô triển khai tăng gấp đôi, thì đầu tư sớm không chỉ là chi phí mà còn là cách đẩy nhanh chính phần thưởng của nó.
+Roser argues that most of the world's additional demand for electricity in coming decades will come from poorer countries, and that cheap renewables offer them a rare chance to grow without inflicting irreversible damage on the climate. | Roser lập luận rằng phần lớn nhu cầu điện tăng thêm của thế giới trong các thập kỷ tới sẽ đến từ các nước nghèo hơn, và năng lượng tái tạo giá rẻ cho họ một cơ hội hiếm có để phát triển mà không gây tổn hại không thể đảo ngược cho khí hậu.
+The broader lesson, he suggests, is that forecasters should pay particular attention to technologies on a learning curve, because they tend to be underestimated until, quite suddenly, they dominate. | Bài học rộng hơn, theo ông, là các nhà dự báo nên đặc biệt chú ý đến những công nghệ đang trên đường cong học tập, vì chúng thường bị đánh giá thấp cho đến khi, khá đột ngột, chúng chiếm lĩnh thị trường.
+
+=== rd-c2-awful-better-and-could-be-better
+title: Awful, Better, and Could Be Better | Tồi tệ, tốt hơn, và có thể tốt hơn nữa
+topic: health
+genre: argument
+names: Our World in Data, Max Roser, Roser, Niger, European Union
+gloss: statistic, statistics, statistician, complacency, measles, eradication
+source: The world is awful. The world is much better. The world can be much better. | Max Roser (2022), Our World in Data
+license: CC BY 4.0
+source-url: https://ourworldindata.org/much-better-awful-can-be-better
+
+Max Roser, the founder of Our World in Data, once distilled his outlook into three short sentences: the world is awful, the world is much better, and the world can be much better. | Max Roser, người sáng lập Our World in Data, từng cô đọng quan điểm của mình thành ba câu ngắn: thế giới thật tồi tệ, thế giới đã tốt hơn nhiều, và thế giới có thể tốt hơn nhiều nữa.
+All three statements, he insists, are true at the same time, and the difficulty lies in holding them together. | Ông khẳng định cả ba câu đều đúng cùng một lúc, và cái khó là giữ được cả ba trong đầu.
+Public debate, in his view, tends to gravitate toward one of them, and whichever one we choose on its own leads us astray. | Theo ông, tranh luận công khai thường bị hút về một trong ba câu, và bất kể ta chọn câu nào riêng lẻ thì nó cũng dẫn ta lạc lối.
+
+To illustrate his point, he uses one of the gravest tragedies of human life: the death of children. | Để minh họa, ông dùng một trong những bi kịch nặng nề nhất của đời người: cái chết của trẻ em.
+According to the most recent data available to him, about 4.4 per cent of all children in the world die before they reach the age of fifteen. | Theo số liệu mới nhất mà ông có, khoảng 4,4 phần trăm trẻ em trên thế giới chết trước khi tròn mười lăm tuổi.
+That amounts to roughly 5.9 million children every year, some sixteen thousand on an average day, or eleven every minute. | Con số đó tương đương khoảng 5,9 triệu trẻ em mỗi năm, chừng mười sáu nghìn em mỗi ngày, hay mười một em mỗi phút.
+A world in which this happens, Roser writes, is an awful world, and no statistic should be allowed to dilute its horror. | Roser viết, một thế giới để điều này xảy ra là một thế giới tồi tệ, và không con số thống kê nào được phép làm nhạt đi nỗi kinh hoàng của nó.
+
+Yet the historical record tells a very different story. | Thế nhưng ghi chép lịch sử lại kể một câu chuyện rất khác.
+Historians estimate that until the nineteenth century around half of all children died prematurely, before reaching adulthood, regardless of where in the world they were born. | Các nhà sử học ước tính rằng cho đến thế kỷ mười chín, khoảng một nửa số trẻ em chết yểu trước khi trưởng thành, bất kể chúng sinh ra ở đâu trên thế giới.
+Even in Niger, the country with the highest child mortality today, about fourteen per cent of children die, a rate that is tragically high but far lower than that of the most privileged societies a few generations ago. | Ngay cả ở Niger, quốc gia có tỷ lệ tử vong trẻ em cao nhất hiện nay, khoảng mười bốn phần trăm trẻ em tử vong, một tỷ lệ cao đến đau lòng nhưng thấp hơn nhiều so với những xã hội giàu có nhất cách đây vài thế hệ.
+Vaccination, the eradication of smallpox, clean water and better nutrition have brought about a transformation that our ancestors would have found almost unthinkable, and average lifespan has more than doubled. | Tiêm chủng, việc xóa sổ bệnh đậu mùa, nước sạch và dinh dưỡng tốt hơn đã tạo nên một sự chuyển biến mà tổ tiên chúng ta hẳn thấy gần như không tưởng, và tuổi thọ trung bình đã tăng hơn gấp đôi.
+A child vaccinated against measles today faces a small fraction of the risks that her great-grandparents faced. | Một đứa trẻ được tiêm vắc-xin sởi ngày nay chỉ đối mặt với một phần nhỏ những rủi ro mà ông bà cố của nó từng gặp.
+In this sense the world is not merely better; it is better on a scale that is difficult to grasp. | Theo nghĩa này, thế giới không chỉ tốt hơn; nó tốt hơn ở một quy mô khó mà hình dung hết.
+
+The third statement concerns what remains possible. | Câu thứ ba nói về những gì vẫn còn có thể làm được.
+In the European Union, the region with the best chances of survival, the child mortality rate is just under half of one per cent. | Ở Liên minh châu Âu, khu vực có cơ hội sống sót tốt nhất, tỷ lệ tử vong trẻ em chỉ dưới một nửa phần trăm.
+If children everywhere enjoyed the same prospects, Roser calculates, around five million fewer children would die each year, and the global toll would fall from 5.9 million to roughly 0.6 million. | Roser tính rằng nếu trẻ em ở mọi nơi đều có triển vọng như vậy, mỗi năm sẽ có ít hơn khoảng năm triệu trẻ tử vong, và con số thiệt mạng toàn cầu sẽ giảm từ 5,9 triệu xuống còn khoảng 0,6 triệu.
+Many of these deaths are caused by malnutrition, gastrointestinal infections and other diseases that are already preventable with existing knowledge. | Nhiều ca tử vong trong số này do suy dinh dưỡng, nhiễm trùng đường tiêu hóa và các bệnh khác vốn đã phòng ngừa được bằng kiến thức hiện có.
+
+The reason Roser insists on all three statements is psychological as well as factual. | Lý do Roser nhấn mạnh cả ba câu vừa mang tính tâm lý vừa mang tính thực tế.
+If we hear only about suffering, he argues, we lose hope that the future can be better, and despair breeds apathy. | Ông lập luận rằng nếu chỉ nghe về khổ đau, ta mất hy vọng rằng tương lai có thể tốt đẹp hơn, và tuyệt vọng sinh ra thờ ơ.
+If we hear only about progress, we succumb to complacency and lose sight of the problems that remain, and our satisfaction can become callous. | Nếu chỉ nghe về tiến bộ, ta sa vào tự mãn và không còn thấy những vấn đề còn tồn tại, và sự hài lòng của ta có thể trở nên vô cảm.
+Both of these narrow perspectives, despite their apparent opposition, have the same consequence: they leave us doing nothing. | Cả hai góc nhìn hẹp ấy, dù có vẻ đối lập, đều dẫn đến cùng một hệ quả: chúng khiến ta không làm gì cả.
+Roser is no naive optimist: he describes child mortality as a visceral daily catastrophe that the affluent world has learned to ignore. | Roser không phải người lạc quan ngây thơ: ông mô tả tử vong trẻ em là một thảm họa hằng ngày nhức nhối mà thế giới giàu có đã quen làm ngơ.
+Epidemiology offers tools to identify where interventions save the most lives, and many of them cost remarkably little. | Dịch tễ học cung cấp công cụ để xác định những can thiệp nào cứu được nhiều mạng sống nhất, và nhiều can thiệp trong số đó tốn rất ít tiền.
+
+His framework has been disparaged from several directions. | Khung tư duy của ông đã bị chê bai từ nhiều phía.
+Some argue that aggregate statistics conceal the deplorable inequalities within countries, while others contend that an emphasis on long-term progress can serve to condone the injustices of the present. | Có người cho rằng số liệu tổng hợp che giấu những bất bình đẳng đáng hổ thẹn trong nội bộ mỗi nước, người khác lại cho rằng việc nhấn mạnh tiến bộ dài hạn có thể bị dùng để dung túng cho những bất công hiện tại.
+Roser would probably accept the first point and reject the second, since his argument is precisely that past progress demonstrates the efficacy of deliberate action. | Roser có lẽ sẽ chấp nhận ý thứ nhất và bác bỏ ý thứ hai, vì lập luận của ông chính là tiến bộ trong quá khứ chứng minh hiệu quả của hành động có chủ đích.
+Whatever one's view, the formula offers a useful discipline for anyone who reads the news: before deciding how to feel about a problem, ask whether it is getting better, how bad it still is, and how much better it could become. | Dù quan điểm của bạn thế nào, công thức này cũng là một kỷ luật hữu ích cho bất kỳ ai đọc tin tức: trước khi quyết định cảm thấy thế nào về một vấn đề, hãy hỏi nó có đang tốt lên không, nó còn tệ đến đâu, và nó có thể tốt hơn đến mức nào.
+
+=== rd-c2-the-price-of-light
+title: The Price of Light | Giá của ánh sáng
+topic: history
+genre: explanation
+names: Our World in Data, Roger Fouquet, Fouquet, Peter Pearson, Pearson, William Nordhaus, Nordhaus, United Kingdom, British
+gloss: lumen, lumen-hour, lumen-hours, kilowatt-hour, candles, kerosene, lightbulbs, lightbulb, economist, economists, tallow, beeswax, diode, fumes
+source: Light at Night | Our World in Data (data: Fouquet & Pearson)
+license: CC BY 4.0
+source-url: https://ourworldindata.org/light
+
+For most of human history, light after dark was defined by its scarcity, and darkness set the limits of the working day. | Trong phần lớn lịch sử loài người, ánh sáng sau khi trời tối được định nghĩa bởi sự khan hiếm của nó, và bóng tối đặt giới hạn cho ngày làm việc.
+When the sun went down, reading, sewing and most forms of work became difficult or impossible, unless one could afford the expensive light of candles or oil lamps, a luxury beyond the means of the illiterate poor. | Khi mặt trời lặn, việc đọc, khâu vá và hầu hết các loại công việc trở nên khó khăn hoặc không thể làm được, trừ khi người ta đủ tiền mua thứ ánh sáng đắt đỏ của nến hoặc đèn dầu, một thứ xa xỉ vượt quá khả năng của người nghèo mù chữ.
+It is easy to forget how recent and how extraordinary the alternative is: the ability to flood a room with brilliant illumination at the touch of a switch, an act whose mundanity conceals a revolution. | Thật dễ quên rằng điều ngược lại mới mẻ và phi thường đến mức nào: khả năng làm cả căn phòng ngập trong ánh sáng rực rỡ chỉ bằng một cái bấm công tắc, một hành động mà vẻ tầm thường che giấu cả một cuộc cách mạng.
+
+Economic historians, most notably Roger Fouquet and Peter Pearson, have painstakingly reconstructed the price of lighting in the United Kingdom over seven centuries, and Our World in Data has summarized their findings. | Các nhà sử học kinh tế, nổi bật nhất là Roger Fouquet và Peter Pearson, đã công phu dựng lại giá chiếu sáng ở Vương quốc Anh qua bảy thế kỷ, và Our World in Data đã tóm tắt các phát hiện của họ.
+To make the comparison meaningful, they measured light in a standard unit, the lumen-hour, and adjusted all prices for inflation. | Để phép so sánh có ý nghĩa, họ đo ánh sáng bằng một đơn vị chuẩn là lumen-giờ, và điều chỉnh mọi mức giá theo lạm phát.
+In the fourteenth century, a million lumen-hours of light would have cost around thirty-four thousand pounds in today's money. | Vào thế kỷ mười bốn, một triệu lumen-giờ ánh sáng có giá khoảng ba mươi tư nghìn bảng theo giá tiền ngày nay.
+By 2023 the same quantity of light cost a little over two pounds, a decline of roughly sixteen thousand times. | Đến năm 2023, cùng lượng ánh sáng ấy chỉ còn giá hơn hai bảng một chút, giảm khoảng mười sáu nghìn lần.
+
+Three factors determine the price of light: the cost of the fuel, the cost of the equipment that burns it, and the efficiency with which that equipment converts energy into light. | Ba yếu tố quyết định giá của ánh sáng: giá nhiên liệu, giá thiết bị đốt nhiên liệu đó, và hiệu suất chuyển hóa năng lượng thành ánh sáng của thiết bị.
+For centuries progress on all three was sluggish, as households moved from tallow candles to beeswax, and the wealthy illuminated their houses with oil rendered from whale blubber, an industry that brought several species of whale to the brink of extinction. | Trong nhiều thế kỷ, tiến bộ ở cả ba mặt đều chậm chạp, khi các hộ gia đình chuyển từ nến mỡ động vật sang nến sáp ong, còn người giàu thắp sáng nhà cửa bằng dầu luyện từ mỡ cá voi, một ngành đã đẩy nhiều loài cá voi đến bờ tuyệt chủng.
+In 1700 the average lamp produced about thirty lumen-hours for every kilowatt-hour of energy consumed. | Năm 1700, một ngọn đèn trung bình cho khoảng ba mươi lumen-giờ cho mỗi kilowatt-giờ năng lượng tiêu thụ.
+The efficiency gains accrued slowly at first and then at an almost exponential pace, with the great leaps in the nineteenth and twentieth centuries, first with gas and kerosene, then with the electric lightbulb and, most recently, with the light-emitting diode. | Hiệu suất tăng dần lúc đầu chậm rồi gần như theo cấp số nhân, với những bước nhảy vọt lớn vào thế kỷ mười chín và hai mươi, trước hết với đèn khí và dầu hỏa, rồi với bóng đèn điện và gần đây nhất là đèn LED.
+By 2000 the efficiency of lighting had risen almost a thousandfold, and the newest technology has improved it further still. | Đến năm 2000, hiệu suất chiếu sáng đã tăng gần một nghìn lần, và công nghệ mới nhất còn cải thiện nó hơn nữa.
+
+The economist William Nordhaus ingeniously used the history of light to make a provocative point about how we measure prosperity. | Nhà kinh tế học William Nordhaus đã khéo léo dùng lịch sử ánh sáng để đưa ra một nhận định gây tranh luận về cách chúng ta đo lường sự thịnh vượng.
+Conventional statistics, he argued, track the prices of goods such as candles and lamps but fail to capture the immense improvement in the service they provide. | Ông lập luận rằng số liệu thống kê thông thường theo dõi giá của hàng hóa như nến và đèn nhưng không nắm bắt được sự cải thiện to lớn của dịch vụ mà chúng mang lại.
+Since a modern bulb gives far more and far better light than a candle, official measures of economic growth may grossly underestimate how much richer we have become. | Vì một bóng đèn hiện đại cho ánh sáng nhiều hơn và tốt hơn nến rất nhiều, các thước đo chính thức về tăng trưởng kinh tế có thể đánh giá quá thấp mức độ chúng ta đã giàu lên.
+His study became a classic illustration of the difficulty of comparing living standards across eras, and it remains a staple of debates about the methodology of economic statistics. | Nghiên cứu của ông trở thành một ví dụ kinh điển về sự khó khăn khi so sánh mức sống giữa các thời đại, và vẫn là đề tài quen thuộc trong các cuộc tranh luận về phương pháp luận của thống kê kinh tế.
+
+The social consequences of cheap light were pervasive and are still unfolding, although light is now so intrinsic to modern life that its cheapness is almost invisible to us. | Hệ quả xã hội của ánh sáng giá rẻ thấm vào mọi mặt và vẫn đang tiếp diễn, dù ánh sáng giờ gắn bó với đời sống hiện đại đến mức sự rẻ của nó gần như vô hình với chúng ta.
+Artificial illumination lengthened the productive day, engendered new industries, made evening education possible and turned the nighttime city into a place of leisure rather than danger. | Chiếu sáng nhân tạo kéo dài ngày làm việc, sinh ra những ngành công nghiệp mới, giúp việc học buổi tối trở nên khả thi và biến thành phố về đêm thành nơi giải trí thay vì nơi nguy hiểm.
+Yet hundreds of millions of people still lack access to electricity, and for them an hour of reading after sunset remains a costly luxury, and many rely on kerosene lamps whose fumes contain carbon monoxide. | Thế nhưng hàng trăm triệu người vẫn chưa có điện, và với họ một giờ đọc sách sau hoàng hôn vẫn là thứ xa xỉ tốn kém, và nhiều người phải dùng đèn dầu hỏa mà khói của nó chứa khí carbon monoxide.
+The story of light is therefore both a triumph of human ingenuity and a reminder that the benefits of progress are distributed with conspicuous unevenness. | Vì vậy câu chuyện về ánh sáng vừa là chiến thắng của trí khéo léo con người, vừa là lời nhắc rằng lợi ích của tiến bộ được phân bổ không đồng đều một cách lộ rõ.

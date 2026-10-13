@@ -14,9 +14,12 @@
 //   node scripts/content-mt.mjs fix <file>     đọc stdin "số-dòng|VI mới" → thay phần tiếng Việt của đúng dòng đó
 //
 // Dịch bằng Google Translate (endpoint web công khai, không cần khoá) — mỗi lô ≤ 4.500 ký tự, các dòng nối bằng "\n"
-// để máy thấy ngữ cảnh cả đoạn; lệch số dòng thì dịch lại từng dòng. Bản máy luôn phải đọc soát: hay sai xưng hô
+// để máy thấy ngữ cảnh cả đoạn; lệch số dòng thì dịch lại từng dòng.
+// CONTENT_MT_ENGINE=apple → dùng bộ dịch có sẵn của macOS (scripts/apple-translate.swift, tự biên dịch lần đầu): chạy trên
+// máy, không giới hạn lượt, dịch từng dòng riêng; cần macOS 26+ và đã tải gói English + Tiếng Việt trong Cài đặt hệ thống. Bản máy luôn phải đọc soát: hay sai xưng hô
 // ("bạn", "anh ấy"), đổi số chữ thành số ("eleven" → "11"), dùng từ miền Nam ("chén", "trái").
-import { readFileSync, writeFileSync } from "node:fs";
+import { readFileSync, writeFileSync, statSync } from "node:fs";
+import { spawnSync } from "node:child_process";
 import { resolve, relative, join } from "node:path";
 import { tmpdir } from "node:os";
 import { loadLibrary, ROOT } from "./lib/content-model.mjs";
@@ -66,7 +69,29 @@ async function translateChunk(chunk) {
   const h = Math.ceil(chunk.length / 2);
   return [...(await translateChunk(chunk.slice(0, h))), ...(await translateChunk(chunk.slice(h)))];
 }
+// Bộ dịch macOS: biên dịch helper Swift vào thư mục tạm khi chưa có hoặc nguồn mới hơn, gửi cả lô qua stdin (JSON).
+function appleTranslate(lines) {
+  const src = join(ROOT, "scripts", "apple-translate.swift");
+  const bin = join(tmpdir(), "content-mt-apple");
+  let stale = true;
+  try {
+    stale = statSync(bin).mtimeMs < statSync(src).mtimeMs;
+  } catch {}
+  if (stale) {
+    const c = spawnSync("swiftc", ["-O", "-parse-as-library", src, "-o", bin], { encoding: "utf8" });
+    if (c.status !== 0) throw new Error(`biên dịch apple-translate.swift lỗi:\n${c.stderr}`);
+  }
+  const r = spawnSync(bin, { input: JSON.stringify(lines), encoding: "utf8", maxBuffer: 64 << 20 });
+  if (r.status !== 0) throw new Error(r.stderr.trim() || `apple-translate thoát mã ${r.status}`);
+  return JSON.parse(r.stdout);
+}
+
 export async function translateLines(lines) {
+  if (process.env.CONTENT_MT_ENGINE === "apple")
+    return appleTranslate(lines).map((v, k) => {
+      const t = tidy(v);
+      return /[a-z]{3}/i.test(lines[k]) && t.toLowerCase() === lines[k].trim().toLowerCase() ? "~" : t;
+    });
   const out = [];
   let i = 0;
   while (i < lines.length) {
