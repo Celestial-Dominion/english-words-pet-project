@@ -2,7 +2,9 @@
 //   node scripts/build-content.mjs [--force] [--prune]
 // 1) kiểm (lỗi → dừng, trừ --force); 2) JSON từng bài + chỉ mục + word-refs; 3) manifest audio
 // scripts/out/content-audio.json cho build-content-audio.py; 4) ghép mốc thời gian audio đã có
-// (scripts/.content-audio/{key}.json). --prune: xoá JSON/MP3/timing không còn dùng.
+// (scripts/.content-audio/{key}.json); 5) manifest audio câu hỏi đọc hiểu scripts/out/audio-quiz.json cho
+// build-audio.py (1 MP3/câu hỏi, tên = hashLong(chữ) → public/audio/library/quiz/; chỉ gắn `audio` vào JSON khi
+// file đã có). --prune: xoá JSON/MP3/timing không còn dùng.
 // Quy trình đủ: npm run content:build  (= build → audio → build lại để ghép mốc).
 import { createHash } from "node:crypto";
 import { existsSync, mkdirSync, readFileSync, readdirSync, rmSync, writeFileSync } from "node:fs";
@@ -12,6 +14,7 @@ import { profileOf, ROOT } from "./lib/content-model.mjs";
 import { LEVEL_KEYS, loadVocab, ipaOf } from "./lib/en-vocab.mjs";
 import { SPEC, NARRATOR, minutesOf } from "./lib/content-spec.mjs";
 import { lineTokens } from "../lib/video.ts";
+import { hashLong } from "../lib/slug.ts";
 
 const args = process.argv.slice(2);
 const FORCE = args.includes("--force");
@@ -20,6 +23,8 @@ const OUT = join(ROOT, "public", "data", "library");
 const AUDIO = join(ROOT, "public", "audio", "library");
 const TIMING = join(ROOT, "scripts", ".content-audio");
 const MANIFEST = join(ROOT, "scripts", "out", "content-audio.json");
+const QUIZ_AUDIO = join(AUDIO, "quiz");
+const QUIZ_MANIFEST = join(ROOT, "scripts", "out", "audio-quiz.json");
 
 const sha = (s) => createHash("sha1").update(s).digest("hex");
 const writeJson = (p, o) => writeFileSync(p, JSON.stringify(o));
@@ -41,10 +46,18 @@ const meaning = (id) => String(v.words.get(id)?.meaning_vi ?? "").trim();
 
 // Câu hỏi đọc hiểu (content/quiz) → [{q:{en,vi}, opts:[{en,vi}], a, why}] — a = chỉ số phương án đúng trong nguồn
 // (giao diện xáo lại mỗi lần mở). Khoá: id bài đọc, "id#n" cho chương n của truyện.
+// Audio câu hỏi: 1 MP3/chữ câu hỏi (khử trùng giữa các bài), chỉ gắn khi file đã sinh.
+const quizClips = new Map(); // file → chữ
+const quizHave = new Set(existsSync(QUIZ_AUDIO) ? readdirSync(QUIZ_AUDIO) : []);
 const quizOf = (key) => {
   const b = quiz.blocks.get(key);
   if (!b) return undefined;
-  return b.questions.map((q) => ({ q: q.q, opts: q.opts.map(({ en, vi }) => ({ en, vi })), a: q.opts.findIndex((o) => o.ok), why: q.why }));
+  return b.questions.map((q) => {
+    const file = `${hashLong(q.q.en)}.mp3`;
+    quizClips.set(file, q.q.en);
+    const audio = quizHave.has(file) ? { audio: `/audio/library/quiz/${file}` } : {};
+    return { q: q.q, opts: q.opts.map(({ en, vi }) => ({ en, vi })), a: q.opts.findIndex((o) => o.ok), why: q.why, ...audio };
+  });
 };
 const sourceDoc = (m) => (m.source ? { source: { title: m.source.title, credit: m.source.credit, license: m.source.license, url: m.source.url } } : {});
 
@@ -320,6 +333,8 @@ shards.forEach((s, i) => writeJson(join(OUT, "word-refs", `${i}.json`), s));
 mkdirSync(join(ROOT, "scripts", "out"), { recursive: true });
 writeJson(MANIFEST, jobs);
 const missing = jobs.filter((j) => !timingOf(j.key));
+writeJson(QUIZ_MANIFEST, [...quizClips].map(([file, text]) => ({ text, file })));
+const quizMissing = [...quizClips.keys()].filter((f) => !quizHave.has(f)).length;
 
 // ---- dọn ----
 if (PRUNE) {
@@ -339,6 +354,11 @@ if (PRUNE) {
         n++;
       }
   }
+  for (const f of quizHave)
+    if (!quizClips.has(f)) {
+      rmSync(join(QUIZ_AUDIO, f));
+      n++;
+    }
   const keys = new Set(jobs.map((j) => j.key));
   for (const f of readdirSync(TIMING))
     if (!keys.has(f.replace(/\.json$/, ""))) {
@@ -350,5 +370,5 @@ if (PRUNE) {
 
 const nQuiz = [...quiz.blocks.values()].reduce((n, b) => n + b.questions.length, 0);
 console.log(
-  `thư viện: ${rIndex.length} reading · ${sIndex.length} story · ${vIndex.length}/${videosAll.length} video có audio · audio thiếu ${missing.length}/${jobs.length} track · ${nQuiz} câu hỏi đọc hiểu (${quiz.blocks.size} bài/chương)`,
+  `thư viện: ${rIndex.length} reading · ${sIndex.length} story · ${vIndex.length}/${videosAll.length} video có audio · audio thiếu ${missing.length}/${jobs.length} track · ${nQuiz} câu hỏi đọc hiểu (${quiz.blocks.size} bài/chương), audio câu hỏi thiếu ${quizMissing}/${quizClips.size}`,
 );

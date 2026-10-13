@@ -23,6 +23,7 @@ export interface QuizQuestion {
   opts: LibSentence[];
   a: number;
   why: string;
+  audio?: string; // "/audio/library/quiz/<hashLong(q.en)>.mp3" — chỉ có khi file đã sinh
 }
 
 // Bài phỏng theo nguồn mở: tên gốc, tác giả/tuyển tập, giấy phép (khoá trong LICENSES), đường dẫn nguồn (GitHub hoặc trang gốc).
@@ -156,6 +157,9 @@ export const loadVideo = (id: string) => load<VideoLesson>(`${DIR}/videos/${enco
 export function passageAudioUrl(a: PassageAudio): string {
   return `${BASE}${a.src}?v=${a.v}`;
 }
+
+/** URL audio câu hỏi đọc hiểu (tên file = hash chữ câu hỏi → không cần ?v=). */
+export const quizAudioUrl = (src: string) => `${BASE}${src}`;
 
 // ---- Chỉ mục từ → học liệu ("Gặp lại trong ngữ cảnh", gợi ý sau phiên học) ----
 // Shard theo exampleShardOf(lemma); mỗi shard mang `n` = [số reading, story, video] lúc build — lệch

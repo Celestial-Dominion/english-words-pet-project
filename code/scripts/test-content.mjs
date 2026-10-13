@@ -1,6 +1,6 @@
 // Unit test tooling học liệu: hình thái học tiếng Anh, tách từ, parser nguồn, hàm thuần Video.
 // Chạy: node scripts/test-content.mjs  (nằm trong npm test)
-import { writeFileSync, mkdtempSync } from "node:fs";
+import { writeFileSync, mkdtempSync, readdirSync, readFileSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { join } from "node:path";
 import { analyzeSentence, analyzeWord, lemmaOf, ipaOf, profile, LEVEL_KEYS } from "./lib/en-vocab.mjs";
@@ -9,6 +9,7 @@ import { parseAnnotations } from "./lib/content-model.mjs";
 import { checkQuizBlock, quoteFound, quotesOf } from "./lib/quiz-check.mjs";
 import { quizPassMin, quizPassed, quizScore, shuffledOrder, splitQuotes } from "../lib/quiz-pure.ts";
 import { lineTokens, wordCount, lineIndexAt, wordAt, keyRanges, castOnStage, sceneAt } from "../lib/video.ts";
+import { hashLong } from "../lib/slug.ts";
 
 let pass = 0;
 let fail = 0;
@@ -218,6 +219,19 @@ eq("IPA không bịa: tên lạ", ipaOf("Zyxworth"), "");
   eq("castOnStage from/until", [castOnStage({ from: 3 }, 1), castOnStage({ from: 3 }, 2), castOnStage({ until: 2 }, 4)], [false, true, false]);
   const st = sceneAt({ cast: { a: {}, b: {} }, lines: [{ speaker: "a", expression: "happy", start: 1, react: { b: "sad" } }] }, 0);
   eq("sceneAt biểu cảm + react", [st.a.expression, st.b.expression], ["happy", "sad"]);
+}
+
+// ---- dữ liệu đã build: mọi câu hỏi đọc hiểu có audio, tên file = hashLong(chữ câu hỏi) ----
+{
+  const lib = join(import.meta.dirname, "..", "public", "data", "library");
+  const qs = [];
+  for (const dir of ["readings", "stories"])
+    for (const f of readdirSync(join(lib, dir))) {
+      const d = JSON.parse(readFileSync(join(lib, dir, f), "utf8"));
+      for (const quiz of [d.quiz, ...(d.chapters ?? []).map((c) => c.quiz)]) if (quiz) qs.push(...quiz);
+    }
+  const bad = qs.filter((q) => q.audio !== `/audio/library/quiz/${hashLong(q.q.en)}.mp3`).map((q) => q.q.en);
+  eq(`audio câu hỏi: ${qs.length} câu đều có, đúng tên`, [qs.length > 10000, bad.slice(0, 3)], [true, []]);
 }
 
 console.log(`test-content: ${pass} đạt, ${fail} lỗi`);

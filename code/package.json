@@ -16,7 +16,7 @@
     "content:coverage": "node --no-warnings scripts/content-coverage.mjs",
     "content:gaps": "node --no-warnings scripts/content-coverage.mjs --gaps",
     "content:audio": "scripts/.venv-tts/bin/python scripts/build-content-audio.py",
-    "content:build": "node --no-warnings scripts/build-content.mjs && scripts/.venv-tts/bin/python scripts/build-content-audio.py && node --no-warnings scripts/build-content.mjs --prune",
+    "content:build": "node --no-warnings scripts/build-content.mjs && scripts/.venv-tts/bin/python scripts/build-content-audio.py && scripts/.venv-tts/bin/python scripts/build-audio.py out/audio-quiz.json ../public/audio/library/quiz --jobs 48 && node --no-warnings scripts/build-content.mjs --prune",
     "content:report": "node --no-warnings scripts/content-report.mjs",
     "content:kit": "node --no-warnings scripts/content-kit.mjs",
     "content:mt": "node --no-warnings scripts/content-mt.mjs",

@@ -4,11 +4,14 @@
 Dùng:
     python3 scripts/build-audio.py out/audio-words.json     ../public/audio/words
     python3 scripts/build-audio.py out/audio-sentences.json ../public/audio/sentences
+    python3 scripts/build-audio.py out/audio-quiz.json      ../public/audio/library/quiz --jobs 48
 
 Manifest = JSON list [{ "text": "...", "file": "xxxx.mp3", "voice": "..." (tuỳ chọn) }].
 Không ghi "voice" thì dùng giọng mặc định; hội thoại 2 vai ghi giọng nam cho vai thứ 2.
 Resume: bỏ qua file đã tồn tại & > 0 byte → chạy lại nhiều đợt an toàn.
+--jobs N: số request edge-tts song song (mặc định 8; 48 chạy ổn với câu ngắn).
 """
+import argparse
 import asyncio
 import json
 import os
@@ -97,16 +100,21 @@ async def synth(sem, text, out_path, stats, bar, voice=None):
 
 
 async def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("manifest")
+    ap.add_argument("out_dir")
+    ap.add_argument("--jobs", type=int, default=CONCURRENCY)
+    a = ap.parse_args()
     here = os.path.dirname(os.path.abspath(__file__))
     resolve = lambda p: p if os.path.isabs(p) else os.path.join(here, p)  # noqa: E731
-    manifest_path, out_dir = resolve(sys.argv[1]), resolve(sys.argv[2])
+    manifest_path, out_dir = resolve(a.manifest), resolve(a.out_dir)
     os.makedirs(out_dir, exist_ok=True)
 
     with open(manifest_path, encoding="utf-8") as f:
         items = json.load(f)
-    print(f"Manifest: {len(items)} mục → {out_dir}", file=sys.stderr, flush=True)
+    print(f"Manifest: {len(items)} mục → {out_dir} · {a.jobs} luồng", file=sys.stderr, flush=True)
 
-    sem = asyncio.Semaphore(CONCURRENCY)
+    sem = asyncio.Semaphore(a.jobs)
     stats = {"ok": 0, "skip": 0, "err": 0}
     bar = Progress(len(items), os.path.basename(out_dir))
     await asyncio.gather(

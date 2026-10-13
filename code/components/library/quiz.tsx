@@ -4,11 +4,13 @@
 // ngay (không đổi được): đáp án đúng tô xanh, chọn sai tô đỏ, rồi lộ nghĩa mọi phương án + lời giải thích trích
 // «nguyên văn» câu trong bài. Phương án xáo lại mỗi lần mở / Làm lại. Không lưu điểm. Có autoMark (bài đọc / chương
 // cuối truyện): trả lời xong câu cuối → onFinish(đạt?) để cha tự đánh dấu Đã đọc khi đạt (không bao giờ tự bỏ đánh
-// dấu), khung tổng kết báo lại. Cha đặt key theo bài/chương để đổi bài là trạng thái mới. Chữ câu hỏi bấm-tra được.
+// dấu), khung tổng kết báo lại. Cha đặt key theo bài/chương để đổi bài là trạng thái mới. Chữ câu hỏi bấm-tra được;
+// nút loa đọc câu hỏi (chỉ câu hỏi — đáp án không có audio; nút nằm ngoài khối đáp án để không bấm nhầm thành chọn).
 import { useState } from "react";
-import { Check, RotateCcw, X } from "lucide-react";
+import { Check, RotateCcw, Volume2, X } from "lucide-react";
 import { quizPassMin, quizPassed, quizScore, shuffledOrder, splitQuotes } from "@/lib/quiz-pure";
-import type { QuizQuestion } from "@/lib/library";
+import { quizAudioUrl, type QuizQuestion } from "@/lib/library";
+import { playAudio } from "@/lib/tts";
 import { cn } from "@/lib/utils";
 import { Words } from "./passage-view";
 
@@ -80,12 +82,25 @@ export function Quiz({
           const pick = picks[i];
           const answered = pick !== undefined;
           const right = pick === q.a;
+          const audio = q.audio;
           return (
             <li key={i}>
-              <p className="text-[1.06rem] leading-relaxed font-medium sm:text-[1.12rem]">
-                <span className="mr-1.5 text-base font-semibold text-muted-foreground">{i + 1}.</span>
-                <Words text={q.q.en} onTap={onTapWord} />
-              </p>
+              <div className="flex items-start justify-between gap-2">
+                <p className="text-[1.06rem] leading-relaxed font-medium sm:text-[1.12rem]">
+                  <span className="mr-1.5 text-base font-semibold text-muted-foreground">{i + 1}.</span>
+                  <Words text={q.q.en} onTap={onTapWord} />
+                </p>
+                {audio && (
+                  <button
+                    type="button"
+                    onClick={() => playAudio(quizAudioUrl(audio))}
+                    aria-label="Nghe câu hỏi"
+                    className="grid size-8 shrink-0 place-items-center rounded-full bg-primary/10 text-primary active:scale-95"
+                  >
+                    <Volume2 className="size-4" />
+                  </button>
+                )}
+              </div>
               {(showVi || answered) && <p className="mt-1 border-l-[3px] border-primary/30 pl-3 text-[0.95rem] text-muted-foreground">{q.q.vi}</p>}
               <div className="mt-3 grid gap-2">
                 {(orders[i] ?? []).map((oi, k) => {
