@@ -6,6 +6,7 @@ import type { SpellVerdict } from "@/lib/spell";
 import type { Word } from "@/lib/types";
 import type { ExampleSentence } from "@/lib/data";
 import { posLabel } from "@/lib/pos";
+import { playAudio, sentenceAudioUrl } from "@/lib/tts";
 import { cn } from "@/lib/utils";
 
 /**
@@ -78,9 +79,18 @@ export default function SpellCard({
           )}
           <div className="text-sm leading-relaxed">{word.meaning_vi}</div>
           {examples?.slice(0, 1).map((s) => (
-            <div key={s.en} className="border-t pt-2 text-left text-sm">
-              <div className="font-medium">{s.en}</div>
-              <div className="text-muted-foreground">{s.vi}</div>
+            <div key={s.en} className="flex items-start justify-between gap-2 border-t pt-2 text-left text-sm">
+              <div>
+                <div className="font-medium">{s.en}</div>
+                <div className="text-muted-foreground">{s.vi}</div>
+              </div>
+              <button
+                onClick={() => playAudio(sentenceAudioUrl(s.en))}
+                aria-label="Nghe câu"
+                className="grid size-7 shrink-0 place-items-center rounded-full bg-primary/10 text-primary active:scale-95"
+              >
+                <Volume2 className="size-3.5" />
+              </button>
             </div>
           ))}
         </div>

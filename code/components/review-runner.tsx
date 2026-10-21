@@ -876,13 +876,34 @@ export default function ReviewRunner({
             >
               {q.kind === "cloze" ? (
                 <>
-                  <div className="text-xl leading-relaxed sm:text-2xl">
-                    {q.clozeBefore}
-                    <span className="mx-1 inline-flex min-w-[3ch] justify-center rounded-lg border-2 border-dashed border-primary/60 px-2 align-middle font-bold text-primary">
-                      ?
-                    </span>
-                    {q.clozeAfter}
-                  </div>
+                  {chosen !== null ? (
+                    /* đã trả lời → câu HOÀN CHỈNH (từ điền vào chỗ trống, đúng hoa/thường như
+                       trong câu) + nút nghe lại cả câu (như HSK) */
+                    <div className="flex items-start justify-center gap-2">
+                      <div className="text-xl leading-relaxed sm:text-2xl">
+                        {q.clozeBefore}
+                        <span className="font-bold text-primary">
+                          {q.clozeEn.slice(q.clozeBefore.length, q.clozeEn.length - q.clozeAfter.length)}
+                        </span>
+                        {q.clozeAfter}
+                      </div>
+                      <button
+                        onClick={() => play(sentenceAudioUrl(q.clozeEn))}
+                        aria-label="Nghe lại câu"
+                        className="mt-0.5 grid size-9 shrink-0 place-items-center rounded-full bg-primary/10 text-primary active:scale-95"
+                      >
+                        <Volume2 className="size-[1.125rem]" />
+                      </button>
+                    </div>
+                  ) : (
+                    <div className="text-xl leading-relaxed sm:text-2xl">
+                      {q.clozeBefore}
+                      <span className="mx-1 inline-flex min-w-[3ch] justify-center rounded-lg border-2 border-dashed border-primary/60 px-2 align-middle font-bold text-primary">
+                        ?
+                      </span>
+                      {q.clozeAfter}
+                    </div>
+                  )}
                   {/* nghĩa câu: mặc định giấu lúc đang làm; trả lời xong mới hiện */}
                   {(config.sentenceVi || chosen !== null) && (
                     <div className="text-sm text-muted-foreground">{q.clozeVi}</div>
