@@ -8,6 +8,7 @@ import {
   seededShuffle,
   meaningTooSimilar,
   optionMeaningMap,
+  optionWordMap,
   selectDistinctExercises,
   shortMeaningVi,
   spreadSameWord,
@@ -54,6 +55,9 @@ export type Question =
       // Câu có phương án là từ tiếng Anh (reverse): sau khi chấm, lộ nghĩa của
       // cả 4 lựa chọn như app HSK. Dùng map theo id để xáo lại vẫn không lệch nghĩa.
       optionMeanings?: Record<string, string>;
+      // Ngược lại, phương án là nghĩa Việt (meaning/listen): sau khi chấm, dưới mỗi nghĩa
+      // lộ từ tiếng Anh + IPA của nó (HSK: nghĩa nhiễu hiện chữ Hán). Khóa = chuỗi phương án.
+      optionWords?: Record<string, { en: string; ipa: string }>;
       answer: number;
       exs?: ExampleSentence[]; // 1-2 câu ví dụ cho thẻ chi tiết SAU khi trả lời
     }
@@ -221,10 +225,16 @@ function pickDistractors(word: Word, pool: Word[], n = 3, wordOptions = false): 
   return out;
 }
 
+/** Bộ 4 phương án là NGHĨA Việt rút gọn, kèm từ Anh + IPA của từng nghĩa để chữa bài. */
+function meaningOptions(word: Word, pool: Word[]) {
+  const words = [word, ...pickDistractors(word, pool)];
+  const options = shuffle(words.map(shortVi));
+  return { options, optionWords: optionWordMap(words), answer: options.indexOf(shortVi(word)) };
+}
+
 /** MCQ nghĩa: hiện từ Anh → chọn nghĩa Việt đúng. */
 function meaningFor(word: Word, pool: Word[], isNew: boolean): Question {
-  const options = shuffle([shortVi(word), ...pickDistractors(word, pool).map(shortVi)]);
-  return { kind: "mcq", mode: "meaning", word, graded: true, isNew, prompt: word.id, options, answer: options.indexOf(shortVi(word)) };
+  return { kind: "mcq", mode: "meaning", word, graded: true, isNew, prompt: word.id, ...meaningOptions(word, pool) };
 }
 
 /** MCQ ngược: hiện nghĩa Việt → chọn từ Anh đúng. */
@@ -237,8 +247,7 @@ function reverseFor(word: Word, pool: Word[], isNew: boolean): Question {
 
 /** MCQ nghe: phát audio từ → chọn nghĩa Việt đúng. */
 function listenFor(word: Word, pool: Word[], isNew: boolean): Question {
-  const options = shuffle([shortVi(word), ...pickDistractors(word, pool).map(shortVi)]);
-  return { kind: "mcq", mode: "listen", word, graded: true, isNew, prompt: word.id, options, answer: options.indexOf(shortVi(word)) };
+  return { kind: "mcq", mode: "listen", word, graded: true, isNew, prompt: word.id, ...meaningOptions(word, pool) };
 }
 
 // Tìm vị trí từ (nguyên từ, không phân biệt hoa thường) trong câu ví dụ để khoét chỗ trống.

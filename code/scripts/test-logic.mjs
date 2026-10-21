@@ -23,6 +23,7 @@ import {
   rankByKnown,
   selectDistinctExercises,
   optionMeaningMap,
+  optionWordMap,
 } from "../lib/srs-pure.ts";
 import { lookalikeScore } from "../lib/spell.ts";
 import {
@@ -112,6 +113,20 @@ t("nghĩa chữa bài bám theo từ dù phương án bị xáo lại", () => {
   const meanings = optionMeaningMap(words);
   for (const option of [...words].reverse())
     assert.equal(meanings[option.id], option.meaning_vi);
+});
+
+t("phương án nghĩa Việt lộ đúng từ Anh + IPA, trùng nghĩa rút gọn giữ từ đầu", () => {
+  const words = [
+    { id: "adapt", meaning_vi: "thích nghi; điều chỉnh", ipa: "/əˈdæpt/" },
+    { id: "adopt", meaning_vi: "nhận nuôi; áp dụng", ipa: "/əˈdɑːpt/" },
+    { id: "adjust", meaning_vi: "điều chỉnh; thích ứng", ipa: "/əˈdʒʌst/" },
+    { id: "tune", meaning_vi: "điều chỉnh; giai điệu" },
+  ];
+  const map = optionWordMap(words);
+  assert.deepEqual(map["thích nghi"], { en: "adapt", ipa: "/əˈdæpt/" });
+  assert.deepEqual(map["nhận nuôi"], { en: "adopt", ipa: "/əˈdɑːpt/" });
+  assert.deepEqual(map["điều chỉnh"], { en: "adjust", ipa: "/əˈdʒʌst/" });
+  assert.equal(Object.keys(map).length, 3);
 });
 
 // ---- leech / mature ----

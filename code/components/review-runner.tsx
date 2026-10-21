@@ -951,6 +951,7 @@ export default function ReviewRunner({
                   const isChosen = idx === chosen;
                   const show = chosen !== null;
                   const optionMeaning = q.optionMeanings?.[opt];
+                  const optionWord = q.kind === "mcq" ? q.optionWords?.[opt] : undefined;
                   return (
                     <button
                       key={idx}
@@ -978,12 +979,19 @@ export default function ReviewRunner({
                         {idx + 1}
                       </span>
                       <span className="min-w-0">
-                        <span className={cn("block", show && optionMeaning && "font-semibold leading-tight")}>{opt}</span>
+                        <span className={cn("block", show && optionMeaning && "font-semibold leading-tight", show && optionWord && "leading-tight")}>{opt}</span>
                         {/* Như HSK: sau khi chấm, biến cả 4 phương án tiếng Anh thành
                             một mini-bài học bằng cách lộ nghĩa của cả đáp án đúng lẫn nhiễu. */}
                         {show && optionMeaning && (
                           <span className="mt-0.5 block text-xs font-normal leading-snug opacity-70">
                             {optionMeaning}
+                          </span>
+                        )}
+                        {/* Chiều ngược (phương án là nghĩa Việt): lộ từ tiếng Anh + IPA của mỗi nghĩa */}
+                        {show && optionWord && (
+                          <span className="mt-0.5 block truncate text-xs font-normal opacity-70">
+                            <span className="text-sm font-semibold">{optionWord.en}</span>
+                            {optionWord.ipa && <span className="font-mono"> · {optionWord.ipa}</span>}
                           </span>
                         )}
                       </span>

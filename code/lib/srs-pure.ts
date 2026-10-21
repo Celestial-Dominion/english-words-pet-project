@@ -20,6 +20,21 @@ export function optionMeaningMap(
   return Object.fromEntries(words.map((word) => [word.id, word.meaning_vi.trim()]));
 }
 
+/** Chiều ngược của optionMeaningMap — phương án là NGHĨA VIỆT (nhìn/nghe từ → chọn nghĩa):
+ *  nghĩa rút gọn → từ tiếng Anh + IPA, để sau khi chấm lộ "lai lịch" cả 4 phương án như HSK
+ *  (nghĩa nhiễu hiện chữ Hán). Khóa theo chính chuỗi phương án nên xáo lại vẫn khớp; hai nghĩa
+ *  rút gọn trùng nhau (chỉ xảy ra khi kho nhiễu cạn) thì giữ từ đầu tiên. */
+export function optionWordMap(
+  words: ReadonlyArray<{ id: string; meaning_vi: string; ipa?: string }>,
+): Record<string, { en: string; ipa: string }> {
+  const out: Record<string, { en: string; ipa: string }> = {};
+  for (const w of words) {
+    const key = shortMeaningVi(w.meaning_vi);
+    if (!(key in out)) out[key] = { en: w.id, ipa: (w.ipa ?? "").trim() };
+  }
+  return out;
+}
+
 /** Quên ≥4 lần = thẻ "hay quên" (leech) — được ôn lại kỹ bằng thẻ learn trước khi hỏi. */
 export const LEECH_LAPSES = 4;
 /** Nhớ bền: FSRS stability ≥ 21 ngày. */
